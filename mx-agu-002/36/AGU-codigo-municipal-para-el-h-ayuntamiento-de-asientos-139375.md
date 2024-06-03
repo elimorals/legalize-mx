@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-para-el-h-ayuntamiento-de-asientos-139375"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-14"
-last_updated: "2024-04-22"
+last_updated: "2024-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "AGU"
 
 > <small>[N. DE E. LAS REFORMAS AL CÓDIGO MUNICIPAL PARA ASIENTOS, AGUASCALIENTES, EXPEDIDAS POR EL H. MUNICIPIO DE ASIENTOS, PUBLICADAS EN EL P.O. DE 22 DE ABRIL DE 2024, MODIFICARON DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE JUNIO DE 2024 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL PARA ASIENTOS DEL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 3 DE JUNIO DE 2024.]</small>
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de octubre de 2019.
 
@@ -2517,7 +2517,7 @@ k) Delegados, Comisarios y Jefe de Pueblo;
 
 l) Comités Comunitarios de Planeación, Gestión y Participación Comunitaria.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO, P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 m) Asuntos Internos de Seguridad Pública.
 
@@ -8397,11 +8397,15 @@ Para efectos del presente artículo el Consejo Municipal de Seguridad Pública n
 
 El Gobernador del Estado, en los casos que juzgue como de fuerza mayor o alteración grave del orden público, dispondrá de la Policía Preventiva. Del ejercicio de esta facultad, informará al Congreso del Estado por escrito.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 834°.
 
 Las autoridades de Seguridad Pública serán las encargadas de prevenir la comisión de delitos, poner a disposición del Juez Cívico a los infractores de faltas de policía y otras de carácter administrativo cometido en el territorio municipal, y levantar actas de infracciones de movilidad.
+
+(REFORMADO, P.O. 6 DE ABRIL DE 2020) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+Asimismo, combatirán las causas que generan la comisión de faltas, delitos y conductas antisociales, formulando y desarrollando políticas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
 
 > <small>(REFORMADO, P.O. 6 DE ABRIL DE 2020)</small>
 
@@ -8451,9 +8455,9 @@ ARTÍCULO 840° BIS. Ninguna persona deberá conducir un vehículo por la vía p
 
 ARTÍCULO 840° TER. En caso de reincidencia, el conductor, además de las sanciones que correspondan, el vehículo será remitido a la pensión municipal y quedará a disposición de las autoridades competentes, en garantía de la multa impuesta, hasta que el infractor cubra la misma.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO, P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-ARTÍCULO 840° CUATER (SIC). En caso de reincidencia por tercera ocasión, el conductor, adicionalmente, deberá inscribirse en alguno de los programas de rehabilitación para personas alcohólicas y farmacodependientes ofertados por la Secretaria de Salud del Estado de Aguascalientes. Asimismo, no le será devuelto el vehículo hasta en tanto no concluya con el programa.
+ARTÍCULO 840° CUATER. En caso de reincidencia por tercera ocasión, el conductor, adicionalmente, deberá inscribirse en alguno de los programas de rehabilitación para personas alcohólicas y farmacodependientes ofertados por la Secretaria de Salud del Estado de Aguascalientes. Asimismo, no le será devuelto el vehículo hasta en tanto no concluya con el programa.
 
 El Juez Cívico será el servidor público facultado para verificar el cumplimiento de lo dispuesto por este artículo y el REGLAMENTO DE JUSTICIA CÍVICA PARA EL MUNICIPIO DE ASIENTOS
 
@@ -10453,7 +10457,7 @@ No surtirán efectos los actos, convenios y contratos relativos a la propiedad o
 
 No surtirán efectos los permisos, autorizaciones o licencias que contravengan lo establecido en este Código, y en los Programas de Desarrollo Urbano.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1034], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1034], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1044°.
 
@@ -10535,19 +10539,19 @@ XXXVI. Las demás que les señalen este Código y otras disposiciones jurídicas
 
 ### CAPÍTULO II. De la Planeación del Desarrollo Urbano Municipal
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1035], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1035], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1045°.
 
 La planeación y regulación de la fundación, conservación, mejoramiento y crecimiento de los centros de población, y del ordenamiento territorial de los asentamientos humanos y del desarrollo urbano de los centros de población, constituyen las acciones fundamentales a fin de lograr un desarrollo armónico y equilibrado en todo el territorio estatal.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1036], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1036], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1046°.
 
 Para los efectos del presente Código, se entiende por planeación urbana la ordenación y regulación de los asentamientos humanos en la Entidad, a través de acciones, inversiones, obras y servicios, que con base en el ejercicio de las atribuciones de las autoridades competentes en materia de fundación, conservación, mejoramiento y crecimiento de los centros de población, tienen como propósito alcanzar el desarrollo urbano estatal y municipal, de conformidad con lo que establece este Código y con los objetivos, metas, políticas e instrumentos previstos en los programas de desarrollo urbano y en la determinación de provisiones, reservas, usos y destinos de áreas y predios.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1037], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1037], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1047°.
 
@@ -10569,13 +10573,13 @@ III. Los programas regionales de desarrollo urbano; y
 
 IV. Los programas subregionales de desarrollo urbano.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1038], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1038], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1048°.
 
 Para efectos del artículo anterior, los programas de desarrollo urbano básicos, son aquellos que establece la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano, como indispensables para la planeación urbana local. Los programas derivados, son aquellos que se desprenden de los básicos y tienen como finalidad regular un área o sector del desarrollo urbano con un mayor detalle físico o técnico.
 
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1039], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO ANTES ARTÍCULO 1039], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1049°.
 
@@ -10743,7 +10747,7 @@ d).- Las bases de los acuerdos que se propongan para garantizar la acción coord
 
 e).- Las bases de los acuerdos de concertación con los propietarios de áreas y predios, fincas o bienes del patrimonio cultural, para realizar las acciones de conservación y mejoramiento en los mismos.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1045], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1045], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1057°.
 
@@ -10835,13 +10839,13 @@ IV. Cumplidas las formalidades para su aprobación, el programa respectivo o sus
 
 V. Los diversos programas una vez aprobados se inscribirán en la sección correspondiente del Registro Público de la Propiedad a cargo de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado y en (sic) oficina municipal correspondiente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1047], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1047], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1062°.
 
 La administración del desarrollo urbano, es el proceso de planeación, organización, ejecución, control y evaluación de las actividades de las autoridades, en coordinación con los sectores social y privado del municipio, a fin de ordenar y regular los asentamientos humanos y el desarrollo urbano.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1048], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1048], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1063°.
 
@@ -10849,31 +10853,31 @@ Una vez formulados los proyectos de programas de desarrollo urbano, serán remit
 
 El Subcomité de Ordenamiento Ecológico y Territorial del Municipio de Asientos pondrá a disposición del público en general el proyecto de programa, con el objeto de que cualquier ciudadano pueda plantear sugerencias u objeciones.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1049], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1049], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1064°.
 
 El Subcomité de Ordenamiento Ecológico y Territorial del Municipio de Asientos habiendo recibido el proyecto del programa de desarrollo urbano para dar su opinión, tendrá 20 días hábiles para emitirla; en caso de no hacerlo en dicho término, se considerará que no tiene inconveniente en que el programa sea aprobado por la autoridad correspondiente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1050], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1050], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1065°.
 
 Los programas de desarrollo urbano aprobados, se publicarán e inscribirán en los términos que establece el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1051], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1051], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1066°.
 
 Los programas de desarrollo urbano son de aplicación obligatoria para los particulares y para las autoridades, una vez que sean publicados en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1052], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1052], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1067°.
 
 El Municipio establecerá un registro de la planeación del desarrollo urbano, en el que se inscribirán los programas y resoluciones de la materia para su difusión, consulta pública, control y evaluación.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1053], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1053], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1068°.
 
@@ -10883,13 +10887,13 @@ Los programas de desarrollo urbano tendrán una vigencia a partir de su publicac
 
 ### CAPÍTULO III. De las Regulaciones a la Propiedad en los Centros de Población
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1054], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1054], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1069°.
 
 Los programas municipales de desarrollo urbano y ordenamiento territorial, los programas o esquemas de desarrollo urbano de centros de población, y los programas parciales de desarrollo urbano, señalarán las acciones específicas para la conservación, consolidación, mejoramiento y crecimiento de los centros de población situados en su territorio y establecerán la zonificación correspondiente, en congruencia con los Programas que prevé el Código Urbano del Estado de Aguascalientes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1055], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1055], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1070°.
 
@@ -10901,7 +10905,7 @@ II. El buen estado de las obras materiales, de infraestructura, equipamiento y s
 
 III. El buen estado de los edificios, monumentos, plazas públicas, parques y en general, todo aquello que corresponda a su patrimonio natural y cultural, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1056], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1056], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1071°.
 
@@ -10929,7 +10933,7 @@ Se establecerán programas integrales de manejo de áreas naturales protegidas y
 
 La consolidación es aquella acción que limita los centros de población para contener las acciones de crecimiento urbano dentro de un área específica. Las áreas de consolidación tienen como característica ser urbanizadas, densificadas y cuentan con infraestructura, equipamiento urbano y servicios. Serán delimitadas por el Municipio en sus programas de desarrollo urbano de centros de población o de los parciales derivados de estos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1057], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1057], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1073°.
 
@@ -10937,13 +10941,13 @@ El mejoramiento es la acción tendiente a reordenar o renovar las zonas de incip
 
 Las zonas deterioradas física o funcionalmente en forma total o parcial, podrán ser declaradas por los Gobiernos Estatal o Municipal, espacios dedicados al mejoramiento, con el fin de reordenarlos, renovarlos, regenerarlos, restaurarlos o protegerlos y lograr el mejor aprovechamiento de su ubicación, infraestructura, equipamiento, suelo y elementos de acondicionamiento del espacio, integrándolas al desarrollo urbano, particularmente en beneficio de los habitantes de dichas zonas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1058], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1058], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1074°.
 
 El crecimiento es la acción tendiente a ordenar y regular la expansión física de los centros de población, mediante la determinación de las áreas y reservas territoriales, conforme a lo dispuesto en este Código, y los programas en materia de desarrollo urbano.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1059], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1059], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1075°.
 
@@ -10963,7 +10967,7 @@ V. La definición de la infraestructura de las zonas de crecimiento y las modifi
 
 ### CAPÍTULO IV. De la Zonificación
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1060], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1060], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1076°.
 
@@ -11001,7 +11005,7 @@ XII.- Determinar las zonas emisoras con potencialidad de transferencia de derech
 
 XIII.- Las políticas ambientales para la conservación del equilibrio ecológico
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1061], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1061], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1077°.
 
@@ -11025,13 +11029,13 @@ e).- Por mantenimiento de actividades productivas dentro de los límites de los 
 
 f).- Por tener pendientes mayores al 30%, salvo que se justifique por la ubicación y características de centros de población existentes, previa autorización de la SEPLAPDE.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1062], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1062], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1078°.
 
 Las reservas, usos y destinos de áreas y predios se incluirán en los programas municipales de desarrollo urbano.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1063], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1063], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1079°.
 
@@ -11077,7 +11081,7 @@ e).- Mixto; y
 
 III. Los demás que se establezcan en los programas, y que sean compatibles con los anteriores.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1064], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1064], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1080°.
 
@@ -11351,7 +11355,7 @@ III.- COMPLEMENTARIOS O COMPATIBLES: son aquellos que apoyan y complementan al u
 
 IV.- PROHIBIDOS: los que por sus características se consideren incompatibles al uso o destino predominante o contrario al adecuado desarrollo urbano y ordenamiento del territorio de la zona de que se trate o contravengan lo dispuesto en este Código, los programas aplicables y otras disposiciones jurídicas y que, por ello, no se permiten en las zonas correspondientes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1065], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1065], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1092°.
 
@@ -11729,7 +11733,7 @@ El acta de la sesión del Consejo Estatal será publicada por una sola vez en el
 
 ### CAPÍTULO V. Del Control del Desarrollo Urbano
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1066], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1066], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1117°.
 
@@ -11737,17 +11741,15 @@ Todas las obras, acciones, servicios e inversiones en materia de desarrollo urba
 
 Sin este requisito, no se otorgará permiso, autorización, licencia o concesión para efectuarlas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1068], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1068], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ARTÍCULO 1119° (SIC).- Para dar un uso o destino distinto al que se le ha venido dando a un área, predio o construcción, los propietarios o poseedores deberán obtener la constancia de compatibilidad urbanística correspondiente.
 
 La presentación de dicha constancia será necesaria para iniciar el trámite de las licencias de construcción y de las licencias para la apertura y funcionamiento de giros comerciales, industriales y de servicios.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1070], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1070], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1121°.
-
-Los objetivos de las constancias de compatibilidad urbanística son:
+ARTÍCULO 1121° (SIC).- Los objetivos de las constancias de compatibilidad urbanística son:
 
 I. Dar seguridad jurídica a la propiedad, identificándola dentro de su contexto urbano; otorgando la consiguiente protección a sus titulares, respecto de la legalidad del asentamiento humano o desarrollo inmobiliario;
 
@@ -11763,7 +11765,7 @@ VI. Impedir el establecimiento de asentamientos humanos irregulares; y
 
 VII. Señalar las limitaciones, restricciones o alineamientos que a cada área o predio le disponen la legislación o programas de desarrollo urbano aplicables.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1071], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1071], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1122°.
 
@@ -11791,7 +11793,7 @@ X. Las afectaciones por proyectos de obras en materia de infraestructura, equipa
 
 XI. Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación o programas de desarrollo urbano.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1072], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1072], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1123°.
 
@@ -11869,7 +11871,7 @@ XV.- La denominación del programa de desarrollo urbano y ordenamiento del terri
 
 XVI.- Los demás datos, elementos, criterios o lineamientos que se deriven de la legislación, de los programas y otras disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1130°.
 
@@ -11887,19 +11889,19 @@ Para efectos de este Código, vía pública es todo espacio de uso común que, p
 
 Este espacio está limitado por el plano virtual vertical sobre la traza del alineamiento oficial o el lindero de dicha vía pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1074], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1074], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1132°.
 
 Todo inmueble consignado como vía pública en algún plano o registro oficial existente en cualquiera de las unidades administrativas del Gobierno del Estado o del Municipio, en el Archivo Histórico del Municipio o del Estado, o en otro archivo, museo, biblioteca o dependencia oficial, se presumirá salvo prueba en contrario, que es vía pública y pertenece al propio Municipio. Esta disposición será aplicable a todos los demás bienes de uso común o destinado a un servicio público a que se refiere la Ley Municipal para el Estado de Aguascalientes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1075], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1075], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1133°.
 
 Los inmuebles que en el plano oficial de una fusión, subdivisión o fraccionamiento aprobados aparezcan destinados a vías públicas, al uso común o a algún servicio público se considerarán, por ese solo hecho, como bienes del dominio público del Municipio, para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano en la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado como cabeza de sector Estatal para que procedan ante al (sic) Registro Público de la Propiedad y al Instituto Catastral, o sus equivalentes, para que hagan los registros y las cancelaciones respectivas para cuyo efecto, la unidad administrativa correspondiente, remitirá copias del plano aprobado al Registro de Programas de Desarrollo Urbano en la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado, ante al (sic) Registro Público de la Propiedad y al Instituto Catastral, o sus equivalentes, así como al Área de Control Municipal del Impuesto a la Propiedad Raíz para que hagan los registros y las cancelaciones respectivas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1076], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1076], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1134°.
 
@@ -11915,7 +11917,7 @@ IV. Romper el pavimento o hacer cortes en las banquetas y guarniciones de la ví
 
 V. Alojar instalaciones subterráneas en la vía pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1077], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1077], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1135°.
 
@@ -11923,7 +11925,7 @@ Podrá otorgarse permiso o autorización para las obras anteriores, señalando e
 
 Los solicitantes estarán obligados a efectuar las reparaciones correspondientes para restaurar o mejorar el estado original de la vía pública, o a pagar su importe cuando el Ayuntamiento las realice.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1078], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1078], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1136°.
 
@@ -11941,13 +11943,13 @@ V. Para construir comercios semifijos en vías públicas; y
 
 VI. Para aquellos otros fines que el Ayuntamiento consideré contrarios al interés público.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1079], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1079], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1137°.
 
 Toda persona que ocupe sin autorización la vía pública con construcciones e instalaciones superficiales aéreas o subterráneas, está obligada a retirarlas o demolerlas en el plazo que la Dirección de Planeación y Obras Públicas en coordinación con el Departamento de Reglamentos señalen. Si este plazo fuese sobre excedido, la Dirección de Planeación y Obras Públicas realizará los trabajos con cargo al dueño, independientemente de las sanciones que sean aplicables, de conformidad con el presente Código.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1080], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1080], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1138°.
 
@@ -11955,19 +11957,19 @@ Las instalaciones subterráneas para los servicios públicos de teléfonos, alum
 
 Para los efectos de este Artículo, deberá respetarse la normatividad respectiva que dicten la normatividad (sic), normas técnicas, fichas técnicas y reglamentos referentes al tipo de instalación que correspondan, que determine aplicable la Dirección de Planeación y Obras Públicas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1081], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1081], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1139°.
 
 La Dirección de Planeación y Obras Públicas fijará en cada caso, la profundidad mínima y máxima, así como el ancho de zanja a la que deberá alojarse cada instalación y su localización en relación con las demás instalaciones, conforme a las Normas y Fichas Técnicas que adopte el Gobierno Municipal para cada caso.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1082], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1082], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1140°.
 
 Cuando se requiera introducir instalaciones subterráneas bajo un pavimento o se interfiera alguna vialidad, la Dirección de Planeación y Obras Públicas determinará la forma en que se lleven a cabo los trabajos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1083], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1083], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1141°.
 
@@ -11975,49 +11977,49 @@ Las instalaciones aéreas en la vía pública deberán estar sostenidas sobre po
 
 Dichos postes se colocarán dentro del ancho de la banqueta o acera a una distancia mínima de veinticinco centímetros entre el borde de la guarnición y el punto más próximo del poste.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1084], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1084], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1142°.
 
 En las vías públicas en que no existen aceras, los interesados solicitarán a la Dirección de Planeación y Obras Públicas, el trazo de la guarnición.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1085], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1085], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1143°.
 
 Las ménsulas, las alcayatas así como cualquier otro apoyo que se use, para ascenso a los postes o a las instalaciones, deberán colocarse a no menos de dos metros cincuenta centímetros de altura sobre el nivel de la banqueta o acera. Igual tratamiento se dará a cualquier obstáculo en vía pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1086], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1086], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1144°.
 
 Los postes y las instalaciones deberán ser identificados por sus propietarios con una señal que apruebe la Dirección de Planeación y Obras Públicas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1087], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1087], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1145°.
 
 Los propietarios de postes o instalaciones colocados en la vía pública, están obligados a conservarlos en buenas condiciones de servicio y a retirarlos cuando dejen de cumplir su función.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1088], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1088], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1146°.
 
 La Dirección de Planeación y Obras Públicas podrá ordenar el retiro o el cambio de lugar de postes o instalaciones por cuenta de sus propietarios, por razones de seguridad o porque se modifique la anchura de las banquetas o aceras o se ejecute cualquier obra en la vía pública que lo requiera. Si no lo hiciera dentro del plazo que se les haya fijado, la propia Dirección lo ejecutará a costa de dichos propietarios.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1089], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1089], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1147°.
 
 No se permitirá colocar postes o instalaciones en banquetas o aceras, cuando con ellos se impida la entrada a un predio. Si el acceso al predio se construye estando ya colocados el poste o la instalación, deberán ser cambiados de lugar por el propietario de los mismos, pero los gastos serán por cuenta del propietario del predio.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1090], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1090], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1148°.
 
 La Dirección de Planeación y Obras Públicas determinará las zonas de protección a lo largo de los servicios subterráneos tales como viaductos, pasos a desnivel, e instalaciones similares, dentro de cuyos límites solamente podrán realizarse excavaciones, cimentaciones, demoliciones, y otras obras previa autorización especial de la propia Dirección, la que señalará las obras de protección que sea necesario realizar o ejecutar para salvaguardar los servicios e instalaciones antes mencionados. La reparación de los daños que se ocasionen en esas zonas, correrán a cargo de la persona física o moral a quien se le otorgue la autorización.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1091], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1091], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1149°.
 
@@ -12027,7 +12029,7 @@ Las vías públicas y los demás bienes de uso común o destinados a un servicio
 
 ### CAPÍTULO VII. De la Nomenclatura y Números Oficiales
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1092], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1092], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1150°.
 
@@ -12037,13 +12039,13 @@ I. Definir las reglas a que deberán sujetarse las iniciativas y acciones relaci
 
 II. Establecer los procedimientos para la asignación, instalación, rectificación y cambio de nomenclatura y números oficiales.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1093], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1093], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1151°.
 
 Sólo se otorgará nomenclatura o números oficiales a vialidades, parques, jardines, plazas, sitios y monumentos históricos, ubicados en asentamientos humanos regularizados.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1094], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1094], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1152°.
 
@@ -12057,13 +12059,13 @@ III. Directorio de Vialidades: Es el inventario de la nomenclatura asignada a la
 
 IV. Padrón de Números Oficiales: Es el registro de números oficiales, asignados a las construcciones del Municipio.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1095], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1095], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1153°.
 
 La nomenclatura urbana se concibe como una expresión de la cultura donde se rescata lo importante de la historia, costumbres, personajes y todo acontecimiento que se puede preservar como acervo de la sociedad.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1096], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1096], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1154°.
 
@@ -12073,13 +12075,13 @@ I. En intersección de dos vialidades un mínimo de cuatro placas; y,
 
 II. En intersecciones mayores a dos vialidades, una placa por cada calle antes y después de la intersección.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1097], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1097], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1155°.
 
 Los promoventes de vivienda y fraccionadores, deberán presentar ante la Dirección de Planeación y Obras Públicas, la propuesta de nomenclatura y vialidades, parques, jardines, plazas y/o monumentos históricos, así como de cualquier otro lugar público factible de denominación dentro de tres días hábiles siguientes a la solicitud de autorización presentada ante la Comisión Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda del Estado o a la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado, según sea el caso.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1098], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1098], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1156°.
 
@@ -12095,7 +12097,7 @@ IV. Cuando se trate de la prolongación de vialidades por la dimensión de su tr
 
 V. Cuando se trate de la prolongación de vialidades que por la dimensión de su traza o por la importancia de su uso sean jerarquizadas como colectoras o locales, hasta en tanto no conecten con una vialidad primaria o secundaria, deberá permanecer con su nomenclatura existente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1099], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1099], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1157°.
 
@@ -12105,7 +12107,7 @@ I. Si se trata de nomenclaturas en vialidades, parques, jardines y plazas y monu
 
 II. Si se trata de nomenclatura en parques, jardines, sitios o monumentos históricos y todos los lugares públicos factibles de darles denominación con arraigo e identidad cultural adquiridas a través de un tiempo mayor a diez años; la propuesta será acompañada de una relación que contenga por cada inmueble el nombre completo, domicilio y firma de aceptación como mínimo del sesenta por ciento de los residentes de la zona en un radio de tres cuadras. Cuando el tiempo de asignación de la nomenclatura sea menor a diez años el porcentaje de aceptación será como mínimo diez años, el porcentaje de aceptación será como mínimo del cincuenta por ciento más uno de los residentes de la zona en un radio (sic) tres cuadras.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1100], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1100], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1158°.
 
@@ -12117,7 +12119,7 @@ II. Tratándose de hombre (sic) o personajes ilustres, deberán acompañarse con
 
 III. Los nombres propuestos no deberán contravenir a la moral y las buenas costumbres.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1101], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1101], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1159°.
 
@@ -12133,13 +12135,13 @@ IV. Sometida a la consideración del Cabildo se propondrá para su aprobación; 
 
 V. Una vez dictada la resolución definitiva se notificará a los interesados.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1102], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1102], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1160°.
 
 Todo cambio o asignación de nomenclatura y números oficiales deberá ser notificado a las Administraciones Fiscales de Hacienda y al Instituto Catastral; al Registro Público de la Propiedad y Comercio; a la Tesorería y Dirección de Agua Potable, Alcantarillado y Ecología del Municipio.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1103], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1103], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1161°.
 
@@ -12167,7 +12169,7 @@ X. Cuando existan manzanas con diferente longitud, deberá prevalecer la numerac
 
 XI. Cuando exista longitud en manzanas con traslapes constantes, la asignación de la numeración quedará sujeta al dictamen que emita la Dirección de Planeación y Obras Públicas; y XII. Cuando las cabeceras de manzanas de una glorieta, plaza o sitio que cuente con nomenclatura propia y existan varias construcciones, con acceso desde éstas, se asignará una nueva numeración en nones con una solo (sic) centena bajo la nomenclatura de la glorieta, plaza o sitio que corresponda.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1104], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1104], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1162°.
 
@@ -12179,13 +12181,13 @@ II. Cuando se trate de propietarios de predios individuales, copia certificada d
 
 III. Cuando el promovente o fraccionador tramite los números oficiales de forma previa a las construcciones, para que el adquirente de los inmuebles reciba las placas correspondientes de los números, deberá presentar el documento en original de la boleta de asignación del número que le entregará el promovente o fraccionador.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1105], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1105], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1163°.
 
 la Dirección de Planeación y Obras Públicas autorizará números oficiales al solicitante, cuando el fraccionador o promovente haya cumplido con los requisitos del dictamen de autorización de la Comisión Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda del Estado o de la Secretaría de Gestión Urbanística y Ordenamiento Territorial, Registral y Catastral del Gobierno del Estado en el ámbito de su competencia y de la legislación urbana aplicable.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1106], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1106], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1164°.
 
@@ -12197,7 +12199,7 @@ II. Cuando la numeración en la vía pública, no sea consecutiva o se encuentre
 
 III. Cuando una misma vialidad hubiera tenido varias nomenclaturas y se motive la generalización a una sola.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1107], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1107], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1165°.
 
@@ -12211,7 +12213,7 @@ III. Constancia de alineamiento y compatibilidad urbanística; y
 
 IV. Cuando se trate de subdivisiones o fusiones deberá acompañar el documento que acredite la autorización de las mismas según corresponda.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1108], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1108], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1166°.
 
@@ -12219,7 +12221,7 @@ Son causas de Ratificación de número oficial:
 
 Cuando se requiera para comprobar la inexistencia de error en el número oficial así mismo en la nomenclatura, incluyendo la certificación de cambio del nombre en determinado tiempo de una vía pública, se deberá presentar, para poder expedirse este documento, solicitud por escrito ante la Dirección de Planeación y Obras Públicas, señalando los hechos y motivos que lo apoyan y comprobante que acredite la propiedad del interesado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1109], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1109], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1167°.
 
@@ -12233,13 +12235,13 @@ Una vez satisfechos los requisitos que establece el presente Capítulo, la Direc
 
 ### CAPÍTULO I. De la Licencia de Construcción
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1110], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1110], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1168°.
 
 Toda obra de construcción, instalación, reparación, ampliación, remodelación, reconstrucción o demolición de fincas rústicas o urbanas requerirá licencia expresa, otorgada por la Dirección de Planeación y Obras Públicas con anterioridad al inicio de la obra. Dicha licencia deberá obtenerse en todo tipo de obras públicas o privadas, independientemente del régimen de propiedad o ubicación de los predios.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1111], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1111], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1169°.
 
@@ -12273,7 +12275,7 @@ XIII. Expedir normas técnicas complementarias para el debido cumplimiento del p
 
 XIV. Asignar Peritajes por Servicio Social a los Peritos Responsables de Obra y Especializados, en los casos que prevé este Libro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1112], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1112], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1170°.
 
@@ -12333,13 +12335,13 @@ Para los efectos del presente artículo, la Secretaría Municipal turnará la so
 
 El Catastro no procederá a dar trámite a la manifestación de esa edificación, sino se cuenta con la correspondiente opinión de la SEPLAPDE.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1113], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1113], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1173°.
 
 Las solicitudes de licencia de construcción deberán recibir resoluciones de expedición o rechazo por parte de (sic) Dirección de Planeación y Obras Públicas, en un lapso razonable, el cual por ningún motivo podrá exceder de diez días hábiles. La revisión de los expedientes y planos respectivos se hará de acuerdo a los requisitos que se establecen en este mismo Libro y que se encuentran en el CAPÍTULO respectivo y fueron establecidos de conformidad a los demás ordenamientos legales vigentes aplicables.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1114], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1114], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1174°.
 
@@ -12373,7 +12375,7 @@ XIII. Obras similares a las anteriores cuando no se afecten elementos estructura
 
 Estas excepciones no operarán cuando se trate de obras o trabajos que se ubiquen dentro del perímetro o zona de fincas o inmuebles catalogados de valor histórico, arquitectónico, arqueológico o contextual o que formen parte del patrimonio cultural del municipio, del estado o de la federación.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1115], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1115], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1175°.
 
@@ -12395,13 +12397,13 @@ No se concederá licencia cuando el cambio de uso sea incompatible con la zonifi
 
 Las solicitudes para este tipo de licencias, se presentarán con la firma del propietario del predio y con la responsiva de un Perito Responsable.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1116], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1116], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1176°.
 
 El tiempo de vigencia de las licencias de construcción que expida la Dirección de Planeación y Obras Públicas estará en relación con la naturaleza y magnitud de la obra por ejecutar.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1117], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1117], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1177°.
 
@@ -12413,37 +12415,37 @@ II. Si terminado el plazo autorizado para la construcción de una obra, ésta no
 
 III. Se tendrá opción a solicitar a la propia Dirección, dentro del plazo de vigencia de la Licencia, a una suspensión temporal no mayor a seis meses, reactivándose el lapso disponible al término de ésta.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1118], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1118], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1178°.
 
 En las zonas que tengan un valor artístico, histórico y/o cultural determinadas por las autoridades correspondientes, no podrán ejecutarse nuevas construcciones, obras, demoliciones o instalaciones de cualquier naturaleza sin la previa autorización de la Dirección de Planeación y Obras Públicas y el dictamen del Instituto Nacional de Antropología e Historia.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1119], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1119], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1179°.
 
 Los requisitos establecidos en el presente capítulo son exigibles para todas las licencias, con independencia de los demás requisitos que se establezcan en cada capítulo en especial.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1120], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1120], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1180°.
 
 Los propietarios de fincas ubicadas dentro de la zona de monumentos históricos en el centro histórico de la ciudad o si la misma (sic) está catalogado (sic) como monumento histórico, arqueológico y/o arquitectónico fuera de esta zona o colinda con alguno de éstos, se deberán presentar la autorización del Instituto Nacional de Antropología e Historia.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1121], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1121], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1181°.
 
 Los propietarios de fincas que se hubieren subdividido o si es resultado de la fusión de dos o más predios, o si se prevé construir ocupando dos o más lotes contiguos, deberá presentar las autorizaciones correspondientes a la subdivisión o fusión, mismas que se tramitan en la ventanilla de la Dirección de Planeación y Obras Públicas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1122], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1122], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1182°.
 
 Los propietarios de fincas que se encuentra (sic) en un conjunto o inmueble sujeto al régimen de propiedad en condominio, para cualquier tipo de obra deberán presentarse un oficio de autorización y los planos del proyecto en dos tantos sellados y firmados por la administración del condominio o asamblea de condóminos legalmente constituida.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1123], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1123], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1183°.
 
@@ -12475,7 +12477,7 @@ c) Si la finca a construir o ampliar, no se ubica dentro de un fraccionamiento h
 
 d) Si la construcción o ampliación contiene algún espacio destinado para uso no habitacional, por ejemplo: para local comercial, industrial, oficinas o servicios, etc. o se prevé para un uso habitacional multifamiliar, deberá presentar en este caso la constancia de compatibilidad urbanística autorizada para tal uso incluyendo el habitacional.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1124], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1124], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1184°.
 
@@ -12515,7 +12517,7 @@ e) Cuadro de datos indicando: tipo de obra, ubicación, propietario, contenido, 
 
 VIII. No se admitirán correcciones enmendaduras, ni añadiduras de ningún tipo en los planos y memoria de cálculo. El proyecto deberá cumplir con lo estipulado en el TÍTULO de proyecto arquitectónico del presente Libro de Construcciones.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1125], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1125], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1185°.
 
@@ -12529,7 +12531,7 @@ III. Copia de un contrato temporal por consumo de agua para la construcción de 
 
 IV. Un juego de copias de planos firmado por el Perito Responsable de Obra por cada vivienda a edificar.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1126], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1126], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1186°.
 
@@ -12541,7 +12543,7 @@ II. Cuando el predio se ubique en una zona no regularizada como fraccionamiento 
 
 III. Cuando se trate de usos habitacional multifamiliar, dúplex, etc.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1127], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1127], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1187°.
 
@@ -14835,7 +14837,7 @@ Las resoluciones judiciales que determinen la subdivisión o fusión de áreas, 
 
 No se podrá inscribir ningún acto, contrato, convenio o afectación en el Registro Público, ni en el Catastro, cuando se contravenga lo dispuesto en este apartado o no se cuente con la opinión favorable de la SEPLAPDE, en los casos que se requiere de la misma, conforme a lo dispuesto en este Código.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1128], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1128], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1375°.
 
@@ -14883,7 +14885,7 @@ c) Cuando el proyecto presente algún espacio o espacios que carezcan de ventila
 
 d) Se deberá respetar en el proyecto todas y cada una de las restricciones y condiciones indicadas en la constancia de Alineamiento y Compatibilidad Urbanística.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1129], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1129], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1376°.
 
@@ -14899,13 +14901,13 @@ a) Solicitud de licencia de construcción y bitácora de obra, llena y firmada p
 
 b) Programa de demolición elaborado y firmado por el perito responsable de obra especificando: Horario de los trabajos de demolición. Descripción de los sistemas de protección a fincas colindantes. Descripción del sistema de demolición. Duración estimada de los trabajos de demolición. Descripción del tipo de tapial para protección de la obra al frente en su caso.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1130], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1130], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1377°.
 
 No se permitirá realizar obras de rebaje o demolición de muros medianeros. Entiéndase por muros medianeros los que, en común a dos predios colindantes los divide y en ocasiones sostiene techumbres de ambas fincas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1131], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1131], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1378°.
 
@@ -14915,7 +14917,7 @@ I. Recibo de pago o contrato de servicio de agua potable y alcantarillado; y
 
 II. Solicitud de licencia de construcción y bitácora de obra, debidamente requisitadas y signadas por un Perito Responsable de Obra regularizado ante la Dirección de Planeación y Obras Públicas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1132], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1132], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
 ###### ARTÍCULO 1379°.
 
@@ -14931,9 +14933,11 @@ IV. Presentar programa de obra signado por el Perito Responsable de Obra; y
 
 V. Autorización de la instancia correspondiente o contrato de obra pública en su caso.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1133], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1133], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-ARTÍCULO 1340° (SIC).- Para ocupar la vía pública con material de construcción, andamios o tapiales se requiere presentar:
+###### ARTÍCULO 1380°.
+
+Para ocupar la vía pública con material de construcción, andamios o tapiales se requiere presentar:
 
 I. La licencia de construcción correspondiente a los trabajos que se efectúen en el predio;
 
@@ -14941,27 +14945,27 @@ II. Recibo de pago o contrato de servicio de agua potable y alcantarillado; y
 
 III. Presentar croquis con medidas de la ubicación de la colocación del tapial o andamio respetando las condiciones que indica el presente Libro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1134], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1134], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1341°.
+###### ARTÍCULO 1381°.
 
 Se requerirá licencia de construcción para la colocación de anuncios publicitarios.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1135], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1135], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1342°.
+###### ARTÍCULO 1382°.
 
 Todo anuncio, propaganda o publicidad que sea colocado en la Zona Centro y en las fincas declaradas como Monumentos Históricos, Artísticos, Arqueológicos y/o Arquitéctonicos, deberá contar con el Visto Bueno del Instituto Nacional de Antropología e Historia y sujetarse a lo que este organismo le indique.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1136], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1136], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1343°.
+###### ARTÍCULO 1383°.
 
 No se permitirán en la zona centro los anuncios comerciales que se instalen sobre azoteas; ni los letreros en manta, cartón o cualquier otro material que se pretenda colocar de paramento sobre una calle, entre arcos, postes o fachadas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1137], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1137], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1344°.
+###### ARTÍCULO 1384°.
 
 En las demás zonas diferentes a la zona centro de las comunidades del Municipio de Asientos, colonias y fraccionamientos que conforman la comunidad y las áreas rurales y poblados dentro del Municipio de Asientos se sujetará la colocación de anuncios a la jerarquía de las vialidades que a continuación se detalla:
 
@@ -15019,53 +15023,23 @@ Son aquellas vialidades cuya función es la de facilitar la movilidad de altos v
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1380°.
-
-Los depósitos de basura, papel, trapos y ropa, roperías de hoteles, hospitales, etc. estarán protegidos por medio de aspersores de agua contra incendio de acción automática en caso de incendio. Exceptuando los depósitos de sólidos, líquidos o gases combustibles para cuyos casos la Dirección de Planeación y Obras Públicas determinará lo conducente.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1175], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1381°.
-
-Queda prohibido el almacenamiento de líquidos o materiales inflamables o explosivos en las circulaciones generales y en las zonas de concentración de personas dentro de cualquier tipo de edificación y centro de reunión.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1176], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1382°.
-
-Cuando se utilicen plafones a base de materiales que no sea (sic) a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Planeación y Obras Públicas.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1177], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1383°.
-
-En el caso de plafones falsos, ningún espacio comprendido entre el plafón y la losa se comunicará directamente con cubos de escaleras o de elevadores.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1178], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1384°.
-
-Las chimeneas deberán proyectarse de tal manera que los humos y gases sean conducidos por medio de un ducto directamente al exterior en la parte superior de la edificación.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1179], P.O. 22 DE ABRIL DE 2024)</small>
-
 ### CAPÍTULO II. De los Peritos
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1138], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1138], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1345°.
+###### ARTÍCULO 1385°.
 
 Perito Responsable de Obra, es la persona física que se hace responsable de la observancia de este Libro en las obras para las que otorgue su responsiva.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1139], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1139], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1346°.
+###### ARTÍCULO 1386°.
 
 La calidad de Perito Responsable de Obra se adquiere con el registro de la persona ante la Presidencia Municipal, en específico ante la Dirección de Planeación y Obras Públicas o en su defecto, se adoptará a los Peritos registrados en el Padrón de Peritos de Obra y Especializados del Municipio de Aguascalientes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1140], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1140], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1347°.
+###### ARTÍCULO 1387°.
 
 Se exigirá responsiva de los Peritos Especializados para obtener la licencia de construcción a que se refiere este Libro, en los siguientes casos:
 
@@ -15077,9 +15051,9 @@ b) En Estructuras de Tipo Especial tales como Puentes Vehiculares o Ferroviarios
 
 II. Especializados en Instalaciones. Serán los que están debidamente acreditados en la dependencia que corresponda en razón de la especialidad y las autoridades que deban hacer cumplir las Normas Oficiales Mexicanas relacionadas con el tipo de instalaciones.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1141], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1141], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1348°.
+###### ARTÍCULO 1388°.
 
 Para tener derecho a aparecer en el Registro de Peritos o Refrendar su calidad como tal, se requiere:
 
@@ -15089,9 +15063,9 @@ II. Estar domiciliado en el Municipio de Asientos, por lo menos dos años, de lo
 
 III. Presentar su Currículo Profesional.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1142], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1142], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1349°.
+###### ARTÍCULO 1389°.
 
 Para los efectos de este Libro, se entiende que un Perito Responsable otorgará su responsiva profesional cuando:
 
@@ -15101,9 +15075,9 @@ II. Acepte la responsabilidad de una obra suspendida para reiniciarla bajo su su
 
 III. Suscriba un dictamen de seguridad estructural, de carácter arquitectónico o de funcionamiento de alguna instalación.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1143], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1143], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1350°.
+###### ARTÍCULO 1390°.
 
 El Perito responsable de Obra será el único responsable de la ejecución de la construcción y deberá:
 
@@ -15121,9 +15095,9 @@ VI. Verificar que se encuentre en la obra una copia de: licencia de construcció
 
 VII. Refrendar su calidad de Perito el mes de enero de cada año actualizando sus datos y comprobar el cumplimiento del servicio social que le haya requerido la Presidencia Municipal.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1144], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1144], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1351°.
+###### ARTÍCULO 1391°.
 
 Las funciones del Perito Responsable de Obra y en su caso del Perito Especializado, en aquellas obras para las que haya dado su responsiva profesional, terminarán:
 
@@ -15133,33 +15107,339 @@ II. Cuando no ha refrendado su calidad de Perito Responsable de Obra y en su cas
 
 III. Cuando la Dirección de Planeación y Obras Públicas autorice la ocupación de la obra. El término de las funciones del Perito Responsable de obra no le exime de la responsabilidad de carácter civil o administrativo que pudiera derivarse de su intervención en la obra para la cual haya otorgado su responsiva profesional.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1145], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1145], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-ARTÍCULO 13532° (SIC).- Para efectos del presente Libro, la responsabilidad profesional y de carácter administrativo de los Peritos Responsables de Obra y de los Peritos Especializados, concluirá a los tres años de la terminación de la obra.
+###### ARTÍCULO 1392°.
+
+Para efectos del presente Libro, la responsabilidad profesional y de carácter administrativo de los Peritos Responsables de Obra y de los Peritos Especializados, concluirá a los tres años de la terminación de la obra.
 
 Dentro del mismo lapso, la Dirección de Planeación y Obras Públicas podrá exigir el cumplimiento de las obligaciones derivadas de dicha responsiva.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1385°.
+### CAPÍTULO III. De los Proyectos Arquitectónicos
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1146], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1393°.
+
+Los elementos arquitectónicos que constituyan el perfil de una fachada, tales como pilastras, sardineles, rejas y marcos de puertas y ventanas situados a una altura menor de dos metros cincuenta centímetros sobre el nivel de la banqueta, podrán sobresalir del alineamiento hasta diez centímetros. Estos mismos elementos situados a una altura mayor de dos metros cincuenta centímetros, podrán sobresalir del alineamiento hasta veinte centímetros como máximo Lo anterior es aplicable previa observancia de las servidumbres que establezca el alineamiento.
+
+Los balcones abiertos situados a una altura mayor de dos metros cincuenta centímetros podrán salir del alineamiento hasta un metro, pero al igual que todos los elementos arquitectónicos, deberán ajustarse a las restricciones sobre distancias a líneas de transmisión que señala este Libro.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1147], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1394°.
+
+Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Secretaría fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1148], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1395°.
+
+Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera disminuido en sesenta centímetros, pero sin exceder de un metro; no deberán usarse como balcón cuando su construcción se proyecte sobre la vía pública. Todos los elementos de la marquesina deberán estar situados a una altura mayor de dos metros cincuenta centímetros sobre el nivel de la banqueta.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1149], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1396°.
+
+Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, pudiendo la Secretaria revocarlos en cualquier momento que se juzgue conveniente.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1150], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1397°.
+
+Tratándose de asoleamiento entre viviendas unifamiliares y edificios superiores a cinco niveles sobre la banqueta, éstos deberán permitir un mínimo de asoleamiento en la época de invierno, respetando una separación mínima en su colindancia posterior cuando ésta coincida con la orientación norte, para ese efecto deberá respetar una distancia entre ambos que corresponda al quince por ciento de la altura máxima el (sic) edificio, sin perjuicio de cumplir con lo establecido en este Libro para patios de iluminación y ventilación.
+
+La Presidencia Municipal podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas, de acuerdo con este Libro y demás legislación de la materia vigente.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1151], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1398°.
+
+Los locales de las edificaciones según su tipo tendrán el mínimo de las dimensiones y características que se establecen en la tabla siguiente:
+
+> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 14 DE OCTUBRE DE 2019, PÁGINAS DE LA 208 A LA 210]</small>
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1152], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1399°.
+
+Deberán proveerse las facilidades que requieran las personas que utilicen sillas de ruedas, siendo los requisitos mínimos indispensables, los siguientes:
+
+I. Todos los estacionamientos deberán destinar un cajón de estacionamiento por cada cincuenta cajones o fracción, a partir de treinta cajones, para uso exclusivo de personas discapacitadas, ubicado lo más cercano posible del acceso o elevadores. Las medidas del cajón serán de cinco por tres metros ochenta centímetros;
+
+II. Los Centros de Reunión, Edificios para Comercio, Educación, Oficinas, Espectáculos y Templos que se localicen en planta baja, deberán contar con rampas que cumplan con las condiciones que indica este Libro;
+
+III. En auditorios, teatros, cines, templos, salas de concierto y en general para todo tipo de centros de reunión o salas de espectáculos, deberá destinarse, por cada cien concurrentes o fracción, a partir de sesenta concurrentes, de un espacio para uso exclusivo de personas discapacitadas, este deberá tener medidas de ochenta centímetros por un metro veinticinco centímetros, libre de butacas y fuera del área de circulación; y
+
+IV. Los Centros de Reunión y Salas de Espectáculos deberán contar con rampas que permitan el acceso a discapacitados a todos los puntos de la planta baja y en entrepisos con altura hasta de seis metros, sobre el nivel de la banqueta que cumplan con la pendiente máxima y ancho que se indica en este Libro.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1153], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1400°.
+
+Los edificios deberán tener los espacios descubiertos necesarios para lograr una buena iluminación y ventilación en los términos que se establecen en este CAPÍTULO, sin que dichas superficies puedan ser techadas, parcial o totalmente con volados, corredores, pasillos o escaleras.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1154], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1401°.
+
+Los patios para dar iluminación y ventilación naturales tendrán las siguientes dimensiones mínimas en relación con la altura de los parámetros verticales que los limiten:
+
+I. Para piezas habitables, comercios y oficinas;
+
+Con altura hasta Dimensión mínima
+
+5.00 m. 2.00 m.
+
+8.00 m. 3.25 m.
+
+12.00 m. 4.00 m.
+
+En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la tercera parte de la altura total del paramento vertical que lo limite si esta altura es variable, se tomará el promedio.
+
+II. Para otras piezas no habitables;
+
+Con altura hasta Dimensión mínima
+
+4.00 Pts. 2.00 Pts.
+
+8.00 Pts. 2.25 Pts.
+
+12.00 Pts. 2.50 Pts.
+
+En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la quinta parte de la altura del total del paramento vertical que lo limite. Si esta altura es variable se tomará el promedio.
+
+III. Se permitirán las siguientes tolerancias en las dimensiones mínimas de los patios señalados en este Artículo, en los casos que a continuación se detallan:
+
+a) Se autorizará la reducción hasta de un quince por ciento en la dimensión mínima del patio en el sentido de la orientación este-oeste y hasta una desviación de cuarenta y cinco grados sobre esta línea, siempre y cuando en el sentido transversal se incremente cuando menos, en un veinte por ciento la dimensión mínima correspondiente;
+
+b) En cualquier otra orientación se autorizará la reducción hasta de un quince por ciento en una de las dimensiones mínimas del patio. Siempre y cuando la dimensión opuesta tenga por lo menos, una vez y media lo mínimo correspondiente;
+
+c) En el sentido perpendicular a los patios en que existan muros ciegos o ventanas de piezas no habitables, se autorizará la reducción hasta de un quince por ciento en la dimensión mínima del patio, siempre y cuando en el otro sentido se incremente cuando menos en un veinte por ciento la dimensión mínima correspondiente;
+
+d) En los patios exteriores cuyo lado menor esté abierto a la vía pública, se aplicarán las normas consignadas en el inciso b) de la fracción II de este precepto;
+
+e) En terrenos con las dimensiones mínimas de seis metros por quince metros, se aceptará como dimensión mínima de los patios dos metros, para piezas habitables, en edificaciones con altura hasta dos niveles.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1155], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1402°.
+
+En las edificaciones para vivienda, las áreas descubiertas que deben aplicarse a los fines de iluminación y ventilación naturales, tendrán la superficie libre que indica el presente Libro, siempre y cuando no sea menor de veinte por ciento del área total del predio. La superficie libre se considera la que se presenta sin techar.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1156], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1403°.
+
+Las habitaciones destinadas a dormitorios, alcobas, salas o estancias tendrán iluminación y ventilación naturales por medio de vanos que den directamente a la vía pública o a la superficie descubierta.
+
+La superficie total de ventanas para iluminación libre de obstrucción, será por lo menos del ocho por ciento de la superficie de la habitación y para ventilación de cinco por ciento salvo el baño en que, para iluminación y ventilación, será el ocho por ciento de su área, y en cocinas será de dieciséis punto seis por ciento, sin que sea menor de un metro cuadrado.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1157], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1404°.
+
+Cualquier otro local deberá preferentemente contar con iluminación y ventilación naturales de acuerdo con estos mismos requisitos, pero se permitirá la iluminación por medios artificiales y la ventilación por los medios electromecánicos.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1158], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1405°.
+
+No se permitirá abrir vanos sobre las colindancias hacia predios vecinos.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1159], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1406°.
+
+Se permitirá la iluminación diurna natural por medio de domas o tragaluces en los casos de baños, cocinas domésticas, locales de trabajo, reunión, almacenamiento, circulaciones y servicios.
+
+En estos casos, la proyección horizontal del vano libre del domo o tragaluz, podrá dimensionarse tomando como base mínima el cuatro por ciento de la superficie del local. El coeficiente de transmitividad del espectro solar del material transparente o traslucido de domos y tragaluces en estos casos no será inferior al ochenta y cinco por ciento.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1160], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1407°.
+
+Se aceptará la ventilación cenital, siempre y cuando la superficie libre cumpla con el cinco por ciento del área del local.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1161], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1408°.
+
+Las características y dimensiones de las circulaciones horizontales deberán ajustarse a las siguientes disposiciones:
+
+I. Todos los locales de un edificio deberá (sic) tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
+
+II. El ancho mínimo de los pasillos y de las circulaciones para el público cuando su longitud no exceda de seis metros será, de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Dirección de Planeación y Obras Públicas;
+
+III. Los pasillos y los corredores lo (sic) deberán tener salientes o tropezones que disminuya (sic) su anchura, a una altura inferior a dos metros cincuenta centímetros; y
+
+IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros y se construirán de manera que impidan el paso de niños a través de ellos. En caso de edificios para habitación colectiva y escuelas de primera y segunda enseñanza, los barandales calados deberán ser solamente de elementos verticales, con excepción de los pasamanos, cuyo diseño impedirá que sirva de asiento.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1162], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1409°.
+
+Las escaleras de las construcciones públicas deberán satisfacer los siguientes requisitos:
+
+I. Los edificios tendrán siempre escaleras que comuniquen todos sus niveles, aun cuando existan elevadores;
+
+II. Las escaleras serán en tal número que ningún punto servido del piso o planta se encuentre a una distancia mayor de veinticinco metros de alguna de ellas;
+
+III. Las escaleras en casas unifamiliares o en el interior de departamentos unifamiliares tendrán una anchura mínima de noventa centímetros, excepto las de servicio, que podrán tener una anchura mínima de sesenta centímetros;
+
+IV. En los centros de reunión y salas de espectáculos, las escaleras tendrán una anchura mínima igual a la suma de las anchuras de las circulaciones a las que den servicio;
+
+V. El ancho de los descansos deberá ser, cuando menos, igual a la anchura reglamentaria de la escalera;
+
+VI. La huella de los escalones tendrá un ancho mínimo de veinticinco centímetros y sus peraltes un máximo de dieciocho centímetros;
+
+VII. Las escaleras contarán con un máximo de trece peraltes entre descansos, excepto las de caracol;
+
+VIII. En cada tramo de escalera, las huellas serán todas iguales; la misma condición deberán cumplir los peraltes;
+
+IX. El acabado de la huella será antiderrapante;
+
+X. La altura mínima de los barandales, siendo necesarios estos cuando la escalera no este flanqueada por muros, será de noventa centímetros, medidos a partir de la nariz del escalón. Se construirán con el anclaje y rigidez adecuados y de manera que impidan el paso de niños a través de ellos; y
+
+XI. Las escaleras de caracol se permitirán solamente para comunicar niveles pertenecientes a un mismo local, oficina, departamento o casa unifamiliar y deberán tener un radio útil mínimo de sesenta metros si son de servicio o de noventa centímetros si son principales.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1163], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1410°.
+
+Las rampas para peatones en cualquier tipo de construcción, así como en las aceras, deberán satisfacer los siguientes requisitos:
+
+I. Tendrán una anchura mínima igual a la señalada para las escaleras;
+
+II. La pendiente máxima será del diez por ciento;
+
+III. Los pavimentos serán antiderrapantes; y
+
+IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1164], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1411°.
+
+La anchura de los accesos, salidas, salidas de emergencia y puertas que comuniquen con la vía pública, tendrán un ancho mínimo de un metro, veinte centímetros y una altura de dos metros diez centímetros.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1165], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1412°.
+
+Se exceptúan de la disposición anterior, las puertas de acceso a casa habitación unifamiliares a departamentos y oficinas ubicadas en el interior de edificios y a las aulas en edificios destinados a la educación, las que podrán tener una anchura libre mínima de noventa centímetros. Asimismo en estos edificios, las puertas interiores de comunicación o de áreas de servicios podrán tener una anchura libre mínima de setenta centímetros.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1166], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1413°.
+
+Los accesos que en condiciones normales sirvan también de salida, o aquéllas de emergencia deberán permitir el desalojo del local en un máximo de tres minutos, considerando que cada persona puede salir por una anchura de sesenta centímetros, en un segundo; por lo tanto, la anchura siempre será múltiplo de sesenta centímetros, y nunca será menor que la suma de los anchos de los pasillos que converjan a la salida.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1167], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1414°.
+
+Cuando la capacidad de los hospitales, centros de reunión, salas de espectáculos y espectáculos deportivos, similares o análogos sea superior a cuarenta concurrentes o cuando el área de ventas de locales y centros comerciales sea superior a un mil metros cuadrados, deberán contar con salidas de emergencia.
+
+Preferentemente, dichas salidas deberán acondicionarse en sitios opuestos a las salidas ordinarias y deberán existir en cada nivel.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1168], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1415°.
+
+Las salidas de emergencia deberán tener comunicación directa a la vía pública o lo harán por medio de pasillos con la anchura reglamentaria. Queda prohibida la existencia de puertas simuladas o espejos en los pasillos de salida. La anchura de las salidas será de acuerdo a lo especificado en el Artículo de Requisitos de Salidas de Emergencia.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1169], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1416°.
+
+Los pasillos estarán libres de toda obstrucción y con pasamanos adecuados conforme a este ordenamiento. Los materiales empleados serán de tipo incombustible y con pisos antiderrapantes.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1170], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1417°.
+
+Para las edificaciones especificadas en el Artículo 1167°, las salidas de emergencia deberán señalarse mediante letreros con los textos "Salida de Emergencia" según el caso, mediante flechas y símbolos luminosos, que indiquen la ubicación y dirección de las salidas. Los textos y figuras deberán ser claramente visibles desde cualquier punto del área a la que sirvan y estarán iluminados en forma permanente, aunque se llegare a interrumpir el servicio eléctrico general.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1171], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1418°.
+
+Las puertas de las salidas o de las salidas de emergencia de los edificios mencionados en el Artículo 1167°, deberán satisfacer los siguientes requisitos:
+
+I. Siempre serán abatibles hacia el exterior sin que sus hojas obstruyan pasillos o escaleras;
+
+II. Contarán con dispositivos que permitan su apertura con el simple empuje de los concurrentes;
+
+III. Cuando comunique con escaleras, entre la puerta y el peralte inmediato, deberá haber un descanso con la longitud mínima de un metro veinte centímetros; y
+
+IV. No habrá puertas simuladas ni se colocarán espejos en las puertas.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1172], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1419°.
+
+Las edificaciones deberán contar con las instalaciones y equipos requeridos para prevenir y combatir los incendios.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1173], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1420°.
+
+Las escaleras y rampas de edificios que no sean unifamiliares, deberán construirse con materiales no combustibles.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1174], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1421°.
+
+Los depósitos de basura, papel, trapos y ropa, roperías de hoteles, hospitales, etc. estarán protegidos por medio de aspersores de agua contra incendio de acción automática en caso de incendio. Exceptuando los depósitos de sólidos, líquidos o gases combustibles para cuyos casos la Dirección de Planeación y Obras Públicas determinará lo conducente.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1175], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1422°.
+
+Queda prohibido el almacenamiento de líquidos o materiales inflamables o explosivos en las circulaciones generales y en las zonas de concentración de personas dentro de cualquier tipo de edificación y centro de reunión.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1176], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1423°.
+
+Cuando se utilicen plafones a base de materiales que no sea (sic) a prueba de fuego deberán presentarse las medidas contra incendio para ser aprobadas por la Dirección de Planeación y Obras Públicas.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1177], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1424°.
+
+En el caso de plafones falsos, ningún espacio comprendido entre el plafón y la losa se comunicará directamente con cubos de escaleras o de elevadores.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1178], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1425°.
+
+Las chimeneas deberán proyectarse de tal manera que los humos y gases sean conducidos por medio de un ducto directamente al exterior en la parte superior de la edificación.
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1179], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1426°.
 
 Las campanas de estufas o fogones excepto en viviendas unifamiliares, estarán protegidas por medio de filtros de grasa entre la boca de la campana y su unión. Con la chimenea y por sistemas contra incendio de operación automática o manual.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1180], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1180], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1386°.
+###### ARTÍCULO 1427°.
 
 En los pisos de las áreas de circulaciones generales de edificios, se emplearán únicamente materiales a prueba de fuego.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1181], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1181], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1387°.
+###### ARTÍCULO 1428°.
 
 Los proyectos de obras nuevas incluirán los espacios suficientes para estacionamiento dentro del predio, conforme a este capítulo. Igualmente, cuando se cambie el uso del suelo de un predio u obra, deberá condicionarse la autorización de dicho cambio a que se ajuste la obra o edificación a los requerimientos mínimos en materia de estacionamientos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1182], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1182], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1388°.
+###### ARTÍCULO 1429°.
 
 Los requerimientos mínimos en materia de cajones de estacionamiento son los siguientes:
 
@@ -15231,19 +15511,23 @@ b) Parques y Jardines: 1 por cada 1000 m2 terreno.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1389°.
+### CAPÍTULO IV. De las Instalaciones Hidráulicas y Eléctricas
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1183], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1430°.
 
 Las instalaciones hidráulicas y eléctricas de las construcciones y predios deberán cumplir con las disposiciones de este capítulo y con los requerimientos que se señalen (sic) las Normas Oficiales Mexicanas, la comisión Federal de Electricidad, así como con las Normas y Fichas Técnicas que establezca para cada caso específico la Dependencia municipal rectora.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1184], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1184], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1390°.
+###### ARTÍCULO 1431°.
 
 Las edificaciones deberán estar provistas de instalaciones de agua potable para abastecer y satisfacer la demanda mínima necesaria.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1185], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1185], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1391°.
+###### ARTÍCULO 1432°.
 
 Las edificaciones y predios deberán estar provistos de instalaciones que garanticen el drenaje eficiente de aguas negras y pluviales con las siguientes características:
 
@@ -15261,375 +15545,107 @@ VI. Las tuberías de ramaleo interior, de la instalación sanitaria de las edifi
 
 VII. Cuando por el tipo de desechos se requiera la construcción de registros con arenero o cajas desgrasadoras, éstos se ejecutarán de acuerdo a las especificaciones que dicte la Dirección de Planeación y Obras Públicas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1186], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1186], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1392°.
+###### ARTÍCULO 1433°.
 
 Los talleres de reparación de vehículos, gasolinerías y auto baños, deben contar con (sic) en todos los casos con trampas de grasa y de arena en las tuberías de agua residual antes de conectarlas a la red de alcantarillado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1187], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1187], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO III. De los Proyectos Arquitectónicos
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1146], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1353°.
-
-Los elementos arquitectónicos que constituyan el perfil de una fachada, tales como pilastras, sardineles, rejas y marcos de puertas y ventanas situados a una altura menor de dos metros cincuenta centímetros sobre el nivel de la banqueta, podrán sobresalir del alineamiento hasta diez centímetros. Estos mismos elementos situados a una altura mayor de dos metros cincuenta centímetros, podrán sobresalir del alineamiento hasta veinte centímetros como máximo Lo anterior es aplicable previa observancia de las servidumbres que establezca el alineamiento.
-
-Los balcones abiertos situados a una altura mayor de dos metros cincuenta centímetros podrán salir del alineamiento hasta un metro, pero al igual que todos los elementos arquitectónicos, deberán ajustarse a las restricciones sobre distancias a líneas de transmisión que señala este Libro.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1147], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1354°.
-
-Cuando la acera tenga una anchura menor de un metro cincuenta centímetros, la Secretaría fijará las dimensiones de los balcones y los niveles en que se pueda permitir.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1148], P.O. 22 DE ABRIL DE 2024)</small>
-
-(SIC)°.- Las marquesinas podrán sobresalir del alineamiento, el ancho de la acera disminuido en sesenta centímetros, pero sin exceder de un metro; no deberán usarse como balcón cuando su construcción se proyecte sobre la vía pública. Todos los elementos de la marquesina deberán estar situados a una altura mayor de dos metros cincuenta centímetros sobre el nivel de la banqueta.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1149], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1355°.
-
-Los toldos podrán sobresalir del alineamiento el ancho de la acera, ningún elemento de los mismos deberá estar a una altura menor de dos metros veinte centímetros sobre el nivel de la banqueta. Los permisos para la colocación de toldos tendrán carácter temporal, pudiendo la Secretaria revocarlos en cualquier momento que se juzgue conveniente.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1150], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1356°.
-
-Tratándose de asoleamiento entre viviendas unifamiliares y edificios superiores a cinco niveles sobre la banqueta, éstos deberán permitir un mínimo de asoleamiento en la época de invierno, respetando una separación mínima en su colindancia posterior cuando ésta coincida con la orientación norte, para ese efecto deberá respetar una distancia entre ambos que corresponda al quince por ciento de la altura máxima el (sic) edificio, sin perjuicio de cumplir con lo establecido en este Libro para patios de iluminación y ventilación.
-
-La Presidencia Municipal podrá fijar otras limitaciones a la altura de los edificios en determinadas zonas, de acuerdo con este Libro y demás legislación de la materia vigente.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1151], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1357°.
-
-Los locales de las edificaciones según su tipo tendrán el mínimo de las dimensiones y características que se establecen en la tabla siguiente:
-
-> <small>[N. DE E. VÉASE TABLAS EN EL P.O. DE 14 DE OCTUBRE DE 2019, PÁGINAS DE LA 208 A LA 210]</small>
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1152], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1358°.
-
-Deberán proveerse las facilidades que requieran las personas que utilicen sillas de ruedas, siendo los requisitos mínimos indispensables, los siguientes:
-
-I. Todos los estacionamientos deberán destinar un cajón de estacionamiento por cada cincuenta cajones o fracción, a partir de treinta cajones, para uso exclusivo de personas discapacitadas, ubicado lo más cercano posible del acceso o elevadores. Las medidas del cajón serán de cinco por tres metros ochenta centímetros;
-
-II. Los Centros de Reunión, Edificios para Comercio, Educación, Oficinas, Espectáculos y Templos que se localicen en planta baja, deberán contar con rampas que cumplan con las condiciones que indica este Libro;
-
-III. En auditorios, teatros, cines, templos, salas de concierto y en general para todo tipo de centros de reunión o salas de espectáculos, deberá destinarse, por cada cien concurrentes o fracción, a partir de sesenta concurrentes, de un espacio para uso exclusivo de personas discapacitadas, este deberá tener medidas de ochenta centímetros por un metro veinticinco centímetros, libre de butacas y fuera del área de circulación; y
-
-IV. Los Centros de Reunión y Salas de Espectáculos deberán contar con rampas que permitan el acceso a discapacitados a todos los puntos de la planta baja y en entrepisos con altura hasta de seis metros, sobre el nivel de la banqueta que cumplan con la pendiente máxima y ancho que se indica en este Libro.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1153], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1359°.
-
-Los edificios deberán tener los espacios descubiertos necesarios para lograr una buena iluminación y ventilación en los términos que se establecen en este CAPÍTULO, sin que dichas superficies puedan ser techadas, parcial o totalmente con volados, corredores, pasillos o escaleras.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1154], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1360°.
-
-Los patios para dar iluminación y ventilación naturales tendrán las siguientes dimensiones mínimas en relación con la altura de los parámetros verticales que los limiten:
-
-I. Para piezas habitables, comercios y oficinas;
-
-Con altura hasta Dimensión mínima
-
-5.00 m. 2.00 m.
-
-8.00 m. 3.25 m.
-
-12.00 m. 4.00 m.
-
-En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la tercera parte de la altura total del paramento vertical que lo limite si esta altura es variable, se tomará el promedio.
-
-II. Para otras piezas no habitables;
-
-Con altura hasta Dimensión mínima
-
-4.00 Pts. 2.00 Pts.
-
-8.00 Pts. 2.25 Pts.
-
-12.00 Pts. 2.50 Pts.
-
-En caso de alturas mayores, la dimensión mínima del patio deberá ser igual a la quinta parte de la altura del total del paramento vertical que lo limite. Si esta altura es variable se tomará el promedio.
-
-III. Se permitirán las siguientes tolerancias en las dimensiones mínimas de los patios señalados en este Artículo, en los casos que a continuación se detallan:
-
-a) Se autorizará la reducción hasta de un quince por ciento en la dimensión mínima del patio en el sentido de la orientación este-oeste y hasta una desviación de cuarenta y cinco grados sobre esta línea, siempre y cuando en el sentido transversal se incremente cuando menos, en un veinte por ciento la dimensión mínima correspondiente;
-
-b) En cualquier otra orientación se autorizará la reducción hasta de un quince por ciento en una de las dimensiones mínimas del patio. Siempre y cuando la dimensión opuesta tenga por lo menos, una vez y media lo mínimo correspondiente;
-
-c) En el sentido perpendicular a los patios en que existan muros ciegos o ventanas de piezas no habitables, se autorizará la reducción hasta de un quince por ciento en la dimensión mínima del patio, siempre y cuando en el otro sentido se incremente cuando menos en un veinte por ciento la dimensión mínima correspondiente;
-
-d) En los patios exteriores cuyo lado menor esté abierto a la vía pública, se aplicarán las normas consignadas en el inciso b) de la fracción II de este precepto;
-
-e) En terrenos con las dimensiones mínimas de seis metros por quince metros, se aceptará como dimensión mínima de los patios dos metros, para piezas habitables, en edificaciones con altura hasta dos niveles.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1155], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1361°.
-
-En las edificaciones para vivienda, las áreas descubiertas que deben aplicarse a los fines de iluminación y ventilación naturales, tendrán la superficie libre que indica el presente Libro, siempre y cuando no sea menor de veinte por ciento del área total del predio. La superficie libre se considera la que se presenta sin techar.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1156], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1362°.
-
-Las habitaciones destinadas a dormitorios, alcobas, salas o estancias tendrán iluminación y ventilación naturales por medio de vanos que den directamente a la vía pública o a la superficie descubierta.
-
-La superficie total de ventanas para iluminación libre de obstrucción, será por lo menos del ocho por ciento de la superficie de la habitación y para ventilación de cinco por ciento salvo el baño en que, para iluminación y ventilación, será el ocho por ciento de su área, y en cocinas será de dieciséis punto seis por ciento, sin que sea menor de un metro cuadrado.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1157], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1363°.
-
-Cualquier otro local deberá preferentemente contar con iluminación y ventilación naturales de acuerdo con estos mismos requisitos, pero se permitirá la iluminación por medios artificiales y la ventilación por los medios electromecánicos.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1158], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1364°.
-
-No se permitirá abrir vanos sobre las colindancias hacia predios vecinos.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1159], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1365°.
-
-Se permitirá la iluminación diurna natural por medio de domas o tragaluces en los casos de baños, cocinas domésticas, locales de trabajo, reunión, almacenamiento, circulaciones y servicios.
-
-En estos casos, la proyección horizontal del vano libre del domo o tragaluz, podrá dimensionarse tomando como base mínima el cuatro por ciento de la superficie del local. El coeficiente de transmitividad del espectro solar del material transparente o traslucido de domos y tragaluces en estos casos no será inferior al ochenta y cinco por ciento.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1160], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1366°.
-
-Se aceptará la ventilación cenital, siempre y cuando la superficie libre cumpla con el cinco por ciento del área del local.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1161], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1367°.
-
-Las características y dimensiones de las circulaciones horizontales deberán ajustarse a las siguientes disposiciones:
-
-I. Todos los locales de un edificio deberá (sic) tener salidas, pasillos o corredores que conduzcan directamente a las puertas de salida o a las escaleras;
-
-II. El ancho mínimo de los pasillos y de las circulaciones para el público cuando su longitud no exceda de seis metros será, de un metro veinte centímetros, excepto en interiores de viviendas unifamiliares y de oficinas en donde podrá ser noventa centímetros. En pasillos con longitud mayor, su anchura deberá ser aumentada proporcionalmente según lo determine la Dirección de Planeación y Obras Públicas;
-
-III. Los pasillos y los corredores lo (sic) deberán tener salientes o tropezones que disminuya (sic) su anchura, a una altura inferior a dos metros cincuenta centímetros; y
-
-IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros y se construirán de manera que impidan el paso de niños a través de ellos. En caso de edificios para habitación colectiva y escuelas de primera y segunda enseñanza, los barandales calados deberán ser solamente de elementos verticales, con excepción de los pasamanos, cuyo diseño impedirá que sirva de asiento.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1162], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1368°.
-
-Las escaleras de las construcciones públicas deberán satisfacer los siguientes requisitos:
-
-I. Los edificios tendrán siempre escaleras que comuniquen todos sus niveles, aun cuando existan elevadores;
-
-II. Las escaleras serán en tal número que ningún punto servido del piso o planta se encuentre a una distancia mayor de veinticinco metros de alguna de ellas;
-
-III. Las escaleras en casas unifamiliares o en el interior de departamentos unifamiliares tendrán una anchura mínima de noventa centímetros, excepto las de servicio, que podrán tener una anchura mínima de sesenta centímetros;
-
-IV. En los centros de reunión y salas de espectáculos, las escaleras tendrán una anchura mínima igual a la suma de las anchuras de las circulaciones a las que den servicio;
-
-V. El ancho de los descansos deberá ser, cuando menos, igual a la anchura reglamentaria de la escalera;
-
-VI. La huella de los escalones tendrá un ancho mínimo de veinticinco centímetros y sus peraltes un máximo de dieciocho centímetros;
-
-VII. Las escaleras contarán con un máximo de trece peraltes entre descansos, excepto las de caracol;
-
-VIII. En cada tramo de escalera, las huellas serán todas iguales; la misma condición deberán cumplir los peraltes;
-
-IX. El acabado de la huella será antiderrapante;
-
-X. La altura mínima de los barandales, siendo necesarios estos cuando la escalera no este flanqueada por muros, será de noventa centímetros, medidos a partir de la nariz del escalón. Se construirán con el anclaje y rigidez adecuados y de manera que impidan el paso de niños a través de ellos; y
-
-XI. Las escaleras de caracol se permitirán solamente para comunicar niveles pertenecientes a un mismo local, oficina, departamento o casa unifamiliar y deberán tener un radio útil mínimo de sesenta metros si son de servicio o de noventa centímetros si son principales.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1163], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1369°.
-
-Las rampas para peatones en cualquier tipo de construcción, así como en las aceras, deberán satisfacer los siguientes requisitos:
-
-I. Tendrán una anchura mínima igual a la señalada para las escaleras;
-
-II. La pendiente máxima será del diez por ciento;
-
-III. Los pavimentos serán antiderrapantes; y
-
-IV. La altura mínima de los barandales, cuando se requieran, será de noventa centímetros.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1164], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1370°.
-
-La anchura de los accesos, salidas, salidas de emergencia y puertas que comuniquen con la vía pública, tendrán un ancho mínimo de un metro, veinte centímetros y una altura de dos metros diez centímetros.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1165], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1371°.
-
-Se exceptúan de la disposición anterior, las puertas de acceso a casa habitación unifamiliares a departamentos y oficinas ubicadas en el interior de edificios y a las aulas en edificios destinados a la educación, las que podrán tener una anchura libre mínima de noventa centímetros. Asimismo en estos edificios, las puertas interiores de comunicación o de áreas de servicios podrán tener una anchura libre mínima de setenta centímetros.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1166], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1372°.
-
-Los accesos que en condiciones normales sirvan también de salida, o aquéllas de emergencia deberán permitir el desalojo del local en un máximo de tres minutos, considerando que cada persona puede salir por una anchura de sesenta centímetros, en un segundo; por lo tanto, la anchura siempre será múltiplo de sesenta centímetros, y nunca será menor que la suma de los anchos de los pasillos que converjan a la salida.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1167], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1373°.
-
-Cuando la capacidad de los hospitales, centros de reunión, salas de espectáculos y espectáculos deportivos, similares o análogos sea superior a cuarenta concurrentes o cuando el área de ventas de locales y centros comerciales sea superior a un mil metros cuadrados, deberán contar con salidas de emergencia.
-
-Preferentemente, dichas salidas deberán acondicionarse en sitios opuestos a las salidas ordinarias y deberán existir en cada nivel.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1168], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1374°.
-
-Las salidas de emergencia deberán tener comunicación directa a la vía pública o lo harán por medio de pasillos con la anchura reglamentaria. Queda prohibida la existencia de puertas simuladas o espejos en los pasillos de salida. La anchura de las salidas será de acuerdo a lo especificado en el Artículo de Requisitos de Salidas de Emergencia.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1169], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1375°.
-
-Los pasillos estarán libres de toda obstrucción y con pasamanos adecuados conforme a este ordenamiento. Los materiales empleados serán de tipo incombustible y con pisos antiderrapantes.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1170], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1376°.
-
-Para las edificaciones especificadas en el Artículo 1167°, las salidas de emergencia deberán señalarse mediante letreros con los textos "Salida de Emergencia" según el caso, mediante flechas y símbolos luminosos, que indiquen la ubicación y dirección de las salidas. Los textos y figuras deberán ser claramente visibles desde cualquier punto del área a la que sirvan y estarán iluminados en forma permanente, aunque se llegare a interrumpir el servicio eléctrico general.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1171], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1377°.
-
-Las puertas de las salidas o de las salidas de emergencia de los edificios mencionados en el Artículo 1167°, deberán satisfacer los siguientes requisitos:
-
-I. Siempre serán abatibles hacia el exterior sin que sus hojas obstruyan pasillos o escaleras;
-
-II. Contarán con dispositivos que permitan su apertura con el simple empuje de los concurrentes;
-
-III. Cuando comunique con escaleras, entre la puerta y el peralte inmediato, deberá haber un descanso con la longitud mínima de un metro veinte centímetros; y
-
-IV. No habrá puertas simuladas ni se colocarán espejos en las puertas.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1172], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1378°.
-
-Las edificaciones deberán contar con las instalaciones y equipos requeridos para prevenir y combatir los incendios.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1173], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1379°.
-
-Las escaleras y rampas de edificios que no sean unifamiliares, deberán construirse con materiales no combustibles.
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1174], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1393°.
+###### ARTÍCULO 1434°.
 
 En los lugares a los que asista público se contará con servicios sanitarios separados para hombres y mujeres. El acceso a éstos se hará de tal forma que se impida la vista directa de cualquiera de los muebles sanitarios al abrir la puerta.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1188], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1188], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1394°.
+###### ARTÍCULO 1435°.
 
 Los inodoros, lavabos y regaderas a que se refiere el artículo anterior se distribuirán por partes iguales en locales separados para hombres y mujeres y en los casos en que se demuestre el predominio de un sexo sobre otro en cantidad entre los usuarios, podrá distribuirse en la proporción equivalente, señalándolo así en el proyecto.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1189], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1189], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1395°.
+###### ARTÍCULO 1436°.
 
 Sólo podrán construirse las instalaciones mecánicas, eléctricas, de ventilación, de aire acondicionado, neumático, de gas, de seguridad y similar que estén proyectadas de conformidad con las Normas Oficiales Mexicanas expedidas por las dependencias o instancias correspondientes que sean competentes según las demás disposiciones legales vigentes.
 
 En todo caso el propietario estará obligado a conservarlas en condiciones tales que se proporcione permanentemente un servicio seguro y eficiente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1190], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1190], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1396°.
+###### ARTÍCULO 1437°.
 
 Los circuitos de iluminación de las edificaciones de habitación, comercio, salud, educación y cultura deberán tener interruptores de corriente de acuerdo con las Normas Oficiales Mexicanas.
 
 Los interruptores deberán estar en un punto de fácil acceso para caso de siniestro y próximos al encendido del sistema de emergencia en su caso.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1191], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1191], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1397°.
+###### ARTÍCULO 1438°.
 
 Para circulaciones horizontales y verticales en todas las edificaciones, excepto de habitación el nivel de iluminación, será cuando menos cien luxes. Para el uso de sanitarios en general el nivel mínimo será de setenta y cinco luxes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1192], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1192], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1398°.
+###### ARTÍCULO 1439°.
 
 Las instalaciones de calderas, calentadores y aparatos similares, así como la de sus accesorios se harán de manera que no causen molestias, contaminen el ambiente ni pongan en peligro a las personas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1193], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1193], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1399°.
+###### ARTÍCULO 1440°.
 
 Deberán dejarse registros, ductos y preparaciones para instalaciones telefónicas en los edificios con más de tres departamentos en comercios u oficinas con área superior a trescientos metros cuadrados en industrias o bodegas con más de quinientos metros cuadrados, en casas de huéspedes, en hoteles, en hospitales o clínicas, en escuelas con más de tres aulas, en salas de espectáculos, en edificios para espectáculos deportivos, en clubes deportivos o sociales y en cualquier otra edificación cuya superficie construida sea mayor de mil metros cuadrados.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1400°.
+### CAPÍTULO V. De la Edificación para Habitación
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1194], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1441°.
 
 Para los efectos de este Libro, se considerarán piezas habitables los locales que se destinen a salas, estancias, comedores dormitorios, alcobas, despachos y oficinas, y no habitables, las destinadas a cocinas, cuartos de baño, lavaderos, cuartos de planchar y otros similares.
 
 En los planos deberá indicarse con precisión el destino de cada local, el que deberá ser congruente con su ubicación, funcionamiento y dimensiones.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1195], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1195], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1401°.
+###### ARTÍCULO 1442°.
 
 Cada vivienda de un edificio deberá contar con sus propios servicios sanitarios, conforme se establece en la tabla correspondiente de este Libro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1196], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1196], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1402°.
+###### ARTÍCULO 1443°.
 
 En el proyecto de las viviendas, deberá tomarse en cuenta el crecimiento de éstas a fin de que de antemano sean consideradas las soluciones constructivas finales y arquitectónicas de las mismas.
 
 La vivienda progresiva deberá contar en un principio con un área mínima de 33 metros cuadrados.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1197], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1197], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1403°.
+###### ARTÍCULO 1444°.
 
 Las ampliaciones en unidades habitacionales, deberán ser aprobadas por la Dirección de Planeación y Obras Públicas, con el fin de que armonicen con el conjunto.
 
 Cuando se tratare de obras en las áreas comunes, una vez que lo determine la Asamblea, con los términos que marca el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda para el Estado de Aguascalientes, recabará la aprobación de la Presidencia Municipal, para los fines citados en el párrafo anterior.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1198], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1198], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1404°.
+###### ARTÍCULO 1445°.
 
 Vivienda rural es aquella que se encuentra en poblaciones menores de dos mil habitantes, que cuenta con un solo nivel.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1199], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1199], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1405°.
+###### ARTÍCULO 1446°.
 
 Las viviendas y escuelas ubicadas en el área rural que no cuenten con drenaje deberán de contar con letrina sanitaria.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1200], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1200], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1406°.
+###### ARTÍCULO 1447°.
 
 Las letrinas sanitarias deberán contar y sujetarse a lo siguiente:
 
@@ -15639,9 +15655,11 @@ II. La distancia mínima de la letrina a la vivienda será de cinco metros; y
 
 III. Para la construcción y mantenimiento de las letrinas sanitarias deberán seguirse las normas técnicas del Instituto de Salud del Estado de Aguascalientes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1201], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1201], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-ARTÍCULO 1408° (SIC).- Se consideran anexos de la vivienda rural, los espacios para corrales de ganado bovino, equino, porcino, etc.;
+###### ARTÍCULO 1448°.
+
+Se consideran anexos de la vivienda rural, los espacios para corrales de ganado bovino, equino, porcino, etc.;
 
 I. Estos elementos no podrán estar a una distancia horizontal menor de 5.00 metros de la vivienda como tal; y
 
@@ -15649,49 +15667,35 @@ II. Los desechos biológicos de los animales deberán de ser canalizados hacia e
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1407°.
+### CAPÍTULO VI. De la Edificación para Comercios y Servicios
 
-Todo servidor público estará impedido para intervenir o conocer de cualquier procedimiento administrativo municipal, debiendo en ese caso, inhibirse para conocer, cuando:
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1202], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-I. Tenga interés directo o indirecto;
-
-II. Tenga interés su cónyuge, consanguíneos en línea recta sin limitación de grados y colaterales del cuarto grado o los afines dentro del segundo grado;
-
-III. Exista manifiesta amistad o enemistad;
-
-IV. Tenga relación de servicio, o dependa del servidor por razones laborales; y
-
-V. Cualquier otra prevista en el presente Código.
-
-###### ARTÍCULO 1408°.
-
-Los particulares con capacidad jurídica podrán promover por sí o por interpósita persona.
-
-###### ARTÍCULO 1409°.
+###### ARTÍCULO 1449°.
 
 Las circulaciones para uso del público entre mostradores o entre muebles para la exhibición y venta de Artículos en locales comerciales o en edificios destinados a comercios, tendrán un mínimo de un metro veinte centímetros de ancho y se mantendrán libres de obstrucciones.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1203], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1203], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1410°.
+###### ARTÍCULO 1450°.
 
 En comercios y oficinas, los cristales y espejos de gran magnitud, cuyo extremo inferior quede a menos de cincuenta centímetros del nivel del piso colocados en lugares a los que tenga acceso el público, deberán señalarse o protegerse adecuadamente para evitar accidentes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1204], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1204], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1411°.
+###### ARTÍCULO 1451°.
 
 La superficie mínima para una oficina será de ocho metros cuadrados y su altura mínima de dos metros treinta centímetros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1205], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1205], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1412°.
+###### ARTÍCULO 1452°.
 
 En el proyecto arquitectónico de los edificios comerciales se incluirán las áreas necesarias para letreros, rótulos o cualquier otra clase de anuncios, así como para los anuncios que deban integrarse al propio inmueble, con sujeción a las disposiciones de este Libro y del Código, o en casos especiales.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1206], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1206], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1413°.
+###### ARTÍCULO 1453°.
 
 Cuando la nave de un mercado tenga más de mil metros cuadrados, deberá tener una altura mínima de seis metros. Los pasillos tendrán un ancho mínimo de un metro cincuenta centímetros y no tendrán obstrucciones. Su piso será antiderrapante.
 
@@ -15703,21 +15707,21 @@ La superficie destinada a la ventilación será como mínimo el veinte por cient
 
 Deberán contar con un cuarto para el depósito de basura con las dimensiones suficientes, su ventilación será cenital y su puerta deberá ser hermética.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1207], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1207], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1414°.
+###### ARTÍCULO 1454°.
 
 Los muros de las carnicerías y pescaderías deberán ser lavables; preferentemente recubiertos de azulejo. Estos locales deberán contar con tarja.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1208], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1208], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1415°.
+###### ARTÍCULO 1455°.
 
 En los tianguis cuando se instalen mantas, deberá conservarse la circulación con una altura mínima de dos metros cincuenta centímetros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1209], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1209], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1416°.
+###### ARTÍCULO 1456°.
 
 Los edificios destinados a primera y segunda enseñanza, deberán contar con las superficies mínimas siguientes:
 
@@ -15727,71 +15731,71 @@ II. La superficie de aulas se calculará a razón de un metro cuadrado por alumn
 
 III. La superficie de esparcimiento será de dos metros cincuenta centímetros cuadrados por alumno en jardines de niños: y de tres metros cincuenta centímetros cuadrados en primaria y secundaria, la cual deberá tener jardines o pisos nivelados y drenados adecuadamente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1210], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1210], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1417°.
+###### ARTÍCULO 1457°.
 
 Todas las escuelas deberán tener aulas de forma y características tales que permitan a todos los alumnos tener una visibilidad adecuada del área donde se imparta la enseñanza. La altura promedio interior será de dos metros setenta centímetros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1211], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1211], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1418°.
+###### ARTÍCULO 1458°.
 
 Los salones de reunión tendrán dos puertas de un metro de anchura mínima cada una.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1212], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1212], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1419°.
+###### ARTÍCULO 1459°.
 
 En edificios escolares, la dimensión mínima de los patios que sirvan para dar ventilación e iluminación a las aulas, será igual a un medio de la altura de los paramentos que los limiten, pero no menor de tres metros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1213], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1213], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1420°.
+###### ARTÍCULO 1460°.
 
 Cada escuela deberá tener un local destinado para servicio médico de emergencia, dotado del equipo e instrumental necesario.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1214], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1214], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1421°.
+###### ARTÍCULO 1461°.
 
 Las dimensiones mínimas en planta de los cuartos para enfermos serán de tres metros libres y la altura de dos metros cuarenta centímetros.
 
 En todo caso, los cuartos para enfermos, individuales o generales, tendrán las dimensiones suficientes para permitir libremente los movimientos de las camillas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1215], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1215], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1422°.
+###### ARTÍCULO 1462°.
 
 En las salas de urgencias los accesos a las mismas, no deberán ser interferidos por ninguna circulación.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1216], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1216], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1423°.
+###### ARTÍCULO 1463°.
 
 Todos los departamentos tendrán servicio de llamado sonoro y luminoso.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1217], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1217], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1424°.
+###### ARTÍCULO 1464°.
 
 Los Cementerios estarán situados en las afueras de las poblaciones, en dirección opuesta a los vientos dominantes, circundados de muros o cercas sólidas y cerradas con puertas o rejas. Asimismo, estarán ubicados a distancia no menor de doscientos metros de depósitos naturales de agua o pozos destinados al servicio humano.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1218], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1218], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1425°.
+###### ARTÍCULO 1465°.
 
 En los Cementerios se podrán instalar Hornos Crematorios construidos de acuerdo con las especificaciones establecidas en las disposiciones sanitarias de la Ley de Salud.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1219], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1219], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1426°.
+###### ARTÍCULO 1466°.
 
 En los cementerios debe aparecer la distribución de lotes para sepulturas, con nomenclatura definida, sencilla y clara de las calles y numeración de lotes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1220], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1220], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1427°.
+###### ARTÍCULO 1467°.
 
 Serán consideradas como dimensiones mínimas de los lotes.
 
@@ -15827,39 +15831,35 @@ Alto = 0.80 m.
 
 Las losas de las gavetas deberán estar a un mismo nivel por la cara superior interna y en la cara inferior interna tendrán un desnivel cuya pendiente no sea menor al dos por ciento hacia el fondo, con el objeto de que los líquidos que pudieran escurrir se canalicen por un drenaje que al efecto debe construirse hacia el subsuelo, en donde habrá una fosa séptica que lo reciba. Toda esta área deberá estar constructivamente sellada en forma hermética.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1221], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1221], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1428°.
+###### ARTÍCULO 1468°.
 
 Para el tipo de panteón horizontal tradicional, todos los lotes para inhumaciones tendrán acceso directo a una calle, por lo menos, y la anchura mínima de éstas será de tres metros en los cementerios de uso general y de dos metros en los de uso local.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1222], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1222], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1429°.
+###### ARTÍCULO 1469°.
 
 La profundidad mínima de la excavación en las fosas comunes, será de un metro cincuenta centímetros contados desde el nivel de la calle adyacente. Podrán autorizarse bóvedas en las fosas, descansando losas de concreto sobre muretes de ladrillo de catorce centímetros. Cuando no se cubra con mampostería el fondo de la excavación, la profundidad de ella será de un metro veinticinco centímetros como mínimo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1223], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1223], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO IV. De las Instalaciones Hidráulicas y Eléctricas
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1183], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1430°.
+###### ARTÍCULO 1470°.
 
 Podrán construirse bóvedas herméticas en el caso de que se deseen dos gavetas superpuestas, las cuales tendrán setenta centímetros de altura libre, mínima, cada una, con cubiertas de losas de concreto de cinco centímetros, quedando el nivel de la tapa superior a cincuenta centímetros abajo del nivel de la calle adyacente, y una profundidad total de dos metros. Sobre la gaveta superior, podrán depositarse restos, no pasando del nivel del terreno, dentro de la construcción hermética en nichos aislados.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1224], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1224], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1431°.
+###### ARTÍCULO 1471°.
 
 Para el tipo de panteón horizontal tradicional, sólo se autorizará la construcción de criptas familiares, colocando gavetas a uno y a otro lado de un pasillo central para el descenso de cadáveres, cuando la superficie disponible sea la de tres lotes contiguos como mínimo.
 
 Las criptas serán de materiales impermeables y las tapas tendrán un cierre hermético. Sobre estas criptas podrán autorizarse nichos para restos, siempre que su construcción sea hermética y de materiales impermeables, quedando los nichos sobre el nivel del terreno.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1225], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1225], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1432°.
+###### ARTÍCULO 1472°.
 
 La circulación del público en los cementerios se asegurará, por lo menos:
 
@@ -15867,9 +15867,9 @@ I. Por una avenida de circulación contigua al muro que limitará al cementerio,
 
 II. Para el tipo de panteón horizontal tradicional, por calles secundarias para peatones de anchura mínima de dos metros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1226], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1226], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1433°.
+###### ARTÍCULO 1473°.
 
 Las construcciones para industrias deberán reunir los siguientes requisitos:
 
@@ -15887,33 +15887,37 @@ a) Densidades de Construcción en Industrias.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1434°.
+### CAPÍTULO VII. De la Edificación para Centros de Reunión y Espectáculos
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1227], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1474°.
 
 El cupo de los centros de reunión se calculará a razón de un metro cuadrado por persona.
 
 Si en ellos hubiese pista de baile, ésta deberá tener una superficie mínima de veinte decímetros cuadrados por persona, de acuerdo con el cupo total, la cual será independiente del área por concurrente especificada en el párrafo anterior.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1228], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1228], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1435°.
+###### ARTÍCULO 1475°.
 
 En los centros de reunión, el área de los vestíbulos será por lo menos de punto veinticinco metros cuadrados por concurrente hasta doscientos concurrentes y de punto treinta metros cuadrados por concurrente para más de doscientos cincuenta concurrentes, debiendo quedar adyacente a la vía pública, por lo menos, la cuarta parte de dicha área.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1229], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1229], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1436°.
+###### ARTÍCULO 1476°.
 
 Los escenarios, vestidores, cocinas, bodegas, talleres, cuartos de máquinas y casetas de proyección de los centros de reunión, deberán aislarse del área destinada a los concurrentes mediante elementos o materiales que impidan la transmisión del ruido o de las vibraciones, así mismo se impedirá que el ruido generado en este tipo de edificios pueda causar molestias a los vecinos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1230], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1230], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1437°.
+###### ARTÍCULO 1477°.
 
 Habrá una instalación de emergencia con encendido automático, alimentada con acumuladores o baterías, que proporcionará a los salones, vestíbulos y circulaciones una iluminación de emergencia de cinco luxes mínimo en tanto se restablezca la falla.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1231], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1231], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1438°.
+###### ARTÍCULO 1478°.
 
 Las Salas de espectáculos deberán reunir los siguientes requisitos:
 
@@ -15927,117 +15931,109 @@ IV. Los accesos y salidas se localizarán de preferencia en calles diferentes;
 
 V. Toda clase de espectáculos deberá contar al menos con tres salidas con anchura mínima cada una de un metro ochenta centímetros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1232], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1232], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1439°.
+###### ARTÍCULO 1479°.
 
 Las salas de espectáculos deberán tener vestíbulos que comuniquen la sala con la vía pública o con los pasillos de acceso a ésta; tales vestíbulos deberán tener una superficie mínima calculada a razón de punto veinticinco metros cuadrados por concurrente, hasta doscientos cincuenta concurrentes y de punto treinta metros cuadrados por concurrente, para más de doscientos cincuenta concurrentes.
 
 Además, cada clase de localidad deberá contar con espacio para el descanso de los espectadores durante los intermedios, que se calculará a razón de quince decímetros cuadrados por concurrente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1233], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1233], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1440°.
+###### ARTÍCULO 1480°.
 
 Los pasillos de las salas deberán desembocar al vestíbulo a nivel con el piso de éste.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1234], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1234], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO V. De la Edificación para Habitación
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1194], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1441°.
+###### ARTÍCULO 1481°.
 
 El total de las anchuras de las puertas que comuniquen la calle con los pasillos de acceso o salida a ella, deberá por lo menos ser igual a las cuatro terceras partes de la suma de las anchuras de las puertas que comuniquen el interior de la sala con los vestíbulos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1235], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1235], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1442°.
+###### ARTÍCULO 1482°.
 
 Será siempre requisito indispensable la colocación de marquesinas en las puertas de salida a la vía pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1236], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1236], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1443°.
+###### ARTÍCULO 1483°.
 
 En los templos o lugares destinados al culto el cupo se calculará a razón de punto cinco metros cuadrados por asistente para aforo hasta de doscientos cincuenta asistentes y para más de doscientos cincuenta concurrentes, el aforo se calculará a razón de punto siete metros cuadrados por asistente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1237], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1237], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1444°.
+###### ARTÍCULO 1484°.
 
 En todas las puertas que comunique a la vía pública o espacios descubiertos, se instalarán canceles o dispondrá de puertas con cierre automático para obtener aislamiento acústico y visual.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1238], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1238], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1445°.
+###### ARTÍCULO 1485°.
 
 Cuando menos una de las salidas deberá conectarse a la vía pública por medio de un atrio que tendrá una dimensión mínima de cinco metros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1239], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1239], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1446°.
+###### ARTÍCULO 1486°.
 
 Cuando existan habitaciones anexas al templo, no tendrán conexión dentro con él.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1240], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1240], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1447°.
+###### ARTÍCULO 1487°.
 
 Las salas de espectáculos deberán contar con taquillas que no obstruyan la circulación y se localicen en forma visible, Deberá haber cuándo menos una taquilla por cada mil quinientos espectadores o fracción de acuerdo con el cupo de la localidad.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1241], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1241], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1448°.
+###### ARTÍCULO 1488°.
 
 Sólo se permitirá la instalación de butacas en las salas de espectáculos, por lo que se prohibirá la construcción de gradas, si no están provistas de asientos individuales. La anchura mínima de las butacas será de cincuenta centímetros, debiendo quedar un espacio libre mínimo de cuarenta centímetros entre el frente de un asiento y el respaldo del próximo, medido éste entre verticales. La distancia desde cualquier butaca al punto más cercano de la pantalla será la mitad de la dimensión mayor de ésta, pero en ningún caso menor de siete metros ya que queda prohibida la colocación de butacas en zonas de visibilidad defectuosa.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1242], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1242], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO VI. De la Edificación para Comercios y Servicios
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1202], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1449°.
+###### ARTÍCULO 1489°.
 
 Las butacas deberán estar fijas en el piso a excepción de las que se sitúen en palcos y plateas, debiendo tener siempre asientos plegadizos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1243], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1243], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1450°.
+###### ARTÍCULO 1490°.
 
 Los pasillos interiores para circulación en las salas de espectáculos, tendrán una anchura mínima de un metro veinte centímetros cuando haya asientos a ambos lados y de noventa centímetros cuando cuenten con asientos a un solo lado, quedando prohibido colocar más de catorce butacas para desembocar a dos pasillos y siete a desembocar a un sólo pasillo.
 
 Los pasillos con escalones, tendrán una huella mínima de treinta centímetros y un peralte máximo de diecisiete centímetros y deberán estar convenientemente iluminados. En los muros de los pasillos, no se permitirán salientes a una altura menor de tres metros en relación con el piso de los mismos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1244], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1244], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1451°.
+###### ARTÍCULO 1491°.
 
 En todas las puertas que conduzcan al exterior, se colocarán invariablemente letreros con la palabra "salida" y flechas luminosas indicando la dirección de dichas salidas, las letras deberán tener una altura mínima de quince centímetros y estar permanentemente iluminadas, aun cuando se interrumpa el servicio eléctrico general.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1245], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1245], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1452°.
+###### ARTÍCULO 1492°.
 
 Será obligatorio en todas las salas de espectáculos contar con una planta eléctrica de emergencia de la capacidad requerida para todos los servicios.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1246], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1246], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1453°.
+###### ARTÍCULO 1493°.
 
 Las salas de espectáculos deberán contar con ventilación artificial adecuada, para que la temperatura del aire tratado, oscile entre los veintitrés y veintisiete grados centígrados; la humedad relativa, entre el treinta por ciento y el sesenta por ciento, sin que sea permisible una concentración de bióxido de carbono mayor de quinientas partes por millón.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1247], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1247], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1454°.
+###### ARTÍCULO 1494°.
 
 Se considerarán edificios para espectáculos deportivos y deberán satisfacer los requisitos señalados en este Capítulo, aquellos inmuebles que se destinen a estadios, plazas de toros, arenas, hipódromos, lienzos charros y cualesquiera otros con usos semejantes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1248], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1248], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1455°.
+###### ARTÍCULO 1495°.
 
 Las gradas de los edificios para espectáculos deportivos deberán satisfacer las siguientes condiciones:
 
@@ -16055,21 +16051,21 @@ VI. Contar con una escalera con anchura mínima de noventa centímetros a cada n
 
 VII. Cada quince filas habrá pasillos paralelos a las gradas, con anchura mínima igual a la suma de las anchuras reglamentarias de las escaleras que desemboquen a ellos entre dos puertas o conjuntos de graderías contiguos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1249], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1249], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1456°.
+###### ARTÍCULO 1496°.
 
 Los edificios para espectáculos deportivos deberán tener un local adecuado para servicio médico, con el equipo e instrumental necesario y dotado de servicios sanitarios adecuados. Las paredes de este local, estarán recubiertas de material impermeable hasta un metro ochenta centímetros de altura, como mínimo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1250], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1250], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1457°.
+###### ARTÍCULO 1497°.
 
 Los edificios para espectáculos deportivos deberán tener las instalaciones especiales necesarias para proteger debidamente a los espectadores y jugadores de los riesgos propios del espectáculo que se presente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1251], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1251], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1458°.
+###### ARTÍCULO 1498°.
 
 Las albercas, sea cual fuere su tamaño y forma, contarán cuando menos con:
 
@@ -16087,57 +16083,65 @@ VI. En todas las albercas donde la profundidad sea mayor de noventa centímetros
 
 VII. Deberán diferenciarse, mediante el señalamiento adecuado, las zonas de natación y de clavados y señalarse en lugar visible las profundidades mínima y máxima.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1252], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1252], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1459°.
+###### ARTÍCULO 1499°.
 
 Las ferias con aparatos mecánicos deberán contar, con un lugar previsto con los servicios de primeros auxilios en un sitio de fácil acceso y con señales visibles por lo menos desde veinte metros de distancia.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1253], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1253], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1460°.
+###### ARTÍCULO 1500°.
 
 Las áreas destinadas a andadores, deberán estar libres de los estorbos que puedan ocasionar los cables eléctricos o cualquier tipo de cubierta.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1461°.
+## TÍTULO TERCERO. DE LOS REQUISITOS ESTRUCTURALES
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1254], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1501°.
 
 Se entiende por estructura al conjunto de elementos constructivos que proporcionan la resistencia, la estabilidad y la rigidez en una edificación, los cuales deben interactuar respetando leyes de variación definidas con el fin de lograr el correcto funcionamiento y seguridad de la misma.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1255], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1255], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1462°.
+###### ARTÍCULO 1502°.
 
 Se considera como parte de este libro y de aplicación supletoria, las normas, técnicas pertenecientes al Código Municipal de Aguascalientes y Reglamento de Construcciones para el Distrito Federal.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1256], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1256], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1463°.
+###### ARTÍCULO 1503°.
 
 Toda construcción, ya sea de tipo público o privado deberá tener debidamente integrado un proyecto estructural, cuyas copias deberán ser firmadas por las fuentes responsables de acuerdo a lo establecido en este Libro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1257], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1257], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1464°.
+###### ARTÍCULO 1504°.
 
 El proyecto constará básicamente de dos documentos: la memoria de cálculo y los planos estructurales.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1258], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1258], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1465°.
+###### ARTÍCULO 1505°.
 
 La Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1259], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1259], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1466°.
+###### ARTÍCULO 1506°.
 
 El proyecto constará básicamente de dos documentos: la memoria de cálculo y los planos estructurales.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1260], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1260], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1467°.
+###### ARTÍCULO 1507°.
 
 La Memoria de Cálculo deberá cubrir, con el suficiente grado de detalle como para poder ser revisada evaluada por un profesionista ajeno al proyecto, los siguientes aspectos:
 
@@ -16155,9 +16159,9 @@ VI. Justificación del tipo de cimentación a utilizarse y descripción del comp
 
 VII. Revisión del comportamiento de la estructura y su cimentación ante estados límite de servicio.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1261], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1261], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1468°.
+###### ARTÍCULO 1508°.
 
 Con relación a los planos Estructurales, tanto de la estructura como de la cimentación, éstos deberán estar debidamente dibujados y acotados y deberán indicar lo siguiente:
 
@@ -16181,15 +16185,15 @@ IX. Precauciones tomadas contra cambios en las dimensiones, producidos por fluen
 
 X. Capacidad de carga del terreno donde se proyecta construir el inmueble.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1262], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1262], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1469°.
+###### ARTÍCULO 1509°.
 
 Adicionalmente se deberá incluir el proyecto de protección a colindancias y el estudio de mecánica de suelos cuando esto proceda, según lo establecido en el capítulo de Diseño de Cimentaciones.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1263], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1263], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1470°.
+###### ARTÍCULO 1510°.
 
 Para los efectos de este Capítulo las construcciones según su uso se clasificarán en los siguientes grupos:
 
@@ -16207,85 +16211,63 @@ a) Subgrupo B.1.- Construcciones de más de veinte metros de altura total o uno 
 
 b) Subgrupo B.2.- Las construcciones restantes pertenecientes a este grupo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1264], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1264], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1471°.
+###### ARTÍCULO 1511°.
 
 El proyecto arquitectónico de toda construcción deberá permitir una estructuración eficiente para resistir las acciones que puedan afectar a la estructura.
 
 El proyecto arquitectónico de preferencia permitirá una estructuración regular que cumpla con los requisitos que se establecen en las normas técnicas complementarias de Diseño por sismo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1265], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1265], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1472°.
+###### ARTÍCULO 1512°.
 
 Las construcciones que no cumplan con dichos requisitos de regularidad se diseñarán para condiciones sísmicas más severas en la forma que se especifica en dichas normas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1266], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1266], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1473°.
+###### ARTÍCULO 1513°.
 
 Los acabados, recubrimientos y elementos prefabricados de concreto cuyo desprendimiento pueda ocasionar daños a los ocupantes de la construcción o a los que transiten en su exterior deberán fijarse mediante procedimientos aprobados por los Peritos Responsables según lo establece este Libro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1267], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1267], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO VII. De la Edificación para Centros de Reunión y Espectáculos
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1227], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1474°.
+###### ARTÍCULO 1514°.
 
 Los elementos no estructurales que puedan restringir las deformaciones de la estructura, o que tengan un peso considerable, deberán ser aprobados en sus características y en su forma de fijación por los Peritos Responsables.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1268], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1268], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1475°.
+###### ARTÍCULO 1515°.
 
 Los elementos de gran peso y dimensiones, adosados, colgantes y de azotea que puedan ocasionar daños materiales, tales como libreros altos, anaqueles y tableros eléctricos o telefónicos, deben fijarse de tal manera que se eviten estos daños, deberán ser objeto de diseño estructural en los términos de este títutlo (sic).
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1269], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1269], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-ARTÍCULO 1475° (SIC).- Los anuncios de gran peso y dimensiones, adosados, colgantes y de azotea, deberán ser objeto de diseño estructural en los términos de este título, con particular atención a los efectos del viento. Deberán diseñarse los apoyos y fijaciones a la estructura principal y deberá revisarse su efecto. El proyecto de estos anuncios deberá ser aprobado por los Peritos Responsables de Obra de acuerdo a este Libro.
+###### ARTÍCULO 1516°.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1270], P.O. 22 DE ABRIL DE 2024)</small>
+Los anuncios de gran peso y dimensiones, adosados, colgantes y de azotea, deberán ser objeto de diseño estructural en los términos de este título, con particular atención a los efectos del viento. Deberán diseñarse los apoyos y fijaciones a la estructura principal y deberá revisarse su efecto. El proyecto de estos anuncios deberá ser aprobado por los Peritos Responsables de Obra de acuerdo a este Libro.
 
-###### ARTÍCULO 1476°.
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1270], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-Las medidas de seguridad podrán consistir en:
-
-I. La suspensión de obras, servicios, espectáculos y actividades comerciales, industriales y de prestación de servicios;
-
-II. La clausura total o parcial, de las instalaciones, construcciones, obras, servicios y establecimientos;
-
-III. La desocupación de inmuebles, que presente claro deterioro o un posible riesgo para la comunidad;
-
-IV. La demolición de fincas o construcciones;
-
-V. El retiro de las instalaciones, anuncios u otros objetos de la vía o espacio público o privado, que contravenga este código o las buenas costumbres.
-
-VI. La prohibición de actos de utilización de maquinaria o equipo en obra determinada;
-
-VII. La advertencia pública, mediante la cual se empleen los medios publicitarios sobre cualquier irregularidad en las actividades realizadas por un fraccionador o promovente de condominios, comerciante, industrial o prestador de servicios;
-
-VIII. El Retiro de personas de lugar público o privado, o prohibición de asistir (sic) éste, en caso de riesgo para ellas, para otras o para las propias instalaciones;
-
-IX. La Retención o aseguramiento de mercancías, instrumentos u objetos; y
-
-X. Cualquier prevención que tienda a lograr los fines expresados en el artículo anterior.
-
-###### ARTÍCULO 1477°.
+###### ARTÍCULO 1517°.
 
 Cualquier perforación o alteración de un elemento estructural para alojar ductos o instalaciones deberá ser aprobada por los Peritos Responsables de Obra según este Libro quienes elaborarán planos de detalle que indiquen las modificaciones y refuerzos locales necesarios.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1271], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1271], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1478°.
+###### ARTÍCULO 1518°.
 
 No se permitirá que las instalaciones de gas, agua y drenaje crucen juntas constructivas entre edificios, a menos que se provean de conexiones o tramos flexibles especiales.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1479°.
+### CAPÍTULO II. De los Criterios de Diseño
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1272], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1519°.
 
 Toda estructura y sus componentes deberán diseñarse para cumplir con los requisitos siguientes, según sus distintos tipos de comportamiento:
 
@@ -16295,9 +16277,9 @@ II. Comportamiento bajo Cargas de Servicio.- No rebasar ninguno de los Estado (s
 
 III. Comportamiento bajo Otras Acciones.- Evitar los efectos perjudiciales en la estructura debidos a asentamientos diferenciales de la cimentación, empujes horizontales de tierras y líquidos, cambios de temperatura y de humedad, contracción y flujo plástico en los materiales, etc.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1273], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1273], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1480°.
+###### ARTÍCULO 1520°.
 
 Deberá revisarse que, bajo el efecto de las combinaciones de acciones clasificadas en este Título, la respuesta de las estructuras comunes no exceda de los valores siguientes:
 
@@ -16315,55 +16297,67 @@ V. Con respecto a las vibraciones, se considerará como estado límite cualquier
 
 VI. Además se considerará como estado límite de servicio la aparición de grietas, desprendimientos, astillamientos, aplastamientos, torceduras y otros daños locales que afecten el funcionamiento de la construcción, con la misma salvedad señalada en el inciso anterior.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1274], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1274], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1481°.
+###### ARTÍCULO 1521°.
 
 Las fuerzas internas y las deformaciones producidas por los sistemas de acciones y sus combinaciones, que actúan sobre todos los componentes de una estructura, deberán ser determinadas en base a métodos reconocidos de análisis estructural, tomando en consideración el equilibrio, la compatibilidad de deformaciones y las propiedades de los materiales a corto y a largo plazo.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1482°.
+### CAPÍTULO III. De las Normas Técnicas Complementarias y Supletorias
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1275], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1522°.
 
 Serán Normas Técnicas Complementarias del presente libro las pertenecientes al Código Municipal de Aguascalientes, al Reglamento de Construcciones para el Distrito Federal, el Manual de Obras Civiles de la Comisión Federal de Electricidad, las Normas y fichas Técnicas emitidas por la Secretaría de Obras Públicas del Gobierno del Estado emitidas a través del Comité Interinstitucional de Obras Públicas, las Normas y Fichas Técnicas en materia de agua potable, alcantarillado y Saneamiento, emitidas por la Comisión Ciudadana de agua Potable y Alcantarillado del Municipio de Aguascalientes, cuando no se cuente con ellas.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1483°.
+## TÍTULO CUARTO. DE LA EJECUCIÓN DE OBRAS
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De las Generalidades
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1276], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1523°.
 
 Los Peritos Responsables de obra, o los propietarios de una obra que no requiera Perito Responsable y los constructores, están obligados a vigilar que la ejecución de la misma se realice con las técnicas constructivas más adecuadas, se empleen los materiales con la resistencia y calidad especificadas en este Libro y en sus Normas Técnicas complementarias, se tomen las medidas de seguridad necesarias y se evite causar molestias o perjuicios a terceros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1277], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1277], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1484°.
+###### ARTÍCULO 1524°.
 
 Durante la ejecución de cualquier construcción, el Perito Responsable de Obra, el Propietario y el constructor, tomarán las precauciones, adoptarán las medidas técnicas y realizarán los trabajos necesarios para proteger la vida y la integridad física de los trabajadores y la de los terceros, así como para evitar los daños que directa o indirectamente pudiere causar la ejecución de la obra.
 
 Deberán usarse redes de seguridad o cinturones de seguridad con líneas de amarre para los trabajadores, que realicen trabajos en las obras a una altura mayor de nueve metros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1278], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1278], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1485°.
+###### ARTÍCULO 1525°.
 
 Los planos autorizados y las licencias de las obras deberán conservarse en las propias obras durante la ejecución de éstas y estar a disposición de los supervisores de la Dirección de Planeación y Obras Públicas. Estos documentos quedarán a resguardo del propietario una vez terminadas las obras, debiendo presentarlos a la propia Dirección para cualquier aclaración, solicitud de modificación o ampliación de éstas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1279], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1279], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1486°.
+###### ARTÍCULO 1526°.
 
 El Perito Responsable de Obra está obligado a mantener en la obra el Libro de Bitácora a que se refiere este Libro, encuadernado y foliado y tenerlo a disposición de los supervisores de la Dirección de Planeación y Obras Públicas.
 
 El Perito Responsable cuidará de la veracidad de las anotaciones suscritas por él, por sus auxiliares técnicos y por los contratistas que participen en la obra.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1280], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1280], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1487°.
+###### ARTÍCULO 1527°.
 
 Para la utilización de los distintos materiales o la aplicación de sistemas estructurales deberá (sic) seguirse procedimientos constructivos que cumplan con los requisitos especificados por la Dirección de Planeación y Obras Públicas. Tales procedimientos deberán garantizar que el comportamiento de la estructura esté de acuerdo con lo especificado en el diseño estructural.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1281], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1281], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1488°.
+###### ARTÍCULO 1528°.
 
 El Perito Responsable de obra, deberá vigilar que se cumpla con este Libro, particularmente en lo que se refiere a los siguientes aspectos:
 
@@ -16375,133 +16369,135 @@ III. Nivel y alineamiento de los elementos estructurales; y
 
 IV. Cargas muertas en la estructura, tales como el peso volumétrico propio y el provocado por la colocación de materiales durante la ejecución de la obra.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1282], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1282], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1489°.
+###### ARTÍCULO 1529°.
 
 Durante la ejecución de una obra deberán tomarse las medidas necesarias para no alterar el comportamiento ni el funcionamiento de las construcciones e instalaciones en predios colindantes o en la vía pública, apegándose a los procedimientos especificados en los planes estructurales y en la memoria de cálculo, lo cual deberá ser efectuado con la supervisión del Perito Responsable de Obra.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1283], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1283], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1490°.
+###### ARTÍCULO 1530°.
 
 Se deberán tomar las medidas necesarias para no causar molestias a los vecinos ni a los usuarios de la vía pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1284], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1284], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1491°.
+###### ARTÍCULO 1531°.
 
 Para las obras en las que no se requiere del Perito Responsable de Obra, según se indica en este Libro, el propietario y el constructor deberán observar las medidas de seguridad que indica el presente Código.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1285], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1285], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1492°.
+###### ARTÍCULO 1532°.
 
 Las construcciones provisionales deberán cumplir con los requisitos de seguridad e higiene, tener buen aspecto y conservarse en buen estado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1286], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1286], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1493°.
+###### ARTÍCULO 1533°.
 
 Cuando se interrumpa una obra por un período mayor de dos semanas, se tomarán las precauciones necesarias para evitar que se presenten movimientos que puedan dañar a las construcciones, a los predios colindantes o a las instalaciones de la vía pública y que ocurran fallas en las paredes o taludes de la obra por intemperismo prolongado.
 
 Se tomarán también las precauciones necesarias para impedir el acceso al sitio de la obra. Se deberán (sic) instalar el señalamiento adecuado para evitar accidentes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1287], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1287], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1494°.
+###### ARTÍCULO 1534°.
 
 En las obras de construcción, deberán proporcionarse a los trabajadores servicios provisionales de agua potable y un sanitario portátil, inodoro o letrina como mínimo, se deberá adicionar uno por cada 25 trabajadores o fracción excedente de 15; y mantenerse permanentemente un botiquín con los medicamentos e instrumentales de curación necesarios para proporcionar primeros auxilios.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1495°.
+### CAPÍTULO II. De los Materiales de Construcción y Obras en la Vía Pública
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1288], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1535°.
 
 La resistencia, calidad y características de los materiales empleados en la construcción, serán las que se señalen en las especificaciones de diseño y en los planos constructivos y deberán satisfacer las normas de calidad establecidas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1289], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-ARTÍCULO 1289° (SIC).- La Dirección de Planeación y Obras Públicas exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando así lo juzgue pertinente o por dictamen técnico solicitado del perito.
+###### ARTÍCULO 1536°.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1290], P.O. 22 DE ABRIL DE 2024)</small>
+La Dirección de Planeación y Obras Públicas exigirá los muestreos y las pruebas necesarias para verificar la calidad y resistencia especificadas en los materiales que formen parte de los elementos estructurales, aún en obras terminadas, cuando así lo juzgue pertinente o por dictamen técnico solicitado del perito.
 
-###### ARTÍCULO 1496°.
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1290], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1537°.
 
 El muestreo deberá efectuarse siguiendo métodos estadísticos que aseguren que el conjunto de muestras sea representativo de toda la obra.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1291], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1291], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1497°.
+###### ARTÍCULO 1538°.
 
 Los elementos estructurales cuyos materiales se encuentren en ambiente corrosivo o sujetos a la acción de agentes físicos químicos o biológicos que puedan hacer disminuir su resistencia, deberán ser cubiertos con materiales o substancias protectoras y tendrán un mantenimiento preventivo que asegure su funcionamiento dentro de las condiciones previstas en el diseño.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1292], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1292], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1498°.
+###### ARTÍCULO 1539°.
 
 Cuando se proyecte utilizar en una construcción un material nuevo que no esté sujeto a normas de calidad reconocidas oficialmente, el Perito Responsable de obra deberá solicitar la aprobación previa de la Dirección de Planeación y Obras Públicas para lo cual presentará los resultados de las pruebas de resistencia y calidad de dicho material.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1293], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1293], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1499°.
+###### ARTÍCULO 1540°.
 
 Cuando se utilizaren predios colindantes ajenos como área de maniobras, deberán retirarse todos los desechos producidos por la obra al término de ésta, o durante el proceso si hubiese quejas de los propietarios afectados.
 
 Para los efectos de este Artículo, deberá presentarse ante la Dirección de Planeación y Obras Públicas la autorización por escrito del propietario del predio en cuestión.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1294], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1294], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1500°.
+###### ARTÍCULO 1541°.
 
 Cuando se requiera efectuar obras de pavimentación o banquetas, deberá solicitarse permiso por escrito a la Dirección de Planeación y Obras Públicas, la cual investigará la viabilidad y en su caso autorizará la petición determinando las especificaciones, cuantificando los derechos y proporcionando la supervisión correspondiente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1295], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1295], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-## TÍTULO TERCERO. DE LOS REQUISITOS ESTRUCTURALES
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO I. Disposiciones Generales
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1254], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1501°.
+###### ARTÍCULO 1542°.
 
 Las rampas en banquetas para la entrada de vehículos a los predios no deberán entorpecer el paso ni causar molestias a los peatones, sólo se autorizarán en un ancho de sesenta centímetros rebajando la banqueta a partir de guarnición y por una longitud no mayor que la del ancho del vehículo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1296], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1296], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1502°.
+###### ARTÍCULO 1543°.
 
 Los propietarios estarán obligados a reponer por su cuenta las banquetas y guarniciones que se hayan deteriorado con motivo de la ejecución de la obra.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1297], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1297], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1503°.
+###### ARTÍCULO 1544°.
 
 Siempre que se ejecuten obras de cualquier clase en la vía pública o cerca de ella se tomarán las medidas de seguridad necesarias para evitar daños o perjuicios a las instalaciones, a los trabajadores y a terceros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1298], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1298], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1504°.
+###### ARTÍCULO 1545°.
 
 Cuando haya que reubicar o quitar arbolado existente en la vía pública, deberá tramitarse el permiso correspondiente en la Dirección de Agua Potable, Alcantarillado y Ecología.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1299], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1299], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1505°.
+###### ARTÍCULO 1546°.
 
 Cuando se requiera reubicar postes, ya sea de C.F.E., telefonía, alumbrado público, similar o análogo, deberá pedirse el permiso y coordinar las acciones correspondientes con la dependencia responsable del poste y comunicar tal autorización a la Dirección de Planeación y Obras Públicas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1300], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1300], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1506°.
+###### ARTÍCULO 1547°.
 
 Los vehículos que carguen o descarguen materiales para una obra en la vía pública, deberá (sic) obtener previamente la autorización correspondiente de las autoridades de vialidad.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1507°.
+### CAPÍTULO III. De los Tapiales
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1301], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1548°.
 
 Los tapiales de acuerdo con la obra que se lleve a cabo, podrán ser de los siguientes tipos:
 
@@ -16513,221 +16509,217 @@ III. Fijos: En las obras que se ejecuten en un predio a una distancia menor de d
 
 IV. De paso cubierto: En obras cuya altura sea mayor de diez metros o en aquéllas en que la invasión de la acera lo amerite, la Dirección de Planeación y Obras Públicas podrá exigir, que se construya un paso cubierto, además del tapial.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1302], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1302], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1508°.
+###### ARTÍCULO 1549°.
 
 Los tapiales de barrera se construirán de manera que no obstruyan o impidan la vista de las señales de tránsito, de las placas de nomenclatura o de los aparatos y accesorios de los servicios públicos. En caso necesario, se solicitará a la Dirección de Planeación y Obras Públicas su traslado provisional a otro lugar.
 
 Los tapiales de marquesina se colocarán a la altura necesaria de tal manera que la altura de caída de los materiales de demolición o de construcción sobre ellos, no exceda de cinco metros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1303], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1303], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1509°.
+###### ARTÍCULO 1550°.
 
 Los tapiales fijos serán de madera, lámina, concreto, mampostería o de otro material que ofrezca las mismas garantías de seguridad. Tendrán una altura mínima de dos metros cuarenta centímetros, deberán estar pintados y no tener más claros que los de las puertas, las cuales se mantendrán cerradas y los tapiales de paso cubiertos tendrán cuando menos, una altura de dos metros cuarenta centímetros y una anchura libre de un metro veinte centímetros.
 
 Ningún elemento de los tapiales quedará a menos de cincuenta centímetros de la vertical sobre la guarnición de la banqueta.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1304], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1304], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1510°.
+###### ARTÍCULO 1551°.
 
 Los constructores y los demoledores de las obras, estarán obligados a conservar los tapiales en buenas condiciones de estabilidad y de aspecto.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1511°.
+### CAPÍTULO IV. De las Demoliciones
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1305], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1552°.
 
 Con la solicitud de licencia de demolición a que se refiere este Libro, se acompañará un programa detallado de demolición, en el que se indicará el orden en que se demolerá cada uno de los elementos de la construcción, así como los mecanismos que se emplearán en la maniobra. Igualmente con base en el diseño estructural de la edificación, se señalarán las medidas de seguridad que deberán observar los trabajadores. Dicho programa deberá ser elaborado y signado por el Perito Responsable de Obra.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1306], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1306], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1512°.
+###### ARTÍCULO 1553°.
 
 Durante el proceso de demolición se tomarán las precauciones necesarias para evitar que se causen daño o molestias a personas, a construcciones vecinas, a la vía pública; o a otros bienes. Si se emplean puntales, vigas, armaduras, estructuras o cualquier otro medio para protección de las construcciones colindantes o de las propias obras de demolición, se tendrá cuidado de que estos elementos no causen daño o provoquen esfuerzos que puedan perjudicar a las construcciones circundantes o a la vía pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1307], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1307], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1513°.
+###### ARTÍCULO 1554°.
 
 Los trabajadores deberán efectuar los trabajos de demolición usando el equipo necesario para su protección personal, tal como anteojos de protección, máscara contra polvo, caretas, cascos, guantes, botas, redes o cualquier otro que sea necesario de acuerdo con el tipo de demolición.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1308], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1308], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1514°.
+###### ARTÍCULO 1555°.
 
 Se prohíbe el uso de explosivos para llevar a cabo demoliciones o excavaciones en la zona urbana, así como en la zona rural cuando en esta última existan construcciones dentro de un radio menor de cincuenta metros. Excepcionalmente, previa justificación técnica de la necesidad de su uso, la Dirección de Planeación y Obras Públicas podrá autorizar el empleo de explosivos en las demoliciones bajo la exclusiva responsabilidad del Perito Responsable de obra, siempre que se tomen las medidas necesarias para evitar daños.
 
 La autorización que la Dirección de Planeación y Obras Públicas otorgue en los casos a que se refiere este Artículo, queda condicionada a que la Secretaría de la Defensa Nacional, en ejercicio de sus atribuciones, otorgue el permiso correspondiente para la adquisición y uso de explosivos con el fin indicado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1309], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1309], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1515°.
+###### ARTÍCULO 1556°.
 
 Los materiales y escombros provenientes de una demolición, que vayan a ser desechados de la obra, deberán ser retirados en la forma establecida en el presente Capítulo.
 
 La Dirección de Planeación y Obras Públicas señalará las condiciones en que deban ser transportados y el lugar en que puedan ser depositados, dichos escombros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1310], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1310], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1516°.
+###### ARTÍCULO 1557°.
 
 La Dirección de Planeación y Obras Públicas podrá ordenar que se suspendan los trabajos cuando no sean tomadas las precauciones necesarias para evitar daños o perjuicios.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1517°.
+### CAPÍTULO V. De las Mediciones y Trazos
+
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1311], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1558°.
 
 En las construcciones en que se requiere llevar registro de posibles movimientos verticales, así como en aquellas en que el Perito Responsable de Obra considere necesario o la Dirección de Planeación y Obras Públicas lo ordene, se señalarán referencias o bancos de nivel superficiales, suficientemente alejados de la cimentación o estructuras de que se trate, para no ser afectados por los movimientos de las mismas o de otras cargas cercanas, y se referirán a éstos las nivelaciones que se hagan.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1312], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1312], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1518°.
+###### ARTÍCULO 1559°.
 
 En los planos de cimentación se deberán indicar si se requiere el registro de movimientos verticales, y las características y periodicidad de las nivelaciones correspondientes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1313], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1313], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO II. De los Criterios de Diseño
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1272], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1519°.
+###### ARTÍCULO 1560°.
 
 Antes de iniciarse una construcción, deberá verificarse el trazo del alineamiento del predio con base en la constancia de alineamiento y compatibilidad urbanística y las medidas del resto de la poligonal del perímetro, así como la situación del predio en relación con los colindantes, la cual deberá coincidir con los datos correspondientes del título de propiedad en su caso.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1314], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1314], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1520°.
+###### ARTÍCULO 1561°.
 
 Se trazarán después los ejes principales del proyecto, refiriéndolos a puntos que puedan conservarse fijos. Si los datos que arroje el levantamiento del predio exigen un ajuste de las distancias entre los ejes consignados en los pianos (sic) arquitectónicos, deberá asentarse en la bitácora, elaborando a su vez los planos del proyecto ajustado, presentándolos a la Dirección de Planeación y Obras Públicas. El Perito Responsable de Obra deberá hacer constar que las diferencias no afectan la seguridad estructural, ni el funcionamiento de la construcción, ni las holguras exigidas entre edificios adyacentes. En caso necesario deberán hacerse las modificaciones pertinentes al proyecto arquitectónico y al estructural.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1315], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1315], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1521°.
+###### ARTÍCULO 1562°.
 
 Las separaciones entre construcciones deberán protegerse por medio de tapajuntas o sellos que impidan la penetración de agua, basuras y otros materiales.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-### CAPÍTULO III. De las Normas Técnicas Complementarias y Supletorias
+### CAPÍTULO VI. De las Excavaciones, Rellenos y Cimentación
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1275], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1316], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1522°.
+###### ARTÍCULO 1563°.
 
 El procedimiento de ejecución de excavaciones deberá garantizar que no se rebasen los estados límites definidos en este libro. De ser necesario, la excavación se realizará por etapas, de acuerdo con un programa que deberá incluirse en la memoria de diseño, señalando, además las precauciones que se tomarán para que no resulten afectadas las construcciones, los predios vecinos o los servicios públicos. Estas precauciones se consignarán debidamente en los planos.
 
 Si en el proceso de una excavación se encuentran restos fósiles o arqueológicos se deberá sus pender (sic) de inmediato la excavación en ese lugar y notificar el hallazgo a la Presidencia Municipal.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1317], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1317], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-## TÍTULO CUARTO. DE LA EJECUCIÓN DE OBRAS
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO I. De las Generalidades
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1276], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1523°.
+###### ARTÍCULO 1564°.
 
 Cuando los procedimientos de ejecución de una obra señalen la necesidad de instalar ademe, éste se colocará troquelándolo a presión contra los paramentos del terreno. Sus características serán determinadas por un estudio de Mecánica de Suelos particular para cada caso.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1318], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1318], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1524°.
+###### ARTÍCULO 1565°.
 
 Previa autorización de la Dirección de Planeación y Obras Públicas, podrá extraerse agua de un predio mediante bombeo siempre que se tomen precauciones para limitar los efectos del mismo sobre los predios colindantes y sobre el propio predio, las cuales serán determinadas por el estudio de Mecánica de Suelos correspondiente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1319], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1319], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1525°.
+###### ARTÍCULO 1566°.
 
 Las excavaciones estarán protegidas para evitar accidentes de peatones o vehículos con tapiales que ofrezcan la resistencia debida.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1320], P.O. 22 DE ABRIL DE 2024)</small>
+(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1320], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1526°.
+###### ARTÍCULO 1567°.
 
 La compresibilidad, resistencia y granulometría de todo relleno serán adecuadas a la finalidad del mismo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1321], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1321], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1527°.
+###### ARTÍCULO 1568°.
 
 Cuando un relleno vaya a ser contenido por muros, deberán tomarse las precauciones que aseguren que los empujes no excedan a los del proyecto. Se prestará especial atención a la construcción de drenes, filtros y demás medidas tendientes a controlar empujes hidrostáticos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1322], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1322], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1528°.
+###### ARTÍCULO 1569°.
 
 Los rellenos que vayan a recibir cargas de una construcción deberán cumplir los requisitos de confinamiento, resistencia y compresibilidad necesarios, de acuerdo con un estudio de mecánica de suelos. Se controlará su grado de compactación y contenido de humedad mediante ensayes de laboratorio y de campo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1323], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1323], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1529°.
+###### ARTÍCULO 1570°.
 
 Tratándose de pavimentos industriales y los destinados al tránsito o estacionamiento de vehículos en predios particulares, se colocará una base compactada, salvo que el terreno natural posea propiedades mejores que las de la base. El tendido de dicha base será hecho con el espesor y el contenido de humedad recomendado por el Perito Responsable de Obra o por el Perito Especializado en Mecánica de Suelos en su caso, de acuerdo con las características del suelo a emplearse.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1324], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1324], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1530°.
+###### ARTÍCULO 1571°.
 
 El grado de compactación recomendado estará en función del uso para el que vaya a estar destinado el pavimento, también sujeto al criterio de los peritos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1325], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1325], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1531°.
+###### ARTÍCULO 1572°.
 
 En todo caso, deberán realizarse pruebas de laboratorio en campo para comprobar todo lo anterior en el transcurso de la obra.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1326], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1326], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1532°.
+###### ARTÍCULO 1573°.
 
 Las cimentaciones deberán construirse de acuerdo con los materiales, secciones y características marcadas en los planos estructurales correspondientes, los que deberán ajustarse a los lineamientos de diseño que se especifican en este Libro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1327], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1327], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1533°.
+###### ARTÍCULO 1574°.
 
 El desplante de cualquier cimentación se hará a la profundidad señalada en el proyecto. Se deberán tomar las medidas necesarias para minimizar las deformaciones en la superficie de contacto de la cimentación con el suelo. Las superficies de desplante tendrán las dimensiones, resistencia y características que señale el proyecto y estarán libres de cuerpos extraños o sueltos.
 
 En el caso de elementos de cimentación de concreto reforzado, se aplicarán procedimientos que garanticen el recubrimiento mínimo de acero de refuerzo, según lo indica en este CAPÍTULO. Cuando existan probabilidades de que el propio suelo o cualquier líquido o gas contenido en él, puedan atacar al concreto o al acero, se tomarán las medidas necesarias para evitarlo. Asimismo, en el momento del colado se evitará que el concreto se mezcle o contamine con partículas de suelo que puedan afectar sus características de resistencia o durabilidad.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1328], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1328], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1534°.
+###### ARTÍCULO 1575°.
 
 La colocación de pilotes y pilas se sujetará al proyecto correspondiente, verificando que la capacidad de carga de cada elemento, su profundidad de desplante, número y espaciamiento se ajuste a lo señalado en los planos estructurales y en el estudio de Mecánica de Suelos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1329], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1329], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO II. De los Materiales de Construcción y Obras en la Vía Pública
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1288], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1535°.
+###### ARTÍCULO 1576°.
 
 Las juntas o conexiones entre tramos de un mismo elemento, en su caso, deberán tener la misma resistencia que las secciones que unan.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1330], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1330], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1536°.
+###### ARTÍCULO 1577°.
 
 Los rellenos se ejecutarán empleando el material y el procedimiento que se señale en los planos respectivos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1331], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1331], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1537°.
+###### ARTÍCULO 1578°.
 
 Todos los cimientos deberán tener capa impermeabilizante que impida el ascenso de la humedad hacia los muros.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1538°.
+### CAPÍTULO VII. De las Cimbras, Andamios y Estructuras de Madera
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1332], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1579°.
 
 En la construcción y colocación de obras falsas y de cimbras, deberá observarse las siguientes disposiciones:
 
@@ -16741,9 +16733,9 @@ IV. Las obras falsas y las cimbras se deberán apegar, además, a los requisitos
 
 V. Las cargas que actúen en las cimbras no deberán exceder a las especificadas en los planos correspondientes, o en la bitácora de la obra. Durante la ejecución de la obra no deberán aplicarse cargas concentradas que no hayan sido consideradas en el diseño de las cimbras.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1333], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1333], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1539°.
+###### ARTÍCULO 1580°.
 
 Las cimbras se desplantarán sobre firmes suficientemente capaces de soportar la carga a que serán sometidas. Cuando sea necesario, se usarán "arrastres" que repartan adecuadamente la carga.
 
@@ -16751,47 +16743,47 @@ Cuando en el proceso de la construcción sea necesario apoyar las cimbras sobre 
 
 Cuando la superficie en la que se vaya a apoyar la cimbra no constituya un plano horizontal, se deberán tomar en cuenta los componentes horizontales de las reacciones en los apoyos de los pies derechos. Para el caso de las cimbras de más de cuatro metros de altura o casos especiales, se deberá presentar la memoria de diseño.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1334], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1334], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1540°.
+###### ARTÍCULO 1581°.
 
 El Perito Responsable verificará que previamente al colado de cualquier elemento de concreto de la estructura, la cimbra correspondiente presente las características de los proyectos arquitectónicos y estructurales. Dicha verificación deberá asentarse en el libro de bitácora.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1335], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1335], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1541°.
+###### ARTÍCULO 1582°.
 
 Los andamios que se utilicen para construir, reparar o demoler una edificación, deberán fabricarse e instalarse de tal manera, que proporcionen las condiciones necesarias de seguridad. La Dirección de Planeación y Obras Públicas podrá ordenar que se presente una memoria de diseño. Los andamios deberán ser revisados periódicamente para verificar que se encuentren en condiciones óptimas de servicio y seguridad.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1336], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1336], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1542°.
+###### ARTÍCULO 1583°.
 
 La pendiente máxima de las rampas provisionales será de treinta grados.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1337], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1337], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1543°.
+###### ARTÍCULO 1584°.
 
 Para evitar el resbalamiento de los operarios, se clavarán sobre las vigas que forman las rampas, travesaños de madera a una distancia de cincuenta centímetros como máximo, uno de otro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1338], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1338], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1544°.
+###### ARTÍCULO 1585°.
 
 Las vigas que forman el piso de los andamios y las que forman las rampas, estarán apoyadas por sus extremidades en los puentes, no permitiéndose en ningún caso empalmes intermedios.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1339], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1339], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1545°.
+###### ARTÍCULO 1586°.
 
 Los dispositivos empleados para transportación vertical de personas o de materiales durante la ejecución de obras, deberán ofrecer las máximas condiciones de seguridad y serán examinados y probados antes de ser utilizados.
 
 Los materiales y elementos de estos dispositivos deberán cumplir con los requisitos de calidad especificados oficialmente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1340], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1340], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1546°.
+###### ARTÍCULO 1587°.
 
 Las máquinas elevadoras, incluidos sus elementos de sujeción, anclaje y sustentación deberán:
 
@@ -16809,37 +16801,37 @@ VI. Estar provistas de los medios necesarios para evitar el riesgo de un descens
 
 Los cables que se utilicen para izar o descender materiales o como medio de suspensión, deberán ser de buena calidad, suficientemente resistente y estar exenta de defectos manifiestos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1341], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1341], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1547°.
+###### ARTÍCULO 1588°.
 
 En estructuras permanentes sólo se empleará madera selecta, de primera o segunda clase, la cual deberá estar debidamente tratada o protegida contra plagas, intemperismo y fuego mediante procedimiento (sic) adecuados.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1342], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1342], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO III. De los Tapiales
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1301], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1548°.
+###### ARTÍCULO 1589°.
 
 La ejecución de las estructuras de madera deberá ajustarse a las especificaciones de diseño, a las características de las uniones, según su tipo, a los requerimientos para el montaje, a las tolerancias, a las especificaciones sobre contenido de humedad, a los requisitos de protección de la madera, y a los demás conceptos que se fijan en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Madera, de este Libro.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1549°.
+### CAPÍTULO VIII. De la Mampostería y el Concreto
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1343], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1590°.
 
 Se consideran elementos de mampostería los construidos con piezas regulares o irregulares de piedra natural o artificial, maciza o hueca, unidas por un mortero cementante.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1344], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1344], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1550°.
+###### ARTÍCULO 1591°.
 
 Los materiales que se utilicen en la construcción de elementos de mampostería deberán cumplir los requisitos generales de calidad especificados por la Dirección de Planeación y Obras Públicas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1345], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1345], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1551°.
+###### ARTÍCULO 1592°.
 
 Para efecto del proyecto y diseño estructural de edificaciones hechas a base de muros de mampostería de cualquier tipo, deberán seguirse los lineamientos de las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería, en las cuales se consideran los siguientes tipos de muros:
 
@@ -16855,75 +16847,67 @@ d) Muros no reforzados; y
 
 II. Mampostería de Piedras Naturales.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1346], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1346], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO IV. De las Demoliciones
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1305], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1552°.
+###### ARTÍCULO 1593°.
 
 La proporción y calidad de los materiales que constituyen la mampostería serán las que indique el proyecto correspondiente, y deberán cumplir en todo momento con las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1347], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1347], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1553°.
+###### ARTÍCULO 1594°.
 
 Deberán comprobarse que las estructuras de mampostería cumplan con las características del proyecto y se construyan de acuerdo con los Procedimientos de Construcción establecidos en la (sic) Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Mampostería, cuidando especialmente se cumplan con las tolerancias y el control de resistencia fijados en dichas normas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1348], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1348], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1554°.
+###### ARTÍCULO 1595°.
 
 Para verificar que los elementos de mampostería con funciones estructurales o con altura mayor de dos metros cumplan con la resistencia de proyecto, se tomarán muestras de las piezas de mampostería que se ensayarán en un laboratorio de materiales.
 
 En el caso de los morteros bastará con verificar de manera exhaustiva en obra que se cumpla con los proporcionamientos de sus componentes según se especifique en el proyecto estructural.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1349], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1349], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1555°.
+###### ARTÍCULO 1596°.
 
 Los materiales que se utilicen en la elaboración del concreto deberán cumplir con las normas oficiales.
 
 El proporcionamiento de estos materiales será en cantidades tales que el concreto cumpla con los requisitos de resistencia y tenga el revenimiento fijado en el proyecto. El diseño y construcción de elementos y estructuras de concreto deberán ajustarse a lo que disponen las Normas Técnicas Complementarias de este Libro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1350], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1350], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1556°.
+###### ARTÍCULO 1597°.
 
 Sólo se permitirá la mezcla manual del concreto cuando su resistencia de proyecto no exceda de ciento cincuenta kilogramos por centímetro cuadrado. Para resistencias mayores, se exigirá el uso de sistemas mecánicos de mezclado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1351], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1351], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1557°.
+###### ARTÍCULO 1598°.
 
 La fabricación del concreto se controlará de acuerdo con los criterios y procedimientos prescritos en las Normas Técnicas Complementarias para Diseño y Construcciones de Estructuras de Concreto.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1352], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1352], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO V. De las Mediciones y Trazos
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1311], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1558°.
+###### ARTÍCULO 1599°.
 
 La ejecución de elementos y estructuras de concreto preforzado, incluyendo los ductos para postensado, la lechada para tendones adheridos y la aplicación y medición de la fuerza de presfuerzo, se sujetará a lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras de Concreto, a estas mismas normas deberá apegarse la construcción y montaje de estructuras prefabricadas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1353], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1353], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1559°.
+###### ARTÍCULO 1600°.
 
 El acero de refuerzo deberá protegerse durante su transportación, manejo y almacenamiento contra cualquier fuente de humedad y contra condiciones ambientales que pudieran resultar dañinas tales como humos, acidez y otras similares.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1354], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1354], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1560°.
+###### ARTÍCULO 1601°.
 
 Cuando en casos excepcionales, a juicio del Perito Responsable de Obra, sea necesario calentar el acero de refuerzo ordinario, no se elevará su temperatura a más de quinientos treinta grados centígrados si no está tratado en frío, ni más de cuatrocientos grados centígrados en caso contrario. No se permitirá que el enfriamiento sea rápido.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1355], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1355], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1561°.
+###### ARTÍCULO 1602°.
 
 El acero de presfuerzo y los ductos de postensado deberán adicionalmente protegerse durante su transportación, manejo y almacenamiento contra golpes, caídas y cualquier otra maniobra que pudiera modificar su resistencia o calidad originales.
 
@@ -16931,9 +16915,9 @@ Antes de autorizar los colados, el Perito Responsable de Obra deberá comprobar 
 
 Además, se respetará lo prescrito en las Normas Técnicas Complementarias para diseño y construcción de estructuras de concreto.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1356], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1356], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1562°.
+###### ARTÍCULO 1603°.
 
 En elementos no expuestos a la intemperie, el recubrimiento libre de toda barra de refuerzo o tendón de presfuerzo no será menor que su diámetro, ni menor que lo señalado a continuación:
 
@@ -16947,59 +16931,59 @@ III. En elementos prefabricados que no van a quedar expuestos a la intemperie, e
 
 IV. Los recubrimientos antes señalados se incrementarán en miembros expuestos a agentes agresivos ciertas sustancias o vapores industriales, terreno particularmente corrosivo, etc., salvo que se usen protecciones especiales para el acero.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1357], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1357], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO VI. De las Excavaciones, Rellenos y Cimentación
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1316], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1563°.
+###### ARTÍCULO 1604°.
 
 Los medios y procedimientos que se empleen para transportar el concreto deberán garantizar la adecuada conservación de la mezcla hasta el lugar de su colocación sin que sus ingredientes se pierdan o segreguen. Asimismo se evitará que la unidad arroje a su paso su contenido ensuciando la vía pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1358], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1358], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1564°.
+###### ARTÍCULO 1605°.
 
 El tiempo empleado en el transporte, medido desde que se adicione el agua de mezclado hasta la colocación del concreto en los moldes, no será mayor de una hora a menos que se tomen las medidas para lograr que la consistencia del concreto después de las dos horas sea tal, que pueda ser colocado sin necesidad de añadirle agua. En las plantas premezcladoras de concreto se deberá indicar en la nota de remisión la hora en que se le adiciona el agua a la mezcla.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1359], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1359], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1565°.
+###### ARTÍCULO 1606°.
 
 Antes de efectuarse el colado, deberán limpiarse los elementos de transporte y el lugar donde se vaya a depositar el concreto.
 
 Los procedimientos de colocación y compactación deberán asegurar una densidad uniforme del concreto, ajustándose a lo que indican al respecto las Normas Técnicas Complementarias de este Libro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1360], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1360], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1566°.
+###### ARTÍCULO 1607°.
 
 Una vez realizada la operación de colado, el concreto deberá someterse a un proceso de curado mediante la aplicación de agua, por recubrimientos impermeables o retenedores de la humedad, o por medio de vapor.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1361], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1361], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1567°.
+###### ARTÍCULO 1608°.
 
 El proceso de curado deberá mantenerse el tiempo que requiera el concreto para alcanzar la resistencia del proyecto. Cuando el curado se realice mediante la aplicación de agua, el tiempo no será menor de siete días tratándose de cemento normal y de tres días si se emplea cemento de resistencia rápida. En todo caso el curado deberá ajustarse a lo que al respecto se indica en las Normas Técnicas Complementarias de este Libro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1362], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1362], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1568°.
+###### ARTÍCULO 1609°.
 
 Los elementos de concreto simple, reforzado o presforzado que se encuentren expuestos a agentes intemperizantes en ambientes dañinos que puedan modificar las dimensiones de las piezas o disminuir los recubrimientos exigidos, deberán protegerse adecuadamente por medio de recubrimientos aditivos o cementos especiales.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1569°.
+### CAPÍTULO IX. De las Estructuras Metálicas
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1363], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1610°.
 
 Las estructuras metálicas deberán sujetarse a lo previsto en este Libro y a sus Normas Técnicas Complementarias.
 
 Los materiales que se utilicen en la construcción de estructuras metálicas deberán cumplir con las normas de calidad especificadas por la Dirección de Planeación y Obras Públicas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1364], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1364], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1570°.
+###### ARTÍCULO 1611°.
 
 En el montaje de las estructuras se observará lo siguiente:
 
@@ -17013,9 +16997,9 @@ IV. Alineado y plomeado.- No se colocarán remaches, pernos o tornillos, ni sold
 
 V. Tolerancias.- Las tolerancias se ajustarán a lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras Metálicas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1365], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1365], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1571°.
+###### ARTÍCULO 1612°.
 
 En las estructuras remachadas o atornilladas, se observará lo dispuesto en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras Metálicas, cuidando especialmente que se respete lo siguiente:
 
@@ -17027,9 +17011,9 @@ III. Colocación.- Los remaches y tornillos deberán colocarse con equipos espec
 
 IV. Inspección.- El Perito Responsable de Obra cuidará que se revise antes de la colocación de los remaches o tornillos, la posición, alineamiento y diámetro de los agujeros y posteriormente comprobará que las cabezas de los remaches estén formadas debidamente; en caso de tornillos, se deberá verificar que las tuercas estén debidamente colocadas, cuando se haya especificado su uso.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1366], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1366], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1572°.
+###### ARTÍCULO 1613°.
 
 Las conexiones soldadas en las estructuras deberán cumplir con las Normas Técnicas complementarias para Diseño y Construcción de Estructuras Metálicas, cuidando especialmente los siguientes puntos:
 
@@ -17039,9 +17023,9 @@ II. Armado.- Las piezas que se vayan a unir con soldadura de filete deberán est
 
 III. El Perito Responsable de Obra tomará las medidas necesarias para efectuar la debida revisión de los bordes de las piezas en los que se colocará la soldadura, y para cerciorarse de que los biseles, holguras y otras características sean las correctas y estén de acuerdo con los planos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1367], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1367], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1573°.
+###### ARTÍCULO 1614°.
 
 Se repararán las soldaduras que presenten defectos, tales como tamaño insuficiente, cráteres o socavación de metal base y rechazarán todas las que estén agrietadas.
 
@@ -17049,79 +17033,83 @@ En juntas importantes de penetración completa, la revisión se complementará p
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1574°.
+### CAPÍTULO X. De las Instalaciones
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1368], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1615°.
 
 Las instalaciones eléctricas, hidráulicas, sanitarias, contra incendios, mecánicas de aire acondicionado, de gas, de vapor, de aire caliente, telefónicas, de comunicación especiales y otras, deberán proyectarse observando lo señalado en este Libro y ejecutarse y conservarse en condiciones que garanticen su eficacia y proporcionen la seguridad necesaria a los trabajadores a los usuarios y al inmueble de conformidad con lo que establecen las disposiciones aplicables para cada caso.
 
 En las instalaciones deberán emplearse únicamente materiales y productos que satisfagan las normas de calidad fijadas por la autoridad correspondiente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1369], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1369], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1575°.
+###### ARTÍCULO 1616°.
 
 La cimentación de equipos mecánicos o de máquinas deberá construirse de acuerdo con el proyecto autorizado, de manera que no afecte a la estructura de edificio, ni le transmita vibraciones o movimientos que puedan dañar al inmueble, o perjuicios y molestias a los ocupantes o terceros. Los niveles de ruido que produzcan las máquinas, no deberán exceder los límites previstos en las disposiciones legales aplicables.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1370], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1370], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1576°.
+###### ARTÍCULO 1617°.
 
 Las instalaciones de aire acondicionado deberán realizarse de manera que los equipos no produzcan vibraciones o ruidos que causen molestias a las personas o perjuicios a los edificios o a terceros.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1371], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1371], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1577°.
+###### ARTÍCULO 1618°.
 
 Las instalaciones de gas combustible serán para uso de gas licuado, de petróleo o de gas natural y deberán cumplir con las disposiciones que al efecto señale la dependencia federal competente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1372], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1372], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1578°.
+###### ARTÍCULO 1619°.
 
 Las instalaciones de vapor y de aire caliente deberán cumplir con las disposiciones legales aplicables, para prevenir y controlar la contaminación ambiental.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1373], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1373], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO VII. De las Cimbras, Andamios y Estructuras de Madera
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1332], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1579°.
+###### ARTÍCULO 1620°.
 
 Deberá existir un servicio de mantenimiento permanente para calderas y chimeneas, aquéllas serán inspeccionadas y operadas por personal especializado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1374], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1374], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1580°.
+###### ARTÍCULO 1621°.
 
 Los ductos de vapor y de aire caliente situados en lugares donde tengan acceso personas, deberán aislarse adecuadamente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1375], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1375], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1581°.
+###### ARTÍCULO 1622°.
 
 Para la instalación y funcionamiento de calderas, compresores y líneas o salidas de aire comprimido, deberán sujetarse en su diseño y construcción a los ordenamientos legales aplicables en la materia.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1582°.
+### CAPÍTULO XI. De las Fachadas y Recubrimientos
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1376], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1623°.
 
 Las partes exteriores de los edificios que sean visibles desde la vía pública se proyectarán de acuerdo con lo que dispone el título referente a requisitos para el proyecto arquitectónico de este Libro.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1377], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1377], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1583°.
+###### ARTÍCULO 1624°.
 
 Las fachadas y los paramentos de cada construcción que sean visibles desde la vía pública deberán tener acabados apropiados cuyas características de forma, color y textura sean armónicas entre sí y conserven o mejoren el paisaje urbano de las vías públicas en que se encuentren ubicadas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1378], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1378], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1584°.
+###### ARTÍCULO 1625°.
 
 Las fachadas de colindancias de las edificaciones de tres niveles o más deberán tener aplanados impermeables de mortero.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1379], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1379], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1585°.
+###### ARTÍCULO 1626°.
 
 Las fachadas de los monumentos y las de las construcciones que se localicen dentro de zonas de monumentos históricos, arqueológicos, artísticos y/o arquitectónicos se ajustarán, además a lo que dispone al respecto la legislación Federal y Estatal en la materia.
 
@@ -17129,47 +17117,43 @@ Los demás elementos de ornato que se usen en las fachadas y parámetros se ajus
 
 Los tendederos para ropa y los tinacos deberán instalarse o protegerse, de modo que no sean visibles desde la vía pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1380], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1380], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1586°.
+###### ARTÍCULO 1627°.
 
 En fachadas recubiertas con placas de material pétreos naturales o artificiales, se cuidará la sujeción de éstas a la estructura del edificio. En aquellos casos en que sea necesario por la dimensión, altura, peso o falta de rugosidad las placas se fijarán mediante grapas que proporcionen el anclaje necesario.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1381], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1381], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1587°.
+###### ARTÍCULO 1628°.
 
 Para evitar desprendimientos del recubrimiento ocasionado por movimientos de la estructura debidos a asentamientos, vientos o sismos, o bien a deformaciones del material por cambios de temperatura, se dejarán juntas de construcciones adecuadas, verticales y horizontales. Adicionalmente se tomarán las medidas necesarias para evitar el paso de humedad a través del revestimiento.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1382], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1382], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1588°.
+###### ARTÍCULO 1629°.
 
 Los aplanados de mortero se aplicarán sobre superficies rugosas o repelladas, previamente humedecidas.
 
 Los aplanados cuyo espesor sea mayor de tres centímetros deberán contar con dispositivos adecuados de anclaje.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1383], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1383], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1589°.
+###### ARTÍCULO 1630°.
 
 La ventanería, la herrería y la cancelería se proyectarán, ejecutarán y colocarán de manera que no se causen daños a la estructura del edificio o de los movimientos de ésta no provoquen deformaciones que puedan deteriorar dicha ventanería, herrería o cancelería.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1384], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTÍCULO 1384], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO VIII. De la Mampostería y el Concreto
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1343], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1590°.
+###### ARTÍCULO 1631°.
 
 Los vidrios y cristales deberán colocarse tomando en cuenta los posibles movimientos de la edificación y las dilataciones y contracciones ocasionadas por cambios de temperatura.
 
 Los asientos selladores empleados en la colocación de piezas mayores al uno y medios (sic) metros cuadrados, deberán absorber tales deformaciones y conservar su elasticidad.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1385], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1385], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1591°.
+###### ARTÍCULO 1632°.
 
 Los elementos ornamentales o decorativos que se incorporen a la construcción y que no formen parte integrante de la misma, deberán ser considerados en el diseño estructural.
 
@@ -17177,7 +17161,15 @@ Los elementos aislados, tales como fuentes, esculturas, arcos, columnas, monumen
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1592°.
+## TÍTULO QUINTO. DEL USO, OPERACION Y MANTENIMIENTO
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. Del uso de Predios y Edificaciones
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1386], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1633°.
 
 Para los efectos del presente capítulo, serán considerados como usos peligrosos, insalubres o molestos, los siguientes:
 
@@ -17193,17 +17185,17 @@ V. Los que produzcan humedad, salinidad, corrosión, gases, humos, polvos, ruido
 
 VI. Los demás que se establezcan en la Legislación Federal y Estatal de la materia.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1387], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1387], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1593°.
+###### ARTÍCULO 1634°.
 
 La Dirección de Planeación y Obras Públicas, podrá autorizar el cambio de uso de un predio o de una edificación, de acuerdo con los Programas de Desarrollo Urbano vigentes y con los planos aprobados para la zona donde se ubique el predio, previo dictamen técnico y en su caso, la autorización de ubicación en los términos señalados por este Libro. El nuevo uso deberá ajustarse a las disposiciones de este Libro y demás legislación vigente en la materia.
 
 En construcciones ya ejecutadas, la Dirección de Planeación y Obras Públicas podrá autorizar el cambio de uso, si se efectúan las modificaciones necesarias y se construyen las instalaciones adecuadas para cumplir con las disposiciones legales vigentes correspondientes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1388], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1388], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1594°.
+###### ARTÍCULO 1635°.
 
 Cuando una edificación o un predio se utilice total o parcialmente para algún uso diferente al autorizado, sin haber obtenido previamente la autorización del cambio de uso que establece el Artículo anterior, la Dirección de Planeación y Obras Públicas ordenará, con base en dictamen técnico lo siguiente:
 
@@ -17215,27 +17207,43 @@ Lo anterior independientemente de las sanciones a que se haga acreedor conforme 
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1595°.
+### CAPÍTULO II. Del Mantenimiento
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1389], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1636°.
 
 Los propietarios de edificaciones tienen obligación de conservarlas en buenas condiciones de estabilidad, servicio, aspecto e higiene, y de evitar que se conviertan en molestia o peligro para las personas o los bienes. Los acabados y pintura de las fachadas, deberán mantenerse en todo tiempo en buen estado de conservación, aspecto y limpieza.
 
 Los predios no edificados deberán estar libres de escombro, y basura, drenados adecuadamente y cercados en sus límites que no colinden con alguna construcción permanente. Deberá darse mantenimiento a las cercas para garantizar su estabilidad. Quedan prohibidas las cercas de púas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1390], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1390], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1596°.
+###### ARTÍCULO 1637°.
 
 Quedan prohibidas instalaciones y construcciones precarias en las zonas de las edificaciones, cualquiera que sea el uso que pretenda dárseles.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1597°.
+# LIBRO NOVENO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+## TÍTULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De los Principios Generales
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1391], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1638°.
 
 Las disposiciones de este libro son de orden público e interés social y se aplicarán a los actos, procedimientos y resoluciones de la Administración Pública del Municipio de Asientos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1392], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1392], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1598°.
+###### ARTÍCULO 1639°.
 
 Son elementos y requisitos del acto administrativo:
 
@@ -17263,63 +17271,67 @@ XI. Haber satisfecho los requisitos exigidos por este Código, legislación o re
 
 XII. Tratándose de actos administrativos que sean recurribles, deberá de hacer mención del recurso procedente, además deberá hacerse mención a la oficina donde se encuentre el expediente respectivo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1393], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1393], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1599°.
+###### ARTÍCULO 1640°.
 
 La omisión o irregularidades en los elementos y requisitos señalados por el artículo precedente y demás leyes, reglamentos y disposiciones del presente Código aplicables a la materia de que se trate, será causal de nulidad del acto administrativo municipal.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1394], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1394], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1600°.
+###### ARTÍCULO 1641°.
 
 También estarán afectadas de nulidad las actuaciones administrativas que no sigan las formalidades que prescriben la Ley del Procedimiento Administrativo, este Código y demás disposiciones jurídicas vigentes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1395], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1395], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1601°.
+###### ARTÍCULO 1642°.
 
 El acto administrativo emitido por las autoridades u órganos municipales competentes, gozará de la presunción de legitimidad y ejecutoriedad, tanto para los servidores públicos como para los particulares, quienes tendrán la obligación de cumplirlo, en tanto no sea revocado o anulado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1396], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1396], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1602°.
+###### ARTÍCULO 1643°.
 
 El acto administrativo válido será eficaz y exigible a partir de que surta efectos la notificación legalmente efectuada; queda exceptuado el acto administrativo en virtud del cual se realicen actos de inspección, verificación y vigilancia conforme a la dispuesto por este Código y demás disposiciones municipales, los cuales son exigibles a partir de la fecha en que la administración pública municipal los efectúe.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1397], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1397], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1603°.
+###### ARTÍCULO 1644°.
 
 En los actos administrativos de carácter general tendrá efectos de notificación, su publicación en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1398], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1398], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1604°.
+###### ARTÍCULO 1645°.
 
 Se aplicarán de manera supletoria para los trámites previstos en lo conducente la Ley del Procedimiento Administrativo del Estado de Aguascalientes y el Código de Procedimientos Civiles vigente para el Estado de Aguascalientes.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1605°.
+### CAPÍTULO II. Del Procedimiento Administrativo
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1399], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1646°.
 
 El procedimiento administrativo se debe desarrollar con arreglo a los principios de economía, celeridad, eficacia, legalidad, publicidad y buena fe.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1400], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1400], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1606°.
+###### ARTÍCULO 1647°.
 
 La administración pública municipal no podrá exigir más requisitos y formalidades que los que expresamente estén previstos en las leyes, reglamentos y el presente Código.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1401], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1401], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1607°.
+###### ARTÍCULO 1648°.
 
 Cualquier promoción que presenten los particulares, deberán ser por escrito, con nombre, firma autógrafa, domicilio, autoridad a la que se dirija, número de expediente en el caso de que exista, y hechos o fundamentos de su petición. En caso de omisión de alguno de los requisitos, se requerirá al interesado para que los subsane en un término de tres días, si no lo hace se le tendrá por no presentada. La falta de copias no será motivo para (sic) admitir cualquier escrito.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1402], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1402], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1608°.
+###### ARTÍCULO 1649°.
 
 La autoridad municipal en su relación con los particulares tendrá las siguientes facultades y obligaciones:
 
@@ -17341,37 +17353,33 @@ VIII. En caso de controversia entre dos o más particulares, y en cualquier esta
 
 IX. Ejercer las facultades fiscales conforme a las leyes respectivas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1403], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1403], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1609°.
+###### ARTÍCULO 1650°.
 
 En cualquier procedimiento administrativo que requiera del impulso y continuación procesal por parte del interesado será su obligación efectuar los actos necesarios, en caso de que no le (sic) hicieren se le requerirá para que lo haga bajo pena de archivarlo como concluido por falta de interés jurídico, cuando se deje de promover por un término de dos meses, operando en este caso el sobreseimiento del asunto por falta de interés jurídico.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1404], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1404], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO IX. De las Estructuras Metálicas
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1363], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1610°.
+###### ARTÍCULO 1651°.
 
 La autoridad municipal en el despacho de sus asuntos guardará y respetará un orden riguroso en la tramitación en los asuntos de la misma naturaleza.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1405], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1405], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1611°.
+###### ARTÍCULO 1652°.
 
 Los interesados de un procedimiento administrativo municipal, en cualquier momento tendrán derecho a conocer el estado que guarda su trámite, salvo que no sea el titular o causahabiente, de (sic) se trate de un asunto en que exista disposición legal que lo prohíba.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1406], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1406], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1612°.
+###### ARTÍCULO 1653°.
 
 Los interesados podrán solicitar les sea expedida copia certificada a su costa de los documentos contenidos en algún expediente en el que actúe, salvo lo dispuesto en el artículo anterior.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1407], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1407], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1613°.
+###### ARTÍCULO 1654°.
 
 Todo servidor público estará impedido para intervenir o conocer de cualquier procedimiento administrativo municipal, debiendo en ese caso, inhibirse para conocer, cuando:
 
@@ -17385,37 +17393,37 @@ IV. Tenga relación de servicio, o dependa del servidor por razones laborales; y
 
 V. Cualquier otra prevista en el presente Código.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1408], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1408], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1614°.
+###### ARTÍCULO 1655°.
 
 Los particulares con capacidad jurídica podrán promover por sí o por interpósita persona.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1409], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1409], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO X. De las Instalaciones
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1368], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1615°.
+###### ARTÍCULO 1656°.
 
 Los particulares, podrán autorizar por escrito en cada caso, a un Licenciado en Derecho, para que en su nombre y representación reciba notificaciones, ofrezca y rinda pruebas e interponga los recursos a que se refieren las disposiciones de este Código. El profesionista designado para tal efecto deberá ser nombrado mediante carta poder simple y en el escrito donde se designe se deberá de acompañar copia de la cedula profesional respectiva.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1410], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1410], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1616°.
+###### ARTÍCULO 1657°.
 
 La falta u omisión de los requisitos exigidos en el ARTÍCULO anterior, dará lugar a una prevención de manera escrita, a efectos de subsanar las omisiones o los errores cometidas (sic), contando con el término de cinco días hábiles para tal efecto.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1411], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1411], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1617°.
+###### ARTÍCULO 1658°.
 
 En ningún trámite administrativo se admitirá la gestión de negocios.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1618°.
+### CAPÍTULO III. Extinción del Acto Administrativo
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1412], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1659°.
 
 El acto administrativo de carácter individual se extingue de pleno derecho por cualquiera de las siguientes causas:
 
@@ -17439,7 +17447,11 @@ IX. Por nulidad, declarada en la sentencia de un procedimiento judicial.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1619°.
+### CAPÍTULO IV. De la Terminación del Procedimiento Administrativo
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1413], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1660°.
 
 Ponen fin al procedimiento administrativo:
 
@@ -17455,23 +17467,23 @@ V. La imposibilidad material de continuarlo por causas sobrevenidas; y
 
 VI. El convenio de las partes, siempre y cuando no sea contrario al ordenamiento jurídico ni verse sobre materias que no sean susceptibles de transacción y tengan por objeto satisfacer el interés público con el alcance, efectos y régimen jurídico específico que en cada caso prevea la disposición que lo regula.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1414], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1414], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1620°.
+###### ARTÍCULO 1661°.
 
 Todo interesado podrá desistirse de su solicitud. Si el escrito de iniciación se hubiere formulado por dos o mas interesados, el desistimiento o la renuncia sólo afectará a aquél que lo hubiese formulado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1415], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1415], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1621°.
+###### ARTÍCULO 1662°.
 
 La resolución que ponga fin al procedimiento decidirá todas las cuestiones planteadas por los interesados y de oficio las derivadas del mismo; en su caso, el órgano administrativo competente podrá decidir sobre las mismas, poniéndolo, previamente, en conocimiento de los interesados por un plazo no superior de 10 días, para que manifiesten lo que a su derecho convenga y aporten las pruebas que estimen convenientes.
 
 En los procedimientos tramitados a solicitud del interesado la resolución será congruente con las peticiones formuladas por este, sin perjuicio de la potestad de las Administraciones Públicas Estatal y Municipales de iniciar de oficio un nuevo procedimiento.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1416], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1416], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1622°.
+###### ARTÍCULO 1663°.
 
 En los procedimientos iniciados a instancia del interesado, cuando se produzca su paralización por causas imputables al mismo, las Administraciones Públicas Estatal y Municipales le advertirán que, transcurridos tres meses, se producirá la caducidad del mismo. Expirando dicho plazo sin que el interesado requerido realice las actividades necesarias para reanudar la tramitación, la Administración Pública Estatal y Municipal acordará el archivo de las actuaciones, notificándoselo al interesado. Contra la resolución que declare la caducidad procederá el recurso previsto en la presente ley.
 
@@ -17481,55 +17493,63 @@ Cuando se trate de procedimientos iniciados de oficio, se entenderán caducados 
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-### CAPÍTULO XI. De las Fachadas y Recubrimientos
+### CAPÍTULO V. De los Términos
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1376], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1417], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1623°.
+###### ARTÍCULO 1664°.
 
 Las actuaciones y diligencias administrativas municipales se practicarán en horas y días hábiles.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1418], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1418], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-(SIC)°.- En cualquier plazo o término no se contarán los días inhábiles. Para efectos del presente Código, se considerarán días inhábiles: sábados y domingos, el 1° de Enero, 21 de marzo, 1º y 5 de mayo, 16 de septiembre, 20 de noviembre, 1º de diciembre de cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Estatal y 25 de diciembre y aquellos días en que se decrete la suspensión de labores administrativas, aún y cuando exista (sic) guardias para la atención de servicios públicos primordiales.
+###### ARTÍCULO 1665°.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1419], P.O. 22 DE ABRIL DE 2024)</small>
+En cualquier plazo o término no se contarán los días inhábiles. Para efectos del presente Código, se considerarán días inhábiles: sábados y domingos, el 1° de Enero, 21 de marzo, 1º y 5 de mayo, 16 de septiembre, 20 de noviembre, 1º de diciembre de cada seis años, cuando corresponda la transmisión del Poder Ejecutivo Estatal y 25 de diciembre y aquellos días en que se decrete la suspensión de labores administrativas, aún y cuando exista (sic) guardias para la atención de servicios públicos primordiales.
 
-ARTÍCULO 1624° (SIC).- La autoridad administrativa municipal en caso de urgencia o de existir causa justificada, podrá habilitar horas inhábiles, cuando la persona con quien se vaya a practicar la diligencia, realice actividades objeto de visita, en tales horas. Debiendo asentar en la resolución la determinación de habilitar horas inhábiles.
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1419], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1420], P.O. 22 DE ABRIL DE 2024)</small>
+###### ARTÍCULO 1666°.
 
-###### ARTÍCULO 1625°.
+La autoridad administrativa municipal en caso de urgencia o de existir causa justificada, podrá habilitar horas inhábiles, cuando la persona con quien se vaya a practicar la diligencia, realice actividades objeto de visita, en tales horas. Debiendo asentar en la resolución la determinación de habilitar horas inhábiles.
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1420], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1667°.
 
 En materia de inspecciones y siempre y cuando las actividades de los particulares representen un riesgo para personas y sus bienes, la autoridad podrá realizarlas en cualquier día y hora sin necesidad de habilitación expresa. Asimismo en materia de licencias reglamentadas se podrán hacer inspecciones durante las 24 horas del día sin necesidad de habilitación expresa.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1421], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1421], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1626°.
+###### ARTÍCULO 1668°.
 
 las diligencias de cualquier procedimiento administrativo municipal se efectuarán de las 8:00 a las 18:00 horas, sin perjuicio de que una vez empezada la diligencia en horas hábiles y concluya en horas inhábiles, afecte su validez.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1422], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1422], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1627°.
+###### ARTÍCULO 1669°.
 
 Para efectos de notificaciones, citaciones, emplazamientos, requerimientos, visitas e informes, los términos o plazos, no deberán de exceder de diez días. La autoridad administrativa deberá de hacer del conocimiento del interesado de dicho plazo.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1628°.
+### CAPÍTULO VI. De las Notificaciones
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1423], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1670°.
 
 Toda resolución emitida por la autoridad municipal deberán (sic) de ser notificadas personalmente al interesado, entregándole copia de las mismas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1424], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1424], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1629°.
+###### ARTÍCULO 1671°.
 
 Los particulares deberán señalar domicilio dentro de la jurisdicción del Municipio de Asientos, en el primer escrito que presenten, y notificar el cambio de domicilio, para que en el se hagan las notificaciones personales indicadas en este. Código. En caso de no cumplir con esta obligación las notificaciones, aún las personales, se harán por estrados en las oficinas de la propia autoridad.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1425], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1425], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1630°.
+###### ARTÍCULO 1672°.
 
 Las notificaciones personales se harán conforme a las siguientes reglas:
 
@@ -17545,41 +17565,37 @@ V. En el caso de que el interesado que haya de notificarse tenga domicilio fuera
 
 VI. Por edictos, únicamente cuando la persona a quien se deba de notificar haya desaparecido, se ignore su domicilio, o se encuentre fuera del Municipio de Asientos sin haber dejado representante legal acreditado ante las autoridades municipales administrativas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1426], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1426], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1631°.
+###### ARTÍCULO 1673°.
 
 Las notificaciones personales surtirán efectos el día en que fueron realizadas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1427], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1427], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1632°.
+###### ARTÍCULO 1674°.
 
 Las demás notificaciones surtirán sus efectos al día hábil siguiente a aquél en que se hubiere hecho entrega del oficio o copia de la resolución que se notifica, o él de la publicación del edicto en su casó.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1428], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1428], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-## TÍTULO QUINTO. DEL USO, OPERACION Y MANTENIMIENTO
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO I. Del uso de Predios y Edificaciones
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1386], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1633°.
+###### ARTÍCULO 1675°.
 
 Las notificaciones por edictos se realizarán haciendo la publicación con un resumen de las resoluciones por notificar; dichas publicaciones deberán efectuarse por una sola vez en el periódico oficial del estado y en un diario de los de mayor circulación.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1429], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1429], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1634°.
+###### ARTÍCULO 1676°.
 
 La manifestación que haga el interesado, su representante legal o quien esté autorizado para recibir notificaciones, de conocer el acuerdo o resolución, surtirá sus efectos de notificación en forma a partir del día hábil siguiente a ese hecho.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1635°.
+### CAPÍTULO VII. De las Verificaciones e Inspecciones
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1430], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1677°.
 
 Corresponde a la administración municipal a través de sus dependencias:
 
@@ -17595,61 +17611,45 @@ V. Aplicar las medidas de seguridad que establece este Código y demás disposic
 
 VII (SIC). Las demás que señale el presente Código y demás legislación aplicable.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1431], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1431], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO II. Del Mantenimiento
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1389], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1636°.
+###### ARTÍCULO 1678°.
 
 Las dependencias podrán, de conformidad con las disposiciones aplicables, verificar bienes, obras, servicios, instalaciones, personas y vehículos de transporte, con objeto de comprobar el cumplimiento de las disposiciones legales, para lo cual se deberán cumplir, en lo conducente, las formalidades previstas para la visita de verificación.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1432], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1432], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1637°.
+###### ARTÍCULO 1679°.
 
 Tendrán el carácter de inspectores y verificadores, aquellos empleados municipales que hayan recibido su nombramiento que los acredite como tales.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1433], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1433], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-# LIBRO NOVENO. DE LOS ACTOS Y PROCEDIMIENTOS ADMINISTRATIVOS
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
-
-## TÍTULO PRIMERO. DE LOS REQUISITOS Y FORMALIDADES
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO I. De los Principios Generales
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1391], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1638°.
+###### ARTÍCULO 1680°.
 
 La inspección y vigilancia de todos los giros comerciales debe verificar que cuenten con su licencia municipal, así como que se cumplan los horarios previstos por el presente Código.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1434], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1434], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1639°.
+###### ARTÍCULO 1681°.
 
 Los verificadores podrán solicitar el auxilio de la fuerza pública y el rompimiento de chapas y cerraduras para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la diligencia, independientemente de las sanciones a que halla (sic) lugar.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1435], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1435], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1640°.
+###### ARTÍCULO 1682°.
 
 Los propietarios, responsables, encargados u ocupantes de establecimientos objeto de verificación, estarán obligados a permitir el acceso y dar facilidades e informes a los verificadores para el desarrollo de su labor.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1436], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1436], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1641°.
+###### ARTÍCULO 1683°.
 
 Al iniciar la visita, el verificador deberá exhibir credencial vigente con fotografía, expedida por la autoridad competente que lo acredite para desempeñar dicha función, así como la orden escrita con firma autógrafa expedida por la autoridad competente, en la que deberá precisarse el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que deba tener y las disposiciones legales que lo fundamenten.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1437], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1437], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1642°.
+###### ARTÍCULO 1684°.
 
 La orden de inspección o verificación deberá contener:
 
@@ -17665,21 +17665,21 @@ V. Fundamento y motivación; y
 
 VI. Autorización del uso de la fuerza pública en caso de que se requiera o que se nieguen u obstaculicen la ejecución de la inspección.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1438], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1438], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1643°.
+###### ARTÍCULO 1685°.
 
 No se requerirá orden escrita de inspección, cuando los verificadores detecten actividades contrarias al presente Código en el momento de estarse consumando éstas si ponen en peligro la seguridad de las personas, sus bienes derechos o la continuidad de un servicio público. En este caso levantará el acta respectiva, se tomarán las medidas de seguridad que al caso correspondan y se turnará el asunto a la autoridad que corresponda, para su calificación.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1439], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1439], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1644°.
+###### ARTÍCULO 1686°.
 
 De toda visita de verificación o inspección se levantará acta circunstanciada, en presencia de dos testigos propuestos por la persona con quien se hubiere entendido la diligencia o por quien la practique si aquélla se hubiere negado a proponerlos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1440], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1440], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1645°.
+###### ARTÍCULO 1687°.
 
 En las actas se hará constar:
 
@@ -17699,87 +17699,97 @@ VIII. Declaración del visitado, si quisiera hacerla; y
 
 IX. Nombre y firma de quienes intervinieron en la diligencia, incluyendo los de quien la hubieren llevado a cabo. Si se negaren a firmar el visitado o su representante legal, ello no afectará la validez del acta, debiendo el verificador asentar la razón relativa.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1441], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1441], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO II. Del Procedimiento Administrativo
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1399], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1646°.
+###### ARTÍCULO 1688°.
 
 Los visitados a quienes se haya levantado acta de verificación podrán formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos contenidos en ella, o bien, por escrito, hacer uso de tal derecho dentro del término de cinco días siguientes a la fecha en que se hubiere levantado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1442], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1442], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1647°.
+###### ARTÍCULO 1689°.
 
 Se dejará copia de la orden y el acta de inspección o verificación a la persona con quien se entendió la diligencia, aunque se hubiere negado a firmar, lo que no afectará la validez de la diligencia ni del documento de que se trate, siempre y cuando el verificador haga constar tal circunstancia en la propia acta.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1443], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1443], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1648°.
+###### ARTÍCULO 1690°.
 
 Las autoridades administrativas con base en los resultados de la visita de verificación o del informe de la misma, podrán dictar medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo adecuado para su realización. Dichas medidas tendrán la duración estrictamente necesaria para la corrección de las irregularidades respectivas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1444], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1444], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1649°.
+###### ARTÍCULO 1691°.
 
 Con base en los resultados de la visita de verificación o del informe de la misma, podrán dictarse medidas de seguridad para corregir las irregularidades que se hubiesen encontrado, notificándolas al interesado y otorgándole un plazo de cinco días hábiles para que acuda a alegar lo que a su derecho convenga, en caso contrario, o si son comprobadas las violaciones o infracciones legales, se impondrán las sanciones que se establecen en el presente código.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1445], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1445], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1650°.
+###### ARTÍCULO 1692°.
 
 Cuando se trate de segunda o posterior inspección para verificar el cumplimiento de un requerimiento o requerimientos anteriores y del acta se desprenda que no se ha dado cumplimiento con las medidas previamente ordenadas, la autoridad competente podrá poner la sanción o sanciones que procedan.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1446], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1446], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1651°.
+###### ARTÍCULO 1693°.
 
 Los inspectores o verificadores deberán evitar en todo momento el hostigamiento o actos de molestia innecesaria, limitándose a la vigilancia o en su caso el procedimiento establecido en este capítulo para el ejercicio de su función.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1447], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1447], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1652°.
+###### ARTÍCULO 1694°.
 
 Del acta de inspección se dará vista al funcionario que la ordenó, quien determinará la posible comisión de una falta administrativa e iniciará en su caso el procedimiento para la imposición de sanciones o medidas de seguridad.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1653°.
+## TÍTULO SEGUNDO. DE LA JUSTICIA MUNICIPAL
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De los Jueces Civicos de Seguridad Pública y Movilidad
+
+(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTÍCULO 1448], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1695°.
 
 En el Municipio de Asientos, a efectos de llevar a cabo el control de los infractores al presente Código y de las multas respectivas, existirá como mínimo un Juzgado Cívico de Seguridad Pública y Movilidad, que dependerá jerárquica y administrativamente de la Secretaría del H. Ayuntamiento.
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1449], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTÍCULO 1449], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-(REFORMADO, P.O. 6 DE ABRIL DE 2020) (SIC)
+###### ARTÍCULO 1696°.
 
-ARTÍCULO 1654 ARTÍCULO 1449°.- Será facultad del Juzgado Cívico de Seguridad Pública y Movilidad el conocimiento y calificación de las infracciones en contra de la seguridad, tranquilidad, salubridad la moral y el civismo, así como las infracciones de vialidad, será también facultad del Juzgado Cívico la imposición de las sanciones correspondientes.
+Será facultad del Juzgado Cívico de Seguridad Pública y Movilidad el conocimiento y calificación de las infracciones en contra de la seguridad, tranquilidad, salubridad la moral y el civismo, así como las infracciones de vialidad, será también facultad del Juzgado Cívico la imposición de las sanciones correspondientes.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO, P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1655°.
+###### ARTÍCULO 1697°.
 
 el presente capitulo se remitirá al Reglamento de Justicia Cívica y Faltas Administrativas para el Municipio de Asientos, Aguascalientes.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1656°.
+## TÍTULO TERCERO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De las Disposiciones Generales
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1465], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1698°.
 
 Para efectos de este título, se consideran infracciones las violaciones al presente Código y a los demás reglamentos en materia municipal y mandatos legítimos de la autoridad competente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1466], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1466], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1657°.
+###### ARTÍCULO 1699°.
 
 Las infracciones tendrán como consecuencia la imposición de sanciones o medidas de seguridad por parte de la autoridad competente según lo establecen en las leyes y el presente código, en la forma y montos establecidos en los mismos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1467], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1467], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-(REFORMADO, P.O. 6 DE ABRIL DE 2020) (SIC)
-
-###### ARTÍCULO 1658°.
+###### ARTÍCULO 1700°.
 
 Las infracciones previstas en el presente código se dividen en:
 
@@ -17789,45 +17799,33 @@ II. Faltas de Policía y Buen Gobierno; e
 
 III. Infracciones de movilidad.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1468], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1468], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO III. Extinción del Acto Administrativo
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1412], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1659°.
+###### ARTÍCULO 1701°.
 
 La vigilancia sobre la comisión de infracciones previstas en el artículo anterior corresponderá a las diversas unidades administrativas municipales, en el ámbito de sus respectivas competencias. En el caso de la fracción I del artículo anterior, la aplicación de la sanción correspondiente será facultad del Secretario del H. Ayuntamiento, por sí o por persona a quien delegue facultades para ello. En el caso de las fracciones II y III del artículo anterior, la aplicación de la sanción correspondiente, será facultad del Juez Calificador.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1469], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1469], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-(REFORMADO, P.O. 6 DE ABRIL DE 2020) (SIC)
-
-### CAPÍTULO IV. De la Terminación del Procedimiento Administrativo
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1413], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1660°.
+###### ARTÍCULO 1702°.
 
 Los elementos operativos de la Dirección de Seguridad Pública y Movilidad vigilarán lo correspondiente a las faltas de policía y buen gobierno e infracciones de movilidad y serán auxiliares de las demás áreas, las cuales pueden solicitar su apoyo cuando el caso lo requiera.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1470], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1470], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-(REFORMADO, P.O. 6 DE ABRIL DE 2020) (SIC)
-
-###### ARTÍCULO 1661°.
+###### ARTÍCULO 1703°.
 
 La acción para imponer sanciones por infracciones administrativas, faltas de policía y buen gobierno o infracciones de movilidad, prescribirán en tres meses, contados a partir de la fecha en que se cometan.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1471], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1471], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1662°.
+###### ARTÍCULO 1704°.
 
 En el caso de infracciones administrativas, el plazo de la prescripción comenzará a correr a partir de la fecha en que se levante el acta de inspección o verificación, o se hace del conocimiento del presunto infractor de las violaciones a la ley, reglamentos o el presente código.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1472], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1472], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1663°.
+###### ARTÍCULO 1705°.
 
 Las sanciones podrán consistir en:
 
@@ -17855,13 +17853,9 @@ XI. La suspensión o cancelación del empadronamiento; y
 
 XII. El arresto hasta por 36 horas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1473], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1473], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO V. De los Términos
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1417], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1664°.
+###### ARTÍCULO 1706°.
 
 Las sanciones aplicables por la comisión de faltas de policía y buen gobierno podrán consistir en:
 
@@ -17871,21 +17865,21 @@ II. Multa económica a favor del erario municipal; y
 
 III. Arresto hasta por treinta y seis horas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1474], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1474], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1665°.
+###### ARTÍCULO 1707°.
 
 Las sanciones administrativas previstas en este capítulo, serán aplicables cuando corresponda, sin perjuicio de las responsabilidades civiles o penales que con motivo de los mismos hechos adquieran los infractores.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1475], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1475], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1666°.
+###### ARTÍCULO 1708°.
 
 Se entenderá por medidas de seguridad, la adopción y ejecución de las acciones que, con apoyo de este Código, dicten las autoridades competentes, encaminadas a evitar los daños que puedan causar las instalaciones, construcciones, obras, servicios o acciones. Estas medidas de seguridad serán aplicables de manera complementaria en sanciones por comisión de infracciones administrativas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1476], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1476], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1667°.
+###### ARTÍCULO 1709°.
 
 Las medidas de seguridad podrán consistir en:
 
@@ -17909,49 +17903,53 @@ IX. La Retención o aseguramiento de mercancías, instrumentos u objetos; y
 
 X. Cualquier prevención que tienda a lograr los fines expresados en el artículo anterior.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1477], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1477], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1668°.
+###### ARTÍCULO 1710°.
 
 Las medidas de seguridad son de inmediata ejecución, tienen carácter temporal y preventivo y se aplicarán sin perjuicio de las sanciones que en su caso correspondan.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1478], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1478], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1669°.
+###### ARTÍCULO 1711°.
 
 La persona afectada por la aplicación de una medida de seguridad, tendrá derecho a que de inmediato le sea levantada, si presenta ante la autoridad competente, las concesiones, los permisos, licencias o autorizaciones, cuando la causa para su imposición sea la carencia de éstos; o cuando desaparezcan los motivos de riesgo público que las originó.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1479], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1479], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO VI. De las Notificaciones
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1423], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1670°.
+###### ARTÍCULO 1712°.
 
 En el caso de que los verificadores detecten actividades contrarias y violatorias a las disposiciones municipales al momento de estarse consumando y que pongan en peligro la seguridad la salubridad, la integridad o la moral de las personas de sus derechos o de sus bienes, no será necesario agotar el requisito de la orden por escrito requerida por el presente Código ni habilitar horas, y en cuyo caso, procederá a levantar acta y procederá a ejecutar la o las medidas de seguridad provisionales que considere pertinentes, a efecto de que no se sigan contraviniendo las disposiciones violadas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1480], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1480], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1671°.
+###### ARTÍCULO 1713°.
 
 En caso de clausura provisional como medida de seguridad, ésta podrá prolongarse, hasta que sean cubiertas las sanciones que importen cantidad líquida.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1672°.
+### CAPÍTULO II. De las Faltas de Policía y Buen Gobierno
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1481], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1714°.
 
 Constituye una falta de policía y buen gobierno a la acción u omisión, individual o de grupo, realizada en vía y lugares públicos o cuyos efectos se manifiesten en el hecho de que, se altere o se ponga en peligro el orden público o la integridad de las personas, seguridad, salubridad y tranquilidad, y sus propiedades en los términos de este capítulo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1482], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1482], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1673°.
+###### ARTÍCULO 1715°.
 
 Para efectos del presente Código, se entenderá por lugares públicos, todo espacio de uso común y de libre tránsito, incluyendo las plazas, los mercados y los jardines; los inmuebles de acceso general tales como establecimientos comerciales, centros de espectáculos, diversión o recreo, así como los transportes de servicio público; conforme se ha definido en este código.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1674°.
+#### SECCIÓN PRIMERA. De las Faltas Contra la Moral y el Civismo
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1486], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1716°.
 
 Son faltas contra la Moral y el Civismo y se sancionarán con multa de 3 a 10 Unidad (sic) de Medida y Actualización (UMA) o arresto hasta por treinta y seis horas las siguientes:
 
@@ -17979,7 +17977,11 @@ XI. Expender o proporcionar a menores de edad bebidas alcohólicas, tabaco, tóx
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO, P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1675°.
+### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas de Policía y Buen Gobierno
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1487], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1717°.
 
 Para la determinación de la imposición de una sanción o medida de seguridad que prevenga el presente Código y la legislación aplicable se atenderá a lo siguiente:
 
@@ -17991,169 +17993,159 @@ III. La magnitud del daño ocasionado; y
 
 IV. Naturaleza y tipo del giro o actividad del establecimiento o del infractor.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1488], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1488], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1676°.
+###### ARTÍCULO 1718°.
 
 Se considerarán inimputables los menores de 18 años de edad, los locos, los que padezcan idiotismo, imbecilidad; los que sufran cualquier debilidad, enfermedad o anomalía mentales y los que hayan sido declarados con tal calidad por resolución judicial.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1489], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1489], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO VII. De las Verificaciones e Inspecciones
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1430], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1677°.
+###### ARTÍCULO 1719°.
 
 Los ciegos, sordomudos y personas con graves incapacidades físicas, serán sancionados por las faltas que cometan, siempre que aparezca que su impedimento no ha influido determinantemente sobre su responsabilidad en los hechos, pero el Juez podrá reducir hasta la mitad la sanción que señala este capítulo, si aparecieron circunstancias que ameriten dicho tratamiento.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1490], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1490], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1678°.
+###### ARTÍCULO 1720°.
 
 Las faltas cometidas por los descendientes contra sus ascendientes o por un cónyuge contra otro, sólo podrá sancionarse a petición expresa del ofendido, a menos que la falta se cometa en vía pública y con escándalo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1491], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1491], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1679°.
+###### ARTÍCULO 1721°.
 
 En caso de la comisión de una falta no flagrante, que sea denunciada ante el Juez Calificador, éste mandará citar a su presencia a los implicados, y en caso de desobediencia a dicho citatorio podrá hacerlos comparecer por medio de la fuerza pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1492], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1492], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1680°.
+###### ARTÍCULO 1722°.
 
 Cuando una persona resulte responsable de dos o más violaciones a las disposiciones del presente Código, se le aplicarán las sanciones que correspondan a cada una.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1493], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1493], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1681°.
+###### ARTÍCULO 1723°.
 
 Cuando la imposición de la sanción o medidas de seguridad implique el pago de una cantidad, en la misma resolución se les notificará que tiene el término de cinco días para hacer el pago, con el apercibimiento de que en caso de no hacerlo se abrirá procedimiento de ejecución económico-coactivo, remitiéndole copia de la resolución a la Secretaría de Finanzas o Tesorería Municipal para hacerla efectiva.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1494], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1494], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1682°.
+###### ARTÍCULO 1724°.
 
 En caso de que la multa impuesta no fuere cubierta por el infractor en el plazo establecido, aquélla se conmutará por arresto hasta treinta y seis horas, de conformidad con las reglas que se establecen en el presente libro.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1683°.
+### CAPÍTULO IV. De las Reglas para la Imposición de Sanciones Administrativas
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1496], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1725°.
 
 Se notificará personalmente al infractor dentro del término de 24 horas, de las sanciones a que se hizo acreedor. En la misma notificación la autoridad municipal ordenará al inspector o verificador las medidas de seguridad que se han de realizar.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1497], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1497], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1684°.
+###### ARTÍCULO 1726°.
 
 Si la resolución determina procedente la clausura provisional como medida de seguridad, deberá de expresarse en la notificación el tiempo de la clausura, dicha resolución deberá de estar debidamente fundada y motivada.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1498], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1498], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1685°.
+###### ARTÍCULO 1727°.
 
 Cuando el ayuntamiento tenga conocimiento de que una edificación, estructura o instalación presente algún peligro para las personas o los bienes, previo dictamen técnico, requerirá a su propietario, con la urgencia que el caso amerite, que realice las reparaciones, obras o demoliciones necesarias.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1499], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1499], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1686°.
+###### ARTÍCULO 1728°.
 
 Cuando la demolición tenga que hacerse en forma parcial, ésta comprenderá también la parte que resulte afectada por la continuidad estructural.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1500], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1500], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1687°.
+###### ARTÍCULO 1729°.
 
 Una vez concluidas las obras o los trabajos que hayan sido ordenados de acuerdo con este Código, el propietario de la construcción o el Perito dará aviso de terminación a la Dirección de Planeación y Obras Públicas, la que verificará la correcta ejecución de dichos trabajos, pudiendo en su caso, ordenar su modificación y corrección, y quedando obligados aquellos a realizarla.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1501], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1501], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1688°.
+###### ARTÍCULO 1730°.
 
 Si como resultado del dictamen técnico fuera necesario ejecutar alguno de los trabajos mencionados, para los que se requiera efectuar la desocupación parcial o total de una edificación peligrosa para sus ocupantes, la Presidencia Municipal podrá ordenar la desocupación temporal o definitiva.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1502], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1502], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1689°.
+###### ARTÍCULO 1731°.
 
 En caso de peligro inminente conforme al dictamen, la desocupación deberá ejecutarse en forma inmediata, y si es necesario, la Dirección de Planeación y Obras Públicas, solicitará apoyo a la fuerza pública a través de la Dirección de Seguridad Pública y Vialidad Municipal para hacer cumplir la orden. En estos casos no procederá el recurso previsto en el presente Código.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1503], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1503], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1690°.
+###### ARTÍCULO 1732°.
 
 Para la imposición de las sanciones se deberá de enviar una notificación al presunto infractor a efectos de que dentro de los siguientes quince días hábiles, aporte las pruebas en que se funde y exponga lo que a su derecho convenga.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1504], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1504], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1691°.
+###### ARTÍCULO 1733°.
 
 En la cédula de notificación se expresará el lugar, día y hora en que se verificará una audiencia, en la cual se desahogarán las pruebas y se emitirán los alegatos del interesado. Si el interesado no compareciera, sin justificar la causa personalmente o por conducto de un apoderado, se le tendrá por desistido de las pruebas que ofreció y por perdido su derecho a presentar alegatos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1505], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1505], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1692°.
+###### ARTÍCULO 1734°.
 
 En este procedimiento son admisibles todas las pruebas, a excepción de la confesional con cargo a la autoridad y de aquéllas que atenten contra la moral o el orden público, siendo obligación del oferente relacionarlas con la controversia que haya establecido respecto a la cancelación del permiso o licencia correspondiente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1506], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1506], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1693°.
+###### ARTÍCULO 1735°.
 
 Para el desahogo de la prueba testimonial, será obligación del oferente presentar personalmente a sus testigos o a los peritos que ofrezca. En lo no previsto en el presente Código, respecto al ofrecimiento y desahogo de las pruebas, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1507], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1507], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1694°.
+###### ARTÍCULO 1736°.
 
 Concluido el desahogo de las pruebas y emitidos (sic) el alegato correspondiente o renunciado el derecho para hacerlo, la autoridad que conozca del trámite resolverá en un término que no exceda de diez días hábiles.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1508], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1508], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-## TÍTULO SEGUNDO. DE LA JUSTICIA MUNICIPAL
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO I. De los Jueces Civicos de Seguridad Pública y Movilidad
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 1448], P.O. 22 DE ABRIL DE 2024)</small>
-
-(REFORMADO, P.O. 6 DE ABRIL DE 2020) (SIC)
-
-###### ARTÍCULO 1695°.
+###### ARTÍCULO 1737°.
 
 Si la resolución determina procedente la cancelación y una vez que haya causado estado se ejecutará de inmediato la misma, previa notificación al interesado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1509], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1509], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1696°.
+###### ARTÍCULO 1738°.
 
 En caso de que haya existido la clausura como medida de seguridad, adquirirá en la resolución el carácter de definitiva.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1510], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1510], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1697°.
+###### ARTÍCULO 1739°.
 
 Si existiere una condena en cantidad líquida, se enviará copia de la resolución a la Tesorería Municipal, para que proceda hacerla efectiva a través del procedimiento económico coactivo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1511], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1511], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-## TÍTULO TERCERO. DE LAS INFRACCIONES, SANCIONES Y MEDIDAS DE SEGURIDAD
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO I. De las Disposiciones Generales
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1465], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1698°.
+###### ARTÍCULO 1740°.
 
 Para toda violación a las normas y disposiciones municipales previstas en el presente Código y cuya individualización no esté prevista en los artículos subsecuentes se aplicará una sanción de cinco a mil Unidades de Medida y Actualización (UMA) independientemente de la medida de seguridad y arresto atendiendo a la gravedad de la falta que en su caso proceda.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1699°.
+## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE LAS SANCIONES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1525], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1741°.
 
 En materia de servicios públicos municipales se impondrá:
 
@@ -18177,7 +18169,11 @@ e) (sic) Utilización de agua sin el pago correspondiente en la construcción de
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1700°.
+### CAPÍTULO II. De las Sanciones en Materia de Construcción
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1526], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1742°.
 
 Procede la Suspensión o Clausura de Obras en Ejecución en los siguientes casos:
 
@@ -18191,19 +18187,21 @@ IV. Cuando se invada la vía pública con una construcción; y
 
 V. Cuando no se respeten las afectaciones y las restricciones físicas y de uso impuestas a los predios en la Constancia de Alineamiento y Compatibilidad Urbanística.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1527], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1527], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1701°.
+###### ARTÍCULO 1743°.
 
 En caso de que el propietario o poseedor de un predio o de una edificación no cumpla con las órdenes giradas de reparación, demolición o suspensión de obra, con base en este Libro y las demás disposiciones legales aplicables la Dirección de Planeación y Obras Públicas, previo dictamen que emita y ordene, estará facultado para ejecutar, a costa del propietario o poseedor, las obras, reparaciones o demoliciones que hayan ordenado; para clausurar y para tomar las demás medidas que considere necesarias, pudiendo hacer uso de la fuerza pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1528], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1528], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-ARTÍCULO 1701° (SIC).- Si el propietario o poseedor del predio en el que la Dirección de Planeación y Obras Públicas se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Tesorería efectuará su cobro por medio del procedimiento económico coactivo.
+###### ARTÍCULO 1744°.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1529], P.O. 22 DE ABRIL DE 2024)</small>
+Si el propietario o poseedor del predio en el que la Dirección de Planeación y Obras Públicas se vea obligada a ejecutar obras o trabajos conforme a este artículo, se negare a pagar el costo de dichas obras, la Tesorería efectuará su cobro por medio del procedimiento económico coactivo.
 
-###### ARTÍCULO 1702°.
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1529], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1745°.
 
 Independientemente de la imposición de las sanciones pecuniarias a que haya lugar, la Dirección de Planeación y Obras Públicas podrá clausurar las obras terminadas cuando ocurra alguna de las siguientes circunstancias:
 
@@ -18213,21 +18211,21 @@ II. Cuando la obra se haya ejecutado alterando el proyecto aprobado fuera de los
 
 III. Cuando se use una construcción o parte de ella para un uso diferente del autorizado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1530], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1530], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1703°.
+###### ARTÍCULO 1746°.
 
 El estado de clausura de las obras podrá ser total o parcial y no será levantado hasta en tanto no se hayan regularizado las obras o ejecutado los trabajos ordenados en los términos de este Código.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1531], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1531], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1704°.
+###### ARTÍCULO 1747°.
 
 Cuando se compruebe la responsabilidad por haber realizado actos u omisiones que prohíbe el libro quinto del presente código, independientemente de la sanción impuesta por la autoridad, el infractor tiene la obligación de realizar o en su defecto cubrir, el monto de los gastos de las acciones de restauración y/o reparación de daños en los términos de la ley aplicable.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1532], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1532], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1705°.
+###### ARTÍCULO 1748°.
 
 Para la individualización de la sanción pecuniaria en materia de construcciones, las infracciones se clasificarán en grupos, atendiendo al mínimo y máximo establecido, en la siguiente forma:
 
@@ -18235,9 +18233,9 @@ Para la individualización de la sanción pecuniaria en materia de construccione
 
 Estas sanciones no incluyen los gastos y costos que implique la obligación de la persona infractor (sic) para retirar, resarcir, demoler, reponer las construcciones afectadas o realizadas a sus condiciones originales en el plazo que el ayuntamiento señale. Si este plazo fuese excedido, (sic) Dirección de Planeación y Obras Públicas realizará los trabajos con cargo al propietario y/o poseedor infractor.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1533], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1533], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1706°.
+###### ARTÍCULO 1749°.
 
 Para los efectos del artículo anterior, las infracciones se agrupan en:
 
@@ -18283,21 +18281,21 @@ b) Construcción de edificaciones con superficie mayor de 1000.00 m2 construidos
 
 c) Construir sin respetar el proyecto autorizado con la licencia.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1534], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1534], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1707°.
+###### ARTÍCULO 1750°.
 
 Las infracciones especificadas en el artículo anterior serán aplicables indistintamente al propietario de la obra o predio, al constructor o contratista correspondiente o al Perito Responsable de Obra o Perito Especializado, previa investigación de los hechos y deslinde de responsabilidades.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1535], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1535], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1708°.
+###### ARTÍCULO 1751°.
 
 Para toda violación a las normas y disposiciones municipales en materia de construcciones, no especificadas de manera expresa en el presente capítulo, se aplicará una sanción de cinco a ciento (sic) veces el valor de la Unidad de Medida y Actualización vigente en el año en que sea cometida, independientemente de la medida de seguridad o arresto atendiendo a la gravedad de la falta que en su caso procedan.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1536], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1536], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1709°.
+###### ARTÍCULO 1752°.
 
 La Dirección de Planeación y Obras Públicas podrá revocar la licencia de construcción cuando:
 
@@ -18311,7 +18309,11 @@ IV. La revocación de licencia será pronunciada por la Autoridad que haya emiti
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1710°.
+### CAPÍTULO III. De las Sanciones en Materia de Actividades de los Particulares en el Comercio
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1537], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1753°.
 
 En materia de actividades comerciales, industriales y prestación de servicios, se impondrá sanción de multa económica a favor del erario municipal por las siguientes causas:
 
@@ -18355,9 +18357,9 @@ d) Vender cerveza o bebidas alcohólicas en los billares, boliches y otros lugar
 
 e) Giros que cambien de domicilio sin previa autorización de la autoridad municipal.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1538], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1538], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1711°.
+###### ARTÍCULO 1754°.
 
 Procede la clausura total o parcial por:
 
@@ -18375,9 +18377,9 @@ VI. Vender bebidas alcohólicas a menores de edad; y
 
 VII. Cuando se haya cancelado el permiso o licencia.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1539], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1539], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1712°.
+###### ARTÍCULO 1755°.
 
 Procede el arresto hasta por treinta y seis horas en los siguientes casos:
 
@@ -18387,9 +18389,9 @@ II. En los casos de manifiesto desacato a la autoridad, o;
 
 III. Por alteración grave del orden público.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1540], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1540], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1713°.
+###### ARTÍCULO 1756°.
 
 Para efectos del artículo anterior, se consideran faltas graves las siguientes:
 
@@ -18405,13 +18407,9 @@ V. Permitir que dentro de los establecimientos alguna persona altere el orden pu
 
 VI. La reincidencia a las faltas administrativas contraviniendo las disposiciones relativas al presente Código.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1541], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1541], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO II. De las Faltas de Policía y Buen Gobierno
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1481], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1714°.
+###### ARTÍCULO 1757°.
 
 Procede la cancelación del permiso o licencia, cuando:
 
@@ -18441,19 +18439,15 @@ XII. Por razones de interés público debidamente justificadas, a juicio del Ayu
 
 XIII. Por expender bebidas alcohólicas a menores de edad.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1542], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1542], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1715°.
+###### ARTÍCULO 1758°.
 
 Del procedimiento de cancelación de licencias y permisos, conocerá y resolverá el Secretario del H. Ayuntamiento, iniciando el trámite y emplazando al titular de los derechos, en los términos de las reglas que establece el presente Libro, así como las contenidas en la Ley del Procedimiento Administrativo del Estado de Aguascalientes, haciéndole saber la causa o causas que originaron el procedimiento y requiriéndolo para que comparezca mediante escrito a oponerse al trámite se (sic) existiere razón para ello y ofrecer pruebas y exponer lo que a su derecho convenga, en un término de quince días hábiles siguientes al emplazamiento.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1543], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1543], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-#### SECCIÓN PRIMERA. De las Faltas Contra la Moral y el Civismo
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1486], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1716°.
+###### ARTÍCULO 1759°.
 
 La autoridad administrativa deberá fundar y motivar su resolución, considerando:
 
@@ -18465,19 +18459,19 @@ III. La gravedad de la infracción; y
 
 IV. La reincidencia del infractor.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1544], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1544], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad en Materia de Faltas de Policía y Buen Gobierno
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1487], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1717°.
+###### ARTÍCULO 1760°.
 
 Una vez oído al presunto infractor y desahogadas las pruebas ofrecidas y admitidas, se procederá dentro de los diez días siguientes a dictar por escrito la resolución que proceda, la cual se deberá de notificar de manera personal o correo certificado, en términos del presente libro.
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1718°.
+### CAPÍTULO IV. De las Sanciones en Materia de Espectáculos Públicos
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1545], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1761°.
 
 En materia de espectáculos públicos se impondrá:
 
@@ -18531,7 +18525,11 @@ c) Por detectar el consumo de bebidas alcohólicas sin autorización, de drogas,
 
 > <small>(REFORMADO [N. DE E. REUBICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1719°.
+### CAPÍTULO V. De las Sanciones en Materia de Comercio en la Vía Pública
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1546], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1762°.
 
 Se sancionará de uno a diez Unidades de Medida y Actualización, suspensión, y/o cancelación de las actividades del giro, según amerite el caso, cuando:
 
@@ -18547,9 +18545,9 @@ V. El comerciante o tianguista, cambie el giro, altere la superficie o los días
 
 VI. El ejercicio de la actividad comercial representé un peligro a la seguridad, comodidad, salud y buenas costumbres de las personas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1547], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1547], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1720°.
+###### ARTÍCULO 1763°.
 
 Para proceder a la suspensión de actividades como media de seguridad, el inspector deberá de notificar al comerciante para que suspenda sus actividades y se retire inmediatamente de la vía pública, bajo apercibimiento que, en caso de no hacerlo, se procederá a retirar los bienes y mercancías que constituyen el puesto, ambulante o permanente, o establecimiento, poniéndolo a su disposición en el lugar que designe la Presidencia.
 
@@ -18557,21 +18555,21 @@ La suspensión deberá perdurar hasta que el infractor realice el pago de la o l
 
 El verificador podrá solicitar para tal efecto el uso de la fuerza pública.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1548], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1548], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1721°.
+###### ARTÍCULO 1764°.
 
 En el evento de que a algún comerciante también se le haya impuesto suspensión de actividades y no pague sus multas en un término de 30 días, se remitirá la infracción a la Dirección de Finanzas y Administración, a efecto de que proceda a hacer efectiva la multa mediante el procedimiento de (sic) económico-coactivo de ejecución, haciéndoles del conocimiento, de que existe mercancía no perecedera del deudor en el lugar que determinó la Presidencia a efecto de que, en caso necesario, sea la garantía para cubrir el crédito fiscal.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1549], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1549], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1722°.
+###### ARTÍCULO 1765°.
 
 A cualquier comerciante que haya dado motivos para su suspensión, y pague sus sanciones impuestas, se le amonestará para que, en caso de reincidencia, se proceda a la cancelación del permiso.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1550], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1550], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1723°.
+###### ARTÍCULO 1766°.
 
 Se procederá a la cancelación del permiso:
 
@@ -18591,37 +18589,41 @@ VII. Cuando, el titular de los derechos de un permiso, los traspase, ceda, venda
 
 VIII. Cuando se compruebe que un comerciante administre un permiso en beneficio propio, siendo el titular otra persona, salvo que se trate de parientes en línea directa y en primer grado o por afinidad en los mismos términos.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1551], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1551], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1724°.
+###### ARTÍCULO 1767°.
 
 La cancelación del permiso trae aparejada la clausura del puesto o establecimiento.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1552], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1552], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-### CAPÍTULO IV. De las Reglas para la Imposición de Sanciones Administrativas
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1496], P.O. 22 DE ABRIL DE 2024)</small>
-
-###### ARTÍCULO 1725°.
+###### ARTÍCULO 1768°.
 
 Cuando se encuentre algún bien mueble o la estructura del puesto o establecimiento propiedad de algún comerciante, abandonado en la vía pública, el verificador procederá a su clausura, y notificación al propietario en los términos del presente Código, y como medida de seguridad, podrá retirarlo de la vía pública, remitiéndolo para su resguardo, a disposición del propietario, en la bodega de la Presidencia.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1553], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1553], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1726°.
+###### ARTÍCULO 1769°.
 
 Se procederá a la reubicación del comerciante, cuando la estructura del puesto o establecimiento, remolque o vehículo contamine la imagen de la Ciudad.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1727°.
+## TÍTULO QUINTO. DEL RECURSO DE REVISIÓN
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
+
+### CAPÍTULO I. De la Interposición del Recurso
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1554], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1770°.
 
 Los particulares que no estén conformes con la resolución de un acto administrativo municipal o con la imposición de una o más infracciones, podrán solicitar la reconsideración ante la autoridad emisora o en su caso interponer el recurso de revisión previsto en la Ley del Procedimiento Administrativo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1555], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1555], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1728°.
+###### ARTÍCULO 1771°.
 
 Para la reconsideración en materia de sanciones se seguirán los siguientes pasos:
 
@@ -18633,27 +18635,27 @@ III. En la resolución el Juez Calificador o la autoridad emisora resolverá fun
 
 IV. Cuando el infractor alegue su calidad específica de obrero, jornalero o asalariado así deberá de acreditarlo, a efecto de que sea procedente la reconsideración de la multa impuesta.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1556], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1556], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1729°.
+###### ARTÍCULO 1772°.
 
 Los afectados por los actos y resoluciones de las autoridades municipales que pongan fin al procedimiento administrativo, a una instancia o resuelvan un expediente, podrán interponer recurso de revisión o intentar las vías judiciales correspondientes.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1557], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1557], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1730°.
+###### ARTÍCULO 1773°.
 
 La oposición a los actos de trámite en un procedimiento administrativo, independientemente de alegarse durante los interesados durante dicho procedimiento, para su consideración en la resolución que ponga fin al mismo, se hará valer en todo caso al impugnar la resolución definitiva.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1558], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1558], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1731°.
+###### ARTÍCULO 1774°.
 
 El plazo para interponer el recurso de revisión será de quince días hábiles contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación de la resolución que se recurra, o si no existió notificación contados a partir de que se tuvo conocimiento del acto reclamado.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1559], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1559], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1732°.
+###### ARTÍCULO 1775°.
 
 El recurso debe ser interpuesto por escrito ante la autoridad que emitió el acto impugnado, debiendo expresar:
 
@@ -18667,9 +18669,9 @@ IV. Los agravios que se le causan; y
 
 V. Las pruebas que se ofrecen y los hechos controvertidos de que se trate.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1560], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1560], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1733°.
+###### ARTÍCULO 1776°.
 
 El recurrente deberá acompañar a su escrito:
 
@@ -18681,9 +18683,9 @@ III. Las pruebas que ofrezca, que tengan relación inmediata y directa con la re
 
 Cuando no se acompañe alguno de los documentos señalados, la autoridad requerirá al promovente para que los presente dentro del término de cinco días, sí no cumple en el término y se trata de la documentación señaladas (sic) en las fracciones I y II, se tendrá por no interpuesto el recurso y si se trata de las pruebas conforme a las (sic) fracción III, se tendrán por no ofrecidas las mismas.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1561], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1561], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1734°.
+###### ARTÍCULO 1777°.
 
 La interposición del recurso suspenderá la ejecución del acto impugnado, siempre y cuando:
 
@@ -18701,13 +18703,17 @@ La autoridad deberá acordar, en su caso, la suspensión o la denegación de la 
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1735°.
+### CAPÍTULO II. De la Resolución del Recurso
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1562], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1778°.
 
 El superior jerárquico de la autoridad que emitió el acto o resolución impugnada será el encargado de resolver el recurso y tratándose de actos del Presidente Municipal o del Cabildo, corresponderá al propio Cabildo su resolución.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1563], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1563], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1736°.
+###### ARTÍCULO 1779°.
 
 La autoridad que resuelva el recurso podrá:
 
@@ -18721,9 +18727,9 @@ IV. Declarar la anulabilidad del acto impugnado, revocándolo para efectos de qu
 
 V. Modificar u ordenar la modificación del acto impugnado o dictar u ordenar expedir uno nuevo que lo sustituya, cuando el recurso interpuesto sea total o parcialmente resuelto a favor del recurrente.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1564], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1564], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1737°.
+###### ARTÍCULO 1780°.
 
 Será improcedente el recurso:
 
@@ -18739,9 +18745,9 @@ V. Cuando se esté tramitando ante los tribunales algún recurso o defensa legal
 
 VI. Cuando se presente fuera del plazo señalado para su interposición.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1565], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1565], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1738°.
+###### ARTÍCULO 1781°.
 
 Procederá el sobreseimiento del recurso cuando:
 
@@ -18757,15 +18763,19 @@ V. Por falta de objeto o materia del acto respectivo; y
 
 VI. No se probare la existencia del acto respectivo.
 
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1566], P.O. 22 DE ABRIL DE 2024)</small>
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1566], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
 
-###### ARTÍCULO 1739°.
+###### ARTÍCULO 1782°.
 
 La resolución del recurso se realizará de conformidad con lo establecido por los artículos 90 a 96 de la Ley del Procedimiento Administrativo, debiendo siempre fundarse en derecho y examinar todos y cada uno de los agravios hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios, pero, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado bastará con el examen de dicho punto.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 1740°.
+### CAPÍTULO III. De la Impugnación de las Notificaciones
+
+(ADICIONADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1567], P.O. 22 DE ABRIL DE 2024) (F. DE E., P.O. 3 DE JUNIO DE 2024)
+
+###### ARTÍCULO 1783°.
 
 El afectado podrá impugnar las notificaciones de los actos administrativos recurribles que no hayan sido notificados o no se hubieren apegado a lo dispuesto en esta ley, conforme a las siguientes reglas:
 
@@ -18780,46 +18790,6 @@ IV. La autoridad competente para resolver el recurso administrativo estudiará l
 V. Si se resuelve que no hubo notificación o que ésta no fue efectuada conforme a lo dispuesto por la presente ley, se tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II del presente artículo, quedando sin efectos todo lo actuado con base en aquélla y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto; y
 
 VI. Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se hubiere interpuesto extemporáneamente, desechará dicho recurso.
-
-## TÍTULO CUARTO. DE LA INDIVIDUALIZACIÓN DE LAS SANCIONES
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO I. De las Sanciones en Materia de Servicios Públicos
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1525], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO II. De las Sanciones en Materia de Construcción
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1526], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO III. De las Sanciones en Materia de Actividades de los Particulares en el Comercio
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1537], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO IV. De las Sanciones en Materia de Espectáculos Públicos
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1545], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO V. De las Sanciones en Materia de Comercio en la Vía Pública
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1546], P.O. 22 DE ABRIL DE 2024)</small>
-
-## TÍTULO QUINTO. DEL RECURSO DE REVISIÓN
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO I. De la Interposición del Recurso
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1554], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO II. De la Resolución del Recurso
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1562], P.O. 22 DE ABRIL DE 2024)</small>
-
-### CAPÍTULO III. De la Impugnación de las Notificaciones
-
-> <small>(REFORMADO [N. DE E. REUBICADO, ANTES ARTÍCULO 1567], P.O. 22 DE ABRIL DE 2024)</small>
 
 ## ARTÍCULOS TRANSITORIOS
 
