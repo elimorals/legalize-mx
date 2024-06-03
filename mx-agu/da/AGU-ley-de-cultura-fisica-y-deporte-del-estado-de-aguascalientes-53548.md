@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2024-05-06"
+last_updated: "2024-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -1559,11 +1559,11 @@ El IDEA promoverá, coordinará e impulsará en coordinación con el IEA la ense
 
 En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del SIEDE, quienes podrán asesorarse de universidades públicas o privadas e instituciones de educación superior del Estado de acuerdo a los lineamientos que para este fin se establezcan en el reglamento de la presente Ley.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
 
 ###### Artículo 105.
 
-El IDEA participará en la elaboración de programas de capacitación en actividades de cultura física y deporte con las dependencias y entidades de la administración pública estatal y municipal, organismos públicos, sociales y privados, estatales y nacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y deporte. En los citados programas, se deberá contemplar la capacitación respecto a la atención de las personas con algún tipo de discapacidad.
+El IDEA participará en la elaboración de programas de capacitación en actividades de cultura física y deporte con las dependencias y entidades de la administración pública estatal y municipal, organismos públicos, sociales y privados, estatales y nacionales para el establecimiento de escuelas y centros de educación y capacitación para la formación de profesionales y técnicos en ramas de la cultura física y deporte. En los citados programas, se deberá contemplar la capacitación y especialización con respecto al deporte adaptado y las modalidades que practican las personas con algún tipo de discapacidad, pudiendo emplear para tales efectos las tecnologías de la información y las comunicaciones que resulten pertinentes.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -2290,3 +2290,15 @@ P.O. 6 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 691.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
