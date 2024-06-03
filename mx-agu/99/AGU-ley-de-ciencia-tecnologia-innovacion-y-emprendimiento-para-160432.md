@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ciencia-tecnologia-innovacion-y-emprendimiento-para-1604
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-30"
-last_updated: "2024-05-27"
+last_updated: "2024-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
 
 Ley publicada en el Extraordinario del Número 56 del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -48,6 +48,14 @@ LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE 
 ###### Artículo 1°.
 
 La presente Ley es de orden público, interés social y de observancia general en el territorio del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+Tiene por objeto garantizar el ejercicio del derecho humano a la ciencia conforme a los principios de universalidad, interdependencia, indivisibilidad y progresividad, con el fin de que toda persona goce de los beneficios del desarrollo de la ciencia y la innovación tecnológica.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+Toda persona de forma individual y colectiva, tiene derecho a participar y acceder al progreso humanístico, científico y tecnológico, así como a gozar de sus beneficios sociales, en los términos de esta Ley.
 
 ###### Artículo 2°.
 
@@ -83,11 +91,15 @@ XIII. Establecer el sistema presupuestal y contable que permita identificar plen
 
 XIV. Impulsar el desarrollo y fortalecimiento del Ecosistema Estatal Emprendedor, basado en la innovación, la ciencia y la tecnología a través del EPICENTRO.
 
-###### Artículo 3°.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
 
-La investigación científica y tecnológica, el desarrollo tecnológico, la innovación y el emprendimiento, son actividades prioritarias que corresponden al Gobierno del Estado, centros e instituciones de educación, de investigación y desarrollo tecnológico no gubernamentales; a los sectores académicos, privado, social y empleadores de las Entidades y a las comunidades emprendedoras, científicas y tecnológicas.
+###### Artículo 3º.
 
-El Gobierno del Estado, a través del Instituto de Ciencia y Tecnología del Estado de Aguascalientes, promoverá e impulsará la investigación, el desarrollo tecnológico, la innovación y el emprendimiento para asegurar el efectivo desarrollo económico, social, educativo y cultural del Estado para consolidarlo en una Sociedad del Conocimiento.
+La investigación humanística, científica y tecnológica, el desarrollo tecnológico, la innovación y el emprendimiento son actividades prioritarias que corresponden al Gobierno del Estado, centros e instituciones de educación, de investigación y desarrollo tecnológico no gubernamentales; a los sectores académicos, privado, social y empleadores de las Entidades y a las comunidades emprendedoras, científicas y tecnológicas.
+
+El Gobierno del Estado, a través del Instituto de Ciencia y Tecnología del Estado de Aguascalientes, asegurará el ejercicio de este derecho humano a la ciencia, promoverá impulsará, realizará y apoyará actividades de investigación humanística y científica, desarrollo tecnológico, la innovación y el emprendimiento que redunden en el bienestar del pueblo de Aguascalientes, para asegurar el efectivo desarrollo económico, social, educativo y cultural del Estado para consolidarlo en una Sociedad del Conocimiento.
+
+Los recursos, capacidades e infraestructuras en materia de humanidades, ciencias, tecnologías, innovación y emprendimiento del sector público del Estado, invariablemente serán puestos al servicio del pueblo de Aguascalientes y su uso, aprovechamiento y explotación permanecerán sujetos al interés público.
 
 ###### Artículo 4°.
 
@@ -1332,6 +1344,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 27 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 678.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 688.- SE REFORMA LA LEY DE CIENCIA, TECNOLOGÍA, INNOVACIÓN Y EMPRENDIMIENTO PARA EL DESARROLLO DE LA SOCIEDAD DEL CONOCIMIENTO DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
