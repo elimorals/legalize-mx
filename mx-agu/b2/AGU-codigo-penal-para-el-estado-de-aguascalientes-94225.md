@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-05-27"
+last_updated: "2024-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -3227,21 +3227,27 @@ Se exceptúa la responsabilidad del sujeto activo derivada de la Fracción IV, c
 
 ### CAPÍTULO XXI. Tipos Penales Protectores de la Movilización de los Sistemas de Respuesta de Emergencia
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 194.
 
-Uso indebido de llamadas telefónicas para movilizar sistemas de respuesta de emergencia. El Uso Indebido de Llamadas Telefónicas para movilizar los sistemas de respuesta de emergencia consiste en:
+El Uso Indebido de Medios de Comunicación para movilizar los sistemas de respuesta de emergencia consiste en:
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
 
-I. Permitir o realizar mensajes o llamadas, sin que exista necesidad o justificación, a cualquier sistema de respuesta de llamadas telefónicas de emergencia o su equivalente que preste este tipo de servicios; o
+I. Permitir o realizar mensajes o llamadas sin que exista necesidad o justificación, a cualquier sistema de respuesta de emergencia o su equivalente que preste este tipo de servicios; o
 
-II. Permitir o realizar una llamada telefónica a los sistemas de respuesta de llamadas telefónicas de emergencias o su equivalente para dar un aviso falso de alerta, emergencia, ayuda a un particular o cualquier otra situación que genere la movilización o presencia del cuerpo de bomberos, personal de emergencias médicas, personal de protección civil o elementos de las corporaciones de seguridad pública.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+II. Permitir o realizar una llamada telefónica, emitir mensajes o cualquier tipo de comunicación a los sistemas de respuesta de emergencias o su equivalente para dar un aviso falso de alerta, emergencia, ayuda a un particular o cualquier otra situación que genere la movilización o presencia del cuerpo de bomberos, personal de emergencias médicas, personal de protección civil o elementos de las corporaciones de seguridad pública.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
 
 Al responsable del Uso Indebido de Llamadas Telefónicas para movilizar los sistemas de respuesta de emergencia se le aplicarán de 6 meses a 2 años de prisión y de 50 a 100 días multa, así como el pago total de la reparación del daño y los perjuicios ocasionados.
 
-Tratándose de la conducta prevista en la Fracción II de este Artículo, se impondrán de 3 a 8 años de prisión y de 200 a 300 días multa y al pago total de los daños y perjuicios causados, si la conducta del infractor provoca un accidente o daños a consecuencia de su llamada falsa.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2024)</small>
+
+Tratándose de la conducta prevista en la Fracción II de este Artículo, se impondrán de 3 a 8 años de prisión y de 200 a 300 días multa y al pago total de los daños y perjuicios causados, si la conducta del infractor provoca un accidente o daños a consecuencia de la falsedad de dicha comunicación.
 
 ## TÍTULO SEGUNDO. FIGURAS TÍPICAS CULPOSAS
 
@@ -4240,6 +4246,14 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 P.O. 27 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 670.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 687.- SE REFORMA EL CÓDIGO PENAL DEL (SIC) ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
