@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-san-jose-de-gracia-aguascalientes-71233"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-12-14"
-last_updated: "2023-10-16"
+last_updated: "2024-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71233&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE SAN JOSÉ DE GRACIA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 14 de diciembre de 2009.
 
@@ -1837,11 +1837,13 @@ I. Ser ciudadano en pleno uso de sus derechos políticos y civiles y ser vecino 
 
 II. Contar con título de licenciatura debidamente registrado;
 
-III. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad técnica para desempeñar dicho cargo, a juicio del Presidente;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+
+III. Tener un modo honesto de vivir y la capacidad técnica para desempeñar dicho cargo, a juicio del Presidente;
 
 IV. No estar inhabilitado para desempeñar cargo, empleo o comisión pública;
 
-V. No haber sido sentenciado por delito intencional que merezca pena privativa de libertad; y,
+V. (DEROGADA, P.O. 3 DE JUNIO DE 2024)
 
 VI. No haber sido sancionado administrativamente por actos de violencia de género, de violencia familiar o discriminación.
 
@@ -15072,3 +15074,9 @@ P.O. 16 DE OCTUBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Se faculta y se instruye al Secretario del H. Ayuntamiento para que solicite su publicación (sic) el Periódico Oficial.
+
+P.O. 3 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “Proyecto de Reforma a las Fracciones III y V del Artículo 143 B de! Código Municipal de San José de Gracia”.]
+
+PRIMERO. El proyecto de reforma a la fracción III y V del artículo 143 B, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
