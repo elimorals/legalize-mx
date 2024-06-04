@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-federal-de-competencia-101697"
 country: "mx"
 rank: "estatuto"
 publication_date: "2014-07-08"
-last_updated: "2021-05-24"
+last_updated: "2024-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101697&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-07-07"
 
 ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2024.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 8 de julio de 2014.
 
@@ -2245,11 +2245,11 @@ VIII. Las demás que le delegue o encomiende el Presidente, el titular de la Uni
 
 ### Capítulo VIII. Del Órgano Interno de Control
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 42.
 
-El Órgano Interno de Control de la Comisión está dotado de autonomía técnica y de gestión para decidir sobre su organización y funcionamiento. Para el despacho de los asuntos de su competencia, el Órgano Interno de Control tendrá adscritas a su cargo, el Área de Substanciación y Resolución de Responsabilidades, el Área de Investigación de Denuncias, el Área de Auditoría Interna, y el Área de Control Interno y Mejora de la Gestión, quienes contarán con los servidores públicos a su cargo y de los recursos necesarios para el cumplimiento de su objeto, lo que estará sujeto a la disponibilidad presupuestaria de la Comisión.
+El Órgano Interno de Control de la Comisión está dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Para el despacho de los asuntos de su competencia, el Órgano Interno de Control tendrá adscritas a su cargo, el Área de Substanciación y Resolución de Responsabilidades, el Área de Investigación de Denuncias, el Área de Auditoría Interna, y el Área de Control Interno y Mejora de la Gestión, quienes contarán con los servidores públicos a su cargo y de los recursos necesarios para el cumplimiento de su objeto, lo que estará sujeto a la disponibilidad presupuestaria de la Comisión.
 
 > <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
@@ -2721,9 +2721,9 @@ III. El titular de la Unidad de Planeación, Vinculación y Asuntos Internaciona
 
 IV. Los Directores Generales serán suplidos por los servidores públicos que ellos designen o que sean designados por el Pleno, el Secretario Técnico o los titulares de la Autoridad Investigadora y de la Unidad de Planeación, Vinculación y Asuntos Internacionales, según corresponda, mediante acuerdo de suplencia, salvo disposición en contrario.
 
-> <small>(ADICIONADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2024)</small>
 
-El Titular del Órgano Interno de Control de la Comisión será suplido por ausencia o por vacancia, en su orden, por los Titulares de las Áreas de Responsabilidades, de Quejas, de Auditoría Interna, y de Control Interno, respectivamente. Dicho orden podrá alterarse con el fin de mantener en todo momento la separación entre autoridades investigadoras y autoridades substanciadoras o resolutoras en cada asunto. Los Titulares señalados serán suplidos en su ausencia por el servidor público designado para tales efectos por el Titular del Órgano Interno de Control o, en su defecto, por el servidor público con el segundo nivel de mayor jerarquía adscrito al área de que se trate. A igualdad de niveles jerárquicos, la suplencia será ejercida por el servidor público de mayor antigüedad en el cargo y, a igualdad de antigüedad, el de mayor edad.
+El Titular del Órgano Interno de Control de la Comisión será suplido por ausencia, en su orden, por los Titulares de las Áreas de Auditoría Interna, Control Interno y Mejora de la Gestión, Substanciación y Resolución de Responsabilidades e Investigación de Denuncias, respectivamente. Los Titulares señalados serán suplidos en su ausencia por el servidor público designado para tales efectos por el Titular del Órgano Interno de Control o, en su defecto, por el servidor público con el segundo nivel de mayor jerarquía adscrito al área de que se trate. A igualdad de niveles jerárquicos, la suplencia será ejercida por el servidor público de mayor antigüedad en el cargo y, a igualdad de antigüedad, el de mayor edad. En caso de vacancia del Titular del Órgano Interno de Control de la Comisión, el Pleno podrá designar y, en su caso, remover, de entre los servidores públicos adscritos al Órgano Interno de Control de la Comisión, a un Encargado del Despacho que cubra provisionalmente las funciones de ese cargo, hasta en tanto la Cámara de Diputados designe formalmente a un nuevo titular. En tanto el Encargado del Despacho sea nombrado por el Pleno, el titular del Órgano Interno de Control será suplido, en estricto orden, por los Titulares de las Áreas de Auditoría Interna, Control Interno y Mejora de la Gestión, Substanciación y Resolución de Responsabilidades e Investigación de Denuncias, respectivamente. Para el caso de vacancia, la suplencia nunca podrá ser realizada por quien ya hubiera sido Titular del Órgano Interno de Control de la Comisión.
 
 > <small>(REFORMADO, D.O.F. 27 DE OCTUBRE DE 2017)</small>
 
@@ -2732,6 +2732,10 @@ Cuando el presente Estatuto haga referencia a los titulares de la Autoridad Inve
 > <small>(ADICIONADO, D.O.F. 24 DE MAYO DE 2021)</small>
 
 Para efectos del artículo 19 de la Ley, para el caso de vacancia del Comisionado Presidente, la suplencia no podrá ser realizada por quien ya hubiera sido Comisionado Presidente.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2024)</small>
+
+En ningún caso, quienes ejerzan como suplentes de los Titulares o Directores Generales de los órganos o de las unidades administrativas, podrán tomar determinaciones sobre modificaciones en la estructura de las áreas correspondientes. Tampoco contarán con facultades para realizar nombramientos de puestos de igual o mayor jerarquía que el que ostentan.
 
 ###### ARTÍCULO 51.
 
@@ -2892,3 +2896,9 @@ D.O.F. 24 DE MAYO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO MEDIANTE EL CUAL EL PLENO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA".]
 
 ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO NO. CFCE-131-2024 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA".]
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día de su publicación en el Diario Oficial de la Federación.
