@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-y-desarrollo-economico-para-el-estado-de-60030"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-01-19"
+last_updated: "2024-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "HID"
 ---
 # LEY DE FOMENTO Y DESARROLLO ECONOMICO PARA EL ESTADO DE HIDALGO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE JUNIO DE 2024 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FOMENTO Y DESARROLLO ECONÓMICO PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE JUNIO DE 2024.]</small>
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -325,13 +325,17 @@ Para el cumplimiento de su objeto, la Comisión Rectora se apegará a los térmi
 
 Se crea un Consejo Consultivo de Análisis e Incentivos a la Inversión para la Competitividad.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2024)</small>
 
 ###### Artículo 17.
 
 El Consejo Consultivo estará integrado por los Titulares de la Secretaría de Desarrollo Económico, la Secretaría de Hacienda, Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible y de la Unidad de Planeación y Prospectiva, quienes designarán a sus respectivos suplentes.
 
-Además, dicho órgano contara´ con un representante del Consejo Coordinador Empresarial de Hidalgo (CCE Hidalgo), y de la Confederación Patronal de la República Mexicana en Hidalgo (COPARMEX Hidalgo).
+(ADICIONADO, P.O. 19 DE ENERO DE 2024) (F. DE E., P.O. 4 DE JUNIO DE 2024)
+
+Además, dicho órgano contará con un representante del Consejo Coordinador Empresarial de Hidalgo (CCE Hidalgo), y de la Confederación Patronal de la República Mexicana en Hidalgo (COPARMEX Hidalgo).
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
 
 En función de las características y necesidades de los proyectos, el Presidente del Consejo Consultivo podrá invitar a la diputada o diputado que presida la Primera Comisión Permanente de Desarrollo Económico del Congreso del Estado Libre y Soberano de Hidalgo, así como otras Dependencias y Entidades de la Administración Pública Estatal y de las Administraciones Públicas Municipales.
 
