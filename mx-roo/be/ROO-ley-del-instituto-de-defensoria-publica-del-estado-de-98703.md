@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-instituto-de-defensoria-publica-del-estado-de-98703"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-22"
-last_updated: "2022-07-28"
+last_updated: "2024-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98703&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el 22 de noviembre de 2013.
 
@@ -45,13 +45,11 @@ LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2024)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público y tiene por objeto regular la prestación del servicio de defensoría pública gratuita en asuntos del fuero común, a fin de garantizar el derecho a la defensa adecuada y de calidad para la población en materia penal y de justicia para adolescentes; así como garantizar el acceso a la justicia, mediante la orientación, asesoría y/o representación jurídica en asuntos de carácter civil, familiar, mercantil, administrativo, laboral y de defensa de personas indígenas. Tratándose de asuntos de carácter administrativo se estará a lo establecido en el artículo 34 de esta ley.
+La presente Ley es de orden público, y tiene por objeto regular la prestación del servicio de defensoría pública gratuita en asuntos del fuero común, a fin de garantizar el derecho a la defensa adecuada y de calidad para la población en materia penal y de justicia para adolescentes; así como garantizar el acceso a la justicia, mediante la orientación, asesoría y/o representación jurídica en asuntos de carácter civil, familiar, mercantil, administrativo, laboral y de defensa de personas indígenas. Tratándose de asuntos de carácter administrativo se estará a lo establecido en el artículo 34 de esta ley.
 
 ###### Artículo 2.
 
@@ -99,11 +97,9 @@ Las instrucciones generales dictadas por el Instituto de Defensoría Pública de
 
 IX. Diversidad Cultural. El servidor público al prestar el servicio de defensa pública y asistencia jurídica lo hará respetando la naturaleza multiétnica y pluricultural de toda persona;
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
-
-X. DEFENSA DE PERSONAS INDÍGENAS. EN LOS ASUNTOS EN LOS QUE SE SOLICITE LA DEFENSA O REPRESENTACIÓN JURÍDICA POR PERSONAS INDÍGENAS QUE NO COMPRENDAN O HABLEN SUFICIENTEMENTE EL IDIOMA ESPAÑOL, SE DESIGNARÁ UN DEFENSOR PÚBLICO O ASISTENTE JURÍDICO, QUE HABLE LA LENGUA DEL SOLICITANTE O, EN SU CASO, SE LE ASIGNARÁ INTÉRPRETE O TRADUCTOR LINGÜÍSTICO AUTORIZADO;
+X. Defensa de personas indígenas. En los asuntos en los que se solicite la defensa o representación jurídica por personas indígenas que no comprendan o hablen suficientemente el idioma español, se designará un defensor público o asistente jurídico, que hable la lengua del solicitante o, en su caso, se le asignará intérprete o traductor lingüístico autorizado;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
 
@@ -139,23 +135,17 @@ VIII.- Informador: Servidor Público encargado de tener el primer contacto con e
 
 IX.- Gestor: Servidor Público encargado de asistir y orientar de modo técnico y jurídico a los usuarios de los servicios que presta el Instituto de Defensoría Pública, canalizando según sea el caso al Defensor Público o al Asistente Jurídico;
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 2022)</small>
+X.- Titular de la Unidad de Atención a Personas Indígenas: Persona Servidora Pública que ejerza la titularidad de la Unidad de Atención a Personas Indígenas del Instituto de Defensoría Pública;
 
-X.- TITULAR DE LA UNIDAD DE ATENCIÓN A PERSONAS INDÍGENAS: PERSONA SERVIDORA PÚBLICA QUE EJERZA LA TITULARIDAD DE LA UNIDAD DE ATENCIÓN A PERSONAS INDÍGENAS DEL INSTITUTO DE DEFENSORÍA PÚBLICA;
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2024)</small>
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+XI.- Defensor Público: Servidor Público que presta el servicio de defensoría pública en asuntos de carácter penal, de defensa de personas indígenas., (sic) y los especializados en justicia para adolescentes. Así como la asistencia en materia administrativa en los términos de esta ley;
 
-> <small>(REFORMADA [N. DE E. REFORMADA Y REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE JUNIO DE 2024)</small>
 
-XI.- DEFENSOR PÚBLICO: SERVIDOR PÚBLICO QUE PRESTA EL SERVICIO DE DEFENSORÍA PÚBLICA EN ASUNTOS DE CARÁCTER PENAL, DE DEFENSA DE PERSONAS INDÍGENAS Y LOS ESPECIALIZADOS EN JUSTICIA PARA ADOLESCENTES. ASÍ COMO LA ASISTENCIA EN MATERIA ADMINISTRATIVA EN LOS TÉRMINOS DE ESTA LEY;
-
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADA [N. DE E. REFORMADA Y REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
-
-XII.- ASISTENTE JURÍDICO: SERVIDOR PÚBLICO QUE PRESTA EL SERVICIO DE ORIENTACIÓN, ASESORÍA Y/O REPRESENTACIÓN JURÍDICA, SEGÚN CORRESPONDA, EN DEFENSA DE PERSONAS INDÍGENAS Y EN LOS ASUNTOS DE CARÁCTER CIVIL, FAMILIAR, MERCANTIL, LABORAL;
+XII.- Asistente jurídico: Servidor Público que presta el servicio de orientación, asesoría y/o representación jurídica, según corresponda, en defensa de personas indígenas y en los asuntos de carácter civil, familiar, mercantil, laboral;
 
 > <small>(REFORMADA [N. DE E. REFORMADA Y REUBICADA], P.O. 16 DE JUNIO DE 2022)</small>
 
@@ -199,11 +189,9 @@ XII.- Zona: Demarcación territorial en que divide el Consejo de la Judicatura e
 
 XIII.- El personal auxiliar y de apoyo técnico y de gestión y trabajadores sociales necesarios para cubrir todas las áreas de competencia y que determine el Consejo de la Judicatura de acuerdo al presupuesto, y
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XIV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 4 DE JUNIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2022)</small>
-
-XIV.- LA PERSONA TITULAR DE LA UNIDAD DE ATENCIÓN A PERSONAS INDÍGENAS.
+XIV.- La persona Titular de la Unidad de Atención a Personas Indígenas.
 
 Al frente de cada una de las Coordinaciones estará un titular que contará con las facultades establecidas en esta Ley.
 
@@ -525,11 +513,9 @@ Tanto el Informador como el Gestor del Instituto tendrán la obligación de llev
 
 Para ser Defensor Público o Asistente Jurídico, se requieren los mismos requisitos que para ser Coordinador General de Zona, con excepción de los mínimos exigidos en las fracciones II, IV y VI del artículo 14; que para el caso concreto serán el de veinticinco años de edad; dos de experiencia; y dos de residencia en el Estado, así como aprobar el examen básico a que hace referencia la fracción V del Artículo 11 de la presente Ley.
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 4 DE JUNIO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
-
-LAS Y LOS DEFENSORES PÚBLICOS Y ASISTENTES JURÍDICOS QUE LLEVEN A CABO LA DEFENSA DE PERSONAS INDÍGENAS, ADEMÁS DE CUMPLIR CON LOS REQUISITOS DESCRITOS EN EL PRIMER PÁRRAFO DE ESTE ARTÍCULO, DEBERÁN CONTAR CON CONOCIMIENTO DE LA CULTURA INDÍGENA PREDOMINANTE EN EL ESTADO Y, EN SU CASO, HABLAR CUANDO MENOS UNA LENGUA INDÍGENA.
+Las y los defensores públicos y asistentes jurídicos que lleven a cabo la defensa de personas Indígenas, además de cumplir con los requisitos descritos en el primer párrafo de este artículo, deberán contar con conocimiento de la cultura indígena predominante en el Estado y, en su caso, hablar cuando menos una lengua indígena.
 
 ###### Artículo 23.
 
@@ -927,39 +913,33 @@ I.- Personas e Instituciones de reconocida probidad, capacidad y experiencia par
 
 II.- Servicios periciales para una mayor eficacia en el área de defensa.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA CON LOS ARTÍCULOS QUE LA INTEGRAN], P.O. 4 DE JUNIO DE 2024)</small>
 
 #### SECCIÓN IV. DE LA UNIDAD DE ATENCIÓN A PERSONAS INDÍGENAS
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 4 DE JUNIO DE 2024)</small>
 
 ###### Artículo 46 Bis.
 
 La Unidad de Atención a Personas Indígenas, estará a cargo de una persona que ejerza la titularidad, quien llevará a cargo las acciones de coordinación en la atención y defensa de personas pertenecientes a alguna comunidad indígena que requiera los servicios de defensa o asistencia jurídica, conforme lo establece la presente ley.
 
-La Unidad de Atención a Personas Indígenas garantizará que en todo juicio o procedimiento se cumpla con la asistencia de un intérprete o traductor lingüístico, tomando en cuenta los usos y costumbres de la cultura a la que pertenezca la persona indígena para proporcionar una defensa técnica y de calidad, de conformidad con lo que establece la Constitución Federal, los tratados internacionales de los que el estado mexicano forme parte y la demás legislación sustantiva y procedimental.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2024)</small>
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+La Unidad de Atención a Personas Indígenas garantizará que en todo juicio o procedimiento se cumpla con la asistencia de un intérprete o traductor lingüístico, tomando en cuenta los usos y costumbres de la cultura a la que pertenezca la persona indígena para proporcionar una defensa técnica y de calidad, de conformidad con lo que establece la Constitución Federal, los tratados internacionales de los que el estado mexicano forme parte y las demás legislación sustantiva y procedimental.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 4 DE JUNIO DE 2024)</small>
 
 ###### Artículo 46 Ter.
 
-El Consejo de la Judicatura, a propuesta de su Presidente, nombrará a la persona que ejercerá la titularidad de la Unidad de Atención a Personas indígenas.
+El Consejo de la Judicatura, a propuesta de su Presidente, nombrará a la persona que ejercerá la titularidad de la Unidad de Atención a Personas Indígenas.
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 4 DE JUNIO DE 2024)</small>
 
 ###### Artículo 46 Quater.
 
-Para ser titular de la Unidad de Atención a Personas Indígenas, se requiere cumplir con los mismos requisitos del Coordinador General de Zona y además deberá contar con conocimiento de defensa de personas indígenas, conocer la principal cultura indígena y hablar suficientemente la lengua indígena predominante en el Estado.
+Para ser titular de la Unidad de Atención a Personas Indígenas, se requiere cumplir con los mismos requisitos del Coordinador General de Zona; y además deberá contar con conocimiento de defensa de personas indígenas, conocer la principal cultura indígena y hablar suficientemente la lengua indígena predominante en el Estado.
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 4 DE JUNIO DE 2024)</small>
 
 ###### Artículo 46 Quinquies.
 
@@ -971,7 +951,7 @@ II. Verificar que se brinde una defensa técnica adecuada a las personas indíge
 
 III. Dirigir y evaluar los servicios que brinde el personal adscrito a la unidad, emitiendo las recomendaciones necesarias para consolidar las bases internas de integración y funcionamiento, acordes al Reglamento Interno y Manual de Operación;
 
-IV. Ejecutar las disposiciones y acuerdos emitidos por la Dirección, respecto de los lineamientos que deban ser observados por el personal adscrito a la Unidad de Atención a Personas Indígenas;
+IV. Ejecutar las disposiciones y acuerdos emitidos por la Dirección, respecto de los lineamientos que deban ser observados por el personal adscrito a la Unidad de Atención a Personas indígenas;
 
 V. Supervisar e informar sobre el desempeño de las y los Defensores Públicos y Asistentes Jurídicos especializados en materia indígena en el ejercicio de su función, así como de los intérpretes y traductores, disponiendo lo conducente a fin de que el servicio sea brindado en forma oportuna, diligente y eficaz;
 
@@ -985,7 +965,7 @@ IX. Fomentar entre las y los defensores públicos y asistentes jurídicos, la ap
 
 X. Instrumentar, con autorización del Director, programas de especialización y capacitación en materia de derechos de personas indígenas para las y los defensores públicos y asistentes jurídicos, así como la especialización bilingüe, a fin de mejorar el servicio de la defensa jurídica;
 
-XI. Concentrar la información total de los asuntos iniciados que incumban a la Unidad de Atención a Personas Indígenas con datos de identificación precisos a través de los cuáles se dé seguimiento a los asuntos en las distintas materias que abarque el servicio en los que se encuentren involucrados las y los defensores públicos y asistentes jurídicos especializados en materia indígena, o en su caso los intérpretes o traductores lingüísticos autorizados, a fin de mantener actualizada dicha información en relación con la situación jurídica de cada caso;
+XI. Concentrar la información total de los asuntos iniciados que incumban a la Unidad de Atención a Personas indígenas con datos de identificación precisos a través de los cuáles se dé seguimiento a los asuntos en las distintas materias que abarque el servicio en los que se encuentren involucrados las y los defensores públicos y asistentes jurídicos especializados en materia indígena, o en su caso los intérpretes o traductores lingüísticos autorizados, a fin de mantener actualizada dicha información en relación con la situación jurídica de cada caso;
 
 XII. Gestionar ante el Consejo de la Judicatura para que, con recursos del Fondo para Mejoramiento en la Administración e Impartición de Justicia, se cubran los gastos de traslado de los testigos que se necesiten para la defensa de las personas indígenas de escasos recursos económicos que se encuentren sujetos a un proceso penal y que residan en comunidades alejadas al lugar del proceso;
 
@@ -999,7 +979,7 @@ XVI. Orientar a las y los Defensores Públicos y Asistentes Jurídicos, intérpr
 
 XVII. Convocar a reuniones periódicas para la revisión de aspectos de índole formal y técnico, de los lineamientos emitidos por el Instituto;
 
-XVIII. Rendir ante la Dirección, un informe concentrado de actividades integrales de todo el personal adscrito a la Unidad de Atención a Personas Indígenas, dentro de los primeros cinco días de cada trimestre, que plasme la realidad actual del Instituto en materia de defensa y asistencia jurídica a las personas Indígenas;
+XVIII. Rendir ante la Dirección, un informe concentrado de actividades integrales de todo el personal adscrito a la Unidad de Atención a Personas Indígenas, dentro de los primeros cinco días de cada trimestre, que plasme la realidad actual del Instituto en materia de defensa y asistencia jurídica a las personas indígenas;
 
 XIX. Informar oportunamente a la Dirección, cualquier eventualidad relacionada con el desempeño de la Unidad de Atención a Personas Indígenas, y
 
@@ -1288,3 +1268,15 @@ SEGUNDO. El Poder Legislativo del Estado aprobará los recursos necesarios en el
 TERCERO. El Poder Ejecutivo del Estado y los Municipios llevarán a cabo la entrega de los recursos que resulten de la presente reforma, con base en la información, registro, padrón o cualquier otra base de datos que tengan a su disposición de personas adultas mayores.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 251 POR EL QUE SE REFORMAN EL ARTÍCULO 126, Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 134, AMBOS DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN EL ARTÍCULO 1; LA FRACCIÓN X DEL ARTÍCULO 3; LAS FRACCIONES X, XI Y XII DEL ARTÍCULO 4; Y SE ADICIONAN LA FRACCIÓN XIV AL ARTÍCULO 5; EL PÁRRAFO SEGUNDO AL ARTÍCULO 22; LA SECCIÓN IV DENOMINADA “DE LA UNIDAD DE ATENCIÓN A PERSONAS INDÍGENAS” QUE CONTIENE LOS ARTÍCULOS 46 BIS, 46 TER, 46 QUATER Y 46 QUINQUIES DEL CAPÍTULO SEXTO DENOMINADO “DEL PERSONAL AUXILIAR Y TÉCNICO”, TODOS DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo que no exceda los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas del Estado de Quintana Roo, el Consejo de la Judicatura del Poder Judicial del Estado y el Instituto de la Defensoría Pública del Estado, deberán llevar a cabo las adecuaciones reglamentarias, normativas y estructurales para dar cumplimiento al mismo.
+
+TERCERO. La Comisión Ejecutiva de Atención a Víctimas y el Poder Judicial del Estado de Quintana Roo, incluirán en su Proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2025 y sucesivos, los recursos necesarios para su ejecución de lo establecido en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
