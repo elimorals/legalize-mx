@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-05-30"
+last_updated: "2024-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "HID"
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE JUNIO DE 2024.]</small>
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1011,9 +1013,9 @@ hh).- Promover condiciones para la participación de los municipios con el Estad
 
 ii).- Evaluar la terna propuesta por la Contraloría en términos de la fracción XII Bis del artículo 106, y designar a los auditores externos mejor calificados para los efectos correspondientes.
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+(ADICIONADO, P.O. 19 DE ENERO DE 2024) (F. DE E., P.O. 4 DE JUNIO DE 2024)
 
-ii (sic)).- Previa aprobación de sus miembros, llamar a comparecer a cualquier persona servidora pública de su municipio.
+jj).- Previa aprobación de sus miembros, llamar a comparecer a cualquier persona servidora pública de su municipio.
 
 II.- Asimismo, podrán:
 
@@ -1251,9 +1253,13 @@ f).- Autorizar a la Tesorería Municipal, las órdenes de pago, conforme al Pres
 
 g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la participación de representantes de los sectores público, social y privado, y de profesionistas y técnicos que residan dentro de su territorio; así como el Comité de Desarrollo Urbano Municipal, en los términos del Reglamento respectivo;
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2022)</small>
 
-h) Asimismo, contará hasta con ciento ochenta días naturales para presentar su Agenda Verde Municipal en términos del Reglamento respectivo; así como para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión de cabildo, el Atlas Municipal de Riesgos correspondiente o en su caso, actualizarlo durante su gestión.
+h).- Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano que contenga los Planes de Desarrollo Rural para los Pueblos y Comunidades Indígenas en caso de contar con población indígena reconocida así como, el que corresponda al desarrollo agropecuario municipal;
+
+(REFORMADO, P.O. 19 DE ENERO DE 2024) (F. DE E., P.O. 4 DE JUNIO DE 2024)
+
+Asimismo, contará hasta con ciento ochenta días naturales para presentar su Programa de Infraestructura Verde Municipal en términos del Reglamento respectivo; así como para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión de cabildo, el Atlas Municipal de Riesgos correspondiente o en su caso, actualizarlo durante su gestión.
 
 i).- Coadyuvar con las Autoridades Federales en la aplicación y cumplimiento de las disposiciones previstas en los Artículos 27 y 30 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo a su normatividad interna;
 
