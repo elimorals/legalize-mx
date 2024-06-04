@@ -4,7 +4,7 @@ identifier: "CNPCF"
 country: "mx"
 rank: "codigo"
 publication_date: "2023-06-07"
-last_updated: "2023-06-07"
+last_updated: "2024-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166617&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CNPCF"
 
 CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2024.
 
 Código publicado en el Diario Oficial de la Federación, el miércoles 7 de junio de 2023.
 
@@ -2707,6 +2707,10 @@ Los documentos públicos expedidos por Autoridades Federales, Locales, Municipal
 Para que los documentos públicos procedentes del extranjero, hagan fe en los Estados Unidos Mexicanos, deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares en los términos que establezcan los tratados y convenciones de los que México sea parte, la Ley del Servicio Exterior Mexicano y demás disposiciones aplicables.
 
 En caso de imposibilidad para obtener la legalización, ésta se sustituirá por cualquier prueba adecuada para garantizar su autenticidad. En todo caso deberá estarse a lo señalado en los instrumentos internacionales en los que el Estado mexicano sea parte.
+
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2024)</small>
+
+Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable.
 
 ###### Artículo 315.
 
@@ -9042,6 +9046,10 @@ Los documentos públicos extranjeros serán reconocidos por las autoridades mexi
 
 En caso de imposibilidad para obtener la legalización, ésta se substituirá por cualquier prueba adecuada para garantizar su autenticidad.
 
+> <small>(ADICIONADO, D.O.F. 4 DE JUNIO DE 2024)</small>
+
+Tratándose de documentos de nacimiento que acrediten la nacionalidad e identidad de personas mexicanas nacidas en el extranjero o migrantes en retorno de nacionalidad mexicana, no se requerirá de la legalización consular o de la apostilla. Bastará con presentar el certificado de nacimiento extranjero y el acta de nacimiento del padre o madre mexicanos para acreditar su identidad y su nacionalidad mexicana con el fin de obtener el registro de su nacimiento ante los Registros Civiles del país, en términos de la normatividad aplicable.
+
 ###### Artículo 1145.
 
 Los procedimientos en el ámbito de cooperación internacional observarán el principio de publicidad de conformidad con lo establecido en los tratados internacionales, las leyes nacionales en materia de transparencia, acceso a la información pública, con excepción de los procedimientos donde se ventilen secretos profesionales, comerciales, industriales o personales y protección de datos personales.
@@ -9501,3 +9509,13 @@ Artículo Vigésimo. Para el caso que, en la fecha de publicación en el Diario 
 Ciudad de México, a 24 de abril de 2023.- Sen. Alejandro Armenta Mier, Presidente.- Dip. Santiago Creel Miranda, Presidente.- Sen. Verónica Noemí Camino Farjat, Secretaria.- Dip. Sarai Núñez Cerón, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 6 de junio de 2023.- Andrés Manuel López Obrador.- Rúbrica.- El Secretario de Gobernación, Lic. Adán Augusto López Hernández.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 4 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 314 Y 1144 DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría de Gobernación, a través de la Dirección General del Registro Nacional de Población e Identidad, emitirá los lineamientos para acreditar la autenticidad de los certificados de nacimiento expedidos por autoridades extranjeras, a efecto de darlos a conocer a todas las autoridades del registro civil en el país.
