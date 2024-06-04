@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-victimas-del-estado-de-quintana-roo-100407"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-07"
-last_updated: "2023-03-18"
+last_updated: "2024-06-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 7 de abril de 2014.
 
@@ -1965,11 +1965,11 @@ Si no pudiese hacerse efectiva total o parcialmente la orden de reparación inte
 
 Se crea la Asesoría Jurídica de Atención a Víctimas del Estado de Quintana Roo, como área especializada en asesoría jurídica para víctimas, dependiente de la Comisión Ejecutiva Estatal, que gozará de independencia técnica y operativa.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2024)</small>
 
 ###### Artículo 126.
 
-La Asesoría Jurídica Estatal, estará integrada por un titular, asesores jurídicos, peritos, intérpretes o traductores lingüísticos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas. Contará con las áreas administrativas que se requieran para el desempeño de sus funciones, en los términos que señale el reglamento.
+La Asesoría Jurídica Estatal, estará integrada por un titular, asesores jurídicos, peritos, intérpretes de lengua de señas mexicana, traductores lingüísticos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas. Contará con las áreas administrativas que se requieran para el desempeño de sus funciones, en los términos que señale el reglamento.
 
 ###### Artículo 127.
 
@@ -2093,19 +2093,15 @@ XIII. Tramitar, supervisar o, cuando se requiera, implementar las medidas de ayu
 
 XIV. Las demás que se requieran para la defensa integral de los derechos de las víctimas.
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2024)</small>
 
 ###### Artículo 134.
 
-LA VÍCTIMA TENDRÁ DERECHO A NOMBRAR UN ASESOR JURÍDICO ESTATAL, EL CUAL ELEGIRÁ LIBREMENTE DESDE SU SOLICITUD DE INGRESO AL REGISTRO ESTATAL. EN ESTE CASO, LA COMISIÓN EJECUTIVA ESTATAL DEBERÁ NOMBRARLE UNO A TRAVÉS DE LA ASESORÍA JURÍDICA ESTATAL, ASÍ COMO UN INTÉRPRETE O TRADUCTOR LINGÜÍSTICO CUANDO LA VÍCTIMA NO COMPRENDA EL IDIOMA ESPAÑOL O TENGA DISCAPACIDAD AUDITIVA, VERBAL O VISUAL.
+La víctima tendrá derecho a nombrar un Asesor Jurídico Estatal, el cual elegirá libremente desde su solicitud de ingreso al registro estatal. En este caso, la Comisión Ejecutiva Estatal deberá nombrarle uno a través de la Asesoría Jurídica Estatal, así como un intérprete de lengua de señas mexicana o un intérprete o traductor lingüístico cuando la víctima no comprenda el idioma español o tenga discapacidad auditiva, verbal o visual.
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2022, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE QUINTANA ROO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2022)</small>
-
-LA VÍCTIMA TENDRÁ EL DERECHO DE QUE EL ASESOR JURÍDICO ESTATAL COMPAREZCA A TODOS LOS ACTOS EN LOS QUE SEA REQUERIDO Y DE CONTAR CON UN INTÉRPRETE O TRADUCTOR DE SU LENGUA, CUANDO ASÍ SE REQUIERA.
+La víctima tendrá el derecho de que el Asesor Jurídico Estatal comparezca a todos los actos en los que sea requerido, y de contar con un intérprete o traductor de su lengua, cuando así se requiera, así como la emisión de documentos en sistema de escritura braille.
 
 El servicio de la asesoría jurídica será gratuito y se prestará a todas las víctimas que quieran o no pueden contratar a un abogado particular y en especial a:
 
@@ -2606,3 +2602,15 @@ SEXTO. Los asuntos a cargo de la Secretaría de Desarrollo Social que se encuent
 SÉPTIMO. Las referencias establecidas en los ordenamientos jurídicos, reglamentos, decretos, acuerdos, reglas de operación y en general cualquier disposición que mencione a la Secretaría de Desarrollo Social, se entenderán a la Secretaría de Bienestar del Estado de Quintana Roo que se enuncia en el presente Decreto.
 
 OCTAVO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 4 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 251 POR EL QUE SE REFORMAN EL ARTÍCULO 126, Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 134, AMBOS DE LA LEY DE VÍCTIMAS DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE REFORMAN EL ARTÍCULO 1; LA FRACCIÓN X DEL ARTÍCULO 3; LAS FRACCIONES X, XI Y XII DEL ARTÍCULO 4; Y SE ADICIONAN LA FRACCIÓN XIV AL ARTÍCULO 5; EL PÁRRAFO SEGUNDO AL ARTÍCULO 22; LA SECCIÓN IV DENOMINADA "DE LA UNIDAD DE ATENCIÓN A PERSONAS INDÍGENAS" QUE CONTIENE LOS ARTÍCULOS 46 BIS, 46 TER, 46 QUATER Y 46 QUINQUIES DEL CAPÍTULO SEXTO DENOMINADO "DEL PERSONAL AUXILIAR Y TÉCNICO", TODOS DE LA LEY DEL INSTITUTO DE DEFENSORÍA PÚBLICA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo que no exceda los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, la Comisión Ejecutiva de Atención a Víctimas del Estado de Quintana Roo, el Consejo de la Judicatura del Poder Judicial del Estado y el Instituto de la Defensoría Pública del Estado, deberán llevar a cabo las adecuaciones reglamentarias, normativas y estructurales para dar cumplimiento al mismo.
+
+TERCERO. La Comisión Ejecutiva de Atención a Víctimas y el Poder Judicial del Estado de Quintana Roo, incluirán en su Proyecto de Presupuesto de Egresos para el Ejercicio Fiscal 2025 y sucesivos, los recursos necesarios para su ejecución de lo establecido en el presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
