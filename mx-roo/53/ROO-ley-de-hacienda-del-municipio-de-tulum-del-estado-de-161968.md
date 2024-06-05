@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-tulum-del-estado-de-161968"
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-19"
-last_updated: "2023-12-21"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
 
 Ley publicada en el Número 205 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de diciembre de 2022.
 
