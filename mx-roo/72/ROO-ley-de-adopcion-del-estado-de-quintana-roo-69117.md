@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-adopcion-del-estado-de-quintana-roo-69117"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-30"
-last_updated: "2022-09-12"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69117&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ADOPCIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 30 de junio de 2009.
 
@@ -329,11 +329,11 @@ Una vez que proceda la adopción, la Secretaría de Educación del Estado de Qui
 
 ### Capítulo Único. De la Capacidad y Requisitos para Adoptar
 
-> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 16.
 
-Tienen capacidad para adoptar las personas casadas entre sí, en concubinato o solteras mayores de edad, en pleno ejercicio de sus derechos y que cumplan con los requisitos de adopción que establece esta ley. Para el caso de personas casadas o en concubinato bastará con que sólo uno de ellos cumpla con el requisito de la edad.
+Tienen capacidad para adoptar las personas casadas entre sí, en concubinato o solteras mayores de edad, en pleno ejercicio de sus derechos y que cumplan con los requisitos de adopción que establece esta ley.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2011)</small>
 
@@ -347,9 +347,9 @@ En todos los casos de adopción, se procurará dar preferencia a las personas qu
 
 La persona adoptante deberá acreditar:
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2024)</small>
 
-I. Que tiene capacidad según el artículo 16 de esta Ley;
+I. Ser mayor de 18 años;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2022)</small>
 
@@ -948,3 +948,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los procedimientos que se encuentren en trámite con anterioridad a la entrada en vigor del presente Decreto, serán concluidos de conformidad con las disposiciones vigentes al momento de su inicio.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 230 POR EL QUE SE REFORMAN EL ARTÍCULO 16 Y LA FRACCIÓN I DEL ARTÍCULO 18 DE LA LEY DE ADOPCIÓN DEL ESTADO DE QUINTANA ROO".]
+
+###### ARTÍCULO PRIMERO.
+
+EL presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto
