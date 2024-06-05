@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2024-05-30"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -745,11 +745,11 @@ Estos programas serán de observancia obligatoria para los particulares y las au
 
 Todo trámite derivado de una acción urbana, deberá sujetarse a lo establecido en la Ley General de Asentamientos Humanos, la presente Ley, y en los Programas de Desarrollo Urbano y Sistemas de Atlas de Riesgo correspondientes, en caso contrario, estarán afectados de nulidad absoluta.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 33.
 
-A partir de la fecha de la inscripción en el Registro Público de la Propiedad y del Comercio, de un programa de desarrollo urbano y ordenamiento territorial, la autoridad municipal podrá expedir licencias o autorizaciones de urbanización, licencias de régimen de propiedad en condominio, fraccionamiento, subdivisión, construcción, reconstrucción, ampliación o cualquier otra acción urbana considerada en su ámbito, competencial de conformidad a la constancia de viabilidad emitida y dictamen de impacto urbano y vial expedido, ambos por la Secretaría.
+La autoridad municipal podrá expedir licencias o autorizaciones de urbanización, licencias de régimen de propiedad en condominio, fraccionamiento, subdivisión, construcción, reconstrucción, ampliación o cualquier otra acción urbana considerada en su ámbito competencial, a partir de la fecha de la inscripción en el Registro Público de la Propiedad y del Comercio del programa de desarrollo urbano y ordenamiento territorial, de contar con la constancia de viabilidad, el dictamen de impacto urbano y vial y el acuerdo de autorización, control y vigilancia de la utilización de suelo donde se transfieran las funciones al municipio solicitante, emitidos por la Secretaria.
 
 > <small>N. DE E. LA REFORMA APROBADA EN EL DECRETO 281, EN SU ARTÍCULO ÚNICO SEÑALA QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 34, DESPUÉS MENCIONA QUE SE DEROGA EL MISMO PÁRRAFO POR LO TANTO SE DEJA EL TEXTO PUBLICADO EN EL P.O. 27 DE AGOSTO DE 2012.</small>
 
@@ -2806,3 +2806,11 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 914 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 83 DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 5 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 950 POR EL QUE SE REFORMA EL ARTÍCULO 33 DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
