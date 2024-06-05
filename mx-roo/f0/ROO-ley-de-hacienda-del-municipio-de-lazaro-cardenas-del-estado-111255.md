@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-lazaro-cardenas-del-estado-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-15"
-last_updated: "2023-12-21"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111255&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 15 de diciembre de 2015.
 
@@ -1046,6 +1046,10 @@ Asimismo los contribuyentes que modifiquen su domicilio fiscal, su actividad pre
 El pago de los derechos por licencia de funcionamiento en los casos de apertura o refrendo anual de los ya establecidos, se efectuarán conforme a la siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. 23 DE DICIEMBRE DE 2020, PÁGINA DE LA 122 A LA 126.]</small>
+
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2024)</small>
+
+Quedan exceptuados del pago del derecho que señala este artículo, así como de los trámites correspondientes a la expedición y entrega de la licencia de funcionamiento y del refrendo anual declarativo, las mesas de hospitalidad de las agencias de viajes que se encuentran dentro de los centros de hospedaje, que brindan servicios de acompañamiento y orientación al turista durante su estancia.
 
 ###### Artículo 89.
 
@@ -2206,3 +2210,11 @@ SEGUNDO. El Comité Técnico del Fideicomiso dentro del plazo de sesenta días n
 TERCERO. Para el caso de las contribuciones establecidas en la presente Ley, la autoridad municipal contemplará un esquema de subsidios en las tarifas que representen montos superiores. En este caso, la autoridad municipal deberá considerar la condición económica del contribuyente para dictar procedente los subsidios que estime pertinentes.
 
 CUARTO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 5 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 227 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE SOLIDARIDAD, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE PUERTO MORELOS, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE BACALAR, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE JOSÉ MARÍA MORELOS, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM, DEL ESTADO DE QUITANA ROO; A LA LEY DE HACIENA DEL MUNICIPIO DE FELIPE CARRILLO PUERTO, DEL ESTADO DE QUINTANA ROO; Y A LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
