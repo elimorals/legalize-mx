@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-othon-p-blanco-del-estado-1321
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2023-12-08"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
 
 Ley publicada en el Número 24 del Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -2015,6 +2015,10 @@ LXXVIII. Inmobiliarias: 0.8 UMA a 3.9 UMA
 
 LXXIX. Otros giros: 0.4 UMA a 5.5 UMA
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2024)</small>
+
+Quedan exceptuados del pago del derecho que señala este artículo, así como de los trámites correspondientes a la expedición y entrega de la licencia de funcionamiento y del refrendo anual declarativo, las mesas de hospitalidad de las agencias de viajes que se encuentran dentro de los centros de hospedaje, que brindan servicios de acompañamiento y orientación al turista durante su estancia.
+
 ###### Artículo 99.
 
 Los contribuyentes que no se hayan inscrito en el padrón municipal o que no hubieran solicitado la licencia correspondiente, en los plazos establecidos en los artículos 95, 96 y 97 de esta Ley, serán requeridos por la autoridad fiscal municipal, según lo dispuesto en el Código Fiscal Municipal.
@@ -3158,5 +3162,13 @@ P.O. 8 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 136 POR EL QUE SE DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE BACALAR DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE JOSÉ MARÍA MORELOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE PUERTO MORELOS DEL ESTADO DE QUINTANA ROO, LA LEY DE HACIENDA DEL MUNICIPIO DE SOLIDARIDAD DEL ESTADO DE QUINTANA ROO Y LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM DEL ESTADO DE QUINTANA ROO”.]
 
 PRIMERO. El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 227 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE SOLIDARIDAD, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE PUERTO MORELOS, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE BACALAR, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE JOSÉ MARÍA MORELOS, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE FELIPE CARRILLO PUERTO, DEL ESTADO DE QUINTANA ROO; Y A LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
