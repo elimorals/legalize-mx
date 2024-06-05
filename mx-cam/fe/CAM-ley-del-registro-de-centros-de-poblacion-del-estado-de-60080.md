@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-registro-de-centros-de-poblacion-del-estado-de-60080"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-05"
-last_updated: "2020-12-28"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DEL REGISTRO DE CENTROS DE POBLACION DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el miércoles 5 de marzo de 2008.
 
@@ -173,6 +175,10 @@ IV. La Sección Municipal de Alfredo V. Bonfil;
 
 V. La Sección Municipal de Hampolol;
 
+> <small>(ADICIONADA, P.O. 5 DE JUNIO DE 2024)</small>
+
+V bis. La Sección Municipal de Los Laureles;
+
 VI. Cayo Arcas;
 
 VII. Las poblaciones, ejidos, rancherías y heredades que constituyen la circunscripción jurisdiccional de la cabecera y secciones municipales en la forma siguiente:
@@ -191,7 +197,9 @@ A la Sección Municipal de Pich, corresponden:
 
 a) El pueblo de Pich, Cabecera de la Sección.
 
-b) Los pueblos de Bolonchéncahuich, San Juan Cantemó y Los Laureles; y las congregaciones de Quetza! Edzná, La Libertad, San Miguel Allende, Carlos Cano Cruz, Pénjamo y San Luciano.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2024)</small>
+
+b) Los pueblos de Bolonchéncahuich y San Juan Cantemó; y la congregación de Pénjamo.
 
 c) Los ejidos de Kicab y el N.C.P. Melchor Ocampo.
 
@@ -226,6 +234,14 @@ b) Los ejidos de Bethania, Chemblás y San Francisco Kobén.
 c) Los ranchos de Santiago Aguada, San Mario, Yaxcab, Ranqueño, Río Verde, La Manga, San Miguel, El Poste, Hermanos Carrillo, Cinco Hermanos, Rancho Kobén, Xbechel, Xkobén y Alegre; y
 
 d) Las áreas de producción Horticultores de Kobén.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 5 DE JUNIO DE 2024)</small>
+
+A la Sección Municipal de Los Laureles, corresponden:
+
+a) El pueblo de Los Laureles, Cabecera de la Sección.
+
+b) Las congregaciones de Carlos Cano Cruz, El Paraíso, San Miguel Allende, Quetzal Edzná, La Libertad y San Luciano.
 
 ###### ARTÍCULO 11.
 
@@ -748,3 +764,17 @@ Primero.- El presente decreto entrará en vigor el día 1° de enero de 2021, pr
 Segundo.- Notifíquese al H. Ayuntamiento del Municipio de Hecelchakán en su carácter de promovente de esta declaratoria y en su oportunidad entréguese una copia en pergamino del presente decreto a la H. Junta Municipal de Pomuch.
 
 Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 5 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 356 POR EL QUE “SE ADICIONAN LA FRACCIÓN V BIS Y UN PÁRRAFO SEXTO CON LOS INCISOS A) Y B) A LA FRACCIÓN VII, PARA CREAR LA SECCIÓN MUNICIPAL DE LOS LAURELES; Y SE REFORMA EL INCISO B) DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN VII, TODOS DEL ARTÍCULO 10 DE LA LEY DEL REGISTRO DE CENTROS DE POBLACIÓN DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1° de noviembre de 2026, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Una vez que entre en vigencia plena este decreto, quedarán derogadas todas aquellas disposiciones legales y reglamentarias que se le opongan.
+
+TERCERO.- En su oportunidad, el H. Ayuntamiento del Municipio de Campeche deberá proceder a emitir las previsiones que consecuentemente correspondan en su Presupuesto de Egresos para el ejercicio fiscal 2027.
+
+CUARTO.- El organismo público electoral local deberá proceder a adoptar las medidas que sean necesarias a efecto de que en las elecciones que tendrán lugar el primer domingo de junio del año 2027 se elija a los integrantes de la H. Junta Municipal que, en auxilio del H. Ayuntamiento del Municipio de Campeche, administrará la Sección Municipal de Los Laureles.
+
+QUINTO.- Entretanto queda formalmente constituida e integrada la Junta Municipal de Los Laureles, las autoridades auxiliares que correspondan a la Sección Municipal de Pich serán las encargadas de la prestación de los servicios públicos y la atención de las funciones municipales respecto de los centros de población que dejen de formar parte de esta sección municipal y que habrán de conformar la nueva Sección Municipal de Los Laureles, así como de los recursos previstos para satisfacer dichos servicios y su atención.
