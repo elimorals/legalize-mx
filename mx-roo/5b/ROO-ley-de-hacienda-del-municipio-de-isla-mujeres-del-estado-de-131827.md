@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-isla-mujeres-del-estado-de-131
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-29"
-last_updated: "2023-12-21"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
 
 Ley publicada en el Número 154 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 29 de noviembre de 2018.
 
@@ -2007,6 +2007,10 @@ LXXVII. Vulcanizadoras 1.60 a 5.50
 
 LXXVIII. Zapaterías 3.00 a 5.50
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2024)</small>
+
+Quedan exceptuados del pago del derecho que señala este artículo, así como de los trámites correspondientes a la expedición y entrega de la licencia de funcionamiento y del refrendo anual declarativo, las mesas de hospitalidad de las agencias de viajes que se encuentran dentro de los centros de hospedaje, que brindan servicios de acompañamiento y orientación al turista durante su estancia.
+
 ###### Artículo 91.
 
 Para el caso de expedición de la licencia de funcionamiento por la apertura de un primer negocio en los términos que señala la fracción XXVI del artículo 3 de la Ley de Desarrollo Económico y Competitividad para el Estado de Quintana Roo, se exentará el pago del primer año, previa acreditación de los requisitos que establezca el Ayuntamiento.
@@ -3022,3 +3026,11 @@ P.O. 21 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 227 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE HACIENDA DEL MUNICIPIO DE OTHÓN P. BLANCO, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE SOLIDARIDAD, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE PUERTO MORELOS, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE COZUMEL, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE ISLA MUJERES, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE BACALAR, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE LÁZARO CÁRDENAS, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE JOSÉ MARÍA MORELOS, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE TULUM, DEL ESTADO DE QUINTANA ROO; A LA LEY DE HACIENDA DEL MUNICIPIO DE FELIPE CARRILLO PUERTO, DEL ESTADO DE QUINTANA ROO; Y A LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
