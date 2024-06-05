@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-felipe-carrillo-puerto-del-168
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-21"
-last_updated: "2023-12-21"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "ROO"
 
 LEY DE HACENDA DEL MUNICIPIO DE FELIPE CARRILLO PUERTO, DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
 
 Ley publicada en el Número 205 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 21 de diciembre de 2023.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO Y REFORMAS DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### Artículo 86.
 
