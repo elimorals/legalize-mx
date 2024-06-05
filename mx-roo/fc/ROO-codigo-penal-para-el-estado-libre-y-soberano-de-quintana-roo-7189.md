@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2024-04-24"
+last_updated: "2024-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1893,6 +1893,10 @@ XII. Cuando el sujeto activo utilice armas o cualquier otro medio que aparente o
 
 XIII. La conducta se realice por cualquier medio documental, electrónico, telefónico, amenaza directa o intimidación hacia la persona, familia o bienes del sujeto pasivo, o se le requiera el pago de una deuda simulada o solicite de otro la suscripción o destrucción de documentos que contengan obligaciones o créditos.
 
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2024)</small>
+
+El delito previsto por este artículo en todo caso será perseguido de oficio.
+
 ### CAPITULO UNICO (SIC). ALLANAMIENTO DE MORADA EN ESTABLECIMIENTO PUBLICO CERRADO
 
 ###### ARTICULO 125.
@@ -2733,11 +2737,11 @@ Si el daño recae en bienes de valor científico, artístico, cultural o de util
 
 ### CAPITULO XI. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA EL PATRIMONIO
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 163.
 
-Los delitos previstos en este Título sólo podrán perseguirse por querella de la parte ofendida, con excepción de los delitos de robo, en materia de apicultura, abigeato, extorsión, despojo calificado previsto por el artículo 159, respecto de estos delitos que se perseguirán de oficio. Los delitos previstos en los capítulos I, II y III, también serán perseguibles por querella, cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubino, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos.
+Los delitos previstos en este Título solo podrán perseguirse por querella de la parte ofendida, con excepción de los delitos de robo, en materia de apicultura, abigeato, despojo calificado previsto por el artículo 159, respecto de estos delitos que se perseguirán de oficio. Los delitos previstos en los capítulos I, II y III, también serán perseguibles por querella, cuando sean cometidos por un ascendiente, descendiente, hermano, cónyuge, concubino, adoptante o adoptado, pariente por afinidad y por los terceros que hubieren intervenido en su ejecución con aquellos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
@@ -5560,5 +5564,13 @@ P.O. 24 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 223 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 234 BIS Y 234 TER AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
 
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 231 POR EL QUE SE REFORMA EL ARTÍCULO 163 Y POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 124 TER, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
