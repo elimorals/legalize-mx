@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2024-06-05"
+last_updated: "2024-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1897,11 +1897,15 @@ XIII. La conducta se realice por cualquier medio documental, electrónico, telef
 
 El delito previsto por este artículo en todo caso será perseguido de oficio.
 
-### CAPITULO UNICO (SIC). ALLANAMIENTO DE MORADA EN ESTABLECIMIENTO PUBLICO CERRADO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JUNIO DE 2024)</small>
+
+### CAPITULO UNICO (SIC). ALLANAMIENTO DE MORADA O EN ESTABLECIMIENTO PUBLICO CERRADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 125.
 
-Al que sin el consentimiento de la persona que legítimamente puede otorgarlo, o empleando engaño se introduzca en una casa habitación, sus dependencias o permanezca en ella, o en establecimientos públicos mientras permanezcan cerrados, se les impondrá prisión de seis meses a dos años.
+Al que sin el consentimiento de la persona que legítimamente puede otorgarlo, o empleando engaño se introduzca en una casa habitación, sus dependencias o permanezca en ella, o en establecimientos públicos mientras permanezcan cerrados, se les impondrá prisión de uno a tres años, y de veinte a cincuenta días de multa.
 
 Si el medio empleado fuere la violencia, la pena se aumentará hasta en una mitad más.
 
@@ -2273,9 +2277,7 @@ BIS.- Se impondrá de seis a dieciocho años de prisión y de treinta a ciento c
 
 I.- Con violencia contra la persona robada o sobre otra que la acompañe, o cuando ejerza violencia para darse a la fuga o defender lo robado;
 
-> <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)</small>
-
-II.- En lugar cerrado o habitado o destinado para habitación, o sus dependencias, comprendiendo no solo los que están fijos en la tierra, sino también en los movibles:
+II.- (DEROGADA, P.O. 6 DE JUNIO DE 2024)
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2024)</small>
 
@@ -2328,6 +2330,16 @@ Se entenderá por promover a la actividad consistente en impulsar el desarrollo 
 Se entenderá por compartir a la actividad consistente en distribuir la información que propicie la realización de las conductas a las que se refiere el párrafo primero del presente artículo.
 
 Se entenderá por difundir a la actividad consistente en extender, esparcir y/o propagar las acciones que propicien la realización de la conducta prevista en el párrafo primero del presente artículo.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+###### ARTICULO 145
+
+QUINQUIES.- Cuando el robo se efectúe en lugar cerrado o habitado o destinado para habitación, o sus dependencias, comprendiendo no solo los que están fijos en la tierra, sino también en los movibles, sea cual fuere la materia de que estén constituidos; se impondrá de ocho a dieciocho años de prisión y de cincuenta a ciento cincuenta días multa.
+
+Si el robo se ejecuta con violencia, a la sanción anterior se le aumentarán de seis meses a dos años de prisión.
+
+Si el robo con violencia se efectúa por dos o más personas, la sanción establecida en el primer párrafo, se aumentará en una cuarta parte.
 
 ###### ARTICULO 146.
 
@@ -5574,3 +5586,11 @@ P.O. 5 DE JUNIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 226 POR EL QUE SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO SEGUNDO DENOMINADO "DELITOS CONTRA LA LIBERTAD Y SEGURIDAD DE LAS PERSONAS" PARA QUEDAR COMO "ALLANAMIENTO DE MORADA O EN ESTABLECIMIENTO PÚBLICO CERRADO", EL PRIMER PÁRRAFO DEL ARTÍCULO 125; SE ADICIONA EL ARTÍCULO 145 QUINQUIES; SE DEROGA LA FRACCIÓN II DEL ARTÍCULO 145 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
