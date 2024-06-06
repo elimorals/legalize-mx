@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-imagen-institucional-del-estado-de-quintana-roo-130911"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-17"
-last_updated: "2022-08-29"
+last_updated: "2024-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130911&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE IMAGEN INSTITUCIONAL DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO: 236 POR EL QUE SE ABROGA LA LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE QUINTANA ROO, EXPEDIDA MEDIANTE DECRETO NÚMERO 257 DE LA XV LEGISLATURA DEL ESTADO, Y PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, EL DÍA 17 DE OCTUBRE DE 2018, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE IMAGEN INSTITUCIONAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 17 de octubre de 2018.
 
@@ -268,3 +270,15 @@ P.O. 29 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO: 262 POR EL QUE SE REFORMAN LOS TRANSITORIOS PRIMERO Y TERCERO DE LA LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE QUINTANA ROO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 6 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 236 POR EL QUE SE ABROGA LA LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE QUINTANA ROO, EXPEDIDA MEDIANTE DECRETO NÚMERO 257 DE LA XV LEGISLATURA DEL ESTADO, Y PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, EL DÍA 17 DE OCTUBRE DE 2018”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO: 236 POR EL QUE SE ABROGA LA LEY DE IMAGEN INSTITUCIONAL PARA EL ESTADO DE QUINTANA ROO, EXPEDIDA MEDIANTE DECRETO NÚMERO 257 DE LA XV LEGISLATURA DEL ESTADO, Y PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO, EL DÍA 17 DE OCTUBRE DE 2018.]</small>
+
+UNICO. Se abroga la Ley de Imagen Institucional para el Estado de Quintana Roo, expedida mediante Decreto Número 257 de la XV Legislatura del Estado, y publicada en el Periódico Oficial del Estado de Quintana Roo, el 17 de octubre de 2018.
