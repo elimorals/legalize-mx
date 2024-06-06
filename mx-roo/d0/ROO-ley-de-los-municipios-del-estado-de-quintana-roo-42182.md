@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2023-12-21"
+last_updated: "2024-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -163,7 +163,9 @@ Las personas integrantes del Ayuntamiento, percibirán las remuneraciones que le
 
 Para ser integrante de un Ayuntamiento se requiere:
 
-I. Ser mexicano por nacimiento, ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles, con residencia y vecindad en el Municipio no menor a cinco años anteriores al inicio del proceso electoral.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+I. Contar con la ciudadanía mexicana y quintanarroense, en pleno ejercicio de sus derechos políticos y civiles, con residencia y vecindad en el Municipio no menor a cinco años anteriores al inicio del proceso electoral.
 
 II. Ser de reconocida probidad y solvencia moral.
 
@@ -1081,15 +1083,27 @@ VII. En materia de Igualdad y género:
 
 a) Impartir cursos y talleres de prevención y asistencia para erradicar la violencia de género;
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+En la impartición de los cursos y talleres mencionados en el párrafo que antecede, tendrá que considerarse el enfoque diferencial de género e interseccional, además de acciones encaminadas a procurar la participación e integración de quienes generen violencia en estos grupos reflexivos.
+
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
 b) Designar a las personas integrantes del Sistema Municipal de Prevención, Atención, Sanción y Erradicación de la Violencia, y vigilar su correcta instalación y funcionamiento.
 
 c) Aprobar el Programa Municipal para la prevención social de la violencia y el Delito;
 
-d) Constituir una instancia administrativa para el Adelanto a favor de las Mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones, dirigidas al desarrollo de las mujeres del municipio, en los ámbitos económico, político, social, cultural, laboral y educativo, y
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-e) La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
+d) Constituir una instancia administrativa para el Adelanto a favor de las Mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones, dirigidas al desarrollo de las mujeres del municipio, en los ámbitos económico, político, social, cultural, laboral y educativo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE JUNIO DE 2024)</small>
+
+e) Expedir el Reglamento Municipal para el Acceso de las Mujeres a una Vida Libre de Violencia que incluya un Programa Estratégico Municipal para la Prevención y Atención de la Alerta de Violencia de Género contra las Mujeres en los Municipios Alertados, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 6 DE JUNIO DE 2024)</small>
+
+f) La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
 
 ###### ARTÍCULO 67.
 
@@ -4066,3 +4080,31 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
 
 TERCERO. En un plazo no mayor a sesenta días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos realizarán las adecuaciones o adiciones reglamentarias que correspondan, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
+
+P.O. 6 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 132 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 10 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado de Quintana Roo, el día que inicie la vigencia del Decreto por el que se reforma la fracción I del artículo 136 de la Constitución Política del Estado Libre y Soberano de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 6 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 239 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ORDENAMIENTO CÍVICO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, las autoridades municipales en el ámbito de sus competencias llevarán a cabo las acciones necesarias para el cumplimiento del mismo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 240 POR EL QUE SE REFORMAN LOS INCISOS D) Y E) DE LA FRACCIÓN VII DEL ARTÍCULO 66 Y SE ADICIONA EL INCISO F) A LA FRACCIÓN VII DEL ARTÍCULO 66 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, las autoridades municipales en el ámbito de sus competencias llevarán a cabo las acciones necesarias para el cumplimiento del mismo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
