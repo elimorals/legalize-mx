@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-157710"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-27"
-last_updated: "2024-04-24"
+last_updated: "2024-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024.
 
 Ley publicada en el Extraordinario Número 68 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de abril de 2022.
 
@@ -1481,9 +1481,17 @@ XXIX. Vigilar que tanto en el interior como en los alrededores de los planteles 
 
 XXX. Realizar en los planteles educativos con apoyo del Sistema Estatal de Protección Civil de Quintana Roo y/o Sistemas Municipales de Protección Civil, cuando menos una vez cada seis meses, simulacros que permitan la prevención de riesgos, emergencias o desastres, así como orientar al personal directivo, administrativo y académico del plantel educativo, sobre métodos y acciones para evitar o minimizar los daños y riesgos en caso de que éstos se presenten;
 
-XXXI. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JUNIO DE 2024)</small>
 
-XXXII. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
+XXXI. La Secretaría, se coordinará con la Secretaría de Educación Pública, con la Coordinación Nacional de Protección Civil, con la Secretaría de Salud del Estado y con la Coordinación Estatal de Protección Civil del Estado, con el objeto de brindar cursos de prevención de accidentes y primeros auxilios, al personal docente que labora en las instituciones educativas del Estado.
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXI], P.O. 6 DE JUNIO DE 2024)</small>
+
+XXXII. Vigilar el cumplimiento de esta Ley y de sus disposiciones reglamentarias, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXII], P.O. 6 DE JUNIO DE 2024)</small>
+
+XXXIII. Las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
 El Ejecutivo Federal y el Gobierno del Estado de Quintana Roo podrán celebrar convenios para coordinar o unificar las actividades educativas a que se refiere esta Ley, con excepción de aquellas que, con carácter exclusivo, les confieren los artículos 113 y 114 de la Ley General y demás disposiciones legales.
 
@@ -2490,3 +2498,11 @@ P.O. 24 DE ABRIL DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que resulten contrarias al presente Decreto.
+
+P.O. 6 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 232 POR EL QUE SE REFORMAN LAS FRACCIONES XXXI Y XXXII DEL ARTÍCULO 103; Y SE ADICIONA LA FRACCIÓN XXXIII AL ARTÍCULO 103 DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNOO. Se derogan todas las disposiciones que se opongan al presente Decreto.
