@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2023-12-21"
+last_updated: "2024-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -2181,149 +2181,203 @@ E.- La Fiscalía General contará con un órgano interno de control, cuyo titula
 
 Se deposita el ejercicio del Poder Judicial del Estado en el Tribunal Superior de Justicia, sus Tribunales y Juzgados, que lo ejercerán en el lugar, grado y términos asignados por esta Constitución, su ley orgánica y demás leyes que resulten aplicables.
 
-Con excepción de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, corresponde al Poder Judicial del Estado conocer, en los términos de las leyes respectivas, de las controversias jurídicas que se susciten entre los poderes del Estado, el Estado y los Municipios o entre los Municipios del Estado, respecto de materias de constitucionalidad y legalidad local; así como de las controversias de los particulares entre sí.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+Con excepción de lo establecido en la Constitución Política de los Estados Unidos Mexicanos, corresponde al Poder Judicial del Estado conocer, en términos de las leyes respectivas, de las controversias jurídicas en materia de constitucionalidad y legalidad local; así como de las controversias de los particulares entre sí.
 
 Así también, corresponderá al Poder Judicial del Estado de Quintana Roo, en términos de lo dispuesto en su Ley Orgánica y la Legislación Federal de la materia, conocer y resolver las controversias que se susciten en materia laboral de conformidad con lo establecido en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos. Previo a accionar la vía jurisdiccional, los trabajadores y patrones deberán agotar la instancia conciliatoria.
 
-Las sentencias y resoluciones de los jueces y magistrados deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-La administración, vigilancia, disciplina y carrera judicial del Poder Judicial del Estado, con excepción de los Magistrados del Tribunal Superior de Justicia, estarán a cargo del Consejo de la Judicatura, en los términos que señala esta Constitución y la ley respectiva.
+Las sentencias y resoluciones de las personas titulares de las Magistraturas y las personas Juzgadoras deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia. Asimismo, deberán privilegiar un enfoque basado en derechos humanos, perspectiva de género, así como en perspectiva de infancia y adolescencia.
 
-El Poder Judicial del Estado, tendrá la obligación de proporcionar a los particulares, los mecanismos alternativos de solución a sus controversias jurídicas de conformidad con la legislación aplicable y los servicios de defensoría pública y de asistencia jurídica a los sectores sociales desprotegidos, con excepción de la defensoría y la instancia conciliatoria en materia laboral las cuales estarán a cargo del Poder Ejecutivo del Estado. Para tal efecto las leyes respectivas establecerán las facultades e integración de las instituciones que de acuerdo a su competencia brindarán estos servicios.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+La administración, vigilancia y disciplina del Poder Judicial del Estado, con excepción del Tribunal Superior de Justicia, estarán a cargo del Consejo de la Judicatura, en los términos que señala esta Constitución y la ley respectiva.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+El Poder Judicial del Estado tendrá la obligación de proporcionar a las personas particulares los mecanismos alternativos de solución a sus controversias jurídicas de conformidad con la legislación aplicable; así como los servicios de defensoría pública y de asistencia jurídica a los sectores sociales desprotegidos, con excepción de la instancia conciliatoria en materia laboral, que estará a cargo del Poder Ejecutivo del Estado. Para tal efecto las leyes respectivas establecerán las facultades e integración de las instituciones que de acuerdo con su competencia brindarán estos servicios.
 
 El Sistema de Justicia Indígena se ejercerá por las autoridades, de acuerdo con los usos y costumbres de los pueblos y comunidades indígenas, en los términos que disponga la Ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+Como parte del Sistema Integral de Justicia Penal para Adolescentes, el Poder Judicial contará con un Tribunal Unitario integrado por una Magistrada o Magistrado para Adolescentes, así como Juzgados especializados. La Ley determinará el procedimiento para el ingreso, formación, permanencia, nombramiento, ratificación y remoción de las servidoras y los servidores públicos de estos órganos especializados.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+El Tribunal Superior de Justicia podrá habilitar al Tribunal Unitario para Adolescentes para el auxilio en el conocimiento de los asuntos de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 98.
 
-El Tribunal Superior de Justicia se integra por doce Magistrados Numerarios y el número de Supernumerarios que determine la Ley Orgánica del Poder Judicial.
+El Tribunal Superior de Justicia se compone de once personas integrantes, titulares de las Magistraturas, y funcionará en Pleno o en Salas.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-El Pleno del Tribunal se integrará solamente con los magistrados numerarios, con la excepción de los supuestos previstos en esta Constitución y en la Ley Orgánica del Poder Judicial.
+El Pleno del Tribunal Superior de Justicia es la máxima autoridad del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-Las Salas se integrarán por Magistrados Numerarios o Supernumerarios organizadas por materia o circuito, pudiendo ser unitarias o colegiadas con la conformación, integración, jurisdicción y competencia que determine el Pleno con sujeción a la ley. Las Salas Colegiadas se integrarán con tres magistrados. La Sala Constitucional se integrará con un Magistrado Numerario.
+Las Salas se integrarán por personas titulares de las Magistraturas, organizadas por materia o circuito, pudiendo ser unitarias o colegiadas con la conformación, integración, jurisdicción y competencia que determine el Pleno con sujeción a la Ley. Las Salas Colegiadas se integrarán con tres personas titulares de las Magistraturas.
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-Las apelaciones en los juicios de oralidad serán resueltas de forma unitaria o colegiada, por los Magistrados en los casos previstos por la ley o determinación fundada del Pleno, con excepción del Magistrado Presidente, el Magistrado de la Sala Constitucional y el Magistrado Consejero.
+Las apelaciones en los juicios de oralidad serán resueltas de forma unitaria o colegiada, por las personas titulares de las Magistraturas en los casos previstos por la ley o determinación fundada del Pleno, con excepción de la persona titular de la magistratura que ejerza la Presidencia.
 
 > <small>(ADICIONADO, P.O. 18 DE JULIO DE 2014)</small>
 
 El Pleno del Tribunal Superior de Justicia de oficio o a petición fundada por parte de la Sala correspondiente podrá conocer de los asuntos que por su interés o trascendencia así lo ameriten.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2014)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
-Cuando las necesidades del servicio de administración de justicia lo amerite, en el Sistema Penal Acusatorio, excepcionalmente el Magistrado Presidente y/o el Magistrado Consejero, podrán integrar Sala, para la resolución de los recursos de su competencia, conforme a la legislación de la materia. En tales casos, el Magistrado Presidente y/o el Magistrado Consejero dirigirán petición al Pleno del Tribunal Superior de Justicia, para que se apruebe su integración a Sala Colegiada o Unitaria, según corresponda.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE OCTUBRE DE 2016)</small>
+###### ARTICULO 99.
 
-###### ARTÍCULO 99.
-
-El Tribunal Superior de Justicia será presidido por un Magistrado que no integrará Sala, exceptuando lo establecido en el último párrafo del artículo 98 de esta Constitución, designado por el Tribunal en Pleno en el mes de agosto de cada cinco años sin posibilidad de reelección. A la Sesión de Pleno para designar Presidente del Tribunal Superior de Justicia, se convocará también al Magistrado Consejero para que, con voz y voto, pueda ejercer su derecho de elegir. Cada Sala Colegiada elegirá a su propio Presidente en la primera sesión del año.
+El Tribunal Superior de Justicia será presidido por una persona titular de la Magistratura que no integrará Sala, designado por el Tribunal Pleno en el mes de agosto de cada cinco años, con posibilidad de reelección, por una sola vez, para un período de igual duración.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 La Presidencia del Tribunal tendrá la representación legal del mismo, pero en todo caso requerirá del acuerdo del Pleno.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-En las ausencias temporales y en las definitivas del Magistrado Presidente será sustituido por el Magistrado Numerario que designe el Pleno; en el primer caso no podrán exceder de un mes.
+En las ausencias temporales y en las definitivas de la persona titular de la Magistratura que ocupe la Presidencia será sustituido por la persona titular de la Magistratura que designe el Pleno; en el primer caso no podrán exceder de treinta días hábiles.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-En los casos de ausencia temporal menor a treinta días hábiles, de algún Magistrado diferente a la figura del Presidente dentro del Pleno del Tribunal Superior de Justicia, éste último, elegirá dentro de los Magistrados supernumerarios quien supla al Magistrado numerario ausente.
+En los casos de ausencia temporal menor a treinta días hábiles, de alguna persona titular de la Magistratura diferente a la figura de persona que ocupe la presidencia dentro del Pleno del Tribunal Superior de Justicia, éste último habilitará temporalmente a la persona Juzgadora que actúe en funciones de persona titular de la Magistratura debiendo cumplir en todo caso los requisitos constitucionales para el cargo. Lo mismo sucederá tratándose de las ausencias definitivas de alguna persona titular de la Magistratura, hasta en tanto se realiza su designación, en los términos establecidos en esta Constitución.
 
-> <small>(ADICIONADO, P.O. 18 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-Los Magistrados Supernumerarios, podrán ejercer funciones jurisdiccionales, integrando sala unitaria o colegiada, con la adscripción, competencia, jurisdicción y tiempo que el Pleno determine, cuando se estime que las necesidades del servicio así lo requieran.
+Las personas Juzgadoras habilitadas como persona titular de la Magistratura podrán ejercer funciones jurisdiccionales, integrando Sala Unitaria o Colegiada, con la adscripción, competencia, jurisdicción y tiempo que el Pleno determine, cuando se estime que las necesidades del servicio así lo requieran.
 
-> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 100.
 
-Esta Constitución garantiza la independencia de los Magistrados y Jueces del Poder Judicial del Estado, quienes en el ejercicio de sus funciones jurisdiccionales, actuarán sin más sujeción que a las leyes, la equidad y los principios generales del derecho.
+Esta Constitución garantiza la independencia de las personas titulares de las Magistraturas y las personas Juzgadoras del Poder Judicial del Estado, quienes en el ejercicio de sus funciones jurisdiccionales, actuarán sin más sujeción que a la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, los derechos humanos, las leyes, la equidad y los principios generales del Derecho.
 
-La Ley, conforme a las bases de esta Constitución, establecerá las condiciones para el ingreso, formación, permanencia, capacitación y actualización de quienes sirvan al Poder Judicial del Estado.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+La Ley, conforme a las bases de esta Constitución, establecerá las bases para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. Asimismo, establecerá las condiciones para el ingreso, formación, permanencia, capacitación y actualización de quienes sirvan al Poder Judicial del Estado.
 
-Los Magistrados del Tribunal Superior de Justicia durarán en su encargo un período de seis años. Los Magistrados Numerarios podrán ser reelectos por una sola vez, para un período de seis años. Los Magistrados Supernumerarios, podrán ser reelectos por una sola vez, para un periodo de tres años. Los Magistrados del Tribunal Superior de Justicia solo podrán ser separados en los términos que señala el Título Octavo de esta Constitución o en su caso, como consecuencia del retiro forzoso en términos de esta Constitución.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2013)</small>
+Las personas titulares de las Magistraturas del Tribunal Superior de Justicia durarán en su encargo un período de quince años, sin posibilidad de reelección. Sólo podrán ser separadas del cargo en los términos que señala el Título Octavo de esta Constitución; o en su caso, como consecuencia del retiro forzoso en términos de esta Constitución.
 
-Las y los Jueces durarán seis años en el ejercicio de su encargo, al término de los cuales, podrán ser ratificados por períodos de igual duración, ante el Consejo de la Judicatura del Poder Judicial del Estado; podrán ser removidos en los casos y conforme al procedimiento que establezca la ley.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-Los Magistrados, Jueces y Consejeros de la Judicatura del Estado, percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante el tiempo de su encargo.
+Las personas Juzgadoras durarán seis años en el ejercicio de su encargo, al término de los cuales, podrán ser ratificadas ante el Consejo de la Judicatura del Poder Judicial del Estado, en los términos que para tal efecto establezca la Ley Orgánica del Poder Judicial. En caso de ser ratificadas, durarán en el cargo hasta los sesenta y cinco años de edad, y sólo podrán ser removidas en los casos y conforme al procedimiento que establezca la Ley.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+Las personas titulares de las Magistraturas, Juzgadoras y Consejeras de la Judicatura del Estado, percibirán una remuneración digna, decorosa e irrenunciable, que no podrá ser disminuida durante el tiempo de su encargo.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
 
 Las y los Magistrados del Tribunal Superior de Justicia rendirán protesta ante la Legislatura del Estado; las y los jueces y demás servidores del Poder Judicial ante el Consejo de la Judicatura.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2008)</small>
+
 Ningún servidor público del Poder Judicial del Estado podrá tener, servir o desempeñar al mismo tiempo otro empleo, cargo o comisión diverso, con excepción de la docencia y los cargos honoríficos en instituciones públicas o privadas, asociaciones o sociedades científicas, literarias, culturales, educativas, deportivas, de investigación científica o de beneficencia, cuyo desempeño no perjudique las funciones o labores propias de su cargo.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JUNIO DE 2024)</small>
 
-Los Magistrados Numerarios del Tribunal Superior de Justicia se retiraran de sus cargos en forma forzosa por alguna de las siguientes causas:
+Las personas titulares de las Magistraturas del Tribunal Superior de Justicia se retirarán de sus cargos en forma forzosa por alguna de las siguientes causas:
 
-I.- Haber concluido, en su caso, los seis años del segundo periodo a que se refiere el párrafo tercero de este artículo.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+I.- Haber concluido el periodo para el que fueron designados (sic);
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2013)</small>
 
 II.- Haber cumplido sesenta y cinco años de edad.
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2013)</small>
+
 III.- Padecer incapacidad física o mental declarada legalmente, incluso cuando ésta fuese parcial o transitoria, y siempre que impida el ejercicio de su función.
 
-> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-Los Magistrados Numerarios del Tribunal Superior de Justicia del Estado tienen derecho al haber de retiro, siempre y cuando hayan sido reelectos en el cargo mediante Decreto de la Legislatura del Estado, y concluyan los periodos que establece esta Constitución, de conformidad a las disposiciones que establece la Ley Orgánica del Poder Judicial del Estado.
+Las personas titulares de las Magistraturas del Tribunal Superior de Justicia del Estado tienen derecho al haber de retiro, siempre y cuando concluyan los periodos que establece esta Constitución, de conformidad con las disposiciones que establece la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+Las personas titulares de las Magistraturas, las personas Juzgadoras y las personas Consejeras de la Judicatura no podrán actuar como patronas, abogadas o representantes en cualquier proceso ante los órganos judiciales del Poder Judicial mientras estén en el cargo o se encuentren con licencia; ni dentro de los dos años siguientes a la fecha de conclusión del cargo, cualquiera que fuere la causa de la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 101.
 
-Para ser Magistrado del Tribunal Superior de Justicia, se requiere:
+Para ser persona titular de la Magistratura del Tribunal Superior de Justicia se requiere:
 
 > <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
 
 I. Ser ciudadano mexicano por nacimiento y ciudadano quintanarroense, en ejercicio de sus derechos políticos y civiles.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 II. No tener menos de treinta y cinco años de edad el día de la designación.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 III. Poseer el día de la designación, con antigüedad mínima de diez años, título profesional de Licenciado en Derecho y Cédula Profesional, expedido por la autoridad o institución legalmente facultada para ello.
 
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
+
 IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado y cualquier otro que lastime seriamente la buena fama en el concepto público, lo inhabilitará para el cargo, cualquiera que haya sido la pena.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2003)</small>
 
 V. Haber residido en el Estado durante los diez años anteriores al día de la designación.
 
-VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se haya separado cinco años anteriores a la fecha de su designación. y
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+VI. No pertenecer al estado eclesiástico, ni ser persona ministra de algún culto religioso, a menos que se haya separado cinco años antes a la fecha de su designación;
 
-VII. No haber sido Gobernador, Secretario de Despacho o su equivalente, Fiscal General del Estado, Senador, Diputado Federal o Local, ni Presidente Municipal, durante el año previo al día de su designación.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
+VII. No haber sido persona Gobernadora, Secretaria de Despacho o su equivalente, persona Consejera Jurídica, Fiscal General del Estado, Senadora, Diputada Federal o Local, ni Presidenta Municipal, durante el año previo al día de su designación;
 
-Los nombramientos de los Magistrados se realizarán en apego al principio de paridad de género, y deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+VIII. No tener antecedentes penales por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y,
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+IX. No ser persona deudora alimentaria morosa.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+Los nombramientos de las personas titulares de las Magistraturas se realizarán en apego al principio de paridad de género, y deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 102.
 
-Los Magistrados del Tribunal Superior de Justicia serán designados conforme al siguiente procedimiento:
+Las personas titulares de las Magistraturas del Tribunal Superior de Justicia serán designadas conforme al siguiente procedimiento:
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 I.- El Gobernador del Estado someterá una terna a la consideración de la Legislatura del Estado, la cual previa comparecencia de las personas propuestas, hará la designación correspondiente mediante el voto de la mayoría de sus miembros, dentro del plazo de quince días naturales;
 
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
+
 II.- Si la Legislatura del Estado no resolviere en el término señalado, rechaza la terna o no alcanza la votación requerida, el Gobernador dentro de los quince días posteriores, propondrá una nueva terna;
+
+> <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2016)</small>
 
 III.- Si presentada la segunda terna, a la Legislatura del Estado, ésta la rechaza, se abstiene de resolver, o no reúne la votación requerida dentro del plazo señalado en la fracción I del presente artículo, se llevará a cabo la aprobación mediante el voto de cuando menos la mitad más uno de los Diputados asistentes a la sesión; de no reunirse esta votación, el Gobernador, dentro de los quince días posteriores a la celebración de la sesión, realizará la designación de entre los integrantes de la segunda terna.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE MARZO DE 2019)</small>
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-Las licencias de los Magistrados para separarse temporalmente de sus funciones, por un lapso menor a un mes, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa de la Legislatura del Estado o la Comisión Permanente, en su caso.
+Las licencias de las personas titulares de las Magistraturas para separarse temporalmente de sus funciones, por un lapso menor a treinta días hábiles, podrán ser conferidas por el Pleno del Tribunal Superior de Justicia. Las que excedan de este término requerirán de la autorización expresa de la Legislatura del Estado o la Comisión Permanente, en su caso.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 028, PUBLICADO EN EL P.O. DE 2 DE JULIO DE 2008, SE MODIFICO LA ESTRUCTURA DEL PRESENTE ARTÍCULO.]</small>
 
@@ -2335,51 +2389,55 @@ Corresponde al Pleno del Tribunal Superior de Justicia, el ejercicio de las sigu
 
 I. Iniciar leyes o decretos inherentes a la impartición de justicia;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
 
-II. Elegir al Magistrado Presidente del Tribunal Superior de Justicia del Estado;
+II. Elegir a la persona titular de la Magistratura que ocupe la Presidencia del Tribunal Superior de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
 
-III. Elegir al Magistrado que integrará el Consejo de la Judicatura del Estado;
+III. Resolver los conflictos entre el Poder Judicial y sus personas trabajadoras, en los términos previstos por la Ley;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
 
-IV. Resolver sobre las contradicciones entre las tesis sostenidas en las resoluciones de las Salas o de los Juzgados, en los términos que disponga la Ley respectiva;
+IV. Resolver sobre las contradicciones entre los criterios sostenidos en las resoluciones de las Salas o de los Juzgados, en los términos que disponga la Ley respectiva;
 
-V. Conocer de las recusaciones con causa y de las excusas de los Magistrados;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+V. Conocer de las recusaciones y de las excusas de las personas titulares de las Magistraturas;
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2013)</small>
 
 VI. Aprobar anualmente el anteproyecto del Presupuesto de Egresos del Poder Judicial, que le presente el Consejo de la Judicatura, que deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
 
-VII. Asignar a las Salas los Magistrados Numerarios y Supernumerarios correspondientes;
+VII. Asignar a las Salas a las personas titulares de las Magistraturas; así como habilitar temporalmente a las personas Juzgadoras que suplan sus ausencias temporales o definitivas, en los términos previstos en esta Constitución;
 
-VIII. Resolver las controversias constitucionales, acciones de inconstitucionalidad local y las acciones por omisión legislativa, en términos de los artículos 104 y 105 de esta Constitución y conforme al procedimiento que establezca la Ley respectiva;
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2008)</small>
+VIII. Emitir jurisprudencia obligatoria para los órganos jurisdiccionales del Estado sobre la interpretación de esta Constitución, las leyes, decretos y reglamentos estatales o municipales, sin contravenir la jurisprudencia de los Tribunales de la Federación, en los términos que establezca la Ley Orgánica, y
 
-IX. Las demás que le confieran esta Constitución y la Ley Reglamentaria.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+IX. Las demás que le confieran esta Constitución y las leyes.
 
 En los términos que la ley disponga las sesiones del Pleno y de las Salas serán públicas y por excepción privada en los casos en que así lo exijan la moral o el interés público.
 
-> <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 104.
 
-El control constitucional se erige dentro del régimen interior del Estado, como un medio para mantener la eficacia y vigencia de esta Constitución; tiene por objeto dirimir de manera definitiva e inatacable en el orden jurídico estatal, los conflictos que por la constitucionalidad de sus actos o disposiciones generales, surjan en el ámbito interior del Estado entre el Poder Ejecutivo y el Legislativo o entre uno de ellos y los municipios que conforman el Estado, o entre dos o más municipios, sin perjuicio de lo previsto en los artículos 76 fracción VII, 103, 105, 107 y último párrafo de la fracción II del 115 de la Constitución Política de los Estados Unidos Mexicanos.
+El control constitucional se erige dentro del régimen interior del Estado, como un medio para mantener la eficacia y vigencia de esta Constitución; tiene por objeto dirimir de manera definitiva e inatacable en el orden jurídico estatal, los conflictos que por la constitucionalidad de sus actos o disposiciones generales, surjan en el ámbito interior del Estado entre los entes públicos a que hace referencia el artículo 105 de esta Constitución, sin perjuicio de lo previsto en los artículos 76 fracción VII, 103, 105, 107 y último párrafo de la fracción II del 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 105.
 
-El Tribunal Superior de Justicia contará con una Sala Constitucional, integrada por un Magistrado numerario, que tendrá competencia para:
+El Tribunal Superior de Justicia contará con una Sala Constitucional conformada por tres integrantes, Magistradas y Magistrados, designados por el Tribunal Pleno, sin que el número de integrantes de un mismo género pueda ser mayor a dos. Las Magistradas y los Magistrados se designarán de manera escalonada y durarán en el cargo tres años, pudiendo ser designados para integrar simultáneamente otras Salas. La Presidenta o el Presidente de la Sala durará un año, sin posibilidad de reelección para el período inmediato posterior.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JUNIO DE 2024)</small>
 
-APARTADO A. En cumplimiento de las atribuciones señaladas en la fracción VIII del artículo 103 de esta Constitución, deberá substanciar y formular en los términos de la ley respectiva, los correspondientes proyectos de resolución definitiva que se someterán al Pleno del Tribunal Superior de Justicia, en los siguientes medios de control:
+APARTADO A. La Sala Constitucional será la máxima autoridad local en materia de interpretación de esta Constitución. Tendrá competencia para conocer de los siguientes medios de control:
 
 I. De las controversias que, por la constitucionalidad de sus actos o disposiciones generales, con excepción de las que se refieran a la materia electoral, surjan entre:
 
@@ -2390,6 +2448,10 @@ b) El Poder Ejecutivo y uno de los Municipios.
 c) El Poder Legislativo y uno de los Municipios.
 
 d) Dos o más municipios del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+e) Uno o más organismos constitucionalmente autónomos y otro u otros organismos o Poderes del Estado o Municipios.
 
 Para que la controversia constitucional proceda, el actor deberá acreditar el interés jurídico.
 
@@ -2409,13 +2471,19 @@ b) El Gobernador del Estado, por conducto del Consejero Jurídico del Poder Ejec
 
 c) El Fiscal General del Estado, respecto de leyes en materia penal, así como, las relacionadas en el ámbito de sus funciones, y
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-d) El Organismo Garante que establece el artículo 21 de esta Constitución en contra de leyes de carácter local, que vulneren el derecho al acceso a la información pública y la protección de datos personales.
+d) Los organismos públicos autónomos, por conducto de quien les represente legalmente, con relación a la materia de su competencia, y
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+e) Cuando menos la tercera parte de las personas encargadas de las Regidurias del Municipio, en contra de las disposiciones de carácter general aprobadas por el Ayuntamiento.
 
 La admisión de una acción de inconstitucionalidad no dará lugar a la suspensión de la norma impugnada.
 
-Las resoluciones del Pleno del Tribunal Superior de Justicia solo podrán declarar la invalidez de las normas impugnadas, siempre que fueren aprobadas por cuando menos las dos terceras partes del Pleno, y no tendrán efectos retroactivos, salvo en materia penal.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+Las resoluciones de la Sala Constitucional solo podrán declarar la invalidez de normas impugnadas, siempre que fueren aprobadas por unanimidad de votos, y no tendrán efectos retroactivos, salvo en materia penal.
 
 III. De las acciones por omisión legislativa, cuando se considere que la Legislatura del Estado no ha resuelto sobre la expedición de alguna Ley o Decreto, y que dicha omisión afecte el debido cumplimiento de esta Constitución, siempre y cuando sean interpuestas por:
 
@@ -2423,13 +2491,13 @@ a) El Gobernador del Estado, o
 
 b) Un Ayuntamiento del Estado.
 
-La resolución que emita el Pleno del Tribunal Superior de Justicia que decrete el reconocimiento de la inconstitucionalidad por omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+La resolución que emita la Sala Constitucional que decrete el reconocimiento de la inconstitucionalidad por omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.
 
 En dicha resolución se determinará un plazo para que se expida la Ley o Decreto de que se trate la omisión, a más tardar en el período ordinario que curse o el inmediato siguiente de la Legislatura del Estado, pudiendo disminuir este plazo cuando el interés público lo amerite.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2016)</small>
-
-APARTADO B. De oficio o a petición de parte, también conocerá de las contradicciones de tesis que se contengan en las resoluciones de las demás salas, debiendo presentar el proyecto al Pleno del Tribunal para los efectos de la fracción IV del artículo 103 de esta Constitución. La Ley establecerá los términos en los que el Pleno del Tribunal Superior de Justicia emita jurisprudencia, sobre la interpretación de leyes, decretos y reglamentos locales, así como los requisitos para su interrupción y modificación.
+APARTADO B. (DEROGADO, P.O. 6 DE JUNIO DE 2024)
 
 APARTADO C. (DEROGADO, P.O. 3 DE JULIO DE 2017)
 
@@ -2443,39 +2511,93 @@ El Pleno del Tribunal Superior de Justicia podrá solicitar la expedición de aq
 
 En los demás casos, las determinaciones del Consejo de la Judicatura serán definitivas e inatacables.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE JUNIO DE 2024)</small>
+
+Corresponde al Consejo de la Judicatura el ejercicio de las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+I. Ejercer el presupuesto de egresos del Poder Judicial del Estado, con excepción del correspondiente al Tribunal Superior de Justicia;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+II. Auxiliar al Tribunal Superior de Justicia en el ejercicio de sus facultades de administración, vigilancia y disciplina, en los términos que fije la Ley Orgánica;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+III. Crear y modificar los distritos judiciales y su jurisdicción territorial, así como establecer y modificar la competencia y jurisdicción de los Tribunales y Juzgados;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+IV. Expedir disposiciones de carácter general para el adecuado funcionamiento de los Juzgados y Tribunales;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+V. Supervisar el funcionamiento de los órganos del Poder Judicial, así como el desempeño de sus personas servidoras públicas, con excepción de los pertenecientes al Tribunal Superior de Justicia;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+VI. Designar, adscribir y remover a las personas servidoras públicas de los órganos del Poder Judicial, con excepción a las relativas al Tribunal Superior de Justicia;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+VII. Conducir el desarrollo de la carrera judicial, conforme las bases establecidas en esta Constitución y la Ley;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+VIII. Implementar el servicio civil de carrera en los órganos administrativos, en los términos que fije la Ley;
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+IX. Implementar los procesos de capacitación, formación, actualización y profesionalización de las personas servidoras públicas del Poder Judicial, y,
+
+> <small>(ADICIONADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+X. Las demás que establezcan esta Constitución y las Leyes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 107.
 
-El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones, en los términos que señalen la Ley y el Reglamento que expida el propio Consejo.
+El Consejo de la Judicatura del Estado funcionará en los términos que señalen la Ley y el Reglamento que expida el propio Consejo.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-Invariablemente en Pleno, conocerá sobre la designación, adscripción, ratificación, licencias, renuncias y remoción de jueces de primera instancia y de paz. Dicha designación se realizará en apego al principio de paridad de género. En la estructura orgánica del Poder Judicial se promoverá este principio.
+En ejercicio de sus funciones, conocerá sobre la designación, adscripción, ratificación, licencias, renuncias y remoción de personas Juzgadoras. Dicha designación se realizará en apego al principio de paridad de género. En la estructura orgánica del Poder Judicial se promoverá este principio.
 
-En comisiones ejercerá las funciones de administración, carrera judicial, disciplina y la de adscripción.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-Contará en su estructura administrativa, con las unidades de apoyo que se determinen en la Ley Orgánica y en su reglamento interior.
+En ningún caso las actuaciones y decisiones del Consejo de la Judicatura, así como de sus personas integrantes, podrán modificar las resoluciones o invadir la función jurisdiccional depositada en los órganos del Poder Judicial; ni podrán afectar las resoluciones de las personas titulares de las Magistraturas y las personas Juzgadoras.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
+Contará en su estructura administrativa, con las unidades de apoyo que se determinen en la Ley Orgánica y en su reglamento interior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 108.
 
-El Consejo de la Judicatura, se integrará por cinco miembros de los cuales, uno será el Presidente del Tribunal Superior de Justicia, quien lo presidirá; un Magistrado Numerario nombrado por el Pleno del Tribunal Superior de Justicia; un Juez de Primera Instancia nombrado por el Colegio de Jueces, de entre quienes tengan mayor antigüedad, y dos Consejeros Ciudadanos designados por la Legislatura. Los Consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
+El Consejo de la Judicatura se conformará por tres personas integrantes de las cuales, una será quien ocupe la Presidencia del Tribunal Superior de Justicia; quien lo presidirá; una persona Juzgadora nombrada por el Colegio personas Juzgadoras, de entre quienes tengan mayor antigüedad, y una persona Consejera Ciudadana designada por la Legislatura. Las personas Consejeras no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
 
-Los Consejeros Ciudadanos del Consejo de la Judicatura del Estado deberán reunir los mismos requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia; serán designados conforme al procedimiento establecido en el artículo 102 de esta Constitución.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-El Magistrado designado para ocupar el cargo de miembro del Consejo de la Judicatura, distinto del Presidente, no integrará Pleno del Tribunal Superior de Justicia, a excepción de las sesiones de este órgano, que tengan por objeto la elección del Magistrado que presidirá el Tribunal Superior de Justicia, tal como se establece en el párrafo primero del artículo 99 de esta Constitución.
+La persona Consejera Ciudadana deberá reunir los mismos requisitos exigidos para ser persona titular de la Magistratura del Tribunal Superior de Justicia; y será designada conforme al procedimiento establecido en el artículo 102 de esta Constitución.
 
-El Magistrado distinto del Presidente, excepto en los casos previstos por esta Constitución, y el Juez que ocupen los cargos de Consejeros, no ejercerán funciones jurisdiccionales durante el ejercicio del mismo. En ambos casos ocuparán el cargo de consejeros durante dos años.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-Los Consejeros Ciudadanos durarán en su encargo cinco años, podrán ser reelectos por la Legislatura del Estado, por una sola vez, para un periodo de igual duración, y solo podrán ser removidos en términos del Título Octavo de esta Constitución. El procedimiento de reelección se sujetará a los términos que establezca la ley.
+La persona Juzgadora que ocupe el cargo de persona Consejera no ejercerá funciones jurisdiccionales durante el ejercicio del mismo. La duración de su cargo será de dos años sin posibilidad de reelección.
 
-Los integrantes del Consejo de la Judicatura, con excepción de su Presidente, rendirán la protesta como tales ante el Pleno del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-El Consejo de la Judicatura del Estado propondrá al Pleno del Tribunal Superior de Justicia la división territorial del Estado en distritos y circuitos judiciales, con base en la agrupación de sus municipios.
+La persona Consejera Ciudadana durará en su encargo cinco años, sin posibilidad de reelección; y sólo podrá ser removida en términos del Título Octavo de esta Constitución.
+
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+Las personas integrantes del Consejo de la Judicatura, con excepción de su (sic) quien ejerza la Presidencia, rendirán la protesta como tales ante el Pleno del Tribunal Superior de Justicia.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 6 DE JUNIO DE 2024)</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JULIO DE 2023)</small>
 
@@ -2483,9 +2605,9 @@ El Consejo de la Judicatura del Estado propondrá al Pleno del Tribunal Superior
 
 El Poder Judicial del Estado administrará con autonomía su presupuesto; el Consejo de la Judicatura elaborará el anteproyecto y lo someterá a la aprobación del Pleno del Tribunal Superior de Justicia. En todo caso, el proyecto de Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban sus servidores públicos, sujetándose a lo dispuesto en el artículo 165 de esta Constitución; el proyecto de presupuesto de egresos del Poder Judicial deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz, racional y oportuno, y será remitido a la Legislatura para su discusión y en su caso, aprobación y posterior inclusión en el Presupuesto de Egresos del Estado, a más tardar el 20 de noviembre del año anterior al ejercicio fiscal que corresponda. El Presupuesto de Egresos para el Poder Judicial, no será menor al dos por ciento del Presupuesto de Egresos del Gobierno del Estado, para el ejercicio fiscal de que se trate.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
-El Presidente del Tribunal Superior de Justicia lo remitirá para su inclusión en el Proyecto de Presupuesto del Estado.
+La persona que ocupe la Presidencia del Tribunal Superior de Justicia lo remitirá para su inclusión en el Proyecto de Presupuesto del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -3595,7 +3717,9 @@ IV. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2017)
 
 Para ser miembro de un Ayuntamiento se requiere:
 
-I. Ser mexicano por nacimiento, ciudadano quintanarroense en pleno ejercicio de sus derechos políticos y civiles, con residencia y vecindad en el Municipio no menor a cinco años anteriores al inicio del proceso electoral.
+> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2024)</small>
+
+I. Contar con la ciudadanía mexicana y quintanarroense, en pleno ejercicio de sus derechos políticos y civiles, con residencia y vecindad en el Municipio no menor a cinco años anteriores al inicio del proceso electoral.
 
 II. Ser de reconocida probidad y solvencia moral.
 
@@ -5740,3 +5864,61 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
 
 TERCERO. Dentro de los 180 días siguientes a la aprobación del presente Decreto, deberán realizarse las modificaciones que correspondan a las distintas disposiciones normativas secundarias, a efecto de garantizar su debido cumplimiento.
+
+P.O. 6 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 007 POR LA QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 136 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 6 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 008 POR LA QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PARA EL FORTALECIMIENTO DEL SISTEMA DE IMPARTICIÓN DE JUSTICIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, atendiendo a lo dispuesto en los artículos transitorios subsecuentes.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, las personas titulares de las Magistraturas Numerarias que se encuentren en funciones concluirán sus cargos según los períodos para los cuales fueron designadas, conservando su derecho a la reelección en el cargo, según sea el caso, atendiendo a las disposiciones vigentes al momento de su designación.
+
+TERCERO. Las personas titulares de las Magistraturas Numerarias designadas con anterioridad a la entrada en vigor del presente decreto concluirán sus cargos según los periodos para los cuales fueron designados; con las facultades, obligaciones y derechos establecidos a su favor de conformidad con las disposiciones vigentes al momento de su designación.
+
+El régimen de suplencias de las personas titulares de las Magistraturas por habilitación temporal de personas Juzgadoras será aplicable una vez que las personas titulares de las Magistraturas Supernumerarias concluyan los períodos para los cuales fueron designada (sic), con las facultades, obligaciones y derechos establecidos a su favor de conformidad con las disposiciones vigentes al momento de su designación.
+
+En consecuencia, hasta en tanto las personas titulares de las Magistraturas Supernumerarias concluyen los cargos respectivos, podrán formar parte del Pleno del Tribunal Superior de Justicia, según lo disponga este cuerpo colegiado.
+
+CUARTO. Las modificaciones a los artículos 104 y 105 de esta Constitución entrarán en vigor a los sesenta días de su publicación. En este periodo, el Pleno del Tribunal Superior de Justicia designará a las personas titulares de las Magistraturas que integren la nueva Sala Constitucional quienes, para efectos de su escalonamiento, por única ocasión, serán designados conforme a lo siguiente:
+
+I. Una Magistrada durará un año en el cargo, quien presidirá la Sala;
+
+II. Un Magistrado durará dos años en el cargo; y,
+
+III. Una Magistrada durará tres años en el cargo.
+
+Al concluir escalonadamente las personas titulares de las Magistraturas en su cargo como integrantes de la Sala Constitucional, se procederá a la designación de nuevas personas integrantes por un periodo de tres años.
+
+A partir del inicio de funciones de la nueva Sala Constitucional colegiada, la actual Sala Constitucional unitaria cambiará su denominación, jurisdicción y competencia, en razón de lo que al efecto acuerde el Pleno del Tribunal Superior de Justicia.
+
+QUINTO. Las disposiciones relativas a la duración en el cargo de las personas Juzgadoras aplicables únicamente a quienes no hubieren sido ratificadas a la entrada en vigor del presente decreto.
+
+Las personas Juzgadoras que hubieren sido ratificadas con anterioridad a la entrada en vigor del presente decreto continuarán en el cargo, según las disposiciones vigentes al momento de su ratificación.
+
+SEXTO. El contenido del artículo 108 de la Constitución entrará en vigor al día siguiente de su publicación, atendiendo a lo siguiente:
+
+I. Los personas Consejeras Ciudadanas concluirán los cargos para los períodos que fueron designadas, atendiendo a las disposiciones que por virtud de este decreto entran en vigor;
+
+II. Al concluir los nombramientos de las personas Consejeras Ciudadanas, la Legislatura del Estado procederá a la designación de una persona Consejera Ciudadana;
+
+III. Hasta en tanto se procede a la designación a que hace referencia la fracción que antecede, el Consejo de la Judicatura se integrará temporalmente por la persona titular de la Magistratura que ocupe la Presidencia, quien lo presidirá, por la persona Juzgadora designada por el Colegio de personas Juzgadoras, así como por la persona titular de la Magistratura nombrada por el Pleno del Tribunal Superior de Justicia distinto de la persona que ocupe la Presidencia, y
+
+IV. Designada la persona Consejera Ciudadana, la persona titular de la Magistratura nombrada por el Pleno del Tribunal Superior de Justicia distinto de la persona que ocupe la Presidencia se reincorporará a este órgano, a partir de la fecha en que surta los efectos la designación de la persona Consejera Ciudadana.
+
+SÉPTIMO. La Legislatura del Estado deberá realizar la armonización de la legislación secundaria relacionada con los preceptos constitucionales que se reforman a través del presente Decreto, en un plazo de 180 días hábiles, contados a partir de su entrada en vigor.
+
+Hasta en tanto se realice la armonización de la Ley Reglamentaria de los artículos 104 y 105 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, el conocimiento y substanciación de las controversias constitucionales, acciones de inconstitucionalidad y acciones por omisión legislativa se realizarán por la persona titular de la Magistratura que designe la Sala Constitucional, en carácter de instructoras, quienes instruirán el proceso hasta ponerlo en estado de resolución. La competencia para resolver prevista para el Pleno del Tribunal Superior de Justicia se entenderá atribuida a la Sala. La sustanciación de tales asuntos se realizará en aplicación directa de los artículos 104 y 105 constitucionales.
+
+Del mismo modo, hasta en tanto se realice la armonización de la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo, los conflictos que se susciten entre el Poder Judicial del Estado y sus personas trabajadoras se realizarán en apego a las disposiciones vigentes de esa Ley, en la inteligencia de que, únicamente por cuanto hace a estos conflictos, el Pleno del Tribunal Superior de Justicia ejercerá las facultades que la ley dispone para el Tribunal de Conciliación y Arbitraje.
+
+En ambos casos, los asuntos iniciados con anterioridad a la entrada en vigor de este Decreto continuarán sustanciándose hasta su conclusión de conformidad con las disposiciones vigentes al momento de su inicio, ante los órganos en los que se encuentren radicados.
+
+OCTAVO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
