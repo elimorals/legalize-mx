@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-desarrollo-economico-y-competitividad-para-el-estado-584
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-17"
-last_updated: "2022-09-09"
+last_updated: "2024-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024.
 
 Ley publicada en el Número 83 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 17 de diciembre de 2007.
 
@@ -1561,67 +1561,59 @@ IV.- Cuando no se utilice el distintivo para los productos respecto de los cuale
 
 DE LA COMISIÓN ESTATAL DE COMPETITIVIDAD.
 
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
+
 ###### Artículo 77.
 
-La Comisión Estatal de Competitividad, es el órgano de coordinación y concertación sectorial, responsable del impulso a la competitividad y funge como auxiliar de consulta y comunicación del ejecutivo estatal en las tareas relacionadas con la planeación, control y evaluación de los programas y proyectos relacionados con la competitividad empresarial en los términos que disponga la presente Ley.
+La Comisión Estatal de Competitividad, es el órgano de coordinación y concertación sectorial, responsable del impulso a la competitividad y funge como auxiliar de consulta y comunicación del ejecutivo estatal en las tareas relacionadas con la planeación, control y evaluación de los programas para popularizar el consumo de productos en beneficio de la colectividad.
 
-> <small>(REFORMADO, P.O. 4 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2024)</small>
 
 ###### Artículo 78.
 
 La Comisión se integra de la siguiente forma:
 
-I.- Un Presidente que será el Gobernador del Estado;
+I.- La Persona Titular del Poder Ejecutivo del Estado;
 
-II.- Un Vicepresidente Ejecutivo quien será el Secretario de Desarrollo Económico;
+II.- Una Persona Vicepresidenta Ejecutiva quien será la persona Titular de la Secretaría de Desarrollo Económico;
 
-III.- Un Secretario Técnico que será el Subsecretario de Desarrollo Económico;
+III.- Una persona Secretaria Técnica que será la persona Titular de la Subsecretaría de Desarrollo Económico;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2021)</small>
+IV.- La Persona Titular de la Secretaría de Ecología y Medio Ambiente.
 
-IV.- El Titular de la Secretaría de Ecología y Medio Ambiente.
+V.- La Persona Titular de la Secretaría de Finanzas y Planeación;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2014)</small>
+VI.- La Persona Titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
 
-V.- El Titular de la Secretaría de Finanzas y Planeación;
+VII.- Una persona representante del Poder Legislativo del Estado de Quintana Roo que será la persona que presida la Comisión de Desarrollo Rural y Pesquero;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+VIII.- La Persona Titular de la Secretaría de Turismo;
 
-VI.- El Titular de la Secretaría de Desarrollo Agropecuario, Rural y Pesca;
+IX.- La Persona Titular de la Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
+X.- La Persona Titular de la Secretaría de la Contraloría;
 
-VII.- El Titular de la Secretaría de Turismo;
+XI.- La Persona Titular de la Secretaría del Trabajo y Previsión Social del Estado de Quintana Roo;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+XII.- La Persona Titular del Consejo Quintanarroense de Humanidades, Ciencias y Tecnologías;
 
-VIII.- El Titular de la Secretaría de Educación;
+XIII.- Por invitación, una persona representante de la Delegación Federal de la Secretaría de Economía en el Estado;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
+XIV.- Las personas titulares de las Presidencias Municipales;
 
-IX.- El Titular de la Secretaría de la Contraloría.
+XV.- Dos personas representantes empresariales de la Zona Centro-Sur del Estado;
 
-X.- El Titular de la Secretaría del Trabajo y Previsión Social del Estado de Quintana Roo;
+XVI.- Dos personas representantes empresariales de la Zona Norte del Estado;
 
-XI.- El Titular del Consejo Quintanarroense de Ciencia y Tecnología;
+XVII.- Dos personas representantes de las Instituciones de Educación Superior de la Zona Centro-Sur del Estado, y
 
-XII.- Por invitación, un representante de la Delegación Federal de la Secretaría de Economía en el Estado;
+XVIII.- Dos personas Representantes de las Instituciones de Educación Superior de la Zona Norte del Estado.
 
-XIII.- Los Presidentes Municipales;
+Por cada persona integrante propietaria se deberá nombrar una persona suplente.
 
-XIV.- Dos Representantes Empresariales de la Zona Centro- Sur del Estado;
+La persona Secretaria Técnica suplirá las ausencias de la Presidencia; la persona suplente de la persona Secretaria Técnica asumirá las funciones de ésta cuando aquélla haga las veces de la Presidencia.
 
-XV.- Dos Representantes Empresariales de la Zona Norte del Estado;
-
-XVI.- Dos Representantes de las Instituciones de Educación Superior de la Zona Centro- Sur del Estado; y
-
-XVII.- Dos Representantes de las Instituciones de Educación Superior de la Zona Norte del Estado.
-
-Por cada uno de los miembros propietarios se deberá nombrar un suplente.
-
-El Secretario Técnico suplirá las ausencias del Presidente; el suplente del Secretario Técnico asumirá las funciones de éste cuando aquél haga las veces de Presidente.
-
-El carácter de miembro de la Comisión de Estatal (sic) de Competitividad, es honorífico, por lo tanto, sus integrantes no tendrán derecho a percibir por ese concepto, remuneración alguna. Su actuación se regirá por los lineamientos establecidos en el Reglamento Interno de la Comisión Estatal de Competitividad, que para tal efecto se emita.
+El carácter de persona integrante de la Comisión de (sic) Estatal de Competitividad, es honorífico, por lo tanto, sus personas integrantes no tendrán derecho a percibir por ese concepto, remuneración alguna. Su actuación se regirá por los lineamientos establecidos en el Reglamento Interno de la Comisión Estatal de Competitividad, que para tal efecto se emita.
 
 ###### Artículo 79.
 
@@ -2042,3 +2034,11 @@ SEGUNDO. El Ejecutivo del Estado, por conducto de la Secretaría, contará con u
 TERCERO. La Secretaría contará con un plazo de 30 días hábiles posteriores a la entrada en vigencia de las reformas reglamentarias a que se refiere el Transitorio Segundo para emitir el Manual de Identidad Gráfica de la Marca "Hecho en Quintana Roo" y los lineamientos de uso y aplicación del distintivo.
 
 CUARTO. Se derogan las disposiciones legales que contravengan lo establecido en el presente Decreto.
+
+P.O. 6 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 238 POR EL QUE SE REFORMAN LOS ARTÍCULOS 77 Y 78 DE LA LEY DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD PARA EL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
