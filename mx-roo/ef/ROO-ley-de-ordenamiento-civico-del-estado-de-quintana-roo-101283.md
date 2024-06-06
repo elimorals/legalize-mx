@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-ordenamiento-civico-del-estado-de-quintana-roo-101283"
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-02"
-last_updated: "2021-04-07"
+last_updated: "2024-06-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ORDENAMIENTO CÍVICO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 7 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO: 6 DE JUNIO DE 2024.
 
 Ley publicada en el Número 43 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 2 de mayo de 2014.
 
@@ -449,6 +449,10 @@ III. Las condiciones económicas del infractor, y
 
 IV. La reincidencia.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2024)</small>
+
+Para quienes reincidan en las infracciones asociadas al consumo de alcohol y drogas de la presente ley, se les invitará a formar parte del Programa Estatal o municipal contra adicciones y a intervenciones psicoterapéuticas que para tal efecto brinden otras instituciones estatales o municipales.
+
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2021)</small>
 
 ###### Artículo 32.
@@ -560,3 +564,13 @@ P.O. 7 DE ABRIL DE 2021.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 239 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO; Y POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ORDENAMIENTO CÍVICO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A partir de la entrada en vigor del presente decreto, las autoridades municipales en el ámbito de sus competencias llevarán a cabo las acciones necesarias para el cumplimiento del mismo.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
