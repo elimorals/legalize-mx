@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2024-05-30"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -63,7 +63,9 @@ III.- La protección y el acrecentamiento de los valores que coadyuven a la crea
 
 IV.- La extensión de actitudes solidarias y responsables de la población en la prevención, conservación, mejoramiento y restauración de la salud;
 
-V.- El acceso a servicios de salud y de asistencia social que satisfaga eficaz y oportunamente las necesidades de la población;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+V.- El acceso a servicios de salud y de asistencia social que satisfaga eficaz y oportunamente las necesidades de la población; con pleno respeto a la autonomía de la persona, quien tendrá derecho a otorgar su consentimiento informado.
 
 VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud, y
 
@@ -2700,3 +2702,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 927 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 967 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 2 DE LA LEY DE SALUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
