@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2024-03-26"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -781,9 +781,9 @@ Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben 
 
 #### SECCION PRIMERA. PREVISIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-ARTICULO 36 BIS. Los impuestos ecológicos o ambientales son aquellos que recaen sobre bienes o servicios contaminantes, su función fundamental consiste en incentivar el cuidado y protección del ambiente, mediante las tasas impositivas aplicables a los productores y consumidores que se materializan en un comportamiento más amigable y consiente de su entorno.
+ARTICULO 36 BIS. Los impuestos ecológicos son aquellos que recaen sobre bienes o servicios contaminantes, su función fundamental consiste en incentivar el cuidado y protección del ambiente, mediante las tasas impositivas aplicables a los productores y consumidores que se materializan en un comportamiento más amigable y consiente de su entorno.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -795,7 +795,9 @@ II. Cedula de Operación: Reporte de las emisiones y transferencias de las fuent
 
 III. Código: Código Fiscal del Estado de San Luis Potosí.
 
-IV. Emisión: La descarga directa o indirecta a la atmósfera de toda sustancia o energía incluyendo, pero no limitándose a olores, partículas, vapores, gases o cualquiera de sus combinaciones.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IV. Emisión: La descarga directa a la atmósfera de toda sustancia o energía incluyendo, pero no limitándose a olores, partículas, vapores, gases o cualquiera de sus combinaciones.
 
 V. Estado: Territorio en el que es aplicable esta Ley y su delimitación territorial conforme a lo establecido en la Constitución Política del Estado Libre y Soberano de San Luis Potosí;
 
@@ -809,61 +811,67 @@ IX. Secretaría de Ecología y Gestión Ambiental: La Secretaría encargada de l
 
 X. Secretaría: La Secretaría de Finanzas del Poder Ejecutivo del Estado de San Luis Potosí, y
 
-XI. Sujeto o sujetos: Las Personas físicas, personas morales y cualquier entidad o unidad económica, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la Administración Pública Federal, por el Estado y por los municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado que conforme a la ley se encuentren ubicadas en las hipótesis normativas como obligadas al pago de contribuciones.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XI. Sujeto o sujetos: Las Personas físicas, personas morales, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la Administración Pública Federal, por el Estado y por los municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado que conforme a la ley se encuentren ubicadas en las hipótesis normativas como obligadas al pago de contribuciones.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 #### SECCION SEGUNDA. IMPUESTO POR LA EMISION DE GASES CONTAMINANTES A LA ATMOSFERA
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+ARTICULO 36 QUATER. Son objeto de este impuesto las emisiones a la atmósfera de determinadas sustancias contaminantes generadas en los procesos productivos que se desarrollen en el Estado.
+
+Para los efectos de este impuesto se considera emisión a la atmósfera la expulsión directa de Bióxido de carbono, Metano, Óxido nitroso, Carbón negro, Clorofluorocarbonos, Hidroclorofluorocarbonos, Hidrofluorocarbonos y Perfluorocarbonos, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+ARTICULO 36 QUINQUE. Son sujetos y están obligados al pago de este impuesto los que define la fracción XI del artículo 36 TER de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
+
+ARTICULO 36 SEXTIES. La base de este impuesto es la cuantía de carga contaminante de las emisiones directas gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
+
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
-
-ARTICULO 36 QUATER. Son objeto de este impuesto las emisiones a la atmósfera de determinadas sustancias contaminantes generadas en los procesos productivos que se desarrollen en el Estado y que afecten el territorio del mismo.
-
-Para los efectos de este impuesto se considera emisión a la atmósfera la expulsión directa o indirecta de bióxido de carbono, metano, óxido nitroso, hidrofluoro-carbonos, perfluoro-carbonos y hexafluoruro de azufre, ya sea unitariamente o de cualquier combinación de ellos que afecten la calidad del aire, los componentes de la atmósfera y que constituyen gases de efecto invernadero que impactan en deterioro ambiental por provocar calentamiento global.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
-
-ARTICULO 36 QUINQUE. Son sujetos y están obligados al pago de este impuesto, las personas físicas y morales, entidades o unidades económicas residentes en el Estado o los residentes fuera del Estado, que tengan instalaciones o fuentes fijas en las que se desarrollen las actividades que determinan las emisiones a la atmósfera gravadas por este impuesto dentro del Estado y su delimitación territorial.
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
-
-ARTICULO 36 SEXTIES. La base de este impuesto es la cuantía de carga contaminante de las emisiones gravadas que se realicen desde la o las instalaciones o fuentes fijas expresadas en toneladas.
 
 Para la determinación de la base gravable, el contribuyente realizará mediante medición o estimación directa de las emisiones que genere y, en su caso, se tomará como referencia el último Registro de Emisiones y Transferencias de Contaminantes (RETC) de la Secretaría del Medio Ambiente y Recursos Naturales del Gobierno Federal, así como de los reportes de emisiones presentados por las fuentes fijas de jurisdicción Estatal a través de la Cedula de Operación Anual (COA) a la Secretaría de Ecología y Gestión Ambiental.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 Para la determinación de las toneladas emitidas, el contribuyente realizará la conversión de los gases establecidos en el artículo 36 QUATER, en bióxido de carbono (CO2), multiplicando la tonelada del tipo de gas emitido por el factor relacionado conforme a la tabla siguiente:
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 18 DE DICIEMBRE DE 2023, PÁGINA 35.]</small>
 
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL P.O. DE 7 DE JUNIO DE 2024, PÁGINAS DE LA 6 A LA 7.]</small>
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Cuando los sujetos obligados cuenten con más de un establecimiento en el estado con fuentes fijas, deberán acumular las emisiones de bióxido de carbono equivalente que generen cada uno de estos para la determinación de la base.
+
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ARTICULO 36 SEPTIES. El impuesto a que se refiere esta sección se causará en el momento que los contribuyentes realicen emisiones a la atmósfera, gravadas por este impuesto que afecten en el Estado y en su demarcación territorial, aplicando una cuota impositiva por el equivalente (sic) 3 UMA por tonelada emitida de bióxido de carbono o la conversión del mismo, establecida en el artículo anterior.
 
-El Poder Ejecutivo del Estado a través de la Secretaría de Finanzas, podrá otorgar estímulos fiscales en forma general a sectores de contribuyentes, con el objetivo de incentivar la recaudación, promover la creación de empleos o el desarrollo económico del Estado, la innovación tecnológica y el uso de energías limpias.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+El Poder Ejecutivo del Estado a través de la Secretaría de Finanzas, podrá otorgar estímulos fiscales en forma general a sectores de contribuyentes, con el objetivo de prevenir y remediar el deterioro ambiental; la innovación tecnológica y el uso de energías limpias; incentivar la recaudación, promover la creación de empleos y el desarrollo económico del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Los recursos recaudados podrán destinarse al Fondo Ambiental Público establecido en el artículo 180 de la Ley Ambiental del Estado de San Luis Potosí, así como al Fondo para el Cambio Climático, señalado en el artículo 46 de la Ley de Cambio Climático para el Estado de San Luis Potosí, tomando en consideración las necesidades del Estado.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ARTICULO 36 OCTIES. Los contribuyentes realizarán a cuenta de este impuesto, pagos provisionales mensuales que se presentarán a más tardar el día 17 del mes siguiente a que realicen u ocurran las actividades a que se refiere el artículo 36 QUATER, mediante declaración que presentarán en los formularios que para esos efectos publique la Secretaría.
 
-Asimismo, se deberá presentar una declaración anual por este impuesto a más tardar el último día hábil del mes de marzo del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de este impuesto del ejercicio que corresponda.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Asimismo, se deberá presentar una declaración anual por este impuesto a más tardar el último día hábil del mes de agosto del siguiente año del ejercicio de que se trate, en la que se podrán acreditar los pagos provisionales mensuales efectivamente pagados de este impuesto del ejercicio que corresponda.
 
 Lo anterior se establece, sin perjuicio de las multas, responsabilidades o sanciones que establezcan las disposiciones jurídicas aplicables en materia de equilibrio ecológico y protección al ambiente, u otras responsabilidades penales, civiles o administrativas y demás disposiciones que resulten aplicables por el riesgo de pérdida de vida humana, así mismo por deterioro que causa a la salud pública y el daño al ambiente.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
-
-ARTICULO 36 NONIES. Los contribuyentes de este impuesto estarán obligados a presentar el aviso de inscripción ante la Secretaría y contar con una bitácora con los registros de las Cédulas de Operación Mensual, que estará a disposición de la Secretaría y de la Secretaría de Ecología y Gestión Ambiental, para efectos de la gestión del mismo y como medio de control, vigilancia y seguimiento del cumplimiento de la normativa medioambiental.
-
-La Cedula de Operación Mensual deberá contener los siguientes datos:
-
-I. Volumen y tipología del combustible, así como materias primas consumidas y/o producidas;
-
-II. Composición química básica del combustible consumido y/o producido;
-
-III. Cálculo de las emisiones a la atmósfera realizado en cumplimiento de lo dispuesto en la presente Ley;
-
-IV. En su caso, datos de concentración resultantes de los monitores o mecanismos de control o de medición instalados; y
-
-V. Cualquier otro que se establezca mediante publicación reglamentaria por parte de la Secretaría o de la Secretaría (sic) Ecología y Gestión Ambiental.
+ARTICULO 36 NONIES. (DEROGADO, P.O. 7 DE JUNIO DE 2024)
 
 ### CAPITULO I. SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
 
@@ -3647,9 +3655,9 @@ P.O. 18 DE DICIEMBRE DE 2023.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”; con excepción de lo establecido en el artículo segundo transitorio.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2024)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-SEGUNDO. Las Adiciones que refieren al Capítulo VI denominado de los “Impuestos Ecológicos” al Título Segundo de los “Impuestos” con sus Secciones, Primera y Segunda, y sus artículos, 36 BIS, 36 TER, 36 QUATER, 36 QUINQUE, 36 SEXTIES, 36 SÉPTIES, 36 OCTIES y 36 NONIES, entrarán en vigor a partir del 10 de junio de 2024.
+SEGUNDO. Las Adiciones que refieren al Capítulo VI denominado de los “Impuestos Ecológicos” al Título Segundo de los “Impuestos” con sus Secciones, Primera y Segunda, y sus artículos, 36 BIS, 36 TER, 36 QUATER, 36 QUINQUE, 36 SEXTIES, 36 SÉPTIES, 36 OCTIES y 36 NONIES, entrarán en vigor el día uno de julio de 2024.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -3662,3 +3670,13 @@ P.O. 26 DE MARZO DE 2024.
 PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1050.- SE REFORMAN LOS ARTÍCULOS 36 BIS, 36 TER EN SUS FRACCIONES IV Y XI, 36 QUÁTER, 36 QUINQUE, 36 SEXTIES EN SU PÁRRAFO PRIMERO Y TABLA DEL PÁRRAFO TERCERO, 36 SEPTIES EN SU PÁRRAFO SEGUNDO Y 36 OCTIES EN SU SEGUNDO PÁRRAFO; ADICIONA A LOS ARTÍCULOS 36 SEXTIES UN ÚLTIMO PÁRRAFO Y 36 SEPTIES UN ÚLTIMO PÁRRAFO; Y DEROGA EL ARTÍCULO 36 NONIES, DEL DECRETO 0898 PUBLICADO EN EDICIÓN EXTRAORDINARIA DEL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS” EL LUNES 18 DE DICIEMBRE DE 2023 POR EL QUE SE MODIFICARON DIVERSAS DISPOSICIONES, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL TRANSITORIO SEGUNDO DEL ARTÍCULO SEGUNDO DEL RESOLUTIVO ÚNICO DEL DECRETO 1029 PUBLICADO EN EDICIÓN EXTRAORDINARIA DEL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS” EL 26 DE MARZO DE 2024”.]
+
+PRIMERO. El presente Decreto entrará en vigor el 1° de julio del 2024, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. La Secretaría de Finanzas del Poder Ejecutivo del Estado emitirá las “REGLAS DE OPERACIÓN DE CARÁCTER GENERAL PARA EL CUMPLIMIENTO DE LA OBLIGACIÓN Y PAGO DEL IMPUESTO POR LA EMISIÓN DE GASES CONTAMINANTES A LA ATMÓSFERA”, las cuales se publicarán en el Periódico Oficial del Estado “Plan de San Luis” y deberán entrar en vigor a partir del 1° de julio de 2024.
+
+TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
