@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2024-05-09"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -289,11 +289,17 @@ Corresponde al titular del Poder Ejecutivo del Estado de Hidalgo, en el marco de
 
 I.- Expedir los ordenamientos y demás disposiciones necesarias para el cumplimiento de la presente Ley;
 
-II.- Celebrar Convenios de Coordinación con las Autoridades Federales, Municipales y Asociaciones Protectoras de Animales debidamente registradas, para la vigilancia de la misma; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+II.- Celebrar Convenios de Coordinación con las Autoridades Federales, Municipales y Asociaciones Protectoras de Animales debidamente registradas, para la vigilancia de la misma;
 
-III.- Crear los instrumentos económicos adecuados para el desarrollo de programas de educación, protección, conservación, difusión y campañas, en las materias de la presente Ley.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+III.- Crear los instrumentos económicos adecuados para el desarrollo de programas de educación, protección, conservación, difusión y campañas, en las materias de la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IV.- Promover el Registro Único de Animales de Compañía del Estado de Hidalgo, que será de forma digital, en el que se podrá registrar a las personas y sus mascotas animales domésticos como perros y gatos, o animales silvestres como conejos, reptiles u otro animal silvestre en cautiverio o bien de carga, tiro y monta.
 
 > <small>(REFORMADO, P.O. 30 DE JULIO DE 2018)</small>
 
@@ -1582,5 +1588,11 @@ P.O. 22 DE ABRIL DE 2024.
 P.O. 9 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 876 POR EL SE ADICIONA EL ARTÍCULO 22 TER A LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 959 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
