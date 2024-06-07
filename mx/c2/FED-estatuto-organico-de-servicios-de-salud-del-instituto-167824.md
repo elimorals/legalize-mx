@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-167824"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-09-13"
-last_updated: "2024-05-15"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-07-31"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de septiembre de 2023.
 
@@ -471,7 +471,9 @@ d) Coordinación de Evaluación y Seguimiento de Infraestructura Operativa
 
 IV. UNIDAD JURÍDICA
 
-a) Coordinación de Convenios, Contratos y Regularización Inmobiliaria.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+a) Coordinación de Regularización Inmobiliaria.
 
 b) Coordinación de Asuntos Consultivos y Normativos.
 
@@ -482,6 +484,14 @@ c) Coordinación de lo Contencioso.
 2. División de Amparo y Procedimientos Penales.
 
 3. División de Procedimientos Jurídicos.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+4. División de Colaboración en Asuntos Contenciosos a Coordinaciones Estatales.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+d) Coordinación de Convenios y Contratos.
 
 > <small>(REFORMADA [N. DE E. CON SUS INCISOS Y NUMERALES], D.O.F. 14 DE FEBRERO DE 2024)</small>
 
@@ -1429,6 +1439,10 @@ XIX. Elaborar los criterios generales y específicos para la administración del
 
 XX. Coordinar que los donativos y pagos extraordinarios se lleven a cabo conforme a las disposiciones legales aplicables y verificar que los mismos se apliquen a los fines señalados en el Acuerdo de la Junta de Gobierno respectivo y a lo autorizado por la Dirección General.
 
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+XXI. Determinar la terminación de manera anticipada, o bien, en cualquier momento, declarar la rescisión administrativa de los contratos de adquisiciones, arrendamientos y servicios, previa orientación de la Unidad Jurídica, cuando así proceda; así como, determinar la suspensión de la prestación de servicios contratados; todo lo anterior, de conformidad con las disposiciones jurídicas aplicables.
+
 ###### Artículo 40.
 
 Son facultades y atribuciones de la Coordinación de Abasto:
@@ -1951,35 +1965,73 @@ XXII. Emitir los lineamientos de operación, normas y disposiciones de aplicaci�
 
 Para el caso de los HRAE’S la Unidad Jurídica se auxiliará para el ejercicio de sus funciones del Jefe de Departamento de Asuntos Jurídicos adscrito a cada uno de ellos, quienes actuarán bajo la instrucción permanente de las personas Titulares de las Coordinaciones adscritas a la Unidad en su respectivo ámbito de competencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 49.
 
-Son atribuciones de la Coordinación de Convenios, Contratos y Regularización Inmobiliaria las siguientes:
+Son atribuciones de la Coordinación de Regularización Inmobiliaria las siguientes:
 
-I. Coordinar el análisis y emisión de opiniones jurídicas respecto de los proyectos de convenios, contratos, con excepción de los derivados de las leyes reglamentarias del artículo 134 de la Constitución, acuerdos, bases de colaboración y coordinación y demás instrumentos jurídicos consensuales análogos que formulen las unidades administrativas de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-II. Controlar el resguardo de los instrumentos consensuales originales suscritos por el IMSS-BIENESTAR, con excepción de los contratos derivados de las leyes reglamentarias del artículo 134 de la Constitución; así como establecer los mecanismos para su registro y control.
+I. Coordinar, supervisar y evaluar las acciones de regularización de los bienes inmuebles que sean transmitidos al IMSS-BIENESTAR para el cumplimiento de sus fines.
 
-III. Dirigir, a solicitud de las unidades administrativas de IMSS-BIENESTAR, el envío al Diario Oficial de la Federación para su publicación de los instrumentos consensuales suscritos por el IMSS-BIENESTAR que deban difundirse a través de ese medio.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-IV. Coordinar, supervisar y evaluar las acciones de regularización de los bienes inmuebles que sean transmitidos al IMSS-BIENESTAR para el cumplimiento de sus fines.
+II. Acordar con la persona titular de la Unidad Jurídica el programa de regularización del patrimonio inmobiliario de IMSS-BIENESTAR.
 
-V. Acordar con la persona titular de la Unidad Jurídica el plan de regularización del patrimonio inmobiliario de IMSS-BIENESTAR.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-VI. Definir los mecanismos legales que se deberán promover ante las instancias jurisdiccionales y administrativas, para lograr la regularización de los inmuebles en favor de IMSS-BIENESTAR.
+III. Definir los mecanismos legales que se deberán promover ante las instancias jurisdiccionales y administrativas, para lograr la regularización de los inmuebles en favor de IMSS-BIENESTAR.
 
-VII. Impulsar acuerdos de colaboración con los diversos órdenes de gobierno, según corresponda, a fin de facilitar y agilizar los mecanismos de regularización de los bienes inmuebles.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-VIII. Coordinar, con la Unidad de Administración y Finanzas, la integración y actualización del inventario de los bienes inmuebles de IMSS-BIENESTAR pendientes de regularización.
+IV. Impulsar acuerdos de colaboración con los diversos órdenes de gobierno, según corresponda, a fin de facilitar y agilizar los mecanismos de regularización de los bienes inmuebles.
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-IX. Verificar que en los expedientes de los establecimientos de salud a cargo de IMSS-BIENESTAR, obre el aviso de funcionamiento y las autorizaciones sanitarias necesarias, y en su caso, requerir a las Coordinaciones Estatales la regularización correspondiente.
+V. Revisar los proyectos de escritura y tramitar, en coordinación con la Unidad de Administración y Finanzas, los actos y operaciones inmobiliarias de IMSS-BIENESTAR, que requieran la formalización ante fedatario público y su inscripción ante los Registros Públicos de la Propiedad correspondientes.
 
-X. Cumplir, en el ámbito de su competencia, las resoluciones del Poder Judicial de la Federación y de los Tribunales Agrarios, emitiendo los acuerdos de trámite y órdenes que sean necesarias e informar oportunamente sobre su cumplimiento.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-> <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
+VI. Remitir al responsable inmobiliario para guarda y custodia, los títulos de propiedad a favor del IMSS-BIENESTAR, inscritos en el Registro Público de la Propiedad Federal.
 
-XI. Instruir a las personas titulares de las Jefaturas de Departamento de Asuntos Jurídicos en los HRAE´S sobre el trámite de los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+VII. Coordinar, con la Unidad de Administración y Finanzas, la integración y actualización del inventario de los bienes inmuebles de IMSS-BIENESTAR pendientes de regularización.
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+VIII. Verificar que en los expedientes de los establecimientos de salud a cargo de IMSS-BIENESTAR, obre el aviso de funcionamiento y las autorizaciones sanitarias necesarias, y en su caso, requerir a las Coordinaciones Estatales la regularización correspondiente.
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+IX. Cumplir, en el ámbito de su competencia, las resoluciones del Poder Judicial de la Federación y de los Tribunales Agrarios, emitiendo los acuerdos de trámite y órdenes que sean necesarias e informar oportunamente sobre su cumplimiento.
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+X. Instruir a las personas titulares de las Jefaturas de Departamento de Asuntos Jurídicos en los HRAE´S sobre el trámite de los asuntos de su competencia.
+
+XI. (DEROGADA, D.O.F. 7 DE JUNIO DE 2024)
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 49 Bis.
+
+Son atribuciones de la Coordinación de Convenios y Contratos las siguientes:
+
+I. Elaborar y proponer proyectos de convenios, contratos, con excepción de los derivados de las leyes reglamentarias del artículo 134 de la Constitución, acuerdos, bases de colaboración y coordinación y demás instrumentos jurídicos consensuales a celebrarse con Entidades Federativas, Dependencias y Entidades de la Administración Pública Federal, Local y Municipal, así como con el sector social, ya sea a solicitud de las unidades y coordinaciones de IMSS-BIENESTAR o para solucionar una problemática específica.
+
+II. Analizar los proyectos de convenios, contratos, con excepción de los derivados de las leyes reglamentarias del artículo 134 de la Constitución, acuerdos, bases de colaboración y coordinación y demás instrumentos jurídicos consensuales análogos que formulen las unidades y coordinaciones de IMSS-BIENESTAR y emitir el dictamen que corresponda respecto de estos.
+
+III. Controlar el resguardo de los instrumentos consensuales originales suscritos por el IMSS-BIENESTAR, con excepción de los contratos derivados de las leyes reglamentarias del artículo 134 de la Constitución; así como establecer los mecanismos para su registro y control.
+
+IV. Gestionar ante el Diario Oficial de la Federación la publicación de los instrumentos consensuales suscritos por el IMSS-BIENESTAR que así lo ameriten.
+
+V. Recibir y analizar las consultas sobre los aspectos jurídicos de la elaboración y ejecución de los contratos y convenios suscritos por el IMSS-BIENESTAR, con excepción de los derivados de las leyes reglamentarias del artículo 134 de la Constitución emitiendo la opinión correspondiente.
+
+VI. Fungir como vínculo con los jefes de servicios jurídicos de las Coordinaciones Estatales para obtener la autorización de la Unidad Jurídica para la celebración de convenios.
+
+VII. Instruir a las personas titulares de las Jefaturas de Departamento de Asuntos Jurídicos en los HRAE´S sobre el trámite de los asuntos de su competencia.
 
 ###### Artículo 50.
 
@@ -1995,7 +2047,9 @@ III. Compilar y difundir los criterios de interpretación y aplicación de las l
 
 IV. Formular y revisar los anteproyectos de iniciativas de leyes y de reglamentos, decretos, acuerdos, y demás actos administrativos de carácter general relacionados con las atribuciones de IMSS-BIENESTAR, así como emitir opinión de las disposiciones normativas de carácter interno del organismo.
 
-V. Fungir como enlace, con la colaboración de las unidades y coordinaciones previstas en este Estatuto, para la atención de los requerimientos, visitas, medidas cautelares, recomendaciones y resoluciones la Comisión Nacional de los Derechos Humanos, la Comisión Nacional de Arbitraje Médico, el Consejo Nacional para Prevenir la Discriminación y demás mecanismos implementados por organismos nacionales e internacionales de derechos humanos, así como para la implementación de las medidas institucionales que se deriven de los anteriores.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+V. Dirigir la atención de los requerimientos, visitas, medidas cautelares, recomendaciones y resoluciones de la Comisión Nacional de los Derechos Humanos, la Comisión Nacional de Arbitraje Médico, el Consejo Nacional para Prevenir la Discriminación y demás mecanismos implementados por organismos nacionales e internacionales de derechos humanos, así como para llevar a cabo las medidas institucionales que se deriven de las resoluciones a cualquiera de sus procedimientos representando a IMSS-BIENESTAR, con la colaboración de las unidades y coordinaciones previstas en este Estatuto.
 
 VI. Realizar estudios e investigaciones jurídicas que requiera el desarrollo de las funciones de IMSS-BIENESTAR.
 
@@ -2033,7 +2087,9 @@ VI. Asesorar a las personas titulares de la Dirección General, así como de las
 
 VII. Representar a las personas titulares de la Dirección General, así como de las unidades y coordinaciones previstas en este Estatuto, ante el Tribunal Federal de Justicia Administrativa o sus equivalentes en las entidades federativas e interponer los recursos procedentes, en términos de las disposiciones jurídicas aplicables.
 
-VIII. Coordinar la asesoría que se brinde a las unidades administrativas que funjan como áreas contratantes y como administradoras de contratos, en la instrumentación de los procedimientos en que se proponga la rescisión, suspensión o terminación anticipada de los contratos derivados de las leyes reglamentarias del artículo 134 de la Constitución.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+VIII. Coordinar la asesoría y opinión que se brinde a las unidades administrativas que funjan como áreas contratantes y como administradoras de contratos, en la instrumentación de los procedimientos en que se proponga la rescisión, suspensión o terminación anticipada de los contratos derivados de las leyes reglamentarias del artículo 134 de la Constitución.
 
 IX. Representar al IMSS-BIENESTAR, así como a las personas titulares de la Dirección General y de las unidades y coordinaciones previstos en este Estatuto, ante todo tipo de autoridades en materia laboral, en los conflictos que se susciten en la materia; formular contestación de demandas laborales, articular y absolver posiciones, desistimientos o allanamientos y, en general, todas aquellas promociones que a dichos juicios se refieran.
 
@@ -2050,6 +2106,10 @@ XIV. Autorizar, mediante oficio, a servidores públicos bajo su adscripción, la
 > <small>(ADICIONADA, D.O.F. 3 DE MAYO DE 2024)</small>
 
 XV. Instruir a las personas titulares de las Jefaturas de Departamento de Asuntos Jurídicos en los HRAE´S sobre el trámite de los asuntos de su competencia.
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+XVI. Fungir como vínculo en la asesoría con las Coordinaciones Estatales sobre el trámite de los asuntos de su competencia en materia contenciosa.
 
 ###### Artículo 52.
 
@@ -2103,13 +2163,31 @@ X. Expedir copias certificadas de los documentos que obren en los archivos a su 
 
 XI. Las demás que le confieran la persona titular de la Unidad Jurídica o su superior jerárquico según corresponda, así como las establecidas por la normatividad aplicable.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 53 Bis.
+
+Son atribuciones de la División de Colaboración en Asuntos Contenciosos a Coordinaciones Estatales, las siguientes:
+
+I. Dar seguimiento a las solicitudes de asesoría de las Coordinaciones Estatales en los asuntos de carácter administrativo, judicial, electoral o de cualquier otra naturaleza, para dar atención a los juicios o procedimientos en que dichas Coordinaciones Estatales sean actores o demandados, tengan interés jurídico, legítimo o se les designe como parte, o cuando dicha asesoría no esté conferida a otro servidor público del organismo.
+
+II. Dirigir las respuestas respecto de las solicitudes de asesoría de las Coordinaciones Estatales en los juicios de amparo en que sean señaladas como parte, e intervengan en su substanciación, conforme a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, cuando dicha asesoría no esté conferida a otro servidor público del organismo.
+
+III. Llevar a cabo la atención de las solicitudes de asesoría de las Coordinaciones Estatales, respecto de las querellas o denuncias ante el Ministerio Público competente por los hechos probablemente constitutivos de delitos en los que las Coordinaciones Estatales resulten parte ofendida y en aquéllos en que tengan interés jurídico, cuando dicha asesoría no esté conferida a otro servidor público del organismo.
+
+IV. Atender las peticiones de asesoría en los conflictos que se susciten en la materia laboral en las Coordinaciones Estatales, asesorando en la formulación de la contestación de demandas laborales, articulación y absolución de posiciones, desistimientos o allanamientos y, en general, todas aquellas promociones que a dichos juicios se refieran, cuando dicha asesoría no esté conferida a otro servidor público del organismo.
+
+V. Dirigir la asesoría y opinión a las Coordinaciones Estatales, relativas a los procedimientos mediante los cuales se reclame indemnización por responsabilidad patrimonial del Estado, por hechos atribuibles a los establecimientos para la salud adscritos a las Coordinaciones Estatales, cuando dicha asesoría no esté conferida a otro servidor público del organismo.
+
 ###### Artículo 54.
 
 Son atribuciones de la División de Procedimientos Jurídicos las siguientes:
 
 I. Representar a las personas titulares de la Dirección General, así como de las unidades y coordinaciones previstas en este Estatuto, ante el Tribunal Federal de Justicia Administrativa o sus equivalentes en las entidades federativas e interponer los recursos procedentes, en términos de las disposiciones jurídicas aplicables.
 
-II. Dirigir la asesoría a las unidades administrativas que funjan como áreas contratantes y como administradoras de contratos, en la instrumentación de los procedimientos en que se proponga la rescisión, suspensión o terminación anticipada de los contratos derivados de las leyes reglamentarias del artículo 134 de la Constitución.
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+II. Dirigir la asesoría a las unidades administrativas que funjan como áreas contratantes y como administradoras de contratos, en la instrumentación de los procedimientos en que se proponga la rescisión, suspensión o terminación anticipada de los contratos derivados de las leyes reglamentarias del artículo 134 de la Constitución, así como en su caso, emitir la opinión correspondiente.
 
 III. Representar al IMSS-BIENESTAR, así como a las personas titulares de la Dirección General y de las unidades y coordinaciones previstas en el presente Estatuto, ante autoridades de carácter administrativo, judicial, electoral o de cualquier otra naturaleza, para dar atención a los juicios o procedimientos en que el organismo sea actor o demandado, tenga interés jurídico, legítimo o se le designe como parte, en las materias que no sean competencia de las divisiones de lo Laboral, Civil y Mercantil y de Amparo y Procedimientos Penales, o cuando dicha representación no esté conferida a otro servidor público del organismo.
 
@@ -3078,6 +3156,14 @@ CUARTO. El Hospital Regional de Alta Especialidad “Ciudad Salud” en Tapachul
 D.O.F. 15 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DE LA "MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)".]
+
+PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)”.]
 
 PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
 
