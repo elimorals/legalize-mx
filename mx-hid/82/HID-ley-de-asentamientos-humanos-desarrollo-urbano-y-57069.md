@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2024-06-05"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -489,7 +489,9 @@ XVIII.- Celebrar Convenios o Acuerdos con la Federación, el Estado, otros Munic
 
 XIX.- Constituir organismos de participación social y de consulta conforme a lo previsto en la presente Ley;
 
-XX.- Prestar los Servicios Públicos Municipales, atendiendo a lo previsto en los planes o programas de desarrollo urbano;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XX.- Prestar los Servicios Públicos Municipales, atendiendo a lo previsto en los planes o programas de desarrollo urbano, promoviendo la implementación y desarrollo de energías renovables en la prestación del servicio de alumbrado público;
 
 XXI.- Proporcionar la información de su competencia para la integración del Sistema de Información y Evaluación de Desarrollo Urbano del Estado de Hidalgo, observando lo dispuesto por la Ley de la materia;
 
@@ -2814,3 +2816,9 @@ P.O. 5 DE JUNIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 958 POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9 DE LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
