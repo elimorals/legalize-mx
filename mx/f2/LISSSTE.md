@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2024-04-30"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -658,9 +658,23 @@ I. La o el cónyuge del Trabajador o Pensionado, o a falta de éstos la concubin
 
 II. Los hijos menores de dieciocho años de ambos o de sólo uno de los cónyuges, siempre que dependan económicamente de alguno de ellos;
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Del mismo derecho gozarán las y los menores de dieciocho años, sobre quienes el asegurado o pensionado ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial;
+
 III. Los hijos solteros mayores de dieciocho años, hasta la edad de veinticinco, previa comprobación de que están realizando estudios de nivel medio superior o superior, de cualquier rama del conocimiento en planteles oficiales o reconocidos, y que no tengan un trabajo;
 
-IV. Los hijos mayores de dieciocho años incapacitados física o psíquicamente, que no puedan trabajar para obtener su subsistencia, lo que se comprobará mediante certificado médico expedido por el Instituto y por los medios legales procedentes, y
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Del mismo derecho gozarán las y los mayores de dieciocho años, sobre quienes el asegurado o pensionado ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial y reúnan, en su caso, los requisitos del párrafo anterior;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE JUNIO DE 2024)</small>
+
+IV. Los hijos mayores de dieciocho años incapacitados física o psíquicamente, que no puedan trabajar para obtener su subsistencia, lo que se comprobará mediante certificado médico expedido por el Instituto y por los medios legales procedentes.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Del mismo derecho gozarán las y los mayores de dieciocho años, sobre quienes el asegurado o pensionado ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial y reúnan, en su caso, los requisitos del párrafo anterior, y
 
 V. Los ascendientes que dependan económicamente del Trabajador o Pensionado.
 
@@ -3621,3 +3635,11 @@ Dichos recursos serán transferidos por el Fondo de Pensiones para el Bienestar 
 DÉCIMO PRIMERO. Dentro de los 30 días hábiles siguientes de la entrada en vigor del presente Decreto, la Comisión Nacional del Sistema de Ahorro para el Retiro deberá modificar las disposiciones de carácter general a las que se refiere el artículo 37 A de la Ley de los Sistemas de Ahorro para el Retiro a fin de que se incluya permanentemente en los estados de cuenta que emiten las administradoras de fondo para el retiro, el saldo relacionado con los recursos de las Subcuentas de Retiro, Cesantía en Edad Avanzada y Vejez, así como los recursos de vivienda que, en su caso, sean transferidos al Fondo de Pensiones para el Bienestar.
 
 En el mismo plazo señalado en el párrafo anterior, el Instituto Nacional de la Vivienda para los Trabajadores deberá modificar sus canales de atención digital para dar a conocer permanentemente a los derechohabientes el saldo de su subcuenta de vivienda que, en su caso, sea transferido al Fondo de Pensiones para el Bienestar.
+
+D.O.F. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL Y DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado deberán considerar el presente Decreto a fin de realizar los ajustes necesarios a sus disposiciones normativas.
