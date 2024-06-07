@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2024-05-30"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -418,6 +418,12 @@ V.- Establecer las bases para la planeación y la concertación de acciones entr
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
 VI.- Impulsar la atención integral e institucional de los sectores público y privado, con enfoque interseccional, de conformidad a los ordenamientos de regulación y vigilar el funcionamiento de los programas y servicios de acuerdo a las características de este grupo social;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VI Bis.- Promover que los sectores público, privado y social que brinden servicios a las personas adultas mayores mediante el uso de las tecnologías de la información y la comunicación, les otorguen apoyo y asesoría directa, cuando sea requerida por la persona adulta mayor.
+
+En su caso, estos sectores podrán contar con módulos de orientación presencial dirigidos a las personas adultas mayores para la realización de los trámites correspondientes, procurando dar la mayor difusión posible.
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -867,6 +873,10 @@ II.- Autorizar al Presidente Municipal para que en representación del Municipio
 
 III.- Promover que en las nuevas construcciones que se realicen por el sector público y privado, con fines de uso comunitario, recreación o de cualquier otra naturaleza, cuenten con las adecuaciones necesarias que permitan el libre desplazamiento con seguridad de las personas adultas mayores;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+III Bis.- Formular y desarrollar programas municipales de enseñanza y capacitación digital para las personas adultas mayores, orientados al aprendizaje del uso de las nuevas herramientas tecnológicas;
+
 > <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
 
 IV.- Promover la creación de Consejos Municipales para la atención de las personas adultas mayores; y
@@ -1150,3 +1160,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 934 POR EL QUE SE ADICIONA EL ARTÍCULO 31 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 957 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
