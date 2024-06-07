@@ -4,7 +4,7 @@ identifier: "LDRS"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-07"
-last_updated: "2024-04-01"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22550&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDRS"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 7 de diciembre de 2001.
 
@@ -62,7 +62,9 @@ I. Actividades Agropecuarias. Los procesos productivos primarios basados en recu
 
 II. Actividades Económicas de la Sociedad Rural. Las actividades agropecuarias y otras actividades productivas, industriales, comerciales y de servicios;
 
-III. Agentes de la Sociedad Rural. Personas físicas o morales de los sectores social y privado que integran a la sociedad rural;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+III. Agentes de la Sociedad Rural. Personas físicas o morales de los sectores social y privado que integran a la sociedad rural, incluyendo a los participantes en la producción, transporte, distribución y comercialización de productos, insumos y fertilizantes;
 
 IV. Agroforestal (Uso). La combinación de agricultura y ganadería conjuntamente con el cultivo y aprovechamiento de especies forestales;
 
@@ -159,6 +161,10 @@ V. Valorar las diversas funciones económicas, ambientales, sociales y culturale
 ###### Artículo 6o.
 
 Tendrán carácter prioritario las acciones que el Estado, a través de los tres órdenes de gobierno y en los términos de las leyes aplicables, realice en el medio rural. En dichas acciones, que se efectuarán bajo los criterios de equidad social y de género, integralidad, productividad y sustentabilidad, podrán participar los sectores social y privado.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Se declara de interés social y orden público la cadena de producción de fertilizantes en el país.
 
 Los compromisos y responsabilidades que en materia de esta Ley, el Gobierno Federal acuerde frente a los particulares y a los otros órdenes de gobierno, deberán quedar establecidos en el Plan Nacional de Desarrollo y en los programas sectoriales y especiales aplicables y se atenderán en los términos que proponga el Ejecutivo Federal y apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación.
 
@@ -556,15 +562,21 @@ V. El fomento de la sanidad vegetal, la salud animal y la inocuidad de los produ
 
 VI. El fomento de la eficacia de los procesos de extracción o cosecha, acondicionamiento con grados de calidad del producto, empaque, acopio y comercialización;
 
-VII. El fortalecimiento de los servicios de apoyo a la producción, en particular el financiamiento, el aseguramiento, el almacenamiento, el transporte, la producción y abasto de insumos y la información económica y productiva;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+VII. El fortalecimiento de los servicios de apoyo a la producción, en particular el financiamiento, el aseguramiento, el almacenamiento, el transporte, la producción y abasto de insumos y fertilizantes, y la información económica y productiva;
 
 VIII. El fomento a los sistemas familiares de producción;
 
 IX. El impulso a la industria, agroindustria y la integración de cadenas productivas, así como el desarrollo de la infraestructura industrial en el medio rural;
 
-X. El impulso a las actividades económicas no agropecuarias en el que se desempeñan los diversos agentes de la sociedad rural;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-XI. La creación de condiciones adecuadas para enfrentar el proceso de globalización;
+X. El impulso a las actividades económicas no agropecuarias en las que se desempeñan los diversos agentes de la sociedad rural, promoviendo la inversión de los sectores social y privado;
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+XI. La creación de condiciones adecuadas para enfrentar el proceso de globalización, disminuyendo la importación de insumos y fertilizantes del extranjero;
 
 XII. La valorización y pago de los servicios ambientales;
 
@@ -2099,3 +2111,11 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 3o.; 6o. Y 32 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan las disposiciones que se opongan al presente Decreto.
