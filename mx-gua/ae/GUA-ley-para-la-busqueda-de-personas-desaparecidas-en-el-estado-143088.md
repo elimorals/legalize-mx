@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado-143
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-03"
-last_updated: "2023-11-20"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en la segunda parte del Número 111 del Periódico Oficial del Estado de Guanajuato, el miércoles 3 de junio de 2020.
 
@@ -451,9 +451,15 @@ VII-4. Atender otros registros para su operación, en términos de lo que prevea
 
 VII-5. Generar los mecanismos con perspectiva de género para garantizar la protección a la integridad física de los familiares, Colectivos de Búsqueda y cualquier persona involucrada en la búsqueda;
 
-VIII. Atender y en su caso ampliar los lineamientos que regulen la participación de los familiares en las acciones de búsqueda; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-IX. Las demás que se requieran para el cumplimiento de los objetivos de la Ley General y esta Ley.
+VIII. Atender y en su caso ampliar los lineamientos que regulen la participación de los familiares en las acciones de búsqueda;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IX. Promover la articulación interinstitucional, para la atención y seguimiento preferente de la salud física y mental de los familiares, grupos independientes de búsqueda y toda persona involucrada en el proceso de búsqueda de personas desaparecidas, independientemente si los padecimientos se generaron a partir del hecho victimizante; y
+
+X. Las demás que se requieran para el cumplimiento de los objetivos de la Ley General y esta Ley.
 
 El Sistema Estatal deberá conducir todas sus decisiones, actividades y políticas de conformidad con los principios establecidos en el artículo 4 de esta Ley.
 
@@ -2037,7 +2043,9 @@ III. Acceder, directamente o mediante sus representantes, a los expedientes que 
 
 IV. Obtener copia simple gratuita de las diligencias que integren los expedientes de búsqueda;
 
-V. Acceder a las medidas de ayuda, asistencia y atención, particularmente aquellas que faciliten su participación en acciones de búsqueda, incluidas medidas de apoyo psicosocial;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+V. Acceder a las medidas de ayuda, asistencia y atención con enfoque diferencial y con perspectiva de género, particularmente aquellas que faciliten su participación en acciones de búsqueda, incluidas medidas de apoyo psicosocial y participar de las estrategias de la articulación interinstitucional para la atención y seguimiento preferente de la salud física y mental;
 
 VI. Acceder a asesoría jurídica gratuita en términos de lo que determine la Comisión de Víctimas;
 
@@ -2346,3 +2354,9 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. La titular del Instituto para las Mujeres Guanajuatenses se integrará al Sistema Estatal de Búsqueda de Personas y al Sistema Estatal de Atención Integral a Víctimas de Guanajuato dentro de los quince días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 305 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 23 Y LA FRACCIÓN V DEL ARTÍCULO 108 Y, SE ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 23 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
