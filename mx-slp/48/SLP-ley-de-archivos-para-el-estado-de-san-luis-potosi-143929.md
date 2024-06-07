@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-archivos-para-el-estado-de-san-luis-potosi-143929"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-19"
-last_updated: "2024-02-20"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 19 de junio de 2020.
 
@@ -827,41 +827,57 @@ II. La persona titular de la Secretaría General de Gobierno;
 
 III. La persona titular de la Contraloría General del Estado;
 
-IV. El Coordinador de Archivos del Poder Judicial;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-V. El Coordinador de Archivos del Poder Legislativo;
+IV. La persona titular de la Coordinación de Archivos del Poder Judicial;
 
-VI. Un representante de la Universidad Autónoma de San Luis Potosí;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-VII. El Coordinador de Archivos de la Comisión Estatal de Derechos Humanos;
+V. La persona titular de la Coordinación de Archivos del Poder Legislativo;
 
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-VIII. La persona titular de la Auditoría Superior del Estado;
+VI. Una persona representante de la Universidad Autónoma de San Luis Potosí;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VII. La persona titular de la Coordinación de Archivos de la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VIII. La persona titular del Instituto de Fiscalización Superior del Estado de San Luis Potosí;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE FEBRERO DE 2024)</small>
 
 IX. La persona titular del Archivo Histórico del Estado;
 
-> <small>(ADICIONADA, P.O. 6 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-X. Un representante del Consejo Técnico y Científico Archivístico.
+X. Una persona representante de los archivos privados, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XI. Un representante del Consejo Técnico.
+XI. Una persona representante del Consejo Técnico y Científico Archivístico.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2024)</small>
 
 La designación de la coordinación de los archivos privados referidos en la fracción X de este artículo, será a través de convocatoria que emita el Consejo Estatal de Archivos en la que se establezcan las bases para seleccionar al coordinador de los mismos, estableciendo como mínimo los requisitos siguientes: que formen parte del Registro Nacional, una asociación civil legalmente constituida con al menos diez años previos a la convocatoria, cuyo objeto social sea relacionado con la conservación de archivos y que cuente con la representación de al menos cinco archivos privados.
 
-El Presidente o a propuesta de alguno de los integrantes del Consejo Estatal de Archivos, podrá invitar a las sesiones de éste a las personas que considere pertinentes, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-Serán invitados permanentes del Consejo estatal con voz pero sin voto, los órganos a los que la Constitución Local reconoce autonomía, quienes designarán un representante.
+El Consejo Estatal de Archivos a propuesta de su presidenta o presidente, o de cualquiera de sus integrantes, podrá invitar a las sesiones de éste a las personas que considere pertinentes, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
 
-Los consejeros, en sus ausencias, podrán nombrar un suplente ante el Consejo Estatal de Archivos, el cual deberá tener, en su caso la jerarquía inmediata inferior a la del consejero titular.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-Los miembros del Consejo Estatal de Archivos no recibirán remuneración alguna por su participación.
+Serán invitados permanentes del Consejo estatal con voz pero sin voto, los órganos a los que la Constitución Local reconoce autonomía, quienes designarán a su representante.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Las consejeras y los consejeros, en sus ausencias, podrán nombrar un suplente ante el Consejo Estatal de Archivos, el cual deberá tener, en su caso, la jerarquía inmediata inferior a la de la consejera o consejero titular.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Las personas integrantes del Consejo Estatal de Archivos no recibirán remuneración alguna por su participación en el Consejo.
 
 ###### ARTÍCULO 68.
 
@@ -1536,3 +1552,11 @@ SEGUNDO. La Junta Gobierno del Archivo General del Estado deberá expedir su Reg
 TERCERO. La Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, deberá entregar al Archivo General del Estado y, al Archivo Histórico del Estado, en su caso, conforme a la competencia de cada uno de éstos, las copias de inventarios de expedientes, así como los documentos de archivo, y demás instrumentos que haya recibido, administrado o generado en ejercicio de su función como autoridad en materia de archivos.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1049.- SE REFORMA EL ARTÍCULO 67 EN SUS FRACCIONES IV, V, VI, VII, VIII, X Y XI Y EN SUS PÁRRAFOS TERCERO, CUARTO, QUINTO Y SEXTO, DE LA LEY DE ARCHIVOS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
