@@ -4,7 +4,7 @@ identifier: "GUA-ley-del-sistema-de-seguridad-publica-del-estado-de-103697"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-25"
-last_updated: "2023-12-21"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "GUA"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 20 DE JUNIO DE 2024 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de noviembre de 2014.
 
@@ -2281,7 +2283,9 @@ Registro Estatal de Licencias y de Infracciones
 
 1. La Secretaría, a través de la unidad administrativa que señale su Reglamento Interior, administrará el registro estatal de licencias y de infracciones, el cual tiene por finalidad contar con información oportuna y suficiente para prevenir accidentes de tránsito, así como para detectar a los infractores reincidentes.
 
-El registro estatal de licencias y de infracciones deberá ser permanentemente actualizado con los datos que genere la propia unidad administrativa y los que le sean proporcionados por los municipios de la entidad.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+El Registro Estatal de licencias y de infracciones deberá ser permanentemente actualizado con los datos que generen la propia unidad administrativa, los que le sean proporcionados por los municipios de la entidad, los que le sean proporcionados por las autoridades jurisdiccionales competentes, y los que se generen en el Registro Nacional de Obligaciones Alimentarias.
 
 Este registro contendrá como mínimo:
 
@@ -2319,11 +2323,35 @@ c) Tipo «C». Que autoriza a su titular a conducir, además de las unidades con
 
 d) Tipo «D». Que autoriza a su titular a conducir motocicletas, motonetas y otros vehículos similares; este tipo no autoriza a conducir ningún vehículo de los considerados en los incisos anteriores.
 
-III. Los permisos de conducir se podrán expedir a las personas mayores de quince años y menores de dieciocho, con las modalidades, requisitos y condiciones que señale la Secretaría; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-IV. Las personas con discapacidad o movilidad reducida que cuenten con las habilidades y aptitudes necesarias para conducir cualquiera de los vehículos automotores de servicio particular, tendrán derecho a que se les expida la licencia o permiso para conducir correspondiente, satisfaciendo los requisitos y condiciones que señale la Secretaría.
+III. Los permisos para conducir se podrán expedir a las personas a partir de los quince años cumplidos y hasta antes de cumplir los dieciocho años, con las modalidades, requisitos y condiciones que señale la Secretaría;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IV. Requisitos y condiciones que garanticen que las personas con discapacidad en su diversidad puedan presentar sus exámenes en formatos y vehículos accesibles y obtener su licencia y permisos en igualdad de condiciones;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+V. Contenidos de los exámenes de valoración integral teórico y práctico de conocimientos y habilidades necesarias, atendiendo a los diferentes tipos de licencias y permisos, así como los requisitos de emisión y renovación; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VI. Protocolos para realizar los exámenes, así como para su evaluación.
 
 La Secretaría, mediante las disposiciones técnicas que emita su titular, normará las características, requisitos, condiciones y modalidades para el cumplimiento de las atribuciones contenidas en este artículo, que resulten necesarias conforme al interés público.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Acreditación y obtención de licencias y permisos de conducir
+
+###### Artículo 127
+
+3. Las personas que realicen el trámite para obtener una licencia o permiso de conducir deberán acreditar el examen de conocimientos y habilidades que demuestre su aptitud para ello antes de la expedición de la licencia o permiso para conducir.
+
+Las licencias tendrán una vigencia máxima de cinco años de forma general y en el caso de permisos para conducir expirarán hasta que se cumplan los 18 años de edad.
+
+Las licencias que se expidan podrán ser impresas en material plástico o de forma digital, mediante aplicaciones tecnológicas, mismas que permitirán la acreditación de las habilidades y requisitos correspondientes para la conducción del tipo de vehículo de que se trate.
 
 Obligatoriedad de inscripción en el Registro de Personal de Seguridad Pública
 
@@ -3298,3 +3326,27 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Adecuaciones reglamentarias y presupuesto
 
 SEGUNDO. El titular del Poder Ejecutivo y los ayuntamientos, en el ámbito de sus respectivas competencias y en un plazo no mayor de 180 días contados a partir de la entrada en vigor de este Decreto, deberán realizar la emisión o actualización reglamentaria correspondiente, así como asignar de manera progresiva recursos presupuestales necesarios para garantizar la implementación de la infraestructura, insumos, acciones y actividades de la unidad canina y equina conforme las reformas aprobadas.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO 310 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA DE LA (SIC) LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS. SE REFORMA EL ARTÍCULO 298, EN SU CUARTO PÁRRAFO, DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO. SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 127-2; Y SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 127-2 Y UN ARTÍCULO 127-3 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Derogación tácita
+
+Artículo Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Conformación del Primer Consejo
+
+Artículo Tercero. La sesión de conformación del Primer Consejo Estatal de Movilidad y Seguridad Vial, será convocada previo acuerdo con la persona Titular del Ejecutivo, por el Secretario de Infraestructura, Conectividad y Movilidad, dentro de los 90 días siguientes, contados a partir del 26 de septiembre de 2024, de conformidad con el artículo 71 de la Constitución Política para el Estado de Guanajuato.
+
+Sesión de Conformación del Consejo
+
+Artículo Cuarto. La sesión de conformación del Consejo de Movilidad y Seguridad Vial será convocada por el titular de la Secretaría, las subsecuentes convocatorias se harán a través de la Secretaría Técnica.
+
+Plazo para las adecuaciones reglamentarias
+
+Artículo Quinto. A partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para su cumplimiento, en un plazo que no exceda de ciento ochenta días. En tanto se expiden, continuarán vigentes los actuales.
