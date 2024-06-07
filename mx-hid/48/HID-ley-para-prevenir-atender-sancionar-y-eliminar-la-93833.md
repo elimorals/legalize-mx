@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2024-05-30"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -155,7 +155,13 @@ b) Destinatarias: Personas y grupos en situación de vulnerabilidad, desventaja 
 
 c) Conducta exigible: Abarca una amplia gama de instrumentos, políticas y prácticas de índole legislativa, ejecutiva, administrativa y reglamentaria. La elección de una acción dependerá del contexto en que se aplique y del objetivo a lograr. La figura más conocida de las acciones afirmativas son las políticas de cuotas o cupos;
 
-Las acciones afirmativas podrán incluir, entre otras, las medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación y subrepresentados, en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas. Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos indígenas, afro descendientes, mujeres, niñas, niños y adolescentes, personas con discapacidad y personas adultas mayores;
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Las acciones afirmativas podrán incluir, entre otras, las medidas para favorecer el acceso, permanencia y promoción de personas pertenecientes a grupos en situación de discriminación y subrepresentados, en espacios educativos, laborales y cargos de elección popular a través del establecimiento de porcentajes o cuotas. Las acciones afirmativas serán prioritariamente aplicables hacia personas pertenecientes a los pueblos indígenas, afro descendientes, mujeres, niñas, niños y adolescentes, personas con discapacidad, personas adultas mayores y personas integrantes de la diversidad sexo genérica;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+II Bis. Bifobia: Rechazo, discriminación, invisibilización, burlas y otras formas de violencia basadas en prejuicios y estigmas hacia las personas bisexuales o que parecen serlo;
 
 III. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas en la infraestructura y los servicios, que al realizarlas no impongan una carga desproporcionada o afecten derechos de terceros, que se aplican cuando se requieran en un caso particular, para garantizar que las personas gocen o ejerzan sus derechos en igualdad de condiciones con las demás;
 
@@ -163,15 +169,29 @@ IV. Comisión: Comisión de Derechos Humanos del Estado de Hidalgo;
 
 V. Derechos Humanos: Conjunto de bienes, potestades, derechos, libertades públicas, universales e imprescriptibles que son indispensables para lograr el pleno desarrollo y la satisfacción de necesidades o exigencias propias y efectivamente humanas;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+V Bis. Discurso de Odio: cualquier forma de comunicación de palabra, por escrito o a través del comportamiento, que sea un ataque o utilice lenguaje peyorativo o discriminatorio en relación con una persona o un grupo en razón de su religión, origen étnico, nacionalidad, raza, color, ascendencia, género u otro factor de identidad.
+
 VI. Diseño Universal: Principio sustentado en el establecimiento de productos, entornos, programas y servicios que puedan ser utilizados por todas las personas, en la mejor medida posible, sin necesidad de adaptación o diseño especializado.
 
 VII. Estado: Estado Libre y Soberano de Hidalgo;
 
-VIII. Homofobia: Odio y/o rechazo hacia la homosexualidad; el miedo o negativa que surge de la misma pueden provocar la exclusión y hasta la criminalización de aquellas personas que su orientación sexual e identidad de género sea distinta a la de la heterosexualidad;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VIII. Homofobia: Rechazo, discriminación, invisibilización, burlas y otras formas de violencia basadas en prejuicios, estereotipos y estigmas hacia la homosexualidad o hacia las personas con orientación o preferencia homosexual, o que son percibidas como tales.
 
 IX. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
 X. Instrumentos Internacionales: Tratados, Convenios y Convenciones, suscritos por el Estado Mexicano;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+X Bis. Intersexfobia: Rechazo, discriminación, invisibilización, burlas y otras formas de violencia basadas en prejuicios y estigmas hacia las características sexuales diversas que transgreden la idea del binarismo sexual, derivados de las concepciones culturales hegemónicas.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+X Ter. Lesbofobia: Rechazo, discriminación, invisibilización, burlas y otras formas de violencia basadas en prejuicios, estereotipos y estigmas hacia las mujeres lesbianas o que son percibidas como tales, hacia sus identidades sexuales o hacia las prácticas sociales identificadas como lésbicas.
 
 XI. Ley: Ley para Prevenir, Atender, Sancionar y Eliminar la Discriminación en el Estado de Hidalgo;
 
@@ -188,6 +208,10 @@ XVI. Servidores Públicos: Los señalados como tales en la Constitución Políti
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
 
 XVI Bis. Tecnologías de la Información y la Comunicación: Aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVI Bis (SIC). Transfobia: Rechazo, discriminación, invisibilización, burlas, no reconocimiento de la identidad y/o expresión de género de la persona y otras formas de violencia basadas en prejuicios, estereotipos y estigmas hacia las personas con identidades, expresiones y experiencias trans, o que son percibidas como tales.
 
 XVII. Violencia Institucional: Actos u omisiones de servidores públicos que discriminan o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos y libertades fundamentales de las personas, grupos o comunidades;
 
@@ -219,11 +243,11 @@ VIII. Transparencia y acceso a la información.
 
 ### CAPÍTULO II.. DE LA DISCRIMINACIÓN
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 11.
 
-La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, con intención o sin ella basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social, económica, de salud física, de salud mental, jurídica, embarazo, lengua, idioma, cultura, religión, opiniones, preferencia sexual, estado civil, situación familiar, responsabilidades familiares, identidad o filiación política, apariencia física, color de piel, forma de vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, características genéticas, situación migratoria, embarazo, lactar en espacios públicos, privados y laborales, los antecedentes penales o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
+La discriminación, es toda conducta activa u omisiva que en forma de preferencia, distinción, exclusión, repudio, desprecio, rechazo o restricción, dirigida a una persona o grupo, con intención o sin ella basada en su origen o identidad indígena o nacional, sexo o género, edad, discapacidad, condición social, económica, de salud física o mental, jurídica, embarazo, lengua, idioma, cultura, religión, opiniones, orientación sexual, identidad de género, expresión de género, estado civil, situación familiar, responsabilidades familiares, identidad o filiación política, apariencia física color de piel, forma de vestir, actuar, gesticular, por tener tatuajes o perforaciones corporales, características genéticas, situación migratoria, embarazo, lactar en espacios públicos, privados y laborales, los antecedentes penales o cualquier otra que tenga por efecto negar, obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce y/o ejercicio de sus derechos humanos y libertades, en condiciones de equidad e igualdad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2024)</small>
 
@@ -287,9 +311,9 @@ XII. Aplicar o permitir usos o costumbres que atenten contra la igualdad, dignid
 
 XIII. Impedir la libre elección de cónyuge, concubina, concubinario o pareja;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XIV. Promover el odio y la violencia a través de mensajes e imágenes en los medios de comunicación, incluidas las tecnologías de la información y comunicación;
+XIV. Generar y promover la homofobia, lesbofobia, bifobia, transfobia, intersexfobia o el discurso de odio, por cualquier medio;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1462,3 +1486,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 940 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 954 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
