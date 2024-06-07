@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2023-11-20"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -2592,6 +2592,10 @@ III. La renovación urbana;
 IV. La consolidación urbana; y
 
 V. Determinar la zonificación y el diseño urbano del área, regular los usos y destinos del suelo urbano, en los centros de población menores a dos mil quinientos habitantes.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Cuando los municipios cuenten con barrios, comunidades o localidades rurales que, por su valor histórico, artístico o por el desarrollo de actividades económicas, sean de importancia para la identidad del Municipio, estos promoverán la elaboración de programas parciales y polígonos de actuación para el crecimiento, mejoramiento y conservación de dichos centros de población.
 
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -5739,7 +5743,9 @@ Además de lo dispuesto en el párrafo anterior, la estructura vial para la movi
 
 Las banquetas y ciclovías deberán formar una red para el desplazamiento seguro de peatones y ciclistas dentro del centro de población.
 
-En la construcción y mejoramiento de las vialidades urbanas se deberá prever la creación de conexiones peatonales y ciclistas apropiadas con los paraderos y sitios del transporte público.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Los proyectos de nuevas vialidades urbanas, semiurbanas y rurales, o de rediseño de las existentes deberán considerar asignar secciones adecuadas a personas peatonas, carriles exclusivos para vehículos no motorizados y carriles exclusivos al transporte público, cuando se trate de un corredor de alta demanda o el contexto así lo amerite.
 
 Los reglamentos municipales determinarán las características, dimensiones y normas técnicas de construcción, diseño y seguridad de las banquetas y ciclovías, aplicables a cada tipo de vialidad urbana.
 
@@ -6689,7 +6695,17 @@ Registro de los peritos
 
 Los peritos deberán tramitar y obtener su inscripción en el registro que para tal efecto lleve la unidad administrativa municipal y deberán actualizar su vigencia cada dos años.
 
-Para acreditar la experiencia en la materia, los peritos presentarán a la unidad administrativa municipal las constancias de la capacitación recibida, impartida por instituciones de educación superior o tecnológica y, en su caso, la certificación de competencias ocupacionales y laborales que corresponda a la clasificación respectiva.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Para acreditar la experiencia en la materia, los peritos presentarán a la unidad administrativa municipal las constancias de la capacitación recibida, las cuales deberán estar vinculadas al ejercicio profesional de acuerdo con las funciones a desarrollar en apego a la clasificación establecida en el artículo 385 del presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+La experiencia se podrá comprobar con la certificación profesional respectiva o la certificación de competencias ocupacionales y laborales que corresponda a la clasificación de peritos en términos de este Código.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+La certificación profesional, así como su refrendo se sujetará a las disposiciones que al efecto emita la Secretaría de Educación, en los términos establecidos por la Ley de Profesiones para el Estado de Guanajuato y su Reglamento.
 
 El trámite y obtención de la inscripción en el registro a que se refiere este artículo no podrá condicionarse, en forma alguna, a la afiliación a cualquier organización, colegio o cámara.
 
@@ -9322,3 +9338,43 @@ Artículo Segundo. Los ayuntamientos contarán con un término de 180 días para
 Regularización de procesos de manera progresiva
 
 Artículo Tercero. Las dependencias o entidades municipales competentes y los desarrolladores realizarán de manera progresiva las acciones tendientes a regularizar la situación de los fraccionamientos o desarrollos en condominio que se encuentren en los supuestos expresados en el presente decreto.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 307 MEDIANTE EL CUAL SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 73 BIS 2 DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia del Decreto
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 310 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA DE LA LEY DE MOVILIDAD DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS. SE REFORMA EL ARTÍCULO 298, EN SU CUARTO PÁRRAFO, DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO. SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 127-2; Y SE ADICIONAN LAS FRACCIONES V Y VI AL ARTÍCULO 127-2 Y UN ARTÍCULO 127-3 DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Derogación tácita
+
+Artículo Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+Conformación del Primer Consejo
+
+Artículo Tercero. La sesión de conformación del Primer Consejo Estatal de Movilidad y Seguridad Vial, será convocada previo acuerdo con la persona Titular del Ejecutivo, por el Secretario de Infraestructura, Conectividad y Movilidad, dentro de los 90 días siguientes, contados a partir del 26 de septiembre de 2024, de conformidad con el artículo 71 de la Constitución Política para el Estado de Guanajuato.
+
+Sesión de Conformación del Consejo
+
+Artículo Cuarto. La sesión de conformación del Consejo de Movilidad y Seguridad Vial será convocada por el titular de la Secretaría, las subsecuentes convocatorias se harán a través de la Secretaría Técnica.
+
+Plazo para las adecuaciones reglamentarias
+
+Artículo Quinto. A partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado adecuará y expedirá los reglamentos y demás disposiciones para su cumplimiento, en un plazo que no exceda de ciento ochenta días. En tanto se expiden, continuarán vigentes los actuales.
+
+P.O. 7 DE JUNIO DE 2024.
+
+> <small>[N. DE E. TRASITORIO DEL “DECRETO LEGISLATIVO 315 MEDIANTE EL CUAL SE REFORMA EL SEGUNDO PÁRRAFO; Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO, PASANDO EL VIGENTE PÁRRAFO TERCERO COMO QUINTO, AL ARTÍCULO 388 DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]</small>
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
