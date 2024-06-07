@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2024-05-30"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -1397,9 +1397,9 @@ V.- Promover planes y programas coordinados con los organismos públicos y priva
 
 VI.- Coadyuvar con las autoridades educativas en la aplicación de una educación ambiental en torno a la cultura del agua;
 
-> <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-VII.- Promover la utilización de sistemas, mecanismos o dispositivos de control e infiltración de agua pluvial;
+VII.- Deberán utilizar los sistemas, mecanismos o dispositivos de control e infiltración de agua pluvial; y
 
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
@@ -1523,11 +1523,11 @@ La Comisión, tratándose de aguas estatales y con base en los estudios, los pla
 
 ### CAPITULO V BIS. DEL CONTROL E INFILTRACION DE AGUA PLUVIAL
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 103 Bis.
 
-El Ejecutivo del Estado y los Municipios, en el ámbito de sus atribuciones promoverán que, en la construcción de obras que generen superficies impermeables, se utilicen y/o instalen mecanismos, sistemas o dispositivos de control e infiltración de agua pluvial.
+El Ejecutivo del Estado y los Municipios, en el ámbito de sus atribuciones deberán garantizar que, en la construcción de obras que generen superficies impermeables, se utilicen y/o instalen mecanismos, sistemas o dispositivos de control e infiltración de agua pluvial.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
@@ -1687,7 +1687,9 @@ de 36"
 
 Las personas que utilicen los servicios públicos de manera clandestina deberán pagar las tarifas que correspondan a dichos servicios públicos y además, se harán acreedores a las sanciones administrativas que se señalan en esta Ley y en su caso, a las sanciones penales relativas.
 
-Detectado un servicio clandestino, el prestador del servicio correspondiente procederá de inmediato a suspender el servicio desde la red de distribución y a notificar al propietario o poseedor del inmueble respecto de los requisitos que debe cumplir, la multa correspondiente y el apercibimiento que de instalarse nuevamente el servicio sin estar contratado, se presentará denuncia penal en su contra por el delito de robo de fluidos y los que le resulten.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Detectado un servicio clandestino, el prestador del servicio correspondiente procederá de inmediato a suspender el servicio desde la red de distribución y a notificar al propietario o poseedor del inmueble respecto de los requisitos que debe cumplir, así como la multa correspondiente, independientemente de la denuncia penal por el delito de robo de fluidos y los que le resulten.
 
 ###### Artículo 123.
 
@@ -2131,9 +2133,21 @@ XI. El que emplee mecanismos para succionar agua de las tuberías de distribuci�
 
 XII. Los que construyan u operen sistemas para la prestación de los servicios públicos, sin la concesión correspondiente;
 
-XIII. Descargar en forma permanente, intermitente o fortuita aguas residuales en contravención a lo dispuesto en la presente Ley en cuerpos receptores estatales, sin perjuicio de las sanciones que fijen las disposiciones sanitarias y de equilibrio ecológico y protección al ambiente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XIV. Explotar, usar o aprovechar aguas residuales sin cumplir con las Normas Oficiales Mexicanas en materia de calidad y condiciones particulares establecidas para tal efecto y
+XIII. Descargar en forma permanente, intermitente o fortuita aguas residuales en contravención a lo dispuesto en la presente Ley al sistema de alcantarillado y drenaje y/o en cuerpos receptores estatales, sin perjuicio de las sanciones que fijen las disposiciones sanitarias y de equilibrio ecológico y protección al ambiente;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XIV. Explotar, usar o aprovechar aguas residuales sin cumplir con las Normas Oficiales Mexicanas en materia de calidad y condiciones particulares establecidas para tal efecto;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XIV Bis. No dar cumplimiento a la Norma Oficial Mexicana respecto a los límites máximos permisibles de contaminantes en las descargas de aguas residuales a los sistemas de alcantarillado urbano y Municipal;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XIV Ter. No dar cumplimiento a las medidas establecidas y preventivas para el control de descarga de agua residual, establecidas en esta Ley; y
 
 XV. Incurrir en cualquier otra violación a los preceptos de esta Ley y su Reglamento, distinta de las anteriores.
 
@@ -2382,3 +2396,19 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 939 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 953 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 956 POR EL QUE SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 84 QUINQUIES Y EL ARTÍCULO 103 BIS DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
