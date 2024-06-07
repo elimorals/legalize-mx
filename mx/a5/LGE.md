@@ -4,7 +4,7 @@ identifier: "LGE"
 country: "mx"
 rank: "ley_general"
 publication_date: "2019-09-30"
-last_updated: "2024-04-01"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138312&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Número 23 del Diario Oficial de la Federación, el lunes 30 de septiembre de 2019.
 
@@ -58,9 +58,11 @@ La distribución de la función social educativa del Estado, se funda en la obli
 
 El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el ejercicio de su derecho a la educación. Para tal efecto, garantizará el desarrollo de programas y políticas públicas que hagan efectivo ese principio constitucional.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 3.
 
-El Estado fomentará la participación activa de los educandos, madres y padres de familia o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo y, en general, de todo el Sistema Educativo Nacional, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regiones del país, a fin de contribuir al desarrollo económico, social y cultural de sus habitantes.
+El Estado fomentará la participación activa de los educandos, madres y padres de familia o tutores, maestras y maestros, los pueblos indígenas y afromexicanos, así como de los distintos actores involucrados en el proceso educativo y, en general, de todo el Sistema Educativo Nacional, para asegurar que éste extienda sus beneficios a todos los sectores sociales y regiones del país, a fin de contribuir al desarrollo económico, social y cultural de sus habitantes.
 
 ###### Artículo 4.
 
@@ -702,45 +704,77 @@ El Estado apoyará la difusión e investigación científica, humanística y tec
 
 La Secretaría, en coordinación con los organismos y autoridades correspondientes, y de acuerdo con lo dispuesto en las leyes en la materia, establecerá los mecanismos de colaboración para impulsar programas de investigación e innovación tecnológica en las distintas instituciones públicas de educación superior.
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE CAPÍTULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-### Capítulo VI. De la educación indígena
+### Capítulo VI. De la educación indígena, intercultural y plurilingüe
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 56.
 
-El Estado garantizará el ejercicio de los derechos educativos, culturales y lingüísticos a todas las personas, pueblos y comunidades indígenas o afromexicanas, migrantes y jornaleros agrícolas. Contribuirá al conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas nacionales como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
+El Estado garantizará el derecho de los pueblos y comunidades indígenas y afromexicanas, migrantes y jornaleros agrícolas a recibir educación inclusiva, humanista, equitativa, en igualdad de oportunidades, con la garantía de pertinencia y de no discriminación.
 
-La educación indígena debe atender las necesidades educativas de las personas, pueblos y comunidades indígenas con pertinencia cultural y lingüística; además de basarse en el respeto, promoción y preservación del patrimonio histórico y de nuestras culturas.
+Promoverá que la educación indígena contribuya a la generación del conocimiento, aprendizaje, reconocimiento, valoración, preservación y desarrollo tanto de la tradición oral y escrita indígena, como de las lenguas indígenas nacionales como medio de comunicación, de enseñanza, objeto y fuente de conocimiento.
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+Para dar cumplimiento a lo establecido en el párrafo anterior el Estado realizará de forma enunciativa más no limitativa, las siguientes acciones:
+
+I. Fortalecer las escuelas de educación indígena y afromexicana, los centros educativos integrales y las Casas y Comedores de la Niñez Indígena u homólogas, para que cumplan con las condiciones de infraestructura escolar en términos de la presente Ley y de las demás disposiciones aplicables.
+
+II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos y las comunidades indígenas y afromexicanas y promover la valoración de distintas formas de generar, interpretar y transmitir los conocimientos culturales, saberes, lenguas y tecnologías.
+
+III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de textos gratuitos en las lenguas del territorio nacional, garantizando la pertinencia de los mismos.
+
+IV. Fortalecer las instituciones públicas de formación docente en especial las normales bilingües interculturales, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen. Así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes.
+
+V. Tomar en consideración en la elaboración del contenido de los planes y programas de estudio los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas para favorecer la recuperación cotidiana de las expresiones y prácticas culturales de cada pueblo en la vida escolar.
+
+VI. Crear mecanismos, estrategias y programas para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con enfoque intercultural y plurilingüe.
+
+VII. Promover la conectividad y el acceso a las tecnologías de la información y comunicación de las escuelas de educación indígena y afromexicana, a través del acceso y la capacitación en su uso.
+
+VIII. Integrar y actualizar la información de la estadística educativa y el padrón de migración indígena, a fin de garantizar la pertinencia de la misma.
+
+IX. Establecer esquemas de coordinación entre las diferentes instancias de los tres niveles de gobierno para asegurar que existan programas de movilidad nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas y afromexicanas en un marco de inclusión y enriquecimiento de las culturas.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 57.
 
-Las autoridades educativas consultarán de buena fe y de manera previa, libre e informada, de acuerdo con las disposiciones legales nacionales e internacionales en la materia, cada vez que prevea medidas en materia educativa, relacionadas con los pueblos y comunidades indígenas o afromexicanas, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
+El Estado garantizará y promoverá el uso de las lenguas indígenas en el sistema de educación indígena, intercultural y plurilingüe. Nunca podrá justificarse la eliminación de esta garantía por motivo del bajo número de hablantes. Para lograr lo anterior se deberá cumplir con lo siguiente:
 
-La Secretaría deberá coordinarse con el Instituto Nacional de los Pueblos Indígenas y el Instituto Nacional de Lenguas Indígenas para el reconocimiento e implementación de la educación indígena en todos sus tipos y niveles, así como para la elaboración de planes y programas de estudio y materiales educativos dirigidos a pueblos y comunidades indígenas.
+I. Emplear las lenguas indígenas en la formación docente, así como en la instauración de unidades de enseñanza aprendizaje, currícula de estudio, contenidos y materiales didácticos.
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+II. Establecer propósitos de enseñanza aprendizaje de carácter lingüístico en el plan curricular que contenga la lengua del pueblo o comunidad en la cual se localiza la escuela y se establezca una estrecha vinculación con la comunidad para fortalecer los conocimientos.
+
+III. Garantizar la participación de personas con conocimiento pedagógico y dominio didáctico de la lengua indígena para que formen parte del proceso educativo, de preferencia de su comunidad de adscripción.
+
+IV. Promover que las autoridades escolares, personal docente, técnico y de servicios de apoyo de las escuelas en comunidades indígenas deba ser hablante de la lengua indígena del lugar, zona o región donde presta sus servicios.
+
+V. Promover la interculturalidad a través del intercambio de conocimientos culturales y saberes de las diversas variantes lingüísticas.
+
+VI. Diseñar contenido multimedia que podrá vincularse con los contenidos en papel que se encuentren en los libros de textos. Esta vinculación se puede hacer de acuerdo con la planeación correspondiente y recurriendo a recursos y herramientas como los códigos de respuesta rápida, páginas de Internet y aplicaciones móviles.
+
+Para las lenguas indígenas que no cuenten con ningún tipo de presencia, se deben realizar acciones afirmativas para incluirlas en los programas de estudio. Las lenguas indígenas que ya tengan presencia en el sistema actual de educación, se deben fortalecer y consolidar su uso.
+
+La educación indígena, intercultural y plurilingüe deberá ser considerada prioritaria en el Plan Nacional de Desarrollo como parte de las obligaciones establecidas por el artículo 20 Bis de la Ley de Planeación.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 57 Bis.
+
+El Estado está obligado a documentar, investigar y difundir la tradición oral, escrita y los conocimientos ancestrales de cada comunidad indígena y afromexicana. En el cumplimiento de dicho deber, la comunidad participará y tendrá un papel central en la identificación de dichas tradiciones orales, escritas y de conocimientos ancestrales. Estas tradiciones no deberán estar limitadas a una lengua indígena.
+
+Una vez identificadas las tradiciones orales, escritas, conocimientos culturales y saberes, se deberán incluir como parte de los contenidos centrales de la educación pública dentro de cada comunidad indígena o afromexicana.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 58.
 
-Para efectos de dar cumplimiento a lo dispuesto en este Capítulo, las autoridades educativas realizarán lo siguiente:
+Las autoridades educativas consultarán de manera previa, libre, informada, culturalmente adecuada y de buena fe, de acuerdo con las disposiciones legales nacionales e internacionales vigentes en la materia, cada vez que se adopten medidas susceptibles de afectar a los pueblos y comunidades indígenas y afromexicanas, en materia educativa, respetando su autodeterminación en los términos del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos.
 
-I. Fortalecer las escuelas de educación indígena, los centros educativos integrales y albergues escolares indígenas, en especial en lo concerniente a la infraestructura escolar, los servicios básicos y la conectividad;
+Para el cumplimiento de lo establecido en el párrafo anterior, la Secretaría se coordinará con el Instituto Nacional de los Pueblos Indígenas, el Instituto Nacional de las Lenguas Indígenas, la Comisión para la Mejora Continua de la Educación, así como sus homólogas en las entidades federativas para coadyuvar en los procesos de consulta relativas a las acciones que afecten a los pueblos y comunidades indígenas y afromexicanas.
 
-II. Desarrollar programas educativos que reconozcan la herencia cultural de los pueblos indígenas y comunidades indígenas o afromexicanas, y promover la valoración de distintas formas de producir, interpretar y transmitir el conocimiento, las culturas, saberes, lenguajes y tecnologías;
-
-III. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales educativos, entre ellos libros de texto gratuitos, en las diversas lenguas del territorio nacional;
-
-IV. Fortalecer las instituciones públicas de formación docente, en especial las normales bilingües interculturales, la adscripción de los docentes en las localidades y regiones lingüísticas a las que pertenecen, así como impulsar programas de formación, actualización y certificación de maestras y maestros en las lenguas de las regiones correspondientes;
-
-V. Tomar en consideración, en la elaboración de los planes y programas de estudio, los sistemas de conocimientos de los pueblos y comunidades indígenas y afromexicanas, para favorecer la recuperación cotidiana de las diferentes expresiones y prácticas culturales de cada pueblo en la vida escolar;
-
-VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, tránsito, formación y desarrollo de los educandos con un enfoque intercultural y plurilingüe, y
-
-VII. Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, dando especial apoyo a estudiantes de los pueblos y comunidades indígenas o afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas.
+Será obligación del Estado, constituir un comité de seguimiento de la Consulta, conformado por los 68 pueblos indígenas y uno afromexicano.
 
 ### Capítulo VII. De la educación humanista
 
@@ -758,65 +792,67 @@ El Estado generará mecanismos para apoyar y promover la creación y difusión a
 
 Se adoptarán medidas para que, dentro de la orientación integral del educando, se promuevan métodos de enseñanza aprendizaje, con la finalidad de que exprese sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas.
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE CAPÍTULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ### Capítulo VIII. De la educación inclusiva
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 61.
 
-La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de todos los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
+La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir, reducir y eliminar las barreras que limitan el acceso, permanencia, participación y aprendizaje de todas las y los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
 
-La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de todos y cada uno de los educandos.
+La educación inclusiva se basa en el reconocimiento y la valoración de la diversidad, adaptando el Sistema Educativo Nacional para responder con equidad a las características, necesidades, intereses, capacidades, habilidades, ritmos y estilos de aprendizaje de todos y cada uno de las y los educandos.
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 62.
 
-El Estado asegurará la educación inclusiva en todos los tipos y niveles, con el fin de favorecer el aprendizaje de todos los estudiantes, con énfasis en los que están excluidos, marginados o en riesgo de estarlo, para lo cual buscará:
+El Estado asegurará la educación inclusiva en todos los tipos, niveles, modalidades y opciones del Sistema Educativo Nacional, con el fin de favorecer el aprendizaje de todas las y los estudiantes, con énfasis en los que están excluidos, marginados o en riesgo de estarlo, para lo cual buscará:
 
-I. Favorecer el máximo logro de aprendizaje de los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
+I. Favorecer el máximo logro de aprendizaje de las y los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
 
-II. Desarrollar al máximo la personalidad, los talentos y la creatividad de los educandos;
+II. Desarrollar al máximo la personalidad, los talentos y la creatividad de las y los educandos;
 
-III. Favorecer la plena participación de los educandos, su educación y facilitar la continuidad de sus estudios en la educación obligatoria;
+III. Favorecer la plena participación de las y los educandos, su educación, el ingreso, la permanencia, el tránsito y la continuidad de sus estudios en la educación obligatoria;
 
-IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Nacional por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras, y
+IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Nacional por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, lengua, sexo, orientación sexual o de género, así como por sus características, circunstancias, necesidades, intereses, capacidades, habilidades, estilos y ritmos de aprendizaje, entre otras;
 
-V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación.
+V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación integral, y
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+VI. Supervisar periódicamente las acciones implementadas en favor de la educación inclusiva, con la intervención de todos los actores que conforman el Sistema Educativo Nacional, de acuerdo con los lineamientos que emita la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 63.
 
-El Estado proporcionará a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
+El Estado proporcionará a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida que favorezcan su inclusión laboral, reconociendo las características, circunstancias, necesidades, intereses, capacidades, habilidades, estilos y ritmos de aprendizaje de las y los educandos, a fin de propiciar su participación plena y en igualdad de condiciones en la educación y en la sociedad.
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 64.
 
-En la aplicación de esta Ley, se garantizará el derecho a la educación a los educandos con condiciones especiales o que enfrenten barreras para el aprendizaje y la participación.
+En la aplicación de esta Ley, se garantizará el derecho a la educación de las y los educandos con condiciones especiales o que enfrenten barreras para el aprendizaje y la participación.
 
-Las autoridades educativas, en el ámbito de su competencia, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizarán lo siguiente:
+Las autoridades educativas, en el ámbito de su competencia, para atender a los educandos con características, circunstancias, necesidades, intereses, capacidades, habilidades, estilos y ritmo de aprendizaje diversos, realizarán lo siguiente:
 
-I. Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de los educandos que enfrentan barreras para el aprendizaje y la participación;
+I. Prestar educación especial en condiciones necesarias, previa decisión y valoración por parte de las y los educandos, madres y padres de familia o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación de las y los educandos que enfrentan barreras para el aprendizaje y la participación;
 
-II. Ofrecer formatos accesibles para prestar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
+II. Ofrecer formatos accesibles a cada educando con discapacidad visual, auditiva, intelectual, psicosocial, de lenguaje o motriz, en la medida de lo posible para su incorporación a todos los servicios educativos, así como la posibilidad de acceder al servicio escolarizado;
 
-III. Prestar educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria;
+III. Prestar y fortalecer la educación especial para apoyar a las y los educandos con alguna discapacidad, aptitudes sobresalientes y/o trastornos en los niveles de educación obligatoria, y brindar las opciones educativas pertinentes;
 
 IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
 
-V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y preste los apoyos que los educandos requieran;
+V. Garantizar la formación de todo el personal docente para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y brinden los apoyos que las y los educandos requieran;
 
-VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva, y
+VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de las y los educandos con discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva, y
 
-VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todos los actores sociales involucrados en educación.
+VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras para el aprendizaje y la participación en todos los actores sociales involucrados en educación.
 
 La Secretaría emitirá lineamientos en los cuales se determinen los criterios orientadores para la prestación de los servicios de educación especial a los que se refiere el presente artículo y se cumpla con el principio de inclusión.
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 65.
 
@@ -824,29 +860,31 @@ Para garantizar la educación inclusiva, las autoridades educativas, en el ámbi
 
 I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
 
-II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas dependiendo de las capacidades del educando y la enseñanza del español para las personas sordas;
+II. Garantizar la adquisición y aprendizaje de la Lengua de Señas Mexicana y el español como segunda lengua para las personas con discapacidad auditiva;
 
-III. Asegurar que los educandos ciegos, sordos o sordociegos reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
+III. Asegurar que las y los educandos con discapacidad visual, auditiva, intelectual, psicosocial, de lenguaje o motriz reciban educación en los lenguajes y los modos y medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
 
-IV. Asegurar que se realicen ajustes razonables para las personas con discapacidad, y
+IV. Asegurar que se realicen ajustes razonables para las personas que lo requieran, en especial para aquellas con discapacidad, aptitudes sobresalientes y/o trastornos;
 
-V. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
+V. Fortalecer los aprendizajes de las y los educandos con aptitudes sobresalientes con estrategias diversas de acuerdo con sus necesidades, capacidades, ritmos e intereses, y
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+VI. Fomentar la enseñanza de modelos pedagógicos en la formación docente, para brindar la educación que las y los educandos requieran.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 66.
 
-La autoridad educativa federal, con base en sus facultades, establecerá los lineamientos necesarios que orienten la toma de decisiones relacionadas con los mecanismos de acreditación, promoción y certificación en los casos del personal que preste educación especial.
+La autoridad educativa federal, con base en sus facultades, establecerá los lineamientos necesarios para la acreditación, promoción y certificación del personal que preste educación especial.
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 67.
 
-Para la identificación y atención educativa de los estudiantes con aptitudes sobresalientes, la autoridad educativa federal, con base en sus facultades y la disponibilidad presupuestal, establecerá los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los tipos de educación básica, así como la educación media superior y superior en el ámbito de su competencia. Las instituciones que integran el Sistema Educativo Nacional se sujetarán a dichos lineamientos.
+Para la identificación y atención educativa de las y los educandos con aptitudes sobresalientes, la autoridad educativa federal, con base en sus facultades y la disponibilidad presupuestal, establecerá los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios en los tipos de educación básica, así como la educación media superior y superior en el ámbito de su competencia. Las instituciones que integran el Sistema Educativo Nacional se sujetarán a dichos lineamientos.
 
-Las instituciones de educación superior autónomas por ley podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a educandos con aptitudes sobresalientes.
+Las instituciones de educación superior autónomas por ley podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a las y los educandos con aptitudes sobresalientes.
 
-(NOTA: EL 29 DE JUNIO 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 121/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DE LA UNIÓN, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 68.
 
@@ -1532,6 +1570,10 @@ En el ejercicio de su función compensatoria, y sólo tratándose de actividades
 
 Las autoridades educativas, fomentarán la participación de los actores sociales involucrados en el proceso de enseñanza aprendizaje, para el logro de una educación democrática, de alcance nacional, inclusiva, intercultural, integral y plurilingüe que propicie el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, el fortalecimiento de los lazos entre escuela y comunidad.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+En municipios o demarcaciones territoriales con población indígena y/o afromexicana, las autoridades educativas procurarán que en las escuelas públicas de educación básica y media superior se garantice su representación en los consejos de participación escolar previstos en esta Ley.
+
 ###### Artículo 127.
 
 Los particulares, ya sea personas físicas o morales, podrán coadyuvar en el mantenimiento de las escuelas públicas, previo acuerdo con la autoridad educativa competente. La Secretaría emitirá los lineamientos para cumplir con lo establecido en este artículo.
@@ -1617,6 +1659,10 @@ La organización y el funcionamiento de las asociaciones de madres y padres de f
 ###### Artículo 131.
 
 Las autoridades educativas podrán promover, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto garantizar el derecho a la educación.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+En las escuelas públicas de educación básica y media superior que se ubiquen en municipios o demarcaciones territoriales con población indígena y/o afromexicana, se deberá procurar la representación de los hablantes de lengua indígena o de personas afromexicanas en estas actividades.
 
 ###### Artículo 132.
 
@@ -2255,3 +2301,27 @@ Cuarto.- Las obligaciones que se generen con motivo de la entrada en vigor del p
 D.O.F. 1 DE ABRIL DE 2024.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE EDUCACIÓN, EN MATERIA DE EDUCACIÓN INCLUSIVA PARA PERSONAS CON DISCAPACIDAD".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los Congresos de las entidades federativas deberán legislar en materia de educación inclusiva en un plazo no mayor a 365 días a partir de la publicación del presente Decreto, realizando el respectivo proceso de consulta a personas con discapacidad.
+
+Tercero. La Secretaría de Educación Pública deberá emitir los lineamientos correspondientes establecidos en el presente Decreto, en un plazo no mayor a 180 días a partir de su publicación en el Diario Oficial de la Federación.
+
+Cuarto. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+D.O.F. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE EDUCACIÓN, EN MATERIA DE EDUCACIÓN INCLUSIVA Y HUMANISTA A PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS, MIGRANTES Y JORNALEROS AGRÍCOLAS.”]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los Congresos de las entidades federativas deberán legislar en materia de educación indígena, intercultural y plurilingüe en un plazo no mayor a 365 días a partir de la publicación del presente Decreto, realizando el respectivo proceso de consulta a pueblos y comunidades indígenas y afromexicanas.
+
+Tercero. La autoridad educativa federal deberá, previa consulta a pueblos y comunidades indígenas y afromexicanas, actualizar los lineamientos relativos a los Consejos de Participación Escolar en un plazo no mayor a 365 días a partir de la publicación del presente Decreto.
+
+Cuarto. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
