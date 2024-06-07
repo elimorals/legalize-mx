@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-prevencion-atencion-y-erradicacion-de-violencia-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2024-05-09"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -59,19 +59,21 @@ Artículo Único.- Se crea la Ley para la Prevención, Atención y Erradicación
 
 ### CAPÍTULO I. DEL OBJETO, DEFINICIONES Y PRINCIPIOS
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general en el Estado de Hidalgo, y tiene por objeto prevenir, atender y erradicar la violencia originada en el entorno escolar, entre las y los estudiantes, el personal docente, directivo, administrativo, responsables ante un grupo, padres y madres de familia o en su caso, tutores de las instituciones educativas públicas y privadas.
-
-Esta Ley establecerá los principios y criterios, desde la perspectiva de una cultura de paz y de los derechos de la infancia y la juventud, basados en los Tratados Internacionales, en la Constitución Política de los Estados Unidos Mexicanos, la del Estado y demás ordenamientos legales aplicables, a partir de la observancia plena del respeto a los derechos humanos de las personas.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Hidalgo, y tiene por objeto prevenir, atender y erradicar el acoso y la violencia originada en el entorno escolar, entre las y los estudiantes, el personal docente, directivo, administrativo, responsables ante un grupo, padres y madres de familia o en su caso, tutores de las instituciones educativas públicas y privadas.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
 
+Esta Ley establecerá los principios y criterios, desde la perspectiva de una cultura de paz y de los derechos de la infancia y la juventud, basados en los Tratados Internacionales, en la Constitución Política de los Estados Unidos Mexicanos, la del Estado y demás ordenamientos legales aplicables, a partir de la observancia plena del respeto a los derechos humanos de las personas.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 2.
 
-El Titular del Poder Ejecutivo, a través de la Secretaría de Educación Pública de Hidalgo, propondrá acciones, proyectos y programas para prevenir, atender y erradicar la violencia escolar, mismos que serán obligatorios y ejecutables en el Sistema Educativo del Estado, hasta el nivel medio superior.
+El Titular del Poder Ejecutivo, a través de la Secretaría de Educación Pública de Hidalgo, propondrá acciones, proyectos y programas para prevenir, atender y erradicar el acoso y la violencia escolar, mismos que serán obligatorios y ejecutables en el Sistema Educativo del Estado, hasta el nivel medio superior.
 
 ###### Artículo 3.
 
@@ -81,19 +83,23 @@ Son objetivos de la presente Ley:
 
 I.- Diseñar instrumentos o mecanismos que garanticen dentro de las escuelas públicas y privadas del Estado, la integridad física y psicológica de los educandos y de quienes integran la comunidad educativa, en un ambiente libre de violencia;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-II.- Diseñar, promover e implementar políticas públicas en materia de prevención, atención y erradicación de violencia en el entorno escolar, especialmente el que se presenta en los niveles básico y medio superior;
+II.- Diseñar, promover e implementar políticas públicas en materia de prevención, atención y erradicación del acoso y la violencia en el entorno escolar, especialmente el que se presenta en los niveles básico y medio superior;
 
-III.- Proponer mecanismos de participación entre instituciones públicas y/o privadas, organizaciones de la sociedad civil, comunidad educativa y sociedad hidalguense en general, en acciones, proyectos y programas que contribuyan a la prevención, atención y erradicación de la escolar;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-IV.- Sensibilizar al personal escolar en general para la prevención e intervención ante casos de violencia escolar y canalizar a quienes sean víctimas o generadores, para su adecuado tratamiento y/o aplicación de medidas correspondientes;
+III.- Proponer mecanismos de participación entre instituciones públicas y/o privadas, organizaciones de la sociedad civil, comunidad educativa y sociedad hidalguense en general, en acciones, proyectos y programas que contribuyan a la prevención, atención y erradicación del acoso y la violencia escolar;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IV.- Sensibilizar al personal escolar en general para la prevención e intervención ante casos de acoso o violencia escolar y canalizar a quienes sean víctimas o generadores, para su adecuado tratamiento y/o aplicación de medidas correspondientes;
 
 V.- Fomentar la corresponsabilidad social y la cohesión comunitaria, para garantizar un ambiente libre de violencia en el entorno escolar del Estado de Hidalgo; y
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-VI.- Garantizar el funcionamiento y cumplimiento de los objetivos del Registro Estatal de Prevención, Atención y Erradicación de Violencia Escolar.
+VI.- Garantizar el funcionamiento y cumplimiento de los objetivos del Programa Estatal y del Registro Estatal de Prevención, Atención y Erradicación de Violencia Escolar.
 
 > <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -104,6 +110,10 @@ Para los efectos de esta Ley se entenderá por:
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 I. Brigadas Escolares: Brigadas Escolares sobre la Prevención del Acoso y la Violencia Escolar conformada por un grupo de personas seleccionadas de entre los integrantes de la comunidad escolar, que interactúan y se reúnen con la finalidad de tomar las medidas necesarias para llevar a cabo acciones preventivas de violencia y acoso escolar de en la institución educativa a la que pertenecen;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+I Bis. Comité: Comité para la Atención y Erradicación de la Violencia Escolar;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -133,9 +143,9 @@ VII. Ley: Ley para la Prevención, Atención y Erradicación de Violencia Escola
 
 VIII. PEPAEVE: Programa Estatal de Prevención, Atención y Erradicación de Violencia Escolar;
 
-> <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-IX. Protocolo. Conjunto de reglas expedidas por la autoridad competente para prevenir, atender, erradicar y/o dar respuesta inmediata a los casos de violencia escolar que se registren, con la participación de las partes involucradas y las autoridades en la materia.
+IX. Protocolo: Conjunto de reglas expedidas por el Comité para prevenir, atender y erradicar el acoso y la violencia originada en el entorno escolar;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -145,17 +155,25 @@ X. REPAEVE: Registro Estatal de Prevención, Atención y Erradicación de Violen
 
 XI. Secretaría: La Secretaría de Educación Pública de Hidalgo (SEPH);
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XI Bis. Testigo: Persona integrante de la comunidad educativa que presencia alguna forma de acoso, violencia o agresión en cualquiera de sus tipos o modalidades que se ejerce contra las víctimas;
+
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 XII. Víctima: Persona integrante de la comunidad educativa que sufra alguna forma de agresión (verbal, física, moral, sexual, o económica) en cualquiera de sus tipos o modalidades por parte de otro integrante o integrantes de la comunidad educativa;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XIII. Víctimas indirectas: Familiares y, en su caso, tutores de la persona receptora del maltrato en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar; se considerarán también a aquellas personas que presencien el maltrato que se ejerce contra integrantes de la comunidad educativa, en calidad de testigos; y
+XIII. Víctimas indirectas: Familiares y, en su caso, tutores de la persona receptora del maltrato en la comunidad educativa, personas que tengan o hayan tenido relación o convivencia con aquella y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo del maltrato ejercido en el entorno escolar;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XIV. Violencia Escolar: Conducta agresiva e intencionada con el objeto de intimidar y/o someter de manera verbal, psicológica, física, sexual y/o por exclusión social, que se presenta entre uno o más miembros de la misma comunidad educativa, dentro y/o fuera de las instalaciones de la institución, que ponga en riesgo la convivencia escolar.
+XIV. Violencia Escolar: Conducta agresiva e intencionada con el objeto de intimidar y/o someter de manera verbal, psicológica, física, sexual y/o por exclusión social, que se presenta entre uno o más miembros de la misma comunidad educativa, dentro y/o fuera de las instalaciones de la institución, que ponga en riesgo la convivencia escolar; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XV. Acoso Escolar: Conducta agresiva, repetitiva e intencionada con el objeto de intimidar y/o someter de manera verbal, psicológica, física, sexual, cibernética, económica, patrimonial, moral y/o por exclusión social, que se presenta durante un período de tiempo prolongado, entre uno o más miembros de la misma comunidad educativa, dentro y/o fuera de las instalaciones de la institución.
 
 ###### Artículo 5.
 
@@ -219,11 +237,11 @@ XIX. Perspectiva de género.
 
 Los principios de esta Ley constituyen el marco conforme al cual se deberán planear, crear, ejecutar y evaluar, acciones, proyectos y políticas del Programa Estatal, para garantizar un ambiente libre de violencia en el entorno escolar.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 5 Bis.
 
-La víctima de cualquier tipo y modalidad de violencia en el entorno escolar o de maltrato escolar tiene derecho a:
+La víctima de cualquier tipo o modalidad de acoso, violencia o maltrato, en el entorno escolar, tiene derecho a:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -261,19 +279,29 @@ VIII. A ser canalizada a las instancias correspondientes para su atención oport
 
 IX. La reparación del daño moral y, en su caso, a recibir una indemnización o el pago de daños y perjuicios en términos de la legislación aplicable.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 5 Ter.
 
-La persona que por sus actos se define como generador de violencia en el entorno escolar o de maltrato escolar tiene derecho a:
+La persona que por sus actos se define como generador de acoso, violencia o maltrato en el entorno escolar, tiene derecho a:
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
 I. Ser tratada con respeto a su integridad y el ejercicio pleno de sus derechos;
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
 II. Contar con atención inmediata y efectiva por parte de las autoridades cuando se encuentre en riesgo su integridad, al ser receptores de violencia en otros contextos;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
 III. Recibir información, veraz y suficiente que le permita decidir sobre las opciones de atención;
 
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
+
 IV. Contar con asesoría psicológica y representación jurídica gratuita y expedita;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -345,7 +373,13 @@ VI.- El Titular del Sistema para el Desarrollo Integral de la Familia de Hidalgo
 
 El Titular del Poder Ejecutivo Estatal a través de la Secretaría, ejecutará las siguientes atribuciones:
 
-I.- Elaborar e implementar políticas públicas estatales contra la violencia escolar;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+I.- Elaborar e implementar políticas públicas estatales (sic) contra del acoso y la violencia escolar;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+I Bis.- Integrar y coordinar el Comité para la Atención y Erradicación de la Violencia Escolar;
 
 II.- Promover el Programa Estatal y emitir las recomendaciones pertinentes;
 
@@ -353,7 +387,9 @@ III.- Celebrar convenios de colaboración en la materia;
 
 IV.- Crear y fortalecer vínculos de participación por parte de la comunidad escolar y autoridades del Gobierno, para el diseño e implementación del Programa Estatal;
 
-V.- Vigilar la implementación del Programa Estatal y evaluar el cumplimiento de los mecanismos de diagnóstico, acciones, proyectos y programas a desarrollar para la prevención, atención y erradicación de los casos de violencia escolar;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+V.- Vigilar la implementación del Programa Estatal y evaluar el cumplimiento de los mecanismos de diagnóstico, acciones, proyectos y programas a desarrollar para la prevención, atención y erradicación de los casos de acoso y violencia escolar;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -363,17 +399,23 @@ VI.- Sancionar a las autoridades, personal docente y administrativo de los plant
 
 VII.- Conformar el REPAEVE, asignar los recursos necesarios para su implementación, así como los del Programa Estatal y garantizar su publicidad en los términos de esta Ley; y
 
-VIII.- Elaborar y publicar un informe anual sobre violencia escolar en el Estado.
+VIII.- (DEROGADA, P.O. 7 DE JUNIO DE 2024)
 
 ###### Artículo 9.
 
 Corresponde a la Secretaría de Salud de Hidalgo:
 
-I.- Investigar, recabar y sistematizar datos estadísticos en materia de salud pública sobre los impactos que tiene la violencia en el entorno escolar, respecto al bienestar físico y psicológico de la niñez y la juventud, cuyos resultados contribuyan para la elaboración, implementación y evaluación del Programa Estatal;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-II.- Promover y diseñar campañas para prevenir las afectaciones en la salud ocasionadas por violencia en el entorno escolar, dirigidas a los integrantes de la comunidad educativa;
+I.- Investigar, recabar y sistematizar datos estadísticos en materia de salud pública sobre los impactos que tiene el acoso y la violencia en el entorno escolar, respecto al bienestar físico y psicológico de la niñez y la juventud, cuyos resultados contribuyan para la elaboración, implementación y evaluación del Programa Estatal;
 
-III.- Formar y sensibilizar a los diversos actores de la comunidad escolar en materia de violencia escolar, con base en el respeto y garantía de los derechos humanos de la niñez y la juventud, para proporcionar atención a la víctima y/o generador hasta su recuperación;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+II.- Promover y diseñar campañas para prevenir las afectaciones en la salud ocasionadas por el acoso y la violencia en el entorno escolar, dirigidas a los integrantes de la comunidad educativa;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+III. Formar y sensibilizar a los diversos actores de la comunidad escolar en materia de prevención del acoso y violencia escolar, con base en el respeto y garantía de los derechos humanos de la niñez y la juventud, para proporcionar atención a la víctima y/o generador hasta su recuperación;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -385,35 +427,47 @@ V.- Las demás que le señalen las disposiciones legales aplicables y el Reglame
 
 Corresponde a la Secretaría de Educación Pública de Hidalgo:
 
-I.- Elaborar, coordinar, promover, implementar y evaluar el Programa Estatal;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+I.- Elaborar y presentar al Comité el Programa Estatal, para su respectivo análisis y aprobación;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+I Bis.- Actualizar, coordinar, promover e implementar el Programa Estatal;
 
 II.- Vigilar el cumplimiento de las acciones, proyectos y políticas del Programa Estatal dentro de las escuelas públicas y privadas;
 
-III.- Diseñar, elaborar e implementar mecanismos de información, capacitación y especialización sobre la prevención, atención y erradicación de violencia escolar, el respeto a los derechos humanos de las y los niños, las y los jóvenes; dando prioridad al bienestar emocional de la víctima y la reincorporación del generador hacia formas de convivencia sanas y libres de violencia;
+III.- (DEROGADA, P.O. 7 DE JUNIO DE 2024)
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-IV.- Garantizar la capacitación concurrente con las autoridades previstas en esta Ley, a la comunidad educativa de las escuelas públicas y privadas en el Estado de Hidalgo, sobre prevención, atención y erradicación a los casos que se presenten en materia de violencia escolar, promoviendo en todo momento valores con pleno respeto a los Derechos humanos.
+IV.- Garantizar la capacitación concurrente con las autoridades previstas en esta Ley, a la comunidad educativa de las escuelas públicas y privadas en el Estado de Hidalgo, sobre prevención, atención y erradicación a los casos que se presenten en materia de acoso y violencia escolar, promoviendo en todo momento valores con pleno respeto a los Derechos Humanos;
 
-V.- Establecer los mecanismos, estrategias de funcionamiento e integración, así como la metodología y el procedimiento para el correcto desarrollo del REPAEVE;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+V.- Proponer al Comité los mecanismos, estrategias de funcionamiento e integración, así como la metodología y el procedimiento para el correcto desarrollo del REPAEVE;
 
 VI.- Celebrar convenios de cooperación con los sectores público, privado y social, para promover los derechos de la niñez y la juventud, concientizar sobre la prevención, atención y erradicación de violencia escolar y fortalecer la convivencia libre de violencia entre la comunidad educativa;
 
-VII.- Con base en la concurrencia de las autoridades previstas en esta Ley, la Secretaría podrá promover estrategias informativas y de capacitación sobre acciones, proyectos y/o programas para la prevención, atención y erradicación de violencia escolar en la Entidad;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+VII.- Promover estrategias informativas y de capacitación sobre acciones, proyectos y/o programas para la prevención, atención y erradicación del acoso y la violencia escolar en la Entidad;
 
-VIII.- Promover y colaborar en la creación de Brigadas Escolares en contra de la violencia escolar en cada centro educativo;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+VIII.- Promover y colaborar en la creación de Brigadas Escolares en contra del acoso y la violencia escolar en cada centro educativo;
 
-IX.- Dar parte a la autoridad competente en los casos de violencia escolar;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IX.- Dar parte a la autoridad competente en los casos de acoso y violencia escolar;
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
 X.- Interponer la queja correspondiente ante el órgano interno de control en caso de incumplimiento a las disposiciones contenidas en esta Ley, conforme a lo previsto por los lineamientos de la Secretaría a la comunidad educativa de escuelas públicas y privadas, así como dictar las medidas precautorias para que no exista reincidencia de actos;
 
-XI.- Elaborar y difundir materiales informativos para la prevención, atención y erradicación de las modalidades de violencia escolar previstos en la presente Ley;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XI.- Elaborar y difundir materiales informativos para la prevención, atención y erradicación de las modalidades de acoso y violencia escolar previstos en la presente Ley;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -421,13 +475,13 @@ XII.- Dar a conocer el Programa Estatal, por medio de diversas acciones y estrat
 
 XIII.- Promover y apoyar acciones, proyectos y programas, con organizaciones de la sociedad civil, miembros de la comunidad educativa y sociedad en general, con el objeto de fomentar su participación en el Programa Estatal que establece esta Ley;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XIV.- Promover y capacitar con las autoridades necesarias y previstas en esta Ley, a la comunidad educativa y a las Brigadas Escolares en contra de la violencia escolar dentro de las instituciones públicas y privadas para la detección y atención inmediata de casos de violencia originadas en el entorno escolar;
+XIV.- Promover y capacitar con las autoridades necesarias y previstas en esta Ley, a la comunidad educativa y a las Brigadas Escolares en contra del acoso y la violencia escolar dentro de las instituciones públicas y privadas para la detección y atención inmediata de casos de violencia o acoso originados en el entorno escolar;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XV.- Emitir el Protocolo de detección, atención y prevención de la violencia escolar, como instrumento rector en materia de violencia escolar;
+XV.- Vigilar la implementación de los Protocolos de detección, atención y prevención del acoso y la violencia escolar, como instrumento rector en materia de prevención y atención de la violencia escolar;
 
 > <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
 
@@ -453,23 +507,25 @@ I.- Participar en la elaboración, implementación y evaluación del Programa Es
 
 II.- Planear y proponer, mecanismos y estrategias a desarrollar en el Programa Estatal de manera concurrente con las demás autoridades;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-III.- Gestionar ante la instancia competente acciones de capacitación y sensibilización al personal interno y de los sistemas de Desarrollo Integral de la Familia Municipales, encargados de brindar atención especializada a niñas, niños y adolescentes en situación de violencia escolar.
+III.- Gestionar ante la instancia competente acciones de capacitación y sensibilización al personal interno y de los sistemas de Desarrollo Integral de la Familia Municipales, encargados de brindar atención especializada a niñas, niños y adolescentes en situaciones de acoso y violencia escolar.
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-IV.- Otorgar atención directa o solicitarla a través de los Sistemas de Desarrollo Integral de la Familia Municipales, a la víctima y/o generador de violencia escolar de las escuelas públicas o privadas de nivel básico, medio y medio superior que haya sido canalizado por la Secretaría y solicitado por la institución a la que pertenezcan;
+IV.- Otorgar atención directa o solicitarla a través de los Sistemas de Desarrollo Integral de la Familia Municipales, a la víctima y/o generador de acoso o violencia escolar de las escuelas públicas o privadas de nivel básico, medio y medio superior que haya sido canalizado por la Secretaría y solicitado por la institución a la que pertenezcan;
 
-V.- Coordinar y promover campañas de información sobre las modalidades de violencia escolar establecidas en esta Ley;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+V.- Coordinar y promover campañas de información sobre las modalidades de violencia y acoso escolar establecidas en esta Ley;
 
-VI.- Establecer mecanismos de atención enfocados al tratamiento de víctimas y generadores de violencia escolar;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+VI.- Establecer mecanismos de atención enfocados al tratamiento de víctimas y generadores de acoso o violencia escolar;
 
-VII.- Informar a la Secretaría y al REPAEVE, sobre casos que constituyan violencia escolar derivado de la atención en los servicios que preste como parte de sus actividades; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VII.- Informar al REPAEVE, sobre casos que constituyan acoso o violencia escolar derivado de la atención en los servicios que preste como parte de sus actividades; y
 
 VIII.- Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
@@ -477,9 +533,9 @@ VIII.- Las demás que le señalen las disposiciones legales aplicables y el Regl
 
 Las escuelas públicas y privadas en el Estado deberán:
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-I.- Contemplar mecanismos, acciones y programas para una mayor integración a la Comunidad Educativa, en el desarrollo de estrategias para la prevención y erradicación de la violencia escolar, y generar ambientes basados en una cultura de la paz, resolución no violenta de conflictos, entre los miembros de la comunidad educativa;
+I.- Contemplar mecanismos, acciones y programas para una mayor integración a la Comunidad Educativa, en el desarrollo de estrategias para la prevención y erradicación del acoso y la violencia escolar, y generar ambientes basados en una cultura de la paz, resolución no violenta de conflictos, entre los miembros de la comunidad educativa;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -487,13 +543,13 @@ II.- Manejar dentro del expediente personal y académico de cada alumno, el cual
 
 III.- Guardar reserva sobre la información de que dispongan acerca de las circunstancias personales y familiares del alumno;
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-IV.- Entregar a la Secretaría en el mes de junio de cada año, un informe anual detallado sobre las medidas implementadas en favor de la prevención, atención y erradicación de la violencia escolar, así como los incidentes presentados dentro de su institución, para que se integre al Informe Anual del REPAEVE;
+IV.- Entregar al REPAEVE en el mes de junio de cada año, un informe anual detallado sobre las medidas implementadas en favor de la prevención, atención y erradicación del acoso y la violencia escolar, así como los incidentes presentados dentro de su institución;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-IV Bis.- Informar a la Secretaría y al REPAEVE, sobre casos que detecten en los servicios que presten como parte de sus actividades y que constituyan violencia escolar;
+IV Bis.- Informar a la Secretaría y al REPAEVE, sobre casos que detecten en los servicios que presten como parte de sus actividades y que constituyan acoso o violencia escolar;
 
 V.- Implementar las acciones y proyectos que determine el Programa Estatal; y
 
@@ -501,11 +557,11 @@ V.- Implementar las acciones y proyectos que determine el Programa Estatal; y
 
 VI. Desarrollar Brigadas Escolares para su detección y atención inmediata.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 12 Bis.
 
-En las escuelas y planteles educativos públicos y privados se promoverá la implementación de las acciones necesarias para realizar la capacitación del personal directivo, docente y administrativo para la prevención y atención de la violencia escolar de conformidad por lo establecido en la Ley de Educación para el Estado de Hidalgo.
+En las escuelas y planteles educativos públicos y privados se promoverá la implementación de las acciones necesarias para realizar la capacitación del personal directivo, docente y administrativo para la prevención y atención del acoso y la violencia escolar, de conformidad por lo establecido en la presente Ley y la Ley de Educación del Estado de Hidalgo.
 
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
 
@@ -521,15 +577,81 @@ III. Denunciar ante las autoridades competentes cualquier hecho relacionado con 
 
 IV. Proporcionar la información que las autoridades competentes les soliciten, sobre hechos relacionados con violencia escolar.
 
-### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIA ESCOLAR
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
+### CAPITULO III. DEL COMITÉ PARA LA ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA ESCOLAR
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Artículo 12 Ter (SIC). El Comité para la Atención y Erradicación de la Violencia Escolar es un órgano colegiado encargado de coadyuvar y coordinar las acciones interinstitucionales para el diagnóstico, diseño, implementación y evaluación de las políticas, programas, estrategias y acciones estatales contra el acoso y la violencia escolar.
+
+El Comité deberá de instalarse al inicio de cada Administración Estatal en un término no mayor a 90 días naturales a la toma de posesión del Titular del Poder Ejecutivo a fin de rendir protesta a los integrantes del mismo.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 12 Quater.
+
+El Comité para la Atención y Erradicación de la Violencia Escolar estará integrado por:
+
+I. Una Presidencia, que será ocupada por la persona Titular del Poder Ejecutivo Estatal, o quien ésta designe para su representación;
+
+II. Una Secretaría Ejecutiva, que será ocupada por la persona Titular de la Secretaría de Educación Pública de Hidalgo;
+
+III. Una Secretaría Técnica, que será ocupada por la persona Titular de la Procuraduría General de Justicia del Estado;
+
+IV. La persona Titular de la Secretaría de Salud de la entidad;
+
+V. La persona Titular de la Secretaría de Seguridad Pública del Estado;
+
+VI. La persona Titular del Sistema para el Desarrollo Integral de la Familia de Hidalgo;
+
+VII. Un representante del Poder Legislativo, que será la Diputada o Diputado que presida la Primera Comisión Permanente de Educación del (sic) la Legislatura en turno;
+
+VIII. La persona Titular de la Secretaría Ejecutiva del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado; y
+
+IX. La persona Titular de la Comisión de Derechos Humanos del Estado de Hidalgo.
+
+Los integrantes del Comité referidos en las fracciones IV, V, VI, VII, VIII y IX desempeñarán la función de vocales.
+
+Los integrantes titulares del Comité podrán nombrar a sus respectivos suplentes, quienes tendrán voz, voto y las mismas atribuciones que su propietario en caso de ausencia. El cargo de integrante del Comité es de carácter honorario.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 12 Quinquies.
+
+A las sesiones podrán asistir, con voz, pero sin voto, y a invitación de la Presidencia del Comité, representantes de otras dependencias y entidades de la Administración Pública Estatal, de los órganos con autonomía constitucional, de los municipios, de organizaciones de la sociedad civil, académicas y especialistas, según la naturaleza de los asuntos a tratar.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 12 Sexies.
+
+El Comité sesionará de manera ordinaría al menos dos veces por cada ciclo escolar, y de manera extraordinaria cuando sea necesario.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 12 Septies.
+
+El Comité para la Atención y Erradicación de la Violencia Escolar, sin perjuicio de las atribuciones establecidas en la presente Ley para sus integrantes, tendrá las siguientes funciones:
+
+I. Coordinar las acciones interinstitucionales para el cumplimiento de la presente Ley en lo referente a la prevención, atención y erradicación de casos de acoso y violencia escolar;
+
+II. Aprobar la implementación del Programa Estatal, así como las políticas, programas y estrategias para la prevención, atención y erradicación del acoso y la violencia escolar;
+
+III. Coadyuvar en la evaluación del diseño y ejecución del Programa Estatal, así como vigilar su actualización;
+
+IV. Elaborar y publicar un informe anual sobre los avances en la atención y erradicación del acoso y la violencia escolar en el Estado;
+
+V. Diseñar, elaborar e implementar a través de la Secretaría mecanismos de información, capacitación y especialización sobre la prevención, atención y erradicación del acoso y la violencia escolar, el respeto a los derechos humanos de las y los niños, las y los jóvenes; dando prioridad al bienestar emocional de la víctima y la reincorporación del generador hacia formas de convivencia sanas y libres de violencia;
+
+VI. Aprobar los mecanismos, estrategias de funcionamiento e integración, así como la metodología y el procedimiento para el correcto desarrollo del REPAEVE; y
+
+VII. Elaborar, aprobar, actualizar y evaluar los protocolos de detección, atención y prevención del acoso y la violencia escolar.
 
 ## TÍTULO SEGUNDO. DE LA VIOLENCIA ESCOLAR
 
-### CAPÍTULO II. DEL PROGRAMA ESTATAL DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR
+### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIA ESCOLAR
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
 
 ###### Artículo 13.
 
@@ -601,47 +723,51 @@ En casos de violencia escolar, el personal directivo de las instituciones públi
 
 Las Brigadas Escolares, el personal directivo y docente de la escuela, los padres, madres o personas tutoras de las y los alumnos, con apoyo de la Secretaría y las autoridades que señala la presente ley, establecerán una ruta de atención y seguimiento inmediato del caso de violencia, procurando brindar la atención requerida a las probables víctimas, generadores y víctimas indirectas, por conducto de las instancias competentes. Cuando se trate de menores de edad se actuará observando el principio de interés superior de la niñez.
 
-### CAPÍTULO III
+### CAPÍTULO II. DEL PROGRAMA ESTATAL DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR
 
-DEL REPAEVE.
-
-REGISTRO ESTATAL DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR
-
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 17.
 
-La Secretaría elaborará, coordinará, promoverá, implementará y evaluará el Programa Estatal, en concurrencia con las demás autoridades reconocidas, las cuales deberán aprobar lo que a ellas compete, de conformidad a lo establecido por esta Ley y su Reglamento Interno.
+La Secretaría elaborará, coordinará, promoverá, implementará y evaluará el Programa Estatal. Previo a su implementación deberá ser presentado al Comité, para su respectivo análisis y aprobación.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 18.
 
-El Programa Estatal será de cumplimiento obligatorio y se revisará, evaluará y actualizará, cuando se considere necesario y a petición del Ejecutivo o de la Secretaría.
+El Programa Estatal será de cumplimiento obligatorio y se revisará, evaluará y actualizará, cuando se considere necesario y a petición del Ejecutivo o del Comité.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 19.
 
-El Objetivo del Programa Estatal, es facilitar estrategias para elaborar, implementar y evaluar acciones, proyectos y programas que fomenten la convivencia sana y libre de violencia entre la comunidad educativa.
+El Objetivo del Programa Estatal, es facilitar estrategias para elaborar, implementar y evaluar acciones, proyectos y programas que fomenten la convivencia sana y libre de acoso o violencia entre la comunidad educativa.
 
 ###### Artículo 20.
 
 El Programa Estatal, deberá contener lo siguiente:
 
-I.- Acciones, proyectos y programas que prevengan, atiendan y erradiquen la violencia escolar;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+I.- Acciones, proyectos y programas que prevengan, atiendan y erradiquen el acoso y la violencia escolar;
 
 II.- Requerimientos y recomendaciones para el desarrollo de campañas informativas, así como rutas de sensibilización a la sociedad en general y en especial a la comunidad educativa en sus relaciones de convivencia, para generar un ambiente libre de violencia;
 
-III.- Estrategias que fomenten la participación de todos los miembros de la comunidad educativa, conforme a lo establecido en el Programa Estatal en materia de prevención, atención y erradicación de la violencia Escolar;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+III.- Estrategias que fomenten la participación de todos los miembros de la comunidad educativa;
 
-IV.- Información sobre las formas de prevención, atención y erradicación de la violencia escolar, sus consecuencias y procedimientos de intervención establecidos en esta Ley;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
+IV.- Información sobre las formas de prevención, atención y erradicación del acoso y la violencia escolar, sus consecuencias y procedimientos de intervención establecidos en esta Ley;
 
-V.- Contener información necesaria acerca del método de registro ante el REPAEVE, sobre casos de violencia escolar entre miembros de la comunidad educativa, que se presenten en las escuelas públicas o privadas del Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
+V.- Información necesaria acerca del método de registro ante el REPAEVE, sobre casos de acoso y violencia escolar entre miembros de la comunidad educativa, que se presenten en las escuelas públicas o privadas del Estado;
 
-VI.- Un diagnóstico, al inicio del ciclo escolar, sobre violencia escolar por nivel educativo;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VI.- Un diagnóstico, al inicio del ciclo escolar, sobre acoso y violencia escolar por nivel educativo;
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -655,21 +781,31 @@ VIII.- Mecanismos de evaluación del Programa.
 
 La Secretaría dará a conocer el contenido del Programa Estatal a las escuelas públicas y privadas en el Estado, para garantizar su aplicación y generar un ambiente libre de violencia entre los miembros de la comunidad educativa.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 22.
 
-Con el fin de dar cumplimiento a las medidas de prevención, atención y erradicación de la violencia escolar incluidas en el Programa Estatal y lo establecido en esta Ley, las escuelas públicas y privadas en la Entidad deberán generar actividades de formación u orientación a los miembros de su comunidad educativa.
+Con el fin de dar cumplimiento a las medidas de prevención, atención y erradicación del acoso y la violencia escolar incluidas en el Programa Estatal y lo establecido en esta Ley, las escuelas públicas y privadas en la Entidad deberán generar actividades de formación u orientación a los miembros de su comunidad educativa.
 
-### CAPÍTULO I. DE LA PARTICIPACIÓN SOCIAL Y ACCESO A LA INFORMACIÓN
+### CAPÍTULO III
+
+DEL REPAEVE.
+
+REGISTRO ESTATAL DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 23.
 
-Se crea el Registro Estatal de Prevención, Atención y Erradicación de Violencia Escolar, dependiente de la Secretaría, que compilará los datos sobre los casos de violencia escolar que tengan lugar en escuelas públicas o privadas en el Estado en los niveles básico a superior.
+Se crea el Registro Estatal de Prevención, Atención y Erradicación de Violencia Escolar, dependiente de la Secretaría, que compilará los datos sobre los casos de acoso y violencia escolar que tengan lugar en escuelas públicas o privadas en el Estado en los niveles básico a superior.
 
 ###### Artículo 24.
 
 Son obligaciones del REPAEVE:
 
-I.- Recopilar los datos de casos de violencia escolar por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JUNIO DE 2024)</small>
+
+I.- Recopilar los datos de casos de acoso y violencia escolar por:
 
 1. Alumno generador o víctima;
 
@@ -699,9 +835,13 @@ I.- Recopilar los datos de casos de violencia escolar por:
 
 11.- Tipo de violencia.
 
-Con el objetivo de elaborar análisis, estadísticas y/o estudios necesarios que sirvan para informar a la Secretaría, sobre la presencia de violencia en el entorno escolar en el Estado.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-II .- Evaluar con respecto a los resultados de los registros e información recopilada, las propuestas de modificación e implementación de acciones y/o proyectos al Programa Estatal, con la finalidad de mejorar su aplicación en la prevención, atención y erradicación de violencia escolar;
+Con el objetivo de elaborar análisis, estadísticas y/o estudios necesarios que sirvan para informar a la Secretaría y al Comité, sobre la presencia de acoso y violencia en el entorno escolar en el Estado.
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+II.- Presentar al Comité los resultados de las evaluaciones realizadas con respecto a los resultados de los registros e información recopilada, de las propuestas de modificación e implementación de acciones y/o proyectos al Programa Estatal, con la finalidad de mejorar su aplicación en la prevención, atención y erradicación del acoso y la violencia escolar;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -735,9 +875,11 @@ IX.- Establecer grupos de trabajo, organizado en función de las materias concre
 
 X.- Las demás que señalen esta Ley, su Reglamento y otras disposiciones legales.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 25.
 
-A más tardar en los primeros quince días del mes de agosto, el REPAEVE deberá presentar un informe anual detallado a la Secretaría, sobre las medidas implementadas en favor de la prevención, atención y erradicación de la violencia escolar, así como los incidentes informados por las escuelas públicas y privadas del Estado.
+A más tardar en los primeros quince días del mes de agosto, el REPAEVE deberá presentar al Comité, un análisis detallado de la información anual sobre las medidas implementadas en favor de la prevención, atención y erradicación del acoso y la violencia escolar, así como los incidentes informados por las escuelas públicas y privadas del Estado, para que se integre al informe anual del Comité.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -745,9 +887,7 @@ A más tardar en los primeros quince días del mes de agosto, el REPAEVE deberá
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPÍTULO II. DE LAS BRIGADAS ESCOLARES
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+### CAPÍTULO I. DE LA PARTICIPACIÓN SOCIAL Y ACCESO A LA INFORMACIÓN
 
 ###### Artículo 26.
 
@@ -759,9 +899,9 @@ Cualquier persona tendrá acceso a la información obtenida por el REPAEVE a tra
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
-### CAPÍTULO I. DE LAS MEDIDAS PARA LOS GENERADORES
+### CAPÍTULO II. DE LAS BRIGADAS ESCOLARES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 27 Bis.
 
@@ -795,11 +935,13 @@ VI. Las demás que conforme a esta Ley y otras disposiciones le correspondan.
 
 ## TÍTULO CUARTO
 
-### CAPÍTULO II. DE LAS MEDIDAS PARA EL PERSONAL ESCOLAR
+### CAPÍTULO I. DE LAS MEDIDAS PARA LOS GENERADORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 28.
 
-El Protocolo es el instrumento rector en materia de violencia escolar para las escuelas, cuya expedición estará a cargo de la Secretaría y contiene los siguientes apartados:
+El Protocolo es el instrumento rector en materia de prevención del acoso y la violencia escolar para las escuelas, cuya expedición estará a cargo del Comité y contiene los siguientes apartados:
 
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2017)</small>
 
@@ -889,9 +1031,9 @@ b) Comunicar la situación de violencia escolar a la brevedad posible, describie
 
 c) La denuncia o acusación de un acto de violencia escolar, deberá ser presentada por cualquier miembro de la comunidad escolar, ante la autoridad escolar correspondiente, quien deberá reportarla al REPAEVE para su conocimiento y atención del caso;
 
-> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-d) Procedimiento de investigación de un acto de violencia escolar en donde se escuchará a las partes involucradas con absoluto respeto a sus derechos; y
+d) Procedimiento de investigación de un acto de acoso o violencia escolar en donde se incluirá la participación y testimonio de testigos, además de escuchar a las partes involucradas con absoluto respeto a sus derechos;
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -909,9 +1051,7 @@ Las personas encargadas de las direcciones escolares o su designado serán los r
 
 Cuando la gravedad de la conducta de violencia escolar tenga consecuencias de tipo penal, se procederá a dar parte a las instancias correspondientes, facilitando y colaborando en todo lo necesario para la investigación sobre el caso específico y a solicitud de la autoridad.
 
-### CAPÍTULO III. DE LA CERTIFICACIÓN COMO INSTITUCIÓN EDUCATIVA LIBRE DE VIOLENCIA ESCOLAR
-
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+### CAPÍTULO II. DE LAS MEDIDAS PARA EL PERSONAL ESCOLAR
 
 ###### Artículo 31.
 
@@ -938,6 +1078,10 @@ VIII.- Se viole la confidencialidad de los datos contenidos en los expedientes d
 Se aplicarán las medidas y procedimientos administrativos establecidos por la Secretaría, al personal escolar que incumpla con las disposiciones de esta Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE AGOSTO DE 2017)</small>
+
+### CAPÍTULO III. DE LA CERTIFICACIÓN COMO INSTITUCIÓN EDUCATIVA LIBRE DE VIOLENCIA ESCOLAR
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 ###### Artículo 33.
 
@@ -1048,3 +1192,11 @@ P.O. 9 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 872 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5 QUATER DE LA LEY PARA LA PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 966 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE VIOLENCIA ESCOLAR EN EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Poder Ejecutivo del Estado, en un plazo no mayor a 180 días a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones reglamentarias correspondientes para el cumplimiento de este Decreto.
