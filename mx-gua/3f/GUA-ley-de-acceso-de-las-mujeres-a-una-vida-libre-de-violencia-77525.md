@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2024-04-23"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -235,7 +233,11 @@ XV. Violencia mediática: Es la acción u omisión realizada a través de cualqu
 
 XVI. Violencia vicaria: Es cualquier acción u omisión ejercida contra una mujer con la finalidad de causarle daño o sufrimiento, realizada por una persona con quien tenga o haya tenido relación de matrimonio, concubinato, noviazgo o análoga y, se dirige en contra de las hijas, hijos o personas significativas; y
 
-XVII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVII. Violencia estética: Es todo acto a través del cual se ejerce presión a las mujeres, a fin de que su apariencia física se apegue a un prototipo de ideal estético, vulnerando con ello el derecho al libre desarrollo de la personalidad, el cual incluye el derecho a la elección de la apariencia personal; y
+
+XVIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(REFORMADO, P.O. 24 DE OCTUBRE DE 2023)</small>
 
@@ -1818,3 +1820,9 @@ Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de
 > <small>(F. DE E., P.O. 12 DE MARZO DE 2024)</small>
 
 Artículo Segundo. Las personas titulares de la Comisión Estatal de Atención Integral a Víctimas del Estado de Guanajuato, de la Comisión Estatal de Búsqueda de Personas del Estado de Guanajuato de la Secretaría de Desarrollo Económico Sustentable y del Instituto Electoral del Estado de Guanajuato, se integrarán al Consejo Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres dentro de los quince días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 316 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XVII, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
