@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109822"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-11"
-last_updated: "2024-04-23"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE GUANAJUATO EL 23 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2015.
 
@@ -91,7 +89,9 @@ Glosario
 
 Para efectos de esta Ley, además de los conceptos contenidos en la Ley General de los Derechos de Niñas, Niños y Adolescentes, se entenderá por:
 
-I. Acciones afirmativas: las medidas especiales, específicas de políticas y prácticas de índole legislativa, administrativa y jurisdiccional encaminadas a acelerar la igualdad entre niñas, niños y adolescentes cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+I. Acciones afirmativas: las medidas especiales, específicas de políticas y prácticas de índole legislativa, administrativa y jurisdiccional encaminadas a acelerar la igualdad sustantiva de niñas, niños y adolescentes respecto de otras personas o grupos, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad;
 
 II. Acogimiento residencial: el brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
@@ -141,6 +141,10 @@ XIII. Familia de acogida: aquélla que cuente con la certificación de la autori
 
 XIV. Familia de acogimiento pre-adoptivo: aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XIV-1. Igualdad sustantiva: el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN IX], P.O. 31 DE MAYO DE 2023)</small>
 
 XV. Informe de adoptabilidad: el documento expedido por la Procuraduría de Protección y las Procuradurías Auxiliares que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
@@ -164,6 +168,10 @@ XIX. Niña o niño: la persona menor de doce años de edad, desde su concepción
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
 XX. Plan de restitución de derechos: el documento que contiene las medidas de protección especial para restituir los derechos de una niña, niño o adolescente, así como las autoridades y particulares encargados de ejecutarlas;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XX-1. Primera infancia: el periodo que comprende desde el desarrollo prenatal hasta 5 años 11 meses;
 
 (REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XII], P.O. 31 DE MAYO DE 2023)
 
@@ -233,7 +241,9 @@ II. El de vivir en familia como espacio primordial de desarrollo;
 
 III. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que el Estado mexicano sea parte;
 
-IV. La igualdad;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IV. La igualdad sustantiva;
 
 V. La no discriminación;
 
@@ -266,6 +276,14 @@ Diseño, ejecución, seguimiento y evaluación de políticas públicas
 Las autoridades estatales y municipales, así como los organismos autónomos, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible privilegiando el interés superior de la niñez a través de medidas estructurales, legales, administrativas y presupuestales.
 
 Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental y cívica de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Políticas para la atención y desarrollo integral durante la primera infancia
+
+###### Artículo 5
+
+1. Las autoridades estatales y municipales, así como los organismos autónomos, establecerán políticas públicas enfocadas en la atención y el desarrollo integral durante la primera infancia. Las que estarán orientadas a mejorar el desarrollo cognitivo, social y emocional; y a atender las brechas de desigualdad existentes entre estratos sociales, regiones geográficas, género y a la diversidad inherente a cada persona.
 
 Deber de las autoridades
 
@@ -357,6 +375,10 @@ a) El Poder Ejecutivo del Estado:
 
 4. La Secretaría de Salud;
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+4-1. La Secretaría del Migrante y Enlace Internacional;
+
 5. El Sistema; y
 
 6. La Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes.
@@ -405,13 +427,27 @@ I. Garantizar que niñas, niños y adolescentes cuenten con una educación de ca
 
 II. Implementar acciones para que las instituciones sean lugares dignos y seguros para niñas, niños y adolescentes;
 
-III. Implementar acciones a fin de evitar el ausentismo, abandono y la deserción escolar;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+III. Implementar acciones para evitar el ausentismo, el abandono y la deserción escolar. Así como establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen estas situaciones a la Procuraduría de Protección cuando adviertan que ello se traduce en vulneraciones o restricciones a los derechos de niñas, niños y adolescentes, de conformidad con los protocolos que la citada Procuraduría de Protección establezca para tal efecto;
 
 IV. Establecer mecanismos de expresión y participación de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permitan atender y tomar en cuenta sus intereses y preocupaciones en materia educativa;
 
 V. Impulsar el acceso a espacios culturales, bibliotecas y centros educativos con la finalidad de desarrollar acciones de educación a través de actividades culturales y científicas;
 
 VI. Fomentar la convivencia libre de violencia en el entorno escolar, generando mecanismos para la solución de conflictos, abordando la problemática mediante su resolución pacífica;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VI-1. Establecer acciones afirmativas que garanticen el derecho a la educación de niñas o adolescentes embarazadas;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VI-2. Promover el conocimiento en materia de educación sexual, prevención del embarazo infantil y adolescente, así como las consecuencias del mismo en los proyectos de vida de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VI-3. Diseñar y promover estrategias para el uso responsable de tecnologías de la información y de la comunicación;
 
 VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrenten situaciones de vulnerabilidad por alguna circunstancia; y
 
@@ -431,7 +467,9 @@ III. Brindar atención y protección a niñas, niños y adolescentes que se encu
 
 IV. Generar acciones para que las familias en el Estado cuenten con un adecuado desarrollo social;
 
-V. Implementar medidas de inclusión plena y realizar las acciones afirmativas para garantizar a las niñas, niños y adolescentes la igualdad de oportunidades y trato, así como a no ser discriminados; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+V. Implementar medidas de inclusión plena y realizar las acciones afirmativas para garantizar a las niñas, niños y adolescentes la igualdad sustantiva, así como a no ser discriminados; y
 
 VI. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
 
@@ -449,11 +487,35 @@ III. Promover campañas para brindar atención odontológica y detectar y atende
 
 IV. Atender de manera especial a las niñas, niños y adolescentes que tengan enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, y demás enfermedades que por su naturaleza pongan en riesgo su vida o salud;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IV-1. Implementar campañas de información en materia de educación sexual y prevención del embarazo infantil y adolescente;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IV-2. En coordinación con la Secretaría de Educación del Estado, fomentar acciones para la detección temprana y la atención oportuna de niñas, niños y adolescentes con problemas de salud mental para la restitución de su derecho a la salud;
+
 V. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria; y
 
 VI. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
 
-El Sistema Estatal de Salud, en conjunto con el Sistema Nacional de Salud, en el marco de sus competencias, deberá garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+El Sistema Estatal de Salud, en conjunto con el Sistema Nacional de Salud, en el marco de sus competencias, deberá garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Atribuciones de la Secretaría del Migrante y Enlace Internacional
+
+###### Artículo 21
+
+1. La Secretaría del Migrante y Enlace Internacional tendrá las siguientes atribuciones:
+
+I. Promover y difundir los derechos humanos y las medidas de protección para niñas, niños y adolescentes migrantes, que garanticen el pleno ejercicio de sus derechos;
+
+II. Brindar atención y protección que privilegie la seguridad y libertad de niñas, niños y adolescentes migrantes en tránsito y deportados que se encuentren en territorio guanajuatense, ponderando el interés superior de la niñez; y
+
+III. Establecer, en coordinación con la Procuraduría de Protección, la vinculación institucional con el gobierno federal y organismos internacionales para procurar la protección de niñas, niños y adolescentes migrantes que se encuentren en condición de refugiados o deportados, adoptando medidas de protección integral.
 
 Obligaciones del Poder Legislativo
 
@@ -463,9 +525,13 @@ Corresponde al Poder Legislativo:
 
 I. Aprobar, difundir y dar seguimiento a las normas que garanticen los derechos de niñas, niños y adolescentes, acordes al objeto de la presente Ley;
 
-II. Aprobar y dar seguimiento a las normas y políticas que garanticen la igualdad de niñas, niños y adolescentes, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-III. Asegurar la asignación de presupuestos para cumplir con los objetivos de la Ley y fiscalizar su cumplimiento;
+II. Aprobar y dar seguimiento a las normas y políticas que garanticen la igualdad sustantiva de niñas, niños y adolescentes, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+III. Asegurar la asignación de presupuestos para cumplir con los objetivos de la Ley y fiscalizar su cumplimiento. En ningún caso, el presupuesto aprobado para la difusión, promoción, ejecución, supervisión y evaluación del Programa Estatal y acciones en favor de niñas, niños y adolescentes podrá ser inferior al aprobado en el ejercicio fiscal anterior;
 
 IV. Favorecer el trabajo legislativo con un enfoque que garantice los derechos humanos de niñas, niños y adolescentes;
 
@@ -524,6 +590,10 @@ VI. Promover la libre manifestación de las ideas de niñas, niños y adolescent
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
 VII. Establecer una Procuraduría Auxiliar;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VII-1. Constituir las Comisiones de Primera Infancia en el Sistema Municipal de Protección;
 
 VIII. Coadyuvar en la integración del Sistema de Información a nivel nacional de niñas, niños y adolescentes; y
 
@@ -652,6 +722,10 @@ XXIV. Recibir denuncias por violaciones a los derechos de niñas, niños y adole
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
 XXV. Asignar a niñas, niños y adolescentes que estén bajo su tutela una familia de acogida o pre-adoptiva que previamente haya obtenido el certificado de idoneidad correspondiente;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XXV-1. Establecer, en coordinación con la Secretaría del Migrante y Enlace Internacional, la vinculación institucional con el gobierno federal y organismos internacionales para procurar la protección de niñas, niños y adolescentes migrantes que se encuentren en condición de refugiados o deportados, adoptando medidas de protección integral;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -953,7 +1027,9 @@ III. Derecho a la identidad;
 
 IV. Derecho a vivir en familia;
 
-V. Derecho a la igualdad;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+V. Derecho a la igualdad sustantiva y ante la Ley;
 
 VI. Derecho a no ser discriminado;
 
@@ -980,6 +1056,14 @@ XVI. Derecho de asociación y reunión;
 XVII. Derecho a la protección de la intimidad;
 
 XVIII. Derecho a la seguridad jurídica y al debido proceso;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVIII-1. Derecho a una alimentación nutritiva, suficiente y de calidad;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVIII-2. Derecho a ser protegidos contra todas las formas de abuso físico, psicológico o sexual, descuido o trato negligente, malos tratos y explotación, incluida la económica, y contra el desempeño de cualquier trabajo que pueda ser peligroso o entorpecer su educación, o que sea nocivo para su salud o para su desarrollo físico, mental, espiritual, moral o social;
 
 XIX. Derechos de niñas, niños y adolescentes migrantes; y
 
@@ -1175,21 +1259,125 @@ I. Las familias de acogida y de las niñas, niños y adolescentes acogidos por e
 
 II. Las niñas, niños y adolescentes residentes en centros de asistencia social que permita identificar a las personas residentes en ellos, la causa de su ingreso y su situación jurídica, diferenciando, por lo menos, entre los niños, niñas y adolescentes con posibilidades de reintegración familiar; candidatos de acogimiento familiar o adopción; los que se encuentran bajo una medida de protección, y aquéllos que ingresen a centros de asistencia social.
 
-### Capítulo VI. Derecho a la Igualdad
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-Derecho a la Igualdad
+Responsabilidad de la Procuraduría de Protección
+
+###### Artículo 41
+
+4. La Procuraduría de Protección será responsable del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento y, en su caso, la adopción.
+
+Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible para no afectar el entorno familiar.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Obligaciones en materia de adopción
+
+###### Artículo 41
+
+5. En materia de adopción, se deberá observar lo siguiente:
+
+I. Garantizar que niñas, niños y adolescentes sean adoptados con pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez, y no mediando intereses particulares o colectivos que se contrapongan al mismo;
+
+II. Asegurar que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley;
+
+III. Garantizar que se asesore jurídicamente, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma;
+
+IV. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella;
+
+V. Garantizar que en los procesos de adopción se respeten las normas que los rijan de conformidad con lo dispuesto en esta Ley; y
+
+VI. Establecer medidas de protección a fin de evitar presiones indebidas y coacción a las familias de origen para renunciar a la niña, el niño o el adolescente.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Prohibiciones en materia de adopción
+
+###### Artículo 41
+
+6. Para los fines de esta Ley se prohíbe:
+
+I. La promesa de adopción durante el proceso de gestación;
+
+II. La adopción privada, entendida como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia, o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes, sin que intervengan las autoridades competentes de conformidad con esta Ley;
+
+III. Que la adopción se realice para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier ilícito. Si se presentare cualquiera de los supuestos referidos una vez concluida judicialmente la adopción, la Procuraduría de Protección presentará denuncia ante el Ministerio Público y tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes;
+
+IV. El contacto de los padres biológicos que entregaron en adopción a una niña, un niño o un adolescente, con el adoptante, el adoptado o con cualquier persona involucrada en la adopción; con excepción de los casos en que los adoptantes sean familiares biológicos, de la familia extensa o cuando el adoptado desee conocer sus antecedentes familiares y sea mayor de edad. Niñas, niños y adolescentes que deseen conocer sus antecedentes familiares deberán contar con el consentimiento de los adoptantes, siempre que ello atienda al interés superior de la niñez;
+
+V. La inducción a través de cualquier forma de compensación o pago para influenciar o favorecer la decisión de otorgar a la niña, el niño o el adolescente en adopción;
+
+VI. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia de origen o extensa del adoptado, o por cualquier persona, así como por funcionarios o trabajadores de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción;
+
+VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción; y
+
+VIII. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano, la Ley General, o al interés superior de la niñez y su adecuado desarrollo evolutivo.
+
+Las autoridades vigilarán el desarrollo del proceso de adaptación a través del seguimiento que realice la Procuraduría de Protección, mediante los reportes subsecuentes, respetando el derecho de la familia a vivir conforme a sus estándares, costumbres y valores.
+
+Las autoridades podrán suspender el proceso de adopción cuando tengan razones para creer que la adopción se realiza en contravención de lo establecido por la presente Ley. En caso de que el proceso de adopción haya concluido judicialmente, la Procuraduría de Protección tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes en los términos que disponga la ley para los hijos consanguíneos.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Adopción de niñas, niños y adolescentes
+
+###### Artículo 41
+
+7. Pueden ser adoptados niñas, niños y adolescentes que:
+
+I. No tengan quien ejerza sobre ellas o ellos la patria potestad;
+
+II. Sean expósitos o abandonados; y
+
+III. Estando bajo patria potestad o tutela, quien la ejerce manifieste por escrito su consentimiento ante la Procuraduría de Protección o ante el órgano, jurisdiccional competente.
+
+En todo caso se deberá contar con el informe de adaptabilidad.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Obligación para quien encuentre a una niña, niño o adolescente abandonado, extraviado o expuesto
+
+###### Artículo 41
+
+8. Toda persona que encuentre una niña, niño o adolescente abandonado, extraviado o expuesto, deberá presentarlo ante la Procuraduría de Protección, en términos del Código Civil para el Estado de Guanajuato.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Restricción para el ingreso a los centros de asistencia social
+
+###### Artículo 41
+
+9. Los centros de asistencia social que reciban niñas, niños y adolescentes en situación de indefensión o desamparo familiar sólo podrán recibirlos por disposición de la Procuraduría de Protección o bien por disposición de autoridad competente.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Centros de asistencia social y mayoría de edad
+
+###### Artículo 41
+
+10. Los centros de asistencia social públicos y privados que tengan bajo su custodia adolescentes que cumplan la mayoría de edad, deberán garantizarles los servicios de atención que les permitan una óptima inclusión al entorno social.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2024)</small>
+
+### Capítulo VI. Derecho a la Igualdad sustantiva
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Derecho a la igualdad sustantiva
 
 ###### Artículo 42.
 
-Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales. Las autoridades estatales y municipales, así como los organismos autónomos, implementarán políticas públicas transversales que garanticen y fomenten la igualdad en favor de los mismos.
+Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales. Las autoridades estatales y municipales, así como los organismos autónomos, implementarán políticas públicas transversales que garanticen y fomenten la igualdad sustantiva en favor de los mismos.
+
+Las autoridades estatales y municipales, así como los organismos autónomos, establecerán los mecanismos institucionales para el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las niñas, niños y adolescentes.
 
 Progresividad normativa en materia de igualdad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 43.
 
-Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar en todo momento sus derechos en aras de alcanzar la igualdad entre ellas, con respecto a los niños y los adolescentes y, en general, con toda la sociedad.
+Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas o visibilizar, promover, respetar, proteger y garantizar en todo momento sus derechos en aras de alcanzar la igualdad sustantiva entre ellas, con respecto a los niños y los adolescentes y, en general, con toda la sociedad.
 
 ### Capítulo VII. Derecho a no ser Discriminado
 
@@ -1211,11 +1399,11 @@ Dichos reportes deberán desagregar la información, por lo menos, en razón de 
 
 Medidas de eliminación de usos, costumbres, prácticas culturales o discriminatorias
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 46.
 
-Las autoridades estatales y municipales adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o religiosas, estereotipos sexistas o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género, o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez.
+Las autoridades estatales y municipales adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o religiosas, estereotipos sexistas o prejuicios que atenten contra la igualdad sustantiva de niñas, niños y adolescentes por razón de género, o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez.
 
 ### Capítulo VIII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral
 
@@ -1249,11 +1437,49 @@ Derecho a una vida libre de violencia digital
 
 1. Niñas, niños y adolescentes tienen derecho a no sufrir violencia en el ámbito digital. Tanto las autoridades como quienes ejerzan la patria potestad, tutela, guarda o custodia deberán tomar acciones para detectar y atender en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar la dignidad, intimidad, libertad y vida privada de niñas, niños y adolescentes.
 
-Coordinación entre autoridades por traslado o retención ilegal de niñas, niños y adolescentes
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-Artículo 40 (SIC). Cuando las autoridades estatales o municipales tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales, conforme a las disposiciones aplicables, para su localización y restitución.
+Obligación de adoptar medidas en favor de las niñas, niños y adolescentes
 
-Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
+###### Artículo 48
+
+2. Las autoridades estatales y municipales, así como los organismos autónomos, en el marco de sus respectivas competencias, están obligados a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
+
+I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
+
+II. La corrupción de personas menores de dieciocho años;
+
+III. La trata de personas menores de dieciocho años, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
+
+IV. El tráfico de menores;
+
+V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
+
+VI. El trabajo en adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, la explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
+
+VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+
+VIII. El castigo corporal y humillante.
+
+Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
+
+Las autoridades competentes están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+
+> <small>[N. DE E. VÉASE LA LITERALIDAD DEL P.O. 7 DE JUNIO DE 2024, PÁGINA 199. SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DE ESTE ARTÍCULO]</small>
+
+> <small>(REFORMADO ÁCAPITE, P.O. 7 DE JUNIO DE 2024)</small>
+
+Medidas de recuperación... (sic)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 49.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana, sin discriminación.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+La recuperación y ... (sic)
 
 Otorgamiento de medidas especiales de protección
 
@@ -1279,9 +1505,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Derecho a la igualdad e inclusión por condiciones de discapacidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 54.
 
-Las niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad, a vivir incluidos en la comunidad en igualdad de condiciones que las demás niñas, niños y adolescentes y a disfrutar de los derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales la Constitución Política para el Estado de Guanajuato, y la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato.
+Las niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad sustantiva, a vivir incluidos en la comunidad en igualdad de trato y condiciones que las demás niñas, niños y adolescentes y a disfrutar de los derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales la Constitución Política para el Estado de Guanajuato, y la Ley de Inclusión para las Personas con Discapacidad en el Estado de Guanajuato.
 
 ### Capítulo XII. Derecho a la Educación
 
@@ -1363,7 +1591,9 @@ III. La orientación a niñas, niños y adolescentes en el ejercido (sic) de sus
 
 IV. La promoción de la prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos;
 
-V. El enfoque de inclusión, igualdad, no discriminación y respeto de sus derechos humanos; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+V. El enfoque de inclusión, igualdad sustantiva, no discriminación y respeto de sus derechos humanos; y
 
 VI. Los demás que sean acordes a los fines y principios establecidos en esta Ley.
 
@@ -1439,6 +1669,14 @@ Protección de la identidad e intimidad
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un hecho delictuoso, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación penal aplicable.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deben garantizar la protección de la identidad e intimidad de niñas, niños y adolescentes cuando su imagen sea utilizada con fines de información, difusión o propaganda, así como que su participación esté libre de cualquier tipo de denigración o violencia física, simbólica, emocional o psicológica, aun cuando medie autorización por escrito de quienes ejercen la patria potestad, tutela o guarda y custodia.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Para efecto de lo anterior, las autoridades deben informar, escuchar y tomar en cuenta la opinión de niñas, niños y adolescentes conforme a su autonomía progresiva.
+
 Protección de la identidad por parte de los medios de comunicación
 
 ###### Artículo 72.
@@ -1457,7 +1695,61 @@ Derecho a la seguridad jurídica y al debido proceso
 
 Niñas, niños y adolescentes gozan de los derechos de seguridad jurídica y del debido proceso, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política para el Estado de Guanajuato, esta Ley y demás disposiciones legales.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias atenderán las obligaciones que les mandate la Ley General.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE JUNIO DE 2024)</small>
+
+Las autoridades estatales y municipales que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas, cuando
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+I. Garantizar la protección y prevalencia del interés superior de la niñez;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+II. Garantizar el ejercicio de los derechos de niñas, niños y adolescentes, establecidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en los que el Estado Mexicano sea parte, en esta Ley y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+III. Proporcionar información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo; incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IV. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+V. Garantizar el derecho de niñas, niños y adolescentes a ser representados en términos de lo dispuesto en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VI. Proporcionar asistencia de profesionales especializados cuando la naturaleza del procedimiento lo requiera;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VII. Proporcionar la asistencia de un traductor o intérprete;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VIII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IX. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+X. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan influir en su comportamiento o estabilidad emocional, cuando así lo determine la autoridad competente, antes y durante la realización de la audiencia o comparecencia respectiva;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XI. Destinar espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos, de conformidad con los principios de autonomía progresiva y celeridad procesal; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimiento durante su participación y garantizar el resguardo de su intimidad y datos personales.
 
 Medidas de protección integral
 
@@ -1543,17 +1835,47 @@ Atribución de las procuradurías
 
 1. La Procuraduría de Protección y las Procuradurías Auxiliares coadyuvarán con las personas defensoras de derechos humanos, la Comisión Nacional de los Derechos Humanos y la Procuraduría de los Derechos Humanos del Estado de Guanajuato, para garantizar la protección integral de los derechos de niñas, niños y adolescentes migrantes.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2024)</small>
+
+### Capítulo XX-1. Derecho a la alimentación nutritiva, suficiente y de calidad
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Derecho a la alimentación nutritiva, suficiente y de calidad
+
+###### Artículo 83
+
+2. Niñas, niños y adolescentes tienen derecho a una alimentación nutritiva, suficiente y de calidad que asegure su pleno desarrollo físico y mental.
+
+Las secretarías de salud y de educación del Estado, de manera coordinada, con la participación de niñas, niños y adolescentes, garantizarán la disponibilidad de información sobre la importancia de la alimentación nutritiva, suficiente y de calidad; y su relación con los beneficios a la salud.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE JUNIO DE 2024)</small>
+
+### Capítulo XX-2. Derechos de niñas y niños en primera infancia
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Derechos de niñas y niños en primera infancia
+
+###### Artículo 83
+
+3. Niñas y niños en primeria infancia gozarán de los siguientes derechos:
+
+I. A recibir atención multidisciplinaria en pediatría; psicología y terapia de lenguaje, así como a recibir estimulación temprana, encaminada a conformar adecuadamente su sistema nervioso con el fin de desarrollar al máximo sus capacidades cognitivas, físicas, emocionales, sociales, afectivas y lingüísticas;
+
+II. A recibir alimentación nutritiva durante las etapas de pre-gestación, embarazo, nacimiento, crecimiento y desarrollo;
+
+III. A ser derechohabientes de las políticas y programas con el propósito de garantizar el pleno ejercicio, respeto, protección y promoción de sus derechos y que les permitan generar condiciones y oportunidades de igualdad para desarrollar sus capacidades;
+
+IV. A la movilidad social e intergeneracional y al desarrollo psicosocial;
+
+V. A la recepción de servicios integrales que permitan valorar su progreso durante la primera etapa de su vida y que promuevan la detección oportuna de la discapacidad y rezagos en el desarrollo, así como su tratamiento y rehabilitación sin discriminación;
+
+VI. Al descanso, al juego y al esparcimiento, los cuales se considerarán como parte integral de su desarrollo y crecimiento; así como a disfrutar de las manifestaciones y actividades culturales y artísticas de su comunidad; y
+
+VII. A crecer y desarrollarse en un entorno saludable, seguro, afectivo y libre de violencia o conductas nocivas.
+
 ### Capítulo XXI. Deberes de Niñas, Niños y Adolescentes
-
-### Capítulo Único. Obligaciones de quienes ejercen la patria potestad, tutela, guarda o custodia de Niñas, Niños y Adolescentes
-
-Asistencia a quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes
-
-### Capítulo Único. Centros de Asistencia Social
-
-Centros de Asistencia Social
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 84.
 
@@ -1561,11 +1883,9 @@ Centros de Asistencia Social
 
 ## Título Tercero. Obligaciones
 
-### Capítulo I. Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes
+### Capítulo Único. Obligaciones de quienes ejercen la patria potestad, tutela, guarda o custodia de Niñas, Niños y Adolescentes
 
-> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
-
-Integrantes del Sistema Estatal de Protección
+Asistencia a quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes
 
 ###### Artículo 85.
 
@@ -1619,9 +1939,9 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## Título Cuarto. Protección de Niñas, Niños y Adolescentes
 
-### Capítulo II. Secretaría Ejecutiva
+### Capítulo Único. Centros de Asistencia Social
 
-Atribuciones de la Secretaría Ejecutiva
+Centros de Asistencia Social
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -1717,7 +2037,9 @@ Obligaciones del coordinador o director del centro de asistencia social
 
 I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para el funcionamiento de los centros de asistencia social;
 
-II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, y remitirlo semestralmente a la Procuraduría de Protección;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, el cual actualizarán de manera permanente e informarán de inmediato a la Procuraduría de Protección, que a su vez remitirá dicha información a la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes;
 
 III. Asegurar que las instalaciones tengan en lugar visible la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social;
 
@@ -1753,9 +2075,11 @@ La Procuraduría de Protección hará público y consultable en la página de in
 
 ## Título Quinto. Protección y restitución integral de los derechos de las Niñas, Niños y Adolescentes
 
-### Capítulo III. Atribuciones del Sistema Estatal de Protección
+### Capítulo I. Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes
 
-Atribuciones del Sistema Estatal de Protección
+> <small>(REFORMADO SU ACÁPITE, P.O. 1 DE AGOSTO DE 2019)</small>
+
+Integrantes del Sistema Estatal de Protección
 
 ###### Artículo 91.
 
@@ -1791,6 +2115,10 @@ XI. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanaju
 
 XII. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XII-1. La titular del Instituto para las Mujeres Guanajuatenses; y
+
 XIII. El Director General del Sistema Estatal para el Desarrollo Integral de la Familia; y
 
 XIV. Tres representantes de la sociedad civil, designados por el Gobernador en los términos de la convocatoria que para tal efecto se emita, y de conformidad con el Reglamento de esta Ley.
@@ -1815,15 +2143,21 @@ Constitución de comisiones
 
 Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección podrá constituir comisiones encargadas de atender asuntos o materias específicas.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Para la atención y seguimiento de las políticas y programas durante la primera infancia, se deberá constituir la Comisión de la Primera Infancia cuya integración garantizará la transversalización de acciones de los programas públicos.
+
 Invitados a las sesiones del Sistema Estatal de Protección
 
 ###### Artículo 94.
 
 A las sesiones del Sistema Estatal de Protección, el Presidente podrá invitar con carácter permanente o temporal, a servidores públicos de otros poderes, de dependencias o entidades, a representantes de instituciones públicas y privadas, así como a ciudadanos, con actividades afines a su objeto; quienes únicamente tendrán derecho a voz.
 
-### Capítulo IV. Sistemas Municipales de Protección
+### Capítulo II. Secretaría Ejecutiva
 
-Integración de los Sistemas Municipales de Protección
+Atribuciones de la Secretaría Ejecutiva
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2019)</small>
 
 ###### Artículo 95.
 
@@ -1863,9 +2197,9 @@ V. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
 VI. (DEROGADA, P.O. 31 DE MAYO DE 2023)
 
-### Capítulo V. Programas Estatal y Municipales de Protección
+### Capítulo III. Atribuciones del Sistema Estatal de Protección
 
-Programa Estatal y municipal
+Atribuciones del Sistema Estatal de Protección
 
 ###### Artículo 96.
 
@@ -1899,7 +2233,11 @@ XIII. Garantizar la participación de niñas, niños y adolescentes en el ejerci
 
 XIV. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes;
 
-XV. Administrar el Sistema Estatal de Información y coadyuvar en la integración del Sistema de Información Nacional;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XV. Administrar el Sistema Estatal de Información y coadyuvar en la integración del Sistema de Información Nacional.
+
+El Sistema Estatal de Información deberá contener los registros y datos que establezca el Reglamento de esta Ley, incluyendo los relativos a niñas, niños y adolescentes sin cuidados parentales y en situación de orfandad. Todas las autoridades del Sistema Estatal de Protección, de conformidad con sus respectivos ámbitos de competencia, deben coadyuvar para la integración de dicho sistema;
 
 XVI. Realizar acciones de formación y capacitación de manera sistémica y continua sobre el conocimiento y respeto de los derechos humanos de niñas, niños y adolescentes, principalmente con aquellas personas que trabajan desde los diversos ámbitos en la garantía de sus derechos;
 
@@ -1915,11 +2253,19 @@ XVIII-1. Establecer programas de integración familiar, así como implementar pr
 
 XVIII-2. Impulsar mecanismos que permitan el desarrollo de un enfoque preventivo y multidisciplinario de las políticas, programas, estrategias y acciones en materia de protección y ejercicio de los derechos de las niñas, niños y adolescentes; y
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVIII-3. Establecer las acciones para garantizar el acceso de niñas, niños y adolescentes a servicios de educación sexual y prevención del embarazo infantil y adolescente;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVIII-4. Asesorar a las Comisiones de Primera Infancia; y
+
 XIX. Las demás que le confiera ésta Ley y otras disposiciones aplicables.
 
-### Capítulo VI. Responsabilidades
+### Capítulo IV. Sistemas Municipales de Protección
 
-Responsabilidad administrativa
+Integración de los Sistemas Municipales de Protección
 
 ###### Artículo 97.
 
@@ -1983,6 +2329,10 @@ XI. Determinar la reintegración de niñas, niños y adolescentes; y
 
 XII. Las demás que se desprendan de la Ley General, esta Ley, su Reglamento u otros ordenamientos aplicables.
 
+### Capítulo V. Programas Estatal y Municipales de Protección
+
+Programa Estatal y municipal
+
 ###### Artículo 99.
 
 El Programa Estatal y los Programas Municipales contendrán las políticas, objetivos, estrategias y líneas de acción prioritarias en materia de ejercicio, respeto, promoción y protección integral de niñas, niños y adolescentes. Deberá prever acciones de mediano y largo alcance, indicar los objetivos, estrategias y líneas de acción prioritarias, y deberá alinearse al Programa Nacional de Protección de Niñas, Niños y Adolescentes.
@@ -1992,6 +2342,10 @@ Inclusión de mecanismos de transparencia
 ###### Artículo 100.
 
 Los Programas Estatal y Municipales deberán incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana.
+
+### Capítulo VI. Responsabilidades
+
+Responsabilidad administrativa
 
 ###### Artículo 101.
 
@@ -2282,3 +2636,23 @@ Artículo Séptimo. El nombramiento de las personas titulares de las Procuradur�
 Recursos presupuestales
 
 Artículo Octavo. Con la finalidad de dar cumplimiento a las obligaciones generadas con motivo de la entrada en vigor del presente Decreto, las autoridades estatal y municipales, deberán integrar, de manera progresiva en su presupuesto los recursos necesarios.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 317 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE A LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO”.]
+
+Entrada en vigor del Decreto
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Adecuaciones reglamentarias
+
+Artículo Segundo. El Poder Ejecutivo y los ayuntamientos realizarán las adecuaciones reglamentarias correspondientes en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+Estrategias de coordinación
+
+Artículo Tercero. La Secretaría del Migrante y Enlace Internacional y la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato diseñarán, en un plazo de seis meses, contado a partir del 26 de septiembre de 2024, de conformidad con el artículo 71 de la Constitución Política para el Estado de Guanajuato, las estrategias de coordinación para procurar la protección de niñas, niños y adolescentes migrantes que se encuentren en condición de refugiados o deportados, adoptando medidas de protección integral.
+
+Derogaciones
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
