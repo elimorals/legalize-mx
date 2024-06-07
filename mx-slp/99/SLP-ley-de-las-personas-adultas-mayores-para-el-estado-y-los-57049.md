@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2023-11-08"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -321,11 +321,15 @@ XV. A la emisión de una cartilla médica para el control de la salud;
 
 XVI. De asociarse y conformar organizaciones de personas adultas mayores;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XVII. Acceder a los servicios de apoyo económico establecido por el artículo 42 de esta Ley, y
+XVII. Acceder a los servicios de apoyo económico establecido por el artículo 42 de esta Ley;
 
-XVIII. Los demás que establezca la ley.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVIII. A la información, plural, oportuna y accesible, la cual será garantizada por el Estado. Las instituciones públicas y privadas, a cargo de programas sociales deberán proporcionarles información y asesoría tanto sobre las garantías consagradas en esta Ley como sobre los derechos establecidos en otras disposiciones a favor de las personas adultas mayores, y
+
+XIX. Los demás que establezca la ley.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -1364,3 +1368,11 @@ P.O. 8 DE NOVIEMBRE DE 2023.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1048.- SE REFORMA LA FRACCIÓN XVII Y ADICIONA LA FRACCIÓN XVIII, DEL ARTÍCULO 6°, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
