@@ -4,7 +4,7 @@ identifier: "LGPSEDMTP"
 country: "mx"
 rank: "ley_general"
 publication_date: "2012-06-14"
-last_updated: "2023-04-05"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88192&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGPSEDMTP"
 
 LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 14 de junio de 2012.
 
@@ -104,6 +104,18 @@ X. Presunción de minoría de edad: En los casos que no pueda determinarse o exi
 
 XI. Las medidas de atención, asistencia y protección, beneficiarán a todas las víctimas de los delitos previstos por esta Ley, con independencia de si el sujeto activo ha sido identificado, aprehendido, juzgado o sentenciado, así como de la relación familiar, de dependencia, laboral o económica que pudiera existir entre éste y la víctima.
 
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+XII. Interseccionalidad: Herramienta analítica que reconoce que las desigualdades sistemáticas se configuran a partir de la superposición de diferentes factores sociales como el género, la etnia y la clase social. En consecuencia, tanto las desventajas como los privilegios que tiene una persona en un momento y lugar determinados no pueden entenderse de su identidad. Por el contrario, se debe prestar atención al conjunto de relaciones de poder que le afectan, incluidas aquellas fuerzas a nivel macro como el pasado colonial y la pobreza; y las fuerzas a nivel micro, entre ellas el estado de salud de una persona y la estructura de su familia o comunidad.
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+XIII. Interculturalidad: Es una metodología que permite la interacción respetuosa entre diferentes culturas y grupos étnicos, mediante la cual se reconoce y valora la diversidad cultural, buscando la igualdad de derechos y oportunidades para todas las personas, independientemente de su origen cultural o étnico.
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+XIV. Enfoque de Derechos Humanos: Metodología basada en estándares internacionales de derechos humanos. Su objetivo es analizar las desigualdades y corregir las prácticas discriminatorias y las distribuciones injustas de poder que impiden el progreso del desarrollo y que a menudo se centran en grupos históricamente discriminados.
+
 ###### Artículo 4o.
 
 Para los efectos de la presente Ley se entenderá por:
@@ -144,13 +156,19 @@ XVI. Publicidad engañosa: Para los fines de esta Ley, se considerará engañosa
 
 XVII. Situación de vulnerabilidad: Condición particular de la víctima derivada de uno o más de las siguientes circunstancias que puedan derivar en que el sujeto pasivo realice la actividad, servicio o labor que se le pida o exija por el sujeto activo del delito:
 
-a) Su origen, edad, sexo, condición socioeconómica precaria;
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-b) Nivel educativo, falta de oportunidades, embarazo, violencia o discriminación sufridas previas a la trata y delitos relacionados;
+a) Su origen, edad, sexo, condición socioeconómica precaria, religión, u orientación sexual;
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+b) Nivel educativo, falta de oportunidades, embarazo, condición de salud, violencia o discriminación sufridas previas a la trata y delitos relacionados;
 
 c) Situación migratoria, trastorno físico o mental o discapacidad;
 
-d) Pertenecer o ser originario de un pueblo o comunidad indígena;
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+d) Pertenecer a pueblos o comunidades indígenas o afromexicanas;
 
 e) Ser una persona mayor de sesenta años;
 
@@ -242,7 +260,9 @@ V. El trabajo o servicios forzados, en los términos del artículo 22 de la pres
 
 VI. La mendicidad forzosa, en los términos del artículo 24 de la presente Ley;
 
-VII. La utilización de personas menores de dieciocho años en actividades delictivas, en los términos del artículo 25 de la presente Ley;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+VII. La utilización de personas menores de dieciocho años o que no tenga la capacidad de comprender el significado del hecho, o no tenga la capacidad de resistir la conducta, en actividades delictivas, en los términos del artículo 25 de la presente Ley;
 
 VIII. La adopción ilegal de persona menor de dieciocho años, en los términos de los artículos 26 y 27 de la presente Ley;
 
@@ -296,6 +316,14 @@ Tratándose de personas menores de edad o personas que no tiene (sic) la capacid
 
 Será sancionado con pena de 10 a 15 años de prisión y de un mil a 30 mil días multa, al que someta a una persona o se beneficie de someter a una persona para que realice actos pornográficos, o produzca o se beneficie de la producción de material pornográfico, o engañe o participe en engañar a una persona para prestar servicios sexuales o realizar actos pornográficos.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Para lo anterior, también se considerará el uso de las tecnologías de la información y comunicación, tales como herramientas, programas, plataformas y dispositivos que se utilizan para procesar, administrar, editar, difundir, o crear contenido con la información o material que devenga de una persona víctima.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Si se utiliza con los fines de los párrafos anteriores a personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, se impondrá una pena de 16 a 21 años de prisión y de un mil 500 a 45 mil días multa.
+
 ###### Artículo 15.
 
 Será sancionado con pena de 5 a 15 años de prisión y de un mil a 30 mil días multa, al que se beneficie económicamente de la explotación de una persona mediante el comercio, distribución, exposición, circulación u oferta de libros, revistas, escritos, grabaciones, filmes, fotografías, anuncios impresos, imágenes u objetos, de carácter lascivo o sexual, reales o simulados, sea de manera física, o a través de cualquier medio.
@@ -314,9 +342,11 @@ Se impondrán las mismas sanciones previstas en el primer párrafo del presente 
 
 Se impondrá pena de 5 a 15 años de prisión y de un mil a 20 mil días multa al que almacene, adquiera o arriende para sí o para un tercero, el material a que se refiere el artículo anterior, sin fines de comercialización o distribución.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 18.
 
-Se impondrá pena de 15 a 25 años de prisión y de un mil a 20 mil días multa, al que promueva, publicite, invite, facilite o gestione por cualquier medio a que una o más personas viajen al interior o exterior del territorio nacional con la finalidad de que realicen cualquier tipo de actos sexuales, reales o simulados, con una o varias personas menores de dieciocho años de edad, o con una o varias personas que no tienen capacidad para comprender el significado del hecho o con una o varias personas que no tienen capacidad para resistirlo, y se beneficie económicamente de ello.
+Se impondrá pena de 15 a 25 años de prisión y de un mil a 20 mil días multa, al que promueva, publicite, invite, facilite o gestione por cualquier medio a que una o más personas viajen al interior o exterior del territorio nacional con la finalidad de que realicen cualquier tipo de actos sexuales, reales o simulados, con una o varias personas menores de dieciocho años de edad, o con una o varias personas que no tienen capacidad para comprender el significado del hecho o con una o varias personas que no tienen capacidad para resistirlo, así como con una o varias personas pertenecientes a pueblos o comunidades indígenas o afromexicanas y se beneficie económicamente de ello.
 
 ###### Artículo 19.
 
@@ -350,6 +380,14 @@ II. Existencia de una manifiesta desproporción entre la cantidad de trabajo rea
 
 III. Salario por debajo de lo legalmente establecido.
 
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+IV. Jornadas de trabajo por encima de lo estipulado por la Ley.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Tratándose de personas pertenecientes a pueblos y comunidades indígenas y afromexicanas las penas previstas serán de 4 a 12 años de prisión, y de 7 mil a 70 mil días multa.
+
 ###### Artículo 22.
 
 Será sancionado con pena de 10 a 20 años de prisión, y de 5 mil a 50 mil días multa, quien tenga o mantenga a una persona en trabajos forzados.
@@ -382,11 +420,15 @@ Será sancionado con prisión de 4 a 9 años y de 500 a 20 mil días multa, a qu
 
 Se entiende por explotación de la mendicidad ajena, obtener un beneficio al obligar a una persona a pedir limosna o caridad contra su voluntad, recurriendo a la amenaza de daño grave, un daño grave o al uso de la fuerza u otras formas de coacción, o el engaño.
 
-Si se utiliza con los fines del párrafo primero de este artículo a personas menores de dieciocho años, mayores de setenta, mujeres embarazadas, personas con lesiones, enfermedades o discapacidad física o psicológica, se impondrá pena de 9 a 15 años de prisión y de un mil a 25 mil días multa.
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Si se utiliza con los fines del párrafo primero de este artículo a personas menores de dieciocho años, o que no tenga la capacidad de comprender el significado del hecho, o no tenga capacidad de resistir la conducta; personas mayores de sesenta años, pertenecientes a pueblos y comunidades indígenas y afromexicanas, mujeres embarazadas, personas con lesiones, enfermedades o discapacidad física o psicológica, se impondrá pena de 9 a 15 años de prisión y de un mil a 25 mil días multa.
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 25.
 
-Será sancionado con pena de 10 a 20 años de prisión y de un mil a 20 mil días multa, a quien utilice a personas menores de dieciocho años en cualquiera de las actividades delictivas señaladas en el artículo 2o de la Ley Federal contra la Delincuencia Organizada.
+Será sancionado con pena de 10 a 20 años de prisión y de un mil a 20 mil días multa, a quien utilice a personas menores de dieciocho años o que no tenga la capacidad de comprender el significado del hecho, o no tenga capacidad de resistir la conducta, en cualquiera de las actividades delictivas señaladas en el artículo 2o. de la Ley Federal contra la Delincuencia Organizada.
 
 ###### Artículo 26.
 
@@ -440,6 +482,10 @@ Al que dé en comodato, en arrendamiento o alquile un bien inmueble, casa o habi
 
 Se sancionará con pena de 2 a 40 años de prisión y de un mil a 25 mil días multa, además de las que resulten por la comisión de conductas previstas en otros ordenamientos legales aplicables, al que, a sabiendas de su situación de trata, adquiera, use, compre, solicite o alquile servicios de una persona para cualquiera de los fines previstos en los delitos materia de la presente Ley.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+La pena se incrementará cuando la víctima sea una persona menor de 18 años o que no tenga la capacidad de comprender el significado del hecho, o que no tenga la capacidad de resistirlo; mayores de sesenta años, personas pertenecientes a pueblos y comunidades indígenas y afromexicanas, mujeres embarazadas, o personas con discapacidad, de 12 a 50 años de prisión y de 12 mil a 50 mil días multa, además de las que resulten por la comisión de conductas previstas en otros ordenamientos legales aplicables.
+
 ###### Artículo 36.
 
 Además de lo que al respecto disponga el Código Penal Federal, se aplicará pena de 3 a 6 años de prisión y de un mil a 10 mil días multa, al que divulgue, sin motivo fundado, información reservada o confidencial relacionada con los delitos, procesos y personas objeto de esta Ley o relacionada con el Programa de Protección de Víctimas, Ofendidos y Testigos.
@@ -484,9 +530,13 @@ V. El delito cause la muerte o el suicidio de la víctima;
 
 VI. El delito cause daño o lesiones corporales graves a la víctima y enfermedades psicológicas o físicas, incluido el VIH/SIDA;
 
-VII. El delito sea cometido contra una mujer embarazada, personas con discapacidad física o psicológica, menor de dieciocho años de edad o de la tercera edad que no tengan capacidad de valerse por sí misma;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-VIII. Cuando la víctima pertenezca a un grupo indígena y en razón de ello sea objeto de alguna condición de desventaja o tenga una condición de vulnerabilidad;
+VII. El delito sea cometido contra una mujer embarazada, personas con discapacidad física o psicológica, menor de dieciocho años de edad o que no tenga la capacidad de comprender el significado o no tenga la capacidad de resistir la conducta, o de la tercera edad que no tengan capacidad de valerse por sí misma;
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+VIII. Cuando la víctima pertenezca a pueblos o comunidades indígenas y afromexicanas, y en razón de ello sea objeto de alguna condición de desventaja o tenga una condición de vulnerabilidad;
 
 IX. El delito comprenda más de una víctima;
 
@@ -598,11 +648,15 @@ La reparación del daño se podrá reclamar en forma conexa a la responsabilidad
 
 Lo anterior de conformidad a lo establecido en los códigos Civil y de Procedimientos Civiles que corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 51.
 
-Son obligaciones de las autoridades para garantizar la reparación del daño:
+Son obligaciones de las autoridades para garantizar la reparación integral del daño:
 
-I. Realizar todas las acciones y diligencias necesarias para que la víctima sea restituida en el goce y ejercicio de sus derechos;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+I. Realizar todas las acciones y diligencias necesarias bajo los más altos estándares internacionales de debida diligencia para que la víctima sea restituida en el goce y ejercicio de sus derechos;
 
 II. Proporcionar los tratamientos médicos y psicológicos para la recuperación de la víctima, en los términos de la Constitución.
 
@@ -752,13 +806,23 @@ Asimismo, deberán proporcionar a las víctimas en un idioma o lengua con su res
 
 III. Diseñar y poner en marcha modelos de protección y asistencia inmediatas a víctimas o posibles víctimas ante la comisión o posible comisión de los delitos previstos en esta Ley;
 
-IV. Generar modelos y Protocolos de Asistencia y Protección, según sus necesidades;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-V. Proveer la debida protección y asistencia en albergues durante su recuperación, rehabilitación y resocialización, así como en los lugares adecuados para garantizar su seguridad.
+IV. Generar modelos y Protocolos de Asistencia y Protección, según sus necesidades, salvaguardando en todo momento su dignidad y garantizando sus derechos humanos;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 7 DE JUNIO DE 2024)</small>
+
+V. Proveer la debida protección, asistencia y atención integral a las víctimas en refugios y albergues durante su recuperación, rehabilitación y resocialización, garantizando en todo momento su seguridad, así como un trato digno respetuoso y adecuado a su contexto.
 
 Estos programas dependerán de las instancias competentes para prestar atención a las víctimas, ya sean federal o de las entidades federativas, por sí mismas o en coordinación con instituciones especializadas públicas o privadas, en términos de la normativa aplicable, en los que podrán participar la sociedad civil coordinadamente con las áreas responsables.
 
-VI. Diseñar y aplicar modelos que ofrezcan alternativas dignas y apropiadas para las víctimas, con el propósito de restituirles sus derechos humanos, especialmente mujeres, niñas, niños y adolescentes;
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+En el caso de los refugios estos deberán ser especializados en brindar atención integral a las víctimas de trata de personas, garantizando en todo momento su seguridad, así como un trato digno, respetuoso y adecuado a su contexto.
+
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+VI. Diseñar y aplicar modelos con perspectiva de género y salvaguardando el interés superior de la niñez que ofrezcan alternativas dignas y apropiadas para las víctimas, con el propósito de restituirles sus derechos humanos, especialmente mujeres, niñas, niños y adolescentes;
 
 VII. Generar y aplicar programas de protección y asistencia a las víctimas, ofendidos y testigos de delitos en que se encuentre involucrado el crimen organizado, que incluirán cambio de identidad y reubicación nacional o internacional.
 
@@ -826,7 +890,9 @@ Asimismo, se tomarán medidas para prevenir cualquier riesgo de revictimización
 
 Entre éstas medidas se incluirán, de manera enunciativa pero no limitativa y de manera única o combinada, de acuerdo a las necesidades de las víctimas y de las características y el entorno del delito cometido, las siguientes:
 
-I. Mecanismos judiciales y administrativos que les permitan obtener reparación mediante procedimientos expeditos, justos, poco costosos y accesibles, e informarles de sus derechos para obtener reparación mediante estos mecanismos;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+I. Mecanismos judiciales y administrativos que les permitan obtener reparación mediante procedimientos expeditos, justos, poco costosos, accesibles y que privilegien en todo momento su seguridad, dignidad y protección a sus derechos humanos e informarles de sus derechos para obtener reparación mediante estos mecanismos;
 
 II. Mantenerlas informadas en su idioma de su papel en cada momento del proceso, así como del alcance, el desarrollo cronológico y la marcha de las actuaciones y de la decisión de sus causas;
 
@@ -856,9 +922,11 @@ Las víctimas, ofendidos y testigos recibirán la asistencia material, jurídica
 
 En todo momento la autoridad que corresponda les informarán y gestionarán los servicios de salud y sociales y demás asistencia pertinente.
 
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 70.
 
-Para mejor atender las necesidades de las víctimas de los delitos objeto de esta Ley, se proporcionará al personal de policía, justicia, salud, servicios sociales, capacitación que los sensibilice sobre dichas necesidades, así como directrices que garanticen que esta ayuda sea siempre especializada y oportuna.
+Para brindar una atención oportuna y acorde a las necesidades de las víctimas de los delitos objeto de esta Ley, se proporcionará al personal de policía, justicia, salud, servicios sociales, capacitación con perspectiva de género, enfoque de derechos humanos, interculturalidad y atendiendo al interés superior de la niñez, que los sensibilice sobre dichas necesidades, así como directrices que garanticen que esta ayuda sea siempre especializada y oportuna.
 
 ###### Artículo 71.
 
@@ -1218,7 +1286,9 @@ IV. Construcción de albergues, refugios y casas de medio camino especializados 
 
 V. Garantizar que la estancia en los refugios, albergues, y casas de medio camino o en cualquier otra instalación diseñada para la asistencia y protección de las víctimas de los delitos previstos en la presente Ley sea de carácter voluntario y cuenten con medios para poder comunicarse, siempre y cuando el o los sujetos activos del delito no se presuman integrantes de la delincuencia organizada y estas medidas pongan en peligro su vida, su integridad y su seguridad y las de las demás víctimas con las que comparta las medidas de protección y asistencia;
 
-VI. Garantizar que bajo ninguna circunstancia se alberge a víctimas nacionales o extranjeras, en centros preventivos, penitenciarios o estaciones migratorias, ni lugares habilitados para ese efecto;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+VI. Garantizar que bajo ninguna circunstancia se alberge a víctimas nacionales o extranjeras, en centros preventivos, penitenciarios, refugios para mujeres víctimas de violencia o estaciones migratorias, ni lugares habilitados para ese efecto;
 
 VII. Garantizar protección frente a posibles represalias, intimidaciones, agresiones o venganzas de los responsables del delito o de quienes estén ligados con ellos a:
 
@@ -1256,7 +1326,9 @@ V. Establecer medidas destinadas a proteger los derechos y la identidad de las v
 
 La Comisión diseñará el proyecto del Programa Nacional, que definirá la Política del Estado Mexicano frente a los delitos previstos en esta Ley, que deberá contemplar, como mínimo, los siguientes rubros:
 
-I. Diagnóstico de la incidencia, modalidades, causas y consecuencias y su comportamiento delictivo, así como los grupos afectados o en mayor grado de vulnerabilidad;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+I. Diagnóstico de la incidencia, modalidades, causas y consecuencias y su comportamiento delictivo, así como los grupos afectados o en mayor grado de vulnerabilidad, así como las rutas y sitios más usuales para captar, trasladar y explotar a las personas;
 
 II. Compromisos adquiridos por el Gobierno de México sobre la materia frente a la comunidad internacional;
 
@@ -1506,13 +1578,17 @@ I. En concordancia con el Programa Nacional, formular políticas e instrumentar 
 
 II. Proponer a la Comisión Intersecretarial contenidos nacionales y regionales, para ser incorporados al Programa Nacional;
 
-III. Prestar servicios de formación, actualización, capacitación y profesionalización para las y los actores institucionales que participan en los procesos de prevención y combate a los delitos previstos en esta Ley y de asistencia y protección de las víctimas, de conformidad con las disposiciones generales que las autoridades federales determinen;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+III. Prestar servicios de formación, actualización, capacitación y profesionalización con perspectiva de género, interculturalidad y atendiendo al interés superior de la niñez, para las y los actores institucionales que participan en los procesos de prevención y combate a los delitos previstos en esta Ley y de asistencia y protección de las víctimas, de conformidad con las disposiciones generales que las autoridades federales determinen;
 
 IV. Implementar, en coordinación con la Federación, programas y proyectos de atención, educación, capacitación e investigación en materia de esclavitud, trata de personas o explotación y demás delitos previstos en esta Ley;
 
 V. Impulsar programas para prevenir los factores de riesgo para posibles víctimas de los delitos previstos en esta Ley que incluyan programas de desarrollo local;
 
-VI. Creación de refugios, albergues y casas de medio camino para las víctimas, ofendidos y testigos de los delitos que esta Ley define como del fuero común, o apoyar a las organizaciones de la sociedad civil, para la creación y operación de los mismos, hasta la total recuperación de las víctimas, ofendidos y testigos de los delitos contenidos en la presente Ley;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+VI. Creación de refugios, albergues y casas de medio camino adecuados al contexto específico para las víctimas, ofendidos y testigos de los delitos que esta Ley define como del fuero común, o apoyar a las organizaciones de la sociedad civil, para la creación y operación de los mismos, hasta la total recuperación de las víctimas, ofendidos y testigos de los delitos contenidos en la presente Ley;
 
 VII. Revisar y evaluar la eficacia de las políticas, programas y acciones con base en los lineamientos que para tal efecto desarrollen las autoridades federales;
 
@@ -1819,3 +1895,11 @@ D.O.F. 5 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 105 DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes.
