@@ -4,7 +4,7 @@ identifier: "LGS"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-02-07"
-last_updated: "2024-04-01"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=361&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGS"
 
 LEY GENERAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
 
 ÚLTIMA MODIFICACIÓN AL LISTADO DE SUSTANCIAS PSICOTRÓPICAS: 24 DE DICIEMBRE DE 2018.
 
@@ -8392,6 +8392,12 @@ Si la conducta se lleva a cabo con menores, incapaces, ancianos, sujetos privado
 
 A quien contrate, autorice, conduzca, participe o desarrolle pruebas cosméticas en animales se le aplicará pena de dos a siete años de prisión y multa equivalente de doscientas a dos mil veces el valor de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+###### ARTICULO 465 Ter.
+
+Las personas profesionales, técnicas o auxiliares de las disciplinas para la salud y relacionadas con las prácticas médicas que realicen, impartan, apliquen, obliguen o financien tratamientos, terapias o cualquier tipo de servicios o prácticas, quirúrgicas o de otra índole, con el objeto de obstaculizar, restringir, impedir, menoscabar, anular o suprimir la orientación sexual, identidad o expresión de género de una persona, serán sancionadas en términos de lo dispuesto por el artículo 209 Quintus del Código Penal Federal y además, serán suspendidas en el ejercicio profesional de uno a tres años.
+
 ###### ARTICULO 466.
 
 Al que sin consentimiento de una mujer o aun con su consentimiento, si ésta fuere menor o incapaz, realice en ella inseminación artificial, se le aplicará prisión de uno a tres años, si no se produce el embarazo como resultado de la inseminación; si resulta embarazo, se impondrá prisión de dos a ocho años.
@@ -9927,3 +9933,11 @@ D.O.F. 1 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS EN MATERIA DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS".]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN UN ARTÍCULO 209 QUINTUS AL CÓDIGO PENAL FEDERAL Y UN ARTÍCULO 465 TER A LA LEY GENERAL DE SALUD”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
