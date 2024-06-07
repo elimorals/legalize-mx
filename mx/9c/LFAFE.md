@@ -4,7 +4,7 @@ identifier: "LFAFE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-01-11"
-last_updated: "2022-12-06"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=427&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFAFE"
 
 LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 11 de enero de 1972.
 
@@ -163,6 +163,10 @@ i).- Bayonetas, sables y lanzas.
 j).- Navíos, submarinos, embarcaciones e hidroaviones para la guerra naval y su armamento.
 
 k).- Aeronaves de guerra y su armamento.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+k Bis).- Aeronaves pilotadas a distancia adaptadas para transportar, activar y detonar explosivos, artefactos explosivos, artefactos explosivos improvisados o armas, así como sustancias químicas que por sí solas o combinadas sean susceptibles de emplearse como explosivos.
 
 l).- Artificios de guerra, gases y substancias químicas de aplicación exclusivamente militar, y los ingenios diversos para su uso por las fuerzas armadas.
 
@@ -1141,3 +1145,11 @@ D.O.F. 6 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS, EN MATERIA DE ARMONIZACIÓN NORMATIVA CON LA DENOMINACIÓN DE LA CIUDAD DE MÉXICO”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL FEDERAL Y DE LA LEY FEDERAL DE ARMAS DE FUEGO Y EXPLOSIVOS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, en el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales para tales efectos.
