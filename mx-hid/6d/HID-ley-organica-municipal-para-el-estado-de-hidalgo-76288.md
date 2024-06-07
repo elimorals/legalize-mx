@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-06-04"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 4 DE JUNIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1647,6 +1645,10 @@ El Ayuntamiento podrá designar comisiones entre sus miembros, en los términos 
 
 Deberán emitir resolutivos, avalados con firma autógrafa por la mayoría de los integrantes de la Comisión o las Comisiones, para ser presentados ante el Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Para el quorum legal de las sesiones, se requiere la asistencia de más de la mitad de sus integrantes, quienes tomarán sus decisiones por mayoría de votos de las y los presentes. Quien ostente la Presidencia tendrá voto de calidad en caso de empate.
+
 Las actividades que desempeñarán las comisiones, estarán de acuerdo con la naturaleza del nombre que se les asigne, las cuales podrán ser permanentes o especiales y observarán lo dispuesto por el Reglamento Interior del Ayuntamiento.
 
 El ordenamiento mencionado, podrá regular lo siguiente:
@@ -2701,6 +2703,20 @@ ARTÍCULO 118 QUATER.- Las facultades de la Dirección de Ecología y Medio Ambi
 
 ARTÍCULO 118 QUINQUIES.- El responsable del área de atención a la movilidad por parte de los ayuntamientos, además de los requisitos para ocupar cargos públicos dentro de la estructura de los municipios, deberá contar con título profesional en el ramo de Arquitectura Urbana, Ingeniería, Urbanismo o alguna carrera o profesión similar relacionada con la materia y/o contar con experiencia mínima de un año, al momento de su designación.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+ARTÍCULO 118 SEXIES.- La persona titular de la Dirección de Desarrollo Agropecuario o su similar, deberá asumir y desempeñar las facultades y obligaciones correspondientes contenidas en la legislación federal y estatal, además de lo reglamentado por el Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+ARTÍCULO 118 SEPTIES.- Para ser titular de la Dirección de Desarrollo Agropecuario o su similar, se deberán cubrir los siguientes requisitos:
+
+a) Contar con título profesional en agronomía o alguna otra coincidente al tronco común;
+
+b) Acreditar experiencia mínima de un año sobre su área de competencia; y
+
+c) No ser ministro de culto religioso.
+
 ###### ARTÍCULO 119.
 
 El Titular de Servicios Municipales es el funcionario responsable, en lo general, de limpias, alumbrado público, mercados, comercio y abasto, panteones, rastro, parques y jardines, control canino, y en lo particular tendrá las siguientes facultades:
@@ -3274,6 +3290,10 @@ ARTÍCULO 145 OCTAVUS.- La Instancia Municipal para el Desarrollo de las Mujeres
 I. Fungir como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidente Municipal, dependencias de la administración pública municipal, organizaciones sociales y asociaciones civiles y de empresas, en materia de igualdad de género, implementación de la perspectiva de género y erradicación de la violencia contra las mujeres;
 
 II. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, en la coordinación de esfuerzos participativos en favor de una política de igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+II BIS. Fungir como Unidades Locales de Atención a mujeres, niñas, niños y adolescentes en situación de violencia, aplicando los protocolos municipales que en la materia expida el Ayuntamiento y dirigiendo el proceso de atención integral derivada de hechos de violencia basada en el género, a través de los mecanismos de detección de casos, debiendo dar acompañamiento a las víctimas en cualquier procedimiento para garantizar su acceso a la justicia;
 
 III. Promover la celebración de convenios o cualquier acto jurídico con instituciones públicas o privadas, para llevar a cabo programas o proyectos que propicien el desarrollo integral de las mujeres, así como para lograr el cumplimiento de su objeto;
 
@@ -4690,3 +4710,25 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 937 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS INCISOS DE LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 952 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 70 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 960 POR EL QUE SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 48 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, Y SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 145 OCTAVUS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los Ayuntamientos del Estado de Hidalgo, durante los primeros 90 días posteriores a la vigencia del presente Decreto, deberán efectuar los actos tendentes a hacer efectiva la facultad que se dispone para las Instancias Municipales para el Desarrollo de las Mujeres.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 961 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 118 SEXIES Y 118 SEPTIES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
