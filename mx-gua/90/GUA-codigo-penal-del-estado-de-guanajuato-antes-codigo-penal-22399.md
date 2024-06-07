@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2023-12-18"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -129,9 +129,9 @@ Se consideran como delitos graves, para todos los efectos legales los siguientes
 
 I.- Homicidio doloso previsto por los artículos 139, 140, 152, 153 y 153-a, así como en grado de tentativa con relación al artículo 18.
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-II.- Lesiones previsto por los artículos 145 y 147.
+II.- Lesiones previsto por el artículo 143, fracciones III y V.
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1423,45 +1423,51 @@ a.-Al responsable de homicidio en contra de servidores públicos por motivo de s
 
 Comete lesiones quien causa a otro un daño en la salud.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 143.
 
-A quien infiera una lesión que no ponga en peligro la vida y tarde en sanar hasta quince días, se le impondrá de cinco a veinte jornadas de trabajo en favor de la comunidad; si tarda en sanar más de quince días, se le impondrá de cuatro meses a un año de prisión y de cuatro a diez días multa.
+Al responsable del delito de lesiones se le impondrá:
 
-Estos delitos se perseguirán por querella.
+I.- Cuando no pongan en peligro la vida:
+
+a) De cinco a veinte jornadas de trabajo en favor de la comunidad, cuando tarden en sanar hasta quince días.
+
+b) De cuatro meses a un año de prisión y de cuatro a diez días multa, cuando tarden en sanar más de quince días.
+
+II.- Cuando dejen cicatriz permanente y notable en la cara, cuello o pabellón auricular, de uno a cinco años de prisión y de diez a cincuenta días multa.
+
+III.- Cuando pongan en peligro la vida, de tres a seis años de prisión y de treinta a sesenta días multa.
+
+IV.- Cuando causen debilitamiento, disminución o perturbación de cualquier función, de dos a ocho años de prisión y de veinte a ochenta días multa.
+
+V.- Cuando produzcan enfermedad mental que perturbe gravemente la conciencia, pérdida de algún miembro u órgano o de cualquier función, deformidad incorregible o incapacidad total permanente para trabajar, de cinco a quince años de prisión y de cincuenta a ciento cincuenta días multa.
+
+Se perseguirán por querella los delitos previstos en las fracciones I, II y IV de este artículo, salvo los delitos contenidos en las fracciones II y IV que se hubieren cometido en forma dolosa, cuyos casos se perseguirán de oficio.
+
+Se perseguirán de oficio los delitos a que se refieren las fracciones III y V de este artículo.
 
 ###### Artículo 144.
 
-Al responsable del delito de lesiones que dejen cicatriz permanente y notable en la cara, cuello o pabellón auricular, se le impondrá de uno a cinco años de prisión y de diez a cincuenta días multa.
-
-Este delito se perseguirá por querella, salvo que se cometa de forma dolosa, caso en que se perseguirá de oficio.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2024)
 
 ###### Artículo 145.
 
-Al responsable del delito de lesiones que pongan en peligro la vida, se le impondrá de tres a seis años de prisión y de treinta a sesenta días multa.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2024)
 
 ###### Artículo 146.
 
-A quien infiera una lesión que cause debilitamiento, disminución o perturbación de cualquier función, se le sancionará con prisión de dos a ocho años y de veinte a ochenta días multa.
-
-Si el responsable de las lesiones repara el daño, la sanción será de uno a cuatro años de prisión y de diez a cuarenta días multa.
-
-Este delito se perseguirá por querella, salvo que se cometa de forma dolosa, caso en que se perseguirá de oficio.
-
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+(DEROGADO, P.O. 7 DE JUNIO DE 2024)
 
 ###### Artículo 147.
 
-A quien infiera una lesión que produzca enfermedad mental que perturbe gravemente la conciencia, pérdida de algún miembro u órgano o de cualquier función, deformidad incorregible o incapacidad total permanente para trabajar, se le impondrá de cinco a quince años de prisión y de cincuenta a ciento cincuenta días multa.
+(DEROGADO, P.O. 7 DE JUNIO DE 2024)
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 148.
 
-Si con una sola conducta se produjeren varios de los resultados previstos en los artículos anteriores, solamente se aplicarán las sanciones correspondientes al de mayor gravedad.
+Si con una sola conducta se produjeren varios de los resultados previstos en el artículo 143, solamente se aplicarán las sanciones correspondientes al de mayor gravedad.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -1473,31 +1479,29 @@ En caso de tentativa de lesiones, cuando no fuere posible determinar el grado de
 
 Cuando las lesiones sean calificadas, se aumentará la punibilidad de la mitad del mínimo a la mitad del máximo de la que correspondería de acuerdo con los artículos anteriores.
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2018)</small>
+Artículo 150 a.- (DEROGADO, P.O. 7 DE JUNIO DE 2024)
 
-###### Artículo 150
+Artículo 150 b.- (DEROGADO, P.O. 7 DE JUNIO DE 2024)
 
-a.- Al responsable de lesiones en contra de servidores públicos que desempeñen funciones de seguridad pública, de investigación de delitos, de procuración o administración de justicia en materia penal, de ejecución de penas, de su cónyuge o de sus parientes en línea recta o colateral hasta el cuarto grado o con quien viva en concubinato, se aumentará la punibilidad de la mitad del mínimo a la mitad del máximo de la que correspondería de acuerdo con los artículos anteriores.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2020)</small>
+###### Artículo 151.
 
-###### Artículo 150
+Las penas que correspondan con arreglo a los artículos anteriores se aumentarán:
 
-b.- Al responsable de lesiones en contra de personal profesional, técnico o auxiliar adscrito al sistema de salud, que presten sus servicios durante las declaratorias de contingencia o emergencia sanitaria formuladas por autoridad competente, se le aumentará la punibilidad en un tercio del mínimo a un tercio del máximo de la que correspondería de acuerdo con los artículos 143, 144, 145, 146, 147, 148 y 149 de este Código.
+I.- De un mes a tres años de prisión si el sujeto pasivo fuere ascendiente o descendiente consanguíneo en línea recta, colateral hasta el cuarto grado, pariente por afinidad con conocimiento de esa relación, cónyuge, concubinario o concubina, haya tenido una relación de matrimonio o concubinato, adoptante o adoptado, o estuviere bajo la guarda del autor de las lesiones, y éstas fueren causadas dolosamente.
 
-> <small>(REFORMADO PÁRRAFO PRIMERO, P.O. 27 DE MARZO DE 2009)</small>
+De quince días a dos años de prisión cuando las lesiones dolosas se deriven de violencia física o moral habitual que ejerciera el sujeto pasivo sobre el inculpado o sus ascendientes y descendientes en línea recta, cónyuge, concubinario o concubina, adoptante o adoptado.
 
-###### Articulo 151.
+A quien ejerciendo la patria potestad o la tutela infiera lesiones a los menores de edad o pupilos bajo su guarda, el juez o el tribunal podrá imponerle además suspensión o privación en el ejercicio de tales derechos.
 
-Si el sujeto pasivo fuere ascendiente o descendiente consanguíneo en línea recta, colateral hasta el cuarto grado, pariente por afinidad con conocimiento de esa relación, cónyuge, concubinario o concubina, haya tenido una relación de matrimonio o concubinato, adoptante o adoptado, o estuviere bajo la guarda del autor de las lesiones, y éstas fueren causadas dolosamente, se aumentará de un mes a tres años de prisión a la sanción que correspondería con arreglo a los artículos precedentes.
+II.- De la mitad del mínimo a la mitad del máximo al responsable de lesiones en contra de servidores públicos que desempeñen funciones de seguridad pública, de investigación de delitos, de procuración o administración de justicia en materia penal, de ejecución de penas, de su cónyuge o de sus parientes en línea recta o colateral hasta el cuarto grado o con quien viva en concubinato.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 2011)</small>
+III.- De un tercio del mínimo a un tercio del máximo al responsable de lesiones en contra de personal profesional, técnico o auxiliar adscrito al sistema de salud, que presten sus servicios durante las declaratorias de contingencia o emergencia sanitaria formuladas por autoridad competente.
 
-Cuando las lesiones dolosas se deriven de violencia física o moral habitual que ejerciera el sujeto pasivo sobre el inculpado o sus ascendientes y descendientes en línea recta, cónyuge, concubinario o concubina, adoptante o adoptado, sólo se aumentará de quince días a dos años de prisión a la punibilidad que corresponde con arreglo a los artículos anteriores.
+IV.- De un tercio del mínimo a un tercio del máximo cuando se lesione dolosamente a una mujer por razones de género.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-A quien ejerciendo la patria potestad o la tutela infiera lesiones a los menores o pupilos bajo su guarda, el juez o el tribunal podrá imponerle además suspensión o privación en el ejercicio de tales derechos.
+V.- De un tercio del mínimo a un tercio del máximo cuando se lesione dolosamente a una persona por su orientación sexual o identidad de género.
 
 ### CAPÍTULO IV. FEMINICIDIO
 
@@ -1597,9 +1601,9 @@ VIII.- Que el cuerpo sea depositado o arrojado en letrinas, fosas sépticas, bas
 
 IX.- Que su cuerpo sea expuesto o exhibido.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-Al responsable de feminicidio se le impondrá de treinta a sesenta años de prisión y de trescientos a seiscientos días multa.
+Al responsable de feminicidio se le impondrá de treinta y cinco a sesenta años de prisión y de trescientos cincuenta a seiscientos días multa.
 
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2014)</small>
 
@@ -1673,7 +1677,9 @@ A quien prive de la vida a su ascendiente o descendiente consanguíneo en línea
 
 Cuando el sujeto pasivo sea mujer se atenderá a lo dispuesto por el artículo 153-a de este Código.
 
-Cuando el delito se derive de violencia física o moral habitual que ejerciera el sujeto pasivo sobre el inculpado o sus ascendientes o descendientes en línea recta, cónyuge, concubinario o concubina, adoptante o adoptado, se aplicará una punibilidad de doce a veinticinco años de prisión y de ciento veinte a doscientos cincuenta días multa.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Cuando el delito se derive de violencia física o moral habitual que ejerciera el sujeto pasivo sobre el inculpado o sus ascendientes o descendientes en línea recta, cónyuge, concubinario o concubina, adoptante o adoptado, se aplicará una punibilidad de doce a veinticinco años de prisión y de ciento veinte a doscientos cincuenta días multa; salvo que el delito sea cometido por una mujer como consecuencia de la violencia de género habitualmente ejercida sobre ella por el pasivo, caso en el cual se le impondrá una pena de seis a quince años de prisión y de sesenta a ciento cincuenta días multa.
 
 A la madre que prive de la vida a su hijo dentro de las veinticuatro horas, inmediatamente posteriores al nacimiento de éste, y además dicha privación sea consecuencia de motivaciones de carácter psicosocial, se le impondrá de seis a diez años de prisión.
 
@@ -2073,7 +2079,7 @@ Este delito se perseguirá por querella.
 
 ### Capítulo IV. Abusos Sexuales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 186.
 
@@ -2083,75 +2089,85 @@ Si como consecuencia de la violación o del estupro hubiere descendencia, la rep
 
 ### CAPÍTULO V. ACOSO SEXUAL Y HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 187.
 
-A quien sin consentimiento de una persona ejecute en ella o le haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le impondrá sanción de tres meses a un año de prisión y de tres a diez días multa. En este supuesto el delito se perseguirá por querella.
+A quien sin consentimiento de una persona ejecute en ella o le haga ejecutar un acto sexual, sin el propósito de llegar a la cópula, se le impondrá sanción de uno a diez años de prisión y de diez a cien días multa. En este supuesto el delito se perseguirá por querella.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+Se aplicará de dieciocho meses a doce años de prisión y de dieciocho a ciento veinte días multa a quien lo ejecute o lo haga ejecutar en o por persona que no pudiere resistir o con menor de edad.
 
-Se aplicará de seis meses a dos años de prisión y de cinco a veinte días multa a quien lo ejecute o lo haga ejecutar en o por persona que no pudiere resistir o con menor de edad.
+Si se hiciere uso de violencia la sanción será de dos a catorce años de prisión y de veinte a ciento cuarenta días multa.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
-
-Si se hiciere uso de violencia la sanción será de seis meses a tres años de prisión y de cinco a treinta días multa.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
-
-Si el responsable del delito de abuso sexual es servidor público y lo comete en ejercicio de sus funciones, se le impondrá, además de las penas previstas en este artículo, la destitución de su cargo y la inhabilitación para ejercer cualquier cargo público mínimo por un lapso igual al de la pena de prisión impuesta y como máximo de diez años.
+Si el responsable del delito de abuso sexual es servidor público y lo comete en ejercicio de sus funciones, se aumentará de un tercio del mínimo a un tercio del máximo de la punibilidad que corresponda a las conductas mencionadas en el presente artículo, además de la destitución de su cargo y la inhabilitación para ejercer cualquier cargo público mínimo por un lapso igual al de la pena de prisión impuesta y como máximo de diez años.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2010)</small>
 
 ### CAPÍTULO VI. AFECTACIÓN A LA INTIMIDAD
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 187
 
-a.- A quien, por cualquier medio, acose a una persona a pesar de su oposición, para que ejecute un acto de naturaleza sexual, para sí o para un tercero, se le sancionará con seis meses a dos años de prisión y de cinco a veinte días multa.
-
-Este delito se perseguirá por querella.
+a.- A quien, por cualquier medio, acose a una persona a pesar de su oposición, para que ejecute un acto de naturaleza sexual, para sí o para un tercero, se le sancionará con uno a siete años de prisión y de diez a setenta días multa.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
+Este delito se perseguirá por querella.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 187
 
-b.- A quien valiéndose de su posición jerárquica o de poder, derivado de sus relaciones familiares, laborales, profesionales, religiosas, docentes o de cualquier otra que implique subordinación, hostigue a otra persona para que ejecute, para sí o para un tercero, un acto de naturaleza sexual, se le sancionará con uno a tres años de prisión y de diez a treinta días multa.
+b.- A quien valiéndose de su posición jerárquica o de poder, derivado de sus relaciones familiares, laborales, profesionales, religiosas, docentes o de cualquier otra que implique subordinación, hostigue a otra persona para que ejecute, para sí o para un tercero, un acto de naturaleza sexual, se le sancionará con dos a ocho años de prisión y de veinte a ochenta días multa.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 Este delito se perseguirá por querella.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 187
 
-c. Se aplicará de dos a cinco años de prisión y de veinte a cincuenta días multa si la víctima del delito de acoso sexual fuera menor de edad o incapaz.
+c.- Se aplicará de tres a ocho años de prisión y de treinta a ochenta días multa si la víctima del delito de acoso sexual fuera menor de edad o incapaz.
 
-Se aplicará de tres a siete años de prisión y de treinta a setenta días multa cuando la víctima del hostigamiento sexual sea menor de edad o incapaz.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Se aplicará de cuatro a nueve años de prisión y de cuarenta a noventa días multa cuando la víctima del hostigamiento sexual sea menor de edad o incapaz.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 Estos delitos se perseguirán de oficio.
 
-> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 187
 
-d.- Si el responsable del delito de hostigamiento sexual es servidor público, se le impondrán, además de las penas previstas en los dos artículos anteriores, la destitución de su cargo y la inhabilitación para ejercer cualquier cargo público que será mínimo por un lapso igual al de la pena de prisión impuesta y como máximo veinte años.
+d.- Si el responsable del delito de hostigamiento sexual es servidor público, se aumentará de un tercio del mínimo a un tercio del máximo de la punibilidad que corresponda a las conductas mencionadas en el artículo 187-c, así como la destitución de su cargo y la inhabilitación para ejercer cualquier cargo público que será mínimo por un lapso igual al de la pena de prisión impuesta y como máximo veinte años.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE JUNIO DE 2019)</small>
 
 ### CAPÍTULO VII. CAPTACIÓN DE MENORES
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 187
 
-e.- A quien sin autorización de la persona afectada difunda o ceda, por cualquier medio, imágenes, audios o grabaciones audiovisuales de contenido erótico o sexual, se le sancionará con dos a cuatro años de prisión y de veinte a cuarenta días multa.
+e.- A quien sin autorización de la persona afectada difunda o ceda, por cualquier medio, imágenes, audios o grabaciones audiovisuales de contenido erótico o sexual, se le sancionará con dos a ocho años de prisión y de veinte a ochenta días multa.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
 
 Cuando los hechos hubieren sido cometidos por el cónyuge o por persona que esté o haya estado unida a él por análoga relación de afectividad o los hechos se hubieren cometido con una finalidad lucrativa, se aumentará hasta la mitad de la punibilidad prevista para este delito.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
 Cuando el sujeto pasivo sea una persona menor de dieciocho años de edad o incapaz, se estará a lo dispuesto en el Titulo Quinto de los Delitos Contra el Desarrollo de las Personas Menores e Incapaces, de la Sección Tercera.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
+
 En estos casos el Ministerio Público o la autoridad judicial dictarán las medidas que consideren pertinentes en caso de que el contenido sea difundido por cualquier medio, a efecto de retirarlo inmediatamente para salvaguardar la intimidad de la víctima.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
 
 Este delito se perseguirá por querella.
 
@@ -2161,7 +2177,9 @@ Este delito se perseguirá por querella.
 
 ###### Artículo 187
 
-f.- A quien por medio de comunicaciones electrónicas, telecomunicaciones o cualquier otra tecnología de transmisión de datos, establezca comunicaciones de contenido sexual o erótico y procure un encuentro personal con una persona menor de dieciocho años o incapaz, se le impondrá de tres meses a dos años de prisión y de cinco a veinte días multa.
+f.- A quien por medio de comunicaciones electrónicas, telecomunicaciones o cualquier otra tecnología de transmisión de datos, establezca comunicaciones de contenido sexual o erótico y procure un encuentro personal con una persona menor de dieciocho años de edad o incapaz, se le impondrá de uno a nueve años de prisión y de diez a noventa días multa.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2019)</small>
 
 Si el sujeto activo hace uso de una identidad falsa, las penas se incrementarán de la mitad del mínimo a la mitad del máximo de las aquí señaladas.
 
@@ -2551,11 +2569,11 @@ Para efectos de lo dispuesto en el presente capítulo, serán producto de una ac
 
 b.- A quien mediante el asesoramiento profesional o técnico a otro, fomente, preste ayuda, auxilio o colaboración para la comisión de las conductas previstas en el artículo 213-a de este Código, se le aplicará de tres a diez años de prisión y de treinta a cien días multa.
 
-> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 213
 
-c.- Si en las conductas mencionados (sic) en el presente capítulo participa algún servidor público que tenga a su cargo funciones de prevención, investigación o persecución del delito; aplicación o ejecución de sanciones respecto de delitos, la punibilidad prevista en el artículo 213-a, aumentará de un tercio del mínimo a un tercio del máximo.
+c.- Si en las conductas mencionadas en el presente capítulo participa algún servidor público que tenga a su cargo funciones de prevención, investigación o persecución del delito; aplicación o ejecución de sanciones respecto de delitos, la punibilidad prevista en el artículo 213-a, se aumentará de un tercio del mínimo a un tercio del máximo.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2019)</small>
 
@@ -2685,7 +2703,7 @@ En el caso previsto en el primer párrafo, además, se privará a los ascendient
 
 ### Capítulo VI. Violencia Familiar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 220.
 
@@ -2711,21 +2729,19 @@ El Ministerio Público o el tribunal tomarán las medidas cautelares que estimen
 
 ###### Artículo 221.
 
-A quien ejerza violencia física o moral contra una persona con la que tenga relación de parentesco, matrimonio, concubinato o análoga; contra los hijos del cónyuge o pareja, pupilos, o incapaces que se hallen sujetos a la tutela o custodia, de uno u otro, se le impondrá de uno a seis años de prisión.
+A quien ejerza violencia de cualquier tipo contra una persona con la que tenga relación de parentesco, matrimonio, concubinato o análoga; contra los hijos del cónyuge o pareja, pupilos, o incapaces que se hallen sujetos a la tutela o custodia, de uno u otro, se le impondrá de uno a seis años de prisión.
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-Igual pena se aplicará cuando la violencia se ejerza contra quien haya mantenido una relación de las señaladas en el párrrafo (sic) anterior o no teniendo ninguna de las calidades anteriores cohabite en el mismo domicilio del activo.
+Igual pena se aplicará cuando la violencia se ejerza contra quien haya mantenido una relación de las señaladas en el párrafo anterior o no teniendo ninguna de las calidades anteriores cohabite en el mismo domicilio del activo o tenga responsabilidades de cuidado o apoyo.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
 La punibilidad prevista en este artículo se aplicará siempre que el hecho no constituya otro delito de mayor gravedad.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-En estos casos el Ministerio Público o la autoridad judicial dictarán las medidas que consideren pertinentes para salvaguardar la integridad física o psíquica de la víctima.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 25 DE OCTUBRE DE 2016)</small>
+En estos casos el Ministerio Público o la autoridad judicial dictarán las medidas que consideren pertinentes para salvaguardar la integridad física o psicológica de la víctima.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
@@ -2975,9 +2991,9 @@ Artículo 235 bis.- A quien dolosamente, por sí o por interpósita persona, pre
 
 A quien con el fin de obtener provecho o causar daño imite o simule un documento verdadero, lo altere o cree uno con contenido ideológico falso, se le impondrá prisión de uno a cinco años y de diez a cincuenta días multa.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-Si se realizan las conductas descritas en el párrafo anterior con el propósito de acreditar o pretender acreditar la propiedad o identificación de un vehículo automotor, se impodrá (sic) prisión de tres a diez años y de treinta a cien días multa.
+Si se realizan las conductas descritas en el párrafo anterior con el propósito de acreditar o pretender acreditar la propiedad o identificación de un vehículo automotor, se impondrá prisión de tres a diez años y de treinta a cien días multa.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
 
@@ -3667,9 +3683,9 @@ Si en los actos mencionados participa algún servidor público que tenga a su ca
 
 Se impondrá prisión de dos a ocho años y de veinte a ochenta días multa a quien sin haber participado en la comisión de un delito, posea, detente, custodie, adquiera, venda, enajene, desmantele, comercialice, trafique, pignore, reciba, traslade, use, oculte, modifique o altere los objetos, instrumentos o productos de aquél, con conocimiento de esta circunstancia.
 
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
-Si el delito a que se refiere el párrafo anterior, corresponde al robo de vehículos automotores, se impondrá prisión de cuatro a doce años y de cuarenta a cientoveinte (sic) días multa.
+Si el delito a que se refiere el párrafo anterior corresponde al robo de vehículos automotores, se impondrá prisión de cuatro a doce años y de cuarenta a ciento veinte días multa.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2014)</small>
 
@@ -4023,17 +4039,25 @@ A quien asista como espectador a cualquier exhibición, espectáculo o actividad
 
 b.- A quien abandone a un animal doméstico poniendo en riesgo su vida o integridad, se le impondrá de seis meses a un año de prisión y de cien a doscientos días multa.
 
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 299.
 
-Son excluyentes de responsabilidadde (sic) lo dispuesto en los artículos anteriores:
+Son excluyentes de responsabilidad de lo dispuesto en los artículos anteriores:
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 I.- La muerte o mutilación de un animal vertebrado resultado de actividades lícitas.
 
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
 II.- La muerte o mutilación de un animal vertebrado que constituya plaga.
 
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
+
 III.- La muerte o mutilación de un animal vertebrado por causa justificada y cuidado de un especialista o persona debidamente autorizada y que cuente con conocimientos técnicos de la materia.
+
+> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2013)</small>
 
 IV.- El sacrificio de un animal vertebrado para consumo humano.
 
@@ -4474,3 +4498,27 @@ P.O. 18 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 241, MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 153 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 311 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 11, FRACCIÓN II; 143; 148; 151; 153-A, TERCER PÁRRAFO; 156, TERCER PÁRRAFO; 187; 187-A, PRIMER PÁRRAFO; 187-B, PRIMER PÁRRAFO; 187-C, PRIMER Y SEGUNDO PÁRRAFOS; 187-D; 187-E, PRIMER PÁRRAFO; 187-F, PRIMER PÁRRAFO; 213-C; 233, SEGUNDO PÁRRAFO; 275, SEGUNDO PÁRRAFO; Y 299; SE DEROGAN LOS ARTÍCULOS 144; 145; 146; 147; 150 A; Y 150 B, TODOS DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Ultractividad en procedimientos previos
+
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a los disposiciones vigentes al momento de su inicio.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO 314 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 221 DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Ultractividad en procedimientos previos
+
+Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.
