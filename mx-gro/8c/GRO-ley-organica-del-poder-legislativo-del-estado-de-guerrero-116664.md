@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2023-06-16"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -1937,7 +1937,11 @@ IV. Proponer al Pleno los proyectos de Acuerdo que contengan: la integración y 
 
 V. Proponer al Pleno, para su aprobación o ratificación, en su caso, dentro de los primeros cuarenta y cinco días naturales de la Legislatura correspondiente, los nombramientos de los titulares de los órganos administrativos y técnicos respectivos del Congreso del Estado;
 
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
 VI. Aprobar, el anteproyecto del Presupuesto de Egresos del Congreso del Estado.
+
+En dicho anteproyecto deberá precisar el monto asignado a las actividades del Plan Anual de Comunicación Social, amparadas en la Estrategia de Comunicación Social aprobada para la Legislatura respectiva;
 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2018)</small>
 
@@ -1949,7 +1953,9 @@ IX. Proponer al Pleno los procedimientos y, en su caso, las convocatorias para l
 
 X. Conocer y dictaminar las solicitudes de licencia del Gobernador del Estado;
 
-XI. Aprobar la normatividad administrativa interna que se requiera para el funcionamiento eficiente y eficaz de las áreas del Congreso del Estado;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XI. Aprobar la normatividad administrativa interna que se requiera para el funcionamiento eficiente y eficaz de las áreas del Congreso del Estado; asimismo, al inicio de sus funciones, deberá aprobar la Estrategia de Comunicación Social que regirá la política de Comunicación Social de la Legislatura respectiva y el Plan Anual de Comunicación Social que le haya elaborado el Director de Comunicación del Congreso del Estado;
 
 XII. Hacer del conocimiento, en sesión secreta, al Pleno o a la Comisión Permanente, las denuncias o quejas presentadas en contra de los Diputados, con la finalidad de que se integre la Comisión Investigadora que resolverá lo conducente;
 
@@ -3009,7 +3015,13 @@ V. Producir, ordenar y resguardar la información escrita, video gráfica, fotog
 
 VI. Proponer y participar en la edición, impresión y distribución de folletos, revistas y demás impresos que contribuyan a la difusión de los trabajos y preservación de la imagen institucional del Poder Legislativo, y
 
-VII. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VII. Integrar y proponer a la Junta de Coordinación Política, la Estrategia de Comunicación Social, el Plan Anual de Comunicación Social, los Criterios para el otorgamiento de convenios de publicidad y difusión en materia de Comunicación Social, mediante un procedimiento de planeación en comunicación social, elaborado de manera institucional, profesional, objetiva, imparcial, moderna, oportuna y eficiente; que reconozca las nuevas herramientas de las tecnologías de la información y aproveche el potencial de las redes sociales; promueva el parlamento abierto y fortalezca la transparencia, dé cumplimiento al derecho a la información y dé cauce a la libertad de expresión y a la libertad de prensa.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VIII. Las demás que le confieran otros ordenamientos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2020)</small>
 
@@ -4321,11 +4333,15 @@ Toda infracción a esta norma será castigada en términos de las Leyes de respo
 
 ### CAPÍTULO PRIMERO. DE LA COMUNICACIÓN
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 359.
 
-La Dirección de Comunicación será la responsable de difundir la información oficial sobre las actividades desarrolladas por el Pleno, los Órganos directivos, las Comisiones y los Comités del Congreso, así como por los Diputados, en los términos de esta Ley Orgánica, su Reglamento y demás disposiciones aplicables.
+La Dirección de Comunicación será la responsable de difundir la información oficial sobre las actividades desarrolladas por el Pleno, los Órganos Directivos, las Comisiones y los Comités del Congreso, así como por las Diputadas y los Diputados, en los términos de esta Ley Orgánica, su Reglamento y demás disposiciones aplicables.
 
-La Dirección de comunicación atenderá en igualdad de condiciones a los representantes de los medios de información y les brindarán las facilidades necesarias para el desempeño de sus tareas.
+La Dirección de Comunicación garantizará el respeto a los derechos a la libertad de expresión, de información y a la libertad de prensa, en tanto que brindará las facilidades necesarias y las condiciones suficientes a las personas representantes de los medios de información, para el desempeño de sus tareas.
+
+Integrará para su presentación y aprobación por la Junta de Coordinación Política del Congreso de Guerrero, la Estrategia de Comunicación Social, el Plan Anual de Comunicación Social y, los Criterios para el otorgamiento de convenios de publicidad y difusión en materia de Comunicación Social, mediante un procedimiento de planeación en comunicación social, elaborado de manera institucional, profesional, objetiva, imparcial, moderna, oportuna y eficiente, que reconozca las nuevas herramientas de las tecnologías de la información y aproveche el potencial de las redes sociales; promueva el parlamento abierto y fortalezca la transparencia, dé cumplimiento al derecho a la información y dé cauce a la libertad de expresión y a la libertad de prensa. Asimismo, cumplirá con las medidas de evaluación de desempeño que correspondan.
 
 ###### ARTÍCULO 360.
 
@@ -4786,3 +4802,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase a la Gobernadora Constitucional del Estado de Guerrero para los efectos legales conducentes.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 802, POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 149 EN SUS FRACCIONES VI Y XI, 220 EN SU FRACCIÓN VII Y 359 Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 220 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+La Dirección de Comunicación del Congreso del Estado de Guerrero, deberá elaborar su Reglamento Interior y presentarlo a la Junta de Coordinación Política para su aprobación, en un plazo de noventa días naturales, contados a partir de la fecha de aprobación del presente Decreto.
