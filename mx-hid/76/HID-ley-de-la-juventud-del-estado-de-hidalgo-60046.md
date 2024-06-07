@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-05-30"
+last_updated: "2024-06-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -218,6 +218,14 @@ XIV.- Los relativos a los jóvenes con discapacidad.
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2011)</small>
 
 XV.- Acceso a la vivienda.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVI.- Derecho a la cultura y al arte.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVII.- Derecho al desarrollo.
 
 #### SECCIÓN PRIMERA. DEL DERECHO A UNA VIDA DIGNA
 
@@ -568,6 +576,32 @@ El Gobierno desarrollará programas dirigidos a jóvenes en estas circunstancias
 ###### Artículo 50.
 
 El Gobierno, deberá disponer de los recursos y medios que sean necesarios para garantizar este derecho.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE JUNIO DE 2024)</small>
+
+#### SECCIÓN DÉCIMA CUARTA (SIC). DEL DERECHO A LA CULTURA Y AL ARTE
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 50 Bis.
+
+Las personas jóvenes tienen derecho a la vida cultural y a la libre creación y expresión artística. La práctica de estos derechos se vinculará con su formación integral.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 50 Ter.
+
+Las autoridades estatales y municipales, en el ámbito de sus competencias, tienen la obligación de estimular y promover la creación artística y cultural de las personas jóvenes.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 7 DE JUNIO DE 2024)</small>
+
+#### SECCIÓN DÉCIMA QUINTA (SIC). DEL DERECHO AL DESARROLLO
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 50 Quater.
+
+Las personas jóvenes tienen derecho al desarrollo social, económico, político y cultural, y a ser consideradas como sujetos prioritarios de las políticas y ordenamientos que se implementen para tal fin.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE OCTUBRE DE 2012)</small>
 
@@ -1428,3 +1462,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 924 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 962 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
