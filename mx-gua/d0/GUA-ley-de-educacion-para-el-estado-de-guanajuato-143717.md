@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-143717"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-22"
-last_updated: "2023-04-20"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 22 de Julio de 2020.
 
@@ -87,23 +87,27 @@ VIII. Infraestructura física educativa: los muebles e inmuebles destinados a la
 
 IX. Ley: la Ley de Educación para el Estado de Guanajuato;
 
-X. Padres de Familia: las madres y padres de familia, tutores o quienes ejerzan la patria potestad, o tengan bajo su guarda o custodia a los educandos;
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XI. Particulares: las instituciones educativas que cuentan con autorización o reconocimiento de validez oficial de estudios para impartir la educación, así como aquellas que carecen de dicha autorización o reconocimiento de validez;
+X. Microcredenciales: es el reconocimiento de los aprendizajes que realiza una institución educativa del tipo superior a través del cual, una persona puede acreditar la adquisición de habilidades, conocimientos o capacidades específicas;
 
-XII. Reconocimiento de validez oficial de estudios: al acuerdo expreso de la autoridad educativa que reconoce la validez a estudios a impartirse por un particular, distintos a los de educación básica, normal y demás para la formación de educadores del tipo básico;
+XI. Padres de Familia: las madres y padres de familia, tutores o quienes ejerzan la patria potestad, o tengan bajo su guarda o custodia a los educandos;
 
-XIII. Secretaría: la Secretaría de Educación;
+XII. Particulares: las instituciones educativas que cuentan con autorización o reconocimiento de validez oficial de estudios para impartir la educación, así como aquellas que carecen de dicha autorización o reconocimiento de validez;
 
-XIV. Servicio social: la actividad temporal y obligatoria que ejecuten y presten los educandos beneficiados directamente por los servicios educativos de los tipos medio superior y superior, a favor de la sociedad y del Estado;
+XIII. Reconocimiento de validez oficial de estudios: al acuerdo expreso de la autoridad educativa que reconoce la validez a estudios a impartirse por un particular, distintos a los de educación básica, normal y demás para la formación de educadores del tipo básico;
+
+XIV. Secretaría: la Secretaría de Educación;
+
+XV. Servicio social: la actividad temporal y obligatoria que ejecuten y presten los educandos beneficiados directamente por los servicios educativos de los tipos medio superior y superior, a favor de la sociedad y del Estado;
 
 > <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-XV. SICOM: La Secretaría de Infraestructura, Conectividad y Movilidad;
+XVI. SICOM: La Secretaría de Infraestructura, Conectividad y Movilidad;
 
-XVI. Sistema Educativo Estatal: al conjunto de personas, instituciones y elementos educativos dedicados a la función social de la educación en la Entidad, en los términos de esta Ley; y
+XVII. Sistema Educativo Estatal: al conjunto de personas, instituciones y elementos educativos dedicados a la función social de la educación en la Entidad, en los términos de esta Ley; y
 
-XVII. Trastornos generalizados del desarrollo: aquellos que implican déficit o retraso en el desarrollo de las áreas de atención, interacción, comunicación y socialización, varía en cada persona en cuanto capacidades, inteligencia y comportamiento. Entre estos trastornos se incluye autismo, síndrome de asperger, TDAH y desintegrativo infantil.
+XVIII. Trastornos generalizados del desarrollo: aquellos que implican déficit o retraso en el desarrollo de las áreas de atención, interacción, comunicación y socialización, varía en cada persona en cuanto capacidades, inteligencia y comportamiento. Entre estos trastornos se incluye autismo, síndrome de asperger, TDAH y desintegrativo infantil.
 
 Para los efectos de esta Ley y las demás disposiciones que regulan al Sistema Educativo Estatal, se entenderá como sinónimos de docente, los conceptos de educadora, educador, profesora, profesor, maestra y maestro.
 
@@ -2589,6 +2593,10 @@ Acreditación de conocimientos adquiridos
 
 La Secretaría podrá expedir constancias, certificados, diplomas o títulos a quienes acrediten los conocimientos parciales respectivos a determinado grado escolar de educación básica o terminales que correspondan a cierto nivel educativo, adquiridos en forma autodidacta, de la experiencia laboral o a través de otros procesos educativos, para lo cual deberá sujetarse a los lineamientos aplicables. Las evaluaciones que sean necesarias para lo dispuesto en este artículo serán realizadas directamente por la Secretaría o por las instancias de las cuales ésta se apoye o convengan.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Las instituciones de educación superior podrán emitir microcredenciales, las cuales tienen como finalidad acreditar que una persona cuenta con habilidades específicas que le permitan adquirir competencias, a través de los criterios que ellas mismas establezcan para tal efecto y, en su caso, de conformidad con los lineamientos que emita la Secretaría.
+
 Autoridad competente
 
 ###### Artículo 230.
@@ -3294,3 +3302,11 @@ P.O. 20 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 194 MEDIANTE EL QUE SE REFORMAN LOS ARTÍCULOS 77 A 87, QUE CONFORMAN LA SECCIÓN I, “EDUCACIÓN ESPECIAL” Y 88 A 91 QUE INTEGRAN LA SECCIÓN II, “EDUCACIÓN INDÍGENA” DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO”.]
 
 Artículo único. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 313 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 3, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 229, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO; Y SE ADICIONAN UNA FRACCIÓN XVII AL ARTÍCULO 3, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y LA FRACCIÓN XXI BIS PASA A SER XXIII, ASÍ COMO UN TERCER PÁRRAFO AL ARTÍCULO 27, DE LA LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia del Decreto
+
+Único. La vigencia del presente decreto iniciará a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
