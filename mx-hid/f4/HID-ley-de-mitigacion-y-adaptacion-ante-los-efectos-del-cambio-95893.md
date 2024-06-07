@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-9589
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-26"
-last_updated: "2023-06-12"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de agosto de 2013.
 
@@ -37,13 +37,15 @@ QUE CONTIENE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLI
 
 El Congreso del Estado Libre y Soberano de Hidalgo, en uso de las facultades que le confiere el Artículo 56 fracciones I y II de la Constitución Política del Estado de Hidalgo, D E C R E T A:
 
-A N T E C E D E N T E S.
+A N T E C E D E N T E S
 
 ÚNICO.- En sesión ordinaria de fecha 16 de julio del año dos mil trece, por instrucciones del Presidente de la Directiva, nos fue turnada la Iniciativa de Ley de Mitigación y Adaptación ante los Efectos del Cambio Climático para el Estado de Hidalgo, presentada por el Diputado Christian Pulido Roldan, integrante de la Sexagésima Primera Legislatura, por lo que se registró en los Libros de Gobierno de las Primeras Comisiones Permanentes Conjuntas de Legislación y Puntos Constitucionales y de Medio Ambiente, con los números 242/2013 y 40/2013, respectivamente.
 
 Por lo que, en mérito de lo expuesto; y
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 POR TODO LO EXPUESTO, ESTE CONGRESO, HA TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
@@ -79,13 +81,17 @@ IV.- Reducir la vulnerabilidad de los asentamientos humanos y los ecosistemas de
 
 V.- Fomentar la educación, investigación, difusión, innovación, desarrollo y transferencia de tecnología para lograr una mejor adaptación de los potenciales impactos del cambio climático en el Estado;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-VI.- Promover una economía competitiva, a través de procesos productivos eficientes con bajas emisiones de carbono; y
+VI.- Promover una economía competitiva, a través de procesos productivos eficientes con bajas emisiones de carbono;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-VII.- El establecimiento de estrategias que contribuyan al cumplimiento del Acuerdo de París, en observancia de las disposiciones o el instrumento internacional vigente en la materia.
+VII.- El establecimiento de estrategias que contribuyan al cumplimiento del Acuerdo de París, en observancia de las disposiciones o el instrumento internacional vigente en la materia, y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VIII.- Promover la movilidad activa o no motorizada, la electromovilidad y sistemas de transporte colectivo sustentables con la finalidad de mitigar la contaminación del aire por emisiones de gases y compuestos de efecto invernadero.
 
 ###### Artículo 4.
 
@@ -111,6 +117,10 @@ IX.- Desarrollo Sustentable: Proceso evaluable mediante criterios e indicadores 
 
 X.- Efectos adversos del Cambio Climático: Variaciones bruscas en el medio ambiente resultantes del cambio climático, que tienen efectos nocivos significativos en la composición, capacidad de recuperación, productividad de los ecosistemas, en la salud y bienestar humano y en el funcionamiento de los sistemas socioeconómicos;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+X Bis.- Electromovilidad: El desplazamiento de personas y bienes mediante el uso de vehículos eléctricos, entendidos como aquellos que utilizan combustibles y/o energía alternativa impulsado por uno o más motores eléctricos;
+
 XI.- Emisión: Liberación de gases de efecto invernadero, o sus precursores, en la atmósfera, en un área y en un espacio de tiempo específicos;
 
 XII.- Estado: Estado de Hidalgo;
@@ -132,6 +142,10 @@ XIX.- Inventario: Inventario Estatal de Emisiones de gases efecto invernadero;
 XX.- Ley: Ley de Mitigación y Adaptación ante los Efectos del Cambio Climático para el Estado de Hidalgo;
 
 XXI.- Mitigación: Intervención humana destinada a reducir los efectos del cambio climático, mediante la disminución de emisiones de gases efecto invernadero y su captura;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XXI Bis.- Movilidad activa o no motorizada: Desplazamiento de personas y bienes que requiere de esfuerzo físico, utilizando ayudas técnicas o mediante el uso de vehículos no motorizados;
 
 XXII.- Ordenamiento Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio, ya sea: el país como un todo, o una división administrativa del mismo;
 
@@ -193,7 +207,9 @@ c).- Agricultura, ganadería, desarrollo rural, pesca y acuacultura;
 
 d).- Educación;
 
-e).- Infraestructura y transporte eficiente y sustentable;
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+e).- Infraestructura eficiente, sustentable y el impulso de la movilidad activa o no motorizada, la electromovilidad y el transporte con menor costo ambiental para garantizar la mejora en la calidad del aire;
 
 f).- Ordenamiento territorial de los asentamientos humanos y desarrollo urbano de los centros de población y el ordenamiento ecológico territorial en coordinación con sus municipios;
 
@@ -239,6 +255,10 @@ V.- Elaborar, publicar y actualizar el Atlas de Riesgo Ambiental Estatal;
 
 VI.- Realizar campañas de educación e información para sensibilizar a la población sobre los efectos adversos del cambio climático;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VI Bis.- Desarrollar estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero mediante el impulso de la movilidad activa o no motorizada, la electromovilidad y el transporte con menor costo ambiental con base en evidencia científica y territorial para garantizar la mejora en la calidad del aire;
+
 VII.- Elaborar e integrar, en colaboración con el INECC, la información de las categorías de fuentes emisoras, para su incorporación al Inventario Estatal de Emisiones;
 
 VIII.- Integrar el Inventario Estatal de Emisiones, conforme a los criterios e indicadores elaborados por la Federación en la materia;
@@ -275,7 +295,9 @@ d) Protección civil;
 
 e) Manejo de residuos sólidos urbanos;
 
-f) Transporte público de pasajeros eficiente y sustentable en su ámbito Jurisdiccional; y
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+f) Transporte público de pasajeros eficiente y sustentable con menor costo ambiental; y la movilidad activa o no motorizada en su ámbito jurisdiccional; y
 
 g) Otros servicios públicos municipales que contribuyan a la generación de emisiones a la atmosfera.
 
@@ -298,6 +320,10 @@ VIII.- Gestionar y administrar recursos para ejecutar acciones de adaptación y 
 > <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
 
 IX.- Elaborar e integrar, de manera trimestral la actualización de la información de las categorías de Fuentes Emisoras que se originan en su territorio, para su incorporación al Inventario Estatal de Emisiones, conforme a los criterios e indicadores elaborados por la federación en la materia;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IX Bis.- Coadyuvar con la Secretaría en el desarrollo de estrategias, programas y proyectos integrales de mitigación de emisiones de gases de efecto invernadero mediante el impulso de la movilidad activa o no motorizada, la electromovilidad y el transporte con menor costo ambiental para garantizar la mejora en la calidad del aire;
 
 X.- Vigilar y promover, en el ámbito de su competencia, el cumplimiento de esta Ley, sus disposiciones reglamentarias y los demás ordenamientos que deriven de ella; y
 
@@ -353,9 +379,17 @@ III.- Minimizar riesgos y daños, considerando los escenarios actuales y futuros
 
 IV.- Identificar la vulnerabilidad y capacidad de adaptación y transformación de los sistemas ecológicos, físicos y sociales, y aprovechar oportunidades generadas por nuevas condiciones climáticas;
 
-V.- Establecer mecanismos de atención inmediata y expedita en zonas impactadas por los efectos del cambio climático como parte de los planes y acciones de protección civil; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-VI.- Facilitar y fomentar la seguridad alimentaria, la productividad agrícola, ganadera, pesquera, acuícola, la preservación de los ecosistemas y de los recursos naturales.
+V.- Establecer mecanismos de atención inmediata y expedita en zonas impactadas por los efectos del cambio climático como parte de los planes y acciones de protección civil;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VI.- Facilitar y fomentar la seguridad alimentaria, la productividad agrícola, ganadera, pesquera, acuícola, la preservación de los ecosistemas y de los recursos naturales; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VII.- Impulsar la movilidad activa o no motorizada, la electromovilidad y el transporte eficiente y sustentable, para garantizar la mejora en la calidad de aire.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -504,6 +538,10 @@ c).- Fortalecer el cumplimiento del Programa Obligatorio de Verificación Vehicu
 d).- Establecer programas que promuevan el trabajo de oficina en casa, cuidando aspectos de confidencialidad, a fin de reducir desplazamientos y servicios de los trabajadores; y
 
 e).- Desarrollar instrumentos económicos para que las empresas otorguen el servicio de transporte colectivo a sus trabajadores hacia los centros de trabajo, a fin de reducir el uso del automóvil.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+f).- Impulsar la movilidad activa o no motorizada, la electromovilidad y el transporte con menor costo ambiental para garantizar la mejora en la calidad del aire.
 
 III.- Agropecuario:
 
@@ -1310,5 +1348,11 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 P.O. 12 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 273 QUE REFORMA LOS ARTÍCULOS 38; 41; 42 Y 45 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 955 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
