@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-desarrollo-y-competitividad-economica-del-96616"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2023-11-20"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -133,35 +133,39 @@ XV. Inversiones productivas: Incremento de la capacidad física y tecnocientífi
 
 XVI. Ley: La Ley para el Desarrollo y Competitividad Económica del Estado de Guanajuato y sus Municipios;
 
-XVII. Organizaciones empresariales: Cámaras empresariales y sus confederaciones; las asociaciones y agrupamientos legalmente constituidos;
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XVIII. Órganos auxiliares: Comisiones, consejos y comités creados por decreto gubernativo o a través de convenios de coordinación y colaboración, para la atención de materias específicas en relación con el desarrollo y competitividad económica;
+XVII. Microcredenciales: es el reconocimiento de los aprendizajes que realiza una institución educativa del tipo superior a través del cual, una persona puede acreditar la adquisición de habilidades, conocimientos o capacidades específicas;
 
-XIX. Procesos productivos: Conjunto de actividades concretas, interrelacionadas y coordinadas entre sí, que tienen como objetivo la producción de bienes y servicios;
+XVIII. Organizaciones empresariales: Cámaras empresariales y sus confederaciones; las asociaciones y agrupamientos legalmente constituidos;
 
-XX. Proyectos de Desarrollos Económicos: Espacios territoriales destinados a la realización de actividades industriales, comerciales y de servicios o de transferencia de tecnología, con infraestructura y servicios comunes que facilitan la instalación de proyectos de inversión generadores de empleo o tecnología;
+XIX. Órganos auxiliares: Comisiones, consejos y comités creados por decreto gubernativo o a través de convenios de coordinación y colaboración, para la atención de materias específicas en relación con el desarrollo y competitividad económica;
 
-XXI. Proyecto de Inversión Productiva: Proyecto económico de tipo industrial, comercial o de servicios orientado a la transformación, compraventa de bienes y servicios y prestación de servicios, el cual debe contener un programa de inversión y generación de empleo directo en un periodo determinado, señalando las fuentes de origen de los recursos;
+XX. Procesos productivos: Conjunto de actividades concretas, interrelacionadas y coordinadas entre sí, que tienen como objetivo la producción de bienes y servicios;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+XXI. Proyectos de Desarrollos Económicos: Espacios territoriales destinados a la realización de actividades industriales, comerciales y de servicios o de transferencia de tecnología, con infraestructura y servicios comunes que facilitan la instalación de proyectos de inversión generadores de empleo o tecnología;
 
-XXI BIS. Salvaguardas Sociales. Se refieren a medidas sociales y económicas enfocadas en anticipar, evitar, minimizar, mitigar o compensar los impactos adversos o negativos de proyectos de desarrollos económicos en comunidades en los que estos tengan incidencia. Asimismo, se consideran en estas acciones aquellas orientadas a mejorar y potenciar los impactos positivos, beneficios y oportunidades económicas y sociales para las poblaciones locales involucradas;
+XXII. Proyecto de Inversión Productiva: Proyecto económico de tipo industrial, comercial o de servicios orientado a la transformación, compraventa de bienes y servicios y prestación de servicios, el cual debe contener un programa de inversión y generación de empleo directo en un periodo determinado, señalando las fuentes de origen de los recursos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCION XXI BIS], P.O. 7 DE JUNIO DE 2024)</small>
+
+XXIII Salvaguardas Sociales. Se refieren a medidas sociales y económicas enfocadas en anticipar, evitar, minimizar, mitigar o compensar los impactos adversos o negativos de proyectos de desarrollos económicos en comunidades en los que estos tengan incidencia. Asimismo, se consideran en estas acciones aquellas orientadas a mejorar y potenciar los impactos positivos, beneficios y oportunidades económicas y sociales para las poblaciones locales involucradas;
 
 Estas medidas deberán considerar un enfoque de brechas de desigualdad de género para implementar acciones y propuestas orientadas en abatirlas.
 
-XXII. Secretaría: La Secretaría de Desarrollo Económico Sustentable;
+XXIV. Secretaría: La Secretaría de Desarrollo Económico Sustentable;
 
-XXIII. Secretario: El titular de la Secretaría de Desarrollo Económico Sustentable;
+XXV. Secretario: El titular de la Secretaría de Desarrollo Económico Sustentable;
 
-XXIV. Sistema de parques: Esfuerzo de articulación, colaboración y complementariedad para el desarrollo de infraestructura y servicios con altos estándares de calidad para el desarrollo y hospedaje de empresas generadoras de empleo, con enfoque tanto industrial como tecnológico;
+XXVI. Sistema de parques: Esfuerzo de articulación, colaboración y complementariedad para el desarrollo de infraestructura y servicios con altos estándares de calidad para el desarrollo y hospedaje de empresas generadoras de empleo, con enfoque tanto industrial como tecnológico;
 
-XXV. Sostenibilidad: Ecosistema de negocios que satisface las necesidades económicas y sociales, de una zona o región;
+XXVII. Sostenibilidad: Ecosistema de negocios que satisface las necesidades económicas y sociales, de una zona o región;
 
-XXVI. Sustentabilidad: Ecosistema de negocios que preserva, conserva y protege los recursos naturales para el beneficio de las generaciones presentes y futuras;
+XXVIII. Sustentabilidad: Ecosistema de negocios que preserva, conserva y protege los recursos naturales para el beneficio de las generaciones presentes y futuras;
 
-XXVII. Vocación económica: Actividades económicas actuales y potenciales que tienen presencia en una zona o región determinada, las cuales se diferencian y dan ventajas sobre otras; y
+XIX (sic). Vocación económica: Actividades económicas actuales y potenciales que tienen presencia en una zona o región determinada, las cuales se diferencian y dan ventajas sobre otras; y
 
-XXVIII. Zonas y regiones económicas: Afinidad en las actividades económicas y ecosistema de negocios que son comunes a un territorio.
+XXX. Zonas y regiones económicas: Afinidad en las actividades económicas y ecosistema de negocios que son comunes a un territorio.
 
 ### Capítulo II. Autoridades y sus facultades
 
@@ -315,23 +319,35 @@ VI. El titular de la Secretaría de Infraestructura, Conectividad y Movilidad;
 
 VII. El titular del Instituto responsable de la innovación en el estado de Guanajuato;
 
-VIII. El Presidente Ejecutivo del Consejo de Fomento al Comercio Exterior;
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-IX. El Presidente de la Comisión para la Atracción de Inversiones del Estado de Guanajuato;
+VIII. La persona titular del Instituto para las Mujeres Guanajuatenses;
 
-X. El Presidente del Consejo de Fomento al Comercio Interior;
+IX. El Presidente Ejecutivo del Consejo de Fomento al Comercio Exterior;
 
-XI. El Presidente del Consejo Estatal de Fomento Artesanal;
+X. El Presidente de la Comisión para la Atracción de Inversiones del Estado de Guanajuato;
 
-XII. El Presidente del Patronato para el Desarrollo Agropecuario;
+XI. El Presidente del Consejo de Fomento al Comercio Interior;
+
+XII. El Presidente del Consejo Estatal de Fomento Artesanal;
+
+XIII. El Presidente del Patronato para el Desarrollo Agropecuario;
 
 > <small>(REFORMADA, P.O. 22 DE JULIO DE 2020)</small>
 
-XIII. El Presidente del Consejo Estatal de Mejora Regulatoria;
+XIV. El Presidente del Consejo Estatal de Mejora Regulatoria;
 
-XIV. Los presidentes de los Consejos Coordinadores Empresariales de Celaya, Irapuato, León, Salamanca y San Miguel de Allende; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XV. Un representante del sindicato obrero con mayor representación en el estado.
+XV. Los presidentes de los Consejos Coordinadores Empresariales de Celaya, Irapuato, León, Salamanca y San Miguel de Allende;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVI. Un representante del sindicato obrero con mayor representación en el estado; y
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVII. Una representante de la sociedad civil organizada que se especialice en la promoción e impulso empresarial y productivo de la mujer.
 
 En atención al tema a tratar, y con el propósito de orientar la toma de decisiones del Consejo, podrán participar a invitación del presidente con voz pero sin voto y sin que se consideren integrantes bajo ninguna forma:
 
@@ -391,7 +407,19 @@ XVI. Proponer a los ayuntamientos de las regiones, programas de estímulos para 
 
 XVII. Promover salvaguardas sociales para el desarrollo de proyectos de desarrollos económicos en comunidades en los que estos tengan incidencia; y
 
-XVIII. Los demás que se encuentren previstas en los ordenamientos jurídicos.
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XVIII. Monitorear las tendencias, fluctuaciones y patrones de los indicadores económicos estratégicos del estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XIX. Promover la difusión de información y conocimiento relacionado con el comportamiento de los indicadores económicos estratégicos del estado. Como parte de ello, conocer el comportamiento, estadísticas y políticas en materia salarial, a fin de visibilizar los temas relacionados con el salario como parte de los ejes centrales en la agenda económica;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XX. Sugerir políticas orientadas a abatir barreras de entrada y permanencia en el mercado laboral en el caso de mujeres con el propósito de impulsar acciones para lograr más y mejores empleos; y
+
+XXI. Los (sic) demás que se encuentren previstas en los ordenamientos jurídicos.
 
 Organización y funcionamiento del Consejo
 
@@ -639,6 +667,10 @@ La Secretaría, en el ámbito de su competencia y en coordinación con el Instit
 
 La Secretaría promoverá en coordinación con la Secretaría de Educación y el Instituto responsable de la innovación en el estado de Guanajuato la inclusión en los programas académicos en los niveles medio superior y superior autorizados por ésta, actividades vinculadas con la cultura emprendedora.
 
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+La Secretaría fomentará en coordinación con la Secretaría de Educación el uso de microcredenciales con la finalidad de promover acciones enfocadas a favorecer la obtención de empleo, así como la permanencia y mejoría de oportunidades en el mercado de trabajo.
+
 Capacitación y adiestramiento
 
 ###### Artículo 28.
@@ -746,6 +778,20 @@ IV. Promover estímulos fiscales para incentivar actividades y acciones relacion
 Para el efecto de la gestión en materia de innovación tecnológica, se coordinará con el Instituto responsable de la innovación en el estado de Guanajuato; y
 
 V. Promover apoyos económicos para la capacitación especializada en materia de cultura emprendedora, de desarrollo de emprendedores y de empresas de reciente creación.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 7 DE JUNIO DE 2024)</small>
+
+#### Sección Décima. Transversalización de la perspectiva de género
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+Artículo 38 bis. La Secretaría promoverá políticas de desarrollo económico aplicando la transversalización de la perspectiva de género, por lo cual deberá considerar:
+
+I. Análisis, generación y difusión de información estadística que permita la revisión de las tendencias de inclusión en el mercado laboral; comportamiento de brechas salariales; ocupaciones por sector, a fin de identificar de forma integral la condición del mercado laboral en la entidad bajo una perspectiva de género;
+
+II. Identificación de barreras de entrada y permanencia en el mercado laboral en el caso de mujeres, así como determinantes de brechas salariales, con el propósito de impulsar acciones orientadas a lograr más y mejores empleos para las mujeres;
+
+III. Inclusión de perspectiva de género en el marco de las acciones de promoción económica; vinculación de actividades productivas; apoyo a la micro, pequeña y mediana empresa; capacitación del capital humano y certificación de competencias laborales; promoción del empleo productivo y fortalecimiento a la empresa, que se llevan a cabo en cumplimiento de la presente ley.
 
 ### Capítulo V. Impulso a la innovación y modernización tecnológica
 
@@ -1054,3 +1100,19 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 236, POR EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO”.]
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 312 MEDIANTE EL CUAL SE ADICIONAN UNA FRACCIÓN VIII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, SIENDO LAS ACTUALES VIII, IX, X, XI, XII, XIII, XIV Y XV, PARA QUEDAR COMO IX, X, XI, XII, XIII, XIV, XV Y XVI, ASÍ COMO UNA FRACCIÓN XVII AL ARTÍCULO 11; LAS FRACCIONES XVIII, XIX Y XX AL ARTÍCULO 12, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XVIII PARA QUEDAR COMO XXI; Y UNA SECCIÓN DÉCIMA DENOMINADA "TRANSVERSALIZACIÓN DE LA PERSPECTIVA DE GÉNERO" AL CAPÍTULO IV CON UN ARTÍCULO 38 BIS, DE LA LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS".]
+
+Inicio de vigencia
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 313 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 3, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 229, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO; Y SE ADICIONAN UNA FRACCIÓN XVII AL ARTÍCULO 3, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES Y LA FRACCIÓN XXI BIS PASA A SER XXIII, ASÍ COMO UN TERCER PÁRRAFO AL ARTÍCULO 27, DE LA LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Inicio de vigencia del Decreto
+
+Único. La vigencia del presente decreto iniciará a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
