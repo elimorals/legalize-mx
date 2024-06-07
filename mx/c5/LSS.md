@@ -4,7 +4,7 @@ identifier: "LSS"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-21"
-last_updated: "2024-05-21"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LSS"
 
 LEY DEL SEGURO SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 21 de diciembre de 1995.
 
@@ -131,6 +131,14 @@ XXI. Unión civil: es el acto jurídico bilateral que se constituye cuando las p
 > <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 2023)</small>
 
 XXII. Servicio de guardería: derecho de las madres y padres trabajadores asegurados, viudas y viudos o divorciados con la custodia de sus hijos, durante su jornada laboral.
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+XXIII. Buzón IMSS: el sistema de comunicación electrónico implementado, administrado por el Instituto Mexicano del Seguro Social y establecido en su página de Internet, a través del cual podrá realizar la notificación de cualquier acto, requerimiento o resolución administrativa que emita en documentos digitales, e informar sobre aspectos de interés; mediante el cual, los particulares podrán presentar promociones, solicitudes, avisos o dar cumplimiento a sus obligaciones y requerimientos efectuados por el Instituto; ello, mediante documentos digitales, así como realizar consultas sobre su situación fiscal y administrativa ante el Instituto, y
+
+> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+XXIV. Personas Particulares: las y los derechohabientes, patrones, sujetos obligados, contadores públicos, contadores públicos autorizados, responsables solidarios, terceros relacionados, sean personas físicas o morales y representantes legales que realicen actuaciones ante el Instituto mediante el Buzón IMSS.
 
 Por lo que respecta a los matrimonios celebrados entre personas del mismo sexo, esta ley reconoce tales uniones con los mismos derechos y obligaciones que los celebrados entre hombre y mujer.
 
@@ -1148,13 +1156,25 @@ III. La o el cónyuge del asegurado o asegurada o, a falta de éstos, la concubi
 
 IV. La esposa o esposo del pensionado o pensionada en los términos de los incisos a), b) y c) de la fracción II, a falta de esposa o esposo, a la concubina o el concubinario si reúnen los requisitos de la fracción III, o a quien haya suscrito una unión civil con el asegurado o asegurada;
 
-V. Los hijos menores de dieciséis años del asegurado y de los pensionados, en los términos consignados en las fracciones anteriores;
+> <small>(REFORMADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+V. Los hijos menores de dieciséis años del asegurado y de los pensionados.
+
+Del mismo derecho gozarán las y los menores de dieciséis años, sobre quienes el asegurado o pensionado ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial, en los términos consignados en las fracciones anteriores;
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2011)</small>
 
 VI. Los hijos del asegurado cuando no puedan mantenerse por su propio trabajo debido a una enfermedad crónica o discapacidad por deficiencias físicas, mentales, intelectuales o sensoriales, hasta en tanto no desaparezca la incapacidad que padecen o hasta la edad de veinticinco años cuando realicen estudios en planteles del sistema educativo nacional;
 
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Del mismo derecho gozarán las y los menores sobre quienes el asegurado o pensionado ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial y reúnan, en su caso, los requisitos del párrafo anterior;
+
 VII. Los hijos mayores de dieciséis años de los pensionados por invalidez, cesantía en edad avanzada y vejez, que se encuentren disfrutando de asignaciones familiares, así como los de los pensionados por incapacidad permanente, en los mismos casos y condiciones establecidos en el artículo 136;
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Del mismo derecho gozarán las y los mayores de dieciséis años, sobre quienes el pensionado por invalidez, cesantía en edad avanzada y vejez, ejerza la patria potestad o guarda y custodia o tutela, acreditada por resolución judicial y reúnan, en su caso, los requisitos del párrafo anterior;
 
 VIII. El padre y la madre del asegurado que vivan en el hogar de éste, y
 
@@ -3734,19 +3754,39 @@ El Instituto, en su carácter de patrón, no podrá destinar a este Fondo, para 
 
 ### CAPITULO IX. DE LOS MEDIOS DE COMUNICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Artículo 286 L. Las personas particulares podrán presentar ante el Instituto, las promociones o solicitudes relacionadas con el ejercicio de las facultades de éste, establecidas en la Ley y sus Reglamentos a través del Buzón IMSS, para lo cual emplearán los medios de identificación correspondientes.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+> <small>(REFORMADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Las actuaciones realizadas a través del Buzón IMSS producirán los mismos efectos legales que los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorguen a éstos.
+
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
-
-Artículo 286 L. El Instituto, para lograr la mejor aplicación de las facultades contenidas en esta Ley, así como de las facultades que las demás leyes o reglamentos le confieran, recibirá las promociones o solicitudes que los particulares presenten por escrito, sin perjuicio de que dichos documentos puedan presentarse a través de medios de comunicación electrónicos, magnéticos, digitales, ópticos, magneto ópticos o de cualquier otra naturaleza, para lo cual emplearán los medios de identificación correspondientes.
-
-El uso de dichos medios de comunicación, será optativo para cualquier interesado, pero al momento de hacer uso de los mismos en una promoción deberá continuar en esta forma la presentación de cualquier tipo de documento relacionado con dicha promoción.
-
-Los documentos presentados por los medios a que se refiere este Capítulo producirán los mismos efectos legales que los documentos firmados autógrafamente y, en consecuencia, tendrán el mismo valor probatorio que las disposiciones aplicables les otorguen a éstos.
 
 Asimismo, la clave de identificación personal correspondiente a los registros efectuados en el expediente clínico, que se señala en el artículo 111 A de esta Ley, producirá los mismos efectos legales a que se refiere el párrafo anterior. En estos casos, el Instituto al recibir una promoción o solicitud dará por acreditada la identidad o existencia del promovente y, en su caso, las facultades de su representante, siempre y cuando la documentación requerida para este fin corresponda con la que se hubiere presentado por el particular para obtener su certificado de firma electrónica, por lo que se abstendrá, en su caso, de solicitar dicha documentación como requisito en el procedimiento administrativo de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE JUNIO DE 2024)</small>
 
-Artículo 286 M. El Instituto podrá efectuar notificaciones, citatorios, emplazamientos; requerir o solicitar informes o documentación, así como emitir resoluciones a través de medios de comunicación electrónica, siempre que los particulares manifiesten previamente y de manera expresa su conformidad de recibir las actuaciones mencionadas en esta disposición, respecto de cada promoción o solicitud que realicen.
+Artículo 286 M. El Instituto realizará notificaciones, citatorios, emplazamientos; requerir o solicitar informes o documentación, o emitir resoluciones e informar sobre aspectos de interés a las personas particulares, a través del Buzón IMSS.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Para efectos del párrafo anterior, las personas particulares deberán registrar y mantener actualizados los medios de contacto con el Instituto, de acuerdo con los lineamientos que para tal efecto apruebe el Consejo Técnico.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Para el caso específico de los patrones o sujetos obligados, lo establecido en el presente artículo, se llevará a cabo, sin perjuicio de que el Instituto pueda efectuar las notificaciones de sus actos en los términos y con las formalidades establecidas en la ley, el Código y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Cuando las personas particulares, no habiliten, señalen datos erróneos, no registren o no actualicen sus medios de contacto, el Instituto podrá efectuar sus notificaciones de conformidad con lo dispuesto en el artículo 134, fracción III del Código.
+
+> <small>(ADICIONADO, D.O.F. 7 DE JUNIO DE 2024)</small>
+
+Para la utilización de medios electrónicos, será aplicable lo dispuesto en el Código en todas aquellas disposiciones que lo complemente y no contravenga la regulación prevista en la presente Ley.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2001)</small>
 
@@ -4989,3 +5029,25 @@ D.O.F. 21 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 253 DE LA LEY DEL SEGURO SOCIAL”.]
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL Y DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado deberán considerar el presente Decreto a fin de realizar los ajustes necesarios a sus disposiciones normativas.
+
+D.O.F. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, EN MATERIA DE HERRAMIENTAS DIGITALES PARA TRÁMITES”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Instituto Mexicano del Seguro Social publicará en el Diario Oficial de la Federación dentro de un plazo de 60 días, los trámites y servicios disponibles en el Buzón IMSS, así como sus reglas de carácter general para su operación.
+
+Cualquier adición o modificación a lo señalado en el párrafo anterior, deberá ser publicado en el mismo medio de difusión oficial y en las páginas de Internet del Instituto Mexicano del Seguro Social.
+
+Tercero.- Hasta en tanto no se publiquen las nuevas reglas de carácter general, seguirán vigentes los "Lineamientos Generales para el Uso del Buzón IMSS".
+
+Una vez que se emitan las reglas de carácter general, se tendrán por derogadas las disposiciones legales, administrativas y reglamentarias que se opongan a las contenidas en el presente Decreto.
