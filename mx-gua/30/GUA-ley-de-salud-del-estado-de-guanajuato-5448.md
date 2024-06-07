@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2023-11-20"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -1903,13 +1903,21 @@ Los profesionales, técnicos y auxiliares de la salud deberán rendir los inform
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
-###### ARTICULO 129 Bis.
-
-La Secretaría de Salud formulará y aplicará programas o campañas temporales y permanentes para prevenir enfermedades crónicas, e informar sobre los factores de riesgo y de los mecanismos para generar y mantener adecuados hábitos encaminados a una mejor calidad de vida. Estas acciones estarán construidas a partir de una perspectiva integral, que contemple al paciente, sus cuidadores, familiares y a la comunidad en general.
+ARTICULO 129 BIS.- La Secretaría de Salud formulará y aplicará programas o campañas temporales y permanentes para prevenir enfermedades crónicas, e informar sobre los factores de riesgo y de los mecanismos para generar y mantener adecuados hábitos encaminados a una mejor calidad de vida. Estas acciones estarán construidas a partir de una perspectiva integral, que contemple al paciente, sus cuidadores, familiares y a la comunidad en general.
 
 Como parte de estas acciones, la Secretaría de Salud se coordinará con las autoridades en materia laboral, con las empresas y trabajadores, con el objeto de que las personas con una enfermedad crónica cuenten con un entorno laboral consciente de sus necesidades y respetuoso de sus derechos.
 
 Para los efectos del párrafo anterior, la Secretaría de Salud podrá coordinarse con todas las autoridades competentes, organizaciones de la sociedad civil dedicadas a la prevención y tratamiento de enfermedades crónicas, a efecto de desarrollar campañas y programas conjuntos, que se adapten a las necesidades y circunstancias particulares.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+ARTICULO 129 TER.- Las autoridades sanitarias y las instituciones públicas de salud del Estado deben diferenciar el diagnóstico y la atención de los tipos de diabetes, en los términos de la Ley General de Salud, considerando al menos la siguiente clasificación:
+
+I.- Diabetes Tipo 1;
+
+II.- Diabetes Tipo 2, y
+
+III.- Diabetes Gestacional.
 
 ### CAPITULO IV. Accidentes
 
@@ -3746,3 +3754,9 @@ P.O. 20 DE NOVIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 232, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 308 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 129 TER A LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
