@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-reconocimiento-de-los-derechos-de-las-personas-146185"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-15"
-last_updated: "2023-04-21"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146185&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2021-01-14"
 
 LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Número 515 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 15 de enero de 2021.
 
@@ -131,6 +131,10 @@ II. Autonomía y Autorrealización;
 III. Bienestar y cuidado
 
 IV. Dignidad, independencia y protagonismo;
+
+> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2024)</small>
+
+IV BIS. Diversidad sexual y de género.
 
 V. Enfoque de curso de vida
 
@@ -506,9 +510,11 @@ Las personas mayores tienen derecho a la libertad de expresión, opinión y al a
 
 Las autoridades de la Ciudad en el ámbito de sus respectivas competencias velarán por que se les respeten a las personas mayores estos derechos y en particular respetarán la no divulgación de sus datos personales que figuren en sus expedientes o historiales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 34.
 
-Los Poderes Públicos, los organismos autónomos, así como las alcaldías en su respectivo ámbito de competencia, deberán implementar mecanismos para proporcionar información suficiente y veraz, así como asesoría sobre los derechos, obligaciones y deberes consagrados en esta ley.
+Los Poderes Públicos, los organismos autónomos, así como las alcaldías en su respectivo ámbito de competencia, deberán implementar mecanismos para proporcionar información suficiente y veraz, garantizando el acceso efectivo a la información pública, así como asesoría sobre los derechos, obligaciones y deberes consagrados en esta ley.
 
 De igual forma establecerán mecanismos adecuados y accesibles que favorezcan el ejercicio de las personas mayores del derecho de acceso a la información a través del mecanismo de solicitudes de información.
 
@@ -968,11 +974,15 @@ Las personas mayores tienen el derecho de vivir con su familia y formar sus prop
 
 Es deber fundamental de la familia mantener una convivencia constante y permanente con las personas mayores que las integran, así como fortalecer sus lazos afectivos respetar su autonomía, autodeterminación y construir una solidaridad intergeneracional en el seno familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 85.
 
-La separación de una persona mayor de su familia solo podrá darse mediante su consentimiento, por causa de salud, enfermedad grave o contagiosa o cuando requiera los servicios de instituciones especializadas.
+El lugar ideal para que las personas mayores permanezcan es su hogar. La separación de una persona mayor de su familia solo podrá darse mediante su consentimiento, por causa de salud, enfermedad grave o contagiosa o cuando requiera los servicios de instituciones especializadas.
 
-Cuando una persona mayor sea separada de su familia no implicará el deslindarse de la protección por parte de sus familiares.
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2024)</small>
+
+Cuando una persona mayor sea separada de su núcleo familiar no implicará el deslindarse de la protección, provisión de alimentos y demás necesidades a cargo de sus familiares.
 
 Cuando una persona mayor sea víctima de un hecho delictivo relacionado con violencia y maltrato en el lugar donde habite, por algún integrante de su familia, así como algún integrante por parentesco civil, en atención al interés superior de la víctima de manera obligatoria e inmediatamente:
 
@@ -1585,6 +1595,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.O. 21 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 2º, Y SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 4º, DE LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN IV BIS AL ARTÍCULO 4º, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 34 Y, EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 85, TODOS DE LA LEY DE RECONOCIMIENTO DE LOS DERECHOS DE LAS PERSONAS MAYORES Y DEL SISTEMA INTEGRAL PARA SU ATENCIÓN DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
