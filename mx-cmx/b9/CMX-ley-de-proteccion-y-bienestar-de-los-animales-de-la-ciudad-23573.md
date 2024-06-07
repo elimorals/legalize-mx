@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-proteccion-y-bienestar-de-los-animales-de-la-ciudad-2357
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-26"
-last_updated: "2024-04-18"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23573&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-01-08"
 
 LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 18 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 7 DE JUNIO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 26 de febrero de 2002.
 
@@ -166,17 +166,21 @@ XV. Silvestres, y
 
 XVI. Acuarios y Delfinarios.
 
-> <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 3°.
 
-Sin perjuicio de lo establecido en el párrafo anterior, corresponde a las autoridades de la Ciudad de México, en auxilio de las federales, la salvaguarda del interés de toda persona de exigir el cumplimiento del derecho que la Nación ejerce sobre los animales silvestres y su hábitat como parte de su patrimonio natural y cultural, salvo aquellos que se encuentren en cautiverio y cuyos tutores responsables cuenten con documentos que amparen su procedencia legal, ya sea como animal de compañía o como parte de una exhibición zoológica pública o privada y cumplan con las disposiciones de trato digno y respetuoso a los animales que esta Ley establece.
+Sin perjuicio de lo establecido en el párrafo anterior, corresponde a las autoridades de la Ciudad de México, en auxilio de las federales, la salvaguarda del interés de toda persona de exigir el cumplimiento del derecho que la Nación ejerce sobre los animales silvestres y su hábitat como parte de su patrimonio natural y cultural, salvo aquellos que se encuentren en cautiverio y cuyos dueños cuenten con documentos que amparen su procedencia legal, ya sea como mascota o como parte de una colección en los Centros de Conservación de Vida Silvestre, públicos o privados, y cumplan con las disposiciones de trato digno y respetuoso a los animales que esta Ley establece.
+
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
 
 Queda expresamente prohibida la caza y captura de cualquier especie de fauna silvestre en la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
+
 Las autoridades de la Ciudad de México deben auxiliar a las federales para aplicar las medidas necesarias para la regulación del comercio de animales silvestres, sus productos o subproductos, así como para evitar la posesión y exhibición ilegal de éstos, mediante la celebración de convenios o acuerdos de coordinación, conforme a la ley en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 4.
 
@@ -210,9 +214,9 @@ V. Animal deportivo: Los animales utilizados en la práctica de algún deporte;
 
 VI. Animal Doméstico: El animal que ha sido reproducido y criado bajo el control del ser humano, que convive con él y requiere de este para su subsistencia y que no se trate de animales silvestres;
 
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2024)</small>
 
-VI BIS. Animal en Exhibición. Todos aquellos que se encuentran en cautiverio en zoológicos y espacios similares de propiedad pública o privada;
+VI BIS. Animal en Exhibición: Todos aquellos que se encuentran bajo cuidado profesional en Centros de Conservación de Vida Silvestre y espacios similares de propiedad pública o privada;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -306,7 +310,7 @@ XIX BIS. Certificados de Compra. Las constancias de venta, expedidas por los pro
 
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
-XIX. Bis 1. Centros de Atención Canina y Felina: Todas las instalaciones operadas por la Secretaría de Salud de la Ciudad de México que resguardan temporalmente animales de compañía asegurados por autoridades, que ofrecen servicios de medicina preventiva y esterilización, así como orientación a la ciudadanía que así lo requieran y que, bajo lo estipulado en la presente Ley, apliquen eutanasia a animales de compañía;
+XIX. BIS 1. Centros de Atención Canina y Felina: Todas las instalaciones operadas por la Secretaría de Salud de la Ciudad de México que resguardan temporalmente animales de compañía asegurados por autoridades, que ofrecen servicios de medicina preventiva y esterilización, así como orientación a la ciudadanía que así lo requieran y que, bajo lo estipulado en la presente Ley, apliquen eutanasia a animales de compañía;
 
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -318,7 +322,15 @@ XX BIS. Hospital Veterinario de la Ciudad de México: Centro de Atención médic
 
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
-XX. Bis 1. Clínicas Veterinarias en las Alcaldías: Los establecimientos públicos operados por las Alcaldías, cuyo objeto es proporcionar servicios para la atención médico-veterinaria a perros y gatos, así como la aplicación de medicina preventiva y esterilización, servicios que, de acuerdo con su competencia y capacidad, podrán extender en su demarcación territorial directamente o por medio de convenios, que les permitan proporcionar otros servicios de especialización a otros animales de compañía;
+XX. BIS 1. Clínicas Veterinarias en las Alcaldías: Los establecimientos públicos operados por las Alcaldías, cuyo objeto es proporcionar servicios para la atención médico-veterinaria a perros y gatos, así como la aplicación de medicina preventiva y esterilización, servicios que, de acuerdo con su competencia y capacidad, podrán extender en su demarcación territorial directamente o por medio de convenios, que les permitan proporcionar otros servicios de especialización a otros animales de compañía;
+
+> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2024)</small>
+
+XX BIS 2. Centros de Conservación de Vida Silvestre del Gobierno de la Ciudad de México: Las Unidades de Manejo para la Conservación de la Vida Silvestre (UMA) debidamente registrados ante la Secretaría de Medio Ambiente y Recursos Naturales.
+
+> <small>(ADICIONADA, G.O. 7 DE JUNIO DE 2024)</small>
+
+XX BIS 3. Centros de Conservación de Vida Silvestre: Las Unidades de Manejo para la Conservación de la Vida Silvestre (UMA) y los Predios e Instalaciones que manejan vida silvestre en forma confinada, fuera de su hábitat natural (PIMVS), debidamente registrados ante la Secretaría de Medio Ambiente y Recursos Naturales.
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -378,9 +390,9 @@ XXV BIS 5. Etólogo. Persona capacitada para dar tratamiento ante posibles probl
 
 XXV BIS 6. Eutanasia: procedimiento aplicado para terminar con la vida de algún animal, por medio de la administración de agentes químicos que induzcan primero pérdida de la conciencia, seguida de paro cardiorrespiratorio, sin producirles dolor ni ansiedad, con el fin de que dicho animal deje de sufrir por lesiones que no puedan ser atendidas y que le provoque dolor o sufrimiento que no puedan ser aliviados o por enfermedades graves e incurables que no puedan ser atendidas, o por problemas conductuales que pongan su vida o la de otros en peligro, conforme a un diagnóstico que emita un médico veterinario zootecnista que cuente con una especialización o certificación comprobable en la materia de etología;
 
-> <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2024)</small>
 
-XXVI. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades de la Ciudad de México en las materias de la presente Ley;
+XXVI. Instrumentos económicos: Los estímulos fiscales, financieros y administrativos que expidan las autoridades de la Ciudad de México, de conformidad con la normativa aplicable, en las materias de la presente Ley;
 
 > <small>(REFORMADA, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -494,9 +506,9 @@ XXXVIII. Secretaría de Salud: La Secretaría de Salud de la Ciudad de México;
 
 XXXIX. Seguridad Ciudadana: La Secretaría de Seguridad Ciudadana de la Ciudad de México;
 
-> <small>(ADICIONADA, G.O. 28 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2024)</small>
 
-XXXIX BIS. Sobrepoblación Canina y Felina. Existencia desproporcional y en exceso de especies domésticas que causan desequilibrio zoológico y ambiental.
+XXXIX BIS. Sobrepoblación Canina y Felina: Existencia desproporcional y en exceso de especies domésticas que causan desequilibrio animal y ambiental.
 
 > <small>(REFORMADA, G.O. 13 DE OCTUBRE DE 2006)</small>
 
@@ -676,9 +688,9 @@ II. Expedir los ordenamientos y demás disposiciones necesarias para el cumplimi
 
 III. Celebrar convenios de coordinación con las autoridades federales para la vigilancia de las leyes y normas oficiales mexicanas relacionadas con la materia de la presente Ley;
 
-> <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2024)</small>
 
-IV. Crear los instrumentos económicos adecuados para incentivar las actividades de protección a los animales llevadas a cabo por asociaciones u organizaciones legalmente constituidas y registradas, y para el desarrollo de programas de educación, investigación y difusión en las materias de la presente Ley;
+IV. Emitir los instrumentos económicos adecuados para incentivar y facilitar las actividades de protección a los animales llevadas a cabo por los refugios contemplados en esta Ley, así como por asociaciones u organizaciones legalmente constituidas y registradas y para el desarrollo de programas de educación, investigación y difusión en las materias de la presente Ley, conforme a lo previsto por la normatividad fiscal, administrativa y presupuestal aplicable;
 
 > <small>(REFORMADA, G.O. 18 DE JUNIO DE 2012)</small>
 
@@ -1362,9 +1374,9 @@ XIII. El uso de animales en la celebración de ritos y usos tradicionales que pu
 
 XIV. La utilización de aditamentos que pongan en riesgo la integridad física de los animales; y
 
-> <small>(REFORMADA Y REUBICADA, G.O. 13 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 7 DE JUNIO DE 2024)</small>
 
-XV. Ofrecer cualquier clase de alimento u objetos cuya ingestión pueda causar daño físico, enfermedad o muerte a los animales en los centros zoológicos o espectáculos públicos.
+XV. Ofrecer cualquier clase de alimento u objetos cuya ingestión pueda causar daño físico, enfermedad o muerte a los animales en los Centros de Conservación de Vida Silvestre públicos y privados o espectáculos públicos.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 27 DE JUNIO DE 2017)</small>
 
@@ -1492,9 +1504,9 @@ VIII. Las demás que establezca el Reglamento.
 
 Dichos establecimientos están obligados a otorgar a la o el comprador un manual de cuidado, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y las faltas que están sujetos por el incumplimiento de las disposiciones de la presente Ley. Dicho manual deberá estar certificado por una o un médico veterinario zootecnista.
 
-> <small>(REFORMADO, G.O. 27 DE MARZO DE 2024)</small>
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2024)</small>
 
-Las crías de los animales de compañía de vida silvestre, los animales de circos y zoológicos públicos o privados no están sujetas al comercio abierto. Se debe notificar a la autoridad correspondiente cuando sean enajenadas, intercambiadas, prestadas o donadas a terceras personas o trasladadas a otras instituciones.
+Las crías de animales de compañía de vida silvestre, los animales de circo y los Centros de Conservación de Vida Silvestre públicos o privados no están sujetas al comercio abierto. Se debe notificar a la autoridad correspondiente cuando sean enajenadas, intercambiadas, prestadas o donadas a terceras personas, o trasladadas a otras instituciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2024)</small>
 
@@ -2576,6 +2588,32 @@ XI. Las demás que se le asignen en los ordenamientos jurídicos aplicables.
 
 El Reglamento de la Agencia establecerá, entre otros aspectos, las reglas a que se sujetará el Consejo de Atención Animal, asimismo lo correspondiente al Comité de Bioética de la Agencia, respecto de su operación y funcionamiento, periodicidad de reuniones, quórum para sesionar, toma de decisiones, así como sustitución y ratificación de sus integrantes, para lo no estipulado en esta reglamentación se sujetará la Agencia, a lo establecido en el Reglamento Interior de la Administración Pública de la Ciudad de México.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 7 DE JUNIO DE 2024)</small>
+
+### Capítulo XIII. De los Instrumentos Económicos
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 78.
+
+La persona titular de la Jefatura de Gobierno de la Ciudad de México conforme a lo previsto por la normatividad fiscal, administrativa y presupuestal aplicable, emitirá los instrumentos económicos que incentiven y faciliten el cumplimiento de los objetivos de la política de protección y bienestar animal y, mediante los cuales, se buscará:
+
+I. Promover un cambio en la conducta de las personas físicas y morales que realicen actividades de crianza, mercantiles y de servicios, de tal manera que sus intereses sean compatibles con los intereses colectivos de protección y bienestar animal; y
+
+II. Incentivar y facilitar a las asociaciones u organizaciones legalmente constituidas y registradas para que realicen acciones para la protección de los animales y programas de educación, investigación y difusión en la materia, mediante el otorgamiento de estímulos fiscales, financieros y administrativos.
+
+> <small>(ADICIONADO, G.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 79.
+
+Para efectos de esta Ley, se consideran:
+
+I. Estímulos fiscales: los que se emitan de conformidad con el Código Fiscal de la Ciudad de México y otorguen beneficios en el pago de contribuciones y aprovechamientos.
+
+II. Estímulos financieros: los que faciliten el acceso al crédito y al financiamiento en coordinación con instituciones financieras, nacionales y extranjeras, así como organismos gubernamentales creados para esos fines.
+
+III. Estímulos administrativos: los que faciliten, agilicen y reduzcan los trámites, requisitos y plazos para el establecimiento y operación de las actividades a que hace referencia este capítulo.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal, y para su mayor difusión publíquese también en el Diario Oficial de la Federación.
@@ -2809,3 +2847,27 @@ PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+G.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 4; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8; Y SE ADICIONA UN CAPÍTULO XIII “DE LOS INSTRUMENTOS ECONÓMICOS” CON LOS ARTÍCULOS 78 Y 79; TODO ELLO EN LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor a los 90 días posteriores a su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Dentro de los 90 días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
+
+CUARTO.- De considerarse viable, la emisión de estímulos fiscales, financieros y administrativos a los que se refiere el presente Decreto, estará sujeta a la suficiencia presupuestal correspondiente a cada ejercicio fiscal, de conformidad con la normatividad aplicable.
+
+G.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN EL PÁRRAFO PRIMERO DEL ARTÍCULO 3°; LAS FRACCIONES VI BIS Y XXXIX BIS DEL ARTÍCULO 4°; LA FRACCIÓN XV DEL ARTÍCULO 25; Y, EL PÁRRAFO TERCERO DEL ARTÍCULO 28; ASIMISMO, SE ADICIONAN LAS FRACCIONES XX BIS 2 Y XX BIS 3 AL ARTÍCULO 4°, TODOS DE LA LEY DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial (sic) México.
+
+TERCERO. Dentro de los 180 días naturales posteriores a la entrada en vigor del presente Decreto, el Congreso de la Ciudad de México deberá aprobar las modificaciones necesarias a la legislación aplicable para hacerlas congruentes con disposiciones contenidas en el presente Decreto.
+
+CUARTO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Gobierno de la Ciudad de México realizará la actualización y armonización reglamentaria correspondiente.
