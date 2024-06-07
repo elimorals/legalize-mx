@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-05-30"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -803,11 +803,11 @@ XVIII. Solicitar a la autoridad jurisdiccional competente, para garantizar las o
 
 XIX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIX], P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIX], P.O. 18 DE ABRIL DE 2024)</small>
 
 XX. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección de la víctima.
 
@@ -843,7 +843,7 @@ XI. La colocación de localizadores electrónicos, previo consentimiento de la p
 
 XII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XIII. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima, y
 
@@ -1023,21 +1023,21 @@ VI.- Diseñar programas de orientación y asesorías a víctimas que les permita
 
 VII.- Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos y modalidades de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VIII.- Garantizar la investigación y la elaboración de diagnósticos estadísticos con enfoque diferenciado, sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 IX.- Publicar semestralmente la información general y estadística desagregada y con enfoque diferenciado, sobre los casos de violencia contra las mujeres para suministrarla al Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
 
 X.- Promover la inclusión en el Plan Estatal de Desarrollo, de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XI.- Fortalecer la cultura de denuncia de la violencia contra las mujeres en formatos accesibles, en el ámbito de competencia de las dependencias y entidades de la administración pública, para garantizar su seguridad y su integridad;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XII.- Diseñar un modelo integral, diferencial y especializado de atención a los derechos fundamentales de las mujeres que deberán instrumentar dependencias, entidades y las instituciones públicas y privadas, el Centro de Justicia para Mujeres del Estado de Hidalgo y los refugios encargados de la atención de las mujeres víctimas de violencia;
 
@@ -1147,15 +1147,15 @@ XVI.- Requerir la asignación de los recursos presupuestales necesarios para hac
 
 XVII.- Impulsar la creación, operación y fortalecimiento de refugios para las víctimas que reúnan las condiciones de seguridad para la protección integral de las mujeres víctimas, conforme al modelo de atención diseñado por el Sistema Estatal;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XVIII.- Promover y coordinar el fortalecimiento del Centro de Justicia para Mujeres del Estado de Hidalgo, mediante la creación de sedes regionales de éste en el Estado;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XIX.- Educar a las mujeres en derechos humanos en su lengua materna o en su caso, en lengua de señas mexicana, así como en otros formatos accesibles, de lectura fácil, entre otros, y
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVIII], P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVIII], P.O. 18 DE ABRIL DE 2024)</small>
 
 XX.- Las demás que le confieran esta ley u otros ordenamientos aplicables.
 
@@ -1217,43 +1217,43 @@ XIII.- Ejecutar y dar seguimiento a las acciones del Programa, con la finalidad 
 
 XIV.- Difundir a través de diversos medios, los resultados del Sistema y del Programa a los que se refiere esta Ley;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XV.- Proponer a la Persona Titular del Poder Ejecutivo del Estado los proyectos de iniciativas de ley a fin de erradicar la discriminación y violencia de género, para ello, deberá coordinarse con el Instituto Hidalguense de las Mujeres, pudiendo invitar a la Comisión de Igualdad de Género del Congreso del Estado, al Poder Judicial del Estado, así como a la sociedad civil organizada, para evitar cualquier declaratoria de alerta de género, con motivo del agravio comparado;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XVI.- Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XVII.- Vigilar que el Consejo Estatal de Seguridad Pública considere al Centro de Justicia para Mujeres del Estado de Hidalgo como eje estratégico, programa y subprograma de prioridad;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XVIII.- Promover y coordinar el fortalecimiento del Centro de Justicia para Mujeres del Estado de Hidalgo, mediante la creación de sedes regionales en la Entidad, así como de las acciones encaminadas al seguimiento y evaluación de éste, conforme a la disponibilidad presupuestal;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XIX.- Impulsar el equipamiento del Centro de Justicia para Mujeres del Estado de Hidalgo y, en su caso, de las sedes regionales en la Entidad;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XX.- Promover la certificación del Centro de Justicia para Mujeres del Estado de Hidalgo;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XXI.- Diseñar y poner en marcha una página de Internet específica en la cual se encuentren los datos generales de las mujeres, adolescentes y niñas que sean reportadas como desaparecidas. La información deberá ser pública y permitir que la población en general pueda aportar información sobre el paradero de las mujeres, adolescentes y niñas desaparecidas. Esta página deberá actualizarse de forma permanente, y
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVI], P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVI], P.O. 18 DE ABRIL DE 2024)</small>
 
 XXII.- Las demás previstas para el cumplimiento de la presente Ley.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE ABRIL DE 2024)</small>
 
 #### SECCIÓN TERCERA. DE LA SECRETARÍA DE BIENESTAR E INCLUSIÓN SOCIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 42.
 
@@ -1301,13 +1301,13 @@ XV.- Las demás previstas para el cumplimiento de la presente Ley.
 
 Corresponde a la Secretaría de Seguridad Pública:
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 I.- Establecer un subprograma anual de capacitación y entrenamiento para los diversos cuerpos policiacos, a efecto de que estén en aptitud y actitud de atender los casos de violencia contra las mujeres desde las perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
 
 II.- Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente Ley;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 III.- Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social del generador de violencia;
 
@@ -1317,35 +1317,35 @@ IV.- Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
 V.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VI.- Formular acciones y programas orientados a fomentar la cultura de respeto a los derechos humanos de las mujeres;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VII.- Diseñar la política integral para la prevención de delitos contra las mujeres, cometidos en los ámbitos público y privado, con perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VIII.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 IX.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 X.- Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XI.- Aplicar ajustes de procedimiento, en su caso, para recabar las denuncias y testimonios de las mujeres con discapacidad víctimas de violencia;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XII.- Proponer al Consejo Estatal de Seguridad Pública considerar al Centro de Justicia para Mujeres del Estado de Hidalgo como eje estratégico, programa y subprograma de prioridad, y
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 18 DE ABRIL DE 2024)</small>
 
 XIII.- Las demás previstas para el cumplimiento de la presente ley.
 
@@ -1489,6 +1489,10 @@ Corresponde a la Procuraduría General de Justicia del Estado:
 
 I.- Promover la formación y especialización de todo el personal encargado de la procuración de justicia en materia de derechos humanos de las mujeres;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+I BIS.- Especializar a las y los agentes del Ministerio Público, peritos, personal que atiende a víctimas a través de programas y cursos permanentes, instaurados por el Instituto de Formación Profesional, en: derechos humanos, perspectiva de género y enfoque interseccionalidad y diferenciado, para la debida diligencia en la conducción de averiguaciones previas, la investigación de hechos que la ley señale como delitos y procesos judiciales relacionados con discriminación, violencia y feminicidios; incorporación de la perspectiva de género en los servicios periciales y eliminación de estereotipos sobre el rol social de las mujeres.
+
 II.- Expedir las ordenes de protección, medidas o providencias previstas en esta Ley y demás disposiciones legales aplicables para la seguridad y auxilio de la víctima;
 
 III.- Dictar las medidas necesarias para que la víctima reciba atención médica y psicológica de urgencia, la cual podrá hacerse extensiva a sus hijas;
@@ -1503,11 +1507,11 @@ V.- Canalizar a las víctimas a las Instituciones públicas y privadas encargada
 
 V BIS.- Participar activamente, en la ejecución del Programa, en el diseño de nuevos modelos de prevención, atención y erradicación de la violencia contra las mujeres, y de la Ruta de atención a mujeres en situación de violencia, en colaboración con las demás autoridades encargadas de la aplicación de la presente Ley;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VI.- Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VII.- Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad de quienes denuncian;
 
@@ -1515,17 +1519,17 @@ VII.- Promover la cultura de respeto a los derechos humanos de las mujeres y gar
 
 VII Bis.- Promover y proteger a través de la Fiscalía Especializada en Delitos Electorales, el ejercicio de los derechos humanos político-electorales de las mujeres, así como recibir las denuncias e investigar a través de la Fiscalía Especializada en Delitos Electorales, los hechos probablemente constitutivos de delito cometido en contra de los derechos político electorales de las mujeres;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VII Ter.- Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VII Quater.- Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección, de conformidad con los ordenamientos jurídicos aplicables;
 
 VIII.- Procurar la seguridad de la víctima; y
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 IX.- Crear un registro público sistemático de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, judicialización, estado procesal, sentencias y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia. El registro deberá contener también los efectos que los hechos violentos produjeron en las víctimas, el fallecimiento o, en su caso, la discapacidad permanente, en los términos establecidos en la Ley de Víctimas del Estado de Hidalgo;
 
@@ -1675,6 +1679,10 @@ VI.- Promover programas informativos sobre la igualdad entre los géneros para e
 
 VII.- Apoyar la creación, operación y fortalecimiento de refugios seguros para las víctimas que reúnan las condiciones de seguridad para la protección integral de las mujeres víctimas, conforme al modelo de atención diseñado por el Sistema Estatal;
 
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VII Bis.- Fungir como Unidades Locales de Atención a mujeres, niñas, niños y adolescentes en situación de violencia, aplicando los protocolos municipales que en la materia expida el Ayuntamiento y dirigiendo el proceso de atención integral derivada de hechos de violencia basada en el género, a través de los mecanismos de detección de casos, debiendo dar acompañamiento a las víctimas en cualquier procedimiento para garantizar su acceso a la justicia;
+
 VIII.- Participar y coadyuvar en la prevención, atención y erradicación de la violencia contra las mujeres;
 
 > <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
@@ -1735,11 +1743,11 @@ Las víctimas de cualquier tipo y modalidades de violencia tendrán los derechos
 
 I.- Ser tratada con respeto a su integridad y al ejercicio pleno de sus derechos;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 I Bis.- Contar con protección inmediata y efectiva por parte de las autoridades;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 II.- Recibir información veraz y suficiente en formatos accesibles que les permita decidir sobre las opciones de atención;
 
@@ -1773,11 +1781,11 @@ X.- La víctima no será obligada a participar en mecanismos de conciliación co
 
 XI.- Los demás señalados en esta Ley y otras disposiciones legales.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 Las mujeres indígenas serán asistidas gratuitamente en todo tiempo por intérpretes y asesoras o asesores jurídicos adscritos a la Comisión Ejecutiva de Atención a Víctimas del Estado de Hidalgo que tengan conocimiento de su lengua y cultura.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 Las mujeres con discapacidad tendrán derecho a que los procedimientos sean accesibles y a que se realicen los ajustes de procedimiento necesarios para ello. Las mujeres sordas tendrán derecho a contar con interpretación en lengua de señas mexicana, la cual será proporcionada gratuitamente.
 
@@ -1835,7 +1843,7 @@ III.- Las dependencias de gobierno que atiendan a mujeres víctimas de violencia
 
 ### CAPÍTULO V. DE LOS REFUGIOS PARA LAS VICTIMAS DE VIOLENCIA
 
-> <small>(REFORMADA PRIMER PÁRRAFO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 52.
 
@@ -1849,13 +1857,15 @@ II.- Velar por la seguridad de las víctimas, sus hijas e hijos, o bien, de las 
 
 III.- Proporcionar a las mujeres la atención necesaria para su recuperación física y psicológica, que les permita reintegrarse a su entorno social;
 
-IV.- Proporcionar a las víctimas asesoría jurídica gratuita;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+IV.- Dar información en formatos accesibles a las víctimas, sobre las instituciones encargadas de prestar asesoría jurídica gratuita;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 V.- Brindar a las víctimas la información necesaria en formatos accesibles que les permita decidir sobre las opciones de atención;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VI.- Contar con el personal debidamente profesionalizado, capacitado y especializado en perspectiva de género, derechos humanos, trato diferenciado, intercultural e interseccional;
 
@@ -1863,7 +1873,7 @@ VI.- Contar con el personal debidamente profesionalizado, capacitado y especiali
 
 VII.- Contar, preferentemente, con una bolsa de trabajo con la finalidad de que puedan acceder a la actividad laboral a la que se refiere esta ley; y
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 VIII.- Permitir la permanencia de las víctimas, sus hijas e hijos, o bien, de las niñas, niños, adolescentes, personas con discapacidad, adultos mayores, y personas con incapacidad jurídica legal y/o natural que habiten con ellas en el mismo domicilio, debiendo también proporcionarles a ellas y ellos la atención necesaria para su recuperación física y psicológica.
 
@@ -1919,11 +1929,11 @@ Para efectos del Artículo anterior, el personal médico, psicológico y jurídi
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO VI. DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE HIDALGO
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Bis.
 
@@ -1959,7 +1969,7 @@ XIII. Las demás que le confieran los ordenamientos legales aplicables, sin perj
 
 Para su debido funcionamiento, el Centro de Justicia para Mujeres del Estado de Hidalgo debe contar con la certificación que determina la Secretaría de Gobernación.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Ter.
 
@@ -1995,13 +2005,19 @@ En el Centro de Justicia para Mujeres del Estado de Hidalgo se facilitará el ac
 
 Los servicios se proporcionarán con independencia de que exista o no una denuncia por los hechos de violencia.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
+
+###### ARTÍCULO 57 Quáter.
+
+Los servicios que se brinden en el Centro de Justicia para Mujeres del Estado de Hidalgo deberán ejecutarse bajo los principios previstos en el artículo 3 de esta ley.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Quater.
 
 Los servicios que se brinden en el Centro de Justicia para Mujeres del Estado de Hidalgo deberán ejecutarse bajo los principios previstos en el artículo 3 de esta ley.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Quinquies.
 
@@ -2041,7 +2057,7 @@ Se celebrarán convenios de colaboración con la Procuraduría General de Justic
 
 Para el debido cumplimiento de este artículo, las dependencias y entidades de la administración pública estatal comisionarán personal especializado al Centro de Justicia para Mujeres del Estado de Hidalgo conforme a las normas específicas y a esta Ley.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Sexies.
 
@@ -2057,7 +2073,7 @@ IV. No estar condenada por delito relacionado con violencia contra las mujeres e
 
 V. No estar inhabilitada para el ejercicio de un cargo público a nivel estatal o federal.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Septies.
 
@@ -2079,7 +2095,7 @@ VII. Rendir a la Persona Titular del Poder Ejecutivo del Estado y al Congreso de
 
 VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para Mujeres del Estado de Hidalgo, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría de Gobernación.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Octies.
 
@@ -2089,13 +2105,13 @@ El personal adscrito y designado a cada sede regional del Centro de Justicia par
 
 El personal adscrito y designado a cada sede regional del Centro de Justicia para Mujeres del Estado de Hidalgo deberá contar con el perfil requerido para el puesto y deberá ser evaluado y capacitado periódicamente.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Nonies.
 
 Para el funcionamiento del Centro de Justicia para Mujeres del Estado de Hidalgo, este contará con los recursos derivados de los convenios que en su caso suscriba con el Gobierno Federal, en términos de las disposiciones aplicables, así como de los recursos que se asigne en el Presupuesto de Egresos del Estado Libre y Soberano de Hidalgo, de los ingresos derivados de convenios que celebren con otras dependencias o instituciones públicas o privadas, y los que se obtengan por cualquier otro medio legal, provenientes de personas físicas o morales que tengan interés en apoyar en la realización de sus actividades.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Decies.
 
@@ -2355,7 +2371,7 @@ P.O. 19 DE ENERO DE 2024.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo
 
-P.O.18 DE ABRIL DE 2024.
+P.O. 18 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 852 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
 
@@ -2396,3 +2412,17 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 944 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 960 POR EL QUE SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 48 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, Y SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 145 OCTAVUS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Los Ayuntamientos del Estado de Hidalgo, durante los primeros 90 días posteriores a la vigencia del presente Decreto, deberán efectuar los actos tendentes a hacer efectiva la facultad que se dispone para las Instancias Municipales para el Desarrollo de las Mujeres.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 965 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
