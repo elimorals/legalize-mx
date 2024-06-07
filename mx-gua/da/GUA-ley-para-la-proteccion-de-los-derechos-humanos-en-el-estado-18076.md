@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-de-los-derechos-humanos-en-el-estado-180
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-26"
-last_updated: "2023-10-24"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley Publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 26 de septiembre del 2000.
 
@@ -117,7 +117,9 @@ IV.- Diseñar y ejecutar programas, propuestas y acciones de capacitación, educ
 
 V.- Conocer e investigar, a petición de parte o de oficio, presuntas violaciones de derechos humanos por actos u omisiones de los servidores públicos;
 
-VI.- Formular recomendaciones públicas, no vinculatorias, previo el trámite que establece la presente Ley por violaciones a los derechos humanos;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VI.- Formular resoluciones de recomendaciones públicas, no vinculatorias, previo el trámite que establece la presente Ley por violaciones a los derechos humanos;
 
 VII.- Denunciar ante los órganos competentes los delitos o faltas que se hubiesen cometido por las autoridades o servidores públicos, así como por los particulares;
 
@@ -135,19 +137,21 @@ XI.- Denunciar cuando tenga conocimiento, ante la Comisión Nacional de Derechos
 
 XII.- Supervisar que las condiciones de las personas privadas de su libertad que se encuentren en cualquier centro de detención, reclusión o internamiento en el Estado, estén apegadas a Derecho y se garantice la plena vigencia de sus derechos humanos, especialmente de los adolescentes sujetos a una medida de internamiento provisional o definitivo consecuencia de alguna conducta tipificada como delito en las leyes del Estado;
 
-XIII.- Solicitar el reconocimiento médico de cualquier detenido cuando se presuman malos tratos o torturas, comunicando oportunamente a las autoridades competentes los resultados de las revisiones practicadas, y en caso de comprobarse violaciones a los derechos humanos, emitir la recomendación correspondiente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XIII.- Solicitar el reconocimiento médico de cualquier detenido cuando se presuman malos tratos o torturas, comunicando oportunamente a las autoridades competentes los resultados de las revisiones practicadas, y en caso de comprobarse violaciones a los derechos humanos, emitir la resolución de recomendación correspondiente;
 
 XIV.- Establecer y mantener comunicación con las diferentes organizaciones, nacionales e internacionales, para la defensa y promoción de los derechos humanos;
 
-XV.- Informar periódicamente a quienes sean titulares de las dependencias y entidades de la administración pública estatal o municipal, sobre las quejas o denuncias recibidas, investigaciones efectuadas y resoluciones emitidas; en caso de recomendación, las solicitudes de sanción, principalmente de aquéllas que no hayan sido atendidas satisfactoriamente;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XV.- Informar periódicamente a quienes sean titulares de las dependencias y entidades de la administración pública estatal o municipal, sobre las quejas o denuncias recibidas, investigaciones efectuadas y resoluciones emitidas; en caso de resolución de recomendación, las solicitudes de sanción, principalmente de aquéllas que no hayan sido atendidas satisfactoriamente;
 
 XVI.- Acudir a cualquier dependencia o entidad de la administración pública estatal o municipal, para investigar todo lo relativo a la queja o denuncia de que se trate, solicitar información a los servidores públicos involucrados o a sus superiores; y en general, cualquier otra diligencia que coadyuve al esclarecimiento de la verdad y al cumplimiento de su función; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
-
-XVII.- Solicitar al Poder Legislativo que haga comparecer a las autoridades o servidores públicos ante la comisión legislativa que determine la Ley Orgánica del Poder Legislativo para que expliquen los motivos de la negativa a aceptar una recomendación o el cumplimiento de la misma;
+XVII.- Solicitar al Poder Legislativo que haga comparecer a las autoridades o servidores públicos ante la comisión legislativa que determine la Ley Orgánica del Poder Legislativo para que expliquen los motivos de la negativa a aceptar una resolución de recomendación o el cumplimiento de la misma;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -267,7 +271,9 @@ VII.- Celebrar en los términos de la legislación aplicable, los convenios de c
 
 VIII.- Elaborar el plan anual de trabajo, con la asesoría del Consejo;
 
-IX.- Emitir, en su caso, las recomendaciones y acuerdos que resulten de las investigaciones efectuadas por los Subprocuradores;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IX.- Emitir, en su caso, las resoluciones de recomendación y acuerdos que resulten de las investigaciones efectuadas por los Subprocuradores;
 
 X.- Convocar y presidir las sesiones ordinarias y extraordinarias del Consejo;
 
@@ -401,7 +407,9 @@ V.- Supervisar el respeto a los derechos humanos en el sistema penitenciario y d
 
 VI.- Acordar el sobreseimiento y archivo de los casos que no correspondan a la competencia de la Procuraduría;
 
-VII.- Formular los proyectos de recomendación o acuerdos de no recomendación que se someterán al Procurador, para su consideración;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VII.- Formular los proyectos de resolución de recomendación o acuerdos de no recomendación que se someterán al Procurador, para su consideración;
 
 VIII.- Realizar visitas de inspección en dependencias públicas, centros de reclusión y otros similares; y
 
@@ -453,7 +461,9 @@ VIII.- Organizar el archivo de los expedientes de quejas o denuncias concluidas;
 
 IX.- Reunir la documentación necesaria para la elaboración del informe anual de actividades y especiales que deba rendir el Procurador;
 
-X.- Dar seguimiento a las recomendaciones emitidas; y
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+X.- Dar seguimiento a las resoluciones de recomendaciones emitidas; y
 
 XI.- Las demás que le sean conferidas en otras disposiciones legales, reglamentarias y las que le delegue el Procurador.
 
@@ -645,9 +655,11 @@ Las quejas o denuncias se presentarán oralmente, por escrito, o por cualquier o
 
 Cuando las personas quejosas o denunciantes se encuentren privadas de su libertad, quienes sean encargados de los centros de detención, internamiento o de readaptación social o la autoridad o servidor público de mayor jerarquía del lugar donde se encuentren las personas quejosas o denunciantes; deberán remitir a la Procuraduría las quejas o denuncias presentadas ante ellos.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 37.
 
-La formulación de quejas o denuncias, así como los acuerdos y recomendaciones que emita la Procuraduría no afectarán el ejercicio de otros derechos y medios de impugnación o de defensa que puedan corresponder conforme a los ordenamientos aplicables; no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad. Esta circunstancia se informará a las personas interesadas, en el acuerdo de admisión de la instancia.
+La formulación de quejas o denuncias, así como los acuerdos y resoluciones de recomendaciones que emita la Procuraduría no afectarán el ejercicio de otros derechos y medios de impugnación o de defensa que puedan corresponder conforme a los ordenamientos aplicables; no suspenderán ni interrumpirán sus plazos preclusivos, de prescripción o de caducidad. Esta circunstancia se informará a las personas interesadas, en el acuerdo de admisión de la instancia.
 
 ###### Artículo 38.
 
@@ -713,9 +725,11 @@ La autoridad a quien se solicitó la medida deberá informar de su aceptación o
 
 ### Capítulo Segundo. De las Notificaciones
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 46.
 
-La Procuraduría notificará oportuna y fehacientemente a las personas quejosas o agraviadas, sobre los resultados de la investigación, las resoluciones de archivo, de no recomendación, las recomendaciones que haya emitido y sobre la aceptación y cumplimiento de las mismas. Asimismo, deberá notificar a las autoridades responsables, los acuerdos y resoluciones que emita.
+La Procuraduría notificará oportuna y fehacientemente a las personas quejosas o agraviadas, sobre los resultados de la investigación, las resoluciones de archivo, de no recomendación, las resoluciones de recomendaciones que haya emitido y sobre la aceptación y cumplimiento de las mismas. Asimismo, deberá notificar a las autoridades responsables, los acuerdos y resoluciones que emita.
 
 ###### Artículo 47.
 
@@ -759,83 +773,95 @@ Las declaraciones o hechos a que se refiere el párrafo anterior, se harán cons
 
 ### Capítulo Cuarto. De los Acuerdos y Resoluciones
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 54.
 
-Con motivo de las investigaciones que se realicen y en la verificación del cumplimiento de las recomendaciones, se podrán dictar acuerdos de trámite a efecto de hacer comparecer a los servidores públicos, exceptuándose a los señalados en el artículo 127 de la Constitución Política para el Estado, así como para recabar información o documentación o practicar diligencias.
+Con motivo de las investigaciones que se realicen y en la verificación del cumplimiento de las resoluciones de recomendaciones, se podrán dictar acuerdos de trámite a efecto de hacer comparecer a los servidores públicos, exceptuándose a los señalados en el artículo 127 de la Constitución Política para el Estado, así como para recabar información o documentación o practicar diligencias.
 
 ###### Artículo 55.
 
 Concluida la investigación, el Procurador formulará la resolución de recomendación o de no recomendación, en la cual analizará los hechos, argumentos, elementos de convicción y diligencias practicadas, exponiendo los razonamientos que haya tenido en cuenta para valorar las pruebas, a fin de determinar si las autoridades o servidores públicos han violado o no los derechos humanos de las personas quejosas o agraviadas al haber incurrido en actos u omisiones en contra de la Ley.
 
-En la recomendación se señalarán las medidas que procedan para la efectiva restitución de las personas quejosas o agraviadas en sus derechos fundamentales y si procede, para la reparación de los daños y perjuicios que se hubieren ocasionado.
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+En la resolución de recomendación se señalarán las medidas que procedan para la efectiva restitución de las personas quejosas o agraviadas en sus derechos fundamentales y si procede, para la reparación de los daños y perjuicios que se hubieren ocasionado.
 
 ###### Artículo 56.
 
 Cuando no se compruebe que las autoridades o servidores públicos cometieron las violaciones de derechos humanos que se les imputen, se dictará acuerdo de no recomendación, mismo que se notificará a las partes.
 
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+
 ###### Artículo 57.
 
-La Procuraduría se dirigirá al superior inmediato o jerárquico del servidor público infractor, con el fin de darle a conocer la resolución de recomendación que haya adoptado, en la cual podrá proponer cambios en los procedimientos administrativos que contribuyan a evitar en lo sucesivo actos como los reclamados en la queja o denuncia y en todo caso solicitar la aplicación de alguna de las medidas disciplinarias que conforme a las leyes de la materia correspondan.
+La Procuraduría se dirigirá y notificará al superior inmediato o jerárquico del servidor público responsable, con el fin de darle a conocer la resolución de recomendación que haya adoptado, en la cual podrá proponer cambios en los procedimientos administrativos que contribuyan a evitar en lo sucesivo actos como los reclamados en la queja o denuncia y en todo caso solicitar la aplicación de alguna de las medidas disciplinarias que conforme a las leyes de la materia correspondan.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 58.
 
-La recomendación será pública y no tendrá carácter vinculatorio para la autoridad o servidor público a los cuales se dirija; asimismo, no podrá anular por sí misma, modificar o dejar sin efecto las resoluciones o actos contra los cuales se haya presentado la queja o denuncia.
+La resolución de recomendación será pública y no tendrá carácter vinculatorio para la autoridad o servidor público a los cuales se dirija; asimismo, no podrá anular por sí misma, modificar o dejar sin efecto las resoluciones o actos contra los cuales se haya presentado la queja o denuncia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Todo servidor público está obligado a dar contestación, por escrito, a las resoluciones de recomendación que le formule la Procuraduría.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
-
-Todo servidor público está obligado a dar contestación, por escrito, a las recomendaciones que le formule la Procuraduría.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 59.
 
-Una vez recibida la recomendación, la autoridad o servidor público de que se trate, deberá informar dentro de los cinco días hábiles siguientes a su notificación, si acepta dicha recomendación.
+Una vez recibida la resolución de recomendación, la autoridad o servidor público de que se trate, deberá informar dentro de los cinco días hábiles siguientes a su notificación, si acepta dicha resolución de recomendación.
 
-En caso de aceptar la recomendación, la autoridad o servidor público contará con un plazo de quince días naturales, para entregar las pruebas del debido y total cumplimiento de la recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la recomendación así lo requiera o cuando fuere motivadamente solicitado.
+En caso de aceptar la resolución de recomendación, la autoridad o servidor público contará con un plazo de quince días naturales, para entregar las pruebas del debido y total cumplimiento de la resolución de recomendación. Dicho plazo podrá ser ampliado cuando la naturaleza de la resolución de recomendación así lo requiera o cuando fuere motivadamente solicitado.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 60.
 
-La autoridad o servidor público que haya aceptado la recomendación emitida, por ese solo hecho y como consecuencia legal, tendrá la responsabilidad de su total cumplimiento.
+La autoridad o servidor público que haya aceptado la resolución de recomendación emitida, por ese solo hecho y como consecuencia legal, tendrá la responsabilidad de su total cumplimiento.
+
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 61.
 
-Cuando de las recomendaciones emitidas, resulte evidente la frecuencia de ciertas violaciones de derechos humanos, la Procuraduría estará facultada para investigar de oficio el área de actuación con que se relacionen dichas recomendaciones, con objeto de formular pronunciamientos generales a efecto de que se instrumenten las medidas idóneas para prevenir su recurrencia.
+Cuando de las resoluciones de recomendaciones emitidas, resulte evidente la frecuencia de ciertas violaciones de derechos humanos, la Procuraduría estará facultada para investigar de oficio el área de actuación con que se relacionen dichas resoluciones de recomendaciones, con objeto de formular pronunciamientos generales a efecto de que se instrumenten las medidas idóneas para prevenir su recurrencia.
 
 ###### Artículo 62.
 
 Las personas quejosas o agraviadas podrán solicitar la revisión del acuerdo de no admisión o de sobreseimiento, según corresponda, que emitan los Subprocuradores, en un término no mayor de cinco días hábiles contados a partir de que surta efectos la notificación, para que el Procurador emita en un término similar, la resolución correspondiente en la cual se confirme, revoque o modifique el acuerdo impugnado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 63.
 
-Para el caso de que la autoridad responsable, al dar su contestación por escrito en el plazo que esta Ley concede para tal efecto, no acepte o no cumpla con las recomendaciones, ésta deberá fundar, motivar y hacer pública su negativa.
+Para el caso de que la autoridad a la que se notificó la resolución de recomendación, en términos de lo señalado en el artículo 57 de esta Ley, al dar su contestación por escrito en el plazo que esta Ley concede para tal efecto, no acepte o no cumpla con la resolución de recomendación, dentro de los plazos otorgados, esta deberá fundar, motivar y hacer pública su negativa.
 
-Asimismo, cuando el Procurador lo estime pertinente y previa petición de por medio, el Congreso del Estado podrá citar a comparecer, ante la comisión legislativa que corresponda de acuerdo con su Ley Orgánica, a todo servidor público, estatal o municipal, para que informe las razones de su actuación cuando:
+Asimismo, cuando el Procurador lo estime pertinente y previa petición de por medio, el Congreso del Estado podrá citar a comparecer a la autoridad a la que se dirigió la resolución de recomendación, a la autoridad responsable, o a ambas, ante la comisión legislativa que corresponda de acuerdo con su Ley Orgánica, para que informe las razones de su actuación cuando:
 
-I.- No acepte total o parcialmente una recomendación, o si es omiso después de haber transcurrido el término que señala este ordenamiento para informar si acepta o no dicha recomendación; y
+I.- No acepte total o parcialmente una resolución de recomendación, o si es omisa después de haber transcurrido el término que señala este ordenamiento para informar si acepta o no dicha resolución de recomendación; y
 
-II.- No cumpla total o parcialmente con la recomendación previamente aceptada en el plazo que señala la presente Ley.
+II. No cumpla total o parcialmente con la resolución de recomendación previamente aceptada en el plazo que señala la presente Ley.
 
-En ambos supuestos, la Procuraduría, por conducto de su titular, estará presente en la reunión en la que se desahogue la comparecencia de la autoridad señalada como responsable. El acuerdo del Congreso del Estado por el que se apruebe la comparecencia de la autoridad responsable, señalará los términos y condiciones en que se verificará ésta.
+En ambos supuestos, la Procuraduría, por conducto de su titular, estará presente en la reunión en la que se desahogue la comparecencia de la o las autoridades citadas a comparecer. El acuerdo del Congreso del Estado por el que se apruebe la solicitud de comparecencia señalará los términos y condiciones en que se verificará esta.
+
+A la solicitud se deberá adjuntar la resolución de recomendación, las constancias de notificación y demás actuaciones posteriores; así como la respuesta donde la autoridad se niega a aceptarla o, en su caso, los elementos de prueba que se estimen pertinentes encaminados a acreditar la afirmación de que no fue aceptada la resolución de recomendación o la negativa para su cumplimiento.
+
+El Congreso del Estado podrá solicitar a la Procuraduría la información adicional que considere necesaria.
+
+> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
+
+###### Artículo 63-A.
+
+Notificada la resolución de recomendación en términos del artículo 57 de esta Ley, y en caso de que se actualice lo previsto en las fracciones I y II del artículo 63 del presente ordenamiento, la Procuraduría emitirá acuerdo de no aceptación o de no cumplimiento, del que se correrá traslado a la autoridad a quien se dirigió la resolución de recomendación y se le adjuntará copia íntegra del expediente del que emanó la resolución.
+
+En el acuerdo de no aceptación o de no cumplimiento de la recomendación, la Procuraduría expondrá los motivos y fundamentos por los cuales se determinó la no aceptación o no cumplimiento. Hecho lo anterior, si lo estime pertinente, la Procuraduría procederá a formular la petición al Congreso del Estado a efecto de que este llame, en su caso, a comparecer a la autoridad a la que se dirigió la resolución de recomendación, a la autoridad responsable, o a ambas, en términos de la Ley Orgánica del Poder Legislativo.
 
 ### Capítulo Quinto. Del Recurso
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 64.
 
-Las personas quejosas o agraviadas podrán acudir ante la Comisión Nacional de Derechos Humanos, para inconformarse en relación con las recomendaciones, acuerdos u omisiones de la Procuraduría, en los términos de la Ley de la Comisión Nacional de Derechos Humanos.
+Las personas quejosas o agraviadas podrán acudir ante la Comisión Nacional de Derechos Humanos, para inconformarse en relación con las resoluciones de recomendaciones, acuerdos u omisiones de la Procuraduría, en los términos de la Ley de la Comisión Nacional de Derechos Humanos.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2010)</small>
 
@@ -855,11 +881,17 @@ El informe anual sobre las actividades de la Procuraduría que envíe el Procura
 
 I.- El estado que guardan los derechos humanos en la entidad;
 
-II.- Las quejas y recomendaciones;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-III.- El seguimiento sobre las recomendaciones, incluyendo la relación de las dependencias que hayan sido objeto de alguna recomendación;
+II.- Las quejas y resoluciones de recomendaciones;
 
-IV.- El resultado de las recomendaciones emitidas;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+III.- El seguimiento sobre las resoluciones de recomendaciones, incluyendo la relación de las dependencias que hayan sido objeto de alguna resolución de recomendación;
+
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+IV.- El resultado de las resoluciones de recomendaciones emitidas;
 
 V.- Las acciones de capacitación, educación, promoción y prevención en materia de derechos humanos;
 
@@ -885,13 +917,11 @@ El informe que el Procurador envíe al Congreso del Estado, se hará de conocimi
 
 El informe una vez que se haya entregado al Congreso del Estado será público, y será difundido para conocimiento de la sociedad, conforme a las disposiciones constitucionales y legales aplicables. La difusión estará a cargo de la propia Procuraduría.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2010)</small>
+> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 ###### Artículo 64-D.
 
-El Procurador comparecerá ante el Congreso del Estado, cuando así se le requiera, a efecto de ampliar la información contenida en el informe o bien, para dar cuenta sobre el estado de cumplimiento de las recomendaciones y de las demás acciones que realice la Procuraduría.
+El Procurador comparecerá ante el Congreso del Estado, cuando así se le requiera, a efecto de ampliar la información contenida en el informe o bien, para dar cuenta sobre el estado de cumplimiento de las resoluciones de recomendaciones y de las demás acciones que realice la Procuraduría.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1102,3 +1132,9 @@ P.O. 24 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 222. SE REFORMA LA FRACCIÓN II Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 29 DE LA LEY DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DEL ESTADO Y MUNICIPIOS DE GUANAJUATO; SE REFORMAN LAS FRACCIONES V DE LOS ARTÍCULOS 8, 11, 13, 15, 17 Y LA FRACCIÓN III DEL ARTÍCULO 66 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE GUANAJUATO; SE DEROGAN LAS FRACCIONES VIII DEL ARTÍCULO 11; VII DEL ARTÍCULO 21 Y LA V DEL ARTÍCULO 23 DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO; SE REFORMAN EL ARTÍCULO 5 Y LA FRACCIÓN II DEL ARTÍCULO 26 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE GUANAJUATO; Y SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 89 Y LA FRACCIÓN III DEL ARTÍCULO 169 Y, SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 165, DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 306 MEDIANTE EL CUAL SE REFORMAN EL ARTÍCULO 8, FRACCIONES VI, XIII, XV Y XVII; 16, FRACCIÓN IX; 22, FRACCIÓN VII; 25, FRACCIÓN X; 37; 46; 54; 55, EN SU PÁRRAFO SEGUNDO; 57; 58; 59; 60; 61; 63; 64; 64-A, FRACCIONES II, III Y IV; Y 64-D; Y SE ADICIONA UN ARTÍCULO 63-A, TODOS DE LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS HUMANOS EN EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
