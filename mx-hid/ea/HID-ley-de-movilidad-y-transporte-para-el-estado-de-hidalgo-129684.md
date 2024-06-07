@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2024-05-30"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -136,6 +136,14 @@ XVIII. ORGANISMO DEL TRANSPORTE CONVENCIONAL: Al Organismo Descentralizado Siste
 XIX. ORGANISMO DEL TRANSPORTE MASIVO: Al Organismo Descentralizado Sistema Integrado de Transporte Masivo de Hidalgo;
 
 XX. PERMISO: Es la facultad que otorga el Estado a una persona física o moral, para que pueda prestar los servicios de transporte señalados en esta Ley, siempre que estos no sean materia de concesión;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XX Bis. Personas Adultas Mayores. Aquellas mujeres y hombres que cuenten con sesenta años o más de edad y que se encuentren domiciliadas o de tránsito en el Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+XX Ter. Persona con discapacidad. Toda aquella que, por razones congénitas o adquiridas, presenta una o más deficiencias físicas, intelectuales, sensoriales o mentales, sea de carácter permanente o temporal y que, debido a las barreras creadas por el entorno social, ve limitada su participación, inclusión e integración a una o más de las actividades de la vida cotidiana;
 
 XXI. RED INTEGRADA DE TRANSPORTE: Conjunto formado por una o más rutas Troncales y Alimentadoras del Servicio Público de Transporte Masivo de Pasajeros, las cuales, previo estudio y dictamen técnico, se ubican en una poligonal determinada por el Organismo del Transporte Masivo, la cual es directamente operada por éste para que sus servicios cotidianos sean definidos, dirigidos, coordinados y controlados por el Centro General de Gestión de Operaciones, o que es concesionada a un tercero con tal finalidad;
 
@@ -275,9 +283,9 @@ XI. Promover la inversión en el ramo, mediante la participación de los sectore
 
 XII. Coordinar las comisiones de trabajo con los diferentes sectores, con el objeto de que propongan acciones, programas o proyectos en la materia de competencia de la Secretaría;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XIII. Implementar políticas y mecanismos de profesionalización de conductores de los servicios de transporte, a través de la capacitación, evaluación y certificación de sus competencias laborales, que incluyan las relacionadas con la materia de seguridad con perspectiva de género;
+XIII. Implementar políticas y mecanismos de profesionalización de conductores de los servicios de transporte, a través de la capacitación, evaluación y certificación de sus competencias laborales, que incluyan prioritariamente las relacionadas con la materia de seguridad con perspectiva de género, prestación del servicio a personas adultas mayores y a personas con discapacidad;
 
 XIV. Implementar el uso de nuevas tecnologías, herramientas informáticas y aplicaciones en la prestación de los servicios de transporte, que tengan como finalidad utilizar la información existente en los registros, que propicien la interacción en tiempo real entre concesionario, permisionarios o terceros que intervengan de manera directa o indirecta en la prestación de un servicio público y el usuario;
 
@@ -347,7 +355,9 @@ VI. Regular, vigilar y sancionar la prestación de los Servicios Públicos de Tr
 
 VII. Generar la estadística relacionada con el Sistema Estatal del Transporte e implementar el Registro de Concesionarios, Permisionarios y Conductores de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, de los Servicios Auxiliares y Conexos relacionados con ello y de las autorizaciones y convenios de cualquier tipo que sean relativos a la materia. Dicho registro deberá contar con información precisa para la identificación de concesionarios y conductores, a fin de que la ciudadanía pueda tener acceso a dichos datos, en los términos de esta Ley;
 
-VIII. Eficientar los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, los Servicios Auxiliares y Conexos relacionados con ello y los que se deriven u operan al amparo de las autorizaciones y convenios de cualquier tipo relativos a la materia, profesionalizando a los prestadores del ramo, a través de programas de capacitación integral;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VIII. Eficientar los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, los Servicios Auxiliares y Conexos relacionados con ello y los que se deriven u operan al amparo de las autorizaciones y convenios de cualquier tipo relativos a la materia, profesionalizando a los prestadores del ramo, a través de programas de capacitación integral, que incluyan prioritariamente las relacionadas con la materia de seguridad con perspectiva de género, prestación del servicio a personas adultas mayores y a personas con discapacidad;
 
 IX. Vincular a los prestadores de los Servicios Públicos de Transporte Colectivo e Individual, Privado y Complementario, con el sector privado y con la banca de desarrollo, en apoyo a la modernización del parque vehicular y al establecimiento de los Servicios Auxiliares y Conexos;
 
@@ -469,7 +479,9 @@ VIII. Fomentar la investigación en materia de sistemas de vialidad y transporte
 
 IX. Generar e interpretar la estadística relacionada con el Sistema Estatal del Transporte e implementar el Registro de Concesionarios, Permisionarios y Conductores del Servicio Público de Transporte Masivo de Pasajeros, de empleados del Servicio de Pago Electrónico, de personal adscrito al Centro General de Gestión de Operaciones, de tarifas, de los Servicios Auxiliares y Conexos relacionados con ello y de las autorizaciones y convenios de cualquier tipo que sean relativos a la materia;
 
-X. Eficientar el Servicio Público de Transporte Masivo de Pasajeros, del Servicio Público de Pago Electrónico, la operación del Centro General de Gestión de Operaciones, de los Servicios Auxiliares y Conexos relacionados con ello, profesionalizando a los prestadores del ramo, a través del diseño y aplicación de programas de capacitación integral;
+> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+X. Eficientar el Servicio Público de Transporte Masivo de Pasajeros, del Servicio Público de Pago Electrónico, la operación del Centro General de Gestión de Operaciones, de los Servicios Auxiliares y Conexos relacionados con ello, profesionalizando a los prestadores del ramo, a través del diseño y aplicación de programas de capacitación integral, que incluyan prioritariamente las relacionadas con la materia de seguridad con perspectiva de género, prestación del servicio a personas adultas mayores y a personas con discapacidad;
 
 XI. Vincular a los prestadores del Servicio Público de Transporte Masivo de Pasajeros, del Servicio de Pago Electrónico, del Centro General de Gestión de Operaciones, con el sector privado y con la banca de desarrollo, en apoyo a la modernización de los mismos y al establecimiento de los Servicios Auxiliares y Conexos;
 
@@ -3490,3 +3502,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 943 POR EL QUE SE ADICIONA LA FRACCIÓN V QUÁTER AL ARTÍCULO 7 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 969 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
