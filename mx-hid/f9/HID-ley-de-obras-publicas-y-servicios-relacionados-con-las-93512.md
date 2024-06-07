@@ -4,7 +4,7 @@ identifier: "HID-ley-de-obras-publicas-y-servicios-relacionados-con-las-93512"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-25"
-last_updated: "2024-05-30"
+last_updated: "2024-06-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -317,17 +317,21 @@ IV.- La disponibilidad de recursos con relación a las necesidades de la obra p�
 
 V.- La prevención de obras principales, así como las complementarias o accesorias y las acciones necesarias para poner aquéllas en servicio, estableciendo las etapas que se requieran para su terminación;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2024)</small>
 
 VI.- La tecnología aplicable, en función de la naturaleza de las obras públicas y, en su caso, los servicios relacionados con la misma de la región donde se apliquen;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE JUNIO DE 2024)</small>
 
 VII.- Tomar en cuenta el empleo de los recursos humanos y la utilización de los materiales propios de la región, donde se ubiquen las obras; y
 
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
 
 VIII.- En el diseño de nuevas construcciones de caminos, carreteras y autopistas, así como la modernización de las existentes, se deberá proteger y conservar los diversos ecosistemas, estableciendo para su diseño e implementación pasos de fauna, entendiéndose como pasos de estructuras trasversales a camino, carretera o autopista que permita habilitar el paso seguro de fauna silvestre en el ecosistema afectado por la construcción de las vías de comunicación.
+
+> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+
+VIII (SIC).- Considerar el impacto ambiental en la realización de las obras públicas, con la finalidad de prevenir, evitar o reducir el desequilibrio ecológico o que se rebasen los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente.
 
 ###### ARTÍCULO 23.
 
@@ -1320,3 +1324,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 925 POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS".]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 968 POR EL QUE SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 22 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
