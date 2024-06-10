@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-06-07"
+last_updated: "2024-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -3289,11 +3289,23 @@ ARTÍCULO 145 OCTAVUS.- La Instancia Municipal para el Desarrollo de las Mujeres
 
 I. Fungir como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidente Municipal, dependencias de la administración pública municipal, organizaciones sociales y asociaciones civiles y de empresas, en materia de igualdad de género, implementación de la perspectiva de género y erradicación de la violencia contra las mujeres;
 
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+I BIS. Generar un sistema único de indicadores que permita evaluar el avance en la institucionalización de acciones, programas y políticas municipales, así como su impacto y resultado en materia de igualdad de género;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+I TER. Elaborar protocolos e implementar acciones acciones (sic) afirmativas para promover ambientes libres de violencia, acoso laboral y hostigamiento sexual en el Ayuntamiento;
+
 II. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, en la coordinación de esfuerzos participativos en favor de una política de igualdad entre mujeres y hombres;
 
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
 
 II BIS. Fungir como Unidades Locales de Atención a mujeres, niñas, niños y adolescentes en situación de violencia, aplicando los protocolos municipales que en la materia expida el Ayuntamiento y dirigiendo el proceso de atención integral derivada de hechos de violencia basada en el género, a través de los mecanismos de detección de casos, debiendo dar acompañamiento a las víctimas en cualquier procedimiento para garantizar su acceso a la justicia;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+II BIS (SIC). Realizar acciones de difusión que promuevan los derechos de las mujeres para que sean plenamente conocidos y ejercidos, incluidas publicaciones y contenidos editoriales que permitan consolidar el proceso de institucionalización e implementación de la perspectiva de género;
 
 III. Promover la celebración de convenios o cualquier acto jurídico con instituciones públicas o privadas, para llevar a cabo programas o proyectos que propicien el desarrollo integral de las mujeres, así como para lograr el cumplimiento de su objeto;
 
@@ -3304,6 +3316,14 @@ V. Promover e impulsar condiciones que hagan posible la defensa y el ejercicio d
 > <small>(ADICIONADA, P.O. 2 DE MAYO DE 2023)</small>
 
 V BIS. Brindar asesoría y asistencia jurídica;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+V TER. Apoyar en el desarrollo de programas de reeducación integral para víctimas y agresores de violencia de pareja;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+V QUATER. Coadyuvar con las áreas correspondientes del Ayuntamiento para la implementación de cursos de capacitación a las personas que atienden víctimas con perspectiva interseccional, intercultural y de género, con enfoque de derechos humanos;
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2023)</small>
 
@@ -4732,3 +4752,9 @@ P.O. 7 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 961 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 118 SEXIES Y 118 SEPTIES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 10 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 971 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
