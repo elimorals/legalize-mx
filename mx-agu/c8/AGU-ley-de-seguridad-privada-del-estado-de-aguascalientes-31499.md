@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-privada-del-estado-de-aguascalientes-31499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-05-26"
-last_updated: "2023-10-23"
+last_updated: "2024-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de mayo de 2003.
 
@@ -427,11 +427,15 @@ VI. Los datos relativos a las altas y bajas del inventario del armamento, vehíc
 
 VII. Cualquier otro dato que sea necesario, a juicio de la Secretaría para la supervisión, control, vigilancia y evaluación del prestador de servicios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2024)</small>
+
 ###### Artículo 15.
 
-El Registro del personal operativo, es un sistema a cargo del C-4 que contiene la información necesaria para la supervisión, control, vigilancia y evaluación del personal operativo que llevará a cabo la Secretaría, así como todo aquella información relativa a las funciones e identificación de dicha personal, el domicilio particular, el lugar de adscripción; la actividad que desempeña, el armamento, vehículos y equipo utilizado para la prestación del servicio, las referencias personales, la capacitación recibida, las habilidades y aptitudes, el nivel de estudios, los antecedentes laborales, las sanciones y recomendaciones laborales y administrativas, las resoluciones ministeriales y judiciales dictadas en su contra en materia penal, la media filiación, señas particulares y ficha fotográfica, así como el registro de decadactilar (sic), los estímulos y reconocimientos a que se haya hecho acreedor y las razones por las cuales se dedica a esa actividad y el resultado de las evaluaciones de conocimiento físicas, toxicológicas y psicológicas.
+El Registro del personal operativo, es un sistema a cargo de la Secretaría que contiene la información necesaria para la supervisión, control, vigilancia y evaluación del personal operativo que llevará a cabo la Secretaría, así como todo aquella información relativa a las funciones e identificación de dicha personal, el domicilio particular, el lugar de adscripción; la actividad que desempeña, el armamento, vehículos y equipo utilizado para la prestación del servicio, las referencias personales, la capacitación recibida, las habilidades y aptitudes, el nivel de estudios, los antecedentes laborales, las sanciones y recomendaciones laborales y administrativas, las resoluciones ministeriales y judiciales dictadas en su contra en materia penal, la media filiación, señas particulares y ficha fotográfica, así como el registro decadactilar, los estímulos y reconocimientos a que se haya hecho acreedor y las razones por las cuales se dedica a esa actividad y el resultado de las evaluaciones de conocimiento físicas, toxicológicas y psicológicas.
 
-El C-4 mantendrá actualizado este registro, para lo cual el personal operativo y en su caso, los prestadores del servicio están obligados a informar dentro de los primeros cinco días de cada mes al C-4 y a la Secretaría sobre:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JUNIO DE 2024)</small>
+
+La Secretaría, a través del C5i, mantendrá actualizado este registro, para lo cual el personal operativo y en su caso, los prestadores del servicio están obligados a informar dentro de los primeros cinco días de cada mes al C5i y a la Secretaría sobre:
 
 I. Los cambios en las funciones o actividades que desempeña;
 
@@ -449,17 +453,19 @@ VII. El acuerdo de inicio de averiguación previa, el auto de formal prisión o 
 
 VIII. Los estímulos y reconocimientos a que se haya hecho acreedor el personal operativo; y
 
-IX. Cualquier otro dato que sea necesario, a juicio de la Secretaría o del C-4, para la supervisión, control, vigilancia y evaluación del personal operativo.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+IX. Cualquier otro dato que sea necesario, a juicio de la Secretaría o del C5i, para la supervisión, control, vigilancia y evaluación del personal operativo.
 
 ### CAPITULO CUARTO. De los Requisitos para Desempeñar las Funciones de Personal Operativo en el Servicio de Seguridad Privada y de lo Principios de Actuación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
 ###### Artículo 16.
 
-Previamente a la contratación del personal operativo, los prestadores del servicio deberán presentar por escrito, ante el C-4, la relación de aspirantes, conteniendo nombre completo, la CURP (Clave Única de Registro Poblacional) y en su caso la CUIP (Clave Única de Identificación Permanente) para que haga las consultas indispensables a la Fiscalía General del Estado, Fiscalía General de la República, al Sistema Nacional de Información en Seguridad Pública y a la Secretaría de Seguridad Pública Federal, sobre la información de los antecedentes de los aspirantes.
+Previamente a la contratación del personal operativo, los prestadores del servicio deberán presentar por escrito, ante el C5i, la relación de aspirantes, conteniendo nombre completo, la CURP (Clave Única de Registro Poblacional) y en su caso la CUIP (Clave Única de Identificación Permanente) para que haga las consultas indispensables a la Fiscalía General del Estado, Fiscalía General de la República, al Sistema Nacional de Información en Seguridad Pública y a la Secretaría de Seguridad Pública Federal, sobre la información de los antecedentes de los aspirantes.
 
-El C-4 deberá de informar al prestador del servicio y a la Secretaría dentro de los diez días hábiles siguientes a la presentación del escrito, el resultado de la consulta, debiendo expedir, cuando sea procedente la Constancia de Viabilidad. En el supuesto de que el C-4 no emita su respuesta en el plazo antes señalado se presumirá, salvo prueba en contrario, que no existe inconveniente para la contratación del personal.
+El C5i deberá de informar al prestador del servicio y a la Secretaría dentro de los diez días hábiles siguientes a la presentación del escrito, el resultado de la consulta, debiendo expedir, cuando sea procedente la Constancia de Viabilidad. En el supuesto de que el C5i no emita su respuesta en el plazo antes señalado se presumirá, salvo prueba en contrario, que no existe inconveniente para la contratación del personal.
 
 ###### Artículo 17.
 
@@ -587,7 +593,9 @@ XIII. Permitir que su personal, sea sometido a procedimientos de evaluación y c
 
 Los prestadores del servicio, además de cumplir con las disposiciones contenidas en esta Ley y la autorización correspondiente, están obligados a:
 
-I. Llevar un registro de su personal y registrar al mismo ante la Secretaría y el C-4;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+I. Llevar un registro de su personal y registrar al mismo ante la Secretaría y el C5i;
 
 II. Hacer constar en su papelería y documentación el número de autorización otorgado por la Secretaría;
 
@@ -597,7 +605,9 @@ III. Permitir y facilitar las visitas de verificación y demás actuaciones que 
 
 IV. Informar a la autoridad competente los hechos de que tenga conocimiento su personal, de los cuales se pueda desprender la comisión de un delito, sin que ello demerite sus funciones y su ejecución a la potestad y vigilancia del Ministerio Público;
 
-V. Presentar ante la Secretaría los planes, programas y manuales, de capacitación de su personal operativo, previamente certificados por el Instituto;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+V. Presentar ante la Secretaría los planes, programas y manuales, de capacitación de su personal operativo, previamente certificados por la Universidad;
 
 VI. Vigilar que su personal cumpla con las obligaciones que le fijan esta Ley y demás ordenamientos jurídicos en la materia;
 
@@ -725,21 +735,23 @@ Tratándose de actividades de video vigilancia, los órganos competentes podrán
 
 ### CAPITULO SEPTIMO. De las Sanciones
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+
 ###### Artículo 37.
 
-El incumplimiento por parte de los prestadores del servicio a las obligaciones establecidas en esta Ley y demás disposiciones jurídicas aplicables, dará lugar a la imposición de una o más de las siguientes sanciones:
+La imposición de las sanciones por incumplimiento de las disposiciones contenidas en la presente Ley, será independiente de las penas que correspondan por acciones u omisiones constitutivas de delito o de la responsabilidad civil.
 
-I. Amonestación con difusión pública de la misma;
+El incumplimiento por parte del Prestador del Servicio autorizado o irregular, a las obligaciones contenidas en la presente Ley y demás disposiciones jurídicas aplicables, dará lugar a la imposición de una o más de las siguientes sanciones:
 
-II. Multa hasta de cinco mil veces el salario mínimo general vigente en el Estado;
+I. Amonestación, a través de la difusión pública por parte de la Secretaría;
 
-III.- Suspensión temporal de la autorización hasta que se corrija el incumplimiento, con difusión pública de dicha suspensión;
+II. Multa de 500 a 5000 veces el valor diario de la Unidad de Medida y Actualización vigente, la cual impondrá la Secretaría. En caso de reincidencia, la multa podrá incrementarse hasta en un porcentaje igual a aquella que originalmente fuera impuesta y procederá en su caso, la cancelación definitiva de la autorización para la prestación de los servicios de seguridad privada y en caso de empresas irregulares además no podrán prestar el servicio por un año dentro del Estado y después de éste, deberán previamente tramitar y obtener la autorización que otorgue la Secretaría;
 
-IV. Cancelación de la autorización con difusión pública de la misma. En este último caso, la Secretaría notificará la cancelación a las autoridades respectivas, a efecto de que realicen, en los términos de su competencia, los actos que legalmente procedan;
+III. Suspensión temporal de los efectos de la autorización hasta que se corrija el incumplimiento, con difusión pública por parte de la Secretaría. En ese caso, la suspensión abarcará el ámbito territorial que tenga autorizado en el Estado, incluida su oficina matriz;
 
-V. Clausura total o parcial; y
+IV. Cancelación de la autorización con difusión pública de la misma. En este último caso, la Secretaría notificará la cancelación a las autoridades respectivas, a efecto de que realicen, en los términos de su competencia, los actos que legalmente procedan; y
 
-VI. Arresto hasta por 36 horas.
+V. Clausura del establecimiento donde el prestador del Servicio tenga su oficina matriz o el domicilio legal que hubiere registrado, así como de las sucursales que tuviera dentro del Estado.
 
 ###### Artículo 38.
 
@@ -757,11 +769,21 @@ V. El monto del beneficio obtenido, daño o perjuicio económico que se hayan ca
 
 Para efectos de esta Ley se entiende por reincidencia la comisión de dos o más infracciones en un período no mayor de seis meses.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2024)</small>
+
 ###### Artículo 39.
 
-En caso de que una persona física o moral preste servicios de seguridad privada sin contar con la autorización de la Secretaría, o cuando el prestador no hubiere obtenido la revalidación, se procederá a la clausura del establecimiento mercantil y se impondrá al infractor una multa hasta por el equivalente a cinco mil veces el salario mínimo general vigente en el Estado.
+En caso de que una persona física o moral preste servicios de seguridad privada sin contar con la autorización de la Secretaría, o cuando el prestador no hubiere obtenido la revalidación, se procederá a la clausura del establecimiento mercantil y se impondrá al infractor una multa hasta por el equivalente a cinco mil veces el valor diario de la Unidad de Medida y Actualización vigente.
 
 Las demás causas que constituyan infracción a los ordenamientos jurídicos que regulen los servicios materia de esta Ley, así como las sanciones aplicables a cada una de ellas, serán determinadas por el Reglamento.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+Artículo 39 A.- La difusión pública a las sanciones, se hará a costa del infractor, en el periódico oficial del Estado y en uno de los diarios de mayor circulación estatal, identificando claramente al infractor, el tipo de sanción, el número de su autorización y el domicilio de su establecimiento en su caso. La sanción servirá de antecedente para considerarse en un nuevo trámite de solicitud de autorización.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+Artículo 39 B.- En caso de que el Prestador del Servicio no dé cumplimiento a las resoluciones que impongan alguna de las sanciones previstas en el presente capítulo, se procederá a hacer efectiva la fianza otorgada para garantizar el cumplimiento de los servicios autorizados.
 
 ### CAPITULO OCTAVO. Del Recurso de Revisión
 
@@ -910,3 +932,11 @@ La Secretaría de Seguridad Pública del Estado y la Universidad de la Policía 
 ###### ARTÍCULO TERCERO.
 
 Con el inicio de la vigencia del presente Decreto, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 10 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 702.- SE REFORMA LA LEY DE SEGURIDAD PRIVADA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
