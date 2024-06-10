@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2024-06-03"
+last_updated: "2024-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -1989,9 +1989,9 @@ En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absolu
 
 Para ser Presidente Municipal, Regidor o Síndico de un Ayuntamiento se requiere:
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, en goce y ejercicio de sus derechos;
+I.- Ser ciudadano mexicano, en goce y ejercicio de sus derechos;
 
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
 
@@ -2455,7 +2455,9 @@ La presente Constitución puede ser adicionada o reformada con los requisitos si
 
 I.- Iniciada la reforma y aprobada por los votos de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos con los debates que hubiere provocado, para su discusión; si la mayoría de los Ayuntamientos aprobaren la reforma o adición, ésta será declarada parte de la Constitución;
 
-II.- Si transcurrieren quince días desde la fecha en que los Ayuntamientos hayan recibido el proyecto de reforma, sin que se hubiere recibido en el Congreso el resultado de la votación, se entenderá que aceptan la reforma o adición.
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+II.- Si transcurrieren quince días hábiles desde la fecha en que los Ayuntamientos hayan recibido el proyecto de reforma, sin que se hubiere recibido en el Congreso el resultado de la votación, se entenderá que aceptan la reforma o adición.
 
 > <small>[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMONONO-, P.O. 8 DE NOVIEMBRE DE 2016]</small>
 
@@ -4178,3 +4180,19 @@ P.O. 3 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 648.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaratoria respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 653.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaración respectiva en el Periódico Oficial del Estado de Aguascalientes.
