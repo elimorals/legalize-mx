@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-del-estado-de-aguascalientes-77081"
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-25"
-last_updated: "2023-08-07"
+last_updated: "2024-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 25 de octubre de 2010.
 
@@ -75,7 +75,9 @@ Los habitantes del Estado tienen los siguientes derechos:
 
 I. Conocer, aprender, acrecentar, renovar, transformar, proteger, expresar, valorar, defender y transmitir aquellas manifestaciones culturales que le dan identidad a las personas y a sus comunidades;
 
-II. Acceder a las instituciones de actividades, bienes y servicios culturales, sin distinción motivada por origen étnico, raza, religión, género, condición física o mental, situación socio-económica, o cualquier otra que atente contra la dignidad humana;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+II. Acceder a las instituciones de actividades, bienes y servicios culturales, sin distinción motivada por origen étnico, edad, raza, religión, género, condición física o mental, situación socio-económica, o cualquier otra que atente contra la dignidad humana;
 
 III. Disfrutar los bienes materiales e inmateriales del patrimonio cultural, con las limitaciones a las que esté sujeto el bien, en razón de su régimen de propiedad o posesión, y atendiendo en todo momento lo establecido por la Ley de Protección y Fomento del Patrimonio Cultural del Estado de Aguascalientes, y demás ordenamientos aplicables;
 
@@ -115,13 +117,25 @@ V. El reconocimiento de la diversidad cultural;
 
 VI. El fomento y consolidación de la participación ciudadana;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
 
-VII. El Reconocimiento, el fomento y la consolidación de los derechos culturales; y
+VII. El reconocimiento, el fomento y la consolidación de los derechos culturales;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 10 DE JUNIO DE 2024)</small>
 
 VIII. El reconocimiento y el fomento de una educación artística de calidad;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+IX. La equidad de género;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+X. El goce efectivo de los derechos culturales de la persona adulta mayor; y
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+XI. El interés superior de la niñez.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -1158,3 +1172,15 @@ El presente decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado contará con un máximo de 60 días hábiles a la entrada en vigor del presente Decreto, para realizar las adecuaciones reglamentarias correspondientes.
+
+P.O. 10 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 703.- SE REFORMA LA LEY DE CULTURA DEL ESTADO DE AGUASCALIENTES”
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
