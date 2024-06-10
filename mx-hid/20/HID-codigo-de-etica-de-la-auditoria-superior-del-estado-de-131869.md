@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-etica-de-la-auditoria-superior-del-estado-de-131869"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-11-19"
-last_updated: "2018-11-19"
+last_updated: "2024-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO DE ETICA DE LA AUDITORIA SUPERIOR DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO, PUBLICADO EN EL P.O. DE 10 DE JUNIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 19 de noviembre de 2018.
 
@@ -416,3 +418,15 @@ TRANSITORIOS (SIC)
 Se autoriza el Código de Ética de la Auditoría Superior del Estado de Hidalgo, y entrara a (sic) vigor al día siguiente de su publicación, derogando el anterior documento Código de Ética de los Servidores Públicos de la Auditoría Superior del Estado de Hidalgo y toda disposición que contravenga al presente documento.
 
 Pachuca de Soto, Hidalgo a 07 de noviembre del 2018.- El Titular del Órgano Interno de Control de la Auditoría Superior del Estado de Hidalgo, Mtro. y C.P.C. Javier Concepción Morales Loaiza.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA AUDITORÍA SUPERIOR DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Acuerdo entrara a vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se abroga el Código de Ética de la Auditoría Superior del Estado de Hidalgo, publicado el 19 de noviembre de 2018 en el Periódico Oficial del Estado de Hidalgo.
+
+TERCERO.- Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
