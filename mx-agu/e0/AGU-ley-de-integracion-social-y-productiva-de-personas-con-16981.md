@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-integracion-social-y-productiva-de-personas-con-16981"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2023-05-08"
+last_updated: "2024-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 14 de febrero de 2000.
 
@@ -701,6 +701,30 @@ IV. Contar con espacios físicos donde se realicen, practiquen o presenten activ
 
 V. Tener acceso a equipo especializado para diferentes tipos de discapacidad en los sitios públicos, adecuado a los nuevos avances de la tecnología de la información y las comunicaciones, como instrumentos de lectura y escritura para la comunicación táctil, los macrotipos, los dispositivos multimedia de fácil acceso, así como el lenguaje escrito, los sistemas auditivos, los medios de voz digitalizada y formatos aumentativos o alternativos de comunicación. Los gobiernos estatales y municipales garantizarán estos derechos de acuerdo con la disponibilidad presupuestaria.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+ARTICULO 62 A.- El Sistema Estatal para el Desarrollo Integral de la Familia, en coordinación con las autoridades competentes en materia de movilidad y seguridad vial estatal y municipales, impulsarán el derecho que tienen las personas con discapacidad, al libre desplazamiento, adoptando medidas efectivas que aseguren su movilidad personal con la mayor independencia posible, para lo cual les corresponde realizar las acciones siguientes:
+
+I. Establecer mecanismos de coordinación con autoridades competentes y empresas privadas, a fin de elaborar normas y programas que garanticen a las personas con discapacidad la accesibilidad, movilidad, seguridad, comodidad, calidad y funcionalidad en los medios de transporte público, privado y su interrelación con el entorno físico;
+
+II. Fomentar que, en los términos de la ley respectiva, las unidades concesionadas de transporte público y sus instalaciones, garanticen a las personas con discapacidad la accesibilidad para el desplazamiento y los servicios correspondientes, incluyendo la reserva de espacios que cuenten con especificaciones técnicas y antropométricas apoyos técnicos y personal capacitado para ser utilizadas por personas en situación de discapacidad;
+
+III. Fomentar la realización e implementación de programas y campañas de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía y lugares públicos, así como para evitar cualquier tipo de discriminación en el uso del transporte público;
+
+IV. Propiciar en las avenidas principales del Estado y Municipios, la instalación, adecuación o diseño de semáforos con señales acústicas, banquetas con sendas de huella táctil y placas en Sistema Braille, con el nombre de la calle o avenida, a una altura accesible para el promedio de la población con discapacidad visual;
+
+V. Garantizar que las personas con discapacidad cuenten con zonas reservadas en la infraestructura vial, debidamente señalizadas, para el ascenso y descenso en las terminales y rutas de transporte público;
+
+VI. Garantizar y vigilar que las personas con discapacidad cuenten con cajones de estacionamiento reservados para su uso en todos los estacionamientos de la Entidad, así como del correcto uso de éstos;
+
+VII. Promover convenios con los concesionarios del transporte público a fin de que las personas con discapacidad gocen de descuentos en las tarifas de los servicios de transporte público; y
+
+VIII. Las demás establecidas en las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+ARTICULO 62 B.- El Sistema Estatal para el Desarrollo Integral de la Familia, en coordinación con las autoridades competentes en materia de movilidad, serán las encargadas de supervisar que se realicen los ajustes razonables al sistema de transporte público, de acuerdo con el principio de progresividad, para que las personas con discapacidad puedan tener acceso y uso, en los términos de la legislación aplicable.
+
 ###### ARTICULO 63.
 
 Las autoridades competentes deberán vigilar que en los sitos que sean asignados exclusivamente para el uso de personas con discapacidad, sean señalados y anunciados debidamente los servicios que se ofrezcan para comodidad de las personas con discapacidad.
@@ -735,9 +759,11 @@ El Ejecutivo del Estado buscará que gradualmente hasta lograr una integración 
 
 El Ejecutivo del Estado brindará estímulos a aquellos concesionarios que adapten completamente con ajustes razonables y diseños universales los vehículos en beneficio de las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 66.
 
-Se prohibe que dentro de los estacionamientos privados, se invadan cajones destinados al estacionamiento de vehículos en los que se trasladen personas con discapacidad por otros en los que se trasladen personas distintas a las que establece esta ley, los propietarios de los estacionamientos citados se harán acreedores a la sanción a que se refiere la fracción II, del Articulo 68, de esta Ley.
+Se prohíbe que, dentro de los estacionamientos privados, públicos de paga y públicos gratuitos se invadan cajones destinados al estacionamiento de vehículos en los que se trasladen personas con discapacidad por otros en los que se trasladen personas distintas a las que establece esta ley, los propietarios de los estacionamientos citados se harán acreedores a la sanción a que se refiere la fracción II, del Articulo 68 de esta Ley.
 
 ### CAPITULO XII. De las Reglas para la Imposición de Sanciones
 
@@ -1012,3 +1038,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 10 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 700.- SE ADICIONAN ARTÍCULOS A LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JUNIO DE 2024.
+
+## N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 705.- SE REFORMA LA LEY DE INTEGRACIÓN SOCIAL Y PRODUCTIVA DE PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
