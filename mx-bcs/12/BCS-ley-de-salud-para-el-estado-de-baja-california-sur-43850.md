@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2024-05-31"
+last_updated: "2024-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE JUNIO DE 2024 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 10 DE JUNIO DE 2024.]</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -3521,20 +3521,14 @@ CUARTO.- El Titular del Ejecutivo Estatal expedirá las disposiciones reglamenta
 
 QUINTO.- La Secretaría de Salud del Gobierno del Estado de Baja California Sur, elaborará el Reglamento, así como los protocolos, manuales y lineamientos referidos en la Ley de Atención Médica Prehospitalaria para el Estado y los Municipios de Baja California Sur, en un plazo no mayor a noventa días hábiles, contados a partir de que la misma entre en vigor.
 
+> <small>(F. DE E., B.O. 10 DE JUNIO DE 2024)</small>
+
 SEXTO.- Los prestadores de servicios de urgencias y emergencias médicas prehospitalarias, sean de instituciones públicas, privadas, organizaciones y/o asociaciones civiles, en un plazo que no excederá de un año, contado a partir de la vigencia de la de Atención Médica Prehospitalaria para el Estado y los Municipios de Baja California Sur, adoptarán las medidas de capacitación, equipamiento y demás obligaciones que refiere dicha Ley y las Normas Oficiales Mexicanas en la materia.
+
+> <small>(F. DE E., B.O. 10 DE JUNIO DE 2024)</small>
 
 SÉPTIMO.- Las acciones que se generen para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada en el Presupuesto de Egresos del Gobierno del Estado de Baja California Sur para el Ejercicio Fiscal 2024 y los ejercicios fiscales subsecuentes.
 
+> <small>(F. DE E., B.O. 10 DE JUNIO DE 2024)</small>
+
 OCTAVO.- Para el debido cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos de la entidad, en el ámbito de su competencia, realizarán los ajustes a los· Presupuestos de Egresos para el ejercicio fiscal 2024 correspondientes y preverán los ingresos y egresos necesarios para los ejercicios fiscales subsecuentes, a fin de garantizar los recursos suficientes y necesarios para la implementación de la Ley objeto del presente Decreto.
-
-SEXTO.- Los prestadores de servicios de urgencias y emergencias médicas prehospitalarias, sean de instituciones públicas, privadas, organizaciones y/o asociaciones civiles, en un plazo que no excederá de un año, contado a partir de la vigencia de la de Atención Médica Prehospitalaria para el Estado y los Municipios de Baja California Sur, adoptarán las medidas de capacitación, equipamiento y demás obligaciones que refiere dicha Ley y las Normas Oficiales Mexicanas en la materia. (SIC)
-
-SÉPTIMO.- Las acciones que se generen para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada en el Presupuesto de Egresos del Gobierno del Estado de Baja California Sur para el Ejercicio Fiscal 2024 y los ejercicios fiscales subsecuentes. (SIC)
-
-OCTAVO.- Para el debido cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos de la entidad, en el ámbito de su competencia, realizarán los ajustes a los Presupuestos de Egresos para el ejercicio fiscal 2024 correspondientes y preverán los ingresos y egresos necesarios para los ejercicios fiscales subsecuentes, a fin de garantizar los recursos suficientes y necesarios para la implementación de la Ley objeto del presente Decreto. (SIC)
-
-SEXTO.- Los prestadores de servicios de urgencias y emergencias médicas prehospitalarias, sean de instituciones públicas, privadas, organizaciones y/o asociaciones civiles, en un plazo que no excederá de un año, contado a partir de la vigencia de la de Atención Médica Prehospitalaria para el Estado y los Municipios de Baja California Sur, adoptarán las medidas de capacitación, equipamiento y demás obligaciones que refiere dicha Ley y las Normas Oficiales Mexicanas en la materia. (SIC)
-
-SÉPTIMO.- Las acciones que se generen para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada en el Presupuesto de Egresos del Gobierno del Estado de Baja California Sur para el Ejercicio Fiscal 2024 y los ejercicios fiscales subsecuentes. (SIC)
-
-OCTAVO.- Para el debido cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos de la entidad, en el ámbito de su competencia, realizarán los ajustes a los Presupuestos de Egresos para el ejercicio fiscal 2024 correspondientes y preverán los ingresos y egresos necesarios para los ejercicios fiscales subsecuentes, a fin de garantizar los recursos suficientes y necesarios para la implementación de la Ley objeto del presente Decreto. (SIC)
