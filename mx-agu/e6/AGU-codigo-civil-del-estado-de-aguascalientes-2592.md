@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2024-05-13"
+last_updated: "2024-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -957,11 +957,11 @@ En el registro de defunción, se establecerán las causas de la muerte, señalan
 
 No se expedirá copia certificada del registro, salvo mandato judicial o a petición de parte interesada que así lo justifique.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
 ###### Artículo 113.
 
-Los que habiten en el domicilio en que ocurra el fallecimiento; los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquier otra casa de comunidad; y los encargados de los hoteles o cualquier otro establecimiento, tienen obligación de dar aviso al Oficial del Registro Civil dentro de las veinticuatro horas siguientes al fallecimiento.
+Los que habiten en el domicilio en que ocurra el fallecimiento; los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquier otra casa de comunidad; y los encargados de los hoteles o cualquier otro establecimiento, tienen obligación de dar aviso al Oficial del Registro Civil dentro de las cuarenta y ocho horas siguientes al fallecimiento.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -1025,11 +1025,11 @@ Si la muerte a que se refiere el artículo anterior ocurre por actos de violenci
 
 El fallecimiento de una persona se anotará también en las actas de registro de nacimiento y de matrimonio expresándose los folios en que conste la defunción.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
 ###### Artículo 124.
 
-Si no se hubiere realizado oportunamente el registro de defunción, los interesados o el Ministerio Público, promoverán información testimonial ante un Juez Civil, y con esas diligencias el Oficial del Registro Civil realizará el registro omitido.
+Si no se hubiere realizado el registro de defunción dentro del plazo de un año contado a partir de ocurrido el fallecimiento, los interesados o el Ministerio Público, promoverán el registro extemporáneo ante el Órgano Jurisdiccional competente, y con esas diligencias el Oficial del Registro Civil realizará el registro omitido.
 
 ### CAPITULO X.
 
@@ -17776,3 +17776,15 @@ P.O. 13 DE MAYO DE 2024.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 701.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Poder Ejecutivo del Estado contará con un plazo de noventa días naturales para proveer las medidas administrativas y realizar las reformas reglamentarias derivadas del presente Decreto.
