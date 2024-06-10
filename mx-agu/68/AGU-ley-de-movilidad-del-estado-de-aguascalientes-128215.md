@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2024-05-20"
+last_updated: "2024-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -217,7 +217,9 @@ LXIV. Ley general: Ley General de Movilidad y Seguridad Vial;
 
 LXV. Ley local: Ley de Movilidad del Estado de Aguascalientes;
 
-LXVI. Licencia de conducir: Título habilitante que se otorga a una persona para conducir un vehículo motorizado, previo cumplimiento de los requisitos legales y reglamentarios establecidos;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+LXVI. Licencia de conducir: Título habilitante expedido por autoridad competente, que se otorga a una persona para conducir un vehículo motorizado, pudiendo ser impresa en material plástico o de forma digital, previo cumplimiento de los requisitos legales y reglamentarios establecidos;
 
 LXVII. Lineamientos operativos del SITMA: Documento administrativo general y técnico, que expide la CMOV para regular la operación y funcionamiento de los componentes y elementos que integran el SITMA;
 
@@ -253,7 +255,9 @@ LXXXII. Peatón: Persona que transita a pie por la vía pública, o aquella con 
 
 LXXXIII. Permiso: Es el acto administrativo por medio del cual la autoridad competente autoriza a una persona física o moral a prestar el servicio público de transporte de personas o bienes, en aquellos casos donde de acuerdo con esta Ley dar servicio público no es materia de concesión;
 
-LXXXIV. Permiso de conducir: Título habilitante que se otorga a una persona mayor de dieciséis años y menor de dieciocho, para conducir un vehículo motorizado, previo cumplimiento de los requisitos legales y reglamentarios;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+LXXXIV. Permiso de conducir: Título habilitante expedido por autoridad competente, que se otorga a una persona mayor de dieciséis años y menor de dieciocho años, para conducir un vehículo motorizado, pudiendo ser impreso en material plástico o de forma digital, previo cumplimiento de los requisitos legales y reglamentarios;
 
 LXXXV. Perro de asistencia: Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
@@ -889,7 +893,13 @@ VI. Coordinar programas conjuntos con las áreas responsables de seguridad públ
 
 VII. Coordinar sus acciones con las autoridades locales y federales;
 
-VIII. Expedir licencias y permisos para conducir vehículos de motor, así como llevar el registro y control de la expedición, suspensión, revocación y cancelación de licencias o permisos para conducir;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE JUNIO DE 2024)</small>
+
+VIII. Expedir licencias y permisos para conducir vehículos de motor, así como llevar el registro y control de la expedición, suspensión, revocación y cancelación de los mismos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+Para efectos de la presente fracción, las licencias y permisos de conducir que se expidan o renueven podrán ser impresos en material plástico o de forma digital, mediante aplicaciones y herramientas tecnológicas, mismas que permitirán la acreditación de las habilidades y requisitos correspondientes para la conducción del tipo de vehículo de que se trate y tendrán plena validez oficial en territorio estatal y nacional, en los términos establecidos por la Ley General y la presente Ley.
 
 IX. Autorizar a terceros para que otorguen la acreditación a los operadores del transporte público de personas y bienes, incluyendo a los operadores del SITMA;
 
@@ -911,9 +921,15 @@ XVI. Inspeccionar y vigilar la situación física, mecánica y legal, tanto inte
 
 XVII. Realizar la detención de los vehículos que sean legalmente solicitados por las autoridades competentes;
 
-XVIII. Otorgar permiso para el uso de vidrios polarizados en vehículos, previa solicitud que deberá ser acompañada del certificado médico expedido por una autoridad de salud, que compruebe la necesidad de tenerlo; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
 
-XIX. Las demás que establece la presente Ley y otras disposiciones jurídicas aplicables en la materia.
+XVIII. Otorgar permiso para el uso de vidrios polarizados en vehículos, previa solicitud que deberá ser acompañada del certificado médico expedido por una autoridad de salud, que compruebe la necesidad de tenerlo;
+
+> <small>(ADICIONADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+XIX. Impartir cursos de capacitación sobre el conocimiento de esta Ley y su Reglamento, seguridad vial, cultura de la movilidad y habilidad para la conducción; y
+
+XX. Las demás que establece la presente Ley y otras disposiciones jurídicas aplicables en la materia.
 
 ###### ARTÍCULO 17.
 
@@ -1555,7 +1571,9 @@ ARTÍCULO 41 DECIES.- El Estado integrará las bases de datos de movilidad y seg
 
 I. La información contenida en el Registro Público Vehicular en términos de la Ley del Registro Público Vehicular, en estricto apego a la Ley General de Transparencia y Acceso a la Información Pública y General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás legislación aplicable;
 
-II. Licencias de conducir, incluyendo el tipo de licencia y seguros registrados por vehículo;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+II. Licencias y permisos de conducir, incluyendo el tipo de licencia y seguros registrados por vehículo;
 
 III. Operadores de servicios de transporte;
 
@@ -2297,13 +2315,17 @@ Con objeto de hacer efectivas las disposiciones de la presente Sección, a trav�
 
 ### CAPÍTULO SEGUNDO. Las Licencias y Permisos para Conducir
 
-#### SECCIÓN SEGUNDA. Las Autoridades Competentes para Expedir las Licencias de Conducir
+#### SECCIÓN SEGUNDA. Las Autoridades competentes para expedir y renovar las Licencias y Permisos de Conducir
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 97.
 
 Toda persona que conduzca un vehículo de motor dentro del territorio del Estado, deberá portar consigo licencia o permiso vigente que corresponda al tipo de vehículo utilizado, modalidad de transporte y que haya sido expedida por autoridad competente.
 
-Es obligación de los conductores, presentar la licencia o permiso al personal de las dependencias encargadas de la seguridad pública y vialidad en el Estado o en los municipios, cuando con motivo de sus funciones se lo soliciten.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+Es obligación de las personas conductoras, portar y presentar la licencia o permiso de conducir vigente, al personal de las dependencias o instituciones encargadas de la seguridad pública y vialidad, cuando con motivo de sus funciones, el personal lo solicite.
 
 ###### ARTÍCULO 98.
 
@@ -2311,11 +2333,11 @@ En el Estado se reconocerán las licencias de conducir vigentes, expedidas por a
 
 Los operadores de servicio de transporte público local deben portar licencia expedida por la autoridad competente del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 99.
 
-El Poder Ejecutivo, a través de la SSP, integrará un Registro Estatal que se generará con cada licencia o permiso de conducir que se expida y que funcionará en todo el Estado como base de datos con la finalidad de mantener un seguimiento de los conductores autorizados como aptos para ejercer su movilidad por la conducción de un vehículo automotor, así como de aquellos que no cuenten con dicha licencia y cometan una infracción de las previstas en la presente Ley.
+La SSP contará con un registro de licencias y permisos para conducir que estará conformado por el conjunto de datos personales, biométricos, archivos, registros catalogados y clasificados que conllevan a la aplicación de manuales de operación, formatos, procesos y procedimientos específicos, relativos a los tipos de licencias o permisos para conducir, que estará sujeto a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios, así como a la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Aguascalientes y sus Municipios.
 
 > <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
@@ -2329,19 +2351,23 @@ ARTÍCULO 99 TER.- La SSP implementará y mantendrá actualizado este Registro E
 
 ARTÍCULO 99 QUATER.- La SSP garantizará la seguridad en el registro y el uso de estos datos limitándolos a los fines que esta Ley dispone, debiendo desarrollar y utilizar las herramientas tecnológicas necesarias para el manejo adecuado de la información, conforme a lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios. Esta información se compartirá de acuerdo a los protocolos que con este fin establezca la SSP.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2024)</small>
+
 #### SECCIÓN TERCERA. La Clasificación de Licencias y Permisos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 100.
 
-Las licencias para automovilistas, operadores y motociclistas, serán expedidas por el Gobierno del Estado de Aguascalientes a través de la SSP.
+Las licencias y permisos de conducir para automovilistas, operadores y motociclistas, serán expedidos y renovados por el Gobierno del Estado de Aguascalientes a través de la SSP, de conformidad con el artículo 16, fracción VIII de la presente Ley y demás normatividad aplicable para tal efecto.
 
-Previa solicitud, los municipios podrán expedir licencias estatales para conducir, de conformidad a lo establecido en los convenios de colaboración que se celebren entre éstos y la SSP, en tal supuesto se observará lo dispuesto en esta Ley y su Reglamento.
+Previa solicitud, los municipios podrán expedir y renovar licencias y permisos para conducir, de conformidad a lo establecido en los convenios de colaboración que se celebren entre éstos y la SSP, en tal supuesto se observará lo dispuesto en esta Ley, su Reglamento y demás disposiciones aplicables.
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
 ###### ARTÍCULO 101.
 
-Para la expedición de la licencia de aquellos vehículos que la requieran, se atenderá a las siguientes categorías:
+Para la expedición y renovación de las licencias de conducir de aquellos vehículos que la requieran, se atenderá a las siguientes categorías:
 
 I. Automovilista. Autoriza conducir vehículos de uso particular, sin percibir retribución de terceros por dicha actividad;
 
@@ -2355,11 +2381,19 @@ c) Tipo "C".- Autoriza conducir vehículos de autotransporte local de bienes de 
 
 d) Tipo "D".- Autoriza conducir vehículos de autotransporte local exclusivo de turismo en su modalidad de operador-guía; y
 
-e) Tipo "E".- Autoriza conducir vehículos de autotransporte local de carga clasificada como materiales y residuos peligrosos; o
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+e) Tipo “E”.- Autoriza conducir vehículos de autotransporte local de carga clasificada como materiales y residuos peligrosos.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+Las licencias mencionadas en la presente fracción autorizarán conducir vehículos del servicio público y particulares.
 
 III. Motociclista. Autoriza conducir este tipo de vehículos.
 
-Las licencias mencionadas en la Fracción II autorizarán conducir vehículos del servicio público y particulares.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE JUNIO DE 2024)</small>
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN P.O. DE 10 DE JUNIO DE 2024, PÁGINAS DE LA 15 A LA 16.]</small>
 
 ###### ARTÍCULO 102.
 
@@ -2367,85 +2401,115 @@ Para obtener la licencia de conducción de vehículos, previo pago de derechos, 
 
 I. De Automovilista:
 
-a) Edad mínima de dieciocho años;
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-b) Comprobar su domicilio actual;
+a) Presentar original y copia simple de identificación oficial con fotografía para acreditar la edad mínima de dieciocho años. Las personas extranjeras deberán presentar, en original y copia, la documentación vigente que acredite su situación migratoria en territorio mexicano;
 
-c) Presentar identificación oficial con fotografía; y
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-d) Acreditar el examen médico de agudeza audiovisual.
+b) Presentar comprobante de domicilio en el Estado con una vigencia no mayor a tres meses de expedición. En el caso de que el comprobante de domicilio no corresponda con el nombre de la persona solicitante, y además de que no se trate del mismo domicilio que consta en la identificación oficial del interesado, se deberá presentar copia de identificación oficial con fotografía de la persona titular;
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-Para personas con discapacidad, el examen de valoración deberá realizarse en formatos accesibles, para lo cual las autoridades competentes deberán emitir los lineamientos respectivos;
+c) Presentar la Clave Única de Registro Poblacional (CURP);
 
-e) Asistir al curso sobre el conocimiento de esta Ley y aprobar el examen teórico correspondiente;
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+d) Manifestar, en su caso, que no se cuenta con enfermedades, padecimientos o cualquier condición física que limite o impida a la persona interesada la conducción de vehículos motorizados;
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+e) Acreditar el curso sobre el conocimiento de esta Ley, así como aprobar los exámenes teórico, psicométrico y audiovisual, de conformidad con los lineamientos y demás disposiciones que se apliquen para tal efecto.
+
+Para personas con discapacidad, el curso y los exámenes referidos, deberán realizarse en formatos accesibles, para lo cual las autoridades competentes deberán emitir los lineamientos respectivos;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JUNIO DE 2024)</small>
 
 f) Aprobar el examen práctico de conducción;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JUNIO DE 2024)</small>
+
 g) Manifestación del grupo sanguíneo y del factor RH;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JUNIO DE 2024)</small>
 
 h) No estar suspendido por autoridad competente en sus derechos para conducir vehículos de motor; y
 
-i) En caso que sea su voluntad manifestar su aprobación sobre la donación de sus órganos.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-En los casos de renovación de la licencia, el interesado deberá volver a acreditar estos requisitos a excepción de los Incisos a) y g) de esta Fracción;
+i) En caso que sea su voluntad, manifestar aprobación sobre la donación de sus órganos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 10 DE JUNIO DE 2024)</small>
 
 II. De operador:
 
-a) Edad mínima de dieciocho años;
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-b) Comprobar domicilio actual;
+a) Presentar original y copia simple de identificación oficial con fotografía para acreditar la edad mínima de dieciocho años. Las personas extranjeras deberán presentar, en original y copia, la documentación vigente que acredite su situación migratoria en territorio mexicano;
 
-c) Presentar identificación oficial con fotografía;
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-d) Presentar y aprobar examen médico de agudeza audiovisual y psicométrico;
+b) Presentar comprobante de domicilio en el Estado, con una vigencia no mayor a tres meses de su expedición. En el caso de que el comprobante de domicilio no corresponda con el nombre de la persona solicitante, y además de que no se trate del mismo domicilio que consta en la identificación oficial del interesado, se deberá presentar copia de la identificación oficial con fotografía de la persona titular;
 
-e) Asistir a la capacitación sobre el conocimiento de esta Ley con especial énfasis en los derechos que tengan incidencia en la modalidad del servicio en la que se vaya a desempeñar y aprobar el examen teórico correspondiente;
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-f) Aprobar el examen práctico de conducción y pericia en el manejo del tipo de vehículo para el que solicita la licencia;
+c) Presentar Clave Única de Registro de Población (CURP);
+
+(NOTA: EL 30 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 137/2024, DECLARÓ LA INVALIDEZ DEL INCISO d) DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE OCTUBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+d) MANIFESTAR, EN SU CASO, QUE NOS E CUENTA CON ENFERMEDADES, PADECIMIENTOS, O CUALQUIER CONDICIÓN FÍSICA QUE LIMITE O IMPIDA A LA PERSONA INTERESADA LA CONDUCCIÓN DE VEHÍCULOS MOTORIZADO (SIC);
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+e) Acreditar al (sic) curso sobre el conocimiento de esta Ley con especial énfasis en los derechos que tengan incidencia en la modalidad del servicio en la que se vaya a desempeñar, así como aprobar los exámenes teórico, psicométrico y audiovisual, de conformidad con los lineamientos y demás disposiciones que se aplique para tal efecto;
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+f) Aprobar el examen práctico de conducción y pericia en el manejo del tipo de vehículo motorizado para el que solicita la licencia;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JUNIO DE 2024)</small>
 
 g) Manifestación del grupo sanguíneo y del factor RH;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JUNIO DE 2024)</small>
+
 h) Comprobar mediante documentos y estudios de personalidad emitidos por la autoridad competente que son aptos para ostentar dichas licencias;
 
-Los requisitos del Inciso e) únicamente será exigible para la obtención de las licencias de operador tipos "A" y "D";
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 10 DE JUNIO DE 2024)</small>
 
 i) No estar suspendido por sentencia ejecutoria para ejercer el oficio de operador de cualquier tipo de vehículos; y
 
-j) En caso que sea su voluntad manifestar su aprobación sobre la donación de sus órganos.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-Será optativo para el solicitante de este tipo de licencias, acreditar mediante examen el dominio de un segundo idioma, estableciendo esta capacidad en la misma licencia solicitada; o
+j) En caso que sea su voluntad, manifestar aprobación sobre la donación de sus órganos.
 
 III. De motociclista:
 
-Los motociclistas deberán satisfacer los mismos requisitos que los automovilistas, pero el examen de manejo será de motocicleta.
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+Los motociclistas deberán satisfacer los mismos requisitos que los automovilistas, con excepción del relativo al examen de manejo, el cual será de motocicleta.
 
-El permiso para conducir podrá expedirse a personas de dieciséis años en adelante, a criterio de la SSP; en ese caso se deberá exhibir autorización del padre o tutor para tramitarla; los padres o tutores manifestarán por escrito su responsabilidad en los daños que sus hijos o pupilos puedan causar a terceros.
-
-La SSP impartirá cursos de capacitación sobre el conocimiento de esta Ley y su Reglamento, seguridad vial, cultura de la movilidad y habilidad para la conducción.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 103.
 
-Para solicitar la reposición de licencias o permiso para conducir, previo pago de derechos, se requerirá:
+Para solicitar la renovación de licencias para conducir, se deberá hacer de manera física, previo pago de derechos y acreditando nuevamente los requisitos establecidos en el artículo 102 de la presente Ley, se requerirá, además, entregar copia de la licencia para conducir que se pretenda renovar, o en su defecto, proporcionar el número de la licencia que corresponda, así como contar con la validación de la SSP sobre la inexistencia de algún impedimento judicial o administrativo para conducir vehículos de motor.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2023)</small>
+En caso de solicitud de renovación de las licencias de conducir descritas en las fracciones I y III del artículo 101 de la presente Ley, se podrán renovar sin cumplir con el requisito señalado en el inciso f), de la fracción II del artículo 102 de esta Ley, y siempre y cuando su fecha de vencimiento no haya excedido los 60 días naturales.
 
-I. Entregar copia de la licencia o permiso para conducir vencido o en su defecto proporcionar su número;
+Para el caso de la renovación de las licencias de conducir de Operador tipo “A” y “D”, descritas en la fracción II del artículo 101 de la presente Ley, se deberá acompañar constancia de no incidencias expedida por la autoridad del transporte público competente, documento que será evaluado por la SSP para el refrendo.
 
-II. Aprobar el examen médico, según el tipo de licencia de que se trate;
+La renovación procederá cuando la persona interesada solicite mantenerse en la misma categoría de licencia de conducir o una categoría inferior.
 
-III. Para los distintos tipos de licencia de operador, además deberá presentar el examen de conservación de aptitudes, físico, teórico y práctico;
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-IV. Los demás requisitos que se establezcan en las disposiciones reglamentarias del presente ordenamiento;
+ARTÍCULO 103 BIS.- Se podrá solicitar renovación de licencias de conducir de manera electrónica, cuando la licencia vencida haya tenido solo una vigencia de dos años, y sólo aplicará para aquellas licencias de conducir descritas en las fracciones I y III del artículo 101 de esta Ley, y siempre y cuando su fecha de vencimiento no haya excedido los 60 días naturales.
 
-V. Tratándose de licencias de operador tipos "A" y "D", deberá presentar además el requisito establecido en el Artículo 102, Fracción II, Inciso f); y
+Para efectos del presente artículo solo se podrá solicitar hasta por dos veces consecutivas, con vigencia de dos años cada una, cumpliendo con los requisitos establecidos en los lineamientos y normatividad que para tal efecto se expida, así como los requeridos en las aplicaciones y herramientas tecnológicas destinadas a dicho servicio.
 
-VI. Con respecto a las licencias de operador de servicio público de personas, deberán de acompañar constancia de no incidencias de la autoridad del transporte público competente, documento que será evaluado por la SSP para el refrendo.
+La renovación procederá cuando la persona interesada solicite mantenerse en la misma categoría de licencia de conducir.
 
 ###### ARTÍCULO 104.
 
@@ -2459,9 +2523,11 @@ Toda persona que haya obtenido licencia o permiso para conducir, deberá hacer u
 
 Si durante la vigencia de la licencia o permiso para conducir sobreviene una causa que disminuya las aptitudes necesarias para conducir vehículos de motor, se suspenderá la licencia durante el tiempo que dure la incapacidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 106.
 
-Las personas mayores de dieciséis años podrán solicitar por intermedio de sus padres o representantes legales, permiso para conducir vehículos automotores de servicio particular, en condiciones semejantes a la categoría de automovilista, previo pago de los derechos correspondientes, satisfaciéndose los siguientes requisitos:
+Las personas menores de dieciséis años podrán solicitar por intermedio de sus padres o representantes legales la expedición y/o renovación del permiso para conducir vehículos motorizados de servicio particular, de manera física o electrónica, previo pago de los derechos correspondientes, además de entregar la copia del permiso para conducir que se pretenda renovar, o en su defecto, proporcionar el número de dicho permiso y contar con la validación de la SSP sobre la inexistencia de algún impedimento judicial o administrativo para conducir vehículos de motor. Deberá además satisfacer los siguientes requisitos:
 
 I. Hacerse acompañar por uno de los padres o tutores y presentar solicitud debidamente firmada por ellos, quienes responderán de forma solidaria en la responsabilidad en que incurra el menor solicitante del permiso;
 
@@ -2469,9 +2535,15 @@ II. Comprobar la edad con acta de nacimiento y acreditar la identidad del menor;
 
 III. Presentar identificación del padre o tutor del menor, acreditando su domicilio;
 
-IV. Aprobar examen de manejo y conocimiento de esta Ley. Los requisitos indicados en esta Fracción, quedarán satisfechos con el certificado de capacidad expedido por alguna institución técnica o de educación vial, reconocida por la SSP;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
 
-V. Presentar y aprobar el examen de agudeza audiovisual ante la SSP; y
+IV. Acreditar el curso sobre el conocimiento de esta Ley, así como aprobar los exámenes teórico, psicométrico y audiovisual, de conformidad con los lineamientos y demás disposiciones que se apliquen para tal efecto.
+
+Para personas con discapacidad, el curso y los exámenes referidos, deberán realizarse en formatos accesibles, para lo cual las autoridades competentes deberán emitir los lineamientos respectivos;
+
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+V. Manifestar, en su caso, que no se cuenta con enfermedades, padecimientos o cualquier condición física que limite o impida a la persona interesada la conducción de vehículos motorizados;
 
 VI. En caso de menores sujetos a tutela, la personalidad del tutor deberá ser acreditada fehacientemente mediante la resolución judicial respectiva.
 
@@ -2479,19 +2551,31 @@ VI. En caso de menores sujetos a tutela, la personalidad del tutor deberá ser a
 
 Las reglas establecidas para el otorgamiento, conservación, renovación, suspensión o cancelación de las licencias para conducir, así como las sanciones previstas, serán aplicables, en lo conducente al régimen administrativo de los permisos para conducir otorgados a menores de edad, a que se refiere este artículo.
 
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+Para el caso de que las personas solicitantes y personas interesadas en la expedición y/o renovación del permiso para conducir sean extranjeras, se deberá atender a los mismos requisitos y criterios establecidos en el artículo 102 de la presente Ley y demás disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2024)</small>
+
+ARTÍCULO 106 BIS.- Para el caso de solicitar la reposición de licencias y permisos de conducir, la persona interesada podrá hacerlo de manera presencial o digital, debiendo realizar el pago correspondiente y contar con la validación de la SSP sobre la inexistencia de algún impedimento judicial o administrativo para conducir vehículos de motor.
+
 ###### ARTÍCULO 107.
 
 A toda persona que padezca una incapacidad física para la conducción normal de vehículos de motor, se le podrá expedir licencia de conducción cuando cuente, según la deficiencia que tenga, con anteojos, prótesis u otros aparatos, o el vehículo que pretenda conducir esté provisto de mecanismos o medios auxiliares que previa demostración ante la SSP, corroboren la capacidad para conducir con seguridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 108.
 
-A ninguna persona se le expedirá o renovará su licencia de conducir, cuando se encuentre en los siguientes casos:
+A ninguna persona se le expedirá o renovará su licencia o permiso de conducir, cuando se encuentre en los siguientes casos:
 
 I. Cuando la licencia esté suspendida o cancelada;
 
 II. Cuando se compruebe que el solicitante es adicto a las bebidas alcohólicas o estupefacientes, psicotrópicos u otras substancias tóxicas;
 
-III. Cuando se advierta que el solicitante presenta alguna incapacidad que le impida conducir vehículos de motor;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2024)</small>
+
+III. Cuando presente algún impedimento que le permita conducir vehículos de motor;
 
 IV. Cuando la documentación exhibida sea falsa o se proporcionen informes falsos en la solicitud correspondiente, así como cuando la documentación presente alteraciones o modificaciones visibles. Estos hechos serán puestos al conocimiento de la autoridad competente;
 
@@ -2557,15 +2641,15 @@ IV. Cuando durante su vigencia, la autoridad que expidió la licencia, se percat
 
 V. Cuando así lo establezca una sentencia judicial, que haya causado ejecutoria.
 
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 112.
 
-En los casos de suspensión o cancelación de licencias se procederá como sigue:
+En los casos de suspensión o cancelación de licencias de conducir, las autoridades en materia de seguridad vial en el Estado, a través de los convenios que para tal efecto se suscriban, deberán actualizar y asentar en el Registro Estatal que refiere el artículo 99 de la presente Ley, las causas que motivaron y los hechos que dieron causa a la suspensión o cancelación, en un término no mayor a 10 días hábiles siguientes al levantamiento y notificación de la sanción que corresponda.
 
-I. Suspensión: El titular deberá reintegrar la licencia a la SSP en un término de cinco días contados a partir de la notificación de la suspensión correspondiente; o
+> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2024)</small>
 
-II. Cancelación: El titular deberá reintegrar la licencia a la SSP en un término de cinco días contados a partir de la notificación. Se registrará la cancelación en el archivo que al efecto lleve, y no expedirá nueva licencia, hasta en tanto se subsane la infracción o se cumpla el término o condición establecido.
-
-La contravención al deber de restituir la licencia en los casos de suspensión o cancelación será sancionada con una multa de 25 a 50 unidades de medida y actualización, para lo cual deberá tomarse en cuenta el tiempo que haya transcurrido en exceso desde que haya fenecido el plazo a que se refieren las Fracciones anteriores y el día en que efectivamente el conductor restituya la licencia o la autoridad lo requiera para ello.
+ARTÍCULO 112 BIS.- Las reglas establecidas para la suspensión o cancelación de las licencias para conducir, así como las sanciones previstas en esta Ley, serán aplicables, en lo conducente, al régimen administrativo de los permisos de conducir, en los términos de la misma.
 
 ###### ARTÍCULO 113.
 
@@ -6162,3 +6246,39 @@ P.O. 20 DE MAYO DE 2024.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 704.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo Estatal deberá llevar a cabo las modificaciones reglamentarias correspondientes para el cumplimiento del presente Decreto, en un plazo no mayor a 120 días contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Seguridad Pública del Estado de Aguascalientes, deberá llevar a cabo la suscripción de los convenios y/o acuerdos de coordinación y colaboración necesarios para el cumplimiento del presente Decreto, previo a la implementación de herramientas y/o plataforma digital correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Para efecto de que las licencias y permisos de conducir se les reconozca su validez en cuanto a su vigencia en territorio nacional, se dará aviso a las Entidades Federativas y al Gobierno Federal, a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La implementación, expedición y renovación de la licencia y permiso digital para conducir, se regirá de conformidad con los lineamientos correspondientes que para tal efecto emita la Secretaría de Seguridad Pública del Estado de Aguascalientes.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su despacho por las unidades administrativas responsables de los mismos, conforme a las disposiciones jurídicas aplicables.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo Estatal, a través de la Secretaría de Seguridad Pública del Estado de Aguascalientes, contará con un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, para la implementación de las herramientas y/o plataforma digital a las que se refiere el mismo.
+
+###### ARTÍCULO OCTAVO.
+
+Quedan sin efectos todas aquellas disposiciones normativas y reglamentarias que se opongan al presente Decreto.
