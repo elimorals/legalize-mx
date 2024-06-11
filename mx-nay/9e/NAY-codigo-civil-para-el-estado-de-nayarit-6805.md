@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2024-02-23"
+last_updated: "2024-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE FEBRERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -3247,6 +3245,10 @@ En este supuesto, con base en el interés superior del menor, éste quedará baj
 
 La patria potestad podrá ser limitada cuando el titular de ésta incurra en conductas de violencia familiar previstas en este Código, en contra de las personas sobre las cuales la ejerza, en consecuencia podrá modificarse o restringirse el régimen de visitas y convivencias que en su caso se tengan decretadas, a fin de proteger la integridad física y psicológica de los menores de edad.
 
+> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2024)</small>
+
+Asimismo, el juzgador deberá determinar cuál es el ambiente más propicio para el desarrollo integral del menor y, por tanto, cuál es el régimen de guarda y custodia idóneo para el caso en concreto.
+
 > <small>(REFORMADO, P.O. 5 DE MAYO DE 2007)</small>
 
 ###### Artículo 409.
@@ -3303,7 +3305,9 @@ Para los efectos del artículo anterior, los que ejerzan la patria potestad o te
 
 Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole.
 
-Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2024)</small>
+
+Queda prohibido que la madre, padre o cualquier persona que ejerza la patria potestad, tutela o guarda, custodia y crianza de niñas, niños y adolescentes, utilice el castigo corporal o humillante como forma de corrección o disciplina de niñas, niños o adolescentes, además, tendrán la obligación de protegerles contra toda forma de violencia física, psicológica, sexual y/o cualquier otra que le cause daño o perjuicio.
 
 La facultad de corregir no implica infligir a los menores de edad castigos corporales y humillantes o actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 316 A de este Código.
 
@@ -16838,3 +16842,9 @@ P.O. 18 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT, EN MATERIA DE PÉRDIDA Y SUSPENSIÓN DE PATRIA POTESTAD".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 11 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
