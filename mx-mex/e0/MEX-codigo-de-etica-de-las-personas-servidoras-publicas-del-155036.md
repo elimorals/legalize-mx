@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-etica-de-las-personas-servidoras-publicas-del-155036"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-17"
-last_updated: "2024-05-27"
+last_updated: "2024-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE ETICA DE LAS PERSONAS SERVIDORAS PUBLICAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE JUNIO DE 2024 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MAYO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 11 DE JUNIO DE 2024.]</small>
 
 Código publicado en la Sección Primera del Número 116 de la Gaceta del Gobierno del Estado de México, el viernes 17 de diciembre de 2021.
 
@@ -99,8 +99,6 @@ El presente Código, es el instrumento que contiene los principios y valores con
 
 El lenguaje empleado en el presente Código, no busca generar ninguna distinción, ni marcar diferencias entre hombres y mujeres, por lo que las referencias o alusiones en la redacción hechas hacia un género representan a toda persona servidora pública. En la elaboración del Código de Conducta, el Comité de Ética, deberá considerar utilizar un lenguaje claro, incluyente y no sexista.
 
-> <small>[N. DE E. VÉASE LA LITERALIDAD DEL ACUERDO PUBLICADO EN LA G.G. DE 27 DE MAYO DE 2024, PÁGINAS DE LA 47 A LA 48.]</small>
-
 ###### Artículo 5.
 
 Para efectos del presente Código, se entenderá por:
@@ -113,43 +111,31 @@ b) Código de Conducta: Al Código de Conducta para las personas servidoras púb
 
 c) Código de Ética: Al Código de Ética de las personas servidoras públicas del Tribunal de Justicia Administrativa del Estado de México.
 
-d) Comité: Al Comité de Ética del Tribunal de Justicia Administrativa del Estado de México.
+(REFORMADO [N. DE E. ADICIONADO], G.G. 27 DE MAYO DE 2024) (F. DE E., G.G. 11 DE JUNIO DE 2024)
 
-> <small>(ADICIONADO, G.G. 27 DE MAYO DE 2024)</small>
+d) Conflicto de interés: A la posible afectación del desempeño imparcial y objetivo de las funciones de las personas servidoras públicas en razón de intereses personales, familiares o de negocios.
 
-d ) (sic) Conflicto de interés: A la posible afectación del desempeño imparcial y objetivo de las funciones de las personas servidoras públicas en razón de intereses personales, familiares o de negocios.
+e) Comité: Al Comité de Ética del Tribunal de Justicia Administrativa del Estado de México.
 
-> <small>[N. DE E. EL CONTENIDO DE ESTE INCISO e) ES SIMILAR AL DEL INCISO f) (sic), G.G. 27 DE MAYO DE 2024]</small>
+(REFORMADO, G.G. 27 DE MAYO DE 2024) (F. DE E., G.G. 11 DE JUNIO DE 2024)
 
-e) Denuncia: A la manifestación por la que una persona hace del conocimiento de las autoridades investigadoras, actos u omisiones de alguna persona servidora pública o particulares que pudieran constituir o vincularse con faltas administrativas previstas en la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+f) Denuncia: Manifestación acerca de actos u omisiones de las personas servidoras públicas, por presuntas vulneraciones a los principios, valores o reglas de integridad, descritas en el Código de Ética o las conductas contempladas en el Código de Conducta, y que se hace del conocimiento al Comité de Ética.
 
-(REFORMADO [N. DE E. ADICIONADO, EL CONTENIDO DE ESTE INCISO f (sic) ES SIMILAR AL DEL INCISO e)], G.G. 27 DE MAYO DE 2024)
+g) Ley de Responsabilidades Administrativas: Ley de Responsabilidades Administrativas del Estado de México y Municipios.
 
-f ) (sic) Denuncia: Manifestación acerca de actos u omisiones de las personas servidoras públicas, por presuntas vulneraciones a los principios, valores o reglas de integridad, descritas en el Código de Ética o las conductas contempladas en el Código de Conducta, y que se hace del conocimiento al Comité de Ética.
+h) Lineamientos: Al acuerdo por el que se dan a conocen los Lineamientos para la emisión del Código de Ética a que se refiera el artículo 16 de la Ley General de Responsabilidades Administrativas.
 
-f) Ley de Responsabilidades Administrativas: Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+i) Personas servidoras públicas: Aquéllas que desempeñan un empleo, cargo o comisión en el Tribunal de Justicia Administrativa del Estado de México.
 
-g) Lineamientos: Al acuerdo por el que se dan a conocen los Lineamientos para la emisión del Código de Ética a que se refiera el artículo 16 de la Ley General de Responsabilidades Administrativas.
+(REFORMADO, G.G. 27 DE MAYO DE 2024) (F. DE E., G.G. 11 DE JUNIO DE 2024)
 
-h) Personas servidoras públicas: Aquéllas que desempeñan un empleo, cargo o comisión en el Tribunal de Justicia Administrativa del Estado de México.
+j) Principios Rectores: Los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, economía, disciplina, profesionalismo, objetividad, transparencia, rendición de cuentas, competencia por mérito, eficacia, integridad y equidad.
 
-> <small>[N. DE E. EL CONTENIDO DE ESTE INCISO i) ES SIMILAR AL DEL INCISO j (sic), G.G. 27 DE MAYO DE 2024]</small>
+k) Reglas de Integridad: Las conductas para el ejercicio del empleo, cargo o comisión de las personas servidoras públicas del Tribunal, que constituyen una guía para identificar acciones que puedan vulnerar lo previsto en cada una de ellas.
 
-i) Principios Rectores: Los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, economía, disciplina, profesionalismo, objetividad, transparencia, rendición de cuentas, competencia por mérito, eficacia, integridad, equidad, cortesía, independencia, justicia y secreto profesional.
+l) Tribunal: Al Tribunal de Justicia Administrativa del Estado de México.
 
-(REFORMADO [N. DE E. ADICIONADO, EL CONTENIDO DE ESTE INCISO j (sic) ES SIMILAR AL DEL INCISO i)], G.G. 27 DE MAYO DE 2024)
-
-j ) (sic) Principios Rectores: Los principios de legalidad, honradez, lealtad, imparcialidad, eficiencia, economía, disciplina, profesionalismo, objetividad, transparencia, rendición de cuentas, competencia por mérito, eficacia, integridad y equidad.
-
-j) Reglas de Integridad: Las conductas para el ejercicio del empleo, cargo o comisión de las personas servidoras públicas del Tribunal, que constituyen una guía para identificar acciones que puedan vulnerar lo previsto en cada una de ellas.
-
-k) Tribunal: Al Tribunal de Justicia Administrativa del Estado de México.
-
-> <small>[N. DE E. EL CONTENIDO DE ESTE INCISO l) ES SIMILAR AL DEL INCISO m), G.G. 27 DE MAYO DE 2024]</small>
-
-l) Valores: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación, liderazgo y responsabilidad.
-
-(REFORMADO [N. DE E. ADICIONADO, EL CONTENIDO DE ESTE INCISO m) ES SIMILAR AL DEL INCISO l)], G.G. 27 DE MAYO DE 2024)
+(REFORMADO, G.G. 27 DE MAYO DE 2024) (F. DE E., G.G. 11 DE JUNIO DE 2024)
 
 m) Valores: Interés público, respeto, respeto a los derechos humanos, igualdad y no discriminación, equidad de género, entorno cultural y ecológico, cooperación y liderazgo.
 
@@ -767,7 +753,9 @@ Dado en la ciudad de Toluca de Lerdo, Estado de México, a los diecisiete días 
 
 G.G. 27 DE MAYO DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO DE FECHA VEINTICUATRO DE MAYO DE DOS MIL VEINTICUATRO, POR EL CUAL SE REFORMA EL CONSIDERANDO II Y SE ADICIONAN LOS CONSIDERANDOS XIV Y XV; ASÍ MISMO SE REFORMAN LOS SIGUIENTES ARTÍCULOS 5, INCISOS B), F), J) Y M); 35, FRACCIÓN XIII; 36, PRIMER PÁRRAFO Y LA FRACCIÓN XV; 37, FRACCIONES I, II, III, VI, VII Y X; 39, FRACCIÓN I; 40, FRACCIONES I, II, VI, X, XIV Y XV; 41, FRACCIÓN II; 43, PRIMER PÁRRAFO, FRACCIONES V, VIII Y XI; 44, PRIMER PÁRRAFO Y FRACCIONES I, III, VI, VII Y IX; 45, FRACCIONES I, VII, IX, X Y XII; 46, PRIMER PÁRRAFO, FRACCIONES I, II Y III; Y 47, PRIMER PÁRRAFO, Y FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX Y X; SE ADICIONA EN LOS ARTÍCULOS 5, INCISO D); 38, FRACCIÓN XIV Y 44, FRACCIÓN VIII; Y SE DEROGAN LOS ARTÍCULOS 22, 23, 24, 25, 34, 36 FRACCIONES II, XVIII Y XIX; 38, FRACCIÓN X; 45, FRACCIONES VIII, XIII Y XIV; Y 47, FRACCIONES XI Y XII DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO".]
+> <small>(F. DE E., G.G. 11 DE JUNIO DE 2024)</small>
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DE FECHA VEINTICUATRO DE MAYO DE DOS MIL VEINTICUATRO, POR EL CUAL SE REFORMA EL CONSIDERANDO II Y SE ADICIONAN LOS CONSIDERANDOS XIV Y XV; ASÍ MISMO SE REFORMAN LOS SIGUIENTES ARTÍCULOS: 5; 35, FRACCIÓN XIII; 36, PRIMER PÁRRAFO Y LA FRACCIÓN XV; 37, FRACCIONES I, II, III, VI, VII Y X; 39, FRACCIÓN I; 40, FRACCIONES I, II, VI, X, XIV Y XV; 41, FRACCIÓN II; 43, PRIMER PÁRRAFO, FRACCIONES V, VIII Y XI; 44, PRIMER PÁRRAFO Y FRACCIONES I, III, VI, VII y IX ; 45, FRACCIONES I, VII, IX, X Y XII; 46, PRIMER PÁRRAFO, FRACCIONES I, II Y III; Y 47, PRIMER PÁRRAFO, Y FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX Y X; SE ADICIONAN EN LOS SIGUIENTES ARTÍCULOS: 38, FRACCIÓN XIV Y 44, FRACCIÓN VIII; Y SE DEROGAN LOS ARTÍCULOS 22, 23, 24, 25, 34, 36 FRACCIONES II, XVIII Y XIX; 38, FRACCIÓN X; 45, FRACCIONES VIII, XIII Y XIV; Y 47, FRACCIONES XI, XII, XIII, XIV, XV, XVI Y XVII DEL CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MÉXICO”.]
 
 PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno del Estado de México", en el Órgano de difusión interno y en la Página Web del Tribunal, así como en los estrados de las Secciones de la Sala Superior, Salas Regionales de Jurisdicción Ordinaria, Salas Especializadas en Materia de Responsabilidades Administrativas, Magistratura Consultiva y Magistratura Supernumeraria; así como en las oficinas de la (sic) Unidades Administrativas del Tribunal.
 
