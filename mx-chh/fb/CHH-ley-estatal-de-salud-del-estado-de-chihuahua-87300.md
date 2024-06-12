@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2024-05-15"
+last_updated: "2024-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -861,6 +861,10 @@ En dichos establecimientos se prohíbe la publicidad y promoción de la utilizac
 
 VII.- Fomentar que en los hospitales públicos y privados que presten servicios de atención materno-infantil, cuenten con la certificación "Hospital Amigo del Niño y de la Niña".
 
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2024)</small>
+
+VIII.- Fomentar la práctica e informar las ventajas del parto natural.
+
 > <small>(ADICIONADO, P.O. 12 DE MAYO DE 2021)</small>
 
 ###### Artículo 67 Bis.
@@ -971,9 +975,9 @@ III.- Climaterio y Menopausia.
 
 Para garantizar el derecho a la salud de las mujeres, la Secretaría dispondrá lo necesario para contar con la infraestructura suficiente, el personal especializado y el equipamiento requerido para atender las necesidades de atención y control de los padecimientos oncológicos. Además elaborará los protocolos para la prevención, detección y diagnóstico oportuno de cáncer cérvico-uterino y el cáncer de mama.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2024)</small>
 
-Dentro del protocolo de prevención de cáncer de mama, la Secretaría contará con un mecanismo para identificar pacientes en riesgo derivado de la historia familiar, poniendo a su disposición el estudio molecular genético, así como la atención que sea requerida a partir de los resultados del mismo.
+Dentro del protocolo de prevención de cáncer de mama, la Secretaría contará con un mecanismo para identificar pacientes en riesgo derivado de la historia familiar, poniendo a su disposición el estudio molecular genético, así como la atención médica y psicológica que sea requerida a partir de los resultados del mismo.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2019)</small>
 
@@ -4166,6 +4170,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 15 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0841/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 202, APARTADO A), LA FRACCIÓN IV, DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0855/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 67, LA FRACCIÓN VIII, DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0856/2024 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 74, TERCER PÁRRAFO, DE LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
 
