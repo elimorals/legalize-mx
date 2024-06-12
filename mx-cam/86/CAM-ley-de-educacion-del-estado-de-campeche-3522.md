@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2023-12-18"
+last_updated: "2024-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023..
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -821,6 +821,20 @@ V. Proveer de recursos financieros, didácticos y pedagógicos a estancias infan
 
 VI. Las demás que emanen del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y de los demás ordenamientos legales en relación con la educación temprana o inicial.
 
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2024)</small>
+
+###### Artículo 27 Ter.
+
+En educación inicial, el Estado, de manera progresiva generará las condiciones necesarias para la prestación de este servicio en territorio estatal.
+
+Las autoridades educativas, se ajustarán a los principios rectores y objetivos a que se refiere la Ley General a fin de promover programas, campañas y estrategias de difusión y orientación que fomenten la educación inicial anteponiendo el interés superior de la niñez, para un adecuado desarrollo de los educandos durante la primera infancia.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2024)</small>
+
+###### Artículo 27 Quater.
+
+La Secretaría, en coordinación con las autoridades del sector salud, así como los sectores social y privado, fomentarán programas de orientación y educación para una alimentación saludable y nutritiva que mejore la calidad de vida de las niñas y niños menores de tres años.
+
 ### CAPITULO VII. DE LA INCORPORACION DE LAS ESCUELAS PARTICULARES AL SISTEMA ESTATAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
@@ -1582,3 +1596,11 @@ P.O. 18 DE DICIEMBRE DE 2023.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se deroga cualquier disposición de igual o menor jerarquía que contravenga el presente decreto.
+
+P.O. 12 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 358 POR EL QUE “SE ADICIONAN LOS ARTÍCULOS 27 TER Y 27 QUATER AL CAPÍTULO VI BIS DENOMINADO “DE LA EDUCACIÓN INICIAL” DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se oponga al presente decreto.
