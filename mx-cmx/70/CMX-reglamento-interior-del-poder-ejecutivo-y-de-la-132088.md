@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2024-04-18"
+last_updated: "2024-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE JUNIO DE 2024.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -116,17 +116,11 @@ D) Coordinación General de Asesores y Asuntos Internacionales, a la que queda a
 
 2. (DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 15 DE MAYO DE 2019)</small>
+E) (DEROGADO, G.O. 13 DE JUNIO DE 2024)
 
-E) Comisión para la Reconstrucción de la Ciudad de México, a la que quedan adscritas:
+1. (DEROGADO, G.O. 13 DE JUNIO DE 2024)
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
-
-1. Dirección General de Atención a Personas Damnificadas;
-
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
-
-2. Dirección General Operativa.
+2. (DEROGADO, G.O. 13 DE JUNIO DE 2024)
 
 > <small>(REFORMADO, G.O. 15 DE MAYO DE 2019)</small>
 
@@ -582,9 +576,21 @@ B) Dirección General de Política Urbanística;
 
 C) Dirección General de Asuntos Jurídicos; y
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 13 DE JUNIO DE 2024)</small>
 
-D) Dirección General del Ordenamiento Urbano.
+D) Dirección General del Ordenamiento Urbano; y
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+
+E) Comisión para la Reconstrucción de la Ciudad de México;
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+
+1. Dirección General de Atención a Personas Damnificadas;
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+
+2. Dirección General Operativa;
 
 VII. A la Secretaría de Educación, Ciencia, Tecnología e Innovación:
 
@@ -2156,67 +2162,9 @@ XIII Bis. Coordinar el cumplimiento de las obligaciones de Transparencia, Acceso
 
 XIV. Las demás que le señalen las disposiciones jurídicas o administrativas y/o la persona Titular de la Jefatura de Gobierno de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
-
 ###### Artículo 42 Bis.
 
-Corresponde al Titular de la Comisión para la Reconstrucción de la Ciudad de México:
-
-I. Coordinar, evaluar, ejecutar y dar seguimiento al Plan Integral para la Reconstrucción y la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-II. Coordinar las estrategias que las Dependencias, Entidades, Órganos Desconcentrados y/o Alcaldías de la Administración Pública de la Ciudad de México, destinan para la Rehabilitación, Demolición, Reconstrucción y Supervisión;
-
-III. Coordinar y dar seguimiento a las acciones y avances del equipo de trabajo conformado por los enlaces de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías involucradas en los procesos de rehabilitación, demolición y reconstrucción;
-
-IV. Nombrar, con cargo honorifico, a los subcomisionados;
-
-V. Dar seguimiento a los trabajos realizados por los cinco subcomisionados, Comité Científico y de Grietas, Mesa Técnica, Mesa Legal, Comité de Transparencia y Consejo Consultivo;
-
-VI. Llevar a cabo las acciones de mando y coordinación para alcanzar los objetivos y metas propuestos en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-VII. Representar a la Comisión ante las instancias públicas y/o privadas respecto a los temas que conforman el Plan y la Ley, así como verificar el cumplimiento de los acuerdos con las mismas;
-
-VIII. Celebrar, suscribir y expedir los instrumentos y/o actos jurídicos y/o administrativos necesarios para el cumplimiento de las atribuciones de la Comisión;
-
-IX. Gestionar la obtención de recursos o fuentes de financiamiento público y/o privado, para la ejecución de acciones definidas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-X. Realizar el seguimiento y evaluación del Plan y la Ley, de acuerdo con los indicadores establecidos, evaluar su ejecución y los resultados obtenidos;
-
-XI. Cumplir las obligaciones que en materia de transparencia, acceso a la información pública y rendición de cuentas y protección de datos personales establece la normatividad de la materia respecto de la Comisión;
-
-XII. Coordinar y dirigir las reuniones periódicas ordinarias y extraordinarias que convoque con motivo de los avances, acciones y/o temas relacionados con la reconstrucción;
-
-XIII. Organizar y coordinar las acciones del proceso de reconstrucción consistentes en: la rehabilitación, demolición y reconstrucción y supervisión de los inmuebles afectados por el sismo;
-
-XIV. Coordinar a las personas enlaces de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías del Gobierno de la Ciudad, que participan en el proceso de reconstrucción;
-
-XV. Implementar los mecanismos y acciones necesarias para que ningún proceso de reconstrucción de inmuebles afectados se suspenda o retrase con motivo de la acreditación de la propiedad;
-
-XVI. Coordinar los trabajos de la mesa legal para resolver de manera conjunta y canalizar a las instancias competentes los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
-
-XVII. Solicitar informes a la mesa legal para conocer el avance y estado de los asuntos canalizados;
-
-XVIII. Coordinar los trabajos de los subcomisionados, los Comités y el Consejo Consultivo;
-
-XIX. Establecer el mecanismo idóneo para incorporar a las personas damnificadas al Censo Social y Técnico, con la finalidad de que puedan acceder a los beneficios del Plan Integral de Reconstrucción y la Ley para la Reconstrucción Integral de la Ciudad de México a través de la debida planeación; así como realizar un diagnóstico general de los resultados del mismo;
-
-XX. Actualizar o modificar el Plan Integral para la Reconstrucción, conforme las necesidades del proceso de reconstrucción;
-
-XXI. Solicitar los informes necesarios a las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que participan en la Reconstrucción;
-
-XXII. Coordinar, organizar y administrar el apoyo en renta para las personas damnificadas desplazadas;
-
-XXIII. Realizar acuerdos con las Cámaras, Colegios y/o empresas que intervienen en el proceso de reconstrucción, con la finalidad de fijar precios estables a través de un instrumento o catálogo, para la protección de las personas damnificadas;
-
-XXIV. Implementar mecanismos para organizar a las empresas constructoras por zonas, en beneficio de las personas damnificadas y del proceso de reconstrucción;
-
-XXV. Solicitar los recursos necesarios a través de los mecanismos establecidos en las reglas de operación que apruebe el Fideicomiso, para atender las acciones establecidas en el Plan Integral para la Reconstrucción y en la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-XXVI. Participar en la Secretaría Técnica del Comité del Fideicomiso para la reconstrucción Integral de la Ciudad de México;
-
-XXVII. Recibir informes periódicos de las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que participan en el proceso de reconstrucción; y
-
-XXVIII. Las demás que resulten necesarias para el debido cumplimiento de sus atribuciones conforme a las disposiciones jurídicas y/o administrativas y aquellas que le instruya la persona Titular de la Jefatura de Gobierno.
+(DEROGADO, G.O. 13 DE JUNIO DE 2024)
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -2602,97 +2550,13 @@ XXXVI. (DEROGADA, G.O. 15 DE MAYO DE 2019)
 
 XXXVII. Las demás que le señalen las disposiciones jurídicas y/o administrativas aplicables y/o aquellas que le instruyan las personas Titulares de la Secretaría Particular y/o Jefatura de Gobierno de la Ciudad de México.
 
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
-
 ###### Artículo 49 Bis.
 
-Corresponde a la Dirección General de Atención a Personas Damnificadas:
-
-I. Dirigir, organizar, planificar y coordinar las acciones de atención a personas damnificadas contempladas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-II. Atender a las personas damnificadas por el sismo a que se refieren el Plan Integral para la Reconstrucción de la Ciudad de México y la Ley para la Reconstrucción Integral de la Ciudad de México, así como dirigir la ventanilla única de atención a las personas damnificadas;
-
-III. Coordinar acciones, esfuerzos e información para beneficio de las personas damnificadas en el proceso de reconstrucción;
-
-IV. Planear y coordinar la atención de personas damnificadas en las diferentes zonas territoriales en las que se dividió la atención ciudadana;
-
-V. Coordinar e instalar los módulos en las zonas con mayor afectación para brindar orientación y atención;
-
-VI. Coordinar la línea telefónica exclusiva para la atención de las personas damnificadas;
-
-VII. Realizar a través del equipo territorial y de manera conjunta con el equipo técnico, el censo social y técnico de las personas que por alguna razón no hayan sido censadas;
-
-VIII. Dar seguimiento de las solicitudes de atención de las personas damnificadas a través de los canales de comunicación correspondientes;
-
-IX. Organizar las asambleas y/o reuniones informativas en las colonias, barrios, pueblos y/o unidades habitacionales sobre el proceso de reconstrucción;
-
-X. Participar, en coordinación con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías de la Administración Pública de la Ciudad de México, en la programación, organización e implementación de la línea telefónica única de atención a personas damnificadas;
-
-XI. Coordinar con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías, la programación y organización de las jornadas notariales y asesorías legales;
-
-XII. Integrar de manera conjunta con la Dirección General Operativa, el expediente único de las personas damnificadas;
-
-XIII. Participar en la promoción y difusión de las acciones de reconstrucción, acudiendo a instituciones y/u organismos públicos y/o privados, y otros sectores de la sociedad civil;
-
-XIV. Participar en los asuntos tratados y/o los acuerdos tomados en las diferentes reuniones que con motivo de las acciones de reconstrucción se establezcan con las Dependencias, Órganos Desconcentrados, Entidades y/o Alcaldías de gobierno, ciudadanía y/o iniciativa privada;
-
-XV. Proponer y participar en programas de atención de necesidades sociales, en colaboración con sectores y/o grupos organizados de la sociedad;
-
-XVI. Coordinar la intervención, a través de los mecanismos alternativos para la solución de conflictos de personas damnificadas y/o comunidades afectadas;
-
-XVII. Realizar un diagnóstico de la situación legal de los inmuebles afectados;
-
-XVIII. Dar seguimiento a la Mesa Legal permanente, para resolver de manera conjunta los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
-
-XIX. Implementar las acciones de coordinación y/o colaboración con las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, sociedad civil y/o academia para atender el estrés postraumático de las personas y familias afectadas por el sismo a que se refieren el Plan Integral para la Reconstrucción de la Ciudad de México y la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-XX. Impulsar acciones comunitarias para la participación en la intervención para el mejoramiento de barrios y/o pueblos afectados por el sismo a que se refieren el Plan Integral para la Reconstrucción de la Ciudad de México y la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-XXI. Coadyuvar en el proceso de atención e información en las zonas en las que habiten personas damnificadas de Pueblos, Barrios Originarios y/o Comunidades Indígenas Residentes;
-
-XXII. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas (sic) se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Protegidas; y
-
-XXIII. Las demás que resulten necesarias para el debido cumplimiento de sus atribuciones conforme a las disposiciones jurídicas y/o administrativas y aquellas que le instruyan las personas Titulares de la Jefatura de Gobierno y/o de la Comisión para la Reconstrucción de la Ciudad de México.
-
-> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2019)</small>
+(DEROGADO, G.O. 13 DE JUNIO DE 2024)
 
 ###### Artículo 49 Ter.
 
-Corresponde a la Dirección General Operativa:
-
-I. Dirigir, organizar, planificar y coordinar las acciones de dictaminación, demolición, rehabilitación, supervisión contempladas en el Plan Integral para la Reconstrucción de la Ciudad de México y en la Ley para la Reconstrucción Integral de la Ciudad de México;
-
-II. Revisar y dar seguimiento a los anteproyectos, proyectos y ejecución de obras;
-
-III. Organizar las acciones para la organización territorial de las empresas en sus distintos ramos, a fin de realizar el proceso de dictaminación, demolición, reconstrucción y/o rehabilitación de viviendas afectadas;
-
-IV. Organizar y supervisar a las empresas inscritas en el padrón del Programa Integral de Reconstrucción, para definir los Cuadrantes de Atención para el proceso de reconstrucción en cumplimiento al Plan Integral para la Reconstrucción de la Ciudad de México y la ley de la materia;
-
-V. Coordinar y participar en el Comité Científico y de Grietas y en la Mesa Técnica;
-
-VI. Dar seguimiento a los trámites y gestión de las constancias de derechos adquiridos y redensificación;
-
-VII. Informar de manera conjunta con la Dirección General de Atención a Personas Damnificadas sobre el proceso de reconstrucción en barrios, colonias, pueblos y/o edificios;
-
-VIII. Integrar de manera conjunta con la Dirección General de Atención a Personas Damnificadas, el expediente único de las personas damnificadas;
-
-IX. Incorporar en la base de datos del Censo Social y Técnico a las personas que por alguna razón no hayan sido censadas;
-
-X. Establecer los canales de comunicación y/o acción con el Instituto para la Seguridad de las Construcciones, la Secretaría de Desarrollo Urbano y Vivienda, la Secretaría de Administración y Finanzas, el Instituto de Vivienda, la Secretaría de Obras y Servicios y otras Dependencias, Órganos Desconcentrados, Entidades y Alcaldías que forman parte de la Administración Pública de la Ciudad de México, para concretar las labores de la Comisión;
-
-XI. Coordinar los trabajos relativos a trámites, análisis, seguimiento y evaluación de las obras que las empresas realicen, manteniendo comunicación permanente con el Instituto para la Seguridad de las Construcciones, la Secretaría de Desarrollo Urbano y Vivienda y la Secretaría de Obras y Servicios, a fin de garantizar la calidad de las obras, su correcta ejecución, pudiendo emitir opiniones sustentadas que avalen las decisiones tomadas por la Comisión para la Reconstrucción de la Ciudad de México, velando siempre por el beneficio de las personas damnificadas;
-
-XII. Llevar a cabo el seguimiento con el Instituto de Vivienda, a fin de seguir atendiendo a las personas damnificadas que solicitaron un crédito a ese instituto para rehabilitar o reconstruir sus inmuebles. Así mismo, se coordinará con el Comité Científico y de Grietas para definir las zonas de riesgo y cuidar que las obras en dichas zonas, cumplan con las medidas de mitigación y convivencia que el Comité defina;
-
-XIII. Coordinar las acciones de seguimiento y evaluación de la información a través del Portal de la Reconstrucción (administrada por la Secretaría de Administración y Finanzas) y del Censo Técnico y Social;
-
-XIV. Coordinar los mecanismos para dar seguimiento al gasto ejercido en proyectos, obras y apoyos a rentas;
-
-XV. Realizar la vinculación interinstitucional y para el cumplimiento de los objetivos planteados en el Plan Integral para la Reconstrucción de la Ciudad de México y la ley de la materia;
-
-XVI. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas que se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Protegidas; y
-
-XXIII. Las demás que resulten necesarias para el debido cumplimiento de sus atribuciones conforme a las disposiciones jurídicas y/o administrativas y aquellas que le instruyan las personas Titulares de la Jefatura de Gobierno y/o de la Comisión para la Reconstrucción de la Ciudad de México.
+(DEROGADO, G.O. 13 DE JUNIO DE 2024)
 
 #### SECCIÓN VI. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
@@ -6255,6 +6119,164 @@ XIV. Los demás que le atribuyan las leyes y otros ordenamientos.
 ###### Artículo 153.
 
 (DEROGADO, G.O. 2 DE FEBRERO DE 2021)
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+
+###### Artículo 153 Bis.
+
+Corresponde a la persona Titular de la Comisión para la Reconstrucción de la Ciudad de México:
+
+I. Coordinar, evaluar, ejecutar y dar seguimiento a las acciones contempladas en la Ley para la Reconstrucción Integral de la Ciudad de México y Plan Integral para la Reconstrucción de la Ciudad de México;
+
+II. Coordinar las acciones que las Dependencias, Entidades, Órganos Desconcentrados y/o Alcaldías, realicen con motivo de la demolición, rehabilitación, y/o reconstrucción de infraestructura, equipamiento y vivienda, afectados por el sismo a que se refiere la Ley para la Reconstrucción Integral de la Ciudad de México.
+
+III. Nombrar a los subcomisionados en términos de la Ley para la Reconstrucción Integral de la Ciudad de México;
+
+IV. Coordinar y dar seguimiento a los trabajos realizados por los subcomisionados, el Comité Científico y de Grietas, la Mesa Técnica, la Mesa Legal, el Comité de Transparencia y el Consejo Consultivo, órganos colegiados contemplados en la Ley de Reconstrucción Integral de la Ciudad de México;
+
+V. Llevar a cabo las acciones de mando y coordinación para alcanzar los objetivos establecidos en la Ley para la Reconstrucción Integral de la Ciudad de México y en el Plan Integral para la Reconstrucción de la Ciudad de México;
+
+VI. Representar a la Comisión para la Reconstrucción ante las instancias públicas y/o privadas en materia de reconstrucción de conformidad con lo establecido en la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México, así como dar seguimiento a los acuerdos que en su caso se establezcan;
+
+VII. Celebrar, suscribir y expedir los instrumentos, actos jurídicos y/o administrativos necesarios para el cumplimiento de sus atribuciones, así como para llevar a cabo, en su caso, las acciones legales que se deriven de éstos;
+
+VIII. Gestionar la obtención de recursos o fuentes de financiamiento público y/o privado, para la ejecución de acciones definidas en la Ley para la Reconstrucción Integral de la Ciudad de México y en el Plan Integral para la Reconstrucción de la Ciudad de México;
+
+IX. Realizar el seguimiento y evaluación del proceso de Reconstrucción, su ejecución y los resultados obtenidos;
+
+X. Cumplir las obligaciones que en materia de transparencia, acceso a la información pública y rendición de cuentas y protección de datos personales, de conformidad con la normativa aplicable;
+
+XI. Coordinar y conducir las reuniones que se lleven a cabo con motivo de las acciones, avances, y/o temas relacionados con el proceso de Reconstrucción;
+
+XII. Coordinar las acciones de seguimiento técnico y supervisión de la correcta ejecución de las obras de demolición, rehabilitación y/o reconstrucción que se lleven a cabo en los inmuebles afectados por el sismo;
+
+XIII. Establecer los mecanismos y llevar a cabo las acciones que se requieran para que ningún proceso de reconstrucción de inmuebles afectados se suspenda o retrase con motivo de la acreditación de la propiedad;
+
+XIV. Coordinar los trabajos de la mesa legal para resolver de manera conjunta y, en su caso, canalizar a las instancias competentes los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
+
+XV. Establecer el mecanismo para conformar el Censo de las personas damnificadas, con la finalidad de que pueda acceder a los beneficios de la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México;
+
+XVI. Actualizar o modificar el Plan Integral para la Reconstrucción, conforme las necesidades del proceso de reconstrucción;
+
+XVII. Solicitar informes a las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, la mesa legal y órganos colegiados que participen en el proceso de Reconstrucción;
+
+XVIII. Coordinar, las acciones para la integración y administración del padrón de personas damnificadas desplazadas de sus viviendas a causa del sismo, para el pago de apoyo de renta en términos del Plan Integral para la Reconstrucción de la Ciudad de México;
+
+XIX. Realizar acuerdos con las Cámaras, Colegios y/o empresas que intervienen en el proceso de Reconstrucción, con la finalidad de conciliar los costos más bajos, en beneficio de las personas damnificadas;
+
+XX. Implementar mecanismos para seleccionar, organizar y asignar a las empresas demoledoras, proyectistas, constructoras y supervisoras que participen en el proceso de Reconstrucción en beneficio de las personas damnificadas;
+
+XXI. Gestionar los recursos necesarios para atender las acciones del proceso de Reconstrucción en términos de la Ley para la Reconstrucción Integral de la Ciudad de México, el Plan Integral para la Reconstrucción de la Ciudad de México, y conforme a los mecanismos establecidos en las Reglas de Operación que apruebe el Fideicomiso para la Reconstrucción Integral de la Ciudad de México;
+
+XXII. Fungir como Secretaria (o) Técnica (o) del Comité Técnico del Fideicomiso para la Reconstrucción Integral de la Ciudad de México;
+
+XXIII. Coordinar las acciones para determinar las soluciones sobre los tipos de intervención de inmuebles dañados por el sismo;
+
+XXIV. Resolver, gestionar o proponer soluciones a las cuestiones sociales y/o técnicas u otras relacionadas con el Proceso de Reconstrucción que no se encuentra prevista en la Ley, con la finalidad de que éste no se retrase; y
+
+XXV. Las demás que le señalen las disposiciones jurídicas y/o administrativas aplicables y/o que sean necesarias para el cumplimiento de su objeto;
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+
+###### Artículo 153 Ter.
+
+Corresponde a la Dirección General de Atención a Personas Damnificadas:
+
+I. Dirigir, organizar, planificar y coordinar las acciones de atención a personas damnificadas contempladas en la Ley para la Reconstrucción Integral de la Ciudad de México y en el Plan Integral para la Reconstrucción de la Ciudad de México;
+
+II. Dirigir la ventanilla única de atención a las personas damnificadas por el sismo en términos de la normativa aplicable;
+
+III. Informar a las personas damnificadas por el sismo sobre los requisitos y lineamientos generales para acceder a los derechos de la Reconstrucción y brindarles acompañamiento durante su proceso;
+
+IV. Planear y coordinar la atención de personas damnificadas en las diferentes zonas territoriales en las que se dividió la atención ciudadana;
+
+V. Coordinar e instalar los módulos de orientación y atención en las zonas con mayor afectación;
+
+VI. Integrar el censo de las personas damnificadas por el sismo de manera conjunta con la Dirección General Operativa, en términos de la normativa aplicable:
+
+VII. Resolver las solicitudes de atención de las personas damnificadas por el sismo, así como los casos cuya complejidad social requiera una atención especial;
+
+VIII. Organizar y dirigir las asambleas y/o reuniones informativas en las colonias, barrios, pueblos u otros y de vivienda multifamiliar sobre sus proceso (sic) de Reconstrucción;
+
+IX. Coordinar con las dependencias, órganos desconcentrados, entidades y alcaldías, la programación y organización de jornadas notariales y asesoría legales sobre acreditación de propiedad, posesión legítima o causahabientes de personas damnificadas por el sismo;
+
+X. Integrar de manera conjunta con la Dirección General Operativa, los expediente (sic) únicos de las personas damnificadas por el sismo y las carpetas de inmuebles de vivienda multifamiliar en términos de la normativa aplicable;
+
+XI. Promover y difundir las acciones de Reconstrucción con instituciones, organismos públicos y privados, y otros sectores de la sociedad civil para que coadyuven en el proceso de Reconstrucción;
+
+XII. Participar y dar seguimiento a los acuerdos que en materia de Reconstrucción se tomen con las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, ciudadanías e iniciativa privada;
+
+XIII. Promover las (sic) resolución de conflictos entre personas damnificadas y/o comunidades afectadas, que impidan el avance del proceso de Reconstrucción, a través de los mecanismos alternativos para la solución de conflictos;
+
+XIV. Realizar un diagnóstico de la situación legal de los inmuebles afectados.
+
+XV. Dar seguimiento a la Mesa Legal para resolver de manera conjunta los casos de incertidumbre jurídica sobre la propiedad y legítima posesión de los inmuebles afectados por el sismo;
+
+XVI. Impulsar acciones comunitarias para el mejoramiento de barrios y/o pueblos afectados por el sismo a que refiere la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México.
+
+XVII. Coadyuvar en el proceso de atención e información en las zonas en las que habiten personas damnificadas de Pueblos, Barrios Originarios y/o Comunidades Indígenas Residentes;
+
+XVIII. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas que se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Naturales Protegidas; y
+
+XIX. Implementar, en su caso, las acciones de coordinación y/o colaboración con las Dependencias, Órganos Desconcentrados, Entidades, Alcaldías, sociedad civil y/o academia para atender el estrés postraumático de las personas y familias afectadas por el sismo a que se refiere la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México;
+
+XX. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+
+XXI. Las demás que le señalen las disposiciones jurídicas y/o administrativas aplicables y/o que sean necesarias para el cumplimiento de su objeto;
+
+> <small>(ADICIONADO, G.O. 13 DE JUNIO DE 2024)</small>
+
+###### Artículo 153 Quater.
+
+Corresponde a la Dirección General Operativa:
+
+I. Dirigir, organizar, planificar y coordinar las acciones de inspección, dictaminación, demolición, rehabilitación, reconstrucción, seguimiento técnico y supervisión de obras de vivienda, equipamiento y/o infraestructura afectada por el sismo en términos de la normativa aplicable;
+
+II. Revisar y dar visto bueno a los proyectos ejecutivos y programas de obra, de las obras que se realicen como parte del proceso de Reconstrucción, así como llevar a cabo el seguimiento técnico de éstas;
+
+III. Integrar el padrón de empresas que participen en el proceso de Reconstrucción, y organizarlas en función de las necesidades en el territorio para la dictaminación, demolición, reconstrucción y/o rehabilitación de vivienda afectada.
+
+IV. Vigilar que las empresas contratadas para la ejecución y supervisión de las obras que se realicen como parte del proceso de Reconstrucción, cumplan con las obligaciones a su cargo;
+
+V. Coordinar y participar en el Comité Científico y de Grietas y en la Mesa Técnica;
+
+VI. Gestionar las constancias de Derechos Adquiridos y de Redensificación;
+
+VII. Informar de manera conjunta con la Dirección General de Atención a Personas Damnificadas sobre el proceso de reconstrucción en pueblos, barrios y colonias u otros;
+
+VIII. Integrar de manera conjunta con la Dirección General de Atención a Personas Damnificadas, el expediente único de las personas damnificadas por el sismo y las carpetas de inmuebles de vivienda multifamiliar;
+
+IX. Integrar de manera conjunta con la Dirección General de Atención a Personas Damnificadas, el Censo de las personas damnificadas por el sismo;
+
+X. Establecer las relaciones interinstitucionales necesarias con las Dependencias, Órganos Desconcentrados, Entidades y Alcaldías, para la atención y seguimiento técnico de las obras que se realicen como parte del Proceso de Reconstrucción;
+
+XI. Coordinar los trabajos relativos a trámites, análisis, seguimiento y evaluación de las obras que las empresas realicen, manteniendo comunicación permanente con el Instituto para la Seguridad de las Construcciones y la Secretaría de Obras y Servicios, a fin de garantizar la calidad de las obras, su correcta ejecución, pudiendo emitir opiniones sustentadas que avalen las decisiones tomadas por la Comisión para la Reconstrucción de la Ciudad de México, velando siempre por el beneficio de las personas damnificadas;
+
+XII. Llevar a cabo el seguimiento con el Instituto de Vivienda de la Ciudad de México, de las acciones que en materia de Reconstrucción realice para la atención de las personas damnificadas por el sismo;
+
+XIII. Coordinar las acciones de seguimiento y evaluación del proceso de Reconstrucción, así como las (sic) difusión a través del Portal para la Reconstrucción;
+
+XIV. Coordinar los mecanismos para dar seguimiento del gasto ejercido en proyectos, obras y apoyos para rentas, de conformidad con la normativa y disposiciones aplicables;
+
+XV. Realizar la vinculación interinstitucional y para el cumplimiento de los objetivos planteados en la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México;
+
+XVI. Coadyuvar con la Secretaría del Medio Ambiente para la atención de viviendas afectadas que se encuentren en Zonas de Conservación, en Asentamientos Humanos Irregulares o Áreas Naturales Protegidas; y
+
+XVII. Coordinar las acciones del Comité Científico y de Grietas para determinar las zonas de riesgo y cuidar que las obras en dichas zonas cumplan con las medidas de mitigación y seguridad de que requieran:
+
+XVIII. Integrar y administrar el padrón de personas damnificadas desplazadas de sus (sic) vivienda a causa del sismo y gestionar el pago de apoyo para renta en términos del Plan Integral para la Reconstrucción de la Ciudad de México;
+
+XIX. Realizar la revisión de costos y alcances de las obras a ejecutar, a fin de edificar los recursos disponibles para la Reconstrucción.
+
+XX. Solicitar los recursos para atender las acciones del proceso de Reconstrucción en términos de la Ley para la Reconstrucción Integral de la Ciudad de México y el Plan Integral para la Reconstrucción de la Ciudad de México;
+
+XXI. Evaluar y determinar las soluciones sobre los tipos de intervención de inmuebles dañados por el sismo, así como resolver técnicamente los casos de procesos constructivos complejos que requieran una atención especial:
+
+XXII. Emitir las opiniones técnicas que le sean solicitadas en el marco de las acciones que se realicen en el proceso de Reconstrucción;
+
+XXIII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
+
+XXIV. Las demás que le señalen las disposiciones jurídicas y/o administrativas aplicables y/o que sean necesarias para el cumplimiento de su objeto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2021)</small>
 
@@ -15221,3 +15243,17 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. La Consejería Jurídica y de Servicios Legales deberá expedir el Programa de Regularización de Títulos de Fosas a Perpetuidad en Cementerios Civiles de la Ciudad de México, dentro de los 90 días hábiles posteriores a la publicación del presente Decreto. En tanto sea expedido dicho programa seguirán aplicándose las disposiciones del Programa de Regularización de Títulos de Fosas a Perpetuidad en Cementerios Públicos en el Distrito Federal.
 
 CUARTO. Las reformas previstas en el presente Reglamento no deberán implicar cambios en la estructura de las Dependencias involucradas, ni presupuesto adicional al aprobado; por lo que su implementación será a costos compensados.
+
+G.O. 13 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES AL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, RESPECTO A LA COMISIÓN PARA LA RECONSTRUCCIÓN".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el 16 de junio de 2024.
+
+TERCERO. Los recursos humanos, financieros y materiales con que cuente la Comisión de Reconstrucción de la Ciudad de México pasarán a formar parte de la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables, en un plazo no mayor a 90 días a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Dentro de un plazo no mayor a 180 días contados a partir de la entrada en vigor del presente Decreto, las autoridades competentes deberán realizar las adecuaciones normativas correspondientes a fin de armonizar la legislación aplicable.
+
+QUINTO. La Secretaría de Desarrollo Urbano y Vivienda deberá adecuar su estructura orgánica y actualizar su Manual de Organización y Procedimientos en los plazos y condiciones que establezca la Secretaría de Administración y Finanzas.
