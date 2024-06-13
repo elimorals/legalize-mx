@@ -4,7 +4,7 @@ identifier: "FED-reglamento-general-de-deberes-militares-931"
 country: "mx"
 rank: "reglamento"
 publication_date: "1937-03-26"
-last_updated: "1943-12-04"
+last_updated: "2024-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=931&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1936-11-10"
 
 REGLAMENTO GENERAL DE DEBERES MILITARES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE DICIEMBRE DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2024.
 
 Reglamento publicado en el Diario Oficial de la Federación el viernes 26 de marzo de 1937.
 
@@ -1779,6 +1779,10 @@ Los cargos de la compañía, escuadrón o batería se confrontarán con los del 
 
 El oficial que reciba, se cerciorará debidamente de la existencia de todo lo que se le entrega, pues terminada ésta y levantada el acta respectiva, será el único responsable del mando y administración de su Unidad. La entrega y recepción se efectuará en un plazo no mayor de 15 días.
 
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2024)</small>
+
+El plazo a que se refiere el párrafo anterior podrá ampliarse hasta por quince días cuando exista alguna causa justificada.
+
 d). Entrega de otras Dependencias
 
 ###### ARTICULO 360.
@@ -1814,3 +1818,11 @@ En cumplimiento a lo dispuesto por la fracción I del artículo 89 de la Constit
 D.O.F. 4 DE DICIEMBRE DE 1943.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto, el cual entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial".
+
+D.O.F. 13 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 359 DEL REGLAMENTO GENERAL DE DEBERES MILITARES".]
+
+PRIMERO.- El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto aprobado para la Secretaria de la Defensa Nacional, para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
