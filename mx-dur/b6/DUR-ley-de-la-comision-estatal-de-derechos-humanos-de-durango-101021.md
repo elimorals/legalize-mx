@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-la-comision-estatal-de-derechos-humanos-de-durango-10102
 country: "mx"
 rank: "ley"
 publication_date: "2014-05-06"
-last_updated: "2024-03-24"
+last_updated: "2024-06-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101021&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "DUR"
 ---
 # LEY DE LA COMISION ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS, PUBLICADA EN EL P.O. DE 13 DE JUNIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2024 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el martes 6 de mayo de 2014.
 
@@ -1132,3 +1132,17 @@ P.O. 24 DE MARZO DE 2024.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 13 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 576 POR EL QUE SE EXPIDE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS”.]
+
+PRIMERO.- Se abroga la Ley de Comisión Estatal de Derechos Humanos de Durango publicada mediante Decreto 151 en el Periódico Oficial del Gobierno del Estado de Durango número 7 extraordinario, de fecha 06 de mayo de 2014.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+TERCERO.- El cambio de denominación de la Dirección de Difusión y Capacitación de los Derechos Humanos por Dirección de Educación y Formación en Derechos Humanos, no afecta el trámite de los asuntos de su competencia, ni de las relaciones labores del personal adscrito a ella.
+
+CUARTO.- A partir de la entrada en vigor del presente decreto, la Comisión Estatal de Derechos Humanos contará con un plazo hasta por seis meses para emitir la normatividad interna correspondiente al Capitulo XIII denominado "Centro de Certificación y Estudios Especializados".
+
+QUINTO.- Se derogan las disposiciones que se opongan al presente.
