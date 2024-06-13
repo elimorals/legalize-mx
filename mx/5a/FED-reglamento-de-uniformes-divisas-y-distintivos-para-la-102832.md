@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-uniformes-divisas-y-distintivos-para-la-102832"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-16"
-last_updated: "2022-07-12"
+last_updated: "2024-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102832&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-10-13"
 
 REGLAMENTO DE UNIFORMES, DIVISAS Y DISTINTIVOS PARA LA ARMADA DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE JUNIO DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 16 de octubre de 2014.
 
@@ -437,6 +437,10 @@ a) Birrete blanco;
 
 b) Birrete de mal tiempo;
 
+> <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2024)</small>
+
+b Bis) Boina azul marino con chapetón;
+
 c) Boina negra;
 
 > <small>(REFORMADO, D.O.F. 12 DE JULIO DE 2022)</small>
@@ -600,3 +604,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto deberán cubrirse con cargo al presupuesto aprobado a la Secretaría de Marina en el Presupuesto de Egresos de la Federación correspondiente, por lo que no se requerirá de ampliaciones presupuestales y no se incrementará su presupuesto regularizable durante el presente ejercicio fiscal.
+
+D.O.F. 13 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA EL INCISO B BIS DE LA FRACCIÓN XXV DEL ARTÍCULO 33 DEL REGLAMENTO DE UNIFORMES, DIVISAS Y DISTINTIVOS PARA LA ARMADA DE MÉXICO".]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO: Se derogan todas las disposiciones administrativas que se opongan al presente decreto.
