@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-de-justicia-administrativa-del-122616
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-07-19"
-last_updated: "2023-12-20"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -107,9 +107,17 @@ XV. Salas de Instrucción, a las Salas encargadas de conocer asuntos jurisdiccio
 
 XVI. Salas Especializadas, a las Salas encargadas de conocer sobre responsabilidades administrativas graves;
 
-XVII. Tribunal, al Tribunal de Justicia Administrativa del Estado de Morelos, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-XVIII. Tribunal Superior, al Tribunal Superior de Justicia del Estado de Morelos.
+XVII. Tribunal, al Tribunal de Justicia Administrativa del Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XVIII. Tribunal Superior, al Tribunal Superior de Justicia del Estado de Morelos, y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XIX. Visitaduría: a la Visitaduría del Tribunal de Justicia Administrativa del Estado de Morelos.
 
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -331,7 +339,9 @@ II. Expedir, modificar y dejar sin efectos el Reglamento;
 
 III. Llevar a cabo la elección del Presidente del Tribunal en los términos de la presente Ley;
 
-IV. Nombrar y remover a los funcionarios y demás servidores públicos del Tribunal, a excepción de los integrantes del órgano interno de control, así como formular y aprobar o rechazar los nombramientos y remociones propuestas por los Magistrados;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+IV. Nombrar y remover a los funcionarios y demás servidores públicos del Tribunal, así como formular y aprobar o rechazar los nombramientos y remociones propuestas por los Magistrados;
 
 V. Conceder licencia a los Magistrados, Secretarios, Actuarios y demás servidores públicos del Tribunal, de las Salas de Instrucción, de las Salas Especializadas y del Pleno Especializado, en los términos previstos en esta Ley y el Reglamento;
 
@@ -415,6 +425,12 @@ Las sesiones del Pleno Especializado serán válidas con la concurrencia de la m
 
 El Pleno Especializado desarrollará las sesiones en los términos previstos para el Pleno del Tribunal y en lo no establecido en el presente artículo se aplicará lo dispuesto en el artículo 16 de esta Ley. Las sesiones del Pleno Especializado en las que se traten asuntos jurisdiccionales serán públicas, excepto cuando por acuerdo fundado de sus integrantes, a propuesta del Presidente del Pleno Especializado, se determine realizarlas en privado y de ellas se guardará registro en audio y video, resguardando los datos personales de conformidad con la Ley (sic) Transparencia y Acceso a la Información Pública del Estado de Morelos y demás normativa aplicable. Las sesiones de este Pleno deberán ser transmitidas en vivo a través de los medios electrónicos con los que cuente el Tribunal.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+###### Artículo 19 Bis.
+
+Para su debido funcionamiento el Pleno Especializado contará con una Secretaría General y una Actuaría, quienes serán designados a propuesta del Magistrado Presidente del Pleno Especializado y tendrán la duración del cargo del Presidente que los haya propuesto.
+
 ### Capítulo VI. Del Presidente del Pleno Especializado
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2018)</small>
@@ -457,9 +473,15 @@ VIII. Ejecutar los acuerdos dictados por el Pleno Especializado, dando cuenta a 
 
 IX. Informar al Pleno, cuando ello le fuere solicitado, acerca de las medidas administrativas adoptadas en el ejercicio de sus facultades;
 
-X. Dictar acuerdos para el mejor desempeño y despacho de los asuntos jurisdiccionales del Pleno Especializado, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-XI. Las demás que le confieran el Pleno Especializado, la presente Ley, así como otros ordenamientos legales aplicables.
+X. Dictar acuerdos para el mejor desempeño y despacho de los asuntos jurisdiccionales del Pleno Especializado;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XI. Proponer los nombramientos de la persona titular de la Secretaría General de Acuerdos del Pleno Especializado y de la persona titular de la Actuaría del Pleno Especializado, y
+
+XII. Las demás que le confieran el Pleno Especializado, la presente Ley, así como otros ordenamientos legales aplicables.
 
 ###### Artículo 24.
 
@@ -513,7 +535,13 @@ XVII. Solicitar al Gobernador del Estado, Secretarios de Despacho, Presidentes M
 
 XVIII. Conocer y resolver en definitiva sobre el procedimiento administrativo sancionatorio en los términos establecidos en la Ley del Notariado del Estado de Morelos.
 
-XIX. Informar mensualmente al Pleno del Tribunal de las labores del Pleno Especializado.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XIX. Informar mensualmente al Pleno del Tribunal de las labores del Pleno Especializado, y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XX. Designar a las personas titulares de la Secretaría General y Actuaría adscritas al Pleno Especializado a propuesta del Magistrado Presidente del Pleno Especializado y tendrán como duración del cargo el periodo que esté en vigencia el Presidente que los haya propuesto.
 
 ### Capítulo VII. De la Integración y Competencia de las Salas de Instrucción y las Salas Especializadas
 
@@ -625,6 +653,8 @@ La compensación procederá previo acuerdo de autorización por parte del Presid
 
 ### Capítulo IX. De los Servidores Públicos del Tribunal
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### Artículo 32.
 
 Para el ejercicio de sus atribuciones, el Tribunal contará, al menos con los servidores públicos siguientes:
@@ -633,43 +663,49 @@ I. Un Secretario General de Acuerdos;
 
 II. Un Actuario adscrito a la Secretaría General de Acuerdos;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2023)</small>
+III. Un Secretario General de Acuerdos del Pleno Especializado;
 
-III. Dos Secretarios de Acuerdos adscritos a cada una de las Salas;
+IV. Un Actuario adscrito a la Secretaría General de Acuerdos del Pleno Especializado;
 
-Las Salas Especializadas contaran por lo menos con un Secretario de Acuerdos adicional, derivado del trámite de todos los procedimientos que se lleven a cabo respecto al Pleno Especializado;
+V. Dos Secretarios de Acuerdos adscritos a cada una de las Salas;
 
-IV. Un Actuario adscrito a cada una de las Salas;
+VI. Un Actuario adscrito a cada una de las Salas;
 
-V. Los Secretarios de Estudio y Cuenta necesarios para cada uno de los Magistrados; las Salas Especializadas contaran por lo menos con un secretario de estudio y cuenta adicional derivado de la elaboración de proyectos de sentencia relacionados con los recursos previstos en el artículo 25 de esta Ley;
+VII. Un Visitador;
 
-VI. Un Jefe de Departamento de Administración;
+VIII. Los Secretarios de Estudio y Cuenta necesarios para cada uno de los Magistrados;
 
-VII. El personal administrativo que conforme a las necesidades del servicio se requiera y que se encuentre previsto en el Reglamento del Tribunal y conforme al presupuesto de egresos del Tribunal;
+IX. Las Salas Especializadas contaran por lo menos con un secretario de estudio y cuenta, y un Secretario de Acuerdos adicional derivado de la elaboración de proyectos de sentencia y trámite relacionados con los recursos previstos en el artículo 25 de esta Ley;
 
-VIII. Un Asesor Jurídico;
+X. Un Jefe de Departamento de Administración;
 
-IX. El personal de Informática necesario, conforme al presupuesto de egresos autorizado del Tribunal, y
+XI. El personal administrativo que conforme a las necesidades del servicio se requiera y que se encuentre previsto en el Reglamento del Tribunal y conforme al presupuesto de egresos del Tribunal;
 
-X. El personal eventual que requiera el buen despacho de los asuntos, conforme a la disponibilidad presupuestal correspondiente.
+XII. Un Asesor Jurídico;
+
+XIII. El personal de informática necesario, conforme al presupuesto de egresos autorizado del Tribunal, y
+
+XIV. El personal eventual que requiera el buen despacho de los asuntos, conforme a la disponibilidad presupuestal correspondiente.
 
 #### Sección Primera. Del Secretario General de Acuerdos
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### Artículo 33.
 
-El Secretario General de Acuerdos cuenta con las atribuciones siguientes:
+La persona titular de la Secretaría General de Acuerdos del Pleno del Tribunal, tendrá las atribuciones siguientes:
 
-I. Acordar con el Presidente del Pleno y el Presidente del Pleno Especializado lo relativo a las sesiones;
+I. Acordar con el Presidente del Pleno lo relativo a las sesiones;
 
-II. Preparar las sesiones tanto del Pleno, así como del Pleno Especializado oportunamente incluyendo los asuntos de la orden del día; tratándose de expedientes jurisdiccionales, listará los asuntos y enviará la relación mediante oficio a cada uno de los integrantes del Pleno y del Pleno Especializado, por lo menos con cuarenta y ocho horas de antelación a la celebración de la sesión;
+II. Preparar las sesiones del Pleno oportunamente incluyendo los asuntos de la orden del día; tratándose de expedientes jurisdiccionales, listará los asuntos y enviará la relación mediante oficio a cada uno de los integrantes del Pleno, por lo menos con cuarenta y ocho horas de antelación a la celebración de la sesión;
 
-III. Estar presente en todas las sesiones del Pleno y del Pleno Especializado, teniendo en ellas voz informativa;
+III. Estar presente en todas las sesiones del Pleno, teniendo en ellas voz informativa;
 
-IV. Levantar las actas respectivas, recabando las firmas de los Magistrados, tomar la votación de los mismos y hacer el cómputo respectivo; presentar al Pleno y al Pleno Especializado el proyecto de las actas, dentro de los cinco días hábiles siguientes;
+IV. Levantar las actas respectivas, recabando las firmas de los Magistrados, tomar la votación de los mismos y hacer el cómputo respectivo; presentar al Pleno el proyecto de las actas, dentro de los cinco días hábiles siguientes;
 
-V. Autorizar con su firma las resoluciones del Pleno y del Pleno Especializado;
+V. Autorizar con su firma las resoluciones del Pleno;
 
-VI. Supervisar las publicaciones en el Boletín Electrónico;
+VI. Supervisar las publicaciones en la página de internet de Tribunal;
 
 VII. Proporcionar a los Magistrados los datos e informes que le soliciten para el despacho de los asuntos del Tribunal;
 
@@ -685,9 +721,9 @@ XII. Expedir las certificaciones que el propio Tribunal o la Ley le encomienden;
 
 XIII. Dar fe de los acuerdos del Presidente en los asuntos de trámite;
 
-XIV. Conservar en su poder el sello del Pleno y del Pleno Especializado y utilizarlo en el cumplimiento de sus atribuciones;
+XIV. Conservar en su poder el sello del Pleno y utilizarlo en el cumplimiento de sus atribuciones;
 
-XV. Tener a su cargo y bajo su responsabilidad el archivo del Pleno y del Pleno Especializado del Tribunal en general;
+XV. Tener a su cargo y bajo su responsabilidad el archivo del Pleno del Tribunal en general;
 
 XVI. Turnar las demandas a las Salas de Instrucción y Salas Especializadas, distribuyéndolas en orden aleatorio y equitativo conforme a lo establecido en el Reglamento;
 
@@ -695,19 +731,67 @@ XVII. Supervisar el funcionamiento de la Oficialía de Partes;
 
 XVIII. Recabar la información y datos para el informe anual del Presidente del Tribunal;
 
-XIX. Llevar el registro de cédulas profesionales y de correo electrónico para la representación procesal y las notificaciones que en su caso se puedan realizar
+XIX. Llevar el registro de cédulas profesionales y de correo electrónico para la representación procesal y las notificaciones que en su caso se puedan realizar;
 
-XX. Auxiliar a las Salas, al Pleno y Pleno Especializado en sus funciones;
+XX. Auxiliar a las Salas y al Pleno en sus funciones;
 
 XXI. Supervisar que los expedientes se encuentren debidamente firmados, foliados y sellados, cuando sean entregados para su debido resguardo en el archivo judicial;
 
 XXII. Supervisar el funcionamiento del archivo judicial, así como su concentración y disponibilidad para su consulta;
 
-XXIII. Verificar que se efectúe el registro (sic) firmas, rúbricas y sellos del Tribunal;
+XXIII. Verificar que se efectúe el registro de firmas, rúbricas y sellos del Tribunal;
 
 XXIV. Llevar el control de los asuntos respecto de los cuales los Magistrados de las Salas se excusen de conocer, y
 
-XXV. Las demás que señalen las disposiciones jurídicas aplicables o le asignen el Pleno y el Pleno Especializado.
+XXV. Las demás que señalen las disposiciones jurídicas aplicables o le asignen el Pleno.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+###### Artículo 33 Bis.
+
+La persona titular de la Secretaría General de Acuerdos del Pleno Especializado, tendrá las siguientes atribuciones:
+
+I. Acordar con el Presidente del Pleno Especializado lo relativo a las sesiones;
+
+II. Preparar las sesiones del Pleno Especializado oportunamente incluyendo los asuntos de la orden del día; tratándose de expedientes jurisdiccionales, listará los asuntos y enviará la relación mediante oficio a cada uno de los integrantes del Pleno Especializado, por lo menos con cuarenta y ocho horas de antelación a la celebración de la sesión;
+
+III. Estar presente en todas las sesiones del Pleno Especializado, teniendo en ellas voz informativa;
+
+IV. Levantar las actas respectivas, recabando las firmas de los Magistrados, tomar la votación de los mismos y hacer el cómputo respectivo;
+
+V. Presentar al Pleno Especializado el proyecto de las actas, dentro de los cinco días hábiles siguientes;
+
+VI. Autorizar con su firma las resoluciones del Pleno Especializado;
+
+VII. Supervisar las publicaciones en la página de internet del Tribunal en los asuntos que competan al Pleno Especializado;
+
+VIII. Proporcionar a los Magistrados los datos e informes que le soliciten para el despacho de los asuntos del Tribunal;
+
+IX. Expedir los certificados de constancias que obren en los expedientes de la Secretaría General del Pleno Especializado;
+
+X. Dar fe de los actos del Pleno Especializado;
+
+XI. Expedir las certificaciones que el propio Tribunal o la Ley le encomienden;
+
+XII. Dar fe de los acuerdos del Presidente del Pleno Especializado en los asuntos de trámite;
+
+XIII. Conservar en su poder el sello del Pleno Especializado y utilizarlo en el cumplimiento de sus atribuciones;
+
+XIV. Tener a su cargo y bajo su responsabilidad el archivo del Pleno Especializado;
+
+XV. Recabar la información y datos para el informe anual del Presidente del Pleno Especializado y del Presidente del Tribunal;
+
+XVI. Auxiliar a las Salas y al Pleno en sus funciones, cuando así se le faculte;
+
+XVII. Supervisar que los expedientes se encuentren debidamente firmados, foliados y sellados, cuando sean entregados para su debido resguardo en el archivo judicial;
+
+XVIII. Supervisar el funcionamiento del archivo judicial del Pleno Especializado, así como su concentración y disponibilidad para su consulta;
+
+XIX. Verificar que se efectúe el registro de firmas, rúbricas y sellos del Pleno Especializado;
+
+XX. Llevar el control de los asuntos respecto de los cuales los Magistrados que integran el Pleno Especializado se excusen de conocer, y
+
+XXI. Las demás que señalen las disposiciones jurídicas aplicables o le asigne el Pleno Especializado.
 
 #### Sección Segunda. De la Oficialía de Partes
 
@@ -859,9 +943,11 @@ XI. Las demás que le encomiende el Pleno, el Presidente del Tribunal, esta Ley 
 
 El Área de Informática dependerá del Departamento de Administración y contará con el personal necesario para el cumplimiento de sus funciones, conforme al presupuesto autorizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### Artículo 41.
 
-Las personas que ocupen el cargo de Secretario General de Acuerdos, Secretarios de Acuerdos, Secretario de Estudio y Cuenta o Actuario, deberán cumplir con los requisitos siguientes:
+Las personas que ocupen el cargo de Secretario General de Acuerdos, Secretario General de Acuerdos del Pleno Especializado, Secretarios de Acuerdos, Secretario de Estudio y Cuenta o Actuario, deberán cumplir con los requisitos siguientes:
 
 I. Ser mexicano por nacimiento, preferentemente morelense;
 
@@ -1031,7 +1117,9 @@ El Órgano Interno de Control, es una unidad administrativa dotada de autonomía
 
 Estará facultado para presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
-El Órgano interno de control del Tribunal contará con un titular el cual será designado por el Congreso del Estado con el voto de las dos terceras partes de sus miembros, de entre una terna propuesta y evaluada por la Comisión de Hacienda, Presupuesto y Cuenta Pública del Congreso del Estado, previa convocatoria pública que emita; tendrá el nivel de Secretario General de Acuerdos del Tribunal, durará seis años en el cargo y sólo podrá ser designado para un periodo más. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+El Órgano interno de control del Tribunal contará con un titular el cual será designado por el Pleno del Tribunal; tendrá el nivel de Secretario General de Acuerdos del Tribunal, durará seis años en el cargo y sólo podrá ser designado para un periodo más. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -1085,11 +1173,17 @@ X. Inspeccionar y vigilar el cumplimiento de las normas y disposiciones relativa
 
 XI. Proponer por conducto de su titular, su presupuesto de egresos ante el Pleno del Tribunal, para que este lo incluya al presupuesto del Tribunal;
 
-> <small>(ADICIONADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-XII. Emitir sus lineamientos, manuales, circulares, formatos y demás disposiciones normativas, que le sean necesarias para el debido ejercicio y cumplimiento de sus atribuciones encomendadas en esta ley, su reglamento, así como en la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable. Así como crear las direccione (sic) y áreas administrativas necesarias para su buen funcionamiento, y;
+XII. Emitir sus lineamientos, manuales, circulares, formatos y demás disposiciones normativas, que le sean necesarias para el debido ejercicio y cumplimiento de sus atribuciones encomendadas en esta ley, su reglamento, así como en la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable. Así como crear las direcciones y áreas administrativas necesarias para su buen funcionamiento;
 
-XIII. Las demás que le atribuyan las disposiciones legales Federales, Estatales y reglamentarias aplicables.
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XIII. Conocer de los procedimientos de responsabilidad administrativa en los términos de la Ley General de Responsabilidades Administrativas, debiendo para tal efecto, tener debidamente instauradas las áreas de investigación y sustanciación correspondientes. El Pleno Especializado del Tribunal, resolverá y ejecutará los procedimientos señalados en este párrafo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2024)</small>
+
+XIV. Las demás que le atribuyan las disposiciones legales Federales, Estatales y reglamentarias aplicables.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1101,17 +1195,67 @@ I. Dirección Jurídica y de Responsabilidades Administrativas, y
 
 II. Dirección de Supervisión y Evaluación de la Gestión Financiera.
 
-Al frente de cada dirección habrá un titular, que será nombrado por el Titular del Órgano Interno de Control del Tribunal.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Al frente de cada dirección habrá un titular, que será nombrado por Pleno del Tribunal;
 
 Así como con el demás personal que le permita contratar su presupuesto.
 
 El Congreso del Estado deberá, dentro del Presupuesto de Egresos del Gobierno del Estado de Morelos que apruebe para cada ejercicio fiscal, desglosar en la asignación presupuestal del Tribunal, la partida que le corresponde al Órgano Interno de Control. La partida que se apruebe para tal fin, nunca podrá ser inferior a la aprobada en el presupuesto del ejercicio fiscal inmediato anterior.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE JUNIO DE 2024)</small>
+
+### Capítulo XII Bis. De la Visitaduría
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+###### Artículo 54 Bis.
+
+La Visitaduría es un órgano auxiliar del Pleno del Tribunal, responsable de inspeccionar el funcionamiento jurisdiccional de las Salas y el desempeño de sus servidores públicos, así como de sustanciar los procedimientos de responsabilidad administrativa en el ámbito de su competencia.
+
+El titular de la Visitaduría será designado por el Pleno del Tribunal; durará seis años en el cargo y solo podrá ser designado para un periodo más. Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
+
+Contará con la estructura necesaria para el desempeño de sus funciones, en términos de las disposiciones reglamentarias y el presupuesto respectivo.
+
+Para ser titular de la visitaduría, deberán reunirse los requisitos establecidos en el artículo 52 del presente ordenamiento. La persona titular de la Visitaduría tendrá el mismo nivel de Secretario General de Acuerdos.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+###### Artículo 54 Ter.
+
+La persona titular de la Visitaduría tendrá las siguientes atribuciones:
+
+I. Elaborar el Programa Anual de Visitas Ordinarias de Inspección y someterlo a la aprobación del Pleno del Tribunal por lo menos en la última sesión ordinaria del año anterior;
+
+II. Realizar visitas de inspección, ordinarias o extraordinarias, así como verificaciones a distancia, en su caso, dando cuenta de su resultado a través del dictamen respectivo al Pleno del Tribunal;
+
+III. Efectuar visitas extraordinarias cuando, a juicio del Pleno del Tribunal existan elementos que hagan presumir irregularidades en el funcionamiento de alguna Sala o bien, en casos urgentes. En la orden correspondiente deberán precisarse los puntos específicos que justifiquen la visita;
+
+IV. El Presidente del Tribunal, podrá instruir la práctica de visitas extraordinarias, debiendo dar cuenta de dicha situación al Pleno en la sesión ordinaria o extraordinaria mas próxima;
+
+V. Autorizar los dictámenes sobre las visitas ordinarias, extraordinarias, así como las verificaciones a distancia, basándose únicamente en los hechos asentados en las actas de visita;
+
+VI. Informar al órgano interno de control, de los hechos o conductas de los servidores públicos y particulares que puedan constituir responsabilidades administrativas, de las que tenga conocimiento en el ejercicio de sus facultades;
+
+VII. Notificar a las y los Magistrados integrantes de las Salas, los dictámenes sobre las visitas ordinarias, extraordinarias y las verificaciones a distancia, una vez que hayan sido autorizados por la propia Visitaduría;
+
+VIII. Enviar al Pleno del Tribunal para su aprobación, los dictámenes sobre las visitas ordinarias, extraordinarias y las verificaciones a distancia;
+
+IX. Elaborar los criterios derivados de los dictámenes aprobados, para someterlos a la consideración del Pleno del Tribunal;
+
+X. Aprobar, por razón fundada, la reprogramación de visitas que se determinen, lo que deberá comunicarse a la Sala correspondiente y al Pleno del Tribunal;
+
+XI. Vigilar que los procedimientos de inspección, de supervisión y las actas que se levanten, se ajusten a los lineamientos determinados por el Pleno del Tribunal, así como la demás normativa aplicable;
+
+XII. Rendir los informes que sean requeridos por el Pleno del Tribunal o su Presidente;
+
+XIII. Informar al Pleno del Tribunal de cualquier queja o denuncia que sea presentada ante la Visitaduría Judicial, el Pleno determinará el turno que corresponda, y
+
+Las demás que le confiera el Reglamento, así como los Acuerdos y disposiciones que en la materia emita el Pleno del Tribunal.
+
 ### Capítulo XIII. De los Impedimentos y de las Excusas
 
 > <small>(F. DE E., 15 DE NOVIEMBRE DE 2017)</small>
-
-### Capítulo IV (SIC). Recusación
 
 ###### Artículo 55.
 
@@ -1157,9 +1301,7 @@ Cuando el Magistrado exponga el impedimento para conocer del asunto, se ordenar�
 
 Cuando el impedimento sea de un Magistrado el Pleno Especializado, la remisión se hará al Pleno para que éste califique, y en su caso, éste determine el Magistrado que deba suplirlo, por la votación de la mayoría de sus integrantes.
 
-### Capítulo XIII (SIC). De las Ausencias
-
-> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
+### Capítulo IV (SIC). Recusación
 
 ###### Artículo 58.
 
@@ -1237,7 +1379,7 @@ En el supuesto de que la sentencia declare improcedente o no probada la causa de
 
 Además, se impondrá al recusante una multa hasta de doscientas veces el valor de la Unidad de Medida y Actualización.
 
-### Capítulo XIV. De las Responsabilidades
+### Capítulo XIII (SIC). De las Ausencias
 
 > <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
@@ -1253,7 +1395,7 @@ Las ausencias absolutas o definitivas serán cubiertas por el Magistrado que par
 
 Las faltas temporales del Secretario General de Acuerdos serán suplidas por el Actuario adscrito a la Secretaría General o, a falta de este, por la persona que al efecto designe el Pleno.
 
-### Capítulo XV. Del Procedimiento Administrativo
+### Capítulo XIV. De las Responsabilidades
 
 > <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
@@ -1328,6 +1470,10 @@ VI. No turnar inmediatamente las promociones a quien corresponda;
 VII. No cumplir con diligencia el servicio que tenga encomendado y cometer cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique el ejercicio indebido de un empleo, cargo o comisión, y
 
 VIII. Incurrir en falta de probidad, honradez o proceder en contra de disposiciones de orden público en el desempeño de su cargo.
+
+### Capítulo XV. Del Procedimiento Administrativo
+
+> <small>(F. DE E., P.O. 15 DE NOVIEMBRE DE 2017)</small>
 
 ###### Artículo 76.
 
@@ -1590,3 +1736,13 @@ SEXTA. Se ratifica el oficio emitido por el Presidente de la Mesa Directiva del 
 SÉPTIMA. En un plazo no mayor a los sesenta días naturales, el Tribunal de Justicia Administrativa del Estado de Morelos, hará las modificaciones a su reglamentación interna, para dar cumplimiento a lo ordenado en el presente ordenamiento.
 
 OCTAVA. Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente ordenamiento.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL NOVECIENTOS SESENTA Y TRES.- POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, EN MATERIA DE ORGANIZACIÓN INTERNA”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de Difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de Difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Tribunal de Justicia Administrativa del Estado de Morelos adecuará su reglamentación correspondiente en un lapso no mayor a los 90 días hábiles.
