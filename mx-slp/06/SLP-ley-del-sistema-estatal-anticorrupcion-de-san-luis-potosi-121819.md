@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-estatal-anticorrupcion-de-san-luis-potosi-12181
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-25"
-last_updated: "2023-12-20"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 25 de mayo de 2017.
 
@@ -325,11 +325,23 @@ VII. No haber sido registrado como candidato, ni haber desempeñado cargo alguno
 
 VIII. No haber sido miembro, adherente o afiliado a algún partido político, durante los tres años anteriores a la fecha de emisión de la convocatoria;
 
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-IX. No ser Secretario o Titular de dependencias y entidades de la administración pública estatal o municipal; Auditora o Auditor Superior del Estado; Fiscal General del Estado; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción y el Fiscal Especializado en Delitos Electorales, a menos que se haya separado de su cargo tres años anteriores del día de su designación, y
+IX. No ser Secretario o Titular de dependencias y entidades de la administración pública estatal o municipal; Auditora o Auditor Superior del Estado; Fiscal General del Estado; Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción y el Fiscal Especializado en Delitos Electorales, a menos que se haya separado de su cargo tres años anteriores del día de su designación;
 
-X. No ostentar cargo en institución eclesiástica, ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación establecida en la Ley Reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+X. No ostentar cargo en institución eclesiástica, ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación establecida en la Ley Reglamentaria del artículo 130 de la Constitución Política de los Estados Unidos Mexicanos, y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 14 DE JUNIO DE 2024)</small>
+
+XI. No estar en alguno de los siguientes supuestos:
+
+a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género.
+
+b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o
+
+c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.
 
 ###### ARTÍCULO 18.
 
@@ -940,6 +952,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0901.- SE REFORMAN LOS ARTÍCULOS 3º SUS FRACCIONES VII A XIII, 4º Y 51; ADICIONA A LOS ARTÍCULOS 3º LAS FRACCIONES XIV Y XV Y 21 EL PÁRRAFO CUARTO; Y DEROGA LOS ARTÍCULOS 20 SU PÁRRAFO CUARTO, 23 SU FRACCIÓN XX Y 40, DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1052.- SE REFORMAN LAS FRACCIONES IX Y X DEL ARTÍCULO 17; Y ADICIONA LA FRACCIÓN XI AL MISMO ARTÍCULO 17, DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
