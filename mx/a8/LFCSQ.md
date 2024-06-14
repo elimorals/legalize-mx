@@ -4,7 +4,7 @@ identifier: "LFCSQ"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2009-06-09"
-last_updated: "2021-05-20"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68760&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCSQ"
 
 LEY FEDERAL PARA EL CONTROL DE SUSTANCIAS QUIMICAS SUSCEPTIBLES DE DESVIO PARA LA FABRICACION DE ARMAS QUIMICAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 9 de junio de 2009.
 
@@ -84,7 +84,9 @@ VI. Autoridad Nacional: Órgano auxiliar del Consejo, cuya finalidad es actuar c
 
 VII. CAS (Chemical Abstracts Service): Identificación numérica única para compuestos químicos, polímeros, secuencias biológicas preparadas y aleaciones, emitido por la Sociedad Química Americana;
 
-VIII. Centro: Centro de Investigación y Seguridad Nacional, órgano desconcentrado de la Secretaría de Gobernación;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+VIII. Centro: Centro Nacional de Inteligencia, órgano desconcentrado de la Secretaría de Seguridad y Protección Ciudadana;
 
 IX. Consejo: El Consejo de Seguridad Nacional previsto en la Ley de Seguridad Nacional;
 
@@ -150,27 +152,47 @@ III. La Secretaría de la Defensa Nacional;
 
 IV. La Secretaría de Marina;
 
-V. La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+V. La Secretaría de Seguridad y Protección Ciudadana;
 
 VI. La Secretaría de Medio Ambiente y Recursos Naturales;
 
 VII. La Secretaría de Economía;
 
-VIII. La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-IX. La Secretaría de Comunicaciones y Transportes;
+VIII. La Secretaría de Agricultura y Desarrollo Rural;
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+IX. La Secretaría de Infraestructura, Comunicaciones y Transportes;
 
 X. La Secretaría de Salud;
 
-XI. La Procuraduría General de la República;
+XI. (DEROGADA, D.O.F. 14 DE JUNIO DE 2024)
 
-XII. El Servicio de Administración Tributaria, y
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+XII. El Servicio de Administración Tributaria;
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+XII Bis. La Agencia Nacional de Aduanas de México, y
 
 XIII. La Autoridad Nacional.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+Asimismo, participará en su implementación la Fiscalía General de la República.
 
 Las autoridades a que se refiere el presente artículo, actuarán en el ámbito de sus respectivas competencias en términos de las disposiciones aplicables, en lo que se refiere al control de las importaciones, exportaciones y demás trámites administrativos respecto de las sustancias químicas del Listado Nacional, así como en la coordinación interinstitucional derivada de la aplicación de la presente Ley y el ejercicio de las demás facultades que les correspondan.
 
 Las dependencias, instituciones y órganos cuyos titulares sean integrantes del Consejo, serán autoridades competentes para aplicar la presente Ley de acuerdo con sus atribuciones legales y demás disposiciones jurídicas, en el marco del esquema de coordinación de acciones previsto en la Ley de Seguridad Nacional y sus disposiciones reglamentarias.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+La persona Titular de la Secretaría de Seguridad y Protección Ciudadana, previa opinión de la Autoridad Nacional, determinará mediante acuerdo que deberá publicarse en el Diario Oficial de la Federación, la adición o supresión de sustancias químicas que se sujetarán o excluirán del Listado Nacional (Apéndice Uno), y actualizará la relación de Estados Parte y No Parte de la Convención (Apéndice Dos).
 
 ###### Artículo 4.
 
@@ -318,15 +340,15 @@ V. Omitan presentar su declaración Inicial, Anual o complementaria.
 
 ### CAPÍTULO TERCERO. AUTORIDAD NACIONAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 12.
 
-La Autoridad Nacional estará presidida por la Secretaría de Gobernación e integrada por representantes de las secretarías de Comunicaciones y Transportes; de la Defensa Nacional; Hacienda y Crédito Público; Marina; Relaciones Exteriores; Seguridad y Protección Ciudadana; así como del Centro. Dichos representantes deberán tener como mínimo el nivel de Subsecretarios de Estado o su equivalente, quienes podrán designar a sus respectivos suplentes, los cuales deberán tener el nivel jerárquico inmediato inferior.
+La Autoridad Nacional estará presidida por la Secretaría de Seguridad y Protección Ciudadana e integrada por representantes de las secretarías de Gobernación; Infraestructura, Comunicaciones y Transportes; de la Defensa Nacional; Hacienda y Crédito Público; Marina; Relaciones Exteriores; así como del Centro. Dichos representantes deberán tener como mínimo el nivel de subsecretaría de Estado o su equivalente, y podrán designar a sus respectivos suplentes, quienes deberán tener el nivel jerárquico inmediato inferior.
 
-> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 2021)</small>
+> <small>(REFORMADO D.O.F. 14 DE JUNIO DE 2024)</small>
 
-Para un mejor conocimiento, por parte de sus integrantes, de los asuntos que se sometan a consideración de la Autoridad Nacional, podrán asistir a sus sesiones, en carácter de invitados, representantes de las secretarías de Agricultura y Desarrollo Rural; Economía; Medio Ambiente y Recursos Naturales; y Salud, así como representantes de otras dependencias o entidades de la Administración Pública Federal, de la Fiscalía General de la República o de algún otro organismo público o privado, cuando los asuntos a tratar así lo requieran, a propuesta de cualquiera de sus integrantes.
+Para un mejor conocimiento, por parte de sus integrantes, de los asuntos que se sometan a consideración de la Autoridad Nacional, podrán asistir a sus sesiones, en carácter de invitados, representantes de las secretarías de Agricultura y Desarrollo Rural; Economía; Medio Ambiente y Recursos Naturales, y Salud, así como representantes de otras dependencias o entidades de la Administración Pública Federal, del Servicio de Administración Tributaria, de la Agencia Nacional de Aduanas de México, de la Fiscalía General de la República o de algún otro organismo público o privado, cuando los asuntos a tratar así lo requieran, a propuesta de cualquiera de sus integrantes.
 
 Para efectos de la presente Ley, la Autoridad Nacional tendrá las siguientes funciones:
 
@@ -966,389 +988,431 @@ ESTADOS PARTE
 
 4. Andorra
 
-5. Antigua y Barbuda
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2024)</small>
 
-6. Arabia Saudita
+5. Angola
 
-7. Argelia
+6. Antigua y Barbuda
 
-8. Argentina
+7. Arabia Saudita
 
-9. Armenia
+8. Argelia
 
-10. Australia
+9. Argentina
 
-11. Austria
+10. Armenia
 
-12. Azerbaiyán
+11. Australia
 
-13. Bahrain
+12. Austria
 
-14. Bangladesh
+13. Azerbaiyán
 
-15. Barbados
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2024)</small>
 
-16. Bélgica
+14. Bahamas
 
-17. Belize
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-18. Benin
+15. Baréin
 
-19. Bielorrusia
+16. Bangladesh
 
-20. Bolivia
+17. Barbados
 
-21. Bosnia Herzegovina
+18. Bélgica
 
-22. Botswana
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-23. Brasil
+19. Belice
 
-24. Brunei
+20. Benin
 
-25. Bulgaria
+21. Bielorrusia
 
-26. Burkina Faso
+22. Bolivia
 
-27. Burundi
+23. Bosnia Herzegovina
 
-28. Bután
+24. Botswana
 
-29. Cabo Verde
+25. Brasil
 
-30. Camboya
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-31. Camerún
+26. Brunei Darussalam
 
-32. Canadá
+27. Bulgaria
 
-33. Chad
+28. Burkina Faso
 
-34. Chile
+29. Burundi
 
-35. China
+30. Bután
 
-36. Chipre
+31. Cabo Verde
 
-37. Colombia
+32. Camboya
 
-38. Comoro
+33. Camerún
 
-39. Congo
+34. Canadá
 
-40. Costa de Marfil
+35. Chad
 
-41. Costa Rica
+36. Chile
 
-42. Croacia
+37. China
 
-43. Cuba
+38. Chipre
 
-44. Dinamarca
+39. Colombia
 
-45. Dominica
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-46. Ecuador
+40. Comoras
 
-47. El Salvador
+41. Congo
 
-48. Emiratos Árabes Unidos
+42. Costa de Marfil
 
-49. Eritrea
+43. Costa Rica
 
-50. Eslovaquia
+44. Croacia
 
-51. Eslovenia
+45. Cuba
 
-52. España
+46. Dinamarca
 
-53. Estados Federados de Micronesia
+47. Dominica
 
-54. Estados Unidos
+48. Ecuador
 
-55. Estados Unidos Mexicanos
+49. El Salvador
 
-56. Estonia
+50. Emiratos Árabes Unidos
 
-57. Etiopía
+51. Eritrea
 
-58. Federación Rusa
+52. Eslovaquia
 
-59. Fiji
+53. Eslovenia
 
-60. Filipinas
+54. España
 
-61. Finlandia
+55. Estados Federados de Micronesia
 
-62. Francia
+56. Estados Unidos
 
-63. Gabon
+57. Estados Unidos Mexicanos
 
-64. Gambia
+58. Estonia
 
-65. Georgia
+59. Etiopía
 
-66. Ghana
+60. Federación Rusa
 
-67. Grecia
+61. Fiji
 
-68. Grenada
+62. Filipinas
 
-69. Guatemala
+63. Finlandia
 
-70. Guinea
+64. Francia
 
-71. Guinea Bissau
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-72. Guinea Ecuatorial
+65. Gabón
 
-73. Guyana
+66. Gambia
 
-74. Haití
+67. Georgia
 
-75. Honduras
+68. Ghana
 
-76. Hungría
+69. Grecia
 
-77. India
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-78. Indonesia
+70. Granada
 
-79. Irán (República Islámica de)
+71. Guatemala
 
-80. Irlanda
+72. Guinea
 
-81. Islandia
+73. Guinea Bissau
 
-82. Islas Cook
+74. Guinea Ecuatorial
 
-83. Islas Marshall
+75. Guyana
 
-84. Islas Salomón
+76. Haití
 
-85. Italia
+77. Honduras
 
-86. Jamaica
+78. Hungría
 
-87. Japón
+79. India
 
-88. Jordania
+80. Indonesia
 
-89. Katar
+81. Irán (República Islámica de)
 
-90. Kazajstán
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2024)</small>
 
-91. Kenia
+82. Iraq
 
-92. Kirguizstán
+83. Irlanda
 
-93. Kiribati
+84. Islandia
 
-94. Kuwait
+85. Islas Cook
 
-95. Latvia
+86. Islas Marshall
 
-96. Lesoto
+87. Islas Salomón
 
-97. Liberia
+88. Italia
 
-98. Libia
+89. Jamaica
 
-99. Liechtenstein
+90. Japón
 
-100. Lituania
+91. Jordania
 
-101. Luxemburgo
+92. Katar
 
-102. Macedonia
+93. Kazajstán
 
-103. Madagascar
+94. Kenia
 
-104. Malasia
+95. Kirguizstán
 
-105. Malawi
+96. Kiribati
 
-106. Mali
+97. Kuwait
 
-107. Malta
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-108. Marruecos
+98. Letonia
 
-109. Mauricio
+99. Lesoto
 
-110. Mauritania
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2024)</small>
 
-111. Mónaco
+100. Líbano
 
-112. Mongolia
+101. Liberia
 
-113. Montenegro
+102. Libia
 
-114. Mozambique
+103. Liechtenstein
 
-115. Namibia
+104. Lituania
 
-116. Nauru
+105. Luxemburgo
 
-117. Nepal
+106. Macedonia
 
-118. Nicaragua
+107. Madagascar
 
-119. Níger
+108. Malasia
 
-120. Nigeria
+109. Malawi
 
-121. Niue
+110. Mali
 
-122. Noruega
+111. Malta
 
-123. Nueva Zelanda
+112. Marruecos
 
-124. Omán
+113. Mauricio
 
-125. Países Bajos
+114. Mauritania
 
-126. Pakistán
+115. Mónaco
 
-127. Palau
+116. Mongolia
 
-128. Panamá
+117. Montenegro
 
-129. Papua Nueva Guinea
+118. Mozambique
 
-130. Paraguay
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2024)</small>
 
-131. Perú
+119. Myanmar
 
-132. Polonia
+120. Namibia
 
-133. Portugal
+121. Nauru
 
-134. Reino Unido de la Gran Bretaña
+122. Nepal
 
-135. República Central Africana
+123. Nicaragua
 
-136. República Checa
+124. Níger
 
-137. República de Corea
+125. Nigeria
 
-138. República de las Maldivas
+126. Niue
 
-139. República de Moldavia
+127. Noruega
 
-140. República Democrática del Congo
+128. Nueva Zelanda
 
-141. República Democrática Popular de Lao
+129. Omán
 
-142. Ruanda
+130. Países Bajos
 
-143. Rumania
+131. Pakistán
 
-144. Samoa
+132. Palau
 
-145. San Kitts y Nevis
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2024)</small>
 
-146. San Marino
+133. Palestina
 
-147. San Vicente y las Granadinas
+134. Panamá
 
-148. Santa Lucía
+135. Papua Nueva Guinea
 
-149. Santa Sede
+136. Paraguay
 
-150. Santo Tomé y Príncipe
+137. Perú
 
-151. Senegal
+138. Polonia
 
-152. Serbia
+139. Portugal
 
-153. Seychelles
+140. Reino Unido de la Gran Bretaña
 
-154. Sierra Leona
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2024)</small>
 
-155. Singapur
+141. República Árabe Siria
 
-156. Sri Lanka
+142. República Central Africana
 
-157. Suazilandia
+143. República Checa
 
-158. Sudáfrica
+144. República de Corea
 
-159. Sudán
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2024)</small>
 
-160. Suecia
+145. República Dominicana
 
-161. Suiza
+146. República de las Maldivas
 
-162. Suriman
+147. República de Moldavia
 
-163. Tailandia
+148. República Democrática del Congo
 
-164. Tajikistan
+149. República Democrática Popular de Lao
 
-165. Tanzania
+150. Ruanda
 
-166. Timor Oriental
+151. Rumania
 
-167. Togo
+152. Samoa
 
-168. Tonga
+153. San Kitts y Nevis
 
-169. Trinidad y Tobago
+154. San Marino
 
-170. Tunisia
+155. San Vicente y las Granadinas
 
-171. Turkmenistán
+156. Santa Lucía
 
-172. Turquía
+157. Santa Sede
 
-173. Tuvalu
+158. Santo Tomé y Príncipe
 
-174. Ucrania
+159. Senegal
 
-175. Uganda
+160. Serbia
 
-176. Uruguay
+161. Seychelles
 
-177. Uzbekistán
+162. Sierra Leona
 
-178. Vanuatu
+163. Singapur
 
-179. Venezuela
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 14 DE JUNIO DE 2024)</small>
 
-180. Vietnam
+164. Somalia
 
-181. Yemen
+165. Sri Lanka
 
-182. Yibuti
+166. Suazilandia
 
-183. Zambia
+167. Sudáfrica
 
-184. Zimbawe
+168. Sudán
+
+169. Suecia
+
+170. Suiza
+
+171. Suriman
+
+172. Tailandia
+
+173. Tajikistan
+
+174. Tanzania
+
+175. Timor Oriental
+
+176. Togo
+
+177. Tonga
+
+178. Trinidad y Tobago
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+179. Túnez
+
+180. Turkmenistán
+
+181. Turquía
+
+182. Tuvalu
+
+183. Ucrania
+
+184. Uganda
+
+185. Uruguay
+
+186. Uzbekistán
+
+187. Vanuatu
+
+188. Venezuela
+
+189. Vietnam
+
+190. Yemen
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+191. Djibouti
+
+192. Zambia
+
+193. Zimbawe
+
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
 ESTADOS NO PARTE
 
-1. Angola
+1. Corea del Norte
 
-2. Bahamas
+2. Egipto
 
-3. Corea del Norte
+3. Israel
 
-4. Egipto
-
-5. Irak
-
-6. Israel
-
-7. Líbano
-
-8. Myanmar
-
-9. República Dominicana
-
-10. Siria
-
-11. Somalia
+4. Sudán del Sur
 
 ...
 
@@ -1447,3 +1511,13 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA EL CONTROL DE SUSTANCIAS QUÍMICAS SUSCEPTIBLES DE DESVÍO PARA LA FABRICACIÓN DE ARMAS QUÍMICAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan aquellas disposiciones que se opongan a lo previsto en el presente Decreto.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los recursos aprobados expresamente para esos fines por la Cámara de Diputados en los respectivos presupuestos de egresos de los ejecutores de gasto correspondientes, por lo que en ningún caso se autorizarán ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
