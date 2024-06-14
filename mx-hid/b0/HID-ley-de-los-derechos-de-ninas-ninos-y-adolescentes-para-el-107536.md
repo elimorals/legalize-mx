@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-05-30"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -993,9 +993,9 @@ I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual, as
 
 II. La corrupción de personas menores de dieciocho años de edad;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-III. Trata de personas, turismo sexual y lenocinio, de personas menores de dieciocho años de edad; abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
+III. Trata de personas, turismo sexual y lenocinio de personas menores de 18 años de edad; abuso sexual infantil, explotación sexual infantil con los sinfines comerciales, no garantizar una vida libre de condiciones de mendicidad, entendiendo por esto toda situación que implique solicitar limosnas o algún tipo de caridad para sí o para terceras personas o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables.
 
 IV. El tráfico de menores;
 
@@ -1223,9 +1223,13 @@ IX. Implementar mecanismos para la atención, canalización y seguimiento de los
 
 X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-XII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
+XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, violencia, abuso sexual o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XII. Elaborar protocolos de actuación sobre situaciones de acoso identificación y prevención de abuso sexual o violencia escolar que afecte a niñas, niños y adolescentes para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
 XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Estatal, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
 
@@ -1687,11 +1691,11 @@ Las niñas, niños y adolescentes gozan del derecho de acceso universal a las Te
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán a las niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 8 Bis de la Constitución Política del Estado de Hidalgo, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
 
-> <small>(ADICIONADO, P.O. 7 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 100 Bis 2.
 
-Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
+Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, a una vida libre de violencia y a la integridad personal, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2024)</small>
 
@@ -2842,3 +2846,15 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 946 POR EL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 70 A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 981 POR EL QUE SE REFORMAN LAS FRACCIONES XI Y XII AL ARTÍCULO 56, Y EL ARTÍCULO 100 BIS 2, A (SIC) LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 983 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
