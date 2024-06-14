@@ -4,7 +4,7 @@ identifier: "SLP-ley-que-establece-el-derecho-de-via-y-su-aprovechamiento-en-119
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-20"
-last_updated: "2023-10-12"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11933&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Número Extraordinario Número Anexo del Periódico Oficial del Estado de San Luis Potosí, el sábado 20 de septiembre de 1997.
 
@@ -70,6 +70,18 @@ a) Caminos vecinales: Son los que comunican las cabeceras municipales con las co
 b) Caminos privados: Aquéllos que sirven para darle salida a un predio o para comunicar dos o más propiedades particulares contiguas; y III.- PUENTES:
 
 Son todas aquellas construcciones de seis metros o más de claro, que sirven para salvar algún obstáculo o falla geográfica y den continuidad a un camino o carretera, o bien que su empleo sea necesario para la fluidez del tráfico y se clasifican según las categorías de los caminos en que se encuentren.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 2o BIS.- En la construcción de nuevas carreteras y autopistas, así como en ampliaciones de las ya existentes, se deberán prever pasos de fauna, y se deberán colocar reductores de velocidad en los puntos críticos.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 2o TER.- Cuando una vía de jurisdicción federal, o estatal corte un asentamiento humano urbano a nivel, y no existan libramientos, deberá considerarse la construcción de pasos peatonales seguros a nivel, para garantizar la permeabilidad entre las zonas urbanas.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 2o QUÁTER.- Las vías interurbanas adentradas en zonas urbanas deberán considerar según su uso, el espacio adecuado para las personas que se trasladan a pie y en bicicleta, así como en su caso, espacio para circulación, ascenso y descenso del transporte público.
 
 ###### ARTICULO 3o.
 
@@ -450,3 +462,11 @@ P.O. 12 DE OCTUBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1053.- SE REFORMAN LOS ARTÍCULOS 1°, LAS FRACCIONES III, XV, XIX, XXV, XXV BIS, XXIX, XXXIII, XXXVIII Y XLIII DEL ARTÍCULO 6°; LA FRACCIÓN II DEL ARTÍCULO 10, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 11; LA FRACCIÓN I DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 15; EL ARTÍCULO 16; EL PÁRRAFO PRIMERO Y LAS FRACCIONES IV, XII Y XIII DEL ARTÍCULO 19; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 29; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 30; LA FRACCIÓN IX DEL ARTÍCULO 31; LA FRACCIÓN III DEL ARTÍCULO 36; EL PÁRRAFO PRIMERO DEL ARTÍCULO 37; LA FRACCIÓN III DEL ARTÍCULO 38; LAS FRACCIONES I, II, Y III DEL ARTÍCULO 44; EL PÁRRAFO PRIMERO Y FRACCIÓN I DEL ARTÍCULO 46; LA DENOMINACIÓN DEL TÍTULO QUINTO Y DE SU CAPÍTULO I; EL ARTÍCULO 49; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 51; EL ARTÍCULO 52; EL PÁRRAFO PRIMERO DEL ARTÍCULO 64; LA FRACCIÓN IV DEL ARTÍCULO 65; 67; 68; LAS FRACCIONES VI, VII Y X DEL ARTÍCULO 72; Y EL ARTÍCULO 76 BIS; ADICIONA LAS FRACCIONES XXXVI BIS, XXXVI TER, XXXVI QUATER Y XXXVI QUINQUES AL ARTÍCULO 6º, EL PÁRRAFO SEGUNDO AL ARTÍCULO 7º; LAS FRACCIONES IX Y X AL ARTÍCULO 11; LOS ARTÍCULOS 11 BIS Y 13 BIS; EL PÁRRAFO TERCERO AL ARTÍCULO 30; EL PÁRRAFO CUARTO AL ARTÍCULO 51; LOS ARTÍCULOS 53 BIS; 64 BIS; Y 81 BIS, DE Y A (SIC) LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XIV ARTÍCULO 89 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 104 BIS; Y ADICIONA LA FRACCIÓN I TER EN EL INCISO A) DEL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LAS FRACCIONES LVII Y XCI DEL ARTÍCULO 4º; EL PÁRRAFO PRIMERO DEL ARTÍCULO 53, LA FRACCIÓN I Y PÁRRAFO ULTIMO DEL ARTÍCULO 54, LA FRACCIÓN III DEL ARTÍCULO 85, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 160 Y EL PÁRRAFO PRIMERO EL ARTÍCULO 169, DE Y A (SIC) LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XXII; Y ADICIONA LAS FRACCIONES XXIII A XXIX, TODAS DEL Y AL ARTÍCULO 36 BIS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EL ARTÍCULO 14 BIS, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XLVI DEL ARTÍCULO 12, EL ARTÍCULO 71 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 133; Y ADICIONA EL ARTÍCULO 17 BIS Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 133, DE Y A (SIC) LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONAN LOS ARTÍCULOS 2° BIS, 2° TER Y 2° QUÁTER, A LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL. SE ADICIONA EL ARTÍCULO 14 BIS, A LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
