@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-468-de-fiscalizacion-superior-y-rendicion-de-122630"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2023-06-13"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122630&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance V al Número 57 del Periódico Oficial del Estado de Guerrero, el martes 18 de julio de 2017.
 
@@ -97,7 +97,9 @@ VIII. Constitución del Estado: La Constitución Política del Estado Libre y So
 
 IX. Cuenta Pública: La Cuenta Pública a que se refiere el artículo 61 fracción XIII de la Constitución Política del Estado de Guerrero y cuyo contenido se establece en los artículos 53 o 55 de la Ley General de Contabilidad Gubernamental.
 
-X. Entes Públicos: Los Poderes Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la administración pública paraestatal, los municipios, dependencias, entidades de la administración pública paramunicipal, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+X. Entes Públicos: Los Poderes Ejecutivo, Legislativo y Judicial, los órganos constitucionales autónomos, los órganos jurisdiccionales que no formen parte del Poder Judicial, las dependencias, entidades de la administración pública paraestatal, los municipios, dependencias, entidades de la administración pública paramunicipal, así como cualquier otro ente sobre el que tenga control sobre sus decisiones o acciones cualquiera de los poderes y órganos públicos citados;
 
 XI. Entidades fiscalizadas: Los Entes Públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título recursos públicos, no obstante que sean o no considerados entidades paraestatales por la Ley de Entidades Paraestatales del Estado y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines;
 
@@ -193,7 +195,9 @@ Las personas a que se refiere este artículo deberán acompañar a la informaci�
 
 La Auditoría Superior del Estado podrá imponer multas, conforme a lo siguiente:
 
-I. De ciento cincuenta a una máxima de dos mil veces el valor diario de la Unidad de Medida y Actualización, cuando los servidores públicos y las personas físicas no atiendan los requerimientos a que se refiere el artículo precedente, salvo que exista disposición legal, mandato judicial que se los impida o por causas ajenas a su responsabilidad;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+I. De 600 a 2000 veces el valor diario de la Unidad de Medida y Actualización, cuando las personas servidoras públicas y las personas físicas no cumplan en tiempo y forma, los requerimientos a que se refiere el artículo anterior de acuerdo a las funciones, atribuciones y obligaciones que la presente Ley les impone, con independencia de las sanciones administrativas y penales que correspondan.
 
 II. En el caso de personas morales, públicas o privadas, la multa consistirá en un mínimo de seiscientas cincuenta a diez mil veces el valor diario de la Unidad de Medida y Actualización;
 
@@ -203,7 +207,9 @@ IV. La reincidencia se sancionará con una multa hasta del doble de la impuesta 
 
 V. Las multas establecidas en esta Ley tendrán el carácter de créditos fiscales, se fijarán en cantidad líquida y se harán efectivas a través de la Secretaría, conforme al procedimiento administrativo de ejecución que establezca el Código Fiscal del Estado y de las demás disposiciones aplicables;
 
-VI. Para imponer la multa que corresponda, la Auditoría Superior del Estado debe oír previamente al presunto infractor y tener en cuenta sus condiciones económicas, así como la gravedad de la infracción cometida y, en su caso, elementos atenuantes, su nivel jerárquico y la necesidad de evitar prácticas tendientes a contravenir las disposiciones contenidas en esta Ley;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+VI. Para imponer la multa que corresponda, la Auditoría Superior del Estado, deberá fundar y motivar la causa de la misma, notificando al infractor y a la Secretaría de Finanzas del Estado, quien deberá enterar mensualmente de los cobros y trámites que se hayan realizado en su cumplimiento.
 
 VII. Las multas que se impongan en términos de este artículo son independientes de las sanciones administrativas y penales que, en términos de las leyes en dichas materias, resulten aplicables por la negativa a entregar información a la Auditoría Superior del Estado, así como por los actos de simulación que se presenten para entorpecer y obstaculizar la actividad fiscalizadora o la entrega de información falsa; y
 
@@ -229,15 +235,25 @@ La Cuenta Pública deberá ser presentada a la Auditoría Superior del Estado a 
 
 Se integrará conforme a lo dispuesto en los artículos 53 o 55 de la Ley General de Contabilidad Gubernamental, y deberá presentarse conforme a los criterios que emita la Auditoría Superior del Estado para tales efectos.
 
-La falta de presentación de la cuenta pública dentro del término establecido será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes y no será impedimento para que la Auditoría Superior del Estado realice su función de fiscalización.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2022)</small>
+La falta de presentación de la Cuenta Pública dentro del término establecido será motivo de una multa de 2000 veces el valor diario de la Unidad de Medida y Actualización, independientemente del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes, y no será impedimento para que la Auditoría Superior del Estado realice su función de fiscalización.
 
-Sin menoscabo de la responsabilidad de los servidores públicos facultados para la presentación de la Cuenta Pública en términos de esta Ley, también podrá ser presentada ante la Auditoría Superior del Estado por los ex servidores públicos de las administraciones salientes por finalizar su gestión constitucional, en el plazo equivalente al otorgado a las administraciones en funciones.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 13 Bis.
 
 (DEROGADO, P.O. 25 DE OCTUBRE DE 2022)
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+###### Artículo 13 Ter.
+
+Derivado de la conclusión del encargo, las personas que manejaron recursos públicos durante su gestión, son corresponsables en la integración de la Cuenta Pública del Ente Fiscalizable en el que se desempeñaron, por lo que deberán cumplir cabalmente con los procesos de entrega recepción que la normatividad estipule, a efecto que toda la información relacionada con su gestión sea debidamente entregada durante el proceso de entrega recepción.
+
+Las autoridades que de acuerdo a la normatividad deban intervenir en la entrega recepción, deberán garantizar en todo momento, la entrega de la información financiera relacionada con sus obligaciones de rendición de cuentas y transparencia.
+
+El Órgano Interno de Control del Ente Fiscalizable deberá levantar acta circunstanciada de la entrega recepción; estableciendo el domicilio de localización de las personas ex servidoras públicas, la constancia de situación fiscal de las y los funcionarios entrantes y salientes, con una fecha de expedición no mayor a tres meses, para garantizar su derecho de audiencia y notificarles personalmente asuntos relativos a los actos de fiscalización.
 
 ###### Artículo 14.
 
@@ -253,7 +269,9 @@ Lo anterior, sin perjuicio de lo previsto en la Ley de Presupuesto y Disciplina 
 
 El Informe Financiero Semestral forma parte de la Cuenta Pública y deberá presentarse a la Auditoría Superior del Estado en la segunda quincena del mes de agosto del ejercicio fiscal que se informe, en los términos que se establezcan en los criterios que para tales efectos se emitan.
 
-La falta de presentación del Informe Financiero Semestral dentro del término establecido, será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+La falta de presentación del Informe Financiero Semestral dentro del término establecido, será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes; así como las sanciones establecidas en el artículo 10 de la presente Ley.
 
 ###### Artículo 16.
 
@@ -309,7 +327,13 @@ Una vez que le sea entregada la Cuenta Pública, podrá realizar las modificacio
 
 II. Establecer los lineamientos técnicos y criterios para las auditorías y su seguimiento, procedimientos, investigaciones, encuestas, métodos y sistemas necesarios para la fiscalización superior;
 
-III. Proponer en los términos de la Ley General de Contabilidad Gubernamental y la Ley de Archivos Generales del Estado Libre y Soberano de Guerrero, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías;
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+II Bis. Concertar y celebrar los convenios con autoridades, entidades o instituciones de los tres órdenes de gobierno que tengan como objetivo el cumplimiento, seguimiento y procedimiento de las auditorias que se realicen de manera presencial o a través de medios electrónicos.
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+III. Proponer en los términos de la Ley General de Contabilidad Gubernamental y la Ley de Archivos del Estado de Guerrero, las modificaciones a los principios, normas, procedimientos, métodos y sistemas de registro y contabilidad; las disposiciones para el archivo, guarda y custodia de los libros y documentos justificativos y comprobatorios del ingreso, gasto y deuda pública; así como todos aquellos elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías;
 
 IV. Proponer al Consejo Estatal de Armonización Contable, en los términos de la Ley General de Contabilidad Gubernamental, modificaciones a la forma y contenido de la información de la Cuenta Pública y a los formatos de integración correspondientes;
 
@@ -371,7 +395,9 @@ XXI. Solicitar a las entidades fiscalizadas información del ejercicio en curso,
 
 Lo anterior sin perjuicio de la revisión y fiscalización que la Auditoría Superior del Estado lleve a cabo conforme a lo contenido en la fracción II del artículo 1 de esta Ley;
 
-XXII. Obtener durante el desarrollo de las auditorías e investigaciones copia de los documentos originales que se tengan a la vista, y certificarlas mediante cotejo con sus originales, y solicitar la documentación en copias certificadas;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXII. Obtener durante el desarrollo de las auditorías e investigaciones copia de los documentos originales que se tengan a la vista, y certificarlas mediante cotejo con sus originales, y solicitar la documentación en copias certificadas y/o dispositivos magnéticos;
 
 XXIII. Expedir certificaciones de los documentos que obren en los archivos de la Auditoría Superior del Estado;
 
@@ -563,13 +589,19 @@ La Auditoría Superior del Estado dará cuenta al Congreso en los Informes Indiv
 
 Si el Auditor Superior del Estado no presenta en el año correspondiente y en los términos de la presente Ley, sin causa justificada, los Informes Individuales y el Informe General, se impondrá la sanción prevista en el artículo 96 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### Artículo 39.
 
-La Auditoría Superior del Estado informará al Congreso, por conducto de la Comisión, del Estado que guarda la solventación de observaciones a las entidades fiscalizadas, respecto a cada uno de los Informes Individuales que se deriven de las funciones de fiscalización.
+La Auditoría Superior del Estado informará al Congreso, por conducto de la Comisión, del estado que guarda la solventación de observaciones a las entidades fiscalizadas, respecto a cada uno de los Informes Individuales que se deriven de las funciones de fiscalización.
 
-Para tal efecto, el reporte a que se refiere este artículo será semestral y deberá ser presentado a más tardar los días primero de los meses de mayo y noviembre de cada año, con los datos disponibles al cierre del primer y tercer trimestres del año, respectivamente.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
-El informe semestral se elaborará con base en los formatos que al efecto establezca la Comisión e incluirá invariablemente los montos efectivamente resarcidos a la Hacienda Pública Estatal y Municipal o al patrimonio de los Entes Públicos Estatales y Municipales, derivados de la fiscalización de la Cuenta Pública y en un apartado especial, la atención a las recomendaciones, así como el Estado que guarden las denuncias penales presentadas y los procedimientos de responsabilidad administrativa promovidos en términos de la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Guerrero y la presente Ley. Asimismo, deberá publicarse en la página de internet de la Auditoría Superior del Estado en la misma fecha en que sea presentado en formato de datos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Guerrero y se mantendrá de manera permanente en la página de internet.
+Para tal efecto, el reporte a que se refiere este artículo será semestral y deberá ser presentado a más tardar los días 1 de los meses de mayo y noviembre de cada año, con los datos disponibles al cierre del primer y tercer trimestres del año, respectivamente.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+El informe semestral deberá contener información sistematizada incluyendo invariablemente los montos efectivamente resarcidos a la Hacienda Pública Estatal y Municipal o al patrimonio de los Entes Públicos Estatales y Municipales, derivados de la fiscalización de la Cuenta Pública y en un apartado especial, la atención a las recomendaciones, así como el Estado que guarden las denuncias penales presentadas y los procedimientos de responsabilidad administrativa promovidos en términos de la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Guerrero y la presente Ley. Asimismo, deberá publicarse en la página de internet de la Auditoría Superior del Estado en la misma fecha en que sea presentado en formato de datos abiertos conforme a lo establecido en la Ley de Transparencia y Acceso a la Información Pública del Estado de Guerrero y se mantendrá de manera permanente en la página de internet.
 
 En dicho informe, la Auditoría Superior del Estado dará a conocer el seguimiento específico de las promociones de los informes de presunta responsabilidad administrativa, a fin de identificar a la fecha del informe las estadísticas sobre dichas promociones identificando también las sanciones que al efecto hayan procedido.
 
@@ -579,9 +611,11 @@ En cuanto a las denuncias penales formuladas ante la Fiscalía Especializada o l
 
 ### Capítulo IV. Acciones y Recomendaciones derivadas de la Fiscalización
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### Artículo 40.
 
-El titular de la Auditoría Superior del Estado enviará a las entidades fiscalizadas, dentro de un plazo de 10 días hábiles siguientes a que haya sido entregado al Congreso, el Informe Individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de 30 días hábiles, presenten la información y realicen las consideraciones pertinentes.
+La persona titular de la Auditoría Superior del Estado notificará a las entidades fiscalizadas, dentro de un plazo de 10 días hábiles siguientes a que haya sido entregado al Congreso, el Informe Individual que contenga las acciones y las recomendaciones que les correspondan, para que, en un plazo de hasta 30 días hábiles, presenten la información y realicen las consideraciones pertinentes.
 
 Con la notificación del informe individual a las entidades fiscalizadas quedarán formalmente promovidas y notificadas las acciones y recomendaciones contenidas en dicho informe, salvo en los casos del informe de presunta responsabilidad administrativa y de las denuncias penales y de juicio político, los cuales se notificarán a los presuntos responsables en los términos de las leyes que rigen los procedimientos respectivos.
 
@@ -1021,11 +1055,13 @@ El titular de la Auditoría Superior del Estado durará en el encargo siete año
 
 Si esta situación se presenta estando en receso el Congreso, la Comisión Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### Artículo 87.
 
-Durante el receso del Congreso, el Auditor Especial que corresponda conforme al Reglamento de la Auditoría, ejercerá el cargo hasta en tanto el Congreso designe al titular de la Auditoría Superior del Estado en el siguiente periodo de sesiones.
+En las ausencias de la persona titular de la Auditoría Superior del Estado serán cubiertas por las personas titulares de las auditorías especiales, en el orden que señale el Reglamento de la Auditoría. En caso de ausencia definitiva, la Comisión dará cuenta al Congreso para que en un plazo no mayor a treinta días emita la convocatoria correspondiente para designar a la persona titular de la Auditoría Superior del Estado.
 
-El titular de la Auditoría Superior del Estado será suplido en sus ausencias temporales por los auditores especiales, en el orden que señale el Reglamento de la Auditoría. En caso de falta definitiva, la Comisión dará cuenta al Congreso para que designe, en términos de esta Ley, al Auditor que concluirá el encargo.
+Quien cubra la ausencia de la o el titular de la Auditoría Superior del Estado, continuará los trabajos de fiscalización y las actividades o funciones que no requieran cambios sustanciales atribuidos exclusivamente a quien ejerce la titularidad. No podrá bajo ninguna circunstancia realizar contrataciones de personal o modificaciones salariales.
 
 ###### Artículo 88.
 
@@ -1049,11 +1085,11 @@ VIII. No haber sido titular de ninguna dependencia, entidad u organismo de la ad
 
 IX. No haber sido dirigente de algún partido político, ni postulado para cargo de elección popular dentro de los tres años anteriores a su designación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 89.
 
-El titular de la Auditoría Superior del Estado tendrá las siguientes atribuciones:
+La persona titular de la Auditoría Superior del Estado tendrá las siguientes atribuciones:
 
 I. Representar legalmente a la Auditoría Superior del Estado, con facultades generales y especiales, y con capacidad de delegarlas, dentro de las controversias en las que la Auditoría Superior del Estado sea parte;
 
@@ -1069,7 +1105,9 @@ VI. Expedir los manuales de organización y procedimientos que se requieran para
 
 Asimismo, expedir las normas para el ejercicio, manejo y aplicación del presupuesto de la Auditoría Superior del Estado, ajustándose a las disposiciones aplicables, así como informar a la Comisión sobre el ejercicio de su presupuesto, y cuando la Comisión le requiera información adicional;
 
-VII. Nombrar al personal de mando superior de la Auditoría Superior del Estado, quienes no deberán haber sido sancionados con la inhabilitación para el ejercicio de un puesto o cargo público;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+VII. Nombrar al personal de mando superior de la Auditoría Superior del Estado, quienes no deberán haber sido sancionadas o sancionados con la inhabilitación para el ejercicio de un puesto o cargo público. Informando a la Comisión para sus efectos.
 
 VIII. Expedir aquellas normas y disposiciones que esta Ley le confiere a la Auditoría Superior del Estado, así como establecer los elementos que posibiliten la adecuada rendición de cuentas y la práctica idónea de las auditorías. Podrá tomar en consideración las propuestas que formulen las entidades fiscalizadas y las características propias de su operación;
 
@@ -1077,7 +1115,9 @@ VIII. Expedir aquellas normas y disposiciones que esta Ley le confiere a la Audi
 
 Asimismo, expedir las Reglas de carácter general aplicables a los procesos de fiscalización superior por medios electrónicos, así como la normatividad relativa a los protocolos de seguridad que para tal efecto se implementen. La información y documentación así obtenida, tendrá para todos los efectos legales, pleno valor probatorio.
 
-IX. Presidir de forma dual con el Secretario de Contraloría y Transparencia Gubernamental el Comité Rector del Sistema Estatal de Fiscalización;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+IX. Presidir de forma dual con la persona titular de la Secretaría de la Contraloría y Transparencia Gubernamental el Comité Rector del Sistema Estatal de Fiscalización;
 
 X. Ser el enlace entre la Auditoría Superior del Estado y la Comisión;
 
@@ -1101,11 +1141,15 @@ XVII. Autorizar, previa denuncia, la revisión durante el ejercicio fiscal en cu
 
 XVIII. Concertar y celebrar, en los casos que estime necesario, convenios con las entidades fiscalizadas y las entidades de fiscalización superior de las entidades federativas y los municipios, con el propósito de apoyar y hacer más eficiente la fiscalización, sin detrimento de su facultad fiscalizadora, la que podrá ejercer de manera directa; así como convenios de colaboración con los organismos nacionales e internacionales que agrupen a entidades de fiscalización superior homólogas o con éstas directamente, con el sector privado y con colegios de profesionales, instituciones académicas e instituciones de reconocido prestigio de carácter multinacional;
 
-XIX. Celebrar convenios interinstitucionales con entidades homólogas nacionales y extranjeras para la mejor realización de sus atribuciones;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE JUNIO DE 2024)</small>
+
+XIX. Celebrar convenios interinstitucionales con entidades homólogas nacionales y extranjeras; en concordancia con los artículos 18 Bis, 18 Ter, con el Servicio de Administración Tributaria (SAT), para la mejor realización de sus atribuciones.
 
 XX. Presentar informe anual al Congreso a través de la Comisión sobre la aplicación de su presupuesto aprobado, dentro del primer bimestre del año siguiente al que corresponda su ejercicio;
 
-XXI. Expedir por sí, o a través del Director General de Asuntos Jurídicos, certificaciones de los documentos que obren en los archivos de la Auditoría Superior del Estado a quienes acrediten su interés jurídico
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXI. Expedir a través de la persona titular de la Dirección General de Asuntos Jurídicos, certificaciones de los documentos que obren en los archivos de la Auditoría Superior del Estado a quienes acrediten su interés jurídico.
 
 XXII. Solicitar a la Secretaría de Finanzas y Administración del Estado de Guerrero el cobro de las multas que se impongan en los términos de esta Ley;
 
@@ -1125,7 +1169,9 @@ XXIX. Establecer los mecanismos necesarios para fortalecer la participación ciu
 
 XXX. Formar parte del Comité Coordinador del Sistema Estatal Anticorrupción en términos de lo dispuesto por el artículo 198 Bis de la Constitución Política del Estado y la Ley del Sistema Estatal Anticorrupción de Guerrero;
 
-XXXI. Rendir un informe anual basado en indicadores en materia de fiscalización, debidamente sistematizados y actualizados, mismo que será público y se compartirá con los integrantes del Comité Coordinador a que se refiere la Ley del Sistema Estatal Anticorrupción de Guerrero y al Comité de Participación Ciudadana. Con base en el informe señalado podrá presentar desde su competencia proyectos de recomendaciones integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, por lo que hace a las causas que los generan;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXXI. Rendir un informe anual basado en indicadores en materia de fiscalización, debidamente sistematizados y actualizados, mismo que será público y se compartirá con las personas que integran el Comité Coordinador a que se refiere la Ley del Sistema Estatal Anticorrupción de Guerrero y al Comité de Participación Ciudadana. Con base en el informe señalado podrá presentar desde su competencia proyectos de recomendaciones integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, por lo que hace a las causas que los generan;
 
 XXXII. Elaborar en cualquier momento estudios y análisis, así como publicarlos;
 
@@ -1141,11 +1187,11 @@ De las atribuciones previstas a favor del titular de la Auditoría Superior del 
 
 El Auditor Superior del Estado no podrá ser perseguido o reconvenido por las opiniones emitidas en el ejercicio de su función, ni por el sentido de sus informes, observaciones, recomendaciones, votos o resoluciones.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 91.
 
-El Titular de la Auditoría Superior del Estado será auxiliado en sus funciones por los auditores especiales, así como por los titulares de unidades, directores generales, auditores y demás servidores públicos que al efecto señale el Reglamento de la Auditoría, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
+El Titular de la Auditoría Superior del Estado será auxiliado en sus funciones por los auditores especiales, así como el Órgano Interno de Control, los titulares de unidades, directores generales, auditores y demás servidores públicos que al efecto señale el Reglamento de la Auditoría, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
 
 > <small>(REFORMADO, P.O. 31 DE JULIO DE 2018)</small>
 
@@ -1227,59 +1273,71 @@ La relación jurídica de trabajo se entiende establecida entre la Auditoría Su
 
 ### Capítulo II. Vigilancia de la Auditoría Superior del Estado
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### Artículo 105.
 
-La Comisión vigilará que el titular de la Auditoría Superior del Estado, los auditores especiales y los demás servidores públicos de la Auditoría Superior del Estado en el desempeño de sus funciones, se sujeten a lo establecido en la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas para el Estado de Guerrero y las demás disposiciones legales aplicables.
+La Comisión vigilará que la función de fiscalización superior del Poder Legislativo que realiza la Auditoría Superior del Estado, se ejecute dentro de los plazos establecidos en la norma y que el proceso de fiscalización se realice apegado a los principios establecidos en la legislación aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 106.
 
-Para el efecto de apoyar a la Comisión en el cumplimiento de sus atribuciones, se constituye la Unidad encargada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores de las funciones a cargo de los servidores (sic) públicos de la Auditoría Superior del Estado, la cual formará parte de la estructura de la Comisión.
+Para el efecto de apoyar a la Comisión en el cumplimiento de sus atribuciones, se constituye la Unidad encargada de vigilar el estricto cumplimiento de las funciones a cargo de las personas servidoras públicas de la Auditoría Superior del Estado, la cual formará parte de la estructura de la Comisión.
 
-La Unidad, en el caso de los servidores públicos de la Auditoría Superior, podrá imponer las sanciones administrativas no graves previstas en la Ley General de Responsabilidades Administrativas, y la Ley de Responsabilidades Administrativas para el Estado de Guerrero o, tratándose de faltas graves en términos de dichas leyes, promover la imposición de sanciones ante el Tribunal, por lo que contará con todas las facultades que dichas Leyes otorgan a las autoridades investigadoras y substanciadoras.
+La Comisión, derivado de los trabajos de seguimiento al cumplimiento de atribuciones que realice la Unidad, en el caso de las y los servidores públicos de la Auditoría Superior, podrá a través de la Unidad, investigar las conductas denunciadas y de ser el caso, remitirá al Órgano Interno de Control para substanciar el procedimiento sancionatorio administrativo de conformidad con la Ley General de Responsabilidades Administrativas, y la Ley de Responsabilidades Administrativas para el Estado de Guerrero. La Comisión dará seguimiento a través de la Unidad, de la sustanciación que realice el Órgano Interno de Control de la Auditoría Superior del Estado.
 
-Se deberá garantizar la estricta separación de las unidades administrativas adscritas a la Unidad encargadas de investigar y substanciar los procedimientos administrativos sancionadores en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guerrero. Asimismo, podrá proporcionar apoyo técnico a la Comisión en la evaluación del desempeño de la Auditoría Superior del Estado.
+Se deberá garantizar la estricta separación de las unidades administrativas adscritas a la Unidad, en términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guerrero. Asimismo, deberá proporcionar apoyo técnico a la Comisión en la evaluación del desempeño de la Auditoría Superior del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 107.
 
-La Unidad tendrá las atribuciones siguientes:
+La Unidad previo (sic) autorización de la Comisión tendrá las atribuciones siguientes:
 
 I. Vigilar que los servidores públicos de la Auditoría Superior del Estado se conduzcan en términos de lo dispuesto por esta Ley y demás disposiciones legales aplicables;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-II. Practicar, por sí o a través de auditores externos, auditorías y evaluaciones técnicas para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior del Estado, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión;
+II. Previo acuerdo de la Comisión, podrá practicar, por sí o a través de auditorías externas, auditorías y evaluaciones técnicas para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior del Estado, así como la debida aplicación de los recursos públicos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión;
 
-III. Recibir denuncias de faltas administrativas derivadas del incumplimiento de las obligaciones por parte del titular de la Auditoría Superior del Estado, auditores especiales y demás servidores públicos de la Auditoría Superior del Estado, iniciar investigaciones y, en el caso de faltas administrativas no graves, imponer las sanciones que correspondan, en los términos de la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guerrero;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-IV. Conocer y resolver el recurso que interpongan los servidores públicos sancionados por faltas no graves conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guerrero;
+III. Podrá recibir denuncias de faltas administrativas derivadas del incumplimiento de las obligaciones por parte de la o el Titular de la Auditoría Superior del Estado, auditoras y auditores especiales y demás servidoras o servidores públicos de la Auditoría Superior del Estado, en su caso, previo acuerdo de la Comisión turnará al Órgano Interno de Control de la Auditoría Superior del Estado, quien deberá iniciar investigaciones y, una vez sustanciado el procedimiento, notificará a la Comisión de los resultados;
 
-V. Realizar la defensa jurídica de las resoluciones que se emitan ante las diversas instancias jurisdiccionales e interponer los medios de defensa que procedan en contra de las resoluciones emitidas por el Tribunal, cuando la Unidad sea parte en esos procedimientos;
+IV. (DEROGADA, P.O. 14 DE JUNIO DE 2024)
 
-VI. Participar en los actos de entrega recepción de los servidores públicos de mando superior de la Auditoría Superior del Estado;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-VII. Presentar a instancia de la Comisión, denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la Auditoría Superior del Estado;
+V. En su caso, coadyuvar con el Órgano Interno de Control de la Auditoría en la defensa jurídica de las resoluciones que se emitan ante las diversas instancias jurisdiccionales e interponer los medios de defensa que procedan en contra de las resoluciones emitidas por los órganos jurisdiccionales competentes, cuando la Comisión, la Unidad o la Auditoría Superior del Estado, sean parte en esos procedimientos;
 
-VIII. Llevar el registro y análisis de la situación patrimonial de los servidores públicos adscritos a la Auditoría Superior del Estado;
+VI. (DEROGADA, P.O. 14 DE JUNIO DE 2024)
 
-IX. Conocer y resolver de las inconformidades que presenten los proveedores o contratistas, por el incumplimiento de las disposiciones aplicables para la Auditoría Superior del Estado en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas.
+VII. (DEROGADA, P.O. 14 DE JUNIO DE 2024)
 
-Igualmente participará con voz, pero sin voto, en el comité de adquisiciones de la Auditoría Superior del Estado, establecido en las disposiciones aplicables para la Auditoría Superior del Estado en materia de adquisiciones, arrendamientos y servicios del sector público, así como de obras públicas y servicios relacionados con las mismas;
+VIII. (DEROGADA, P.O. 14 DE JUNIO DE 2024)
+
+IX. (DEROGADA, P.O. 14 DE JUNIO DE 2024)
 
 X. Auxiliar a la Comisión en la elaboración de los análisis y las conclusiones del Informe General, los Informes Individuales y demás documentos que le envíe la Auditoría Superior del Estado;
 
-XI. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño de la propia Unidad y los que utilice para evaluar a la Auditoría Superior del Estado, así como los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XI. Proponer a la Comisión los indicadores y sistemas de evaluación del desempeño aplicables a la Auditoría Superior del Estado, los sistemas de seguimiento a las observaciones y acciones que promuevan tanto la Unidad como la Comisión; así como el programa de evaluación aplicable a la propia Unidad.
 
 XII. Coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones;
 
-XIII. Atender prioritariamente las denuncias;
+XIII. (DEROGADA, P.O. 14 DE JUNIO DE 2024)
 
-XIV. Participar en las sesiones de la Comisión para brindar apoyo técnico y especializado; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-XV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+XIV. Generar estadísticos (sic) de los resultados y seguimiento de la fiscalización superior a la Cuenta Pública. Participar en las sesiones de la Comisión para brindar apoyo técnico especializado.
 
-Las entidades fiscalizadas tendrán la facultad de formular queja ante la Unidad sobre los actos del titular de la Auditoría Superior del Estado que contravengan las disposiciones de esta Ley, en cuyo caso la Unidad sustanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, o bien el previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guerrero, notificando al quejoso el dictamen correspondiente, previa aprobación de la Comisión.
+XV. (DEROGADA, P.O. 14 DE JUNIO DE 2024)
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Las entidades fiscalizadas podrán formular queja ante la Comisión, a través de la Unidad sobre los actos de desempeño de la o el titular de la Auditoría Superior del Estado que contravengan las disposiciones de esta Ley, en cuyo caso la Unidad sustanciará la investigación preliminar por vía especial, para dictaminar si ha lugar a iniciar el procedimiento de remoción a que se refiere este ordenamiento, o bien el previsto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas para el Estado de Guerrero, previa aprobación de la Comisión, remitirá al Órgano Interno de Control de la Auditoría para la sustanciación correspondiente, quien a su vez deberá notificar a la parte quejosa notificará a la parte quejosa (sic) el dictamen que emita.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2022)</small>
 
@@ -1496,3 +1554,23 @@ Remítase a la Titular del Gobierno del Estado, para los efectos legales conduce
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero para el conocimiento general.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 798 POR EL QUE SE DECLARAN (SIC) PROCEDENTE LA REFORMA DE LA FRACCIÓN X, DEL ARTÍCULO 4; FRACCIÓN I Y VI DEL ARTÍCULO 10; TERCER PÁRRAFO DEL ARTÍCULO 13; SEGUNDO PÁRRAFO DEL ARTÍCULO 15; FRACCIÓN III Y XXII DEL ARTÍCULO 18; PRIMER, SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 39; PRIMER PÁRRAFO DEL ARTÍCULO 40; EL ARTÍCULO 87; PRIMER PÁRRAFO, FRACCIONES VII, IX, XIX, XXI Y XXXI DEL ARTÍCULO 89; ARTICULO 91; ARTÍCULO 105; EL ARTÍCULO 106; PRIMER Y ULTIMO PÁRRAFO, FRACCIONES II, III, V, XI, XIV DEL ARTÍCULO 107; SE ADICIONA: EL ARTÍCULO 13 TER, FRACCIÓN II BIS DEL ARTICULO 18; FRACCIÓN XIX ARTICULO 89; SE DEROGAN: EL PÁRRAFO CUARTO DEL ARTÍCULO 13; FRACCIÓN IV, VI, VII, VIII, IX, XIII Y XV DEL ARTÍCULO 107, DE LA LEY NÚMERO 468 DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase a la Titular del Gobierno del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Remítase al Titular de la Auditoría Superior del Estado, para los efectos legales conducentes.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero, para el conocimiento general.
