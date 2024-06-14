@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-89283"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2024-05-30"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -303,11 +303,21 @@ IV.- Garantizará la presencia permanente del libro, y de las obras inscritas en
 
 V.- Realizar, fortalecer y evaluar los talleres literarios y métodos que faciliten la comprensión en la lectura;
 
-VI.- Promocionar en los niveles de enseñanza básica, métodos que faciliten la comprensión en la lectura; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
+VI.- Promocionar en los niveles de enseñanza básica, métodos que faciliten la comprensión en la lectura;
 
-VII.- Crear, fomentar, promover y distribuir textos en las lenguas indígenas de la Entidad.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+VII.- Crear, fomentar, promover y distribuir textos en las lenguas indígenas de la Entidad;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+VIII.- Llevar a cabo encuentros municipales que fomenten la participación de la comunidad estudiantil destinados a la promoción y difusión de la lectura y la escritura, y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+IX.- Diseñar e implementar un concurso anual a nivel municipal destinado a premiar a las participaciones más destacadas de creación literaria en la comunidad estudiantil abarcando las categorías de cuento, poesía, novela y ensayo.
 
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
 
@@ -319,9 +329,33 @@ I. Fomentar, promover e incentivar el hábito de lectura con especial atención 
 
 II. Promover la realización de talleres literarios, cursos, clubes y cualesquiera otras medidas conducentes al fomento de la lectura;
 
-III. Impulsar la creación y mantenimiento de las bibliotecas públicas y escolares, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-IV. Gestionar la donación de ejemplares de lectura en sus diversos géneros literarios a las bibliotecas públicas comunitarias y escolares municipales.
+III. Impulsar la creación y mantenimiento de las bibliotecas públicas y escolares;
+
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+IV. Gestionar la donación de ejemplares de lectura en sus diversos géneros literarios a las bibliotecas públicas comunitarias y escolares municipales;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+V. Contemplar en sus presupuestos de egresos, el fomento y promoción de la lectura, la escritura y el libro;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+VI. Incluir dentro del Programa Municipal de Cultura y Derechos Culturales, actividades destinadas a la promoción y difusión de la lectura y la escritura;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+VII. Promover el otorgamiento de un premio anual al mérito literario;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+VIII. Impulsar, a través de la dependencia correspondiente, la creación de un catálogo de personas destinadas a la promoción literaria, que incluya las obras publicadas por dichas personas, y
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+IX. Promover al municipio que representan como sede para la realización de ferias de libro.
 
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -565,6 +599,12 @@ Las bibliotecas públicas del estado, deberán fortalecer permanentemente sus co
 
 De igual forma, deberán incorporar el uso de las tecnologías de la información en materia de acervo y colecciones, cuando la disponibilidad presupuestaria así lo permita.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+###### Artículo 24 Ter.
+
+Las bibliotecas públicas del estado deberán destinar un espacio visible dentro de sus instalaciones para promover las obras de escritoras y escritores locales. Así mismo, promoverán la organización de encuentros, conferencias, talleres, pláticas y presentaciones de escritoras y escritores locales a efecto de promover la lectura y la escritura local.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2013)</small>
 
 ### Capítulo VI. De las Bibliotecas Escolares
@@ -722,3 +762,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 909 POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 2 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 982 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
