@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2022-05-10"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -536,7 +536,9 @@ V. El establecimiento de convenios de colaboración con las instituciones públi
 
 Corresponde a las instituciones públicas de vivienda de interés social, garantizar:
 
-I. Las acciones necesarias a fin de concretar programas de vivienda que permitan a las personas adultas mayores la obtención de créditos accesibles para adquirir una vivienda propia o remodelarla en caso de ya contar con ella, y
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+I. Las acciones necesarias a fin de concretar programas de vivienda que permitan a las personas adultas mayores la obtención de créditos accesibles para adquirir una vivienda propia o bien, remodelarla o adaptarla en caso de ya contar con ella, y
 
 II. El acceso a proyectos de vivienda de interés social que ofrezcan igual oportunidad a las parejas compuestas por personas adultas mayores, solas o jefes de familia.
 
@@ -730,13 +732,17 @@ h. Instituto Mexicano del Seguro Social.
 
 i. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-j. Secretaría de Comunicaciones y Transportes, y
+j. Secretaría de Infraestructura, Comunicaciones y Transportes;
 
-> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-k. Secretaría de Cultura.
+k. Secretaría de Cultura, y
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+l. Comisión Nacional de Vivienda.
 
 Los representantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director General.
 
@@ -1091,3 +1097,9 @@ D.O.F. 10 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN X AL ARTÍCULO 5o. DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES Y DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD".]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
