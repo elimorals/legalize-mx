@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-05-30"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -186,6 +186,10 @@ III. Fortalecer el tejido social para evitar la corrupción, a través del fomen
 IV. Combatir las causas de discriminación y violencia, especialmente la que se ejerce contra la niñez, las mujeres o las personas en situación de vulnerabilidad; y
 
 V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos.
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+VI. La formación en habilidades digitales y el uso responsable de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el proceso de construcción de saberes como mecanismo que contribuya a mejorar el desempeño y los resultados académicos.
 
 ###### Artículo 12.
 
@@ -2402,3 +2406,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 945 POR EL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 977 POR EL QUE SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
