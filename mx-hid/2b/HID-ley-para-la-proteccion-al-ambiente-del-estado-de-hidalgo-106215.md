@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2024-05-30"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -911,7 +911,9 @@ IV. Deberán ser congruentes con la vocación del suelo, incluyendo a ejidos, co
 
 V. Cuando se pretenda la ampliación de un centro de población o la realización de proyectos de desarrollo urbano, se sujetará a lo que establezca el Programa de Ordenamiento Ecológico Estatal, Regional o Local;
 
-VI. Cuando un programa de Ordenamiento Ecológico Local incluya un área natural protegida, competencia de la Federación o del Estado, o parte de ella, el programa será elaborado y aprobado en forma conjunta con la Federación y el Estado, según corresponda; y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+VI. Cuando un programa de Ordenamiento Ecológico Local incluya un área natural protegida, competencia de la Federación o del Estado, o parte de ella, el programa será elaborado y aprobado en forma conjunta con la Federación y el Estado, según corresponda, previa opinión emitida por los Comités de ordenamiento ecológico territorial correspondientes, en que se ubique; y
 
 > <small>(REFORMADA, P.O. 29 DE MARZO DE 2023)</small>
 
@@ -934,6 +936,24 @@ II. El expediente que se integre con motivo del proceso de consulta de los proye
 III. Una vez realizado el proceso de consulta, consensado y concluido el programa de ordenamiento ecológico correspondiente, se ordenará la Publicación de este en el Periódico Oficial del Gobierno del Estado; y
 
 IV. La modificación de los programas de ordenamiento ecológico, sólo procederá mediante la presentación de un estudio técnico justificativo autorizado por la Secretaría, siempre y cuando dicha modificación obedezca a las características del sitio, ecosistema o región, según corresponda.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+###### Artículo 27 Bis.
+
+La Secretaría apoyará técnicamente la formulación y ejecución de los programas de ordenamiento ecológico regional y local, de conformidad con lo dispuesto en esta Ley, su Reglamento, las Normas Oficiales Mexicanas y Normas Técnicas Ecológicas aplicables;
+
+Los municipios podrán participar en las consultas y emitir las recomendaciones que estimen pertinentes para la formulación de los programas de ordenamiento ecológico general del territorio.
+
+Los programas de ordenamiento ecológico regional y ordenamiento ecológico local, contarán con Comités de ordenamiento ecológico territorial, como órganos de participación social, y espacios de concertación, colaboración, transparencia y rendición de cuentas.
+
+Para la integración de los Comités, la Secretaría y los Municipios promoverán la participación de personas, organizaciones, grupos e instituciones de los sectores público, privado, social, académico y de investigación, con el fin de obtener su opinión técnica sobre la congruencia de planes, programas y acciones sectoriales en el área de estudio.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+###### Artículo 27 Ter.
+
+La Secretaría promoverá el proceso de consulta previa, libre e informada y la participación de las comunidades indígenas y afromexicanas, las comunidades equiparables y de los propietarios y poseedores de la tierra en los procesos de elaboración, observancia, revisión y modificación de los Ordenamientos Ecológicos Territoriales, Ordenamientos Ecológicos Regionales y Ordenamientos Ecológicos Locales.
 
 #### SECCIÓN CUARTA. DE LOS INSTRUMENTOS ECONÓMICOS
 
@@ -3764,3 +3784,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 921 POR EL QUE SE REFORMA LA FRACCIÓN XLI Y SE ADICIONA UNA FRACCIÓN XLII, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 6 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 980 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
