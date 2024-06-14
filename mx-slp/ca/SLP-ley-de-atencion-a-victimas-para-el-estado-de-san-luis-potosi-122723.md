@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-atencion-a-victimas-para-el-estado-de-san-luis-potosi-12
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-28"
-last_updated: "2023-11-09"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 28 de julio de 2017.
 
@@ -1041,11 +1041,13 @@ g) Secretaría de Salud;
 
 II. Poder Legislativo del Estado:
 
-a) Presidente de la Mesa Directiva del Congreso del Estado.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+a) Presidenta o presidente de la Directiva del Congreso del Estado.
 
 b) Comisión de Justicia del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 14 DE JUNIO DE 2024)</small>
 
 c) Comisión de Derechos Humanos.
 
@@ -2478,3 +2480,11 @@ P.O. 9 DE NOVIEMBRE DE 2023.
 PRIMERO. Este Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1051 SE REFORMAN LOS INCISOS A) Y C) DE LA FRACCIÓN II DEL ARTÍCULO 82, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL INCISO B) DE LA FRACCIÓN II DE LOS ARTÍCULOS 30 Y 42, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL INCISO A) DE LA FRACCIÓN V DEL ARTÍCULO 47, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
