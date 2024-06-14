@@ -4,7 +4,7 @@ identifier: "FED-ley-de-amnistia-142630"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-22"
-last_updated: "2020-04-22"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142630&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LAMNI"
 
 LEY DE AMNISTÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Vespertina al Número 24 del Diario Oficial de la Federación, el miércoles 22 de abril de 2020.
 
@@ -116,6 +116,20 @@ Las personas a quienes beneficie esta Ley, no podrán ser en lo futuro detenidas
 
 La Secretaría de Gobernación coordinará las acciones para facilitar la reinserción social de las personas beneficiarias de esta Ley, en términos de la legislación aplicable.
 
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+###### Artículo 9.
+
+Por determinación exclusiva de la persona titular del Poder Ejecutivo Federal se podrá otorgar el beneficio de la amnistía de manera directa, sin sujetarse al procedimiento establecido en este ordenamiento, en casos específicos que reúnan las siguientes condiciones:
+
+I. Que la amnistía se otorgue a personas que aporten elementos comprobables que resulten útiles para conocer la verdad de los hechos en casos que sean relevantes para el Estado Mexicano, y
+
+II. Que en contra de la persona o personas a las que se conceda la amnistía, se haya ejercido la acción penal, estén siendo procesados o se encuentren sentenciados por cualquier delito.
+
+En los casos a que se refiere esta disposición no será aplicable lo dispuesto en el artículo 2 de la presente Ley.
+
+La amnistía concedida en términos de lo dispuesto por este artículo extinguirá las acciones penales y las sanciones impuestas.
+
 ## Transitorios
 
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo previsto en el siguiente párrafo.
@@ -133,3 +147,13 @@ Quinto. Dentro de los 180 días posteriores a la entrada en vigor de esta Ley, e
 Ciudad de México, a 20 de abril de 2020.- Dip. Laura Angélica Rojas Hernández, Presidenta.- Sen. Mónica Fernández Balboa, Presidenta.- Dip. Julieta Macías Rábago, Secretaria.- Sen. Primo Dothé Mata, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, a 22 de abril de 2020.- Andrés Manuel López Obrador.- Rúbrica.- La Secretaria de Gobernación, Dra. Olga María del Carmen Sánchez Cordero Dávila.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 9 A LA LEY DE AMNISTÍA, EN MATERIA DE OTORGAMIENTO DE AMNISTÍA DE MANERA DIRECTA”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal podrá emitir los acuerdos que considere necesarios para la aplicación de lo dispuesto en el presente Decreto.
