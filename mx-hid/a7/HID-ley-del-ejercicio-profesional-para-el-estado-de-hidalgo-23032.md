@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-23032"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-31"
-last_updated: "2024-05-30"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2001.
 
@@ -213,9 +213,9 @@ III.- Fomentar en los estudiantes una conciencia de responsabilidad social y con
 
 IV.- Aportar al mejoramiento de las condiciones de vida, de planeación de infraestructura, de organización social, de salud y de educación en las comunidades y pueblos indígenas.
 
-> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
-ARTICULO 10 BIS.- El servicio social podrá realizarse en los sectores público, privado, educativo o social, en los términos de la fracción XI del artículo 13 de la Ley de Educación Estado de Hidalgo.
+ARTICULO 10 BIS.- El servicio social podrá realizarse en los sectores público, privado, educativo o social, en los términos del artículo 133 de la Ley de Educación (sic) Estado de Hidalgo.
 
 ###### ARTICULO 11.
 
@@ -228,6 +228,10 @@ La duración del servicio social de estudiantes de las instituciones de educaci�
 ###### ARTICULO 13.
 
 Cuando el estudiante preste su servicio social en alguna dependencia de los Gobiernos Federal, Estatal o Municipal, se otorgará, en su caso una beca de acuerdo al presupuesto asignado.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 13 BIS.- El servicio social o sus equivalentes tendrán reconocimiento como parte de la experiencia de las y los estudiantes en el desempeño de sus labores profesionales, a través de la emisión de una constancia por parte de la institución en la cual se realizó dicho servicio social. En dicho documento donde se harán constar las habilidades, capacidades adquiridas, temporalidad y recomendación, en caso de ser procedente.
 
 ### CAPITULO V. DEL REGISTRO PROFESIONAL ESTATAL
 
@@ -802,3 +806,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 928 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 978 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO Y LA LEY DEL EJERCICIO PROFESIONAL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
