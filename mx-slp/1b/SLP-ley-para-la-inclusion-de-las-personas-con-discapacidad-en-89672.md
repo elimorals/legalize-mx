@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-inclusion-de-las-personas-con-discapacidad-en-89672
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-13"
-last_updated: "2023-06-07"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 13 de septiembre del 2012.
 
@@ -1159,7 +1159,9 @@ IV. En caso de ausencia del Presidente del Consejo, será el Secretario quien ej
 
 V. Para el mejor desempeño de sus funciones, el Consejo podrá solicitar la asistencia de personas que participarán en las sesiones con voz, pero sin voto, tales como:
 
-a) El diputado presidente de la Comisión de Derechos Humanos, Equidad y Género del Congreso del Estado, o de otras comisiones relacionadas con los temas a tratar.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+a) La diputada o el diputado que presida la Comisión de Derechos Humanos del Congreso del Estado, o de otras comisiones relacionadas con los temas a tratar.
 
 b) Instituciones de educación superior y de las asociaciones de estudiantes de las mismas.
 
@@ -1420,3 +1422,11 @@ P.O. 7 DE JUNIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1051.- SE REFORMAN LOS INCISOS A) Y C) DE LA FRACCIÓN II DEL ARTÍCULO 82, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL INCISO B) DE LA FRACCIÓN II DE LOS ARTÍCULOS 30 Y 42, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL INCISO A) DE LA FRACCIÓN V DEL ARTÍCULO 47, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
