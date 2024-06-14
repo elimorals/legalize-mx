@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asociaciones-publico-privadas-en-proyectos-para-la-88737
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-12"
-last_updated: "2023-06-15"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88737&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 12 de junio de 2012.
 
@@ -523,7 +523,9 @@ r) Los medios para la solución de eventuales controversias con base en lo previ
 
 s) Las previsiones sobre la cesión de derechos y obligaciones derivados del contrato que podrá realizar el hipotético inversionista-proveedor, restringidas a los casos en los cuales pudiera generarse la rescisión administrativa del contrato;
 
-t) La obligación del hipotético inversionista-proveedor de proporcionar información relacionada con el contrato a la dependencia o entidad, en particular la vinculada con solicitudes de la Auditoría Superior del Estado;
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+t) La obligación del hipotético inversionista-proveedor de proporcionar información relacionada con el contrato a la dependencia o entidad, en particular la vinculada con solicitudes del Instituto de Fiscalización Superior del Estado de San Luis Potosí;
 
 u) La renuncia del hipotético inversionista-proveedor a proporcionar información a terceros que se relacionan con el contrato, sin demérito de que la dependencia o entidad den cumplimiento a la Ley de Transparencia y Acceso a la Información Pública del Estado; y
 
@@ -1225,11 +1227,15 @@ Las dependencias o entidades remitirán a la Secretaría y a la Contraloría Gen
 
 Con base en dicha información, las dependencias que deben recibirla ejercerán las atribuciones que les confieren las leyes del Estado, con objeto de asegurar el interés público y promover el cumplimiento óptimo de las obligaciones pactadas por el inversionista-proveedor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### Artículo 77.
 
-En términos de las disposiciones que las rigen, la Auditoría Superior del Estado y la Contraloría Gubernamental, o a la Tesorería y Contraloría Municipales, podrán verificar que la ejecución del contrato se efectúe conforme a lo pactado y que la prestación de servicios se realice en términos de lo previsto por esta ley y demás disposiciones aplicables.
+En términos de las disposiciones que las rigen, el Instituto de Fiscalización Superior del Estado de San Luis Potosí y la Contraloría Gubernamental, o a la Tesorería y Contraloría Municipales, podrán verificar que la ejecución del contrato se efectúe conforme a lo pactado y que la prestación de servicios se realice en términos de lo previsto por esta ley y demás disposiciones aplicables.
 
-La Auditoría Superior del Estado y la Contraloría General de Gobierno, o la Tesorería y Contraloría Municipales, podrán realizar las visitas e inspecciones que estimen necesarias a las dependencias o entidades que hubieren celebrado un contrato sobre un proyecto de prestación de servicios, o a los inversionistas-proveedores que lo suscriban, así como solicitar la información relacionada con los actos derivados del procedimiento de adjudicación y el cumplimiento del contrato.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+El Instituto de Fiscalización Superior del Estado de San Luis Potosí y la Contraloría General de Gobierno, o la Tesorería y Contraloría Municipales, podrán realizar las visitas e inspecciones que estimen necesarias a las dependencias o entidades que hubieren celebrado un contrato sobre un proyecto de prestación de servicios, o a los inversionistas-proveedores que lo suscriban, así como solicitar la información relacionada con los actos derivados del procedimiento de adjudicación y el cumplimiento del contrato.
 
 Cuando la Secretaría o la Contraloría General del Estado, o la Tesorería y Contraloría Municipales, en su caso, establezcan que en el desarrollo del proyecto no se cumple con los términos de la autorización conferida o con las obligaciones del contrato, podrán exigirle a la dependencia o entidad que proceda a la terminación anticipada del contrato por constituir un perjuicio para la administración pública estatal.
 
@@ -1470,3 +1476,11 @@ P.O. 15 DE JUNIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1054.- SE REFORMA EL INCISO T) DE LA FRACCIÓN II DEL ARTÍCULO 31 Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 77, DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ. SE REFORMAN LOS PÁRRAFOS ÚLTIMO DE LOS ARTÍCULOS 12 Y 67, DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ”]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
