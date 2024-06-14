@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2023-09-08"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -422,6 +422,24 @@ XVII. Fomentar entre el personal a su cargo el ejercicio de sus funciones con es
 > <small>(ADICIONADA, P.O. 27 DE SEPTIEMBRE DE 2014)</small>
 
 XVIII. Las demás que le señalen las disposiciones jurídicas y reglamentos aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+###### ARTICULO 14 Bis.
+
+El titular de la Secretaría, además de las atribuciones señaladas en el artículo anterior, en materia de movilidad y seguridad vial, tiene las siguientes atribuciones:
+
+I. Remitir al Sistema Nacional de Movilidad y Seguridad Vial la información contenida en el Registro Público Vehicular;
+
+II. Mantener actualizada la información contenida en el Registro Público Vehicular, con el objetivo de coadyuvar al cumplimiento de los principios de la presente Ley;
+
+III. Participar, en el marco de sus competencias, en las acciones que en materia de protección al medio ambiente lleven a cabo otras autoridades federales o municipales, en relación con la movilidad y seguridad vial;
+
+IV. Participar, en el marco de sus competencias, en la celebración de convenios de coordinación con otras entidades federativas y municipales, para la realización de acciones en la materia objeto de la Ley General de Movilidad y Seguridad Vial;
+
+V. Colaborar, en el marco de sus competencias, con las autoridades competentes de los tres órdenes de gobierno, en la prevención de las violencias de género en los sistemas de movilidad, y
+
+VI. Las demás previstas para el cumplimiento de la presente Ley y la Ley General de Movilidad y Seguridad Vial.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
@@ -3204,6 +3222,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0825.- SE REFORMA EL ARTÍCULO 2º QUÁTER EN SU PÁRRAFO PRIMERO Y 46 EN SU FRACCIÓN XI, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO OCTAVO DEL DECRETO 1053 POR EL QUE "SE ADICIONA EL ARTÍCULO 14 BIS, A LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
