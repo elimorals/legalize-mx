@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2024-05-01"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -281,7 +281,9 @@ LV. Mejoramiento: acción dirigida a reordenar, regularizar, restaurar o renovar
 
 LVI. Mobiliario urbano: los objetos complementarios al equipamiento urbano, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos, los que, según su función, se aplican para el descanso, comunicación, información, necesidades fisiológicas, comercio, seguridad, higiene, servicio, jardinería. Tales como basureros, semáforos, bancas, juegos infantiles, fuentes, luminarias rejillas, cables, coladeras y cualquier derivado de aleación metálica, y otros similares, y
 
-LVII. Movilidad: capacidad, facilidad y eficiencia de tránsito o desplazamiento de las personas y bienes en el territorio, priorizando la accesibilidad universal, así como la sustentabilidad de la misma;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+LVII. Movilidad: El conjunto de desplazamientos de personas, bienes y mercancías, a través de diversos modos, orientado a satisfacer las necesidades de las personas;
 
 LVIII. Municipalización: acto mediante el cual se realiza la entrega recepción por parte del fraccionador al Ayuntamiento, de los bienes inmuebles, equipo, mobiliario e instalaciones de un fraccionamiento destinados a los servicios públicos y de las obras de urbanización del mismo, habiendo cumplido con lo dispuesto en esta Ley y demás disposiciones aplicables (sic) se encuentran en posibilidad de operar, permitiendo al Municipio, en la esfera de su competencia, prestar los servicios públicos necesarios;
 
@@ -353,7 +355,9 @@ LXXXIX. Usos de impacto significativo: aquellos que generan las construcciones e
 
 XC. Usos del suelo: fines particulares a que podrán dedicarse determinadas zonas o predios de un centro de población, determinados en el Programa de Desarrollo Urbano correspondiente;
 
-XCI. Vía pública: todo inmueble de dominio público y uso común destinado al libre tránsito, a fin de dar acceso a los lotes y predios colindantes, alojar las instalaciones de obras o servicios públicos y proporcionar aireación, iluminación y asoleamiento a los inmuebles;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XCI. Vía pública: Todo espacio de dominio público y uso común destinado al tránsito de personas peatonas y vehículos, así como a la prestación de servicios públicos y la instalación de infraestructura y mobiliario, en la que deberán considerarse las vocaciones de movilidad y habitabilidad a que se refiere la Ley General de Movilidad y Seguridad Vial;
 
 XCII. Vivienda plurifamiliar: es aquella que da alojamiento a dos o más familias y que se encuentra en un predio común a las viviendas que contiene. Se caracteriza por estar basada en un régimen de propiedad en condominio;
 
@@ -1489,9 +1493,11 @@ Se impulsarán programas y apoyos para la mejora regulatoria en la administraci�
 
 ### Capítulo IV. Observatorios Ciudadanos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 53.
 
-El sector social y privado podrá crear observatorios urbanos, con la participación plural de la sociedad, de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y el gobierno, para el estudio, investigación, organización y difusión de información y conocimientos sobre los problemas socioeconómicos y espaciales, y los nuevos modelos de políticas urbanas, regionales y de gestión pública.
+El sector social y privado podrá crear observatorios urbanos, con la participación plural de la sociedad, de las instituciones de investigación académica, de los colegios de profesionistas, de los organismos empresariales, de las organizaciones de la sociedad civil y el gobierno, para el estudio, investigación, organización y difusión de información y conocimientos sobre los problemas socioeconómicos y espaciales, y los nuevos modelos de políticas urbanas, regionales y de gestión pública, así como de la movilidad y la seguridad vial.
 
 Los observatorios tendrán a su cargo las tareas de analizar y difundir la evolución de los fenómenos socioeconómicos y espaciales, en la escala, ámbito, sector o fenómeno que corresponda según sus objetivos, las políticas públicas en la materia, la difusión sistemática y periódica, a través de indicadores y sistemas de información geográfica de sus resultados e impactos.
 
@@ -1501,7 +1507,9 @@ El Estado y los municipios promoverán y apoyarán la creación y funcionamiento
 
 Para apoyar el funcionamiento de los observatorios, las dependencias y entidades de la Administración Pública Estatal y municipal, deberán:
 
-I. Proporcionarles la información asequible sobre el proceso de desarrollo urbano y el ordenamiento territorial, así como de los actos administrativos y autorizaciones que afecten al mismo;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+I. Proporcionarles la información sobre el proceso de reglamentación de la movilidad, del transporte y del tránsito, los planes de desarrollo urbano, de ordenamiento territorial metropolitanos, los actos administrativos y autorizaciones de uso de suelo, así como las bases de datos que forman la plataforma de información de la entidad federativa correspondiente, municipio, demarcación territorial y zona metropolitana.
 
 II. Promover, desarrollar y difundir investigaciones, estudios, diagnósticos y propuestas en la materia, con participación interdisciplinaria, que apoye el desarrollo urbano sostenible;
 
@@ -1519,7 +1527,9 @@ VIII. Garantizar la interoperabilidad y la consulta pública remota de los siste
 
 El Estado establecerá las regulaciones específicas a que se sujetará la creación y operación de observatorios urbanos y para el ordenamiento territorial con base en esta Ley.
 
-Los observatorios urbanos proporcionarán al Estado y a los municipios la información generada a través de sus estudios y análisis con el objetivo de retroalimentar los programas de ordenamiento territorial y desarrollo urbano.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Los Observatorios podrán llevar a cabo, de manera conjunta con los institutos de planeación del Estado, de los municipios y de las áreas metropolitanas que comprendan dos o más municipios; procesos de consulta y deliberación.
 
 ## TÍTULO QUINTO. INSTRUMENTOS DE FOMENTO
 
@@ -2017,7 +2027,9 @@ I. La planeación del ordenamiento del territorio y los asentamientos humanos de
 
 II. La planeación del desarrollo metropolitano de la zona metropolitana;
 
-III. La infraestructura vial, tránsito, transporte y la movilidad;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+III. La infraestructura vial, tránsito, transporte, la movilidad y la seguridad vial;
 
 IV. El suelo y las reservas territoriales;
 
@@ -3217,7 +3229,9 @@ Las autoridades competentes harán uso de los medios legales necesarios, incluye
 
 Para la accesibilidad universal, las políticas de movilidad deberán asegurar que las personas puedan elegir libremente la forma de trasladarse a fin de acceder a los bienes, servicios y oportunidades que ofrecen sus Centros de Población.
 
-Las políticas y programas para la movilidad será parte del proceso de planeación de los asentamientos humanos en el orden estatal y municipal.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Las políticas y programas para la movilidad y la seguridad vial, será parte del proceso de planeación de los asentamientos humanos en el orden estatal y municipal, debiendo atender y observar la jerarquía de movilidad a que se refiere la Ley General de Movilidad y Seguridad Vial.
 
 ###### ARTÍCULO 161.
 
@@ -3361,9 +3375,11 @@ Los sistemas de agua potable y alcantarillado sanitario y pluvial, energía elé
 
 En las vías públicas lo relativo a las aguas pluviales, corresponde a los municipios a través de los organismos operadores de agua en donde los hubiere, o directamente a los ayuntamientos en los municipios que no cuenten con los mismos, conforme lo determine la ley de la materia. El Estado a través de los organismos estatales competentes, podrá asumir transitoriamente, de manera directa o concurrente dicha responsabilidad en los casos en que así lo soliciten los ayuntamientos, previo convenio que se celebre al efecto en términos de la ley de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 169.
 
-Las normas para el diseño y la construcción de las vías públicas, que se deriven de esta Ley, deberán comprender cuando menos:
+Las normas para el diseño y la construcción de las vías públicas, que se deriven de esta Ley, observarán la jerarquía de movilidad, así como los criterios y estándares para el diseño de infraestructura vial a que se refiere la Ley General de Movilidad y Seguridad Vial, y las NORMAS OFICIALES MEXICANAS en materia de diseño de espacio público, y comprenderán cuando menos:
 
 I. El funcionamiento de la red vial y la interacción de las tipologías;
 
@@ -7078,3 +7094,11 @@ P.O. 1 DE MAYO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 1053 POR EL QUE “SE REFORMAN LAS FRACCIONES LVII, Y XCI DEL ARTÍCULO 4º; EL PÁRRAFO PRIMERO DEL ARTÍCULO 53, LA FRACCIÓN I, Y PÁRRAFO ULTIMO DEL ARTÍCULO 54, LA FRACCIÓN III DEL ARTÍCULO 85, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 160, Y EL PÁRRAFO PRIMERO EL ARTÍCULO 169 DE Y A (SIC) LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
