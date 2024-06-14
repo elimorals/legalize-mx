@@ -4,7 +4,7 @@ identifier: "LAMP"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-02"
-last_updated: "2021-06-07"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93440&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LAMP"
 
 LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2024.
 
 > <small>[N. DE E. CONTIENE LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO PUBLICADO EL 14 DE JULIO DE 2014 “POR EL QUE SE EXPIDEN LA LEY FEDERAL DE TELECOMUNICACIONES Y RADIODIFUSIÓN, Y LA LEY DEL SISTEMA PÚBLICO DE RADIODIFUSIÓN DEL ESTADO MEXICANO; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES EN MATERIA DE TELECOMUNICACIONES Y RADIODIFUSIÓN”, PUBLICADA EN LA EDICIÓN VESPERTINA DEL DIARIO OFICIAL DE LA FEDERACIÓN EL 15 DE JUNIO DE 2018.]</small>
 
@@ -1524,7 +1524,7 @@ XII. Se impida la continuación del procedimiento de extinción de dominio previ
 
 XIII. Se impida u obstaculice al Estado la utilización, aprovechamiento o explotación de los bienes de dominio directo referidos en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos.
 
-El órgano jurisdiccional de amparo excepcionalmente podrá conceder la suspensión, aún cuando se trate de los casos previstos en este artículo, si a su juicio con la negativa de la medida suspensional pueda causarse mayor afectación al interés social.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 130.
 
@@ -1663,6 +1663,10 @@ El órgano jurisdiccional tomará las medidas que estime necesarias para evitar 
 En los juicios de amparo en que se reclame una norma general autoaplicativa sin señalar un acto concreto de aplicación, la suspensión se otorgará para impedir los efectos y consecuencias de la norma en la esfera jurídica del quejoso.
 
 En el caso en que se reclame una norma general con motivo del primer acto de su aplicación, la suspensión, además de los efectos establecidos en el párrafo anterior, se decretará en relación con los efectos y consecuencias subsecuentes del acto de aplicación.
+
+> <small>(ADICIONADO, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+Tratándose de juicios de amparo que resuelvan la inconstitucionalidad de normas generales, en ningún caso las suspensiones que se dicten fijarán efectos generales.
 
 ###### Artículo 149.
 
@@ -3207,3 +3211,9 @@ Décimo Segundo. Se abroga la Ley Orgánica del Poder Judicial de la Federación
 (NOTA: EL 16 DE NOVIEMBRE DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y OCTAVO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2021 Y SU ACUMULADA 105/2021, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO DÉCIMO TERCERO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE NOVIEMBRE DE 2021 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 DÉCIMO TERCERO. CON EL FIN DE IMPLEMENTAR LA REFORMA CONSTITUCIONAL AL PODER JUDICIAL DE LA FEDERACIÓN PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 11 DE MARZO DE 2021 Y LAS LEYES REGLAMENTARIAS A LAS QUE SE REFIERE EL PRESENTE DECRETO, LA PERSONA QUE A SU ENTRADA EN VIGOR OCUPE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL DURARÁ EN ESE ENCARGO HASTA EL 30 DE NOVIEMBRE DE 2024. ASIMISMO, EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2016 CONCLUIRÁ SU ENCARGO EL 30 DE NOVIEMBRE DE 2023; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 24 DE FEBRERO DE 2019 CONCLUIRÁ SUS FUNCIONES EL 23 DE FEBRERO DE 2026; EL CONSEJERO DE LA JUDICATURA FEDERAL NOMBRADO POR EL EJECUTIVO FEDERAL EL 18 DE NOVIEMBRE DE 2019 CONCLUIRÁ EL 17 DE NOVIEMBRE DE 2026; LAS CONSEJERAS DE LA JUDICATURA FEDERAL DESIGNADAS POR EL SENADO DE LA REPÚBLICA EL 20 DE NOVIEMBRE DE 2019 CONCLUIRÁN SU ENCARGO EL 19 DE NOVIEMBRE DE 2026; Y EL CONSEJERO DE LA JUDICATURA FEDERAL DESIGNADO POR EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN EL 1 DE DICIEMBRE DE 2019 DURARÁ EN FUNCIONES HASTA EL 30 DE NOVIEMBRE DE 2026.
+
+D.O.F. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 129 Y 148 DE LA LEY DE AMPARO, REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE SUSPENSIÓN DEL ACTO RECLAMADO E INCONSTITUCIONALIDAD DE NORMAS GENERALES”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
