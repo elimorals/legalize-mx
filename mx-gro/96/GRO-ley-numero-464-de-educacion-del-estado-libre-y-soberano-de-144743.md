@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-464-de-educacion-del-estado-libre-y-soberano-de-1447
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-23"
-last_updated: "2023-11-07"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2020.
 
@@ -507,75 +507,87 @@ La autoridad educativa estatal generará mecanismos para apoyar y promover la cr
 
 ### Capítulo VIII. Educación inclusiva
 
-(NOTA: EL 10 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 299/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUERRERO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 44.
 
-La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y reducir las barreras que limitan el acceso, permanencia, participación y aprendizaje de los educandos, al eliminar prácticas de discriminación, exclusión y segregación.
+La educación inclusiva se refiere al conjunto de acciones orientadas a identificar, prevenir y eliminar las barreras que limitan el acceso, permanencia, participación y aprendizaje de las Personas con Discapacidad.
 
-La educación inclusiva se basa en la valoración de la diversidad, adaptando el sistema para responder con equidad y perspectiva de género, a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de los-educandos.
+La educación inclusiva se basa en la adaptación del sistema a las características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje de las Personas con Discapacidad a través de la valoración de la diversidad y la perspectiva de género.
 
-(NOTA: EL 10 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 299/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUERRERO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 45.
 
-La educación inclusiva tiene como finalidad favorecer el aprendizaje de los educandos en los tipos y niveles educativos, con énfasis en quienes estén, marginados o en riesgo de estarlo. Para tal efecto, las acciones de la autoridad educativa estatal buscarán:
+La educación inclusiva tiene como finalidad identificar, prevenir y eliminar las barreras que limitan el acceso, permanencia, participación y aprendizaje de los educandos, en los tipos y niveles educativos, con énfasis en quienes estén marginados o en riesgo de estarlo, así como aquellas que tengan discapacidades físicas, mentales, intelectuales o sensoriales. Para tal efecto, las acciones de la autoridad educativa estatal buscarán:
 
-I. Favorecer el máximo logro de aprendizaje de los educandos con respeto a su dignidad, derechos humanos y libertades fundamentales, reforzando su autoestima y aprecio por la diversidad humana;
+I. Garantizar que todos los niños, niñas y adolescentes con discapacidad tengan acceso de forma integral, igualitaria, equitativa y continua al aprendizaje y participación en todos los contextos;
 
-II. Desarrollar al máximo la personalidad, los talentos y la creatividad de los educandos;
+II. Favorecer el máximo logro de aprendizaje de los educandos, con base en las necesidades educativas específicas de cada tipo de discapacidad, con respeto a su dignidad, derechos humanos y libertades fundamentales a través del reforzamiento de su autoestima y aprecio por la diversidad humana;
 
-III. Favorecer la plena participación de los educandos, su educación y facilitar la continuidad de sus estudios en la educación obligatoria;
+III. Desarrollar al máximo la personalidad, los talentos y la creatividad de los educandos;
 
-IV. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, capacidades, habilidades y estilos de aprendizaje, entre otras;
+IV. Promover entornos de aprendizajes inclusivos y accesibles, con la finalidad de que los estudiantes con discapacidad tengan seguridad, apoyo y estimulación para que desarrollen su habilidad y capacidad de expresarse;
 
-V. Realizar los ajustes razonables en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación, y
+V. Favorecer la plena participación de las niñas, niños y adolescentes con discapacidad en su desarrollo escolar/académico y facilitar la continuidad de sus estudios básicos obligatorios;
 
-VI. Proporcionar a las personas con discapacidad la posibilidad de aprender y desarrollar habilidades para la vida, que favorezcan su inclusión laboral, a fin de propiciar su participación plena, y en igualdad de condiciones y oportunidades en la educación y en la sociedad.
+VI. Instrumentar acciones para que ninguna persona quede excluida del Sistema Educativo Estatal por motivos de discapacidad, origen étnico o nacional, creencias religiosas, convicciones éticas o de conciencia, sexo, orientación sexual o de género, así como por sus características, necesidades, intereses, habilidades, estilos de aprendizaje, entre otras;
 
-(NOTA: EL 10 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 299/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUERRERO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+VII. Realizar los ajustes razonables de diseño, implementación y evaluación de planes, programas de estudio y herramientas de aprendizaje, en función de las necesidades de las personas y otorgar los apoyos necesarios para facilitar su formación;
+
+VIII. Crear programas de estudio y herramientas de aprendizaje (sic) garanticen que las Personas con Discapacidad desarrollen habilidades para la vida, que favorezcan su inclusión laboral y propicien su participación plena y en igualdad de condiciones en la educación y en la sociedad;
+
+IX. Garantizar que todos los planteles educativos aseguren el ingreso y la permanencia escolar a través de procedimientos administrativos y de gestión escolar que consideren las necesidades de los diferentes tipos de discapacidad, y
+
+X. Reconocer que la educación inclusiva es posible, además de la intervención de los planteles educativos, con la participación de los tutores, padres y todos aquellos que de manera activa intervengan directamente en el desarrollo de la educación y que decidan desempeñar dicha función, para atender las necesidades de acompañamiento y cuidado de Personas con Discapacidad.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 46.
 
-En la aplicación de esta Ley, se garantizará el derecho a la educación a los educandos con condiciones especiales, aptitudes sobresalientes o que enfrenten barreras para el aprendizaje y la participación.
+En la aplicación de esta Ley, se garantizará el derecho a la educación de las Personas con Discapacidad, que enfrenten barreras de aprendizaje, participación o con aptitudes sobresalientes, estableciendo una educación inclusiva en todos los niveles y modalidades educativas; salvaguardando la esfera jurídica, calidad de vida y el pleno desarrollo de las Personas con Discapacidad.
 
-La autoridad educativa estatal, en el ámbito de su competencia y de conformidad a los criterios orientadores para la prestación de los servicios de educación especial que emita la autoridad educativa federal, para atender a los educandos con capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos, realizará lo siguiente:
+Las autoridades educativas públicas y privadas a nivel estatal y municipal, en el ámbito de su competencia, para atender a los educandos con discapacidad, sus circunstancias, necesidades, estilos y ritmos de aprendizajes diversos, realizarán lo siguiente:
 
-I. Prestar educación especial en condiciones necesarias, y con perspectiva de género, previa decisión y valoración de los educandos, madres y padres de familia, tutoras o tutores, personal docente y, en su caso, derivados por una condición de salud, para garantizar el derecho a la educación e igualdad de oportunidades de los educandos que enfrentan barreras para el aprendizaje y la participación;
+I. Prestar educación inclusiva en condiciones necesarias y con perspectiva de género, previa decisión y valoración por parte de los educandos, padres o tutores, para garantizar el derecho a la educación e igualdad de oportunidades de las Personas con Discapacidad;
 
-II. Ofrecer formatos accesibles para prestar educación especial, procurando en la medida de lo posible su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
+II. Ofrecer materiales didácticos y de apoyo accesibles para prestar educación inclusiva, procurando su incorporación a todos los servicios educativos, sin que esto cancele su posibilidad de acceder al servicio escolarizado;
 
-III. Prestar educación especial para apoyar a los educandos con alguna discapacidad o aptitudes sobresalientes en los niveles de educación obligatoria;
+III. Prestar educación inclusiva que busque eliminar las barreras de aprendizaje y fomentar la participación y aptitudes sobresalientes de las Personas con Discapacidad en los niveles de educación obligatoria;
 
-IV. Establecer un sistema de diagnóstico temprano y atención especializada para la eliminación de barreras para el aprendizaje y la participación;
+IV. Garantizar en cada plantel educativo un sistema de diagnóstico temprano y atención especializada, para la eliminación de barreras para el aprendizaje y la participación con personal especializado en materia de discapacidad;
 
-V. Garantizar la formación de todo el personal docente y autoridades escolares para que, en el ámbito de sus competencias, y aplicando la perspectiva de género, contribuyan a identificar y eliminar las barreras para el aprendizaje y la participación, y presten los apoyos que los educandos requieran;
+V. Garantizar la formación de todo el personal docente y autoridades escolares para que, en el ámbito de sus competencias, contribuyan a identificar y eliminar las barreras sociales para el aprendizaje de las Personas con Discapacidad;
 
-VI. Garantizar la satisfacción de las necesidades básicas de aprendizaje de los educandos con alguna discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva, y
+VI. Garantizar a través de la canalización de recursos necesarios, la satisfacción de las necesidades básicas de aprendizaje de las Personas con Discapacidad, su bienestar y máximo desarrollo para la autónoma inclusión a la vida social y productiva;
 
-VII. Promover actitudes, prácticas y políticas incluyentes para la eliminación de las barreras del aprendizaje en todas las personas involucradas en educación.
+VII. Promover actitudes, prácticas y políticas inclusivas para la eliminación de las barreras del aprendizaje en todas las personas e instituciones involucradas en la educación, y
 
-(NOTA: EL 10 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 299/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUERRERO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+VIII. Garantizar que las instituciones educativas cuenten con el personal administrativo y docente capacitado para impartir educación inclusiva.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 47.
 
-Para garantizar la educación inclusiva, la autoridad educativa estatal, en el ámbito de su competencia, ofrecerá las medidas pertinentes, entre ellas:
+Para garantizar la educación inclusiva, las autoridades educativas públicas y privadas, en los niveles estatales y municipales, en el ámbito de su competencia, estarán obligadas a ofrecer medidas pertinentes, entre ellas:
 
-I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario;
+I. Facilitar el aprendizaje del sistema Braille, otros modos, medios y formatos de comunicación aumentativos o alternativos y habilidades de orientación y de movilidad, así como la tutoría y el apoyo necesario para estudiantes con discapacidad visual;
 
-II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas dependiendo de las capacidades de los educandos y la enseñanza del español para las personas sordas;
+II. Facilitar la adquisición y el aprendizaje de la Lengua de Señas Mexicana o de medios alternativos para la comunicación de Personas con Discapacidad auditiva, dependiendo del contexto de los educandos;
 
-III. Asegurar que los educandos ciegos, sordos o sordos-ciegos reciban educación en los lenguajes, modos y medios de comunicación apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
+III. Asegurar que las personas con discapacidad o múltiples discapacidades, tales como sordo-ciegos, reciban educación en los lenguajes, los modos y los medios de comunicación más apropiados a las necesidades de cada persona y en entornos que permitan alcanzar su máximo desarrollo académico, productivo y social;
 
-IV. Asegurar con base a la perspectiva de género, que se realicen ajustes razonables para las personas con discapacidad, y
+IV. Asegurar con base en la perspectiva de género, que se realicen ajustes razonables para las Personas con Discapacidad;
 
-V. Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
+V. Proporcionar a las Personas con Discapacidad la atención que requieran de acuerdo con sus intereses y necesidades, considerando los lineamientos para la evaluación diagnóstica, los modelos pedagógicos, los mecanismos de acreditación y certificación necesarios en los tipos de educación obligatoria, y
 
-(NOTA: EL 10 DE AGOSTO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 299/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DIECIOCHO MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE GUERRERO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+VI. Atender las necesidades de las Personas con Discapacidad, en las que, además de una educación inclusiva, requieran las modalidades de educación indígena o afromexicana.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 48.
 
-En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General, la Ley General para la Inclusión de las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación y en las demás normas aplicables.
+En el Sistema Educativo Estatal se atenderán las disposiciones en materia de accesibilidad señaladas en la presente Ley, la Ley General, la Ley General para la Inclusión de los educandos y con preferencia a las Personas con Discapacidad, la Ley Federal para Prevenir y Eliminar la Discriminación y en las demás normas aplicables.
 
 ### Capítulo IX. Educación para personas adultas
 
@@ -1822,3 +1834,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto al Poder Ejecutivo del Estado, para su conocimiento y los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página web y el canal oficial del Congreso para su conocimiento en general.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 805 POR EL QUE SE ADICIONA EL CAPÍTULO VIII DENOMINADO “EDUCACIÓN INCLUSIVA” CONFORMADO POR LOS ARTÍCULOS 44, 45, 46, 47 Y 48 A LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Comuníquese el presente Decreto a la Titular del Poder Ejecutivo y al Titular de la Secretaría de Educación Guerrero para su conocimiento.
+
+TERCERO. Dese amplia difusión al presente Decreto en formato Braille, en Lengua de Señas Mexicana y en todos los mecanismos posibles que garanticen el principio de accesibilidad, para todos los tipos de discapacidades.
