@@ -4,7 +4,7 @@ identifier: "LGIPD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-05-30"
-last_updated: "2024-04-04"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81490&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGIPD"
 
 LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de mayo de 2011.
 
@@ -382,9 +382,11 @@ II. Que incluya el uso de señalización, facilidades arquitectónicas, tecnolog
 
 III. Que la adecuación de las instalaciones públicas sea progresiva.
 
+> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2024)</small>
+
 ###### Artículo 18.
 
-Las personas con discapacidad tienen derecho a una vivienda digna. Los programas de vivienda del sector público o sector privado deberán incluir proyectos arquitectónicos de construcciones que consideren sus necesidades de accesibilidad. Las instituciones públicas de vivienda otorgarán facilidades para recibir créditos o subsidios para la adquisición, redención de pasivos y construcción o remodelación de vivienda.
+Las personas con discapacidad tienen derecho a una vivienda digna. Los programas de vivienda del sector público o sector privado deberán incluir proyectos arquitectónicos de construcciones que consideren sus necesidades de accesibilidad. Las instituciones públicas de vivienda otorgarán facilidades para recibir créditos o subsidios para la adquisición, redención de pasivos y construcción, remodelación o adaptación de vivienda.
 
 ### Capítulo V. Transporte Público y Comunicaciones
 
@@ -658,11 +660,11 @@ I. La Junta de Gobierno, y
 
 II. El Director General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
 ###### Artículo 44.
 
-La Junta de Gobierno del Consejo estará integrada por diez representantes del Poder Ejecutivo Federal, uno de la Comisión Nacional de los Derechos Humanos y cinco representantes de la Asamblea Consultiva.
+La Junta de Gobierno del Consejo estará integrada por once representantes del Poder Ejecutivo Federal, uno de la Comisión Nacional de los Derechos Humanos y cinco representantes de la Asamblea Consultiva.
 
 Los representantes del Poder Ejecutivo Federal serán los titulares de las siguientes dependencias y entidades:
 
@@ -684,9 +686,17 @@ VI. Secretaría de Comunicaciones y Transportes;
 
 VII. Sistema Nacional para el Desarrollo Integral de la Familia;
 
-VIII. Consejo Nacional para Prevenir la Discriminación, y
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2024)</small>
 
-IX. Comisión Nacional de Cultura Física y Deporte.
+VIII. Consejo Nacional para Prevenir la Discriminación;
+
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+IX. Comisión Nacional de Cultura Física y Deporte, y
+
+> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+X. Comisión Nacional de Vivienda.
 
 Los integrantes designados por la Asamblea Consultiva durarán en su encargo tres años, pudiendo ser ratificados por otro periodo igual. Este cargo tendrá el carácter de honorífico.
 
@@ -963,3 +973,9 @@ D.O.F. 4 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 7 Y LA FRACCIÓN II DEL ARTÍCULO 21 DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD”.]
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES Y DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
