@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2024-06-07"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
@@ -883,6 +883,30 @@ Los animales transportados que fueran detenidos, en su camino o a su arribo al l
 
 Los Centros de Control Animal y Zoonosis, son unidades municipales de servicio a la comunidad, encargados de la atención y previsión de zoonosis y epizootias de animales, principalmente de las especies felina y canina y otras, con atención en la prevención y erradicación de la rabia.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Artículo 45 BIS.- Los Centros de Control Animal y Zoonosis podrán ofrecer al público en general y a bajo costo los siguientes servicios:
+
+I. Consulta veterinaria;
+
+II. Vacunación que compete a perros y gatos;
+
+III. Vacunación antirrábica;
+
+IV. Desparasitación;
+
+V. Esterilización;
+
+VI. Cirugía menor;
+
+VII. Cesárea canina y felina;
+
+VIII. Servicio de ultrasonido; y
+
+IX. Servicio de rayos X.
+
+Las cuotas de recuperación que generen la prestación de los servicios, serán aplicadas para el funcionamiento y mejora de los propios Centros.
+
 ###### Artículo 46.
 
 La operatividad técnica y administrativa de los Centros de Control Animal y Zoonosis estará a cargo de las autoridades municipales, pudiendo suscribir convenios de colaboración con la autoridad en materia de salud en el Estado, debiendo observar las Normas Oficiales Mexicanas que al efecto se emitan.
@@ -1594,5 +1618,11 @@ P.O. 9 DE MAYO DE 2024.
 P.O. 7 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 959 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 979 POR EL QUE SE ADICIONA EL ARTÍCULO 45 BIS A LA LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
