@@ -4,7 +4,7 @@ identifier: "MOR-presupuesto-de-egresos-del-gobierno-del-estado-de-morelos-16910
 country: "mx"
 rank: "presupuesto"
 publication_date: "2023-12-29"
-last_updated: "2024-04-17"
+last_updated: "2024-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MOR"
 
 PRESUPUESTO DE EGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS PARA EL EJERCICIO FISCAL DEL 1 DE ENERO AL 31 DE DICIEMBRE DE 2024
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Presupuesto publicado en el Extraordinario del Número 6267 del Periódico Oficial del Estado de Morelos, el viernes 29 de diciembre de 2023.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO Y REFORMA DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO Y REFORMAS DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### ARTÍCULO PRIMERO.
 
@@ -121,7 +121,7 @@ DISPOSICIONES TRANSITORIAS
 
 PRIMERA. Remítase el presente Decreto al Gobernador del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente Decreto entrará en vigor el día 1 de enero de 2024, previa publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión Oficial del Estado de Morelos.
+SEGUNDA. El presente Decreto entrará en vigor el día 1 de enero de 2024, previa publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión Oficial del Estado de Morelos.
 
 TERCERA. En cumplimiento a lo dispuesto por la Ley General de Contabilidad Gubernamental, el Gobierno del Estado instrumentará los documentos técnico-normativos que emita el Consejo Nacional de Armonización Contable, conforme a los criterios y términos establecidos para ese fin.
 
