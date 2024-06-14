@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2023-10-19"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -47,15 +47,17 @@ LEY DE TRANSITO DEL ESTADO DE SAN LUIS POTOSI
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 1°.
 
-La presente Ley es de orden público y de interés general; y tiene como objeto establecer las bases generales para la regulación del tránsito de vehículos, peatones y semovientes en el Estado, y del servicio de estacionamientos al público.
+La presente Ley es de orden público y de interés general, y tiene como objeto establecer las bases generales para regular el tránsito de vehículos, la movilidad y la seguridad vial, bajo los principios de accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad, y normar el servicio de estacionamientos al público.
 
-Tiene su fundamento en lo dispuesto por el artículo 115 fracciones II y III de la Constitución Política de los Estados Unidos Mexicanos; y 114 fracciones II y III de la Constitución Política del Estado, por lo que es obligatoria para todas las autoridades estatales y municipales, así como para particulares que se ubiquen en sus supuestos normativos. Los reglamentos municipales y, en su caso, los bandos de policía y gobierno que emitan los ayuntamientos, que regulen las materias de esta Ley, deberán respetar las bases generales que se establecen al efecto.
+Tiene su fundamento en lo dispuesto por las fracciones II y III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos; y las fracciones II y III del artículo 114 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, por lo que es obligatoria para todas las autoridades estatales y municipales, así como para particulares que se ubiquen en sus supuestos normativos. Los reglamentos municipales y, en su caso, los bandos de policía y gobierno que emitan los ayuntamientos, que regulen las materias de esta Ley, deberán observar las bases generales que se establecen al efecto.
 
-El servicio público de tránsito es considerado como una función de seguridad pública en los términos de la Ley de Seguridad Pública del Estado, y le son aplicables, en lo conducente, sus objetivos y principios.
+El servicio público de tránsito es considerado como una función de seguridad pública en los términos de la Ley de Seguridad Pública, y de movilidad en los términos de la Ley General de Movilidad y Seguridad Vial, y le son aplicables, los objetivos establecidos en dicho ordenamiento legal, atendiendo en su orden peatones, vehículos no motorizados, vehículos de trasporte público masivo, y vehículos motorizados particulares.
 
-En los términos del artículo 115 fracción II inciso e) de la Constitución Política de los Estados Unidos Mexicanos, y 114 fracción II de la Constitución Política del Estado, cuando algún municipio de la Entidad no cuente con reglamento municipal, o bando de policía y gobierno que regule el servicio público de tránsito, peatones, y del servicio de estacionamientos al público, aplicará en lo que proceda, lo dispuesto por esta Ley.
+En los términos del artículo 115 fracción II inciso e) de la Constitución Política de los Estados Unidos Mexicanos, y 114 fracción II de la Constitución Política del Estado Libre y Soberano de San Luis Potosí, cuando algún municipio de la Entidad no cuente con reglamento municipal, o bando de policía y gobierno que regule el servicio público de tránsito, movilidad y seguridad vial, y servicio de estacionamientos al público, aplicará la Ley General de Movilidad y Seguridad Vial, y esta Ley.
 
 ###### ARTICULO 2°.
 
@@ -97,9 +99,15 @@ I. Agente de tránsito: policía a cargo de la vigilancia del tránsito, así co
 
 II. Alcoholímetro: dispositivo para medir la cantidad de alcohol que presenta en el aire espirado por una persona;
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 14 DE JUNIO DE 2024)</small>
 
-III. Aliento alcohólico: condición física y mental que se presenta en una persona cuando por la ingesta de alcohol etílico, su organismo contiene menos de 0.08 gramos de alcohol por decilitro de sangre, o hasta 0.40 miligramos de alcohol por litro de aire espirado, mediante la prueba de alcoholimetría, dando como resultado a la persona apta para manejar;
+III. Aliento alcohólico: condición física y mental que se presenta en una persona cuando por la ingesta de alcohol etílico, quedando prohibido la conducción de cualquier tipo de vehículos cuando su organismo contenga una alcoholemia superior a 0.25 mg/L en aire espirado, mediante la prueba de alcoholimetría, o 0.05 g/dL en sangre, salvo las siguientes consideraciones:
+
+a) Para las personas que conduzcan motocicletas queda prohibido hacerlo con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/dL en sangre, y
+
+b) Para vehículos destinados al transporte de pasajeros y de carga, queda prohibido conducir con cualquier concentración de alcohol por espiración o litro de sangre.
+
+La autoridad competente realizará el respectivo control de alcoholimetría mediante el método aprobado por la Secretaría de Salud Federal;
 
 IV. Amonestación: prevención que se hace a un individuo para que se abstenga de hacer algo que se califique como infracción a este Ordenamiento;
 
@@ -127,7 +135,9 @@ XIII. Guardia Civil: la Guardia Civil Estatal;
 
 XIV. Comandante: la persona titular de la Guardia Civil Estatal;
 
-XV. Dispositivos para el control de tránsito: señalamientos, marcas, semáforos y otros medios similares que se utilizan para regular y guiar el tránsito de personas, semovientes y vehículos;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XV. Dispositivos para el control de tránsito: señalamientos horizontales y verticales, marcas, semáforos y otros medios similares que se utilizan para regular y guiar el tránsito de personas, semovientes y vehículos;
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2022)</small>
 
@@ -137,9 +147,9 @@ XVII. Engomado: elemento de alta seguridad que se adhiere a las ventanas de los 
 
 XVIII. Estacionamiento: espacio destinado y permitido para ubicar un vehículo en la vía pública en el carril adyacente a las aceras, o fuera de la vía pública, centros comerciales, en cocheras, lotes y edificios;
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-XIX. Estado de ebriedad: condición física y mental que se presenta en una persona cuando por la ingesta de alcohol etílico, su organismo contiene más de 0.08 gramos de alcohol por decilitro en la sangre, o más de 0.40 miligramos de alcohol por litro (sic) aire espirado a por litro (sic), mediante la prueba de alcoholimetría, dando como resultado que la persona no está apta para manejar;
+XIX. Estado de ebriedad: condición física y mental que se presenta en una persona cuando por la ingesta de alcohol etílico, su organismo contiene valores superiores a los definidos como aliento alcohólico;
 
 XX. Estudios técnicos: aquéllos que se realizan por profesionistas, expertos o peritos en la materia;
 
@@ -155,11 +165,13 @@ XXIII Bis. Informe policial homologado: documento elaborado por un Perito de Hec
 
 XXIV. Infracción: conducta que lleva a cabo un conductor, peatón o pasajero, que transgrede algunas disposiciones de esta Ley, o los reglamentos, y que tiene como consecuencia una sanción;
 
-XXV. Licencia de conducir: documento que la autoridad estatal competente otorga a una persona para conducir un vehículo;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+XXV. Licencia de conducir: documento que puede ser expedido en forma física o digital que la autoridad competente otorga a una persona para conducir un vehículo;
 
-XXV BIS. Motocicleta: al vehículo motorizado que utiliza manubrio para su conducción, de una o más plazas, con dos o más ruedas, que está equipado con motor eléctrico, de combustión interna de dos o cuatro tiempos, con un cilindraje de cuarenta y nueve centímetros cúbicos de desplazamiento o impulsado por cualquier fuerza motriz;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXV BIS. Motocicleta: al vehículo motorizado de dos o más ruedas, utilizado para el transporte de pasajeros o de carga, propulsado por un motor de combustión interna, eléctrico o algún otro tipo de mecanismo que utilice cualquier otro tipo de energía o asistencia que proporcione una potencia continua normal mayor a 1 KW (1.34HP), o cuyo motor de combustión tenga un volumen desplazado mayor a 49 cms cúbicos. Sin ser limitativo sino enunciativo, una motocicleta puede incluir denominaciones de bicimoto, motoneta, motocicleta con sidecar, trimoto y cuatrimoto, con capacidad de operar tanto en carretera como en otras superficies;
 
 XXVI. Número de identificación vehicular NIV: combinación de diecisiete caracteres asignados al vehículo al momento de su fabricación, o su registro en el padrón nacional;
 
@@ -167,7 +179,9 @@ XXVII. (DEROGADA, P.O. 4 DE JULIO DE 2020)
 
 XXVIII. Pasajero: la persona que se encuentra a bordo de un vehículo y no tiene carácter de conductor;
 
-XXIX. Peatón: persona que transita a pie por la vía pública o zonas privadas con acceso al público, o camina asistiéndose de aparatos, o de vehículos no regulados por esta Ley, en el caso de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXIX. Peatón: persona que transita por la vía a pie o que por su condición de discapacidad o de movilidad limitada utilizan ayudas técnicas para desplazarse; incluye menores de doce años a bordo de un vehículo no motorizado;
 
 XXX. Perito en hechos de tránsito: es toda aquella persona especializada cuyo objetivo es reconstruir un hecho de tránsito terrestre, con bases técnicas para emitir un dictamen, en el que se establece las causas que dieron origen al mismo;
 
@@ -185,7 +199,9 @@ XXXII Bis. Placas de discapacidad: plancha de metal en que figura el número de 
 
 XXXII. Ter. Póliza de Seguro: documento expedido por la institución de seguros autorizada por la Comisión Nacional de Seguros y Fianzas, al propietario o concesionario del vehículo, que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas por la conducción del vehículo;
 
-XXXIII. Prueba de alcoholimetría: Procedimiento llevado a cabo por la autoridad con el fin de determinar si una persona presenta aliento alcohólico ó estado de ebriedad;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXXIII. Prueba de alcoholimetría: Procedimiento llevado a cabo por la autoridad con el fin de determinar si una persona presenta aliento alcohólico o estado de ebriedad, la (sic) cual será realizado por la autoridad competente mediante el control de alcoholimetría o método aprobado por la Secretaría de Salud Federal, de conformidad con la Ley General de Movilidad y Seguridad Vial;
 
 XXXIV. Registro público vehicular: es un registro de información a nivel nacional que tiene como propósito otorgar seguridad pública y jurídica a los actos que se realicen con vehículos que circulen en territorio nacional, mediante la identificación y control vehicular, además de brindar servicios de información públicos;
 
@@ -195,9 +211,27 @@ XXXV. Reglamento: Reglamento de la Dirección General de Tránsito
 
 XXXVI. Secretaría: Secretaría de Seguridad y Protección Ciudadana;
 
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXXVI BIS. Seguridad Vial: conjunto de políticas y sistemas orientados a controlar los factores de riesgo, con el fin de prevenir y reducir las muertes y lesiones graves ocasionadas por siniestros de tránsito;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXXVI TER. Señalamiento Horizontal: conjunto de marcas que se pintan o colocan sobre el pavimento, guarniciones y estructuras, con el propósito de delinear las características geométricas de las carreteras estatales y vialidades urbanas, y denotar todos aquellos elementos estructurales que estén instalados dentro del derecho de vía, para regular y canalizar el tránsito de vehículos y peatones, así como proporcionar información a los usuarios. Estas marcas son rayas, símbolos, leyendas o dispositivos;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXXVI QUATER. Señalamiento Vertical: conjunto de señales en tableros fijados en postes, marcos y otras estructuras, integradas con leyendas y símbolos. Según su propósito pueden ser: preventivas, restrictivas, informativas, turísticas y de servicios;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXXVI QUINQUES. Siniestro de Tránsito: Cualquier suceso, hecho, accidente o evento en la vía pública derivado del tránsito vehicular y de personas, en el que interviene por lo menos un vehículo y en el cual se causan la muerte, lesiones, incluidas en las que se adquiere alguna discapacidad, o daños materiales, que puede prevenirse y sus efectos adversos atenuarse;
+
 XXXVII. Tarjeta de circulación: documento oficial expedido por la autoridad competente que identifica al vehículo por sus características e individualiza al propietario;
 
-XXXVIII. Vehículo: son aquellos automotores, remolques y semirremolques terrestres, sobre el cual toda persona u objeto puede ser transportado por una vía, excepto los ferrocarriles, los militares y aquellos que por su naturaleza sólo pueden ser destinados a usos agrícolas e industriales;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXXVIII. Vehículo: Modo de transporte diseñado para facilitar la movilidad y tránsito de personas o bienes por la vía pública, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna, eléctrico o cualquier fuerza motriz;
 
 XXXIX. Vehículos chatarra: los que se encuentren en depósitos vehiculares por un periodo mayor a un año y que, por sus condiciones físicas y mecánicas, se consideran inservibles o inadecuados para reincorporarse a la circulación;
 
@@ -207,11 +241,17 @@ XLI. Vehículos equiparables a chatarra: todo vehículo que circunstancialmente 
 
 XLII. Vehículos especiales: grúas, vehículos de apoyo, de auxilio, y cualquier otro vehículo que haya sido autorizado por la Secretaría para usar sirena, torretas de luces, blancas, azules y ámbar, y
 
-XLIII. Vías públicas: avenidas, calzadas, plazas, calles, parques, andadores, caminos, bulevares, callejones de acceso, ciclo pistas y banquetas; así como los caminos vecinales, carreteras, brechas, desviaciones, veredas, senderos, acotamientos, derechos de vía, los puentes que unan a las vías públicas y a las zonas de protección de ambos, destinados al tránsito de vehículos, peatones y semovientes.
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XLIII. Vía pública: Todo espacio de dominio público y uso común destinado al tránsito de personas peatonas y vehículos, así como a la prestación de servicios públicos y la instalación de infraestructura y mobiliario, en la que deberán considerarse las vocaciones de movilidad y habitabilidad a que se refiere la Ley General de Movilidad y Seguridad Vial.
 
 ###### ARTICULO 7°.
 
 El Ejecutivo del Estado y los ayuntamientos proveerán en la esfera de su competencia, lo necesario para el debido cumplimiento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Las autoridades estatales y municipales establecerán los requisitos para que las personas prestadoras del servicio de transporte público garanticen un servicio seguro y de calidad, de acuerdo con requerimientos técnicos de seguridad para su operación, con base en el principio de inclusión e igualdad, a fin de resguardar la vida, salud e integridad física de todas las personas.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES DE TRANSITO Y SUS ATRIBUCIONES
 
@@ -259,7 +299,9 @@ Corresponde al titular del Poder del Ejecutivo del Estado:
 
 I. Dictar lo necesario para la exacta observancia de las disposiciones de la presente Ley;
 
-II. Dictar las medidas conducentes en casos de siniestros, casos fortuitos o de fuerza mayor, para preservar la seguridad de la población en materia de tránsito, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+II. Dictar las medidas conducentes en casos de siniestros de tránsito, casos fortuitos o de fuerza mayor, para preservar la seguridad de la población en materia de tránsito, y
 
 III. Expedir el Reglamento de Tránsito conforme a las disposiciones de esta Ley.
 
@@ -279,9 +321,67 @@ V. Llevar el registro público vehicular;
 
 VI. Autorizar el establecimiento y operación de las escuelas de manejo;
 
-VII. Llevar a cabo, en coordinación con los diversos municipios de la Entidad, programas permanentes de educación vial, necesarios para la prevención de accidentes de tránsito, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-VIII. Las que esta Ley y las demás disposiciones legales le señalen.
+VII. En coordinación con los diversos municipios de la Entidad, deberá diseñar, implementar, ejecutar, evaluar y dar seguimiento a los programas, planes, programas, campañas y acciones para sensibilizar, educar y formar a la población en materia de movilidad y seguridad vial, con el objetivo de generar la adopción de hábitos de prevención de siniestros de tránsito, el uso racional del automóvil particular; la promoción de los desplazamientos inteligentes y todas aquellas acciones que permitan lograr una sana convivencia en las vías;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2024)</small>
+
+VIII. Establecer los mecanismos de participación de personas especialistas en la materia, y la academia, en el diseño e implementación de programas, campañas y acciones en materia de educación vial, movilidad, y perspectiva de género que generen el desarrollo de políticas sostenibles e incluyentes con especial atención a los grupos en situación de vulnerabilidad, orientadas al peatón, la bicicleta, al transporte público y al uso racional del automóvil particular;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+IX. Integrar la base de datos de movilidad y seguridad vial, en la que se contenga la información de Registro Público Vehicular, licencias de conducir incluyendo el tipo de licencia, seguros registrados por vehículo, operadores de servicio de transporte, conductores de servicios de transporte, infracciones cometidas y cumplimiento de sanciones impuestas, siniestros de tránsito, placas y tarjetas de circulación; y en general, la información que el Sistema Nacional de Movilidad y Seguridad Vial determine, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2024)</small>
+
+X. Las que esta Ley y las demás disposiciones legales le señalen.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 11 BIS. Corresponde a la Secretaría, en materia de movilidad y Seguridad Vial:
+
+I. Integrar el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo 7 de la Ley General de Movilidad y Seguridad Vial;
+
+II. Gestionar la seguridad vial y la movilidad urbana, interurbana, rural e insular, en el ámbito de su competencia, con base en lo establecido en la Ley General de Movilidad y Seguridad Vial, y demás disposiciones legales en la materia;
+
+III. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
+
+IV. Participar con las autoridades federales, y los municipios, en la planeación, diseño, instrumentación e implementación de la Estrategia Nacional y de los Convenios de Coordinación Metropolitanos, en los términos previstos en la Ley General de Movilidad y Seguridad Vial, y demás disposiciones legales aplicables;
+
+V. Armonizar los programas de ordenamiento territorial que le competen con lo dispuesto en la Ley General de Movilidad y Seguridad Vial y otras leyes aplicables;
+
+VI. Celebrar convenios de coordinación con la Federación, otras entidades federativas, y los municipios del Estado, para la implementación de acciones específicas, obras e inversiones en la materia;
+
+VII. Desarrollar estrategias, programas y proyectos para la movilidad y la seguridad vial, con prioridad en el uso del transporte público y los modos no motorizados;
+
+VIII. Asignar, gestionar y administrar recursos públicos, en coordinación con los municipios del Estado, bajo los criterios de la Ley General de Movilidad y Seguridad Vial, para implementar acciones y proyectos en materia de movilidad y seguridad vial, infraestructura, servicios auxiliares y transporte;
+
+IX. Establecer la reglamentación para los estudios de impacto de movilidad y seguridad vial con perspectiva de género;
+
+X. Impulsar la consolidación de los sistemas de movilidad en los centros de población;
+
+XI. Otorgar licencias y permisos para conducir, en las modalidades de su competencia, para el transporte de pasajeros, de carga y de uso particular, así como el registro para que los vehículos circulen conforme a las leyes y reglamentos correspondientes bajo los criterios de la Ley General de Movilidad y Seguridad Vial;
+
+XII. Establecer los acuerdos y medidas necesarias para la conservación, mantenimiento y renovación del parque vehicular destinado a la prestación de los servicios público, mercantil y privado de transporte de pasajeros y de carga, de conformidad con la legislación aplicable;
+
+XIII. Incentivar la circulación de vehículos eficientes y menos dañinos para el medio ambiente; establecer el marco normativo y programas correspondientes para su adecuada operación, así como la implementación de su infraestructura vial y equipamiento necesario, en coordinación con las autoridades competentes;
+
+XIV. Expedir las normas y lineamientos que deberán cumplir los vehículos motorizados que cuenten con registro en el Estado, en materia de protección al medio ambiente;
+
+XV. Diseñar e implementar, de manera conjunta con las entidades federativas colindantes, mecanismos de coordinación para el cobro de infracciones de tránsito;
+
+XVI. Crear, administrar y mantener actualizados sus indicadores y bases de datos en materia de movilidad y seguridad vial que se incorpore al Sistema de Información Territorial y Urbano a los que se refiere la Ley General de Movilidad y Seguridad Vial;
+
+XVII. Realizar los operativos de control de uso de distractores durante la conducción de vehículos, sistemas de retención infantil, cascos en motociclistas, control de velocidad y de alcoholimetría, en el ámbito de su competencia, y de acuerdo a los lineamientos establecidos por el Sistema Nacional de Movilidad y Seguridad Vial;
+
+XVIII. Instrumentar y articular, en concordancia con la política nacional, las acciones necesarias para disminuir las muertes, lesiones graves y discapacidades ocasionadas por siniestros de tránsito;
+
+XIX. Fortalecer los sistemas de transporte público de pasajeros con el fin de mejorar sus condiciones y promover su uso, a fin de cumplir con el objetivo que en ese tema dicta la Ley General de Movilidad y Seguridad Vial;
+
+XX. Establecer medidas de accesibilidad, inclusión y condiciones de diseño universal para las personas con discapacidad y con movilidad limitada, así como otros grupos en situación de vulnerabilidad, dentro de los servicios de transporte público de pasajeros individual y colectivo, para garantizar su desplazamiento seguro en las vías, conforme a la Ley General de Movilidad y Seguridad Vial, y
+
+XXI. Las demás previstas para el cumplimiento de la presente Ley y a la Ley General de Movilidad y Seguridad Vial.
 
 ###### ARTICULO 12.
 
@@ -313,13 +413,65 @@ X. Las que esta Ley y las demás disposiciones legales señalen.
 
 Son atribuciones de los ayuntamientos de conformidad en lo dispuesto en esta Ley:
 
-I. Celebrar convenios cuando se solicite al Estado prestar en forma concurrente o total el servicio público de tránsito, en sus respectivas circunscripciones, conforme a lo dispuesto en la Ley Orgánica del Municipio Libre deberá ser aprobado por cuando menos las dos terceras partes de los miembros del cabildo de que se trate;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+I. Cuando se solicite al Estado, celebrar convenios para prestar en forma concurrente o total el servicio público de tránsito, en sus respectivas circunscripciones, así como para diseñar, implementar, ejecutar, evaluar y dar seguimiento a los programas, planes, programas, campañas y acciones para sensibilizar, educar y formar a la población en materia de movilidad y seguridad vial, conforme a lo dispuesto en la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, lo cual deberá ser aprobado por cuando menos las dos terceras partes de los integrantes del Cabildo de que se trate;
 
 II. Disponer lo necesario para su debida observancia;
 
 III. Expedir el reglamento de tránsito, y
 
 IV. Las que esta Ley y las demás disposiciones legales señalen.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 13 BIS. Son atribuciones de los ayuntamientos, en materia de movilidad y Seguridad Vial:
+
+I. Participar en el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo 7 de la General de Movilidad y Seguridad Vial, y los lineamientos que establezca el Sistema Nacional;
+
+II. Formular, aprobar, administrar y ejecutar los programas municipales en materia de movilidad y seguridad vial, conforme a lo establecido en el Plan Nacional de Desarrollo, la Estrategia Nacional, los programas emitidos por la Secretaría y los Convenios de Coordinación Metropolitanos; así como conducir, evaluar y vigilar la política conforme a lo establecido por esta Ley, sus principios y jerarquía de la movilidad a que se refiere la Ley General de Movilidad y Seguridad Vial;
+
+III. Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
+
+IV. Participar con las autoridades federales y del Estado, así como de otros municipios, en la planeación, regulación, instrumentación e implementación de los Convenios de Coordinación Metropolitanos;
+
+V. Constituir las instancias locales y de coordinación metropolitana para la implementación de acciones integrales, acciones afirmativas transversales en materia de movilidad, en apego a la Ley General de Movilidad y Seguridad Vial, y demás disposiciones legales;
+
+VI. Celebrar convenios de coordinación con la Federación, otras entidades federativas, y municipios, para la implementación de acciones específicas, obras e inversiones en la materia, así como aquellas que prioricen la movilidad de los grupos en situación de vulnerabilidad;
+
+VII. Facilitar y participar en los sistemas de movilidad implementados por el Estado, en los términos que establece la Ley General de Movilidad y Seguridad Vial, garantizando que las vías proporcionen un nivel de servicio adecuado para todas las personas, considerando su interseccionalidad, sin importar el modo de transporte que utilicen;
+
+VIII. Desarrollar estrategias, programas y proyectos para la movilidad, fomentando y priorizando el uso del transporte público y los modos no motorizados;
+
+IX. Asignar, gestionar y administrar recursos para apoyar e implementar acciones y proyectos en materia de movilidad, su infraestructura, servicios auxiliares, operación y capacitación de las personas operadoras, transporte y seguridad vial, promoviendo una mejor utilización de las vías conforme a la jerarquía de la movilidad;
+
+X. Establecer los mecanismos necesarios para mejorar la seguridad vial, de conformidad con la jerarquía de la movilidad y sus necesidades;
+
+XI. Realizar estudios para el diseño, modificación y adecuación de las vías en los centros de población, de conformidad con lo establecido en la Ley General de Movilidad y Seguridad Vial, y las necesidades territoriales;
+
+XII. Implementar dispositivos para el control del tránsito que deban ser utilizados en los centros de población de su competencia;
+
+XIII. Establecer la categoría, sentidos de circulación, señalética y demás características de las vías en su territorio;
+
+XIV. Expedir las autorizaciones, licencias o permisos para la realización de obras de infraestructura para la movilidad, con estricto apego a las normas jurídicas locales, planes o programas;
+
+XV. Realizar estudios de impacto de movilidad en el ámbito de su competencia, incluyendo criterios de sustentabilidad, perspectiva de género, entre otros que se consideren relevantes;
+
+XVI. Autorizar las áreas de transferencia para el transporte en su territorio;
+
+XVII. Regular el servicio del estacionamiento en vía pública;
+
+XVIII. Impulsar la accesibilidad e inclusión de personas con discapacidad y personas con movilidad limitada a los servicios públicos de transporte de pasajeros, así como su desplazamiento seguro y efectivo en las vías a través de infraestructura adecuada, de conformidad con lo establecido en la Ley General de Movilidad y Seguridad Vial;
+
+XIX. Mantener, en el ámbito de sus atribuciones, las vías libres de obstáculos y elementos que impidan, el tránsito peatonal o vehicular, o que causen un riesgo; a menos que se justifique su presencia;
+
+XX. Diseñar, implementar, ejecutar, evaluar y dar seguimiento a los planes, programas, campañas y acciones para sensibilizar, educar y formar a la población en materia de movilidad y seguridad vial, con el objetivo de generar la adopción de hábitos de prevención de siniestros de tránsito, el uso racional del automóvil particular; la promoción de los desplazamientos inteligentes y todas aquellas acciones que permitan lograr una sana convivencia en las vías.
+
+XXI. Implementar programas especiales de seguridad vial en los entornos escolares y puntos de alta afluencia de personas;
+
+XXII. Prever en su legislación aplicable, que los desarrollos inmobiliarios cuenten con el criterio de calle completa, y
+
+XXIII. Las demás previstas para el cumplimiento de la presente Ley y a la Ley General de Movilidad y Seguridad Vial.
 
 ###### ARTICULO 14.
 
@@ -345,7 +497,9 @@ VII. Las que esta Ley y las demás disposiciones legales señalen.
 
 Son atribuciones del Director de tránsito municipal o su equivalente, dentro de su jurisdicción territorial:
 
-I. Establecer las medidas preventivas tendientes a evitar infracciones y accidentes de tránsito en las vías públicas;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+I. Establecer las medidas preventivas tendientes a evitar infracciones y siniestros de tránsito en las vías públicas;
 
 II. Coadyuvar, cuando así se lo soliciten las autoridades competentes, en la prevención de la comisión de delitos;
 
@@ -365,9 +519,11 @@ VIII. Presentar al ayuntamiento un informe trimestral de las actividades realiza
 
 IX. Las que esta Ley y las demás disposiciones legales señalen.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 16.
 
-Los elementos de seguridad pública del Estado y los agentes de tránsito de los municipios, en las áreas de su jurisdicción y conforme a su competencia, tendrán como función regular el tránsito de vehículos y peatones, ejecutar más medidas preventivas tendientes a evitar infracciones y accidentes de tránsito en las vías públicas; cumplir y hacer cumplir esta Ley, los reglamentos municipales, los bandos de policía y gobierno y, en su caso, las normas que de ella emanen; para lo cual están facultados para sancionar a los sujetos que infrinjan las disposiciones contenidas en los citados cuerpos normativos.
+Los elementos de seguridad pública del Estado y los agentes de tránsito de los municipios, en las áreas de su jurisdicción y conforme a su competencia, tendrán como función regular el tránsito de vehículos y peatones, ejecutar más medidas preventivas tendientes a evitar infracciones y siniestros de tránsito en las vías públicas; cumplir y hacer cumplir esta Ley, los reglamentos municipales, los bandos de policía y gobierno y, en su caso, las normas que de ella emanen; para lo cual están facultados para sancionar a los sujetos que infrinjan las disposiciones contenidas en los citados cuerpos normativos.
 
 ## TITULO TERCERO. DE LA CLASIFICACION Y EQUIPO DE VEHICULOS
 
@@ -423,9 +579,11 @@ Todo vehículo que transite por la vía pública deberá encontrarse en condicio
 
 Con la finalidad de prever congestionamientos viales, daños a la infraestructura de las vías de comunicación, y riesgos a la población, los ayuntamientos dispondrán en sus reglamentos de tránsito, las restricciones para la circulación de vehículos pesados en las vías y horarios que determinen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 19.
 
-Los vehículos que circulen en la vía pública, de acuerdo a su naturaleza deberán, obligatoriamente, contar con:
+Los vehículos motorizados que circulen en la vía pública, de acuerdo a su naturaleza, obligatoriamente deberán contar con:
 
 I. Faros principales delanteros, que emitan luz blanca en alta y baja intensidad;
 
@@ -433,7 +591,9 @@ II. Lámparas posteriores que emitan luz roja, claramente visible a una distanci
 
 III. Lámparas direccionales en el frente y parte posterior, con proyección de luces ámbar intermitentes;
 
-IV. Cinturones de seguridad para todos los ocupantes;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+IV. Cinturones de seguridad para todos los ocupantes, de acuerdo con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
 
 V. Claxon;
 
@@ -451,13 +611,13 @@ X. Llanta de refacción y herramienta indispensable para efectuar el cambio;
 
 XI. Equipo de señalización para casos de emergencia;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-XII. Sillas porta-infante, en su caso;
+XII. Cualquier persona menor de doce años o que por su constitución física lo requiera, deberá viajar en los asientos traseros de los vehículos motorizados, con un sistema de retención infantil o en un asiento de seguridad que cumpla con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-XIII. Para el caso de los vehículos a que se refiere el inciso a), numerales 1 y 2, del artículo 17 de la presente Ley, éstos deberán contar con cascos de protección para sus ocupantes, y
+XIII. Para el caso de las motocicletas o motonetas, el uso de casco será obligatorio para todas las personas conductoras y pasajeras, el cual deberá cumplir con la Norma Oficial Mexicana aplicable en la materia, y
 
 > <small>(ADICIONADA, P.O. 15 DE JULIO DE 2021)</small>
 
@@ -563,7 +723,9 @@ Las placas y tarjetas de circulación son intransferibles. Para el caso de la en
 
 Todos los vehículos de motor sin excepción alguna, para que puedan circular en las vías públicas del Estado, deberán contar con póliza expedida por la institución de seguros autorizada por la Comisión Nacional de Seguros y Fianzas, que garantice a terceros los daños que pudieren ocasionarse en sus bienes y personas por la conducción del vehículo.
 
-Si los conductores sufren algún accidente vial y éste no cuenta con su seguro vigente, se hará acreedor a la multa que establezca la autoridad competente en el reglamento respectivo.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Si los conductores sufren algún siniestro de tránsito y éste no cuenta con su seguro vigente, se hará acreedor a la multa que establezca la autoridad competente en el reglamento respectivo.
 
 ### Capítulo II. De las Licencias y Permisos
 
@@ -571,7 +733,13 @@ Si los conductores sufren algún accidente vial y éste no cuenta con su seguro 
 
 Para conducir vehículos de motor en el Estado, las personas deberán portar la licencia o el permiso respectivo.
 
-Es facultad exclusiva del Ejecutivo del Estado, por conducto de la Secretaría, la expedición de las licencias a que se refiere este artículo.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Es facultad exclusiva del Ejecutivo del Estado, por conducto de la Secretaría, la expedición de las licencias a que se refiere este artículo. El Estado podrá determinar, mediante acuerdo de la Secretaría, el tiempo máximo de vigencia de acuerdo con la modalidad o tipo de vehículo a conducir.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Las licencias que expidan las autoridades competentes podrán ser impresas en material plástico o de forma digital, mediante aplicaciones tecnológicas, mismas que permitirán la acreditación de las habilidades y requisitos correspondientes para la conducción del tipo de vehículo de que se trate, y tendrán plena validez en todo el territorio nacional.
 
 ###### ARTICULO 31.
 
@@ -593,7 +761,9 @@ VII. El tipo de sangre;
 
 VIII. La anuencia del titular, si así lo decide, para que se le considere donador de órganos en los casos provistos (sic) y autorizados por las (sic) legislación aplicable;
 
-IX. El nombre de la persona a quien se deberá avisar en caso de accidente, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+IX. El nombre de la persona a quien se deberá avisar en caso de siniestro de tránsito, y
 
 X. Para efectos de la fracción VIII de este artículo, el Ejecutivo del Estado celebrará los convenios de colaboración con las dependencias competentes en la materia, a efecto de llevar registro de dicho trámite.
 
@@ -627,9 +797,9 @@ I. Ser mexicano o acreditar su legal estancia en el país y domicilio en el Esta
 
 II. Haber cumplido la mayoría de edad;
 
-> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-III. Presentar certificado de manejo expedido por la autoridad correspondiente, el cual se entregará una vez aprobado el examen de conducción gratuito impartido por la Secretaría Estatal de Seguridad Pública;
+III. Acreditar el examen de valoración integral que demuestre su aptitud para ello, así como el examen teórico y práctico de conocimientos y habilidades necesarias, antes de la fecha de expedición o renovación de la licencia o permiso. En el caso de personas con discapacidad el examen de valoración deberá realizarse en formatos accesibles;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2016)</small>
 
@@ -647,9 +817,11 @@ VIII. (DEROGADA, P.O. 10 DE MARZO DE 2016)
 
 IX. (DEROGADA, P.O. 10 DE MARZO DE 2016)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 37.
 
-Las personas mayores de dieciséis años y menores de dieciocho podrán solicitar, a través de sus padres o tutores, ante la Secretaría, permiso para manejar motocicletas o automóviles de servicio particular, el cual tendrá una vigencia de seis meses.
+Las personas mayores de dieciséis años y menores de dieciocho podrán solicitar, a través de sus padres o tutor, ante la Secretaría, permiso para manejar motocicletas o automóviles de servicio particular, el cual tendrá una vigencia máxima de seis meses, con la posibilidad de renovarlo por periodos iguales, hasta cumplir la mayoría de edad.
 
 El padre o tutor asumirá expresamente la responsabilidad solidaria, por las infracciones que se cometan a esta Ley y a los respectivos reglamentos municipales.
 
@@ -661,7 +833,9 @@ I. Presentar solicitud en las formas impresas al efecto, firmadas por el menor d
 
 II. Cubrir los derechos correspondientes;
 
-III. Aprobar los exámenes que aluden las fracciones IV, V y VI del artículo 36 de esta Ley; en caso de no ser aprobado, con la misma solicitud y pago, podrá presentarlo en dos ocasiones más, dentro de un plazo máximo de seis meses, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+III. Aprobar los exámenes que alude la fracción III del artículo 36 de esta Ley; en caso de no ser aprobado, con la misma solicitud y pago, podrá presentarlo en dos ocasiones más, dentro de un plazo máximo de seis meses, y
 
 IV. A juicio de la autoridad, los requisitos establecidos en la fracción anterior podrán ser satisfechos mediante la aprobación del curso, dentro de los tres meses previos a la solicitud, acreditado con el certificado de capacitación expedido por alguna escuela de manejo reconocida por la Secretaría.
 
@@ -709,15 +883,17 @@ En ningún caso los elementos de la Guardia Civil Estatal y los agentes de trán
 
 Las licencias de conducir podrán retenerse en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-I. En la comisión de algún delito, siempre y cuando éste se configure o mantenga estrecho vínculo con el hecho de tránsito de que se trate, y
+I. En la comisión de algún delito, siempre y cuando éste se configure o mantenga estrecho vínculo con el hecho de tránsito de que se trate;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-II. Cuando el conductor, siendo procedente de otro Estado o país, no garantice el cumplimiento del pago de las infracciones en que incurra.
+II. Cuando el conductor, siendo procedente de otro Estado o país, no garantice el cumplimiento del pago de las infracciones en que incurra, y
 
-III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2020)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE JUNIO DE 2024)</small>
+
+III. Por conducir con aliento alcohólico, en estado de ebriedad o bajo el influjo de cualquier droga o enervante. En los reglamentos de tránsito que las autoridades competentes emitan, se establecerá que las personas que sean sorprendidas manejando bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefaciente, se les suspenderán la licencia o permiso para conducir por un periodo no menor a un año. En el caso de los conductores de transporte público o transporte de carga, por la misma causa, se les revocará la licencia.
 
 ###### ARTICULO 45.
 
@@ -735,13 +911,17 @@ III. En la ejecución de programas o acciones de carácter preventivo, en los t�
 
 IV. En la ejecución de operativos conjuntos en los términos del artículo 8° de la Ley del Sistema de Seguridad Pública del Estado de San Luis Potosí.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 46.
 
-Cuando se retenga una licencia deberá remitirse inmediatamente al departamento de tránsito respectivo, para que, una vez que haya liquidado la multa, le sea entregada al conductor y se registre la infracción para su control y efectos estadísticos. Las autoridades de tránsito municipales enviarán mensualmente a la Secretaría, la relación de conductores infraccionados y de licencias retenidas.
+Cuando se retenga una licencia deberá remitirse inmediatamente al departamento de tránsito respectivo, para que, una vez que haya liquidado la multa, le sea entregada al conductor y se registre la infracción para su control y efectos estadísticos, salvo en los casos a que se refiere la fracción III del artículo cuarenta y cuatro de esta Ley. Las autoridades de tránsito municipales enviarán mensualmente a la Secretaría, la relación de conductores infraccionados y de licencias retenidas.
 
 Cuando se retenga una licencia se deberá proceder de la siguiente forma:
 
-I. Tratándose del supuesto previsto en la fracción I del artículo 44 de esta Ley, deberá remitirse al Ministerio Público del fuero común o federal, inclusive, en los términos que disponga la legislación de la materia. En este caso, la devolución de la licencia deberá hacerse por conducto de la autoridad ministerial correspondiente, y
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+I. Tratándose del supuesto previsto en la fracción I del artículo 44 de esta Ley, deberá remitirse al Ministerio Público del fuero común o federal, inclusive, en los términos que disponga la legislación de la materia. En este caso, la devolución de la licencia deberá hacerse por conducto de la autoridad ministerial correspondiente, observando lo dispuesto por la fracción III del artículo 44, y
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE DICIEMBRE DE 2020)</small>
 
@@ -769,35 +949,65 @@ Al recibir la autoridad la notificación judicial que ordene la suspensión o ca
 
 De no existir restricción y se haya cumplido la resolución judicial, la Secretaría podrá, cuando así se justifique, volver a expedir nueva licencia a la persona a quien se le haya cancelado.
 
-## TITULO QUINTO. DE LOS SEÑALAMIENTOS VIALES Y ESTACIONAMIENTOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2024)</small>
 
-### Capítulo I. De los Señalamientos Viales
+## TITULO QUINTO. DE LOS DISPOSITIVOS PARA EL CONTROL DE TRANSITO Y ESTACIONAMIENTOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE JUNIO DE 2024)</small>
+
+### Capítulo I. De los Dispositivos para el Control de Tránsito
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 49.
 
-La señalización y aplicación de dispositivos para el control de tránsito, así como la ubicación de áreas de estacionamiento, las determinará la autoridad de tránsito que preste el servicio en cada municipio, con base en estudios técnicos, atendiendo a la infraestructura vial de que se disponga.
+La aplicación de dispositivos para el control de tránsito, así como la ubicación de áreas de estacionamiento, serán determinadas por la autoridad de tránsito que preste el servicio en cada municipio, con base en estudios técnicos y las Normas Oficiales Mexicanas, atendiendo a la infraestructura vial de que se disponga, la cual deberá atender los criterios establecidos en la Ley General de Movilidad y Seguridad Vial, cuyo objeto será prevenir, regular y guiar la circulación de peatones y vehículos, bajo criterios de diseño universal, garantizando su adecuada visibilidad en todo momento.
 
 ###### ARTICULO 50.
 
 Los conductores y peatones deberán conocer y obedecer las señales y los dispositivos para el control del tránsito, los cuales pueden ser: humanos, gráficos y electrónicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 51.
 
-La señalización vial en su carácter preventivo, restrictivo e informativo, tiene por objeto orientar y regular el tránsito en las vías públicas del Estado, por lo que deberán instalarse conforme a las normas establecidas para tal efecto.
+La señalización vial, horizontal y vertical, tiene por objeto prevenir, orientar, regular, limitar, restringir e informar las condiciones del tránsito en las vías públicas del Estado por lo que deberán ser instaladas, colocadas, pintadas, y aplicadas conforme a las Normas Oficiales Mexicanas y demás legislación aplicable para tal efecto.
 
-La señalización deberá contemplar la inclusión de los ciclistas al sistema vial urbano.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+La señalización deberá contemplar la inclusión de los ciclistas y peatones al sistema vial urbano.
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2017)</small>
 
 En las vías de acceso controlado, estará permitida la circulación de motocicletas con capacidad igual o superior a 400cc, por lo que la señalización en dichas vías no podrá restringir el acceso a este tipo de vehículos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+La inobservancia de la disposición señalada en el primer párrafo será sancionada conforme lo previsto en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 52.
 
-La velocidad reglamentaria en la zona urbana será definida por las autoridades municipales, conforme a los reglamentos respectivos. Las cuales estarán obligadas a colocar y mantener señalética sobre los límites de velocidad restrictivos; dichos señalamientos deberán ser homogéneos, distinguibles y conforme con los lineamientos de la Norma Oficial Mexicana que corresponda.
+Los límites de velocidad en las vialidades del Estado y los Municipios, de acuerdo con la Ley General de Movilidad y Seguridad Vial, se establecerán con base en evidencia científica de carácter nacional o internacional, a fin de mantenerlas por debajo de un umbral de seguridad indispensable para salvaguardar la vida y la integridad de las personas usuarias por lo que, las velocidades máximas, no deberán rebasar las siguientes:
 
-Sin perjuicio de lo dispuesto en el párrafo anterior, el transporte público en sus diferentes modalidades, no podrá exceder en ningún lugar y por ninguna circunstancia, la velocidad de sesenta kilómetros por hora.
+a) Veinte kilómetros por hora, en zonas de hospitales, asilos, albergues y casas hogar.
+
+b) Veinte kilómetros por hora, en zonas y entornos escolares en vías secundarias y calles terciarias; y hasta treinta kilómetros por hora, en zonas y entornos escolares en vías primarias y carreteras.
+
+c) Treinta kilómetros por hora, en calles secundarias y calles terciarias.
+
+d) Cincuenta kilómetros por hora, en avenidas primarias sin acceso controlado.
+
+e) Ochenta kilómetros por hora, en carriles centrales de avenidas de acceso controlado.
+
+f) Ochenta kilómetros por hora, en carreteras estatales fuera de zonas urbanas; y cincuenta kilómetros por hora dentro de zonas urbanas.
+
+g) Ciento diez kilómetros por hora, para automóviles; noventa y cinco kilómetros por hora, para autobuses; y ochenta kilómetros por hora, para transporte de bienes y mercancías en carreteras y autopistas de jurisdicción estatal y municipal, y
+
+h) Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener velocidad de operación mayor a cincuenta kilómetros por hora en cualquiera de sus accesos.
+
+Sin perjuicio de lo dispuesto en este artículo, el transporte público, en sus diferentes modalidades, no podrá exceder en ningún lugar y por ninguna circunstancia, la velocidad de sesenta kilómetros por hora.
 
 ###### ARTICULO 53.
 
@@ -854,6 +1064,10 @@ XIII. No realizar maniobras riesgosas o temerarias, cortes de circulación o cam
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2017)</small>
 
 XIV. Las demás que le señalen los reglamentos de tránsito respectivos.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 53 BIS. Las velocidades vehiculares deben fijarse y mantenerse de acuerdo con los límites establecidos en la Ley General de Movilidad y Seguridad Vial, para reducir los casos de muerte por accidente, y la gravedad de las lesiones.
 
 ### Capítulo II. De los Estacionamientos
 
@@ -951,13 +1165,35 @@ ARTICULO 63 BIS. A los vehículos de emergencia que estén realizando su labor n
 
 ### Capítulo I. De los Peatones, de los Ciclistas, y de la Educación Vial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 64.
 
-La Secretaría y las autoridades municipales de tránsito, llevarán a cabo en forma permanente campañas y programas de educación vial, destinados a crear conciencia de corresponsabilidad en la ciudadanía; fomentar hábitos de respeto a la normatividad en la materia; así como el trato preferente que se debe dar en las vías de tránsito a los adultos mayores, mujeres embarazadas, y personas con discapacidad; fomentar el uso del transporte no motorizado, como la bicicleta, como medida ecológica para propiciar el uso racional del automóvil particular; prevenir accidentes; mejorar la circulación de los vehículos; y, en general, crear las condiciones necesarias para lograr el bienestar de los habitantes del Estado.
+La Secretaría y las autoridades municipales de tránsito, llevarán a cabo en forma permanente campañas y programas de educación vial, destinados a crear conciencia de corresponsabilidad en la ciudadanía; fomentar hábitos de respeto a la normatividad en la materia; así como el trato preferente que se debe dar en las vías de tránsito a los adultos mayores, mujeres embarazadas, y personas con discapacidad; fomentar el uso del transporte no motorizado, como la bicicleta, como medida ecológica para propiciar el uso racional del automóvil particular; prevenir siniestros de tránsito; mejorar la circulación de los vehículos; y, en general, crear las condiciones necesarias para lograr el bienestar de los habitantes del Estado.
 
 La Secretaría promoverá con las autoridades competentes, la incorporación a los planes del estudio, de materias que contengan temas de seguridad y educación vial.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 64 BIS. La educación en materia de movilidad y seguridad vial tiene como objetivo transmitir una serie de conocimientos que todas las personas usuarias de la vía deben incorporar al momento de transitar por esta, la cual deberá ser con perspectiva interseccional, de conformidad con el artículo 64 de la Ley General de Movilidad y Seguridad Vial.
+
+Las políticas, programas, campañas y acciones de educación en materia de movilidad y seguridad vial deberán observar los siguientes criterios:
+
+I. Desarrollar contenidos sobre los factores de riesgo en la movilidad y seguridad vial;
+
+II. Concientizar, especialmente a los conductores de vehículos motorizados, del conocimiento y respeto por las normas de tránsito y dispositivos para el control del tránsito vial por parte de todas las personas usuarias de la vía;
+
+III. Priorizar el uso de la infraestructura para la movilidad conforme a la jerarquía de la movilidad establecida en esta Ley;
+
+IV. Informar y fomentar el respeto irrestricto de la ciudadanía, personas operadoras de los sistemas de movilidad, y autoridades a las niñas, adolescentes y mujeres en la vía pública, con el fin de prevenir y erradicar las violencias de género en sus desplazamientos por las vías;
+
+V. Informar y fomentar el respeto irrestricto de la ciudadanía, personas operadoras de los sistemas de movilidad, y autoridades a las personas con discapacidad y con movilidad limitada;
+
+VI. Adoptar desplazamientos sustentables y seguros promoviendo la movilidad activa y no motorizada;
+
+VII. Fomentar el cumplimiento de los programas de verificación y protección al medio ambiente, y
+
+VIII. Promover la participación ciudadana, de manera igualitaria e incluyente, involucrando activamente a la población en el mejoramiento de su entorno social.
 
 ###### ARTICULO 65.
 
@@ -973,7 +1209,9 @@ III. Comportamiento y normatividad para el conductor;
 
 III Bis. De los riesgos, daños y sanciones por hablar por teléfono celular, textear o utilizar cualquier dispositivo móvil mientras se conduce vehículos motorizados y no motorizados;
 
-IV. Prevención de accidentes y primeros auxilios;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+IV. Prevención de siniestros de tránsito y primeros auxilios;
 
 V. Dispositivos para el control de tránsito;
 
@@ -985,77 +1223,65 @@ VIII. Educación ambiental en relación con el tránsito de vehículos, y
 
 IX. Nociones de mecánica automotriz.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 65 BIS. La formación en materia de movilidad y seguridad vial implica que el personal técnico y/o profesional cuenta con capacitación en dichas materias, así como en perspectiva de género y necesidades de los grupos en situación de vulnerabilidad. El Estado y los municipios, en el ámbito de sus respectivas atribuciones, promoverán acciones y mecanismos en coordinación con las dependencias y entidades competentes, las concesionarias, las permisionarias, los sectores privado y social, para que el personal técnico y/o profesional en materia de movilidad y seguridad vial acredite su capacidad técnica y operativa.
+
 ###### ARTICULO 66.
 
 Los peatones siempre tendrán preferencia al cruzar las vías públicas, o al hacer uso de ellas, y también los ciclistas.
 
 Todo conductor que tenga que cruzar la acera para entrar o salir de una cochera, estacionamiento o calle privada, deberá ceder el paso a los peatones y los ciclistas.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 67.
 
-Son obligaciones de los peatones:
+De los derechos y obligaciones de las personas peatonas:
 
-I. Respetar las indicaciones de los agentes de tránsito;
+I. Transitar por la vía pública en espacios destinados a ellos, los que deberán cumplir con las características y los criterios establecidos en la Ley General de Movilidad y Seguridad Vial y en las Normas Oficiales Mexicanas;
 
-II. Obedecer los dispositivos para el control del tránsito;
+II. Evitar cruzar las intersecciones de la vía pública, sin observar los espacios destinados para ello, los señalamientos, los dispositivos de control, o las indicaciones de los agentes de tránsito;
 
-III. Transitar por las banquetas y las áreas destinadas para el tránsito y paso de peatones;
+III. Usar la infraestructura y los espacios para ascenso y descenso de los medios de transporte público;
 
-IV. Cruzar las calles, avenidas, calzadas y caminos, por las esquinas y accesos a desnivel ascendentes o descendentes destinados o señalados para tal efecto;
+IV. Observar en lo que corresponda, las disposiciones de los reglamentos de tránsito, y
 
-V. Evitar cruzar las calles, avenidas, calzadas y caminos por las esquinas, cuando el semáforo les marque el alto, o el agente de tránsito les dé vía libre a los vehículos que circulen en ese sentido;
+V. Las demás que se deriven de la Ley General de Movilidad y Seguridad Vial.
 
-VI. Evitar descender o ascender a la vía de rodamiento de vehículos;
-
-VII. En cruceros no controlados por semáforos o agentes de tránsito, no podrán cruzar frente a vehículos detenidos momentáneamente;
-
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
-
-VIII. Transitar diagonalmente por los cruceros, excepto cuando así se permita;
-
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2018)</small>
-
-IX. Evitar utilizar el teléfono celular o cualquier dispositivo móvil que distraiga su atención al cruzar por las calles, avenidas, calzadas y caminos, y
-
-X. Las demás que se deriven de esta Ley, su reglamento y reglamentos municipales.
-
-En los reglamentos municipales respectivos, podrán establecer las infracciones y sanciones que correspondan por incumplimiento a estas obligaciones.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 68.
 
-Los ciclistas deberán observar de manera preferente los siguientes lineamientos:
+De los derechos y obligaciones de las personas ciclistas:
 
-I. Respetar las señales de tránsito y las indicaciones del personal de la dirección de tránsito municipal;
+I. Contar con una movilidad segura y preferencial en términos de la jerarquía de movilidad, teniendo preferencia sobre el tránsito vehicular que de manera enunciativa más no limitativa será en los siguientes supuestos:
 
-II. Circular en el sentido de la vía;
+a) Habiéndoles correspondido el paso de acuerdo con el ciclo del semáforo no alcancen a cruzar la vía.
 
-III. Llevar a bordo de la bicicleta sólo al número de personas para las que exista asiento disponible;
+b) Se encuentren cruzando una vía en la que los vehículos deban dar vuelta a la derecha para entrar a otra vía.
 
-IV. Circular solamente por un carril;
+c) Respecto de los vehículos que crucen una ciclovía;
 
-V. Rebasar sólo por el carril izquierdo;
+II. Circular con precaución y en el sentido de la circulación por el carril derecho, o utilizar los carriles creados para tal efecto;
 
-VI. Usar aditamentos o bandas reflejantes para uso nocturno;
+III. Atender las indicaciones de las autoridades en materia de seguridad vial, los señalamientos y dispositivos que regulen la circulación vial compartida o la exclusiva, así como respetar los espacios de circulación o accesibilidad peatonal y dar preferencia a las personas con discapacidad y al peatón;
 
-VII. Circular preferentemente por las ciclovías y los carriles destinados para la bicicleta;
+IV. Rebasar por el carril izquierdo siempre y cuando el tránsito esté detenido, circular entre carriles, pudiendo colocarse en un lugar visible para poder reiniciar su marcha;
 
-VIII. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo y mano;
+V. Contar con aditamentos luminosos o bandas fluorescentes en su persona que les permitan ser visibles para los otros usuarios de la vía, cuando circulen en horario nocturno o existan condiciones meteorológicas o ambientales que disminuyan sensiblemente la visibilidad;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
+VI. Indicar la dirección de su giro o cambio de carril, mediante señales con el brazo y la mano;
 
-IX. Compartir de manera responsable con los vehículos y el transporte público, la circulación en carriles de la extrema derecha;
+VII. Conducir con responsabilidad absteniéndose de hacerlo bajo los efectos del alcohol, enervantes, estupefacientes, psicoactivos o cualquier otro que produzca efectos similares;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2018)</small>
+VIII. Compartir de manera responsable con los vehículos automotores la circulación en el carril, gozando de las distancias adecuadas entre vehículos, sin sujetarse a otros vehículos en movimiento;
 
-X. El conductor de la bicicleta preferentemente deberá usar casco e implementos de seguridad;
+IX. Hacer uso preferentemente, de casco e implementos de seguridad;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2018)</small>
+X. Evitar usar el teléfono celular o cualquier dispositivo móvil que distraiga su atención al conducir, y
 
-XI. Evitar utilizar el teléfono celular o cualquier dispositivo móvil que distraiga su atención al conducir, y
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2016)</small>
-
-XII. Las demás disposiciones que establezca el reglamento respectivo.
+XI. Las demás que se deriven de la Ley General de Movilidad y Seguridad Vial.
 
 ###### ARTICULO 69.
 
@@ -1113,11 +1339,13 @@ IV. Revisar las condiciones mecánicas y eléctricas, así como la funcionalidad
 
 V. Permitir que los elementos o agentes de tránsito revisen sus documentos y los del vehículo cuando se le solicite, en la comisión de un delito, o una infracción a los reglamentos de tránsito o a la presente Ley;
 
-VI. Tomar las precauciones necesarias al abordar o bajar del vehículo para evitar accidentes;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+VI. Tomar las precauciones necesarias al abordar o bajar del vehículo para evitar siniestros de tránsito;
 
-VII. Respetar los límites de velocidad que marcan los señalamientos viales, y las zonas de estacionamiento destinadas para las personas con discapacidad, y mujeres embarazadas;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+VII. Respetar los límites de velocidad señalados en esta Ley, de acuerdo con los establecidos en la Ley General de Movilidad y Seguridad Vial, que se indican en los señalamientos viales, y en las zonas de estacionamiento destinadas para las personas con discapacidad, y mujeres embarazadas;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1125,9 +1353,9 @@ VIII. Evitar dar marcha a su vehículo hasta que aquellos la hayan cruzado, cuan
 
 IX. Conservar la distancia de seguridad entre vehículo y vehículo, la cual es directamente proporcional a la velocidad de desplazamiento, tomando en cuenta las condiciones del camino y del vehículo, y
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-X. Abstenerse de conducir vehículos en estado de ebriedad, con aliento alcohólico, o en cualquier estado de intoxicación;
+X. Abstenerse de conducir cualquier tipo de vehículo en estado de ebriedad, con aliento alcohólico, bajo el influjo de drogas o enervantes, o en cualquier estado de intoxicación, que le impida o dificulte la conducción de (sic) mismo;
 
 (NOTA: EL 22 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 51/2018, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DE LA FRACCIÓN X BIS DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE AGOSTO DE 2019, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
@@ -1143,9 +1371,9 @@ XI. Abstenerse de arrojar basura, substancias o cualquier objeto a la vía públ
 
 XII. Se prohíbe transportar en calidad de pasajero de una motocicleta a más de una persona; con excepción de aquellas que fueron acondicionadas por el fabricante para transportar a más de un pasajero; quedando estrictamente prohibido viajar en calidad de pasajero de una motocicleta a un menor de seis años de edad, que no cuenten con el equipo de protección adecuado según lo dispuesto por las fracciones, XII, y XIII del artículo 19 de esta Ley, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-XIII. En las vías públicas obligatoriamente, dar paso preferente a los vehículos de emergencia, y no seguirlos, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de auxilio, limitándose solamente a disminuir o detener la velocidad para cederles el paso y
+XIII. En las vías públicas obligatoriamente, dar paso preferente a los vehículos de emergencia, y no seguirlos, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de auxilio, limitándose solamente a disminuir o detener la velocidad para cederles el paso. Las autoridades municipales establecerán, en sus respectivos reglamentos, el uso prioritario de la vía a vehículos que presten servicios de emergencia, cuando la situación así lo requiera, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2016)</small>
 
@@ -1193,9 +1421,9 @@ El conductor de un vehículo implicado en un hecho de tránsito con saldo de les
 
 Los conductores de los vehículos que circulen por el lugar de un hecho de tránsito, colaborarán en auxiliar a los lesionados, cuando así se los solicite la autoridad.
 
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
-ARTICULO 76 BIS. Cuando en un accidente de tránsito haya lesionados y se requiera de atención médica inmediata; o se provoque la muerte de personas, y se encuentren animales domésticos de compañía propiedad de los participantes, se buscará el resguardo de éstos en algún albergue con el fin de evitar que se pierdan, o sean atropellados y, en caso de ser necesario, reciban pronta atención médica veterinaria, informando a los parientes o al propietario sobre el destino y situación de los mismos.
+ARTICULO 76 BIS. Cuando en un siniestro de tránsito haya lesionados y se requiera de atención médica inmediata; o se provoque la muerte de personas, y se encuentren animales domésticos de compañía propiedad de los participantes, se buscará el resguardo de éstos en algún albergue con el fin de evitar que se pierdan, o sean atropellados y, en caso de ser necesario, reciban pronta atención médica veterinaria, informando a los parientes o al propietario sobre el destino y situación de los mismos.
 
 ## TITULO NOVENO. DE LAS MEDIDAS PARA LA PROTECCION ECOLOGICA
 
@@ -1226,6 +1454,10 @@ Es obligatorio efectuar las reparaciones derivadas de la verificación, que resu
 ###### ARTICULO 81.
 
 Exclusivamente los vehículos de emergencia autorizados, además del equipo y dispositivos obligatorios, deberán estar provistos de una sirena u otro dispositivo capaz de emitir señal visual y acústica, audible o visible, a una distancia no menor de ciento cincuenta metros.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 81 BIS. Las autoridades competentes podrán regular y ordenar la circulación de vehículos mediante el establecimiento de modalidades al flujo vehicular en días, horarios y vías cuando así lo estimen pertinente, y siempre que existan estudios técnicos y científicos que lo justifiquen, con el objetivo de mejorar las condiciones ambientales, de salud y de seguridad vial en puntos críticos o derivado de la realización de otras actividades públicas.
 
 ## TITULO DECIMO. DE LAS SANCIONES E INFRACCIONES, Y DE LAS MEDIDAS DE SEGURIDAD ADMINISTRATIVAS
 
@@ -1976,3 +2208,15 @@ P.O. 19 DE OCTUBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1053.- SE REFORMAN LOS ARTÍCULOS 1°, LAS FRACCIONES III, XV, XIX, XXV, XXV BIS, XXIX, XXXIII, XXXVIII Y XLIII DEL ARTÍCULO 6°; LA FRACCIÓN II DEL ARTÍCULO 10, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 11; LA FRACCIÓN I DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 15; EL ARTÍCULO 16; EL PÁRRAFO PRIMERO Y LAS FRACCIONES IV, XII Y XIII DEL ARTÍCULO 19; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 29; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 30; LA FRACCIÓN IX DEL ARTÍCULO 31; LA FRACCIÓN III DEL ARTÍCULO 36; EL PÁRRAFO PRIMERO DEL ARTÍCULO 37; LA FRACCIÓN III DEL ARTÍCULO 38; LAS FRACCIONES I, II, Y III DEL ARTÍCULO 44; EL PÁRRAFO PRIMERO Y FRACCIÓN I DEL ARTÍCULO 46; LA DENOMINACIÓN DEL TÍTULO QUINTO Y DE SU CAPÍTULO I; EL ARTÍCULO 49; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 51; EL ARTÍCULO 52; EL PÁRRAFO PRIMERO DEL ARTÍCULO 64; LA FRACCIÓN IV DEL ARTÍCULO 65; 67; 68; LAS FRACCIONES VI, VII Y X DEL ARTÍCULO 72; Y EL ARTÍCULO 76 BIS; ADICIONA LAS FRACCIONES XXXVI BIS, XXXVI TER, XXXVI QUATER Y XXXVI QUINQUES AL ARTÍCULO 6º, EL PÁRRAFO SEGUNDO AL ARTÍCULO 7º; LAS FRACCIONES IX Y X AL ARTÍCULO 11; LOS ARTÍCULOS 11 BIS Y 13 BIS; EL PÁRRAFO TERCERO AL ARTÍCULO 30; EL PÁRRAFO CUARTO AL ARTÍCULO 51; LOS ARTÍCULOS 53 BIS; 64 BIS; Y 81 BIS, DE Y A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XIV ARTÍCULO 89 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 104 BIS; Y ADICIONA LA FRACCIÓN I TER EN EL INCISO A) DEL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LAS FRACCIONES LVII Y XCI DEL ARTÍCULO 4º; EL PÁRRAFO PRIMERO DEL ARTÍCULO 53, LA FRACCIÓN I Y PÁRRAFO ULTIMO DEL ARTÍCULO 54, LA FRACCIÓN III DEL ARTÍCULO 85, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 160 Y EL PÁRRAFO PRIMERO EL ARTÍCULO 169, DE Y A LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XXII; Y ADICIONA LAS FRACCIONES XXIII A XXIX, TODAS DEL Y AL ARTÍCULO 36 BIS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EL ARTÍCULO 14 BIS, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XLVI DEL ARTÍCULO 12, EL ARTÍCULO 71 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 133; Y ADICIONA EL ARTÍCULO 17 BIS Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 133, DE Y A LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONAN LOS ARTÍCULOS 2° BIS, 2° TER Y 2° QUÁTER, A LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL. SE ADICIONA EL ARTÍCULO 14 BIS, A LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Una vez de la entrada en vigor del presente Decreto, los municipios del Estado de San Luis Potosí, tendrán un plazo de hasta noventa días naturales para realizar las adecuaciones a sus reglamentos de tránsito.
+
+TERCERO. Los señalamientos horizontales y verticales de las vialidades urbanas y carreteras del Estado, deberán ser adecuados por las autoridades de su respectiva competencia en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
