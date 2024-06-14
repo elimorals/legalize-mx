@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-extincion-de-dominio-para-el-estado-de-san-luis-69893"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-27"
-last_updated: "2014-09-27"
+last_updated: "2024-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO POR LA LEY NACIONAL DE EXTINCIÓN DE DOMINIO PUBLICADA EN EL D.O.F. DE 9 DE AGOSTO DE 2019, DE CONFORMIDAD CON LOS TRANSITORIOS PRIMERO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN. SEGUNDO.- A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, SE ABROGA LA LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, ASÍ COMO LAS LEYES DE EXTINCIÓN DE DOMINIO DE LAS ENTIDADES FEDERATIVAS, Y SE DEROGAN TODAS LAS DISPOSICIONES LEGALES, REGLAMENTARIAS Y ADMINISTRATIVAS, QUE SE OPONGAN A LO DISPUESTO EN EL PRESENTE DECRETO. TERCERO.- EN UN PLAZO QUE NO EXCEDERÁ DE CIENTO OCHENTA DÍAS CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, LAS LEGISLATURAS DE LAS ENTIDADES FEDERATIVAS DEBERÁN ARMONIZAR SU LEGISLACIÓN RESPECTIVA CON EL PRESENTE DECRETO.]</small>
+
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 27 de agosto de 2009.
 
@@ -211,7 +213,9 @@ Las medidas cautelares dictadas por el juez, se inscribirán en el Registro Púb
 
 En todos los supuestos, los bienes muebles e inmuebles materia de las medidas cautelares, quedarán en depósito y bajo resguardo de la Oficialía Mayor para su administración, y a disposición de las autoridades que determine el juez.
 
-Del resultado de la aplicación de las medidas cautelares a quienes competa la administración, informarán anualmente a la Auditoria Superior del Estado.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Del resultado de la aplicación de las medidas cautelares a quienes competa la administración, informarán anualmente al Instituto de Fiscalización Superior del Estado de San Luis Potosí.
 
 ###### ARTICULO 13.
 
@@ -643,9 +647,9 @@ Una vez que cause ejecutoria la sentencia que resuelva la extinción del bien, e
 
 Los recursos correspondientes se depositarán por la Secretaría de Finanzas, en el Fondo de Ayuda, Asistencia y Reparación Integral, para su aplicación en términos del artículo 6º de este Ordenamiento.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
 
-El destino del valor de realización de los bienes y sus frutos a que se refiere este artículo, se sujetará a reglas de transparencia y, con independencia de su revisión por los órganos de control del Poder Ejecutivo Estatal, será fiscalizado por la Auditoría Superior del Estado.
+El destino del valor de realización de los bienes y sus frutos a que se refiere este artículo, se sujetará a reglas de transparencia y, con independencia de su revisión por los órganos de control del Poder Ejecutivo Estatal, será fiscalizado por el Instituto de Fiscalización Superior del Estado de San Luis Potosí.
 
 ###### ARTICULO 68.
 
@@ -794,3 +798,11 @@ PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En tanto se reforman las leyes respectivas, se entenderá que la referencia hecha en esta Ley al Fiscal General del Estado, es el equivalente a la de Procurador General de Justicia del Estado; así mismo, la referencia a la Defensoría Pública del Estado que en la misma se establece, será equivalente a la Coordinación General de la Defensoría Social y de Oficio.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1054.- SE REFORMA EL INCISO T) DE LA FRACCIÓN II DEL ARTÍCULO 31 Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 77, DE LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS EN PROYECTOS PARA LA PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ. SE REFORMAN LOS PÁRRAFOS ÚLTIMO DE LOS ARTÍCULOS 12 Y 67, DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ.”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
