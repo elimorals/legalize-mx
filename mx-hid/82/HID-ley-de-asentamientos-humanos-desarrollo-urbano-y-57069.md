@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2024-06-07"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -1807,6 +1807,10 @@ Los municipios conforme a los artículos precedentes otorgarán las licencias de
 
 Las licencias de uso del suelo tendrán una vigencia de un año, a partir de la fecha de su expedición.
 
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+Los propietarios de inmuebles de giro comercial o mercantil mayores a quinientos metros cuadrados deberán de contar, por lo menos, con cuatro cajones de estacionamiento por manzana, para el ascenso y descenso de personas con discapacidad, personas adultas mayores y mujeres embarazadas. Dichos espacios deberán diseñarse de acuerdo con los requerimientos específicos de las Normas Oficiales Mexicanas y las recomendaciones de las autoridades en materia de Derechos Humanos, así como encontrarse claramente señalados como reservados para uso exclusivo.
+
 > <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2012)</small>
 
 ARTICULO 137 BIS.- Previa a la aprobación de los programas municipales de desarrollo urbano, los municipios deberán obtener de la Secretaria el Dictamen de congruencia, mismo que se emitirá considerando los principios aplicables en esta Ley, así como las políticas y estrategias del Programa Estatal de Desarrollo Urbano y Ordenamiento Territorial y en su caso, las del Programa Regional o Programa Parcial de Desarrollo Urbano aplicable.
@@ -2822,3 +2826,9 @@ P.O. 7 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 958 POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 9 DE LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 984 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 137 DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
