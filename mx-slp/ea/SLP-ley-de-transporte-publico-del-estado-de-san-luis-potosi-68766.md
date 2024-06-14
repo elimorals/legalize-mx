@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transporte-publico-del-estado-de-san-luis-potosi-68766"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-23"
-last_updated: "2024-03-18"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68766&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de abril de 2009.
 
@@ -385,7 +385,9 @@ XLIV. Usuario: a la persona que utiliza el servicio público de transporte en cu
 
 XLV. Utilidad: a la ganancia obtenida que corresponde a la diferencia entre los gastos requeridos para la producción de un bien o de un servicio, y los ingresos correspondientes;
 
-XLVI. Vehículo: a todo medio automotor terrestre diseñado o acondicionado para transportar personas y su carga;
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XLVI. Vehículo: Modo de transporte diseñado para facilitar la movilidad y tránsito de personas o bienes por la vía pública, propulsado por una fuerza humana directa o asistido para ello por un motor de combustión interna, eléctrico o cualquier fuerza motriz;
 
 XLVII. Vialidad: al conjunto integrado de vías de comunicación terrestre, federales, estatales y municipales, cuya función es permitir el tránsito de personas y vehículos, y
 
@@ -514,6 +516,38 @@ XV Bis. Implementar políticas y medidas conducentes a garantizar la participaci
 > <small>(ADICIONADA, P.O. 18 DE JULIO DE 2015)</small>
 
 XVI. Las demás que le encomiende el titular del Ejecutivo del Estado, así como las establecidas por las disposiciones jurídicas y administrativas aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 17 BIS. El titular de la Secretaría, además de las atribuciones señaladas en el artículo anterior, en materia de movilidad y seguridad vial, tiene las siguientes atribuciones:
+
+I. Cuando así lo disponga el titular del Ejecutivo del Estado, integrar el Sistema Nacional de Movilidad y Seguridad Vial, de conformidad con lo establecido en el artículo 7 de la Ley General de Movilidad y Seguridad Vial;
+
+II. Cuando así lo disponga el titular del Ejecutivo del Estado, en coordinación con los integrantes del Sistema Nacional, participar en la realización de manuales y lineamientos técnicos de diseño vial e infraestructura, así como otros en materia de movilidad y seguridad, con el objetivo de homologar las disposiciones a nivel nacional;
+
+III. Cuando así lo disponga el titular del Ejecutivo del Estado, en conjunto con las dependencias que integren el Sistema Nacional, diseñar la Estrategia Nacional;
+
+IV. Impulsar el desarrollo de la movilidad y seguridad vial en la regulación del autotransporte en el Estado;
+
+V. Participar en el diseño de políticas públicas en materia de movilidad y seguridad vial, educación vial, y en especial, aquellas relacionadas con la regulación del autotransporte en el Estado;
+
+VI. Participar en las acciones que en materia de protección al medio ambiente lleven a cabo otras autoridades, federales o estatales, en las materias de su competencia, en relación con la movilidad y seguridad vial;
+
+VII. Cuando así lo disponga el titular del Ejecutivo del Estado, en conjunto con las dependencias que integren el Sistema Nacional, emitir los lineamientos técnicos para la realización de las auditorías de seguridad vial, a efecto de proveer de una metodología homologada a nivel nacional;
+
+VIII. Fungir como instancia revisora de las acciones, planes, programas y políticas públicas en materia de seguridad vial que impliquen vías generales de comunicación de conformidad con lo establecido en la Ley de Caminos, Puentes y Autotransporte Federal;
+
+IX. Coordinar la planificación, construcción, mejoramiento y conservación de caminos, puentes y vías férreas de jurisdicción estatal que se adentren en los centros de población de los municipios del Estado, para el cumplimiento de lo establecido en la Ley General de Movilidad y Seguridad Vial;
+
+X. Realizar los operativos de alcoholimetría, con base en los límites establecidos por la Secretaría de Salud del Estado, en las vías de su competencia;
+
+XI. Participar en el sistema de evaluación de vehículos nuevos previsto en el artículo 54 de la Ley General de Movilidad y Seguridad Vial;
+
+XII. Realizar campañas en materia de prevención de siniestros de tránsito;
+
+XIII. Vigilar el cumplimiento de la regulación de los periodos de trabajo y descanso de las personas conductoras del transporte público y privado de carga y de pasajeros en el ámbito de su competencia, y
+
+XIV. Las demás previstas para el cumplimiento de la presente Ley y a la Ley General de Movilidad y Seguridad Vial.
 
 ###### ARTICULO 18.
 
@@ -1451,9 +1485,11 @@ Los automóviles de alquiler deberán llevar en lugar visible las tarifas autori
 
 Queda a cargo de la Secretaría desarrollar e implementar un sistema de calidad para las modalidades de servicio urbano colectivo de primera y segunda clase, así como automóvil de alquiler en sitio y ruleteo, mediante el cual se certificará el cumplimiento a los estándares de calidad señalados en artículos precedentes, quedando facultada la propia Secretaría para emitir la certificación correspondiente, en caso de resultar procedente.
 
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 71.
 
-A fin de preservar el medio ambiente y evitar el desequilibrio ecológico que pueda derivarse de la emisión de humos, ruidos y gases de los vehículos del servicio público del transporte, la Secretaría podrá convenir con las autoridades competentes, para tomar las medidas necesarias para dicho fin; asimismo, promoverá la modernización y eficacia del parque vehicular.
+A fin de preservar el medio ambiente y evitar el desequilibrio ecológico que pueda derivarse de la emisión de humos, ruidos y gases de los vehículos del servicio público del transporte, la Secretaría podrá convenir con las autoridades competentes, para tomar las medidas necesarias para dicho fin; asimismo, a efecto de mejorar la calidad ambiental y disminuir los riesgos de siniestros de tránsito, las autoridades competentes podrán promover mecanismos y programas para la conservación, mantenimiento, modernización y renovación del parque vehicular de los prestadores del servicio de transporte público de pasajeros y de carga.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2016)</small>
 
@@ -2753,11 +2789,15 @@ ARTICULO 132 BIS. (DEROGADO, P.O. 8 DE NOVIEMBRE DE 2019)
 
 ### Capítulo II. Del Procedimiento para la Aplicación de las Sanciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 14 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 133.
 
-Los concesionarios, permisionarios, operadores del servicio de transporte público, en cualquiera de sus modalidades; así como las Empresas de Redes de Transporte y sus asociados o conductores, serán acreedores a las sanciones a que se refiere este Ordenamiento.
+Las autoridades competentes establecerán unidades de información y quejas para que las personas usuarias denuncien cualquier irregularidad en la prestación del servicio de transporte público. Para ello, se observarán los principios de accesibilidad, prontitud, imparcialidad, integridad y gratuidad, otorgando de forma expedita atención a la persona quejosa y se le deberá informar sobre las resoluciones adoptadas.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ESTE PÁRRAFO], P.O. 14 DE JUNIO DE 2024)</small>
+
+Los concesionarios, permisionarios, operadores del servicio de transporte público, en cualquiera de sus modalidades, así como las Empresas de Redes de Transporte y sus asociados o conductores, serán acreedores a las sanciones a que se refiere esta Ley, de conformidad a lo siguiente:
 
 I. Si como resultado de la investigación de una queja existen elementos suficientes, a juicio de la Secretaría, que deriven en responsabilidad del titular de la concesión o permiso y/o del operador, con independencia de la aplicación de las medidas de seguridad que procedan, él o los presuntos implicados deberán comparecer ante la Secretaría en audiencia pública, atendiendo al citatorio correspondiente o, en su caso, comparecer de inmediato en continuación a las labores de inspección, a fin de que se hagan de su conocimiento las causas que dieron origen a su comparecencia, y manifieste lo que a su derecho convenga.
 
@@ -3338,3 +3378,11 @@ P.O. 18 DE MARZO DE 2024.
 PRIMERO. Este Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1053.- SE REFORMAN LOS ARTÍCULOS 1°, LAS FRACCIONES III, XV, XIX, XXV, XXV BIS, XXIX, XXXIII, XXXVIII Y XLIII DEL ARTÍCULO 6°; LA FRACCIÓN II DEL ARTÍCULO 10, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 11; LA FRACCIÓN I DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 15; EL ARTÍCULO 16; EL PÁRRAFO PRIMERO Y LAS FRACCIONES IV, XII Y XIII DEL ARTÍCULO 19; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 29; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 30; LA FRACCIÓN IX DEL ARTÍCULO 31; LA FRACCIÓN III DEL ARTÍCULO 36; EL PÁRRAFO PRIMERO DEL ARTÍCULO 37; LA FRACCIÓN III DEL ARTÍCULO 38; LAS FRACCIONES I, II, Y III DEL ARTÍCULO 44; EL PÁRRAFO PRIMERO Y FRACCIÓN I DEL ARTÍCULO 46; LA DENOMINACIÓN DEL TÍTULO QUINTO Y DE SU CAPÍTULO I; EL ARTÍCULO 49; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 51; EL ARTÍCULO 52; EL PÁRRAFO PRIMERO DEL ARTÍCULO 64; LA FRACCIÓN IV DEL ARTÍCULO 65; 67; 68; LAS FRACCIONES VI, VII, Y X DEL ARTÍCULO 72; Y EL ARTÍCULO 76 BIS; ADICIONA LAS FRACCIONES XXXVI BIS, XXXVI TER, XXXVI QUATER, Y XXXVI QUINQUES AL ARTÍCULO 6°, EL PÁRRAFO SEGUNDO AL ARTÍCULO 7°; LAS FRACCIONES IX, Y X AL ARTÍCULO 11; LOS ARTÍCULOS 11 BIS, Y 13 BIS; EL PÁRRAFO TERCERO AL ARTÍCULO 30; EL PÁRRAFO CUARTO AL ARTÍCULO 51; LOS ARTÍCULOS 53 BIS; 64 BIS; Y 81 BIS, DE Y A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XIV ARTÍCULO 89, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 104 BIS; Y ADICIONA LA FRACCIÓN I TER EN EL INCISO A) DEL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LAS FRACCIONES LVII Y XCI DEL ARTÍCULO 4°; EL PÁRRAFO PRIMERO DEL ARTÍCULO 53, LA FRACCIÓN I Y PÁRRAFO ULTIMO DEL ARTÍCULO 54, LA FRACCIÓN III DEL ARTÍCULO 85, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 160 Y EL PÁRRAFO PRIMERO EL ARTÍCULO 169, DE Y A LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XXII; Y ADICIONA LAS FRACCIONES XXIII A XXIX, TODAS DEL Y AL ARTÍCULO 36 BIS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EL ARTÍCULO 14 BIS, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XLVI DEL ARTÍCULO 12, EL ARTÍCULO 71 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 133; Y ADICIONA EL ARTÍCULO 17 BIS Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 133, DE Y A LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONAN LOS ARTÍCULOS 2° BIS, 2° TER Y 2° QUÁTER, A LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL. SE ADICIONA EL ARTÍCULO 14 BIS, A LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
