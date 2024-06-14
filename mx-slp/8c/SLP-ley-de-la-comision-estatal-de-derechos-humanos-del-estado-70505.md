@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2023-11-08"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -493,7 +493,9 @@ II. En la convocatoria deberán definirse de manera clara:
 
 a) Los requisitos exigidos a los candidatos.
 
-b) El perfil requerido para ocupar el cargo, elaborado por la Comisión de Derechos Humanos, Equidad y Género.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+b) El perfil requerido para ocupar el cargo, elaborado por la Comisión de Derechos Humanos.
 
 c) Los elementos que deberán contener las propuestas de las personas aspirantes, y
 
@@ -701,7 +703,9 @@ II. En la convocatoria deberán definirse de manera clara:
 
 a) Los requisitos exigidos a las personas aspirantes.
 
-b) El perfil requerido para ocupar el cargo, elaborado por la Comisión de Derechos Humanos, Equidad y Género.
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+b) El perfil requerido para ocupar el cargo, elaborado por la Comisión de Derechos Humanos.
 
 c) Los elementos que deberán contener las propuestas de las personas aspirantes;
 
@@ -2042,3 +2046,11 @@ P.O. 8 DE NOVIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis."
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1051.- SE REFORMAN LOS INCISOS A) Y C) DE LA FRACCIÓN II DEL ARTÍCULO 82, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL INCISO B) DE LA FRACCIÓN II DE LOS ARTÍCULOS 30 Y 42, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL INCISO A) DE LA FRACCIÓN V DEL ARTÍCULO 47, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
