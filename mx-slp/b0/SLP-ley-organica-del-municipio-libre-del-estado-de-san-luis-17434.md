@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2023-12-18"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -484,6 +484,10 @@ I. Constituir a través de la dependencia correspondiente, al inicio de su gesti
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2019)</small>
 
 I BIS. Constituir, a más tardar en el primer semestre el Consejo Consultivo Municipal de Medio Ambiente y Desarrollo Sustentable, cuyas funciones y organización se establecerán en su reglamento;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+I TER. Formular y actualizar los programas municipales de desarrollo urbano con sujeción a las leyes estatales y federales, en los cuales se deberán incluir estadísticas y datos sociológicos, debiendo observar los principios de jerarquía de la movilidad y los criterios de estándares de construcción de infraestructura vial, establecidos en la Ley General de Movilidad y Seguridad Vial, de tal forma que atiendan en su orden a personas peatonas, vehículos no motorizados y transporte público, de conformidad con las necesidades de cada municipio;
 
 II. Formular y actualizar los programas municipales de desarrollo urbano con sujeción a las leyes estatales y federales, en los cuales se deberán incluir estadísticas y datos sociológicos;
 
@@ -1857,9 +1861,9 @@ XII. Hacienda Municipal;
 
 XIII. Mercados, Centros de Abasto y Rastro;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
 
-XIV. Policía Preventiva, Vialidad y Transporte;
+XIV. Policía Preventiva, Movilidad, Seguridad Vial y Transporte;
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
@@ -2089,11 +2093,11 @@ Se consideran como organismos auxiliares municipales, los organismos descentrali
 
 Las estructuras de los órganos de gobierno y vigilancia de estas entidades, serán definidas de conformidad con lo estipulado en las leyes, decretos y reglamentos correspondientes.
 
-> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JUNIO DE 2024)</small>
 
-###### ARTICULO 104 Bis.
+ARTICULO 104 BIS. El ayuntamiento deberá constituir un organismo encargado de auxiliar y orientar a las autoridades respectivas, en todas las funciones relativas a la planeación estratégica, desarrollo urbano y ordenamiento ecológico, que deberán atender las disposiciones aplicables en esta Ley, en la Ley General de Movilidad y Seguridad Vial, y demás leyes aplicables.
 
-El ayuntamiento deberá constituir un organismo encargado de auxiliar y orientar a las autoridades respectivas, en todas las funciones relativas a la planeación estratégica, desarrollo urbano y ordenamiento ecológico.
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 17 DE SEPTIEMBRE DE 2013)</small>
 
 Para poder constituir el organismo auxiliar, por parte del ayuntamiento, se deberá cumplir con los siguientes requisitos:
 
@@ -3454,3 +3458,11 @@ P.O. 18 DE DICIEMBRE DE 2023.
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1053.- SE REFORMAN LOS ARTÍCULOS 1°, LAS FRACCIONES III, XV, XIX, XXV, XXV BIS, XXIX, XXXIII, XXXVIII Y XLIII DEL ARTÍCULO 6°; LA FRACCIÓN II DEL ARTÍCULO 10, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 11; LA FRACCIÓN I DEL ARTÍCULO 13; LA FRACCIÓN I DEL ARTÍCULO 15; EL ARTÍCULO 16; EL PÁRRAFO PRIMERO Y LAS FRACCIONES IV, XII Y XIII DEL ARTÍCULO 19; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 29; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 30; LA FRACCIÓN IX DEL ARTÍCULO 31; LA FRACCIÓN III DEL ARTÍCULO 36; EL PÁRRAFO PRIMERO DEL ARTÍCULO 37; LA FRACCIÓN III DEL ARTÍCULO 38; LAS FRACCIONES I, II, Y III DEL ARTÍCULO 44; EL PÁRRAFO PRIMERO Y FRACCIÓN I DEL ARTÍCULO 46; LA DENOMINACIÓN DEL TÍTULO QUINTO Y DE SU CAPÍTULO I; EL ARTÍCULO 49; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 51; EL ARTÍCULO 52; EL PÁRRAFO PRIMERO DEL ARTÍCULO 64; LA FRACCIÓN IV DEL ARTÍCULO 65; 67; 68; LAS FRACCIONES VI, VII Y X DEL ARTÍCULO 72; Y EL ARTÍCULO 76 BIS; ADICIONA LAS FRACCIONES XXXVI BIS, XXXVI TER, XXXVI QUATER Y XXXVI QUINQUES AL ARTÍCULO 6°, EL PÁRRAFO SEGUNDO AL ARTÍCULO 7°; LAS FRACCIONES IX Y X AL ARTÍCULO 11; LOS ARTÍCULOS 11 BIS Y 13 BIS; EL PÁRRAFO TERCERO AL ARTÍCULO 30; EL PÁRRAFO CUARTO AL ARTÍCULO 51; LOS ARTÍCULOS 53 BIS; 64 BIS; Y 81 BIS, DE Y A LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XIV ARTÍCULO 89 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 104 BIS; Y ADICIONA LA FRACCIÓN I TER EN EL INCISO A) DEL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMAN LAS FRACCIONES LVII Y XCI DEL ARTÍCULO 4°; EL PÁRRAFO PRIMERO DEL ARTÍCULO 53, LA FRACCIÓN I Y PÁRRAFO ULTIMO DEL ARTÍCULO 54, LA FRACCIÓN III DEL ARTÍCULO 85, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 160 Y EL PÁRRAFO PRIMERO EL ARTÍCULO 169, DE Y A LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XXII; Y ADICIONA LAS FRACCIONES XXIII A XXIX, TODAS DEL Y AL ARTÍCULO 36 BIS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONA EL ARTÍCULO 14 BIS, A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA LA FRACCIÓN XLVI DEL ARTÍCULO 12, EL ARTÍCULO 71 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 133; Y ADICIONA EL ARTÍCULO 17 BIS Y EL PÁRRAFO SEGUNDO AL ARTÍCULO 133, DE Y A LA LEY DE TRANSPORTE PÚBLICO DEL ESTADO DE SAN LUIS POTOSÍ. SE ADICIONAN LOS ARTÍCULOS 2° BIS, 2° TER Y 2° QUÁTER, A LA LEY QUE ESTABLECE EL DERECHO DE VÍA Y SU APROVECHAMIENTO EN LAS VÍAS TERRESTRES DE COMUNICACIÓN ESTATAL. SE ADICIONA EL ARTÍCULO 14 BIS, A LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
