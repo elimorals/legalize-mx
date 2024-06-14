@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2024-04-19"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -616,6 +616,22 @@ XVI. La prevención y el control de los efectos derivados de condiciones estresa
 XVII. La coordinación con las autoridades municipales para implementar brigadas médicas, mismas que, en la medida de sus posibilidades presupuestales, proporcionarán medidas de protección entre la población cuando haya sido declarada por parte de las autoridades sanitarias alguna pandemia o epidemia, privilegiando a las personas que se encuentren en mayor grado de vulnerabilidad, y
 
 XVIII. Las demás que establezcan la Ley General de Salud y otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+ARTICULO 14 BIS. Corresponde a los Servicios de Salud de San Luis Potosí, en materia de Movilidad y Seguridad Vial:
+
+I. En el ámbito de su competencia, elaborar guías de práctica clínica y protocolos que permitan mejorar la calidad de la atención médica prehospitalaria e intrahospitalaria por siniestros de tránsito;
+
+II. En el ámbito de su competencia, elaborar e implementar los programas de capacitación para el personal de salud responsable de la atención médica prehospitalaria e intrahospitalaria por siniestros de tránsito;
+
+III. Cuando así lo designe el Titular del Poder Ejecutivo, en coordinación con el Sistema Nacional de Movilidad y Seguridad Vial, realizar campañas en materia de prevención de siniestros de tránsito, así como evitar manejar bajo el influjo del alcohol o cualquier droga, psicotrópico o estupefaciente;
+
+IV. Celebrar convenios de cooperación y coordinación en la materia;
+
+V. Capacitar a quienes realicen las auditorías de seguridad vial y estudios de mejoramiento de sitios con elevada incidencia de siniestros de tránsito, en materias de su competencia, y
+
+VI. Las demás previstas para el cumplimiento de la presente Ley y la Ley General de Movilidad y Seguridad Vial.
 
 ###### ARTICULO 15.
 
@@ -4998,5 +5014,13 @@ P.O. 19 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 1038.- SE REFORMAN LAS FRACCIONES I Y V; Y ADICIONA LAS FRACCIONES I BIS Y VII, TODAS DEL ARTÍCULO 51, DE LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO QUINTO DEL DECRETO 1053.- POR EL QUE “SE ADICIONA EL ARTÍCULO 14 BIS A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
