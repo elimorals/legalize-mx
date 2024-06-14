@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-etica-del-tribunal-de-justicia-administrativa-del-133
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-15"
-last_updated: "2019-02-15"
+last_updated: "2024-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133741&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "QUE"
 ---
 # CODIGO DE ETICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERETARO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERÉTARO, PUBLICADO EN EL P.O. DE 14 DE JUNIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024 (ABROGADO).
 
 Código publicado al Número 20 del Periódico Oficial del Estado de Querétaro, el viernes 15 de febrero de 2019.
 
@@ -562,3 +564,17 @@ EL TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL DE JUSTICIA ADMINISTRATIV
 LIC. ADOLFO FRANCO GUEVARA
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO 01/2024 DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE QUERÉTARO POR EL QUE SE EMITE EL CÓDIGO DE ÉTICA".]
+
+PRIMERO. Publíquese el presente Código de Ética en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga"; en el INTRANET y página Web del Tribunal.
+
+SEGUNDO. El presente Código entrará en vigor el día siguiente hábil de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga";
+
+TERCERO. Se abroga el Código de Ética del Tribunal de Justicia Administrativa del Estado de Querétaro, publicado en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga" el 15 de febrero de 2019, así como todas aquellas disposiciones que se opongan a lo previsto en el presente Código
+
+CUARTO. En términos del lineamiento Décimo Segundo del acuerdo por el que se dan a conocen los Lineamientos para la emisión del Código de Ética a que se refiera (sic) el artículo 16 de la Ley General de Responsabilidades Administrativas, el Tribunal emitirán (sic) las bases para la integración del Comité, estableciendo su organización, atribuciones y funcionamiento.
