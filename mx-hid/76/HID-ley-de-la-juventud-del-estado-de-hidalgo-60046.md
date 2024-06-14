@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-06-07"
+last_updated: "2024-06-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -339,9 +339,13 @@ VII.- Adquirir una beca para realizar sus estudios correspondientes, cumpliendo 
 
 VIII.- Que sean evaluadas sus aptitudes, habilidades y conocimientos;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2024)</small>
 
 IX.- A tener acceso a la educación financiera;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+IX Bis.- A que les sea reconocido el servicio social o sus equivalentes como parte de su experiencia en el desempeño de sus labores profesionales; y
 
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
 
@@ -458,6 +462,12 @@ VII.- Potenciar el empleo en el área rural, a partir de políticas económicas 
 ###### Artículo 30.
 
 Las Dependencias y Entidades de los Gobiernos Estatal, Municipal y Organismos Públicos autónomos, establecerán los lineamientos que incentiven la creación, promoción y protección del empleo de los jóvenes en la modalidad de primera experiencia laboral.
+
+> <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2024)</small>
+
+###### Artículo 30 Bis.
+
+El servicio social o sus equivalentes tendrán reconocimiento como parte de la experiencia de las personas jóvenes en el desempeño de sus labores profesionales, a través de la emisión de una constancia por parte de la institución en la cual se realizó dicho servicio social. En dicho documento donde se harán constar las habilidades, capacidades adquiridas, temporalidad y recomendación, en caso de ser procedente.
 
 ###### Artículo 31.
 
@@ -1468,3 +1478,9 @@ P.O. 7 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 962 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 978 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO Y LA LEY DEL EJERCICIO PROFESIONAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
