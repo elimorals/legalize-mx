@@ -4,7 +4,7 @@ identifier: "LVIV"
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-27"
-last_updated: "2024-04-01"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50855&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVIV"
 
 LEY DE VIVIENDA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 27 de junio de 2006.
 
@@ -516,7 +516,9 @@ XIX. (DEROGADA, D.O.F. 14 DE MAYO DE 2019)
 
 XX. Realizar y promover investigaciones y estudios en materia de vivienda, y difundir públicamente sus resultados;
 
-XXI. Establecer vínculos institucionales, convenios de asistencia técnica e intercambio de información con gobiernos nacionales y organismos nacionales e internacionales, en coordinación con las autoridades competentes;
+> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2024)</small>
+
+XXI. Establecer vínculos institucionales, convenios de asistencia técnica, innovación arquitectónica y/o tecnológica, además de intercambio de información con gobiernos nacionales y organismos nacionales e internacionales, en coordinación con las autoridades competentes;
 
 XXII. Fomentar y apoyar programas y proyectos de formación profesional, actualización y capacitación integral para profesionistas, técnicos y servidores públicos relacionados con la generación de vivienda, así como para autoproductores, autoconstructores y autogestores de vivienda;
 
@@ -1102,11 +1104,11 @@ El Gobierno Federal promoverá e impulsará proyectos inmobiliarios en los que s
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 71.
 
-Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Secretaría promoverá, en coordinación con las autoridades competentes tanto federales como locales, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y espacios auxiliares suficientes en función al número de usuarios, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
+Con el propósito de ofrecer calidad de vida a los ocupantes de las viviendas, la Secretaría promoverá, en coordinación con las autoridades competentes tanto federales como locales, que en el desarrollo de las acciones habitacionales en sus distintas modalidades y en la utilización de recursos y servicios asociados, se considere que las viviendas cuenten con los espacios habitables y espacios auxiliares suficientes en función al número de usuarios, provea de los servicios de agua potable, desalojo de aguas residuales y energía eléctrica que contribuyan a disminuir los vectores de enfermedad, así como garantizar la seguridad estructural, la accesibilidad, y la adecuación al clima con criterios de sustentabilidad, eficiencia energética y prevención de desastres, utilizando preferentemente bienes y servicios normalizados.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2013)</small>
 
@@ -1160,9 +1162,11 @@ La Secretaría y la Comisión fomentarán la participación de los sectores púb
 
 Asimismo, promoverá que las tecnologías, sean acordes con los requerimientos sociales, regionales y a las características propias de la población, estableciendo mecanismos de investigación y experimentación tecnológicas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 78.
 
-El modelo normativo, las normas mexicanas aplicables al diseño arquitectónico de la vivienda y los prototipos constructivos deberán considerar los espacios interiores y exteriores; la eficiencia de los sistemas funcionales, constructivos y de servicio; la tipificación y modulación de sus elementos y componentes, respetando las distintas zonas del país, los recursos naturales, el ahorro de energía y las modalidades habitacionales.
+El modelo normativo, las normas mexicanas aplicables al diseño arquitectónico de la vivienda y los prototipos constructivos deberán considerar los espacios interiores y exteriores que faciliten la accesibilidad de sus habitantes; la eficiencia de los sistemas funcionales, constructivos y de servicio; la tipificación y modulación de sus elementos y componentes, respetando las distintas zonas del país, los recursos naturales, el ahorro de energía y las modalidades habitacionales.
 
 > <small>(REFORMADO, D.O.F. 20 DE ABRIL DE 2015)</small>
 
@@ -1382,40 +1386,8 @@ D.O.F. 1 DE ABRIL DE 2024.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO 277.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO VI “SERVICIOS DE PLANIFICACIÓN FAMILIAR” DEL TÍTULO TERCERO “PRESTACIÓN DE LOS SERVICIOS DE SALUD” Y EL PRIMER PÁRRAFO DEL ARTÍCULO 63, Y SE ADICIONAN UNA FRACCIÓN VII AL ARTÍCULO 63, Y LOS ARTÍCULOS 65 BIS, 65 TER Y 221 BIS A LA LEY ESTATAL DE SALUD; SE ADICIONAN UNA FRACCIÓN XXIII AL ARTÍCULO 26 DE LA LEY ESTATAL DE EDUCACIÓN, SE ADICIONA UNA FRACCIÓN VII, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 49, UNA FRACCIÓN XIV, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 52 Y UNA FRACCIÓN VIII, RECORRIÉNDOSE LA SUBSECUENTE, AL ARTÍCULO 53 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UNA FRACCIÓN IX, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 19 DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA UN INCISO E) AL ARTÍCULO 26 DE LA LEY PARA LA PREVENCIÓN Y COMBATE A LA POBREZA EXTREMA EN EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA EL ARTÍCULO 100 BIS A LA LEY DE EJECUCIÓN DE SANCIONES PENALES Y REINSERCIÓN SOCIAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; SE ADICIONA EL ARTÍCULO 265 BIS A LA LEY DEL SISTEMA INTEGRAL DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+D.O.F. 14 DE JUNIO DE 2024.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES Y DE LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD”.]
 
-Segundo.- En un plazo no mayor a noventa días naturales desde la entrada en vigor de este Decreto, la Secretaría de Gobierno del Estado, la Secretaría de Educación y la Secretaría de Salud harán las modificaciones normativas, de infraestructura, presupuestales, de procedimientos, y las demás necesarias para promover los derechos señalados en el mismo.
-
-Tercero.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, la Secretaría de Gobierno, a través de las autoridades competentes, deberá expedir las reformas a los reglamentos y protocolos estatales y municipales vigentes en materia de internación de personas, centros de readaptación social, centros penitenciarios y de detención para establecer los derechos señalados en el mismo.
-
-Cuarto.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, la Secretaría de Educación, a través de las autoridades competentes, deberá expedir las reformas a los reglamentos y protocolos estatales y municipales vigentes sobre centros de educación del estado superior para establecer y promover los derechos señalados en el mismo.
-
-Quinto.- En un plazo no mayor de sesenta días naturales desde la entrada en vigor de este Decreto, las autoridades competentes deberán expedir las reformas a los reglamentos y protocolos estatales y municipales en materia sanitaria para establecer y promover los derechos señalados en el mismo a las mujeres en situación de vulnerabilidad.
-
-Sexto.- Las reformas a los reglamentos reformados en virtud de este Decreto deberán establecer y garantizar, al menos:
-
-I. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las niñas, adolescentes y mujeres en situación de vulnerabilidad, de acuerdo con la legislación vigente;
-
-II. La garantía del acceso de las niñas, adolescentes y mujeres a los derechos, insumos y materiales, e instalaciones necesarias para acceder y promover la higiene menstrual;
-
-III. La vigilancia por parte de las autoridades sanitarias competentes del cumplimiento de las medidas necesarias para la higiene menstrual de las niñas, adolescentes y mujeres, y
-
-IV. La investigación y sanción a las autoridades que impidan el acceso a los derechos relativos a la higiene menstrual.
-
-Séptimo.- Las reformas a los reglamentos reformados en virtud de este Decreto en materia de internación de personas, centros de readaptación social, centros penitenciarios y de detención además deberán establecer y promover:
-
-I. La protección del derecho de las mujeres privadas de su libertad para que puedan acceder por parte de sus familiares o a precios comerciales los insumos necesarios para la higiene menstrual, y
-
-II. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las adolescentes y mujeres privadas de su libertad en situación de vulnerabilidad.
-
-Octavo.- Las reformas a los reglamentos reformados en virtud de este Decreto en materia de centros de educación primaria, secundaria y media superior además deberán establecer y promover:
-
-I. La creación de políticas y mecanismos para otorgar de forma gratuita los insumos necesarios para la higiene menstrual a las niñas, adolescentes y mujeres de los centros de educación pública primaria, secundaria y media superior, y
-
-II. La creación de políticas y mecanismos para evitar el acoso escolar a las niñas, adolescentes y mujeres de los centros de educación primaria, secundaria y media superior en el ejercicio de sus derechos relativos a la higiene menstrual.
-
-Noveno.- Con fundamento del (sic) principio de la realización progresiva de los derechos, estos serán aplicados de acuerdo con los recursos materiales del Estado, mismos que permitan avanzar gradual y constantemente hacia la más plena realización de tales derechos.
-
-Decimo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
