@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2024-02-20"
+last_updated: "2024-06-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -763,13 +763,41 @@ XX. Impulsar los sistemas de comunicación de cobertura social, en coordinación
 
 XXI. Distribuir la red estatal de educación, salud y gobierno, de conformidad con los lineamientos establecidos por la propia Secretaría, y de acuerdo a los criterios normativos señalados por la autoridad Federal;
 
+> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXII. Emitir la normatividad correspondiente para la distribución de la red estatal de educación, salud y gobierno; y las telecomunicaciones en la competencia de Entidad, así como la operación de las mismas;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXIII. Establecer las bases para la coordinación con los integrantes del Sistema Nacional de Movilidad y Seguridad Vial a través de los planes de desarrollo, la política de movilidad y de seguridad vial en el Estado, con un enfoque integral a la política de desarrollo urbano y ordenamiento territorial, transversal con las políticas sectoriales aplicables;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXIV. Determinar mecanismos y acciones que promuevan y fomenten la sensibilización, la formación y la cultura de la movilidad y seguridad vial, que permitan el ejercicio pleno de este derecho;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXV. Implementar los mecanismos y acciones para la gestión de factores de riesgo que permitan reducir las muertes y lesiones graves ocasionadas por siniestros viales, así como salvaguardar la vida e integridad física de las personas usuarias del sistema de movilidad, bajo un enfoque de sistemas seguros;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXVI. Promover la toma de decisiones con base en evidencia científica y territorial en materia de movilidad y seguridad vial;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXVII. Convocar a las organizaciones de los sectores social y productivo, a que manifiesten sus opiniones y propuestas en materia de movilidad y seguridad vial, en el proceso de integración del Programa Estatal de Movilidad, Transporte y Seguridad Vial;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXVIII. Publicar y mantener actualizada toda la información generada por el Programa Estatal de Movilidad, Transporte y Seguridad Vial;
+
+> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
+
+XXIX. Promover la conformación del Observatorio Estatal de Movilidad y Seguridad Vial, como espacio de deliberación entre los gobiernos estatal y municipales, especialistas, organizaciones de la sociedad civil y del sector privado; con el objetivo de, evaluar las políticas de movilidad y seguridad vial, debiendo garantizar en su conformación la representación de todos esos actores. La forma de su conformación y operación, deberá sujetarse al reglamento que para tal efecto emita la Secretaría, y
+
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
-XXII. Emitir la normatividad correspondiente para la distribución de la red estatal de educación, salud y gobierno; y las telecomunicaciones en la competencia de Entidad, así como la operación de las mismas, y
-
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2010)</small>
-
-XXIII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+XXX. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 37.
 
@@ -2142,3 +2170,11 @@ SEGUNDO. La Junta (sic) Gobierno del Archivo General del Estado deberá expedir 
 TERCERO. La Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, deberá entregar al Archivo General del Estado y, al Archivo Histórico del Estado, en su caso, conforme a la competencia de cada uno de éstos, las copias de inventarios de expedientes, así como los documentos de archivo, y demás instrumentos que haya recibido, administrado o generado en ejercicio de su función como autoridad en materia de archivos.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO CUARTO DEL DECRETO 1053.- "SE REFORMA LA FRACCIÓN XXII; Y ADICIONA LAS FRACCIONES XXIII A XXIX, TODAS DEL Y AL ARTÍCULO 36 BIS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
