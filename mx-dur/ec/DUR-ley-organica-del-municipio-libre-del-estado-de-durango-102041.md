@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2023-11-19"
+last_updated: "2024-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -309,6 +309,10 @@ Los ayuntamientos promoverán entre sus habitantes las formas de participación 
 
 Los Ayuntamientos adoptarán la figura de cabildo abierto, entendiéndose por ella a la sesión plenaria en la que los ciudadanos puedan participar, atendiendo a las disposiciones que para tal efecto expidan los Ayuntamientos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2024)</small>
+
+Además, podrán implementar la figura del Presupuesto Participativo, como mecanismo para el desarrollo y progreso de la comunidad y de intervención activa y directa de esta en la vida democrática municipal, mediante propuestas ciudadanas.
+
 ###### Artículo 18.
 
 El Ayuntamiento convocará y tomará parte en la constitución, organización y funcionamiento de los organismos de participación ciudadana con apego a las siguientes disposiciones:
@@ -448,6 +452,10 @@ X. Instalado legalmente el Ayuntamiento, durante las primeras sesiones asignará
 XI. Conceder licencia para separarse de su cargo por un tiempo no mayor de sesenta días a los servidores públicos señalados en la fracción V de este inciso.
 
 XII. Aprobar la intervención del Presidente Municipal ante toda clase de autoridades cuando se afecten intereses municipales.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2024)</small>
+
+XIII. Conocer de la licencia para separarse de sus cargos al Presidente Municipal, Síndicos y Regidores.
 
 B). EN MATERIA DE ADMINISTRACIÓN PÚBLICA:
 
@@ -605,6 +613,10 @@ II. Extraordinarias: Se realizarán cuantas veces sean necesarias para resolver 
 
 III. Solemnes: Las que se realicen cuando se trate de una ceremonia especial.
 
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2024)</small>
+
+IV. En los ayuntamientos que cuenten con acceso mediante medios electrónicos, las sesiones de cabildo deberán de transmitirse en tiempo real, vía internet a través del portal oficial del ayuntamiento y/o las plataformas audiovisuales o redes sociales que se encuentren al alcance de cada municipio.
+
 ###### Artículo 36.
 
 Para que las sesiones ordinarias a que se refiere la fracción I del artículo anterior sean válidas, se requiere que los integrantes de los ayuntamientos sean citados por escrito o en otra forma indubitable, con un mínimo de 48 horas de anticipación para los municipios considerados en el primer caso, y de 72 horas como mínimo para los restantes dos casos, además de que deberá existir el quórum legal.
@@ -635,9 +647,13 @@ Podrán llevarse a cabo en lugar diferente cuando se presenten circunstancias qu
 
 Los Ayuntamientos sesionarán en cabildo abierto cuando menos una vez cada dos meses para recibir directamente de las personas, propuestas, opiniones o proyectos relacionados con temas de interés general, buscando fomentar la participación de los habitantes de los municipios.
 
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2024)</small>
 
-El Ayuntamiento, así como las Comisiones a que se refiere el artículo 45 de este (sic) Ley, podrán reunirse en sesión no presencial cuando existan razones de salubridad general, protección civil, contingencia sanitaria o cualquier otra que impidan el acceso a las y los integrantes del Ayuntamiento al edificio que ocupe la presidencia municipal.
+El Ayuntamiento, así como las Comisiones a que se refiere el artículo 45 de esta Ley, podrán reunirse en sesión no presencial cuando existan razones de salubridad general, protección civil, contingencia sanitaria o cualquier otra que impidan el acceso a las y los integrantes del Ayuntamiento al edificio que ocupe la presidencia municipal, para tal efecto, podrán convocar a sesión virtual de Cabildo o de comisiones respectivamente, debiendo hacerlo por escrito o vía electrónica, especificando únicamente los temas a tratar, por tratarse de una ocasión extraordinaria.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Cuando las sesiones o reuniones de trabajo sean presenciales no procederá de ninguna manera la asistencia virtual de alguno de sus integrantes.
 
 ###### Artículo 38.
 
@@ -879,6 +895,12 @@ XII. Las demás que se les señalen en esta Ley, los reglamentos municipales y e
 
 Los miembros del Ayuntamiento tienen obligación de concurrir al Congreso del Estado a solicitud expresa de este, para que informen cuando se discuta una ley o se estudie un asunto concerniente a sus respectivos ramos o para que respondan a interpelaciones o preguntas, en los términos que disponga la ley.
 
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+###### Artículo 62 Bis.
+
+El Ayuntamiento, conocerá de las solicitudes de alguno de sus miembros, para separarse del ejercicio de su cargo.
+
 ### Capítulo VII. De las Faltas Temporales y las Licencias de los Miembros del Ayuntamiento
 
 ###### Artículo 63.
@@ -891,9 +913,41 @@ Si asumido el cargo, un Presidente Municipal dejare de desempeñar su encargo si
 
 En los casos de designación en los que intervenga el Congreso del Estado, la persona que sea nombrada como Presidente sustituto, deberá de recaer en aquella que sea del mismo origen partidista del que es el Presidente Municipal al que se suple o sustituye.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2024)</small>
+
 ###### Artículo 64.
 
-Las faltas definitivas y las temporales por licencia de más de dos meses de los Regidores y Síndico Propietarios, se cubrirán por los suplentes. En caso de impedimento legal o físico de los suplentes, tratándose del Síndico, será cubierta por el Regidor que designe el Ayuntamiento; y en el caso de los regidores, se cubrirá la vacante con aquellos candidatos del mismo partido político que hubieren quedado en el lugar preferente en la lista respectiva.
+Las licencias para separarse temporalmente del cargo podrán ser por tiempo determinado cuando excedan de quince y hasta por noventa días naturales o por tiempo indefinido cuando excedan este plazo.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+###### Artículo 64 Bis.
+
+La licencia para separarse definitivamente algún miembro del Ayuntamiento, sólo procederá por las siguientes causas:
+
+I. El llamado para ejercer un empleo, cargo o comisión de la administración pública municipal, estatal o federal o de organismos autónomos, desconcentrados o descentralizados de cualquiera de los tres órdenes de gobierno;
+
+II. Asumir una candidatura a cargo de elección popular, en uso de sus derechos políticos;
+
+III. El cumplimiento de comisiones de trabajo acordadas por el Ayuntamiento;
+
+IV. Incapacidad médica probada; e
+
+V. Imposibilidad física o mental.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+###### Artículo 64 Ter.
+
+En las licencias por más de 15 días de los regidores y síndicos propietarios, el Ayuntamiento deberá llamar al suplente respectivo.
+
+En caso de impedimento legal o físico de los suplentes, tratándose del Síndico, será cubierta por el Regidor que designe el Ayuntamiento; y en el caso de los regidores, se cubrirá la vacante con aquellos candidatos del mismo partido político que hubieren quedado en el lugar preferente en la lista respectiva.
+
+Al término del plazo de la licencia concedida, el propietario se reincorporará de inmediato a su cargo, notificándolo al Presidente Municipal para los efectos legales correspondientes.
+
+En caso de que el Síndico o Regidor con licencia no se presentare al término del plazo concedido, se considerará como licencia indefinida, continuando el suplente nombrado en funciones.
+
+El Síndico o Regidor con licencia indefinida que desee reincorporarse a su cargo o el Síndico o Regidor con licencia de plazo determinado que desee regresar a su cargo antes del período concedido, deberá notificarlo al Presidente Municipal, a efecto de que sea convocado a la próxima sesión del Ayuntamiento.
 
 ###### Artículo 65.
 
@@ -917,9 +971,11 @@ El Presidente Municipal podrá conceder licencias económicas a los servidores p
 
 El Presidente Municipal podrá conceder licencia a los miembros del Ayuntamiento hasta por un término de quince días, tomando en consideración que el número de licencias concedidas no impidan la formación del quórum legal necesario para las sesiones del Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2024)</small>
+
 ###### Artículo 70.
 
-El Ayuntamiento podrá conceder licencia con o sin goce de sueldo a los integrantes del Ayuntamiento y servidores públicos municipales hasta por el término de dos meses.
+El Ayuntamiento podrá conceder licencia con goce de sueldo a los integrantes del Ayuntamiento hasta por el término de treinta días.
 
 ###### Artículo 71.
 
@@ -1058,6 +1114,10 @@ El Ayuntamiento contará con un Tesorero o su equivalente, que se hará cargo de
 ###### Artículo 87.
 
 Para ser tesorero municipal o su equivalente, se necesita satisfacer los requisitos del artículo 148 de la Constitución Política del Estado Libre y Soberano de Durango, a excepción de lo establecido en su fracción III.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Además de los requisitos establecidos en los términos del párrafo anterior, para ser tesorero municipal o su equivalente, acreditará contar con conocimientos y experiencia en áreas de contabilidad, administración y económicas.
 
 ###### Artículo 88.
 
@@ -2307,7 +2367,9 @@ V. La formación y el funcionamiento de órganos de colaboración.
 
 Un Ayuntamiento podrá celebrar convenios de coordinación administrativa con otro o varios ayuntamientos para los siguientes fines:
 
-I. La elaboración conjunta de los planes municipales y regionales de desarrollo y sus programas. Esta coordinación puede realizarse entre ayuntamientos de municipios afines por su tipología o entre ayuntamientos que por razones de igual importancia consideren conveniente la coordinación.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2024)</small>
+
+I. La elaboración conjunta de los planes municipales y regionales de desarrollo y sus programas, pudiendo incluir, en su caso, la consulta de presupuesto participativo. Esta coordinación puede realizarse entre ayuntamientos de municipios afines por su tipología o entre ayuntamientos que por razones de igual importancia consideren conveniente la coordinación.
 
 II. Cuando sea en conjunto con el Ejecutivo del Estado o con el Ejecutivo Federal.
 
@@ -2321,13 +2383,65 @@ VI. La adquisición en común de materiales, equipo e instalaciones para el serv
 
 VII. La contratación en común de servicios de información, de mantenimiento y de asesoría técnica especializada.
 
-VIII. La ejecución y el mantenimiento de obra pública.
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2024)</small>
+
+VIII. La ejecución y el mantenimiento de obra pública, lo que en su caso podrá ser susceptible de consulta de presupuesto participativo.
 
 IX. La promoción de las actividades económicas.
 
 X. Los demás que consideren convenientes, en cumplimiento de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango y la presente Ley.
 
-### Capítulo Único
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2024)</small>
+
+### Capítulo IV. Presupuesto Participativo
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis. El Presupuesto Participativo es un mecanismo de gestión y participación social mediante el cual quienes habitan en el Municipio, deciden sobre el destino de un porcentaje del presupuesto de egresos de cada año, a través de propuestas ciudadanas y consultas directas a la población.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis 1. El Ayuntamiento destinará como mínimo un monto equivalente al cinco por ciento de sus ingresos de libre disposición, en los términos de la Ley de Disciplina Financiera y de Responsabilidad Hacendaria del Estado de Durango y sus Municipios. Dicho porcentaje deberá estar contemplado expresamente en el presupuesto de egresos y diferenciado de los programas de obra.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis 2. Durante el proceso de elaboración del presupuesto para cada ejercicio fiscal, la Autoridad Municipal deberá considerar una partida denominada presupuesto participativo, a la cual se asignará el monto correspondiente al momento de concluirse el proceso de elaboración del mismo, la cual se ajustará en el mes de febrero, una vez que sean publicadas las cifras de actualización a la Ley de Ingresos respectiva.
+
+Una vez que se conocen las obras y servicios a realizar con el presupuesto participativo, se deberán de realizar las adecuaciones presupuestales correspondientes.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis 3. Los recursos asignados para el ejercicio del presupuesto participativo deberán satisfacer necesidades colectivas de las funciones y servicios a que se refiere el Artículo 153 de la Constitución Política del Estado Libre y Soberano de Durango.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis 4. Cada Ayuntamiento reglamentará la forma, el procedimiento, los plazos, los montos y los entes responsables de llevar a cabo la difusión, recepción y evaluación técnica, económica y jurídica de las propuestas ciudadanas recibidas, con el fin de presentarlas a la Ciudadanía para su votación.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis 5. La convocatoria para recibir las propuestas ciudadanas y realizar las consultas directas a la población se emitirá una vez al año y deberá ser aprobada por el Ayuntamiento a propuesta del Presidente Municipal. Una vez aprobada la convocatoria correspondiente se publicará en la Gaceta Municipal, en el portal de internet del gobierno municipal, en sus redes sociales o en algún periódico de mayor circulación.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis 6. El ejercicio de consulta para la votación de las propuestas se realizará de forma física o electrónica, según las particularidades de las demarcaciones territoriales y los recursos disponibles. Los ejercicios deberán desarrollarse en fechas, lugares de fácil acceso y horarios flexibles que permitan la máxima participación de la población, en términos que determine la convocatoria.
+
+Para realizar el ejercicio de votación, se podrá solicitar el apoyo y participación de instituciones públicas y educativas.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis 7. El informe de los resultados obtenidos en base a la consulta ciudadana se someterá a la aprobación del Ayuntamiento, previo análisis y dictamen de la Comisión de Hacienda, o su equivalente. Una vez aprobado por el Ayuntamiento, se dará inicio a la ejecución de los proyectos priorizados por las personas habitantes en términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis 8. El Gobierno Municipal, deberá prever y proveer los recursos necesarios para la debida promoción y difusión de los mecanismos y etapas del Presupuesto Participativo.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis 9. Queda prohibido el uso del instrumento de Presupuesto Participativo para fines electorales, de promoción personal o ajenos a los establecidos por la Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2024)</small>
+
+Artículo 222 bis 10. El recurso asignado al Presupuesto Participativo deberá ejercerse en su totalidad. Se deberá considerar una reserva de proyectos viables, en el mismo orden de la votación del presupuesto participativo que podrán ser incluidos en caso de existir excedentes derivados de ingresos extraordinarios y/o recaudación.
 
 ## Título Décimo. De las Responsabilidades
 
@@ -2343,7 +2457,7 @@ Se concede acción popular para presentar denuncia debidamente fundada, sobre ma
 
 ## Título Décimo Primero. Del Sistema Municipal de Protección Civil
 
-### Capítulo Único. De los Derechos Humanos
+### Capítulo Único
 
 ###### Artículo 225.
 
@@ -2384,6 +2498,8 @@ X. Informar, por razones de coordinación y actualización de estadísticas, al 
 XI. Las demás que acuerde el propio sistema municipal.
 
 ## Titulo Décimo Segundo
+
+### Capítulo Único. De los Derechos Humanos
 
 ###### Artículo 228.
 
@@ -2754,6 +2870,48 @@ SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente decret
 P.O. 19 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 459 POR EL QUE SE REFORMAN LOS ARTÍCULOS 10, 14 Y 17 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 16 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 570 POR EL QUE SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. La presente reforma entrara en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 571 POR EL QUE SE REFORMA Y ADICIONA UN QUINTO PÁRRAFO AL ARTÍCULO 37 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente decreto.
+
+P.O. 16 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 572 POR EL QUE SE REFORMAN LOS ARTÍCULOS 17 Y 222 Y SE ADICIONA UN CAPÍTULO IV, DENOMINADO “PRESUPUESTO PARTICIPATIVO”, QUE CONTIENE LOS ARTÍCULOS 222 BIS AL 222 BIS 10. AL TÍTULO NOVENO DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Los ayuntamientos tendrán 90 días para adecuar su normatividad y reglamentación.
+
+P.O. 16 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 573 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 87 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 574 POR EL QUE SE ADICIONA LA FRACCIÓN XIII AL APARTADO A) DEL ARTÍCULO 33, AL ARTÍCULO 62 BIS Y LOS ARTÍCULOS 64 BIS Y 64 TER; SE REFORMA EL ARTÍCULO 64 Y EL ARTÍCULO 70, TODOS DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO".]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
