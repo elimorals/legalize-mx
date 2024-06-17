@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-legislativo-del-estado-de-129544"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-09"
-last_updated: "2024-05-20"
+last_updated: "2024-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 9 de julio de 2018.
 
@@ -809,6 +809,12 @@ XXVI. Movilidad Sustentable y Transporte; y
 
 XXVII. Vigilancia.
 
+> <small>[N. DE E. PERTENECE AL SEGUNDO PÁRRAFO DEL ARTÍCULO, P.O. 17 DE JUNIO DE 2024]</small>
+
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2024)</small>
+
+Las comisiones ordinarias establecidas en el párrafo anterior, tienen a su cargo tareas de dictamen legislativo, de información y de control evaluatorio; conforme a lo dispuesto por la fracción XXX del artículo 27 de la Constitución Política del Estado de Aguascalientes, y su competencia se corresponde en lo general con las otorgadas a las dependencias y entidades de la Administración Pública Estatal.
+
 ###### ARTÍCULO 57.
 
 Corresponde a la Comisión de Asuntos Electorales, el conocimiento, análisis, estudio, seguimiento, promoción y en su caso Dictaminación sobre los asuntos siguientes:
@@ -1339,9 +1345,11 @@ XIII. Los señalados en la Ley de Fiscalización Superior del Estado de Aguascal
 
 XIV. Otros análogos, a rendición de cuentas, presupuesto, gasto, transparencia y aquellos que a juicio del Presidente del Congreso o de la Diputación Permanente, en su caso, sean materia de tratamiento por esta Comisión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 84.
 
-El Pleno podrá acordar la constitución de Comisiones Especiales cuando se estimen necesarias para hacerse cargo de un asunto específico. El acuerdo que las establezca señalará su objeto, el número de los integrantes que las conformarán y el plazo para efectuar las tareas que se les hayan encomendado. Cumplido su objeto se extinguirán. Cuando se haya agotado el objeto de una Comisión Especial o al final de la legislatura, el Secretario General informará lo conducente a la Mesa Directiva, la cual hará la declaración de su extinción.
+El pleno podrá acordar la constitución de Comisiones Especiales cuando se estimen necesarias para hacerse cargo de un asunto específico. El acuerdo que las establezca señalará su objeto, el número de los integrantes que las conformaran y el plazo para efectuar las tareas que se les hayan encomendado, así como la periodicidad para la presentación de informes sobre el asunto correspondiente. Cumplido su objeto se extinguirán. Cuando se haya agotado el objeto de la Comisión Especial o al final de la legislatura, el Secretario General informará lo conducente a la Mesa Directiva, la cual hará la declaración de su extinción.
 
 Las Comisiones Especiales podrán ser de investigación o jurisdiccionales, se constituyen con carácter transitorio, funcionando en los términos constitucionales y legales cuando así lo apruebe el Pleno, y conocerán específicamente de los hechos que hayan motivado su integración.
 
@@ -1393,7 +1401,9 @@ Las comisiones a que se refiere el párrafo anterior y de acuerdo con su compete
 
 Las comisiones tendrán las atribuciones siguientes:
 
-I. Elaborar su programa anual de trabajo;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2024)</small>
+
+I. Elaborar su plan anual de trabajo;
 
 II. Rendir un informe semestral de sus actividades a la Junta de Coordinación Política y a la Mesa Directiva del Pleno;
 
@@ -2612,3 +2622,11 @@ P.O. 20 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 656.- SE DEROGAN DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 741.- SE ADICIONA Y REFORMA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
