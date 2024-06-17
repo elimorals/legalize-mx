@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2023-06-01"
+last_updated: "2024-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2024.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -1689,6 +1689,26 @@ Agencia Matriz con venta
 
 al público en general 236 236 236
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Boutique de cerveza
+
+artesanal 80 80 80
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Microcervecería de
+
+cerveza artesanal 100 100 100
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Sala de degustación
+
+para la venta exclusiva
+
+de cerveza artesanal 100 100 100
+
 b).- Por la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas, por cada hora se causarán derechos conforme a la siguiente:
 
 TARIFA
@@ -1741,6 +1761,26 @@ Agencia Matriz con venta
 
 al Público en general 0.81 0.81 0.81
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Boutique de cerveza
+
+artesanal 0.30 0.30 0.30
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Microcervecería de
+
+cerveza artesanal 0.50 0.50 0.50
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Sala de degustación
+
+para la venta exclusiva
+
+de cerveza artesanal 0.40 0.40 0.40
+
 c).- Por el otorgamiento de permisos eventuales para el funcionamiento de establecimientos para la venta y/o consumo de bebidas alcohólicas por día, se causarán derechos conforme a la siguiente:
 
 TARIFA
@@ -1756,6 +1796,14 @@ Eventos deportivos, recreativos
 y artísticos 200 100 50
 
 Eventos sociales 50 25 10
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Para muestras y
+
+degustación de cerveza
+
+artesanal en eventos 5 4 3
 
 > <small>(ADICIONADO, P.O. 17 DE MARZO DE 1999)</small>
 
@@ -3330,3 +3378,11 @@ P.O. 1 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 499 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 809 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 62 DE LA LEY DE HACIENDA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
