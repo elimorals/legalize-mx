@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2023-01-20"
+last_updated: "2024-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -2733,6 +2733,26 @@ con venta al público
 
 en general 1911 1911 1911
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Boutique de cerveza
+
+artesanal 150 150 150
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Microcerveceria de
+
+cerveza artesanal 350 350 350
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Sala de degustación
+
+para la venta exclusiva
+
+de cerveza artesanal 200 200 200
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE DICIEMBRE DE 2017)</small>
 
 II.- Por el otorgamiento de permisos provisionales de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, y, en su caso, sus prórrogas, deberá cubrirse el equivalente al número de veces el valor diario de la Unidad de Medida y Actualización de acuerdo a la siguiente:
@@ -2779,7 +2799,35 @@ al público 318 318 318
 
 Club Social 318 318 318
 
-III.- (DEROGADA, P.O. 17 DE MARZO DE 1999)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Boutique de cerveza 120 120 120
+
+artesanal
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Microcervecería de 200 200 200
+
+cerveza artesanal
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE JUNIO DE 2024)</small>
+
+Sala de degustación 150 150 150
+
+para la venta exclusiva
+
+de cerveza artesanal
+
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2024)</small>
+
+III.- Por el otorgamiento de modificación de la licencia de funcionamiento de establecimiento para la venta y/o consumo de cerveza artesanal, deberá cubrirse el equivalente al número de veces el valor diario de la Unidad de medida y Actualización por cada trámite, de acuerdo a la siguiente:
+
+Cambio de giro 50% del costo de la licencia
+
+Cambio de domicilio 50% del costo de licencia
+
+Cambio de titularidad 24 (sic)
 
 IV.- (DEROGADA, P.O. 17 DE MARZO DE 1999)
 
@@ -4422,3 +4470,11 @@ P.O. 20 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 384 DEL H. CONGRESO DEL ESTADO.- SE ADICIONA EL CAPÍTULO XVII DENOMINADO "POR INSCRIPCIÓN EN EL REGISTRO ESTATAL DE AGENTES INMOBILIARIOS", AL TÍTULO SEGUNDO DENOMINADO "DE LOS DERECHOS" CON SU ARTÍCULO 78 BIS-13 A LA LEY DE HACIENDA DEL ESTADO DE SINALOA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 17 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 809 POR EL QUE “SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 62 DE LA LEY DE HACIENDA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
