@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2024-04-30"
+last_updated: "2024-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -15299,515 +15299,353 @@ El presidente de la junta directiva será el representante legal de la fundació
 
 TERCERA PARTE
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
+
 ## TITULO UNICO. Del Registro Público de la Propiedad
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 ### Capítulo I. De su organización
 
 ###### Artículo 2872.
 
-El Registro Público de la Propiedad es la Institución mediante la cual el Estado proporcionará el servicio de dar publicidad a los actos jurídicos que conforme a la Ley precisan de ese requisito para surtir efectos frente a terceros; y, para ese efecto el Ejecutivo Local establecerá en la Capital del Estado la Dirección del Registro Público de la Propiedad y del Comercio, que estará a cargo de un Director General, y de las Delegaciones que determine el mismo Ejecutivo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2873.
 
-El Registro Público de la Propiedad, funcionará conforme al sistema y métodos que determina su Reglamento.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2874.
 
-El Reglamento establecerá los requisitos necesarios para desempeñar los cargos que requiera el funcionamiento del Registro Público de la Propiedad.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2875.
 
-Los encargados y los empleados del Registro Público además de las penas que le sean aplicables por los delitos en que puedan incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar cuando:
-
-I. Rehusaren admitir el título, o si no practicaren el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 2889;
-
-II. Practicaren algún asiento indebidamente o rehusaren practicarlo sin motivo fundado;
-
-III. Retardaren, sin causa justificada, la práctica del asiento a que de lugar el documento inscribible;
-
-IV. Cometan errores, inexactitudes y omisiones en los asientos que practiquen o en los certificados que expidieran; y
-
-V. No expidan los certificados en el término reglamentario.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2876.
 
-Las sentencias firmes que resultaren en aplicación del artículo anterior, incluirán la inhabilitación para el desempeño del cargo o empleo hasta que sea pagada la indemnización de daños y perjuicios que en su caso corresponda.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2877.
 
-El registro será público. Los encargados del mismo tendrán la obligación de permitir a las personas que lo soliciten, que se enteren de los asientos que obren en los folios del Registro Público y de los documentos relacionados con las inscripciones que estén archivados. También tendrán la obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los Folios del Registro Público, así como certificaciones de existir o no asientos relativos a los bienes que se señalen.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 ### Capítulo II. Disposiciones comunes de los documentos registrales
 
 ###### Artículo 2878.
 
-Solo se registrarán:
-
-I. Los testimonios de escrituras o actas notariales u otros documentos auténticos;
-
-II. Las resoluciones y providencias judiciales que consten de manera auténtica; y
-
-III. Los documentos privados que en esta forma fueran válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el notario, el registrador, el corredor público o el juez competente se cercioraron de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados fedatarios y llevar impreso el sello respectivo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2879.
 
-Los actos ejecutados o los contratos otorgados en otra entidad federativa o en el extranjero, solo se inscribirán si dichos actos o contratos tienen el carácter de inscribibles conforme a las disposiciones de este Código y del Reglamento del Registro Público.
-
-Si los documentos respectivos apareciesen redactados en idioma extranjero, y se encontraren debidamente legalizados, deberán ser previamente traducidos por perito oficial y protocolizados ante notario.
-
-Las sentencias dictadas en el extranjero sólo se registrarán si no están en desacuerdo con leyes mexicanas y si ordena su ejecución la autoridad judicial competente.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2880.
 
-Los documentos que conforme a este Código sean registrables y no se registraren, no producirán efectos en perjuicio de tercero.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2881.
 
-La inscripción de los actos o contratos en el Registro Público tendrá efectos declarativos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2882.
 
-El Registro protege los derechos adquiridos por tercero de buena fe, una vez inscritos aunque después se anule o resuelva el derecho del otorgante, excepto cuando la causa de la nulidad resultare claramente del mismo registro. Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando la ley.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2883.
 
-El derecho registrado se presumirá que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presumirá también que el titular de una inscripción de dominio o de posesión, tendrá la posesión del inmueble inscrito.
-
-No podrá ejercitarse acción contradictoria del dominio del inmueble o derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que constare dicho dominio o derecho.
-
-En caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales, se sobreseerá el procedimiento respectivo de los mismos o de sus frutos, inmediatamente que conste en los autos por manifestación auténtica del Registro Público, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro Público.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2884.
 
-Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar en el folio de la finca sobre la que recaigan, en la forma que determine el reglamento.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2885.
 
-Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, la sociedad conyugal no surtirá efectos contra tercero si no constare inscrita en el Registro Público. Cualquiera de los cónyuges u otro interesado tendrán derecho a pedir la rectificación del asiento respectivo, cuando alguno de esos bienes pertenezca a la sociedad conyugal y estén inscritos a nombre de uno solo de aquellos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 De la prelación
 
 ###### Artículo 2886.
 
-La preferencia entre derechos reales sobre una misma finca u otros derechos, se determinará por la prioridad de su inscripción en el Registro Público, cualquiera que sea la fecha de su constitución.
-
-El derecho real adquirido con anterioridad a la fecha de una anotación preventiva será preferente aun cuando su inscripción sea posterior, siempre que se dé el aviso que previene el artículo 2889.
-
-Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste será preferente, aun cuando tal aviso se hubiese dado extemporáneamente.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2887.
 
-Los asientos del Registro Público, en cuanto se refieran a derechos inscribibles o anotables, producirán todos sus efectos, salvo resolución judicial.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2888.
 
-La prelación entre los diversos documentos ingresados al Registro Público se determinará por la prioridad en cuanto a la fecha y número ordinal que les correspondiere al presentarlos para su inscripción, salvo lo dispuesto en el artículo siguiente.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2889.
 
-Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se hiciere el otorgamiento, deberán solicitar al Registro Público certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud que surtirá efectos de aviso preventivo deberá mencionar la operación y finca de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud y sin cobro de derechos por este concepto practicará inmediatamente la nota de presentación en la parte respectiva del folio correspondiente, nota que tendrá vigencia por un término de 30 días naturales a partir de la fecha de presentación de la solicitud.
-
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se tratare al Registro Público dentro de las cuarenta y ocho horas siguientes y contendrá además de los datos mencionados en el párrafo anterior, la fecha de la escritura y la de su firma. El registrador, con el aviso citado y sin cobro de derecho alguno practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de treinta días a que se contrae el párrafo anterior sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo; en caso contrario, sólo surtirá efectos desde la fecha en que fuere presentado y según el número de entrada que le correspondiere.
-
-Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra tercero desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
-
-Si el documento en que constare alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, deberá dar el aviso preventivo con vigencia por noventa días, el notario, o el juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios en el caso de los instrumentos públicos. Si el contrato se ratificara ante el Registrador, éste deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2890.
 
-La inscripción definitiva de un derecho que haya sido anotado previamente, surtirá sus efectos desde la fecha en que la anotación los produjo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 ### CAPITULO III. De quienes pueden solicitar el registro y de la calificación registral
 
 ###### Artículo 2891.
 
-La inscripción o anotación de los títulos en el Registro Público podrá pedirse por quien tenga interés legítimo en el derecho que se va a inscribir o a anotar, por la autoridad competente, o por el notario que haya autorizado la escritura de que se trate.
-
-Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en la fecha y bajo número que le corresponda.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2892.
 
-Para inscribir o anotar cualquier título deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquel o de la que vaya a resultar perjudicada por la inscripción, a no ser que se tratare de una inscripción de inmatriculación.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2893.
 
-Inscrito o anotado un título no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
-Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada, mientras el asiento esté vigente.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 De la rectificación de asientos
 
 ###### Artículo 2894.
 
-La rectificación de los asientos por causa de error material o de concepto, solo procederá cuando exista discrepancia entre el título y la inscripción.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2895.
 
-Se entenderá que se comete error material cuando se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlos del título sin cambiar por eso el sentido general de la inscripción ni el de alguno de sus conceptos.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2896.
 
-Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título se altere o varíe su sentido porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2897.
 
-Cuando se trate de errores de concepto los asientos practicados en los folios del Registro Público sólo podrán rectificarse con el consentimiento de todos los interesados, en el asiento.
-
-A falta de consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
-
-Cuando el registrador se oponga a la rectificación se observará lo que para el caso establece el reglamento del Registro Público.
-
-En el caso previsto por el artículo 2885, el que solicite la rectificación deberá acompañar a la solicitud que presente al registro, los documentos con los que compruebe el régimen matrimonial.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2898.
 
-El concepto rectificado surtirá efectos desde la fecha de su rectificación.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 De la extinción de asientos
 
 ###### Artículo 2899.
 
-Las inscripciones no se extinguirán en cuanto a tercero sino por su cancelación o por el registro de la transmisión del dominio o derecho real inscrito a favor de otra persona.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2900.
 
-Las anotaciones preventivas se extinguirán por cancelación, por caducidad o por su conversión en inscripción.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2901.
 
-Las inscripciones y anotaciones podrán cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial. Podrán no obstante ser canceladas a petición de parte, sin dichos requisitos, cuando el derecho inscrito o anotado quede extinguido por disposición de la ley o por causas que resulten del título en cuya virtud se practicó la inscripción o anotación, debido a hecho que no requiera la intervención de la voluntad.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2902.
 
-Para que el asiento pueda cancelarse por consentimiento de las partes, este deberá constar en escritura pública.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2903.
 
-La cancelación de las inscripciones y anotaciones preventivas podrá ser total o parcial.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2904.
 
-Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
-
-I. Cuando se extinga por completo el inmueble objeto de la inscripción;
-
-II. Cuando se extinga, también por completo, el derecho inscrito o anotado;
-
-III. Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción o anotación;
-
-IV. Cuando se declare la nulidad del asiento;
-
-V. Cuando sea vendido judicialmente el inmueble que reporta el gravamen en el caso previsto en el artículo 2253; y
-
-VI. Cuando tratándose de cédula hipotecaria o de embargo hayan transcurrido dos años desde la fecha del asiento, sin que el interesado haya promovido en el juicio correspondiente.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2905.
 
-Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
-
-I. Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva; y
-
-II. Cuando se reduzca el derecho inscrito o anotado.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2906.
 
-Las anotaciones preventivas, cualquiera que sea su origen caducarán a los tres años de su fecha, salvo a aquellas a las que se le fija un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces, por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2907.
 
-Cancelado un asiento, se presumirá extinguido el derecho a que dicho asiento se refiere.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2908.
 
-Los padres como administradores de los bienes de sus hijos, los tutores de menores o incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo podrán consentir la cancelación del registro hecho en favor de sus representados, en el caso de pagos o por sentencia judicial.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2909.
 
-La cancelación de las inscripciones de hipotecas constituidas en garantía de títulos transmisibles por endoso, podrá hacerse:
-
-I. Presentándose la escritura otorgada por la que se hayan cobrado los créditos, en la cual deberá constar haberse inutilizado los títulos endosables en el acto de su otorgamiento; y
-
-II. Por ofrecimiento del pago y consignación del importe de los títulos tramitados y resueltos de acuerdo con las disposiciones legales relativas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2910.
 
-Las inscripciones de hipotecas constituidas con el objeto de garantizar títulos al portador. Se cancelarán totalmente si se hiciere constar por acta notarial, estar recogida y en poder del deudor la emisión de títulos debidamente inutilizados.
-
-Procederá también la cancelación total si se presentaren, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurare el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación en este caso, deberá acordarse por sentencia, previo los trámites fijados en el Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2911.
 
-Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trate, presentando acta notarial que acredite estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la décima parte del total de la emisión.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2912.
 
-Podrá también cancelarse, total o parcialmente la hipoteca que garantice, tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que se cancela.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 ### CAPITULO IV. Del registro de la propiedad inmueble y de los títulos inscribibles y anotables
 
 ###### Artículo 2913.
 
-En el registro de la propiedad inmueble se inscribirán:
-
-I. Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, posesión originaria y los demás derechos reales sobre inmuebles;
-
-II. La constitución del patrimonio familiar;
-
-III. Los contratos de arrendamiento de bienes inmuebles, por un periodo mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años; y
-
-> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2023)</small>
-
-IV. Las órdenes judiciales derivadas del Registro Estatal de Deudores Alimentarios Morosos, en términos del artículo 291 del presente Código.
-
-V. Los demás títulos que la ley ordene expresamente que sean registrados.
-
-No se inscribirán las escrituras en las que se transmita la propiedad de un inmueble dado en arrendamiento, a menos de que en ellas conste expresamente que se cumplió con lo dispuesto en los artículos 2391 y 2392 de este Código en relación con el derecho por el tanto correspondiente al arrendatario.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2914.
 
-Se anotarán preventivamente en el Registro Público:
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
-I. Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquellos;
-
-II. El mandamiento y el acta de embargo, que se haya hecho efectivo en bienes inmuebles el deudor;
-
-III. Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado, cuando tenga por objeto inmuebles o derechos reales sobre los mismos;
-
-IV. Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles o derechos reales;
-
-V. Los títulos presentados al Registro Público y cuya inscripción haya sido denegada o suspendida por el Registrador;
-
-VI. Las fianzas legales o judiciales, de acuerdo con lo establecido en el artículo 2689;
-
-VII. El decreto de expropiación y de ocupación temporal y declaración de limitación de dominio de bienes inmuebles;
-
-VIII. Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro Público; y
-
-IX. Cualquier otro título que sea anotable, de acuerdo con este Código u otras leyes.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 De los efectos de las anotaciones
 
 ###### Artículo 2915.
 
-La anotación preventiva, perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquella, y en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
-
-En los casos de las fracciones IV y VIII del artículo 2914 podrá producirse el cierre del registro en los términos de la resolución correspondiente. En el caso de la fracción VI la anotación no producirá otro efecto que el fijado por el artículo 2691.
-
-En el caso de la fracción VII, la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración, pero bastará la publicación del decreto relativo en el Periódico Oficial del Estado para que queden sujetos a las resultas del mismo, tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado; debiendo hacerse la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna ley en que se establezca que no es necesario este requisito.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2916.
 
-Salvo los casos en que la anotación cierre el registro los bienes inmuebles o derechos reales anotados podrán enajenarse o gravarse, pero sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 ### Capítulo V. Del registro de operaciones sobre bienes muebles
 
 ###### Artículo 2917.
 
-Se inscribirán en los folios de operaciones sobre bienes muebles:
-
-I. Los contratos de compra-venta de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2241;
-
-II. Los contratos de compra-venta de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos a que se refiere el artículo 2243; y
-
-III. Los contratos de prenda que menciona el artículo 2695.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2918.
 
-Toda inscripción que se haga en los folios de bienes muebles deberá expresar los datos siguientes:
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
-I. Los nombres de los contratantes;
-
-II. La naturaleza del mueble con la característica o señales que sirvan para identificarlo de manera indubitable;
-
-III. El precio y forma de pago estipulados en el contrato y en su caso, el importe del crédito garantizado con la prenda; y
-
-IV. La fecha en que se practique y la firma del registrador.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 ### Capítulo VI. Del registro de personas morales
 
 ###### Artículo 2919.
 
-En el folio de las personas morales se inscribirán:
-
-I. Los instrumentos por los que se constituyan, reformen, o disuelvan las sociedades y asociaciones civiles y sus estatutos;
-
-II. Los instrumentos que contengan la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil y de sus reformas, cuando haya comprobado el registrador que existe la autorización a que se refiere el artículo 2858; y
-
-III. Las fundaciones, y asociaciones de beneficencia privada.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2920.
 
-Las inscripciones referentes a la constitución de personas morales deberán contener los datos siguientes:
-
-I. El nombre de los otorgantes;
-
-II. La razón social o denominación;
-
-III. El objeto, duración y domicilio;
-
-IV. El capital social, si lo hubiere, y la aportación con que cada socio deba contribuir;
-
-V. La manera de distribuirse las utilidades y pérdidas, en su caso;
-
-VI. El nombre de los administradores y las facultades que se les otorgue;
-
-VII. El carácter de los socios y de su responsabilidad ilimitada, cuando la tuvieren; y
-
-VIII. La fecha y la firma del registrador.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2921.
 
-Las demás inscripciones que se practiquen en los folios de las personas morales, expresarán los datos esenciales del acto o contrato según resulten del título respectivo.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2922.
 
-Las inscripciones que se practiquen en los folios relativos a bienes muebles y personas morales no producirán más efectos que los señalados en los artículos 2241 fracción II, 2243, 2695, 2815, 2829 y 2862 de este Código y le serán aplicables a los registros las disposiciones relativas a los bienes inmuebles en cuanto sean compatibles con la naturaleza de los actos o contratos materia de éste y del anterior capítulo y con los efectos que las inscripciones producen.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 ### Capítulo VII. Del sistema registral
 
 ###### Artículo 2923.
 
-El reglamento establecerá el sistema conforme al cual deberán llevarse los folios del Registro Público y practicarse los asientos.
-
-La primera inscripción de cada finca será de dominio o de posesión.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2924.
 
-Los asientos y notas de presentación expresarán:
-
-I. La fecha y número de entrada;
-
-II. La naturaleza del documento y el funcionario que lo haya autorizado;
-
-III. La naturaleza del acto o negocio de que se trate;
-
-IV. Los bienes o derechos objeto del título presentado, expresado su cuantía, si constare; y
-
-V. Los nombres y apellidos de los interesados.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2925.
 
-Los asientos de inscripción deberán expresar las circunstancias siguientes:
-
-I. La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que deba inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior y las catastrales que prevenga el reglamento;
-
-II. La naturaleza, extensión y condiciones del derecho de que se trate;
-
-III. El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deban expresarse en el título;
-
-IV. Tratándose de hipotecas, la obligación garantizada; la época en que podrá exigirse su cumplimiento; el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado; y los réditos, si se causaren, y la fecha desde que deban correr;
-
-V. Los nombres de las personas físicas o morales a cuyo favor se haga la inscripción y de aquellas de quienes procedan inmediatamente los bienes. Cuando el título exprese nacionalidad, lugar de origen, edad, estado civil, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción;
-
-VI. La naturaleza del hecho o negocio jurídico; y
-
-VII. La fecha del título, número si lo tuviera, y el funcionario que lo haya autorizado.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2926.
 
-Las anotaciones preventivas contendrán las circunstancias que expresa el artículo anterior, en cuanto resulten de los documentos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
-
-Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquellas y el importe de la obligación que los hubiere originado.
-
-Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionarán la fecha del decreto respectivo, la de su publicación en el Periódico Oficial del Estado y el fin de su utilidad pública que sirva de causa a la declaración.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2927.
 
-Los asientos de cancelación de una inscripción o anotación preventiva, expresarán:
-
-I. La clase de documento en virtud del cual se practique la cancelación, su fecha y número si lo tuviere y el funcionario que lo autorice;
-
-II. La causa por la que se hace la cancelación;
-
-III. El nombre y apellidos de la persona a cuya instancia o con cuyo consentimiento se verifique la cancelación;
-
-IV. La expresión de quedar cancelado total o parcialmente el asiento de que se trate; y
-
-V. Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca el derecho y la que subsista.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2928.
 
-Las anotaciones deberán contener las indicaciones para relacionar entre sí las fincas o asientos a que se refieren y, en su caso, el hecho que se trate de acreditar; y el documento en cuya virtud se extienda.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2929.
 
-Los requisitos que según los artículos anteriores deban contener los asientos, podrán omitirse cuando ya consten en otros del registro de la finca, haciéndose solo referencia al asiento que los contenga.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2930.
 
-Todos los asientos, de la clase que fueren, deberán ir firmados por el registrador y expresar la fecha en que se practiquen, así como el día y número del asiento de presentación.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2931.
 
-Los asientos del Registro Público no surtirán efecto mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquéllos puede exigirse por quien tenga el título con la certificación de haber sido registrado.
-
-Los asientos podrán anularse por resolución judicial con audiencia de los interesados cuando sustancialmente se hubieren alterado dichos asientos, así como en el caso de que se hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de lo establecido respecto a la rectificación de errores, inexactitudes u omisiones.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2932.
 
-La nulidad de los asientos a que se refiere el artículo anterior, no perjudicará el derecho anteriormente adquirido por un tercero, protegido con arreglo al artículo 2882.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 ### Capítulo VIII. De la inmatriculación
 
 ###### Artículo 2933.
 
-La inmatriculación será la inscripción de la propiedad o posesión de un inmueble en el Registro Público de la Propiedad, que carezca de antecedentes registrales.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2934.
 
-Para cualquiera de los procedimientos de inmatriculación a que se refieren los artículos siguientes, será requisito previo que el Registro Público emita un certificado que acredite que el bien de que se trate no está inscrito, en los términos que se precisen en las disposiciones administrativas que para el efecto se expidan. Tratándose de inmatriculación administrativa, el Director del Registro Público podrá allegarse información de otras autoridades administrativas.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2935.
 
-El interesado en la inmatriculación de la propiedad o posesión de un inmueble podrá optar por obtenerla mediante resolución judicial o mediante resolución administrativa, en los términos de las disposiciones siguientes:
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
-I. La inmatriculación por resolución judicial se obtendrá:
-
-a).- Mediante información de dominio, y
-
-b).- Mediante información posesoria.
-
-II. La inmatriculación por resolución administrativa, se obtendrá:
-
-a).- Mediante la inscripción del decreto por el que se incorpora al dominio público un inmueble.
-
-b).- Mediante la inscripción del decreto por el que se desincorpore del dominio público un inmueble, o el título expedido con base en ese decreto.
-
-c).- Mediante la inscripción de un título fehaciente y suficiente para adquirir la propiedad de un inmueble.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 Inmatriculación por resolución judicial
 
 ###### Artículo 2936.
 
-En el caso de la información de dominio a que se refiere el inciso a) de la fracción I del artículo anterior, el que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para usucapirlos deberá estarse a lo establecido en el Libro Tercero, Título Segundo, Capítulo II de este Código.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2937.
 
-En el caso de información posesoria, a que se refiere el inciso b) de la fracción I del artículo 2935, las inscripciones deberán expresar las circunstancias exigidas para las previstas en el Reglamento del Registro Público.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 Inmatriculación por resolución administrativa
 
 ###### Artículo 2938.
 
-La inmatriculación administrativa se realizará por resolución del Director del Registro Público de la Propiedad, quien la ordenará de plano en los casos previstos por los incisos a) y b) de la fracción II del artículo 2935.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2939.
 
-Quien se encuentre en el caso previsto por el inciso c) de la fracción II del artículo 2935, podrá ocurrir directamente ante el Registro Público de la Propiedad para solicitar la inmatriculación, en los términos establecidos por el Reglamento del Registro Público de la Propiedad.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)</small>
 
 Disposiciones comunes
 
 ###### Artículo 2940.
 
-Una vez ordenada judicial o administrativamente la inmatriculación de la propiedad de un inmueble o la posesión judicial de éste y cubierto el pago de los derechos respectivos, se hará la inscripción en el folio correspondiente.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2941.
 
-La inmatriculación realizada mediante resolución judicial o mediante resolución administrativa, no podrá modificarse o cancelarse, sino en virtud de mandato judicial contenido en sentencia irrevocable, dictada en juicio en que haya sido parte el Director del Registro Público de la Propiedad.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 ###### Artículo 2942.
 
-No se inscribirán las informaciones judiciales de posesión, ni las de dominio cuando se violen los programas de desarrollo urbano o las declaratorias de usos, destinos o reservas de predios, expedidos por la autoridad competente, o no se hayan satisfecho las disposiciones legales aplicables en materia de división y ocupación de predios, a menos que se trate de programas de regularización de la tenencia de la tierra aprobados por la autoridad.
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO, P.O. 17 DE JUNIO DE 2024)
 
 T R A N S I T O R I O S
 
@@ -16118,3 +15956,37 @@ PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su pu
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación, sanción y publicación correspondientes.
 
 TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 17 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se deroga el Título Único denominado “Registro Público de la Propiedad” que abarca de los Artículos 2872 al 2942 del Código Civil del Estado Libre y Soberano de Guerrero Número 358, publicado en el Periódico Oficial del Gobierno del Estado No. 19, del martes 2 de marzo de 1993, así como toda disposición que se oponga a la presente Ley.
+
+TERCERO. El Reglamento correspondiente a la presente Ley deberá expedirse en un plazo improrrogable de sesenta días hábiles contados a partir de su publicación.
+
+CUARTO. Las adecuaciones tecnológicas y administrativas necesarias para implementar el sistema informático señalado en el artículo 22 de la presente Ley se deberá realizar por etapas, que no rebasarán los noventa días, en el orden siguiente: en primer lugar, en las oficinas de la Delegación de Chilpancingo; en segundo lugar, en las oficinas de la Delegación de Acapulco; y, en tercer lugar, en las oficinas de la Delegación de Zihuatanejo.
+
+QUINTO. Titular del Poder Ejecutivo deberá publicar en un plazo improrrogables de ciento ochenta días naturales, la declaratoria en la que informe que existen las condiciones tecnológicas y administrativas para dar inicio a la aplicación de las disposiciones legales contenidas en la presente Ley.
+
+SEXTO. Los trámites que se encuentren en curso a la entrada en vigor de la presente Ley, deberán concluirse conforme a las disposiciones vigentes al momento de su presentación, y los trámites ingresados a partir de la fecha de inicio su vigencia, deberán ajustarse a las disposiciones de esta Ley sin más límites que la no afectación a los derechos humanos de las personas.
+
+SÉPTIMO. Los recursos en trámite a la entrada en vigor de la presente Ley, se acogerán a las disposiciones del mismo, en lo que beneficie a las personas usuarias del servicio registral.
+
+OCTAVO. Todo lo relativo a la certificación electrónica y firma avanzada por parte de los Notarios Públicos, se aplicará hasta en tanto se reforme y entren en vigor, la Ley Número 971 del Notariado del Estado de Guerrero, donde se establecerá el procedimiento correspondiente y qué tipo de documentos deberán suscribirse con la firma electrónica avanzada, su regulación y conservación.
+
+NOVENO. Para el caso excepcional de errores en la migración, se estará a lo que dispone esta Ley, en (sic) tratándose de la corrección de errores materiales y los responsables serán sancionados conforme lo establecen las leyes de la materia.
+
+DÉCIMO. Los documentos ingresados que obren en el Registro Público de la Propiedad, ya sea inscritos, suspendidos o denegados, con una antigüedad mayor a doce años, contados a partir de la publicación de la presente Ley que no hayan sido retirados por las personas interesadas, deberán remitirse al Archivo General del Estado de Guerrero, haciéndose las anotaciones en los folios correspondientes.
+
+DÉCIMO PRIMERO. Una vez que se hayan dado a conocer y se utilicen los Formatos Electrónicos Precodificados, las personas titulares de las notarías harán la presentación del instrumento en formato precodificado y copia certificada electrónica que presente directamente o por comunicación remota, según corresponda y se haya reformado la Ley Número 971 del Notariado del Estado de Guerrero.
+
+DÉCIMO SEGUNDO. El pago de derechos por los servicios o conceptos nuevos establecidos en la presente Ley, que no hayan estado previstos en las disposiciones fiscales anteriores a la publicación de la presente Ley, entrarán en vigor a partir del ejercicio fiscal siguiente al de la entrada en vigor de la misma.
+
+DÉCIMO TERCERO. Los actos relativos a bienes muebles deberán inscribirse en el Registro Único de Garantías Mobiliarias. Los folios de bienes muebles aperturados hasta la fecha de entrada en vigor del presente decreto se conservarán en el acervo del Registro Público solo para consulta.
+
+DÉCIMO CUARTO. La persona Titular del Ejecutivo del Estado deberá prever los recursos financieros necesarios que permitan dar cumplimiento a las disposiciones establecidas en esta Ley, para lo cual, deberá enviar al Congreso del Estado la propuesta para ser integrada en el Presupuesto de Egresos del Estado, en el ejercicio fiscal correspondiente.
+
+DÉCIMO QUINTO. Publíquese en el Periódico Oficial del Gobierno del Estado, y en la Gaceta Oficial del Poder Legislativo, para conocimiento general y efectos legales procedentes.
