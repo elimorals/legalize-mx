@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-la-junta-de-gobierno-de-los-172088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2024-03-14"
-last_updated: "2024-03-14"
+last_updated: "2024-06-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172088&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2024-02-13"
 ---
 # REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: https://imssbienestar.gob.mx/assets/img/juridico/normatividad/normatividadInterna/REGLAMENTO%20DE%20SESIONES%20DE%20LA%20JUNTA%20DE%20GOBIERNO%20IMSS%20BIENESTAR.%20REGLAMENTO%20INTEGRADO.MODIFICACION%2028.11.23.pdf]</small>
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.dof.gob.mx/2024/IMSS-BIENESTAR/Modificacion_Reglamento_Sesiones_JuntadeGobierno_IMSS-BIENESTAR_17_04_2024.pdf]</small>
 
-AVISO MEDIANTE EL CUAL SE INFORMA DE LA PUBLICACIÓN DEL REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR), EN LA PÁGINA DE INTERNET INSTITUCIONAL DE IMSS-BIENESTAR
+REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR), EN LA PÁGINA DE INTERNET INSTITUCIONAL DE IMSS-BIENESTAR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JUNIO DE 2024.
 
-Aviso publicado en el Diario Oficial de la Federación, el jueves 14 de marzo de 2024.
+Reglamento publicado en el Diario Oficial de la Federación, el jueves 14 de marzo de 2024.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- GOBIERNO DE MÉXICO.- Servicios de Salud.- IMSS-BIENESTAR.
 
@@ -229,7 +229,9 @@ La persona titular de la Secretaría Técnica y, en ausencia de ésta, la person
 
 I. Formular la convocatoria y elaborar el orden del día de las sesiones atendiendo a las propuestas que formulen los miembros de la Junta de Gobierno y la Dirección General.
 
-II. Integrar y distribuir a los integrantes de la Junta de Gobierno y a los invitados permanentes, la documentación e información correspondiente a los asuntos que serán tratados en las sesiones, con anticipación no menor de cinco días hábiles a la celebración de la sesión ordinaria, y de dos días hábiles para las sesiones extraordinarias.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2024)</small>
+
+II. Integrar y distribuir a los integrantes de la Junta de Gobierno y a los invitados permanentes, la documentación e información correspondiente a los asuntos que serán tratados en las sesiones, con anticipación no menor de cinco días hábiles a la celebración de la sesión ordinaria, y no menor de dos días hábiles, para las extraordinarias, salvo en casos urgentes señalados así en la propia convocatoria en los que podrá ser de un día hábil.
 
 III. Conceder el uso de la palabra y moderar las sesiones.
 
@@ -241,7 +243,9 @@ VI. Comunicar los acuerdos adoptados por la Junta de Gobierno, para los efectos 
 
 VII. Elaborar las actas de las sesiones y someterlas a la aprobación de los miembros de la Junta de Gobierno y, en caso de ser aprobadas, asentarlas en el libro de actas que para tal efecto se lleve, debiendo ser firmadas por la persona titular de la Secretaría Técnica o por la persona titular de la Prosecretaría y por la persona titular de la Presidencia para efectos de su formalización.
 
-VIII. Certificar, una vez que el acta de la sesión correspondiente haya sido aprobada, los acuerdos y documentos en los que consten las resoluciones adoptadas por la Junta de Gobierno, así como los documentos que hayan sido incluidos en las carpetas correspondientes a cada sesión.
+> <small>(REFORMADA, D.O.F. 17 DE JUNIO DE 2024)</small>
+
+VIII. Certificar los acuerdos y documentos en los que consten las resoluciones adoptadas por la Junta de Gobierno, así como los documentos que hayan sido incluidos en las carpetas correspondientes a cada sesión.
 
 IX. Resguardar y controlar los libros de actas y los documentos originales que sustenten los acuerdos adoptados por la Junta de Gobierno.
 
@@ -371,7 +375,9 @@ Las sesiones que celebre la Junta de Gobierno podrán ser ordinarias o extraordi
 
 Las sesiones ordinarias son aquellas que se realizan conforme al calendario de sesiones aprobado por la Junta de Gobierno en la primera sesión de cada año y serán convocadas, con una anticipación no menor a cinco días hábiles a la celebración de la reunión.
 
-Las sesiones extraordinarias son aquellas que se lleven a cabo cuando sea necesario resolver cualquier asunto considerado de importancia para el desarrollo de las funciones y objetivos, o que sea considerado de naturaleza urgente, y serán convocadas con una anticipación no menor de dos días hábiles a la celebración de la misma, anexando a la convocatoria la información soporte para la realización de la sesión.
+> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2024)</small>
+
+Las sesiones extraordinarias son aquellas que se lleven a cabo cuando sea necesario resolver cualquier asunto considerado de importancia para el desarrollo de las funciones y objetivos, o que sea considerado de naturaleza urgente, y serán convocadas con una anticipación no menor de dos días hábiles a la celebración de la misma, salvo en casos urgentes señalados así en la propia convocatoria en los que podrá ser de un día hábil, anexando a la convocatoria la información soporte para la realización de la sesión.
 
 Las sesiones serán preferentemente de forma presencial; sin embargo, se podrán realizar sesiones remotas cuando la persona titular de la Presidencia de la Junta así lo solicite en la convocatoria, o mediante solicitud que formulen cuando menos tres de los integrantes de la misma. La convocatoria o la solicitud deberán ir debidamente motivadas y justificadas para explicar la necesidad de hacer de forma remota la sesión.
 
@@ -472,3 +478,45 @@ El Reglamento de Sesiones de la Junta de Gobierno de los “Servicios de Salud d
 ÚNICO. La presente modificación al Reglamento de Sesiones de la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) entrará en vigor en la fecha de su aprobación por la Junta de Gobierno.
 
 Esta modificación al Reglamento de Sesiones de la Junta de Gobierno de los “Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar”, fue autorizada por la Junta de Gobierno de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar, en la 11ª Sesión Extraordinaria de 2023, mediante Acuerdo 11°. E.3.10/1123.R, en la Ciudad de México, a 28 de noviembre de 2023.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 17 DE JUNIO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "AVISO MEDIANTE EL CUAL SE DAN A CONOCER LAS PÁGINAS DE INTERNET EN QUE PUEDE CONSULTARSE LA MODIFICACIÓN AL REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR), ASÍ COMO SU TEXTO ÍNTEGRO".]</small>
+
+AVISO MEDIANTE EL CUAL SE DAN A CONOCER LAS PÁGINAS DE INTERNET EN QUE PUEDE CONSULTARSE LA MODIFICACIÓN AL REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR), ASÍ COMO SU TEXTO ÍNTEGRO
+
+Denominación: Modificación al Reglamento de Sesiones de la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR).
+
+Emisor: Junta de Gobierno de IMSS-BIENESTAR.
+
+Fundamento Jurídico: Artículos 58 de la Ley Federal de las Entidades Paraestatales; 11, fracciones II y IX, del Estatuto Orgánico de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) y 12, fracción VII, del Decreto por el que se crea el organismo público descentralizado denominado Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR).
+
+Fecha de aprobación por la Junta de Gobierno de IMSS-BIENESTAR: 17 de abril de 2024.
+
+Objetivo de la Modificación al Reglamento de Sesiones de la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) Regular el desarrollo de las sesiones de la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), así como la actuación de sus integrantes.
+
+Materia: Normativa interna.
+
+Páginas electrónicas para consulta de la Modificación: https://imssbienestar.gob.mx/assets/img/juridico/normatividad/normatividadInterna/MODIFICACIO%CC%81N%20AL%20REGLAMENTO%20DE%20SESIONES%20DE%20LA%20JUNTA%20DE%20GOBIERNO%20DE%20IMSS-BIENESTAR%2017%20ABRIL%20DE%202024.pdf
+
+www.dof.gob.mx/2024/IMSS-BIENESTAR/Modificacion_Reglamento_Sesiones_JuntadeGobierno_IMSS-BIENESTAR_17_04_2024.pdf
+
+Páginas electrónicas para consulta del texto íntegro modificado: https://imssbienestar.gob.mx/assets/img/juridico/normatividad/normatividadInterna/REGLAMENTO%20DE%20SESIONES%20DE%20LA%20JUNTA%20DE%20GOBIERNO%20IMSS-BIENESTAR.%20INTEGRADO-ULTIMA%20MODIFICACION%2017.04.24%20.pdf
+
+www.dof.gob.mx/2024/IMSS-BIENESTAR/Reglamento_Sesiones_JuntadeGobierno_IMSS-BIENESTAR_integrado_ultimamodificacion_17_04_2024.pdf
+
+## TRANSITORIOS
+
+ÚNICO. El presente Aviso surtirá efectos el día de su publicación en el Diario Oficial de la Federación.
+
+Atentamente
+
+Ciudad de México, a 20 de mayo de 2024.- Director General Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR), Dr. Alejandro Antonio Calderón Alipi.- Rúbrica.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS TRANSITORIOS DE LA "MODIFICACIÓN AL REGLAMENTO DE SESIONES DE LA JUNTA DE GOBIERNO DE LOS SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)".]</small>
+
+PRIMERO. La presente modificación al Reglamento de Sesiones de la Junta de Gobierno de los Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) entrará en vigor en la fecha de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación a través de un Aviso.
