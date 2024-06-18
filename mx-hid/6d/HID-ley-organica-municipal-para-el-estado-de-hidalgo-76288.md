@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-06-10"
+last_updated: "2024-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -2587,7 +2587,9 @@ I.- Ser ciudadano hidalguense;
 
 II.- Ser de reconocida honestidad y honorabilidad;
 
-III.- Contar con los conocimientos inherentes para el buen desempeño de su cargo;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+III.- Contar con un perfil profesional acorde con las facultades, obligaciones y atribuciones del cargo;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -3425,9 +3427,17 @@ ARTÍCULO 145 TERTIUSDÉCIMUS.- La Instancia Municipal para la Prevención de la
 
 I. Brindar atención y seguimiento psicológico.
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+I Bis. Desarrollar e implementar estrategias integrales, para garantizar la suficiencia, formación y profesionalización del personal encargado en la materia, bajo un enfoque diferenciado, intercultural, con perspectiva de derechos humanos y de género;
+
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
 II. Diseñar y ejecutar programas de prevención de las adicciones y el suicidio;
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2024)</small>
+
+Para mejorar la atención de las adicciones se efectuarán los programas bajo un enfoque integral que priorice la prevención y sensibilización de los riesgos para la salud y el oportuno tratamiento y control de enfermedades;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3440,6 +3450,10 @@ IV. Impartir talleres ocupacionales de diferentes disciplinas artísticas y depo
 > <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
 
 V. Diseñar, coordinar y ejecutar acciones de prevención de las adicciones y el suicidio en colonias, barrios y escuelas.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2024)</small>
+
+Asimismo, capacitar a personas estratégicas de la comunidad para la multiplicación de actividades preventivas a través de esquemas de participación ciudadana y voluntariado, contribuyendo al fortalecimiento del tejido social;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -4756,5 +4770,17 @@ P.O. 7 DE JUNIO DE 2024.
 P.O. 10 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 971 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 988 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 114 DE LA LEY ORGÁNICA MUNICIPAL PARA ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 996 POR EL QUE SE ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 145 TERTIUSDÉCIMUS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
