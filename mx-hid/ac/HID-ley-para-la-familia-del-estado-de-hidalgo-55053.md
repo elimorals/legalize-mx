@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2024-05-17"
+last_updated: "2024-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -1017,15 +1017,11 @@ V.- Concubina o concubinario: Quien llena los requisitos del Artículo 143 de es
 
 ### CAPITULO UNICO. DEL CONCUBINATO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 143.
 
-El concubinato es la unión de dos personas mayores de edad libres de matrimonio, que durante más de tres años de manera pública y constante hacen o hicieron vida en común como si estuvieren casados.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
-
-Será aplicable al concubinato lo dispuesto en el artículo 19 de este ordenamiento.
+El concubinato es la unión de dos personas mayores de edad, que durante más de tres años de manera pública y constante hacen o hicieron vida en común como si estuvieren casados.
 
 ###### Artículo 144.
 
@@ -3586,3 +3582,9 @@ P.O. 17 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 887 POR EL QUE SE ADICIONA EL ARTÍCULO 202 QUÁTER A LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 993 POR EL QUE SE REFORMA EL ARTÍCULO 143 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
