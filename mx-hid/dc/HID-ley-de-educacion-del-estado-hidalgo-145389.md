@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-06-14"
+last_updated: "2024-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -687,7 +687,13 @@ La Secretaría ofrecerá acceso a programas y servicios educativos para personas
 
 Esta educación proporcionará los medios para erradicar el rezago educativo y analfabetismo a través de diversos tipos y modalidades de estudio, así como una orientación integral para la vida que posibilite a las personas adultas formar parte activa de la sociedad, a través de las habilidades, conocimientos y aptitudes que adquiera con el proceso de enseñanza aprendizaje que el Estado facilite para este fin.
 
-Asimismo, impulsará acciones que coadyuven a la continuidad de estudios del tipo básico, medio superior y superior.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
+
+La Secretaría impulsará acciones que coadyuven a la continuidad de estudios del tipo básico, medio superior y superior.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2024)</small>
+
+Así mismo impulsará que, en sus planes y servicios educativos, se brinde capacitación sobre el uso de tecnologías digitales de la información y comunicación.
 
 ###### Artículo 57.
 
@@ -874,6 +880,10 @@ Las autoridades educativas, en el ámbito de su competencia, promoverán la form
 ###### Artículo 71.
 
 La Secretaría, en el ámbito de su competencia, promoverá la formación y capacitación de maestras y maestros para desarrollar las habilidades necesarias en el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital para favorecer el proceso educativo.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2024)</small>
+
+Así mismo, fomentará la capacitación para el uso responsable de las tecnologías de la información y comunicación entre docentes.
 
 ### CAPÍTULO IV. DE LA GUÍA OPERATIVA PARA LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS SERVICIOS DE EDUCACIÓN BÁSICA Y MEDIA SUPERIOR
 
@@ -2410,5 +2420,11 @@ P.O. 30 DE MAYO DE 2024.
 P.O. 14 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 977 POR EL QUE SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 11 DE LA LEY DE EDUCACIÓN DEL ESTADO HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 994 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PÁRRAFOS DE LOS ARTÍCULOS 56 Y 71 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
