@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2024-05-30"
+last_updated: "2024-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -377,6 +377,10 @@ XXIX Bis.- Promover que los prestadores de servicios turísticos apliquen polít
 
 XXIX Ter.- Promover una cultura ecológica y de preservación del medio ambiente en los servicios turísticos;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+XXIX Ter 1.- Promover en coordinación con los Municipios, los sectores privado y social, y las demás Dependencias y Entidades de la Administración Pública Estatal correspondientes, las acciones necesarias que regulen, preserven y mejoren la imagen urbana y el paisaje natural para prevenir la contaminación visual;
+
 > <small>(REFORMADA, P.O. 17 DE MAYO DE 2024)</small>
 
 XXIX Quater.- Conjuntar esfuerzos en materia de verificación e inspección, mediante convenios de coordinación con las autoridades en materia de salubridad, seguridad, protección civil, higiene o protección al consumidor, así como con los municipios;
@@ -421,19 +425,21 @@ II. 2. Colaborar en la identificación de las necesidades de señalización para
 
 III.- Coadyuvar y coordinar con la Secretaría de Medio Ambiente y Recursos Naturales de Hidalgo:
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-III. 1. La instrumentación de programas y medidas para la preservación y aprovechamiento de los recursos naturales, de la prevención de la contaminación, así como promover el turismo alternativo y sustentable de bajo impacto en atractivos y medio ambiente;
+III.1. La instrumentación de programas y medidas para la preservación y aprovechamiento de los recursos naturales, de la prevención de cualquier forma de contaminación, así como promover el turismo alternativo y sustentable de bajo impacto en atractivos y medio ambiente;
 
-III. 2. La promoción y desarrollo del turismo de naturaleza, en los lugares propicios para ello, cuidando el impacto ecológico;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+III.2. La promoción y desarrollo del turismo de naturaleza, en los lugares propicios para ello, cuidando el impacto ecológico y preservando el paisaje natural;
 
-III. 3. Mantenimiento, limpieza y mejoramiento ambiental de lugares turísticos; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2021)</small>
+III.3. Mantenimiento, limpieza y mejoramiento ambiental de lugares turísticos para evitar el deterioro del paisaje natural y urbano; y
 
-III. 4. Minimizar la generación de residuos y prohibir la utilización de platicos de un solo uso descartables, de acuerdo con la legislación vigente;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+III. 4. Minimizar la generación de residuos y prohibir la utilización de plásticos de un solo uso descartables, de acuerdo con la legislación vigente;
 
 IV.- Promover y fomentar con la Secretaría de Desarrollo Económico del Estado de Hidalgo:
 
@@ -1179,11 +1185,11 @@ XI.- Acatar las normas sanitarias y de higiene en los atractivos, Regiones, Dest
 
 XII.- Las demás que establezca la legislación aplicable en la materia.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 76.
 
-Los Prestadores de Servicios Turísticos, están obligados a preservar y conservar los recursos naturales, a no alterar los procesos biológicos y ecológicos, así como respetar las diversas expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales del Estado de Hidalgo.
+Los Prestadores de Servicios Turísticos, están obligados a preservar y conservar los recursos naturales a través de acciones que eviten cualquier forma de contaminación; a no alterar los procesos biológicos y ecológicos, así como respetar las diversas expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales del Estado de Hidalgo.
 
 ###### Artículo 77.
 
@@ -1442,3 +1448,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 912 POR EL QUE SE ADICIONA LA FRACCIÓN XII TER AL ARTÍCULO 8 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 989 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
