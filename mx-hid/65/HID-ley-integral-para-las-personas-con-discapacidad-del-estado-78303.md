@@ -4,7 +4,7 @@ identifier: "HID-ley-integral-para-las-personas-con-discapacidad-del-estado-7830
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2024-05-30"
+last_updated: "2024-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -387,11 +387,11 @@ IV.- Ante la Comisión de Derechos Humanos del Estado de Hidalgo, las quejas que
 
 Los procesos por violación e incumplimiento de los derechos de las personas con discapacidad darán origen a la indemnización o reparación del daño, si ésta llega a acreditarse. Así mismo (sic), la Administración Pública adoptará las medidas que sean necesarias para poner fin a la violación del derecho de que se trate y prevenir violaciones ulteriores.
 
-> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 26.
 
-Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico Estatal, sin distinción de origen étnico, género, edad, o un trastorno de talla, condición social, económica o de salud, religión, preferencias sexuales, estado civil, opiniones, embarazo, identidad política, lengua, situación migratoria o cualquier otro motivo u otra característica propia de la condición humana o que atente contra su dignidad.
+Las personas con discapacidad gozarán de todos los derechos que establece el orden jurídico estatal, sin distinción de origen étnico, características sexuales, edad o un trastorno de talla, condición social, económica o de salud, religión, orientación sexual, identidad o expresión de género, estado civil, opiniones, embarazo, identidad política, lengua, situación migratoria o cualquier otro motivo u otra característica propia de la condición humana o que atente contra su dignidad.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 2023)</small>
 
@@ -1306,3 +1306,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 941 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 987 POR EL QUE SE REFORMA EL ARTÍCULO 26 DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD EN EL (SIC) ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
