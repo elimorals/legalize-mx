@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-06-14"
+last_updated: "2024-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -1281,9 +1281,17 @@ VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o
 
 VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes que le permitan a niñas, niños y adolescentes ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado de Hidalgo, en las leyes y los Tratados Internacionales de los que el Estado Mexicano sea parte;
 
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos; y
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+XI. Promover estilos de vida saludable, fomento al deporte y la activación física diaria, la concientización sobre las causas y efectos del sedentarismo y la educación para la salud.
 
 ###### Artículo 58.
 
@@ -1441,15 +1449,25 @@ Niñas, niños y adolescentes no podrán ser objeto de injerencias arbitrarias o
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, deberán orientar, supervisar y, en su caso, restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2024)</small>
+
 ###### Artículo 76.
 
-Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación locales, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
+Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación locales impresos o digitales, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 18 DE JUNIO DE 2024)</small>
+
+Los padres, quienes ejerzan la patria potestad, tutela, guarda o custodia, deberán ser garantes de la protección del derecho a la intimidad; para tal efecto evitarán la sobreexposición del menor por cualquier medio digital o impreso que signifique la difusión o divulgación de material o información que menoscabe su honra, imagen o reputación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 77.
 
-Cualquier medio de comunicación local que difunda entrevistas a niñas, niños y adolescentes, procederá como sigue:
+Cualquier medio de comunicación local, sea impreso o digital, que difunda entrevistas a niñas, niños y adolescentes, procederá como sigue:
 
-I. Deberá recabar el consentimiento por escrito o cualquier otro medio, de quienes ejerzan la patria potestad o tutela, así como la opinión de la niña, niño o adolescente, respectivamente, conforme a lo señalado en el artículo anterior y a lo previsto en el párrafo segundo del artículo 76 de la presente Ley; y
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+I. Deberá recabar el consentimiento por escrito o cualquier otro medio, de quienes ejerzan la patria potestad o tutela, así como la opinión de la niña, niño o adolescente, respectivamente, conforme a lo señalado en el presente capítulo; y
 
 II. La persona que realice la entrevista será respetuosa y no podrá mostrar actitudes ni emitir comentarios que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes.
 
@@ -1461,9 +1479,11 @@ No se requerirá el consentimiento de quienes ejerzan la patria potestad o tutel
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación aplicable en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2024)</small>
+
 ###### Artículo 79.
 
-Los medios de comunicación locales deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendentes a su discriminación, criminalización o estigmatización, en contravención a las disposiciones aplicables.
+Los medios de comunicación locales, sean impresos o digitales, deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendentes a su discriminación, criminalización o estigmatización, en contravención a las disposiciones aplicables.
 
 En caso de incumplimiento a lo establecido en el presente artículo, niñas, niños o adolescentes afectados, por conducto de su representante legal o, en su caso, de la Procuraduría de Protección, actuando de oficio o en representación sustituta, podrá promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar; así como dar seguimiento a los procedimientos hasta su conclusión.
 
@@ -1801,7 +1821,9 @@ V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armo
 
 VI. Fomentar en niñas, niños y adolescentes la cultura de la paz, el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
-VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas, explotación o mendicidad;
 
 > <small>(REFORMADA, P.O. 21 DE OCTUBRE DE 2022)</small>
 
@@ -2856,5 +2878,23 @@ P.O. 14 DE JUNIO DE 2024.
 P.O. 14 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 983 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 990 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 991 POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 102 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 995 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 57 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
