@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2024-05-17"
+last_updated: "2024-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -235,7 +235,9 @@ Los servidores públicos estatales y municipales responsables de las acciones y 
 
 Para garantizar el ejercicio de los derechos culturales, la Secretaría y los Gobiernos Municipales, en su ámbito de competencia, deberán establecer acciones que fomenten y promuevan los siguientes aspectos:
 
-I. La educación, la formación de audiencias y la investigación artística y cultural;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+I. La formación de audiencias y programas de educación e investigación artística y cultural;
 
 II. La cohesión social, la paz y la convivencia armónica de sus habitantes;
 
@@ -391,7 +393,9 @@ XXVI. Modernizar y ampliar la red estatal de bibliotecas públicas;
 
 XXVII. Organizar encuentros, seminarios, congresos, festivales; concursos y todas aquellas actividades que eleven la formación cultural y promuevan la valoración del patrimonio cultural tangible e intangible;
 
-XXVIII. Promover y estimular la creación, investigación y educación artística en sus diferentes manifestaciones;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+XXVIII. Formular, impulsar y fortalecer programas de educación e investigación artística y cultural;
 
 XXIX. Promover la organización de programas audiovisuales en las materias de su competencia;
 
@@ -1028,5 +1032,11 @@ P.O. 9 DE MAYO DE 2024.
 P.O. 17 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 903 POR EL (SIC) SE ADICIONA, EL INCISO F) A LA FRACCIÓN I DEL ARTÍCULO 30 A LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 992 POR EL QUE SE REFORMAN DIVERSAS FRACCIONES DE LOS ARTÍCULOS 7 Y 14 DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
