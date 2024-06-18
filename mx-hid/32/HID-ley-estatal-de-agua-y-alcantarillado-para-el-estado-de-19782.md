@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2024-06-07"
+last_updated: "2024-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -51,11 +51,11 @@ QUE CONTIENE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y regulan en el Estado de Hidalgo, la participación de las autoridades Estatales y Municipales en el ámbito de su competencia, en la realización de acciones inherentes a la explotación, uso, y prestación de los servicios públicos de agua con respeto al medio ambiente y al desarrollo sustentable.
+Las disposiciones de esta Ley son de orden público e interés social y regulan en el Estado de Hidalgo, la participación de las autoridades Estatales y Municipales en el ámbito de su competencia, en la realización de acciones inherentes a la explotación, uso, y prestación de los servicios públicos de agua con respeto al medioambiente y al desarrollo sustentable, así como la gestión de manera sostenible de los recursos hídricos.
 
 ###### Artículo 2.
 
@@ -123,6 +123,10 @@ XVII. Programa anual hídrico Estatal: conjunto de acciones tendientes a impleme
 
 XVIII. Prestador de los servicios: quien preste los servicios públicos de agua potable y alcantarillado, saneamiento, drenaje pluvial, ya sean, los Municipios, Organismos Operadores Municipales, Intermunicipales, o Concesionarios o la propia Comisión;
 
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+XVIII Bis. Recursos Hídricos: Los recursos de agua dulce contenida en cualquier tipo de cuerpos y cauces de agua disponible para uso y consumo, así como las aguas derivadas de la precipitación pluvial o tratamiento, incluyendo los procesos naturales y artificiales de su interacción en el entorno biótico y abiótico de todo el sistema hidrológico considerando el recurso suelo y sus recursos que permiten el desarrollo de estos procesos;
+
 XIX. Red secundaria de agua potable: sistema de tuberías y sus accesorios menores a 50 cm. de diámetro, en el cual se conectan las tomas de los usuarios y que llega hasta la válvula de seccionamiento localizada aguas abajo del medidor;
 
 XX. Reincidencia: cada una de las subsecuentes infracciones a un mismo precepto, cometidas dentro de los dos años siguientes a la fecha del acta en que se hizo constar la infracción procedente, siempre que ésta no hubiere sido desvirtuada;
@@ -131,9 +135,9 @@ XXI. Reuso: la utilización de nueva cuenta de las aguas residuales previamente 
 
 XXII. Saneamiento: el tratamiento de aguas residuales, la conducción, distribución y disposición final de las aguas residuales tratadas, así como de los afluentes y lodos originados en los procesos de tratamiento;
 
-> <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-XXII BIS. Secretaría: Secretaría de Medio Ambiente (y Ordenamiento Territorial);
+XXII Bis.- Secretaría.- Secretaría de Medio Ambiente y Recursos Naturales;
 
 XXIII. Servicios públicos: los servicios públicos de agua potable y alcantarillado, incluyendo, la potabilización, conducción y distribución de aguas y conducción, alojamiento y disposición final de las aguas del alcantarillado sanitario y pluviales;
 
@@ -147,7 +151,13 @@ XXV. Tarifa: la tabla autorizada para la fijación del pago por cada tipo de usu
 
 XXVI. Tarifa media de equilibrio: la tarifa promedio que deberá aplicarse por cada unidad cobrada a los usuarios, para asegurar el equilibrio financiero del prestador de los servicios;
 
-XXVII. Toma: conexión a la red secundaria para dar servicio de agua al predio del usuario, incluyendo el ramal y el cuadro;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+XXVII. Toma: conexión a cualquier instalación hidráulica del sistema para obtener el servicio de agua potable;
+
+> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+XXVII Bis. Toma clandestina: conexión a cualquier instalación hidráulica del sistema para obtener el servicio de agua potable, de manera ilícita, sin estar contratado el servicio público;
 
 XXVIII. Uso comercial: cuando el giro sea autorizado para actividades comerciales;
 
@@ -159,7 +169,7 @@ XXX. Uso doméstico: la utilización del agua potable en casa habitación, para 
 
 > <small>(ADICIONADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
 
-XXX BIS. Uso para la Conservación: cuando el consumo es destinado a actividades de conservación de la biodiversidad, protección o restauración del ambiente, el paisaje y el patrimonio natural;
+XXX Bis. Uso para la Conservación: cuando el consumo es destinado a actividades de conservación de la biodiversidad, protección o restauración del ambiente, el paisaje y el patrimonio natural;
 
 XXXI. Uso público: cuando el consumo es destinado para satisfacer las necesidades de los bienes o servicios que prestan los gobiernos Federal, Estatal, Municipal y de sus Órganos Desconcentrados y
 
@@ -241,37 +251,53 @@ II. El Director General.
 
 La Junta de Gobierno es el órgano supremo de la Comisión y estará integrada por:
 
-I. El Gobernador del Estado quien será el Presidente;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-II. El Secretario de Desarrollo Social;
+I.- La persona titular del Poder Ejecutivo Estatal, quien ocupará la Presidencia;
 
-III. El Secretario de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-IV. El Secretario de Desarrollo Económico;
+II.- La persona titular de la Secretaría de Desarrollo Social;
 
-V. El Secretario de Agricultura;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-VI. El Secretario de Gobierno;
+III.- La persona titular de la Secretaría de Hacienda;
 
-VII. El Secretario Técnico;
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-VIII. El Secretario de Contraloría;
+IV.- La persona titular de la Secretaría de Desarrollo Económico;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-IX. El Secretario de Obras Públicas;
+V.- La persona titular de la Secretaría de Agricultura;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-IX BIS. El Secretario de Medio Ambiente y Recursos Naturales;
+VI.- La persona titular de la Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-X. El titular en el Estado de la Comisión Nacional del Agua en función normativa y consultiva; y
+VII.- La persona que ocupe la Secretaría Técnica;
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
 
-XI.- El Procurador Estatal de Protección al Ambiente.
+VIII.- La persona titular de la Secretaría de Contraloría;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+IX.- La persona titular de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+IX Bis. – La persona titular de la Secretaría de Medio Ambiente y Recursos Naturales;
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+X.- La persona que en el estado ejerza la representación de la Comisión Nacional del Agua en función normativa y consultiva; y
+
+> <small>(REFORMADA, P.O. 18 DE JUNIO DE 2024)</small>
+
+XI.- La persona titular de la Procuraduría Estatal de Protección al Ambiente.
 
 Cada representante propietario designará a su suplente, quien gozará de las mismas facultades que los propietarios.
 
@@ -1801,11 +1827,11 @@ IV. Una menor dependencia de los prestadores del servicio hacia el Estado y la F
 
 V. La orientación del desarrollo urbano e industrial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 134.
 
-Las cuotas y tarifas las someterá el prestador de los servicios aplicando las fórmulas que previamente se determinen, tomando en cuenta lo dispuesto para tal efecto en esta Ley, a la Junta de Gobierno y a la Secretaría de Finanzas y Administración del Estado de Hidalgo y serán aprobadas por el Congreso del Estado.
+Las cuotas y tarifas las someterá el prestador de los servicios aplicando las fórmulas que previamente se determinen, tomando en cuenta lo dispuesto para tal efecto en esta Ley, a la Junta de Gobierno y a la Secretaría Hacienda del Estado de Hidalgo y serán aprobadas por el Congreso del Estado.
 
 Las fórmulas para la determinación de las cuotas y tarifas y sus modificaciones se publicarán en el Periódico Oficial del Estado.
 
@@ -1829,17 +1855,17 @@ IV. La cuota por conexión a la red de drenaje y
 
 V. Las demás que se requieran conforme a los servicios que brinde el prestador del servicio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 137.
 
-Las revisiones a las fórmulas, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán por la Junta de Gobierno y la Secretaría de Finanzas y Administración del Estado de Hidalgo anualmente o cuando lo considere necesario. Dichas revisiones podrán hacerlas a petición de uno o varios prestadores de servicios, quienes deberán anexar una propuesta y un estudio técnico que la justifique.
+Las revisiones a las fórmulas, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán por la Junta de Gobierno y la Secretaría de Finanzas Públicas del Estado de Hidalgo anualmente o cuando lo considere necesario. Dichas revisiones podrán hacerlas a petición de uno o varios prestadores de servicios, quienes deberán anexar una propuesta y un estudio técnico que la justifique.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 138.
 
-Para el cálculo de las tarifas medias de equilibrio, el prestador de los servicios substituirá en las fórmulas que establezcan la Junta de Gobierno y la Secretaría de Finanzas y Administración del Estado de Hidalgo, los valores de cada parámetro que correspondan a las características del sistema en particular. Se deberá tomar en cuenta la evolución prevista en las eficiencias físicas, comercial, operativa y financiera, de acuerdo con lo establecido en el Programa de Desarrollo.
+Para el cálculo de las tarifas medias de equilibrio, el prestador de los servicios substituirá en las fórmulas que establezcan la Junta de Gobierno y la Secretaría de Hacienda del Estado de Hidalgo, los valores de cada parámetro que correspondan a las características del sistema en particular. Se deberá tomar en cuenta la evolución prevista en las eficiencias físicas, comercial, operativa y financiera, de acuerdo con lo establecido en el Programa de Desarrollo.
 
 El prestador de los servicios podrá determinar una estructura tarifaría que tome en cuenta el tipo y nivel socioeconómico o la capacidad de pago de los diferentes estratos de usuarios, de forma que permita establecer criterios de equidad en el costo de dichos servicios. La estructura tarifaria deberá diseñarse de manera que de su aplicación resulten los mismos ingresos que si se aplicaran las tarifas medias.
 
@@ -1927,15 +1953,23 @@ No podrán existir exenciones respecto de las cuotas y tarifas a que se refiere 
 
 La falta de pago en dos ocasiones consecutivas por parte de usuarios no domésticos, faculta al prestador de los servicios a suspender los servicios públicos hasta que regularice su pago. En el caso de uso doméstico, la falta de pago en dos ocasiones consecutivas ocasionará la suspensión del servicio y de no regularizarse el mismo en el término de treinta días naturales, se procederá a la suspensión desde la red de distribución.
 
-Igualmente quedan facultados los prestadores de los servicios a suspender los mismos, cuando se comprueben derivaciones no autorizadas, uso distinto al contratado, se reinstale el servicio con motivo de violación de sellos o se proporcione servicio de otra toma de agua a las tomas que se encuentren suspendidas; así como cuando el usuario no haya presentado la documentación requerida en los términos que el prestador del servicio le señale.
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
 
-Lo anterior, será independiente de poner en conocimiento tal situación a las autoridades sanitarias y de fijar la multa por la infracción que se cometa.
+Igualmente quedan facultados los prestadores de los servicios a suspender los mismos, cuando se comprueben derivaciones no autorizadas, uso distinto al contratado, que suspendido el servicio se reinstale violando los sellos o se proporcione servicio de otra toma de agua a las tomas que se encuentren suspendidas; así como cuando el usuario no haya presentado la documentación requerida en los términos que el prestador del servicio le señale.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
+
+Lo anterior, será independiente de poner en conocimiento tal situación a las autoridades sanitarias y de fijar la multa por la infracción que se cometa, así como de la responsabilidad penal en que pueda incurrir por sus actos.
+
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 142.
 
-Cuando el usuario no esté de acuerdo con la eficiencia, calidad y continuidad en el servicio, o bien con el consumo expresado en su recibo o con los cobros que se le hagan, tendrá derecho de inconformarse por escrito.
+Cuando el usuario no esté de acuerdo con la eficiencia, calidad y continuidad en el servicio, o bien con el consumo expresado en su recibo o con los cobros que se le hagan, podrá presentar su inconformidad ejerciendo el recurso establecido en la presente Ley y su Reglamento.
 
-El prestador de los servicios resolverá la inconformidad en el término de quince días hábiles a partir de que sea planteada. Transcurrido dicho plazo sin que el prestador de los servicios emita la resolución, se entenderá que resuelve en términos favorables para el usuario, quedando obligado el prestador del servicio a cumplir con lo solicitado, en caso de que no cumpla se aplicará lo conducente conforme a la presente Ley y su Reglamento.
+La interposición de cualquier recurso deberá cumplir con los requisitos y formalidades que para tal efecto se contemplan en la presente Ley y su Reglamento, a falta de disposición expresa u omisión, aplicará supletoriamente la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
+
+El prestador de los servicios resolverá los recursos citados en la presente Ley y su Reglamento en el término de treinta días hábiles contados a partir del día siguiente a la fecha de su recepción. Transcurrido dicho plazo sin que el prestador de los servicios emita la resolución, se entenderá que resuelve en términos favorables para el usuario, quedando obligado el prestador del servicio a cumplir con lo solicitado, salvo que en las disposiciones aplicables se prevea lo contrario, en caso de que no cumpla se aplicará lo conducente conforme a la presente Ley y su Reglamento.
 
 ###### Artículo 143.
 
@@ -1953,11 +1987,11 @@ En los ayuntamientos, los prestadores de los servicios contarán con el personal
 
 Los procedimientos a que se refiere este Artículo se realizarán de acuerdo a lo previsto en el Libro Segundo de la Ley para la Protección al Ambiente del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 145.
 
-La Procuraduría o los prestadores de los servicios a excepción de los concesionarios, podrán ordenar la práctica de visitas de investigación, supervisión, vigilancia y verificación de los servicios por medio del personal autorizado, debiendo hacerlo por escrito motivando y fundamentando el acto a realizar, observando el procedimiento previsto en la Ley para la Protección al Ambiente del Estado de Hidalgo.
+La Procuraduría o los prestadores de los servicios a excepción de los concesionarios, podrán ordenar la práctica de visitas de investigación, supervisión, vigilancia y verificación de los servicios por medio del personal autorizado, debiendo hacerlo por escrito motivando y fundamentando el acto a realizar, observando el procedimiento previsto en la Ley para la Protección al Ambiente del Estado de Hidalgo, así como la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
 
 ###### Artículo 146.
 
@@ -2412,3 +2446,9 @@ P.O. 7 DE JUNIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 18 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 975 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
