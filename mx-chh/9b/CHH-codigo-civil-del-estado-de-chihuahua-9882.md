@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2024-02-17"
+last_updated: "2024-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -2177,9 +2177,9 @@ Cuando llegue a conocimiento de los Consejos Locales de Tutela o de cualquier au
 
 400.- Para los efectos del artículo anterior, quienes ejerzan la patria potestad o tengan niñas, niños y adolescentes bajo su custodia, tienen la facultad de corregirlos; la obligación de otorgarles orientación, cuidado y disciplina; y la obligación de observar una conducta que sirva a estos de buen ejemplo.
 
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
 
-La facultad de corregir no implica infligir a niñas, niños y adolescentes actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 300 ter de este Código, por lo que queda prohibido el castigo corporal y humillante o cualquier otro tipo de trato degradante como forma de corrección disciplinaria.
+La facultad de corregir no implica infligir a niñas, niños y adolescentes actos de fuerza que atenten contra su integridad física o psíquica en los términos de lo dispuesto por el artículo 300 ter de este Código, por lo que queda prohibido el castigo corporal y castigo humillante definidos en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Chihuahua; o cualquier otro tipo de trato degradante, como forma de corrección disciplinaria.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)</small>
 
@@ -13400,6 +13400,14 @@ Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor
 P.O. 17 DE FEBRERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLYC/0627/2023 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLYC/0843/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
