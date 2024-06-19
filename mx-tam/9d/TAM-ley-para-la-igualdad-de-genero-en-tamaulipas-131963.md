@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-igualdad-de-genero-en-tamaulipas-131963"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-06"
-last_updated: "2023-10-11"
+last_updated: "2024-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
 
 Ley publicada al Número 147 del Periódico Oficial del Estado de Tamaulipas, el jueves 6 de diciembre de 2018.
 
@@ -295,9 +295,17 @@ j) Disponer procedimientos para evitar se menoscaben los derechos humanos de las
 
 k) Promover y coordinar acciones para el establecimiento de guarderías para hijas e hijos de mujeres y hombres;
 
-l) Promover que las autoridades estatales y municipales implementen la transversalización y políticas públicas con perspectiva de género; y
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
 
-m) Promover que las mujeres indígenas o de zonas rurales, participen en asociaciones sociales o actividades para el desarrollo comunitario.
+l) Promover que las autoridades estatales y municipales implementen la transversalización y políticas públicas con perspectiva de género;
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
+m) Promover que las mujeres indígenas o de zonas rurales, participen en asociaciones sociales o actividades para el desarrollo comunitario; y
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
+
+n) Impulsar la capacitación de mujeres y niñas en materia de educación financiera y promover acciones para la inclusión financiera a fin de lograr la igualdad sustantiva en el ámbito económico.
 
 4. Con el propósito de alentar la igualdad de género para las mujeres embarazadas, en forma enunciativa, los sujetos referidos en el párrafo 1 de este artículo, adoptarán las siguientes acciones:
 
@@ -1034,3 +1042,15 @@ P.O. 11 DE OCTUBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-853 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS L) Y M), Y SE ADICIONA UN INCISO N) AL NUMERAL 3, DEL ARTÍCULO 12 DE LA LEY PARA LA IGUALDAD DE GÉNERO EN TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El cumplimiento del presente Decreto, se realizará con base al presupuesto asignado en cada ejercicio fiscal.
