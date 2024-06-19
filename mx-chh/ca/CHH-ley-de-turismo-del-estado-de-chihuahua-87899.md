@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2023-12-16"
+last_updated: "2024-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -82,6 +82,10 @@ V. Consejos Municipales: Órganos auxiliares de la Administración Pública Muni
 VI. Incentivos: Son los medios por los cuales, las dependencias correspondientes otorgarán las facilidades y estímulos económicos, administrativos y fiscales que contribuyan al crecimiento, profesionalización, fomento, competitividad y desarrollo de la actividad turística y a la generación de empleo.
 
 VII. Ley: Ley de Turismo del Estado de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+VII Bis. Plataforma digital: Herramienta tecnológica mediante la cual una persona física o moral administradora, opera en su carácter de gestora, intermediaria, promotora, facilitadora o cualquier otra actividad análoga, que permite a las y los usuarios contratar servicios turísticos.
 
 VIII. Programa del Ordenamiento Estatal de Turismo: Instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos.
 
@@ -555,6 +559,10 @@ Se consideran Prestadores de Servicios Turísticos, quienes desempeñen acciones
 
 I. El alojamiento turístico, en sus diferentes clases y categorías, y aquél prestado en modalidades no tradicionales o complementarias como: hostales, asistencias, sistemas de tiempo compartido y otros.
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+I Bis. La prestación de servicios de hospedaje o alojamiento, por personas físicas o morales, en casas, departamentos, residencias, villas, condominios y todo tipo de instalación no hotelera, de forma total o parcial, a través de plataformas digitales, aplicaciones informáticas y similares.
+
 II. Las empresas y centros de recreación turística, en todas sus modalidades.
 
 III. Los campamentos turísticos y/o educativos y establecimientos administradores de áreas, en las que se desarrollen tales actividades en forma habitual o programada.
@@ -577,9 +585,11 @@ XI. Agencias de viajes y Tour operadores.
 
 XII. Museos, recintos de eventos, centros de convenciones y exposiciones.
 
+> <small>(REFORMADO PRIMERO PÁRRAFO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### Artículo 42.
 
-La Secretaría deberá operar el Registro Estatal de Turismo, con el propósito de establecer un catálogo público de prestadores de servicios turísticos en el Estado, conforme a las disposiciones reglamentarias que para tal efecto se establezcan.
+La Secretaría deberá operar el Registro Estatal de Turismo, con el propósito de identificar a los prestadores de servicios turísticos en el Estado, generando un contacto directo con los mismos para informar sobre las políticas públicas, derechos y obligaciones aplicables al sector turístico; lo anterior, a través del establecimiento de un catálogo público, conforme a las disposiciones reglamentarias que para tal efecto se establezcan.
 
 Corresponde a la Secretaría, regular y coordinar la operación del Registro Estatal de Turismo, con apoyo de los municipios.
 
@@ -685,9 +695,23 @@ XIX. Solicitar la documentación que acredite el parentesco o relación de perso
 
 XX. Comunicar, difundir y publicar la existencia de protocolos y normas sobre prevención y sanción de ilícitos en contra de niñas, niños y adolescentes.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2024)</small>
 
-XXI. Las demás que establezca la legislación aplicable en la materia.
+XXI. Supervisar, en su caso, que no se ocupen las instalaciones o espacios para actividades que alteren el orden público o que afecten el interés social.
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+XXII. Cumplir con las obligaciones en materia fiscal, establecidas en la normatividad aplicable.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JUNIO DE 2024)</small>
+
+XXIII. Las demás que establezca la legislación aplicable en la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
+
+###### Artículo 50 Bis.
+
+Las Plataformas digitales, por cuenta de la persona prestadora de servicios turísticos, están obligadas a realizar la determinación y retención del Impuesto Sobre Hospedaje a los usuarios de sus servicios, y enterarlo a la autoridad fiscal correspondiente; así como al cumplimiento de todas las obligaciones en materia fiscal, establecidas en la legislación aplicable.
 
 ###### Artículo 51.
 
@@ -757,9 +781,11 @@ La Secretaría, para evitar la duplicidad en los programas de verificación con 
 
 Así mismo, podrán establecer programas de coordinación con dependencias federales, estatales y/o municipales para fijar las bases en materia de inspección, verificación y sanción, evitando así la duplicidad de funciones.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### Artículo 61.
 
-Para efectos de la aplicación de sanciones por infracciones a la presente Ley, se estará a lo dispuesto en los ordenamientos legales aplicables, así como en los convenios de coordinación institucionales celebrados entre la Federación, Estado y municipios, sin perjuicio de las responsabilidades civiles, penales o de otro orden que puedan concurrir.
+Para efectos de la aplicación de sanciones por infracciones a la presente Ley, que cometan los prestadores de servicios turísticos, Plataformas digitales y demás sujetos obligados, se estará a lo dispuesto en los ordenamientos legales aplicables, así como en los convenios de coordinación institucionales celebrados entre la Federación, Estado y municipios, sin perjuicio de las responsabilidades civiles, penales o de otro orden que puedan concurrir.
 
 ###### Artículo 62.
 
@@ -928,3 +954,15 @@ P.O. 16 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFLEY/0866/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, por conducto de sus áreas competentes, deberá realizar las adecuaciones administrativas, reglamentarias, operativas y financieras necesarias para la correcta implementación de lo previsto en el presente Decreto.
