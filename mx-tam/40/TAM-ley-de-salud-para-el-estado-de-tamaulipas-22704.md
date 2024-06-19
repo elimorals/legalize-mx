@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2024-05-28"
+last_updated: "2024-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -45,11 +45,11 @@ LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 1°.
 
-Las disposiciones de la presente Ley son de orden público, de interés social, de observancia general y de aplicación en el territorio del Estado. Tienen por objeto la protección a la salud y el establecimiento de las bases y modalidades para el acceso de la población a los servicios de salud proporcionados por el Estado con la concurrencia de sus Municipios, en materia de salubridad general y local, así como la asistencia interinstitucional para la mejora progresiva de los factores determinantes básicos de la salud, en términos de los artículos 4° de la Constitución Política de los Estados Unidos Mexicanos, 4° y 144 de la Constitución Política del Estado de Tamaulipas.
+Las disposiciones de la presente Ley son de orden público, de interés social, de observancia general y de aplicación en el territorio del Estado. Tienen por objeto la protección a la salud y el establecimiento de las bases y modalidades para el acceso de la población a los servicios de salud y telesalud proporcionados por el Estado con la concurrencia de sus Municipios, en materia de salubridad general y local, así como la asistencia interinstitucional para la mejora progresiva de los factores determinantes básicos de la salud, en términos de los artículos 4° de la Constitución Política de los Estados Unidos Mexicanos, 4° y 144 de la Constitución Política del Estado de Tamaulipas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -71,13 +71,13 @@ III.- La creación, conservación y disfrute de condiciones de salud que contrib
 
 IV.- La participación solidaria y responsable de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-V.- El disfrute de servicios de salud de calidad en todas sus formas y niveles, entendiendo calidad como la exigencia de que sean apropiados médica y científicamente, esto es, que exista personal médico capacitado, medicamentos y equipo hospitalario científicamente aprobados y en buen estado, y condiciones sanitarias adecuadas. Los servicios de salud deben estar disponibles, ser accesibles y aceptables para que permitan a las personas disfrutar del más alto nivel posible de salud;
+V.- El disfrute de servicios de salud y telesalud de calidad en todas sus formas y niveles, entendiendo calidad como la exigencia de que sean apropiados médica y científicamente, esto es, que exista personal médico capacitado, medicamentos y equipo hospitalario científicamente aprobados y en buen estado, y condiciones sanitarias adecuadas. Los servicios de salud y telesalud deben estar disponibles, ser accesibles y aceptables para que permitan a las personas disfrutar del más alto nivel posible de salud;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud y telesalud;
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2023)</small>
 
@@ -91,11 +91,11 @@ VIII.- El respeto al derecho a la salud materna, a la salud sexual y reproductiv
 
 IX.- El enfoque de salud pública basado en el género.
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 2° Bis.
 
-En lo referente al acceso a la atención de la salud y los factores determinantes básicos de la salud, así como a los medios y derechos para conseguirlo, queda prohibida toda discriminación por motivos de raza, color, sexo, idioma, religión, opinión política, posición social, situación económica, lugar de nacimiento, discapacidad, estado de salud, orientación sexual, situación política, social o de otra índole que tengan por objeto o por resultado la invalidación o el menoscabo de la igualdad de goce o el ejercicio del derecho a la salud.
+En lo referente al acceso a la atención de la salud, telesalud y los factores determinantes básicos de la salud, así como a los medios y derechos para conseguirlo, queda prohibida toda discriminación por motivos de raza, color, sexo, idioma, religión, opinión política, posición social, situación económica, lugar de nacimiento, discapacidad, estado de salud, orientación sexual, situación política, social o de otra índole que tengan por objeto o por resultado la invalidación o el menoscabo de la igualdad de goce o el ejercicio del derecho a la salud.
 
 > <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -103,7 +103,9 @@ En lo referente al acceso a la atención de la salud y los factores determinante
 
 Son derechos generales de las y los usuarios de servicios médicos los siguientes:
 
-I.- Recibir atención médica adecuada;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+I.- Recibir atención médica adecuada, tanto presencial como de telesalud;
 
 II.- Recibir trato digno y respetuoso;
 
@@ -131,7 +133,9 @@ En los términos de esta ley y disposiciones legales aplicables, son materia de 
 
 I.- De Salubridad General:
 
-A).- La organización, control y vigilancia de la prestación de servicios y de los establecimientos de salud, destinados a la población en general;
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
+A).- La organización, control y vigilancia de la prestación de servicios de salud y telesalud así como de los establecimientos de salud, destinados a la población en general;
 
 B).- La atención médica, preferentemente en beneficio de grupos vulnerables;
 
@@ -155,7 +159,9 @@ H).- La promoción de la formación de recursos humanos para la salud;
 
 I).- La coordinación de la investigación para la salud y el control de éstas en seres humanos. Asimismo, el control sanitario de la disposición de órganos, tejidos y sus componentes, células y cadáveres humanos;
 
-J).- La información relativa a las condiciones, recursos y servicios de salud;
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
+J).- La información relativa a las condiciones, recursos y servicios de salud y telesalud;
 
 K).- La educación para la salud;
 
@@ -323,6 +329,10 @@ XX.- Secretaría.- La Secretaría de Salud del Gobierno del Estado de Tamaulipas
 
 XXI.- Servicios de salud.- Todas aquellas acciones dirigidas a proteger, promover y restaurar la salud de las personas;
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+XXI Bis.- Telesalud.- Es la prestación de servicios de salud de calidad y pertinentes a través del uso de las tecnologías de la información y comunicación;
+
 > <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
 XXII.- Vigilancia sanitaria.- La que se realiza a través de las visitas de verificación con el objeto de proteger la salud de la población;
@@ -335,9 +345,11 @@ XXIII.- Visita de verificación.- La que realiza el personal autorizado expresam
 
 XXIV.- Expediente Clínico Electrónico.- El repositorio de los datos del paciente en formato digital, que se almacena e intercambian de manera segura y puede ser consultado por múltiples usuarios autorizados. Contiene información retrospectiva, concurrente y prospectiva y su principal propósito es soportar de manera continua, eficiente, con calidad integral la atención y cuidados de salud.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 6°.
 
-El Sistema Estatal de Salud está constituido por las dependencias y entidades del Estado y las personas físicas o morales de los sectores social y privado que presten servicios de salud, así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho a la protección de la salud.
+El Sistema Estatal de Salud está constituido por las dependencias y entidades del Estado y las personas físicas o morales de los sectores social y privado que presten servicios de salud, telesalud así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho a la protección de la salud.
 
 > <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2012)</small>
 
@@ -357,7 +369,9 @@ Si el paciente no presenta la directriz médica con anticipación a la realizaci
 
 El Sistema Estatal de Salud tiene los objetivos siguientes:
 
-I.- Proporcionar servicios de salud a toda la población y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+I.- Proporcionar servicios de salud y telesalud a toda la población y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
 
 II.- Contribuir al desarrollo demográfico armónico del Estado, mediante el fortalecimiento de programas en materia de salud sexual y reproductiva;
 
@@ -379,9 +393,9 @@ VII.- Coadyuvar a la modificación de los patrones culturales que determinen há
 
 VIII.- En general prestar con eficiencia los servicios de salubridad general y local, así como realizar las acciones de regulación y control sanitario en los términos de esta ley y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-IX.- Impulsar permanentemente y fortalecer los servicios de salud para la prevención de embarazos en niñas y adolescentes, así como también, emprender acciones para prevenir el contagio de infecciones de transmisión sexual;
+IX.- Impulsar permanentemente y fortalecer los servicios de salud y telesalud para la prevención de embarazos en niñas y adolescentes, así como también, emprender acciones para prevenir el contagio de infecciones de transmisión sexual;
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
 
@@ -399,21 +413,25 @@ La Secretaría coordinará el Sistema Estatal de Salud, y tendrá las atribucion
 
 I.- Establecer y conducir la política estatal en materia de salud, en los términos de esta ley y demás disposiciones aplicables y de conformidad con las políticas de los Sistemas Nacional y Estatal de Salud, y con lo dispuesto por el Ejecutivo del Estado;
 
-II.- Coordinar los programas de servicios de salud de las dependencias y entidades de la administración pública estatal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+II.- Coordinar los programas de servicios de salud y telesalud de las dependencias y entidades de la administración pública estatal, así como los agrupamientos por funciones y programas afines que, en su caso, se determinen;
 
 III.- Establecer y coordinar el Consejo General de Salud, con el fin de asesorar al Ejecutivo del Estado en materia de salud;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-IV.- Definir los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud;
+IV.- Definir los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud y telesalud;
 
-> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-V.- Apoyar la coordinación de los programas y servicios de salud de las dependencias o entidades públicas federales, en los términos de la legislación aplicable y de los acuerdos de coordinación que, en su caso, se celebren;
+V.- Apoyar la coordinación de los programas y servicios de salud y telesalud de las dependencias o entidades públicas federales, en los términos de la legislación aplicable y de los acuerdos de coordinación que, en su caso, se celebren;
 
 VI.- Impulsar, en los términos de los convenios que al efecto se suscriban, la descentralización y desconcentración de los servicios de salud a los Municipios;
 
-VII.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que determine el Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+VII.- Promover, coordinar y realizar la evaluación de programas y servicios de salud y telesalud que determine el Ejecutivo del Estado;
 
 VIII.- Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado;
 
@@ -493,7 +511,9 @@ Corresponde al Ejecutivo del Estado, por conducto de la Secretaría:
 
 I.- En materia de Salubridad General:
 
-A).- Organizar, operar y evaluar los servicios de salud a que se refiere la fracción I del artículo 3° de esta ley;
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
+A).- Organizar, operar y evaluar los servicios de salud y telesalud a que se refiere la fracción I del artículo 3° de esta ley;
 
 B).- Coordinar el Sistema Estatal de Salud y coadyuvar en el funcionamiento y consolidación del Sistema Nacional de Salud;
 
@@ -657,7 +677,9 @@ El Gobernador del Estado expedirá su Reglamento Interior, en el cual se precisa
 
 Compete a los Ayuntamientos:
 
-I.- Asumir, en los términos de esta ley y de los convenios que suscriban con el Ejecutivo del Estado, la operación de los servicios de salud;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+I.- Asumir, en los términos de esta ley y de los convenios que suscriban con el Ejecutivo del Estado, la operación de los servicios de salud y telesalud;
 
 II.- Administrar las unidades de salud que se descentralicen en su favor;
 
@@ -665,7 +687,9 @@ III.- Formular y desarrollar programas municipales de salud, en el marco de los 
 
 IV.- Vigilar y hacer cumplir, en la esfera de su competencia, los ordenamientos legales en la materia;
 
-V.- Establecer en sus bandos y reglamentos municipales, las normas y disposiciones relacionadas con los servicios de salud a su cargo;
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+V.- Establecer en sus bandos y reglamentos municipales, las normas y disposiciones relacionadas con los servicios de salud y telesalud a su cargo;
 
 VI.- Auxiliar a la (sic) autoridades sanitarias federales y estatales en el cumplimiento de sus funciones;
 
@@ -685,7 +709,9 @@ La Secretaría tomará el control sanitario de los establecimientos y servicios 
 
 La Secretaría propondrá al Ejecutivo del Estado la celebración de convenios de coordinación y cooperación sanitaria con los Gobiernos de otros Estados.
 
-## TITULO TERCERO. DE LA PRESTACION DE LOS SERVICIOS DE SALUD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2024)</small>
+
+## TITULO TERCERO. DE LA PRESTACION DE LOS SERVICIOS DE SALUD Y TELESALUD
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
@@ -695,13 +721,17 @@ La Secretaría propondrá al Ejecutivo del Estado la celebración de convenios d
 
 Conforme a las prioridades del Sistema Estatal de Salud, se garantizará la extensión cuantitativa y cualitativa de los servicios de salud, a la población abierta, preferentemente a los grupos en situación de vulnerabilidad.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 16.
 
-Para la organización y administración de los servicios de salud, se definirán criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como la universalidad de cobertura y de colaboración interinstitucional. Las instituciones de salud podrán llevar a cabo acciones de subrogación de servicios.
+Para la organización y administración de los servicios de salud y telesalud, se definirán criterios de distribución de universos de usuarios, de regionalización y de escalonamiento de los servicios, así como la universalidad de cobertura y de colaboración interinstitucional. Las instituciones de salud podrán llevar a cabo acciones de subrogación de servicios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 17.
 
-Para los efectos del derecho de la protección de la salud, se consideran servicios básicos de salud:
+Para los efectos del derecho de la protección de la salud, se consideran servicios básicos de salud y telesalud:
 
 I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
@@ -763,9 +793,13 @@ XIV.- Las demás que establezcan otras disposiciones legales aplicables.
 
 La atención médica se proporcionará en establecimientos en los que se desarrollen actividades preventivas, curativas, de rehabilitación y/o de urgencias, para conservar o reintegrar la salud física y mental de las personas.
 
-> <small>(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
 
-El personal que brinde la atención médica a que hace referencia el párrafo anterior, se ajustará a lo previsto en el Capítulo I, del Título Cuarto de la presente Ley.
+Asimismo, se podrá brindar atención médica a través de telesalud, en los programas de Salud Reproductiva, Sistema de Referencia y Contrareferencia (sic) en aquellos casos que resulte recomendable para la salud y bienestar del paciente.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
+El personal que brinde la atención médica a que hace referencia el presente artículo, se ajustará a lo previsto en el Capítulo I, del Título Cuarto de la presente Ley.
 
 ###### ARTICULO 19.
 
@@ -785,11 +819,15 @@ III.- De rehabilitación, cuando incluyan acciones tendientes a superar las disc
 
 IV.- De urgencia, cuando se requiera de atención inmediata e impostergable, por presentarse cualquier problema médico quirúrgico agudo, que ponga en peligro la vida o un órgano del paciente.
 
-### CAPITULO III. DE LOS PRESTADORES DE SERVICIOS DE SALUD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE JUNIO DE 2024)</small>
+
+### CAPITULO III. DE LOS PRESTADORES DE SERVICIOS DE SALUD Y TELESALUD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 20.
 
-Los servicios de salud, atendiendo a los prestadores de los mismos, se clasifican en:
+Los servicios de salud y telesalud, atendiendo a los prestadores de los mismos, se clasifican en:
 
 I.- Servicios públicos a la población en general;
 
@@ -799,9 +837,9 @@ III.- Servicios sociales y privados, sea cual fuere la forma en que se contraten
 
 IV.- Otros que se presten de conformidad con lo que establezca la Secretaría.
 
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
 
-ARTICULO 20 BIS.- Los prestadores de servicios de salud enumerados en el artículo anterior deberán atender de forma expedita y sin condición de garantía financiera alguna a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
+ARTICULO 20 BIS.- Los prestadores de servicios de salud y telesalud enumerados en el artículo anterior deberán atender de forma expedita y sin condición de garantía financiera alguna a las mujeres embarazadas que presenten una urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2023)</small>
 
@@ -823,21 +861,25 @@ Los conflictos suscitados entre los usuarios y prestadores de servicios médicos
 
 Los establecimientos particulares para el internamiento de enfermos, prestarán sus servicios en forma gratuita a personas de escasos recursos disponiendo, de ser necesario, al menos un 5% del total de camas de que dispongan, en los términos que señale el reglamento correspondiente.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 24.
 
-Corresponde a la Secretaría vigilar y controlar la creación y funcionamiento de todo tipo de establecimientos de servicios de salud, así como verificar el cumplimiento de las Normas Oficiales Mexicanas a las que deberán sujetarse.
+Corresponde a la Secretaría vigilar y controlar la creación y funcionamiento de todo tipo de establecimientos de servicios de salud y telesalud, así como verificar el cumplimiento de las Normas Oficiales Mexicanas a las que deberán sujetarse.
+
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 25.
 
-La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, se sujetarán a la Normas Oficiales Mexicanas, a lo dispuesto a esta ley y disposiciones aplicables.
+La construcción y equipamiento de los establecimientos dedicados a la prestación de servicios de salud y telesalud, en cualquiera de sus modalidades, se sujetarán a la (sic) Normas Oficiales Mexicanas, a lo dispuesto a esta ley y disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 13 DE DICIEMBRE DE 2022)</small>
+Se exime de responsabilidades a los prestadores de la salud, cuando los establecimientos dedicados a la prestación de servicios de salud y telesalud, en cualquiera de sus modalidades, no cuente con las condiciones, el equipamiento y el instrumental médico mínimo indispensable. En este supuesto, la responsabilidad recaerá en la institución de salud.
 
-Se exime de responsabilidades a los prestadores de la salud, cuando los establecimientos dedicados a la prestación de servicios de salud, en cualquiera de sus modalidades, no cuente con las condiciones, el equipamiento y el instrumental médico mínimo indispensable. En este supuesto, la responsabilidad recaerá en la institución de salud.
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 26.
 
-Requerirán de licencia sanitaria y contar con un responsable sanitario, los establecimientos de servicios de salud en los que se proporcione atención médica, así como en aquellos de apoyo diagnóstico y terapéutico que utilicen fuentes de radiación.
+Requerirán de licencia sanitaria y contar con un responsable sanitario, los establecimientos de servicios de salud y telesalud en los que se proporcione atención médica, así como en aquellos de apoyo diagnóstico y terapéutico que utilicen fuentes de radiación.
 
 ### CAPITULO IV. DE LA PARTICIPACION DE LA COMUNIDAD
 
@@ -845,9 +887,11 @@ Requerirán de licencia sanitaria y contar con un responsable sanitario, los est
 
 La participación de la comunidad en los programas de protección a la salud y en la prestación de los servicios respectivos, tiene por objetivo fortalecer la estructura y funcionamiento de los Sistema Estatal de Salud e incrementar el nivel de salud de la población del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 28.
 
-Los Ayuntamientos crearán un Comité Municipal de Salud, encabezado por el Presidente Municipal e integrado por representantes de organismos de los sectores público, social y privado, mismo que supervisará y evaluará los servicios de salud que se presten a la población y presentará un informe a las autoridades sanitarias y, en su caso, sus recomendaciones.
+Los Ayuntamientos crearán un Comité Municipal de Salud, encabezado por el Presidente Municipal e integrado por representantes de organismos de los sectores público, social y privado, mismo que supervisará y evaluará los servicios de salud y telesalud que se presten a la población y presentará un informe a las autoridades sanitarias y, en su caso, sus recomendaciones.
 
 ### CAPITULO V. DE LA ATENCION MATERNO-INFANTIL Y DEL ADOLESCENTE
 
@@ -915,13 +959,13 @@ IX.- Elegir una posición para el trabajo de parto y el parto, que le resulten m
 
 X.- Recibir atención sensible con su sistema de valores y de creencias;
 
-> <small>(REFORMADA, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-XI.- Ser informada sobre los procedimientos de orientación y quejas con relación a la prestación a los servicios de salud; y
+XI.- Ser informada sobre los procedimientos de orientación y quejas con relación a la prestación a los servicios de salud y telesalud; y
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-XII.- Ser informada y acceder al examen de VIH, a fin de prevenir la salud de los infantes desde su gestación, siendo confidencial el resultado de dicho examen. El acceso al diagnóstico de VIH deberá tener carácter de prioritario e inmediato, es decir, en el primer contacto que la mujer tenga con los servicios de salud. En caso de que el examen de VIH resultara positivo, la mujer tendrá derecho a recibir la información necesaria para procurar su salud y prevenir la transmisión perinatal del VIH durante el embarazo, parto o cesárea y lactancia. Tanto ella como el infante tendrán acceso prioritario al tratamiento antiretroviral más adecuado para su caso concreto;
+XII.- Ser informada y acceder al examen de VIH, a fin de prevenir la salud de los infantes desde su gestación, siendo confidencial el resultado de dicho examen. El acceso al diagnóstico de VIH deberá tener carácter de prioritario e inmediato, es decir, en el primer contacto que la mujer tenga con los servicios de salud o telesalud. En caso de que el examen de VIH resultara positivo, la mujer tendrá derecho a recibir la información necesaria para procurar su salud y prevenir la transmisión perinatal del VIH durante el embarazo, parto o cesárea y lactancia. Tanto ella como el infante tendrán acceso prioritario al tratamiento antiretroviral (sic) más adecuado para su caso concreto;
 
 > <small>(REFORMADA, P.O. 14 DE ABRIL DE 2020)</small>
 
@@ -935,17 +979,21 @@ XIV.- En caso de que su salud esté en riesgo con motivo del embarazo y tratánd
 
 XV.- Recibir, por parte de cualquier prestador de servicios de salud, atención médica de forma expedita y sin condición de garantía financiera, en caso de presentar alguna urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 31.
 
-En los servicios de salud se promoverá la organización institucional de Comités de Prevención de la Mortalidad Materna e Infantil, a efecto de conocer, sistematizar, evaluar el problema y adoptar las medidas conducentes.
+En los servicios de salud y telesalud se promoverá la organización institucional de Comités de Prevención de la Mortalidad Materna e Infantil, a efecto de conocer, sistematizar, evaluar el problema y adoptar las medidas conducentes.
 
 ###### ARTICULO 32.
 
 La protección de la salud física y mental de los menores de edad es una responsabilidad que comparten los padres, tutores o quienes ejerzan la patria potestad sobre ellos y el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 33.
 
-En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado establecerán:
+En la organización y operación de los servicios de salud y telesalud destinados a la atención materno-infantil, las autoridades sanitarias del Estado establecerán:
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -981,9 +1029,11 @@ IV.- Las acciones relacionadas con educación básica, alfabetización de adulto
 
 V.- Las demás que coadyuven a la protección de la salud materno-infantil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 34.
 
-Los servicios de salud destinados a la atención del adolescente son:
+Los servicios de salud y telesalud destinados a la atención del adolescente son:
 
 I.- Vigilancia de la atención integral del crecimiento y desarrollo de las y los adolescentes;
 
@@ -1011,9 +1061,9 @@ IV.- Acciones relacionadas con educación básica, alfabetización de adultos, a
 
 V.- El establecimiento por parte del Ejecutivo de la normatividad técnica para proteger la salud del educando y de la comunidad escolar de los planteles educativos del estado; cuya aplicación será vigilada por las autoridades educativas y sanitarias estatales;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-VI.- Convenios para la prestación de servicios de salud a los escolares, siguiendo las bases de coordinación que de conformidad establezcan las autoridades estatales competentes;
+VI.- Convenios para la prestación de servicios de salud y telesalud a los escolares, siguiendo las bases de coordinación que de conformidad establezcan las autoridades estatales competentes;
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
@@ -1175,9 +1225,11 @@ III.- La realización de programas para la prevención de violencia intrafamilia
 
 IV.- Las demás acciones que directa o indirectamente contribuyan al fomento de la salud mental de la población.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 42.
 
-Los servicios de salud en materia de enfermedades mentales comprenden:
+Los servicios de salud y telesalud en materia de enfermedades mentales comprenden:
 
 I.- La atención de personas con alteraciones emocionales temporales;
 
@@ -1189,11 +1241,11 @@ III.- La organización, operación y supervisión de instituciones dedicadas al 
 
 El internamiento de personas con padecimientos mentales en establecimientos destinados para tal efecto, se ajustará a principios éticos y sociales, además de los requisitos científicos y legales que determine la Secretaría y que establezcan las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 3 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 44.
 
-Las autoridades sanitarias e instituciones de salud, conforme a las Normas Oficiales Mexicanas, promoverán servicios de salud mental a personas que se encuentren en los Centros de Ejecución de Sanciones y Centros de Reintegración Social y Familiar para Adolescentes. Para tal efecto se coordinarán con las autoridades competentes.
+Las autoridades sanitarias e instituciones de salud, conforme a las Normas Oficiales Mexicanas, promoverán servicios de salud y telesalud mental a personas que se encuentren en los Centros de Ejecución de Sanciones y Centros de Reintegración Social y Familiar para Adolescentes. Para tal efecto se coordinarán con las autoridades competentes.
 
 ## TITULO CUARTO. DE LOS RECURSOS HUMANOS PARA LA SALUD
 
@@ -1255,9 +1307,9 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio, dentr
 
 IV.- Promover la participación voluntaria, de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas; y
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-V.- Promover la capacitación de los prestadores de servicios de salud para atender casos de violencia con perspectiva de género.
+V.- Promover la capacitación de los prestadores de servicios de salud y telesalud para atender casos de violencia con perspectiva de género.
 
 ###### ARTICULO 50.
 
@@ -1291,7 +1343,9 @@ III.- A la prevención y control de los problemas de salud que se consideren pri
 
 IV.- Al conocimiento y control de los efectos nocivos del ambiente en la salud;
 
-V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de servicios de salud; y
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la prestación de servicios de salud y telesalud; y
 
 V.- A la producción nacional de insumos para la salud.
 
@@ -1347,9 +1401,11 @@ III.- Recursos físicos, humanos y financieros disponibles para la protección d
 
 IV.- Estadística de servicios.
 
+> <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 59.
 
-Los establecimientos que presten servicios de salud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de plaguicidas, nutrientes vegetales y sustancias toxicas o peligrosas para la salud, llevarán las estadísticas que les señale la Secretaría y proporcionarán a ésta la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que le señalen otras disposiciones legales.
+Los establecimientos que presten servicios de salud y telesalud, los profesionales, técnicos y auxiliares de la salud, así como los establecimientos dedicados al proceso, uso, aplicación o disposición final de plaguicidas, nutrientes vegetales y sustancias toxicas o peligrosas para la salud, llevarán las estadísticas que les señale la Secretaría y proporcionarán a ésta la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que le señalen otras disposiciones legales.
 
 ## TITULO SEPTIMO. DE LA PROMOCION DE LA SALUD
 
@@ -1373,9 +1429,9 @@ I.- Fomentar en la población el desarrollo de actitudes y conductas que le perm
 
 II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud; y
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, salud sexual y reproductiva, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud, prevención de accidentes, prevención y rehabilitación de la discapacidad, detección oportuna de enfermedades, prevención y control de enfermedades transmisibles y violencia familiar.
+III.- Orientar y capacitar a la población preferentemente en materia de nutrición, salud mental, salud bucal, salud sexual y reproductiva, planificación familiar, riesgos de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de los servicios de salud y telesalud, prevención de accidentes, prevención y rehabilitación de la discapacidad, detección oportuna de enfermedades, prevención y control de enfermedades transmisibles y violencia familiar.
 
 ###### ARTICULO 63.
 
@@ -1425,13 +1481,15 @@ VIII.- Proveer de los mecanismos necesarios para dar acceso a suplementos alimen
 
 IX.- Atender el impacto que tiene en la esfera de la salud la violencia, de conformidad con las disposiciones aplicables;
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-X.- Coordinar a través de sus órganos auxiliares, las políticas públicas tendentes a garantizar el acceso a los servicios de salud para la atención de personas con diabetes, en sus diferentes tipos; y
+X.- Coordinar a través de sus órganos auxiliares, las políticas públicas tendentes a garantizar el acceso a los servicios de salud y telesalud para la atención de personas con diabetes, en sus diferentes tipos; y
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JUNIO DE 2024)</small>
 
-XI.- Conformar y administrar el Registro Estatal de personas con diabetes en sus diferentes tipos, con el objetivo de contar con información veraz, precisa, oportuna, completa, fidedigna y verificable, procurando la celebración de convenios con las diversas instancias y prestadores de servicios de salud, concentrando la información.
+XI.- Conformar y administrar el Registro Estatal de personas con diabetes en sus diferentes tipos, con el objetivo de contar con información veraz, precisa, oportuna, completa, fidedigna y verificable, procurando la celebración de convenios con las diversas instancias y prestadores de servicios de salud y telesalud, concentrando la información.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 21 DE FEBRERO DE 2023)</small>
 
 El Registro tendrá una base poblacional y se integrará por lo menos, con la siguiente información:
 
@@ -4008,3 +4066,15 @@ P.O. 28 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 65-855 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La aplicación de las reformas del presente Decreto, se sujetarán a la disponibilidad presupuestal correspondiente.
