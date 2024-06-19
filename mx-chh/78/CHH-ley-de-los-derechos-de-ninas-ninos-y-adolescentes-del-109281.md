@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-05-18"
+last_updated: "2024-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -923,6 +923,10 @@ XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de n
 
 XXII. Establecer programas de educación de la afectividad y sexualidad integral basados en los ejes, biológicos, pedagógicos, antropológicos, psicológicos de acuerdo al grado de madurez y desarrollo.
 
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2024)</small>
+
+XXIII. Prevenir las adicciones, mediante el diseño y ejecución de programas y campañas de información y concientización, con carácter permanente, dirigidas a niñas, niños y adolescentes, sobre los daños que provoca a la salud física, mental, emocional y su rendimiento escolar, el consumo de sustancias psicoactivas.
+
 ###### Artículo 66.
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
@@ -1395,13 +1399,13 @@ I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas,
 
 II. Que las autoridades migratorias verifiquen la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio nacional, conforme a las disposiciones aplicables.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, tendrán la prohibición de ejercer cualquier forma de castigo corporal, humillante, violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas.
+III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, tendrán la prohibición de ejercer cualquier forma de castigo corporal, castigo humillante, violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas.
 
-> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-IV. Que quienes tengan trato con niñas, niños y adolescentes tengan prohibido ejercer cualquier tipo de violencia en su contra, incluyendo el castigo corporal y humillante.
+IV. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal y castigo humillante.
 
 > <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2024)</small>
 
@@ -2854,6 +2858,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 18 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0847/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 56 BIS, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0842/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 65, LA FRACCIÓN XXIII, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N°. LXVII/RFLYC/0843/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
