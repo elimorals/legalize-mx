@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-05-25"
+last_updated: "2024-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE OAXACA EL 25 DE MAYO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -3245,6 +3243,16 @@ Si entre el activo y la víctima existió una relación de parentesco por consan
 
 Cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito, como servidor público integrante de las corporaciones de seguridad pública, de las instituciones de procuración e impartición de justicia o de las fuerzas armadas, se impondrá hasta dos tercios más de la pena impuesta.
 
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
+
+292 Quater.- Comete delito de ejecución extrajudicial el integrante o miembro de cualquier corporación de seguridad pública estatal o municipal que, estando en ejercicio de su cargo, actuando arbitrariamente o con abuso o exceso de fuerza, prive de la vida a una o más personas; así como cualquier persona que con el consentimiento, aprobación, orden o apoyo de cualquier servidora o servidor público estatal o municipal, prive de la vida a una o más personas.
+
+A quién cometa tales hechos se le impondrá de cincuenta a setenta años de prisión y multa de mil a mil quinientas veces el valor de la Unidad de Medida y Actualización vigente en la fecha de los hechos, y en el caso de las y los servidores públicos se les inhabilitará para ejercer cualquier cargo público por el tiempo que dure la pena impuesta.
+
+Cuando se acredite que la víctima era una persona defensora de derechos humanos, la pena se incrementará en un tercio de la mínima y hasta un tercio de la máxima.
+
+Este delito es imprescriptible.
+
 ### CAPITULO IV.
 
 Reglas comunes para lesiones y homicidio.
@@ -6394,6 +6402,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 20 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2113.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 8, EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 9, LA DENOMINACIÓN DEL CAPÍTULO TERCERO CORRESPONDIENTE AL TÍTULO III "DEL SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUERES", Y EL PRIMER PÁRRAFO Y LA FRACCIÓN X DEL ARTÍCULO 51; SE ADICIONA EL ARTÍCULO 8 BIS, LAS FRACCIONES VIII Y IX AL ARTÍCULO 9, Y LA FRACCIÓN XVIII AL ARTÍCULO 51, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO; SE REFORMA EL ARTÍCULO 404 Y SE ADICIONA EL CAPÍTULO VII DENOMINADO "VIOLENCIA DE PAREJA" AL TÍTULO VIGÉSIMO SEGUNDO DENOMINADO "DELITOS CONTRA EL DERECHO A UNA VIDA LIBRE DE VIOLENCIA", EL CUAL CONTIENE EL ARTÍCULO 412 OCTIES, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 19 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2287.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 292 QUATER, DENTRO DEL TÍTULO DECIMOSEXTO "DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL", DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
