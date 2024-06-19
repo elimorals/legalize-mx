@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2024-05-21"
+last_updated: "2024-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -4297,6 +4297,8 @@ Si el intermediario es director, encargado o empleado de una institución médic
 
 No eximirá de responsabilidad alguna a los participantes de éste delito aún cuando se haya seguido algún procedimiento legal para la entrega del menor, si se demuestra que quien lo entregó o el intermediario recibió a cambio un beneficio económico o lucro cualquiera.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 316.
 
 Se impondrá sanción de tres meses a tres años al que ponga en movimiento cualquier vehículo automotriz y lo abandone o de cualquier otro modo haga imposible el control de su dirección; si además resultaran otros delitos se observarán las reglas del concurso.
@@ -4321,29 +4323,37 @@ III.- Si se cometiere por conductores que utilizaban al momento de conducir un v
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE JUNIO DE 1988)</small>
 
+### CAPITULO VI. ACECHO
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
+
+ARTICULO 318 TER.- Comete el delito de acecho, quien siga, vigile o se comunique, persistentemente con alguien en contra de su voluntad, provocándole miedo o temor.
+
+Al responsable del delito de acecho se le impondrá una pena de seis meses a dos años de prisión y multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización.
+
+Este delito se perseguirá por querella de la parte ofendida.
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2024)</small>
+
+ARTICULO 318 QUATER.- Se incrementará en una mitad los mínimos y máximos de las sanciones que se señalan en el artículo anterior cuando concurran cualquiera de las circunstancias siguientes:
+
+I.- Cuando la conducta provenga de una persona adulta en contra de una persona menor de edad;
+
+II.- Cuando los actos se cometan en contra de una mujer embarazada o de una persona especialmente vulnerable por razón de su edad, condición física o situación socioeconómica;
+
+III.- Cuando los actos se cometan en razón de la identidad de género u orientación sexual de la persona víctima;
+
+IV.- Cuando se utilicen dispositivos tecnológicos para la vigilancia, persecución o contacto no deseado, directamente por el agente activo o por interpósita persona; y
+
+V.- Cuando la conducta sea reiterada, al menos en dos ocasiones y altere la vida normal de la víctima, provocándole cambiar su itinerario normal, hábitos, costumbres, número de teléfono, correo electrónico, perfiles de redes sociales, su lugar de residencia o de trabajo.
+
 ### CAPITULO I. LESIONES
+
+## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
 
 ### CAPITULO I BIS. DELITOS CONTRA LOS DERECHOS REPRODUCTIVOS
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2015)</small>
-
-## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA SALUD DE LAS PERSONAS
-
-### CAPITULO I TER. MANIPULACION GENETICA
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 328 SEPTIES.- Se impondrá una sanción de dos a seis años de prisión, inhabilitación, así como suspensión por igual término para desempeñar cargo, empleo o comisión públicos, profesión u oficio, a los que:
-
-I.- Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipulen genes humanos de manera que se altere el genotipo;
-
-II.- Fecunden óvulos humanos con cualquier fin distinto al de la procreación humana; y
-
-III.- Creen seres humanos por clonación o realicen procedimientos de ingeniería genética con fines ilícitos.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 328 OCTIES.- Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en los artículos anteriores, la reparación del daño comprenderá además, el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil.
 
 ###### ARTICULO 319.
 
@@ -4437,7 +4447,21 @@ Los propietarios o poseedores de animales que causen lesiones o muerte a persona
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2015)</small>
 
-### CAPITULO II. HOMICIDIO
+### CAPITULO I TER. MANIPULACION GENETICA
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 328 SEPTIES.- Se impondrá una sanción de dos a seis años de prisión, inhabilitación, así como suspensión por igual término para desempeñar cargo, empleo o comisión públicos, profesión u oficio, a los que:
+
+I.- Con finalidad distinta a la eliminación o disminución de enfermedades graves o taras, manipulen genes humanos de manera que se altere el genotipo;
+
+II.- Fecunden óvulos humanos con cualquier fin distinto al de la procreación humana; y
+
+III.- Creen seres humanos por clonación o realicen procedimientos de ingeniería genética con fines ilícitos.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 328 OCTIES.- Si resultan hijos a consecuencia de la comisión de alguno de los delitos previstos en los artículos anteriores, la reparación del daño comprenderá además, el pago de alimentos para éstos y para la madre, en los términos que fija la legislación civil.
 
 ###### ARTICULO 328 Ter.
 
@@ -4471,13 +4495,13 @@ ARTICULO 328 SEXTIES.- Además de las penas previstas en el presente capítulo, 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2017)</small>
 
+### CAPITULO II. HOMICIDIO
+
 ### CAPITULO III. REGLAS COMUNES PARA LESIONES Y HOMICIDIO
 
 ### CAPITULO IV. INDUCCION Y AUXILIO AL SUICIDIO
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-### CAPITULO V. PARRICIDIO
 
 ###### ARTICULO 329.
 
@@ -4571,9 +4595,9 @@ IV.- Exista o haya existido, entre el activo y la víctima una relación sentime
 
 V.- Exista o haya existido entre el sujeto activo y la víctima, una relación laboral, docente, religiosa, institucional o cualquier otra que implique, de manera formal o de hecho, una relación de subordinación o superioridad;
 
-> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN V], P.O. 13 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2024)</small>
 
-VI.- Existan datos, antecedentes, o indicios, denunciados o no, que establezcan que hubo amenazas, agresiones, intimidación, acoso o lesiones del sujeto activo en contra de la víctima, incluidas aquellas encaminadas a limitar, anular o menoscabar los derechos políticos y electorales de la víctima o el ejercicio de un cargo político, público, de poder o de decisión;
+VI.- Existan datos, antecedentes, o indicios, denunciados o no, que establezcan que hubo amenazas, agresiones, intimidación, acecho, acoso o lesiones del sujeto activo en contra de la víctima, incluidas aquellas encaminadas a limitar, anular o menoscabar los derechos políticos y electorales de la víctima o el ejercicio de un cargo político, público, de poder o de decisión;
 
 (REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN VI], P.O. 13 DE JUNIO DE 2023)
 
@@ -4613,7 +4637,7 @@ ARTICULO 337 TER.- Al responsable del delito de homicidio de un agente policiaco
 
 ARTICULO 337 QUATER.- Al que prive de la vida a su adoptante o adoptado, cónyuge, concubina o concubinario u otra relación de pareja permanente, con conocimiento de esa relación, se le impondrá una sanción de diez a treinta años de prisión y pérdida de los derechos que tenga con respecto a la víctima, incluidos los de carácter sucesorio. Si faltare el conocimiento de la relación, se estará a la punibilidad prevista para el homicidio simple.
 
-### CAPITULO VI. FILICIDIO
+### CAPITULO V. PARRICIDIO
 
 ###### ARTICULO 338.
 
@@ -4707,7 +4731,7 @@ I.- Declarar a los reos sujetos a la vigilancia de la policía; y
 
 II.- Prohibirles ir a determinado lugar, o municipio del Estado, o residir en él.
 
-### CAPITULO VII. ABORTO
+### CAPITULO VI. FILICIDIO
 
 ###### ARTICULO 348.
 
@@ -4719,9 +4743,7 @@ Al que prestare auxilio o indujere a otro para que se suicide hasta llegar a su 
 
 Se impondrán las sanciones de homicidio calificado al que induzca o auxilie al suicidio a un menor de dieciocho años o a una persona que no tuviera capacidad de comprensión. Si el suicidio no se consuma y sólo se causan lesiones, se impondrá al activo la sanción que corresponda a lesiones calificadas.
 
-### CAPITULO VIII. ABANDONO DE PERSONAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
+### CAPITULO VII. ABORTO
 
 ###### ARTICULO 350.
 
@@ -4733,7 +4755,9 @@ Comete el delito de parricidio el que dolosamente prive de la vida a cualquier a
 
 Al que cometa el delito de parricidio se le impondrá una sanción de treinta a cincuenta años de prisión.
 
-### CAPITULO IX
+### CAPITULO VIII. ABANDONO DE PERSONAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 352.
 
@@ -4754,6 +4778,70 @@ Al responsable del delito de filicidio se le impondrá una sanción de cuarenta 
 ###### ARTICULO 355.
 
 Si en la comisión del delito de filicidio participara un médico, partero o enfermero, además de imponérseles las sanciones privativas de libertad por homicidio, se le suspenderá hasta por veinte años en el ejercicio de su profesión, grado o especialización.
+
+### CAPITULO IX
+
+###### ARTICULO 356.
+
+Comete el delito de aborto el que priva de la vida al producto de la concepción en cualquier momento de la preñez.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 357.
+
+A la mujer que voluntariamente procure su aborto o consienta en que otro la haga abortar, se le impondrá una sanción de uno a cinco años de prisión, quedando facultado el juez para sustituirla por tratamiento médico integral, para lo cual sólo bastará que lo solicite y ratifique la responsable.
+
+El tratamiento referido en este precepto será provisto por las Instituciones de Salud del Estado y tendrá como objeto apoyar a las mujeres a superar los efectos causados como consecuencia del aborto provocado, así como reafirmar los valores humanos por la maternidad ayudando al fortalecimiento de la familia.
+
+No se concederá el beneficio de sustituir la sanción privativa de libertad por el de tratamiento médico integral, a la mujer que reincida en la comisión del delito de aborto.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 358.
+
+A la persona que provoque la muerte del producto de la concepción de una mujer embarazada, se le impondrán:
+
+I.- De cuatro a seis años de prisión, cuando provoque el aborto a solicitud o ruego de la mujer embarazada y sea mayor de edad;
+
+II.- De cuatro a ocho años de prisión, cuando provoque el aborto a solicitud o ruego de la mujer embarazada y ésta sea menor de edad o incapaz;
+
+III.- De cinco a siete años de prisión, cuando provoque el aborto sin el consentimiento expreso de la mujer embarazada y ésta sea mayor de edad;
+
+IV.- De seis a nueve años de prisión, cuando provoque el aborto sin el consentimiento de la mujer embarazada cuando sea menor de edad o incapaz;
+
+La persona que provoque el aborto, además de la pena privativa de libertad, tendrá la obligación de reparar los daños y perjuicios ocasionados, que incluyen la imposición específica de pagar los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud física, psíquica y emocional de la mujer embarazada a la que se haya provocado el aborto.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 358 Bis.
+
+Al cónyuge, concubino, pareja sentimental o familiar de la mujer embarazada que engañe, amenace o ejerza violencia física o moral contra ésta última, para que se provoque un aborto o permita que otro se lo provoque, se le impondrán de uno a cinco años de prisión.
+
+###### ARTICULO 359.
+
+Se impondrá de seis meses a un año de prisión a la mujer que voluntariamente procure su aborto o consienta en que otro la haga abortar, si concurren las siguientes circunstancias:
+
+I.- Que no tenga mala fama;
+
+II.- Que haya ocultado su embarazo; y
+
+III.- Que éste no sea resultado de unión matrimonial o concubinato.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
+
+###### ARTICULO 360.
+
+Si el aborto lo causare un médico, partero o enfermero, además de la sanción que le corresponda conforme al Artículo 358, se le suspenderá de tres a seis años en el ejercicio de su profesión, técnica u oficio.
+
+###### ARTICULO 361.
+
+No se sancionará el aborto en los casos siguientes:
+
+I.- Cuando sea causado sólo por imprudencia de la mujer embarazada;
+
+II.- Cuando el embarazo haya sido resultado de una violación; y
+
+III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud a juicio del médico que la asista, oyendo éste la opinión de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
 ### CAPITULO X. VIOLENCIA FAMILIAR
 
@@ -4885,82 +4973,6 @@ ARTÍCULO 368 QUINQUIES 3.- Al servidor público que retarde o entorpezca malici
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2016)</small>
 
-###### ARTICULO 356.
-
-Comete el delito de aborto el que priva de la vida al producto de la concepción en cualquier momento de la preñez.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
-
-###### ARTICULO 357.
-
-A la mujer que voluntariamente procure su aborto o consienta en que otro la haga abortar, se le impondrá una sanción de uno a cinco años de prisión, quedando facultado el juez para sustituirla por tratamiento médico integral, para lo cual sólo bastará que lo solicite y ratifique la responsable.
-
-El tratamiento referido en este precepto será provisto por las Instituciones de Salud del Estado y tendrá como objeto apoyar a las mujeres a superar los efectos causados como consecuencia del aborto provocado, así como reafirmar los valores humanos por la maternidad ayudando al fortalecimiento de la familia.
-
-No se concederá el beneficio de sustituir la sanción privativa de libertad por el de tratamiento médico integral, a la mujer que reincida en la comisión del delito de aborto.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
-
-###### ARTICULO 358.
-
-A la persona que provoque la muerte del producto de la concepción de una mujer embarazada, se le impondrán:
-
-I.- De cuatro a seis años de prisión, cuando provoque el aborto a solicitud o ruego de la mujer embarazada y sea mayor de edad;
-
-II.- De cuatro a ocho años de prisión, cuando provoque el aborto a solicitud o ruego de la mujer embarazada y ésta sea menor de edad o incapaz;
-
-III.- De cinco a siete años de prisión, cuando provoque el aborto sin el consentimiento expreso de la mujer embarazada y ésta sea mayor de edad;
-
-IV.- De seis a nueve años de prisión, cuando provoque el aborto sin el consentimiento de la mujer embarazada cuando sea menor de edad o incapaz;
-
-La persona que provoque el aborto, además de la pena privativa de libertad, tendrá la obligación de reparar los daños y perjuicios ocasionados, que incluyen la imposición específica de pagar los tratamientos curativos que, como consecuencia del delito, sean necesarios para la recuperación de la salud física, psíquica y emocional de la mujer embarazada a la que se haya provocado el aborto.
-
-> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
-
-###### ARTICULO 358 Bis.
-
-Al cónyuge, concubino, pareja sentimental o familiar de la mujer embarazada que engañe, amenace o ejerza violencia física o moral contra ésta última, para que se provoque un aborto o permita que otro se lo provoque, se le impondrán de uno a cinco años de prisión.
-
-###### ARTICULO 359.
-
-Se impondrá de seis meses a un año de prisión a la mujer que voluntariamente procure su aborto o consienta en que otro la haga abortar, si concurren las siguientes circunstancias:
-
-I.- Que no tenga mala fama;
-
-II.- Que haya ocultado su embarazo; y
-
-III.- Que éste no sea resultado de unión matrimonial o concubinato.
-
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2010)</small>
-
-###### ARTICULO 360.
-
-Si el aborto lo causare un médico, partero o enfermero, además de la sanción que le corresponda conforme al Artículo 358, se le suspenderá de tres a seis años en el ejercicio de su profesión, técnica u oficio.
-
-###### ARTICULO 361.
-
-No se sancionará el aborto en los casos siguientes:
-
-I.- Cuando sea causado sólo por imprudencia de la mujer embarazada;
-
-II.- Cuando el embarazo haya sido resultado de una violación; y
-
-III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud a juicio del médico que la asista, oyendo éste la opinión de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
-
-### CAPÍTULO XI. VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
-
-ARTÍCULO 368 SEXIES.- Comete el delito de violencia en espectáculos deportivos, quién en un evento deportivo, encontrándose en el interior de un estadio o recinto utilizado para ese fin o en los espacios de estacionamiento o calles circundantes inmediatas al mismo, cometa por sí o incite a otros a cometer actos que produzcan lesiones a terceros o daños a bienes muebles o inmuebles.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-Se castigará con prisión de uno a cuatro años y multa de diez a ochenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones a que se haya hecho acreedor por la comisión de diverso delito.
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
-
-ARTÍCULO 368 SEPTIES.- Además de las sanciones previstas en este Capítulo, a juicio del juez se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
-
 ###### ARTICULO 362.
 
 Comete el delito de abandono de personas, el que teniendo obligación de cuidarlos, abandone a un menor, a una persona enferma o adulta mayor, incapaces de cuidarse a sí mismos.
@@ -4999,9 +5011,21 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
+### CAPÍTULO XI. VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS
 
-### CAPITULO II. INJURIAS
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 368 SEXIES.- Comete el delito de violencia en espectáculos deportivos, quién en un evento deportivo, encontrándose en el interior de un estadio o recinto utilizado para ese fin o en los espacios de estacionamiento o calles circundantes inmediatas al mismo, cometa por sí o incite a otros a cometer actos que produzcan lesiones a terceros o daños a bienes muebles o inmuebles.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Se castigará con prisión de uno a cuatro años y multa de diez a ochenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones a que se haya hecho acreedor por la comisión de diverso delito.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 368 SEPTIES.- Además de las sanciones previstas en este Capítulo, a juicio del juez se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
+
+### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
 
 ###### ARTICULO 366.
 
@@ -5017,7 +5041,7 @@ El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o ji
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2008)</small>
 
-### CAPITULO III. DIFAMACION
+### CAPITULO II. INJURIAS
 
 ###### ARTICULO 368 Bis.
 
@@ -5037,13 +5061,11 @@ En todos los casos previstos en los dos artículos precedentes, el Ministerio P�
 
 La autoridad administrativa vigilará el cumplimiento de estas medidas. En todos los casos el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
 
-### CAPITULO IV. CALUMNIA
+### CAPITULO III. DIFAMACION
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL HONOR
 
-### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+### CAPITULO IV. CALUMNIA
 
 ###### ARTICULO 369.
 
@@ -5087,7 +5109,9 @@ En caso de que el psicólogo observe una conducta extremadamente peligrosa y vio
 
 En los casos en que no se cuente con servicios psicológicos o psiquiátricos, el Juez enviará al responsable del delito al municipio donde se pueda practicar dicho tratamiento y las costas que de esto se deriven, serán cubiertas en su totalidad por el sujeto tratado.
 
-### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
+### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 372.
 
@@ -5097,15 +5121,7 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-### CAPITULO I BIS. PRIVACION DE LA LIBERTAD CON FINES SEXUALES
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 390 BIS.- Al que prive a otro de su libertad, con el propósito de realizar un acto sexual, se le impondrá una sanción de uno a cinco años de prisión.
-
-Este delito se perseguirá por querella de la parte ofendida.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2020)</small>
+### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
 
 ###### ARTICULO 374.
 
@@ -5123,9 +5139,15 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO I TER. CIBERACOSO
+### CAPITULO I BIS. PRIVACION DE LA LIBERTAD CON FINES SEXUALES
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 390 BIS.- Al que prive a otro de su libertad, con el propósito de realizar un acto sexual, se le impondrá una sanción de uno a cinco años de prisión.
+
+Este delito se perseguirá por querella de la parte ofendida.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 378.
 
@@ -5147,7 +5169,9 @@ Este delito se perseguirá por querella de la parte ofendida.
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO II. DESAPARICION FORZADA DE PERSONAS
+### CAPITULO I TER. CIBERACOSO
+
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 383.
 
@@ -5171,7 +5195,7 @@ No se podrá proceder contra el responsable de los delitos de golpes y violencia
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD EN EL GOCE DE GARANTIAS
 
-### CAPITULO III. RAPTO
+### CAPITULO II. DESAPARICION FORZADA DE PERSONAS
 
 ###### ARTICULO 388.
 
@@ -5197,9 +5221,9 @@ II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
 
-### CAPITULO I. ROBO
+### CAPITULO III. RAPTO
 
-### CAPITULO II. ABUSO DE CONFIANZA
+### CAPITULO I. ROBO
 
 ###### ARTICULO 390 Ter.
 
@@ -5213,7 +5237,7 @@ Misma sanción se impondrá a quien habiendo hecho contacto con una persona meno
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-### CAPITULO III. FRAUDE
+### CAPITULO II. ABUSO DE CONFIANZA
 
 ###### ARTICULO 391.
 
@@ -5237,9 +5261,7 @@ ARTICULO 392 TER.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO IV. USURA
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+### CAPITULO III. FRAUDE
 
 ###### ARTICULO 394.
 
@@ -5265,7 +5287,9 @@ ARTICULO 392 TER.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA EL PATRIMONIO DE LAS PERSONAS
 
-### CAPITULO V. CHANTAJE
+### CAPITULO IV. USURA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 399.
 
@@ -5491,11 +5515,11 @@ Al que use para los fines que están destinados las señales, marcas o fierros d
 
 No se impondrá sanción al que sin emplear engaños ni medios violentos, se apodere por una sola vez de los objetos indispensables para satisfacer sus necesidades personales o familiares del momento.
 
+### CAPITULO V. CHANTAJE
+
 ### CAPITULO VI. EXTORSION
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
-
-### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 ###### ARTICULO 414.
 
@@ -5527,9 +5551,7 @@ II.- Cuando el depositario judicial o el designado por o ante las autoridades ad
 
 III.- Cuando una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le corresponda la propiedad.
 
-### CAPITULO VIII. DAÑO EN PROPIEDAD
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 ###### ARTICULO 417.
 
@@ -5619,7 +5641,9 @@ ARTICULO 421 BIS.- Comete el delito de fraude familiar, la persona que en detrim
 
 ARTICULO 421 TER.- Al responsable del delito de fraude familiar se le impondrá sanción de uno a cinco años de prisión y hasta trescientos días multa.
 
-### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
+### CAPITULO VIII. DAÑO EN PROPIEDAD
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 422.
 
@@ -5635,7 +5659,7 @@ Al responsable del delito previsto en el artículo anterior se le impondrá de s
 
 Igual sanción se aplicará al que procurase un préstamo cualquiera cobrando una comisión evidentemente desproporcionada para sí o para otro.
 
-### CAPITULO I. ENCUBRIMIENTO
+### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 424.
 
@@ -5644,6 +5668,34 @@ Comete el delito de chantaje, el que con ánimo de conseguir un lucro o provecho
 ###### ARTICULO 425.
 
 Al responsable del delito de chantaje se le impondrá una sanción de dos a ocho años de prisión.
+
+### CAPITULO I. ENCUBRIMIENTO
+
+###### ARTICULO 426.
+
+Comete el delito de extorsión al que sin derecho, por cualquier medio, obligue a otro a dar, hacer, tolerar o dejar de hacer algo, con ánimo de lucro, o con la intención de obtener un beneficio, cualquiera que este sea, u obteniéndolo para sí o para otro o causando un perjuicio patrimonial, moral o psicológico, a la identidad profesional o la imagen profesional, en contra de una persona o personas, se le impondrá una sanción de diez a quince años de prisión y de doscientos cincuenta a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+Las penas previstas en el artículo anterior, se aumentarán en dos terceras partes y además, se impondrá la destitución del empleo, cargo o comisión públicos, inhabilitación de tres a siete años para ejercer cargos o comisiones públicas y en su caso, la suspensión del derecho para ejercer actividades en corporaciones de seguridad pública o de las fuerzas armadas, cuando el delito se realice por servidor público o quien sea o haya sido miembro de alguna corporación de seguridad pública o privada o de las fuerzas armadas.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+Además de las penas señaladas en este artículo, se impondrá una sanción de cuatro a diez años de prisión y multa de doscientos ochenta y ocho a setecientas veinte veces el valor diario de la Unidad de Medida y Actualización, cuando en la comisión del delito:
+
+I.- Intervenga una o más personas armadas o portando instrumentos peligrosos;
+
+II.- Se emplee violencia;
+
+III.- Se realice por pandilla, asociación delictuosa o el autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada;
+
+IV.- Se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
+
+V.- Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal;
+
+VI.- Si es cometido en contra de un menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años; y
+
+VII.- El autor del delito de manera continuada obtenga dinero o bienes por concepto de cobro de cuotas de cualquier índole.
 
 ### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
@@ -5672,48 +5724,6 @@ Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comis
 Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en el artículo 443 Bis, fracciones I y II, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tienen capacidad para resistirlo.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
-
-###### ARTICULO 426.
-
-Comete el delito de extorsión al que sin derecho, por cualquier medio, obligue a otro a dar, hacer, tolerar o dejar de hacer algo, con ánimo de lucro, o con la intención de obtener un beneficio, cualquiera que este sea, u obteniéndolo para sí o para otro o causando un perjuicio patrimonial, moral o psicológico, a la identidad profesional o la imagen profesional, en contra de una persona o personas, se le impondrá una sanción de diez a quince años de prisión y de doscientos cincuenta a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-Las penas previstas en el artículo anterior, se aumentarán en dos terceras partes y además, se impondrá la destitución del empleo, cargo o comisión públicos, inhabilitación de tres a siete años para ejercer cargos o comisiones públicas y en su caso, la suspensión del derecho para ejercer actividades en corporaciones de seguridad pública o de las fuerzas armadas, cuando el delito se realice por servidor público o quien sea o haya sido miembro de alguna corporación de seguridad pública o privada o de las fuerzas armadas.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-Además de las penas señaladas en este artículo, se impondrá una sanción de cuatro a diez años de prisión y multa de doscientos ochenta y ocho a setecientas veinte veces el valor diario de la Unidad de Medida y Actualización, cuando en la comisión del delito:
-
-I.- Intervenga una o más personas armadas o portando instrumentos peligrosos;
-
-II.- Se emplee violencia;
-
-III.- Se realice por pandilla, asociación delictuosa o el autor del delito se ostente por cualquier medio como miembro de la delincuencia organizada;
-
-IV.- Se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
-
-V.- Si el sujeto activo del delito de extorsión, se encuentra privado de su libertad personal;
-
-VI.- Si es cometido en contra de un menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años; y
-
-VII.- El autor del delito de manera continuada obtenga dinero o bienes por concepto de cobro de cuotas de cualquier índole.
-
-### CAPITULO III. ENCUBRIMIENTO POR RECEPTACION
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 443 TER.- Se impondrá una sanción de dos a siete años de prisión, y de cincuenta a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, a quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia, si el valor de cambio no excede de quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos.
-
-Si el valor de éstos es superior a quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos, se impondrá una sanción de cinco a diez años de prisión y de doscientos a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
-
-Cuando el o los instrumentos, objetos o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
-
-Si el que recibió en venta, prenda o bajo cualquier otro concepto el instrumento, objeto o producto de un delito, después de su ejecución, sin haber participado en él y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el primer párrafo de este artículo, en la proporción correspondiente al delito culposo.
-
-En ningún caso podrá imponerse pena privativa de libertad que exceda del máximo que la ley señale al delito encubierto.
-
-> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 427.
 
@@ -5765,7 +5775,21 @@ III.- Cuando el despojo se realice sobre terreno de labor preparado para siembra
 
 Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
 
-### CAPÍTULO ÚNICO
+### CAPITULO III. ENCUBRIMIENTO POR RECEPTACION
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 443 TER.- Se impondrá una sanción de dos a siete años de prisión, y de cincuenta a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, a quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia, si el valor de cambio no excede de quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos.
+
+Si el valor de éstos es superior a quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos, se impondrá una sanción de cinco a diez años de prisión y de doscientos a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando el o los instrumentos, objetos o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
+
+Si el que recibió en venta, prenda o bajo cualquier otro concepto el instrumento, objeto o producto de un delito, después de su ejecución, sin haber participado en él y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el primer párrafo de este artículo, en la proporción correspondiente al delito culposo.
+
+En ningún caso podrá imponerse pena privativa de libertad que exceda del máximo que la ley señale al delito encubierto.
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 433.
 
@@ -5795,9 +5819,7 @@ III.- El daño se cauce para evadir la persecución o desempeño de las fuerzas 
 
 Si además de los daños resulta consumado algún otro delito se observarán las reglas del concurso.
 
-### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
+### CAPÍTULO ÚNICO
 
 ###### ARTICULO 437.
 
@@ -5813,9 +5835,9 @@ Los delitos de abuso de confianza, fraude, fraude laboral, despojo de cosas inmu
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO I. DAÑO AL MEDIO AMBIENTE
+### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 439.
 
@@ -5865,11 +5887,11 @@ III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amis
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO II. DELITO DE INCENDIOS
+### CAPITULO I. DAÑO AL MEDIO AMBIENTE
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO III. CONTAMINACION DE AGUAS
+### CAPITULO II. DELITO DE INCENDIOS
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -5877,9 +5899,9 @@ III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amis
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPITULO IV. SUBSTRACCION DEL SUELO
+### CAPITULO III. CONTAMINACION DE AGUAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 444.
 
@@ -5927,9 +5949,9 @@ III.- Los que estén ligados con el acusado por respeto, gratitud, estrecha amis
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
 
-### CAPITULO V. PRIVACION DE LA VIDA, MALTRATO O CRUELDAD ANIMAL
+### CAPITULO IV. SUBSTRACCION DEL SUELO
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 454.
 
@@ -6011,9 +6033,9 @@ Los responsables de los delitos contenidos en el presente Capítulo por haber ac
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO VI. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+### CAPITULO V. PRIVACION DE LA VIDA, MALTRATO O CRUELDAD ANIMAL
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 459.
 
@@ -6063,9 +6085,9 @@ III. Con motivo de auditorías, visitas de verificación o inspección, prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO I. DE LA SUSTRACCIÓN, APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS
+### CAPITULO VI. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 462.
 
@@ -6094,6 +6116,10 @@ Al responsable de la comisión del delito de incendios previstos en las fraccion
 Cuando se afecte un área igual o mayor a cinco hectáreas, o recursos forestales maderables en una cantidad igual o mayor a mil metros cúbicos rollo total árbol, las sanciones se elevarán hasta en una mitad más de la prevista para cada supuesto.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+
+### CAPITULO I. DE LA SUSTRACCIÓN, APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 464.
 
@@ -7576,6 +7602,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-846 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 126, PÁRRAFO CUARTO; 286; Y 353; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 286, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-854 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 337 BIS, PÁRRAFO PRIMERO, FRACCIÓN VI; Y SE ADICIONAN EL CAPÍTULO VI, DENOMINADO “ACECHO”, AL TÍTULO DÉCIMO QUINTO, DEL LIBRO SEGUNDO, Y LOS ARTÍCULOS 318 TER, Y 318 QUATER, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
