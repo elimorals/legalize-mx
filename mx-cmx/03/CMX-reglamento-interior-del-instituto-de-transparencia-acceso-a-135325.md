@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-transparencia-acceso-a-135
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-04-11"
-last_updated: "2023-02-15"
+last_updated: "2024-06-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=135325&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-04-04"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JUNIO DE 2024.
 
 Reglamento publicado en el Número 70 de la Gaceta Oficial de la Ciudad de México, el jueves 11 de abril de 2019.
 
@@ -190,7 +190,9 @@ XXI. Sistema Local de Transparencia: El Sistema Local de Transparencia, Acceso a
 
 XXII. Sistema Nacional de Transparencia: Sistema Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales; y
 
-XXII (SIC). Unidades Administrativas: Secretaría Técnica, Secretaría Ejecutiva, Dirección de Asuntos Jurídicos, Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas, Dirección de Estado Abierto, Estudios y Evaluación, Dirección de Vinculación y Proyección Estratégica, Dirección de Datos Personales, Dirección de Tecnologías de la Información, Dirección de Administración y Finanzas, Dirección de Comunicación Social, y las unidades administrativas de nueva creación.
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2024)</small>
+
+XXII (SIC). Unidades Administrativas: Secretaría Técnica, Secretaría Ejecutiva, Dirección de Asuntos Jurídicos, Dirección de Estado Abierto, Estudios y Evaluación, Dirección de Vinculación y Proyección Estratégica, Dirección de Datos Personales, Dirección de Tecnologías de la Información, Dirección de Administración y Finanzas, Dirección de Comunicación Social, Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales y las unidades administrativas de nueva creación.
 
 ###### Artículo 5.
 
@@ -214,7 +216,9 @@ V. Secretaría Ejecutiva;
 
 VI. Órgano Interno de Control;
 
-VII. Dirección de Asuntos Jurídicos, Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas, Dirección de Estado Abierto, Estudios y Evaluación, Dirección de Vinculación y Proyección Estratégica, Dirección de Datos Personales, Dirección de Tecnologías de la Información, Dirección de Administración y Finanzas, y Dirección de Comunicación Social.
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2024)</small>
+
+VII. Dirección de Asuntos Jurídicos, Dirección de Estado Abierto, Estudios y Evaluación, Dirección de Vinculación y Proyección Estratégica, Dirección de Datos Personales, Dirección de Tecnologías de la Información, Dirección de Administración y Finanzas, Dirección de Comunicación Social y Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales.
 
 VIII. Las demás unidades administrativas, así como el personal que autorice el Pleno, a propuesta del Presidente y/o los miembros del Pleno.
 
@@ -850,7 +854,9 @@ Para el cumplimiento de las funciones del Instituto, éste se auxiliará de las 
 
 I. Dirección de Asuntos Jurídicos;
 
-II. Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas;
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2024)</small>
+
+II. Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales;
 
 III. Dirección de Estado Abierto, Estudios y Evaluación;
 
@@ -860,7 +866,9 @@ V. Dirección de Datos Personales;
 
 VI. Dirección de Tecnologías de la Información;
 
-VII. Dirección de Administración y Finanzas, y
+> <small>(REFORMADA, G.O. 19 DE JUNIO DE 2024)</small>
+
+VII. Dirección de Administración y Finanzas; y
 
 VIII. Dirección de Comunicación Social.
 
@@ -1066,9 +1074,11 @@ XXVIII. Coadyuvar con las Ponencias y Secretaría Técnica en cuanto al apoyo ne
 
 XXIX. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan el Pleno de (sic) Instituto.
 
+> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2024)</small>
+
 ###### Artículo 21.
 
-Son atribuciones de la Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas:
+Son atribuciones del Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales:
 
 I. Identificar, proponer y coordinar los programas y proyectos de capacitación, formación, aprendizaje, actualización o profesionalización, presenciales o en línea, para promover el conocimiento en materia de cultura de la transparencia, acceso a la información pública, protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines;
 
@@ -1076,29 +1086,25 @@ II. Definir e instrumentar estrategias y acciones de capacitación, aprendizaje 
 
 III. Establecer acciones dirigidas a coadyuvar con los sujetos obligados en la elaboración del programa anual de capacitación que será instrumentado por las Unidades de Transparencia;
 
-IV. Diseñar y coordinar el programa anual de capacitación dirigido al desarrollo profesional de los servidores públicos del Instituto para su formación, aprendizaje, actualización o profesionalización en materia de transparencia, acceso a la información pública, protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines, así como, en aquellas temáticas que faciliten el desempeño de su función pública o mejoren sus competencias;
+IV. Organizar, coordinar e instrumentar diplomados, cursos, talleres, conferencias o cualquier otra forma de aprendizaje, capacitación, formación, actualización o profesionalización, dirigida al ejercicio del derecho de acceso a la información pública y a la protección de datos personales, así como en las materias de cultura de la transparencia, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines; adicional a aquellas temáticas que, para el caso de las personas servidoras públicas del organismo garante faciliten el desempeño de su función pública o mejoren sus competencias;
 
-V. Impulsar estrategias de capacitación para promover el efecto multiplicador y la participación activa de los sujetos obligados y de la ciudadanía del conocimiento de los derechos de acceso a la información pública y protección de datos personales, así como en las materias de cultura de la transparencia, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines;
+V. Diseñar y coordinar el programa anual de capacitación dirigido al desarrollo profesional de las personas servidoras públicas del Instituto para su formación, aprendizaje, actualización o profesionalización en materia de transparencia, acceso a la información pública, protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines, así como, en aquellas temáticas que faciliten el desempeño de su función pública o mejoren sus competencias;
 
-VI. Organizar, coordinar e instrumentar diplomados, cursos, talleres, conferencias o cualquier otra forma de aprendizaje, capacitación formación, actualización o profesionalización, al exterior e interior del Instituto, dirigida al ejercicio del derecho de acceso a la información pública y a la protección de datos personales, así como en las materias de cultura de la transparencia, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines; adicional a aquellas temáticas que, para el caso de los servidores públicos del organismo garante faciliten el desempeño de su función pública o mejoren sus competencias;
+VI. Identificar, proponer y coordinar mecanismos de capacitación a los sujetos obligados, organizaciones sociales, así como personas físicas y morales, respecto de las habilidades, conocimientos, y capacidad de replicar los mismos a fin de ofrecer en forma interdisciplinaria y profesional, la posibilidad de llevar a cabo cursos y talleres en materia de transparencia, acceso a la información pública, protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines;
 
-VII. Identificar, proponer y coordinar mecanismos de certificación a los sujetos obligados, organizaciones sociales, así como personas físicas y morales, respecto de las habilidades, conocimientos, y capacidad de replicar los mismos a fin de ofrecer en forma interdisciplinaria y profesional, la posibilidad de llevar a cabo cursos y talleres en materia de transparencia, acceso a la información pública, protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines;
+VII. Dirigir y coordinar las actividades relacionadas con el funcionamiento del Centro de Documentación del Instituto, considerando el establecimiento y promoción de relaciones con otros centros de documentación, instituciones académicas y educativas del sector público o privado, nacionales e internacionales, con la finalidad de ampliar su operación, sus servicios y su acervo, así como resguardar y actualizar para su consulta, el material de dicho Centro, en materia de los derechos de acceso a la información pública y protección de datos personales, así como en cultura de la transparencia, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines;
 
-VIII. Dirigir y coordinar las actividades relacionadas con el funcionamiento del Centro de Documentación del Instituto, considerando el establecimiento y promoción de relaciones con otros centros de documentación, instituciones académicas y educativas del sector público o privado, nacionales, internacionales o de otros países, con la finalidad de ampliar su operación, sus servicios y su acervo, así como resguardar y actualizar para su consulta, el material de dicho centro, en materia de los derechos de acceso a la información pública y protección de datos personales, así como en cultura de la transparencia, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines;
+VIII. Apoyar, en el ámbito de su competencia, en la difusión y distribución de las publicaciones entre los sujetos obligados, instituciones académicas y educativas, con todas aquellas con las que se tenga relación, considerando la labor y acervo que realiza el Centro de Documentación;
 
-IX. Apoyar, en el ámbito de su competencia, en la difusión y distribución de las publicaciones entre los sujetos obligados, instituciones académicas y educativas, con todas aquellas con las que se tenga relación, considerando la labor y acervo que realiza el Centro de Documentación;
+IX. Establecer y promover relaciones con instituciones académicas y educativas del sector público o privado, nacionales e internacionales, así como impulsar la suscripción de acuerdos, convenios o bases de colaboración, para impulsar programas, estrategias, proyectos o acciones de capacitación, formación, actualización o cualquier forma de aprendizaje para el fortalecimiento de la cultura de la transparencia, el acceso a la información pública, la protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines, o bien, que favorezcan el desempeño de la función pública o mejora de competencias de las personas servidoras públicas de dicho órgano garante;
 
-X. Establecer y promover relaciones con instituciones académicas y educativas del sector público o privado, nacionales, internacionales o de otros países, así como impulsar la suscripción de acuerdos, convenios o bases de colaboración, para impulsar programas, estrategias, proyectos o acciones de capacitación, formación, actualización, profesionalización o cualquier forma de aprendizaje, hacia el exterior y al interior del Instituto, para el fortalecimiento de la cultura de la transparencia, el acceso a la información pública, la protección de datos personales, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines, o bien, que favorezcan el desempeño de la función pública o mejora de competencias de los servidores públicos de dicho órgano garante;
+X. Proponer al Pleno convenios de colaboración con instituciones de educación superior del sector público o privado en los temas de los derechos de acceso a la información pública, de protección de datos personales, así como de cultura de la transparencia, rendición de cuentas, Estado abierto, archivos, anticorrupción y temas afines;
 
-XI. Promover y difundir en las instituciones académicas y educativas del sector público o privado los derechos de acceso a la información pública, de protección de datos personales, así como de cultura de la transparencia, rendición de cuentas, Estado abierto, archivos, anticorrupción y temas afines;
+XI. Impulsar los derechos de acceso a la información pública y protección de datos personales, así como en las materias de transparencia, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines, a través de estrategias o esquemas de colaboración, para la publicación e intercambio de materiales de capacitación, educativos, formativos, de aprendizaje, para la profesionalización y de difusión del conocimiento;
 
-XII. Impulsar los derechos de acceso a la información pública y protección de datos personales, así como en las materias de transparencia, Estado abierto, archivos, rendición de cuentas, anticorrupción y temas afines, a través de estrategias o esquemas de colaboración, para la publicación e intercambio de materiales de capacitación, educativos, formativos, de aprendizaje, para la profesionalización y de difusión del conocimiento; y
+XII. Participar en las acciones que, en el marco de coordinación y colaboración de programas conjuntos de capacitación, formación, aprendizaje, actualización o profesionalización, se consideren en los sistemas nacionales y locales, con otros organismos garantes, así como con otras instancias en las que participe el Instituto; y
 
-XIII. Participar en las acciones que, en el marco de coordinación y colaboración de programas conjuntos de capacitación, formación, aprendizaje, actualización o profesionalización, se consideren en los sistemas nacionales y locales, con otros organismos garantes, así como con otras instancias en las que participe el Instituto;
-
-XIV. Emitir reconocimientos y diplomas, constancias de participación y certificaciones de las acciones de capacitación, formación, aprendizaje, actualización o profesionalización, y
-
-XV. Las demás que se deriven del presente Reglamento, de aquellas disposiciones legales y administrativas aplicables, así como, las que dispongan (sic) el Pleno de (sic) Instituto.
+XIII. Las demás que se deriven del presente Reglamento y de las disposiciones legales y administrativas aplicables, así como, las que dispongan el Pleno de Instituto.
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO DE REFORMAS PUBLICADO EN LA G.O DE 18 DE MAYO DE 2020 EL PRESENTE ARTÍCULO PASO DE XXVII A XXVI FRACCIONES; VÉASE LITERALIDAD DEL ACUERDO, PÁGINAS DE LA 66 A LA 67.]</small>
 
@@ -1641,3 +1647,21 @@ Para los efectos procedentes, se hace saber que conforme a lo dispuesto en el ar
 ## TRANSITORIO
 
 ÚNICO. Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO EN EL QUE PODRÁ SER CONSULTADO EL ACUERDO MEDIANTE EL CUAL SE ADICIONAN Y MODIFICAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y RENDICIÓN DE CUENTAS DE LA CIUDAD DE MÉXICO, PARA LA CREACIÓN DEL CENTRO DE CAPACITACIÓN E INVESTIGACIÓN DE TRANSPARENCIA Y PROTECCIÓN DE DATOS PERSONALES CECITYP".]
+
+PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se transfiere íntegramente la estructura, personal, disponibilidad presupuestaria, derechos y obligaciones de la extinta Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas del INFOCDMX al Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales, reconociéndose la validez de todos los actos y documentos realizados por dicha Dirección.
+
+TERCERO. La persona que ocupe la titularidad de la Dirección de Capacitación para la Cultura de la Transparencia, la Protección de Datos Personales y la Rendición de Cuentas al momento de la aprobación y entrada en vigor del presente Acuerdo, será quien ocupe la titularidad del Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales.
+
+CUARTO. El Centro de Capacitación e Investigación de Transparencia y Protección de Datos Personales, deberá presentar al Pleno del INFO CDMX, en un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Acuerdo, el proyecto de Reglamento Interno del Centro de Estudios e Investigación en Acceso a la Información Pública, Protección de Datos Personales, Cultura de la Transparencia, Rendición de Cuentas y Anticorrupción, CEICDMX; mismo que deberá ser sometido a discusión y en su caso, aprobación por parte del Pleno de este Instituto.
+
+QUINTO. Se instruye a la Secretaría Técnica para que, en el ámbito de sus atribuciones, realice las gestiones necesarias a efecto que el presente Acuerdo se publique en la Gaceta Oficial de la Ciudad de México, así como en el portal de Internet del Instituto.
+
+SEXTO. Se instruye a la Dirección de Administración y Finanzas, para que, en el ámbito de sus atribuciones realice las gestiones administrativas que así correspondan.
+
+SÉPTIMO. Conforme a lo dispuesto por los artículos 10, 37, 38, 61 a 64 y 65, fracción X, de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México; 8 de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México; 9, 10, 12, fracciones I, II y XV del Reglamento Interior del Instituto y demás disposiciones aplicables, en todo lo no previsto en el presente Acuerdo se estará a lo que determine el Pleno de este Órgano Garante.
