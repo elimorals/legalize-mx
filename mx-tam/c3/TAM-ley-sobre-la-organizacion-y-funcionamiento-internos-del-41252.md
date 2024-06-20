@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2023-12-20"
+last_updated: "2024-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -741,9 +741,9 @@ n) Desarrollo Rural;
 
 o) Turismo;
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2024)</small>
 
-p) Trabajo y Seguridad Social;
+p) Trabajo y Previsión Social;
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2011)</small>
 
@@ -765,9 +765,9 @@ t) Asuntos Fronterizos y Migratorios;
 
 u) Atención a Grupos Vulnerables;
 
-> <small>(REFORMADO, P.O. 25 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2024)</small>
 
-v) Recurso Agua;
+v) Recurso Hidráulico;
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2014)</small>
 
@@ -4206,6 +4206,14 @@ El presente Decreto entrará en vigor a partir de su expedición y deberá publi
 P.O. 20 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-779 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35, NUMERAL 2, INCISO S) DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-859 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 35, NUMERAL 2, INCISOS P) Y V), DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
