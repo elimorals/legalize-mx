@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2024-01-17"
+last_updated: "2024-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2024.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -301,7 +301,9 @@ Las anteriores prerrogativas se concederán independientemente de las vacaciones
 
 Serán días de descanso obligatorio:
 
-1º. de Enero, 5 de Febrero, 21 de Marzo, Miércoles, Jueves y Viernes de Semana Santa, 1º. y 5 Mayo, 16 de Septiembre, 12 de Octubre, 2 y 20 de Noviembre, 21 y 25 de Diciembre, asimismo se consideran como días de descanso obligatorios aquéllos en que correspondan a la toma de posesión de los titulares del Poder Ejecutivo Federal y Estatal.
+> <small>(REFORMADO, B.O. 20 DE JUNIO DE 2024)</small>
+
+1°. de Enero; El primer lunes de febrero en conmemoración del 5 de Febrero; el tercer lunes de marzo en conmemoración del 21 de Marzo; Miércoles, Jueves y Viernes de Semana Santa; 1°. y 5 de Mayo; 16 de Septiembre; 12 de Octubre; 2 de Noviembre; El tercer lunes de noviembre en conmemoración del 20 de noviembre; 21 y 25 de Diciembre, asimismo se consideran como días de descanso obligatorios aquéllos en que correspondan a la toma de posesión de los titulares del Poder Ejecutivo Federal y Estatal.
 
 Los trabajadores no están obligados a prestar sus servicios en los días de descanso obligatorio ni en los días de descanso semanarios salvo por acuerdo del trabajador y patrón y visto bueno por el Sindicato, si se quebranta esta disposición, las dependencias públicas pagarán al trabajador independientemente del salario que le correspondan (sic) por el descanso un doscientos por ciento más.
 
@@ -1734,3 +1736,11 @@ SEGUNDO.- El presente decreto entrará en vigor el 01 de enero del año 2024.
 TERCERO.- A partir de su entrada en vigor, los Titulares de los Poderes del Estado y Municipios contaran con 180 días para el debido cumplimiento de lo establecido en el presente Decreto.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 20 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3041 SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 30 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
