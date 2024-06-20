@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2024-05-28"
+last_updated: "2024-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -985,6 +985,44 @@ Los Agentes Ciudadanos Auxiliares de Tránsito, no podrán imponer sanciones o m
 
 La autoridad de Tránsito Estatal o Municipal deberá comisionar personal oficial a las zonas y en horarios en que se autorice el apoyo de los Agentes Ciudadanos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JUNIO DE 2024)</small>
+
+### CAPITULO XII. DE LA EDUCACIÓN VIAL
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2024)</small>
+
+###### ARTICULO 56.
+
+Las autoridades municipales de tránsito, llevarán a cabo en forma permanente campañas y programas de educación vial, con el objetivo de crear conciencia de corresponsabilidad en la ciudadanía; fomentar hábitos de respeto a la normatividad en la materia; promover el trato preferente que se debe otorgar en las vías de tránsito a las y los peatones reconocidos por esta Ley; impulsar el uso del transporte no motorizado, como la bicicleta, como medida ecológica para propiciar el uso racional del automóvil particular; prevenir accidentes; advertir sobre los riesgos, daños y sanciones por hablar por teléfono celular, textear o utilizar cualquier dispositivo móvil al conducir vehículos motorizados y no motorizados; mejorar la circulación de los vehículos; y, en general, crear las condiciones necesarias tendentes a fin de lograr el bienestar de las y los habitantes del Estado.56
+
+> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2024)</small>
+
+###### ARTICULO 57.
+
+Las campañas y programas de educación vial deberán referirse cuando menos a los siguientes temas:
+
+I.- Uso correcto y adecuado de las vialidades;
+
+II.- Comportamiento y normatividad para el peatón;
+
+III.- Comportamiento y normatividad para el conductor;
+
+IV.- De los riesgos, daños y sanciones por hablar por teléfono celular, textear o utilizar cualquier dispositivo móvil mientras se conduce vehículos motorizados y no motorizados;
+
+V.- Prevención de accidentes y primeros auxilios;
+
+VI.- Dispositivos para el control de tránsito;
+
+VII.- Promoción del uso de medios de transporte no contaminantes como la bicicleta;
+
+VIII.- Conocimientos básicos de esta Ley, su reglamento y los reglamentos de tránsito de los municipios;
+
+IX.- Educación ambiental en relación con el tránsito de vehículos; y
+
+X.- Nociones básicas de mecánica automotriz.
+
+Para garantizar la correcta implementación de lo anterior, las autoridades podrán coadyuvar con los Agentes Ciudadanos Auxiliares de Tránsito.
+
 T R A N S I T O R I O S
 
 ###### ARTICULO PRIMERO.
@@ -1320,3 +1358,11 @@ En un plazo no mayor a sesenta días naturales, contados a partir de la entrada 
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 20 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-857 MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO XII, DENOMINADO “DE LA EDUCACIÓN VIAL”, Y LOS ARTÍCULOS 56 Y 57 A LA LEY DE TRÁNSITO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
