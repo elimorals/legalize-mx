@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2024-04-29"
+last_updated: "2024-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2024 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -973,7 +975,9 @@ VII. Establecer acciones afirmativas para garantizar el derecho a la educación 
 
 VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
 
-IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2024)</small>
+
+IX. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso, violencia sexual, así como de cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite o detecte en los centros educativos;
 
 X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
@@ -2256,6 +2260,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 29 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-839 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXI, DEL ARTÍCULO 89; Y SE ADICIONAN LA FRACCIÓN XXI BIS, AL ARTÍCULO 5; EL ARTÍCULO 39 BIS, Y LA FRACCIÓN XXII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 89, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-858 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 37, PÁRRAFO 3, FRACCIÓN IX, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; Y 277, FRACCIÓN II, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
