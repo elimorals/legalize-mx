@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111244"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2023-07-21"
+last_updated: "2024-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -831,9 +831,9 @@ IV. El tráfico de menores;
 
 V. El trabajo antes de la edad mínima prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 
-> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 20 DE JUNIO DE 2024)</small>
 
-VI. El trabajo en adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental o cualquier clase de explotación laboral, de conformidad con lo dispuesto en la Constitución Federal y en las demás disposiciones aplicables;
+VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental o explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso y la esclavitud, de conformidad con lo dispuesto en la Constitución Federal y en las demás disposiciones aplicables;
 
 VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral, y
 
@@ -842,6 +842,10 @@ VIII. La pornografía impresa que se publicita de manera abierta y sin la cubier
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
 Las autoridades estatales y municipales están obligadas a implementar medidas especiales para prevenir, atender, erradicar y sancionar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+
+> <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2024)</small>
+
+Los miembros de las instituciones policiales en el ámbito de sus respectivas competencias están obligados (sic) adoptar de forma inmediata las medidas de apoyo y protección a niñas, niños y adolescentes, cuando se percaten que estos están desarrollando en la vía pública cualquier forma manifiesta y notoria de trabajo infantil.
 
 ###### Artículo 41.
 
@@ -2432,3 +2436,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Hasta en tanto se cree el Registro Nacional de Obligaciones Alimentarias y para dar cumplimiento a lo dispuesto en la fracción VII del artículo 110 Bis del presente Decreto, el Poder Judicial del Estado de Baja California Sur, deberá expedir la constancia de no ser deudor alimentario moroso.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 20 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3044 SE REFORMA LA FRACCIÓN VI Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 40 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
