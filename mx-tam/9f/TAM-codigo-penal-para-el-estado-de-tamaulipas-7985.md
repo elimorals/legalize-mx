@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2024-06-19"
+last_updated: "2024-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3883,11 +3883,9 @@ Las penas previstas en los Artículos 268, 271, 274 y 275 se aumentarán hasta l
 
 I.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, el amasio o concubino contra los descendientes de su amasia o concubina. Además de la pena de prisión el culpable perderá el derecho de la patria potestad o de tutela que ejerciere sobre la víctima;
 
-(NOTA: EL 8 DE ABRIL DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 95/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 3 DE ABRIL DE 2024, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO No. 65-828, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2024)</small>
-
-II.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerce su profesión, utilizando los medios o circunstancias que ello le proporcione. Además de las penas de prisión el sentenciado será destituido del cargo o empleo O SUSPENDIDO POR EL TÉRMINO DE CINCO AÑOS EN EL EJERCICIO DE DICHA PROFESIÓN;
+II.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión, dicho término se duplicará en el caso de que el delito fuere cometido por profesionistas que se desempeñen en atención o servicio de niñas, niños y adolescentes;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2024)</small>
 
@@ -7610,6 +7608,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 19 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-854 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 337 BIS, PÁRRAFO PRIMERO, FRACCIÓN VI; Y SE ADICIONAN EL CAPÍTULO VI, DENOMINADO “ACECHO”, AL TÍTULO DÉCIMO QUINTO, DEL LIBRO SEGUNDO, Y LOS ARTÍCULOS 318 TER, Y 318 QUATER, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-858 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 37, PÁRRAFO 3, FRACCIÓN IX, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; Y 277, FRACCIÓN II, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
