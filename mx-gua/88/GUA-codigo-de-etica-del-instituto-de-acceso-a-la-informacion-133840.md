@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-instituto-de-acceso-a-la-informacion-133840
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-19"
-last_updated: "2019-02-19"
+last_updated: "2024-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,340 +21,4566 @@ state: "GUA"
 ---
 # CODIGO DE ETICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE GUANAJUATO
 
-CÓDIGO DE ÉTICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE SEPTIEMBRE DE 2017 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-Código publicado en el Periódico Oficial del Estado de Guanajuato, el martes 19 de febrero de 2019.
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 2017.
 
-El Pleno del Instituto de Acceso a la Información Pública para el Estado de Guanajuato y su Órgano Interno de Control, con fundamento en los artículos 159 Ter fracción II, 161 fracción XXXI de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato y 16 de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, así como por el Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, publicado en el Diario Oficial de la Federación el 12 de octubre de 2018; expiden el siguiente:
+Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
-Código de Ética del Instituto de Acceso a la Información Pública para el Estado de Guanajuato.
+El Ciudadano LICENCIADO IGNACIO PICHARDO PAGAZA, Gobernador del Estado Libre y Soberano de México, a sus habitantes sabed:
 
-Disposiciones generales
+Que la Legislatura del Estado, ha tenido a bien aprobar lo siguiente:
+
+DECRETO NUMERO 164
+
+LA H. "LI" LEGISLATURA DEL ESTADO DE MEXICO
+
+D E C R E T A :
+
+LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
+
+## TITULO I. Del Municipio
+
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### Artículo 1.
 
-El presente código tiene por objeto normar la actuación de los servidores públicos que integran el Instituto de Acceso a la Información Pública para el Estado de Guanajuato (en adelante el Instituto), a fin de que su comportamiento se apegue a los principios, valores y directrices del servicio público.
+Esta Ley es de interés público y tiene por objeto regular las bases para la integración y organización del territorio, la población, el gobierno y la administración pública municipales.
 
-Principios rectores del servicio público
+El municipio libre es la base de la división territorial y de la organización política del Estado, investido de personalidad jurídica propia, integrado por una comunidad establecida en un territorio, con un gobierno autónomo en su régimen interior y en la administración de su hacienda pública, en términos del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 2.
 
-Los servidores públicos del Instituto deberán observar en sus actividades los siguientes principios constitucionales y legales:
-
-a) Legalidad. Harán sólo aquello que las normas expresamente les confieren y en todo momento someterán su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su cargo;
-
-b) Honradez. Se conducirán con rectitud, sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal para sí, o a favor de terceros, ni buscar o aceptar compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio;
-
-c) Lealtad. Correspondiendo a la confianza que el Instituto les ha conferido, deberán observar una vocación absoluta de servicio a la sociedad, y satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general institucional;
-
-d) Imparcialidad. Darán a la población en general el mismo trato, no concederán privilegios o preferencias a organizaciones o personas, ni permitirán que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva. De igual manera se conducirán con respeto hacia los compañeros de trabajo, así como con terceros con quienes tengan trato con motivo de la función, con independencia de su raza, sexo, religión, ideología, política, preferencias u otra condición;
-
-e) Eficiencia. Actuarán en apego a los planes y programas institucionales, optimizando el uso y asignación de los recursos públicos en el desarrollo de sus actividades;
-
-f) Economía. Administrarán los recursos públicos, bienes y servicios con legalidad, austeridad, eficacia, eficiencia, economía, transparencia, honradez y disciplina, para satisfacer los objetivos y metas para los cuales están destinados;
-
-g) Disciplina. Desempeñarán sus funciones y atribuciones de manera clara, ordenada y en apego a las disposiciones normativas del Instituto, generando un ambiente laboral de armonía y respeto;
-
-h) Profesionalismo. Atenderán sus responsabilidades individuales apegados a sus conocimientos, aptitudes y habilidades, con una base de respeto con todos los servidores públicos y la ciudadanía, encaminado siempre al logro de las metas institucionales, cumpliendo sus funciones y atribuciones encomendadas por sus superiores y de acuerdo a lo dispuesto por la normatividad;
-
-i) Objetividad. Deberán satisfacer el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general;
-
-j) Transparencia. En el ejercicio de sus funciones, privilegiarán el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generen, obtengan, adquieran, transformen o conserven; y en el ámbito de su competencia, difundirán de manera proactiva información gubernamental, como un elemento que genere valor a la sociedad y promueva un gobierno abierto, protegiendo los datos personales que estén bajo su custodia;
-
-k) Rendición de cuentas. Informarán y justificarán la toma de decisiones, sujetándose a evaluaciones y al escrutinio público en relación a sus funciones;
-
-l) Competencia por mérito. Serán seleccionados de conformidad a sus (sic) capacidad, habilidad y experiencia profesional, garantizando la igualdad de oportunidad, atrayendo a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes;
-
-m) Eficacia. Su actuar será conforme a una cultura de servicio orientada con base a los fines del Instituto y al logro de resultados, de manera responsable y de acuerdo a sus funciones encomendadas y atribuciones señaladas en la normatividad;
-
-n) Integridad. Actuarán siempre de manera congruente con los principios que se deben de observar en el desempeño de un empleo, cargo, comisión o función, convencidos en el compromiso de ajustar su conducta para que impere en su desempeño una ética que responda al interés público y generen certeza plena de su conducta frente a todas las personas con las que se vinculen u observen su actuar;
-
-o) Equidad. Procurarán que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes servicios, recursos y oportunidades.
-
-Catálogo de valores y sus definiciones
+Las autoridades municipales tienen las atribuciones que les señalen los ordenamientos federales, locales y municipales y las derivadas de los convenios que se celebren con el Gobierno del Estado o con otros municipios.
 
 ###### Artículo 3.
 
-Los servidores públicos del Instituto deberán observar en todo momento los siguientes valores:
-
-a) Interés Publico. Actuarán buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva;
-
-b) Respeto. Conducirse con austeridad, sin ostentación y otorgar un trato digno y cordial a las personas en general y a sus compañeros de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propicien el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público;
-
-c) Respeto a los derechos humanos. Deberán respetar los derechos humanos, en el ámbito de sus competencias y atribuciones, los garantizaran, promoverán y protegerán de conformidad con los principios de: Universalidad, que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo; de Interdependencia, que implica que los derechos humanos se encuentran vinculados íntimamente entre sí; de Indivisibilidad, que refiere que los derechos humanos conforman una totalidad de tal forma que son complementarios e inseparables, y de Progresividad, que prevé que los derechos humanos están en constante evolución y bajo ninguna circunstancia se justifica un retroceso en su protección;
-
-d) Igualdad y no discriminación. Prestarán sus servicios a todas las personas sin distinción, exclusión, restricción o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o por cualquier otro motivo;
-
-e) Equidad de género. Garantizarán que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades, a los bienes y servicios públicos y a los programas, beneficios institucionales y cargos;
-
-f) Entorno cultural y ecológico. Mantendrán una cultura de defensa y preservación del medio ambiente, y en el ejercicio de sus funciones y conforme a sus atribuciones, promoverán en la sociedad la protección y conservación de la cultura y el medio ambiente;
-
-g) Cooperación. Colaborarán entre sí y propiciarán el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas del Instituto, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de los ciudadanos en sus instituciones;
-
-h) Liderazgo. Serán guía, ejemplo y promotores del Código de Ética; fomentarán y aplicarán en el desempeño de sus funciones, los principios que la Constitución y las leyes les impongan, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
-
-Reglas de integridad
+Los municipios del Estado regularán su funcionamiento de conformidad con lo que establece esta Ley, los Bandos municipales, reglamentos y demás disposiciones legales aplicables.
 
 ###### Artículo 4.
 
-Los servidores públicos del Instituto deberán actuar bajo las directrices siguientes:
-
-a) Actuación pública. Actuar de manera honesta, responsable, legal y transparente, con la finalidad de generar confianza en la sociedad hacia la institución de conformidad a lo siguiente:
-
-1. Informando al superior jerárquico y/o al Órgano Interno de Control (en adelante OIC) sobre cualquier acto u omisión del que tenga conocimiento;
-
-2. Abstenerse de manifestaciones verbales, escritas o de cualquier tipo, que resulten ofensivas o degradantes, con la finalidad de salvaguardar la sana convivencia;
-
-3. Evitar cualquier tipo de violencia de género (sexual, física, psicológica o laboral) o cualquier conducta que atente contra la confianza que una persona tiene en su propia dignidad, generando un ambiente libre de violencia, respetando en todo momento la equidad de género, la no discriminación y las garantías de las personas;
-
-4. Abstenerse de realizar conductas negligentes que pongan en riesgo su propia integridad o la de terceros;
-
-5. Abstenerse de cualquier acción u omisión en el desarrollo de sus funciones oficiales que impliquen entre otros:
-
-i. Un acto deshonesto o fraudulento;
-
-ii. La falsificación o alteración de riesgos de información, documentación o cuentas;
-
-iii. El ejercicio indebido de fondos, suministro u otros bienes;
-
-iv. Uso deliberado de información falsa;
-
-v. Uso del cargo para obtener beneficios indebidos o nepotismo;
-
-vi. Favorecer o ayudar a otras personas u organizaciones a cambio o bajo la promesa de recibir dinero, dádivas, obsequios, regalos o beneficios personales o para terceros;
-
-vii. Ignorar las recomendaciones de los organismos públicos protectores de los derechos humanos y de prevención de la discriminación, u obstruir alguna investigación por violaciones en esta materia;
-
-viii. Ignorar las recomendaciones de los organismos públicos protectores de los derechos humanos y de prevención de la discriminación, u obstruir alguna investigación por violaciones en esta materia; (sic)
-
-ix. Hacer proselitismo en su jornada laboral y orientar su desempeño laboral hacia preferencias político-electorales;
-
-x. Utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los asignados;
-
-xi. Obstruir la presentación de denuncias administrativas, civiles o penales, por parte de compañeros de trabajo, subordinados o de ciudadanos en general;
-
-xii. Actuar como abogado o procurador en juicios de carácter penal, civil, mercantil o laboral que se promuevan en contra de instituciones públicas de cualquiera de los tres órdenes y niveles de gobierno;
-
-xiii. Obstruir u obstaculizar la generación de soluciones a dificultades que se presenten para la consecución de las metas previstas en los planes y programas gubernamentales.
-
-b) Información pública. El servidor público se conducirá bajo el principio de transparencia y resguardara la documentación e información que tiene bajo su responsabilidad, además de no realizar lo siguiente:
-
-1. Asumir actitudes intimidatorias frente a las personas que requieren de orientación para la presentación de una solicitud de acceso a información pública;
-
-2. Retrasar de manera negligente las actividades que permitan atender de forma ágil y expedita las solicitudes de acceso a información pública;
-
-3. Declarar la incompetencia para la atención de una solicitud de acceso a la información pública, a pesar de contar con atribuciones o facultades legales o normativas;
-
-4. Declarar la inexistencia de información o documentación pública, sin realizar una búsqueda exhaustiva en los expedientes y archivos institucionales bajo su resguardo;
-
-5. Alterar, ocultar o eliminar de manera deliberada la información pública;
-
-6. Permitir o facilitar la sustracción, destrucción o inutilización indebida, de información o documentación pública;
-
-7. Proporcionar indebidamente documentación e información confidencial o reservada;
-
-8. Utilizar, con fines lucrativos las bases de datos a las que tenga acceso o que haya obtenido con motivo de su empleo, cargo, comisión o funciones;
-
-9. Obstaculizar las actividades para la identificación, generación, procesamiento, difusión y evaluación de la información en materia de transparencia proactiva y gobierno abierto;
-
-10. Difundir información pública en materia de transparencia proactiva y gobierno abierto en formatos que, de manera deliberada, no permitan su uso, reutilización o redistribución por cualquier interesado.
-
-c) Contrataciones públicas. El servidor público que participe en contrataciones públicas o en el otorgamiento y prórroga de contratos, se conducirá con transparencia, imparcialidad y legalidad; orientará sus decisiones a las necesidades e intereses del Instituto, garantizando las mejores condiciones, evitando:
-
-1. Dejar de aplicar el principio de equidad de la competencia que debe prevalecer entre los participantes dentro de los procedimientos de contratación;
-
-2. Formular requerimientos diferentes a los estrictamente necesarios para el cumplimiento del servicio público, provocando gastos excesivos e innecesarios;
-
-3. Establecer condiciones en las invitaciones o convocatorias que representen ventajas o den un trato diferenciado a los licitantes y dar por satisfechos los requisitos o reglas previstos en las invitaciones o convocatorias cuando no lo están; simulando el cumplimiento de éstos o coadyuvando a su cumplimiento extemporáneo;
-
-4. Proporcionar de manera indebida información de los particulares que participen en los procedimientos de contrataciones públicas;
-
-5. Influir en las decisiones de otros servidores públicos para que se beneficie a un participante en los procedimientos de contratación;
-
-6. Evitar imponer sanciones a licitantes, proveedores y contratistas que infrinjan las disposiciones jurídicas aplicables;
-
-7. Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento o prórroga de contratos;
-
-d) Programas Gubernamentales. Todos los servidores públicos tendrán derecho a participar de los beneficios o estímulos que se contemplan en los Lineamientos Generales para la Administración de los Recursos Humanos del Instituto de Acceso a la Información Pública para el Estado de Guanajuato, para sí o para sus descendientes, apegándose siempre a los principios de legalidad e imparcialidad. Por lo que en ningún caso se deberán realizar las siguientes conductas:
-
-1. Discriminar a cualquier servidor público que esté interesado en obtener los beneficios que se otorgan por parte del Instituto;
-
-2. No proporcionar la información o negar el otorgamiento de los apoyos o estímulos que se contemplan en los Lineamientos mencionados, para sí o para sus dependientes;
-
-3. Dar trámite a la recepción de los documentos o realizar las gestiones para el otorgamiento del apoyo o estimulo, sin que se cuente con la documentación exigida.
-
-e) Trámites y servicios. El servidor público se conducirá al momento de la prestación de trámites y otorgamiento de servicios, de forma respetuosa, eficiente, oportuna, responsable e imparcial, evitando:
-
-1. Otorgar información falsa sobre el proceso y requisitos para acceder a consultas, trámites, gestiones y servicios;
-
-2. Realizar trámites y otorgar servicios de forma deficiente, retrasando los tiempos de respuesta, consultas, trámites, gestiones y servicios;
-
-3. Exigir, por cualquier medio, requisitos o condiciones adicionales a los señalados por las disposiciones jurídicas que regulan los trámites y servicios;
-
-4. Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión que se realice para el otorgamiento del trámite o servicio.
-
-f) Recursos humanos. El servidor público que participe en procedimientos de recursos humanos, de planeación de estructuras, se apegará en todo momento a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas, evitando incurrir en las siguientes conductas:
-
-1. Seleccionar, contratar, nombrar o designar a personas, que se encuentren impedidas por disposición legal o inhabilitadas por resolución de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
-
-2. Seleccionar, contratar, nombrar o designar a personas que no cuenten con el perfil del puesto, con los requisitos y documentos establecidos, o que no cumplan con las obligaciones que las leyes impongan a todo ciudadano;
-
-3. Dejar de garantizar la igualdad de oportunidades en el ingreso al servicio público del Instituto, con base en el mérito;
-
-4. Proporcionar a un tercero no autorizado, información contenida en expedientes del personal o en archivos de recursos humanos bajo su resguardo;
-
-5. Disponer del personal a su cargo en forma indebida, para que le realice trámites, asuntos o actividades de carácter personal o familiar ajenos al servicio público;
-
-6. Presentar información y documentación falsa o que induzca al error, sobre el cumplimiento de metas de su evaluación del desempeño;
-
-7. Evitar que el proceso de evaluación al desempeño de los servidores públicos se realice en forma objetiva y en su caso, dejar de retroalimentar sobre los resultados obtenidos cuando el desempeño del servidor público sea contrario a lo esperado;
-
-8. Los bienes o servicios ofrecidos a los servidores públicos del Instituto, como parte del protocolo (tales como comidas de cortesía, artículos conmemorativos, regalos de fin de año), deberán rechazarse si se presenta alguna de las siguientes situaciones:
-
-i. Cuando el propósito sea influir en las decisiones oficiales del servidor público, cualquiera que sea su función;
-
-ii. Cuando no se encuentre dentro de los estándares de cortesía, de hospitalidad o protocolo del evento;
-
-iii. Cuando se trate de dinero en efectivo;
-
-iv. Cuando sobrepasen un valor de $1,000.00 (Un mil pesos 00/100 M.N.).
-
-g) Administración de bienes muebles e inmuebles. El servidor público que participe en procedimientos de baja, enajenación, transferencia o destrucción de bienes muebles o de administración de bienes inmuebles, administrará los recursos con eficiencia, transparencia y honradez para satisfacer los objetivos a los que estén destinados. Por lo que no deberán tener las conductas siguientes:
-
-1. Disponer de los bienes y demás recursos públicos, sin observar las normas a los que se encuentran afectos o destinarlos a fines distintos al servicio público;
-
-2. Incumplir con las disposiciones administrativas que emita el Instituto, en cuanto al uso de vehículos oficiales;
-
-3. Tomar decisiones en los procedimientos de enajenación de bienes muebles e inmuebles, anteponiendo intereses particulares que dejen de asegurar las mejores condiciones en cuanto a precio disponible en el mercado;
-
-4. Solicitar la baja, enajenación, transferencia o destrucción de bienes, de manera injustificada;
-
-5. Compartir información con terceros ajenos a los procedimientos de baja, enajenación, transferencia o destrucción de bienes públicos, o sustituir documentos, o alterar éstos;
-
-6. Recibir o solicitar cualquier tipo de compensación, dádiva, obsequio o regalo, a cambio de beneficiar a los participantes en los procedimientos de enajenación de bienes muebles e inmuebles;
-
-7. Intervenir o influir en las decisiones de otros servidores públicos para que se beneficie a algún participante en los procedimientos de enajenación de bienes muebles e inmuebles;
-
-8. Manipular la información proporcionada por los particulares en los procedimientos de enajenación de bienes muebles e inmuebles.
-
-h) Procesos de evaluación. Todo servidor público que participe en procesos de evaluación deberá apegarse a los principios de legalidad, imparcialidad y rendición de cuentas, no debiendo llevar a cabo lo enunciado:
-
-1. Proporcionar indebidamente la información contenida en los sistemas de información del Instituto, o acceder a estos por causas distintas al ejercicio de sus funciones y facultades;
-
-2. Transgredir el alcance y orientación de los resultados de las evaluaciones que realice cualquier instancia externa o interna en materia de evaluación o rendición de cuentas;
-
-3. Dejar de atender las recomendaciones formuladas por cualquier instancia de evaluación, ya sea interna o externa;
-
-4. Alterar registros de cualquier índole que modifiquen los resultados de las funciones, programas, metas y proyectos institucionales;
-
-5. No realizar las evaluaciones, la retroalimentación o promover inconformidades a las evaluaciones sin causa justificada.
-
-i) Control interno. El servidor público que participe en procesos en materia de control interno, genere, obtenga, utilice o comunique información suficiente, oportuna, confiable y de calidad; deberá adherirse a los principios de legalidad, imparcialidad y rendición de cuentas y evitará las siguientes conductas:
-
-1. Ejecutar sus funciones sin establecer las medidas de control que correspondan;
-
-2. Generar información financiera, presupuestaria y de operación sin el respaldo suficiente o comunicar información incompleta, incorrecta o indebida;
-
-3. No documentar todos los procesos en que se participe de acuerdo a sus funciones;
-
-4. Dejar de comunicar los riesgos asociados al incumplimiento de objetivos institucionales, así como los relacionados con corrupción y posibles irregularidades que afecten los recursos, bienes muebles e inmuebles y servicios públicos;
-
-5. Incumplir los planes, programas y proyectos; modificar procesos y tramos de control a su cargo o sin previa autorización;
-
-6. Dejar de salvaguardar documentos e información que se deban conservar por su relevancia o por sus aspectos técnicos, jurídicos, económicos o de seguridad;
-
-7. Dejar de adoptar mejores prácticas y procesos para evitar la corrupción y prevenir cualquier conflicto de interés;
-
-8. Inhibir las propuestas que tiendan a mejorar o superar deficiencias de operación, de los procesos, de calidad, de trámites y servicios, o de comportamiento ético de los servidores públicos;
-
-9. Eludir establecer estándares de actuación en los trámites o servicios de atención directa a la ciudadanía o dejar de observar los que apliquen.
-
-j) Procedimiento administrativo. El servidor público que tenga conocimiento de conductas de violencia de género, de aquellos que deriven una posible responsabilidad administrativa o actos de corrupción, actuará bajo los principios de legalidad, honradez, imparcialidad, objetividad e integridad, debiendo no tener conductas que deriven en:
-
-1. La omisión de denuncia o queja ante la autoridad competente y obstrucción a la presentación de denuncias sobre el uso indebido de recursos públicos que impidan o propicien la rendición de cuentas;
-
-2. Evitar por cualquier medio el inicio u obstaculización del proceso o de sus consecuencias;
-
-3. Dejar de otorgar la oportunidad de ofrecer pruebas;
-
-4. Prescindir el desahogo de pruebas en que se finque la defensa;
-
-5. Excluir la oportunidad de presentar alegatos;
-
-6. Omitir señalar los medios de defensa que se pueden interponer para combatir la resolución dictada;
-
-7. No proporcionar o negar documentación o información que la autoridad competente y/o el OIC requiera para el ejercicio de sus funciones o evitar colaborar con éstos en sus actividades.
-
-k) Desempeño permanente con integridad. Todo servidor público del Instituto deberá conducirse de acuerdo a los principios de legalidad, imparcialidad, objetividad, transparencia e integridad y de la siguiente manera:
-
-1. Conducirse con un trato digno y cordial, para la atención de los servidores públicos al interior del Instituto y con la ciudadanía;
-
-2. Realizar actividades particulares en horarios de trabajo que contravengan las medidas aplicables para el uso eficiente, transparente y eficaz de los recursos públicos;
-
-3. Omitir excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar, de negocios, o cualquier otro en el que tenga algún conflicto de interés;
-
-4. Evitar conducirse con criterios de sencillez, austeridad y uso adecuado de los bienes y medios que disponga con motivo del ejercicio del cargo público;
-
-5. Recibir, solicitar o aceptar cualquier tipo de compensación, dádiva, obsequio o regalo en la gestión y otorgamiento de trámites y servicios.
-
-l) Cooperación con la integridad. Todo servidor coadyuvara con velar el actuar de todos los integrantes del IACIP sea de acuerdo a los principios y valores, indicados en el presente Código, por lo que podrá:
-
-1. Recomendar y proponer mejores prácticas;
-
-2. Detectar conductas anti-éticas, áreas de oportunidad y vulnerables de conductas de corrupción;
-
-3. Cuidar la apariencia y vestimenta que no sea contraria a la imagen que proyecta el Instituto;
-
-4. Cuidar la imagen institucional evitando acudir a comidas o eventos donde se consuman bebidas embriagantes alcohólicas portando el uniforme institucional;
-
-5. Cumplir con la política de comunicación social que se dicte en el interior del Instituto, absteniéndose de formular declaraciones que afecten la credibilidad o reputación de la Institución o pueda generar interpretaciones equívocas de sus actuaciones.
-
-m) Comportamiento digno. Todo servidor deberá evitar dirigirse con un lenguaje ofensivo, denigrante, a gritos o realizar acciones de hostigamiento o acoso sexual, además de abstenerse de incurrir en las siguientes conductas:
-
-1. Expresar comentarios, burlas, humillaciones o bromas a cualquier persona;
-
-2. Realizar invitaciones o insinuaciones de carácter sexual.
-
-Mecanismos de capacitación y difusión
+La creación y supresión de municipios, la modificación de su territorio, cambios en su denominación o ubicación de sus cabeceras municipales, así como la solución de conflictos sobre límites intermunicipales, corresponden a la Legislatura del Estado.
 
 ###### Artículo 5.
 
-El OIC del Instituto llevará a cabo la capacitación dirigida a los servidores públicos que lo integran, a fin de que cuenten con el conocimiento del contenido del presente Código de Ética.
+Para el eficaz cumplimiento de sus funciones, los ayuntamientos podrán coordinarse entre si y con las autoridades estatales; y en su caso, con las autoridades federales, en los términos que señala la Constitución Política de los Estados Unidos Mexicanos.
 
-El Instituto publicará en su página institucional, el contenido del presente Código, así como el OIC lo hará de conocimiento a todo el personal del Instituto.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE JULIO DE 2003)</small>
 
-## Artículos Transitorios.
+###### Artículo 6.
 
-Vigencia
+Los municipios del Estado son 125, con la denominación y cabeceras municipales que a continuación se especifican:
 
-Artículo Primero. El presente Código de Etica estará vigente a partir del día siguiente al de su aprobación.
+MUNICIPIO CABECERA MUNICIPAL
 
-Abrogación de código anterior
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2012)</small>
 
-Artículo Segundo. Se abroga el Código de Ética del Instituto de Acceso a la Información Pública para el Estado de Guanajuato publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 166, Segunda Parte, de fecha 20 de agosto de 2018.
+ACAMBAY DE RUIZ CASTAÑEDA VILLA DE ACAMBAY DE RUIZ CASTAÑEDA
 
-Difusión oficial
+ACOLMAN ACOLMAN DE
 
-Artículo Tercero. Se instruye a la Dirección de Asuntos Jurídicos del Instituto de Acceso a la Información Pública para el Estado de Guanajuato, realice los trámites necesarios para la publicación del presente Código en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+NEZAHUALCOYOTL
 
-Dado en la sede del Instituto de Acceso a la Información Pública para el Estado de Guanajuato, en León, Guanajuato, a los 29 veintinueve días del mes de enero de 2019 dos mil diecinueve.
+ACULCO ACULCO DE ESPINOZA
 
-Lic. Ma. De los Angeles Ducoing Valdepeña
+ALMOLOYA DE ALQUISIRAS ALMOLOYA DE ALQUISIRAS
 
-Comisionada Presidente
+ALMOLOYA DE JUAREZ VILLA DE ALMOLOYA
 
-Lic. Ángela Lorena Vela Cervantes
+DE JUAREZ
 
-Comisionada
+ALMOLOYA DEL RIO ALMOLOYA DEL RIO
 
-C.P. Erudices Galván Zavala
+AMANALCO AMANALCO DE BECERRA
 
-Titular del Órgano Interno de Control
+AMATEPEC AMATEPEC
 
-Lic. José Andrés Rizo Marín
+AMECAMECA AMECAMECA DE JUAREZ
 
-Secretario General de Acuerdos
+APAXCO APAXCO DE OCAMPO
+
+ATENCO SAN SALVADOR ATENCO
+
+ATIZAPAN SANTA CRUZ ATIZAPAN
+
+ATIZAPAN DE ZARAGOZA CIUDAD LOPEZ MATEOS
+
+ATLACOMULCO ATLACOMULCO DE FABELA
+
+ATLAUTLA ATLAUTLA DE VICTORIA
+
+AXAPUSCO AXAPUSCO
+
+AYAPANGO AYAPANGO DE GABRIEL
+
+RAMOS M.
+
+CALIMAYA CALIMAYA DE DIAZ
+
+GONZALEZ
+
+CAPULHUAC CAPULHUAC DE MIRAFUENTES
+
+COACALCO DE BERRIOZABAL SAN FRANCISCO COACALCO
+
+COATEPEC HARINAS COATEPEC HARINAS
+
+COCOTITLAN COCOTITLAN
+
+COYOTEPEC COYOTEPEC
+
+CUAUTITLAN CUAUTITLAN
+
+> <small>(REFORMADO, G.G. 11 DE NOVIEMBRE DE 2014)</small>
+
+CUAUTITLÁN IZCALLI CIUDAD CUAUTITLÁN IZCALLI
+
+CHALCO CHALCO DE DIAZ
+
+COVARRUBIAS
+
+CHAPA DE MOTA CHAPA DE MOTA
+
+CHAPULTEPEC CHAPULTEPEC
+
+CHIAUTLA CHIAUTLA
+
+CHICOLOAPAN CHICOLOAPAN DE JUAREZ
+
+CHICONCUAC CHICONCUAC DE JUAREZ
+
+CHIMALHUACAN CHIMALHUACAN
+
+DONATO GUERRA VILLA DONATO GUERRA
+
+ECATEPEC DE MORELOS ECATEPEC DE MORELOS
+
+ECATZINGO ECATZINGO DE HIDALGO
+
+EL ORO EL ORO DE HIDALGO
+
+HUEHUETOCA HUEHUETOCA
+
+HUEYPOXTLA HUEYPOXTLA
+
+HUIXQUILUCAN HUIXQUILUCAN DE
+
+DEGOLLADO
+
+ISIDRO FABELA TLAZALA DE FABELA
+
+IXTAPALUCA IXTAPALUCA
+
+IXTAPAN DE LA SAL IXTAPAN DE LA SAL
+
+IXTAPAN DEL ORO IXTAPAN DEL ORO
+
+IXTLAHUACA IXTLAHUACA DE RAYON
+
+JALTENCO JALTENCO
+
+JILOTEPEC JILOTEPEC DE MOLINA
+
+ENRIQUEZ
+
+JILOTZINGO SANTA ANA JILOTZINGO
+
+JIQUIPILCO JIQUIPILCO
+
+> <small>(REFORMADO, G.G. 26 DE NOVIEMBRE DE 2013)</small>
+
+JOCOTITLAN CIUDAD DE JOCOTITLÁN
+
+JOQUICINGO JOQUICINGO DE
+
+LEON GUZMAN
+
+JUCHITEPEC JUCHITEPEC DE MARIANO
+
+RIVAPALACIO
+
+LA PAZ LOS REYES ACAQUILPAN
+
+LERMA LERMA DE VILLADA
+
+LUVIANOS VILLA LUVIANOS
+
+MALINALCO MALINALCO
+
+MELCHOR OCAMPO MELCHOR OCAMPO
+
+METEPEC METEPEC
+
+MEXICALTZINGO SAN MATEO MEXICALTZINGO
+
+MORELOS SAN BARTOLO MORELOS
+
+NAUCALPAN DE JUAREZ NAUCALPAN DE JUAREZ
+
+NEXTLALPAN SANTA ANA NEXTLALPAN
+
+NEZAHUALCOYOTL CIUDAD NEZAHUALCOYOTL
+
+> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+NICOLAS ROMERO CIUDAD NICOLÁS ROMERO
+
+NOPALTEPEC NOPALTEPEC
+
+OCOYOACAC OCOYOACAC
+
+OCUILAN OCUILAN DE ARTEAGA
+
+OTZOLOAPAN OTZOLOAPAN
+
+OTZOLOTEPEC VILLA CUAUHTEMOC
+
+OTUMBA OTUMBA DE GOMEZ FARIAS
+
+OZUMBA OZUMBA DE ALZATE
+
+PAPALOTLA PAPALOTLA
+
+POLOTITLAN POLOTITLAN DE LA
+
+ILUSTRACION
+
+RAYON SANTA MARIA RAYON
+
+SAN ANTONIO LA ISLA SAN ANTONIO LA ISLA
+
+SAN FELIPE DEL PROGRESO SAN FELIPE DEL
+
+PROGRESO
+
+SAN JOSE DEL RINCÓN SAN JOSE DEL RINCÓN
+
+CENTRO
+
+SAN MARTIN DE LAS SAN MARTIN DE LAS
+
+PIRAMIDES
+
+SAN MATEO ATENCO SAN MATEO ATENCO
+
+SAN SIMON DE GUERRERO SAN SIMON DE GUERRERO
+
+SANTO TOMAS SANTO TOMAS DE LOS
+
+PLATANOS
+
+SOYANIQUILPAN DE JUAREZ SAN FRANCISCO
+
+SOYANIQUILPAN
+
+SULTEPEC SULTEPEC DE PEDRO
+
+ASCENCIO DE ALQUISIRAS
+
+TECAMAC TECAMAC DE FELIPE
+
+VILLANUEVA
+
+TEJUPILCO TEJUPILCO DE HIDALGO
+
+TEMAMATLA TEMAMATLA
+
+TEMASCALAPA TEMASCALAPA
+
+TEMASCALCINGO TEMASCALCINGO DE
+
+JOSE MARIA VELASCO
+
+TEMASCALTEPEC TEMASCALTEPEC DE
+
+GONZALEZ
+
+TEMOAYA TEMOAYA
+
+TENANCINGO TENANCINGO DE
+
+DEGOLLADO
+
+TENANGO DEL AIRE TENANGO DEL AIRE
+
+TENANGO DEL VALLE TENANGO DE ARISTA
+
+TEOLOYUCAN TEOLOYUCAN
+
+TEOTIHUACAN TEOTIHUACAN DE ARISTA
+
+TEPETLAOXTOC TEPETLAOXTOC DE
+
+HIDALGO
+
+TEPETLIXPA TEPETLIXPA
+
+TEPOTZOTLAN TEPOTZOTLAN
+
+TEQUIXQUIAC TEQUIXQUIAC
+
+TEXCALTITLAN TEXCALTITLAN
+
+TEXCALYACAC SAN MATEO TEXCALYACAC
+
+TEXCOCO TEXCOCO DE MORA
+
+TEZOYUCA TEZOYUCA
+
+TIANGUISTENCO SANTIAGO TIANGUISTENCO
+
+DE GALEANA
+
+TIMILPAN SAN ANDRES TIMILPAN
+
+TLALMANALCO TLALMANALCO DE
+
+VELAZQUEZ
+
+TLALNEPANTLA DE BAZ TLALNEPANTLA
+
+TLATLAYA TLATLAYA
+
+TOLUCA TOLUCA DE LERDO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 29 DE JULIO DE 2003)</small>
+
+TONANITLA SANTA MARIA TONANITLA
+
+TONATICO TONATICO
+
+TULTEPEC TULTEPEC
+
+TULTITLAN TULTITLAN DE MARIANO
+
+ESCOBEDO
+
+VALLE DE BRAVO VALLE DE BRAVO
+
+VALLE DE CHALCO XICO
+
+SOLIDARIDAD
+
+VILLA DE ALLENDE SAN JOSE VILLA DE ALLENDE
+
+VILLA DEL CARBON VILLA DEL CARBON
+
+VILLA GUERRERO VILLA GUERRERO
+
+VILLA VICTORIA VILLA VICTORIA
+
+XALATLACO XALATLACO
+
+XONACATLAN XONACATLAN
+
+ZACAZONAPAN ZACAZONAPAN
+
+ZACUALPAN ZACUALPAN
+
+ZINACANTEPEC SAN MIGUEL ZINACANTEPEC
+
+ZUMPAHUACAN ZUMPAHUACAN
+
+ZUMPANGO ZUMPANGO DE OCAMPO
+
+### CAPITULO SEGUNDO. Organización Territorial
+
+###### Artículo 7.
+
+La extensión territorial de los municipios del Estado, comprenderá la superficie y límites reconocidos para cada uno de ellos.
+
+###### Artículo 8.
+
+La división territorial de los municipios se integra por la cabecera municipal, y por las delegaciones, subdelegaciones, colonias, sectores y manzanas, con la denominación, extensión y límites que establezcan los ayuntamientos.
+
+###### Artículo 9.
+
+Las localidades establecidas dentro del territorio de los municipios podrán tener las siguientes categorías políticas:
+
+I. CIUDAD: Localidades con más de quince mil habitantes, servicios públicos, servicios médicos, equipamiento urbano; hospital, mercado, rastro, cárcel y panteón; instituciones bancarias, industriales, comerciales y agrícolas; y centros educativos de enseñanza preescolar, primaria, media y media superior;
+
+II. VILLA: Localidades entre cinco mil y quince mil habitantes, servicios públicos, servicios médicos, equipamiento urbano; hospital, mercado, cárcel y panteón; y centros educativos de enseñanza primaria y media superior;
+
+III. PUEBLO: Localidades entre mil y cinco mil habitantes, servicios públicos indispensables, cárcel y panteón; y centros educativos de enseñanza primaria;
+
+IV. RANCHERIA: Localidades entre quinientos y mil habitantes, edificios para escuela rural, delegación o subdelegación municipal;
+
+V. CASERIO: Localidad de hasta quinientos habitantes.
+
+El ayuntamiento podrá acordar o promover en su caso la modificación de categoría política de una localidad, cuando ésta cuente con el número de habitantes indicado.
+
+###### Artículo 10.
+
+Las localidades podrán oficialmente ser elevadas a la categoría política de ciudad mediante la declaración de la Legislatura a promoción del Ayuntamiento.
+
+###### Artículo 11.
+
+Los municipios estarán facultados para aprobar y administrar la zonificación de su municipio, así como para participar en la creación y administración de sus reservas territoriales y ecológicas.
+
+###### Artículo 12.
+
+Los municipios controlarán y vigilarán, coordinada y concurrentemente con el Gobierno del Estado, la utilización del suelo en sus jurisdicciones territoriales, en los términos de la ley de la materia y los Planes de Desarrollo Urbano correspondientes.
+
+### CAPITULO TERCERO. Población
+
+###### Artículo 13.
+
+Son habitantes del municipio, las personas que residan habitual o transitoriamente dentro de su territorio.
+
+###### Artículo 14.
+
+Los habitantes del municipio adquieren la categoría de vecinos por:
+
+I. Tener residencia efectiva en el territorio del municipio por un período no menor de seis meses.
+
+II. Manifestar expresamente ante la autoridad municipal el deseo de adquirir la vecindad.
+
+La categoría de vecino se pierde por ausencia de más de seis meses del territorio municipal o renuncia expresa.
+
+La vecindad en un municipio no se perderá cuando el vecino se traslade a residir a otro lugar, en función del desempeño de un cargo de elección popular o comisión de carácter oficial.
+
+## TITULO II. De los Ayuntamientos
+
+### CAPITULO PRIMERO. Integración e Instalación de los Ayuntamientos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE OCTUBRE DE 2008)</small>
+
+###### Artículo 15.
+
+Cada municipio será gobernado por un ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+
+> <small>(REFORMADO, G.G. 11 DE SEPTIEMBRE DE 1997)</small>
+
+Los integrantes de los ayuntamientos de elección popular deberán cumplir con los requisitos previstos por la ley, y no estar impedidos para el desempeño de sus cargos, de acuerdo con los artículos 119 y 120 de la Constitución Política del Estado Libre y Soberano de México y se elegirán conforme a los principios de mayoría relativa y de representación proporcional, con dominante mayoritario.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
+
+###### Artículo 16.
+
+Los Ayuntamientos se renovarán cada tres años, iniciarán su periodo el 1 de enero del año inmediato siguiente al de las elecciones municipales ordinarias y concluirán el 31 de diciembre del año de las elecciones para su renovación; y se integrarán por:
+
+> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
+
+I. Un presidente, un síndico y seis regidores, electos por planilla según el principio de mayoría relativa y hasta cuatro regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de menos de 150 mil habitantes;
+
+> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
+
+II. Un presidente, un síndico y siete regidores, electos por planilla según el principio de mayoría relativa y hasta seis regidores designados según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 150 mil y menos de 500 mil habitantes;
+
+> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
+
+III. Un presidente, dos síndicos y nueve regidores, electos por planilla según el principio de mayoría relativa. Habrá un síndico y hasta siete regidores según el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de 500 mil y menos de un millón de habitantes; y
+
+> <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
+
+IV. Un presidente, dos síndicos y once regidores, electos por planilla según el principio de mayoría relativa y un síndico y hasta ocho regidores designados por el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de un millón de habitantes.
+
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2014)</small>
+
+###### Artículo 17.
+
+Dentro de los primeros cinco días hábiles del mes de diciembre de cada año, el ayuntamiento se constituirá solemnemente en cabildo, a efecto de que el presidente municipal rinda un informe por escrito y en medio electrónico del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio.
+
+Dicho informe se publicará en la página oficial, en la Gaceta Municipal y en los estrados de la Secretaría del ayuntamiento para su consulta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2012)</small>
+
+###### Artículo 18.
+
+Una vez rendidos los informes de los ayuntamientos en funciones, previa convocatoria a sesión solemne, deberán presentarse los ciudadanos que en términos de ley resultaron electos para rendir protesta y ocupar los cargos de presidente municipal, síndico o síndicos y regidores, sin que dicho plazo exceda el mes de diciembre del último año de la gestión del ayuntamiento saliente.
+
+La reunión tendrá por objeto:
+
+I. Que los miembros del ayuntamiento entrante, rindan la protesta en términos de lo dispuesto por el artículo 144 de la Constitución Política del Estado Libre y Soberano de México. El presidente municipal electo para el período siguiente lo hará ante el representante designado por el Ejecutivo del Estado y a su vez, hará de inmediato lo propio con los demás miembros del ayuntamiento electo;
+
+II. Que los habitantes del municipio conozcan los lineamientos generales del plan y programas de trabajo del ayuntamiento entrante, que será presentado por el presidente municipal.
+
+> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2012)</small>
+
+El Ayuntamiento brindará las facilidades necesarias a fin de que se lleve a cabo la toma de protesta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
+
+###### Artículo 19.
+
+A las nueve horas del día 1 de enero del año inmediato siguiente a aquel en que se hayan efectuado las elecciones municipales, el ayuntamiento saliente dará posesión de las oficinas municipales a los miembros del ayuntamiento entrante, que hubieren rendido la protesta de ley, cuyo presidente municipal hará la siguiente declaratoria formal y solemne: "Queda legítimamente instalado el ayuntamiento del municipio de..., que deberá funcionar durante los años de...".
+
+> <small>(ADICIONADO, G.G. 16 DE AGOSTO DE 2011)</small>
+
+La inasistencia de los integrantes del ayuntamiento saliente no será obstáculo para que se dé por instalado el entrante, sin perjuicio de las sanciones que establezcan las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, G.G. 3 DE DICIEMBRE DE 2015)</small>
+
+A continuación se procederá a la suscripción de las actas y demás documentos relativos a la entrega-recepción de la administración municipal, con la participación de los miembros de los ayuntamientos y los titulares de sus dependencias administrativas salientes y entrantes, designados al efecto; la cual se realizará siguiendo los lineamientos, términos, instructivos, formatos, cédulas y demás documentación que disponga el Órgano Superior de Fiscalización del Estado de México, para el caso, misma que tendrá en ese acto, la intervención que establezcan las leyes. La documentación que se señala anteriormente deberá ser conocida en la primera sesión de Cabildo por los integrantes del Ayuntamiento a los cuales se les entregará copia de la misma. El ayuntamiento saliente, a través del presidente municipal, presentará al ayuntamiento entrante, con una copia para la Legislatura, un documento que contenga sus observaciones, sugerencias y recomendaciones en relación a la administración y gobierno municipal.
+
+> <small>(ADICIONADO, G.G. 3 DE DICIEMBRE DE 2015)</small>
+
+La inasistencia de alguno de los integrantes del ayuntamiento saliente o entrante, no será obstáculo para que se lleve a cabo el acto de entrega-recepción, para lo cual, el síndico o primer síndico saliente será responsable de entregar; y el síndico o primer síndico entrante, el responsable de recibir; en ausencia de éstos, cualquier servidor público que designe el titular de la Contraloría Municipal para el caso de la administración saliente y un representante de la administración que recibe designado por el Presidente Municipal entrante; sin otra responsabilidad administrativa relacionada con el acto.
+
+> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2009)</small>
+
+El ayuntamiento saliente realizará las acciones necesarias para dar cumplimiento a lo dispuesto en los artículos 18 y 19 de la presente ley, en caso de incumplimiento, se hará del conocimiento de la Contraloría del Poder Legislativo y de las autoridades competentes del Estado, quienes determinarán si existe o no responsabilidad administrativa disciplinaria.
+
+###### Artículo 20.
+
+La ausencia de alguno o algunos de los miembros del ayuntamiento saliente en los actos de protesta y toma de posesión, no podrán impedir la celebración de éstos, en cuyo caso el presidente entrante realizará tales actos ante el presidente o cualquier otro miembro del ayuntamiento saliente; o en ausencia de éstos, ante el representante designado por el Ejecutivo del Estado.
+
+Cuando uno o más miembros del ayuntamiento entrante no se presenten a rendir su protesta de ley sin justa causa, el presidente municipal o el representante del Ejecutivo exhortarán a los miembros propietarios que fueron electos para dichos cargos, a que se presenten en un término máximo de tres días; de no concurrir éstos en ese plazo, se llamará a los suplentes, para sustituirlos en forma definitiva.
+
+Tratándose de regidores de representación proporcional, si no se presentan el propietario y el suplente en el plazo indicado en el párrafo anterior, la exhortación se extenderá en orden descendente a los siguientes regidores de la planilla respectiva.
+
+###### Artículo 21.
+
+Si el día de la toma de protesta no se integra el ayuntamiento con la mayoría de sus miembros, el Ejecutivo del Estado proveerá lo necesario para su instalación en un plazo no mayor de tres días; de no ser esto posible, la Legislatura local, o la Diputación Permanente, designará, a propuesta del Ejecutivo, a los miembros ausentes o faltantes necesarios para integrar el ayuntamiento. Entre tanto, el Gobernador del Estado dictará las medidas conducentes para guardar la tranquilidad y el orden público en el municipio; y de estimarlo necesario, designará una junta municipal que se encargue de la administración del municipio, hasta en tanto se nombre a los nuevos miembros del ayuntamiento.
+
+###### Artículo 22.
+
+Cuando después de instalado un ayuntamiento no hubiere número suficiente de miembros para formar mayoría legal, el presidente municipal o el que haga las funciones del mismo, lo hará del conocimiento del Ejecutivo del Estado para que proponga a la Legislatura local o a la Diputación Permanente, la designación de los miembros sustitutos.
+
+###### Artículo 23.
+
+Cuando no se verifiquen o se declaren nulas las elecciones de algún ayuntamiento, el Gobernador del Estado propondrá a la Legislatura o a la Diputación Permanente, la designación de un ayuntamiento provisional, que actuará hasta que entre en funciones el ayuntamiento electo.
+
+###### Artículo 24.
+
+En caso de declararse desaparecido un ayuntamiento, o de ausencia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procede que entren en funciones los suplentes, ni que se celebren nuevas elecciones, el Ejecutivo del Estado propondrá a la Legislatura la designación, de entre los vecinos, de un consejo municipal que concluirá el período respectivo.
+
+###### Artículo 25.
+
+Los ayuntamientos provisionales, las juntas y consejos municipales, se instalarán con las formalidades y procedimientos previstos en esta Ley y tendrán las atribuciones que la ley le confiere a los ayuntamientos constitucionales de elección popular.
+
+###### Artículo 26.
+
+El ayuntamiento funcionará y residirá en la cabecera municipal, y solamente con aprobación del Congreso del Estado, podrá ubicar su residencia en forma permanente o temporal en otro lugar comprendido dentro de los límites territoriales de su municipio. En los casos de cambio temporal de residencia y funcionamiento del ayuntamiento, la Diputación Permanente, en receso de la Legislatura, podrá acordar lo que corresponda.
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2014)</small>
+
+Los ayuntamientos podrán celebrar sesión por lo menos dos veces al año fuera de la cabecera municipal en localidades del interior del municipio, para lo cual existirá acuerdo de cabildo.
+
+### CAPITULO SEGUNDO. Funcionamiento de los Ayuntamientos
+
+###### Artículo 27.
+
+Los ayuntamientos como órganos deliberantes, deberán resolver colegiadamente los asuntos de su competencia.
+
+> <small>(ADICIONADO, G.G. 1 DE OCTUBRE DE 2010)</small>
+
+Para lo cual los Ayuntamientos deberán expedir o reformar, en su caso, en la tercera sesión que celebren, el Reglamento de Cabildo, debiendo publicarse en la Gaceta Municipal.
+
+###### Artículo 28.
+
+Los ayuntamientos sesionarán cuando menos una vez cada ocho días o cuantas veces sea necesario en asuntos de urgente resolución, a petición de la mayoría de sus miembros y podrán declararse en sesión permanente cuando la importancia del asunto lo requiera.
+
+(REFORMADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 1 DE JUNIO DE 2016)
+
+Las sesiones de los ayuntamientos serán públicas y deberán transmitirse a través de la página de internet del municipio.
+
+Las sesiones de los ayuntamientos se celebrarán en la sala de cabildos; y cuando la solemnidad del caso lo requiera, en el recinto previamente declarado oficial para tal objeto.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+Los ayuntamientos sesionarán en cabildo abierto cuando menos bimestralmente.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+El cabildo en sesión abierta es la sesión que celebra el Ayuntamiento, en la cual los habitantes participan directamente con derecho a voz pero sin voto, a fin de discutir asuntos de interés para la comunidad y con competencia sobre el mismo.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+En este tipo de sesiones el Ayuntamiento escuchará la opinión del público que participe en la Sesión y podrá tomarla en cuenta al dictaminar sus resoluciones.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+El Ayuntamiento deberá emitir una convocatoria pública quince días naturales previos a la celebración del Cabildo en sesión abierta para que los habitantes del municipio que tengan interés se registren como participantes ante la Secretaría del Ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
+
+Para la celebración de las sesiones se deberá contar con un orden del día que contenga como mínimo:
+
+a) Lista de Asistencia y en su caso declaración del quórum legal;
+
+b) Lectura, discusión y en su caso aprobación del acta de la sesión anterior;
+
+c) Aprobación del orden del día;
+
+d) Presentación de asuntos y turno a Comisiones;
+
+e) Lectura, discusión y en su caso, aprobación de los acuerdos; y
+
+f) Asuntos generales.
+
+Cuando asista público a las sesiones observará respeto y compostura, cuidando quien las presida que por ningún motivo tome parte en las deliberaciones del ayuntamiento, ni exprese manifestaciones que alteren el orden en el recinto.
+
+Quien presida la sesión hará preservar el orden público, pudiendo ordenar al infractor abandonar el salón o en caso de reincidencia remitirlo a la autoridad competente para la sanción procedente.
+
+###### Artículo 29.
+
+Los ayuntamientos podrán sesionar con la asistencia de la mayoría de sus integrantes y sus acuerdos se tomarán por mayoría de votos de sus miembros presentes. Quien presida la sesión, tendrá voto de calidad.
+
+Los ayuntamientos no podrán revocar sus acuerdos sino en aquellos casos en que se hayan dictado en contravención a la Ley, lo exija el interés público o hayan desaparecido las causas que lo motivaron, y siguiendo el procedimiento y las formalidades que fueron necesarios para tomar los mismos, en cuyo caso se seguirán las formalidades de ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
+###### Artículo 30.
+
+Las sesiones del ayuntamiento serán presididas por el presidente municipal o por quien lo sustituya legalmente; constarán en un libro que deberá contener las actas en las cuales deberán asentarse los extractos de los acuerdos y asuntos tratados y el resultado de la votación. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal estos constarán íntegramente en el libro de actas debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, debiéndose difundir en el (sic) Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento. De las actas, se les entregará copia certificada en formato físico o electrónico a los integrantes del Ayuntamiento que lo soliciten en un plazo no mayor de ocho días hábiles. Los documentos electrónicos en el que consten las firmas electrónicas avanzadas o el sello electrónico de los integrantes del Ayuntamiento tendrá (sic) el carácter de copia certificada.
+
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+
+Todos los acuerdos de las sesiones que no contengan información clasificada y el resultado de su votación, serán difundidos cada mes en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento, así como los datos de identificación de las actas que contengan información clasificada, incluyendo en cada caso, el fundamento legal que clasifica la información.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para cada sesión se deberá contar con una versión estenográfica o videograbada que permita hacer las aclaraciones pertinentes, la cual formará parte del acta correspondiente. La versión estenográfica o videograbada deberá estar disponible en la página de internet del Ayuntamiento y en las oficinas de la Secretaría del Ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
+
+###### Artículo 30 Bis.
+
+El Ayuntamiento, para atender y en su caso resolver los asuntos de su competencia, funcionará en Pleno y mediante Comisiones.
+
+Asimismo, en el ejercicio de sus atribuciones se apegará a su Reglamento Interior, el cual deberá aprobarse en términos del artículo 27 de la presente Ley.
+
+El Reglamento Interior del Ayuntamiento y las demás disposiciones reglamentarias municipales deberán ajustarse a los siguientes criterios:
+
+a) Flexibilidad y Adaptabilidad.- Se debe prever la posibilidad de que el Reglamento se adapte a las condiciones sociopolíticas, culturales, e históricas del municipio, para resolver de manera pronta y expedita los requerimientos de la comunidad.
+
+b) Claridad.- Para su correcta y eficiente aplicación, el Reglamento debe ser claro y preciso, omitiendo toda ambigüedad en su lenguaje.
+
+c) Simplificación.- Debe ser conciso, atendiendo únicamente al tema que trate su materia.
+
+d) Justificación Jurídica.- La reglamentación municipal solamente debe referirse a las materias permitidas por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de México y las Leyes Federales y Estatales que de ellas emanen.
+
+### CAPITULO TERCERO. Atribuciones de los Ayuntamientos
+
+###### Artículo 31.
+
+Son atribuciones de los ayuntamientos:
+
+I. Expedir y reformar el Bando Municipal, así como los reglamentos, circulares y disposiciones administrativas de observancia general dentro del territorio del municipio, que sean necesarios para su organización, prestación de los servicios públicos y, en general, para el cumplimiento de sus atribuciones;
+
+> <small>(REFORMADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+I Bis. Aprobar e implementar programas y acciones que promuevan un proceso constante de mejora regulatoria, de acuerdo con la Ley para la Mejora Regulatoria del Estado de México y Municipios y las disposiciones reglamentarias;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+I Ter. Aprobar y promover un programa para el otorgamiento de la licencia provisional de funcionamiento para negocios de bajo riesgo que no impliquen riesgos sanitarios, ambientales o de protección civil, conforme al Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo, consignado en la Ley de la materia, mismo que deberá publicarse dentro de los primeros 30 días naturales de cada Ejercicio Fiscal y será aplicable hasta la publicación del siguiente catálogo;
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+El otorgamiento de la licencia a que hace referencia el párrafo anterior, en ningún caso estará sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I Quáter. Formular, aprobar, implementar y ejecutar las políticas, programas y acciones en materia de Gobierno Digital, conforme a los lineamientos técnicos establecidos en la Ley de Gobierno Digital del Estado de México y Municipios, su Reglamento y en aquellas disposiciones jurídicas de la materia.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I Quintus. Participar en la presentación e instrumentación de Gobierno Digital que prevé la Ley de la materia.
+
+II. Celebrar convenios, cuando así fuese necesario, con las autoridades estatales competentes; en relación con la prestación de los servicios públicos a que se refiere el artículo 115, fracción III de la Constitución General, así como en lo referente a la administración de contribuciones fiscales;
+
+> <small>(ADICIONADA, G.G. 20 DE DICIEMBRE DE 2010)</small>
+
+II Bis. Autorizar la exención del pago de trámites a cargo de las Oficialías del Registro Civil, para los habitantes de escasos recursos económicos en los municipios. Para tales efectos, deberán llevar a cabo por lo menos una campaña de regularización al año, en coordinación con las autoridades estatales competentes;
+
+> <small>(REFORMADA, G.G. 7 DE DICIEMBRE DE 2011)</small>
+
+III. Presentar ante la Legislatura iniciativas de leyes o decretos;
+
+IV. Proponer, en su caso, a la Legislatura local, por conducto del Ejecutivo, la creación de organismos municipales descentralizados para la prestación y operación, cuando proceda de los servicios públicos;
+
+V. Acordar la división territorial municipal en delegaciones, subdelegaciones, colonias, sectores y manzanas;
+
+VI. Acordar, en su caso, la categoría y denominación política que les corresponda a las localidades, conforme a esta Ley;
+
+VII. Convenir, contratar o concesionar, en términos de ley, la ejecución de obras y la prestación de servicios públicos, con el Estado, con otros municipios de la entidad o con particulares, recabando, cuando proceda, la autorización de la Legislatura del Estado;
+
+VIII. Concluir las obras iniciadas por administraciones anteriores y dar mantenimiento a la infraestructura e instalaciones de los servicios públicos municipales;
+
+IX. Crear las unidades administrativas necesarias para el adecuado funcionamiento de la administración pública municipal y para la eficaz prestación de los servicios públicos;
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
+
+IX Bis. Crear en el ámbito de sus respectivas competencias una Defensoría Municipal de Derechos Humanos, la cual gozará de autonomía en sus decisiones y en el ejercicio de presupuesto;
+
+X. Conocer los informes contables y financieros anuales dentro de los tres meses siguientes a la terminación del ejercicio presupuestal que presentará el tesorero con el visto bueno del síndico;
+
+XI. Designar de entre sus miembros a los integrantes de las comisiones del ayuntamiento; y de entre los habitantes del municipio, a los jefes de sector y de manzana;
+
+XII. Convocar a elección de delegados y subdelegados municipales, y de los miembros de los consejos de participación ciudadana;
+
+XIII. Solicitar al Ejecutivo del Estado la expropiación de bienes por causa de utilidad pública;
+
+XIV. Municipalizar los servicios públicos en términos de esta Ley;
+
+XV. Aprobar en sesión de cabildo los movimientos registrados en el libro especial de bienes muebles e inmuebles;
+
+XVI. Acordar el destino o uso de los bienes inmuebles municipales;
+
+XVII. Nombrar y remover al secretario, tesorero, titulares de las unidades administrativas y de los organismos auxiliares, a propuesta del presidente municipal; para la designación de estos servidores públicos se preferirá en igualdad de circunstancias a los ciudadanos del Estado vecinos del municipio;
+
+XVIII. Administrar su hacienda en términos de ley, y controlar a través del presidente y síndico la aplicación del presupuesto de egresos del municipio;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+XIX. Aprobar anualmente a más tardar el 20 de diciembre, su Presupuesto de Egresos, en base a los ingresos presupuestados para el ejercicio que corresponda, el cual podrá ser adecuado en función de las implicaciones que deriven de la aprobación de la Ley de Ingresos Municipal que haga la Legislatura, así como por la asignación de las participaciones y aportaciones federales y estatales.
+
+> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+Si cumplido el plazo que corresponda no se hubiere aprobado el Presupuesto de Egresos referido, seguirá en vigor hasta el 28 o 29 de febrero del ejercicio fiscal inmediato siguiente, el expedido para el ejercicio inmediato anterior al de la iniciativa en discusión, únicamente respecto del gasto corriente.
+
+> <small>(REFORMADO, G.G. 6 DE ABRIL DE 2004)</small>
+
+Los Ayuntamientos al aprobar su presupuesto de egresos, deberán señalar la remuneración de todo tipo que corresponda a un empleo, cargo o comisión de cualquier naturaleza, determinada conforme a principios de racionalidad, austeridad, disciplina financiera, equidad, legalidad, igualdad y transparencia, sujetándose a lo dispuesto por el Código Financiero y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, G.G. 6 DE ABRIL DE 2004)</small>
+
+Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a los lineamientos legales establecidos para todos los servidores públicos municipales.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
+
+Los ayuntamientos podrán promover el financiamiento de proyectos productivos de las mujeres emprendedoras.
+
+XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda Pública Municipal del Estado de México;
+
+XXI. Formular, aprobar y ejecutar los planes de desarrollo municipal y los Programas correspondientes;
+
+(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 1 DE OCTUBRE DE 2010)
+
+XXI Bis. Promover políticas públicas apoyadas en sistemas de financiamiento, cooperación y coordinación, que procuren el acceso a las tecnologías de la información y comunicación, específicamente servicios de acceso a internet, como un servicio gratuito, considerando para ello las características socioeconómicas de la población.
+
+(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010) (F. DE E., G.G. 1 DE OCTUBRE DE 2010)
+
+XXI Ter. Promover, desarrollar, vigilar y evaluar en su municipio, los programas en materia de protección civil;
+
+Los programas de protección civil se integrarán con tres subprogramas:
+
+a). Prevención
+
+b). Auxilio
+
+c). Recuperación
+
+Con el objetivo de fomentar la educación, la prevención y los conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, presentándose para su registro ante la Secretaría General de Gobierno.
+
+> <small>(F. DE E., G.G. 1 DE OCTUBRE DE 2010)</small>
+
+XXI Quáter. Promover la creación, desarrollo y actualización permanente, de los atlas municipales de riesgos;
+
+XXII. Dotar de servicios públicos a los habitantes del municipio;
+
+> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
+
+XXIII. Preservar, conservar y restaurar el medio ambiente; así como generar las acciones necesarias a fin de crear áreas verdes que permitan mejorar la calidad de vida y convivencia social de los habitantes del municipio, establecidos como espacios públicos de conservación ambiental;
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
+
+Además, podrán fomentar una mayor asignación presupuestal para mantenimiento de parques, jardines e infraestructura municipal procurando que éste sea destinado a la generación de empleos para los adultos mayores en trabajos de conservación y mantenimiento.
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XXIV. Participar en la creación y administración de sus reservas territoriales y ecológicas; convenir con otras autoridades el control y la vigilancia sobre la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; planificar y regular de manera conjunta y coordinada el desarrollo de las localidades conurbadas;
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2011)</small>
+
+XXIV Bis. Promover las acciones y ejecutar los programas sociales necesarios para la recuperación de espacios públicos, a fin de fortalecer la seguridad jurídica, mantenimiento, sostenibilidad, control y la apropiación social de éstos;
+
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2014)</small>
+
+XXIV Ter. Los ayuntamientos informarán a la autoridad federal competente sobre las autorizaciones que otorguen para el funcionamiento de gasolineras o estaciones de servicio.
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XXIV Quáter. Otorgar licencias y permisos para construcciones privadas y para el funcionamiento de unidades económicas o establecimientos destinados a la enajenación, reparación o mantenimiento de vehículos automotores usados y autopartes nuevas y usadas;
+
+> <small>(ADICIONADA, G.G. 8 DE SEPTIEMBRE DE 2017)</small>
+
+XXIV Quinquies. Para las unidades económicas que tengan como actividad complementaria o principal la venta de bebidas alcohólicas, se otorgará licencia con vigencia de cinco años que deberá ser refrendada de manera anual, con independencia de que puedan ser sujetos de visitas de verificación para constatar el cumplimiento de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
+
+XXV. Coadyuvar con la Secretaría del Medio Ambiente a la creación y desarrollo del mercado de derechos de uso del medio ambiente;
+
+> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+
+XXV Bis. Participar en la prevención y atención a las adicciones, en términos de lo dispuesto en la Sección Cuarta del Capítulo Quinto del Título Tercero del Libro Segundo del Código Administrativo del Estado de México.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Con el objeto de combatir el alcoholismo, los Ayuntamientos y las autoridades estatales, en el ámbito de sus respectivas competencias, no autorizarán la instalación de establecimientos dedicados a la venta de bebidas alcohólicas en envase cerrado o por copeo, que se ubique en un radio no menor de 300 metros de centros escolares, instalaciones deportivas o centros de salud; para lo cual, las autoridades realizarán las inscripciones correspondientes en los planes municipales de desarrollo urbano.
+
+> <small>(ADICIONADA, G.G. 23 DE AGOSTO DE 2005)</small>
+
+XXVI. Trasladar, por medio de los mecanismos fiscales con los que cuenta, el costo de la degradación municipal a los agentes públicos y privados contaminantes finales;
+
+XXVII. Constituir o participar en empresas Paramunicipales y Fideicomisos;
+
+XXVIII. Enajenar y dar en arrendamiento, usufructo o comodato los bienes del municipio, previa autorización, en su caso, de la Legislatura del Estado;
+
+XXIX. Promover y apoyar los programas estatales y federales de capacitación y organización para el trabajo;
+
+XXX. Desafectar del servicio público los bienes municipales o cambiar el destino de los bienes inmuebles dedicados a un servicio público o de uso común;
+
+XXXI. Introducir métodos y procedimientos en la selección y desarrollo del personal de las áreas encargadas de los principales servicios públicos, que propicien la institucionalización del servicio civil de carrera municipal;
+
+XXXII. Sujetar a sus trabajadores al régimen de seguridad social establecido en el Estado;
+
+XXXIII. Formular programas de organización y participación social, que permitan una mayor cooperación entre autoridades y habitantes del municipio;
+
+XXXIV. Elaborar y poner en ejecución programas de financiamiento de los servicios públicos municipales, para ampliar su cobertura y mejorar su prestación;
+
+XXXV. Coadyuvar en la ejecución de los planes y programas federales y estatales;
+
+> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2011)</small>
+
+XXXV Bis.- Establecer, fomentar, coordinar y difundir permanentemente programas y acciones en materia de educación vial. Para el cumplimiento de esta disposición los ayuntamientos se auxiliarán de la participación directa de los concesionarios y permisionarios del transporte público;
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXXVI. Editar, publicar y circular la Gaceta Municipal órgano oficial en formato físico o electrónico, cuando menos cada tres meses para la difusión de todos los acuerdos de Cabildo de las sesiones que no contengan información clasificada, los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
+
+XXXVII. Organizar y promover la instrucción cívica que mantenga a los ciudadanos en conocimiento del ejercicio de sus derechos;
+
+> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+
+XXXVIII. Expedir convocatoria para designar Cronista Municipal.
+
+XXXIX. Promover en la esfera de su competencia lo necesario para el mejor desempeño de sus funciones;
+
+> <small>(REFORMADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+XL. Los municipios de manera libre decidirán si tienen oficialías mediadoras-conciliadoras en funciones separadas o en conjunto;
+
+> <small>(ADICIONADA, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+XLI. Expedir el Reglamento de las Oficialías Mediadoras-Conciliadoras Municipales;
+
+> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2009)</small>
+
+XLII. Convocar al procedimiento de designación de los Defensores Municipales de Derechos Humanos;
+
+> <small>(ADICIONADA, G.G. 7 DE AGOSTO DE 2008)</small>
+
+XLIII. Conocer y, en su caso, acordar lo conducente acerca de las licencias temporales o definitivas, así como los permisos para viajar al extranjero en misión oficial, que soliciten sus integrantes;
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XLIV. Crear el Registro Municipal de Unidades Económicas, donde se especifique la licencia de funcionamiento con la actividad de la unidad económica e impacto que generen, así como las demás características que se determinen;
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XLV. Colaborar con las autoridades estatales y federales en el ámbito de su competencia para establecer medidas regulatorias a unidades económicas de impacto regional y crear un registro específico que se regirá de acuerdo a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
+
+> <small>(ADICIONADA, G.G. 23 DE SEPTIEMBRE DE 2010)</small>
+
+XLVI. Las demás que señalen las leyes y otras disposiciones legales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 32.
+
+Para ocupar los cargos de Secretario, Tesorero, Director de Obras Públicas, Director de Desarrollo Económico, o equivalentes, titulares de las unidades administrativas y de los organismos auxiliares se deberán satisfacer los siguientes requisitos:
+
+I. Ser ciudadano del Estado en pleno uso de sus derechos;
+
+> <small>(REFORMADA, G.G. 4 DE OCTUBRE DE 2010)</small>
+
+II. No estar inhabilitado para desempeñar cargo, empleo, o comisión pública;
+
+(REFORMADA, G.G. 24 DE NOVIEMBRE DE 2011) (F. DE E., G.G. 13 DE DICIEMBRE DE 2011)
+
+III. No haber sido condenado en proceso penal, por delito intencional que amerite pena privativa de libertad;
+
+> <small>(REFORMADA, G.G. 11 DE JULIO DE 2014)</small>
+
+IV. Acreditar ante el Presidente o ante el Ayuntamiento cuando sea el caso, el tener los conocimientos suficientes para poder desempeñar el cargo; contar con título profesional o experiencia mínima de un año en la materia, para el desempeño de los cargos que así lo requieran;
+
+> <small>(ADICIONADA, G.G. 11 DE JULIO DE 2014)</small>
+
+V. En los otros casos, acreditar ante los mencionados en la fracción anterior, contar preferentemente con carrera profesional concluida o en su caso con certificación o experiencia mínima de un año en la materia.
+
+### CAPITULO CUARTO. Actos administrativos que Requieren
+
+Autorización de la Legislatura
+
+###### Artículo 33.
+
+Los ayuntamientos necesitan autorización de la Legislatura o la Diputación permanente en su caso para:
+
+I. Enajenar los bienes inmuebles del municipio, o en cualquier acto o contrato que implique la transmisión de la propiedad de los mismos;
+
+II. Cambiar las categorías políticas de las localidades del municipio a ciudad; en los términos del artículo 10 de esta ley;
+
+III. Contratar créditos cuando los plazos de amortización rebasen el término de la gestión municipal, en términos de la Ley de Deuda Pública Municipal del Estado de México;
+
+IV. Dar en arrendamiento, comodato o en usufructo los bienes inmuebles del municipio, por un término que exceda el período de la gestión del ayuntamiento;
+
+V. Celebrar contratos de obra, así como de prestación de servicios públicos, cuyo término exceda de la gestión del ayuntamiento contratante;
+
+VI. Desincorporar del dominio público los bienes inmuebles del municipio;
+
+VII. Poner en vigor y ejecutar los planes de desarrollo de las localidades de conurbación intermunicipal.
+
+(REFORMADO, G.G. 21 DE MAYO DE 2007.
+
+###### Artículo 34.
+
+La solicitud de autorización, para realizar cualquiera de los actos señalados en el artículo que precede, y los demás que señale la ley, deberá enviarse por conducto del Ejecutivo, a la que agregará íntegramente los documentos, justificaciones necesarias y, en su caso, el dictamen técnico correspondiente que le haya remitido el ayuntamiento en su petición; además, acompañará el Dictamen de Procedencia que emita, a través de la dependencia competente en el ramo de que se trate, y que recaerá exclusivamente en la petición municipal, sin prejuzgar sobre la autorización.
+
+###### Artículo 35.
+
+La solicitud de enajenación de un inmueble del municipio deberá contener los siguientes datos:
+
+I. Superficie, medidas, linderos y ubicación exacta del inmueble;
+
+II. Valor fiscal y comercial del inmueble, esto último certificado por perito autorizado en la materia;
+
+III. Condiciones de la operación y motivos que se tengan para realizarla;
+
+IV. La documentación que acredite la propiedad del inmueble;
+
+V. Comprobación de que el inmueble no está destinado a un servicio público municipal y que no tiene un valor arqueológico, histórico o artístico, certificado por la autoridad competente;
+
+VI. El destino que se dará a los fondos que se obtengan de la enajenación.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 36.
+
+Las enajenaciones de bienes inmuebles propiedad de los municipios y sus organismos auxiliares, una vez realizada la desincorporación, se efectuaran a través de subasta pública, en los términos de lo dispuesto en el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
+
+###### Artículo 37.
+
+Los actos realizados en contravención a lo dispuesto en este Capítulo, son nulos de pleno derecho.
+
+###### Artículo 38.
+
+La celebración de contratos y la realización de obra pública se sujetarán a la ley de la materia.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 39.
+
+Los Ayuntamientos podrán enajenar a título oneroso o gratuito, bienes inmuebles propiedad del municipio, así como realizar los demás actos jurídicos respecto a ellos, señalados en la Ley de Bienes del Estado de México y de sus Municipios, cumpliendo con los requisitos establecidos en la misma, en la presente Ley y demás disposiciones aplicables.
+
+### CAPITULO QUINTO. Suplencia de los Miembros del Ayuntamiento
+
+> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2008)</small>
+
+###### Artículo 40.
+
+Los miembros del ayuntamiento necesitan licencia del mismo, para separarse temporal o definitivamente del ejercicio de sus funciones.
+
+Las faltas de los integrantes del ayuntamiento podrán ser temporales o definitivas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Las faltas temporales que no excedan de quince días naturales se harán del conocimiento del Ayuntamiento sin que se requiera acuerdo de cabildo para autorizarlas, hasta por tres ocasiones, durante su periodo constitucional. Las faltas temporales que excedan de quince días naturales serán aprobadas por el Ayuntamiento cuando exista causa justificada. Se consideran causas justificadas para separarse del cargo las siguientes:
+
+a) Para ocupar otro empleo, cargo o comisión en la administración pública municipal, estatal o federal o en organismos autónomos, desconcentrados o descentralizados de cualquiera de los tres niveles de gobierno.
+
+b) Para enfrentar un proceso penal, siempre y cuando el solicitante se encuentre sujeto a prisión preventiva.
+
+c) Para contender como candidato en un proceso electoral federal o local.
+
+d) Por imposibilidad física o mental de carácter temporal debido a enfermedad.
+
+e) Aquellas otras que por su naturaleza sean consideradas por el Ayuntamiento.
+
+El Ayuntamiento deberá resolver las solicitudes de licencia que excedan de quince días o las definitivas, a más tardar dentro de los ocho días siguientes a la solicitud en sesión de Cabildo. En caso de que el ayuntamiento no resuelva en el plazo señalado en este párrafo, se tendrá por aprobada la solicitud de licencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 2 DE AGOSTO DE 2011)</small>
+
+###### Artículo 41.
+
+Las faltas temporales del presidente municipal, que no excedan de quince días, las cubrirá el secretario del ayuntamiento, como encargado del despacho; las que excedan de este plazo y hasta por 100 días serán cubiertas por un regidor del propio ayuntamiento que se designe por acuerdo del cabildo, a propuesta del presidente municipal, quien fungirá como presidente municipal por ministerio de ley.
+
+Las faltas temporales de los síndicos serán suplidas por el miembro del ayuntamiento que éste designe, cuando sólo haya un síndico; y cuando haya más de uno, la ausencia será cubierta por el que le siga en número.
+
+> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2008)</small>
+
+Las faltas de los regidores no se cubrirán, cuando no excedan de quince días y haya el número suficiente de miembros que marca la ley para que los actos del ayuntamiento tengan validez; cuando no haya ese número, o las faltas excedieran el plazo indicado, se llamará al suplente respectivo.
+
+> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2008)</small>
+
+Para cubrir las faltas definitivas de los miembros de los ayuntamientos, serán llamados los suplentes respectivos. Si faltase también el suplente para cubrir la vacante que corresponda, la Legislatura, a propuesta del Ejecutivo, designará a los sustitutos.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Las faltas de los servidores públicos titulares de las dependencias y entidades de la administración pública municipal, que no excedan de quince días naturales, se cubrirán conforme se establezca en el reglamento municipal respectivo, o en su caso, con la designación que realice el servidor público que se deba ausentar. En cualquier caso la designación será con el carácter de encargado del despacho y con la aprobación del presidente municipal.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Las faltas temporales que excedan de quince días naturales pero no de sesenta, serán aprobadas por el ayuntamiento en sesión de Cabildo a propuesta del presidente municipal.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Si la falta temporal se convierte en definitiva, se procederá conforme lo dispone el artículo 31 fracción XVII de esta Ley.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Para desempeñarse como encargado de despacho, es necesario reunir los mismos requisitos señalados en el reglamento respectivo para ser titular de las dependencias del ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+Ninguna dependencia o entidad municipal podrá tener un encargado de despacho por un plazo que exceda de sesenta días naturales.
+
+### CAPITULO SEXTO. De la Suspensión y Desaparición de Ayuntamientos de la Suspensión o Revocación del Mandato de alguno de sus Miembros
+
+###### Artículo 42.
+
+La Legislatura, por acuerdo de las dos terceras partes de sus integrantes, podrá declarar la suspensión o desaparición de los ayuntamientos y suspender o revocar el mandato de sus miembros, siempre y cuando hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+###### Artículo 43.
+
+El derecho a los miembros de los ayuntamientos en los casos a que se refiere el artículo precedente, se otorgará conforme al procedimiento establecido en la Ley Orgánica del Poder Legislativo.
+
+###### Artículo 44.
+
+Son motivo de suspensión de un ayuntamiento o de algunos de sus miembros las siguientes causas graves:
+
+I. Ejecutar Planes y Programas distintos a los aprobados;
+
+II. Retener o invertir para fines distintos a los autorizados, los recursos públicos o las cooperaciones que en numerario o en especie entreguen los particulares para realización de obras;
+
+III. Dejar de integrar los consejos de participación ciudadana municipal o de convocar a la elección de las Autoridades Auxiliares previstas en esta Ley;
+
+IV. Faltar al cumplimiento de las funciones encomendadas por la ley.
+
+###### Artículo 45.
+
+Son causas graves que motivan se declare la desaparición de un ayuntamiento, las siguientes:
+
+I. Atacar a las instituciones públicas, a la forma de gobierno constitucionalmente establecido, o a la libertad del sufragio;
+
+II. Violar la Constitución Política del Estado o las leyes locales, y que se cause perjuicio grave al Estado, al municipio o a la sociedad;
+
+III. Violar las garantías individuales, o los Derechos Humanos, los planes, programas y presupuestos de la administración pública estatal o municipal y las leyes que determinen el manejo de los recursos económicos de la misma, cuando tales actos causen perjuicios graves o irreparables a la sociedad, al Estado o al municipio;
+
+IV. Realizar actos no permitidos o sin las formalidades de la ley, que afecten sustancialmente el patrimonio del municipio, la prestación de servicios públicos o la función administrativa municipal;
+
+V. Realizar cualquier acto u omisión que altere seriamente el orden público, la tranquilidad y la paz social de los habitantes del municipio, o que afecte derechos o intereses de la colectividad;
+
+VI. La existencia entre los miembros de un ayuntamiento, de conflictos que hagan imposible el cumplimiento de los fines del mismo o el ejercicio de sus competencias y atribuciones.
+
+###### Artículo 46.
+
+A los miembros de los ayuntamientos se les podrá revocar su mandato por:
+
+I. Ocasionar daños y perjuicios a la hacienda pública municipal, por el indebido manejo de sus recursos;
+
+II. Atacar a las instituciones públicas, al funcionamiento normal de las mismas, a la forma de gobierno, a las garantías individuales o sociales; y a la libertad del sufragio;
+
+III. Infringir la Constitución Política y ordenamientos legales locales, que causen perjuicio grave al Estado, al municipio o a la colectividad;
+
+IV. Realizar actos que impliquen violaciones sistemáticas a los planes y programas o perjuicio a los recursos de la administración pública estatal o del municipio, así como aquéllos que no le sean permitidos por la ley o que requieran de formalidades específicas;
+
+V. Propiciar entre los miembros del ayuntamiento conflictos que obstaculicen el cumplimiento de sus fines o el ejercicio de sus respectivas competencias;
+
+VI. Usurpar funciones y atribuciones públicas;
+
+VII. Utilizar su autoridad o influencia oficial para hacer que los votos en las elecciones recaigan en determinada persona o personas;
+
+VIII. Ordenar la privación de la libertad de las personas fuera de los casos previstos por la Ley;
+
+IX. Realizar cualquier otro acto u omisión que afecte derechos o intereses de la colectividad, altere seriamente el orden público o la tranquilidad y la paz social de los habitantes del municipio.
+
+###### Artículo 47.
+
+Cuando el Ejecutivo del Estado tenga conocimiento de alguna o algunas de las situaciones previstas en los preceptos de este capítulo, solicitará de la Legislatura local la suspensión de los ayuntamientos, la declaración de que éstos han desaparecido y, en su caso, la suspensión o revocación del mandato de alguno de sus miembros; y dictará las medidas que procedan para asegurar la vigencia del orden jurídico, la paz y la tranquilidad sociales en el municipio que corresponda.
+
+## TITULO III. De las Atribuciones de los Miembros del Ayuntamiento, sus Comisiones, Autoridades Auxiliares y Organos de Participación Ciudadana
+
+### CAPITULO PRIMERO. De los Presidentes Municipales
+
+###### Artículo 48.
+
+El presidente municipal tiene las siguientes atribuciones:
+
+I. Presidir y dirigir las sesiones del ayuntamiento;
+
+II. Ejecutar los acuerdos del ayuntamiento e informar su cumplimiento;
+
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+III. Promulgar y publicar el Bando Municipal en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento, así como ordenar la difusión de las normas de carácter general y reglamentos aprobados por el Ayuntamiento;
+
+> <small>(REFORMADA, G.G. 30 DE OCTUBRE DE 2012)</small>
+
+IV. Asumir la representación jurídica del Municipio y del ayuntamiento, así como de las dependencias de la Administración Pública Municipal, en los litigios en que este sea parte.
+
+V. Convocar a sesiones ordinarias y extraordinarias a los integrantes del ayuntamiento;
+
+> <small>(REFORMADA, G.G. 22 DE OCTUBRE DE 2014)</small>
+
+VI. Proponer al ayuntamiento los nombramientos de secretario, tesorero y titulares de las dependencias y organismos auxiliares de la administración pública municipal, favoreciendo para tal efecto el principio de igualdad y equidad de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 22 DE FEBRERO DE 2013)</small>
+
+VI. Bis. Expedir, previo acuerdo del Ayuntamiento, la licencia del establecimiento mercantil que autorice o permita la venta de bebidas alcohólicas;
+
+VII. Presidir las comisiones que le asigne la ley o el ayuntamiento;
+
+VIII. Contratar y concertar en representación del ayuntamiento y previo acuerdo de éste, la realización de obras y la prestación de servicios públicos, por terceros o con el concurso del Estado o de otros ayuntamientos;
+
+IX. Verificar que la recaudación de las contribuciones y demás ingresos propios del municipio se realicen conforme a las disposiciones legales aplicables;
+
+X. Vigilar la correcta inversión de los fondos públicos;
+
+XI. Supervisar la administración, registro, control, uso, mantenimiento y conservación adecuados de los bienes del municipio;
+
+XII. Tener bajo su mando los cuerpos de seguridad pública, tránsito y bomberos municipales, en los términos del capítulo octavo, del título cuarto de esta Ley;
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+XII bis. Vigilar y ejecutar los programas y subprogramas de protección civil y realizar las acciones encaminadas a optimizar los programas tendientes a prevenir el impacto de los fenómenos perturbadores;
+
+XIII. Vigilar que se integren y funcionen en forma legal las dependencias, unidades administrativas y organismos desconcentrados o descentralizados y fideicomisos que formen parte de la estructura administrativa;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+XIII Bis. Desarrollar un programa permanente de mejora regulatoria, en coordinación con la dependencia del Ejecutivo del Estado que establezca la Ley de la materia, mismo que deberá de someter al acuerdo de Cabildo;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+XIII Ter. Proponer al ayuntamiento y ejecutar un programa especial para otorgar la licencia provisional de funcionamiento para negocios de bajo riesgo sanitario, ambiental o de protección civil, que autorice el cabildo conforme a la clasificación contenida en el Catálogo Mexiquense de Actividades Industriales, Comerciales y de Servicios de Bajo Riesgo;
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XIII Quáter. Expedir o negar licencias o permisos de funcionamiento, previo acuerdo del ayuntamiento, para las unidades económicas, empresas y parques industriales, dando respuesta en un plazo que no exceda de tres días hábiles posteriores a la fecha de la resolución del ayuntamiento;
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XIII Quinquies. Desarrollar y ejecutar las políticas, programas y acciones en materia de Gobierno Digital, impulsando el uso estratégico de las tecnologías de la información en los trámites y servicios que se otorgan por parte del Ayuntamiento, conforme a lo establecido en la Ley de Gobierno Digital del Estado de México y Municipios, su Reglamento y conforme a las disposiciones jurídicas de la materia;
+
+XIV. Vigilar que se integren y funcionen los consejos de participación ciudadana municipal y otros órganos de los que formen parte representantes de los vecinos;
+
+> <small>(REFORMADA, G.G. 8 DE AGOSTO DE 2014)</small>
+
+XV. Entregar por escrito y en medio electrónico al ayuntamiento, dentro de los primeros cinco días hábiles del mes de diciembre de cada año, en sesión solemne de cabildo, un informe del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio.
+
+Dicho informe se publicará en la página oficial, en la Gaceta Municipal y en los estrados de la Secretaría del ayuntamiento para su consulta.
+
+XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar, a los infractores las sanciones correspondientes o remitirlos, en su caso, a las autoridades correspondientes;
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XVI Bis. Vigilar que los establecimientos mercantiles con venta o suministro de bebidas alcohólicas en botella cerrada, consumo inmediato y al copeo, cuenten con la correspondiente licencia de funcionamiento y con las disposiciones legales y reglamentarias correspondientes, instaurar los procedimientos sancionadores correspondientes y, en su caso, dar vista al Ministerio Público por la posible comisión de algún delito;
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+XVI Ter. Instalar y vigilar el debido funcionamiento de la ventanilla única en materia de unidades económicas;
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+XVII. Promover el desarrollo institucional del Ayuntamiento, entendido como el conjunto de acciones sistemáticas que hagan más eficiente la administración pública municipal mediante la capacitación y profesionalización de los servidores públicos municipales, la elaboración de planes y programas de mejora administrativa, el uso de tecnologías de información y comunicación en las áreas de la gestión, implantación de indicadores del desempeño o de eficiencia en el gasto público, entre otros de la misma naturaleza. Los resultados de las acciones implementadas deberán formar parte del informe anual al que se refiere la fracción XV del presente artículo;
+
+> <small>(REFORMADA, G.G. 7 DE SEPTIEMBRE DE 2010)</small>
+
+XVIII. Promover el patriotismo, la conciencia cívica, las identidades nacional, estatal y municipal y el aprecio a los más altos valores de la República, el Estado, y el Municipio, con la celebración de eventos, ceremonias y en general todas las actividades colectivas que contribuyan a estos propósitos, en especial el puntual cumplimiento del calendario cívico oficial;
+
+> <small>(REFORMADA, G.G. 3 DE SEPTIEMBRE DE 2015)</small>
+
+XIX. Comunicar por escrito, con anticipación a su salida al extranjero, a la Legislatura o a la Diputación Permanente y al cabildo, los propósitos y objetivos del viaje e informar de las acciones realizadas dentro de los diez días siguientes a su regreso.
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XX. Coadyuvar en la coordinación del cuerpo de seguridad pública a su cargo con las Instituciones de Seguridad Pública federales, estatales y de otros municipios en el desarrollo de operativos conjuntos, para el cumplimiento de los acuerdos tomados por el Consejo Estatal, los Consejos Intermunicipales y el Consejo Municipal de Seguridad Pública, así como en la ejecución de otras acciones en la materia;
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XXI. Satisfacer los requerimientos que le sean solicitados por la Secretaría de Seguridad para el registro y actualización de la licencia colectiva para la portación de armas de fuego de los elementos a su cargo;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XXII. Vigilar la integración, funcionamiento y cumplimiento de los acuerdos tomados por el Consejo Municipal de Seguridad Pública, en los términos de esta Ley;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XXIII. Las demás que le confieran esta Ley y otros ordenamientos.
+
+###### Artículo 49.
+
+Para el cumplimiento de sus funciones, el presidente municipal se auxiliará de los demás integrantes del ayuntamiento, así como de los órganos administrativos y comisiones que esta Ley establezca.
+
+> <small>(REFORMADO, G.G. 30 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 50.
+
+El presidente asumirá la representación jurídica del ayuntamiento y de las dependencias de la Administración Pública Municipal, en los litigios en que sean parte, así como la gestión de los negocios de la hacienda municipal; facultándolo para otorgar y revocar poderes generales y especiales a terceros o mediante oficio para la debida representación jurídica correspondiente pudiendo convenir en los mismos.
+
+###### Artículo 51.
+
+No pueden los presidentes municipales:
+
+I. Distraer los fondos y bienes municipales de los fines a que estén destinados;
+
+II. Imponer contribución o sanción alguna que no esté señalada en la Ley de Ingresos u otras disposiciones legales;
+
+III. Juzgar los asuntos relativos a la propiedad o posesión de bienes muebles o inmuebles o en cualquier otro asunto de carácter civil, ni decretar sanciones o penas en los de carácter penal;
+
+> <small>(REFORMADA, G.G. 7 DE AGOSTO DE 2008)</small>
+
+IV. Ausentarse del país por más de 5 días, sin la autorización del ayuntamiento, con excepción de los viajes que realice durante sus periodos vacacionales;
+
+V. Cobrar personalmente o por interpósita persona, multa o arbitrio alguno, o consentir o autorizar que oficina distinta a la tesorería municipal, conserve o tenga fondos municipales;
+
+VI. Utilizar a los empleados o policías municipales para asuntos particulares;
+
+VII. Residir durante su gestión fuera del territorio municipal;
+
+> <small>(ADICIONADA, G.G. 7 DE AGOSTO DE 2008)</small>
+
+VIII. Separarse del ejercicio de sus funciones, en los términos de esta ley.
+
+> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+IX. Nombrar, contratar o promover directamente o por interpósita persona como servidores públicos a personas con quienes tengan parentesco consanguíneo hasta el cuarto grado, por afinidad o civil. Tampoco pueden recibir propuestas o celebrar contratos relativos a la adquisición, enajenación y arrendamiento de bienes y la contratación de servicios con personas con quienes tenga interés personal, familiar o de negocios, en términos de las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADA, G.G. 1 DE JUNIO DE 2016)</small>
+
+X. Dejar de enterar en tiempo y forma las cuotas y/o aportaciones obligadas de los Servidores Públicos al Régimen de Seguridad Social.
+
+### CAPITULO SEGUNDO. De los Síndicos
+
+###### Artículo 52.
+
+Los síndicos municipales tendrán a su cargo la procuración y defensa de los derechos e intereses del municipio, en especial los de carácter patrimonial y la función de contraloría interna, la que, en su caso, ejercerán conjuntamente con el órgano de control y evaluación que al efecto establezcan los ayuntamientos.
+
+###### Artículo 53.
+
+Los síndicos tendrán las siguientes atribuciones:
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE OCTUBRE DE 2012)</small>
+
+I. Procurar, defender y promover los derechos e intereses municipales; representar jurídicamente a los integrantes de los ayuntamientos, facultándolos para otorgar y revocar poderes generales y especiales a terceros o mediante oficio para la debida representación jurídica correspondiente, pudiendo convenir en los mismos.
+
+> <small>(REFORMADO, G.G. 22 DE NOVIEMBRE DE 2011)</small>
+
+La representación legal de los miembros de los ayuntamientos, sólo se dará en asuntos oficiales;
+
+II. Revisar y firmar los cortes de caja de la tesorería municipal;
+
+III. Cuidar que la aplicación de los gastos se haga llenando todos los requisitos legales y conforme al presupuesto respectivo;
+
+IV. Vigilar que las multas que impongan las autoridades municipales ingresen a la tesorería, previo comprobante respectivo;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+V. Asistir a las visitas de inspección que realice el Órgano Superior de Fiscalización del Estado de México a la tesorería e informar de los resultados al ayuntamiento;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+VI. Hacer que oportunamente se remitan al Órgano Superior de Fiscalización del Estado de México las cuentas de la tesorería municipal y remitir copia del resumen financiero a los miembros del ayuntamiento;
+
+VII. Intervenir en la formulación del inventario general de los bienes muebles e inmuebles propiedad del municipio, haciendo que se inscriban en el libro especial, con expresión de sus valores y de todas las características de identificación, así como el uso y destino de los mismos;
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2004)</small>
+
+VIII. Regularizar la propiedad de los bienes inmuebles municipales, para ello tendrán un plazo de ciento veinte días hábiles, contados a partir de la adquisición;
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2004)</small>
+
+IX. Inscribir los bienes inmuebles municipales en el Registro Público de la Propiedad, para iniciar los trámites correspondientes tendrán un plazo de ciento veinte días hábiles contados a partir de aquel en que concluyo el proceso de regularización;
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2012)</small>
+
+X. Vigilar que los Oficiales Calificadores, observen las disposiciones legales en cuanto a las garantías que asisten a los detenidos;
+
+XI. Participar en los remates públicos en los que tenga interés el municipio, para que se finquen al mejor postor y se guarden los términos y disposiciones prevenidos en las leyes respectivas;
+
+XII. Verificar que los remates públicos se realicen en los términos de las leyes respectivas;
+
+XIII. Verificar que los funcionarios y empleados del municipio cumplan con hacer la manifestación de bienes que prevé la Ley de Responsabilidades para los Servidores Públicos del Estado y Municipios;
+
+XIV. Admitir, tramitar y resolver los recursos administrativos que sean de su competencia;
+
+XV. Revisar las relaciones de rezagos para que sean liquidados;
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+XVI. Revisar el informe mensual que le remita el Tesorero, y en su caso formular las observaciones correspondientes.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+XVII. Las demás que les señalen las disposiciones aplicables.
+
+En el caso de que sean dos los síndicos que se elijan, uno estará encargado de los ingresos de la hacienda municipal y el otro de los egresos. El primero tendrá las facultades y obligaciones consignadas en las fracciones I, IV, V, y XVI y el segundo, las contenidas en las fracciones II, III, VI, VII, VIII, IX, X y XII entendiéndose que se ejercerán indistintamente las demás.
+
+En el caso de que se elija un tercer síndico, este ejercerá las atribuciones del segundo a que se refieren las fracciones VII, VIII, IX, y X.
+
+> <small>(REFORMADO, G.G. 31 DE JULIO DE 2012)</small>
+
+Los síndicos y los presidentes municipales que asuman la representación jurídica del Ayuntamiento, no pueden desistirse, transigir, comprometerse en árbitros, ni hacer cesión de bienes muebles o inmuebles municipales, sin la autorización expresa del Ayuntamiento.
+
+###### Artículo 54.
+
+El ayuntamiento, en su caso, distribuirá entre los síndicos otras funciones que de acuerdo con la ley les corresponda.
+
+### CAPITULO TERCERO. De los Regidores
+
+###### Artículo 55.
+
+Son atribuciones de los regidores, las siguientes:
+
+I. Asistir puntualmente a las sesiones que celebre el ayuntamiento;
+
+> <small>(REFORMADA, G.G. 2 DE AGOSTO DE 2011)</small>
+
+II. Suplir al presidente municipal en sus faltas temporales, en los términos establecidos por este ordenamiento;
+
+III. Vigilar y atender el sector de la administración municipal que les sea encomendado por el ayuntamiento;
+
+IV. Participar responsablemente en las comisiones conferidas por el ayuntamiento y aquéllas que le designe en forma concreta el presidente municipal;
+
+V. Proponer al ayuntamiento, alternativas de solución para la debida atención de los diferentes sectores de la administración municipal;
+
+VI. Promover la participación ciudadana en apoyo a los programas que formule y apruebe el ayuntamiento;
+
+VII. Las demás que les otorgue esta Ley y otras disposiciones aplicables.
+
+### CAPITULO CUARTO. De las Autoridades Auxiliares
+
+###### Artículo 56.
+
+Son autoridades auxiliares municipales, los delegados y subdelegados, y los jefes de sector o de sección y jefes de manzana que designe el ayuntamiento.
+
+###### Artículo 57.
+
+Las autoridades auxiliares municipales ejercerán, en sus respectivas jurisdicciones, las atribuciones que les delegue el ayuntamiento, para mantener el orden, la tranquilidad, la paz social, la seguridad y la protección de los vecinos, conforme a lo establecido en esta Ley, el Bando Municipal y los reglamentos respectivos.
+
+I. Corresponde a los delegados y subdelegados:
+
+a). Vigilar el cumplimiento del bando municipal, de las disposiciones reglamentarias que expida el ayuntamiento y reportar a la dependencia administrativa correspondiente, las violaciones a las mismas;
+
+b). Coadyuvar con el ayuntamiento en la elaboración y ejecución del Plan de Desarrollo Municipal y de los programas que de él se deriven;
+
+c). Auxiliar al secretario del ayuntamiento con la información que requiera para expedir certificaciones;
+
+d). Informar anualmente a sus representados y al ayuntamiento, sobre la administración de los recursos que en su caso tenga encomendados, y del estado que guardan los asuntos a su cargo;
+
+e). Elaborar los programas de trabajo para las delegaciones y subdelegaciones, con la asesoría del ayuntamiento;
+
+> <small>(ADICIONADO, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+f). vigilar el estado de los canales, vasos colectores, barrancas, canales alcantarillados y demás desagües e informar al ayuntamiento para la realización de acciones correctivas.
+
+> <small>(ADICIONADO, G.G. 14 DE MAYO DE 2014)</small>
+
+g). Emitir opinión motivada no vinculante, respecto a la autorización de la instalación de nuevos establecimientos comerciales, licencias de construcción y cambios de uso de suelo en sus comunidades.
+
+II. Corresponde a los jefes de sector o de sección y de manzana:
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+a). Colaborar para mantener el orden, la seguridad y la tranquilidad de los vecinos del lugar, reportando ante los cuerpos de seguridad pública, a los oficiales calificadores las conductas que requieran de su intervención;
+
+b). Elaborar y mantener actualizado el censo de vecinos de la demarcación correspondiente;
+
+c). Informar al delegado las deficiencias que presenten los servicios públicos municipales;
+
+d). Participar en la preservación y restauración del medio ambiente, así como en la protección civil de los vecinos.
+
+###### Artículo 58.
+
+Los delegados y subdelegados municipales no pueden:
+
+I. Cobrar contribuciones municipales sin la autorización expresa de la ley;
+
+II. Autorizar ningún tipo de licencia de construcción y alineamiento o para la apertura de establecimientos;
+
+III. Mantener detenidas a las personas, sin conocimiento de las autoridades municipales;
+
+IV. Poner en libertad a los detenidos en flagrancia por delito del fuero común o federal;
+
+V. Autorizar inhumaciones y exhumaciones;
+
+VI. Hacer lo que no esté previsto en esta Ley y en otros ordenamientos municipales.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2000)</small>
+
+###### Artículo 59.
+
+La elección de Delegados y Subdelegados se sujetará al procedimiento establecido en la convocatoria que al efecto expida el Ayuntamiento. Por cada Delegado y Subdelegado deberá elegirse un suplente.
+
+> <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2011)</small>
+
+La elección de los Delegados y Subdelegados se realizará en la fecha señalada en la convocatoria, entre el segundo domingo de marzo y el 30 de ese mes del primer año de gobierno del Ayuntamiento.
+
+> <small>(REFORMADO, G.G. 16 DE AGOSTO DE 2011)</small>
+
+La convocatoria deberá expedirse cuando menos diez días antes de la elección. Sus nombramientos serán firmados por el Presidente Municipal y el Secretario del Ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el 15 de abril del mismo año.
+
+###### Artículo 60.
+
+Para ser delegado o subdelegado municipal o jefe de manzana se requiere:
+
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Ser vecino, en términos de esta Ley, de la delegación, subdelegación municipal o manzana respectiva;
+
+III. Ser de reconocida probidad.
+
+###### Artículo 61.
+
+Los jefes de sector o de sección y de manzana serán nombrados por el ayuntamiento.
+
+> <small>(REFORMADO, G.G. 31 DE MARZO DE 2000)</small>
+
+###### Artículo 62.
+
+Las autoridades Auxiliares podrán ser removidas por causa grave que califique el Ayuntamiento por el voto aprobatorio de las dos terceras partes de sus integrantes, previa garantía de audiencia. Tratándose de Delegados y Subdelegados, se llamará a los suplentes; si éstos no se presentaren se designará a los sustitutos, conforme a lo establecido en la presente Ley y demás disposiciones aplicables.
+
+###### Artículo 63.
+
+Las faltas temporales de las autoridades auxiliares serán suplidas por la persona que designe el ayuntamiento; en los casos de faltas definitivas se designará a los sustitutos en términos de esta Ley.
+
+### CAPITULO QUINTO. De las Comisiones, Consejos de
+
+Participación Ciudadana y Organizaciones Sociales
+
+###### Artículo 64.
+
+Los ayuntamientos, para el eficaz desempeño de sus funciones públicas, podrán auxiliarse por:
+
+I. Comisiones del ayuntamiento;
+
+II. Consejos de participación ciudadana;
+
+III. Organizaciones sociales representativas de las comunidades;
+
+IV. Las demás organizaciones que determinen las leyes y reglamentos o los acuerdos del ayuntamiento.
+
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2012)</small>
+
+###### Artículo 65.
+
+Los integrantes de las comisiones del ayuntamiento serán nombrados por éste, de entre sus miembros, a propuesta del presidente municipal, a más tardar en la tercera sesión ordinaria que celebren al inicio de su gestión.
+
+Las comisiones se conformarán de forma plural y proporcional, teniendo en cuenta el número de sus integrantes y la importancia de los ramos encomendados a las mismas; en su integración se deberá tomar en consideración el conocimiento, profesión, vocación y experiencia de los integrantes del ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+Una vez nombrados los integrantes de las comisiones, los presidentes de cada una tendrán treinta días para convocar a sesión a efecto de llevar a cabo su instalación e inicio de los trabajos.
+
+> <small>(REFORMADO, G.G. 8 DE AGOSTO DE 2012)</small>
+
+###### Artículo 66.
+
+Las comisiones del ayuntamiento serán responsables de estudiar, examinar y proponer a éste los acuerdos, acciones o normas tendientes a mejorar la administración pública municipal, así como de vigilar e informar sobre los asuntos a su cargo y sobre el cumplimiento de las disposiciones y acuerdos que dicte el cabildo.
+
+Las comisiones, deberán entregar al ayuntamiento, en sesión ordinaria, un informe trimestral que permita conocer y transparentar el desarrollo de sus actividades, trabajo y gestiones realizadas.
+
+###### Artículo 67.
+
+Las comisiones, para el cumplimiento de sus fines y previa autorización del ayuntamiento, podrán celebrar reuniones públicas en las localidades del municipio, para recabar la opinión de sus habitantes. Asimismo, en aquellos casos en que sea necesario, podrán solicitar asesoría externa especializada.
+
+###### Artículo 68.
+
+Previa autorización del ayuntamiento, las comisiones podrán llamar a comparecer a los titulares de las dependencias administrativas municipales a efecto de que les informen, cuando así se requiera, sobre el estado que guardan los asuntos de su dependencia.
+
+> <small>(ADICIONADO, G.G. 8 DE AGOSTO DE 2012)</small>
+
+Las comisiones podrán solicitar a través del presidente de la comisión al Secretario del Ayuntamiento, la información necesaria con el propósito de que puedan atender los asuntos que les han sido encomendados, así como para llevar a cabo el cumplimiento de sus funciones. Para tal efecto, éste deberá entregarla de forma oportuna.
+
+###### Artículo 69.
+
+Las comisiones las determinará el ayuntamiento de acuerdo a las necesidades del municipio y podrán ser permanentes o transitorias.
+
+I. Serán permanentes las comisiones:
+
+a). De gobernación, de seguridad pública y tránsito y de protección civil, cuyo responsable será el presidente municipal;
+
+b). De planeación para el desarrollo, que estará a cargo del presidente municipal;
+
+c). De hacienda, que presidirá el síndico o el primer síndico, cuando haya mas de uno;
+
+d). De agua, drenaje y alcantarillado;
+
+e). De mercados, centrales de abasto y rastros;
+
+f). De alumbrado público;
+
+g). De obras públicas y desarrollo urbano;
+
+h). De fomento agropecuario y forestal;
+
+> <small>(REFORMADO, G.G. 18 DE JULIO DE 2013)</small>
+
+i). De parques y jardines;
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+j). De panteones;
+
+k) De cultura, educación pública, deporte y recreación;
+
+l). De turismo;
+
+m). De preservación y restauración del medio ambiente;
+
+n). De empleo;
+
+ñ). De salud pública;
+
+o). De población;
+
+> <small>[N. DE E. MEDIANTE REFORMA EN LA G.G. DE 18 DE JULIO DE 2013, SE ADICIONA EL INCISO J) A LA FRACCIÓN I, RECORRIÉNDOSE Y ADECUÁNDOSE EN SU ORDEN LOS SUBSECUENTES INCISOS, POR LO QUE EL ANTERIOR INCISO Ñ) BIS PASÓ A FORMAR EL ACTUAL INCISO P).]</small>
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+p). De Participación Ciudadana;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE FEBRERO DE 2010)</small>
+
+q). De asuntos indígenas, en aquellos municipios con presencia de población indígena;
+
+r). De revisión y actualización de la reglamentación municipal;
+
+> <small>(REFORMADO, G.G. 21 DE NOVIEMBRE DE 2014)</small>
+
+s). De Asuntos Internacionales y Apoyo al Migrante, en aquellos municipios que se tenga un alto índice de migración.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2013)</small>
+
+t) De asuntos metropolitanos, en aquellos municipios que formen parte de alguna zona metropolitana;
+
+> <small>(ADICIONADO, G.G. 27 DE JUNIO DE 2014)</small>
+
+u) De Protección e Inclusión a Personas con Discapacidad;
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2014)</small>
+
+v) De prevención social de la violencia y la delincuencia;
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+w). De Derechos Humanos.
+
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+x). Atención a la violencia en contra de las mujeres.
+
+> <small>(ADICIONADO, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+y). De Transparencia, Acceso a la Información Pública y Protección de Datos Personales.
+
+> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2016)</small>
+
+z). Las demás que determine el Ayuntamiento, de acuerdo con las necesidades del municipio.
+
+II. Serán comisiones transitorias, aquéllas que se designen para la atención de problemas especiales o situaciones emergentes o eventuales de diferente índole y quedarán integradas por los miembros que determine el ayuntamiento, coordinadas por el responsable del área competente.
+
+###### Artículo 70.
+
+Las comisiones del ayuntamiento coadyuvarán en la elaboración del Plan de Desarrollo Municipal y en su evaluación.
+
+###### Artículo 71.
+
+Las comisiones del ayuntamiento carecen de facultades ejecutivas. Los asuntos y acuerdos que no estén señalados expresamente para una comisión quedarán bajo la responsabilidad del presidente municipal.
+
+###### Artículo 72.
+
+Para la gestión, promoción y ejecución de los planes y programas municipales en las diversas materias, los ayuntamientos podrán auxiliarse de consejos de participación ciudadana municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 16 DE AGOSTO DE 2011)</small>
+
+###### Artículo 73.
+
+Cada consejo de participación ciudadana municipal se integrará hasta con cinco vecinos del municipio, con sus respectivos suplentes; uno de los cuales lo presidirá, otro fungirá como secretario y otro como tesorero y en su caso dos vocales, que serán electos en las diversas localidades por los habitantes de la comunidad, entre el segundo domingo de marzo y el 30 de ese mes del año inmediato siguiente a la elección del ayuntamiento, en la forma y términos que éste determine en la convocatoria que deberá aprobar y publicar el ayuntamiento en los lugares más visibles y concurridos de cada comunidad, cuando menos quince días antes de la elección. El ayuntamiento expedirá los nombramientos respectivos firmados por el presidente municipal y el secretario del ayuntamiento, entregándose a los electos a más tardar el día en que entren en funciones, que será el día 15 de abril del mismo año.
+
+Los integrantes del consejo de participación ciudadana que hayan participado en la gestión que termina no podrán ser electos a ningún cargo del consejo de participación ciudadana para el periodo inmediato siguiente.
+
+###### Artículo 74.
+
+Los consejos de participación ciudadana, como órganos de comunicación y colaboración entre la comunidad y las autoridades, tendrán las siguientes atribuciones:
+
+I. Promover la participación ciudadana en la realización de los programas municipales;
+
+II. Coadyuvar para el cumplimiento eficaz de los planes y programas municipales aprobados;
+
+III. Proponer al ayuntamiento las acciones tendientes a integrar o modificar los planes y programas municipales;
+
+IV. Participar en la supervisión de la prestación de los servicios públicos;
+
+V. Informar al menos una vez cada tres meses a sus representados y al ayuntamiento sobre sus proyectos, las actividades realizadas y, en su caso, el estado de cuenta de las aportaciones económicas que estén a su cargo.
+
+> <small>(ADICIONADA, G.G. 14 DE MAYO DE 2014)</small>
+
+VI. Emitir opinión motivada no vinculante, respecto a la autorización de nuevos proyectos inmobiliarios, comerciales, habitacionales o industriales y respecto de la autorización de giros mercantiles.
+
+###### Artículo 75.
+
+Tratándose de obras para el bienestar colectivo, los consejos de participación podrán recibir de su comunidad aportaciones en dinero, de las cuales entregarán formal recibo a cada interesado, y deberán informar de ello al ayuntamiento.
+
+###### Artículo 76.
+
+Los miembros de los consejos podrán ser removidos, en cualquier tiempo por el ayuntamiento, por justa causa con el voto aprobatorio de las dos terceras partes y previa garantía de audiencia, en cuyo caso se llamará a los suplentes.
+
+###### Artículo 77.
+
+Los ayuntamientos promoverán entre sus habitantes la creación y funcionamiento de organizaciones sociales de carácter popular, a efecto de que participen en el desarrollo vecinal, cívico y en beneficio colectivo de sus comunidades.
+
+> <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+La Comisión De Participación Ciudadana a que se refiere el artículo 69 de esta Ley, fungirá como instancia de apoyo entre los ciudadanos, organizaciones de la sociedad civil, constructores o desarrolladores y las autoridades municipales, en los conflictos que se generen en materia de desarrollo urbano y uso de suelo, adicionalmente a las funciones que le señale el reglamento correspondiente.
+
+###### Artículo 78.
+
+Las organizaciones sociales a que se refiere el artículo anterior se integrarán con los habitantes del municipio, por designación de ellos mismos, y sus actividades serán transitorias o permanentes, conforme al programa o proyecto de interés común en el que acuerden participar.
+
+> <small>(REFORMADO, G.G. 30 DE OCTUBRE DE 2015)</small>
+
+En los municipios con población indígena, el cabildo emitirá una convocatoria con la finalidad de invitar a las comunidades indígenas a elegir, de acuerdo con su sistema de normas internas, procedimientos, tradiciones, usos y costumbres, un representante ante el Ayuntamiento, dicha voluntad será plasmada en un acta. La convocatoria deberá expedirse entre el segundo domingo de marzo y el 30 de ese mes del año inmediato siguiente a la elección del ayuntamiento, en la forma y términos que éste determine y aprobada por el Cabildo; tendrá que publicarse, con su respectiva traducción, en los lugares más visibles y concurridos por los indígenas.
+
+> <small>(REFORMADO, G.G. 30 DE OCTUBRE DE 2015)</small>
+
+Tal representación deberá ser reconocida por el Ayuntamiento electo a más tardar el 15 de abril del año que corresponda.
+
+> <small>(ADICIONADO, G.G. 28 DE JUNIO DE 2014)</small>
+
+Los municipios pluriculturales, podrán tener un representante por cada etnia y/o grupo indígena.
+
+###### Artículo 79.
+
+Los ayuntamientos podrán destinar recursos y coordinarse con las organizaciones sociales para la prestación de servicios públicos y la ejecución de obras públicas. Dichos recursos quedarán sujetos al control y vigilancia de las autoridades municipales.
+
+###### Artículo 80.
+
+Para satisfacer las necesidades colectivas, los ayuntamientos podrán solicitar la cooperación de instituciones privadas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE OCTUBRE DE 2010)</small>
+
+### CAPITULO SEXTO. De las Unidades y Consejos Municipales de Protección Civil
+
+> <small>(REFORMADO, G.G. 4 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 81.
+
+En cada municipio se establecerá una Unidad Municipal de Protección Civil misma que se coordinará con las dependencias de la administración pública que sean necesarias y cuyo jefe inmediato será el Presidente Municipal.
+
+Las unidades municipales de protección civil tendrán a su cargo la organización, coordinación y operación de programas municipales de protección civil apoyándose en el respectivo Consejo Municipal.
+
+La Unidad Municipal de Protección Civil, será la autoridad encargada de dar la primer respuesta en la materia, debiendo asistir a las emergencias que se presenten en su demarcación; en caso de que su capacidad de repuesta (sic) sea superada, está obligada a notificar al Presidente Municipal para solicitar la intervención de la Dirección General de Protección Civil del Estado de México.
+
+> <small>(ADICIONADO, G.G. 4 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 81 Bis.
+
+Para ser titular de la Unidad Municipal de Protección Civil se requiere, además de los requisitos del artículo 32 de esta Ley:
+
+I. Tener los conocimientos suficientes debidamente acreditados en materia de protección civil para poder desempeñar el cargo y acreditar dentro de los seis meses siguientes a partir del momento en que ocupe el cargo, haber tomado cursos de capacitación en la materia, impartidos por la Dirección General de Protección Civil del Estado de México o por cualquier otra institución debidamente reconocida por la misma.
+
+> <small>(ADICIONADO, G.G. 4 DE OCTUBRE DE 2010)</small>
+
+###### Artículo 81 Ter.
+
+Cada Ayuntamiento constituirá un consejo municipal de protección civil que encabezará el presidente municipal, con funciones de órgano de consulta y participación de los sectores público, social y privado para la prevención y adopción de acuerdos, ejecución de acciones y en general, de todas las actividades necesarias para la atención inmediata y eficaz de los asuntos relacionados con situaciones de emergencia, desastre, o calamidad pública que afecten a la población.
+
+Son atribuciones de los Consejos Municipales de Protección Civil:
+
+I. Identificar en un Atlas de Riesgos Municipal, que deberá actualizarse permanentemente y publicarse en la Gaceta Municipal durante el primer año de gestión de cada ayuntamiento, sitios que por sus características específicas puedan ser escenarios de situaciones de emergencia, desastre o calamidad públicas;
+
+II. Formular, en coordinación con las autoridades estatales de la materia, planes operativos para fomentar la cultura de la prevención, detección de riesgos, auxilio, protección a la población, restablecimiento a la normalidad y conocimientos básicos que permitan el aprendizaje de medidas de autoprotección y de auxilio, con la oportunidad y eficacia debidas.
+
+III. Definir y poner en práctica los instrumentos de concertación que se requieran entre los sectores del municipio, con otros municipios y el Gobierno del Estado, con la finalidad de coordinar acciones y recursos para la mejor ejecución de los programas y planes operativos.
+
+IV. Coordinar sus acciones con los sistemas nacional y estatal de protección civil;
+
+V. Crear y establecer los órganos y mecanismos que promuevan y aseguren la participación de la comunidad municipal, las decisiones y acciones del Consejo, especialmente a través de la formación del Voluntariado de Protección Civil;
+
+VI. Operar, sobre la base de las dependencias municipales, las agrupaciones sociales y voluntariado participantes, un sistema municipal en materia de prevención, información, capacitación, auxilio y protección civil en favor de la población del municipio.
+
+### CAPITULO SEPTIMO. Comisión de Planeación para el Desarrollo Municipal
+
+###### Artículo 82.
+
+La Comisión de Planeación para el Desarrollo Municipal, se integrará con ciudadanos distinguidos del municipio, representativos de los sectores público, social y privado, así como de las organizaciones sociales del municipio también podrán incorporarse a miembros de los consejos de participación ciudadana.
+
+###### Artículo 83.
+
+La Comisión de Planeación para el Desarrollo Municipal tendrá las siguientes atribuciones:
+
+I. Proponer al ayuntamiento los mecanismos, instrumentos o acciones para la formulación, control y evaluación del Plan de Desarrollo Municipal;
+
+II. Consolidar un proceso permanente y participativo de planeación orientado a resolver los problemas municipales;
+
+III. Formular recomendaciones para mejorar la administración municipal y la prestación de los servicios públicos;
+
+IV. Realizar estudios y captar la información necesaria para cumplir con las encomiendas contenidas en las fracciones anteriores;
+
+V. Gestionar la expedición de reglamentos o disposiciones administrativas que regulen el funcionamiento de los programas que integren el Plan de Desarrollo Municipal;
+
+VI. Comparecer ante el cabildo cuando éste lo solicite, o cuando la comisión lo estime conveniente;
+
+VII. Proponer, previo estudio, a las autoridades municipales, la realización de obras o la creación de nuevos servicios públicos o el mejoramiento a los ya existentes mediante el sistema de cooperación y en su oportunidad promover la misma;
+
+> <small>(ADICIONADA, G.G. 3 DE SEPTIEMBRE DE 2010)</small>
+
+VII bis. Proponer a las autoridades municipales la ejecución de acciones encaminadas a mejorar los programas y subprogramas de protección civil establecidos en la presente Ley;
+
+VIII. Desahogar las consultas que en materia de creación y establecimiento de nuevos asentamientos humanos dentro del municipio, les turne el ayuntamiento;
+
+IX. Formar subcomisiones de estudio para asuntos determinados;
+
+X. Proponer al cabildo su reglamento interior.
+
+###### Artículo 84.
+
+El presidente municipal, al inicio de su período constitucional, convocará a organizaciones sociales de la comunidad para que se integren a la Comisión de Planeación para el Desarrollo Municipal.
+
+###### Artículo 85.
+
+La Comisión de Planeación para el Desarrollo Municipal contará con un mínimo de cinco miembros encabezados por quien designe el ayuntamiento, y podrá tener tantos como se juzgue conveniente para el eficaz desempeño de sus funciones, los cuales durarán en su encargo el período municipal correspondiente.
+
+## TITULO IV. Régimen Administrativo
+
+### CAPITULO PRIMERO. De las Dependencias Administrativas
+
+> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2009)</small>
+
+###### Artículo 86.
+
+Para el ejercicio de sus atribuciones y responsabilidades ejecutivas, el ayuntamiento se auxiliará con las dependencias y entidades de la administración pública municipal, que en cada caso acuerde el cabildo a propuesta del presidente municipal, las que estarán subordinadas a este servidor público. El servidor público titular de las referidas dependencias y entidades de la administración municipal, ejercerá las funciones propias de su competencia y será responsable por el ejercicio de dichas funciones y atribuciones contenidas en la Ley, sus reglamentos interiores, manuales, acuerdos, circulares y otras disposiciones legales que tiendan a regular el funcionamiento del Municipio.
+
+###### Artículo 87.
+
+Para el despacho, estudio y planeación de los diversos asuntos de la administración municipal, el ayuntamiento contará por lo menos con las siguientes Dependencias:
+
+I. La secretaría del ayuntamiento;
+
+II. La tesorería municipal.
+
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+III. La Dirección de Obras Públicas o equivalente.
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+IV. La Dirección de Desarrollo Económico o equivalente.
+
+###### Artículo 88.
+
+Las dependencias y entidades de la administración pública municipal conducirán sus acciones con base en los programas anuales que establezca el ayuntamiento para el logro de los objetivos del Plan de Desarrollo Municipal.
+
+> <small>(REFORMADO, G.G. 17 DE AGOSTO DE 2009)</small>
+
+###### Artículo 89.
+
+Las dependencias y entidades de la administración pública municipal, tales como organismos públicos descentralizados, empresas de participación mayoritaria y fideicomisos, ejercerán las funciones propias de su competencia previstas y serán responsables del ejercicio de las funciones propias de su competencia, en términos de la Ley o en los reglamentos o acuerdos expedidos por los ayuntamientos. En los reglamentos o acuerdos se establecerán las estructuras de organización de las unidades administrativas de los ayuntamientos, en función de las características socio-económicas de los respectivos municipios, de su capacidad económica y de los requerimientos de la comunidad.
+
+###### Artículo 90.
+
+Los titulares de cada una de las dependencias y entidades de la administración pública municipal, acordarán directamente con el presidente municipal o con quien éste determine, y deberán cumplir los requisitos señalados en esta Ley; éstos servidores públicos preferentemente serán vecinos del municipio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE OCTUBRE DE 2014)</small>
+
+###### Artículo 91.
+
+La Secretaría del Ayuntamiento estará a cargo de un Secretario, el que, sin ser miembro del mismo, deberá ser nombrado por el propio Ayuntamiento a propuesta del Presidente Municipal como lo marca el artículo 31 de la presente ley. Sus faltas temporales serán cubiertas por quien designe el Ayuntamiento y sus atribuciones son las siguientes:
+
+I. Asistir a las sesiones del ayuntamiento y levantar las actas correspondientes;
+
+II. Emitir los citatorios para la celebración de las sesiones de cabildo, convocadas legalmente;
+
+III. Dar cuenta en la primera sesión de cada mes, del número y contenido de los expedientes pasados a comisión, con mención de los que hayan sido resueltos y de los pendientes;
+
+IV. Llevar y conservar los libros de actas de cabildo, obteniendo las firmas de los asistentes a las sesiones;
+
+V. Validar con su firma, los documentos oficiales emanados del ayuntamiento o de cualquiera de sus miembros;
+
+VI. Tener a su cargo el archivo general del ayuntamiento;
+
+VII. Controlar y distribuir la correspondencia oficial del ayuntamiento, dando cuenta diaria al presidente municipal para acordar su trámite;
+
+VIII. Publicar los reglamentos, circulares y demás disposiciones municipales de observancia general;
+
+IX. Compilar leyes, decretos, reglamentos, periódicos oficiales del estado, circulares y órdenes relativas a los distintos sectores de la administración pública municipal;
+
+> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2015)</small>
+
+X. Expedir las constancias de vecindad, de identidad o de última residencia que soliciten los habitantes del municipio, en un plazo no mayor de 24 horas, así como las certificaciones y demás documentos públicos que legalmente procedan, o los que acuerde el ayuntamiento;
+
+> <small>(REFORMADA, G.G. 6 DE SEPTIEMBRE DE 2004)</small>
+
+XI. Elaborar con la intervención del síndico el inventario general de los bienes muebles e inmuebles municipales, así como la integración del sistema de información inmobiliaria, que contemple los bienes del dominio público y privado, en un término que no exceda de un año contado a partir de la instalación del ayuntamiento y presentarlo al cabildo para su conocimiento y opinión.
+
+En el caso de que el ayuntamiento adquiera por cualquier concepto bienes muebles o inmuebles durante su ejercicio, deberá realizar la actualización del inventario general de los bienes muebles e inmuebles y del sistema de información inmobiliaria en un plazo de ciento veinte días hábiles a partir de su adquisición y presentar un informe trimestral al cabildo para su conocimiento y opinión.
+
+XII. Integrar un sistema de información que contenga datos de los aspectos socio-económicos básicos del municipio;
+
+> <small>(REFORMADA, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+XIII. Ser responsable de la publicación de la Gaceta Municipal, así como de las publicaciones en los estrados de los Ayuntamientos; y
+
+XIV. Las demás que le confieran esta Ley y disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 92.
+
+Para ser secretario del ayuntamiento se requiere, además de los requisitos establecidos en el artículo 32 de esta Ley, los siguientes:
+
+> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
+
+I. En municipios que tengan una población de hasta 150 mil habitantes, podrán tener título profesional de educación superior; en los municipios que tengan más de 150 mil o que sean cabecera distrital, tener título profesional de educación superior;
+
+II. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
+
+III. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
+
+> <small>(ADICIONADA, G.G. 11 DE NOVIEMBRE DE 2015)</small>
+
+IV. Contar con la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México, dentro de los seis meses siguientes a la fecha en que inicie sus funciones.
+
+### CAPITULO SEGUNDO. De la Tesorería Municipal
+
+###### Artículo 93.
+
+La tesorería municipal es el órgano encargado de la recaudación de los ingresos municipales y responsable de realizar las erogaciones que haga el ayuntamiento.
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 94.
+
+El tesorero municipal, al tomar posesión de su cargo, recibirá la hacienda pública de acuerdo con las previsiones a que se refiere el artículo 19 de esta Ley y remitirá un ejemplar de dicha documentación al ayuntamiento, al Órgano Superior de Fiscalización del Estado de México y al archivo de la tesorería.
+
+###### Artículo 95.
+
+Son atribuciones del tesorero municipal:
+
+I. Administrar la hacienda pública municipal, de conformidad con las disposiciones legales aplicables;
+
+II. Determinar, liquidar, recaudar, fiscalizar y administrar las contribuciones en los términos de los ordenamientos jurídicos aplicables y, en su caso, aplicar el procedimiento administrativo de ejecución en términos de las disposiciones aplicables;
+
+III. Imponer las sanciones administrativas que procedan por infracciones a las disposiciones fiscales;
+
+IV. Llevar los registros contables, financieros y administrativos de los ingresos, egresos, e inventarios;
+
+V. Proporcionar oportunamente al ayuntamiento todos los datos o informes que sean necesarios para la formulación del Presupuesto de Egresos Municipales, vigilando que se ajuste a las disposiciones de esta Ley y otros ordenamientos aplicables;
+
+VI. Presentar anualmente al ayuntamiento un informe de la situación contable financiera de la Tesorería Municipal;
+
+VII. Diseñar y aprobar las formas oficiales de manifestaciones, avisos y declaraciones y demás documentos requeridos;
+
+VIII. Participar en la formulación de Convenios Fiscales y ejercer las atribuciones que le correspondan en el ámbito de su competencia;
+
+IX. Proponer al ayuntamiento la cancelación de cuentas incobrables;
+
+X. Custodiar y ejercer las garantías que se otorguen en favor de la hacienda municipal;
+
+XI. Proponer la política de ingresos de la tesorería municipal;
+
+XII. Intervenir en la elaboración del programa financiero municipal;
+
+XIII. Elaborar y mantener actualizado el Padrón de Contribuyentes;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+XIV. Ministrar a su inmediato antecesor todos los datos oficiales que le solicitare, para contestar los pliegos de observaciones y alcances que formule y deduzca el Órgano Superior de Fiscalización del Estado de México;
+
+XV. Solicitar a las instancias competentes, la práctica de revisiones circunstanciadas, de conformidad con las normas que rigen en materia de control y evaluación gubernamental en el ámbito municipal;
+
+XVI. Glosar oportunamente las cuentas del ayuntamiento;
+
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+XVII. Contestar oportunamente los pliegos de observaciones y responsabilidad que haga el Órgano Superior de Fiscalización del Estado de México, así como atender en tiempo y forma las solicitudes de información que éste requiera, informando al Ayuntamiento;
+
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+XVIII. Expedir copias certificadas de los documentos a su cuidado, por acuerdo expreso del Ayuntamiento y cuando se trate de documentación presentada ante el Órgano Superior de Fiscalización del Estado de México;
+
+> <small>(REFORMADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+XIX. Recaudar y administrar los ingresos que se deriven de la suscripción de convenios, acuerdos o la emisión de declaratorias de coordinación; los relativos a las transferencias otorgadas a favor del Municipio en el marco del Sistema Nacional o Estatal de Coordinación Fiscal, o los que reciba por cualquier otro concepto; así como el importe de las sanciones por infracciones impuestas por las autoridades competentes, por la inobservancia de las diversas disposiciones y ordenamientos legales, constituyendo los créditos fiscales correspondientes;
+
+> <small>(ADICIONADA, G.G. 17 DE AGOSTO DE 2009)</small>
+
+XX. Dar cumplimiento a las leyes, convenios de coordinación fiscal y demás que en materia hacendaria celebre el Ayuntamiento con el Estado;
+
+> <small>(REFORMADA, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+XXI. Entregar oportunamente a él o los Síndicos, según sea el caso, el informe mensual que corresponda, a fin de que se revise, y de ser necesario, para que se formulen las observaciones respectivas.
+
+> <small>(ADICIONADA, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+XXII. Las que les señalen las demás disposiciones legales y el ayuntamiento.
+
+###### Artículo 96.
+
+Para ser tesorero municipal se requiere, además de los requisitos del artículos (sic) 32 de esta Ley:
+
+> <small>(REFORMADA, G.G. 13 DE JULIO DE 2015)</small>
+
+I. Tener los conocimientos suficientes para poder desempeñar el cargo, a juicio del Ayuntamiento; contar con título profesional en las áreas jurídicas, económicas o contable-administrativas, con experiencia mínima de un año y con la certificación de competencia laboral en funciones expedida por el Instituto Hacendario del Estado de México, con anterioridad a la fecha de su designación;
+
+El requisito de la certificación de competencia laboral, deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicie funciones.
+
+> <small>(REFORMADA, G.G. 21 DE ABRIL DE 2014)</small>
+
+II. Caucionar el manejo de los fondos municipales, por un monto equivalente al uno al millar del importe correspondiente a los ingresos propios del municipio y las participaciones que en ingresos federales y estatales le correspondieron en el ejercicio inmediato anterior;
+
+III. (DEROGADA, G.G. 4 DE OCTUBRE DE 2010)
+
+IV. Cumplir con otros requisitos que señalen las leyes, o acuerde el ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 17 DE AGOSTO DE 2009)</small>
+
+###### Artículo 96. Bis.
+
+El Director de Obras Públicas o el Titular de la Unidad Administrativa equivalente, tiene las siguientes atribuciones:
+
+I. Realizar la programación y ejecución de las obras públicas y servicios relacionados, que por orden expresa del Ayuntamiento requieran prioridad;
+
+II. Planear y coordinar los proyectos de obras públicas y servicios relacionados con las mismas que autorice el Ayuntamiento, una vez que se cumplan los requisitos de licitación y otros que determine la ley de la materia;
+
+III. Proyectar las obras públicas y servicios relacionados, que realice el Municipio, incluyendo la conservación y mantenimiento de edificios, monumentos, calles, parques y jardines;
+
+IV. Construir y ejecutar todas aquellas obras públicas y servicios relacionados, que aumenten y mantengan la infraestructura municipal y que estén consideradas en el programa respectivo;
+
+V. Determinar y cuantificar los materiales y trabajos necesarios para programas de construcción y mantenimiento de obras públicas y servicios relacionados;
+
+VI. Vigilar que se cumplan y lleven a cabo los programas de construcción y mantenimiento de obras públicas y servicios relacionados;
+
+VII. Cuidar que las obras públicas y servicios relacionados cumplan con los requisitos de seguridad y observen las normas de construcción y términos establecidos;
+
+VIII. Vigilar la construcción en las obras por contrato y por administración que hayan sido adjudicadas a los contratistas;
+
+IX. Administrar y ejercer, en el ámbito de su competencia, de manera coordinada con el Tesorero municipal, los recursos públicos destinados a la planeación, programación, presupuestación, adjudicación, contratación, ejecución y control de la obra pública, conforme a las disposiciones legales aplicables y en congruencia con los planes, programas, especificaciones técnicas, controles y procedimientos administrativos aprobados;
+
+X. Verificar que las obras públicas y los servicios relacionados con la misma, hayan sido programadas, presupuestadas, ejecutadas, adquiridas y contratadas en estricto apego a las disposiciones legales aplicables;
+
+XI. Integrar y verificar que se elaboren de manera correcta y completa las bitácoras y/o expedientes abiertos con motivo de la obra pública y servicios relacionados con la misma, conforme a lo establecido en las disposiciones legales aplicables;
+
+XII. Promover la construcción de urbanización, infraestructura y equipamiento urbano;
+
+XIII. Formular y conducir la política municipal en materia de obras públicas e infraestructura para el desarrollo;
+
+XIV. Cumplir y hacer cumplir la legislación y normatividad en materia de obra pública;
+
+XV. Proyectar, formular y proponer al Presidente Municipal, el Programa General de Obras Públicas, para la construcción y mejoramiento de las mismas, de acuerdo a la normatividad aplicable y en congruencia con el Plan de Desarrollo Municipal y con la política, objetivos y prioridades del Municipio y vigilar su ejecución;
+
+XVI. Dictar las normas generales y ejecutar las obras de reparación, adaptación y demolición de inmuebles propiedad del municipio que le sean asignadas;
+
+XVII. Ejecutar y mantener las obras públicas que acuerde el Ayuntamiento, de acuerdo a la legislación y normatividad aplicable, a los planes, presupuestos y programas previamente establecidos, coordinándose, en su caso, previo acuerdo con el Presidente Municipal, con las autoridades Federales, Estatales y municipales concurrentes;
+
+XVIII. Vigilar que la ejecución de la obra pública adjudicada y los servicios relacionados con ésta, se sujeten a las condiciones contratadas;
+
+XIX. Establecer los lineamientos para la realización de estudios y proyectos de construcción de obras públicas;
+
+XX. Autorizar para su pago, previa validación del avance y calidad de las obras, los presupuestos y estimaciones que presenten los contratistas de obras públicas municipales;
+
+XXI. Formular el inventario de la maquinaria y equipo de construcción a su cuidado o de su propiedad, manteniéndolo en óptimas condiciones de uso;
+
+XXII. Coordinar y supervisar que todo el proceso de las obras públicas que se realicen en el municipio se realice conforme a la legislación y normatividad en materia de obra pública;
+
+XXIII. Controlar y vigilar el inventario de materiales para construcción;
+
+XXIV. Integrar y autorizar con su firma, la documentación que en materia de obra pública, deba presentarse al Órgano Superior de Fiscalización del Estado de México;
+
+XXV. Formular las bases y expedir la convocatoria a los concursos para la realización de las obras públicas municipales, de acuerdo con los requisitos que para dichos actos señale la legislación y normatividad respectiva, vigilando su correcta ejecución; y
+
+XXVI. Las demás que les señalen las disposiciones aplicables.
+
+> <small>(REFORMADO, G.G. 11 DE NOVIEMBRE DE 2015)</small>
+
+###### Artículo 96 Ter.
+
+El Director de Obras Públicas o Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere contar con título profesional en ingeniería, arquitectura o alguna área afín, y con una experiencia mínima de un año, con anterioridad a la fecha de su designación.
+
+Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+
+> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 96. Quáter.
+
+El Director de Desarrollo Económico o el Titular de la Unidad Administrativa equivalente, tiene las siguientes atribuciones:
+
+I. Diseñar y promover políticas que generen inversiones productivas y empleos remunerados;
+
+II. Promover programas de simplificación, desregulación y transparencia administrativa para facilitar la actividad económica;
+
+III. Auxiliar al Presidente Municipal en la ejecución del programa de mejora regulatoria que autorice el Cabildo en los términos de la Ley de la materia;
+
+IV. Desarrollar e implementar las acciones de coordinación que permitan la adecuada operación del Sistema Único de Gestión Empresarial, de conformidad con la Ley de la materia;
+
+V. Establecer y operar el Sistema de Apertura Rápida de Empresas del Estado de México en coordinación con los distintos órdenes de Gobierno en los términos que establece la Ley de la materia;
+
+> <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
+
+En los casos en que no se haya celebrado convenio de coordinación para la unidad económica del Sistema de Apertura Rápida de Empresas del Estado de México en el municipio, se deberá establecer y operar una ventanilla única que brinde orientación, asesoría y gestión a los particulares respecto de los trámites requeridos para la instalación, apertura, operación y ampliación de nuevos negocios que no generen impacto regional;
+
+VI. Desarrollar y difundir un sistema de información y promoción del sector productivo del Municipio;
+
+VII. Promover y difundir, dentro y fuera del Municipio las ventajas competitivas que se ofrecen en la localidad a la inversión productiva, en foros estatales, nacionales e internacionales;
+
+VIII. Promover en el sector privado la investigación y desarrollo de proyectos productivos, para atraer capitales de inversión;
+
+IX. Impulsar la participación del sector privado en el desarrollo de infraestructura comercial e industrial;
+
+X. Promover la capacitación, tanto del sector empresarial como del sector laboral, en coordinación con instituciones y organismos públicos y privados, para alcanzar mejores niveles de productividad y calidad de la base empresarial instalada en el Municipio, así como difundir los resultados y efectos de dicha capacitación;
+
+XI. Fomentar la creación de cadenas productivas entre micro, pequeños y medianos empresarios, con los grandes empresarios;
+
+XII. Fomentar y promover la actividad comercial, incentivando su desarrollo ordenado y equilibrado, para la obtención de una cultura de negocios corresponsables de la seguridad, limpia y abasto cualitativo en el Municipio;
+
+XIII. Impulsar el desarrollo rural sustentable a través de la capacitación para el empleo de nuevas tecnologías, la vinculación del sector con las fuentes de financiamiento, la constitución de cooperativas para el desarrollo, y el establecimiento de mecanismos de información sobre los programas municipales, estatales y federales, públicos o privados;
+
+XIV. Difundir la actividad artesanal a través de la organización del sector, capacitación de sus integrantes y su participación en ferias y foros, que incentive la comercialización de los productos;
+
+XV. Promover el consumo en establecimientos comerciales y de servicios del Municipio;
+
+XVI. Fomentar la comercialización de productos hechos en el Municipio en mercados nacionales e internacionales;
+
+XVII. Auxiliar al Presidente Municipal en la coordinación con las dependencias del Ejecutivo Estatal que son responsables de la mejora regulatoria y fomento económico en los términos que señale la Ley de la materia;
+
+XVIII. Conducir la coordinación interinstitucional de las dependencias municipales a las que corresponda conocer sobre el otorgamiento de permisos y licencias para la apertura y funcionamiento de unidades económicas;
+
+> <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
+
+Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+XIX. Operar y actualizar el Registro Municipal de Unidades Económicas de los permisos o licencias de funcionamiento otorgadas a las unidades económicas respectivas, así como remitir dentro de los cinco días hábiles siguientes los datos generados al Sistema que al efecto integre la Secretaría de Desarrollo Económico, a la Secretaría de Seguridad y a la Fiscalía General de Justicia del Estado de México, la información respectiva;
+
+> <small>(ADICIONADA, G.G. 29 DE AGOSTO DE 2013)</small>
+
+XX. Las demás que señalen las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.G. 11 DE NOVIEMBRE DE 2015)</small>
+
+Artículo 96 Quintus.- El Director de Desarrollo Económico o Titular de la Unidad Administrativa equivalente, además de los requisitos del artículo 32 de esta Ley, requiere contar con título profesional en el área económico-administrativa, y con experiencia mínima de un año, con anterioridad a la fecha de su designación.
+
+Además deberá acreditar, dentro de los seis meses siguientes a la fecha en que inicie funciones, la certificación de competencia laboral expedida por el Instituto Hacendario del Estado de México.
+
+### CAPITULO TERCERO. De la Hacienda Pública Municipal
+
+###### Artículo 97.
+
+La hacienda pública municipal se integra por:
+
+I. Los bienes muebles e inmuebles propiedad del municipio;
+
+II. Los capitales y créditos a favor del municipio, así como los intereses y productos que generen los mismos;
+
+III. Las rentas y productos de todos los bienes municipales;
+
+IV. Las participaciones que perciban de acuerdo con las leyes federales y del Estado;
+
+V. Las contribuciones y demás ingresos determinados en la Ley de Ingresos de los Municipios, los que decrete la Legislatura y otros que por cualquier título legal reciba;
+
+VI. Las donaciones, herencias y legados que reciban.
+
+###### Artículo 98.
+
+El gasto público comprende las erogaciones que por concepto de gasto corriente, inversión física, inversión financiera y cancelación de pasivo realicen los municipios.
+
+> <small>(REFORMADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+
+###### Artículo 99.
+
+El presidente municipal presentará anualmente al ayuntamiento a más tardar el 20 de diciembre, el proyecto de presupuesto de egresos, para su consideración y aprobación.
+
+###### Artículo 100.
+
+El presupuesto de egresos deberá contener las previsiones de gasto público que habrán de realizar los municipios.
+
+###### Artículo 101.
+
+El proyecto del presupuesto de egresos se integrará básicamente con:
+
+I. Los programas en que se señalen objetivos, metas y unidades responsables para su ejecución, así como la valuación estimada del programa;
+
+II. Estimación de los ingresos y gastos del ejercicio fiscal calendarizados;
+
+III. Situación de la deuda pública.
+
+> <small>(ADICIONADO, G.G. 10 DE NOVIEMBRE DE 2010)</small>
+
+El proyecto de presupuesto de egresos deberá realizarse con base en los criterios de proporcionalidad y equidad, considerando las necesidades básicas de las localidades que integran al municipio.
+
+###### Artículo 102.
+
+Los municipios solo podrán contraer obligaciones directas y contingentes derivadas de créditos en los términos que establece la Ley de Deuda Pública Municipal del Estado.
+
+###### Artículo 103.
+
+La formulación de estados financieros o presupuestales se realizará en base a sistemas, procedimientos y métodos de contabilidad gubernamental aplicables, así como a las normas previstas en otros ordenamientos.
+
+###### Artículo 104.
+
+La inspección de la hacienda pública municipal compete al ayuntamiento por conducto del síndico, sin perjuicio del ejercicio de las funciones de control interno que en su caso realicen directamente los órganos de control y evaluación en los términos de esta Ley.
+
+A la Secretaría de la Contraloría del Gobierno del Estado le corresponde vigilar en los términos de los convenios respectivos, que los recursos federales y estatales que ejerzan directamente los municipios, se apliquen conforme a lo estipulado en los mismos.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 105.
+
+Los bienes del dominio público municipal son de uso común o destinados a un servicio público, de conformidad con lo que establece la Ley de Bienes del Estado de México y de sus Municipios, en los términos siguientes:
+
+I. Son bienes de uso común los que pueden ser aprovechados por los habitantes del municipio, sin más limitaciones y restricciones que las establecidas en las leyes y reglamentos administrativos; y
+
+II. Son bienes destinados a un servicio público, aquellos que utilice el municipio para el desarrollo de sus actividades o los que de hecho se utilizan para la prestación de servicios o actividades equiparables a ellos.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 106.
+
+Son bienes del dominio privado de los municipios, aquellos que no son de uso común ni están destinados a un servicio público y que por su naturaleza están sujetos al derecho privado.
+
+Se consideran bienes del dominio privado municipal, los señalados en la Ley de Bienes del Estado de México y de sus Municipios.
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2011)</small>
+
+###### Artículo 107.
+
+El Ayuntamiento, previo dictamen del Comité correspondiente, podrá acordar la transmisión a título oneroso o gratuito, de los bienes muebles del dominio privado municipal, a través del procedimiento establecido en el Libro Décimo Tercero del Código Administrativo del Estado de México y su Reglamento.
+
+###### Artículo 108.
+
+Los tribunales del Estado serán competentes para conocer de los juicios que se relacionen con los bienes del dominio público o privado de los municipios.
+
+> <small>(REFORMADO, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+###### Artículo 109.
+
+Se reconoce acción popular para denunciar ante el ayuntamiento, ante el Órgano Superior de Fiscalización del Estado de México, o ante el Ejecutivo del Estado, la malversación de fondos municipales y cualquier otro hecho presuntamente delictivo en contra de la hacienda municipal.
+
+### CAPITULO CUARTO. De la Contraloría Municipal
+
+###### Artículo 110.
+
+Las funciones de contraloría interna estarán a cargo del órgano que establezca el Ayuntamiento.
+
+###### Artículo 111.
+
+La contraloría municipal tendrá un titular denominado Contralor, quien será designado por el ayuntamiento a propuesta del presidente municipal.
+
+###### Artículo 112.
+
+El órgano de contraloría interna municipal, tendrá a su cargo las siguientes funciones:
+
+I. Planear, programar, organizar y coordinar el sistema de control y evaluación municipal;
+
+II. Fiscalizar el ingreso y ejercicio del gasto público municipal y su congruencia con el presupuesto de egresos;
+
+III. Aplicar las normas y criterios en materia de control y evaluación;
+
+IV. Asesorar a los órganos de control interno de los organismos auxiliares y fideicomisos de la administración pública municipal;
+
+V. Establecer las bases generales para la realización de auditorías e inspecciones;
+
+VI. Vigilar que los recursos federales y estatales asignados a los ayuntamientos se apliquen en los términos estipulados en las leyes, los reglamentos y los convenios respectivos;
+
+VII. Vigilar el cumplimiento de las obligaciones de proveedores y contratistas de la administración pública municipal;
+
+(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008) (F. DE E., G.G. 19 DE DICIEMBRE DE 2008)
+
+VIII. Coordinarse con el Órgano Superior de Fiscalización del Estado de México y la Contraloría del Poder Legislativo y con la Secretaría de la Contraloría del Estado para el cumplimiento de sus funciones;
+
+IX. Designar a los auditores externos y proponer al ayuntamiento, en su caso, a los Comisarios de los Organismos Auxiliares;
+
+X. Establecer y operar un sistema de atención de quejas, denuncias y sugerencias;
+
+XI. Realizar auditorías y evaluaciones e informar del resultado de las mismas al ayuntamiento;
+
+XII. Participar en la entrega-recepción de las unidades administrativas de las dependencias, organismos auxiliares y fideicomisos del municipio;
+
+> <small>(REFORMADA, G.G. 27 DE NOVIEMBRE DE 2008)</small>
+
+XIII. Dictaminar los estados financieros de la tesorería municipal y verificar que se remitan los informes correspondientes al Órgano Superior de Fiscalización del Estado de México;
+
+XIV. Vigilar que los ingresos municipales se enteren a la tesorería municipal conforme a los procedimientos contables y disposiciones legales aplicables;
+
+XV. Participar en la elaboración y actualización del inventario general de los bienes muebles e inmuebles propiedad del municipio, que expresará las características de identificación y destino de los mismos;
+
+XVI. Verificar que los servidores públicos municipales cumplan con la obligación de presentar oportunamente la manifestación de bienes, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios;
+
+> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2012)</small>
+
+XVII. Hacer del conocimiento del Órgano Superior de Fiscalización del Estado de México, de las responsabilidades administrativas resarcitorias de los servidores públicos municipales, dentro de los tres días hábiles siguientes a la interposición de las mismas; y remitir los procedimientos resarcitorios, cuando así sea solicitado por el Órgano Superior, en los plazos y términos que le sean indicados por éste;
+
+> <small>(REFORMADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XVIII. Supervisar el cumplimiento de los acuerdos tomados por el Consejo Municipal de Seguridad Pública;
+
+> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+
+XIX. Las demás que le señalen las disposiciones relativas.
+
+###### Artículo 113.
+
+Para ser contralor se requiere cumplir con los requisitos que se exigen para ser tesorero municipal, a excepción de la caución correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 15 DE FEBRERO DE 1999)</small>
+
+### CAPITULO CUARTO BIS. De los Comités Ciudadanos de
+
+Control y Vigilancia
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 A.- Los ayuntamientos promoverán la constitución de comités ciudadanos de control y vigilancia, los que serán responsables de supervisar la obra pública estatal y municipal.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 B.- Los comités ciudadanos de control y vigilancia estarán integrados por tres vecinos de la localidad en la que se construya la obra, serán electos en asamblea general, por los ciudadanos beneficiados por aquélla. El cargo de integrante del comité será honorífico.
+
+No podrán ser integrantes de los comités las personas que sean dirigentes de organizaciones políticas o servidores públicos.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 C.- Para cada obra estatal o municipal se constituirá un comité ciudadano de control y vigilancia. Sin embargo, en aquellos casos en que las características técnicas o las dimensiones de la obra lo ameriten, podrán integrarse más de uno.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 D.- Los comités ciudadanos de control y vigilancia tendrán además, las siguientes funciones:
+
+I. Vigilar que la obra pública se realice de acuerdo al expediente técnico y dentro de la normatividad correspondiente;
+
+II. Participar como observador en los procesos o actos administrativos relacionados con la adjudicación o concesión de la ejecución de la obra;
+
+III. Hacer visitas de inspección y llevar registro de sus resultados;
+
+IV. Verificar la calidad con que se realiza la obra pública,
+
+V. Hacer del conocimiento de las autoridades correspondientes las irregularidades que observe durante el desempeño de sus funciones o las quejas que reciba de la ciudadanía, con motivo de las obras objeto de supervisión,
+
+VI. Integrar un archivo con la documentación que se derive de la supervisión de las obras,
+
+VII. Intervenir en los actos de entrega-recepción de las obras y acciones, informando a los vecinos el resultado del desempeño de sus funciones; y
+
+VIII. Promover el adecuado mantenimiento de la obra pública ante las autoridades municipales.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 E.- Los comités ciudadanos de control y vigilancia deberán apoyarse en las contralorías municipal y estatal y coadyuvar con el órgano de control interno municipal en el desempeño de las funciones a que se refieren las fracciones VII y VIII del artículo 112 de esta ley.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 F.- Las dependencias y entidades de la administración pública municipal que construyan las obras o realicen las acciones, explicarán a los comités ciudadanos de control y vigilancia, las características físicas y financieras de las obras y les proporcionarán, antes del inicio de la obra, el resumen del expediente técnico respectivo y darles el apoyo, las facilidades y la información necesaria para el desempeño de sus funciones.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 G.- Las dependencias y entidades señaladas en el artículo anterior harán la entrega-recepción de las obras ante los integrantes de los comités ciudadanos de control y vigilancia y de los vecinos de la localidad beneficiados con la obra.
+
+> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+
+Artículo 113 H.- Los comités ciudadanos de control y vigilancia regularán su actividad por los lineamientos que expidan las secretarías de Finanzas y Planeación, de la Contraloría y de la Coordinación General de Apoyo Municipal, cuando las obras se realicen, parcial o totalmente, con recursos del Estado.
+
+### CAPITULO QUINTO. De la Planeación
+
+###### Artículo 114.
+
+Cada ayuntamiento elaborará su plan de desarrollo municipal y los programas de trabajo necesarios para su ejecución en forma democrática y participativa.
+
+###### Artículo 115.
+
+La formulación, aprobación, ejecución, control y evaluación del plan y programas municipales estarán a cargo de los órganos, dependencias o servidores públicos que determinen los ayuntamientos, conforme a las normas legales de la materia y las que cada cabildo determine.
+
+> <small>(REFORMADO, G.G. 31 DE JULIO DE 2012)</small>
+
+###### Artículo 116.
+
+El Plan de Desarrollo Municipal deberá ser elaborado, aprobado y publicado, dentro de los primeros tres meses de la gestión municipal. Su evaluación deberá realizarse anualmente; y en caso de no hacerse se hará acreedor a las sanciones de las dependencias normativas en el ámbito de su competencia.
+
+###### Artículo 117.
+
+El Plan de Desarrollo Municipal tendrá los objetivos siguientes:
+
+I. Atender las demandas prioritarias de la población;
+
+II. Propiciar el desarrollo armónico del municipio;
+
+III. Asegurar la participación de la sociedad en las acciones del gobierno municipal;
+
+IV. Vincular el Plan de Desarrollo Municipal con los planes de desarrollo federal y estatal;
+
+V. Aplicar de manera racional los recursos financieros para el cumplimiento del plan y los programas de desarrollo.
+
+###### Artículo 118.
+
+El Plan de Desarrollo Municipal contendrá al menos, un diagnóstico sobre las condiciones económicas y sociales del municipio, las metas a alcanzar, las estrategias a seguir, los plazos de ejecución, las dependencias y organismos responsables de su cumplimiento y las bases de coordinación y concertación que se requieren para su cumplimiento.
+
+###### Artículo 119.
+
+El Plan de Desarrollo Municipal se complementará con programas anuales sectoriales de la administración municipal y con programas especiales de los organismos desconcentrados y descentralizados de carácter municipal.
+
+###### Artículo 120.
+
+En la elaboración de su Plan de Desarrollo Municipal, los ayuntamientos proveerán lo necesario para promover la participación y consulta populares.
+
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 121.
+
+Los ayuntamientos publicarán su Plan de Desarrollo Municipal a través de la Gaceta Municipal y de los estrados de los Ayuntamientos durante el primer año de gestión y lo difundirán en forma extensa.
+
+###### Artículo 122.
+
+El Plan de Desarrollo y los programas que de éste se deriven, serán obligatorios para las dependencias de la administración pública municipal, y en general para las entidades públicas de carácter municipal.
+
+Los planes y programas podrán ser modificados o suspendidos siguiendo el mismo procedimiento que para su elaboración, aprobación y publicación, cuando lo demande el interés social o lo requieran las circunstancias de tipo técnico o económico.
+
+### CAPITULO SEXTO. De los Organismos Auxiliares y Fideicomisos
+
+###### Artículo 123.
+
+Los ayuntamientos están facultados para constituir con cargo a la hacienda pública municipal, organismos públicos descentralizados, con la aprobación de la Legislatura del Estado, así como aportar recursos de su propiedad en la integración del capital social de empresas paramunicipales y fideicomisos.
+
+> <small>(REFORMADO, G.G. 7 DE AGOSTO DE 2006)</small>
+
+Los ayuntamientos podrán crear organismos públicos descentralizados para:
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+
+a) La atención del desarrollo de la mujer; mediante la creación de albergues para tal objeto;
+
+b) De la cultura física y deporte;
+
+> <small>(REFORMADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+c) Instituto Municipal de la Juventud;
+
+> <small>(ADICIONADO, G.G. 31 DE AGOSTO DE 2010)</small>
+
+d) Otros que consideren convenientes.
+
+###### Artículo 124.
+
+Los órganos de control y evaluación gubernamental de los ayuntamientos, serán los responsables de la supervisión y evaluación de la operación de los organismos auxiliares y fideicomisos a que se refiere el presente capítulo.
+
+### CAPITULO SEPTIMO. De los Servicios Públicos
+
+###### Artículo 125.
+
+Los municipios tendrán a su cargo la prestación, explotación, administración y conservación de los servicios públicos municipales, considerándose enunciativa y no limitativamente, los siguientes:
+
+I. Agua potable, alcantarillado, saneamiento y aguas residuales;
+
+II. Alumbrado público;
+
+III. Limpia y disposición de desechos;
+
+IV. Mercados y centrales de abasto;
+
+V. Panteones;
+
+VI. Rastro;
+
+VII. Calles, parques, jardines, áreas verdes y recreativas;
+
+VIII. Seguridad pública y tránsito;
+
+IX. Embellecimiento y conservación de los poblados, centros urbanos y obras de interés social;
+
+> <small>(REFORMADA, G.G. 22 DE OCTUBRE DE 2014)</small>
+
+X. Asistencia social en el ámbito de su competencia, atención para el desarrollo integral de la mujer y grupos vulnerables, para lograr su incorporación plena y activa en todos los ámbitos;
+
+XI. De empleo.
+
+###### Artículo 126.
+
+La prestación de los servicios públicos deberá realizarse por los ayuntamientos, sus unidades administrativas y organismos auxiliares, quienes podrán coordinarse con el Estado o con otros municipios para la eficacia en su prestación.
+
+Podrá concesionarse a terceros la prestación de servicios públicos municipales, a excepción de los de Seguridad Pública y Tránsito, prefiriéndose en igualdad de circunstancias a vecinos del municipio.
+
+###### Artículo 127.
+
+Cuando los servicios públicos sean prestados directamente por el ayuntamiento, serán supervisados por los regidores o por los órganos municipales respectivos, en la forma que determine esta Ley y los reglamentos aplicables.
+
+Los particulares podrán participar en la prestación de servicios públicos, conforme a las bases de organización y bajo la dirección que acuerden los ayuntamientos.
+
+###### Artículo 128.
+
+Cuando los servicios públicos municipales sean concesionados a terceros, se sujetarán a lo establecido por esta Ley, las cláusulas de la concesión y demás disposiciones aplicables.
+
+###### Artículo 129.
+
+Los ayuntamientos requieren la autorización previa de la Legislatura del Estado para concesionar servicios públicos a su cargo, cuando:
+
+I. El término de la concesión exceda a la gestión del ayuntamiento;
+
+II. Con la concesión del servicio público se afecten bienes inmuebles municipales.
+
+###### Artículo 130.
+
+No pueden otorgarse concesiones para la explotación de servicios públicos municipales a:
+
+I. Miembros del ayuntamiento;
+
+II. Servidores públicos municipales;
+
+III. Sus cónyuges, parientes consanguíneos en línea recta sin limitación de grado y los colaterales hasta el segundo grado y los parientes por afinidad;
+
+IV. A empresas en las cuales sean representantes o tengan intereses económicos las personas a que se refieren las fracciones anteriores.
+
+###### Artículo 131.
+
+El otorgamiento de las concesiones municipales se sujetará a las siguientes bases:
+
+I. Determinación del ayuntamiento sobre la imposibilidad de prestar por sí mismo el servicio, o a la conveniencia de que lo preste un tercero;
+
+II. Realizar convocatoria pública en la cual se estipulen las bases o condiciones y plazos para el otorgamiento de la concesión;
+
+III. Los interesados deberán formular la solicitud respectiva cubriendo los gastos que demanden los estudios correspondientes;
+
+IV. Las bases y condiciones deberán cumplir al menos:
+
+a). Determinación del régimen jurídico a que deberán estar sometidas, su término, las causas de caducidad y revocación, así como la forma de vigilancia en la prestación del servicio;
+
+b). Especificación de las condiciones bajo las cuales se garantice la generalidad, suficiencia y regularidad del servicio;
+
+c). Determinación de las condiciones y formas en que deberán otorgarse las garantías para responder de la prestación del servicio en los términos de la concesión y de esta Ley;
+
+d). Establecimiento del procedimiento para resolver las reclamaciones por afectación de derechos y obligaciones que se generen por el otorgamiento de la concesión para la prestación del servicio público.
+
+###### Artículo 132.
+
+Los ayuntamientos podrán revocar las concesiones municipales cuando:
+
+I. Se constate que el servicio se presta en forma distinta a los términos de la concesión;
+
+II. No se cumpla con las obligaciones que deriven de la concesión ó se preste irregularmente el servicio concesionado;
+
+III. Se constate que el concesionario no conserva los bienes e instalaciones en buen estado de operación, o cuando éstos sufran deterioro por negligencia imputable a aquél, con perjuicio para la prestación eficaz del servicio;
+
+IV. El concesionario pierda capacidad o carezca de los elementos materiales o técnicos para la prestación del servicio;
+
+V. Por cualquier otra causa, el concesionario contravenga las disposiciones aplicables.
+
+###### Artículo 133.
+
+A petición del concesionario al ayuntamiento, antes del vencimiento de la concesión, podrá acordarse la prórroga de la misma por la Legislatura, siempre que subsista la imposibilidad municipal para prestarlo y que el interesado acredite la prestación eficiente del servicio concesionado. En su caso, se establecerá la obligación a cargo del concesionario, de renovar durante el tiempo de vigencia de la prórroga, el equipo e instalaciones para la prestación del servicio.
+
+###### Artículo 134.
+
+Las concesiones caducan:
+
+I. Cuando no se inicie la prestación del servicio dentro del plazo señalado en la concesión;
+
+II. Cuando concluya el término de su vigencia; y cuando el concesionario no otorgue en tiempo y forma las garantías que se le fijen para que tenga vigencia la concesión.
+
+En el caso de las fracciones I y II segunda parte, para decretar la caducidad se oirá previamente al interesado; y en el de la fracción II primer supuesto, opera de pleno derecho por el simple transcurso del tiempo.
+
+###### Artículo 135.
+
+En los casos en que se acuerde la revocación de las concesiones, los bienes con los que se presta el servicio revertirán a favor del municipio, con excepción de aquéllos propiedad del concesionario y que por su naturaleza no estén incorporados de manera directa al propio servicio; en cuyo caso, si se estima que son necesarios para ese fin, se podrán expropiar en términos de ley.
+
+###### Artículo 136.
+
+Las formalidades del procedimiento señalado en el artículo 140, serán aplicables para la revocación de concesiones.
+
+###### Artículo 137.
+
+El ayuntamiento podrá municipalizar los servicios públicos, a fin de prestarlos directamente o conjuntamente con particulares.
+
+###### Artículo 138.
+
+Se municipalizarán los servicios públicos cuando su prestación sea irregular o deficiente, se causen perjuicios graves a la colectividad, o así lo requiera el interés público.
+
+###### Artículo 139.
+
+El procedimiento de municipalización se llevará a cabo a iniciativa del propio ayuntamiento, a solicitud de los usuarios o de las organizaciones sociales.
+
+###### Artículo 140.
+
+El ayuntamiento emitirá la declaratoria de municipalización, una vez oído a los posibles afectados, practicado los estudios respectivos, y previa formulación del dictamen correspondiente que versará sobre la procedencia de la medida y, en su caso, la forma en que deba realizarse.
+
+###### Artículo 141.
+
+Una vez decretada la municipalización del servicio, si el ayuntamiento carece de recursos para prestarlo, podrá concesionarlo en términos de esta Ley.
+
+### CAPITULO OCTAVO. De los Cuerpos de Seguridad Pública y Tránsito
+
+> <small>(REFORMADO, G.G. 25 DE ABRIL DE 2013)</small>
+
+###### Artículo 142.
+
+En cada municipio se integrarán cuerpos de seguridad pública, de bomberos y, en su caso, de tránsito, estos servidores públicos preferentemente serán vecinos del municipio, de los cuales el presidente municipal será el jefe inmediato.
+
+###### Artículo 143.
+
+El Ejecutivo Federal y el Gobernador del Estado en los términos del artículo 115, fracción VII de la Constitución General de la República, tendrán el mando de la fuerza pública en los municipios donde residan habitual o transitoriamente.
+
+En el municipio donde residan permanentemente los Poderes del Estado, el mando de la fuerza pública municipal lo ejercerá, en cualquier caso el Ejecutivo Estatal a través de la Dirección General de Seguridad Pública y Tránsito.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+###### Artículo 144.
+
+Los cuerpos municipales de seguridad pública, de protección civil, de bomberos y de tránsito, se coordinarán en lo relativo a su organización, funcionamiento y aspectos técnicos con la Secretaría General de Gobierno por conducto del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, la Secretaría de Seguridad, el Centro de Control de Confianza, el Instituto Mexiquense de Seguridad y Justicia y la Dirección General de Protección Civil.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Bis.
+
+Para el personal de protección civil, el municipio podrá implementar el servicio profesional de carrera y un régimen complementario de seguridad social.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Ter.
+
+Los Municipios generarán con cargo a sus presupuestos un régimen complementario de seguridad social; reconocimientos y estímulos para Bomberos.
+
+El régimen de estímulos, es el mecanismo por el cual se otorga el reconocimiento público por actos de servicio meritorio o por trayectoria ejemplar, con el objeto de fomentar la calidad y efectividad en el desempeño del servicio para incrementar las posibilidades de promoción y fortalecer la identidad institucional.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Quater.
+
+El Servicio Profesional de Carrera para Bomberos y personal de Protección Civil, es el sistema de administración y control del personal que promueve su profesionalización, desarrollo y permanencia, asegurando la igualdad de oportunidades, ingreso, ascensos, estímulos y beneficios con base en el mérito y la experiencia.
+
+El Servicio Profesional de Carrera para Bomberos y Protección Civil comprende el grado, la antigüedad, las insignias, condecoraciones, estímulos y reconocimientos obtenidos, el resultado de los procesos de promoción, así como el registro de las correcciones disciplinarias y sanciones que, en su caso, haya acumulado el integrante.
+
+> <small>(ADICIONADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+###### Artículo 144 Quinquies.
+
+Los municipios en uso de su autonomía hacendaria, podrán convenir con instituciones públicas o privadas, un sistema de ahorro para la obtención de vivienda, a favor de los Bomberos, Protección Civil y de los cuerpos de seguridad pública.
+
+### CAPITULO NOVENO. Del Sistema de Mérito y Reconocimiento al Servicio Público Municipal
+
+###### Artículo 145.
+
+En cada municipio se establecerá un sistema de mérito y reconocimiento al servicio público municipal con los siguientes objetivos:
+
+I. Mejorar la capacidad de los recursos humanos, estimulados por la capacitación o motivación de los servidores públicos municipales;
+
+II. Mejorar la calidad de los servicios públicos;
+
+III. Desarrollar un sistema efectivo de capacitación y desarrollo;
+
+IV. Lograr la continuidad de los programas;
+
+V. Aprovechar integralmente la experiencia del servidor público municipal;
+
+VI. Orientar la función pública municipal a la calidad total en los servicios públicos;
+
+VII. Propiciar el desarrollo integral de los servidores públicos.
+
+###### Artículo 146.
+
+El sistema de mérito y reconocimiento al servicio público municipal contará con una Comisión Municipal de Evaluación y Reconocimiento Público Municipal en la que participarán:
+
+I. El presidente municipal, quien la presidirá;
+
+II. Un regidor como secretario técnico;
+
+III. A invitación del presidente municipal, un representante del Gobierno del Estado;
+
+IV. En su caso, representantes de colegios o asociaciones profesionales o técnicas.
+
+###### Artículo 147.
+
+Las funciones de la Comisión Municipal de Evaluación y Reconocimiento del Servicio Público Municipal serán las siguientes:
+
+I. Diseñar y operar un sistema de méritos y reconocimientos a la función pública en áreas técnicas;
+
+II. Aplicar exámenes de oposición a los candidatos a ocupar los puestos en áreas técnicas;
+
+III. Emitir dictámenes sobre el desempeño de los servidores públicos de áreas técnicas;
+
+IV. Celebrar evaluaciones cada seis meses a los servidores públicos de áreas técnicas;
+
+V. Llevar un expediente individual de cada una de las personas que colaboran en la Administración Pública Municipal de manera permanente, donde consten los aspectos de las fracciones anteriores para la promoción y desarrollo del personal;
+
+VI. Promover la capacitación y especialización permanente del personal que labora en las áreas técnicas;
+
+VII. Las que el ayuntamiento le asigne.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE AGOSTO DE 2009)</small>
+
+### CAPITULO DECIMO. Selección, Nombramiento, Atribuciones y Obligaciones del Defensor Municipal de Derechos Humanos
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 A.- En cada municipio, el ayuntamiento respectivo, mediante acuerdo de cabildo, expedirá con la oportunidad debida una convocatoria abierta a toda la población para designar al Defensor Municipal de Derechos Humanos, que deberá durar en su cargo tres años, contando a partir de la fecha de su designación, pudiendo ser reelecto por el ayuntamiento por una sola vez y por igual periodo, de acuerdo a los lineamientos siguientes:
+
+> <small>(REFORMADA, G.G. 19 DE AGOSTO DE 2015)</small>
+
+I. La convocatoria abierta se emitirá dentro de los primeros 60 días naturales del periodo constitucional del Ayuntamiento;
+
+II. La convocatoria abierta se publicará y deberá permanecer su difusión por un periodo de cuando menos quince días y no mayor a veinte días naturales, en los lugares de mayor afluencia del municipio, así como en el periódico de mayor circulación dentro del territorio municipal;
+
+III. La convocatoria abierta también se difundirá y se hará del conocimiento de las organizaciones y asociaciones interesadas en el respeto, promoción, divulgación y cultura de los derechos humanos;
+
+IV. De no ocurrir a la convocatoria más de tres aspirantes, el ayuntamiento deberá emitir una segunda convocatoria dentro de los 10 días naturales siguientes al vencimiento de la primera convocatoria;
+
+> <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
+
+V. En caso de no presentarse suficientes aspirantes a la segunda convocatoria para integrar la terna, los miembros del ayuntamiento podrán proponer como aspirantes a personas que se distingan por su honorabilidad o reconocida autoridad moral, respetabilidad y disposición de servicio con sentido humanista a los más desprotegidos. La emisión de la terna corresponderá a la Comisión de Derechos Humanos del Estado de México, en base a la propuesta de la Comisión Municipal de Derechos Humanos, quien deberá previamente escuchar la opinión de la sociedad civil, organismos públicos y privados que tengan por objeto la defensa y protección de los derechos humanos, terna que será sometida a la consideración del cabildo para la designación del Defensor Municipal de Derechos Humanos.
+
+VI. Si al inicio de la administración municipal no se cuenta con un Defensor Municipal de Derechos Humanos, el ayuntamiento deberá emitir la convocatoria respectiva a más tardar dentro de los quince días naturales siguientes a que se le haya tomado la protesta de ley; y
+
+VII. (DEROGADA, G.G. 15 DE JUNIO DE 2016)
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+Artículo 147 B.- El incumplimiento en la emisión de la convocatoria, de quien no la ordene o no la ejecute, será motivo de responsabilidad administrativa, existiendo acción pública para tal efecto, la cual podrá ser informada al Órgano de Control Interno de la Legislatura Estatal.
+
+Artículo 147 B Bis.- (DEROGADO, G.G. 6 DE AGOSTO DE 2009)
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+Artículo 147 C.- La Defensoría Municipal de los Derechos Humanos para el ejercicio de sus funciones debe coordinarse con la Comisión de Derechos Humanos del Estado de México.
+
+> <small>(REFORMADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 D.- La convocatoria abierta que emita el ayuntamiento para acceder a Defensor Municipal de Derechos Humanos deberá reunir, cuando menos, lo siguiente:
+
+I. Nombre del ayuntamiento convocante y fundamento legal;
+
+II. Requisitos que esta Ley exige para ser aspirante a Defensor Municipal de Derechos Humanos;
+
+III. Documentos soporte de los requisitos exigidos a los aspirantes;
+
+IV. Plazo para su presentación;
+
+V. Lugar de recepción de los mismos;
+
+VI. Descripción del procedimiento de selección; y
+
+VII. Publicación de resultados.
+
+Artículo 147 D Bis.- (DEROGADO, G.G. 6 DE AGOSTO DE 2009)
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+Artículo 147 E.- La Secretaría del ayuntamiento recibirá las solicitudes y documentación de los aspirantes, acusándolo de recibido y con el folio respectivo y lo hará del conocimiento del ayuntamiento en la sesión de cabildo ordinaria siguiente, a fin de acordar su remisión a la Comisión Municipal de Derechos Humanos, para la declaratoria de terna, en no más de cinco días hábiles, acompañando copia certificada del punto de acuerdo respectivo.
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+Artículo 147 F.- Una vez recibida la documentación de los aspirantes en la Comisión Municipal de Derechos Humanos, previo estudio y consulta con la sociedad civil organizada, organismos públicos y privados, se emitirá la declaratoria de terna, en un término no mayor a diez días hábiles.
+
+Los puntos no previstos en la convocatoria respectiva serán resueltos por el Ayuntamiento.
+
+> <small>(REFORMADO, G.G. 15 DE JUNIO DE 2016)</small>
+
+Artículo 147 G.- La Comisión Municipal de Derechos Humanos remitirá al cabildo la declaratoria de terna correspondiente, para que la comunique a los aspirantes propuestos, para que en la siguiente sesión ordinaria, expongan su propuesta de plan de trabajo. Será el cabildo quien designe al Defensor Municipal de Derechos Humanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 30 DE MARZO DE 2011)</small>
+
+Artículo 147 H.- La toma de protesta del Defensor Municipal de Derechos Humanos, se realizará en sesión de cabildo, en la que estará presente la o el Presidente de la Comisión de Derechos Humanos del Estado de México o quien lo represente.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+La Secretaría del ayuntamiento, dará a conocer a los habitantes el nombramiento respectivo que se publicará en el órgano oficial de difusión del municipio, además de enviar a la Comisión de Derechos Humanos del Estado de México copia certificada en documento físico o electrónico del acta de la sesión de cabildo correspondiente al nombramiento. Se contará como copia certificada en documento electrónico, para efectos del párrafo anterior, aquel instrumento en el que conste la firma electrónica avanzada o el sello electrónico del Secretario del ayuntamiento.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+El Defensor Municipal de Derechos Humanos estará sujeto al régimen de responsabilidades de los servidores públicos, previsto en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de México.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 I.- El Defensor Municipal de Derechos Humanos debe reunir los requisitos siguientes:
+
+I. Ser mexicano en pleno goce y ejercicio de sus derechos políticos y civiles;
+
+II. Tener residencia efectiva en el municipio no menor a tres años;
+
+III. Tener preferentemente licenciatura, así como experiencia o estudios en derechos humanos;
+
+IV. Tener más de 23 años al momento de su designación;
+
+> <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
+
+V. Gozar de buena fama pública y no haber sido condenado por sentencia ejecutoriada por delito intencional.
+
+VI. No haber sido sancionado en el desempeño de empleo, cargo o comisión en los servicios públicos federal, estatal o municipal, con motivo de alguna recomendación emitida por organismos públicos de derechos humanos; y
+
+VII. No haber sido objeto de sanción de inhabilitación o destitución administrativas para el desempeño de empleo, cargo o comisión en el servicio público, mediante resolución que haya causado estado.
+
+Durante el tiempo de su encargo, el Defensor Municipal de Derechos Humanos no podrá desempeñar otro empleo cargo o comisión públicos, ni realizar cualquier actividad proselitista, excluyéndose las tareas académicas que no riñan con su quehacer.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 J.- El Defensor Municipal de Derechos Humanos dejará de ejercer su encargo por alguna de las causas siguientes:
+
+I. Término del periodo para el que fue electo o reelecto;
+
+II. Renuncia;
+
+III. Incapacidad permanente que le impida el desempeño de sus funciones;
+
+IV. incurrir en 3 o más faltas de asistencia a sus labores sin causa justificada dentro de un lapso de 30 días;
+
+V. Haber sido condenado mediante sentencia ejecutoriada por delito doloso;
+
+VI. Haber sido sancionado en el desempeño de empleo, cargo o comisión en el servicio público, con motivo de recomendación emitida por organismos públicos de derechos humanos;
+
+VII. Transgreda o incurra, en ejercicio de sus funciones, en conductas graves que sean contrarias a las facultades que esta Ley de (sic) atribuye, a los principios que debe regir el ejercicio de las mismas y a las disposiciones contenidas en la Ley de la Comisión de Derechos Humanos del Estado de México; y
+
+VIII. Desempeñe actividades incompatibles con su cargo, en términos de esta Ley.
+
+En los supuestos a que se refieren las fracciones IV, V, VI, VII y VIII el ayuntamiento citará en sesión de cabildo al Defensor Municipal de Derechos Humanos, en el que se le informará de la o las causas de su separación; se garantizará el que sea escuchado y se recibirán las pruebas que en su favor aporte. El ayuntamiento decidirá lo conducente en presencia del Defensor Municipal de Derechos Humanos y lo notificará a la Comisión de Derechos Humanos del Estado de México.
+
+De no presentarse el Defensor Municipal de Derechos Humanos a la sesión de cabildo respectiva, el ayuntamiento determinará lo conducente, siempre y cuando se verifique que exista evidencia plena de la citación, informando de ello a la Comisión de Derechos Humanos del Estado de México.
+
+En caso de que un Defensor Municipal de Derechos Humanos sea separado de su encargo por causas distintas a las establecidas en el presente artículo y/o por otro procedimiento, será motivo de responsabilidad administrativa para quien aplique uno u otro.
+
+De presentarse renuncia o separación del cargo del Defensor Municipal de Derechos Humanos, el ayuntamiento expedirá una nueva convocatoria dentro de los diez días hábiles siguientes, conforme lo establecen las fracciones II, III, IV, V, VI y VII del artículo 147 A de esta Ley; en tanto, nombrará un encargado del despacho durante el periodo que dure el proceso para la designación del nuevo Defensor Municipal de Derechos Humanos, dando el aviso de rigor a la Comisión de Derechos Humanos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 K.- Son atribuciones del Defensor Municipal de Derechos Humanos:
+
+I. Recibir las quejas de la población de su municipalidad y remitirlas a la Comisión de Derechos Humanos del Estado de México, por conducto de sus visitadurías, en términos de la normatividad aplicable;
+
+II. Informar a la Comisión de Derechos Humanos del Estado, acerca de presumibles violaciones a los derechos humanos por actos u omisiones de naturaleza administrativa de cualquier autoridad o servidor público que residan en el municipio de su adscripción;
+
+III. Observar que la autoridad municipal rinda de manera oportuna y veraz los informes que solicite la Comisión de Derechos Humanos;
+
+IV. Verificar que las medidas precautorias o cautelares solicitadas por la Comisión de Derechos Humanos del Estado de México sean cumplidas en sus términos, una vez aceptadas por la autoridad dentro de su municipio;
+
+V. Elaborar acta circunstanciada por hechos que puedan ser considerados violatorios de derechos humanos que ocurran dentro de su adscripción, teniendo fe pública solo para ese efecto, debiendo remitirla a la Visitaduría correspondiente dentro de las 24 horas siguientes;
+
+VI. Practicar conjuntamente con el Visitador respectivo las conciliaciones y mediaciones que se deriven de las quejas de las que tenga conocimiento, conforme lo establecen la Ley de la Comisión de Derechos Humanos del Estado de México y su reglamento;
+
+VII. Coadyuvar con la Comisión de Derechos Humanos del Estado de México en el seguimiento de las recomendaciones que el organismo dicte en contra de autoridades o servidores públicos que residan o ejerzan funciones dentro del municipio;
+
+VIII. Proponer medidas administrativas a los servidores públicos para que durante el desempeño de sus funciones, actúen con pleno respeto a los derechos humanos;
+
+IX. Desarrollar programas y acciones tendentes a promover los derechos humanos;
+
+X. Fomentar y difundir la práctica de los derechos humanos con la participación de organismos no gubernamentales del municipio;
+
+XI. Participar en las acciones y programas de los organismos no gubernamentales de derechos humanos de su municipio, así como supervisar las actividades y evento que éstos realicen;
+
+XII. Asesorar y orientar a los habitantes de su municipio, en especial a los menores, mujeres, adultos mayores, personas en discapacidad, indígenas y detenidos o arrestados, a fin de que les sean respetados sus derechos humanos;
+
+XIII. Participar, promover y fomentar los cursos de capacitación que imparta la Comisión de Derechos Humanos del Estado de México;
+
+XIV. Coordinar acciones con autoridades de salud, de seguridad pública estatal y otras que correspondan, para supervisar que en los centros de atención de adicciones de su municipio no se vulneren los derechos humanos de las personas que se encuentran internadas en los mismos;
+
+XV. Supervisar las comandancias y cárceles municipales, a fin de verificar que cuenten con las condiciones necesarias para realizar sus funciones y no se vulneren los derechos humanos de las personas privadas de su libertad;
+
+XVI. Realizar investigaciones y diagnósticos en materia económica, social, cultural y ambiental, relacionados con la observancia y vigencia de los derechos humanos, para el planteamiento de políticas públicas y programas que se traduzcan en acciones que en la esfera de su competencia aplique el municipio, informando de ello a la Comisión de Derechos Humanos del Estado de México;
+
+XVII. Proponer a la autoridad municipal y comprometer que privilegie la adopción de medidas para el ejercicio de los derechos siguientes: de protección y asistencia a la familia, a la alimentación, a la vivienda, a la salud, a la educación, a la cultura y a un medio ambiente sano, a partir de un mínimo universal existente que registre avances y nunca retrocesos;
+
+XVIII. Promover los derechos de la niñez, de los adolescentes, de la mujer, de los adultos mayores, de las personas en discapacidad, de los indígenas y en sí, de todos los grupos vulnerables; y
+
+XIX. Las demás que les confiera esta Ley, otras disposiciones y la Comisión de Derechos Humanos del Estado de México.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 L.- El Defensor Municipal de Derechos Humanos deberá coordinar sus acciones con la Comisión de Derechos Humanos del Estado de México, a través del Visitador General de la región a la que corresponda el municipio.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 M.- El Defensor Municipal de Derechos Humanos ejercerá el presupuesto que le asigne el ayuntamiento, con sujeción a políticas de racionalidad, austeridad y disciplina presupuestal.
+
+Para tal efecto, el ayuntamiento anualmente deberá incluir en su presupuesto de egresos, las partidas correspondientes a la operatividad de la Defensoría Municipal de Derechos Humanos.
+
+> <small>(REFORMADO, G.G. 30 DE MARZO DE 2011)</small>
+
+Artículo 147 N.- El Defensor Municipal de Derechos Humanos presentará por escrito al ayuntamiento, un informe anual sobre las actividades que haya realizado en el periodo inmediato anterior, del que turnará copia a la Comisión de Derechos Humanos de la entidad.
+
+> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+
+Artículo 147 O.- Corresponderá a la Comisión de Derechos Humanos del Estado de México expedir las disposiciones que reglamenten la organización y funcionamiento de las Defensorías Municipales de Derechos Humanos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE JULIO DE 2013)</small>
+
+### CAPITULO DECIMO PRIMERO. Del Cronista Municipal
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 P.- En cada municipio, el ayuntamiento respectivo, mediante acuerdo de cabildo, expedirá, dentro de los primeros 120 días de la administración municipal, la convocatoria abierta a toda la población para designar al Cronista Municipal.
+
+El ayuntamiento garantizará que se publique y difunda en los lugares de mayor afluencia del municipio, durante un periodo no menor a 15 y no mayor a 20 días naturales. Además, se deberá publicar en un periódico de mayor circulación en el territorio municipal.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 Q.- Para ser Cronista Municipal se requiere:
+
+I. Haber nacido en el municipio o tener en él una residencia no menor de 10 años;
+
+II. Conocer y estar familiarizado con la historia, costumbres, tradiciones, desarrollo cultural y demás elementos que le dan identidad al municipio;
+
+III. Tener reconocida honorabilidad, buena reputación y evidente solvencia moral;
+
+IV. Ser mayor de 30 años.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 R.- El ayuntamiento en cabildo, previo análisis de las propuestas, designará con base en criterios de objetividad, veracidad e imparcialidad, a quien tenga las mayores virtudes y conocimientos para ocupar el cargo del Cronista Municipal.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 S.- El Cronista Municipal tendrá, entre otras funciones, las siguientes:
+
+I. Dar a conocer a la población, a través de la narración escrita, fotográfica o audiovisual los sucesos históricos y de mayor relevancia que hayan acontecido en el municipio;
+
+II. Promover, investigar y divulgar, periódicamente, el patrimonio histórico y cultural del municipio;
+
+III. Promover el rescate, organización y conservación de los archivos históricos del municipio para el conocimiento de la población;
+
+IV. Conocer y divulgar el patrimonio cultural intangible del municipio; y
+
+V. Las demás que tiendan a fortalecer la identidad y el desarrollo municipales.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 T.- El ayuntamiento, una vez designado el Cronista Municipal, convocará a los sectores público, social y privado para constituir el Consejo Municipal de la Crónica, que será un órgano permanente de consulta y de propuestas para el mejor desempeño del Cronista Municipal.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 U.- El Consejo de la Crónica estará integrado hasta por siete ciudadanos honorables y distinguidos, y será presidido por el presidente municipal. Los cargos de este consejo serán honoríficos.
+
+> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
+
+Artículo 147 V.- De conformidad con la disposición presupuestal de cada Ayuntamiento, el cabildo acordará, a propuesta del Presidente Municipal, el rango y nivel salarial del Cronista Municipal, considerando la asignación de recursos materiales y humanos necesarios para su buen funcionamiento.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+## TITULO V. De la Función Mediadora-Conciliadora y de la Calificadora de los Ayuntamientos
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+### CAPITULO PRIMERO. De las Oficialías Mediadora-Conciliadoras y de las Oficialías Calificadoras Municipales
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 148.
+
+En cada municipio el ayuntamiento designará, a propuesta del presidente municipal, al menos a un Oficial Calificador con sede en la cabecera municipal y en las poblaciones que el ayuntamiento determine en cada caso, quienes tendrán las atribuciones a las que se refiere el artículo 150.
+
+Así mismo podrá nombrar a los oficiales mediadores-conciliadores en materia comunitaria que requiera, los cuales durarán en su cargo tres años con posibilidad a ser nombrados para otros periodos.
+
+La forma de concluir la mediación y la conciliación, será por convenios suscritos o por acuerdo de las oficialías en caso de advertir simulación en el trámite.
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 149.
+
+Las oficialías se dividirán en mediadoras-conciliadoras y calificadoras.
+
+I. Para ser Oficial Mediador-Conciliador, se requiere:
+
+a) Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+
+b) No haber sido condenado por delito intencional;
+
+c) Ser de reconocida buena conducta y solvencia moral;
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+d) Tener cuando menos treinta años al día de su designación;
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+e) Ser licenciado en derecho, en psicología, en sociología, en antropología, en trabajo social, o en comunicaciones y tener acreditados los estudios en materia de mediación; y
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+f) Estar certificado por el Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado de México.
+
+II. Para ser Oficial Calificador, se requiere:
+
+a) Ser ciudadano mexicano, en pleno ejercicio de sus derechos;
+
+b) No haber sido condenado por delito intencional;
+
+c) Ser de reconocida buena conducta y solvencia moral;
+
+d) Tener cuando menos veintiocho años al día de la designación; y
+
+e) Ser licenciado en Derecho.
+
+> <small>(REFORMADO, G.G. 4 DE SEPTIEMBRE DE 2003)</small>
+
+###### Artículo 150.
+
+Son facultades y obligaciones de:
+
+I. Los Oficiales Mediadores-Conciliadores:
+
+a) Evaluar las solicitudes de los interesados con el fin de determinar el medio alternativo idóneo para el tratamiento del asunto de que se trate;
+
+b) Implementar y substanciar procedimientos de mediación o conciliación vecinal, comunitaria, familiar, escolar, social o política en su municipio, en todos los casos en que sean requeridos por la ciudadanía o por las autoridades municipales;
+
+c) Cambiar el medio alterno de solución de controversias, cuando de acuerdo con los participantes resulte conveniente emplear uno distinto al inicialmente elegido;
+
+d) Llevar por lo menos un libro de registro de expedientes de mediación o conciliación;
+
+e) Redactar, revisar y en su caso aprobar, los acuerdos o convenios a que lleguen los participantes a través de la mediación o de la conciliación, los cuales deberán ser firmados por ellos y autorizados por el Oficial mediador-conciliador;
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+f) Negar el servicio cuando se pueda perjudicar a la hacienda pública, a las autoridades municipales o a terceros;
+
+g) Dar por concluido el procedimiento de mediación o conciliación en caso de advertir alguna simulación en su trámite;
+
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+h) Asistir a los cursos anuales de actualización y aprobar los exámenes anuales en materia de mediación y conciliación;
+
+> <small>(REFORMADO, G.G. 1 DE DICIEMBRE DE 2010)</small>
+
+i) Recibir asesoría del Centro de Mediación y Conciliación del Poder Judicial del Estado de México; y
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+j) Atender a los vecinos de su adscripción en los conflictos que no sean constitutivos de delito, ni de la competencia de los órganos judiciales o de otras autoridades.
+
+II. De los Oficiales Calificadores:
+
+a) (DEROGADO, G.G. 24 DE AGOSTO DE 2012)
+
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+
+b) Conocer, calificar e imponer las sanciones administrativas municipales que procedan por faltas o infracciones al bando municipal, reglamentos y demás disposiciones de carácter general contenidas en los ordenamientos expedidos por los ayuntamientos, y aquellas que deriven con motivo de la aplicación del Libro Octavo del Código Administrativo del Estado de México, excepto las de carácter fiscal;
+
+c) Apoyar a la autoridad municipal que corresponda, en la conservación del orden público y en la verificación de daños que, en su caso, se causen a los bienes propiedad municipal, haciéndolo saber a quien corresponda;
+
+d) Expedir recibo oficial y enterar en la tesorería municipal los ingresos derivados por concepto de las multas impuestas en términos de Ley.
+
+e) Llevar un libro en donde se asiente todo lo actuado;
+
+f) Expedir a petición de parte, certificaciones de hechos de las actuaciones que realicen;
+
+g) Dar cuenta al presidente municipal de las personas detenidas por infracciones a ordenamientos municipales que hayan cumplido con la sanción impuesta por dicho servidor público o por quien hubiese recibido de este la delegación de tales atribuciones, expidiendo oportunamente la boleta de libertad;
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+h) Conocer, mediar, conciliar y ser arbitro en los accidentes ocasionados con motivo del tránsito vehicular, cuando exista conflicto de intereses, siempre que se trate de daños materiales a propiedad privada y en su caso lesiones a las que se refiere la fracción I del artículo 237 del Código Penal del Estado de México; lo que se hará bajo los siguientes lineamientos:
+
+1. Facultad para ordenar el retiro de vehículos:
+
+En caso de que los conductores de los vehículos involucrados en los hechos de que se trate no lleguen a un arreglo en el mismo en lugar en que éstos hayan ocurrido, se presentarán ante el Oficial Calificador.
+
+El traslado se realizará por los mismos conductores, en caso de que éstos se encuentren en condiciones de circular, o bien, mediante el uso del servicio de grúas de su elección.
+
+Tratándose de vehículos con carga, se permitirá la realización de las maniobras necesarias para descargar el vehículo de que se trate.
+
+2. Etapa conciliatoria:
+
+Una vez que el Oficial Calificador tenga conocimiento de los hechos, hará saber a los conductores las formalidades del procedimiento desde su inicio hasta la vía de apremio e instarlos a que concilien proponiendo alternativas equitativas de solución. En cualquier caso, el resultado de la etapa de conciliación se hará constar en el acta respectiva de manera circunstanciada.
+
+El acuerdo conciliatorio tendrá carácter de cosa juzgada y podrá hacerse efectivo en la vía de apremio prevista en el Código de Procedimientos Civiles del Estado.
+
+La etapa de conciliación no podrá exceder del plazo de tres horas. Una vez vencido el plazo sin que las partes lleguen a un acuerdo, el Oficial Calificador levantará el acta respectiva y procederá conforme al punto siguiente.
+
+3. Reglas en el procedimiento arbitral:
+
+Cuando los involucrados no logren un acuerdo conciliatorio, el Oficial Calificador se constituirá en árbitro e iniciará el procedimiento respectivo actuando de la forma siguiente:
+
+a) Tomará la declaración de los interesados, del oficial de tránsito o policía que conozca de los hechos y, en su caso, de los testigos y ajustadores.
+
+b) Procederá a dar fe de los vehículos involucrados y de los daños que presenten, detallando en lo posible éstos, además, les tomará fotografías que muestren los daños sufridos, para constancia.
+
+c) Asegurará de oficio los vehículos involucrados y solamente se levantará el aseguramiento si los propietarios o conductores otorgan garantía bastante a juicio del Oficial Calificador, para garantizar el pago de la reparación de los daños.
+
+En este caso, los vehículos se devolverán a los propietarios o conductores en depósito provisional, quienes deberán resguardarlos en el lugar que expresamente señalen y tendrán la obligación de permitir el acceso para su revisión a los peritos y al personal que señale el Oficial Calificador, y estará prohibido repararlos, modificarlos, alterarlos o venderlos, teniendo las obligaciones de un depositario civil.
+
+De no presentarse los interesados ante el Oficial Calificador, o de no recibir en depósito los vehículos, estos se remitirán al depósito respectivo.
+
+d) Dará intervención de inmediato a los peritos que el caso requiera en materia de:
+
+- Identificación vehicular;
+
+- Valuación de daños automotrices;
+
+- Tránsito terrestre;
+
+- Medicina legal; y
+
+- Fotografía.
+
+Los peritos de los que se haya solicitado su intervención deberán rendir su dictamen a la brevedad posible, mismo que podrán emitir bajo cualquier medio.
+
+> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+El Oficial Calificador deberá realizar todas las diligencias necesarias y velar para que los peritos estén en condiciones de rendir sus dictámenes. Para estos efectos, podrá requerir la intervención de peritos de la Fiscalía General de Justicia o del personal académico o de investigación científica o tecnológica de las instituciones de educación superior del Estado, que designen éstas, que puedan desempeñar el cargo de perito
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+
+e) El Oficial Calificador a través del medio que resulte más eficaz, realizará consulta a la Fiscalía General de Justicia del Estado, para saber si el o los vehículos involucrados cuentan o no con reporte de robo y para tal efecto proporcionará los números de serie, motor y placas de circulación, asentando constancia de dicha consulta y agregando en su caso la documentación comprobatoria del resultado.
+
+Si de la identificación vehicular se desprenden alteraciones o de la consulta a la base de datos existe reporte de robo de los vehículos afectados, se procederá al aseguramiento y puesta a disposición ante el Ministerio Público.
+
+f) Conciliación en el procedimiento arbitral:
+
+Una vez rendidos los dictámenes periciales, el Oficial Calificador los hará del conocimiento de los involucrados y requerirá al probable responsable garantice o cubra la reparación del daño, la cual podrá realizarse por alguno de los medios legales establecidos.
+
+En esta etapa, nuevamente el Oficial Calificador, instará a los interesados a que concilien y volverá a proponerles alternativas equitativas de solución.
+
+4. Emisión del Laudo:
+
+Agotadas las diligencias, si los interesados no logran un acuerdo conciliatorio, el Oficial Calificador con carácter de árbitro, en el plazo de las setenta y dos horas siguientes emitirá el laudo respectivo debidamente fundado y motivado, mismo que además deberá contener:
+
+a) Lugar, fecha y autoridad arbitral que lo emite;
+
+b) Nombres y domicilios de las partes;
+
+c) Un extracto de los hechos y los dictámenes emitidos;
+
+d) El responsable del accidente de tránsito;
+
+e) El monto de la reparación del daño;
+
+f) La determinación de que el vehículo, en su caso, queda depositado en garantía del afectado, en los términos señalados en este artículo.
+
+5. Ejecución del Laudo:
+
+El laudo arbitral tendrá carácter de cosa juzgada y podrá hacerse efectivo en la vía de apremio prevista en el Código de Procedimientos Civiles del Estado.
+
+El responsable de los daños tendrá un plazo de ocho días para realizar el pago respectivo.
+
+De no realizarse el pago, el interesado tendrá expedito su derecho para promover en la vía de apremio, ante las autoridades judiciales competentes.
+
+6. El Oficial Calificador entregará a los interesados copia certificada del laudo respectivo.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+i) Las demás que les atribuyan los ordenamientos municipales aplicables, previo el pago de los derechos correspondientes.
+
+###### Artículo 151.
+
+No pueden los oficiales conciliadores y calificadores:
+
+I. Girar órdenes de aprehensión;
+
+II. Imponer sanción alguna que no esté expresamente señalada en el bando municipal;
+
+III. Juzgar asuntos de carácter civil e imponer sanciones de carácter penal;
+
+IV. Ordenar la detención que sea competencia de otras autoridades.
+
+###### Artículo 152.
+
+Para el debido cumplimiento de las atribuciones que en este capítulo se previenen, cada ayuntamiento determinará la forma de organización y funcionamiento de las oficialías conciliadoras y calificadoras de su municipio.
+
+> <small>(REFORMADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+###### Artículo 153.
+
+Las faltas temporales de los oficiales calificadores serán cubiertas por el secretario de la propia oficialía o por el servidor público que el Presidente Municipal designe, quienes estarán habilitados para actuar en nombre del titular, siempre y cuando cumplan los requisitos de Ley.
+
+### CAPITULO SEGUNDO. De los Recursos Administrativos
+
+> <small>(REFORMADO POR EL ARTÍCULO QUINTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)</small>
+
+###### Artículo 154.
+
+Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 24 DE AGOSTO DE 2012)</small>
+
+### CAPITULO SEGUNDO BIS. De la Acción Popular
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 A.- La acción popular es una acción pública que será procedente para proteger los derechos e intereses colectivos contenidos en el artículo 284 A del Código de Procedimientos Administrativos del Estado de México y los contenidos en el artículo 125 en sus fracciones I, II, III, VII, VIII, IX y X de la presente Ley.
+
+La protección de los derechos e intereses colectivos a que se refiere el párrafo anterior, comprenderán la prevención y restauración del agravio contingente, en el marco de respeto y aplicación irrestricta de los derechos fundamentales de las personas.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 B.- La iniciativa popular se sustanciará y resolverá con arreglo a las disposiciones de los títulos primero y tercero del Código de Procedimientos Administrativos del Estado de México y del presente capítulo.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 C.- En el escrito inicial de demanda se describirán los siguientes requisitos:
+
+a). Identificación del derecho o interés colectivo agraviado o que se pretende proteger;
+
+b). Los hechos, actos u omisiones que la motivan;
+
+c). Enunciación de las pretensiones;
+
+d). Señalamiento de la autoridad responsable;
+
+e). Descripción de las pruebas que justifican la acción;
+
+f). Domicilio para recibir notificaciones;
+
+g). Listado de nombres de los accionantes el cual no deberá ser menor a diez personas por cada derecho o interés colectivo que se argumente.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+Artículo 154 D.- En la acción popular procede el recurso de revisión ante la Sala Superior, en los términos y contra los actos previstos en los artículos 285, 286, 287 y 288 del Código de Procedimientos Administrativos del Estado de México.
+
+###### Artículo 155.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+###### Artículo 156.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+###### Artículo 157.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+###### Artículo 158.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+###### Artículo 159.
+
+(DEROGADO POR EL ARTÍCULO CUARTO TRANSITORIO DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS, G.G. 7 DE FEBRERO DE 1997)
+
+## TITULO VI. De la Reglamentación Municipal
+
+### CAPITULO PRIMERO. Del Bando y los Reglamentos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 160.
+
+Los ayuntamientos expedirán el Bando Municipal y los presidentes municipales lo promulgarán y difundirán en la Gaceta Municipal y en los estrados de los Ayuntamientos, así como por los medios que estime conveniente.
+
+El 5 de febrero de cada año el presidente municipal acompañado de los demás miembros del ayuntamiento en acto solemne dará publicidad al bando municipal o sus modificaciones.
+
+###### Artículo 161.
+
+El Bando Municipal regulará y deberá contener las normas de observancia general que requiera el gobierno y la administración municipales.
+
+###### Artículo 162.
+
+El Bando Municipal regulará al menos lo siguiente:
+
+I. Nombre y escudo del municipio;
+
+II. Territorio y organización territorial y administrativa del municipio;
+
+III. Población del municipio;
+
+IV. Gobierno Municipal, autoridades y organismos auxiliares del ayuntamiento;
+
+V. Servicios públicos municipales;
+
+> <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+
+V Bis. Los principios, acciones y etapas del programa de mejora regulatoria;
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+V Ter. Los principios, acciones y lineamientos bajo los cuales se regirá la política de Gobierno Digital que se adoptará en el municipio.
+
+VI. Desarrollo económico y bienestar social;
+
+> <small>(REFORMADA, G.G. 18 DE MARZO DE 2011)</small>
+
+VII. Los principios del Programa Estratégico para lograr la equidad de género, así como las infracciones administrativas y sanciones que por éstas deban imponerse en el ámbito de su competencia.
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+VIII. Protección ecológica y mejoramiento del medio ambiente;
+
+> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2015)</small>
+
+IX. En los municipios identificados como destinos turísticos, deberán incluir disposiciones que regulen la materia turística y, en su caso, el reglamento respectivo.
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+X. Actividad industrial, comercial y de servicios a cargo de los particulares;
+
+> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XI. Infracciones, sanciones y recursos;
+
+> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
+
+XII. Las demás que se estimen necesarias.
+
+###### Artículo 163.
+
+El Bando Municipal podrá modificarse en cualquier tiempo, siempre y cuando se cumplan los mismos requisitos de su aprobación y publicación.
+
+###### Artículo 164.
+
+Los ayuntamientos podrán expedir los reglamentos, circulares y disposiciones administrativas que regulen el régimen de las diversas esferas de competencia municipal.
+
+> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+
+###### Artículo 165.
+
+Los Bandos, sus reformas y adiciones, así como los reglamentos municipales deberán promulgarse estableciendo su obligatoriedad y vigencia y darse a la publicidad en la Gaceta Municipal y en los estrados de los ayuntamientos, así como en los medios que se estime conveniente.
+
+### CAPITULO SEGUNDO. De las Sanciones
+
+###### Artículo 166.
+
+Las infracciones a las normas contenidas en el Bando, reglamentos, circulares y disposiciones administrativas municipales de observancia general, se sancionarán atendiendo a la gravedad de la falta cometida con:
+
+I. Amonestación;
+
+> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
+
+II. Multa hasta de cincuenta veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, pero si el infractor es jornalero, ejidatario u obrero, la multa no excederá del salario de un día.
+
+III. Suspensión temporal o cancelación del permiso o licencia;
+
+IV. Clausura temporal o definitiva;
+
+V. Arresto administrativo hasta por treinta y seis horas.
+
+###### Artículo 167.
+
+Los acuerdos, concesiones, permisos o autorizaciones otorgados por autoridades o servidores públicos municipales que carezcan de la competencia necesaria para ello, o los que se dicten por error, dolo o violencia, que perjudiquen o restrinjan los derechos del municipio sobre sus bienes del dominio público, o cualquier otra materia, serán anulados administrativamente por los ayuntamientos, previa audiencia de los interesados.
+
+## TITULO VII. De los Servidores Públicos Municipales
+
+### CAPITULO UNICO. De las Responsabilidades de los Servidores Públicos Municipales
+
+###### Artículo 168.
+
+Son servidores públicos municipales, los integrantes del ayuntamiento, los titulares de las diferentes dependencias de la administración pública municipal y todos aquéllos que desempeñen un empleo, cargo o comisión en la misma. Dichos servidores públicos municipales serán responsables por los delitos y faltas administrativas que cometan durante su encargo.
+
+###### Artículo 169.
+
+En delitos del orden común, los servidores públicos municipales no gozan de fuero ni inmunidad, pudiendo en consecuencia proceder en su contra la autoridad competente.
+
+###### Artículo 170.
+
+Por las infracciones administrativas cometidas a esta Ley, Bando y reglamentos municipales, los servidores públicos municipales incurrirán en responsabilidades en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+T R A N S I T O R I O S
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor 30 días después de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga la Ley Orgánica Municipal expedida con fecha 13 de julio de 1973 y publicada en el Periódico Oficial "Gaceta del Gobierno" del Estado, de fecha 18 del mismo mes y año con sus reformas y adiciones.
+
+###### ARTICULO TERCERO.
+
+Se derogan las disposiciones que se opongan a la presente Ley.
+
+LO TENDRA ENTENDIDO EL GOBERNADOR DEL ESTADO, HACIENDO QUE SE PUBLIQUE Y SE CUMPLA.
+
+Dado en el Palacio del Poder Legislativo, en la Ciudad de Toluca de Lerdo, Méx., a los veintiséis días del mes de febrero de mil novecientos noventa y tres.- Diputado Presidente.- C. Lic. Jesús de la Cruz Martínez; Diputado Secretario.- C. Lic. Eduardo Alarcón Zámano; Diputado Secretario.- C. Agustín Hernández Pastrana; Diputado Prosecretario.- C. José Méndez Tejeda; Diputado Prosecretario.- C. Profra. Gloria Martínez Orta.- Rúbricas.
+
+Por tanto mando se publique, circule, observe y se le dé el debido cumplimiento.
+
+Toluca de Lerdo, Méx., a 2 de marzo de 1993.
+
+EL GOBERNADOR DEL ESTADO
+
+LIC. IGNACIO PICHARDO PAGAZA
+
+EL SECRETARIO GENERAL DE GOBIERNO
+
+LIC. HUMBERTO LIRA MORA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 5 DE ENERO DE 1994.
+
+PRIMERO.- Publíquese el presente Decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 9 DE NOVIEMBRE DE 1994.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta del Gobierno.
+
+SEGUNDO.- Este Decreto entrará en vigor el día treinta de noviembre de mil novecientos noventa y cuatro.
+
+G.G. 6 DE ENERO DE 1995.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la Gaceta del Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor el día de su publicación en la Gaceta del Gobierno.
+
+G.G. 2 DE MARZO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la Gaceta del Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día siguiente de su publicación en la Gaceta del Gobierno.
+
+G.G. 7 DE FEBRERO DE 1997.
+
+SE TRANSCRIBEN ÚNICAMENTE LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA PRESENTE LEY.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Código en la Gaceta del Gobierno.
+
+###### ARTICULO SEGUNDO.
+
+Este Código entrará en vigor a los 30 días naturales siguientes al de su publicación en la Gaceta del Gobierno.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley de Justicia Administrativa del Estado de México, publicada en la Gaceta del Gobierno el 31 de diciembre de 1986.
+
+###### ARTICULO CUARTO.
+
+Se derogan los siguientes artículos: 67, 74, 78, del 108 al 166, 168 y 169 del Código Fiscal del Estado de México; 66, 71, 75, del 104 al 162 y del 164 al 166 del Código Fiscal Municipal del Estado de México, del 155 al 159 de la Ley Orgánica Municipal del Estado de México; 50, 66, 67 y del 100 al 102 de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios; 133, 135, 141, 144 y 145 de la Ley de Asentamientos Humanos del Estado de México; 62, 63, 70 y del 85 al 88 de la Ley de Protección al Ambiente del Estado de México; del 288 al 296 y del 298 al 307 de la Ley de Salud del Estado de México; 46, 52 y del 54 al 57 de la Ley de Protección Civil del Estado de México; 53 de la Ley de Catastro del Estado de México; 81 y 88 último párrafo de la Ley de Hacienda Municipal del Estado de México; 39 de la Ley de Aportaciones de Mejoras del Estado de México; del 37 al 39 de la Ley sobre la Prestación de los Servicios de Agua Potable y Alcantarillado en el Estado de México; 43 y 45 de la Ley de Turismo del Estado de México; 42 y 43 de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos, Mantenimientos y Almacenes del Estado de México; del 144 al 146 de la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios; 29 y 37 de la Ley para el Fomento Económico del Estado de México; del 33 al 43 de la Ley de Expropiación para el Estado de México; 61 y 62 de la Ley Agrícola y Forestal del Estado de México; y 112 y 113 de la Ley de Fomento Ganadero del Estado de México.
+
+###### ARTICULO QUINTO.
+
+Se reforman los artículos 167 del Código Fiscal del Estado de México, 163 del Código Fiscal Municipal del Estado de México, 154 de la Ley Orgánica Municipal del Estado de México; 65 de la Ley de Responsabilidades de los Servidores Público del Estado y Municipios; 143 de la Ley de Asentamientos Humanos del Estado de México; 84 de la Ley de Protección al Ambiente del Estado de México; 297 de la Ley de Salud del Estado de México; 136 último párrafo de la Ley Orgánica del Notariado del Estado de México; 57 de la Ley de Tránsito y Transportes del Estado de México; 53 de la Ley de Protección Civil del Estado de México; 43 de la Ley de Catastro del Estado de México; 38 de la Ley de Aportaciones de Mejoras del Estado de México; 57 de la Ley de Obras Públicas del Estado de México; 36 de la Ley sobre la Prestación de los Servicios de Agua Potable y Alcantarillado en el Estado de México; 44 de la Ley de Turismo del Estado de México; 41 de la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos, Mantenimientos y Almacenes del Estado de México; 45 de la Ley Protectora de Animales del Estado de México; 143 de la Ley de Seguridad Social para los Servidores Públicos del Estado y Municipios; 38 de la Ley para el Fomento Económico del Estado de México, 32 de la Ley de Expropiación para el Estado de México; 63 de la Ley Agrícola y Forestal del Estado México y 114 de la Ley de Fomento Ganadero del Estado de México, para que cada uno quede con el texto siguiente: "Contra los actos y resoluciones administrativos que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los particulares afectados tendrán la opción de interponer el recurso administrativo de inconformidad ante la propia autoridad o el juicio ante el Tribunal de lo Contencioso Administrativo, conforme a las disposiciones del Código de Procedimientos Administrativos del Estado de México.
+
+###### ARTICULO SEXTO.
+
+Se derogan las normas legales y reglamentarias de igual o menor jerarquía que sean contrarias a las disposiciones del presente Código.
+
+###### ARTICULO SEPTIMO.
+
+Los procedimientos y recursos administrativos, así como los juicios contenciosos administrativos que se encuentren en trámite al entrar en vigor este ordenamiento, se decidirán conforme a las disposiciones legales anteriores al mismo.
+
+G.G. 11 DE SEPTIEMBRE DE 1997.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 30 DE SEPTIEMBRE DE 1997.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 15 DE FEBRERO DE 1999.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+Este decreto entrará en vigor el día siguiente de su publicación en la "Gaceta del Gobierno".
+
+G.G. 31 DE MARZO DE 2000.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta de Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 11 DE AGOSTO DE 2000.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 2 DE OCTUBRE DE 2001.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el primero de enero de dos mil dos.
+
+G.G. 11 DE DICIEMBRE DEL 2002.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente a su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 29 DE JULIO DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el tres de diciembre de dos mil tres.
+
+G.G. 4 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Mientras los ayuntamientos instalan oficialías mediadoras-conciliadoras, podrán remitir al Centro de Mediación y Conciliación del Poder Judicial del Estado de México los asuntos susceptibles de mediación o conciliación.
+
+G.G. 6 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al quinto día de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- Para el caso del presupuesto de egresos correspondiente al ejercicio fiscal 2004, su publicación en la "Gaceta Municipal" se hará a más tardar el día treinta y uno de julio del presente año.
+
+CUARTO.- En lo subsecuente, las administraciones municipales deberán adecuar sus presupuestos para el ejercicio fiscal correspondiente, conforme a las disposiciones del presente decreto.
+
+G.G. 6 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- Para cumplir con lo establecido en los artículos 53 fracciones VIII y IX y 91 fracción XI de la Ley Orgánica Municipal, los actuales Ayuntamientos, tendrán un término de ciento veinte días hábiles a partir del inicio de la vigencia del presente decreto, para iniciar el procedimiento a que se hace referencia, respecto de los inmuebles que se hayan adquirido antes de la publicación del presente decreto.
+
+G.G. 1 DE DICIEMBRE DE 2004.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 8 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE MÉXICO.
+
+G.G. 27 DE JUNIO DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 23 DE AGOSTO DE 2005.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor a los quince días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 5 DE ENERO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor el primer día hábil del mes de enero del año 2006.
+
+G.G. 7 DE AGOSTO DE 2006.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 21 DE MAYO DE 2007.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los procedimientos respecto de las solicitudes que haya remitido el Ejecutivo Estatal a la Legislatura para autorización de actos municipales que se encuentren en trámite al entrar en vigor el presente decreto, se sustanciarán y resolverán conforme a las disposiciones legales anteriores.
+
+G.G. 7 DE AGOSTO DE 2008.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 23 DE OCTUBRE DE 2008.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 27 DE NOVIEMBRE DE 2008.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el Periódico Oficial" Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 6 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá expedir las disposiciones que reglamenten la organización y funcionamiento de las Defensorías Municipales de Derechos Humanos, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de esta Ley, las cuales serán publicadas en el Periódico Oficial del Gobierno del Estado Libre y Soberano de México "Gaceta del Gobierno" y en la Gaceta de la propia Comisión.
+
+QUINTO.- Los Coordinadores Municipales de Derechos Humanos, ahora Defensores Municipales de Derechos Humanos, cuya designación se realizó al amparo de las disposiciones que se modifican, reforman o adicionan, permanecerán en su encargo el periodo para el que fueron designados.
+
+G.G. 10 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 17 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 25 DE AGOSTO DE 2009.
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 2 DE FEBRERO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 6 DE MARZO DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- La reforma al Penúltimo Párrafo del artículo 12, y la adición de un Segundo Párrafo a la fracción VI del artículo 162 del Código de Procedimientos Penales para el Estado de México, estarán en vigor en los siguientes términos:
+
+Hasta, el treinta y uno de marzo de dos mil diez en los Distritos Judiciales de Chalco, Otumba y Texcoco;
+
+Hasta, el treinta de septiembre de dos mil diez en los Distritos Judiciales de Nezahualcóyotl, El Oro, Ixtlahuaca. Sultepec y Temascaltepec;
+
+Hasta, el treinta y uno de marzo de dos mil once en los Distritos Judiciales de Tlalnepantla, Cuautitlán y Zumpango;
+
+Hasta, el treinta de septiembre de dos mil once en los Distritos Judiciales de Ecatepec de Morelos, Jilotepec y Valle de Chalco.
+
+CUARTO.- Los artículos 2.134 al 2.140 del Código de Procedimientos Civiles del Estado de México, quedarán derogados en las fechas y términos señalados a continuación:
+
+El uno de febrero de dos mil diez en los distritos judiciales de Chalco, Tenango del Valle y Otumba;
+
+El uno de agosto de dos mil diez en los distritos judiciales de Cuautitlán, Ecatepec de Morelos y Nezahualcóyotl;
+
+El uno de febrero de dos mil once en los distritos judiciales de Texcoco y Tlalnepantla;
+
+El uno de agosto de dos mil once, en los distritos judiciales de El Oro, Jilotepec, Ixtlahuaca, Zumpango, Sultepec, Temascaltepec, Tenancingo y Valle de Bravo.
+
+QUINTO.- Los procedimientos y actuaciones penales y civiles que se hayan iniciado con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su conclusión de conformidad con las disposiciones jurídicas aplicables en ese momento.
+
+SEXTO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 31 DE AGOSTO DE 2010.
+
+PRIMERO.- Publíquese la presente Ley en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Esta Ley entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan los artículos 3.55, 3.56 y 3.57 del Código Administrativo del Estado de México.
+
+CUARTO.- El Titular del Poder Ejecutivo expedirá el Reglamento de la Ley, en un plazo no mayor de ciento sesenta días hábiles, contados a partir de la entrada en vigor de la Ley.
+
+QUINTO.- El Consejo a que se refiere la presente Ley, deberá instalarse en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de la Ley.
+
+SEXTO.- El acceso directo a la educación media superior y/o superior, establecido en el artículo 9 en su fracción IV párrafo segundo, será en el ciclo escolar inmediato posterior a la entrada en vigor del presente Decreto.
+
+SÉPTIMO.- Lo previsto en los artículos 9 fracción IV párrafo segundo y 31 fracción XII, se realizará con estricto apego al principio constitucional de autonomía universitaria, y conforme a las disposiciones legales y reglamentarias aplicables de la Universidad Autónoma del Estado de México.
+
+OCTAVO.- Se derogan las disposiciones de igualo menor rango que se opongan a la presente Ley.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NÚMERO 137, POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 40 Y SE ADICIONAN LOS PÁRRAFOS QUINTO, SEXTO, SÉPTIMO, OCTAVO Y NOVENO AL ARTÍCULO 41 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NÚMERO 140, POR EL QUE SE ADICIONA UNA FRACCIÓN XXI BIS AL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Para el cumplimiento del presente Decreto, se implementarán de manera gradual las partidas presupuestarias, así como los programas y proyectos, a partir del ejercicio fiscal 2011.
+
+G.G. 3 DE SEPTIEMBRE DE 2010.
+
+DECRETO NÚMERO 143, POR EL QUE SE ADICIONAN LAS FRACCIONES XXI BIS Y XXI TER AL ARTÍCULO 31, LA FRACCIÓN XII BIS AL ARTÍCULO 48, EL INCISO F) A LA FRACCIÓN I DEL ARTÍCULO 57, LA FRACCIÓN VII BIS AL ARTÍCULO 83. SE REFORMA EL PRIMER PÁRRAFO Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 81 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 6 DE SEPTIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Estas reformas entrarán en vigor al día siguiente a su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 7 DE SEPTIEMBRE DE 2010.
+
+DECRETO NÚMERO 153, POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 17 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el primero de enero del año 2012.
+
+G.G. 7 DE SEPTIEMBRE DE 2010.
+
+DECRETO NÚMERO 154, POR EL QUE SE REFORMAN LAS FRACCIONES XVII Y XVIII Y SE ADICIONA LA FRACCIÓN XIX DEL ARTÍCULO 48 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 23 DE SEPTIEMBRE DE 2010.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto entrará en vigor treinta días después de su publicación en el periódico oficial "Gaceta del Gobierno" del Estado de México, a fin de que los ayuntamientos realicen las adecuaciones necesarias para dar cabal cumplimiento a esta reforma.
+
+G.G. 30 DE SEPTIEMBRE DE 2010.
+
+DECRETO NÚMERO 177, POR EL QUE SE ADICIONA LA FRACCIÓN XXV BIS AL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Las Autoridades estatales y municipales implementarán el programa y las acciones relacionados al presente decreto, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del mismo.
+
+G.G. 30 DE SEPTIEMBRE DE 2010.
+
+DECRETO NÚMERO 178, POR EL QUE SE REFORMA EL ARTÍCULO 6 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, POR MEDIO DEL CUAL SE ELEVA LA CATEGORÍA POLÍTICA DE LA CABECERA MUNICIPAL DE NICOLÁS ROMERO, MÉXICO, DE VILLA, POR LA DE LA CIUDAD.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 1 DE OCTUBRE DE 2010.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno" del Estado de México.
+
+SEGUNDO.- Los actuales ayuntamientos deberán expedir o reformar, en su caso, en un plazo de tres sesiones el Reglamento de Cabildo.
+
+G.G. 4 DE OCTUBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 10 DE NOVIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 1 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los procesos penales por delitos respecto de los cuales el presente Decreto establece que el Ministerio Público se abstendrá de ejercer la acción penal, serán sobreseídos conforme a las disposiciones aplicables, sin perjuicio de que las partes hagan valer sus derechos a través de los Oficiales Mediadores-Conciliadores de los Municipios, o en la vía civil.
+
+CUARTO.- Los ayuntamientos de los municipios del Estado de México, harán las adecuaciones correspondientes a la reglamentación aplicable y emitirán las medidas necesarias, para garantizar el cumplimiento de este Decreto, en un plazo no mayor a un año, contando a partir de la fecha de su entrada en vigor.
+
+QUINTO.- Se derogan las disposiciones de igualo menor jerarquía que se opongan al presente Decreto.
+
+SEXTO.- El titular del Poder Ejecutivo del Estado de México realizará las adecuaciones que resulten pertinentes al Reglamento de Tránsito del Estado de México, conforme a las disposiciones del presente Decreto.
+
+G.G. 20 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 24 DE DICIEMBRE DE 2010.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 9 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor, el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Este Decreto aplicará para los próximos Ayuntamientos electos en 2012.
+
+G.G. 18 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- Los hechos delictuosos cometidos con anterioridad a la entrada en vigor del presente Decreto, serán sancionados de conformidad con las disposiciones vigentes en la fecha de su comisión.
+
+CUARTO.- La Procuraduría General de Justicia del Estado de México, dentro del plazo de seis meses siguientes a la entrada en vigor de este Decreto, de acuerdo con las disposiciones administrativas que rigen su organización interna y en términos de su presupuesto, instalará módulos para la recepción de denuncias y querellas relacionados con delitos cometidos en el transporte público de pasajeros.
+
+Asimismo, diseñará y pondrá en marcha campañas preventivas, en coordinación con las autoridades competentes, orientadas a inhibir el delito de acoso en el transporte público de pasajeros.
+
+QUINTO.- El Consejo de la Judicatura del Estado deberá proveer respecto de la capacitación a la que deberán sujetarse los jueces y magistrados con especialización en violencia de género y adscribirá a cada región judicial los que sean necesarios conforme a la demanda del servicio.
+
+SEXTO.- El Procurador General de Justicia del Estado de México, deberá expedir el acuerdo a que se refiere la fracción XXV del artículo 51 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México, en un plazo máximo de quince días contados a partir de la publicación del presente Decreto.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México, emitirá en un plazo no mayor de 60 días naturales siguientes a la vigencia, los protocolos de investigación mínimos para la comprobación de los nuevos delitos tipificados del presente decreto.
+
+G.G. 30 DE MARZO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+TERCERO.- El Comisionado de los Derechos Humanos, ahora denominado Presidente de la Comisión de Derechos Humanos del Estado de México, cuyo nombramiento se realizó al amparo de las disposiciones que se reforman por este Decreto, permanecerá en su cargo plenamente por el periodo para el que fue electo.
+
+CUARTO.- Toda disposición y ordenamiento legal, reglamentaria o administrativa que haga referencia al Comisionado de los Derechos Humanos del Estado de México, se entenderá que es al Presidente de la Comisión de Derechos Humanos del Estado de México.
+
+QUINTO.- El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México, deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+G.G. 20 DE JULIO DE 2011.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma de la fracción XV del artículo 48 de la Ley Orgánica Municipal del Estado de México, contenida en el presente decreto será aplicable a partir del primero de enero de 2012; previo a su aplicación, los informes de los Presidentes Municipales se llevarán a cabo dentro de los primeros diez días del mes de agosto, con las formalidades establecidas en la Ley.
+
+G.G. 2 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 16 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno", y se aplicará a los Ayuntamientos que inicien su ejercicio constitucional el 1 de enero del año 2013.
+
+> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
+
+TERCERO.- Para efectos del presente Decreto, los Delegados y Subdelegados municipales, así como los Consejos de Participación Ciudadana electos para el periodo 2009-2012, concluirán su mandato el día 15 de abril del año 2013.
+
+G.G. 19 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2011.
+
+DECRETO No. 331 POR EL QUE SE ADICIONA LA FRACCIÓN XXIV BIS AL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2011.
+
+DECRETO No. 332 POR EL QUE SE REFORMAN LOS ARTÍCULOS 36 Y 39 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2011.
+
+DECRETO No. 333 POR EL QUE SE REFORMA EL ARTÍCULO 92 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2011.
+
+DECRETO No. 334 POR EL QUE SE REFORMAN LOS ARTÍCULOS 105, 106 Y 107 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE SEPTIEMBRE DE 2011.
+
+DECRETO No. 340 POR EL QUE SE REFORMAN LOS ARTÍCULOS 17 EN SU SEGUNDO PÁRRAFO, 30 EN SUS PÁRRAFOS PRIMERO Y SEGUNDO; 48 EN SU FRACCIÓN III, 91 EN SU FRACCIÓN XIII, 121, 160 EN SU PRIMER PÁRRAFO Y 165 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 5 DE SEPTIEMBRE DE 2011.
+
+DECRETO No. 341 POR EL QUE SE ADICIONA EL INCISO Ñ) BIS A LA FRACCIÓN I DEL ARTÍCULO 69 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 77 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE SEPTIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 24 DE NOVIEMBRE DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+> <small>(ADICIONADO, G.G. 1 DE AGOSTO DE 2012)</small>
+
+TERCERO.- Para el caso de la designación de los Tesoreros Municipales de los Ayuntamientos electos para el periodo del 1° de Enero de 2013 al 31 de Diciembre de 2015, el requisito de la certificación de competencia expedida por el Instituto Hacendario del Estado de México, deberá acreditarse dentro de los tres meses siguientes a la fecha en que entren en funciones.
+
+G.G. 7 DE DICIEMBRE DE 2011.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE ABRIL DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+DECRETO No. 455, POR EL QUE SE REFORMA EL ARTÍCULO 116 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+G.G. 31 DE JULIO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+DECRETO No. 456, POR EL QUE SE REFORMA EL PÁRRAFO CUARTO DEL ARTICULO 53 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+G.G. 31 DE JULIO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+DECRETO No. 457, POR EL QUE SE ADICIONA LA FRACCIÓN XXIV TER AL ARTICULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+G.G. 31 DE JULIO DE 2012
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría General de Gobierno notificará el presente Decreto a las Dependencias Federales competentes, para los efectos legales correspondientes.
+
+G.G. 1 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 8 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 10 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 490 POR EL QUE SE REFORMAN LOS INCISOS F) Y J) DE LA FRACCIÓN I, EL INCISO H) DE LA FRACCIÓN II DEL ARTÍCULO 150; Y, EL ARTÍCULO 153; SE ADICIONA EL INCISO F) A LA FRACCIÓN I DEL ARTÍCULO 149 Y, EL INCISO I) A LA FRACCIÓN II DEL ARTÍCULO 150; Y SE DEROGA EL INCISO A) DE LA FRACCIÓN II DEL ARTÍCULO 150 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Las gestiones, procedimientos y demás actos que se encuentren en trámite en los depósitos vehiculares al momento de la entrada en vigor del presente Decreto, se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+CUARTO.- En un plazo de treinta días hábiles siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo del Estado proveerá en la esfera administrativa el cumplimiento del mismo, expidiendo y en su caso, reformando las disposiciones reglamentarias respectivas.
+
+QUINTO.- Noventa días naturales a partir de la entrada en vigor de la presente reforma, todos los vehículos que los concesionarios tengan bajo su resguardo, por más de dos años, serán susceptibles de ser incluidos en el procedimiento de declaración de abandono para los efectos de enajenación previsto, por lo que deberán informar a la Secretaría del Transporte de tal situación, con excepción de los vehículos que tengan reporte de robo, números remarcados o alterados, porten placas de procedencia extranjera, los cuales deberán hacer del conocimiento al Ministerio Público para que determine lo procedente.
+
+SEXTO.- Los Oficiales Mediadores Conciliadores contarán con un plazo improrrogable de dos años siguientes a la entrada en vigor del presente Decreto, para certificarse por el Centro de Mediación, Conciliación y de Justicia Restaurativa del Poder Judicial del Estado de México.
+
+SÉPTIMO.- La Procuraduría General de Justicia del Estado de México en un plazo máximo de dos meses posteriores a la entrada en vigor del presente Decreto, depurará todos los vehículos que se encuentren a su disposición en los depósitos vehiculares y que por algún motivo sus propietarios, durante un año no los han reclamado, no se ha acreditado su propiedad, se encuentren remarcados; adicionalmente, revisarán las averiguaciones previas que se encuentren en reserva con la finalidad de determinar si ha operado la prescripción de la acción penal y en aquellas que se haya decretado el no ejercicio de la acción penal, con la finalidad de emitir la Declaratoria de abandono en favor del Estado en términos de la presente reforma.
+
+OCTAVO.- En un plazo no mayor a seis meses, la Procuraduría General de Justicia del Estado de México, establecerá un depósito vehicular en la Zona Oriente del Estado de México.
+
+NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 493 POR EL QUE SE ADICIONA AL TÍTULO QUINTO EL CAPÍTULO SEGUNDO BIS DENOMINADO "DE LA ACCIÓN POPULAR", AL CUAL SE ADICIONAN LOS ARTÍCULOS 154 A, 154 B, 154 C Y 154 D DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 494 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXV BIS DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo Estatal y los Ayuntamientos expedirán las disposiciones reglamentarias del presente Decreto en un plazo no mayor a tres meses, contados a partir de su publicación. Los establecimientos que estén funcionando de manera regular, pero que se encuentren en los supuestos contemplados en este Decreto, tendrán como límite para situarse en lugar permitido hasta un año a partir de la fecha de entrada en vigor de éste.
+
+CUARTO.- La autoridad municipal notificará a los poseedores, propietarios o titulares de las licencias de funcionamiento de los establecimientos, del plazo concedido en el artículo transitorio anterior.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 495 POR EL QUE SE ADICIONA LA FRACCIÓN XVII RECORRIÉNDOSE LA ACTUAL XVII PARA SER XVIII AL ARTÍCULO 112 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2012.
+
+DECRETO NÚMERO 502 POR EL QUE SE ADICIONA EL ARTÍCULO TERCERO TRANSITORIO AL DECRETO NÚMERO 324, PUBLICADO EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, CON FECHA DEL 16 DE AGOSTO DE 2011.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 11 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan los ordenamientos jurídicos de igual o menor jerarquía, que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 15 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+CUARTO.- El Gobernador y los Ayuntamientos en el ámbito de su esfera administrativa, proveerán el cumplimiento del presente Decreto.
+
+G.G. 30 DE OCTUBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE NOVIEMBRE DE 2012.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE FEBRERO DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+CUARTO.- Los Ayuntamientos realizarán el refrendo a más tardar el 30 de abril de 2013, en el cual, autorizarán el horario de funcionamiento en los términos de este Decreto, únicamente por lo que corresponde a este año, ya que los subsecuentes años deberá de hacerse dentro de los primeros tres meses.
+
+QUINTO.- Para dar cumplimiento a lo establecido por las fracciones I y II del artículo 2.47 Ter del Código Administrativo del Estado de México, los propietarios o poseedores de establecimientos mercantiles donde se vendan o suministren bebidas alcohólicas, contarán con un plazo máximo que no deberá exceder del 30 de junio de 2013.
+
+SEXTO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 57 POR EL QUE SE REFORMA EL INCISO B) DE LA FRACCIÓN II DEL ARTÍCULO 150 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente de (sic) Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo del Estado y los Ayuntamientos proveerán lo necesario para implementar las medidas y programas necesarios para combatir el alcoholismo y la prevención de accidentes viales, en un plazo no mayor a tres meses contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO.- La Secretaría de Seguridad Ciudadana, o en su caso el Ayuntamiento, deberán emitir en un término de sesenta días hábiles los protocolos que regirán para la aplicación de estos programas, dictados en el artículo 245 fracción IV Bis.
+
+QUINTO.- El Ejecutivo del Estado y los Ayuntamientos proveerán en la esfera administrativa el cumplimiento del presente Decreto.
+
+SEXTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.G. 25 DE FEBRERO DE 2013.
+
+DECRETO NÚMERO 58 POR EL QUE SE ADICIONAN LOS ARTÍCULOS 144 BIS, 144 TER, 144 QUÁTER Y 144 QUINQUIES A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de marzo de 2013.
+
+TERCERO.- Los Municipios en donde exista o programe la instalación de un H. Cuerpo de Bomberos, contarán con noventa días para el establecimiento del régimen complementario de seguridad social.
+
+CUARTO.- Los Programas de Profesionalización y de Reconocimientos y Estímulos para Bomberos que al efecto se aprueben por el respectivo Cabildo, serán publicados a más tardar en noventa días naturales a la entrada en vigor del presente Decreto.
+
+G.G. 25 DE ABRIL DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 30 DE ABRIL DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.G. 18 DE JULIO DE 2013.
+
+DECRETO NÚMERO 112 POR EL QUE SE REFORMA EL ARTÍCULO 31 EN SU FRACCIÓN XXXVIII Y DE ADICIONA UN CAPÍTULO DÉCIMO PRIMERO, INTEGRADO POR LOS ARTÍCULOS 147 P, 147 Q, 147 R, 147 S, 147 T, 147 U Y 147 V, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los ayuntamientos electos para el periodo 2012-2015 emitirán la convocatoria a que se refiere este decreto, a más tardar el día 1 de marzo de 2014 y expedirán el Reglamento de la Crónica Municipal, dentro de los siguientes sesenta días.
+
+G.G. 18 DE JULIO DE 2013.
+
+DECRETO NÚMERO 116 POR EL QUE SE REFORMA EL ARTÍCULO 69 FRACCIÓN I, INCISO I) Y SE ADICIONA EL INCISO J) RECORRIÉNDOSE LOS SUBSECUENTES INCISOS, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 29 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 131, POR EL QUE SE REFORMAN LA FRACCIÓN XXIV DEL ARTÍCULO 31; LA FRACCIÓN XIII QUÁTER DEL ARTÍCULO 48; LA FRACCIÓN XIX DEL ARTÍCULO 96 QUÁTER. SE ADICIONAN LA FRACCIÓN XXIV QUÁTER AL ARTÍCULO 31; LA FRACCIÓN XX AL ARTÍCULO 96 QUÁTER DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor a los 30 días naturales siguientes de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- (DEROGADO, G.G. 17 DE OCTUBRE DE 2013)
+
+CUARTO.- El Consejo Rector de Factibilidad Comercial Automotriz, deberá de estar instalado en un plazo de 30 días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- La Secretaría de Desarrollo Económico contará con un plazo de 60 días naturales, a partir de la entrada en vigor del presente Decreto, para la integración del Registro Estatal de Unidades Económicas o Establecimientos para la Enajenación, Reparación o Mantenimiento de Vehículos Automotores Usados y Autopartes Nuevas y Usadas.
+
+SEXTO.- El Gobernador y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+SÉPTIMO.- El Ejecutivo del Estado deberá expedir el reglamento interior del Consejo Rector de Factibilidad Comercial Automotriz, en un plazo que no excederá de 30 días naturales posteriores a su instalación.
+
+OCTAVO.- La Secretaría de Desarrollo Económico deberá expedir las Normas Técnicas, en un plazo que no excederá de 60 días naturales a partir de la entrada en vigor del presente Decreto.
+
+NOVENO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 29 DE AGOSTO DE 2013.
+
+DECRETO NÚMERO 132, POR EL QUE SE REFORMA LA FRACCIÓN XVI BIS DEL ARTÍCULO 48 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Los Ayuntamientos en el ámbito de su competencia, proveerán lo necesario para dar cumplimiento al presente Decreto, expidiendo al efecto, las disposiciones respectivas.
+
+CUARTO.- El Consejo Rector de Impacto Sanitario, deberá de estar instalado en un término de quince días naturales a partir de la entrada en vigor del presente Decreto.
+
+QUINTO.- Se establece un término de diez días naturales posteriores a la instalación del Consejo Rector de Impacto Sanitario para que puedan sesionar sobre los asuntos correspondientes a la emisión del Dictamen de Factibilidad de Impacto Sanitario.
+
+SEXTO.- El Ejecutivo del Estado deberá expedir en un término de quince días naturales a partir de la entrada en vigor del presente Decreto las disposiciones reglamentarias respectivas.
+
+SÉPTIMO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto por el presente Decreto.
+
+G.G. 17 DE OCTUBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El Ayuntamiento de Jocotitlán, mediante Bando solemne, difundirá la declaratoria de la denominación y categoría política a que se refiere el artículo anterior.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 21 DE ABRIL DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 14 DE MAYO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 27 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 243 POR EL QUE SE ADICIONA EL INCISO U), RECORRIÉNDOSE EN SU ORDEN, A LA FRACCIÓN I DEL ARTÍCULO 69.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 27 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 244 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 92.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Para el caso de los secretarios que están actualmente en funciones, no les será aplicable el presente decreto, por única ocasión.
+
+G.G. 27 DE JUNIO DE 2014.
+
+DECRETO NÚMERO 246 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 65.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 28 DE JUNIO DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio. Lo anterior sin perjuicio de que se apliquen en lo conducente los plazos previstos en los artículos transitorios del presente Decreto.
+
+CUARTO. El personal del Instituto Electoral del Estado de México, que con motivo del presente Decreto deba ser objeto de cambios en su adscripción de trabajo, conservará sus derechos laborales.
+
+QUINTO. Los servidores del Instituto Electoral del Estado de México que sean incorporados al Servicio Profesional Electoral Nacional estarán sujetos a las determinaciones que en su momento expida el Instituto Nacional Electoral.
+
+SEXTO. El Consejo General del Instituto Electoral del Estado de México deberá adecuar sus documentos y demás reglamentación interna a lo previsto en este Decreto y en las demás disposiciones legales aplicables, a más tardar a los 90 días posteriores a la entrada en vigor del presente Decreto, salvo los plazos que establezcan otras disposiciones.
+
+SÉPTIMO. Los procedimientos administrativos, jurisdiccionales y de fiscalización relacionados con los partidos políticos, así como de sus militantes o simpatizantes, que el Instituto Electoral (sic) Estado de México y el Tribunal Electoral del Estado de México hayan iniciado o se encuentren en trámite a la entrada en vigor de este Decreto, se seguirán atendiendo de conformidad con las disposiciones jurídicas y administrativas que hayan estado vigentes al momento de su inicio.
+
+OCTAVO. El Ejecutivo del Estado y la Legislatura Local proveerán lo necesario para la ampliación del Presupuesto de Egresos del ejercicio fiscal corriente, en la esfera de su competencia, para el exacto cumplimiento de este Decreto.
+
+NOVENO. Se abroga la Ley Reglamentaria del Artículo 14 de la Constitución Política del Estado Libre y Soberano de México, publicada el 30 de agosto de 1995 en el periódico oficial "Gaceta del Gobierno".
+
+DÉCIMO. Se abroga el Código Electoral del Estado de México, publicado el 2 de marzo de 1996 en el periódico oficial "Gaceta del Gobierno".
+
+DÉCIMO PRIMERO. Las averiguaciones previas, carpetas administrativas, procesos, recursos y sentencias que se refieran a hechos ocurridos antes de la entrada en vigor del presente Decreto, se sujetarán hasta su conclusión definitiva, a las disposiciones legales vigentes a la fecha en que acontecieron los hechos.
+
+DÉCIMO SEGUNDO. En tanto se expida la ley en materia de réplica, los partidos políticos, los precandidatos y candidatos podrán ejercer el derecho de réplica que establece el primer párrafo del artículo 6 de la Constitución Federal y las leyes respectivas, respecto de la información que presenten los medios de comunicación, cuando consideren que la misma contraviene a sus actividades. Este derecho se ejercitará sin perjuicio de aquellos correspondientes a las responsabilidades o al daño moral que se ocasionen en términos de la ley que regule la materia de imprenta y de las disposiciones civiles y penales aplicables. El titular del derecho de réplica deberá agotar primeramente la instancia ante el medio de comunicación respectivo, o demostrar que lo solicitó a su favor y le fue negado. Las autoridades electorales deberán velar oportunamente por la efectividad del derecho de réplica durante los procesos electorales, y en caso de ser necesario deberá instaurar el procedimiento especial sancionador previsto en el Código Electoral del Estado de México.
+
+DÉCIMO TERCERO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+DÉCIMO CUARTO. La estructura, personal, recursos administrativos y financieros del Órgano Técnico de Fiscalización del Instituto Electoral del Estado de México formarán parte de la Unidad Técnica de Fiscalización del mismo, a partir de la entrada en vigor del presente Decreto.
+
+DÉCIMO QUINTO. El Procurador General deberá nombrar al Titular de la Fiscalía Especializada en Materia de Delitos Electorales de la Procuraduría General de Justicia del Estado de México, dentro los treinta días siguientes, contados a partir de la entrada en vigor del presente Decreto, mediante el acuerdo correspondiente.
+
+Los servidores públicos adscritos a la fiscalía mencionada conocerán de manera exclusiva de las carpetas investigación relacionadas con delitos electorales.
+
+Los Servidores Públicos adscritos a la Fiscalía Especializada en Materia de Delitos Electorales deberán regirse por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos fijados por las leyes.
+
+Para el próximo ejercicio fiscal, la legislatura proveerá la partida presupuestal para que la fiscalía citada cuente los elementos materiales y humanos que permitan su adecuado funcionamiento.
+
+El Fiscal especializado en Materia de Delitos Electorales deberá rendir un informe a la Legislatura del Estado a los noventa días siguientes de concluido el proceso electoral para el periodo constitucional 2015-2018.
+
+Se exhorta al Procurador General de Justicia del Estado de México, para que la designación del Fiscal Especializado en Materia Delitos Electorales y de los servidores públicos adscritos a ella recaigan en las personas que garanticen los principios enunciados en este artículo.
+
+DÉCIMO SEXTO. La Legislatura del Estado, expedirá las normas aplicables para el cumplimiento de las funciones y fines del Instituto, señaladas en la fracción XV del artículo 168 y VIII del artículo 171 de este Decreto.
+
+DÉCIMO SÉPTIMO. Por única ocasión los procesos electorales ordinarios locales correspondientes a las elecciones que tendrán lugar el primer domingo de junio del año 2015, el proceso electoral iniciará en la primera semana del mes de octubre de 2014.
+
+G.G. 11 DE JULIO DE 2014.
+
+DECRETO NÚMERO 254 POR EL QUE SE REFORMA LA FRACCIÓN XXIV TER DEL ARTÍCULO 31.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 11 DE JULIO DE 2014.
+
+DECRETO NÚMERO 255 POR EL QUE SE REFORMA LA FRACCIÓN IV Y SE ADICIONA LA FRACCIÓN V DEL ARTÍCULO 32.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 18 DE JULIO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 8 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE AGOSTO DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno” del Estado de México.
+
+G.G. 23 DE OCTUBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE NOVIEMBRE DE 2014.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 20 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día 1 de enero de 2015.
+
+TERCERO.- Las referencias que en lo sucesivo se realicen a la Dirección General de Protección Civil adscrita a la Secretaría de Seguridad Ciudadana, quedarán entendidas a la Coordinación General de Protección Civil adscrita a la Secretaría General de Gobierno.
+
+G.G. 21 DE NOVIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 8 DE DICIEMBRE DE 2014.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 367 POR EL QUE SE REFORMAN LAS FRACCIONES XLIV Y XLV DEL ARTÍCULO 31, LA FRACCIÓN XIII QUÁTER DEL ARTÍCULO 48 Y LA FRACCIÓN XIX DEL ARTÍCULO 96 QUÁTER; SE ADICIONAN LA FRACCIÓN XVI TER AL ARTÍCULO 48 Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN V DEL ARTÍCULO 96 QUÁTER DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su respectiva competencia, deberán instalar en un plazo no mayor a los ciento ochenta días naturales a partir de la fecha de la entrada en vigor de este Decreto, la ventanilla de gestión, así como la ventanilla única.
+
+CUARTO. El Titular del Ejecutivo del Estado y los ayuntamientos, en el ámbito de su competencia, proveerán lo necesario para instalar debidamente el Sistema de Unidades Económicas, a más tardar en el inicio del ejercicio fiscal siguiente, en tanto los municipios deberán seguir alimentando los registros a que hace referencia la Ley Orgánica Municipal del Estado de México.
+
+QUINTO, Los ayuntamientos que cuenten con unidades económicas que tengan como actividad principal la venta de vehículos automotores usados en tianguis de autos y/o que tengan como actividad principal el aprovechamiento de vehículos usados que han concluido su vida útil, deberán contar con las zonas especiales que haya autorizado la Secretaría de Desarrollo Urbano, para el establecimiento de éstas, a más tardar 120 días naturales después de la entrada en vigor del presente Decreto.
+
+SEXTO. Las gestiones, procedimientos y demás actos que se encuentren en trámite a los que se refieren esta Ley, al momento de la entrada en vigor de este Decreto se concluirán de conformidad con las disposiciones jurídicas vigentes hasta ese momento.
+
+SÉPTIMO. El Titular del Ejecutivo y los Ayuntamientos, en el ámbito de su competencia, expedirán las disposiciones reglamentarias respectivas a más tardar a los ciento ochenta días naturales siguientes a la entrada en vigor de este Decreto.
+
+OCTAVO. Se abroga la Ley que Regula las Casas de Empeño en el Estado de México, publicada en el Periódico Oficial "Gaceta del Gobierno" el 18 de julio de 2013.
+
+NOVENO. Para el cumplimiento del presente Decreto las áreas y dependencias involucradas se ajustarán al presupuesto y recursos humanos asignados para el ejercicio fiscal del año que transcurre.
+
+DÉCIMO. Se dejan sin efecto las disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+G.G. 18 DE DICIEMBRE DE 2014.
+
+DECRETO NÚMERO 376, POR EL QUE SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 51 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+G.G. 22 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 449 POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 91 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 22 DE JUNIO DE 2015.
+
+DECRETO NÚMERO 450, POR EL QUE ADICIONA LA FRACCIÓN IX Y SE RECORREN EN SU ORDEN LAS SUBSECUENTES DEL ARTÍCULO 162 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 13 DE JULIO DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- Esta (sic) Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 19 DE AGOSTO DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Los Defensores Municipales de Derechos Humanos que se encuentren en funciones a la entrada en vigor del presente Decreto continuarán en su encargo hasta que sea designado quien deba suplirlos en el cargo conforme al presente Decreto.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 498 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO A LA FRACCIÓN XIX DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 24 DE AGOSTO DE 2015.
+
+DECRETO NÚMERO 499 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN XXIII DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 3 DE SEPTIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en las presentes reformas.
+
+G.G. 30 DE OCTUBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 11 DE NOVIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 3 DE DICIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las autoridades en el ámbito de su competencia realizarán las adecuaciones normativas correspondientes, para dar cumplimiento a lo establecido por el presente Decreto.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57. POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DE GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Gobierno Digital del Estado de México y Municipios en un plazo no mayor a ciento veinte días hábiles a la entrada en vigor del presente Decreto.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 67 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el tres de septiembre de dos mil diez y se deroga el Libro Décimo Quinto del Código Administrativo del Estado de México publicado en el periódico oficial "Gaceta del Gobierno" el cinco de enero de dos mil seis.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 1 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " DECRETO NÚMERO 86.- POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTICULO 73 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS, SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VII AL ARTICULO 15 DE LA LEY DE SEGURIDAD SOCIAL PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE MÉXICO Y MUNICIPIOS Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 51 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 15 DE JUNIO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 93.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente del inicio de la vigencia del decreto que reforma los párrafos primero y cuarto del artículo 5, el párrafo primero del artículo 7, el párrafo primero del artículo 16 y adiciona seis últimos párrafos al mismo, de la Constitución Política del Estado Libre y Soberano de México.
+
+TERCERO. El Consejo Consultivo de la Comisión de Derechos Humanos del Estado de México deberá realizar las modificaciones correspondientes a la normatividad del Organismo, dentro de los ciento veinte días hábiles siguientes a la entrada en vigor de este Decreto.
+
+CUARTO. Se dejan sin efecto las disposiciones que se opongan al presente decreto.
+
+G.G. 10 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 116.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO Y DE LA LEY QUE REGULA EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta de (sic) Gobierno".
+
+TERCERO. El Titular del Ejecutivo del Estado realizará las adecuaciones necesarias para el cumplimiento del presente Decreto, en términos de lo dispuesto en el artículo 77 fracción IV de la Constitución Política del Estado Libre y Soberano de México.
+
+CUARTO. El Consejo Municipal de Seguridad Pública deberá instalarse en términos de la presente reforma en un plazo no mayor a noventa días, contado a partir de la entrada en vigor de este Decreto.
+
+Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
+
+QUINTO. El Consejo Intermunicipal de Seguridad Pública deberá instalarse en términos de la presente reforma en un plazo no mayor a ciento ochenta días, contado a partir de la entrada en vigor de este Decreto.
+
+Asimismo, en su primera sesión ordinaria deberá aprobar el estatuto a que se refiere esta Ley.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 165.- POR EL QUE SE REFORMA UN INCISO X) Y ADICIONA EL INCISO Y) DE LA FRACCIÓN I DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente decreto, perdiendo vigor al momento de esta publicación.
+
+G.G. 8 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 166.- POR EL QUE SE ADICIONA EL INCISO Y) RECORRIÉNDOSE EL ACTUAL INCISO Y) PARA SER EL INCISO Z) DE LA FRACCIÓN I DEL ARTÍCULO 69 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+
+G.G. 20 DE DICIEMBRE DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado expedirá las adecuaciones reglamentarias derivadas del presente Decreto, en un plazo que no deberá exceder ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+CUARTO. El valor de la Unidad de Medida y Actualización será el que determine el Instituto Nacional de Geografía y Estadística.
+
+QUINTO. Las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en los reglamentos, acuerdos y demás disposiciones jurídicas se entenderán referidas a la Unidad de Medida y Actualización.
+
+SEXTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 8 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 241.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, DE LA LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, DE LA LEY DE FOMENTO ECONÓMICO DEL ESTADO DE MÉXICO, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO, DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO Y DEL CÓDIGO ELECTORAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Cuando en otros ordenamientos se haga referencia al impacto regional, se tendrá por entendido que será suplido por impacto urbano, por lo cual las autoridades estatales y municipales deberán llevar a cabo las adecuaciones a su normatividad.
+
+CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 13 DE SEPTIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD DEL ESTADO DE MÉXICO, LEY DE SEGURIDAD PRIVADA DEL ESTADO DE MÉXICO, LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO, LEY PARA PREVENIR, ATENDER Y COMBATIR EL DELITO DE SECUESTRO EN EL ESTADO DE MÉXICO, LEY DE VÍCTIMAS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSPECCIÓN GENERAL DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA, CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY QUE CREA EL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL ESTADO DE MÉXICO, LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO, LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO, LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE MÉXICO, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO, LEY DE DEFENSORÍA PÚBLICA DEL ESTADO DE MÉXICO, LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE INDULTO DEL ESTADO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO, LEY DEL NOTARIADO DEL ESTADO DE MÉXICO, LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE MÉXICO, LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO, LEY DEL PROGRAMA DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO, LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO, CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO, LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO COMISIÓN PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS DEL ESTADO DE MÉXICO, LEY PARA LA PREVENCIÓN, TRATAMIENTO Y COMBATE DEL SOBREPESO, LA OBESIDAD Y LOS TRASTORNOS ALIMENTARIOS DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS, LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS, LEY DE EXPROPIACIÓN PARA EL ESTADO DE MÉXICO, LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, LEY DE MOVILIDAD DEL ESTADO DE MÉXICO, Y SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 167 DE LA H. LIX LEGISLATURA DEL ESTADO, PUBLICADO EN EL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” EL NUEVE DE DICIEMBRE DE 2016”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el quince de septiembre de dos mil diecisiete.
+
+TERCERO. La Secretaría de Finanzas remitirá a la Legislatura en un plazo no mayor a noventa días hábiles posteriores a la entrada en vigor del presente Decreto, los dictámenes de reconducción correspondientes; y en la presentación de la respectiva Cuenta Pública del Gobierno del Estado de México y Organismos Auxiliares y Autónomos, deberá presentarse un apartado específico sobre las dependencias señaladas en el presente Decreto.
+
+CUARTO. Las atribuciones que se otorgan a la Secretaría de Comunicaciones y a la Secretaría de Obra Pública en el presente Decreto, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Secretaría de Infraestructura en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Los recursos humanos, materiales y financieros de la Secretaría de Infraestructura serán transferidos a las (sic) Secretaría de Comunicaciones y a la Secretaría de Obra Pública respectivamente, en función de lo previsto en el presente Decreto.
+
+Cuando en otros ordenamientos legales, administrativos, documentación y papelería se haga referencia a la Secretaría de Infraestructura, se entenderá que se refieren a la Secretaría de Comunicaciones o a la Secretaría de Obra Pública en función de las atribuciones que se establecen en el presente Decreto.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Comunicaciones y la Secretaría de Obra Pública, conforme al mismo, continuarán su despacho por dichas dependencias, respectivamente, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Secretaría de Infraestructura al pasar a formar parte de la Secretaría de Comunicaciones y de la Secretaría de Obra Pública, respectivamente, permanecerán en las mismas condiciones.
+
+QUINTO. La Comisión Estatal de Seguridad Ciudadana del Estado de México se transforma en la Secretaría de Seguridad, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades conferidas en los ordenamientos jurídicos a la persona Titular de la Comisión Estatal de Seguridad Ciudadana del Estado de México y al Secretario General de Gobierno en materia de seguridad pública, se entenderán conferidas a la persona Titular de la Secretaría de Seguridad, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Seguridad, en tanto se expidan los reglamentos Interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Comisión Estatal de Seguridad Ciudadana del Estado de México en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales, administrativos, documentación, papelería se haga referencia a la Comisión Estatal de Seguridad Ciudadana del Estado de México, se entenderá que se refieren a la Secretaría de Seguridad.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Seguridad conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Comisión Estatal de Seguridad Ciudadana del Estado de México, al pasar a formar parte de la Secretaría de Seguridad, permanecerán en las mismas condiciones.
+
+Se abroga la Ley que crea la Comisión Estatal de Seguridad Ciudadana del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el 17 de diciembre de 2014, sin perjuicio de lo previsto en el párrafo tercero del presente Transitorio.
+
+SEXTO. La Consejería Jurídica del Ejecutivo Estatal se transforma en la Secretaría de Justicia y Derechos Humanos, por lo que todos sus recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría.
+
+Las facultades de la persona Titular de la Consejería Jurídica del Ejecutivo Estatal y las atribuciones de (sic) Consejería Jurídica previstas en los ordenamientos jurídicos, se entenderán conferidas a la persona Titular de la Secretaría de Justicia y Derechos Humanos y a dicha Secretaría respectivamente, de conformidad con el presente Decreto.
+
+Las atribuciones que se otorgan a la Secretaría de Justicia y Derechos Humanos, en tanto se expidan los reglamentos interiores y demás instrumentos jurídicos administrativos necesarios para su funcionamiento, serán ejercidas por conducto de las estructuras orgánicas de la Consejería Jurídica del Ejecutivo Estatal en función de sus competencias vigentes en términos de su Reglamento Interior y Manual de Organización.
+
+Cuando en otros ordenamientos legales administrativos, documentación y papelería se haga referencia a la Consejería Jurídica del Ejecutivo Estatal, se entenderá que se refieren a la Secretaría de Justicia y Derechos Humanos.
+
+Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Justicia y Derechos Humanos conforme al mismo, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+Los derechos laborales adquiridos por los servidores públicos adscritos a la Consejería Jurídica del Ejecutivo Estatal al pasar a formar parte de la Secretaría de Justicia y Derechos Humanos permanecerán en las mismas condiciones.
+
+SÉPTIMO. La Comisión Estatal de Factibilidad, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables y será presidida por la persona Titular de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la persona Titular de la Consejería Jurídica del Ejecutivo Estatal.
+
+OCTAVO. El Instituto de Verificación Administrativa del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Desarrollo Urbano y Metropolitano, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Consejería Jurídica del Ejecutivo Estatal y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en el Instituto de Verificación Administrativa del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrito a la Secretaría de Desarrollo Urbano y Metropolitano, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos del Instituto de Verificación Administrativa del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+NOVENO. La Comisión Estatal de Mejora Regulatoria, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Desarrollo Económico y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Estatal de Mejora Regulatoria que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Estatal de Mejora Regulatoria como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO PRIMERO (SIC). La Comisión Ejecutiva de Atención a Víctimas del Estado de México, continuará rigiéndose por sus respectivas normas reglamentarias y demás disposiciones aplicables, mantendrá su naturaleza jurídica y dependerá de la Secretaría de Justicia y Derechos Humanos, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría General de Gobierno y a su titular.
+
+Los derechos laborales de los trabajadores que presten sus servicios en la Comisión Ejecutiva de Atención a Víctimas del Estado de México que, con motivo de la entrada en vigor del presente Decreto, queda adscrita a la Secretaría de Justicia y Derechos Humanos, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+Los recursos materiales, financieros y humanos de la Comisión Ejecutiva de Atención a Víctimas del Estado de México como órgano desconcentrado, se transferirán a la mencionada Secretaría.
+
+DÉCIMO SEGUNDO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
+
+DÉCIMO TERCERO. El Ejecutivo deberá expedir los Reglamentos Interiores y demás disposiciones en el ámbito de su competencia para dar cumplimiento a lo previsto en el presente Decreto, en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor del mismo.
+
+DÉCIMO CUARTO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
