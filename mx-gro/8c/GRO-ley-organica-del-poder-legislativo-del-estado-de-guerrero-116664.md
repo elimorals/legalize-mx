@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2024-06-07"
+last_updated: "2024-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -3043,9 +3043,13 @@ El Comité de Transparencia será el órgano superior de esta Unidad.
 
 #### SECCIÓN X. DE LA UNIDAD PARA LA IGUALDAD DE GÉNERO
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 222.
 
-La Unidad para la Igualdad de Género es el órgano técnico responsable de asegurar la institucionalización de la perspectiva de género en la cultura organizacional y administrativa, a efecto de generar una cultura de no discriminación, exclusión y hostigamiento hacia las mujeres, haciendo prevalecer el reconocimiento y respeto de sus derechos humanos.
+La Unidad para la Igualdad de Género es el órgano técnico responsable de fomentar, planear, y dirigir las acciones para institucionalizar la perspectiva de género y el enfoque de derechos humanos dentro del Congreso del Estado, para asegurar la observancia de los derechos fundamentales, así como la igualdad sustantiva entre mujeres y hombres; la no discriminación en todas las áreas del recinto legislativo; así como promover ambientes laborales libres de violencia, en cualquiera de sus modalidades.
+
+Para cumplir con lo anterior, la Unidad para la Igualdad de Género, elaborará, actualizará y presentará ante la Comisión para la Igualdad de Género el protocolo para la prevención, atención y sanción de la violencia de género en el Congreso del Estado de Guerrero, a efecto de que este sea aprobado por el pleno de la legislatura.
 
 #### SECCIÓN XI. DE LA UNIDAD DE LAS TECNOLOGÍAS DE INFORMACIÓN Y COMUNICACIÓN
 
@@ -4814,3 +4818,23 @@ El presente Decreto entrará en vigor el día de su aprobación por el Pleno del
 ###### ARTÍCULO SEGUNDO.
 
 La Dirección de Comunicación del Congreso del Estado de Guerrero, deberá elaborar su Reglamento Interior y presentarlo a la Junta de Coordinación Política para su aprobación, en un plazo de noventa días naturales, contados a partir de la fecha de aprobación del presente Decreto.
+
+P.O. 21 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 834, POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 222 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la entrada en vigor de la reforma, la Unidad para la Igualdad de Género, contará con 90 días hábiles para que genere o elabore el protocolo para la prevención, atención y sanción de la violencia de género en el Congreso del Estado de Guerrero.
+
+###### ARTÍCULO TERCERO.
+
+Remítase este Decreto a la Gobernadora del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+###### ARTÍCULO CUARTO.
+
+Publíquese el presente Decreto para su conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación.
