@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-06-18"
+last_updated: "2024-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -697,9 +697,17 @@ Los miembros del Ayuntamiento tendrán iguales derechos y sus acuerdos se tomar�
 
 I.- Para dictar resoluciones que afecten el patrimonio inmobiliario Municipal;
 
-II.- Para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento; y
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2024)</small>
 
-III.- Para que el gobierno estatal asuma una función o servicio Municipal, sin el convenio correspondiente, debe mediar solicitud del Ayuntamiento.
+II.- Para celebrar actos o convenios que comprometan al municipio por un plazo mayor al período del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2024)</small>
+
+III.- Para que el gobierno estatal asuma una función o servicio municipal, sin el convenio correspondiente, debe mediar solicitud del Ayuntamiento; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2024)</small>
+
+IV.- Para nombrar a la persona titular del Órgano Interno de Control
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
 
@@ -1109,6 +1117,10 @@ s).- Preservar la cultura, derechos lingüísticos y tradiciones de los pueblos 
 
 t).- A más tardar, noventa días hábiles posteriores a la toma (sic) posesión, podrá solicitar al Congreso del Estado la modificación al Catálogo de Pueblos y Comunidades Indígenas, para lo cual se deberá aplicar la metodología de una Cédula Antropológica como un instrumento técnico.
 
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2024)</small>
+
+u).- Elegir y designar por mayoría calificada de la totalidad de sus integrantes a la persona titular del Órgano Interno de Control.
+
 III.- Las demás que le concedan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las leyes que de ellas emanen. A tal efecto y en el ámbito de su competencia, la Legislatura del Estado, tomará en cuenta las condiciones territoriales y socioeconómicas del Municipio y su capacidad técnica, administrativa y financiera.
 
 Los Municipios, en el desempeño de las funciones o la prestación de los servicios a su cargo y sin demérito de las atribuciones que le otorga la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado, deberán observar lo dispuesto por las leyes federales y estatales.
@@ -1321,9 +1333,9 @@ ee).- Resolver los recursos administrativos que sean de su competencia;
 
 ff) Celebrar contratos y convenios, con particulares e instituciones oficiales, sobre asuntos de interés público, previa autorización del Ayuntamiento;
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
 
-gg).- Presentar ante la Contraloría Municipal, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta.
+gg) Presentar ante el Órgano Interno de Control, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1355,11 +1367,11 @@ II.- Asimismo, podrán:
 
 a).- Nombrar y remover libremente a los servidores públicos municipales que refiere la Constitución Política del Estado; con excepción del titular del Órgano Interno de Control, cuyo nombramiento deberá realizarse en los términos a que alude el inciso a Bis) de la fracción II del artículo 60 de esta Ley. En los nombramientos de los titulares de las dependencias de la administración pública municipal, deberá observarse el principio de paridad de género conforme a las normas aplicables, además tendrá la obligación de garantizar el acceso a personas con discapacidad para ocupar los puestos titulares de las dependencias y entidades de la administración pública, al menos en un porcentaje total que refleje la presencia de personas de este grupo social en el municipio del que se trate, conforme a los datos censales más recientes;
 
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
 
-a Bis).- Proponer al Ayuntamiento en sesión del mismo, el nombramiento del titular del Órgano Interno de Control. La propuesta será sometida a la aprobación del Ayuntamiento, debiendo ser designado por el voto de cuando menos las dos terceras partes de los integrantes del Ayuntamiento y sólo podrá ser removido por el mismo número de votos.
+a Bis) Proponer al Ayuntamiento en sesión ordinaria a la persona titular del Órgano Interno de Control Municipal, previa convocatoria pública abierta, para el registro de aspirantes, conforme a lo dispuesto en el artículo 105 Ter de esta Ley.
 
-Quien sea titular del Órgano Interno de Control deberá contar con los conocimientos y experiencia relacionados con la materia que le permitan el adecuado desempeño de sus funciones.
+La propuesta será sometida a aprobación, debiendo ser designado por mayoría calificada de cuando menos las dos terceras partes de la totalidad de los integrantes del Ayuntamiento para que la o el aspirante acceda al cargo y sólo podrá ser removido por el mismo número de votos.
 
 b).- Nombrar y remover a los alcaides y al personal de seguridad y administrativo de acuerdo con las disposiciones aplicables, así como, cuidar que las dependencias y oficinas Municipales se integren y funcionen con eficiencia;
 
@@ -1527,9 +1539,9 @@ XIV Bis. Presentar por escrito un informe anual de actividades y de gestión dur
 
 XIV Ter.- Informar al presidente o presidenta sobre cualquier irregularidad en la atención o defensa de los litigios laborales seguidos ante los tribunales competentes;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2024)</small>
 
-XV.- Presentar ante la Contraloría Municipal, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta;
+XV.- Presentar ante el Órgano Interno de Control, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta;
 
 > <small>(REFORMADA, P.O. 26 DE JUNIO DE 2017)</small>
 
@@ -1609,9 +1621,9 @@ X Bis. Presentar por escrito un informe anual de actividades y de gestión duran
 
 XI.- Formular; con la participación de las instancias competentes del Ayuntamiento y de los sectores social y privado, el conocimiento y estudio de los asuntos en materia de Derechos Humanos, para lo cual se deberán atender las necesidades y características particulares de su Municipio, impulsar y fortalecer en todas las actividades que desarrolle el propio Ayuntamiento la protección y promoción de los derechos humanos; y
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2024)</small>
 
-XII.- Presentar ante la Contraloría Municipal, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta;
+XII.- Presentar ante el Órgano de Control Interno, su declaración patrimonial inicial, dentro de los sesenta días naturales siguientes a la toma de posesión; de modificación patrimonial, durante el mes de mayo de cada año; y de conclusión de encargo, dentro de los sesenta días naturales siguientes a ésta;
 
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2365,15 +2377,59 @@ XXVII.- Las demás que le asignen las Leyes y Reglamentos.
 
 ### CAPÍTULO TERCERO. DE LA CONTRALORÍA
 
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 105.
 
-En cada Ayuntamiento, habrá una Contraloría que tendrá por objeto la vigilancia y evaluación del desempeño de las distintas áreas de la administración Municipal, para promover la productividad, eficiencia y eficacia, a través de la implantación de sistemas de control interno, adecuado a las circunstancias, así como vigilar, en su ámbito, el cumplimiento de la Ley de Responsabilidades de Servidores Públicos.
+En cada Ayuntamiento, habrá Órgano de Control Interno que tendrá por objeto la vigilancia y evaluación del desempeño de las distintas áreas de la administración municipal, para promover la productividad, eficiencia y eficacia, a través de la implantación de sistemas de control interno, adecuado a las circunstancias, así como vigilar, en su ámbito, el cumplimiento de la Ley de Responsabilidades de Servidores Públicos.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
 ARTÍCULO 105 BIS.- La Contraloría estará a cargo de una persona titular cuyo nombramiento deberá realizarse en los términos de esta ley; asimismo, contará con Unidades de Investigación, Substanciación y Resolución, cuyos titulares recaerán en personas distintas.
 
 La Contraloría contará con los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objetivo.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2024)</small>
+
+ARTÍCULO 105 TER.- La convocatoria descrita en la fracción a Bis) del artículo 60 de esta Ley, deberá ser emitida por el Ejecutivo Municipal de manera pública y abierta para la selección de aspirantes a ser titulares del órgano Interno de Control.
+
+Dicha Convocatoria deberá publicarse hasta noventa días antes de que el nuevo titular asuma el cargo y será coordinada por la Comisión Especial que el ayuntamiento integre para tal efecto.
+
+La persona aspirante deberá registrarse personalmente en días y horarios hábiles, conforme al domicilio y el procedimiento que la propia Comisión señale.
+
+Concluida la etapa de registros, el Ejecutivo Municipal emitirá un informe que contendrá el número de aspirantes registrados y determinará las personas que han cumplido con los requisitos establecidos en la convocatoria.
+
+Derivado del informe, la Comisión designada organizará la presentación y defensa de ensayos por parte de las y los aspirantes, mediante el cual se determinará a la persona titular del Órgano Interno de Control Municipal.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2024)</small>
+
+(sic) 105 QUATER.- En la convocatoria se establecerá que, además de cumplir con los requisitos exigidos por el artículo 107 de esta Ley, las personas aspirantes deberán acreditar como mínimo:
+
+I.- Ser mexicano o mexicana en pleno ejercicio de derechos políticos y civiles;
+
+II.- Contar con experiencia mínima de dos años en materias jurídicas, de fiscalización o administrativa;
+
+III.- No ser o haber sido miembro adherente o afiliado a algún partido político dentro del año anterior a la designación;
+
+IV.- No desempeñar o haber desempeñado cargo de dirección nacional, estatal o municipal en algún partido político dentro del año anterior a la designación;
+
+V.- No haber sido registrado como candidato, ni haber desempeñado cargo alguno de elección popular en los últimos cuatro años anteriores a la designación;
+
+VI.- No haber sancionado en algún procedimiento de responsabilidad administrativa relacionada con el encargo a desempeñar;
+
+VII.- Presentar un ensayo en tópicos de trasparencia, rendición de cuentas y combate a la corrupción, que permita analizar su visión respecto a estos temas, el cual será turnado a cada uno de los integrantes del Pleno del Ayuntamiento para su estudio.
+
+Dentro de la convocatoria se establecerá que los aspirantes comparecerán ante el Pleno del ayuntamiento para la defensa de su ensayo, exponiendo de manera verbal los motivos por los que desean ser titular del Órgano Interno de Control Municipal.
+
+La falta o inasistencia injustificada a esta sesión será suficiente para descartar su aspiración sin necesidad de su aprobación del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2024)</small>
+
+ARTÍCULO 105 QUINQUIES.- El Ayuntamiento en sesión nombrará a la persona titular de Órgano Interno de Control, a aquella que obtenga mayoría calificada de cuando menos dos terceras partes de la totalidad de sus integrantes, a más tardar el 15 de septiembre del segundo año de inicio de la administración municipal, durando en su encargo cuatro años.
+
+La persona designada solo podrá ser removido por el mismo principio de mayoría calificada y por causas graves determinadas en la Ley y debidamente justificadas.
+
+La violación al procedimiento de designación de la persona titular de Órgano Interno de Control estará afectada de nulidad y se considera violación grave a esta ley.
 
 ###### ARTÍCULO 106.
 
@@ -2463,11 +2519,11 @@ XXII.- Revisar los inventarios de bienes muebles e inmuebles propiedad del Ayunt
 
 XXIII.- Las demás que le atribuyan expresamente las Leyes y Reglamentos en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 107.
 
-Los requisitos para ser titular de la Contraloría podrán contenerse en los Reglamentos y Bandos que al efecto emita el Ayuntamiento de cada Municipio, y en caso de no contarse con esa disposición, supletoriamente, se exigirán los siguientes:
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+Los requisitos para ser titular del Órgano Interno de Control podrán contenerse en los Reglamentos y Bandos que al efecto emita el Ayuntamiento de cada Municipio, y en caso de no contarse con esa disposición, supletoriamente, se exigirán los siguientes:
 
 > <small>(REFORMADA, P.O. 9 DE MAYO DE 2016)</small>
 
@@ -2475,11 +2531,17 @@ I.- Contar con título profesional en las ramas de Derecho, Contaduría Pública
 
 II.- Tener un modo honesto de vivir;
 
-III.- Ser de reconocida solvencia moral;
+III.- (DEROGADA, P.O. 21 DE JUNIO DE 2024)
 
-IV.- No haber sido condenado mediante sentencia ejecutoriada, por delito doloso; y
+IV.- (DEROGADA, P.O. 21 DE JUNIO DE 2024)
 
-V.- No contar con inhabilitación vigente para desempeñar un cargo, empleo o comisión en el servicio público.
+> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2024)</small>
+
+V.- No contar con inhabilitación vigente para desempeñar un cargo, empleo o comisión en el servicio público; y
+
+> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2024)</small>
+
+VI.- Contar con conocimientos y experiencia relacionados con la materia que le permitan el adecuado desempeño de sus funciones.
 
 ### CAPÍTULO CUARTO. DE LOS SERVICIOS PÚBLICOS
 
@@ -2799,9 +2861,9 @@ V.- Autorizar las licencias y permisos de funcionamiento y cuidar que se paguen 
 
 VI.- Regular el comercio establecido, así como la autorización de espectáculos públicos en el Municipio.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
 
-ARTÍCULO 121 BIS.- Los servidores públicos municipales que se desempeñen como titulares de la Secretaría General Municipal, la Tesorería Municipal, la Contraloría, la Oficialía del Registro del Estado Familiar, la Unidad de Protección Civil, la Dirección de Ecología y Medio Ambiente, el área de Obras Públicas, el área de Planeación Municipal o su equivalente, la Instancia Municipal para el Desarrollo de las Mujeres y el responsable Municipal de Movilidad, están obligados a participar en el Sistema para la Profesionalización del Servicio Público Municipal que instrumente el Ejecutivo del Estado por conducto de la dependencia o entidad competente y contar con una certificación de competencia laboral expedida por una institución reconocida en el Sistema Nacional de Competencias durante el primer año de su gestión; en caso de incumplir esta disposición serán removidos de su cargo.
+ARTÍCULO 121 BIS.- Los servidores públicos municipales que se desempeñen como titulares de la Secretaría General Municipal, la Tesorería Municipal, El Órgano Interno de Control , la Oficialía del Registro del Estado Familiar, la Unidad de Protección Civil, la Dirección de Ecología y Medio Ambiente, el área de Obras Públicas, el área de Planeación Municipal o su equivalente, la Instancia Municipal para el Desarrollo de las Mujeres y el responsable Municipal de Movilidad, están obligados a participar en el Sistema para la Profesionalización del Servicio Público Municipal que instrumente el Ejecutivo del Estado por conducto de la dependencia o entidad competente y contar con una certificación de competencia laboral expedida por una institución reconocida en el Sistema Nacional de Competencias durante el primer año de su gestión; en caso de incumplir esta disposición serán removidos de su cargo.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -4784,3 +4846,11 @@ P.O. 18 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 996 POR EL QUE SE ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 145 TERTIUSDÉCIMUS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 976 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Para efecto de la emisión de las convocatorias, los Ayuntamientos de la entidad contarán con un término de 60 días naturales contados a partir de la toma de protesta de las próximas administraciones municipales.
