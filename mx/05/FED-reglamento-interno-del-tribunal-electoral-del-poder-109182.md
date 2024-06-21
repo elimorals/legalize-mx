@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-del-tribunal-electoral-del-poder-109182"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-07"
-last_updated: "2024-04-18"
+last_updated: "2024-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109182&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2015-08-03"
 
 REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE JUNIO DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 7 de agosto de 2015.
 
@@ -305,49 +305,43 @@ La Sala Superior contará con las Comisiones y Comités que considere pertinente
 
 Su funcionamiento será establecido por los acuerdos que emita la Sala Superior. Su integración se orientará por el principio de paridad y se trabajará con perspectiva de género.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE JUNIO DE 2024)</small>
 
-### CAPÍTULO IV. Del Comité Académico y Editorial
+### CAPÍTULO IV. Del Comité Académico
+
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2024)</small>
 
 ###### Artículo 17.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+Con el objeto de orientar la política académica y editorial del Tribunal Electoral, la Sala Superior se auxiliará de un órgano consultivo denominado Comité Académico, que será el encargado de aprobar las directrices de investigación, capacitación, escolares, y editoriales.
 
-Con el objeto de orientar la política académica y editorial del Tribunal Electoral, la Sala Superior se auxiliará de un órgano consultivo denominado Comité Académico y Editorial, que será el encargado de aprobar las directrices de investigación, capacitación y editoriales. El Comité Académico y Editorial estará integrado paritariamente por:
+El Comité Académico estará integrado paritariamente por:
 
-I. La persona titular de la Presidencia del Tribunal Electoral, quien a su vez lo presidirá;
+I. La persona titular de la Presidencia del Tribunal Electoral, quien a su vez lo presidirá y en caso de empate tendrá el voto de calidad;
 
-II. Tres Magistradas o Magistrados de la Sala Superior designados por la propia Sala;
+II. Dos Magistradas o Magistrados de la Sala Superior designados por la propia Sala;
 
-III. Cinco personas externas elegidas por la Sala Superior de entre personalidades reconocidas en el ámbito profesional, académico o editorial, a propuesta de cualquiera de las o los Magistrados que integran el Comité.
+III. Cuatro personas externas elegidas por la Sala Superior de entre personalidades reconocidas en el ámbito profesional, académico o editorial, a propuesta de cualquiera de las Magistraturas que integran el Comité;
+
+IV. Una persona del Consejo de la Judicatura Federal que integre la Comisión de Administración del Tribunal Electoral del Poder Judicial de la Federación, quien será seleccionada mediante proceso de insaculación. La cual únicamente conocerá de los asuntos de este comité, que por su naturaleza deban ser sometidos a consideración de la referida Comisión de Administración.
 
 Sus integrantes durarán en el encargo cuatro años y contará con alguno o más con trayectoria y experiencia en temas de género.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2017)</small>
+Las personas titulares de la Escuela Judicial Electoral y de la Dirección General de Documentación concurrirán a las sesiones del Comité Académico con voz, pero sin voto.
 
-Las personas titulares del Centro y de la Dirección General de Documentación concurrirán a las sesiones del Comité Académico con voz, pero sin voto.
+Por la naturaleza del Comité, la Secretaría Técnica estará a cargo de las personas titulares de la Escuela Judicial Electoral y de la Dirección General de Documentación. Cada Secretariado Técnico deberá atender, según el ámbito de su competencia, los temas que sean objeto de la sesión correspondiente y que se vinculen con sus respectivas facultades.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2017)</small>
-
-Por la naturaleza del Comité, la Secretaría Técnica estará a cargo de las personas titulares del Centro y de la Dirección General de Documentación. Cada Secretariado Técnico deberá atender, según el ámbito de su competencia, los temas que sean objeto de la sesión correspondiente y que se vinculen con sus respectivas facultades.
+> <small>(REFORMADO, D.O.F. 21 DE JUNIO DE 2024)</small>
 
 ###### Artículo 18.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE JUNIO DE 2017)</small>
+El Comité Académico tendrá las facultades siguientes:
 
-El Comité Académico y Editorial tendrá las facultades siguientes:
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
-
-I. Opinar respecto del Programa Académico y Editorial que elabore el Centro, mismo que deberá ser presentado a más tardar en el mes de mayo del año anterior al ejercicio que corresponda, así como supervisar su ejecución;
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+I. Opinar respecto del Programa Académico y Editorial que elabore la Escuela Judicial Electoral y la Dirección General de Documentación, mismo que deberá ser presentado a más tardar en el mes de mayo del año anterior al ejercicio que corresponda, así como supervisar su ejecución;
 
 II. Supervisar y, en su caso, evaluar el Programa Académico y Editorial;
 
-III. Aprobar anualmente las líneas generales de investigación del Centro, las cuales deberán elaborarse una vez agotado el procedimiento de consulta que se prevea en los lineamientos para dictaminar investigaciones;
-
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+III. Aprobar anualmente las líneas generales de investigación de la Escuela Judicial Electoral, las cuales deberán elaborarse una vez agotado el procedimiento de consulta que se prevea en los lineamientos para dictaminar investigaciones;
 
 IV. Aprobar los proyectos de investigación, formación, capacitación, difusión y actualización, así como los nombres de las personas encargadas de las investigaciones que dentro de cada línea se presenten en el Programa Académico y Editorial Anual del Tribunal Electoral;
 
@@ -363,9 +357,9 @@ IX. Formular programas de intercambio académico con universidades e institucion
 
 X. Aprobar la política editorial del Tribunal Electoral;
 
-XI. Planear, supervisar y evaluar la producción editorial, observando los requisitos establecidos por el Comité Académico y Editorial;
+XI. Planear, supervisar y evaluar la producción editorial;
 
-XII. Proponer y acordar la creación de títulos, temas, series y colecciones, así como de publicaciones periódicas;
+XII. Proponer y acordar la creación de títulos, temas, series y colecciones, así como de publicaciones periódicas o, en su caso, sustituir o dar de baja alguno establecido;
 
 XIII. Proponer personas para las publicaciones conforme a la política editorial;
 
@@ -381,9 +375,11 @@ XVIII. Proponer criterios en materia editorial que permitan elaborar productos d
 
 XIX. Fortalecer la presencia nacional e internacional del Tribunal Electoral a través de la publicación de obras y participación en eventos relacionados con sus actividades;
 
-XX. Establecer los mecanismos pertinentes de seguimiento y evaluación de las publicaciones; y
+XX. Establecer los mecanismos pertinentes de seguimiento y evaluación de las publicaciones;
 
-XXI. Las demás que les confieran las disposiciones aplicables.
+XXI. Planear, supervisar y evaluar los programas escolares que competan a la Escuela Judicial Electoral; y
+
+XXII. Las demás que les confieran las disposiciones aplicables.
 
 ### CAPÍTULO V. De la Secretaría General de Acuerdos de la Sala Superior y sus Áreas de Apoyo
 
@@ -2049,6 +2045,8 @@ Contará con una Secretaría Administrativa, cuya persona titular fungirá como 
 
 ###### Artículo 167.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], D.O.F. 21 DE JUNIO DE 2024)</small>
+
 La Comisión de Administración tendrá las facultades siguientes:
 
 I. Vigilar, en el ámbito de su competencia, el buen desempeño y funcionamiento del Tribunal Electoral;
@@ -2057,7 +2055,9 @@ II. Formar los comités que sean necesarios para la atención de los asuntos de 
 
 III. Remitir, por conducto de su Presidencia, el expediente para la sustanciación de la apelación prevista en los artículos 209, fracción IX, 219, párrafo 2 y 241, párrafo 2, de la Ley Orgánica;
 
-IV. Aprobar el Programa Académico Anual y sus modificaciones que, previa opinión del Comité Académico y Editorial, someta a su consideración la persona titular de la Dirección del Centro;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2024)</small>
+
+IV. Aprobar el Programa Académico Anual y sus modificaciones que, previa opinión del Comité Académico, someta a su consideración la persona titular de la Escuela Judicial Electoral;
 
 V. Establecer las bases de coordinación del Centro con el Instituto de la Judicatura Federal, de acuerdo con los lineamientos que previamente acuerde con el Consejo de la Judicatura;
 
@@ -2577,15 +2577,17 @@ La integración del Centro se orientará por el principio de paridad y contará 
 
 ###### Artículo 185.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE JUNIO DE 2024)</small>
 
-La persona titular de la Escuela Judicial tendrá las facultades siguientes:
+La persona titular de la Escuela Judicial Electoral tendrá las facultades siguientes:
 
-I. Coordinar el desarrollo de las actividades del Centro;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+I. Coordinar el desarrollo de las actividades de la Escuela Judicial Electoral;
 
-II. Fungir, en el ámbito académico, como titular de la Secretaría Técnica del Comité Académico y Editorial y, elaborar y modificar el Programa Académico y Editorial Anual, el cual deberá incluir la capacitación para las Salas Regionales; y someterlo, previa opinión de dicho Comité, a la aprobación de la Comisión de Administración, a través de su Presidencia;
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2024)</small>
+
+II. Fungir, en el ámbito académico, como titular de la Secretaría Técnica del Comité Académico y, elaborar y modificar el Programa Académico y Editorial Anual, el cual deberá incluir la capacitación para las Salas Regionales; y someterlo, previa opinión de dicho Comité, a la aprobación de la Comisión de Administración, a través de su Presidencia, así como someter al Comité Académico los puntos necesarios de aprobación para la ejecución del Programa Académico;
 
 III. Suscribir la documentación académica que genere el Centro;
 
@@ -3299,7 +3301,7 @@ La Dirección General de Documentación se encarga de proponer, coordinar y admi
 
 ###### Artículo 201.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], D.O.F. 21 DE JUNIO DE 2024)</small>
 
 La persona titular de la Dirección General de Documentación tendrá las facultades siguientes:
 
@@ -3343,21 +3345,21 @@ IX. Poner a disposición de las o los Magistrados, del personal del Tribunal Ele
 
 X. Proponer la celebración de convenios de colaboración con instituciones y organismos afines, nacionales e internacionales, en materia de servicios documentales, intercambio y obtención de información jurídica, y de aquellos que propicien el intercambio de experiencias y conocimientos;
 
-> <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2024)</small>
 
-XI. Distribuir las publicaciones institucionales, de conformidad con el Programa Académico y Editorial Anual autorizado por el Comité Académico y Editorial;
+XI. Distribuir las publicaciones institucionales, de conformidad con el Programa Académico y Editorial Anual autorizado por el Comité Académico;
 
 > <small>(REFORMADA, D.O.F. 14 DE JUNIO DE 2017)</small>
 
 XII. Dirigir las actividades de impresión y edición de libros, revistas, folletos, carteles, trípticos y demás materiales gráficos;
 
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2024)</small>
 
-XIII. Fungir, en el ámbito editorial, como Secretario Técnico del Comité Académico y Editorial en los asuntos de su competencia; y
+XIII. Fungir, en el ámbito editorial, como Secretario Técnico del Comité Académico en los asuntos de su competencia, así como someter al Comité Académico los puntos necesarios de aprobación para la ejecución del Programa Editorial; y
 
-> <small>(ADICIONADA, D.O.F. 14 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, D.O.F. 21 DE JUNIO DE 2024)</small>
 
-XIV. Dirigir la baja y destrucción de las publicaciones institucionales, de conformidad con el Programa Académico y Editorial Anual autorizado por el Comité Académico y Editorial.
+XIV. Dirigir la baja y destrucción de las publicaciones institucionales, de conformidad con el Programa Académico y Editorial Anual autorizado por el Comité Académico.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -4440,6 +4442,26 @@ QUINTO. Se instruye a la Defensoría Pública Electoral Especializada en la Aten
 > <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "ACTA DE DECISIÓN COLEGIADA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, MEDIANTE LA QUE SE ACORDÓ LA REFORMA AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RELATIVA A LA CREACIÓN DE LA DEFENSORÍA PÚBLICA ELECTORAL ESPECIALIZADA EN LA ATENCIÓN DE ASUNTOS DE VIOLENCIA POLÍTICA EN RAZÓN DE GÉNERO".]</small>
 
 PRIMERO. Aprobar la reforma de los artículos 173, 187, 188, 188 quintus, 188 septimus, 208, 209, 226 y 227, así como la adición de los artículos 188 Septimus decimus, 188 Duodevicesimus, 188 Undevicesimus, 188 Vicesimus, 188 Vicesimus primus, 188 Vicesimus secundas y 188 Vicesimus tertius, del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, la cual entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Derogar todas aquellas disposiciones que contravengan la presente reforma.
+
+TERCERO. Publicar la reforma al Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LA REFORMA AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RELATIVA AL CAMBIO DE NOMENCLATURA E INTEGRACIÓN DEL COMITÉ ACADÉMICO Y EDITORIAL".]
+
+PRIMERO. La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese la presente reforma en el Diario Oficial de la Federación y en las páginas de Internet e Intranet del Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO. Se derogan las disposiciones que se opongan a la presente reforma.
+
+CUARTO. Se instruye a la Escuela Judicial Electoral y a la Dirección General de Asuntos Jurídicos lleven a cabo la actualización de los instrumentos internos que correspondan conforme a la normatividad aplicable en un plazo no mayor a 30 días naturales.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL ACTA DE DECISIÓN COLEGIADA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, MEDIANTE LA QUE SE ACORDÓ LA REFORMA AL REGLAMENTO INTERNO DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, RELATIVA AL CAMBIO DE NOMENCLATURA E INTEGRACIÓN DEL COMITÉ ACADÉMICO Y EDITORIAL".]</small>
+
+PRIMERO. Aprobar la reforma de los artículos 17, 18, 167, 185 y 201 del Reglamento Interno del Tribunal Electoral del Poder Judicial de la Federación, la cual entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Derogar todas aquellas disposiciones que contravengan la presente reforma.
 
