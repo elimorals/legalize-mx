@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-movilidad-del-estado-de-nayarit-139839"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-07"
-last_updated: "2024-04-17"
+last_updated: "2024-06-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "NAY"
 LEY DE MOVILIDAD DEL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 21 DE JUNIO DE 2024 NO APLICA AL ARTICULADO DE LA LEY DE MOVILIDAD DEL ESTADO DE NAYARIT PUBLICADA EN EL P.O. DE 7 DE ENERO DE 2020.]</small>
 
 Ley publicada en la Sección quinta del Número 003 del Periódico Oficial del Estado de Nayarit, el martes 7 de enero de 2020.
 
