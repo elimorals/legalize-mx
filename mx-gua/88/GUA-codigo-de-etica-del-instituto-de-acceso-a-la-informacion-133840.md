@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-etica-del-instituto-de-acceso-a-la-informacion-133840
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-19"
-last_updated: "2019-02-19"
+last_updated: "2024-06-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE ETICA DEL INSTITUTO DE ACCESO A LA INFORMACION PUBLICA PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 21 DE JUNIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2024 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Guanajuato, el martes 19 de febrero de 2019.
 
@@ -358,3 +360,21 @@ Titular del Órgano Interno de Control
 Lic. José Andrés Rizo Marín
 
 Secretario General de Acuerdos
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO".]
+
+Vigencia
+
+Artículo primero. El presente Código entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación del Código anterior
+
+Artículo segundo. Se abroga el Código de Ética del Instituto de Acceso a la Información Pública para el Estado de Guanajuato publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato de fecha 19 diecinueve de febrero de 2019 dos mil diecinueve, Segunda Parte.
+
+Difusión oficial
+
+Artículo tercero. Se instruye a la Dirección Jurídica del Instituto de Acceso a la Información Pública para el Estado de Guanajuato, realice los trámites necesarios para la publicación del presente Código en el Periódico Oficial del Gobierno del Estado de Guanajuato.
