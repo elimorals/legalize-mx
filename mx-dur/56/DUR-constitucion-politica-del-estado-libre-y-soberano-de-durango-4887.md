@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2023-08-23"
+last_updated: "2024-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1117,9 +1117,9 @@ Las y los duranguenses que tengan la calidad de migrantes, no requerirán de la 
 
 II. Saber leer y escribir.
 
-> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-III. Tener veintiún años cumplidos el día de la elección.
+III. Tener dieciocho años cumplidos el día de la elección.
 
 > <small>(REFORMADA, P.O. 20 DE JULIO DE 2023)</small>
 
@@ -2438,6 +2438,10 @@ IV. Rendir ante el Congreso del Estado un informe anual por escrito de labores y
 Las y los titulares y los integrantes de sus consejos, comisiones u órganos directivos, consultivos o de gobierno serán designados, con excepción de aquellos cuyo nombramiento no sea atribución del Congreso del Estado, en forma escalonada, conforme a las reglas y procedimientos señalados por la ley, mediante el voto de las dos terceras partes de los miembros del Congreso del Estado presentes, atendiendo a la paridad de género. Para tal efecto, se deberá realizar un procedimiento de convocatoria pública amplia y transparente, en los términos de la ley.
 
 Durante el ejercicio de su cargo sólo podrán ser removidos en los términos del Título séptimo de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+Todas las personas mencionadas en el párrafo primero de este artículo, además de los requisitos que se mencionen en otros preceptos de esta Constitución y de las respectivas leyes y reglamentos, deberán cumplir como requerimiento el no haber sido sentenciada o sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional y por delitos de violencia política contra las mujeres por razones de género, que amerite pena privativa de libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos, así como no tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -4752,3 +4756,21 @@ P.O. 23 DE AGOSTO DE 2023.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 456 QUE CONTIENE REFORMA AL ARTÍCULO 69 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN MATERIA DE EDAD MÍNIMA NECESARIA PARA SER DIPUTADA O DIPUTADO”.]
+
+PRIMERO.- La entrada en vigor del presente Decreto, será al día siguiente de la conclusión del Proceso Electoral Local 2023-2024. Lo anterior en términos del artículo 105 fracción II penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Durango.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan a lo establecido en el presente decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 473 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 131 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
