@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2023-12-19"
+last_updated: "2024-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -417,7 +417,9 @@ En los casos de traslados o retenciones ilícitas de niñas, niños y adolescent
 
 Cuando las autoridades de la entidad tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las demás disposiciones aplicables, para su localización y restitución.
 
-Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de niñas, niños y/o adolescentes.
 
 ###### Artículo 20.
 
@@ -625,15 +627,21 @@ XVI. Fomentar acciones y programas para difundir entre la ciudadanía los perjui
 
 En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme al artículo 48 de la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia o la de sus familiares sobrevivientes en su caso de niños niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
 
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2024)</small>
 
 ###### Artículo 33 Bis.
 
-El Estado y los Municipios, establecerán medidas tendientes a que en los servicios de salud, se detecten y atiendan de manera especial los casos de Niñas, Niños y Adolescentes con problemas de salud mental, en específico los menores que han sido víctimas de cualquier tipo de violencia, comprenderá:
+El Estado y los Municipios, establecerán medidas tendientes a que, en los servicios de salud, se detecten y atiendan de manera especial los casos de Niñas, Niños y Adolescentes con problemas de salud mental, en específico aquellos que han sido víctimas de cualquier tipo de violencia, comprenderá:
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
 
 I. La creación de mecanismos de detección de casos de violencia en niñas, niños y adolescentes que acudan a los distintos servicios de salud que ofrece el Estado de Durango y sus Municipios, para la implementación de medidas de prevención de violencia.
 
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
+
 II. Atención psicológica, y tratamiento a niñas, niños y adolescentes que sufran violencia de cualquier tipo.
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
 
 III. La promoción de la salud integral para la prevención de cualquier tipo de violencia en niñas, niños y adolescentes.
 
@@ -799,13 +807,17 @@ VIII. Impartir a los educandos conocimientos sobre la sexualidad, la reproducci�
 
 IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos, y
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos;
 
-> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-XI. Fomentar y promover los beneficios de la cultura del ahorro, la educación financiera y el valor de la actitud emprendedora entre las niñas, niños y adolescentes.
+XI. Fomentar y promover los beneficios de la cultura del ahorro, la educación financiera y el valor de la actitud emprendedora entre las niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+XII. Promover e incentivar en niñas, niños y adolescentes el acercamiento y práctica de la lectura que estimule su creatividad, memorización y el pensamiento crítico y asertivo, así como la comprensión y el uso adecuado del lenguaje y la escritura.
 
 ###### Artículo 39.
 
@@ -851,9 +863,9 @@ Así mismo, tienen derecho a disfrutar libremente de su lengua, cultura, usos, c
 
 Lo dispuesto en este artículo se ejercerá en concordancia con el derecho a la educación y no será limitativo del deber de educación de los padres o de quienes ejerzan la patria potestad, tutela o guarda y custodia, de guiar y orientar a niñas, niños y adolescentes en el ejercicio de estos derechos, a fin de que contribuya con su desarrollo integral.
 
-> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
 
-Las autoridades estatales y municipales aprovecharán su infraestructura y recursos; el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance; lo mismo que su vinculación con las empresas de la industria cultural, a fin de promover y difundir todas sus expresiones para que las niñas, niños y adolescentes del Estado cuenten con elementos de aprendizaje y acercamiento a la cultura y las artes.
+Las autoridades estatales y municipales aprovecharán su infraestructura y recursos, así como las acciones de fomento y promoción de la lectura; el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance; lo mismo que su vinculación con las empresas de la industria cultural, a fin de promover y difundir todas sus expresiones para que las niñas, niños y adolescentes del Estado cuenten con elementos de aprendizaje y acercamiento a la cultura y las artes, al pensamiento crítico y la creatividad.
 
 ### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
 
@@ -937,9 +949,11 @@ Cualquier medio de comunicación que difunda entrevistas, imágenes, voz o datos
 
 En caso de incumplimiento se promoverán las acciones civiles, denuncias, querellas y procedimientos de conformidad con las leyes Civil, Penal y Administrativa del Estado de Durango y demás disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
 ###### Artículo 50.
 
-Los (sic) autoridades estatales y municipales, deberán garantizar la protección de la identidad e intimidad de niñas y niños que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme al Código de Justicia para Menores Infractores en el Estado de Durango.
+Los (sic) autoridades estatales y municipales, deberán garantizar la protección de la identidad e intimidad de niñas y niños que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme lo establece la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ###### Artículo 51.
 
@@ -1017,9 +1031,11 @@ VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, ni
 
 Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección.
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
 ###### Artículo 55.
 
-Para los procedimientos y las medidas que correspondan a quienes se les atribuyan la comisión o participación en un hecho que la ley señale como delito mientras era adolescente se estará a lo dispuesto por el Código de Justicia para Menores Infractores en el Estado de Durango.
+Para los procedimientos y las medidas que correspondan a quienes se les atribuyan la comisión o participación en un hecho que la ley señale como delito mientras era adolescente se estará a lo dispuesto por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ### Capítulo Décimo Noveno. Niñas, Niños y Adolescentes Migrantes
 
@@ -1029,7 +1045,13 @@ Las autoridades estatales, en el ámbito de su competencia, deberán garantizar 
 
 Las autoridades competentes; una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior.
 
-Para garantizar la protección integral de los derechos, el Sistema DIF Estatal y los Sistemas Municipales DIF en coordinación con el Instituto Nacional de Migración, habilitarán espacios de alojamiento o albergues con estándares mínimos para dar una atención adecuada a niñas, niños y adolescentes migrantes, en donde se respetarán el principio de separación y el derecho a la unidad familiar, de modo tal que si se trata de niñas, niños o adolescentes no acompañados o separados, deberán alojarse en sitios distintos al que corresponde a las personas adultas.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JUNIO DE 2024)</small>
+
+Corresponde al Sistema DIF Estatal y los Sistemas Municipales DIF brindar la protección que prevé esta ley y demás disposiciones aplicables, en tanto el Instituto Nacional de Migración determine la condición migratoria de las niñas, niños y/o adolescentes acompañados y/o no acompañados en contexto de movilidad humana.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+Para garantizar la protección integral de los derechos, el Sistema DIF Estatal y los Sistemas Municipales DIF en coordinación con el Instituto Nacional de Migración, habilitarán espacios de alojamiento o albergues con estándares óptimos y atiendan a la perspectiva de género, para dar una atención adecuada a niñas, niños y adolescentes migrantes, en donde se respetarán el principio de separación y el derecho a la unidad familiar, de modo tal que si se trata de niñas, niños o adolescentes no acompañados o separados, deberán alojarse en sitios distintos al que corresponde a las personas adultas.
 
 Tratándose de niñas, niños o adolescentes acompañados, podrán alojarse con sus familiares, salvo que lo más conveniente sea la separación de éstos en aplicación del principio del interés superior de la niñez.
 
@@ -1038,6 +1060,12 @@ En caso de que el Sistema DIF Estatal o los Sistemas Municipales DIF identifique
 El Sistema DIF Estatal enviará al Sistema Nacional DIF la información en el momento en que se genere de las bases de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, que incluya las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica.
 
 En ningún caso una situación migratoria irregular de niñas, niños o adolescentes, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+###### Artículo 56 Bis.
+
+Las políticas públicas, ordenamientos jurídicos, programas gubernamentales, protocolos, instrumentos, servicios, acciones y decisiones que se generen para la atención de niñas, niños y adolescentes con condición de migrantes, deberán considerar la perspectiva de género y el enfoque intercultural.
 
 ### Capítulo Vigésimo. De las Niñas, Niños y Adolescentes en Situaciones Especiales
 
@@ -1049,7 +1077,9 @@ I. Niñas, niños y adolescentes cuyos padres se encuentren en situación de enc
 
 II. Niñas, Niños y Adolescentes que hayan sido objeto de un hecho victimizante en los términos de la Ley General de Victimas y de la Ley de Victimas del Estado de Durango, y
 
-III. Aquellos adolescentes sujetos a los procedimientos establecidos en el Código de Justicia para Menores Infractores en el Estado de Durango.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+III. Aquellos adolescentes sujetos a los procedimientos establecidos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ###### Artículo 58.
 
@@ -1115,7 +1145,9 @@ El Poder Ejecutivo del Estado y gobiernos municipales podrán crear programas de
 
 Se prohíben las siguientes actividades en las instituciones públicas y privadas de educación inicial, preescolar, primaria, secundaria:
 
-I. La distribución, donación, regalo, venta y suministro a menores de edad, de bebidas azucaradas y alimentos envasados de alto contenido calórico, conforme a las disposiciones legales aplicables al interior de los planteles educativos.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+I. La distribución, donación, regalo, venta y suministro a niñas, niños y adolescentes, de bebidas azucaradas y alimentos envasados de alto contenido calórico, conforme a las disposiciones legales aplicables al interior de los planteles educativos.
 
 II. La distribución, donación, regalo, venta y suministro de bebidas azucaradas y alimentos envasados de alto contenido calórico en comedores de los centros públicos de educación inicial, preescolar, primaria, secundaria.
 
@@ -1503,11 +1535,15 @@ II. Apoyar el desarrollo de la familia y la comunidad, resaltando una cultura de
 
 III. Impulsar la cooperación y coordinación de las autoridades en los diferentes niveles en el ámbito de sus respectivas competencias en materia de protección y restitución en el ejercicio de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello;
 
-IV. Prestar servicios de asistencia social y en su caso, celebrar los convenios de colaboración con los Sistemas Municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social, en la medida que favorezca la salvaguarda del interés superior del menor;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+IV. Prestar servicios de asistencia social y en su caso, celebrar los convenios de colaboración con los Sistemas Municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social, en la medida que favorezca la salvaguarda del interés superior de la niñez;
 
 V. Operar y monitorear todas las acciones, programas y establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes; especialmente con aquellos que sufren algún tipo de discapacidad;
 
-VI. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia, en la medida que favorezca la salvaguarda del interés superior del menor, y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+VI. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia, en la medida que favorezca la salvaguarda del interés superior de la niñez, y
 
 VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
@@ -1667,9 +1703,13 @@ XIX. Impulsar mecanismos que permitan el desarrollo de un enfoque preventivo y m
 
 XX. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 23 DE JUNIO DE 2024)</small>
+
 ###### Artículo 80.
 
 El Sistema Local de Protección estará conformado por:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2024)</small>
 
 A. Poder Ejecutivo Estatal:
 
@@ -1679,7 +1719,9 @@ II. El Secretario General de Gobierno;
 
 III. El Secretario de Finanzas y de Administración;
 
-IV. El Secretario de Desarrollo Social;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+IV. El Secretario de Bienestar Social;
 
 V. El Secretario de Educación;
 
@@ -2410,3 +2452,31 @@ P.O. 19 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 582 QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 583 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 38 Y 41 Y SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 38 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 584 QUE CONTIENE REFORMAS AL ARTÍCULO 56, Y SE ADICIONA EL ARTÍCULO 56 BIS, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
