@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-proteccion-de-datos-personales-en-posesion-de-122200"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-11"
-last_updated: "2017-06-11"
+last_updated: "2024-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Durango, el domingo 11 de junio de 2017.
 
@@ -107,9 +107,13 @@ VIII. Consejo Nacional: Consejo del Sistema Nacional de Transparencia, Acceso a 
 
 IX. Consentimiento: Manifestación de la voluntad libre, específica e informada del titular que autoriza el tratamiento de sus datos personales;
 
-X. Datos personales: Cualquier información concerniente a una persona física identificada o identificable. Se considera que una persona es identificable cuando su identidad pueda determinarse directa o indirectamente a través de cualquier información;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-XI. Datos personales sensibles: Aquellos que se refieran a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste. De manera enunciativa más no limitativa, se consideran sensibles los datos personales que puedan revelar aspectos como origen racial o étnico, estado de salud, información genética, creencias religiosas, filosóficas y morales, opiniones políticas y preferencia sexual;
+X. Datos Personales: Cualquier información concerniente a una persona física identificada o identificable, dentro de los que se encuentran los datos biométricos que identifican rasgos físicos o fisiológicos que pueden ser medidos o caracterizados. Se considera que una persona es identificable cuando su identidad pueda determinarse directa o indirectamente a través de cualquier información.
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+XI. Datos personales sensibles: Aquellos que se refieran a la esfera más íntima de su titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste, aun cuando solo en su conjunto y no de manera individual hagan identificable a una persona o no sean sensibles. De manera enunciativa más no limitativa, se consideran sensibles los datos personales que puedan revelar aspectos como el origen racial o étnico, estado de salud, información genética, creencias religiosas, filosóficas y morales, opiniones políticas y preferencia sexual;
 
 XII. Derechos ARCO: Los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
 
@@ -1648,3 +1652,13 @@ DR. ROSAS AISPURO TORRES
 EL SECRETARIO GENERAL DEL GOBIERNO
 
 ARQ. ADRIAN ALANÍS QUIÑONES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 579 QUE CONTIENE REFORMAS A LAS FRACCIONES X Y XI DE (SIC) ARTÍCULO 3 DE LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
