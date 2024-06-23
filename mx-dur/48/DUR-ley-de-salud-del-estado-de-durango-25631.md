@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-salud-del-estado-de-durango-25631"
 country: "mx"
 rank: "ley"
 publication_date: "2002-07-11"
-last_updated: "2023-03-30"
+last_updated: "2024-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE SALUD DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 11 de julio de 2002.
 
@@ -119,13 +119,17 @@ V. El disfrute de servicios de salud y asistencia social que satisfagan eficaz y
 
 VI. El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
 
-> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, con perspectiva de género; y
+VII. El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud, con perspectiva de género;
 
-> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-VIII. La atención a grupos en situación de vulnerabilidad, siendo esta la condición de una mayor indefensión en la que se puede encontrar una persona, grupo o una comunidad debido a que no se cuentan con los recursos necesarios para satisfacer las necesidades básicas del ser humano, como la alimentación, el ingreso, la vivienda, los servicios de salud y el agua potable, entre otros.
+VIII. La atención a grupos en situación de vulnerabilidad, siendo esta la condición de una mayor indefensión en la que se puede encontrar una persona, grupo o una comunidad debido a que no se cuentan con los recursos necesarios para satisfacer las necesidades básicas del ser humano, como la alimentación, el ingreso, la vivienda, los servicios de salud y el agua potable, entre otros; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+IX. El desarrollo de la prestación de los servicios de salud, incorporando de manera paulatina, el acceso a los mismos a través de la telemedicina.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 7 PUBLICADO EN EL P.O. 9 DE DICIEMBRE DE 2018, PÁGINAS DE LA 11 A LA 12.]</small>
 
@@ -273,6 +277,10 @@ LXI. Adicción o Trastorno Adictivo: Patrón desadaptado de comportamiento compu
 
 LXII. Violencia hacia las mujeres y niñas: cualquier tipo de violencia en sus distintas modalidades, establecidas en la Ley de las Mujeres para una Vida Sin Violencia.
 
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+LXIII. Telemedicina. La atención y servicios médicos proporcionados a los usuarios de los servicios de salud de forma remota, a través del aprovechamiento y uso de las tecnologías de la información y comunicación.
+
 > <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2014)</small>
 
 ###### ARTÍCULO 4.
@@ -309,9 +317,11 @@ En lo no previsto en la presente Ley se aplicarán en forma supletoria los Códi
 
 ### CAPÍTULO I
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 8.
 
-El Sistema Estatal de Salud está constituido por las dependencias y entidades de la administración pública estatal y las personas físicas o morales de los sectores social y privado que presten servicios de salud en el Estado, así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho de protección a la salud en el territorio del Estado de Durango.
+El Sistema Estatal de Salud está constituido por las dependencias y entidades de la administración pública estatal y las personas físicas o morales de los sectores social y privado que presten servicios de salud en cualquiera de sus modalidades en el Estado, así como por los mecanismos de coordinación de acciones, a fin de dar cumplimiento al derecho de protección a la salud en el territorio del Estado de Durango.
 
 El Sistema Estatal de Salud, con la intervención que corresponda al Comité de Planeación para el Desarrollo del Estado, definirá los mecanismos de coordinación y colaboración en materia de planeación de los servicios de salud en el Estado, de conformidad con esta Ley y demás disposiciones aplicables.
 
@@ -433,11 +443,19 @@ XVII. El diseño, la organización, coordinación y vigilancia del Registro Esta
 
 XVIII. Diseñar, impulsar y evaluar programas permanentes para la prevención de embarazos en menores de edad;
 
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-XIX. Coordinarse con las instancias competentes para la elaboración de políticas públicas que contribuyan en la eliminación de la violencia contra las niñas, niños, adolescentes y mujeres; y
+XIX. Coordinarse con las instancias competentes para la elaboración de políticas públicas que contribuyan en la eliminación de violencia contra las niñas, niñas, adolescentes y mujeres;
 
-XX. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+XX. Implementar programas, estrategias o acciones, para promover una cultura de cuidado de la salud bucodental; y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+XXI. Coordinar los programas de servicios de telemedicina y promoción de la salud a través de las tecnologías de la información; y
+
+XXII. Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud y las que determinen las disposiciones generales aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -4244,3 +4262,23 @@ P.O. 30 DE MARZO DE 2023.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango
 
 SEGUNDO. - Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 586 QUE CONTIENE REFORMAS A LA FRACCIÓN XIX, SE ADICIONA LA FRACCIÓN XX Y LA FRACCIÓN XX ACTUAL SE RECORRE PARA PASAR A SER LA XXI DEL ARTÍCULO 10 DE LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 587 QUE CONTIENE LAS REFORMAS Y ADICIONES A LOS ARTÍCULOS 2, 3, 8 Y 10 DE LA LEY DE SALUD DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
