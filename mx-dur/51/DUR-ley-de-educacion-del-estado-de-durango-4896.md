@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2024-05-19"
+last_updated: "2024-06-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -750,6 +750,12 @@ III. Estudiantes, y padres de familia manifestarán de forma expresa, libre e in
 IV. Se formará un Comité de Padres de familia y un Comité de niñas, niños o adolescentes según sea el caso, quiénes estarán encargados de ejecutar la revisión.
 
 Podrá intervenir en su caso la policía en un esquema de proximidad social, respeto y convivencia, de igual forma podrá participar la Secretaría de Salud particularmente en las áreas de salud mental y adicciones, siempre favoreciendo en todo momento el respeto a los derechos humanos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+ARTICULO 21 TER.- La Secretaría de Educación tendrá la facultad para promover programas y acciones enfocadas en fomentar la utilización responsable y con fines estrictamente educativos de los dispositivos móviles; celulares, tabletas electrónicas, relojes inteligentes, o cualquier dispositivo móvil de comunicación y de navegación en internet. Dichas acciones serán dirigidas de manera prioritaria a los niveles de primaria y secundaria de instituciones públicas y privadas, procurando la participación e integración efectiva de toda la comunidad escolar, padres de familia y alumnos, así como la de los actores que conforman el Sistema Educativo Estatal.
+
+Los programas y acciones podrán realizarse conforme a los lineamientos dispuestos en las fracciones I, II, III y IV del artículo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -3320,3 +3326,11 @@ P.O. 19 DE MAYO DE 2024.
 PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 581 POR EL QUE SE ADICIONA UN ARTÍCULO 21 TER A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contravengan al contenido del presente decreto.
