@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1146
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2020-11-19"
+last_updated: "2024-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Durango, el miércoles 4 de mayo de 2016.
 
@@ -99,9 +99,17 @@ V. Promover entre los sujetos obligados la transparencia y la rendición de cuen
 
 VI. Garantizar una adecuada y oportuna rendición de cuentas de los sujetos obligados a través de la generación y publicación de información sobre indicadores de gestión y el ejercicio de los recursos públicos de manera completa, veraz, oportuna y comprensible;
 
-VII. Preservar la información pública mejorando la organización, clasificación, manejo y la sistematización de la información, y
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-VIII. Promover una cultura de transparencia y rendición de cuentas;
+VII. Preservar la información pública mejorando la organización, clasificación, manejo y la sistematización de la información;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+VIII. Promover una cultura de transparencia y rendición de cuentas, y
+
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+IX. Promover y propiciar la participación ciudadana en la toma de decisiones públicas a fin de contribuir a la consolidación y el ejercicio del derecho de acceso a la información.
 
 ###### Artículo 4.
 
@@ -479,9 +487,9 @@ XI. Administrar los recursos humanos, bienes y patrimonio del instituto, así co
 
 XII. Establecer los requisitos para el ingreso al servicio y al personal calificado y especializado en la materia promoviendo la no discriminación la rendición de cuentas la equidad de género y la cultura de la transparencia;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-XIII. Presentar al Congreso del Estado, a través de su Presidente, en el mes de febrero de cada año, el informe de labores correspondiente al ejercicio fiscal anterior, en términos del artículo 168 la Constitución Política del Estado Libre y Soberano de Durango;
+XIII. Presentar al Congreso del Estado, a través de su Presidente, el informe de labores correspondiente al ejercicio fiscal anterior, en términos artículo 168 (sic) la Constitución Política del Estado Libre y Soberano de Durango, asimismo en lo establecido en los artículos 276 Bis y 276 ter de la Ley Orgánica del Congreso del Estado de Durango;
 
 XIV. Capacitar a los Servidores Públicos y brindar apoyo técnico a los sujetos obligados en materia de transparencia y acceso a la información;
 
@@ -635,13 +643,17 @@ IV. Gozar de buena reputación y reconocido prestigio;
 
 V. No haber sido condenado mediante sentencia ejecutoriada por delito doloso que amerite pena corporal.
 
-Los Consejeros del Consejo Consultivo, contarán respectivamente con un suplente.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+Para el Consejo Consultivo se elegirá igual número de suplentes, que serán llamados en forma periódica y gradual en caso de ausencia de los Consejeros, procurando preservar la igualdad de género.
 
 Para la elección de los integrantes del Consejo Consultivo, el Congreso del Estado, emitirá una Convocatoria pública abierta que propicie la participación de la sociedad, en la que se establezcan los requisitos que señala la presente Ley, el periodo de registro y el procedimiento de selección.
 
 El procedimiento de selección estará a cargo de la Comisión que determine la Ley Orgánica del Congreso del Estado de Durango, la cual deberá, una vez cerrado el periodo de registro, integrar un expediente por cada uno de los participantes registrados y publicar en internet la lista de los aspirantes que dieron cumplimiento con los requisitos señalados en el presente artículo.
 
-La Comisión respectiva del Congreso, llevará a cabo entrevistas con las personas que integran la lista de aspirantes, analizará el resultado de las mismas y propondrá un acuerdo mediante el cual el Pleno del Congreso, elegirá a los integrantes del Consejo Consultivo y sus respectivos suplentes, mediante el voto de las dos terceras partes de los miembros del Congreso del Estado presentes.
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+La Comisión respectiva del Congreso, llevará a cabo entrevistas con las personas que integran la lista de aspirantes, analizará el resultado de las mismas y propondrá un acuerdo mediante el cual el Pleno del Congreso, elegirá a los integrantes del Consejo Consultivo y a los suplentes, mediante el voto de las dos terceras partes de los miembros del Congreso del Estado presentes.
 
 ###### Artículo 45.
 
@@ -829,7 +841,9 @@ Los particulares, sin perjuicio de que sean considerados sujetos obligados de co
 
 Los sujetos obligados deberán poner a disposición del público y mantener actualizada, en los respectivos medios electrónicos, de acuerdo con sus facultades, atribuciones, funciones u objeto social, según corresponda, la información, por lo menos, de los temas, documentos y políticas que a continuación se señalan:
 
-I. El marco normativo aplicable al sujeto obligado, en el que deberá incluirse leyes, códigos, reglamentos, decretos de creación, manuales administrativos, reglas de operación, criterios, políticas, entre otros;
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+I. El marco normativo aplicable al sujeto obligado, en el que deberá incluirse, leyes, códigos, reglamentos, decretos de creación, manuales administrativos, reglas de operación, criterios, lineamientos, políticas, entre otros;
 
 II. Su estructura orgánica completa, en un formato que permita vincular cada parte de la estructura, las atribuciones y responsabilidades que le corresponden a cada servidor público, prestador de servicios profesionales o miembro de los sujetos obligados, de conformidad con las disposiciones aplicables;
 
@@ -2346,3 +2360,27 @@ P.O. 19 DE NOVIEMBRE DE 2020.
 PRIMERO.- El presente decreto entrará en vigor en (sic) conforme lo señalan los artículos primero y segundo transitorios del decreto por el que se reforma la fracción II del artículo 73 de la Ley General de Transparencia y Acceso a la Información Pública, publicado en el Diario Oficial de la Federación el 13 de agosto de 2020.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 577 QUE CONTIENE REFORMAS Y ADICIONES A LOS ARTÍCULOS 3 Y 65 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO. - El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. - Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 578 QUE CONTIENE REFORMAS AL ARTÍCULO 44 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 23 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 580 QUE CONTIENE REFORMA A LA FRACCIÓN XIII DEL ARTÍCULO 38 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
