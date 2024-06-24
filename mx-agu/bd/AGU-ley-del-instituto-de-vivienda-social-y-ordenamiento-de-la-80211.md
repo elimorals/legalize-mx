@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-vivienda-social-y-ordenamiento-de-la-80211
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-28"
-last_updated: "2022-12-31"
+last_updated: "2024-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 28 de febrero de 2011.
 
@@ -57,7 +57,9 @@ El Instituto de Vivienda Social y Ordenamiento de la Propiedad, en adelante el I
 
 El Instituto tiene como objeto:
 
-I. Contribuir al ordenamiento de la propiedad e impulsar el desarrollo y fomento de la vivienda social en el Estado;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2024)</small>
+
+I. Contribuir al ordenamiento de la propiedad e impulsar el desarrollo y fomento de la vivienda social en el Estado con perspectiva de género y bajo los principios de equidad e inclusión social de manera que toda persona, sin importar su origen étnico o nacional, el género, la edad, la discapacidad, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias o el estado civil pueda ejercer su derecho constitucional a la vivienda;
 
 II. Promover, proporcionar y coordinar, en su caso, los elementos y condiciones técnicos, legales y financieros adecuados para brindar a las familias del Estado de Aguascalientes, el acceso a un espacio que le permita el esparcimiento y una vivienda digna y decorosa;
 
@@ -65,13 +67,17 @@ II. Promover, proporcionar y coordinar, en su caso, los elementos y condiciones 
 
 III. Impulsar mecanismos permanentes de desregulación que faciliten el flujo de recursos y decisiones;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2024)</small>
 
-IV. Impulsar el desarrollo habitacional con un sentido de integralidad, desde la ordenación territorial, la infraestructura y la administración urbana, hasta el financiamiento y la promoción de vivienda entre los sectores de menores ingresos de la población; y
+IV. Impulsar el desarrollo habitacional con un sentido de integralidad, desde la ordenación territorial, la infraestructura y la administración urbana, hasta el financiamiento y la promoción de vivienda entre los sectores de menores ingresos de la población;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2024)</small>
 
-V. Fomentar la participación de los sectores público, privado o social, con inversiones y financiamientos para el desarrollo y construcción de la vivienda social en el Estado.
+V. Fomentar la participación de los sectores público, privado o social, con inversiones y financiamientos para el desarrollo y construcción de la vivienda social en el Estado; y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2024)</small>
+
+VI. Garantizar el acceso de las mujeres, y especialmente, a las adultas mayores, a una vivienda digna, acordes a su condición y necesidades específicas.
 
 ###### ARTÍCULO 4°.
 
@@ -702,3 +708,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
+
+P.O. 24 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 713.- SE REFORMA LA LEY DEL INSTITUTO DE VIVIENDA SOCIAL Y ORDENAMIENTO DE LA PROPIEDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
