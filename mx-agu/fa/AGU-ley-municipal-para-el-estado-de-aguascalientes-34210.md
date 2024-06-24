@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2024-05-13"
+last_updated: "2024-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -535,7 +535,7 @@ LVIII. Nombrar al Titular de la Policía Preventiva Municipal y Tránsito;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ABRIL DE 2019)</small>
 
-LIX.- En materia de igualdad entre mujeres y hombres, respeto a sus derechos y no discriminación:
+LIX. En materia de igualdad entre mujeres y hombres, respeto a sus derechos y no discriminación:
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2019)</small>
 
@@ -579,9 +579,13 @@ l. Constituir el Mecanismo Municipal de Adelanto a favor de las Mujeres, a efect
 
 m. Verificar que el Presidente Municipal designe a los titulares de las dependencias y entidades de la administración pública municipal paritariamente entre el género femenino y el masculino; y
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 28 DE MARZO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JUNIO DE 2024)</small>
 
-n. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos legales;
+n. Aprobar la reglamentación correspondiente y expedir un protocolo de prevención y actuación contra las agresiones, los acosos y los actos de violencia sexual que puedan suceder en los establecimientos específicos para la venta y consumo de bebidas alcohólicas, en términos de la Ley que regula la venta y consumo de bebidas alcohólicas en el Estado de Aguascalientes; y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 24 DE JUNIO DE 2024)</small>
+
+o. La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta Ley u otros ordenamientos legales;
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2016)</small>
 
@@ -2860,3 +2864,15 @@ P.O. 13 DE MAYO DE 2024.
 PRIMERO.– El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.– Los Municipios del Estado de Aguascalientes, conforme a sus posibilidades, destinarán los recursos financieros que les permitan ponderar la implementación e instalación de luminarias ahorradoras tipo LED para el servicio de alumbrado público.
+
+P.O. 24 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 712.- SE REFORMA LA LEY QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE AGUASCALIENTES; Y, LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos tendrán un término de 180 días naturales contados a partir del inicio de vigencia de este Decreto para aprobar la reglamentación y expedir el protocolo de prevención y actuación contra las agresiones, los acosos y los actos de violencia sexual que puedan suceder en los establecimientos específicos para la venta y consumo de bebidas alcohólicas.
