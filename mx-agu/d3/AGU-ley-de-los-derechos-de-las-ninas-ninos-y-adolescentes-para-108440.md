@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-06-03"
+last_updated: "2024-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -375,7 +375,9 @@ XVI. Derecho de asociación y reunión;
 
 XVII. Derecho a la intimidad;
 
-XVIII. Derecho a la seguridad jurídica y al debido proceso;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2024)</small>
+
+XVIII. Derecho a la seguridad jurídica, al debido proceso y a conocer y ser informado sobre las resoluciones jurisdiccionales;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
@@ -1095,17 +1097,17 @@ XVII. Establecer medidas para la detección temprana de discapacidades a efecto 
 
 XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JUNIO DE 2024)</small>
 
 XIX. Diseñar e implementar las políticas y programas necesarios para la prevención y protección de la integridad sexual de niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JUNIO DE 2024)</small>
 
 XX. Asegurar una alimentación nutritiva, suficiente y de calidad que permita lograr su normal crecimiento y óptimo desarrollo físico y mental; y
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE JUNIO DE 2024)</small>
 
-XXI. Establecer medidas tendientes a la prevención y atención de las consecuencias en la salud de niñas y niños ante uso desmedido de dispositivos electrónicos durante la primera infancia.
+XXI. Adoptar las medidas normativas necesarias para que todos los establecimientos públicos y privados, que permitan el acceso de personas menores de edad, cuenten en la medida de lo posible y de manera progresiva con cambiadores de pañales para niñas y niños, tanto en baños públicos de mujeres, así como baños públicos de hombres; los cuales tendrán que cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
 
 Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
@@ -1447,7 +1449,9 @@ En los procedimientos ante órganos jurisdiccionales, la Procuraduría de Protec
 
 El órgano jurisdiccional federal competente, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
 
-### CAPÍTULO XIX. Del Derecho a la Seguridad Jurídica y al Debido Proceso
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2024)</small>
+
+### CAPÍTULO XIX. Del Derecho a la Seguridad Jurídica, al Debido Proceso y a Conocer y ser Informado sobre las Resoluciones Jurisdiccionales
 
 ###### Artículo 79.
 
@@ -3094,3 +3098,23 @@ P.O. 3 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 710.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 711.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
