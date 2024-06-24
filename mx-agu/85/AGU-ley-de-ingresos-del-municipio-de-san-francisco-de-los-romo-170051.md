@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-san-francisco-de-los-romo-1700
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-29"
-last_updated: "2024-01-29"
+last_updated: "2024-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL MUNICIPIO DE SAN FRANCISCO DE LOS ROMO, AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2024
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE ENERO DE 2024 NO APLICA AL ARTICULO 127 DE ESTE ORDENAMIENTO PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2024.
 
 Ley publicada en la Décima Primera Sección del Número 61 del Periódico Oficial del Estado de Aguascalientes, el viernes 29 de diciembre de 2023.
 
