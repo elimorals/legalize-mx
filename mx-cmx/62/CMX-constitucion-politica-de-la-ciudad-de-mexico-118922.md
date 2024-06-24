@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2024-05-16"
+last_updated: "2024-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2024.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -479,6 +479,10 @@ La lactancia materna forma parte integral del derecho a la alimentación y a la 
 Las autoridades fomentarán de forma progresiva y armónica el ejercicio de este derecho.
 
 2. Las autoridades, de manera progresiva, fomentarán la disponibilidad, distribución, abastecimiento equitativo y oportuno de alimentos nutritivos y de calidad; promoverán la seguridad y sustentabilidad alimentarias; y garantizarán el acceso a este derecho dando prioridad a las personas en pobreza y a las demás que determine la ley.
+
+> <small>(ADICIONADO, G.O. 24 DE JUNIO DE 2024)</small>
+
+Para el logro de este objetivo se establecerá, entre otros mecanismos, un Sistema de Comedores Públicos y Comunitarios, de conformidad con las reglas de operación que permitan costos mínimos o gratuitos para las personas usuarias.
 
 D. Derecho a la salud
 
@@ -4430,7 +4434,7 @@ SEGUNDO. El presente decreto entrará en vigor al momento de su publicación,
 
 G.O. 2 DE JUNIO DE 2022.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO (SIC) POR QUE SE REFORMA EL NUMERAL 4, APARTADO E DEL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR (SIC) QUE SE REFORMA EL NUMERAL 4, APARTADO E DEL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO. Remítase a la persona Titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
@@ -4505,3 +4509,11 @@ SEGUNDO.- En un plazo no mayor a 90 días a partir de la entrada en vigor del pr
 TERCERO.- En un plazo no mayor a 180 días, el Congreso de la Ciudad de México deberá expedir las leyes y reformas a la legislación secundaria para la plena aplicación de la reforma.
 
 CUARTO.- Comuníquese el presente Dictamen, a la Presidencia de la Mesa Directiva y a la Coordinación de Servicios Parlamentarios, para los efectos a que se refieren los artículos 103, 104, 105 y 106 del Reglamento del Congreso de la Ciudad de México.
+
+G.O. 24 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL APARTADO C, NUMERAL 2, DEL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO; EN MATERIA DE COMEDORES PÚBLICOS Y COMUNITARIOS”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
