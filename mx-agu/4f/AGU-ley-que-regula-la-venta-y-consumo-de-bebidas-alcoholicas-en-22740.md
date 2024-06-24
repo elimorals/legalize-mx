@@ -4,7 +4,7 @@ identifier: "AGU-ley-que-regula-la-venta-y-consumo-de-bebidas-alcoholicas-en-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2017-07-03"
+last_updated: "2024-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el 26 de noviembre de 2001.
 
@@ -101,9 +101,13 @@ Para realizar actividades de venta o consumo de bebidas alcohólicas, se deberá
 
 Son autoridades competentes para la aplicación de la presente Ley:
 
-I.- El Director del Instituto de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2024)</small>
 
-II.- Los Presidentes Municipales;
+I.- La persona titular de la Secretaría de Salud y de la Dirección del Instituto de Servicios (sic) Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2024)</small>
+
+II.- Las personas titulares de las presidencias Municipales;
 
 III.- Los Ayuntamientos; y
 
@@ -117,7 +121,13 @@ I.- Aplicar la presente Ley;
 
 II.- Realizar convenios de colaboración para prevenir el abuso de bebidas embriagantes; y
 
-III.- Delegar sus facultades a los órganos que establezca la Constitución Política del Estado de Aguascalientes, el Código Municipal de Aguascalientes, Bandos y Reglamentos de Policía y Buen Gobierno de los Municipios del interior del Estado, la Ley Orgánica Municipal del Estado de Aguascalientes o la Ley Orgánica del Poder Ejecutivo.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2024)</small>
+
+III.- Bajo los principios de perspectiva de género, igualdad e inclusión; expedir la reglamentación correspondiente para contemplar un protocolo de prevención y actuación contra las agresiones, los acosos y los actos de violencia sexual que puedan suceder en los establecimientos específicos para la venta y consumo de bebidas alcohólicas, que establece esta Ley. Para efectos de lo anterior, los municipios deberán contar con programas para la capacitación del personal operativo de dichos establecimientos, en el cuál se incluirá un esquema de denuncia.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE JUNIO DE 2024)</small>
+
+IV.- Delegar sus facultades a los órganos que establezca la Constitución Política del Estado de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes, Ley Orgánica de la Administración Pública Estatal, los Códigos Municipales, Bandos y Reglamentos de Policía y Buen Gobierno de los Municipios, o reglamentación municipal similar.
 
 ### CAPITULO III. De las Obligaciones y Prohibiciones
 
@@ -157,7 +167,13 @@ XV.- Renovar anualmente, a más tardar el treinta y uno de Marzo, el permiso o l
 
 XVI.- Evitar que en sus establecimientos se atente contra la moral, buenas costumbres o se altere el orden público; y
 
-XVII.- Respetar cualquiera de las limitaciones que le impone esta Ley al giro de que se trate, así como las demás que se desprendan de las leyes sobre la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2024)</small>
+
+XVII.- Aplicar el protocolo de prevención y actuación contra las agresiones, los acosos y los actos de violencia sexual que puedan suceder en los establecimientos específicos para la venta y consumo de bebidas alcohólicas, que expida la autoridad municipal. Así como capacitar a su personal para la identificación de riesgos, patrones de conducta, atención y ayuda oportuna para prevenir las agresiones, los acosos y los actos de violencia sexual, así como la violencia contra la mujer; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JUNIO DE 2024)</small>
+
+XVIII.- Respetar cualquiera de las limitaciones que le impone esta Ley al giro de que se trate, así como las demás que se desprendan de las leyes sobre la materia.
 
 ###### ARTICULO 10.
 
@@ -188,6 +204,10 @@ III.- Lugares donde se puede autorizar en forma eventual y transitoria la venta 
 IV.- Establecimientos en donde pueden autorizarse la venta, más no el consumo de bebidas alcohólicas: depósitos, distribuidoras, tiendas de autoservicio, de abarrotes, de licores y demás similares; y
 
 V.- Establecimientos donde pueden venderse sustancias que contengan alcohol, ya sean industriales o medicinales, con la previa autorización que establece el Párrafo Segundo del Artículo 5o. de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2024)</small>
+
+Los establecimientos señalados en la fracción I de este artículo estarán obligados a ejecutar el protocolo de prevención y actuación contra las agresiones, los acosos y los actos de violencia sexual que puedan suceder en los establecimientos específicos para la venta y consumo de bebidas alcohólicas.
 
 ###### ARTICULO 12.
 
@@ -616,3 +636,15 @@ P.O. 3 DE JULIO DE 2017.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 712.- SE REFORMA LA LEY QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE AGUASCALIENTES; Y, LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos tendrán un término de 180 días naturales contados a partir del inicio de vigencia de este Decreto para aprobar la reglamentación y expedir el protocolo de prevención y actuación contra las agresiones, los acosos y los actos de violencia sexual que puedan suceder en los establecimientos específicos para la venta y consumo de bebidas alcohólicas.
