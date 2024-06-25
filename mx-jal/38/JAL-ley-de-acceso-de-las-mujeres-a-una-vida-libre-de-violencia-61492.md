@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2024-03-09"
+last_updated: "2024-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2024.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -225,13 +225,35 @@ h) Cualquier otro tipo de discriminación económica por razón de género;
 
 V. Violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la Victima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2024)</small>
 
-VI. Violencia Digital. Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones graficas o sonoras verdaderas o alteradas; y
+VI. Violencia Digital. Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones graficas o sonoras verdaderas o alteradas;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2024)</small>
 
-VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+VII. Violencia a través de interpósita persona: Es cualquier acto u omisión que, con el objeto de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+
+Se manifiesta a través de diversas conductas, entre otras:
+
+a) Amenazar con causar daño a las hijas e hijos;
+
+b) Amenazar con ocultar, retener o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+c) Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+d) Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f) Ocultar, retener o sustraer a hijas y/o hijos así como a familiares o personas allegadas;
+
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común; y
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2024)</small>
+
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -1695,15 +1717,19 @@ VI. Establecer el derecho de visitas o convivencia asistida o supervisada por la
 
 VII. La persona agresora deberá asistir a tratamientos psicológicos, reeducativos, integrales, especializados y gratuitos que serán impartidos por instituciones públicas y privadas debidamente acreditada (sic),
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2024)</small>
 
-VIII. Restringir y bloquear de internet o de redes sociales, las cuentas del agresor cuando se determine que persiste el riesgo para la víctima; y
+VIII. Restringir y bloquear de internet o de redes sociales, las cuentas del agresor cuando se determine que persiste el riesgo de la víctima;
 
-> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2024)</small>
 
-IX. Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo.
+IX. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas de sus hijas e/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos y ocultados de la madre, en términos de lo establecido en el artículo 10, fracción VII de la presente ley; y
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2024)</small>
+
+X. Auxilio inmediato por integrantes de instituciones policiales, al domicilio en donde se localice o se encuentre la víctima u ofendido en el momento de solicitarlo.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE JUNIO DE 2024)</small>
 
 La autoridad responsable, bajo su más estricta responsabilidad, ordenará fundada y motivadamente la aplicación de las órdenes de protección idóneas cuando estime riesgo inminente en contra de la seguridad de la mujer víctima de violencia.
 
@@ -1717,11 +1743,23 @@ II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuand
 
 III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
 
-IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias, y
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2024)</small>
 
-V. Obligación alimentaria provisional e inmediata.
+IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad, a efecto de garantizar las obligaciones alimentarias;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE JUNIO DE 2024)</small>
+
+V. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE JUNIO DE 2024)</small>
+
+VI. Obligación alimentaria provisional e inmediata.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE JUNIO DE 2024)</small>
 
 Dentro de los cinco días siguientes a la imposición de las órdenes de protección previstas en las fracciones I al V deberá celebrarse audiencia en la que el juez podrá cancelarlas, o bien, ratificarlas o modificarlas mediante la imposición de las medidas cautelares correspondientes.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 25 DE JUNIO DE 2024)</small>
 
 Serán tramitadas ante los juzgados de lo familiar o a falta de éstos en los juzgados civiles que corresponda.
 
@@ -2102,3 +2140,9 @@ P.O. 9 DE MARZO DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. Se autoriza a la Secretaría de la Hacienda Pública para que, en coordinación con la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres, la Secretaría del Trabajo y Previsión Social y la Secretaría de Desarrollo Económico, actualicen la estructura programática a efecto de incorporar los fines del presente decreto e incluir las partidas presupuestarias para el siguiente ejercicio fiscal.
+
+P.O. 25 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29545/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CÓDIGO PENAL, CÓDIGO CIVIL, TODAS LAS LEYES DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
