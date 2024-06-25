@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-consejo-de-la-judicatura-del-poder-6337
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-09-06"
-last_updated: "2023-01-05"
+last_updated: "2024-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63375&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2024.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de septiembre de 2008.
 
@@ -1585,17 +1585,19 @@ VII. Elaborar las estadísticas e informes mensuales; y,
 
 VIII. Las demás que establezcan las disposiciones legales y reglamentarias, los acuerdos del Consejo, así como sus superiores jerárquicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JUNIO DE 2024)</small>
+
 ###### Artículo 146.
 
-Además de las atribuciones que les señala el articulo 80 Ley Orgánica, los secretarios de estudio y cuenta tendrán las siguientes:
+Además de las atribuciones que les señala el artículo 80 de la Ley Orgánica, los secretarios de estudio y cuenta, tendrán las siguientes:
 
 I. Resguardar bajo su estricta responsabilidad los expedientes que se le hayan turnado;
 
 II. Rendir un informe mensual de los proyectos elaborados, en el formato establecido, a la Unidad de Estadística, Evaluación y Seguimiento del Consejo;
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2024)</small>
 
-III. Elaborar las versiones públicas de todas las sentencias emitidas.
+III. Elaborar las versiones públicas de todas las sentencias emitidas; estas, deberán realizarse en los sistemas electrónicos habilitados, dentro de los primeros cinco días hábiles del mes inmediato posterior a la fecha en la cual se hayan emitido. Lo anterior, exceptuando los meses que correspondan a la reincorporación de los periodos vacacionales, en los que la versión pública deberá realizarse dentro de los tres primeros días hábiles.
 
 IV. Cotejar el proyecto autorizado con la impresión física de la resolución en el expediente y en su caso ingresar al expediente electrónico la información correspondiente a las resoluciones autorizadas; y,
 
@@ -3792,3 +3794,13 @@ PRIMERO.- La presente reforma al Reglamento Interior del Consejo de la Judicatur
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a dicha reforma y que hayan sido dictadas con anterioridad a la entrada en vigor del mismo.
 
 TERCERO.- Publíquese la presente reforma en el Periódico Oficial del Estado y désele la más amplia publicidad en el portal de "Transparencia del Estado" y en la página de internet del Poder Judicial del Estado.
+
+P.O. 25 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA AL ARTÍCULO 146, FRACCIÓN III DEL REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO”.]
+
+PRIMERO.- La presente reforma al Reglamento Interior del Consejo de la Judicatura del Poder Judicial del Estado, entrará en vigor a partir del 1 uno de julio de 2024 dos mil veinticuatro, con independencia de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan y que hayan sido dictadas con anterioridad a la entrada en vigor de la presente reforma.
+
+TERCERO.- Publíquese en el Periódico Oficial del Estado y désele la más amplia publicidad en la página de internet del Poder Judicial del Estado.
