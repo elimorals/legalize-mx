@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-instituto-de-seguridad-juridica-87666"
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-05-02"
-last_updated: "2017-05-12"
+last_updated: "2024-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87666&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 12 DE MAYO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JUNIO DE 2024.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 2 de mayo de 2012.
 
@@ -49,9 +49,11 @@ El Instituto de Seguridad Jurídica Patrimonial de Yucatán tiene su domicilio e
 
 Para los efectos de este Estatuto Orgánico, se entenderá por:
 
-I. Dirección del Archivo Notarial: la Dirección del Archivo Notarial del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+I. (DEROGADA, D.O. 25 DE JUNIO DE 2024)
 
-II. Dirección de Catastro: la Dirección de Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+II. Dirección del Catastro: la Dirección del Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
 III. Director General: el Director General del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
@@ -121,77 +123,55 @@ V. Las demás que para el cumplimiento de sus funciones le asigne la Junta de Go
 
 El Instituto contará con las unidades administrativas que le sean autorizadas por su Junta de Gobierno, y al frente de ellas estará un Titular. Además, contará con los servidores públicos y órganos auxiliares necesarios para el cumplimiento de sus atribuciones, de acuerdo con el presupuesto de egresos autorizado.
 
+> <small>(REFORMADO, D.O. 25 DE JUNIO DE 2024)</small>
+
 ###### Artículo 12.
 
 El Instituto contará con la siguiente estructura orgánica:
 
 I. Dirección general;
 
-> <small>(ADICIONADO, D.O. 4 DE FEBRERO DE 2014)</small>
+II. Secretaría Técnica;
 
-a) Departamento de Vinculación de Servicios y Atención a Usuarios.
+III. Dirección del Registro Público de la Propiedad y del Comercio:
 
-> <small>(ADICIONADO, D.O. 12 DE MAYO DE 2017)</small>
+a) Departamento Mercantil;
 
-b) Departamento de Transparencia y Acceso a la Información Pública.
+b) Catorce Departamentos Inmobiliarios, y
 
-II. Secretario Técnico;
-
-III. Dirección de Registro Público:
-
-> <small>(REFORMADO, D.O. 12 DE MAYO DE 2017)</small>
-
-a) Dos departamentos de trámites mercantiles, y
-
-> <small>(REFORMADO, D.O. 12 DE MAYO DE 2017)</small>
-
-b) Diez departamentos de asuntos inmobiliarios;
+c) Departamento de Asesoría Registral.
 
 IV. Dirección de Catastro:
 
-> <small>(REFORMADO, D.O. 21 DE ENERO DE 2015)</small>
-
 a) Departamento Técnico Catastral;
-
-> <small>(REFORMADO, D.O. 21 DE ENERO DE 2015)</small>
 
 b) Departamento de Procesos Catastrales, y
 
-> <small>(ADICIONADO, D.O. 21 DE ENERO DE 2015)</small>
+c) Departamento de Validación Catastral, de Bienes Estatales y Archivo.
 
-c) Departamento de Validación Catastral, Acervo y Enlace Municipal;
+V. Dirección Jurídica:
 
-V. Dirección de Archivo Notarial:
+a) Departamento de Asuntos Legales y Jurídicos, y
 
-a) Departamento de Atención a Fedatarios;
+b) Unidad de Transparencia y Acceso a la Información Pública.
 
-VI. Dirección Jurídica:
+VI. Dirección de Planeación y Modernización:
 
-a) Departamento de Asuntos Registrales, y
+a) Departamento de Informática;
 
-b) Departamento de Servicios Legales;
+b) Departamento de Planeación y Calidad, y
 
-VII. Dirección de Planeación y Modernización:
+c) Departamento de Desarrollo de Software.
 
-a) Departamento de Informática, y
+VII. Dirección de Administración y Finanzas:
 
-b) Departamento de Planeación y Calidad;
+a) Departamento de Recursos Financieros y Humanos, y
 
-VIII. Dirección de Administración y Finanzas:
+b) Departamento de Administración y Operaciones.
 
-a) Departamento de Recursos Financieros;
+Los departamentos tendrán las atribuciones que les otorguen la Ley, el Reglamento, este Estatuto, el Manual de Organización del Instituto y demás disposiciones legales y administrativas aplicables.
 
-> <small>(REFORMADO, D.O. 21 DE ENERO DE 2015)</small>
-
-b) Departamento de Recursos Materiales;
-
-> <small>(REFORMADO, D.O. 21 DE ENERO DE 2015)</small>
-
-c) Departamento de Recursos Humanos, y
-
-> <small>(ADICIONADO, D.O. 21 DE ENERO DE 2015)</small>
-
-d) Departamento de Operaciones.
+El Departamento de Validación Catastral, Bienes Estatales y Archivo de la Dirección del Catastro tendrá, además, de las previstas en el párrafo anterior, las atribuciones establecidas en el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán.
 
 ### CAPÍTULO V. De la Dirección General
 
@@ -209,23 +189,25 @@ II. Autorizar los Libros del Sistema Manual de Información a que se refiere la 
 
 III. Las demás que le confieran la Ley, su Reglamento, este Estatuto y demás disposiciones legales, reglamentarias y administrativas aplicables.
 
-> <small>(REFORMADO, D.O. 12 DE MAYO DE 2017)</small>
-
 ###### Artículo 14 Bis.
 
-La Dirección General del Instituto contará con el Departamento de Vinculación de Servicios y Atención a Usuarios, y el Departamento de Transparencia y Acceso a la Información Pública, que tendrán las atribuciones que les señale la Ley, el Reglamento, este Estatuto, el Manual de Organización y demás disposiciones legales y administrativas aplicables.
+(DEROGADO, D.O. 25 DE JUNIO DE 2024)
 
 #### Sección Única. De la Secretaría Técnica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JUNIO DE 2024)</small>
+
 ###### Artículo 15.
 
-El Secretario Técnico tendrá las facultades y obligaciones siguientes:
+La persona titular de la Secretaría Técnica tendrá las facultades y obligaciones siguientes:
 
 I. Auxiliar al Director General en la realización de sus responsabilidades oficiales;
 
 II. Apoyar al Director General en la elaboración de comunicados oficiales que atiendan las funciones del Instituto;
 
-III. Recibir la documentación dirigida al Director General y a los demás servidores públicos del Instituto que no requieran tramitación específica, y turnarla para su adecuada y pronta atención, dándole el seguimiento que corresponda hasta su conclusión;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+III. Recibir la documentación dirigida al Director General y a los demás servidores públicos en relación con el funcionamiento de sus direcciones que requieran o no tramitación específica, y turnarla para su adecuada y pronta atención.
 
 IV. Atender los requerimientos del Director General para establecer comunicación con los miembros de los sectores público, privado y social, en sus tres ámbitos, municipal, estatal y federal, con relación a asuntos oficiales;
 
@@ -239,23 +221,31 @@ VIII. Dar seguimiento a las instrucciones que gire el Director General a los Dir
 
 IX. Supervisar la instalación de la infraestructura necesaria para el buen despacho de la oficina del Director General, a efecto de que esté en óptimo estado de funcionamiento y cuente con los suministros para cubrir las necesidades propias de la función;
 
-X. (DEROGADA, D.O. 12 DE MAYO DE 2017)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 25 DE JUNIO DE 2024)</small>
+
+X. Otorgar atención oportuna, a través de la oficialía de partes, a las personas que recurran al instituto para la realización de trámites o servicios que son competencia de este.
+
+Asimismo, podrá coordinarse con las demás direcciones del instituto, a fin de recabar información sobre el estado de los trámites o servicios ya ingresados, y proporcionarlos a los usuarios que acrediten su interés jurídico en estos.
 
 XI. Las demás que le asigne el Director General, de conformidad a las disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 25 DE JUNIO DE 2024)</small>
+
 ###### Artículo 16.
 
-Para ocupar el cargo de Secretario Técnico, será necesario, cuando menos, cumplir con los siguientes requisitos:
+Para ocupar el cargo de titular de la Secretaría Técnica, será necesario, cuando menos, cumplir con los siguientes requisitos:
 
 I. Ser mayor de 27 años, el día de su designación;
 
 II. Poseer título a nivel licenciatura y cédula profesional, legalmente expedidos por autoridad competente, preferentemente en un área afín a la naturaleza sustantiva del Instituto, y
 
-III. No tener antecedentes penales.
+III. (DEROGADA, D.O. 25 DE JUNIO DE 2024)
+
+> <small>(REFORMADO, D.O. 25 DE JUNIO DE 2024)</small>
 
 ###### Artículo 17.
 
-El Secretario Técnico tendrá las facultades y obligaciones generales a que se refiere el artículo 20 de éste Estatuto, en cuanto le sean compatibles
+La persona titular de la Secretaría Técnica tendrá las facultades y obligaciones generales a que se refiere el artículo 20 de éste Estatuto, en cuanto le sean compatibles.
 
 ### CAPÍTULO VI. De las direcciones
 
@@ -273,17 +263,21 @@ I. Ser ciudadano mexicano en ejercicio de sus derechos, con 29 años cumplidos a
 
 II. Tener título y cédula profesional expedidos por autoridad competente, con una antigüedad no menor de cinco años, en carreras relacionadas con las materias de cada una de las direcciones, y
 
-III. No tener antecedentes penales.
+III. (DEROGADA, D.O. 25 DE JUNIO DE 2024)
 
 ###### Artículo 20.
 
 Los directores del Instituto tendrán las siguientes facultades y obligaciones:
 
-I. Dirigir, organizar, controlar y evaluar el desarrollo de los programas y el desempeño de las labores encomendadas a su dirección;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+I. Dirigir, organizar, controlar y evaluar el desarrollo de los programas y el desempeño de las labores que rijan la tramitología de los servicios encomendados a su dirección;
 
 II. Participar en la elaboración de los manuales de organización interna, procedimientos, servicios y demás normatividad aplicable a la dirección a su cargo;
 
-III. Suscribir los documentos relativos al ejercicio de sus funciones o que les corresponda por suplencia y aquéllos que el Director General señale en términos de Ley;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+III. Suscribir autógrafamente o mediante firma electrónica los documentos relativos al ejercicio de sus funciones o que les corresponda por suplencia o comisión y aquéllos que el Director General señale en términos de Ley;
 
 IV. Emitir los dictámenes, opiniones, estudios e informes sobre los asuntos de su competencia, así como los que le encomiende el Director General;
 
@@ -325,7 +319,9 @@ XXII. Coadyuvar en la ejecución de los programas de modernización, innovación
 
 XXIII. Colaborar en la formulación de los anteproyectos de iniciativas de ley, reglamentos, decretos, acuerdos o cualquier otro instrumento jurídico o administrativo, que correspondan al ámbito de su competencia;
 
-XXIV. Establecer, en coordinación con sus similares, los procedimientos para la organización, registro, recopilación, control, clasificación y manejo eficiente de la información jurídica, administrativa y contable existente en los archivos de su área;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+XXIV. Establecer, en coordinación con sus similares, los procedimientos para la organización, registro, recopilación, control, clasificación y manejo eficiente de la información jurídica, administrativa y contable existente en los archivos de su área de conformidad con la normatividad aplicable en materia de archivos;
 
 XXV. Coadyuvar, mediante la coordinación de acciones con las demás unidades administrativas del Instituto, para el mejor desarrollo de sus atribuciones de éstas y del Instituto;
 
@@ -377,15 +373,19 @@ XI. En lo relativo a las inscripciones, anotaciones, modificaciones o cancelacio
 
 XII. En lo relativo al Registro de Crédito Rural y de Personas Morales de naturaleza civil, así como a los actos referentes a ellos, se sujetará a las disposiciones inherentes a la legislación sobre dichas materias;
 
-XIII. Delegar la fe pública registral de la que es depositario, a aquellas personas que reúnan las condiciones y requisitos señalados por las disposiciones legales, reglamentarias y administrativas correspondientes, para ser registradores, y
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
 
-XIV. Las demás que señalen otras disposiciones legales y reglamentarias aplicables.
+XIII. Delegar la fe pública registral de la que es depositario, a aquellas personas que reúnan las condiciones y requisitos señalados por las disposiciones legales, reglamentarias y administrativas correspondientes, para ser registradores;
 
-> <small>(REFORMADO, D.O. 12 DE MAYO DE 2017)</small>
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+XIV. Otorgar poder, mandato o representación para la defensa de los asuntos de su competencia ante las controversias administrativas o judiciales que se instauren ante las autoridades federales, estatales o municipales, y
+
+XV. Las demás que señalen otras disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 22.
 
-La Dirección del Registro Público contará con diez departamentos de asuntos inmobiliarios y dos departamentos de trámites mercantiles, que tendrán las atribuciones que les señale la Ley, el Reglamento, este Estatuto, el Manual de Organización y demás disposiciones legales y administrativas aplicables.
+(DEROGADO, D.O. 25 DE JUNIO DE 2024)
 
 ###### Artículo 23.
 
@@ -405,7 +405,9 @@ IV. No tener antecedentes penales.
 
 Son facultades y obligaciones específicas del Director de Catastro las siguientes:
 
-I. Determinar la localización de predios, la asignación de claves, valuación, revaluación y demás operaciones catastrales en los municipios que no cuenten con su propio catastro y que convengan con el Instituto para el efecto;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+I. Determinar la ubicación y localización de predios, la asignación de nomenclatura, claves, valuación, revaluación y demás operaciones catastrales en los municipios que no cuenten con su propio catastro y que convengan con el Instituto para el efecto;
 
 II. Integrar y mantener actualizado el padrón catastral de la propiedad inmueble en el Estado, así como el plano catastral de cada uno de los municipios;
 
@@ -423,73 +425,51 @@ VIII. Emitir, por conducto de su personal técnico en materia de topografía, lo
 
 IX. Resolver las consultas y aclaraciones planteadas por los particulares, en relación con la aplicación de las tablas de valores catastrales en materia de su competencia;
 
-X. Establecer los sistemas del registro catastral y del archivo de documentos catastrales, relativos a los bienes inmuebles del Estado;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+X. Establecer los sistemas del registro catastral y de los archivos de documentos catastrales, relativos a los bienes inmuebles del Estado de conformidad con las disposiciones aplicables a la Ley de Archivo del Estado de Yucatán;
 
 XI. Previa solicitud, asesorar y apoyar a los ayuntamientos en la ejecución de sus trabajos cuando éstos ejerzan su función catastral, en los términos de los convenios que se celebren con el Poder Ejecutivo del Estado, por conducto del Instituto;
 
-XII. Realizar las acciones tendientes para la integración del Sistema Estatal de Gestión Catastral a que se refiere la Ley;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+XII. Realizar las acciones tendientes a la integración, actualización y óptimo desarrollo del Sistema Estatal de Gestión Catastral a que se refiere la Ley;
 
 XIII. Resolver las dudas que se susciten en la interpretación y aplicación de las disposiciones catastrales contenidas en la Ley, el Reglamento y este Estatuto;
 
-XIV. Elaborar los planos de cada predio ubicado en el territorio del Estado, conforme a su programa de trabajo y a la disponibilidad presupuestal, con base en las disposiciones legales aplicables;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
 
-XV. Crear, administrar y actualizar el Padrón de Dibujantes del Catastro Estatal, así como supervisar y evaluar los trabajos de las personas que lo integran, y
+XIV. Validar y autorizar los planos de los predios ubicados en el territorio del Estado que sean de su competencia, conforme a su programa de trabajo y a la disponibilidad presupuestal con base en las disposiciones legales aplicables;
 
-XVI. Las demás que le confieran la Ley, el Reglamento, este Estatuto y otras disposiciones legales aplicables.
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+XV. Crear, administrar y actualizar el Padrón de Dibujantes del Catastro Estatal, así como supervisar y evaluar los trabajos de las personas que lo integran;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+XVI. Crear, administrar, y actualizar el Padrón de Peritos Valuadores del Estado, así como validar los avalúos comerciales que elaboren las personas que lo integran;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+XVII. Otorgar poder, mandato o representación para la defensa de los asuntos de su competencia ante las controversias administrativas o judiciales que se instauren ante las autoridades federales, estatales o municipales, y
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVI], D.O. 25 DE JUNIO DE 2024)</small>
+
+XVIII. Las demás que le confieran la Ley, el Reglamento, el Reglamento de Procedimientos y Lineamientos Técnicos de Valuación Inmobiliaria del Estado de Yucatán, este Estatuto y otras disposiciones legales aplicables.
 
 ###### Artículo 25.
 
-La Dirección del Catastro contará con los departamentos siguientes:
-
-> <small>(REFORMADA, D.O. 21 DE ENERO DE 2015)</small>
-
-I. Técnico Catastral;
-
-> <small>(REFORMADA, D.O. 21 DE ENERO DE 2015)</small>
-
-II. Procesos Catastrales, y
-
-> <small>(ADICIONADA, D.O. 21 DE ENERO DE 2015)</small>
-
-III. Validación Catastral, Acervo y Enlace Municipal.
-
-Los mencionados Departamentos tienen las atribuciones y funciones que les señalan la Ley, el Reglamento, este Estatuto, el Manual de Organización y demás disposiciones legales y administrativas aplicables.
+(DEROGADO, D.O. 25 DE JUNIO DE 2024)
 
 #### Sección Cuarta. De la Dirección del Archivo Notarial
 
 ###### Artículo 26.
 
-Son facultades y obligaciones específicas del Director del Archivo Notarial, las siguientes:
-
-I. Administrar y organizar la Dirección del Archivo Notarial y promover la investigación y difusión de su acervo histórico;
-
-II. Resguardar los avisos de disposiciones testamentarias enviadas por los notarios públicos;
-
-III. Responder a jueces y notarios públicos sobre la existencia o inexistencia de testamento de los autores de sucesiones que conozcan en el ejercicio de sus funciones;
-
-IV. Registrar y resguardar los testamentos ológrafos y públicos cerrados que se le dejen en depósito;
-
-V. Llevar el Registro de Poderes, en los términos de la normatividad aplicable;
-
-VI. Llevar el Registro de Fedatarios Públicos;
-
-VII. Asesorar a los escribanos públicos en el ejercicio de sus funciones;
-
-VIII. Resguardar los avisos del otorgamiento de instrumentos jurídicos y las copias de los mismos, autorizados por escribanos públicos;
-
-IX. Resguardar los libros del protocolo con sus respectivos apéndices, de las notarías públicas cuyos titulares hayan fallecido, renunciado, cambiado de residencia o hayan dejado de ser notarios públicos por cualquier causa;
-
-X. Expedir testimonios o copias certificadas de instrumentos jurídicos que obren en el Archivo Notarial conforme a las disposiciones legales y administrativas aplicables;
-
-XI. Recibir las solicitudes e implementar el curso de capacitación y el examen previo al nombramiento de escribanos públicos;
-
-XII. Realizar las visitas a que se refiere la Ley del Notariado del Estado de Yucatán y su Reglamento, y
-
-XIII. Las demás que establezcan la Ley, el Reglamento, la Ley del Notariado del Estado de Yucatán y su Reglamento, este Estatuto y otras disposiciones legales aplicables.
+(DEROGADO, D.O. 25 DE JUNIO DE 2024)
 
 ###### Artículo 27.
 
-La Dirección del Archivo Notarial contará con el Departamento de atención a Fedatarios, teniendo las atribuciones y funciones que le señale la Ley, el Reglamento, éste Estatuto, el Manual de Organización y demás disposiciones legales, reglamentarias y administrativas aplicables.
+(DEROGADO, D.O. 25 DE JUNIO DE 2024)
 
 #### Sección Cuarta (sic). De la Dirección Jurídica
 
@@ -497,25 +477,35 @@ La Dirección del Archivo Notarial contará con el Departamento de atención a F
 
 Son facultades y obligaciones específicas del Director Jurídico las siguientes:
 
-I. Coadyuvar en la dirección, coordinación y vigilancia del cumplimiento de las obligaciones de los titulares de las áreas de la Dirección del Registro Público y del Archivo Notarial;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+I. Coadyuvar en la dirección, coordinación y vigilancia del cumplimiento de las obligaciones de los titulares de las áreas de la Dirección del Registro Público y del Catastro;
 
 II. Intervenir y brindar asesoría jurídica a los servidores públicos del Instituto en los asuntos relacionados con sus atribuciones y funciones;
 
 III. Dar seguimiento a las instrucciones de carácter jurídico que gire el Director General a los demás directores del Instituto;
 
-IV. Representar al Instituto con las facultades y poderes específicos que le otorgue el Director General;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+IV. Representar al Instituto con las facultades y poderes específicos que le otorguen el Director General y los titulares de las demás direcciones del Instituto;
 
 V. Formular estudios, análisis y dictámenes de carácter jurídico que le sean solicitados por el Director General y los demás directores del Instituto, que requieran para el cumplimiento de sus atribuciones;
 
 VI. Sustanciar el procedimiento administrativo y de carácter legal, cuya aplicación corresponda al Instituto, cuando la Ley no establezca de manera específica su sustanciación por otra área, en términos de la legislación aplicable;
 
-VII. Elaborar o validar los proyectos de instrumentos jurídicos y administrativos que pretenda suscribir o expedir el Instituto y someterlos a la consideración del Director General;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
 
-VIII. Dar seguimiento a la aplicación de los criterios jurídicos que emitan los Directores del Registro Público de la Propiedad, del Catastro y del Archivo Notarial, con relación al funcionamiento de sus direcciones e informar al Director General cuando exista contradicción en el uso de los mismos o generen confusión;
+VII. Elaborar o validar los proyectos de instrumentos jurídicos y administrativos, respectivamente, que pretenda suscribir o expedir el Instituto y someterlos a la consideración del Director General;
+
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+VIII. Dar seguimiento a la aplicación de los criterios jurídicos que emitan los Directores del Registro Público de la Propiedad y del Catastro, con relación al funcionamiento de sus direcciones e informar al Director General cuando exista contradicción en el uso de los mismos o generen confusión;
 
 IX. Difundir entre el personal del Instituto los ordenamientos jurídicos que se vinculen con el desarrollo de sus funciones;
 
-X. Elaborar los proyectos de convenios para terminar los juicios o conflictos laborales relacionados con el Instituto;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+X. Autorizar los proyectos de convenios para terminar los juicios o conflictos laborales relacionados con el Instituto;
 
 XI. Formular los proyectos de las promociones y recursos que deban interponerse en los juicios de amparo en materia laboral promovidos en contra del Director General o de los Directores o demás servidores públicos del Instituto, siempre que lo soliciten;
 
@@ -529,19 +519,27 @@ XV. Emitir opinión y resolver las consultas que en materia laboral y fiscal sea
 
 XVI. Establecer canales de coordinación jurídica permanente con las dependencias y entidades de la Administración Pública Estatal a fin de mejorar el funcionamiento del Instituto;
 
-XVII. De manera enunciativa y no limitativa, realizar todas y cada una de las acciones legales tendientes a salvaguardar los intereses del Instituto así como de las áreas que lo componen, tanto en aspecto contencioso como de amigable composición, en las materias civil, mercantil, penal, laboral, administrativa, amparo, fiscal o cualquier otra, y
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
 
-XVIII. Las demás que le confieran la Ley, el Reglamento, este Estatuto y otras disposiciones legales, reglamentarias o administrativas aplicables.
+XVII. De manera enunciativa y no limitativa, realizar todas y cada una de las acciones legales tendientes a salvaguardar los intereses del Instituto, así como de las áreas que lo componen, tanto en aspecto contencioso como de amigable composición, en las materias civil, mercantil, penal, laboral, administrativa, amparo, fiscal o cualquier otra;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+XVIII. Realizar las funciones de la unidad de acceso a la información del Instituto, en términos de las disposiciones legales, reglamentarias y administrativas correspondientes;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+XIX. Representar legalmente al Instituto, al director general o a las personas titulares de las unidades administrativas del instituto, en los trámites dentro de los juicios de amparo, en la suscripción de promociones, en el desahogo de trámites, y asistir a audiencias y las diligencias que exija el trámite procesal de cualquier otra instancia de carácter judicial, contencioso administrativo o extrajudicial en la que sean parte dichos servidores públicos, ya sea de naturaleza penal, civil, administrativa, agraria o laboral, así como realizar el pago de finiquitos y celebrar convenios conciliatorios, laborales y de terminación voluntaria de la relación de trabajo y de cualquier otra naturaleza jurídica relacionada con el instituto;
+
+> <small>(ADICIONADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+XX. Designar a servidores públicos con la finalidad de sustituirle en la representación legal del instituto, del director general o de las personas titulares de las unidades administrativas del instituto y otorgarles el poder correspondiente para que intervengan en los asuntos de naturaleza penal, civil, administrativa, agraria y laboral, así como revocar dicha representación, de conformidad con las leyes de la materia, y
+
+XXI. Las demás que le confieran la Ley, el Reglamento, este Estatuto y otras disposiciones legales, reglamentarias o administrativas aplicables.
 
 ###### Artículo 29.
 
-La Dirección Jurídica contará con los Departamentos siguientes:
-
-I. Asuntos registrales, y
-
-II. Servicios legales.
-
-Los Departamentos tendrán las atribuciones y funciones que le señale la Ley, el Reglamento, éste Estatuto, el Manual de Organización y demás disposiciones legales, reglamentarias y administrativas aplicables.
+(DEROGADO, D.O. 25 DE JUNIO DE 2024)
 
 #### Sección Sexta. De la Dirección de Planeación y Modernización
 
@@ -559,7 +557,9 @@ IV. Dar cumplimiento a las tareas que le encomiende el Comité de Planeación pa
 
 V. Participar, con la representación del Instituto, en las reuniones de los subcomités regionales, sectoriales y especiales del Comité de Planeación para el Desarrollo para el Estado de Yucatán (Coplade);
 
-VI. Coordinarse con las Direcciones que integran el Instituto, para la conformación del proyecto del Programa Operativo Anual del Instituto;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+VI. Coordinarse con las Direcciones que integran el Instituto, para la conformación del proyecto de Unidad Básica de Presupuestación del Instituto;
 
 VII. Formular el proyecto del Informe Anual del Instituto, con la información que las demás áreas le proporcionen;
 
@@ -589,7 +589,9 @@ XIX. Aplicar y administrar políticas, lineamientos, procedimientos y metodolog�
 
 XX. Proponer y, en su caso, desarrollar los sistemas de software y aplicaciones que contribuyan a la modernización administrativa y a la automatización de los servicios y procesos de las áreas, así como su perfeccionamiento; asimismo, con las demás entidades de la Administración Pública en sus tres ámbitos, Municipal, Estatal y Federal;
 
-XXI. Colaborar con la Dirección de Producción de la Coordinación General de Comunicación Social, para la publicación de información pública en el sitio web del Gobierno del Estado;
+> <small>(REFORMADA, D.O. 25 DE JUNIO DE 2024)</small>
+
+XXI. Colaborar con las Direcciones de Contenido, de Marketing y de Prensa de la Dirección General de Comunicación Social, para la publicación de información pública en el sitio web del Instituto y del Gobierno del Estado;
 
 XXII. Establecer y difundir las normas, estándares, políticas, lineamientos, procedimientos y metodologías en general que rijan el funcionamiento de los equipos, periféricos y servicios de cómputo, telecomunicaciones, telefonía y cableado estructurado de las direcciones del Instituto;
 
@@ -631,13 +633,7 @@ XL. Las demás que le confieran la Ley, el Reglamento, este Estatuto y otras dis
 
 ###### Artículo 31.
 
-La Dirección de Planeación y Modernización contará con los Departamentos siguientes:
-
-I. Informática, y
-
-II. Planeación y Calidad.
-
-Estos Departamentos tendrán las atribuciones y funciones que les señalen la Ley, el Reglamento, éste Estatuto, el Manual de Organización y demás disposiciones legales, reglamentarias y administrativas aplicables.
+(DEROGADO, D.O. 25 DE JUNIO DE 2024)
 
 #### Sección Séptima. De la Dirección de Administración y Finanzas
 
@@ -719,23 +715,7 @@ XXXIII. Las demás que le confieran la Ley, el Reglamento, este Estatuto, el Dir
 
 ###### Artículo 33.
 
-La Dirección de Administración y Finanzas contará con los Departamentos siguientes:
-
-I. Recursos Financieros;
-
-> <small>(REFORMADA, D.O. 21 DE ENERO DE 2015)</small>
-
-II. Recursos Materiales;
-
-> <small>(REFORMADA, D.O. 21 DE ENERO DE 2015)</small>
-
-III. Recursos Humanos, y
-
-> <small>(ADICIONADA, D.O. 21 DE ENERO DE 2015)</small>
-
-IV. Operaciones.
-
-Estos Departamentos tendrán las atribuciones y funciones que le señale la Ley, el Reglamento, éste Estatuto, el Manual de Organización y demás disposiciones legales, reglamentarias y administrativas aplicables.
+(DEROGADO, D.O. 25 DE JUNIO DE 2024)
 
 ###### Artículo 34.
 
@@ -747,7 +727,7 @@ II. Poseer título profesional a nivel licenciatura y cédula profesional legalm
 
 III. Tener experiencia de por lo menos 2 años en el área de adscripción o afín, y
 
-IV. No tener antecedentes penales.
+IV. (DEROGADA, D.O. 25 DE JUNIO DE 2024)
 
 ### CAPÍTULO VII. De las suplencias
 
@@ -759,11 +739,13 @@ El Director General será suplido en sus ausencias por el director de área que 
 
 Los titulares de las Direcciones del Instituto serán suplidos en sus ausencias temporales justificadas, por el servidor público o persona que designe mediante acuerdo del Director General, que en cualquier caso deberá de ser de jerarquía inmediata inferior del titular a suplir, oyendo su recomendación, en su caso.
 
+> <small>(REFORMADO, D.O. 25 DE JUNIO DE 2024)</small>
+
 ###### Artículo 37.
 
-Los titulares de los Departamentos Inmobiliarios y Mercantiles, sólo podrán ser suplidos en sus ausencias temporales justificadas, por el funcionario con fe pública que designe el Director del Registro Público.
+Los titulares de los Departamentos Inmobiliarios y Mercantiles, sólo podrán ser suplidos en sus ausencias temporales justificadas, por el funcionario con fe pública que designe el Director del Registro Público de la Propiedad y del Comercio.
 
-Los titulares de los demás Departamentos serán suplidos en sus ausencias justificadas, por los servidores públicos de igual jerarquía o inmediata inferior que designe el Director de su adscripción.
+Los titulares de los demás Departamentos y el de la Unidad de Transparencia y Acceso a la Información Pública serán suplidos en sus ausencias justificadas, por los servidores públicos de igual jerarquía o inmediata inferior que designe el Director de su adscripción.
 
 ### CAPÍTULO VIII. De las sanciones
 
@@ -830,3 +812,19 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el dia
 Artículo segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El director general del Instituto de Seguridad Jurídica Patrimonial de Yucatán deberá tramitar la inscripción de las modificaciones efectuadas al estatuto orgánico mediante este acuerdo, en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, en un plazo de treinta días naturales, contados a partir de su entrada en vigor.
+
+D.O. 25 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO INSEJUPY 002/2024 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN”.]
+
+Artículo primero. Entrada en vigor.
+
+Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo segundo. Inscripción en el Registro de Entidades Paraestatales
+
+El Director General del Instituto de Seguridad Jurídica Patrimonial de Yucatán deberá tramitar la inscripción de las modificaciones efectuadas al estatuto orgánico mediante este acuerdo, en el Registro de Entidades Paraestatales que lleva la Secretaría Administración y Finanzas, en un plazo de treinta días naturales, contados a partir de su entrada en vigor.
+
+Artículo tercero. Inscripción en el Registro Estatal de Regulaciones.
+
+El Director General del Instituto de Seguridad Jurídica Patrimonial de Yucatán deberá tramitar la inscripción de las modificaciones efectuadas al estatuto orgánico mediante este acuerdo, en el Registro Estatal de Regulaciones que lleva la Subsecretaría de Innovación, Mejora Regulatoria y Eficiencia Institucional, en un plazo de treinta días naturales, contados a partir de su entrada en vigor.
