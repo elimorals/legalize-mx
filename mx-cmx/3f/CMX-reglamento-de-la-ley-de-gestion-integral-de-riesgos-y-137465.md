@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-gestion-integral-de-riesgos-y-137465"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-08-07"
-last_updated: "2024-06-24"
+last_updated: "2024-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2019-08-06"
 
 > <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO PUBLICADO EN LA G.O. DE 27 DE SEPTIEMBRE DE 2019, SE SUSPENDE LA APLICACIÓN DE LO ESTABLECIDO EN LOS ARTÍCULOS 117 Y DÉCIMO CUARTO TRANSITORIO DEL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE JUNIO DE 2024 EN LA G.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE JUNIO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 25 DE JUNIO DE 2024.]</small>
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de agosto de 2019.
 
@@ -2842,11 +2842,11 @@ II. (DEROGADA, G.O. 15 DE DICIEMBRE DE 2023)
 
 III. (DEROGADA, G.O. 18 DE JUNIO DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2024)</small>
+(REFORMADO PRIMER PÁRRAFO, G.O. 24 DE JUNIO DE 2024) (F. DE E., G.O. 25 DE JUNIO DE 2024)
 
 ###### Artículo 189.
 
-Las personas físicas y morales que pretendan obtener el registro para elaborar Programas Internos para inmuebles y establecimientos de alto riesgo y Programas Especiales, además de los requisitos a que se refieren los artículos 185 y 186 del presente Reglamento, deberán presentar:
+Las personas físicas que pretendan obtener el registro para elaborar Programas Internos para establecimientos mercantiles, industrias e inmuebles de alto riesgo y Programas Especiales, además de los requisitos a que se refieren los artículos 185 y 186 del presente Reglamento, deberán presentar:
 
 > <small>(REFORMADA, G.O. 24 DE JUNIO DE 2024)</small>
 
@@ -3579,3 +3579,11 @@ SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. Hasta tanto no se publiquen en la Gaceta Oficial de la Ciudad de México los Lineamientos Técnicos para elaborar el Dictamen Técnico sobre prevención de incendios por el Heroico Cuerpo de Bomberos de la Ciudad de México, este no será exigible.
 
 CUARTO. El Dictamen Técnico sobre prevención de incendios que emita Heroico Cuerpo de Bomberos de la Ciudad de México, será exigible para los Programas Internos de Protección Civil ya registrados, un año después de la expedición de los Lineamientos Técnicos correspondientes.
+
+G.O. 25 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “NOTA ACLARATORIA AL DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 24 DE JUNIO DE 2024”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- La presente Nota Aclaratoria entrará en vigor el día de su publicación.
