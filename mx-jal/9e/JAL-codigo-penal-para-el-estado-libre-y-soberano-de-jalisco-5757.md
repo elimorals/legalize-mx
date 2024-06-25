@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2024-03-09"
+last_updated: "2024-06-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -3579,6 +3579,18 @@ Se estará a lo previsto en el Código Penal Federal cuando los hechos se adecue
 
 ###### Art. 176
 
+Ter 1. Las penas previstas en el artículo 176-Ter aumentarán hasta en una tercera parte a quien cometa algún delito contemplado en ese artículo a través de interpósita persona.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2024)</small>
+
+###### Art. 176
+
+Ter 2. En los casos de violencia familia (sic), violencia familiar equiparada y violencia a través de interpósita persona, el Ministerio Público exhortará a la persona imputada para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará las medidas preventivas y solicitará las medidas precautorias que considere pertinentes para salvaguardar la integridad física o psíquica de la misma y, solicitará las órdenes de protección que establece la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+La autoridad administrativa vigilará el cumplimiento de estas medidas en términos de lo dispuesto por la legislación aplicable.
+
+###### Art. 176
+
 Ter. Comete el delito de violencia familiar quien infiera maltrato en contra de una o varias personas con las que se encuentre unida por vínculo matrimonial, parentesco por consanguinidad o afinidad hasta cuarto grado o concubinato dentro o fuera del domicilio familiar.
 
 Asimismo, comete el delito de violencia familiar quien infiera maltrato en contra de una persona, dentro o fuera del domicilio de la víctima, con la que se haya tenido una relación de matrimonio o de concubinato.
@@ -3590,6 +3602,8 @@ Al responsable de este delito se le impondrán de seis meses a cuatro años de p
 Se equipara a violencia familiar el maltrato que se infiera en contra del tutor, curador, pupilo, amasia o amasio, los hijos de éste o aquélla, de quien habite en el domicilio de la persona agresora o hubiera habitado en el mismo, o de la persona a quien la persona agresora le deba dar cuidado o protección; la misma pena se le impondrá a la persona agresora, si la víctima abandonó el domicilio al momento de la realización del hecho y que por dicha situación haya tenido que retirarse del mismo. Al responsable de este delito se le impondrá la pena señalada en el párrafo tercero de este artículo.
 
 El maltrato que se infiera en contra de un hijo, adoptado, menor de edad, o a quien le deba dar cuidado y protección será considerado maltrato infantil el cual se encuentra previsto en el artículo 142-N del presente Código.
+
+> <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2024)</small>
 
 ### CAPITULO III. Exposición de infantes
 
@@ -7364,3 +7378,9 @@ P.O. 9 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29535/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 92 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 25 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 29545/LXIII/24 DEL CONGRESO DEL ESTADO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, CÓDIGO PENAL, CÓDIGO CIVIL, TODAS LAS LEYES DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
