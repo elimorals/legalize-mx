@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-cultura-fisica-y-deporte-del-estado-de-yucatan-84033"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-02"
-last_updated: "2020-07-22"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 2 de diciembre de 2011.
 
@@ -247,7 +247,9 @@ XI. Desarrollar, en coordinación con los municipios y las asociaciones y socied
 
 XII. Promover la formación, capacitación y certificación de directivos, deportistas, entrenadores, árbitros, jueces y personal técnico relacionado con la cultura física y el deporte;
 
-XIII. Fomentar la construcción, la conservación, el mejoramiento y el uso de instalaciones destinadas a la cultura física y el deporte;
+> <small>(REFORMADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+XIII. Fomentar la construcción, la conservación, el mejoramiento y el uso de instalaciones destinadas a la cultura física y el deporte, así como al deporte adaptado.
 
 XIV. Impulsar, en coordinación con instituciones de los sectores público, privado y social, la elaboración de estudios e investigaciones sobre cultura física y deporte, así como ciencias y técnicas aplicables, y
 
@@ -469,7 +471,9 @@ b) Grupo de ciudadanos que se reúnen con un motivo deportivo sin encontrarse af
 
 V.- El deporte de alto rendimiento y selectivo, entendido como la práctica sistemática de especialidades deportivas, que requieren altas exigencias de capacitación y entrenamiento para los deportistas, cuyo desarrollo, capacitación y supervisión estará a cargo del IDEY;
 
-VI.- El deporte para personas discapacitadas entendiéndose por éste, la práctica del deporte adaptado a personas con cualquier restricción o impedimento del funcionamiento de una actividad corporal ocasionado por una deficiencia dentro del ámbito considerado normal del ser humano;
+> <small>(REFORMADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+VI.- El deporte para personas con discapacidad entendiéndose por éste, la práctica del deporte adaptado;
 
 VII.- El deporte para personas de la tercera edad, que es la práctica metódica de ejercicios físicos que realizan las personas de este sector de la población;
 
@@ -509,13 +513,55 @@ A fin de que en forma corresponsable todos los instructores, entrenadores y téc
 
 (DEROGADO, D.O. 7 DE JULIO DE 2017)
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE JUNIO DE 2024)</small>
+
+### CAPÍTULO IV BIS. Del Deporte Adaptado para Personas con Discapacidad
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+###### Artículo 25 Bis.
+
+Se entiende por deporte adaptado al que realizan las personas con discapacidad en condiciones de equidad, que es reglamentado e institucionalizado.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+###### Artículo 25 Ter.
+
+Las personas con discapacidad recibirán sin discriminación alguna, los estímulos, reconocimientos y demás beneficios que se establecen en esta Ley y su reglamento.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+###### Artículo 25 Quater.
+
+El desarrollo de las actividades del deporte adaptado se dará siempre en un marco de respeto e igualdad, y no discriminación.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+###### Artículo 25 Quinquies.
+
+Para promover el deporte adaptado, el IDEY podrá:
+
+I. Generar acciones que garanticen la práctica de deporte adaptado con dignidad, inclusión, igualdad, en sus niveles popular, estudiantil, asociado y de alto rendimiento.
+
+II. Fomentar, en coordinación con instituciones de los sectores público, privado y social, la investigación y desarrollo tecnológico, así como ciencias y técnicas aplicables en beneficio de las distintas disciplinas del deporte adaptado.
+
+III. Establecer vínculos de coordinación y cooperación con instituciones de los sectores público, privado y social para el desarrollo para el fomento del deporte adaptado.
+
+IV. Impulsar la participación de los municipios, asociaciones, fundaciones, clubes deportivos, centros educativos y entidades deportivas para que promuevan acciones deportivas inclusivas y en favor de las personas con discapacidad.
+
+V. Diseñar estrategias para la formación especializada en actividad física y deporte adaptado e inclusivo, favoreciendo la óptima capacitación y especialización de los entrenadores y técnicos deportivos.
+
+VI. Promover, a través de la integración de grupos multidisciplinarios conformados por instituciones de salud, educación y organismos deportivos, la elaboración de guías y manuales técnicos que permitan la profesionalización en materia de deporte adaptado.
+
+VII. Las demás que se consideren necesarias.
+
+El Reglamento correspondiente determinará las disposiciones específicas que regulen el deporte adaptado.
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 7 DE JULIO DE 2017)</small>
 
 ### CAPÍTULO V. Del Registro Estatal de Cultura Física y Deporte
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
-
-### CAPÍTULO VI. De la Participación de los Municipios en el Sistema Estatal de Cultura Física y Deporte
 
 ###### Artículo 26.
 
@@ -539,9 +585,7 @@ Dicha información deberá hacerse pública en términos de lo establecido en la
 
 La inscripción a que se hace referencia, quedará debidamente acreditada a través de la expedición de la credencial que para tal efecto otorgue el IDEY.
 
-### CAPÍTULO VII. De la Participación de los Deportistas y de los Organismos Deportivos en el Sistema Estatal de Cultura Física y Deporte
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+### CAPÍTULO VI. De la Participación de los Municipios en el Sistema Estatal de Cultura Física y Deporte
 
 ###### Artículo 29.
 
@@ -601,7 +645,9 @@ De acuerdo con lo anterior, podrán celebrar los convenios de coordinación y co
 
 Las autoridades municipales, por conducto del organismo competente, deberán facilitar el uso de las instalaciones deportivas en su ámbito territorial y garantizar su plena utilización; para tal efecto, participarán, en los términos del capítulo V de esta ley, en las tareas relativas al inventario e inscripción en el registro estatal.
 
-### CAPÍTULO VIII. De los Derechos y Obligaciones del Deportista
+### CAPÍTULO VII. De la Participación de los Deportistas y de los Organismos Deportivos en el Sistema Estatal de Cultura Física y Deporte
+
+> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 35.
 
@@ -637,9 +683,7 @@ También podrán pertenecer al Sistema Estatal de Cultura Física y Deporte, los
 
 La participación de los equipos, clubes y ligas deportivas que formen parte del Sistema Estatal de Cultura Física y Deporte tendrá carácter obligatorio en los torneos que se convoquen con el fin de formar las selecciones municipales, como etapa previa a los campeonatos estatales selectivos para representar al estado.
 
-### CAPÍTULO IX. Del Fomento al Deporte y Estímulos al Deportista
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
+### CAPÍTULO VIII. De los Derechos y Obligaciones del Deportista
 
 ###### Artículo 39.
 
@@ -707,7 +751,9 @@ Artículo 41 bis.- Corresponde al IDEY y a las instituciones municipales compete
 
 Dicha información deberá hacerse pública en términos de lo establecido en la Ley General de Transparencia y Acceso a la Información Pública.
 
-### CAPÍTULO X. Del Uso, Conservación y Mantenimiento de Infraestructura Deportiva
+### CAPÍTULO IX. Del Fomento al Deporte y Estímulos al Deportista
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 42.
 
@@ -739,9 +785,7 @@ Dicha información deberá hacerse pública en términos de lo establecido en la
 
 El IDEY gestionará el patrocinio de actividades deportivas, promoviendo para este fin la participación de los sectores público y privado.
 
-### CAPÍTULO XI. De la Comisión de Apelación y Arbitraje del Deporte del Estado de Yucatán
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+### CAPÍTULO X. Del Uso, Conservación y Mantenimiento de Infraestructura Deportiva
 
 ###### Artículo 44.
 
@@ -791,7 +835,9 @@ Artículo 47 quater.- Los órganos deportivos municipales deberán vigilar que l
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 7 DE JULIO DE 2017)</small>
 
-### CAPÍTULO XII. Del Deporte Profesional
+### CAPÍTULO XI. De la Comisión de Apelación y Arbitraje del Deporte del Estado de Yucatán
+
+> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
 
 ###### Artículo 48.
 
@@ -833,6 +879,18 @@ Los cargos de los integrantes de la comisión de arbitraje son de carácter hono
 
 Artículo 49 bis.- El Reglamento Interno de la Comisión de Apelación y Arbitraje del Deporte en el Estado de Yucatán establecerá las disposiciones específicas que regulen su organización y funcionamiento.
 
+### CAPÍTULO XII. Del Deporte Profesional
+
+###### Artículo 50.
+
+Se entienden como actividades del deporte profesional aquellas de promoción, organización, desarrollo o participación en materia deportiva que se realicen con fines de lucro, en donde los atletas cobran un sueldo por contrato o nómina para el ejercicio del deporte.
+
+###### Artículo 51.
+
+Los deportistas que practiquen algún deporte profesional se regirán por lo establecido en la Ley Federal del Trabajo.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE JULIO DE 2017)</small>
+
 ### CAPÍTULO XII bis. De la Cultura Física
 
 > <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
@@ -849,19 +907,49 @@ Artículo 51 quater.- Los titulares de las dependencias y entidades de la Admini
 
 Para ello, deberán establecer las disposiciones internas que permitan que las condiciones laborales de la institución a su cargo sean compatibles con la activación física, el entrenamiento y la participación en competiciones oficiales.
 
-###### Artículo 50.
-
-Se entienden como actividades del deporte profesional aquellas de promoción, organización, desarrollo o participación en materia deportiva que se realicen con fines de lucro, en donde los atletas cobran un sueldo por contrato o nómina para el ejercicio del deporte.
-
-###### Artículo 51.
-
-Los deportistas que practiquen algún deporte profesional se regirán por lo establecido en la Ley Federal del Trabajo.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE JULIO DE 2017)</small>
-
 ### CAPÍTULO XIII. Medicina del Deporte y Ciencias Aplicables
 
 ### CAPÍTULO XIV. Del Dopaje en el Deporte
+
+###### Artículo 52.
+
+El IDEY promoverá, coordinará e impulsará, en conjunto con la Secretaría de Educación, la enseñanza, investigación y difusión del desarrollo tecnológico, la aplicación de los conocimientos científicos en materia de Cultura Física y Deporte, Medicina Deportiva, Biomecánica, Control del Dopaje, Psicología del Deporte, Nutrición y demás ciencias aplicadas al deporte, así como las que se requieran para la práctica óptima de la cultura física y deporte así como el establecimiento y consecución de centros de enseñanza y capacitación de estas actividades.
+
+###### Artículo 53.
+
+En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del Sistema, quienes podrán asesorarse de universidades públicas o privadas e instituciones de educación superior del Estado, de acuerdo a los lineamientos que para este fin se establezcan en el Reglamento de la presente ley. El IDEY coordinará las acciones necesarias a fin de que los integrantes del Sistema obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
+
+> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+
+###### Artículo 54.
+
+El IDEY participará, en coordinación con instituciones de los sectores público, privado y social, en la instalación de escuelas y centros, y en el desarrollo de programas y acciones para la formación y capacitación de profesionales y técnicos en el campo de la cultura física y el deporte. En el diseño de estas acciones, se deberá considerar la inclusión y atención de personas con discapacidad.
+
+###### Artículo 55.
+
+El IDEY promoverá y gestionará conjuntamente con las asociaciones deportivas estatales la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte.
+
+###### Artículo 56.
+
+Las instituciones y organizaciones de los sectores público y privado están obligadas a prestar el servicio médico que se requiera durante las prácticas y competiciones oficiales que promuevan y organicen.
+
+> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
+
+###### Artículo 57.
+
+Las instituciones de los sectores salud y educativo desarrollarán, en sus respectivos ámbitos de competencia, programas y acciones para la atención médica, nutricional y psicológica de deportistas; la formación y capacitación de especialistas en medicina del deporte y ciencias aplicadas; y la investigación científica.
+
+###### Artículo 58.
+
+Los servicios estatales de Salud y el IDEY procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva.
+
+###### Artículo 59.
+
+Las autoridades deportivas promoverán los mecanismos de concertación con las instituciones públicas y privadas que integran el sector salud, así como con los organismos deportivos, para procurar una adecuada atención en materia de salud para los deportistas.
+
+> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
+
+Artículo 59 bis.- Es de interés público la prohibición del consumo y la distribución de sustancias farmacológicas potencialmente peligrosas para la salud, y el uso de métodos no reglamentarios tendientes a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones.
 
 ### CAPÍTULO XIV bis. De la Prevención de la Violencia en el Deporte
 
@@ -932,48 +1020,6 @@ Artículo 75 septies.- Quienes, en su carácter de asistente o espectador, acuda
 > <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
 
 Artículo 75 octies.- Los directivos, deportistas, entrenadores, árbitros, jueces y el personal técnico relacionado con la cultura física y el deporte deberán respetar y actuar conforme a las disposiciones que, para la prevención de la violencia y la no discriminación en el deporte, hayan emitido la Comisión Especial contra la Violencia en el Deporte, la Comisión Estatal contra la Violencia en el Deporte o la asociación o sociedad correspondiente.
-
-###### Artículo 52.
-
-El IDEY promoverá, coordinará e impulsará, en conjunto con la Secretaría de Educación, la enseñanza, investigación y difusión del desarrollo tecnológico, la aplicación de los conocimientos científicos en materia de Cultura Física y Deporte, Medicina Deportiva, Biomecánica, Control del Dopaje, Psicología del Deporte, Nutrición y demás ciencias aplicadas al deporte, así como las que se requieran para la práctica óptima de la cultura física y deporte así como el establecimiento y consecución de centros de enseñanza y capacitación de estas actividades.
-
-###### Artículo 53.
-
-En el desarrollo de la investigación y conocimientos científicos, deberán participar los integrantes del Sistema, quienes podrán asesorarse de universidades públicas o privadas e instituciones de educación superior del Estado, de acuerdo a los lineamientos que para este fin se establezcan en el Reglamento de la presente ley. El IDEY coordinará las acciones necesarias a fin de que los integrantes del Sistema obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-###### Artículo 54.
-
-El IDEY participará, en coordinación con instituciones de los sectores público, privado y social, en la instalación de escuelas y centros, y en el desarrollo de programas y acciones para la formación y capacitación de profesionales y técnicos en el campo de la cultura física y el deporte. En el diseño de estas acciones, se deberá considerar la inclusión y atención de personas con discapacidad.
-
-###### Artículo 55.
-
-El IDEY promoverá y gestionará conjuntamente con las asociaciones deportivas estatales la formación, capacitación, actualización y certificación de recursos humanos para la enseñanza y práctica de actividades de cultura física y deporte.
-
-###### Artículo 56.
-
-Las instituciones y organizaciones de los sectores público y privado están obligadas a prestar el servicio médico que se requiera durante las prácticas y competiciones oficiales que promuevan y organicen.
-
-> <small>(REFORMADO, D.O. 7 DE JULIO DE 2017)</small>
-
-###### Artículo 57.
-
-Las instituciones de los sectores salud y educativo desarrollarán, en sus respectivos ámbitos de competencia, programas y acciones para la atención médica, nutricional y psicológica de deportistas; la formación y capacitación de especialistas en medicina del deporte y ciencias aplicadas; y la investigación científica.
-
-###### Artículo 58.
-
-Los servicios estatales de Salud y el IDEY procurarán la existencia y aplicación de programas preventivos relacionados con enfermedades y lesiones derivadas de la práctica deportiva.
-
-###### Artículo 59.
-
-Las autoridades deportivas promoverán los mecanismos de concertación con las instituciones públicas y privadas que integran el sector salud, así como con los organismos deportivos, para procurar una adecuada atención en materia de salud para los deportistas.
-
-> <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
-
-Artículo 59 bis.- Es de interés público la prohibición del consumo y la distribución de sustancias farmacológicas potencialmente peligrosas para la salud, y el uso de métodos no reglamentarios tendientes a aumentar artificialmente las capacidades físicas de los deportistas o a modificar el resultado de las competiciones.
-
-### CAPÍTULO XV. De los Riesgos y Responsabilidad Civil
 
 ###### Artículo 60.
 
@@ -1092,6 +1138,8 @@ Cuando sea evidente que algún participante en justas deportivas caiga en casos 
 Las sanciones en el ámbito deportivo son independientes de la responsabilidad civil o penal a que dé lugar el uso de substancias o métodos tipo dopaje.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 7 DE JULIO DE 2017)</small>
+
+### CAPÍTULO XV. De los Riesgos y Responsabilidad Civil
 
 ### CAPÍTULO XVI. De las Responsabilidades, Sanciones y Recursos Administrativos
 
@@ -1328,3 +1376,23 @@ D.O. 22 DE JULIO DE 2020.
 Artículo único. Entrada en vigor
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 754/2024 POR EL QUE SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN, EN MATERIA DE DEPORTE ADAPTADO”.]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula Derogatoria
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este Decreto.
+
+Adecuación normativa
+
+Artículo tercero. El Poder Ejecutivo, a través del Instituto del Deporte del Estado de Yucatán, deberá adecuar la normativa reglamentaria contemplada en este Decreto, dentro de un plazo de trescientos sesenta y cinco días, contado a partir de su entrada en vigor.
+
+Adecuación presupuestaria
+
+Artículo cuarto. La persona titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, preverá los ajustes correspondientes a los recursos presupuestales necesarios para la debida aplicación de este decreto en el ejercicio fiscal siguiente al de su entrada en vigor.
