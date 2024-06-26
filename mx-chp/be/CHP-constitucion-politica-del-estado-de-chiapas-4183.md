@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2024-04-10"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2024.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -532,6 +532,10 @@ La ley establecerá los mecanismos para garantizar este derecho.
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2024)</small>
 
 XVI. La atención médica y servicios de salud con enfoque humanizado, intercultural y seguro durante el embarazo, parto y puerperio de las mujeres y para los recién nacidos.
+
+> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2024)</small>
+
+XVII. La movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -2455,7 +2459,9 @@ La Universidad Autónoma de Chiapas, desde su fundación está orientada a la fo
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
-## Título Décimo. De las Responsabilidades de los Servidores Públicos y del Sistema Anticorrupción del Estado de Chiapas
+## Título Décimo
+
+De las Responsabilidades de los Servidores Públicos y del Sistema Anticorrupción del Estado de Chiapas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2016)</small>
 
@@ -4904,3 +4910,11 @@ Artículo Primero.- El presente Decreto entrará en vigor a partir del día sigu
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que contravengan el presente Decreto.
 
 Artículo Tercero.- El Congreso del Estado deberá realizar las adecuaciones normativas correspondientes a la legislación aplicable, de conformidad con lo previsto en el presente Decreto.
+
+P.O. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 339 DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XVII AL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS; EN MATERIA DE MOVILIDAD Y SEGURIDAD VIAL".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
