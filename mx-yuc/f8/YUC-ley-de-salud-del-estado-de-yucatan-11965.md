@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2024-04-26"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -839,13 +839,17 @@ Se concede acción popular para denunciar ante las Autoridades Sanitarias, todo 
 
 Los servicios de atención materno infantil, tienen carácter prioritario, comprendiendo las acciones siguientes:
 
-I.- La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+I.- La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la posibilidad de ser atendidas bajo el modelo de partería, sea esta particular o tradicional.
+
+Se entenderá por modelo de partería a los servicios adecuados y de cobertura liderados por parteras, basados en el respeto de los derechos humanos, la interculturalidad, la autonomía, en la toma de decisiones de la mujer y en una práctica apoyada en la mejor evidencia científica, encaminados al cuidado del embarazo, parto, puerperio, la atención del recién nacido, así como el cuidado de la vida sexual y reproductiva de las mujeres.
 
 II.- La atención de la madre menor de 18 años o de la víctima de violación, incluyendo su orientación, rehabilitación e integración a la familia y a la sociedad;
 
 > <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
 
-III. La atención del niño y la vigilancia de su crecimiento y desarrollo físico e intelectual, incluyendo la promoción de la vacunación oportuna; y,
+III.- La atención del niño y la vigilancia de su crecimiento y desarrollo físico e intelectual, incluyendo la promoción de la vacunación oportuna; y,
 
 IV.- La promoción de la integración y del bienestar familiar.
 
@@ -863,9 +867,11 @@ ARTICULO 64 BIS.- Los menores tendrán derecho a ser atendidos antes que las per
 
 Las autoridades sanitarias, en la prestación de los servicios de salud, deberán respetar el derecho a la intimidad de los menores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 65.
 
-En la organización y operación de los servicios de salud destinados a la atención materno infantil, las autoridades sanitarias del Estado establecerán:
+En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado establecerán:
 
 I.- Procedimientos que permitan la participación activa de la familia en la prevención y atención oportuna de los padecimientos de los usuarios;
 
@@ -873,19 +879,29 @@ II.- Acciones de orientación y vigilancia institucional, fomento a la lactancia
 
 III.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias ayudas de los menores de cinco años.
 
+> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+IV.- Acciones de capacitación y actualización voluntaria para fortalecer la competencia técnica de las parteras, para la atención del embarazo, parto y puerperio.
+
 ###### ARTICULO 66.
 
 Las Autoridades Sanitarias Estatales educativas y laborales en sus respectivos ámbitos de competencia, apoyarán y fomentarán:
 
 I.- Los programas para padres destinados a promover la atención materno-infantil;
 
-II.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
+> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
 
-III.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+II.- Las acciones que promuevan la participación de las parteras en la atención materno-infantil y, el desarrollo de programas que incorporen el conocimiento de los saberes de las parteras en la salud sexual y reproductiva.
 
-IV.- Acciones relacionadas con la educación básica, alfabetización de adultos, accesos al agua potable y medios sanitarios de eliminación de excretas; y
+III.- Las actividades recreativas, de esparcimiento y culturales destinadas a fortalecer el núcleo familiar y promover la salud física y mental de sus integrantes;
 
-V.- Las demás que coadyuven a la salud materno-infantil.
+IV.- La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
+
+> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2024)</small>
+
+V.- Acciones relacionadas con la educación básica, alfabetización de adultos, accesos al agua potable y medios de eliminación de excretas; y
+
+VI.- Las demás que coadyuven a la salud materno-infantil.
 
 ###### ARTICULO 67.
 
@@ -3792,3 +3808,19 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Y
 Artículo quinto. Régimen de vigencia especial
 
 Hasta en tanto se emitan los lineamientos correspondientes por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, continuará aplicándose el Acuerdo DIF 07/SO/2a/2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014.
+
+D.O. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 762/2024 POR EL QUE SE MODIFICA LA LEY DE SALUD DEL ESTADO DE YUCATÁN, EN MATERIA DE PARTERAS TRADICIONALES”.]
+
+Entrada en vigor.
+
+Artículo primero. El presente decreto entrará en vigor a partir de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán
+
+Acciones de capacitación.
+
+Artículo segundo. La implementación de las acciones de capacitación voluntaria para fortalecer la competencia técnica de las parteras a que se refiere el presente Decreto estará sujeta a los recursos que al efecto autorice el Congreso del Estado en el Presupuesto de Egresos de cada ejercicio fiscal.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
