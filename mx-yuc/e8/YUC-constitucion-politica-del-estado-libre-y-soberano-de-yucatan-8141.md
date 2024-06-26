@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2024-04-01"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -671,9 +671,11 @@ El Instituto Electoral y (sic) Participación Ciudadana de Yucatán declarará l
 
 La declaración de validez, la asignación de Diputados y Regidores de representación proporcional y la expedición de las respectivas constancias podrán ser impugnadas ante el Tribunal Electoral del Estado de Yucatán, en los términos que la ley señale.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 26 DE JUNIO DE 2024)</small>
+
 ###### Artículo 25.
 
-(DEROGADO, D.O. 20 DE JUNIO DE 2014)
+El presupuesto del Congreso del Estado, no podrá ser disminuido respecto al del año inmediato anterior y se incrementará anualmente, al menos, conforme al resultado de la inflación general anual registrada para el mes de diciembre del año anterior publicado por el Instituto Nacional de Estadística y Geografía en la primera quincena del mes de enero del año de su elaboración, sin exceder del 10% del presupuesto total asignado al Congreso el (sic) año anterior.
 
 (REFORMADO, D.O. 24 DE MAYO DE 2006) (F. DE E., D.O. 28 DE SEPTIEMBRE DE 2006)
 
@@ -1249,19 +1251,29 @@ IX.- las demás que le confiere esta Constitución.
 
 ### CAPITULO VI. De la Auditoría Superior del Estado
 
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JUNIO DE 2024)</small>
 
 ###### Artículo 43 Bis.
 
-La Auditoría Superior del Estado es un órgano con autonomía técnica, presupuestal y de gestión para el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley.
+La Auditoria Superior del Estado es un órgano con autonomía técnica, presupuestal y de gestión para el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones en los términos que disponga la ley. El presupuesto de la Auditoria Superior del Estado no podrá ser disminuido respecto al del año inmediato anterior y se fijará anualmente y se incrementará anualmente, al menos, conforme al resultado de la inflación general anual registrada para el mes de diciembre del año anterior, publicado por el Instituto Nacional de Estadística y Geografía en la primera quincena del mes de enero del año de su elaboración, sin exceder del 5% del presupuesto total asignado en el año anterior.
+
+> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 La función de fiscalización se realizará conforme a los principios de legalidad, imparcialidad y confiabilidad.
 
+> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
+
 La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la cuenta pública.
+
+> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado podrá solicitar información del ejercicio en curso, respecto de procesos concluidos.
 
+> <small>(REFORMADO, [N. DE E. ESTE PÁRRAFO], D.O. 20 DE ABRIL DE 2016)</small>
+
 La Auditoría Superior del Estado tendrá a su cargo:
+
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
 I.- Fiscalizar en forma posterior los ingresos, egresos y deuda pública; el manejo, la custodia y la aplicación de los fondos y recursos públicos estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas estatales y municipales, a través de los informes que se rendirán en los términos que disponga la ley.
 
@@ -1271,9 +1283,9 @@ Las entidades fiscalizadas a que se refiere el párrafo anterior deberán llevar
 
 La Auditoria Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, solo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
 
-> <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
-
 Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones y términos que determine la ley, derivado de denuncias, la Auditoría Superior del Estado, previa autorización del titular podrá revisar durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones que en esta se prevean. La Auditoría Superior del Estado rendirá un informe específico y detallado al Congreso y, en su caso, remitirá el expediente y promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa del Estado de Yucatán, la Fiscalía Especializada en Combate a la Corrupción o a las autoridades competentes.
+
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
 
 II.- Entregar al Congreso el último día hábil de los meses de junio y octubre, así como el 20 de febrero del año siguiente al de la presentación de la cuenta pública, los informes individuales de auditoría que concluya durante el periodo respectivo. Asimismo, en esta última fecha, deberá entregar el Informe General Ejecutivo del Resultado de la Fiscalización Superior de la cuenta pública estatal, el cual se someterá a la consideración del Pleno del Congreso. El informe general ejecutivo y los informes individuales serán de carácter público y tendrán el contenido que determine la ley; estos últimos incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre estas.
 
@@ -1289,17 +1301,23 @@ La Auditoría Superior del Estado deberá entregar al Congreso, el primer día h
 
 La Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo al Congreso a que se refiere esta fracción; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
+> <small>(REFORMADA, D.O. 20 DE ABRIL DE 2016)</small>
+
 III.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos estatales y municipales, y efectuar visitas domiciliarias, para solicitar la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 IV.- Promover y denunciar, derivado de sus investigaciones, las responsabilidades administrativas o penales que sean procedentes ante el Tribunal de Justicia Administrativa del Estado de Yucatán y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares.
 
+> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
+
 El Congreso del estado designará al Auditor Superior del Estado por el voto de las dos terceras partes de sus miembros integrantes. La ley en la materia determinará el procedimiento para su designación. El Auditor Superior del Estado será electo para desempeñar su cargo por ocho años y podrá ser reelecto por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el título décimo de esta Constitución.
 
 > <small>(REFORMADO, D.O. 13 DE MARZO DE 2020)</small>
 
 Para ser titular de la Auditoría Superior del Estado se requiere cumplir, además de los requisitos establecidos en las fracciones I, IV, V, VI y VII del artículo 65 de esta Constitución, contar con título y cédula profesional, y acreditar, al menos, cinco años de experiencia en materia de control, auditoría financiera y de responsabilidad, los que señale la ley. Durante el ejercicio de su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+
+> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 Los servidores públicos estatales y municipales, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos estatales o municipales deberán proporcionar la información, documentación y auxilios que soliciten la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que establezca la ley.
 
@@ -6000,3 +6018,17 @@ Artículo tercero. Una vez entre en vigor el presente decreto, para el caso de l
 Cláusula derogatoria
 
 Artículo cuarto. A la entrada en vigor de este decreto quedarán derogadas las disposiciones de igual o menor jerarquía en lo que se opongan al mismo.
+
+D.O. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 761/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN; LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN, EN MATERIA DE IRREDUCTIBILIDAD DEL PRESUPUESTO DE LA AUDITORÍA SUPERIOR DEL ESTADO DE YUCATÁN Y DEL CONGRESO DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Aplicación
+
+Artículo segundo. Lo dispuesto en este decreto deberá ser aplicado en el presupuesto de egresos 2025 y posteriores.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
