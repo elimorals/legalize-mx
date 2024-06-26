@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fiscalizacion-de-la-cuenta-publica-del-estado-de-122647"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2023-06-28"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -620,6 +620,10 @@ La auditoría superior contará con un servicio fiscalizador de carrera, dirigid
 Programación interna
 
 La auditoría superior elaborará su proyecto de presupuesto y su programa operativo anual, los cuales tendrán carácter público y contendrán, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir a cabalidad con sus atribuciones y objetivos.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+El presupuesto de la Auditoria Superior del Estado no podrá ser disminuido respecto al del año inmediato anterior y se fijará anualmente, en términos de la Constitución Política del Estado de Yucatán.
 
 ###### Artículo 37.
 
@@ -1730,3 +1734,17 @@ D.O. 28 DE JUNIO DE 2023.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 761/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN; LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN, EN MATERIA DE IRREDUCTIBILIDAD DEL PRESUPUESTO DE LA AUDITORÍA SUPERIOR DEL ESTADO DE YUCATÁN Y DEL CONGRESO DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Aplicación
+
+Artículo segundo. Lo dispuesto en este decreto deberá ser aplicado en el presupuesto de egresos 2025 y posteriores.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
