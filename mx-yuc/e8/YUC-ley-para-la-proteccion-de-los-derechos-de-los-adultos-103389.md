@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-los-derechos-de-los-adultos-103389"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-03"
-last_updated: "2024-04-26"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 3 de noviembre de 2014.
 
@@ -49,11 +49,39 @@ Objeto
 
 Esta ley es de orden público, interés social y observancia general en el territorio del estado de Yucatán y tiene por objeto establecer las bases normativas para garantizar la protección de los derechos de los adultos mayores, así como facilitar su acceso a servicios que mejoren su calidad de vida y promuevan su participación social, desarrollo económico, político y cultural.
 
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 2024)</small>
+
 ###### Artículo 2.
 
-Definición de adultos mayores
+Definiciones
 
-Para los efectos de esta ley se entenderá, por adultos mayores a las mujeres y hombres que cuenten con sesenta años o más de edad y se encuentren domiciliadas o de paso en el estado.
+Para los efectos de esta Ley, se entenderá por:
+
+I. Personas adultas mayores o Adultos mayores: aquellas, que cuenten con sesenta años o más de edad y que se encuentren domiciliadas o en tránsito en el estado de Yucatán; contemplándose en diferentes condiciones:
+
+a) Independiente: aquellas que son aptas para desarrollar actividades físicas y mentales sin ayuda permanente parcial.
+
+b) Semindependiente: aquellas que sus condiciones físicas y mentales aún le permiten valerse por sí misma, aunque con ayuda permanente parcial.
+
+c) Dependiente absoluto: aquellas con una enfermedad crónica o degenerativa por la que requiera ayuda permanente total o canalización a alguna institución de asistencia social.
+
+d) En situación de riesgo o vulnerabilidad: aquellas que carecen de familia o son rechazadas por esta, sufren algún tipo de violencia o carecen de recursos económicos o de buen estado de salud, por lo que requieren de asistencia social y protección del estado y de la sociedad organizada.
+
+II. Asistencia Social: conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan a las personas adultas mayores su desarrollo integral, así como la protección física, mental y social de las que se encuentran en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+
+III. Autoridades competentes: las autoridades contempladas en el capítulo III de la presente Ley, de acuerdo al ámbito de sus atribuciones.
+
+IV. Consejo: el Consejo Estatal para la Protección y Atención Integral de los Derechos de las Personas Adultas Mayores.
+
+V. Ley: la Ley para la Protección de los Derechos de los Adultos Mayores del Estado de Yucatán.
+
+VI. Geriatría: es la especialidad médica dedicada al estudio de las enfermedades propias de las personas adultas mayores.
+
+VII. Gerontología: es el estudio científico sobre la vejez y de las cualidades y fenómenos propios de la misma.
+
+VIII. Integración social: es el resultado de las acciones que realizan las dependencias y entidades de la administración estatal y municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral.
+
+XI (SIC). Violencia contra las personas adultas mayores: cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
 
 ###### Artículo 3.
 
@@ -61,67 +89,133 @@ Aplicación
 
 La aplicación, seguimiento y vigilancia de esta ley corresponde, en el ámbito de sus respectivas competencias, al Poder Ejecutivo del estado, por conducto de sus dependencias y entidades, a los ayuntamientos, al Poder Judicial, a los organismos constitucionales autónomos del estado. Los familiares de los adultos mayores y las organizaciones de la sociedad civil coadyuvarán en su aplicación.
 
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Artículo 3 bis. Tipos de violencia
+
+Los tipos de violencia contra las Personas adultas mayores, son:
+
+I. Violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
+
+II. Violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas.
+
+III. Violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado.
+
+IV. Violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral.
+
+V. Violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder.
+
+VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas adultas mayores.
+
 ### Capítulo II. Principios rectores y derechos de los adultos mayores
+
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 2024)</small>
 
 ###### Artículo 4.
 
 Principios rectores
 
-Son principios rectores para la observación y aplicación de esta ley, los siguientes:
+Son principios rectores en la observación y aplicación de esta Ley:
 
-I. Atención preferente: el establecimiento de políticas que beneficien a los adultos mayores en la aplicación de programas y ejecución de acciones públicas, independientemente de la naturaleza de estas.
+I. Atención preferente: el establecimiento de políticas que beneficien a las Personas adultas mayores en la aplicación de programas y ejecución de acciones públicas, independientemente de la naturaleza de estas.
 
-II. Autonomía y autorrealización: las acciones que se realicen en beneficio de los adultos mayores estarán orientadas a fortalecer su independencia, capacidad de decisión, y su desarrollo personal.
+II. Autonomía y autorrealización: todas las acciones que se realicen en beneficio de las Personas adultas mayores tendientes a fortalecer su independencia, su capacidad de decisión y su desarrollo personal y comunitario.
 
-III. Corresponsabilidad: la colaboración de los sectores público, privado y social, en especial con sus familias y comunidades, para la consecución del objeto de esta ley.
+III. Equidad: es el trato justo y proporcional, en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las Personas adultas mayores, sin distinción por sexo, situación económica, raza, credo, religión o cualquier otra circunstancia.
 
-IV. Equidad: el trato justo a los adultos mayores, tomando en consideración sus condiciones particulares.
+IV. Corresponsabilidad: La concurrencia y responsabilidad compartida de los sectores público y social, en especial de las comunidades y familias, para la consecución del objeto de esta Ley.
 
-V. Participación: la inclusión y participación de los adultos mayores deberá favorecerse en todos los órdenes de la vida pública.
+V. Atención preferente: es aquella que obliga a las dependencias y entidades de la administración estatal y municipal, así como a los sectores social y privado a implementar programas acordes a las diferentes etapas, características y circunstancias de las Personas adultas mayores.
 
-VI. Transversalidad: la obligación de las autoridades para coordinarse en el ámbito de sus respectivas competencias, para promover, respetar, proteger y garantizar los derechos humanos de los adultos mayores.
+VI. Solidaridad y fortalecimiento: es el bienestar y cuidado de las Personas adultas mayores desde la familia y la comunidad.
+
+VII. Igualdad sustantiva: es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales de las Personas adultas mayores.
+
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 2024)</small>
 
 ###### Artículo 5.
 
-Derechos de los adultos mayores.
+Derechos de las personas adultas mayores
 
-De manera enunciativa, más no limitativa, esta ley reconoce como derechos de los adultos mayores los siguientes:
+De manera enunciativa, más no limitativa, se reconocen los siguientes derechos de las Personas adultas mayores:
 
-I. La vida con calidad e independencia en entornos seguros, dignos y decorosos.
+I. La integridad y dignidad, que incluyen:
 
-II. La integridad personal y la dignidad.
+a) Una vida con calidad e independencia en entornos seguros, dignos y decorosos siendo obligación de la familia, de las dependencias y entidades de la administración estatal y municipal, así como de la sociedad organizada, de acuerdo a sus respectivas competencias, garantizarles el acceso a los programas que tengan por objeto posibilitar el ejercicio de este derecho.
 
-III. El acceso a la justicia y a la asistencia jurídica gratuita.
+b) La no discriminación, por lo que la observancia a sus derechos se hará sin distinción alguna.
 
-IV. Una alimentación adecuada.
+c) La educación.
 
-V. La salud, especialmente en materia de gerontología y geriatría.
+d) Una vida libre de violencia.
 
-VI. La educación.
+e) Ser respetados en su persona, así como en su integridad física, psicoemocional y sexual.
 
-VII. El trabajo y el acceso a este con las mismas oportunidades.
+f) La atención preferente y diferenciada.
 
-VIII. La atención preferente y diferenciada.
+g) Ser protegidos contra toda forma de explotación.
 
-IX. El acceso a los servicios de asistencia social y a los programas sociales.
+h) Manifestar su consentimiento libre e informado en el ámbito de su salud, así como ejercer su derecho de modificar o revocar este, en relación a cualquier decisión, tratamiento, intervención o investigación, y a que no se les administre ningún tratamiento, intervención o investigación de carácter médico o quirúrgico sin el consentimiento consciente de la persona mayor.
 
-X. Una vida libre de violencia.
+i) Gozar de oportunidades, para mejorar progresivamente las capacidades que les faciliten el ejercicio de sus derechos en condiciones de igualdad; y
 
-XI. La participación social y política.
+j) Vivir en entornos seguros y dignos que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos.
 
-XII. No discriminación.
+II. La certeza jurídica, que incluye:
 
-> <small>(ADICIONADA, D.O. 9 DE DICIEMBRE DE 2020)</small>
+a) La participación social y política.
 
-XIII. El acceso, uso y disfrute de nuevas tecnologías.
+b) Recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo que les involucre.
+
+c) El acceso a la justicia y a la asistencia jurídica gratuita.
+
+III. La vida en familia, que incluye:
+
+a) Vivir dentro del núcleo familiar o mantener comunicación frecuente y directa con la familia, salvo que esto perjudique al bienestar de la persona adulta mayor.
+
+b) Expresar su opinión libremente, conocer sus derechos y participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial que afecte sus esferas personal, familiar y social.
+
+c) Recibir mayor asistencia por parte de su familia, así como de las autoridades competentes, así como de la sociedad en general.
+
+IV. La salud, que incluye:
+
+a) Atención especialmente en materia de gerontología y geriatría.
+
+b) El acceso a los servicios de asistencia social y a los programas sociales.
+
+V. El trabajo y el acceso a este con las mismas oportunidades.
+
+VI. El acceso, uso y disfrute de nuevas tecnologías.
+
+VII. A Recibir el apoyo presencial y domiciliado de las autoridades competentes y conforme a sus capacidades presupuestales en lo relativo al ejercicio y respeto de sus derechos, a través de las instituciones creadas para tal efecto.
+
+VIII. A un envejecimiento digno, saludable, activo, y participativo.
+
+IX. Al disfrute de ciudades amigables que permitan su desarrollo integral e inclusión en la sociedad.
+
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 2024)</small>
 
 ###### Artículo 6.
 
 Obligaciones de los familiares
 
-Los familiares de los adultos mayores están obligados a proporcionarles alimentos en términos del Código de Familia para el Estado de Yucatán así como evitar que caigan en una situación de explotación, abandono o marginación.
+Las familias de las Personas adultas mayores deberán cumplir con su atención y cuidados, velar y garantizar de manera continua y permanente que formen parte de ellas, siendo responsables de conservar y preservar su calidad de vida; teniendo las siguientes obligaciones para con ellas:
+
+I. Cuidar de las Personas adultas mayores que sean parte del núcleo familiar siendo responsables de conocer sus necesidades y proporcionarles los elementos necesarios para su atención integral.
+
+II. Proporcionarles alimentos en términos del Código de Familia para el Estado de Yucatán, así como evitar que caigan en situación de riesgo o vulnerabilidad.
+
+III. Procurar que las personas adultas mayores permanezcan en el núcleo familiar y que solo por enfermedad, decisión personal o causas de fuerza mayor sean ingresadas en una casa hogar o albergue, u otras alternativas de atención integral; así como ser responsable de sus necesidades y brindarle los elementos necesarios para su atención integral.
+
+IV. Fomentar la convivencia familiar, para procurar la participación activa de la Persona adulta mayor, conservando los valores que influyan en sus necesidades afectivas, de protección y apoyo.
+
+V. Evitar que cualquiera de los integrantes de la familia realice o induzca a acciones de explotación, violencia, aislamiento, o actos jurídicos que pongan en riesgo la integridad física, bienes y derechos de la Persona adulta mayor.
+
+VI. Atender sus necesidades psicoemocionales a fin de que permanezcan los lazos familiares cuando la persona adulta mayor se encuentre en alguna casa hogar, albergue, institución pública o privada, o cualquier otro centro de atención a efecto de mantener los lazos familiares.
 
 ### Capítulo III. Competencias de las autoridades
+
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 2024)</small>
 
 ###### Artículo 7.
 
@@ -129,35 +223,45 @@ Atribuciones de la Secretaría de Desarrollo Social
 
 La Secretaría de Desarrollo Social, para contribuir con el cumplimiento del objeto de esta ley, tendrá las atribuciones siguientes:
 
-I. Diseñar, coordinar, ejecutar, vincular y evaluar programas sociales encaminados a proteger los derechos de los adultos mayores.
+I. Diseñar, coordinar, ejecutar, vincular y evaluar programas sociales encaminados a proteger los derechos de las Personas adultas mayores.
 
-II. Presidir el Consejo Estatal para la Protección y Atención Integral de los derechos de los adultos mayores.
+II. Presidir el Consejo Estatal para la Protección y Atención Integral de los derechos (sic) las Personas adultas mayores.
 
-III. Promover las medidas necesarias para la defensa y el respeto a los derechos de los adultos mayores, así como la difusión de las disposiciones legales que los contemplen.
+III. Promover las medidas necesarias para la defensa y el respeto a los derechos (sic) las Personas adultas mayores, así como la difusión de las disposiciones legales que los contemplen.
 
-IV. Fomentar la participación de los adultos mayores y de los sectores social y privado en el diseño, promoción, seguimiento y financiamiento de los programas de atención a estos.
+IV. Fomentar la participación (sic) las Personas adultas mayores, y de los sectores social y privado en el diseño, promoción, seguimiento y financiamiento de los programas de atención a estos.
 
-V. Celebrar convenios de colaboración con instituciones y organismos públicos, sociales y privados para realizar acciones de atención dirigidas a los adultos mayores.
+V. Celebrar convenios de colaboración con instituciones y organismos públicos, sociales y privados para realizar acciones de atención dirigidas a las Personas adultas mayores.
 
-VI. Impulsar la participación de los adultos mayores en la toma de decisiones con respecto a su entorno social.
+VI. Impulsar la participación de las Personas adultas mayores en la toma de decisiones con respecto a su entorno social.
 
-VII. Realizar acciones de sensibilización y difusión dirigidas a la sociedad para crear, fortalecer y promover una cultura de respeto a los derechos y la dignidad de los adultos mayores, así como difundir los programas sociales en su beneficio.
+VII. Realizar acciones de sensibilización y difusión dirigidas a la sociedad para crear, fortalecer y promover una cultura de respeto a los derechos y la dignidad (sic) las Personas adultas mayores, así como difundir los programas sociales en su beneficio.
 
-VIII. Verificar que las instituciones de atención a los adultos mayores cumplan con la normatividad en la materia.
+VIII. Verificar que las instituciones de atención a las Personas adultas mayores cumplan con la normatividad en la materia.
 
-IX. Promover la realización de convenios con el sector privado para que los adultos mayores puedan acceder a beneficios económicos, laborales y sociales.
+IX. Promover la realización de convenios con el sector privado para las Personas adultas mayores puedan acceder a beneficios económicos, laborales y sociales.
 
-X. Fomentar la implementación de beneficios y estímulos económicos y fiscales para los adultos mayores y para las Instituciones especializadas en su atención y cuidado.
+X. Fomentar la implementación de beneficios y estímulos económicos y fiscales para las Personas adultas mayores y para las Instituciones especializadas en su atención y cuidado.
 
-XI. Impulsar programas de pensiones no contributivas para beneficiar a los adultos mayores en situación de vulnerabilidad.
+XI. Impulsar programas de pensiones no contributivas para beneficiar a los adultos mayores en situación de vulnerabilidad
 
-XII. Otorgar estímulos y reconocimientos a los adultos mayores que se distingan en actividades deportivas, científicas, artísticas y culturales, así como cualquier otra que tienda a su superación personal y en el trabajo; con el propósito de que la sociedad reconozca los hechos y actitudes de su desempeño diario.
+XII. Otorgar estímulos y reconocimientos a las Personas adultas mayores que se distingan en actividades deportivas, científicas, artísticas y culturales, así como cualquier otra que tienda a su superación personal y en el trabajo; con el propósito de que la sociedad reconozca los hechos y actitudes de su desempeño diario.
 
-XIIII (SIC). Promover programas sociales para entregar a las familias de escasos recursos apoyos económicos para gastos funerarios.
+XIII. Promover programas sociales para entregar a las familias de escasos recursos apoyos económicos para gastos funerarios de Personas adultas mayores.
 
-XIV. Promover la participación de los ayuntamientos en la ejecución de programas, estrategias y acciones en beneficio de los adultos mayores.
+XIV. Promover la participación de las autoridades competentes en la ejecución de programas, estrategias y acciones en beneficio de las Personas adultas mayores.
 
-XV. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+XV. Diseñar, implementar y evaluar políticas, programas y acciones a favor de una cultura del envejecimiento digno, saludable, activo y participativo para los grupos poblacionales que se encuentran próximos a formar parte de la población (sic) la persona adulta mayor y para la población que se encuentra actualmente en dicha etapa.
+
+La Secretaría de Desarrollo Social podrá llevar a cabo convenios con entidades públicas y privadas que atiendan la vivienda, salud, trabajo, transporte, movilidad, información, comunicación, entre otras, para el diseño, implementación y evaluación de la política en materia de envejecimiento digno, saludable, activo y participativo.
+
+XVI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Artículo 7 bis. La Secretaría de Desarrollo Social en coordinación con el Sistema para el Desarrollo Integral de la Familia en Yucatán
+
+La Secretaría de Desarrollo Social en coordinación con el Sistema para el Desarrollo Integral de la Familia en Yucatán, el cual está integrado por Patronato y su Presidencia, una Junta de Gobierno y la Dirección General, y estos son seleccionados de entre los sectores público, social y privado, promoverán e instrumentarán políticas de asistencia social para las personas adultas mayores en situación de riesgo o vulnerabilidad.
 
 ###### Artículo 8.
 
@@ -185,7 +289,9 @@ Atribuciones de la Secretaría de Salud
 
 La Secretaría de Salud, para contribuir con el cumplimiento del objeto de esta ley, tendrá las atribuciones siguientes:
 
-I. Desarrollar programas para la prevención, detección y tratamiento de los diferentes tipos de padecimientos y enfermedades más frecuentes en los adultos mayores.
+> <small>(REFORMADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+I. Desarrollar programas para la prevención, detección oportuna y tratamiento de los diferentes tipos de padecimientos y enfermedades más frecuentes en las Personas adultas mayores y las generaciones próximas a cumplir los sesenta años, con especial atención en la prevención de enfermedades, contribuyendo a su envejecimiento saludable y a su derecho a la protección de la salud en igualdad de condiciones entre mujeres y hombres.
 
 II. Diseñar los mecanismos que permitan la adecuada prestación de servicios de atención médica, gerontológica y de asistencia social a los adultos mayores.
 
@@ -199,7 +305,17 @@ VI. Establecer los requisitos y especificaciones que deberán cumplir las instit
 
 VII. Realizar inspecciones a las instituciones de atención para los adultos mayores, y en su caso, sancionar a aquellas que no cumplan con los requerimientos previstos por la legislación y normatividad aplicable.
 
-VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+VIII. Coordinarse con las instituciones de salud del Gobierno Federal y la iniciativa privada, para la capacitación en programas o celebración de convenios a fin de que las Personas adultas mayores puedan tener acceso a los servicios de atención médica que proporcione el Sistema de Salud.
+
+> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+IX. Supervisar a las instituciones públicas, privadas o sociales, encargadas de la atención de las Personas adultas mayores, a efecto de verificar su buen funcionamiento, debiendo ordenar la corrección inmediata de las irregularidades que sean detectadas, mediante la adopción de las medidas que correspondan o, en su caso, comunicar dicha situación a la autoridad competente.
+
+> <small>(REFORMADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+X. Las demás que le confiera esta Ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 10.
 
@@ -219,37 +335,49 @@ V. Elaborar material educativo que incorpore información sobre los adultos mayo
 
 VI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADO SU EPÍGRAFE, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 2024)</small>
 
 ###### Artículo 11.
 
 Atribuciones de la Secretaría de Fomento Económico y Trabajo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
-
 La Secretaría de Fomento Económico y Trabajo, para contribuir con el cumplimiento del objeto de esta ley, tendrá las atribuciones siguientes:
 
-I. Implementar acciones encaminadas a disminuir los índices de desempleo y de marginación ocupacional en los adultos mayores, mediante la aplicación de programas que permitan la evaluación de sus capacidades y aptitudes, procurando su integración e incorporación a la planta laboral.
+I. Implementar acciones encaminadas a tratar de disminuir los índices de desempleo y de marginación ocupacional en las Personas adultas mayores, mediante la aplicación de programas que permitan la evaluación de sus capacidades y aptitudes, procurando su integración e incorporación a la planta laboral.
 
-II. Formular, operar, difundir y promover los programas de empleo y autoempleo para los adultos mayores.
+II. Formular, operar, difundir y promover los programas de empleo y autoempleo para las Personas adultas mayores.
 
-III. Celebrar convenios de colaboración con empresas, cámaras u organismos, para concentrar una mayor oferta de vacantes a través de la bolsa de trabajo respectiva.
+III. Celebrar convenios de colaboración con empresas, cámaras u organismos, para concentrar una mayor oferta de vacantes para Personas adultas mayores a través de la bolsa de trabajo respectiva.
 
-IV. Desarrollar ferias de empleo para los adultos mayores.
+IV. Desarrollar ferias de empleo para las Personas adultas mayores.
 
-V. Implementar estrategias para que los adultos mayores cuenten con mayores oportunidades en las bolsas de trabajo que organice la secretaría.
+V. Implementar estrategias para que las personas adultas mayores cuenten con mayores oportunidades en las bolsas de trabajo que organice.
 
-VI. Orientar a los adultos mayores para que acudan a talleres de capacitación.
+VI. Orientar a las personas adultas mayores para que acudan a talleres de capacitación.
 
-VII. Otorgar asesoría jurídica gratuita a los adultos mayores que decidan retirarse de sus actividades laborales.
+VII. Otorgar asesoría jurídica gratuita a las personas adultos mayores que decidan retirarse de sus actividades laborales.
 
-VIII. Otorgar asesoría jurídica gratuita en materia laboral en los términos de la ley federal de trabajo a los adultos mayores.
+VIII. Otorgar asesoría jurídica gratuita en materia laboral en los términos de la ley federal de trabajo a las personas adultos mayores.
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+IX. Promover el otorgamiento de incentivos o estímulos fiscales para las personas físicas o morales que contraten o consideren un mínimo de empleos para las personas adultas mayores.
 
-IX. Promover el otorgamiento de incentivos o estímulos para las personas físicas o morales que contraten o consideren un mínimo de empleos para los adultos mayores.
+X. Promover la celebración de acuerdos de concertación con la iniciativa privada, a fin de que la atención preferencial para las personas adultas mayores, también sea proporcionada en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles.
 
-X. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+XI. Impulsar que, en el ámbito privado, la prestación de los servicios sea brindada con accesibilidad en la infraestructura, atención, comunicación o cualquier requerimiento que sea necesario cuando el usuario sea una persona adulta mayor.
+
+XII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Artículo 11 bis. La Administración Pública del Estado de Yucatán y sus órganos
+
+La Administración Pública del Estado de Yucatán, a través de sus órganos correspondientes, promoverá programas de protección a la economía para la población de Personas adultas mayores, de tal manera que éstas se vean beneficiadas al adquirir algún bien o utilizar algún servicio y se encuentren debidamente informadas para hacer valer este derecho.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Artículo 11 ter. La Administración Pública del Estado de Yucatán y sus dependencias
+
+La Administración Pública del Estado de Yucatán, a través de las dependencias competentes, promoverá la celebración de convenios con la iniciativa privada a fin de que se instrumenten campañas de promociones y descuentos en bienes y servicios que beneficien a las Personas adultas mayores.
 
 ###### Artículo 12.
 
@@ -311,19 +439,29 @@ VII. Brindar asesoría e información a los adultos mayores, asociaciones o inst
 
 VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 2024)</small>
 
-###### Artículo 14 Bis.
+Artículo 14 bis. Atribuciones de la Agencia de Transporte de Yucatán
 
-Atribuciones del Instituto de Movilidad y Desarrollo Urbano Territorial.
+El Instituto de Movilidad y Desarrollo Urbano Territorial y la Agencia de Transporte de Yucatán, para contribuir con el cumplimiento del objeto de esta ley, tendrán las atribuciones siguientes en el ámbito de sus respectivas competencias:
 
-El Instituto de Movilidad y Desarrollo Urbano Territorial, para contribuir con el cumplimiento del objeto de esta ley, tendrá las atribuciones siguientes:
+I. Implementar acciones que permitan garantizar la accesibilidad de las personas adultas mayores al servicio del transporte público de personas pasajeras procurando que sea regular, confiable, eficaz, eficiente, cómodo, seguro y de bajas emisiones contaminantes; y que se preste con altos estándares de calidad, accesibilidad y cobertura, con tecnologías limpias y con vehículos eficientes.
 
-I. Garantizar y vigilar que las y los concesionarios del servicio público de transporte de pasajeros otorguen el acceso oportuno y seguro a los adultos mayores.
+II. Procurar que las unidades de transporte público estén equipadas con las adaptaciones necesarias que garanticen la seguridad y comodidad para las personas adultas mayores.
 
-II. Verificar que las unidades de transporte público estén equipadas con las adaptaciones necesarias que garanticen la seguridad y comodidad para los adultos mayores.
+III. Establecer, en el transporte público de personas pasajeras, tarifas sociales a las personas adultas mayores.
 
-III. Promover el establecimiento, en el transporte público, de tarifas preferenciales a los adultos mayores.
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Artículo 14 ter. Atribuciones del Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán.
+
+El Instituto para la Inclusión de las Personas con Discapacidad del Estado de Yucatán, para contribuir con el cumplimiento del objeto de esta ley, tendrá las atribuciones siguientes en el ámbito de su competencia:
+
+I. Brindar asesoría e información a asociaciones o instituciones que así lo requieran, en cuanto al trato e inclusión integral de personas adultas mayores.
+
+II. Celebrar convenios de colaboración con instituciones de carácter público o privado para la realización de acciones de atención y mejoramiento de la calidad de vida de las personas adultas mayores.
+
+III. Fomentar que las instituciones de atención (sic) los Adultos mayores, así como albergues y residencias de día, cuenten con instalaciones que permitan el pleno disfrute y desarrollo de conformidad a sus características particulares.
 
 ###### Artículo 15.
 
@@ -345,7 +483,19 @@ VI. Promover programas de descuentos preferenciales a los adultos mayores en la 
 
 VII. Brindar atención y asesoría jurídica gratuita a los adultos mayores.
 
-VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+VIII. Incentivar en la planeación y en toda acción urbanística, criterios de inclusión integral y accesibilidad para generar ciudades amigables con las Personas adultas mayores.
+
+> <small>(REFORMADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+IX. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Artículo 15 bis. Transversalidad de las Autoridades Competentes
+
+Sin perjuicio de las disposiciones previstas en el presente capítulo, las autoridades competentes podrán coordinarse en el ámbito de sus respectivas competencias, para promover, respetar, proteger y garantizar los derechos humanos de las Personas adultas mayores.
 
 ### Capítulo IV. Consejo Estatal para la Protección y Atención Integral de los Derechos de los Adultos Mayores
 
@@ -487,37 +637,43 @@ Instituciones
 
 Se consideran instituciones de atención a los adultos mayores, aquellas instituciones públicas, privadas o sociales constituidas exclusivamente para su beneficio.
 
+> <small>(REFORMADO, D.O. 26 DE JUNIO DE 2024)</small>
+
 ###### Artículo 27.
 
 Obligaciones de las instituciones
 
 Las instituciones de atención a los adultos mayores están obligadas a:
 
-I. Promover una cultura de aprecio a los adultos mayores para lograr un trato digno, favorecer su revaloración y su plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre las generaciones.
+I. Promover el trato digno a las Personas adultas mayores, favoreciendo su revaloración y su plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre las generaciones.
 
-II. Cubrir las necesidades de alimentación, habitación y atención médica o cualquier otra que requieran los adultos mayores.
+II. Promover el respeto a la expresión, diálogo y convivencia de la diversidad cultural, institucional, normativa, sexual y lingüística de las Personas adultas mayores, para en armonía, vivir bien, sembrando la relación intra e intergeneracional en el estado de Yucatán.
 
-III. Procurar el mejoramiento de la salud física y psicológica de los adultos mayores a su cuidado, así como su integración social.
+III. Cubrir las necesidades de alimentación, habitación y atención médica o cualquier otra que requieran las Personas adultas mayores.
 
-IV. Proporcionar actividades culturales y recreativas que contribuyan al desarrollo social y físico de los adultos mayores.
+IV. Procurar el mejoramiento de la salud física y psicológica de las Personas adultas mayores a su cuidado, así como su integración social.
 
-V. Integrar un expediente personal con la historia clínica que contenga los datos relativos al estado de salud y tratamientos que haya recibido, así como la evolución de los adultos mayores.
+V. Proporcionar actividades culturales y recreativas que contribuyan al desarrollo social y físico de las Personas adultas mayores.
 
-VI. Contar, en su caso, con los nombres, domicilios y teléfonos de los familiares de los adultos mayores.
+VI. Integrar un expediente personal con la historia clínica que contenga los datos relativos al estado de salud y tratamientos que hayan recibido, así como la evolución de las Personas adultas mayores.
 
-VII. Coadyuvar con las autoridades en la protección de los derechos de los adultos mayores.
+VII. Contar, en su caso, con los nombres, domicilios y teléfonos de los familiares de las Personas adultas mayores.
 
-VIII. Participar en los programas públicos que establezcan las autoridades en beneficio de los adultos mayores.
+VIII. Coadyuvar con las autoridades en la protección de los derechos de las Personas adultas mayores.
 
-IX. Denunciar a la autoridad competente los casos de discriminación, abandono, desamparo, marginación, abuso, explotación o violencia a los adultos mayores.
+IX. Participar en los programas públicos que establezcan las autoridades en beneficio de las Personas adultas mayores.
 
-X. Capacitar a su personal en materia de geriatría y gerontología para el mejor desempeño de sus actividades.
+X. Denunciar a la autoridad competente los casos de discriminación, abandono, marginación, abuso, explotación o violencia a las Personas adultas mayores.
 
-XI. Vigilar que los adultos mayores no sean sometidas a actos de tortura, tratos crueles, inhumanos o degradantes.
+XI. Capacitar a su personal en materia de geriatría y gerontología para el mejor desempeño de sus actividades.
 
-XII. Proponer mecanismos para simplificar los trámites o diligencias de las dependencias o entidades que los adultos mayores realicen habitualmente.
+XII. Vigilar que las Personas adultas mayores no sean sometidas a actos de tortura, tratos crueles, inhumanos o degradantes.
 
-XIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+XIII. Proponer mecanismos para simplificar los trámites o diligencias de las dependencias o entidades que las Personas adultas mayores realicen habitualmente.
+
+XIV. Promover el respeto a la expresión, diálogo y convivencia de la diversidad cultural, institucional, normativa, sexual y lingüística de las Personas adultas mayores.
+
+XV. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 28.
 
@@ -569,6 +725,12 @@ Si el Sistema para el Desarrollo Integral de la Familia en Yucatán no es compet
 
 Los familiares de la persona adulta mayor, la persona que lo hubiese reportado o cualquier interesado podrán coadyuvar y ser parte del proceso establecido en el presente artículo.
 
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Artículo 30 bis. Intervención de las autoridades
+
+Toda persona que tenga conocimiento de que una Persona adulta mayor se encuentra en situación de riesgo o vulnerabilidad o deberá pedir la intervención de las autoridades competentes para que se apliquen de inmediato las medidas necesarias para su protección y atención.
+
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 ###### Artículo 31.
@@ -589,6 +751,12 @@ El Sistema para el Desarrollo Integral de la Familia en Yucatán podrá imponer 
 
 Para la imposición de las sanciones por inobservancia de esta ley, se tomarán en cuenta la gravedad de la infracción, las condiciones económicas del infractor y la reincidencia o habitualidad.
 
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Artículo 32 bis. Los conflictos
+
+Los conflictos surgidos entre las Personas adultas mayores y sus familiares podrán resolverse mediante las instancias de mediación y conciliación competentes.
+
 ###### Artículo 33.
 
 Servidores públicos
@@ -596,6 +764,12 @@ Servidores públicos
 Cuando los servidores públicos sean los responsables del daño o afectación de los derechos de los adultos mayores, se deberá dar aviso al superior jerárquico de manera inmediata para su conocimiento, sujetándolo a la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
 Los servidores públicos que tuvieren conocimiento en el ejercicio de sus funciones de alguna infracción a la presente Ley, estarán obligados dar aviso a las autoridades correspondientes. Cualquier omisión en este sentido dará lugar a las sanciones que establece la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Artículo 33 bis. Inobservancia de la Ley
+
+La inobservancia a lo previsto en esta ley, ya sea por acción u omisión, por parte de personas que no sean autoridades, será sancionada conforme a lo establecido por la ley o leyes aplicables al caso concreto.
 
 ###### Artículo 34.
 
@@ -802,3 +976,15 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Y
 Artículo quinto. Régimen de vigencia especial
 
 Hasta en tanto se emitan los lineamientos correspondientes por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, continuará aplicándose el Acuerdo DIF 07/SO/2a/2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014.
+
+D.O. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 755/2024 POR EL QUE SE MODIFICA LA LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE LOS ADULTOS MAYORES DEL ESTADO DE YUCATÁN, EN MATERIA DE DERECHOS DE LAS PERSONAS ADULTAS MAYORES”.]
+
+Artículo primero. Entrada en vigor
+
+El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Estado.
+
+Artículo segundo. Clausula Derogatoria
+
+Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
