@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2024-06-20"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 26 DE JUNIO DE 2024 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS EL 26 DE JUNIO DE 2024.]</small>
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -975,13 +975,13 @@ VII. Establecer acciones afirmativas para garantizar el derecho a la educación 
 
 VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2024)</small>
-
-IX. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso, violencia sexual, así como de cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite o detecte en los centros educativos;
+IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
 
 X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
 
-XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
+(REFORMADA, P.O. 20 DE JUNIO DE 2024) (F. DE E., P.O. 26 DE JUNIO DE 2024)
+
+XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso, violencia sexual, así como de cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite o detecte en los centros educativos;
 
 > <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2023)</small>
 
