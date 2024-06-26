@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2023-06-28"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -1285,6 +1285,26 @@ Será causa de suspensión temporal de lo dispuesto en el artículo 94 Ter, si l
 
 Dada la naturaleza extraordinaria del reconocimiento, el derecho a recibirlo será personalísimo y, por lo tanto, no será transmisible ni heredable.
 
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+###### Artículo 94 Quinquies.
+
+Ayudas complementarias
+
+El Poder Ejecutivo estatal, a través de la Secretaría de Seguridad Pública otorgará a sus elementos de policía que desempeñen alguna de las funciones previstas en el artículo 35 de esta ley, mediante programas de subsidios o ayudas, los siguientes beneficios:
+
+I. Subsidio para vivienda.
+
+II. Beca económica de educación básica, entendiéndose los niveles primaria y secundaria; media superior en todos los niveles de bachillerato, y superior para hijas e hijos de personas policías.
+
+Los programas que se refieren en este artículo deberán de contar con sus respectivas reglas de operación y ajustarse a las determinaciones señaladas en la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, la Ley de Desarrollo Social del Estado de Yucatán, y demás disposiciones y normativas aplicables.
+
+El presupuesto de la Secretaría de Seguridad Pública asignado a los programas a que se refiere este artículo no podrá ser disminuido respecto al del año inmediato anterior y se fijará anualmente.
+
+Para acceder a los subsidios o ayudas previstas en este artículo, se deberá cumplir, además de lo dispuesto en esta ley, con los requisitos establecidos en las reglas de operación donde se regulen.
+
+El Poder Ejecutivo estatal podrá celebrar convenios con el gobierno federal en materia de seguridad social y vivienda.
+
 ## TÍTULO QUINTO. Información sobre seguridad pública
 
 ### Capítulo I. Disposiciones generales
@@ -1826,3 +1846,15 @@ Este decreto entrará en vigor el día siguiente al de su publicación en el Dia
 Artículo Segundo. Ajustes presupuestales y administrativos
 
 La Secretaría de Administración y Finanzas deberá realizar los ajustes presupuestales y administrativos necesarios para dar cumplimiento al presente decreto.
+
+D.O. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 757/2024 POR EL QUE SE MODIFICA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DEL SISTEMA COMPLEMENTARIO DE SEGURIDAD SOCIAL".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Ajustes presupuestales
+
+Artículo segundo. La Secretaría de Administración y Finanzas y la Secretaría de Seguridad Pública deberán realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales para la aplicación de este decreto.
