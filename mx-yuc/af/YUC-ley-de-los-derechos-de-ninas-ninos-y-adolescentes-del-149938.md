@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-149938"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-23"
-last_updated: "2024-04-26"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 23 de junio de 2021.
 
@@ -93,11 +93,15 @@ XV. Procuraduría de protección: la Procuraduría de Protección de Niñas, Ni�
 
 XVI. Programa especial: el Programa Especial de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán.
 
-XVII. Secretaría ejecutiva: la Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
 
-XVIII. Sistema local de protección: el Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+XVII. Salud Mental: el estado de bienestar que permite a las niñas, niños y adolescentes el buen funcionamiento cognitivo, afectivo, conductual, que beneficia el despliegue óptimo de sus potencialidades individuales para la convivencia, el aprendizaje y la recreación, que favorezca su desarrollo integral y dignidad humana.
 
-XIX. Sistema municipal de protección: el Sistema de Protección Integral de Niñas, Niños y Adolescentes de cada municipio del estado de Yucatán.
+XVIII. Secretaría ejecutiva: la Secretaría Ejecutiva del Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+XIX. Sistema local de protección: el Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+XX. Sistema municipal de protección: el Sistema de Protección Integral de Niñas, Niños y Adolescentes de cada municipio del estado de Yucatán.
 
 ###### Artículo 3.
 
@@ -158,6 +162,10 @@ III. Adoptar medidas de protección especial de derechos de niñas, niños y ado
 IV. Impulsar la cultura de respeto, promoción y protección de los derechos de niñas, niños y adolescentes, basada en los principios rectores de esta ley.
 
 V. Desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida para hacer efectiva la Ley de Protección a la Maternidad y la Infancia Temprana del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+VI. Determinar las acciones necesarias que garanticen el fomento, la promoción y preservación de la salud mental de las niñas, niños y adolescentes, en términos de lo establecido en la Ley de Salud Mental del Estado de Yucatán.
 
 El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes.
 
@@ -583,7 +591,11 @@ IV. Establecer mecanismos para fomentar el uso responsable y seguro de las tecno
 
 V. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo.
 
-VI. Las demás que establezcan la ley general, esta ley, su reglamento y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+VI. Incluir dentro del sistema educativo estatal la educación emocional, como una herramienta adecuada en materia de salud mental en las niñas, niños y adolescentes a través de instrumentos que favorezcan el desarrollo de la inteligencia emocional y su aplicación en las situaciones cotidianas y por extensión, el fomento de actitudes positivas ante la vida, y el aprendizaje de habilidades sociales y de escucha, de mediación, empatía, entre otras, como factores de desarrollo de bienestar individual y comunitario. Todo lo anterior, de conformidad con lo establecido en la Ley de Educación del Estado de Yucatán.
+
+VII. Las demás que establezcan la ley general, esta ley, su reglamento y otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 39.
 
@@ -1034,3 +1046,15 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Y
 Artículo quinto. Régimen de vigencia especial
 
 Hasta en tanto se emitan los lineamientos correspondientes por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, continuará aplicándose el Acuerdo DIF 07/SO/2a/2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014.
+
+D.O. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 763/2024 POR EL QUE SE MODIFICA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN, EN MATERIA DE SALUD MENTAL”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Clausula derogatoria
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este decreto.
