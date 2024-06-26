@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2024-04-15"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE JUNIO DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -74,6 +74,10 @@ El Secretario será asistido en sus funciones por un Secretario Adjunto quien pa
 > <small>(REFORMADO, D.O.F. 15 DE NOVIEMBRE DE 2018)</small>
 
 La Junta de Gobierno y sus miembros contarán con los investigadores técnicos que la propia Junta determine y que el Banco contratará en los términos que esta establezca. Dichos investigadores técnicos no quedarán comprendidos en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México, ni tendrán facultades de representación, en términos de los artículos 8o. y 9o. de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 26 DE JUNIO DE 2024)</small>
+
+La limitante a que se refiere el párrafo anterior, no será aplicable a los investigadores técnicos que tengan un nivel equivalente a Director o superior y que sean designados expresamente por la Gobernadora o el Gobernador, representantes del Banco ante dependencias federales, organismos, órganos colegiados y demás entidades en las que éste participe.
 
 > <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2019)</small>
 
@@ -345,9 +349,9 @@ Para los efectos del párrafo anterior, se entenderá por fideicomisos de foment
 
 Para los mismos efectos de los párrafos anteriores, se entenderá por entidades financieras de desarrollo a Nacional Financiera, S.N.C.; Banco Nacional de Comercio Exterior, S.N.C.; Banco Nacional de Obras y Servicios, S.N.C.; Sociedad Hipotecaria Federal, S.N.C.; Banco del Ahorro Nacional y Servicios Financieros, S.N.C.; Banco Nacional del Ejército, Fuerza Aérea y Armada, S.N.C.; la Financiera Nacional de Desarrollo Agropecuario, Rural, Forestal y Pesquero; Agroasemex, S.A. de C.V., y Seguros de Crédito a la Vivienda SHF, S.A. de C.V.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2024)</small>
 
-Con independencia de lo dispuesto en los tres párrafos anteriores, para los efectos del presente Reglamento, se entenderá por Fondo Mexicano del Petróleo al fideicomiso público del Estado a que se refiere el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+Con independencia de lo dispuesto en los tres párrafos anteriores, para los efectos del presente Reglamento, se entenderá por Fondo Mexicano del Petróleo al fideicomiso público del Estado a que se refiere el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo; asimismo, por Fondo de Pensiones para el Bienestar se entenderá al fideicomiso público no considerado entidad paraestatal a que se refiere el Decreto del Fondo de Pensiones para el Bienestar, publicado en el Diario Oficial de la Federación el 1 de mayo de 2024.
 
 > <small>(ADICIONADO, D.O.F. 26 DE AGOSTO DE 2019)</small>
 
@@ -383,9 +387,9 @@ Las facultades referidas en el párrafo que antecede, tratándose de actos de do
 
 A la extinción de cualquier fideicomiso, los delegados fiduciarios generales en representación del Banco como fiduciario, atenderán los requerimientos que formulen toda clase de autoridades, incluyendo las judiciales y administrativas, así como los particulares en términos de las disposiciones aplicables. Dichos delegados podrán actuar en forma individual.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 26 DE JUNIO DE 2024)</small>
 
-La limitante a que se refiere el segundo párrafo del presente artículo no será aplicable a los funcionarios adscritos a las Coordinaciones del Fondo Mexicano del Petróleo que sean designados delegados fiduciarios especiales en el Fondo Mexicano del Petróleo.
+La limitante a que se refiere el segundo párrafo del presente artículo no será aplicable a los funcionarios adscritos a las Coordinaciones del Fondo Mexicano del Petróleo que sean designados delegados fiduciarios especiales en el Fondo Mexicano del Petróleo, ni a los funcionarios que sean designados delegados fiduciarios especiales en el Fondo de Pensiones para el Bienestar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
@@ -899,6 +903,10 @@ VIII. Participar con la Dirección de Administración de Riesgos en el diseño d
 
 IX. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
 
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2024)</small>
+
+X. Realizar, en conjunto con las demás unidades administrativas competentes, según corresponda, los actos relacionados con los fideicomisos, mandatos o comisiones que se encomienden al Banco, salvo los que expresamente confiera este Reglamento a otra unidad administrativa.
+
 Los trabajadores del Banco adscritos a la Dirección de Operaciones Internacionales, que cuenten con instrucciones escritas del titular de la Dirección citada, en ejercicio de las funciones que correspondan a la Unidad Administrativa de que dependan, podrán celebrar, en forma individual o mancomunada, las operaciones previstas en la fracción I del presente artículo, realizándolas por escrito, vía telefónica, por medios electrónicos, ópticos o por cualquier otra tecnología, o por signos inequívocos.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
@@ -984,6 +992,10 @@ XVII. Diseñar, elaborar e implantar los sistemas y proporcionar los servicios d
 > <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
 XVIII. Proporcionar, en el ámbito de su competencia, a la Dirección de Regulación y Supervisión, la información y documentación necesaria para que esta imponga, junto con la Dirección competente en términos del artículo 8o., las sanciones que correspondan.
+
+> <small>(ADICIONADA, D.O.F. 26 DE JUNIO DE 2024)</small>
+
+XIX. Operar los fideicomisos, mandatos o comisiones que se encomienden al Banco, relacionados con las atribuciones señaladas en las fracciones I a III de este artículo.
 
 > <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2019)</small>
 
@@ -3304,3 +3316,11 @@ PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de Méxic
 SEGUNDO. Todas las referencias a las unidades administrativas que en virtud de la entrada en vigor de las presentes modificaciones hayan cambiado de adscripción, y que se encuentren contenidas en cualquier otro acto jurídico, deberán entenderse hechas a las unidades administrativas que las sustituyan o cuenten con las atribuciones respectivas.
 
 TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
+
+D.O.F. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS "MODIFICACIONES AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO".]
+
+PRIMERO. Las presentes modificaciones al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
