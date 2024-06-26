@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-emprendedores-del-estado-de-yucatan-143146"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-09"
-last_updated: "2020-06-09"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EMPRENDEDORES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
 
 Ley publicada en el Número 34,196 del Diario Oficial del Estado de Yucatán, el martes 9 de junio de 2020.
 
@@ -47,9 +47,11 @@ LEY DE EMPRENDEDORES DEL ESTADO DE YUCATÁN
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE JUNIO DE 2024)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de la presente ley son de orden público e interés general tienen por objeto:
+Las disposiciones de la presente ley son de orden público e interés general, y tienen por objeto:
 
 I. Instrumentar, ejecutar, coordinar la política estatal de apoyo incluyente a emprendedores y a las micro, pequeñas y medianas empresas, impulsando su innovación, competitividad y proyección en los mercados estatales, nacionales e internacionales, sin menoscabo de lo dispuesto por las leyes federales de la materia.
 
@@ -70,6 +72,14 @@ VIII. Desarrollar las capacidades locales de las micro, pequeñas y medianas emp
 IX. Promover redes de emprendimiento científico que acorten las brechas de la transferencia en investigación científica, vigilancia tecnológica y apropiación de nuevos modelos, prototipos o desarrollos industriales a las MIPYMES a través de la economía del conocimiento.
 
 X. Establecer programas de formación emprendedora y de impulso a la creación e incremento productivo y competitivo de MIPYMES, integrando e incentivando la participación de organizaciones públicas y privadas del ecosistema emprendedor del estado.
+
+> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
+
+XI. Fomentar la instalación de empresas creadas por mujeres con el propósito de impulsar su inserción en el mercado laboral y su participación en el sector formal de la economía, a través de la cultura del emprendimiento con perspectiva de género.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Todas las acciones y disposiciones establecidas en la presente ley deberán contribuir en todo momento a la igualdad de oportunidades entre mujeres y hombres en el Estado.
 
 ###### Artículo 2.
 
@@ -105,53 +115,73 @@ XIV. Ecosistema emprendedor: comunidad formada por organizaciones que interactú
 
 XV. Emprendedores: personas que identifican una oportunidad y comienzan con el proceso de crear, desarrollar o consolidar una empresa a partir de una idea.
 
-XVI. Empresa: la persona física o moralmente constituida, cuyo objeto sea el de llevar a cabo actividades económicas para la producción o intercambio de bienes o servicios para el mercado, con la cual se celebran los convenios en los términos de la presente ley.
+> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
 
-XVII. Empresario: es toda aquella persona, que ejercita y desarrolla una actividad empresarial mercantil, en nombre propio, con habitualidad, adquiriendo la titularidad de las obligaciones y derechos que se derivan de tal actividad, siendo esta una actividad organizada en función de una producción o un intercambio de bienes y servicios en el mercado.
+XVI. Emprendimiento: el proceso de iniciar o elaborar un proyecto, a través de la identificación de ideas y oportunidades que permitan crear una empresa o desarrollar un plan de negocio viable en términos económicos, sociales, políticos, ambientales, endógenos y de mercados, a fin de generar una alternativa para el mejoramiento en la calidad de vida de las personas.
 
-XVIII. FabLab: acrónimo del inglés Fabrication Laboratory; es un taller de fabricación digital, un espacio de producción de objetos físicos a escala personal o local que agrupa máquinas controladas por ordenadores.
+XVII. Empresa: la persona física o moralmente constituida, cuyo objeto sea el de llevar a cabo actividades económicas para la producción o intercambio de bienes o servicios para el mercado, con la cual se celebran los convenios en los términos de la presente ley.
 
-XIX. Fomento emprendedor: el desarrollo de la cultura emprendedora por medio del estudio de temas que despierten el interés de los ciudadanos por convertirse en agentes de cambio y satisfagan sus metas a través de su propia acción, generando riqueza para sí y su comunidad en un marco de libertad, legalidad y responsabilidad.
+XVIII. Empresario: es toda aquella persona, que ejercita y desarrolla una actividad empresarial mercantil, en nombre propio, con habitualidad, adquiriendo la titularidad de las obligaciones y derechos que se derivan de tal actividad, siendo esta una actividad organizada en función de una producción o un intercambio de bienes y servicios en el mercado.
 
-XX. Fondo para el emprendedor: recurso conformado por un porcentaje que designe la Secretaría de Administración y Finanzas para el desarrollo económico del Estado de Yucatán.
+XIX. FabLab: acrónimo del inglés Fabrication Laboratory; es un taller de fabricación digital, un espacio de producción de objetos físicos a escala personal o local que agrupa máquinas controladas por ordenadores.
 
-XXI. Incubadora: órgano encargado del impulso, desarrollo y asesoramiento de la actividad productiva económica de proyectos de negocios para la realización exitosa de nuevas empresas, así como de la selección de tales proyectos para el otorgamiento de los beneficios señalados en esta ley.
+XX. Fomento emprendedor: el desarrollo de la cultura emprendedora por medio del estudio de temas que despierten el interés de los ciudadanos por convertirse en agentes de cambio y satisfagan sus metas a través de su propia acción, generando riqueza para sí y su comunidad en un marco de libertad, legalidad y responsabilidad.
 
-XXII. Incubadoras básicas: grupo de empresas de los sectores tradicional artesanal, industrial, comercial y de servicios, cuyos requerimientos de infraestructura física, tecnológica y de personal, así como sus mecanismos de operación básicos que incorporan poco valor agregado en el proceso productivo e involucran procesos y procedimientos intensivos en mano de obra.
+XXI. Fondo para el emprendedor: recurso conformado por un porcentaje que designe la Secretaría de Administración y Finanzas para el desarrollo económico del Estado de Yucatán.
 
-XXIII. Incubadoras de alto impacto: grupo de empresas de los sectores industrial, comercial y de servicios, con procesos semi especializados, en el entendido que realizan transformaciones de la materia prima, para generar productos terminados, incorporando elementos tecnológicos; involucran el uso intensivo o semi intensivo de los bienes de capital y recursos humanos especializados y capacitado técnicamente para realizar la actividad primordial de la empresa.
+XXII. Incubadora: órgano encargado del impulso, desarrollo y asesoramiento de la actividad productiva económica de proyectos de negocios para la realización exitosa de nuevas empresas, así como de la selección de tales proyectos para el otorgamiento de los beneficios señalados en esta ley.
 
-XXIV. Instituto: el Instituto Yucateco de Emprendedores.
+XXIII. Incubadoras básicas: grupo de empresas de los sectores tradicional artesanal, industrial, comercial y de servicios, cuyos requerimientos de infraestructura física, tecnológica y de personal, así como sus mecanismos de operación básicos que incorporan poco valor agregado en el proceso productivo e involucran procesos y procedimientos intensivos en mano de obra.
 
-XXV. Jóvenes: para los efectos del presente ordenamiento, se entiende toda aquella persona física entre los 18 y los 35 años de edad.
+XXIV. Incubadoras de alto impacto: grupo de empresas de los sectores industrial, comercial y de servicios, con procesos semi especializados, en el entendido que realizan transformaciones de la materia prima, para generar productos terminados, incorporando elementos tecnológicos; involucran el uso intensivo o semi intensivo de los bienes de capital y recursos humanos especializados y capacitado técnicamente para realizar la actividad primordial de la empresa.
 
-XXVI. MIPYMES: las micro, pequeñas y medianas empresas legalmente constituidas, con base a lo estipulado en la Ley de Desarrollo Económico del Estado de Yucatán.
+XXV. Instituto: el Instituto Yucateco de Emprendedores.
 
-XXVII. No político: no vinculado a ningún partido o autoridad política del Estado.
+XXVI. Jóvenes: para los efectos del presente ordenamiento, se entiende toda aquella persona física entre los 18 y los 35 años de edad.
 
-XXVIII. Organizaciones empresariales: las cámaras empresariales y sus confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante la federación, y los municipios del Estado de Yucatán.
+XXVII. MIPYMES: las micro, pequeñas y medianas empresas legalmente constituidas, con base a lo estipulado en la Ley de Desarrollo Económico del Estado de Yucatán.
 
-XXIX. Profesional: ejercicio temporal de una actividad supervisada por especialistas en el tema.
+XXVIII. No político: no vinculado a ningún partido o autoridad política del Estado.
 
-XXX. Programas: esquemas para la ejecución de acciones y participación de la Federación, las entidades federativas y municipios.
+XXIX. Organizaciones empresariales: las cámaras empresariales y sus confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante la federación, y los municipios del Estado de Yucatán.
 
-XXXI. Proyecto incubado de negocios: es un documento escrito elaborado por un emprendedor o empresario, que define claramente los objetivos de un negocio y describe los métodos que van a emplearse para alcanzar los objetivos. Es una serie de actividades relacionadas entre sí para el comienzo o desarrollo de un proyecto con un sistema de planeación tendiente a alcanzar metas determinadas.
+XXX. Profesional: ejercicio temporal de una actividad supervisada por especialistas en el tema.
 
-XXXII. Sector público: dependencia y entidades de la Administración Pública Federal, Estatal y Municipal.
+XXXI. Programas: esquemas para la ejecución de acciones y participación de la Federación, las entidades federativas y municipios.
 
-XXXIII. Sectores: los sectores privado, social y del conocimiento.
+XXXII. Proyecto incubado de negocios: es un documento escrito elaborado por un emprendedor o empresario, que define claramente los objetivos de un negocio y describe los métodos que van a emplearse para alcanzar los objetivos. Es una serie de actividades relacionadas entre sí para el comienzo o desarrollo de un proyecto con un sistema de planeación tendiente a alcanzar metas determinadas.
 
-XXXIV. Sistema: el Sistema Nacional para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana empresa.
+XXXIII. Sector público: dependencia y entidades de la Administración Pública Federal, Estatal y Municipal.
 
-XXXV. Transparente: actitud o actuación pública que muestra, sin ocultar o silenciar, la realidad de los hechos.
+XXXIV. Sectores: los sectores privado, social y del conocimiento.
 
-XXXVI. Universal: referente a todo el país, a todos los tiempos, a todas las personas.
+XXXV. Sistema: el Sistema Nacional para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana empresa.
 
-XXXVII. Viable: que puede ser factible y realizable.
+XXXVI. Transparente: actitud o actuación pública que muestra, sin ocultar o silenciar, la realidad de los hechos.
+
+XXXVII. Universal: referente a todo el país, a todos los tiempos, a todas las personas.
+
+XXXVIII. Viable: que puede ser factible y realizable.
 
 ###### Artículo 3.
 
 Para dar cumplimiento a lo dispuesto en la presente ley, el Poder Ejecutivo del Estado deberá generar condiciones de competencia en igualdad de oportunidades y estimular su capacidad emprendedora, para así liberar las potencialidades creativas y aportar al sostenimiento de las fuentes productivas y a un desarrollo regional equilibrado.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+Artículo 3 bis.- En el desarrollo de las actividades emprendedoras, se deberá priorizar en todo momento, lo siguiente:
+
+I. La formación y desarrollo integral del ser humano a través de distintos conocimientos, valores y aptitudes que coadyuven al crecimiento personal e impacten de manera positiva en su autoestima y autonomía.
+
+II. El sentido de pertenencia de las personas que participen en los emprendimientos para procurar que se consideren parte de una comunidad o equipo de trabajo, lo cual les permitirá reconocer conscientemente la responsabilidad que tienen como integrantes de una sociedad.
+
+III. La innovación como la herramienta para desarrollar constantemente la creatividad y el aprendizaje, así como para incrementar la competitividad de la economía de una población por medio de ideas, productos o servicios novedosos.
+
+IV. El fortalecimiento de los procesos de trabajo asociativos y en equipo, que ayuden a crear un impacto social responsable y positivo a través de sus ideas, proyectos, servicios o productos.
+
+V. La sostenibilidad de los procesos de emprendimiento, con la finalidad de proteger y cuidar el medio ambiente, la naturaleza, sus recursos y su comunidad desde una perspectiva social, cultural, ambiental y regional.
+
+VI. La difusión de procedimientos, normas, reglas, programas, apoyos e incentivos de los diferentes niveles de gobierno que estimulen la investigación en los emprendimientos, para generar diversos cambios positivos en la sociedad en aras del bien común.
 
 ### CAPÍTULO II. Del Desarrollo de la Micro, Pequeña y Mediana Empresa
 
@@ -344,6 +374,10 @@ VI. El fondo deberá ser utilizado únicamente para empresas establecidas en ter
 VII. El Fondo deberá canalizar una fracción de los recursos a la operación de incubadoras y aceleradoras de negocio, que previamente hayan sido consideradas en la red estatal a la que se hace referencia en el artículo 13 de esta ley; así como para instituciones educativas que realicen programas de fomento al emprendimiento.
 
 El Comité técnico informará al Consejo sobre las acciones a que se refiere el presente artículo, conforme a la Ley de Transparencia y de Acceso a la Información Pública del Estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+El otorgamiento de apoyos o financiamientos sujetos al saldo disponible en el Fondo se basará y regirá por los criterios de equidad, viabilidad económica, factibilidad, innovación y competitividad.
 
 ### CAPÍTULO V. Del Comité Técnico
 
@@ -632,3 +666,17 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 758/2024 POR EL QUE SE MODIFICA LA LEY DE EMPRENDEDORES DEL ESTADO DE YUCATÁN, EN MATERIA DE EMPRENDIMIENTO CON PERSPECTIVA DE GÉNERO”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
