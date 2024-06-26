@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-presupuesto-y-contabilidad-gubernamental-del-estado-777
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2022-12-29"
+last_updated: "2024-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77796&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 31 de diciembre de 2010.
 
@@ -294,6 +294,10 @@ El control y la evaluación financiera de dicho gasto corresponderán a la Secre
 Los poderes Legislativo y Judicial y los organismos autónomos, por conducto de sus respectivas áreas competentes, deberán coordinarse con la Secretaría para efectos de la programación y presupuestación en los términos previstos en esta ley y en la Ley de Disciplina Financiera. El control y la evaluación de dicho gasto corresponderán a los órganos competentes, en los términos previstos en sus respectivas leyes orgánicas y demás disposiciones legales aplicables.
 
 Lo anterior sin perjuicio de las atribuciones que corresponden a la Auditoría Superior del Estado y al órgano de evaluación previsto en el segundo párrafo del artículo 107 de la Constitución.
+
+> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
+
+La Secretaría, a más tardar el 1 de octubre del año correspondiente, para efectos de programación y presupuestación en los términos previstos en esta Ley y en la Ley de Disciplina Financiera, deberá de informar a la Junta de Gobierno y Coordinación Política del Poder Legislativo del Estado y al Consejo de la Judicatura del Poder Judicial del Estado; el monto máximo al que podrán acceder dentro de sus correspondientes presupuestos de egresos.
 
 ###### Artículo 8.
 
@@ -2922,3 +2926,15 @@ A la entrada en vigor de este decreto, continuará en funciones el Consejo Consu
 Cuarto. Continuidad del reglamento interno
 
 A la entrada en vigor de este decreto, continuará en vigor el Reglamento Interno del Consejo Consultivo del Presupuesto y Ejercicio del Gasto del Gobierno del Estado de Yucatán. Si fuese necesario ajustarlo a las disposiciones de este decreto el Consejo Consultivo de Presupuesto analizará la actualización de su reglamento interno en la primera sesión inmediata siguiente a la entrada en vigor de esta Ley.
+
+D.O. 26 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 761/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN; LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, Y LA LEY DEL PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE YUCATÁN, EN MATERIA DE IRREDUCTIBILIDAD DEL PRESUPUESTO DE LA AUDITORÍA SUPERIOR DEL ESTADO DE YUCATÁN Y DEL CONGRESO DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Aplicación
+
+Artículo segundo. Lo dispuesto en este decreto deberá ser aplicado en el presupuesto de egresos 2025 y posteriores.
