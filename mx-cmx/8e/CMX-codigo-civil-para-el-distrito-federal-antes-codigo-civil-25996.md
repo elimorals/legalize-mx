@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2024-04-23"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2024.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -2763,7 +2763,11 @@ ARTICULO 323 Sextus.- Los integrantes de la familia que incurran en violencia fa
 
 En todas las controversias derivadas de violencia familiar, el Juez dictará las medidas a que se refiere la fracción VII del artículo 282 de este Código.
 
-Artículo 323 Séptimus.- (DEROGADO, G.O. 4 DE AGOSTO DE 2017)
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 27 DE JUNIO DE 2024)</small>
+
+Artículo 323 Séptimus.- Para los efectos de este Código, la violencia vicaria, es cualquier acto u omisión cometido por quien mantenga o haya mantenido una relación de matrimonio, concubinato o de hecho con una mujer, y que por sí o por interpósita persona, ejerza violencia física, psicológica, sexual, económica o patrimonial contra ella, utilizando como medio a sus descendientes, ascendientes, personas con discapacidad o enfermedad que se encuentren bajo su cuidado, mediante amenazas, intimidación, puesta en peligro o cualesquier acto de violencia.
+
+A este tipo de violencia le será aplicable en lo conducente lo previsto en los artículos 323 Sextus y 444, párrafo primero, fracción XI de este Código, con independencia de lo previsto en el Código Penal en vigor en la Ciudad de México, y demás ordenamientos aplicables.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 18 DE AGOSTO DE 2011)</small>
 
@@ -3813,13 +3817,17 @@ VII. Cuando el que la ejerza sea condenado dos o más veces por delitos dolosos 
 
 VIII. Por el incumplimiento injustificado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir actos de violencia familiar, cuando estos actos hayan afectado a sus descendientes;
 
-> <small>(REFORMADA, G.O. 4 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2024)</small>
 
-IX. Cuando el menor haya sido sustraído o retenido ilícitamente, por quien ejerza ésta, y
+IX. Cuando el menor haya sido sustraído o retenido ilícitamente, por quien ejerza ésta;
 
-> <small>(ADICIONADA, G.O. 4 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, G.O. 27 DE JUNIO DE 2024)</small>
 
-X. Cuando el que la ejerza sea condenado por sentencia firme por el delito de feminicidio cometido en contra de la madre de las niñas, niños y adolescentes sujetos a la patria potestad.
+X. Cuando el que la ejerza sea condenado por sentencia firme por el delito de feminicidio cometido en contra de la madre de las niñas, niños y adolescentes sujetos a la patria potestad, y
+
+> <small>(ADICIONADA, G.O. 27 DE JUNIO DE 2024)</small>
+
+XI. En casos donde se configure violencia vicaria. Para efectos de esta fracción se estará a lo previsto en el artículo 323 Séptimus de este Código en relación con el artículo 201 del Código Penal para el Distrito Federal y artículo 6 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -15108,3 +15116,11 @@ G.O. 23 DE ABRIL DE 2024.
 PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 323 SÉPTIMUS; SE REFORMAN LAS FRACCIONES IX Y X, Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 444; AMBOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL. SE REFORMA LA NUMERACIÓN DEL CAPÍTULO ÚNICO, COMO CAPÍTULO I DEL TÍTULO OCTAVO DEL LIBRO SEGUNDO; SE ADICIONA UN CAPÍTULO II AL TÍTULO OCTAVO DEL LIBRO SEGUNDO; Y SE ADICIONA UN ARTÍCULO 201 TER AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
