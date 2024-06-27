@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2024-01-03"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -77,13 +77,17 @@ VIII. Preservar y difundir el patrimonio cultural del Estado de San Luis Potosí
 
 IX. Vincular la cultura al desarrollo educativo, social, turístico y económico del Estado, fortaleciendo la cohesión comunitaria, la cultura de paz y el cuidado del medio ambiente;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2024)</small>
 
-X. Propiciar el predominio del interés general, sobre el interés particular, y
+X. Propiciar el predominio del interés general, sobre el interés particular;
 
-> <small>(ADICIONADA, P.O. 26 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2024)</small>
 
-XI. Reconocer y garantizar el derecho a la identidad cultural de los individuos.
+XI. Reconocer y garantizar el derecho a la identidad cultural de los individuos, y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2024)</small>
+
+XII. Garantizar y promover la igualdad de género, en materia de cultura.
 
 ###### ARTICULO 4º.
 
@@ -122,6 +126,10 @@ XIII. Gestor cultural: es toda aquella persona que, partiendo de una valoración
 > <small>(ADICIONADA, P.O. 26 DE MAYO DE 2018)</small>
 
 XIV. Identidad cultural: sentido de coincidencia de una persona con un determinado grupo o cultura, en la medida en que es afectado por su pertenencia a la misma;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2024)</small>
+
+XIV BIS. Igualdad de género: situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en el ámbito cultural.
 
 XV. Industrias culturales: conjunto de empresas cuya finalidad es la producción, distribución, difusión, promoción y reproducción de productos culturales y artísticos, actividades que tienen como base los derechos de la propiedad intelectual, con fines comerciales. Las industrias culturales se refieren a las casas editoras, productoras discográficas, escénicas y cinematográficas, de video y productos multimedia, entre otras;
 
@@ -177,11 +185,11 @@ VI. Las instituciones coadyuvantes.
 
 Además de las autoridades señaladas en el artículo anterior; también serán coadyuvantes dentro del ámbito de su competencia, en la aplicación de la presente Ley, las dependencias y entidades de la administración pública estatal, y Federal.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2024)</small>
 
-###### ARTÍCULO 8.
+###### ARTÍCULO 8°.
 
-Las autoridades encargadas de la aplicación de esta Ley se coordinarán entre sí, para elaborar los programas de desarrollo cultural del Estado de San Luis Potosí, así como para su aplicación en el ámbito respectivo, a fin de que la política cultural en la Entidad abarque a todos sus municipios, individuos, comunidades y grupos sociales, procurando fomentar la igualdad de género, no discriminación, inclusión social, justicia, solidaridad, respeto y responsabilidad social.
+Las autoridades encargadas de la aplicación de esta Ley se coordinarán entre sí, para elaborar los programas de desarrollo cultural del Estado de San Luis Potosí, así como para su aplicación en el ámbito respectivo, a fin de que la política cultural en la Entidad abarque a todos sus municipios, individuos, comunidades y grupos sociales, garantizando la igualdad de género, no discriminación, inclusión social, justicia, solidaridad, respeto y responsabilidad social.
 
 ### CAPITULO II. De sus Atribuciones
 
@@ -227,9 +235,9 @@ I. Garantizar los derechos culturales de todos los potosinos y habitantes del Es
 
 II. Elaborar el Programa Sectorial de Cultura del Estado, a efecto de someterlo a la aprobación del titular del Poder Ejecutivo, así como ejecutarlo y evaluarlo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE CREACIÓN DE LA PRESENTE LEY.</small>
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2024)</small>
 
-III. Administrar y ejecutar, de conformidad con la normatividad vigente, los recursos asignados anualmente en la Ley del Presupuesto de Egresos del Estado de San Luis Potosí; así como gestionar y administrar otros apoyos financieros, materiales y técnicos, tanto con el gobierno federal, gobiernos municipales, y la sociedad civil, con el propósito de hacer posible el cumplimiento de las metas y acciones señaladas en el Programa Sectorial de Cultura;
+III. Administrar y ejecutar, de conformidad con la normatividad vigente, incluyendo lo relativo a la perspectiva de género, los recursos asignados anualmente en la Ley del Presupuesto de Egresos del Estado de San Luis Potosí; así como gestionar y administrar otros apoyos financieros, materiales y técnicos, tanto con el gobierno federal, gobiernos municipales, y la sociedad civil, con el propósito de hacer posible el cumplimiento de las metas y acciones señaladas en el Programa Sectorial de Cultura;
 
 IV. Proponer anualmente, de acuerdo a la Ley de Presupuesto Contabilidad y Gasto Público del Estado de San Luis Potosí, en el presupuesto total de egresos para el desarrollo cultural, un porcentaje no menor del uno por ciento del mismo;
 
@@ -906,6 +914,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0989.- SE REFORMA EL ARTÍCULO 11 EN SUS FRACCIONES II Y III; Y ADICIONA AL MISMO ARTÍCULO 11 LA FRACCIÓN II BIS, DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1057.- SE REFORMA EL ARTÍCULO 8° Y LA FRACCIÓN III DEL ARTÍCULO 10; Y ADICIONA LA FRACCIÓN XII AL ARTÍCULO 3° Y FRACCIÓN XIV BIS, AL ARTÍCULO 5°, TODAS DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
