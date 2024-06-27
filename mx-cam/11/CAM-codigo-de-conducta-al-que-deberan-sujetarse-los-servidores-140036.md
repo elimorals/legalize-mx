@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-al-que-deberan-sujetarse-los-servidores-1400
 country: "mx"
 rank: "codigo"
 publication_date: "2019-10-18"
-last_updated: "2019-10-18"
+last_updated: "2024-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA AL QUE DEBERAN SUJETARSE LOS SERVIDORES PUBLICOS DE LA PROMOTORA PARA LA CONSERVACION Y DESARROLLO SUSTENTABLE DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA PROMOTORA PARA LA CONSERVACIÓN Y DESARROLLO SUSTENTABLE DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 27 DE JUNIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LOS SERVIDORES PÚBLICO DE LA PROMOTORA PARA LA CONSERVACIÓN Y DESARROLLO SUSTENTABLE DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2024 (ABROGADO).
 
 Código publicado en el Número 1041 del Periódico Oficial del Estado de Campeche, el viernes 18 de octubre de 2019.
 
@@ -418,3 +420,17 @@ TERCER VOCAL MIEMBRO
 PROPIETARIO TEMPORAL
 
 PROMOTORA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA PROMOTORA PARA LA CONSERVACIÓN Y DESARROLLO SUSTENTABLE DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+Aprobado en Sesión ordinaria del Comité de Ética de la Promotora para la Conservación y Desarrollo Sustentable del Estado de Campeche, en la ciudad de San Francisco de Campeche, Estado y Municipio de Campeche, de fecha 14 de junio de 2024.
+
+SEGUNDO. El presente Acuerdo se abroga el Código de Conducta al que deberán sujetarse los servidores públicos de la Promotora para la Conservación y Desarrollo Sustentable del Estado de Campeche, publicado el 18 de octubre de 2019.
+
+TERCERO. Se instruye a toda persona servidora pública de la Ética de la Promotora para la Conservación y Desarrollo Sustentable del Estado de Campeche, a efecto de que pongan en práctica las medida necesarias y pertinentes para dar debido cumplimiento a lo establecido en el presente Acuerdo.
