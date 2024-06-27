@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-prevencion-y-atencion-integral-de-las-adicciones-del-139
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-09"
-last_updated: "2020-01-09"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE PREVENCIÓN Y ATENCIÓN INTEGRAL DE LAS ADICCIONES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Vespertina del Número 34,072 del Diario Oficial del Estado de Yucatán, el jueves 9 de enero de 2020.
 
@@ -365,11 +365,37 @@ VI.- Evaluar los programas y actuaciones de intervención en promoción de la sa
 
 La promoción de la salud implicará a todas las personas y los grupos que, por su ámbito de actuación, puedan favorecer y facilitar la difusión de las estrategias para prevenir las adicciones.
 
-### Capítulo I. De las Adicciones
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 27 DE JUNIO DE 2024)</small>
+
+### Capítulo IV. De la Prevención Integral de las Adicciones
+
+> <small>(ADICIONADO, D.O. 27 DE JUNIO DE 2024)</small>
+
+Artículo 19 bis.- La prevención integral de las adicciones deberá ser ejecutada con base en metodologías o modelos basados en evidencia científica y con resultados comprobables a través del tiempo y que contengan como mínimo los siguientes elementos:
+
+I. Componentes de prevención universal, selectiva o indicada, perspectiva de infancias, juventudes, género, interculturalidad y no discriminación.
+
+II. Acciones que favorezcan el retraso de la edad de inicio de consumo de sustancias adictivas o su inhibición a través de estrategias dirigidas a las áreas de desarrollo de las infancias y adolescencias como lo son, sus familias, grupos de pares, ambientes escolares y el tiempo libre.
+
+III. Encuestas anuales o bianuales que identifiquen los factores protectores y mitiguen los factores de riesgo a niveles individual, interpersonal, comunitario y social.
+
+IV. Difusión de los resultados de encuestas, y diagnósticos locales hacia toda la comunidad y sociedad en general.
+
+V. Alineación de las políticas públicas, objetivos y programas que implementan diversas dependencias y entidades del Poder Ejecutivo del Estado, orientadas a mitigar los factores de riesgo y, fortalecer los factores de protección identificados en los resultados basados en las evidencias de las encuestas y diagnósticos locales.
+
+VI. Coaliciones locales conformadas por autoridades estatales, municipales, sociedad civil organizada, sectores académicos, empresariales, liderazgos comunitarios, medios de comunicación, colectivos, activistas, agrupaciones y en general, cualquier persona que genere acciones prosociales para promover cambios que favorezcan entornos saludables a nivel comunitario y social.
+
+VII. Acciones que faciliten el empoderamiento de las y los integrantes de las comunidades para tomar decisiones preventivas prácticas, usando las evidencias de la información obtenida, así como diagnósticos locales y accesibles.
+
+VIII. Priorizar las escuelas como centros naturales de los esfuerzos para apoyar el aprendizaje y éxito de vida de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, D.O. 27 DE JUNIO DE 2024)</small>
+
+Artículo 19 ter.- Cuando la prevención de adicciones esté relacionada con la violencia y comisión de infracciones administrativas y delitos se dispondrá de lo establecido en el capítulo VI “Políticas de Prevención de adicciones a sustancias adictivas vinculadas a la violencia, comisión de infracciones administrativas y delitos” de la Ley para la Prevención Social de la Violencia y la Delincuencia del Estado de Yucatán.
 
 ## Título Segundo. Atención y Tratamiento
 
-### Capítulo II. Del Consumo de Sustancias Psicoactivas
+### Capítulo I. De las Adicciones
 
 ###### Artículo 20.
 
@@ -395,7 +421,7 @@ Las adicciones comportamentales se entenderán como aquellas conductas que, sin 
 
 En todo momento, las autoridades mencionadas por esta ley, así como las instituciones privadas o sociales, deben procurar el respeto irrestricto a los derechos humanos de las personas con alguna adicción, ya sea a sustancias o comportamental.
 
-### Capítulo III. Del Consumo de Tabaco
+### Capítulo II. Del Consumo de Sustancias Psicoactivas
 
 ###### Artículo 26.
 
@@ -421,7 +447,7 @@ IV.- Brindará la atención médica continua y especializada que requieran las p
 
 El Ejecutivo del Estado participará en los proyectos y acciones en materia de prevención de las adicciones y del narcomenudeo, en los términos y condiciones previstas en los convenios de coordinación que se suscriba con el Gobierno Federal.
 
-### Capitulo IV. Del Consumo de Bebidas Alcohólicas
+### Capítulo III. Del Consumo de Tabaco
 
 ###### Artículo 30.
 
@@ -595,7 +621,7 @@ Toda persona podrá interponer una denuncia personalmente ante la autoridad comp
 
 En las denuncias ciudadanas, la autoridad competente salvaguardará la identidad e integridad del ciudadano denunciante.
 
-### Capitulo V. De las Adicciones Comportamentales
+### Capitulo IV. Del Consumo de Bebidas Alcohólicas
 
 ###### Artículo 48.
 
@@ -643,7 +669,7 @@ VI.- Cumplir con los horarios autorizados para la venta, expendio o consumo de b
 
 VII.- Colocar en lugares visibles el horario autorizado de venta y consumo de bebidas alcohólicas, letreros con la prohibición de venta de bebidas alcohólicas a menores de edad, así como letreros con mensajes que orienten y prevengan sobre las consecuencias del abuso en el consumo de alcohol.
 
-### Capítulo VI. Del Juego Patológico o Ludopatía
+### Capitulo V. De las Adicciones Comportamentales
 
 ###### Artículo 51.
 
@@ -673,7 +699,7 @@ El Consejo Estatal incluirá dentro de su Programa, datos, indicadores, acciones
 
 El Programa Estatal para la Prevención y Atención Integral de las Adicciones deberá enfatizar en el estudio, análisis, abordaje y atención de las principales conductas que en la actualidad puedan resultar adictivas como los juegos de azar, juegos de video, uso de internet y redes sociales, el ejercicio, las compras, entre otras.
 
-### Capítulo I. Del Consejo Estatal para la Prevención y Atención Integral de las Adicciones
+### Capítulo VI. Del Juego Patológico o Ludopatía
 
 ###### Artículo 58.
 
@@ -755,7 +781,7 @@ Queda prohibido vender bebidas alcohólicas fuera de horario establecido por la 
 
 ## Título Tercero. Órgano Consultivo
 
-### Capítulo I. De los Centros o Establecimientos de Tratamiento
+### Capítulo I. Del Consejo Estatal para la Prevención y Atención Integral de las Adicciones
 
 ###### Artículo 66.
 
@@ -909,7 +935,7 @@ El Consejo Estatal conocerá de los informes, seguimiento y evaluación de los p
 
 ## Título cuarto. Participación Privada y Social
 
-### Capítulo I. Del Régimen Sancionatorio
+### Capítulo I. De los Centros o Establecimientos de Tratamiento
 
 ###### Artículo 81.
 
@@ -1025,6 +1051,8 @@ Además de la clausura o suspensión del centro o establecimiento referido, se p
 
 ## Título Quinto. Sanciones
 
+### Capítulo I. Del Régimen Sancionatorio
+
 ###### Artículo 97.
 
 Para los efectos de esta Ley, se sancionará a quien o quienes incurran en las siguientes conductas:
@@ -1126,3 +1154,25 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 27 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 766/2024 POR EL QUE SE EXPIDE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE YUCATÁN Y SE MODIFICA LA LEY DE PREVENCIÓN Y ATENCIÓN INTEGRAL DE LAS ADICCIONES DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo Segundo. El Congreso del Estado, en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir o modificar las disposiciones que fuesen necesarias para armonizar el marco jurídico estatal con las disposiciones contenidas en este decreto.
+
+Referencia al Centro Estatal de Prevención del Delito y Participación Ciudadana
+
+Artículo Tercero. Cuando en las leyes de las dependencias o entidades de la Administración Pública estatal y sus reglamentos o las disposiciones legales o normativas se haga referencia al Centro Estatal de Prevención del Delito y Participación Ciudadana de Yucatán, se entenderá que se refiere, en todos los casos, al Centro Estatal de Prevención Social del Delito y Participación Ciudadana de Yucatán.
+
+Instalación del consejo estatal
+
+Artículo Cuarto. El Consejo Estatal de Prevención Social se instalará en un plazo no mayor de sesenta días naturales, contados a partir de la entrada en vigor de este decreto.
