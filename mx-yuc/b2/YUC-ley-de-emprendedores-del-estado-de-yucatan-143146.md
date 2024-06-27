@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-emprendedores-del-estado-de-yucatan-143146"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-09"
-last_updated: "2024-06-26"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EMPRENDEDORES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE JUNIO DE 2024.
 
 Ley publicada en el Número 34,196 del Diario Oficial del Estado de Yucatán, el martes 9 de junio de 2020.
 
@@ -76,6 +76,10 @@ X. Establecer programas de formación emprendedora y de impulso a la creación e
 > <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
 
 XI. Fomentar la instalación de empresas creadas por mujeres con el propósito de impulsar su inserción en el mercado laboral y su participación en el sector formal de la economía, a través de la cultura del emprendimiento con perspectiva de género.
+
+> <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
+
+XII. Impulsar la inserción de las y los jóvenes al sector empresarial, así como fomentar su incorporación a la economía formal y fomentar su desarrollo.
 
 > <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
 
@@ -223,6 +227,10 @@ VI. Aplicación de tecnologías de vanguardia en el desarrollo de sus procesos p
 
 VII. Uso racional de recursos hídricos y la aplicación de sistemas de tratamiento y reciclado de agua.
 
+> <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
+
+VIII. Operación y/o desarrollo a cargo de jóvenes emprendedores.
+
 ###### Artículo 7.
 
 Para la ejecución de las políticas y acciones contenidas en el artículo anterior, deberán considerarse los siguientes rubros:
@@ -282,6 +290,10 @@ II. Crear programas de capacitación y asesoría para las áreas de fomento econ
 III. Promover un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES y emprendedores, considerando las necesidades, el potencial y vocación de cada región.
 
 IV. Celebrar acuerdos con municipios o grupo de municipios, para una promoción coordinada de las acciones de fomento para la competitividad de las MIPYMES y emprendedores, que desarrollen las propuestas regionales y la concurrencia de proyectos y programas.
+
+> <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
+
+V. Coadyuvar con instancias municipales de la juventud.
 
 ###### Artículo 12.
 
@@ -375,9 +387,17 @@ VII. El Fondo deberá canalizar una fracción de los recursos a la operación de
 
 El Comité técnico informará al Consejo sobre las acciones a que se refiere el presente artículo, conforme a la Ley de Transparencia y de Acceso a la Información Pública del Estado de Yucatán.
 
+> <small>[N. DE E. EL CONTENIDO DEL PENÚLTIMO PÁRRAFO ES SIMILAR AL ÚLTIMO PÁRRAFO.]</small>
+
 > <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
 
 El otorgamiento de apoyos o financiamientos sujetos al saldo disponible en el Fondo se basará y regirá por los criterios de equidad, viabilidad económica, factibilidad, innovación y competitividad.
+
+> <small>[N. DE E. EL CONTENIDO DEL ÚLTIMO PÁRRAFO ES SIMILAR AL PENÚLTIMO PÁRRAFO.]</small>
+
+> <small>(ADICIONADO, D.O. 27 DE JUNIO DE 2024)</small>
+
+El otorgamiento de apoyos y/o financiamientos sujetos al saldo disponible en el fondo se regirá por los principios de igualdad de condiciones, equidad, competitividad, viabilidad, factibilidad económica e innovación.
 
 ### CAPÍTULO V. Del Comité Técnico
 
@@ -583,6 +603,10 @@ XXVII. Impulsar y fomentar programas permanentes de servicio social y prácticas
 
 XXVIII. Coordinarse en forma permanente con secretarías, dependencias, organismos e instituciones de los tres órdenes de Gobierno, así como con los sectores social y privado que instrumenten acciones dirigidas a los emprendedores, a las MIPYMES y al mejoramiento de la calidad.
 
+> <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
+
+XXIX. Generar programas de fomento emprendedor mediante el desarrollo de competencias que estimulen la creatividad y el interés de la juventud en la cultura emprendedora, generando agentes de cambio que aporten al sostenimiento de las fuentes productivas y al desarrollo económico regional sostenible y equilibrado.
+
 ### CAPÍTULO VII. De las Inconformidades
 
 ###### Artículo 29.
@@ -680,3 +704,15 @@ Artículo primero. Este decreto entrará en vigor el día siguiente al de su pub
 Cláusula derogatoria
 
 Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+D.O. 27 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 771/2024 POR EL QUE SE REFORMA LA LEY DE EMPRENDEDORES DEL ESTADO DE YUCATÁN, EN MATERIA DE JÓVENES EMPRENDEDORES".]
+
+Entrada en vigor
+
+Artículo primero. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Derogación normativa.
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
