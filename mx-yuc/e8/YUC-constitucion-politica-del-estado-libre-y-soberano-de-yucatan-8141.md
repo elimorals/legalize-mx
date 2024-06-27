@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2024-06-26"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE SEPTIEMBRE DE 2024 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE JUNIO DE 2024.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -114,6 +116,10 @@ El derecho a la identidad constituye uno de los cimientos del desarrollo de la c
 > <small>(REFORMADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 Los derechos sociales del pueblo maya, se ejercerán de manera directa, a través de sus representantes, o de las autoridades establecidas. En la elección de sus representantes ante los ayuntamientos se observará el principio de paridad de género.
+
+> <small>(ADICIONADO, D.O. 27 DE JUNIO DE 2024)</small>
+
+Se reconoce a la actividad artesanal como una actividad económica tradicional y de subsistencia de las comunidades residentes en la entidad y como tal, será objeto de protección.
 
 > <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
@@ -1087,13 +1093,17 @@ LII.- Designar y, en su caso, remover a la persona Titular de la Agencia de Inte
 
 LIII.- Designar y, en su caso, remover a la persona Titular de la Secretaría Técnica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, conforme al procedimiento previsto en la ley orgánica de esta última;
 
-> <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, D.O. 27 DE JUNIO DE 2024)</small>
 
-LIV.- Designar, por el voto de las dos terceras partes de sus integrantes, a la persona titular de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, en los términos establecidos en esta Constitución y en las Leyes aplicables, y
+LIV.- Designar, por el voto de las dos terceras partes de sus integrantes, a la persona titular de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, en los términos establecidos en esta Constitución y en las Leyes aplicables;
+
+> <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
+
+LV.- Designar y, en su caso, remover a la persona Titular del Centro de Innovación Tecnológica de Yucatán, conforme al procedimiento previsto en esta Constitución, y
 
 > <small>(ADICIONADA, D.O. 20 DE ABRIL DE 2016)</small>
 
-LV.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
+LVI.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.
 
 > <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
@@ -1791,11 +1801,11 @@ Las percepciones de los defensores públicos no podrán ser inferiores a las que
 
 La ley regulará la integración, funcionamiento, competencia y administración del Instituto de la Defensoría Pública del Estado, conforme a lo dispuesto por esta Constitución y establecerá el servicio profesional de carrera para los servidores públicos adscritos a la defensoría pública.
 
+> <small>(ADICIONADO, D.O. 27 DE JUNIO DE 2024)</small>
+
+### CAPITULO VII. De la Procuraduría de Justicia Ambiental y Urbana
+
 > <small>(ADICIONADO, D.O. 1 DE ABRIL DE 2024)</small>
-
-### CAPITULO I. Del Poder Judicial
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 63 Bis.
 
@@ -1837,9 +1847,9 @@ La persona titular de la Procuraduría de Justicia Ambiental y Urbana no podrá 
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO II. De los Requisitos para ser Magistrado
+### CAPITULO I. Del Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 64.
 
@@ -1927,9 +1937,9 @@ Las leyes establecerán medios alternativos a la vía jurisdiccional contenciosa
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO III. De las Atribuciones del Tribunal Superior de Justicia
+### CAPITULO II. De los Requisitos para ser Magistrado
 
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 13 DE MARZO DE 2020)</small>
 
 ###### Artículo 65.
 
@@ -2033,7 +2043,7 @@ Los impedimentos previstos en este artículo serán aplicables a los servidores 
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO IV. Del Control Constitucional Local
+### CAPITULO III. De las Atribuciones del Tribunal Superior de Justicia
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -2077,7 +2087,9 @@ XII.- Las demás que le confieran esta Constitución y otras leyes.
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO V
+### CAPITULO IV. Del Control Constitucional Local
+
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 70.
 
@@ -2141,9 +2153,7 @@ VI.- Dictaminar, previa solicitud del Congreso, sobre la existencia de una causa
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
 
-### CAPITULO VI. Del Consejo de la Judicatura
-
-> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
+### CAPITULO V
 
 ###### Artículo 71.
 
@@ -2151,7 +2161,7 @@ VI.- Dictaminar, previa solicitud del Congreso, sobre la existencia de una causa
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPITULO VII. De las Disposiciones Generales
+### CAPITULO VI. Del Consejo de la Judicatura
 
 > <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
@@ -2225,9 +2235,9 @@ El Consejo de la Judicatura elaborará el presupuesto del Poder Judicial, el cua
 
 > <small>(ADICIONADO, D.O. 17 DE MAYO DE 2010)</small>
 
-### CAPÍTULO I. De las Disposiciones Generales
+### CAPITULO VII. De las Disposiciones Generales
 
-> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO Y REUBICADO, D.O. 17 DE MAYO DE 2010)</small>
 
 ###### Artículo 73.
 
@@ -2265,9 +2275,9 @@ El internamiento se utilizará como medida extrema, en el menor tiempo posible, 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO II. De la Comisión de Derechos Humanos del Estado de Yucatán
+### CAPÍTULO I. De las Disposiciones Generales
 
-> <small>(REFORMADO, D.O. 26 DE JULIO DE 2013)</small>
+> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 73 Ter.
 
@@ -2299,21 +2309,25 @@ VI.- La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucat�
 
 VII.- La Agencia de Transporte de Yucatán;
 
-> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, D.O. 27 DE JUNIO DE 2024)</small>
 
-VIII.- La Fiscalía General del Estado de Yucatán, y
+VIII.- La Fiscalía General del Estado de Yucatán;
 
-> <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, D.O. 27 DE JUNIO DE 2024)</small>
 
-IX.- La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán.
+IX.- La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, y
+
+> <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
+
+X.- El Centro de Innovación Tecnológica de Yucatán.
 
 Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo, rendirán informe de su cuenta pública en los términos que señale la ley en la materia.
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO III. Del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
+### CAPÍTULO II. De la Comisión de Derechos Humanos del Estado de Yucatán
 
-> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, D.O. 26 DE JULIO DE 2013)</small>
 
 ###### Artículo 74.
 
@@ -2329,9 +2343,9 @@ Todo servidor público del Estado de Yucatán está obligado a responder las rec
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE ABRIL DE 2016)</small>
 
-### CAPÍTULO IV. Del Instituto Electoral y de Participación Ciudadana de Yucatán
+### CAPÍTULO III. Del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
 
-(REFORMADO, D.O. 20 DE JUNIO DE 2014) (F. DE E., D.O. 26 DE MARZO DE 2019)
+> <small>(REFORMADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ###### Artículo 75.
 
@@ -2365,9 +2379,9 @@ El Instituto Estatal de Transparencia, Acceso a la Información Pública y Prote
 
 > <small>(REFORMADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO V. Del Tribunal Electoral del Estado de Yucatán
+### CAPÍTULO IV. Del Instituto Electoral y de Participación Ciudadana de Yucatán
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 20 DE JUNIO DE 2014)</small>
+(REFORMADO, D.O. 20 DE JUNIO DE 2014) (F. DE E., D.O. 26 DE MARZO DE 2019)
 
 ###### Artículo 75 Bis.
 
@@ -2395,9 +2409,9 @@ La ley determinará las bases del servicio profesional electoral nacional y las 
 
 > <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2014)</small>
 
-### CAPÍTULO VI. Del Tribunal de Justicia Administrativa del Estado de Yucatán
+### CAPÍTULO V. Del Tribunal Electoral del Estado de Yucatán
 
-> <small>(ADICIONADO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 75 Ter.
 
@@ -2413,9 +2427,9 @@ La Magistrada Presidenta o el Magistrado Presidente será designado de entre sus
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 20 DE ABRIL DE 2016)</small>
 
-### CAPÍTULO VII. De la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán
+### CAPÍTULO VI. Del Tribunal de Justicia Administrativa del Estado de Yucatán
 
-> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, D.O. 20 DE ABRIL DE 2016)</small>
 
 ###### Artículo 75 Quater.
 
@@ -2429,9 +2443,9 @@ Para ser designado Magistrado del Tribunal de Justicia Administrativa del Estado
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
-### CAPÍTULO VIII. De la Agencia de Transporte de Yucatán
+### CAPÍTULO VII. De la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán
 
-> <small>(ADICIONADO, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 75 Quinquies.
 
@@ -2445,9 +2459,9 @@ El Fiscal Especializado en Combate a la Corrupción no podrá tener otro empleo,
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
 
-### CAPÍTULO IX. De la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán
+### CAPÍTULO VIII. De la Agencia de Transporte de Yucatán
 
-> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(ADICIONADO, D.O. 12 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 75 Sexies.
 
@@ -2474,6 +2488,10 @@ La persona titular de la Agencia de Transporte de Yucatán no podrá tener otro 
 El presupuesto de la Agencia de Transporte de Yucatán no podrá ser disminuido respecto al del año inmediato anterior y se fijará anualmente.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 21 DE ABRIL DE 2023)</small>
+
+### CAPÍTULO IX. De la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán
+
+> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
 
 ###### Artículo 75 Septies.
 
@@ -2517,11 +2535,51 @@ La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán conta
 
 La persona Titular de la Secretaría Técnica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, será designada por el Congreso del Estado y durará en el cargo quince años, contados a partir de la fecha en la que rinda el compromiso constitucional respectivo, al término del cual no podrá ser ratificada para un segundo período. Para ocupar el cargo, deberá cumplir con los requisitos y el procedimiento que establezca la Ley Orgánica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán.
 
-(REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 27 DE JUNIO DE 2024)</small>
 
 ## TITULO OCTAVO. De los Municipios del Estado
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE NOVIEMBRE DE 2019)</small>
+
+### CAPITULO X. Del Centro de Innovación Tecnológica de Yucatán
+
+> <small>(ADICIONADO, D.O. 27 DE JUNIO DE 2024)</small>
+
+###### Artículo 75 Octies.
+
+El Centro de Innovación Tecnológica de Yucatán es un organismo público autónomo, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, presupuestal y de gestión, con capacidad para determinar su organización interna y el ejercicio de sus recursos con arreglo a las normas aplicables, cuyo objeto es coadyuvar en la adopción de mejores prácticas de tecnología, innovación y seguridad digital en el estado de Yucatán. Así como propiciar el pleno ejercicio y acceso a los derechos humanos relacionados con las tecnologías y la innovación.
+
+El Centro se encargará también de impulsar la innovación y la accesibilidad en el ámbito digital, fomentando y proponiendo la generación de proyectos que contribuyan al desarrollo económico, social y cultural del estado, a través de la colaboración entre sectores público, privado y social para garantizar su implementación efectiva y continua.
+
+Todo ello alineado con el compromiso de promover un entorno tecnológico que contribuya al desarrollo integral y sostenible de Yucatán.
+
+La persona titular del Centro de Innovación Tecnológica de Yucatán durará en el cargo cinco años, contados a partir de la fecha en la que rinda el compromiso constitucional, con posibilidad de ocuparlo por dos periodos más de cinco años cada uno, siempre y cuando el Congreso no decida, por el voto de las dos terceras partes de sus integrantes, su no ratificación en cada ocasión.
+
+La persona Titular del Centro a que se refiere este artículo podrá ser removida por causas graves por el Congreso, a solicitud de, al menos, las dos terceras partes de los diputados que lo integran. Una vez recibida la solicitud, el Congreso integrará un expediente y lo remitirá al Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, que le dará vista a la persona Titular del Centro para que, dentro de un plazo de quince días hábiles, presente las pruebas y alegatos que considere o manifieste lo que a su derecho convenga. Una vez transcurrido el plazo, recibido o no documento alguno de la persona Titular del Centro, el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, dentro de un plazo de sesenta días hábiles, integrará el expediente y emitirá un dictamen donde califique si las causas son graves. Si el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, califica como graves las causas, el Congreso podrá remover a la persona Titular del Centro por el voto de las dos terceras partes de los diputados que lo integran. En caso de que la causa no sea calificada como grave por el Pleno del Tribunal Superior de Justicia, erigido en Tribunal Constitucional, se notificará el dictamen en ese sentido al Pleno del Congreso del Estado, a fin de declarar el cierre del procedimiento iniciado, continuando en su encargo la persona Titular del Centro por el tiempo por el que fue designada.
+
+Para efectos de lo previsto en el párrafo anterior, serán consideradas como causas graves las contempladas en el Capítulo II del Título Tercero del Libro Primero de la Ley General de Responsabilidades Administrativas; así como encontrarse compurgando sentencia firme por la comisión de uno o más delitos que ameriten prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos y 167 del Código Nacional de Procedimientos Penales; adquirir incapacidad total o permanente que impida el correcto ejercicio de sus funciones durante más de seis meses, dictaminada por médico competente y cometer violaciones graves a esta Constitución.
+
+Para ser titular del Centro de Innovación Tecnológica de Yucatán se deberán cumplir los siguientes requisitos:
+
+I. Ser persona ciudadana mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos.
+
+II. Tener cuando menos veinticinco años cumplidos el día de su designación.
+
+III. Contar, al día de su designación, con estudios de maestría o posgrado en innovación, tecnología, administración pública, políticas públicas o carrera afín a estas materias.
+
+IV. Acreditar tener, cuando menos, cinco años de experiencia comprobable en materia de innovación, tecnología, políticas públicas, administración o en un área afín a estas materias.
+
+V. No ser deudor alimentario moroso.
+
+VI. No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio.
+
+La persona titular del Centro de Innovación Tecnológica de Yucatán será designada mediante el siguiente procedimiento: la persona titular del Poder Ejecutivo someterá una terna a consideración del Congreso del estado, quien designará a quien deba ocupar el cargo, mediante el voto de las dos terceras partes de sus integrantes presentes en la sesión de que se trate. En caso de que no se alcance la votación requerida, la persona titular del Poder Ejecutivo someterá otra terna a la consideración del Congreso. En caso (sic) que nuevamente no se alcance la votación requerida, ocupará el cargo la persona que designe la persona titular del Poder Ejecutivo, que deberá ser integrante de la segunda terna propuesta.
+
+La persona titular del Centro de Innovación Tecnológica de Yucatán no podrá tener otro empleo, cargo o comisión, en los sectores público, social o privado, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación o de beneficencia.
+
+El presupuesto del Centro de Innovación Tecnológica de Yucatán no podrá ser disminuido respecto al del año inmediato anterior y se incrementará anualmente, al menos, conforme al resultado de la inflación general anual registrada para el mes de diciembre del año anterior, publicado por el Instituto Nacional de Estadística y Geografía en la primera quincena del mes de enero del año de su elaboración, sin exceder del 10% del presupuesto total asignado al Centro en comento en el año anterior.
+
+(REUBICADO [N. DE E. ANTES TÍTULO SÉPTIMO], D.O. 9 DE SEPTIEMBRE DE 2005)
 
 ## TITULO NOVENO. De la Función del Estado, como Forma de Convivencia y de su Desarrollo Integral
 
@@ -2901,9 +2959,17 @@ XII.- Desarrollo Económico, en todas sus vertientes;
 
 XIII.- Desarrollo Social;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 1 DE ABRIL DE 2024)</small>
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE CON LA MODIFICACIÓN PUBLICADA EN EL D.O. DE 27 DE JUNIO DE 2024, SE REGRESA EL TEXTO DE LA PRESENTE FRACCIÓN AL DE LA ADICIÓN DE FECHA 29 DE SEPTIEMBRE DE 2023.]</small>
 
-XIV.- Asentamientos humanos, ordenamiento territorial y desarrollo urbano;
+> <small>(ADICIONADA, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
+
+XIV.- Igualdad entre mujeres y hombres y acceso de las mujeres a una vida libre de violencia.
+
+> <small>[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE EL CONTENIDO DE LA PRESENTE FRACCIÓN ES DE LA ANTERIOR FRACCIÓN XIV DE FECHA 1 DE ABRIL DE 2024.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 27 DE JUNIO DE 2024)</small>
+
+XIV bis.- Asentamientos humanos, ordenamiento territorial y desarrollo urbano;
 
 > <small>(ADICIONADA, D.O. 1 DE ABRIL DE 2024)</small>
 
@@ -3014,6 +3080,10 @@ XI.- coadyuvar con la Federación promoviendo las condiciones para el desarrollo
 > <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
 
 XII.- fomentar la actividad agropecuaria y forestal para el mejor aprovechamiento de los recursos naturales con obras de infraestructura, créditos y servicios públicos de capacitación y extensionismo;
+
+> <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
+
+XII Bis.- Fomentar y promover la actividad artesanal del Estado, con el objetivo de garantizarles el derecho para acceder y realizar sus actividades en condiciones dignas para el aprovechamiento de sus capacidades culturales y económicas; y así, contribuir a la generación de un mayor ingreso familiar de las y los artesanos, mediante su desarrollo humano, social y económico.
 
 > <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
 
@@ -6032,3 +6102,39 @@ Aplicación
 Artículo segundo. Lo dispuesto en este decreto deberá ser aplicado en el presupuesto de egresos 2025 y posteriores.
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+D.O. 27 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 772/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN Y SE EXPIDE LA LEY ORGÁNICA DEL CENTRO DE INNOVACIÓN TECNOLÓGICA DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Reglamento interior
+
+Artículo segundo. El Centro de Innovación Tecnológica de Yucatán deberá expedir su reglamento interior dentro de un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Toma de protesta de la persona titular del centro
+
+Artículo tercero. El Congreso del Estado deberá tomar la protesta de ley a la persona titular del Centro de Innovación Tecnológica de Yucatán, dentro de un plazo de quince días hábiles, contado a partir de la entrada en vigor de este decreto.
+
+Integración del Consejo Consultivo del centro
+
+Artículo cuarto. La designación de las personas integrantes del Consejo Consultivo del Centro de Innovación Tecnológica de Yucatán se realizará dentro de un plazo 90 días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Designación del órgano de control interno
+
+Artículo quinto. El Congreso deberá expedir la convocatoria para la designación de la persona titular del Órgano de Control Interno del Centro de Innovación Tecnológica de Yucatán dentro de un plazo de noventa días naturales, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 27 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 773/2024 POR EL QUE SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE LOS DERECHOS DE LAS Y LOS ARTESANOS”.]
+
+Entrada en vigor
+
+Artículo Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Clausula derogatoria
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
