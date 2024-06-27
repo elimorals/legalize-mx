@@ -4,7 +4,7 @@ identifier: "SLP-ley-sobre-el-regimen-de-propiedad-en-condominio-para-el-107552"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-09"
-last_updated: "2022-10-14"
+last_updated: "2024-06-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el jueves 9 de abril de 2015.
 
@@ -1009,6 +1009,12 @@ En los casos de reincidencia se aplicará hasta el doble máximo de la sanción 
 
 Si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa máxima será el equivalente a una Unidad de Medida de Actualización; y tratándose de personas desempleadas o sin ingresos, la multa máxima será el equivalente a una Unidad de Medida de Actualización.
 
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2024)</small>
+
+ARTÍCULO 137 BIS. En el reglamento interno de cada condominio, se deberán establecer las multas para las personas que utilicen agua potable para lavar con manguera, entre otros, coches, banquetas, objetos, y áreas comunes.
+
+El administrador está obligado a reportar de forma inmediata cualquiera de los actos señalados en el párrafo anterior, al ayuntamiento o al organismo operador de agua potable, según corresponda.
+
 ###### ARTÍCULO 138.
 
 Las sanciones establecidas en la presente Ley, se aplicarán independientemente de las que se impongan por la violación de otras disposiciones aplicables.
@@ -1090,3 +1096,11 @@ P.O. 14 DE OCTUBRE DE 2022.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 27 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1056.- SE ADICIONA EL ARTÍCULO 137 BIS, A LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
