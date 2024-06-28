@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-atencion-y-proteccion-a-personas-con-autismo-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-21"
-last_updated: "2024-04-05"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117979&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Baja California, el viernes 21 de octubre de 2016.
 
@@ -231,6 +231,8 @@ La Comisión aprovechará las capacidades institucionales de las estructuras adm
 
 La Comisión contará con una Secretaría Técnica, misma que estará a cargo de una persona funcionaria de la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 12.
 
 Para el cumplimiento de su objeto, la Comisión tendrá las siguientes funciones:
@@ -243,9 +245,13 @@ III. Apoyar y proponer mecanismos de concertación con los sectores social y pri
 
 IV. Apoyar la promoción de las políticas, estrategias y acciones en la materia de la presente Ley, así como promover, en su caso, las adecuaciones y modificaciones necesarias a las mismas;
 
-V. Proponer al Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades de la Administración Pública Estatal en materia de atención de las personas con la condición del espectro autista, y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VI. Las demás que determine el Titular del Poder Ejecutivo Estatal.
+V. Proponer al Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades de la Administración Pública Estatal en materia de atención de las personas con la condición del espectro autista y sus familias, preferentemente en situación de vulnerabilidad; y,
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VI. Las demás que determine la persona Titular del Poder Ejecutivo Estatal.
 
 ### CAPÍTULO CUARTO. PROHIBICIONES Y SANCIONES
 
@@ -318,3 +324,9 @@ P.O. 5 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 403 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 11 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. - La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 438 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 12 DE LA LEY DE ATENCIÓN Y PROTECCIÓN A PERSONAS CON AUTISMO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
