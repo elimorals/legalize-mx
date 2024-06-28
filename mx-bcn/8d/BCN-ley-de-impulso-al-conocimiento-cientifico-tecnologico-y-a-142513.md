@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-impulso-al-conocimiento-cientifico-tecnologico-y-a-14251
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-20"
-last_updated: "2023-09-08"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE IMPULSO AL CONOCIMIENTO CIENTÍFICO, TECNOLÓGICO Y A LA INNOVACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Baja California, el viernes 20 de marzo de 2020.
 
@@ -149,13 +149,17 @@ XIV.- Impulsar acciones de cooperación, colaboración e intercambio académico 
 
 XV.- Financiar el desarrollo científico, tecnológico, la innovación y la vinculación bajo criterios de transparencia, calidad y relevancia social, en el marco de los objetivos del Plan Estatal de Desarrollo, del Programa Estatal y de la política de ciencia, tecnología e innovación del Estado, en relación con las vocaciones regionales establecidas a través de los análisis que se realicen en conjunto entre los sectores académico, social, productivo y gubernamental;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XVI.- Promover la inclusión de la perspectiva de género con una visión transversal en el Programa Estatal de Ciencia, Tecnología e Innovación; y,
+XVI.- Promover la inclusión de la perspectiva de género con una visión transversal en el Programa Estatal de Ciencia, Tecnología e Innovación;
 
-> <small>(ADICIONADA, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XVII.- Fomentar el desarrollo, la participación y el reconocimiento de las mujeres en la ciencia, la tecnología y la innovación.
+XVII.- Fomentar el desarrollo, la participación y el reconocimiento de las mujeres en la ciencia, la tecnología y la innovación; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+XVIII.- Fomentar la incorporación de las personas adultas mayores en el desarrollo de actividades relacionadas con la ciencia, la tecnología y la innovación.
 
 ### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO Y ATRIBUCIONES DEL COCIT
 
@@ -740,3 +744,9 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 282 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA QUE ADICIONA LAS FRACCIONES XVI Y XVII AL ARTÍCULO 5 DE LA LEY DE IMPULSO AL CONOCIMIENTO CIENTÍFICO, TECNOLÓGICO Y A LA INNOVACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 436 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5 DE LA LEY DE IMPULSO AL CONOCIMIENTO CIENTÍFICO, TECNOLÓGICO Y A LA INNOVACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
