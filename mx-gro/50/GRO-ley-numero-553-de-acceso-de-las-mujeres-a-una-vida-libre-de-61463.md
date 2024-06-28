@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-553-de-acceso-de-las-mujeres-a-una-vida-libre-de-614
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-08"
-last_updated: "2024-05-28"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61463&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 8 de febrero de 2008.
 
@@ -283,6 +283,8 @@ XVI. Establecer programas para:
 
 ### CAPÍTULO I. TIPOS DE VIOLENCIA
 
+> <small>[N. DE E. DEL ANÁLISIS AL DECRETO No. 811 SESIONADO EL 27 DE MAYO Y PUBLICADO EN EL P.O. DE 28 DE JUNIO AMBOS DEL 2024, SE ADVIERTE QUE LA FRACCIÓN VIII DEL CITADO DECRETO YA HABIA SIDO ADICIONADA EN EL DECRETO No. 809 SESIONADO EL 21 DE MAYO DE 2024 Y PUBLICADO EN LA MISMA FECHA DEL DECRETO No. 811, TRATÁNDOSE DE UNA NUEVA FRACCIÓN VIII EN VIRTUD DE QUE EL CONTENIDO ES DISTINTO.]</small>
+
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 9.
@@ -331,9 +333,13 @@ l) En general, en cualquier situación que implique la pérdida o disminución d
 
 VII. Violencia vicaria: Acción u omisión cometida por aquel con quien una mujer tenga o haya tenido relación de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho, que tenga por objeto o resultado el rompimiento o la obstrucción del vínculo con la madre, provocar un daño físico, psicológico, emocional o de cualquier otro tipo a una mujer a través del maltrato, menoscabo, sustracción, daño, peligro u homicidio de sus hijas e hijos, una persona vinculada afectivamente a la mujer, o un ser sintiente. Este tipo de violencia puede cometerse por sí, o a través de un tercero, y es particularmente grave cuando se ejerce por familiares o personas con relación afectiva de quien comete este tipo de violencia, así como por las instituciones de justicia que al no reconocerla, emiten sentencias en contra de los derechos de las mujeres y del interés superior de la niñez.
 
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VIII. Violencia Ácida: Se refiere al uso de cualquier tipo de agente o sustancia química, corrosiva, tóxica, inflamable, incluyendo álcalis, ácidos, irritantes, líquidos a altas temperaturas, medicamentos, drogas, gases o cualquier otra sustancia que provoque lesiones, que causen daño físico irreversible a una mujer o que le cause alguna discapacidad.
+
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
 
-VIII. Violencia digital, es cualquier acto realizado por medio del uso de las tecnologías de la información y la comunicación en las cuales se exponga, difunda, distribuya, exhiba, comparta, comercialice, transmita, oferte, intercambie imágenes, audios, videos reales o simulados de contenido íntimo y sexual de una persona sin su consentimiento, autorización o aprobación y que derivado de esta acción le cause un daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia, causando daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+IX. Violencia digital, es cualquier acto realizado por medio del uso de las tecnologías de la información y la comunicación en las cuales se exponga, difunda, distribuya, exhiba, comparta, comercialice, transmita, oferte, intercambie imágenes, audios, videos reales o simulados de contenido íntimo y sexual de una persona sin su consentimiento, autorización o aprobación y que derivado de esta acción le cause un daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia, causando daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
 
 Entre otras, se puede manifestar mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones gráficas o sonoras verdaderas o alteradas, ya sean propias o de otra persona que cause daño o perjuicio y que atente contra la integridad, la dignidad, la libertad o la vida privada de las mujeres.
 
@@ -341,11 +347,71 @@ Para efectos de la presente fracción se entenderá por Tecnologías de la Infor
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2024)</small>
 
-IX. Violencia mediática, se entiende como todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida. La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad; y
+IX (SIC). Violencia mediática, se entiende como todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida. La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad; y
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2024)</small>
 
-X. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+X. Violencia reproductiva: son todas las acciones u omisiones que limitan o vulneran el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de las hijas e hijos, acceso a métodos anticonceptivos de su elección y acceso a una maternidad elegida y segura; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XI. Violencia política: La violencia contra las mujeres en razón de género, es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular, menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+Se entenderá que las acciones u omisiones se basan en elementos de género, cuando se dirijan a una mujer por su condición de mujer; le afecten desproporcionadamente o tengan un impacto diferenciado en ella.
+
+Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
+
+La violencia política contra las mujeres puede expresarse, entre otras, a través de las siguientes conductas:
+
+a) Incumplir las disposiciones jurídicas nacionales e internacionales que reconocen el ejercicio pleno de los derechos políticos de las mujeres;
+
+b) Restringir o anular el derecho al voto libre y secreto de las mujeres, u obstaculizar sus derechos de asociación o afiliación a todo tipo de organizaciones políticas y civiles, en razón de género;
+
+c) Ocultar información u omitir la convocatoria para el registro de candidaturas o para cualquier otra actividad que implique la toma de decisiones en el desarrollo de sus funciones y actividades;
+
+d) Proporcionar a las mujeres que aspiran u ocupan un cargo de elección popular información falsa o incompleta, que impida su registro como candidata o induzca al incorrecto ejercicio de sus atribuciones;
+
+e) Proporcionar información incompleta o datos falsos a las autoridades administrativas, electorales o jurisdiccionales, con la finalidad de menoscabar los derechos políticos de las mujeres la garantía del debido proceso;
+
+f) Proporcionar a las mujeres que ocupan un cargo de elección popular, información falsa, incompleta o imprecisa, para impedir que induzca al incorrecto ejercicio de sus atribuciones;
+
+g) Obstaculizar la campaña de modo que se impida que la competencia electoral se desarrolle en condiciones de igualdad;
+
+h) Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
+
+i) Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+
+j) Divulgar imágenes, mensajes o información privada de una mujer o candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+
+k) Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
+
+l) Impedir, por cualquier medio, que las mujeres electas o designadas a cualquier puesto o encargo público tomen protesta de su encargo, asistan a las sesiones ordinarias o extraordinarias o a cualquier otra actividad que implique la toma de decisiones y el ejercicio del cargo, impidiendo o suprimiendo su derecho a voz y voto;
+
+m) Restringir los derechos políticos de las mujeres con base a la aplicación de tradiciones, costumbres o sistemas normativos internos o propios, que sean violatorios de los derechos humanos;
+
+n) Imponer, con base en estereotipos de género, la realización de actividades distintas a las atribuciones propias de la representación política, cargo o función;
+
+o) Discriminar a la mujer en el ejercicio de sus derechos políticos por encontrarse en estado de embarazo, parto, puerperio, o impedir o restringir su reincorporación al cargo tras hacer uso de la licencia de maternidad o de cualquier otra licencia contemplada en la normatividad;
+
+p) Ejercer violencia física, sexual, simbólica, psicológica, económica o patrimonial contra una mujer en ejercicio de sus derechos políticos;
+
+q) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo que ocupe la mujer, incluido el pago de salarios, dietas u otras prestaciones asociadas al ejercicio del cargo, en condiciones de igualdad;
+
+r) Obligar a una mujer, mediante fuerza, presión o intimidación, a suscribir documentos o avalar decisiones contrarias a su voluntad o a la ley;
+
+s) Obstaculizar o impedir acceso a la justicia de mujeres para proteger sus derechos políticos;
+
+t) Limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo político que ocupa la mujer, impidiendo el ejercicio del cargo en condiciones de igualdad;
+
+u) Imponer sanciones injustificadas abusivas, impidiendo o restringiendo el ejercicio de sus derechos políticos en condiciones de igualdad, o
+
+v) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos electorales.
+
+La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+XII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2024)</small>
 
@@ -1730,3 +1796,23 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 809 POR EL QUE SE REFORMA LA FRACCIÓN X Y SE LE ADICIONAN LAS FRACCIONES XI Y XII AL ARTÍCULO 9 DE LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
+
+TERCERO.- Colóquese y publíquese en el Portal Web del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 811 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499; EN MATERIA DE VIOLENCIA ÁCIDA".]
+
+PRIMERO. - El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. - Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO. - Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
