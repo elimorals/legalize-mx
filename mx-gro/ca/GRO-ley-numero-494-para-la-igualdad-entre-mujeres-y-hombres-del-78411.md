@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-494-para-la-igualdad-entre-mujeres-y-hombres-del-784
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-28"
-last_updated: "2022-10-28"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 28 de diciembre de 2010.
 
@@ -132,6 +132,10 @@ XIII. Representación equilibrada: Cuando ambos sexos están representados con e
 XIV. Roles y estereotipos en función del sexo: La deformación cultural sobre la que se sustenta la desigualdad entre mujeres y hombres y con la cual, entre otras, se asigna a las mujeres la responsabilidad del ámbito de lo doméstico y a los hombres el del público, con una valoración y reconocimiento discordante en lo económico y lo social o se le denigra con el uso del cuerpo femenino en la publicidad; y,
 
 XV. Transversalidad: El proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tiene para las mujeres y los hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales en las instituciones públicas y privadas.
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XVI. Unidad para la Igualdad de Género y No Discriminación: área administrativa que tiene por objeto promover la incorporación de la perspectiva de género en las políticas, programas, proyectos, normas, procesos y acciones de las Entidades, Instituciones, Dependencias, Poderes Públicos del Estado, Municipios y Órganos Autónomos; así como la cultura institucional, mediante el fortalecimiento de las capacidades institucionales que aseguren la igualdad de oportunidades entre los géneros, el respeto de los derechos humanos de todas las personas, la eliminación de la violencia y la no discriminación.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 2017)</small>
 
@@ -257,6 +261,68 @@ V. Los Órganos Públicos Desconcentrados y Paraestatales por medio de la/el tit
 
 VI. La Sociedad Civil Organizada.
 
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+###### Artículo 17 Bis.
+
+En la aplicación de esta Ley, las dependencias y entidades los Poderes Ejecutivo, Legislativo y Judicial, los Municipios, los Órganos Autónomos Constitucionales y con Autonomía Técnica establecerán las Unidad para la Igualdad de Género y no Discriminación, como áreas administrativas dependientes de la persona titular que corresponda, con el objeto de promover la incorporación de la perspectiva de género en las políticas públicas, programas, proyectos y normas; así como el fortalecimiento de las capacidades institucionales que aseguren la igualdad de oportunidades entre los géneros y el respeto de los derechos humanos de todas las personas.
+
+Para cumplir con sus atribuciones, las Unidades para la Igualdad de Género y no Discriminación, contarán con los recursos humanos, financieros y materiales de conformidad con el presupuesto asignado a la dependencia o entidad de la cual forme parte.
+
+Su titular será nombrado y removido por la persona titular de la dependencia o entidad de que se trate.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+###### Artículo 17 Ter.
+
+Las (sic) Unidad para la Igualdad de Género y no Discriminación tendrán (sic) las atribuciones siguientes:
+
+I. Coadyuvar en coordinación con el área que corresponda de la Secretaría de la Mujer, en la elaboración del Programa Estatal o Municipal para la Igualdad entre Mujeres y Hombres que corresponda;
+
+II. Coordinar conjuntamente con el o la titular de la dependencia o entidad, la aplicación, seguimiento y evaluación del Programa Estatal o Municipal para la Igualdad entre Mujeres y Hombres, así como de las políticas, estrategias, programas y acciones en materia de equidad de género;
+
+III. Colaborar con la Secretaría de la Mujer para garantizar la adecuada coordinación de las acciones en materia de igualdad de mujeres y hombres, de acuerdo con lo establecido en la presente Ley; así como el seguimiento, evaluación del desarrollo y cumplimiento de las atribuciones que la misma les señale;
+
+IV. Concertar con las distintas áreas responsables de la dependencia o entidad, la incorporación de la perspectiva de género, derechos humanos e interculturalidad en la planeación, programación y presupuesto anual de la institución, así como dentro de las estrategias, programas y acciones institucionales de la dependencia o entidad;
+
+V. Diseñar, coordinar y operar estrategias institucionales a favor de una cultura de igualdad de género que fomente una clara conciencia institucional en esta materia, mediante programas de capacitación permanente al personal directivo y operativo de la dependencia o entidad;
+
+VI. Prevenir y eliminar cualquier forma de discriminación que se ejerza contra algún integrante de la dependencia o entidad, por su condición de género, origen étnico o por su orientación y/o preferencia sexual;
+
+VII. Respetar y garantizar la igualdad de trato y de oportunidades en el ámbito laboral, así como adoptar medidas dirigidas a evitar cualquier tipo de discriminación o violencia de género;
+
+VIII. Eliminar la transmisión de estereotipos sexistas en las dependencias y entidades de la administración pública del Estado;
+
+IX. Desarrollar y aplicar normas en materia de igualdad de género, y de no discriminación por su condición de género, origen étnico o por la orientación, o preferencia sexual;
+
+X. Promover, difundir y publicar información en materia de derechos humanos de las mujeres y no discriminación, de acuerdo a su ámbito de competencia;
+
+XI. Diseñar, formular e impartir pláticas, talleres, cursos conferencias o cualquier otra actividad que faciliten y apoyen la formación y sensibilización en relación a la importancia del principio de igualdad del personal de la dependencia o entidad en equidad de género, no discriminación, la eliminación de barreras invisibles y estereotipos, la igualdad de oportunidades y prevención del hostigamiento, violencia de género y acoso sexual;
+
+XII. Coordinar con otras dependencias y entidades estatales o municipales, la ejecución de convenios de colaboración en materia de igualdad de género;
+
+XIII. Establecer normas, procedimientos y metodologías para la integración del enfoque de igualdad de género en procesos de trabajo institucional, a través de la estrategia de información, investigación, educación y comunicación;
+
+XIV. Evitar la utilización del lenguaje sexista en todo tipo de comunicaciones e impresos internos, buscando que se utilice un lenguaje incluyente;
+
+XV. Vigilar que la publicidad institucional instrumente políticas de igualdad, perspectiva de género y no discriminación;
+
+XVI. Desarrollar un diagnóstico o investigación con enfoque de género sobre la equidad y la igualdad de oportunidades entre mujeres y hombres en la institución, mediante la recopilación de datos sobre la situación actual que guarda la plantilla, las políticas de personal y de empleo en la dependencia o entidad;
+
+XVII. Impulsar y apoyar el desarrollo de medidas afirmativas para favorecer la conciliación de la vida laboral, familiar y personal de las mujeres y hombres y fomentar la corresponsabilidad doméstica en las y los servidores públicos y buscar que se adopten en la dependencia o entidad;
+
+XVIII. Establecer y concertar acuerdos o estrategias de colaboración con las Unidades de Género de otras dependencias o entidades para ejecutar las políticas, acciones y programas de su competencia establecidos en el Programa Estatal o Municipal para la Igualdad entre Mujeres y Hombres;
+
+XIX. Coadyuvar con la Secretaría de la Mujer en la realización de estudios e investigaciones para instrumentar un sistema de información, registro, seguimiento y evaluación de la situación de mujeres y hombres con respecto a la división sexual del trabajo, en su ámbito de competencia;
+
+XX. Realizar e impulsar propuestas de normas internas o modificaciones a las ya existentes, en materia de igualdad de género a los ordenamientos jurídicos de su dependencia;
+
+XXI. Participar en los comités internos de la institución, en su ámbito de competencia;
+
+XXII. Emitir informes de evaluación periódica para dar cuenta de resultados en el cumplimiento de los objetivos, estrategias y políticas ejecutadas por la dependencia o entidad en cumplimiento al Programa Estatal o Municipal para la Igualdad entre Mujeres y Hombres; y,
+
+XXIII. Las demás señaladas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Guerrero, la Ley General Para la Igualdad Entre Mujeres y Hombres, la presente Ley, el Plan Estatal de Desarrollo, en las normas de la materia y las que deriven de los acuerdos y convenio que suscriba el Estado, a través de sus Entes para fomentar y consolidar la igualdad entre hombres y mujeres.
+
 ### CAPÍTULO II. Del Poder Ejecutivo del Estado
 
 ###### Artículo 18.
@@ -379,7 +445,9 @@ El Sistema Estatal estará integrado por:
 
 I. El Poder Ejecutivo Estatal, representado por su Titular que lo presidirá, las/los titulares de las Secretarías General de Gobierno, de Finanzas y Administración, de Educación; de Salud y de la Mujer, fungiendo la última, como Secretaría Técnica del Sistema Estatal, y la/el titular de la Procuraduría General de Justicia del Estado;
 
-II. El Poder Legislativo, representado por las/los Presidentes de la Mesa Directiva del Congreso del Estado, de la Comisión de Gobierno y de la Comisión de Equidad y Género;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+II. El Poder Legislativo, representado por las/los Presidentes de la Mesa Directiva del Congreso del Estado, de la Junta de Coordinación Política y de la Comisión Para la Igualdad de Género;
 
 III. El Poder Judicial, representado por la/el Magistrada/o Presidente del Tribunal Superior de Justicia y una o un Consejera/o de la Judicatura Estatal;
 
@@ -871,9 +939,13 @@ La Secretaría emitirá el Reglamento Interno del Sistema de Evaluación, a fin 
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 67.
 
-La trasgresión a los principios y programas que la presente Ley prevé, será sancionada de acuerdo a lo dispuesto por la Ley número 674 de Responsabilidades de los Servidores Públicos del Estado de Guerrero y, en su caso, por las leyes aplicables en el Estado, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado de Guerrero.
+La trasgresión a los principios y programas que la presente Ley prevé, será sancionada de acuerdo a lo dispuesto por la Ley Número 760 de Responsabilidades Política, Penal y Civil de los Servidores Públicos del Estado de Guerrero y, en su caso, por las leyes aplicables en el Estado, lo anterior sin perjuicio de las penas que resulten aplicables por la comisión de algún delito previsto por el Código Penal del Estado de Guerrero.
+
+Las unidades de género, denunciaran todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los principios, derechos y garantías que establece la presente Ley o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con la igualdad entre mujeres y hombres.
 
 ### CAPÍTULO II. De la denuncia popular
 
@@ -1012,3 +1084,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
 
 TERCERO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 28 DE JUNIO DE 2024.
+
+[N. DE. E. TRANSITORIOS DEL "DECRETO NÚMERO 808 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Las Unidades de Género se incorporarán en los organigramas y reglamentos interiores de los Entes Estatales y sus Dependencias, Órganos y Organismos, en un plazo no mayor de 90 días contados a partir de la entrada en vigor del presente derecho.
+
+TERCERO.- Para la operatividad de las Unidades de Género, se emplearán los recursos financieros, humanos y materiales con los que actualmente cuentan los Entes y sus Dependencias, Órganos y Organismos.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
+
+QUINTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
