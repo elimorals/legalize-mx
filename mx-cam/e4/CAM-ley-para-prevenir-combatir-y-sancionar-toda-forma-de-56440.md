@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2023-06-30"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -69,7 +69,13 @@ III. Establecer los principios y criterios que orienten las políticas públicas
 
 Para los efectos de la presente ley, se entenderá por:
 
-I. Administración Pública: El conjunto de órganos que integran la administración centralizada y paraestatal del Estado de Campeche;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+I. Acciones Afirmativas: Las acciones afirmativas son las medidas especiales, específicas y de carácter temporal, a favor de personas o grupos en situación de discriminación, cuyo objetivo es corregir situaciones patentes de desigualdad en el disfrute o ejercicio de derechos y libertades, aplicables mientras subsistan dichas situaciones. Se adecuarán a la situación que quiera remediarse, deberán ser legítimas y respetar los principios de justicia y proporcionalidad;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+I. Bis. Administración Pública: El conjunto de órganos que integran la administración centralizada y paraestatal del Estado de Campeche;
 
 II. Autoridades locales de Gobierno del Estado de Campeche: El Poder Legislativo, el Poder Ejecutivo y el Poder Judicial;
 
@@ -82,6 +88,10 @@ IV. Ente Público: Las autoridades locales del Gobierno del Estado; los órganos
 V. Grupos en situación de discriminación: Se consideran grupos en situación de discriminación las niñas, los niños, los jóvenes, las mujeres, las personas que viven con VIH-SIDA, con discapacidad, con problemas de salud mental, de talla pequeña orientación sexual e identidad de género, adultas mayores, privadas de su libertad, en situación de calle, migrantes, pueblos indígenas, y aquellos que sufran algún tipo de discriminación como consecuencia de las transformaciones sociales, culturales y económicas;
 
 VI. Identidad de género: La identidad de género se refiere a la manifestación personal de pertenencia a un género determinado, a la aceptación o rechazo entre el género biológico y el género psicológico;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VI Bis. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
 VII. Ley: La Ley para Prevenir, Combatir y Sancionar toda forma de Discriminación en el Estado de Campeche;
 
@@ -115,7 +125,9 @@ También se entenderá como discriminación la homofobia, lesbofobia, bifobia, t
 
 No se considerarán conductas discriminatorias las siguientes:
 
-I. Las acciones legislativas, educativas o de políticas públicas específicas y positivas del Estado que, sin afectar derechos de terceros, establezcan tratos diferenciados con el objeto de promover la igualdad real de oportunidades;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+I. Las acciones legislativas, educativas, de políticas públicas específicas, afirmativas o medidas positivas del Estado que, sin afectar derechos de terceros, establezcan tratos diferenciados con el objeto de promover la igualdad sustantiva de oportunidades;
 
 II. Las distinciones basadas en capacidades o conocimientos especializados para desempeñar una actividad determinada;
 
@@ -125,9 +137,21 @@ IV. En el ámbito educativo del Estado, los requisitos académicos de evaluació
 
 V. Las que se establezca como requisitos de ingreso o permanencia para el desempeño del servicio público del Estado y cualquier otro señalado en los ordenamientos legales;
 
-VI. El trato diferenciado que en su beneficio reciba una persona que padezca alguna enfermedad, respecto de otra persona sana; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VII. En general, todas las que no tengan el propósito de anular o menoscabar los derechos y libertades o la igualdad de oportunidades de las personas, ni de atentar contra los derechos específicos y la dignidad humana.
+VI. El trato diferenciado que en su beneficio reciba una persona que padezca alguna enfermedad, respecto de otra persona sana;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VII. En general, todas las que no tengan el propósito de anular o menoscabar los derechos y libertades o la igualdad de oportunidades de las personas, ni de atentar contra los derechos específicos y la dignidad humana;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VIII. Las acciones afirmativas que tengan por efecto promover la igualdad sustantiva de oportunidades de las personas o grupos; y
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+IX. La distinción basada en criterios razonables, proporcionales y objetivos cuya finalidad no sea el menoscabo de derechos.
 
 ###### Artículo 8.
 
@@ -273,9 +297,11 @@ XXXV. En general cualquier otra conducta discriminatoria en términos del artíc
 
 ### CAPÍTULO III. MEDIDAS GENERALES A FAVOR DE LA IGUALDAD DE OPORTUNIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 16.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas para mejorar las condiciones de vida, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad sustantiva de trato y oportunidades y la no discriminación para mejorar las condiciones de vida, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas:
 
 I. Fortalecer los servicios de prevención, detección y tratamiento de enfermedades más recurrentes de los grupos en situación de discriminación;
 
@@ -299,17 +325,21 @@ VII. Procurar la accesibilidad en los medios de transporte público de uso gener
 
 VIII. De acuerdo con lo previsto en las leyes aplicables, prevenir y erradicar toda práctica discriminatoria relativa al ingreso en todos los lugares y servicios previstos para el público en general; entre ellos restaurantes, hoteles, teatros y salas de variedades, discotecas u otros.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 17.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras, las siguientes medidas en la esfera de la educación:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad sustantiva de trato y oportunidades y la no discriminación en la esfera de la educación, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas:
 
 I. Promover el acceso de todas las personas al aprendizaje y la enseñanza permanente, sobre la base del respeto de los derechos humanos, la diversidad y la tolerancia, sin discriminación de ningún tipo; y
 
 II. Procurar la incorporación, permanencia y participación de los grupos en situación de discriminación en las actividades educativas regulares en todos los niveles.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 18.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas relativas a la participación en la vida pública, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad sustantiva de trato y oportunidades y la no discriminación en la participación en la vida pública, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas:
 
 I. Procurar que todas las personas, sin discriminación, tengan acceso a la documentación necesaria que refleje su identidad jurídica, realizando programas especiales dirigidos a las (sic) grupos en situación de discriminación;
 
@@ -319,9 +349,11 @@ III. Promover el derecho de los grupos en situación de discriminación a partic
 
 IV. Fomentar la participación activa de los grupos en situación de discriminación, en la vida pública y social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 19.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas en la esfera de la procuración y administración de justicia, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad sustantiva de trato y oportunidades y la no discriminación en la esfera de la procuración y administración de justicia, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas:
 
 I. Garantizar la igualdad de acceso al sistema judicial, proporcionando la ayuda necesaria de acuerdo a sus características específicas, a los grupos y personas en situación de discriminación, y
 
@@ -333,9 +365,11 @@ II. Proporcionar, en los términos de la legislación en la materia, asistencia 
 
 III. Proporcionar capacitación en materia de perspectiva de género, al personal de procuración de justicia, seguridad pública, salud y demás personas que atiendan a víctimas de violencia familiar, hostigamiento, acoso o abuso sexual, violación, estupro, incesto o cualquiera otra forma de violencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 20.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo entre otras medidas de protección contra la violencia hacia grupos o personas en situación de discriminación, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad sustantiva de trato y oportunidades y la no discriminación en la protección contra la violencia hacia grupos o personas en situación de discriminación, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas:
 
 I. Proteger la seguridad y la integridad de los grupos y personas en situación de discriminación, adoptando medidas para evitar los actos de violencia contra ellos, investigando y sancionando de resultar procedente a los autores de dichos actos u omisiones;
 
@@ -343,9 +377,11 @@ II. Fortalecer las acciones educativas para promover el respeto y la no violenci
 
 III. Promover la comunicación y el diálogo entre los grupos y personas en situación de discriminación y los cuerpos de seguridad pública con el fin de evitar conflictos basados en prejuicios y discriminación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 21.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas en la esfera de los medios de comunicación, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad sustantiva de trato y oportunidades y la no discriminación en la esfera de los medios de comunicación, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas:
 
 I. Promover que los anunciantes, las agencias de publicidad y, en general, los medios masivos de comunicación, erradiquen contenidos que inciten al odio, la superioridad de algunos grupos y la discriminación;
 
@@ -355,9 +391,11 @@ III. Impulsar que los entes públicos destinen parte de sus espacios en los medi
 
 ### CAPÍTULO IV. MEDIDAS POSITIVAS ESPECÍFICAS A FAVOR DE LA IGUALDAD DE OPORTUNIDADES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 22.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades para las mujeres, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad de oportunidades de las mujeres, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas positivas:
 
 I. Incentivar la educación mixta, fomentando la inscripción y permanencia en el sistema educativo de las niñas y las mujeres en todos los niveles escolares;
 
@@ -375,9 +413,11 @@ V. Ofrecer información completa y actualizada, así como asesoramiento personal
 
 VI. Procurar la creación de centros de desarrollo infantil y guarderías asegurando el acceso a los mismos para sus hijas e hijos cuando ellas lo soliciten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 23.
 
-Los entes públicos, estatales y municipales, en el ámbito de su respectiva competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades de las niñas y los niños, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad de oportunidades de las niñas y los niños, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas positivas:
 
 I. Instrumentar y ejecutar programas de atención médica y sanitaria para combatir la mortalidad y la desnutrición infantiles;
 
@@ -395,9 +435,11 @@ VII. Promover la recuperación física, psicológica y la integración social de
 
 VIII. Proporcionar, en los términos de la legislación en la materia, asistencia legal y psicológica gratuita e intérprete en los procedimientos judiciales o administrativos, en que sea procedente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 24.
 
-Los entes públicos, estatales y municipales, en el ámbito de su respectiva competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades de las y los jóvenes, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad de oportunidades de las y los jóvenes, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas positivas:
 
 I. Crear programas de capacitación y fomento para el empleo, y de apoyo a la creación de empresas;
 
@@ -413,9 +455,11 @@ VI. Ofrecer información completa y actualizada, así como asesoramiento persona
 
 VII. Realizar campañas informativas en torno al respeto y la tolerancia a sus expresiones culturales características.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 25.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades para las personas mayores de 60 años y discapacitados, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad de oportunidades para las personas adultas mayores y las personas con discapacidad, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas positivas:
 
 I. Garantizar conforme a la legislación aplicable, asesoría jurídica gratuita así como asistencia de un representante legal cuando el afectado lo requiera;
 
@@ -433,9 +477,11 @@ VI. Fomentar la creación de programas permanentes de capacitación para el empl
 
 VII. Garantizar que en todas las unidades del sistema de salud y de seguridad social reciban regularmente el tratamiento y los medicamentos necesarios para mantener y aumentar su capacidad funcional y su calidad de vida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 26.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades para la población indígena, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad de oportunidades para la población indígena, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas positivas:
 
 I. Establecer programas educativos bilingües y que promuevan el intercambio cultural;
 
@@ -449,9 +495,11 @@ V. Garantizar que en todos los juicios y procedimientos en que sean parte, indiv
 
 VI. Garantizar, a lo largo de cualquier proceso legal, el derecho a ser asistidos, si así lo solicitan, por intérpretes y defensores que tengan conocimiento de su lengua.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 27.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades para los grupos con una orientación sexual diferente a la de la mayoría, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad de oportunidades para las personas con diversa orientación, preferencia sexual o identidad de género, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas positivas:
 
 I. Garantizar la libre expresión de su manera de vestir, actuar o pensar, siempre que no dañe a terceros ni atente contra el orden público;
 
@@ -461,35 +509,55 @@ III. Garantizar el libre acceso y permanencia a los servicios médicos, de acuer
 
 IV. Emprender campañas en los medios masivos de comunicación para promover el respeto por la diversidad de orientaciones sexuales y de identidad de género.
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### Artículo 27 Bis.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas que propicien igualdad de oportunidades y de trato a favor de las personas en situación de calle, las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad de oportunidades para las personas en situación de calle, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas positivas:
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2022)</small>
 
 I. Identificar las prácticas discriminatorias y evitar los retiros forzados de las vías públicas que transgredan los derechos humanos de las personas en situación de calle;
 
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2022)</small>
+
 II. Diseñar e implementar programas para atender a las personas en situación de calle desde un enfoque de derechos humanos y perspectiva de género;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2022)</small>
 
 III. Diseñar, implementar y evaluar un mecanismo eficiente de canalización institucional, para que todas las dependencias públicas que tienen a su cargo la atención de personas en situación de calle, puedan garantizar un seguimiento efectivo en todos los procesos en los cuales interviene más de una dependencia;
 
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2022)</small>
+
 IV. Recabar información estadística, confiable y actualizada sobre las personas en situación de calle y el nivel de cumplimiento de sus derechos en el Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2022)</small>
 
 V. Evaluar los mecanismos que permitan investigar y sancionar el maltrato y abuso contra las personas en situación de calle durante desalojos y operativos, que ejecutan y/o instiguen las personas servidoras públicas.
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### Artículo 27 Ter.
 
-Los entes públicos, estatales y municipales, en el ámbito de su competencia, llevarán a cabo, entre otras medidas positivas a favor de la igualdad de oportunidades y de trato para las personas migrantes las siguientes:
+Los entes públicos, estatales y municipales, en el ámbito de su competencia, deberán adoptar las acciones afirmativas, a favor de la igualdad de oportunidades para las personas migrantes, entre las cuales deberán incluir, de manera enunciativa más no limitativa, las siguientes medidas positivas:
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
 
 I. Diseñar e implementar una campaña permanente de divulgación, en diferentes idiomas sobre los requisitos administrativos o de cualquier naturaleza que deben cumplir las personas migrantes, para regular su legal estancia en el país;
 
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
 II. Diseñar e implementar campañas de difusión para la prevención y atención relacionadas con la trata de personas y la explotación sexual que sufran las personas migrantes;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
 
 III. Podrán implementar un programa de albergues especiales, exclusivos para personas migrantes (con independencia de la situación o calidad migratoria en la que se encuentren) cuya vida, salud, seguridad e integridad personal se encuentre en riesgo de ser violada;
 
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
+
 IV. Generar un sistema de información estadística confiable, con la participación de organizaciones de la sociedad civil especializadas, que dé cuenta del número de personas migrantes, refugiadas y solicitantes de asilo que se encuentran en el Estado, que permita el diseño e implementación de programas y campañas para la atención de este sector de la población;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
 
 V. Revisar y en su caso corregir las prácticas de las y los funcionarios públicos que prestan la atención a las personas migrantes, refugiadas y solicitantes de asilo, que pueden constituir un trato indigno, a fin de prevenir y eliminar conductas discriminatorias y la limitación o negación al acceso a programas y servicios.
 
@@ -690,3 +758,11 @@ P.O. 30 DE JUNIO DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 359 POR EL QUE SE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5; LAS FRACCIONES I, VI Y VII DEL ARTÍCULO 7; EL PÁRRAFO PRIMERO DEL ARTÍCULO 16; EL PÁRRAFO PRIMERO DEL ARTÍCULO 17; EL PÁRRAFO PRIMERO DEL ARTÍCULO 18; EL PÁRRAFO PRIMERO DEL ARTÍCULO 19; EL PÁRRAFO PRIMERO DEL ARTÍCULO 20; EL PÁRRAFO PRIMERO DEL ARTÍCULO 21; EL PÁRRAFO PRIMERO DEL ARTÍCULO 22; EL PÁRRAFO PRIMERO DEL ARTÍCULO 23; EL PÁRRAFO PRIMERO DEL ARTÍCULO 24; EL PÁRRAFO PRIMERO DEL ARTÍCULO 25; EL PÁRRAFO PRIMERO DEL ARTÍCULO 26; EL PÁRRAFO PRIMERO DEL ARTÍCULO 27; EL PÁRRAFO PRIMERO DEL ARTÍCULO 27 BIS Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 27 TER; SE ADICIONAN LAS FRACCIONES I BIS Y VI BIS AL ARTÍCULO 5 Y LAS FRACCIONES VIII Y IX AL ARTÍCULO 7, TODOS DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
+
+PRIMERO: El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
