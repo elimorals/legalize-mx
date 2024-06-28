@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2024-06-27"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2024.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -193,7 +193,7 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ### CAPITULO II. De las actas de nacimiento
 
@@ -311,29 +311,53 @@ Se tiene derecho de designar un domicilio convencional para el cumplimiento de d
 
 ###### ARTICULO 35.
 
-en el Distrito Federal estará a cargo de las y los Jueces del Registro Civil autorizar los actos del estado civil de las y los mexicanos y extranjeros en el Distrito Federal, al realizarse el hecho o el acto de que se trate, y extender las actas relativas a:
+En la Ciudad de México estará a cargo de las Juezas y los Jueces del Registro Civil autorizar los actos del estado civil de personas mexicanas y extranjeras, al realizarse el hecho o el acto de que se trate, y extender las actas relativas a:
+
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2015)</small>
 
 I. Nacimiento;
 
-II. Reconocimiento de hijos;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+II. Reconocimiento de hijas e hijos;
+
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2015)</small>
 
 III. Adopción;
 
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2015)</small>
+
 IV. Matrimonio;
+
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2015)</small>
 
 V. Divorcio Administrativo;
 
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2015)</small>
+
 VI. Concubinato
+
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2015)</small>
 
 VII. Defunción;
 
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2015)</small>
+
 VIII. La rectificación de cualquiera de estos estados;
+
+> <small>(REFORMADA, G.O. 5 DE FEBRERO DE 2015)</small>
 
 IX. Levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género, previa la anotación correspondiente al acta de nacimiento primigenia.
 
-El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos del Distrito Federal, en el que se inscribirá a las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial. El registro expedirá un Certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+
+El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios Morosos de la Ciudad de México, en el que se inscribirá a las personas que hayan dejado de cumplir por más de sesenta días, sus obligaciones alimentarias, ordenadas por los jueces y tribunales o establecidas por convenio judicial. Una vez realizada la solicitud por las autoridades jurisdiccionales, el Registro Civil tendrá 15 días hábiles para inscribir en el Registro de Deudores Alimentarios Morosos a la persona deudora. El registro expedirá un Certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 El Registro Civil, una vez hecha la inscripción a que se refiere el párrafo anterior, formulará solicitud al Registro Público de la Propiedad a efecto de que se anote el Certificado respectivo en los folios reales de que sea propietario el Deudor Alimentario Moroso. El Registro Público de la Propiedad informará al Registro Civil si fue procedente la anotación.
+
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2015)</small>
 
 El Registro Civil celebrará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia, a fin de proporcionar la información del Registro de Deudores Alimentarios Morosos.
 
@@ -785,9 +809,9 @@ Este escrito deberá ser firmado por los solicitantes y deberá contener su huel
 
 Para el caso de matrimonios fuera de las oficinas del Registro Civil deberá observarse lo establecido en el Reglamento del Registro Civil.
 
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
-El Juez del Registro Civil hará del conocimiento de los pretendientes inmediatamente después de la presentación de la solicitud, que es un requisito previo a la celebración del matrimonio, el tramitar y obtener un certificado expedido por el propio registro, para hacer constar, si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos, así como tomar el curso prenupcial impartido por el Gobierno del Distrito Federal a través de la Dirección General del Registro Civil.
+El Juez o Jueza del Registro Civil hará del conocimiento de las y los pretendientes inmediatamente después de la presentación de la solicitud, si alguno de ellos o ellas se encuentra inscrito o inscrita en el Registro de Deudores Alimentarios Morosos.
 
 > <small>(ADICIONADO, G.O. 28 DE JULIO DE 2014)</small>
 
@@ -1915,7 +1939,7 @@ Las donaciones entre cónyuges no se revocarán por la superveniencia de hijos, 
 
 ### CAPITULO XI. Del concubinato
 
-> <small>(REFORMADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 235.
 
@@ -2121,19 +2145,29 @@ Solo se decretará cuando se cumplan los requisitos exigidos por el siguiente ar
 
 El cónyuge que unilateralmente desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial, debiendo contener los siguientes requisitos:
 
-I.- La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-II.- Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de los hijos;
+I.- La designación de la persona que tendrá la guarda y custodia de las hijas e hijos menores de edad o incapaces;
 
-III.- El modo de atender las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-IV.- Designación del cónyuge al que corresponderá el uso del domicilio conyugal, en su caso, y del menaje;
+II.- Las modalidades bajo las cuales el progenitor, que no detente la guarda y custodia, ejercerá el derecho de visitas, respetando los horarios de comidas, descanso y estudio de las hijas y los hijos;
 
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 24 DE JUNIO DE 2011)</small>
+III.- El modo de atender las necesidades de las hijas e hijos y en su caso, del cónyuge a quien deba darse alimentos, especificando la forma, lugar y fecha de pago de la obligación alimentaria, así como la garantía para asegurar su debido cumplimiento;
 
-VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+IV.- Designación del cónyuge al que corresponderá el uso y disfrute del domicilio conyugal, en su caso y del menaje; señalándose la fecha de salida del cónyuge que deberá desocupar el domicilio;
+
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto las capitulaciones matrimoniales; el inventario que considere, bienes muebles e inmuebles, así como animales de compañía, en su caso; avalúo y el proyecto de partición; y
+
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de las hijas o los hijos o que no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de la contraparte. La Jueza o Juez de lo Familiar resolverá atendiendo las circunstancias especiales de cada caso.
 
 ###### ARTICULO 268.
 
@@ -2147,11 +2181,13 @@ VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régi
 
 (DEROGADO, G.O. 25 DE MAYO DE 2000)
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 271.
 
-Los jueces de lo familiar están obligados a suplir la deficiencia de las partes en el convenio propuesto.
+Las Juezas y Jueces de lo familiar están obligados a suplir la deficiencia de las partes en el convenio propuesto. En caso de existir presunción de violencia familiar, deberán allegarse de los medios de prueba idóneos y decretar las medidas necesarias para salvaguardar la integridad y seguridad de las víctimas.
+
+> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 Las limitaciones formales de la prueba que rigen en la materia civil, no deben aplicarse en los casos de divorcio respecto del o los convenios propuestos.
 
@@ -2209,29 +2245,47 @@ La reconciliación de los cónyuges pone término al procedimiento de divorcio e
 
 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 282.
 
-Desde que se presenta la demanda, la controversia del orden familiar o la solicitud de divorcio y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes; asimismo en los casos de divorcio en que no se llegue a concluir mediante convenio, las medidas subsistirán hasta en tanto se dicte sentencia interlocutoria en el incidente que resuelva la situación jurídica de hijos o bienes, según corresponda y de acuerdo a las disposiciones siguientes:
+Desde que se presenta la demanda, la controversia del orden familiar, la solicitud de divorcio y los juicios relativos a la filiación y solo mientras dure el juicio, se dictarán las medidas provisionales pertinentes; asimismo, en los casos de divorcio en que no se llegue a concluir mediante convenio, las medidas subsistirán hasta en tanto se dicte sentencia interlocutoria en el incidente que resuelva la situación jurídica de las hijas, hijos, alimentos, uso del domicilio familiar y bienes, según corresponda y de acuerdo a las disposiciones siguientes:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 3 DE OCTUBRE DE 2008)</small>
 
 A. De oficio:
 
-I.- En los casos en que el Juez de lo Familiar lo considere pertinente, de conformidad con los hechos expuestos y las documentales exhibidas en los convenios propuestos, tomará las medidas que considere adecuadas para salvaguardar la integridad y seguridad de los interesados, incluyendo las de violencia familiar, donde tendrá la más amplia libertad para dictar las medidas que protejan a las víctimas;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-II.- Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentario al cónyuge acreedor y a los hijos que corresponda;
+I.- De conformidad con los hechos expuestos y las documentales exhibidas en los convenios propuestos, el Juez de lo Familiar tomará las medidas que considere adecuadas para salvaguardar la integridad y seguridad de los interesados, incluyendo las de violencia familiar, aún cuando la presuma, por lo que tendrá la más amplia libertad para dictar las medidas que protejan a las víctimas;
+
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+II.- Señalar y asegurar las cantidades que a título de alimentos debe dar el deudor alimentario al cónyuge acreedor y a los hijos que correspondan, debiéndose girar los oficios necesarios para conocer la capacidad económica del deudor alimentista, y en todos los casos decretar los apercibimientos de ley;
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 III.- Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicios en sus respectivos bienes ni en los de la sociedad conyugal en su caso. Asimismo, ordenar, cuando existan bienes que puedan pertenecer a ambos cónyuges, la anotación preventiva de la demanda en el Registro Público de la Propiedad y de Comercio del Distrito Federal y de aquellos lugares en que se conozca que tienen bienes;
 
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
 IV.- Revocar o suspender los mandatos que entre los cónyuges se hubieran otorgado, con las excepciones que marca el artículo 2596 de este Código;
 
+> <small>(ADICIONADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+V.- Las que sean necesarias para proteger integralmente a la mujer que se encuentre embarazada.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 3 DE OCTUBRE DE 2008)</small>
+
 B. Una vez contestada la solicitud:
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 I.- El Juez de lo Familiar determinará con audiencia de parte, y teniendo en cuenta el interés familiar y lo que más convenga a los hijos, cuál de los cónyuges continuará en el uso de la vivienda familiar y asimismo, previo inventario, los bienes y enseres que continúen en ésta y los que se ha de llevar el otro cónyuge, incluyendo los necesarios para el ejercicio de la profesión, arte u oficio a que esté dedicado, debiendo informar éste el lugar de su residencia;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 2 DE JUNIO DE 2022)</small>
 
-II. - Poner a las hijas e hijos al cuidado de la persona que de común acuerdo designen los cónyuges, pudiendo estos compartir la guarda y custodia mediante convenio. La Jueza o Juez de lo Familiar deberá, en todos los casos, ponderar el interés superior de la niñez, garantizando que reciba una protección integral de sus derechos fundamentales, para lo cual las y los menores podrán manifestar su opinión en relación con la guarda y custodia, misma que tendrá que ser tomada en cuenta al momento de emitir la resolución respectiva.
+II.- Poner a las hijas e hijos al cuidado de la persona que de común acuerdo designen los cónyuges, pudiendo estos compartir la guarda y custodia mediante convenio. La Jueza o Juez de lo Familiar deberá, en todos los casos, ponderar el interés superior de la niñez, garantizando que reciba una protección integral de sus derechos fundamentales, para lo cual las y los menores podrán manifestar su opinión en relación con la guarda y custodia, misma que tendrá que ser tomada en cuenta al momento de emitir la resolución respectiva.
 
 > <small>(REFORMADO, G.O. 2 DE JUNIO DE 2022)</small>
 
@@ -2245,45 +2299,85 @@ En el caso de que existan menores de doce años, la Jueza o Juez de lo Familiar 
 
 No será obstáculo para la preferencia en la custodia, el hecho de que la madre o padre por dedicarse al trabajo de cuidados en el hogar carezca de recursos económicos;
 
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
 III.- El Juez de lo Familiar resolverá teniendo presente el interés superior de los hijos, quienes serán escuchados, las modalidades del derecho de visita o convivencia con sus padres;
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 IV.- Requerirá a ambos cónyuges para que le exhiban, bajo protesta de decir verdad, un inventario de sus bienes y derechos, así como, de los que se encuentren bajo el régimen de sociedad conyugal, en su caso, especificando además el título bajo el cual se adquirieron o poseen, el valor que estime que tienen, las capitulaciones matrimoniales y un proyecto de partición. Durante el procedimiento, recabará la información complementaria y comprobación de datos que en su caso precise; y
 
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
 V.- Las demás que considere necesarias.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2024)</small>
+
+###### ARTICULO 282 Bis.
+
+Las medidas que se dicten para salvaguardar la integridad y seguridad de las víctimas de violencia familiar atendiendo a lo dispuesto en el artículo anterior, deberán ser suficientes para salvaguardar la integridad física, psicoemocional, sexual, los bienes, propiedades e incluso la vida, y podrán ser, entre otras:
+
+I. La desocupación de la persona agresora del domicilio donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, ya sea durante el matrimonio, en sociedad conyugal o en la separación de bienes y, en su caso, el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
+
+II. La prohibición de la persona agresora de acercarse o ingresar al domicilio, lugar de trabajo o de estudios de la víctima o cualquier otro que frecuente la víctima;
+
+III. La prohibición de la persona agresora para que se acerque a la víctima a la distancia que la Jueza o Juez considere pertinente;
+
+IV. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad de la víctima;
+
+V. La prohibición a la persona agresora de comunicarse con la víctima, por sí o por interpósita persona por cualquier medio incluyendo redes sociales;
+
+VI. La suspensión a la persona agresora de un régimen de visitas y convivencias con las y los menores de edad;
+
+VII. Prohibición a la persona agresora de enajenar o hipotecar bienes de la sociedad conyugal o los que se encuentren en el domicilio común en caso de concubinato, y
+
+VIII. Las demás que se consideren necesarias.
+
+Tratándose de violencia contra las mujeres y niñas además se estará a lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México.
+
+La sentencia definitiva determinará las medidas que deberán quedar vigentes, así como la forma de cumplimiento de las mismas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 283.
 
-La sentencia de divorcio fijará la situación de los hijos menores de edad para lo cual deberá contener las siguientes disposiciones:
+La sentencia de divorcio atenderá la perspectiva de género e interés superior de la infancia y adolescencia, fijando la situación de las hijas e hijos menores de edad, para lo cual deberá contener las siguientes disposiciones:
 
-I.- Todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos a convivir con ambos progenitores.
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-II.- Todas las medidas necesarias para proteger a los hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno.
+I.- Todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión, o limitación; a la guarda y custodia, así como a las obligaciones de crianza y el derecho de las hijas e hijos a convivir con ambos progenitores, las cuales podrán restringirse cuando exista peligro para su sano desarrollo, considerando los tipos de violencia previstos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México.
 
-III.- Las medidas necesarias para garantizar la convivencia de los hijos con sus padres, misma que sólo deberá ser limitada o suspendida cuando exista riesgo para los menores.
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+II.- Todas las medidas necesarias para proteger a las hijas e hijos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno.
 
-IV.- Tomando en consideración, en su caso, los datos recabados en términos del artículo 282 de este Código, el Juez de lo Familiar fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos.
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+III.- Las medidas necesarias para garantizar la convivencia de las hijas y los hijos con sus progenitores, la cual deberá ser limitada o suspendida cuando exista riesgo para los menores, o peligro para su sano desarrollo, considerando los tipos de violencia previstos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México.
 
-V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley de Asistencia y Prevención a la Violencia Familiar y Ley de Acceso de las Mujeres a una vida libre de Violencia para el Distrito Federal. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+IV.- Tomando en consideración, en su caso, los datos recabados en términos del artículo 282 de este Código, la Jueza o el Juez de lo Familiar fijará lo relativo a la división de los bienes y tomará las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a las hijas e hijos. Los excónyuges tendrán obligación de contribuir, en proporción a sus bienes e ingresos, al pago de alimentos a favor de los hijos.
+
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+V.- Las medidas de seguridad, seguimiento y las psicoterapias necesarias para corregir los actos de violencia familiar en términos de la Ley de Asistencia y Prevención a la Violencia Familiar y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para la Ciudad de México. Medidas que podrán ser suspendidas o modificadas en los términos previstos por el artículo 94 del Código de Procedimientos Civiles para el Distrito Federal.
 
 > <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 VI.- Para el caso de los mayores incapaces, sujetos a la tutela de alguno de los excónguyes (sic), en la sentencia de divorcio deberán establecerse las medidas a que se refiere este artículo para su protección.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-VII.- En caso de desacuerdo, el Juez de lo Familiar, en la sentencia de divorcio, habrá de resolver sobre la procedencia de la compensación que prevé el artículo 267 fracción VI, atendiendo a las circunstancias especiales de cada caso.
+VII.- En caso de desacuerdo, la Jueza o Juez de lo Familiar, en la sentencia de divorcio, habrá de resolver sobre la procedencia de la compensación que prevé el artículo 267 fracción VI, atendiendo a las circunstancias especiales de cada caso.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-VIII.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
+VIII.- Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés superior de las hijas y los hijos menores de edad.
 
-Para lo dispuesto en el presente artículo, de oficio o a petición de parte interesada, durante el procedimiento el Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos padres y a los menores.
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+
+Para lo dispuesto en el presente artículo, de oficio o a petición de parte interesada, durante el procedimiento la Jueza o Juez se allegará de los elementos necesarios, debiendo escuchar al Ministerio Público, a ambos padres y a las y los menores.
 
 > <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
 
@@ -2303,35 +2397,47 @@ El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas l
 
 (DEROGADO, G.O. 3 DE OCTUBRE DE 2008)
 
-> <small>(REFORMADO, G.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 287.
 
-En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 267 y éste no contravenga ninguna disposición legal, o presentaren un convenio emanado del procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, en uno u otro caso el juez lo aprobará de plano, decretando el divorcio mediante sentencia. En caso contrario, el juez decretará el divorcio dejando expedito el derecho de los cónyuges para que lo hagan valer por la vía incidental, exclusivamente por lo que concierne al convenio.
+En caso de que los cónyuges lleguen a un acuerdo respecto del convenio señalado en el artículo 267 y éste no contravenga ninguna disposición legal, o presentaren un convenio emanado de un procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, en uno u otro caso el juez lo aprobará de plano, decretando el divorcio mediante sentencia. En caso contrario, el juez decretará el divorcio dejando expedito el derecho de los cónyuges para que lo hagan valer en la vía incidental, exclusivamente por lo que concierne al convenio; quedando vigentes las medidas provisionales dictadas.
 
-> <small>(REFORMADO, G.O. 8 DE AGOSTO DE 2013)</small>
+La jueza o el juez exhortará en la referida sentencia que, previo al inicio de la vía incidental, las partes acudan al procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para la Ciudad de México, e intenten, a través de dicho procedimiento, llegar a un acuerdo respecto del convenio señalado.
 
-El juez exhortará en la referida sentencia que, previo al inicio de la vía incidental, las partes acudan al procedimiento de mediación a que se refiere la Ley de Justicia Alternativa del Tribunal Superior de Justicia para el Distrito Federal, e intenten, a través de dicho procedimiento, llegar a un acuerdo respecto del convenio señalado.
+En caso de que las partes, una vez recibida la pre-mediación, no hubieren aceptado el procedimiento, o habiéndolo iniciado no fuera posible llegar a un acuerdo, podrán hacer valer sus derechos por la vía incidental. En el caso de que las partes logren la construcción de un acuerdo por medio del procedimiento de mediación, lo harán del conocimiento de la persona juzgadora.
 
-En caso de que las partes, una vez recibida la pre-mediación, no hubieren aceptado el procedimiento, o habiéndolo iniciado no fuera posible llegar a un acuerdo, podrán hacer valer sus derechos por la vía incidental. En el caso de que las partes logren la construcción de un acuerdo por medio del procedimiento de mediación, lo harán del conocimiento del juez.
-
-> <small>(REFORMADO, G.O. 3 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 288.
 
-En caso de divorcio, el Juez resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos, esté imposibilitado para trabajar o carezca de bienes; tomando en cuenta las siguientes circunstancias:
+En caso de divorcio, la jueza o Juez resolverá sobre el pago de alimentos a favor del cónyuge que, durante el matrimonio se haya dedicado preponderantemente a las labores del hogar y en su caso al cuidado de las hijas e hijos, esté imposibilitado para trabajar o carezca de bienes suficientes para sufragar sus necesidades; tomando en cuenta las siguientes circunstancias:
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 I.- La edad y el estado de salud de los cónyuges;
 
-II.- Su calificación profesional y posibilidad de acceso a un empleo;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+II.- Su calificación profesional y posibilidad de acceso a un empleo remunerado, tomando en consideración el grado de estudios y experiencia profesional;
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 III.- Duración del matrimonio y dedicación pasada y futura a la familia;
 
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
 IV.- Colaboración con su trabajo en las actividades del cónyuge;
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 V.- Medios económicos de uno y otro cónyuge, así como de sus necesidades; y
 
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
+
 VI.- Las demás obligaciones que tenga el cónyuge deudor.
+
+> <small>(REFORMADA, G.O. 3 DE OCTUBRE DE 2008)</small>
 
 En la resolución se fijarán las bases para actualizar la pensión y las garantías para su efectividad. El derecho a los alimentos se extingue cuando el acreedor contraiga nuevas nupcias o se una en concubinato o haya transcurrido un término igual a la duración del matrimonio.
 
@@ -2363,29 +2469,33 @@ Ejecutoriada una sentencia de divorcio, el Juez de lo Familiar, bajo su más est
 
 ###### ARTICULO 291 Bis.
 
-Las concubinas y los concubinos tienen derechos y obligaciones recíprocos, siempre que sin impedimentos legales para contraer matrimonio, han vivido en común en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este capítulo.
+Las concubinas y los concubinarios tienen derechos y obligaciones recíprocos, siempre que, sin impedimentos legales para contraer matrimonio, han vivido en común en forma constante y permanente por un período mínimo de dos años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este capítulo.
 
-No es necesario el transcurso del período mencionado cuando, reunidos los demás requisitos, tengan un hijo en común.
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
-Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se reputará concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios.
+No es necesario el transcurso del período mencionado cuando, reunidos los demás requisitos, tengan un hijo o una hija en común.
 
-> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
-Los Jueces del Registro Civil podrán recibir declaraciones con relación a existencia o cesación de concubinato, existencia o cesación de cohabitación y otros hechos relativos a relaciones de pareja que no constituyan modificaciones al estado civil, y que las personas deseen hacer constar, ante el referido Juez del Registro Civil.
+Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se reputará concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios y en su caso, pensión alimenticia.
 
-> <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
-Los Jueces del Registro Civil harán constar por escrito y en los formatos que al efecto se aprueben, las declaraciones emitidas por las personas que acudan a formular las mismas. Estos formatos serán conservados por la Dirección General del Registro Civil y se podrán expedir constancias de las mismas, las cuales sólo acreditan el hecho de la comparecencia y de haber emitido las declaraciones en ella contenidas. Las constancias emitidas por Dirección General del Registro Civil en los términos del presente artículo no constituyen modificaciones al estado civil de las personas, circunstancia que se asentará en los formatos respectivos.
+Las Juezas y Jueces del Registro Civil podrán recibir declaraciones con relación a existencia o cesación de concubinato, existencia o cesación de cohabitación y otros hechos relativos a relaciones de pareja que no constituyan modificaciones al estado civil, y que las personas deseen hacer constar, ante el referido Juez del Registro Civil.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+
+Las Juezas y Jueces del Registro Civil harán constar por escrito y en los formatos que al efecto se aprueben, las declaraciones emitidas por las personas que acudan a formular las mismas. Estos formatos serán conservados por la Dirección General del Registro Civil, y se podrán expedir constancias de las mismas, las cuales sólo acreditan el hecho de la comparecencia y de haber emitido las declaraciones en ella contenidas. Las constancias emitidas por la Dirección General del Registro Civil en los términos del presente artículo no constituyen modificación del estado civil de las personas, circunstancia que se asentará en los formatos respectivos.
 
 > <small>(ADICIONADO, G.O. 31 DE OCTUBRE DE 2014)</small>
 
 En caso de que, mediante las declaraciones se pretenda hacer constar actos que pudieran constituir un ilícito o una modificación al estado civil de las personas, el Juez del Registro Civil podrá negar el servicio, fundando y motivando su negativa.
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 291 Ter.
 
-Regirán al concubinato todos los derechos y obligaciones inherentes a la familia, en lo que le fueren aplicables.
+Regirán al concubinato todos los derechos y obligaciones inherentes a la familia y del matrimonio, en lo que le fueren aplicables.
 
 > <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2397,7 +2507,7 @@ El concubinato genera entre los concubinos derechos alimentarios y sucesorios, i
 
 ARTICULO 291 Quintus.- Al cesar la convivencia, la concubina o el concubinario que carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quien haya demostrado ingratitud, o viva en concubinato o contraiga matrimonio.
 
-El derecho que otorga este artículo podrá ejercitarse solo durante el año siguiente a la cesación del concubinato.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -2467,21 +2577,31 @@ En la línea transversal los grados se cuentan por el número de generaciones, s
 
 ### CAPITULO IV. Del Registro de Deudores Alimentarios Morosos
 
-(ADICIONADO, G.O. 18 DE AGOSTO DE 2011) (REUBICADO [N. DE E. ANTES ARTÍCULO 323 SÉPTIMUS], G.O. 9 DE MAYO DE 2014)
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], G.O. 28 DE JUNIO DE 2024)</small>
 
-ARTICULO 323 OCTAVUS.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 309 del presente Código. Dicho registro contendrá:
+ARTICULO 323 Octavus.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 309 del presente Código. Dicho registro contendrá:
 
-> <small>(REFORMADA, G.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-I. Nombre, apellidos, Registro Federal de Contribuyentes y Clave Única del Registro de Población del deudor alimentario moroso;
+I. Nombre, apellidos Registro Federal de Contribuyentes y Clave Única de Registro de Población del deudor alimentario moroso. Esta información será del dominio público;
+
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
 
 II. Nombre del acreedor o acreedores alimentarios;
 
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
+
 III. Datos del acta que acrediten el vínculo entre deudor y acreedor alimentario, en su caso;
 
-IV. Numero de pagos incumplidos y monto del adeudo alimentario;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+IV. Número de pagos incumplidos y monto del adeudo alimentario;
+
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
 
 V. Órgano jurisdiccional que ordena el registro; y
+
+> <small>(ADICIONADA, G.O. 18 DE AGOSTO DE 2011)</small>
 
 VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
 
@@ -2511,15 +2631,23 @@ El Certificado a que se refiere el presente artículo, será expedido por el Reg
 
 La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2024)</small>
+
+###### ARTICULO 301 Bis.
+
+Los alimentos son de orden público, interés social y de observancia general en la Ciudad de México, por lo que el juez o jueza tienen la obligación de garantizar el derecho de las personas a recibirlos; tomando en consideración el interés superior de la infancia y adolescencia, así como las necesidades inmediatas de las y los acreedores alimentistas.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 302.
 
-Los cónyuges están obligados a proporcionarse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de separación, divorcio, nulidad de matrimonio y otros que la ley señale. Los concubinos están obligados en términos del artículo anterior.
+Cónyuges y concubinos están obligados a proporcionarse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de separación, divorcio, nulidad de matrimonio y otros que la ley señale.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 303.
 
-Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+Las y los progenitores están obligados a dar alimentos a sus hijas e hijos. A falta o por imposibilidad debidamente acreditada de las y los progenitores, la obligación recae en los demás ascendientes por ambas líneas que estuvieran más próximos en grado, conforme a la capacidad económica de los mismos.
 
 ###### ARTICULO 304.
 
@@ -2553,29 +2681,25 @@ Los alimentos comprenden:
 
 I.- La comida, el vestido, la habitación, la atención médica, la hospitalaria y en su caso, los gastos de embarazo y parto;
 
-II.- Respecto de los menores, además, los gastos para su educación y para proporcionarles oficio, arte o profesión adecuados a sus circunstancias personales;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+II.- Respecto de los menores, además, los gastos para su educación y para proporcionarles oficio, arte o profesión adecuados a sus circunstancias personales y para su esparcimiento;
 
 III.- Con relación a las personas con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo; y
 
 IV.- Por lo que hace a los adultos mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 309.
 
-El obligado a proporcionar alimentos cumple su obligación, asignando una pensión al acreedor alimentista o integrándolo a la familia. En caso de conflicto para la integración, corresponde al Juez de lo Familiar fijar la manera de ministrar los alimentos, según las circunstancias.
+El obligado a proporcionar alimentos cumple su obligación, asignando una pensión al acreedor alimentista o integrándolo a la familia. En caso de conflicto para la integración, corresponde a la Jueza o Juez de lo Familiar fijar la manera de ministrar los alimentos, según las circunstancias.
 
-> <small>(REFORMADO, G.O. 28 DE JULIO DE 2014)</small>
+Aquella persona que incumpla con lo señalado con el párrafo anterior por un periodo de sesenta días se constituirá en deudor alimentario moroso. La Jueza o Juez de lo Familiar ordenará al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos, proporcionando al Registro los datos de identificación del deudor alimentario que señala el artículo 323 Séptimus, los cuales le serán proporcionados al Juez por el acreedor alimentario.
 
-Aquella persona que incumpla con lo señalado con el párrafo anterior por un periodo de noventa días se constituirá en deudor alimentario moroso. El Juez de lo Familiar ordenará al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos, proporcionando al Registro los datos de identificación del deudor alimentario que señala el artículo 323 Septimus, los cuales le serán proporcionados al Juez por el acreedor alimentario.
+El deudor alimentario moroso que acredite ante la Jueza o Juez que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
 
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
-
-El deudor alimentario moroso que acredite ante el Juez que han sido pagados en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
-
-> <small>(ADICIONADO, G.O. 18 DE AGOSTO DE 2011)</small>
-
-El Registro Civil cancelara las inscripciones a que se refiere el segundo párrafo previa orden judicial.
+El Registro Civil cancelará las inscripciones a que se refiere el segundo párrafo previa orden judicial.
 
 > <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2589,17 +2713,21 @@ El deudor alimentista no podrá pedir que se incorpore a su familia el que debe 
 
 Los alimentos han de ser proporcionados a las posibilidades del que debe darlos y a las necesidades de quien deba recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual anual correspondiente al Índice Nacional de Precios al Consumidor publicado por el Banco de México, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2024)</small>
+
+En caso de no poder acreditarse los ingresos del deudor alimentario ni poder determinarse la capacidad económica del mismo, los alimentos no podrán en ningún caso ser menores a la UMA vigente en la Ciudad de México.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 311 Bis.
 
-Los menores, las personas con discapacidad, los sujetos a estado de interdicción y el cónyuge que se dedique al hogar, gozan de la presunción de necesitar alimentos.
+Las niñas, niños y adolescentes; las personas con discapacidad; las personas sujetas a estado de interdicción, concubinas o cónyuges que se dediquen preponderantemente al hogar, gozan de la presunción de necesitar alimentos.
 
-> <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 311 Ter.
 
-Cuando no sean comprobables el salario o los ingresos del deudor alimentario, el Juez de lo Familiar resolverá con base en la capacidad económica y nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años.
+Cuando no sean comprobables el salario o los ingresos de la persona deudora alimentaria, la Jueza o Juez de lo Familiar resolverá con base en la capacidad económica y nivel de vida que las y los acreedores alimentarios y la o el deudor haya llevado en los últimos dos años.
 
 > <small>(ADICIONADO, G.O. 25 DE MAYO DE 2000)</small>
 
@@ -2675,7 +2803,7 @@ En los casos en que los que ejerzan la patria potestad gocen de la mitad del usu
 
 Se suspende o cesa, según el caso, la obligación de dar alimentos, por cualquiera de las siguientes causas:
 
-I.- Cuando el que la tiene carece de medios para cumplirla;
+I.- (DEROGADA, G.O. 28 DE JUNIO DE 2024)
 
 II.- Cuando el alimentista deja de necesitar los alimentos;
 
@@ -2703,19 +2831,29 @@ El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transa
 
 Cuando el deudor alimentario no estuviere presente, o estándolo rehusare entregar los alimentos a que está obligado, será responsable de las deudas que los acreedores contraigan para cubrir sus exigencias.
 
-El Juez de lo Familiar resolverá respecto al monto de la deuda, en atención a lo dispuesto en el artículo 311.
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, G.O. 22 DE JULIO DE 2005)</small>
+La Jueza o Juez de lo Familiar resolverá respecto al monto de la deuda, en atención a lo dispuesto en el artículo 311.
+
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2024)</small>
+
+Si la persona obligada mediante resolución judicial al pago de la pensión alimenticia provisional o definitiva, dejara de cubrirla sin causa justificada por un periodo mayor a sesenta días, la Jueza o Juez de lo Familiar de inmediato, deberá dar aviso a las autoridades migratorias y demás competentes de conformidad con el artículo 48, fracción VI, de la Ley de Migración, a fin de restringir la salida del país de la persona deudora alimentaria, siempre que esta sea una medida idónea para el cumplimiento de la obligación alimentaria.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 323.
 
-En casos de separación o de abandono de los cónyuges, el que no haya dado lugar a ese hecho podrá solicitar al juez de lo familiar que obligue al otro a seguir contribuyendo con los gastos del hogar durante la separación, en la proporción en que lo venía haciendo hasta antes de ésta; así como también, satisfaga los adeudos contraídos en los términos del Artículo 322. Si dicha proporción no se pudiera determinar, el juez de lo familiar fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y el pago de lo que ha dejado de cubrir desde la separación.
+En casos de separación o de abandono de los cónyuges, el que no haya dado lugar a ese hecho podrá solicitar al juez de lo familiar que obligue al otro a seguir contribuyendo con los gastos del hogar durante la separación, en la proporción en que lo venía haciendo hasta antes de ésta; así como también, satisfaga los adeudos contraídos en los términos del Artículo 322. Si dicha proporción no se pudiera determinar, la jueza o el juez de lo familiar fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y el pago de lo que ha dejado de cubrir desde la separación.
 
-Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez de lo Familiar; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles y responderá solidariamente con los obligados directos de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
+Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite la jueza o el Juez de lo Familiar; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles y responderá solidariamente con los obligados directos de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
 
-Las personas que se resistan a acatar las órdenes judiciales de descuento, o auxilien al deudor a ocultar o simular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo anterior, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+La fuente de trabajo en donde labore el deudor alimentario realizará los descuentos respectivos directo de su nómina para cubrir las pensiones alimenticias adeudadas, quienes incumplan con esta obligación se estarán a lo dispuesto en el párrafo anterior.
 
-El deudor alimentario deberá informar de inmediato al Juez de lo Familiar y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
+Las personas que incurran en desacato a las órdenes judiciales de descuento, o auxilien al deudor a ocultar o simular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo segundo de este artículo, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+El deudor alimentario deberá informar de inmediato a la jueza o Juez de lo Familiar y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
+
+En tanto no se cumpla con el pago de la pensión alimenticia correspondiente, el deudor no podrá solicitar o demandar cambio de guarda y custodia ni suspensión o pérdida de patria potestad de sus hijas e hijos.
 
 ###### ARTICULO 323 Bis.
 
@@ -2731,7 +2869,13 @@ El deudor alimentario deberá informar de inmediato al Juez de lo Familiar y al 
 
 Los integrantes de la familia tienen derecho a desarrollarse en un ambiente de respeto a su integridad física, psicoemocional, económica y sexual y tienen la obligación de evitar conductas que generen violencia familiar.
 
-A tal efecto, contarán con la asistencia y protección de las instituciones públicas, de acuerdo a las leyes para combatir y prevenir conductas de violencia familiar.
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+
+Para tal efecto, contarán con la asistencia y protección de las instituciones públicas, de acuerdo a las leyes para combatir, prevenir y sancionar conductas de violencia familiar.
+
+> <small>(ADICIONADO, G.O. 28 DE JUNIO DE 2024)</small>
+
+En los casos de violencia familiar y en particular violencia contra las mujeres la Jueza o Juez deberán actuar con la debida diligencia y expedirán de manera pronta y expedita todas las medidas necesarias para asegurar y garantizar a las víctimas, el goce de sus derechos humanos y sus libertades fundamentales.
 
 > <small>(REFORMADO, G.O. 17 DE ENERO DE 2007)</small>
 
@@ -3155,11 +3299,11 @@ La persona que cuida o ha cuidado de la lactancia de un niño, a quien le ha dad
 
 Cuando la madre contradiga el reconocimiento hecho sin su consentimiento, quedará aquél sin efecto, y la cuestión relativa a la paternidad se resolverá en el juicio contradictorio correspondiente.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 380.
 
-Cuando el padre y la madre que no vivan juntos reconozcan a un hijo en el mismo acto, convendrán cuál de los dos ejercerá su guarda y custodia; y si no lo hicieren, el Juez de lo Familiar, oyendo al padre, madre y al menor, resolverá lo más conveniente atendiendo siempre el interés superior del menor.
+Cuando el padre y la madre que no vivan juntos reconozcan a una hija o hijo en el mismo acto, convendrán cuál de los dos ejercerá su guarda y custodia; y si no lo hicieren, el Juez de lo Familiar, oyendo al padre, madre y al menor, resolverá lo más conveniente atendiendo siempre el interés superior de la niñez.
 
 > <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
 
@@ -3515,39 +3659,47 @@ Quienes detenten la patria potestad tienen la responsabilidad de relacionarse de
 
 Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 413.
 
-La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto, en cuanto a la guardia y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con la Ley para el Tratamiento de Menores Infractores, para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+La patria potestad se ejerce sobre la persona y los bienes de las hijas y los hijos. Su ejercicio queda sujeto, en cuanto a la guardia y educación de las y los menores de edad, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con la Ley de Justicia para Adolescentes para la Ciudad de México.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 414.
 
-La patria potestad sobre los hijos se ejerce por los padres. Cuando por cualquier circunstancia deje de ejercerla alguno de ellos, corresponderá su ejercicio al otro.
+La patria potestad sobre las hijas y los hijos se ejerce por la madre y el padre. Cuando por cualquier circunstancia deje de ejercerla alguno de ellos, corresponderá su ejercicio al otro.
 
-A falta de ambos padres o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el juez de lo familiar, tomando en cuenta las circunstancias del caso.
+A falta de la progenitora y progenitor o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre las y los menores de edad, los ascendientes en segundo grado en el orden que determine la Jueza o el Juez de lo Familiar, tomando en cuenta las circunstancias del caso.
 
-> <small>(ADICIONADO, G.O. 4 DE AGOSTO DE 2023)</small>
-
-La autoridad jurisdiccional deberá solicitar información a las autoridades ministeriales o jurisdiccionales en materia penal a fin de verificar si la ausencia de la madre se debe a un caso de feminicidio con el fin de analizar las circunstancias particulares del caso y garantizar la seguridad e interés superior de la niñez de las hijas o hijos de la víctima de feminicidio.
-
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 414 Bis.
 
-Quienes ejercen la patria potestad o la guarda y custodia provisional o definitiva de un menor, independientemente de que vivan o no en el mismo domicilio, deben dar cumplimiento a las siguientes obligaciones de crianza:
+Quienes ejercen la patria potestad o la guarda y custodia provisional o definitiva de menores de edad, independientemente de que vivan o no en el mismo domicilio, deben dar cumplimiento a las siguientes obligaciones de crianza:
 
-I.- Procurar la seguridad física, psicológica y sexual;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-II.- Fomentar hábitos adecuados de alimentación, de higiene personal y de desarrollo físico. Así como impulsar habilidades de desarrollo intelectual y escolares;
+I.- Procurar en todo momento la seguridad física, psicológica y sexual;
 
-III.- Realizar demostraciones afectivas, con respeto y aceptación de éstas por parte del menor, y
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-IV.- Determinar límites y normas de conducta preservando el interés superior del menor.
+II.- Fomentar hábitos adecuados de alimentación, de higiene personal y de desarrollo físico. Así como impulsar habilidades de desarrollo intelectual y escolares conforme a la edad de las niñas y niños;
 
-Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática no se realicen las actividades señaladas; lo que el Juez valorará en los casos de suspensión de la patria potestad, de la determinación de la guarda y custodia provisional y definitiva, y el régimen de convivencias.
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+III.- Realizar demostraciones afectivas, con respeto y aceptación de éstas por parte de la o el menor de edad, y
+
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+IV.- Determinar límites y normas de conducta preservando el interés superior de las y los menores de edad.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+
+Se considerará incumplimiento de las obligaciones de crianza, el que sin justificación y de manera permanente y sistemática no se realicen las actividades señaladas; lo que la Jueza o Juez de lo Familiar, valorarán en los casos de suspensión de la patria potestad, de la determinación de la guarda y custodia provisional y definitiva y el régimen de convivencias.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
 
 No se considera incumplimiento de éstas obligaciones el que cualquiera de los progenitores tenga jornadas laborales extensas.
 
@@ -3555,13 +3707,13 @@ No se considera incumplimiento de éstas obligaciones el que cualquiera de los p
 
 (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 416.
 
-En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus obligaciones y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de los menores. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente, previo el procedimiento que fija el Título Décimo Sexto del Código de Procedimientos Civiles.
+En caso de separación de quienes ejercen la patria potestad, ambos deberán continuar con el cumplimiento de sus obligaciones y podrán convenir los términos de su ejercicio, particularmente en lo relativo a la guarda y custodia de las y/o los menores de edad. En caso de desacuerdo, la Jueza o Juez de lo Familiar resolverá lo conducente, previo el procedimiento que fija el Título Décimo Sexto del Código de Procedimientos Civiles.
 
-Con base en el interés superior del menor, éste quedará bajos (sic) los cuidados y atenciones de uno de ellos. El otro estará obligado a colaborar en su alimentación y crianza conservando el derecho de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial.
+Atendiendo el interés superior de la o el menor de edad, éste quedará bajo los cuidados y atenciones de uno de ellos. La otra persona estará obligado (sic) a colaborar en su alimentación y crianza conservando el derecho de convivencia con el menor, conforme a las modalidades previstas en el convenio o resolución judicial. En los casos de violencia familiar la Jueza o Juez de lo Familiar determinará lo conducente con base en el interés superior de la niñez.
 
 > <small>(REFORMADO, G.O. 10 DE JUNIO DE 2022)</small>
 
@@ -3579,45 +3731,55 @@ No podrán impedirse, sin justa causa, las relaciones personales entre la niña,
 
 Para los casos anteriores y sólo por mandato judicial, este derecho deberá ser limitado o suspendido considerando el incumplimiento reiterado de las obligaciones de crianza por parte de alguno de los progenitores o cuando la salud e integridad física, psicológica o sexual de las niñas, niños y adolescentes se encuentre en peligro.
 
-> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 416 Ter.
 
-Para los efectos del presente Código se entenderá como interés superior del menor la prioridad que ha de otorgarse a los derechos de las niñas y los niños respecto de los derechos de cualquier otra persona, con el fin de garantizar, entre otros, los siguientes aspectos:
+Para los efectos del presente Código se entenderá como interés superior del menor, la prioridad que ha de otorgarse a los derechos de las niñas, niños y adolescentes respecto de los derechos de cualquier otra persona, con el fin de garantizar, entre otros, los siguientes aspectos:
 
-I.- El acceso a la salud física y mental, alimentación y educación que fomente su desarrollo personal;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+I.- El acceso a la salud física, emocional, mental y sexual, alimentación y educación que fomente su desarrollo personal;
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
 
 II.- El establecimiento de un ambiente de respeto, aceptación y afecto, libre de cualquier tipo de violencia familiar;
 
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
+
 III.- El desarrollo de la estructura de personalidad, con una adecuada autoestima, libre de sobreprotección y excesos punitivos;
 
-IV.- Al fomento de la responsabilidad personal y social, así como a la toma de decisiones del menor de acuerdo a su edad y madurez psicoemocional; y
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+IV.- Al fomento de la responsabilidad personal y social, así como a la toma de decisiones del menor de edad de acuerdo a su edad y madurez psicoemocional; y
+
+> <small>(ADICIONADA, G.O. 2 DE FEBRERO DE 2007)</small>
 
 V.- Los demás derechos que a favor de las niñas y los niños reconozcan otras leyes y tratados aplicables.
 
-> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 417.
 
-En caso de desacuerdo sobre las convivencias o cambio de guarda y custodia, en la controversia o en el incidente respectivo deberá oírse a los menores.
+En caso de desacuerdo sobre las convivencias o cambio de guarda y custodia, en la controversia o en el incidente respectivo deberá oírse a las y los menores de edad, tomando en cuenta su edad, así como su facilidad de comunicación y expresión.
 
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
+A efecto de que la o el menor de edad sea adecuadamente escuchado independientemente de su edad, deberá ser asistido en la audiencia respectiva por el asistente de menores de edad que para tal efecto designe el Sistema para el Desarrollo Integral de la Familia de la Ciudad de México.
 
-A efecto de que el menor sea adecuadamente escuchado independientemente de su edad, deberá ser asistido en la misma por el asistente de menores que para tal efecto designe el Sistema para el Desarrollo Integral de la Familia del Distrito Federal. En caso de que a la audiencia no se presentare el asistente de los menores, atendiendo al interés superior de estos, será potestativo para el Juez celebrar o no la audiencia una vez que verifique si es factible la comunicación libre y espontánea con el menor.
-
-> <small>(REFORMADO, G.O. 18 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 417 Bis.
 
-Se entenderá por asistente de menores al profesional en psicología, trabajo social o pedagogía exclusivamente, adscrito al Sistema para el Desarrollo Integral de la Familia del Distrito Federal u otra institución avalada por éste, que asista al menor, sólo para efecto de facilitar su comunicación libre y espontánea y darle protección psicológica y emocional en las sesiones donde éste sea oído por el juez en privado, sin la presencia de los progenitores, y sin que ello implique su intervención en la audiencia.
+Se entenderá por asistente de menores a la o el profesional en psicología, trabajo social o pedagogía exclusivamente, adscrito al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México u otra institución avalada por éste, que asista a la o al menor de edad, sólo para efecto de facilitar su comunicación libre y espontánea y darle protección psicoemocional en la audiencia donde éste sea oído por la Jueza o el Juez en privado, sin la presencia de los progenitores, ni representantes legales de las partes.
 
-Dicho asistente podrá solicitar hasta dos entrevistas previas a la escucha del menor, siendo obligatorio para el progenitor que tenga la guarda y custodia del menor, dar cumplimiento a los requerimientos del asistente del menor.
+Dicho asistente deberá tener acceso al expediente en el que se actúe para que tenga conocimiento sobre la situación de las niñas o los niños, y podrá solicitar hasta dos entrevistas previas con la y/o el menor de edad, para efectos de generarle seguridad y lograr su comunicación libre y espontánea. Es obligatorio para la persona que tenga bajo su cuidado o guarda y custodia a la o el menor de edad dar cumplimiento a los requerimientos de la o el asistente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 418.
 
-Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor. Quien conserva la patria potestad tendrá la obligación de contribuir con el pariente que custodia al menor en todos sus deberes, conservando sus derechos de convivencia y vigilancia.
+Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de una o un menor de edad. Quien conserva la patria potestad tendrá la obligación de contribuir con el pariente que custodia a la o el menor de edad en todos sus deberes, conservando sus derechos de convivencia y vigilancia.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
 La anterior custodia podrá terminar por decisión del pariente que la realiza, por quien o quienes ejercen la patria potestad o por resolución judicial.
 
@@ -3629,9 +3791,11 @@ La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las persona
 
 Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 421.
 
-Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen, sin permiso de ellos o decreto de la autoridad competente.
+Mientras estuviere la hija o el hijo en la patria potestad, no podrá dejar la casa de los que la ejercen, sin permiso de ellos o decreto de la autoridad competente.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -3659,43 +3823,55 @@ El que está sujeto a la patria potestad no puede comparecer en juicio, ni contr
 
 Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
-> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1954)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 426.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a su consorte y requerirá su consentimiento expreso para los actos más importantes de la administración.
+Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será nombrado por mutuo acuerdo; pero el designado consultará en todos los negocios a la otra persona que también ejerza la patria potestad y requerirá su consentimiento expreso para los actos más importantes de la administración.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 427.
 
-La persona que ejerza la patria potestad representará también a los hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su consorte, y con la autorización judicial cuando la ley lo requiera expresamente.
+La persona que ejerza la patria potestad representará también a las hijas o hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de la otra persona que también ejerza la patria potestad y con la autorización judicial cuando la ley lo requiera expresamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 428.
 
-Los bienes del hijo, mientras esté en la patria potestad, se dividen en dos clases:
+Los bienes de la hija o del hijo, mientras esté en la patria potestad, se dividen en dos clases:
 
 I.- Bienes que adquiera por su trabajo;
 
 II.- Bienes que adquiera por cualquiera otro título.
 
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 429.
 
-Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al hijo.
+Los bienes de la primera clase pertenecen en propiedad, administración y usufructo de la hija o del hijo.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 430.
 
-En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo; la administración y la otra mitad del usufructo corresponde a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto.
+En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen a la hija o el hijo; la administración y la otra mitad del usufructo corresponde a las personas que ejerzan la patria potestad. Sin embargo, si las hijas o los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca a la hija o al hijo o que se destine a un fin determinado, se estará a lo dispuesto.
 
 ###### ARTICULO 431.
 
 Los padres pueden renunciar su derecho a la mitad del usufructo, haciendo constar su renuncia por escrito o de cualquier otro modo que no deje lugar a duda.
 
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 432.
 
-La renuncia del usufructo hecha en favor del hijo, se considera como donación.
+La renuncia del usufructo hecha en favor de la hija o hijo, se considera como donación.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 433.
 
-Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo, pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
+Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda a la hija o al hijo, pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
 
 ###### ARTICULO 434.
 
@@ -3707,19 +3883,25 @@ II.- Cuando contraigan ulteriores nupcias;
 
 III.- Cuando su administración sea notoriamente ruinosa para los hijos.
 
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 435.
 
-Cuando por la ley o por la voluntad del padre, el hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+Cuando por la Ley o por la voluntad del padre o la madre, la hija o el hijo, tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 436.
 
-Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles y los muebles preciosos que correspondan al hijo, sino por causa de absoluta necesidad o de evidente beneficio, y previa la autorización del juez competente.
+Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes muebles e inmuebles preciosos que correspondan a la hija o al hijo, sino por causa de absoluta necesidad o de evidente beneficio y previa la autorización de la Jueza o juez competente.
 
-Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los hijos.
+Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de las hijas o a los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de la hija o el hijo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 437.
 
-Siempre que el juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor.
+Siempre que la jueza o juez de lo familiar conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor de la hija o el hijo.
 
 Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
 
@@ -3737,23 +3919,31 @@ II.- Por la pérdida de la patria potestad;
 
 III.- Por renuncia.
 
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTICULO 439.
 
-Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los hijos.
+Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de la hija o el hijo.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 440.
 
-En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de los hijos, serán éstos representados, en juicio y fuera de él, por un tutor nombrado por el juez para cada caso.
+En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de las hijas o los hijos, serán éstos representados, en juicio y fuera de él, por un tutor nombrado por la jueza o por el juez familiar para cada caso.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 441.
 
-Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del hijo se derrochen o se disminuyan.
+La jueza o el juez familiar, tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes de la hija o el hijo se derrochen o se disminuyan.
 
-Estas medidas se tomarán a instancias de las personas interesadas, del menor cuando hubiere cumplido catorce años, o del Ministerio Público en todo caso.
+Estas medidas se tomarán a instancias de las personas interesadas, de las o los menores de edad, cuando hubiere cumplido catorce años, o del Ministerio Público en todo caso.
+
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 442.
 
-Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
+Las personas que ejerzan la patria potestad deben entregar a la hija o el hijo, luego que éstos se emancipen o lleguen a la mayoría de edad, todos los bienes y frutos que les pertenecen.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 9 DE JUNIO DE 2004)</small>
 
@@ -3769,11 +3959,17 @@ I. Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
 II. (DEROGADA, G.O. 26 DE FEBRERO DE 2021)
 
-III. Por la mayor edad del hijo;
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-IV. Con la adopción del hijo;
+III. Por la mayoría de edad de la hija o el hijo.
 
-V. Cuando el que ejerza la patria potestad de un menor, lo entregue a una Institución pública o privada de asistencia social legalmente constituida, para ser dado en adopción de conformidad con lo dispuesto por el artículo 901 bis del Código de Procedimientos Civiles.
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+IV. Con la adopción de la hija o el hijo.
+
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
+
+V. Cuando el que ejerza la patria potestad de una o un menor de edad, lo entregue a una Institución pública o privada de asistencia social legalmente constituida, para ser dado en adopción de conformidad con lo dispuesto por el artículo 901 bis del Código de Procedimientos Civiles.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 2 DE FEBRERO DE 2007)</small>
 
@@ -3829,17 +4025,17 @@ X. Cuando el que la ejerza sea condenado por sentencia firme por el delito de fe
 
 XI. En casos donde se configure violencia vicaria. Para efectos de esta fracción se estará a lo previsto en el artículo 323 Séptimus de este Código en relación con el artículo 201 del Código Penal para el Distrito Federal y artículo 6 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 444 Bis.
 
-La patria potestad podrá ser limitada en los casos de divorcio o separación, tomando en cuanta (sic) lo que dispone este Código.
+La patria potestad podrá ser limitada en los casos de divorcio o separación, o violencia familiar, tomando en cuenta lo que dispone este Código.
 
-> <small>(REFORMADO, G.O. 25 DE MAYO DE 2000)</small>
+> <small>(REFORMADO, G.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTICULO 445.
 
-Cuando los que ejerzan la patria potestad pasen a segundas nupcias, no perderán por ese hecho los derechos y obligaciones inherentes a la patria potestad; así como tampoco el cónyuge o concubino con quien se una, ejercerá la patria potestad de los hijos de la unión anterior.
+Cuando los que ejerzan la patria potestad pasen a segundas nupcias, no perderán por ese hecho los derechos y obligaciones inherentes a la patria potestad; así como tampoco el cónyuge o concubino con quien se una, ejercerá la patria potestad de las hijas y los hijos de la unión anterior.
 
 ###### ARTICULO 446.
 
@@ -3853,25 +4049,25 @@ I.- Por incapacidad declarada judicialmente;
 
 II.- Por la ausencia declarada en forma;
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-III.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, y que amenacen con causar algún perjuicio cualquiera que este sea al menor;
+III.- Cuando el consumo del alcohol, el hábito de juego, el uso no terapéutico de las substancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, amenacen causar algún perjuicio cualquiera que este sea a las y los menores de edad;
 
 > <small>(REFORMADA, G.O. 25 DE MAYO DE 2000)</small>
 
 IV.- Por sentencia condenatoria que imponga como pena esta suspensión;
 
-> <small>(ADICIONADA, G.O. 6 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-V.- Cuando exista la posibilidad de poner en riesgo la salud, el estado emocional o incluso su vida del o de los descendientes menores por parte de quien conserva la custodia legal, o de pariente por consaguinidad (sic) o afinidad hasta por el cuarto grado;
+V.- Cuando exista la posibilidad de poner en riesgo la salud, el estado emocional o incluso la vida del o de los descendientes menores de edad por parte de quien conserva la guarda y custodia, o de pariente por consanguinidad o afinidad hasta por el cuarto grado;
 
 > <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
 
 VI.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente, salvo lo dispuesto por la fracción IX del artículo 444 del presente Código; y
 
-> <small>(REFORMADA, G.O. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 28 DE JUNIO DE 2024)</small>
 
-VII.- En los casos y mientras dure la tutela de los menores en situación de desamparo de acuerdo a lo dispuesto en el presente Código y del artículo 902 (sic) Código de Procedimientos Civiles para el Distrito Federal.
+VII.- En los casos y mientras dure la tutela de las o los menores de edad en situación de desamparo de acuerdo a lo dispuesto en el presente Código y del artículo 902 Código de Procedimientos Civiles.
 
 ###### ARTICULO 448.
 
@@ -15120,6 +15316,14 @@ SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publica
 G.O. 27 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 323 SÉPTIMUS; SE REFORMAN LAS FRACCIONES IX Y X, Y SE ADICIONA UNA FRACCIÓN XI AL ARTÍCULO 444; AMBOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL. SE REFORMA LA NUMERACIÓN DEL CAPÍTULO ÚNICO, COMO CAPÍTULO I DEL TÍTULO OCTAVO DEL LIBRO SEGUNDO; SE ADICIONA UN CAPÍTULO II AL TÍTULO OCTAVO DEL LIBRO SEGUNDO; Y SE ADICIONA UN ARTÍCULO 201 TER AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 35, PÁRRAFO PRIMERO Y FRACCIÓN II, Y PÁRRAFO SEGUNDO, 97, PÁRRAFO CUARTO, 267, FRACCIONES I, II, III, IV, V Y VI, 271 PÁRRAFO PRIMERO; 282 PÁRRAFO PRIMERO, APARTADO A, FRACCIONES I Y II, ADICIONÁNDOSE UNA FRACCIÓN V; SE ADICIONA UN ARTÍCULO 282 BIS; SE REFORMAN LOS ARTÍCULOS 283 PÁRRAFO PRIMERO Y FRACCIONES I, II, III, IV, V, VII, VIII, Y PÁRRAFO SEGUNDO, 287, 288, PÁRRAFO PRIMERO, FRACCIÓN II, 291 BIS, PÁRRAFOS PRIMERO, SEGUNDO, TERCERO, CUARTO Y QUINTO, 291 TER; SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 291 QUINTUS; SE ADICIONA UN ARTÍCULO 301 BIS; SE REFORMAN LOS ARTÍCULOS 302, 303, 308 FRACCIÓN II, 309; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 311; SE REFORMAN LOS ARTÍCULOS 311 BIS, 311 TER; SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 320; SE REFORMA EL ARTÍCULO 322 PÁRRAFO SEGUNDO, ADICIONÁNDOSELE UN PÁRRAFO TERCERO; SE REFORMAN LOS ARTÍCULOS 323, 323 TER PÁRRAFO SEGUNDO, ADICIONÁNDOSELE UN PÁRRAFO TERCERO, 323 OCTAVUS, PÁRRAFO PRIMERO, FRACCIONES I Y IV, 380, 413, 414, 414 BIS PÁRRAFOS PRIMERO, FRACCIONES I, II, III Y IV, Y SEGUNDO, 416, 416 TER, PÁRRAFO PRIMERO, FRACCIONES I Y IV, 417, 417 BIS, 418, PÁRRAFO PRIMERO, 421, 426, 427, 428, PÁRRAFO PRIMERO, 429, 430, 432, 433, 435, 436, 437 PÁRRAFO PRIMERO, 439, 440, 441, 442, 443, FRACCIONES III, IV Y V, 444 BIS, 445, Y 447 FRACCIONES III, V Y VII; TODOS DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL".]
 
 PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
