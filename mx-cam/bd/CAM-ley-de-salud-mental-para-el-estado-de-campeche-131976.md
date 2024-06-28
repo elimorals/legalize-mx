@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-mental-para-el-estado-de-campeche-131976"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-16"
-last_updated: "2024-04-09"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CAM"
 ---
 # LEY DE SALUD MENTAL PARA EL ESTADO DE CAMPECHE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE JUNIO DE 2024 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE SALUD MENTAL PARA EL ESTADO DE CAMPECHE
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 28 DE JUNIO DE 2024.]</small>
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el martes 16 de octubre de 2018.
 
@@ -219,7 +219,7 @@ XI. A acceder y mantener el vínculo con el sistema educativo y el empleo, y no 
 
 XII.- A recibir un trato digno y con respeto a sus derechos humanos, por parte de sus familiares y a que estos le proporcionen alimentos y cuidados necesarios para su rehabilitación integral.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2023)</small>
+(ADICIONADO, P.O. 15 DE MARZO DE 2023) (F. DE E., P.O. 28 DE JUNIO DE 2024)
 
 Cuando se trate de niñas, niños y adolescentes se estará a lo dispuesto en el párrafo cuarto del artículo 75 de la Ley General de Salud, garantizándose en todo momento el interés superior de los menores, por lo que toda institución de carácter público, social o privado que preste servicios de internamiento, deberá establecer las medidas necesarias para garantizar los principios establecidos en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche y demás legislación aplicable, para asegurar la protección contra toda forma de abuso físico, mental y emocional dentro de las instituciones en las que reciban atención.
 
