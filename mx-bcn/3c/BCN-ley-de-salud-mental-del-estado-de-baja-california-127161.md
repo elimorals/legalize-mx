@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-mental-del-estado-de-baja-california-127161"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-23"
-last_updated: "2024-02-09"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Baja California, el viernes 23 de febrero de 2018.
 
@@ -243,21 +243,29 @@ La Secretaría y el Instituto buscará dar prioridad a la niñez, adolescencia, 
 
 La Secretaría de Educación fomentará y llevará a cabo acciones de coordinación con la Secretaría de Educación Pública Federal, para que en los centros escolares de educación inicial y básica en el sector público, se contemple lo siguiente:
 
-> <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-I. Contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolos canalizar a algún centro ambulatorio de atención primaria con servicios de salud mental o centro hospitalario, así como informar a sus padres o tutor y dar la orientación correspondiente;
+I. Contar con personal capacitado y actualizado en la materia de psicología, pedagogía infantil y educación escolar con el objetivo de identificar un posible trastorno mental que presenten niñas o niños, debiéndolos canalizar a algún centro ambulatorio de atención primaria con servicios de salud mental o centro hospitalario, así como informar a madres y padres de familia o tutores y dar la orientación correspondiente;
 
-II. Aplicar programas relacionados con salud mental infantil para que sean incorporados en el plan de estudios correspondiente; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-III. Proporcionar material informativo básico en salud mental a los padres o tutores con la finalidad de identificar algún tipo de trastorno en el menor y aplicar las medidas preventivas en un primer momento.
+II. Aplicar programas relacionados con salud mental infantil para que sean incorporados en el plan de estudios correspondiente;
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+III. Proporcionar material informativo básico en salud mental a madres y padres de familia o tutores con la finalidad de identificar algún tipo de trastorno en la niña o niño y aplicar las medidas preventivas en un primer momento; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+IV. Realizar el tamizaje de salud mental por las personas especialistas del sistema educativo, por lo menos una vez en el transcurso del ciclo escolar.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 28 DE JUNIO DE 2024)</small>
 
 La Secretaría de Educación, deberá coordinarse con las instituciones de educación privada, a efecto de que se apliquen las acciones señaladas en el presente artículo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-Asimismo, la Secretaría de Educación en coordinación con la Secretaría de Salud, implementará acciones similares a las previstas en las fracciones anteriores, respecto a la salud mental de los estudiantes de nivel medio superior.
+Asimismo, la Secretaría de Educación en coordinación con la Secretaría de Salud, implementará acciones similares a las previstas en las fracciones anteriores, respecto a la salud mental de las y los estudiantes de nivel medio superior.
 
 ###### Artículo 13.
 
@@ -516,3 +524,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para la ejecución y cumplimiento de las disposiciones contenidas en el presente Decreto, se realizarán de forma gradual y progresiva, considerando los recursos disponibles. Para su cabal cumplimiento, se estará a la actualización de normas y disposiciones reglamentarias a que se refiere el artículo transitorio tercero del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General de Salud, en materia de Salud Mental y Adicciones, publicado el 16 de mayo de 2022 en el Diario Oficial de la Federación.
 
 TERCERO.- Para garantizar el acceso y continuidad de la atención de la salud mental y adicciones, el Poder Ejecutivo del Estado deberá implementar un programa para disponer de establecimientos o centros ambulatorios de atención primaria y servicios de psiquiatría en hospitales generales del sector público, en la totalidad de los municipios de la entidad, iniciando preferentemente en el municipio en donde la población requiera mayor servicio en la atención de la salud mental, mediante la creación de un centro ambulatorio o la habilitación de una unidad de psiquiatría en el Hospital General respectivo.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 437 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 12 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La aplicación de la presente reforma una vez aprobada, estará sujeta a la disponibilidad presupuestaria con base a la normatividad aplicable.
