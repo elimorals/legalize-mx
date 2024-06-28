@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1106
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2024-05-07"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110696&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 13 de noviembre de 2015.
 
@@ -413,11 +413,11 @@ Las reglas que rigen en materia de Observancia serán las establecidas en el Cap
 
 ### CAPÍTULO TERCERO. SISTEMA ESTATAL
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### Artículo 22.
 
-El Sistema Estatal es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la Administración Pública estatal entre sí, con las organizaciones de los diversos grupos sociales y con los Municipios, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad de género establecida en esta Ley.
+El Sistema Estatal es el conjunto orgánico y articulado de estructuras, relaciones funcionales, métodos y procedimientos que establecen las dependencias y las entidades de la Administración Pública estatal entre sí, con las organizaciones de los diversos grupos sociales, sociedad civil organizada, instituciones académicas y de investigación y con los Municipios, a fin de efectuar acciones de común acuerdo destinadas a la promoción y procuración de la igualdad de género establecida en esta Ley.
 
 ###### Artículo 23.
 
@@ -447,13 +447,15 @@ V. Promover el desarrollo de programas y servicios que fomenten la igualdad entr
 
 El Instituto coordinará las acciones que el Sistema Estatal genere, sin perjuicio de las atribuciones y funciones contenidas en su ordenamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### Artículo 25.
 
-El Sistema Estatal se integrará por representantes titulares de las instancias siguientes:
+El Sistema Estatal se integrará por las y los representantes titulares de las instancias siguientes:
 
-I. La Secretaría General de Gobierno, que fungirá como Presidente;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+I. La Secretaría General de Gobierno, que presidirá el sistema;
 
 II. El Instituto, que se hará cargo de la Secretaría Ejecutiva del Sistema Estatal;
 
@@ -461,29 +463,29 @@ III. La Comisión Estatal de los Derechos Humanos;
 
 IV. La dependencia o entidad de la administración pública estatal que corresponda, según la materia de que se trate;
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-V. El Poder Legislativo del Estado de Baja California, a través de un Diputado encargado de dicha Comisión.
+V. El Poder Legislativo del Estado de Baja California, a través de la Presidencia de la Comisión Legislativa en la materia;
 
-> <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VI. El Poder Judicial del Estado de Baja California, a través de un Magistrado quien presida el Tribunal Superior de Justicia y el Consejo de la Judicatura.
+VI. El Poder Judicial del Estado de Baja California, a través de la o el Magistrado quien presida el Tribunal Superior de Justicia y el Consejo de la Judicatura;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VII. Un representante de cada uno de los Municipios del Estado;
+VII. Una persona representante de cada uno de los Municipios del Estado;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VIII. Un representante de los pueblos indígenas del Estado;
+VIII. Una persona representante de los pueblos indígenas del Estado;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-IX. Dos representantes de organizaciones civiles especializadas en Derechos Humanos; y
+IX. Dos personas representantes de organizaciones civiles especializadas en Derechos Humanos; y,
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 14 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-X. Dos representantes de instituciones de investigación especializadas en igualdad entre mujeres y hombres.
+X. Dos personas representantes de instituciones de investigación especializadas en igualdad entre mujeres y hombres.
 
 Las reglas para la organización y funcionamiento del Sistema Estatal serán determinadas a través del reglamento de la Ley.
 
@@ -930,3 +932,9 @@ P.O. 7 DE MAYO DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO. Las autoridades sujetas a la observancia y aplicación de la presente Ley, en un plazo no mayor a 180 días naturales contados a partir del día siguiente de la publicación del presente Decreto, deberán realizar las adecuaciones necesarias a sus reglamentos para su debida implementación.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 441 MEDIANTE EL CUAL SE APRUEBA LA REFORMAN (SIC) LOS ARTÍCULOS 22 Y 25 DE LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
