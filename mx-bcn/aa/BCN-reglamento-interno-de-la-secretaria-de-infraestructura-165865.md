@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-infraestructura-165865"
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-04-28"
-last_updated: "2023-04-28"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y REORDENACIÓN TERRITORIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Reglamento publicado en el Número 23 del Periódico Oficial del Estado de Baja California, el viernes 28 de abril de 2023.
 
@@ -145,11 +145,23 @@ b) Dirección de Inversión Sectorial, Programación Presupuestal y Administraci
 
 4. Departamento de Licitación y Contratación de Obra.
 
-c) Dirección de Planeación, Estudios y Proyectos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JUNIO DE 2024)</small>
 
-1. Departamento de Proyectos de Infraestructura Vial y de Edificaciones, y
+c) Dirección de Planeación y Proyectos de Infraestructura:
 
-2. Departamento de Vías Terrestres y Obras para el Transporte.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+1. Departamento de Proyectos de Infraestructura.
+
+2. (DEROGADO, P.O. 28 DE JUNIO DE 2024)
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JUNIO DE 2024)</small>
+
+d) Dirección de Estudios y Proyectos de Edificación:
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+1. Departamento de Estudios de Edificación.
 
 III. Subsecretaría de Reordenación Territorial y Desarrollo Urbano:
 
@@ -677,9 +689,17 @@ Quedan adscritas a la Subsecretaría de Infraestructura Gubernamental, Social y 
 
 a) Dirección de Obras de Infraestructura y Edificación;
 
-b) Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras, y
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-c) Dirección de Planeación, Estudios y Proyectos.
+b) Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras;
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+c) Dirección de Planeación y Proyectos de Infraestructura, y
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+d) Dirección de Estudios y Proyectos de Edificación.
 
 ###### Artículo 25.
 
@@ -1097,119 +1117,289 @@ V. Llevar el registro anual del padrón de contratistas, prestadores de servicio
 
 VI. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### Artículo 38.
 
-Corresponde a la Dirección de Planeación, Estudios y Proyectos, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+Corresponde a la Dirección de Planeación y Proyectos de Infraestructura, por conducto de su titular, el ejercicio de las atribuciones siguientes:
 
-I. Elaborar, actualizar y revisar los estudios y proyectos de infraestructura vial y edificación que se ejecuten en el Estado y presentarlos para aprobación de la persona titular de la Subsecretaría;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-II. Coordinar la elaboración de los estudios y proyectos en materia de infraestructura y edificación encomendados a la Secretaría;
+I. Planear, actualizar y revisar los proyectos de infraestructura que se ejecuten en el Estado y someterlos para aprobación de la persona titular de la Subsecretaría;
 
-III. Proporcionar apoyo y asesoría técnica normativa en la supervisión y evaluación de los estudios y proyectos de infraestructura vial y de edificación que se realicen por la Secretaría, Entidades del Sector, municipios o dependencias federales;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-IV. Participar y dar seguimiento a la planeación, estudios y proyectos correspondientes a infraestructura vial y de edificación de la Secretaría;
+II. Coordinar la elaboración y planeación de los proyectos en materia de infraestructura encomendados a la Secretaría;
 
-V. Coordinar la realización de estudios, proyectos de infraestructura vial y de edificación, así como la ejecución de los programas de obra pública a cargo de la Secretaría y evaluar los resultados;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VI. Participar en las mesas de trabajo para los estudios, dictámenes y proyectos ejecutivos relativos a obras de infraestructura vial, obras de edificación, y demás que sean de su competencia;
+III. Proporcionar apoyo y asesoría técnica normativa en la supervisión y evaluación de los proyectos de infraestructura que se realicen por la Secretaría, Entidades del Sector, municipios o dependencias del orden federal;
 
-VII. Revisar que los proyectos ejecutivos, estudios de ingeniería, planos y demás elementos necesarios para el desarrollo de las obras públicas, relativos a infraestructura vial y de edificación, se realicen de acuerdo a la normativa aplicable;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VIII. Promover y evaluar el establecimiento de normas, criterios, políticas y lineamientos de carácter técnico y administrativo que regulen la operación interna de los sistemas, procesos y procedimientos en materia de desarrollo urbano, planeación, estudios y proyectos de infraestructura vial y de edificación, ejecución de obras públicas, inversión pública y gasto corriente a cargo de la Secretaría y de las Entidades del Sector;
+IV. Participar y dar seguimiento a la planeación de proyectos correspondientes a infraestructura de la Secretaría;
 
-IX. Someter a la aprobación de la persona superior inmediata los estudios, proyectos e informes relativos a obras de infraestructura vial, de edificación, elaborados bajo su responsabilidad;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-X. Participar en los procesos de planeación y programación relacionados con estudios y proyectos de infraestructura vial y de edificación que realice la Secretaría, a solicitud de las Entidades del Sector, municipios o dependencias federales;
+V. Coordinar la realización de proyectos de infraestructura, así como la ejecución de los programas de obra pública a cargo de la Secretaría y evaluar los resultados;
 
-XI. Coordinar la elaboración y brindar asesoría técnica normativa, en estudios y proyectos de infraestructura vial y de edificación que se encomienden a la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XII. Participar en la integración de la propuesta del programa anual de estudios y proyectos de infraestructura vial y de edificación que se ejecuten en el Estado a cargo de la Secretaría, Entidades del Sector, municipios o dependencias federales;
+VI. Participar en mesas de trabajo para la planeación, dictámenes y revisión de proyectos ejecutivos relativos a obras de infraestructura y demás que sean de su competencia;
 
-XIII. Elaborar, actualizar y revisar los estudios y proyectos de infraestructura vial, de edificación y equipamiento encomendados a la Secretaría o las Entidades del Sector y presentarlos para aprobación de la persona titular de la Subsecretaría de su adscripción;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XIV. Participar y dar seguimiento a los estudios y proyectos correspondientes a infraestructura vial y de edificación de la Secretaría;
+VII. Revisar que los proyectos ejecutivos, estudios de ingeniería, planos y demás elementos necesarios para el desarrollo de las obras públicas, relativos a infraestructura, se realicen de acuerdo a la normativa aplicable;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VIII. Promover y evaluar el establecimiento de normas, criterios, políticas y lineamientos de carácter técnico y administrativo que regulen la operación interna de los sistemas, procesos y procedimientos en materia de planeación de proyectos de infraestructura, ejecución de obras públicas, inversión pública y gasto corriente a cargo de la Secretaría y de las Entidades del Sector;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+IX. Someter a la aprobación de la persona superior inmediata los estudios, proyectos e informes relativos a obras de infraestructura, elaborados bajo su responsabilidad;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+X. Participar en los procesos de planeación y programación relacionados con proyectos de infraestructura que realice la Secretaría, a solicitud de las Entidades del Sector, municipios o dependencias federales;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XI. Coordinar la elaboración y planeación de proyectos de infraestructura y obras para el transporte, que se encomienden a la Secretaría, brindando asesoría técnica normativa;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XII. Participar en la integración de la propuesta del programa anual de proyectos de infraestructura que se ejecuten en el Estado a cargo de la Secretaría, Entidades del Sector, municipios o dependencias federales;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XIII. Elaborar, actualizar y revisar los proyectos de infraestructura encomendados a la Secretaría o las Entidades del Sector y presentarlos para aprobación de la persona titular de la Subsecretaría de su adscripción;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XIV. Participar y dar seguimiento a la planeación de los proyectos de infraestructura de la Secretaría;
 
 XV. Someter oportunamente a consideración de la persona superior jerárquica inmediata, las técnicas para promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de infraestructura estratégica y de telecomunicaciones;
 
-XVI. Verificar por sí o a través de terceros, las políticas y criterios relativos a los estudios y proyectos de ingeniería vial y de edificación, se realicen de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XVII. Aplicar y vigilar el cumplimiento de las normas, disposiciones legales, lineamientos técnico-administrativos y demás reglamentación para el establecimiento, uso, aprovechamiento y prestación de los servicios de infraestructura vial y de edificación en el ámbito de su competencia;
+XVI. Verificar por sí o a través de terceros, las políticas y criterios relativos a proyectos de ingeniería vial, a fin de garantizar se realicen conforme a las disposiciones aplicables;
 
-XVIII. Vigilar el que se coadyuve con la instancia competente en la actualización de la cartera de proyectos de infraestructura y el seguimiento de las acciones necesarias para la gestión de los recursos correspondientes, y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XIX. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomienden la persona superior inmediata.
+XVII. Aplicar y vigilar el cumplimiento de las normas, disposiciones legales, lineamientos técnicos y administrativos, así como las demás disposiciones aplicables para el establecimiento, uso, aprovechamiento y prestación de los servicios de infraestructura en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XVIII. Vigilar que se coadyuve con la instancia competente en la actualización de la cartera de proyectos de infraestructura y el seguimiento de las acciones necesarias para la gestión de los recursos correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+XIX. Autorizar los presupuestos, estimaciones, escalatorias y demás información necesaria en la realización de proyectos de infraestructura vial y obras para el transporte, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+XX. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomienden la persona superior inmediata.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### Artículo 39.
 
-Quedan adscritas a la Dirección de Planeación, Estudios y Proyectos, las Unidades Administrativas siguientes:
+Queda adscrita a la Dirección de Planeación y Proyectos de Infraestructura, la Unidad Administrativa siguiente:
 
-1. Departamento de Proyectos de Infraestructura Vial y de Edificaciones, y
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-2. Departamento de Vías Terrestres y Obras para el Transporte.
+1. Departamento de Proyectos de Infraestructura.
+
+2. (DEROGADO, P.O. 28 DE JUNIO DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### Artículo 40.
 
-Corresponde al Departamento de Proyectos de Infraestructura Vial y de Edificaciones, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+Corresponde al Departamento de Proyectos de Infraestructura, por conducto de su titular, el ejercicio de las atribuciones siguientes:
 
-I. Elaborar estudios, anteproyectos y proyectos en materia de infraestructura vial y de edificación de acuerdo a las solicitudes y demandas de la ciudadanía;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-II. Coordinar las diferentes etapas del proyecto ejecutivo en materia de infraestructura vial y de edificación, hasta la debida integración del expediente técnico y demás necesarias;
+I. Elaborar y proponer a la persona superior jerárquica, los criterios para la planeación de estudios técnicos para el mantenimiento, rehabilitación, reconstrucción, ampliación, prolongación y modernización de las obras en materia de infraestructura vial y obras para el transporte de competencia estatal;
 
-III. Dictaminar técnicamente los proyectos de infraestructura vial y de edificación promovidos por los sectores público y privado;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-IV. Elaborar y, en su caso, actualizar las normas y especificaciones técnicas referentes a los estudios y proyectos de obras relativas a infraestructura vial y edificación, que se ejecuten en el Estado, y presentarlas para aprobación de la persona titular de la Subsecretaría y de la Secretaría, y su posterior publicación en el Periódico Oficial del Estado;
+II. Instrumentar la ejecución de obra pública y servicios relacionados con la misma, en materia de infraestructura vial y obras para el transporte en el ámbito de su competencia, de conformidad con las disposiciones aplicables;
 
-V. Participar en los procesos de planeación y programación relacionados con estudios y proyectos relativos a infraestructura vial y edificación, que realice la Secretaría a solicitud de las Entidades del Sector, municipios o dependencias federales;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VI. Elaborar y brindar asesoría técnica normativa, en estudios y proyectos relativos a infraestructura vial y de edificación, que se encomienden a la Secretaría;
+III. Supervisar la elaboración de los anteproyectos, proyectos y estudios técnicos, así como proyectos ejecutivos y constructivos de las obras programadas, en materia de infraestructura vial y obras para el transporte, que se realicen por contrato o por administración directa, previendo la correcta aplicación de los recursos destinados a su ejecución;
 
-VII. Coordinar la elaboración de los estudios y proyectos en materia de infraestructura vial y de edificación, encomendada a la Secretaría;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VIII. Fomentar la aplicación de la normativa en el desarrollo de los proyectos de infraestructura vial y de edificación, que se lleven a cabo en el Estado, por la Secretaría, Entidades del Sector, municipios o dependencias federales;
+IV. Coordinar, supervisar, evaluar y, en su caso, aprobar los estudios técnicos, así como los proyectos ejecutivos y constructivos que la Secretaría contrate con particulares en materia de proyectos de infraestructura vial y obras para el transporte;
 
-IX. Proponer, en el ámbito de su competencia los planes y programas relativos al desarrollo de infraestructura vial y de edificación;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-X. Ejecutar y vigilar el cumplimiento de las normas, disposiciones legales, lineamientos técnico-administrativos y demás reglamentación para el establecimiento, uso y aprovechamiento de los servicios de infraestructura vial, y de edificación, en el ámbito de su competencia, y
+V. Emitir los dictámenes técnicos y demás instrumentos necesarios que justifiquen la procedencia de la contratación de servicios en materia de proyectos de infraestructura vial y obras para el transporte;
 
-XI. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende la persona superior inmediata.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VI. Revisar y analizar que la documentación enviada por las personas contratistas cumpla con la normativa establecida, para efectos de emitir el dictamen técnico que justifique la necesidad de formalizar el convenio que corresponda;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VII. Participar previo acuerdo con la persona superior jerárquica, con las Unidades Administrativas competentes, en la integración de las políticas, planes, programas, lineamientos y demás disposiciones necesarias en materia de proyectos de infraestructura vial y obras para el transporte;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VIII. Elaborar, integrar y someter a validación de la persona superior jerárquica, los expedientes técnicos simplificados y demás instrumentos necesarios en materia de proyectos de infraestructura vial y obras para el transporte, previo a la presentación ante las instancias correspondientes, para la autorización respectiva;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+IX. Dirigir y elaborar por sí o por terceros, los estudios topográficos, de mecánica de suelos, geotecnia, hidráulicos, hidrológicos, geométricos y demás necesarios, en materia de infraestructura vial y obras para el transporte, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+X. Instrumentar la planeación de estudios y proyectos para el mantenimiento, rehabilitación, reconstrucción, ampliación, prolongación y modernización de obras en materia de infraestructura vial y obras para el transporte, en las zonas metropolitana de conformidad con las disposiciones legales aplicables y los convenios que al efecto se suscriban;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+XI. Supervisar la planeación de proyectos en materia de infraestructura vial y obras para el transporte que se realicen por contrato o por administración directa, cuidando en cada caso la correcta aplicación de los recursos destinados a su ejecución;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XII. Elaborar los presupuestos, estimaciones, escalatorias y demás información necesaria en la realización de proyectos de infraestructura vial y obras para el transporte, y llevar el control de los avances físicos y financieros de los mismos;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XIII. Integrar, por cada proyecto ejecutivo realizado o en proceso de ejecución, un expediente técnico unitario y demás instrumentos necesarios, en materia de infraestructura vial y obras para el transporte, a fin de llevar un control de los mismos conforme a la normativa aplicable;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XIV. Emitir los dictámenes u opiniones de proyectos en materia de infraestructura vial y obras para el transporte que sean solicitadas a la Secretaría;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XV. Elaborar los anexos técnicos y demás instrumentos necesarios, de los proyectos y acciones relativas a infraestructura vial y obras para el transporte, ejecutadas a través de los convenios de colaboración celebrados con la federación;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XVI. Mantener un sistema de planeación, seguimiento y control de desarrollo de los proyectos que se realicen en materia de infraestructura vial y obras para el transporte, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+XVII. Las demás relativas a la competencia de su Unidad Administrativa, así como aquellas que le confieran otros ordenamientos, o le encomiende la persona superior inmediata.
+
+> <small>(REFORMADA PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### Artículo 41.
 
-Corresponde al Departamento de Vías Terrestres y Obras para el Transporte, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+Corresponde a la Dirección de Estudios y Proyectos de Edificación, por conducto de su titular, el ejercicio de las atribuciones siguientes:
 
-I. Elaborar y proponer a la persona superior jerárquica los criterios y estudios técnicos para el mantenimiento, rehabilitación, reconstrucción, ampliación, prolongación y modernización de las obras en materia de vías terrestres y obras para el transporte de competencia estatal;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-II. Instrumentar la ejecución de obra pública y servicios relacionados con la misma, en materia de vías terrestres y obras para el transporte en el ámbito de su competencia, de conformidad con las disposiciones aplicables;
+I. Planear, actualizar y revisar los estudios y proyectos de edificaciones y equipamiento urbano que se ejecuten en el Estado, y someterlos para aprobación de la persona titular de la Subsecretaría;
 
-III. Realizar los anteproyectos y estudios técnicos, así como proyectos ejecutivos y constructivos de las obras programadas, en materia de vías terrestres y obras para el transporte;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-IV. Coordinar, supervisar, evaluar y, en su caso, aprobar los estudios técnicos, así como los proyectos ejecutivos y constructivos que la Secretaría contrate con particulares en materia de vías terrestres y obras para el transporte;
+II. Coordinar los estudios de los proyectos en materia de edificaciones encomendadas a la Secretaría;
 
-V. Elaborar y suscribir los dictámenes técnicos y demás necesarios que justifiquen la procedencia de la contratación de servicios en materia de vías terrestres y obras para el transporte;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VI. Revisar y analizar en el ámbito de su competencia, la documentación enviada por los contratistas y emitir oportunamente el dictamen técnico y demás necesarios que justifiquen la necesidad de formalizar el convenio correspondiente, de conformidad con la normativa aplicable;
+III. Proporcionar apoyo y asesoría técnica normativa en la supervisión y evaluación de los estudios y proyectos en materia de edificaciones y equipamiento urbano que se realicen por la Secretaría, Entidades del Sector, municipios o dependencias del orden federal;
 
-VII. Participar previo acuerdo con la persona superior jerárquica, con las Unidades Administrativas competentes, en la integración de las políticas, planes, programas, lineamientos y demás disposiciones necesarias en materia de vías terrestres y obras para el transporte;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VIII. Integrar, en el ámbito de su competencia, y para su presentación ante las instancias correspondientes, los expedientes técnicos simplificados y demás necesarios en materia de vías terrestres y obras para el transporte, para la autorización respectiva, previa validación de la persona superior jerárquica;
+IV. Participar y dar seguimiento a los proyectos correspondientes a edificaciones y equipamiento urbano de la Secretaría;
 
-IX. Dirigir y elaborar por sí o por terceros, los estudios topográficos, de mecánica de suelos y geotecnia, hidráulicos, hidrológicos, geométricos y demás necesarios, en materia de vías terrestres y obras para el transporte, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-X. Instrumentar estudios y proyectos para el mantenimiento, rehabilitación, reconstrucción, ampliación, prolongación y modernización de obras en materia de vías terrestres y obras para el transporte, en la zona metropolitana de conformidad con las disposiciones legales aplicables y los convenios que al efecto se suscriban;
+V. Coordinar la realización de proyectos de edificaciones y equipamiento urbano, así como la ejecución de los programas de obra pública a cargo de la Secretaría y evaluar los resultados;
 
-XI. Supervisar los estudios y proyectos en materia de vías terrestres y obras para el transporte que se realicen por contrato o por administración directa, cuidando en cada caso la correcta aplicación de los recursos destinados a su ejecución;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XII. Elaborar y, en su caso, autorizar los presupuestos, estimaciones, escalatorias y demás necesarios que sean presentados en la realización de estudios y proyectos de vías terrestres y obras para el transporte, y llevar el control de los avances físicos y financieros de las mismas;
+VI. Participar en mesas de trabajo para la planeación de estudios, dictámenes y revisión de proyectos ejecutivos relativos a obras de edificaciones y equipamiento urbano, y demás que sean de su competencia;
 
-XIII. Integrar un expediente técnico unitario y demás necesarios, por estudio o proyecto ejecutivo en materia de vías terrestres y obras para el transporte realizado o en proceso de ejecución;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XIV. Emitir los dictámenes u opiniones en materia de estudios y proyectos en materia de vías terrestres y obras para el transporte que, sean solicitadas a la Secretaría;
+VII. Revisar que los proyectos ejecutivos, estudios de ingeniería, planos y demás elementos necesarios para el desarrollo de obras públicas relativo a edificaciones y equipamiento urbano, se realicen de acuerdo a la normativa aplicable;
 
-XV. Elaborar los anexos técnicos y demás necesarios, de los estudios, proyectos y acciones relativas a vías terrestres y obras para el transporte ejecutadas a través de los convenios de colaboración celebrados con la federación;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XVI. Mantener un sistema de seguimiento y control de desarrollo de los estudios y proyectos que se realicen en materia de vías terrestres y obras para el transporte, y
+VIII. Promover y evaluar el establecimiento de normas, criterios, políticas y lineamientos de carácter técnico administrativo que regulen la operación interna de los sistemas, procesos y procedimientos en materia de desarrollo urbano, estudios y proyectos de edificaciones y equipamiento urbano, ejecución de obras públicas, inversión pública y gasto corriente a cargo de la Secretaría y de las Entidades del Sector;
 
-XVII. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende la persona superior inmediata.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+IX. Someter a la aprobación de la superior inmediata los estudios y proyectos e informes relativos a obras de edificación elaborados bajo su responsabilidad;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+X. Participar en los procesos de planeación y programación relacionados con proyectos de edificación, que realice la Secretaría a solicitud de las Entidades del Sector, municipios o dependencias federales;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XI. Coordinar la elaboración y brindar asesoría normativa en los estudios de proyectos de edificaciones y equipamiento urbano, que se encomienden a la Secretaría;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XII. Participar en la integración de la propuesta del programa anual de proyectos de edificaciones y equipamiento urbano que se ejecuten en el Estado a cargo de la Secretaría, Entidades del Sector, municipios o dependencias federales;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XIII. Coordinar la elaboración de los proyectos de edificación y equipamiento urbano encomendados a la Secretaría o las Entidades del Sector y presentarlos para aprobación de la persona titular de la Subsecretaría de su adscripción;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XIV. Participar y dar seguimiento a la planeación de estudios y proyectos en materia edificación y equipamiento urbano de la Secretaría;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XV. Someter oportunamente a consideración de la persona jerárquica inmediata, las técnicas para promover y organizar la capacitación, investigación y el desarrollo tecnológico en materia de edificaciones estratégicas y de telecomunicaciones;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XVI. Verificar por sí o a través de terceros, las políticas y criterios relativos a proyectos de edificaciones, a fin de garantizar se realicen conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+XVII. Aplicar y vigilar el cumplimiento de las normas, disposiciones legales, lineamientos técnico administrativos y demás disposiciones para el establecimiento, uso, aprovechamiento de estudios en materia de edificaciones y equipamiento urbano en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XVIII. Vigilar que se coadyuve con la instancia competente en la actualización de la cartera de proyectos de edificaciones y equipamiento urbano y el seguimiento de las acciones necesarias para la gestión de los recursos correspondientes, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+XIX. Las demás relativas a la competencia de su Unidad Administrativa, así como aquellas que le confieran otros ordenamientos, o le encomiende la persona superior inmediata.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+Artículo 41 BIS. Queda adscrita a la Dirección de Estudios y Proyectos de Edificación, la Unidad Administrativa siguiente:
+
+1. Departamento de Estudios de Edificación.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+Artículo 41 TER. Corresponde al Departamento de Estudios de Edificación, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+
+I. Elaborar estudios, anteproyectos y proyectos en materia de edificaciones y equipamiento urbano de acuerdo a las solicitudes y demandas de la ciudadanía;
+
+II. Vigilar las diferentes etapas del proyecto ejecutivo en materia de edificaciones y equipamiento urbano, hasta la debida integración del expediente técnico y demás instrumentos necesarios;
+
+III. Dictaminar técnicamente los proyectos de edificaciones y equipamiento urbano promovidos por los sectores público y privado;
+
+IV. Elaborar y, en su caso, actualizar las normas y especificaciones técnicas referentes a los estudios y proyectos de obras relativas a edificaciones y equipamiento urbano, que se ejecuten en el Estado, y presentarlos para aprobación de las personas titulares de la Subsecretaría y de la Secretaría, respectivamente y, su posterior, publicación en el Periódico Oficial del Estado de Baja California;
+
+V. Participar en los procesos de planeación y programación relacionados con estudios y proyectos de edificaciones y equipamiento urbano, que realice la Secretaría a solicitud de las Entidades del Sector, municipios o dependencias federales;
+
+VI. Brindar asesoría técnica normativa, en la elaboración de estudios y proyectos relativos a edificaciones y equipamiento urbano, que se encomienden a la Secretaría;
+
+VII. Elaborar los estudios y proyectos en materia de edificaciones y equipamiento urbano, encomendada a la Secretaría;
+
+VIII. Prever el cumplimiento de la normativa en el desarrollo de estudio y proyectos de edificaciones y equipamiento urbano, que se lleven a cabo en el Estado, por la Secretaría, Entidades del Sector, municipios o dependencias del orden federal;
+
+IX. Proponer, en el ámbito de su competencia los planes y programas relativos al desarrollo de estudios y proyectos de edificaciones y equipamiento urbano;
+
+X. Ejecutar y vigilar el cumplimiento de las normas, disposiciones legales, lineamientos técnico administrativos y demás reglamentación para el establecimiento, uso y aprovechamiento de los servicios de edificaciones, en el ámbito de su competencia, y
+
+XI. Las demás relativas a la competencia de su Unidad Administrativa, así como aquellas que le confieran otros ordenamientos, o le encomiende la persona superior inmediata.
 
 ###### Artículo 42.
 
@@ -1908,3 +2098,17 @@ GOBERNADORA DEL ESTADO DE BAJA CALIFORNIA
 CATALINO ZÁVALA MARQUEZ
 
 SECRETARIO GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO MEDIANTE EL CUAL SE REFORMA, ADICIONA Y DERROGA (SIC) DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE LA SECRETARIA DE INFRAESTRUCTURA, DESARROLLO URBANO Y REORDENACIÓN TERRITORIAL”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Artículo Segundo. Los asuntos que, antes de la entrada en vigor de este Decreto, se estuvieran substanciando en la unidad administrativa que, en virtud del mismo, modifica su estructura, denominación y competencia, se turnarán de inmediato a la unidad administrativa que, por efectos del mismo, resulte competente para continuar su trámite o resolución.
+
+Artículo Tercero. Los recursos financieros y materiales que estuvieran asignados a las unidades administrativas que modifiquen su estructura, denominación y competencia en virtud de lo dispuesto en el presente Decreto, serán reasignados a la unidad administrativa que asuma las atribuciones correspondientes.
+
+Artículo Cuarto. Los actos, resoluciones, acuerdos y las demás disposiciones de carácter general emitidas con fundamento en las normas que estaban vigentes con anterioridad al presente Decreto, conservarán su validez.
