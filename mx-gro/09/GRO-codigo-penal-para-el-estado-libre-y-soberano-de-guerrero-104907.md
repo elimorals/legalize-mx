@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2024-06-14"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -1633,11 +1633,43 @@ Se consideran (sic) que existen razones de género cuando concurra cualquiera de
 
 I. Que las lesiones causadas sean infamantes, degradantes o se provoque mutilación del cuerpo;
 
-II. Que las lesiones sean provocadas mediante el empleo de ácidos o sustancias corrosivas o cualquier otra nociva para la salud;
+II. (DEROGADA, P.O. 28 DE JUNIO DE 2024)
 
 III. Cuando las lesiones consistan en la resección parcial o total de los genitales externos femeninos o masculinos. Así como otras lesiones de los órganos genitales por motivos no médicos; o
 
 IV. Que previo a la lesión infringida existan elementos de prueba, que establezcan que se han cometido amenazas, acoso o violencia del sujeto activo contra la víctima. Si entre el activo y la víctima existió una relación sentimental, afectiva o de confianza, de parentesco, laboral, docente o cualquier (sic) que implique subordinación o superioridad y se prueba que en virtud de esa relación se infringieron las lesiones infamantes, degradantes o mutilaciones.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+###### Artículo 140 Bis.
+
+Lesiones provocadas por ácido, sustancias químicas o corrosivas.
+
+A quien lesione a una persona causándole daño en la integridad física o en la salud, usando para ello cualquier tipo de agente o sustancia química, corrosiva, tóxica, inflamable, incluyendo álcalis, ácidos, irritantes, líquidos a altas temperaturas, medicamentos, drogas, gases o cualquier otra sustancia que provoque lesiones, se le impondrá la pena correspondiente al delito de lesiones calificadas y se deberá realizar el pago de la reparación del daño.
+
+Sin perjuicio de lo previsto en el párrafo anterior, serán agravantes de la pena los casos siguientes:
+
+I. Cuando cause deformidad o daño permanente, entorpezca o debilite permanentemente una extremidad o cualquier otro órgano, se aumentará en una tercera parte más de la sanción correspondiente al delito de lesiones calificadas.
+
+II. Cuando la lesión por ataque con ácido o similares sea cometida contra una persona en situación de calle, se aumentará en una tercera parte más de la sanción correspondiente al delito de lesiones calificadas.
+
+III. Cuando la lesión por ataque con ácido o similares sea cometida contra otra persona por su orientación sexual o identidad de género, se aumentará en una tercera parte más de la sanción correspondiente al delito de lesiones calificadas.
+
+> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+###### Artículo 140 Ter.
+
+Lesiones provocadas por ácido, sustancias químicas o corrosivas en razón de género.
+
+Se considera lesiones provocadas por ácido o similares cometidos contra la mujer en razón de su género, cuando ocurra cualquiera de las siguientes circunstancias:
+
+I. Si entre el sujeto activo y la víctima existió una relación sentimental, sexual, afectiva o de confianza, ya sea de parentesco, laboral, docente o de hecho.
+
+II. Que previo a la lesión infringida existan antecedentes de violencia contra las mujeres o delitos de género, se hayan cometido amenazas, acoso o cualquier tipo de violencia o acto de agresión en el ámbito familiar, laboral, docente ejercido por parte del sujeto activo contra la mujer.
+
+En los casos anteriormente descritos se aumentará en dos terceras partes más de la sanción correspondiente al delito de lesiones calificadas y se deberá realizar el pago de la reparación del daño.
+
+Se considerará Feminicidio en grado de tentativa, cuando las lesiones cometidas contra la mujer provoquen mutación o resección parcial o total en las mamas, alteración en el aparato genital, en las funciones de reproducción sexual o atente contra el ejercicio de la autonomía sexual, cause alguna deformidad o daño físico permanente en algún órgano, provoque daños en extremidades, entorpezca, debilite u ocasione la pérdida parcial o total del oído, vista, habla o incapacidad permanente para trabajar, se impondrá de 12 a 30 años de prisión.
 
 ###### Artículo 141.
 
@@ -5380,3 +5412,13 @@ PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su pub
 SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
 
 TERCERO. Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de esta Soberanía, para conocimiento general y efectos legales procedentes.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 811 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 553 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, Y DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499; EN MATERIA DE VIOLENCIA ÁCIDA".]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
