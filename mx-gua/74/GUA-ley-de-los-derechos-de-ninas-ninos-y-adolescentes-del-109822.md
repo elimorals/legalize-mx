@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109822"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-11"
-last_updated: "2024-06-07"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "GUA"
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE GUANAJUATO EL 28 DE JUNIO DE 2024.]</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2015.
 
@@ -1465,35 +1467,57 @@ Las autoridades competentes deberán considerar la perspectiva de género en las
 
 Las autoridades competentes están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
 
-> <small>[N. DE E. VÉASE LA LITERALIDAD DEL P.O. 7 DE JUNIO DE 2024, PÁGINA 199. SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DE ESTE ARTÍCULO]</small>
+(REFORMADO ÁCAPITE, P.O. 7 DE JUNIO DE 2024) (F. DE E., P.O. 28 DE JUNIO DE 2024)
 
-> <small>(REFORMADO ÁCAPITE, P.O. 7 DE JUNIO DE 2024)</small>
+Medidas de recuperación y de restitución de derechos
 
-Medidas de recuperación... (sic)
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
+(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024) (F. DE E., P.O. 28 DE JUNIO DE 2024)
 
 ###### Artículo 49.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana, sin discriminación.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+(REFORMADO, P.O. 7 DE JUNIO DE 2024) (F. DE E., P.O. 28 DE JUNIO DE 2024)
 
-La recuperación y ... (sic)
+La recuperación y restitución de derechos a que se refiere el párrafo anterior se llevarán a cabo en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes.
 
-Otorgamiento de medidas especiales de protección
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2024)</small>
 
-Artículo 41 (SIC). El Sistema Estatal de Protección deberá otorgar medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial.
+Protocolos de atención
 
-### Capítulo VI (SIC). Derecho a la Igualdad
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2024)</small>
 
-Derecho a la Igualdad
+###### Artículo 50.
 
-Artículo 42 (SIC). Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales. Las autoridades estatales y municipales, así como los organismos autónomos, implementarán políticas públicas transversales que garanticen y fomenten la igualdad en favor de los mismos.
+En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley General de Víctimas, la Ley de Atención y Apoyo a la Víctima y al Ofendido del Delito en el Estado de Guanajuato y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
-Progresividad normativa en materia de igualdad
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2024)</small>
 
-Artículo 43 (SIC). Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar en todo momento sus derechos en aras de alcanzar la igualdad entre ellas y en general, con toda la sociedad.
+### Capítulo X
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2024)</small>
+
+Derecho a la Protección de la Salud y a la Seguridad Social
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2024)</small>
+
+Derecho a la salud
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2024)</small>
+
+###### Artículo 51.
+
+Niñas, niños y adolescentes tienen derecho a disfrutar de la salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad conforme a la normatividad aplicable, con el fin de prevenir, proteger y restaurar su salud.
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2024)</small>
+
+Derecho a la seguridad social
+
+> <small>(F. DE E., P.O. 28 DE JUNIO DE 2024)</small>
+
+###### Artículo 52.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y de conformidad con la normatividad aplicable, deberán garantizar el derecho a la seguridad social.
 
 Salud materno-infantil y esperanza de vida
 
