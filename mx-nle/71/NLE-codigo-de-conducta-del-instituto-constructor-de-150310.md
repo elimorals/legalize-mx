@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-del-instituto-constructor-de-150310"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-07-07"
-last_updated: "2021-07-07"
+last_updated: "2024-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO CONSTRUCTOR DE INFRAESTRUCTURA FISICA EDUCATIVA Y DEPORTIVA DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO CONSTRUCTOR DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 28 DE JUNIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO CONSTRUCTOR DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024 (ABROGADO).
 
 Código publicado en el Número 82 del Periódico Oficial del Estado de Nuevo León, el miércoles 7 de julio de 2021.
 
@@ -742,3 +744,17 @@ LIC. GERSON ATIÉ SILVIA GONZÁLEZ
 TITULAR DEL ÓRGANO INTERNO DE CONTROL EN EL ICIFED
 
 Esta hoja de firmas forma parte integrante del documento "Código de Conducta del Instituto Constructor de Infraestructura Física Educativa y Deportiva de Nuevo León".
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO CONSTRUCTOR DE INFRAESTRUCTURA FÍSICA EDUCATIVA Y DEPORTIVA DE NUEVO LEÓN”.]
+
+PRIMERO:
+
+El presente Código de Conducta del ICIFED entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, de acuerdo con lo establecido en el Transitorio primero del Acuerdo Administrativo que emite el Código de Ética de los servidores públicos de la Administración Pública del Poder Ejecutivo del Estado de Nuevo León.
+
+SEGUNDO:
+
+Se abroga el Código de Conducta publicado en el Periódico Oficial del Estado el día 7 de julio de 2021.
