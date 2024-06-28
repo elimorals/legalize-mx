@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-132157"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-08"
-last_updated: "2019-06-28"
+last_updated: "2024-06-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132157&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2018-11-29"
 ---
 # REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS, PUBLICADO EN EL D.O.F. DE 28 DE JUNIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2024/TSA/Reglamento-Tribunalesagrarios4-06-2024.pdf.]
+
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE JUNIO DE 2024 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 8 de enero de 2019.
 
@@ -1024,3 +1028,13 @@ D.O.F. 28 DE JUNIO DE 2019.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Boletín Judicial Agrario; así como en el portal de los Tribunales Agrarios en Internet.
+
+D.O.F. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS”.]
+
+Primero. El presente reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el nuevo reglamento interior de los tribunales agrarios publicado en el Diario Oficial de la Federación el ocho de enero de dos mil diecinueve, así como los Acuerdos Generales emitidos por el Pleno que se opongan al contenido del presente reglamento.
+
+Tercero. Los manuales y disposiciones expedidos con fundamento en el reglamento interior de los tribunales agrarios que se abroga seguirán surtiendo sus efectos hasta en tanto se emitan los nuevos.
