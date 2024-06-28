@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2024-06-07"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -3655,9 +3655,9 @@ P.O. 18 DE DICIEMBRE DE 2023.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”; con excepción de lo establecido en el artículo segundo transitorio.
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-SEGUNDO. Las Adiciones que refieren al Capítulo VI denominado de los “Impuestos Ecológicos” al Título Segundo de los “Impuestos” con sus Secciones, Primera y Segunda, y sus artículos, 36 BIS, 36 TER, 36 QUATER, 36 QUINQUE, 36 SEXTIES, 36 SÉPTIES, 36 OCTIES y 36 NONIES, entrarán en vigor el día uno de julio de 2024.
+SEGUNDO. Las Adiciones que refieren al Capítulo VI denominado de los “Impuestos Ecológicos” al Título Segundo de los “Impuestos” con sus Secciones, Primera y Segunda, y sus artículos, 36 BIS, 36 TER, 36 QUATER, 36 QUINQUÉ, 36 SEXTIES, 36 SÉPTIES, 36 OCTIES y 36 NONIES, entrarán en vigor el día uno de enero de 2025.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 
@@ -3675,8 +3675,20 @@ P.O. 7 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1050.- SE REFORMAN LOS ARTÍCULOS 36 BIS, 36 TER EN SUS FRACCIONES IV Y XI, 36 QUÁTER, 36 QUINQUE, 36 SEXTIES EN SU PÁRRAFO PRIMERO Y TABLA DEL PÁRRAFO TERCERO, 36 SEPTIES EN SU PÁRRAFO SEGUNDO Y 36 OCTIES EN SU SEGUNDO PÁRRAFO; ADICIONA A LOS ARTÍCULOS 36 SEXTIES UN ÚLTIMO PÁRRAFO Y 36 SEPTIES UN ÚLTIMO PÁRRAFO; Y DEROGA EL ARTÍCULO 36 NONIES, DEL DECRETO 0898 PUBLICADO EN EDICIÓN EXTRAORDINARIA DEL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS” EL LUNES 18 DE DICIEMBRE DE 2023 POR EL QUE SE MODIFICARON DIVERSAS DISPOSICIONES, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL TRANSITORIO SEGUNDO DEL ARTÍCULO SEGUNDO DEL RESOLUTIVO ÚNICO DEL DECRETO 1029 PUBLICADO EN EDICIÓN EXTRAORDINARIA DEL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS” EL 26 DE MARZO DE 2024”.]
 
-PRIMERO. El presente Decreto entrará en vigor el 1° de julio del 2024, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-SEGUNDO. La Secretaría de Finanzas del Poder Ejecutivo del Estado emitirá las “REGLAS DE OPERACIÓN DE CARÁCTER GENERAL PARA EL CUMPLIMIENTO DE LA OBLIGACIÓN Y PAGO DEL IMPUESTO POR LA EMISIÓN DE GASES CONTAMINANTES A LA ATMÓSFERA”, las cuales se publicarán en el Periódico Oficial del Estado “Plan de San Luis” y deberán entrar en vigor a partir del 1° de julio de 2024.
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de 2025, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+SEGUNDO. La Secretaría de Finanzas del Poder Ejecutivo del Estado emitirá las “REGLAS DE OPERACIÓN DE CARÁCTER GENERAL PARA EL CUMPLIMIENTO DE LA OBLIGACIÓN Y PAGO DEL IMPUESTO POR LA EMISIÓN DE GASES CONTAMINANTES A LA ATMÓSFERA”, la cuales se publicarán en el Periódico Oficial del Estado “Plan de San Luis” y deberán entrar en vigor a partir del uno de enero de 2025.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1061.- SE REFORMAN LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL ARTÍCULO PRIMERO, Y SE REFORMA EL ARTÍCULO SEGUNDO TRANSITORIO DEL ARTÍCULO SEGUNDO, DEL DECRETO 1050 PUBLICADO EN EDICIÓN EXTRAORDINARIA DEL PERIÓDICO OFICIAL DEL ESTADO "PLAN DE SAN LUIS" EL VIERNES 07 DE JUNIO DE 2024".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
