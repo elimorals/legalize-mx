@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2023-09-08"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -1041,9 +1041,11 @@ VIII.- Los Municipios.
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DE LAS AUTORIDADES EN MATERIA DE ATENCIÓN A LA JUVENTUD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 73.
 
-Corresponde al Gobernador, por conducto de sus dependencias y entidades:
+Corresponde a la persona titular del Poder Ejecutivo, por conducto de sus dependencias y entidades:
 
 I.- Conducir la Política Estatal de Atención a la Juventud en congruencia con la Política Nacional en la materia;
 
@@ -1071,9 +1073,17 @@ XI.- Actuar en colaboración con el Consejo Nacional para Prevenir la Discrimina
 
 XII.- Proponer en el Proyecto de Presupuesto de Egresos del Estado una partida presupuestaria para garantizar el cumplimiento de los objetivos y programas previstos en esta Ley;
 
-XIII.- Apoyar las iniciativas de los jóvenes y canalizarlas a las instancias adecuadas, y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XIV.- Realizar las gestiones necesarias para el cumplimiento de esta Ley.
+XIII.- Apoyar las iniciativas de las y los jóvenes y canalizarlas a las instancias adecuadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+XIV. Crear mecanismos para que las y los jóvenes reciban a través de las personas servidoras públicas capacitadas, la atención, orientación e información respecto de sus derechos en todas las instituciones públicas del Estado; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 28 DE JUNIO DE 2024)</small>
+
+XV. Realizar las gestiones necesarias para el cumplimiento de esta Ley.
 
 ###### ARTÍCULO 74.
 
@@ -1986,3 +1996,9 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 276 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 104, 104 BIS, 105, 107, 108 Y 108 BIS, LA ADICIÓN DE UN ARTÍCULO 105 BIS, Y LA MODIFICACIÓN DEL NOMBRE DEL CAPÍTULO CUARTO DEL TÍTULO SEXTO DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 440 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 73 DE LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÙNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
