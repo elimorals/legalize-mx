@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-comision-de-arbitraje-medico-del-estado-de-baja-67729
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-02"
-last_updated: "2013-10-25"
+last_updated: "2024-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCN"
 ---
 # LEY DE LA COMISION DE ARBITRAJE MEDICO DEL ESTADO DE BAJA CALIFORNIA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 2 de marzo de 2009.
 
@@ -51,9 +53,13 @@ La Comisión de Arbitraje Médico, tendrá por objeto contribuir a la mejora de 
 
 Para los efectos de esta Ley se entiende por:
 
-I.- PRESTADORES.- Las instituciones de salud de carácter público, social o privado, así como los profesionales, técnicos y auxiliares de las disciplinas para la salud, sea que ejerzan su actividad para dichas instituciones o de manera independiente;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-II.- USUARIOS.- Las personas que solicitan, requieren y obtienen dicho servicio de los prestadores de servicios de salud;
+I.- PRESTADORES.- Las instituciones de salud de carácter público, social o privado, así como las personas profesionales, técnicas y auxiliares de las disciplinas para la salud, sea que ejerzan su actividad para dichas instituciones o de manera independiente;
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+II.- USUARIAS.- Las personas que solicitan, requieren y obtienen dicho servicio de los prestadores de servicios de salud;
 
 III.- CAME.- Comisión de Arbitraje Médico del Estado de Baja California;
 
@@ -77,8 +83,6 @@ XII.- TRANSACCIÓN.- Es un contrato otorgado ante la CAME por virtud del cual la
 
 XIII.- DÍAS.- Se entenderán como tales los hábiles salvo disposición en contrario establecida en la presente ley;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
 > <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
 
 XIV.- Opinión Técnica.- Dictamen emitido por el Comité Consultivo de Peritos de la lista oficial proporcionada por los Colegios respectivos, en los casos en que le sea remitido un asunto para su opinión;
@@ -87,7 +91,9 @@ XV.- DICTAMEN.- Resolución del Comité Consultivo de Peritos, precisando sus co
 
 XVI.- LAUDO.- Es la resolución obligatoria para las partes, emitida por la CAME, mediante la cual resuelve en definitiva las cuestiones sometidas a su conocimiento a través del compromiso arbitral; y
 
-XVII.- COMITÉ CONSULTIVO DE PERITOS.- Es el cuerpo colegiado integrado por especialistas en las distintas áreas de la salud.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XVII.- COMITÉ CONSULTIVO DE PERITAJE.- Es el cuerpo colegiado integrado por especialistas en las distintas áreas de la salud.
 
 ###### ARTÍCULO 4.
 
@@ -151,17 +157,17 @@ Para el cumplimiento de sus atribuciones, la CAME contará con la siguiente estr
 
 I.- Una Junta Directiva;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
-
-II.- Un Secretario Técnico
+II.- Una persona Secretaria Técnica
 
 III.- Los Órganos Técnicos siguientes:
 
 a).- Un Consejo;
 
-b).- Un Comité Consultivo de Peritos; y,
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+b).- Un Comité Consultivo de Peritaje; y,
 
 IV.- Las Unidades Administrativas que determine su Reglamento Interno.
 
@@ -171,97 +177,97 @@ IV.- Las Unidades Administrativas que determine su Reglamento Interno.
 
 La Junta Directiva estará integrada por:
 
-I.- El Secretario de Salud, quien será el Presidente;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+I.- Una Presidencia, que será la persona titular de la Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-II.- El Secretario de Educación y Bienestar Social;
+II.- La persona titular de la Secretaría de Educación;
 
-III.- El Secretario de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-IV.- El Secretario de Desarrollo Social; y
+III.- La persona titular de la Secretaría de Hacienda;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+IV.- La persona titular de la Secretaría de Bienestar; y,
 
-V.- Un representante de cualquier Asociación de Profesionistas en materia de salud, debidamente registrado en los términos de la Ley respectiva, el cual se designará de acuerdo a las condiciones previstas en el Reglamento Interno.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+V.- Una persona representante de cualquier Asociación de Profesionistas en materia de salud, debidamente registrada en los términos de la Ley respectiva, el cual se designará de acuerdo a las condiciones previstas en el Reglamento Interno.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-Para el mejor desempeño de sus funciones la Junta Directiva contará con un Secretario, función que recaerá en el Secretario Técnico, el cual podrá participar en las sesiones con derecho a voz, pero sin voto.
+Para el mejor desempeño de sus funciones la Junta Directiva contará con una Secretaría, función que recaerá en la persona Secretaria Técnica, la cual podrá participar en las sesiones con derecho a voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 10.
 
-Los integrantes de la Junta Directiva desempeñarán su encargo de manera honorífica, por lo que no percibirán retribución, emolumento o compensación alguna por las actividades que desarrollen con tal carácter.
+Las personas integrantes de la Junta Directiva desempeñarán su encargo de manera honorífica, por lo que no percibirán retribución, emolumento o compensación alguna por las actividades que desarrollen con tal carácter.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 11.
 
-La Junta Directiva sesionará de manera ordinaria por lo menos cada tres meses, y en forma extraordinaria cuando así se requiera a juicio de su Presidente, o lo solicite la mayoría de sus integrantes.
+La Junta Directiva sesionará de manera ordinaria por lo menos cada tres meses, y en forma extraordinaria cuando así se requiera a juicio de la Presidencia, o lo solicite la mayoría de sus integrantes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+El quórum para sesionar válidamente será con la asistencia de la mayoría de sus integrantes, sin que se considere para ello la asistencia (sic) la persona Secretaria. Las resoluciones se tomarán por votación mayoritaria de las personas integrantes presentes, teniendo la Presidencia voto de calidad, en caso de empate.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+Las personas integrantes de la Junta Directiva tendrán derecho a voz y voto, y en sus ausencias este derecho corresponderá a sus suplentes.
 
-El quórum para sesionar válidamente será con la asistencia de la mayoría de sus integrantes, sin que se considere para ello la asistencia del Secretario. Las resoluciones se tomarán por votación mayoritaria de los integrantes presentes, teniendo el Presidente voto de calidad, en caso de empate.
+El Reglamento Interno determinará los requisitos, el procedimiento y demás normas relativas al nombramiento de las personas suplentes.
 
-Los integrantes de la Junta Directiva tendrán derecho a voz y voto, y en sus ausencias este derecho corresponderá a sus suplentes.
-
-El Reglamento Interno determinará los requisitos, el procedimiento y demás normas relativas al nombramiento de los suplentes.
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 12.
 
-la Junta Directiva, tendrá las siguientes atribuciones y obligaciones:
+La Junta Directiva, tendrá las siguientes atribuciones y obligaciones:
 
 I.- Analizar, discutir y en su caso aprobar el programa institucional y el programa operativo anual de la CAME, así como las modificaciones que procedan a los mismos;
 
 II.- Analizar, discutir y en su caso aprobar el anteproyecto de presupuesto de ingresos y egresos de la CAME, así como las modificaciones que procedan;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
-
-III.- Analizar y en su caso aprobar los informes trimestrales que rinda el Secretario Técnico, así como los que rindan los diversos órganos de la CAME;
+III.- Analizar y en su caso aprobar los informes trimestrales que rinda la persona Secretaria Técnica, así como los que rindan los diversos órganos de la CAME;
 
 IV.- Analizar, y en su caso aprobar la creación y supresión de plazas en la CAME;
 
 V.- Autorizar la estructura orgánica de la CAME, así como las modificaciones que procedan;
 
-VI.- Aprobar y presentar ante el Titular del Poder Ejecutivo para su expedición, el proyecto de Reglamento Interno de la CAME y sus reformas, así como autorizar los manuales administrativos necesarios para su operación y las modificaciones que procedan;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+VI.- Aprobar y presentar ante la persona Titular del Poder Ejecutivo para su expedición, el proyecto de Reglamento Interno de la CAME y sus reformas, así como autorizar los manuales administrativos necesarios para su operación y las modificaciones que procedan;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VII.- Aprobar anualmente, previo informe del Secretario Técnico, los estados financieros y el cierre del ejercicio presupuestal de la CAME, autorizando en su caso, la publicación de los mismos;
+VII.- Aprobar anualmente, previo informe de la persona Secretaria Técnica, los estados financieros y el cierre del ejercicio presupuestal de la CAME, autorizando en su caso, la publicación de los mismos;
 
 VIII.- Acordar la celebración de convenios de coordinación y colaboración por parte de la CAME, con Dependencias y Entidades federales, estatales o municipales, organizaciones de la sociedad civil o instituciones con objetos afines;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
-
-IX.- Conocer de los asuntos que someta a su consideración el Secretario Técnico;
+IX.- Conocer de los asuntos que someta a su consideración la persona Secretaria Técnica;
 
 X.- Conocer de los informes, dictámenes y recomendaciones del Comisariado, resolviendo lo conducente;
 
-XI.- Nombrar a los peritos que integran el Comité Consultivo de Peritos, de entre las propuestas que al efecto realicen los colegios de las distintas especialidades de profesionales de la salud, que se encuentren debidamente registrados ante el área de profesiones del Estado;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+XI.- Nombrar a peritos que integran el Comité Consultivo de Peritaje, de entre las propuestas que al efecto se realicen en términos del artículo 21 de la presente Ley;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-XII.- Designar al personal administrativo de la CAME, a propuesta del Secretario Técnico;
+XII.- Designar al personal administrativo de la CAME, a propuesta de la persona Secretaria Técnica;
 
 XIII.- La demás que resulten necesarias para el adecuado cumplimiento de su objeto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 13.
 
-El Presidente de la Junta Directiva tendrá las siguientes facultades y obligaciones;
+La persona titular de la Presidencia de la Junta Directiva tendrá las siguientes facultades y obligaciones:
 
 I.- Representar a la Junta Directiva;
 
@@ -271,31 +277,27 @@ III.- Convocar a sesiones ordinarias o extraordinarias;
 
 IV.- Declarar instaladas o clausuradas las sesiones;
 
-V.- Invitar a las sesiones de la Junta Directiva, con derecho a voz pero sin voto, a los ciudadanos, técnicos o auxiliares en la materia de salud, que estime necesarios; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+V.- Invitar a las sesiones de la Junta Directiva, con derecho a voz pero sin voto, a la ciudadanía, personas técnicas o auxiliares en la materia de salud, que estime necesarias; y,
 
 VI.- Las demás que le encomiende la Junta Directiva.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ABRIL DE 2012)</small>
+### CAPÍTULO VI. DE LA PERSONA SECRETARIA TÉCNICA Y EL CONSEJO
 
-### CAPÍTULO VI. DEL SECRETARIO TÉCNICO Y El CONSEJO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 14.
 
-La CAME contará con un titular que se denominará Secretario Técnico, mismo que será nombrado y removido libremente por el Gobernador del Estado.
+La CAME contará con una titularidad que se denominará Secretaria Técnica, misma que será nombrada y removida libremente por la persona Titular del Poder Ejecutivo del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
-Son facultades y obligaciones del Secretario Técnico:
+Son facultades y obligaciones de la persona Secretaria Técnica:
 
 I.- Dirigir y administrar a la CAME, dando cumplimiento a su objeto, conforme a los acuerdos que emita la Junta Directiva;
 
@@ -319,11 +321,9 @@ X.- Otorgar poderes generales y especiales con las facultades que le competan, i
 
 XI.- Sustituir y revocar los poderes generales o especiales que haya otorgado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
-
-XII.- Desempeñarse como Secretario de la Junta Directiva, cargo que será de carácter honorífico;
+XII.- Desempeñarse como persona Secretaria de la Junta Directiva, cargo que será de carácter honorífico;
 
 XIII.- Ejecutar los acuerdos que la Junta Directiva le encomiende;
 
@@ -331,7 +331,9 @@ XIV.- Recabar la información que la Junta Directiva requiera, a efecto de cumpl
 
 XV.- Desahogar el procedimiento de arbitraje derivado de las quejas presentadas ante la CAME, en los términos que señala la presente Ley y demás disposiciones aplicables;
 
-XVI.- Desempeñarse como Presidente del Consejo, cargo que será de carácter honorífico;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+XVI.- Desempeñarse como titular de la Presidencia del Consejo, cargo que será de carácter honorífico;
 
 XVII.- Suscribir los acuerdos, laudos y opiniones que dicte o emita el Consejo;
 
@@ -339,21 +341,19 @@ XVIII.- Proponer a la Junta Directiva al personal administrativo de la CAME; y
 
 XIX.- Las demás que le otorgue la Junta Directiva y otras disposiciones aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 16.
 
-Para ser nombrado Secretario Técnico se requiere:
+Para ser nombrada persona Secretaria Técnica se requiere:
 
 I.- Ser mexicano, en pleno ejercicio de sus derechos civiles;
 
 II.- Tener por lo menos cuarenta años de edad cumplidos el día de la designación;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-III.- Ser profesionista titulado en cualquiera de las áreas médicas reconocidas por la Ley de Ejercicio de las Profesiones para el Estado de Baja California o por el Departamento de Profesiones del Estado, así como estar debidamente registrado ante éste;
+III.- Ser persona profesionista titulada en cualquiera de las áreas médicas reconocidas por la Ley de Ejercicio de las Profesiones para el Estado de Baja California o por el Departamento de Profesiones del Estado, así como estar debidamente registrada ante éste;
 
 IV.- Haberse distinguido, por su probidad, competencia y antecedentes profesionales, en el ejercicio de las actividades que se vinculen a las atribuciones de la Comisión;
 
@@ -367,141 +367,131 @@ VIII.- Pertenecer a un colegio o asociación de médicos debidamente registrado 
 
 IX.- No estar impedido en términos de lo dispuesto en las fracciones II, III, IV, V, y VI del artículo 19 de la Ley de Entidades Paraestatales del Estado de Baja California.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 17.
 
 El Consejo estará integrado de la siguiente manera:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+I.- Por una Presidencia, que será la persona Secretaria Técnica; y,
 
-I.- Por un Presidente, que será el Secretario Técnico; y,
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-II.- Por los siguientes Consejeros:
+II.- Por las siguientes personas Consejeras:
 
-a).- Por tres médicos que serán nombrados mediante convocatoria publicada en por lo menos uno de los diarios de mayor circulación en la Entidad, en la cual se señalarán los requisitos que deberán cumplir los aspirantes al cargo, sin perjuicio de que dicha convocatoria pueda ser difundida por otros medios;
+a).- Por tres profesionistas de la medicina que serán nombradas mediante convocatoria publicada en por lo menos uno de los diarios de mayor circulación en la Entidad, en la cual se señalarán los requisitos que deberán cumplir las personas aspirantes al cargo, sin perjuicio de que dicha convocatoria pueda ser difundida por otros medios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+b).- Por tres personas Licenciadas en Derecho no relacionadas con la prestación de servicios de salud que serán nombradas mediante convocatoria publicada en por lo menos uno de los diarios de mayor circulación en la Entidad, en la cual se señalarán los requisitos que deberán cumplir las personas aspirantes al cargo, sin perjuicio de que dicha convocatoria pueda ser difundida por otros medios;
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+c).- Una persona representante del Poder Legislativo que deberá ser designada conforme a sus disposiciones reglamentarias;
 
-b).- Por tres Licenciados en Derecho no relacionados con la prestación de servicios de salud que serán nombrados mediante convocatoria publicada en por lo menos uno de los diarios de mayor circulación en la Entidad, en la cual se señalarán los requisitos que deberán cumplir los aspirantes al cargo, sin perjuicio de que dicha convocatoria pueda ser difundida por otros medios;
+d).- Por una persona Odontóloga;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+e).- Por una persona psiquiatra o psicóloga;
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+f).- Por una persona Investigadora Médica;
 
-c).- Un representante del Poder Legislativo que deberá ser designado conforme a sus disposiciones reglamentarias;
+g).- Por una persona Química fármaco-bióloga; y,
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+h).- Por una persona licenciada en enfermería.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-d).- Por un Odontólogo;
+Las personas Consejeras a que se refieren los incisos anteriores, serán designadas por la Junta Directiva, en los términos y condiciones que señale el Reglamento Interno, con excepción del señalado en el inciso c.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+Para ser designada persona Consejera se deberán reunir los requisitos del artículo 16, salvo la experiencia profesional la que solo requerirá tenerse en cualquier área de la salud.
 
-e).- Por un psiquiatra o psicólogo;
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+La ciudadanía a que se refiere la fracción II, inciso b) del artículo 17 de esta Ley quedan exentos de cumplir los requisitos del numeral 16.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-f).- Por un Investigador Médico;
+Las personas Consejeras a que se refiere la fracción II, inciso d), e), f), g) y h) del presente artículo, deberán además ser propuestas para ocupar dicho cargo, por alguna de las asociaciones y colegios de profesionales de la salud, debidamente registradas ante el área de profesiones en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+Las personas Consejeras durarán en su encargo tres años y no podrán ser reelectas para un periodo inmediato. Deberán designar por escrito a una persona suplente con funciones de propietaria para que cubra sus ausencias temporales, procurando que dicho nombramiento recaiga siempre en una misma persona.
 
-g).- Por un Químico fármaco-biólogo; y
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+Los cargos de Las personas Consejeras serán de carácter honorífico, por lo que no percibirán retribución, emolumento o compensación alguna por su desempeño.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-h).-Por un Licenciado o Licenciada en enfermería.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
-
-Los Consejeros a que se refieren los incisos anteriores, serán designados por la Junta Directiva, en los términos y condiciones que señale el Reglamento Interno, con excepción del señalado en el inciso c.
-
-Para ser designado Consejero se deberán reunir los requisitos del artículo 16, salvo la experiencia profesional la que solo requerirá tenerse en cualquier área de la salud.
-
-Los ciudadanos a que se refiere la fracción II, inciso b) del artículo 17 de esta Ley quedan exentos de cumplir los requisitos del numeral 16.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
-
-Los Consejeros a que se refiere la fracción II, inciso d), e), f), g) y h) del presente artículo, deberán además ser propuestos para ocupar dicho cargo, por alguna de las asociaciones y colegios de profesionales de la salud, debidamente registrados ante el área de profesiones en el Estado.
-
-Los Consejeros durarán en su encargo tres años y no podrán ser reelectos para un periodo inmediato. Deberán designar por escrito a un suplente con funciones de propietario para que cubra sus ausencias temporales, procurando que dicho nombramiento recaiga siempre en una misma persona.
-
-Los cargos de los Consejeros serán de carácter honorífico, por lo que no percibirán retribución, emolumento o compensación alguna por su desempeño.
-
-El Consejo celebrará sesiones ordinarias cuando así lo determine el Presidente, o la mayoría de sus integrantes, de acuerdo con los requerimientos de la CAME.
+El Consejo celebrará sesiones ordinarias cuando así lo determine la Presidencia, o la mayoría de sus integrantes, de acuerdo con los requerimientos de la CAME.
 
 La elaboración de las convocatorias para las sesiones se realizará en los términos que establezca el Reglamento Interno, y podrán notificarse personalmente o bien mediante oficio, fax o correo electrónico, dejando constancia del mismo y del resultado de la notificación.
 
-Para que las sesiones sean válidas, será necesaria la asistencia de cuando menos la mitad mas uno de sus integrantes, siempre y cuando se encuentre presente el Presidente. Las decisiones del Consejo se tomarán por mayoría de votos y en caso de empate, el Presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+Para que las sesiones sean válidas, será necesaria la asistencia de cuando menos la mitad más una de las personas integrantes, siempre y cuando se encuentre presente la Presidencia. Las decisiones del Consejo se tomarán por mayoría de votos y en caso de empate, la Presidencia tendrá voto de calidad.
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-Cuando uno o más de los Consejeros tuvieren interés personal en algún asunto que se someta a consideración de la CAME, se abstendrán de votar y lo deberán notificar por escrito al Secretario Técnico.
+Cuando una o más de las personas Consejeras tuvieren interés personal en algún asunto que se someta a consideración de la CAME, se abstendrán de votar y lo deberán notificar por escrito a la persona Secretaria Técnica.
 
 La organización y demás normas para el proceso de integración, designación y funcionamiento del Consejo de la CAME, se sujetará a las disposiciones previstas en el Reglamento Interno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 18.
 
-Para el debido cumplimiento de sus funciones el Consejo contará con un Secretario que será designado y removido libremente, a propuesta de su Presidente.
+Para el debido cumplimiento de sus funciones el Consejo contará con una persona Secretaria que será designada y removida libremente, a propuesta de la Presidencia.
 
-El Secretario podrá participar en las sesiones del Consejo con derecho a voz pero sin voto y su asistencia no será computada para efectos del quórum. Se desempeñará como secretario de actas y su remuneración será con cargo al presupuesto de la CAME.
+La persona Secretaria podrá participar en las sesiones del Consejo con derecho a voz pero sin voto y su asistencia no será computada para efectos del quórum. Se desempeñará como secretaria de actas y su remuneración será con cargo al presupuesto de la CAME.
 
-El Reglamento Interno establecerá los requisitos, procedimiento de designación así como las facultades y obligaciones del Secretario.
+El Reglamento Interno establecerá los requisitos, procedimiento de designación así como las facultades y obligaciones de la persona Secretaria.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
 Son atribuciones del Consejo:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+I.- Conocer de los asuntos que someta a su consideración la persona Secretaria Técnica;
 
-I.- Conocer de los asuntos que someta a su consideración el Secretario Técnico;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-II.- Resolver los juicios arbitrales sometidos al conocimiento de la CAME, dictando el laudo que corresponda, en el cual deberá valorarse el dictamen pericial que sea rendido por el Comité Consultivo de Peritos;
+II.- Resolver los juicios arbitrales sometidos al conocimiento de la CAME, dictando el laudo que corresponda, en el cual deberá valorarse el dictamen pericial que sea rendido por el Comité Consultivo de Peritaje;
 
 III.- Rendir un informe cuatrimestral de sus actividades a la Junta Directiva;
 
-IV.- Remitir a la autoridad competente los asuntos que a su consideración constituyan la probable comisión de un delito, cuando así lo arroje el peritaje realizado por el Comité Consultivo de Peritos; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+IV.- Remitir a la autoridad competente los asuntos que a su consideración constituyan la probable comisión de un delito, cuando así lo arroje el peritaje realizado por el Comité Consultivo de Peritaje; y
 
 V.- Las demás que le confieran el Reglamento Interno y otras disposiciones aplicables.
 
-### CAPÍTULO VII. DEL COMITÉ CONSULTIVO DE PERITOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JUNIO DE 2024)</small>
+
+### CAPÍTULO VII. DEL COMITÉ CONSULTIVO DE PERITAJE
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 20.
 
-Se considera Comité Consultivo de Peritos al grupo de tres profesionales en el área de la salud correspondiente a la materia de la queja presentada. Las opiniones o dictámenes que emitan serán retribuidos conforme al presupuesto asignado a la CAME para tal efecto.
+Se considera Comité Consultivo de Peritaje al grupo de tres personas profesionales en el área de la salud correspondiente a la materia de la queja presentada. Las opiniones o dictámenes que emitan serán retribuidos conforme al presupuesto asignado a la CAME para tal efecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 21.
 
-Para ser nombrado miembro del Comité Consultivo de Peritos se requiere:
+Para el nombramiento como integrante del Comité Consultivo de Peritaje se requiere:
 
 I.- Ser mexicano, en pleno ejercicio de sus derechos civiles;
 
 II.- Tener por lo menos treinta años cumplidos el día de la designación;
 
-III.- Ser profesionista titulado con especialidad en cualquier área de la salud, debiendo estar debidamente registrado ante el área de profesiones;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+III.- Ser persona profesionista titulada con especialidad en cualquier área de la salud, debiendo estar debidamente registrada ante el área de profesiones;
 
 IV.- Distinguirse por su probidad, competencia y antecedentes profesionales en el ejercicio de su especialidad;
 
@@ -509,25 +499,27 @@ V.- Contar con experiencia mínima de tres años en la especialidad que ostente;
 
 VI.- Estar ejerciendo activamente la especialidad;
 
-VII.- Ser propuesto para ocupar tal encargo, con base a su desempeño profesional, por asociaciones o colegios de profesionistas de la salud, debidamente registrados ante el área de profesiones del Estado; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VIII.- No laborar como trabajador de confianza en una institución pública de salud al momento de su designación y durante su encargo.
+VII.- Ser propuesta para ocupar tal encargo, con base a su desempeño profesional, por asociaciones o colegios de profesionistas de la salud, debidamente registrados ante el área de profesiones del Estado. En el caso de no existir asociación o colegio en una rama específica de la salud, corresponderá a la persona Secretaria Técnica de la CAME realizar la propuesta respectiva; y,
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VIII.- No laborar como persona trabajadora de confianza en una institución pública de salud al momento de su designación y durante su encargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 22.
 
-Son atribuciones del Comité Consultivo de Peritos las siguientes:
+Son atribuciones del Comité Consultivo de Peritaje las siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
+I.- Recibir los expedientes de los asuntos que les sean turnados por la Persona Secretaria Técnica para su estudio, opinión y dictamen;
 
-I.- Recibir los expedientes de los asuntos que les sean turnados por el Secretario Técnico para su estudio, opinión y dictamen;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2012)</small>
-
-II.- Emitir opinión técnica respecto a los asuntos que le sean turnados por el Secretario Técnico;
+II.- Emitir opinión técnica respecto a los asuntos que le sean turnados por la persona Secretaria Técnica;
 
 III.- Emitir los dictámenes respecto de las cuestiones sometidas a su análisis y consideración; y
 
@@ -535,21 +527,23 @@ IV.- Comparecer ante el Consejo cuando este se lo requiera. Para ampliar o clari
 
 ### CAPÍTULO VIII. DEL PROCEDIMIENTO DE ATENCIÓN DE QUEJAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 23.
 
-La CAME, por conducto del Secretario Técnico, atenderá las quejas relacionadas con la prestación de servicios de atención a la salud cuando se aduzca una posible irregularidad o negativa del servicio. Al efecto estará facultado para solicitar la información relacionada a las partes y a terceros; realizar las investigaciones necesarias; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia administrativa y de los prestadores de servicios a la salud, así como para adoptar las medidas necesarias para la protección de la salud de los usuarios.
+La CAME, por conducto de la persona Secretaria Técnica, atenderá las quejas relacionadas con la prestación de servicios de atención a la salud cuando se aduzca una posible irregularidad o negativa del servicio. Al efecto estará facultada para solicitar la información relacionada a las partes y a terceras personas; realizar las investigaciones necesarias; solicitar el auxilio de las autoridades jurisdiccionales, de procuración de justicia administrativa y de los prestadores de servicios a la salud, así como para adoptar las medidas necesarias para la protección de la salud de los usuarios.
 
 La formulación de quejas, así como los procedimientos que se sigan ante la CAME, no afectarán el ejercicio de otros derechos o medios de defensa de los que dispongan los usuarios o prestadores de servicios médicos conforme a la Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 24.
 
-Las quejas deberán presentarse ante la CAME de manera personal por el quejoso, ya sea en forma verbal o escrita, y deberán contener:
+Las quejas deberán presentarse ante la CAME de manera personal por la parte quejosa, ya sea en forma verbal o escrita, y deberán contener:
 
-I.- Nombre, domicilio y, en su caso el número telefónico del quejoso y del prestador del servicio de salud contra el cual se inconforme;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+I.- Nombre, domicilio y, en su caso el número telefónico (sic) la parte quejosa y del prestador del servicio de salud contra el cual se inconforme;
 
 II.- Una breve descripción de los hechos motivo de la queja;
 
@@ -557,17 +551,25 @@ III.- Número de afiliación o de registro del usuario, cuando la queja sea inte
 
 IV.- Pretensiones que deduzca del prestador de servicio;
 
-V.- Si actúa a nombre de un tercero la documentación probatoria de su representación, sea en razón de parentesco o por otra causa; y
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
-VI.- Firma o huella digital del quejoso:
+V.- Si actúa a nombre de una tercera persona la documentación probatoria de su representación, sea en razón de parentesco o por otra causa; y,
 
-A la queja se agregará copia simple legible de los documentos en que soporte los hechos manifestados y de su identificación. Cuando se presenten originales la CAME agregará al expediente copias cotejadas de los mismos, devolviendo los originales a los interesados.
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+VI.- Firma o huella digital de la parte quejosa.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+A la queja se agregará copia simple legible de los documentos en que soporte los hechos manifestados y de su identificación. Cuando se presenten originales la CAME agregará al expediente copias cotejadas de los mismos, devolviendo los originales a las personas interesadas.
+
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-Solo puede iniciar un procedimiento ante la CAME, o intervenir en él, quien tenga interés en que ésta declare o constituya un derecho o emita una determinación arbitral y quien tenga el interés contrario. Podrán promover los interesados por si o a través de sus representantes o apoderados.
+Solo puede iniciar un procedimiento ante la CAME, o intervenir en él, quien tenga interés en que ésta declare o constituya un derecho o emita una determinación arbitral y quien tenga el interés contrario. Podrán promover las personas interesadas por si o a través de personas representantes o apoderadas.
 
-La CAME examinará de oficio la personalidad y representación de las partes y los interesados podrán corregir cualquier deficiencia al respecto hasta la audiencia conciliatoria. Contra el auto que desconozca la personalidad, negándose a dar trámite al arbitraje, no procederá recurso alguno.
+La CAME examinará de oficio la personalidad y representación de las partes y las personas interesadas podrán corregir cualquier deficiencia al respecto hasta la audiencia conciliatoria. Contra el auto que desconozca la personalidad, negándose a dar trámite al arbitraje, no procederá recurso alguno.
 
 ###### ARTÍCULO 26.
 
@@ -583,13 +585,15 @@ Tratándose de quejas que impliquen la probable comisión de un delito o la infr
 
 Recibida la queja se registrará y se asignará número de expediente, debiendo acordar su admisión dentro de los tres días siguientes a su recepción, así como la fecha para la audiencia de conciliación, misma que se celebrará dentro de los quince días siguientes a aquél en que fue admitida.
 
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 29.
 
-Si la queja fuere incompleta, imprecisa, obscura o ambigua, la CAME requerirá por escrito al interesado para que la aclare o complete en un plazo no mayor de diez días contados a partir de la fecha en que surta efectos la notificación.
+Si la queja fuere incompleta, imprecisa, obscura o ambigua, la CAME requerirá por escrito a la persona interesada para que la aclare o complete en un plazo no mayor de diez días contados a partir de la fecha en que surta efectos la notificación.
 
 Formulada la aclaración solicitada la CAME tendrá por admitida la queja y procederá a la notificación correspondiente.
 
-Si el quejoso no desahogara la aclaración en los términos del párrafo anterior se tendrá por concluido el asunto, mandándose el expediente al archivo general.
+Si la parte quejosa no desahogara la aclaración en los términos del párrafo anterior se tendrá por concluido el asunto, mandándose el expediente al archivo general.
 
 ###### ARTÍCULO 30.
 
@@ -607,27 +611,33 @@ En la misma diligencia se requerirá al prestador para que presente en la fecha 
 
 La CAME procurará la conciliación entre las partes a través de los medios a su alcance. Para tales efectos, propondrá vías de arreglo, mismas que quedarán sujetas a la voluntad de aquellas, sin que tengan carácter de laudo en amigable composición.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 33.
 
-Abierta la audiencia, el conciliador manifestará a las partes sus derechos, así como un resumen sucinto de la queja y del informe presentado, señalando los elementos comunes y los puntos de controversia, y las exhortará para que se conduzcan con verdad y lleguen a un arreglo.
+Abierta la audiencia, la persona conciliadora manifestará a las partes sus derechos, así como un resumen sucinto de la queja y del informe presentado, señalando los elementos comunes y los puntos de controversia, y las exhortará para que se conduzcan con verdad y lleguen a un arreglo.
 
 Con el propósito de coadyuvar en la solución de las controversias derivadas de la prestación de servicios de atención a la salud, la CAME privilegiará el uso de formas alternas a las soluciones litigiosas. Para tal efecto pondrá a disposición de las partes los servicios de conciliación y de arbitraje.
 
 En cualquier fase del cumplimiento las partes podrán resolver sus diferencias mediante convenio escrito.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 34.
 
-El conciliador podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la CAME le confiere la presente Ley.
+La persona conciliadora podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la CAME le confiere la presente Ley.
 
-Las partes podrán aportar las pruebas que estimen pertinentes y necesarias para acreditar los elementos de la queja y del informe. El conciliador podrá diferir la audiencia de conciliación hasta por dos ocasiones cuando lo estime pertinente, o a instancia de ambas partes, debiendo en todo caso señalar día y hora para su reanudación dentro de los cinco días hábiles siguientes.
+Las partes podrán aportar las pruebas que estimen pertinentes y necesarias para acreditar los elementos de la queja y del informe. La persona conciliadora podrá diferir la audiencia de conciliación hasta por dos ocasiones cuando lo estime pertinente, o a instancia de ambas partes, debiendo en todo caso señalar día y hora para su reanudación dentro de los cinco días hábiles siguientes.
 
 ###### ARTÍCULO 35.
 
 En caso de inasistencia de un prestador de servicios a la audiencia de conciliación, o ante el incumplimiento de presentar los documentos mencionados en el artículo 31, se solicitará, en el caso de instituciones públicas, la intervención de los órganos internos de control, a efecto de que coadyuven con la CAME en el cumplimiento de sus objetivos. Cuando se trate de un prestador de servicios que ejerza su actividad de manera privada, se solicitará la intervención de las asociaciones de profesionales con las que la CAME haya establecido acuerdos de colaboración necesarios.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 36.
 
-En caso de que el quejoso no acuda a la audiencia de conciliación y no se presente dentro de los cinco días siguientes a la audiencia respectiva, sin haber justificado fehacientemente su inasistencia, se le tendrá por desistido de la queja, acordándose como asunto concluido, remitiéndose a archivo y teniendo como consecuencia que no podrá presentar otra queja ante la CAME por los mismos hechos.
+En caso de que la persona quejosa no acuda a la audiencia de conciliación y no se presente dentro de los cinco días siguientes a la audiencia respectiva, sin haber justificado fehacientemente su inasistencia, se le tendrá por desistido de la queja, acordándose como asunto concluido, remitiéndose a archivo y teniendo como consecuencia que no podrá presentar otra queja ante la CAME por los mismos hechos.
 
 ###### ARTÍCULO 37.
 
@@ -637,15 +647,13 @@ El convenio celebrado por las partes con motivo de la conciliación, en que expr
 
 De realizarse satisfactoriamente la fase conciliatoria, se dejará constancia legal y se procederá al archivo de las actuaciones como un asunto definitivamente concluido.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 39.
 
-Agotada la fase conciliatoria, y de no lograrse el arreglo de las partes, el conciliador las exhortará a que designen como árbitro a la CAME para solucionar la controversia.
+Agotada la fase conciliatoria, y de no lograrse el arreglo de las partes, la persona conciliadora las exhortará a que designen como árbitro a la CAME para solucionar la controversia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
-
-Si las partes así lo deciden se acordará el compromiso arbitral y dentro de los tres días siguientes se turnará el expediente al Secretario Técnico, para la continuación del procedimiento arbitral.
+Si las partes así lo deciden se acordará el compromiso arbitral y dentro de los tres días siguientes se turnará el expediente a la persona Secretaria Técnica para la continuación del procedimiento arbitral.
 
 ###### ARTÍCULO 40.
 
@@ -655,17 +663,23 @@ Cuando se trate asuntos relacionados con la negación de la atención médica, l
 
 Si las partes llegaran a un arreglo, procederán a otorgar desde luego el convenio correspondiente, al efecto podrán emplearse en lo conducente los formatos que emita la CAME, respetándose puntualmente la voluntad de las partes.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 42.
 
 En los convenios se tomarán en cuenta las siguientes reglas:
 
-I.- Se garantizará ante todo la protección de la salud de los usuarios;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+I.- Se garantizará ante todo la protección de la salud de las personas usuarias;
 
 II.- Cuando haya conflicto de derechos, se buscará ante todo proteger a quien deban evitársele perjuicios respecto de quien pretenda obtener lucro;
 
 III.- Si el conflicto fuere entre derechos iguales o de la misma especie, se buscará la resolución observando la mayor igualdad entre las partes;
 
-IV.- La voluntad de los particulares no puede eximir de la observancia de la Ley, ni alterarla ni modificarla y sólo son renunciables los derechos privados que no afecten directamente al interés público y no perjudiquen los derechos de tercero;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+IV.- La voluntad de las y los particulares no puede eximir de la observancia de la Ley, ni alterarla ni modificarla y sólo son renunciables los derechos privados que no afecten directamente al interés público y no perjudiquen los derechos de tercera persona;
 
 V.- La autonomía de las partes para otorgar convenios no puede ir en contra de la Ley, el orden público o las buenas costumbres;
 
@@ -711,17 +725,23 @@ Son partes en el arbitraje quienes hubieren otorgado la cláusula compromisoria 
 
 Todo el que esté en pleno ejercicio de sus derechos civiles puede comprometer en árbitros sus negocios y comparecer al arbitraje.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 50.
 
-Los tutores no pueden comprometer los negocios de los incapacitados ni nombrar árbitro a la CAME sino con aprobación judicial, salvo en el caso de que dichos incapacitados fueren herederos de quien celebró el compromiso o estableció la cláusula compromisoria.
+Las personas tutoras no pueden comprometer los negocios de las personas con incapacidad ni nombrar árbitro a la CAME sino con aprobación judicial, salvo en el caso de que dichas personas con incapacidad fueren herederos de quien celebró el compromiso o estableció la cláusula compromisoria.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 51.
 
-Por los menores e incapaces, comparecerán sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho.
+Por las niñas, niños y adolescentes y personas con incapacidad, comparecerán sus representantes legítimos o los que deban suplir su incapacidad conforme a derecho.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 52.
 
-Será optativo para las partes acudir asesoradas a las audiencias de conciliación y de pruebas y alegatos, y en este supuesto los asesores necesariamente deberán ser profesionales en alguna de las disciplinas para la salud o licenciados en derecho, con cédula profesional y en legal ejercicio de su profesión. En caso de que una de las partes se encuentre asesorada y la otra no, la CAME celebrará la audiencia correspondiente y suplirá la deficiencia de la parte que no se encuentre asesorada, procurando la mayor equidad.
+Será optativo para las partes acudir asesoradas a las audiencias de conciliación y de pruebas y alegatos, y en este supuesto las personas asesoras necesariamente deberán ser profesionistas en alguna de las disciplinas para la salud o licenciadas en derecho, con cédula profesional y en legal ejercicio de su profesión. En caso de que una de las partes se encuentre asesorada y la otra no, la CAME celebrará la audiencia correspondiente y suplirá la deficiencia de la parte que no se encuentre asesorada, procurando la mayor equidad.
 
 ###### ARTÍCULO 53.
 
@@ -731,13 +751,21 @@ La gestión de negocios no será admisible ante la CAME, aunque se pretenda bajo
 
 Siempre que dos o más personas ejerzan una misma acción u opongan la misma excepción, deberán participar unidas en el procedimiento y bajo la misma representación.
 
-A este efecto los interesados, dentro de los tres días siguientes a que se determine lo señalado en el párrafo anterior, nombrarán un mandatario, quien tendrá las facultades que en el poder se le hayan concedido, necesarias para la continuación del procedimiento. En caso de no designar mandatario, podrán elegir entre ellas mismas un representante común. Si dentro del término señalado no nombraren un mandatario ni hicieren la elección del representante común, o no se pusieren de acuerdo en ella, la CAME nombrará al representante común escogiendo a alguno de los propuestos; y si nadie lo hubiere sido, a cualquiera de los interesados.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-El representante común que designe la CAME tendrá las mismas facultades que si promoviera exclusivamente por su propio derecho, excepto las de desistirse y transigir, salvo que los interesados lo autorizaren expresamente en el compromiso arbitral.
+A este efecto las personas interesadas, dentro de los tres días siguientes a que se determine lo señalado en el párrafo anterior, nombrarán a una persona mandataria, quien tendrá las facultades que en el poder se le hayan concedido, necesarias para la continuación del procedimiento. En caso de no designar mandataria, podrán elegir entre ellas mismas a una persona representante común. Si dentro del término señalado no nombraren a una mandataria ni hicieren la elección de la persona representante común, o no se pusieren de acuerdo en ella, la CAME nombrará a la persona representante común escogiendo a alguna de las propuestas y si nadie lo hubiere sido, a cualquiera de las personas interesadas.
 
-Cuando las partes actúen unidas, el mandatario nombrado, o en su caso el representante común, sea el designado por los interesados o por la CAME, será el único que pueda representar a los que hayan ejercido la misma acción u opuesto la misma excepción, con exclusión de las demás personas.
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-El representante común o el mandatario designado por quienes actúen unidos, son inmediata y directamente responsables por negligencia en su actuación y responderán de los daños y perjuicios que causen a sus poderdantes y representados. El mandatario o el representante común podrán actuar por medio de apoderado o mandatario y autorizar personas para oír notificaciones en los términos de este ordenamiento.
+La persona representante común que designe la CAME tendrá las mismas facultades que si promoviera exclusivamente por su propio derecho, excepto las de desistirse y transigir, salvo que las personas interesadas lo autorizaren expresamente en el compromiso arbitral.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+Cuando las partes actúen unidas, la persona mandataria nombrada, o en su caso la persona representante común, sea designada por las personas interesadas o por la CAME, será la única que pueda representar a las que hayan ejercido la misma acción u opuesto la misma excepción, con exclusión de las demás personas.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
+La persona representante común o la persona mandataria designada por quienes actúen unidas, son inmediata y directamente responsables por negligencia en su actuación y responderán de los daños y perjuicios que causen a sus personas poderdantes y representadas. La persona mandataria o la persona representante común podrán actuar por medio de apoderada o mandataria y autorizar personas para oír notificaciones en los términos de este ordenamiento.
 
 ###### ARTÍCULO 55.
 
@@ -781,9 +809,11 @@ VI.- Tanto la audiencia de conciliación como la de pruebas y alegatos deberán 
 
 ### CAPÍTULO XI. DE LA CLÁUSULA COMPROMISORIA Y EL COMPROMISO ARBITRAL
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 60.
 
-Las partes podrán otorgar su compromiso arbitral ante la CAME antes de que haya juicio civil, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre. El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados la conocieren. En caso de existir algún juicio en trámite, las partes necesariamente deberán renunciar a la instancia previa, de otra forma la CAME no podrá intervenir en calidad de árbitro.
+Las partes podrán otorgar su compromiso arbitral ante la CAME antes de que haya juicio civil, durante éste y después de sentenciado, sea cual fuere el estado en que se encuentre. El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si las personas interesadas la conocieren. En caso de existir algún juicio en trámite, las partes necesariamente deberán renunciar a la instancia previa, de otra forma la CAME no podrá intervenir en calidad de árbitro.
 
 ###### ARTÍCULO 61.
 
@@ -831,7 +861,9 @@ III.- En la ponderación del caso se evaluará la procedencia de las apreciacion
 
 IV.- La CAME determinará, a título de pruebas para mejor proveer, el desahogo de los peritajes que estime pertinentes;
 
-V.- Cuando se requiera el examen del paciente por los peritos que hayan de intervenir, la CAME determinará las medidas necesarias para preservar el respeto al paciente. En este supuesto el paciente deberá, según su estado de salud lo permita, cooperar para su examen. La oposición injustificada al reconocimiento médico por parte de la CAME o de los peritos, hará tener por ciertas las manifestaciones de la contraria;
+> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2024)</small>
+
+V.- Cuando se requiera el examen del paciente por las y los peritos que hayan de intervenir, la CAME determinará las medidas necesarias para preservar el respeto al paciente. En este supuesto el paciente deberá, según su estado de salud lo permita, cooperar para su examen. La oposición injustificada al reconocimiento médico por parte de la CAME o de las y los peritos, hará tener por ciertas las manifestaciones de la contraria;
 
 VI.- Las pruebas aportadas, especialmente las periciales, la documentación médica y médico legal en que conste la atención brindada, serán valoradas bajo las reglas de la sana crítica, y en apego a las leyes que la rijan;
 
@@ -839,13 +871,11 @@ VII.- Se realizará, cuando sea necesaria la resolución de una cuestión juríd
 
 VIII.- Si durante el transcurso del juicio y hasta antes de que se cierre la instrucción, cualquiera de las partes llegare a contar con alguna prueba superveniente, deberán acreditar su existencia y naturaleza; y una vez acreditada, podrán solicitar la admisión de la probanza.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 64.
 
-El Secretario Técnico acordará la recepción del expediente, dentro de los dos días siguientes a la fecha en que lo reciba y dará vista a las partes por diez días naturales, para que en ese término:
+La persona Secretaria Técnica acordará la recepción del expediente, dentro de los dos días siguientes a la fecha en que lo reciba y dará vista a las partes por diez días naturales, para que en ese término:
 
 I.- Ofrezcan sus pruebas;
 
@@ -853,15 +883,15 @@ II.- Presenten las apreciaciones escritas que estimen necesarias, a reserva de a
 
 III.- Exhiban los documentos que obren en su poder.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+Transcurrida la visita, la persona Secretaria Técnica resolverá sobre la admisión o desechamiento de las probanzas y fijar las medidas necesarias para la preparación de la audiencia de pruebas y alegatos, misma que se celebrará dentro de los quince días siguientes a la fecha en que ésta fue fijada.
 
-Transcurrida la visita, el Secretario Técnico resolverá sobre la admisión o desechamiento de las probanzas y fijar las medidas necesarias para la preparación de la audiencia de pruebas y alegatos, misma que se celebrará dentro de los quince días siguientes a la fecha en que ésta fue fijada.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 65.
 
-La CAME determinará, a título de pruebas para mejor proveer, las que considere pertinentes, teniendo libertad para solicitar a las partes la información que estime necesaria e interrogar tanto a las partes como a los peritos que, en su caso, sean ofrecidos.
+La CAME determinará, a título de pruebas para mejor proveer, las que considere pertinentes, teniendo libertad para solicitar a las partes la información que estime necesaria e interrogar tanto a las partes como a las y los peritos que, en su caso, sean ofrecidos.
 
 La CAME, tomará en cuenta como pruebas todas las actuaciones y los documentos, incluidos fotografías y cintas cinematográficas aportadas oportunamente aunque no se ofrezcan, con excepción de los rechazados expresamente.
 
@@ -869,11 +899,13 @@ La CAME, tomará en cuenta como pruebas todas las actuaciones y los documentos, 
 
 Cuando las partes no puedan obtener directamente documentos que hayan ofrecido como pruebas, podrán pedir a la CAME que los solicite a las personas u organismos que los tengan en su poder, quedando a cargo de las partes gestionar el envío de los mismos a la CAME para que obren en el expediente el día de la audiencia de pruebas y alegatos.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 67.
 
-Al ofrecer la prueba pericial, las partes deberán exhibir los interrogatorios que en su caso deban responder los peritos y precisar los puntos respecto de los cuales versará el peritaje.
+Al ofrecer la prueba pericial, las partes deberán exhibir los interrogatorios que en su caso deban responder las y los peritos y precisar los puntos respecto de los cuales versará el peritaje.
 
-Dada la naturaleza especializada de la CAME, en caso de que los dictámenes rendidos por los peritos de las partes sean total o parcialmente contradictorios, se convocará a una junta al Comité Consultivo de Peritos de la Comisión, a fin de dictaminar en definitiva, siendo improcedente la petición de designar un tercero en discordia ajeno a la CAME.
+Dada la naturaleza especializada de la CAME, en caso de que los dictámenes rendidos por las y los peritos de las partes sean total o parcialmente contradictorios, se convocará a una junta al Comité Consultivo de Peritaje de la Comisión, a fin de dictaminar en definitiva, siendo improcedente la petición de designar un tercero en discordia ajeno a la CAME.
 
 ###### ARTÍCULO 68.
 
@@ -891,9 +923,11 @@ Los peritajes de parte podrán ser presentados durante la audiencia, debiendo ac
 
 La presentación de los peritajes de parte y los testigos designados, será a cargo de quien los hubiere propuesto. En la audiencia de pruebas y alegatos sólo podrán intervenir los peritos que asistan; de igual forma, cuando se admita la prueba, testimonial, sólo serán examinados los testigos que sean presentados por las partes.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 72.
 
-Las partes podrán acordar la no presentación de peritajes de parte, en cuyo supuesto podrán formular por escrito, las preguntas que estimen convenientes a la CAME, en su carácter de perito especializado, las que serán atendidas en el dictamen que al efecto emita para desahogar la prueba pericial.
+Las partes podrán acordar la no presentación de peritajes de parte, en cuyo supuesto podrán formular por escrito, las preguntas que estimen convenientes a la CAME, en su carácter de peritaje especializado, las que serán atendidas en el dictamen que al efecto emita para desahogar la prueba pericial.
 
 ###### ARTÍCULO 73.
 
@@ -917,23 +951,19 @@ VI.- Concluido el desahogo de las pruebas, se procederá a recibir los alegatos 
 
 VII.- Hecho lo anterior, la CAME determinará cerrada la instrucción citando a las partes para laudo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 75.
 
-Concluida la audiencia de pruebas y alegatos, el Secretario Técnico remitirá el expediente debidamente integrado al Comité Consultivo de Peritos dentro de los tres días siguientes a la celebración de dicha audiencia, a efecto de que éste emita el dictamen respectivo.
+Concluida la audiencia de pruebas y alegatos, la persona Secretaria Técnica remitirá el expediente debidamente integrado al Comité Consultivo de Peritaje dentro de los tres días siguientes a la celebración de dicha audiencia, a efecto de que éste emita el dictamen respectivo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
 ###### ARTÍCULO 76.
 
-El Comité Consultivo de Peritos acordará la recepción del expediente dentro de los dos días siguientes a aquel en que lo recibió, notificando dicha circunstancia al Secretario Técnico mediante simple oficio.
+El Comité Consultivo de Peritaje acordará la recepción del expediente dentro de los dos días siguientes a aquel en que lo recibió, notificando dicha circunstancia a la persona Secretaria Técnica mediante simple oficio.
 
-A más tardar en un plazo de diez días siguientes a aquel en que haya acordado su recepción, el Comité Consultivo de Peritos deberá rendir el Dictamen correspondiente. Dicho plazo podrá prorrogarse previa autorización del Secretario Técnico.
+A más tardar en un plazo de diez días siguientes a aquel en que haya acordado su recepción, el Comité Consultivo de Peritaje deberá rendir el Dictamen correspondiente. Dicho plazo podrá prorrogarse previa autorización de la persona Secretaria Técnica.
 
 ### CAPÍTULO XIII. DE LAS RESOLUCIONES DE LA COMISIÓN
 
@@ -947,15 +977,13 @@ II.- Determinaciones provisionales o definitivas que no resuelvan el fondo de la
 
 III.- Determinaciones que resuelven el fondo del asunto y que siempre tendrán el carácter de definitivos, que se llamarán Laudos.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 78.
 
-Con base en la opinión técnica o dictamen del Comité Consultivo de Peritos, así como en las demás constancias que obren en el expediente respectivo, el Consejo dictará el laudo que resuelva en definitiva el juicio arbitral.
+Con base en la opinión técnica o dictamen del Comité Consultivo de Peritaje, así como en las demás constancias que obren en el expediente respectivo, el Consejo dictará el laudo que resuelva en definitiva el juicio arbitral.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2012)</small>
-
-El laudo a que se refiere el párrafo anterior, deberá ser firmado por los integrantes del Consejo de la CAME que hubieren asistido a la sesión en la que fue analizado el asunto, de manera conjunta con el Secretario de dicho órgano.
+El laudo a que se refiere el párrafo anterior, deberá ser firmado por los integrantes del Consejo de la CAME que hubieren asistido a la sesión en la que fue analizado el asunto, de manera conjunta con la persona Secretaria de dicho órgano.
 
 ###### ARTÍCULO 79.
 
@@ -999,9 +1027,11 @@ Los laudos deben dictarse dentro de los veinte días siguientes a aquel en que s
 
 ### CAPÍTULO XIV. DEL ÓRGANO DE VIGILANCIA
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 84.
 
-La CAME contará con un órgano de vigilancia que se denominará Comisaría, integrado por un Comisario Público propietario y un suplente, que serán nombrados y removidos libremente por el Director de Control y Evaluación Gubernamental del Estado.
+La CAME contará con un órgano de vigilancia que se denominará Comisaría, integrado por una persona Comisaria Pública propietaria y una suplente, que serán nombradas y removidas libremente por la persona titular de la Secretaría de la Honestidad y la Función Pública del Estado.
 
 ###### ARTÍCULO 85.
 
@@ -1009,9 +1039,11 @@ La Comisaría de una Junta Directiva, ejercerá las funciones que expresamente l
 
 ### CAPÍTULO XV. DE LA EXTINCIÓN O FUSIÓN DE LA CAME
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
+
 ###### ARTÍCULO 86.
 
-Cuando la CAME deje de cumplir con el objeto para la que fue creada o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas a propuesta y previa opinión de la Secretaría de Salud propondrá al Ejecutivo Estatal la disolución, liquidación o extinción de este organismo. Asimismo, podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
+Cuando la CAME deje de cumplir con el objeto para la que fue creada o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Hacienda a propuesta y previa opinión de la Secretaría de Salud propondrá al Poder Ejecutivo del Estado la disolución, liquidación o extinción de este organismo. Asimismo, podrá proponer su fusión, cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 T R A N S I T O R I O S
 
@@ -1094,3 +1126,9 @@ P.O. 18 DE ENERO DE 2013
 P.O. 25 DE OCTUBRE DE 2013.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 28 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 439 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 29, 33, 34, 36, 39, 42, 50, 51, 52, 54, 60, 63, 64, 65, 67, 72, 75, 76, 78, 84 Y 86 DE LA LEY DE LA COMISIÓN DE ARBITRAJE MÉDICO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.– El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
