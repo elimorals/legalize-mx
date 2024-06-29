@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2024-06-19"
+last_updated: "2024-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2024.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -2271,7 +2271,13 @@ I.- Cuando el que la ejerza es condenado expresamente a la pérdida de este dere
 
 II.- En los casos de divorcio cuando así lo disponga la ley;
 
-III.- Cuando por las costumbres depravadas de los padres, maltrato infantil, exposición o abandono de sus deberes, pudiera comprometerse la salud la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la Ley Penal;
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2024)</small>
+
+III.- Cuando por las costumbres depravadas de quienes ejercen la patria potestad, maltrato infantil, exposición o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la integridad de niñas, niños y adolescentes sobre las que se ejerce, aun cuando esos hechos no cayeren bajo la sanción de la Ley Penal.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2024)</small>
+
+La pérdida de la patria potestad, procederá cuando la medida resulte necesaria, idónea y razonable para brindar la protección más amplia, atendiendo al interés superior de la niñez.
 
 IV.- Cuando quien la ejerza deje expósito al menor por un plazo de más de 30 días naturales;
 
@@ -2286,6 +2292,10 @@ VII. Cuando quien la ejerza haya entregado voluntariamente a su hija o hijo en a
 > <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 2010)</small>
 
 VIII.- Cuando la persona menor de edad estuviese en un establecimiento asistencial y quienes la ejerzan se hubieran desentendido totalmente de la misma durante un año o cuando el desamparo moral o material resulte evidente, manifiesto y continuo.
+
+> <small>(ADICIONADA, P.O. 29 DE JUNIO DE 2024)</small>
+
+IX.- Cuando a quien la ejerza, se le haya impuesto condena ejecutoriada por el delito de feminicidio en cualquier grado, en contra de la madre de sus hijas e hijos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2020)</small>
 
@@ -13408,6 +13418,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 19 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFLYC/0843/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0838/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL, AMBOS DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
