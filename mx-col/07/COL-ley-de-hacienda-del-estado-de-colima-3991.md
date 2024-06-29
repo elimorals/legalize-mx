@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2024-02-03"
+last_updated: "2024-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -415,6 +415,10 @@ III.- La prestación de servicios de paraderos de casas rodantes, móviles o aut
 
 IV.- El alojamiento o albergue temporal de personas en bungalows, hostales, villas, casas y departamentos amueblados.
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2024)</small>
+
+Cuando en la prestación del servicio de hospedaje intervenga una persona física o moral en su carácter de intermediario, promotor o facilitador, incluyendo plataformas digitales, ésta deberá retener y enterar el pago del impuesto correspondiente a la autoridad fiscal.
+
 > <small>(REFORMADO, P.O. 24 DE MARZO DE 2018)</small>
 
 Artículo 41 A BIS.- Están obligados al pago de este impuesto, las personas físicas y las morales que presten los servicios a que se refiere el artículo anterior.
@@ -431,9 +435,9 @@ Tratándose de servicios de hospedaje prestados bajo la modalidad de uso en tiem
 
 Artículo 41 C.- Este impuesto se determinará aplicando a la base señalada en el artículo anterior, la tasa que corresponda a cada uno de los supuestos siguientes:
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 29 DE JUNIO DE 2024)</small>
 
-I.- Por el servicio de hospedaje en hoteles, paraderos de casas rodantes, servicios de campamento, bungalows, hostales, villas, casas amuebladas y departamentos amueblados, la tasa del 3%; y
+I.- Por el servicio de hospedaje en hoteles, paraderos de casas rodantes, servicios de campamento, bungalows, hostales, villas, casas amuebladas y departamentos amueblados, incluyendo los servicios prestados a través de plataformas digitales, la tasa del 3%; y
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2011)</small>
 
@@ -461,13 +465,17 @@ De no efectuar el desglose del monto correspondiente al hospedaje, los contribuy
 
 Artículo 41 E.- Para los efectos de este impuesto, se entiende que el servicio de hospedaje se presta en el Estado de Colima, cuando el bien inmueble a través del cual se presta el mismo, se encuentre ubicado dentro del territorio de dicho Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2024)</small>
 
-Artículo 41 E BIS.- Los intermediarios, promotores o facilitadores en la prestación del servicio de hospedaje, que cobren a nombre de los contribuyentes la contraprestación que paguen las personas que reciban los servicios señalados en el artículo 41 A, de esta Ley, deberán retener a estos últimos el impuesto por la prestación del servicio de hospedaje, debiendo enterarlo mediante declaración definitiva a más tardar el día 17 del mes siguiente a aquél en que se realice la retención, haciendo uso de las formas oficiales aprobadas para tal efecto, a través de las Receptorías de Rentas de la Secretaría de Planeación, Finanzas y Administración, de las instituciones de crédito, de los establecimientos autorizados, o a través de los medios electrónicos, utilizando para tal efecto la página de internet de dicha Secretaría.
+Artículo 41 E BIS.- Cuando los servicios de hospedaje señalados en el artículo 41 A de esta Ley, se ofrezcan a través de un intermediario, promotor o facilitador, incluyendo plataformas digitales, éstos deberán retener el impuesto por la prestación del servicio de hospedaje, debiendo enterarlos mediante declaración definitiva a más tardar el día 17 del mes siguiente a aquél en que se considere recibida la contraprestación, en los términos de las reglas de carácter general que al efecto emita la Secretaría de Planeación, Finanzas y Administración.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE MARZO DE 2018)</small>
 
 En caso de que dichos intermediarios, promotores o facilitadores no cumplan con la obligación de enterar el impuesto por la prestación del servicio de hospedaje retenido, los contribuyentes deberán realizar el pago hasta por el monto del impuesto no enterado.
+
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2024)</small>
+
+Asimismo, dichos intermediarios, promotores o facilitadores, deberán solicitar su inscripción en dicho carácter en el Registro Estatal de Contribuyentes en términos de las reglas de carácter general que al efecto emita la Secretaría de Planeación, Finanzas y Administración.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 1996)</small>
 
@@ -2959,6 +2967,24 @@ indefinido 2.000
 
 IV.- Expedición de credencial de identificación con vigencia por Tres años 1.000
 
+> <small>(ADICIONADO, P.O. 29 DE JUNIO DE 2024)</small>
+
+Artículo 56 BIS.- Por los servicios prestados en materia turística, se pagarán los derechos que se establecen en el presente artículo.
+
+1.- Por los servicios prestados por la Subsecretaría de Turismo, dependiente de la Secretaría de Desarrollo Económico, se pagarán los derechos siguientes:
+
+I.- Por el acceso y uso de las instalaciones del Parque Regional Metropolitano “GRISELDA ÁLVAREZ”:
+
+a) Alberca, por adulto con derecho a tobogán 0.507
+
+b) Alberca, por niño con derecho a tobogán 0.277
+
+c) Alberca, adultos mayores con derecho a tobogán 0.277
+
+d) Alberca, personas con discapacidad con
+
+derecho a tobogán 0.277
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 ### CAPITULO VII. Servicios Prestados por la Secretaría de Salud
@@ -4409,9 +4435,7 @@ y operativa, de establecimientos de servicios de salud. 45.000
 
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2013)</small>
 
-###### Artículo 62 Bis 3.
-
-Por los servicios prestados en el Instituto para el Medio Ambiente y Desarrollo Sustentable, se pagarán los derechos siguientes:
+Artículo 62 BIS 3.- Por los servicios prestados en el Instituto para el Medio Ambiente y Desarrollo Sustentable, se pagarán los derechos siguientes:
 
 > <small>(REFORMADA [N. DE E. EN SU RUBRO], P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -4615,19 +4639,7 @@ administrativos:
 
 SIGUIENTE A LA PRIMERA 0.080
 
-XIV.- Por el acceso y uso de las instalaciones del Parque Regional Metropolitano "GRISELDA ALVAREZ":
-
-1.- Alberca, por niño con derecho a tobogán 0.200
-
-2.- Alberca, por adulto con derecho a tobogán 0.250
-
-3.- Ingreso por niño a zona de bosque 0.063
-
-4.- Ingreso por adulto a zona de bosque 0.095
-
-5.- Por uso de espacio en bosque o
-
-albercas para fiesta infantil 5.250
+XIV.- (DEROGADA, P.O. 29 DE JUNIO DE 2024)
 
 XV.- Por la recepción y evaluación de la solicitud y otorgamiento
 
@@ -7358,3 +7370,11 @@ P.O. 3 DE FEBRERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 29 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 468.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 41 C FRACCIÓN I Y 41 E BIS PRIMER PÁRRAFO; ADEMÁS, SE ADICIONAN EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 41 A; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 41 E BIS; Y EL ARTÍCULO 56 BIS Y, SE DEROGA LA FRACCIÓN XIV DEL ARTÍCULO 62 BIS 3, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
