@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2024-05-15"
+last_updated: "2024-06-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2024.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -933,7 +933,7 @@ Fijación de la pena en delito consumado
 
 Cuando la ley establece una pena se entiende que la impone a los autores o partícipes del delito consumado.
 
-[N. DE E. DEL ANÁLISIS AL DECRETO 1130/2015 I P.O., PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2016, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 67 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DEL 29 DE NOVIEMBRE DE 2014. SE SUGIERE CONSULTAR LA PÁGINA 783 DEL MENCIONADO DECRETO, QUE A LA LETRA DICE: “Artículo 67. Criterios de individualización
+[N. DE E. DEL ANÁLISIS AL DECRETO 1130/2015 I P.O., PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2016, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 67 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DEL 29 DE NOVIEMBRE DE 2014. SE SUGIERE CONSULTAR LA PÁGINA 783 DEL MENCIONADO DECRETO, QUE A LA LETRA DICE: "Artículo 67. Criterios de individualización
 
 La autoridad judicial, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, en proporción a la gravedad del ilícito, al grado de culpabilidad del agente, y al bien jurídico afectado, tomando en cuenta:
 
@@ -941,7 +941,7 @@ I. a IV. ...
 
 V. Los usos, costumbres y sistema normativo interno, cuando el procesado sea miembro de un pueblo o comunidad indígena;
 
-VI. a X. ...”]
+VI. a X. ..."]
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -2519,9 +2519,9 @@ Si en la comisión de los delitos previstos en este Título el sujeto se valiese
 
 ###### Artículo 188.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2024)</small>
 
-A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de seis meses a cuatro años de prisión y de cincuenta a cuatrocientos días multa. En todos los casos, se condenará al pago como reparación del daño de las cantidades no suministradas oportunamente y se podrá decretar suspensión hasta por un año de los derechos de familia.
+A quien incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de uno a cuatro años de prisión y de cincuenta a cuatrocientos días multa. En todos los casos, se condenará al pago como reparación del daño de las cantidades no suministradas oportunamente y se podrá decretar suspensión hasta por un año de los derechos de familia.
 
 Para los efectos de éste Artículo, se tendrá por consumado el delito aun cuando el o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
 
@@ -2631,7 +2631,9 @@ II. Contraiga matrimonio con una persona casada, si conocía el impedimento al t
 
 ###### Artículo 197.
 
-Se impondrá de seis meses a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientos días a quien, por razón de edad, sexo, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2024)</small>
+
+Se impondrá de seis meses a tres años de prisión o de veinticinco a cien días de trabajo en favor de la comunidad y multa de cincuenta a doscientos días a quien, por razón de edad, sexo, estado civil, embarazo, raza, procedencia étnica, idioma, religión, ideología, orientación sexual, color de piel, nacionalidad, origen o posición social, trabajo o profesión, posición económica, características físicas, discapacidad o estado de salud o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas, mediante la realización de cualquiera de las siguientes conductas:
 
 I. Provoque o incite al odio o a la violencia;
 
@@ -5922,6 +5924,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 15 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLYC/0844/2024 II P.O., MEDIANTE EL CUAL SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA, DE LA LEY ESTATAL DEL DERECHO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE JUNIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0838/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL, AMBOS DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
