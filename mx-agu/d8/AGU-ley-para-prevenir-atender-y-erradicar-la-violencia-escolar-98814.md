@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-9881
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-17"
-last_updated: "2024-01-22"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de febrero de 2014.
 
@@ -253,7 +253,9 @@ VIII. El Consejo.
 
 A fin de combatir los fenómenos de violencia escolar, el Instituto deberá:
 
-I. Promover la generación de contenidos en los medios de comunicación que fomenten la reflexión colectiva sobre el fenómeno de la violencia en la convivencia escolar y estimulen a los estudiantes, padres de familia o tutores y trabajadores de la educación, de todos los ámbitos a identificar los actos de violencia en las instituciones educativas y lo denuncien;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+I. Promover la generación de contenidos en los medios de comunicación que fomenten la reflexión colectiva sobre el fenómeno de la violencia en la convivencia escolar y estimulen a los estudiantes, padres y madres de familia, tutores, a quien ejerza la patria potestad y a trabajadores de la educación, de todos los ámbitos, a identificar los actos de violencia en las instituciones educativas y lo denuncien;
 
 II. Adoptar y difundir planes y programas de sensibilización y capacitación de profesores para la identificación, prevención, seguimiento y resolución de conflictos de violencia escolar;
 
@@ -303,11 +305,11 @@ V. Cualquier otra forma que permita sensibilizar a los que intervienen en los pr
 
 Cuando las actividades mencionadas en el Artículo anterior se realicen para favorecer a menores que no dominan el idioma español, se les deberá proporcionar todos los medios posibles para hacer entendible la acción emprendida en su favor para una adecuada atención.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 11.
 
-El ISSEA trabajará en coordinación con el Instituto estableciendo programas para detectar los casos o las actitudes generadoras de violencia escolar y para atender a los padres, tutores o quien ejerza la patria potestad, así como a las niñas, niños o adolescentes que presenten conductas de violencia, depresión, tendencias de auto privación de la vida o porten objetos que puedan causar alteración en la salud de algún estudiante, docente o personal administrativo del plantel, con la finalidad de recibir el tratamiento y la atención necesaria para atender los detonantes de violencia.
+El ISSEA trabajará en coordinación con el Instituto estableciendo programas para detectar los casos o las actitudes generadoras de violencia escolar y para atender a los padres, madres, tutores o quienes ejerzan la patria potestad, así como a las niñas, niños o adolescentes que presenten conductas de violencia, depresión, tendencias de auto privación de la vida o porten objetos que puedan causar alteración en la salud de algún estudiante, docente o personal administrativo del plantel, con la finalidad de recibir el tratamiento y la atención necesaria para atender los detonantes de violencia.
 
 ### CAPÍTULO IV. Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes
 
@@ -495,7 +497,9 @@ I. Estudiantes de todos los ámbitos educativos;
 
 II. Los trabajadores de la educación en el Estado; y
 
-III. Padres de familia y tutores.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+III. Padres, madres de familia, tutores y a quienes ejerzan la patria potestad.
 
 ###### ARTÍCULO 23.
 
@@ -531,7 +535,9 @@ XIII. Mencionar las sanciones a actos de violencia escolar de conformidad a su g
 
 XIV. Establecer el procedimiento para canalizar al receptor y al generador de violencia escolar a tratamientos psicológicos y asesorías especializadas;
 
-XV. Señalar el procedimiento para informar de manera periódica y constante a los padres de familia o tutor legal, tanto del receptor como del generador, del tratamiento y seguimiento para evitar la reincidencia de la violencia escolar;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+XV. Señalar el procedimiento para informar de manera periódica y constante a los padres y madres de familia, tutor o a quien ejerza la patria potestad, tanto del receptor como del generador, del tratamiento y seguimiento para evitar la reincidencia de la violencia escolar;
 
 XVI. Establecer el procedimiento para documentar cualquier incidente de violencia escolar, mismo que será entregado al Secretario Técnico del Consejo para que sean incluidos en el informe trimestral que se le presentará al Consejo;
 
@@ -561,7 +567,9 @@ Deberán ser recibidas y enviadas al mismo, por la autoridad escolar correspondi
 
 Si por alguna circunstancia el denunciante no puede entregarla por escrito, la realizará de manera verbal, donde la autoridad estará obligada a documentarla para entregarla al Consejo.
 
-En caso de menores de edad que presenten denuncias o relación de hechos, éstos contarán de ser posible con apoyo psicológico y pedagógico. La autoridad escolar cuidará que los hechos denunciados tengan verosimilitud. Podrá contarse con la asistencia de los padres o tutores.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
+En caso de menores de edad que presenten denuncias o relación de hechos, éstos contarán de ser posible con apoyo psicológico y pedagógico. La autoridad escolar cuidará que los hechos denunciados tengan verosimilitud. Podrá contarse con la asistencia de los padres, madres, tutores o quienes ejerzan la patria potestad.
 
 ###### ARTÍCULO 27.
 
@@ -601,7 +609,9 @@ El responsable referido en los Artículos 27 y 30 de la presente Ley, tendrá la
 
 I. Verificar los avances en el tratamiento;
 
-II. Coordinar las tareas de psicólogos, pedagogos, docentes, administrativos, padres de familia o tutores, y en general de las personas que aporten solución al problema de violencia escolar concreto;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+II. Coordinar las tareas de psicólogos, pedagogos, docentes, administrativos, padres, madres de familia, tutores o quienes ejerzan la patria potestad, y en general de las personas que aporten solución al problema de violencia escolar concreto;
 
 > <small>(REFORMADA, P.O. 25 DE MAYO DE 2015)</small>
 
@@ -649,13 +659,17 @@ IV. Establecer medidas para lograr condiciones libres de violencia escolar; y
 
 V. Imponer las medidas correspondientes atendiendo a la legislación y siendo respetuosos de los derechos humanos.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 36.
 
-Las autoridades responsables, los padres de familia, tutores y todos los trabajadores de la educación, procurarán implementar las medidas necesarias para establecer condiciones libres de violencia escolar.
+Las autoridades responsables, los padres y madres de familia, tutores y quienes ejerzan la patria potestad, así como todos los trabajadores de la educación, procurarán implementar las medidas necesarias para establecer condiciones libres de violencia escolar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 37.
 
-Cuando se presenten casos de violencia escolar las autoridades procurarán conciliar a los involucrados con el fin de restablecer las condiciones libres de violencia escolar. Esta conciliación será privada, y podrá hacerse en presencia de los padres, tutores y trabajadores de la educación involucrados.
+Cuando se presenten casos de violencia escolar las autoridades procurarán conciliar a los involucrados con el fin de restablecer las condiciones libres de violencia escolar. Esta conciliación será privada, y podrá hacerse en presencia de los padres, las madres, tutores, quienes ejerzan la patria potestad y trabajadores de la educación involucrados.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2019)</small>
 
@@ -679,7 +693,9 @@ La imposición de medidas terapéuticas de carácter psicológico, pedagógico, 
 
 Las autoridades educativas podrán implementar medidas que involucren la intervención de autoridades médicas o psicológicas, y de ser necesario autoridades competentes en materia de seguridad y salubridad.
 
-Cuando se presenten casos de reincidencia, o bien, que las condiciones que generaron las circunstancias de violencia escolar no sean modificadas, las autoridades escolares podrán pedir la intervención del Consejo a fin de que éste determine medidas adecuadas, tomando en cuenta la participación de quienes ejerzan la patria potestad sobre los generadores.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
+Cuando se presenten casos de reincidencia, o bien, que las condiciones que generaron las circunstancias de violencia escolar no sean modificadas, las autoridades escolares podrán pedir la intervención del Consejo a fin de que éste determine medidas adecuadas, tomando en cuenta la participación de la madre, el padre, tutor o quienes ejerzan la patria potestad sobre los generadores.
 
 > <small>(REFORMADO, P.O. 22 DE ENERO DE 2024)</small>
 
@@ -788,3 +804,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, el Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes, deberá adecuar el Reglamento Interior del Consejo Preventivo de la Violencia Escolar en el Estado de Aguascalientes y el Protocolo para Prevenir, Atender, Sancionar y Erradicar el Acoso y el Hostigamiento Sexual en las Instituciones Formadoras y Actualizadoras de Docentes del Instituto de Educación de Aguascalientes, a efecto de dar cumplimiento a lo establecido en el presente Decreto.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 727.- SE REFORMA LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
