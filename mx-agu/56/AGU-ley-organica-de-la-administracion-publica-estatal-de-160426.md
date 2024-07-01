@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2024-01-22"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -1735,7 +1735,9 @@ XVIII. Emitir los lineamientos y coordinar la Entrega-Recepción de las oficinas
 
 XIX. Conocer, investigar y calificar las conductas que cometan los servidores públicos de la Administración Pública Estatal Centralizada y actos de particulares vinculados con faltas administrativas graves, que puedan constituir responsabilidades administrativas en términos de la Ley aplicable, así como substanciar y en su caso resolver y sancionar, en el ámbito de su competencia, los procedimientos de responsabilidad administrativa que deriven de dichas conductas, actos u omisiones.
 
-En el caso de faltas administrativas graves y actos de particulares vinculados con faltas administrativas graves, turnar los expedientes a la Sala Administrativa del Poder Judicial del Estado de Aguascalientes, para continuar con el procedimiento establecido en la Ley de la materia;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
+En el caso de faltas administrativas graves y actos de particulares vinculados con faltas administrativas graves, turnar los expedientes al Tribunal de Justicia Administrativa del Estado de Aguascalientes, para continuar con el procedimiento establecido en la Ley de la materia;
 
 XX. Presentar las denuncias o querellas penales cuando la conducta del servidor público pueda constituir la comisión de algún delito;
 
@@ -2068,3 +2070,11 @@ El presente Decreto entrará en vigor el primero de enero del año dos mil veint
 ###### ARTÍCULO SEGUNDO.
 
 Para efectos de la fracción XXXVII del artículo 28, que se reforma, a más tardar el 31 de marzo de 2024, las Entidades Paraestatales deberán presentar ante la Secretaría de Finanzas la información relativa a los fideicomisos que se encuentren vigentes y que dichas Entidades Paraestatales hubieran constituido con anterioridad a la entrada en vigor de este Decreto.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 724.- SE REFORMA LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
