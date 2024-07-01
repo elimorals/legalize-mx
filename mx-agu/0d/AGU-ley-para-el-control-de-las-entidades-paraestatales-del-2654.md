@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-control-de-las-entidades-paraestatales-del-2654"
 country: "mx"
 rank: "ley"
 publication_date: "1988-03-20"
-last_updated: "2024-05-20"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 20 de marzo de 1988.
 
@@ -45,11 +45,15 @@ LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES
 
 Las disposiciones contenidas en la presente Ley son de orden público e interés social y tienen por objeto regular la organización, funcionamiento y control de las entidades paraestatales de la Administración Pública Estatal.
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+Las relaciones del Ejecutivo Estatal, o de sus dependencias, con las entidades paraestatales, en cuanto unidades auxiliares de la Administración Pública Estatal, se sujetarán, en primer término, a lo establecido en esta Ley y sus disposiciones reglamentarias y, sólo en lo no previsto, a otras disposiciones según la materia que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 2o.
 
-Son entidades paraestatales los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos a que se refiere la Ley Orgánica de la Administración Pública del Estado de Aguascalientes.
+Son entidades paraestatales los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos a que se refiere la Ley Orgánica de la Administración Pública Estatal.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MAYO DE 2018)</small>
 
@@ -61,6 +65,8 @@ I.- Organismos descentralizados:
 
 Las entidades creadas por Ley o Decreto del Congreso del Estado con personalidad jurídica y patrimonio propio, cualquiera que sea la estructura legal que adopten;
 
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
+
 II.- Empresas de participación estatal mayoritaria, aquellas en las que:
 
 a).- El Gobierno Estatal aporte o sea propietario del 51% o más del capital social o de las acciones de la empresa;
@@ -68,6 +74,8 @@ a).- El Gobierno Estatal aporte o sea propietario del 51% o más del capital soc
 b).- En la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno Estatal; y
 
 c).- Al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del Consejo de Administración, Junta Directiva u órgano equivalente o de designar al Presidente, Director o al Gerente, o tenga facultades para vetar los acuerdos de la Asamblea General de Accionistas, del Consejo de Administración o de la Junta Directiva u órgano equivalente.
+
+> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2011)</small>
 
 III.- Fideicomisos públicos:
 
@@ -92,6 +100,14 @@ Las entidades paraestatales gozarán de autonomía de gestión para el cabal cum
 ###### ARTICULO 6o.
 
 La Contraloría del Estado publicará anualmente, durante el primer trimestre del año, en el Periódico Oficial del Estado, la relación de las entidades paraestatales que formen parte de la Administración Pública.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+###### ARTICULO 6o Bis.
+
+La Secretaría de Finanzas tendrá miembros en los órganos de Gobierno y en su caso, en los comités técnicos de las entidades paraestatales.
+
+También participarán otras dependencias y entidades, en la medida en que tenga relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
 
@@ -271,15 +287,11 @@ La Contraloría del Estado intervendrá a fin de señalar la forma y términos e
 
 ### CAPITULO IV. De los Fideicomisos Públicos
 
-> <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 23.
 
-Los fideicomisos públicos que se establezcan en los términos del artículo 2 de la presente Ley, que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, que tengan como propósito auxiliar al Ejecutivo mediante la realización de actividades prioritarias y se encuentren coordinados por las Dependencias del Ejecutivo según lo acuerde el Gobernador del Estado, serán los que se consideren entidades paraestatales conforme a lo dispuesto en la Ley Orgánica de la Administración Pública del Estado y quedarán sujetos a las disposiciones de esta Ley
-
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
-
-El Ejecutivo Estatal a través de la Contraloría del Estado, cuidará que en los contratos queden debidamente precisados los derechos y acciones que corresponda ejercitar al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al Comité Técnico, y contará con un Director General designado por el Gobernador del Estado, quien actuará como delegado fiduciario especial de la Institución fiduciaria.
+Los fideicomisos públicos que se establezcan en los términos del artículo 2° de la presente Ley, que se organicen de manera análoga a los organismos descentralizados o empresas de participación estatal mayoritaria, que tengan como propósito auxiliar al Ejecutivo mediante la realización de actividades prioritarias y se encuentren coordinados por las Dependencias del Ejecutivo según lo acuerde el Gobernador del Estado, serán los que se consideren entidades paraestatales conforme a lo dispuesto en la Ley Orgánica de la Administración Pública Estatal y quedarán sujetos a las disposiciones de esta Ley.
 
 > <small>(REFORMADO, P.O. 17 DE OCTUBRE DE 2011)</small>
 
@@ -291,9 +303,11 @@ En los contratos de fideicomiso público deberán precisarse, si las hubiere, la
 
 La institución fiduciaria y el Director General del fideicomiso público, deberán abstenerse de cumplir las resoluciones que el Comité Técnico dicte en exceso de las facultades expresamente fijadas por el fideicomitente, o en violación a las cláusulas del contrato de fideicomiso público, debiendo responder de los daños y perjuicios que se causen, en caso de ejecutar actos en acatamiento de acuerdos dictados en exceso de dichas facultades o en violación al citado contrato.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 25.
 
-En los contratos constitutivos de fideicomisos del Poder Ejecutivo, se deberá reservar el Estado la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios, o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley.
+En los contratos constitutivos de fideicomisos del Poder Ejecutivo, este se deberá reservar la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley o que la naturaleza de sus fines no lo permita.
 
 ### CAPITULO V. Inscripción de Entidades Paraestatales
 
@@ -321,7 +335,13 @@ V.- Los nombramientos y sustituciones del Director General y en su caso de los f
 
 VI.- Los poderes generales y sus revocaciones,
 
-VII.- Los demás documentos y actos que determine este ordenamiento o el Organo de Gobierno de la entidad.
+> <small>(REFORMADA [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2024)</small>
+
+VII.- El acuerdo de la Secretaría de Finanzas y de la Contraloría del Estado, o de la dependencia coordinadora del sector que señale las bases de la fusión, extinción o liquidación, de conformidad con las leyes o decretos que ordenen las mismas, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN VII], P.O. 1 DE JULIO DE 2024)</small>
+
+VIII.- Los demás documentos y actos que determinen este ordenamiento o el Órgano de Gobierno de la Entidad.
 
 ###### ARTICULO 28.
 
@@ -345,15 +365,21 @@ III.- Los efectos que causen sus actividades en el ámbito sectorial, así como 
 
 IV.- Los rasgos más destacados de su organización para la producción o distribución de los bienes y prestación de servicios que ofrece.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 31.
 
-Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación del Desarrollo Estatal y Regional del Estado de Aguascalientes, al Plan Sexenal de Gobierno del Estado, a los programas sectoriales que se deriven del mismo y a las asignaciones de gasto y financiamiento autorizadas en la Ley de Ingresos y en el Presupuesto de Egresos del Estado del ejercicio fiscal de que se trate. Dentro de tales directrices las entidades paraestatales formularán sus programas institucionales a corto, mediano y largo plazo.
+Las entidades paraestatales, para su desarrollo y operación, deberán sujetarse a la Ley de Planeación para el Desarrollo del Estado de Aguascalientes, al Plan Sexenal de Gobierno del Estado, a los programas sectoriales que se deriven del mismo y a las asignaciones de gasto y financiamiento autorizadas en la Ley de Ingresos y en el Presupuesto de Egresos del Estado del ejercicio fiscal de que se trate. Dentro de tales directrices las entidades paraestatales formularán sus programas institucionales a corto, mediano y largo plazo.
 
 ###### ARTICULO 32.
 
 El programa institucional constituye la asunción de compromisos en términos de metas y resultados que debe alcanzar la entidad paraestatal. La programación institucional de la entidad en consecuencia deberá contener la fijación de objetivos y metas, los resultados económicos y financieros esperados, así como las bases para evaluar las acciones que lleve a cabo; la definición de estrategias y prioridades; la previsión y organización de recursos para alcanzarlas; la expresión de programas para la coordinación de sus tareas, así como las previsiones respecto a las posibles modificaciones a sus estructuras.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+###### ARTICULO 32 Bis.
+
+El programa institucional de la entidad paraestatal se elaborará en los términos y condiciones previstas en la Ley de Planeación para el Desarrollo del Estado de Aguascalientes y se revisará anualmente para introducir las modificaciones que las circunstancias le impongan.
 
 ###### ARTICULO 33.
 
@@ -379,11 +405,11 @@ Por lo que toca a la percepción de subsidios y transferencias, los recibirá de
 
 Los programas financieros de la entidad paraestatal deberán formularse conforme a los lineamientos generales que se establezca en la Ley de Ingresos del Estado en la que deberán expresar los fondos propios, aportaciones de capital, contratación de créditos con sociedades nacionales de crédito o con cualquier otro intermediario financiero, así como el apoyo que pueda obtenerse de los proveedores de insumos y servicios de suministradores de los bienes de producción. El programa contendrá los criterios conforme a los cuales deba ejecutarse el mismo en cuanto a montos, costos, plazos, garantías y avales que en su caso condicionen el apoyo.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2002)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 37.
 
-El Director de la entidad paraestatal someterá el programa financiero a la Secretaría de Finanzas del Estado para que sea incluido en el proyecto de Ley de Ingresos del Gobierno del Estado.
+El Director de la entidad paraestatal someterá el programa financiero al órgano de Gobierno correspondiente, una vez aprobado, lo remitirá a la Secretaría de Finanzas del Estado para que sea incluido en el proyecto de Ley de Ingresos del Gobierno del Estado.
 
 ###### ARTICULO 38.
 
@@ -521,7 +547,9 @@ III.- Los demás servidores públicos de la entidad responderán dentro del ámb
 
 Los Órganos Internos de Control tienen a su cargo fiscalizar el ejercicio del gasto público, promover, evaluar y fortalecer el buen funcionamiento del control interno de la entidad paraestatal, además de conocer de todos aquellos actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de la función pública.
 
-Serán parte de la estructura orgánica de la entidad paraestatal y contarán con las autoridades necesarias para el cumplimiento de sus atribuciones en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; Ley Orgánica de la Administración Pública del Estado de Aguascalientes; Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios; Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios; ésta Ley y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
+Serán parte de la estructura orgánica de la entidad paraestatal y contarán con las autoridades necesarias para el cumplimiento de sus atribuciones en los términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes; Ley Orgánica de la Administración Pública Estatal; Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios; Ley de Presupuesto, Gasto Público y Responsabilidad Hacendaria del Estado de Aguascalientes y sus Municipios; ésta Ley y demás normatividad aplicable
 
 > <small>(F. DE E., P.O. 28 DE MAYO DE 2018)</small>
 
@@ -870,3 +898,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 – Con la entrada en vigor del presente Decreto quedan sin efecto todas aquellas disposiciones legales y administrativas anteriores a esta o aquellas que se opongan.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 714.- SE REFORMA LA LEY PARA EL CONTROL DE LAS ENTIDADES PARAESTATALES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
