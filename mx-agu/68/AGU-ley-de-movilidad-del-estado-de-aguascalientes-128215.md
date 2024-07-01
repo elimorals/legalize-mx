@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2024-06-10"
+last_updated: "2024-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -89,7 +89,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Acera o banqueta: Parte de la vía pública destinada para el tránsito exclusivo de los peatones;
 
-II. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, y otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales e insulares;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+II. Accesibilidad: las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con los demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información, la accesibilidad cognitiva y otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales e insulares;
 
 III. Acciones afirmativas: Políticas, medidas o acciones dirigidas a favorecer a personas o grupos en situación de vulnerabilidad, con el fin de eliminar o reducir las desigualdades y barreras de tipo actitudinal, social, cultural o económico que los afectan;
 
@@ -295,7 +297,9 @@ C. Señales de tránsito: Objetos, avisos, medios acústicos, marcas, signos o l
 
 CI. Señalética: Es la comunicación visual mediante signos predeterminados, que permiten identificar obligaciones o permisos en la movilidad, así como de orientación en el espacio;
 
-CII. SEPLAPDE: Secretaría de Planeación, Participación y Desarrollo;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+CII. SEPLADE: Secretaría de Planeación, Participación y Desarrollo del Estado.
 
 CIII. Servicios conexos y auxiliares: Son todos los bienes y servicios que resulten complementarios a la prestación del servicio público de transporte, previstos por esta Ley y su Reglamento y susceptibles de contrato, permiso o concesión a particulares;
 
@@ -585,9 +589,13 @@ Las autoridades competentes en el ámbito de sus atribuciones deberán garantiza
 
 ARTÍCULO 8° QUINQUIES.- La reglamentación en la materia contendrán las previsiones necesarias para garantizar, al menos, lo siguiente:
 
-I. Que los servicios de transporte prevean vehículos y entornos con diseño universal y en su caso, con ayudas técnicas para la accesibilidad de personas con discapacidad y movilidad limitada, con las acciones afirmativas y los ajustes razonables que se requieran para ello;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-II. Que las vías y el espacio público se diseñen contemplando infraestructura que permita que las personas con discapacidad y movilidad limitada se desplacen de manera segura, tales como rutas accesibles, señales auditivas, visuales, táctiles, rampas, entre otras;
+I. Que los servicios de transporte prevean vehículos y entornos con diseño universal, incluida la accesibilidad cognitiva y en su caso, con ayudas técnicas para la accesibilidad de personas con discapacidad y movilidad limitada, apoyos a la comunicación y a la información con las acciones afirmativas y los ajustes razonables que se requieran para ello;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+II. Que las vías y el espacio público se diseñen contemplando infraestructura que permita que las personas con discapacidad y movilidad limitada se desplacen de manera segura, tales como rutas accesibles, señales auditivas, visuales, táctiles, rampas, información en formatos accesibles, entre otras;
 
 III. Que se contribuya a la accesibilidad de las personas con discapacidad y movilidad limitada, aportando especificaciones de diseño universal que permitan construir un entorno incluyente; y
 
@@ -627,7 +635,9 @@ II . Diseño universal: Todos los componentes de los sistemas de movilidad deben
 
 III. Perspectiva de género: El sistema de movilidad debe tener las condiciones adecuadas y diseñarse considerando estrategias que mejoren y faciliten el acceso e inclusión de las mujeres en un marco de seguridad y conforme a sus necesidades, con el fin de garantizar la igualdad de género;
 
-IV. Pluriculturalidad y multilingüismo: El espacio público y el sistema de transporte deben garantizar el respeto por la pluriculturalidad y deben contemplar mecanismos que garanticen la accesibilidad de las personas indígenas, afroamericanas, con discapacidad en materia lingüística; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+IV. Pluriculturalidad y multilingüismo: El espacio público y el sistema de transporte deben garantizar el respeto por la pluriculturalidad y deben contemplar; mecanismos que garanticen la accesibilidad de las personas indígenas, afromexicanas y personas con discapacidades lingüísticas y auditivas; y
 
 V. Prioridad en el uso de la vía: El sistema de movilidad debe garantizar el uso equitativo del espacio público por parte de todas las personas usuarias, de acuerdo con la jerarquía de la movilidad y las necesidades territoriales de los centros de población.
 
@@ -2737,6 +2747,10 @@ ARTÍCULO 118 QUÁTER.- Las autoridades competentes del Estado y de los municipi
 
 Para ello, se observarán los principios de accesibilidad, prontitud, imparcialidad, integridad y gratuidad, otorgando de forma expedita atención a la persona quejosa, a quien se le deberá informar sobre las resoluciones adoptadas
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+Cuando se trate de personas hablantes de lenguas indígenas o de lengua de señas mexicana o regional, la atención deberá prestarse asegurando que la comunicación se lleve a cabo en su propia lengua.
+
 #### SECCIÓN CUARTA. El Transporte Privado
 
 ###### ARTÍCULO 119.
@@ -3179,11 +3193,11 @@ III. Tarifa preferencial es el pago que realiza el usuario que por sus condicion
 
 Las tarifas señaladas en las fracciones anteriores deberán calcularse para cada modalidad de transporte público, a excepción del servicio de taxi, en el cual no aplicará la tarifa preferencial.
 
-La determinación de la CMOV por medio de la cual se fije la cuantía de las tarifas, se publicará a más tardar el último día de marzo de cada año en el Periódico Oficial del Estado, en los periódicos de mayor circulación en la entidad y en cualquier otro medio que se estime oportuno.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
+La determinación de la CMOV, por medio de la cual se fije la cuantía de las tarifas, se publicará para conocimiento de todas las personas usuarias a más tardar el último día de marzo de cada año, en el Periódico Oficial del Estado, en uno de los diarios de mayor circulación, en las páginas oficiales digitales de Gobierno del Estado, así como en cualquier otro medio que se estime oportuno.
 
-ARTÍCULO 144 BIS.- Las tarifas que se determinen para el servicio de transporte público serán publicadas para conocimiento de todas las personas usuarias en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación, así como en las páginas oficiales digitales del Gobierno del Estado y de los municipios.
+ARTÍCULO 144 BIS.- (DEROGADO, P.O. 1 DE JULIO DE 2024)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2023)</small>
 
@@ -6282,3 +6296,17 @@ El Ejecutivo Estatal, a través de la Secretaría de Seguridad Pública del Esta
 ###### ARTÍCULO OCTAVO.
 
 Quedan sin efectos todas aquellas disposiciones normativas y reglamentarias que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 717.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 728.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
