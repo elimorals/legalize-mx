@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-registro-publico-del-estado-de-nayarit-159476"
 country: "mx"
 rank: "ley"
 publication_date: "2022-07-19"
-last_updated: "2024-05-03"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL REGISTRO PÚBLICO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Sección Quinta del Número 13 del Periódico Oficial del Estado Nayarit, el martes 19 de julio de 2022.
 
@@ -59,13 +59,15 @@ El Registro Público, es la instancia a través de la cual el Poder Ejecutivo de
 
 El Registro Público proporcionará orientación y asesoría a las personas usuarias para la realización de los trámites que tiene encomendados.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-Para consulta, trámite y expedición de los actos inscritos en el Registro Público de la Propiedad, el solicitante, deberá acreditar su interés jurídico para obtener la información respecto de dichos actos.
+Todos los trámites a que se refiere esta Ley estarán disponibles para su consulta en el Registro Público de conformidad con la presente Ley y su Reglamento.
 
-> <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 1 DE JULIO DE 2024)</small>
 
-Los actos a que se refiere el párrafo anterior podrán realizarse por conducto de los fedatarios públicos o las autoridades competentes, en el ejercicio de sus funciones.
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+Artículo 2 BIS. El Registro Público tendrá el deber de velar por el cumplimiento de las normas aplicables sobre protección de datos personales y transparencia y acceso a la información pública.
 
 ###### Artículo 3.
 
@@ -95,9 +97,17 @@ IV. Certificado Electrónico: Es el documento firmado electrónicamente por una 
 
 V. Código: Código Civil para el Estado de Nayarit;
 
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2024)</small>
+
+V. Bis. Consulta por índices: Es un servicio que ofrece el Registro Público para que los ciudadanos pueden conocer los actos inscritos o anotados a nombre de una persona natural o jurídica.
+
 VI. Copia Certificada Electrónica: Es la reproducción total o parcial de una escritura, acta o testimonio, así como de sus respectivos documentos del apéndice, o sólo de éstos o de alguno o algunos de ellos, que la Notaria o Notario expide únicamente en soporte electrónico y que autoriza mediante su Firma Electrónica Notarial. La Copia Certificada Electrónica que la Notaria o el Notario autorice será un documento notarial válido jurídicamente y se considerará con valor equivalente a la copia certificada prevista en la Ley del Notariado para el Estado de Nayarit;
 
 VII. Custodia: Resguardo administrativo de documentos;
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2024)</small>
+
+VII. Bis. Datos personales: Los establecidos en el artículo 82 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Nayarit.
 
 VIII. Datos Registrales: Los atributos que se especifican en la Cédula Única Registral prevista en esta Ley, los cuales tienen como finalidad la identificación, ubicación, titularidad, situación jurídica, características, linderos y colindancias del predio, asociado a un Folio Real o a los atributos de la personalidad, asociados a un Folio de Persona Moral;
 
@@ -173,9 +183,9 @@ VI. Principio de Legitimación: Consiste en que los derechos inscritos en el Reg
 
 VII. Principio de Prioridad o Prelación: Otorga al título o documento ingresado en el Registro Público, y que haya cubierto el pago de derechos correspondiente, una eficacia excluyente o preferente, sobre el que ingresa con posterioridad; de forma tal que la preferencia en la inscripción o anotación relativa al mismo bien o derecho, se establecerá por el orden de la presentación de los títulos o documentos respectivos ante el Registro Público, tomando para ello en cuenta el día, la hora, minuto y segundo de dicha presentación;
 
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-VIII. Principio de Publicidad: Consiste en que los actos y hechos jurídicos inscritos o anotados en el Registro Público, sean susceptibles del conocimiento público, y surtan efectos frente a terceros;
+VIII. Principio de Publicidad: Consiste en que los actos y hechos jurídicos inscritos o anotados en el Registro Público, así como la información contenida en los acervos de este, será pública para consulta, con las excepciones previstas en la presente Ley y las legislaciones aplicables en materia de Transparencia y acceso a la información pública, así como de protección de datos personales.
 
 IX. Principio de Rogación: El asiento en folios solo procederá a petición de parte interesada y legitimada, mandato judicial o de autoridad administrativa competente, salvo que exista disposición legal en contrario, y
 
@@ -211,7 +221,9 @@ b) Emisión de la certificación cuando se cuenta con la información solicitada
 
 c) Entrega de la certificación o constancia solicitada;
 
-II. Proceso de Consulta: Es aquel que permite a cualquier persona acceder a la información que se encuentra en los folios electrónicos;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+II. Proceso de Consulta: Es aquel que permite acceder a la información que se encuentra en los folios electrónicos a través de la consulta por índices;
 
 III. Proceso de Conservación del Acervo Digital: Es aquel a través del cual se resguarda, asegura y preserva el archivo y documentación soporte de los asientos en los Folios Electrónicos, y
 
@@ -654,6 +666,14 @@ b) Nombre de los socios, asociados o integrantes del órgano de administración,
 c) Registro Federal de Contribuyentes.
 
 III. Por cualquier otro dato que se determine en el Reglamento o por la Directora o Director.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+Artículo 50 BIS. Las búsquedas en el Registro Público se realizarán conforme a los datos que señala el artículo anterior, para ello, se establecerá un sistema de consultas por índices en los términos establecidos en el Reglamento.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+Artículo 50 TER. La inexactitud o insuficiencia de datos para realizar la búsqueda, será responsabilidad del usuario.
 
 ###### Artículo 51.
 
@@ -1776,3 +1796,11 @@ P.O. 3 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE NAYARIT”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO PÚBLICO DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. En un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo deberá publicar las reformas correspondientes al Reglamento de la Ley del Registro Público del Estado de Nayarit, para el cumplimiento del presente Decreto.
