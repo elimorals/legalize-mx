@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fiscalizacion-y-rendicion-de-cuentas-del-estado-de-11814
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2022-09-26"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Sección Quinta al Número 126 del Periódico Oficial del Estado de Nayarit, el martes 27 de diciembre de 2016.
 
@@ -351,7 +351,9 @@ III. Presentar la cuenta pública y los informes de avance de gestión financier
 
 IV. Administrar los bienes y recursos a cargo de la Auditoría Superior del Estado; así como gestionar la incorporación, destino, desincorporación o enajenación de bienes inmuebles del dominio público del Estado, afectos a su servicio. La adquisición y enajenación de bienes muebles y la prestación de servicios, deberá sujetarse a lo dispuesto en las leyes de la materia; asimismo, aprobar las modificaciones al presupuesto de egresos de la Auditoría Superior del Estado derivadas de ampliaciones de recursos al monto total aprobado o transferencias de partidas de un mismo capítulo y entre capítulos distintos;
 
-V. Presentar el Programa Operativo Anual de la Auditoría Superior del Estado para el conocimiento de la Comisión conjuntamente con su proyecto de presupuesto de egresos. Este programa deberá reflejar los proyectos de los programas que realizara la Auditaría Superior del Estado durante el ejercicio fiscal siguiente; asimismo, deberá incluirse el orden cronológico de sus actividades el costo aproximado de éstas, las unidades responsables de su ejecución, las metas y los objetivos estimados;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+V. Presentar la Matriz de Indicadores para Resultados para el conocimiento de la Comisión, conjuntamente con su proyecto de presupuestos de egresos. Esta deberá identificar en forma resumida los objetivos del programa que opera la Auditoría Superior del Estado, incorporando los indicadores estratégicos y de gestión que midan el cumplimiento de dichos objetivos, especificando los medios para obtener y verificar la información de los indicadores, que incluya los riesgos y contingencias que puedan afectar el programa;
 
 VI. Expedir el Reglamento Interior de la Auditoría Superior del Estado, que tendrá por objeto la distribución de atribuciones entre sus unidades administrativas, delegación de facultades, señalamiento de aquellas de carácter delegable y las que no podrán ser y delegables del Auditor Superior, régimen de suplencia de sus titulares y los requisitos para su nombramiento. Para su debida validez el Reglamento Interior deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado;
 
@@ -363,11 +365,11 @@ IX. Expedir reglas técnicas, procedimientos, métodos y sistemas de archivo de 
 
 X. Expedir oficios de comisión, credenciales y demás documentos necesarios para el desempeño de las funciones que les sean conferidas;
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XI. Designar a los titulares de la Secretaría Ejecutiva, del Órgano Interno de Control, de la Dirección General de Administración, titulares de unidades, directores de área, coordinadores, jefaturas, auditores, y demás servidores públicos, así como expedir nombramientos del personal de la Auditoría Superior del Estado;
+XI. Designar a los titulares de la Secretaría Ejecutiva, del Órgano Interno de Control, de la Dirección General de Administración, titulares de unidades, directores de área, coordinadores, jefaturas, auditores, asesores jurídicos y demás servidores públicos, así como expedir nombramientos del personal de la Auditoría Superior del Estado.
 
-Los titulares de la Secretaría Ejecutiva, del Órgano Interno de Control y de la Dirección General de Administración durarán un periodo de 4 años en el cargo y podrán ser ratificados hasta por un periodo adicional.
+Los titulares de la Secretaría Ejecutiva, del Órgano Interno de Control y de la Dirección General de Administración durarán un periodo de 4 años en el cargo y podrán ser ratificados hasta por un periodo adicional;
 
 XII. Requerir a los titulares de los sujetos fiscalizables, la remisión de información y documentación específica para el cumplimiento de la función de Fiscalización Superior;
 
@@ -395,9 +397,11 @@ XXII. Formar parte del Comité Coordinador del Sistema Nacional Anticorrupción 
 
 XXIII. Establecer los mecanismos necesarios para fortalecer la participación ciudadana en la rendición de cuentas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2024)</small>
 
-XXIV. Remitir propuesta de los titulares de los auditores especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y de la Dirección General de Asuntos Jurídicos al Congreso del Estado para su designación o ratificación, previa entrevista.
+XXIV. Designar o remover a los titulares de las auditorías especiales de Auditoría Financiera, de Auditoría de Obra Pública, de Auditoría al Desempeño y de la Dirección General de Asuntos Jurídicos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE JULIO DE 2020)</small>
 
 Esta atribución no la podrán ejercer los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y la Dirección General de Asuntos Jurídicos cuando hagan las veces de encargado de despacho de la Auditoría Superior;
 
@@ -409,9 +413,11 @@ XXV. Solicitar información y documentación complementaria de los avances de Ge
 
 XXVI. Las demás que señalen esta ley y las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
 ###### Artículo 15.
 
-Corresponde originalmente al Auditor Superior el trámite y resolución de los asuntos de la competencia de la Auditoría Superior del Estado, pero para la mejor organización del trabajo podrá delegar en servidores públicos subalternos cualquiera de sus atribuciones, excepto las mencionadas en las fracciones II, V, VI, VIII y XI del artículo anterior, o aquellas que señale de manera expresa el Reglamento Interior de la Auditoría Superior del Estado, las cuales no podrán ser delegables. Para su validez, los actos de delegación deberán constar por escrito y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
+Corresponde originalmente al Auditor Superior el trámite y resolución de los asuntos de la competencia de la Auditoría Superior del Estado, pero para la mejor organización del trabajo podrá delegar en servidores públicos subalternos cualquiera de sus atribuciones, excepto las mencionadas en las fracciones II, V, VI, VIII, XI y XXIV del artículo anterior, o aquellas que señale de manera expresa el Reglamento Interior de la Auditoría Superior del Estado, las cuales no podrán ser delegables. Para su validez, los actos de delegación deberán constar por escrito y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 ###### Artículo 16.
 
@@ -427,11 +433,11 @@ No requerirán autorización las ausencias temporales que se motiven por la comi
 
 En cualquier caso, las ausencias temporales del Auditor Superior serán suplidas por los auditores especiales designados por el Congreso del Estado de Auditoría Financiera, de Obra Pública o del Desempeño o por el titular de la Dirección General de Asuntos Jurídicos, en el respectivo orden de prelación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2024)</small>
 
 ###### Artículo 17.
 
-Para el mejor desempeño de sus funciones, la Auditoría Superior del Estado en su estructura administrativa contará con auditores especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño, la Secretaría Ejecutiva, la Dirección General de Asuntos Jurídicos, el Órgano Interno de Control y la Dirección General de Administración, así como titulares de unidades, directores de área, coordinadores, jefaturas, auditores, y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado.
+Para el mejor desempeño de sus funciones, la Auditoría Superior del Estado en su estructura administrativa contará con auditores especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño, la Secretaría Ejecutiva, la Dirección General de Asuntos Jurídicos, el Órgano Interno de Control y la Dirección General de Administración, así como titulares de unidades, directores de área, coordinadores, jefaturas, auditores , asesores jurídicos y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior del Estado, de conformidad con el presupuesto autorizado.
 
 La Auditoría Superior del Estado, en los términos de su reglamento interior, contará además con un órgano interno de control, con las facultades para prevenir, corregir e investigar actos u omisiones que, en el ámbito de su competencia pudieran constituir responsabilidades administrativas para sancionar aquéllas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
 
@@ -457,9 +463,13 @@ VII. No pertenecer al estado eclesiástico, ni ser ministro de algún culto reli
 
 VIII. Contar al momento de su designación con una experiencia de al menos tres años en la Administración Pública, preferentemente en el control, manejo o fiscalización de recursos públicos.
 
-Los Auditores Especiales y el titular de la Dirección General de Asuntos Jurídicos durarán en su encargo cuatro años, los cuales serán designados por el Congreso del Estado con el voto de la mayoría de los Diputados presentes de entre las propuestas que remita para tal efecto el Auditor Superior, previa entrevista de la Comisión y podrán ser nombrados nuevamente por un periodo adicional a propuesta del Auditor Superior por el Congreso del Estado.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-Podrán ser removidos por el Congreso por las faltas graves a las que se refiere esta ley, con la misma votación requerida para su nombramiento o por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Nayarit y las normas aplicables.
+Los Auditores Especiales y el titular de la Dirección General de Asuntos Jurídicos durarán en su encargo cuatro años y serán designados por el Auditor Superior; al término de su encargo podrán ser nombrados nuevamente por un periodo adicional.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
+Podrán ser removidos por las causas y conforme a los procedimientos previstos en el Título Octavo de la Constitución Política del Estado Libre y Soberano de Nayarit y las normas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
 
@@ -515,21 +525,23 @@ Los acuerdos en los cuales se adscriban unidades administrativas se publicarán 
 
 La Auditoría Superior del Estado elaborará su proyecto de presupuesto anual que contenga, de conformidad con las previsiones de gasto, los recursos necesarios para cumplir con su encargo, el cual será remitido a la Comisión antes de los plazos establecidos en el artículo 13 de la Ley de Presupuestación, Contabilidad y Gasto Público de la Administración del Gobierno del Estado de Nayarit. La Auditoría Superior del Estado ejercerá autónomamente su presupuesto aprobado de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
 ###### Artículo 25.
 
-Los servidores públicos de la Auditoría Superior del Estado se clasifican como trabajadores de confianza y trabajadores de base, y se regirán por el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y el Estatuto Jurídico de los Trabajadores al Servicio del Estado.
+Los servidores públicos de la Auditoría Superior del Estado se clasifican como trabajadores de confianza y trabajadores de base, y se regirán por el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Derechos y Justicia Laboral para los Trabajadores al Servicio del Estado de Nayarit.
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
 ###### Artículo 26.
 
-Son trabajadores de confianza: El Auditor Superior, los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública y la Auditoría al Desempeño, la Secretaría Ejecutiva, el Titular del Órgano Interno de Control, la Dirección General de Asuntos Jurídicos y la Dirección General de Administración, así como titulares de unidades, directores de área, coordinadores, jefaturas, auditores, y demás servidores públicos que tengan tal carácter conforme a lo previsto en la Ley Laboral Burocrática del Estado de Nayarit y el Reglamento Interior de la Auditoría Superior del Estado.
+Son trabajadores de confianza: El Auditor Superior, los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública y la Auditoría al Desempeño, la Secretaría Ejecutiva, el titular del Órgano Interno de Control, la Dirección General de Asuntos Jurídicos y la Dirección General de Administración, así como titulares de unidades, directores de área, coordinadores, jefaturas, auditores, asesores jurídicos y demás servidores públicos que tengan tal carácter conforme a lo previsto en la Ley de Derechos y Justicia Laboral para los Trabajadores al Servicio del Estado de Nayarit y el Reglamento Interior de la Auditoría Superior del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2024)</small>
 
 ###### Artículo 27.
 
-Son trabajadores de base los que desempeñen labores en puestos no incluidos en el párrafo anterior y que estén previstos con tal carácter en la Ley Laboral Burocrática del Estado de Nayarit.
+Son trabajadores de base los que desempeñen labores en puestos no incluidos en el párrafo anterior y que estén previstos con tal carácter en la Ley de Derechos y Justicia Laboral para los Trabajadores al Servicio del Estado de Nayarit.
 
 La relación jurídica de trabajo se entiende establecida entre el Congreso, a través del Auditor Superior y los trabajadores a su servicio para todos los efectos.
 
@@ -569,11 +581,11 @@ XII. Las demás que le atribuyan expresamente las disposiciones legales y la nor
 
 Para el cumplimiento de las atribuciones que esta ley le otorga a la Comisión, ésta contará con los servicios de apoyo técnico de la Contraloría Interna del Congreso y de la asesoría que éste apruebe de conformidad a las posibilidades presupuestales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2024)</small>
 
 ###### Artículo 29.
 
-Cualquier ciudadano en pleno ejercicio de sus derechos y bajo su más estricta responsabilidad, podrá presentar ante la Comisión, denuncia escrita por la que se solicite la remoción del Auditor Superior o de alguno de los Auditores Especiales de Auditoría Financiera, Auditoría de Obra Pública, Auditoría al Desempeño y el titular de la Dirección General de Asuntos Jurídicos de la Auditoría Superior del Estado, sujetándose a las siguientes formalidades:
+Cualquier ciudadano en pleno ejercicio de sus derechos y bajo su más estricta responsabilidad, podrá presentar ante la Comisión, denuncia escrita por la que se solicite la remoción del Auditor Superior, sujetándose a las siguientes formalidades:
 
 I. Presentar ante la Comisión, el escrito de denuncia señalando nombre y domicilio para recibir notificaciones, y la causa grave de las previstas en el artículo 20 de esta ley, por la que solicita la remoción;
 
@@ -1221,41 +1233,15 @@ P.O. 26 DE SEPTIEMBRE DE 2022.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2054.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA".]
+P.O. 1 DE JULIO DE 2024.
 
-PRIMERO.- El presente Decreto entrará en vigor a partir del primero de diciembre de dos mil dieciséis.
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE NAYARIT".]
 
-SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
-TERCERO.- Se abrogan los Decretos publicados el 23 de diciembre del 2000 y 20 de enero del 2011, en donde se crea y se reforma el Instituto de la Mujer Oaxaqueña, respectivamente.
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
 
-CUARTO.- Se abrogan los Decretos publicados el 22 de junio de 1996 y 3 de marzo del 2011, en donde se crea el Instituto Estatal de Ecología de Oaxaca y se modifica su denominación a Instituto Estatal de Ecología y Desarrollo Sustentable, respectivamente.
-
-QUINTO.- Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones de las extintas Secretaría del Trabajo y Secretaría de Turismo y Desarrollo Económico, se entenderán que se refieren en lo concerniente al contenido del presente Decreto, a las Secretarías General de Gobierno, de Economía y de Turismo respectivamente.
-
-Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones del extinto Instituto de la Mujer Oaxaqueña, se entenderán a la Secretaría de la Mujer Oaxaqueña.
-
-Los actos jurídicos y administrativos suscritos en lo que corresponden a las atribuciones del extinto Instituto Estatal de Ecología y Desarrollo Sustentable, se entenderán a la Secretaría del Medio Ambiente y Desarrollo Sustentable.
-
-SEXTO.- Las obligaciones y derechos derivados de contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las dependencias y entidades que por este Decreto se extinguen, cambian de denominación y sector, la transferencia de sus recursos humanos, materiales y financieros, se entenderan subrogadas y contraidas por sus correlativas que se reforman o se crean en su caso.
-
-SÉPTIMO.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las dependencias o entidades cuyas funciones se reforman en virtud de este Decreto, se entenderán referidas a las dependencias a quienes respectivamente corresponden tales funciones.
-
-OCTAVO.- Los asuntos que con motivo de esta reforma deban pasar de una dependencia o entidad a otra, permanencerán (sic) en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la dependencia o entidad que señale el presente Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
-
-NOVENO.- El Titular del Poder Ejecutivo en un término no mayor de treinta días naturales a partir de la fecha de entrada en vigor del presente Decreto, publicará las adecuaciones reglamentarias necesarias de conformidad con la presente reforma.
-
-DÉCIMO.- Los recursos humanos, financieros y materiales deberán reasignarse de acuerdo a la naturaleza de sus atribuciones que la presente reforma mandata, debiendo intervenir en el ámbito de sus competencias, las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental.
-
-Se faculta a la Secretaría de Finanzas y a la Secretaría de Administración, para realizar los cambios en las estructuras de los órganos que por este Decreto se creen o extingan, así como para realizar las adecuaciones programáticas y presupuestales que deriven de la aplicación del presente decreto.
-
-En todos los casos que por la aplicación de este Decreto se modifique la estructura orgánica de las dependencias y entidades o unidades administrativas de adscripción de los trabajadores de base, sus correspondientes derechos laborales serán respetados en términos de la Ley del Servicio Civil para los Empleados del Gobierno del Estado y demás leyes aplicables de la materia.
-
-DÉCIMO PRIMERO.- Los recursos para llevar a cabo los programas y la implementación de las acciones que se deriven del presente Decreto, se cubrirán con cargo al presupuesto autorizado a las dependencias, entidades y órganos descentralizados del poder ejecutivo estatal.
-
-DÉCIMO SEGUNDO.- El presente Decreto deroga todas las disposiciones reglamentarias o administrativas, de igual o menor rango, que se opongan al presente Decreto.
-
-P.O. 12 DE NOVIEMBRE DE 2016.
+TERCERO. En un plazo que no exceda de sesenta días hábiles siguientes a la entrada en vigor del presente Decreto, habrán de realizarse las modificaciones al marco reglamentario y normativo para la armonización con el presente instrumento.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2092.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA, DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA, DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA Y POR. EL QUE SE EXPIDE LA LEY QUE CREA EL INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE OAXACA".]
 
