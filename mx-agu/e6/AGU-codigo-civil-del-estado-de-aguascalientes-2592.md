@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2024-06-10"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2625,9 +2625,9 @@ Se presumen hijos de los cónyuges:
 
 I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
 
-> <small>(REFORMADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial. En estos supuestos, cuando el cónyuge no sea el padre biológico del niño o niña, para su registro tendrá lugar un trámite administrativo en el cual la progenitora y el padre biológico, se presentarán personalmente ante la Oficialía del Registro Civil exhibiendo una declaratoria en la que manifiesten bajo protesta de decir verdad de que él es el padre biológico de la niña o niño.
+II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
 
@@ -2757,11 +2757,9 @@ III.- Que el presunto padre tenga la edad exigida por el artículo 385.
 
 Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se considerarán como hijos de matrimonio.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
-
 ###### Artículo 369.
 
-No basta el dicho de la madre para excluir de la paternidad al marido.
+(DEROGADO, P.O. 1 DE JULIO DE 2024)
 
 ###### Artículo 370.
 
@@ -17788,3 +17786,11 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 El titular del Poder Ejecutivo del Estado contará con un plazo de noventa días naturales para proveer las medidas administrativas y realizar las reformas reglamentarias derivadas del presente Decreto.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 715.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
