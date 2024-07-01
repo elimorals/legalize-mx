@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2024-05-20"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -195,9 +195,9 @@ XVI. Ley General: A la Ley General del Sistema Nacional de Seguridad Pública;
 
 XVII. Mando: La autoridad ejercida por un superior jerárquico en servicio activo sobre sus subordinados o iguales en jerarquía, cuando éstos se encuentren bajo sus órdenes, en razón de su categoría, cargo o comisión;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XVIII. Mando Único: La política pública consistente en el conjunto de órdenes y lineamientos a través de los cuales se regulará la actuación conjunta y coordinada de los elementos operativos de las Instituciones Policiales encargadas de la función de Seguridad Pública del Estado y los Municipios del mismo, a través de una sola instancia rectora, la cual estará a cargo del titular de la Secretaría de Seguridad Pública del Estado;
+XVIII. Mando Coordinado: La política pública consistente en el conjunto de órdenes y lineamientos a través de los cuales se regulará la actuación conjunta y coordinada de los elementos operativos de las Instituciones Policiales encargadas de la función de Seguridad Pública del Estado y los Municipios del mismo, a través del establecimiento de una sola persona responsable de la coordinación efectiva para hacer frente a la delincuencia, el cual estará a cargo de la persona titular de la Secretaría de Seguridad Pública del Estado.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -293,9 +293,9 @@ XIII. Fortalecer los sistemas de seguridad social de los servidores públicos, s
 
 XIV. Realizar las acciones necesarias para incrementar la eficacia en el cumplimiento de los fines de la Seguridad Pública;
 
-> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XV. Ejecutar los acuerdos del Consejo de manera inmediata, cuando se trate de implementar la política pública de Mando Único en el ámbito de su competencia territorial;
+XV. Ejecutar los acuerdos del Consejo de manera inmediata, cuando se trate de implementar la política pública de Mando Coordinado en el ámbito de su competencia territorial;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2020)</small>
 
@@ -485,9 +485,9 @@ XXI. Integrar un sistema de seguimiento y evaluación de las actividades realiza
 
 XXII. Crear comisiones o grupos de trabajo para el apoyo de sus funciones;
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XXIII. Establecer como política pública específica, el Mando Único, respetando en todo momento lo preceptuado en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; la Ley General del Sistema Nacional de Seguridad Pública y demás ordenamientos aplicables en la materia;
+XXIII. Establecer como política pública específica, el Mando Coordinado, respetando en todo momento lo preceptuado en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; la Ley General del Sistema Nacional de Seguridad Pública y demás ordenamientos aplicables en la materia;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
@@ -731,17 +731,17 @@ Esta misma facultad podrá ejercerla cuando exista manifiesta imposibilidad de a
 
 Para efectos de los operativos que deban implementarse de manera conjunta entre las Instituciones Policiales, el titular de la Secretaría tendrá a su cargo la coordinación en la materia.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-También tendrá la facultad de nombrar a los Directores y Subdirectores de cada Institución Policial que conforme al Mando Único para lograr una efectiva operatividad.
+También tendrá la facultad de nombrar a los Directores y Subdirectores de cada Institución Policial que conforme al Mando Coordinado para lograr una efectiva operatividad.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-El Mando Único que ejerza la Secretaría se entenderá única y exclusivamente respecto a funciones que en materia operativa se ejecuten, no así acerca de ninguna otra materia.
+El Mando Coordinado que ejerza la Secretaría se entenderá única y exclusivamente respecto a funciones que en materia operativa se ejecuten, no así acerca de ninguna otra materia.
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-El Mando Único no aplicará respecto a la Dirección de Tránsito Municipal y la Jefatura Operativa de Policía Auxiliar y Comercial, así como tampoco en faltas de policía contenidas en los ordenamientos municipales correspondientes;
+El Mando Coordinado no aplicará respecto a la Dirección de Tránsito Municipal y la Jefatura Operativa de Policía Auxiliar y Comercial, así como tampoco en faltas de policía contenidas en los ordenamientos municipales correspondientes.
 
 ###### Artículo 35.
 
@@ -2952,3 +2952,11 @@ P.O. 20 DE MAYO DE 2024.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 725.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
