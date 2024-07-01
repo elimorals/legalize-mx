@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-notariado-para-el-estado-de-aguascalientes-3113"
 country: "mx"
 rank: "ley"
 publication_date: "1980-06-01"
-last_updated: "2023-12-25"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el domingo 1 de junio de 1980.
 
@@ -809,9 +809,9 @@ La designación del notario supernumerario que substituya a algún numerario, de
 
 Para obtener el fíat de notario, ya sea de número o supernumerario, se elevará solicitud por escrito dirigido a la persona titular del Poder Ejecutivo del Estado, llenándose los requisitos siguientes:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-I.- Contar con nacionalidad mexicana, tener veinticinco años cumplidos; estar en el ejercicio de sus derechos ciudadanos; haber tenido buena conducta; no ser militar y no pertenecer al estado eclesiástico;
+I.- Contar con nacionalidad mexicana, tener veinticinco años cumplidos, estar en el ejercicio de sus derechos ciudadanos, no ser militar y no pertenecer al estado eclesiástico;
 
 II.- Ser abogado con título legalmente expedido y debidamente registrado conforme a la Ley Reglamentaria del Artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, así como haber ejercido su profesión en la Entidad, en un término no menor de tres años inmediatos anteriores a la fecha de su solicitud;
 
@@ -827,9 +827,9 @@ V.- No haber sido declarado en quiebra o sujeto a concurso, haber sido rehabilit
 
 Los requisitos señalados en el artículo anterior, se justificarán en la siguiente forma:
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-El primero con copia certificada del acta correspondiente del Registro Civil o en su caso la Carta de Naturalización respectiva, por lo que hace a la nacionalidad, a la edad y al ejercicio de ciudadano (a) del interesado (a) y, por cuanto se refiere al estado seglar y a la buena conducta, con los certificados que al efecto expida la autoridad correspondiente del último domicilio del solicitante.
+El primero con copia certificada del acta correspondiente del Registro Civil o en su caso la Carta de Naturalización respectiva, por lo que hace a la nacionalidad, a la edad y al ejercicio de ciudadano (a) del interesado (a) y, por cuanto se refiere al estado seglar, con los certificados que al efecto expida la autoridad correspondiente del último domicilio del solicitante.
 
 El segundo, con la presentación del título original en el que debe aparecer la constancia de su registro ante el Supremo Tribunal de Justicia en el Estado y la cédula con efectos de patente para ejercer la profesión de abogado expedida por la Dirección General de Profesiones de la Secretaría de Educación Pública.
 
@@ -1374,3 +1374,9 @@ P.O. 25 DE DICIEMBRE DE 2023.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día (sic)
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 730.- SE REFORMA LA LEY DEL NOTARIADO PARA EL ESTADO DE AGUASCALIENTES".]
+
+ARTÍCULO ÙNICO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
