@@ -4,7 +4,7 @@ identifier: "SON-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-del-63502
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-25"
-last_updated: "2021-05-14"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63502&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Sección VIII del Boletín Oficial del Estado de Sonora, el jueves 25 de septiembre de 2008.
 
@@ -1167,6 +1167,10 @@ IV.- Promover ante la autoridad federal competente, que en la distribución de l
 
 V.- Promover, en el ámbito de sus respectivas competencias, los programas de regularización de la tenencia de la tierra en las áreas naturales protegidas.
 
+> <small>(ADICIONADO, B.O. 1 DE JULIO DE 2024)</small>
+
+ARTÍCULO 61 BIS.- La Comisión autorizará el uso de sellos o distintivos a fin de que puedan ser ostentados en las etiquetas de los productos elaborados o en la publicidad de los servicios prestados de manera sustentable, dentro del área natural protegida de competencia estatal de que se trate o en áreas de conservación, de conformidad con lo previsto en las disposiciones administrativas que resulten aplicables, el manual para su uso y las licencias que se expidan y, en su caso, tomando en cuenta los niveles de certificación a que se refiere el artículo 76 BIS de la presente Ley.
+
 ###### ARTÍCULO 62.
 
 La Comisión y los ayuntamientos, en el ámbito de sus respectivas competencias, podrán otorgar a los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas y demás personas interesadas, concesiones, permisos o autorizaciones para la realización de obras o actividades en las áreas naturales protegidas, de conformidad con lo que establece esta ley, las declaratorias y los programas de manejo correspondientes. Asimismo, verificarán que los titulares cumplan con los términos bajo los cuales les fueron otorgadas dichas concesiones, permisos o autorizaciones.
@@ -1239,19 +1243,27 @@ Se consideran áreas de conservación:
 
 I.- Las servidumbres ecológicas, constituidas mediante el acuerdo de dos o más propietarios de los predios que se pretenden someter a un régimen de protección, para limitar el tipo o intensidad de uso de uno o más de dichos predios, con el fin de preservar sus atributos naturales y bellezas escénicas;
 
-II.- Las reservas privadas de conservación, conformadas con terrenos de propiedad privada que por sus condiciones biológicas o por sus ambientes originales no alterados significativamente por la acción del hombre se destinan a preservar los elementos naturales indispensables al equilibrio ecológico y al bienestar general;
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 2024)</small>
 
-III.- Las reservas rurales, establecidas en terrenos ejidales o comunales que por sus condiciones biológicas o por sus ambientes originales no alterados significativamente por la acción del hombre se destinan a la conservación, preservación y protección de tierras comunales;
+II.- Las reservas privadas de conservación, conformadas con terrenos de propiedad privada que por sus condiciones biológicas o por sus ambientes originales no alterados significativamente por la acción de los seres humanos se destinan a preservar los elementos naturales indispensables al equilibrio ecológico y al bienestar general;
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 2024)</small>
+
+III.- Las reservas rurales, establecidas en terrenos ejidales o comunales que por sus condiciones biológicas o por sus ambientes originales no alterados significativamente por la acción de los seres humanos se destinan a la conservación, preservación y protección de tierras comunales;
 
 IV.- Los jardines privados de conservación o regeneración de especies, conformados por áreas de propiedad privada destinadas a la conservación o regeneración de germoplasma de variedades nativas de una región;
 
-V.- Las tierras sujetas a contratos de conservación, constituidas en terrenos de propiedad privada o social sobre los que sus propietarios limitan los derechos de uso o constituyen cargas de carácter real con el objeto de conservar, preservar, proteger y restaurar sus atributos naturales o ecológicos en favor de terceros; y
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 2024)</small>
+
+V.- El derecho real de conservación, constituido en forma libre y voluntaria por los propietarios de predios tanto públicos como privados, que vayan a ser destinados a la conservación, en beneficio de una persona física o moral determinada, a través de la suscripción de un contrato constitutivo que deberá constar en escritura pública ante Notario e inscribirse en el Registro Público de la Propiedad y del Comercio; o en su caso, en el Registro Agrario Nacional. Dicho derecho es inseparable del predio sobre el cual se constituya, es indivisible, puede ser a título gratuito u oneroso, de duración indeterminada, y se ejercerá de conformidad con lo previsto en la presente fracción y en los contratos constitutivos correspondientes; y
 
 VI.- Las demás que tengan este carácter conforme a las disposiciones legales aplicables.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 71.
 
-Para el establecimiento de un área de conservación se deberá contar con el certificado de reconocimiento respectivo expedido por la Comisión. Dicho certificado deberá contener, por lo menos, el nombre del promovente, la denominación del área que se pretenda someter al régimen de conservación; su ubicación, superficie y colindancias; el tipo de área que se establezca de acuerdo con el artículo anterior; los términos y condiciones a los que se sujetaría dicha área y, en su caso, el plazo de vigencia del mismo.
+Para el establecimiento de un área de conservación se deberá contar con el certificado de reconocimiento respectivo expedido por la Comisión. Dicho certificado deberá contener, por lo menos, el nombre del promovente, la denominación del área que se pretenda someter al régimen de conservación; su ubicación, superficie y colindancias; el tipo de área que se establezca de acuerdo con el artículo anterior; los términos y condiciones a los que se sujetaría dicha área, y el plazo de vigencia del mismo, el cual no podrá ser menor a veinticinco años.
 
 ###### ARTÍCULO 72.
 
@@ -1269,13 +1281,19 @@ V.- Denominación del área, en su caso, así como descripción de sus caracter�
 
 VI.- Superficie y colindancias con un plano de ubicación, preferentemente georreferenciado y con fotografías del predio;
 
-VII.- Propuesta de actividades a regular;
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 2024)</small>
 
-VIII.- Acciones de manejo del área a cargo del promovente o promoventes;
+VII.- Documento con la propuesta para el manejo del predio que incluya las acciones de manejo del área a cargo del promovente o promoventes, las actividades a regular y, en su caso, la zonificación correspondiente;
 
-IX.- Acreditar la viabilidad financiera; y
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 2024)</small>
 
-X.- La información complementaria que desee proporcionar el promovente.
+VIII.- Plazo por el que se desea certificar el área, el cual no podrá ser menor a veinticinco años; y
+
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 2024)</small>
+
+IX.- La información complementaria que desee proporcionar el promovente.
+
+X.- (DEROGADA, B.O. 1 DE JULIO DE 2024)
 
 Una vez recibida la solicitud para el establecimiento de un área de conservación, la Comisión integrará un expediente y, en su caso, efectuará una visita de campo en un plazo que no excederá de veinte días hábiles contados a partir del día de la recepción.
 
@@ -1303,15 +1321,21 @@ I.- Cuando el predio se vea alterado por desastres naturales como huracanes, cic
 
 II.- Cuando sus titulares incumplan con el régimen de manejo autorizado o con cualquiera otra de las obligaciones establecidas en el certificado.
 
+> <small>(REFORMADO, B.O. 1 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 76.
 
-La Comisión, en coordinación con las autoridades estatales competentes, en su caso, y los ayuntamientos, en el ámbito de sus respectivas competencias podrán:
+Se considerarán prioritarias para el otorgamiento de los incentivos que se establezcan conforme a las leyes fiscales que resulten aplicables, las actividades relacionadas con:
 
-I.- Promover inversiones públicas y privadas para el establecimiento y manejo de áreas de conservación;
+I.- El establecimiento, administración, conservación, desarrollo, vigilancia y divulgación de las áreas naturales protegidas de competencia estatal o municipal, así como el reconocimiento, preservación, conservación y restauración de las áreas de conservación y, en su caso, tomando en cuenta los niveles de certificación correspondientes;
 
-II.- Establecer o, en su caso, promover mecanismos para captar recursos y financiar o apoyar el manejo de áreas naturales protegidas; y
+II.- El establecimiento, administración y manejo de predios reconocidos por la Federación como áreas destinadas voluntariamente a la conservación, tomando en cuenta los niveles de certificación previstos en la Ley General, o
 
-III.- Promover el otorgamiento de incentivos económicos y estímulos fiscales para quienes destinen sus predios a acciones de preservación, conservación y restauración de los ecosistemas y su biodiversidad.
+III.- El aportar recursos al establecimiento, administración, conservación, desarrollo, vigilancia o divulgación de las áreas naturales protegidas de competencia estatal o municipal, así como el reconocimiento, preservación, conservación y restauración de las áreas de conservación y, en su caso, tomando en cuenta los niveles de certificación a que se refiere el artículo 76 BIS de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 1 DE JULIO DE 2024)</small>
+
+ARTÍCULO 76 BIS.- La Comisión establecerá diferentes niveles de certificación de las áreas de conservación, en función de las características físicas y biológicas generales y el estado de conservación de las mismas, así como el plazo por el que se emite el certificado, las acciones de manejo del área, las actividades a regular y, en su caso, la zonificación correspondiente, para que, con base en estos niveles, las autoridades correspondientes definan y determinen el acceso a los instrumentos económicos que tendrán los propietarios de dichos predios. Asimismo, estos niveles serán considerados por las dependencias y entidades competentes, en la certificación de productos o servicios.
 
 ###### ARTÍCULO 77.
 
@@ -2837,11 +2861,11 @@ Las personas a quienes la Comisión entregue información ambiental del Sistema 
 
 ### CAPÍTULO III. DEL FONDO AMBIENTAL ESTATAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 190.
 
-La Comisión creará el Fondo Ambiental Estatal a través de un Fideicomiso, cuyos recursos se destinarán a:
+La Comisión creará el Fondo Ambiental Estatal, cuyos recursos se destinarán a:
 
 > <small>(REFORMADA, B.O. 7 DE NOVIEMBRE DE 2011)</small>
 
@@ -2853,13 +2877,21 @@ III.- El desarrollo de programas de planeación ecológica, educación e investi
 
 IV.- La promoción de la educación, investigación y cultura ambiental en el Estado; y
 
-> <small>(REFORMADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, B.O. 1 DE JULIO DE 2024)</small>
 
-V.- El desarrollo e implementación de acciones, proyectos y política de mitigación y adaptación al cambio climático; y
+V.- El desarrollo e implementación de acciones, proyectos y política de mitigación y adaptación al cambio climático;
 
-> <small>(ADICIONADA, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 1 DE JULIO DE 2024)</small>
 
-VI.- Las demás que señalen las disposiciones ambientales.
+VI.- El reconocimiento, preservación, conservación y restauración de las áreas de conservación, tomando en cuenta los niveles de certificación correspondientes;
+
+> <small>(ADICIONADA, B.O. 1 DE JULIO DE 2024)</small>
+
+VII.- El establecimiento, administración y manejo de predios reconocidos por la Federación como áreas destinadas voluntariamente a la conservación, tomando en cuenta los niveles de certificación previstos en la Ley General; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 1 DE JULIO DE 2024)</small>
+
+VIII.- Las demás que señalen las disposiciones ambientales.
 
 > <small>(ADICIONADO, B.O. 27 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3694,3 +3726,25 @@ B.O. 14 DE MAYO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+B.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 62, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA Y DE LA LEY DE HACIENDA MUNICIPAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora expedirá el manual para el uso de los sellos o distintivos de los productos elaborados o de los servicios prestados de manera sustentable en las áreas naturales protegidas de competencia estatal o en las áreas de conservación, en un plazo no mayor a trescientos cincuenta días naturales, contados a partir de la publicación de este Decreto en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora establecerá los niveles de certificación de las áreas de conservación referidos en el presente Decreto, en un plazo no mayor a ciento cincuenta días naturales, contados a partir de la publicación de este Decreto en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora promoverá y apoyará a los ayuntamientos para que apliquen las reducciones al impuesto predial previstas en el presente Decreto.
+
+ARTÍCULO ÚNICO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
