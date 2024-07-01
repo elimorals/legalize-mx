@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2024-04-01"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -193,9 +193,11 @@ XII. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el re
 
 ### CAPÍTULO II. De los Derechos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 5°.
 
-La presente Ley reconoce como derechos de las personas adultas mayores, independientemente de los señalados en otros ordenamientos legales, los siguientes:
+La presente Ley reconoce como derechos de las personas adultas mayores, independientemente de los señalados en otros ordenamientos legales, de manera enunciativa y no limitativa, los siguientes:
 
 I. De la integridad, dignidad y preferencia:
 
@@ -203,11 +205,15 @@ I. De la integridad, dignidad y preferencia:
 
 A) A una vida de calidad, libre de violencia, maltrato físico, psicológico, económico, sexual o de abandono, discriminación, con la finalidad de asegurarle respeto a su integridad física, psicológica y afectiva;
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+Es obligación de las Instituciones Públicas, de la familia y la sociedad, garantizarles el acceso a los programas que tengan por objeto posibilitar el ejercicio de este derecho.
+
 B) A la protección contra toda forma de explotación;
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-C) A recibir protección por parte de la familia y de las instituciones estatales y municipales de manera preferente, para mejorar progresivamente las capacidades que le faciliten el ejercicio de sus derechos en condiciones de igualdad.
+C) A recibir protección por parte de la comunidad, la familia, y de las instituciones estatales y municipales de manera preferente, para mejorar progresivamente las capacidades que le faciliten el ejercicio de sus derechos en condiciones de igualdad.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
 
@@ -245,7 +251,9 @@ F) En los procedimientos Judiciales, cuando el Juez advierta alguna limitante de
 
 G) A ser protegidos mediante la expedición de Medidas de Protección, Providencias Precautorias y Medidas Cautelares, por los Jueces competentes, en los términos de la legislación aplicable.
 
-III. De la salud, la alimentación y la familia:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2024)</small>
+
+III. De la protección de la salud, la alimentación y la familia:
 
 A) A tener acceso a los satisfactores necesarios, considerando: alimentos, bienes, servicios, salud y condiciones humanas o materiales para su atención integral, en especial las que prestan las instituciones del Sistema Estatal de Salud;
 
@@ -265,35 +273,59 @@ E) Recibir una atención médica integral con calidad, especializada en atenció
 
 F) Disponer de información amplia sobre su estado de salud y participar en las decisiones sobre el tratamiento de sus enfermedades, excepto en casos en que sea judicialmente declarado incapaz;
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-G) Contar con una cartilla médica única para el control de su salud; y
+G) Contar con una cartilla médica única para el control de su salud;
 
 > <small>(ADICIONADO, P.O. 27 DE MAYO DE 2019)</small>
 
 H) A recibir cuidados paliativos, entendiendo por estos la atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días, así como la atención primordial al control del dolor, de otros síntomas, de los problemas sociales y padecimientos psicológicos y físicos de la persona mayor, debiendo abarcar al paciente, su entorno y su familia. Los cuidados paliativos deben de afirmar la vida y considerar la muerte como un proceso normal, sin buscar acelerarla ni retrasarla;
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+I) A desarrollar y fomentar la capacidad funcional que les permita ejecutar sus tareas y desempeñar sus roles sociales.
+
+Las familias tendrán derecho a recibir el apoyo de las instituciones públicas para el cuidado y atención de las personas adultas mayores, ante la falta de recursos económicos; y
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+J) A recibir una atención profesional y especializada en el cuidado de su salud mental y a tener acceso a información y atención que le permita enfrentar la perdida de familiares o seres queridos.
+
 IV. De la educación:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-A) A recibir de manera preferente del (sic) derecho a la educación que señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, el artículo 6° de la Constitución Política del Estado de Aguascalientes, de conformidad con el artículo 21 de esta Ley; y
+A) A recibir de manera preferente el derecho a la educación que señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, el artículo 6° de la Constitución Política del Estado de Aguascalientes, de conformidad con el artículo 21 de esta Ley; y
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
 
 B) Las instituciones educativas, públicas y privadas deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores; asimismo, todo material educativo autorizado y supervisado por el Instituto de Educación de Aguascalientes, incorporará información actualizada sobre el tema del envejecimiento y de las personas adultas mayores.
 
-V. Del trabajo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2024)</small>
 
-A) A seguir siendo parte activa de la sociedad, recibiendo en consecuencia la oportunidad de ser ocupado en trabajos, actividades lucrativas o voluntarias, conforme a. su profesión, oficia o habilidad manual, aprovechando de esta manera sus habilidades, sin más restricción que sus limitaciones físicas o mentales declaradas por autoridad médica o legal competente;
+V.- Del trabajo y sus capacidades económicas:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 1 DE JULIO DE 2024)</small>
+
+A) A seguir siendo parte activa de la sociedad, recibiendo en consecuencia la oportunidad de ser ocupado en trabajos, actividades lucrativas o voluntarias, conforme a su profesión, oficio o habilidad manual, aprovechando de esta manera sus habilidades, sin más restricción que sus limitaciones físicas o mentales declaradas por autoridad médica o legal competente;
 
 B) A formar parte de las bolsas de trabajo de las instituciones oficiales y particulares;
 
-C) A recibir capacitación para desempeñarse en actividades laborales acordes a su edad y capacidad; y
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+C) A recibir capacitación para desempeñarse en actividades laborales acordes a su edad y capacidad;
 
-D) Acceder a las oportunidades de empleo que promuevan a (sic) las instituciones oficiales o los particulares, en instalaciones que garanticen su seguridad e integridad personal;
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
+D) Acceder a las oportunidades de empleo que promuevan las instituciones oficiales o los particulares, en instalaciones que garanticen su seguridad e integridad personal;
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+E) A gozar de igualdad de oportunidades en el acceso al trabajo o de otras opciones que les permitan un ingreso propio y desempeñarse en forma productiva tanto tiempo como lo deseen; y
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+F) A ser sujetos de acciones y políticas públicas de parte de las instituciones estatales y municipales, a efecto de fortalecer su plena integración social.
 
 VI. De la asistencia social:
 
@@ -324,6 +356,38 @@ E) A formar parte de los diversos órganos de representación y consulta ciudada
 F) A recibir reconocimientos o distinciones por su labor, trayectoria o aportaciones al Estado; y
 
 G) A formar grupos y asociaciones de apoyo mutuo y de participación en la vida social y comunitaria, que permitan a la sociedad en su conjunto aprovechar su capacidad, experiencia y conocimiento.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2024)</small>
+
+VIII. De la denuncia popular:
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+A) Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las personas adultas mayores.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2024)</small>
+
+IX. Del acceso a los Servicios:
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+A) A tener una atención preferente en los establecimientos públicos y privados que prestan servicios al público;
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+B) A que los establecimientos de uso público implementen medidas para facilitar el uso y/o acceso adecuado a los servicios; y
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+C) A contar con asientos preferentes en los establecimientos que prestan servicios al público y en los servicios de autotransporte de pasajeros.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2024)</small>
+
+X. De la información.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+A) A tener acceso a la información de manera plural, oportuna y accesible, la cual será garantizada por el Estado.
 
 ## TÍTULO TERCERO. DE LA FAMILIA Y DE LA SOCIEDAD
 
@@ -1700,6 +1764,14 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 P.O. 1 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 623.- SE REFORMAN LA LEY DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS ADULTASMAYORES; Y, LA LEY PARA LA PROTECCIÓN ESPECIAL DE LOS ADULTOS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 716.- SE REFORMA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
