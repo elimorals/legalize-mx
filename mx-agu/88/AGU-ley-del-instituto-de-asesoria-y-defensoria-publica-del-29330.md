@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-instituto-de-asesoria-y-defensoria-publica-del-29330"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-17"
-last_updated: "2021-04-19"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de marzo de 2003.
 
@@ -239,7 +239,9 @@ El Director General del Instituto será designado por el Gobernador del Estado e
 
 El Director General del Instituto deberá reunir para su designación, los requisitos siguientes:
 
-I. Ser ciudadano mexicano por nacimiento, no haber adquirido otra nacionalidad y estar en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+I. Ser ciudadano mexicano y estar (sic) pleno ejercicio de sus derechos civiles y políticos;
 
 II. Tener cuando menos treinta años de edad, el día de su designación;
 
@@ -247,7 +249,9 @@ III. Poseer, al día de la designación, título y cédula profesional de abogad
 
 IV. Acreditar experiencia de cinco años en el ejercicio de la abogacía, relacionada especialmente, con las materias afines a sus funciones; y
 
-V. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+V. Gozar de buena reputación y prestigio profesional.
 
 ###### ARTICULO 11.
 
@@ -321,7 +325,9 @@ III. Tener título y cédula profesional de abogado o licenciado en derecho lega
 
 IV. Contar con experiencia en las materias de su área, de cuando menos tres años de antigüedad; y
 
-V. Gozar de buena reputación, prestigio profesional y no haber sido condenado por delito doloso.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+V. Gozar de buena reputación y prestigio profesional.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -737,11 +743,15 @@ I. Ser ciudadano mexicano en ejercicio de sus derechos políticos y civiles;
 
 II. Contar con título, cédula profesional o documento oficial debidamente registrado que corresponda al área de conocimiento al que pertenezca;
 
-III. Tener como mínimo tres años de experiencia en las materias relacionadas con la prestación de sus servicios;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-IV. Aprobar los exámenes de ingreso y oposición correspondientes; y
+III. Tener como mínimo tres años de experiencia en las materias relacionadas con la prestación de sus servicios; y
 
-V. No haber sido condenado por delito doloso.
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+IV. Aprobar los exámenes de ingreso y oposición correspondientes.
+
+V. (DEROGADA, P.O. 1 DE JULIO DE 2024)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1226,3 +1236,11 @@ El Poder Ejecutivo, contará con un plazo de 180 días naturales para realizar l
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo, conforme a disponibilidad financiera, deberá considerar lo conducente en los subsecuentes Presupuestos de Egresos, a efecto de dar cumplimiento a lo dispuesto en el mismo.
+
+P.O. 1 DE JULIO DE 2024.
+
+> <small>[N. DE E. TRANSTORIO DEL “DECRETO NÚMERO 726.- SE REFORMA LA LEY DEL INSTITUTO DE ASESORÍA Y DEFENSORÍA PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]</small>
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
