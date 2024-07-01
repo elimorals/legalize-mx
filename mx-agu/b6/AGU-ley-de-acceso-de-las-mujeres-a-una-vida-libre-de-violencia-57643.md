@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2024-05-13"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -775,13 +775,13 @@ El Consejo Estatal para la Erradicación de la Violencia de Género contra las M
 
 El Consejo se conformará por:
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-I. La persona titular del Poder Ejecutivo del Estado, quien fungirá en la presidencia honoraria;
+I. La Gubernatura Constitucional del Estado, quien fungirá como Presidenta o Presidente Honorario;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-II. La persona titular de la Secretaria General de Gobierno, quien será el Presidente Ejecutivo del Consejo;
+II. La persona titular de la Secretaría General de Gobierno, quien será la Presidenta Ejecutiva o el Presidente Ejecutivo del Consejo;
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
@@ -837,13 +837,17 @@ XV. Una persona representante de la Comisión de Igualdad Sustantiva y Equidad d
 
 XVI. Tres personas representantes de organizaciones civiles especializadas en la materia;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XVII. Una persona representante del Supremo Tribunal de Justicia del Poder Judicial del Estado; y
+XVII. Una persona representante del Supremo Tribunal de Justicia del Poder Judicial del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XVIII. Dos personas representantes de instituciones de investigación especializados en la materia.
+XVIII. Dos personas representantes de instituciones de investigación especializados en la materia; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2024)</small>
+
+XIX. Una persona representante de la Coordinación del Centro de Justicia para las Mujeres del Estado.
 
 ###### Artículo 37.
 
@@ -2048,6 +2052,14 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 P.O. 13 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 643.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 721.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
