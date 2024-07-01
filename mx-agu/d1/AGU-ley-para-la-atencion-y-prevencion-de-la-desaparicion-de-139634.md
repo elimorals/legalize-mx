@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-atencion-y-prevencion-de-la-desaparicion-de-139634"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-30"
-last_updated: "2024-05-20"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de diciembre de 2019.
 
@@ -179,7 +179,9 @@ Las acciones, medidas y procedimientos establecidos en esta Ley serán diseñado
 
 I. Efectividad y exhaustividad: Todas las diligencias que se realicen para la búsqueda de la Persona Desaparecida o No Localizada se harán de manera inmediata, oportuna, transparente y coordinada entre las autoridades competentes, con base en información útil y científica, encaminadas a su localización y, en su caso, identificación, atendiendo todas las posibles líneas de investigación;
 
-II. Debida diligencia: Todas las autoridades deben utilizar los medios necesarios para realizar con prontitud aquellas actuaciones esenciales y oportunas dentro de un plazo razonable para lograr el objeto de esta Ley, en especial la búsqueda de la Persona Desaparecida o No Localizada; así como la ayuda, atención, asistencia, derecho a la verdad, justicia y reparación integral a fin de que la víctima sea tratada y considerada como titular de derechos. En toda investigación y proceso penal que se inicie por los delitos previstos en la Ley General, las autoridades deben garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz, y realizados con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+II. Debida diligencia: Todas las autoridades deben utilizar los medios necesarios para realizar con prontitud aquellas actuaciones esenciales y oportunas dentro de un plazo razonable para lograr el objeto de esta Ley, en especial la búsqueda de la Persona Desaparecida o No Localizada; así como la ayuda, atención, asistencia, derecho a la verdad, memoria, justicia y reparación integral a fin de que la víctima sea tratada y considerada como titular de derechos. En toda investigación y proceso penal que se inicie por los delitos previstos en la Ley General, las autoridades deben garantizar su desarrollo de manera autónoma, independiente, inmediata, imparcial, eficaz, y realizados con oportunidad, exhaustividad, respeto de derechos humanos y máximo nivel de profesionalismo;
 
 > <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
 
@@ -1022,3 +1024,11 @@ P.O. 20 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciara su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 732.- SE REFORMA LA LEY PARA LA ATENCIÓN Y PREVENCIÓN DE LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
