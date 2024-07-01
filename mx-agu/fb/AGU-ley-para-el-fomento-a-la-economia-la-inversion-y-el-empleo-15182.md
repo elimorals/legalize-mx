@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2023-06-19"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -101,9 +101,17 @@ XIII.- Propiciar las condiciones adecuadas para atraer al Estado inversiones nac
 
 XIV.- Contar con un sistema de información estadística, que contenga variables financieras y económicas, y que permita analizar en la sociedad los efectos de las políticas adoptadas al respecto;
 
-XV.- Impulsar el establecimiento, desarrollo y vigilancia de Unidades Industriales de acuerdo a los lineamientos establecidos en la presente Ley y los reglamentos que al efecto se expidan; y
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XVI.- Promover la creación de condiciones económicas favorables para el desarrollo de las actividades empresariales en la Entidad.
+XV.- Impulsar el establecimiento, desarrollo y vigilancia de Unidades Industriales de acuerdo a los lineamientos establecidos en la presente Ley y los reglamentos que al efecto se expidan;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2024)</small>
+
+XVI.- Impulsar la integración económica de las mujeres, las personas jóvenes y las personas adultas mayores, a través de planes y programas específicos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 1 DE JULIO DE 2024)</small>
+
+XVII.- Promover la creación de condiciones económicas favorables para el desarrollo de las actividades empresariales en la Entidad.
 
 ###### ARTICULO 5º.
 
@@ -610,3 +618,11 @@ P.O. 19 DE JUNIO DE 2023.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 720.- SE REFORMA LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
