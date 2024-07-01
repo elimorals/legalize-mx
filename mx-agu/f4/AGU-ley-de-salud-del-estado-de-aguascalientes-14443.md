@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2024-06-24"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -181,11 +181,13 @@ VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de pr
 
 IX.- Fomentar la integración, organización y funcionamiento de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado, apoyándolos para la realización de programas de capacitación y actualización, a efecto de que coadyuven más eficazmente con el sistema estatal de salud;
 
-X.- (DEROGADA, P.O. 29 DE MAYO DE 2020)
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+X.- Proporcionar cuidados paliativos; y
 
-XI.- Proporcionar cuidados paliativos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2024)</small>
+
+XI.- Promover la actividad física y la alimentación nutritiva, suficiente y de calidad, que contrarresten eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria a toda la población del Estado.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -269,19 +271,19 @@ XXV.- Fomentar, promover y desarrollar unidades administrativas para el almacena
 
 XXVI.- Desarrollar campañas de información, promoción y sensibilización en materia de uso correcto de medicamentos bajo prescripción médica, así como los riesgos para la salud por el uso inadecuado de antibióticos y otros antimicrobianos;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XXVII.- Promover e incorporar enfoques con perspectiva de género a las estrategias, campañas de información, y demás programas en el marco de sus atribuciones para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud Incluyendo la salud sexual y reproductiva;
+XXVII.- Administrar el patrimonio de la beneficencia pública a través del órgano desconcentrado denominado Instituto de Beneficencia Pública del Estado de Aguascalientes, de conformidad con el Titulo Décimo Octavo de la presente Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XXVIII.- Promover e impulsar que las instituciones del Sistema Estatal de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
+XXVIII.- Desarrollar programas y actividades en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad encaminados a promover hábitos alimentarios adecuados y la activación física, primordialmente en los grupos sociales vulnerables;
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JULIO DE 2024)</small>
 
-XXIX.- Promover la incorporación, uso y aprovechamiento de las tecnologías de la información y de las comunicaciones en los servicios de salud; y
+XXIX.- Impulsar, en coordinación con los Municipios y el Instituto de Educación de Aguascalientes, la prevención y el control del sobrepeso, obesidad y otros trastornos de conducta alimentaria, la detección y seguimiento de peso, talla e índice de masa corporal y la activación física en los centros escolares de educación básica; y
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXVIII, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2024)</small>
 
 XXX.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
@@ -565,9 +567,9 @@ a).- Fomentar la no discriminación ni conculcación de derechos, libertades o d
 
 b).- Salvaguardar en términos de la normatividad aplicable, la confidencialidad de los datos genéticos de todo grupo o individuo, obtenidos o conservados con fines de diagnóstico, prevención, investigación, terapéuticos o para cualquier propósito, salvo en los casos que exista orden judicial; y
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-c).- Para el establecimiento de programas estatales que resulten en políticas públicas progresivas en materia de atención y protección a personas con la condición del espectro autista, en términos de lo previsto por la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista.
+c).- Para el establecimiento de programas estatales que resulten en políticas públicas progresivas en materia de atención y protección a personas con la condición del espectro autista, en términos de lo previsto por la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista. Así como fomentar el crecimiento y desarrollo de las personas con condición del espectro autista en un medio ambiente sano, libre de la contaminación auditiva.
 
 > <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -4810,3 +4812,17 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 722.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTICULO UNICO.
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 731.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
