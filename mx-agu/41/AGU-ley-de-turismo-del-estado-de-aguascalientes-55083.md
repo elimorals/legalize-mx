@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-turismo-del-estado-de-aguascalientes-55083"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2022-09-30"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -695,9 +695,11 @@ Los prestadores y operadores de servicios turísticos de naturaleza o alternativ
 
 ### CAPITULO VII. Del Turismo Social
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
+
 ###### Artículo 44.
 
-El turismo social comprende todos aquellos instrumentos y medios, a través de los cuales se otorgan facilidades para que las personas de recursos limitados, con discapacidad y personas adultas mayores, viajen con fines recreativos, deportivos y/o culturales en condiciones adecuadas de economía, accesibilidad, seguridad y comodidad.
+El turismo social comprende todos aquellos instrumentos y medios, a través de los cuales se otorgan facilidades con equidad, para que las personas viajen con fines recreativos, deportivos y/o culturales en condiciones adecuadas de economía, accesibilidad, seguridad y comodidad.
 
 ###### Artículo 45.
 
@@ -717,17 +719,25 @@ Las Instituciones, dependencias y entidades del sector público promoverán entr
 
 Además recomendarán y procurarán que los sectores social y privado participen en programas que hagan posible el turismo de sus trabajadores en temporadas y condiciones convenientes.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 1 DE JULIO DE 2024)</small>
+
+### CAPITULO VIII. Del Turismo Enológico
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+
+###### Artículo 48 Bis.
+
+El turismo enológico es la actividad turística en donde se promueve la exposición y degustación de vinos del Estado con fines de concurso, competencia, así como la realización de actividades culturales orientadas al conocimiento de la elaboración del vino, desde la siembra de la semilla de la vid, hasta su embotellado.
+
 ### CAPITULO I. De la Planificación de la Actividad Turística
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
-
-### CAPITULO II. De la Promoción y Fomento a la Actividad Turística
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ## TITULO CUARTO. DE LA PLANIFICACION, DESARROLLO Y FOMENTO DEL TURISMO
 
-### CAPITULO III. Del Sistema Estatal de Información Turística
+### CAPITULO II. De la Promoción y Fomento a la Actividad Turística
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 ###### Artículo 49.
 
@@ -771,7 +781,7 @@ La Secretaría, a efecto de establecer una adecuada organización a nivel estata
 
 La Secretaría y el Buró participarán y coadyuvarán, en el ámbito de sus competencias, en los esfuerzos que realicen los gobiernos municipales, así como los sectores social y privado, dentro del proceso integral de planeación turística de cada ayuntamiento.
 
-### CAPITULO IV. Del Registro Estatal de Turismo
+### CAPITULO III. Del Sistema Estatal de Información Turística
 
 ###### Artículo 57.
 
@@ -891,7 +901,7 @@ IX. Proponer la celebración de convenios en materia cinematográfica, e interve
 
 La Secretaría, promoverá la creación de un Consejo Consultivo Cinematográfico, integrado por la administración pública estatal y municipal y el sector social y privado de la localidad, involucrados en la actividad turística. El cual funcionará en los términos del Reglamento respectivo.
 
-### CAPITULO V. De la Capacitación en Materia de Turismo
+### CAPITULO IV. Del Registro Estatal de Turismo
 
 ###### Artículo 77.
 
@@ -923,7 +933,7 @@ Para efectos del artículo anterior, la Secretaría deberá integrar, analizar, 
 
 La Secretaría evaluará periódicamente la actividad turística, para analizar las necesidades turísticas, la oferta y la demanda, así como la calidad de los servicios turísticos que se presenten en la Entidad.
 
-### CAPITULO I. De la Inspección y Vigilancia
+### CAPITULO V. De la Capacitación en Materia de Turismo
 
 ###### Artículo 81.
 
@@ -945,9 +955,7 @@ V. La demás información que el prestador estime necesaria para fines de difusi
 
 La información contenida en el Registro Estatal, será turnada a la Secretaría de Turismo del Gobierno Federal, para mantener actualizado el Registro Nacional de Turismo, así como a las autoridades estatales en materia de turismo.
 
-### CAPITULO II. De las Sanciones
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2021)</small>
+### CAPITULO I. De la Inspección y Vigilancia
 
 ###### Artículo 83.
 
@@ -983,7 +991,9 @@ X. Las demás que sean necesarias para la formación de recursos humanos que req
 
 ## TITULO QUINTO. DE LA INSPECCION, VIGILANCIA Y REGIMEN SANCIONADOR
 
-### CAPITULO III. De las Impugnaciones
+### CAPITULO II. De las Sanciones
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MAYO DE 2021)</small>
 
 ###### Artículo 86.
 
@@ -998,6 +1008,8 @@ En el caso de una infracción que no sea de su competencia, la Secretaría lo co
 ###### Artículo 88.
 
 La Secretaría, en el marco de los convenios de coordinación que al efecto celebre con las autoridades federales, tendrá la facultad de realizar visitas de verificación a los prestadores de servicios turísticos con objeto de constatar el cumplimiento de las disposiciones contenidas en las Normas Oficiales Mexicanas que tengan impacto en la actividad turística, con el objeto de garantizar la calidad de los servicios turísticos y la seguridad e integridad física de los turistas, de los empleados de las empresas turísticas y de los propios prestadores de servicios turísticos.
+
+### CAPITULO III. De las Impugnaciones
 
 ###### Artículo 89.
 
@@ -1158,3 +1170,15 @@ Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través d
 ###### ARTÍCULO UNDÉCIMO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 719.- SE REFORMA LA LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
