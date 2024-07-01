@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "2018-09-27"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -700,6 +700,28 @@ Las Tesorerías Municipales, tendrán acción real para el cobro del Impuesto Pr
 En consecuencia, el procedimiento administrativo de ejecución fiscal, afectará a los predios directamente, cualquiera que sea el propietario o poseedor.
 
 No quedan comprendidas en esta disposición, las multas que se impongan por la comisión de infracciones al presente capítulo, pues dichas sanciones se consideran personales para todos los efectos legales.
+
+> <small>(ADICIONADO, B.O. 1 DE JULIO DE 2024)</small>
+
+ARTICULO 63 BIS.- En el caso del impuesto predial, a los contribuyentes que sean propietarios de predios y que cuenten con certificados que los reconozca como Áreas Destinadas Voluntariamente a la Conservación, emitidos por la Federación, o como Áreas de conservación, emitidos por el Gobierno del Estado, se les podrá realizar una reducción en su monto:
+
+I.- De hasta el 80%, en el caso de predios:
+
+a) Que, cuando menos, el 80% de la superficie total del predio se encuentre destinada a la preservación de los ecosistemas y su funcionalidad a mediano y largo plazo; y
+
+b) Que hayan suscrito acuerdos o contratos constitutivos de servidumbres ecológicas o del derecho real de conservación del predio, en los términos de la legislación ambiental aplicable, con asociaciones civiles sin fines de lucro, mediante los cuales se comprometan a conservarlos durante un plazo que no podrá ser menor a treinta años.
+
+II.- Del 50%, en el caso de predios:
+
+a) Que, cuando menos, el 50% de la superficie total del predio, se encuentre destinada a la preservación de los ecosistemas y su funcionalidad a mediano y largo plazo; y
+
+b) Que hayan suscrito acuerdos o contratos constitutivos de servidumbres ecológicas o del derecho real de conservación del predio, en los términos de la legislación ambiental aplicable, con asociaciones civiles sin fines de lucro, mediante los cuales se comprometan a conservarlos durante un plazo que no podrá ser menor a treinta años.
+
+III.- Del 20%, en el caso de predios que, cuando menos, el 50% de la superficie total se encuentre destinada a la preservación de los ecosistemas y su funcionalidad a mediano y largo plazo, sin haber suscrito acuerdos o contratos constitutivos de servidumbres ecológicas o del derecho real de conservación del predio.
+
+Para obtener las reducciones señaladas en el presente artículo, los contribuyentes deberán presentar la solicitud para la reducción del impuesto predial ante el ayuntamiento correspondiente, debiendo exhibir el certificado que lo reconozca como Área Destinada Voluntariamente a la Conservación, emitido por el Gobierno Federal, o como Área de Conservación, emitido por el Gobierno del Estado, así como la estrategia de manejo o el documento para el manejo del predio, respectivamente, con la zonificación del predio, que demuestre el porcentaje de su superficie total que se encuentra destinada a la preservación de los ecosistemas y su funcionalidad a mediano y largo plazo, y el contrato constitutivo de servidumbres ecológicas o del derecho real de conservación correspondiente.
+
+Los Ayuntamientos podrán emitir una resolución favorable que determine la reducción del impuesto predial respecto a los predios en los que se destine un porcentaje de su superficie a la preservación de los ecosistemas cuando cuenten con el certificado que lo reconozca como Área Destinada Voluntariamente a la Conservación, emitido por el Gobierno Federal, o como Área de Conservación, emitido por el Gobierno del Estado, atendiendo a los servicios ambientales que representan.
 
 ###### ARTICULO 64.
 
@@ -2978,3 +3000,25 @@ B.O. 27 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 62, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE SONORA Y DE LA LEY DE HACIENDA MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora expedirá el manual para el uso de los sellos o distintivos de los productos elaborados o de los servicios prestados de manera sustentable en las áreas naturales protegidas de competencia estatal o en las áreas de conservación, en un plazo no mayor a trescientos cincuenta días naturales, contados a partir de la publicación de este Decreto en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO TERCERO.
+
+La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora establecerá los niveles de certificación de las áreas de conservación referidos en el presente Decreto, en un plazo no mayor a ciento cincuenta días naturales, contados a partir de la publicación de este Decreto en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión de Ecología y Desarrollo Sustentable del Estado de Sonora promoverá y apoyará a los ayuntamientos para que apliquen las reducciones al impuesto predial previstas en el presente Decreto.
+
+ARTÍCULO ÚNICO (SIC).- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora. (SIC)
