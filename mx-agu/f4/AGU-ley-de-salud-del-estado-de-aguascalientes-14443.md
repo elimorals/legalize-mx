@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2024-06-24"
+last_updated: "2024-07-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -181,11 +181,13 @@ VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de pr
 
 IX.- Fomentar la integración, organización y funcionamiento de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud del Estado, apoyándolos para la realización de programas de capacitación y actualización, a efecto de que coadyuven más eficazmente con el sistema estatal de salud;
 
-X.- (DEROGADA, P.O. 29 DE MAYO DE 2020)
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+X.- Proporcionar cuidados paliativos; y
 
-XI.- Proporcionar cuidados paliativos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE JULIO DE 2024)</small>
+
+XI.- Promover la actividad física y la alimentación nutritiva, suficiente y de calidad, que contrarresten eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria a toda la población del Estado.
 
 > <small>(ADICIONADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -269,19 +271,19 @@ XXV.- Fomentar, promover y desarrollar unidades administrativas para el almacena
 
 XXVI.- Desarrollar campañas de información, promoción y sensibilización en materia de uso correcto de medicamentos bajo prescripción médica, así como los riesgos para la salud por el uso inadecuado de antibióticos y otros antimicrobianos;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XXVII.- Promover e incorporar enfoques con perspectiva de género a las estrategias, campañas de información, y demás programas en el marco de sus atribuciones para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud Incluyendo la salud sexual y reproductiva;
+XXVII.- Administrar el patrimonio de la beneficencia pública a través del órgano desconcentrado denominado Instituto de Beneficencia Pública del Estado de Aguascalientes, de conformidad con el Titulo Décimo Octavo de la presente Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
 
-XXVIII.- Promover e impulsar que las instituciones del Sistema Estatal de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
+XXVIII.- Desarrollar programas y actividades en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad encaminados a promover hábitos alimentarios adecuados y la activación física, primordialmente en los grupos sociales vulnerables;
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JULIO DE 2024)</small>
 
-XXIX.- Promover la incorporación, uso y aprovechamiento de las tecnologías de la información y de las comunicaciones en los servicios de salud; y
+XXIX.- Impulsar, en coordinación con los Municipios y el Instituto de Educación de Aguascalientes, la prevención y el control del sobrepeso, obesidad y otros trastornos de conducta alimentaria, la detección y seguimiento de peso, talla e índice de masa corporal y la activación física en los centros escolares de educación básica; y
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXVIII, P.O. 3 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2024)</small>
 
 XXX.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
@@ -565,9 +567,9 @@ a).- Fomentar la no discriminación ni conculcación de derechos, libertades o d
 
 b).- Salvaguardar en términos de la normatividad aplicable, la confidencialidad de los datos genéticos de todo grupo o individuo, obtenidos o conservados con fines de diagnóstico, prevención, investigación, terapéuticos o para cualquier propósito, salvo en los casos que exista orden judicial; y
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
-c).- Para el establecimiento de programas estatales que resulten en políticas públicas progresivas en materia de atención y protección a personas con la condición del espectro autista, en términos de lo previsto por la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista.
+c).- Para el establecimiento de programas estatales que resulten en políticas públicas progresivas en materia de atención y protección a personas con la condición del espectro autista, en términos de lo previsto por la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista. Así como fomentar el crecimiento y desarrollo de las personas con condición del espectro autista en un medio ambiente sano, libre de la contaminación auditiva.
 
 > <small>(ADICIONADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -4811,61 +4813,19 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 30/2017, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL VIGÉSIMO PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO, CON RESIDENCIA EN LA CIUDAD DE MÉXICO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE LA ESPECIALIZACIÓN Y CIRCUITO INDICADOS”.]
+P.O. 1 DE JULIO DE 2024.
 
-PRIMERO. El presente Acuerdo entrará en vigor el once de diciembre de dos mil diecisiete, con excepción de lo previsto en el Transitorio CUARTO, de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 722.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTICULO UNICO.
 
-TERCERO. El Vigésimo Primer Tribunal Colegiado en Materia Administrativa del Primer Circuito, formará parte del Pleno en Materia Administrativa del Primer Circuito, con residencia en la Ciudad de México, de conformidad con lo establecido por el Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; de Creación de Nuevos Órganos; así como de Adscripción.
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+P.O. 1 DE JULIO DE 2024.
 
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 731.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-QUINTO. Se reforma el numeral SEGUNDO, fracción I, número 1 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. …
-
-1. Sesenta y dos tribunales colegiados especializados: diez en materia penal, veintiuno en materia administrativa, catorce en materia civil y diecisiete en materia de trabajo, todos con residencia en la Ciudad de México.
-
-2. a 6. ...
-
-II. a XXXII. …”
-
-D.O.F. 8 DE DICIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 31/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NAUCALPAN DE JUÁREZ; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS”.]
-
-PRIMERO. El presente Acuerdo entrará en vigor el uno de enero de dos mil dieciocho, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
-
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
-
-TERCERO. Los Juzgados de Distrito en el Estado de México, con residencia en Naucalpan de Juárez, conservarán su actual denominación, jurisdicción territorial y competencia, con las excepciones señaladas en el presente Acuerdo.
-
-A fin de equilibrar las cargas de trabajo que llegaren a presentarse en el Juzgado de Distrito en Materia Mercantil Federal en el Estado de México, con residencia en Naucalpan de Juárez, la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal podrá establecer la competencia temporal compartida por parte de los Juzgados de Distrito actualmente en funciones en la misma residencia, para conocer de asuntos mercantiles y comunicaciones relacionadas con éstos que se presenten en ese circuito, así como regular el turno, total o parcial, de éstos.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones. El órgano jurisdiccional deberá contar con una sala para la celebración de las audiencias orales, así como con un sistema informático y de videograbación para el registro de éstas por medios electrónicos que garanticen su fidelidad, integridad, preservación, la reproducción de su contenido y el acceso a quienes tuvieren derecho a ello.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción II, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. …
-
-II. …
-
-1. a 2. ...
-
-3. Veintiocho Juzgados de Distrito en el Estado de México; siete de Procesos Penales Federales y seis especializados en materia de Amparo y Juicios Federales, todos con residencia en Toluca; diez Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
-
-III. a XXXII. …”
-
-D.O.F. 15 DE DICIEMBRE DE 2017.
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 37/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON RESIDENCIA EN ZAPOPAN, JALISCO; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL Y EL DIVERSO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
 
