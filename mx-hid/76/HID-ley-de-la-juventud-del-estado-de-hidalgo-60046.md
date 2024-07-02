@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-06-14"
+last_updated: "2024-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -653,9 +653,25 @@ V.- Cuidar, en la medida de sus posibilidades, a sus ascendientes en su enfermed
 
 VI.- Colaborar en el trabajo familiar y comunitario, en la medida de sus posibilidades;
 
-VII.- Conservar el medio ambiente; y
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2024)</small>
 
-VIII.- Cuidar su salud.
+VII.- Conservar el medio ambiente;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2024)</small>
+
+VIII.- Cuidar su salud;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2024)</small>
+
+IX.- Procurar y promover las acciones necesarias para el mejoramiento de las condiciones de vida en la entidad;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2024)</small>
+
+X.- Participar y procurar mantenerse informado de la toma de decisiones del Instituto y de instancias correspondientes que involucren temas de juventud, y
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2024)</small>
+
+XI.- Actuar con respeto hacia los derechos de las personas, grupos y segmentos de la sociedad a través de la cultura de la paz, la tolerancia, la democracia y el compromiso social.
 
 Ningún abuso o violación de sus derechos podrá considerarse válido ni justificarse por el incumplimiento de sus deberes.
 
@@ -1484,3 +1500,9 @@ P.O. 14 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 978 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO Y LA LEY DEL EJERCICIO PROFESIONAL DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1000 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 54 DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
