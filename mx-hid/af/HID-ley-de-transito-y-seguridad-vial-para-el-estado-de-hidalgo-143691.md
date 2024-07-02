@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transito-y-seguridad-vial-para-el-estado-de-hidalgo-1436
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-20"
-last_updated: "2024-01-19"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2020.
 
@@ -1593,9 +1593,17 @@ III.- Transite sobre las aceras y áreas reservadas al uso de peatones;
 
 IV.- Transporte cargas que dificulten su visibilidad, equilibrio, adecuada operación o constituya peligro para sí u otros usuarios de la vía pública;
 
-V.- No tenga un manejo responsable o realice piruetas o zigzagueos; o
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2024)</small>
 
-VI.- Conduzca entre los carriles de tránsito y entre hileras adyacentes de vehículos.
+V.- No tenga un manejo responsable o realice piruetas o zigzagueos;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2024)</small>
+
+VI.- Conduzca entre los carriles de tránsito y entre hileras adyacentes de vehículos; u
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2024)</small>
+
+VII.- Omita circular por el carril de la extrema derecha de la vía sobre la que circule y no proceder con cuidado al adelantar los vehículos por el lado izquierdo.
 
 C. También serán motivo de infracción a la presente Ley y su reglamento cuando:
 
@@ -1778,5 +1786,11 @@ SEGUNDO. El Poder Ejecutivo del Estado, dentro ciento ochenta días naturales si
 P.O. 19 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 623 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO Y DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1006 QUE REFORMA LA FRACCIÓN V Y VI DEL APARTADO B DEL ARTÍCULO 127 Y SE ADICIONA LA FRACCIÓN VII DEL APARTADO B DEL ARTÍCULO 127, DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
