@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-06-21"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -2819,7 +2819,15 @@ XI BIS.- Coadyuvar con el Ayuntamiento en la elaboración del Programa Municipal
 
 XII.- Administrar, supervisar, controlar y regular los panteones Municipales;
 
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2024)</small>
+
+XII BIS. Procurar que el sistema de archivo opere adecuadamente para el eficaz funcionamiento de los panteones municipales;
+
 XIII.- Administrar y controlar las concesiones de terrenos para inhumaciones;
+
+> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2024)</small>
+
+XIII BIS. Llevar al día y en orden los libros de registro de: inhumaciones, en donde conste el nombre completo, sexo, fecha de inhumación, fecha de refrendo, tipo de derechos, fecha de vencimiento, tipo de construcción, nombre del titular, domicilio, numero de partida del acta de defunción, causa de la muerte y datos que identifiquen el lugar donde fue sepultado;
 
 XIV.- Ejecutar las campañas de vacunación antirrábica y las acciones que eviten la proliferación canina; y
 
@@ -4854,3 +4862,9 @@ P.O. 21 DE JUNIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Para efecto de la emisión de las convocatorias, los Ayuntamientos de la entidad contarán con un término de 60 días naturales contados a partir de la toma de protesta de las próximas administraciones municipales.
+
+P.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 998 POR EL QUE SE ADICIONAN LAS FRACCIONES XII BIS Y XIII BIS AL ARTÍCULO 119 A LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
