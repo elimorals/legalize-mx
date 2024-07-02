@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-mental-del-estado-de-yucatan-130073"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-27"
-last_updated: "2019-07-31"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD MENTAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE JULIO DE 2024.
 
 Ley publicada en el Suplemento al Número 33,665 del Diario Oficial del Estado de Yucatán, el lunes 27 de agosto de 2018.
 
@@ -689,13 +689,25 @@ VIII.- Prevención de las adicciones.
 
 IX.- Prevención de riesgos psicosociales en el trabajo.
 
-X.- Tamizajes en escuelas y comunidades para identificar grupos en riesgo.
+> <small>(REFORMADA, D.O. 2 DE JULIO DE 2024)</small>
+
+X.- Tamizaje universal, de manera permanente, a toda la población, con énfasis en escuelas y comunidades para identificar, canalizar y tratar a personas con trastornos mentales y del comportamiento o trastornos relacionados con el uso de sustancias y riesgo suicida.
+
+Todo personal involucrado en el tratamiento a pacientes con conducta suicida, está obligado a la confidencialidad de la información en torno a estos casos, en apego a lo establecido por la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados.
+
+En caso de tratarse del intento de suicidio de un niño, niña o adolescente, será obligación de la institución médica que primero conozca del caso dar aviso del incidente a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, a efecto de solicitar las medidas de protección que sean necesarias para salvaguardar la integridad física de los mismos.
 
 XI.- Intervención en casos de desastres naturales.
 
-XII.- Creación de comités municipales de salud mental.
+> <small>(REFORMADA, D.O. 2 DE JULIO DE 2024)</small>
 
-XIII.- Otras acciones determinadas por las instancias responsables de la salud mental.
+XII.- Creación y operación, de un Consejo Municipal de Salud Mental y Prevención de Adicciones en cada municipio, a cargo de los ayuntamientos, como un órgano de consulta, análisis y asesoría para el desarrollo de planes, programas y proyectos que en (sic) materia de prevención, atención y capacitación.
+
+> <small>(ADICIONADA, D.O. 2 DE JULIO DE 2024)</small>
+
+XIII.- Creación y operación de, Brigadas de Atención a la Salud Mental por parte de los ayuntamientos, los cuales deberán reportar los avances a los Servicios de Salud de Yucatán. Para contribuir adecuadamente, cada municipio recibirá asesoría y capacitación correspondiente.
+
+XIV.- Otras acciones determinadas por las instancias responsables de la salud mental.
 
 ###### Artículo 42.
 
@@ -705,29 +717,29 @@ Los servicios de promoción de la salud y prevención de los trastornos mentales
 
 Los medios masivos de comunicación están obligados a manejar de manera ética, responsable y objetiva la información concerniente a salud mental, incluyendo el tema de la violencia y el suicidio, con especial observancia a la no estigmatización, la no discriminación, al derecho a la confidencialidad y demás derechos mencionados en esta Ley.
 
-### Capítulo VII. De la Atención al Fenómeno Suicida
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 2 DE JULIO DE 2024)</small>
+
+### Capítulo VII. De la Atención al Comportamiento Suicida
+
+> <small>(REFORMADO, D.O. 2 DE JULIO DE 2024)</small>
 
 ###### Artículo 44.
 
-La atención del fenómeno suicida es de carácter prioritario y comprende:
+La atención al comportamiento suicida es de carácter prioritario y comprende:
 
-I.- Examen mental enfocado a pensamientos, planes o intentos de suicidio de las personas que presenten enfermedades o dolor crónicos, autolesiones, depresión o cualquier otro trastorno mental, neurológico y/o por uso de sustancias.
+I.- El tamizaje universal de manera permanente para detectar el riesgo suicida y los factores asociados a este comportamiento, con el fin de informar y otorgar atención especializada a cualquier persona en riesgo de suicidio.
 
-II.- Evaluación y registro de las personas que requieren servicios de urgencias por intoxicación, accidentes o lesiones que puedan sugerir intento de suicidio.
+II.- La atención urgente en hospitales o centros de salud a cualquier persona que acuda con comportamiento suicida, con el fin de establecer un plan de seguridad, darles un tratamiento integral y seguimiento por el tiempo requerido para cada persona en particular, de acuerdo con el Programa Nacional para la Prevención de Suicidio denominado Código Cien.
 
-III.- Atención al núcleo familiar.
+III.- El establecimiento de una red integrada de servicios de salud mental para la atención del comportamiento suicida en el núcleo familiar.
 
-IV.- Atención comunitaria.
+IV.- El registro de casos de ideación, comportamiento e intento suicida, para una adecuada vigilancia epidemiológica y seguimiento oportuno.
 
-V.- Atención médica integral requerida, valoración psiquiátrica y psicológica, y seguimiento a personas con intento suicida y autolesión.
+V.- La detección y acompañamiento o tratamiento a los supervivientes de un suicidio.
 
-VI.- Referencia a urgencias y hospitalización, según el caso.
+VI.- La capacitación continua del personal sanitario y no sanitario, en la detección, atención y seguimiento de las personas con comportamiento suicida.
 
-VII.- Seguimiento periódico inmediato y posterior al núcleo familiar y comunitario.
-
-VIII.- Registro de casos para la vigilancia epidemiológica.
-
-IX.- Grupos de duelo para los supervivientes del suicidio.
+La capacitación incluirá un programa de formación a los trabajadores de la salud, educación, seguridad y justicia en las distintas áreas de prevención asistencial y posvención.
 
 ###### Artículo 45.
 
@@ -1136,3 +1148,19 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 780/2024 POR EL QUE SE MODIFICAN DIVERSOS ARTÍCULOS DE LA LEY DE SALUD MENTAL DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor.
+
+Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Acciones de capacitación.
+
+Artículo segundo. La implementación de las acciones de capacitación a que se refiere el presente Decreto estará sujeta a los recursos que al efecto autorice el Congreso del Estado en el Presupuesto de Egresos de cada ejercicio fiscal.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
