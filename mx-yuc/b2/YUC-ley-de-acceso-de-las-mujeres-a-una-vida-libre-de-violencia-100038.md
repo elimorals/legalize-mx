@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2024-04-26"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE JULIO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de abril de 2014.
 
@@ -177,9 +177,9 @@ Las medidas de atención a que se refiere esta ley corresponderán a los tipos d
 
 I. Violencia económica: es toda acción u omisión del agresor que se manifiesta a través de limitaciones encaminadas a controlar el ingreso de las percepciones económicas de la víctima, en la negación injustificada para obtener recursos económicos, en la exigencia de exámenes de no gravidez, en el incumplimiento de las condiciones de trabajo, en la explotación laboral y en la percepción de un salario menor por igual trabajo dentro de un mismo centro laboral.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 2 DE JULIO DE 2024)</small>
 
-II. Violencia física: es cualquier acción u omisión intencional que cause daño físico a la víctima, aun cuando este no ocasione cicatrices, moretones o cualquier otra marca visible.
+II. Violencia física: Es cualquier acción u omisión que cause o busque causar daño en la integridad física de la mujer, provocando lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
 
 III. Violencia patrimonial: es cualquier acción u omisión que se manifiesta a través de la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes, valores, derechos patrimoniales o recursos económicos de la mujer, independientemente de si se trata de bienes comunes o propios de la víctima.
 
@@ -1964,3 +1964,11 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Y
 Artículo quinto. Régimen de vigencia especial
 
 Hasta en tanto se emitan los lineamientos correspondientes por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, continuará aplicándose el Acuerdo DIF 07/SO/2a/2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014.
+
+D.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 781/2024 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE TENTATIVA DE FEMINICIDIO CAUSADA POR ÁCIDOS O SUSTANCIAS CORROSIVAS”.]
+
+Entrada en vigor
+
+Artículo único. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
