@@ -4,7 +4,7 @@ identifier: "HID-ley-salvaguardia-y-fomento-artesanal-para-el-estado-de-143826"
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2024-01-19"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
 
 Ley publicada en el Alcance Uno al Número 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -117,13 +117,17 @@ VIII.- Reconocer las prácticas artesanales del Estado de Hidalgo como elementos
 
 IX.- Impulsar la igualdad de oportunidades entre mujeres y hombres que formen parte de cualquier grupo artesanal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2024)</small>
+
 ###### Artículo 5.
 
-Las artesanías del estado de Hidalgo son consideradas como parte de su patrimonio, relevante en su historia e identidad, identificadas en las siguientes ramas mismas que se dan a conocer de manera enunciativa más no limitativa:
+Las artesanías del estado de Hidalgo son consideradas como parte de su patrimonio, material e inmaterial, relevante en su historia e identidad, identificadas en las siguientes ramas mismas que se dan a conocer de manera enunciativa más no limitativa:
 
 I.- Alfarería y cerámica
 
-II.- Textiles
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2024)</small>
+
+II.- Bordados y Textiles.
 
 III.- Madera
 
@@ -466,5 +470,11 @@ RÚBRICA
 P.O. 19 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 613 POR EL QUE SE ADICIONA UN CAPÍTULO SEXTO A LA LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1004 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
