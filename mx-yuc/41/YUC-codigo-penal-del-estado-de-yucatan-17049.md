@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2024-04-26"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE JULIO DE 2024.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -2241,13 +2241,17 @@ Las sanciones serán de uno a cinco años de prisión, de tres a cincuenta días
 
 ### CAPÍTULO I. INCUMPLIMIENTO DE OBLIGACIONES DE ASISTENCIA FAMILIAR
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, D.O. 2 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 220.
 
-A quien sin motivo justificado dejare de cumplir el deber de asistencia respecto de sus ascendientes, hijos o cónyuge sin ministrarles los recursos necesarios para atender a su subsistencia, se le aplicará sanción de uno a cuatro años de prisión y de veinte a doscientos días-multa, privación de los derechos de familia y pago como reparación del daño, de las cantidades no ministradas oportunamente por el acusado, desde la fecha en que dejó de cumplir el deber de proporcionar los alimentos, hasta la sentencia condenatoria. Quedan comprendidos en esta disposición como sujetos pasivos el concubinario y la concubina. Cuando el imputado incurriese nuevamente en el mismo delito, la prisión será de tres a seis años.
+A quien sin motivo justificado dejare de cumplir el deber de asistencia respecto de sus ascendientes, hijos o cónyuge, sin ministrarles los recursos necesarios para atender a su subsistencia, se le aplicará sanción de uno a siete años de prisión y de cuarenta y cinco a trescientos días-multa, privación de los derechos de familia y pago como reparación del daño, de las cantidades no ministradas oportunamente por el acusado, desde la fecha en que dejó de cumplir el deber de proporcionar los alimentos, hasta la sentencia condenatoria. Quedan comprendidos en esta disposición como sujetos pasivos el concubinario y la concubina. Cuando el imputado incurriese nuevamente en el mismo delito, la prisión será de cuatro a ocho años. La pérdida de los derechos de familia solo se impondrá cuando se afecte de manera negativa a los acreedores alimentarios.
 
-La pérdida de los derechos de familia solo se impondrá cuando se afecte de manera negativa a los acreedores alimentarios.
+Ante la imposibilidad de comprobar los ingresos del deudor alimentario, para efecto de cubrir las obligaciones o la reparación del daño, se valorará la capacidad económica y el nivel de vida que el deudor alimentario y sus acreedores alimentarios hayan llevado habitualmente durante los últimos dos años.
+
+> <small>(ADICIONADO, D.O. 2 DE JULIO DE 2024)</small>
+
+ARTÍCULO 220 BIS. Se aplicará de seis meses a tres años de prisión y de veinte a ciento cincuenta días-multa a quien sin motivo justificado proporcione alimentos en términos, plazos o porcentajes inferiores a los estipulados en resolución judicial o convenio celebrado ante autoridad competente.
 
 ###### ARTÍCULO 221.
 
@@ -2261,9 +2265,23 @@ Cuando el incumplimiento se refiera a los hijos, a los ascendientes adultos mayo
 
 Para el cumplimiento de lo dispuesto en el párrafo que antecede, se auxiliará del Registro de Deudores Alimentarios Morosos de Yucatán.
 
+> <small>(REFORMADO, D.O. 2 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 222.
 
-A quien dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de obligaciones de asistencia familiar que la ley determina, se le impondrá prisión de uno a seis años.
+A quien dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de obligaciones de asistencia familiar que la ley determina, se le impondrá de uno a ocho años de prisión. La misma sanción será aplicable para quien coadyuve a colocar a deudores alimentarios en el referido estado de insolvencia.
+
+> <small>(ADICIONADO, D.O. 2 DE JULIO DE 2024)</small>
+
+ARTÍCULO 222 BIS. Se impondrá de seis meses a tres años de prisión, y de cincuenta a doscientos días-multa a quien estando obligado a informar acerca de los ingresos de los deudores alimentarios, incumpla con la orden judicial de hacerlo, u omita realizar los descuentos conducentes.
+
+> <small>(ADICIONADO, D.O. 2 DE JULIO DE 2024)</small>
+
+ARTÍCULO 222 TER. A quien simule la percepción de ingresos menores a los reales, la contracción de deudas o cualquier acto tendiente a disminuir el importe de las obligaciones de asistencia familiar que la ley determina, se le impondrán de dos a cuatro años de prisión y de doscientos a quinientos días-multa.
+
+> <small>(ADICIONADO, D.O. 2 DE JULIO DE 2024)</small>
+
+ARTÍCULO 222 QUÁTER. A quien entregue información falsa o viciada, relacionada con los ingresos de los deudores alimentarios, se le impondrá de seis meses a tres años de prisión y de doscientos a cuatrocientos días-multa.
 
 ### CAPÍTULO II. SUSTRACCIÓN DE MENORES
 
@@ -4879,6 +4897,10 @@ Quien intente dolosamente privar de la vida a una mujer por las razones de géne
 
 Igualmente se considerará como tentativa de feminicidio a quien teniendo la intención de privar de la vida a una mujer embarazada, provoque el nacimiento prematuro del producto, alteraciones a su salud, ya sea de forma temporal o permanente; o su muerte.
 
+> <small>(ADICIONADO, D.O. 2 DE JULIO DE 2024)</small>
+
+Asimismo, se considerará que comete tentativa de feminicidio, quien, teniendo la intención de privar de la vida a una mujer por razón de género, cause dolosamente quemaduras o lesiones, internas, externas o ambas, con ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que los genere por sí misma o mezclada con otros agentes.
+
 > <small>(ADICIONADO, D.O. 28 DE JUNIO DE 2023)</small>
 
 La tentativa de delito de feminicidio se sancionará con pena de prisión de entre la mitad de la mínima y las dos terceras partes de la máxima de las sanciones previstas para el correspondiente delito consumado; además respecto de la sanción pecuniaria se estará conforme a lo dispuesto en el Capítulo IV del Título IV del Libro Primero de este Código.
@@ -5994,3 +6016,19 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Cláusula derogatoria
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+D.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 779/2024 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE INCUMPLIMIENTO DE OBLIGACIONES DE ASISTENCIA FAMILIAR”.]
+
+Único. Entrada en vigor
+
+Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 781/2024 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE TENTATIVA DE FEMINICIDIO CAUSADA POR ÁCIDOS O SUSTANCIAS CORROSIVAS".]
+
+Entrada en vigor
+
+Artículo único. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
