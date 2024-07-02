@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2023-09-22"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2023.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE SEPTIEMBRE DE 2023 NO APLICA AL ARTICULADO DEL DECRETO 578 PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -2651,13 +2649,15 @@ En caso de duplicidad en los registros, será la dirigencia estatal de cada part
 
 Las candidaturas para Diputados serán registradas por fórmulas y las de Ayuntamientos mediante planillas completas para todos los cargos; en ambos casos se integrarán con los propietarios y suplentes respectivos.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2024)</small>
+
 ###### Artículo 118.
 
 En la totalidad de las solicitudes de registro de las candidaturas a Diputados, que se presenten, se deberá garantizar la paridad de género.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 2021)</small>
+En el caso de las fórmulas de candidatos a diputados por mayoría relativa, cuando menos dos fórmulas deberán de ser integradas por personas menores de 30 años al día de la elección.
 
-Las listas de representación proporcional para Diputados se integrarán por candidaturas de género distinto, alternadamente. Las candidaturas deberán integrarse por fórmulas de propietarios y suplentes del mismo género, salvo que, a solicitud del partido político o candidatura independiente, la suplencia recaiga en una mujer cuando el propietario sea hombre.
+Las listas de representación proporcional para diputados se integrarán por candidaturas de género distinto, alternadamente. Las candidaturas deberán integrarse por fórmulas de propietarios y suplentes del mismo género, salvo que, a solicitud del partido político o candidatura independiente, la suplencia recaiga en una mujer cuando el propietario sea hombre. Cuando menos una fórmula deberá ser integrada por personas menores de 30 años al día de la elección, postulados en alguno de los dos primeros lugares de la lista.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
 
@@ -7300,3 +7300,9 @@ P.O. 22 DE AGOSTO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DE “DECRETO NÚMERO 999 POR EL QUE SE REFORMA EL ARTÍCULO 118 DEL CÓDIGO ELECTORAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
