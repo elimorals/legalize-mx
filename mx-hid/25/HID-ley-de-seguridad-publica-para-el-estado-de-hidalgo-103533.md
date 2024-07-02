@@ -4,7 +4,7 @@ identifier: "HID-ley-de-seguridad-publica-para-el-estado-de-hidalgo-103533"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-10"
-last_updated: "2023-07-25"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -263,9 +263,13 @@ III. El personal operativo de la Policía Industrial Bancaria del Estado de Hida
 
 IV. El personal operativo de los organismos auxiliares.
 
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2024)</small>
+
 ###### Artículo 7.
 
-La función de la seguridad pública se realizará a través de las Instituciones de Seguridad Pública, conforme a lo dispuesto en la Constitución, la Constitución Estatal y en los demás ordenamientos legales aplicables.
+La función de la seguridad pública se realizará a través de las instituciones de seguridad pública, conforme a lo dispuesto en la Constitución, la Constitución Estatal y en los demás ordenamientos legales aplicables.
+
+Los Estados y los Municipios a través de un mando coordinado, podrán hacer efectivo lo previsto en el artículo 115, fracciones III, inciso h) y VII, de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -395,9 +399,9 @@ III. Establecer los programas tendentes a fomentar la perspectiva de género, la
 
 IV. Dictar las disposiciones necesarias para garantizar el orden público; proteger a las personas, sus bienes y sus derechos; prevenir la comisión de delitos e infracciones administrativas, la violencia de género; y, solicitar se otorgue atención y asistencia a las víctimas de delito;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2024)</small>
 
-V. Participar en la investigación de los delitos y persecución de los imputados a través de las instituciones policiales a su mando, por orden del Ministerio Público, en términos de lo señalado por el artículo 21 de la Constitución, 92 Bis de la Constitución Estatal, 132 del Código Nacional, y demás normatividad aplicable;
+V. Participar en la investigación de los delitos y persecución de los imputados a través de las instituciones policiales a su mando, por orden del Ministerio Público, en términos de lo señalado por el artículo 21 de la Constitución, 87 Bis de la Constitución Estatal, 132 del Código Nacional, y demás normatividad aplicable;
 
 VI. Cumplir las obligaciones que establece el Código Nacional de Procedimientos Penales, en relación con el cumplimiento de las medidas cautelares dictadas por autoridades judiciales;
 
@@ -815,9 +819,11 @@ VII. Organismo Desconcentrado.
 
 a) Centro Estatal de Prevención Social de la Violencia, la Delincuencia y Participación Ciudadana de Hidalgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2024)</small>
+
 ###### Artículo 30.
 
-Para el cumplimiento de esta Ley, de los Artículos 21 y 115 de la Constitución y del artículo 92Bis de la Constitución Estatal, los integrantes de las instituciones policiales en su organización y funcionamiento actuarán con base en los siguientes principios:
+Para el cumplimiento de esta Ley, de los Artículos 21 y 115 de la Constitución y del artículo 87 Bis de la Constitución Estatal, los integrantes de las instituciones policiales en su organización y funcionamiento actuarán con base en los siguientes principios:
 
 I. Principio de Territorialidad: Consiste en el conocimiento que debe tener el elemento de Seguridad Pública sobre la extensión territorial de su competencia;
 
@@ -877,7 +883,9 @@ Para el cumplimiento de sus funciones y atribuciones, así como para el desarrol
 
 a) Mando supremo, que lo tendrá el ejecutivo de la Entidad sobre las fuerzas de seguridad pública de ésta.
 
-b) Alto Mando, que estará a cargo del Ministerio Público de la Entidad sobre aquéllas, en términos de lo señalado por los artículos 21 de la Constitución Federal, 92 Bis de la Constitución Estatal y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 2 DE JULIO DE 2024)</small>
+
+b) Alto Mando, que estará a cargo del Ministerio Público de la Entidad sobre aquéllas, en términos de lo señalado por los artículos 21 de la Constitución Federal, 87 Bis de la Constitución Estatal y demás normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2020)</small>
 
@@ -3262,3 +3270,9 @@ P.O. 25 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. A efecto de dar cumplimiento a la adición del artículo 50 bis fracción VI de la Ley de Seguridad Pública para el Estado de Hidalgo, dentro de los dos ejercicios fiscales posteriores al inicio de la vigencia de este Decreto; el gobierno estatal y municipales, deberán realizar los ajustes presupuestales necesarios para implementar su contenido, contemplando en ellos, una partida presupuestaria específica para tales Efectos.
+
+P.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1005 QUE REFORMA EL ARTÍCULO 7, 16 FRACCIÓN V, 30 PÁRRAFO PRIMERO Y 31 PÁRRAFO TERCERO INCISO B) DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
