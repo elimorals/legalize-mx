@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-464-de-educacion-del-estado-libre-y-soberano-de-1447
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-23"
-last_updated: "2024-06-14"
+last_updated: "2024-07-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2020.
 
@@ -493,7 +493,9 @@ VI. Crear mecanismos y estrategias para incentivar el acceso, permanencia, trán
 
 VII. Establecer esquemas de coordinación entre las diferentes instancias de gobierno para asegurar que existan programas de movilidad e intercambio, nacional e internacional, en igualdad de oportunidades y dando especial apoyo a los educandos de los pueblos y comunidades indígenas o afromexicanas, en un marco de inclusión y enriquecimiento de las diferentes culturas.
 
-### Capítulo VII. Educación humanista
+> <small>(REFORMADA SU DENOMINACIÓN , P.O. 2 DE JULIO DE 2024)</small>
+
+### Capítulo VII. Educación Humanista
 
 ###### Artículo 42.
 
@@ -501,9 +503,17 @@ La educación que se imparta en el Estado, se (sic) promoverá un enfoque humani
 
 De igual forma, para resolver situaciones problemáticas de manera autónoma y colectivamente, aplicar los conocimientos aprendidos a situaciones concretas de su realidad y desarrollar sus actitudes y habilidades para su participación en los procesos productivos, democráticos y comunitarios.
 
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2024)</small>
+
+La educación humanista promoverá el derecho a la salud mental, para que cada estudiante tome conciencia de sus procesos cognitivos y de sus emociones, para maximizar sus oportunidades de desarrollo.
+
 ###### Artículo 43.
 
 La autoridad educativa estatal generará mecanismos para apoyar y promover la creación y difusión artística, propiciar el conocimiento crítico, así como la difusión del arte y las culturas. En coordinación con la autoridad educativa federal, adoptará medidas para que, dentro de la orientación integral de los educandos, se promuevan métodos de enseñanza y aprendizaje, con la finalidad de que expresen sus emociones a través de manifestaciones artísticas y se contribuya al desarrollo cultural y cognoscitivo de las personas.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2024)</small>
+
+Con la finalidad de mejorar la cohesión y la integración social, fortaleciendo la creatividad, la resolución de problemas, la intuición, el desarrollo de la memoria y las facultades analíticas, se promoverá como estrategia pedagógica integral al ajedrez.
 
 ### Capítulo VIII. Educación inclusiva
 
@@ -899,9 +909,15 @@ Establecerán disposiciones de carácter general a que deberán sujetarse el exp
 
 Las autoridades educativas estatal y municipal establecerán una coordinación con la Secretaría de Salud, desarrollarán estrategias para verificar que en las escuelas públicas y privadas de nivel básico, medio superior y superior, los alimentos que se expendan o proporcionen contengan un adecuado índice de valor nutricional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JULIO DE 2024)</small>
+
 ###### Artículo 79.
 
-Las autoridades educativas estatal y municipal coadyuvarán con la autoridad federal en el establecimiento de las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, las autoridades educativas considerarán las Normas Oficiales Mexicanas respectivas.
+Las autoridades educativas estatal y municipal coadyuvarán con la autoridad federal en el establecimiento de las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros. En materia de la promoción de la salud escolar, las autoridades educativas considerarán las Normas Oficiales Mexicanas respectivas y las recomendaciones de tratados y convenios internacionales de los que México es parte.
+
+> <small>(ADICIONADO, P.O. 2 DE JULIO DE 2024)</small>
+
+Las autoridades competentes en el ámbito de sus facultades, fomentarán prioritariamente la educación física en las instituciones educativas de nivel básico, la cual podrá practicarse hasta sesenta minutos diarios para maximizar el sano desarrollo de las y los educandos, fortaleciendo los hábitos saludables, el deporte educativo y la recreación. La autoridad educativa procurará de manera progresiva, los recursos humanos y financieros necesarios.
 
 ###### Artículo 80.
 
@@ -1844,3 +1860,33 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Comuníquese el presente Decreto a la Titular del Poder Ejecutivo y al Titular de la Secretaría de Educación Guerrero para su conocimiento.
 
 TERCERO. Dese amplia difusión al presente Decreto en formato Braille, en Lengua de Señas Mexicana y en todos los mecanismos posibles que garanticen el principio de accesibilidad, para todos los tipos de discapacidades.
+
+P.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 837 POR EL QUE SE ADICIONA EL PÁRRAFO TERCERO DEL ARTÍCULO 42, DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
+
+P.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 838 POR EL QUE SE ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 43 DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
+
+P.O. 2 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 839 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 79, DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
