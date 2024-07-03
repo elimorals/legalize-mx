@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-caminos-y-aeropistas-de-oaxaca-6912"
 country: "mx"
 rank: "ley"
 publication_date: "1989-05-27"
-last_updated: "2024-04-30"
+last_updated: "2024-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE CAMINOS Y AEROPISTAS DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de mayo de 1989.
 
@@ -387,11 +387,11 @@ Ser miembro del Consejo Consultivo tendrá carácter honorífico.
 
 ### CAPITULO IV. Disposiciones Generales
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 18.
 
-Las relaciones laborales entre Caminos Bienestar, se regirán por la Ley del Servicio Civil para los Empleados del Gobierno del Estado, considerándose como trabajadores de confianza al Director, los Jefes de Áreas o Departamentos, Oficina Sección (sic) Residentes, Asesores y demás personal que efectúe labores de inspección vigilancia, dirección o fiscalización.
+Las relaciones laborales entre Caminos Bienestar y sus trabajadores se regirán por la Ley Federal del Trabajo, considerándose como trabajadores de confianza al Director, los Jefes de Áreas o Departamentos, Oficina, Sección, Residentes, Asesores y demás personal que efectúe labores de inspección, vigilancia, dirección o fiscalización.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
@@ -508,3 +508,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Las disposiciones contenidas en el presente Decreto prevalecerán sobre aquellas de igual o menor jerarquía que se le opongan, aun cuando no estén expresamente derogadas.
+
+P.O. 3 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2326.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 18 DE LA LEY DE CAMINOS Y AEROPISTAS DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Las disposiciones contenidas en el presente Decreto prevalecerán sobre aquellas de igualo menor jerarquía que se le opongan, aun cuando o estén expresamente derogadas.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado de Oaxaca, en el plazo de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá armonizar las disposiciones reglamentarias a que haya lugar.
