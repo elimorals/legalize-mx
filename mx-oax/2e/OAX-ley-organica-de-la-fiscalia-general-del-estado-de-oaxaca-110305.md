@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-de-la-fiscalia-general-del-estado-de-oaxaca-110305
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-10-06"
-last_updated: "2023-10-21"
+last_updated: "2024-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 6 de octubre de 2015.
 
@@ -483,15 +483,23 @@ VI. Las demás que se determinen en esta Ley, su Reglamento y otras disposicione
 
 Para el desarrollo de sus funciones, podrá auxiliarse de las Unidades Administrativas de la Fiscalía General, quienes en el ámbito de su competencia deberán proceder en consecuencia.
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2024)</small>
 
 ###### Artículo 11 Ter.
 
-Al frente de la Fiscalía Anticorrupción habrá un Titular que será designado conforme al procedimiento y requisitos previstos en el artículo 114 apartado D de la Constitución Estatal y dejará de ejercer su encargo por renuncia, o podrá ser removido por causales de responsabilidad en los casos previstos en la Constitución Estatal y demás disposiciones aplicables.
+Al frente de la Fiscalía Anticorrupción habrá un Titular que será designado conforme al procedimiento previsto en el artículo 114 apartado D de la Constitución Estatal y dejará de ejercer su encargo por renuncia, o podrá ser removido por causales de responsabilidad en los casos previstos en la Constitución Estatal y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2024)</small>
+
+Para ser Titular de la Fiscalía Anticorrupción, se requiere: ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos; tener cuando menos treinta años cumplidos el día de su designación; contar con antigüedad mínima de cinco años con título profesional de licenciatura en derecho; y no haber sido condenado por delito doloso, ni por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento salarial pertinente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
 
 Su Titular presentará anualmente al Congreso del Estado, un informe sobre actividades sustantivas y sus resultados, el cual será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Oaxaca. Dicho informe será remitido a su vez, al Comité Coordinador del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca.
 
-El Fiscal Anticorrupción intervendrá por sí o por conducto de los Agentes del Ministerio Público en el ejercicio de las atribuciones y facultades conferidas por la Constitución Federal, la Constitución Estatal, esta Ley Orgánica, el Código Nacional de Procedimientos Penales y las demás disposiciones aplicables, en todo el territorio del Estado.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2024)</small>
+
+El Fiscal Anticorrupción intervendrá por sí o por conducto de los Agentes del Ministerio Público, en el ejercicio de las atribuciones y facultades conferidas por el marco jurídico aplicable en todo el territorio del Estado.
 
 > <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2072,3 +2080,13 @@ TERCERO. La Fiscalía General del Estado de Oaxaca tendrá un plazo de dos años
 CUARTO. Los procesos que los órganos sancionadores de la Fiscalía General del Estado de Oaxaca hubieren iniciado hasta antes de la presente reforma se sustanciarán conforme a la normatividad vigente al momento de su inicio, el Reglamento de la Ley Orgánica de la Fiscalía General del Estado para efectos de los procedimientos seguidos ante los órganos sancionadores, deberá prever las áreas necesarias para garantizar la legalidad de los procesos sancionadores.
 
 QUINTO. El Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Oaxaca así como el Reglamento del Servicio Profesional de Carrera de la Fiscalía General del Estado de Oaxaca conforme a la estructura prevista en el presente Decreto, deberá modificarse por el Fiscal General dentro de los ciento veinte días naturales siguientes al de la entrada en vigor del presente Decreto, debiendo publicarse en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 3 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2324.- MEDIANTE EL CUAL SE REFORMAN EL PRIMER Y EL ÚLTIMO PÁRRAFO, Y SE ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EL ORDEN DE LOS PÁRRAFOS SUBSECUENTES DEL ARTÍCULO 11 TER DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan al presente Decreto.
