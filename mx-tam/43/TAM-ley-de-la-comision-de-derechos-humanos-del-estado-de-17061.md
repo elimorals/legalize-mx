@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-la-comision-de-derechos-humanos-del-estado-de-17061"
 country: "mx"
 rank: "ley"
 publication_date: "1994-02-05"
-last_updated: "2021-07-14"
+last_updated: "2024-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 5 de febrero de 1994.
 
@@ -96,6 +96,10 @@ La Comisión tendrá las siguientes atribuciones:
 I.- Procurar la defensa de los derechos humanos por parte de todas las autoridades y servidores públicos que actúen en el ámbito del Estado;
 
 II.- Promover y fomentar el respeto de los derechos humanos en la Entidad;
+
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2024)</small>
+
+II Bis.- Promover la cultura de la paz;
 
 III.- Recibir quejas y denuncias sobre presuntas violaciones de los derechos humanos;
 
@@ -902,3 +906,11 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-867 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN II BIS AL ARTÍCULO 8o. DE LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
