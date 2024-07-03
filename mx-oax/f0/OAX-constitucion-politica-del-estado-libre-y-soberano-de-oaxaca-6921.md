@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2024-04-30"
+last_updated: "2024-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -6751,13 +6751,17 @@ CUARTO.- Se abroga el Acuerdo 1232 de fecha 14 de abril de 2021, publicado en el
 
 QUINTO.- Se abroga el Decreto 2828 de fecha 29 de septiembre de 2021.
 
-SEXTO.- Se extingue el Comité de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción, creado mediante Decreto 1236 de fecha 30 de junio de 2015 y publicado en el Periódico Oficial del Estado de Oaxaca el 30 de junio de 2015.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2024)</small>
+
+SEXTO.- Se extingue el Comité de Participación Ciudadana del Sistema Estatal de Combate a la Corrupción creado mediante decreto 1263 de fecha 30 de junio del 2015 y publicado en el Periódico Oficial del Estado de Oaxaca el 30 de junio del 2015.
 
 SÉPTIMO.- Se abroga el Decreto 602 por el que se creó la Ley Estatal de Combate a la Corrupción de fecha 3 de mayo de 2017, publicado en el Periódico Oficial del Estado de Oaxaca el 20 de mayo de 2017.
 
-OCTAVO.- Hasta en tanto se expida la nueva Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca, los asuntos que deben pasar para su atención a otra dependencia u organismo federal, permanecerán en el último trámite que hubieren alcanzado a la entrada en vigor del presente Decreto hasta que se incorporen a las nuevas instancias, a excepción de los trámites urgentes o sujetos a plazos improrrogables, mismos que deberán despacharse, en términos del presente Decreto y de las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2024)</small>
 
-Se faculta (sic) la Secretaría de Administración, Secretaría de Finanzas y Secretaría de Honestidad, Transparencia y Función Pública para que en el ámbito de sus facultades y atribuciones cumplan con el objeto del presente Decreto, sin que para ello sean considerados patrón sustituto o responsable solidario para el cumplimiento de las obligaciones contractuales o laborales.
+OCTAVO.- Hasta en tanto se expida la nueva Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca, los asuntos que deben pasar para su atención a otra dependencia u organismo federal, permanecerán en el último trámite que hubieren alcanzado a la entrada en vigor del presente decreto hasta que se incorporen a las nuevas instancias a excepción de los trámites urgente (sic) o sujetos a plazos improrrogables, mismos que deberán despacharse, en términos del presente decreto y de las disposiciones aplicables.
+
+Se faculta (sic) la Secretaría de Administración, Secretaría de Finanzas y Secretaría de Honestidad Transparencia y Función Pública, para que en el ámbito de sus facultades y atribuciones cumplan con el objeto del presente Decreto.
 
 NOVENO.- El Honorable Congreso del Estado Libre y Soberano de Oaxaca, con fundamento en el último párrafo del artículo 113 de la Constitución Política de los Estados Unidos Mexicanos, por única ocasión nombrará a un total de nueve ciudadanas y ciudadanos que integrarán una Comisión de Selección por un período de tres años, de la siguiente manera:
 
@@ -6770,3 +6774,21 @@ El cargo de integrante de la Comisión de Selección será honorario. Quienes fu
 DÉCIMO.- El Honorable Congreso del Estado Libre y Soberano de Oaxaca, dentro del plazo de treinta días hábiles contados a partir de la publicación del presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, deberá expedir la Ley del Sistema Estatal de Combate a la Corrupción del Estado de Oaxaca.
 
 DÉCIMO PRIMERO.- Se abrogan y en su caso derogan todas aquellas disposiciones legales, administrativas y reglamentarias que sean contrarias a lo establecido en el presente Decreto.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2024)</small>
+
+DÉCIMO SEGUNDO.- Los nombramientos por condición laboral de Mandos Medios y Superiores otorgados desde la creación de la Secretaría Ejecutiva del Sistema Estatal de Combate a la Corrupción, quedan sin efecto, por lo que los servidores públicos salientes deberán realizar las transferencias y procesos de entrega - recepción correspondientes.
+
+> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2024)</small>
+
+DÉCIMO TERCERO.- Se faculta al Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Estatal de Combate a la Corrupción para que en sesión extraordinaria nombre a un encargado de despacho para que, dentro del plazo máximo de 120 días naturales contados a partir de la publicación del presente Decreto, concluya ante las instancias competentes los trámites administrativos de índole presupuestal, contable, fiscal y en materia de transparencia, para dar cumplimiento del mismo, sin que, para ello, sea considerado patrón sustituto, o responsable solidario para el cumplimiento de las obligaciones contractuales o laborales.
+
+P.O. 3 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2325.- MEDIANTE EL CUAL SE REFORMAN LOS TRANSITORIOS SEXTO Y OCTAVO, Y SE ADICIONAN LOS TRANSITORIOS DÉCIMO SEGUNDO Y DÉCIMO TERCERO, TODOS DEL DECRETO NÚMERO 2278 DEL ÍNDICE DE LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL, MEDIANTE EL QUE SE REFORMÓ EL ARTÍCULO 120 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
