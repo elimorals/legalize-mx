@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2024-05-08"
+last_updated: "2024-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -477,9 +477,9 @@ V. Solicitar a la Secretaría de Administración del Gobierno de Tamaulipas, la 
 
 VI. Representar al Gobierno del Estado de Tamaulipas en los Comités Hidráulicos de los Distritos de Riego y de Temporal Tecnificado;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2024)</small>
 
-VII. Celebrar convenios con instituciones de educación superior o con organizaciones de los sectores social o privado, tendientes a fomentar y promover actividades de investigación en temas inherentes al agua;
+VII. Celebrar convenios de colaboración con la Secretaría de Educación de Tamaulipas y con organizaciones de los sectores social o privado, con la finalidad de impulsar programas que fomenten la investigación, cultura y cuidado del agua desde el tipo de educación básica, media superior y superior en el Estado;
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
@@ -3431,4 +3431,12 @@ P.O. 8 DE MAYO DE 2024.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 3 DE JULIO DE 2024.
+
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-843 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXI, Y SE ADICIONA UNA FRACCIÓN XXII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL PARA SER XXIII, DEL ARTÍCULO 34, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-864 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII, DEL PÁRRAFO 1, DEL ARTÍCULO 6, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
