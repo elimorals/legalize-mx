@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-prevencion-de-la-violencia-en-el-entorno-95998"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-17"
-last_updated: "2023-07-12"
+last_updated: "2024-07-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 17 de septiembre de 2013.
 
@@ -231,9 +231,13 @@ XIII. Elaborar y difundir materiales educativos para la prevención, tratamiento
 
 XIV. Coordinar acciones con organizaciones de la sociedad civil, asociaciones de madres y padres de familia y vecinales, con el objeto de fomentar su participación en los programas de prevención que establece esta Ley;
 
-XV. Sancionar en términos de lo dispuesto en esta Ley; y
+> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2024)</small>
 
-XVI. Las demás que le señale esta Ley, su Reglamento y las disposiciones legales aplicables.
+XV. Diseñar e instrumentar estrategias educativas, tendientes a generar ambientes basados en una cultura de paz y libres de todo tipo de violencia, hostigamiento y acoso, dentro de la comunidad escolar;
+
+XVI. Sancionar en términos de lo dispuesto en esta Ley; y
+
+XVII. Las demás que le señale esta Ley, su Reglamento y las disposiciones legales aplicables.
 
 ###### ARTÍCULO 8.
 
@@ -982,6 +986,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-593 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-865 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XV, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 7 DE LA LEY PARA LA PREVENCIÓN DE LA VIOLENCIA EN EL ENTORNO ESCOLAR DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
