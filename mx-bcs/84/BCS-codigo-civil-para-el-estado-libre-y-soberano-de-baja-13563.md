@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2024-05-31"
+last_updated: "2024-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JULIO DE 2024.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -895,21 +895,55 @@ III.- Fecha de Nacimiento: Se rectificara conforme a los datos consignados en el
 
 IV.- Sexo del Registrado: De acuerdo a lo señalado en el comprobante de nacimiento original o en el caso de disconformidad de los registros que lleva este Servicio.
 
-(NOTA: EL 13 DE JUNIO 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 132/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A PARTIR DE LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 4 DE JULIO DE 2024)</small>
 
 ###### Artículo 144 Ter.
 
-Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género y cambio de nombre, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas MAYORES DE EDAD que requieran el reconocimiento de su identidad de género.
+Pueden pedir el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género y cambio de nombre, previa la anotación correspondiente en su acta de nacimiento primigenia, quienes requieran el reconocimiento de su identidad de género.
 
-El reconocimiento respectivo se llevará a cabo ante las instancias y las autoridades correspondientes del Registro Civil del Estado cumpliendo todas las formalidades que exige su Reglamento.
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2024)</small>
 
-Se entenderá por identidad de género la convicción personal e interna, tal como cada persona se percibe así misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento para el reconocimiento de la identidad de género.
+El reconocimiento respectivo se llevará a cabo ante las instancias y las autoridades correspondientes del Registro Civil del Estado cumpliendo todas las formalidades que exige este Código.
+
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2024)</small>
+
+Se entenderá por identidad de género la forma como cada persona se percibe y, por tanto, se da a sí misma, como consecuencia de asumir la convicción y autodefinición de pertenecer a un género determinado, en relación con las construcciones sociales de masculinidad, feminidad o no binariedad.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
 
 Los efectos de la nueva acta de nacimiento para identidad de género realizados serán oponibles a terceros desde de su (sic) levantamiento.
 
-Los derechos y obligaciones contraídas con anterioridad al proceso administrativo para el reconocimiento de identidad de género, cambio de nombre y a la expedición de la nueva acta, no se modificarán ni se extinguen con la nueva identidad jurídica de la persona; incluidos los provenientes de las relaciones propias del derecho de familia en todos sus órdenes y grados, los que se mantendrán inmodificables.
+> <small>(REFORMADO, B.O. 4 DE JULIO DE 2024)</small>
+
+Tratándose personas menores de edad, el procedimiento se realizará a través del padre y la madre, tutor o persona que tenga la custodia legal, con la asistencia de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, para lo cual, el Registro Civil, deberá recabar su consentimiento expreso, libre e informado de la persona menor de edad, en el que exteriorice su deseo y conozca los alcances del trámite.
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2024)</small>
+
+Cuando la autoridad del Registro Civil o la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado adviertan que el desarrollo evolutivo, cognoscitivo y madurez de la persona en cuestión no sea el óptimo conforme a su edad, deberá recabar un dictamen de un especialista médico psicológico solo para el efecto de determinar si comprende el significado y alcance de lo que pretende realizar a efecto de que no sea manipulado.
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2024)</small>
+
+Cuando por cualquier causa se niegue o sea imposible obtener el consentimiento del padre y la madre, tutor o la persona que tenga la custodia legal de la persona menor de edad, ésta podrá acudir ante la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, la cual deberá prestarle asistencia legal para recurrir a la vía jurisdiccional, debiéndose tener en cuenta la autonomía progresiva, el interés superior de la niñez y el estándar más alto de protección a sus derechos humanos. Dicho procedimiento será sumario, conforme a lo siguiente:
+
+a) En el escrito de demanda de levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género y cambio de nombre, se ofrecerán las pruebas con que se cuente y con el auto de admisión del mismo se dará vista al Ministerio Público y se correrá traslado al Oficial de Registro Civil, así como al padre y la madre, tutor o la persona que tenga la custodia legal de la persona menor de edad, por el término de cinco días hábiles para que produzcan su contestación;
+
+b) Si transcurrido el término señalado en el inciso anterior el Oficial del Registro Civil, así como el padre y la madre, tutor o la persona que tenga la custodia legal de la persona menor de edad no hubieren contestado la demanda, se les tendrá por contestada en sentido afirmativo;
+
+c) Una vez contestada la demanda o dada por contestada en los términos prevenidos, se citará a las partes para el desahogo de pruebas y alegatos, debiendo señalarse la audiencia en un plazo no mayor de diez días hábiles a partir de que se tenga por contestada la demanda;
+
+d) Concluido el desahogo de las pruebas, se presentarán los alegatos en la misma audiencia y previa citación, de oficio, se pronunciará sentencia definitiva dentro del término de diez días hábiles;
+
+e) Se enviará al Oficial del Registro Civil, copia certificada de la sentencia ejecutoriada cuando esta conceda el levantamiento de una nueva acta de nacimiento para el reconocimiento de la identidad de género y cambio de nombre, a efecto de que se proceda en consecuencia conforme a lo dispuesto por el artículo 144 Quater del presente Código, en un plazo que no excederá de tres días hábiles;
+
+f) Las demás cuestiones procedimentales se sujetarán a lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares.
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2024)</small>
+
+El procedimiento y la expedición de acta de nacimiento por registro, cambio, rectificación o adecuación del nombre y demás componentes de la identidad de las personas menores de edad, mediante la emisión de un acta nueva, será gratuito.
+
+> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2024)</small>
+
+Dicho procedimiento será confidencial y la nueva acta no deberá reflejar los cambios de la identidad de género y cambio de nombre. Asimismo, los efectos del procedimiento no alteran en forma alguna la titularidad de los derechos y las obligaciones jurídicas contraídas previamente, ni las provenientes de las relaciones propias del derecho de familia.
 
 > <small>(ADICIONADO, B.O. 31 DE JULIO DE 2021)</small>
 
@@ -917,11 +951,17 @@ Los derechos y obligaciones contraídas con anterioridad al proceso administrati
 
 Para realizar el levantamiento de una nueva acta de nacimiento para el reconocimiento de identidad de género y cambio de nombre, las personas interesadas deberán presentar:
 
-I. Solicitud debidamente requisitada; en la que conste el consentimiento libre de que se reconozca su identidad de género;
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2024)</small>
 
-II. Copia certificada del acta de nacimiento; y
+I.- Solicitud debidamente requisitada, en la que conste la voluntad expresa, libre e informada de que se reconozca su identidad de género, así como manifestar el nombre sin apellidos y el género solicitados;
 
-III. Original y copia fotostática de su identificación oficial.
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2024)</small>
+
+II.- Manifestar el nombre completo y los datos registrales asentados en el acta primigenia; y
+
+> <small>(REFORMADA, B.O. 4 DE JULIO DE 2024)</small>
+
+III.- Original y copia fotostática de su identificación oficial, excepto cuando se trate de menores de edad en cuyo caso se deberá presentar la identificación del padre y la madre, tutor o persona que tenga la custodia legal.
 
 El levantamiento se realizará en la Dirección Estatal del Registro Civil o en el lugar en el que se llevó a cabo la declaración de nacimiento. Se procederá de inmediato a hacer la anotación y la reserva correspondiente. En el caso de que se realice en la Dirección Estatal del Registro Civil, éste dará aviso a aquél donde se encuentre el acta de nacimiento primigenia.
 
@@ -16296,3 +16336,11 @@ B.O. 31 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 3038 SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 192 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 194, AMBOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
 
 ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 4 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3049 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Titular del Poder Ejecutivo del Estado contará con 90 días hábiles para la adecuación de todas las disposiciones reglamentarias y administrativas materia del presente Decreto. Asimismo, la Dirección Estatal del Registro Civil deberá capacitar a las y los servidores públicos adscritos a dicha dependencia, a fin de sensibilizar y concientizar en la materia de derechos humanos, como el derecho a la igualdad, no discriminación, identidad de género y libre desarrollo de la personalidad.
