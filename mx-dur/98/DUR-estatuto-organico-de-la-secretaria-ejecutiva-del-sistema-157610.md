@@ -4,7 +4,7 @@ identifier: "DUR-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-157610
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-05-10"
-last_updated: "2022-05-26"
+last_updated: "2024-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA LOCAL ANTICORRUPCIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2024.
 
 Estatuto publicado en el No. 37 del Periódico Oficial del Estado de Durango, el jueves 10 de mayo de 2018.
 
@@ -307,7 +307,9 @@ X. Observar las normas y bases para la adquisición, arrendamiento y enajenació
 
 XI. Analizar y aprobar en su caso, los informes periódicos que rinda el Secretario Técnico en cada sesión ordinaria;
 
-XII. Aprobación y publicación de los estados financieros de la Secretaría Ejecutiva y disponer que su publicación se realice en la plataforma de transparencia y otros;
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2024)</small>
+
+XII. Conocer de los estados financieros de la Secretaría Ejecutiva;
 
 XIII. Votar los acuerdos, asuntos y resoluciones que se sometan a su consideración, salvo que medie excusa o impedimento debidamente aprobados por los integrantes del Órgano de Gobierno; y
 
@@ -1398,3 +1400,9 @@ P.O. 26 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "ACUERDO.- POR EL QUE SE DEROGA EL ARTÍCULO 43 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA LOCAL ANTICORRUPCIÓN DEL ESTADO DE DURANGO EN SU CAPÍTULO V DEL ÓRGANO INTERNO DE CONTROL".]
 
 ÚNICO. El presente Acuerdo por el que se deroga el artículo 43 del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Local Anticorrupción del Estado de Durango entrará en vigor al día siguiente de su aprobación, y para su debida observancia se ordena su publicación en el Periódico Oficial del Gobierno del Estado de Durango, en términos de lo dispuesto por los artículos 1, 8 fracción VI y 9 de la Ley del Periódico Oficial del Gobierno del Estado de Durango, así lo acuerdan y firman los integrantes del Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Local Anticorrupción del Estado de Durango, dentro de la Primera Sesión Ordinaria 2022 celebrada con fecha (07) siete de abril de (2022) dos mil veintidós, ante la Secretaria Técnica.
+
+P.O. 4 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 12 DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA LOCAL ANTICORRUPCIÓN".]
+
+ÚNICO. El presente Acuerdo por el que se reforma la fracción XII del artículo 12 del Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Local Anticorrupción del Estado de Durango entrará en vigor al día siguiente de su aprobación, y para su debida observancia se ordena su publicación en el Periódico Oficial del Gobierno del Estado de Durango, en términos de lo dispuesto por los artículos 1, 8 fracción VI y 9 de la Ley del Periódico Oficial del Gobierno del Estado de Durango, así lo acuerdan y firman los integrantes del Órgano de Gobierno de la Secretaría Ejecutiva del Sistema Local Anticorrupción del Estado de Durango, dentro de la Primera Sesión Ordinaria 2024 celebrada con fecha (23) veintitrés de mayo de (2024) dos mil veinticuatro, ante el Secretario Técnico.
