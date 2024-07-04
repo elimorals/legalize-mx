@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-premio-estatal-de-periodismo-del-estado-de-campeche-422
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2004-12-16"
+last_updated: "2024-07-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DEL PREMIO ESTATAL DE PERIODISMO DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DEL PREMIO ESTATAL DE PERIODISMO DEL ESTADO DE CAMPECHE, PUBLICADA EN EL P.O. DE 4 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DEL PREMIO ESTATAL DE PERIODISMO DEL ESTADO DE CAMPECHE.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el 16 de diciembre de 2004.
 
@@ -168,3 +170,17 @@ En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII d
 Dado en el Palacio de Gobierno del Estado, en Campeche, el día diez de Diciembre del año dos mil cuatro.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, C. P. JORGE CARLOS HURTADO VALDEZ.- EL SECRETARIO DE GOBIERNO, LIC. CARLOS FELIPE ORTEGA RUBIO.-Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DEL PREMIO ESTATAL DE PERIODISMO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley del Premio Estatal de Periodismo del Estado de Campeche, publicada en el Periódico Oficial del Estado el día 16 de diciembre de 2004.
+
+TERCERO.- Por única ocasión el premio a que se refiere el presente decreto en su edición 2024, se entregará el día 8 de septiembre de dicha anualidad.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
