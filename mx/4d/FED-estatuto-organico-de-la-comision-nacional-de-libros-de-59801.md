@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-de-libros-de-59801"
 country: "mx"
 rank: "estatuto"
 publication_date: "2008-03-05"
-last_updated: "2008-03-05"
+last_updated: "2024-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59801&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2007-08-21"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL DE LIBROS DE TEXTO GRATUITOS
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL DE LIBROS DE TEXTO GRATUITOS
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE LIBROS DE TEXTO GRATUITOS, PUBLICADO EN EL D.O.F. DE 5 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE LIBROS DE TEXTO GRATUITOS
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE JULIO DE 2024 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 5 de marzo de 2008.
 
@@ -540,3 +542,15 @@ Segundo.- Se abroga el Reglamento Interior de "la Comisión", publicado en el Di
 Tercero.- Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto por este Estatuto Orgánico.
 
 El Presidente de la Junta Directiva de la Comisión Nacional de Libros de Texto Gratuitos, Josefina Eugenia Vázquez Mota.- Rúbrica.- El Secretario de la Junta Directiva de la Comisión Nacional de Libros de Texto Gratuitos, Ramón Díaz de León Espino.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL DE LIBROS DE TEXTO GRATUITOS".]
+
+Primero.- El presente Estatuto Orgánico se aprueba en la Primera Sesión Ordinaria de la H. Junta de Gobierno de la Comisión Nacional de Libros de Texto Gratuitos celebrada el día veinte de marzo del año dos mil veinticuatro y entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abroga el Estatuto Orgánico de la Comisión Nacional de Libros de Texto Gratuitos, publicado en el Diario Oficial de la Federación el 05 de marzo de 2008.
+
+Tercero.- Se derogan las disposiciones internas de carácter administrativo que se opongan a lo previsto por este Estatuto Orgánico.
