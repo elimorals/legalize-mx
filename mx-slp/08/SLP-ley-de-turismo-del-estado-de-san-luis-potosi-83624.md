@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2023-06-23"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -341,11 +341,15 @@ XXXII. Proponer y aplicar las políticas concernientes a la investigación, actu
 
 XXXIII. Coadyuvar con el Ejecutivo Federal para la clasificación de establecimientos hoteleros y de hospedaje, en los términos de la regulación correspondiente, así como difundir la clasificación entre los prestadores de servicio del Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2024)</small>
 
-XXXIV. Implementar y publicitar mediante convenios con los prestadores de servicios turísticos del Estado, programas de facilidades, descuentos o promociones aplicables a residentes de la Entidad, con el fin de impulsar el turismo local interno, y
+XXXIV. Implementar y publicitar mediante convenios con los prestadores de servicios turísticos del Estado, programas de facilidades, descuentos o promociones aplicables a residentes de la Entidad, con el fin de impulsar el turismo local interno;
 
-XXXV. En general, ejercer todas aquellas facultades y actos que le otorgue esta Ley, así como otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2024)</small>
+
+XXXV. Promover, entre los prestadores de servicios turísticos, la adhesión a los programas nacionales vigentes en materia de certificación turística, y
+
+XXXVI. En general, ejercer todas aquellas facultades y actos que le otorgue esta Ley, así como otras disposiciones legales.
 
 ###### ARTICULO 9°.
 
@@ -1432,3 +1436,11 @@ P.O. 23 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1065.- SE REFORMA LA FRACCIÓN XXXIV; Y ADICIONA LA FRACCIÓN XXXV, TODAS AL ARTÍCULO 8°, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
