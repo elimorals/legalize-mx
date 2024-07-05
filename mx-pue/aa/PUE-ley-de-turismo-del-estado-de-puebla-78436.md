@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2023-04-20"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -317,13 +317,17 @@ VIII.- Coordinar con las demás dependencias y entidades estatales y municipales
 
 IX.- Crear y consolidar Centros Turísticos en las regiones o municipios con actividad turística, en los que habrán de considerarse los diseños urbanos y arquitectónicos de la zona, preservando el equilibrio ecológico y garantizando la comercialización de los servicios turísticos en congruencia con el desarrollo económico y social de las regiones del Estado;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2024)</small>
 
-X.- Impulsar la promoción, desarrollo turístico y consolidación de los pueblos mágicos del Estado; y
+X.- Impulsar la promoción, desarrollo turístico y consolidación de los pueblos mágicos del Estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2024)</small>
 
-XI.- Conocer y opinar sobre los Programas Municipales de Turismo y verificar su congruencia con el Programa Estatal de Turismo.
+XI.- Conocer y opinar sobre los Programas Municipales de Turismo y verificar su congruencia con el Programa Estatal de Turismo; y
+
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2024)</small>
+
+XII.- Verificar que los prestadores de turismo cuenten con los mecanismos necesarios que garanticen que las personas con discapacidad y las personas adultas mayores tengan acceso a los servicios turísticos en condiciones adecuadas.
 
 ###### Artículo 15.
 
@@ -349,9 +353,17 @@ IX.- Promover con la Secretaría de Cultura y la de Educación Pública del Esta
 
 X.- Coadyuvar con otras Dependencias y Entidades de la Administración Pública Estatal, para impulsar proyectos productivos y de inversión turística, que cumplan con las disposiciones legales y normativas aplicables;
 
-XI.- Promover con la Secretaría de Desarrollo Rural, el desarrollo de la pesca deportivo-recreativa, en términos de la legislación aplicable; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2024)</small>
 
-XII.- Las demás previstas en éste y otros ordenamientos.
+XI.- Promover con la Secretaría de Desarrollo Rural, el desarrollo de la pesca deportivo-recreativa, en términos de la legislación aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2024)</small>
+
+XII.- Fomentar en coordinación con las autoridades competentes la participación de las personas adultas mayores y de las personas con discapacidad en actividades de atención al turismo, particularmente las que se refieren al rescate y transmisión de la cultura y de la historia; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE JULIO DE 2024)</small>
+
+XIII.- Las demás previstas en este y otros ordenamientos.
 
 ###### Artículo 16.
 
@@ -411,7 +423,9 @@ I.- La elaboración de sus programas municipales de turismo;
 
 II.- La creación, en el ámbito de su competencia, los medios de apoyo y fomento a la inversión en materia turística en el Municipio de que se trate;
 
-III.- La promoción y coordinación de las obras de servicios públicos necesarios para la adecuada atención al turista y el desarrollo del turismo en el Municipio;
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2024)</small>
+
+III.- La promoción y coordinación de las obras de servicios públicos necesarios para la adecuada atención al turista y el desarrollo del turismo en el Municipio, garantizando la accesibilidad de las personas con discapacidad y las personas adultas mayores a los servicios turísticos;
 
 IV.- En general, promover la planeación, programación, fomento, desarrollo, verificación y vigilancia de la actividad turística; y
 
@@ -649,9 +663,19 @@ b) El desarrollo turístico se planifica y gestiona de forma que no cause serios
 
 c) La calidad ambiental se mantiene y mejora;
 
-d) Se procura mantener un elevado nivel de satisfacción de los visitantes y el destino retiene su prestigio y potencial comercial, y
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2024)</small>
+
+d) Se procura mantener un elevado nivel de satisfacción de los visitantes y el destino retiene su prestigio y potencial comercial;
 
 e) Los beneficios del turismo se reparten ampliamente entre toda la sociedad.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2024)</small>
+
+f) La protección del patrimonio cultural tangible e intangible de los municipios, comunidades, ejidos y poblaciones indígenas y afromexicanas, cuyos elementos están reconocidos y regulados por las leyes en materia de cultura; y
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2024)</small>
+
+g) El respeto por las tradiciones y costumbres de las comunidades, ejidos y poblaciones indígenas y afromexicanas, salvaguardando la dignidad e integridad de las personas.
 
 ###### Artículo 37.
 
@@ -681,15 +705,19 @@ VII.- La protección de la arquitectura de los inmuebles donde se vayan a presta
 
 ### CAPÍTULO VIII. DEL TURISMO ACCESIBLE
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2024)</small>
+
 ###### Artículo 40.
 
-La Secretaría, con el apoyo y en coordinación de las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto incluir y beneficiar a las personas con alguna discapacidad.
+La Secretaría, con el apoyo y en coordinación con las dependencias y entidades competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto incluir y beneficiar a las personas con alguna discapacidad y personas adultas mayores.
 
-Los Ayuntamientos en el ámbito de su competencia, promoverán la prestación de servicios señalados en el párrafo anterior, que tengan por objeto incluir y beneficiar a la población con alguna discapacidad.
+Los Ayuntamientos en el ámbito de su competencia, promoverán la prestación de servicios señalados en el párrafo anterior, que tengan por objeto incluir y beneficiar a la población con alguna discapacidad y personas adultas mayores.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2024)</small>
 
 ###### Artículo 41.
 
-Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad cuenten con accesibilidad a los servicios en condiciones adecuadas.
+Los prestadores de servicios turísticos deberán proveer lo necesario para que las personas con discapacidad y personas adultas mayores cuenten con accesibilidad a los servicios en condiciones adecuadas.
 
 La misma obligación tendrán las autoridades competentes respecto de los sitios culturales con afluencia turística.
 
@@ -973,9 +1001,11 @@ La Secretaría colaborará con las dependencias y entidades que tengan a su carg
 
 Para la promoción de los atractivos turísticos del Estado, la Secretaría impulsará la organización de espectáculos, congresos, excursiones, ferias, exposiciones y actividades de interés general, susceptibles de atraer visitantes al Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2024)</small>
+
 ###### Artículo 66.
 
-La Secretaría celebrará convenios con los prestadores de servicios turísticos con el objeto de promover productos turísticos disponibles en los distintos tipos de mercado, estableciendo beneficios a aquellos prestadores de servicios turísticos de menor escala.
+La Secretaría celebrará convenios con los prestadores de servicios turísticos con el objeto de que se determinen precios y condiciones accesibles en beneficio de las personas con discapacidad, personas adultas mayores, personas pensionadas, jubiladas y otros grupos vulnerables, y para promover productos turísticos disponibles en los distintos tipos de mercado, estableciendo beneficios a aquellos prestadores de servicios turísticos de menor escala.
 
 Además promoverá en todos los Municipios del Estado, con la participación de los demás integrantes del sector turístico, la implementación de programas orientados al rescate de la imagen urbana, de los pueblos y ciudades del Estado, especialmente de aquellos que sean de interés turístico.
 
@@ -1207,9 +1237,17 @@ III.- Asistir a los turistas en casos de emergencias o desastres;
 
 IV.- Canalizar y dar seguimiento ante las autoridades competentes, sobre las quejas que reciba del turista en contra de los prestadores de servicios turísticos;
 
-V.- Gestionar ante las autoridades competentes la oportuna y eficaz atención al turista en servicios de transportación, seguridad pública, salud, procuración de justicia y los demás servicios colaterales que requieren los turistas; y
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2024)</small>
 
-VI.- Las demás que sean necesarias para proteger eficientemente los derechos de los turistas.
+V.- Gestionar ante las autoridades competentes la oportuna y eficaz atención al turista en servicios de transportación, seguridad pública, salud, procuración de justicia y los demás servicios colaterales que requieren los turistas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2024)</small>
+
+VI.- Promover la capacitación a los prestadores de servicio (sic) turísticos, en relación al turismo accesible para las personas con discapacidad y personas adultas mayores; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 5 DE JULIO DE 2024)</small>
+
+VII.- Las demás que sean necesarias para proteger eficientemente los derechos de los turistas.
 
 ### CAPÍTULO VI. DE LA COMPETITIVIDAD Y PROFESIONALIZACIÓN EN LA ACTIVIDAD TURÍSTICA
 
@@ -1426,6 +1464,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE ABRIL DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXVII DEL ARTÍCULO 3, EL PRIMER PÁRRAFO DEL 27, Y ADICIONA LAS FRACCIONES XXVIII Y XXIX AL ARTÍCULO 3 Y UN TERCER PÁRRAFO AL ARTÍCULO 27 DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES X Y XI DEL ARTÍCULO 14, LAS FRACCIONES XI Y XII DEL 15, LA FRACCIÓN III DEL 19, EL INCISO D) DEL 36 BIS, EL 40, EL PRIMER PÁRRAFO DEL 41, EL PRIMER PÁRRAFO DEL 66 Y LAS FRACCIONES, V Y VI DEL 88 Y ADICIONA LA FRACCIÓN XII AL ARTÍCULO 14, LA FRACCIÓN XIII AL 15, LOS INCISOS F) Y G) AL 36 BIS Y LA FRACCIÓN VII AL 88, TODOS DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
