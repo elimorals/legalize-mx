@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-obras-publicas-y-servicios-relacionados-con-las-96757"
 country: "mx"
 rank: "ley"
 publication_date: "2013-10-24"
-last_updated: "2024-01-03"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 24 de octubre de 2013.
 
@@ -75,7 +75,7 @@ No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecuta
 
 Para efectos de esta Ley se entenderá por:
 
-I. Auditoría: la Auditoría Superior del Estado de San Luis Potosí;
+I. (DEROGADA, P.O. 5 DE JULIO DE 2024)
 
 II. Cámaras: las asociaciones de personas físicas y morales dedicadas a la industria de la construcción;
 
@@ -1801,13 +1801,17 @@ El Registro Estatal Único de Contratistas deberá ser permanente, y estar a dis
 
 El Registro Estatal Único de Contratistas tendrá únicamente efectos informativos respecto de la inscripción de contratistas, sin que dé lugar a efectos constitutivos de derechos u obligaciones.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 177.
 
-Los órganos de control interno, y la Auditoria Superior del Estado en el ámbito de sus atribuciones, en cualquier tiempo podrán verificar que las obras públicas se realicen conforme a lo establecido en esta Ley, o en otras disposiciones aplicables, así como a los programas y presupuestos autorizados. Asimismo, y en el ejercicio de sus atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las instituciones que realicen obra pública, e igualmente podrán solicitar de los servidores públicos y de los contratistas que participen en ellas, todos los datos e informes relacionados con los actos de que se trate.
+Los órganos de control interno, y el Instituto de Fiscalización Superior del Estado de San Luis Potosí en el ámbito de sus atribuciones, en cualquier tiempo podrán verificar que las obras públicas se realicen conforme a lo establecido en esta Ley, o en otras disposiciones aplicables, así como a los programas y presupuestos autorizados. Asimismo, y en el ejercicio de sus atribuciones, podrán realizar las visitas e inspecciones que estimen pertinentes a las instituciones que realicen obra pública, e igualmente podrán solicitar de los servidores públicos y de los contratistas que participen en ellas, todos los datos e informes relacionados con los actos de que se trate.
+
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 178.
 
-Los órganos de control interno, y la Auditoria Superior del Estado podrán verificar la calidad de los trabajos a través de los laboratorios, instituciones educativas y de investigación, o con las personas que determine en los términos que establece la Ley, y que podrán ser aquéllos con los que cuente la institución de que se trate, siempre y cuando éstos cuenten con la capacidad necesaria para practicarla.
+Los órganos de control interno, y el Instituto de Fiscalización Superior del Estado de San Luis Potosí podrán verificar la calidad de los trabajos a través de los laboratorios, instituciones educativas y de investigación, o con las personas que determine en los términos que establece la Ley, y que podrán ser aquéllos con los que cuente la institución de que se trate, siempre y cuando éstos cuenten con la capacidad necesaria para practicarla.
 
 ###### ARTÍCULO 179.
 
@@ -2448,3 +2452,11 @@ P.O. 3 DE ENERO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1063.- SE REFORMAN LOS ARTÍCULOS 177 Y 178; Y DEROGA LA FRACCIÓN I DEL ARTÍCULO 2º, DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones anteriores sobre la materia, en lo que se opongan a lo establecido por el presente Decreto.
