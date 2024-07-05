@@ -4,7 +4,7 @@ identifier: "COA-ley-del-sistema-estatal-para-la-garantia-de-los-derechos-99963"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-18"
-last_updated: "2024-01-30"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 18 de marzo de 2014.
 
@@ -435,9 +435,9 @@ c) Promover actividades que fortalezcan la promoción y protección de los derec
 
 El Consejo será presidido por la persona titular del Poder Ejecutivo del Estado quien fungirá como Presidente del mismo y tendrá la obligación de incorporar dentro del Plan Estatal de Desarrollo, la política pública que se implementará en el Estado de Coahuila de Zaragoza para garantizar los derechos humanos de niños y niñas.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2024)</small>
 
-Así mismo, contará con una Secretaría Ejecutiva que estará a cargo de la Dirección General del Sistema para el Desarrollo Integral de la Familia y Protección de Derechos del Estado de Coahuila de Zaragoza.
+Así mismo, contará con una Secretaría Ejecutiva que estará a cargo de la Procuraduría para Niños, Niñas y la Familia del Estado de Coahuila de Zaragoza.
 
 ###### Artículo 9.
 
@@ -2152,6 +2152,14 @@ SEGUNDO. El presente decreto entrará en vigor el primero de enero de dos mil ve
 P.O. 30 DE ENERO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 694.- SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 4 Y LA FRACCIÓN II DEL ARTÍCULO 27 DE LA LEY DEL SISTEMA ESTATAL 33 PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA; SE REFORMA EL ARTÍCULO 413, ASÍ COMO EL CUARTO PÁRRAFO DEL ARTÍCULO 648 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 598 BIS, RECORRIENDO EL ULTERIOR, TODOS DE LA LEY PARA LA FAMILIA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 83.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 8, DE LA LEY DEL SISTEMA ESTATAL PARA LA GARANTÍA DE LOS DERECHOS HUMANOS DE NIÑOS Y NIÑAS DEL ESTADO DE COAHUILA DE ZARAGOZA".]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
