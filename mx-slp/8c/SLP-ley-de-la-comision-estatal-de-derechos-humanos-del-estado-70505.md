@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-la-comision-estatal-de-derechos-humanos-del-estado-70505
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-19"
-last_updated: "2024-06-14"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de septiembre de 2009.
 
@@ -1201,13 +1201,11 @@ IX. Rendir anualmente al Congreso del Estado en el mes de enero de cada año, un
 
 La persona titular del Órgano Interno de Control será electa, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros. Durará en su encargo cuatro años, y podrá ser reelecta por una sola vez; y así mismo, no podrá ser removida sino por causa justificada, debidamente fundada y motivada cuando así lo determine el Pleno del Congreso por mayoría de sus integrantes, y el nuevo nombramiento será por el término que le reste a la autoridad sujeta a remoción.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2024)</small>
 
-El Congreso del Estado realizará la elección de la persona titular del órgano Interno de Control bajo el principio de paridad de género. Enrazón (sic) de lo anterior, cada periodo de ejercicio legal se alternará entre una mujer y un hombre, salvo en los casos en que se verifique la reelección para el ejercicio de un segundo periodo, en donde la alternancia se realizará a la conclusión de éste.
+El Congreso del Estado realizará la elección de la persona titular del órgano Interno de Control bajo el principio de paridad de género.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
-
-En la convocatoria pública a que se refiere este artículo, sólo se convocará al género que corresponda en turno ocupar la titularidad del Órgano Interno de Control, en donde la única persona que podrá participar del género opuesto al convocado, lo será aquella quien ocupe la titularidad del Órgano Interno de Control y presente su candidatura para su reelección.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE JULIO DE 2024)</small>
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE DICIEMBRE DE 2019)</small>
 
@@ -1233,13 +1231,11 @@ V. Efectuada la elección, se citará a la persona electa para que rinda la prot
 
 ARTICULO 79 BIS. Las autoridades, Investigadora; y Substanciadora, integrantes del Órgano Interno de Control, serán electas, previa convocatoria pública, por el Congreso del Estado, con el voto de la mayoría de sus miembros. Durarán en su encargo cuatro años, y podrán ser reelectas por una sola vez; no podrán ser removidas sino por causa justificada, debidamente fundada y motivada cuando así lo determine el Pleno del Congreso por mayoría de sus integrantes, y el nuevo nombramiento será por el término que le reste a la autoridad sujeta a remoción.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2024)</small>
 
-El Congreso del Estado realizará la elección de las personas titulares de las autoridades, Investigadora; y Sustanciadora, bajo el principio de paridad de género. En razón de lo anterior, cada periodo de ejercicio legal se alternará entre una mujer y un hombre, salvo en los casos en que se verifique la reelección para el ejercicio de un segundo periodo, en donde la alternancia se realizará a la conclusión de éste.
+El Congreso del Estado realizará la elección de las personas titulares de las autoridades, Investigadora; y Sustanciadora, bajo el principio de paridad de género.
 
-> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2020)</small>
-
-En la convocatoria pública a que se refiere este artículo, sólo se convocará al género que corresponda en turno ocupar las titularidades de las autoridades, Investigadora; y Sustanciadora, respectivamente, en donde las únicas personas que podrán participar del género opuesto al convocado, lo serán aquellas quienes ocupen las titularidades de dichas autoridades, y presenten sus candidaturas para su reelección.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 5 DE JULIO DE 2024)</small>
 
 En la elección de las autoridades, Investigadora; y Substanciadora, el Congreso del Estado se sujetará a lo siguiente:
 
@@ -2052,5 +2048,13 @@ P.O. 14 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1051.- SE REFORMAN LOS INCISOS A) Y C) DE LA FRACCIÓN II DEL ARTÍCULO 82, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL INCISO B) DE LA FRACCIÓN II DE LOS ARTÍCULOS 30 Y 42, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL INCISO A) DE LA FRACCIÓN V DEL ARTÍCULO 47, DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1068.- SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 79 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 79 BIS; Y DEROGA EL PÁRRAFO TERCERO DEL ARTÍCULO 79 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 79 BIS, TODAS DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS DEL ESTADO SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
