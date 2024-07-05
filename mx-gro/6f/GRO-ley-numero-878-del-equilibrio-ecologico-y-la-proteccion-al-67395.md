@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-878-del-equilibrio-ecologico-y-la-proteccion-al-6739
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-03"
-last_updated: "2017-01-20"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67395&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 3 de marzo de 2009.
 
@@ -33,7 +33,9 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-C O N S I D E R A N D O...
+C O N S I D E R A N D O
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en lo dispuesto en los artículos 47 fracción I de la Constitución Política Local y 8 fracción I de la Ley Orgánica del Poder Legislativo en vigor, el Honorable Congreso del Estado, decreta y expide la siguiente:
 
@@ -2119,9 +2121,15 @@ La SEMAREN, solicitará a la Secretaría de Salud del Estado, la realización de
 
 En la construcción de obras o instalaciones que generen ruidos, vibraciones, energía térmica y lumínica, radiaciones electromagnéticas y olores perjudiciales, así como en la operación o funcionamiento de las existentes, deberán llevarse a cabo acciones preventivas y correctivas para evitar los efectos nocivos de tales contaminantes en el equilibrio ecológico y el ambiente.
 
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 179.
 
-Los Municipios llevarán un registro y control de la emisión de ruidos y vibraciones en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales y demás establecimientos dedicados al tratamiento de la salud, estando facultados para la aplicación de las medidas correctivas y sanciones conforme a la reglamentación en la materia.
+La autoridad municipal correspondiente llevará un registro y control de la emisión de ruidos y vibraciones en áreas habitacionales y en las zonas colindantes a guarderías, escuelas, asilos y lugares de descanso, hospitales y demás establecimientos dedicados al tratamiento de la salud.
+
+Asimismo, realizarán el monitoreo de ruido generado por dispositivos sonoros en áreas urbanas, considerando campanas, timbres, sirenas, perifoneo y bocinas con melodía o sonido musical en vehículos, que por su intensidad, duración o frecuencia, implique riesgo, molestia, perjuicio o daño para las personas, para otros seres vivos o para el ambiente, con excepción de vehículos de emergencia como bomberos, protección civil, policía y ambulancias en situaciones de urgencia.
+
+La autoridad municipal correspondiente, está facultada para la aplicación de las medidas correctivas y sanciones conforme a la normatividad en la materia.
 
 ###### ARTÍCULO 180.
 
@@ -3132,3 +3140,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo para que a través de la SEMAREN (Secretaría de Medio Ambiente y Recursos Naturales) y, los Presidentes Municipales del Estado de Guerrero, se realicen acciones tendientes a la difusión de esta campaña, como lo establecen los Artículos 7 fracción VII de la Ley Numero 593 de Aprovechamiento y Gestión Integral de los Residuos Sólidos en el Estado de Guerrero y 229 Fracción V de la Ley Número 878 de Equilibrio Ecológico y Protección al Ambiente del Estado de Guerrero.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en el portal Web del H. Congreso del Estado y en 3 diarios de circulación estatal, para el conocimiento general.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 841 POR EL QUE SE REFORMA EL ARTÍCULO 179 DE LA LEY NÚMERO 878 DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
+
+TERCERO.- Comuníquese el presente Decreto a los 85 Ayuntamientos Municipales y al Consejo Comunitario de Ayutla de los Libres Guerrero, para que en un plazo que no exceda de noventa días naturales posteriores a la entrada en vigor de la presente reforma, deberán expedir el reglamento correspondiente.
+
+CUARTO.- Publíquese el presente Decreto en el portal electrónico de esta Soberanía, para conocimiento general y efectos legales procedentes.
