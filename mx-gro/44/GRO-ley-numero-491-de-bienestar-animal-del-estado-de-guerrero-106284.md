@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-491-de-bienestar-animal-del-estado-de-guerrero-10628
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-26"
-last_updated: "2024-04-30"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 26 de diciembre de 2014.
 
@@ -289,7 +289,41 @@ III. Crear los instrumentos económicos adecuados para incentivar las actividade
 
 IV. Establecer Centros Regionales de Control Animal que tengan como función el apoyar a los centros municipales de control animal;
 
-V. Las demás que le confiera esta Ley, su reglamento y ordenamientos jurídicos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE JULIO DE 2024)</small>
+
+V. Designar a las personas titulares de los zoológicos, bioparques y acuarios, dependientes de la administración pública estatal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN V], P.O. 5 DE JULIO DE 2024)</small>
+
+VI. Las demás que le confiera esta Ley, su reglamento y ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2024)</small>
+
+###### Artículo 9 Bis 1.
+
+Las personas titulares de los zoológicos, bioparques y acuarios dependientes de la administración pública estatal, además de los requisitos establecidos en la Ley Orgánica de la Administración Pública Estatal, deberán cumplir con los siguientes:
+
+a) Poseer título y cédula profesional de Médico Veterinario Zootecnista, Biólogo u otra carrera afín a la materia de atención correspondiente;
+
+b) Contar con experiencia previa en manejo, cuidado, protección y conservación de animales de la vida silvestre, de por lo menos 3 años, y
+
+c) Demostrar conocimientos sobre el cuidado de animales, incluyendo sus necesidades nutricionales, médicas y adaptaciones conductuales, bajo un enfoque de bienestar animal y ético.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2024)</small>
+
+###### Artículo 9 Bis 2.
+
+Para la designación de las personas titulares de los zoológicos, bioparques y acuarios dependientes de la administración pública estatal, se seguirá el procedimiento siguiente:
+
+I. En un plazo no mayor a 30 días naturales posteriores a la ausencia definitiva de la persona titular de alguno de los organismos citados, la o el titular de la SEMAREN emitirá una convocatoria pública y abierta, dirigida a las y los profesionales en medicina veterinaria y zootecnia, biología u otra carrera afín al área de cuidado, protección y manejo de fauna silvestre, a ocupar el cargo de Director o Directora de los Zoológicos, Bioparques y Acuarios, según corresponda.
+
+II. Dicha convocatoria deberá ser publicada en cuando menos dos periódicos de mayor circulación en el estado y en las redes sociales oficiales del gobierno del estado; debiendo contener al menos los requisitos de elegibilidad y los documentos que los acrediten; los plazos de inscripción, así como el procedimiento para su realización; y los términos para realizar el dictamen respectivo;
+
+III. La persona titular de la SEMAREN, en un plazo que no exceda a 30 días de emitida la convocatoria, presentará al Ejecutivo Estatal una terna con los perfiles profesionales más destacados para efecto de su designación;
+
+IV. En el caso de que la convocatoria pública sea declarada desierta, el o la Titular del Poder Ejecutivo, hará la designación directa dentro del plazo de los 10 días hábiles siguientes; y
+
+V. Hasta en tanto no se haga la designación conforme al procedimiento antes mencionado, la servidora o el servidor público inmediato de menor jerarquía fungirá como encargado de despacho.
 
 ###### Artículo 10.
 
@@ -1640,3 +1674,13 @@ PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su pu
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento, sanción y en su caso, para la promulgación y publicación correspondientes.
 
 TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 840 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 491 DE BIENESTAR ANIMAL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase al Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales conducentes.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero.
