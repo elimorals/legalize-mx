@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2023-10-31"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -307,9 +307,31 @@ Los trabajadores que ingresen al servicio cumpliendo los requisitos establecidos
 
 Los encargados de hacer pagos a los trabajadores contribuyentes a los fondos, están obligados a efectuar los descuentos que les ordene la Dirección de Pensiones, en los quince días siguientes a partir de su notificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 28.
 
-Si llegare a ocurrir en cualquier tiempo que los recursos de uno o varios de los fondos no bastaren para cubrir las prestaciones de los trabajadores conforme a esta Ley, el déficit que hubiere será cubierto por las instituciones de administración pública estatal, o municipal en su caso.
+Si llegare a ocurrir en cualquier tiempo que los recursos de uno o varios de los fondos no bastaren para cubrir las prestaciones de los trabajadores activos y pensionados conforme a esta Ley, el déficit que hubiere será cubierto por las instituciones de la administración pública estatal o municipal en su caso, conforme a las disposiciones siguientes.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2024)</small>
+
+La Dirección de Pensiones, deberá solicitar a la Secretaría de Finanzas o su equivalente municipal, previa auditoría y dictamen de uso responsable a que se refiere el último párrafo del artículo 17 de la Ley, en un plazo de seis meses de anticipación a que alguno de los fondos se vea agotado, la asignación de recursos necesarios para enfrentar el déficit que se presente y concluir el ejercicio fiscal en curso, lo anterior con el objeto de cubrir las prestaciones a que tienen derecho los trabajadores activos y pensionados.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2024)</small>
+
+La Secretaría de Finanzas o su equivalente Municipal, una vez enteradas de lo previsto en el párrafo anterior, deberán garantizar el pago de las prestaciones a que tienen derecho los trabajadores y pensionados de conformidad con lo establecido en el artículo 14 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, con cargo a los ingresos excedentes y/o a los respectivos presupuestos de egresos de aquellas instituciones de la administración pública estatal o municipal en su caso.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2024)</small>
+
+La Dirección de Pensiones deberá hacer llegar a la Secretaría de Finanzas o su equivalente municipal, a más tardar en el mes de agosto de cada año, el monto a erogar en el siguiente ejercicio fiscal por concepto de las prestaciones a que tienen derecho los trabajadores activos y pensionados del sector que presente déficit.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2024)</small>
+
+La Secretaría de Finanzas o su equivalente municipal, deberán incluir en la propuesta del presupuesto de egresos el monto a erogar por las prestaciones a que tienen derecho los trabajadores activos y pensionados que formen parte del fondo que presente déficit.
+
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2024)</small>
+
+El Congreso del Estado o su equivalente municipal, verificará que el monto presupuestado para hacer frente al pago de las prestaciones sea incluido en el presupuesto egresos correspondiente.
 
 ###### ARTICULO 29.
 
@@ -2494,5 +2516,13 @@ P.O. 31 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0862.- SE REFORMA EL ARTÍCULO 68, DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1069.- SE REFORMA EL PÁRRAFO PRIMERO; Y ADICIONA LOS PÁRRAFOS, SEGUNDO, TERCERO, CUARTO, QUINTO, Y SEXTO DEL ARTÍCULO 28, DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
