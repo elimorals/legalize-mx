@@ -4,7 +4,7 @@ identifier: "SLP-ley-ambiental-del-estado-de-san-luis-potosi-15777"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-15"
-last_updated: "2023-12-21"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 15 de diciembre de 1999.
 
@@ -2027,6 +2027,10 @@ VIII. De instalación de centros de acopio de residuos sólidos reciclables, tal
 
 IX. De instalación de centros de acopio y canje de residuos sólidos reciclables por productos de la canasta básica.
 
+> <small>(ADICIONADO, P.O. 5 DE JULIO DE 2024)</small>
+
+El Gobierno del Estado a través de la Secretaría de Ecología y Gestión Ambiental podrá celebrar los convenios necesarios con los ayuntamientos cuando estos no puedan llevar a cabo la rehabilitación y cuidado de las áreas verdes.
+
 ## TITULO OCTAVO. DE LAS CONTINGENCIAS AMBIENTALES
 
 ### CAPITULO UNICO
@@ -3818,3 +3822,11 @@ P.O. 21 DE DICIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1064.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 113, DE LA LEY AMBIENTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
