@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2024-06-07"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -189,6 +189,10 @@ XIX. INFONAVIT: Instituto del Fondo Nacional de la Vivienda para los Trabajadore
 
 XX. Personas adultas mayores: toda persona de sesenta años o más de edad;
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2024)</small>
+
+XX BIS. Personas en situación de vulnerabilidad: los núcleos de población que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación y, por lo tanto, requieren de la atención de los sectores público, privado y social para disminuir sus desventajas;
+
 XXI. SHF: Sociedad Hipotecaria Federal;
 
 XXII. Subsidios: recursos públicos que se asignan para el desarrollo de actividades prioritarias de interés general, para apoyar a organismos o instituciones no gubernamentales; proporcionar servicios básicos; promover la cultura; la investigación; fomentar la producción, la inversión, la innovación tecnológica; la generación de empleos o el uso de una nueva maquinaria; compensar costos de producción, de distribución u otros, siempre y cuando su finalidad básica consista en el combate a la pobreza extrema; la atención a zonas marginadas y grupos vulnerables; el rescate de sectores productivos, o la seguridad pública de los habitantes del Estado;
@@ -226,6 +230,8 @@ XXVI. Unidad tanatológica: unidad o área médica enfocada a la atención de pa
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 2009)</small>
 
 XXVII. Atención preferente: es aquélla que obliga a las instituciones públicas, así como sectores sociales y privados, a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 1067 PUBLICADO EN EL P.O. DE 5 DE JULIO DE 2024, SE HACE EL CORRIMIENTO DE LAS FRACCIONES DE ESTE ARTÍCULO, VÉASE PÁGINAS DE LA 4 A LA 5.]</small>
 
 ###### ARTICULO 6°.
 
@@ -321,15 +327,19 @@ XV. A la emisión de una cartilla médica para el control de la salud;
 
 XVI. De asociarse y conformar organizaciones de personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 5 DE JULIO DE 2024)</small>
 
 XVII. Acceder a los servicios de apoyo económico establecido por el artículo 42 de esta Ley;
 
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2024)</small>
+
+XVIII. A la propiedad. Toda persona adulta mayor tiene derecho al uso y goce de sus bienes y a no ser privada de estos por motivos de edad. Ninguna persona adulta mayor puede ser privada de sus bienes, excepto mediante el pago de indemnización justa, por razones de utilidad pública, conforme a lo establecido en la ley de la materia. Las autoridades garantizarán a la persona adulta mayor el ejercicio del derecho a la propiedad, incluida la libre disposición de sus bienes, y para prevenir el abuso y la enajenación ilegal de su propiedad, y
+
 > <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
 
-XVIII. A la información, plural, oportuna y accesible, la cual será garantizada por el Estado. Las instituciones públicas y privadas, a cargo de programas sociales deberán proporcionarles información y asesoría tanto sobre las garantías consagradas en esta Ley como sobre los derechos establecidos en otras disposiciones a favor de las personas adultas mayores, y
+XIX. A la información, plural, oportuna y accesible, la cual será garantizada por el Estado. Las instituciones públicas y privadas, a cargo de programas sociales deberán proporcionarles información y asesoría tanto sobre las garantías consagradas en esta Ley como sobre los derechos establecidos en otras disposiciones a favor de las personas adultas mayores, y
 
-XIX. Los demás que establezca la ley.
+XIX (SIC). Los demás que establezca la ley.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2018)</small>
 
@@ -1374,5 +1384,21 @@ P.O. 7 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1048.- SE REFORMA LA FRACCIÓN XVII Y ADICIONA LA FRACCIÓN XVIII, DEL ARTÍCULO 6°, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1066.- SE ADICIONA LA FRACCIÓN XX BIS AL ARTÍCULO 5°, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1067.- SE REFORMA LA FRACCIÓN XVII; Y ADICIONA UNA FRACCIÓN, XVIII, TODAS DEL ARTÍCULO 6°, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
