@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-rendicion-de-cuentas-y-fiscalizacion-superior-del-117882
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-27"
-last_updated: "2022-02-11"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en la Trigésima Primera Sección del Periódico Oficial del Gobierno Constitucional del Estado de Puebla, el martes 27 de diciembre de 2016.
 
@@ -1499,9 +1499,11 @@ XIX. Conocer el Reglamento Interior de la Auditoría Superior; y
 
 XX. Las demás que deriven de esta Ley, el Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2024)</small>
 
-ARTÍCULO 114 BIS. La Comisión presentará directamente a la Auditoría Superior un informe que contenga las observaciones y las recomendaciones que se deriven del ejercicio de las atribuciones que esta Ley le confiere en materia de evaluación de su desempeño a más tardar el 30 de mayo del año en que presente el Informe General. La Auditoría Superior dará cuenta de su atención al presentar el Informe General del ejercicio siguiente.
+ARTÍCULO 114 BIS. La Comisión presentará directamente a la Auditoría Superior un informe que contenga las observaciones y las recomendaciones que se deriven del ejercicio de las atribuciones que esta Ley le confiere en materia de evaluación de su desempeño en un plazo no mayor a 30 días hábiles posteriores a la fecha en la que se presente el Informe General. La Auditoría Superior dará cuenta de su atención al presentar el Informe General del ejercicio siguiente.
+
+En el supuesto señalado en el quinto párrafo del artículo 56 de la presente Ley, el plazo señalado en el párrafo anterior se computará a partir del día siguiente en el que se presente el Informe General correspondiente.
 
 ## TÍTULO SÉPTIMO. DE LA AUDITORÍA SUPERIOR DEL ESTADO
 
@@ -1968,3 +1970,11 @@ SÉPTIMO. El Congreso del Estado deberá expedir el Reglamento Interno de la Uni
 OCTAVO. Los asuntos en materia de responsabilidad administrativa iniciados con anterioridad a la entrada en vigor del presente Decreto, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 114 BIS DE LA LEY DE RENDICIÓN DE CUENTAS Y FISCALIZACIÓN SUPERIOR DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
