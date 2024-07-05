@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-proteccion-civil-del-estado-de-san-luis-9518
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-06"
-last_updated: "2023-07-31"
+last_updated: "2024-07-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 6 de julio de 2013.
 
@@ -841,11 +841,15 @@ XXVII. Inmuebles en que se ofrezca cualquier tipo de alquiler, venta y manejo de
 
 XXVIII. Los lugares donde se tengan o instalen juegos inflables, brincolines y saltarines; así como a los implementos para su seguridad;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 2024)</small>
 
-XXIX. Establecimientos especializados en adicciones, y
+XXIX. Establecimientos especializados en adicciones;
 
-XXX. Otros establecimientos que por sus características y magnitud sean similares a los enunciados en las fracciones.
+> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2024)</small>
+
+XXX. Aquellos negocios que operan en la vía pública y que hacen uso de tanques de gas, y
+
+XXXI. Otros establecimientos que por sus características y magnitud sean similares a los enunciados en las fracciones.
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2022)</small>
 
@@ -1104,6 +1108,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE JULIO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0799.- SE REFORMAN LOS ARTÍCULOS 34, 35, 36, 37, 38, 39, 40, 41 Y 42, DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 62 EN SU FRACCIÓN XXVIII; Y ADICIONA AL MISMO ARTÍCULO 62 UNA FRACCIÓN, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1070.- SE REFORMA LA FRACCIÓN XXIX Y ADICIONA UNA FRACCIÓN XXX, TODAS DEL ARTÍCULO 62, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
