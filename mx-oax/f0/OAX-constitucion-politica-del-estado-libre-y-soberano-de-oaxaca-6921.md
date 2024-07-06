@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2024-07-03"
+last_updated: "2024-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -163,9 +163,9 @@ VIII. En la interpretación de este derecho deberá prevalecer el principio de m
 
 Nadie debe ser juzgado por leyes privativas ni por tribunales especiales; son necesarias leyes expedidas con anterioridad al hecho y tribunales previamente establecidos por la ley.
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-En el Estado queda prohibida la esclavitud y la discriminación con motivo del origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la condición de migrante, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o reducir los derechos y libertades de los individuos.
+En el Estado queda prohibida la esclavitud y la discriminación con motivo del origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la condición de migrante, la orientación sexual, identidad, expresiones de género y características sexuales, la vestimenta, el estado civil, el estado de indigencia y situación de calle o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o reducir derechos y libertades de los individuos.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -407,13 +407,17 @@ Las autoridades de los municipios y comunidades preservarán el tequio como expr
 
 En el ámbito territorial del Estado Libre y Soberano de Oaxaca, toda persona tiene derecho a la protección de la salud física y mental, este implicará la participación de todos los órganos de (sic) poder público, para que en la medida de sus competencias hagan funcional este derecho fundamental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud. Establecerá la participación del Gobierno del Estado en materia de salubridad general concurrente, atendiendo a lo dispuesto por la Legislación Sanitaria Federal. Asimismo, definirá la competencia del Estado y de los Municipios en materia de salubridad local. La Ley garantizará la extensión progresiva, cuantitativa y cualitativa de los servicios de Salud, con el objeto de garantizar la atención integral a la población oaxaqueña que no cuenta con seguridad social.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2021)</small>
+> <small>[N. DE E. RESPECTO AL ORDEN DE ESTE PÁRRAFO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO.]</small>
 
-En el Estado de Oaxaca se protege y garantiza el derecho a la vida. La vida es un derecho inherente a toda persona, los habitantes del Estado gozaran de todos los derechos y libertades consagradas en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano forma parte, esta Constitución y las leyes que de ella emanen, sin distinción alguna de su origen, raza, color, sexo, preferencia sexual, identidad de género, edad, idioma, religión, opinión política, condición o actividad social.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE JUNIO DE 2015)</small>
+En el Estado de Oaxaca se protege y garantiza el derecho a la vida. La vida es un derecho inherente a toda persona, los habitantes del Estado gozarán de todos los derechos y libertades consagradas en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales de los que el Estado Mexicano forma parte, esta Constitución y las leyes que de ella emanen, sin distinción alguna de su origen, raza, color, sexo, preferencia sexual, identidad de género, la vestimenta, edad, idioma, religión, opinión política, condición o actividad social.
 
-Toda persona tiene derecho a la identidad y a ser registrada inmediatamente después de su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente registrará gratuitamente a todas las personas y expedirá sin costo la primera copia certificada del acta de registro de nacimiento.
+> <small>[N. DE E. RESPECTO AL ORDEN DE ESTE PÁRRAFO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO.]</small>
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+Toda persona tiene derecho a la identidad y a ser registrada inmediatamente después de su nacimiento. El Estado garantizará el cumplimiento de estos derechos, aún y cuando las personas se encuentren en estado de indigencia o situación de calle. La autoridad competente registrará gratuitamente a todas las personas y expedirá sin costo la primera copia certificada del acta de registro de nacimiento.
 
 > <small>(ADICIONADO, P.O. 26 DE JULIO DE 2008)</small>
 
@@ -477,9 +481,11 @@ Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley esta
 
 Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La Ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas y promoverá la asistencia privada.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>[N. DE E. RESPECTO AL ORDEN DE ESTE PÁRRAFO, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE LA HISTORIA LEGISLATIVA DEL PRESENTE ARTÍCULO.]</small>
 
-El Estado garantizara la organización de la niñez, las juventudes, su actividad deportiva cuidando en todo momento la paridad de género, la igualdad, la no discriminación, la diversidad y la inclusión sin distinción de edad, sexo, raza, origen étnico, origen, orientación sexual o condición económica, para su formación cultural integral.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El Estado garantizará la organización de la niñez, las juventudes, su actividad deportiva cuidando en todo momento la paridad de género, la igualdad, la no discriminación, la diversidad y la inclusión sin distinción de edad, sexo, raza, origen étnico, origen, vestimenta, orientación sexual y expresión de género, características sexuales o condición económica, para su formación cultural integral.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2020)</small>
 
@@ -585,7 +591,9 @@ Toda persona tiene derecho a gozar de los beneficios del progreso científico de
 
 A.- Esta Constitución reconoce a los animales como seres sintientes y, en consecuencia, deben recibir trato digno.
 
-En el Estado de Oaxaca toda persona tiene un deber ético y obligación jurídica de respetar la vida y la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral. Su tutela es de responsabilidad común.
+En el Estado de Oaxaca toda persona tiene un deber ético y obligación jurídica de respetar la vida y la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral.
+
+Su tutela es de responsabilidad común.
 
 Las autoridades de los órdenes Estatal y Municipal garantizarán la protección, bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Así mismo, realizarán acciones para la atención de animales en abandono o que hayan sido objeto a que hayan sido objeto (sic) de maltrato.
 
@@ -6794,3 +6802,11 @@ PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2296.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 4 Y LOS PÁRRAFOS NOVENO, DÉCIMO Y VIGÉSIMO QUINTO DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
