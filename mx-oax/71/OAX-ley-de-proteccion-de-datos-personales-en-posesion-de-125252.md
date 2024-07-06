@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-de-datos-personales-en-posesion-de-125252"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-29"
-last_updated: "2023-07-29"
+last_updated: "2024-07-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
 
 Ley publicada en el Extra al Periódico Oficial del Estado de Oaxaca, el miércoles 29 de noviembre de 2017.
 
@@ -53,7 +53,9 @@ La presente Ley es de orden público y de observancia general, reglamentaria de 
 
 Tiene por objeto garantizar y (sic) la privacidad y autodeterminación informativa de toda persona, mediante el establecimiento de bases, principios, obligaciones y procedimientos para asegurar el derecho a la protección de los datos personales que se encuentren en posesión de sujetos obligados en el ámbito estatal y municipal.
 
-El Instituto ejercerá las atribuciones y facultades que le otorga esta Ley, independientemente de las otorgadas en las demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El Órgano Garante ejercerá las atribuciones y facultades que le otorga esta Ley independientemente de las otorgadas en las demás disposiciones aplicables.
 
 Todas las disposiciones de la presente Ley, según corresponda, y en el ámbito de su competencia, son de aplicación y observancia directa para los sujetos obligados.
 
@@ -115,13 +117,17 @@ XIV. Evaluación de impacto en la protección de datos personales: Documento med
 
 XV. Fuentes de acceso público: Aquellas bases de datos, sistemas o archivos que por disposición de ley puedan ser consultados públicamente cuando no exista impedimento por una norma limitativa y sin más exigencia que, en su caso, el pago de una contraprestación, tarifa o contribución. No se considerará fuente de acceso público cuando la información contenida en la misma sea obtenida o tenga una procedencia ilícita, conforme a las disposiciones establecidas por la presente Ley y demás normativa aplicable;
 
-XVI. Instituto: Instituto de Acceso a la Información Pública y Protección de Datos Personales del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+XVI. Órgano Garante: Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca;
 
 XVII. Instituto Nacional: Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales;
 
 XVIII. Ley: Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca;
 
-XIX. Ley de Transparencia: Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+XIX. Ley de Transparencia: Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca:
 
 XX. Ley General: Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados;
 
@@ -155,7 +161,9 @@ d) Gestionar las comunicaciones, operaciones y medios de almacenamiento de los r
 
 XXVII. Plataforma Nacional: La Plataforma Nacional a la que hace referencia el artículo 49, de la Ley General de Transparencia;
 
-XXVIII. Pleno del Instituto: Órgano máximo de gobierno del Instituto;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+XXVIII. Consejo General: El Órgano Colegiado máximo de decisión del Órgano Garante;
 
 XXIX. Remisión: Toda comunicación de datos personales realizada exclusivamente entre el responsable y encargado, dentro o fuera del territorio mexicano;
 
@@ -217,11 +225,11 @@ II. La Ley de Procedimiento y Justicia Administrativa para el Estado de Oaxaca; 
 
 III. El Código de Procedimientos Civiles para el Estado de Oaxaca.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 8.
 
-Son días hábiles para efectos de esta Ley, los que establezca la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, sin perjuicio de que el Pleno del Instituto, pueda habilitar días inhábiles para actuar o para que se practiquen diligencias, cuando haya causa urgente que lo exija, expresando cuál sea ésta y las diligencias que haya que practicarse.
+Son días hábiles para efectos de esta Ley, los que establezca la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, sin perjuicio de que el Consejo General del Órgano Garante pueda habilitar días inhábiles para actuar o para que se practiquen diligencias, cuando haya causa urgente que lo exija, expresando cuál sea ésta y las diligencias que haya que practicarse.
 
 ## Título Segundo. Principios y Deberes
 
@@ -479,9 +487,11 @@ En caso de que ocurra una vulneración a la seguridad, el responsable deberá an
 
 El responsable deberá llevar una bitácora de las vulneraciones a la seguridad en la que se describa ésta, la fecha en la que ocurrió, el motivo de ésta y las acciones correctivas implementadas de forma inmediata y definitiva.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 30.
 
-El responsable deberá informar sin dilación alguna al titular, y según corresponda, al Instituto, las vulneraciones que afecten de forma significativa los derechos patrimoniales o morales, en cuanto se confirme que ocurrió la vulneración y que el responsable haya empezado a tomar las acciones encaminadas a detonar un proceso de revisión exhaustiva de la magnitud de la afectación, a fin de que los titulares afectados puedan tomar las medidas correspondientes para la defensa de sus derechos.
+El responsable deberá informar sin dilación alguna al titular, y según corresponda, al Órgano Garante, las vulneraciones que afecten de forma significativa los derechos patrimoniales o morales, en cuanto se confirme que ocurrió la vulneración y que el responsable haya empezado a tomar las acciones encaminadas a detonar un proceso de revisión exhaustiva de la magnitud de la afectación, a fin de que los titulares afectados puedan tomar las medidas correspondientes para la defensa de sus derechos.
 
 El responsable deberá informar al titular al menos lo siguiente:
 
@@ -563,21 +573,29 @@ VI. Cualquier otro elemento o documento que facilite la localización de los dat
 
 Tratándose de una solicitud de acceso a datos personales, el titular deberá señalar la modalidad en la que prefiere que éstos se reproduzcan. El responsable deberá atender la solicitud en la modalidad requerida por el titular, salvo que exista una imposibilidad física o jurídica que lo limite a reproducir los datos personales en dicha modalidad, en este caso deberá ofrecer otras modalidades de entrega de los datos personales fundando y motivando dicha actuación.
 
-En caso de que la solicitud de protección de datos no satisfaga alguno de los requisitos a que se refiere este artículo, y el Instituto o los organismos garantes no cuenten con elementos para subsanarla, se prevendrá al titular de los datos dentro de los cinco días siguientes a la presentación de la solicitud de ejercicio de los derechos ARCO, por una sola ocasión, para que subsane las omisiones dentro de un plazo de diez días contados a partir del día siguiente al de la notificación.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+En caso de que la solicitud de protección de datos no satisfaga alguno de los requisitos a que se refiere este artículo, y el Órgano Garante o los organismos garantes no cuenten con elementos para subsanarla, se prevendrá al titular de los datos dentro de los cinco días siguientes a la presentación de la solicitud de ejercicio de los derechos ARCO, por una sola ocasión, para que subsane las omisiones dentro de un plazo de diez días contados a partir del día siguiente al de la notificación.
 
 Transcurrido el plazo sin desahogar la prevención se tendrá por no presentada la solicitud de ejercicio de los derechos ARCO.
 
-La prevención tendrá el efecto de interrumpir el plazo que tiene el Instituto, para resolver la solicitud de ejercicio de los derechos ARCO.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+La prevención tendrá el efecto de interrumpir el pazo que tiene el Órgano Garante para resolver la solicitud de ejercicio de los derechos ARCO.
 
 Con relación a una solicitud de cancelación, el titular deberá señalar las causas que lo motiven a solicitar la supresión de sus datos personales en los archivos, registros o bases de datos del responsable.
 
 En el caso de la solicitud de oposición, el titular deberá manifestar las causas legítimas o la situación específica que lo llevan a solicitar el cese en el tratamiento, así como el daño o perjuicio que le causaría la persistencia del tratamiento, o en su caso, las finalidades específicas respecto de las cuales requiere ejercer el derecho de oposición.
 
-Las solicitudes para el ejercicio de los derechos ARCO deberán presentarse ante la Unidad de Transparencia del responsable, que el titular considere competente, a través de escrito libre, formatos, medios electrónicos o cualquier otro medio que al efecto establezca el Instituto y los Organismos garantes, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+Las solicitudes para el ejercicio de los derechos ARCO deberán presentarse ante la Unidad de Transparencia del responsable, que el titular considere competente, a través de escrito libre, formatos, medios electrónicos o cualquier otro medio que al efecto establezca el ÓRGANO Garante y los Organismos garantes, en el ámbito de sus respectivas competencias.
 
 El responsable deberá dar trámite a toda solicitud para el ejercicio de los derechos ARCO y entregar el acuse de recibo que corresponda.
 
-El Instituto, según corresponda, podrán (sic) establecer formularios, sistemas y otros métodos simplificados para facilitar a los titulares el ejercicio de los derechos ARCO.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El Órgano Garante, según corresponda, podrán (sic) establecer formularios, sistemas y otros métodos simplificados para facilitar a los titulares el ejercicio de los derechos ARCO.
 
 Los medios y procedimientos habilitados por el responsable para atender las solicitudes para el ejercicio de los derechos ARCO deberán ser de fácil acceso y con la mayor cobertura posible considerando el perfil de los titulares y la forma en que mantienen contacto cotidiano o común con el responsable.
 
@@ -865,7 +883,9 @@ IV. Facilitar las transferencias de datos personales;
 
 V. Complementar las disposiciones previstas en la normatividad que resulte aplicable en materia de protección de datos personales; y
 
-VI. Demostrar ante el Instituto y/o el Instituto Nacional el cumplimiento de la normatividad que resulte aplicable en materia de protección de datos personales.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+VI. Demostrar ante el Órgano Garante y/o el Instituto Nacional el cumplimiento de la normatividad que resulte aplicable en materia de protección de datos personales.
 
 ###### Artículo 64.
 
@@ -873,11 +893,17 @@ Todo esquema de mejores prácticas que busque la validación o reconocimiento po
 
 I. Cumplir con los parámetros que para tal efecto se emitan, conforme a los criterios que fije el Instituto Nacional; y
 
-II. Ser notificado ante el Instituto de conformidad con el procedimiento establecido en los parámetros señalados en la fracción anterior, a fin de que sean evaluados y, en su caso, validados o reconocidos e inscritos en el registro al que refiere el último párrafo de este artículo.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
 
-El Instituto deberá emitir las reglas de operación de los registros en los que se inscribirán aquellos esquemas de mejores prácticas validados o reconocidos.
+II. Ser notificado ante el Órgano Garante de conformidad con el procedimiento establecido en los parámetros señalados en la fracción anterior, a fin de que sean evaluados y, en su caso, validados o reconocidos e inscritos en el registro al que refiere el último párrafo de este artículo.
 
-El Instituto, podrá inscribir los esquemas de mejores prácticas que hayan reconocido o validado en el registro administrado por el Instituto Nacional, de acuerdo con las reglas que fije este último.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El Órgano Garante deberá emitir las reglas de operación de los registros en los que se inscribirán aquellos esquemas de mejores prácticas validados o reconocidos.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El Órgano Garante, podrá inscribir los esquemas de mejores prácticas que hayan reconocido o validado en el registro administrado por el Instituto Nacional, de acuerdo con las reglas que fije este último.
 
 ###### Artículo 65.
 
@@ -889,19 +915,25 @@ II. Se traten de datos personales sensibles, y
 
 III. se efectúen o pretendan efectuar transferencias de datos personales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 66.
 
-Cuando el responsable pretenda poner en operación o modificar políticas públicas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que a su juicio y de conformidad con esta ley impliquen el tratamiento intensivo o relevante de datos personales, deberá realizar una evaluación de impacto en la protección de datos personales, y presentarla ante el Instituto, quien podrá emitir recomendaciones no vinculantes especializadas en la materia de protección de datos personales.
+Cuando el responsable pretenda poner en operación o modificar políticas públicas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología que a su juicio y de conformidad con esta ley impliquen el tratamiento intensivo o relevante de datos personales, deberá realizar una evaluación de impacto en la protección de datos personales, y presentarla ante el Órgano Garante, quien podrá emitir recomendaciones no vinculantes especializadas en la materia de protección de datos personales.
 
 El contenido de la evaluación de impacto a la protección de datos personales deberá determinarse por el Sistema Nacional.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 67.
 
-Los sujetos obligados que realicen una evaluación al impacto en la protección de datos personales, deberán presentarla ante el Instituto, treinta días anteriores a la fecha en que se pretenda poner en operación o modificar políticas públicas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología, lo anterior para efecto de que se emitan las recomendaciones no vinculantes correspondientes.
+Los sujetos obligados que realicen una evaluación al impacto en la protección de datos personales, deberán presentarla ante el Órgano Garante, treinta días anteriores a la fecha en que se pretenda poner en operación o modificar políticas públicas, sistemas o plataformas informáticas, aplicaciones electrónicas o cualquier otra tecnología, lo anterior para efecto de que se emitan las recomendaciones no vinculantes correspondientes.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 68.
 
-El Instituto deberá emitir las recomendaciones no vinculantes, correspondientes, dentro de los treinta días siguientes a la presentación sobre la Evaluación de impacto en la protección de datos personales de cada responsable.
+El Órgano Garante deberá emitir las recomendaciones no vinculantes, correspondientes, dentro de los treinta días siguientes a la presentación sobre la Evaluación de impacto en la protección de datos personales de cada responsable.
 
 ###### Artículo 69.
 
@@ -949,7 +981,9 @@ IV. Establecer y supervisar la aplicación de criterios específicos que resulte
 
 V. Supervisar, en coordinación con las áreas o unidades administrativas competentes, el cumplimiento de las medidas, controles y acciones previstas en el documento de seguridad;
 
-VI. Dar seguimiento y cumplimiento a las resoluciones emitidas por el Instituto y los organismos garantes, según corresponda;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+VI. Dar seguimiento y cumplimiento a las resoluciones emitidas por el Órgano Garante y los organismos garantes, según corresponda;
 
 VII. Establecer programas de capacitación y actualización para los servidores públicos en materia de protección de datos personales; y
 
@@ -997,25 +1031,35 @@ Para el caso en el que el tratamiento de datos personales sea mayormente de muje
 
 En la designación del titular de la Unidad de Transparencia, el responsable estará a lo dispuesto en la Ley (sic) Transparencia, y demás normativa aplicable.
 
-## Título Octavo. Del Instituto de Acceso a la Información Pública y Protección de Datos Personales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
+
+## Título Octavo. Del Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca
 
 ### Capítulo Único. Naturaleza y atribuciones
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 77.
 
-El Instituto es un organismo público autónomo con personalidad jurídica y patrimonio propios, con autonomía en sus funciones e independencia en sus decisiones y tiene como funciones, promover la transparencia, garantizar el acceso a la información pública de libre acceso y proteger los datos personales en posesión de los sujetos obligados.
+El Órgano Garante es un órgano autónomo del Estado, especializado, independiente, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de salvaguardar el ejercicio de los derechos de acceso a la información pública, la protección de datos personales, garantizar la observación de las normas y principios de buen gobierno, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley General y la Ley de Transparencia.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 78.
 
-La integración, procedimiento de designación y funcionamiento del Instituto estará sujeta a lo dispuesto por la Ley de Transparencia, y demás normatividad aplicable.
+La integración, procedimiento de designación y funcionamiento del Órgano Garante estará sujeta a lo dispuesto por la Ley de Transparencia, y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 79.
 
-El patrimonio y las relaciones laborales del Instituto, quedara sujeto a las disposiciones aplicables para tal efecto que señala la Ley de Transparencia.
+El patrimonio y las relaciones laborales del Órgano Garante, quedara sujeto a las disposiciones aplicables para tal efecto que señala la Ley de Transparencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 80.
 
-Sin perjuicio de otras atribuciones que le sean conferidas en la normatividad que le resulte aplicable, para los efectos de la presente Ley, el Instituto tendrá las siguientes atribuciones:
+Sin perjuicio de otras atribuciones que le sean conferidas en la normatividad que le resulte aplicable, para los efectos de la presente Ley, el Órgano Garante tendrá las siguientes atribuciones:
 
 I. Garantizar el ejercicio del derecho a la protección de datos personales en posesión de sujetos obligados;
 
@@ -1023,13 +1067,17 @@ II. Difundir el derecho de protección de datos personales, haciéndolo accesibl
 
 III. Proporcionar información a las personas acerca de sus derechos materia de tratamiento de datos personales, los procesos de protección y denuncia;
 
-IV. Capacitar a los sujetos obligados en sus obligaciones respecto el tratamiento de datos personales en su posesión; los responsables deberán colaborar con el Instituto y el Instituto Nacional, según corresponda, para capacitar y actualizar de forma permanente a todos sus servidores públicos en materia de protección de datos personales, a través de la impartición de cursos, seminarios, talleres y cualquier otra forma de enseñanza y entrenamiento que se considere pertinente;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+IV. Capacitar a los sujetos obligados en sus obligaciones respecto el tratamiento de datos personales en su posesión; los responsables deberán colaborar con el Órgano Garante y el Instituto Nacional, según corresponda, para capacitar y actualizar de forma permanente a todos sus servidores públicos en materia de protección de datos personales, a través de la impartición de cursos, seminarios, talleres y cualquier otra forma de enseñanza y entrenamiento que se considere pertinente;
 
 V. Promover la cultura de la protección de datos personales para impulsar la inclusión en el sistema educativo estatal y de educación superior, de programas, planes de estudio, asignaturas, libros y materiales que fomenten entre los alumnos la importancia del cuidado, ejercicio y respeto de sus datos personales, así como las obligaciones de las autoridades y de las propias personas al respecto;
 
 VI. Promover con las universidades del Estado u otros organismos o agrupaciones que gocen de reconocimiento, la elaboración e implementación de diplomados, postgrados, maestrías, entre otros, sobre estos temas, aunado a coadyuvar en la impartición y desarrollo de diplomados y posgrados, así como las actividades académicas relativas con este derecho, en todos los niveles educativos entre las instituciones educativas en el Estado;
 
-VII. Promover la impartición del tema de protección de datos personales, a través de clases, talleres, pláticas y foros en educación preescolar, primaria, secundaria y media superior; Impulsar en conjunto con instituciones de educación superior, la integración de centros de investigación, difusión y docencia sobre el derecho a la protección de datos personales que promuevan el conocimiento sobre este tema y coadyuven con el Instituto;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+VII. Promover la impartición del tema de protección de datos personales, a través de clases, talleres, pláticas y foros en educación preescolar, primaria, secundaria y media superior; Impulsar en conjunto con instituciones de educación superior, la integración de centros de investigación, difusión y docencia sobre el derecho a la protección de datos personales que promuevan el conocimiento sobre este tema y coadyuven con el Órgano Garante;
 
 VIII. Fomentar la creación de espacios de participación social y ciudadana que estimulen el intercambio de ideas entre la sociedad, los órganos de representación ciudadana y los responsables;
 
@@ -1079,25 +1127,35 @@ XXVIII. Según corresponda, interponer acciones de inconstitucionalidad en contr
 
 XXIX. Las demás que establezcan otras disposiciones legales y reglamentarias aplicables.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 81.
 
-La integración y funcionamiento del Pleno del Instituto se sujetará a lo señalado en la Ley de Transparencia.
+La integración y funcionamiento del Consejo General del Órgano Garante se sujetará a lo señalado en la Ley de Transparencia.
 
 ## Título Noveno. De los Procedimientos de Impugnación en Materia de Protección de Datos Personales en Posesión de Sujetos Obligados
 
 ### Capítulo I. Disposiciones Comunes a los Recursos de Revisión y Recursos de Inconformidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 82.
 
-El titular o su representante podrán interponer un recurso de revisión ante el Instituto o ante la Unidad de Transparencia, según corresponda, a través de los siguientes medios:
+El titular o su representante podrán interponer un recurso de revisión ante el Órgano Garante o ante la Unidad de Transparencia, según corresponda, a través de los siguientes medios:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE JULIO DE 2024)</small>
 
 I. Por escrito libre en el domicilio del Instituto o la Unidad de Transparencia según corresponda, o en las oficinas habilitadas que al efecto establezcan;
 
 II. Por correo certificado con acuse de recibo;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE JULIO DE 2024)</small>
+
 III. Por los formatos habilitados que para tal efecto emita el Instituto;
 
 IV. Por los medios electrónicos que para tal fin se autoricen; o
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE JULIO DE 2024)</small>
 
 V. Cualquier otro medio que al efecto establezca el Instituto o el Instituto Nacional.
 
@@ -1111,7 +1169,9 @@ I. Identificación oficial;
 
 II. Firma electrónica avanzada o del instrumento electrónico que lo sustituya, o
 
-III. Mecanismos de autenticación autorizados por el Instituto o el Instituto Nacional, según corresponda, publicados mediante acuerdo general en el Diario Oficial de la Federación o el Periódico Oficial del Gobierno del Estado de Oaxaca.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+III. Mecanismos de autenticación autorizados por el Órgano Garante o el Instituto Nacional, según corresponda, publicados mediante acuerdo general en el Diario Oficial de la Federación o el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 La utilización de la firma electrónica avanzada o del instrumento electrónico que lo sustituya eximirá de la presentación de la copia del documento de identificación.
 
@@ -1119,13 +1179,17 @@ La utilización de la firma electrónica avanzada o del instrumento electrónico
 
 Cuando el titular actúe mediante un representante, éste deberá acreditar su personalidad en los siguientes términos:
 
-I. Si se trata de una persona física, a través de carta poder simple suscrita ante dos testigos anexando copia de las identificaciones de los suscriptores, o instrumento público, o declaración en comparecencia personal del titular y del representante ante el Instituto;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+I. Si se trata de una persona física, a través de carta poder simple suscrita ante dos testigos anexando copia de las identificaciones de los suscriptores, o instrumento público, o declaración en comparecencia personal del titular y del representante ante el Órgano Garante;
 
 II. Si se trata de una persona moral, mediante instrumento público.
 
 ###### Artículo 85.
 
 La interposición de un recurso de revisión de datos personales concernientes a personas fallecidas, podrá realizarla la persona que acredite tener un interés jurídico o legítimo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 86.
 
@@ -1145,7 +1209,9 @@ d) Se trate de la resolución que ponga fin al procedimiento de que se trate; y
 
 e) En los demás casos que disponga la ley;
 
-II. Por correo certificado con acuse de recibo o medios digitales o sistemas autorizados por el Instituto y publicados mediante acuerdo general en el Periódico Oficial del Gobierno del Estado de Oaxaca, cuando se trate de requerimientos, emplazamientos, solicitudes de informes o documentos y resoluciones que puedan ser impugnadas;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+II. Por correo certificado con acuse de recibo o medios digitales o sistemas autorizados por el Órgano Garante y publicados mediante acuerdo general en el Periódico Oficial del Gobierno del Estado de Oaxaca, cuando se trate de requerimientos, emplazamientos, solicitudes de informes o documentos y resoluciones que puedan ser impugnadas;
 
 III. Por correo postal ordinario o por correo electrónico ordinario cuando se trate de actos distintos de los señalados en las fracciones anteriores; o
 
@@ -1155,11 +1221,15 @@ IV. Por estrados, cuando la persona a quien deba notificarse no sea localizable 
 
 El cómputo de los plazos señalados en el presente Título comenzará a correr a partir del día siguiente a aquél en que haya surtido efectos la notificación correspondiente.
 
-Concluidos los plazos fijados a las partes, se tendrá por perdido el derecho que dentro de ellos debió ejercitarse, sin necesidad de acuse de rebeldía por parte del Instituto.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+Concluidos los plazos fijados a las partes, se tendrá por perdido el derecho que dentro de ellos debió ejercitarse, sin necesidad de acuse de rebeldía por parte del Órgano Garante.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 88.
 
-Cuando el titular, responsable o cualquier otra autoridad se niegue atender o cumplimentar los requerimientos, solicitudes de información y documentación, emplazamientos, citaciones o diligencias notificadas por el Instituto o facilitar la práctica de las diligencias que hayan sido ordenadas, o entorpezca las actuaciones, tendrán por perdido su derecho para hacerlo valer en algún otro momento del procedimiento, teniendo para el Instituto, ciertos los hechos materia del procedimiento y resolverá con los elementos que disponga.
+Cuando el titular, responsable o cualquier otra autoridad se niegue atender o cumplimentar los requerimientos, solicitudes de información y documentación, emplazamientos, citaciones o diligencias notificadas por el Órgano Garante o facilitar la práctica de las diligencias que hayan sido ordenadas, o entorpezca las actuaciones, tendrán por perdido su derecho para hacerlo valer en algún otro momento del procedimiento, teniendo para el Órgano Garante, ciertos los hechos materia del procedimiento y resolverá con los elementos que disponga.
 
 ###### Artículo 89.
 
@@ -1181,13 +1251,19 @@ VII. Las imágenes fotográficas, páginas electrónicas, escritos y demás elem
 
 VIII. La presunción legal y humana.
 
-El Instituto podrá allegarse de los medios de prueba que considere necesarios, sin más limitaciones que las establecidas en la ley.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-### Capítulo II. Del Recurso de Revisión ante el Instituto
+El Órgano Garante podrá allegarse de los medios de prueba que considere necesarios, sin más limitaciones que las establecidas en la ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
+
+### Capítulo II. Del Recurso de Revisión ante el Órgano Garante
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 90.
 
-El titular, representante o aquella persona que acredite tener interés jurídico o legítimo de la resolución de la solicitud para el ejercicio de derechos ARCO, emitida por el responsable, podrá interponer recurso de revisión ante el Instituto o la Unidad de Transparencia del responsable, dentro del plazo de quince días después de notificada la resolución de la solicitud.
+El titular, representante o aquella persona que acredite tener interés jurídico o legítimo de la resolución de la solicitud para el ejercicio de derechos ARCO, emitida por el responsable, podrá interponer recurso de revisión ante el Órgano Garante o la Unidad de Transparencia del responsable, dentro del plazo de quince días después de notificada la resolución de la solicitud.
 
 Transcurrido el plazo previsto para dar respuesta a una solicitud para el ejercicio de los derechos ARCO, sin que se haya efectuado ésta, el titular, o en su caso, su representante podrán interponer el recurso de revisión dentro de los quince días siguientes al que haya vencido el plazo para dar respuesta.
 
@@ -1235,31 +1311,45 @@ V. En su caso, copia de la respuesta que se impugna y de la notificación corres
 
 VI. Los documentos que acrediten la identidad del titular, y en su caso, la personalidad e identidad de su representante.
 
-Al recurso de revisión se podrán acompañar las pruebas y demás elementos que considere el titular procedentes someter a juicio del Instituto.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+Al recurso de revisión se podrán acompañar las pruebas y demás elementos que considere el titular procedente someter a juicio del Órgano Garante.
 
 En ningún caso será necesario que el titular ratifique el recurso de revisión interpuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 93.
 
-Durante el procedimiento a que se refiere el presente Capítulo, el Instituto deberá aplicar la suplencia de la queja a favor del titular, siempre y cuando no altere el contenido original del recurso de revisión, ni modifique los hechos o peticiones expuestas en el mismo, así como garantizar que las partes puedan presentar los argumentos y constancias que funden y motiven sus pretensiones.
+Durante el procedimiento a que se refiere el presente Capítulo, el Órgano Garante deberá aplicar la suplencia de la queja a favor del titular, siempre y cuando no altere el contenido original del recurso de revisión, ni modifique los hechos o peticiones expuestas en el mismo, así como garantizar que las partes puedan presentar los argumentos y constancias que funden y motiven sus pretensiones.
 
-Si en el escrito de interposición del recurso de revisión el titular no cumple con alguno de los requisitos previstos en el artículo 92, de la presente Ley, y el Instituto no cuente con elementos para subsanarlos, éstos deberán requerir al titular, por una sola ocasión, la información que subsane las omisiones y/o deficiencias en un plazo que no podrá exceder de cinco días, contados a partir del día siguiente de la presentación del escrito.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+Si en el escrito de interposición del recurso de revisión el titular no cumple con alguno de los requisitos previstos en el artículo 92, de la presente Ley, y el Órgano Garante no cuente con elementos para subsanarlos, éstos deberán requerir al titular, por una sola ocasión, la información que subsane las omisiones y/o deficiencias en un plazo que no podrá exceder de cinco días, contados a partir del día siguiente de la presentación del escrito.
 
 El titular contará con un plazo que no podrá exceder de cinco días, contados a partir del día siguiente al de la notificación de la prevención, para subsanar las omisiones, con el apercibimiento de que en caso de no cumplir con el requerimiento, se desechará el recurso de revisión.
 
-La prevención tendrá el efecto de interrumpir el plazo que tiene el Instituto para resolver el recurso, por lo que comenzará a computarse a partir del día siguiente a su desahogo.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-Cuando el Instituto determine durante la sustanciación del recurso de revisión que se pudo haber incurrido en una probable responsabilidad por el incumplimiento a las obligaciones previstas en la presente Ley y demás disposiciones que resulten aplicables a la materia, deberán hacerlo del conocimiento del órgano interno de control o de la instancia competente para que ésta inicie, en su caso, el procedimiento de responsabilidad respectivo.
+La prevención tendrá el efecto de interrumpir el plazo que tiene el Órgano Garante para resolver el recurso, por lo que comenzará a computarse a partir del día siguiente a su desahogo.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+Cuando el Órgano Garante determine durante la sustanciación del recurso de revisión que se pudo haber incurrido en una probable responsabilidad por el incumplimiento a las obligaciones previstas en la presente Ley y demás disposiciones que resulten aplicables a la materia, deberán hacerlo del conocimiento del órgano interno de control o de la instancia competente para que ésta inicie, en su caso, el procedimiento de responsabilidad respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 94.
 
-Una vez admitido el recurso de revisión, el Instituto, podrá buscar la conciliación entre el titular y responsable.
+Una vez admitido el recurso de revisión, el Órgano Garante, podrá buscar la conciliación entre el titular y responsable.
 
 El procedimiento se estará a lo dispuesto por el artículo 107 de la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 El procedimiento de conciliación a que se refiere el presente artículo, no resultará aplicable cuando el titular sea menor de edad y se haya vulnerado alguno de los derechos contemplados en la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Oaxaca vinculados con la presente Ley, salvo que cuente con representación legal debidamente acreditada.
 
-De llegar a un acuerdo, éste se hará constar por escrito y tendrá efectos vinculantes. El recurso de revisión quedará sin materia y el Instituto deberá verificar el cumplimiento del acuerdo respectivo.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+De llegar a un acuerdo, éste se hará constar por escrito y tendrá efectos vinculantes. El recurso de revisión quedará sin materia y el Órgano Garante deberá verificar el cumplimiento del acuerdo respectivo.
 
 ###### Artículo 95.
 
@@ -1267,7 +1357,9 @@ El recurso de revisión podrá ser desechado por improcedente cuando:
 
 I. Se presente de forma extemporánea;
 
-II. Que el Instituto haya resuelto anteriormente en definitiva sobre la materia del mismo;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+II. Que el Órgano Garante haya resuelto anteriormente en definitiva sobre la materia del mismo;
 
 III. Que no se actualicen algunas de las causales de procedencia previstas en el artículo 91, de la presente Ley;
 
@@ -1279,7 +1371,9 @@ VI. El recurrente no acredite su interés jurídico; o
 
 VII. El Titular o su representante no acrediten debidamente su identidad y personalidad de este último.
 
-El desechamiento no implica la preclusión del derecho del titular para interponer ante el Instituto, un nuevo recurso de revisión.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El desechamiento no implica la preclusión del derecho del titular para interponer ante el Órgano Garante, un nuevo recurso de revisión.
 
 ###### Artículo 96.
 
@@ -1295,19 +1389,27 @@ IV. Quede sin materia el recurso de revisión; y
 
 V. El responsable modifique o revoque la respuesta o realice actos positivos de tal manera que el recurso de revisión quede sin materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 97.
 
-El Instituto debe revisar de forma oficiosa la existencia de terceros afectados y notificar al Responsable y en su caso al tercero, dentro de los cinco días siguientes a su admisión.
+El Órgano Garante debe revisar de forma oficiosa la existencia de terceros afectados y notificar al Responsable y en su caso al tercero, dentro de los cinco días siguientes a su admisión.
 
 El Responsable deberá enviar un informe en contestación del recurso de revisión, dentro de los tres días siguientes a la notificación anterior.
 
-El tercero afectado debe presentar ante el Instituto la defensa de sus intereses, por escrito dentro de los tres días siguientes a la notificación del primer párrafo.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-Cuando el recurso de revisión se presente ante el Responsable debe remitirlo al Instituto, junto con su informe, dentro de los tres días siguientes a su recepción. En este caso el Instituto debe resolver la admisión del recurso previo análisis del informe y dentro de los dos siguientes a su recepción.
+El tercero afectado debe presentar ante el Órgano Garante la defensa de sus intereses, por escrito dentro de los tres días siguientes a la notificación del primer párrafo.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+Cuando el recurso de revisión se presente ante el Responsable debe remitirlo al Órgano Garante, junto con su informe, dentro de los tres días siguientes a su recepción. En este caso el Órgano Garante debe resolver la admisión del recurso previo análisis del informe y dentro de los dos siguientes a su recepción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 98.
 
-El Instituto resolverá el recurso de revisión en un plazo que no podrá exceder de cuarenta días a partir de la admisión del mismo, el cual podrá ampliarse por una sola ocasión hasta por veinte días. En caso de que el Instituto amplíe el plazo para emitir la resolución correspondiente deberá emitir un acuerdo donde funde y motive las circunstancias de la ampliación. La resolución podrá:
+El Órgano Garante resolverá el recurso de revisión en un plazo que no podrá exceder de cuarenta días a partir de la admisión del mismo, el cual podrá ampliarse por una sola ocasión hasta por veinte días. En caso de que el Órgano Garante amplíe el plazo para emitir la resolución correspondiente deberá emitir un acuerdo donde funde y motive las circunstancias de la ampliación. La resolución podrá:
 
 I. Desechar o sobreseer el recurso de revisión por improcedente;
 
@@ -1319,9 +1421,13 @@ IV. Ordenar la entrega, rectificación, cancelación u oposición de datos perso
 
 La resolución debe ser fundada y motivada e invariablemente pronunciarse sobre la procedencia de los puntos controvertidos de la solicitud.
 
-Las resoluciones del Instituto, serán vinculantes e inatacables para los sujetos obligados, por lo que no procede recurso o juicio ordinario o administrativo alguno, salvo lo establecido en el siguiente párrafo.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-El Instituto deberá notificar a las partes y publicar las resoluciones, en versión pública, a más tardar, al tercer día siguiente de su aprobación.
+Las resoluciones del Órgano Garante, serán vinculantes e inatacables para los sujetos obligados, por lo que no procede recurso o juicio ordinario o administrativo alguno, salvo lo establecido en el siguiente párrafo.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El Órgano Garante deberá notificar a las partes y publicar las resoluciones, en versión pública, a más tardar, al tercer día siguiente de su aprobación.
 
 Los titulares podrán impugnar dichas resoluciones ante el Poder Judicial de la Federación mediante Juicio de Amparo.
 
@@ -1335,17 +1441,25 @@ El Responsable debe ejecutar las acciones que le correspondan para el cumplimien
 
 Tratándose de las resoluciones a los recursos de revisión, los particulares podrán optar por acudir ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, interponiendo el recurso de inconformidad previsto en esta Ley o ante el Poder Judicial de la Federación mediante el Juicio de Amparo.
 
-El Instituto podrá solicitar al Instituto Nacional, ejerza la facultad de atracción para conocer aquellos recursos pendientes de resolución que por su interés y trascendencia así lo ameriten, observando el procedimiento de conformidad con la Ley General.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-## Título Décimo. Facultad de Verificación del Instituto
+El Órgano Garante podrá solicitar al Instituto Nacional, ejerza la facultad de atracción para conocer aquellos recursos pendientes de resolución que por su interés y trascendencia así lo ameriten, observando el procedimiento de conformidad con la Ley General.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
+
+## Título Décimo. Facultad de Verificación del Órgano Garante
 
 ### Capítulo Único. Del Procedimiento de Verificación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 101.
 
-El Instituto, en el ámbito de su competencia, tendrá la atribución de vigilar y verificar el cumplimiento de las disposiciones contenidas en la presente Ley, la Ley General, y demás ordenamientos que se deriven de éstas.
+El Órgano Garante, en el ámbito de su competencia, tendrá la atribución de vigilar y verificar el cumplimiento de las disposiciones contenidas en la presente Ley, la Ley General, y demás ordenamientos que se deriven de éstas.
 
-En el ejercicio de las funciones de vigilancia y verificación, el personal del Instituto, estará obligado a guardar confidencialidad sobre la información a la que tenga acceso en virtud de la verificación correspondiente.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+En el ejercicio de las funciones de vigilancia y verificación, el personal del Órgano Garante, estará obligado a guardar confidencialidad sobre la información a la que tenga acceso en virtud de la verificación correspondiente.
 
 El responsable no podrá negar el acceso a la documentación solicitada con motivo de una verificación, o a sus bases de datos personales, ni podrá invocar la reserva o la confidencialidad de la información.
 
@@ -1353,7 +1467,9 @@ El responsable no podrá negar el acceso a la documentación solicitada con moti
 
 La verificación podrá iniciarse:
 
-I. De oficio cuando el Instituto cuente con indicios que hagan presumir de manera fundada y motivada la existencia de violaciones a las leyes correspondientes; o
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+I. De oficio cuando el Órgano Garante cuente con indicios que hagan presumir de manera fundada y motivada la existencia de violaciones a las leyes correspondientes; o
 
 II. Por denuncia del titular de los datos personales cuando considere que ha sido afectado por actos del responsable que puedan ser contrarios a lo dispuesto por la presente Ley, la Ley General y demás normativa aplicable, o en su caso, por cualquier persona cuando tenga conocimiento de presuntos incumplimientos a las obligaciones previstas en la presente Ley y demás disposiciones que resulten aplicables en la materia.
 
@@ -1361,7 +1477,9 @@ El derecho a presentar una denuncia precluye en el término de un año contado a
 
 La verificación no procederá en los supuestos de procedencia del recurso de revisión previstos en la presente Ley.
 
-Previo a la verificación respectiva, el Instituto podrá desarrollar investigaciones previas, con el fin de contar con elementos para fundar y motivar el acuerdo de inicio respectivo.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+Previo a la verificación respectiva, el Órgano Garante podrá desarrollar investigaciones previas, con el fin de contar con elementos para fundar y motivar el acuerdo de inicio respectivo.
 
 ###### Artículo 103.
 
@@ -1377,23 +1495,37 @@ IV. El sujeto obligado y/o el responsable denunciado y su domicilio, o en su cas
 
 V. La firma del denunciante, o en su caso, de su representante. En caso de no saber firmar, bastará la huella digital.
 
-La denuncia podrá presentarse por escrito libre, o a través de los formatos, medios electrónicos o cualquier otro medio que al efecto establezca el Instituto, según corresponda.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-Una vez recibida la denuncia, el Instituto deberá acusar el recibo de la misma. El acuerdo correspondiente se notificará al denunciante.
+La denuncia podrá presentarse por escrito libre, o a través de los formatos, medios electrónicos o cualquier otro medio que al efecto establezca el Órgano Garante, según corresponda.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+Una vez recibida la denuncia, el Órgano Garante deberá acusar el recibo de la misma. El acuerdo correspondiente se notificará al denunciante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 104.
 
-La verificación iniciará mediante una orden escrita que funde y motive la procedencia de la actuación por parte del Instituto, la cual tiene por objeto requerir al sujeto obligado y/o responsable la documentación e información necesaria vinculada con la presunta violación y/o realizar visitas a las oficinas o instalaciones del sujeto obligado y/o responsable, o en su caso, en el lugar donde estén ubicadas las bases de datos personales respectivas.
+La verificación iniciará mediante una orden escrita que funde y motive la procedencia de la actuación por parte del Órgano Garante, la cual tiene por objeto requerir al sujeto obligado y/o responsable la documentación e información necesaria vinculada con la presunta violación y/o realizar visitas a las oficinas o instalaciones del sujeto obligado y/o responsable, o en su caso, en el lugar donde estén ubicadas las bases de datos personales respectivas.
 
-Para la verificación en instancias de seguridad pública, se requerirá en la resolución, la aprobación del Pleno del Instituto, por votación de mayoría calificada de sus Comisionados; así como de una fundamentación y motivación reforzada de la causa del procedimiento, debiéndose asegurar la información sólo para uso exclusivo de la autoridad y para los fines establecidos en el párrafo cuarto de este artículo. El procedimiento de verificación deberá tener una duración máxima de cincuenta días.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-El Instituto podrá ordenar medidas cautelares, si del desahogo de la verificación advierten un daño inminente o irreparable en materia de protección de datos personales, siempre y cuando no impidan el cumplimiento de las funciones ni el aseguramiento de bases de datos de los sujetos obligados. Estas medidas sólo podrán tener una finalidad correctiva y será temporal hasta en tanto los sujetos obligados lleven a cabo las recomendaciones hechas por el Instituto.
+Para la verificación en instancias de seguridad pública, se requerirá en la resolución, la aprobación del Consejo General del Órgano Garante, por votación de mayoría calificada de sus Comisionados; así como de una fundamentación y motivación reforzada de la causa del procedimiento, debiéndose asegurar la información sólo para uso exclusivo de la autoridad y para los fines establecidos en el párrafo cuarto de este artículo. El procedimiento de verificación deberá tener una duración máxima de cincuenta días.
 
-El procedimiento de verificación concluirá con la resolución que emita el Instituto, en la cual, se establecerán las medidas que deberá adoptar el Responsable en el plazo que la misma determine.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El Órgano Garante podrá ordenar medidas cautelares, si del desahogo de la verificación advierten un daño inminente o irreparable en materia de protección de datos personales, siempre y cuando no impidan el cumplimiento de las funciones ni el aseguramiento de bases de datos de los sujetos obligados. Estas medidas sólo podrán tener una finalidad correctiva y será temporal hasta en tanto los sujetos obligados lleven a cabo las recomendaciones hechas por el Órgano Garante.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El procedimiento de verificación concluirá con la resolución que emita el Órgano Garante, en la cual, se establecerán las medidas que deberá adoptar el Responsable en el plazo que la misma determine.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 105.
 
-Los responsables podrán voluntariamente someterse a la realización de auditorías por parte del Instituto, que tengan por objeto verificar la adaptación, adecuación de los controles, medidas y mecanismos implementados para el cumplimiento de las disposiciones previstas en la presente Ley, la Ley General y demás normativa que resulte aplicable.
+Los responsables podrán voluntariamente someterse a la realización de auditorías por parte del Órgano Garante, que tengan por objeto verificar la adaptación, adecuación de los controles, medidas y mecanismos implementados para el cumplimiento de las disposiciones previstas en la presente Ley, la Ley General y demás normativa que resulte aplicable.
 
 El informe de auditoría deberá dictaminar sobre la adecuación de las medidas y controles implementados por el Responsable, identificar sus deficiencias, así como proponer acciones correctivas complementarias, o bien, recomendaciones que en su caso correspondan.
 
@@ -1401,57 +1533,83 @@ El informe de auditoría deberá dictaminar sobre la adecuación de las medidas 
 
 ### Capítulo I. De las Medidas de Apremio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 106.
 
-El Instituto podrá interponer las siguientes medidas de apremio para asegurar el cumplimiento de las determinaciones emitidas:
+El Órgano Garante podrá interponer las siguientes medidas de apremio para asegurar el cumplimiento de las determinaciones emitidas:
 
 I. Amonestación pública; o
 
 II. Multa equivalente a la cantidad de ciento cincuenta hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-El incumplimiento de los Responsables, será difundido en los portales de obligaciones de transparencia del Instituto, y considerado en las evaluaciones que realice.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-En caso de que el incumplimiento de las determinaciones del Instituto implique la presunta comisión de un delito o una de las conductas señaladas en el artículo 115, de la presente Ley, se deberán denunciar los hechos ante la autoridad competente. Las medidas de apremio de carácter económico no podrán ser cubiertas con recursos públicos.
+El incumplimiento de los Responsables, será difundido en los portales de obligaciones de transparencia del Órgano Garante, y considerado en las evaluaciones que realice.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+En caso de que el incumplimiento de las determinaciones del Órgano Garante implique la presunta comisión de un delito o una de las conductas señaladas en el artículo 115, de la presente Ley, se deberán denunciar los hechos ante la autoridad competente. Las medidas de apremio de carácter económico no podrán ser cubiertas con recursos públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 107.
 
-Si a pesar de la ejecución de las medidas de apremio previstas en el artículo anterior, no se cumpliere la resolución del Instituto, se requerirá el cumplimiento al superior jerárquico para que en el plazo de cinco días obligue a cumplir sin demora.
+Si a pesar de la ejecución de las medidas de apremio previstas en el artículo anterior, no se cumpliere la resolución del Órgano Garante, se requerirá el cumplimiento al superior jerárquico para que en el plazo de cinco días obligue a cumplir sin demora.
 
 De persistir el incumplimiento, se aplicarán sobre el superior jerárquico, las medidas de apremio establecidas en el artículo anterior. Transcurrido el plazo, sin que se haya dado cumplimiento, se dará vista a la autoridad competente en materia de responsabilidades.
 
-Artículo. 108.- Para calificar las medidas de apremio establecidas en el presente Capítulo, el Instituto deberá considerar:
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE JULIO DE 2024)</small>
 
-I. La gravedad de la falta del responsable, determinada por elementos tales como el daño causado; los indicios de intencionalidad; la duración del incumplimiento de las determinaciones del Instituto y la afectación al ejercicio de sus atribuciones;
+###### Artículo 108.
+
+Para calificar las medidas de apremio establecidas en el presente Capítulo, el Instituto deberá considerar:
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+I. La gravedad de la falta del responsable, determinada por elementos tales como el daño causado; los indicios de intencionalidad; la duración del incumplimiento de las determinaciones del Órgano Garante y la afectación al ejercicio de sus atribuciones;
 
 II. La condición económica del infractor; y
 
 III. La reincidencia.
 
-El Instituto establecerá mediante lineamientos de carácter general, las atribuciones de las áreas encargadas de calificar la gravedad de la falta de observancia de sus determinaciones y de la notificación y ejecución de las medidas de apremio que apliquen e implementen, conforme a los elementos desarrollados en el presente Capítulo.
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-El Instituto podrá requerir al infractor la información necesaria para determinar su condición económica, apercibido de que en caso de no proporcionar la misma, las multas se cuantificarán con base a los elementos que se tenga a disposición, entendidos como los que se encuentren en los registros públicos, los que contengan medios de información quedando facultado el Instituto para requerir aquella documentación que se considere indispensable para tal efecto a las autoridades competentes.
+El Órgano Garante establecerá mediante lineamientos de carácter general, las atribuciones de las áreas encargadas de calificar la gravedad de la falta de observancia de sus determinaciones y de la notificación y ejecución de las medidas de apremio que apliquen e implementen, conforme a los elementos desarrollados en el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El Órgano Garante podrá requerir al infractor la información necesaria para determinar su condición económica, apercibido de que en caso de no proporcionar la misma, las multas se cuantificarán con base a los elementos que se tenga a disposición, entendidos como los que se encuentren en los registros públicos, los que contengan medios de información quedando facultado el Instituto para requerir aquella documentación que se considere indispensable para tal efecto a las autoridades competentes.
 
 ###### Artículo 109.
 
 Las medidas de apremio deberán aplicarse e implementarse en un plazo máximo de quince días, contados a partir de que sea notificada la medida de apremio al infractor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 110.
 
-En caso de reincidencia, el Instituto podrán (sic) imponer una multa equivalente hasta el doble de la que se hubiera determinado la primera vez.
+En caso de reincidencia, el Órgano Garante podrá imponer una multa equivalente hasta el doble de la que se hubiera determinado la primera vez.
 
 Se considerará reincidente al que habiendo incurrido en una infracción que haya sido sancionada, cometa otra del mismo tipo o naturaleza.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 111.
 
-Las amonestaciones públicas serán impuestas por el Instituto y será ejecutada por el superior jerárquico inmediato del infractor con el que se relacione.
+Las amonestaciones públicas serán impuestas por el Órgano Garante y será ejecutada por el superior jerárquico inmediato del infractor con el que se relacione.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 112.
 
-Las medidas de apremio a que se refiere el presente capítulo deberán ser aplicadas por el instituto y los organismos garantes, por si mismos o con el apoyo de la autoridad competente, de conformidad con los procedimientos que establezcan las leyes respectivas.
+Las medidas de apremio a que se refiere el presente capítulo deberán ser aplicadas por el Órgano Garante y los organismos garantes, por sí mismos o con el apoyo de la autoridad competente, de conformidad con los procedimientos que establezcan las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
 ###### Artículo 113.
 
-Las multas que fijen el Instituto y los organismos garantes se harán efectivas por la Secretaría de Finanzas según corresponda, a través de los procedimientos que las leyes establezcan.
+Las multas que fijen el Órgano Garante y los organismos garantes se harán efectivas por la Secretaría de Finanzas según corresponda, a través de los procedimientos que las leyes establezcan.
 
 ###### Artículo 114.
 
@@ -1487,7 +1645,9 @@ XI. Obstruir los actos de verificación de la autoridad;
 
 XII. Crear bases de datos personales en contravención a lo dispuesto por el artículo 4, de la presente Ley;
 
-XIII. No acatar las resoluciones emitidas por el Instituto; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+XIII. No acatar las resoluciones emitidas por el Órgano Garante; y
 
 XIV. Omitir la entrega del informe anual y demás informes a que se refiere el artículo 44, fracción VII de la Ley General de Transparencia y Acceso a la Información Pública, o bien, entregar el mismo de manera extemporánea.
 
@@ -1550,3 +1710,13 @@ P.O. 29 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2294.- MEDIANTE EL CUAL REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 1; LAS FRACCIONES XVI, XIX Y XXVIII DEL ARTÍCULO 3; EL ARTÍCULO 8; EL PÁRRAFO PRIMERO DEL ARTÍCULO 30; LOS PÁRRAFOS CUARTO, SEXTO, NOVENO Y DÉCIMO PRIMERO DEL ARTÍCULO 38; LA FRACCIÓN VI DEL ARTÍCULO 63; LA FRACCIÓN II y LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 64; EL PRIMER PÁRRAFO DEL ARTÍCULO 66; LOS ARTÍCULOS 67 Y 68; LA FRACCIÓN VI DEL ARTÍCULO 74; LOS ARTÍCULOS 77, 78 Y 79; EL PÁRRAFO PRIMERO Y LAS FRACCIONES IV Y VII DEL ARTÍCULO 80; EL ARTÍCULO 81; EL PÁRRAFO PRIMERO Y LAS FRACCIONES I, III Y V DEL ARTÍCULO 82; LAFRACCIÓN III DEL ARTÍCULO 83; LA FRACCIÓN I DEL ARTÍCULO 84; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II DEL ARTÍCULO 86; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 87; EL ARTÍCULO 88; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 89; EL PÁRRAFO PRIMERO DEL ARTÍCULO 90; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 92; LOS PARRÁFOS PRIMERO, SEGUNDO, CUARTO Y QUINTO DEL ARTÍCULO 93; LOS PARRÁFOS PRIMERO Y CUARTO DEL ARTÍCULO 94; LA FRACCIÓN II Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 95; LOS PÁRRAFOS PRIMERO, TERCERO Y CUARTO DEL ARTÍCULO 97; LOS PÁRRAFOS PRIMERO, TERCERO Y CUARTO DEL ARTÍCULO 98; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 100; LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 101; LA FRACCIÓN I Y EL PÁRRAFO CUARTO DEL ARTÍCULO 102; LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 103; LOS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 104; EL PÁRRAFO PRIMERO DEL ARTÍCULO 105; LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 106; EL PÁRRAFO PRIMERO DEL ARTÍCULO 107; LA FRACCIÓN I Y LOS PÁRRAFOS PRIMERO, SEGUNDO Y TERCERO DEL ARTÍCULO 108; EL PÁRRAFO PRIMERO DEL ARTÍCULO 110; LOS ARTÍCULOS 111, 112 Y 113; LA FRACCIÓN XIII DEL ARTÍCULO 115; Y SE MODIFICAN LAS DENOMINACIONES DEL TÍTULO QUINTO; DEL CAPÍTULO II DEL TÍTULO NOVENO; Y DEL TÍTULO DÉCIMO; TODOS DE LA LEY DE PROTECCION DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente a su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
