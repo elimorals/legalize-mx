@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-contra-la-exposicion-al-humo-de-tabaco-105591
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-23"
-last_updated: "2023-10-28"
+last_updated: "2024-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 23 de enero de 2015.
 
@@ -255,9 +255,11 @@ III. Comerciar, vender, distribuir o exhibir cualquier producto del tabaco a tra
 
 IV. Distribuir gratuitamente productos del tabaco al público en general, o con fines de promoción.
 
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
+
 ###### Artículo 10.
 
-En ningún caso se podrá comerciar, distribuir, donar, regalar, vender, expender o suministrar productos del tabaco en instituciones educativas públicas o privadas de educación básica y media superior o a menores de edad, ni se podrá emplear a éstos en actividades de comercio, producción, distribución, suministro y venta de dichos productos. Las autoridades estatales y municipales, en sus respectivas competencias, vigilarán el cumplimiento de lo anterior.
+En ningún caso se podrá comerciar, distribuir, donar, regalar, vender, expender o suministrar productos del tabaco en instituciones educativas públicas o privadas de educación básica, media superior y superior o a menores de edad, ni se podrá emplear a éstos en actividades de comercio, producción, distribución, suministro y venta de dichos productos. Las autoridades estatales y municipales, en sus respectivas competencias, vigilarán el cumplimiento de lo anterior.
 
 ## TÍTULO TERCERO. ATRIBUCIONES DE LA AUTORIDAD
 
@@ -672,3 +674,11 @@ P.O. 28 DE OCTUBRE DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2291.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 10 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DE TABACO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
