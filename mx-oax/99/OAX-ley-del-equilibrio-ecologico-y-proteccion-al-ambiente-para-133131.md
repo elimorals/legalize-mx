@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2024-04-06"
+last_updated: "2024-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -1437,11 +1437,27 @@ III. Suministrar a los animales atención médica preventiva y en caso de enferm
 
 IV. Promover políticas públicas para la esterilización canina y felina, temprana, sistemática, masiva, extendida y la creación de refugios locales, a efecto de controlar su propagación y permitir a los animales la expresión de su comportamiento natural;
 
-V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie, y;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
 
-VI. Concertar acciones con organizaciones civiles para promover, fomentar y vigilar el trato digno y respetuoso a las especies animales, así como regular y evitar la crueldad en contra de éstas.
+V. Brindar a los animales un trato y condiciones que procuren su cuidado dependiendo de la especie;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+VI. Concertar acciones con organizaciones civiles para promover, fomentar y vigilar el trato digno y respetuoso a las especies animales, así como regular y evitar la crueldad en contra de éstas; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2024)</small>
+
+VII. Fomentar la cultura del trato digno y respetuoso hacia los animales a través de campañas de difusión de información respecto a la importancia de la adopción, vacunación, desparasitación, así como de las consecuencias ambientales, sociales y de salud pública del abandono de animales de compañía.
 
 Asimismo, en el ámbito de sus respectivas competencias, establecerán la prohibición de organizar, inducir o provocar peleas de perros, determinando las sanciones correspondientes.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El Gobierno del Estado en coordinación con los Municipios, en el ámbito de sus respectivas competencias, garantizarán el trato digno y respetuoso de los animales en los centros de control animal, estableciendo las sanciones correspondientes para todo aquel que los maltrate, así como en la medida de lo posible, la esterilización gratuita. De igual forma, promoverán el establecimiento de Clínicas Veterinarias Públicas con el objeto de suministrar a los animales atención médica preventiva y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2024)</small>
+
+El Gobierno del Estado en coordinación con los Municipios, establecerán las sanciones correspondientes para quienes realicen acciones de crianza, comercialización o reproducción clandestinas con animales.
 
 ###### Artículo 98.
 
@@ -3272,5 +3288,13 @@ P.O. 6 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2077.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN LVIII DEL ARTÍCULO 4, EL ARTÍCULO 26 Y EL ARTÍCULO 170 DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2315.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V Y VI; Y SE ADICIONA LA FRACCIÓN VII Y LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 97 DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
