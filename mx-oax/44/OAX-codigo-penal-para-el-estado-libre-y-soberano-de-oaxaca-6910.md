@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-06-19"
+last_updated: "2024-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -1317,9 +1317,9 @@ Prescripción.
 
 122.- La acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de la libertad que señala la ley para el delito de que se trate, pero en ningún caso será menor de tres años.
 
-> <small>(REFORMADO, P.O.22 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-122 BIS.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 202, 241, 241 BIS, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
+122 BIS.- Cuando se trate de delitos cometidos en personas menores de edad, previstos en los artículos 194 fracciones II a V, 195, 196, 202, 241, 241 BIS, 241 QUATER, 246, 247, 248 BIS fracciones I a III, 255, 347 BIS y 348 BIS F, la acción penal será imprescriptible.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2818,6 +2818,10 @@ III.- Si se comete contra una persona menor de dieciocho años de edad, o que no
 En el último supuesto, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte.
 
 Si el acosador es servidor público o con algún cargo honorario, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo y se le inhabilitará para ejercer otro cargo público, por un tiempo igual al que dure la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2024)</small>
+
+241 Quater.- A quien cometa el delito de abuso sexual en una persona menor de quince años aún con su consentimiento, o la obligue a ejecutarlo en sí misma o en otra persona, se le impondrá una pena de seis a trece años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE DICIEMBRE DE 2021)</small>
 
@@ -4831,23 +4835,21 @@ Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el 
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
+### CAPITULO PRIMERO. Del Maltrato y la Crueldad Animal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 veces el valor de la Unidad de Medida y Actualización vigente a quien:
+419. Se impondrá pena de prisión de uno a cinco años y multa de cien a mil veces el valor diario de la Unidad de Medida y Actualización vigente a quien:
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
+I. Realice actos de maltrato en contra de un animal produciéndole dolor o afectando su salud, sin causa justificada;
 
-I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
+II. Causa lesiones a un animal produciéndole afectaciones físicas o ponga en riesgo su salud; y
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
+III. Abandone a un animal exponiéndolo a riesgos que amenacen su integridad física, la de otros animales o de las personas.
 
-II. Cause lesiones que pongan en peligro la vida del animal vertebrado.
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
-
-III. Cause lesiones y/o marcas de por vida que generen una agonía permanente para el animal vertebrado.
+Se considera maltrato a un animal cuando por cualquier medio se le causa dolor, lesiones o una afectación a su salud. El maltrato a un animal también implica privarlo de alimento, descuidar su higiene o salud, encerrarlo, dejarlo amarrado a la intemperie y cualquier otro que ponga en riesgo su bienestar físico.
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -4869,17 +4871,39 @@ La sanción a que se hace mención en el párrafo anterior, se incrementará en 
 
 Incurre en responsabilidad penal, asimismo, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
 
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2024)</small>
+
+419 TER. Las sanciones previstas en el artículo 419 se incrementarán en una mitad de su mínimo y máximo en los supuestos siguientes:
+
+I. Cuando se causen lesiones y/o marcas de por vida a un animal, sin causa justificada;
+
+II. Cuando se prolongue innecesariamente la agonía o el dolor de un animal;
+
+III. Cuando se realicen actos de crueldad en contra de un animal; y
+
+IV. Si además de realizar los actos de maltrato o crueldad en contra de cualquier animal, el sujeto activo los capta en imágenes, fotografía o videograba para difundirlos por cualquier medio.
+
+Se considera acto de crueldad cometido en contra de un animal cualquier acto de brutalidad, tortura y mutilación, sea por acción u omisión, o cuando se le causen lesiones de gravedad con armas, medios corrosivos o explosivos.
+
+Además de las sanciones señaladas en el presente artículo, las personas que sean responsables de maltrato o crueldad animal, perderán todo derecho sobre los animales que hayan tenido bajo su custodia o resguardo.
+
+Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto activo acuda a terapias psicológicas por el tiempo que la autoridad estime conveniente.
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 ### CAPITULO SEGUNDO. De la Privación de la Vida
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 veces el valor de la Unidad de Medida y Actualización vigente a quien:
+420. Se impondrá pena de prisión de tres a ocho años y multa de quinientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente a quién:
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2015)</small>
+I. Dolosamente prive de la vida a un animal; y
 
-I. Dolosamente prive de la vida a un animal vertebrado.
+II. Además de privar de la vida un animal lo fotografíe, grabe o videograbe y lo difunda por cualquier medio.
+
+Se incrementará la sanción en un tercio a la señalada en el presente artículo, cuando la privación de la vida del animal sea cometida con medios violentos como armas, sustancias corrosivas o explosivos.
+
+Podrá aplicarse como medida alterna de la sanción pecuniaria, que el sujeto activo acuda a terapias psicológicas por el tiempo que la autoridad estime conveniente.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
@@ -4909,9 +4933,9 @@ III.- La muerte o mutilación de un animal vertebrado por causa justificada ó c
 
 IV.- El sacrificio de un animal vertebrado para consumo humano.
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE JULIO DE 2024)</small>
 
-423.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
+423. Los delitos previstos en este título se perseguirán de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)</small>
 
@@ -5061,7 +5085,7 @@ III. Desarrolle cualquier obra o actividad que destruya, amenace, dañe o afecte
 
 450.- Se impondrá prisión de uno a nueve años y de quinientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización, al que, ilícitamente ejecute, autorice u ordene actividades que contravengan las disposiciones legales, reglamentarias, las declaratorias respectivas y demás disposiciones aplicables en áreas naturales protegidas, cuando:
 
-I. Provoque un incendio que dañe elementos naturales, la flora, la fauna, los ecosistemas o al ambiente;
+I. (DEROGADA, P.O. 6 DE JULIO DE 2024)
 
 II. Extraiga especies de flora y/o fauna silvestre, tierra y su cubierta vegetal;
 
@@ -5074,6 +5098,10 @@ V. Vierta o descargue contaminantes en el suelo, subsuelo y cualquier clase de c
 VI. Corte, arranque, derribe o tale uno o más árboles;
 
 VII. Ocupe, use, aproveche, o deteriore el área natural o el ecosistema del suelo de conservación.
+
+> <small>(ADICIONADO, P.O. 6 DE JULIO DE 2024)</small>
+
+450 Bis.- Se impondrá una pena de diez a quince años de prisión y multa de mil cuatrocientas a mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente a quien, de manera dolosa o por omisión en el cumplimiento de normas, motive, promueva o provoque de manera intencionada un incendio en un bosque, selva, vegetación natural o terrenos forestales que dañe elementos naturales, flora, fauna, los ecosistemas y que ponga en peligro la vida, la economía y la integridad de las personas.
 
 > <small>(ADICIONADO, P.O. 22 DE OCTUBRE DE 2022)</small>
 
@@ -5153,7 +5181,7 @@ El juez tomará en cuenta para la determinación del daño causado en materia am
 
 ## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPITULO UNICO. La esterilización forzada, procreación asistida e inseminación artificial sin consentimiento
 
@@ -6410,6 +6438,30 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 19 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2287.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 292 QUATER, DENTRO DEL TÍTULO DECIMOSEXTO "DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL", DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2285.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 122 BIS Y SE ADICIONA EL ARTÍCULO 241 QUÁTER AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2286.- MEDIANTE EL CUAL REFORMAN LA DENOMINACIÓN DEL CAPÍTULO PRIMERO "DEL MALTRATO Y LA CRUELDAD ANIMAL, LOS ARTÍCULOS 419, 420 Y 423; SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 419, EL ARTÍCULO 419 TER, LA FRACCIÓN II AL PARRAFO PRIMERO Y LOS PARRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 420, TODOS DEL TÍTULO VIGÉSIMO CUARTO DENOMINADO "DE LOS DELITOS COMETIDOS CONTRA LA VIDA E INTEGRIDAD DE LOS ANIMALES, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2295.- MEDIANTE EL CUAL ADICIONA EL ARTÍCULO 450 BIS; Y SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 450, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
 
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
