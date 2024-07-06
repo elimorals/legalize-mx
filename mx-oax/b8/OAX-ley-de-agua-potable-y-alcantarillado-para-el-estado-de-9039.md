@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-agua-potable-y-alcantarillado-para-el-estado-de-9039"
 country: "mx"
 rank: "ley"
 publication_date: "1993-02-13"
-last_updated: "2023-12-16"
+last_updated: "2024-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 13 de febrero de 1993.
 
@@ -103,9 +103,9 @@ XIII.- La creación de un programa de información del sistema.
 
 XIV.- La participación de la administración pública estatal y municipal, con el Gobierno Federal, en el desarrollo de las estrategias regionales para la administración del agua, encaminadas a prevenir y reducir los efectos de la sequía, y
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
 
-XV.- La promoción y el desarrollo de la cultura del agua acorde a la realidad de cada una de las regiones del Estado.
+XV.- Realizar obras y acciones para el mantenimiento y la recarga de los acuíferos naturales, sea mediante ejecución directa o a través del financiamiento a las acciones que con ese objetivo realicen las comunidades y los núcleos agrarios asentados en los territorios que alimenten las fuentes de captación de agua;
 
 ###### ARTÍCULO 5o.
 
@@ -149,13 +149,17 @@ VI.- La coordinación con el Gobierno Federal y las autoridades municipales, en 
 
 VII.- Coordinar con las autoridades federales, municipales y las instituciones de educación superior especializada, cursos de capacitación técnica, financiera, normativa y operativa, dirigidos al personal de los organismos operadores de servicios de agua potable, alcantarillado y saneamiento,
 
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2024)</small>
+
+VIII.- Realizar obras y acciones para el mantenimiento y la recarga de los acuíferos naturales, sea mediante ejecución directa o a través del financiamiento a las acciones que con ese objetivo realicen las comunidades y los núcleos agrarios asentados en los territorios que alimenten las fuentes de captación de agua;
+
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-VIII.- Fomentar el uso racional y sustentable, así como la conservación del agua, mediante el uso de tecnologías y promover la optimización del manejo de (sic) integral de los recursos hídricos existentes, y
+IX.- Fomentar el uso racional y sustentable, así como la conservación del agua, mediante el uso de tecnologías y promover la optimización del manejo de (sic) integral de los recursos hídricos existentes, y
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
-IX.- Las demás que otorguen éstas u otras disposiciones legales.
+X.- Las demás que otorguen éstas u otras disposiciones legales.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DE 2023)</small>
 
@@ -1892,3 +1896,19 @@ P.O. 16 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2288.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 7 DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2289.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XV DEL ARTÍCULO 4 DE LA LEY DE AGUA POTABLE Y ALCANTARILLADO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
