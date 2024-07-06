@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-las-personas-jovenes-del-estado-de-oaxaca-117872"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2023-02-25"
+last_updated: "2024-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
 
 Ley publicada en la Séptima Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -211,9 +211,9 @@ IX. Generar información para la mejor implementación, desarrollo y evaluación
 
 X. Impulsar la cultura de la libre información en las personas jóvenes que sea útil para la toma de decisiones;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
 
-XI. Promover entre las personas jóvenes por medio del sistema educativo estatal, el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales;
+XI. Promover entre las personas jóvenes por medio del sistema educativo estatal, el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales, mediante la difusión de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE MARZO DE 2021)</small>
 
@@ -814,3 +814,11 @@ P.O. 25 DE FEBRERO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2314.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XI DEL ARTÍCULO 10 DE LA LEY DE LAS PERSONAS JÓVENES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
