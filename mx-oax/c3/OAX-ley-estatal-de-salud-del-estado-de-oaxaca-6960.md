@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2024-04-06"
+last_updated: "2024-07-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -63,9 +63,17 @@ IV.- La extensión de actitudes solidarias y responsables de la población en la
 
 V.- El disfrute de servicios de salud y asistencia social que satisfagan eficaz y oportunamente las necesidades de la población;
 
-VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud; y
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
 
-VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica desde una perspectiva de género.
+VI.- El conocimiento para el adecuado aprovechamiento y utilización de los servicios de salud;
+
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica desde una perspectiva de género; y
+
+> <small>(ADICIONADA, P.O. 6 DE JULIO DE 2024)</small>
+
+VIII.- El respeto al derecho humano de los progenitores a decidir la forma en que desean que nazcan sus hijas e hijos, pudiendo utilizar los servicios médicos o de las parteras.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -235,7 +243,9 @@ II.- Contribuir al desarrollo demográfico armónico del Estado;
 
 III.- Colaborar al bienestar social de la población del Estado, mediante servicios de asistencia social principalmente a menores en estado de abandono, madres adolescentes, personas adultas mayores desamparadas y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
 
-IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y el crecimiento físico y mental de la niñez;
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+IV.- Dar impulso al desarrollo de la familia y de la comunidad, incluyendo a las comunidades y afromexicanas, considerando su participación y tomando en cuenta sus valores y organización social; así como la integración social y el crecimiento físico y mental de la niñez y la adolescencia;
 
 V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que propicien el desarrollo satisfactorio de la vida;
 
@@ -243,9 +253,9 @@ V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente, que
 
 VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
 
-VII.- Apoyar la práctica de la medicina tradicional indígena de acuerdo a sus características específicas en cada región del Estado;
+VII.- Promover el conocimiento y desarrollo de la medicina tradicional indígena acorde a las características específicas de cada región, su aplicación y práctica en condiciones adecuadas, así como la formación y capacitación de los recursos humanos necesarios;
 
 > <small>(REFORMADA, P.O. 29 DE JULIO DE 2023)</small>
 
@@ -1101,15 +1111,17 @@ IX.- (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2019)
 
 X.- Acciones para promover el establecimiento de Bancos de Leche Humana;
 
-X (SIC).- Detección del cáncer cérvico-uterino y de mama, en todas las unidades de atención a población abierta.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2018)</small>
+XI.- Detección del cáncer cérvico-uterino y de mama, en todas las unidades de atención a la población abierta;
 
-XI.- Establecer y promover acciones para la prevención y atención del cáncer de próstata y testicular.
+> <small>(REFORMADA, P.O. 6 DE JULIO DE 2024)</small>
+
+XII.- Diseñar, promover e impulsar acciones, programas o campañas para la prevención, detección oportuna y atención del cáncer de próstata y testicular; y
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
-XII.- El fomento de la maternidad y paternidad responsables, especialmente en lo referente a la prevención de embarazos no planeados y no deseados.
+XIII.- El fomento de la maternidad y paternidad responsables, especialmente en lo referente a la prevención de embarazos no planeados y no deseados.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -4444,3 +4456,19 @@ PRIMERO: Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca.
 
 TERCERO: Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado a los ejecutores del gasto correspondiente, y en caso de que se realice alguna modificación a la estructura orgánica de los mismos, esta deberá realizarse conforme a las disposiciones jurídicas aplicables.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2292.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 2 Y LAS FRACCIONES IV Y VII DEL ARTÍCULO 6; SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 2, TODOS DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 6 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2293.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XI Y XII DEL ARTÍCULO 63 DE LA LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
