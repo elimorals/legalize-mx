@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-y-desarrollo-agricola-para-el-estado-de-151317"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-24"
-last_updated: "2023-07-11"
+last_updated: "2024-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151317&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE FOMENTO Y DESARROLLO AGRÍCOLA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2024.
 
 Ley publicada en la Tercera Parte al Número 191 del Periódico Oficial del Estado de Guanajuato, el viernes 24 de septiembre de 2021.
 
@@ -179,9 +179,13 @@ Son Organismos Auxiliares para la aplicación de la presente Ley:
 
 I. El Comité Estatal Agrícola;
 
-II. Las Asociaciones Agrícolas Locales; y
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2024)</small>
 
-III. Los demás organismos públicos o privados, nacionales o internacionales que intervengan, fomenten o se relacionen con las cadenas productivas agrícolas.
+II. El Consejo Estatal del Agave;
+
+III. Las Asociaciones Agrícolas Locales; y
+
+IV. Los demás organismos públicos o privados, nacionales o internacionales que intervengan, fomenten o se relacionen con las cadenas productivas agrícolas.
 
 ###### Artículo 8.
 
@@ -197,7 +201,11 @@ I. Suscribir con el Gobierno Federal y los Municipios acuerdos y convenios para 
 
 II. Crear el Comité Estatal Agrícola; y
 
-III. Las demás que esta Ley u otros ordenamientos legales le confieran.
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2024)</small>
+
+III. Crear el Consejo Estatal del Agave; y
+
+IV. Las demás que esta Ley u otros ordenamientos legales le confieran.
 
 ###### Artículo 10.
 
@@ -283,13 +291,41 @@ III. Destinar en su presupuesto de egresos, recursos económicos para programas 
 
 IV. Las demás que esta Ley u otros ordenamientos legales le confieran.
 
-## Título Segundo. Comité Estatal Agrícola
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JULIO DE 2024)</small>
+
+## Título Segundo. Comité Estatal Agrícola y Consejo Estatal del Agave
 
 ### Capítulo Único
 
 ###### Artículo 15.
 
 El Poder Ejecutivo, en el Reglamento de la Ley, establecerá un órgano de consulta, asesoría, opinión y colaboración denominado Comité Estatal Agrícola, con el objeto de promover y estimular el desarrollo rural sustentable en la entidad, y atender de manera adecuada y con oportunidad los problemas sanitarios.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2024)</small>
+
+###### Artículo 15 Bis.
+
+El Consejo Estatal del Agave será el órgano de consulta, asesoría, opinión y colaboración, con el objeto de promover y estimular el desarrollo en materia de agave de manera sustentable en la entidad.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2024)</small>
+
+###### Artículo 15 Ter.
+
+El Consejo Estatal del Agave tendrá las siguientes funciones:
+
+I. Participar en el análisis del crecimiento del agave en territorio guanajuatense;
+
+II. Promover acciones relativas a la regulación, gestión, conservación y preservación de la tierra donde se siembre agave;
+
+III. Proponer estrategias y políticas públicas enfocadas a la participación agrícola y de medio ambiente para medir la calidad y rentabilidad del agave en Guanajuato;
+
+IV. Integrar grupos de trabajo de investigación con especialistas, empresarios, asociaciones, consultores entre otros, para la obtención de datos que puedan reforzar e innovar en la siembra del agave en territorio guanajuatense;
+
+V. Solicitar en su caso, a la Secretaría de Desarrollo Agroalimentario y Rural el aviso de siembra como instrumento preventivo;
+
+VI. Coadyuvar con las autoridades estatales y federales para el desarrollo de las medidas fitosanitarias y de inocuidad que se implementen en el Estado de Guanajuato para la siembra y cuidado del agave; y
+
+VII. El consejo sesionará por lo menos dos veces al año.
 
 ## Título Tercero. Desarrollo Agrícola
 
@@ -489,15 +525,37 @@ Los agricultores en coordinación con sus organizaciones y las instituciones pú
 
 La Secretaría promoverá el acceso a sistemas de financiamiento para el establecimiento o mejoramiento de centros de almacenaje y conservación de productos y subproductos agrícolas, que permitan a su poseedor mantenerlos en condiciones naturales óptimas.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2024)</small>
+
+### Capítulo III. Distintivos Comerciales
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2024)</small>
+
+###### Artículo 38 Bis.
+
+La Secretaría promoverá la creación y vigencia de distintivos comerciales que contribuyan a que las unidades de producción del sector agroalimentario incrementen su productividad, mediante el cumplimiento de las exigencias de inocuidad, responsabilidad social y ambiental de los mercados agroalimentarios, de conformidad con las Normas Oficiales Mexicanas y demás disposiciones legales aplicables en la materia.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2024)</small>
+
+###### Artículo 38 Ter.
+
+Los distintivos comerciales gestionados por la Secretaría estarán a disposición de todos los agricultores y unidades de producción que se encuentren dentro del territorio del estado, que cumplan los requisitos para su obtención.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2024)</small>
+
+###### Artículo 38 Quater.
+
+La Secretaría brindará la capacitación y el adiestramiento necesario a los agricultores, así como a las unidades de producción para la obtención de los distintivos comerciales.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2023)</small>
-
-### Capítulo Único. Registro de Maquinaria e Implementos Agrícolas
-
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
 
 ## Título Quinto. Disposiciones Complementarias
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE JULIO DE 2023)</small>
+
+### Capítulo Único. Registro de Maquinaria e Implementos Agrícolas
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2023)</small>
 
 ###### Artículo 39.
 
@@ -568,3 +626,13 @@ P.O. 11 DE JULIO DE 2023.
 Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo segundo. El Poder Ejecutivo del Estado contará con un término de ciento ochenta días a partir de la publicación del presente decreto en el Periódico Oficial del Gobierno del Estado para la adecuación de los reglamentos respectivos y demás disposiciones administrativas de carácter general.
+
+P.O. 8 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 326 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO Y DESARROLLO AGRÍCOLA PARA EL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. El Consejo Estatal del Agave deberá quedar constituido en un término no mayor de ciento ochenta días hábiles siguientes a la entrada en vigor del presente decreto.
+
+Artículo Tercero. La Secretaría de Desarrollo Agroalimentario y Rural en un término de 90 días hábiles, emitirá las disposiciones para implementar los procesos para el otorgamiento de los distintivos comerciales.
