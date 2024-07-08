@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2022-10-24"
+last_updated: "2024-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE JULIO DE 2024.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -1029,9 +1029,11 @@ A la demanda se acompañarán las pruebas de que disponga el reclamante y los do
 
 Tratándose de demandas interpuestas por trabajadores, si éstas fueren oscuras, irregulares o no llenan los requisitos de este artículo, el Tribunal deberá prevenir al actor para que la aclare, corrija o complete, dentro del término de cinco días; si dentro de este término no se subsanan los defectos, la demanda será desechada.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 115.
 
-La contestación de la demanda deberá reunir los mismos requisitos que ésta y será presentada en un término que no exceda de cinco días contados a partir de la fecha en que aquella fuere notificada. El término se ampliará en dos días cuando el demandado resida fuera de la capital del Estado.
+La contestación de la demanda deberá reunir los mismos requisitos que ésta y será presentada en un término que no exceda de quince días hábiles contados a partir de la fecha en que aquella fuere notificada. El término se ampliará en dos días hábiles, cuando el demandado resida fuera de la capital del Estado.
 
 ###### ARTICULO 116.
 
@@ -1364,3 +1366,15 @@ Por lo que se refiere al pago de salario del cincuenta por ciento adicional a la
 ###### ARTÍCULO TERCERO.
 
 De conformidad con lo señalado en el tercer párrafo el (sic) artículo 26 del presente Decreto, será requisito indispensable que la mujer trabajadora que decida regresar a laborar tiempo completo dentro de los primeros seis meses de vida de la o el recién nacido, dé aviso previo a la dependencia o institución en la que labora, a fin de que ejerza plenamente los derechos relacionados con la lactancia y amamantamiento dentro de su lugar de trabajo.
+
+B.O. 8 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 171, QUE REFORMA EL ARTÍCULO 115 DE LA LEY DEL SERVICIO CIVIL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente reforma se aplicará a las demandas que sean presentadas ante el Tribunal de Justicia Administrativa del Estado de Sonora, con posterioridad a la entrada en vigor de esta reforma.
