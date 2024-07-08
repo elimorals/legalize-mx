@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-atencion-de-las-personas-migrantes-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-16"
-last_updated: "2021-07-19"
+last_updated: "2024-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "GUA"
 ---
 # LEY PARA LA PROTECCION Y ATENCION DE LAS PERSONAS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO --ANTES LEY PARA LA PROTECCION Y ATENCION DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO--
 
-LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO
+LEY PARA LA PROTECCIÓN Y ATENCIÓN DE LAS PERSONAS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2024.
 
 Ley publicada en la Quinta Parte al Número 96 del Periódico Oficial del Estado de Guanajuato, el viernes 16 de junio de 2017.
 
@@ -35,17 +35,19 @@ DECRETO NÚMERO 191
 
 LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
 
-LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JULIO DE 2024)</small>
+
+LEY PARA LA PROTECCIÓN Y ATENCIÓN DE LAS PERSONAS MIGRANTES Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 Naturaleza y objeto de la Ley
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
 ###### Artículo 1.
 
-La presente ley es de orden público y de interés social y tiene por objeto reconocer, proteger y garantizar los derechos de los migrantes y sus familias; así como regular la hospitalidad e interculturalidad.
+La presente ley es de orden público y de interés social y tiene por objeto reconocer, proteger y garantizar los derechos de las personas migrantes y sus familias; así como regular la hospitalidad, interculturalidad e interseccionalidad.
 
 Fines de la Ley
 
@@ -53,11 +55,13 @@ Fines de la Ley
 
 Son fines de la presente Ley:
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-I. Establecer los principios que garanticen, a través de las políticas públicas que diseñen e implementen la administración pública estatal y municipal, el marco de respeto, la protección y salvaguarda de los derechos humanos de las personas migrantes y sus familias, con especial atención en las personas o grupos en situación de vulnerabilidad como lo son: niñas, niños y adolescentes, mujeres, indígenas, personas con discapacidad y las personas adultas mayores, así como las víctimas del delito;
+I. Establecer los principios que garanticen, a través de las políticas públicas que diseñe e implemente la administración pública estatal y municipal, el marco de respeto, la protección y salvaguarda de los derechos humanos de las personas migrantes y sus familias; con especial atención a los grupos en situación de vulnerabilidad como lo son: niñas, niños y adolescentes, mujeres, personas indígenas y personas adultas mayores, así como las personas víctimas del delito;
 
-II. Determinar las atribuciones que las autoridades estatales y municipales tienen en materia de atención a migrantes y a sus familias;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+II. Determinar las atribuciones que las autoridades estatales y municipales tienen en materia de atención a las personas migrantes y a sus familias;
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -71,13 +75,17 @@ IV. Establecer las bases de coordinación y colaboración entre las dependencias
 
 V. Propiciar el fortalecimiento de la hospitalidad e interculturalidad en el estado; y
 
-VI. Fomentar la participación individual y colectiva de la sociedad organizada con organismos gubernamentales, que promueva o procure la protección de los derechos humanos de los migrantes y sus familias.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+VI. Fomentar la participación individual y colectiva de la sociedad organizada con organismos gubernamentales, que promueva o procure la protección de los derechos humanos de las personas migrantes y sus familias.
 
 Principios rectores de la Ley
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
 ###### Artículo 3.
 
-Los principios rectores de la presente Ley son: el respeto a la dignidad humana, igualdad, no discriminación, inclusión, la unión familiar, el interés superior del niño, niña y adolescente e integración cultural y social; orientados a reconocer el respeto irrestricto de los derechos humanos de los migrantes y sus familias, en especial atención a los grupos vulnerables.
+Los principios rectores de la presente Ley son: el respeto a la dignidad humana, igualdad, no discriminación, inclusión, la unión familiar, el interés superior de las niñas, niños y adolescentes, la integración cultural y social y la interseccionalidad; orientados a reconocer el respeto irrestricto de los derechos humanos de las personas migrantes y sus familias, en especial atención a los grupos en situación de vulnerabilidad.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -89,37 +97,59 @@ Para los efectos de la presente ley, se entenderá por:
 
 I. Consejo: el Consejo Consultivo de Migración;
 
-II. Deportación: la expulsión de un migrante, de un país extranjero;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-III. Hospitalidad: el trato digno, respetuoso y oportuno hacia las personas que se encuentren en el estado de Guanajuato;
+II. Deportación: la expulsión de una persona migrante, de un país extranjero;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+III. Hospitalidad: el trato digno, respetuoso y oportuno hacia las personas migrantes que se encuentren en el estado de Guanajuato;
 
 IV. Interculturalidad: política que, basada en el reconocimiento de la diversidad, se manifiesta en la salvaguarda, respeto y ejercicio del derecho de toda persona y comunidad a tener, conservar y fortalecer sus rasgos socioculturales y diferencias, que se desarrollan en el espacio privado y público, haciendo posible la interacción entre sociedades culturales, siempre y cuando no contravengan las leyes estatales o federales;
 
-V. Ley: Ley para la Protección y Atención del Migrante y sus Familias del Estado de Guanajuato;
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2024)</small>
 
-VI. Migrante: toda persona que sale de su lugar de origen o residencia, con el propósito de residir en un diverso lugar del país o en el extranjero;
+V. Interseccionalidad: es un enfoque de análisis que permite reconocer aquellos casos en que se presenta la combinación de dos o más condiciones o características en una misma persona como lo son raza, etnia, clase, género, sexo, orientación sexual, nacionalidad, edad, discapacidad, entre otros; las cuales multiplican las desventajas y discriminaciones. Este enfoque permite contemplar los problemas desde una perspectiva integral;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+VI. Ley: Ley para la Protección y Atención de las personas Migrantes y sus Familias del Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+VII. Migrante: toda persona que sale de su lugar de origen o residencia, con el propósito de residir en un diverso lugar del país o en el extranjero, de manera temporal o permanente;
 
 > <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
 
-VII. Migrante en retorno: migrante que retorna a su población de origen, independientemente del tiempo que haya residido en el extranjero de forma voluntaria o inducida;
+VIII. Migrante en retorno: migrante que retorna a su población de origen, independientemente del tiempo que haya residido en el extranjero de forma voluntaria o inducida;
 
 > <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
 
-VIII. Programa Estatal: Programa Estatal de Migración, Hospitalidad e Interculturalidad;
+IX. Programa Estatal: Programa Estatal de Migración, Hospitalidad e Interculturalidad;
 
 > <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2021)</small>
 
-IX. Registro Estatal: Registro Estatal de Organizaciones Migrantes Guanajuatenses; y
+X. Registro Estatal: Registro Estatal de Organizaciones Migrantes Guanajuatenses; y
 
-X. Secretaría: la Secretaría del Migrante y Enlace Internacional.
+XI. Secretaría: la Secretaría del Migrante y Enlace Internacional.
 
-Derechos de los migrantes
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 8 DE JULIO DE 2024)</small>
+
+Derechos de las personas migrantes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2024)</small>
 
 ###### Artículo 5.
 
-Son derechos de los migrantes y sus familias todos los conferidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución Política para el Estado de Guanajuato y los demás ordenamientos aplicables.
+Son derechos de las personas migrantes y sus familias todos los conferidos por la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales ratificados por el Estado Mexicano, la Constitución Política para el Estado de Guanajuato y los demás ordenamientos aplicables.
 
-Sin perjuicio de lo establecido en el párrafo anterior, los migrantes cuentan con los siguientes derechos:
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2024)</small>
+
+Los derechos a los que se hace referencia en el párrafo anterior serán tutelados por el Estado bajo los parámetros de la interseccionalidad, a fin de garantizar que los grupos en situación de vulnerabilidad tengan las mismas oportunidades de garantía, respeto y promoción de derechos.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JULIO DE 2024)</small>
+
+Sin perjuicio de lo establecido en el párrafo anterior, las personas migrantes cuentan con los siguientes derechos:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2021)</small>
 
@@ -147,15 +177,19 @@ II. De acceso a la justicia:
 
 a) A recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo del que sean parte o intervinientes;
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
-b) A recibir asesoría jurídica en forma gratuita en los términos de las disposiciones legales, en trámites administrativos y procedimientos judiciales o administrativos en que sean parte o intervinientes, así como contar con un representante legal cuando lo consideren necesario;
+b) A recibir asesoría jurídica en forma gratuita en los términos de las disposiciones legales, en trámites administrativos y procedimientos judiciales o administrativos en que sean parte o intervinientes, así como contar con un representante legal de oficio cuando lo consideren necesario;
 
 c) A la protección de su patrimonio personal y familiar;
 
-d) A recibir protección en caso de detención arbitraria, persecución y hostigamiento, salvo por los motivos y de conformidad (sic) que las leyes establezcan; y
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
-e) A qué se facilite un traductor o intérprete;
+d) A recibir protección en caso de detención arbitraria, persecución y hostigamiento; y
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
+e) A qué se facilite una persona traductora o intérprete;
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
 
@@ -181,7 +215,9 @@ a) A gozar de oportunidades igualitarias de acceso al trabajo o de otras posibil
 
 VI. De la asistencia social:
 
-a) A ser sujetos de programas de asistencia social en caso de discapacidad, pérdida de sus medios de subsistencia o por encontrarse en una situación de desamparo, en los términos de la normatividad aplicable;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
+a) A ser beneficiarias de programas de asistencia social en caso de discapacidad, pérdida de sus medios de subsistencia o por encontrarse en una situación de desamparo, en los términos de la normatividad aplicable;
 
 b) A tener acceso a todas las acciones que sobre asistencia social lleven a cabo el Estado y los municipios para fomentar en ellas y en la sociedad en general, una cultura de integración, dignidad y respeto, en los términos de la normatividad aplicable; y
 
@@ -191,13 +227,19 @@ VII. De la participación e información:
 
 a) A participar en los procesos de elaboración, actualización y evaluación de los planes y programas, conforme a las leyes respectivas;
 
-b) A asociarse y conformar organizaciones migrantes para promover su desarrollo e incidir en las acciones dirigidas a este sector;
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
+b) A asociarse y conformar organizaciones de personas migrantes para promover su desarrollo e incidir en las acciones dirigidas a este sector;
 
 c) A formar parte de los diversos órganos de representación y consulta ciudadana; y
 
-d) A recibir información sobre sus derechos y de las instituciones que prestan servicios a los migrantes.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
-A todo migrante le serán respetados sus derechos humanos sin distinción de sexo, preferencia sexual, origen étnico, raza, color, credo religioso, edad, idioma, ideología política, posición social o económica o cualquier otra condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+d) A recibir información sobre sus derechos y de las instituciones que prestan servicios a las personas migrantes.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
+A toda persona migrante le serán respetados sus derechos humanos sin distinción de sexo, preferencia sexual, origen étnico, raza, color, credo religioso, edad, idioma, ideología política, posición social o económica o cualquier otra condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
 
@@ -205,15 +247,19 @@ De manera adicional, en el caso de niñas, niños y adolescentes migrantes se ga
 
 Coordinación entre autoridades
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
 ###### Artículo 6.
 
-El Poder Ejecutivo del Estado y los Ayuntamientos deberán coordinarse para el cumplimiento de los fines de la presente Ley, promoviendo la participación individual y colectiva de la sociedad organizada que procure la protección de los derechos humanos de los migrantes y sus familias.
+El Poder Ejecutivo del Estado y los Ayuntamientos deberán coordinarse para el cumplimiento de los fines de la presente Ley, promoviendo la participación individual y colectiva de la sociedad organizada que procure la protección de los derechos humanos de las personas migrantes y sus familias.
 
 Deber de protección de las autoridades
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
 ###### Artículo 7.
 
-Las autoridades, en el ámbito de su competencia, deberán adoptar las medidas que garanticen a los migrantes y a sus familias la protección y el cuidado necesarios para preservar su integridad, sobre la base del respeto a su dignidad.
+Las autoridades, en el ámbito de su competencia, deberán adoptar las medidas que garanticen a las personas migrantes y a sus familias la protección y el cuidado necesarios para preservar su integridad, sobre la base del respeto a su dignidad.
 
 Supletoriedad
 
@@ -233,23 +279,27 @@ Los Ayuntamientos deberán considerar lo previsto en este artículo dentro del P
 
 ### CAPÍTULO II. AUTORIDADES COMPETENTES
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
 Autoridades
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
 ###### Artículo 10.
 
-Son autoridades competentes para la aplicación de esta ley: el Gobernador del Estado, la Secretaría y los Ayuntamientos, a través de las dependencias o entidades de la Administración Pública Estatal o Municipal que corresponda.
+Son autoridades competentes para la aplicación de esta ley: el Gobernador del Estado, la persona titular de la Secretaría y los Ayuntamientos, a través de las dependencias o entidades de la Administración Pública Estatal o Municipal que corresponda.
 
-Atribuciones del Gobernador
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 8 DE JULIO DE 2024)</small>
+
+Atribuciones de la persona Titular del Poder Ejecutivo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2024)</small>
 
 ###### Artículo 11.
 
-El Gobernador del Estado tendrá las siguientes atribuciones:
+La persona Titular del Poder Ejecutivo tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-I. Establecer en el Programa de Gobierno, la política pública en las materias de atención a los migrantes y sus familias, hospitalidad e interculturalidad;
+I. Establecer en el Programa de Gobierno, la política pública en las materias de atención a las personas migrantes y sus familias, hospitalidad e interculturalidad;
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -265,7 +315,9 @@ IV. Implementar el Programa Estatal estableciendo sus objetivos, estrategias y a
 
 V. Celebrar convenios con la Federación, entidades federativas, así como con organismos públicos y privados para promover acciones en las materias de su competencia;
 
-VI. Implementar acciones que fomenten el arraigo comunitario del migrante en retorno; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+VI. Implementar acciones que fomenten el arraigo comunitario de las personas migrantes en retorno; y
 
 VII. Las demás que le otorgue esta Ley y demás ordenamientos legales.
 
@@ -277,13 +329,19 @@ Atribuciones de la Secretaría
 
 La Secretaría tendrá, además de las establecidas en la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, las siguientes atribuciones:
 
-I. Diseñar, proponer, promover, instrumentar y evaluar políticas públicas para la atención integral de los migrantes, sus familias y el apoyo a sus comunidades de origen en el estado;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+I. Diseñar, proponer, promover, instrumentar y evaluar políticas públicas para la atención integral de las personas migrantes, sus familias y el apoyo a sus comunidades de origen en el estado;
 
 II. Autorizar y otorgar apoyos en dinero o en especie destinados a la atención de migrantes;
 
-III. Colaborar en la difusión de programas preventivos y de atención tendientes a mejorar las condiciones de salud de los migrantes y sus familias;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-IV. Colaborar en programas y acciones tendientes a respetar los derechos humanos de los migrantes y mejorar las condiciones de vida de las familias de migrantes guanajuatenses;
+III. Colaborar en la difusión de programas preventivos y de atención tendientes a mejorar las condiciones de salud de las personas migrantes y sus familias, teniendo como ejes rectores la perspectiva de género, la interseccionalidad y la interculturalidad;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+IV. Colaborar en programas y acciones tendientes a respetar los derechos humanos de las personas migrantes y mejorar las condiciones de vida de las familias de migrantes guanajuatenses;
 
 V. Colaborar con las instancias educativas correspondientes en la instrumentación de esquemas que permitan promover la continuidad de los estudios en ambos lados de la frontera, tanto de migrantes como sus familias en la entidad;
 
@@ -291,43 +349,59 @@ V. Colaborar con las instancias educativas correspondientes en la instrumentaci�
 
 VI. Diseñar y ejecutar el Programa Estatal;
 
-VII. Realizar campañas permanentes de difusión para fortalecer la cultura de protección de los derechos de los migrantes;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+VII. Realizar campañas permanentes de difusión para fortalecer la cultura de protección de los derechos de las personas migrantes en el país y en el exlerior (sic), tanto de migrantes como sus familias;
 
 VIII. Brindar asesoría, apoyo y, en su caso, vincular con las instancias competentes a las personas interesadas en la realización de algún trámite relacionado con su condición de migrante;
 
-IX. Asesorar a los guanajuatenses, cuando le sea solicitado, en la verificación de la autenticidad, legalidad y capacidad económica de las empresas, patrones o contratistas que pretendan contratar trabajadores guanajuatenses para realizar labores en el extranjero;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+IX. Asesorar a las personas guanajuatenses, cuando le sea solicitado, en la verificación de la autenticidad, legalidad y capacidad económica de las empresas, patrones o contratistas que pretendan contratar a personas guanajuatenses para realizar labores en el extranjero;
 
 X. Vincularse con las autoridades competentes para atender las denuncias en contra de empresas, patrones o contratistas que hayan defraudado a guanajuatenses en materia de contratación laboral en el extranjero;
 
-XI. Fomentar la vinculación intergubernamental para potenciar las acciones de proyección de los derechos y el apoyo jurídico a favor de los migrantes;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+XI. Fomentar la vinculación intergubernamental para potenciar las acciones de proyección de los derechos y el apoyo jurídico a favor de las personas migrantes;
 
 XII. Propiciar el reconocimiento de los procesos de hospitalidad, interculturalidad y migración en el contexto de receptividad, respeto, solidaridad y aceptación de la diversidad cultural hacia una convivencia y cohesión social;
 
 XIII. Fomentar la participación de las organizaciones de los sectores social y privado en las acciones de capacitación y sensibilización de autoridades sobre el fenómeno de migración, hospitalidad e interculturalidad;
 
-XIV. Asistir a los migrantes en situaciones de vulnerabilidad;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-XV. Realizar y gestionar, de manera permanente, estudios e investigaciones sobre hospitalidad, interculturalidad y atención de los migrantes, promoviendo su difusión;
+XIV. Asistir a las personas migrantes en situaciones de vulnerabilidad;
 
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-XVI. Promover mecanismos asequibles y ofertas de servicio que permitan el envío seguro, confiable y a bajo costo de las remesas de los migrantes, así como asesorar en el manejo o inversión en sus comunidades de origen a fin de que puedan mejorar sus condiciones de vida;
+XV. Realizar y gestionar, de manera permanente, estudios e investigaciones sobre hospitalidad, interculturalidad y atención de las personas migrantes, promoviendo su difusión;
 
-XVII. Coadyuvar con las autoridades federales competentes, con los municipios y con el migrante en retorno por deportación, cuando le sea solicitado dicho trámite;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+XVI. Promover mecanismos asequibles y ofertas de servicio que permitan el envío seguro, confiable y a bajo costo de las remesas de las personas migrantes, así como asesorar en el manejo o inversión en sus comunidades de origen a fin de que puedan mejorar sus condiciones de vida;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+XVII. Coadyuvar con las autoridades federales competentes, con los municipios y con la persona migrante en retorno por deportación, cuando le sea solicitado dicho trámite;
 
 > <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
 
 XVIII. Colaborar en la realización de las acciones que en materia internacional realicen las dependencias y entidades de la Administración Pública Estatal, para consolidar la presencia del estado de Guanajuato en el mundo;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-XIX. Promover entre los migrantes y sus familias su derecho a asociarse y conformar organizaciones migrantes;
+XIX. Promover entre las personas migrantes y sus familias su derecho a asociarse y conformar organizaciones de migrantes;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-XX. Asesorar y orientar a los migrantes guanajuatenses y a sus familias respecto de las rectificaciones y aclaraciones administrativas de actas del estado civil; y
+XX. Asesorar y orientar a las personas migrantes guanajuatenses y a sus familias respecto de las rectificaciones y aclaraciones administrativas de actas del estado civil;
 
-XXI. Las demás que le otorgue esta ley y demás ordenamientos legales.
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2024)</small>
+
+XXI. Generar los instrumentos y protocolos, con perspectiva de género, interseccionalidad e interculturalidad, necesarios para el cumplimiento de las atribuciones que no sean competencia de otra dependencia o entidad; y
+
+XXII. Las demás que le otorgue esta ley y demás ordenamientos legales.
 
 Atribuciones de los ayuntamientos
 
@@ -335,17 +409,25 @@ Atribuciones de los ayuntamientos
 
 Los ayuntamientos tendrán las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-I. Coadyuvar con la autoridad federal y estatal en la implementación de los programas y acciones en favor de los migrantes y sus familias, así como en las materias de hospitalidad e interculturalidad;
+I. Coadyuvar con la autoridad federal y estatal en la implementación de los programas y acciones en favor de las personas migrantes y sus familias, así como en las materias de hospitalidad e interculturalidad;
 
-II. Formular y desarrollar programas de atención a los migrantes y sus familias, en el marco de la política nacional y estatal, conforme a los principios y objetivos de los planes de desarrollo federal, estatal y municipal;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-III. Promover, fomentar, difundir y defender el ejercicio de los derechos de los migrantes y sus familias, así como el cumplimiento de las obligaciones de los responsables de éstas;
+II. Formular y desarrollar programas de atención a las personas migrantes y sus familias, en el marco de la política nacional y estatal, conforme a los principios y objetivos de los planes de desarrollo federal, estatal y municipal;
 
-IV. Orientar a los migrantes en retorno acerca de las opciones de educación, empleo, salud y vivienda; conforme manifiesten su intensión (sic) de residir en el municipio;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-V. Implementar acciones que fomenten el arraigo comunitario en el migrante en retorno;
+III. Promover, fomentar, difundir y defender el ejercicio de los derechos de las personas migrantes y sus familias, así como el cumplimiento de las obligaciones de los responsables de éstas;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+IV. Orientar a las personas migrantes en retorno acerca de las opciones de educación, empleo, salud y vivienda; conforme manifiesten su intención de residir en el municipio;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+V. Implementar acciones que fomenten el arraigo comunitario en las personas migrantes en retorno;
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -365,23 +447,29 @@ Los Ayuntamientos podrán contar conforme a su disposición presupuestal de una 
 
 La persona que ostente la titularidad de la oficina de hospitalidad, interculturalidad y migración, a fin de asegurar que cuenta con la experiencia y conocimientos necesarios para el desempeño del cargo, deberá contar preferentemente con los requisitos siguientes:
 
-I. Ser ciudadano guanajuatense;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+I. Contar con ciudadanía guanajuatense;
 
 II. Tener la capacidad de hablar y escribir el idioma inglés; y
 
 III. Contar con estudios o experiencia comprobada en alguna de las materias de hospitalidad, interculturalidad o migración.
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
 Deber de difusión
 
 ###### Artículo 15.
 
-Las autoridades estatales y municipales, en el ámbito de su competencia, impulsaran campañas de difusión que permita (sic) la protección de los derechos que tienen los migrantes y sus familias.
+Las autoridades estatales y municipales, en el ámbito de su competencia, impulsaran campañas de difusión que permitan la protección de los derechos que tienen las personas migrantes y sus familias.
 
 Coadyuvancia del Estado con el Gobierno Federal y los municipios
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
 ###### Artículo 16.
 
-El Ejecutivo del Estado coadyuvará con el Gobierno Federal y los Ayuntamientos, en la realización de programas temporales o permanentes de atención y orientación a migrantes, en aeropuertos, centrales de autobuses y carreteras, así como en aquellos establecimientos y vías cuya idoneidad se determine.
+El Ejecutivo del Estado coadyuvará con el Gobierno Federal y los Ayuntamientos, en la realización de programas temporales o permanentes de atención y orientación a personas migrantes, en aeropuertos, centrales de autobuses y carreteras, así como en aquellos establecimientos y vías cuya idoneidad se determine.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -395,21 +483,31 @@ Atribuciones del Consejo
 
 El Consejo es el órgano permanente y de conformación plural, que tiene por objeto brindar asesoría y consulta especializada a la Secretaría. Tendrá las siguientes atribuciones:
 
-I. Emitir opiniones y formular propuestas sobre la aplicación y orientación de las políticas públicas en materia de migrantes y sus familias, así como de hospitalidad e interculturalidad;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-II. Analizar y proponer los programas, obras y acciones que incidan en el cumplimiento de las políticas públicas en materia de migrantes y sus familias, así como de hospitalidad e interculturalidad;
+I. Emitir opiniones y formular propuestas sobre la aplicación y orientación de las políticas públicas en materia de personas migrantes y sus familias, así como de hospitalidad e interculturalidad;
 
-III. Impulsar la participación ciudadana y de las organizaciones civiles en la elaboración, actualización, ejecución y evaluación de programas y acciones en materia de migrantes y sus familias, así como de hospitalidad e interculturalidad;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-IV. Proponer la realización de estudios e investigaciones en materia de migrantes y sus familias, hospitalidad e interculturalidad, así como de aquellos que sustenten el diagnóstico, instrumentación y evaluación de políticas públicas y sus programas;
+II. Analizar y proponer los programas, obras y acciones que incidan en el cumplimiento de las políticas públicas en materia de personas migrantes y sus familias, así como de hospitalidad e interculturalidad;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+III. Impulsar la participación ciudadana y de las organizaciones civiles en la elaboración, actualización, ejecución y evaluación de programas y acciones en materia de personas migrantes y sus familias, así como de hospitalidad e interculturalidad;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+IV. Proponer la realización de estudios e investigaciones en materia de personas migrantes y sus familias, hospitalidad e interculturalidad, así como de aquellos que sustenten el diagnóstico, instrumentación y evaluación de políticas públicas y sus programas;
 
 V. Integrar comisiones o grupos de trabajo para el cumplimiento de sus funciones;
 
-VI. Coadyuvar en el diseño de proyectos específicos que tiendan a la protección de los derechos humanos de los migrantes; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+VI. Coadyuvar en el diseño de proyectos específicos que tiendan a la protección de los derechos humanos de las personas migrantes; y
 
 VII. Las demás que le encomiende la Secretaría y las que se señalen en esta ley y en su reglamento.
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
 Integración del Consejo
 
@@ -417,31 +515,39 @@ Integración del Consejo
 
 El Consejo estará integrado por:
 
-I. El titular del Poder Ejecutivo del Estado, quien fungirá como presidente.
+I. La persona titular del Poder Ejecutivo del Estado, quien fungirá como presidente.
 
-Cuando el titular del Poder Ejecutivo del Estado faltare a una sesión, la presidirá el titular de la Secretaría;
+Cuando la persona titular del Poder Ejecutivo del Estado faltare a una sesión, la presidirá la persona titular de la Secretaría;
 
-II. El titular de la Secretaría;
+II. La persona titular de la Secretaría;
 
-III. La Secretaría Ejecutiva, que será designada por el titular de la Secretaría;
+III. La Secretaría Ejecutiva, que será designada por la persona titular de la Secretaría;
 
-IV. Cinco representantes de las comunidades o asociaciones de migrantes en el extranjero;
+IV. Cinco personas representantes de las comunidades o asociaciones de migrantes en el extranjero;
 
-V. Un representante de las organizaciones civiles en el Estado que atiendan el tema de la migración; y
+V. Una persona representante de las organizaciones civiles en el Estado que atiendan el tema de la migración;
 
-VI. Una diputada o diputado integrante de la Comisión de Atención al Migrante del Congreso del Estado.
+VI. Una diputada o diputado integrante de la Comisión de Atención al Migrante del Congreso del Estado;
 
-Los consejeros referidos en las fracciones IV y V, serán designados por el titular del Poder Ejecutivo del Estado a propuesta del titular de la Secretaría. Los requisitos que deberán cumplir los integrantes y el procedimiento para su designación como consejeros, así como la forma en que funcionará el Consejo, estarán regulados en el reglamento de esta ley.
+VII. La persona titular del Instituto para las Mujeres Guanajuatenses; y
 
-Los integrantes del Consejo tendrán derecho a voz y voto, con excepción de la Secretaría Ejecutiva.
+VIII. Tres personas representantes de tres municipios que tengan un alto grado de intensidad migratoria con base a los estudios poblacionales que determine el Instituto Nacional de Estadística y Geografía.
+
+Las personas consejeras en las fracciones III y IV, serán designadas por quien sea titular del Poder Ejecutivo del Estado a propuesta de la persona titular de la Secretaría. Los requisitos que deberán cumplir quienes integren el Consejo y el procedimiento para su designación, así como la forma en que funcionará el Consejo, estarán regulados en el reglamento de esta ley.
+
+Las personas integrantes del Consejo tendrán derecho a voz y voto, con excepción de la Secretaría Ejecutiva.
+
+La inclusión de los tres municipios se realizará de manera rotatoria, anualmente y en el lugar subsecuente que arrojen lo (sic) estudios de población migrante.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Carácter honorífico del cargo
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
 ###### Artículo 16 Quáter.
 
-Los cargos de los integrantes del Consejo tendrán el carácter de honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por el desempeño de sus funciones.
+Los cargos de las personas integrantes del Consejo tendrán el carácter de honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por el desempeño de sus funciones.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -451,29 +557,37 @@ Colaboración y apoyo de la Secretaría
 
 La Secretaría prestará al Consejo la colaboración y el apoyo necesario para el ejercicio de sus atribuciones.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO III], P.O. 21 DE SEPTIEMBRE DE 2018)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JULIO DE 2024)</small>
 
-### CAPÍTULO IV. PROGRAMAS Y ACCIONES PARA LOS MIGRANTES Y SUS FAMILIAS
+### CAPÍTULO IV. PROGRAMAS Y ACCIONES PARA LAS PERSONAS MIGRANTES Y SUS FAMILIAS
 
 Congruencia con la planeación nacional
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
 ###### Artículo 17.
 
-En su formulación y ejecución, el Plan Estatal de Desarrollo deberá ser congruente con los principios, objetivos e instrumentos de los programas de atención a los migrantes, integrados en la política nacional.
+En su formulación y ejecución, el Plan Estatal de Desarrollo, el Programa de Gobierno, los Programas Sectoriales y los Programas Especiales deberán ser congruentes con los principios, objetivos e instrumentos de los programas de atención a las personas migrantes, integrados en la política nacional asegurando la incorporación de la perspectiva de género y de derechos humanos.
 
 Generación de políticas públicas
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
 ###### Artículo 18.
 
-En la generación de las políticas públicas a cargo de la Administración Pública Estatal y Municipal, conforme a sus respectivos ámbitos de competencia, se observará como criterio obligatorio el reconocer, promover y garantizar los derechos de los migrantes y sus familias.
+En la generación de las políticas públicas a cargo de la Administración Pública Estatal y Municipal, conforme a sus respectivos ámbitos de competencia, se observará como criterio obligatorio el reconocer, promover y garantizar los derechos de las personas migrantes y sus familias con un enfoque de género, de interseccionalidad y de interculturalidad.
 
 Objetivos de los programas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2024)</small>
+
 ###### Artículo 19.
 
-Para la elaboración de los programas que diseñe e implemente el Ejecutivo del Estado y los ayuntamientos en favor de los migrantes, deberán contemplar cuando menos los siguientes objetivos:
+Para la elaboración de los programas que diseñe e implemente el Ejecutivo del Estado y los ayuntamientos en favor de las personas migrantes, deberán contemplar cuando menos los siguientes objetivos:
 
-I. Promover la protección de los derechos humanos y de sus familias, en su caso, con apoyo individual y colectiva (sic) de la sociedad organizada;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+I. Promover la protección de los derechos humanos de las personas migrantes y de sus familias, en su caso, con apoyo individual y colectiva (sic) de la sociedad organizada;
 
 II. Fortalecer los servicios de salud individual y familiar en sus comunidades de origen;
 
@@ -487,35 +601,45 @@ V. Impulsar la creación de proyectos de desarrollo social, actividades producti
 
 VI. Generar acciones de inclusión social, cultural, económica, laboral, educativa y de salud, así como de apoyo en materia de vivienda y acceso a créditos para proyectos productivos;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-VII. Fomentar la unión familiar e integración cultural y social de los migrantes en retorno, teniendo como ejes rectores el irrestricto respeto de los derechos humanos, la igualdad y el interés superior de los niños, niñas y adolescentes; y
+VII. Fomentar la unión familiar e integración cultural y social de las personas migrantes en retorno, teniendo como ejes rectores el irrestricto respeto de los derechos humanos, la igualdad y el interés superior de niños, niñas y adolescentes;
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-VIII. Generar acciones que permitan a los migrantes guanajuatenses la obtención de documentos que acrediten su identidad.
+VIII. Generar acciones que permitan a las personas migrantes guanajuatenses la obtención de documentos que acrediten su identidad;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2024)</small>
+
+IX. Prevenir la explotación laboral y sexual de las personas migrantes, con enfoque especial hacia mujeres, niñas, niños y adolescentes, personas con discapacidad, adultos mayores; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2024)</small>
+
+X. Crear estrategias y acciones para atender los impactos de la migración en las comunidades de origen, especialmente en lo relacionado con la problemática de la desintegración familiar y en la atención de los grupos en situación de vulnerabilidad como son las mujeres, niños, niñas y adolescentes, adultos mayores, personas con discapacidad, que permanecen en estas comunidades.
 
 Acceso a los programas
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
 ###### Artículo 20.
 
-Para poder acceder a los programas en favor de los migrantes, se deberá:
+Las autoridades preverán los medios para facilitar el acceso a los programas gubernamentales, dando prioridad a las personas migrantes guanajuatenses y sus familias para su atención.
 
-I. Demostrar la condición de guanajuatense del beneficiado; y
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 8 DE JULIO DE 2024)</small>
 
-II. Acreditar que cuenta con un domicilio en el Estado de Guanajuato, en términos de la Ley.
+Derechos y obligaciones de las personas beneficiarias
 
-Las autoridades preverán los medios para facilitar el acceso a los programas gubernamentales, dando prioridad a los migrantes y sus familias para su atención.
-
-Derechos y obligaciones de los beneficiarios
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2024)</small>
 
 ###### Artículo 21.
 
-Los beneficiarios de los programas y acciones de atención a migrantes tendrán los derechos y obligaciones siguientes:
+Las personas beneficiarias de los programas y acciones de atención a migrantes tendrán los derechos y obligaciones siguientes:
 
 A) Derechos:
 
-I. Recibir información en relación a los programas, así como de los requisitos necesarios para ser beneficiarios de los mismos;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+I. Recibir información en relación a los programas, así como de los requisitos necesarios para ser beneficiarias de los mismos;
 
 II. Recibir los servicios y prestaciones de los programas de atención a migrantes, de conformidad con la normatividad aplicable;
 
@@ -529,35 +653,51 @@ I. Proporcionar en tiempo, forma y de manera veraz toda la información que les 
 
 II. Integrarse en los procesos de participación social, en apego a la normatividad aplicable.
 
-Deportación de migrantes
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 8 DE JULIO DE 2024)</small>
+
+Deportación de personas migrantes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2024)</small>
 
 ###### Artículo 22.
 
-Las autoridades estatales o municipales, en el ámbito de su competencia, coadyuvarán con las autoridades federales, en el caso de la deportación de migrantes guanajuatenses.
+Las autoridades estatales o municipales, en el ámbito de su competencia, coadyuvarán con las autoridades federales, en el caso de la deportación de personas migrantes guanajuatenses.
 
-Para tal efecto se podrá apoyar al deportado con un porcentaje del costo de traslado en efectivo o en especie, conviniendo con las empresas que brindan el servicio de transporte de pasajeros desde el punto fronterizo, puerto o aeropuerto que se encuentre hasta la localidad de origen dentro del Estado.
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
+Para tal efecto se podrá apoyar a la persona deportada con un porcentaje del costo de traslado en efectivo o en especie, conviniendo con las empresas que brindan el servicio de transporte de pasajeros desde el punto fronterizo, puerto o aeropuerto que se encuentre hasta la localidad de origen dentro del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2024)</small>
+
+Se deberá brindar atención de manera integral a las personas migrantes que, por diferentes factores o la combinación de ellos, enfrentan situaciones de vulnerabilidad con un enfoque intercultural, interseccional y con perspectiva de género.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
 Deportación por un delito
 
 ###### Artículo 23.
 
-Cuando la causa de deportación haya sido la comisión de un delito grave en México o en el extranjero que amerite pena corporal, los beneficios señalados en el segundo párrafo del artículo anterior, no serán aplicables para el deportado.
+Cuando la causa de deportación haya sido la comisión de un delito grave en México o en el extranjero que amerite pena corporal, los beneficios señalados en el segundo párrafo del artículo anterior, no serán aplicables para la persona deportada.
 
-Salvaguarda de los derechos del deportado
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 8 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+Salvaguarda de los derechos de la persona deportada
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
 ###### Artículo 24.
 
-La Secretaría podrá solicitar la intervención de la Comisión Nacional de los Derechos Humanos o de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, cuando una persona guanajuatense haya cometido un delito en el extranjero o en el país y sea extraditado conforme los tratados internacionales vigentes y la legislación penal aplicable, a fin de vigilar que la entrega a las autoridades correspondientes, se realice salvaguardando sus derechos a un trato digno y humano, sin que esto ponga en riesgo y confidencialidad de (sic) las acciones.
+La Secretaría podrá solicitar la intervención de la Comisión Nacional de los Derechos Humanos o de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, cuando una persona guanajuatense haya cometido un delito en el extranjero o en el país y sea extraditado conforme los tratados internacionales vigentes y la legislación penal aplicable, a fin de vigilar que la entrega a las autoridades correspondientes, se realice salvaguardando sus derechos a un trato digno y humano, sin que esto ponga en riesgo y la confidencialidad de las acciones.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
 Internación de cadáveres
 
 ###### Artículo 25.
 
-Cuando un guanajuatense fallezca en el extranjero, las autoridades estatales o municipales, en su caso, deberán otorgar todas las facilidades para el trámite de la documentación oficial que les sea requerida.
+Cuando una persona guanajuatense fallezca en el extranjero, las autoridades estatales o municipales, en su caso, deberán otorgar todas las facilidades para el trámite de la documentación oficial que les sea requerida.
 
-Los deudos del guanajuatense fallecido podrán solicitar al Estado o al Municipio, según sea el caso, se les brinde asesoría para la realización de los trámites de internación al territorio nacional.
+Los deudos de la persona guanajuatense fallecida podrán solicitar al Estado o al Municipio, según sea el caso, se les brinde asesoría para la realización de los trámites de internación al territorio nacional.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -567,23 +707,25 @@ Petición de clemencia
 
 Cuando se notifique a la Secretaría de que una persona guanajuatense haya sido sentenciada a pena de muerte, ésta podrá solicitar la intervención oficial de la Secretaría de Relaciones Exteriores a fin de hacer una petición de clemencia, en los términos de la legislación aplicable.
 
-Asistencia al migrante
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+Asistencia a la persona migrante
 
 ###### Artículo 27.
 
-La Secretaría podrá realizar trámites de documentación oficial para personas guanajuatenses radicadas en el extranjero, siempre y cuando dichos trámites no requieran que su realización se efectúe de manera personal. El costo del trámite y los derechos que éste cause, deberán ser cubiertos previamente por el solicitante.
+La Secretaría promoverá con el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato y ayuntamientos, así como con los titulares o responsables de los centros de asistencia social y las organizaciones de asistencia social, la habilitación de espacios de alojamiento o albergues para recibir personas migrantes deportados o en tránsito que enfrentan situaciones de vulnerabilidad, debiendo cubrir los estándares mínimos para que la atención se brinde con un enfoque intercultural, interseccional y con perspectiva de género en términos de la normatividad aplicable.
 
-Todo migrante tiene derecho a recibir asistencia de las autoridades estatales y municipales en caso de retorno y, ante la presencia de desastres naturales, terrorismo u otros que afecten su salud, seguridad e integridad física, dentro y fuera del territorio del estado.
+Toda persona migrante tiene derecho a recibir asistencia de las autoridades estatales y municipales en caso de retorno y, ante la presencia de desastres naturales, terrorismo u otros que afecten su salud, seguridad e integridad física, dentro y fuera del territorio del estado.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 Espacios de alojamiento o albergues
 
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
 ###### Artículo 27 Bis.
 
-La Secretaría promoverá con el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato y ayuntamientos, así como con los titulares o responsables de los centros de asistencia social y las organizaciones de asistencia social, la habilitación de espacios de alojamiento o albergues para recibir migrantes deportados o en tránsito que enfrentan situaciones de vulnerabilidad, debiendo cubrir los estándares mínimos para que la atención que ahí se les brinde sea la adecuada, en términos de la normatividad aplicable.
+La Secretaría promoverá con el Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato y ayuntamientos, así como con los titulares o responsables de los centros de asistencia social y las organizaciones de asistencia social, la habilitación de espacios de alojamiento o albergues para recibir personas migrantes deportados (sic) o en tránsito que enfrentan situaciones de vulnerabilidad, debiendo cubrir los estándares mínimos para que la atención se brinde con un enfoque intercultural, interseccional y con perspectiva de género en términos de la normatividad aplicable.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2021)</small>
 
@@ -593,6 +735,36 @@ Niñas, niños y adolescentes migrantes en tránsito
 
 1. Ante la presencia de niñas, niños o adolescentes migrantes, en situación de vulnerabilidad, que transitan el estado de Guanajuato con destino a diverso lugar del país o en el extranjero, la Secretaría deberá orientarlos para su atención, además de generar acciones de acompañamiento que así lo permitan, así como el informar dicha circunstancia a la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y al Sistema Estatal para el Desarrollo Integral de la Familia o municipal respectivo; ello tendiente a la pronta adopción de medidas para la protección de sus derechos que, bajo el principio de interés superior de la niñez, garanticen su mayor protección.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2024)</small>
+
+### CAPÍTULO IV BIS. MUJERES MIGRANTES
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2024)</small>
+
+Obligación de implementar acciones
+
+###### Artículo 27 Bis
+
+2. El Estado y los ayuntamientos deberán implementar acciones que permitan brindar una atención integral a las mujeres migrantes que, por diferentes factores o la combinación de ellos, presentan situaciones de vulnerabilidad, riesgo, discriminación, desigualdad y violencia.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2024)</small>
+
+Atribuciones y obligaciones en favor de las mujeres migrantes
+
+###### Artículo 27 Bis
+
+3. Son atribuciones y obligaciones de la persona titular del Poder Ejecutivo del Estado y de los ayuntamientos, las cuales se ejecutarán por conducto de las dependencias y entidades correspondientes, las siguientes:
+
+I. Realizar acciones que permitan atender las problemáticas a las que se enfrentan las mujeres migrantes, cumpliendo los tratados y convenios internacionales sobre materia migratoria de los cuales sea parte el Estado mexicano;
+
+II. Establecer acciones dirigidas a atender las condiciones de discriminación y desigualdad de las mujeres migrantes;
+
+III. Implementar acciones para prevenir, atender y sancionar la violencia contra las mujeres migrantes;
+
+IV. Proporcionar a las autoridades y organizaciones de la sociedad civil capacitación en derechos de las mujeres migrantes e igualdad; y
+
+V. Las demás que señale esta Ley y demás disposiciones jurídicas aplicables.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 ### CAPÍTULO V. PROGRAMAS Y ACCIONES DE HOSPITALIDAD E INTERCULTURALIDAD
@@ -601,21 +773,21 @@ Niñas, niños y adolescentes migrantes en tránsito
 
 Programa Estatal
 
-### CAPÍTULO VI. PRESENCIA DE GUANAJUATO EN EL MUNDO
-
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-Vinculación
-
 ###### Artículo 27 Ter.
 
 En la definición de objetivos, además de los mínimos establecidos en el artículo 19 de la presente Ley, así como para el establecimiento de estrategias y acciones, el Programa Estatal deberá considerar:
 
-I. Mejorar la calidad de vida de los migrantes a través de su atención integral;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
 
-II. Orientar a los migrantes, respecto a la seguridad de las oportunidades de trabajo en el extranjero;
+I. Mejorar la calidad de vida de las personas migrantes a través de su atención integral;
 
-III. Establecer la participación de los migrantes para conocer sus necesidades y consecuentemente adecuar en su beneficio, los Programas de la Secretaría;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+II. Orientar a las personas migrantes, respecto a la seguridad de las oportunidades de trabajo en el extranjero;
+
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+III. Establecer la participación de las personas migrantes para conocer sus necesidades y consecuentemente adecuar en su beneficio, los Programas de la Secretaría;
 
 IV. Fortalecer la coordinación del Estado con la Federación, los ayuntamientos, organismos públicos y la sociedad organizada; y
 
@@ -649,11 +821,11 @@ En el reglamento de esta ley y, en su caso, en la normatividad municipal, se est
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO VII. REGISTRO ESTATAL DE ORGANIZACIONES MIGRANTES GUANAJUATENSES
+### CAPÍTULO VI. PRESENCIA DE GUANAJUATO EN EL MUNDO
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
-Registro Estatal
+Vinculación
 
 ###### Artículo 27 Sexies.
 
@@ -661,17 +833,17 @@ La Secretaría se vinculará con las dependencias y entidades de la Administraci
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2021)</small>
 
-### CAPÍTULO VIII. RESPONSABILIDADES
+### CAPÍTULO VII. REGISTRO ESTATAL DE ORGANIZACIONES MIGRANTES GUANAJUATENSES
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
-Responsabilidad administrativa
+Registro Estatal
 
 ###### Artículo 27 Septies.
 
-El Registro Estatal es el instrumento de inscripción y consulta de las organizaciones migrantes guanajuatenses, cuya operación y actualización estará a cargo de la Secretaría.
+El Registro Estatal es el instrumento de inscripción y consulta de las organizaciones de migrantes guanajuatenses, cuya operación y actualización estará a cargo de la Secretaría.
 
-Todas las organizaciones migrantes guanajuatenses deben inscribirse en el Registro Estatal. La inscripción será gratuita y se sujetará a los lineamientos que al efecto emita el titular de la Secretaría.
+Todas las organizaciones de migrantes guanajuatenses deben inscribirse en el Registro Estatal. La inscripción será gratuita y se sujetará a los lineamientos que al efecto emita la persona titular de la Secretaría.
 
 > <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
 
@@ -683,11 +855,15 @@ El Registro Estatal será de carácter público y deberá incluir como mínimo:
 
 I. Denominación de la organización;
 
-II. Nombre del representante de la organización;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+II. Nombre de la persona representante de la organización;
 
 III. Objeto de la organización;
 
-IV. Integración de la organización, indicando el número de miembros y su lugar de origen; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+IV. Integración de la organización, indicando el número de personas que participan y su lugar de origen; y
 
 V. Domicilio de la organización.
 
@@ -695,19 +871,27 @@ Con relación a la fracción IV, en el supuesto de corresponder a una agrupació
 
 La información derivada del Registro Estatal se integrará al subsistema de información sobre migración guanajuatense, en términos de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y la Ley de Planeación para el Estado de Guanajuato.
 
-> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 8 DE JULIO DE 2024)</small>
 
-Reconocimiento como organización migrante guanajuatense
+Reconocimiento como organización de migrantes guanajuatenses
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
 ###### Artículo 27 Nonies.
 
-La inscripción en el Registro Estatal tiene como efecto el reconocimiento como organización migrante guanajuatense por parte de la Secretaría, para los efectos de la presente Ley.
+La inscripción en el Registro Estatal tiene como efecto el reconocimiento como organización de migrantes guanajuatenses por parte de la Secretaría, para los efectos de la presente Ley.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO VII], P.O. 13 DE ABRIL DE 2021)
 
+### CAPÍTULO VIII. RESPONSABILIDADES
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
+
+Responsabilidad administrativa
+
 ###### Artículo 28.
 
-Las autoridades estatales y municipales, y en general cualquier servidor público que no actúe con la diligencia debida en el cumplimiento de las obligaciones que esta ley impone, serán sancionados de acuerdo con la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin perjuicio de las responsabilidades penales o civiles o cualquier otra que se derive de dicho incumplimiento.
+Las autoridades estatales y municipales, y en general cualquier persona servidora pública que no actúe con la diligencia debida en el cumplimiento de las obligaciones que esta ley impone, serán sancionadas de acuerdo con la Ley de Responsabilidades Administrativas para el Estado de Guanajuato, sin perjuicio de las responsabilidades penales o civiles o cualquier otra que se derive de dicho incumplimiento.
 
 T R A N S I T O R I O S
 
@@ -798,3 +982,15 @@ P.O. 19 DE JULIO DE 2021.
 Inicio de vigencia
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 8 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO 325 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN Y ATENCIÓN DEL MIGRANTE Y SUS FAMILIAS DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Integración del Consejo Consultivo
+
+Artículo Segundo. La incorporación del Instituto para las Mujeres Guanajuatenses y de las tres personas representantes de los tres municipios con mayor incidencia de población migrante al Consejo Consultivo de Migración, deberá realizarse en la sesión próxima «ordinaria o extraordinaria de dicho Consejo», posterior a la entrada en vigor del presente Decreto.
