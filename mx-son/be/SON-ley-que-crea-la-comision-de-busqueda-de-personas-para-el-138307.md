@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-de-busqueda-de-personas-para-el-138307
 country: "mx"
 rank: "ley"
 publication_date: "2019-09-25"
-last_updated: "2019-09-25"
+last_updated: "2024-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY QUE CREA LA COMISIÓN DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE JULIO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el miércoles 25 de septiembre de 2019.
 
@@ -53,9 +53,23 @@ Se crea la Comisión de Búsqueda de Personas para el Estado de Sonora, como ór
 
 La Comisión Estatal tiene por objeto impulsar, ejecutar, coordinar y dar seguimiento a las acciones de búsqueda, localización e identificación de personas desaparecidas y no localizadas en el Estado de Sonora.
 
-###### ARTÍCULO 3.
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2024)</small>
 
-Para los efectos de la presente Ley, se entenderá por:
+Esto incluye, además de la búsqueda en vida, la búsqueda forense con fines de identificación de cuerpos y restos humanos desde la perspectiva individualizada o generalizada a través de un enfoque masivo o a gran escala o, en su caso, de identificación humana complementario, para ello, contará con un Centro Estatal de identificación Humana en el Estado de Sonora, el cual debe interconectarse y compartir la información con las herramientas del Sistema Nacional de Búsqueda de Personas, precisadas en el artículo 48 de la Ley General y demás disposiciones jurídicas aplicables relacionadas con la búsqueda e identificación de personas.
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2024)</small>
+
+A la Comisión Estatal, le corresponderán las atribuciones que al efecto le señala la presente Ley, así como su correspondiente Reglamento Interno.
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2024)</small>
+
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión de Búsqueda para el cumplimiento de la presente Ley.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2024)</small>
+
+###### Articulo 3.
+
+Para efectos de la presente Ley, se entenderá por:
 
 I.- Comisión Estatal: La Comisión de Búsqueda de Personas para el Estado de Sonora;
 
@@ -63,17 +77,25 @@ II.- Comisión Nacional: La Comisión Nacional de Búsqueda de Personas;
 
 III.- Consejo Estatal: El Consejo Estatal Ciudadano;
 
-IV.- Fiscalía General: Fiscalía General de Justicia del Estado de Sonora;
+IV.- Centro Estatal: al Centro Estatal de identificación Humana adscrito orgánicamente a la Comisión Estatal;
 
-V.- Instituciones de Seguridad Pública: A las instituciones policiales, de procuración de justicia, del sistema penitenciario y otras del Consejo Estatal de Seguridad Pública, encargadas o que realicen funciones de seguridad pública en el Estado de Sonora;
+V.- Enfoque de identificación humana complementario: al Sistema forense que combina la investigación forense de pequeña, moderada escala, individualizado o tradicional con una de enfoque integral de investigación forense de gran escala. Ambos se complementan y si las circunstancias lo exigen, pueden combinarse;
 
-VI.- Ley General: Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+VI.- Enfoque individualizado o tradicional: al Sistema forense multidisciplinario en el que se busca la identificación humana contrastando información caso por caso;
 
-VII.- Registro Nacional: Registro Nacional de Personas Desaparecidas y No Localizadas;
+VII.- Enfoque masivo o a gran escala: al Sistema forense multidisciplinario de identificación humana, que tiene como objetivo analizar toda la información forense disponible y útil para la identificación, priorizando los procedimientos técnicos que aumenten las probabilidades de identificación, incluyendo el análisis de toda la información ante mortem y post mortem disponible, basado en el contexto de cada caso;
 
-VIII.- Registro Estatal: Información de los registros de Personas Desaparecidas y no localizadas del Estado de Sonora que forma parte del Registro Nacional; y
+VIII.- Fiscalía General: Fiscalía General de Justicia del Estado de Sonora;
 
-IX.- Secretaría de Gobierno: La Secretaría de Gobierno del Estado de Sonora.
+IX.- Instituciones de Seguridad Pública: A las instituciones policiales, de procuración de justicia, del sistema penitenciario y otras del Consejo Estatal de Seguridad Pública, encargadas o que realicen funciones de seguridad publica en el Estado de Sonora;
+
+X.- Ley General: Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+XI.- Registro Nacional: Registro Nacional de Personas Desaparecidas y No Localizadas;
+
+XII.- Registro Estatal: información de los registros de Personas Desaparecidas y no localizadas del Estado de Sonora que forma parte del Registro Nacional; y
+
+XIII.- Secretaría de Gobierno: La Secretaría de Gobierno del Estado de Sonora.
 
 ###### ARTÍCULO 4.
 
@@ -165,11 +187,45 @@ XXIV.- Elaborar informes de análisis de contexto que incorporen a los procesos 
 
 XXV.- Solicitar información a las autoridades estatales para actualizar la información de hechos y datos sobre la desaparición de personas, así como de los delitos en materia de la Ley General;
 
-XXVI.- Suministrar y actualizar la información del Registro Estatal que formará parte del Registro Nacional por medio del Sistema Único de Información Tecnológica e informática del Sistema Nacional de Búsqueda en los términos que establezca la Ley General y los lineamientos establecidos por la Comisión Nacional en la materia; y
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2024)</small>
 
-XXVII.- Coordinarse con la Comisión Nacional de Búsqueda y realizar, en el ámbito de sus competencias, funciones análogas a las previstas en la Ley General en Materia de Desaparición Forzada de personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas; y
+XXVI.- Suministrar y actualizar la información del Registro Estatal que formará parte del Registro Nacional por medio del Sistema Único de información Tecnológica e Informática del Sistema Nacional de Búsqueda en los términos que establezca la Ley General y los lineamientos establecidos por la Comisión Nacional en la materia;
 
-XXVIII.- Las que se le encomienden en otras disposiciones aplicables.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2024)</small>
+
+XXVII.- Coordinarse con la Comisión Nacional de Búsqueda y realizar, en el ámbito de sus competencias, funciones análogas a las previstas en la Ley General en Materia de Desaparición Forzada de personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
+
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2024)</small>
+
+XXVIII.- Evaluar el cumplimiento de la implementación del Centro Estatal y generar mecanismos y acuerdos para coadyuvar con el logro de su objetivo;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
+
+XXIX.- Resguardar, a través del Centro Estatal, la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
+
+XXX.- Solicitar a las instituciones de los tres órdenes de gobierno, servicios forenses o periciales, Fiscalía, Fiscalías Especializadas y demás autoridades competentes la información concerniente a la búsqueda de personas desaparecidas, incluida la de identificación de cuerpos y restos humanos que tengan bajo su resguardo, sin perjuicio del cumplimiento de las obligaciones en materia de protección de datos personales y reserva de información pública;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
+
+XXXI.- Realizar campañas de toma de muestras referenciales con fines de procesamiento a nivel estatal, que permitan recabar información genética de los familiares de Personas Desaparecidas o No Localizadas, sin necesidad de denuncia, previa autorización de los familiares de personas desaparecidas o no localizadas;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
+
+XXXII.- Coordinar la operación del Centro Estatal en términos de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
+
+XXXIII.- Inspeccionar sitios en el que se encuentren cuerpos o restos humanos e indicios biológicos sin identificar;
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
+
+XXXIV.- Elaborar y presentar el anteproyecto de Reglamento Interno de la Comisión a la Secretaría de Gobierno; y
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
+
+XXXV.- Las que se le encomienden en otras disposiciones aplicables.
 
 ### CAPÍTULO III. ORGANIZACIÓN DE LA COMISIÓN ESTATAL
 
@@ -354,3 +410,19 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los nueve días del mes de septiembre del año dos mil diecinueve.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 8 DE JULIO DE 2024
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA LA COMISIÓN DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE SONORA”.]
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Segundo.- El Centro Estatal deberá comenzar a operar cuando menos a los 90 días hábiles siguientes de la entrada en vigor del presente Decreto.
+
+Tercero.- Iniciada la operación del Centro Estatal, la Comisión tendrá noventa días hábiles para emitir el Reglamento Interno a que se refiere la fracción XXXIV del artículo 6 de la presente Ley.
+
+Cuarto.- La Comisión tendrá un plazo de noventa días hábiles para presentar su anteproyecto de Reglamento Interno.
+
+Quinto.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal y cualquier otro ente público, en el ámbito de sus competencias, para dar cumplimiento a lo dispuesto en el presente Decreto, deberán cubrirse con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y subsecuentes, por lo que no se incrementarán sus respectivos presupuestos regularizables.
