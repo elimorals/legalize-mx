@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-de-la-152825"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-12-03"
-last_updated: "2021-12-03"
+last_updated: "2024-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE IGUALDAD E INCLUSION DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARIA DE IGUALDAD E INCLUSIÓN DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 8 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE IGUALDAD E INCLUSION DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2024 (ABROGADO).
 
 Código publicado en el Número 153 del Periódico Oficial del Estado de Nuevo León, el viernes 3 de diciembre de 2021.
 
@@ -324,3 +326,15 @@ Así lo acuerda y firma a los 12 días del mes de noviembre del 2021-dos mil vei
 LA SECRETARIA DE IGUALDAD E INCLUSIÓN DEL ESTADO DE NUEVO LEÓN
 
 MTRA. MARTHA PATRICIA HERRERA GONZÁLEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARIA DE IGUALDAD E INCLUSIÓN DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Acuerdo Administrativo por el que se emite el Código de Conducto de los Servidores Públicos de la Secretaría de Igualdad e Inclusión del Estado de Nuevo León, publicado en el Periódico Oficial del Estado el día 03-tres de diciembre de 2021-dos mil veintiuno.
+
+TERCERO.- El presente documento deberá ser difundido en la página oficial de internet y por los medios que se considere oportunos, con la finalidad de hacerlo del conocimiento de las personas servidoras públicas de la Secretaría de manera accesible.
