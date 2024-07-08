@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-118
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-27"
-last_updated: "2021-12-08"
+last_updated: "2024-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2024.
 
 Ley publicada en la Séptima Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el martes 27 de diciembre de 2016.
 
@@ -2809,7 +2809,9 @@ VI. Dirección de Comunicación Social;
 
 VII. Dirección de Asuntos Jurídicos;
 
-VIII. Dirección del Diario de los Debates y Archivo General; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+VIII. Dirección General de Archivos; y
 
 IX. Unidad de Seguimiento y Análisis de Impacto Legislativo.
 
@@ -3015,11 +3017,23 @@ f) Dar opinión técnica - legislativa y de práctica parlamentaria de los asunt
 
 IX. Asesorar en los asuntos legales del Congreso del Estado, en sus aspectos consultivo y contencioso;
 
-X. Proveer de información a los sistemas y plataformas electrónicos; y
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+X. Proveer de información a los sistemas y plataformas electrónicos;
 
 XI. Coadyuvar en la atención de los juicios de amparo, controversias constitucionales y acciones de inconstitucionalidad;
 
-XII. Revisar y corregir la redacción de toda resolución o dictamen aprobado por las Comisiones Legislativas o por el Pleno, respetando siempre el sentido estricto de lo aprobado.
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 2024)</small>
+
+XII. Revisar y corregir la redacción de toda resolución o dictamen aprobado por las Comisiones Legislativas o por el Pleno, respetando siempre el sentido estricto de lo aprobado;
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2024)</small>
+
+XIII. Elaborar y llevar el Diario de los Debates; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 2024)</small>
+
+XIV. Comunicar y notificar en su caso, los documentos que deriven de las sesiones de Pleno, de la Diputación Permanente y de las comisiones legislativas, que no le correspondan a otro órgano o unidad administrativa.
 
 El titular de la Dirección General de Servicios y Apoyo Técnico Parlamentario emitirá las certificaciones correspondientes y copias certificadas, en ausencia del titular de la Secretaría General.
 
@@ -3097,29 +3111,37 @@ II. Contar con título profesional en alguna de las ramas de las ciencias juríd
 
 III. Tener los conocimientos, experiencia y capacidad de acuerdo al perfil del puesto.
 
-#### Sección Sexta. Dirección del Diario de los Debates y Archivo General
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JULIO DE 2024)</small>
+
+#### Sección Sexta. Dirección General de Archivos
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 2024)</small>
 
 ###### Artículo 278.
 
-La Dirección del Diario de los Debates y Archivo General, es el área encargada de implementar métodos y prácticas destinados a planear, dirigir y controlar la generación, circulación, organización, conservación, uso, clasificación, transferencia y destino de los documentos de archivo, así como la elaboración del Diario de los Debates y tendrá las siguientes atribuciones:
+Son atribuciones de la Dirección General de Archivos:
 
-I. Asesorar a los enlaces de los archivos de trámites de las áreas administrativas del Poder Legislativo en la elaboración y actualización de los instrumentos de control y consulta archivística, en el proceso de transferencias primarias, y del manejo del Sistema informático de administración de documentos;
+I. Promover y vigilar el cumplimiento de las disposiciones en materia de gestión documental y administración de archivos;
 
-II. Controlar y resguardar el archivo de concentración;
+II. Coordinar las áreas operativas del sistema institucional de archivos llevando las acciones de gestión documental y administración de los archivos de manera conjunta con las áreas administrativas del Congreso del Estado;
 
-III. Elaboración del Diario de los Debates;
+III. Elaborar los instrumentos, criterios y políticas de control archivístico previstos en las leyes de la materia;
 
-IV. Controlar y resguardar el archivo histórico y la difusión del mismo;
+IV. Asesorar a los enlaces de los archivos de trámites de las áreas administrativas del Poder Legislativo en la elaboración y actualización de los instrumentos de control y consulta archivística, en el proceso de transferencias primarias, y del manejo del Sistema informático de administración de documentos;
 
-V. Presidir y convocar al Comité Técnico de Valoración Documental;
+V. Controlar y resguardar el archivo de concentración;
 
-VI. Comunicar y notificar en su caso, los documentos que deriven de las sesiones de Pleno, de la Diputación Permanente y de las comisiones legislativas, que no le correspondan a otro órgano o unidad administrativa; y
+VI. Controlar y resguardar el archivo histórico y la difusión de este;
 
-VII. Registrar las leyes, decretos, acuerdos y resoluciones que adopte el Pleno.
+VII. Presidir y convocar al Comité Técnico de Valoración Documental; y
+
+VIII. Registrar las leyes, decretos, acuerdos y resoluciones que adopte (sic) los órganos legislativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2024)</small>
 
 ###### Artículo 279.
 
-Para ser titular de la Dirección del Diario de los Debates y Archivo General, se requiere:
+Para ser titular de la Dirección General de Archivos, se requiere:
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
@@ -3596,3 +3618,9 @@ P.O. 8 DE DICIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 8, APROBADO POR LA SEXAGÉSIMA QUINTA LEGISLATURA DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 208 BIS, 208 TER Y 208 CUÁTER (SIC) DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
 
 Artículo único. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 8 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 337 EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
