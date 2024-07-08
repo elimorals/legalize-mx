@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2024-06-24"
+last_updated: "2024-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2024.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -523,6 +523,10 @@ E. Derecho a la vivienda
 3. Se impulsarán planes accesibles de financiamiento, medidas para asegurar gastos soportables y la seguridad jurídica en la tenencia de la vivienda.
 
 4. Se adoptarán medidas, de conformidad con la ley, contra el desalojo arbitrario e ilegal de los ocupantes de la vivienda.
+
+> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2024)</small>
+
+5. Las Unidades Habitacionales tendrán un presupuesto público para fortalecer su mejoramiento y mantenimiento, priorizando las de interés social, cuya asignación en cada ejercicio presupuestal será determinada de conformidad con las reglas de operación que se emitan.
 
 F. Derecho al agua y a su saneamiento
 
@@ -4517,3 +4521,9 @@ G.O. 24 DE JUNIO DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 8 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN NUMERAL 5 AL APARTADO E DEL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO, EN MATERIA DE DERECHO A LA VIVIENDA Y PRESERVACIÓN DE LAS UNIDADES HABITACIONALES”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
