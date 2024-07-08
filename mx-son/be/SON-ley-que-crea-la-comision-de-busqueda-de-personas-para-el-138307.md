@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-de-busqueda-de-personas-para-el-138307
 country: "mx"
 rank: "ley"
 publication_date: "2019-09-25"
-last_updated: "2019-09-25"
+last_updated: "2024-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,226 +21,408 @@ state: "SON"
 ---
 # LEY QUE CREA LA COMISION DE BUSQUEDA DE PERSONAS PARA EL ESTADO DE SONORA
 
-REGLAMENTO DE LA LEY DE JÓVENES EMPRENDEDORES DEL ESTADO DE MORELOS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY QUE CREA LA COMISIÓN DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE SONORA
 
-Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de septiembre de 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE JULIO DE 2024.
 
-Al margen izquierdo un Escudo del Estado de Morelos que dice.- "Tierra y Libertad".- La tierra volverá a quienes la trabajan con sus manos.- Gobierno del Estado de Morelos.- 2006-2012.
+Ley publicada en el Boletín Oficial del Estado de Sonora, el miércoles 25 de septiembre de 2019.
 
-MARCO ANTONIO ADAME CASTILLO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCIO (SIC) DE LAS FACULTADES QUE ME CONFIEREN LOS ARTÍCULOS 70 FRACCIONES XVII Y XXVI DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS; 2, 3, 6 Y 8 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y
+CLAUDIA ARTEMIZA PAVLOVICH ARELLANO, Gobernadora del Estado Libre y Soberano de Sonora, a sus habitantes sabed:
 
-CONSIDERANDO...
+Que el Honorable Congreso del Estado, se ha servido dirigirme la siguiente:
 
-Por lo anteriormente expuesto y fundado, he tenido a bien expedir el siguiente:
+LEY
 
-REGLAMENTO DE LA LEY DE JÓVENES EMPRENDEDORES DEL ESTADO DE MORELOS.
+NÚMERO 81
 
-### CAPÍTULO I
+EL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SONORA, EN NOMBRE DEL PUEBLO, TIENE A BIEN EXPEDIR LA SIGUIENTE:
 
-DISPOSICIONES GENERALES.
+LEY
 
-###### Artículo 1.
+QUE CREA LA COMISIÓN DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE SONORA
 
-Este Reglamento tiene por objeto regular la aplicación de las disposiciones contenidas en la Ley de Jóvenes Emprendedores del Estado de Morelos, así como establecer las directrices para la implementación y aplicación del Fondo de Promoción e Impulso al Joven Emprendedor.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### Artículo 2.
+###### ARTÍCULO 1.
 
-Para los efectos del presente Reglamento se entenderá por:
+Se crea la Comisión de Búsqueda de Personas para el Estado de Sonora, como órgano administrativo desconcentrado y dependiente directo de la Secretaría de Gobierno que forma parte del Sistema Nacional de Búsqueda.
 
-I. Joven Emprendedor: Aquella persona hasta los 29 años de edad, que identifica una oportunidad de negocio o necesidad de un producto o servicio y organiza los recursos necesarios para ponerla en marcha, convertir una idea en un proyecto concreto, ya sea una empresa o una organización social que genere algún tipo de innovación y empleos;
+###### ARTÍCULO 2.
 
-II. Proyecto incubado de negocios: Es el documento escrito elaborado por un Emprendedor o Empresario, que define claramente los objetivos de un negocio y describe los métodos que van a emplearse para alcanzar los objetivos. Para tal fin, consiste en una serie de actividades relacionadas entre sí para el comienzo o desarrollo de un proyecto con un sistema de planeación tendiente a alcanzar metas determinadas;
+La Comisión Estatal tiene por objeto impulsar, ejecutar, coordinar y dar seguimiento a las acciones de búsqueda, localización e identificación de personas desaparecidas y no localizadas en el Estado de Sonora.
 
-III. Secretaría: La Secretaría de Desarrollo Económico del Estado de Morelos;
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2024)</small>
 
-IV. FIDECOMP: Fideicomiso Ejecutivo del Fondo de Competitividad y Promoción del Empleo, creado por la Ley General del Hacienda del Estado de Morelos;
+Esto incluye, además de la búsqueda en vida, la búsqueda forense con fines de identificación de cuerpos y restos humanos desde la perspectiva individualizada o generalizada a través de un enfoque masivo o a gran escala o, en su caso, de identificación humana complementario, para ello, contará con un Centro Estatal de identificación Humana en el Estado de Sonora, el cual debe interconectarse y compartir la información con las herramientas del Sistema Nacional de Búsqueda de Personas, precisadas en el artículo 48 de la Ley General y demás disposiciones jurídicas aplicables relacionadas con la búsqueda e identificación de personas.
 
-V. FIFODEPI: Fideicomiso Fondo de Desarrollo Empresarial y Promoción de la Inversión, creado por la Ley de Desarrollo Económico Sustentable para el Estado de Morelos;
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2024)</small>
 
-VI. Ley: La Ley de Jóvenes Emprendedores del Estado de Morelos;
+A la Comisión Estatal, le corresponderán las atribuciones que al efecto le señala la presente Ley, así como su correspondiente Reglamento Interno.
 
-VII. Reglamento: El presente Reglamento de la Ley de Jóvenes Emprendedores del Estado de Morelos;
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 2024)</small>
 
-VIII. FONDO: El Fondo de Promoción e Impulso al Joven Emprendedor;
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Comisión de Búsqueda para el cumplimiento de la presente Ley.
 
-IX. Beneficiarios: Los jóvenes emprendedores cuyas características se describen en la Ley;
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 2024)</small>
 
-X. Programas: Los programas de fomento al Joven Emprendedor que serán instrumentados por el FIFODEPI;
+###### Articulo 3.
 
-XI. Solicitud de Apoyo: Formato diseñado por el FIFODEPI, mediante el cual, los beneficiarios deberán solicitar el apoyo pretendido, y
+Para efectos de la presente Ley, se entenderá por:
 
-XII. Apoyo: Monto de recurso aprobado por cada solicitud.
+I.- Comisión Estatal: La Comisión de Búsqueda de Personas para el Estado de Sonora;
 
-###### Artículo 3.
+II.- Comisión Nacional: La Comisión Nacional de Búsqueda de Personas;
 
-El Estado, por conducto de la Secretaría, en su carácter de cabeza de sector de los Fideicomisos FIDECOMP y FIFODEPI, instrumentará y ejecutará el Fondo, en términos de lo establecido en la Ley y el presente Reglamento.
+III.- Consejo Estatal: El Consejo Estatal Ciudadano;
 
-###### Artículo 4.
+IV.- Centro Estatal: al Centro Estatal de identificación Humana adscrito orgánicamente a la Comisión Estatal;
 
-Para efecto de la constitución del Fondo, el Estado, por conducto de la Secretaría, con fundamento en lo dispuesto por el artículo 4 inciso j) de la Ley, presentará ante el FIDECOMP la solicitud de apoyo para que éste determine con base en su disponibilidad presupuestal e ingresos obtenidos, el monto de recursos que integrarán el Fondo, que será en términos de ley el equivalente al 5% del total de los recursos que le ingresen en el ejercicio fiscal correspondiente. Dicho recurso será transferido al FIFODEPI, que será el encargado de ejecutar el Fondo, a través de la instrumentación de los Programas para jóvenes emprendedores a que se refiere la Ley y el presente Reglamento.
+V.- Enfoque de identificación humana complementario: al Sistema forense que combina la investigación forense de pequeña, moderada escala, individualizado o tradicional con una de enfoque integral de investigación forense de gran escala. Ambos se complementan y si las circunstancias lo exigen, pueden combinarse;
 
-###### Artículo 5.
+VI.- Enfoque individualizado o tradicional: al Sistema forense multidisciplinario en el que se busca la identificación humana contrastando información caso por caso;
 
-El FIFODEPI será el encargado de instrumentar los programas de fomento al emprendedor, mismos que, de conformidad con la Ley, podrán consistir de manera enunciativa más no limitativa en lo siguiente:
+VII.- Enfoque masivo o a gran escala: al Sistema forense multidisciplinario de identificación humana, que tiene como objetivo analizar toda la información forense disponible y útil para la identificación, priorizando los procedimientos técnicos que aumenten las probabilidades de identificación, incluyendo el análisis de toda la información ante mortem y post mortem disponible, basado en el contexto de cada caso;
 
-I. Formación de emprendedores, para proporcionar al Joven Emprendedor las herramientas necesarias a fin de generar nuevas empresas que va desde la idea de negocio hasta su constitución;
+VIII.- Fiscalía General: Fiscalía General de Justicia del Estado de Sonora;
 
-II. Capacitación, adiestramiento y consultoría especializada al Joven Emprendedor, que abarcará la realización de cursos de capacitación específicos, con el fin de que obtengan herramientas que permitan la constitución de empresas;
+IX.- Instituciones de Seguridad Pública: A las instituciones policiales, de procuración de justicia, del sistema penitenciario y otras del Consejo Estatal de Seguridad Pública, encargadas o que realicen funciones de seguridad publica en el Estado de Sonora;
 
-III. Promover y facilitar el acceso del Joven Emprendedor al financiamiento público y privado, con condiciones preferenciales, y
+X.- Ley General: Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
 
-IV. Impulso a proyectos de los Jóvenes Emprendedores que tengan contenido de innovación y desarrollo tecnológico.
+XI.- Registro Nacional: Registro Nacional de Personas Desaparecidas y No Localizadas;
 
-### CAPÍTULO II
+XII.- Registro Estatal: información de los registros de Personas Desaparecidas y no localizadas del Estado de Sonora que forma parte del Registro Nacional; y
 
-FONDO DE PROMOCIÓN E IMPULSO AL JOVEN EMPRENDEDOR.
+XIII.- Secretaría de Gobierno: La Secretaría de Gobierno del Estado de Sonora.
 
-###### Artículo 6.
+###### ARTÍCULO 4.
 
-Podrán ser beneficiarios de los apoyos del Fondo, los Jóvenes Emprendedores que, de conformidad con Ley y el presente Reglamento cuenten con hasta 29 años de edad, identifiquen una oportunidad de negocio o necesidad de un producto o servicio y organicen los recursos necesarios para ponerla en marcha.
+La Comisión Estatal estará a cargo de un Titular, nombrado y removido por el Gobernador Constitucional del Estado a propuesta del Secretario de Gobierno.
 
-#### SECCIÓN II
+La Secretaría de Gobierno, para la propuesta de la persona Titular, realizará una consulta previa a los colectivos de víctimas, familiares de desaparecidos, personas expertas y organizaciones de la sociedad civil especializadas en la materia.
 
-REQUISITOS PARA ACCEDER A LOS APOYOS DEL FONDO.
+Para la consulta pública a la que se hace referencia en el párrafo anterior, la Secretaría de Gobierno deberá observar, como mínimo, las bases siguientes:
 
-### CAPÍTULO III
+I.- Generar un mecanismo a través del cual la sociedad civil presente candidatos;
 
-INSTRUMENTACIÓN DE PROGRAMAS DEL FONDO DE PROMOCIÓN E IMPULSO AL JOVEN EMPRENDEDOR.
+II.- Publicar toda la información disponible sobre el perfil de las y los candidatos registrados; y
 
-###### Artículo 7.
+III.- Hacer público el nombramiento sobre la persona titular de la Comisión Estatal, acompañada de una exposición fundada y motivada sobre la idoneidad del perfil elegido.
 
-Los jóvenes emprendedores a que se refiere la Ley y este Reglamento, que deseen obtener un apoyo del Fondo, deberán presentar, debidamente cumplimentada, una solicitud de apoyo ante el FIFODEPI, en el formato que al efecto publique la Secretaría, la cual contendrá los campos que a continuación se mencionan:
+###### ARTÍCULO 5.
 
-I. Nombre;
+Para ser Titular de la Comisión Estatal, se requiere:
 
-II. Nacionalidad;
+I.- Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-III. Registro Federal de Contribuyente;
+II.- No haber sido condenado por la comisión de un delito doloso o inhabilitado como servidor público;
 
-IV. Domicilio fiscal;
+III.- Contar con título y cédula profesional, expedidos por autoridad o institución legalmente facultada para ello;
 
-V. Actividad económica a la que se dedica o se pretende con el proyecto;
+IV.- No haber desempeñado cargo de dirigente nacional o estatal en algún partido político, dentro de los dos años previos a su nombramiento;
 
-VI. Municipio o Municipios donde se sitúa o situará su proyecto;
+V.- Haberse desempeñado destacadamente en actividades profesionales, de servicio público, en la sociedad civil o académicas relacionadas con la materia, por lo menos en los dos años previos a su nombramiento; y
 
-VII. Descripción del proyecto que pretende, en el cual se señale:
+VI.- Contar con conocimientos y experiencia en derechos humanos y búsqueda de personas, y preferentemente con conocimientos en ciencias forenses o investigación criminal.
 
-a. Monto de la inversión a realizar y programa calendarizado, por meses, durante el cual se efectuará la misma;
+En el nombramiento de la persona Titular de la Comisión Estatal, debe garantizarse el respeto a los principios que prevé esta Ley, especialmente los de enfoque transversal de género diferencial y de no discriminación.
 
-b. Número de empleos directos que se pretenden generar, manifestando sus respectivas remuneraciones y programa calendarizado, por meses, para su creación;
+La persona titular de la Comisión Estatal no podrá tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-c. Fuentes de financiamiento con que se cuenten, debiendo exhibir las cartas compromiso o de crédito que las sustenten;
+### CAPÍTULO II. ATRIBUCIONES DE LA COMISIÓN ESTATAL
 
-d. Todos aquellos documentos que sirvan de base para cuantificar el apoyo solicitado, incluyendo según corresponda: proyectos, cotizaciones, presupuestos, entre otros, y
+###### ARTÍCULO 6.
 
-e. Toda aquella información adicional que se considere relevante para la realización del proyecto.
+La Comisión Estatal, tendrá las atribuciones siguientes:
 
-###### Artículo 8.
+I.- Coordinarse y mantener comunicación continua y permanente con la Comisión Nacional y las Comisiones Estatales de búsqueda de otras entidades federativas;
 
-Para ser beneficiarios, los jóvenes emprendedores deberán adjuntar a toda solicitud los siguientes documentos:
+II.- Informar cada tres meses a la Comisión Nacional sobre el avance en el cumplimiento del Programa Nacional de Búsqueda y aquella información que solicite la Comisión Nacional de acuerdo a sus atribuciones;
 
-I. Copia simple de su acta de nacimiento;
+III.- Solicitar la información necesaria a las autoridades estatales y municipales sobre el cumplimiento de las políticas y estrategias para la búsqueda y localización de Personas Desaparecidas o No Localizadas para integrar los informes especificados en la fracción anterior;
 
-II. Copia simple de su identificación oficial;
+IV.- Solicitar a la Comisión Nacional emita medidas extraordinarias y de alertas cuando en un municipio del Estado aumente significativamente el número de desapariciones, estén involucrados grupos en situación de vulnerabilidad, existan indicios de una posible participación de las autoridades estatales o municipales en alguno de los delitos contemplados en la Ley General, u otras situaciones que así lo ameriten;
 
-III. Copia simple de su cédula del Registro Federal de Contribuyente, y
+V.- Mantener comunicación con la Fiscalía General y demás autoridades estatales y municipales para la coordinación de acciones de búsqueda y localización cuando lo estime pertinente o por recomendación de la Comisión Nacional;
 
-IV. Comprobante de domicilio.
+VI.- Informar sin dilación a la Fiscalía General cuando considere que la desaparición de una persona se debe a la comisión de un delito de acuerdo a los criterios establecidos en el artículo 89 de la Ley General;
 
-#### SECCIÓN III
+VII.- Celebrar, de conformidad con las disposiciones aplicables, convenios de coordinación, colaboración y concertación, o cualquier otro instrumento jurídico necesarios para el cumplimiento de su objeto;
 
-PROCEDIMIENTO DE SELECCIÓN Y APROBACIÓN.
+VIII.- Dar seguimiento y atender a las recomendaciones de organismos de derechos humanos, de la Comisión Nacional y del Consejo Estatal en los temas relacionados con las funciones y atribuciones de esta Comisión Estatal;
 
-###### Artículo 9.
+IX.- Determinar y en su caso ejecutar las acciones necesarias a efecto de garantizar la búsqueda y localización de personas en todo el territorio estatal;
 
-Con base en el estudio de la información contenida en la solicitud de apoyo, el FIFODEPI determinará acerca de la pertinencia de someter ante su Comité Técnico el otorgamiento del o los apoyos solicitados, de acuerdo con los siguientes criterios:
+X.- Formular solicitudes de acciones de búsqueda a la Fiscalía General, instancias policiales y demás Instituciones del Estado, para que se realicen acciones específicas de búsqueda de personas desaparecidas o no localizadas;
 
-I. El impacto en la generación de empleos formales, monto y plazo del proyecto presentado;
+XI.- Colaborar con la Fiscalía General y demás instituciones de procuración de justicia en la investigación y persecución de los delitos vinculados con sus funciones;
 
-II. La disponibilidad presupuestal, y
+XII.- Promover las medidas necesarias para lograr la protección de aquellas personas desaparecidas cuya vida, integridad o libertad se encuentre en peligro;
 
-III. La idoneidad y viabilidad técnica así como financiera del proyecto presentado.
+XIII.- Recibir la información que aporten los particulares u organizaciones en los casos de desaparición forzada de personas y desaparición cometida por particulares y, en su caso, remitirla a la Fiscalía General;
 
-El número de proyectos y programas aprobados anualmente dependerá de los recursos disponibles con los que se cuente para el Fondo.
+XIV.- Asesorar y canalizar a los familiares ante la Fiscalía General para que, de ser el caso, realicen la denuncia correspondiente;
 
-###### Artículo 10.
+XV.- Solicitar a la Comisión de Atención a Víctimas del Estado que implementen los mecanismos necesarios para que a través del Fondo al que se refiere la Ley de Atención a Víctimas para el Estado de Sonora de acuerdo a la disponibilidad presupuestaria y la normatividad aplicable, se cubran los gastos de ayuda cuando lo requieran los familiares de las Personas Desaparecidas por la presunta comisión de los delitos materia de la Ley General, de conformidad con la ley en la materia;
 
-El FIFODEPI dará trámite a las, solicitudes de apoyos en los siguientes términos:
+XVI.- Establecer mecanismos de comunicación, participación y evaluación con la sociedad civil y los familiares para que coadyuven con los objetivos, fines y trabajos de esta Comisión Estatal, en términos que prevean las leyes de la materia;
 
-I. Al momento de la presentación, revisará que la solicitud se encuentre debidamente integrada:
+XVII.- Solicitar y coordinar la colaboración de medios de comunicación, organizaciones de la sociedad civil y de la sociedad en general para la búsqueda y localización de Personas Desaparecidas o No Localizadas, de conformidad con la normativa aplicable;
 
-a) En caso negativo, se prevendrá al solicitante para que subsane a más tardar al día siguiente, o
+XVIII.- Solicitar a los concesionarios de radiodifusión y telecomunicaciones, de conformidad con la legislación en la materia, dentro de las transmisiones correspondientes a los tiempos del Estado, y por conducto de la autoridad competente, y previa autorización de los Familiares, la difusión de boletines relacionados con la Búsqueda de Personas Desaparecidas o No Localizadas;
 
-b) En caso afirmativo se le asignará un número de registro para su trámite y se procederá a su evaluación.
+XIX.- Diseñar y proponer mecanismos de coordinación y colaboración con las demás autoridades estatales y municipales, a efecto de llevar a cabo las acciones en la búsqueda de Personas Desaparecidas o No Localizadas;
 
-Las solicitudes serán atendidas conforme al registro de su recepción, no pudiendo darse otro tipo de orden o preferencia;
+XX.- Integrar grupos de trabajo en el Estado para proponer acciones específicas de búsqueda de personas, así como colaborar con la Comisión Nacional en el análisis del fenómeno de desaparición a nivel Nacional brindando información sobre el problema a nivel regional;
 
-II. En caso de que resulte insuficiente la información presentada por el solicitante, la Secretaría podrá requerirle los datos adicionales que juzgue necesarios, los cuales deberán presentarse dentro de los 10 días naturales siguientes a que sea notificado. Dicha notificación suspenderá el plazo para la evaluación del proyecto. Si no se presenta la información requerida se tendrá al interesado por desistido de la solicitud;
+XXI.- Dar vista al Ministerio Público y a las autoridades competentes en materia de responsabilidades administrativas de los servidores públicos, sobre las acciones u omisiones que puedan constituir una violación a los ordenamientos de la materia;
 
-III. Una vez evaluada la solicitud, emitirá el dictamen correspondiente. Y someterá su autorización a la consideración del Comité Técnico en la sesión respectiva;
+XXII.- Colaborar con la Comisión Nacional en el diseño de programas regionales de búsqueda de personas;
 
-IV. En caso de que la solicitud haya sido rechazada, el dictamen deberá fundar y motivar la negativa; quedando a salvo los derechos del interesado para volver a presentar la solicitud, una vez satisfechas las omisiones o incumplimientos señalados en el dictamen, y
+XXIII.- Elaborar informes que permitan conocer la existencia de características y patrones de desaparición y asociación de casos en el Estado que permitan el diseño de acciones estratégicas de búsqueda;
 
-V. En caso de que la solicitud sea aprobada por el Comité Técnico, el FIFODEPI realizará la notificación correspondiente al beneficiario.
+XXIV.- Elaborar informes de análisis de contexto que incorporen a los procesos de búsqueda elementos sociológicos, antropológicos y victimológicos, a fin de fortalecer las acciones de búsqueda;
 
-#### SECCIÓN IV
+XXV.- Solicitar información a las autoridades estatales para actualizar la información de hechos y datos sobre la desaparición de personas, así como de los delitos en materia de la Ley General;
 
-TIPOS DE APOYO Y MONTOS.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2024)</small>
 
-###### Artículo 11.
+XXVI.- Suministrar y actualizar la información del Registro Estatal que formará parte del Registro Nacional por medio del Sistema Único de información Tecnológica e Informática del Sistema Nacional de Búsqueda en los términos que establezca la Ley General y los lineamientos establecidos por la Comisión Nacional en la materia;
 
-El monto destinado para los apoyos del Fondo, a que se refiere el presente Reglamento, será de conformidad con la disponibilidad presupuestal con que se cuente para el ejercicio fiscal correspondiente.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2024)</small>
 
-#### SECCIÓN V
+XXVII.- Coordinarse con la Comisión Nacional de Búsqueda y realizar, en el ámbito de sus competencias, funciones análogas a las previstas en la Ley General en Materia de Desaparición Forzada de personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
 
-OBLIGACIONES DE LOS BENEFICIARIOS.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 2024)</small>
 
-### CAPÍTULO IV
+XXVIII.- Evaluar el cumplimiento de la implementación del Centro Estatal y generar mecanismos y acuerdos para coadyuvar con el logro de su objetivo;
 
-APOYOS A LOS PROGRAMAS DEL FONDO DE PROMOCIÓN E IMPULSO AL JOVEN EMPRENDEDOR.
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
 
-#### SECCIÓN I
+XXIX.- Resguardar, a través del Centro Estatal, la información tendiente a la identificación humana la cual, una vez procesada, será remitida a la autoridad competente y dada a conocer a las familias interesadas en términos de las disposiciones jurídicas aplicables;
 
-BENEFICIARIOS.
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
 
-###### Artículo 12.
+XXX.- Solicitar a las instituciones de los tres órdenes de gobierno, servicios forenses o periciales, Fiscalía, Fiscalías Especializadas y demás autoridades competentes la información concerniente a la búsqueda de personas desaparecidas, incluida la de identificación de cuerpos y restos humanos que tengan bajo su resguardo, sin perjuicio del cumplimiento de las obligaciones en materia de protección de datos personales y reserva de información pública;
 
-Los Jóvenes Emprendedores que resulten elegidos para ser beneficiarios deberán suscribir un convenio de colaboración, elaborado por el FIFODEPI, el cual detallará las obligaciones específicas, los plazos y montos de ejecución del proyecto, así como el tipo y monto del apoyo aprobado.
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
 
-###### Artículo 13.
+XXXI.- Realizar campañas de toma de muestras referenciales con fines de procesamiento a nivel estatal, que permitan recabar información genética de los familiares de Personas Desaparecidas o No Localizadas, sin necesidad de denuncia, previa autorización de los familiares de personas desaparecidas o no localizadas;
 
-Dentro de las obligaciones de todo beneficiario se encuentran las siguientes:
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
 
-I. Invertir o destinar los apoyos otorgados en los plazos señalados o autorizados. En caso de que el beneficiario requiera un mayor plazo, deberá informarlo a la Secretaría, para su autorización;
+XXXII.- Coordinar la operación del Centro Estatal en términos de esta Ley, su Reglamento y demás disposiciones jurídicas aplicables;
 
-II. Mantener las condiciones que se consideraron para su otorgamiento;
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
 
-III. Acreditar haber cumplido con sus obligaciones fiscales y laborales correspondientes;
+XXXIII.- Inspeccionar sitios en el que se encuentren cuerpos o restos humanos e indicios biológicos sin identificar;
 
-IV. Informar bimestralmente en el periodo de ejecución del proyecto al FIFODEPI, sobre la aplicación y destino, de los apoyos recibidos, soportados con la documentación comprobatoria necesaria;
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
 
-V. El beneficiario será responsable del aprovechamiento del o los apoyos otorgados y deberá cumplir con los compromisos adquiridos. Para comprobarlo, el FIFODEPI podrá llevar a cabo visitas de verificación al beneficiario con el objeto de comprobar la permanencia de las condiciones y requisitos legales considerados para el otorgamiento del o los apoyos, así como los compromisos asumidos, y el beneficiario estará obligado a brindar todas las facilidades necesarias para la práctica de las visitas de verificación, así como de proporcionar toda la información y documentación relacionada con el proyecto que le sea solicitada por el FIFODEPI;
+XXXIV.- Elaborar y presentar el anteproyecto de Reglamento Interno de la Comisión a la Secretaría de Gobierno; y
 
-VI. Suscribir, con el FIFODEPI, el convenio de colaboración para el otorgamiento del apoyo a que se refiere el presente Reglamento, y
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 2024)</small>
 
-VII. Presentar los informes y un informe final comprobando la aplicación de los recursos recibidos con apego al convenio de colaboración suscrito.
+XXXV.- Las que se le encomienden en otras disposiciones aplicables.
 
-### CAPÍTULO V
+### CAPÍTULO III. ORGANIZACIÓN DE LA COMISIÓN ESTATAL
 
-INCENTIVOS FISCALES Y TRIBUTARIOS.
+###### ARTÍCULO 7.
 
-###### Artículo 14.
+La Comisión Estatal, para el cumplimiento de sus objetivos, atribuciones y actividades, además de su Titular, contará con las siguientes áreas:
 
-Para la implementación de los estímulos fiscales y tributarios a que se refiere la Ley, de conformidad con lo dispuesto por el artículo 38 del Código Fiscal para el Estado de Morelos, la Secretaría gestionará y promoverá los estímulos fiscales y tributarios, en coordinación con la Secretaría de Finanzas y Planeación, a fin de que se instrumenten los acuerdos administrativos que al efecto emita el titular del Poder Ejecutivo.
+I.- Área de Coordinación de Acciones de Búsqueda en donde se integrará el o los Grupos Especializados de Búsqueda conformado por servidores públicos certificados y especializados en materia de búsqueda, de conformidad con los criterios que establezca el Sistema Nacional de Búsqueda;
 
-###### Artículo 15.
+II.- Área de Análisis de Contexto y Procesamiento de Información;
 
-La Secretaría, en coordinación con la Secretaría de Finanzas y Planeación dará trámite a las solicitudes de otorgamiento de los incentivos fiscales y tributarios a que se refiere la Ley, en los términos establecidos por el Reglamento de la Ley de Desarrollo Económico Sustentable del Estado Libre y Soberano de Morelos.
+III.- Área de seguimiento, atención ciudadana y vinculación con organizaciones público privada; y
 
-## TRANSITORIOS.
+IV.- La estructura administrativa necesaria para el cumplimiento de sus funciones.
 
-PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+###### ARTÍCULO 8.
 
-SEGUNDO. Se derogan todas las disposiciones administrativas de igual o menor rango que se opongan al presente Reglamento.
+El Titular de la Comisión Estatal, tendrá las atribuciones siguientes:
+
+I.- Celebrar los convenios necesarios para el ejercicio de sus funciones con la Comisión Nacional y las autoridades estatales competentes;
+
+II.- Constituirse como integrante del Sistema Nacional de Búsqueda;
+
+III.- Coordinar la ejecución de acciones de búsqueda de Personas Desaparecidas y No Localizadas en el Estado de Sonora, de conformidad con los protocolos y la normativa aplicable;
+
+IV.- Dirigir, planear, dar seguimiento y evaluar las actividades de las distintas áreas de la Comisión Estatal conforme al Programa Nacional de Búsqueda y de ser el caso, conforme los programas regionales;
+
+V.- Instrumentar mecanismos de coordinación con las Secretarías, dependencias y entidades de la administración pública estatal, municipios, órganos autónomos y órganos con autonomía técnica, para la ejecución de sus programas y acciones;
+
+VI.- Mantener la coordinación y comunicación continua y permanente con la Fiscalía General y la Fiscalía Especializada en Materia de Desaparición Forzada y Búsqueda de Personas Desaparecidas Federal;
+
+VII.- Informar y mantener coordinación y comunicación continua y permanente con la Comisión Nacional de Búsqueda de Personas; y
+
+VIII.- Las demás que le señalen las disposiciones legales aplicables.
+
+###### ARTÍCULO 9.
+
+El titular del Área de Coordinación de Acciones de Búsqueda para el adecuado cumplimiento de sus acciones, tendrá las atribuciones siguientes:
+
+I.- Proponer al titular de la Comisión Estatal y, en su caso, ejecutar las acciones necesarias a efecto de garantizar la búsqueda y localización de personas en todo el territorio estatal;
+
+II.- Plantear al titular de la Comisión Estatal solicitudes de acciones de búsqueda a la Fiscalía General, instancias policiales y demás Instituciones del Estado, para que se realicen acciones específicas de búsqueda de personas desaparecidas o no localizadas;
+
+III.- Coadyuvar con la Fiscalía General y demás autoridades estatales y municipales para la coordinación de acciones de búsqueda y localización;
+
+IV.- Proponer al titular de la Comisión Estatal, mecanismos de coordinación y colaboración con las demás autoridades estatales y municipales, a efecto de llevar a cabo las acciones en la búsqueda de Personas Desaparecidas o No Localizadas;
+
+V.- Coadyuvar en la comunicación continua y permanente con la Comisión Nacional y las comisiones estatales de búsqueda de otras entidades federativas, a fin de buscar las mejores prácticas para la localización de personas;
+
+VI.- Proponer al titular de la Comisión Estatal la solicitud a la Comisión Nacional para que emita medidas extraordinarias y de alertas, cuando en un municipio del Estado aumente significativamente el número de desapariciones;
+
+VII.- Colaborar, en el ámbito de su competencia, con la Comisión Nacional en el diseño de programas regionales de búsqueda de personas;
+
+VIII.- Proponer al titular de la Comisión Estatal el informe a la Comisión Nacional sobre el cumplimiento del Programa Nacional de Búsqueda y atender sus recomendaciones en la materia; y
+
+IX.- Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular de la Comisión Estatal dentro de la esfera de sus atribuciones.
+
+###### ARTÍCULO 10.
+
+El titular del Área de Análisis de Contexto y Procesamiento de Información tendrá las atribuciones siguientes:
+
+I.- Elaborar informes semestrales, que permitan conocer la existencia de características y patrones de desaparición y asociación de casos en el Estado que permitan el diseño de acciones estratégicas de búsqueda y proponerlo al titular de la Comisión Estatal;
+
+II.- Elaborar informes de análisis de contexto que incorporen a los procesos de búsqueda elementos sociológicos, antropológicos y victimológicos, a fin de fortalecer las acciones de búsqueda y proponerlo al titular de la Comisión Estatal;
+
+III.- Proponer al titular de la Comisión Estatal las solicitudes de información a las autoridades estatales para actualizar la información de hechos y datos sobre la desaparición de personas, así como de los delitos en materia de la Ley General;
+
+IV.- Previo acuerdo con el titular de la Comisión Estatal, suministrar y actualizar la información del Registro Estatal que formará parte del Registro Nacional por medio del Sistema Único de Información Tecnológica e Informática del Sistema Nacional de Búsqueda, en los términos que establezca la Ley General y los lineamientos establecidos por la Comisión Nacional en la materia; y
+
+V.- Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular de la Comisión Estatal dentro de la esfera de sus atribuciones.
+
+###### ARTÍCULO 11.
+
+El titular del Área de seguimiento, atención ciudadana y vinculación con organizaciones público-privadas, tendrá las siguientes atribuciones:
+
+I.- Proponer al titular de la Comisión Estatal, mecanismos de comunicación, participación y evaluación con la sociedad civil y los familiares para que coadyuven con los objetivos, fines y trabajos de esta Comisión Estatal, en términos que prevean las leyes de la materia;
+
+II.- Sugerir al titular de la Comisión Estatal, la colaboración de medios de comunicación, organizaciones de la sociedad civil y de la sociedad en general para la búsqueda y localización de Personas Desaparecidas o No Localizadas, de conformidad con la normativa aplicable;
+
+III.- Solicitar, previo acuerdo con el titular de la Comisión Estatal, a los concesionarios de radiodifusión y telecomunicaciones, de conformidad con la legislación en la materia, dentro de las transmisiones correspondientes a los tiempos del Estado, y por conducto de la autoridad competente, y previa autorización de los Familiares, la difusión de boletines relacionados con la Búsqueda de Personas Desaparecidas o No Localizadas;
+
+IV.- Coadyuvar en el cumplimiento por parte de las instituciones estatales y municipales de las políticas y estrategias para la búsqueda y localización de Personas Desaparecidas o No Localizadas;
+
+V.- Dar seguimiento y proponer la atención al titular de la Comisión Estatal, a las recomendaciones de organismos de derechos humanos, de la Comisión Nacional y del Consejo Estatal en los temas relacionados con las funciones y atribuciones de esta Comisión Estatal;
+
+VI.- Proponer al titular de la Comisión Estatal, dar vista al Ministerio Público y a las autoridades competentes en materia de responsabilidades administrativas de los servidores públicos, sobre las acciones u omisiones que puedan constituir una violación a los ordenamientos de la materia;
+
+VII.- Recibir la información que aporten los particulares u organizaciones en los casos de desaparición forzada de personas y desaparición cometida por particulares y, en su caso, remitirla a la Fiscalía General;
+
+VIII.- Asesorar y canalizar a los familiares ante la Fiscalía General para que, de ser el caso, realicen la denuncia correspondiente;
+
+IX.- Plantear al titular de la Comisión Estatal, las solicitudes a la Comisión Ejecutiva Estatal de Victimas que implementen los mecanismos necesarios para que a través del Fondo de Ayuda, Asistencia y Reparación Integral se cubran los gastos de ayuda cuando lo requieran los familiares de las Personas Desaparecidas por la presunta comisión de los delitos materia de la Ley General, de conformidad con la ley en la materia;
+
+X.- Elaborar un informe estadístico sobre los asuntos de su competencia; y
+
+XI.- Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular de la Comisión Estatal dentro de la esfera de sus atribuciones.
+
+### CAPÍTULO IV. CONSEJO ESTATAL CIUDADANO
+
+###### ARTÍCULO 12.
+
+El Consejo Estatal, es un órgano de consulta en materia de búsqueda de personas, sus decisiones serán públicas, en apego a la legislación de transparencia y protección de datos personales.
+
+###### ARTÍCULO 13.
+
+El Consejo Estatal estará integrado por al menos:
+
+I.- Dos familiares que representen a las Personas Desaparecidas o No Localizadas;
+
+II.- Tres especialistas de reconocido prestigio en la protección y defensa de los derechos humanos, la búsqueda de Personas Desaparecidas o No Localizadas o en la investigación y persecución de los delitos previstos en la Ley General. Se procurará que uno de los especialistas siempre sea en materia forense; y
+
+III.- Dos representantes de organizaciones de la sociedad civil de derechos humanos que cuenten con experiencia en el tema de desaparición y búsqueda de personas.
+
+Los integrantes a que se refieren las fracciones anteriores deben ser nombrados por el Congreso del Estado previa consulta pública con las organizaciones de familiares, de las organizaciones defensoras de los derechos humanos, de los grupos organizados de víctimas y expertos en las (sic) materia previstos en la Ley Estatal y General.
+
+La duración de su función será de tres años, sin posibilidad de reelección, y no deberán desempeñar ningún cargo como servidor público.
+
+###### ARTÍCULO 14.
+
+Los integrantes del Consejo Estatal ejercerán su función en forma honorífica, y no recibirán emolumento o contraprestación económica alguna por su desempeño.
+
+Los integrantes del Consejo Estatal deben elegir a quien coordine los trabajos de sus sesiones, por mayoría de votos, quien durará en su encargo un año, sin posibilidad de reelección.
+
+El Consejo Estatal emitirá sus reglas de funcionamiento en las que determinará los requisitos y procedimientos para nombrar a su Secretario Técnico, para realizar la convocatoria a sus sesiones bimestrales y para definir contenidos del orden del día de cada sesión.
+
+Las recomendaciones, propuestas y opiniones del Consejo Estatal deberán ser comunicadas a la Comisión Estatal y deberán ser consideradas para la toma de decisiones. Y en el caso de la Comisión Estatal determine no adoptar las recomendaciones que formule el Consejo Estatal, deberá explicar las razones para ello.
+
+La Secretaría de Gobierno proveerá al Consejo Estatal de los recursos necesarios para el desempeño de sus funciones de acuerdo a su carga presupuestal.
+
+###### ARTÍCULO 15.
+
+El Consejo Estatal tendrá las atribuciones siguientes:
+
+I.- Solicitar información relacionada a los procedimientos de búsqueda y localización a la Comisión Estatal;
+
+II.- Proponer a la Comisión Estatal y en su caso acompañar las acciones para acelerar o profundizar sus acciones, en el ámbito de sus competencias;
+
+III.- Proponer y emitir a la Comisión Estatal, recomendaciones sobre los criterios de idoneidad, convenios, lineamientos, programas y reglamentos que emita la Comisión Estatal;
+
+IV.- Contribuir, de acuerdo a lo establecido en la presente Ley, a la participación directa de los familiares en el ejercicio de sus atribuciones;
+
+V.- Dar vista a la Comisión Estatal, o de ser necesario a las autoridades competentes y órganos internos de control sobre las irregularidades en las actuaciones de servidores públicos relacionados con la búsqueda e investigación de Personas Desaparecidas y No Localizadas;
+
+VI.- Dar seguimiento y emitir recomendaciones sobre la integración y operación de la Comisión Estatal la implementación del Programa Nacional de Búsqueda de Personas Desaparecidas;
+
+VII.- Elaborar, aprobar y modificar la guía de procedimientos del Comité para la evaluación y seguimiento de las acciones emprendidas por la Comisión Estatal; y
+
+VIII.- Las demás que señale sus Reglas de Funcionamiento.
+
+T R A N S I T O R I O S
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor el día 01 de enero de 2020, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+En un término no mayor a veinte días hábiles, contados a partir de la fecha de publicación de la presente Ley, el Secretario de Gobierno emitirá la convocatoria correspondiente para la designación del Titular de la Comisión Estatal.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Gobierno, asignará los recursos que requiera la Comisión Estatal para el inicio de sus actividades, en un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor de la presente Ley, sujetándose a su presupuesto autorizado para el ejercicio fiscal correspondiente.
+
+Asimismo, en términos del artículo Décimo Séptimo, párrafo segundo de la Ley General, el Congreso del Estado, en los términos de la legislación aplicable, deberá destinar los recursos necesarios para el cumplimiento de las obligaciones que le compete en términos de la presente Ley.
+
+Asi mismo, el Ejecutivo Estatal deberá contemplar en la iniciativa del Decreto del Presupuesto de Egresos del Gobierno del Estado para el ejercicio fiscal 2020, una partida presupuestaria suficiente para la operación y funcionamiento de la Comisión Estatal.
+
+###### ARTÍCULO CUARTO.
+
+El Consejo Estatal, deberá estar conformado dentro de los sesenta días posteriores a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+En un plazo de treinta días posteriores a su conformación el Consejo Estatal deberá emitir sus Reglas de Funcionamiento.
+
+###### ARTÍCULO SEXTO.
+
+Dentro de los noventa días siguientes a que comience la operación del Registro Nacional de Personas Desaparecidas y No Localizadas, la Comisión Estatal, deberá de actualizar el Registro Estatal que forma parte del Registro Nacional.
+
+Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en el Boletín Oficial del Gobierno del Estado.- SALON DE SESIONES DEL H. CONGRESO DEL ESTADO. Hermosillo, Sonora, 05 de septiembre de 2019. C. LUIS ARMANDO COLOSIO MUÑOZ, DIPUTADO PRESIDENTE.- RÚBRICA.- C. ORLANDO SALIDO RIVERA, DIPUTADO SECRETARIO.- RÚBRICA.- C. MARCIA LORENA CAMARENA MONCADA, DIPUTADA SECRETARIA.- RÚBRICA.
+
+Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
+
+Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los nueve días del mes de septiembre del año dos mil diecinueve.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 8 DE JULIO DE 2024
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 177, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA LA COMISIÓN DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE SONORA”.]
+
+Primero.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+Segundo.- El Centro Estatal deberá comenzar a operar cuando menos a los 90 días hábiles siguientes de la entrada en vigor del presente Decreto.
+
+Tercero.- Iniciada la operación del Centro Estatal, la Comisión tendrá noventa días hábiles para emitir el Reglamento Interno a que se refiere la fracción XXXIV del artículo 6 de la presente Ley.
+
+Cuarto.- La Comisión tendrá un plazo de noventa días hábiles para presentar su anteproyecto de Reglamento Interno.
+
+Quinto.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal y cualquier otro ente público, en el ámbito de sus competencias, para dar cumplimiento a lo dispuesto en el presente Decreto, deberán cubrirse con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y subsecuentes, por lo que no se incrementarán sus respectivos presupuestos regularizables.
