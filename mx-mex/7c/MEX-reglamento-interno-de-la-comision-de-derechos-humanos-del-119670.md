@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interno-de-la-comision-de-derechos-humanos-del-11967
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-02-14"
-last_updated: "2024-05-13"
+last_updated: "2024-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=119670&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MEX"
 ---
 # REGLAMENTO INTERNO DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. EN LA GACETA DEL GOBIERNO DE FECHA 13 DE MAYO DE 2024, NO SE PRECISA LA REFORMA AL ARTÍCULO 8 DEL PRESENTE REGLAMENTO A QUE HACE MENCIÓN EL ACUERDO CODHEM/CC/01E/2024/09.]</small>
-
 REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE JULIO DE 2024.
 
 Reglamento publicado en la Sección Tercera al Número 28 de la Gaceta del Gobierno del Estado de México, el martes 14 de febrero de 2017.
 
@@ -192,6 +190,10 @@ VIII. La Visitaduría General sede Tenango del Valle, tendrá competencia en el 
 IX. La Visitaduría General sede Cuautitlán, tendrá competencia en el territorio que comprenden los municipios de: Apaxco, Cuautitlán; Coyotepec, Hueypoxtla, Jaltenco, Melchor Ocampo, Nextlalpan, Teoloyucan, Tequixquiac, Tultepec, Tultitlán y Zumpango;
 
 X. (DEROGADA, G.G. 11 DE MARZO DE 2022)
+
+> <small>(ADICIONADA, G.G. 9 DE JULIO DE 2024)</small>
+
+XII (sic). Visitaduría General San Mateo Ateneo, sede "Ciudad Mujeres".
 
 > <small>(REFORMADO, G.G. 11 DE MARZO DE 2022)</small>
 
@@ -2567,13 +2569,13 @@ PRIMERO. Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno"
 
 SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES III, IV, V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 2; SE REFORMA (SIC) LAS FRACCIONES V Y EL INCISO B) DE LA FRACCIÓN VI DEL ARTÍCULO 112 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+G.G. 9 DE JULIO DE 2024.
 
-PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+## [N. DE E. TRANSITORIOS DEL “ACUERDO CODHEM/CC/05/2024/14 POR EL QUE SE APRUEBA LA MODIFICACIÓN Y ADICIÓN DEL ARTÍCULO 8 DEL REGLAMENTO INTERNO DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+PRIMERO. Publíquese este Acuerdo en el Periódico Oficial "Gaceta del Gobierno" del Estado de México, así como en la Gaceta de Derechos Humanos, órgano informativo de la Comisión de Derechos Humanos del Estado de México, con el objeto de dar a conocer al público en general y a las autoridades interesadas lo ordenado en el presente acuerdo, para los efectos legales a que haya lugar.
 
-G.O. 21 DE ABRIL DE 2023.
+SEGUNDO. Este Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES X Y XI, Y SE ADICIONA UNA FRACCIÓN XII DEL ARTÍCULO 44; SE ADICIONA UN PÁRRAFO SEGUNDO, TERCERO Y CUARTO, RECORRIENDOSE LOS SUBSECUENTES, DEL ARTÍCULO 78; SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 79; Y SE ADICIONA UN PÁRRAFO SEGUNDO, RECORRIENDOSE EL SUBSECUENTE, DEL ARTÍCULO 83; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
 
