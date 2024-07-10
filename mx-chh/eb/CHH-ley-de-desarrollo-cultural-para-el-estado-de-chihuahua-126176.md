@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-cultural-para-el-estado-de-chihuahua-126176"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-03"
-last_updated: "2021-09-04"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Ley publicada en el Número 10 del Periódico Oficial de Chihuahua, el sábado 3 de febrero de 2018.
 
@@ -409,6 +409,10 @@ VIII. Coadyuvar con los municipios en el diseño de la política cultural que at
 
 IX. Crear, proponer esquemas y programas de financiamiento en su caso y gestionar estímulos fiscales para fomentar la creación artística y la conservación del patrimonio cultural.
 
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+X. Coadyuvar con los municipios a fin de garantizar el derecho de niñas, niños y adolescentes al descanso y al esparcimiento, en condiciones de igualdad, así como la participación en actividades culturales y artísticas dentro de su comunidad.
+
 ###### Artículo 21.
 
 Para el cumplimiento de sus objetivos, la Secretaría tiene las siguientes atribuciones:
@@ -447,7 +451,13 @@ XVI. Constituir órganos de apoyo para la ejecución de políticas públicas y p
 
 XVII. Actuar en términos de lo dispuesto en la ley correspondiente, como órgano auxiliar de análisis y opinión para la implementación de acciones en materia de ordenamiento territorial de los asentamientos humanos y de desarrollo urbano sustentable, que afecten al patrimonio cultural del Estado.
 
-XVIII. Las que le otorgue esta Ley y demás ordenamientos que resulten aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2024)</small>
+
+XVIII. Diseñar y fomentar programas tendientes a promover la recreación y participación de niñas, niños y adolescentes en las actividades culturales y artísticas de su interés.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
+
+XIX. Las que le otorgue esta Ley y demás ordenamientos que resulten aplicables.
 
 ###### Artículo 22.
 
@@ -854,3 +864,11 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0861/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
