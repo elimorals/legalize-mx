@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2024-06-12"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -183,7 +183,9 @@ XVIII.- Fomentar el cuidado de la salud individual, prevenir sobre los perjuicio
 
 XIX.- Excluir de la enseñanza toda instrucción y propaganda de cualquier credo o doctrina religiosa;
 
-XX.- Reafirmar la democracia como un sistema de vida a través de la forma de gobierno republicano, representativo y federal;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XX.- Fomentar una cultura democrática, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
 XXI.- Enaltecer los derechos individuales y sociales y postular la paz universal, basada en el reconocimiento de los derechos económicos, políticos y sociales de las naciones, y
 
@@ -248,6 +250,10 @@ XXXVI.- Impulsar programas e implementar acciones que favorezcan la prevención 
 > <small>(ADICIONADA, P.O. 22 DE MARZO DE 2023)</small>
 
 XXXVII.- Impulsar y propiciar esquemas de revalorización de residuos, reciclaje, eco–técnicas, permacultura y huertos urbanos, con el fin de inculcar una cultura de economía circular la cual generará herramientas para incentivar el acceso al bienestar y medio ambiente sano de los alumnos.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XXXVIIII.- Lograr con perspectiva de género, que se identifique y elimine la discriminación como resultado de las diferencias sexuales y las ideas y representaciones que se construyen con referencia a esa diferencia sexual y a los géneros.
 
 ### CAPITULO III. AMBITO DE APLICACION
 
@@ -337,15 +343,15 @@ I.- Prestar en la entidad el servicio público educacional que ofrezca el Gobier
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2012)</small>
 
-II. Dirigir, promover, atender, administrar y sostener a aquellos establecimientos educativos que, encontrándose bajo su jurisdicción y esfera de competencia, incluyendo al tipo superior, presten servicios de educación inicial, preescolar, primaria, secundaria, formación de maestros y especial en los términos que señala esta ley, el marco constitucional local y los ordenamientos federales;
+II.- Dirigir, promover, atender, administrar y sostener a aquellos establecimientos educativos que, encontrándose bajo su jurisdicción y esfera de competencia, incluyendo al tipo superior, presten servicios de educación inicial, preescolar, primaria, secundaria, formación de maestros y especial en los términos que señala esta ley, el marco constitucional local y los ordenamientos federales;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-III. Administrar los recursos financieros para la operación óptima de los establecimientos especificados en el párrafo anterior, conforme a las asignaciones presupuestarias federales y estatales aprobadas para tal efecto, los acuerdos concertados sobre el particular con el Ejecutivo Federal y las disposiciones de orden federal y estatal que resulten aplicables, prestando todas las facilidades y colaboración para que, en su caso, el Ejecutivo Federal verifique la correcta aplicación de dichos recursos. En el evento de que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable sobre las responsabilidades que procedan. Incluir en el proyecto de presupuesto que someta a la aprobación del Congreso del Estado los recursos suficientes para fortalecer la autonomía de la gestión escolar de acuerdo a lo establecido en el artículo 28 Bis de la Ley General de Educación.
+III.- Administrar los recursos financieros para la operación óptima de los establecimientos especificados en el párrafo anterior, conforme a las asignaciones presupuestarias federales y estatales aprobadas para tal efecto, los acuerdos concertados sobre el particular con el Ejecutivo Federal y las disposiciones de orden federal y estatal que resulten aplicables, prestando todas las facilidades y colaboración para que, en su caso, el Ejecutivo Federal verifique la correcta aplicación de dichos recursos. En el evento de que tales recursos se utilicen para fines distintos, se estará a lo previsto en la legislación aplicable sobre las responsabilidades que procedan. Incluir en el proyecto de presupuesto que someta a la aprobación del Congreso del Estado los recursos suficientes para fortalecer la autonomía de la gestión escolar de acuerdo a lo establecido en el artículo 28 Bis de la Ley General de Educación.
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-IV. Establecer en la entidad los tipos, modalidades, sistemas y órganos colegiados que integrarán el sistema educativo estatal en los términos previstos por este ordenamiento;
+IV.- Establecer en la entidad los tipos, modalidades, sistemas y órganos colegiados que integrarán el sistema educativo estatal en los términos previstos por este ordenamiento;
 
 > <small>(REFORMADA, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
@@ -393,11 +399,11 @@ XIX.- Elaborar el presupuesto general del ramo, y
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
-XX. Promover la creación y establecer las dependencias y los organismos de educación superior que se requieran en la Entidad;
+XX.- Promover la creación y establecer las dependencias y los organismos de educación superior que se requieran en la Entidad;
 
-> <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-XXI.- Coordinarse con la Secretaría de Salud para elaborar una tabla nutrimental orientada a procurar hábitos de alimentación sana y balanceada, así como para implementar programas en los planteles de educación básica que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional en los educandos y prohibir la publicidad enfocada al consumismo en el interior de los planteles educativos y, que a su vez, promuevan al interior de dichos centros educativos la proliferación de alimentos con un alto valor nutricional; además de integrar a los planes de estudio de educación básica, contenidos de prevención contra el consumo de drogas;
+XXI.- Coordinarse con la Secretaría de Salud para elaborar una tabla nutrimental orientada a procurar hábitos de alimentación sana y balanceada, así como para implementar programas en todo el sistema educativo estatal, que tiendan a desmotivar el consumo de alimentos con bajo o nulo valor nutricional en los educandos y prohibir la publicidad enfocada al consumismo en el interior de los planteles educativos y, que a su vez, promuevan al interior de dichos centros educativos la proliferación de alimentos con un alto valor nutricional; además de integrar a los planes de estudio de educación básica y media superior, contenidos de prevención contra el consumo de drogas y otras adicciones;
 
 > <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2008)</small>
 
@@ -417,7 +423,7 @@ XXIV.- Implementar campañas para promover la práctica del ejercicio y los depo
 
 > <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2021)</small>
 
-XXV. Supervisar que las instituciones educativas instrumenten acciones tendientes a fomentar hábitos para una vida saludable, encaminadas a prevenir de manera oportuna la obesidad, la malnutrición y los trastornos alimentarios entre la niñez y la adolescencia, contando para ello con profesionales en nutrición y psicología.
+XXV.- Supervisar que las instituciones educativas instrumenten acciones tendientes a fomentar hábitos para una vida saludable, encaminadas a prevenir de manera oportuna la obesidad, la malnutrición y los trastornos alimentarios entre la niñez y la adolescencia, contando para ello con profesionales en nutrición y psicología.
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
@@ -425,11 +431,11 @@ XXVI. Promover la universalización de la educación temprana o inicial en el Es
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-XXVII. Coordinarse con la Secretaría de Salud del Estado, para elaborar e integrar contenidos educativos que permitan sensibilizar a los alumnos sobre los diversos trastornos de salud mental y sus consecuencias, así como para implementar protocolos para la detección y atención oportuna de esos trastornos;
+XXVII.- Coordinarse con la Secretaría de Salud del Estado, para elaborar e integrar contenidos educativos que permitan sensibilizar a los alumnos sobre los diversos trastornos de salud mental y sus consecuencias, así como para implementar protocolos para la detección y atención oportuna de esos trastornos;
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-XXVIII. Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de otros ordenamientos legales.
+XXVIII.- Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de otros ordenamientos legales.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1033,9 +1039,9 @@ El Secretario de Educación, los Subsecretarios, los Directores de área y los T
 
 Son atribuciones de la Secretaría de Educación las que se contienen en el artículo 33 de la Ley Orgánica de la Administración Pública del Estado de Campeche vigente.
 
-### CAPITULO XI. DE LAS ASOCIACIONES DEL SISTEMA EDUCATIVO ESTATAL
+### CAPITULO X BIS. EDUCACIÓN CIENTÍFICA, TECNOLÓGICA E INNOVACIÓN
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
 
 ###### Artículo 42.
 
@@ -1071,13 +1077,25 @@ VIII.- Cumplirá también con los principios básicos y objetivos que se estable
 
 Los alumnos de las Escuelas Normales prestarán un servicio social como base para obtener su título, de acuerdo con la reglamentación respectiva.
 
-### CAPITULO XII. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2024)</small>
+
+### CAPITULO XI. DE LAS ASOCIACIONES DEL SISTEMA EDUCATIVO ESTATAL
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
-### CAPITULO XIII. DE LAS INFRACCIONES Y SANCIONES
+###### Artículo 44
 
-> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+1.- La educación científica, tecnológica y de innovación tendrá como finalidad promover en todos los niveles educativos planes, estrategias, proyectos, metodología, planes de estudio y herramientas tecnológicas a cargo del Estado, con la finalidad de desarrollar las aptitudes y competencias de las niñas, niños y adolescentes en esta materia.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+###### Artículo 44
+
+2.- El Estado con apego a sus posibilidades económicas y presupuestales, preverán los recursos necesarios para promover la educación científica, tecnológica y de innovación en todos sus niveles educativos.
+
+### CAPITULO XII. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
+
+> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
 ###### Artículo 45.
 
@@ -1103,9 +1121,9 @@ El Gobierno del Estado, por conducto de la Secretaría de Educación, participar
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
-### CAPITULO XIV. DEL RECURSO ADMINISTRATIVO
+### CAPITULO XIII. DE LAS INFRACCIONES Y SANCIONES
 
-> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Artículo 49.
 
@@ -1125,17 +1143,13 @@ I.- Colaborar con las autoridades educativas en el mejoramiento de los edificio 
 
 II.- Administrar las cooperaciones en numerario que obtengan o aporten sus miembros, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
 III.- Representar ante las autoridades escolares, los intereses que en materia educativa sean comunes, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2011)</small>
-
-IV.- Proponer que los alimentos que se vendan al interior de los centros educativos cuenten con el adecuado valor nutricional.
+IV. Proponer que los alimentos que se vendan al interior de los centros educativos cuenten con el adecuado valor nutricional, y respeten la normatividad vigente en la materia; y
 
 > <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1271,6 +1285,10 @@ Las Sociedades de Padres de Familia, funcionarán de acuerdo con el Reglamento r
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
+### CAPITULO XIV. DEL RECURSO ADMINISTRATIVO
+
+> <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
+
 ###### Artículo 54.
 
 Por infracciones de los particulares que prestan servicios educativos en la Entidad deberán entenderse:
@@ -1317,13 +1335,17 @@ XV.- Expulsar o negarse a prestar el servicio educativo a personas que presenten
 
 XVI.- Incumplir con las medidas correctivas derivadas de las visitas de inspección;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-XVII.- Retener documentos personales y académicos por falta de pago; y
+XVII.- Retener documentos personales y académicos por falta de pago;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-XVIII.- Expulsar, suspender, negarse, excluir, distinguir, menoscabar o restringir, por si o por interpósita persona, a prestar el servicio educativo a niñas, niños, adolescentes o demás personas con alguna discapacidad o que pertenezcan a alguna comunidad indígena, afromexicana o a algún grupo vulnerable.
+XVIII.- Expulsar, suspender, negarse, excluir, distinguir, menoscabar o restringir, por si o por interpósita persona, a prestar el servicio educativo a niñas, niños, adolescentes o demás personas con alguna discapacidad o que pertenezcan a alguna comunidad indígena, afromexicana o a algún grupo vulnerable; y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XIX.- Realizar o permitir la venta y/o publicidad dentro del plantel escolar de alimentos y bebidas procesadas y a granel que no favorezcan la salud de los educandos o la pongan en riesgo por su bajo o nulo valor nutricional, o bien con alto contenido calórico, en contravención a la normatividad vigente emitida por la Secretaría de Educación Pública y demás disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 27 DE SEPTIEMBRE DE 1994)</small>
 
@@ -1604,3 +1626,11 @@ P.O. 12 DE JUNIO DE 2024.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se oponga al presente decreto.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 361 POR EL QUE "SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 11; LA FRACCIÓN XXI DEL ARTÍCULO 13; LA FRACCIÓN IV DEL ARTÍCULO 51; LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 54 Y, SE ADICIONA UNA FRACCIÓN XXXVIII AL ARTÍCULO 11; UN CAPÍTULO X BIS DENOMINADO "EDUCACIÓN CIENTÍFICA, TECNOLÓGICA E INNOVACIÓN" CON LOS ARTÍCULOS 44-1, 44-2 Y UNA FRACCIÓN XIX AL ARTÍCULO 54, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
