@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-derechos-de-las-personas-adultas-mayores-del-56582"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2022-07-28"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUINTANA ROO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Ley publicada en el Número 52 Extraordinario al Periódico Oficial del Estado de Quintana Roo, el martes 7 de agosto de 2007.
 
@@ -84,6 +84,28 @@ XVI.- Secretaría de Cultura: Secretaría de Cultura de la Administración Públ
 XVII.- Consejo: Consejo Estatal para la Protección y Atención de las Personas Adultas Mayores del Estado de Quintana Roo; y
 
 XVIII.- Familia: A las personas ligadas por el parentesco entre sí.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XIX.- Violencia contra las Personas Adultas Mayores: Cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+###### ARTÍCULO 2
+
+BIS.- Los tipos de violencia contra las personas adultas mayores, son:
+
+I.- La violencia psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+II.- La violencia física: Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+III.- La violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+IV.- La violencia económica: Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+V.- La violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, y
+
+VI.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las personas adultas mayores.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS Y LOS DERECHOS
 
@@ -926,3 +948,11 @@ SEGUNDO. El Poder Legislativo del Estado aprobará los recursos necesarios en el
 TERCERO. El Poder Ejecutivo del Estado y los Municipios llevarán a cabo la entrega de los recursos que resulten de la presente reforma, con base en la información, registro, padrón o cualquier otra base de datos que tengan a su disposición de personas adultas mayores.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 249 POR EL QUE SE ADICIONAN UNA FRACCIÓN XIX AL ARTÍCULO 2 Y UN ARTÍCULO 2-BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente Decreto.
