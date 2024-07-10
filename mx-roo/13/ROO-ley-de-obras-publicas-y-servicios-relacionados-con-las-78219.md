@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-obras-publicas-y-servicios-relacionados-con-las-78219"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-10"
-last_updated: "2024-04-02"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 10 de diciembre de 2010.
 
@@ -725,7 +725,9 @@ I.- El acto presentación y apertura de proposiciones podrá hacerse sin la pres
 
 II.- Para llevar a cabo la adjudicación correspondiente, se deberá contar con un mínimo de tres propuestas susceptibles de análisis;
 
-III.- En las bases se indicarán, según las características, complejidad y magnitud de los trabajos, aquellos aspectos que correspondan al artículo 27 de esta ley;
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
+
+III.- En las bases se indicarán, según las características, complejidad y magnitud de los trabajos, aquellos aspectos que correspondan al artículo 28 de esta ley;
 
 IV.- Los plazos para la presentación de las proposiciones se fijarán para cada contrato, atendiendo a las características, complejidad y magnitud de los trabajos;
 
@@ -1562,3 +1564,11 @@ P.O. 2 DE ABRIL DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 228 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 41 DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
