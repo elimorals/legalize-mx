@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-06-19"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -153,57 +153,61 @@ XIV. Informe de Adoptabilidad. El documento expedido por el Sistema Nacional DIF
 
 XV. Niña, niño o adolescente migrante. El definido en la fracción VI del artículo 6 de la Ley de Protección y Apoyo a Migrantes y sus Familias para el Estado de Chihuahua.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XVI. Procuraduría de Protección. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
+XVI. Primera Infancia. Periodo de vida comprendido desde el nacimiento hasta los seis años de edad.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XVII. Programa Estatal. El Programa Estatal de Protección de Niñas, Niños y Adolescentes.
+XVII. Procuraduría Protección. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XVIII. Programa Nacional. El Programa Nacional de Protección de Niñas, Niños y Adolescentes.
+XVIII. Programa Estatal. El Programa Estatal de Protección de Niñas, Niños y Adolescentes.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XIX. Protección Integral. Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte.
+XIX. Programa Nacional. El Programa Nacional de Protección de Niñas, Niños y Adolescentes.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XX. Representación Coadyuvante. El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a su competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
+XX. Protección Integral. Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XXI. Representación Originaria. La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables.
+XXI. Representación Coadyuvante. El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos que, de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a su competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XXII. Representación en Suplencia. La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
+XXII. Representación Originaria. La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XXIII. Sistemas Municipales. Los Sistemas Municipales para el Desarrollo Integral de la Familia.
+XXIII. Representación en Suplencia. La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XXIV. Sistema Nacional DIF. El Sistema Nacional para el Desarrollo Integral de la Familia.
+XXIV Sistemas Municipales. Los Sistemas Municipales para el Desarrollo Integral de la Familia.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XXV. Sistema Estatal de Protección Integral. El Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes.
+XXV. Sistema Nacional DIF. El Sistema Nacional para el Desarrollo Integral de la Familia.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XXVI. Sistema Nacional de Protección Integral. El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.
+XXVI. Sistema Estatal de Protección Integral. El Sistema Estatal de Protección Integral de Niñas, Niños y Adolescentes.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XXVII. Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXVII. Sistema Nacional de Protección Integral. El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XXVIII. Violencia. Uso intencional de poder, de hecho o como amenaza, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas probabilidades de causar lesiones, muerte, daños psicológicos, trastornos del desarrollo o privaciones.
+XXVIII Tratados Internacionales. Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
+
+XXIX Violencia. Uso intencional de poder, de hecho, o como amenaza, contra uno mismo, otra persona o un grupo o comunidad, que cause o tenga muchas probabilidades de causar lesiones, muerte, daños psicológicos, trastornos del desarrollo o privaciones.
 
 ###### Artículo 8.
 
@@ -273,9 +277,11 @@ En la aplicación de la presente Ley se tomarán en cuenta las condiciones parti
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2024)</small>
+
 ###### Artículo 15.
 
-Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida.
+Es deber de la familia, de la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida para su desarrollo integral, haciendo particular énfasis en la atención a la primera infancia.
 
 ###### Artículo 16.
 
@@ -421,9 +427,11 @@ Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y a
 
 ### CAPÍTULO CUARTO. DERECHO A VIVIR EN FAMILIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2024)</small>
+
 ###### Artículo 29.
 
-Niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos económicos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
+Niñas, niños y adolescentes tienen derecho a vivir en familia y a crecer bajo la responsabilidad y el cuidado de su madre, padre o quien ejerza su tutela, guarda y custodia y, en todo caso, en un ambiente de afecto y de seguridad moral y material. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o extensa con los que convivan, ni causa para la perdida de la patria potestad.
 
 No podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
@@ -827,6 +835,10 @@ IV. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, ac
 
 V. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia.
 
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+VI. Crear espacios recreativos y de esparcimiento inclusivos, así como dotar de infraestructura adecuada a los existentes, para garantizar el derecho a la recreación y al juego de niñas, niños y adolescentes con discapacidad.
+
 Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, entidad federativa y tipo de discapacidad.
 
 ###### Artículo 61.
@@ -1003,9 +1015,17 @@ No podrán ser discriminados de forma alguna por ejercer su libertad de convicci
 
 Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
 
-Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2024)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, aprovecharán su infraestructura y recursos, para promover el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance, a fin de establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales.
 
 Lo dispuesto en este artículo no será limitativo al derecho a la educación, según lo dispuesto en el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, ni de los principios rectores de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+###### Artículo 72 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán el desarrollo, recreación y participación de niñas, niños y adolescentes en las actividades culturales de su interés.
 
 CAPÍTULO DECIMOCUARTO
 
@@ -1384,6 +1404,10 @@ XII. Exhibir el pasaporte mexicano o identificación con fotografía expedida po
 > <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2023)</small>
 
 XIII. Cuando la persona adulta que acompañe a la niña, niño o adolescente, no tenga ningún parentesco con estos, tendrá que presentar además de los requisitos citados en la fracción anterior, aquellos documentos oficiales que acrediten su custodia temporal, tales como autorización ante notario público de quienes ejercen la patria potestad o la tutela en los términos del artículo 53 del Reglamento de la Ley de Migración, o sentencia judicial.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XIV. Fortalecer el vínculo familiar durante los primeros meses de vida a través de la convivencia armónica, y satisfacer sus necesidades sociales, emocionales, cognitivas y físicas, con miras a crear los cimientos amplios y sólidos para su bienestar y para su aprendizaje a lo largo de toda la vida.
 
 ###### Artículo 109.
 
@@ -2874,6 +2898,30 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 19 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N°. LXVII/RFLYC/0843/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0831/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0861/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0862/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 60, SEGUNDO PÁRRAFO, UNA FRACCIÓN VI, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
