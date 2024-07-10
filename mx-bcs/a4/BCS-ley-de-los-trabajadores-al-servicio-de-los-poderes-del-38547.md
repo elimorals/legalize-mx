@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2024-06-20"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2024.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -297,6 +297,16 @@ La esposa o esposo, concubina o concubino, o la pareja derivada de una relación
 
 Las anteriores prerrogativas se concederán independientemente de las vacaciones o demás descansos que se estipulen en la presente Ley.
 
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2024)</small>
+
+ARTICULO 29 BIS.- Las mujeres y/o personas menstruantes a quienes se les haya diagnosticado dismenorrea en grado incapacitante o endometriosis, tendrán derecho al otorgamiento de una licencia con goce de sueldo íntegro, de hasta 2 días, cada mes, cuando estos padecimientos les imposibiliten temporalmente desempeñar su jornada (sic) trabajo.
+
+Para tal efecto, las mujeres y/o personas menstruantes deberá (sic) dar aviso en el transcurso de la primera jornada de trabajo respecto de la cual estuviere imposibilitado (sic) de concurrir y presentar en las oficinas de recursos humanos o área correspondiente de su centro laboral, un certificado médico vigente expedido por medico perteneciente a una Institución de Seguridad Social o de Salud Pública Federal o Estatal.
+
+Cuando se presente autorización de médicos particulares, esta deberá contener el nombre y número de cédula profesional de quien la expida, así como la fecha y el estado de salud de la persona trabajadora y demás requisitos establecidos en la Ley General de Salud.
+
+Las licencias que se concedan en los términos del presente artículo, se computarán como tiempo efectivo de servicios para efectos del escalafón y para computar antigüedad. En ningún caso, el otorgamiento de esta licencia causara afectación alguna en el monto de su sueldo, remuneración y demás prestaciones.
+
 ###### ARTICULO 30.
 
 Serán días de descanso obligatorio:
@@ -436,6 +446,10 @@ VIII.- Conceder licencias con goce de sueldo a sus trabajadores para el desempe�
 > <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2018)</small>
 
 Otorgar al trabajador o trabajadora que así lo solicite, un permiso para ausentarse de sus labores, hasta por un día laborable, para acudir a alguna institución de salud pública o privada a realizar una donación altruista de sangre, el cual, será con goce de sueldo, siempre y cuando acredite con la documentación correspondiente que la donación de sangre fue de manera altruista. De igual forma, otorgarle la licencia con goce de sueldo correspondiente cuando sea clínicamente considerado como posible donador de órganos o tejidos para la práctica de exámenes necesarios para confirmar su posibilidad de ser donador, lo anterior previa solicitud por escrito, correspondientes la naturaleza y temporalidad de los exámenes, así también conceder licencia con goce de sueldo para realizar la donación de órganos o tejidos en la que considere las etapas preoperatorias, operativa, considerando la duración de la intervención quirúrgica requerida, así como la recuperación pos-operativa, lo anterior previa solicitud por escrito, acreditando mediante los certificados o documentos médicos correspondientes el tiempo requerido de licencia. En ningún caso podrá el trabajador o trabajadora tener repercusiones en el monto de su salario, bonos y prestaciones correspondiente.
+
+> <small>(ADICIONADO, B.O. 10 DE JULIO DE 2024)</small>
+
+Otorgar licencias con goce de sueldo íntegro, hasta de 2 días, cada mes, a las mujeres y/o personas menstruantes con diagnóstico de dismenorrea en grado incapacitante o endometriosis de conformidad con lo establecido en el artículo 25 BIS de la presente ley.
 
 IX.- Hacer las deducciones en los salarios, que solicite del sindicato respectivo en los términos de esta Ley.
 
@@ -1744,3 +1758,15 @@ B.O. 20 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3045 SE ADICIONA EL ARTÍCULO 29 BIS Y UN TERCER PÁRRAFO A LA FRACCIÓN VIII DEL ARTÍCULO 44 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y LOS MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
