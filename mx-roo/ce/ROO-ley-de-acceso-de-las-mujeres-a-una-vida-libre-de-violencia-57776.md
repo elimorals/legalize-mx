@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5777
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-27"
-last_updated: "2024-04-03"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Ley publicada en el Extraordinario Número 77 al Periódico Oficial del Estado de Quintana Roo, el martes 27 de noviembre de 2007.
 
@@ -1125,9 +1125,13 @@ b) Perspectiva de género para la debida diligencia en la conducción de averigu
 
 c) Incorporación de la perspectiva de género en los servicios periciales, y eliminación de estereotipos sobre el rol social de las mujeres.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XXIV. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
+XXIV. Impulsar un cambio cultural, a partir de la adopción de medidas progresivas específicas para modificar, patrones culturales y fomentar la educación y capacitación en perspectiva de género y la administración de justicia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
+
+XXV. Las demás aplicables a la materia, que les conceda la ley u otros ordenamientos legales.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -1441,13 +1445,21 @@ c. Incorporación de la perspectiva de género en los servicios periciales;
 
 d. Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
 
-> <small>(REFORMADA, P.O. 6 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-XIV. Elaborar e instrumentar en coordinación con la Secretaría de Seguridad Ciudadana, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número de personas inscritas en el Registro, y
+XIV. Elaborar e instrumentar en coordinación con la Secretaría de Seguridad Ciudadana, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva y en donde residen mayor número de personas inscritas en el Registro;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2024)</small>
 
-XV. Las demás previstas para el cumplimiento de la presente Ley.
+XV. Investigar con perspectiva de género y debida diligencia, todas las muertes violentas de mujeres, niñas y adolescentes para acreditar que se trata de un feminicidio, los casos de homicidios y suicidios.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XVI. Informar anualmente al Sistema Estatal, las actividades desarrolladas en las fracciones I, II, VI, VII, X, XI y XIV de este artículo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
+
+XVII. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### Sección Octava. Del Instituto Quintanarroense de la Mujer
 
@@ -1755,9 +1767,17 @@ V. Recibir asesoría y acompañamiento para incorporarse a una actividad product
 
 VI. Contar con un refugio, mientras lo necesite;
 
-VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación, y
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-VIII. En los casos de violencia familiar, las mujeres que tengan hijas, hijos, o ambos, podrán acudir a los refugios con éstos.
+VII. Ser valoradas y educadas libres de estereotipos de comportamiento y prácticas sociales y culturales basadas en conceptos de inferioridad o subordinación;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
+
+VIII. En los casos de violencia familiar, las mujeres que tengan hijas, hijos, o ambos, podrán acudir a los refugios con éstos, y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+IX. A la reparación integral del daño.
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -2126,3 +2146,11 @@ P.O. 3 DE ABRIL DE 2024.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 247 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
