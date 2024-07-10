@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "2023-12-21"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -4831,13 +4831,13 @@ La obligación de darse alimentos la tienen el adoptante y el adoptado en los ca
 
 La obligación alimentaria consiste en la efectivización del derecho fundamental a acceder a un nivel de vida adecuado de la persona acreedora alimentaria integrante de la familia que permita se encuentren cubiertas todas las necesidades básicas, y comprenden, entre otros:
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-I. La alimentación, el vestido, la habitación de acuerdo con la edad y la asistencia médica preventiva, así como lo requerido para la conservación de la integridad física que permita el desarrollo biopsicosocial de la persona acreedora alimentaria, y, en caso de enfermedad, lo requerido para la recuperación de la salud de éste; y en caso de fallecimiento del acreedor alimentario, los gastos funerarios;
+I. La alimentación, el vestido, el sano esparcimiento, la habitación de acuerdo con la edad, la asistencia médica y psicológica preventiva, así como lo requerido para la conservación de la integridad y la salud física y mental que permita el desarrollo biopsicosocial de la persona acreedora alimentaria, y en caso de enfermedad, todo lo requerido, incluida la asistencia médica y hospitalaria para la recuperación de la salud de éste; y en caso de fallecimiento del acreedor alimentario, los gastos funerarios.
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-II. En el caso de las personas gestantes, comprenderán los gastos que se generen durante el embarazo, en el parto y después de este hasta la total recuperación de la madre;
+II. En el caso de la mujer o persona gestante, comprenderán los gastos que se generen durante el embarazo, en el parto y después de este hasta la total recuperación de la persona acreedora alimentaria.
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -4845,7 +4845,9 @@ III. En el caso de las niñas, niños y adolescentes, comprenderá además los g
 
 Para el caso que las personas acreedoras alimentarias adquieran la mayoría de edad, se estará a lo dispuesto en el artículo 839 segundo párrafo, sin que ello, implique la obligación de suministrar recurso económico adicional alguno orientado al establecimiento y desarrollo de su oficio, arte o profesión.
 
-Tratándose de las personas adultas mayores, aún y cuando estén pensionadas, si su pensión es insuficiente para tener una vida digna en términos de la fracción I de este artículo, y
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2024)</small>
+
+Tratándose de las personas adultas mayores, aún y cuando estén pensionadas, si su pensión es insuficiente para tener una vida digna en términos de la fracción I de este artículo, procurando que los alimentos se les proporcionen integrándolos a la familia y;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -18168,3 +18170,15 @@ P.O. 21 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 252 POR EL QUE SE REFORMAN LAS FRACCIONES I, II Y EL TERCER PÁRRAFO DE LA FRACCIÓN III DEL ARTÍCULO 845 DEL CÓDIGO CIVIL DEL ESTADO DE QUINTANA ROO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
