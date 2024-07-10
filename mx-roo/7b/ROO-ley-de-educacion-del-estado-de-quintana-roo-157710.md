@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-educacion-del-estado-de-quintana-roo-157710"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-27"
-last_updated: "2024-06-06"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157710&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Ley publicada en el Extraordinario Número 68 del Periódico Oficial del Estado de Quintana Roo, el miércoles 27 de abril de 2022.
 
@@ -325,13 +325,17 @@ VIII. Será intercultural, al promover la convivencia armónica entre personas y
 
 IX. Será integral, porque educará para la vida y estará enfocada a las capacidades y desarrollo de las habilidades cognitivas, socioemocionales y físicas de las personas que les permitan alcanzar su bienestar y contribuir al desarrollo social;
 
-> <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad, y
+X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-XI. Será garante de la normalización del proceso de la menstruación de manera gradual y atendiendo a la etapa de la vida de las y los educandos, en los distintos niveles educativos, sin estereotipos de género, mediante la promoción de espacios educativos seguros y libres de discriminación, así como del desarrollo de la gestión menstrual de las alumnas de manera digna.
+XI. Será garante de la normalización del proceso de la menstruación de manera gradual y atendiendo a la etapa de la vida de las y los educandos, en los distintos niveles educativos, sin estereotipos de género, mediante la promoción de espacios educativos seguros y libres de discriminación, así como del desarrollo de la gestión menstrual de las alumnas de manera digna, y
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XII. Será actual, dinámica y en apego a los objetivos establecidos en los planes y programas de estudios vigentes, siendo esta formativa, integral y humanista, que contribuya a la articulación de la educación básica, media superior y superior y enfocado en su integridad hacia un perfil de egreso que corresponda a la actualidad social.
 
 ## Título Segundo. Del Sistema Educativo Estatal
 
@@ -2506,3 +2510,11 @@ P.O. 6 DE JUNIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNOO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 253 POR EL QUE SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 16 Y SE ADICIONA LA FRACCIÓN XII AL ARTÍCULO 16, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
