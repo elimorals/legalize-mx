@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-de-la-149963"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-06-23"
-last_updated: "2021-06-23"
+last_updated: "2024-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 23 de junio de 2021.
 
@@ -314,3 +314,15 @@ Así lo acuerda y firma a los 21-veintiún días del mes de junio de 2021-dos mi
 LA C. CONTRALORA GENERAL DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL
 
 LIC. MARÍA DE LOURDES WILLIAMS COUTTOLENC
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA CONTRALORÍA Y TRANSPARENCIA GUBERNAMENTAL DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO. El presente Código de Conducta, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Código de Conducta de los servidores públicos de la Contraloría y Transparencia Gubernamental del Estado de Nuevo León, publicado en el Periódico Oficial del Estado el día 23 de junio de 2021.
+
+TERCERO. Las personas servidoras públicas de la Contraloría y Transparencia Gubernamental, a la entrada en vigor del presente Código de Conducta, contarán con un plazo de 30 días hábiles para protestar y suscribir una carta compromiso en la que asentarán conocer, comprender y dar cumplimiento, tanto al presente Código de Conducta como al Código de Ética.
