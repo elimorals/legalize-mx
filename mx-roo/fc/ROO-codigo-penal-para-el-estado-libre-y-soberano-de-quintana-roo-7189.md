@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2024-06-06"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1385,15 +1385,15 @@ III. Si el delito fuere cometido por dos o más personas, y
 
 IV. Si el delito fuere cometido en presencia de personas con quienes la víctima tuviere vínculo de parentesco por consanguinidad, afinidad civil o una relación afectiva o sentimental de hecho, a sabiendas de esta relación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 89
 
-TER.- Se impondrán de dos a cinco años de prisión, de mil a cinco mil días multa y destitución e inhabilitación del cargo o comisión de cinco a diez años, al servidor público que con motivo de sus funciones y atribuciones tenga a su cargo la investigación o impartición de justicia de los delitos señalados en los artículos 89-Bis, 104-Bis y realice cualquiera de las siguientes conductas:
+TER.- Se impondrán de tres a ocho años de prisión, de mil a cinco mil días y destitución e inhabilitación del cargo o comisión de diez a quince años, al servidor público que con motivo de sus funciones y atribuciones tenga a su cargo la investigación o impartición de justicia de los delitos señalados en los artículos 89Bis, 104-Bis y realice cualquiera de las siguientes conductas:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-I. Omita realizar las diligencias y actuaciones correspondientes para integrar la carpeta de investigación, en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código Nacional de Procedimientos Penales, sin causa justificada;
+I. Omita realizar los actos de investigación, diligencias y actuaciones correspondientes para integrar la carpeta de investigación, en los términos que establecen el Código Penal para el Estado Libre y Soberano de Quintana Roo y el Código Nacional de Procedimientos Penales, sin causa justificada.
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2017)</small>
 
@@ -2773,6 +2773,12 @@ La cuantía del objeto o producto del delito se estimará atendiendo a su valor 
 
 Si el Juez lo creyere conveniente, además, de las penas previstas para cada uno de los delitos del presente título, podrá imponer al delincuente suspensión de uno a seis meses en los derechos de la patria potestad, tutela o custodia, o para hacer perito, depositario, interventor judicial síndico, interventor en concursos o quiebra, asesor, representante de ausentes, o en el ejercicio de cualquier profesión para las que se requiera título o autorización especial.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+###### ARTICULO 166
+
+BIS.- Las penas establecidas en los artículos 142, 143, 144, 145, 145-Bis, 145-Ter, 146-Bis y 146-Ter para el delito de robo; en el artículo 147 para los delitos relacionados con la apicultura; en los artículos 148-Bis, 148-Ter, 149 y 149-Bis para el delito de abigeato; en los artículos 150 y 151 para el delito de abuso de confianza; en los artículos 152 y 153 para el delito de fraude; en el artículo 155 para el delito de administración fraudulenta; en el artículo 157 para el delito de usura y en los artículos 161 y 162 para el caso del delito de daños cometidos dolosamente, se aumentarán hasta en una tercera parte de sus límites mínimo y máximo, cuando la persona afectada por el delito sea una persona mayor de sesenta años de edad.
+
 #### SECCION SEGUNDA. DELITOS CONTRA LA FAMILIA
 
 ## TITULO PRIMERO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
@@ -3006,6 +3012,10 @@ Asimismo, se sujetará al activo del delito a participar en servicios reeducativ
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2022)</small>
 
 El Ministerio Público emitirá las órdenes de protección de emergencia o preventivas para salvaguardar la integridad física y psíquica, o ambas, de la víctima, en los términos que señala la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Quintana Roo, la Ley de Asistencia y Prevención de la Violencia Familiar del Estado de Quintana Roo y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Quintana Roo, sin perjuicio de las demás disposiciones normativas aplicables en la materia, así como de lo dispuesto en los instrumentos internacionales suscritos por nuestro país en la materia, y exhortará a la probable persona responsable para que se abstenga de cualquier conducta que sea ofensiva para la víctima, sin perjuicio de solicitar al Juez que imponga a la probable persona responsable, algunas de las órdenes de protección referidas.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+En el caso de que el delito de violencia familiar sea cometido en contra de personas mayores de sesenta años de edad, las penas previstas aumentarán hasta en una tercera parte de sus límites mínimo y máximo.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2006)</small>
 
@@ -5594,3 +5604,19 @@ P.O. 6 DE JUNIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 243 POR EL QUE SE ADICIONA EL ARTÍCULO 166-BIS Y EL PÁRRAFO CUARTO RECORRIENDO EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 176-QUÁTER, AMBOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 247 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
