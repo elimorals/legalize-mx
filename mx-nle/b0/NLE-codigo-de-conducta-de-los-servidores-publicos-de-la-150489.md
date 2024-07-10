@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-de-la-150489"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-08-04"
-last_updated: "2021-08-04"
+last_updated: "2024-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE FINANZAS Y TESORERÍA GENERAL DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024 (ABROGADO).
 
 Código publicado en el Número 94 del Periódico Oficial del Estado de Nuevo León, el miércoles 4 de agosto de 2021.
 
@@ -268,3 +268,15 @@ Así lo acuerda y firma a los 12 días del mes de julio del 2021-dos mil veintiu
 EL SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO DE NUEVO LEÓN
 
 LIC. CARLOS ALBERTO GARZA IBARRA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARÍA DE FINANZAS Y TESORERÍA GENERAL DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO. - El presente Código de Conducta, de la Secretaría de Finanzas y Tesorería General del Estado entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO - Se abroga el Acuerdo Administrativo por el que se emite el Código de Conducta de los servidores públicos de la Secretaría de Finanzas y Tesorería General del Estado, publicado en el Periódico Oficial del Estado, el día 4 de agosto de 2021
+
+TERCERO.- El presente documento deberá ser difundido en la página oficial de internet, con la finalidad de hacerlo del conocimiento de las personas servidoras públicas de la Secretaría.
