@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-tribunal-estatal-de-justicia-134390"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-03-13"
-last_updated: "2021-09-04"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 13 de marzo de 2019.
 
@@ -187,9 +187,31 @@ La excusa y recusación deberán substanciarse en los términos señalados por l
 
 ### CAPÍTULO I. DE LA ESTRUCTURA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2024)</small>
+
 ###### Artículo 6.
 
-El Tribunal se integrará por tres Magistraturas, una de las cuales lo presidirá de conformidad con las reglas establecidas en la presente Ley. Funcionará en Pleno y en tres ponencias instructoras.
+El Tribunal se integrará por cinco Magistraturas, una de las cuales lo presidirá de conformidad con las reglas establecidas en la presente Ley. Para el desarrollo de sus funciones, contará con los siguientes órganos:
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+I. El Pleno.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+II. Tres Salas Unitarias Administrativas.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+III. Dos Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+Cada una de las Salas Unitarias Administrativas, estará integrada por una Magistratura designada por el Pleno, y serán competentes para conocer y resolver en términos de lo previsto en esta Ley Orgánica, la Ley de Justicia Administrativa del Estado de Chihuahua y demás ordenamientos aplicables en materia fiscal.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+Las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, estarán integradas por una Magistratura designada por el Pleno, y serán competentes para conocer y resolver en términos de lo previsto en esta Ley Orgánica, la Ley de Justicia Administrativa del Estado de Chihuahua, la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables.
 
 ###### Artículo 7.
 
@@ -249,9 +271,9 @@ b) Los requisitos que deberán satisfacerse para la permanencia y promoción en 
 
 c) Las reglas sobre disciplina y, en su caso, un sistema de estímulos a las y los servidores públicos jurisdiccionales de acuerdo a la disponibilidad presupuestaria del Tribunal.
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-V. Designar a la persona titular de la Secretaría, así como a las y los secretarios de acuerdos de las ponencias instructoras, a propuesta de la persona titular de la Presidencia.
+V. Designar a la persona titular de la Secretaría, a propuesta de la persona titular de la Presidencia, así como a las secretarías de acuerdos de las Salas Unitarias, a propuesta de las personas titulares de cada Sala.
 
 VI. Aprobar los nombramientos de las y los servidores públicos jurisdiccionales y administrativos del Tribunal.
 
@@ -293,15 +315,49 @@ XXII. Resolver la instancia de aclaración de sentencia, la queja relacionada co
 
 XXIII. Ordenar que se reabra la instrucción y la consecuente devolución de los autos que integran el expediente a la ponencia instructora de origen, cuando se advierta una violación substancial al procedimiento, o cuando considere necesaria la realización de algún trámite adicional en la instrucción para su mejor proveer.
 
-XXIV. Resolver, en sesión privada, sobre las excusas, excitativas de justicia y recusaciones de las y los magistrados del Tribunal. Así como habilitar a quienes ocupen las primeras secretarías de acuerdos de las ponencias instructoras para que les sustituyan.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XXIV. Resolver, en sesión privada, sobre las excusas, excitativas de justicia y recusaciones de las magistraturas del Tribunal. Así como habilitar a quienes ocupen las primeras secretarías de acuerdos de las Salas Unitarias para que les sustituyan.
 
 XXV. Expedir los acuerdos necesarios para el buen funcionamiento del Tribunal.
 
 XXVI. Conocer y resolver todas aquellas situaciones que sean de interés para el Tribunal y cuya resolución no esté encomendada a algún otro de sus órganos, o acordar a cuál de estos corresponde atenderlas.
 
-XXVII. Desahogar y resolver los recursos de Inconformidad y Apelación, previstos en la Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
 
-XXVIII. Las demás que establezca esta Ley y las disposiciones aplicables.
+XXVII. Desahogar y resolver, en su caso, los recursos de Reclamación, Apelación y de Revisión, previstos en la Ley General de Responsabilidades Administrativas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE JULIO DE 2024)</small>
+
+XXVIII. Establecer, de acuerdo con su competencia, los criterios relevantes en casos de ambigüedad de la Ley.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XXIX. Autorizar exhortos, oficios comisorios y despachos que se giren, actas que se formulen y diligencias que se practiquen.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XXX. Resolver los recursos de Apelación que interpongan las partes en contra de las resoluciones dictadas por las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XXXI. Dar seguimiento y proveer la ejecución de las resoluciones que emita.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XXXII. Emitir las medidas necesarias para garantizar los principios de la función que les ha sido encomendada.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XXXIII. Resolver los recursos de Reconsideración que se interpongan en contra de las determinaciones de las Salas Unitarias Administrativas y de las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, en términos de la Ley de Justicia Administrativa del Estado de Chihuahua.
+
+> <small>(ADICIONADA, P.O. 10 DE JULIO DE 2024)</small>
+
+XXXIV. Autorizar, con la certificación de la Secretaría de Sala, las actas en las que consten las deliberaciones y los acuerdos que emita.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE JULIO DE 2024)</small>
+
+XXXV. Las demás que establezca esta Ley y las disposiciones aplicables.
 
 ### CAPÍTULO III. DE LA PRESIDENCIA Y SUS ATRIBUCIONES
 
@@ -359,15 +415,79 @@ XV. Realizar los actos jurídicos o administrativos del Pleno que no requieran l
 
 XVI. Las demás que establezcan las disposiciones aplicables.
 
-### CAPÍTULO IV. DE LAS Y LOS MAGISTRADOS DE LAS PONENCIAS INSTRUCTORAS Y SUS ATRIBUCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2024)</small>
+
+### CAPÍTULO IV. DE LAS MAGISTRATURAS DE LAS SALAS UNITARIAS Y SUS ATRIBUCIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2024)</small>
 
 ###### Artículo 12.
 
-Los asuntos cuyo despacho competa a las ponencias instructoras, serán asignados a las mismas por riguroso turno, según lo establezca el reglamento respectivo.
+Para los asuntos de su competencia, el Tribunal ejercerá sus funciones por conducto de las Salas Unitarias Administrativas, y de las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, las que tendrán las atribuciones siguientes:
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 10 DE JULIO DE 2024)</small>
+
+A) Las Salas Unitarias Administrativas, serán competentes para conocer y resolver en términos de lo previsto en esta Ley, la Ley de Justicia Administrativa del Estado de Chihuahua y demás ordenamientos aplicables en materia fiscal, respecto a las siguientes controversias:
+
+I. Las resoluciones administrativas y fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades del Poder Ejecutivo del Estado, de los Municipios y de los organismos públicos descentralizados de carácter estatal o municipal, por violaciones cometidas en las mismas o durante el procedimiento administrativo; en este último caso, cuando trasciendan al sentido de las resoluciones.
+
+II. Los actos administrativos y fiscales que dicten, ordenen, ejecuten o traten de ejecutar las autoridades señaladas en la fracción anterior, así como sus omisiones que afecten derechos de particulares.
+
+III. Los actos que dicten, ordenen, ejecuten o traten de ejecutar, de manera unilateral, las autoridades indicadas en la fracción I del inciso A) del presente artículo, respecto de contratos, convenios y otros acuerdos de voluntad que se hayan celebrado con particulares, de naturaleza administrativa y fiscal.
+
+IV. Las relativas a la interpretación y el cumplimiento de contratos de obra pública o relacionados con esta, así como de adquisiciones, arrendamientos y servicios, celebrados por autoridades estatales o municipales.
+
+V. Los actos administrativos y fiscales que se relacionen con la resolución afirmativa ficta en estas materias, que se configure por el silencio de las autoridades estatales o municipales para dar respuesta a las peticiones de particulares, en términos de la Ley de Justicia Administrativa del Estado de Chihuahua.
+
+VI. Las resoluciones negativas fictas que se configuren por el silencio de las autoridades administrativas y fiscales de carácter estatal o municipal, para dar respuesta a las peticiones de particulares, conforme a las disposiciones de la Ley de Justicia Administrativa del Estado de Chihuahua.
+
+VII. Las omisiones de las autoridades señaladas en la fracción I del inciso A) del presente artículo, para dar respuesta a las peticiones de particulares, una vez que hayan transcurrido por lo menos treinta días siguientes a su presentación.
+
+VIII. Los reglamentos, decretos, circulares y demás disposiciones generales de naturaleza administrativa y fiscal que expidan las autoridades indicadas en la fracción I del inciso A) del presente artículo, sin que esto sea obligatorio o requisito previo para promover el juicio contencioso administrativo, o tramitar cualquier otro medio de impugnación en contra de tales determinaciones.
+
+IX. Las resoluciones que, al ser favorables a particulares, causen una lesión a la Hacienda Pública del Estado o de los municipios, cuya invalidez se demande por las autoridades fiscales del Poder Ejecutivo del Estado, de los municipios o de los organismos públicos descentralizados de carácter estatal o municipal.
+
+X. Los actos que dicten, ordenen, ejecuten o traten de ejecutar, sin facultades o en exceso de estas, las personas que se ostenten como autoridades administrativas o fiscales de carácter estatal o municipal.
+
+XI. Las resoluciones que recaigan al recurso de Revocación a que se refiere la Ley General de Responsabilidades Administrativas.
+
+XII. Las resoluciones que recaigan al recurso de Revocación, previsto en el Código Fiscal del Estado de Chihuahua.
+
+XIII. Dictar sentencia interlocutoria en los incidentes que procedan respecto de los asuntos de su competencia, y cuya procedencia no esté sujeta al cierre de instrucción.
+
+XIV. Los demás casos en los que las disposiciones legales le concedan competencia al Tribunal en controversias administrativas entre particulares y las autoridades de la administración pública del Estado y de los municipios.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 10 DE JULIO DE 2024)</small>
+
+B) Las Salas Unitarias Especializadas en Materia de Responsabilidades Administrativas, serán competentes para:
+
+I. Resolver, en términos de la Ley General de Responsabilidades Administrativas, los procedimientos de responsabilidad administrativa de las personas servidoras públicas y particulares que se vinculen con faltas administrativas graves, promovidos por la Secretaría Responsable del Control Interno del Ejecutivo, los órganos internos de control de los entes públicos estatales y municipales, así como por la Auditoría Superior del Estado.
+
+II. Conocer y resolver los recursos de Inconformidad según lo previsto en la Ley General de Responsabilidades Administrativas.
+
+III. Resolver los recursos de Reclamación que se interpongan en contra de sus propias determinaciones, en los términos del artículo 213 de la Ley General de Responsabilidades Administrativas.
+
+IV. Emitir las medidas necesarias para garantizar los principios de la función que les ha sido encomendada.
+
+V. Fincar a las personas responsables el pago de las cantidades por concepto de indemnizaciones y sanciones económicas que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal, o al patrimonio de los entes públicos.
+
+VI. Dictar las medidas preventivas y cautelares necesarias que sean de su competencia, para evitar que el procedimiento sancionador quede sin materia, e impedir que el desvío de recursos obtenidos de manera ilegal tenga consecuencias irreparables.
+
+VII. Tramitar ante el Pleno, las recusaciones y excusas que sean promovidas o planteadas, según se trate.
+
+VIII. Dictar sentencia interlocutoria en los incidentes que procedan respecto de los asuntos de su competencia, y cuya procedencia no esté sujeta al cierre de instrucción.
+
+IX. Las demás facultades que le confiere la Ley General de Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones del inciso B) del presente artículo, se desarrollarán autónomamente, por lo que bajo ninguna circunstancia se entenderá que la atribución del Tribunal para imponer sanciones a particulares, por actos u omisiones vinculadas con faltas administrativas graves, se contrapone o menoscaba las facultades que los entes públicos posean para imponer sanciones a particulares o personas servidoras públicas en los términos de la legislación aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2024)</small>
 
 ###### Artículo 13.
 
-Las y los magistrados de las ponencias instructoras, tendrán las siguientes atribuciones:
+Las magistraturas de las Salas tendrán las siguientes atribuciones:
 
 I. Admitir, desechar o tener por no presentada la demanda, o su ampliación, si no se satisfacen los requisitos previstos por la ley.
 
@@ -391,7 +511,7 @@ X. Proponer al Pleno la designación de perito tercero, para que se proceda en l
 
 XI. Resolver sobre el otorgamiento de medidas cautelares que correspondan.
 
-XII. Desahogar los procedimientos y formular el proyecto de resolución correspondiente, a que se refiere el artículo 4 de esta Ley.
+XII. (DEROGADA, P.O. 10 DE JULIO DE 2024)
 
 XIII. Las demás que les correspondan conforme a las disposiciones legales aplicables.
 
@@ -483,7 +603,9 @@ El Tribunal tendrá las personas servidoras públicas siguientes:
 
 I. Las personas titulares de las magistraturas.
 
-II. Las y los secretarios de acuerdos de las ponencias instructoras.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
+
+II. Las secretarías de acuerdos de las Salas Unitarias.
 
 III. Las y los actuarios.
 
@@ -503,33 +625,37 @@ Las y los servidores públicos a que se refieren las fracciones anteriores será
 
 El Tribunal contará además con el personal profesional, administrativo y técnico necesario para el desempeño de sus funciones, de conformidad con lo que establezca su presupuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2024)</small>
+
 ###### Artículo 15.
 
-Las y los magistrados del Tribunal se designarán por el Congreso del Estado, en los términos del artículo 39 bis de la Constitución Política del Estado, de acuerdo a las reglas siguientes:
+Las magistraturas del Tribunal se designarán por el Congreso del Estado, en los términos del artículo 39 bis de la Constitución Política del Estado.
 
-I. Se invitará a la ciudadanía mediante convocatoria suscrita por las personas titulares de los tres Poderes del Estado, la que se publicará en los medios de comunicación impresos de mayor circulación en el Estado.
+I. (DEROGADA, P.O. 10 DE JULIO DE 2024)
 
-II. En la convocatoria se establecerán los plazos, lugares y horarios de presentación de las solicitudes, los requisitos y la forma de acreditarlos.
+II. (DEROGADA, P.O. 10 DE JULIO DE 2024)
 
-III. Las personas interesadas en participar acudirán a presentar su solicitud y anexarán la anuencia de sujetarse a los resultados que se obtengan y su autorización para el tratamiento de sus datos personales, mediante el siguiente procedimiento:
+III. (DEROGADA, P.O. 10 DE JULIO DE 2024)
 
-a) Se formará una Comisión Especial integrada por dos representantes del Poder Ejecutivo; dos del Poder Judicial y, en el caso del Poder Legislativo, por quien funja como titular de la Presidencia del Congreso, así como por las y los coordinadores de los Grupos Parlamentarios, o a quienes designen.
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
 
-b) Dicha Comisión realizará, con el apoyo de instituciones de educación superior del Estado, un examen de conocimientos a las personas aspirantes, en los términos de la convocatoria. A su vez, revisará los perfiles, celebrará una o varias entrevistas con las y los aspirantes, las cuales serán públicas y, en su caso, realizará las evaluaciones que considere pertinentes.
+Se formará una Comisión Especial integrada por dos representantes del Poder Ejecutivo; dos del Poder Judicial y, en el caso del Poder Legislativo, por quien funja como titular de la Presidencia del Congreso, por las y los coordinadores de los grupos parlamentarios, así como de las Representaciones Parlamentarias, o a quienes designen.
 
-c) La Comisión, por consenso, integrará un listado con veinte personas candidatas de entre las y los aspirantes y lo turnará a la Junta de Coordinación Política del Congreso, acompañado de un informe en el que se asienten los motivos de su selección.
-
-d) La Junta de Coordinación Política analizará el expediente, perfil y el resultado de la evaluación y de la entrevista de cada una de las personas seleccionadas, para integrar y enviar una relación de diez personas candidatas, a la consideración del Pleno del Congreso, acompañada de un informe en el que se asienten los motivos de su selección, con el propósito de que este lleve a cabo la designación conforme a lo establecido en la Constitución Política del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 2024)</small>
 
 ###### Artículo 16.
 
-Las y los magistrados solo podrán ser removidos de sus cargos por las siguientes causas:
+Las personas titulares de las magistraturas, solo podrán ser removidas de sus cargos por las siguientes causas:
 
 I. Incurrir en violaciones graves a los derechos humanos, previstos por la Constitución y los tratados internacionales de los que el Estado Mexicano sea parte.
 
 II. Incurrir en responsabilidad administrativa grave.
 
-III. Haber recibido condena por delito doloso.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2024)</small>
+
+III. Haber recibido condena por delito doloso o sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
+
+Haber sido declarada como persona deudora alimentaria morosa, o estar inscrita en el Registro Estatal de Personas Deudoras Alimentarias Morosas de Chihuahua.
 
 IV. Utilizar, en beneficio propio o de terceras personas, la información confidencial o reservada de que disponga en razón de su cargo, así como divulgar la mencionada información en contravención a la Ley.
 
@@ -549,7 +675,9 @@ Las faltas definitivas de las y los magistrados que tengan lugar durante el peri
 
 Las faltas definitivas y temporales de las y los magistrados serán cubiertas provisionalmente por la o el primer secretario de acuerdos de la persona ausente. En el primer caso, hasta en tanto se realice un nuevo nombramiento en los términos de este artículo.
 
-El Reglamento establecerá las normas para el turno y reasignación de expedientes en los casos de faltas temporales, excusas o recusaciones de las y los magistrados de las ponencias instructoras.
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2024)</small>
+
+El Reglamento establecerá las normas para el turno y reasignación de expedientes en los casos de faltas temporales, excusas o recusaciones de las magistraturas de las Salas Unitarias.
 
 ###### Artículo 19.
 
@@ -858,3 +986,47 @@ P.O. 4 DE SEPTIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0886/2024 XIII P.E.".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal Estatal de Justicia Administrativa, hasta en tanto el Congreso del Estado de Chihuahua no designe las magistraturas vacantes, seguirá funcionando bajo la modalidad previa a la aprobación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado de Chihuahua, deberá designar, dentro de los treinta días hábiles posteriores a la entrada en vigor del presente Decreto, a las dos personas que habrán de ocupar las magistraturas vacantes, y entrarán en funciones inmediatamente después de rendir su protesta de Ley.
+
+###### ARTÍCULO CUARTO.
+
+Una vez que entren en funciones las personas titulares de las magistraturas electas conforme al presente Decreto, el Tribunal Estatal de Justicia Administrativa, contará con treinta días hábiles para integrar las Salas Unitarias.
+
+###### ARTÍCULO QUINTO.
+
+Una vez conformadas las Salas Unitarias, el Pleno deberá sesionar, dentro de los treinta días naturales posteriores, con la finalidad de designar o ratificar a la persona que ocupe la Presidencia del mismo, en función de su nueva integración.
+
+###### ARTÍCULO SEXTO.
+
+El Congreso del Estado de Chihuahua, dentro del plazo de trescientos sesenta y cinco días naturales siguientes a la entrada en vigor del presente Decreto, deberá armonizar la legislación necesaria para adecuar el marco normativo con este Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos y recursos administrativos que se encuentren en trámite, deberán ser reasignados a las Salas Unitarias correspondientes, en términos del presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+El Tribunal Estatal de Justicia Administrativa, dentro de un plazo que no exceda de ciento ochenta días hábiles, a partir de la entrada en vigor del presente Decreto, deberá emitir nuevas disposiciones con la finalidad de armonizar su normatividad interna con el mismo.
+
+###### ARTÍCULO NOVENO.
+
+Se abroga el Decreto No. LXVII/RFLEY/0642/2023 I P.O., aprobado por el Pleno del H. Congreso del Estado, en fecha veinticuatro de octubre del año dos mil veintitrés.
+
+###### ARTÍCULO DÉCIMO.
+
+Háganse las medidas administrativas, financieras, presupuestales u operativas a que haya lugar, para el cumplimiento del presente Decreto, siguiendo los procedimientos correspondientes; por las instancias que resulten competentes.
