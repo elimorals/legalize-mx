@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2024-04-26"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 26 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -112,6 +110,10 @@ Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y 
 (ADICIONADO, P.O. 9 DE FEBRERO DE 2024) (F. DE E., 26 DE ABRIL DE 2024)
 
 Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+Toda persona tiene el derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -3386,3 +3388,11 @@ P.O. 9 DE ABRIL DE 2024.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía, del marco jurídico estatal, que se opongan al contenido del presente decreto.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 362 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 6o. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE".]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
