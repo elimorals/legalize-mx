@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107802"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-30"
-last_updated: "2024-04-03"
+last_updated: "2024-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
 
 Ley publicada en el Número 8 Ordinario Bis del Periódico Oficial del Estado de Quintana Roo, el jueves 30 de abril de 2015.
 
@@ -715,6 +715,10 @@ Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por e
 
 Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+Las autoridades de la entidad y de los municipios, en el ámbito de sus respectivas competencias, podrán aprovechar su infraestructura y recursos; promover el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance, a fin de establecer políticas tendentes a garantizar la promoción, difusión, y protección de la diversidad de las expresiones culturales, regionales, y universales, entre niñas, niños y adolescentes.
+
 #### SECCIÓN DÉCIMA CUARTA. DE LOS DERECHOS A LA LIBERTAD DE EXPRESIÓN Y DE ACCESO A LA INFORMACIÓN
 
 ###### Artículo 53.
@@ -996,6 +1000,16 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custod
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 2022)</small>
 
 I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente ley y demás disposiciones aplicables. Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, incluyendo la lactancia materna, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación;
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 10 DE JULIO DE 2024)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y, en la especie:
+
+a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto;
+
+b) Los gastos derivados de la educación y la formación para proporcionar a las niñas, niños y adolescentes un oficio, arte o profesión, adecuados a sus circunstancias personales, y
+
+c) Con relación a las niñas, niños y adolescentes con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo.
 
 II. Registrarlos dentro de los primeros sesenta días de vida;
 
@@ -1763,9 +1777,23 @@ El Programa Estatal y los Programas Municipales de Protección serán publicados
 
 La Comisión de los Derechos Humanos del Estado de Quintana Roo deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 2024)</small>
+
+### CAPÍTULO DÉCIMO. De la coordinación con el Registro Nacional de Obligaciones Alimentarias
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+Artículo. 118 Bis. El Tribunal Superior de Justicia del Estado de Quintana Roo suministrará, intercambiará, sistematizará, consultará, analizará y actualizará, la información que se genere sobre el incumplimiento de las obligaciones alimentarias en el ámbito de sus competencias utilizando los sistemas e instrumentos tecnológicos del Sistema Nacional DIF para que con ella integre al Registro Nacional de Obligaciones Alimentarias, en los términos que disponga la ley General en la materia.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 2024)</small>
+
+###### Artículo 118 Ter.
+
+La persona deudora alimentaria deberá informar, en un máximo de quince días hábiles a la persona acreedora alimentaria, persona juzgadora o autoridad responsable cualquier cambio en su empleo, la ubicación de éste y el puesto o cargo que desempeñará, a efecto de que se actualice la pensión alimenticia decretada.
 
 ## TÍTULO QUINTO. DE LAS INFRACCIONES Y SANCIONES
+
+### CAPÍTULO ÚNICO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
 ###### Artículo 119.
 
@@ -1962,3 +1990,13 @@ P.O. 3 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 208 POR EL QUE SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 89, LA FRACCIÓN VII DEL ARTÍCULO 94, EL NOMBRE DEL CAPÍTULO SEGUNDO DENOMINADO "DE LA SECRETARÍA DE EDUCACIÓN Y CULTURA" PERTENECIENTE AL TÍTULO CUARTO DENOMINADO "DE LAS AUTORIDADES" PARA ESTABLECERSE "DE LA SECRETARÍA DE EDUCACIÓN" EL PRIMER PÁRRAFO Y LAS FRACCIONES XII Y XIII DEL ARTÍCULO 98; Y SE ADICIONAN LA FRACCIÓN VIII BIS AL ARTÍCULO 4, LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 35, LA FRACCIÓN XIV AL ARTÍCULO 98; TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 10 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 254 POR EL QUE SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 52, UN PÁRRAFO SEGUNDO Y LOS INCISOS A), B) Y C) A LA FRACCIÓN I DEL ARTÍCULO 89, UN CAPÍTULO DÉCIMO DENOMINADO "DE LA COORDINACIÓN CON EL REGISTRO NACIONAL DE OBLIGACIONES ALIMENTARIAS" AL TÍTULO CUARTO QUE COMPRENDE LOS ARTÍCULOS 118 BIS Y 118 TER, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En lo relativo a la presentación del Certificado de No Inscripción al Registro Nacional de Obligaciones Alimentarias, se contará con un plazo no mayor a ciento veinte días hábiles a partir de la creación del Registro Nacional de Obligaciones Alimentarias, para armonizar el marco normativo correspondiente, en concordancia a los lineamientos que establezca el Sistema Nacional DIF.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
