@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2024-07-04"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -3571,29 +3571,29 @@ La ley coloca a los expósitos bajo la tutela de la persona que los hayan acogid
 
 Para los efectos de este ordenamiento, se considera expósito a aquel menor cuyo origen se desconoce y se coloque en una situación de desamparo por quienes conforme a la ley estén obligados a protegerlo; y como abandonado al menor que conociendo su origen, los que ejercen la patria potestad o tutela, dejan de cumplir con sus deberes de protección y cuidado, sin importar la posibilidad de que alguna persona o institución se haga cargo del mismo.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 558.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes o la Procuraduría Municipal de la Defensa del Menor y la Familia según sea el caso, los directores de los hospicios, casa de cuna, albergues, estancias infantiles y demás centros de beneficencia donde se reciban expósitos y abandonados, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
+Sobre niñas, niños y adolescentes expósitos, abandonados o resguardados por medida de protección, hasta en tanto no se resuelva su situación jurídica por la autoridad jurisdiccional competente, la tutela pública será la ejercida por el Sistema Estatal DIF, por conducto de quien sea Titular de los Centros de Asistencia Social donde se encuentre.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
-En estos casos, la tutela se ejercerá por ministerio de la ley y no será necesario el discernimiento del cargo.
+El ejercicio de la tutela quedará sujeto, en cuanto a la guarda, educación y protección de niñas, niños y adolescentes, a las modalidades que le impriman las resoluciones que se dicten de acuerdo con el presente Código, la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado y las disposiciones reglamentarias aplicables.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
 Si el menor que se encuentre en el caso previsto por este artículo, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo dispuesto en este Código.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 558 Bis.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes tendrá la facultad de nombrar una familia de acogida de forma temporal al menor que se encuentre en situación de riesgo puesto por sus padres y abuelos biológicos, esto con la finalidad de que se le brinde un ambiente afectivo, atención integral que le garantice y restituya sus derechos, este nombramiento que (sic) deberá ser ratificado por el Juez en materia Familiar para lo cual se tendrá que demostrar la idoneidad de la familia mediante los medios de prueba que estime convenientes.
+La Procuraduría de Protección de Niñas, Niños y Adolescentes tendrá la facultad de nombrar una familia de acogida de forma temporal a la persona menor de edad que se encuentre en situación de riesgo puesto por sus padres y abuelos biológicos, esto con la finalidad de que se le brinde un ambiente afectivo, atención integral que le garantice y restituya sus derechos.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
-Una familia de acogida es aquella que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+Una familia de acogida es aquella que cuente con la certificación expedida por el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, avalada por el CESADYFA y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -16344,3 +16344,17 @@ B.O. 4 DE JULIO DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Titular del Poder Ejecutivo del Estado contará con 90 días hábiles para la adecuación de todas las disposiciones reglamentarias y administrativas materia del presente Decreto. Asimismo, la Dirección Estatal del Registro Civil deberá capacitar a las y los servidores públicos adscritos a dicha dependencia, a fin de sensibilizar y concientizar en la materia de derechos humanos, como el derecho a la igualdad, no discriminación, identidad de género y libre desarrollo de la personalidad.
+
+B.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3048 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente decreto entrará en vigor al siguiente (sic) al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Las dependencias y entidades del Poder Ejecutivo del Estado que corresponda (sic), deberán realizar las modificaciones a sus reglamentos respectivos para ajustarlos al presente decreto en un plazo no mayor a los 180 días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO. El Consejo Estatal de Adopciones y Familias de Acogimiento, debe expedir las disposiciones reglamentarias aplicables en un plazo no mayor a los 180 días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO. Se abroga la Ley de la Procuraduría de la Defensa del Menor y la Familia del Estado de Baja California Sur.
+
+QUINTO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
