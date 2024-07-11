@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-mejora-regulatoria-para-el-estado-de-campeche-y-sus-1437
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2023-06-13"
+last_updated: "2024-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el viernes 15 de mayo de 2020.
 
@@ -386,6 +386,10 @@ VI. Conocer y opinar sobre la evaluación de resultados a la que se refiere la f
 VII. Promover el uso de principios, objetivos, metodologías, instrumentos, programas, criterios y herramientas acordes a las buenas prácticas nacionales e internacionales en materia de mejora regulatoria;
 
 VIII. Conocer problemáticas, obstáculos y fallos regulatorios que impidan el cumplimiento del objeto de la presente Ley y proponer alternativas de solución;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2024)</small>
+
+VIII Bis. Conformar grupos de trabajo especializados que podrán ser creados por materia, criterios geográficos o grados de desarrollo, para la consecución de los objetivos de esta Ley, de acuerdo a las disposiciones que el Consejo Nacional y Estatal establezcan para tal efecto;
 
 IX. Emitir recomendaciones a los Sujetos Obligados, para el debido cumplimiento de las disposiciones de esta Ley;
 
@@ -1476,3 +1480,11 @@ TERCERO. El Ejecutivo Estatal emitirá el Reglamento Interior de la Comisión de
 CUARTO. Se derogan las disposiciones que se opongan a lo dispuesto en este Decreto.
 
 QUINTO. Las disposiciones administrativas de carácter general aplicables y que hayan sido emitidas con anterioridad a la entrada en vigor del presente Decreto, continuarán vigentes en todo lo que no se le oponga, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo al mismo Decreto.
+
+P.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 363 POR EL QUE "SE ADICIONA LA FRACCIÓN VIII BIS AL ARTÍCULO 18 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE CAMPECHE Y SUS MUNICIPIOS".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
