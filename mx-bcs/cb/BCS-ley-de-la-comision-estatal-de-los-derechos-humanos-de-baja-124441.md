@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-comision-estatal-de-los-derechos-humanos-de-baja-1244
 country: "mx"
 rank: "ley"
 publication_date: "2017-10-31"
-last_updated: "2024-05-31"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de octubre de 2017
 
@@ -183,7 +183,9 @@ La Comisión Estatal de los Derechos Humanos, tendrá las siguientes atribucione
 
 I.- Recibir quejas de presuntas violaciones a los derechos humanos;
 
-II.- Conocer e investigar, a petición de parte o de oficio, presuntas violaciones a los derechos humanos en los siguientes casos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 11 DE JULIO DE 2024)</small>
+
+II.- CONOCER E INVESTIGAR, DE FORMA exhaustiva, objetiva, imparcial y perspectiva de género, interculturalidad e interseccionalidad, a petición de parte o de oficio, presuntas violaciones a los derechos humanos en los siguientes casos:
 
 > <small>(REFORMADO, B.O. 29 DE FEBRERO DE 2020)</small>
 
@@ -1522,3 +1524,11 @@ B.O. 31 DE MAYO DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3046 SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 15 DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
