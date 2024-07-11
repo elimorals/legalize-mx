@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2023-10-20"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -961,9 +961,11 @@ XVI. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 #### SECCIÓN TERCERA. DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 30.
 
-Corresponde a la Procuraduría General de Justicia del Estado, a través de la Subprocuraduría de Atención a la Mujer y al Menor, las siguientes obligaciones:
+Corresponde a la Procuraduría General de Justicia del Estado, las siguientes obligaciones:
 
 > <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -981,13 +983,17 @@ d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
 
 II. Proporcionar a las mujeres afectadas de violencia la orientación y asesoría para su eficaz atención y protección, de conformidad con la Ley Orgánica del Ministerio Publico, su reglamento y demás ordenamientos aplicables;
 
-III. Brindar atención para salvaguardad (sic) la integridad física de las mujeres en su caso de quiénes denuncien cualquier tipo de violencia en su contra
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+III. Brindar atención para salvaguardad (sic) la integridad física de las mujeres en su caso de quiénes denuncien cualquier tipo de violencia en su contra;
 
 > <small>(REFORMADA, B.O. 30 DE ABRIL DE 2014)</small>
 
 IV. Invocar y respetar los principios establecidos en el marco nacional e internacional de los derechos humanos de las mujeres de acuerdo con el objeto de esta ley;
 
-V. Promover las órdenes de protección que correspondan a favor de las mujeres.
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+V. Promover las órdenes de protección que correspondan a favor de las mujeres, víctimas y quien tenga carácter de ofendido;
 
 > <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
 
@@ -997,17 +1003,21 @@ VI. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 VII. Crear un registro público sistemático en coordinación con el BANEVIM-BCS, de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
 
-> <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, homicidio agravado por feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual; y
+VIII. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 15 DE DICIEMBRE DE 2021)</small>
 
 IX. Establecer, en todos los órganos y unidades a su cargo, una base de datos sobre los casos atendidos, tramitados o canalizados, edad, número de víctimas, tipos y modalidades de la violencia, causas, daños y recursos erogados, la cual será proporcionada a las instituciones encargadas de realizar el diagnóstico estatal y demás investigaciones relativas, y formará parte del BANEVIM-BCS;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 15 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2024)</small>
 
-X. Las demás previstas para el cumplimiento de la presente ley.
+X. Proporcionar a las instancias encargadas de realizar estadísticas, las referencias necesarias para dar cumplimiento a las fracciones VII y IX, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE JULIO DE 2024)</small>
+
+XI. Las demás previstas para el cumplimiento de la presente ley.
 
 #### SECCIÓN CUARTA. DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
@@ -1171,11 +1181,17 @@ I. Expedir, mantener actualizadas, promover y difundir las leyes que tengan por 
 
 II. Asegurarse de que en los Presupuestos de Egresos del Estado, se destinen recursos suficientes para la aplicación de esta Ley;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-III. A través de la Auditoría Superior del Estado, revisar las cuentas públicas de las entidades fiscalizadas del Estado y Municipios, vigilar el puntual y transparente ejercicio de las partidas presupuestales destinadas a los programas y políticas relacionados con la prevención, atención, sanción y erradicación de la violencia hacia las mujeres; y
+III. A través de la Auditoría Superior del Estado, revisar las cuentas públicas de las entidades fiscalizadas del Estado y Municipios, vigilar el puntual y transparente ejercicio de las partidas presupuestales destinadas a los programas y políticas relacionados con la prevención, atención, sanción y erradicación de la violencia hacia las mujeres;
 
-IV. Aplicar la perspectiva de género de manera transversal en sus actividades.
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+IV. Aplicar la perspectiva de género de manera transversal en sus actividades, y
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+V. Impulsar la capacitación del personal en general en materia de Derechos Humanos y perspectiva de género.
 
 #### SECCIÓN NOVENA. DEL PODER JUDICIAL
 
@@ -1818,3 +1834,11 @@ B.O. 20 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2953 SE REFORMA EL ARTÍCULO 6 DE LA LEY (SIC) ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3047 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
