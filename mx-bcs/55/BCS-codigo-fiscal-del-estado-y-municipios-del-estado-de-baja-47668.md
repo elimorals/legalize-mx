@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-del-estado-y-municipios-del-estado-de-baja-47668"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-12-28"
-last_updated: "2018-05-14"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
 
 Código publicado en Extraordinario del Boletín Oficial de Estado de Baja California Sur, el miércoles 28 de diciembre de 2005.
 
@@ -2445,7 +2445,9 @@ II. Por correo ordinario o por telegrama, cuando se trate de actos distintos de 
 
 III. Por estrados, en los casos previstos en el artículo 170 de este Código;
 
-IV. Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al albacea, hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en territorio del Estado;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+IV. Por edictos, únicamente en el caso de que la persona a quien deba notificarse hubiera fallecido y no se conozca al albacea;
 
 V. Por instructivos, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 168 de este Código.
 
@@ -2495,17 +2497,53 @@ Si las notificaciones se refieren a requerimientos para el cumplimiento de oblig
 
 Cuando se deje sin efectos una notificación practicada ilegalmente, se impondrá al notificador una multa de 5 a 10 veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 170.
 
-Las notificaciones por estrados procederán en los casos en que la persona a quien deba notificarse desaparezca después de iniciadas las facultades de comprobación, se oponga a la diligencia de notificación, no haya señalado domicilio para efectos del Registro Estatal o Municipal de Contribuyentes, se coloque en los supuestos previstos en la fracción V del artículo 140 de este Código y en los demás casos que señalen las leyes fiscales y este ordenamiento legal.
+Las notificaciones por estrados procederán en los casos en que la persona a quien deba notificarse no sea localizable en el domicilio que haya señalado para efectos del Registro Estatal o Municipal de contribuyentes, se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, se coloque en los supuestos previstos de la fracción V del artículo 140 de este Código y en los demás casos que señalen las leyes fiscales y este ordenamiento legal.
 
-Las notificaciones por estrados se harán fijando durante 5 días el documento que se pretenda notificar en un sitio abierto al público de las oficinas de la autoridad que efectúe la notificación. La autoridad dejará constancia de ello en el expediente respectivo. En estos casos, se tendrá como fecha de notificación la del sexto día siguiente a aquél en el que se hubiera fijado el documento.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Las notificaciones por estrados se realizarán:
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+I. Publicando el documento que se pretenda notificar durante diez días en la página electrónica que al efecto establezcan las autoridades fiscales.
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+II. El plazo se contará a partir del día siguiente a aquél en que el documento fue publicado; la autoridad dejará constancia de ello en el expediente respectivo.
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+III. En estos casos, se tendrá como fecha de notificación la del décimo primer día contado a partir del día siguiente a aquél en el que se hubiera publicado el documento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 171.
 
-Las notificaciones por edictos se harán mediante tres publicaciones con un espacio de diez días, entre cada una, en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en uno de los periódicos de mayor circulación en el Estado y contendrán un resumen de los actos que se notifican.
+Las notificaciones por Edictos se harán mediante publicaciones en cualquiera de los siguientes medios:
 
-En este caso se tendrá como fecha de notificación la de la última publicación.
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+I. Mediante tres publicaciones con un espacio de diez días, entre cada una, en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+II. Por un día en un diario de mayor circulación en el Estado.
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+III. Durante quince días en la página electrónica que al efecto establezcan las autoridades fiscales, mediante reglas de carácter general.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Las publicaciones a que se refiere este artículo contendrán un extracto de los actos que se notifican.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Se tendrá como fecha de notificación la de la última publicación.
 
 ###### Artículo 172.
 
@@ -3626,3 +3664,11 @@ B.O. 14 DE MAYO DE 2018.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2530 SE EXPIDE LA LEY DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO PARA EL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMA EL ARTÍCULO 118 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, Y SE DEROGA EL TÍTULO VI DEL CÓDIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- La presente derogación entrará en vigor una vez que cobre vigencia la Ley de Procedimiento Contencioso Administrativo para el Estado de Baja California Sur, salvo para los juicios que se encuentren en trámite ante la autoridad que corresponda.
+
+B.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3056 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
