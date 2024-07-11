@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-117819"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-12-31"
-last_updated: "2023-05-10"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2016.
 
@@ -77,23 +77,47 @@ El desempeño de la función jurisdiccional corresponde a:
 
 I. El Tribunal Superior de Justicia;
 
-II. Los Jueces de Primera Instancia;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-III. Los Jueces de Control;
+II. Las y los Jueces de Primera Instancia;
+
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+III. Las y los Jueces de Control;
 
 IV. El Tribunal de Enjuiciamiento;
 
-V. Los Jueces de Control, el Tribunal Unitario de Enjuiciamiento y el Juez de Ejecución, Especializados en el Sistema Integral de Justicia Penal para Adolescentes;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-VI. Los Jueces de Ejecución;
+V. Las y los Jueces de Control, el Tribunal Unitario de Enjuiciamiento y la o él Juez de Ejecución, Especializados en el Sistema Integral de Justicia Penal (sic) Adolescentes;
 
-VII. Los Jueces Menores;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-VIII. Los Jueces de Paz;
+VI. Las y los Jueces de Ejecución Penal;
 
-IX. Los Árbitros; y
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-X. Los demás funcionarios y auxiliares de la administración de Justicia.
+VII. Las y los Jueces Especializados en Violencia contra las Mujeres;
+
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+VIII. Las y los Jueces de los Tribunales Laborales;
+
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+IX. Las y los Jueces Menores;
+
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+X. Las y los Jueces de Paz;
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XI. Las y los Árbitros; y
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XII. Las y los demás funcionarios y auxiliares de la administración de Justicia.
 
 ###### Artículo 4.
 
@@ -217,7 +241,7 @@ Son facultades del Pleno del Tribunal:
 
 I. Presentar ante el Congreso del Estado de Baja California Sur, las Iniciativas de Ley o Iniciativas de Decreto para modificar diversos ordenamientos que estime convenientes para la buena administración de justicia;
 
-II. Discutir, modificar y aprobar en su caso, el anteproyecto de presupuesto de egresos del Tribunal Superior de Justicia que para cada ejercicio fiscal proponga el Presidente del Tribunal, el que a través del Ejecutivo se someterá a la aprobación del Congreso del Estado;
+II. (DEROGADA, B.O. 11 DE JULIO DE 2024)
 
 III. Conocer en única instancia de las demandas de responsabilidad patrimonial que se entablen contra las Salas del Tribunal y el Consejo de la Judicatura, en los términos de la Ley de Responsabilidad Patrimonial Para el Estado y Municipios de Baja California Sur;
 
@@ -289,7 +313,7 @@ XXVIII. Establecer mediante acuerdo general, criterios de interpretación juríd
 
 XXIX. Resolver sobre la responsabilidad administrativa de los consejeros de la Judicatura;
 
-XXX. Instrumentar estímulos a la productividad del personal adscrito al Tribunal Superior de Justicia del Estado, atenta la disponibilidad presupuestal; y
+XXX. (DEROGADA, B.O. 11 DE JULIO DE 2024)
 
 > <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -347,11 +371,17 @@ Las actas que se levanten de los acuerdos y resoluciones del Pleno, deberán fir
 
 ### CAPÍTULO TERCERO. DEL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 18.
 
-El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en escrutinio secreto en la primera sesión plenaria celebrada durante el mes de abril de cada dos años, que estará presidida por el Magistrado de más edad. El Presidente no integrará Sala.
+La Presidenta o Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en escrutinio secreto en sesión plenaria que deberá celebrarse el último día hábil del periodo que corresponda en el cargo a la o el Presidente en turno. La Presidenta o Presidente no integrará Sala.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 11 DE JULIO DE 2024)</small>
+
+La temporalidad en el cargo será la establecida en el artículo 95 de la de la (sic) Constitución Política del Estado Libre y Soberano de Baja California Sur, sin que exista la posibilidad de reelección en términos del referido precepto.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], B.O. 11 DE JULIO DE 2024)</small>
 
 El resultado de la elección de Presidente del Tribunal Superior de Justicia se publicará en el Boletín Oficial del Gobierno del Estado.
 
@@ -369,9 +399,11 @@ El Presidente del Tribunal Superior de Justicia será sustituido en las ausencia
 
 Las providencias y acuerdos del Presidente pueden reclamarse ante el Pleno dentro del plazo de tres días, siempre que dicha reclamación se presente por escrito y con motivo fundado por la parte interesada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 22.
 
-Corresponde al Presidente del Tribunal Superior de Justicia:
+Corresponde a la Presidenta o Presidente del Tribunal Superior de Justicia:
 
 I. Convocar a los Magistrados a sesiones del Pleno, presidirlas, dirigir los debates y conservar el orden en las sesiones y en las audiencias;
 
@@ -401,11 +433,11 @@ X. Proponer al Pleno del Tribunal, los cambios y nombramientos del Secretario Ge
 
 XI. Turnar al Pleno o a las Salas los asuntos que sean de su competencia;
 
-XII. Proponer ante el Pleno del Tribunal el proyecto de Presupuesto de Egresos del Tribunal, que deberá regir en el ejercicio fiscal siguiente, el cual a través del Ejecutivo se someterá a la aprobación del Congreso del Estado;
+XII. (DEROGADA, B.O. 11 DE JULIO DE 2024)
 
-XIII. Presentar ante el Ejecutivo el proyecto de presupuesto de egresos del Poder Judicial, integrando en un solo documento los proyectos de presupuestos de egresos correspondientes al Tribunal Superior de Justicia y al Consejo de la Judicatura, a efecto de que por su conducto sea remitido conforme a la ley, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado;
+XIII. (DEROGADA, B.O. 11 DE JULIO DE 2024)
 
-XIV. Ejercer el Presupuesto de Egresos aprobado por el Congreso del Estado para el Tribunal Superior de Justicia y acordar las erogaciones que deban hacerse con cargo a sus diversas partidas, sin que queden comprendidas en esta facultad las relativas al sueldo fijo, que sólo podrán ser alteradas por concepto de las correcciones disciplinarias en los términos que prescriba la Ley;
+XIV. (DEROGADA, B.O. 11 DE JULIO DE 2024)
 
 XV. Tramitar todos los asuntos de la competencia del Pleno del Tribunal hasta su estado de resolución;
 
@@ -675,9 +707,9 @@ Los servidores públicos del Poder Judicial deberán ser mexicanos, mayores de e
 
 ## TÍTULO CUARTO. DE LOS JUZGADOS Y TRIBUNALES LABORALES
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE JULIO DE 2024)</small>
 
-### CAPÍTULO PRIMERO. DE LOS JUZGADOS DE PRIMERA INSTANCIA Y TRIBUNALES LABORALES
+### CAPÍTULO PRIMERO. DE LOS JUZGADOS DE PRIMERA INSTANCIA, TRIBUNALES LABORALES Y LOS JUZGADOS ESPECIALIZADOS EN VIOLENCIA FAMILIAR CONTRA LAS MUJERES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE FEBRERO DE 2022)</small>
 
@@ -689,21 +721,25 @@ En cada Partido Judicial habrá el número necesario de Juzgados de Primera Inst
 
 Previo acuerdo del Pleno del Consejo, se fijará la competencia en las materias penal, civil, familiar, mercantil y mixta de dichos órganos jurisdiccionales. En el caso de los Tribunales Laborales, como instancias jurisdiccionales especializadas, conocerán solamente de los conflictos surgidos de las relaciones de trabajo comprendidas en el artículo 123, Apartado "A", de la Constitución Política de los Estados Unidos Mexicanos, que no sean competencia de los órganos jurisdiccionales federales.
 
-> <small>(ADICIONADO, B.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 11 DE JULIO DE 2024)</small>
 
-Las Juezas y los Jueces del Poder Judicial serán designados observando lo dispuesto en el último párrafo del numeral 89 de la Constitución Política del Estado Libre y Soberano de Baja California Sur y esta Ley. Duraran seis años en el Ejercicio de su encargo, al término de los cuales, si fueran ratificados, solo podrán ser removidos de sus puestos en los casos y conforme a los procedimientos que establezca la Ley y la demás normatividad aplicable al caso.
+Los Juzgados Especializados en Violencia Familiar contra las mujeres, tendrán competencia mixta, ya que conocerán de las materias familiar y penal, con las facultades y atribuciones que establece la presente Ley, así como las previstas en los Acuerdos Generales del Pleno del Consejo.
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], B.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
-Para la ratificación de los jueces del Poder Judicial, el Consejo de la Judicatura, tomará en consideración los siguientes elementos:
+Las Juezas y los Jueces del Poder Judicial serán designados observando lo dispuesto en el último párrafo del numeral 89 de la Constitución Política del Estado Libre y Soberano de Baja California Sur y esta Ley. Duraran seis años en el ejercicio de su encargo, al término de los cuales, si fueran ratificados, solo podrán ser removidos de sus puestos en los casos y conforme a los procedimientos que establezca la Ley y la demás normatividad aplicable al caso.
 
-a) El desempeño que haya tenido el juez de que se trate en el ejercicio de su función;
+> <small>(ADICIONADO [N. DE E. REFORMADO], B.O. 11 DE JULIO DE 2024)</small>
+
+Para la ratificación de las y los jueces del Poder Judicial, el Consejo de la Judicatura, tomará en consideración los siguientes elementos:
+
+a) El desempeño que haya tenido la o el juez de que se trate en el ejercicio de su función;
 
 b) Los resultados de las visitas de inspección;
 
-c) El grado académico que comprende el nivel de estudios con que cuente el servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
+c) El grado académico que comprende el nivel de estudios con que cuente la o él servidor público, así como los diversos cursos de actualización y especialización acreditados de manera fehaciente;
 
-d) No haber sido sancionado por falta grave, con motivo de una queja de carácter administrativo; y
+d) No haber sido sancionada por falta grave, con motivo de una queja de carácter administrativo; y
 
 e) Las demás que se estimen pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de inicio del proceso de ratificación.
 
@@ -926,6 +962,70 @@ Los Jueces en materia laboral tendrán la competencia material y formal conforme
 > <small>(REFORMADO [N. DE E. REPUBLICADO], B.O. 27 DE DICIEMBRE DE 2022)</small>
 
 Los Jueces en materia laboral deberán observar en sus sentencias y resoluciones los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 48 Ter.
+
+Las y los Jueces especializados en violencia familiar contra las mujeres, tendrán las siguientes atribuciones y obligaciones:
+
+Apartado A. En materia penal:
+
+I. Conocer de las etapas de investigación (inicial y complementaria) e intermedia del procedimiento penal del sistema acusatorio y oral regulado en el Código Nacional de Procedimientos Penales, respecto de los siguientes delitos contenidos en el Código Penal para el Estado de Baja California Sur:
+
+a) Delitos contra la vida y la integridad corporal, contenidos en el Libro Segundo, Parte Especial, Título Primero, capítulos I, II, III, IV y V;
+
+b) Delitos de peligro para la vida o la salud de las personas, que se comprenden en el Título Tercero, capítulos I y II del Libro Segundo;
+
+c) Delitos contra el libre desarrollo de la personalidad, establecidos en el Título Cuarto, capítulo I del Libro Segundo;
+
+d) Delitos contra la libertad sexual y el normal desarrollo psicosexual, establecidos en el Título Quinto que se comprenden en los capítulos I, II, III, IV BIS, IV TER y V del Libro Segundo;
+
+e) Delitos contra la libertad personal, establecidos en el Título Sexto, capítulos I y IV del Libro Segundo;
+
+f) Delitos cometidos entre integrantes de la familia y delitos por discriminación contra la dignidad de las personas, previstos en el Título Séptimo, capítulo I del Libro Segundo;
+
+g) Delitos contra el cumplimiento de la obligación alimentaria previstos en el Título Octavo, capítulo único del Libro Segundo;
+
+h) Delitos contra la filiación y el matrimonio, comprendidos en el Título Noveno, capítulos I y II del Libro Segundo;
+
+i) Delitos contra la paz de las personas y la inviolabilidad del domicilio, comprendidos en el Título Décimo Primero, capítulos l y I (sic) del Libro Segundo;
+
+j) Delito contra la confidencialidad, previsto en el Título Décimo Segundo, capítulo único del Libro Segundo;
+
+k) Delitos contra el patrimonio, que se prevén en el Título Décimo Tercero, capítulos I, III, IV, VII y VIII del Libro Segundo;
+
+l) Delitos contra la seguridad y el normal funcionamiento de las vías de comunicación y de los medios de transporte, previstos en el Título Vigésimo Primero, capítulos III y IV del Libro Segundo;
+
+m) Delitos Contra La Fe Pública, comprendidos en el Título Vigésimo Segundo, capítulo V del Libro Segundo;
+
+n) Delitos por razones de género, que se prevén en el Título Vigésimo Sexto, capítulos I y II; del Libro Segundo y;
+
+ñ) Los demás que mediante Acuerdo General establezca el Pleno del Consejo de la Judicatura.
+
+Delitos los descritos en los incisos de la a) a la n) que sean cometidos en el ámbito familiar, es decir, siempre y cuando se hubiesen cometido contra la mujer con quien el agresor o sujeto activo tenga una relación de pareja o ex pareja, cónyuge o ex cónyuge, concubina o ex concubina, respecto a quien tenga o haya tenido relación de pareja o de hecho, o bien sea pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado o pariente colateral consanguíneo o por afinidad hasta cuarto grado, así como contra el adoptante, adoptado o adoptada, al igual que contra cualquier otra mujer, o en su caso sus hijos e hijas, que estén sujetos a la custodia, guarda, protección, educación o cuidado del sujeto activo del delito;
+
+II. Resolver sobre las medidas cautelares u órdenes de protección de conformidad con el Código Nacional de Procedimientos Penales, así como cualquier medida tendiente a proteger los derechos de las mujeres víctimas de violencia establecidas en el marco jurídico nacional e internacional siempre que se trate de aquellos en que figuren como víctimas las personas referidas en la fracción I, apartado A) del presente artículo y se juzguen los delitos señalados en el mismo;
+
+III. Atenderán y resolverán en ambas etapas las salidos alternas o la forma de terminación anticipada de conformidad con el Código Nacional de Procedimientos Penales;
+
+IV. Sobreseerán las causas a su cargo cuando se actualicen cualquiera de las hipótesis contenidas en el Código Nacional de Procedimientos Penales; y
+
+V. Las demás que mediante Acuerdo General establezca el Pleno del Consejo de la Judicatura.
+
+Apartado B. En materia familiar; una vez que se haya dictado el auto de vinculación a proceso conforme al Apartado A del presente artículo:
+
+I. Decretar provisionalmente alimentos, guarda y custodia, separación o depósito de personas y régimen de convivencia entre padre no custodio y los hijos;
+
+II. Conocer y resolver de las providencias precautorias y órdenes de protección previstas en el Título Quinto Capítulo VI del Código de Procedimientos Civiles para el Estado de Baja California Sur;
+
+III. Emitir las órdenes de protección reguladas tanto en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, como en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California Sur;
+
+IV. Dictar las medidas cautelares o de protección contenidas en la legislación nacional e Internacional, ya sea que las mujeres víctimas de violencia las reclamen por su propio derecho o en representación de sus hijos e hijas; y
+
+V. Las demás que mediante Acuerdo General establezca el Pleno del Consejo de la Judicatura.
+
+Siempre que los actos de violencia sean cometidos en el ámbito familiar, es decir, cuando se hubiesen cometido contra la mujer con quien el agresor tenga una relación de pareja o ex pareja, cónyuge o ex cónyuge, concubina o ex concubina, respecto a quien tenga o haya tenido relación de pareja o de hecho, o bien sea pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado o pariente colateral consanguíneo o por afinidad hasta cuarto grado, así como contra el adoptante, adoptado o adoptada, al igual que contra cualquier otra mujer, o en su caso sus hijos e hijas, que estén sujetos a la custodia, guarda, protección, educación o cuidado del sujeto activo del delito.
 
 ###### Artículo 49.
 
@@ -1971,7 +2071,9 @@ VIII. Conceder licencia, con goce de sueldo, a los Jueces y demás servidores p�
 
 Las licencias con o sin goce de sueldo se podrán conceder hasta por dos años, nombrando en su caso a los sustitutos respectivos, si se considera procedente la causa en que se funda la solicitud correspondiente; en el entendido de que en ningún caso se podrá conceder más de una licencia por año;
 
-IX. Discutir, modificar y aprobar en su caso, el anteproyecto de presupuesto de egresos del Consejo de la Judicatura que para cada ejercicio fiscal proponga el Consejero Presidente, mismo que será remitido al Presidente del Tribunal para los efectos legales conducentes;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+IX. Discutir, modificar y aprobar en su caso, el proyecto de presupuesto de egresos del Poder Judicial que para cada ejercicio fiscal proponga el Consejero Presidente, mismo que una vez aprobado será remitido al Presidente del Consejo para los efectos legales conducentes;
 
 X. Exigir al Presidente del Pleno del Consejo el fiel cumplimiento de sus obligaciones;
 
@@ -2001,7 +2103,9 @@ XVIII. Determinar la información que deba ser considerada como reservada, en t�
 
 XIX. Emitir los acuerdos que estime pertinentes para llevar por sí, o través de los órganos de control interno del Poder Judicial, el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos del Poder Judicial, con excepción de los Magistrados y Consejeros, así como para celebrar convenios con la Comisión Nacional Bancaria y de Valores o cualquier otra institución a efecto de obtener información relativa al patrimonio de Jueces y demás servidores públicos del Poder Judicial, con la referida excepción;
 
-XX. Emitir los acuerdos generales y circulares que estime pertinentes;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XX. Emitir los acuerdos generales, circulares, lineamientos, directrices o manuales que estime pertinentes, para garantizar el adecuado funcionamiento de los órganos y dependencias de (sic) Poder Judicial;
 
 XXI. Aprobar los manuales de procedimientos que sometan a su consideración los titulares de los órganos y dependencias del Poder Judicial;
 
@@ -2013,7 +2117,9 @@ XXIV. Disponer los casos en que los jueces deban utilizar toga;
 
 XXV. Emitir el Reglamento para la administración del Sistema de Ahorro de los Trabajadores del Poder Judicial;
 
-XXVI. Emitir las bases para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes y prestación de servicios que realice el Poder Judicial;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XXVI. Emitir las bases para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios y la contratación de obra que realice el Poder Judicial;
 
 XXVII. Otorgar estímulos y recompensas a los servidores públicos del Poder Judicial que se hayan destacado en el desempeño de su cargo, conforme a la disponibilidad presupuestal;
 
@@ -2051,9 +2157,11 @@ El Consejo de la Judicatura contará con los servidores públicos que establece 
 
 ### CAPITULO CUARTO. DE SU PRESIDENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 115.
 
-Son atribuciones del Presidente del Consejo de la Judicatura, las siguientes:
+Son atribuciones de la Presidenta o Presidente del Consejo de la Judicatura, las siguientes:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 27 DE DICIEMBRE DE 2022)</small>
 
@@ -2105,7 +2213,13 @@ XVII. Revisar y aprobar la cuenta mensual sobre los gastos menores erogados;
 
 XVIII. Comisionar a los Jueces de Ejecución de Sanciones Penales y de primera instancia, así como al Visitador que deberán encargarse de las visitas periódicas de inspección a Centros de Reinserción Social y demás lugares de detención.
 
-XIX. Proponer al Pleno del Consejo el proyecto de Presupuesto de Egresos del Consejo de la Judicatura que deberá regir en el siguiente ejercicio fiscal anual, para su aprobación y trámite correspondiente;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XIX. Proponer al Pleno del Consejo el proyecto de Presupuesto de Egresos del Poder Judicial que deberá regir en el siguiente ejercicio fiscal anual, para su aprobación y trámite correspondiente;
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XIX Bis. Presentar ante el Ejecutivo el proyecto de presupuesto de egresos del Poder Judicial, a efecto de que por su conducto sea remitido conforme a la ley, para su inclusión en el Proyecto de Presupuesto de Egresos del Estado;
 
 > <small>(REFORMADA, B.O. 12 DE DICIEMBRE DE 2018)</small>
 
@@ -2571,15 +2685,19 @@ La Oficialía Mayor estará integrada por las siguientes Direcciones: Dirección
 
 Además de las Direcciones señaladas, la Oficialía Mayor contará con el personal técnico y administrativo que determine el Pleno del Consejo, de acuerdo con el presupuesto de egresos del Poder Judicial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 145.
 
-Corresponde al Oficial Mayor:
+Corresponde a la persona titular de la Oficial (sic) Mayor:
 
 I. Tener a su cargo el despacho de los asuntos administrativos bajo la autoridad del Presidente del Consejo;
 
 II. Llevar por órdenes del Presidente del Pleno del Consejo, la correspondencia oficial de los órganos y dependencias del Poder Judicial;
 
-III. Presidir el Comité de Adquisiciones del Poder Judicial, en términos de lo establecido por la presente Ley y su Reglamento;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+III. Presidir el Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Poder Judicial, en términos de lo establecido por la presente Ley y su Reglamento;
 
 IV. Hacer cumplir las normas y directrices relativas a la selección, contratación, nombramientos, remuneración, capacitación, desarrollo, control e incentivos del personal, sin perjuicio de las atribuciones de los titulares o responsables de las dependencias en lo relativo al personal adscrito a éstas;
 
@@ -2589,7 +2707,9 @@ VI. Auxiliar a los Magistrados, Consejeros, Jueces y demás servidores públicos
 
 VII. Mantener actualizadas las bitácoras de mantenimiento del parque vehicular del Poder Judicial, así como llevar el control de la dotación de combustible necesario para el funcionamiento del mismo;
 
-VIII. Formalizar y mantener vigente la funcionalidad del Comité de Adquisiciones, mediante reuniones periódicas para atender las necesidades propias del Poder Judicial;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+VIII. Formalizar y mantener vigente la funcionalidad del Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios mediante reuniones periódicas para atender las necesidades propias del Poder Judicial;
 
 IX. Participar, en coordinación con la Dirección de Finanzas, en la generación de información relativa a su área y en la conformación de proyectos y gestión de recursos que permitan mejorar y hacer más eficientes las labores del Poder Judicial;
 
@@ -2669,13 +2789,19 @@ La Dirección de Adquisiciones estará a cargo del funcionario que designe el Pl
 
 Para ser Director de esta dependencia deberán cubrirse los mismos requisitos que se exigen para ser Secretario de Acuerdos, con excepción de la carrera profesional, la cual deberá ser Licenciado en Administración o carrera afín.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 151.
 
-El Director de Adquisiciones tendrá las siguientes atribuciones:
+La persona titular de la Dirección de Adquisiciones tendrá las siguientes atribuciones:
 
-I. Elaborar los programas anuales para la adquisición de bienes, arrendamientos y servicios con base en las necesidades y la disponibilidad financiera en coordinación con la Dirección de Finanzas y someterlos a consideración del Comité de Adquisiciones del Poder Judicial;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-II. Dar seguimiento a los acuerdos tomados al interior del Comité de Adquisiciones del Poder Judicial, respecto a las adquisiciones, arrendamientos y contratación de servicios en base al Reglamento de la Ley Orgánica del Poder Judicial, así como a la normatividad vigente para atender en tiempo y forma las necesidades propias del Poder Judicial;
+I. Elaborar los programas anuales para la adquisición de bienes, arrendamientos y servicios con base en las necesidades y la disponibilidad financiera en coordinación con la Dirección de Finanzas y someterlos a consideración del Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Poder Judicial;
+
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+II. Dar seguimiento a los acuerdos tomados al interior del Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Poder Judicial, respecto a las adquisiciones, arrendamientos y contratación de servicios en base al Reglamento de la Ley Orgánica del Poder Judicial, así como a la normatividad vigente para atender en tiempo y forma las necesidades propias del Poder Judicial;
 
 III. Llevar el control de las entradas y salidas del almacén de papelería, artículos de oficina, limpieza, mobiliario y equipo, así como atender las necesidades materiales y de mantenimiento de todas las áreas del Poder Judicial;
 
@@ -2717,17 +2843,25 @@ VII. Coordinar la elaboración, de manuales de organización y de procedimientos
 
 VIII. Las demás que el Pleno del Consejo, su presidente, o el Oficial Mayor le asignen en uso de sus facultades.
 
-#### SECCIÓN V. DEL COMITÉ DE ADQUISICIONES
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE JULIO DE 2024)</small>
+
+#### SECCIÓN V. DEL COMITÉ DE ADQUISICIONES, ARRENDAMIENTOS, OBRA PÚBLICA Y SERVICIOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 153.
 
-El Comité de Adquisiciones del Poder Judicial, es el órgano encargado de programar, regular, asesorar y autorizar los actos y contratos que celebre el Poder Judicial en materia de adquisiciones, arrendamientos y servicios.
+El Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Poder Judicial, es el órgano encargado de programar, regular, asesorar y autorizar los actos y contratos que celebre el Poder Judicial en materia de adquisiciones, arrendamientos, obra pública y servicios.
 
-Así mismo, corresponde al Comité de Adquisiciones del Poder Judicial emitir las bases, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes y prestación de servicios de cualquier naturaleza que realice el Poder Judicial, en ejercicio de su presupuesto de egresos, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Así mismo, corresponde al mencionado Comité emitir las bases, para que las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes y prestación de servicios de cualquier naturaleza que realice el Poder Judicial, en ejercicio de su presupuesto de egresos, se ajusten a los criterios contemplados en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos y en lo conducente, la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, así como la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Baja California Sur, la Ley de Obras Públicas y Servicios Relacionados con las Mismas y la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado y Municipios de Baja California Sur; y la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 154.
 
-El Comité de Adquisiciones estará integrado de la siguiente manera:
+El Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Poder Judicial, estará integrado de la siguiente manera:
 
 I. Un Presidente, que será el Oficial Mayor, con derecho a voz y voto;
 
@@ -2735,7 +2869,9 @@ II. Dos Vocales, los cuales serán el Consejero Presidente de la Comisión de Ad
 
 III. Un Secretario Técnico, que será el Director de Adquisiciones, con derecho a voz pero sin voto.
 
-A las sesiones deberá asistir el Contralor con derecho a voz pero sin voto, y de igual forma podrán asistir como invitados, cualquier otro servidor público del Poder Judicial, cuya intervención considere necesaria el comité de adquisiciones.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
+A las sesiones deberá asistir la persona titular de la Contraloría del Poder Judicial, con derecho a voz pero sin voto, y de igual forma podrán asistir como invitados, cualquier otro servidor público de la institución, cuya intervención considere necesaria el Comité.
 
 Las decisiones del Comité se tomarán por mayoría simple de votos de sus integrantes.
 
@@ -2759,7 +2895,9 @@ La Dirección de Finanzas, tendrá las siguientes atribuciones:
 
 I. Elaborar anualmente, en coordinación con la Dirección de Nómina, el anteproyecto de presupuesto de egresos del Tribunal Superior de Justicia y del Consejo de la Judicatura, garantizando su operatividad y considerando sus necesidades de crecimiento, debiendo remitir el primero al Presidente del Tribunal para su aprobación por parte del Pleno de dicho órgano y el segundo a la Comisión de Administración, para efectos (sic) revisión y entrega al Presidente del Consejo, quién lo someterá a la aprobación del Pleno .
 
-II. Coadyuvar con el Presidente del Comité de Adquisiciones, en la elaboración de los programas anuales para la adquisición de bienes, arrendamientos y servicios con base en las necesidades y la disponibilidad financiera;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+II. Coadyuvar con el Presidente del Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Poder Judicial, en la elaboración de los programas anuales para la adquisición de bienes, arrendamientos y servicios con base en las necesidades y la disponibilidad financiera;
 
 III. Vigilar que la distribución del gasto comprometa exclusivamente los montos asignados a cada capítulo del presupuesto;
 
@@ -3285,9 +3423,11 @@ La designación del Contralor General se hará por el Pleno del Consejo, a propu
 
 La Contraloría del Poder Judicial dependerá directamente de la Presidencia del Consejo de la Judicatura.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 188.
 
-El Contralor General tendrá las siguientes atribuciones:
+La persona titular de la Contraloría tendrá las siguientes atribuciones:
 
 I. Vigilar el cumplimiento de las normas de control interno establecidas en esta Ley, su Reglamento y las que determine el Pleno del Consejo;
 
@@ -3301,7 +3441,9 @@ IV. Diseñar las políticas, planes de trabajo, sistemas y acciones, para el log
 
 V. Practicar auditorías financieras a órganos jurisdiccionales del Poder Judicial en los casos que le sea solicitado por la Visitaduría judicial o las que ordene el Presidente;
 
-VI. Vigilar y dar seguimiento a los procesos de adquisiciones, arrendamientos y servicios autorizados por el Comité de Adquisiciones del Poder Judicial, a efecto de garantizar su legalidad;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+VI. Vigilar y dar seguimiento a los procesos autorizados por el Comité de Adquisiciones, Arrendamientos, Obra Pública y Servicios del Poder Judicial, a efecto de garantizar su legalidad;
 
 VII. Intervenir en la entrega y recepción de bienes cuando ocurran cambios de titulares de las dependencias y juzgados del Poder Judicial, en los casos que así lo disponga el Presidente del Consejo de la Judicatura.
 
@@ -3635,43 +3777,83 @@ VII. Las demás que se desprendan de la normatividad aplicable.
 
 ### CAPÍTULO DÉCIMO OCTAVO. DEL ARCHIVO JUDICIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 214.
 
-El Archivo Judicial estará a cargo de un Jefe del Archivo nombrado por el Pleno del Consejo a propuesta de su Presidente; quien deberá cumplir los mismos requisitos previstos por esta Ley para ser Juez de Primera Instancia, con excepción de la edad y la profesión; que respectivamente para este cargo será de por lo menos veinticinco años cumplidos al día de su designación, pudiendo la profesión ser la de licenciado en administración o área afín.
+El Archivo Judicial como (sic) estará a cargo de un Director nombrado por el Pleno del Consejo a propuesta de su Presidente; quien deberá cumplir los mismos requisitos previstos por esta Ley para ser Juez de Primera Instancia, con excepción de la edad y la profesión; que respectivamente para este cargo será de por lo menos veinticinco años cumplidos al día de su designación, debiendo contar con licenciatura en áreas afines o tener conocimientos, habilidades, competencias y experiencia acreditada en archivística.
 
 El Archivo Judicial contará con el personal que el Pleno del Consejo considere necesario de acuerdo con la suficiencia presupuestal.
 
-El Archivo Judicial dependerá directamente de la Presidencia del Consejo de la Judicatura.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
+El Archivo dependerá directamente del Presidente del Consejo de la Judicatura y será el área coordinadora de archivos responsable de promover la operación del Sistema Institucional de Archivos y de que la gestión documental y la administración de los documentos producidos por los órganos jurisdiccionales y las dependencias administrativas del Poder Judicial se realice de conformidad con la ley de la materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 215.
 
-La documentación generada por los diversos órganos jurisdiccionales, así como por las dependencias del Poder Judicial deberá ser clasificada, depurada, archivada y custodiada en los términos de la presente Ley, su Reglamento, así como de los acuerdos que emita el Pleno del Consejo y su Presidente.
+La documentación generada por los diversos órganos jurisdiccionales, así como por las dependencias del Poder Judicial deberá ser clasificada, depurada, archivada y custodiada en términos de la legislación de la materia, el Reglamento de la presente ley, así como de los acuerdos que emita el Pleno del Consejo y su Presidente.
 
-Para el mejor funcionamiento del Archivo Judicial, se implementará un sistema de digitalización de expedientes y depuración, de acuerdo como lo que determine el Reglamento y los Acuerdos que emita el Pleno Consejo de la Judicatura, el cual podrá acordar, en todo caso, las disposiciones que crea convenientes para optimizar el funcionamiento del archivo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 216.
 
-Para la depuración de los expedientes, el Jefe del Archivo deberá acatar los lineamientos que al efecto emita el Pleno del Consejo y la Comisión Dictaminadora.
+El grupo interdisciplinario constituido en términos de la ley de la materia coadyuvará en el análisis de los procesos y procedimientos institucionales que dan origen a la documentación que integran los expedientes de cada serie documental, con el fin de colaborar con las áreas o unidades administrativas productoras de la documentación en el establecimiento de los valores documentales, vigencias, plazos de conservación y disposición documental durante el proceso de elaboración de las fichas técnicas de valoración de la serie documental y que, en conjunto, conforman el catálogo de disposición documental.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 217.
 
-La Comisión Dictaminadora se integrará por:
+El grupo interdisciplinario estará integrado por:
 
-I. El Consejero Presidente de la Comisión de Vigilancia y Disciplina;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-II. El Oficial Mayor;
+I. La persona titular de la Secretaría General de Acuerdos del Pleno del Tribunal Superior de Justicia y de la Secretaría Ejecutiva del Consejo de la Judicatura del Poder Judicial;
 
-III. Un Juez o el Contralor;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-IV. El jefe del Archivo Judicial; y
+II. La persona titular de la Oficialía Mayor;
 
-V. Un Secretario de Acuerdos designado por el Presidente del Consejo de la Judicatura.
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-La presencia del juez que será designado por el Presidente del Consejo de la Judicatura será indispensable sólo cuando se trate de la dictaminación de expedientes de los órganos jurisdiccionales y, la presencia del Contralor para la dictaminación de documentos y expedientes provenientes de las dependencias.
+III. La persona titular de la Dirección de Planeación;
+
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+IV. La persona titular de la Dirección del Archivo Judicial;
+
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+V. La persona titular de la Dirección de Informática;
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+VI. La persona titular de la Unidad de Transparencia;
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+VII. La persona titular de la Contraloría;
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+VIII. La persona titular de la Visitaduría Judicial; y
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+IX. Un representante de las dependencias administrativas productoras de la documentación.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Por cada integrante propietario se designará un suplente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 218.
 
-Se depositarán en el Archivo del Poder Judicial:
+Se depositarán en el Archivo de Concentración del Archivo Judicial:
 
 I. Los tocas y expedientes, registros y documentos que se hubieren tramitado y concluido ante el Tribunal Superior de Justicia y los Juzgados del Estado, y cuya remisión o entrega no haya de hacerse a oficina determinada o a los particulares interesados;
 
@@ -3683,49 +3865,69 @@ IV. Los registros que se hubieren tramitado y concluido ante el Centro Estatal d
 
 V. Los demás documentos que las leyes determinen.
 
-Los asuntos que hayan dejado de tramitarse dentro del término de seis meses naturales, se depositarán en el archivo provisional de cada Juzgado o en el Archivo Judicial, en su caso. Los incidentes se archivarán con el juicio principal al que pertenezcan, cualquiera que sea su naturaleza.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Los asuntos que hayan dejado de tramitarse dentro del término de seis meses naturales se depositarán en el archivo de trámite de cada Juzgado o en el Archivo de Concentración, en su caso. Los incidentes se archivarán con el juicio principal al que pertenezcan, cualquiera que sea su naturaleza.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 219.
 
-Los documentos y expedientes depositados en el Archivo Judicial serán motivo de depuración, siendo responsabilidad de la Comisión Dictaminadora del Archivo Judicial, la cual previo dictamen, estudio y aprobación del Pleno del Consejo, desechará todos aquellos documentos que jurídicamente o por su naturaleza no tengan ningún valor, procediéndose a su destrucción total conforme a los lineamientos del Reglamento de la presente Ley.
+Los documentos y expedientes depositados en el Archivo de Concentración serán motivo de depuración o baja documental, siendo responsabilidad del Grupo Interdisciplinario, el cual previo estudio, dictamen y aprobación del Pleno del Consejo, desechará todos aquellos documentos que jurídicamente o por su naturaleza no tengan ningún valor documental, conforme a las disposiciones que en su caso resulten aplicables.
 
-De todo expediente depurado se deberá conservar el documento digitalizado, debidamente clasificado.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
+De todo expediente depurado o que haya causado baja documental se deberá conservar el documento digitalizado, debidamente clasificado.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 220.
 
-Los órganos y dependencias, al remitir los expedientes al Archivo para su resguardo, llevarán un libro en el cual harán constar, en forma de inventario, lo que contenga cada remisión. Al pie de este inventario pondrá el Jefe del Archivo una constancia de su recibo dando cuenta por escrito al Presidente del Consejo de la Judicatura.
+Los órganos y dependencias, al realizar transferencias primarias al Archivo de Concentración para su resguardo, llevarán un libro en el cual harán constar, en forma de inventario, lo que contenga cada transferencia. Al pie de este inventario la persona titular del Archivo Judicial asentará una constancia de su recibo dando cuenta por escrito a la Presidencia del Consejo de la Judicatura.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 221.
 
-Las solicitudes de certificaciones, constancias, documentos y registros, se tramitarán por conducto del Jefe del Archivo Judicial, y se autorizarán mediante acuerdo del Presidente del Consejo de la Judicatura.
+Las solicitudes de certificaciones, constancias, documentos y registros se tramitarán a través de la persona titular del Archivo Judicial, y se autorizarán mediante acuerdo del Presidente del Consejo de la Judicatura.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 222.
 
-Los expedientes, documentos y objetos recibidos en el Archivo, serán registrados en un libro de entrada para cada uno de los órganos jurisdiccionales o dependencias, así como en la base de datos con que al efecto se cuente, y una vez organizados adecuadamente se colocarán en el lugar que les corresponda evitando que sufran cualquier deterioro.
+Los expedientes, documentos y objetos recibidos en el Archivo de Concentración, serán registrados conforme a los instrumentos de control archivístico previstos en la normatividad de la materia.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 223.
 
-No podrán extraerse expedientes, registros, documentos u objetos del Archivo Judicial; excepción hecha de aquellos casos en que el titular del órgano o dependencia de origen, lo solicite de manera fundada y motivada.
+No podrán extraerse expedientes, registros, documentos u objetos del Archivo de Concentración del Archivo Judicial; excepción hecha de aquellos casos en que el titular del órgano o dependencia de origen, lo solicite de manera fundada y motivada.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 224.
 
-La consulta o inspección de libros, documentos o expedientes del Archivo, podrá permitirse a los interesados o a sus representantes legales en presencia del Jefe de dicha dependencia y dentro de ella, y deberá llevarse a cabo en el interior del edificio del Archivo Judicial.
+La consulta o inspección de libros, documentos o expedientes del Archivo de Concentración del Archivo Judicial, podrá permitirse a los interesados o a sus representantes legales en presencia del responsable de dicha área y deberá llevarse a cabo en el interior de la misma.
 
 ###### Artículo 225.
 
 Por ningún motivo se permitirá que los empleados del Archivo extraigan del mismo, documentos, registros, expedientes u objetos de ninguna clase sin la debida autorización de persona facultada para ello.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 226.
 
-La falta de remisión al Archivo de los expedientes, registros, documentos u objetos que lo ameriten, serán sancionadas por el Presidente del Consejo de la Judicatura con base en lo establecido en esta Ley y en su Reglamento.
+La falta de transferencia al Archivo de Concentración de los expedientes, registros, documentos u objetos que lo ameriten, serán sancionadas por el Presidente del Consejo de la Judicatura con base en lo establecido en esta Ley y en su Reglamento.
 
 ###### Artículo 227.
 
 Cualquier defecto, irregularidad o infracción que advierta el Jefe del Archivo en los expedientes, registros, documentos u objetos que se le remitan para su depósito, lo comunicará inmediatamente al Presidente del Consejo de la Judicatura.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 228.
 
-El Reglamento de la presente Ley fijará las atribuciones de los servidores públicos del Archivo Judicial y determinará la forma de los asientos, índices, libros y bases de datos que en la oficina deban llevar para el debido control.
+El Reglamento Interno del Consejo de la Judicatura, así como los acuerdos que emita el Consejo de la Judicatura y los manuales de organización y procedimientos, fijarán las atribuciones y funciones del Archivo Judicial como área coordinadora de archivos en términos de la legislación en la materia, así como de sus áreas operativas en materia de correspondencia, archivo de trámite, archivo de concentración, y archivo histórico, en su caso, sujeto a la capacidad presupuestal y técnica del sujeto obligado.
 
 ## TÍTULO NOVENO. DE LAS RESPONSABILIDADES
 
@@ -4860,3 +5062,19 @@ B.O. 10 DE MAYO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2915 SE REFORMAN LA FRACCIÓN I, DEL ARTÍCULO 46, Y LA FRACCIÓN II DEL ARTÍCULO 47 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR Y SE REFORMA EL ARTÍCULO 7, Y LA FRACCIÓN I, DEL APARTADO B DEL ARTÍCULO 16 DE LA LEY DE EJECUCIÓN DE SANCIONES Y MEDIDAS DE SEGURIDAD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3053 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, ASÍ COMO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El Pleno del Consejo de la Judicatura, creará mediante Acuerdo General los Juzgados especializados en violencia familiar contra las mujeres, a que se refieren los artículos 40 y 48 TER de la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
