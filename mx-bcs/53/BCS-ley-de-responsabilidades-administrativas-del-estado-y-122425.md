@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidades-administrativas-del-estado-y-122425"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-27"
-last_updated: "2021-12-14"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
 
 Ley publicada en el Extraordinario No. 23 del Boletín Oficial del Estado de Baja California Sur, el martes 27 de junio de 2017.
 
@@ -363,7 +363,9 @@ De los sujetos obligados a presentar declaración patrimonial y de intereses.
 
 Estarán obligados a presentar las declaraciones de situación patrimonial y de intereses, bajo protesta de decir verdad, ante la Contraloría General, la Contraloría Municipal o su respectivo Órgano interno de control o las unidades de Responsabilidad (sic) Administrativas, todos los Servidores Públicos, en los términos previstos en la presente Ley. Asimismo, deberán presentar su declaración fiscal anual, en los términos que disponga la legislación de la materia.
 
-Igualmente estarán obligados a someterse, Gobernador Constitucional del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los integrantes del Consejo de la Judicatura, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Contralor, el Revisor Fiscal, los Coordinadores de la (sic) Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Comisionados del Instituto de Transparencia, Acceso a la información Pública y Protección de Datos Personales del Estado de Baja California Sur, los Servidores Públicos del Poder Judicial del Estado a quienes competa la resolución de las diferencias o los conflictos entre trabajadores y patrones conforme a la fracción XX del artículo 123 Constitucional, el Presidente del Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales, a más tardar dentro de la segunda quincena del mes de agosto de cada año, a examen toxicológico para la detección del uso de estupefacientes, psicotrópicos, inhalantes o fármacos que puedan causar alteraciones mentales o dependencia.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Igualmente estarán obligados a someterse, Gobernador Constitucional del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los integrantes del Consejo de la Judicatura, los Jueces del Fuero Común, los Secretarios y Subsecretarios del Despacho, el Contralor, el Titular de la Auditoría Superior del Estado, el Titular de la Unidad de Evaluación y Control de la Comisión de Vigilancia de la Auditoría Superior del Estado, los Coordinadores de la (sic) Unidades Administrativas y los Directores del Poder Ejecutivo, los Directores de los Organismos Descentralizados, el Consejero Presidente y los Consejeros Electorales del Instituto Estatal Electoral, los Comisionados del Instituto de Transparencia, Acceso a la información Pública y Protección de Datos Personales del Estado de Baja California Sur, los Servidores Públicos del Poder Judicial del Estado a quienes competa la resolución de las diferencias o los conflictos entre trabajadores y patrones conforme a la fracción XX del artículo 123 Constitucional, el Presidente del Tribunal de Conciliación y Arbitraje, el Presidente de la Comisión Estatal de los Derechos Humanos, así como los Presidentes, Síndicos, Regidores y Delegados Municipales, a más tardar dentro de la segunda quincena del mes de agosto de cada año, a examen toxicológico para la detección del uso de estupefacientes, psicotrópicos, inhalantes o fármacos que puedan causar alteraciones mentales o dependencia.
 
 #### Sección tercera (sic)
 
@@ -1924,3 +1926,11 @@ B.O. 14 DE DICIEMBRE DE 2021.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente decreto.
+
+B.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3055 SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 32 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. En cumplimiento a lo dispuesto en el presente decreto el Titular del Poder Ejecutivo Estatal deberá armonizar el Reglamento para la Práctica de los Exámenes Toxicológicos en el Estado de Baja California Sur dentro de un plazo de 90 días naturales contados a partir de la entrada en vigor del mismo.
