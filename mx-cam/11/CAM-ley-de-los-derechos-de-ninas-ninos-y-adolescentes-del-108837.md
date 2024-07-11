@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2024-03-26"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -110,6 +110,10 @@ VIII. Comisión Estatal: La Comisión de Derechos Humanos del Estado de Campeche
 > <small>(ADICIONADA, P.O. 26 DE JULIO DE 2022)</small>
 
 VIII Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, todo en un marco de respeto a sus derechos, a cargo de las personas que tienen bajo su responsabilidad a niñas, niños y adolescentes derivado de la patria potestad, tutela, guarda y custodia, la enseñanza, la educación, la salud, acogimiento residencial o cualquier otro encargo de orientación, educación, cuidado o crianza;
+
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2024)</small>
+
+VIII Ter. Cultura de la Paz: Conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos a través del diálogo y la negociación entre las personas, los grupos y las naciones;
 
 IX. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que, al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
@@ -857,13 +861,19 @@ Ante dicha notificación será aplicable el procedimiento establecido en el art�
 
 En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
 
+> <small>(ADICIONADA, P.O. 11 DE JULIO DE 2024)</small>
+
+XXIV. Inculcar en niñas, niños y adolescentes la cultura de la paz y la educación cívica;
+
 Las autoridades escolares, en el ámbito de sus facultades, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
 ###### Artículo 57.
 
 La educación, además de lo dispuesto en las disposiciones aplicables, tendrá los siguientes fines:
 
-I. Fomentar en las niñas, niños y adolescentes los valores fundamentales y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2024)</small>
+
+I. Fomentar en niñas, niños y adolescentes los valores fundamentales, la cultura de la paz, la educación cívica y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas;
 
 II. Desarrollar la personalidad, las aptitudes y las potencialidades de niñas, niños y adolescentes;
 
@@ -1273,7 +1283,9 @@ IV. Impartir en consonancia con la evolución de sus facultades, dirección y or
 
 V. Asegurar y ofrecer un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad, mediante la crianza positiva basada en el cuidado y en las relaciones respetuosas y participativas;
 
-VI. Fomentar en las niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2024)</small>
+
+VI. Fomentar en niñas, niños y adolescentes la cultura de la paz, la educación cívica, el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2023)</small>
 
@@ -1501,7 +1513,9 @@ Corresponden a las autoridades estatales y municipales, de manera concurrente, l
 
 I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la Ley General;
 
-II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, promoción y protección de los mismos, de conformidad con los principios rectores de la Ley General;
+> <small>(REFORMADA, P.O. 11 DE JULIO DE 2024)</small>
+
+II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, de la paz y la educación cívica, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley;
 
 III. Garantizar el cabal cumplimiento de la Ley General y de los instrumentos internacionales aplicables;
 
@@ -2272,6 +2286,14 @@ SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor
 P.O. 26 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 348 POR EL QUE “SE REFORMA LA FRACCIÓN XVI AL ARTÍCULO 117 Y, SE ADICIONAN LOS ARTÍCULOS 50 BIS Y 50 TER; LAS FRACCIONES VI, VII Y VIII AL ARTÍCULO 53 Y LA FRACCIÓN XVII AL ARTÍCULO 117, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 364 POR EL QUE "SE ADICIONA LA FRACCIÓN VIII TER AL ARTÍCULO 4 Y LA FRACCIÓN XXIV AL ARTÍCULO 56; Y SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 57; LA FRACCIÓN VI DEL ARTÍCULO 99 Y LA FRACCIÓN II DEL ARTÍCULO 113, TODOS DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE".]
 
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
