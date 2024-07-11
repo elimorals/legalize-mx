@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2023-08-21"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -114,6 +114,10 @@ Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, acce
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
 
 Toda persona tiene derecho a disfrutar del acceso al internet.
+
+> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2024)</small>
+
+Toda persona tiene derecho a una alimentación nutritiva, suficiente y de calidad. El Estado lo garantizará.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -4338,3 +4342,9 @@ P.O. 21 DE AGOSTO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 327, MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO DÉCIMO OCTAVO AL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
