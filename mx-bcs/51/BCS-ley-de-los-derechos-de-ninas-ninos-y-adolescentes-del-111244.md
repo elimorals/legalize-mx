@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111244"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2024-06-20"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111244&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -137,15 +137,19 @@ VIII. Diseño Universal: El diseño de productos, entornos, programas y servicio
 
 IX. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados, ignorados o menoscabados sus derechos;
 
-X. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+X. Familia de Origen: Aquella compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
 
 XI. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-XII. Familia de Acogida: Aquélla que cuente con la certificación expedida por el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+XII. Familia de Acogida: Aquella que cuente con la certificación expedida por el Sistema Estatal DIF a través de la Procuraduría de Protección de Niñas, Niños y Adolescentes, avalada por el CESADYFA y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XIII. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XIII. Familia de Acogimiento pre-adoptivo: Aquella distinta de la familia de origen y de la extensa, que cuente con certificado de idoneidad y que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
 > <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -169,6 +173,10 @@ XXI. Órgano Jurisdiccional: Los Juzgados o Tribunales del Estado de Baja Califo
 
 XXII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado;
 
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XXII Bis. Procuradurías de Protección Municipales: Las Procuradurías de Protección de Niñas, Niños y Adolescentes de los Municipios del Estado;
+
 XXIII. Programa Estatal: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Baja California Sur;
 
 XXIV. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes expedido por cada Municipio;
@@ -177,15 +185,17 @@ XXIV. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolesc
 
 XXV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y los tratados internacionales de los que el Estado mexicano forma parte;
 
-> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-XXVI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo del Sistema Estatal DIF, a través (sic) Procuraduría de Protección de Niñas, Niños y Adolescentes conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXVI. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos que de manera oficiosa, quedará a cargo de la procuraduría de protección competente, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
 > <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
 XXVII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad, tutela, o custodia legal de conformidad con lo dispuesto en esta Ley y el Código Civil para el Estado;
 
-XXVIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XXVIII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la procuraduría de protección competente conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Púbico (sic);
 
 XXIX. Sistema Estatal DIF: El Sistema para el Desarrollo Integral de la Familia del Estado de Baja California Sur;
 
@@ -201,9 +211,11 @@ XXXIV. Sistema Nacional de Protección Integral: El Sistema Nacional de Protecci
 
 XXXV. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 8o.
 
-Son niñas y niños, las personas menores de doce años de edad, y adolescentes respectivamente, quienes sean mayor de doce años y menor de dieciocho.
+Son niñas y niños, las personas menores de doce años de edad, y adolescentes respectivamente, quienes sean mayores de doce años cumplidos y menor de dieciocho.
 
 Cuando exista duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente, y si se (sic) existe la duda de que se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
@@ -395,29 +407,21 @@ Ante la negativa de la prueba de paternidad o maternidad, la autoridad competent
 
 ### CAPÍTULO QUINTO. Del Derecho a Vivir en Familia
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 20.
 
-Niñas, niños y adolescentes tienen derecho a vivir en familia, deberán crecer bajo la responsabilidad y el cuidado de sus padres y en todo caso en un ambiente de afecto y de seguridad moral y material.
+Niñas, niños y adolescentes tienen derecho a vivir en familia, la falta de recursos no podrá considerarse motivo suficiente para separarlos de sus padres o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
 
-La falta de recursos no podrá considerarse motivo suficiente para separarlos de sus padres o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad. Estas condiciones imputables directas exclusivamente a la pobreza económica y material no constituirán la única justificación para separar a niñas, niños o adolescentes del cuidado de sus padres, sino que deberán considerarse como un indicio de la necesidad de proporcionar a la familia el apoyo apropiado.
+Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del principio del interés superior de la niñez, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo cognoscitivo y grado de madurez.
 
-No serán considerados como supuestos de exposición o estado de abandono los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, siempre y cuando los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
-
-> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
+Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente no serán considerados como supuestos de exposición o estado de abandono, siempre y cuando los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, establecerán políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de su entorno familiar y para que, en su caso, sean atendidos a través de las medidas especiales de protección que dispone el artículo 24.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
-
 ###### Artículo 21.
 
-Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
-
-Salvo circunstancias excepcionales no deberá separarse a niñas y niños menores de siete años de su madre.
-
-Niñas, niños y adolescentes cuyos padres o familiares que estén a su cargo, se encuentren separados, tendrán derecho a convivir o a mantener contacto directo de modo regular con ellos, salvo en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez.
-
-Así mismo, niñas, niños y adolescentes tienen derecho a convivir con sus padres o familiares cuando estos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice de forma adecuada, conforme a las disposiciones jurídicas aplicables. Este derecho solo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
+(DEROGADO, B.O. 11 DE JULIO DE 2024)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -465,9 +469,9 @@ II. Sean recibidos por una familia de acogida como medida de protección, de car
 
 III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, respecto del cual ya se ha declarado la condición de adoptabilidad, con su nuevo entorno y determinar la idoneidad de la familia para convertirse en familia adoptiva;
 
-> <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-IV. En el Sistema Estatal DIF, así como los Sistemas DIF Municipales, en el ámbito de sus respectivas competencias, deberán registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, o
+IV. El Sistema Estatal DIF, en el ámbito de su competencia, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, por su parte los Sistemas Municipales DIF solo deberán registrarlas y capacitarlas, en ambos casos considerando los requisitos señalados para el acogimiento pre-adoptivo, o
 
 > <small>(REFORMADA, B.O. 15 DE AGOSTO DE 2018)</small>
 
@@ -489,27 +493,27 @@ A fin de garantizar una debida protección y restitución de derechos de niñas,
 
 La Procuraduría de Protección y sus similares municipales sin excepciones, serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento y, en su caso, la adopción.
 
-> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
-Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante dos años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
+Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social y psicología donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 25.
 
-Las personas interesadas en acoger o adoptar niñas, niños y adolescentes que se encuentren bajo la tutela de la Procuraduría de Protección o sus similares municipales, deberán presentar ante la Procuraduría de Protección la solicitud correspondiente.
+Las personas interesadas en acoger o adoptar niñas, niños y adolescentes que se encuentren bajo la tutela del Estado, podrán presentar ante la Procuraduría de Protección o sus similares municipales, la solicitud correspondiente.
 
-> <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
-La Procuraduría de Protección, en el ámbito de su competencia, realizará la valoración psicológica, médica, socioeconómica y solicitará todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por las leyes y reglamentos aplicables. Precisando que el nivel económico no será un factor que imposibilite el trámite. Los centros de salud del sector público que formen parte del sistema estatal de salud, quedan obligados a auxiliar a dicha Procuraduría con la práctica de las pruebas médicas que establezca el reglamento respectivo.
+La Procuraduría de Protección y sus similares municipales en el ámbito de su competencia, realizará la valoración psicológica, médica, socioeconómica y solicitará todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por las leyes y reglamentos aplicables. Precisando que el nivel económico no será un factor que imposibilite el trámite. Los centros de salud del sector público que formen parte del sistema estatal de salud, quedan obligados a auxiliar a dichas procuradurías con la práctica de las pruebas médicas que establezca el reglamento respectivo.
 
 > <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
 
 La asignación de niñas, niños o adolescentes sólo podrá otorgarse a las y los solicitantes que cuenten con certificado de idoneidad expedido por la Procuraduría de Protección, avalado por el CESADYFA. Para tal efecto se observará lo siguiente:
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente; y en caso de que se estime pertinente, tomando en cuenta la particularidad del caso.
+I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo cognoscitivo y grado de madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente y en caso de que se estime pertinente, tomando en cuenta la particularidad del caso;
 
 > <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
 
@@ -523,23 +527,21 @@ III. Se tomará en consideración el grado de parentesco, siempre y cuando exist
 
 IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 26.
 
-Una vez autorizada la asignación de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, la Procuraduría de Protección, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con la finalidad de prevenir o superar las dificultades que se puedan presentar.
+Una vez autorizada por el CESADYFA la asignación de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, la Procuraduría de Protección o sus similares municipales, según corresponda, deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con la finalidad de prevenir o superar las dificultades que se puedan presentar.
 
-> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
+Si no se lograran consolidar las condiciones de adaptación de niñas, niños y adolescentes con la familia de acogida pre-adoptiva, la Procuraduría de Protección o sus similares municipales, iniciará el procedimiento correspondiente para reincorporarlos al Sistema DIF que corresponda y de ser necesario, realizar una nueva asignación con el aval del CESADYFA y debiendo informar al órgano jurisdiccional que conozca del asunto para su formalización.
 
-Si no se lograran consolidar las condiciones de adaptación de niñas, niños y adolescentes con la familia de acogida pre-adoptiva, la Procuraduría de Protección iniciará el procedimiento correspondiente para reincorporarlos al Sistema DIF que corresponda y de ser necesario, realizar una nueva asignación con el aval del CESADYFA y debiendo informar al órgano jurisdiccional que conozca del asunto para su formalización.
+Corresponde al CESADYFA revocar la asignación y ejercer las facultades que le otorgan la presente ley y demás disposiciones aplicables, cuando se violenten los derechos de niñas, niños y adolescentes que hayan sido asignados, debiendo informar inmediatamente, por conducto de la Procuraduría de Protección y sus similares municipales en el ámbito de sus respectivas competencias, al órgano jurisdiccional al que se haya solicitado la medida correspondiente.
 
-> <small>(REFORMADO, B.O. 20 DE ENERO DE 2020)</small>
-
-Corresponde al CESADYFA revocar la asignación y ejercer las facultades que le otorgan la presente ley y demás disposiciones aplicables, cuando se violenten los derechos de niñas, niños y adolescentes que hayan sido asignados, debiendo informar inmediatamente al órgano jurisdiccional al que se haya solicitado la medida correspondiente.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 27.
 
-Corresponde a la Procuraduría de Protección, así como a las Procuradurías Municipales, en el ámbito de sus respectivas competencias:
+Corresponde a la Procuraduría de Protección y sus similares municipales, en el ámbito de sus respectivas competencias:
 
 > <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
 
@@ -589,17 +591,17 @@ VII. Establecer medidas de protección a fin de evitar presiones indebidas y coa
 
 VIII. Garantizar que los procedimientos de adopción se lleven de conformidad con esta ley.
 
-> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 29 Bis.
 
-Toda persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá presentarlo ante el agente del ministerio público; con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado, dentro de la carpeta de investigación que aperture por la posible comisión del delito que origino la situación de expósito o abandono de la niña, niño o adolescente.
+Toda persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá dar aviso a la autoridad en materia de seguridad pública y al Sistema Estatal DIF o los Sistemas Municipales DIF y acompañar a la persona menor de edad, hasta dejarla bajo su custodia, con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado.
 
-El ministerio público, deberá dar aviso inmediato a la Procuraduría de Protección o sus similares en los municipios, para que lleven a cabo el proceso de restitución de derechos y pueda establecerse la calidad de expósito o abandonado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
-A fin de garantizar el debido proceso, la representación social, deberá informar a la Procuraduría de Protección del Estado o las Procuradurías municipales, según sea el caso, en un plazo no mayor a treinta días naturales, de los hallazgos encontrados que deriven de la búsqueda y localización de alertas, denuncias o cualquier reporte relacionado con la niña, niño y/o adolescente a fin de restablecer su identidad.
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
-La Procuraduría de Protección en su calidad de representante en suplencia, y a falta de quienes ejercen la patria potestad o guarda y custodia, solicitará de inmediato el registro de nacimiento de niñas, niños y adolescentes al Oficial de Registro Civil con la documentación que posea e informando por escrito de las condiciones en las que se actúa, quien a su vez estar (sic) obligado a realizarlo en aras de proteger y restituir los derechos de la niñez.
+> <small>(DEROGADO CUARTO PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 > <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
 
@@ -641,9 +643,17 @@ VIII. El matrimonio entre la persona adoptante y adoptada o sus descendientes, a
 
 IX. Ser adoptada o adoptado por más de una persona, salvo en caso de que quienes adoptan sean cónyuges o concubinos, en cuyo caso se requerirá el consentimiento de ambos;
 
-X. La adopción por discriminación, entendida como aquella donde se considera al niño como valor supletorio o reivindicatorio, y
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-XI. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y su adecuado desarrollo evolutivo.
+X. La adopción por discriminación, entendida como aquella donde se considera al niño como valor supletorio o reivindicatorio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2024)</small>
+
+XI. Que en los casos de adopción, el consentimiento de la madre sea otorgado dentro de los diez días posteriores el (sic) alumbramiento, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE JULIO DE 2024)</small>
+
+XII. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y su adecuado desarrollo evolutivo.
 
 Las autoridades vigilarán el desarrollo del proceso de adaptación a través del seguimiento que realice la Procuraduría de Protección y sus similares en los Municipios, mediante los reportes subsecuentes, respetando el derecho de la familia a vivir conforme a sus estándares, costumbres y valores.
 
@@ -689,11 +699,13 @@ Una vez reunidos los requisitos de conformidad con esta ley y su reglamento e in
 
 La Procuraduría de Protección en coordinación con sus similares municipales, en el ámbito de sus respectivas competencias, crearán los mecanismos necesarios para que quienes deseen adoptar cuenten con un procedimiento único, que permita que el trámite de adopción sea rápido, eficaz y transparente.
 
-> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 29 Bis 11.
 
-En su ámbito de competencia, la Procuraduría Protección y sus similares municipales en coordinación con el Tribunal Superior de Justicia del Estado, dispondrán lo necesario a efecto de homologar los requisitos y procedimientos administrativos de adopción en el Estado.
+En su ámbito de competencia, el Sistema Estatal DIF, en coordinación con la Procuraduría de Protección, dispondrá lo necesario a efecto de homologar los requisitos y procedimientos administrativos de adopción a nivel estatal y municipal. Lo anterior sin contravenir lo establecido por el Sistema Nacional DIF.
+
+> <small>(ADICIONADO, B.O. 20 DE ENERO DE 2020)</small>
 
 En ningún caso se solicitará certificado médico de infertilidad como requisito para adoptar.
 
@@ -730,6 +742,18 @@ Tratándose de adopción internacional, se estará a lo dispuesto por la Ley Gen
 ###### Artículo 31.
 
 (DEROGADO, B.O. 13 DE JULIO DE 2018)
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 31 Bis.
+
+El Sistema Estatal DIF expedirá las autorizaciones y deberá llevar un registro de las mismas, a las personas que ejerzan profesiones en el trabajo social y psicología o carreras afines de las instituciones públicas y privadas que realicen estudios socioeconómicos, psicológicos e informes psicosociales en materia de adopción, siempre y cuando cumplan con los requisitos que establece el artículo 32 de la Ley General.
+
+El Sistema Estatal DIF revocará la autorización a la que se refiere el párrafo anterior, y registrará la cancelación, en los casos en que las personas que laboren en las instituciones públicas y privadas contravengan los derechos de niñas, niños y adolescentes o incurran en actos contrarios al principio del interés superior de la niñez, siendo inhabilitadas según lo dispuesto en las leyes correspondientes, a fin de evitar adopciones contrarias al principio del interés superior de la niñez. Lo anterior, sin perjuicio de las sanciones previstas en las disposiciones jurídicas aplicables.
+
+Cualquier persona podrá presentar una queja ante los Sistemas DIF.
+
+Para la revocación de las autorizaciones e inhabilitación a que se refiere este artículo, se estará a las disposiciones de la Ley de Procedimiento Administrativo para el Estado y Municipios del Estado de Baja California Sur.
 
 ###### Artículo 32.
 
@@ -769,29 +793,43 @@ VI. Establecer los mecanismos institucionales que orienten su actuar hacia el cu
 
 ### CAPÍTULO SÉPTIMO. Del Derecho a No ser Discriminado
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 35.
 
-Niñas, niños y adolescentes tienen derecho a no ser discriminados, por lo que no deberá hacerse distinción, exclusión o restricción alguna de sus derechos, en razón de su raza o de su origen étnico, nacionalidad, idioma, sexo, religión, opiniones, condición socioeconómica, discapacidad, circunstancias de nacimiento, estado de salud o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor, familiares o quienes ejerzan la custodia sobre ellos o a otro miembro de su familia.
+Niñas, niños y adolescentes tienen derecho a no ser sujetos de discriminación alguna ni de limitación o restricción de sus derechos, en razón de su origen étnico, nacional o social, idioma o lengua, edad, género, preferencia sexual, estado civil, religión, opinión, condición económica, circunstancias de nacimiento, discapacidad o estado de salud o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda o custodia, o a otros miembros de su familia.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán:
 
-I. Llevar a cabo acciones especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, cualquier forma de trabajo infantil o cualquiera otra condición de marginalidad;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
+I. Llevar a cabo acciones especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, afrodescendientes, peores formas de trabajo infantil o cualquiera otra condición de marginalidad;
 
-II. Adoptar medidas y realizar acciones afirmativas en beneficio de niñas, niños y adolescentes para lograr una igualdad sustantiva, de oportunidades y el derecho a la no discriminación.
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-III. Promover e impulsar un desarrollo integral de igualdad entre niñas, niños y adolescentes, erradicando usos, costumbres o prácticas culturales que promuevan cualquier tipo de discriminación de niñas, niños y adolescentes, atendiendo a los principios rectores de esta Ley, y
+II. Adoptar medidas a fin de realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad sustantiva, de oportunidades y el derecho a la no discriminación;
+
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+III. Adoptar medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación, atendiendo al principio del interés superior de la niñez, y
 
 IV. Impulsar políticas públicas encaminadas al fortalecimiento familiar, a fin de que todas las niñas, los niños y los adolescentes logren un desarrollo integral y accedan a las mismas oportunidades a lo largo de su vida.
 
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Serán factor de análisis prioritario las diferencias de género como causa de vulnerabilidad y discriminación en contra de las niñas y las adolescentes.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 36.
 
-Las instancias públicas del Estado de Baja California Sur, así como los organismos constitucionales autónomos estatales deberán reportar semestralmente al Consejo Estatal para Prevenir y Eliminar la Discriminación, las medidas de nivelación, inclusión o las acciones afirmativas que adopten, para su registro y monitoreo.
+Las instancias públicas del Estado de Baja California Sur, así como los organismos constitucionales autónomos estatales deberán reportar semestralmente al Consejo Estatal para Prevenir y Eliminar la Discriminación, las medidas de nivelación, medidas de inclusión y acciones afirmativas que adopten, para su registro y monitoreo.
 
-Los reportes deberán contener la información seccionada por edad, sexo, escolaridad y municipio.
+Los reportes deberán contener la información seccionada por edad, sexo, escolaridad, municipio y tipos de discriminación.
 
 ### CAPÍTULO OCTAVO. Del Derecho a Vivir en Condiciones de Bienestar y a un Sano Desarrollo Integral
 
@@ -846,6 +884,10 @@ Las autoridades estatales y municipales están obligadas a implementar medidas e
 > <small>(ADICIONADO, B.O. 20 DE JUNIO DE 2024)</small>
 
 Los miembros de las instituciones policiales en el ámbito de sus respectivas competencias están obligados (sic) adoptar de forma inmediata las medidas de apoyo y protección a niñas, niños y adolescentes, cuando se percaten que estos están desarrollando en la vía pública cualquier forma manifiesta y notoria de trabajo infantil.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Para efectos de la fracción I de este artículo, se considerará como descuido los casos en que, por acción u omisión, contravengan lo dispuesto por el principio del interés superior de la niñez, consagrado en el artículo 4o de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 41.
 
@@ -1281,17 +1323,23 @@ XI. Implementar medidas para garantizar el resguardo de la intimidad y datos per
 
 Las autoridades estatales, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito, estén exentos de responsabilidad penal y garantizarán que no serán detenidos, retenidos, ni privados de su libertad, ni sujetos a procedimiento alguno, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia.
 
-> <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
-En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección, a fin de solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos.
+En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección y sus similares municipales, a fin de solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos.
 
 > <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
 
 Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
 
-> <small>(REFORMADO, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
-En el caso en que un adolescente se encuentre en el contexto de la comisión de un delito, se notificará de inmediato, a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección, para llevar a cabo el procedimiento de conformidad con la Ley Nacional del Sistema Integral de Justicia para Adolescentes.
+En el caso en que un adolescente se encuentre en el contexto de la comisión de un delito, se notificará de inmediato, a quienes ejerzan la patria potestad, tutela o guarda o custodia, así como a la Procuraduría de Protección y sus similares municipales, para llevar a cabo el procedimiento de conformidad con la Ley Nacional del Sistema Integral de Justicia para Adolescentes.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 71 Bis.
+
+En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de que una niña, niño o adolescente sea víctima de un hecho que la ley señale como delito cometido por persona menor de edad, de manera inmediata dará aviso a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección y a la Dirección de Atención a Víctimas del Delito de la Procuraduría General de Justicia del Estado, a fin de que implementen las medidas necesarias para la protección integral de sus derechos.
 
 ###### Artículo 72.
 
@@ -1387,7 +1435,9 @@ IV. Ser la autoridad y principal responsable respecto del desarrollo integral de
 
 V. Fijar las normas que guíen el proceso formativo y positivo para el desarrollo integral de niñas, niños o adolescentes;
 
-VI. Dirigir el proceso educativo de niñas, niños y adolescentes de acuerdo a sus propias convicciones morales y religiosas, y mantener comunicación de forma oportuna;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+VI. Dirigir el proceso formativo de niñas, niños y adolescentes de acuerdo a sus propias convicciones éticas, y mantener comunicación de forma oportuna;
 
 VII. Proteger la salvaguarda del interés superior de la niña, niño o adolescente bajo su cuidado;
 
@@ -1401,7 +1451,9 @@ XI. Recibir oportunamente una explicación completa y detallada sobre las garant
 
 XII. Representar a niñas, niños o adolescentes bajo su cuidado en la medida que favorezca su interés superior. Las autoridades proveerán todas las medidas legales y administrativas necesarias para el ejercicio de este derecho;
 
-XIII. Participar activamente en reuniones cuya finalidad sea favorecer el interés superior de niñas, niños o adolescentes bajo su cuidado;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XIII. Participar activamente a través de mecanismos prestablecidos en las leyes, en reuniones cuya finalidad sea favorecer el interés superior de niñas, niños o adolescentes bajo su cuidado;
 
 XIV. Hacer uso de los recursos legales ante la autoridad competente en todos los asuntos concernientes a niñas, niños o adolescentes, en la medida que se salvaguarde su interés superior;
 
@@ -1483,13 +1535,15 @@ El Ministerio Público tendrá la intervención que las leyes dispongan en los p
 
 No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 88.
 
-A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección.
+A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el principio del interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección y sus similares municipales, según corresponda.
 
-Para tal efecto, dicha instancia ejercerá la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones jurídicas aplicables.
+Las autoridades estatales y municipales garantizarán que en cualquier procedimiento jurisdiccional o administrativo se dé intervención a la Procuraduría de Protección y sus similares municipales según corresponda, para que ejerza la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones jurídicas aplicables.
 
-Cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección ejerza la representación en suplencia.
+Cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección y sus similares municipales según corresponda, ejerza la representación en suplencia.
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -1629,9 +1683,11 @@ Corresponde a las autoridades estatales y municipales, en el ámbito de sus atri
 
 (DEROGADO, B.O. 13 DE JULIO DE 2018)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 101.
 
-De manera concurrente, corresponde a las autoridades estatales y municipales, el ejercicio de las atribuciones que les otorgue la presente Ley. Asimismo, podrán disponer de lo necesario para que cumplan con las siguientes acciones:
+De manera concurrente, corresponde a las autoridades estatales y municipales, las atribuciones siguientes:
 
 I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
 
@@ -1701,57 +1757,41 @@ XXX. Garantizar la formación integral en materia de Protección Civil de las ni
 
 ###### Artículo 102.
 
+(DEROGADO, B.O. 11 DE JULIO DE 2024)
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 102 Bis.
+
 Corresponden a las autoridades estatales en el ámbito de sus competencias, las atribuciones siguientes:
 
-I. Garantizar en el ámbito de su competencia, el cabal cumplimiento de la presente Ley, la Ley General y de los tratados internacionales aplicables, en la medida que favorezcan la protección del interés superior de la niñez;
+I. Instrumentar y articular sus políticas públicas tomando en consideración el Programa Nacional para la adecuada garantía y protección de los derechos de niñas, niños y adolescentes;
 
-II. Aplicar y colaborar con el Programa Nacional previsto en la Ley General;
+II. Elaborar el Programa local y participar en el diseño del Programa Nacional;
 
-III. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Nacional de Protección Integral y del Programa Nacional;
+III. Fortalecer las existentes e impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes;
 
-IV. Revisar y valorar la eficacia de las acciones, políticas públicas, programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
+IV. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes;
 
-V. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas en la materia, en la medida que favorezca la protección del interés superior de la niñez;
+V. Impulsar programas locales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad;
 
-VI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno;
+VI. Difundir por todos los medios de comunicación el contenido de esta Ley;
 
-VII. Imponer las sanciones por las infracciones, de acuerdo a lo dispuesto por la presente Ley;
+VII. Elaborar y aplicar los programas locales a que se refiere esta Ley, así como rendir ante el Sistema Nacional de Protección Integral un informe anual sobre los avances;
 
-VIII. Revocar temporal o definitivamente, a través de la Procuraduría de Protección, la autorización para operar los Centros de Asistencia, por el incumplimiento de las obligaciones y requisitos previstos en esta Ley y en la Ley General;
+VIII. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
 
-IX. Verificar, por conducto del Instituto Nacional de Migración, la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio nacional, conforme a las disposiciones jurídicas aplicables;
+IX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales;
 
-X. Determinar, por conducto del Instituto Nacional de Migración, la condición migratoria de niñas, niños y adolescentes migrantes;
+X. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia;
 
-XI. Instrumentar y articular sus políticas públicas tomando en consideración el Programa Nacional para la adecuada garantía y protección de los derechos de niñas, niños y adolescentes;
+XI. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el sistema nacional de información, la información necesaria para la elaboración de éstas;
 
-XII. Elaborar el Programa Estatal y participar en el diseño del Programa Nacional;
+XII. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
 
-XIII. Fortalecer las políticas existentes e impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes, en la medida que armonicen con los principios y disposiciones de la presente Ley;
+XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley, y
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
-
-XIV. Promover, en coordinación con los Gobiernos Federal y Municipales, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes;
-
-XV. Impulsar programas locales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad;
-
-XVI. Difundir por todos los medios de comunicación el contenido de esta Ley;
-
-XVII. Elaborar y aplicar el Programa Estatal a que se refiere esta Ley, así como rendir ante el Sistema Nacional de Protección Integral un informe anual sobre los avances;
-
-XVIII. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
-
-XIX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales, en la medida que favorezca la salvaguarda del interés superior de la niñez;
-
-XX. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia, en la medida que favorezca la salvaguarda del interés superior de la niñez;
-
-XXI. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el Sistema Nacional de Información, los datos necesarios para la elaboración de éstas;
-
-XXII. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
-
-XXIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley, y
-
-XXIV. Cualquier otra prevista en las disposiciones jurídicas aplicables para el cumplimiento de esta Ley.
+XIV. Cualquier otra prevista para el cumplimiento de esta Ley.
 
 ###### Artículo 103.
 
@@ -1765,13 +1805,13 @@ III. Promover la libre manifestación de ideas de niñas, niños y adolescentes 
 
 IV. Atender a niñas, niños y adolescentes que deseen manifestar inquietudes, de acuerdo a lo prescrito en la presente Ley;
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-V. Recibir quejas y denuncias por violaciones a los derechos reconocidos en la presente Ley, la Ley General y demás disposiciones jurídicas aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección de Niñas, Niños y Adolescentes, sin perjuicio que ésta pueda recibirla directamente;
+V. Recibir quejas y denuncias por violaciones a los derechos reconocidos en la presente Ley, la Ley General y demás disposiciones jurídicas aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección Municipal que corresponda, sin perjuicio que ésta pueda recibirla directamente;
 
-> <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-VI. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus respectivas atribuciones;
+VI. Auxiliar a la Procuraduría de Protección y sus similares municipales en las medidas urgentes de protección que éstas determinen, y coordinar las acciones que correspondan en el ámbito de sus respectivas atribuciones;
 
 VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
 
@@ -1795,11 +1835,15 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
 
-### CAPITULO TERCERO. Del Sistema Estatal DIF
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE JULIO DE 2024)</small>
+
+### CAPITULO TERCERO. Del Sistema Estatal y Municipal DIF
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 104.
 
-Sin perjuicio de las atribuciones que correspondan a las demás disposiciones jurídicas aplicables en la materia, es responsabilidad del Sistema Estatal DIF:
+Sin perjuicio de las atribuciones que correspondan a las demás disposiciones jurídicas aplicables en la materia, es responsabilidad del Sistema Estatal y los Municipales DIF:
 
 > <small>(REFORMADA, B.O. 13 DE JULIO DE 2018)</small>
 
@@ -1811,7 +1855,9 @@ II. Proteger y apoyar el desarrollo de la familia y la comunidad, resaltando una
 
 III. Impulsar la cooperación y coordinación interinstitucional de los tres órdenes de gobierno competentes en la materia, para la protección y restitución en el goce y ejercicio de derechos de niñas, niños y adolescentes;
 
-IV. Prestar servicios de asistencia social y, en su caso, suscribir convenios de colaboración con los Sistemas Municipales DIF, organizaciones de la sociedad civil e instituciones públicas y privadas tendientes a salvaguardar el principio del interés superior de la niñez;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+IV. Prestar servicios de asistencia social y, en su caso, suscribir convenios de colaboración con organizaciones de la sociedad civil e instituciones públicas y privadas tendientes a salvaguardar el principio del interés superior de la niñez;
 
 V. Operar y monitorear toda clase de acciones, programas, políticas y establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes, especialmente en aquellos que tienen algún tipo de discapacidad;
 
@@ -1823,7 +1869,9 @@ VII. Prestar apoyo y colaboración técnica y administrativa al Estado y a los M
 
 VIII. Todas aquellas que establezcan otras disposiciones en la materia, con relación a la protección de niñas, niños y adolescentes.
 
-### CAPÍTULO CUARTO. De la Procuraduría de Protección
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 11 DE JULIO DE 2024)</small>
+
+### CAPÍTULO CUARTO. De las Procuradurías de Protección
 
 ###### Artículo 105.
 
@@ -1835,9 +1883,13 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, es 
 
 La Procuraduría de Protección tendrá legitimación procesal para ejercer ante la autoridad judicial competente acciones para proteger los derechos de niñas, niños y adolescentes en los términos prescritos en la presente Ley y demás disposiciones aplicables.
 
-La Procuraduría de Protección de Niñas, Niños y Adolescentes actuará de manera directa por conducto de su titulare (sic) en el Estado y de los Municipios o a través de sus asesores jurídicos que se les designe como delegados para representar a la Institución, cuya acreditación se realizará mediante simple oficio suscrito por el o la titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes.
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
-Para los casos en los que intervenga la Procuraduría de la Defensa del Menor y de la Familia de alguno de los Municipios, deberán de forma bimestral enviar un informe a la Procuraduría de Protección de Niñas, Niños y Adolescentes, el cual deberá contener los datos de los juicios desahogados y pendientes, a fin de llevar un Registro Estatal.
+La Procuraduría de Protección actuará de manera directa por conducto de su titular en el Estado o a través de sus asesores jurídicos que se les designe como delegados para representar a la Institución, cuya acreditación se realizará mediante oficio simple suscrito por quien sea titular de la procuraduría de protección que corresponda.
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Para los casos en los que intervenga alguna de las Procuradurías de Protección Municipales, deberán de enviar un informe bimestral a la Procuraduría de Protección, el cual deberá contener los datos de los juicios desahogados y pendientes, a fin de llevar un Registro Estatal.
 
 ###### Artículo 107.
 
@@ -1863,7 +1915,9 @@ b) Seguimiento a las actividades académicas, entorno social y cultural y;
 
 c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
 
-II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables;
 
 III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
 
@@ -1919,7 +1973,19 @@ XVI. Supervisar la ejecución de las medidas especiales de protección de niñas
 
 XVII. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, y
 
-XVIII. Las demás que le confiera esta Ley y otras disposiciones aplicables en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2024)</small>
+
+XVIII. Solicitar a las Procuradurías de Protección Municipales su colaboración para la adecuada defensa de los derechos de niñas, niños y adolescentes del municipio que corresponda, así como solicitar informes que requiera para tal fin y para las estadísticas que se generen de sus actividades.
+
+En el supuesto de que alguna de las Procuradurías de Protección Municipales se negare a brindar la atención, rendir los informes solicitados o ejercitar alguna de sus facultades, la Procuraduría de Protección hará de conocimiento del superior jerárquico;
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+XIX. Solicitar informe justificado a las Procuradurías de Protección Municipales, en los casos que esta lo estime conveniente para salvaguardar el principio del interés superior de la niñez, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE JULIO DE 2024)</small>
+
+XX. Las demás que le confiera esta Ley y otras disposiciones aplicables en la materia.
 
 ###### Artículo 110.
 
@@ -1977,11 +2043,13 @@ VIII. No ser declarada persona deudora alimentaria morosa.
 
 El nombramiento de la persona titular de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes será realizado por la Junta de Gobierno del Sistema Estatal DIF, a propuesta de su Titular, previo el cumplimiento de los requisitos del artículo anterior.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 111.
 
-La tutela pública será la ejercida por el Sistema Estatal DIF, por conducto de la Procuraduría de Protección, sobre niñas, niños y adolescentes expósitos o abandonados, hasta en tanto no se resuelva su situación jurídica por la autoridad jurisdiccional competente.
+Sobre niñas, niños y adolescentes expósitos, abandonados o resguardados por medida de protección, hasta en tanto no se resuelva su situación jurídica por la autoridad jurisdiccional competente, la tutela pública será la ejercida por el Sistema Estatal DIF, por conducto de quien sea Titular de los Centros de Asistencia Social donde se encuentre.
 
-El ejercicio de la tutela quedará sujeto, en cuanto a la guarda, educación y protección de niñas, niños y adolescentes, a las modalidades que le impriman las resoluciones que se dicten de acuerdo con la presente Ley y el Código Civil del Estado.
+El ejercicio de la tutela quedará sujeto, en cuanto a la guarda, educación y protección de niñas, niños y adolescentes, a las modalidades que le impriman las resoluciones que se dicten de acuerdo con la presente Ley, el Código Civil del Estado y las disposiciones reglamentarias aplicables.
 
 ###### Artículo 112.
 
@@ -1995,6 +2063,12 @@ I.- Para cumplir con las disposiciones del Código Civil del Estado, y
 
 II.- Cuando sea solicitada vía oficio por las diversas autoridades administrativas competentes en el tema de adopciones, con el único fin de llevar a cabo su registro, control y estadística.
 
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 112 Bis.
+
+La Procuraduría de Protección, en el ámbito de sus competencias, podrá atraer los procedimientos administrativos de los casos que considere que revisten interés y trascendencia, iniciados en las Procuradurías de Protección Municipales, a efecto de ejercer la representación coadyuvante o en suplencia, para salvaguardar el principio del interés superior de la niñez y la restitución integral de sus derechos.
+
 ### CAPÍTULO QUINTO. De la Comisión Estatal de Derechos Humanos de Baja California Sur
 
 ###### Artículo 113.
@@ -2007,13 +2081,179 @@ La Comisión Estatal de los Derechos Humanos en Baja California Sur, deberá est
 
 La Comisión Estatal de los Derechos Humanos y los Organismos de Protección de los Derechos Humanos en la entidad, en el ámbito de sus competencias, deberán establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### CAPÍTULO PRIMERO. Sistema Estatal de Protección
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 11 DE JULIO DE 2024)</small>
+
+### CAPÍTULO SEXTO. La Procuraduría de Protección Municipal
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 113 Bis 1.
+
+La Procuraduría de Protección, es el órgano especializado del Sistema Municipal DIF, dotado de autonomía técnica y operativa, con funciones de autoridad administrativa, que tiene por objeto la protección integral de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 113 Bis 2.
+
+La Procuraduría de Protección Municipal tendrá legitimación procesal para ejercer ante la autoridad judicial competente acciones para proteger los derechos de niñas, niños y adolescentes en los términos prescritos en la presente Ley y demás disposiciones aplicables.
+
+La Procuraduría de Protección Municipal actuará de manera directa por conducto de su titular en el Municipio que corresponda, o a través de sus asesores jurídicos que se les designe como delegados para representar a la Institución, cuya acreditación se realizará mediante oficio simple suscrito por quien sea titular de la misma.
+
+Para los casos en los que intervenga la Procuraduría de Protección de alguno de los Municipios, deberán de enviar un informe bimestral a la Procuraduría de Protección, el cual deberá contener los datos de los juicios desahogados y pendientes, a fin de llevar un Registro Estatal.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 113 Bis 3.
+
+En el ejercicio de sus funciones, la Procuraduría de Protección Municipal podrá solicitar el auxilio de autoridades de los tres órdenes de gobierno, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 113 Bis 4.
+
+Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección Municipal deberá establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 113 Bis 5.
+
+La Procuraduría de Protección Municipal tendrá las atribuciones que le señale su propia normatividad, además de las siguientes:
+
+I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Federal, la Constitución Política del Estado, los tratados internacionales, esta Ley y demás disposiciones aplicables.
+
+Dicha protección integral deberá abarcar, por lo menos:
+
+a) Atención médica y psicológica, de manera preventiva, oportuna e integral;
+
+b) Seguimiento a las actividades académicas, entorno social y cultural, y
+
+c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia.
+
+II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables;
+
+III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
+
+IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme al procedimiento previsto en la ley aplicable. La conciliación no procederá en casos de violencia;
+
+V. Realizar las indagatorias para dar seguimiento a las denuncias recibidas respecto de la vulneración de derechos de niñas, niños y adolescentes;
+
+VI. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y/o adolescentes;
+
+VII. Solicitar al Ministerio Público dé atención inmediata a la imposición de medidas urgentes de protección especial idóneas, cuando exista algún riesgo fundado o peligro inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente;
+
+VIII. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
+
+a) El ingreso de una niña, niño o adolescente a un centro de asistencia social, y
+
+b) La atención médica inmediata por parte de alguna institución del Sistema Nacional de Salud.
+
+Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el Órgano Jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
+
+IX. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al Ministerio Público de atención inmediata y a la autoridad jurisdiccional competente.
+
+Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+Para la imposición de las medidas urgentes de protección, la Procuraduría de Protección o sus similares municipales, podrán solicitar el auxilio de las instituciones policiales competentes.
+
+En caso de incumplimiento de las medidas urgentes de protección, la Procuraduría de Protección o sus similares municipales, podrá solicitar la imposición de las medidas de apremio establecidas en el Código Nacional de Procedimientos Penales;
+
+X. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
+
+XI. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+
+XII. Implementar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes;
+
+XIII. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
+
+XIV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
+
+XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, y
+
+XVI. Las demás que le confiera esta Ley y otras disposiciones aplicables en la materia.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 113 Bis 6.
+
+Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección Municipal, en aras del interés superior de la niñez, deberá seguir el siguiente procedimiento:
+
+I. Detectar o recibir casos de restricción y vulneración de derechos de niñas, niños y adolescentes.
+
+La denuncia se presentará en forma escrita, personal, telefónica o electrónica, proporcionando si fuera posible, la información siguiente:
+
+a) Nombre y domicilio del denunciante;
+
+b) Domicilio o descripción del lugar donde ocurre el hecho que denuncia;
+
+c) Descripción del hecho denunciado, y
+
+d) El nombre y domicilio de la niña, niño o adolescente en estado de vulnerabilidad.
+
+La Procuraduría de Protección Municipales podrá recibir denuncias anónimas, en cuyo caso tendrá la obligación de realizar todas las diligencias necesarias para comprobar la veracidad del hecho.
+
+II. Acercarse a la familia o lugares en donde se encuentren niñas, niños y adolescentes, para diagnosticar la situación de sus derechos cuando exista información sobre posible restricción o vulneración de los mismos;
+
+III. Determinar en cada uno de los casos identificados los derechos que se encuentran restringidos o vulnerados;
+
+IV. Elaborar, bajo el principio del interés superior de la niñez, un diagnóstico sobre la situación de vulneración y un plan de restitución de derechos, que incluya las propuestas de medidas para su protección;
+
+V. Acordar y coordinar con las instituciones que corresponda el cumplimiento del plan de restitución de derechos, y
+
+VI. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de la niña, niño o adolescente se encuentren garantizados.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 113 Bis 7.
+
+Los requisitos para ser titular de la Procuraduría de Protección Municipal, son los siguientes:
+
+I. Ser ciudadana o ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener más de 30 años de edad;
+
+III. Contar con título y cédula profesional de licenciatura en derecho debidamente registrado;
+
+IV. Contar con algún grado de especialización en los Derechos de Niñas, Niños y Adolescentes;
+
+V. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes;
+
+VI. Acreditar las habilidades para el cargo;
+
+VII. No tener sentencia firme por la comisión de delito doloso, así como lo enunciado en la fracción IV del artículo 32 de la Constitución Política del Estado Libre y Soberano de Baja California Sur, y
+
+VIII. No ser declarada persona deudora alimentaria morosa.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 113 Bis 8.
+
+El nombramiento de la persona titular de la Procuraduría de Protección Municipal será realizado por la Junta de Gobierno del Sistema Municipal DIF o la autoridad competente, previo el cumplimiento de los requisitos del artículo anterior.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 113 Bis 9.
+
+La tutela pública será la ejercida por el Sistema Municipal DIF, por conducto de los Titulares de los Centros de Asistencia Social, sobre niñas, niños y adolescentes expósitos o abandonados, hasta en tanto no se resuelva su situación jurídica por la autoridad jurisdiccional competente.
+
+El ejercicio de la tutela quedará sujeto, en cuanto a la guarda, educación y protección de niñas, niños y adolescentes, a las modalidades que le impriman las resoluciones que se dicten de acuerdo con la presente Ley y el Código Civil del Estado.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 113 Bis 10.
+
+La Procuraduría de Protección Municipal llevará acabo el registro de las adopciones que promueva ante los juzgados, con el objeto de conservar la información correspondiente a los orígenes de la niña, niño o adolescente adoptado, incluyendo la identidad de sus progenitores, su historia médica y de su familia.
+
+Además, conservará los datos de identificación del proceso, incluyendo la autoridad jurisdiccional que autorizó la adopción, así como la información correspondiente de los padres adoptivos.
+
+La información obtenida tendrá el carácter de confidencial y sólo será proporcionada en los siguientes supuestos:
+
+I.- Para cumplir con las disposiciones del Código Civil del Estado, y
+
+II.- Cuando sea solicitada vía oficio por las diversas autoridades administrativas competentes en el tema de adopciones, con el único fin de llevar a cabo su registro, control y estadística.
 
 ## TÍTULO SEXTO. DE LOS SISTEMAS Y PROGRAMAS LOCALES DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO SEGUNDO. De los Sistemas Municipales de Protección
-
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
+### CAPÍTULO PRIMERO. Sistema Estatal de Protección
 
 ###### Artículo 114.
 
@@ -2201,7 +2441,9 @@ XX. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protec
 
 XXI. Las demás que les otorguen otras disposiciones aplicables.
 
-### CAPÍTULO TERCERO. Del Programa Estatal y Programas Municipales
+### CAPÍTULO SEGUNDO. De los Sistemas Municipales de Protección
+
+> <small>(REFORMADO, B.O. 10 DE JULIO DE 2022)</small>
 
 ###### Artículo 121.
 
@@ -2233,7 +2475,7 @@ XII.- Las demás que establezcan los ordenamientos locales y aquéllas que deriv
 
 En las disposiciones reglamentarias se deberá determinar la integración de un órgano consultivo de apoyo al Sistema Municipal de Protección de que se trate, para la implementación y aplicación del Programa Municipal, en el cual participen autoridades municipales competentes y representantes de los sectores social y privado.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO TERCERO. Del Programa Estatal y Programas Municipales
 
 ###### Artículo 122.
 
@@ -2249,13 +2491,19 @@ Para la implementación y aplicación de los Programas Estatal y Municipales, lo
 
 ## TÍTULO SÉPTIMO. INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 123.
 
-Por las infracciones cometidas a esta Ley, los servidores públicos incurrirán en responsabilidad administrativa en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur, y demás que resulten aplicables.
+Por las infracciones cometidas a esta Ley, los servidores públicos incurrirán en responsabilidad administrativa en términos de la Ley de Procedimiento Administrativo para el Estado y los Municipios de Baja California Sur, y demás que resulten aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE JULIO DE 2024)</small>
 
 ###### Artículo 124.
 
-Además de las infracciones señaladas en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur, respecto de un servidor público, personal de instituciones de salud, educación, deportiva o cultural, empleado o trabajador de establecimientos sujetos al control, administración o coordinación de aquellas, o de cualquier otra índole de jurisdicción estatal, de acuerdo con sus funciones y responsabilidades y en el ámbito de sus respectivas competencias, se considerará como infracciones a la presente Ley:
+Además de las infracciones señaladas en la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur, respecto de los servidores públicos, de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquellas, o de cualquier otra índole de jurisdicción Estatal o Municipal, de acuerdo con sus funciones, responsabilidades y en el ámbito de sus respectivas competencias, se considerará como infracciones a la presente Ley:
 
 I. Negar injustificadamente el ejercicio de un derecho a la niña, niño o adolescente; así como a la prestación de un servicio al que se encuentra obligado por la presente Ley.
 
@@ -2265,19 +2513,41 @@ III. Cuando en el ejercicio de sus funciones o con motivo de ellas tenga conocim
 
 IV. Propiciar, tolerar o abstenerse de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes.
 
-V. Toda actuación que no cuente con el permiso o autorización respectiva de la autoridad correspondiente, de acuerdo con lo prescrito por la presente Ley y la Ley General.
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
+
+V. Respecto de las infracciones que incurran los concesionarios de radio y televisión, se sujetarán a lo dispuesto en las fracciones III, IV, V, VI y VII del artículo 148 de la Ley General.
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+VI. Respecto de las infracciones en las que incurran los distribuidores, comercializadores y arrendadores de videojuegos, se sujetaran a lo dispuesto en la fracción VII Bis del artículo 148 de la Ley General.
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+VII. Respecto a los profesionales en trabajo social o psicología que intervengan en procedimientos de adopción que no cuenten con la autorización de la Procuraduría de Protección a que se refiere el artículo 31 Bis de esta Ley, en los casos (sic) competencia de dicha procuraduría, y
+
+> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2024)</small>
+
+VIII. Las demás contravenciones a lo dispuesto en esta Ley, competencia del orden local.
 
 ###### Artículo 125.
 
-Los servidores públicos o cualquier otra persona que trasgreda o vulnere los derechos de niñas, niños y adolescentes, se les aplicarán las siguientes medidas:
+(DEROGADO, B.O. 11 DE JULIO DE 2024)
 
-I. Prevención escrita acerca de la violación o puesta en riesgo del derecho de que se trate en el caso particular, con citación para ser informados debidamente sobre los derechos de tales.
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
 
-II. Orden de cese inmediato de la situación que viola o pone en riesgo el derecho en cuestión, cuando se hubiere actuado conforme a la fracción anterior y no comparezca en el plazo conferido para tal efecto, o bien, cuando haya comparecido y continúe la misma situación perjudicial.
+###### Artículo 125 Bis.
 
-En todos los casos, al aplicar las medidas señaladas se tendrá en cuenta las necesidades de los afectados y prevalecerán las que tengan por objeto fortalecer vínculos familiares y comunitarios.
+A quienes incurran en las infracciones previstas en las fracciones I, II, III, IV y VII del artículo 124 de esta Ley, se les impondrá multa de hasta mil quinientos días de salario mínimo general vigente en la entidad al momento de realizarse la conducta sancionada.
 
-Las medidas previstas podrán adoptarse separada o conjuntamente y ser sustituidas en cualquier tiempo.
+A quienes incurran en las infracciones previstas en las fracciones V y VI del artículo 124 de esta Ley, se les aplicará lo establecido en el segundo párrafo del artículo 149 de la Ley General.
+
+En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en este artículo. Se considerará reincidente al que:
+
+a) Habiendo incurrido en una infracción que haya sido sancionada, realice otra violación del mismo precepto de esta Ley;
+
+b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado, y
+
+c) Que entre el inicio del procedimiento y la resolución que haya causado estado no hayan transcurrido más de diez años.
 
 ###### Artículo 126.
 
@@ -2293,9 +2563,11 @@ IV. La condición económica del infractor.
 
 V. La reincidencia del infractor.
 
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
+
 ###### Artículo 127.
 
-Las sanciones previstas en esta Ley se aplicarán de conformidad a lo establecido en la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur, y por las autoridades indicadas en la misma, según sea el caso.
+Las sanciones previstas en esta Ley se aplicarán de conformidad a lo establecido en la Ley de Procedimiento Administrativo para el Estado y los Municipios de Baja California Sur, las demás que resulten aplicables, y por las autoridades indicadas en la misma, según sea el caso.
 
 ###### Artículo 128.
 
@@ -2303,7 +2575,21 @@ Contra las sanciones que las autoridades estatales impongan en cumplimiento de e
 
 ###### Artículo 129.
 
-Será cada institución pública del Estado, la que de acuerdo al ámbito de su competencia y las obligaciones emanadas de la presente Ley determine la gravedad del hecho investigado, la responsabilidad del servidor público y en su caso, la sanción a imponer, de acuerdo al procedimiento administrativo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur. Lo anterior sin perjuicio de las responsabilidades y sanciones conexas que puedan resultar aplicables de acuerdo a la legislación estatal.
+(DEROGADO, B.O. 11 DE JULIO DE 2024)
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+###### Artículo 129 Bis.
+
+Las sanciones previstas en esta Ley se aplicarán por las siguientes autoridades:
+
+I. La dependencia o entidad de la Administración Pública Estatal o Municipal que resulte competente, en los casos de las fracciones I, II, III, IV del artículo 124 de esta Ley;
+
+II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial del Estado; el Poder Legislativo; órganos con autonomía constitucional, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales;
+
+III. La Secretaría de Gobernación, en los supuestos previstos en las fracciones V y VI, del artículo 124 de esta Ley, y
+
+IV. El Sistema Estatal DIF, a través de la Procuraduría de Protección, en los casos de la fracción VII del artículo 124 de esta Ley.
 
 ###### Artículo 130.
 
@@ -2444,3 +2730,17 @@ B.O. 20 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3048 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente decreto entrará en vigor al siguiente (sic) al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Las dependencias y entidades del Poder Ejecutivo del Estado que corresponda, deberán realizar las modificaciones a sus reglamentos respectivos para ajustarlos al presente decreto en un plazo no mayor a los 180 días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO. El Consejo Estatal de Adopciones y Familias de Acogimiento, debe expedir las disposiciones reglamentarias aplicables en un plazo no mayor a los 180 días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO. Se abroga la Ley de la Procuraduría de la Defensa del Menor y la Familia del Estado de Baja California Sur.
+
+QUINTO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
