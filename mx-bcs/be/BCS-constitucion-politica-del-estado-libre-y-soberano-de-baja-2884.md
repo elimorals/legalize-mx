@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2024-05-31"
+last_updated: "2024-07-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -136,6 +136,10 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes respectivas.
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADO, B.O. 11 DE JULIO DE 2024)</small>
+
+Está Constitución y las leyes que de ella emanen, garantizarán el ejercicio de la igualdad sustantiva y la perspectiva de género en todas las políticas públicas de los niveles de gobierno.
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2103,17 +2107,17 @@ I.- El Tribunal Superior de Justicia.
 
 II.- (DEROGADA, B.O. 27 DE JUNIO DE 2014)
 
-> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-III.- Los Jueces de Primera Instancia
+III.- Las y los Jueces de Primera Instancia.
 
-> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-IV.- Los Jueces Menores.
+IV.- Las y los Jueces Menores.
 
-> <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-V.- Los Jueces de Paz.
+V.- Las y los Jueces de Paz.
 
 > <small>(REFORMADA, B.O. 6 DE FEBRERO DE 2002)</small>
 
@@ -2121,29 +2125,33 @@ VI.- Los árbitros.
 
 VII.- (DEROGADA, B.O. 6 DE FEBRERO DE 2002)
 
-> <small>(REFORMADA, B.O. 10 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-VIII.- Los Jueces de Control.
+VIII.- Las y los Jueces de Control.
 
 > <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2013)</small>
 
 IX.- El Tribunal de Juicio Oral.
 
-> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-X.- Los Jueces Especializados en Justicia para Adolescentes
+X.- Las y los Jueces Especializados en Justicia para Adolescentes
 
-> <small>(REFORMADA, B.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-XI.- Los Jueces de Ejecución;
+XI.- Las y los Jueces de Ejecución;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, B.O. 11 DE JULIO DE 2024)</small>
 
-XII.- Los Jueces en materia laboral; y
+XII.- Las y los Jueces en materia laboral;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 27 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE JULIO DE 2024)</small>
 
-XIII.- Los demás funcionarios y auxiliares de la administración de Justicia.
+XIII.- Las y los Jueces Especializados en Violencia contra las Mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE JULIO DE 2024)</small>
+
+XIV.- Los demás funcionarios y auxiliares de la administración de Justicia.
 
 > <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -2307,9 +2315,9 @@ Los Jueces protestarán ante el Consejo de la Judicatura; los demás funcionario
 
 Las Magistradas y Magistrados del Tribunal Superior de Justicia, los Consejeros de la Judicatura y los Jueces percibirán una remuneración adecuada e irrenunciable conforme a la ley, la cual no podrá ser disminuida durante su encargo.
 
-> <small>(REFORMADO, B.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, B.O. 11 DE JULIO DE 2024)</small>
 
-95.- El Tribunal Superior de Justicia funcionará en los términos que determine su Ley Orgánica. Quien presida el Tribunal Superior lo hará por un periodo de dos años. Su elección será alternada entre géneros, durante la primera sesión que se celebre en el mes de abril del año que corresponda. Quien ocupe la presidencia no podrá ser objeto de reelección.
+95.- El Tribunal Superior de Justicia funcionará en los términos que determine la Ley Orgánica del Poder Judicial. Quien presida el Tribunal Superior lo hará por un periodo de tres años. Su elección será alternada entre géneros, y se llevará a cabo en sesión plenaria que deberá celebrarse el último día hábil del periodo que corresponda en el cargo a la o el Presidente en turno. Quien ocupe la presidencia no podrá ser objeto de reelección.
 
 96.- El Estado se dividirá en partidos judiciales que tendrán la delimitación, cabeceras y número de juzgados que determine la ley orgánica respectiva.
 
@@ -4858,3 +4866,25 @@ B.O. 31 DE MAYO DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3051 SE ADICIONA UN PÁRRAFO SEXTO AL ARTÍCULO 7° DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3053 SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, ASÍ COMO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+El Pleno del Consejo de la Judicatura, creará mediante Acuerdo General los Juzgados especializados en violencia familiar contra las mujeres, a que se refieren los artículos 40 y 48 TER de la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
