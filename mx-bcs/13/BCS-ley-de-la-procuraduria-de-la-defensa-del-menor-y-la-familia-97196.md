@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-la-procuraduria-de-la-defensa-del-menor-y-la-familia-971
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-20"
-last_updated: "2016-10-31"
+last_updated: "2024-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE LA PROCURADURIA DE LA DEFENSA DEL MENOR Y LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL DECRETO 3048 DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 11 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA PROCURADURÍA DE LA DEFENSA DEL MENOR Y LA FAMILIA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 20 de diciembre de 2013.
 
@@ -462,3 +464,17 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 11 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3048 SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR, ASÍ COMO DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente decreto entrará en vigor al siguiente (sic) al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Las dependencias y entidades del Poder Ejecutivo del Estado que corresponda (sic), deberán realizar las modificaciones a sus reglamentos respectivos para ajustarlos al presente decreto en un plazo no mayor a los 180 días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+TERCERO. El Consejo Estatal de Adopciones y Familias de Acogimiento, debe expedir las disposiciones reglamentarias aplicables en un plazo no mayor a los 180 días naturales, contados a partir de la entrada en vigor del presente decreto.
+
+CUARTO. Se abroga la Ley de la Procuraduría de la Defensa del Menor y la Familia del Estado de Baja California Sur.
+
+QUINTO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
