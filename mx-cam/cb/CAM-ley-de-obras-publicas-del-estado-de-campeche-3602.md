@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obras-publicas-del-estado-de-campeche-3602"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-31"
-last_updated: "2023-07-27"
+last_updated: "2024-07-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2024.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
 
@@ -104,6 +104,10 @@ II.- La construcción, instalación, conservación, mantenimiento, reparación y
 III.- Todos aquellos de naturaleza análoga.
 
 La incorporación de bienes muebles que deban destinarse a un inmueble, necesarios para la realización de las obras públicas, se regirá por las disposiciones de esta Ley, sin perjuicio de que su adquisición se regule por las disposiciones de la materia.
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2024)</small>
+
+Además de todo lo anterior, se entenderá por obra pública de interés estatal de gran impacto, a toda obra pública que presente relevantes beneficios para las personas que se encuentren en la Entidad o de gran trascendencia para el Estado de Campeche, como puede ser la construcción, funcionamiento, mantenimiento, operación, infraestructura, los espacios, bienes de interés público, ejecución y administración de la infraestructura de transportes, de servicios y polos de desarrollo para el bienestar y equipo, así como toda obra pública derivada de las ya mencionadas y que se encuentren ligadas a las anteriores, la cual puede ser ejecutada por el Estado de Campeche o por la Federación. Toda obra pública de interés estatal de gran impacto gozará de los beneficios y/o excepciones que les otorgue la presente Ley y demás disposiciones del marco jurídico estatal que les sea aplicable. El Poder Ejecutivo del Estado de Campeche en su caso expedirá el Acuerdo correspondiente para declarar toda obra pública de interés estatal de gran impacto, señalando en el mismo los beneficios de la obra, su trascendencia para el Estado y los Municipios, así como el ente o entidad que la ejecute, aún cuando ésta pueda ser del orden Federal.
 
 > <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2017)</small>
 
@@ -282,6 +286,14 @@ VII.- Las demás previsiones que deban tomarse en consideración según la natur
 ###### ARTICULO 14.
 
 En el caso de obras cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total de la obra, como el relativo a los ejercicios de que se trate según las etapas de ejecución que se establezca en la planeación y programación de las mismas.
+
+(NOTA: EL 13 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 284/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 15 DE ENERO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 12 DE JULIO DE 2024)</small>
+
+ARTICULO 14 BIS.- Quedan exceptuadas de obtener licencia de construcción para su ejecución, las obras públicas declaradas de interés estatal de gran impacto a las que hace referencia el artículo 2 de la presente Ley.
 
 ### CAPITULO III. DEL PADRON DE CONTRATISTAS DE OBRA PUBLICA
 
@@ -868,3 +880,19 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los procedimientos administrativos iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes al momento de su inicio.
 
 Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 12 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 365 POR EL QUE “SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 2° Y EL ARTÍCULO 14 BIS A LA LEY DE OBRAS PÚBLICAS DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+(NOTA: EL 13 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 284/2024, DECLARÓ LA INVALIDEZ DEL TRANSITORIO SEGUNDO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 15 DE ENERO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: “CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249), y “CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA.” (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+SEGUNDO.- LOS MUNICIPIOS DEBERÁN MODIFICAR SUS BANDOS, REGLAMENTOS O CUALQUIER OTRO INSTRUMENTO JURÍDICO, PARA ARMONIZARLOS CON LO CONTENIDO EN EL PRESENTE DECRETO, EN UN PLAZO NO MAYOR A SESENTA DÍAS NATURALES, CONTADOS A PARTIR DE LA ENTRADA EN VIGOR DEL MISMO.
+
+ASIMISMO, DEBERÁN TOMAR TODAS LAS MEDIDAS PRESUPUESTALES Y FINANCIERAS CORRESPONDIENTES, PARA LA CORRECTA IMPLEMENTACIÓN DEL DECRETO QUE SE EXPIDE.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias, de igual o menor jerarquía del marco jurídico estatal, que se opongan a lo contenido en el presente decreto.
