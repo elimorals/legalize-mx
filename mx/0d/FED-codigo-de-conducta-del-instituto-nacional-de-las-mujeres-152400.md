@@ -4,7 +4,7 @@ identifier: "FED-codigo-de-conducta-del-instituto-nacional-de-las-mujeres-152400
 country: "mx"
 rank: "codigo"
 publication_date: "2021-11-10"
-last_updated: "2021-11-10"
+last_updated: "2024-07-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152400&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2021-08-25"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO NACIONAL DE LAS MUJERES (INMUJERES)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL AVISO POR EL QUE SE DA A CONOCER LA PÁGINA ELECTRÓNICA EN LA QUE PUEDE SER CONSULTADO POR EL PÚBLICO EN GENERAL EL CÓDIGO DE CONDUCTA DEL INSTITUTO NACIONAL DE LAS MUJERES, PUBLICADO EN EL D.O.F. DE 12 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 AVISO POR EL QUE SE DA A CONOCER LA PÁGINA ELECTRÓNICA EN LA QUE PUEDE SER CONSULTADO POR EL PÚBLICO EN GENERAL EL CÓDIGO DE CONDUCTA DEL INSTITUTO NACIONAL DE LAS MUJERES (INMUJERES)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE JULIO DE 2024 (ABROGADO).
 
 Aviso publicado en el Diario Oficial de la Federación, el miércoles 10 de noviembre de 2021.
 
@@ -970,3 +972,15 @@ _______/_______/_______
 Firma:___________________
 
 Esta Carta Compromiso se suscribirá de manera física por las personas servidoras públicas que desempeñen un empleo, cargo o comisión en el INMUJERES; para el personal se resguardará en su expediente, y para las personas integrantes de los Órganos Auxiliares será resguardada por la persona Secretaria de la Junta de Gobierno. La Carta Compromiso se encuentra disponible para su descarga en la página electrónica http://intranet.inmujeres.gob.mx/
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 12 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO POR EL QUE SE DA A CONOCER LA PÁGINA ELECTRÓNICA EN LA QUE PUEDE SER CONSULTADO POR EL PÚBLICO EN GENERAL EL CÓDIGO DE CONDUCTA DEL INSTITUTO NACIONAL DE LAS MUJERES”.]
+
+PRIMERO.- El Código de Conducta a que se refiere este Aviso entrará en vigor a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Queda abrogado el Código de Conducta del Instituto Nacional de las Mujeres dado a conocer mediante Aviso publicado en el Diario Oficial de la Federación el 10 de noviembre de 2021.
+
+TERCERO.- Queda derogada cualquier otra disposición interna que vaya en contra de lo aquí dispuesto.
