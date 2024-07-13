@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-prevencion-atencion-integral-y-erradicacion-de-las-16097
 country: "mx"
 rank: "ley"
 publication_date: "2022-11-12"
-last_updated: "2022-11-12"
+last_updated: "2024-07-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # LEY DE PREVENCION, ATENCION INTEGRAL Y ERRADICACION DE LAS ADICCIONES EN EL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO No. 29547/LXIII/24 POR EL QUE SE EXPIDE LA LEY DE SALUD MENTAL Y ADICCIONES DEL ESTADO DE JALISCO, SE ABROGAN LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y ERRADICACIÓN DE LAS ADICCIONES EN EL ESTADO DE JALISCO Y LA LEY DE SALUD MENTAL Y EDUCACIÓN EMOCIONAL PARA EL ESTADO DE JALISCO Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 13 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y ERRADICACIÓN DE LAS ADICCIONES EN EL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2024 (ABROGADA).
 
 Ley publicada en la Sección VI del Número 41 del Periódico Oficial del Estado de Jalisco, el sábado 12 de noviembre de 2022.
 
@@ -1260,3 +1262,45 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE JULIO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO PRIMERO DEL “DECRETO No. 29547/LXIII/24 POR EL QUE SE EXPIDE LA LEY DE SALUD MENTAL Y ADICCIONES DEL ESTADO DE JALISCO, SE ABROGAN LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y ERRADICACIÓN DE LAS ADICCIONES EN EL ESTADO DE JALISCO Y LA LEY DE SALUD MENTAL Y EDUCACIÓN EMOCIONAL PARA EL ESTADO DE JALISCO Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]</small>
+
+###### ARTÍCULO PRIMERO
+
+Se abrogan la Ley de Prevención, Atención Integral y Erradicación de las Adicciones en el Estado de Jalisco publicada mediante Decreto 28850/LXIII/22 y la Ley de Salud Mental y Educación Emocional para el Estado de Jalisco publicada mediante Decreto 28849/LXIII/22.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 29547/LXIII/24 POR EL QUE SE EXPIDE LA LEY DE SALUD MENTAL Y ADICCIONES DEL ESTADO DE JALISCO, SE ABROGAN LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y ERRADICACIÓN DE LAS ADICCIONES EN EL ESTADO DE JALISCO Y LA LEY DE SALUD MENTAL Y EDUCACIÓN EMOCIONAL PARA EL ESTADO DE JALISCO Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Artículo Segundo. El Ejecutivo deberá expedir el reglamento de la presente Ley y el Reglamento Interno del Consejo Estatal de Salud Mental y Adicciones, así como realizar las acciones administrativas necesarias para la creación de la Unidad de Investigación, Capacitación y Servicio denominada Instituto Jalisciense de Salud Mental y Adicciones en el Organismo Público Descentralizado Servicios de Salud Jalisco.
+
+Artículo Tercero. Se autoriza a la Secretaría de la Hacienda Pública y a la Secretaría de Administración para realizar las adecuaciones jurídicas, presupuestales y administrativas necesarias para dar cumplimiento al presente Decreto, con efectos retroactivos al 1ero de enero del 2024 de conformidad con el artículo transitorio vigésimo del Decreto 29511/LXIII/23, en el cual se autoriza el Presupuesto de Egresos del Estado de Jalisco del 2024 publicado en el Periódico Oficial del Estado de Jalisco el Jueves 14 de Diciembre de 2023.
+
+Artículo Cuarto. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada, instrumentará las acciones de reingeniería administrativa establecidas en la presente Ley, con efectos retroactivos al 1ero de enero del 2024 de conformidad con el Decreto 29511/LXIII/23, en el cual se autoriza el Presupuesto de Egresos del Estado de Jalisco del 2024, publicado en el Periódico Oficial del Estado de Jalisco el Jueves 14 de diciembre de 2023.
+
+Artículo Quinto. La prestación de los servicios relacionados con el tratamiento de las adicciones será efectuada por el Organismo Público Descentralizado Servicios de Salud Jalisco.
+
+Artículo Sexto. Los asuntos en trámite y concluidos del anterior Consejo Estatal Contra las Adicciones en Jalisco, pasarán al Consejo Estatal de Salud Mental y Adicciones, salvo los relativos a la prestación de los servicios de atención a las adicciones en cuyo caso serán entregados al Organismo Público Descentralizado Servicios de Salud Jalisco.
+
+Artículo Séptimo. El Organismo Público Descentralizado Servicios de Salud Jalisco, integrará a su plantilla los recursos humanos, adscritos al anterior Consejo Estatal contra las Adicciones en Jalisco, que conforme al perfil de puesto y funciones, realicen actividades operativas para la prestación de los servicios de atención a la salud mental y adicciones los cuales se integrarán conforme a las necesidades, estructura, plantilla, profesiograma, código y presupuesto autorizado para tal efecto, respetando su adscripción física, por lo que el Organismo deberá expedir el nombramiento definitivo o de confianza, según corresponda al último contrato vigente en los términos correspondientes de acuerdo al profesiograma y códigos de puesto vigentes en el Organismo, respetando su antigüedad para efectos de los estímulos contemplados en las Condiciones Generales de Trabajo para las plazas de base, aplicables al Organismo Público Descentralizado Servicios de Salud Jalisco, así como su afiliación y esquema de cotizaciones al Instituto de Pensiones del Estado de Jalisco vigente, para todo el personal que se integre, en el entendido de que dicho esquema de seguridad social es un beneficio inherente únicamente al personal transferido y no a la posición en la plantilla.
+
+A partir de la emisión del nombramiento correspondiente por parte del Organismo Público Descentralizado Servicios de Salud Jalisco, le serán aplicables según corresponda al tipo de contratación, las Condiciones Generales de Trabajo o la normativa vigente en el Organismo, por lo que el Organismo deberá realizar las gestiones administrativas y documentales necesarias para integrar al personal que le sea enviado, en el esquema de prestaciones dispuestas en las Condiciones Generales de Trabajo, políticas, normas y lineamientos en materia de administración, remuneración y desarrollo de personal que para tal efecto tenga el Organismo Público Descentralizado Servicios de Salud Jalisco.
+
+Por lo que, en (sic) El sueldo de los servidores públicos, en ningún caso puede ser disminuido, como ninguna de sus prestaciones, en términos del Título II Capitulo IV de la Ley Para los Servidores Públicos del Estado de Jalisco.
+
+Artículo Octavo. Para lo señalado en el artículo 22 de esta ley, respecto a la infraestructura que debe de contar el estado se llevará a cabo de manera progresiva y de conformidad a la disponibilidad presupuestal.
+
+Artículo Noveno. Se instruye a la Secretaría de Administración que realice las acciones necesarias para la transferencia al Organismo Público Descentralizado Servicios de Salud Jalisco de los bienes muebles que se consideren necesarios para la prestación de los servicios de atención a las adicciones.
+
+Artículo Décimo. La Secretaría de Salud, deberá instalar el Consejo de Vocales.
+
+Artículo Décimo Primero. El Poder Ejecutivo, a través de las Secretarías de Salud, de Administración y de la Hacienda Pública del Estado de Jalisco, según corresponda, adoptará las medidas jurídicas, administrativas, financieras, presupuestales y operativas necesarias para que los servicios y funciones del Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos se presten en forma ininterrumpida.
+
+Artículo Décimo Segundo. Las facultades, derechos y obligaciones establecidos a cargo del órgano desconcentrado Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, además de las relaciones laborales, serán asumidas por la unidad de investigación, capacitación y servicio denominada Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos del Organismo Público Descentralizado denominado Servicios de Salud Jalisco.
+
+Artículo Décimo Tercero. Se autoriza al Titular del Ejecutivo para efectuar las modificaciones reglamentarias necesarias, así como realizar las acciones administrativas necesarias para la creación de la Unidad de Investigación, Capacitación y Servicio denominada Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos en el Organismo Público Descentralizado Servicios de Salud Jalisco.
