@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2024-03-09"
+last_updated: "2024-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JULIO DE 2024.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -137,9 +137,9 @@ d) Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Sa
 
 III. Coordinarse con las autoridades ambientales, laborales, de protección civil, de sanidad animal y vegetal, a efecto de cumplir y hacer cumplir, en la esfera de su competencia, el derecho a la protección de la salud.
 
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 2024)</small>
 
-IV. La Secretaría de Salud, a través del Consejo Estatal contra las Adicciones en Jalisco, participara en conjunto con las autoridades penitenciarias y/o judiciales, de acuerdo a su competencia, para la implementación de la Justicia Terapéutica en el Estado.
+IV. La Secretaría de Salud, a través del Consejo Estatal de Salud Mental y Adicciones en Jalisco y el Organismo Público Descentralizado Servicios de Salud Jalisco participaran en conjunto con las autoridades penitenciarias y/o judiciales, de acuerdo con su competencia, para la implementación de acciones para personas en conflicto con la Ley.
 
 2. Se determinan como áreas de coordinación prioritarias las relativas a:
 
@@ -865,7 +865,9 @@ Cuidados Paliativos. Autoridades
 
 1. La Secretaría de Salud, a través del Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, y demás autoridades en el Estado en materia de salud, será la responsable de evitar, suprimir o paliar el dolor innecesario y evitable a los enfermos en el Estado, así como de elaborar y desarrollar programas de capacitación y actualización de los recursos humanos para la salud en materia de prevención y control del dolor y medicina paliativa.
 
-2. El Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, cómo órgano administrativamente desconcentrado de la Secretaría de Salud, y presupuestalmente subordinado al organismo público descentralizado Servicios de Salud Jalisco, tendrá las funciones que le sean otorgadas por esta Ley y las demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2024)</small>
+
+2. El Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, cómo unidad de investigación, capacitación y servicio del Organismo Público Descentralizado denominado Servicios de Salud Jalisco, cuenta con autonomía técnica y operativa en el ejercicio de las funciones que le sean otorgadas por esta Ley y las demás disposiciones aplicables.
 
 ###### Artículo 57.
 
@@ -881,11 +883,11 @@ II. Organizar y operar la prestación de los servicios de atención médica espe
 
 III. Mantener en operación las unidades médicas y administrativas con que cuenta el Instituto y las que en el futuro se le integren;
 
-IV. Coadyuvar en el ámbito de su competencia a la coordinación con los organismos de los sectores público, privado y social en materia de alivio del dolor y cuidados paliativos;
+IV. (DEROGADA, P.O. 13 DE JULIO DE 2024)
 
 V. Coadyuvar en la coordinación, en el ámbito de su competencia, del sistema de referencia y contra referencia de usuarios con dolor crónico refractario o de difícil tratamiento;
 
-VI. Fomentar la participación activa de los sectores público, social y privado en la atención y tratamiento de los usuarios que sufren de dolor crónico, refractario o de difícil tratamiento y sus síntomas asociados;
+VI. (DEROGADA, P.O. 13 DE JULIO DE 2024)
 
 VII. Gestionar, en coordinación con las autoridades competentes, el establecimiento de las normas y criterios técnicos sobre el uso de estupefacientes, sedantes e hipnóticos en el tratamiento del dolor;
 
@@ -903,33 +905,11 @@ XIII. Las demás que esta Ley y otras disposiciones jurídicas y administrativas
 
 ###### Artículo 58.
 
-Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos. Integración.
-
-1. El Instituto estará integrado por:
-
-I. Un Director que deberá ser médico con especialidad en oncología, neurología, anestesiología o algología, con entrenamiento en terapéutica del dolor o cuidados paliativos y preferentemente con experiencia en administración hospitalaria;
-
-II. El personal de la salud y administrativo que permita su plantilla de personal y con aquel que le sea transferido o comisionado de conformidad con los convenios de colaboración que celebre; y
-
-III. Un Patronato que gestionará la obtención de recursos y coordinará la participación de la comunidad en la realización de los programas autorizados;
-
-2. El Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos podrá contar con un Consejo Técnico multidisciplinario, integrado por profesionistas, especialistas y personas con experiencia en alivio del dolor y cuidados paliativos, que tendrá la función de asesorar al Director en asuntos de carácter técnico y proponerle la adopción de medidas de carácter general tendientes al mejoramiento operacional del Instituto.
+(DEROGADO, P.O. 13 DE JULIO DE 2024)
 
 ###### Artículo 59.
 
-Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos. Director.
-
-1. El Director del Instituto tendrá las siguientes atribuciones:
-
-I. Representar al Instituto en todos los asuntos propios de su objeto;
-
-II. Dirigir técnica y administrativamente la actividad del Instituto;
-
-III. Ser parte del patronato;
-
-IV. Elaborar y presentar para su aprobación por la autoridad sanitaria, el programa anual de trabajo del Instituto; y
-
-V. Las demás que esta Ley y otras disposiciones jurídicas y administrativas le confieran para el cumplimiento de su objeto.
+(DEROGADO, P.O. 13 DE JULIO DE 2024)
 
 ###### Artículo 60.
 
@@ -1173,7 +1153,9 @@ Directrices Anticipadas. Revocación.
 
 Directrices Anticipadas. Ante la Secretaría de Salud.
 
-1. Cuando el documento de directrices anticipadas se realice ante la Secretaría, deberá hacerse por duplicado. El personal que la reciba deberá depositarla en el Registro y acusará recibo a favor del suscriptor o su representante.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2024)</small>
+
+1. Cuando el documento de directrices anticipadas se realice ante el Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, deberá hacerse por duplicado. El personal de dicho Instituto deberá recibir el documento y remitirlo a la Secretaría para su depósito en el Registro y acusará recibo a favor del suscriptor o su representante.
 
 ###### Artículo 79.
 
@@ -1199,7 +1181,9 @@ Directrices Anticipadas. Disposiciones sólo de Salud.
 
 Directrices Anticipadas. Registro Único Estatal.
 
-1. La Secretaría dispondrá de una unidad administrativa de Registro Único Estatal de Directrices Anticipadas, que se encargará de resguardar los documentos y enviarlos al centro o unidad médica que se los requiera.
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 2024)</small>
+
+1. La Secretaría será la responsable de administrar el Registro Único Estatal de Directrices Anticipadas, que se encargará de resguardar los documentos y enviarlos al centro o unidad médica que se los requiera.
 
 ###### Artículo 83.
 
@@ -2197,13 +2181,9 @@ Artículo. 163 Ter. Del periodo de informes.
 
 #### SECCIÓN CUARTA (SIC). DE LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE ADICCIONES
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2022)</small>
-
 ###### Artículo 164.
 
-Consejo Estatal Contra las Adicciones.
-
-1. El Consejo Estatal contra las Adicciones, su objeto, integración y atribuciones, así como los derechos de los usuarios y las obligaciones de los Centros de Atención Integral y las visitas de inspección se regularán en la Ley de Prevención, Atención Integral y Erradicación de las adicciones en el Estado de Jalisco.
+(DEROGADO, P.O. 13 DE JULIO DE 2024)
 
 ###### Artículo 165.
 
@@ -5052,3 +5032,37 @@ Primero. El presente Decreto entrará en vigor a partir del día siguiente de su
 Segundo. El Poder Ejecutivo contará con un plazo de 120 ciento veinte días hábiles a partir de la entrada en vigor del presente decreto, para realizar las adecuaciones reglamentarias y presupuestarias.
 
 Tercero. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley, se cubrirán de manera gradual, paulatina y progresiva, de acuerdo a la disponibilidad presupuestal.
+
+P.O. 13 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 29547/LXIII/24 POR EL QUE SE EXPIDE LA LEY DE SALUD MENTAL Y ADICCIONES DEL ESTADO DE JALISCO, SE ABROGAN LA LEY DE PREVENCIÓN, ATENCIÓN INTEGRAL Y ERRADICACIÓN DE LAS ADICCIONES EN EL ESTADO DE JALISCO Y LA LEY DE SALUD MENTAL Y EDUCACIÓN EMOCIONAL PARA EL ESTADO DE JALISCO Y SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE JALISCO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Artículo Segundo. El Ejecutivo deberá expedir el reglamento de la presente Ley y el Reglamento Interno del Consejo Estatal de Salud Mental y Adicciones, así como realizar las acciones administrativas necesarias para la creación de la Unidad de Investigación, Capacitación y Servicio denominada Instituto Jalisciense de Salud Mental y Adicciones en el Organismo Público Descentralizado Servicios de Salud Jalisco.
+
+Artículo Tercero. Se autoriza a la Secretaría de la Hacienda Pública y a la Secretaría de Administración para realizar las adecuaciones jurídicas, presupuestales y administrativas necesarias para dar cumplimiento al presente Decreto, con efectos retroactivos al 1ero de enero del 2024 de conformidad con el artículo transitorio vigésimo del Decreto 29511/LXIII/23, en el cual se autoriza el Presupuesto de Egresos del Estado de Jalisco del 2024 publicado en el Periódico Oficial del Estado de Jalisco el Jueves 14 de Diciembre de 2023.
+
+Artículo Cuarto. La Secretaría de Salud, conforme a la suficiencia presupuestal asignada, instrumentará las acciones de reingeniería administrativa establecidas en la presente Ley, con efectos retroactivos al 1ero de enero del 2024 de conformidad con el Decreto 29511/LXIII/23, en el cual se autoriza el Presupuesto de Egresos del Estado de Jalisco del 2024, publicado en el Periódico Oficial del Estado de Jalisco el Jueves 14 de diciembre de 2023.
+
+Artículo Quinto. La prestación de los servicios relacionados con el tratamiento de las adicciones será efectuada por el Organismo Público Descentralizado Servicios de Salud Jalisco.
+
+Artículo Sexto. Los asuntos en trámite y concluidos del anterior Consejo Estatal Contra las Adicciones en Jalisco, pasarán al Consejo Estatal de Salud Mental y Adicciones, salvo los relativos a la prestación de los servicios de atención a las adicciones en cuyo caso serán entregados al Organismo Público Descentralizado Servicios de Salud Jalisco.
+
+Artículo Séptimo. El Organismo Público Descentralizado Servicios de Salud Jalisco, integrará a su plantilla los recursos humanos, adscritos al anterior Consejo Estatal contra las Adicciones en Jalisco, que conforme al perfil de puesto y funciones, realicen actividades operativas para la prestación de los servicios de atención a la salud mental y adicciones los cuales se integrarán conforme a las necesidades, estructura, plantilla, profesiograma, código y presupuesto autorizado para tal efecto, respetando su adscripción física, por lo que el Organismo deberá expedir el nombramiento definitivo o de confianza, según corresponda al último contrato vigente en los términos correspondientes de acuerdo al profesiograma y códigos de puesto vigentes en el Organismo, respetando su antigüedad para efectos de los estímulos contemplados en las Condiciones Generales de Trabajo para las plazas de base, aplicables al Organismo Público Descentralizado Servicios de Salud Jalisco, así como su afiliación y esquema de cotizaciones al Instituto de Pensiones del Estado de Jalisco vigente, para todo el personal que se integre, en el entendido de que dicho esquema de seguridad social es un beneficio inherente únicamente al personal transferido y no a la posición en la plantilla.
+
+A partir de la emisión del nombramiento correspondiente por parte del Organismo Público Descentralizado Servicios de Salud Jalisco, le serán aplicables según corresponda al tipo de contratación, las Condiciones Generales de Trabajo o la normativa vigente en el Organismo, por lo que el Organismo deberá realizar las gestiones administrativas y documentales necesarias para integrar al personal que le sea enviado, en el esquema de prestaciones dispuestas en las Condiciones Generales de Trabajo, políticas, normas y lineamientos en materia de administración, remuneración y desarrollo de personal que para tal efecto tenga el Organismo Público Descentralizado Servicios de Salud Jalisco.
+
+Por lo que, en (sic) El sueldo de los servidores públicos, en ningún caso puede ser disminuido, como ninguna de sus prestaciones, en términos del Título II Capitulo IV de la Ley Para los Servidores Públicos del Estado de Jalisco.
+
+Artículo Octavo. Para lo señalado en el artículo 22 de esta ley, respecto a la infraestructura que debe de contar el estado se llevará a cabo de manera progresiva y de conformidad a la disponibilidad presupuestal.
+
+Artículo Noveno. Se instruye a la Secretaría de Administración que realice las acciones necesarias para la transferencia al Organismo Público Descentralizado Servicios de Salud Jalisco de los bienes muebles que se consideren necesarios para la prestación de los servicios de atención a las adicciones.
+
+Artículo Décimo. La Secretaría de Salud, deberá instalar el Consejo de Vocales.
+
+Artículo Décimo Primero. El Poder Ejecutivo, a través de las Secretarías de Salud, de Administración y de la Hacienda Pública del Estado de Jalisco, según corresponda, adoptará las medidas jurídicas, administrativas, financieras, presupuestales y operativas necesarias para que los servicios y funciones del Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos se presten en forma ininterrumpida.
+
+Artículo Décimo Segundo. Las facultades, derechos y obligaciones establecidos a cargo del órgano desconcentrado Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos, así como en contratos, convenios o acuerdos celebrados con dependencias o entidades de Gobierno del Estado o con dependencias o entidades de la Administración Pública Federal, y de los municipios, así como con cualquier persona física o jurídica, además de las relaciones laborales, serán asumidas por la unidad de investigación, capacitación y servicio denominada Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos del Organismo Público Descentralizado denominado Servicios de Salud Jalisco.
+
+Artículo Décimo Tercero. Se autoriza al Titular del Ejecutivo para efectuar las modificaciones reglamentarias necesarias, así como realizar las acciones administrativas necesarias para la creación de la Unidad de Investigación, Capacitación y Servicio denominada Instituto Jalisciense de Alivio del Dolor y Cuidados Paliativos en el Organismo Público Descentralizado Servicios de Salud Jalisco.
