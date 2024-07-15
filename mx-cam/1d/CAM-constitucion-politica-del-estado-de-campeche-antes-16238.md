@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2024-07-10"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -437,13 +437,19 @@ I.- Por falta de cumplimiento, sin causa justificada, de alguna de las obligacio
 
 II.- Durante el cumplimiento de la sanción privativa de libertad proveniente de una sentencia condenatoria firme emitida por juez competente;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-III.- Por estar prófugo de la justicia desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal; y,
+III.- Por estar prófugo de la justicia desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-IV.- Por sentencia ejecutoria que imponga como sanción esa suspensión.
+IV.- Por sentencia ejecutoria que imponga como sanción esa suspensión; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+V.- Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o ser declarada persona deudora alimentaria morosa.
+
+En los supuestos de esta fracción, la persona no podrá ser registrada como candidata a cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -3396,3 +3402,13 @@ P.O. 10 DE JULIO DE 2024.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 366 POR EL QUE “SE REFORMAN LAS FRACCIONES III Y IV Y SE ADICIONA UNA FRACCIÓN V AL ARTÍCULO 21 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Lo previsto en el presente decreto, entendido como una regla electoral, será aplicable para el proceso electoral del 2027.
+
+Artículo Tercero.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan a lo contenido en el presente decreto.
