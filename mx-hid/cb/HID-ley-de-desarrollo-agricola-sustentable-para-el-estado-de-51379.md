@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2024-04-18"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -362,6 +362,10 @@ VI.- El impacto social para el Estado y sus agricultores.
 ###### ARTICULO 12.
 
 El Estado, a través de la Secretaría, en coordinación con la Secretaría de Medio Ambiente, y con la concurrencia de los integrantes de las instancias de planeación existentes, en el marco del Comité de Planeación de Desarrollo del Estado y las Regiones y Municipios, con base en un diagnóstico dinámico del sector agrícola, definirá las acciones mediante las cuales se impulse el desarrollo sustentable del campo.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+La planeación agrícola del Estado se realizará y ejecutará conforme a los criterios estratégicos a corto, mediano y largo plazo que prevé la Ley de Planeación y Prospectiva del Estado de Hidalgo.
 
 En las instancias de planeación existentes en el Estado, como son el Comité de Planeación para el Desarrollo del Estado, el Consejo Estatal, los Consejos Distritales y los Consejos Municipales para el Desarrollo Rural Sustentable, los Comités de Planeación para el Desarrollo Regional, Municipal, los Subcomités Municipales Agropecuarios, se asumirán compromisos específicos por parte de las Dependencias de la Administración Pública, las organizaciones de productores y los Municipios, donde se precisará la necesidad presupuestal mínima para efectuar los proyectos y acciones que requiere el desarrollo sustentable del campo en el Estado de Hidalgo, como sustento para la aprobación del Congreso del Estado.
 
@@ -1460,3 +1464,9 @@ P.O. 18 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 853 POR EL QUE SE REFORMAN LOS ARTÍCULOS 28 Y 29 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1011 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
