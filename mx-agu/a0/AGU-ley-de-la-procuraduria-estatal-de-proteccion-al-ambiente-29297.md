@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2023-01-23"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -237,13 +237,17 @@ IV. El Gobernador del Estado procederá a la entrega de su nombramiento y toma d
 
 Para ser Procurador se requiere:
 
-I. Ser ciudadano mexicano por nacimiento en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+I. Tener ciudadanía mexicana en pleno goce de sus derechos;
 
 II. Tener cuando menos treinta años de edad, el día de su nombramiento;
 
 III. Tener conocimiento y experiencia acreditable en materia ambiental, así como del marco normativo vigente en el Estado de Aguascalientes; y
 
-IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad y no encontrarse inhabilitado para ocupar puestos públicos en el Gobierno del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+IV. Gozar de buena reputación.
 
 ###### Artículo 9°.
 
@@ -750,3 +754,11 @@ P.O. 23 DE ENERO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 737.- SE REFORMA LA LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
