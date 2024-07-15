@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-06-07"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "HID"
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO 852 PUBLICADO EN EL P.O. DE 18 DE ABRIL DE 2024.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -955,7 +957,7 @@ XIII.- La Comisión de Derechos Humanos del Estado de Hidalgo;
 
 XIV.- La Comisión Estatal para el Desarrollo Sostenible de los Pueblos Indígenas;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XV.- El Centro de Justicia para Mujeres del Estado de Hidalgo, y
 
@@ -1047,15 +1049,15 @@ XIII.- Fomentar la armonización legislativa para erradicar la discriminación y
 
 XIV.- Institucionalizar la Ruta de atención integral a mujeres en situación de violencia de género que deberán cumplir las dependencias y entidades de la administración pública estatal y municipal de Hidalgo y el uso del sistema de referencia y contrarreferencia y de la Cédula de Registro Único.
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XV.- Realizar estudios sobre los efectos de la violencia y la discriminación interseccional en las mujeres y proponer políticas públicas dirigidas a eliminarlos;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XVI.- Promover el desarrollo, implementación y evaluación de los proyectos para la creación, fortalecimiento y operación del Centro de Justicia para las Mujeres en las regiones del Estado, y
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 XVII.- Difundir la oferta institucional de servicios especializados que brinde el Centro de Justicia para Mujeres del Estado de Hidalgo en los municipios de la Entidad.
 
@@ -1313,7 +1315,7 @@ III.- Establecer las acciones y medidas que se deberán tomar para la reeducaci�
 
 IV.- Ejecutar y dar seguimiento a las acciones del Programa que le correspondan;
 
-> <small>(REFORMADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 V.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
@@ -1321,7 +1323,7 @@ V.- Establecer, utilizar, supervisar y mantener todos los instrumentos y accione
 
 VI.- Formular acciones y programas orientados a fomentar la cultura de respeto a los derechos humanos de las mujeres;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
 
 VII.- Diseñar la política integral para la prevención de delitos contra las mujeres, cometidos en los ámbitos público y privado, con perspectivas de género, derechos humanos, diferencial, interseccionalidad e interculturalidad;
 
@@ -1929,7 +1931,7 @@ Para efectos del Artículo anterior, el personal médico, psicológico y jurídi
 
 En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
-> <small>(ADICIONADO, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2024)</small>
 
 ### CAPÍTULO VI. DEL CENTRO DE JUSTICIA PARA MUJERES DEL ESTADO DE HIDALGO
 
@@ -2007,17 +2009,11 @@ Los servicios se proporcionarán con independencia de que exista o no una denunc
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
-###### ARTÍCULO 57 Quáter.
-
-Los servicios que se brinden en el Centro de Justicia para Mujeres del Estado de Hidalgo deberán ejecutarse bajo los principios previstos en el artículo 3 de esta ley.
-
-> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
-
 ###### ARTÍCULO 57 Quater.
 
 Los servicios que se brinden en el Centro de Justicia para Mujeres del Estado de Hidalgo deberán ejecutarse bajo los principios previstos en el artículo 3 de esta ley.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 57 Quinquies.
 
