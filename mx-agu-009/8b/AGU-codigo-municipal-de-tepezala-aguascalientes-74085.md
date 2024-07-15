@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-tepezala-aguascalientes-74085"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-03-22"
-last_updated: "2018-10-15"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE TEPEZALÁ, DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de marzo de 2010.
 
@@ -1135,9 +1135,11 @@ I. Sesiones Ordinarias, son aquellas que convoca el presidente municipal con tal
 
 II. Sesiones Ordinarias Abiertas, son aquellas en donde puede asistir cualquier público.
 
-III. Sesiones Ordinarias Cerradas, son aquellas en donde por su naturaleza se traten asuntos que deba guardarse debida secrecía.
+III. (DEROGADA, P.O. 15 DE JULIO DE 2024)
 
-IV. Sesiones Extraordinarias, son aquellas que convoca el presidente municipal, cierto número de regidores, el secretario del ayuntamiento o en su caso el ayuntamiento en pleno para tratar asuntos extraordinarios o calificados de importancia para el municipio, también podrán ser abiertas o cerradas.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+IV. Sesiones Extraordinarias, son aquellas que convoca el presidente municipal, cierto número de regidores, el secretario del ayuntamiento o en su caso el ayuntamiento en pleno para tratar asuntos extraordinarios o calificados de importancia para el municipio.
 
 V. Sesiones Solemnes, son aquellas que sean convocadas por el presidente municipal para efectuar un acto solemne o en su caso entregar una distinción.
 
@@ -1247,17 +1249,11 @@ En las Sesiones Solemnes deberán de realizarse honores al lábaro Patrio y se d
 
 ###### ARTÍCULO 111.
 
-Dada su naturaleza, en las Sesiones Secretas estará prohibido el acceso al público al recinto donde se sesione durante el desarrollo de la misma.
+(DEROGADO, P.O. 15 DE JULIO DE 2024)
 
 ###### ARTÍCULO 112.
 
-Serán consideradas por este Código como Sesiones Secretas las siguientes:
-
-I. Dónde se traten asuntos que exijan reserva de acuerdo a lo establecido en la Ley Municipal para el Estado de Aguascalientes;
-
-II. Donde se traten asuntos de carácter secreto dirigidos al H. Ayuntamiento, por los Poderes Ejecutivo, Legislativo y Judicial, tanto Federal como Estatal, así como por otros Ayuntamientos; y
-
-III. Las que así acuerde previamente el Cabildo.
+(DEROGADO, P.O. 15 DE JULIO DE 2024)
 
 ### CAPÍTULO VI. De la Intervención del Público en las Sesiones
 
@@ -14006,3 +14002,15 @@ Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opo
 ###### ARTÍCULO TERCERO.
 
 Para la Protesta de Ley, el H. Ayuntamiento Constitucional del Municipio de Tepezalá, Aguascalientes, deberá ajustarse al periodo constitucional correspondiente.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "MODIFICACIÓN DEL CÓDIGO MUNICIPAL DE TEPEZALÁ, AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas las disposiciones normativas o reglamentarias que se opongan a los dispuesto en la presente reforma.
