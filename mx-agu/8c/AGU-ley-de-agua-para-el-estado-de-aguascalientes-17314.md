@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2023-11-06"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -191,23 +191,35 @@ VIII. Las autoridades en el ámbito de su competencia, procurarán la reutilizac
 
 IX. La política hídrica estatal deberá garantizar la seguridad hídrica, entendida esta como la capacidad institucional y de la ciudadanía para salvaguardar el acceso sostenible a cantidades adecuadas y de calidad aceptable del agua para sostener los medios de vida y garantizar el desarrollo económico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
+
+ARTICULO 3o B.- Es facultad de la persona Titular del Poder Ejecutivo del estado, expedir el Plan Hídrico para el estado de Aguascalientes, como instrumento rector en el tratamiento y atención de la problemática del suministro de agua en nuestra Entidad Federativa.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Para lo cual, será competencia del Instituto, elaborar, modificar y actualizar la propuesta del Plan Hídrico para el estado de Aguascalientes, de acuerdo con la Ley de Planeación para el Desarrollo del estado de Aguascalientes, mediante una Planeación de largo plazo.
+
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
-
-ARTICULO 3o B.- Es facultad del Gobernador del Estado, expedir el Plan Hidráulico para el Estado de Aguascalientes, como instrumento rector en el tratamiento y atención de la problemática del suministro de agua en nuestra Entidad Federativa.
-
-Para lo cual, será competencia del Instituto, elaborar, modificar y actualizar la propuesta del Plan Hidráulico para el Estado de Aguascalientes, de acuerdo con la Ley de Planeación del Desarrollo Estatal y Regional para el Estado de Aguascalientes, mediante una Planeación de largo plazo.
 
 En las dependencias y organismos de los tres Poderes así como en los órganos constitucionales autónomos del Estado, se llevará a cabo una campaña permanente de uso racional del agua, los cuales permitirán a la población en general de acuerdo a su rango de edad conocer medidas específicas para el ahorro y evitar el desperdicio del recurso hídrico.
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
-ARTICULO 3o C.- El Plan Hidráulico para el Estado de Aguascalientes tendrá por objeto establecer los criterios para la aplicación de las políticas públicas que permitan la detección de problemas en materia de agua así como su atención eficaz; el cual se integrará por lo menos con los siguientes apartados:
+ARTICULO 3o C.- El Plan Hídrico para el Estado de Aguascalientes tendrá por objeto establecer los criterios para la aplicación de las políticas públicas que permitan la detección de problemas en materia de agua, así como su atención eficaz; el cual se integrará por lo menos con los siguientes apartados:
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 I. Fundamentos legales, distinguiendo expresamente las competencias estatales y municipales, y su congruencia con la planeación del desarrollo Nacional y Estatal;
 
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
 II. Antecedentes, los cuales serán integrados por una justificación y descripción general del documento;
 
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+
 III. Diagnóstico vigente de las condiciones del agua en el Estado, detectando las fortalezas, oportunidades, debilidades y amenazas que cuenta el Estado para el suministro de agua; señalando expresamente las causas de los problemas que aquejan a este sector; y
+
+> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
 IV. Análisis y prospección de los esfuerzos para atender este tema.
 
@@ -2672,3 +2684,11 @@ El presente Decreto iniciaría su vigencia al día siguiente de su publicación 
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 736.- SE REFORMA LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
