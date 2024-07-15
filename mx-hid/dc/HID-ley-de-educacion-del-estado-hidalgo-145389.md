@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-06-18"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 856 PUBLICADO EN EL P.O. DEL 18 DE ABRIL DE 2024.]</small>
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -274,6 +276,10 @@ IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar
 > <small>(REFORMADA, P.O. 9 DE JUNIO DE 2022)</small>
 
 X. Propiciar el crecimiento y desarrollo en las regiones, municipios, comunidades, y en general del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+X BIS. Promover la economía social y solidaria, con el fin de propiciar el trabajo colaborativo para la obtención de resultados económicos equilibrados;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE ABRIL DE 2024)</small>
 
@@ -743,9 +749,9 @@ X. La apreciación y creación artística, a través de conocimientos conceptual
 
 XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base en una educación cívica, inclusiva e intercultural.
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2024)</small>
+(ADICIONADA, P.O. 16 DE ABRIL DE 2024) (F. DE E., P.O. 15 DE JULIO DE 2024)
 
-XIII (SIC). La educación emocional; la cual se entiende como el proceso educativo, continuo y permanente que pretende potenciar el desarrollo como complemento indispensable del crecimiento cognitivo, constituyendo ambos elementos esenciales del desarrollo de la personalidad.
+XII. La educación emocional; la cual se entiende como el proceso educativo, continuo y permanente que pretende potenciar el desarrollo como complemento indispensable del crecimiento cognitivo, constituyendo ambos elementos esenciales del desarrollo de la personalidad.
 
 > <small>(REFORMADO, P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -2428,3 +2434,9 @@ P.O. 18 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 994 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS PÁRRAFOS DE LOS ARTÍCULOS 56 Y 71 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1012 POR EL QUE SE ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
