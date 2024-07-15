@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-07-02"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE JULIO DE 2024.]</small>
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -1019,7 +1021,7 @@ hh).- Promover condiciones para la participación de los municipios con el Estad
 
 ii).- Evaluar la terna propuesta por la Contraloría en términos de la fracción XII Bis del artículo 106, y designar a los auditores externos mejor calificados para los efectos correspondientes.
 
-(ADICIONADO, P.O. 19 DE ENERO DE 2024) (F. DE E., P.O. 4 DE JUNIO DE 2024)
+(ADICIONADO, P.O. 19 DE ENERO DE 2024) (F. DE E., P.O. 15 DE JULIO DE 2024)
 
 jj).- Previa aprobación de sus miembros, llamar a comparecer a cualquier persona servidora pública de su municipio.
 
@@ -1065,7 +1067,15 @@ j BIS).- Diagnosticar, planear, implementar y evaluar, en concordancia con la po
 
 j TER).- Formular con la participación de las personas y las comunidades y aprobar, un Programa Municipal de Cultura y Derechos Culturales que tenga por objeto promover, respetar, proteger y garantizar los derechos culturales de la población, los migrantes, los visitantes del municipio y las personas con discapacidad; preservar el patrimonio cultural de propiedad municipal y propiciar la salvaguardia del patrimonio cultural inmaterial de las comunidades; propiciar, conforme a sus facultades y la disponibilidad presupuestal, la atención a la condición del artista y, establecer el sistema de información cultural municipal;
 
-k).- Regular, de acuerdo a su competencia, el funcionamiento de espectáculos y giros industriales, comerciales, turísticos y de servicios profesionales;
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
+k).- Regular, de acuerdo con su competencia, el funcionamiento de espectáculos, establecimientos mercantiles, giros industriales, comerciales, turísticos y de servicios profesionales;
+
+La normatividad que emitan los Ayuntamientos para regular lo concerniente a espectáculos públicos y establecimientos mercantiles, deberá considerar que:
+
+a. Las personas físicas o morales que organicen, exploten o patrocinen espectáculos públicos, presenten la autorización de la Sociedad de Gestión Colectiva o de los titulares de derechos de autor, cuando la naturaleza de este así lo requiera conforme a la Ley Federal del Derecho de Autor.
+
+b. Los establecimientos mercantiles en los que se ejecute, represente, explote o de cualquier otra forma se comuniquen públicamente obras musicales protegidas por la Ley Federal del Derecho de Autor, presenten la autorización correspondiente expedida por las Sociedades de Gestión Colectiva o de los titulares de derechos de autor previstos en el artículo 26 de la Ley señalada.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -1267,9 +1277,9 @@ g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la parti
 
 h).- Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano que contenga los Planes de Desarrollo Rural para los Pueblos y Comunidades Indígenas en caso de contar con población indígena reconocida así como, el que corresponda al desarrollo agropecuario municipal;
 
-(REFORMADO, P.O. 19 DE ENERO DE 2024) (F. DE E., P.O. 4 DE JUNIO DE 2024)
+(REFORMADO, P.O. 19 DE ENERO DE 2024) (F. DE E., P.O. 15 DE JULIO DE 2024)
 
-Asimismo, contará hasta con ciento ochenta días naturales para presentar su Programa de Infraestructura Verde Municipal en términos del Reglamento respectivo; así como para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión de cabildo, el Atlas Municipal de Riesgos correspondiente o en su caso, actualizarlo durante su gestión.
+Asimismo, contará hasta con ciento ochenta días naturales para presentar su Agenda Verde Municipal en términos del Reglamento respectivo; así como para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión de cabildo, el Atlas Municipal de Riesgos correspondiente o en su caso, actualizarlo durante su gestión.
 
 i).- Coadyuvar con las Autoridades Federales en la aplicación y cumplimiento de las disposiciones previstas en los Artículos 27 y 30 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo a su normatividad interna;
 
@@ -2865,9 +2875,19 @@ III.- Regular el horario de funcionamiento de los establecimientos mercantiles a
 
 IV.- Llevar a cabo el procedimiento administrativo para imponer sanciones por incumplimiento o violación a las disposiciones aplicables en la esfera de su competencia;
 
-V.- Autorizar las licencias y permisos de funcionamiento y cuidar que se paguen las contribuciones respectivas al Municipio; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-VI.- Regular el comercio establecido, así como la autorización de espectáculos públicos en el Municipio.
+V.- Autorizar las licencias y permisos de funcionamiento y cuidar que se paguen las contribuciones respectivas al Municipio;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VI.- Regular el comercio establecido y los establecimientos mercantiles, así como la autorización de espectáculos públicos en el Municipio, para tal efecto el solicitante deberá presentar consentimiento expreso de las Sociedades de Gestión Colectiva respectivas, tratándose de espectáculos públicos o establecimientos mercantiles en los que se ejecute, represente, explote o de cualquier otra forma se comuniquen públicamente obras musicales protegidas por la Ley Federal del Derecho de Autor; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VII.- Vigilar que los espectáculos públicos y los establecimientos mercantiles cuenten con la autorización a que hace referencia el inciso k de la fracción II del artículo 56 de la presente Ley.
+
+Los Titulares de Reglamentos y Espectáculos deberán orientar a los solicitantes respecto del lugar en donde podrán solicitarlo.
 
 > <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
 
@@ -4868,3 +4888,13 @@ P.O. 2 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 998 POR EL QUE SE ADICIONAN LAS FRACCIONES XII BIS Y XIII BIS AL ARTÍCULO 119 A LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1008 POR EL QUE SE REFORMA EL INCISO K DE LA FRACCIÓN II DEL ARTICULO 56 Y LAS FRACCIONES V Y VI DEL ARTÍCULO 121; SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 121 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+TERCERO. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, los ayuntamientos de la Entidad deberán crear, adecuar o armonizar su normatividad para dar cumplimiento al presente Decreto.
