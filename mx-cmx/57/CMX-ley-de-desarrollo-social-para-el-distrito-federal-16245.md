@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-desarrollo-social-para-el-distrito-federal-16245"
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-23"
-last_updated: "2023-12-06"
+last_updated: "2024-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16245&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2000-04-24"
 ---
 # LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DEL DERECHO AL BIENESTAR E IGUALDAD SOCIAL PARA LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 15 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE DESARROLLO SOCIAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JULIO DE 2024 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 23 de mayo de 2000.
 
@@ -1409,3 +1411,25 @@ G.O. 6 DE DICIEMBRE DE 2023.
 PRIMERO. - Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY DEL DERECHO AL BIENESTAR E IGUALDAD SOCIAL PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. La presente Ley entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga la Ley de Desarrollo Social para el Distrito Federal, publicada en la Gaceta Oficial del entonces Distrito Federal no. 86.
+
+CUARTO. Las referencias que se hagan en otros ordenamientos al Comité de Planeación del Desarrollo de la Ciudad de México se entenderán hechas a la Comisión Coordinadora del Sistema General de Bienestar Social.
+
+QUINTO. Las referencias que se hagan en otros ordenamientos a la Secretaría de Inclusión y Bienestar Social de la Ciudad de México se entenderán hechas a la Secretaría de Bienestar e Igualdad Social de la Ciudad de México.
+
+SEXTO. El Gobierno de la Ciudad tendrá un plazo de 180 días hábiles para presentar el Programa Especial de Bienestar e Igualdad Social a partir de la entrada en vigor del presente decreto.
+
+SÉPTIMO. El Reglamento de la Ley del Derecho al Bienestar e Igualdad Social para la Ciudad de México deberá expedirse a más tardar a los 180 días hábiles de la entrada en vigor del presente decreto.
+
+OCTAVO. La Comisión Coordinadora del Sistema General de Bienestar Social deberá instalarse a más tardar un mes después de la entrada en vigor del presente decreto.
+
+NOVENO. En tanto se instala la Comisión Coordinadora del Sistema General de Bienestar Social, el Comité de Planeación para el Desarrollo del Distrito Federal conservará las facultades respecto de la aprobación, creación y operación de programas de desarrollo social de acuerdo con lo establecido en la legislación vigente.
