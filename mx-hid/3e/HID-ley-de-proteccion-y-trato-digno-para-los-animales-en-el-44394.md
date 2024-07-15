@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-y-trato-digno-para-los-animales-en-el-44394"
 country: "mx"
 rank: "ley"
 publication_date: "2005-02-28"
-last_updated: "2024-06-14"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "HID"
 LEY DE PROTECCIÓN Y TRATO DIGNO PARA LOS ANIMALES EN EL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 823 PUBLICADO EN EL P.O. DEL 4 DE ABRIL DE 2024.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 28 de febrero de 2005.
 
