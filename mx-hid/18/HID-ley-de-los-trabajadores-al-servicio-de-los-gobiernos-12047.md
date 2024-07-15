@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2024-06-04"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
 
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 4 DE JUNIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 19 DE ENERO DE 2024.]</small>
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 15 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 626 PUBLICADO EN EL P.O. DE 19 DE ENERO DE 2024.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
