@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-06-03"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1599,9 +1599,11 @@ Si la entrega del menor se hace sin la finalidad de obtener un beneficio económ
 
 Si quien recibe al menor acredita que lo hizo para incorporarlo a un núcleo familiar para otorgarle los beneficios propios de tal incorporación, la punibilidad será de 6 meses a 2 años de prisión y de 5 a 40 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 127.
 
-Sustracción de menores e incapaces. La Sustracción de Menores e Incapaces consiste en sustraer o retener a un menor de doce años o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia, guarda o retención.
+Sustracción de niñas, niños, adolescentes e incapaces. La sustracción de Niñas, Niños, Adolescentes e Incapaces consiste en sustraer o retener a un menor de dieciocho años o a un incapaz, sin el consentimiento de quien legítimamente tenga su custodia, guarda o retención.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 2024)</small>
 
@@ -4258,3 +4260,15 @@ P.O. 3 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 739.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTICULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión el hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
