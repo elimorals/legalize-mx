@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2024-07-01"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -111,9 +111,9 @@ c) Persona adulta mayor parcialmente dependiente: Persona adulta mayor con depen
 
 d) Persona adulta mayor totalmente dependiente: Persona adulta mayor que requiere asistencia para realizar todas sus actividades básicas o instrumentadas de la vida diaria; y
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE ENERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JULIO DE 2024)</small>
 
-e) Persona adulta mayor en situación de riesgo o desamparo: Persona adulta mayor con problemas de salud, abandono, carencia de apoyos económicos, carencia de apoyo familiar, víctima de contingencias ambientales o víctima de desastres naturales, que requiere la asistencia y protección del Ejecutivo del Estado, de los Municipios y de las Organizaciones de la Sociedad Civil;
+e) Persona adulta mayor en situación de riesgo o desamparo: Persona adulta mayor que, además de viudez, o soltería, o con problemas de salud, se encuentre en: abandono, con carencia de apoyos económicos y con carencia de apoyo familiar; o bien, sea víctima de contingencias ambientales o víctima de desastres naturales, y que requiere la asistencia y protección del Ejecutivo del Estado, de los Municipios y de las Organizaciones de la Sociedad Civil;
 
 Las autoridades correspondientes deberán elaborar programas que atiendan en la generalidad a las personas adultas mayores, sin descuidar a ningún grado de vulnerabilidad de los descritos en los incisos anteriores.
 
@@ -201,13 +201,9 @@ La presente Ley reconoce como derechos de las personas adultas mayores, independ
 
 I. De la integridad, dignidad y preferencia:
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
-A) A una vida de calidad, libre de violencia, maltrato físico, psicológico, económico, sexual o de abandono, discriminación, con la finalidad de asegurarle respeto a su integridad física, psicológica y afectiva;
-
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
-
-Es obligación de las Instituciones Públicas, de la familia y la sociedad, garantizarles el acceso a los programas que tengan por objeto posibilitar el ejercicio de este derecho.
+A) A una vida de calidad, libre de violencia, abandono, discriminación, maltrato físico, psicológico, económico o sexual, con la finalidad de asegurarle respeto a su integridad física, psicológica y afectiva;
 
 B) A la protección contra toda forma de explotación;
 
@@ -281,11 +277,13 @@ G) Contar con una cartilla médica única para el control de su salud;
 
 H) A recibir cuidados paliativos, entendiendo por estos la atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días, así como la atención primordial al control del dolor, de otros síntomas, de los problemas sociales y padecimientos psicológicos y físicos de la persona mayor, debiendo abarcar al paciente, su entorno y su familia. Los cuidados paliativos deben de afirmar la vida y considerar la muerte como un proceso normal, sin buscar acelerarla ni retrasarla;
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
+> <small>[N. DE E. EL CONTENIDO DEL INCISO I ES IDÉNTICO AL DEL INCISO J.]</small>
 
-I) A desarrollar y fomentar la capacidad funcional que les permita ejecutar sus tareas y desempeñar sus roles sociales.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE JULIO DE 2024)</small>
 
-Las familias tendrán derecho a recibir el apoyo de las instituciones públicas para el cuidado y atención de las personas adultas mayores, ante la falta de recursos económicos; y
+I) A recibir una atención profesional y especializada en el cuidado de su salud mental y a tener acceso a información y atención que le permita enfrentar la perdida de familiares o seres queridos.
+
+> <small>[N. DE E. EL CONTENIDO DEL INCISO J ES IDÉNTICO AL DEL INCISO I.]</small>
 
 > <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
 
@@ -1021,9 +1019,9 @@ VI. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier
 
 VII. Implementar acciones para garantizar la cobertura en materia alimentaria para las personas adultas mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-VIII. Proporcionar orientación psicológica para las personas adultas mayores que sean víctimas de abuso o maltrato; y
+VIII. Proporcionar orientación psicológica para las personas adultas mayores que sean víctimas de abuso, maltrato, o que atreviesen por procesos de duelo respecto a la perdida de algún miembro de su familia o ser querido; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2018)</small>
 
@@ -1776,3 +1774,11 @@ P.O. 1 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 738.- SE REFORMA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de publicación en el Periódico Oficial del Estado.
