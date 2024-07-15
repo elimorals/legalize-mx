@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2024-01-22"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -145,7 +145,9 @@ XV. Aves urbanas: Conjunto de especies de aves que habitan en libertad en el ár
 
 XVI. Bienestar animal: Respuesta fisiológica y de comportamiento adecuada de los animales para enfrentar o sobrellevar el entorno;
 
-XVII. Campañas: Acción pública realizada de manera periódica por alguna autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concientización entre la población para el trato digno y respetuoso a los animales;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XVII. Campañas: Acción pública realizada de manera periódica por alguna autoridad para el control, prevención o erradicación de alguna epizootia, zoonosis o epidemia; para controlar el aumento de población de animales; o para difundir la concientización entre la población para el trato digno y respetuoso a los animales, la importancia de la adopción, vacunación, esterilización, desparasitación, y las consecuencias sobre el abandono de animales de compañía;
 
 > <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -369,9 +371,9 @@ VIII. Impulsar campañas de concientización para el trato digno y respetuoso a 
 
 IX. Conocer, a través de la unidad administrativa correspondiente, cualquier hecho, acto u omisión derivado del incumplimiento de la presente Ley, su Reglamento y demás disposiciones jurídicas aplicables, y emitir las sanciones correspondientes, salvo aquellas que estén expresamente atribuidas a otras autoridades. Para el seguimiento de esta atribución deberá contar con personal debidamente capacitado en las materias de esta Ley para dar curso a las denuncias;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-X. Establecer campañas permanentes de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación, y de esterilización, en coordinación con la Secretaría de Salud;
+X. Establecer campañas permanentes de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación y de esterilización, que serán gratuitas de resultar presupuestalmente posible; todas ellas en coordinación con la Secretaría de Salud;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
@@ -771,7 +773,9 @@ I.- Dar a los animales un trato digno y humanitario, evitando el maltrato o sufr
 
 II.- Llevar a cabo campañas permanentes y gratuitas de vacunación y esterilización, con médico veterinario zootécnista y certificado para lo cual podrán promover como métodos de control la cirugía de ovario, histerectomía y castración;
 
-III.- Realizar campañas que fomenten la conciencia de responsabilidad sobre los animales; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+III.- Realizar campañas que fomenten la conciencia de responsabilidad sobre los animales, la importancia de la adopción, vacunación, esterilización, desparasitación, y las consecuencias sobre el abandono de animales de compañía; y
 
 IV.- Proporcionar los collares de identificación de vacunación antirrábica.
 
@@ -1205,9 +1209,9 @@ I. Proponer políticas de protección a los animales;
 
 II. Promover y difundir el conocimiento de la Ley y apoyar las acciones en beneficio de la salud pública;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-III. Promover y fomentar la participación ciudadana en las diversas campañas de vacunación, esterilización, prevención y concientización, entre otras; y
+III. Promover y fomentar la participación ciudadana en las diversas campañas de adopción, vacunación, desparasitación, esterilización, prevención y concientización, así como las consecuencias sobre el abandono de animales de compañía, entre otras; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -1734,3 +1738,11 @@ P.O. 22 DE ENERO DE 2024.
 PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO. - Las autoridades competentes, dentro de los 180 días siguientes a la entrada en vigor de este Decreto, deberán emitir los reglamentos necesarios a efecto de aplicar correctamente las reformas contenidas en este Decreto.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 735.- SE REFORMA LA LEY DE PROTECCIÓN A LOS ANIMALES PARA DEL (SIC) ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
