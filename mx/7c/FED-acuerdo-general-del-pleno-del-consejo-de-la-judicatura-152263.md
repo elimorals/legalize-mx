@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-152263"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2021-11-03"
-last_updated: "2023-12-26"
+last_updated: "2024-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152263&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2021-10-28"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGLAMENTA LA CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE JULIO DE 2024.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 3 de noviembre de 2021.
 
@@ -1427,13 +1427,17 @@ Programa de Prácticas Judiciales en órganos jurisdiccionales. Queda prohibida 
 
 Diseño del Programa de Prácticas Judiciales en órganos jurisdiccionales. La Escuela Judicial diseñará la política académica que deberá ser incluida en el Programa de Prácticas Judiciales, en donde establecerá los derechos y obligaciones de las y los practicantes, así como de las y los Titulares, los principios rectores que deberán regir el programa, los controles de evaluación, las causas de terminación, entre otras.
 
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CAPTACIÓN Y RETENCIÓN DE TALENTO UNIVERSITARIO, D.O.F. 15 DE JULIO DE 2024)</small>
+
 ###### Artículo 102.
 
-Implementación del Programa de Prácticas Judiciales en órganos jurisdiccionales. Recursos Humanos se encargará de elaborar las reglas operativas y de la implementación del Programa de Prácticas Judiciales, desde el reclutamiento de las personas, la recepción de informes, la celebración de convenios, el pago de la contraprestación correspondiente, hasta el fin de su estancia, teniendo en cuenta para ello el diseño de la política académica elaborada por la Escuela Judicial. Las reglas operativas deberán contener, cuando menos, obligaciones en materia de transparencia y acceso a la información pública, así como a la confidencialidad de datos y prever posibles sanciones en caso de incumplimiento.
+Implementación del Programa de Prácticas Judiciales en órganos jurisdiccionales. La Escuela Judicial se encargará de elaborar las reglas operativas y de la implementación del Programa de Prácticas Judiciales, desde el reclutamiento de las personas, la recepción de informes, la celebración de convenios, el pago del estímulo económico correspondiente, hasta el fin de su estancia. Las reglas operativas deberán contener, cuando menos, obligaciones en materia de transparencia y acceso a la información pública, así como a la confidencialidad de datos y prever posibles sanciones en caso de incumplimiento.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CAPTACIÓN Y RETENCIÓN DE TALENTO UNIVERSITARIO, D.O.F. 15 DE JULIO DE 2024)</small>
 
 ###### Artículo 103.
 
-Acceso a la Carrera Judicial a partir del Programa de Prácticas Judiciales en órganos jurisdiccionales. Las personas que hayan concluido el Programa de Prácticas Judiciales podrán acceder a la Carrera Judicial en la categoría de Oficial judicial.
+Acceso al Sistema de Listas de Acceso y Promoción en la Carrera Judicial a partir del Programa de Prácticas Judiciales en órganos jurisdiccionales. Las personas que concluyan el Programa de Prácticas Judiciales en órganos jurisdiccionales con la calificación mínima aprobatoria señalada en las reglas operativas aplicables, podrán acceder a las Listas de Acceso y Promoción en la Carrera Judicial en la categoría de Oficial judicial, siempre y cuando cumplan los requisitos previstos en la normativa aplicable para ocupar esta categoría.
 
 ## TÍTULO QUINTO. Estructura Orgánica de la Escuela Judicial
 
@@ -2954,3 +2958,43 @@ D.O.F. 26 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA CAPTACIÓN Y RETENCIÓN DE TALENTO UNIVERSITARIO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las personas titulares podrán solicitar, sin restricción alguna, la conversión de cualquier plaza vacante en definitiva de Oficial Judicial “C” para transformarse en Oficial Judicial “D” o “E”.
+
+En cualquier momento se podrá revertir el cambio, es decir, solicitar convertir nuevamente una plaza de Oficial Judicial “D” o “E” vacante en definitiva en Oficial Judicial “C”.
+
+Las plazas de oficial judicial “D” y “E” serán plazas administrativas de confianza y no formarán parte de la Carrera Judicial.
+
+Los Oficiales Judiciales “D” deberán obtener título profesional de licenciatura en derecho o abogada/abogado en un plazo máximo de dos años, contados a partir del primer día en que recibieron su primer nombramiento en esta categoría, en cualquier Órgano Jurisdiccional.
+
+Los Oficiales Judiciales “E” que recibieron su primer nombramiento en esta categoría entre el cuarto y séptimo semestre o su equivalente deberán obtener título profesional de licenciatura en derecho o abogada/abogado en un plazo máximo de cinco años, contados a partir del primer día en que recibieron su primer nombramiento en esta categoría, en cualquier Órgano Jurisdiccional.
+
+Los Oficiales Judiciales “E” que recibieron su primer nombramiento en esta categoría a partir del octavo semestre o su equivalente deberán obtener título profesional de licenciatura en derecho o abogada/abogado en un plazo máximo de dos años, contados a partir del primer día en que recibieron su primer nombramiento en esta categoría, en cualquier Órgano Jurisdiccional.
+
+Los anteriores plazos podrán prorrogarse un año por causa justificada, es decir, por dilación en la emisión del título profesional por causas no atribuibles a la persona estudiante o recién egresada.
+
+Transcurrido este plazo, para continuar con el nombramiento en cualquiera de estas categorías deberán acreditar contar con título profesional de licenciatura en derecho.
+
+CUARTO. La Escuela Federal de Formación Judicial y la Dirección General de Recursos Humanos, en coordinación con la Dirección General de Programación, Presupuesto y Tesorería; la Dirección General de Innovación, Planeación y Desarrollo Institucional; y las direcciones competentes de la Secretaría Ejecutiva de Administración, contarán con máximo 90 días naturales, computados a partir de la entrada en vigor del presente Acuerdo, para realizar las adecuaciones normativas y de espacios físicos necesarios para transferir las funciones y el personal encargado de las Prácticas Judiciales en órganos jurisdiccionales de la Dirección General de Recursos Humanos a la Escuela Federal de Formación Judicial.
+
+Cumplido lo previsto en el párrafo anterior, el personal encargado del Programa de Prácticas Judiciales en órganos jurisdiccionales, actualmente adscrito a la Dirección General de Recursos Humanos, será readscrito a la Escuela Federal de Formación Judicial, con la finalidad de que este órgano auxiliar del Consejo asuma la operación del Programa.
+
+La Dirección General de Recursos Humanos continuará a cargo del Programa de Becas. El personal encargado de este Programa permanecerá adscrito a la Dirección General de Recursos Humanos.
+
+QUINTO. La Escuela Federal de Formación Judicial contará con 60 días naturales, computados a partir de la entrada en vigor del presente Acuerdo, para proponer al Pleno del Consejo de la Judicatura Federal la adecuación normativa de las Reglas Operativas del Programa de Prácticas Judiciales, la Política Académica del Programa de Prácticas Judiciales en Órganos Jurisdiccionales, así como cualquier otro instrumento normativo interno que requiera armonización, derivado del traslado de facultades previsto en el artículo 102 del presente Acuerdo.
+
+SEXTO. Hasta en tanto se realicen las adecuaciones normativas y operativas descritas en los artículos transitorios CUARTO y QUINTO del presente Acuerdo, la Dirección General de Recursos Humanos continuará operando el programa de Prácticas Judiciales conforme la normatividad vigente.
+
+SÉPTIMO. El presente Acuerdo se aplicará en irrestricto apego a los derechos laborales de las personas servidoras públicas que actualmente ocupen las categorías de Oficial Judicial “D” o “E”.
+
+OCTAVO. La interpretación del presente Acuerdo corresponderá a las Comisiones de Carrera Judicial y Administración del Consejo de la Judicatura Federal, en el ámbito de sus respectivas competencias.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
