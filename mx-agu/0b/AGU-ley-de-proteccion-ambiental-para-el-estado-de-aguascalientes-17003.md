@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2024-05-13"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -99,9 +99,9 @@ I. ACOPIO: Acción de concentrar temporalmente residuos sólidos urbanos y/o de 
 
 II. ACTIVIDAD NO RIESGOSA: Aquélla que por sus dimensiones, materia prima, procesos, productos y subproductos o su localización no representa riesgo real o potencial para los habitantes de los asentamientos circundantes;
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-III. ACTIVIDAD RIESGOSA: Acción u omisión que ponga en peligro la integridad de las personas o del ambiente, en virtud de la naturaleza, características o volumen de los materiales o residuos que se manejen, de conformidad con las Normas Oficiales Mexicanas, los criterios o listados en materia ambiental que publiquen las autoridades competentes en el Diario Oficial de la Federación y el Periódico Oficial del Estado;
+III. ACTIVIDAD RIESGOSA: Las acciones u omisiones asociadas al manejo, en establecimientos industriales, comerciales o de servicios, de materiales y sustancias y/o residuos, que, en virtud de sus características de peligrosidad, así como de los volúmenes de manejo y la ubicación del establecimiento, puedan representar riesgos al ambiente y a la salud, siempre y cuando no estén consideradas como altamente riesgosas o estén reservadas a la federación, de conformidad con la clasificación y descripción y/o listados que la Secretaría emita con respecto a estas actividades riesgosas;
 
 IV. AGENDA AMBIENTAL: Estrategias y programa de actividades y trabajos, respecto de los asuntos ambientales, jerarquizados y ordenados;
 
@@ -253,6 +253,10 @@ XLI. INCINERACIÓN: Combustión controlada de cualquier sustancia o material, cu
 
 XLII. LEY: Ley de Protección Ambiental para el Estado de Aguascalientes;
 
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XLII-A. LEY DE TRANSPARENCIA: Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios;
+
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XLIII. LEY GENERAL: Ley General del Equilibrio Ecológico y la Protección al Ambiente;
@@ -276,6 +280,10 @@ XLVII. PRESERVAR: Acción de guardar y proteger algo a salvo, estableciendo los 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
 XLVIII. PROCURADURÍA: Procuraduría Estatal de Protección al Ambiente;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XLVIII-A. PROGRAMA DE ORDENAMIENTO: Programa de Ordenamiento Ecológico Estatal de Aguascalientes;
 
 > <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -329,9 +337,13 @@ LX. SECRETARÍA: Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
 LXI. TÉRMINOS DE REFERENCIA: Metodología, requisitos y parámetros para la realización de las Auditorías Ambientales y Diagnósticos Ambientales, que se establecen en normas mexicanas.
 
-> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-LXII. TRATAMIENTO: Acción de transformar los residuos, por medio de la cual se cambian sus características; y
+LXII. TRATAMIENTO: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+LXII-A. UNIDAD DE GESTIÓN AMBIENTAL: Unidad mínima territorial donde se aplican tanto lineamientos como estrategias ambientales, de política territorial, aunado con esquemas de manejo de recursos naturales, criterios o lineamientos finos de manejo de estos recursos, orientados a un desarrollo que transite a la sustentabilidad; y
 
 > <small>(ADICIONADA, P.O. 3 DE JUNIO DE 2019)</small>
 
@@ -395,13 +407,13 @@ VIII. Celebrar convenios mediante los cuales se obtenga asesoría, así como rec
 
 IX. Expedir los reglamentos y .demás disposiciones aplicables que tengan por objeto la conservación, preservación y restauración del medio ambiente y los recursos naturales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-X. Coadyuvar en el ámbito de su competencia a la determinación de los indicadores que permitan evaluar la aplicación del presente ordenamiento, e integrar los resultados al Sistema de Información Ambiental y de Recursos Naturales;
+X. Promover la gestión ante la Federación para la conservación de las zonas de captación pluvial, de infiltración, la restauración y conservación de embalses, ríos y arroyos, así como el desarrollo de obras de infraestructura para la captación de agua pluvial a gran y pequeña escala;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-XI. Fomentar el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía, en coordinación con los municipios; y
+XI. Celebrar convenios de colaboración con las autoridades federales y municipales competentes para la vigilancia, inspección y sanción en materia de aguas dentro del estado; y
 
 > <small>(ADICIONADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN X], P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -533,9 +545,9 @@ XXIX. Las demás atribuciones que conforme a esta u otras leyes o disposiciones 
 
 XXX. Formular y difundir el "Programa de Sustitución de Plásticos no Biodegradables por productos biodegradables", a que hace mención esta Ley;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-XXXI. Integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, y materiales y residuos de su competencia; cuya información se integrará con los datos y los documentos contenidos en las autorizaciones, cédulas de operación, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante el Instituto y, en su caso, ante los Municipios;
+XXXI. Integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, así como materiales y residuos de competencia; cuya información se integrará con los datos y los documentos contenidos en las autorizaciones, cédulas de operación, informes, reportes, licencias, permisos y concesiones en materia ambiental (sic) se tramiten ante la Secretaría, y en su caso ante los Municipios;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -545,13 +557,21 @@ XXXII. Elaborar un catalogo de áreas prioritarias para conservación del Estado
 
 XXXIII. Generar conocimientos que contribuyan al aprovechamiento racional y la conservación de la biodiversidad, vestigios paleontológicos y demás recursos naturales;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-XXXIV. Promover la creación de la Bolsa de Residuos en la Entidad; y
+XXXIV. Promover la creación de la Bolsa de Residuos en la Entidad;
 
-> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-XXXV. Las demás atribuciones que conforme a ésta u otras leyes o disposiciones reglamentarias le correspondan.
+XXXV. Promover y facilitar el aprovechamiento de energías limpias en favor del desarrollo del estado;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XXXVI. Promover el fortalecimiento del sistema de estaciones meteorológicas, así como la elaboración de estudios hidrológicos del estado; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XXXVII. Las demás atribuciones que conforme a ésta u otras leyes o disposiciones reglamentarias le correspondan.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -599,7 +619,9 @@ IX. Formular y conducir la política municipal de Información y difusión en ma
 
 X. Garantizar los espacios de participación de la sociedad en materia ambiental;
 
-XI. Participar activamente en el Consejo Consultivo Estatal de Gestión Ambiental;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XI. Participar activamente en el Consejo Estatal para la Protección del Medio Ambiente;
 
 XII. Crear y administrar zonas de preservación ecológica de los centros de población, parques urbanos, jardines públicos y demás áreas análogas previstas en esta Ley;
 
@@ -677,7 +699,9 @@ III. Las Autoridades, los sectores sociales y los particulares deberán asumir r
 
 IV. Las acciones de carácter preventivo, se consideran el medio más eficaz para frenar tendencias de deterioro del medio ambiente y los recursos naturales;
 
-V. La Educación, por su capacidad transformadora, es un medio que permite a los Seres Humanos valorar su medio y su entorno desde una perspectiva ética, respetar la vida en todas sus manifestaciones, el aprovechamiento sustentable de los recursos naturales y la construcción de sociedades más justas y participativas;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+V. La educación, por su capacidad transformadora, en un medio que permite a los Seres Humanos valorar su medio y su entorno desde una perspectiva ética, respetar la vida en todas sus manifestaciones, el aprovechamiento sustentable en los recursos naturales y la construcción de sociedades más justas y participativas; deberá ser prioridad en la política ambiental estatal y en los instrumentos que de esta Ley se deriven;
 
 VI. Las autoridades del Estado y de los Municipios garantizarán, mediante procedimientos ágiles y expeditos, el acceso de los ciudadanos a la información sobre el ambiente y la participación corresponsable de las personas y grupos sociales organizados en las materias que regula la presente Ley;
 
@@ -689,7 +713,13 @@ IX. La coordinación entre las dependencias y entidades de la administración p�
 
 X. Garantizar los espacios y mecanismos de participación activa y corresponsable de la sociedad;
 
-XI. Quienes generen residuos deben realizar acciones tendientes a prevenir su generación, fomentar su vaporización y lograr una gestión integral ambientalmente adecuada de los mismos, así como tecnológica, económica y socialmente viables, de conformidad con las disposiciones de esta Ley y de su Reglamento en materia de prevención y gestión integral de los residuos.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XI. Quienes generen residuos deben realizar acciones tendentes a prevenir su generación, fomentar su vaporización y lograr una gestión integral ambientalmente adecuada de los mismos, así como tecnología, económica y socialmente viables, de conformidad con las disposiciones de esta Ley y de su Reglamento en materia de prevención y gestión integral de los residuos; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XII. El desarrollo socioeconómico del Estado debe basarse en el concepto y los principios del desarrollo sustentable y economía circular.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -701,25 +731,27 @@ XI. Quienes generen residuos deben realizar acciones tendientes a prevenir su ge
 
 En la planeación del desarrollo integral y sustentable estatal y municipal serán considerados los principios de política ambiental que establece esta Ley y demás ordenamientos en la materia.
 
-En concordancia con lo establecido en la Ley Estatal de Planeación y el Plan Estatal de Desarrollo y los principios a que se refiere el párrafo anterior deberá elaborarse el Programa Estatal y los Programas Municipales para la Prevención y Gestión Integral de los Residuos, los Programas de Ordenamiento Ecológico, los Planes de Desarrollo Urbano y los Planes de Control del Uso del Suelo.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+En concordancia con lo establecido en la Ley General, la Ley General para la Prevención y Gestión Integral de los Residuos, la presente Ley, la Ley de Planeación para el Desarrollo del Estado de Aguascalientes, el Plan de Desarrollo Estatal y los principios a que se refiere el párrafo anterior deberá elaborarse el Programa Estatal y los Programas Municipales para la Prevención y Gestión Integral de los Residuos, los Programas de Ordenamiento Ecológico, los Planes de Desarrollo Urbano.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
-La Secretaría formulará, ejecutará y evaluará periódicamente, en coordinación con los diferentes sectores involucrados en las acciones de protección ambiental, el Programa Sectorial Ambiental, el cual contendrá las estrategias y acciones prioritarias para la ejecución de la política ambiental estatal e integrará las acciones de los diferentes sectores.
+La secretaría dentro del primer semestre de la administración estatal, formulará en coordinación con los diferentes sectores involucrados en las acciones de protección ambiental, el Programa Estatal Sectorial Ambiental, el cual contendrá las estrategias y acciones prioritarias para la ejecución de la política ambiental estatal e integrará las acciones de los diferentes sectores; asimismo, se implementará y evaluará periódicamente, realizándose los ajustes qué correspondan, por lo menos durante el primer semestre del cuarto año de la administración estatal.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 14.
 
-Los Planes y Programas de Desarrollo Urbano deberán tomar en cuenta los lineamientos y estrategias contenidas en la Política Ambiental de la presente Ley.
+Los Planes y Programas de Desarrollo Urbano deberán tomar en cuenta los principios e instrumentos de la política ambiental estatal, así como las demás disposiciones contenidas en la presente Ley, y las que establezcan el Programa de Ordenamiento y los Programas Municipales de Ordenamiento.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
-El Gobierno Estatal y los Ayuntamientos promoverán la participación ciudadana de los distintos grupos sociales en la elaboración de los programas estatales y municipales respectivamente, que tengan por objeto la conservación, preservación, protección y restauración del ambiente, a través de foros de consulta y del Consejo Consultivo correspondiente.
+El Gobierno Estatal y los Ayuntamientos deberán garantizar la promoción de la participación ciudadana de los distintos grupos sociales en la elaboración de los programas estatales y municipales respectivamente, que tengan por objeto la conservación, preservación, protección y restauración del ambiente, a través de foros de consulta y del Consejo Estatal correspondiente. Dichas acciones serán documentadas y resguardadas para su consulta, en términos de la Ley de Transparencia.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -771,7 +803,9 @@ La Secretaría someterá a consulta ciudadana, evaluará, formulará y expedirá
 
 I. La regionalización ecológica del territorio estatal y las diferentes políticas ambientales para el territorio del Estado, a partir del diagnóstico de las características, disponibilidad y demanda de los recursos naturales; de las actividades productivas que en ella se desarrollen; así como de la ubicación y situación de los asentamientos humanos existentes; y
 
-II. Los lineamientos y estrategias ambientales para que se lleven a cabo las políticas de conservación, protección, restauración, rehabilitación y aprovechamiento sustentable de los recursos naturales y antropogénico, así como para la localización de actividades productivas, de servicios y de los asentamientos humanos.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+II. Los lineamientos y estrategias ambientales para que se lleven a cabo las políticas de preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales, así como para la localización y realización de actividades productivas, y de los asentamientos humanos.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -807,25 +841,41 @@ Los diferentes programas de ordenamiento ecológico, tendrán por objeto:
 
 I. La delimitación del área o región a ordenar, describiendo sus atributos físicos, bióticos y socioeconómicos, así como el diagnóstico integrado de sus condiciones ambientales y las tecnologías utilizadas por los habitantes del área;
 
-II. Regular los usos del suelo fuera de los límites de los centros de población, con el propósito de definir los espacios destinados a las actividades productivas y al desarrollo de los asentamientos humanos;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-III. Establecer los criterios de regulación ecológica para la conservación, preservación, restauración y aprovechamiento sustentable de los recursos naturales, a fin de que sean considerados en los planes o programas de desarrollo urbano;
+II. Regular los usos del suelo fuera de los límites de los centros de población, con el propósito de definir los espacios destinados a las actividades productivas y al desarrollo de los asentamientos humanos, así como definir los espacios destinados a la protección y preservación de la biodiversidad y los servicios ambientales de los ecosistemas estatales;
 
-IV. Hacer un análisis permanente del marco jurídico y administrativo enfocado al proceso de planeación territorial y sus implicaciones ambientales en, por lo menos, los próximos 30 años;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+III. Establecer los criterios de regulación ecológica para la preservación, protección, restauración y aprovechamiento sustentable de los recursos naturales, a fin de que sean considerados en los planes o programas de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+IV. Hacer un análisis permanente del marco jurídico y administrativo enfocado al proceso de planeación territorial y sus implicaciones ambientales en, por lo menos los próximos cinco años;
 
 V. Valorar de manera cuantitativa y cualitativa la problemática ambiental de la zona a ordenar;
 
-VI. Determinar las políticas ambientales y los criterios de regulación, para la conservación, protección, restauración, rehabilitación y aprovechamiento sustentable de los recursos naturales en las áreas de ordenamiento; así como para la realización de actividades productivas y la ubicación de los asentamientos humanos;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VI. Determinar las políticas y lineamientos ambientales; los criterios de regulación, para la preservación, protección, restauración, rehabilitación y aprovechamiento sustentable de los recursos naturales en las áreas de ordenamiento, así como para la realización de actividades productivas y la ubicación de los asentamientos humanos;
 
 VII. Los mecanismos de coordinación institucional y concertación social, que garanticen la participación del sector público, social y privado;
 
-VIII. Los mecanismos de evaluación y seguimiento de los proyectos derivados del ordenamiento;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-IX. La definición de los valores y las metas del desarrollo del área a ordenar;
+VIII. Los mecanismos para la evaluación y seguimiento de agenda ambiental derivados del Programa de Ordenamiento;
 
-X. La evaluación de oportunidades para el desarrollo de las actividades productivas y el establecimiento y crecimiento de los asentamientos, las posibilidades y consecuencias de la aplicación de tecnologías alternativas; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-XI. Los lineamientos para su ejecución, evaluación, seguimiento y actualización.
+IX. La definición de los lineamientos ambientales de cada Unidad de Gestión Ambiental;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+X. La evaluación de oportunidades para el desarrollo de las actividades productivas y el establecimiento y crecimiento de los asentamientos, las posibilidades y consecuencias de la aplicación de tecnologías alternativas para determinar las aptitudes sectoriales de las Unidades de Gestión Ambiental para el territorio a ordenas (sic); y
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XI. Establecer los lineamientos para su ejecución, evaluación y seguimiento y actualización.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -851,15 +901,19 @@ VI. Regularán los usos del suelo, incluyendo a ejidos, comunidades y pequeñas 
 
 VII. En los Programas de ordenamiento ecológico intermunicipal, se deberán establecer estrategias claras sobre la conurbación y el desarrollo de zonas metropolitanas.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-La formulación, expedición, ejecución y evaluación de los programas de ordenamiento ecológico estatal, intermunicipales y municipales se llevará a cabo de conformidad con lo dispuesto en la Ley de Planeación del Estado, el presente ordenamiento y el Reglamento del mismo.
+La formulación, expedición, ejecución y evaluación de los programas de ordenamiento ecológico estatal, intermunicipales y municipales se llevará a cabo de conformidad con lo dispuesto en la Ley de Planeación para el Desarrollo del Estado de Aguascalientes, el presente ordenamiento y el Reglamento del mismo.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 En la elaboración y revisión de los programas de ordenamiento ecológico deberá garantizarse la participación de la ciudadanía.
 
-El Consejo Consultivo Estatal de Gestión Ambiental organizará talleres de consulta y validación de los programas de ordenamiento ecológico, en el que podrán participar los representantes de los diferentes sectores, según los mecanismos que se establezcan en el Reglamento de la presente Ley.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
+El Consejo Estatal para la Protección del Medio Ambiente organizará talleres de consulta y validación de los programas de ordenamiento ecológico, en el que podrán participar los representantes de los diferentes sectores, según los mecanismos que se establezcan en el Reglamento de la presente Ley.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -897,19 +951,29 @@ V. La creación de áreas naturales protegidas; y
 
 VI. La ampliación o apertura de zonas agrícolas o de uso pecuario y en general en los cambios de uso de suelo fuera de los centros de población.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 30.
 
-Los programas de desarrollo urbano estatal y municipales, deberán considerar los siguientes criterios:
+Los programas de desarrollo urbano estatal y municipales deberán considerar los siguientes criterios de regulación ecológica:
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. En las áreas que se determinen como aptas para uso industrial, próximas a áreas habitacionales, se promoverá solamente la instalación de industrias no riesgosas que utilicen tecnologías y combustible que permitan que sus emisiones contaminantes estén por debajo de los lineamientos máximos permisibles;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 II. En la determinación de usos de suelo que definan los programas de desarrollo urbano respectivos, se considerarán las condiciones topográficas, climatológicas y meteorológicas, para asegurar la adecuada dispersión de contaminantes;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 III. La adecuada proporción que debe existir entre las áreas verdes y las construcciones destinadas;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 IV. La integración de inmuebles de alto valor histórico y cultural, con áreas verdes y zonas de convivencia social; y
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 V. La poca disponibilidad de agua en el Estado.
 
@@ -917,11 +981,11 @@ V. La poca disponibilidad de agua en el Estado.
 
 ### CAPÍTULO IV. Evaluación del Impacto Ambiental
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 31.
 
-La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece las condiciones a las que se sujetará la realización de obras o actividades que puedan causar daños al ambiente o rebasar los límites y condiciones establecidas en las disposiciones aplicables para proteger el ambiente; preservar y restaurar los ecosistemas, a fin de evitar o reducir y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente.
+La evaluación del impacto ambiental es el procedimiento a través del cual la Secretaría establece las condiciones a las que sujetará la realización de obras o actividades que puedan causar daños al ambiente o rebasar los límites y condiciones establecidas en las disposiciones aplicables para proteger el ambiente; así como preservar y restaurar los ecosistemas, a fin de evitar o reducir y restaurar los ecosistemas. A fin de evitar o reducir al mínimo sus efectos negativos sobre el ambiente.
 
 Los instrumentos de evaluación del impacto ambiental son el informe preventivo y el Manifiesto de Impacto Ambiental.
 
@@ -939,7 +1003,9 @@ IV. Zonas y parques industriales donde no se realicen actividades altamente ries
 
 V. Actividades consideradas riesgosas en los términos de esta Ley;
 
-VI. La construcción y operación de instalaciones de acopio, comercialización, tratamiento, reciclado, confinamiento, disposición final y transporte de residuos no peligrosos;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VI. La construcción y operación de instalaciones de acopio, comercialización, tratamiento, reciclado, confinamiento, disposición final y transporte de residuos sólidos urbanos y residuos de manejo especial;
 
 VII. Las obras o actividades que puedan causar daños al ambiente, que estando reservadas a la Federación, se descentralicen a favor del Estado;
 
@@ -955,13 +1021,15 @@ XII. Empresas del sector comercial y servicios no consideradas riesgosas;
 
 XIII. Aprovechamiento de minerales o sustancias no reservados a la Federación, que constituyan depósitos de naturaleza semejante a los componentes de los terrenos, tales como rocas o productos de su desintegración y suelo, para la fabricación de materiales para la construcción u ornato; y
 
-XIV. Microempresas industriales de los giros establecidos en el Reglamento.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+XIV. Todas aquellas que se establezcan en el Reglamento de la materia.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 32.
 
-No estarán sujetas a la presentación de un Manifiesto de Impacto Ambiental, sino a un informe preventivo, las obras o actividades que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen deterioro ambiental, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación y protección del ambiente; las obras y actividades que deberán presentar un Informe Preventivo serán determinados en el Reglamento respectivo de ésta Ley y deberán acreditarse de manera fehaciente e indubitable, a través del procedimiento idóneo que el Reglamento mencionado establezca, incluyéndose en éste acciones de inspección a través de la Procuraduría, en uso de la facultad que le concede la Ley de la Procuraduría Estatal de Protección al Ambiente.
+No están sujetas a la presentación de un Manifiesto de Impacto Ambiental, sino a un informe preventivo, las obras o actividades que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen deterioro ambiental, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación y protección del ambiente; las obras y actividades que deberán presentar un Informe Preventivo serán determinados en el Reglamento respectivo de ésta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -989,11 +1057,11 @@ IX. Ladrilleras.
 
 En estos casos la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso del suelo, construcciones, fraccionamientos, u otros que establezcan los reglamentos municipales y disposiciones que de ellos se deriven. Dichos ordenamientos proveerán lo necesario a fin de hacer compatible la política ambiental con la de desarrollo urbano y evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 34.
 
-Para obtener autorización en materia de impacto ambiental, los interesados, previo al inicio de cualquier obra o actividad, deberán presentar ante la Secretaría, un informe preventivo o manifestación de impacto ambiental, la cual deberá contener, por lo menos, una descripción documentada y fundamentada de los posibles efectos en el ambiente que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que lo conforman, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente.
+Para obtener autorización en materia de impacto ambiental, los interesados, previo al inicio de cualquier obra o actividad, deberán presentar ante la Secretaría, un informe preventivo o manifestación de impacto ambiental, la cual deberá contener, una descripción documentada y fundamentada de los posibles efectos en el ambiente que pudieran ser afectados por la obra o actividad de que se trate, considerando el conjunto de los elementos que lo conforman, así como las medidas preventivas, de mitigación y las demás necesarias para evitar y reducir al mínimo los efectos negativos sobre el ambiente; y las demás que se establezcan en el Reglamento de la materia.
 
 Cuando se trate de actividades consideradas riesgosas, según la enumeración hecha en el Reglamento respectivo y de acuerdo con los términos de esta Ley, el manifiesto de impacto ambiental deberá incluir el estudio de riesgo correspondiente.
 
@@ -1017,7 +1085,9 @@ Una vez que la autoridad competente reciba un instrumento de evaluación de impa
 
 Los promoventes de la obra o actividad podrán requerir que se mantenga en reserva la información que haya sido integrada al expediente y que, de hacerse pública, pudiera afectar derechos de propiedad industrial, y la confidencialidad de la información comercial que aporte el interesado.
 
-La autoridad competente, a solicitud de cualquier persona y dentro del término referido en el primer párrafo de este Artículo deberá llevar a cabo, una consulta pública, conforme a las siguientes bases:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JULIO DE 2024)</small>
+
+La autoridad competente, a solicitud de cualquier persona y dentro del término referido en el primer párrafo de este Artículo deberá solicitar opinión técnica al Consejo Estatal para la Protección del Medio Ambiente, para posteriormente llevar a cabo, una consulta pública, conforme a las siguientes bases:
 
 I. Que prevea el aprovechamiento masivo de los recursos naturales del Estado;
 
@@ -1029,7 +1099,9 @@ IV. Cuando se trate de rellenos sanitarios;
 
 V. Cuando se trate de plantas de tratamiento de aguas residuales destinadas a la prestación de un servicio público; y
 
-VI. Las demás que señale el Consejo Consultivo Estatal de Gestión Ambiental.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VI. Las demás que señalé el Consejo Estatal para la Protección del Medio Ambiente.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -1041,11 +1113,11 @@ Durante el proceso de evaluación de impacto ambiental, la Secretaría podrá so
 
 El esquema y los procedimientos para la consulta pública se llevarán a cabo conforme a lo señalado en el Reglamento respectivo de la presente Ley.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 37.
 
-Una vez recibido el instrumento de evaluación ambiental, la autoridad competente, en un plazo no mayor a 15 días hábiles, deberá comunicar a los interesados si necesita mayor información o bien emitirá la resolución respectiva dentro del término que ésta Ley señala. En caso de requerir mayor información, la autoridad comunicará al promoverte que cuenta con un plazo de 10 días para cumplir con el requerimiento de proporcionar información adicional. En caso de que el promovente no presente la información solicitada en el término señalado, la autoridad desechará el trámite.
+Una vez recibido el instrumento de evaluación ambiental, la autoridad competente, en un plazo no mayor de 15 días hábiles, deberá comunicar a los interesados si necesita mayor información o bien emitirá la resolución respectiva dentro del término que esta Ley señala. En caso de requerir mayor información, la autoridad comunicará al promovente que cuenta con un plazo 10 días hábiles para proporcionar la información adicional. En caso de que el promovente no presente la información solicitada en el término señalado, la autoridad desechará el trámite.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -1057,35 +1129,55 @@ La Secretaría notificará, dentro de los 3 días hábiles siguientes a la recep
 
 El Municipio deberá emitir su opinión en un término de 10 días hábiles para el informe preventivo y 15 días hábiles para el manifiesto de impacto ambiental, pasado éste sin que el municipio haya respondido, se entenderá que no existe objeción respecto de la realización de la obra o actividad.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 39.
 
-Al evaluar el informe preventivo y la manifestación de impacto ambiental, la autoridad competente se ajustará, entre otros aspectos, a los programas de ordenamiento ecológico del territorio, así como las declaratorias de áreas naturales protegidas y las demás disposiciones jurídicas que resulten aplicables.
+Al evaluar el informe preventivo y la manifestación de impacto ambiental, la autoridad competente se ajustará, entre otros aspectos, a los programas de ordenamiento ecológico y de desarrollo urbano del territorio, así como a las declaratorias de áreas naturales protegidas y las demás disposiciones jurídicas que resulten aplicables.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 40.
 
-Una vez evaluada la manifestación de impacto ambiental, la autoridad competente emitirá, debidamente fundada y motivada, la resolución correspondiente, en la que podrá:
+Una vez evaluado el informe preventivo y/o la manifestación de impacto ambiental y en su caso el estudio de riesgo ambiental, la autoridad competente emitirá, debidamente fundada y motivada, la resolución correspondiente, en la que se podrá:
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. Autorizar la realización de la obra o actividad de que se trate;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 II. Autorizar la realización de las obras y actividades de que se trate, condicionándose a la modificación de proyecto o al establecimiento de medidas adicionales de prevención y mitigación, a fin de que se eviten, atenúen o compensen los impactos ambientales adversos susceptibles de ser producidos en la ejecución de la obra o actividad, así como en caso de accidentes;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 III. Autorizar parcialmente la realización de la obra o actividad, cuando fuere posible; o
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 IV. Negar la autorización solicitada, cuando:
 
-a) Se contraponga a lo establecido en esta Ley, sus reglamentos, las normas oficiales mexicanas y demás disposiciones legales aplicables;
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
+a) Se contraponga a lo establecido en esta Ley, sus Reglamentos, las normas oficiales mexicanas y demás disposiciones legales aplicables; considerando a su vez lo relativo a las regulaciones sobre uso y destinos de suelo;
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 b) La obra o actividad de que se trate pueda propiciar que una o más especies sean declaradas como amenazadas, o en peligro de extinción, o cuando se afecte a uno o más de dichas especies;
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 c) Exista falsedad en la información proporcionada por los promoventes, respecto de los impactos ambientales de la obra o actividad de que se trate;
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 d) Se determine fehacientemente que los impactos ambientales negativos significativos no son mitigables y ponen en riesgo inminente a la población y al ambiente;
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 e) Se encuentren dentro del área a impactar, ecosistemas frágiles, humedales, y otros que en determinado momento hospeden especies migratorias; o
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 f) Existan en las zonas sujetas cambios o impactos, aprovechamientos forestales de especies de difícil regeneración.
 
@@ -1107,7 +1199,9 @@ Los resultados de la consulta pública deberán ser tomados en consideración po
 
 En aquellos casos en los que se inicie el desarrollo de una obra o actividad sin contar con la autorización correspondiente en materia de impacto ambiental, emitida por la autoridad correspondiente en los términos que la presente Ley establece, la Secretaría podrá requerir, posteriormente a la intervención de la Procuraduría, un Estudio de Daño Ambiental, en el cual se den a conocer los efectos negativos y/o daños ambientales que se presentaron o se han presentado a consecuencia del desarrollo de la misma, indicando además la forma en que serán eliminados, controlados, mitigados o compensados, según sea el caso. Esto sin perjuicio de las sanciones a las que se haga acreedor, de conformidad con lo establecido en la presente Ley, sus reglamentos y demás disposiciones legales aplicables.
 
-En el supuesto caso de que las actividades previstas no se hubieren concluido en su totalidad, el Estudio de Daño Ambiental deberá incluir un apartado en el cual se haga una valoración de los impactos ambientales que ésta generara y se indique la forma de evitarlos, mitigarlos o compensarlos.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
+En el supuesto caso de que las actividades previstas no se hubieren concluido en su totalidad, el Estado (sic) de Daño Ambiental deberá incluir un apartado en el cual se haga una valoración de los impactos ambientales generados y se indique la forma de evitarlos, mitigarlos o compensarlos; a fin de que la autoridad determine lo procedente.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1133,11 +1227,11 @@ La regulación de los prestadores de servicios en materia de impacto ambiental e
 
 ### CAPÍTULO V. Autorregulación y Auditoría Ambiental
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 45.
 
-La Procuraduría fomentará programas de autorregulación y auditoría ambiental y promoverá la aplicación de incentivos, a quienes participen en dichos programas, en términos de lo dispuesto por el reglamento en la materia.
+La Procuraduría fomentará programas de autorregulación y auditoría ambiental, y en conjunto con otras dependencias y/o entidades de gobierno y promoverá la aplicación de incentivos a quienes participen en dichos programas, en términos de lo dispuesto por el reglamento en la materia.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1191,27 +1285,43 @@ En todo caso, deberán observarse las disposiciones legales relativas a la confi
 
 ### CAPÍTULO VI. Instrumentos Económicos
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 48.
 
-El Instituto tendrá a su cargo la administración de un fondo ambiental, el cual será creado de conformidad con la legislación ambiental respectiva, cuyos recursos se destinarán a:
+La Secretaría tendrá a su cargo la administración de un fondo ambiental, el cual será creado de conformidad con la legislación ambiental respectiva, cuyos recursos se destinarán a:
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. La realización de acciones en materia de biodiversidad para promover y fomentar actividades de investigación científica, con fines de exploración, estudio, protección y utilización de los recursos biológicos, para conservar los ecosistemas del Estado, su restauración y manejo racional;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 II. El desarrollo de programas vinculados con inspección y vigilancia en las materias a que se refiere esta Ley;
 
-III. El desarrollo de programas de educación e investigación en materia ambiental;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-IV. Otorgar incentivos a quien realice acciones para conservación, preservación y restauración del medio ambiente y los recursos naturales; y
+III. El desarrollo de programas de educación e investigación en materia ambiental; incluyendo el financiamiento e inversión en los Centros de Educación y Cultura Ambiental a cargo de la Secretaría;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+IV. Incentivos a quien realice acciones para preservación y restauración del medio ambiente y los recursos naturales; mediante las reglas de operación aplicables que emita la Secretaría;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 V. Promover una mayor equidad social en la distribución de costos y beneficios asociados a los objetivos de la política ambiental.
 
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 Este fondo podrá adoptar, para su constitución e integración, la forma del fideicomiso.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 En ningún caso los instrumentos económicos se establecerán como instrumentos recaudatorios.
 
-El Instituto, con la participación del Consejo Consultivo, tendrá su cargo la administración del mencionado fondo ambiental, y deberán informar sobre el ejercicio de los recursos de este, mediante los mecanismos de transparencia existentes en el Estado.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
+La Secretaría, con la participación del Consejo Estatal determinará el destino de los recursos, debiendo informar sobre el ejercicio de los recursos de éste, mediante los mecanismos de transparencia existentes en el Estado.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1237,15 +1347,41 @@ La Secretaría en coordinación con el Instituto de Educación de Aguascalientes
 
 El programa estatal de Educación Ambiental a que se refiere el párrafo anterior deberá incluir al menos los siguientes aspectos:
 
-I. Forestación y reforestación en lugares públicos parques recreativos y zonas que establezcan la Secretaria, el Instituto de Educación de Aguascalientes y la Secretaría de Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-II. Cuidado del agua;
+I. Los contenidos establecidos en los acuerdos internacionales vigentes y estrategias naciones e internacionales;
 
-III. Clasificación de residuos sólidos urbanos establecidos por la Secretaria de Medio Ambiente y Recursos Naturales;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-IV. Reciclaje; y
+II. Cuidado y preservación del agua;
 
-V. Disminución de la generación de residuos.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+III. Consumo responsable, disminución de la generación de residuos y su clasificación y gestión integral por la Secretaría;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+IV. Reciclaje, cambio climático y uso eficiente de energía;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+V. Biodiversidad;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VI. Suelo;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VII. Cultura forestal con énfasis en el uso de especies nativas;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VIII. Priorizar un modelo de economía circular y desarrollo sustentable en el Estado; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+IX. Calidad del aire.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
 
@@ -1261,17 +1397,17 @@ Las autoridades competentes promoverán, certificarán y reforzarán que los pro
 
 La educación ambiental, en cualquiera de sus modalidades, deberá basar sus contenidos en la agenda de prioridades de la problemática ambiental local.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 51.
 
-La Secretaría de Gobierno, a través de la Dirección General del Trabajo, en coordinación con la Secretaría, incorporará como temáticas prioritarias la protección ambiental y el manejo sustentable de los recursos naturales en sus programas de desarrollo de personal, asistencia técnica y mejoramiento de la calidad, productividad y competitividad en las empresas. Asimismo, adoptará las medidas necesarias para que las comisiones mixtas de seguridad e higiene incluyan dentro de sus responsabilidades la protección de la calidad del ambiente.
+La Secretaría General de Gobierno, a través de la Dirección General del Trabajo, en coordinación con la Secretaría, incorporará como temáticas prioritarias tales (sic) la protección ambiental, la biodiversidad y el manejo sustentable de los recursos naturales en los programas de desarrollo de personal, asistencia técnica y mejoramiento de la calidad, productividad y competitividad en las empresas. Asimismo, adoptará las medidas necesarias para que las comisiones mixtas de seguridad e higiene incluyan dentro de sus responsabilidades la protección de la calidad del ambiente y un modelo de gestión ambiental sustentable encaminado a un modelo de economía circular global.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 52.
 
-Fomentar la información y educación sobre el impacto ambiental producido por los plásticos no biodegradables, así como fomentar la utilización de materiales biodegradables, contribuyendo de esta manera a la minimización en la generación y disposición de residuos.
+La Secretaría fomentará la información y educación sobre el impacto ambiental producido por los plásticos no biodegradables y el consumo irresponsable, contribuyendo de esta manera a la educación para la minimización en la generación y disposición de residuos.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1297,31 +1433,45 @@ IV. La formación, especialización y actualización de profesionistas en el ár
 
 Los Gobiernos Estatal y Municipal incentivarán:
 
-I. La difusión, a través de los medios de comunicación masiva, de los programas y campañas educativas y de información acerca de temas ambientales procedentes de sectores no formales de la sociedad;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-II. La participación de las escuelas, universidades, organismos no gubernamentales y demás sectores organizados de la sociedad en programas y actividades vinculada con educación no formal;
+I. La comunicación educativa y la difusión, a través de los medios de comunicación masiva y digitales de los programas y campañas educativas y de información acerca de temas ambientales procedentes de sectores no formales de la sociedad;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+II. La participación de las escuelas, universidades, organismos no gubernamentales y demás sectores organizados de la sociedad civil en programas y actividades vinculadas con educación no formal;
 
 III. La participación de empresas públicas y privadas en la investigación sobre la materia ambiental, así como en el desarrollo del programa de educación ambiental;
 
-IV. Los programas de sensibilización ambiental dirigidos a agricultores, ganaderos, empresarios y a la ciudadanía general;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-V. El desarrollo de proyectos de ecoturismo;
+IV. La implementación de programas tendientes a la disminución de residuos reutilización, valorización, reciclaje, reutilización y rediseño de productos o procedimientos basado (sic) en un esquema de economía circular y consumo responsable.
 
-VI. La implementación de programas tendientes a disminuir la generación de residuos; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+V. El desarrollo de proyectos de ecoturismo, turismo de aventura y biocultural;
 
-VII. La implementación de programas que fomenten la separación de residuos desde el lugar de su generación y con base en estos deberán capacitar a sus servidores públicos en la materia, a efecto de que cuenten con los conocimientos necesarios para clasificarlos, determinando las acciones a realizar según su naturaleza.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VI. La implementación de programas tendientes a disminuir la generación de residuos y consumo responsable;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VII. La implementación de programas que fomenten la separación de residuos desde el lugar de su generación y con base en estos deberán capacitar a sus servidores públicos en la materia, a efecto de que cuenten con los conocimientos necesarios para clasificarlos, determinando las acciones a realizar según la naturaleza; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VIII. La implementación de programas de gestión ambiental en centros escolares, dependencias gubernamentales y sector privado.
 
 > <small>(REFORMADA Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN TERCERA. Educación Informal
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 55.
 
-Los Gobiernos Estatal y Municipales promoverán y reforzarán la creación de espacios de sensibilización, información y educación ambiental en los medios masivos de comunicación. Los contenidos de dichos espacios serán desarrollados por especialistas en las diferentes materias que ello implique y por representantes de los diferentes sectores sociales relacionados con la educación ambiental.
+Los Gobiernos Estatal y Municipales promoverán y reforzarán la comunicación educativa a través de la creación de espacios de sensibilización, información y educación ambiental en los medios masivos de comunicación. Los contenidos de dichos espacios serán desarrollados por especialistas en las diferentes materias que ello implique y por representantes de los diferentes sectores sociales relacionados con la educación ambiental.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -1617,6 +1767,10 @@ Su objetivo primario es mantener, conservar y restaurar especies y hábitats. Ad
 
 En esta categoría se pueden proteger especies concretas, que habitualmente se encuentran amenazadas; protección de hábitats: mantener o restaurar hábitats que a menudo son fragmentos de ecosistemas; gestión activa para mantener especies particulares: mantener poblaciones viables de especies concretas, lo que puede incluir la creación y mantenimiento de hábitats artificiales alimentación suplementaria u otros sistemas de gestión activa; gestión activa de ecosistemas naturales o seminaturales: mantener hábitats naturales o seminaturales que o son demasiado pequeños o están demasiado profundamente afectados como para ser autosustentables y la gestión activa de ecosistemas definidos culturalmente: mantener sistemas de gestión cultural cuando los mismos presentan una biodiversidad asociada singular. La intervención continua resulta necesaria porque el ecosistema ha sido creado o al menos sustancialmente modificado por la gestión. El objetivo primario de gestión es el mantenimiento de la biodiversidad asociada.
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2024)</small>
+
+V. Corredores Biológicos. Son territorios conformados por áreas, pasajes y zonas de conectividad, con alto valor de provisión de servicios ecosistémicos. En ellos se impulsa como política la gestión territorial sostenible, transectorial y multifactores, centrada en proteger el patrimonio natural y cultural, mejorar la calidad de vida de los habitantes y elevar la capacidad de adaptación ante el cambio climático.
+
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 67.
@@ -1707,11 +1861,11 @@ Para coadyuvar en la conservación, administración, manejo, desarrollo y vigila
 
 La Secretaría, a través del Sistema y los acuerdos de coordinación que correspondan, podrá ejercer la administración de las Áreas Naturales Protegidas comprendidas dentro del territorio estatal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 78.
 
-La Secretaría podrá establecer el cobro del uso de servicios ambientales provenientes de las áreas naturales protegidas ubicadas en su territorio y dentro de su competencia, los mecanismos de cobro se establecerán en el Reglamento respectivo.
+La Secretaría establecerá el cobro del uso de servicios ambientales provenientes de las áreas naturales protegidas en su territorio y dentro de su competencia, los mecanismos de cobro se establecerán en el Reglamento respectivo.
 
 El costo de los servicios obedecerá a la dimensión de los programas y proyectos aprobados por las autoridades responsables. Los recursos obtenidos por este concepto pasarán a formar parte del Fondo Ambiental del Estado y se destinarán, de acuerdo a su disponibilidad a los siguientes fines exclusivos:
 
@@ -1731,7 +1885,9 @@ V. Los fines que establezca el fondo ambiental del Estado.
 
 Los recursos económicos que ingresen al Sistema por cualquier concepto, se administrarán por medio del Fondo Ambiental del Estado.
 
-El Instituto, a través del área que el determine coordinará el Sistema de Áreas Naturales Protegidas del Estado, para definir los programas operativos anuales y sus presupuestos, de manera que el Sistema se fortalezca en su integridad.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
+La Secretaría, a través del área que determine, coordinará el Sistema de Áreas Naturales Protegidas del Estado para definir los programas operativos anuales y sus presupuestos, de manera que el Sistema se fortalezca en su integridad.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2169,6 +2325,10 @@ d) Suscribir convenios y acuerdos de coordinación con la federación, otros est
 
 e) Llevar un registro estatal del arbolado, con acceso al público y de las personas autorizadas para prestar algún servicio en materia del arbolado urbano;
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+f) Realizar una paleta vegetal o natural de especies de arbustos y plantas para reforestación urbana;
+
 II. Elaborar y evaluar los programas, planes y acciones en materia de cuidado, conservación y protección del arbolado urbano, y los que se deriven de los convenios celebrados para su conservación;
 
 III. Hacer del conocimiento de las autoridades competentes, y en su caso, denunciar ante los órganos competentes las infracciones que se cometan en materia de cuidado, conservación y protección del arbolado urbano;
@@ -2305,37 +2465,65 @@ Las restituciones económicas y lo cobrado al solicitante por los servicios que 
 
 ## TÍTULO QUINTO. APROVECHAMIENTO SUSTENTABLE DE ELEMENTOS NATURALES
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 112.
 
-La Secretaría propondrá ante el Ejecutivo del Estado, la celebración de acuerdos y convenios para el establecimiento de programas que permitan el ahorro de energía y su utilización eficiente, conforme a los principios establecidos en la presente Ley.
+La Secretaría propondrá ante el Ejecutivo del Estado la celebración de acuerdos con las diferentes instancias de gobierno para migrar hacia el uso de energías limpias en sus inmuebles y el establecimiento de programas para el ahorro de energía y su utilización eficiente.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
 ### CAPÍTULO I. Aprovechamiento del Agua
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 113.
 
-Para el aprovechamiento sustentable de las aguas de competencia estatal, así como el uso adecuado del agua que se utiliza en los centros de población, se considerarán los criterios establecidos en la Ley General, así como los siguientes:
+Para el aprovechamiento sustentable de las aguas de competencia estatal, así como el uso adecuado del agua que se consume en los centros de población, se considerarán los criterios establecidos en la Ley General, la Ley de Aguas Nacionales, los Planes Hídricos, así como las siguiente (sic)
 
-I. El agua debe ser aprovechada y distribuida con equidad y eficiencia;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-II. Las aguas residuales deberán ser tratadas para prevenir la afectación del ambiente y los ecosistemas;
+I. El agua debe ser aprovechada, utilizada y distribuida prioritariamente para fines esenciales como la producción de alimentos, cobertura de servicios básicos, salvaguarda de los ecosistemas y sistemas productivos;
 
-III. Se promoverá el reuso del agua y el aprovechamiento del agua tratada como una forma eficiente de utilizar y preservar el recurso;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-IV. El aprovechamiento del agua pluvial;
+II. Las aguas residuales deberán ser tratadas para prevenir afectaciones al ambiente, los ecosistemas y a la salud;
 
-V. La calidad del agua deberá ser adecuada para cada uso que se destinen, de acuerdo con los criterios vigentes en la materia;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-VI. Fomentar el uso y cuidado de las aguas superficiales, priorizando el uso de estas a las subterráneas;
+III. Se promoverá el reúso del agua y el aprovechamiento del agua tratada como estrategia para preservar este recurso;
 
-VII. Promover el establecimiento de actividades económicas que sólo utilicen el agua para servicios sanitarios y limpieza o que el agua sea parte de su producto; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-VIII. Promover el cambio a sistemas y cultivos de bajo consumo de agua.
+IV. Se deberá aprovechar las aguas pluviales;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+V. La calidad de las aguas deberá ser adecuada para cada uso que se destinen, de acuerdo con la normativa vigente y las condiciones particulares que se determinen;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VI. Se promoverá la reducción del consumo de agua subterránea a cambio de aprovechar aguas superficiales;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VII. Se promoverá y facilitará el establecimiento de giros productivos que minimicen el uso de agua de primer uso y/o que reutilicen el recurso en sus procesos;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VIII. Se promoverá y facilitará la reconversión de cultivos con la finalidad de disminuir el consumo de agua;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2024)</small>
+
+IX. Se fomentará en las instituciones educativas locales el desarrollo de tecnologías en materia de uso y aprovechamiento del agua;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2024)</small>
+
+X. Promover la recirculación del recurso hídrico en los procesos productivos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE JULIO DE 2024)</small>
+
+XI. El aprovechamiento sustentable deberá partir del análisis del ciclo hidrológico y las condiciones climáticas del Estado.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2351,17 +2539,27 @@ III. El otorgamiento de autorizaciones para la desviación, extracción o deriva
 
 IV. El otorgamiento de autorizaciones para el aprovechamiento de aguas competencia del Estado;
 
-V. La operación y administración de los sistemas de agua potable y alcantarillado que sirven a los centros de población e industrias;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-VI. Los programas de desarrollo urbano y vivienda; y
+V. La operación y administración de los sistemas de agua potable y alcantarillado que sirven a los centros de población y a las actividades productivas reguladas por el Estado;
 
-VII. El diseño de los conjuntos habitacionales.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+VI. Los programas de desarrollo urbano;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VII. El diseño de los conjuntos habitacionales; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VIII. Los programas de Ordenamiento.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 115.
 
-Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, las autoridades competentes promoverán el ahorro y uso eficiente del agua, el tratamiento de aguas residuales y su reuso.
+Con el propósito de asegurar la disponibilidad del agua y abatir los niveles de desperdicio, las autoridades competentes promoverán el ahorro y uso eficiente del agua, así como el tratamiento de aguas residuales y su aprovechamiento.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -2393,11 +2591,11 @@ La Secretaría, en coordinación con las autoridades competentes, participará y
 
 El Ejecutivo del Estado promoverá que el uso eficiente del agua en las actividades agropecuarias, industriales, de servicios y centros de población, tenga como finalidad alcanzar el equilibrio entre la extracción y la recarga.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 121.
 
-No podrán establecerse en el Estado empresas altamente demandantes de agua, quedando su autorización sujeta a la aprobación por parte de la Secretaría y los organismos reguladores del agua con base a la evaluación del Manifiesto de Impacto Ambiental.
+Podrán establecerse en el Estado empresas altamente demandantes de agua, quedando su autorización sujeta a la aprobación por parte de la Secretaría y los organismos operadores del agua con base a la evaluación del Manifiesto de Impacto Ambiental. Asimismo, en caso de que proceda deberán de sujetarse a lo establecido en su dictamen de impacto ambiental y acatar las condicionantes establecidas.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -2409,25 +2607,41 @@ Para la apertura y crecimiento de zonas agrícolas altamente demandantes de agua
 
 ### CAPÍTULO II. Aprovechamiento del Suelo
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 123.
 
-Para la preservación, protección y aprovechamiento sustentable del suelo, se considerarán los criterios establecidos en la Ley General, así como los siguientes:
+Para la preservación, protección, uso y aprovechamiento sustentable del suelo, se considerarán los criterios establecidos en la Ley General, en la Ley General de Desarrollo Forestal Sustentable, en los Ordenamientos Ecológicos y Territoriales, así como los siguientes:
 
-I. El suelo debe ser compatible con su vocación natural y no alterar el ambiente;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-II. El uso de los suelos debe hacerse de manera que éstos mantengan su integridad física y su capacidad productiva;
+I. Los usos que se le den al suelo deben ser de acuerdo a sus propiedades edáficas, topográficas e híbricas (sic), buscando aprovechar al máximo sus características;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+II. Los asentamientos urbanos y las actividades que no requieren del suelo edáfico en sus procesos, deberán proteger este recurso de los impactos que genera su operación;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 III. Los usos productivos del suelo deben evitar prácticas que favorezcan la erosión, degradación o modificación de las características topográficas, con efectos ecológicos adversos;
 
-IV. En las acciones de preservación y aprovechamiento sustentable del suelo, deberán considerarse las medidas necesarias para prevenir o reducir la erosión, el deterioro de las propiedades físicas, químicas y biológicas del suelo y la pérdida de vegetación natural;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-V. En las zonas afectadas por fenómenos de degradación o desertificación deberán llevarse a cabo acciones de regeneración, recuperación y rehabilitación, a fin de restaurarlas;
+IV. En las acciones de preservación y conservación de suelos, deberán considerarse las medidas necesarias para prevenir o reducir la erosión, el deterioro de las propiedades físicas, químicas y biológicas del suelo y la pérdida de vegetación natural;
 
-VI. La realización de las obras públicas o privadas que por sí misma puedan provocar deterioro severo de los suelos, deberán incluir acciones equivalentes de regeneración, recuperación y restablecimiento de su vocación natural;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+V. En las zonas afectadas por procesos de degradación o desertificación deberán llevarse a cabo acciones de protección, restauración y preservación a fin de rehabilitarlas;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VI. La realización de las obras públicas o privadas que por su naturaleza puedan provocar deterioro de los suelos más allá de sus límites, deberán incluir acciones de restitución y regeneración de sus condiciones naturales.
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 VII. Debe evitarse el depósito y la acumulación de residuos por ser una fuente de contaminación de los suelos; y
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 VIII. Deben evitarse las prácticas que causen alteraciones en el suelo y perjudiquen su aprovechamiento o que provoquen riesgos o problemas de salud.
 
@@ -2437,17 +2651,25 @@ VIII. Deben evitarse las prácticas que causen alteraciones en el suelo y perjud
 
 Los criterios anteriores serán considerados en:
 
-I. Los programas de apoyo a las actividades agrícolas y pecuarias;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-II. La fundación de centros de población y el establecimiento de nuevos asentamientos humanos;
+I. Los programas de apoyo a las actividades agrícolas, pecuarias y forestales;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+II. El establecimiento de nuevos centros de población y el crecimiento de los centros urbanos y asentamientos humanos;
 
 III. El establecimiento de usos, reservas y destinos, en los programas de desarrollo urbano, así como en las acciones de restauración y conservación de los centros de población;
 
-IV. Las disposiciones, programas y lineamientos técnicos para la conservación, protección y restauración de los suelos, en las actividades agropecuarias, forestales e hidráulicas;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+IV. Las evaluaciones del impacto ambiental de obras, cambios de uso de suelo de competencia municipal y autorizaciones en el manejo de residuos;
 
 V. Las actividades y todas aquellas acciones que alteren los recursos naturales y la flora y fauna silvestre; y
 
-VI. La formulación de los programas de ordenamiento ecológico.
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VI. Los programas de ordenamiento en el uso y aprovechamiento del suelo.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2457,11 +2679,11 @@ Las actividades de exploración, explotación, extracción y aprovechamiento de 
 
 El desarrollo de estas actividades estará regulado por los procedimientos, lineamientos y acciones en materia de protección y restauración ambiental que para su efecto establezca la presente Ley y su Reglamento.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 126.
 
-En aquellas áreas que presenten procesos de degradación o desertificación, o grave deterioro ambiental, la Secretaría promoverá ante las autoridades federales competentes, la declaratoria para el establecimiento de zonas de restauración ecológica, en los términos de la Ley General, para lo cual deberán tomarse en cuenta los orígenes de la degradación o el grado de desertificación del suelo.
+La Secretaría, con el apoyo de las instancias involucradas, identificarán y delimitarán los sitios en proceso severo de degradación de suelos y promoverá, ante las autoridades competentes y los propietarios, el desarrollo de programas de restauración y rehabilitación.
 
 > <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2473,7 +2695,9 @@ En aquellas áreas que presenten procesos de degradación o desertificación, o 
 
 La Comisión Estatal para el Conocimiento, Conservación y uso Sustentable de la Biodiversidad establecerá los mecanismos sobre los cuales se podrá hacer uso y aprovechamiento sustentable de la biodiversidad del Estado y para ello se considerarán los siguientes criterios:
 
-I. La importancia de la preservación de la biodiversidad y del hábitat de las especies de flora y fauna que se encuentren en el territorio del Estado;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+I. La importancia de preservar, aprovechar sustentablemente y proteger la biodiversidad, así como hábitat y los servicios ambientales que proporciona con base en información científica actual y precisa;
 
 II. La necesidad de destinar áreas o sitios representativos de los sistemas ecológicos del Estado, a acciones de preservación e investigación para asegurar la continuidad de los procesos evolutivos de las especies de flora y fauna y demás recursos biológicos;
 
@@ -2483,9 +2707,17 @@ IV. Fomentar la creación de viveros y criaderos para la reproducción y repobla
 
 V. La importancia de la participación de las organizaciones sociales, públicas o privadas, y los demás interesados en la preservación de la biodiversidad;
 
-VI. El fomento al trato digno y respetuoso a las especies animales, con el propósito de evitar la crueldad en contra de éstas; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-VII. El fomento de actividades productivas alternativas para las comunidades que aprovechan estos recursos.
+VI. El fomento al trato digno y respetuoso a las especies animales, con el propósito de evitar la crueldad en contra de éstos;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VII. El fomento de actividades productivas alternativas para las comunidades que aprovechan estos recursos; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VIII. La importancia de establecer esquemas sustentables de aprovechamiento de la biodiversidad de las comunidades locales y los propietarios de los recursos.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2577,11 +2809,11 @@ La información contenida en el registro será útil además, para efectos de co
 
 La información registrada en cuanto a residuos sólidos urbanos y de manejo especial se refiere, será parte de la cédula de operación anual entregada por el responsable generador así como de los Planes de Manejo de dichos residuos, esto para el registro de residuos sólidos debiéndose informar en la fecha que la Secretaría le señale, de acuerdo con el Reglamento correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 134.
 
-El Estado a través de la Secretaría establecerá la Estrategia Estatal de Cambio Climático, para lo cual la Secretaría tendrá las siguientes facultades:
+El Estado a través de la Secretaría y de conformidad con lo establecido en la Ley de Cambio Climático para el Estado de Aguascalientes, establecerá la Estrategia Estatal de Cambio Climático para lo cual tendrá las siguientes facultades:
 
 I. Ser el punto de enlace y colaboración del estado, con la Estrategia Nacional e Internacional para combatir el Cambio Climático;
 
@@ -2617,15 +2849,15 @@ Para prevenir y controlar la emisión a la atmósfera de gases, partículas cont
 
 I. La calidad del aire debe ser satisfactoria en todos los asentamientos humanos y las regiones del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-II. Las emisiones de contaminantes a la atmósfera, provenientes de cualquier tipo de fuente deberán ser medidas y controladas para asegurar una calidad del aire necesaria para el bienestar de la población y protección al ambiente. En caso de declararse una Contingencia Ambiental, la Secretaría deberá informar de manera inmediata al Titular del Instituto de Educación de Aguascalientes, o a la autoridad educativa local correspondiente, con el fin de que ésta pueda tomar las medidas necesarias para proteger a los educandos en los planteles educativos;
+II. Las emisiones de contaminantes a la atmósfera, provenientes de cualquier tipo de fuente deberán ser medidas o estimadas y controladas para asegurar una calidad de aire necesaria para el bienestar de la población y protección al ambiente. En caso de declararse una Contingencia Ambiental, la Secretaría deberá informar de manera inmediata al Titular del Instituto de Educación de Aguascalientes, o a la autoridad educativa local correspondiente, con el fin de que ésta pueda tomar las medidas necesarias para proteger a los educandos en los planteles educativos;
 
 III. Al Estado, a los Municipios y a la sociedad les corresponde la protección de la calidad del aire;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-IV. Considerar programas de reforestación, verificación de las emisiones contaminantes, desarrollo y aplicación de tecnologías limpias apegadas a criterios ambientales y protección del suelo en busca de la ecoeficiencia, a fin de mantener la integridad de los componentes de la atmósfera;
+IV. Considerar programas de forestación, reforestación, verificación de las emisiones contaminantes, desarrollo y aplicación de tecnologías limpias, ecoeficiencia y protección del suelo, a fin de mantener la integridad de los componentes de la atmósfera;
 
 V. La conservación y el aprovechamiento sustentable de la atmósfera, es responsabilidad concurrente de las autoridades y ciudadanos;
 
@@ -2641,7 +2873,9 @@ VII. Las medidas necesarias para hacer frente al cambio climático deben basarse
 
 Los criterios anteriores serán considerados en:
 
-I. El ordenamiento ecológico del territorio, tanto en el Estatal como en el Intermunicipal y el Municipal. Así mismo, en la regulación y la designación de áreas y zonas industriales;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+I. Los programas de ordenamiento en la regulación y designación de áreas y zonas industriales;
 
 II. La clasificación de áreas o cuencas atmosféricas, de acuerdo a su capacidad de asimilación o dispersión, la carga de contaminantes que éstos puedan recibir y las afectaciones potenciales a la población o al ambiente, en concordancia con la clasificación que realice la Federación; y
 
@@ -2689,17 +2923,17 @@ III. Regular las emisiones de los vehículos automotores en circulación dentro 
 
 IV. Aplicar las normas oficiales mexicanas para la prevención y control de la contaminación atmosférica, en las materias y supuestos de su competencia;
 
-> <small>(REFORMADA, P.O. 29 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-V. Establecer y operar sistemas de monitoreo de la calidad del aire en la Entidad y difundir sus resultados en días hábiles, por medios electrónicos oficiales;
+V. Establecer y operar sistemas de monitoreo de la calidad de aire en la entidad y difundir sus resultados por medios electrónicos oficiales;
 
 VI. Promover y apoyar técnicamente a los gobiernos municipales que lo soliciten en la formulación y aplicación de programas de gestión de calidad del aire, que tengan por objeto el cumplimiento de la normatividad aplicable, así como elaborar un programa estatal de gestión de la calidad del aire;
 
 VII. Requerir a los responsables de fuentes emisoras de contaminantes de competencia estatal, el cumplimiento de los límites máximos permisibles de emisión de contaminantes, de conformidad con esta Ley, la Ley General, sus reglamentos y las Normas Oficiales Mexicanas;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-VIII. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de tecnologías limpias, ambientalmente compatibles y eficientes con el propósito de reducir o eliminar sus emisiones a la atmósfera; con base en los programas establecidos en la Ley y en el Plan Especial de la Transición Energética;
+VIII. Promover ante los responsables de la operación de fuentes contaminantes, la aplicación de tecnologías limpias, ambientalmente compatibles y eficientes con el propósito de reducir o eliminar sus emisiones a la atmósfera; con base en los programas establecidos en la Ley;
 
 IX. Requerir la instalación de equipos o sistemas de control de emisiones a quienes realicen actividades que las generen, cuando se rebasen los límites máximos permisibles;
 
@@ -2765,9 +2999,9 @@ III. Instalar plataformas y puertos de muestreo en chimeneas, tiros, ductos y de
 
 IV. Medir sus emisiones contaminantes a la atmósfera, registrar los resultados en el formato que determine la Secretaría y remitir a ésta los registros, cuando así lo solicite;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-V. Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas urbanas o suburbanas, cuando colinde con áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente o a la salud de los seres vivos, a juicio de la Secretaría;
+V. Llevar a cabo el monitoreo perimetral de sus emisiones contaminantes a la atmósfera, cuando la fuente de que se trate se localice en zonas habitacionales y/o sus colindancias, áreas naturales protegidas y cuando por sus características de operación o por sus materias primas, productos y subproductos, puedan causar grave deterioro al ambiente o a la salud de los seres vivos, a juicio de la Secretaría;
 
 VI. Llevar una bitácora de operación y mantenimiento de sus equipos de proceso que generen emisiones contaminantes y de los equipos de control de anticontaminantes;
 
@@ -2901,7 +3135,9 @@ I. Para acciones de adiestramiento y capacitación de personal encargado del com
 
 II. Cuando con esta medida se evite un riesgo mayor a la comunidad o a los elementos naturales, y medie recomendación de alguna autoridad de atención a emergencias;
 
-III. En caso de quemas agrícolas, cuando no se impacten severamente la calidad del aire, represente un riesgo a la salud o a los ecosistemas, y medie anuencia de alguna autoridad forestal, agraria o pecuaria, de acuerdo con las normas oficiales mexicanas correspondientes;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+III. En caso de quemas agrícolas, cuando no se impacten severamente la calidad de aire, no represente un riesgo a la salud o a los ecosistemas, y medie anuencia de alguna autoridad forestal, agraria o pecuarias, de acuerdo con las normas oficiales mexicanas correspondientes;
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2011)</small>
 
@@ -2975,21 +3211,27 @@ III. Realizar inspecciones periódicas para verificar que las fuentes fijas auto
 
 Asimismo, los Municipios en el ámbito de su competencia restringirán en sus bandos, códigos y reglamentos, las edificaciones y obras, así como las actividades o anuncios de carácter publicitario y promocional, a fin de crear una imagen agradable del paisaje rural y urbano, y evitar la contaminación visual del mismo.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 151.
 
-Los responsables de las fuentes de emisión deberán:
+Los responsables de las fuentes de emisión de ruido, gases, partículas, olores y/o vibraciones deberán:
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. Aplicar la tecnología disponible, realizar las acciones necesarias para reducir y controlar emisiones para evitar y mitigar los efectos sobre el ambiente y la salud;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-II. Instalar equipos o sistemas de control para mantener sus emisiones por debajo de los niveles máximos permisibles que establezcan las normas oficiales mexicanas y demás disposiciones legales aplicables; y
+II. Instalar equipos o sistemas de control para mantener sus emisiones por debajo de los niveles máximos permisibles que establezcan las normas oficiales mexicanas y demás disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 18 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-III. En el caso de los responsables de fuentes fijas de contaminación acústica deberán contar con un sistema de monitoreo y medición de decibeles que muestre a los usuarios los niveles de emisión sonora a que están expuestos.
+III. En el caso de los responsables de fuentes fijas de contaminación acústica deberán contar con un sistema de monitoreo y medición de decibeles que muestre a los usuarios los niveles de emisión sonora a que están expuestos; y
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+IV. En caso de los responsables de fuentes fijas de vibraciones deberán contar con un sistema de monitoreo y medición de “hercios” (Hz), que muestre a los usuarios los niveles de emisión de vibraciones a que están expuestos.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -3027,13 +3269,15 @@ Para la obtención del permiso correspondiente se solicitará ante la autoridad 
 
 El permiso tendrá una vigencia de dos años, por lo que deberá ser renovado al haber transcurrido ese tiempo y mediante el trámite descrito en el párrafo anterior, y sólo podrá ser cancelado o modificada su vigencia, cuando no se de cumplimiento a las condiciones específicas del permiso o cuando el vertido de agua residual afecte o pueda afectar a la salud pública y a la infraestructura hidráulica existente.
 
-Se deberán reportar periódicamente las condiciones de descarga, de acuerdo al giro según lo establece el Reglamento.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+Se deberán reportar periódicamente las condiciones de descarga, de acuerdo a lo establecido en las normas oficiales o las condiciones particulares de descargas que se establezcan en la licencia correspondiente.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 156.
 
-Se exceptúa de la obligación de contar con el permiso a que se refiere el Artículo anterior a las descargas provenientes de los servicios sanitarios domésticos o análogos.
+Se exceptúa de la obligación de contar con el permiso a que se refiere el artículo anterior a las descargas provenientes de los servicios sanitarios domésticos o análogos, siempre y cuando éstos estén conectados a redes municipales de alcantarillado.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3053,7 +3297,9 @@ Los responsables de la generación de aguas residuales tendrán las siguientes o
 
 I. Dar tratamiento a sus descargas;
 
-II. Mantener sus descargas por debajo de los niveles máximos permisible para cada uno de los contaminantes señalados en el permiso correspondiente;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+II. Mantener sus descargas por debajo de los niveles máximos permisible para cada uno de los contaminantes señalados en las Normas Oficiales Mexicanas y en el permiso correspondiente.
 
 III. Aplicar la tecnología disponible para reducir la generación de contaminantes y el volumen de descarga;
 
@@ -3065,11 +3311,11 @@ V. Dar aviso a la Secretaría o a las autoridades municipales en caso de su comp
 
 VI. Las demás que señalen los ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 159.
 
-En materia de regulación, prevención y control de la contaminación del agua, la Secretaría tendrá las siguientes facultades:
+En materia de prevención y control de la contaminación del agua, la Secretaría tendrá las siguientes facultades:
 
 I. Prevenir y controlar la contaminación de los cuerpos receptores de competencia estatal;
 
@@ -3083,21 +3329,33 @@ V. Integrar y mantener actualizado el registro estatal de descargas de aguas res
 
 VI. Inspeccionar y vigilar el cumplimiento de esta Ley, su Reglamento, las normas oficiales mexicanas y demás disposiciones aplicables, tratándose de descargas de aguas residuales a cuerpos receptores de competencia estatal, y en su caso, imponer las sanciones previstas en esta Ley.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 160.
 
-En materia de regulación, prevención y control de la contaminación del agua, los municipios, por sí mismos o por conducto de los organismos públicos que administren los sistemas de agua potable y alcantarillado, tendrán las siguientes facultades:
+En materia de prevención y control de la contaminación del agua, los Municipios, por sí mismos o por conducto de los organismos públicos que administren los sistemas de agua potable y alcantarillado, tendrán las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. Prevenir y controlar la contaminación de las descargas a cuerpos receptores de competencia municipal;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 II. Otorgar los permisos de descargas de aguas residuales a cuerpos receptores de competencia municipal;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 III. Promover ante quienes generen descargas la aplicación de la tecnología disponible, con el propósito de reducir la generación de contaminantes y el volumen de descarga, así como su reuso;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 IV. Requerir, a quienes realicen descargas a cuerpos receptores de competencia municipal, el cumplimiento de los límites máximos permisible establecidos en las normas oficiales mexicanas y los especificados en los permisos expedidos;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 V. Integrar y mantener actualizado un Registro municipal de descargas de aguas residuales; y
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 VI. Inspeccionar y vigilar el cumplimiento de esta Ley, su Reglamento, las normas oficiales mexicanas y demás disposiciones aplicables, tratándose de descargas de agua residuales a cuerpos receptores de competencia municipal, y su caso, imponer las sanciones previstas en esta Ley.
 
@@ -3135,11 +3393,11 @@ III. La regulación sobre la generación, tratamiento, transferencia, almacenami
 
 IV. La Autorización de los sistemas de recolección, acopio, transporte, transferencia, reciclaje, reutilización, coprocesamiento, tratamiento y disposición final de residuos de manejo especial y sólidos urbanos de conformidad con las disposiciones de esta Ley y de su Reglamento en materia de prevención y gestión integral de los residuos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 164.
 
-Con el propósito de promover el desarrollo sustentable y prevenir y controlar la contaminación del suelo, la Secretaría y los Municipios con la participación de todos los sectores de la sociedad, fomentarán y establecerán programas para la disminución del volumen de generación, separación, reúso y reciclaje de residuos sólidos, industriales, no peligrosos y peligrosos.
+Con el propósito de promover el desarrollo sustentable y prevenir y controlar la contaminación del suelo, la Secretaría y los Municipios con la participación de todos los sectores de la sociedad, fomentarán y establecerán programas para la disminución del volumen de generación, reúso y reciclaje de residuos sólidos urbanos y manejo especial.
 
 Asimismo, promoverán la creación y aplicación de incentivos en favor de quienes realicen dichas actividades.
 
@@ -3157,37 +3415,53 @@ III. Restaurar y reforestar con especies nativas del propio ecosistema afectados
 
 IV. Tramitar y obtener las autorizaciones a que se refiere este Capítulo.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 166.
 
-Se prohíbe el depósito de residuos no peligrosos que generen o pueden generar:
+Se prohíbe el depósito de residuos sólidos urbanos y de manejo especial que generen o pueden generar:
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. Impactos ambientales negativos al suelo;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 II. Alteraciones nocivas en el proceso biológico de los suelos;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 III. Alteraciones en el suelo que perjudiquen su aprovechamiento, uso o explotación; y
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 IV. Riesgos y problemas de salud.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 167.
 
-Durante las diferentes etapas del manejo de residuos no peligrosos, se prohíbe:
+Durante las diferentes etapas del manejo de residuos sólidos urbanos y de manejo especial se prohíbe:
 
-I. El depósito o confinamiento en sitios no autorizados;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+|I. El depósito o disposición final en sitios no autorizados;
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 II. El fomento o creación de basureros clandestinos;
 
-III. La mezcla de residuos peligrosos con residuos no peligrosos; y
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-IV. El confinamiento o depósito final de residuos no peligrosos que excedan los límites máximos permitidos por las Normas correspondientes.
+III. La mezcla de residuos peligrosos con residuos de manejo especial y/o residuos sólidos urbanos; y
 
-> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-#### SECCIÓN SEGUNDA. Residuos No Peligrosos
+IV. En su caso, el confinamiento o depósito final de residuos no peligrosos que excedan los límites máximos permitidos, por las normas correspondientes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. Residuos Sólidos Urbanos y de Manejo Especial
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3259,41 +3533,51 @@ VII. Establecer programas y proyectos para la creación de sistemas de eficienci
 
 Sólo se podrá autorizar el confinamiento de residuos no peligrosos cuando éstos no puedan ser técnica ni económicamente sujetos de reuso o cualquier tipo de tratamiento, en los términos de la Ley General para la Prevención y Gestión Integral de Residuos y del Reglamento de la presente Ley en la materia.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 172.
 
-Cuando el manejo de residuos no peligrosos genere impactos negativos al suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a cumplir con lo establecido por el Reglamento de la presente Ley, así como a:
+Cuando el manejo de residuos de manejo especial y residuos sólidos urbanos genere impactos negativos al suelo, independientemente de las sanciones penales o administrativas que procedan, los responsables estarán obligados a cumplir con lo establecido por el Reglamento de la presente Ley, así como a:
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. Llevar a cabo las acciones necesarias para recuperar y restablecer las condiciones del suelo con el propósito de que éste pueda ser destinado a alguna de las actividades previstas en el programa de desarrollo urbano o de ordenamiento ecológico que resulte aplicable para el predio o zona respectiva; y
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 II. En caso de que la recuperación y restablecimiento no sean factibles, deberá reparar los daños causados de conformidad con la legislación civil aplicable.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 La responsabilidad a que se refiere este precepto es de carácter objetivo y para su actualización no requiere que medie culpa o negligencia del demandado.
 
-Son responsables solidarios por los daños que se produzcan tanto el generador como las empresas que presten los servicios para el manejo de los residuos no peligrosos.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+Son responsables solidarios por los daños que se produzcan tanto el generador como las empresas que presten los servicios para el manejo de los residuos de manejo especial y residuos sólidos urbanos. Ya que existe y se mantiene la corresponsabilidad en cada una de las etapas de su manejo.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 173.
 
-Los residuos no peligrosos que sean usados, tratados o reciclados, en un proceso distinto al que los generó, dentro del mismo predio, serán sujetos a un control interno por parte del generador, de acuerdo con las formalidades que establezca el Reglamento de la presente Ley.
+Los residuos de manejo especial que sean usados, tratados o reciclados, en un proceso distinto al que los generó, dentro del mismo predio, serán sujetos a un control interno por parte del generador, de acuerdo con las formalidades que establezca el Reglamento de la presente Ley.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 174.
 
-Todo generador de residuos sólidos urbanos deberá separarlos en orgánico e inorgánicos, dentro de las casas habitación, oficinas, sitios de reunión, mercados, instituciones educativas, establecimientos comerciales y de servicios; instituciones públicas y privadas, y dependencias gubernamentales; así como todos aquellos generados en los espacios públicos de los centros de población.
+Todo generador de residuos sólidos urbanos y de manejo especial deberá separarlos en orgánico e inorgánico dentro de las casas habitación, oficinas, sitios de reunión, mercados, instituciones educativas, establecimientos comerciales y de servicios; instituciones públicas y privadas, y dependencias gubernamentales; así como todos aquellos generados en los espacios públicos de los centros de población.
 
 > <small>(REFORMADA Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN TERCERA. Actividades Riesgosas
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 175.
 
-El Reglamento de esta Ley establecerá la clasificación de las actividades que deban considerarse riesgosas para el ambiente y la salud, en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables o biológico infecciosas para el ambiente, de los materiales que se generen o manejen en los establecimientos Industriales, comerciales o de servicios, considerando además, los volúmenes de manejo y la ubicación del establecimiento.
+En el Reglamento correspondiente, la Secretaría establecerá la clasificación de las actividades que deban considerarse riesgosas para el ambiente y la salud, en virtud de las características corrosivas, reactivas, explosivas, tóxicas, inflamables para el ambiente, de los materiales que se generen o manejen en los establecimientos industriales, comerciales o de servicios, considerando, además, los volúmenes de manejo y la ubicación del establecimiento.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 Para la determinación de esta clasificación, se deberá considerar previamente la opinión de las autoridades competentes.
 
@@ -3303,7 +3587,9 @@ Para la determinación de esta clasificación, se deberá considerar previamente
 
 Para evitar o reducir los riesgos ambientales con motivo de la realización de actividades riesgosas, corresponde a la Secretaría:
 
-I. En coordinación con las instancias competentes, evaluar y en su caso aprobar, los estudios de riesgo ambiental, así como los programas para la prevención de accidentes y atención a contingencias;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+I. Evaluar y en su caso aprobar, los estudios de riesgo ambiental, así como los programas para la prevención de accidentes y atención a contingencias;
 
 II. Establecer condiciones de operación y requerir la instalación de equipos o sistemas de seguridad;
 
@@ -3313,7 +3599,9 @@ IV. En coordinación con los municipios, declarar zonas de salvaguarda o de amor
 
 V. Llevar a cabo las medidas preventivas necesarias para evitar contingencias ambientales.
 
-La autorización del estudio de riesgo y el programa para la prevención de accidentes y atención a contingencias, se tramitará en los términos del Reglamento de esta Ley, pero en todo caso, la autoridad deberá resolver sobre la misma en un plazo no mayor de treinta días hábiles. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá negada la solicitud.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
+La autorización del estudio de riesgo y el programa para la prevención de accidentes y atención a contingencias se tramitará en los términos del Reglamento de esta Ley, pero en todo caso, la autoridad deberá resolver sobre la misma en un plazo no mayor de sesenta días hábiles. Transcurrido dicho plazo sin que la autoridad resuelva, se entenderá negada la solicitud.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3347,11 +3635,11 @@ Corresponde a los municipios establecer restricciones a los usos urbanos habitac
 
 ### CAPÍTULO I. Participación Ciudadana
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 179.
 
-Los Gobiernos Estatal y Municipales, en forma concurrente, deberán fomentar y promover la participación corresponsable de la sociedad en la formulación y seguimiento de la aplicación de la política ambiental y sus instrumentos.
+Los Gobiernos Estatal y Municipales, en forma concurrente, deberán fomentar, promover y garantizar la participación corresponsable de la sociedad en la formulación y seguimiento de la aplicación de la política ambiental y sus instrumentos.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3359,7 +3647,9 @@ Los Gobiernos Estatal y Municipales, en forma concurrente, deberán fomentar y p
 
 Para los efectos del Artículo anterior, el Ejecutivo Estatal y los Ayuntamientos, en sus respectivos ámbitos de competencia, tendrán las siguientes facultades:
 
-I. Convocar, en el ámbito del sistema estatal de planeación democrática, a través del Consejo Consultivo Estatal de Gestión Ambiental, al sector social, empresarial, académico, organizaciones no gubernamentales, y demás personas interesadas, para que estén en posibilidad de manifestar su opinión, proponer, analizar, asesorar, evaluar y dar seguimiento a la política ambiental plasmada en el Plan Estatal de Desarrollo, en los Programas Municipales de Desarrollo y en los demás programas, planes y proyectos que en materia ambiental presenten las autoridades estatales y municipales;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+I. Convocar, en el ámbito del sistema estatal de planeación democrática, a través del Consejo Estatal para la Protección del Medio Ambiente, al sector social, empresarial, académico, organizaciones no gubernamentales, y demás personas interesadas, para que estén en posibilidad de manifestar su opinión, proponer, analizar, asesorar, evaluar y dar seguimiento a la política ambiental plasmada en el Plan Estatal de Desarrollo, en los Programas Municipales de Desarrollo y en los demás programas, planes y proyectos que en materia ambiental presenten las autoridades estatales y municipales;
 
 II. Celebrar convenios con los diferentes sectores de la sociedad, y demás personas interesadas, para el establecimiento, administración y manejo de áreas naturales protegidas de jurisdicción estatal y/o municipal; aprovechamiento sustentable de los recursos naturales; las acciones de protección al ambiente y la realización de estudios e investigación en la materia; sujetándose a las disposiciones relativas a la consulta pública, transparencia y acceso a la información, que para ello se contemplan en los diversos ordenamientos jurídicos aplicables;
 
@@ -3371,37 +3661,89 @@ V. Impulsar el fortalecimiento de la educación ambiental, a través de la reali
 
 VI. Promover inversiones de los sectores social y empresarial, organizaciones no gubernamentales, académicas y demás personas interesadas, para la preservación, restauración y la protección al ambiente.
 
-(REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE JULIO DE 2024)</small>
 
-### CAPÍTULO II. Del Consejo Consultivo Estatal de Gestión Ambiental
+### CAPÍTULO II. Del Consejo Estatal para la Protección del Medio Ambiente
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 181.
 
-Con el objeto de lograr la participación ciudadana de forma corresponsable y de manera eficiente, el Gobierno del Estado contará con un órgano de consulta, asesoría y evaluación social, el cual se denominará Consejo Consultivo Estatal de Gestión Ambiental, y tendrá las siguientes funciones:
+Con el objeto de lograr la participación ciudadana de forma corresponsable y de manera eficiente, el Gobierno del Estado contará con un órgano de consulta, asesoría y evaluación social, el cual se denominará Consejo Estatal para la Protección del Medio Ambiente, y tendrá las siguientes funciones:
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 I. Actuar como órgano de enlace y de vinculación entre los sectores sociales y el Gobierno del Estado;
 
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+
 II. Analizar, asesorar, proponer, evaluar y dar seguimiento a la política ambiental plasmada en el Plan Estatal de Desarrollo; y
+
+> <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 III. Promover y fomentar la participación ciudadana en el análisis de programas de carácter ambiental y ecológico, y en su caso en la realización o ejecución coordinada o individual.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Para efectos de lo anterior, las autoridades ambientales estatales deberán proporcionarle toda la información necesaria que le permita poder emitir sus opiniones. Asimismo, propondrá al Consejo indicadores para evaluar la política ambiental estatal.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+El Consejo sesionará trimestralmente y en las reuniones revisarse las acciones que las autoridades ambientales para dar cumplimiento a la política ambiental, así como presentación de proyectos que puedan tener un impacto importante en la sustentabilidad del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 182.
 
-El Consejo Consultivo Estatal de Gestión Ambiental estará integrado por:
+El Consejo Estatal para la Protección del Medio Ambiente estará integrado por:
 
-I. Un Presidente, que será el Gobernador Constitucional del Estado;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-II. Un Secretario Técnico, que será el Director General del Instituto del Medio Ambiente del Estado de Aguascalientes;
+I. La persona titular del Poder Ejecutivo del Estado, quien lo presidirá o por la persona que designe;
 
-III. Un Secretario de Actas, que será quien designe el Director General del Instituto;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-IV. Vocales, quienes serán los representantes de los siguientes sectores:
+II. La persona titular de la Secretaría, quien se (sic) desempeñará el cargo de la vicepresidencia;
 
-A. Gubernamental; Un representante de las siguientes instancias:
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+III. Un Secretario de Actas que será quien designe la persona titular de la Secretaría;
+
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+IV. La persona titular de la Secretaría de Salud;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+V. La persona titular de la Secretaría de Desarrollo Rural y Agroempresarial;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VI. La persona titular de la Secretaría de Planeación, Participación y Desarrollo;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VII. La persona titular de la Coordinación General de Movilidad;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+VIII. La persona titular de la Procuraduría Estatal de Protección al Ambiente;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+IX. La persona titular del Instituto de Educación de Aguascalientes,
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+X. La persona titular de la Presidencia de la Comisión de Medio Ambiente, Recursos Naturales y Cambio Climático del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XI. Los representantes de cada uno de los municipios del Estado, que serán exclusivamente convocados para los asuntos relacionados con su competencia por territorio, contando con derecho a voz y voto en cada caso;
+
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+
+XII. Un representante de cada una de las siguientes dependencias y entidades de la administración pública federal:
 
 a) Secretaría del Medio Ambiente y Recursos Naturales;
 
@@ -3409,37 +3751,47 @@ b) Procuraduría Federal de Protección al Ambiente;
 
 c) Comisión Nacional del Agua;
 
-d) Secretaría de Desarrollo Social Federal;
+d) Comisión Nacional Forestal; y
 
-e) Comisión de Medio Ambiente y Recursos Naturales del Honorable Congreso del Estado;
+e) Comisión Nacional de Áreas Protegidas.
 
-f) (DEROGADO, P.O. 25 DE DICIEMBRE DE 2017)
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
 
-g) Cada Ayuntamiento;
+XIII. Los representantes de los siguientes ámbitos:
 
-h) Procuraduría Estatal de Protección al Ambiente.
+A. Empresarial:
 
-B. Empresarial:
+a) Un máximo de dos representantes de cámaras empresariales.
 
-a) Cinco representantes de Cámaras empresariales, preferentemente CANACINTRA, CANACO, COPARMEX.
+B. Académico:
 
-C. Académico:
+a) Un máximo de dos representantes de Instituciones de Educación Superior en el Estado.
 
-a) Un representante de cada Institución de Educación Superior en el Estado.
+C. Organizaciones de la sociedad civil:
 
-D. No gubernamental:
+a) Un máximo de cuatro representantes de organizaciones de la sociedad civil cuyo objeto social esté orientado a la gestión ambiental. Educación ambiental, protección de los recursos naturales y el desarrollo socioambiental comunitario;
 
-a) Cuatro representantes de organizaciones no gubernamentales de tipo ecológico-ambiental;
+b) Un máximo de dos representantes de colegios de profesionistas, preferentemente de ramas del conocimiento como la biología, urbanismo, ciencias ambientales e ingenieras.
 
-b) Cinco representantes de colegios de profesionistas, sin importar el área a la que se enfoque su formación y experiencia profesional. Aunque, por las especiales demandas intelectuales y académicas que representa la protección ambiental, deberá darse preferencia a biólogos, urbanistas, arquitectos, abogados, ingenieros agrónomos y civiles.
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
 
-E. Social:
+Los nombramientos de los representantes de los ámbitos señalados en la fracción XII del presente artículo, serán propuestos por la persona titular del Poder Ejecutivo, electos por mayoría de votos del Consejo y durarán en su encargo por un periodo no mayor a tres años.
 
-a) Cuatro representantes de los Comités de Colonos;
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
 
-b) Un representante de las Asociaciones de Productores Agrícolas y Pecuarios.
+El Consejo emitirá acuerdos y resoluciones por mayoría de votos de sus integrantes presentes; la Presidencia contará con el voto de calidad para el caso de empate. Las personas enlistadas en las fracciones que anteceden contarán con derecho a voz y voto en el Consejo, salvo la persona encargada de la Secretaría de Actas quien solamente contará con voz.
 
-Los representantes se integrarán al Consejo por invitación expresa del Ejecutivo del Estado.
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+EL Poder Ejecutivo para el desahogo de asuntos que requieran conocimiento especializado o dependiendo de las circunstancias de cada tema podrá invitar a participar sólo con derecho a voz en las sesiones, a las dependencias y entidades de la administración pública federal o local, así como a las cámaras empresariales, colegios de profesionistas, instituciones de educación superior y organizaciones de la sociedad civil que no formen parte del Consejo.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Los representantes a que se refiere el párrafo anterior deberán ser expertos en las materias que se traten en las sesiones, su invitación se justificará para opinar sobre temas en específico.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Los cargos de los integrantes y representantes ante el Consejo son de carácter honorario, por tanto, no recibirán retribución alguna por su desempeño.
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3457,9 +3809,11 @@ El Consejo funcionará conforme a lo que establece el Reglamento Interno, que é
 
 ### CAPÍTULO III. Información Ambiental
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 185.
 
-Toda persona tendrá derecho a que las autoridades ambientales pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta Ley, su Reglamento respectivo y la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes.
+Toda persona tendrá derecho a que las autoridades ambientales faciliten y pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta Ley, su Reglamento respectivo y la Ley de Transparencia.
 
 Para los efectos de lo dispuesto en esta Ley, se considera información ambiental, cualquier información escrita, en audio, audiovisual e información magnética, de que dispongan las autoridades ambientales en materia de agua, aire, suelo, flora, fauna y recursos naturales de jurisdicción estatal y municipal, así como sobre las actividades o medidas que les afectan o puedan afectarlos.
 
@@ -3489,11 +3843,11 @@ La Secretaría de conformidad con el Reglamento respectivo de la presente Ley, p
 
 Asimismo, se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y el aprovechamiento sustentable de los recursos naturales.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 189.
 
-La autoridad ambiental deberá responder por escrito a los solicitantes de información ambiental en un plazo no mayor de quince días hábiles, contados a partir de la fecha de recepción de la petición respectiva. En caso de que la autoridad conteste negativamente la solicitud, deberá señalar las razones que motivaron tal determinación.
+La autoridad ambiental deberá responder por escrito a los solicitantes de información ambiental en un plazo no mayor de 10 días hábiles, contados a partir de la fecha de recepción de la petición respectiva. En caso de que la autoridad conteste negativamente la solicitud, deberá señalar las razones que motivaron tal determinación.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3525,7 +3879,9 @@ IV. Se tenga que respetar la propiedad intelectual de su autor.
 
 Toda persona, física o moral, podrá denunciar ante la Secretaría, las autoridades federales o municipales en materia ambiental, todo hecho, acto u omisión que produzca o pueda producir deterioro o daños al ambiente o a los recursos naturales, o contravenga las disposiciones de la presente Ley y demás ordenamientos que regulen materias relacionadas con la protección y la preservación del ambiente.
 
-En caso de presentarse una denuncia ciudadana ante una autoridad ambiental que no sea competente, ésta deberá ser turnada de inmediato a la autoridad facultada para ello.
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
+En caso de presentarse una denuncia ciudadana ante una autoridad ambiental que no sea competente, ésta deberá primeramente orientar al denunciante sobre la autoridad competente en la materia y turnarla a autoridad facultada para ello.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3575,7 +3931,9 @@ III. Cuando no existan contravenciones a la normatividad ambiental;
 
 IV. Por haberse dictado anteriormente acuerdo de acumulación de expedientes;
 
-V. Por haberse solucionado la denuncia mediante conciliación entre las partes;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
+
+V. Por haberse solucionado la denuncia mediante conciliación entre las partes, siempre y cuando no haya afectaciones al ambiente o en caso de haberlas subsanado;
 
 VI. Por la emisión de una resolución derivada del procedimiento de inspección; y
 
@@ -3623,7 +3981,13 @@ Cuando por infracción a las disposiciones de esta Ley y sus disposiciones regla
 
 Las autoridades ambientales a que se refiere esta Ley, de conformidad con la distribución de competencias que en la misma se establece, podrán realizar actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
 
-Para los efectos del presente Artículo se estará a lo dispuesto en esta Ley y en la Ley de Procedimientos Administrativos del Estado de Aguascalientes.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2024)</small>
+
+Los procedimientos en materia de inspección y vigilancia ambiental estarán sujetos a los principios de prevención de daños ambientales, oportunidad en la detección de ilícitos y justa reparación de los daños ocasionados al ambiente y sus elementos.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Para los efectos del presente Artículo se estará a lo dispuesto en esta Ley y en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3633,6 +3997,18 @@ Las autoridades ambientales competentes, podrá realizar, por conducto de person
 
 Dicho personal, al realizar las visitas de inspección, deberá contar con el documento oficial que lo acredite o autorice a practicar la inspección, así como la orden escrita debidamente fundada y motivada, expedida por la autoridad competente, en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Para llevar a cabo los actos de inspección en los supuestos antes señalados, la autoridad ambiental competente expedirá una orden escrita, fundada y motivada, en la que se indique que está dirigida al propietario, poseedor u ocupante del medio de transporte, bien o recurso natural de que se trate, o al responsable del aprovechamiento, extracción, posesión o afectación de los bienes o recursos naturales respectivos.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Cuando se trate del transporte por cualquier medio de bienes o recursos naturales, o del aprovechamiento, extracción, posesión y afectación de los bienes o recursos naturales regulados por estas disposiciones jurídicas, siempre que no sea posible identificar a la persona responsable de los hechos a verificar y el lugar exacto donde se realizan los mismos.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Asimismo, se señalará el lugar o zona donde se practicará la diligencia lo cual quedará satisfecho al indicarse los puntos físicos de referencia, las coordenadas geográficas o cualquier otro dato que permita la ubicación concreta del lugar o la zona donde se practicará el acto de inspección; así como el objeto de la diligencia y su alcance.
+
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 203.
@@ -3641,11 +4017,11 @@ El personal autorizado al iniciar la inspección se identificará debidamente co
 
 En caso de negativa o de que los designados no acepten fungir como testigos, el personal autorizado podrá designarlos, haciendo constar esta situación en el acta administrativa que al efecto se levante, sin que esta circunstancia invalide los efectos de la inspección.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 204.
 
-La persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos de inspección, en los términos previstos en la orden escrita a que se refiere este Capítulo, así como proporcionar toda clase información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad de industrial que sean confidenciales conforme a Ley, debiendo la autoridad mantener absoluta reserva y así lo solicita el interesado, salvo caso de requerimiento judicial.
+Toda persona con quien se entienda la diligencia estará obligada a permitir al personal autorizado el acceso al lugar o lugares sujetos de inspección, en los términos previstos en la orden escrita a que se refiere este Capítulo, así como proporcionar toda clase información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables, con excepción de lo relativo a derechos de propiedad industrial que sean confidenciales conforme a la Ley, debiendo la autoridad mantener absoluta reserva si así lo solicita el interesado, salvo caso de requerimiento judicial o que la información sea pública en los términos de la Ley de Transparencia, o cualquier otro ordenamiento jurídico aplicable.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3683,6 +4059,10 @@ A continuación se procederá a firmar el acta por la persona con quien se enten
 
 Si la persona con la que se entendió la diligencia o los testigos se negaren a firmar el acta, o se negare el interesado a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Cuando en el domicilio, lugar o zona donde se practique la diligencia de inspección, no existan personas que puedan fungir como testigos de asistencia, se podrá llevar a cabo la visita correspondiente siempre que la persona con la que se entienda la misma manifieste su consentimiento para ello, situación que se hará constar en el acta que se levante al efecto, lo cual no afectará la validez de la actuación.
+
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 207.
@@ -3700,6 +4080,30 @@ Transcurrido el término a que se refiere el Artículo anterior y dentro de los 
 ###### ARTÍCULO 209.
 
 Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado al infractor para subsanar las deficiencias e irregularidades observadas, éste deberá comunicar por escrito y en forma detallada a la autoridad ordenadora, haber dado cumplimiento a las medidas ordenadas en los términos del requerimiento o resolución respectiva.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+La autoridad ambiental ordenadora podrá otorgar una sola prórroga para el cumplimiento de las medidas correctivas o de urgente aplicación, en los siguientes supuestos:
+
+I. Cuando existan elementos de prueba en el expediente respectivo que acrediten la imposibilidad material para cumplir con las mismas en el plazo señalado originalmente; y
+
+II. Se acredite la existencia de causas ajenas a la voluntad de las personas obligadas, que hubieran impedido o imposibilitado su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+###### ARTÍCULO 209-A.
+
+En aquellos casos en los que se suspenda una visita domiciliaria o acto de inspección, se hará constar tal situación en el acta correspondiente, sin que en el momento se tenga por concluida la actuación; además se señalará la fecha y hora en que se continuará con la diligencia, que deberá ser al día siguientes (sic), salvo casos excepcionales debidamente justificados, en los cuales se podrá reanudar en un plazo máximo de cinco días hábiles. El acta respectiva deberá ser firmada por todas las personas que intervengan en la diligencia.
+
+Cuando la persona con la que se entienda la diligencia o los testigos de asistencia no se presentaren en la fecha y hora fijada en el acta para la continuación de la diligencia, el personal de la autoridad ambiental que practique la verificación podrá reanudar la misma con la persona que se encuentre en el lugar y con otros testigos de asistencia, que serán nombrados en la forma que se señala en el artículo 203 de la presente Ley; situación que se hará constar en el acta respectiva y ello no afectará la validez de la diligencia.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+###### ARTÍCULO 209-B.
+
+Si durante la tramitación de un procedimiento de inspección se allegaran al expediente respectivo, elementos de prueba que acrediten la existencia de hechos diversos a los que dieron origen a tal actuación, que puedan constituir presuntas infracciones o violaciones a la normatividad al presente ordenamiento, la autoridad ambiental que tramita el expediente podrá iniciar un nuevo procedimiento e integrar otro expediente por tales hechos, con un desglose de copias certificadas de las constancias que para ello se requieran.
+
+Asimismo, cuando se detecte alguna presunta irregularidad de competencia federal, y la autoridad, según sea el caso, determine la existencia de elementos suficientes para configurar una infracción a las disposiciones ambientales que correspondan, podrán aplicar por sí, las medidas de seguridad que resulten necesarias para proteger el equilibrio ecológico y evitar daños al ambiente, sin perjuicio de las facultades que a la Federación competen en la materia, de manera inmediata, podrán (sic) los hechos en conocimiento de la autoridad que corresponda y le remitirán copia de todo lo actuado; en caso de ser un asunto de competencia Municipal que atienda el Estado o viceversa, se actuará conforme al mismo procedimiento.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
@@ -3719,9 +4123,13 @@ I. La clausura temporal, parcial o total, de las fuentes contaminantes, así com
 
 II. El aseguramiento de materiales, residuos o sustancias contaminantes, autotransportes, vehículos, utensilios e instrumentos directamente relacionados con la conducta a que da lugar la imposición de la medida de seguridad;
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-III. El retiro de los vehículos de la circulación, cuando éstos no cumplan con las disposiciones en materia de control y de emisiones provenientes de fuentes móviles; y
+III. El retiro de los vehículos de la circulación, cuando éstos no cumplan con las disposiciones en materia de control y de emisiones provenientes de fuentes móviles;
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Para efectos de lo anterior, se entiende que no cumple cuando el vehículo emite contaminación ostensible y/o carece de verificación vehicular vigente; y
 
 > <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3737,6 +4145,14 @@ La autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cua
 
 Cuando la autoridad ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+La falta de autorización en materia de impacto ambiental para el desarrollo de una obra o actividad, es suficiente para que se imponga una medida de seguridad, sin embargo, la autoridad deberá ordenar acciones necesarias para que no se sigan generando impactos sin evaluación.
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 2024)</small>
+
+Cuando una autoridad imponga alguna de las medidas de seguridad, no podrá concluir el procedimiento administrativo mediante convenio, deberá acreditarse el cumplimento de las acciones ordenadas para el levantamiento de las mismas.
+
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
 ### CAPÍTULO III. Sanciones Administrativas
@@ -3749,9 +4165,9 @@ Las violaciones a los preceptos de esta Ley, sus reglamentos y demás disposicio
 
 I. Apercibimiento;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 2024)</small>
 
-II. Multa por el equivalente de dos a veinte mil veces el valor diario de la unidad de medida y actualización;
+II. Multa por el equivalente de diez a veinte mil veces el valor diario de la unidad de medida y actualización;
 
 III. Clausura temporal o definitiva, parcial o total, cuando:
 
@@ -3817,15 +4233,11 @@ En los casos en que se imponga como sanción la clausura temporal, la autoridad 
 
 La Secretaría, la Procuraduría o la autoridad municipal correspondiente podrán promover ante las autoridades competentes, la limitación o suspensión de la instalación o funcionamiento de industrias, comercios, servicios, desarrollos urbanos, turísticos o cualquier actividad que afecte o pueda afectar el ambiente o los recursos naturales.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 218.
 
-Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, se destinarán a la integración de fondos para desarrollar programas vinculados con la inspección y la vigilancia en las materias a que se refiere esta Ley. El Reglamento respectivo establecerá las reglas sobre la integración, administración y gastos de los recursos constitutivos de dicho fondo ambiental.
-
-> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
-
-Asimismo, los ingresos que se obtengan de las multas por infracciones a lo dispuesto en el Artículo 130 de esta Ley, además de destinarse a la integración de fondos a que hace referencia al párrafo anterior, se destinarán para promover y desarrollar campañas de difusión, actividades de educación ambiental, capacitación y otras similares para fomentar una cultura responsable del reúso, reciclaje, beneficios de la utilización de material biodegradable o tela y la correcta separación de los residuos sólidos urbanos, así como para formar conciencia en la población de los efectos e impactos perjudiciales que genera la contaminación al medio ambiente.
+Los ingresos que se obtengan de las multas por infracciones a lo dispuesto en esta Ley, sus reglamentos y demás disposiciones que de ella se deriven, se destinarán a la integración de fondos para desarrollar programas vinculados a la protección de los recursos naturales, la gestión ambiental, la promoción ambiental, así como a la inspección y la vigilancia en las materias a que se refiere este Ley. El Reglamento respectivo establecerá las reglas sobre la integración, administración y gastos de los recursos constitutivos de dicho fondo ambiental.
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -4200,3 +4612,19 @@ P.O. 13 DE MAYO DE 2024.
 PRIMERO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Los Municipios del Estado de Aguascalientes, conforme a sus posibilidades, destinarán los recursos financieros que les permitan ponderar la implementación e instalación de luminarias ahorradoras tipo LED para el servicio de alumbrado público
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 740.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo de 180 días naturales, contados a partir de la publicación de esta reforma en el Periódico Oficial del Estado de Aguascalientes, se deberán expedir los reglamentos correspondientes a esta ley en materia de ordenamiento ecológico, evaluación de impacto ambiental, prevención y gestión integral de los residuos, prevención y control de la contaminación atmosférica y de las unidades de manejo estatal y municipal para la conservación de la vida silvestre.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo de 90 días naturales, contados a partir de la publicación de esta reforma en el Periódico Oficial del Estado de Aguascalientes, se deberán instalar la Comisión Estatal de Educación Ambiental.
