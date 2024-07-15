@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-linguisticos-del-estado-de-hidalgo-100445"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-24"
-last_updated: "2014-03-24"
+last_updated: "2024-07-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DERECHOS LINGÜÍSTICOS DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 24 de marzo de 2014.
 
@@ -121,9 +121,11 @@ El Estado garantizará la existencia de traductores e intérpretes en lenguas in
 
 El Estado tendrá disponibles y difundirá a través de textos, medios audiovisuales e informáticos: leyes, reglamentos, así como los contenidos de los programas, obras, servicios dirigidos a los pueblos y comunidades indígenas, en la lengua de sus correspondientes beneficiarios.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 10.
 
-Es derecho de todo individuo en el Estado de Hidalgo comunicarse en su lengua materna, sin restricciones en el ámbito público o privado, en forma oral o escrita, en todas sus actividades sociales, económicas, políticas, culturales, religiosas y cualesquiera otras. Ninguna persona podrá ser sujeto a cualquier tipo de discriminación a causa o en virtud de la lengua que hable.
+Es derecho de toda persona en el Estado de Hidalgo comunicarse en su lengua materna, sin restricciones en el ámbito público o privado, en forma oral o escrita, en todas sus actividades sociales, económicas, políticas, culturales, religiosas y cualesquiera otras. Ninguna persona podrá ser sujeto a cualquier tipo de discriminación a causa o en virtud de la lengua que hable.
 
 ### CAPÍTULO II. LAS LENGUAS INDÍGENAS EN LA PROCURACIÓN, IMPARTICIÓN Y ADMINISTRACIÓN DE JUSTICIA
 
@@ -233,9 +235,11 @@ El Estado, destinará el 30 por ciento del porcentaje de tiempo que dispone el s
 
 ### CAPÍTULO VI. LAS LENGUAS INDÍGENAS EN LOS DERECHOS HUMANOS
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 25.
 
-Todo individuo tiene derecho a la libertad de opinión y de expresión, este derecho incluye el no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión, en apego al marco jurídico vigente.
+Toda persona tiene derecho a la libertad de opinión y de expresión, este derecho incluye el no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión, en apego al marco jurídico vigente.
 
 ###### ARTÍCULO 26.
 
@@ -256,3 +260,11 @@ AL EJECUTIVO DE LA ENTIDAD, PARA LOS EFECTOS DEL ARTÍCULO 51 DE LA CONSTITUCIÓ
 Y EN USO DE LAS FACULTADES QUE ME CONFIERE EL ARTÍCULO 71 FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, TENGO A BIEN PROMULGAR EL PRESENTE DECRETO, POR LO TANTO, MANDO SE IMPRIMA, PUBLIQUE Y CIRCULE PARA SU EXACTA OBSERVANCIA Y DEBIDO CUMPLIMIENTO.
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO, A LOS OCHO DÍAS DEL MES DE AGOSTO DEL AÑO DOS MIL TRECE. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO, LIC. JOSÉ FRANCISCO OLVERA RUIZ.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1009 POR EL QUE SE REFORMAN LOS ARTÍCULOS 10 Y 25 DE LA LEY DE DERECHOS LINGÜÍSTICOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
