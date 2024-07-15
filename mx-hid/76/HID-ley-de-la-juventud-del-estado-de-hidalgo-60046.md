@@ -4,7 +4,7 @@ identifier: "HID-ley-de-la-juventud-del-estado-de-hidalgo-60046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-07-02"
+last_updated: "2024-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 15 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024 (ABROGADA).
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -1506,3 +1508,19 @@ P.O. 2 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1000 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 54 DE LA LEY DE LA JUVENTUD DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 15 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1015 POR EL QUE SE EXPIDE LA LEY DE DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El presente Decreto abroga la Ley de la Juventud del Estado de Hidalgo, publicada en el alcance uno del Periódico Oficial del Estado el 31 de diciembre de 2007.
+
+TERCERO. De conformidad con el presente Decreto se deberá adecuar el Decreto de Creación del Instituto Hidalguense de la Juventud, a más tardar dentro de los 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo.
+
+CUARTO. La Junta de Gobierno del Instituto Hidalguense de la Juventud adecuará su estatuto orgánico, a más tardar dentro de los 180 días posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo.
+
+QUINTO. El Sistema Estatal de Promoción, Desarrollo, Participación y Salvaguarda de los Derechos de las Personas Jóvenes deberá quedar instalado dentro los 60 días siguientes posteriores a la publicación del presente Decreto en el Periódico Oficial del Estado de Hidalgo.
+
+SEXTO. Los Ayuntamientos procurarán establecer en el Presupuestos (sic) de Egresos, una partida presupuestal con la finalidad de dar cumplimiento a lo establecido en los artículos 92 y 93 de la presente Ley.
