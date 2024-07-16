@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-privada-del-estado-de-puebla-99817"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-14"
-last_updated: "2017-12-29"
+last_updated: "2024-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD PRIVADA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el viernes 14 de marzo de 2014.
 
@@ -293,7 +293,9 @@ I. Seguridad Privada en Traslado de Bienes y Valores.- Consiste en la prestació
 
 II. Seguridad Privada en Investigación.- Se refiere a sistemas de prevención y responsabilidades para obtener informes comerciales, de antecedentes, solvencia, localización o actividades de personas;
 
-III. Seguridad Privada en los Bienes.- Consiste en la prestación del servicio de custodia, cuidado, protección, y en su caso, localización de bienes muebles e inmuebles, comerciales o no comerciales;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
+
+III. Seguridad Privada en los Bienes. Consiste en la prestación del servicio de custodia, cuidado, protección, y en su caso, localización de bienes muebles e inmuebles, comerciales o no comerciales; así como en establecimientos a los que se refiere la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla y demás previstos en el artículo 14 de la misma Ley;
 
 > <small>(REFORMADA, P.O. 31 DE MARZO DE 2014)</small>
 
@@ -605,9 +607,17 @@ XXIII. Comunicar por escrito dentro de los tres días hábiles siguientes a la s
 
 XXIV. Informar las altas y bajas del comando canino, en caso de utilizarlos para la prestación de servicios de seguridad privada, en los términos establecidos en esta Ley y el Reglamento;
 
-XXV. Presentar el informe mensual, dentro de los primeros cinco días hábiles del mes siguiente, de las altas y bajas de vehículos, equipo de radiocomunicación, armamento, comando canino y demás equipo utilizado para la prestación del servicio, y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
 
-XXVI. Las demás que establezca la Ley y el Reglamento.
+XXV. Presentar el informe mensual, dentro de los primeros cinco días hábiles del mes siguiente, de las altas y bajas de vehículos, equipo de radiocomunicación, armamento, comando canino y demás equipo utilizado para la prestación del servicio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2024)</small>
+
+XXVI. Elaborar y presentar a la Secretaría de Seguridad Pública, previo a la suscripción del contrato respectivo para la prestación de los servicios de seguridad privada, en la modalidad de Seguridad Privada en los Bienes, en los establecimientos a que se refieren los artículos 11 y 14 de la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla, un análisis respecto del establecimiento en el que se pretendan prestar los servicios, en el que se definirá el número mínimo de elementos de seguridad privada que serán necesarios para brindar el servicio de manera eficiente y oportuna; una vez aprobado el análisis inscribirlo en el Registro Estatal, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2024)</small>
+
+XXVII. Las demás que establezca la Ley y el Reglamento.
 
 ## TÍTULO QUINTO. DE LAS VISITAS DE VERIFICACIÓN
 
@@ -908,3 +918,15 @@ P.O. 29 DE DICIEMBRE DE 2017.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto por el presente Decreto.
+
+P.O. 16 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA VENTA Y SUMINISTRO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE PUEBLA; DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 90 días naturales, a partir de la entrada en vigor del presente Decreto, para adecuar sus reglamentos municipales a la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla.
+
+CUARTO. Las Licencias y Permisos otorgados en términos de la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla, previo a la entrada en vigor del presente Decreto, mantendrán su vigencia, debiendo los establecimientos amparados por los mismos, ajustar su funcionamiento a los horarios establecidos en el artículo 20 de la mencionada ley.
