@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-de-servicio-de-transportes-electricos-de-1618
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-12-30"
-last_updated: "2022-12-30"
+last_updated: "2024-07-16"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161811&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2022-12-28"
 ---
 # ESTATUTO ORGANICO DE SERVICIO DE TRANSPORTES ELECTRICOS DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: https://www.ste.cdmx.gob.mx/storage/app/uploads/public/611/546/77b/61154677b1fd0343856765.pdf]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO CUARTO DEL AVISO POR EL CUAL SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DEL SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO Y ARTÍCULO TERCERO TRANSITORIO DEL ESTATUTO ORGÁNICO DE SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO, PUBLICADOS EN LA G.O. DE 16 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
 
 ESTATUTO ORGÁNICO DE SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2024 (SIN EFECTOS).
 
 Estatuto publicado en el Número 1013 de la Gaceta Oficial de la Ciudad de México, el viernes 30 de diciembre de 2022.
 
@@ -2231,3 +2231,31 @@ Ciudad de México, a 7 de diciembre de 2022
 Mtro. Martín López Delgado
 
 Director General del Servicio de Transportes Eléctricos de la Ciudad de México
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 16 DE JULIO DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DEL SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ÚNICO. - Se da a conocer el aviso donde podrá ser consultado el Estatuto Orgánico del Servicio de Transportes Eléctricos de la Ciudad de México, que estará disponible en el siguiente enlace electrónico (liga):
+
+https://www.ste.cdmx.gob.mx/storage/app/media/Manuales_Lineamientos-24/estatutoorganicoste2024.pdf
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México para su debida observancia y aplicación.
+
+SEGUNDO. El servidor público responsable de la funcionalidad y permanencia del enlace electrónico es el Lic. Francisco Javier Gómez Téllez, Gerente de Tecnologías de la Información y Comunicaciones del Servicio de Transportes Eléctricos de la Ciudad de México, teléfono de contacto 55259500, extensión 250.
+
+TERCERO. El presente Aviso entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+CUARTO. Se deja sin efectos el Estatuto Orgánico de Transportes Eléctricos, publicado en la Gaceta Oficial de la Ciudad de México, el día 30 de diciembre de 2022.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE SERVICIO DE TRANSPORTES ELÉCTRICOS DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México el presente Estatuto Orgánico.
+
+SEGUNDO. El presente Estatuto Orgánico entrará en vigor a partir del día 16 de julio de 2024.
+
+TERCERO. Se derogan las disposiciones contenidas en el Estatuto Orgánico del Servicio de Transportes Eléctricos de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el día 30 de diciembre de 2022.
