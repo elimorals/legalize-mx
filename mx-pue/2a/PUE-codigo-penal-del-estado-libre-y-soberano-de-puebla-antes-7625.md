@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2024-03-21"
+last_updated: "2024-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -2503,11 +2503,17 @@ Se sancionará con lo previsto en el primer párrafo del presente artículo, al 
 
 Las sanciones previstas en el primer párrafo de este artículo, se aplicarán a la persona servidora pública obligada por la ley a vigilar el cumplimiento de las disposiciones normativas en los comercios de venta de bebidas alcohólicas y que, por su omisión o ausencia de respuesta a los reportes hechos por los ciudadanos de la existencia de presuntos comercios sin la autorización legal, omita la exigencia de los requisitos.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2024)</small>
 
 ###### Artículo 199 Septies.
 
-La sanción establecida en el párrafo primero del artículo anterior, se aumentará hasta en una mitad cuando la venta o suministro de bebidas alcohólicas se haga a menores de edad, o se encuentren adulteradas.
+A la persona que venda, distribuya, suministre bebidas alcohólicas sin la licencia o el permiso correspondiente, fuera de los horarios establecidos en la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla, se le impondrá de seis meses a seis años de prisión y multa de cien a mil Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2024)</small>
+
+###### Artículo 199 Octies.
+
+La sanción establecida en el párrafo primero del artículo 199 Sexies y el 199 Septies, se aumentará hasta en una mitad cuando la venta o suministro de bebidas alcohólicas se haga a menores de edad, o se encuentren adulteradas.
 
 ### CAPITULO QUINTO.- DELITOS CONTRA LA AUTORIDAD
 
@@ -7846,3 +7852,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los Ayuntamientos deberán hacer las previsiones presupuestarias y adecuaciones normativas pertinentes para la creación y correcta operación de los Centros de Bienestar Animal.
+
+P.O. 16 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA VENTA Y SUMINISTRO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE PUEBLA; DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 90 días naturales, a partir de la entrada en vigor del presente Decreto, para adecuar sus reglamentos municipales a la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla.
+
+CUARTO. Las Licencias y Permisos otorgados en términos de la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla, previo a la entrada en vigor del presente Decreto, mantendrán su vigencia, debiendo los establecimientos amparados por los mismos, ajustar su funcionamiento a los horarios establecidos en el artículo 20 de la mencionada ley.
