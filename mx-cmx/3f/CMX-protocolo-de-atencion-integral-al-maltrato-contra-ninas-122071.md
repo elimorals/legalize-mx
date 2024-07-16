@@ -4,7 +4,7 @@ identifier: "CMX-protocolo-de-atencion-integral-al-maltrato-contra-ninas-122071"
 country: "mx"
 rank: "otro"
 publication_date: "2017-06-22"
-last_updated: "2017-06-22"
+last_updated: "2024-07-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122071&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2017-05-16"
 ---
 # PROTOCOLO DE ATENCION INTEGRAL AL MALTRATO CONTRA NIÑAS, NIÑOS Y ADOLESCENTES EN SU ENTORNO FAMILIAR., EN EL EJERCICIO 2017
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO QUINTO TRANSITORIO DEL AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL PROTOCOLO DE ATENCIÓN INTEGRAL A LA VIOLENCIA EN AGRAVIO DE NIÑAS, NIÑOS Y ADOLESCENTES EN SU ENTORNO FAMILIAR, ESCOLAR Y EN SITUACIÓN DE TRABAJO INFANTIL, PUBLICADO EN LA G.O. DE 16 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 PROTOCOLO DE ATENCIÓN INTEGRAL AL MALTRATO CONTRA NIÑAS, NIÑOS Y ADOLESCENTES EN SU ENTORNO FAMILIAR., EN EL EJERCICIO 2017
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2024 (ABROGADO).
 
 Protocolo publicado en el Número 95 de la Gaceta Oficial de la Ciudad de México, el jueves 22 de junio de 2017.
 
@@ -1079,3 +1081,19 @@ Ciudad de México a 16 de mayo de dos mil diecisiete.
 LIC. GUSTAVO GAMALIEL MARTÍNEZ PACHECO
 
 DIRECTOR GENERAL DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE LA CIUDAD DE MEXICO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. DE 16 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO DONDE PODRÁ SER CONSULTADO EL PROTOCOLO DE ATENCIÓN INTEGRAL A LA VIOLENCIA EN AGRAVIO DE NIÑAS, NIÑOS Y ADOLESCENTES EN SU ENTORNO FAMILIAR, ESCOLAR Y EN SITUACIÓN DE TRABAJO INFANTIL".]
+
+PRIMERO.- El responsable de la dirección electrónica de referencia estará a cargo del Ing. Arturo Gutiérrez Palacios, titular de la Dirección de Tecnologías de Información y Comunicaciones y la dirección donde podrá ejercer los derechos de consulta es Uxmal 860, Col. Santa Cruz Atoyac, C.P. 03310, Alcaldía Benito Juárez, Ciudad de México. Teléfono 5555591919 ext. 3001.
+
+SEGUNDO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El Protocolo de Atención Integral a la Violencia en Agravio de Niñas, Niños y Adolescentes en su Entorno Familiar, Escolar y en Situación de Trabajo Infantil, es de observancia obligatoria para las y los servidores públicos adscritos al DIF Ciudad de México y las familias y personas motivo de la intervención; y entrará en vigor en el día de la publicación en la Gaceta Oficial de la Ciudad de México, del Aviso por el que se da a conocer el enlace electrónico donde podrá ser consultado y descargado.
+
+CUARTO.- La Dirección Ejecutiva de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes de la Ciudad de México, es la encargada de vigilar el cumplimiento del Protocolo de Atención Integral a la Violencia en Agravio de Niñas, Niños y Adolescentes en su Entorno Familiar, Escolar y en Situación de Trabajo Infantil.
+
+QUINTO.- Queda abrogado el “Protocolo de Atención Integral al Maltrato contra Niñas, Niños y Adolescentes en su Entorno Familiar, en el Ejercicio 2017”, publicado en la Gaceta Oficial de la Ciudad de México, el 22 de junio de 2017.
