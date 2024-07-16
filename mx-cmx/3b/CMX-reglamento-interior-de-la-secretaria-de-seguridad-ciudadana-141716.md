@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-secretaria-de-seguridad-ciudadana-141
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-02-25"
-last_updated: "2023-11-17"
+last_updated: "2024-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141716&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2020-02-21"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE JULIO DE 2024.
 
 Reglamento publicado en el Número 290 de la Gaceta Oficial de la Ciudad de México, el martes 25 de febrero de 2020.
 
@@ -117,6 +117,10 @@ e) Dirección Ejecutiva de la Unidad de Transparencia.
 > <small>(ADICIONADO, G.O. 17 DE NOVIEMBRE DE 2023)</small>
 
 f) Dirección General de Derechos Humanos.
+
+> <small>(ADICIONADO, G.O. 16 DE JULIO DE 2024)</small>
+
+g) Dirección Ejecutiva de la Unidad Especializada de Género.
 
 II. Unidades Administrativas Policiales:
 
@@ -382,6 +386,10 @@ XI. Autorizar los programas administrativos y operativos, así como los sistemas
 
 XII. Nombrar y remover a los mandos policiales y personal de estructura de la Secretaría;
 
+> <small>(ADICIONADA, G.O. 16 DE JULIO DE 2024)</small>
+
+XII Bis. Instruir las acciones necesarias para el correcto funcionamiento de la Unidad Especializada de Género;
+
 XIII. Aprobar y remitir a la Secretaría de Administración y Finanzas para su revisión, dictamen y registro, el Manual Administrativo y de servicios al público necesarios para el mejor funcionamiento de la dependencia, así como disponer lo necesario para que éstos se mantengan actualizados y se publiquen en la Gaceta Oficial de la Ciudad de México;
 
 XIV. Aprobar el anteproyecto de presupuesto de egresos de la Secretaría;
@@ -646,17 +654,11 @@ VIII. Vigilar la correcta aplicación de los procedimientos disciplinarios, así
 
 IX. Diseñar e implementar programas para prevenir actos de corrupción del personal policial, mediante la impartición de cursos y talleres;
 
-> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
+IX Bis. (DEROGADA, G.O. 16 DE JULIO DE 2024)
 
-IX Bis. Asegurar el correcto funcionamiento de la Unidad Especializada de Género;
+IX Ter. (DEROGADA, G.O. 16 DE JULIO DE 2024)
 
-> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
-
-IX Ter. Promover, en el ámbito de su competencia, el cumplimiento de la actuación policial de los integrantes de la Policía de Proximidad, en lo relativo a violencias por razones de género;
-
-> <small>(ADICIONADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
-
-IX Quater. Coordinar acciones con las áreas competentes al interior de la Secretaría para el auxilio inmediato y la protección de la integridad física y psicológica de mujeres víctimas de violencia (sic) género por personal de la Secretaría;
+IX Quater. (DEROGADA, G.O. 16 DE JULIO DE 2024)
 
 > <small>(REFORMADA, G.O. 1 DE DICIEMBRE DE 2022)</small>
 
@@ -1102,6 +1104,10 @@ I. Desempeñar las atribuciones y funciones previstas en la Ley Orgánica, para 
 
 II. Recibir y atender quejas y denuncias contra el personal Policial, en forma oral, por escrito, a través de medios digitales, o anónimas, a efecto de realizar las investigaciones correspondientes;
 
+> <small>(ADICIONADA, G.O. 16 DE JULIO DE 2024)</small>
+
+II Bis. Recibir y tramitar los expedientes que integre la Dirección Ejecutiva de la Unidad Especializada de Género, e instruir las diligencias de investigación administrativas complementarias que se estimen necesarias;
+
 III. Atender, con perspectiva de género, las quejas en las que las mujeres policías denuncien acoso, hostigamiento sexual y laboral, e implementar las medidas cautelares necesarias para garantizar el respeto a sus derechos humanos, su integridad, la diligencia en la investigación y la debida integración del procedimiento de sanción que corresponda;
 
 IV. Establecer un sistema de registro, control, clasificación y seguimiento de quejas, denuncias, correctivos disciplinarios y sanciones impuestas al personal policial de la Secretaría, así como proporcionar a las áreas que, en el ámbito de su competencia, soliciten la información correspondiente para ascensos, condecoraciones, estímulos y recompensas otorgadas;
@@ -1229,6 +1235,50 @@ X. Participar en el intercambio de experiencias con entidades federativas e inst
 XI. Constatar y supervisar que, en el ejercicio de sus funciones, el personal policial garantice el respeto de los derechos humanos, y en su caso, emitir las recomendaciones verbales y/o escritas que estime conducentes, y
 
 XII. Las demás que le atribuya la normativa vigente.
+
+> <small>(ADICIONADO, G.O. 16 DE JULIO DE 2024)</small>
+
+###### Artículo 23 Ter.
+
+Además de las atribuciones señaladas en la Ley Orgánica, corresponde a la Dirección Ejecutiva de la Unidad Especializada de Género:
+
+I. Establecer los mecanismos para la recepción y atención de quejas o denuncias de mujeres víctimas de violencia por razones de género, ejercida por personal policial y administrativo de la Secretaría;
+
+II. Coordinar y supervisar los servicios de orientación, asesoría y asistencia jurídica, atención psicológica y de trabajo social de primer contacto, brindados a las mujeres víctimas de violencia por razones de género;
+
+III. Coordinar acciones y mecanismos con las áreas competentes al interior de la Secretaría para brindar el auxilio inmediato y la protección de la integridad tanto física como psicológica de mujeres víctimas de violencia de género denunciantes;
+
+IV. Supervisar y coordinar los acompañamientos otorgados a las mujeres víctimas de violencia por razones de género para presentar denuncias ante las autoridades competentes, con el fin de proteger los derechos humanos de las víctimas;
+
+V. Supervisar y coordinar la canalización de las víctimas de violencia por razones de género a otras instituciones;
+
+VI. Suscribir y dar seguimiento a las medidas de protección administrativas de conformidad con las facultades de la Secretaría y la normativa aplicable, así como notificar a las áreas competentes para la ejecución de éstas;
+
+VII. Suscribir el acuerdo de integración de expediente, así como los actos administrativos necesarios para recabar evidencia documental, requerir información, verificar antecedentes y aquellos que conforme a derecho procedan para su integración y resolución;
+
+VIII. Suscribir, en conjunto con la víctima, la Cédula de Registro Único;
+
+IX. Remitir el expediente de queja o denuncia debidamente integrado a la Dirección General de Asuntos Internos para que ésta, conforme a sus facultades, emita el pronunciamiento que conforme a derecho corresponda. En todo momento se deberán proteger los datos personales de las personas involucradas;
+
+X. Suscribir las recomendaciones que formule a las Unidades Administrativas, Unidades Administrativas Policiales y demás Unidades de la Secretaría, enfocadas a prevenir, detectar y erradicar, conductas y prácticas que generen un ambiente laboral de violencia derivado de estereotipos o prejuicios de género;
+
+XI. Coordinar las actividades necesarias para la elaboración del diagnóstico anual respecto a indicadores de violencia por razones de género dentro de la institución, que permitan medir los avances tendientes a erradicar la violencia por razones de género;
+
+XII. Supervisar, coordinar y dar seguimiento a las acciones necesarias para diseñar, implementar y evaluar el plan anual de acciones afirmativas para fortalecer el liderazgo y las capacidades de las mujeres dentro de la Secretaría, a fin de que reciban la formación y especialización necesaria para ocupar dichos cargos y que esto permita cerrar la brecha de género entre hombres y mujeres en los espacios de toma de decisiones de la Secretaría;
+
+XIII. Proponer a las áreas responsables de la profesionalización en materia policial el contenido y los cursos necesarios para la formación y especialización de las mujeres dentro de la Secretaría para fortalecer el liderazgo y las capacidades de mando y dirección;
+
+XIV. Asesorar a la persona titular de la Secretaría en materia de perspectiva de género;
+
+XV. Proponer a la persona titular de la Secretaría estrategias de capacitación en materia de perspectiva de género, igualdad sustantiva y erradicación de violencia contra las mujeres;
+
+XVI. Proponer a la persona titular de la Secretaría las acciones y medidas que permitan la incorporación de la perspectiva de género en las actividades y funciones que se realizan en la Secretaría;
+
+XVII. Vigilar el cumplimiento de la paridad de género en la Secretaría, emitiendo un informe semestral respecto a cuántos hombres y mujeres ocupan la titularidad de las Subsecretarías, Oficialía Mayor, Coordinaciones Generales, Direcciones Generales y Direcciones Ejecutivas;
+
+XVIII. Promover, en el ámbito de su competencia, el cumplimiento de la actuación policial de los integrantes de la Policía de Proximidad, en lo relativo a violencias por razones de género; y
+
+XIX. Las demás que le atribuyan otras disposiciones aplicables.
 
 ###### Artículo 24.
 
@@ -2144,15 +2194,15 @@ I. Proponer modelos de operación policial con base en proyecciones de resultado
 
 II. Proponer y elaborar modelos de evaluación de la operación policial de la Secretaría, y los elementos que lo integran, considerando indicadores de calidad, eficiencia y eficacia, con el fin de generar información para la toma de decisiones;
 
-III. Coordinar las operaciones aéreas policiales en aspectos de seguridad, vialidad, emergencias, contingencias y ambulancia aérea;
+III. (DEROGADA, G.O. 16 DE JULIO DE 2024)
 
-IV. Determinar criterios, políticas y lineamientos de operación, mantenimiento, capacitación y administración de las operaciones aéreas policiales;
+IV. (DEROGADA, G.O. 16 DE JULIO DE 2024)
 
-V. Diseñar planes y programas de las operaciones aéreas policiales, en aspectos de seguridad, vialidad, contingencias y de ambulancia aérea;
+V. (DEROGADA, G.O. 16 DE JULIO DE 2024)
 
-VI. Diseñar e instrumentar criterios y políticas de operación para el funcionamiento del Centro de Capacitación y Adiestramiento Aeronáutico;
+VI. (DEROGADA, G.O. 16 DE JULIO DE 2024)
 
-VII. Coordinar los servicios de ambulancia aérea;
+VII. (DEROGADA, G.O. 16 DE JULIO DE 2024)
 
 VIII. Establecer criterios y lineamientos en materia de sistemas de telecomunicaciones y tecnologías, acorde a las necesidades de la Secretaría;
 
@@ -2951,3 +3001,17 @@ TERCERO. Los asuntos que con la entrada en vigor del presente Decreto se encuent
 CUARTO. Los recursos humanos, materiales, técnicos y financieros de las Unidades Administrativas que se extinguen, por virtud de este Decreto, se transferirán a las Unidades Administrativas y a las Unidades Administrativas Policiales que asumen sus atribuciones, en los términos y condiciones que establezcan las disposiciones jurídicas y administrativas aplicables.
 
 QUINTO. La Secretaría actualizará sus manuales en los plazos que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
+
+G.O. 16 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO, RESPECTO DE LA UNIDAD ESPECIALIZADA DE GÉNERO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
+
+TERCERO. La Secretaría actualizará su estructura orgánica y su Manual Administrativo en los plazos que establezcan los Lineamientos para el Registro de los Manuales Administrativos y Específicos de Operación de la Administración Pública de la Ciudad de México.
+
+CUARTO. La Secretaría de Seguridad Ciudadana deberá llevar a cabo las acciones conducentes para el cumplimiento del presente Decreto.
+
+QUINTO. Queda sin efectos toda aquella disposición al interior de la Secretaría de Seguridad Ciudadana de la Ciudad de México que se oponga al presente Decreto.
