@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-entidades-paraestatales-del-estado-de-puebla-37228"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-19"
-last_updated: "2018-07-27"
+last_updated: "2024-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37228&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el Viernes 19 de diciembre de 2003.
 
@@ -173,7 +173,9 @@ c) La obtención o aplicación de recursos para el cumplimiento de programas, as
 
 VI.- Las aportaciones y fuentes de recursos para integrar su patrimonio, así como aquellas que se determinen para su incremento;
 
-VII.- La manera de integrar el Órgano de Gobierno y de designar a los servidores públicos de jerarquías inferiores de éste;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
+
+VII.- La manera de integrar el Órgano de Gobierno y de designar a las personas servidoras públicas de jerarquías inferiores de éste;
 
 VIII.- El quórum de asistencia que se requiere para la celebración de las sesiones, así como la periodicidad de éstas;
 
@@ -249,11 +251,11 @@ V.- Otorgar, sustituir y revocar, previa autorización de su Órgano de Gobierno
 
 Los Directores Generales ejercerán las facultades a que se refieren las fracciones anteriores, bajo su más estricta responsabilidad, informando siempre de ello al Órgano de Gobierno, dentro de las limitaciones que señale el Decreto de creación y en su caso, el Reglamento Interior del Organismo.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 18.
 
-El Director General, para el eficaz cumplimiento de sus atribuciones, se auxiliará de los servidores públicos que requiera y le sean autorizados por su Órgano de Gobierno, conforme al Presupuesto de Egresos y a la estructura orgánica validada por la Secretaría de la Contraloría.
+La o el Director General, para el eficaz cumplimiento de sus atribuciones, se auxiliará de las personas servidoras públicas que requiera y le sean autorizadas por su Órgano de Gobierno, conforme al Presupuesto de Egresos y a la estructura orgánica validada por la Secretaría de Administración.
 
 > <small>(ADICIONADO, P.O. 30 DE MARZO DE 2012)</small>
 
@@ -327,15 +329,17 @@ En los casos en que se acuerde la enajenación, en igual de condiciones y respet
 
 La fusión o disolución de las empresas de participación estatal mayoritaria se efectuará conforme a los lineamientos o disposiciones establecidos en los estatutos de la Empresa y legislación aplicable.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2024)</small>
 
-Las Secretarías de la Contraloría y de Finanzas, de manera conjunta intervendrán a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de los servidores públicos de la Empresa.
+Las Secretarías de la Función Pública, y de Planeación y Finanzas, de manera conjunta intervendrán a fin de señalar la forma y términos en que deba efectuarse la fusión o la disolución, debiendo cuidar en todo tiempo la adecuada protección de los intereses del público, de los accionistas o titulares de las acciones o partes sociales, y los derechos laborales de las personas servidoras públicas de la Empresa.
 
 ### CAPÍTULO IV. DE LOS FIDEICOMISOS PÚBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-Los fideicomisos públicos serán creados por Decreto del Titular del Ejecutivo del Estado, contarán con una estructura orgánica análoga a la de un Organismo Público Descentralizado, que permita considerar a la mayoría de su personal como servidores públicos y deberán participar dos o más dependencias en su Órgano de Gobierno.
+Los fideicomisos públicos serán creados por Decreto de la persona titular del Poder Ejecutivo del Estado, contarán con una estructura orgánica análoga a la de un Organismo Público Descentralizado, que permita considerar a la mayoría de su personal como personas servidoras públicas y deberán participar dos o más dependencias en su Órgano de Gobierno.
 
 Corresponderá al Titular del Ejecutivo del Estado la designación del Director General.
 
@@ -429,7 +433,9 @@ III.- Las bases de organización, facultades y funciones que correspondan a las 
 
 IV.- Los nombramientos de los integrantes del Órgano de Gobierno, de sus suplentes, así como de sus remociones;
 
-V.- Los nombramientos y sustituciones del Director General o su equivalente y, en su caso, de los servidores públicos que tengan la representación de la Entidad;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
+
+V.- Los nombramientos y sustituciones de la o el Director General o su equivalente y, en su caso, de las personas servidoras públicas que tengan la representación de la Entidad;
 
 VI.- Los poderes generales y especiales, así como sus revocaciones;
 
@@ -547,15 +553,17 @@ VII.- Aprobar de acuerdo con las leyes aplicables, las políticas, bases y progr
 
 VIII.- Emitir el Reglamento Interior en el que se determinen las facultades y funciones de las distintas áreas de la Entidad Paraestatal, y en su caso, las modificaciones al mismo;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
 
-IX.- Aprobar la estructura básica de la organización de la Entidad Paraestatal y las modificaciones que procedan, apegándose a los lineamientos que para tal efecto emita la Secretaría de la Contraloría; asimismo las facultades y funciones que correspondan a las distintas áreas de la Entidad;
+IX.- Aprobar la estructura básica de la organización de la Entidad Paraestatal y las modificaciones que procedan, apegándose a los lineamientos que para tal efecto emita la Secretaría de Administración; asimismo las facultades y funciones que correspondan a las distintas áreas de la Entidad;
 
 > <small>(REFORMADA, P.O. 9 DE MARZO DE 2011)</small>
 
 X.- Proponer al Titular del Poder Ejecutivo, de manera conjunta con las Secretarías de la Contraloría y de Finanzas, los convenios que tengan por objeto la fusión con otra Entidad Paraestatal;
 
-XI.- Nombrar y remover a propuesta del Director General, a los servidores públicos de la Entidad Paraestatal que ocupen cargos en los dos niveles jerárquicos inferiores al de aquél; así como aprobar la fijación de sueldos y prestaciones del personal en los términos que señalen la legislación y lineamientos aplicables;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
+
+XI.- Nombrar y remover a propuesta de la o el Director General, a las personas servidoras públicas de la Entidad Paraestatal que ocupen cargos en los dos niveles jerárquicos inferiores al de aquél; así como aprobar la fijación de sueldos y prestaciones del personal en los términos que señalen la legislación y lineamientos aplicables;
 
 XII.- Aprobar la constitución de reservas y aplicación de las utilidades de las Entidades Paraestatales; en los términos que señale la legislación aplicable;
 
@@ -625,7 +633,9 @@ I.- Los Órganos de Gobierno controlarán la forma en que los objetivos sean alc
 
 II.- Los Directores Generales definirán las políticas e instrumentación de los sistemas de control que fueren necesarios; o determinados por el Órgano de Control Interno, debiendo aplicar las acciones correspondientes, para corregir las deficiencias que se detectaren y presentarán al Órgano de Gobierno informes periódicos sobre el cumplimiento de los objetivos del Sistema de Control, su funcionamiento y programas de mejoramiento; y
 
-III.- Los demás servidores públicos de la Entidad responderán dentro del ámbito de su competencia sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
+
+III.- Las demás personas servidoras públicas de la Entidad responderán dentro del ámbito de su competencia sobre el funcionamiento adecuado del sistema que controle las operaciones a su cargo.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
@@ -651,11 +661,11 @@ En aquellos casos en los que el Órgano de Gobierno o el Director General de la 
 
 En aquellas empresas en que el Gobierno del Estado participe con la suscripción del veinticinco al cincuenta por ciento (25 al 50%) del capital, las inversiones estatales se vigilarán a través del titular del órgano interno de control.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 59.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de la Contraloría, determinará los servidores públicos que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria, así como de las empresas señaladas en el artículo anterior.
+La persona titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de la Función Pública, determinará las personas servidoras públicas que deban ejercer las facultades que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria, así como de las empresas señaladas en el artículo anterior.
 
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2011)</small>
 
@@ -734,3 +744,11 @@ P.O. 27 DE JULIO DE 2018.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 10, EL ARTÍCULO 18, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 27, EL PRIMER PÁRRAFO DEL ARTÍCULO 28, LA FRACCIÓN V DEL ARTÍCULO 39, LAS FRACCIONES IX Y XI DEL ARTÍCULO 52, LA FRACCIÓN III DEL ARTÍCULO 55 Y EL ARTÍCULO 59, TODOS DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
