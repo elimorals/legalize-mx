@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-presupuesto-y-50856"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-06-28"
-last_updated: "2020-11-13"
+last_updated: "2024-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50856&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-06-27"
 
 REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2024.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el miércoles 28 de junio de 2006.
 
@@ -552,6 +552,24 @@ Para los cálculos de las compensaciones por la disminución de los ingresos, se
 Artículo 12 B. Los recursos del Fondo Mexicano del Petróleo a los que se refiere el artículo 93, párrafo tercero, de la Ley serán determinados por el Comité Técnico de dicho Fondo.
 
 La orden del Comité Técnico a que se refiere el artículo 96 de la Ley deberá realizarse cuando el saldo acumulado de la Reserva del Fondo al 31 de diciembre del año previo supere el 10 por ciento del Producto Interno Bruto. Dicha orden deberá incluir un calendario que detalle la periodicidad con la que el Fondo Mexicano del Petróleo deba transferir los rendimientos financieros reales anuales a la Tesorería de la Federación, de conformidad con la instrucción que para tal efecto emita la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 16 DE JULIO DE 2024)</small>
+
+Artículo 12 C. La Secretaría, de conformidad con lo previsto en este artículo, puede realizar las aportaciones al Fondo de Estabilización de los Ingresos Presupuestarios a que se refieren los artículos 21 Bis, fracción V Bis, y 23, último párrafo, de la Ley a más tardar el último día hábil del año, las cuales tienen carácter de definitivas.
+
+Cuando la Secretaría determine con base en la estimación del cierre anual de las finanzas públicas, que se cuenta con la fuente de financiamiento al cierre del año, para realizar aportaciones adicionales de activos financieros, o títulos de crédito del Gobierno federal o por ahorros o economías presupuestarias en el costo financiero de la deuda del Gobierno federal al Fondo de Estabilización de los Ingresos Presupuestarios, debe verificar que se cumpla con lo siguiente:
+
+I. El techo de endeudamiento neto del Gobierno federal aprobado en la Ley de Ingresos, y
+
+II. El equilibrio presupuestario a que se refiere el artículo 17 de la Ley.
+
+La estimación del cierre anual de las finanzas públicas debe incluir el gasto programable del Gobierno federal que permita cumplir con la meta del balance presupuestario, el ahorro o economía presupuestaria en el costo financiero de la deuda del Gobierno federal en términos netos de acuerdo con el artículo 283 A de este reglamento, y las fuentes de financiamiento de las ampliaciones de gasto del Gobierno federal con respecto al monto aprobado en el Presupuesto de Egresos que permitan realizar las aportaciones al Fondo de Estabilización de los Ingresos Presupuestarios.
+
+En caso de que la aportación patrimonial se realice mediante un título de crédito, la Secretaría, a través de la unidad administrativa competente en términos de su reglamento interior, debe emitir a favor del Fondo de Estabilización de los Ingresos Presupuestarios un título de crédito del Gobierno federal, el cual debe estar suscrito conjuntamente con la Tesorería de la Federación, en el ámbito de sus respectivas competencias, y cuyo vencimiento no debe ser mayor a seis meses.
+
+Las aportaciones que se realicen al Fondo de Estabilización de los Ingresos Presupuestarios de acuerdo con lo que establece el artículo 21 Bis, fracción V Bis, de la Ley, debe llevarse a cabo con posterioridad a las aportaciones que se realicen de conformidad con los artículos 19, fracción IV, inciso c); 19 Bis, fracción II; 23, último párrafo, y 87, fracción I, de la Ley, hasta por el monto que permita llegar al límite de la reserva del fondo.
+
+Los registros presupuestarios y contables correspondientes a las aportaciones que se hagan al Fondo de Estabilización de los Ingresos Presupuestarios se deben realizar en términos de las disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE SEPTIEMBRE DE 2007)</small>
 
@@ -5036,3 +5054,11 @@ D.O.F. 13 DE NOVIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 146 DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 16 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 12 C DEL REGLAMENTO DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Secretaría de Hacienda y Crédito Público debe realizar las modificaciones necesarias a las reglas de operación del Fondo de Estabilización de los Ingresos Presupuestarios y al contrato de Fideicomiso constituido para la administración de los recursos aportados a dicho fondo, dentro de los noventa días naturales posteriores a la entrada en vigor del presente decreto, en términos de lo dispuesto por el Transitorio Tercero del Decreto por el que se adicionan diversas disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, publicado en el Diario Oficial de la Federación el 17 de abril de 2024.
