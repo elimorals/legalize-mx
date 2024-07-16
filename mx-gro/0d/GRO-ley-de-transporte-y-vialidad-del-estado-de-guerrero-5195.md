@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-transporte-y-vialidad-del-estado-de-guerrero-5195"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2021-08-17"
+last_updated: "2024-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de junio de 1989.
 
@@ -1595,6 +1595,10 @@ V. La obtención de concesión o permiso en violación a la Ley; y
 
 VI. La cesión, renta o enajenación de la concesión, permiso o alguno de los derechos en ellos contenidos, sin la autorización previa y expresa de las autoridades de transporte.
 
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2024)</small>
+
+VII. Cuando la unidad que ampare la concesión o permiso respectivo, sea conducida por persona en estado de ebriedad o bajo los efectos de algún estupefaciente o substancia psicotrópica, o sea utilizada deliberadamente en la comisión de conductas delictivas, o bien, cuando por las malas condiciones mecánicas de la unidad automotriz se produzca un accidente de tránsito o siniestro vial que provoque la pérdida de una vida humana.
+
 Se aplicará revocación de licencia, concesión o permiso en los casos en que se viole lo dispuesto en los artículos 37, 63, 65, 67, 69 fracciones II y III, 83 y 94 fracciones IV, V y VI.
 
 ###### ARTICULO 113.
@@ -1609,13 +1613,15 @@ II. La falta de iniciación de la prestación del servicio dentro del plazo esta
 
 III. La interrupción del servicio sin causa justificada debidamente comprobada a juicio de la Comisión Técnica de Transporte y Vialidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 114.
 
-Para resolver respecto de la suspensión, revocación o la caducidad de una concesión del servicio público de transporte o permiso, la Dirección General de la Comisión Técnica de Transporte y Vialidad, para no dejar al concesionario en estado de indefensión, lo oirá en la forma prevista por el reglamento respectivo, para lo cual se llevará a cabo un procedimiento interno administrativo y a falta de disposición expresa, se aplicará de manera supletoria el Código de Justicia Administrativa del Estado de Guerrero.
+Para resolver respecto de la suspensión, revocación o la caducidad de una concesión del servicio público de transporte o permiso, la Secretaría General de Gobierno, para no dejar a la persona concesionaria en estado de indefensión, la oirá en la forma prevista por el Reglamento respectivo, respetando en todo momento sus garantías constitucionales y favoreciendo en todo tiempo la protección más amplia, para lo cual se llevará a cabo un procedimiento interno administrativo y a falta de disposición expresa, se aplicará de manera supletoria el Código de Procedimientos de Justicia Administrativa del Estado de Guerrero Número 763.
 
-La autoridad podrá otorgar plazos en los casos de la transgresión a las disposiciones a que se refieren los artículos 111 y 112 con el objeto de que se superen las deficiencias o irregularidades detectadas.
+Tratándose de emplazamiento o notificación de un procedimiento administrativo seguido ante la Secretaría General de Gobierno, este deberá de realizarse siempre en el domicilio particular de la persona concesionaria o permisionaria, cumpliendo con las formalidades del procedimiento.
+
+La autoridad podrá otorgar plazos en los casos de la trasgresión a las disposiciones a que se refieren los artículos 111 y 112 con el objeto de que se superen las deficiencias o irregularidades detectadas.
 
 ###### ARTICULO 115.
 
@@ -1643,15 +1649,17 @@ Se detendrá un vehículo en los casos en que se viole lo dispuesto en los artí
 
 El conductor que lesione a pasajeros o peatones se hará acreedor a multa, suspensión de su licencia, independientemente de la responsabilidad civil o penal en que incurra.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 117.
 
-La Dirección de la Comisión Técnica de Transporte y Vialidad, clasificará la infracción que resulte de conformidad con la mayor o menor gravedad de la falta y de acuerdo a lo previsto en el Reglamento respectivo la propia Dirección o las autoridades de tránsito las aplicarán.
+La Secretaría General de Gobierno a través de la Dirección de la Comisión Técnica de Transporte y Vialidad del Gobierno del Estado de Guerrero, de acuerdo a los hechos suscitados y con base a las pruebas aportadas por las personas concesionarias o permisionarias, respetando en todo momento sus garantías constitucionales y favoreciendo en todo tiempo la protección más amplia, clasificará la infracción que resulte de conformidad con la mayor o menor gravedad de la falta y de acuerdo a lo previsto en el Reglamento respectivo la propia Dirección o las autoridades de tránsito las aplicarán.
+
+Entendiéndose por infracción toda acción u omisión contraria a las disposiciones jurídicas establecidas en la presente ley y su Reglamento. Sin perjuicio de violación de normas de tránsito y seguridad vial, establecidas en leyes y reglamentos federales, estatales y municipales, y de la comisión de delitos; por lo tanto, una conducta violatoria de esta ley y su Reglamento, puede además ser sancionada por infracciones a los reglamentos de tránsito y como conductas constitutivas de delito.
 
 La reincidencia trae consigo el agravamiento de la sanción.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2018)</small>
-
-El Director General de la Comisión Técnica de Transporte y Vialidad, está facultado para ordenar el aseguramiento de placas, documentos o para remitir en cualquier momento un vehículo del servicio público de transporte al depósito de vehículos correspondiente, siempre que el infractor se encuentre alterando las disposiciones previstas en la presente Ley y su reglamento, y que esto afecte de manera grave la alteración del orden público y la paz social.
+La Secretaría General de Gobierno, a través de la Dirección General de la Comisión Técnica de Transporte y Vialidad, está facultada para ordenar el aseguramiento de placas, documentos o para remitir en cualquier momento un vehículo del servicio público de transporte al depósito de vehículos correspondiente, siempre que la persona infractora se encuentre alterando las disposiciones previstas en la presente Ley y su Reglamento, y que esto afecte de manera grave la alteración del orden público y la paz social.
 
 ###### ARTICULO 118.
 
@@ -1810,3 +1818,13 @@ TERCERO. Los concesionarios en un término de 30 días posteriores a la entrada 
 CUARTO. Remítase al Titular del Ejecutivo del Estado para los efectos legales procedentes.
 
 QUINTO. Publíquese en el Periódico oficial del gobierno del Estado, para el conocimiento general y efectos legales conducentes.
+
+P.O. 16 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 842 POR EL QUE SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 112 Y SE REFORMAN LOS ARTÍCULOS 114 y 117 DE LA LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Para su conocimiento y efectos legales conducentes, remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en el portal electrónico del Congreso del Estado, para conocimiento general y efectos legales procedentes.
