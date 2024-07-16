@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-148454"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-17"
-last_updated: "2024-05-15"
+last_updated: "2024-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2024.
 
 Ley publicada en el número 5926 del Periódico Oficial del Estado de Morelos, el miércoles 17 de marzo de 2021.
 
@@ -168,6 +168,10 @@ La educación tiene prioridad en el desarrollo integral del Estado; el Poder Eje
 Las autoridades Educativas deberán realizar las acciones necesarias a efecto de prevenir y evitar la deserción escolar en todos sus niveles educativos.
 
 Toda persona gozará del derecho fundamental a la educación bajo el principio de la intangibilidad de la dignidad humana.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2024)</small>
+
+ARTÍCULO 7 BIS. En las Instituciones Educativas públicas y privadas, se permitirá el uso de uniforme neutro, donde los alumnos y estudiantes podrán elegir libremente el uniforme escolar de su preferencia para asistir a clases. Así mismo, las Instituciones se abstendrán de imponer reglas o condicionar el acceso de los educandos a los centros escolares.
 
 ###### ARTÍCULO 8.
 
@@ -1355,7 +1359,9 @@ I. Recibir una educación de excelencia;
 
 II. Ser respetados en su integridad, identidad, personalidad y dignidad, además de que, durante su estancia en los planteles educativos, gocen de la protección contra cualquier tipo de agresión física o moral, libres de todo tipo de discriminación;
 
-III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
+
+III. Recibir una orientación integral como elemento para el pleno desarrollo de su personalidad, por lo que podrán elegir libremente utilizar el uniforme escolar de su preferencia;
 
 IV. Ser respetados por su libertad de convicciones éticas, de conciencia y de religión;
 
@@ -1997,7 +2003,9 @@ La autorización y el reconocimiento incorporan a las instituciones que los obte
 
 En ningún caso, con motivo del cobro de colegiaturas o cualquier otra contraprestación, derivada de la educación que se imparta en términos de este artículo, se realizarán acciones que atenten contra la dignidad y los derechos de los educandos, de manera especial de las niñas y niños, incluyendo la retención de documentos personales y académicos.
 
-La adquisición de uniformes y materiales educativos, así como de actividades extraescolares, no podrá condicionar la prestación del servicio público referido en esta Ley.
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2024)</small>
+
+La adquisición de materiales y uniformes escolares o su uso tradicional; así como de actividades extraescolares, no podrán condicionar la prestación del servicio público referido en esta Ley.
 
 ###### ARTÍCULO 186.
 
@@ -2329,7 +2337,9 @@ XXI. Otorgar revalidaciones o equivalencias sin observar las disposiciones aplic
 
 XXII. Retener documentos personales y académicos por falta de pago;
 
-XXIII. Condicionar la prestación del servicio público de educación a la adquisición de uniformes y materiales educativos, así como de actividades extraescolares;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
+
+XXIII. Condicionar la prestación del servicio público de educación a la adquisición de materiales o uniformes escolares o a su uso tradicional; así como de actividades extraescolares;
 
 XXIV. Omitir dar a conocer por escrito a las personas usuarias de los servicios educativos, previamente a la inscripción para cada ciclo escolar, el costo total de la colegiatura o cualquier otra contraprestación;
 
@@ -2478,3 +2488,15 @@ P.O. 15 DE MAYO DE 2024.
 PRIMERO. - R0emítase (sic) el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 SEGUNDO. - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado de Morelos.
+
+P.O. 16 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO CINCUENTA.- POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS, PARA LA IMPLEMENTACIÓN DEL UNIFORME ESCOLAR NEUTRO".]
+
+PRIMERA. Una vez aprobado el presente decreto, remítase al titular del Poder Ejecutivo del Estado de Morelos, para los efectos de los artículos 44, 47 y 70 fracción XVII inciso b) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERA. Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente Decreto.
+
+CUARTA. La Secretaría de Educación, a través del Instituto de Educación Básica del Estado de Morelos, implementará la presente reforma en los centros educativos de educación básica, cumpliendo a cabalidad su debida observancia a partir del Ciclo Escolar 2024 - 2025.
