@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-venta-y-suministro-de-bebidas-alcoholicas-del-96890
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2020-12-11"
+last_updated: "2024-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA VENTA Y SUMINISTRO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Puebla, el lunes 9 de diciembre de 2013.
 
@@ -41,7 +41,9 @@ Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
 EL HONORABLE QUINCUAGÉSIMO OCTAVO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-CONSIDERANDO…
+CONSIDERANDO
+
+[...]
 
 Por lo anteriormente expuesto y con fundamento en los artículos 57 fracción I, 63 fracción II, 64 y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 102, 115, 119, 123 fracciones I y II, 124 fracción I, 125, 126, 134 y 135 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; 45, 46, 47 y 48 fracciones I y II del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se expide el siguiente:
 
@@ -111,19 +113,41 @@ I. Autorizar, negar, vigilar y revocar las licencias o permisos provisionales pa
 
 II. Aprobar y expedir normas municipales reglamentarias a la presente Ley y su Reglamento;
 
-III. Aprobar e implementar programas de prevención de accidentes por el consumo excesivo de bebidas alcohólicas, acorde a sus características económicas y sociales, así como a las necesidades de cada municipio; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
 
-IV. Aprobar el refrendo de licencias a los establecimientos, en términos de la presente Ley y las disposiciones reglamentarias que se emitan.
+III. Aprobar e implementar programas de prevención de accidentes por el consumo excesivo de bebidas alcohólicas, acorde a sus características económicas y sociales, así como a las necesidades de cada municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2024)</small>
+
+IV. Desarrollar estrategias preventivas y campañas permanentes de difusión e información sobre el consumo responsable del alcohol, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2024)</small>
+
+V. Aprobar el refrendo de licencias a los establecimientos, en términos de la presente Ley y las disposiciones reglamentarias que se emitan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2024)</small>
 
 ###### Artículo 10.
 
-Licencia o permiso provisional es la autorización que otorga el Ayuntamiento para la venta y suministro de bebidas alcohólicas y en su caso, operación y el funcionamiento de los establecimientos a que se refiere esta Ley, previo cumplimiento de requisitos que establece la misma y los reglamentos municipales correspondientes.
+Licencia o permiso provisional es la autorización que otorga el Ayuntamiento para la venta y suministro de bebidas alcohólicas y, en su caso, operación y el funcionamiento de los establecimientos a que se refiere esta Ley, previo cumplimiento de requisitos que establece la misma, la legislación aplicable y los reglamentos municipales correspondientes.
 
-En caso de que no exista disposición reglamentaria en el municipio, el Ayuntamiento podrá expedir las licencias o permisos provisionales para la venta y suministro de bebidas alcohólicas en los términos y previos requisitos que establece esta Ley.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 16 DE JULIO DE 2024)</small>
 
 ###### Artículo 11.
 
 Se entiende por establecimientos específicos para la venta y consumo de bebidas alcohólicas, aquellos que cuentan con un espacio propicio para la venta de bebidas alcohólicas en envase abierto y al copeo, para su consumo inmediato en el interior del propio establecimiento, los cuales pueden tener un espacio para ofrecer al público espectáculos o espacios adecuados para el baile, con música de aparatos electrónicos, conjunto o grupo musical y efectos de luces y sonidos especiales, o bien, ofrecer a los asistentes alimentos o botanas para acompañar las bebidas alcohólicas para su consumo inmediato dentro del establecimiento.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2024)</small>
+
+La seguridad de estos establecimientos estará a cargo de elementos contratados por prestadores de servicios de seguridad privada con autorización vigente dentro del Estado de Puebla, en términos de la Ley de Seguridad Privada del Estado Libre y Soberano de Puebla y su Reglamento.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2024)</small>
+
+Asimismo, estos establecimientos deberán contar con circuito cerrado de televisión, con cámaras instaladas en el interior y exterior del establecimiento evitando al máximo la existencia de puntos ciegos; el respaldo de la grabación de dicho sistema, tendrá una vigencia mínima de 30 días naturales.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2024)</small>
+
+Las personas titulares de licencias o permisos provisionales, así como los responsables o encargados de los establecimientos señalados en este artículo, están obligadas a permitir el acceso a los mismos, al personal de Seguridad Pública, elementos de la Fiscalía General del Estado o cualquier otra autoridad competente cuando así lo soliciten; de igual forma, deberán entregarles la información y archivos digitales de las cámaras de vigilancia de manera pronta y expedita, cuando les sea requerido. El incumplimiento de esta disposición tendrá como consecuencia la revocación o cancelación de las licencias o permisos provisionales respectivos, para lo cual, la autoridad competente notificará al Ayuntamiento la conducta cometida, para que éste realice las acciones conducentes.
 
 ###### Artículo 12.
 
@@ -163,13 +187,17 @@ V. Los establecimientos dedicados a la venta de abarrotes y similares, a través
 
 En los establecimientos autorizados para la venta de bebidas alcohólicas en envase cerrado, queda prohibida la venta en envase abierto y su consumo en el interior o exterior de los mismos.
 
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2024)</small>
+
 ###### Artículo 14.
 
-Se entiende por establecimientos donde se puede realizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas, las instalaciones de servicio al público tales como salones de fiesta, centros de convenciones que se utilizan para eventos sociales, estadios, arenas de box y lucha libre, plazas de toros, lienzos charros, teatros, carpas, cines, cinematógrafos y en los lugares donde se desarrollan exposiciones, espectáculos deportivos, artísticos, culturales y ferias estatales, regionales o municipales.
+Se entiende por establecimientos donde se puede (sic) realizar en forma eventual y transitoria la venta y consumo de bebidas alcohólicas, las instalaciones de servicio al público tales como salones de fiesta, centros de convenciones que se utilizan para eventos sociales, estadios, arenas de box y lucha libre, plazas de toros, lienzos charros, palenques, teatros, carpas, cines, cinematógrafos y en los lugares donde se desarrollan exposiciones, espectáculos deportivos, artísticos, culturales y ferias estatales, regionales o municipales.
 
-En los espectáculos públicos sólo se permite el expendio de bebidas en envase de cartón, plástico o cualquier otro material que no represente ningún peligro.
+En los espectáculos públicos sólo se permite el expendio de bebidas en envase de cartón, plástico o cualquier otro material que no represente ningún peligro, preferentemente de materiales biodegradables.
 
-Los Ayuntamientos deben regular la forma, lugares, y demás aspectos relativos a la venta de bebidas alcohólicas en los espectáculos públicos.
+Los Ayuntamientos deben regular la forma, lugares, y demás aspectos relativos a la venta y suministro de bebidas alcohólicas en los espectáculos públicos.
+
+La seguridad de estos establecimientos, estará a cargo de los prestadores de servicios de seguridad privada con autorización vigente dentro del Estado de Puebla, en términos de la Ley de Seguridad Privada del Estado Libre y Soberano de Puebla y su Reglamento.
 
 ###### Artículo 15.
 
@@ -177,9 +205,11 @@ Para los efectos de esta Ley, la licencia y el permiso provisional constituye al
 
 El permiso provisional es la autorización que otorga el Ayuntamiento para la operación y el funcionamiento de los establecimientos, previo los requisitos que establece esta Ley y el reglamento municipal correspondiente, sin que pueda tener una vigencia mayor a tres meses, prorrogable sólo por una ocasión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2024)</small>
+
 ###### Artículo 16.
 
-Los solicitantes de las licencias a que se refiere esta Ley, para la expedición y vigencia de la misma, deberán cumplir los requisitos siguientes:
+Los solicitantes de las licencias a que se refiere esta Ley, para la expedición y vigencia de la misma, deberán entregar la documentación requerida y cumplir con los requisitos siguientes:
 
 I. Identificación Oficial vigente y demás documentación que acredite su personalidad;
 
@@ -203,7 +233,19 @@ X. En los casos en que el establecimiento se ubique dentro de alguna comunidad o
 
 XI. No estar sujeto a procedimiento penal o sancionado por delitos contra la salud o delito de venta ilícita de bebidas alcohólicas; y
 
-XII. Reunir los requisitos que establezcan los ordenamientos municipales correspondientes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2024)</small>
+
+XII. Para el caso de los establecimientos a que se refieren los artículos 11 y 14 de esta Ley, exhibir contrato original de prestación de servicios de seguridad privada, en el cual, la prestadora con la que se celebre el contrato, cuente con autorización vigente en el Estado de Puebla, así como con la validación del registro del servicio emitido por la Dirección General de Seguridad Privada del Estado de Puebla, en términos de la Ley de Seguridad Privada del Estado Libre y Soberano de Puebla.
+
+Es obligación de la persona titular de las licencias o permisos provisionales, el corroborar que la prestadora de servicio con la cual se pretenda celebrar el contrato de prestación de servicio de seguridad privada, cuente con autorización vigente para brindarlo dentro del Estado de Puebla, a fin de no incurrir en responsabilidades previstas en la Ley de Seguridad Privada del Estado Libre y Soberano de Puebla.
+
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2024)</small>
+
+XIII. Para los establecimientos a que se refiere el artículo 11 de esta Ley, acreditar contar con circuito cerrado de televisión, con cámaras instaladas en el interior y exterior del establecimiento, evitando al máximo la existencia de puntos ciegos; el respaldo de grabación de dicho sistema, tendrá una vigencia mínima de 30 días naturales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2024)</small>
+
+XIV. Reunir los requisitos que establezcan los ordenamientos municipales correspondientes.
 
 Para la expedición y vigencia de los permisos provisionales no se requerirán las fracciones III y V de este artículo.
 
@@ -233,7 +275,21 @@ Las autoridades municipales darán vista al Ministerio Público cuando exista la
 
 Los establecimientos a que se refiere esta Ley, funcionarán los días y en los horarios que consten en su licencia o permiso provisional respectivo, o en su caso, en los que se señalen en el reglamento municipal correspondiente.
 
-Los municipios promoverán acciones de coordinación para unificar días y horas de funcionamiento para los establecimientos dedicados a la venta o consumo de bebidas alcohólicas, así como de programas de prevención de accidentes por consumo excesivo de bebidas alcohólicas, atendiendo al interés social y la seguridad pública.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JULIO DE 2024)</small>
+
+Bajo ningún supuesto, los establecimientos específicos y los no específicos, podrán operar, permanecer abiertos o permitir la permanencia o el ingreso de personas o comensales después de las 02:30 horas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2024)</small>
+
+Con independencia de lo anterior, queda estrictamente prohibida la venta, enajenación, o suministro de bebidas alcohólicas en cualquiera de los establecimientos que regula esta Ley, después de las 02:00 horas.
+
+> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2024)</small>
+
+Las licencias, así como los permisos provisionales para los establecimientos previstos en el artículo 14 de esta Ley, se sujetarán a los horarios determinados en el Reglamento Municipal correspondiente o, en su caso, en la autorización respectiva.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE JULIO DE 2024)</small>
+
+Los municipios promoverán acciones de coordinación para establecer programas de prevención de accidentes por consumo excesivo de bebidas alcohólicas, atendiendo al interés social y a la seguridad pública.
 
 ###### Artículo 21.
 
@@ -251,7 +307,9 @@ III. Presentar la licencia o permiso provisional en original a solicitud del ins
 
 IV. Aplicar los programas de prevención de accidentes a que se refiere esta Ley, que sean aprobados por los municipios;
 
-V. Abstenerse de vender o suministrar bebidas alcohólicas a menores de edad, personas con discapacidad mental, y a personas en manifiesto estado de ebriedad;
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
+
+V. Abstenerse de vender o suministrar bebidas alcohólicas a menores de edad, personas con discapacidad mental, a elementos de seguridad pública que porten su uniforme o, a personas en manifiesto estado de ebriedad;
 
 VI. Abstenerse de cualquier actividad o estrategia que induzca o motive el consumo excesivo de bebidas alcohólicas;
 
@@ -259,9 +317,17 @@ VII. Abstenerse de exigir determinado consumo de bebidas alcohólicas para el in
 
 VIII. Tratar con respeto y sin discriminación a las personas, limitando los mecanismos de acceso al establecimiento, los de estricto orden de llegada;
 
-IX. Cubrir las sanciones por las infracciones de esta Ley, en términos de los ordenamientos municipales correspondientes debiendo conservar en el establecimiento los comprobantes de pago; y
+> <small>(REFORMADA, P.O. 16 DE JULIO DE 2024)</small>
 
-X. Las demás que establezcan los reglamentos municipales correspondientes.
+IX. Cubrir las sanciones por las infracciones de esta Ley, en términos de los ordenamientos municipales correspondientes debiendo conservar en el establecimiento los comprobantes de pago;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2024)</small>
+
+X. Contribuir con la información, documentos y, en su caso, archivos digitales de las cámaras de vigilancia que les sean requeridos por elementos de Seguridad Pública, de la Fiscalía General del Estado o por cualquier otra autoridad competente en el ejercicio de sus funciones, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2024)</small>
+
+XI. Las demás que establezcan los reglamentos municipales correspondientes.
 
 ###### Artículo 23.
 
@@ -330,3 +396,15 @@ P.O. 11 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LA VENTA Y SUMINISTRO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE PUEBLA; DE LA LEY DE SEGURIDAD PRIVADA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA; Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 90 días naturales, a partir de la entrada en vigor del presente Decreto, para adecuar sus reglamentos municipales a la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla.
+
+CUARTO. Las Licencias y Permisos otorgados en términos de la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla, previo a la entrada en vigor del presente Decreto, mantendrán su vigencia, debiendo los establecimientos amparados por los mismos, ajustar su funcionamiento a los horarios establecidos en el artículo 20 de la mencionada ley.
