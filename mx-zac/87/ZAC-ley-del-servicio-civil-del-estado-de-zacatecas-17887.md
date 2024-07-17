@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2024-02-28"
+last_updated: "2024-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -101,6 +103,14 @@ LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
 La presente Ley tiene por objeto normar la relación de trabajo entre los Poderes del Estado, dependencias del Poder Ejecutivo, municipios, entidades paramunicipales, las de la administración pública paraestatal a que se refiere la Ley Orgánica de la Administración Pública del Estado, así como los Organismos Constitucionalmente Autónomos, con sus respectivos trabajadores.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2024)</small>
+
+###### Artículo 1 Bis.
+
+Quedan excluidos del régimen de la presente Ley el Gobernador del Estado, los diputados de la Legislatura del Estado, los magistrados de los tribunales del Estado, los jueces, los integrantes de los ayuntamientos; el Auditor Superior del Estado, las personas titulares de las entidades públicas, el titular y los integrantes de los órganos de gobierno o directivos de los organismos constitucionales autónomos, el personal del Instituto Electoral del Estado de Zacatecas y del Tribunal de Justicia Electoral del Estado de Zacatecas, así como aquellos que sean excluidos de forma expresa por disposición legal.
+
+Independientemente de lo señalado en el párrafo anterior, los servidores públicos mencionados en el presente artículo tendrán derecho a la remuneración que corresponda de acuerdo con la normatividad aplicable y gozarán de los beneficios de la seguridad social.
+
 ###### Artículo 2.
 
 Para los efectos de esta ley, se entiende por:
@@ -147,11 +157,11 @@ II.- De base; y
 
 III.- Temporales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2024)</small>
 
 ###### Artículo 5.
 
-Son trabajadoras y trabajadores de confianza aquéllos que realizan funciones de:
+Son trabajadoras y trabajadores de confianza aquéllos que realizan las funciones siguientes, siempre y cuando no se encuentren en alguno de los supuestos precisados en el artículo anterior:
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -181,27 +191,29 @@ Son personal de confianza las y los funcionarios así como empleadas y empleados
 
 Independientemente de la entidad pública en que preste sus servicios, se considera específicamente trabajadora o trabajador de confianza quien ocupe alguno de los cargos siguientes:
 
-I.- La o el Magistrado;
+I.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
-II.- La o el Secretario de Despacho;
+II.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
-III.- La o el Procurador General de Justicia del Estado;
+III.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
 IV.- (DEROGADA, P.O. 23 DE MARZO DE 2013)
 
-V.- La o el Representante del Gobierno del Estado en el Distrito Federal;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2024)</small>
+
+V.- La o el Representante del Gobierno del Estado en la Ciudad de México;
 
 VI.- La o el Subsecretario;
 
 VII.- La o el Subdirector;
 
-VIII.- La o el Subprocurador;
+VIII.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
-IX.- La o el Contador Mayor;
+IX.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
-X.- La o el Subcontador Mayor;
+X.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
-XI.- La o el Director General;
+XI.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
 XII.- La o el Director de Área;
 
@@ -215,11 +227,11 @@ XVI.- La o el Coordinador;
 
 XVII.- La o el Asesor;
 
-XVIII.- La o el Vocal Ejecutivo;
+XVIII.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
-XIX.- La o el Presidente de Órgano Colegiado;
+XIX.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
-XX.- La o el Juez;
+XX.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
 XXI.- La o el Secretario de Acuerdos;
 
@@ -227,7 +239,7 @@ XXII.- La o el Secretario de Estudio y Cuenta;
 
 XXIII.- La o el Defensor de Oficio;
 
-XXIV.- La o el Agente del Ministerio Público;
+XXIV.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
 XXV.- La o el Administrador;
 
@@ -241,9 +253,9 @@ XXIX.- La o el Supervisor;
 
 XXX.- La o el Visitador;
 
-XXXI.- La o el Oficial de policía;
+XXXI.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
-XXXII.- La o el Custodio;
+XXXII.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
 XXXIII.- La o el Vigilante; y
 
@@ -883,13 +895,21 @@ II. Cuando su esposa, concubina o pareja tenga perdida natural del embrión o fe
 
 III. Cuando algún familiar de hasta el segundo grado requiera de cuidados médicos.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2024)</small>
 
 ###### Artículo 55.
 
-Cuando las y los trabajadores tengan que desempeñar comisión de representación del Estado o de elección popular, incompatibles con su trabajo, la entidad pública les concederá el permiso o licencia necesarios sin goce de salario y sin perder sus derechos escalafonarios y de antigüedad, por todo el tiempo que la interesada o el interesado esté en el desempeño correspondiente de dicho encargo.
+Cuando las o los trabajadores tengan que desempeñar comisión de representación del Estado, puestos de elección popular, funciones de confianza o alguno de los supuestos establecidos en el artículo 1 bis de esta Ley y que sean incompatibles con su trabajo, la entidad pública les concederá el permiso o licencia necesarios sin goce de salario y sin perder sus derechos escalafonarios y de antigüedad, por todo el tiempo que el interesado esté en el desempeño correspondiente de dicho encargo.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2024)</small>
+
+Para efectos del párrafo anterior, se entenderá por comisión de representación del Estado la designación efectuada por la autoridad facultada para ello a favor de la trabajadora o del trabajador para el desempeño de un cargo previsto en la Constitución o en las leyes del Estado.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 La entidad pública, previo estudio del caso, podrá conceder permiso o licencia sin goce de sueldo a sus trabajadoras y trabajadores, hasta por un año, cuando éstos tengan por lo menos seis meses de antigüedad en el servicio, permiso que puede ser prorrogado por una sola vez, dependiendo de la naturaleza del cargo desempeñado.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 Para que los permisos o licencias se concedan es requisito previo la solicitud por escrito de la o el trabajador, cuando menos cinco días anteriores a la fecha en que debe empezar a surtir efectos el mismo; asimismo, deberá de avisar de la reanudación del servicio, con una anticipación de diez días al del vencimiento del permiso o licencia.
 
@@ -1851,9 +1871,9 @@ I.- Las acciones de la titular o el titular de la entidad pública para rescindi
 
 II.- Las acciones de las y los trabajadores que sean separados del trabajo.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2024)</small>
 
-La prescripción corre, en los casos de la fracción I, desde el momento en que se dé la causa de rescisión o de la falta, cuando se comprueben los errores cometidos, las pérdidas o averías imputables a la o el trabajador, o desde la fecha en que la deuda sea exigible.
+La prescripción corre, en los casos de la fracción I, a partir del día siguiente a la fecha en que se tenga conocimiento de la causal de rescisión o de la falta, cuando se comprueben los errores cometidos, las pérdidas o averías imputables a la o el trabajador, o desde la fecha en que la deuda sea exigible.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
@@ -2257,7 +2277,9 @@ III.- Dictar los acuerdos o providencias de trámite necesarios para instruir el
 
 IV.- Solicitar la debida integración del expediente para un mejor conocimiento de los hechos en la búsqueda de la verdad material, asimismo, los Magistrados podrán acordar la exhibición de cualquier documento que tenga relación con los mismos, ordenar la práctica de cualquier diligencia o proveer la preparación y desahogo de la prueba pericial cuando se planteen cuestiones de carácter técnico y no hubiere sido ofrecido por las partes, en el procedimiento;
 
-V.- Dirigir las audiencias con el personal de apoyo administrativo y jurisdiccional que requiera;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2024)</small>
+
+V.- Dirigir las audiencias de manera presencial;
 
 VI.- Concurrir, participar y votar, cuando corresponda, en las sesiones públicas y reuniones internas a las que sean convocados por el Presidente;
 
@@ -2297,7 +2319,11 @@ IV.- Coordinar, asignar y supervisar las labores de los secretarios de estudio y
 
 V.- Participar en las reuniones a las que sean convocados por el Presidente, y
 
-VI.- Las demás que les confieran el Reglamento Interior y otros ordenamientos aplicables.
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2024)</small>
+
+VI.- Presidir las audiencias de forma presencial, y
+
+VII.- Las demás que les confieran el Reglamento Interior y otros ordenamientos aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
@@ -2321,7 +2347,9 @@ VII.- Utilizar en beneficio propio o de terceros la documentación e informació
 
 VIII.- Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia, con motivo del ejercicio de sus atribuciones;
 
-IX.- Dejar de asistir a las sesiones del Pleno, sin causa justificada;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2024)</small>
+
+IX.- Dejar de asistir a las sesiones del Pleno o de presidir íntegramente y de manera presencial las audiencias que correspondan a su ponencia, en términos de esta Ley, sin causa justificada;
 
 X.- Desintegrar, sin motivo justificado, el quórum del Pleno, vistas o audiencias, una vez comenzados;
 
@@ -2401,7 +2429,9 @@ I.- Ser mexicano POR NACIMIENTO y ciudadano zacatecano, en pleno ejercicio de su
 
 II.- Tener cuando menos veinticinco años cumplidos el día de la designación;
 
-III.- Poseer el día de la designación, con antigüedad mínima de cinco años, título profesional de licenciado en derecho, expedido por la autoridad o la institución legalmente facultada para ello;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2024)</small>
+
+III.- Poseer el día de la designación, con antigüedad mínima de cinco años, título profesional de licenciado en derecho y cédula profesional expedidos por la autoridad o la institución legalmente facultada para ello;
 
 IV.- Contar como mínimo con dos años de experiencia en materia laboral;
 
@@ -2613,6 +2643,14 @@ XIII.- Las demás que confieran otros ordenamientos.
 
 El proceso laboral será público, gratuito, inmediato, predominantemente oral y se iniciará a instancia de parte. El Tribunal tendrá la obligación de tomar las medidas necesarias para lograr la mayor economía, concentración y sencillez en el proceso.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2024)</small>
+
+###### Artículo 169 Bis.
+
+El Tribunal deberá respetar el principio de inmediación durante el desarrollo de las audiencias, por lo que éstas deberán ser presididas y dirigidas por el Magistrado Ponente que corresponda, según el asunto, con excepción de las relativas al desahogo de pruebas, para lo cual podrá auxiliarse de un Secretario de Estudio y Cuenta, o bien, de un Secretario Instructor.
+
+Las audiencias serán nulas de pleno derecho cuando no se respete lo establecido en el párrafo anterior.
+
 ###### Artículo 170.
 
 (DEROGADO, P.O. 23 DE ENERO DE 2021)
@@ -2647,15 +2685,15 @@ Son partes en el proceso las o los titulares de las entidades públicas en donde
 
 Las y los trabajadores con dieciséis años cumplidos tienen capacidad plena para comparecer a juicio y para otorgar poderes. No obstante la o el Procurador de la Defensa de los Trabajadores al Servicio del Estado, les designará un representante legal. Lo mismo hará en tratándose de menores de dieciséis años.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2024)</small>
 
 ###### Artículo 176.
 
-Las y los trabajadores podrán comparecer al proceso del trabajo por sí o por apoderado, acreditado mediante simple carta poder otorgada ante dos testigos sin necesidad de ser ratificada ante el Tribunal.
+Las y los trabajadores podrán comparecer al proceso del trabajo por sí o por apoderado, acreditado mediante cédula profesional de licenciado en derecho y carta poder simple otorgada ante dos testigos sin necesidad de ser ratificada ante el Tribunal.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2024)</small>
 
-Las y los titulares de las entidades públicas podrán ser representados por apoderados que acrediten tener ese carácter mediante oficio o algún otro medio idóneo para ello.
+Las y los titulares de las entidades públicas podrán ser representados por apoderados que acrediten tener ese carácter mediante cédula profesional de licenciado en derecho, oficio o algún otro medio idóneo para ello.
 
 Los sindicatos podrán comparecer por conducto de quien los represente legalmente de acuerdo a sus estatutos, mediante la presentación de la constancia de registro de la mesa directiva.
 
@@ -2853,6 +2891,12 @@ Son nulas las notificaciones que no se practiquen de conformidad a lo dispuesto 
 
 Los incidentes se tramitarán dentro del expediente principal donde se promueve, salvo los casos previstos en esta ley.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2024)</small>
+
+###### Artículo 196 Bis.
+
+Cuando se requiera la citación o emplazamiento de personas, físicas o jurídicas, fuera del lugar de residencia del Tribunal o del Centro de Conciliación, éstos deberán ampliar el término de que se trate en función de la distancia, a razón de tres días más por cada 100 kilómetros o fracción que exceda de la mitad, tomando en cuenta los medios de transporte y las vías generales de comunicación existentes.
+
 ###### Artículo 197.
 
 Se tramitarán como incidentes de previo y especial pronunciamiento las siguientes cuestiones:
@@ -2987,6 +3031,10 @@ II.- Si se trata del Secretario General de Acuerdos, por la o el Secretario Inst
 
 Las y los Magistrados del Tribunal cuidarán, bajo su más estricta responsabilidad, que los juicios que ante ellos se tramiten no queden inactivos, proveyendo lo que conforme a la ley corresponda hasta dictar sentencia, salvo disposición en contrario.
 
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2024)</small>
+
+En caso de no cumplir lo anterior, se harán acreedores a las sanciones previstas en la Ley General de Responsabilidades Administrativas.
+
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 208.
@@ -3001,7 +3049,9 @@ El requerimiento se notificará asimismo a la o el Procurador de la Defensa de l
 
 Se tendrá por desistida de la demanda intentada, a toda persona que no haga promoción alguna en el término de tres meses, siempre que esa promoción sea necesaria para la continuación del procedimiento. No se tendrá por transcurrido dicho término si están desahogadas las pruebas de la o del actor o está pendiente de dictarse resolución sobre alguna promoción de las partes o la práctica de alguna diligencia, o la recepción de informes o copias que se hubiesen solicitado.
 
-Cuando se pida que opere la caducidad, el Tribunal citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia de la caducidad, dictará resolución.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2024)</small>
+
+La caducidad operará de oficio o a petición de parte, en este último supuesto, el Tribunal citará a las partes a una audiencia, en la que después de oírlas y recibir las pruebas que ofrezcan, que deberán referirse exclusivamente a la procedencia o improcedencia de la caducidad; en ambos casos, el Tribunal dictará la resolución que proceda.
 
 ### CAPITULO VI. DE LAS PRUEBAS
 
@@ -3461,39 +3511,43 @@ VII. La firma o rúbrica.
 
 El actor deberá anexar a la demanda, la constancia expedida por el Centro de Conciliación que acredite la conclusión del procedimiento de conciliación prejudicial sin acuerdo entre las partes, a excepción de los casos en los que no se requiera dicha constancia, según lo establecido en esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE JULIO DE 2024)</small>
 
 ###### Artículo 252.
 
-Dentro de las veinticuatro horas siguientes a la recepción del escrito inicial de demanda, el Tribunal, por conducto del Magistrado Ponente, dictará acuerdo en el que señalará día y hora para la celebración de la audiencia de demanda y excepciones, ofrecimiento y admisión de pruebas, que deberá efectuarse dentro de los veinte días hábiles siguientes a la fecha de recepción de la demanda. En el acuerdo ordenará notificar personalmente a las partes, cuando menos con diez días de anticipación a la audiencia.
+Dentro de las veinticuatro horas siguientes a la recepción del escrito inicial de demanda, se turnará al Magistrado Ponente, quien deberá prevenir al actor para que en el plazo de cinco días corrija su demanda por ser obscura e imprecisa, en caso de que no lo haga, perderá su derecho y no podrá ejercerlo con posterioridad, y el Magistrado dará trámite a la demanda con la irregularidad contenida.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2024)</small>
 
-Se entregará a la parte demandada copia cotejada de la demanda, para que en un término de cinco días hábiles conteste por escrito la demanda, apercibiéndolo de que se le tendrá por contestada en sentido afirmativo si una vez transcurrido este plazo no presenta su escrito de contestación, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas, demuestre que la o el actor no era trabajador, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
+Si la demanda se encuentra ajustada a derecho, el Magistrado deberá dictar el acuerdo de admisión respectivo dentro de los tres días siguientes a aquel en el que le sea turnada, o bien, una vez que el actor subsane la irregularidad o amplíe su demanda; en el acuerdo señalará día y hora para la celebración de la audiencia de demanda y excepciones, ofrecimiento y admisión de pruebas, que deberá efectuarse dentro de los veinte días hábiles siguientes a la fecha de recepción de la demanda. En el acuerdo ordenará notificar personalmente a las partes, cuando menos con diez días de anticipación a la audiencia.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2024)</small>
 
-En el escrito de contestación opondrá, la o el demandado, sus excepciones y defensas, debiendo referirse a todos y cada uno de los hechos aducidos en la demanda, afirmándolos o negándolos y expresando los que ignore cuando no sean propios, pudiendo agregar las explicaciones que estime convenientes. El silencio y las evasivas harán que se tengan por admitidos aquéllos sobre los que no se suscite controversia y no podrá admitirse prueba en contrario. La negación pura y simple del derecho implica la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho.
+Se entregará a la parte demandada copia cotejada de la demanda para que en un término de quince días hábiles conteste por escrito la demanda, apercibiéndolo de que se le tendrá por contestada en sentido afirmativo si una vez transcurrido este plazo no presenta su escrito de contestación, sin perjuicio de que en la etapa de ofrecimiento y admisión de pruebas, demuestre que la o el actor no era trabajador, que no existió el despido o que no son ciertos los hechos afirmados en la demanda.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2024)</small>
 
-La excepción de incompetencia no exime a la o el demandado de contestar la demanda y si no lo hiciere y el Tribunal se declara competente, se tendrá por confesada la demanda.
+En el escrito de contestación opondrá, la o el demandado, sus excepciones y defensas, debiendo referirse a todos y cada uno de los hechos aducidos en la demanda, así como en los escritos de aclaración o ampliación, si los hubiere, afirmándolos o negándolos y expresando los que ignore cuando no sean propios, pudiendo agregar las explicaciones que estime convenientes. El silencio y las evasivas harán que se tengan por admitidos aquéllos sobre los que no se suscite controversia y no podrá admitirse prueba en contrario. La negación pura y simple del derecho implica la confesión de los hechos. La confesión de éstos no entraña la aceptación del derecho.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 Una vez que se haya recibido el escrito de contestación de demanda, el Magistrado Ponente dictará un acuerdo en el que ordenará dar vista con el mismo, a la parte actora en la audiencia respectiva, a fin de que esté en aptitud de hacer uso de su derecho de réplica.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2024)</small>
 
 ###### Artículo 253.
 
-Cuando la o el actor sea la o el trabajador o sus beneficiarios, el Tribunal, en caso de que notare alguna irregularidad, vaguedad, u obscuridad en el escrito de demanda, o que estuviere ejercitando acciones contradictorias, previo a la admisión de la demanda y señalamiento del día y hora para la celebración de la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas, en el auto de presentación de la demanda le señalará los defectos y omisiones en que haya incurrido y lo prevendrá para que los subsane dentro de un término de tres días hábiles, con el apercibimiento de que de no hacerlo se tendrá por no interpuesta o bien se le dará tramite con la irregularidad contenida, dependiendo de la naturaleza de la irregularidad.
+Cuando la o el actor sea la o el trabajador o sus beneficiarios, podrá aclarar, modificar o ampliar la demanda, por una sola vez, en un término de cinco días hábiles contados a partir de su presentación, en caso de no hacerlo, se le tendrá por perdido su derecho y no podrá ejercerlo con posterioridad.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 254.
 
 La audiencia constará de dos etapas: de demanda y excepciones, así como de ofrecimiento y admisión de pruebas. Se iniciará con la comparecencia de las partes que concurran a la misma. Las partes ausentes podrán intervenir en el momento en que se presenten siempre y cuando no se haya cerrado la etapa con el dictado del acuerdo respectivo.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2024)</small>
+
+El Magistrado Ponente deberá presidir la audiencia y declarar la apertura y cierre de cada una de las etapas, cuando deba ausentarse, la audiencia será suspendida y solo podrá reanudarse cuando esté presente.
 
 ###### Artículo 255.
 
@@ -3503,13 +3557,11 @@ La audiencia constará de dos etapas: de demanda y excepciones, así como de ofr
 
 La etapa de demanda y excepciones se desarrollará conforme a las normas siguientes:
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2024)</small>
 
-I.- El actor expondrá su demanda, ratificándola o modificándola, precisando los puntos petitorios. Si la o el actor, siempre que se trate de la o el trabajador, no hubiera cumplido con los requisitos omitidos o no subsanare las irregularidades que se hubiesen señalado en el acuerdo de presentación de demanda, el Magistrado Ponente lo prevendrá para que lo haga en ese momento; si aquél no lo hace, quedará ratificado su escrito inicial de demanda, en esta etapa, se le correrá traslado a la parte actora con el escrito de contestación de la demanda presentado dentro del término establecido, para que produzca su réplica;
+I.- El actor expondrá su demanda y, en su caso, la aclaración y su ampliación, en caso de haberlas presentado en tiempo y forma legales, y procederá a su ratificación; en esta etapa, se le correrá traslado a la parte actora con el escrito de contestación de la demanda presentado dentro del término establecido, para que produzca su réplica;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
-
-II.- Si la o el actor amplía su demanda o la modifica de alguna manera, a petición del demandado el Tribunal suspenderá la audiencia y señalará nuevo día y hora para su reanudación dentro del término de cinco días;
+II.- (DEROGADA, P.O. 17 DE JULIO DE 2024)
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3537,7 +3589,9 @@ VIII.- Al concluir el periodo de demanda y excepciones, se pasará inmediatament
 
 La audiencia de demanda y excepciones, ofrecimiento y admisión de pruebas, se llevará a cabo aun cuando no concurran las partes.
 
-Si el actor no comparece al periodo de demanda y excepciones, se tendrá por reproducida en vía de demanda su comparecencia o escrito inicial.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2024)</small>
+
+Si el actor no comparece al periodo de demanda y excepciones, se tendrá por reproducida en vía de demanda su comparecencia o escrito inicial, así como su aclaración o ampliación, en caso de que las hubiere hecho en tiempo y forma legales.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3781,17 +3835,33 @@ Cuando la sentencia deba ser ejecutada por una autoridad diferente del Tribunal,
 
 Las sentencias deben ejecutarse una vez que transcurra el plazo para que la parte condenada pueda acudir a la demanda de amparo. La o el Secretario General de Acuerdos hará la certificación del plazo contado a partir de la notificación personal de la sentencia. Las partes podrán convenir en las modalidades del cumplimiento.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2024)</small>
 
 ###### Artículo 284.
 
-Siempre que en ejecución de sentencia deba darse una suma de dinero o hacer efectivo un derecho de la o el trabajador, la o el Presidente cuidará que se le entregue personalmente la cantidad que corresponda o que en la misma forma se cumpla la obligación a la que la parte contraria haya sido condenada. En su caso, las sentencias podrán cumplirse por exhorto.
+Siempre que en ejecución de sentencia deba darse una suma de dinero o hacer efectivo un derecho de la o el trabajador, previa retención o deducción legal que haga el patrón o, en su caso, la Secretaría de Finanzas del Gobierno del Estado de Zacatecas, la o el Presidente cuidará que se le entregue personalmente la cantidad que corresponda o que en la misma forma se cumpla la obligación a la que la parte contraria haya sido condenada. En su caso, las sentencias podrán cumplirse por exhorto.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 2021)</small>
 
 ###### Artículo 285.
 
 Transcurrido el término señalado en el artículo 283, la o el Presidente, a petición de la parte que obtuvo, dictará auto de requerimiento de pago, apercibiendo a la o el deudor que de no efectuarlo, se le impondrá una multa de hasta quince veces la Unidad de Medida y Actualización vigente; de no hacerlo en un nuevo requerimiento, se librará oficio a la Secretaría de Finanzas de Gobierno del Estado para que exhiba la cantidad de la condena ante la o el Presidente del Tribunal, quedando autorizada aquélla para deducir dicha cantidad del presupuesto o participación que corresponda a la entidad pública morosa.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2024)</small>
+
+###### Artículo 285 Bis.
+
+Las entidades públicas no estarán obligadas a reinstalar al servidor público, pero sí a cubrirle la indemnización de tres meses de salario base, veinte días por cada año de servicios y cubrirle las prestaciones a que tenga derecho, así como los salarios vencidos desde la fecha del despido hasta por un periodo máximo de doce meses, independientemente del tiempo que dure el proceso, exhibiendo la totalidad de la cantidad líquida en moneda nacional o mediante cheque certificado al momento de la negativa de reinstalar al actor, en los casos siguientes:
+
+I. El trabajador cuente con una antigüedad menor a un año;
+
+II. En los casos de trabajadores de confianza;
+
+III. Se compruebe ante el Tribunal que el trabajador, en razón de su función, debe estar en contacto directo con su superior jerárquico y el Tribunal estima, tomando en consideración las circunstancias del caso, que no es posible el desarrollo normal de la relación de trabajo;
+
+IV. Se trate de trabajadores por tiempo u obra determinados, y
+
+V. Que se haya suprimido la plaza y se compruebe ante el Tribunal la imposibilidad administrativa de crear una equivalente.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -4038,3 +4108,19 @@ P.O. 28 DE FEBRERO DE 2024.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 17 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 616.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el uno de agosto de dos mil veinticuatro, previa su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al cumplimiento de la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+En un término que no exceda de 60 días hábiles contados a partir de la entrada en vigor del presente decreto, el Tribunal deberá efectuar las modificaciones necesarias a su normatividad interna para adecuarlas al contenido de este instrumento legal.
