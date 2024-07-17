@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-etica-y-de-conducta-de-la-auditoria-superior-del-1453
 country: "mx"
 rank: "codigo"
 publication_date: "2020-11-30"
-last_updated: "2020-11-30"
+last_updated: "2024-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO DE ÉTICA Y DE CONDUCTA DE LA AUDITORIA SUPERIOR DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2024.
 
 Código publicado en el No. 144 del Periódico Oficial del Estado de Sinaloa, el lunes 30 de noviembre de 2020.
 
@@ -83,7 +83,9 @@ XII. Órgano Interno de Control: La unidad administrativa a cargo de promover, e
 
 XIII. Organización: Es una estructura administrativa conformada por personas servidoras públicas que interactúan dentro de un marco sistemático, para lograr metas y objetivos.
 
-XIV. Política de Integridad Institucional: Es el instrumento normativo elaborado por el Comité de Integridad de la Auditoría Superior, para orientar la actuación de las personas servidoras públicas en el desempeño de sus empleos, cargos o comisiones que se presenten y que deriven de las atribuciones, funciones, encomiendas y actividades de la Institución.
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2024)</small>
+
+XIV. Política de Integridad Institucional: Es el marco de referencia institucional que se integra por el Código de Ética y de Conducta, las Directrices para Prevenir el Conflicto de Intereses y la Política Antisoborno, para guiar y asegurar que la actuación de los servidores públicos que laboran en la Auditoría Superior, así como de las personas físicas o jurídicas contratadas que brinden servicios externos de cualquier índole para la Institución, en el desempeño de sus empleos, cargos o comisiones ante situaciones concretas que se les presenten y que deriven de las atribuciones, funciones y actividades propias de la Institución, asuman, respeten y cumplan los principios rectores, valores del servicio público y las reglas de integridad.
 
 XV. Responsabilidad Institucional: Es la obligación que tienen las Instituciones de asumir las consecuencias de los actos y omisiones, la cual se clasifica como una obligación de orden moral, social y legal, comprendiendo esta ultima la responsabilidad ética, civil, laboral, administrativa y penal.
 
@@ -426,3 +428,13 @@ Dado en la Ciudad de Culiacán, Rosales, Sinaloa, México, a los veintisiete dí
 Lic. Emma Guadalupe Félix Rivera
 
 Auditora Superior del Estado de Sinaloa.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE MODIFICA LA FRACCIÓN XIV DEL ARTÍCULO 3 DEL CÓDIGO DE ÉTICA Y DE CONDUCTA DE LA AUDITORÍA SUPERIOR DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. La Auditoría Superior del Estado de Sinaloa deberá difundir el presente acuerdo en su portal de internet y entre las personas vinculadas con el desarrollo de las actividades de esta Institución.
