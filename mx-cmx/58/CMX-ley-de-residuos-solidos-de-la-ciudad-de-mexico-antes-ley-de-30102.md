@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2023-04-03"
+last_updated: "2024-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 3 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 18 DE JULIO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -1268,15 +1268,13 @@ Toda persona que lleve a cabo procesos de tratamiento de residuos urbanos orgán
 
 ### CAPÍTULO ÚNICO. DE LA CONTAMINACIÓN DEL SUELO POR RESIDUOS SÓLIDOS
 
+> <small>(REFORMADO, G.O. 18 DE JULIO DE 2024)</small>
+
 ###### Artículo 65.
 
 Es responsabilidad de toda persona que genere y maneje residuos sólidos, hacerlo de manera que no implique daños a la salud humana ni al ambiente.
 
-Cuando la generación, manejo y disposición final de los residuos sólidos produzca contaminación del suelo, independientemente de las sanciones penales o administrativas que procedan, quien preste el servicio esta obligado a:
-
-I. Llevar a cabo las acciones necesarias para restaurar y recuperar las condiciones del suelo, de acuerdo a lo establecido en las disposiciones jurídicas aplicables; y
-
-II. En caso de que la recuperación o restauración no fueran factibles, a indemnizar por los daños causados a terceros o al ambiente de conformidad con la legislación aplicable.
+En caso de que la generación, manejo y disposición final de los residuos sólidos produzca contaminación del medio ambiente, independientemente de las sanciones penales o administrativas que procedan, quien preste el servicio quedará sujeto a las disposiciones de la Ley de Responsabilidad Ambiental de la Ciudad de México.
 
 ## TÍTULO SÉPTIMO. DE LAS MEDIDAS DE SEGURIDAD, SANCIONES, RECURSO DE INCONFORMIDAD Y DENUNCIA CIUDADANA
 
@@ -1633,3 +1631,19 @@ Cuarto. La Secretaría del Medio Ambiente de la Ciudad de México tendrá un pla
 Quinto. La Secretaría del Medio Ambiente de la Ciudad de México tendrá un plazo de 90 días, contados a partir de la entrada en vigor del presente Decreto, para establecer y aplicar las bases para la implementación de la plataforma digital de trazabilidad para la gestión integral de los residuos de la construcción y demolición. La plataforma será supervisada y vigilada por la misma.
 
 Sexto. La Plataforma digital de trazabilidad deberá garantizar la trazabilidad en todas las fases del proceso de gestión de los residuos de manejo especial. La plataforma deberá contar con la información necesaria y en su caso información adicional.
+
+G.O. 18 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 65 DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL; SE DEROGAN LOS ARTÍCULOS 221, 222, 223 Y 224 DEL CAPÍTULO VI DEL TÍTULO SÉPTIMO DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO; SE EXPIDE LA LEY DE RESPONSABILIDAD AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Reglamento de la presente Ley se expedirá en un plazo máximo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. El Consejo de la Judicatura del Poder Judicial de la Ciudad de México definirá el número de Juzgados Civiles de Proceso Oral y Salas de lo Civil especializados en materia ambiental, de acuerdo con las necesidades y el presupuesto con el que cuente.
+
+QUINTO. El Consejo de la Judicatura del Poder Judicial de la Ciudad de México definirá el número de Juzgados Penales y Salas de lo Penal especializados en materia ambiental, que conozcan de los procedimientos derivados de la comisión de delitos contra el ambiente, la gestión ambiental y los que atenten en contra de los elementos artificiales del ambiente en la Ciudad de México, de acuerdo con las necesidades y el presupuesto con el que cuente.
+
+SEXTO. En tanto entra en vigor en la Ciudad de México el Código Nacional de Procedimientos Civiles y Familiares, se seguirán aplicando supletoriamente las disposiciones de la legislación en materia de procedimientos civiles vigente en la Ciudad de México, de conformidad con el artículo 9 del presente Decreto.
