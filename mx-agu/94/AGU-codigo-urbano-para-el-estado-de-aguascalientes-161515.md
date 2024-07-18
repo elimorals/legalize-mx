@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2024-05-27"
+last_updated: "2024-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2024.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -4437,7 +4439,9 @@ II. Superficie mínima del lote: 75 metros cuadrados;
 
 III. Superficie mínima de construcción: 42 metros cuadrados;
 
-IV. Porcentaje de áreas de donación: 12% superficie neta; debidamente urbanizada.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2024)</small>
+
+IV. Porcentaje de áreas de donación: 15% superficie neta; debidamente urbanizada.
 
 V. Usos y destinos del suelo según la densidad determinada por los programas de Desarrollo urbano: a) Vivienda unifamiliar; y b) Vivienda multifamiliar.
 
@@ -4867,15 +4871,21 @@ Del área total que reciba el Municipio en donación por cada fraccionamiento, c
 
 Los bienes inmuebles que comprenden las áreas de donación de un fraccionamiento, condominio, desarrollo inmobiliario especial o subdivisión, son inalienables, imprescriptibles e inembargables, mientras no se les desafecten del servicio público al que se encuentren destinados. Las áreas verdes, de recreación y espacios abiertos, así como parques y jardines de donación, no podrán desafectarse y cambiarse de ese destino.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 334.
 
-Respecto de la donación que se debe otorgar al Municipio respectivo por parte de los fraccionadores o promotores, conforme a lo dispuesto en este Código, se podrá sustituir hasta un 70% de esa superficie de donación por la dotación que realicen dichos fraccionadores o promotores de equipamiento urbano e infraestructura, Obras de impacto Social Significativo de carácter público en las zonas o vialidades que el municipio determine, de acuerdo a lo siguiente:
+Respecto de la donación que se debe otorgar al Municipio respectivo por parte de los fraccionadores o promotores, conforme a lo dispuesto en este Código, se podrá sustituir hasta un 25% de esa superficie de donación por la dotación que realicen dichos fraccionadores o promotores de equipamiento urbano e infraestructura, Obras de impacto Social Significativo de carácter público en las zonas o vialidades que el municipio determine, de acuerdo a lo siguiente:
 
 I.- La superficie destinada para áreas verdes no podrá ser modificada, conforme a lo dispuesto por lo establecido en este Código;
 
-II.- Solo podrá aprobarse por la autoridad municipal competente hasta el 70% la sustitución, debiendo determinarse con precisión las obras de urbanización especificas a ejecutarse por el promotor, en las zonas donde el promotor las proponga o el municipio determine.
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2024)</small>
 
-III.- En el caso de los condominios verticales, podrán sustituirse por obras de equipamiento o pago en numerario conforme a avalúo comercial de perito valuador certificado, hasta el 100% de las áreas de donación que les corresponda. En el entendido de que, si la sustitución es en numerario, el recurso será exclusivamente para la instalación inmediata de equipamiento deportivo y/o recreativo en las zonas habitacionales urbanas o rurales que carezcan de ellos.
+II.- Solo podrá aprobarse por la autoridad municipal competente hasta el 25% la sustitución, debiendo determinarse con precisión las obras de urbanización especificas a ejecutarse por el promotor, en las zonas donde el promotor las proponga o el municipio determine.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE JULIO DE 2024)</small>
+
+III.- En el caso de los condominios verticales, podrán sustituirse por obras de equipamiento o pago en numerario conforme a avalúo comercial de perito valuador certificado, hasta el 25% de las áreas de donación que les corresponda. En el entendido de que, si la sustitución es en numerario, el recurso será exclusivamente para la instalación inmediata de equipamiento deportivo y/o recreativo en las zonas habitacionales urbanas o rurales que carezcan de ellos.
 
 Igualmente, la sustitución deberá aprobarse por la Secretaría Municipal Correspondiente y desde esa aprobación se indicarán las Obras de urbanización, Obras de impacto Social Significativo, Equipamiento Urbano a ejecutarse por el promotor, en las zonas donde el municipio determine.
 
@@ -10150,3 +10160,11 @@ El Consejo Estatal de Desarrollo Urbano, Ordenamiento Territorial y Vivienda, de
 ###### ARTÍCULO CUARTO.
 
 El Poder Ejecutivo del Estado y los Ayuntamientos de los Municipios de la Entidad, deberán con la entrada en vigor del presente Decreto, modificar y actualizar su marco normativo a efecto de darle cumplimiento, en un término no mayor a 180 días de que se emitan los Lineamientos a que hace referencia el Artículo Tercero Transitorio de este Decreto.
+
+P.O. 18 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 762.- SE REFORMA EL CÓDIGO URBANO DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Decreto Iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Con el inicio de vigencia del presente Decreto, queda sin efecto cualquier disposición legal o reglamentaria que se oponga a lo establecido en el mismo.
