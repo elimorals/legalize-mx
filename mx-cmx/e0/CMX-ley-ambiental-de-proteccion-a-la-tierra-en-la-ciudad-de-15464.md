@@ -4,7 +4,7 @@ identifier: "CMX-ley-ambiental-de-proteccion-a-la-tierra-en-la-ciudad-de-15464"
 country: "mx"
 rank: "ley"
 publication_date: "2000-01-13"
-last_updated: "2023-11-28"
+last_updated: "2024-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15464&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "1999-12-31"
 ---
 # LEY AMBIENTAL DE PROTECCION A LA TIERRA EN LA CIUDAD DE MEXICO -- ANTES LEY AMBIENTAL DEL DISTRITO FEDERAL --
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO, PUBLICADA EN LA G.O. DE 18 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE JULIO DE 2024 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 13 de enero de 2000.
 
@@ -4724,29 +4724,19 @@ Las resoluciones dictadas en los procedimientos administrativos con motivo de la
 
 ###### ARTÍCULO 221.
 
-Sin perjuicio de las sanciones penales o administrativas que procedan, toda persona que contamine o deteriore el ambiente, o afecte los recursos naturales de competencia del Distrito Federal será responsable y estará obligada a reparar los daños causados, de conformidad con lo dispuesto en la legislación civil aplicable al Distrito Federal y esta Ley.
-
-La acción por daños al ambiente se ejercerá sin perjuicio del ejercicio de la acción indemnizatoria ordinaria promovida por el directamente afectado.
-
-La acción para demandar la responsabilidad por daños al ambiente prescribirá cinco años después de que hayan cesado los efectos del daño en cuestión.
-
-Cualquier persona física o moral de las comunidades afectadas tendrá derecho a ejercer la acción de responsabilidad por daño al ambiente, siempre que demuestre en el procedimiento la existencia del daño y el vínculo entre éste y la conducta imputable al demandado. En consecuencia, los tribunales del Distrito Federal le reconocerán interés jurídico en los procedimientos de que se trate, sin necesidad de probar que el daño le afecta directamente en sus personas o en sus bienes.
+(DEROGADO, G.O. 18 DE JULIO DE 2024)
 
 ###### ARTÍCULO 222.
 
-La reparación del daño consistirá en la restitución de las cosas al estado en que se encontraban antes de producido el daño y sólo si ello no fuere posible, en el pago de una indemnización.
-
-Cuando en un juicio en el que se ejerza la acción de responsabilidad por daño al ambiente el juez determine que ha lugar al pago de una indemnización, el monto de la misma pasará a integrarse a los recursos del fondo ambiental a que se refiere esta Ley.
+(DEROGADO, G.O. 18 DE JULIO DE 2024)
 
 ###### ARTÍCULO 223.
 
-En materia de daños al ambiente serán competentes todos los jueces del Distrito Federal atendiendo a las disposiciones relativas a la distribución de competencias, por territorio y por cuantía que establecen las disposiciones correspondientes.
-
-Para el desahogo del procedimiento en el que se ejerza la acción por daños al ambiente se seguirán las reglas establecidas para el procedimiento ordinario civil, establecido en el Código de Procedimientos Civiles del Distrito Federal.
+(DEROGADO, G.O. 18 DE JULIO DE 2024)
 
 ###### ARTÍCULO 224.
 
-Cuando por infracción a las disposiciones de esta Ley y sus disposiciones reglamentarias se ocasionen daños o perjuicios, los interesados podrán solicitar a la autoridad ambiental, la formulación de un dictamen técnico al respecto, el cual tendrá el valor de medio de convicción, en caso de que se presente en juicio.
+(DEROGADO, G.O. 18 DE JULIO DE 2024)
 
 > <small>(ADICIONADO, G.O. 7 DE ABRIL DE 2011)</small>
 
@@ -5167,3 +5157,53 @@ TERCERO. La Secretaría de Medio Ambiente y la Jefatura de Gobierno, ambas de la
 CUARTO. El Congreso de la Ciudad de México deberá realizar las modificaciones a las Normas Generales de Ordenación correspondientes.
 
 QUINTO. La Jefatura del Gobierno de la Ciudad tendrá hasta 120 días naturales para modificar las disposiciones Reglamentarias materia del presente decreto.
+
+G.O. 18 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY AMBIENTAL DE LA CIUDAD DE MÉXICO Y SE ABROGA LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. A la entrada en vigor de la presente Ley se abroga la Ley Ambiental de Protección a la Tierra en la Ciudad de México, publicada en la Gaceta Oficial de la Ciudad de México el 13 de enero del año 2000.
+
+CUARTO. La reglamentación que derive de esta Ley, deberá ser expedida dentro de los ciento ochenta días hábiles siguientes a su entrada en vigor.
+
+QUINTO. Todos los procedimientos, recursos administrativos y demás asuntos relacionados con las materias de esta Ley que se encuentren en trámite a la entrada en vigor del presente decreto, serán resueltos conforme a la normativa vigente al momento de su inicio.
+
+SEXTO. En tanto se expiden las disposiciones reglamentarias de esta Ley, seguirán en vigor los Reglamentos de la Ley Ambiental de Protección a la Tierra en la Ciudad de México, en lo que no se oponga a la presente Ley.
+
+SÉPTIMO. La instalación del Consejo Intersectorial a que se refiere el artículo 125, se conformará dentro de los 120 días siguientes a su entrada en vigor de la presente Ley.
+
+OCTAVO. Los Lineamientos que las personas interesadas deberán cumplir para tramitar y obtener la acreditación como dictaminador técnico de arbolados, deberán ser expedidos dentro de los 180 días hábiles siguientes a la entrada en vigor de este ordenamiento.
+
+NOVENO. Los Lineamientos técnicos para la conservación, protección y restauración de los suelos, en las actividades agropecuarias, mineras, forestales e hidráulicas, deberán ser expedidos dentro de los 180 días hábiles siguientes a la entrada en vigor de este ordenamiento.
+
+DÉCIMO. Los Lineamientos para sustituir el uso de suelo natural o suelo de monte por tecnosuelos, deberán ser expedidos dentro de los 180 días hábiles siguientes a la entrada en vigor de este ordenamiento.
+
+DÉCIMO PRIMERO. Los Lineamientos para el incremento de las áreas verdes, deberán ser expedidos dentro de los 180 días hábiles siguientes a la entrada en vigor de este ordenamiento.
+
+DÉCIMO SEGUNDO. Se derogan todas aquellas disposiciones que contravengan lo dispuesto en esta Ley y sus reglamentos.
+
+DÉCIMO TERCERO. Los lineamentos de la consulta vecinal deberán publicarse en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor de la presente Ley; para los proyectos que se encuentren en trámite a la entrada en vigor del presente decreto, serán resueltos conforme al “AVISO POR EL QUE SE DA A CONOCER EL PROCESO DE CONSULTA VECINAL PARA GRANDES CONSTRUCCIONES”, publicado en la Gaceta Oficial de la Ciudad de México el veintisiete de diciembre de dos mil diecinueve.
+
+DÉCIMO CUARTO. En tanto se expidan los Lineamientos de la consulta vecinal, seguirá en vigor el “El AVISO POR EL QUE SE DA A CONOCER EL PROCESO DE CONSULTA VECINAL PARA GRANDES CONSTRUCCIONES”, publicado en la Gaceta Oficial de la Ciudad de México el veintisiete de diciembre de dos mil diecinueve.
+
+G.O. 18 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 65 DE LA LEY DE RESIDUOS SÓLIDOS DEL DISTRITO FEDERAL; SE DEROGAN LOS ARTÍCULOS 221, 222, 223 Y 224 DEL CAPÍTULO VI DEL TÍTULO SÉPTIMO DE LA LEY AMBIENTAL DE PROTECCIÓN A LA TIERRA EN LA CIUDAD DE MÉXICO; SE EXPIDE LA LEY DE RESPONSABILIDAD AMBIENTAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase el presente Decreto a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. El Reglamento de la presente Ley se expedirá en un plazo máximo de 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. El Consejo de la Judicatura del Poder Judicial de la Ciudad de México definirá el número de Juzgados Civiles de Proceso Oral y Salas de lo Civil especializados en materia ambiental, de acuerdo con las necesidades y el presupuesto con el que cuente.
+
+QUINTO. El Consejo de la Judicatura del Poder Judicial de la Ciudad de México definirá el número de Juzgados Penales y Salas de lo Penal especializados en materia ambiental, que conozcan de los procedimientos derivados de la comisión de delitos contra el ambiente, la gestión ambiental y los que atenten en contra de los elementos artificiales del ambiente en la Ciudad de México, de acuerdo con las necesidades y el presupuesto con el que cuente.
+
+SEXTO. En tanto entra en vigor en la Ciudad de México el Código Nacional de Procedimientos Civiles y Familiares, se seguirán aplicando supletoriamente las disposiciones de la legislación en materia de procedimientos civiles vigente en la Ciudad de México, de conformidad con el artículo 9 del presente Decreto.
+
+Una vez que entre en vigor en la Ciudad de México el Código Nacional de Procedimientos Civiles y Familiares, los procedimientos de responsabilidad ambiental que se encuentren en curso continuarán su substanciación de conformidad con las disposiciones jurídicas previstas en el presente Decreto y supletoriamente las disposiciones del procedimiento oral civil aplicables desde el inicio de los mismos conforme al Código de Procedimientos Civiles para el Distrito Federal, salvo que las partes de manera expresa decidan que en la continuación del procedimiento se aplicarán supletoriamente las disposiciones previstas en el Código Nacional de Procedimientos Civiles y Familiares para el mismo procedimiento.
