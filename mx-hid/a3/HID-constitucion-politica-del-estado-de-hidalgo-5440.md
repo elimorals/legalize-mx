@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2023-12-04"
+last_updated: "2024-07-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -139,9 +139,9 @@ IV. Los sujetos obligados deberán preservar sus documentos en archivos administ
 
 El Estado contará con un Órgano Garante autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, al que se le denominará Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, responsable de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios rectores que establece esta Constitución y las leyes secundarias.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2024)</small>
 
-El Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo se integrará por cinco comisionados que permanecerán en su encargo por un período de siete años y no podrán ser reelectos. Su designación se realizará en los términos de la ley reglamentaria de manera escalonada para garantizar el principio de autonomía, procurando la igualdad de género y privilegiando la experiencia en materia de acceso a la información pública y protección de datos personales. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia.
+El Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo se integrará por tres miembros, denominados Comisionadas y Comisionados que permanecerán en su encargo por un período de siete años y no podrán ser reelectos. Su designación se realizará en los términos de la ley reglamentaria de manera escalonada para garantizar el principio de autonomía, procurando la igualdad de género y privilegiando la experiencia en materia de acceso a la información pública y protección de datos personales. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2016)</small>
 
@@ -1225,9 +1225,9 @@ VIII. Aprobar en su caso, la propuesta del Ejecutivo para nombrar a las y los Ma
 
 Nombrar de las listas propuestas por la persona Titular del Poder Ejecutivo a las personas titulares de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción, así como conocer de su renuncia o remoción, mediante el procedimiento señalado en la Ley de la materia;
 
-> <small>(ADICIONADA, P.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 18 DE JULIO DE 2024)</small>
 
-VIII Bis. Nombrar a los Comisionados del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, así como conocer de su renuncia o remoción, mediante el procedimiento señalado en la Ley de la materia.
+VIII Bis. Nombrar a las Comisionadas y los Comisionados del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, así como conocer de su renuncia o remoción, mediante el procedimiento señalado en la Ley de la materia;
 
 IX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
@@ -4293,7 +4293,11 @@ Además, se deberá actualizar, adecuar y armonizar la legislación secundaria c
 
 A partir de la entrada en funciones de la Fiscalía General de Justicia del Estado, todas las referencias de los ordenamientos jurídicos que se hagan al Procurador o Procuraduría General de Justicia del Estado de Hidalgo, deberán entenderse hechas al Fiscal o Fiscalía General de Justicia del Estado de Hidalgo.
 
-TERCERO. La persona que ostente el cargo de titular de la Procuraduría General de Justicia y se encuentre en funciones al momento de la publicación del presente Decreto, dentro de los treinta días naturales siguientes, deberá integrar una Comisión Interinstitucional de Transición, en la que participará personal de esa institución, de la Secretaría de Gobierno, de la Secretaría de Finanzas Públicas, de la Oficialía Mayor, de la Unidad de Planeación y Prospectiva y una diputada o un diputado integrante de la Primera Comisión Permanente de Seguridad Ciudadana y Justicia del Congreso del Estado, que tendrá a su cargo planificar, programar, proyectar, vigilar, evaluar y dar seguimiento a todas aquellas labores que sean necesarias para la correcta implementación del presente Decreto, el análisis integral del personal, así como coordinar las tareas entre las distintas áreas involucradas, hasta la conclusión de dicha transición, misma que deberá concretarse en un plazo no mayor de dos años.
+> <small>(REFORMADO, P.O. 18 DE JULIO DE 2024)</small>
+
+TERCERO. La persona que ostente el cargo de titular de la Procuraduría General de justicia y se encuentre en funciones al momento de la publicación del presente Decreto, dentro de los treinta días naturales siguientes, deberá integrar una Comisión Interinstitucional de Transición, en la que participará personal de esa institución, de la Secretaría de Gobierno, de la Secretaría de Hacienda, de la Oficialía Mayor, de la Unidad de Planeación y Prospectiva y una diputada o un diputado integrante de la Primera Comisión Permanente de Seguridad Ciudadana y Justicia del Congreso del Estado, que tendrá a su cargo planificar, programar, proyectar, vigilar, evaluar y dar seguimiento a todas aquellas labores que sean necesarias para la correcta implementación del presente Decreto, el análisis integral del personal, así como coordinar las tareas entre las distintas áreas involucradas, hasta la conclusión de dicha transición, misma que deberá concretarse en un plazo no mayor a tres años.
+
+A petición de la Comisión Interinstitucional de Transición, el Congreso del Estado podrá autorizar la ampliación del plazo descrito en el párrafo anterior, siempre y cuando existan causas justificadas.
 
 CUARTO. Una vez emitida la declaratoria a que hace referencia el Artículo Segundo Transitorio, la persona titular del Poder Ejecutivo y el Congreso del Estado, deberán llevar a cabo el procedimiento para el nombramiento de la persona que ejercerá el cargo de Fiscal General de Justicia del Estado.
 
@@ -4360,3 +4364,33 @@ P.O. 4 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 588 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO, RECORRIENDO EN SU ORDEN LOS SUBSECUENTES, A LA FRACCIÓN I DEL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 18 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1047 POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL “DECRETO NÚMERO 218, POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO EL 22 DE JUNIO DE 2022”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1048 POR EL QUE SE REFORMA EL PÁRRAFO SEXTO DEL ARTÍCULO 4 BIS Y LA FRACCIÓN VIII BIS DEL ARTÍCULO 56 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Congreso del Estado Libre y Soberano de Hidalgo, tendrá un plazo de 120 días naturales, contados a partir de su entrada en vigor, para armonizar la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo y demás normatividad aplicable, conforme a lo establecido en el presente Decreto.
+
+CUARTO. Las Comisionadas y Comisionados que actualmente forman parte del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, continuarán en su encargo por el periodo en que fueron designados por el Congreso del Estado Libre y Soberano de Hidalgo en Sesión Ordinaria de fecha 17 de septiembre de 2020.
+
+QUINTO. El Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo quedará integrado con tres Comisionadas y Comisionados en términos del presente Decreto, a partir del 17 de septiembre de 2024, fecha en que concluirán su encargo dos de los Comisionados que fueron designados el 17 de septiembre de 2020 por el Congreso del Estado Libre y Soberano de Hidalgo por un periodo de cuatro años.
+
+SEXTO. Con la finalidad de asegurar la renovación escalonada de las Comisionadas y los Comisionados Propietarios y Suplentes, en la integración del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, en términos del presente Decreto, el Congreso del Estado Libre y Soberano de Hidalgo, por única vez, especificará el periodo de ejercicio del encargo para cada Comisionada o Comisionado, considerando lo siguiente:
+
+a) La persona que sustituya a la Comisionada que culminará su encargo el 17 de septiembre de 2026, será designada por un periodo de 7 años, para terminar su encargo el 17 de septiembre de 2033.
+
+b) La persona que sustituya al Comisionado que finalizará su encargo el 17 de septiembre de 2026, será designada por un periodo de 5 años, para culminar su encargo el 17 de septiembre de 2031.
+
+c) La persona que sustituya a la Comisionada que terminará su encargo el 17 de septiembre de 2027, será designada por un periodo de 2 años, para finalizar su encargo el 17 de septiembre de 2029.
