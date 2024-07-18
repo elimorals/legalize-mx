@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-centro-de-conciliacion-laboral-del-158642
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-05-30"
-last_updated: "2022-05-30"
+last_updated: "2024-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158642&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DEL CENTRO DE CONCILIACION LABORAL DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 18 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2024 (DEROGADO).
 
 Estatuto publicado en la Edición Vespertina Extraordinario al Número 10 del Periódico Oficial del Estado de Tamaulipas, el lunes 30 de mayo de 2022.
 
@@ -744,3 +746,37 @@ Se dejan sin efecto todas aquellas disposiciones que contravengan lo dispuesto e
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Tamaulipas, a los cuatro días del mes de mayo del año dos mil veintidós.
 
 ATENTAMENTE.- LAS PERSONAS INTEGRANTES DE LA JUNTA DE GOBIERNO.- TITULAR DE LA SECRETARÍA DEL TRABAJO.- PRESIDENTE.- C.P. MIGUEL ÁNGEL VILLARREAL ONGAY.- Rúbrica.- SECRETARIO TÉCNICO.- LIC. JULIÁN AURELIO ZORRILLA ESTRADA.- Rúbrica.- REPRESENTANTE DE LA CONTRALORÍA GUBERNAMENTAL DEL ESTADO DE TAMAULIPAS.- C.P. MA. CONCEPCIÓN MARTÍNEZ ASSAD.- Rúbrica.- TITULAR DEL CENTRO DE MASC DEL PODER JUDICIAL.- LIC. EDGAR ULISES LÓPEZ BALDERAS.- Rúbrica.- REPRESENTANTE DE LA LEGISLATURA.- DIP. GUILLERMINA MAGALY DEANDAR ROBINSON.- Rúbrica.- TITULAR DEL ITAIT.- LIC. HUMBERTO RANGEL VALLEJO.- Rúbrica.- REPRESENTANTE DE LA SECRETARÍA DE FINANZAS.- LIC. CARLOTA DE LEÓN POSADA.- Rúbrica.- DIRECTOR GENERAL DEL CENTRO DE CONCILIACIÓN LABORAL.- LIC. ALEJANDRO ROSAS GONZÁLEZ.- Rúbrica.- PRESENTO LA PROPUESTA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Estatuto Orgánico del Centro de Conciliación Laboral del Estado de Tamaulipas publicado en el Periódico Oficial del Estado Edición Vespertina Extraordinario Número 10, de fecha 30 de mayo de 2022.
+
+###### ARTÍCULO TERCERO.
+
+El Director General del Centro de Conciliación Laboral del Estado de Tamaulipas, realizará todos los trámites y gestiones necesarias para la difusión del presente Estatuto Orgánico.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan al presente Estatuto Orgánico.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones de las o los servidores públicos titulares de las unidades administrativas que conforman al Centro de Conciliación Laboral del Estado de Tamaulipas, estarán previstas en el Manual de Organización, que será publicado a los 90 días posteriores a la publicación del presente Estatuto.
+
+###### ARTÍCULO SEXTO.
+
+El presente Estatuto Orgánico del Centro de Conciliación Laboral del Estado de Tamaulipas, deberá inscribirse en el Registro Estatal de Organismos Descentralizados, de conformidad con el numeral 3 del artículo 12 de la Ley de Entidades Paraestatales del Estado de Tamaulipas.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los asuntos pendientes a la entrada en vigor del presente Estatuto continuarán su trámite y serán resueltos hasta su conclusión por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia para resolver los asuntos correspondientes, sin que se afecte su validez jurídica y administrativa.
