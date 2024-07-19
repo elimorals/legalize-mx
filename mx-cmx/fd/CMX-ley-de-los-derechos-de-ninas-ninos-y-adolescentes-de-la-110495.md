@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-de-la-110495"
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-12"
-last_updated: "2024-04-29"
+last_updated: "2024-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110495&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-13"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 12 de noviembre de 2015.
 
@@ -1226,9 +1226,13 @@ X. La incitación o coacción para que participen en la comisión de delitos o e
 
 XI. El castigo corporal y/o humillante; y
 
-> <small>(ADICIONADA, G.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
 
-XII. Contenidos en los medios de comunicación y redes sociales que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes, o que hagan apología del delito, en contravención al principio de interés superior de la niñez.
+XII. Contenidos en los medios de comunicación y redes sociales que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes, o que hagan apología del delito, en contravención al principio de interés superior de la niñez; y
+
+> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2024)</small>
+
+XIII. Actos de violencia física, psicoemocional, moral y/o amenazas en contra o en presencia de niñas, niños o adolescentes, derivados de incidentes por el tránsito de vehículos.
 
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
@@ -3133,3 +3137,11 @@ G.O. 29 DE ABRIL DE 2024.
 PRIMERO.- Remítase a la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL PÁRRAFO ÚNICO DE LA FRACCIÓN VII Y SE ADICIONA UNA FRACCIÓN VIII DEL ARTÍCULO 135; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 240; SE MODIFICA EL ÚNICO PÁRRAFO DE LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN III DEL ARTÍCULO 242, AMBOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y SE MODIFICA EL PÁRRAFO ÚNICO DE LA FRACCIÓN XII Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 44 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
