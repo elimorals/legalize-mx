@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-busqueda-de-personas-desaparecidas-en-el-estado-143
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-03"
-last_updated: "2024-06-07"
+last_updated: "2024-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2024.
 
 Ley publicada en la segunda parte del Número 111 del Periódico Oficial del Estado de Guanajuato, el miércoles 3 de junio de 2020.
 
@@ -341,15 +341,19 @@ III. El titular de la Comisión de Búsqueda, quien fungirá como Secretaría Ej
 
 IV. El titular de la Secretaría de Seguridad Pública;
 
+> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2024)</small>
+
+V. El titular de la Secretaría de Salud;
+
 > <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
 
-V. El titular del Instituto para las Mujeres Guanajuatenses;
+VI. El titular del Instituto para las Mujeres Guanajuatenses;
 
-VI. Tres integrantes del Consejo Ciudadano;
+VII. Tres integrantes del Consejo Ciudadano;
 
-VII. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato; y
+VIII. El titular de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato; y
 
-VIII. El titular de la Comisión de Víctimas.
+IX. El titular de la Comisión de Víctimas.
 
 Así como un representante del Poder Judicial del Estado de Guanajuato, que deberá ser convocado a cada reunión del Sistema Estatal, quien tendrá solo derecho a voz y no a voto.
 
@@ -2358,5 +2362,11 @@ Artículo Segundo. La titular del Instituto para las Mujeres Guanajuatenses se i
 P.O. 7 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 305 MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN VIII DEL ARTÍCULO 23 Y LA FRACCIÓN V DEL ARTÍCULO 108 Y, SE ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE AL ARTÍCULO 23 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 19 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 338 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN V, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 18 DE LA LEY PARA LA BÚSQUEDA DE PERSONAS DESAPARECIDAS EN EL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
