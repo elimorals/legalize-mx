@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2024-06-27"
+last_updated: "2024-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 19 DE JULIO DE 2024.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -1460,9 +1460,13 @@ V. Evada un punto de revisión de autoridad competente, previamente autorizado;
 
 VI. Atendiendo la vía en la que circule, supere en una mitad la velocidad máxima permitida por el Reglamento de Tránsito de la Ciudad de México; o
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 4 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
 
-VII. Produzca la conducta como consecuencia de manipular el teléfono celular o cualquier dispositivo de comunicación.
+VII. Produzca la conducta como consecuencia de manipular el teléfono celular o cualquier dispositivo de comunicación; o
+
+> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2024)</small>
+
+VIII. Haga uso de violencia física, psicoemocional, moral y/o amenazas en contra de los pasajeros, el conductor del vehículo o con motivo de ellas cause daño en el mismo en presencia de niñas, niños o adolescentes.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 19 DE FEBRERO DE 2024)</small>
 
@@ -3496,7 +3500,9 @@ No se considerará delito:
 
 I. Cuando por culpa se ocasione únicamente daño a la propiedad con motivo del tránsito de vehículos; y
 
-II. El conductor o conductores involucrados no se encuentren en alguno de los supuestos establecidos en las fracciones I y II del artículo 242 de este Código Penal.
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
+
+II. El conductor o conductores involucrados no se encuentren en alguno de los supuestos establecidos en las fracciones I, II y III del artículo 242 de este Código Penal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2003)</small>
 
@@ -3540,9 +3546,17 @@ Son parte del Sistema Integrado de Transporte Público todos aquellos que están
 
 Cuando los daños se ocasionen culposamente con motivo de tránsito de vehículos, siempre que no se trate del supuesto previsto en la fracción I del segundo párrafo del artículo 240 de este cuerpo normativo, se impondrá la mitad de las penas previstas en el artículo 239 de este Código, en los siguientes casos:
 
-I. El agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares; o
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
 
-II. No auxilie a la víctima del delito o se dé a la fuga.
+I. El agente conduzca en estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos u otras substancias que produzcan efectos similares;
+
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
+
+II. No auxilie a la víctima del delito o se dé a la fuga; o
+
+> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2024)</small>
+
+III. Se haga uso de violencia física, psicoemocional, moral y/o amenazas en contra de los pasajeros, el conductor del vehículo o con motivo de ellas cause daño en el mismo en presencia de niñas, niños o adolescentes.
 
 Se impondrá además, suspensión de los derechos en cuyo ejercicio hubiese cometido el delito, por un lapso igual al de la pena de prisión que se le imponga, o si es servidor público, inhabilitación por el mismo lapso para obtener otro empleo, cargo o comisión de la misma naturaleza.
 
@@ -6841,3 +6855,11 @@ G.O. 27 DE JUNIO DE 2024.
 PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 19 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL PÁRRAFO ÚNICO DE LA FRACCIÓN VII Y SE ADICIONA UNA FRACCIÓN VIII DEL ARTÍCULO 135; SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 240; SE MODIFICA EL ÚNICO PÁRRAFO DE LA FRACCIÓN II Y SE ADICIONA UNA FRACCIÓN III DEL ARTÍCULO 242, AMBOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL Y SE MODIFICA EL PÁRRAFO ÚNICO DE LA FRACCIÓN XII Y SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 44 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
