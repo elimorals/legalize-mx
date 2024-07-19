@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-filmaciones-de-la-ciudad-de-mexico-antes-ley-de-66373"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-17"
-last_updated: "2012-05-09"
+last_updated: "2024-07-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66373&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "2009-02-12"
 ---
 # LEY DE FILMACIONES DE LA CIUDAD DE MEXICO -- ANTES LEY DE FILMACIONES DEL DISTRITO FEDERAL --
 
-LEY DE FILMACIONES DEL DISTRITO FEDERAL
+LEY DE FILMACIONES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 9 DE MAYO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE JULIO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 17 de febrero de 2009.
 
@@ -50,7 +50,9 @@ DECRETO POR EL QUE SE EXPIDE LA LEY DE FILMACIONES DEL DISTRITO FEDERAL.
 
 Se expide la Ley de Filmaciones del Distrito Federal, para quedar como sigue:
 
-LEY DE FILMACIONES DEL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 19 DE JULIO DE 2024)</small>
+
+LEY DE FILMACIONES DE LA CIUDAD DE MÉXICO
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -86,11 +88,19 @@ Para los efectos de esta ley se entenderá como:
 
 I. Bienes de uso común: Los montes y bosques que no sean de la Federación ni de los particulares y que tengan utilidad pública; las plazas, explanadas, jardines y parques públicos; las aceras; pasajes; andadores; camellones y portales; así como los mercados, hospitales y panteones;
 
+> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2024)</small>
+
+I Bis. Anuario estadístico: Documento de difusión pública que tiene como finalidad dar a conocer los resultados del año inmediato anterior referentes al número de trámites emitidos, ingresos, registros de nuevos productores, catálogo de locaciones y servicios a la producción, entre otros, así como el reporte de la supervisión de la actividad fílmica realizada en vía pública y bienes de uso común de la Ciudad de México;
+
 II. Centro Histórico: El territorio del Distrito Federal conformado por el siguiente perímetro vial: Eje Central Lázaro Cárdenas, José María Izazaga y su continuación San Pablo, Anillo de Circunvalación y su continuación Vidal Alcocer, Peña y Peña y su continuación Apartado y República de Perú, así como por perímetro vial constituido por Avenida Hidalgo, Doctor Mora, Avenida Juárez y Eje Central Lázaro Cárdenas;
 
 III. Comisión: La Comisión de Filmaciones de la Ciudad de México;
 
 IV. Consejo: El Consejo Directivo de la Comisión de Filmaciones de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2024)</small>
+
+IV Bis. Constancia Impulso Filmaciones: Documento que otorga la Comisión a las personas físicas o morales inscritas en el registro de productores, que realizan filmaciones de conformidad con los requisitos previstos en la presente Ley;
 
 V. Delegaciones: Los Órganos Político-Administrativos de cada una de las demarcaciones territoriales en que se divide el Distrito Federal;
 
@@ -292,33 +302,51 @@ II. La Dirección General.
 
 El Consejo Directivo, es el órgano de gobierno de la Comisión de Filmaciones de la Ciudad de México y estará integrado por:
 
-I. La o el titular de la Secretaría de Cultura o su representante, quien lo presidirá;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
 
-II. La o el Director General de la Comisión Filmaciones (sic), quien fungirá como Secretario Técnico y sólo contará con derecho de voz;
+I. La persona titular de la Secretaría de Cultura o su representante, quien lo presidirá;
 
-III. La o el titular de la Secretaría de Gobierno o su representante;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
 
-IV. La o el titular de la Secretaría de Finanzas o su representante;
+II. La persona titular de la Dirección General de la Comisión de Filmaciones, quien tendrá bajo su responsabilidad la Secretaría Técnica, contando con derecho a voz;
 
-V. La o el titular de la Secretaría de Seguridad Pública o su representante;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
 
-VI. Las o los representantes de los siguientes gremios:
+III. La persona titular de la Secretaría de Gobierno o su representante;
+
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
+
+IV. La persona titular de la Secretaría de Administración y Finanzas o su representante;
+
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
+
+V. La persona titular de la Secretaría de Seguridad Ciudadana o su representante;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE JULIO DE 2024)</small>
+
+VI. Las personas representantes de los siguientes gremios del sector audiovisual:
 
 a. Productores de cine;
 
 b. Productores de televisión;
 
-c. Productores de comerciales;
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2024)</small>
 
-d. Escuelas de cine en el Distrito Federal;
+c. Productores de publicidad;
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2024)</small>
+
+d. Centros educativos del sector audiovisual de la Ciudad de México;
 
 e. Documentalistas;
 
-f. Sociedades cooperativas de producción audiovisual; y
+f. (DEROGADO, G.O. 19 DE JULIO DE 2024)
 
-g. Videoastas.
+g. (DEROGADO, G.O. 19 DE JULIO DE 2024)
 
-Los representantes del sector audiovisual serán designados por el Jefe de Gobierno del Distrito Federal, previa consulta al gremio respectivo. Ocuparán su cargo por un periodo de dos años, prorrogable hasta por un período adicional. Su participación en el Consejo será de carácter honorífico, por lo que no recibirán ninguna contraprestación económica o material, y sus servicios no originarán ninguna relación laboral con la Secretaría o la Comisión.
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2024)</small>
+
+La representación del sector audiovisual, será designada por la persona titular de la Jefatura de Gobierno de la Ciudad de México, previa consulta al gremio respectivo. Ocuparán su cargo por un periodo de dos años, prorrogable hasta por un período adicional. Su participación en el Consejo será de carácter honorífico, por lo que no recibirán ninguna contraprestación económica o material, y sus servicios no originarán ninguna relación laboral con la Secretaría o la Comisión.
 
 Las reglas de operación del Consejo determinarán el procedimiento de designación de los representantes del sector audiovisual.
 
@@ -326,13 +354,21 @@ Las reglas de operación del Consejo determinarán el procedimiento de designaci
 
 El Consejo Directivo celebrará sesiones ordinarias cuando menos una vez cada tres meses y extraordinarias cuando las circunstancias así lo ameriten. Sus decisiones se tomarán por mayoría simple de sus asistentes, teniendo su Presidente voto de calidad en caso de empate.
 
-Para poder sesionar la Comisión se requiere acreditar la asistencia de la mayoría simple del total de sus integrantes y que entre ellos se encuentren por lo menos su Presidente y dos miembros de la Administración Pública Centralizada del Distrito Federal.
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2024)</small>
 
-Previa invitación del Consejo, podrán participar en sus sesiones los titulares de las Delegaciones que, de acuerdo con los asuntos a tratar, puedan tener un interés legítimo de participar en ellas o aporten información relevante sobre las acciones gubernamentales y problemáticas existentes en materia de filmaciones.
+Para poder sesionar el Consejo Directivo se requiere acreditar la asistencia de la mayoría simple del total de sus integrantes y que entre ellos se encuentren por lo menos su Presidente y dos miembros de la Administración Pública Centralizada de la Ciudad de México, en las reglas de operación del Consejo se determinará la modalidad de las sesiones.
 
-La o el Director General de la Comisión, de forma particular o a petición de uno de los miembros del Consejo, podrá invitar a participar en sus sesiones a autoridades locales y federales, miembros de organizaciones internacionales, especialistas, académicos, intelectuales, profesionales del sector audiovisual o sociedades de gestión a efecto de que enriquezcan los trabajos de este órgano. El Consejo podrá acordar la participación permanente de un invitado, cuando considere que su presencia coadyuvará en los trabajos de este órgano.
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2024)</small>
 
-En las sesiones del Consejo, los jefes delegacionales o sus representantes, así como los invitados temporales o permanentes, únicamente contarán con derecho de voz.
+Previa invitación del Consejo, podrán participar en sus sesiones las personas titulares de las Alcaldías que, de acuerdo con los asuntos a tratar, puedan tener un interés legítimo de participar en ellas o aporten información relevante sobre las acciones gubernamentales y problemáticas existentes en materia de filmaciones.
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2024)</small>
+
+La persona titular de la Dirección General de la Comisión, de forma particular o a petición de uno de los miembros del Consejo, podrá invitar a participar en sus sesiones a autoridades locales y federales, miembros de organizaciones internacionales, especialistas, académicos, intelectuales, profesionales del sector audiovisual o sociedades de gestión a efecto de que enriquezcan los trabajos de este órgano. El Consejo podrá acordar la participación permanente de un invitado, cuando considere que su presencia coadyuvará en los trabajos de este órgano.
+
+> <small>(REFORMADO, G.O. 19 DE JULIO DE 2024)</small>
+
+En las sesiones del Consejo, las personas titulares de las alcaldías o sus representantes, así como los invitados temporales o permanentes, únicamente contarán con derecho de voz.
 
 ###### Artículo 16.
 
@@ -396,9 +432,13 @@ I. Administrar y representar legalmente a la Comisión;
 
 II. Elaborar y presentar al Consejo Directivo el programa anual de actividades de la Comisión, para su aprobación;
 
-III. Formular y presentar a la Secretaría el proyecto de presupuesto de la Comisión, el cual será integrado al proyecto que esta Dependencia envíe a la Secretaría de Finanzas, en términos de las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
 
-IV. Elaborar y presentar al Consejo Directivo, los proyectos de iniciativas legislativas que tengan por objeto actualizar las tarifas contemplados en el Código Financiero del Distrito Federal para el pago de derechos relacionados con la filmación en vía pública, así como modificar los ordenamientos legales y administrativos que les son aplicables al sector audiovisual, para su aprobación;
+III. Formular y presentar a la Secretaría el proyecto de presupuesto de la Comisión, el cual será integrado al proyecto que esta Dependencia envíe a la Secretaría de Administración y Finanzas, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
+
+IV. Elaborar y presentar al Consejo Directivo, los proyectos de iniciativas legislativas que tengan por objeto actualizar las tarifas contempladas en el Código Fiscal de la Ciudad de México para el pago de derechos relacionados con la filmación en vía pública, así como modificar los ordenamientos legales y administrativos que les son aplicables al sector audiovisual, para su aprobación;
 
 V. Elaborar y presentar al Consejo Directivo las propuestas de medidas de desregulación y simplificación administrativa que coadyuven al desarrollo del sector y al mejoramiento de la infraestructura fílmica y que, en su caso, serán enviadas a las instancias competentes;
 
@@ -406,7 +446,9 @@ VI. Registrar y cancelar los Avisos, así como otorgar y revocar los Permisos y 
 
 VII. Autorizar la modificación de las condiciones establecidas en los Avisos o Permisos previstos en esta Ley, siempre y cuando los solicitantes demuestren el caso fortuito o la fuerza mayor;
 
-VIII. Recibir las solicitudes de inscripción en el Registro de Productores de la Ciudad de México, emitir la credencial de registro respectiva y autorizar las renovaciones correspondientes;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
+
+VIII. Recibir las solicitudes de inscripción en el Registro de Productores de la Ciudad de México y emitir una constancia de registro, así como autorizar las renovaciones correspondientes;
 
 IX. Ejecutar los acuerdos del Consejo y cumplir con las acciones que le sean encomendadas por el Jefe de Gobierno y la o el titular de la Secretaría;
 
@@ -424,7 +466,9 @@ XV. Establecer sistemas eficientes para la administración del personal, de los 
 
 XVI. Conocer de las negativas u omisiones ocurridas en el procedimiento de inscripción en el Registro de Productores y resolver lo conducente;
 
-XVII. Hacer del conocimiento del Ministerio Público, de los Órganos de Control Interno de las Dependencias, Delegaciones y autoridades competentes, las conductas delictivas, las faltas administrativas o violaciones normativas cometidas por servidores públicos o productores, durante el procedimiento seguido para registrar un Aviso, otorgar un Permiso o su Prórroga, o durante la ejecución de las actividades que amparan tanto el Aviso como el Permiso de Filmación;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
+
+XVII. Hacer del conocimiento del Ministerio Público, de los Órganos de Control Interno de las Dependencias, Alcaldías y autoridades competentes, las conductas delictivas, las faltas administrativas o violaciones normativas cometidas por personas servidoras públicas o productores, durante el procedimiento seguido para registrar un Aviso, otorgar un Permiso o su Prórroga, o durante la ejecución de las actividades que amparan tanto el Aviso como el Permiso de Filmación;
 
 XVIII. Ofrecer un servicio de atención telefónica las 24 horas y los 365 días del año, para brindar información sobre los servicios que presta la Comisión, así como recibir quejas y denuncias en contra de conductas cometidas por servidores públicos y productores, durante el desarrollo de una filmación;
 
@@ -432,7 +476,15 @@ XIX. Contar con un portal de Internet que, además de cumplir con los requisitos
 
 XX. Organizar y, en su caso, participar en eventos nacionales internacionales, tales como ferias, exposiciones y demás foros especializados, a efecto de promover la infraestructura fílmica de la Ciudad de México y atraer inversiones orientadas desarrollar (sic) el sector audiovisual;
 
-XXI. Impartir, de forma coordinada con la Secretaría de Seguridad Pública, cursos de capacitación a los cuerpos de policía y autoridades delegacionales que presten sus servicios al sector audiovisual;
+> <small>(REFORMADA, G.O. 19 DE JULIO DE 2024)</small>
+
+XXI. Coordinar con la Secretaría de Seguridad Ciudadana, la impartición de cursos de capacitación a los cuerpos de policía y autoridades de las Alcaldías que vinculen su actuar con el desarrollo de una filmación;
+
+> <small>(ADICIONADA, G.O. 19 DE JULIO DE 2024)</small>
+
+XXI Bis. Elaborar durante el primer cuatrimestre de cada Ejercicio Fiscal el Anuario Estadístico de la Comisión de Filmaciones de la Ciudad de México, el Reglamento determinará el contenido del mismo; y
+
+(REPUBLICADA, G.O. 19 DE JULIO DE 2024)
 
 XXII. Las demás que le atribuyan esta Ley y los demás ordenamientos aplicables.
 
@@ -667,3 +719,11 @@ PRIMERO.- Remítase al Jefe de Gobierno del Distrito Federal para su debida publ
 SEGUNDO.- Las presentes reformas y adiciones entrarán en vigor el día siguiente al de su publicación en la Gaceta Oficial del Distrito Federal.
 
 TERCERO.- En el término de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones reglamentarias que correspondan.
+
+G.O. 19 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA LA DENOMINACIÓN DE LEY, LAS FRACCIONES I, II, III, IV, V Y VI ASÍ COMO LOS INCISOS C Y D DE LA FRACCIÓN VI Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14; LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 15; LAS FRACCIONES III, IV, VIII, XVII Y XXI DEL ARTÍCULO 19; SE ADICIONAN LAS FRACCIONES I BIS Y IV BIS AL ARTÍCULO 4 Y UNA FRACCIÓN XXI BIS AL ARTÍCULO 19 Y SE DEROGAN LOS INCISOS F Y G DE LA FRACCIÓN VI DEL ARTÍCULO 14, DE LA LEY DE FILMACIONES DEL DISTRITO FEDERAL”.]
+
+Primero. Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
