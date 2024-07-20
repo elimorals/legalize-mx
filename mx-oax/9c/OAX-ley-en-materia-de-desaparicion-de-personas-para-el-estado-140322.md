@@ -4,7 +4,7 @@ identifier: "OAX-ley-en-materia-de-desaparicion-de-personas-para-el-estado-14032
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-04"
-last_updated: "2023-09-23"
+last_updated: "2024-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2024.
 
 Ley publicada en el Número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 4 de octubre de 2019.
 
@@ -327,7 +327,9 @@ XX. Establecer mecanismos de comunicación, participación y evaluación con la 
 
 XXI. Elaborar de forma expedita los informes que solicite el Consejo Estatal;
 
-XXII. Solicitar y coordinar la colaboración de medios de comunicación, organizaciones de la sociedad civil y de la sociedad en general para la búsqueda y localización de personas desaparecidas o no localizadas, de conformidad con la normativa aplicable;
+> <small>(REFORMADA, P.O. 20 DE JULIO DE 2024)</small>
+
+XXII. Solicitar y coordinar la colaboración inmediata de medios de comunicación, de la Corporación de Radio y Televisión "CORTV", organizaciones de la sociedad civil y de la sociedad en general para la búsqueda y localización de personas desaparecidas o no localizadas, de conformidad con la normativa aplicable;
 
 XXIII. Establecer los acuerdos pertinentes con la autoridad competente para la difusión en transmisiones correspondientes a los tiempos del estado de boletines relacionados con la búsqueda de personas desaparecidas o no localizadas, con la autorización previa de los familiares;
 
@@ -1278,3 +1280,11 @@ P.O. 23 DE SEPTIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2319.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 24 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 6 DE LA LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
