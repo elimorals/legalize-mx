@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-07-06"
+last_updated: "2024-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -4239,23 +4239,51 @@ IV.- Quien de propia autoridad ocupe uno o más predios que forman parte de la r
 
 V.- Quien de propia autoridad ocupe un inmueble o las riveras que forman parte de la infraestructura o reserva territorial del Estado, o de los Municipios, sin derecho ni autorización de autoridad competente;
 
-VI.- Quien desvíe o haga uso de aguas propias o ajenas o impida su libre curso, en los casos en que la ley no lo permite, o haga uso de un derecho real sobre aguas que no le pertenezcan;
+VI. (DEROGADA, P.O. 20 DE JULIO DE 2024)
 
-VII.- Quien despoje de aguas del ámbito estatal o aguas nacionales asignadas al Estado o Municipios en beneficio colectivo de una comunidad urbana o rural ó para uso doméstico.
+VII. (DEROGADA, P.O. 20 DE JULIO DE 2024)
 
-El delito de despojo, se perseguirá a petición de parte ofendida, con excepción de las fracciones IV, V y VII, en cuyo caso se perseguirá de oficio.
+> <small>(REFORMADO, P.O. 20 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)</small>
+El delito de despojo se perseguirá a petición de parte ofendida, con excepción de las fracciones IV y V, en cuyo caso se perseguirá de oficio.
 
-385.- Al responsable del delito de despojo se le aplicarán:
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2024)</small>
+
+384 Bis.- Comete el delito de despojo de aguas quien realice cualquiera de las siguientes conductas:
+
+I. Quien desvíe o haga uso de aguas propias o ajenas o impida su libre curso, en los casos en que la ley no lo permite, o haga uso de un derecho real sobre aguas que no le pertenezcan;
+
+II. Quien despoje de aguas del ámbito estatal o aguas nacionales asignadas al Estado o Municipios en beneficio colectivo de una comunidad urbana o rural o para uso doméstico, y;
+
+III. Quien obstaculice, disminuya o impida la precipitación de lluvias mediante la dispersión de nubes o la alteración de los ciclos hidrológicos naturales por vía química, sónica o cualquier otra.
+
+Este delito se perseguirá de oficio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2024)</small>
+
+385.- Al responsable del delito de despojo de inmuebles o despojo de aguas se le aplicará:
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
 
 I. De tres a cinco años de prisión y multa de doscientos a cuatrocientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado no exceda de siete mil ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización;
 
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
+
 II. De cinco a diez años de prisión y multa de cuatrocientos a seiscientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado exceda de siete mil ochocientos cuarenta veces el valor de la Unidad de Medida y Actualización;
+
+> <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2018)</small>
 
 III. De diez a quince años de prisión y multa de seiscientos a ochocientas veces el valor de la Unidad de Medida y Actualización, cuando el valor de lo despojado exceda de veintitrés mil quinientos veintidós veces el valor de la Unidad de Medida y Actualización.
 
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2024)</small>
+
+IV. De veinte a veinticinco años de prisión y multa de mil a mil doscientas veces el valor de la Unidad de Medida y Actualización, cuando independientemente del valor de lo despojado, la conducta afecte las posibilidades de subsistencia de la o las personas afectadas.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)</small>
+
 Cuando el delito se cometa en contra de los grupos vulnerables a que se refiere la fracción II del artículo 8° de la Ley de Desarrollo Social para el Estado de Oaxaca, las penas previstas, se incrementarán hasta en una mitad.
+
+> <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 2018)</small>
 
 La punibilidad será aplicable, aun cuando el derecho a la posesión del objeto material del despojo sea dudoso o esté en disputa.
 
@@ -6466,3 +6494,13 @@ P.O. 6 DE JULIO DE 2024.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2320.- MEDIANTE EL CUAL REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 384 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 385; SE ADICIONA EL ARTÍCULO 384 BIS Y LA FRACCIÓN IV AL ARTÍCULO 385; Y SE DEROGAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 384 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
