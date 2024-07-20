@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-etica-para-los-servidores-publicos-de-la-174007"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-04-21"
-last_updated: "2022-04-21"
+last_updated: "2024-07-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "JAL"
 ---
 # CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO, PUBLICADO EN EL P.O. DE 20 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2024 (DEROGADO).
 
 Código publicado en la Sección III del Número 3 del Periódico Oficial del Estado de Jalisco, el jueves 21 de abril de 2022.
 
@@ -517,3 +519,15 @@ DOCTOR ISRAEL GARCÍA ÍÑIGUEZ
 Titular del Órgano Interno de Control en la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO SE/OIC/004/2024 DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE JALISCO, QUE EMITE EL CÓDIGO DE ÉTICA".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+El Código de Ética, deberá ser difundido en la página de internet de la SESAJ, publicados en el periódico oficial "El Estado de Jalisco" y hecho del conocimiento de las personas Servidoras Públicas de la SESAJ.
+
+SEGUNDO: Se deroga el documento, que contiene el Acuerdo SESAJ/OIC/001/2021 en que el Titular del Órgano Interno de Control en la Secretaría Ejecutiva del Sistema Estatal Anticorrupción de Jalisco, emitió el Código de Ética, en el que se especificará de manera puntual y concreta la forma en que las personas Servidoras Públicas aplicarán los principios, valores y reglas de integridad contenidas en el que se señala anteriormente.
