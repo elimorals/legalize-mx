@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-04-20"
+last_updated: "2024-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -1423,11 +1423,53 @@ VII. Informar periódicamente al Secretario Ejecutivo del Sistema, el cumplimien
 
 VIII. Las demás que le confieran el Sistema, su Presidencia, la Secretaría Ejecutiva y los ordenamientos jurídicos aplicables.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE JULIO DE 2024)</small>
+
+### Capítulo Segundo BIS. De la Evaluación de Órdenes de Protección
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2024)</small>
+
+###### Artículo 48 Bis.
+
+El Sistema, establecerá una Comisión que será responsable de la evaluación del tratamiento, cumplimiento y seguimiento de las órdenes de protección.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2024)</small>
+
+###### Artículo 48 Ter.
+
+La Comisión para la evaluación del tratamiento, cumplimiento y seguimiento de las órdenes de protección estará integrada por las o los titulares de:
+
+I. La Secretaría de Gobierno, quien la presidirá;
+
+II. La Secretaría de Seguridad y Protección Ciudadana, que fungirá como Secretaría Técnica;
+
+III. La Fiscalía General del Estado de Oaxaca;
+
+IV. La Secretaría de las Mujeres;
+
+V. El Honorable Tribunal Superior de Justicia del Estado;
+
+VI. El Honorable Congreso del Estado a través de la Comisión Permanente de Administración y Procuración de Justicia.
+
+Todas las autoridades integrantes de la Comisión tendrán derecho a voz y voto y podrán nombrar a sus respectivos suplentes, los cuales deberán tener un nivel jerárquico inmediato inferior y contar con nombramiento por escrito.
+
+El cargo de miembro de esta Comisión será honorífico.
+
+> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2024)</small>
+
+###### Artículo 48 Quáter.
+
+La Comisión sesionará de forma ordinaria cuando menos una vez cada dos meses, y de forma extraordinaria las veces que sean necesarias para el cumplimiento de sus atribuciones e informará de manera cuantitativa los datos que arroje el Banco Estatal de Datos e Información sobre Casos de Violencia Contra las Mujeres, así como los avances u obstáculos en la emisión y seguimiento de las órdenes para que el Sistema dicte los acuerdos conducentes.
+
+Las sesiones serán válidas con la asistencia de la mitad más una de las personas Titulares integrantes.
+
+Las decisiones se tomarán por mayoría de votos de las personas integrantes presentes, y en caso de empate la presidencia contará con voto de calidad.
+
+El Sistema, emitirá los lineamientos para efectos de la organización y funcionamiento de la Comisión.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2024)</small>
 
 ### Capítulo Tercero. Del Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia Contra la Mujer
-
-### Capítulo Cuarto. De la Distribución de Competencias
 
 ###### Artículo 49.
 
@@ -1513,7 +1555,7 @@ V. Las unidades administrativas responsables de su ejecución.
 
 El programa deberá establecer los mecanismos de monitoreo, seguimiento y evaluación, así como el alcance derivado de su implementación. Además, establecerá las competencias entre las instancias estatales y municipales y los mecanismos de coordinación.
 
-### Capítulo Primero. De la prevención de la violencia y las Unidades de Atención Integral
+### Capítulo Cuarto. De la Distribución de Competencias
 
 ###### Artículo 53.
 
@@ -2279,7 +2321,7 @@ XIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ## TÍTULO IV. DE LA PREVENCIÓN DE LA VIOLENCIA, ATENCIÓN INTEGRAL A SUS VÍCTIMAS Y REEDUCACIÓN A LOS AGRESORES
 
-### Capítulo Segundo. De los Refugios para la Atención a Mujeres Víctimas de Violencia
+### Capítulo Primero. De la prevención de la violencia y las Unidades de Atención Integral
 
 ###### Artículo 71.
 
@@ -2443,7 +2485,7 @@ X. A la protección de su identidad e intimidad y la de sus hijas e hijos.
 
 XI. Los demás previstos por esta Ley.
 
-### Capítulo Tercero. De los Centros de Reeducación para Agresores
+### Capítulo Segundo. De los Refugios para la Atención a Mujeres Víctimas de Violencia
 
 ###### Artículo 85.
 
@@ -2506,6 +2548,8 @@ VIII. Programas reeducativos integrales para la plena reincorporación de las v�
 ###### Artículo 89.
 
 La permanencia de las víctimas en los Refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará, para tales efectos, su condición. En ningún caso se podrá mantener a las víctimas en los Refugios en contra de su voluntad.
+
+### Capítulo Tercero. De los Centros de Reeducación para Agresores
 
 ###### Artículo 90.
 
@@ -3018,6 +3062,14 @@ TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco j
 P.O. 20 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2113.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 8, EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 9, LA DENOMINACIÓN DEL CAPÍTULO TERCERO CORRESPONDIENTE AL TÍTULO III “DEL SISTEMA ESTATAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA, CONTRA LAS MUJERES”, Y EL PRIMER PÁRRAFO Y LA FRACCIÓN X DEL ARTÍCULO 51; SE ADICIONA EL ARTÍCULO 8 BIS, LAS FRACCIONES VIII Y IX AL ARTÍCULO 9, Y LA FRACCIÓN XVIII AL ARTÍCULO 51, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO; SE REFORMA EL ARTÍCULO 404 Y SE ADICIONA EL CAPÍTULO VII DENOMINADO “VIOLENCIA DE PAREJA” AL TÍTULO VIGÉSIMO SEGUNDO DENOMINADO “DELITOS CONTRA EL DERECHO A UNA VIDA LIBRE DE VIOLENCIA”, EL CUAL CONTIENE EL ARTÍCULO 412 OCTIES, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2321.- MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO SEGUNDO BIS DENOMINADO "DE LA EVALUACIÓN DE ÓRDENES DE PROTECCIÓN", INTEGRADO CON LOS ARTÍCULOS 48 BIS, 48 TER Y 48 QUÁTER AL TÍTULO III DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
