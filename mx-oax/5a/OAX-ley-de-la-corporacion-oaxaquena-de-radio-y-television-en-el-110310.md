@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-corporacion-oaxaquena-de-radio-y-television-en-el-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-09"
-last_updated: "2021-11-13"
+last_updated: "2024-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 9 de octubre de 2015.
 
@@ -103,7 +103,11 @@ VI. Ejercitar todas las actividades técnicas y administrativas necesarias para 
 
 VII. Transmitir producciones cinematográficas que contribuyan al fortalecimiento educativo y a la promoción de la diversidad cultural de las oaxaqueñas y oaxaqueños, e
 
-VIII. Implementar las acciones necesarias para el cumplimiento de los principios señalados en la presente Ley.
+> <small>(ADICIONADA, P.O. 20 DE JULIO DE 2024)</small>
+
+VIII. Transmitir boletines, fichas y cualquier información oficial, que contribuyan a la difusión y localización de personas desaparecidas o no localizadas en el Estado; e
+
+IX. Implementar las acciones necesarias para el cumplimiento de los principios señalados en la presente Ley.
 
 ### CAPÍTULO III. DE LOS EJES RECTORES DE LA CORTV
 
@@ -448,3 +452,11 @@ P.O. 13 DE NOVIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 20 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2319.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 24 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 6 DE LA LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
