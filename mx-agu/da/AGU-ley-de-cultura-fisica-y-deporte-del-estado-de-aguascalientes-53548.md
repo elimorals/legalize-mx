@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2024-06-03"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -80,6 +82,10 @@ VIII. Promover en la práctica de actividades físicas, recreativas y deportivas
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2015)</small>
 
 IX. Garantizar a todas las personas, sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, la igualdad de oportunidades dentro de los programas y apoyos de desarrollo que en materia de cultura física y deporte se implementen;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+IX-A. Prever en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente, un descuento de hasta el 100 % respecto del acceso a las instalaciones deportivas del IDEA a las personas adultas mayores, salvo en los casos de la celebración de competiciones, eventos deportivos o espectáculos públicos o privados;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2010)</small>
 
@@ -1323,7 +1329,7 @@ El IDEA destinará como mínimo el 25% de su presupuesto para la realización de
 
 ### CAPITULO DECIMO PRIMERO. De la Activación Física y el Deporte de los Adultos Mayores
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
 
 ###### Artículo 78.
 
@@ -1349,7 +1355,7 @@ Las personas con discapacidad que sean deportistas de alto rendimiento gozarán 
 
 ###### Artículo 81.
 
-El IDEA, apoyará, promoverá y facilitará la participación de los adultos mayores en las distintas disciplinas deportivas.
+El IDEA, apoyará, promoverá y facilitará la participación de los adultos mayores en las distintas disciplinas deportivas. De igual forma, el IDEA les dará a las personas adultas mayores un descuento respecto del acceso a sus instalaciones deportivas de conformidad con lo previsto en la Ley de Ingresos del Estado en el ejercicio fiscal correspondiente, salvo en los casos de la celebración de competiciones, eventos deportivos o espectáculos públicos o privados.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
 
@@ -2300,5 +2306,21 @@ P.O. 3 DE JUNIO DE 2024.
 El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 746.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor a los 90 días naturales siguientes al de su publicación en el Periódico Oficial del Estado de Aguascalientes. En dicho plazo el Gobierno del Estado de Aguascalientes, a través del IDEA y/o la entidad o dependencia competente, deberá realizar las adecuaciones presupuestarias necesarias, para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO SEGUNDO.
+
+A partir de la aprobación del presente Decreto, el H. Congreso del Estado de Aguascalientes, al momento de la aprobación de la respectiva Ley de Ingresos del Estado de Aguascalientes, deberá prever año con año, lo concerniente para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
