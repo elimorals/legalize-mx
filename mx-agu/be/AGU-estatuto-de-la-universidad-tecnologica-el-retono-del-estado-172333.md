@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-de-la-universidad-tecnologica-el-retono-del-estado-172
 country: "mx"
 rank: "estatuto"
 publication_date: "2024-03-18"
-last_updated: "2024-03-18"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172333&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Estatuto publicado en la Cuarta Sección del Número 12 del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de marzo de 2024.
 
@@ -125,15 +125,17 @@ a) Dirección Académica;
 
 7. Jefatura de Departamento del Center for Students Success.
 
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], P.O. 22 DE JULIO DE 2024)</small>
+
 b) Dirección de Administración y Finanzas;
 
-1. Jefatura de Departamento de Contabilidad;
+1. Subdirección de Administración y Finanzas
 
-2. Jefatura de Departamento de Infraestructura, Mantenimiento y Sustentabilidad;
+1.1 Jefatura de Departamento de Contabilidad;
 
-3. Jefatura de Departamento de Programación y Presupuesto; y
+1.2 Jefatura de Departamento de Infraestructura, Mantenimiento y Sustentabilidad; y
 
-4. Jefatura de Departamento de Recursos Humanos.
+1.3 Jefatura de Departamento de Programación y Presupuesto.
 
 c) Dirección de Vinculación y Extensión Universitaria;
 
@@ -176,6 +178,10 @@ La Universidad podrá contar además con el personal profesional, técnico, oper
 Las personas servidoras públicas de la Universidad serán nombradas en los términos establecidos por la Ley y por la Ley de Entidades Paraestatales.
 
 El Rector podrá nombrar y remover libremente a las personas servidoras públicas de la Universidad, cuyo nombramiento o remoción no esté determinado de otro modo en la legislación descrita.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2024)</small>
+
+Para todos los efectos legales y administrativos, las personas titulares de las Direcciones se considerarán de primer nivel jerárquico inferior al Rector; las personas titulares de las Subdirecciones serán de segundo nivel jerárquico; y las personas titulares de las Jefaturas de Departamento serán de tercer nivel jerárquico.
 
 ## TÍTULO SEGUNDO. ÓRGANOS DE GOBIERNO Y ADMINISTRACIÓN
 
@@ -491,9 +497,11 @@ XXIII. Ejercer en forma indelegable las demás facultades que con tal carácter 
 
 Al frente de cada Unidad Administrativa habrá una persona titular designada por quien tenga facultades para ello de acuerdo a la estructura orgánica autorizada, el cual se auxiliará, según corresponda, por el personal técnico, operativo, administrativo servidores públicos que se señalen en el organigrama y en las disposiciones legales internas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### Artículo 34.
 
-Serán obligaciones de todas las unidades administrativas, las siguientes:
+Serán obligaciones y facultades de todas las unidades administrativas, independientemente de su jerarquía, las siguientes:
 
 I. Integrar el anteproyecto del presupuesto de la unidad administrativa de la cual es titular, con base a la normatividad y lineamientos establecidos para tal efecto;
 
@@ -515,13 +523,21 @@ IX. Asumir la responsabilidad de bienes muebles e inmuebles a su cargo de confor
 
 X. Presentar periódicamente al Rector reportes de las actividades desarrolladas en la unidad administrativa a su cargo;
 
-XI. Implantar los mecanismos administrativos de planeación, organización, dirección, de control y evaluación que faciliten el funcionamiento de la unidad administrativa a su cargo;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XI. Implementar los mecanismos administrativos de planeación, organización, dirección, de control y evaluación que faciliten el funcionamiento de la unidad administrativa a su cargo;
 
 XII. Participar en el proceso de planeación, autoevaluación, gestión de la calidad, control interno y administración de riesgos institucional;
 
-XIII. Desempeñar los cargos que le sean conferidos como miembro de los comités, comisiones y otros órganos colegiados de la Universidad; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XIV. Las demás funciones que le sean encomendadas por sus superiores jerárquicos en asuntos propios de la unidad administrativa a su cargo, así como las establecidas en otras disposiciones jurídicas aplicables.
+XIII. Desempeñar los cargos que le sean conferidos como miembros de los comités, comisiones y otros órganos colegiados de la Universidad;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XIV. Expedir copias certificadas de la documentación que se encuentre bajo su resguardo o que se haya generado en el ejercicio de sus facultades y funciones; y
+
+XV. Las demás funciones que le sean encomendadas por sus superiores jerárquicos en asuntos propios de la unidad administrativa a su cargo, así como las establecidas en otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO II. Dirección Académica
 
@@ -557,7 +573,7 @@ VIII. Supervisar la realización de actividades, políticas y acciones concatena
 
 IX. Supervisar el adecuado desarrollo de los planes de estudio, su actualización, evaluación y demás actividades concatenadas;
 
-X. Supervisar la aplicación de exámenes de admisión para aspirantes y la conclusión satisfactoria del proceso de inscripción;
+X. (DEROGADA, P.O. 22 DE JULIO DE 2024)
 
 XI. Coadyuvar con la Dirección de Administración y Finanzas en la determinación de los perfiles académicos, con la finalidad de seleccionar y contratar al personal docente de la Universidad;
 
@@ -565,7 +581,9 @@ XII. Coadyuvar con el Rector y la Dirección de Administración y Finanzas para 
 
 XIII. Coadyuvar con la Dirección de Vinculación y Extensión Universitaria, para la evaluación de la pertinencia de los planes de estudio que se imparten en la Universidad;
 
-XIV. Diagnosticar las necesidades de formación y actualización del personal docente con la finalidad de coadyuvar en la creación del programa de (sic) anual de capacitaciones;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XIV. Diagnosticar las necesidades de formación y actualización del personal docente con la finalidad de coadyuvar en la creación del programa anual de capacitaciones;
 
 XV. Promover la participación del personal docente en actividades de investigación, publicación de trabajos y demás material académico;
 
@@ -617,13 +635,19 @@ Corresponderá a la persona titular de la Jefatura de Departamento de Control Es
 
 I. Coadyuvar en el desarrollo del proceso de admisión y coordinar la recopilación de la información necesaria para el ingreso de alumnos;
 
-II. Supervisar la integración y custodia de los expedientes de los alumnos, recabando la documentación indispensable y requerida de manera específica;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-III. Apoyar a su superior jerárquico en la operación de los procesos administrativos de control para la admisión, estancia, inscripción, egreso y titulación de los alumnos en los diferentes niveles, de acuerdo con lo establecido en los distintos programas educativos y modalidades, según la normatividad aplicable;
+II. Integrar y custodiar los expedientes de las y los alumnos, recabando la documentación e información indispensable y requerida de manera específica, desde la inscripción del alumno o alumna hasta su baja definitiva o egreso, procurando la protección de los datos personales de las y los alumnos, de acuerdo con la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+III. Realizar las operaciones y actos necesarios para dar cumplimiento a los procesos administrativos de control para la admisión, estancia, inscripción, egreso y titulación de los alumnos y alumnas en los diferentes niveles, de acuerdo con lo establecido en los distintos programas educativos y modalidades, según la normatividad aplicable;
 
 IV. Expedir la documentación derivada de la administración escolar con base en la normatividad vigente;
 
-V. Operar los servicios relacionados con becas y apoyos económicos para alumnos que otorgue la Universidad, así como aquellas que corresponden a programas externos, difundiendo las convocatorias correspondientes y auxiliando a los alumnos interesados en la gestión de las mismas;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+V. Operar los servicios relacionados con becas y apoyos económicos para alumnos y alumnas que otorgue la Universidad, así como aquellas que corresponden a programas externos, difundiendo las convocatorias correspondientes y auxiliando a los alumnos interesados en la gestión de las mismas, así como llevar el registro y control de los apoyos sociales y becas otorgados a las y los alumnos de la Universidad;
 
 VI. Supervisar cuatrimestralmente el registro de calificaciones de los alumnos para la emisión oportuna de constancias y kardex;
 
@@ -637,7 +661,9 @@ VIII. Realizar las demás funciones, en el ámbito de su competencia, (sic) le e
 
 Corresponderá a la persona titular de la Jefatura Académica de Idiomas el ejercicio de las siguientes atribuciones:
 
-I. Llevar a cabo las acciones para mejorar el servicio de la enseñanza del inglés y otros idiomas en la Universidad, supervisando que se atiendan todas las gestiones administrativas necesarias para asegurar el cumplimiento de acciones, metas y objetivos;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+I. Coordinar y supervisar las asignaturas de su área académica, así como llevar a cabo las acciones para mejorar el servicio de la enseñanza del inglés y otros idiomas en la Universidad, supervisando que se atiendan todas las gestiones administrativas necesarias para asegurar el cumplimiento de acciones, metas y objetivos;
 
 II. Coordinar y supervisar al personal docente adscrito a su área;
 
@@ -669,9 +695,13 @@ I. Coadyuvar en el fomento y promoción de las actividades deportivas, culturale
 
 II. Coordinar y ejecutar las actividades que fomenten la adquisición de competencias personales y laborales para el adecuado desarrollo académico de las y los estudiantes;
 
-III. Fomentar la permanencia y continuidad de los estudios mediante asesorías psicopedagógicas, sesiones de tutorías o cualquier otra acción encaminada a evitar la deserción escolar y la reprobación;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-IV. Velar por la constante capacitación y actualización de los tutores de la Universidad;
+III. Fomentar la permanencia y continuidad de los estudios mediante asesorías psicopedagógicas, sesiones de tutorías o cualquier otra acción encaminada a evitar la deserción escolar y la reprobación, y rendir los informes que le sean requeridos sobre dichas acciones;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+IV. Realizar las acciones necesarias para asegurar la constante capacitación y actualización de las personas tutoras de la Universidad;
 
 V. Servir como instancia de primer contacto o área de contención ante situaciones que afecten el desarrollo psicoemocional de los alumnos, canalizando al mismo, cuando sea necesario, ante las instancias públicas o privadas competentes;
 
@@ -679,7 +709,9 @@ VI. Fomentar, en colaboración con el Departamento de Control Escolar, apoyos ec
 
 VII. Coordinar y supervisar los servicios de apoyo escolar que se ofrezcan a la comunidad estudiantil;
 
-VIII. Supervisar las funciones y actividades referentes a la prevención, atención y erradicación de violencia escolar, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+VIII. Realizar y supervisar las funciones y actividades referentes a la prevención, atención y erradicación de violencia escolar, de conformidad con la normatividad aplicable;
 
 IX. Coadyuvar en la realización de acciones y proyectos que promuevan entre las y los estudiantes la tolerancia, la igualdad, la eliminación de los estereotipos de género, el respeto a los derechos humanos, erradicación de la violencia, la convivencia escolar sana, la salud mental, la prevención de adicciones, la inclusión y no discriminación, así como el multiculturalismo y la responsabilidad social;
 
@@ -695,9 +727,15 @@ La persona titular de la Dirección de Administración y Finanzas dependerá dir
 
 Tendrá como objetivos, en términos generales, establecer, programar, supervisar y ejecutar, en coordinación con las unidades administrativas competentes, los procedimientos para la administración de capital humano, recursos financieros y materiales de la Universidad, de acuerdo con la calidad, suficiencia y pertinencia requerida para el adecuado funcionamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### Artículo 44.
 
-Para el desempeño de sus funciones, la persona titular de la Dirección de Administración y Finanzas se auxiliará de las unidades administrativas descritas en el artículo 7° fracción II, inciso b), numerales del 1 al 4 del presente Estatuto, quienes dependerán directamente de dicha Dirección.
+Para el desempeño de sus funciones, la persona titular de la Dirección de Administración y Finanzas se auxiliará de las unidades administrativa (sic) descritas en el artículo 7° fracción II, inciso b), numeral 1 y subnumerales del 1.1 al 1.3 del presente Estatuto.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2024)</small>
+
+Para efectos del presente artículo, la persona titular de la Subdirección de Administración y Finanzas dependerá directamente del Director de Administración y Finanzas, y las personas titulares de las Jefaturas de Departamento dependerán directamente de la persona titular de la Subdirección de Administración y Finanzas.
 
 ###### Artículo 45.
 
@@ -789,9 +827,101 @@ XLII. Realizar todas aquellas actividades afines a las que anteceden; y
 
 XLIII. Las demás que de manera específica establezca el Rector o la normatividad interna de la Universidad.
 
-#### Sección Primera. Jefatura de Departamento de Contabilidad
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 22 DE JULIO DE 2024)</small>
 
-#### Sección Segunda. Jefatura de Departamento de Infraestructura, Mantenimiento y Sustentabilidad
+#### Sección Primera. Subdirección de Administración y Finanzas
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2024)</small>
+
+Artículo 45 BIS.- Corresponde a la persona titular de la Subdirección de Administración y Finanzas, el ejercicio de las siguientes atribuciones:
+
+I. Supervisar y hacer cumplir los procedimientos para la debida administración y control de los recursos de la Universidad determinados por la persona titular de la Dirección de Administración y Finanzas, de conformidad con la normatividad aplicable;
+
+II. Auxiliar a su superior jerárquico en la supervisión, control, y registro de las operaciones contables referente a los ingresos y egresos de la Universidad, y procurar que estos se mantengan actualizados;
+
+III. Auxiliar a su superior jerárquico a vigilar que los gastos y pago de las diversas obligaciones contraídas por la Universidad se sustenten con la debida y suficiente comprobación, y se realicen en estricto apego a la normatividad aplicable, procurando además que la documentación justificativa y comprobatoria del ejercicio y aplicación de los recursos financieros sea debidamente resguardada para efectos de transparencia, fiscalización y rendición de cuenta;
+
+IV. Auxiliar a su superior jerárquico a supervisar que el registro e inventario de bienes muebles e inmuebles de la Universidad se encuentre actualizado, y que los movimientos de baja, registro, resguardo y disposición de los mismos se realicen conforme la normatividad y procedimientos aplicables;
+
+V. Auxiliar a su superior jerárquico a supervisar que los procedimientos de organización, clasificación y sistematización de archivos se realicen en estricto apego a la normatividad correspondiente;
+
+VI. Realizar las gestiones necesarias para asegurar que los sistemas de contabilidad para el manejo de los recursos asignados a la Universidad se encuentren actualizados;
+
+VII. Cumplir con las obligaciones de la Universidad en materia de fiscalización, rendición de cuentas y armonización contable, y coordinar al personal adscrito a la Dirección para este mismo fin;
+
+VIII. Auxiliar a su superior jerárquico en la supervisión de la operación, control del manejo de clientes y el registro oportuno de movimientos bancarios de la Universidad;
+
+IX. Auxiliar a su superior jerárquico en la supervisión de las cuentas bancarias de la Universidad, así como coordinar al personal bajo su cargo para la elaboración de conciliaciones bancarias;
+
+X. Coordinar al personal bajo su cargo para la elaboración de los estados financieros y demás informes contables de la Universidad, y en caso de falta de personal operativo, elaborar los estados financieros correspondientes;
+
+XI. Coordinar al personal bajo su cargo para la debida atención y seguimiento a las auditorías internas y externas a las que se vea sometida la Universidad, así como recabar y preparar la información correspondiente para la atención de las observaciones y recomendaciones;
+
+XII. Auxiliar a su superior jerárquico a supervisar que se lleve a cabo el procedimiento de adquisiciones, arrendamiento de bienes muebles e inmuebles y prestación de servicios de cualquier naturaleza en estricto apego a la normatividad aplicable y mediante los procedimientos internos autorizados para dichos efectos;
+
+XIII. Coordinar al personal a su cargo para la elaboración del programa anual de adquisiciones, arrendamientos y servicios con las diversas fuentes de financiamiento de la Universidad, según la normatividad aplicable;
+
+XIV. Auxiliar a su superior jerárquico en asegurar que se realicen los servicios de mantenimiento preventivo y correctivo de los bienes muebles e inmuebles de la Universidad, así como coordinar el personal a su cargo para dichos efectos;
+
+XV. Presentar a su superior jerárquico los programas para el mantenimiento y actualización de la infraestructura física de la Universidad, y coordinar al personal a su cargo para la elaboración de dicho programa;
+
+XVI. Coordinar al personal a su cargo para que se realicen los servicios de mantenimiento preventivo, correctivo y de soporte técnico al software, los equipos de cómputo y telecomunicaciones, instalados en las unidades administrativas de la Universidad;
+
+XVII. Coordinar al personal a su cargo para la elaboración, actualización y resguardo del inventario de los bienes y servicios informáticos y de telecomunicaciones de la Universidad;
+
+XVIII. Coordinar el personal a su cargo para la expedición de las medidas de seguridad, higiene y protección de los bienes, personal y alumnado ante siniestros y contingencias;
+
+XIX. Auxiliar a su superior jerárquico en la supervisión del uso adecuado, así como procurar el mantenimiento preventivo y correctivo de los vehículos propiedad de la Universidad;
+
+XX. Auxiliar a su superior jerárquico a determinar los costos de operación de los programas que atienda la Universidad;
+
+XXI. Auxiliar a su superior jerárquico en la vigilancia y supervisión de la prestación de servicios integrales de la Universidad;
+
+XXII. Presentar a su superior jerárquico para su aprobación las estrategias y actividades para el desarrollo sostenible de la Universidad atendiendo al presupuesto asignado y recursos disponibles;
+
+XXIII. Presentar a su superior jerárquico el anteproyecto de presupuesto de ingresos y egresos de la Universidad con base a la normatividad y lineamientos establecidos y conforme a las medidas de austeridad, racionalidad y disciplina en el uso del gasto, de acuerdo al Programa Operativo Anual, el Plan Institucional de Desarrollo, el Plan Estatal de Desarrollo, los objetivos y metas de la Universidad, así como los programas autorizados;
+
+XXIV. Auxiliar a su superior jerárquico en la supervisión de la operación de los procesos relacionados con el ejercicio del presupuesto de la Universidad, conforme a los lineamientos aplicables, al igual que de los procesos derivados del control de ingresos propios;
+
+XXV. Realizar las gestiones necesarias para asegurar que los sistemas de control presupuestario se encuentren actualizados;
+
+XXVI. Analizar y presentar a su superior jerárquico para su aprobación, las modificaciones, traspasos, ampliaciones o reducciones presupuestales que proceda aplicar, de conformidad con la normatividad aplicable;
+
+XXVII. Auxiliar a su superior jerárquico en las gestiones ante las autoridades competentes, para obtener los recursos necesarios de cada uno de los programas autorizados;
+
+XXVIII. Integrar las propuestas de modificaciones orgánico-funcionales para tramitar su aprobación respectiva, con autorización de su superior jerárquico;
+
+XXIX. Realizar la contratación y movimientos del personal de la Universidad con apego a la normatividad y procedimientos aplicables;
+
+XXX. Realizar los pagos de las diversas remuneraciones, así como las retenciones que se generen por la relación laboral sean conforme a la normatividad aplicable;
+
+XXXI. Realizar, cumplir y hacer cumplir los procedimientos para la administración de los recursos humanos, incluyendo en los procesos de reclutamiento, selección de personal, ingreso de personal, capacitación, evaluación del desempeño del personal, promoción, ascensos, separación y baja del personal;
+
+XXXII. Suscribir los avisos de altas, bajas, incidencias, emisión de hojas de servicio, constancias de percepciones y/o antigüedad y todos aquellos que requieran los servidores públicos de la Universidad derivados de la relación laboral;
+
+XXXIII. Mantener actualizados y resguardados los expedientes del personal de la Universidad, recopilando la información que sea necesaria para la integración del expediente, procurando mantener la confidencialidad sobre los datos personales y datos personales sensibles bajo su custodia;
+
+XXXIV. Elaborar los programas anuales de capacitación, y realizar las gestiones necesarias para asegurar que se lleve a cabo la capacitación y el desarrollo profesional del personal administrativo y docente de la Universidad con la finalidad de procurar el buen desempeño de sus labores, dando seguimiento al programa mencionado;
+
+XXXV. Auxiliar a su superior jerárquico en asegurar que la contratación de personal docente cumpla con los requisitos establecidos en las convocatorias y los reglamentos correspondientes;
+
+XXXVI. Coadyuvar, en términos de la normatividad aplicable, en la elaboración del Programa Institucional de Desarrollo, así como proponer las metas, estrategias y medidas correctivas aplicables a las unidades administrativas bajo su cargo;
+
+XXXVII. Auxiliar a su superior jerárquico en asegurar el funcionamiento y control operativo del fondo revolvente, así como los gastos por comprobar, y vigilar que los arqueos de caja se efectúen con la periodicidad necesaria;
+
+XXXVIII. Coordinar al personal a su cargo para la elaboración de la relación de necesidades de recursos humanos, financieros, materiales y servicios requeridos para el logro de los objetivos y metas del Programa Operativo Anual;
+
+XXXIX. Coadyuvar con la persona titular de la Dirección para la elaboración de informes de rendición de cuentas, del uso de recursos públicos y los informes para la entrega de la Cuenta Pública Anual;
+
+XL. Dar atención y contestación a oficios que requieran información que posee la Dirección de Administración y Finanzas;
+
+XLI. Realizar todas aquellas actividades afines a las que anteceden; y
+
+XLII. Realizar las demás funciones, que en el ámbito de su competencia, le encomienden sus superiores jerárquicos y demás disposiciones normativas y administrativas aplicables para su funcionamiento y operación.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE JULIO DE 2024)</small>
+
+#### Sección Segunda. Jefatura de Departamento de Contabilidad
 
 ###### Artículo 46.
 
@@ -801,31 +931,57 @@ I. Llevar la administración y control de los recursos de la Universidad conform
 
 II. Mantener actualizados los sistemas de control y de registro de las operaciones contables referente a los ingresos y egresos de la Universidad;
 
-III. Efectuar los gastos y pago de diversas obligaciones contraídas por la Universidad que se encuentren sustentadas con la debida y suficiente comprobación y en estricto apega (sic) a la normatividad aplicable, procurando además que la documentación justificativa y comprobatoria del ejercicio y aplicación de los recursos financieros sea debidamente resguardada para efectos de transparencia, fiscalización y rendición de cuentas;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+III. Efectuar los gastos y pago de diversas obligaciones contraídas por la Universidad que se encuentren sustentadas con la debida y suficiente comprobación y en estricto apega (sic) a la normatividad aplicable, resguardando la documentación justificativa y comprobatoria del ejercicio y aplicación de los recursos financieros para efectos de transparencia, fiscalización y rendición de cuentas, así como las pólizas de egreso e ingresos;
 
 IV. Llevar el registro e inventario de bienes muebles e inmuebles de la Universidad, así como realizar los movimientos para su resguardo, registro, control, baja y disposición conforme la normatividad y procedimientos aplicables;
 
-V. Emitir los criterios, políticas, lineamientos y demás disposiciones necesarias para la organización, clasificación y sistematización de archivos, en estricto apego a la normatividad correspondiente;
+V. (DEROGADA, P.O. 22 DE JULIO DE 2024)
 
 VI. Coadyuvar en la promoción para la actualización de los sistemas de contabilidad para el manejo de los recursos asignados a la Universidad;
 
 VII. Coadyuvar con su superior jerárquico para dar cumplimiento a las obligaciones de la Universidad en materia de fiscalización, rendición de cuentas y armonización contable;
 
-VIII. Por instrucciones de su superior jerárquico, evaluar el funcionamiento y control operativo del fondo revolvente, así como los gastos por comprobar, y vigilar que los arqueos de caja se efectúen con la periodicidad necesaria;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+VIII. Llevar el control operativo del fondo revolvente, los gastos y viáticos por comprobar, así como vigilar que los arqueos de caja se efectúen con la periodicidad necesaria;
 
 IX. Realizar la operación, control del manejo de clientes y el registro oportuno de movimientos bancarios de la Universidad;
 
-X. Mantener en adecuado control las cuentas bancarias de la Universidad, así como elaborar las conciliaciones bancarias;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XI. Elaborar e integrar la información necesaria para la emisión de los estados financieros y demás informes contables de la Universidad;
+X. Realizar las gestiones necesarias para el control de las cuentas bancarias de la Universidad, así como elaborar las conciliaciones bancarias;
 
-XII. Apoyar a su superior jerárquico en el seguimiento de las auditorías internas y externas a las que se vea sometida la Universidad, atendiendo los requerimientos de información;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XIII. Supervisar que se lleve a cabo el procedimiento de adquisiciones, arrendamiento de bienes muebles e inmuebles y prestación de servicios de cualquier naturaleza en estricto apego a la normatividad aplicable; y
+XI. Elaborar e integrar la información necesaria para la emisión de los estados financieros y demás informes contables de la Universidad, y solicitar su publicación en los sitios de internet y en la página web institucional, según la normatividad aplicable;
 
-XIV. Realizar las demás funciones, en el ámbito de su competencia, (sic) le encomienden sus superiores jerárquicos y demás disposiciones normativas y administrativas aplicables para su funcionamiento.
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-#### Sección Tercera. Jefatura de Departamento de Programación y Presupuesto
+XII. Atender los requerimientos de información que se realicen en auditorías internas o externas de la Universidad sobre el manejo de los recursos de la misma, y llevar un control y registro sobre la atención de dichas auditorías:
+
+XIII. (DEROGADA, P.O. 22 DE JULIO DE 2024)
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XIV. Revisar la creación y registro de pasivos con la codificación respectiva;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XV. Emitir los comprobantes fiscales correspondientes por los ingresos que perciba la Universidad, de acuerdo con la normatividad fiscal y contable aplicable;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XVI. Realizar el pago de las contribuciones e impuestos a cargo de la Universidad que apliquen, de conformidad con las leyes y normatividad fiscal correspondiente; y
+
+XVII. Realizar las demás funciones, en el ámbito de su competencia, (sic) le encomienden sus superiores jerárquicos y demás disposiciones normativas y administrativas aplicables para su funcionamiento.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE JULIO DE 2024)</small>
+
+#### Sección Tercera
+
+Jefatura de Departamento de Infraestructura, Mantenimiento y Sustentabilidad.
 
 ###### Artículo 47.
 
@@ -853,7 +1009,9 @@ X. Coordinar y ejecutar las actividades de desarrollo sustentable y cuidados de 
 
 XI. Realizar las demás funciones, en el ámbito de su competencia, (sic) le encomienden sus superiores jerárquicos y demás disposiciones normativas y administrativas aplicables para su funcionamiento.
 
-#### Sección Cuarta. Jefatura de Departamento de Recursos Humanos
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE JULIO DE 2024)</small>
+
+#### Sección Cuarta. Jefatura de Departamento de Programación y Presupuesto
 
 ###### Artículo 48.
 
@@ -879,29 +1037,15 @@ IX. Auxiliar a su superior jerárquico en las gestiones ante las autoridades com
 
 X. Realizar las demás funciones, en el ámbito de su competencia, (sic) le encomienden sus superiores jerárquicos y demás disposiciones normativas y administrativas aplicables para su funcionamiento.
 
-#### Sección Primera. Jefatura de Departamento de Asuntos Internacionales
+> <small>(DEROGADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 22 DE JULIO DE 2024)</small>
+
+#### Sección Cuarta.
+
+Jefatura de Departamento de Recursos Humanos.
 
 ###### Artículo 49.
 
-Corresponderá a la persona titular de la Jefatura de Departamento de Recursos Humanos el ejercicio de las siguientes atribuciones:
-
-I. Integrar las propuestas de modificaciones orgánico-funcionales para tramitar su aprobación respectiva, con autorización de su superior jerárquico;
-
-II. Realizar la contratación y movimientos del personal de la Universidad con apego a la normatividad y procedimientos aplicables;
-
-III. Realizar los pagos de las diversas remuneraciones, así como las retenciones que se generen por la relación laboral sean conforme a la normatividad aplicable;
-
-IV. Cumplir y hacer cumplir los procedimientos para la administración de los recursos humanos, incluyendo en (sic) los procesos de reclutamiento, selección de personal, ingreso de personal, capacitación, evaluación del desempeño del personal, promoción, ascensos, separación y baja del personal;
-
-V. Elaborar y validar la expedición de formatos de movimiento de personal, avisos de altas, bajas, incidencias emisión de hojas de servicio, constancias de percepciones y/o antigüedad y todos aquellos que requieran los servidores públicos de la Universidad derivados de la relación laboral;
-
-VI. Mantener actualizados y resguardados los expedientes del personal de la Universidad;
-
-VII. Asegurar que se lleve a cabo la capacitación y el desarrollo profesional del personal administrativo y docente de la Universidad para el buen desempeño de sus labores, mediante la elaboración de programas anuales de capacitaciones y dar seguimiento a los mismos;
-
-VIII. Supervisar y asegurar que la contratación de personal docente que cumpla con los requisitos establecidos en las convocatorias y los reglamentos correspondientes;
-
-IX. Realizar las demás funciones, en el ámbito de su competencia, (sic) le encomienden sus superiores jerárquicos y demás disposiciones normativas y administrativas aplicables para su funcionamiento.
+(DEROGADO, P.O. 22 DE JULIO DE 2024)
 
 ### CAPÍTULO IV. Dirección de Vinculación y Extensión Universitaria
 
@@ -953,7 +1097,7 @@ XVII. Promover la firma de convenios con otras instituciones nacionales o intern
 
 XVIII. Realizar las demás funciones, en el ámbito de su competencia, (sic) le encomienden sus superiores jerárquicos y demás disposiciones normativas y administrativas aplicables para su funcionamiento.
 
-#### Sección Segunda. Jefatura de Departamento de Promoción y Vinculación
+#### Sección Primera. Jefatura de Departamento de Asuntos Internacionales
 
 ###### Artículo 53.
 
@@ -975,7 +1119,7 @@ VII. Coordinar la concertación de convenios con instituciones académicas, del 
 
 VIII. Realizar las demás funciones, en el ámbito de su competencia, (sic) le encomienden sus superiores jerárquicos y demás disposiciones normativas y administrativas aplicables para su funcionamiento.
 
-#### Sección Primera. Unidad Auditora
+#### Sección Segunda. Jefatura de Departamento de Promoción y Vinculación
 
 ###### Artículo 54.
 
@@ -1003,9 +1147,11 @@ X. Realizar las demás funciones, en el ámbito de su competencia, (sic) le enco
 
 ### CAPÍTULO V. Jefatura de Departamento de Proyectos Especiales
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### Artículo 55.
 
-La persona titular de la Jefatura de Departamento de Proyectos Especiales dependerá directamente del Rector, considerándose de segundo nivel jerárquico inferior a éste, y será el responsable de coadyuvar con el Rector para planear, coordinar, ejecutar y evaluar los proyectos especiales y estratégicos claves para el logro de los objetivos de la Universidad.
+La persona titular de la Jefatura de Departamento de Proyectos Especiales dependerá directamente del Rector, y será el responsable de coadyuvar con el Rector para planear, coordinar, ejecutar y evaluar los proyectos especiales y estratégicos claves para el logro de los objetivos de la Universidad.
 
 ###### Artículo 56.
 
@@ -1033,9 +1179,11 @@ X. Realizar las demás funciones, en el ámbito de su competencia, (sic) le enco
 
 ### CAPÍTULO VI. Jefatura de Departamento Jurídico
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### Artículo 57.
 
-La persona titular de la Jefatura de Departamento Jurídico dependerá directamente del Rector, considerándose de segundo nivel jerárquico inferior a éste y será el responsable de atender en forma especializada los asuntos legales de la Universidad para salvaguardar el patrimonio de ésta; resolver los conflictos de carácter laboral, penal, civil y mercantil, y brindar asesoría jurídica a las diversas unidades administrativas que conforman la Universidad, así como dictaminar y determinar legalmente los documentos jurídicos que procedan, siempre y cuando se expida el poder notarial correspondiente.
+La persona titular de la Jefatura de Departamento Jurídico dependerá directamente del Rector, y será el responsable de atender en forma especializada los asuntos legales de la Universidad para salvaguardar el patrimonio de ésta; resolver los conflictos de carácter laboral, penal, civil y mercantil, y brindar asesoría jurídica a las diversas unidades administrativas que conforman la Universidad, así como dictaminar y determinar legalmente los documentos jurídicos que procedan.
 
 ###### Artículo 58.
 
@@ -1069,9 +1217,27 @@ XIII. Realizar los trámites que sean necesarios para la protección de los dere
 
 XIV. Promover que los funcionarios de la Universidad cumplan con las normas legales aplicables y con los acuerdos, reglamentos e instrucciones emitidos por los órganos colegiados y el Rector;
 
-XV. Prevenir acciones jurídicas en contra de la Universidad; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XVI. Realizar las demás funciones, en el ámbito de su competencia, (sic) le encomienden sus superiores jerárquicos y demás disposiciones normativas y administrativas aplicables para su funcionamiento.
+XV. Prevenir acciones jurídicas en contra de la Universidad;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XVI. Rendir los informes que le sean solicitados a la Universidad por autoridades jurisdiccionales locales y federales en procedimientos de cualquier naturaleza, incluyendo los informes previos y justificados previstos en la Ley de Amparo;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XVII. Dar contestación a los escritos y oficios que requieran información bajo su resguardo;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XVIII. Elaborar y suscribir todo tipo de demandas, contestación de las mismas, reconvenciones, ofrecimiento y objeción de pruebas, recursos, incidentes, denuncias o querellas en lo que sea parte procesal (sic) Universidad y que sean necesarias para proteger los intereses de la misma;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XIX. Ostentar la representación legal de la Universidad, en los juicios y procesos de cualquier orden que se ventilen ante los tribunales judiciales y administrativos locales y federales, y en los cuales la Universidad sea parte, como actor, demandado, tercero interesado o autoridad responsable; y
+
+XX. Realizar las demás funciones, en el ámbito de su competencia, (sic) le encomienden sus superiores jerárquicos y demás disposiciones normativas y administrativas aplicables para su funcionamiento.
 
 ###### Artículo 59.
 
@@ -1093,9 +1259,11 @@ VII. Coadyuvar en el diseño de los procedimientos internos que contribuyan a la
 
 ### CAPÍTULO VII. Jefatura de Departamento de Planeación y Evaluación
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### Artículo 60.
 
-La persona titular de la Jefatura de Departamento de Planeación y Evaluación dependerá directamente del Rector, considerándose de segundo nivel jerárquico inferior a éste y será el responsable de desarrollar y coordinar mecanismos de planeación y evaluación de las funciones y recursos de la Universidad con miras a su crecimiento y desarrollo, así como definir los cambios, reformas o transformaciones necesarias, y promover alternativas de solución a situaciones problemáticas que afecten a la Universidad.
+La persona titular de la Jefatura de Departamento de Planeación y Evaluación dependerá directamente del Rector, y será el responsable de desarrollar y coordinar mecanismos de planeación y evaluación de las funciones y recursos de la Universidad con miras a su crecimiento y desarrollo, así como definir los cambios, reformas o transformaciones necesarias, y promover alternativas de solución a situaciones problemáticas que afecten a la Universidad.
 
 ###### Artículo 61.
 
@@ -1201,7 +1369,7 @@ III. Examinarán y evaluarán los sistemas, mecanismos y procedimientos de contr
 
 IV. Conocerán, tramitarán, sustanciarán y en su caso resolverán el procedimiento de responsabilidad administrativa, en términos de lo establecido por la Ley de Responsabilidades Administrativas del Estado de Aguascalientes y demás disposiciones aplicables a la materia.
 
-#### Sección Segunda. Unidad Investigadora
+#### Sección Primera. Unidad Auditora
 
 ###### Artículo 67.
 
@@ -1237,7 +1405,7 @@ XIV. Participar en los Comités y Comisiones dentro de la Universidad que corres
 
 XV. Las demás atribuciones previstas en las disposiciones jurídicas aplicables.
 
-#### Sección Tercera. Unidad Substanciadora Y Resolutora
+#### Sección Segunda. Unidad Investigadora
 
 ###### Artículo 68.
 
@@ -1280,6 +1448,8 @@ XVII. Certificar documentos, actuaciones y resoluciones, que deriven de la trami
 XVIII. Actuar como coadyuvante del Ministerio Público adscrito a la Fiscalía Especializada en Combate a la Corrupción, cuando formule denuncias, derivadas de sus investigaciones; y
 
 XIX. Las demás atribuciones otorgadas por las disposiciones legales aplicables en la materia.
+
+#### Sección Tercera. Unidad Substanciadora Y Resolutora
 
 ###### Artículo 69.
 
@@ -1470,3 +1640,17 @@ Representante del H. Ayuntamiento de El Llano, Aguascalientes.
 DR. JORGE ALFREDO GUILLÉN MUÑOZ
 
 Rector de la Universidad Tecnológica El Retoño y Secretario Técnico del Consejo Directivo.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO UTR/CD/2024/EXT/02/AC10 MEDIANTE EL CUAL SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO DE LA UNIVERSIDAD TECNOLÓGICA EL RETOÑO”.]
+
+PRIMERO. El presente Acuerdo que contiene diversas reformas, derogaciones y adiciones al Estatuto de la Universidad Tecnológica El Retoño entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Con la entrada en vigor del presente Acuerdo, quedan sin efecto todas aquellas disposiciones que se opongan al mismo.
+
+TERCERO. Se deberán realizar las modificaciones y reformas necesarias a las demás disposiciones internas de la Universidad Tecnológica El Retoño, a efecto de que las funciones y obligaciones de las unidades administrativas se encuentren en congruencia con el presente Acuerdo, además de todos aquellos actos jurídicos y administrativos correspondientes para su cumplimiento.
+
+CUARTO. Se ordena inscribir las reformas, derogaciones y adiciones al Estatuto de la Universidad Tecnológica El Retoño, contenidas en el presente Acuerdo, en el Registro Público de la Propiedad y del Comercio del Estado en el libro correspondiente a las Entidades Paraestatales, de conformidad con la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
