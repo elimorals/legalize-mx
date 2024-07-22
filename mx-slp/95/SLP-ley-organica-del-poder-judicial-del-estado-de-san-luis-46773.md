@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-46773"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2005-10-15"
-last_updated: "2024-03-18"
+last_updated: "2024-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 15 de octubre de 2005.
 
@@ -497,7 +497,9 @@ ARTICULO 25 BIS. Las sesiones de las salas serán públicas y por excepción, pr
 
 Para los efectos de la presente Ley, el territorio del Estado se divide en distritos y regiones judiciales.
 
-I. El Primero, que comprende los municipios de San Luis Potosí, Ahualulco, Villa de Arriaga, Armadillo de los Infante, Mexquitic de Carmona, Soledad de Graciano Sánchez, Cerro de San Pedro y Zaragoza, con residencia en la Ciudad Capital;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+I. El Primero, que comprende los municipios de San Luis Potosí, Ahualulco del Sonido 13, Villa de Arriaga, Armadillo de los Infante, Mexquitic de Carmona, Soledad de Graciano Sánchez, Cerro de San Pedro, Villa de Pozos, y Zaragoza, con residencia en la Ciudad Capital;
 
 II. El Segundo, que comprende los municipios de Matehuala, Catorce, Villa de la Paz, Villa de Guadalupe, Cedral y Vanegas, con residencia en la cabecera municipal de Matehuala;
 
@@ -2888,3 +2890,55 @@ P.O. 18 DE MARZO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1074.- SE ERIGE EN EL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EL MUNICIPIO LIBRE DE VILLA DE POZOS. SE REFORMA EL ARTÍCULO 13 EN SU FRACCIÓN II; Y ADICIONA AL ARTÍCULO 6° UN NUMERAL, ÉSTE COMO 53, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 49 FRACCIÓN I, DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto será vigente al momento de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. De conformidad con los artículos 119 y 57, fracción XXX, de la Constitución Política del Estado Libre y Soberano de San Luis Potosí; y 52 de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, hasta en tanto el primer Ayuntamiento de Villa de Pozos sea electo, el gobierno y administración del Municipio de Villa de Pozos se depositará en un Concejo Municipal, en términos de los artículo (sic) 44 y 45 de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, el cual será designado por el Congreso del Estado Libre y Soberano de San Luis Potosí dentro de los veinticinco días naturales siguientes a la entrada en vigor del presente Decreto y conforme a lo previsto en el artículo 18 fracción III y 109 fracción XVI, de la Ley Orgánica del Poder Legislativo del Estado.
+
+TERCERO. El Concejo Municipal se instalará el uno de octubre de 2024.
+
+CUARTO. Para la instalación del Concejo Municipal se observarán las disposiciones del Capítulo II del Título Segundo de la Ley Orgánica del Municipio Libre del Estado de San Luis Potosí, aplicables a la instalación de los Ayuntamientos.
+
+QUINTO. Hasta en tanto sea instalado el Concejo Municipal, el Ayuntamiento de San Luis Potosí continuará ejerciendo sus funciones y prestando los servicios públicos en la demarcación del nuevo Municipio de Villa de Pozos.
+
+SEXTO. Instalado el Concejo Municipal, será responsable de prestar los servicios públicos, en la demarcación territorial de la nueva municipalidad, a través de los bienes muebles e inmuebles, infraestructura de cualquier tipo, dentro de las que se encuentran la red hidráulica y eléctrica, vehículos, maquinaria, herramientas y demás insumos que el Municipio de San Luis Potosí, sus organismos públicos descentralizados municipales e intermunicipales, y demás de sus entidades públicas, le deba transferir en términos de la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí.
+
+SÉPTIMO. Una vez designado el Concejo Municipal por parte del Congreso del Estado, se llevará a cabo el proceso de entrega-recepción de los recursos públicos entre el Ayuntamiento de San Luis Potosí y el Concejo Municipal, debiéndose observar para tales efectos las disposiciones de la Ley para la Entrega-Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí aplicables a los Ayuntamientos por conclusión e inicio de un ejercicio constitucional.
+
+Para hacer efectivo el cumplimiento de lo establecido por el artículo 10 fracción IV de la Ley referida, la Comisión de entrega se conformará por los integrantes del Ayuntamiento de San Luis Potosí que este determine, y la Comisión de recepción se conformará por los integrantes del Concejo Municipal, con la intervención que la Ley prevé de la Contraloría Interna del Municipio, y los representantes del Instituto de Fiscalización Superior del Estado.
+
+El Ayuntamiento de San Luis Potosí realizará la entrega de toda la información, documentación, expedientes, archivos, y demás recursos públicos que señala la Ley, que correspondan o se relacionen directa o indirectamente con cualquier asunto inherente al nuevo Municipio de Villa de Pozos.
+
+OCTAVO. El Ayuntamiento de San Luis Potosí transferirá a favor del nuevo Municipio de Villa de Pozos, el dominio, la posesión y demás derechos reales de todos los bienes inmuebles que integren su patrimonio y que se encuentren dentro la circunscripción territorial del nuevo Municipio de Villa de Pozos, con el destino al que estaban afectos.
+
+NOVENO. El Ayuntamiento de San Luis Potosí transferirá a favor del nuevo Municipio de Villa de Pozos, todos los bienes muebles que integren su patrimonio y que se encuentren dentro la circunscripción territorial del nuevo Municipio de Villa de Pozos, con el destino al que estaban afectos.
+
+DÉCIMO. A partir del día uno del mes de octubre del año 2024, los residentes que se encuentren dentro la circunscripción territorial del nuevo Municipio de Villa de Pozos se considerarán vecinos y habitantes del mismo, quedando sujetos a la jurisdicción de sus autoridades.
+
+La antigüedad de residencia de los habitantes del nuevo Municipio de Villa de Pozos, se entenderá aquella que resulte de contabilizar el tiempo de residencia que se haya tenido en el Municipio de San Luis Potosí que se localice dentro la circunscripción territorial del nuevo Municipio de Villa de Pozos, de acuerdo a la información que obre en los archivos o que para dichos fines se proporcione.
+
+DÉCIMO PRIMERO. Los derechos, así como las obligaciones que se desprendan de contratos, convenios o acuerdos celebrados en términos de ley por el Ayuntamiento de San Luis Potosí, relativos a obras y acciones de beneficio social que se localice dentro la circunscripción territorial del nuevo Municipio de Villa de Pozos, pasarán a cargo del nuevo Municipio de Villa de Pozos.
+
+DÉCIMO SEGUNDO. Los trabajadores de base del Municipio de San Luis Potosí que se encuentren adscritos a la Delegación Municipal de Villa de Pozos hasta antes del día uno del mes de enero del año 2024, podrán optar como trabajadores del Municipio de San Luis Potosí, o pasar a formar parte del nuevo Municipio de Villa de Pozos, en cuyo caso se les tendrá por reconocida su antigüedad, nivel, puesto, salario y demás prestaciones que previamente hayan sido adquiridas y que se encuentren establecidas en el presupuesto de egresos del ejercicio fiscal 2024 del Municipio de San Luis Potosí, por lo que las relaciones laborales se entenderán con el nuevo Municipio de Villa de Pozos a partir del día uno del mes de octubre del año 2024, debiendo los trabajadores comunicar su decisión por escrito al Ayuntamiento del Municipio de San Luis Potosí, y al Concejo Municipal designado del nuevo Municipio de Villa de Pozos, a más tardar el día trece de septiembre de 2024.
+
+DÉCIMO TERCERO. En tanto son expedidas y entran en vigor las disposiciones reglamentarias del nuevo Municipio de Villa de Pozos, se observarán en lo conducente las disposiciones reglamentarias del Municipio de San Luis Potosí.
+
+DÉCIMO CUARTO. La hacienda pública del Ayuntamiento de Villa de Pozos se conformará de los ingresos provenientes de los siguientes conceptos: I. Las contribuciones, consistentes en impuestos, derechos, contribuciones de mejoras, así como sus accesorios; II. Los productos y rendimientos de su propio patrimonio; III. Los aprovechamientos y sus accesorios; IV. Las transferencias de recursos por parte del Estado y la Federación; V. Las participaciones provenientes del Estado y la Federación; VI. Los ingresos derivados de financiamiento, y VII. Los bienes y derechos que formen su patrimonio.
+
+DÉCIMO QUINTO. El Congreso del Estado expedirá a más tardar el último día del mes de septiembre de 2024, la Ley de Ingresos del nuevo Municipio de Villa de Pozos para el periodo comprendido de entre el uno de octubre al treinta y uno de diciembre del ejercicio fiscal 2024, tomando como iniciativa de ley, la Ley de Ingresos del Municipio de San Luis Potosí para el ejercicio fiscal 2024.
+
+DÉCIMO SEXTO. El Congreso del Estado deberá comunicar tanto a la Secretaría de Hacienda y Crédito Público del Gobierno Federal y a la Secretaría de Finanzas del Gobierno del Estado lo relativo a la creación del Ayuntamiento de Villa de Pozos a fin de que lleven a cabo las adecuaciones correspondientes en lo relativo a la distribución de las participaciones y aportaciones federales y estatales.
+
+DÉCIMO SEPTIMO. Para el periodo comprendido del uno de octubre al 31 de diciembre del 2024, el Ayuntamiento de Villa de Pozos aplicará los valores unitarios de suelo y construcción aprobados por el Congreso del Estado al Ayuntamiento de San Luis Potosí para el ejercicio fiscal 2024.
+
+DÉCIMO OCTAVO. Dentro de un plazo de 90 días hábiles contados a partir de la instalación del Concejo Municipal, el Ayuntamiento de Villa de Pozos deberá elaborar un estudio financiero, acompañado de una propuesta de Convenio entre éste y el Ayuntamiento de San Luis Potosí, mediante el cual, de así ser aceptado por ambas partes, se transfiera un porcentaje de los pasivos y deuda pública preexistentes en este último. En la elaboración del Convenio deberán analizarse los factores poblacionales y financieros.
+
+De igual manera, en su caso, se deberá convenir con la institución financiera acreedora del crédito existente, el reconocimiento del Concejo Municipal del nuevo Municipio de Villa de Pozos, con la finalidad de que sea considerado como parte dentro del respectivo Convenio.
+
+El porcentaje de los pasivos y deuda pública deberá ser determinado entre el Ayuntamiento de San Luis Potosí, el Concejo Municipal del nuevo Municipio de Villa de Pozos, la Comisión de Hacienda del Estado del Congreso del Estado, y la Secretaría de Finanzas del Gobierno del Estado.
+
+DÉCIMO NOVENO. El Congreso del Estado Libre y Soberano de San Luis Potosí, tendrá facultades para dictar las normas interpretativas y aclaratorias al presente Decreto que resulten necesarias para su adecuada aplicación y vigencia.
