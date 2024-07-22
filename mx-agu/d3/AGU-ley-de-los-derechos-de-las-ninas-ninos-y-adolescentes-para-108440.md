@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-06-24"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -130,6 +130,10 @@ VIII Bis. Ciberbullying: Forma de Violencia por medio de las tecnologías digita
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
 
 IX. Crianza Positiva: Comportamiento de las madres, padres y de quienes ejerzan la patria potestad, guarda y custodia o bien la tutela, con base en el interés superior de la niñez, que promueve la atención, el desarrollo de capacidades y la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, los cuales permitan el pleno desarrollo de las niñas, niños y adolescentes; evitando la violencia vicaria.
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+IX Bis. Cultura de Paz: Conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos a través del diálogo y la negociación entre las personas, los grupos y las naciones;
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -391,13 +395,17 @@ XX. Derecho de acceso a las tecnologías de la información y comunicación, as�
 
 XXI. Derecho a mantener vínculos con sus progenitores sin que alguno de estos pueda impedirlo u obstaculizarlo mediante la manipulación de la conciencia del menor;
 
-> <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XXII. Derecho a una alimentación suficiente, nutritiva y de calidad que asegure su pleno desarrollo físico y mental; incluyendo el derecho a la lactancia materna, se procurará sea exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, siempre que las condiciones de salud del bebé, la salud y la voluntad de la madre lo permitan; y
+XXII. Derecho a una alimentación suficiente, nutritiva y de calidad que asegure su pleno desarrollo físico y mental; incluyendo el derecho a la lactancia materna, se procurará sea exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, siempre que las condiciones de salud del bebé, la salud y la voluntad de la madre lo permitan;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XXIII. Derecho a la salud mental, entendido como la atención psicológica que garantice el bienestar emocional, psicológico y social de niñas niños y adolescentes.
+XXIII. Derecho a la salud mental, entendido como la atención psicológica que garantice el bienestar emocional, psicológico y social de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XXIV. Derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 Las autoridades del Estado de Aguascalientes y de sus Municipios, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -1059,7 +1067,9 @@ I. Reducir la morbilidad y mortalidad;
 
 II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria;
 
-III. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud y la nutrición, las ventajas de la lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+III. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud y la nutrición, las ventajas de la lactancia materna, la higiene, incluida la higiene bucodental, y el saneamiento ambiental y las medidas de prevención de accidentes;
 
 IV. Adoptar medidas tendientes a la eliminación de las prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes;
 
@@ -1070,6 +1080,10 @@ VI. Establecer medidas tendientes a prevenir embarazos en niñas y adolescentes,
 VII. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a métodos anticonceptivos e información sobre los mismos, en términos de lo dispuesto por el Artículo 1°, Fracción II de la presente Ley, fomentando el desarrollo de una maternidad y paternidad responsables;
 
 VIII. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas;
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+VIII. Bis. Establecer medidas tendientes a la prevención, atención y combate de los problemas de salud bucodental pública causados por las malas prácticas de higiene y alimentación;
 
 IX. Fomentar y ejecutar los programas de vacunación y el control de un sano crecimiento y desarrollo de niños, niñas y adolescentes, ejerciendo la vigilancia periódica;
 
@@ -1235,9 +1249,13 @@ XVIII. Establecer mecanismos para fomentar el uso responsable y seguro de las te
 
 XIX. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional.
 
-> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XX. Conformar una instancia multidisciplinaria responsable de establecer mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia o discriminación que se produzca contra niñas, niños y adolescentes en los centros educativos del Estado.
+XX. Conformar una instancia multidisciplinaria responsable de establecer mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso o cualquier otra forma de violencia o discriminación que se produzca contra niñas, niños y adolescentes en los centros educativos del Estado; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XXI. Inculcar en niñas, niños y adolescentes la cultura de paz y la educación cívica.
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -1245,7 +1263,9 @@ Las autoridades escolares, en el ámbito de su competencia, deberán adoptar med
 
 La educación, además de lo dispuesto en las disposiciones aplicables, tendrá los siguientes fines:
 
-I. Fomentar en niñas, niños y adolescentes los valores fundamentales y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+I. Fomentar en niñas, niños y adolescentes los valores fundamentales, la cultura de paz, la educación cívica y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas;
 
 II. Desarrollar la personalidad, las aptitudes y las potencialidades de niñas, niños y adolescentes;
 
@@ -1261,7 +1281,9 @@ VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o
 
 VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes que le permitan a niñas, niños y adolescentes ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y los Tratados Internacionales de los que el Estado mexicano sea parte;
 
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz, la educación cívica y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos; y
 
 X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos.
 
@@ -1647,15 +1669,57 @@ El Sistema DIF Estatal, enviará al Sistema Nacional DIF la información sobre n
 
 En ningún caso una situación migratoria irregular de niña, niño o adolescente, pre configurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE JULIO DE 2024)</small>
+
+### CAPÍTULO XXI. Derecho a la Movilidad
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2024)</small>
+
+###### Artículo 94 Bis.
+
+Las Niñas, niños y adolescentes gozarán del derecho a la movilidad, de conformidad a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, por esta Ley, así como la legislación en la materia.
+
+Para garantizar dicho derecho, las autoridades Estatal y Municipal promoverán, en sus respectivos ámbitos de competencia:
+
+I. Que los proyectos de infraestructura vial se hagan con enfoque de prevención, que disminuya los factores de riesgo y la incidencia de lesiones graves con motivo de los accidentes viales; y
+
+II. El uso y disfrute del espacio público en condiciones de seguridad.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2024)</small>
+
+###### Artículo 94 Ter.
+
+Las autoridades Estatal y Municipal, en el ámbito de sus respectivas competencias, llevarán a cabo acciones para promover:
+
+A) Entornos escolares seguros: A través de elementos de diseño, gestión, mantenimiento y operación que promueva la seguridad vial en los trayectos y accesos a los planteles escolares, considerando en todo momento:
+
+I. Infraestructura urbana con un diseño universal en el que se incluyan las necesidades de las niñas, niños y adolescentes, conforme a lo previsto en la legislación de la materia;
+
+II. La velocidad de todos los vehículos de 20 kilómetros por hora en zonas y entornos escolares en vías secundarias y calles terciarias y hasta 30 kilómetros por hora en zonas y entornos escolares en vías primarias y carreteras, en términos de lo dispuesto en el artículo 228 TER de la Ley de Movilidad del Estado de Aguascalientes;
+
+III. Las medidas que coadyuven a proteger la salud de niñas, niños y adolescentes a través de la promoción de la disminución de bajos niveles de contaminación atmosférica y acústica promoviendo en todo momento modos sustentables de transporte;
+
+IV. La participación de las niñas, niños y adolescentes en el diseño de entonos seguros, a través de mecanismos adecuados, con la finalidad de incorporar criterios que garanticen sus necesidades de movilidad; y
+
+V. El uso de metodologías e indicadores que permitan identificar los factores de riesgo; promover entornos seguros que contribuyan a una mejor calidad de vida.
+
+B). Espacios Públicos adecuados y seguros, a través de:
+
+I. Equipamiento y mobiliario urbano para el disfrute de las niñas, niños y adolescentes de un entorno accesible y seguro para su movilidad, así como el uso y disfrute de las vías públicas;
+
+II. El fomento de mecanismos de participación de niñas, niños y adolescentes en el diseño y gestión de los espacios públicos para cumplir con sus necesidades de movilidad;
+
+III. La consideración de criterios en el diseño del espacio público e infraestructura vial, la reducción de flujos y velocidades vehiculares para dar lugar a la sana convivencia en las vialidades; y
+
+IV. La promoción de espacios y zonas de juego, deportivas y recreativas públicas seguras, accesibles y suficientes, en función de la edad, la diversidad funcional o situación de discapacidad u otras circunstancias, que garanticen su derecho al deporte, al juego, al esparcimiento y el sano desarrollo.
+
 ### CAPÍTULO ÚNICO. De Quienes Ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+
+## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
 ### CAPÍTULO ÚNICO. De los Centros de Asistencia Social
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2022)</small>
-
-## TÍTULO TERCERO. DE LAS OBLIGACIONES
-
-### CAPÍTULO I. De las Autoridades
 
 ###### Artículo 95.
 
@@ -1681,7 +1745,9 @@ IV. Impartir en consonancia con la evolución de sus facultades, dirección y or
 
 V. Asegurar y ofrecer un entorno afectivo, comprensivo y sin violencia para el pleno y armonioso desarrollo integral a través de una crianza positiva, mediante el cuidado cariñoso, los vínculos filiales sanos, las relaciones no violentas, respetuosas, positivas y participativas, conforme al grado de madurez y desarrollo de las niñas, niños y adolescentes, que garantice el ejercicio de sus derechos conforme a la presente ley y demás disposiciones jurídicas aplicables.
 
-VI. Fomentar en niñas, niños y adolescentes el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+VI. Fomentar en niñas, niños y adolescentes la cultura de paz, la educación cívica, el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -1705,13 +1771,17 @@ XII. Es obligación primordial orientar y supervisar y, en su caso, restringir, 
 
 XIII. La responsabilidad primordial de proporcionar dentro de sus posibilidades y medios económicos, las condiciones de vida que sean necesarias para el desarrollo de las niñas, niños y adolescentes, procurando un nivel de vida adecuado para su desarrollo físico, mental, espiritual, ético y social. Por lo que deberán abstenerse de fomentar, obligar, o inducir su utilización en trabajos que perjudiquen o ponga en riesgo en cualquier momento la salud, educación, integridad física o la propia vida del menor;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XIV. Responder por los daños y perjuicios que hayan causado las niñas, niños y adolescentes por la omisión en su deber de cuidado, en términos del Artículo 1793 del Código Civil; y
+XIV. Responder por los daños y perjuicios que hayan causado las niñas, niños y adolescentes por la omisión en su deber de cuidado, en términos del Artículo 1793 del Código Civil;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XV. Brindar atención apropiada a las niñas y niños en la primera infancia para lograr el desarrollo óptimo de sus capacidades cognoscitivas, físicas, emocionales, sociales, afectivas y lingüísticas.
+XV. Brindar atención apropiada a las niñas y niños en la primera infancia para lograr el desarrollo óptimo de sus capacidades cognoscitivas, físicas, emocionales, sociales, afectivas y lingüísticas; y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XVI. Atender las normas de seguridad vial para niñas, niños y adolescentes cuando sean personas usuarias de vehículos motorizados particulares, en sus traslados por las vías públicas y evitar en todo momento los factores de riesgo vial señalados en la Ley de Movilidad del Estado de Aguascalientes.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
 
@@ -1751,7 +1821,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO II. De la Distribución de Competencias
+### CAPÍTULO I. De las Autoridades
 
 ###### Artículo 100.
 
@@ -1893,9 +1963,7 @@ La Procuraduría de Protección Local será coadyuvante de la Procuraduría de P
 
 ## TÍTULO QUINTO. DE LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO III. Del Sistema Local de Protección
-
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
+### CAPÍTULO II. De la Distribución de Competencias
 
 ###### Artículo 107.
 
@@ -1903,9 +1971,9 @@ Las autoridades estatales y municipales, incluyendo los organismos constituciona
 
 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-### CAPÍTULO IV. De la Secretaría Ejecutiva
+### CAPÍTULO III. Del Sistema Local de Protección
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 25 DE MAYO DE 2020)</small>
 
 ###### Artículo 108.
 
@@ -1939,9 +2007,31 @@ XI. Proporcionar a las instancias encargadas de realizar estadísticas y de inte
 
 XII. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la Ley General;
 
-XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la Ley General y de la presente Ley; y
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 22 DE JULIO DE 2024)</small>
 
-XIV. Cualquier otra prevista para el cumplimiento de esta Ley.
+XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la Ley General y de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 22 DE JULIO DE 2024)</small>
+
+XIV. Promover programas y acciones enfocados en la seguridad vial de niñas, niños y adolescentes en sus traslados por las vías públicas del Estado, a través de la identificación de factores de riesgo, en las que se consideren:
+
+A. Medidas de mitigación;
+
+B. Reducción y control de la velocidad conforme a la Ley de Movilidad del Estado de Aguascalientes;
+
+C. Uso obligatorio de cinturón de seguridad;
+
+D. Uso de sillas de retención infantil o de asiento de seguridad, que cumplan con estándares reconocidos internacionalmente en su fabricación; y
+
+E. El uso obligatorio de casco para personas usuarias de motocicletas.
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XV. Establecer medidas administrativas para la protección de niñas, niños y adolescentes en vehículos mediante el uso correcto de los sistemas de retención infantil, señaladas en la fracción que antecede; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JULIO DE 2024)</small>
+
+XVI. Cualquier otra prevista para el cumplimiento de esta Ley.
 
 ###### Artículo 110.
 
@@ -1987,7 +2077,9 @@ XIII. Establecer y ejecutar los mecanismos para la prevención, detección, aten
 
 XIV. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la Ley General, se asuman en el Sistema Nacional DIF y el Sistema DIF Estatal.
 
-### CAPÍTULO V. De la Procuraduría de Protección Local
+### CAPÍTULO IV. De la Secretaría Ejecutiva
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 111.
 
@@ -2159,7 +2251,7 @@ El Sistema Local de Protección Integral se reunirá cuando menos dos veces al a
 
 Para el mejor cumplimiento de sus funciones, el Sistema Local de Protección constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial del Estado.
 
-### CAPÍTULO VI. De los Sistemas Municipales de Protección
+### CAPÍTULO V. De la Procuraduría de Protección Local
 
 ###### Artículo 116.
 
@@ -2227,7 +2319,7 @@ IV. Contar con al menos cinco años de experiencia en las áreas correspondiente
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### CAPÍTULO VII. De la Comisión Estatal de Derechos Humanos
+### CAPÍTULO VI. De los Sistemas Municipales de Protección
 
 ###### Artículo 118.
 
@@ -2363,7 +2455,7 @@ El nombramiento del citado Procurador, deberá ser aprobado por la Junta de Gobi
 
 El Reglamento Interior del Sistema DIF Estatal, conforme a la demanda de servicio que se registre y a la disponibilidad presupuestal, podrá establecer la creación de unidades que permita la desconcentración regional de la Procuraduría de Protección Local, a efecto de que logre la mayor presencia y cobertura posible en los Municipios del Estado.
 
-### CAPÍTULO VIII. Del Programa Local
+### CAPÍTULO VII. De la Comisión Estatal de Derechos Humanos
 
 ###### Artículo 122.
 
@@ -2427,17 +2519,15 @@ XV. Realizar de manera permanente y continua, campanas de información y divulga
 
 XVI. Las demás que les confieran otras disposiciones aplicables.
 
-### CAPÍTULO IX. Niñas y Niños que Viven con sus Madres en los Centros Penitenciarios
-
-> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+### CAPÍTULO VIII. Del Programa Local
 
 ###### Artículo 124.
 
 La Comisión Estatal de Derechos Humanos del Estado de Aguascalientes, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
-### CAPÍTULO ÚNICO. De las Infracciones y Sanciones Administrativas
+### CAPÍTULO IX. Niñas y Niños que Viven con sus Madres en los Centros Penitenciarios
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
 ###### Artículo 125.
 
@@ -2450,6 +2540,10 @@ Los Programas Locales y Municipales, preverán acciones de mediano plazo y largo
 Los Sistemas Local y Municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+
+### CAPÍTULO ÚNICO. De las Infracciones y Sanciones Administrativas
+
+> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
 
 ###### Artículo 126 Bis.
 
@@ -3118,3 +3212,29 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 743.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 745.- SE REFORMA LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentos que se opongan al mismo.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 748.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
