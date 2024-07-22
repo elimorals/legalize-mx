@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-15005
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-07"
-last_updated: "2021-06-07"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE NAYARIT
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE AGOSTO DE 2024 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Sección Décima Segunda del Periódico Oficial del Estado de Nayarit, el lunes 7 de junio de 2021.
 
@@ -155,9 +157,17 @@ XIX. Acciones para mejorar la economía popular, a través del incremento de las
 
 XX. Participación en acciones de protección civil;
 
-XXI. Apoyo para el desarrollo de los pueblos y comunidades indígenas, y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XXII. Acciones para la cooperación y la cultura en materia de seguridad ciudadana.
+XXI. Apoyo para el desarrollo de los pueblos y comunidades indígenas;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XXII. Acciones para la cooperación y la cultura en materia de seguridad ciudadana, y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XXIII. Acciones que tengan como finalidad el recuperar, recolectar y recibir en donación los alimentos aptos para consumo humano.
 
 Las Organizaciones para ser susceptibles del fomento de esta Ley, no deberán contener como objeto más de uno de los contenidos de las fracciones de este artículo, salvo que entre dichos contenidos se dé una relación de medio a fin.
 
@@ -588,6 +598,14 @@ DADO en Sesión Pública Virtual del Recinto Oficial de este Honorable Congreso 
 Dip. Karla Gabriela Flores Parra, Presidenta.- Rúbrica.- Dip. Claudia Cruz Dionisio, Secretaria.- Rúbrica.- Dip. Elizabeth Rivera Marmolejo, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit en Tepic su capital, a los siete días del mes de junio de dos mil veintiuno.- L.C. ANTONIO ECHEVARRÍA GARCÍA.- Rúbrica.- El Secretario General de Gobierno, Lic. José Antonio Serrano Guzmán.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES DEL ARTÍCULO 8 DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE NAYARIT, EN MATERIA DE DONACIÓN ALTRUISTA DE ALIMENTOS".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 ### CAPÍTULO VI. INFRACCIONES Y SANCIONES
 
