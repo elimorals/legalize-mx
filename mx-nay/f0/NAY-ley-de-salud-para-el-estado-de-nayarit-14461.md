@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2022-10-05"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -259,9 +259,9 @@ VI.- Impulsar, en el ámbito estatal un sistema racional de administración y de
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-VIII.- Promover el conocimiento y desarrollo de la medicina tradicional y su práctica en condiciones adecuadas;
+VIII.- Promover el respeto, conocimiento y desarrollo de la medicina tradicional y su práctica en condiciones dignas, incluida la partería tradicional;
 
 > <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
 
@@ -861,19 +861,19 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 ### CAPITULO V. ATENCION MATERNO-INFANTIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 56.
 
-La protección materno-infantil y la promoción de la salud materna, abarca las etapas que inician en el embarazo, parto, post-parto y puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer y el producto.
+La protección materno-infantil y la promoción de la salud materna, abarca las etapas que inician en el embarazo, parto, post-parto o puerperio, en razón de la condición de vulnerabilidad en que se encuentra la mujer y el producto.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE JULIO DE 2022)</small>
 
 La atención materno-infantil tiene carácter prioritario y comprende, entre otras, las siguientes acciones:
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-I.- La atención humanizada a las mujeres, sin violencia ni discriminación y con perspectiva de derechos humanos durante el embarazo, el parto y el puerperio;
+I.- La atención humanizada a las mujeres, de manera digna, sin ningún tipo de violencia ni discriminación y con perspectiva de derechos humanos e intercultural en los servicios de salud y atención médica durante el embarazo, el parto y el puerperio, en la forma y términos establecidos en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit;
 
 > <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
 
@@ -941,13 +941,17 @@ III.- Acciones de promoción para la creación de bancos de leche humana en los 
 
 IV.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años de edad;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-V.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio, y
+V.- Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-VI.- Acciones de diagnóstico y atención temprana de la displasia en el desarrollo de cadera, durante el crecimiento y desarrollo de los menores de 5 años.
+VI.- Acciones de diagnóstico y atención temprana de la displasia en el desarrollo de cadera, durante el crecimiento y desarrollo de los menores de 5 años, y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+VII.- Acciones para respetar, garantizar y proteger el ejercicio de las parteras tradicionales, en condiciones de dignidad y acorde con sus métodos y prácticas curativas, así como el uso de sus recursos bioculturales.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2022)</small>
 
@@ -2945,7 +2949,9 @@ V.- Los demás que determine la Ley General de Salud.
 
 ARTICULO 253 BIS.- El certificado de nacimiento se expedirá para cada nacido vivo una vez comprobado el hecho. Para tales efectos, se entenderá por nacido vivo, al producto de la concepción expulsado o extraído de forma completa del cuerpo de su madre, independientemente de la duración del embarazo, que después de dicha separación respire o dé cualquier otra señal de vida como frecuencia cardiaca, pulsaciones de cordón umbilical o movimientos efectivos de los músculos de contracción voluntaria, tanto si se ha cortado o no el cordón umbilical y esté o no desprendida la placenta.
 
-El certificado de nacimiento será expedido por profesionales de la medicina o personas autorizadas para ello por la autoridad sanitaria competente.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
+El certificado de nacimiento será expedido por profesionales de la medicina, parteras tradicionales con reconocimiento comunitario o personas autorizadas para ello por la autoridad sanitaria competente.
 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2015)</small>
 
@@ -3640,3 +3646,19 @@ P.O. 5 DE OCTUBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 63 DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Estado de Nayarit.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT, EN MATERIA DE PARTERÍA TRADICIONAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Notifíquese el presente Decreto a la Secretaría de Salud en el Estado de Nayarit.
+
+TERCERO. El Titular del Poder Ejecutivo Estatal en un plazo de 180 días hábiles, realizará las adecuaciones a la reglamentación correspondiente.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA EL PRIMER PÁRRAFO Y LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA OBSTÉTRICA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
