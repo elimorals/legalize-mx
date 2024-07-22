@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-las-personas-adultas-mayores-para-el-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-09"
-last_updated: "2016-11-08"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 9 de diciembre de 2015.
 
@@ -367,9 +367,17 @@ XIII. Promover el establecimiento y otorgamiento de incentivos o estímulos para
 
 XIV. Impulsar y fortalecer procesos sociales que generen la participación de las personas adultas mayores, en la formulación y ejecución de las políticas públicas que les afecten;
 
-XV. Fomentar el desarrollo integral de las personas adultas mayores observando el principio de equidad de género, por medio de políticas públicas, programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades, y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XVI. Promover la difusión de los derechos y valores en beneficio de las personas adultas mayores, con el propósito de sensibilizar a las familias y a la sociedad en general respecto a la problemática de este sector.
+XV. Fomentar el desarrollo integral de las personas adultas mayores observando el principio de equidad de género, por medio de políticas públicas, programas y acciones a fin de garantizar la igualdad de derechos, oportunidades y responsabilidades;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XVI. Promover la difusión de los derechos y valores en beneficio de las personas adultas mayores, con el propósito de sensibilizar a las familias y a la sociedad en general respecto a la problemática de este sector, y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XVII. Promover su inclusión financiera, a fin de asegurar su bienestar.
 
 ###### Artículo 25.
 
@@ -694,3 +702,9 @@ P.O. 8 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 68 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT".]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 24 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT, EN MATERIA DE INCLUSIÓN FINANCIERA PARA LAS PERSONAS ADULTAS MAYORES”.]
+
+ÚNICO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
