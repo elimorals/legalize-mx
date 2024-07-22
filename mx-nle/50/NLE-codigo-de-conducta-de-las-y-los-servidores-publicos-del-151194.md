@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-las-y-los-servidores-publicos-del-151194"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-09-20"
-last_updated: "2021-09-20"
+last_updated: "2024-07-22"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PUBLICOS DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 22 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024 (SIN EFECTOS).
 
 Código publicado en el Número 115 del Periódico Oficial del Estado de Nuevo León, el lunes 20 de septiembre de 2021.
 
@@ -806,3 +808,13 @@ Así lo acuerda y firma, en Monterrey, su capital a los 13-trece días del mes d
 LA C. PRESIDENTA EJECUTIVA DEL INSTITUTO ESTATAL LAS MUJERES
 
 MARTHA CECILIA REYES CRUZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deja sin efectos el Código de Conducta de las y los Servidores Públicos del Instituto Estatal de las Mujeres, publicado en el Periódico Oficial del Estado el día 20 de septiembre de 2021.
