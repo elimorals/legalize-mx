@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6482
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-15"
-last_updated: "2024-04-17"
+last_updated: "2024-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 15 de noviembre de 2008.
 
@@ -549,9 +549,39 @@ IV. Violencia patrimonial.- La acción de sustracción, destrucción, retención
 
 V. Violencia económica.- La acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para afectar su independencia y supervivencia económica;
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-VI. Violencia obstétrica.- Toda conducta, acción u omisión, que ejerce el personal de salud tanto en el ámbito público como en el privado, sobre el cuerpo y los procesos reproductivos de las mujeres, de manera directa o indirecta, expresada en un trato deshumanizado, un abuso de medicalización o patologización de los procesos naturales, menoscabando la capacidad de la mujer de decidir de manera libre e informada;
+VI. Violencia obstétrica.- Es toda acción u omisión ejercida dentro de la esfera de atención médica por el personal de salud del ámbito público y privado, consistente en trato irrespetuoso u ofensivo, manipulación, desinformación intencionada, abuso de medicalización, patologización de procesos naturales, imposición de tratamientos médicos y la utilización de estos cuando es innecesario, que tiene como consecuencia humillar, limitar, menoscabar, vulnerar o anular los derechos reproductivos, sexuales y de salud de las mujeres en etapa de gestación, parto y puerperio, así como su autonomía y capacidad de decisión.
+
+La violencia obstétrica, puede expresarse, entre otras a través de las siguientes conductas:
+
+a) Maltrato físico y psicológico;
+
+b) No atender oportunamente las emergencias obstétricas;
+
+c) Humillación, abuso verbal e insultos;
+
+d) Imponer a la mujer una posición fisiológica que impida que el trabajo de parto se desarrolle de manera adecuada;
+
+e) Ejecutar el parto por cesárea aun cuando existen condiciones para que se desarrolle de manera natural, sin obtener el consentimiento expreso e informado de la mujer;
+
+f) Realizar procedimientos sin obtener el consentimiento expreso e informado de la mujer;
+
+g) Obtener el consentimiento a través de intimidaciones, manipulación, engaños y falsa información;
+
+h) Alterar el proceso natural del parto, mediante el uso de técnicas de aceleración, suministración de medicamentos, sin obtener el consentimiento expreso e informado de la mujer;
+
+i) Procedimientos autoritarios para imponer un método anticonceptivo o de esterilización, sin que medie el consentimiento expreso e informado de la mujer; en caso de ser menor de edad o incapaz, con el consentimiento de sus padres o tutores;
+
+j) Obstaculizar el apego inmediato de la niña o niño con la madre, sin causa médica justificada, negándole la posibilidad de cargarle o lactarle al nacer;
+
+k) Violación de confidencialidad o privacidad respecto de información de la paciente;
+
+l) Negación de tratamiento o atención médica, y
+
+m) Detención de mujeres o recién nacidos en virtud de la imposibilidad de pago.
+
+La violencia obstétrica será sancionada en la forma y términos establecidos por esta Ley y demás aplicables en la materia.
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
 
@@ -1488,3 +1518,9 @@ P.O. 17 DE ABRIL DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de conformidad con la disponibilidad presupuestal del Estado y sus municipios para el presente ejercicio fiscal y subsecuentes.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 23 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA OBSTÉTRICA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
