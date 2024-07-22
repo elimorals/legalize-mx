@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-asistencia-social-y-de-17254"
 country: "mx"
 rank: "ley"
 publication_date: "2000-04-10"
-last_updated: "2024-05-27"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de abril de 2000.
 
@@ -63,71 +63,105 @@ Para los efectos de lo mencionado en el párrafo anterior, el Gobierno del Estad
 
 Para los efectos de esta Ley se entiende por asistencia social, al conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo, un desarrollo integral, así como a la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física, mental o por su condición migratoria tendiente a lograr su incorporación a una vida plena y productiva en sociedad, en cualquier lugar donde se encuentren.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. 22 DE JULIO DE 2024, PÁGINA 7.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 4o.
 
-En los términos de esta Ley son beneficiarios de los servicios de asistencia social preferentemente los siguientes:
+Tienen derecho a la asistencia social, las personas y familias que, por sus condiciones físicas, mentales, jurídicas, económicas o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar, entre los que se comprenden prioritariamente:
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-I.- La Familia, considerándola como la base fundamental de la sociedad;
+I.- Las niñas, niños y adolescentes, en especial aquellos que se encuentren en situación de riesgo o afectados por:
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2022)</small>
+a) Desnutrición;
 
-II.- Las niñas, niños y adolescentes en estado de abandono, desamparo, desnutrición, sujetos a maltrato o abuso, víctimas de cualquier tipo de explotación, tráfico de personas, pornografía y comercio sexual, que sean huérfanos o hijos de padres que padezcan enfermedades terminales o en condiciones de extrema pobreza;
+b) Deficiencias en su desarrollo físico o mental, o cuando éste sea afectado por condiciones familiares adversas;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+c) Maltrato, abuso, violencia o discriminación en cualquiera de sus manifestaciones;
 
-III.- Adolescentes a quienes se atribuya la comisión de un hecho punible, en lo referente a su atención integral y reintegración a la familia y a la sociedad, sin menoscabo de lo que establezcan las disposiciones del sistema de justicia para adolescentes o los reglamentos aplicables;
+d) Abandono, ausencia o irresponsabilidad de progenitores en el cumplimiento y garantía de sus derechos;
 
-IV.- Menores sujetos a patria potestad o tutela; cuando se esté llevando a cabo un juicio de naturaleza familiar;
+e) Víctimas de cualquier tipo de explotación;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+f) Situación de calle;
 
-V.- Alcohólicos, farmacodependientes, enfermos terminales y enfermos mentales, así como sus dependientes menores de edad;
+g) Víctimas del tráfico de personas, pornografía o comercio sexual;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+h) Trabajo en condiciones que afecten su desarrollo e integridad física y mental;
 
-VI.- Mujeres en períodos de gestación o lactancia y las madres adolescentes;
+i) Infractores y víctimas del delito;
 
-VII.- Personas con discapacidad por causa de ceguera, debilidad visual, sordera, mudez, alteraciones de sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
+j) Padre o Madre que padezcan enfermedades terminales o en condiciones de extrema pobreza;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+k) Migrantes y repatriados;
 
-VIII.- Personas Adultas Mayores, con incapacidad, marginados, sujetos a maltrato o que tengan bajo su custodia a menores de 18 años;
+l) Víctimas de conflictos armados y de persecución étnica o religiosa;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2022)</small>
+m) Huérfanos;
 
-IX.- Personas en situación de calle;
+n) Menores sujetos a patria potestad o tutela; cuando se esté llevando a cabo un juicio de naturaleza familiar.
 
-X.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
+Para los efectos de esta Ley son niñas, niños y adolescentes las personas comprendidas en el artículo 5 de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
 
-XI.- Víctimas de la comisión de delitos, en estado de abandono o carentes de recursos económicos básicos;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XII.- Víctimas de violencia intrafamiliar e institucional;
+II.- Las mujeres:
 
-XIII.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
+a) En estado de gestación o lactancia, las madres adolescentes y madres solas que tengan a su cuidado hijos menores de dieciocho años de edad;
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2009)</small>
+b) En situación de maltrato, violencia, discriminación o abandono; o
 
-XIV.- Habitantes del medio rural o urbano marginados, que carezcan de lo indispensable para su subsistencia;
+c) En situación de explotación, incluyendo la sexual.
 
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XV.- Personas afectadas por desastre o siniestro;
+III.- Los migrantes o repatriados:
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+a) Que se encuentren en estado de abandono o extrema pobreza; o
 
-XVI.- Las madres o padres solteros, que tengan conferida la custodia, que sean jefes de familia, que carezcan de empleo, ingresos fijos o bienes suficientes para garantizar su supervivencia, y que sus hijos sean menores de 18 años; y
+b) El cónyuge o los familiares en primer grado que dependan económicamente del migrante y que se encuentran en estado de abandono o extrema pobreza.
 
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XVII.- El cónyuge o los familiares en primer grado que dependan económicamente del migrante y que se encuentran en estado de abandono y extrema pobreza.
+IV.- Personas adultas mayores:
+
+a) En situación de desamparo, marginación, sujetos de maltrato, violencia o discriminación en cualquiera de sus manifestaciones;
+
+b) Con discapacidad, o
+
+c) Que ejerzan la patria potestad;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+V.- Personas:
+
+a) En situación de calle;
+
+b) Con algún tipo de discapacidad o necesidades especiales;
+
+c) Víctimas de la comisión de delitos, en estado de abandono o carentes de recursos económicos para cubrir sus necesidades básicas;
+
+d) Víctimas de violencia o discriminación que requieran atención institucional;
+
+e) Afectadas por desastres naturales o siniestros;
+
+f) Dependientes de personas privadas de su libertad, desaparecidas, de enfermos terminales o mentales, alcohólicos o con adicciones a sustancias psicoactivas;
+
+g) Las madres o padres solteros, que tengan conferida la custodia, que sean jefes de familia, que carezcan de empleo, ingresos fijos o bienes suficientes para garantizar su supervivencia, y que sus hijos sean menores de 18 años; o
+
+h) Habitantes del medio rural o urbano marginados, que carezcan de lo indispensable para su subsistencia; y
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+VI.- Las demás personas consideradas en otras disposiciones jurídicas aplicables.
 
 Por violencia intrafamiliar se entiende todo acto u omisión que realiza un miembro de la familia en contra de otro integrante de la misma, independientemente del lugar donde se produzca, que atenta contra su dignidad, libertad, igualdad o integridad física, psicológica o sexual o que contra su patrimonio con independencia del resultado, siempre y cuando entre quien genere y quien reciba la violencia exista o haya existido una relación de parentesco, matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho. Por violencia institucional se entiende la que es ejercida en las instituciones de asistencia pública o privada, asociaciones civiles o cualquier otra organización, por un miembro de ésta en contra de otro integrante de la misma o de quien recibe un servicio.
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
 
-En el caso de la Fracción XVI del presente Artículo, los servicios de asistencia social serán proporcionados siempre y cuando se cumplan con las condiciones señaladas, y sin que su otorgamiento pueda exceder de un año, contado a partir de la recepción de la primera asistencia.
+En el caso de la Fracción V, inciso g) del presente Artículo, los servicios de asistencia social serán proporcionados siempre y cuando se cumplan con las condiciones señaladas, y sin que su otorgamiento pueda exceder de un año, contado a partir de la recepción de la primera asistencia.
 
 ###### ARTICULO 5o.
 
@@ -1866,3 +1900,11 @@ P.O. 27 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 744.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DE INTEGRACIÓN FAMILIAR DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
