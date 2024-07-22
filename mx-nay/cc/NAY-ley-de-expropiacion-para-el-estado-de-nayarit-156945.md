@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-expropiacion-para-el-estado-de-nayarit-156945"
 country: "mx"
 rank: "ley"
 publication_date: "2022-03-29"
-last_updated: "2022-03-29"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EXPROPIACIÓN PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Sección Segunda del Número 058 del Periódico Oficial del Estado de Nayarit, el martes 29 de marzo de 2022.
 
@@ -87,11 +87,15 @@ Es objeto de expropiación, de ocupación temporal y limitación de dominio, cua
 
 La expropiación, ocupación temporal o limitación de dominio, procederá contra el propietario, poseedor o sus causahabientes a título particular o universal, aun cuando el derecho de propiedad esté sujeto a decisión judicial, se desconozca su identidad o no fuere posible su localización.
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 65/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NAYARIT, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2024)</small>
 
 ###### Artículo 7.
 
-Cuando la solicitud de expropiación, ocupación temporal o limitación de dominio recaiga en bienes de ausentes, menores O INCAPACITADOS, el procedimiento se entenderá con los representantes que se designen en términos de las disposiciones del Código Civil para el Estado de Nayarit, así como las disposiciones legales de la materia.
+Cuando la solicitud de expropiación, ocupación temporal o limitación de dominio recaiga en bienes de ausentes o menores, el procedimiento se entenderá con los representantes que se designen en términos de las disposiciones del Código Civil para el Estado de Nayarit, así como las disposiciones legales de la materia.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2024)</small>
+
+Si la solicitud referida recae en bienes de personas con discapacidad, el procedimiento se entenderá directamente con dicha persona, priorizando el reconocimiento de su capacidad jurídica en igualdad de condiciones, dejando a salvo la posibilidad de ser representadas en términos previstos en el Código Civil para el Estado de Nayarit, así como las disposiciones legales de la materia.
 
 ### CAPÍTULO SEGUNDO. DE LAS CAUSAS DE UTILIDAD PÚBLICA
 
@@ -179,11 +183,15 @@ IX. Tratándose de la ejecución de obras, los proyectos y presupuestos respecti
 
 X. El plazo máximo en el que se deberá destinar el bien a la causa de utilidad pública, una vez que se tenga la posesión de éste.
 
-(NOTA: EL 6 DE JUNIO DE 2023, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 65/2022, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE NAYARIT, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2024)</small>
 
 ###### Artículo 12.
 
-Cuando la solicitud de expropiación recaiga en bienes de ausentes, menores O INCAPACITADOS, el procedimiento se entenderá con los representantes que se designen en términos de lo dispuesto en el Código Civil para el Estado de Nayarit.
+Cuando la solicitud de expropiación recaiga en bienes de ausentes o menores, el procedimiento se entenderá con los representantes que se designen en términos de lo dispuesto en el Código Civil para el Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 22 DE JULIO DE 2024)</small>
+
+Si la solicitud referida recae en bienes de personas con discapacidad, el procedimiento se entenderá directamente con dicha persona, priorizando el reconocimiento de su capacidad jurídica en igualdad de condiciones, dejando a salvo la posibilidad de ser representadas en términos previstos en el Código Civil para el Estado de Nayarit, así como las disposiciones legales de la materia.
 
 #### SECCIÓN TERCERA. DEL TRÁMITE
 
@@ -420,3 +428,17 @@ DADO en la Sala de Sesiones "Lic. Benito Juárez García" Recinto Oficial de est
 Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip. Jesús Noelia Ramos Nungaray, Secretaria.- Rúbrica.- Dip. Georgina Guadalupe López Arias, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veinticinco días del mes de marzo de dos mil veintidós.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Lic. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EXPROPIACIÓN PARA EL ESTADO NAYARIT, EN MATERIA DE PARTICIPACIÓN DE LAS PERSONAS CON DISCAPACIDAD EN LOS PROCEDIMIENTOS DE EXPROPIACIÓN, OCUPACIÓN TEMPORAL Y LIMITACIÓN DE DOMINIO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Comuníquese el presente Decreto al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit, al Instituto Estatal Electoral de Nayarit, a la Universidad Autónoma de Nayarit, al Consejo Estatal para la Inclusión de Personas con Discapacidad de Nayarit y a la Comisión de Defensa de los Derechos Humanos para el Estado de Nayarit, como autoridades parte del Convenio de Colaboración en Materia de Proceso de Consulta a Personas con Discapacidad del Estado de Nayarit de fecha trece de julio de dos mil veintitrés, para su conocimiento y efectos correspondientes.
+
+TERCERO. Comuníquese el presente Decreto a las autoridades integrantes del Comité Técnico Interinstitucional y a las personas integrantes del Comité de Seguimiento del Proceso de Consulta a Personas con Discapacidad del Estado de Nayarit, para su conocimiento y efectos correspondientes.
+
+CUARTO. El presente Decreto, deberá publicarse en lenguaje accesible y comprensible, utilizando toda herramienta o sistema que permita cumplir dicho elemento de accesibilidad para las personas con discapacidad; por tanto, comuníquese a la Universidad Autónoma de Nayarit para su colaboración con la traducción en escritura Braille del presente Decreto, para garantizar que el proceso de consulta y sus resultados, cuenten con lenguaje accesible y comprensible.
