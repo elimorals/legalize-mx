@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2024-07-15"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -127,7 +127,9 @@ VI. Animal para espectáculos: Los animales y especies de fauna silvestre manten
 
 VII. Animal deportivo: los animales complementarios o que participen como elemento necesario en la práctica de algún deporte;
 
-VIII. Animal doméstico: Los animales que dependan de un ser humano para subsistir y habiten con éste de forma regular, sin que exista actividad lucrativa de por medio;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+VIII. Animal doméstico y/o Animal de Compañía: Los animales que dependen de un ser humano para subsistir y habiten con éste de forma regular, para su acompañamiento sin riesgo para su vida y la de la comunidad; asimismo que no exista actividad lucrativa de por medio;
 
 IX. Animal feral: Los animales domésticos que por abandono se tornen silvestres y vivan en el entorno natural;
 
@@ -843,15 +845,15 @@ La captura no se llevará a cabo si una persona comprueba ser propietaria del an
 
 Asimismo, se sancionará a aquella persona que agreda al personal encargado de la captura de animales abandonados y que causen algún daño a vehículos o al equipo utilizado para tal fin.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 33.
 
-Un animal capturado por deambular en la vía pública podrá ser reclamado por su dueño en un periodo que no exceda de las setenta y dos horas siguientes, presentando para su recuperación el documento o cualquier otro medio que demuestre su propiedad o posesión o llevar testigos que bajo protesta de decir verdad ante la autoridad, testifiquen la auténtica propiedad o posesión de la mascota de la o el reclamante.
+Un animal doméstico y/o animal de compañía capturado por deambular en la vía pública podrá ser reclamado por su dueño en un plazo que no exceda de cinco días hábiles siguientes, presentando para su recuperación el documento o cualquier otro medio que demuestre su propiedad o posesión o llevar testigos que, bajo protesta de decir verdad ante la autoridad, testifiquen la auténtica propiedad o posesión de la mascota de la o el reclamante.
 
-En caso de que no sea reclamado a tiempo por su dueño(a), la autoridad podrá destinar para su adopción a asociaciones protectoras de animales constituidas legalmente e inscritas en el padrón correspondiente.
+Las asociaciones encargadas del albergue de animales domésticos y/o animales de compañía que hayan suscrito convenios con las autoridades competentes, podrán alojar a los mismos por un periodo de al menos diez días hábiles más, a efecto de destinarlos a la adopción.
 
-En el último de los casos, la autoridad podrá sacrificarlo humanitariamente siguiendo lo que para tal efecto señala la presente Ley, y posteriormente darle un tratamiento sanitario al cadáver o preferentemente cremarlo.
+En caso de que no sea reclamado a tiempo por su dueño (a), será esterilizado y la autoridad podrá destinarlo para su adopción a asociaciones protectoras de animales constituidas legalmente e inscritas en el padrón correspondiente.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -1747,13 +1749,13 @@ P.O. 15 DE JULIO DE 2024.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 36/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO”.]
+P.O. 22 DE JULIO DE 2024.
 
-PRIMERO. El presente Acuerdo entrará en vigor el catorce de junio de dos mil dieciséis.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 747.- SE REFORMA LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO ÚNICO.
 
-D.O.F. 13 DE JUNIO DE 2016.
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 19/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SÉPTIMO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL ESTADO DE JALISCO, CON RESIDENCIA EN ZAPOPAN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS ÓRGANOS JURISDICCIONALES DE LA MATERIA, ENTIDAD Y SEDE MENCIONADAS".]
 
