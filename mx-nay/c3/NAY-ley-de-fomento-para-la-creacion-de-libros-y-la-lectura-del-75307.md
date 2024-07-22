@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-fomento-para-la-creacion-de-libros-y-la-lectura-del-7530
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-29"
-last_updated: "2014-03-29"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE FOMENTO PARA LA CREACIÓN DE LIBROS Y LA LECTURA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 29 de mayo de 2010.
 
@@ -97,9 +97,17 @@ VIII. Contribuir a erradicar los distintos grados de analfabetismo presentes en 
 
 IX. Producir publicaciones interpretadas mediante el sistema braille, audiolibros y cualquier otro lenguaje que facilite el acceso a quienes posean algún tipo de discapacidad;
 
-X. Establecer programas de apoyo e incentivo a quienes tengan el interés y/o vocación por escribir, y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-XI. Entrega de becas, premios y estímulos a escritores destacados.
+X. Establecer programas de apoyo e incentivo a quienes tengan el interés y/o vocación por escribir;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XI. Entrega de becas, premios y estímulos a escritores destacados, y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+XII. Fomentar la escritura creativa como medio de expresión personal entre niñas, niños y adolescentes.
 
 ### Capítulo Segundo. De las Autoridades Responsables
 
@@ -133,7 +141,9 @@ III. En coordinación con las autoridades educativas estatales, de los maestros 
 
 IV. Emprender campañas para fomentar el acceso a la lectura y el libro en el Sistema Educativo Estatal; además de Círculos de Lectores, encuentros, convenciones, exposiciones, ferias y festivales para el impulso de la lectura y el libro;
 
-V. Establecer las políticas públicas necesarias para que las instituciones educativas forjen escritores y lectores autónomos;
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+V. Establecer las políticas públicas necesarias para que las instituciones educativas forjen escritores y lectores autónomos, incentivando la participación de las niñas, los niños y los adolescentes en actividades que les permitan desarrollar sus habilidades de escritura creativa;
 
 VI. Involucrar en el ámbito de su competencia a las autoridades municipales, la iniciativa privada, instituciones de educación e investigación, padres de familia y demás interesados, en la producción de libros escritos por docentes, alumnos y padres de familia para enriquecer el acervo cultural de las propias escuelas;
 
@@ -169,9 +179,17 @@ IV. Garantizar la existencia de materiales escritos que respondan a los distinto
 
 V. Crear paquetes Literarios Nayaritas, en donde se contemplen obras literarias catalogadas y elegidas por el mismo CECAN, a través del método que elija su titular;
 
-VI. En coordinación con la Secretaría de Educación promover la creación de obras literarias en lenguas autóctonas del Estado; y
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-VII. Suscribir convenios de colaboración con las instancias de educación del Estado, Ayuntamientos e instancias federales, para invertir recursos para la creación, conservación y edificación de bibliotecas en las zonas de la entidad.
+VI. En coordinación con la Secretaría de Educación promover la creación de obras literarias en lenguas autóctonas del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
+
+VII. Suscribir convenios de colaboración con las instancias de educación del Estado, Ayuntamientos e instancias federales, para invertir recursos para la creación, conservación y edificación de bibliotecas en las zonas de la entidad, y
+
+> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2024)</small>
+
+VIII. Promover una cultura de la escritura creativa en las niñas, los niños y los adolescentes.
 
 ### Capítulo Tercero. Del Consejo Nayarita de Fomento para la Creación de Libros y la Lectura
 
@@ -552,3 +570,11 @@ P.O. 29 DE MARZO DE 2014.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo.- El Consejo Consultivo al que se hace alusión en la presente reforma, deberá ser instalado a más tardar noventa días después de la entrada en vigor del presente Decreto.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA CREACIÓN DE LIBROS Y LA LECTURA DEL ESTADO DE NAYARIT, EN MATERIA DE ESCRITURA CREATIVA PARA LAS NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del Nayarit.
+
+SEGUNDO. Comuníquese el presente Decreto a la Secretaría de Educación del Estado de Nayarit, así como, al Consejo Estatal para la Cultura y las Artes, para su conocimiento y efectos conducentes.
