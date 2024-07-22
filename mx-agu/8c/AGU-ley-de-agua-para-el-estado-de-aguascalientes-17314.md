@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2024-07-15"
+last_updated: "2024-07-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -1539,9 +1539,11 @@ Podrán operar sistemas de abastecimiento de agua potable, alcantarillado, trata
 
 Al establecerse los servicios públicos en los lugares que carecen de ellos, se hará del conocimiento de los interesados por medio de publicaciones en el Periódico Oficial del Gobierno del Estado, y en uno de los diarios de mayor circulación de la Entidad, pudiendo también utilizarse cualquier otra forma de notificación, a fin de que los interesados tengan conocimiento de la existencia de los servicios públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 74.
 
-A cada predio o establecimiento corresponderá una toma de agua independiente y dos descargas, una de aguas residuales y otra pluvial, cuando estos sistemas deban estar separados, y una descarga, cuando sean combinadas. El prestador de los servicios dictaminará la factibilidad de la instalación, y fijará las especificaciones técnicas a las que se sujetarán.
+A cada predio o establecimiento corresponderá una toma de agua independiente, con diámetro nominal conforme a las normas que resulten aplicables y dos descargas, una de aguas residuales y otra pluvial, cuando estos sistemas deban estar separados, y una descarga, cuando sean combinadas, conforme a los lineamientos que resulten aplicables. El proceso para determinar la factibilidad de la instalación y especificaciones técnicas a las que se sujetarán, deberán definirse por el prestador del servicio.
 
 Cuando la solicitud de los servicios públicos no cumpla con los requisitos necesarios, se prevendrá a los interesados para que los satisfagan dentro del término de quince días hábiles, contados a partir de la fecha en que reciban la comunicación. En caso de que no se cumpla con este requerimiento, el interesado deberá presentar una nueva solicitud.
 
@@ -1557,11 +1559,13 @@ III. Estimar el presupuesto que comprenderá el importe del material necesario y
 
 IV. Las conexiones e instalaciones de tomas solicitadas se autorizarán con base en el resultado de la visita practicada de acuerdo a esta Ley, en un término de cinco días hábiles computables a partir de la recepción del informe. La elaboración del informe no podrá extenderse por más de quince días hábiles a partir de la visita.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 76.
 
-Firmado el contrato correspondiente, y previo pago del importe del costo de la instalación y conexión, y del importe de las cuotas que correspondan, el prestador de los servicios ordenará la instalación de la toma y la conexión de las descargas de aguas residuales y en su caso, pluviales, lo cual deberá llevarse a cabo dentro de los treinta días hábiles siguientes a la fecha de pago.
+Firmado el contrato correspondiente, y previo pago del importe del costo de la instalación y conexión con estricto apego a los lineamientos y montos máximos autorizados por el prestador del servicio y del importe de las cuotas que correspondan, conforme a las tarifas y costos autorizadas, el prestador de los servicios ordenará la instalación de la toma y la conexión de las descargas de aguas residuales y en su caso, pluviales, lo cual deberá llevarse a cabo dentro de los treinta días hábiles siguientes a la fecha de pago.
 
-Cuando se trate de tomas solicitadas por establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije el prestador de los servicios.
+Cuando se trate de tomas solicitadas por establecimientos ubicados en forma temporal, los solicitantes deberán otorgar, como requisito previo para la instalación, la garantía que fije el prestador de los servicios conforme a los criterios que se establezcan en materia de tarifas y costos.
 
 ###### ARTICULO 77.
 
@@ -1599,9 +1603,11 @@ En ningún caso el propietario o poseedor del predio o establecimiento podrá op
 
 Independientemente de los casos en que conforme a la Ley proceda la suspensión o supresión de una toma de agua o de una descarga, el usuario podrá solicitar por escrito la suspensión o supresión respectiva, expresando las causas en que funde su solicitud.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 81.
 
-La solicitud a que se refiere el artículo anterior, será resuelta por el prestador de los servicios en un término de tres días hábiles a partir de su presentación; de ser favorable el acuerdo, éste se cumplimentará dentro de los cinco días hábiles siguientes a la fecha de su notificación, corriendo por cuenta del solicitante todos los gastos inherentes a la suspensión o supresión.
+La solicitud a que se refiere el artículo anterior procederá para el ciclo de cobro inmediato posterior a la fecha de presentación de la solicitud. Los gastos inherentes a la suspensión o supresión deberán ser cubiertos por el usuario y no podrán exceder el monto equivalente a cinco veces el valor diario de la UMA. La suspensión de servicio no eximirá al usuario del pago de cualquier adeudo que presente su cuenta o contrato.
 
 ###### ARTICULO 82.
 
@@ -1637,9 +1643,11 @@ Todo lo relacionado con los predios o establecimientos, la forma en que otras au
 
 Todo usuario, está obligado al pago de los servicios públicos que se presten, con base en las cuotas y tarifas autorizadas en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 87.
 
-Los usuarios deberán pagar el importe de la tarifa o cuota dentro del plazo establecido en el recibo correspondiente y en las oficinas que determine el prestador de los servicios.
+Los usuarios deberán pagar el importe de la tarifa o cuota dentro del plazo establecido en el recibo correspondiente y en las oficinas que determine el prestador de los servicios. El prestador de servicios deberá ofrecer permanentemente sistemas electrónicos de cobro por Internet, favoreciendo la agilidad de los servicios.
 
 ###### ARTICULO 88.
 
@@ -1649,7 +1657,9 @@ El propietario de un predio responderá ante el prestador de los servicios por l
 
 El servicio de agua potable que disfruten los usuarios en los municipios del Estado, será medido de conformidad con lo establecido en el Artículo 77.
 
-En los lugares en donde no haya medidores o mientras éstos no se instalen, los pagos se harán con base en las cuotas fijas previamente determinadas.
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
+En los lugares en donde no haya medidores o mientras éstos no se instalen, los pagos se harán con base en las cuotas fijas previamente acordadas por el prestador del servicio.
 
 ###### ARTICULO 90.
 
@@ -1677,11 +1687,11 @@ ARTICULO 92 A.- Con el fin de evitar el desperdicio de agua, los usuarios deber�
 
 ARTICULO 92 B.- Los usuarios del agua domésticos, deben abstenerse de hacer un uso inadecuado del agua, evitando para tal efecto, lavar o limpiar con mangueras banquetas, automóviles u otros objetos, riego irracional de áreas verdes, fugas negligentes y/o realizar acciones con las que se desperdicie el agua de manera ostensible.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 93.
 
-En épocas de escasez de agua, comprobada o previsible, el prestador de los servicios podrá acordar las condiciones de restricción en las zonas y por el tiempo que sea necesario para enfrentar la situación. Sin embargo, el prestador del servicio deberá dar aviso oportuno a los usuarios, a través de los medios de comunicación disponibles a fin de que se procure el conocimiento general de dichas medidas. Además, dentro de las condiciones fácticas y jurídicas concurrentes, se procurará que el fujo de servicio doméstico durante el lapso de la restricción sea prestado con prioridad a los demás usos autorizados y con la menor afectación posible.
+En épocas de escasez de agua, comprobada o previsible, el prestador de los servicios podrá acordar las condiciones de restricción de servicio, procurando que en ningún caso se excedan veinticuatro horas de restricción, sin contar al menos con ocho horas de disponibilidad de servicios. El prestador del servicio deberá dar aviso oportunamente a los usuarios previo al inicio de la restricción, a través de los medios de comunicación disponibles, a fin de que se procure el conocimiento general de dichas medidas. Además, dentro de las condiciones fácticas y jurídicas que se presenten, se procurará que el flujo de servicio doméstico durante el lapso de restricción sea prestado con prioridad a los demás usos autorizados, y con la menor afectación posible a inmuebles con actividades consideradas como esenciales.
 
 Cuando la escasez de agua sea originada por negligencia o falta de previsión del prestador de los servicios, éste responderá en los términos que prevenga el contrato respectivo.
 
@@ -1787,11 +1797,11 @@ IV. La cuota por conexión a la red de drenaje; y
 
 V. Las demás que se requieran conforme al criterio del Municipio respectivo o del Instituto.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
 
 ###### ARTICULO 98.
 
-Las revisiones a las fórmulas, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán anualmente, dichas revisiones podrán hacerlas a petición de uno o varios prestadores de servicios, quienes deberán anexar una propuesta y un estudio técnico que la justifique, debiéndose enviar a los Cabildos de los Ayuntamientos respectivos para su estudio y aprobación.
+Las revisiones a las fórmulas, en lo que se refiere a los componentes del costo y la relación entre ellos, se harán anualmente, dichas revisiones podrán hacerlas a petición de uno o varios prestadores de servicios, quienes deberán anexar una propuesta y un estudio técnico que la justifique. Los Ayuntamientos serán responsables de su estudio y en su caso aprobación. De aprobarse, deberá notificarse a todos los usuarios dicha resolución en el recibo correspondiente al próximo ciclo de cobro posterior a la aprobación.
 
 ###### ARTICULO 99.
 
@@ -1803,11 +1813,11 @@ El prestador de los servicios podrá determinar una estructura tarifaria que tom
 
 El Municipio respectivo o el Instituto vigilará la correcta aplicación de las fórmulas y aprobará las tarifas medias calculadas conforme al procedimiento establecido en el artículo anterior, así como la congruencia entre las tarifas medias y la estructura tarifaria correspondiente.
 
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
 
-###### ARTÍCULO 101.
+###### ARTICULO 101.
 
-Las fórmulas para la determinación de las tarifas medias de equilibrio y sus modificaciones, así como las cuotas o tarifas que los prestadores de los servicios establezcan con base en ellas en conjunto con la aprobación del Cabildo del Ayuntamiento respectivo, se publicarán en el Periódico Oficial del Estado, y en uno de los diarios de mayor circulación de la Entidad.
+Las fórmulas para la determinación de las tarifas medias de equilibrio y sus modificaciones, así como las cuotas o tarifas que los prestadores de los servicios establezcan con base en ellas en conjunto con la aprobación del Cabildo del Ayuntamiento respectivo, se publicarán en el Periódico Oficial del Estado, y en uno de los diarios de mayor circulación de la Entidad. Adicionalmente deberán comunicarse a todos los usuarios a través de los recibos correspondientes.
 
 ###### ARTICULO 102.
 
@@ -1977,13 +1987,11 @@ Quien realice la lectura de los medidores llenará un formato, verificando que e
 
 Cuando los municipios presten directamente los servicios públicos, corresponde en forma exclusiva a éstos, o a quienes contraten para tal efecto, instalar y operar los aparatos medidores, así como verificar su funcionamiento y su retiro cuando hayan sufrido daños.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 116.
 
-Los usuarios cuidarán que no se deterioren o destruyan los aparatos medidores, por lo que deberán ser protegidos contra robo, manipulaciones indebidas y toda posible causa de deterioro.
-
-Los propietarios o poseedores de predios que cuenten con las instalaciones de aparatos medidores, están obligados a informar a la autoridad municipal competente, en un plazo máximo de tres días hábiles, todo daño o perjuicio causado a los medidores.
-
-En los casos en que sea necesario, los municipios ordenarán la revisión y el retiro del medidor, instalando provisionalmente un medidor sustituto.
+Los propietarios o poseedores de predios que cuenten con instalaciones de aparatos medidores, están obligados a informar a la autoridad municipal competente, en un plazo máximo de diez días hábiles, todo daño o perjuicio, robo o extravío causado a los medidores. En los casos en que sea necesario, los municipios ordenarán la revisión, reposición y el retiro del medidor, instalando provisional o definitivamente un medidor sustituto. Los municipios o concesionarios podrán aplicar un cargo por sustitución al usuario, única y exclusivamente en el caso de que acrediten fehacientemente que el daño al medidor fue resultado de una acción, mal uso, o negligencia por parte del usuario.
 
 ###### ARTICULO 117.
 
@@ -1995,9 +2003,11 @@ El propietario o poseedor del predio pagará los gastos que origine la reparaci�
 
 Si la descarga domiciliaria al albañal se destruye por causas imputables a los usuarios, propietarios o poseedores de los predios, éstos deberán cubrir el monto de la obra necesaria para suplirla, de acuerdo a los costos vigentes en el momento de la sustitución.
 
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 119.
 
-Cuando no se pueda determinar el volumen de agua, como consecuencia de la descompostura del medidor por causas no imputables al usuario o debido a la destrucción total o parcial del medidor, la tarifa de agua que se pagará será la mínima aplicable.
+Cuando no se pueda determinar el volumen de agua, como consecuencia de la descompostura del medidor por causas no imputables al usuario, o bien debido a la destrucción total o parcial del medidor, la tarifa de agua que se pagará será la mínima aplicable conforme a lo que determine el prestador del servicio.
 
 ###### ARTICULO 120.
 
@@ -2013,9 +2023,11 @@ IV. El usuario se oponga u obstaculice la iniciación o desarrollo de las facult
 
 La determinación a que se refiere este artículo procederá independientemente de las sanciones a que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2024)</small>
+
 ###### ARTICULO 121.
 
-Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, se calculará el pago, considerando indistintamente:
+Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, se calculará el pago, considerando el consumo promedio de esa zona para los servicios de similares categorías o características. En ningún caso excederá el monto que para tal fin establezca el prestador del servicio, considerando indistintamente:
 
 I. El volumen que señale el contrato de servicios celebrado o el permiso de descarga respectivo;
 
@@ -2157,17 +2169,21 @@ VIII. No cumplir con lo establecido en el segundo párrafo del Artículo 78;
 
 IX. Abstenerse de reparar fallas estructurales de la red de agua potable, en los términos establecidos en esta Ley;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-X. Permitir, el derramamiento de agua de los tanques elevados o de cualquier otro instrumento de captación o almacenamiento de agua, cualquiera que sea la causa; y
+X. Permitir, el derramamiento de agua de los tanques elevados o de cualquier otro instrumento de captación o almacenamiento de agua, cualquiera que sea la causa;
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE JULIO DE 2024)</small>
 
-XI. Cualquier otra infracción a esta Ley o a su reglamento que no esté expresamente prevista en esta Sección.
+XI. Incumplir la reparación de banquetas, calles o cualquier espacio público conforme a lo estipulado al Artículo 78 de esta Ley; y
 
-> <small>(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 22 DE JULIO DE 2024)</small>
 
-El importe de las multas que se impongan por infracciones cometidas en términos de las fracciones IX y X de este Artículo, serán destinados a los fondos de asistencia social a que se refiere el Artículo 105 de esta Ley.
+XII. Cualquier otra infracción a esta Ley o a su reglamento que no esté expresamente prevista en esta Sección.
+
+> <small>(REFORMADO, P.O. 22 DE JULIO DE 2024)</small>
+
+El importe de las multas que se impongan por infracciones cometidas en términos de las fracciones IX, X y XI de este Artículo, serán destinados a los fondos de asistencia social a que se refiere el Artículo 105 de esta Ley.
 
 (REPUBLICADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2017)
 
@@ -2195,9 +2211,9 @@ IV. De mil a cinco mil veces el valor diario de la unidad de medida y actualizac
 
 V. De hasta quinientas veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en la fracción XI; y
 
-> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE JULIO DE 2024)</small>
 
-VI. De quinientas a mil veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las fracciones IX y X.
+VI. De quinientas a mil veces el valor diario de la unidad de medida y actualización, tratándose de infracciones señaladas en las fracciones IX, X y XI.
 
 Para sancionar las faltas, se calificarán las infracciones tomando en consideración la gravedad de la misma, los daños causados y la reincidencia.
 
@@ -2692,3 +2708,11 @@ P.O. 15 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 742.- SE REFORMA LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, quedando sin efecto todas aquellas disposiciones que se opongan al mismo.
