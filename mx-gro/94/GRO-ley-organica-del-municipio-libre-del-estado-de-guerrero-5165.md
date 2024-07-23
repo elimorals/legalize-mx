@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2024-04-23"
+last_updated: "2024-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "GRO"
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE JULIO DE 2024.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -1763,7 +1765,9 @@ XVI. Brindar en sus oficinas atención a la ciudadanía, conforme al ramo que le
 
 XVII. Las demás que les otorguen las Leyes y Reglamentos.
 
-En el ejercicio de sus facultades, las Regidoras y los Regidores deberán actuar conforme a los principios de legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía e integridad.
+(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE ABRIL DE 2024) (F. DE E., P.O. 23 DE JULIO DE 2024)
+
+En el ejercicio de sus facultades, las Regidurías deberán actuar conforme a los principios de legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, paridad, transparencia, economía e integridad.
 
 ### CAPITULO IX. DE LA SUSPENSION E INSTALACION PROVISIONAL DE AYUNTAMIENTOS
 
