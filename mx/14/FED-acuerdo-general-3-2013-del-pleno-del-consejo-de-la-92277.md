@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2023-12-26"
+last_updated: "2024-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 2024.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -527,7 +527,7 @@ XXVII. VIGESIMO SEPTIMO CIRCUITO:
 
 3. Nueve Juzgados de Distrito en el Estado de Quintana Roo, dos con residencia en Chetumal y siete con sede en Cancún.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 6 /2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MAYO DE 2022)</small>
+> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL 6/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE MAYO DE 2022)</small>
 
 4. Un Juzgado de Distrito en Materia Mercantil, especializado en juicios orales, con residencia en Cancún.
 
@@ -1397,6 +1397,10 @@ VI. Sexies. Noveno Tribunal Laboral Federal de asuntos individuales en el Estado
 
 VI. Septies. Décimo Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Naucalpan;
 
+> <small>(ADICIONADA POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 14/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JULIO DE 2024)</small>
+
+VI. Octies. Décimo Primer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Naucalpan;
+
 > <small>(REFORMADA POR EL ARTÍCULO 12 DEL ACUERDO GENERAL 21/2023, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE SEPTIEMBRE DE 2023)</small>
 
 VII. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Hidalgo, con sede en Pachuca;
@@ -1473,6 +1477,10 @@ XIII. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Ba
 
 XIV. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Tijuana;
 
+> <small>(ADICIONADA POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 15/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JULIO DE 2024)</small>
+
+XIV Bis. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Tijuana;
+
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
 XV. Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California Sur, con sede en La Paz;
@@ -1497,9 +1505,13 @@ XIX. Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Gua
 
 XIX. Bis. Cuarto Tribunal Laboral Federal de asuntos individuales en el Estado de Guanajuato, con sede en Guanajuato;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 13/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JULIO DE 2024)</small>
 
-XX. Tribunal Laboral Federal de asuntos individuales en el Estado de Guerrero, con sede en Acapulco;
+XX. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Guerrero, con sede en Acapulco;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 13/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JULIO DE 2024)</small>
+
+XX Bis. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Guerrero, con sede en Acapulco;
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
@@ -1541,9 +1553,13 @@ XXIX. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Qu
 
 XXX. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Querétaro, con sede en Querétaro;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 12/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JULIO DE 2024)</small>
 
-XXXI. Tribunal Laboral Federal de asuntos individuales en el Estado de Quintana Roo, con sede en Cancún;
+XXXI. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Quintana Roo, con sede en Cancún;
+
+> <small>(ADICIONADA POR EL ARTÍCULO 11 DEL ACUERDO GENERAL 12/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JULIO DE 2024)</small>
+
+XXXI Bis. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Quintana Roo, con sede en Cancún;
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
@@ -1865,9 +1881,9 @@ VII. El Tribunal Laboral Federal de asuntos colectivos con sede en la Ciudad de 
 
 VIII. Primer Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Ensenada, tendrá jurisdicción en los Municipios de Ensenada y San Quintín;
 
-> <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 15/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE JULIO DE 2024)</small>
 
-IX. Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Tijuana, tendrá jurisdicción en los municipios de Tijuana, Tecate, Mexicali y Playas de Rosarito;
+IX. Los Tribunales Laborales Federales de asuntos individuales en el Estado de Baja California, con sede en Tijuana, tendrán jurisdicción en los municipios de Tijuana, Tecate, Mexicali y Playas de Rosarito;
 
 > <small>(ADICIONADA POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES EN RELACIÓN CON LA IMPLEMENTACIÓN DE LA SEGUNDA ETAPA DE LA REFORMA EN MATERIA DE JUSTICIA LABORAL, D.O.F. 28 DE OCTUBRE DE 2021)</small>
 
@@ -3277,7 +3293,7 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 
 D.O.F. 11 DE MARZO DE 2016.
 
-[TRANSITORIOS DEL “ACUERDO GENERAL 13/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA SEMIESPECIALIZACIÓN Y CAMBIO DE DENOMINACIÓN DE LOS TRIBUNALES COLEGIADOS DEL VIGÉSIMO SEGUNDO CIRCUITO CON SEDE EN QUERÉTARO, QUERÉTARO; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS MENCIONADOS ÓRGANOS COLEGIADOS”.]
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 13/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA SEMIESPECIALIZACIÓN Y CAMBIO DE DENOMINACIÓN DE LOS TRIBUNALES COLEGIADOS DEL VIGÉSIMO SEGUNDO CIRCUITO CON SEDE EN QUERÉTARO, QUERÉTARO; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS MENCIONADOS ÓRGANOS COLEGIADOS”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor el catorce de marzo de dos mil dieciséis, con excepción de lo dispuesto en el TERCERO y CUARTO transitorios, los cuales entrarán en vigor al día siguiente de su aprobación.
 
@@ -3831,64 +3847,6 @@ VI. Libro seis: medidas precautorias y cautelares, así como técnicas de invest
 
 VII. a XVII. …
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 42/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE COMIENZO DE FUNCIONES DE LOS JUZGADOS QUINTO Y SEXTO DE DISTRITO EN LA LAGUNA, CON RESIDENCIA EN TORREÓN, COAHUILA DE ZARAGOZA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
-
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil dieciséis, con excepción de lo previsto en los Transitorios TERCERO y CUARTO, que entrarán en vigor el día de su aprobación.
-
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
-
-TERCERO. Se modifica el rol de guardias en días y horas inhábiles de los Juzgados de Distrito en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, para quedar como sigue:
-
-ORDEN DEL TURNO DE LA GUARDIA PARA RECIBIR ASUNTOS URGENTES EN DÍAS Y HORAS INHÁBILES EN LOS JUZGADOS DE DISTRITO EN LA LAGUNA, CON RESIDENCIA EN TORREÓN, COAHUILA DE ZARAGOZA.
-
-PERIODO DE GUARDIA AÑO 2016 ÓRGANO JURISDICCIONAL AL
-
-QUE CORRESPONDE LA
-
-GUARDIA
-
-Del 8 al 14 de agosto. Juzgado Cuarto
-
-Del 15 al 22 de agosto. Juzgado Primero
-
-Del 22 al 29 de agosto. Juzgado Segundo
-
-Del 29 de agosto al 5 de septiembre. Juzgado Tercero
-
-Del 5 al 12 de septiembre. Juzgado Cuarto
-
-Del 12 al 19 de septiembre. Juzgado Quinto
-
-Del 19 al 26 de septiembre. Juzgado Sexto
-
-Del 26 de septiembre al 3 de octubre. Juzgado Primero
-
-Del 3 al 10 de octubre. Juzgado Segundo
-
-Y así, sucesivamente conforme al orden establecido.
-
-El Juzgado de Distrito que se encuentre de guardia deberá informar a la oficina de correspondencia común que le presta servicio sobre los asuntos recibidos durante la misma, a fin de que, al reanudar sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
-
-La guardia del Juzgado Cuarto de Distrito en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, correspondiente al periodo del ocho al catorce de agosto del actual, se extenderá al lunes quince de agosto a las ocho horas con veintinueve minutos.
-
-CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para que los Juzgados de Distrito comiencen funciones con los insumos necesarios, en la fecha señalada en el Transitorio PRIMERO de este Acuerdo.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción VIII, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. ...
-
-I. a VII. ...
-
-VIII. ...
-
-1. a 2. ...
-
-3. Once juzgados de distrito en el Estado de Coahuila de Zaragoza: dos con residencia en Saltillo, uno con sede en Piedras Negras, dos con residencia en Monclova y seis en La Laguna, con sede en Torreón.
-
-IX. a XXXII. ...”.
-
-D.O.F. 7 DE OCTUBRE DE 2016.
-
 #### SECCIÓN SEXTA. LIBRO SEIS DE MEDIDAS PRECAUTORIAS Y CAUTELARES, ASÍ COMO TÉCNICAS DE INVESTIGACIÓN
 
 ###### Artículo 116.
@@ -3946,6 +3904,64 @@ Derogado.
 II. a XXXIII. …".
 
 D.O.F. 12 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 42/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE COMIENZO DE FUNCIONES DE LOS JUZGADOS QUINTO Y SEXTO DE DISTRITO EN LA LAGUNA, CON RESIDENCIA EN TORREÓN, COAHUILA DE ZARAGOZA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil dieciséis, con excepción de lo previsto en los Transitorios TERCERO y CUARTO, que entrarán en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. Se modifica el rol de guardias en días y horas inhábiles de los Juzgados de Distrito en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, para quedar como sigue:
+
+ORDEN DEL TURNO DE LA GUARDIA PARA RECIBIR ASUNTOS URGENTES EN DÍAS Y HORAS INHÁBILES EN LOS JUZGADOS DE DISTRITO EN LA LAGUNA, CON RESIDENCIA EN TORREÓN, COAHUILA DE ZARAGOZA.
+
+PERIODO DE GUARDIA AÑO 2016 ÓRGANO JURISDICCIONAL AL
+
+QUE CORRESPONDE LA
+
+GUARDIA
+
+Del 8 al 14 de agosto. Juzgado Cuarto
+
+Del 15 al 22 de agosto. Juzgado Primero
+
+Del 22 al 29 de agosto. Juzgado Segundo
+
+Del 29 de agosto al 5 de septiembre. Juzgado Tercero
+
+Del 5 al 12 de septiembre. Juzgado Cuarto
+
+Del 12 al 19 de septiembre. Juzgado Quinto
+
+Del 19 al 26 de septiembre. Juzgado Sexto
+
+Del 26 de septiembre al 3 de octubre. Juzgado Primero
+
+Del 3 al 10 de octubre. Juzgado Segundo
+
+Y así, sucesivamente conforme al orden establecido.
+
+El Juzgado de Distrito que se encuentre de guardia deberá informar a la oficina de correspondencia común que le presta servicio sobre los asuntos recibidos durante la misma, a fin de que, al reanudar sus labores, realice la compensación correspondiente y se equilibren las cargas de trabajo.
+
+La guardia del Juzgado Cuarto de Distrito en La Laguna, con residencia en Torreón, Coahuila de Zaragoza, correspondiente al periodo del ocho al catorce de agosto del actual, se extenderá al lunes quince de agosto a las ocho horas con veintinueve minutos.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas competentes que le están adscritas, llevará a cabo las acciones necesarias para que los Juzgados de Distrito comiencen funciones con los insumos necesarios, en la fecha señalada en el Transitorio PRIMERO de este Acuerdo.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción VIII, número 3, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. ...
+
+I. a VII. ...
+
+VIII. ...
+
+1. a 2. ...
+
+3. Once juzgados de distrito en el Estado de Coahuila de Zaragoza: dos con residencia en Saltillo, uno con sede en Piedras Negras, dos con residencia en Monclova y seis en La Laguna, con sede en Torreón.
+
+IX. a XXXII. ...”.
+
+D.O.F. 7 DE OCTUBRE DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 45/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO, DE LOS JUZGADOS DE DISTRITO PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO Y OCTAVO; DE LOS TRIBUNALES COLEGIADOS EN MATERIAS CIVIL Y ADMINISTRATIVA, EN MATERIAS PENAL Y ADMINISTRATIVA, Y EN MATERIAS DE TRABAJO Y ADMINISTRATIVA; Y DE LOS TRIBUNALES UNITARIOS PRIMERO Y SEGUNDO, TODOS EN EL ESTADO DE OAXACA, ASÍ COMO DE LAS OFICINAS DE CORRESPONDENCIA COMÚN QUE LES PRESTAN SERVICIO”.]
 
@@ -4535,6 +4551,52 @@ DÉCIMO CUARTO. Se reforman los artículos 1; 2; 5, fracción II; 6; 7; 12, pár
 
 "Artículo 1. Son competentes para conocer de los asuntos a que se refiere este Acuerdo los Juzgados Primero y Segundo Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones.
 
+###### Artículo 2.
+
+La residencia de los Juzgados a que se refiere este Acuerdo será la Ciudad de México, en las instalaciones que determine el Consejo de la Judicatura Federal.
+
+###### Artículo 5.
+
+…
+
+I. ...
+
+a) a c) …
+
+d) Derogado.
+
+II. Las solicitudes de intervención de comunicaciones privadas que hagan los titulares del Ministerio Público de las entidades federativas, en términos de lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, siempre y cuando no deriven de un procedimiento penal tramitado conforme al Código Nacional de Procedimientos Penales, independientemente de que se trate del sistema acusatorio o mixto.
+
+###### Artículo 6.
+
+Para la solicitud y resolución de los actos previstos en este Acuerdo, así como los plazos a observar y el procedimiento en general, incluida la verificación de su ejecución, se estará a lo dispuesto por el Código Federal de Procedimientos Penales, y demás disposiciones aplicables.
+
+###### Artículo 7.
+
+Los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, así como el personal adscrito a los mismos, tendrán turnos de veinticuatro horas de trabajo por veinticuatro horas de descanso, con inicio de labores a las ocho de la mañana.
+
+Artículo 10 ter. Derogado.
+
+Artículo 10 quater. Derogado.
+
+###### Artículo 12.
+
+El Juez Federal Penal Especializado deberá resolver, antes de que termine su turno, sobre la procedencia de las solicitudes a que se refiere el artículo 5 de este Acuerdo.
+
+…
+
+###### Artículo 13.
+
+Tan luego se firme y autorice la resolución deberá incorporarse al sistema electrónico con la finalidad de que, además del juez que la dictó, solo esté disponible para el personal autorizado por las autoridades solicitantes, quienes podrán obtener copia electrónica inmodificable para realizar la impresión correspondiente.
+
+…
+
+###### Artículo 14.
+
+En caso de que un juez, que conozca de un proceso penal, requiera copia certificada de una resolución que conceda o niegue una medida cautelar que se encuentre relacionada con esa causa penal, el Juez Federal Penal Especializado que la haya emitido formará un testimonio de la resolución que enviará al juez requirente, cuando así procediere.
+
+D.O.F. 29 DE JUNIO DE 2017.
+
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 5/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN EL MUNICIPIO DE ALMOLOYA DE JUÁREZ (ALTIPLANO)”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor el uno de julio de dos mil diecisiete, con excepción de lo dispuesto en los párrafos siguientes:
@@ -4586,52 +4648,6 @@ V. a XIII. …”
 NOVENO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
 
 D.O.F. 14 DE JULIO DE 2017.
-
-###### Artículo 2.
-
-La residencia de los Juzgados a que se refiere este Acuerdo será la Ciudad de México, en las instalaciones que determine el Consejo de la Judicatura Federal.
-
-###### Artículo 5.
-
-…
-
-I. ...
-
-a) a c) …
-
-d) Derogado.
-
-II. Las solicitudes de intervención de comunicaciones privadas que hagan los titulares del Ministerio Público de las entidades federativas, en términos de lo dispuesto por el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, siempre y cuando no deriven de un procedimiento penal tramitado conforme al Código Nacional de Procedimientos Penales, independientemente de que se trate del sistema acusatorio o mixto.
-
-###### Artículo 6.
-
-Para la solicitud y resolución de los actos previstos en este Acuerdo, así como los plazos a observar y el procedimiento en general, incluida la verificación de su ejecución, se estará a lo dispuesto por el Código Federal de Procedimientos Penales, y demás disposiciones aplicables.
-
-###### Artículo 7.
-
-Los Juzgados Federales Penales Especializados en Cateos, Arraigos e Intervención de Comunicaciones, así como el personal adscrito a los mismos, tendrán turnos de veinticuatro horas de trabajo por veinticuatro horas de descanso, con inicio de labores a las ocho de la mañana.
-
-Artículo 10 ter. Derogado.
-
-Artículo 10 quater. Derogado.
-
-###### Artículo 12.
-
-El Juez Federal Penal Especializado deberá resolver, antes de que termine su turno, sobre la procedencia de las solicitudes a que se refiere el artículo 5 de este Acuerdo.
-
-…
-
-###### Artículo 13.
-
-Tan luego se firme y autorice la resolución deberá incorporarse al sistema electrónico con la finalidad de que, además del juez que la dictó, solo esté disponible para el personal autorizado por las autoridades solicitantes, quienes podrán obtener copia electrónica inmodificable para realizar la impresión correspondiente.
-
-…
-
-###### Artículo 14.
-
-En caso de que un juez, que conozca de un proceso penal, requiera copia certificada de una resolución que conceda o niegue una medida cautelar que se encuentre relacionada con esa causa penal, el Juez Federal Penal Especializado que la haya emitido formará un testimonio de la resolución que enviará al juez requirente, cuando así procediere.
-
-D.O.F. 29 DE JUNIO DE 2017.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 6/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL SEXTO TRIBUNAL UNITARIO DEL QUINTO CIRCUITO, CON RESIDENCIA EN HERMOSILLO, SONORA; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN, REGISTRO Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y SEDE INDICADOS”.]
 
@@ -5695,9 +5711,7 @@ II. …
 
 1. a 2. ...
 
-3. Veintiocho Juzgados de Distrito en el Estado de México; siete de
-
-Procesos Penales Federales y seis especializados en materia de Amparo y Juicios Federales, todos con residencia en Toluca; diez Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
+3. Veintiocho Juzgados de Distrito en el Estado de México; siete de Procesos Penales Federales y seis especializados en materia de Amparo y Juicios Federales, todos con residencia en Toluca; diez Juzgados de Distrito Mixtos y uno en materia Mercantil Federal todos con sede en Naucalpan de Juárez; y cuatro con sede en Nezahualcóyotl.
 
 III. a XXXII. …”
 
@@ -6399,7 +6413,7 @@ SEXTO. El Instituto Federal de Defensoría Pública, en su ámbito de competenci
 
 D.O.F. 31 DE MAYO DE 2018.
 
-## [N. DE E. TRANSITORIOS DEL " ACUERDO GENERAL 11/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN TAPACHULA ".]
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 11/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE CHIAPAS, CON RESIDENCIA EN TAPACHULA ".]
 
 PRIMERO. El presente Acuerdo entrará en vigor el uno de junio de dos mil dieciocho, con excepción de lo dispuesto en los párrafos siguientes:
 
@@ -6651,7 +6665,7 @@ Derogado.
 
 SEXTO. …
 
-> <small>[N. DE E. VEASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 15 DE JUNIO DE 2018, PÁGINA 92.]</small>
+> <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL D.O.F. DE 15 DE JUNIO DE 2018, PÁGINA 92.]</small>
 
 DÉCIMO. Derogado
 
@@ -6820,68 +6834,6 @@ SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el 
 TERCERO. Se reforman los artículos 4; 5; 7; 10; 13, párrafo segundo; 14; 16; y 19, segundo párrafo, del Acuerdo General 3/2017, del Pleno del Consejo de la Judicatura Federal, por el que se crea el Centro Nacional de Justicia Especializado en Control de Técnicas de Investigación, Arraigo e Intervención de Comunicaciones, para quedar como sigue:
 
 “Artículo 4. El Centro agrupa a ocho Jueces de control y a un Tribunal Unitario de Circuito, en su caso, habilitado como tribunal de Alzada, así como los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
-
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 21/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEGUNDO TRIBUNAL UNITARIO DEL VIGÉSIMO NOVENO CIRCUITO, AL CAMBIO DE DENOMINACIÓN DEL PRIMER TRIBUNAL UNITARIO DEL VIGÉSIMO NOVENO CIRCUITO, AMBOS CON RESIDENCIA EN PACHUCA, HIDALGO; EL INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO DEL VIGÉSIMO NOVENO CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO; Y A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES UNITARIOS DEL VIGÉSIMO NOVENO CIRCUITO, CON RESIDENCIA EN PACHUCA, HIDALGO".]
-
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil dieciocho, con excepción de los artículos 1 y 4 de este Acuerdo, los cuales entrarán en vigor en la fecha señalada en el mismo; así como el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
-
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
-
-TERCERO. El Tercer Tribunal Colegiado del Vigésimo Noveno Circuito, formará parte del Pleno del Vigésimo Noveno Circuito a partir del dieciséis de agosto de dos mil dieciocho, de conformidad con lo establecido por el Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; de Creación de Nuevos Órganos; así como de Adscripción.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional de nueva creación de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción XXIX, números 1 y 2, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. …
-
-I. a XXVIII. …
-
-XXIX. …
-
-1. Tres tribunales colegiados con residencia en Pachuca.
-
-2. Un tribunal unitario con sede en Pachuca.
-
-3. …
-
-XXX. a XXXII. …"
-
-SEXTO. Se reforman el artículo 17, párrafo segundo; y el Transitorio SEGUNDO del Acuerdo General 6/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, para quedar como sigue:
-
-"Artículo 17. …
-
-I. a III. …
-
-Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios en Materia Penal del Primer Circuito, para conocer con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
-
-…
-
-SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
-
-El Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo precisará en los actos procesales que celebre la denominación con la que actúa, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
-
-El Tribunal Unitario de que se trata queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito."
-
-SÉPTIMO. Se abroga el Acuerdo General 27/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funciones del Segundo Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo; al cambio de denominación del Tribunal Unitario del Vigésimo Noveno Circuito, en la misma sede; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Tribunales Unitarios del Circuito indicado; y a la creación, denominación y domicilio de la oficina de correspondencia común que les prestará servicio.
-
-OCTAVO. Los asuntos que se encuentren en trámite, subjudice o en archivo en el Segundo Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo, que concluye funciones se enviarán al Primer Tribunal Unitario del Vigésimo Noveno Circuito a fin de que se emita, en su caso, la resolución correspondiente hasta su archivo definitivo y que las promociones posteriores que se relacionen con esos asuntos, se presenten directamente para su atención en el órgano jurisdiccional al que se remitieron los asuntos, con excepción de los juicios de amparo indirecto en los que la autoridad señalada como responsable sea el Magistrado del Primer Tribunal Unitario del Vigésimo Noveno Circuito, en cuyo caso, deberán remitirse al Tribunal Unitario más próximo a su residencia por conducto de la Oficina de Correspondencia Común que les presta servicio.
-
-El secretario de acuerdos del Segundo Tribunal Unitario del Vigésimo Noveno Circuito, con el visto bueno de su titular, de conformidad con lo previsto en el párrafo anterior, deberá elaborar el listado de los expedientes para remisión, numerados de forma consecutiva, señalando en su caso los anexos y demás documentos respectivos.
-
-La remisión de los asuntos, prevista en este Transitorio, deberá formalizarse dentro de los dos días hábiles anteriores a la conclusión de funciones del Segundo Tribunal Unitario del Vigésimo Noveno Circuito.
-
-El Primer Tribunal Unitario del Vigésimo Noveno Circuito deberá registrar los asuntos en trámite que le hayan sido remitidos con el nuevo número que les corresponda, y el número que tenían asignado en el Segundo Tribunal Unitario del referido Circuito.
-
-Asimismo, dichos órganos jurisdiccionales elaborarán un acta circunstanciada en la que conste la entrega-recepción de los expedientes y sus anexos; y deberán asentar la entrega efectuada en los libros de control. De dicha acta enviarán una copia a la Oficina de Correspondencia Común que les presta auxilio, para su conocimiento; e informar a la Dirección General de Estadística Judicial, los movimientos originados en razón del envío o recepción de expedientes.
-
-NOVENO. La Dirección General de Recursos Humanos atenderá la situación laboral, derivada de la conclusión de funciones de la Oficina de Correspondencia Común de los Tribunales Unitarios del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo.
-
-La Dirección General de Estadística Judicial atenderá lo relativo al archivo de la Oficina de Correspondencia Común que concluye funciones.
-
-D.O.F. 17 DE SEPTIEMBRE DE 2018.
 
 ###### Artículo 5.
 
@@ -7202,6 +7154,68 @@ CUADRAGÉSIMO PRIMERO. La Secretaría Ejecutiva de Administración, por conducto
 CUADRAGÉSIMO SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
 D.O.F. 14 DE AGOSTO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 21/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEGUNDO TRIBUNAL UNITARIO DEL VIGÉSIMO NOVENO CIRCUITO, AL CAMBIO DE DENOMINACIÓN DEL PRIMER TRIBUNAL UNITARIO DEL VIGÉSIMO NOVENO CIRCUITO, AMBOS CON RESIDENCIA EN PACHUCA, HIDALGO; EL INICIO DE FUNCIONES DEL TERCER TRIBUNAL COLEGIADO DEL VIGÉSIMO NOVENO CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DEL CIRCUITO INDICADO; Y A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES UNITARIOS DEL VIGÉSIMO NOVENO CIRCUITO, CON RESIDENCIA EN PACHUCA, HIDALGO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de agosto de dos mil dieciocho, con excepción de los artículos 1 y 4 de este Acuerdo, los cuales entrarán en vigor en la fecha señalada en el mismo; así como el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+
+TERCERO. El Tercer Tribunal Colegiado del Vigésimo Noveno Circuito, formará parte del Pleno del Vigésimo Noveno Circuito a partir del dieciséis de agosto de dos mil dieciocho, de conformidad con lo establecido por el Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; de Creación de Nuevos Órganos; así como de Adscripción.
+
+CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional de nueva creación de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+
+QUINTO. Se reforma el numeral SEGUNDO, fracción XXIX, números 1 y 2, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. …
+
+I. a XXVIII. …
+
+XXIX. …
+
+1. Tres tribunales colegiados con residencia en Pachuca.
+
+2. Un tribunal unitario con sede en Pachuca.
+
+3. …
+
+XXX. a XXXII. …"
+
+SEXTO. Se reforman el artículo 17, párrafo segundo; y el Transitorio SEGUNDO del Acuerdo General 6/2016 del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Hidalgo, con residencia en Pachuca, para quedar como sigue:
+
+"Artículo 17. …
+
+I. a III. …
+
+Tratándose de la sustitución del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios en Materia Penal del Primer Circuito, para conocer con ese carácter y en el orden numérico de su denominación, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
+
+…
+
+SEGUNDO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
+
+El Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo precisará en los actos procesales que celebre la denominación con la que actúa, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
+
+El Tribunal Unitario de que se trata queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito."
+
+SÉPTIMO. Se abroga el Acuerdo General 27/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la denominación, residencia, competencia, jurisdicción territorial, domicilio y fecha de inicio de funciones del Segundo Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo; al cambio de denominación del Tribunal Unitario del Vigésimo Noveno Circuito, en la misma sede; así como a las reglas de turno, sistema de recepción y distribución de asuntos entre los Tribunales Unitarios del Circuito indicado; y a la creación, denominación y domicilio de la oficina de correspondencia común que les prestará servicio.
+
+OCTAVO. Los asuntos que se encuentren en trámite, subjudice o en archivo en el Segundo Tribunal Unitario del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo, que concluye funciones se enviarán al Primer Tribunal Unitario del Vigésimo Noveno Circuito a fin de que se emita, en su caso, la resolución correspondiente hasta su archivo definitivo y que las promociones posteriores que se relacionen con esos asuntos, se presenten directamente para su atención en el órgano jurisdiccional al que se remitieron los asuntos, con excepción de los juicios de amparo indirecto en los que la autoridad señalada como responsable sea el Magistrado del Primer Tribunal Unitario del Vigésimo Noveno Circuito, en cuyo caso, deberán remitirse al Tribunal Unitario más próximo a su residencia por conducto de la Oficina de Correspondencia Común que les presta servicio.
+
+El secretario de acuerdos del Segundo Tribunal Unitario del Vigésimo Noveno Circuito, con el visto bueno de su titular, de conformidad con lo previsto en el párrafo anterior, deberá elaborar el listado de los expedientes para remisión, numerados de forma consecutiva, señalando en su caso los anexos y demás documentos respectivos.
+
+La remisión de los asuntos, prevista en este Transitorio, deberá formalizarse dentro de los dos días hábiles anteriores a la conclusión de funciones del Segundo Tribunal Unitario del Vigésimo Noveno Circuito.
+
+El Primer Tribunal Unitario del Vigésimo Noveno Circuito deberá registrar los asuntos en trámite que le hayan sido remitidos con el nuevo número que les corresponda, y el número que tenían asignado en el Segundo Tribunal Unitario del referido Circuito.
+
+Asimismo, dichos órganos jurisdiccionales elaborarán un acta circunstanciada en la que conste la entrega-recepción de los expedientes y sus anexos; y deberán asentar la entrega efectuada en los libros de control. De dicha acta enviarán una copia a la Oficina de Correspondencia Común que les presta auxilio, para su conocimiento; e informar a la Dirección General de Estadística Judicial, los movimientos originados en razón del envío o recepción de expedientes.
+
+NOVENO. La Dirección General de Recursos Humanos atenderá la situación laboral, derivada de la conclusión de funciones de la Oficina de Correspondencia Común de los Tribunales Unitarios del Vigésimo Noveno Circuito, con residencia en Pachuca, Hidalgo.
+
+La Dirección General de Estadística Judicial atenderá lo relativo al archivo de la Oficina de Correspondencia Común que concluye funciones.
+
+D.O.F. 17 DE SEPTIEMBRE DE 2018.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 23/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DE DISTRITO EN MATERIA MERCANTIL FEDERAL EN EL ESTADO DE OAXACA, CON RESIDENCIA EN SAN BARTOLO COYOTEPEC; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
 
@@ -11084,3 +11098,67 @@ TERCERO. Se faculta a la Secretaría Ejecutiva de Creación de Nuevos Órganos, 
 CUARTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en las Oficinas de Correspondencia Común que dan servicio a los órganos jurisdiccionales motivo del presente Acuerdo.
 
 QUINTO. Los Juzgados de Distrito Primero, Segundo, Tercero, Cuarto, Quinto, Octavo, Noveno, Décimo y Decimoprimero, todos en el Estado de Oaxaca, con residencia en San Bartolo Coyotepec, continuarán con el trámite, resolución y cumplimiento hasta su conclusión y archivo definitivo de los asuntos que tengan actualmente, cuyo origen y procedencia provengan de los municipios del Estado de Oaxaca a que se refiere el presente Acuerdo General. Para tal efecto la Dirección General de Gestión Judicial realizará las modificaciones necesarias en la base de datos del SISE.
+
+D.O.F. 23 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 12/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN DEL TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE QUINTANA ROO, CON SEDE EN CANCÚN; ASÍ COMO LA CREACIÓN E INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE QUINTANA ROO, CON SEDE EN CANCÚN; Y DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES BRINDARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los Tribunales Laborales Federales de asuntos individuales a que se refiere el presente Acuerdo General, deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el inicio de sus funciones.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotarán al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Quintana Roo, con sede en Cancún, y a la Oficina de Correspondencia Común que le prestará servicio de la infraestructura y
+
+equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los mencionados Tribunales Laborales Federales de asuntos individuales en el Estado de Quintana Roo, con sede en Cancún.
+
+SEXTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de la Oficina de Correspondencia Común y del Sistema Integral de Gestión de Expedientes, para el turno y trámite de los asuntos que le correspondan al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Quintana Roo, con sede en Cancún.
+
+D.O.F. 23 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 13/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN DEL TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE GUERRERO, CON SEDE EN ACAPULCO; ASÍ COMO LA CREACIÓN E INICIO DE FUNCIONES DEL SEGUNDO TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE GUERRERO, CON SEDE EN ACAPULCO; Y DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES BRINDARÁ SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los Tribunales Laborales Federales de asuntos individuales a que se refiere el presente Acuerdo General, deberán publicar avisos en lugares visibles para conocimiento del público, en relación con el inicio de sus funciones.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotarán al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Guerrero, con sede en Acapulco, y a la Oficina de Correspondencia Común que le prestará servicio de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los mencionados Tribunales Laborales Federales de asuntos individuales en el Estado de Guerrero, con sede en Acapulco.
+
+SEXTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de la Oficina de Correspondencia Común y del Sistema Integral de Gestión de Expedientes, para el turno y trámite de los asuntos que le correspondan al Segundo Tribunal Laboral Federal de asuntos individuales en el Estado de Guerrero, con sede en Acapulco.
+
+D.O.F. 23 DE JULIO DE 2024
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 14/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN E INICIO DE FUNCIONES DEL DÉCIMO PRIMER TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE MÉXICO, CON SEDE EN NAUCALPAN DE JUÁREZ; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Décimo Primer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Naucalpan de Juárez, a que se refiere el presente Acuerdo General, deberá publicar avisos en lugares visibles para conocimiento del público, en relación con el inicio de sus funciones.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotarán al Décimo Primer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Naucalpan de Juárez, de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del Sistema Integral de Gestión de Expedientes, y al sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al Décimo Primer Tribunal Laboral Federal de asuntos individuales en el Estado de México, con sede en Naucalpan de Juárez.
+
+D.O.F. 23 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 15/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CREACIÓN E INICIO DE FUNCIONES DEL TERCER TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES EN EL ESTADO DE BAJA CALIFORNIA, CON SEDE EN TIJUANA; ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y DISTRIBUCIÓN DE ASUNTOS; DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTARÁ SERVICIO EN ESA SEDE; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Tijuana, a que se refiere el presente Acuerdo General, deberá publicar mediante avisos en lugares visibles el inicio de sus funciones.
+
+CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades administrativas con las que cuenta, dotarán al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Tijuana, y a la Oficina de Correspondencia Común que prestará servicio de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los mencionados Tribunales Laborales Federales de asuntos individuales en el Estado de Baja California, con sede en Tijuana.
+
+SEXTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de la Oficina de Correspondencia Común y del Sistema Integral de Gestión de Expedientes, para el turno y trámite de los asuntos que le correspondan al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Tijuana.
