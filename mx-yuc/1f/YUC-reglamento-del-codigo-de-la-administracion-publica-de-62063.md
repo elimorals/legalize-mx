@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2023-09-06"
+last_updated: "2024-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 6 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2024.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -13863,6 +13863,12 @@ c) Dirección de Asuntos Jurídicos.
 
 IV. Dirección de Administración y Finanzas.
 
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2024)</small>
+
+###### Artículo 596 Bis.
+
+La Secretaría de las Mujeres contará con el órgano desconcentrado denominado Centro de Justicia para las Mujeres del Estado de Yucatán con sede en la ciudad de Tizimín.
+
 > <small>(ADICIONADO, D.O. 12 DE FEBRERO DE 2019)</small>
 
 ###### Artículo 597.
@@ -14262,6 +14268,12 @@ XII. Coordinar y supervisar el funcionamiento y desarrollo de las tecnologías d
 XIII. Integrar los programas presupuestarios de la Secretaría de las Mujeres y darle seguimiento a los que correspondan a cada unidad administrativa, y
 
 XIV. Las demás que establezcan las disposiciones legales y normativas aplicables.
+
+(ADICIONADO, D.O. 23 DE JULIO DE 2024
+
+###### Artículo 607 Bis.
+
+El Centro de Justicia para las Mujeres del Estado de Yucatán con sede en la ciudad de Tizimín, tendrá las atribuciones que le confieran su decreto de creación, las previstas en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia y otras disposiciones legales y normativas aplicables.
 
 # LIBRO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL
 
@@ -15590,6 +15602,18 @@ Las disposiciones del reglamento de la Ley del Notariado del Estado de Yucatán 
 D.O. 6 DE SEPTIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 666/2023 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE LA CONTRALORÍA GENERAL”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Adecuaciones presupuestales y administrativas
+
+La Secretaría de Administración y Finanzas deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales y administrativas necesarias para formalizar las modificaciones orgánicas efectuadas como resultado de este decreto.
+
+D.O. 23 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 790/2024 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, SOBRE LA SECRETARÍA DE LAS MUJERES”.]
 
 Primero. Entrada en vigor
 
