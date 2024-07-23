@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-143736"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2024-03-07"
+last_updated: "2024-07-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 29 de julio de 2020.
 
@@ -383,7 +383,9 @@ XXIII. Contribuir al desarrollo sostenible por medio de procesos de información
 
 XXIV. Promover la práctica de actividad física y deporte escolar como medio para combatir el sedentarismo, a través de la educación física.
 
-XXV. Promover programas que estimulen la educación digital, así como la investigación y la innovación científica y tecnológica y las humanidades, favoreciendo la introducción de técnicas modernas y avances científicos.
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XXV. Promover programas que estimulen la investigación e innovación científica y tecnológica, así como las humanidades, la educación digital y el desarrollo de las tecnologías de la información tales como la robótica, informática, redes, sistemas operativos e inteligencia artificial, favoreciendo la introducción de técnicas modernas, automatizadas y de avance científico.
 
 XXVI. Promover que la educación digital fomente en los alumnos el uso crítico, ético, responsable y formativo de las tecnologías de la información y comunicación entre las que se encuentran el internet, las redes sociales, la mensajería instantánea y el uso de correos electrónicos, con la finalidad de prevenir el acoso escolar y conductas antisociales e ilícitas que se cometan por conducto de dichos medios conforme a los lineamientos generales para el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo que al efecto emita la Secretaría de Educación Pública y demás disposiciones aplicables.
 
@@ -403,9 +405,21 @@ XXXI. Brindar talleres y pláticas informativas relativas a la menstruación, la
 
 XXXII. Inculcar en la educación el cuidado y protección de los animales, la cultura de respeto a todos los seres vivos, la cultura de la tenencia responsable y el bienestar animal, y crear conciencia sobre la importancia de la convivencia respetuosa entre los seres humanos y los animales, así como del control de su reproducción.
 
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XXXIII. Fomentar la interculturalidad y el desarrollo de una visión cosmopolita en los educandos, impulsando la enseñanza de diferentes lenguas, incluyendo el idioma inglés, en todos los tipos educativos, como herramienta fundamental para potenciar oportunidades personales y profesionales.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XXXIV. Procurar que las maestras y maestros obtengan conocimientos especializados en las humanidades y diferentes lenguas, incluido el idioma inglés, así como sobre herramientas de educación digital, tecnologías de la información, investigación, innovación científica y tecnológica.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XXXV. Fomentar la superación de la brecha digital bajo una de perspectiva de género, apoyando a las mujeres que deseen ingresar y formarse dentro de las áreas de ciencia, tecnología, ingeniería y matemáticas, en los Institutos y universidades tecnológicas y politécnicas sectorizadas a la Secretaría de Investigación, Innovación y Educación Superior, a través del respaldo y estímulos necesarios para iniciar o continuar sus estudios hasta la obtención del documento que acredite el grado correspondiente.
+
 > <small>(REFORMADA, D.O. 10 DE JULIO DE 2023)</small>
 
-XXXIII. Todos aquellos que contribuyan al bienestar y desarrollo del individuo, del estado y del país.
+XXXVI. Todos aquellos que contribuyan al bienestar y desarrollo del individuo, del estado y del país.
 
 Los fines anteriores se ajustarán a la edad y al nivel de desarrollo de los educandos, así como al tipo, nivel, modalidad y opción educativa que a estos se imparta.
 
@@ -457,7 +471,9 @@ I. El pensamiento lógico matemático y la alfabetización numérica.
 
 II. La comprensión lectora y la expresión oral y escrita, con elementos de la lengua que permitan la construcción de conocimientos correspondientes a distintas disciplinas y favorezcan la interrelación entre ellos.
 
-III. El conocimiento tecnológico, con el empleo de tecnologías de la información, comunicación, conocimiento y aprendizaje digital, manejo de diferentes lenguajes y herramientas de sistemas informáticos, y de comunicación.
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2024)</small>
+
+III. El conocimiento tecnológico que permita el manejo de diferentes lenguajes y herramientas de sistemas informáticos y de comunicación, a través del empleo de tecnologías de la información tales como robótica, informática, electrónica, software, sistemas operativos, redes e inteligencia artificial; así como de comunicación, conocimiento y aprendizaje digital, e innovación; favoreciendo la introducción de técnicas modernas, automatizadas y de avance científico.
 
 IV. El conocimiento científico, a través de la apropiación de principios, modelos y conceptos científicos fundamentales, empleo de procedimientos experimentales y de comunicación.
 
@@ -480,6 +496,10 @@ XII. La educación para la salud como herramienta indispensable para mejorar la 
 > <small>(ADICIONADA, D.O. 15 DE JUNIO DE 2023)</small>
 
 XIII. Los conocimientos y habilidades de la educación financiera para la promoción del emprendimiento y el fomento de la cultura del ahorro.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XIV. Las habilidades, conocimientos y el uso competente de diversas lenguas, incluido el idioma inglés, como herramienta fundamental de enseñanza de las maestras y los maestros, para el desarrollo integral de las alumnas y los alumnos.
 
 ###### Artículo 19.
 
@@ -513,11 +533,13 @@ Instituciones educativas
 
 Las instituciones educativas que establezca la persona titular del Poder Ejecutivo estatal o la persona titular de la Administración Pública municipal por conducto de otras dependencias o entidades de la Administración Pública estatal o municipal, según corresponda, así como la formulación de planes y programas de estudio para dichas instituciones, se harán en coordinación con las autoridades educativas correspondientes. Dichas dependencias o entidades expedirán constancias, certificados, diplomas y títulos que tendrán la validez correspondiente a los estudios realizados.
 
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2024)</small>
+
 ###### Artículo 23.
 
 Sistema estatal de becas
 
-En el estado de Yucatán funcionará un sistema estatal de becas, créditos y estímulos que integrará y coordinará los diferentes esfuerzos destinados a apoyar la permanencia en la escuela y alentar el aprendizaje en los alumnos de todos los tipos, niveles, modalidades y opciones educativas, de acuerdo con la normativa que para tal efecto expida la autoridad competente. Este sistema comprenderá tanto programas compensatorios para los alumnos con carencias económicas, en términos de la ley general, como programas que propicien el desempeño escolar sobresaliente.
+En el estado de Yucatán funcionará un sistema estatal de becas, créditos y estímulos que integrará y coordinará los diferentes esfuerzos destinados a apoyar la permanencia en la escuela y alentar el aprendizaje en los alumnos de todos los tipos, niveles, modalidades y opciones educativas, de acuerdo con la normativa que para tal efecto expida la autoridad competente. Este sistema comprenderá tanto programas compensatorios para las alumnas y los alumnos con carencias económicas, en términos de la ley general, como programas que propicien el desempeño escolar sobresaliente y el interés de las mujeres en cursar algún programa educativo enfocado en áreas de ciencia, tecnología, ingeniería y matemáticas, en los institutos y universidades tecnológicas y politécnicas sectorizados a la Secretaría de Investigación, Innovación y Educación Superior.
 
 ## Título segundo. Sistema Educativo Estatal
 
@@ -821,7 +843,9 @@ XXXII. Notificar sobre la disponibilidad de vacantes de plazas en cargos o puest
 
 XXXIII. Vigilar, por sí misma y a través de las autoridades escolares, que en el funcionamiento de las escuelas se fomenten hábitos y actitudes que propicien la sana convivencia, el respeto al medio ambiente y la alimentación con alto valor nutricional, así como el cumplimiento de los fines de la educación.
 
-XXXIV. Garantizar opciones de formación, actualización, capacitación y la posibilidad de superación profesional de manera constante a las maestras y los maestros, directivos, supervisores, trabajadores sociales y, en general, a todos los actores educativos, en términos de las disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XXXIV. Garantizar opciones de formación, actualización, capacitación y la posibilidad de superación profesional de manera constante a las maestras y los maestros, directivos, supervisores, trabajadores sociales y, en general, a todos los actores educativos, en términos de las fracciones IV y XII de este artículo y las demás disposiciones legales y normativas aplicables
 
 XXXV. Generar las condiciones para que las poblaciones indígenas, afromexicanas, comunidades rurales o en condiciones de marginación, así como las personas con discapacidad, ejerzan el derecho a la educación apegándose a criterios de accesibilidad, asequibilidad, adaptabilidad, aceptabilidad y calidad.
 
@@ -848,6 +872,26 @@ XLII. Garantizar a las y los estudiantes de escuelas primarias y secundarias pú
 > <small>[N. DE E. ESTE PÁRRAFO PERTENECE A LA FRACCIÓN XLII, D.O. 7 DE MARZO DE 2024]</small>
 
 La Secretaría en coordinación con las dependencias que estime pertinentes, establecerá las disposiciones que regulen la organización y el funcionamiento de la entrega de los paquetes escolares, así como su contenido, mediante reglas de operación.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XLIII. Promover la vinculación de las instituciones educativas de nivel medio superior con el sector productivo de la entidad, por medio de la implementación de la modalidad de formación dual.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XLIV. Promover la enseñanza, expansión, divulgación y desarrollo de programas de tecnologías de la información, investigación e innovación científica, humanística y tecnológica, así como de robótica, informática, redes, sistemas operativos e inteligencia artificial, favoreciendo la introducción de técnicas modernas, automatizadas y avances científicos.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XLV. Incentivar la participación de la mujer en la investigación científica y tecnológica que contribuya significativamente a la formación y consolidación de recursos humanos de alta calidad en la entidad.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XLVI. Impulsar programas de incentivos dirigidos a mujeres inscritas en algún programa educativo enfocado en áreas de ciencia, tecnología, ingeniería y matemáticas, en los institutos y universidades tecnológicas y politécnicas sectorizadas a la Secretaría de Investigación, Innovación y Educación Superior.
+
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+
+XLVII. Promover y procurar en todos los tipos y niveles educativos, la enseñanza y aprendizaje de diferentes lenguas, incluyendo el idioma inglés.
 
 ###### Artículo 34.
 
@@ -1007,9 +1051,13 @@ VII. Fomente el amor y respeto a la cultura, historia, ecosistema y patrimonio d
 
 VIII. Fomentar la cultura del bienestar animal, haciendo conciencia de la necesidad del aprovechamiento racional de los recursos naturales y de la protección del ambiente a través de la educación ambiental, basada en los principios de sostenibilidad, interdisciplinariedad, interculturalidad, responsabilidad, respeto por el medio ambiente y participación ciudadana, considerando las problemáticas ambientales actuales y futuras y las características regionales de la entidad.
 
-IX. Preste especial atención a la formación fundamental de valores, tanto morales como cívicos de los educandos, como, por ejemplo, el establecimiento de una cultura vial.
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
 
-X. Integre a la comunidad escolar como un equipo de trabajo responsable que promueva la educación para la salud, considerando el empoderamiento de sus integrantes para la gestión de la salud desde la escuela.
+IX. Impulse conocimientos tecnológicos, por medio del empleo de tecnologías de la información, innovación, robótica, inteligencia artificial, electrónica, software, comunicación, conocimiento y aprendizaje digital, así como el manejo de diferentes lenguajes y herramientas de sistemas informáticos, y de comunicación.
+
+X. Preste especial atención a la formación fundamental de valores, tanto morales como cívicos de los educandos, como, por ejemplo, el establecimiento de una cultura vial.
+
+XI. Integre a la comunidad escolar como un equipo de trabajo responsable que promueva la educación para la salud, considerando el empoderamiento de sus integrantes para la gestión de la salud desde la escuela.
 
 ### Capítulo II. Proceso educativo
 
@@ -1349,7 +1397,19 @@ VII. Educación media superior a distancia.
 
 VIII. Tecnólogo.
 
-Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en esta ley y en la ley general y los que determine la Secretaría de Educación Pública en términos de la ley general.
+> <small>(REFORMADO, D.O. 23 DE JULIO DE 2024)</small>
+
+Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en esta ley y en la ley general, como la educación dual con formación en escuela y empresa, y los que determine la Secretaría de Educación Pública en términos de la ley general.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2024)</small>
+
+###### Artículo 60 Bis.
+
+Modalidad de formación dual
+
+La modalidad de formación es una estrategia educativa, donde se conjugan las competencias desarrolladas en los espacios educativos, con las adquiridas en la práctica profesional, fortaleciendo y creando aptitudes del estudiante dual que le incrementarán las posibilidades de inserción laboral.
+
+Esta modalidad tiene por objetivo lograr una mayor pertinencia y empleabilidad de los egresados de educación media superior, al fortalecer sus competencias profesionales adquiridas en los planteles educativos, con una forma específica acorde a las necesidades de las empresas de los sectores productivos de la región.
 
 ###### Artículo 61.
 
@@ -1989,7 +2049,11 @@ VII. Desarrollar investigación pedagógica y promover innovaciones educativas b
 
 VIII. Impulsar los proyectos pedagógicos y de desarrollo de la docencia generados por las instituciones de formación docente y los sectores académicos, de conformidad con los criterios que emita la Comisión Nacional para la Mejora Continua de la Educación.
 
-IX. Las demás que le otorgue a las autoridades educativas del estado o al estado la Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Mejora Continua de la Educación.
+> <small>(ADICIONADA, D.O. 23 DE JULIO DE 2024)</small>
+
+IX. Actualizar y consolidar la capacitación en diferentes lenguas, incluido el idioma inglés, y en las áreas de ciencia, tecnología y matemáticas.
+
+X. Las demás que le (sic) otorgue a las autoridades educativas del estado o al estado la Ley Reglamentaria del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, en Materia de Mejora Continua de la Educación.
 
 ### Capítulo III. Fortalecimiento de la formación docente
 
@@ -2589,6 +2653,88 @@ Tramitación del recurso de revisión
 
 La tramitación y la resolución del recurso de revisión se llevarán a cabo conforme a la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 23 DE JULIO DE 2024)</small>
+
+### Capítulo IV. Reconocimiento a la gestión institucional y excelencia educativa
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2024)</small>
+
+###### Artículo 158.
+
+Reconocimiento a la gestión institucional y excelencia educativa
+
+La Secretaría de Investigación, Innovación y Educación Superior, conforme a los lineamientos que emita, podrá otorgar, negar o retirar, a las instituciones particulares con reconocimiento de validez oficial de estudios de educación superior, un reconocimiento a la gestión institucional y excelencia educativa.
+
+Este reconocimiento se otorgará a las instituciones de educación superior particulares incorporadas a la Secretaría de Investigación, Innovación y Educación Superior, que reúnan los siguientes requisitos:
+
+I. Cuenten con una acreditación institucional nacional o internacional vigente.
+
+II. Cuenten con maestras y maestros que cumplan los criterios académicos acordes con la asignatura a impartir en el plan o programa de estudios correspondiente.
+
+III. Impartan estudios con enfoque de derechos humanos y de igualdad sustantiva que contribuyan a la inclusión, equidad, excelencia y mejora continua de la educación, que se evidencie en su filosofía institucional, modelo educativo y en sus planes y programas de estudio.
+
+IV. Cuenten con planes y programas de estudios de educación superior con reconocimiento de validez oficial de estudios con una antigüedad mínima de diez años ante la Secretaría de Investigación, Innovación y Educación Superior del Gobierno del Estado de Yucatán.
+
+V. No hayan sido sancionados por las autoridades educativas correspondientes por alguna de las infracciones establecidas en el artículo 150, fracciones I, XIX o XXI, de esta ley, en los cinco años anteriores a la fecha de solicitud del reconocimiento a la gestión institucional y excelencia educativa respectivo (sic).
+
+VI. Cuenten con infraestructura para el cumplimiento del principio de inclusión que contribuya a eliminar las barreras para el aprendizaje.
+
+VII. Acrediten la vinculación de sus planes y programas de estudio con los sectores sociales o productivos.
+
+VIII. Demuestren la contribución en beneficio de la sociedad con los aportes de la institución y sus egresados.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2024)</small>
+
+###### Artículo 159.
+
+Beneficios
+
+Con la obtención del reconocimiento a la gestión institucional y excelencia educativa, los particulares que impartan educación superior podrán obtener los siguientes beneficios:
+
+I. Contar con una carpeta de evidencias documentales única para la presentación de solicitudes de trámites ante la Secretaría de Investigación, Innovación y Educación Superior.
+
+II. Ostentar en la publicidad que realice la institución particular de educación superior, su reconocimiento a la gestión institucional y excelencia educativa otorgada por la Secretaría de Investigación, Innovación y Educación Superior.
+
+III. Obtener procedimientos abreviados con menor tiempo de respuesta para la resolución de sus trámites relacionados con la obtención del reconocimiento de validez oficial de estudios por parte de la Secretaría de Investigación, Innovación y Educación Superior.
+
+Para la obtención del reconocimiento de validez de estudios de programas educativos nuevos o de aquellos programas que ya tengan reconocimiento oficial y que tengan por objeto la reforma o actualización de contenidos, la Secretaría de Investigación, Innovación y Educación Superior de conformidad con los lineamientos que emita al efecto, recibirá a trámite las solicitudes que le sean presentadas, mismas que resolverá en un plazo de diez días hábiles, notificando de inmediato al solicitante; en caso contrario, se tendrán por admitidas las solicitudes.
+
+IV. Impartir asignaturas en domicilios distintos para los que se otorgó el reconocimiento de validez oficial de estudios dentro del Estado de Yucatán, de acuerdo con los lineamientos que establezca la Secretaría de investigación, Innovación y Educación Superior, siempre y cuando acrediten contar con espacios que satisfagan las condiciones higiénicas, de seguridad y pedagógicas necesarias que permitan el adecuado desarrollo del proceso educativo.
+
+V. Obtener movilidad académica entre sus planes de estudio afines con reconocimiento de validez oficial de estudios previo trámite de equivalencia de estudios, establecido en los lineamientos que establezca la Secretaría de investigación, Innovación y Educación Superior.
+
+VI. Replicar planes y programas de estudio de los que haya obtenido el reconocimiento de validez oficial de estudios respectivo en otros planteles que pertenezcan a la misma institución dentro del estado de Yucatán, de acuerdo con los lineamientos que emita la Secretaría de investigación, Innovación y Educación Superior, siempre y cuando acrediten contar con espacios que satisfagan las condiciones higiénicas, de seguridad y pedagógicas necesarias que permitan el adecuado desarrollo del proceso educativo.
+
+VII. Otorgar a sus estudiantes equivalencias y revalidaciones parciales con fines académicos, respecto de sus propios planes y programas de estudio, las cuales serán de aplicación interna en la institución, conforme a las normas y criterios generales que emita la Secretaría de investigación, Innovación y Educación Superior.
+
+VIII. Mantener la vigencia del reconocimiento de validez oficial de estudios respectivo sin el refrendo al que se refiere esta ley.
+
+IX. Los demás beneficios que determine la Secretaría de investigación, Innovación y Educación Superior en las disposiciones aplicables para promover y apoyar una atención oportuna y eficiente a la demanda social en la prestación del servicio educativo del tipo superior.
+
+Corresponderá a la Secretaría de investigación, Innovación y Educación Superior establecer los requisitos diferenciados para la obtención de los beneficios que se deriven del reconocimiento a la gestión institucional y excelencia educativa.
+
+Las instituciones particulares incorporadas a la Secretaría de Investigación, Innovación y Educación Superior que hayan obtenido el reconocimiento por su gestión institucional y excelencia educativa, podrán acceder a los beneficios descritos en este artículo para todos los planes y programas de estudios ofrecidos, exceptuando aquellos que sean de competencia exclusiva de la autoridad educativa federal, en términos de lo establecido en la ley general y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2024)</small>
+
+###### Artículo 160.
+
+Vigencia del reconocimiento
+
+El reconocimiento a la gestión institucional y excelencia educativa tendrá una vigencia de cinco años y podrá ser prorrogable, siempre que prevalezcan las condiciones que originaron su otorgamiento.
+
+El reconocimiento al que se refiere este artículo será intransferible.
+
+> <small>(ADICIONADO, D.O. 23 DE JULIO DE 2024)</small>
+
+###### Artículo 161.
+
+Retiro del reconocimiento
+
+La Secretaría de Investigación, Innovación y Educación Superior, en cualquier momento y conforme a la legislación aplicable, podrá ejercer sus facultades de vigilancia sobre las instituciones particulares de educación superior a las que se les otorgue este reconocimiento, así como podrá imponerles las sanciones que se establecen en esta ley y en la ley general, en caso de actualizarse los supuestos referidos.
+
+El reconocimiento a la gestión institucional y excelencia educativa será retirado cuando la sanción impuesta por alguna de las infracciones establecidas en el artículo 150 fracciones I, XIX y XXI de esta ley haya quedado firme y se imposibilitará por diez años al particular para solicitar el referido reconocimiento.
+
 ## Artículos transitorios
 
 Primero. Entrada en vigor
@@ -2762,3 +2908,47 @@ Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en l
 Ajustes Presupuestales
 
 Artículo Tercero. El Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas y en conjunto con la Secretaría de Educación del Gobierno del Estado, deberán considerar las acciones necesarias en la planeación, programación y disponibilidad presupuestal para el cumplimiento de lo dispuesto en el presente Decreto.
+
+D.O. 23 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 791/2024 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE EDUCACIÓN DUAL".]
+
+Entrada en vigor
+
+Artículo primero. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo segundo. Las autoridades educativas competentes deberán emitir y adecuar los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este decreto, en un plazo no mayor a 180 días contados a partir de su entrada en vigor.
+
+Partidas presupuestarias
+
+Artículo tercero. El Poder Ejecutivo del Estado, de forma gradual, desde la entrada en vigor de este decreto, preverá en su Presupuesto de Egresos del Estado, las partidas presupuestales necesarias para cubrir con la infraestructura que se requiera a los planteles educativos, para dar cumplimiento a lo establecido en el mismo.
+
+Cláusula derogatoria
+
+Artículo cuarto. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+D.O. 23 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 794/2024 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN, EN MATERIA DE FORTALECIMIENTO DE LA EDUCACIÓN".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuación normativa
+
+Artículo segundo. La Secretaría de Investigación, Innovación y Educación Superior deberá emitir y adecuar los acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en este decreto, en un plazo no mayor a noventa días naturales, contado a partir de su entrada en vigor.
+
+Reconocimiento a la gestión institucional y excelencia educativa
+
+Artículo tercero. Los particulares que impartan educación superior con reconocimiento de validez oficial de estudios que decidan solicitar la obtención del reconocimiento al que se refiere el artículo 158 de este decreto, estarán a lo siguiente:
+
+I. La Secretaría de Investigación, Innovación y Educación Superior, en un plazo no mayor de ciento veinte días contados a partir de la emisión de los lineamientos respectivos para la educación impartida por particulares, emitirá una convocatoria para recibir solicitudes de las instituciones de educación superior con reconocimiento de validez oficial de estudios que deseen obtener un reconocimiento a la gestión institucional y excelencia educativa con el cumplimiento de los requisitos que se determinen conforme a las disposiciones legales y normativas aplicables.
+
+II. Recibidas las solicitudes, la Secretaría de Investigación, Innovación y Educación Superior, en un plazo no mayor de noventa días resolverá sobre el otorgamiento del reconocimiento a la gestión institucional y excelencia educativa.
+
+Los particulares podrán solicitar el reconocimiento al que se refiere el artículo 158 de este decreto cuando así lo decidan y conforme a lo establecido en este decreto y demás disposiciones aplicables, con independencia de la convocatoria que se emita en los términos de esta disposición transitoria.
+
+En la primera solicitud del particular para que se le otorgue el reconocimiento a la gestión institucional y excelencia educativa, la Secretaría de Investigación, Innovación y Educación Superior observará que no hayan sido sancionados por las autoridades educativas correspondientes en los últimos cinco años anteriores a la fecha de solicitud del reconocimiento.
