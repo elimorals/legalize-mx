@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2023-05-10"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -383,7 +383,9 @@ VI.- Instalar, administrar y operar los Módulos de Atención en Salud Mental;
 
 VII.- Instalar y administrar el Sistema de Información, Vigilancia y Evaluación en Salud Mental;
 
-VIII.- Instalar, administrar y operar la línea telefónica de Salud Mental y la página electrónica para brindar orientación y canalización, a los servicios de atención mental, en su caso;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+VIII.- Instalar, administrar y operar la línea telefónica de Salud Mental y la página electrónica para brindar orientación y canalización, a los servicios de atención mental, en su caso, con la colaboración de profesionales de la psicología, psiquiatría y trabajo social, actualizados de forma continua por instituciones educativas acordes al perfil profesional, así como por colegios o asociaciones profesionales que manifiesten su interés de participar en estos servicios;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -1138,3 +1140,15 @@ PRIMERA.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal p
 SEGUNDA.- Una vez publicado el presente decreto, el Poder Ejecutivo, por medio de la Secretaría de Salud, incluirá la partida presupuestal en el Presupuesto de Egresos que corresponda, así como en los sucesivos presupuestos de egresos, de conformidad con los términos del presente decreto.
 
 TERCERA.- El presente decreto entrará en vigor una vez que esté asignada la correspondiente partida presupuestal.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL NOVECIENTOS SESENTA Y SIETE POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 12 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS".]
+
+PRIMERA.- Remítase el presente Decreto, al titular del Poder Ejecutivo del Estado de Morelos, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos, como se dispone en los artículos 44 y 70, fracción XVII, ambos en la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Entrado en vigor el presente Decreto, el Titular del Poder Ejecutivo incluirá la partida correspondiente para su cumplimiento en el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal del 1 de enero al 31 de diciembre de dos mil veinticuatro y en los años subsecuentes.
+
+CUARTA.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente Decreto.
