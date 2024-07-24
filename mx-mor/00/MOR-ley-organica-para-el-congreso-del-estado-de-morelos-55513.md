@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2024-02-14"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -1399,31 +1399,49 @@ VI. Revisar la Legislación Estatal para el proceso de armonización legislativa
 
 VII. Convocar a la instalación del Consejo Consultivo de la Comisión de Juventud, con el objetivo de vigilar y mantener actualizada la definición de las necesidades, las características, las demandas y los derechos de las personas adolescentes y jóvenes.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2024)</small>
 
 ###### Artículo 77.
 
 A la Comisión de Participación Ciudadana y Reforma Política, le corresponde:
 
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 I. Conocer y dictaminar las iniciativas en materia de participación ciudadana;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 II. Promover, fortalecer y estimular la participación ciudadana en todos los grupos sociales, las organizaciones de la sociedad civil y los ciudadanos en general;
 
-> <small>(REFORMADA, P.O. 11 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
-III. Ser eje de vinculación y coordinación del Congreso del Estado, con la Comisión de Participación Ciudadana del Instituto Morelense de Procesos Electorales y Participación Ciudadana;
+III. Ser eje de vinculación y coordinación del Congreso con el Consejo Estatal de Participación Ciudadana; así como generar vinculación con el Instituto Nacional de Estadística y Geografía con el objeto de integrar datos generados por el referido instituto para fortalecer el trabajo legislativo que se realiza en el Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 IV. Atender las demandas, propuestas y aportaciones ciudadanas derivadas de organizaciones civiles, organizaciones privadas, instituciones y sectores de la población interesados;
 
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 V. Analizar y proponer los mecanismos institucionales para facilitar la intervención de los ciudadanos en la elaboración de políticas y programas de gobierno;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 VI. Turnar a las dependencias correspondientes del gobierno del estado y los municipios, las demandas de los ciudadanos;
 
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 VII. Ser el órgano permanente de representación del Congreso en los trabajos de la Comisión para la Reforma del Estado;
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 VIII. Difundir los beneficios de la participación ciudadana y sus fundamentos jurídicos;
 
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+
 IX. Los relacionados con el otorgamiento de premios, estímulos y recompensas al mérito ciudadano; y
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
 X. Todos aquellos asuntos que le sean turnados y que no sean competencia de otra comisión.
 
@@ -3514,3 +3532,13 @@ PRIMERA. El presente Decreto entrará en vigor al momento de su aprobación por 
 SEGUNDA. Remítase el presente decreto al titular del Poder Ejecutivo para su publicación respectiva en el órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL NOVECIENTOS SESENTA Y NUEVE POR EL QUE SE REFORMA EL ARTÍCULO 77 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, CON EL PROPÓSITO DE ESTABLECER COMO FACULTAD DE LA COMISIÓN DE PARTICIPACIÓN CIUDADANA Y REFORMA POLÍTICA, LA VINCULACIÓN CON EL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para que se publique en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir de la aprobación por el Pleno del Congreso del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
