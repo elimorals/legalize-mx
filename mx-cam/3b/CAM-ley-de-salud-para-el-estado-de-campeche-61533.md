@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2024-04-09"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -384,6 +384,10 @@ II. La prevención y el control de las enfermedades transmisibles de atención p
 III. La atención médica que comprende actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias;
 
 IV. La atención materno-infantil;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+IV Bis. La atención médica en áreas de salud pediátrica a niñas, niños y adolescentes en situación de calle o integrantes de grupos vulnerables y, de estos, de manera especial, a las personas migrantes o indígenas.
 
 (REFORMADA, P.O. 6 DE MARZO DE 2024) (F. DE E., P.O. 7 DE MARZO DE 2024)
 
@@ -2902,3 +2906,11 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- La Secretaría de Salud estatal adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio fiscal correspondiente.
 
 Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 369 POR EL QUE “SE ADICIONA UNA FRACCIÓN IV BIS AL ARTÍCULO 26 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
