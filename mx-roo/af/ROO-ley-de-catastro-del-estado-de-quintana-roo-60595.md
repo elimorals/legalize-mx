@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-catastro-del-estado-de-quintana-roo-60595"
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-11"
-last_updated: "2021-07-16"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en el Número 19 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 11 de marzo de 2008.
 
@@ -301,7 +301,13 @@ XXII.- Celebrar convenios de coordinación con Dependencias o Entidades Federale
 
 XXIII.- Proporcionar la información catastral que le soliciten, en términos de la presente Ley y de la Ley de Transparencia y Acceso a la Información Pública del Estado;
 
-XXIV.- Las demás que expresamente determine esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JULIO DE 2024)</small>
+
+XXIV.- Auxiliar al Servicio de Administración Tributaria del Estado de Quintana Roo en el proceso de validación de los avalúos practicados por Peritos Valuadores Inmobiliarios para fines fiscales, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JULIO DE 2024)</small>
+
+XXV.- Las demás que expresamente determine esta Ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
 
@@ -1034,3 +1040,23 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 258 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO; DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO; DE LA LEY DE VALUACIÓN PARA EL ESTADO DE QUINTANA ROO; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO; DE LA LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día primero de agosto del año 2024, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de 180 días hábiles posteriores a la entrada en vigor del presente decreto, la persona titular del Poder Ejecutivo del Estado, expedirá las armonizaciones al Reglamento de la Ley de Valuación para el Estado de Quintana Roo y demás disposiciones reglamentarias conforme a lo contenido en el presente Decreto.
+
+En tanto se expide la armonización al Reglamento de la Ley de Valuación para el Estado de Quintana Roo y demás disposiciones reglamentarias respectivas, el Servicio de Administración Tributaria del Estado de Quintana Roo utilizará la NMX- R-081-SCFI-2015 denominada Servicios-Servicios de Valuación-Metodología, para la validación de los avalúos comerciales que le presenten los peritos valuadores en términos de este Decreto.
+
+TERCERO. Las personas que se refiere el artículo 34 Quáter de la Ley de Valuaciones del Estado de Quintana Roo del presente Decreto, tendrán la obligación de inscribirse en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales para obtener la validación de sus avalúos en términos de este decreto a partir de la entrada en vigor del mismo, previa publicación de la convocatoria que al efecto emita el Servicio de Administración Tributaria del Estado de Quintana Roo.
+
+CUARTO. El Servicio de Administración Tributaria del Estado de Quintana Roo, por única ocasión, deberá emitir la convocatoria a que se refiere el transitorio anterior, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. La Secretaría de Finanzas y Planeación, a través del Servicio de Administración Tributaria del Estado de Quintana Roo, llevará a cabo las acciones que resulten necesarias para la implementación de los avalúos inmobiliarios para fines fiscales y del Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales.
+
+SEXTO. Por única ocasión, los peritos valuadores con inscripción vigente en el Registro Estatal de Peritos Valuadores, en la especialidad prevista en el artículo 18, fracción I, de la Ley de Valuaciones para el Estado de Quintana Roo, podrán presentar, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este decreto, en formato libre, su solicitud de inscripción en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales ante el Servicio de Administración Tributaria del Estado de Quintana Roo anexando la constancia de inscripción vigente al Registro Estatal de Peritos Valuadores, emitida por la Secretaría de Gobierno.
+
+SÉPTIMO. Se abroga el Decreto 222 por el que se reforma el artículo primero transitorio del “Decreto número 173, expedido por la Honorable XVII Legislatura del Estado Libre y Soberano de Quintana Roo, por el que se adiciona un párrafo segundo y un párrafo tercero al artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 21 de diciembre de 2023”, publicado en el Periódico Oficial del Estado en fecha 24 de abril de 2024.
