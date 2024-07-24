@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-139928"
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-18"
-last_updated: "2024-04-24"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 18 de diciembre de 2019.
 
@@ -371,7 +371,9 @@ Lo dispuesto en esta fracción no es aplicable a las acciones o partes sociales,
 
 VI. Las adjudicaciones aun cuando se realicen a favor del acreedor. En las permutas se considerará que se efectúan dos enajenaciones.
 
-Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicio, o crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no haya contraprestación, se atenderá al valor de avalúo practicado.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
+
+Se considerará como ingreso el monto de la contraprestación obtenida en efectivo, bienes, servicio, o crédito, con motivo de la enajenación; cuando por la naturaleza de la transmisión no haya contraprestación, se atenderá al valor deavalúo (sic) practicado por las personas inscritas en el Registro de Peritos Valuadores Inmobiliarios para Fines Fiscales.
 
 No se considerarán ingresos por enajenación, los que deriven de la transmisión de propiedad de bienes por causa de muerte, donación o fusión de sociedades ni los que deriven de la enajenación de bonos, de valores y de otros títulos de crédito, siempre que el ingreso por la enajenación se considere interés en los términos del artículo 8 de La Ley del Impuesto Sobre la Renta.
 
@@ -395,45 +397,85 @@ Los contribuyentes que obtengan ingresos por la enajenación de bienes inmuebles
 
 Del Pago
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
+
 ###### Artículo 23.
 
-El impuesto se enterará mediante declaración que se presentará dentro de los 10 días siguientes a la fecha de la enajenación, en las formas aprobadas por la Secretaría a través del SATQ.
+El impuesto se enterará mediante declaración que se presentará dentro de los quince días siguientes a la fecha de la enajenación, en las formas aprobadas por la Secretaría a través del SATQ.
 
 De la Retención
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
+
 ###### Artículo 24.
 
-En el caso de operaciones consignadas en escritura pública, los Notarios Públicos o Fedatarios, bajo su responsabilidad calcularán y retendrán el Impuesto referido y lo enterarán mediante declaración que se presentará dentro de los 10 días siguientes a la fecha en que se firme la escritura, en las formas aprobadas por la Secretaría a través del SATQ. Quedan relevados de la obligación de efectuar el cálculo y entero del impuesto, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales.
+En el caso de operaciones consignadas en escritura pública, los Notarios Públicos o Fedatarios, bajo su responsabilidad calcularán y retendrán el Impuesto referido y lo enterarán mediante declaración que se presentarádentro (sic) de los quince días siguientes a la fecha en que se firme la escritura, en las formas aprobadas por la Secretaría a través del SATQ. Quedan relevados de la obligación de efectuar el cálculo y entero del impuesto, cuando la enajenación de inmuebles se realice por personas físicas dedicadas a actividades empresariales.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+Si para calcular el impuesto señalado, los contribuyentes o los notarios públicos atienden al valor del avalúo del bien objeto de la enajenación, practicado por las personas inscritas en el Registro de Peritos Valuadores Inmobiliarios para Fines Fiscales conforme a lo establecido en el siguiente artículo, deberán presentar la información relativa a los avalúos utilizados, en la declaración que corresponda, en términos de este artículo.
 
-Para efectos de lo dispuesto en el párrafo anterior, los Notarios Públicos o Fedatarios, previo a dicho cálculo deberán presentar el documento que contenga el avalúo base de su operación ante la autoridad fiscal competente, a efecto de que ésta proceda a su validación. Las autoridades registrales estarán obligadas a verificar que el avalúo validado se adjunte como requisito para su inscripción.
+Los notarios públicos deberán verificar que los avalúos que sirvan de base para el cálculo del impuesto a que se refiere esta sección, hubieren sido realizados por Peritos Valuadores Inmobiliarios para Fines Fiscales inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales, ante el SATQ.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2023)</small>
+Además, los notarios públicos deberán constatar que los avalúos a que se refiere el párrafo anterior cuenten con la validación del SATQ.
 
-El cálculo a que se refiere el primer párrafo del presente artículo, se hará con base en los valores referidos en el Avalúo Validado por la autoridad fiscal conforme a las disposiciones legales y normativas en materia de valuación vigente en el Estado; siempre y cuando el importe del mismo, sea igual o mayor al presentado por el Notario.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
 
 ###### Artículo 25.
 
-Los contribuyentes podrán solicitar la práctica de un avalúo por corredor público titulado, institución de crédito o perito valuador. La Secretaría estará facultada para practicar, ordenar o tomar en cuenta, el avalúo del bien objeto de la enajenación.
+Los contribuyentes podrán solicitar la práctica de un avalúo por Peritos Valuadores Inmobiliarios para Fines Fiscales inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales ante el SATQ.
+
+Las personas que realicen los avalúos deberán contar con un registro vigente en el Registro Estatal de Peritos Inmobiliarios para Fines Fiscales ante el SATQ, en términos de lo dispuesto en la Ley de Valuación para el Estado de Quintana Roo y demás disposiciones aplicables.
+
+Los avalúos elaborados por los Peritos Valuadores Inmobiliarios para Fines Fiscales a que se refiere el párrafo anterior, que se presenten ante SATQ deberán estar validados por éste, en términos de lo dispuesto en la Ley de Valuación para el Estado de Quintana Roo, en el Código Fiscal del Estado de Quintana Roo y demás disposiciones aplicables.
+
+Las autoridades fiscales estarán facultadas para practicar, ordenar, revisar o tomaren (sic) cuenta el avalúo del bien inmueble objeto de la enajenación, lo anterior con independencia del ejercicio de sus facultades de comprobación.
 
 De las Exenciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2024)</small>
+
 ###### Artículo 26.
 
-No se pagará el impuesto a que se refiere este Capítulo por los ingresos percibidos por la enajenación de la casa-habitación del contribuyente.
+No se pagará el impuesto a que se refiere esta sección por los ingresos percibidos por la enajenación de la casa habitación del contribuyente, siempre que el monto de la contraprestación obtenida no exceda de setecientas mil unidades de inversión y la transmisión se formalice ante notario público. Por el excedente, el referido notario público determinará la ganancia, calculará y enterará el impuesto en los términos de este Capítulo. Para determinar la ganancia se deberán considerar las deducciones en la proporción que resulte de dividir el excedente entre el monto de la contraprestación obtenida.
 
-Para los efectos de este artículo, los contribuyentes deberán acreditar ante el fedatario público que formalice la operación que el inmueble objeto de la operación es la casa-habitación del contribuyente, con cualquiera de los documentos comprobatorios que se mencionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el del domicilio del bien inmueble enajenado:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2024)</small>
 
-I. Credencial de elector vigente;
+Para los efectos de este artículo, los contribuyentes deberán acreditar ante el notario público que formalice la operación, que el inmueble objeto de ésta es la casa-habitación del contribuyente, con cualquiera de los documentos comprobatorios que se mencionan a continuación, siempre que el domicilio consignado en dicha documentación coincida plenamente o, en su caso, con alguno de los elementos fundamentales del domicilio del bien inmueble enajenado, utilizados en el instrumento correspondiente y que el notario público haga constar esta situación cuando formalice la operación:
 
-II. Comprobante de pago efectuado por la prestación de los servicios de energía eléctrica o de telefonía fija, y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+I. Credencial para votar expedida por el Instituto Nacional Electoral;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+II. Comprobantes fiscales de los pagos efectuados por la prestación de los servicios de energía eléctrica o de telefonía fija, y
 
 III. Estado de cuenta que proporcione alguna institución de las que componen el sistema financiero, por casas comerciales o de tarjetas de crédito no bancarias.
 
 La documentación a que se refieren las fracciones anteriores deberá estar a nombre del contribuyente, de su cónyuge, de sus ascendientes o sus descendientes, en línea recta.
 
 Para efectos de este artículo, se considera que la casa-habitación del contribuyente comprende además la superficie del terreno que no exceda de tres veces el área cubierta por las construcciones que integran la casa-habitación. Si la superficie del terreno excede de tres veces el área de construcción, se pagará el impuesto por el ingreso obtenido por la superficie del terreno excedente.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+La exención prevista en este artículo será aplicable siempre que durante los tres años inmediatos anteriores a la fecha de enajenación de que se trate, el contribuyente no hubiere enajenado otra casa-habitación por la que hubiera obtenido la exención prevista en este artículo y manifieste, bajo protesta de decir verdad, dichas circunstancias ante el notario público ante quien se protocolice la operación.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+En el caso de operaciones consignadas en escritura pública, exentas del pago del impuesto establecido en este Capítulo, los notarios públicos deberán presentar la información relativa a los datos de las operaciones exentas, mediante declaración, a través de los medios que para tal efecto apruebe el SATQ, dentro de los quince días hábiles siguientes a aquel en el que se firme la escritura.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE JULIO DE 2024)</small>
+
+De los Responsables Solidarios
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+###### Artículo 26 Bis.
+
+Son solidariamente responsables del pago de este impuesto:
+
+I. Los notarios públicos que tengan la obligación de calcular y enterar el impuesto conforme a esta sección, y
+
+II. Los funcionarios y empleados públicos estatales que autoricen cualquier trámite relacionado con la enajenación de bienes inmuebles por losque (sic) se debió haber pagado este impuesto, sin haberse cerciorado de su pago.
 
 #### SECCIÓN TERCERA. Del Impuesto a Casas de Empeño
 
@@ -1339,9 +1381,7 @@ P.O. 21 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 173 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 24 DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2024)</small>
-
-PRIMERO. La vigencia de los párrafos segundo y tercero del artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, que se adicionan en el presente Decreto, iniciará a partir del día primero del mes de agosto del año 2024.
+PRIMERO. La vigencia de los párrafos segundo y tercero del artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, que se adicionan en el presente Decreto, entrarán en vigor el día primero del mes de abril del año 2024, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
 
@@ -1350,3 +1390,23 @@ P.O. 24 DE ABRIL DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 222 POR EL QUE SE REFORMA EL ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO NÚMERO 173, EXPEDIDO POR LA HONORABLE XVII LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 24 DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
 
 UNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 258 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO; DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO; DE LA LEY DE VALUACIÓN PARA EL ESTADO DE QUINTANA ROO; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO; DE LA LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día primero de agosto del año 2024, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de 180 días hábiles posteriores a la entrada en vigor del presente decreto, la persona Titular del Poder Ejecutivo del Estado, expedirá las armonizaciones al Reglamento de la Ley de Valuación para el Estado de Quintana Roo y demás disposiciones reglamentarias conforme a lo contenido en el presente Decreto.
+
+En tanto se expide la armonización al Reglamento de la Ley de Valuación para el Estado de Quintana Roo y demás disposiciones reglamentarias respectivas, el Servicio de Administración Tributaria del Estado de Quintana Roo utilizará la NMX- R-081-SCFI-2015 denominada Servicios-Servicios de Valuación-Metodología, para la validación de los avalúos comerciales que le presenten los peritos valuadores en términos de este Decreto.
+
+TERCERO. Las personas que se refiere el artículo 34 Quáter de la Ley de Valuaciones del Estado de Quintana Roo del presente Decreto, tendrán la obligación de inscribirse en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales para obtener la validación de sus avalúos en términos de este decreto a partir de la entrada en vigor del mismo, previa publicación de la convocatoria que al efecto emita el Servicio de Administración Tributaria del Estado de Quintana Roo.
+
+CUARTO. El Servicio de Administración Tributaria del Estado de Quintana Roo, por única ocasión, deberá emitir la convocatoria a que se refiere el transitorio anterior, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. La Secretaría de Finanzas y Planeación, a través del Servicio de Administración Tributaria del Estado de Quintana Roo, llevará a cabo las acciones que resulten necesarias para la implementación de los avalúos inmobiliarios para fines fiscales y del Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales.
+
+SEXTO. Por única ocasión, los peritos valuadores con inscripción vigente en el Registro Estatal de Peritos Valuadores, en la especialidad prevista en el artículo 18, fracción I, de la Ley de Valuaciones para el Estado de Quintana Roo, podrán presentar, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este decreto, en formato libre, su solicitud de inscripción en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales ante el Servicio de Administración Tributaria del Estado de Quintana Roo anexando la constancia de inscripción vigente al Registro Estatal de Peritos Valuadores, emitida por la Secretaría de Gobierno.
+
+SÉPTIMO. Se abroga el Decreto 222 por el que se reforma el artículo primero transitorio del "Decreto número 173, expedido por la Honorable XVII Legislatura del Estado Libre y Soberano de Quintana Roo, por el que se adiciona un párrafo segundo y un párrafo tercero al artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 21 de diciembre de 2023", publicado en el Periódico Oficial del Estado en fecha 24 de abril de 2024.
