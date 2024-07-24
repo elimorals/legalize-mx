@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2024-04-02"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -737,13 +737,29 @@ LII. Establecer los criterios y lineamientos para regular la elaboración de las
 
 LIII. Normar, administrar y mantener actualizado el padrón de proveedores de bienes y servicios del Gobierno del Estado en términos de lo previsto en la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles del Estado de Quintana Roo.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
-LIV. Requerir, obtener, concentrar, analizar, consolidar, generar y disponer con fines de inteligencia, información fiscal, financiera, patrimonial, económica, civil y cualquier otra que se estime necesaria para coadyuvar en la prevención y combate de los delitos fiscales y de operaciones con recursos de procedencia ilícita en el Estado, y
+LIV. Requerir, obtener, concentrar, analizar, consolidar, generar y disponer con fines de inteligencia, información fiscal, financiera, patrimonial, económica, civil y cualquier otra que se estime necesaria para coadyuvar en la prevención y combate de los delitos fiscales y de operaciones con recursos de procedencia ilícita en el Estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
 
-LV. Las demás que le encomienden expresamente las leyes y reglamentos.
+LV. Fungir como autoridad fiscal para la revisión y validación de avalúos comerciales que se requieran para las transmisiones de propiedad o bien, tratándose de inscripciones por primera vez en el catastro y el registro público de la propiedad y del comercio;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+LVI. Revisar y validar, través (sic) del Servicio de Administración Tributaria del Estado de Quintana Roo, los avalúos comerciales realizados por los Peritos Valuadores Inmobiliarios para Fines Fiscales que formen parte del Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales, que utilicen los contribuyentes que tengan repercusiones fiscales;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+LVII. Integrar y mantener actualizado, a través del Servicio de Administración Tributaria del Estado de Quintana Roo, el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales, en términos de la Ley de Valuación para el Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+LVIII. Establecer, a través del Servicio de Administración Tributaria del Estado de Quintana Roo, los formatos y el sistema conforme a los cuales los Peritos Valuadores Inmobiliarios para Fines Fiscales inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales podrán presentar sus avalúos para revisión y validación, en términos de la Ley de Valuación para el Estado de Quintana Roo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JULIO DE 2024)</small>
+
+LIX. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -2486,3 +2502,23 @@ P.O. 2 DE ABRIL DE 2024.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 258 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO; DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO; DE LA LEY DE VALUACIÓN PARA EL ESTADO DE QUINTANA ROO; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO; DE LA LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día primero de agosto del año 2024, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de 180 días hábiles posteriores a la entrada en vigor del presente decreto, la persona Titular del Poder Ejecutivo del Estado, expedirá las armonizaciones al Reglamento de la Ley de Valuación para el Estado de Quintana Roo y demás disposiciones reglamentarias conforme a lo contenido en el presente Decreto.
+
+En tanto se expide la armonización al Reglamento de la Ley de Valuación para el Estado de Quintana Roo y demás disposiciones reglamentarias respectivas, el Servicio de Administración Tributaria del Estado de Quintana Roo utilizará la NMX- R-081-SCFI-2015 denominada Servicios-Servicios de Valuación-Metodología, para la validación de los avalúos comerciales que le presenten los peritos valuadores en términos de este Decreto.
+
+TERCERO. Las personas que se refiere el artículo 34 Quáter de la Ley de Valuaciones del Estado de Quintana Roo del presente Decreto, tendrán la obligación de inscribirse en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales para obtener la validación de sus avalúos en términos de este decreto a partir de la entrada en vigor del mismo, previa publicación de la convocatoria que al efecto emita el Servicio de Administración Tributaria del Estado de Quintana Roo.
+
+CUARTO. El Servicio de Administración Tributaria del Estado de Quintana Roo, por única ocasión, deberá emitir la convocatoria a que se refiere el transitorio anterior, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. La Secretaría de Finanzas y Planeación, a través del Servicio de Administración Tributaria del Estado de Quintana Roo, llevará a cabo las acciones que resulten necesarias para la implementación de los avalúos inmobiliarios para fines fiscales y del Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales.
+
+SEXTO. Por única ocasión, los peritos valuadores con inscripción vigente en el Registro Estatal de Peritos Valuadores, en la especialidad prevista en el artículo 18, fracción I, de la Ley de Valuaciones para el Estado de Quintana Roo, podrán presentar, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este decreto, en formato libre, su solicitud de inscripción en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales ante el Servicio de Administración Tributaria del Estado de Quintana Roo anexando la constancia de inscripción vigente al Registro Estatal de Peritos Valuadores, emitida por la Secretaría de Gobierno.
+
+SÉPTIMO. Se abroga el Decreto 222 por el que se reforma el artículo primero transitorio del “Decreto número 173, expedido por la Honorable XVII Legislatura del Estado Libre y Soberano de Quintana Roo, por el que se adiciona un párrafo segundo y un párrafo tercero al artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 21 de diciembre de 2023”, publicado en el Periódico Oficial del Estado en fecha 24 de abril de 2024.
