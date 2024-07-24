@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2023-07-05"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -246,6 +246,10 @@ XIX.- Acto médico, es toda clase de examen, intervención, tratamiento e invest
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 2023)</small>
 
 XX. DEONTOLOGÍA MÉDICA, PARTE DE LA ÉTICA QUE TRATA DE LOS DEBERES Y PRINCIPIOS DE LA PROFESIÓN MÉDICA, DE CONFORMIDAD CON LA LEX ARTIS AD HOC DE LA MEDICINA Y SUSTENTADA EN LAS DECLARACIONES DE GINEBRA DE 1948 Y DE ESTOCOLMO DE 1994, DE LA ASOCIACIÓN MÉDICA MUNDIAL.
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XXI.- Lex Artis Ad Hoc, criterio valorativo de la corrección del acto médico ejecutado por profesionales de la medicina, que tiene en cuenta las especiales características de la profesión, de la complejidad y trascendencia vital de su actor y, en su caso, de la influencia de otros factores, como el estado o intervención del paciente, de sus familiares, o de la misma organización sanitaria, para calificar dicho acto de conformidad con la técnica normal establecida en la literatura magistral médica, las publicaciones especializadas, los protocolos de atención, las guías de práctica clínica vigentes y, en general, las prácticas aceptadas por la comunidad médica.
 
 ###### Artículo 4.
 
@@ -772,6 +776,14 @@ Los servicios de atención médica se circunscriben al Acto Médico, que se enti
 El personal de salud tiene la obligación de asegurar la totalidad del Acto Médico como garantía de calidad y seguridad de las personas usuarias de los servicios de salud. Su incumplimiento derivará en las responsabilidades administrativas, civiles o penales que correspondan.
 
 En todo caso, el cumplimiento total del Acto Médico relevará de responsabilidad médico-legal al personal de salud que lo realice, independientemente de su resultado final, del seguimiento de las personas usuarias a las indicaciones médicas y de la respuesta fisiológica individual de cada persona.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+###### Artículo 41 Ter.
+
+Todos los procesos del acto médico se sujetan a las disposiciones de la presente Ley, los reglamentos y normas vigentes aplicables y, en lo relativo a la práctica médica, se sujetan a la Lex Artis Ad Hoc de la medicina cuya observancia es obligatoria con las salvedades establecidas en la propia Ley para el desarrollo de innovaciones terapéuticas, las de consentimiento de las partes y del estado de necesidad establecidas como excluyentes de responsabilidad.
+
+En las controversias de la relación médico paciente, las autoridades del orden administrativo, de arbitraje médico, de procuración y administración de justicia deberán observar lo dispuesto por las leyes y reglamentos que correspondan, las normas oficiales vigentes y la Lex Artis Ad Hoc de la medicina para normar criterio y resolver conforme a derecho.
 
 ### CAPÍTULO III. PRESTADORES DE SERVICIOS DE SALUD
 
@@ -4988,3 +5000,11 @@ P.O. 5 DE JULIO DE 2023.
 PRIMERA. Remítase el presente decreto al Titular del Poder Ejecutivo Estatal para los efectos que indican los artículos los artículos 44 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL NOVECIENTOS SESENTA Y OCHO.- POR EL QUE SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 3 BIS Y EL ARTÍCULO 41 TER, AMBOS A LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Aprobado el presente Decreto, remítase al Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
