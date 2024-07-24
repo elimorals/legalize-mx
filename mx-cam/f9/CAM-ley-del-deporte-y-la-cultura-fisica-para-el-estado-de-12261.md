@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-deporte-y-la-cultura-fisica-para-el-estado-de-12261"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2024-03-22"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 24 de junio de 1998.
 
@@ -51,9 +51,9 @@ Las disposiciones de esta Ley son de orden público e interés social y regirán
 
 Esta ley tiene por objeto:
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
-I.- Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones como elementos fundamentales para el desarrollo integral del ser humano;
+I.- Fomentar el óptimo, equitativo y ordenado desarrollo de la cultura física y el deporte en todas sus manifestaciones y expresiones como elementos fundamentales para el desarrollo integral del ser humano, sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil;
 
 II.- Regular la actividad físico-deportiva en el Estado, mediante el establecimiento de las bases de coordinación entre los sectores social y privado;
 
@@ -105,9 +105,21 @@ VIII.- Deporte de alto nivel de rendimiento.- Actividad competitiva en la que se
 
 IX.- Desarrollo integral del individuo.- Conjunto de acciones encaminadas a incrementar todas las facultades del ser humano;
 
-X.- Deporte para discapacitados.- Individuos que con pérdida o anormalidad de su estructura anatómica o psicológica practican un deporte; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
-XI.- Deporte de la Tercera Edad.- Actividad deportiva que practican individuos de edad avanzada.
+X.- Deporte para discapacitados.- Individuos que con pérdida o anormalidad de su estructura anatómica o psicológica practican un deporte;
+
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XI.- Deporte de la Tercera Edad.- Actividad deportiva que practican individuos de edad avanzada;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XII.- Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación; y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XIII.- Deporte Adaptado: Al que realizan las personas con discapacidad en condiciones de equidad, que es reglamentado e institucionalizado.
 
 ###### Artículo 4.
 
@@ -151,7 +163,13 @@ III.- Deporte asociado
 
 IV.- Deporte popular;
 
-V.- Instalaciones deportivas.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+V.- Instalaciones deportivas; y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+VI.- Deporte social.
 
 ###### Artículo 11.
 
@@ -271,9 +289,21 @@ IV.- Informar a la institución competente sobre el uso de los apoyos materiales
 
 V.- Fomentar la participación organizada de la sociedad a través del deporte;
 
-VI.- Participar en el desarrollo de la cultura del deporte, conforme a lo dispuesto en esta Ley; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
-VII.- Las contenidas en el texto de esta Ley y demás disposiciones aplicables.
+VI.- Participar en el desarrollo de la cultura del deporte, conforme a lo dispuesto en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JULIO DE 2024)</small>
+
+VII.- Fomentar el deporte social;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+VIII.- Fomentar al Deporte Adaptado en el Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JULIO DE 2024)</small>
+
+IX.- Las contenidas en el texto de esta Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO IV. DEL CONSEJO ESTATAL DEL DEPORTE
 
@@ -287,7 +317,9 @@ Son facultades del Consejo Estatal del Deporte:
 
 I.- Servir como órgano asesor en materia de deporte y cultura física;
 
-II.- Evaluar permanentemente la práctica del deporte y la cultura física en el Estado, proponiendo las recomendaciones que considere adecuadas para el mejor cumplimiento de los fines de esta Ley; y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+II.- Evaluar permanentemente la práctica del deporte y la cultura física en el Estado, proponiendo las recomendaciones que considere adecuadas para el mejor cumplimiento de los fines de esta Ley con perspectiva del deporte social y el deporte adaptado; y
 
 III.- Las demás que le otorgue esta Ley, su reglamento y demás normas reglamentarias y estatutarias.
 
@@ -357,9 +389,11 @@ I.- Las prioridades señaladas en el Capítulo II, Artículo 10; y
 
 II.- Los criterios que den uniformidad y congruencia a los programas deportivos del Estado con los del sector público federal.
 
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
+
 ###### Artículo 29.
 
-Los centros educativos públicos y privados deben promover libremente las actividades relacionadas con el deporte, siempre que no contravengan el espíritu y la letra de esta Ley y sus disposiciones reglamentarias.
+Los centros educativos públicos y privados deben promover libremente las actividades relacionadas con el deporte, siempre que no contravengan el espíritu y la letra de esta Ley y sus disposiciones reglamentarias. Así como también deberán promover el deporte social.
 
 ###### Artículo 30.
 
@@ -377,15 +411,21 @@ II.- Celebrar convenios a través de sus órganos deportivos con las distintas e
 
 III.- Promover la creación del Centro Estatal de Medicina Deportiva y Ciencias Aplicadas al Deporte;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
-IV.- Impulsar y ejecutar políticas públicas que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad;
+IV.- Impulsar y ejecutar políticas públicas que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad. Así como también impulsar el deporte adaptado;
 
-V.- Crear el Salón de Honor del deportista campechano.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+V.- Crear el Salón de Honor del deportista campechano;
 
-VI.- Promover, formular y ejecutar políticas para garantizar la participación e igualdad de condiciones entre mujeres y hombres en actividades físicas y deportivas.
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+VI.- Promover, formular y ejecutar políticas para garantizar la participación e igualdad de condiciones entre mujeres y hombres en actividades físicas y deportivas; y
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+VII.- Celebrar convenios a través de sus órganos deportivos con las distintas entidades públicas, privadas y sociales, ya sean internacionales, federales, de otras entidades federativas o municipales que de manera directa e indirecta coadyuven con el fomento y promoción del deporte social y adaptado.
 
 ###### Artículo 32.
 
@@ -820,6 +860,14 @@ Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opo
 P.O. 22 DE MARZO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 346 POR EL QUE “SE REFORMAN LAS FRACCIONES I, IV, VI Y VII Y, SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 2 DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE”.]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 367 POR EL QUE "SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 2; LAS FRACCIONES X Y XI DEL ARTÍCULO 3; LA FRACCIÓN V DEL ARTÍCULO 10; LAS FRACCIONES VI Y VII DEL ARTÍCULO 21; LA FRACCIÓN II DEL ARTÍCULO 23; EL ARTÍCULO 29 Y LAS FRACCIONES IV, V Y VI DEL ARTÍCULO 31 Y, SE ADICIONAN LAS FRACCIONES XII Y XIII AL ARTÍCULO 3; LA FRACCIÓN VI AL ARTÍCULO 10; LAS FRACCIONES VIII Y IX AL ARTÍCULO 21 Y LA FRACCIÓN VII AL ARTÍCULO 31, TODOS DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE".]
 
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
