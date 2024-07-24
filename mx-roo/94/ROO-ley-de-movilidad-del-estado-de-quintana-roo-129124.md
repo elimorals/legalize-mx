@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-movilidad-del-estado-de-quintana-roo-129124"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-14"
-last_updated: "2023-12-15"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129124&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 14 de junio de 2018.
 
@@ -607,11 +607,17 @@ XXI. Satisfacer, eficientar y regular el transporte de pasajeros y de carga y, e
 
 XXII. Expedir la declaratoria de sostenibilidad y ordenamiento vial, en coordinación con las dependencias del Ejecutivo, conforme a lo dispuesto en esta Ley y su Reglamento;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
-XXIII. Expedir concesiones, permisos, autorizaciones, y licencias y permisos de conducir en todas sus modalidades en los términos previstos en esta Ley y su Reglamento.
+XXIII. Expedir concesiones, permisos, autorizaciones, y otorgar licencias y permisos de conducir, en todas sus modalidades en los términos previstos en esta Ley y su Reglamento.
 
-XXIV. Modificar, anular, suspender, revocar, determinar la extinción y rescatar, concesiones, permisos y autorizaciones, en los términos previstos en esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XXIV. Modificar, anular, suspender, revocar, extinguir, rescatar y reasignar las concesiones, en los términos previstos en esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XXIV Bis. Modificar, extinguir, suspender y revocar los permisos y autorizaciones de los servicios de transporte, en los términos previstos en esta Ley y su Reglamento;
 
 XXV. Declarar el abandono del trámite o la improcedencia de la solicitud de concesiones, permisos o autorizaciones;
 
@@ -688,6 +694,10 @@ XLIII. Acreditar a las personas físicas o morales que pretendan dedicarse a imp
 > <small>(ADICIONADA, P.O. 15 DICIEMBRE DE 2023)</small>
 
 XLIV. Definir los protocolos para realizar los exámenes de valoración integral, así como su evaluación, tomando en cuenta un apartado específico con los requisitos que garanticen que las personas con discapacidad puedan obtener su licencia o permiso de conducir en igualdad de condiciones;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XLIV Bis. Celebrar acuerdos, contratos, convenios o pactar cualquier instrumento con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, con las dependencias y órganos correspondientes a los Poderes Legislativo, Ejecutivo y Judicial del Estado, así como organismos no gubernamentales, públicos, nacionales o extranjeros, para el cumplimiento de su objeto, y
 
 > <small>(ADICIONADA [REPUBLICADA Y REUBICADA ANTES FRACCIÓN XL], P.O. 15 DICIEMBRE DE 2023)</small>
 
@@ -803,7 +813,13 @@ XVII. Expedir la declaratoria de sostenibilidad y ordenamiento vial conforme a l
 
 XVIII. Expedir concesiones, permisos y autorizaciones en los términos previstos en esta Ley y su Reglamento;
 
-XIX. Modificar, anular, suspender, revocar, determinar la extinción y rescatar, concesiones, permisos y autorizaciones, en los términos previstos en esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XIX. Modificar, anular, suspender, revocar, extinguir, rescatar y reasignar las concesiones, en los términos previstos en esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XIX Bis. Modificar, extinguir, suspender y revocar los permisos y autorizaciones de los servicios de transporte, en los términos previstos en esta Ley y su Reglamento;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2023)</small>
 
@@ -811,7 +827,9 @@ XX. Otorgar las licencias y permisos de conducir;
 
 XXI. Ordenar la realización de actos de supervisión y resolver los expedientes administrativos correspondientes;
 
-XXII. Determinar las infracciones a la presente Ley, su Reglamento y demás disposiciones que de ella deriven, así como imponer las sanciones administrativas que resulten aplicables, y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XXII. Determinar las infracciones a la presente Ley, su Reglamento y demás disposiciones que de ella deriven, así como imponer las sanciones administrativas que resulten aplicables;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 2023)</small>
 
@@ -825,6 +843,10 @@ XXIV. Realizar y emitir los trámites, servicios, comunicaciones, procedimientos
 
 XXV. Expedir las disposiciones generales para el funcionamiento y operación de taxímetros y tarifas que deberán observarse y aplicarse en cuanto a la Prestación del Servicio Público de Transporte en el Estado de Quintana Roo conforme a la presente Ley y su Reglamento, y
 
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XXV Bis. Suscribir, en representación del Instituto, acuerdos, contratos, convenios o pactar cualquier instrumento con las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, con las dependencias y órganos correspondientes a los Poderes Legislativo, Ejecutivo y Judicial del Estado, así como organismos no gubernamentales, públicos, nacionales o extranjeros;
+
 > <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXV], P.O. 28 DE ABRIL DE 2023)</small>
 
 XXVI. Las demás que se establezca en la presente Ley y la normatividad aplicable.
@@ -832,6 +854,12 @@ XXVI. Las demás que se establezca en la presente Ley y la normatividad aplicabl
 ###### Artículo 31.
 
 La persona titular de la Dirección General del Instituto podrá delegar, mediante acuerdo escrito, las facultes que le competen, conforme a lo establecido por el Estatuto Orgánico.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+###### Artículo 31 Bis.
+
+Para la celebración de cualquier clase de acuerdo, convenio, contrato o cualquier otro instrumento que comprometa los recursos del Instituto, se deberá contar con la autorización expresa de la Secretaría de Planeación y Finanzas, de conformidad con lo establecido en la Ley de las Entidades de la Administración Pública Paraestatal del Estado de Quintana Roo.
 
 #### Sección IV. De la Junta de Gobierno
 
@@ -1489,7 +1517,9 @@ I. En Autobuses Urbanos: es aquél que se presta de manera regular, sujeto a hor
 
 II. En Autobuses Foráneos: es aquél que se presta entre puntos situados dentro de los caminos que unen varias poblaciones del Estado, con itinerario regular y permanente.
 
-III. En Automóviles de Alquiler: es aquél que se presta con vehículos cerrados, con la capacidad de pasajeros que en cada caso se fijen, en las condiciones que la presente Ley y los reglamentos exijan, mediante tarifa aprobada por el Instituto, de acuerdo a las siguientes modalidades:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2024)</small>
+
+III. En Automóviles de Alquiler: Es aquél que se presta con vehículos cerrados, con la capacidad de pasajeros que en cada caso se fijen, en las condiciones que la presente Ley y los reglamentos exijan, mediante tarifa aprobada por el Instituto, de acuerdo con las siguientes modalidades:
 
 a) Sitio específico: Es aquél que obliga a mantener la unidad en el lugar específico en que señale la concesión. Con capacidad de 4 a 8 pasajeros, más el conductor;
 
@@ -1505,13 +1535,21 @@ d) Taxi colectivo: es aquél que se presta en ruta establecida y tarifa personal
 
 La capacidad de este tipo de vehículos, se determinará de acuerdo al contenido de la factura original de la propia unidad que exhiba el solicitante. No se pueden realizar modificaciones en relación con el incremento de su capacidad de pasajeros.
 
-> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2024)</small>
 
-e) Motocarros y/o mototaxi: es aquel que se presta en vehículos cuyo permisionario se encuentra obligado a mantener la unidad en un lugar específico, distritos, polígonos, cuadrantes y/o circuitos permitidos por el Instituto. Con capacidad de 1 a 3 pasajeros, incluyendo al conductor.
+e) Motocarros y/o mototaxi: Es aquel que se presta en vehículos con capacidad de 1 a 3 pasajeros, incluyendo al conductor, cuya circulación se limitará a los lugares específicos, distritos, polígonos, cuadrantes y/o circuitos que establezca el permiso otorgado por el Instituto, exceptuando avenidas primarias y las catalogadas como hoteleras o turísticas.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2023)</small>
 
 Los motocarros y/o mototaxis obligatoriamente requieren para poder brindar el servicio Público de Transporte, de pasajeros el permiso por parte del Instituto, este servicio se presta de forma regular, se encuentra sujeto a horarios y solo deberán circular en las vías terciarias o locales que el Instituto determine, mismas que vendrán desglosadas en dicho permiso, de acuerdo con los instrumentos de planeación urbana vigentes de cada Municipio.
 
-Queda estrictamente prohibida la circulación de cualquier vehículo considerado como motocarro y/o mototaxi, en avenidas primarias, en las catalogadas como hoteleras o turísticas; en zonas insulares e ínsulas en ninguna vía de comunicación.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
+
+Los permisos de esta modalidad de transporte se otorgarán exclusivamente a personas físicas y se limitarán a un vehículo por permisionario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 24 DE JULIO DE 2024)</small>
+
+Para la prestación del servicio público de transporte de pasajeros en esta modalidad en zonas insulares, el Instituto deberá proponer a la autoridad municipal competente el número de vehículos con los que se prestará el servicio, por lo que esta informará por escrito de manera vinculante la cantidad de vehículos que se requieran para la prestación del servicio público de transporte de pasajeros en el municipio que se trate.
 
 ###### Artículo 88.
 
@@ -1540,6 +1578,18 @@ El servicio de depósito de vehículos consiste en la guarda y custodia en local
 III. De Transporte Express: es el que se realiza en vehículos cerrados, respecto a bultos y paquetes de mercancía en general, con mayor celeridad que el Servicio de Carga.
 
 IV. De Carga para la Construcción: es el transporte de productos y materiales tales como gravas, arenas, piedras, bloques, tabiques y cemento, desde los centros de producción o distribución, hasta los depósitos o lugares donde se esté llevando a cabo alguna obra.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+Los vehículos para prestar el servicio público de carga, en cualquiera de sus modalidades, están obligados a usar lonas para cubrir o cables para sujetar o asegurar la carga que transportan, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+De igual forma, todos los vehículos de carga deberán contar con luces delanteras y traseras funcionando correctamente, así como con salpicaderas, loderas o guardafangos, con el fin de no poner en peligro a las demás personas usuarias de la vía pública.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+Las personas concesionarias u operadoras están obligadas a cerciorarse de que la caja o tolva se encuentra en buen estado y no permita derrames o caída de los materiales que transporta en la vía pública; de hacerlo, estarán obligadas a realizar la limpieza de la vía de manera inmediata y a responder por cualquier daño y/o accidente que se haya generado por causa de su falta de cuidado.
 
 Las maniobras de carga y descarga deberán efectuarse en horario autorizado por el Instituto, con la mayor celeridad y con los medios apropiados que impidan que los artículos se esparzan o derramen en la vía pública. Asimismo no debe impedirse ni entorpecerse la circulación de peatones y vehículos, debiendo reducirse al mínimo las externalidades negativas que dichas operaciones puedan causar.
 
@@ -1847,11 +1897,17 @@ V. Que la prestación de este Servicio de Transporte no genere una competencia r
 
 VI. Los establecidos por el Instituto y en el Reglamento.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
 
 ###### Artículo 107 Bis.
 
-Ante la emisión de nuevas concesiones o las disponibles en el Instituto, los operadores registrados, en el Registro Estatal de Operadores de Taxi conforme a las reglas que al efecto emita el propio Instituto, tendrán derecho de preferencia para ser titulares de una concesión, respetando en todo momento la antigüedad de los operadores en el municipio de que se trate.
+Ante la emisión de nuevas concesiones o las disponibles en el Instituto, los operadores inscritos en el Registro Estatal de Operadores de Taxi, conforme a las reglas que al efecto emita el Instituto, tendrán derecho de preferencia para ser titulares de las concesiones del servicio público de transporte de pasajeros en su clasificación de automóviles de alquiler, en la modalidad de ruletero, respetando en todo momento la antigüedad de los operadores en el municipio de que se trate.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+###### Artículo 107 Ter.
+
+La Legislatura deberá aprobar la reasignación de las concesiones, previa remisión por parte del Poder Ejecutivo del Estado.
 
 ###### Artículo 108.
 
@@ -1919,13 +1975,13 @@ La falta de solicitud no afectará el ejercicio de las facultades de extinción 
 
 Las concesiones para prestar el servicio público de transporte en las modalidades de competencia de esta Ley, estarán sujetas a la obligación de refrendarse anualmente durante los primeros tres meses de cada año, para lo cual deberán estar actualizadas en apego a la normatividad vigente. Lo anterior, en los términos que disponga el Instituto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2024)</small>
+
 ###### Artículo 112.
 
-Los derechos y obligaciones derivados de la concesión para la prestación del Servicio Público de Transporte, no podrán enajenarse o negociarse bajo ninguna circunstancia; sólo podrán cederse o transmitirse previo análisis y consideración de los instrumentos jurídicos idóneos que presenten los solicitantes y posterior autorización del Instituto. Cualquier acto que se realice sin cumplir con este requisito, será nulo y no surtirá efecto legal alguno.
+Los derechos y obligaciones derivados de la concesión para la prestación del Servicio Público de Transporte, sólo podrán cederse o transmitirse con autorización del Instituto, previo análisis y consideración de las razones que presenten los solicitantes. Cualquier acto que se realice sin cumplir con este requisito, será nulo y no surtirá efecto legal alguno.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 2019)</small>
-
-Las concesiones otorgadas a personas morales, solo serán susceptibles de cesión o transmisión a las personas físicas que sean integrantes de la persona moral.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 24 DE JULIO DE 2024)</small>
 
 > <small>(REFORMADO, P.O. 2 DE JUNIO DE 2021)</small>
 
@@ -1933,7 +1989,9 @@ Las concesiones otorgadas a personas morales, solo serán susceptibles de cesió
 
 La persona física titular de una concesión podrá nombrar libremente hasta tres beneficiarios para que, en caso de incapacidad física o mental, declarada judicialmente o clínicamente por una instancia del sector público; ausencia declarada judicialmente y/o muerte del titular de la concesión, puedan sustituirlo en riguroso orden de prelación señalado por el concesionario, en el entendido de que solo en ausencia definitiva del primero se aplicará dicho orden en los derechos y obligaciones derivados de la concesión, a fin de que el Instituto proceda en cualquiera de dichos supuestos a designar al beneficiario como titular de la concesión.
 
-El titular de la concesión designará ante el Instituto a los beneficiarios a que hace mención el párrafo anterior, para los efectos legales señalados en este artículo.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
+
+El Instituto deberá inscribir en el Registro Público del Transporte, previo pago de la tarifa correspondiente por parte de la persona interesada, la designación de los beneficiarios a que hace mención el párrafo anterior, para los efectos legales señalados en este artículo.
 
 El Instituto podrá celebrar con las personas morales concesionarias los convenios de colaboración que considere necesarios para cualquier trámite administrativo.
 
@@ -2069,6 +2127,10 @@ VIII. Que el concesionario cambie su nacionalidad mexicana, y
 
 IX. Las demás que se establezcan en la presente Ley y su Reglamento.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+La extinción por cualquiera de sus causas podrá tener como consecuencia la reasignación de las mismas, con excepción de la causal prevista en la fracción IV del presente artículo.
+
 ###### Artículo 121.
 
 Opera la caducidad de las concesiones cuando:
@@ -2091,7 +2153,9 @@ I. La enajenación, arrendamiento o gravamen de la concesión, del equipamiento 
 
 II. Cuando la garantía exhibida por el concesionario para el otorgamiento de la concesión, deje de ser satisfactoria y suficiente, previa notificación que le realice el Instituto;
 
-III. La omisión del pago de derechos, productos o aprovechamientos, relacionados con las concesiones, permisos, licencias y demás actos administrativos relacionados con el Servicio Público de Transporte;
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+
+III. La omisión del pago de tarifas, productos o aprovechamientos, relacionados con las concesiones, permisos, licencias y demás actos administrativos relacionados con el Servicio Público de Transporte;
 
 IV. No contar con póliza de seguro vigente de cobertura amplia, en los términos previstos en la presente Ley;
 
@@ -2489,7 +2553,7 @@ DISPOSICIONES COMUNES PARA LOS SERVICIOS PÚBLICOS Y PRIVADOS DE TRANSPORTE DE P
 
 ###### Artículo 148 Septies.
 
-El Servicio Público de Transporte de pasajeros contratado a través de Plataformas Tecnológicas o Digitales que se presta en el Estado de Quintana Roo, deberá satisfacer la necesidad colectiva de movilidad, de manera continua, uniforme, segura y de calidad. Este sólo podrá ser prestado través de concesión expedida por la autoridad competente.
+El Servicio Público de Transporte de pasajeros contratado a través de Plataformas Tecnológicas o Digitales que se presta en el Estado de Quintana Roo, deberá satisfacer la necesidad colectiva de movilidad, de manera continua, uniforme, segura y de calidad. Este sólo podrá ser prestado a través de concesión expedida por la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2023)</small>
 
@@ -2889,7 +2953,7 @@ La extinción de una autorización, concesión o permiso por cualquiera de las c
 
 ### CAPÍTULO NOVENO. De las Licencias y Permisos para Conducir
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 2024)</small>
 
 ###### Artículo 168.
 
@@ -2917,7 +2981,15 @@ El Instituto propondrá, para su aprobación, al Gobernador del Estado, con base
 
 ###### Artículo 172.
 
+Las licencias de conducir que se expidan en el Estado de Quintana Roo, a través del Instituto, tendrán plena validez en todo el territorio nacional.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
 El Instituto será la única autoridad facultada para otorgar las licencias y permisos de conducir en el Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+La licencia de conducir otorgada por el Instituto es un documento oficial obligatorio para la realización de cualquier trámite administrativo ante el mismo, establecidos en esta Ley y su Reglamento.
 
 Todo conductor de vehículo motorizado en cualquiera de sus modalidades, deberá contar y portar licencia o permiso para conducir físico y/o digital, junto con la documentación establecida por esta Ley y otras disposiciones aplicables de acuerdo con las modalidades del servicio público o privado de transporte o de uso particular, así como del tipo de servicio que se presta en el Estado.
 
@@ -3455,6 +3527,16 @@ VI. Usuarios de todo tipo de vehículos:
 
 a) Operar un vehículo motorizado en cualquiera de sus modalidades sin portar la correspondiente licencia o permiso para conducir o cuando portándola ésta se encuentre cancelada o vencida.
 
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+VII. Personas físicas o morales autorizadas para portar publicidad:
+
+a) Modificar la imagen y descripción de la publicidad durante la vigencia de la autorización.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 24 DE JULIO DE 2024]</small>
+
+Además, deberán retirar de forma inmediata la publicidad no autorizada del vehículo correspondiente.
+
 ###### Artículo 198.
 
 Se consideran infracciones graves, según el tipo de servicio, vehículo u operador, las siguientes:
@@ -3580,6 +3662,20 @@ c) Causar daño a terceros o a sus bienes al conducir un vehículo automotor.
 IX. Todas las personas:
 
 a) Dañar u obstruir los elementos de la infraestructura para la movilidad o poner en riesgo a las demás personas.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+X. Personas concesionarias u operadoras de vehículos del servicio público de transporte de carga:
+
+a) No hacer uso de lonas para cubrir o cables para sujetar o asegurar la carga que transportan, según sea el caso;
+
+b) No contar con salpicaderas, loderas o guardafangos;
+
+c) No contar con luces delanteras y/o traseras que funcionen correctamente, ya sea por suciedad, mal funcionamiento o estado;
+
+d) Que la caja o tolva no se encuentre en buen estado y permita derrames de los materiales que transportan en la vía pública, y
+
+e) Ocasionar derrames de los materiales que transportan en la vía pública y no realizar la limpieza respectiva o a no responder por cualquier daño y/o accidente que se haya generado por causa de su falta de cuidado.
 
 ###### Artículo 199.
 
@@ -3922,6 +4018,16 @@ XI. No arrojar basura a la vía pública y evitar que los pasajeros o acompañan
 XII. Respetar las señales de tránsito restrictivas y dispositivos para el control de tránsito, y
 
 XIII. Las obligaciones que se establezcan en la presente Ley y el Reglamento de Tránsito correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2024)</small>
+
+###### Artículo 218 Bis.
+
+Las personas conductoras de una motocicleta y sus acompañantes están obligadas a usar casco de seguridad que cumpla con lo establecido en las Normas Oficiales Mexicanas vigentes, debidamente colocado y abrochado, el cual deberá contar con la estampa del número de placa correspondiente, así como portar un chaleco reflejante que tenga impreso el número de la placa, mismos que deberán ser otorgados por la autoridad competente.
+
+Cuando viaje más de una persona en la motocicleta, será la persona visible desde la parte trasera la que porte el chaleco reflejante con el número de placa impreso.
+
+Las policías de tránsito del Estado y de los municipios deberán supervisar el cumplimiento a esta disposición. El incumplimiento de la misma tendrá una sanción de 7 a 10 veces el valor diario de la Unidad de Medida y Actualización vigente, y se suspenderá la circulación del vehículo para remitirlo al depósito vehicular correspondiente.
 
 > <small>(ADICIONADO, P.O. 16 DE ENERO DE 2019)</small>
 
@@ -4428,3 +4534,19 @@ QUINTO. El Instituto de Movilidad del Estado de Quintana Roo, implementará acci
 SEXTO. Dentro de un plazo de noventa días, posteriores a la entrada en vigor del presente Decreto, se deberán realizar las adecuaciones correspondientes al Reglamento de la Ley de Movilidad del Estado de Quintana Roo.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 259 POR EL QUE SE REFORMAN, ADICIONAN V (SIC) DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Las licencias de conducir expedidas por los Ayuntamientos previo a la entrada en vigor de este Decreto y que se encuentren vigentes, tendrán validez para la realización de cualquier trámite administrativo ante el Instituto de Movilidad del Estado de Quintana Roo.
+
+CUARTO. Para el cumplimiento de lo establecido en el presente Decreto, el Poder Ejecutivo del Estado de Quintana Roo, a través de la autoridad competente, implementará el "Programa de Suministro de Estampas para Cascos y de Chalecos para las Personas Conductoras de Motocicletas en el Estado de Quintana Roo".
+
+QUINTO. Para el ejercicio fiscal 2024, el Poder Ejecutivo del Estado de Quintana Roo, a través de la autoridad competente implementará el programa con el objeto de suministrar de manera gratuita estampas con el número de la placa para cascos y de chalecos a las personas conductoras de motocicletas, de conformidad con lo establecido en el presente Decreto.
+
+SEXTO. Los Ayuntamientos tendrán un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones correspondientes en sus reglamentos de tránsito.
