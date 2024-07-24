@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2024-06-28"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -79,6 +79,10 @@ I. Bis. Administración Pública: El conjunto de órganos que integran la admini
 
 II. Autoridades locales de Gobierno del Estado de Campeche: El Poder Legislativo, el Poder Ejecutivo y el Poder Judicial;
 
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+II Bis. Bifobia: Aversión irracional a la bisexualidad o las personas con orientación o preferencia bisexual que se expresa en rechazo, discriminación, ridiculización y otras formas de violencia;
+
 III. Municipio: A los Ayuntamientos que integran el Estado;
 
 IV. Ente Público: Las autoridades locales del Gobierno del Estado; los órganos que conforman la Administración Pública; los órganos autónomos por ley, y aquellos que la legislación local reconozca como de interés público y ejerzan gasto público;
@@ -87,11 +91,19 @@ IV. Ente Público: Las autoridades locales del Gobierno del Estado; los órganos
 
 V. Grupos en situación de discriminación: Se consideran grupos en situación de discriminación las niñas, los niños, los jóvenes, las mujeres, las personas que viven con VIH-SIDA, con discapacidad, con problemas de salud mental, de talla pequeña orientación sexual e identidad de género, adultas mayores, privadas de su libertad, en situación de calle, migrantes, pueblos indígenas, y aquellos que sufran algún tipo de discriminación como consecuencia de las transformaciones sociales, culturales y económicas;
 
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+V Bis. Homofobia: Aversión irracional a la homosexualidad o a las personas con orientación o preferencia homosexual, o que parecen serlo, que se expresa en rechazo, discriminación, ridiculización y otras formas de violencia;
+
 VI. Identidad de género: La identidad de género se refiere a la manifestación personal de pertenencia a un género determinado, a la aceptación o rechazo entre el género biológico y el género psicológico;
 
 > <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
 
 VI Bis. Igualdad Sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+VI Ter. Lesbofobia: Aversión irracional a la lesbiandad o a las mujeres lesbianas, o las que parecen serlo, que se expresa en rechazo, discriminación, ridiculización y otras formas de violencia;
 
 VII. Ley: La Ley para Prevenir, Combatir y Sancionar toda forma de Discriminación en el Estado de Campeche;
 
@@ -110,6 +122,10 @@ XI. bis Personas de talla pequeña: Todo ser humano que presenta un trastorno de
 XII. Persona en situación de calle: Todo ser humano quien sin contar con un espacio que pueda ser caracterizado como vivienda, aunque el mismo sea precario, se halle pernoctando en lugares públicos o privados; y
 
 XIII. Pueblos indígenas: Aquellos grupos que se consideren así por el hecho de descender de poblaciones que habitaban en el país y que, cualquiera que sea su situación jurídica, conservan sus instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XIV. Transfobia: Aversión irracional a la transexualidad, transgeneridad, o travestismo o las personas transexuales, transgénero o travesti que se expresa en rechazo, discriminación, burla y otras formas de violencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JULIO DE 2022)</small>
 
@@ -766,3 +782,11 @@ P.O. 28 DE JUNIO DE 2024.
 PRIMERO: El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO: Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 368 POR EL QUE “SE ADICIONAN LAS FRACCIONES II BIS, V BIS, VI TER Y XIV AL ARTÍCULO 5 DE LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
+
+Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
