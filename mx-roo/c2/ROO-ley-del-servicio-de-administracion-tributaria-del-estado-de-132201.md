@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-servicio-de-administracion-tributaria-del-estado-de-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2023-11-03"
+last_updated: "2024-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -61,7 +61,9 @@ III. Estructurar las bases para obtener la información necesaria para el diseñ
 
 El Servicio de Administración Tributaria del Estado de Quintana Roo; por su naturaleza para la realización de los actos de su encargo, tiene la personalidad jurídica del Estado y utiliza el patrimonio que se le asigne. Tiene el carácter de autoridad fiscal.
 
-El Servicio de Administración Tributaria del Estado de Quintana Roo tiene la responsabilidad de aplicar y vigilar el cumplimiento de las leyes y códigos fiscales federales y del Estado de Quintana Roo, convenios de colaboración administrativa y demás disposiciones relativas.
+> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
+
+El Servicio de Administración Tributaria del Estado de Quintana Roo tiene la responsabilidad de aplicar y vigilar el cumplimiento de las leyes y códigos fiscales federales y del Estado de Quintana Roo, la Ley de Valuación para el Estado de Quintana Roo y su reglamento, convenios de colaboración administrativa y demás disposiciones relativas.
 
 ###### Artículo 3.
 
@@ -103,9 +105,25 @@ IV. Aplicar y vigilar el debido cumplimiento de la legislación fiscal y demás 
 
 V. Proponer la estructura de la política tributaria en el Estado de Quintana Roo, alineada a la política hacendaria y al plan estatal de desarrollo;
 
-VI. Realizar los actos y actividades legales necesarias para la defensa de los intereses fiscales de la hacienda pública del Estado, incluyendo las contribuciones coordinadas que hubieran determinado, así como intervenir en las controversias fiscales, y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
-VII. Generar los mecanismos que permitan al contribuyente el cumplimiento de sus obligaciones fiscales, a través de la elaboración de manuales, instauración de trámites y servicios simplificados, que se orienten a obtener el mayor valor posible de los recursos disponibles y del óptimo funcionamiento de las actividades de la autoridad recaudadora a fin de estimular la innovación, la confianza en la economía, la productividad, la eficiencia y la competitividad a favor del crecimiento, bienestar general y desarrollo humano del Estado de Quintana Roo.
+VI. Realizar los actos y actividades legales necesarias para la defensa de los intereses fiscales de la hacienda pública del Estado, incluyendo las contribuciones coordinadas que hubieran determinado, así como intervenir en las controversias fiscales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JULIO DE 2024)</small>
+
+VII. Integrar y mantener actualizado el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+VIII. Establecer los formatos y sistemas a través de los cuales los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales deberán presentar sus avalúos para revisión y validación (sic) los avalúos mencionados, en términos de la Ley de Valuación para el Estado de Quintana Roo, su reglamento y demás disposiciones aplicables en la materia;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+IX. Ejercer las atribuciones que le otorgan la Ley de Valuación para el Estado de Quintana Roo, su reglamento y demás disposiciones aplicables en la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JULIO DE 2024)</small>
+
+X. Generar los mecanismos que permitan al contribuyente el cumplimiento de sus obligaciones fiscales, a través de la elaboración de manuales, instauración de trámites y servicios simplificados, que se orienten a obtener el mayor valor posible de los recursos disponibles y del óptimo funcionamiento de las actividades de la autoridad recaudadora a fin de estimular la innovación, la confianza en la economía, la productividad, la eficiencia y la competitividad a favor del crecimiento, bienestar general y desarrollo humano del Estado de Quintana Roo.
 
 Las demás funciones que, en su carácter de autoridad fiscal, le atribuyan el Código Fiscal del Estado de Quintana Roo, Código Fiscal de la Federación, los convenios de coordinación y colaboración celebrados con las autoridades fiscales federales y municipales y demás disposiciones aplicables.
 
@@ -259,9 +277,33 @@ XXXVII. Diseñar, administrar y operar los sistemas electrónicos de informació
 
 XXXVIII. Crear y mantener actualizada la página electrónica del SATQ - SEFIPLAN para realizar la orientación, difusión y capacitación a los Contribuyentes sobre la normatividad fiscal existente en el Estado.
 
-XXXIX. Analizar y realizar las modificaciones de las formas oficiales que se utilicen para la inscripción al Registro Estatal de Contribuyentes, gestión de expedición de licencias de funcionamiento, presentación de declaraciones provisionales, anuales, el pago de contribuciones y demás relacionadas con las obligaciones estatales del contribuyente, y
+> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
-XL. Las demás que sean necesarias para llevar a cabo las facultades y atribuciones previstas en esta Ley, su reglamento interior y demás disposiciones jurídicas aplicables.
+XXXIX. Analizar y realizar las modificaciones de las formas oficiales que se utilicen para la inscripción al Registro Estatal de Contribuyentes, gestión de expedición de licencias de funcionamiento, presentación de declaraciones provisionales, anuales, el pago de contribuciones y demás relacionadas con las obligaciones estatales del contribuyente;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JULIO DE 2024)</small>
+
+XL. Emitir las reglas de carácter general para establecer el sistema y los formatos para la presentación de los avalúos que realicen los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XLI. Integrar y mantener actualizado el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XLII. Convocar, previo curso correspondiente, a los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales, a efecto de que presenten el examen correspondiente;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XLIII. Revisar y validar los avalúos que emitan los peritos valuadores inscritos en el Registro Estatal de Peritos Inmobiliarios para Fines Fiscales, a excepción de lo previsto en el artículo 15-E del Código Fiscal del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 24 DE JULIO DE 2024)</small>
+
+XLIV. Sancionar a los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales conforme a lo previsto en la Ley de Valuaciones del Estado de Quintana Roo, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE JULIO DE 2024)</small>
+
+XLV. Las demás que sean necesarias para llevar a cabo las facultades y atribuciones previstas en esta Ley, su reglamento interior, la Ley de Valuaciones del Estado de Quintana Roo, su reglamento y demás disposiciones jurídicas aplicables.
 
 ### Capítulo IV. Responsabilidades del Órgano Desconcentrado SATQ
 
@@ -912,3 +954,23 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las asignaciones presupuestales que se requieran para la operación y puesta en marcha de la Unidad de Inteligencia Financiera del Servicio de Administración Tributaria del Estado de Quintana Roo, serán con cargo al presupuesto aprobado para el año 2023 y deberán hacerse las previsiones presupuestales para los ejercicios fiscales subsecuentes.
 
 TERCERO. Se derogan todas las disposiciones que resulten contrarías al presente Decreto.
+
+P.O. 24 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 258 POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO; DEL CÓDIGO FISCAL DEL ESTADO DE QUINTANA ROO; DE LA LEY DE VALUACIÓN PARA EL ESTADO DE QUINTANA ROO; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO; DE LA LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE DERECHOS DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día primero de agosto del año 2024, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de 180 días hábiles posteriores a la entrada en vigor del presente decreto, la persona Titular del Poder Ejecutivo del Estado, expedirá las armonizaciones al Reglamento de la Ley de Valuación para el Estado de Quintana Roo y demás disposiciones reglamentarias conforme a lo contenido en el presente Decreto.
+
+En tanto se expide la armonización al Reglamento de la Ley de Valuación para el Estado de Quintana Roo y demás disposiciones reglamentarias respectivas, el Servicio de Administración Tributaria del Estado de Quintana Roo utilizará la NMX-R-081-SCFI-2015 denominada Servicios-Servicios de Valuación-Metodología, para la validación de los avalúos comerciales que le presenten los peritos valuadores en términos de este Decreto.
+
+TERCERO. Las personas (sic) que se refiere el artículo 34 Quáter de la Ley de Valuaciones del Estado de Quintana Roo del presente Decreto, tendrán la obligación de inscribirse en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales para obtener la validación de sus avalúos en términos de este decreto a partir de la entrada en vigor del mismo, previa publicación de la convocatoria que al efecto emita el Servicio de Administración Tributaria del Estado de Quintana Roo.
+
+CUARTO. El Servicio de Administración Tributaria del Estado de Quintana Roo, por única ocasión, deberá emitir la convocatoria a que se refiere el transitorio anterior, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este Decreto.
+
+QUINTO. La Secretaría de Finanzas y Planeación, a través del Servicio de Administración Tributaria del Estado de Quintana Roo, llevará a cabo las acciones que resulten necesarias para la implementación de los avalúos inmobiliarios para fines fiscales y del Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales.
+
+SEXTO. Por única ocasión, los peritos valuadores con inscripción vigente en el Registro Estatal de Peritos Valuadores, en la especialidad prevista en el artículo 18, fracción I, de la Ley de Valuaciones para el Estado de Quintana Roo, podrán presentar, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este decreto, en formato libre, su solicitud de inscripción en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales ante el Servicio de Administración Tributaria del Estado de Quintana Roo anexando la constancia de inscripción vigente al Registro Estatal de Peritos Valuadores, emitida por la Secretaría de Gobierno.
+
+SÉPTIMO. Se abroga el Decreto 222 por el que se reforma el artículo primero transitorio del "Decreto número 173, expedido por la Honorable XVII Legislatura del Estado Libre y Soberano de Quintana Roo, por el que se adiciona un párrafo segundo y un párrafo tercero al artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 21 de diciembre de 2023", publicado en el Periódico Oficial del Estado en fecha 24 de abril de 2024.
