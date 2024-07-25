@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-conducta-de-la-secretaria-de-finanzas-y-164682"
 country: "mx"
 rank: "codigo"
 publication_date: "2023-02-27"
-last_updated: "2023-02-27"
+last_updated: "2024-07-25"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE FINANZAS Y PLANEACION, PROCURADURIA FISCAL, CENTRO DE EVALUACION DEL DESEMPEÑO, E INSTITUTO PARA EL DESARROLLO Y FINANCIAMIENTO DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO QUE TIENE POR OBJETO EMITIR EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN, DEL INSTITUTO GEOGRÁFICO Y CATASTRAL Y DEL INSTITUTO PARA EL DESARROLLO Y FINANCIAMIENTO DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 25 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN, PROCURADURÍA FISCAL, CENTRO DE EVALUACIÓN DEL DESEMPEÑO, E INSTITUTO PARA EL DESARROLLO Y FINANCIAMIENTO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2024 (SIN EFECTOS).
 
 Código publicado en el Número 33 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 27 de febrero de 2023.
 
@@ -812,3 +814,15 @@ Unidad Administrativa:
 Fecha y Firma:
 
 > <small>[N. DE E. VÉASE ANEXO 3. FORMATO DE DELACIÓN EN EL P.O. DE 27 DE FEBRERO DE 2023, PÁGINA 42.]</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE TIENE POR OBJETO EMITIR EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE FINANZAS Y PLANEACIÓN, DEL INSTITUTO GEOGRÁFICO Y CATASTRAL Y DEL INSTITUTO PARA EL DESARROLLO Y FINANCIAMIENTO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se deja sin efectos el Acuerdo que tiene por objeto emitir el Código de Conducta de la Secretaría de Finanzas y Planeación, Procuraduría Fiscal, Centro de Evaluación del Desempeño, e Instituto para el Desarrollo y Financiamiento del Estado de Quintana Roo, publicado en el Periódico Ofcial (sic) con fecha 27 de febrero de 2023.
+
+TERCERO. Publíquese el presente instrumento, en los portales electrónicos, a través de medios de comunicación internos de la Secretaría de Finanzas y Planeación, del Instituto Geográfico y Catastral y del Instituto para el Desarrollo y Financiamiento del Estado de Quintana Roo, con acceso directo al Micrositio del COEPCI, haciéndolo del conocimiento de las Personas Servidoras Públicas.
