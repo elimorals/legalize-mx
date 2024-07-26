@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2024-02-09"
+last_updated: "2024-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -1053,7 +1053,11 @@ La prestación de servicios de asistencia social será regulada por los ordenami
 
 Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes y ancianos sometidos en cualquier forma de maltrato que pongan en peligro su salud física o mental.
 
-De igual forma en los municipios del Estado en los que existan pueblos y comunidades indígenas, procurarán conforme a la disponibilidad presupuestal contar por lo menos con un médico, enfermera o traductor en el centro de salud que las atienda, que hable la lengua indígena predominante del lugar, y cuente con los conocimientos sobre la cultura y costumbres indígenas, para la atención de su población.
+(NOTA: EL 3 DE FEBRERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 145/2024, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 6 DE FEBRERO DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2024)</small>
+
+De igual forma en los municipios del Estado en los que existan pueblos y comunidades indígenas, procurarán CONFORME A LA DISPONIBILIDAD PRESUPUESTAL contar por lo menos con un médico, enfermera o traductor en el centro de salud que las atienda, que hable cada una de las lenguas indígenas que se establezcan como predominantes en el Estado, según los datos aportados por el Instituto Nacional de Información Estadística y Geografía, y cuente con los conocimientos sobre la cultura y costumbres indígenas, a fin de que los indígenas que no hablen suficientemente el español, puedan recibir la atención medica que requieran, de manera óptima.
 
 Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático de los individuos.
 
@@ -1131,6 +1135,8 @@ La Secretaría de Salud del Estado en el ámbito de su competencia, establecerá
 
 Las Autoridades Sanitarias del Estado y las propias instituciones públicas de salud, establecerán procedimientos de orientación y asesoría a los usuarios sobre el uso de los servicios de salud que requieran y los perfiles profesionales del campo de la salud que soliciten, así como mecanismos para que presenten sus denuncias, quejas, reclamaciones y sugerencias respecto de la prestación de los servicios de salud y a la falta de probidad, en su caso, de los servidores públicos.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO NÚMERO 448, PUBLICADO EN EL P.O. DE 26 DE JULIO DE 2024, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE DIEZ A NUEVE PÁRRAFOS.]</small>
+
 > <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 ARTÍCULO 45 BIS.- Las personas usuarias tienen derecho a decidir libremente sobre la aplicación de los procedimientos diagnósticos y terapéuticos ofrecidos. En caso de urgencia o que la persona usuaria se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder será otorgada por el familiar que lo acompañe o su representante legal; en caso de no ser posible lo anterior, la persona prestadora de servicios de salud procederá de inmediato para preservar la vida y salud del usuario, dejando constancia en el expediente clínico.
@@ -1143,13 +1149,19 @@ El consentimiento informado es la conformidad expresa de una persona, manifestad
 
 Todas las personas prestadoras de servicios de salud, públicos o privados, están obligadas a comunicar a la persona, de manera accesible, oportuna y en lenguaje comprensible, la información veraz y completa, incluyendo los objetivos, los posibles beneficios y riesgos esperados, y las alternativas de tratamiento, para asegurar que los servicios se proporcionen sobre la base del consentimiento libre e informado.
 
-Una vez garantizada la comprensión de la información a través de los medios y apoyos necesarios, la población usuaria de los servicios de salud tiene el derecho de aceptarlos o rechazarlos.
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2024)</small>
 
 Una vez garantizada la comprensión de la información a través de los medios y apoyos necesarios, la población usuaria de los servicios de salud tiene el derecho de aceptarlos o rechazarlos.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2024)</small>
 
 En el caso de las niñas, niños y adolescentes constituye una obligación por parte de las personas prestadoras de servicios de atención a la salud implementar los apoyos y ajustes razonables, adecuados a su edad para que su voluntad y preferencias sean tomadas en cuenta en la determinación del tipo de intervenciones encaminadas a garantizar su recuperación y bienestar.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2024)</small>
+
 Se entenderá como ajustes razonables a las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 26 DE JULIO DE 2024)</small>
 
 No se entenderá que la persona no puede dar su consentimiento cuando se estime que está en un error o que no tiene conciencia de lo que hace.
 
@@ -2137,9 +2149,17 @@ Las Autoridades Sanitarias del Estado, reconocen a las adicciones como un proble
 
 I.- Prevención y tratamiento del alcoholismo y en su caso, rehabilitación de los alcohólicos;
 
-II.- Educativas sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2024)</small>
 
-III.- Fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+II.- Educativas sobre los efectos del alcohol en la salud y en las relaciones sociales, dirigida especialmente a niñas, niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2024)</small>
+
+III.- Fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales y en los grupos de población considerados de alto riesgo; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2024)</small>
+
+IV.- Fomentar la creación de centros especializados en tratamiento, atención y rehabilitación con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión de la persona que padece de alguna enfermedad derivada del alcoholismo.
 
 ###### ARTÍCULO 100.
 
@@ -2318,6 +2338,14 @@ La Secretaría de Salud del Estado formulará las políticas a que quedará suje
 ###### ARTÍCULO 110.
 
 Los establecimientos y servicios a que se refiere el Artículo 5o. de esta Ley, requerirán para iniciar sus actividades cumplir con los requisitos que determine esta Ley, los Reglamentos, normas oficiales mexicanas y demás disposiciones que resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2024)</small>
+
+ARTÍCULO 110 BIS.- La Secretaría de Salud del Estado, llevará la operación y actualización de un Registro Estatal de Establecimientos Prestadores de Servicios de Salud y Bienestar (REPSSABI), con el objeto de regularizar y garantizar la calidad y la seguridad en la atención médica, y contribuir así a mitigar los potenciales riesgos a la salud de la población.
+
+Los establecimientos públicos y privados del sector salud que podrán registrarse serán los denominados hospitales, consultorios generales, consultorios de especialidad, consultorios de odontología, spas médicos, clínicas de cirugía mayor ambulatoria, laboratorios clínicos, gabinetes de radiología, farmacias, y los demás que determine la Secretaría de Salud.
+
+El REPSSABI será voluntario, gratuito y digital, conforme la normatividad interna que se emita.
 
 ###### ARTÍCULO 111.
 
@@ -2945,13 +2973,17 @@ XIX. Suscribir convenios y acuerdos de colaboración para el cumplimiento de sus
 
 XX. Realizar por conducto del personal autorizado las visitas de inspección, vigilancia y verificación de cumplimiento de esta Ley, la Ley General de Salud, Normas Oficiales Mexicanas y demás ordenamientos aplicables en materia sanitaria, en los domicilios de los establecimientos comerciales o instituciones públicas, pudiendo utilizar para este fin el sistema de videograbación;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2024)</small>
 
-XXI. Coordinarse, en su caso, con las autoridades responsables de regular y verificar las condiciones de seguridad y protección civil, para la ejecución de las acciones de regulación, control, fomento y vigilancia sanitaria a su cargo, y
+XXI. Coordinarse, en su caso, con las autoridades responsables de regular y verificar las condiciones de seguridad y protección civil, para la ejecución de las acciones de regulación, control, fomento y vigilancia sanitaria a su cargo;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2024)</small>
 
-XXII. Las demás que señalen las disposiciones legales aplicables.
+XXII. Operar, actualizar y fomentar el Registro Estatal de Establecimientos Prestadores de Servicios de Salud y Bienestar; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE JULIO DE 2024)</small>
+
+XXIII. Las demás que señalen las disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -4236,3 +4268,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- La aplicación del presente Decreto, estará sujeta a la disponibilidad presupuestaria.
 
 TERCERO.- El alcance del presente Decreto se encuentra sujeto a las disposiciones normativas y reglamentarias del Sistema de Salud para el Bienestar.
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 443 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 99 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 445 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 110 BIS Y SE REFORMA EL ARTÍCULO 149 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 448 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 36 Y 45 BIS DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
