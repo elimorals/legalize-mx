@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-atencion-a-victimas-para-el-estado-de-michoacan-de-10394
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-10"
-last_updated: "2024-01-29"
+last_updated: "2024-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán de Ocampo, el miércoles 10 de diciembre de 2014.
 
@@ -152,6 +150,12 @@ La Comisión Ejecutiva, en coordinación con las instituciones que integran el S
 La Comisión Ejecutiva será responsable de establecer pautas y esquemas de coordinación para el efectivo desarrollo del Programa.
 
 Todas las instituciones públicas del Estado deberán participar en el desarrollo de este programa en el ámbito de sus respectivas atribuciones y mediante los recursos financieros, humanos y materiales a su disposición que para ese efecto señale el Presupuesto de Egresos.
+
+> <small>(ADICIONADO, P.O. 26 DE JULIO DE 2024)</small>
+
+###### Artículo 7 Bis.
+
+La Comisión una vez determinada la guarda y custodia de las niñas, niños y adolescentes que hayan quedado en situación de orfandad como consecuencia del delito de feminicidio, deberá brindar apoyo psicológico y jurídico, y en aquellos casos que lo requieran apoyo económico o canalización para educación, alimentación y servicios médicos. La Comisión establecerá en su Reglamento, los casos en los cuales deberán de recibir apoyo económico.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2017)</small>
 
@@ -1218,3 +1222,13 @@ El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Mic
 Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
 
 Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 660 POR EL QUE "SE ADICIONA EL ARTÍCULO 7 BIS, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Comisión Ejecutiva Estatal de Atención a Víctimas establecerá en su Reglamento, dentro del plazo de ciento veinte días a partir de la entrada en vigor del presente Decreto, los casos en los cuales deberán de recibir apoyo económico las niñas, niños y adolescentes que hayan quedado en situación de orfandad como consecuencia del delito de feminicidio.
+
+TERCERO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
