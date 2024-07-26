@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-social-para-el-estado-de-baja-california-1135
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2018-01-19"
+last_updated: "2024-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 2015.
 
@@ -411,9 +411,11 @@ V. Hacer accesible el derecho a un medio ambiente sano a través del impulso del
 
 La Política de Desarrollo Social debe encaminarse a concentrar los recursos físicos, humanos y financieros de las instituciones públicas y sociales con el fin (sic) lograr la reducción de las desigualdades sociales entre las personas, grupos sociales y comunidades mediante la orientación de líneas de acción y programas para desarrollar y aprovechar sus capacidades y para a ampliar el acceso a un patrimonio físico, a la atención y seguridad de las instituciones del Estado, al acceso a redes sociales y comunitarias.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2024)</small>
+
 ###### Artículo 24.
 
-La Política de Desarrollo Social tendrá como prioridad proporcionar de manera oportuna y subsidiaria ayuda económica o en bienes y servicios básicos a las personas, familias, grupos, etnias y comunidades en situación de pobreza.
+La Política de Desarrollo Social tendrá como prioridad proporcionar de manera oportuna y subsidiaria ayuda económica o en bienes y servicios básicos a las personas, familias, grupos, etnias, migrantes, personas en contexto de movilidad y comunidades en situación de pobreza.
 
 ###### Artículo 25.
 
@@ -767,9 +769,17 @@ VI. Los programas de abasto social de productos básicos;
 
 VII. Los programas de vivienda, para tal efecto, el titular del Poder Ejecutivo del Estado, se coordinará con las autoridades federales competentes con el fin de implementar acciones de vivienda y obra social, entre dichas acciones se buscará comprender a aquellas que tengan por objeto otorgar casas abandonadas que hayan sido recuperadas por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado u otras instituciones dedicadas al otorgamiento de créditos para la vivienda.
 
-VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía; y
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2024)</small>
 
-IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano.
+VIII. Los programas y fondos públicos destinados a la generación y conservación del empleo, a las actividades productivas sociales y a las empresas del sector social de la economía;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2024)</small>
+
+IX. Los programas y obras de infraestructura para agua potable, drenaje, electrificación, caminos y otras vías de comunicación, saneamiento ambiental y equipamiento urbano; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE JULIO DE 2024)</small>
+
+X. Los programas de apoyo económico y alimentario a mujeres en condiciones de pobreza y madres jefas de familia.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2016)</small>
 
@@ -1068,3 +1078,19 @@ P.O. 19 DE ENERO DE 2018.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 157 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN VII, DEL ARTÍCULO 61 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 446 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 24 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La aplicación de esta política social estará sujeta para su implementación a la disponibilidad presupuestal, debiendo preverse en el presupuesto de egresos las partidas conducentes.
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 447 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 61 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- La aplicación de esta política social estará sujeta para su implementación a la disponibilidad o viabilidad financiera correspondiente, debiendo preverse en el presupuesto de egresos las partidas conducentes.
