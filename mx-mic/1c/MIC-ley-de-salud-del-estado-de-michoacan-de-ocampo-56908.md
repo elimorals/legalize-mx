@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2024-05-28"
+last_updated: "2024-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -186,6 +186,10 @@ XLI. Vigilancia epidemiológica: Recolección sistemática, continua, oportuna y
 XLII. Vector: Al transportador viviente y transmisor biológico del agente causal de enfermedad, artrópodo que transmite el agente causal de una enfermedad, por picadura, mordedura, o por sus desechos; y,
 
 XLIII. Verificadores: Las personas designadas por la autoridad sanitaria competente para realizar diligencias de vigilancia sanitaria, de conformidad con lo dispuesto en la Ley General de Salud, esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2024)</small>
+
+XLIV. La donación de órganos, tejidos, células y cadáveres, consiste en el consentimiento tácito o expreso de la persona para que, en vida o después de su muerte, su cuerpo o sus componentes se utilicen para trasplantes. Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, para los fines y con los requisitos previstos en la legislación de la materia.
 
 ###### ARTÍCULO 3°.
 
@@ -3300,3 +3304,11 @@ P.O. 28 DE MAYO DE 2024.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 651 POR EL QUE “SE ADICIONA LA FRACCIÓN XLIV AL ARTÍCULO 2° DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El Titular del Poder Ejecutivo del Estado tendrá un plazo de hasta noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los convenios correspondientes.
