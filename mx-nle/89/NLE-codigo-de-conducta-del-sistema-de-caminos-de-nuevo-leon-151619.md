@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-del-sistema-de-caminos-de-nuevo-leon-151619"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-10-06"
-last_updated: "2021-10-06"
+last_updated: "2024-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DEL SISTEMA DE CAMINOS DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE (SIC) SISTEMA DE CAMINOS DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 26 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL SISTEMA DE CAMINOS DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024 (ABROGADO).
 
 Código publicado en el Número 123 del Periódico Oficial del Estado de Nuevo León, el miércoles 6 de Octubre de 2021.
 
@@ -494,3 +496,13 @@ VOCAL
 ING. NORA GRICELDA GARCÍA MACÍAS,
 
 COORDINADOR DE CONTROL INTERNO DE SISTEMA DE CAMINOS DE NUEVO LEÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE (SIC) SISTEMA DE CAMINOS DE NUEVO LEÓN".]
+
+PRIMERO. El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO: Se abroga el Código de Conducta de los servidores públicos de (sic) Sistema de Caminos de Nuevo León, publicado el 06 de octubre de 2021, en el Periódico Oficial del Estado de Nuevo León.
