@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2023-12-07"
+last_updated: "2024-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -345,9 +345,17 @@ II. Brindar servicios reeducativos psicoterapéuticos, especializados y gratuito
 
 III. Prohibir que la atención que reciban la víctima y el agresor sea proporcionada por la misma persona y en el mismo lugar. En ningún caso podrán brindar atención, aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
-IV. Prohibir procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima; y,
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2024)</small>
 
-V. Garantizar la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos menores de edad o incapaces; la información sobre su ubicación será reservada y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional expedida por la autoridad competente, correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
+IV. Prohibir procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
+
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2024)</small>
+
+V. Garantizar la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos menores de edad o incapaces; la información sobre su ubicación será reservada y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional expedida por la autoridad competente, correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia; y,
+
+> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2024)</small>
+
+VI. Establecer en coordinación con la Comisión Ejecutiva Estatal de Atención a Víctimas, los servicios de apoyo psicológico y jurídico, y en aquellos casos que lo requieran apoyo económico o canalización para educación, alimentación y servicios médicos de las niñas, niños y adolescentes que hayan quedado en situación de orfandad como consecuencia del delito de feminicidio.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2020)</small>
 
@@ -1364,3 +1372,13 @@ P.O. 7 DE DICIEMBRE DE 2023.
 PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 660 POR EL QUE “SE REFORMAN LAS FRACCIONES IV, V, Y SE ADICIONA LA FRACCIÓN VI, DEL ARTÍCULO 14 DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Comisión Ejecutiva Estatal de Atención a Víctimas establecerá en su Reglamento, dentro del plazo de ciento veinte días a partir de la entrada en vigor del presente Decreto, los casos en los cuales deberán de recibir apoyo económico las niñas, niños y adolescentes que hayan quedado en situación de orfandad como consecuencia del delito de feminicidio.
+
+TERCERO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
