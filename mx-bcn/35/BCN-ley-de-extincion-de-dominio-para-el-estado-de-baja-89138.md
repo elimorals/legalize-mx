@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-extincion-de-dominio-para-el-estado-de-baja-89138"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-27"
-last_updated: "2018-11-30"
+last_updated: "2024-07-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89138&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "BCN"
 ---
 # LEY DE EXTINCION DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 449 MEDIANTE EL CUAL SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 26 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+[NOTA 2: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024 (ABROGADA).
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de julio de 2012.
 
@@ -644,3 +646,9 @@ El valor diario de la Unidad de Medida y Actualización a la fecha de entrada en
 ###### ARTÍCULO TERCERO.
 
 Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones, sanciones, multas administrativas, conceptos de pago y montos de referencia, se entenderán referidas a la Unidad de Medida y Actualización.
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 449 MEDIANTE EL CUAL SE ABROGA LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
