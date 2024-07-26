@@ -4,7 +4,7 @@ identifier: "SLP-estatuto-del-servicio-profesional-fiscalizador-de-carrera-17391
 country: "mx"
 rank: "estatuto"
 publication_date: "2024-05-09"
-last_updated: "2024-05-09"
+last_updated: "2024-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173918&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "SLP"
 
 ESTATUTO DEL SERVICIO PROFESIONAL FISCALIZADOR DE CARRERA DEL INSTITUTO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
 
 Estatuto publicado en el Periódico Oficial del Estado de San Luis Potosí, el jueves 9 de mayo de 2024.
 
@@ -116,7 +116,9 @@ VII. La persona titular de la Coordinación General de Administración y Finanza
 
 VIII. La persona titular de la Auditoría Especial de Asuntos Jurídicos, quien fungirá como Asesora o Asesor Jurídico.
 
-Los integrantes del Comité tendrán derecho a voz y voto, con excepción de los señalados en las fracciones VI y VII, quienes solo tendrán derecho a voz.
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2024)</small>
+
+Los integrantes del Comité tendrán derecho a voz y voto, con excepción de los señalados en las fracciones VII y VIII, quienes solo tendrán derecho a voz.
 
 Cada titular podrá designar por escrito un suplente, quien deberá tener el nivel jerárquico inmediato inferior de acuerdo con la estructura organizacional establecida en el Reglamento, a excepción de la persona que ostente la Presidencia del Comité, quién solo podrá ser suplida por quien ocupe la titularidad de la Coordinación de Auditorías Especiales.
 
@@ -593,3 +595,11 @@ MTRO. RODRIGO JOAQUÍN LECOURTOIS LÓPEZ
 AUDITOR SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ARTÍCULO 6, PÁRRAFO SEGUNDO, CORRESPONDIENTE AL ESTATUTO DEL SERVICIO PROFESIONAL FISCALIZADOR DE CARRERA”.]
+
+> <small>[N. DE E. LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 2 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE SAN LUIS POTOSÍ.]</small>
