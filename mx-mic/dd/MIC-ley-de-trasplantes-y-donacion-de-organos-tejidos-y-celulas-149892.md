@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-trasplantes-y-donacion-de-organos-tejidos-y-celulas-1498
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-08"
-last_updated: "2021-06-08"
+last_updated: "2024-07-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149892&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE TRASPLANTES Y DONACIÓN DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
 
 Ley publicada en la Sexta Sección del Número 89 del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 8 de junio de 2021.
 
@@ -157,7 +157,9 @@ VI. Promover que las instituciones de salud acreditadas y certificadas legalment
 
 VII. Vigilar conjuntamente con la autoridad estatal de control de riesgos sanitarios, el cumplimiento de la legislación sanitaria en materia de trasplantes;
 
-VIII. Realizar acciones y programas a nivel estatal y municipal, durante el mes de septiembre, relativas al fomento y difusión de la cultura de donación de órganos, tejidos y células para trasplante. Para este fin el Titular del Poder Ejecutivo del Estado, deberá suscribir convenios permanentes a efecto de que realicen descuentos en las actas notariadas, en las cuales se expresen el consentimiento voluntario de ser donador; y,
+> <small>(REFORMADA, P.O. 26 DE JULIO DE 2024)</small>
+
+VIII. Realizar acciones y programas a nivel estatal y municipal, de manera permanente, relativas al fomento y difusión de la cultura de donación de órganos, tejidos y células para trasplante. Para este fin, el Titular del Poder Ejecutivo del Estado deberá suscribir convenios permanentes a efecto de que realicen descuentos en las actas notariadas en las cuales se exprese el consentimiento voluntario de ser donador, y para que se entreguen de manera gratuita tratándose de trasplantes entre vivos en los casos en que la fe pública notarial sea obligatoria; y,
 
 IX. Las demás que determinen otros ordenamientos jurídicos.
 
@@ -853,9 +855,11 @@ Las campañas, promoción y difusión deberán realizarse con un contenido esenc
 
 Los organismos no gubernamentales y medios de difusión, podrán coadyuvar a implementar campañas permanentes entre la ciudadanía para que esta sea informada de manera adecuada y responsable, sobre la donación de órganos, tejidos, así como de células progenitoras hematopoyéticas para trasplante, estableciendo módulos operativos de información, en concordancia a lo establecido en el Programa.
 
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 2024)</small>
+
 ###### Artículo 62.
 
-El día veintiséis de septiembre de cada año, la Secretaría en coordinación con el Consejo y los Ayuntamientos establecerán módulos informativos en hospitales, clínicas rurales, instituciones, educativas, públicas y privadas, para obsequiar la tarjeta de donador voluntario y el formato de donación expresa para después de la muerte. También, se podrá contar con la presencia de un Notario Público, para que la ciudadanía que determine redactar su carta certificada de voluntad de donación, lo realice en el marco de este evento.
+De manera permanente, la Secretaría en coordinación con el Consejo y los Ayuntamientos establecerán módulos informativos en hospitales, clínicas rurales, instituciones educativas, públicas y privadas, para obsequiar la tarjeta de donador voluntario y el formato de donación expresa para después de la muerte.
 
 ### CAPÍTULO VIII. LA DONACIÓN
 
@@ -1017,7 +1021,7 @@ El Consejo se encargará de promover y difundir el documento oficial referente a
 
 La tarjeta de donador voluntario, es el documento por medio del cual la persona mayor de edad y en pleno uso de sus facultades, acepta al momento de su fallecimiento ser donador parcial o total.
 
-La tarjeta de donador voluntario es adicional a la manifestación expresa hecha mediante un proceso notarial o del formato de donación expresa para después de la muerte.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE JULIO DE 2024)</small>
 
 ###### Artículo 86.
 
@@ -1768,3 +1772,13 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTA DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 24 veinticuatro días del mes de mayo del año 2021 dos mil veintiuno.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- ING. SILVANO AUREOLES CONEJO.- EL SECRETARIO DE GOBIERNO.- C. ARMANDO HURTADO ARÉVALO.- (Firmados)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 651 POR EL QUE “SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 6 Y EL ARTÍCULO 62; Y, SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 85, TODOS DE LA LEY DE TRASPLANTES Y DONACIÓN DE ÓRGANOS, TEJIDOS Y CÉLULAS EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El Titular del Poder Ejecutivo del Estado tendrá un plazo de hasta noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar los convenios correspondientes.
