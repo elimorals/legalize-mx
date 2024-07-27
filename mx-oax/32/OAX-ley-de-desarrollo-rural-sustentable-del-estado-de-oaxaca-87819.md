@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-rural-sustentable-del-estado-de-oaxaca-87819"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-09"
-last_updated: "2023-08-05"
+last_updated: "2024-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de abril de 2012.
 
@@ -977,9 +977,9 @@ III. Adoptar innovaciones tecnológicas;
 
 IV. Conservar y manejar el medio ambiente;
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2024)</small>
 
-V. Buscar la trasformación tecnológica y la adaptación de tecnologías y procesos acordes a la cultura y los recursos naturales de los pueblos y comunidades indígenas y afromexicanas;
+V. Buscar la transformación tecnológica y la adaptación de tecnologías que no generen daños al medio ambiente o afecten el ciclo hidrológico natural en las fases de condensación y precipitación, además de otros procesos acordes a la cultura y los recursos naturales de los pueblos y comunidades indígenas y afromexicanas;
 
 VI. Reorganizar y mejorar la eficiencia en el trabajo;
 
@@ -2016,3 +2016,11 @@ P.O. 5 DE AGOSTO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2331.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 65, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
