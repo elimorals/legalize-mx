@@ -4,7 +4,7 @@ identifier: "COL-ley-de-entrega-recepcion-de-los-ayuntamientos-del-estado-de-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-07-14"
-last_updated: "2021-07-14"
+last_updated: "2024-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ENTREGA RECEPCIÓN DE LOS AYUNTAMIENTOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el miércoles 14 de junio de 2021.
 
@@ -59,7 +59,17 @@ Ley de Entrega Recepción de los Ayuntamientos del Estado de Colima
 
 Se declaran de orden público e interés social las acciones encaminadas a preparar la transmisión del mando de los gobiernos municipales en el Estado de Colima.
 
-La presente Ley es reglamentaria al artículo 29 de la Ley de Municipio Libre del Estado de Colima, y tiene por objeto regular la oportuna transmisión del mando de los gobiernos municipales, así como el suministro adecuado y completo de información a los miembros de los ayuntamientos electos, relativos a los asuntos municipales y aquellos otros a que se refiere el artículo 33 de la Ley del Municipio Libre del Estado de Colima, con el propósito de que cuenten con los elementos necesarios para el eficaz desempeño de las funciones que ejercerán. Así mismo norma el proceso de entrega- recepción de los recursos humanos, materiales, financieros y demás que les hayan sido asignados y en general, toda aquella documentación e información que debidamente ordenada, clasificada, legalizada y protocolizada, haya sido generada por los Gobiernos Municipales, debiendo observar en el proceso de transmisión de mando lo establecido en la Ley de Archivos del Estado de Colima; Ley de Transparencia y Acceso a la Información Pública; Capítulo X, Título Segundo denominado “Delitos contra la función pública” de la Sección Cuarta titulada “Delitos contra el Estado” del Libro Segundo intitulado “De los delitos en particular” integrado por los artículos 275 Bis, y 275 Bis 1 del Código Penal para el Estado de Colima y Ley General de Responsabilidades Administrativas.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2024)</small>
+
+La presente Ley es reglamentaria al artículo 29 de la Ley de (sic) Municipio Libre del Estado de Colima, y tiene por objeto regular la oportuna transmisión del mando de los gobiernos municipales, así como el suministro adecuado y completo de información a los miembros de los ayuntamientos electos, relativos a los asuntos municipales y aquellos otros a que se refiere el artículo 33 de la Ley del Municipio Libre del Estado de Colima, con el propósito de que cuenten con los elementos necesarios para el eficaz desempeño de las funciones que ejercerán.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2024)</small>
+
+Asimismo, norma el proceso de entrega-recepción de los recursos humanos, materiales, financieros y demás que les hayan sido asignados y en general, toda aquella documentación e información que debidamente ordenada, clasificada, legalizada y protocolizada, haya sido generada por los Gobiernos Municipales.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2024)</small>
+
+En el proceso de transmisión de mando debe observarse lo establecido en la Ley de Archivos del Estado de Colima; Ley de Transparencia y Acceso a la Información Pública del Estado de Colima; Sección Tercera denominada “Delitos contra la Sociedad” Título Primero intitulado “Delitos por Hechos de Corrupción de Servidores Públicos o de Particulares y Ejercicio Indebido de Funciones” Capítulos II y III al IX, la Sección Cuarta titulada “Delitos contra el Estado” Título Segundo intitulado “Delitos contra la Función Pública”, de los Capítulos I al VI, así como los artículos 275 Bis y 275 Bis 1 del Código Penal para el Estado de Colima y Ley General de Responsabilidades Administrativas.
 
 ###### ARTÍCULO 2.
 
@@ -69,7 +79,9 @@ I. Acta Administrativa de Entrega-Recepción. Documento en el que se hace consta
 
 II. Administración Pública. Administración Pública Municipal;
 
-III. Comisión Municipal. Comisión municipal para la transmisión de mando de los gobiernos municipales, que corresponde al presidente municipal en funciones y el presidente electo; se integrará por igual número de representantes del Ayuntamiento entrante y saliente en la que se incluya por lo menos a 3 regidores de las diferentes fracciones políticas;
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2024)</small>
+
+III. Comisión Municipal. Comisión Municipal para la Transmisión de Mando de los gobiernos municipales, que corresponde al Presidente Municipal en funciones y el Presidente electo;
 
 IV. Dependencias. Las que establecen la Ley de Municipio Libre del Estado de Colima, en su artículo 65;
 
@@ -107,49 +119,67 @@ III. Demás atribuciones que establece la Ley General de Responsabilidades Admin
 
 ### Capítulo II. De la Comisión Municipal de Entrega Recepción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 7.
 
-El periodo para la preparación de la transmisión del mando de los gobiernos municipales en el Estado de Colima, dará inicio 45 días hábiles antes de la instalación de los Ayuntamientos, mediante la constitución de la Comisión Municipal para la Transmisión del Mando Gubernamental, establecida coordinadamente por el Presidente Municipal en funciones y el Presidente Municipal electo de cada Ayuntamiento; se integrará por igual número de representantes del Ayuntamiento entrante y saliente en la que se incluya por lo menos a 3 regidores de las diferentes fracciones políticas.
+El periodo para la preparación de la transmisión del mando de los gobiernos municipales en el Estado de Colima, dará inicio 50 días hábiles antes de la instalación de los Ayuntamientos, mediante la constitución de la Comisión Municipal para la Transmisión del Mando de los Gobiernos Municipales, establecida coordinadamente por la Presidenta o Presidente Municipal en funciones y la Presidenta o Presidente Municipal electo de cada Ayuntamiento; se integrará por
+
+6 personas de las cuales 3 serán representantes del Ayuntamiento entrante y 3 del saliente, incluyendo a la Presidenta o Presidente Municipal en funciones y la Presidenta o Presidente Municipal electo.
 
 El Presidente Municipal electo podrá designar por escrito, a quien lo represente en la comisión a que se refiere el párrafo anterior. El Presidente Municipal en funciones, solo podrá ser representado por el Síndico o Secretario municipal, mediante oficio respectivo.
 
-En el caso de la hipótesis señalada en la fracción I, párrafo quinto del artículo 90 de la Constitución Política del Estado Libre y Soberano de Colima, la integración de la Comisión que menciona el párrafo anterior, se hará por el Presidente Municipal en funciones y por el Presidente del Consejo.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2024)</small>
+
+En el caso de la hipótesis señalada en la fracción I, párrafo quinto del artículo 90 de la Constitución Política del Estado Libre y Soberano de Colima, la integración de la Comisión que menciona el párrafo anterior, se hará por el Presidente Municipal en funciones y por el Presidente del Consejo Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 8.
 
-La Comisión que señala el artículo anterior estará integrada por cinco grupos de trabajo, que les encargarán cada uno de los asuntos relacionados con las funciones específicas a su cargo. Estos grupos de trabajo serán:
+La Comisión Municipal conformará los grupos de trabajo que considere necesarios para eficientar el proceso de entrega-recepción de la administración municipal y paramunicipal.
 
-a) Reglamentación, Jurídico, Organismos Descentralizados y Archivo;
+a) (DEROGADO, P.O. 27 DE JULIO DE 2024)
 
-b) Hacienda Pública Municipal, Planeación, Programación y Presupuesto;
+b) (DEROGADO, P.O. 27 DE JULIO DE 2024)
 
-c) Obra Pública, Desarrollo Urbano y Servicios Públicos;
+c) (DEROGADO, P.O. 27 DE JULIO DE 2024)
 
-d) Seguridad Pública; y
+d) (DEROGADO, P.O. 27 DE JULIO DE 2024)
 
-e) Sistemas e Informática.
+e) (DEROGADO, P.O. 27 DE JULIO DE 2024)
 
-La designación de los integrantes del grupo de trabajo de Seguridad Pública, únicamente, la podrán tener los munícipes electos y los servidores públicos, de esa área y en funciones y designados por el Presidente Municipal en funciones. Por lo que queda prohibida cualquier representación a personas distintas a las mencionadas.
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2024)</small>
+
+El grupo de trabajo en materia de seguridad pública deberá integrarse únicamente por los munícipes electos para ocupar cargo en esa área, y por las personas servidoras públicas en funciones en esa área designados por la Presidenta o Presidente Municipal saliente, quedando prohibida cualquier representación a personas distintas a las mencionadas.
 
 ###### ARTÍCULO 9.
 
 El Presidente Municipal saliente y los titulares de las dependencias municipales y de los organismos paramunicipales, prestarán todo el apoyo necesario a la Comisión Municipal y a los grupos de trabajo, en materia de información, asesoría y documentación a su cargo.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2024)</small>
+
+Las personas titulares de las dependencias municipales y organismos paramunicipales deberán preparar la información e integrar los archivos documentales correspondientes a sus funciones, para que sea entregada al grupo de trabajo que haya integrado la Comisión Municipal.
+
 ###### ARTÍCULO 10.
 
 La Comisión Municipal, conocerá además del grado de avance en la formulación de los documentos y acciones que se establecen en el artículo 33 de la Ley del Municipio Libre del Estado de Colima.
 
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 11.
 
-La Comisión Municipal, declarará formalmente instalado el proceso de preparación de la transmisión del mando del gobierno municipal y procederá de inmediato a designar a los responsables de los grupos de trabajo señalados en los incisos a), b), c), d) y e) del artículo 8 de esta Ley, citando a los integrantes y a los responsables de los grupos de trabajo a la segunda sesión de la Comisión, a celebrarse dentro de los siguientes 5 días, para la presentación y aprobación de los calendarios de actividades de los grupos de trabajo.
+La Comisión Municipal, declarará formalmente instalado el proceso de preparación de la transmisión del mando del gobierno municipal y procederá de inmediato a designar a los responsables e integrantes de los grupos de trabajo cuya conformación hubiere acordado, y a quienes citará a la segunda sesión de la Comisión Municipal, a celebrarse dentro de los siguientes 5 días hábiles, para la presentación y aprobación de los calendarios de actividades de los grupos de trabajo.
 
-Los grupos de trabajo elaborarán un calendario de actividades que deberá ser aprobado por la Comisión dentro de los 5 días posteriores al inicio del proceso de preparación; una vez aprobado el mismo, deberá ser entregado oportunamente a los titulares de las dependencias municipales y de los organismos paramunicipales, con el propósito de que preparen la información, asesoría y documentación correspondiente, dentro de los plazos y formas previstos en el calendario mencionado.
+Los grupos de trabajo elaborarán un calendario de actividades que deberá ser aprobado por la Comisión Municipal dentro de los 5 días hábiles posteriores al inicio del proceso de preparación; una vez aprobado el mismo, deberá ser entregado oportunamente a las personas titulares de las dependencias municipales y de los organismos paramunicipales, con el propósito de que preparen la información, asesoría y documentación correspondiente, dentro de los plazos y formas previstos en el calendario mencionado.
 
-Los grupos de trabajo entregarán a la Comisión el reporte de sus acciones dentro del plazo previsto en los calendarios aprobados por la Comisión, y en todo caso, con la anticipación suficiente para que la Comisión disponga de los elementos para la elaboración del informe a que se refiere el artículo anterior.
+Los grupos de trabajo entregarán a la Comisión Municipal el reporte de sus acciones dentro del plazo previsto en los calendarios aprobados por la Comisión Municipal, y en todo caso, con la anticipación suficiente para que la Comisión Municipal disponga de los elementos para la elaboración del informe a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 2024)</small>
 
 ###### ARTÍCULO 12.
 
-La Comisión concluirá sus funciones a más tardar 10 días antes de la toma de posesión de las nuevas administraciones municipales y elaborará un informe detallado con el resultado de las acciones emprendidas, mismo que deberá ser entregado al Presidente Municipal en funciones y al electo, quien deberá hacerlo del conocimiento de los demás miembros del nuevo Cabildo, en su primera sesión ordinaria.
+La Comisión Municipal concluirá sus funciones a más tardar 3 días hábiles antes de la toma de posesión de las nuevas administraciones municipales y elaborará un informe detallado con el resultado de las acciones emprendidas, mismo que deberá ser entregado a la Presidenta o Presidente Municipal en funciones y a la electa o electo, quien deberá hacerlo del conocimiento de los demás miembros del nuevo Cabildo, en su primera sesión ordinaria.
 
 ###### ARTÍCULO 13.
 
@@ -297,7 +327,9 @@ Los servidores públicos entrantes deberán dejar constancia con su firma de los
 
 Corresponde al Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado, vigilar que el proceso de entrega recepción, se lleve a cabo conforme lo establece esta Ley, para ello tendrá además las facultades siguientes:
 
-I. Vigilar que la administración municipal saliente establezca el Comité Interno y en conjunto con la administración municipal entrante, la Comisión Municipal de Entrega Recepción, elaboren y ejecuten el calendario, el programa de trabajo respectivo y rindan los informes correspondientes.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2024)</small>
+
+I. Vigilar que se establezca la Comisión Municipal, se elaboren y ejecuten el calendario, el programa de trabajo respectivo y la rendición de informes correspondientes; y
 
 II. Requerir a la administración municipal saliente, la información y documentación necesaria para conocer el cumplimiento de las disposiciones de esta Ley.
 
@@ -330,6 +362,16 @@ En la comparecencia establecida en el artículo anterior, el órgano interno de 
 ###### ARTÍCULO 36.
 
 Una vez concluido el proceso de entrega-recepción, el representante del Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado advierte una irregularidad, inmediatamente deberá dar vista al Órgano Interno de Control, de la misma forma deberá presentar denuncia antes (sic) las autoridades competentes, de conformidad con lo dispuesto por la Ley General de Responsabilidades Administrativas, independientemente de las posibles responsabilidades de tipo penal o civil en que, en su caso, hubiere incurrido con motivo del desempeño de su función.
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2024)</small>
+
+###### ARTÍCULO 37.
+
+En atención en lo dispuesto por la Ley de Archivos del Estado de Colima, las personas servidoras públicas al concluir su empleo, cargo o comisión deberán garantizar la entrega de sus archivos a quien los sustituya, debiendo estar organizados y descritos de conformidad con los instrumentos de control y consulta archivísticos que identifiquen la función que les dio origen, en los términos de la Ley General de Archivos y la particular del Estado.
+
+Asimismo, las personas servidoras públicas deben de atender las disposiciones establecidas por la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima, así como en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Colima, para proteger y salvaguardar la información clasificada como confidencial o reservada.
+
+En caso de ser omisas a estas disposiciones en el proceso de entrega-recepción se aplicarán las sanciones establecidas en la Ley de Archivos del Estado de Colima, la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima y la Ley de Protección de Datos Personales para el Estado de Colima.
 
 T R A N S I T O R I O:
 
@@ -380,3 +422,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 RUBÉN PÉREZ ANGUIANO
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 473.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTREGA RECEPCIÓN DE LOS AYUNTAMIENTOS DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Los Ayuntamientos Municipales, adecuarán sus disposiciones reglamentarias, dentro de los 10 días naturales siguientes a la aprobación del presente Decreto.
