@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-equilibrio-ecologico-y-proteccion-al-ambiente-para-1331
 country: "mx"
 rank: "ley"
 publication_date: "2018-11-10"
-last_updated: "2024-07-06"
+last_updated: "2024-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2024.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 10 de noviembre de 2018.
 
@@ -321,13 +321,17 @@ XL. Promover y fomentar la investigación de protección del ambiente y la suste
 
 XLI. Fomentar e impulsar el desarrollo de proyectos o actividades de generación y uso de energías limpias y renovables, en donde los usos de los recursos naturales no estén reservados a la federación, conforme a los instrumentos jurídicos que para tal efecto celebre el Estado y en términos de la normatividad aplicable, y;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2024)</small>
 
-XLII. Promover y ejecutar campañas para arborizar las áreas urbanas que, bajo cualquier causa, carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas conforme a los estudios pertinentes; y
+XLII. Promover y ejecutar campañas para arborizar las áreas urbanas que, bajo cualquier causa, carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas conforme a los estudios pertinentes;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2024)</small>
 
-XLIII. La atención de los demás asuntos que, en materia de preservación del equilibrio ecológico y protección al ambiente, de energías y de cambio climático les concedan otros ordenamientos en la materia y que no estén otorgados expresamente a la Federación.
+XLIII. La atención de los demás asuntos que, en materia de preservación del equilibrio ecológico y protección al ambiente, de energías y de cambio climático les concedan otros ordenamientos en la materia y que no estén otorgados expresamente a la Federación; y
+
+> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2024)</small>
+
+XLIV. Promover y proponer a las dependencias y entidades de la administración pública estatal y municipal en el ámbito de sus competencias, para que, en sus procesos de adquisiciones, contratación y arrendamiento, adquieran preferentemente productos compuestos total o parcialmente de residuos valorizables o materias primas secundarias de conformidad con la Ley Estatal de Economía Circular.
 
 ###### Artículo 7.
 
@@ -3294,6 +3298,14 @@ SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 P.O. 6 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2315.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V Y VI; Y SE ADICIONA LA FRACCIÓN VII Y LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 97 DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 27 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2330.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XLII Y XLIII ; Y SE ADICIONA LA FRACCIÓN XLIV AL ARTÍCULO 06 DE LA LEY DE EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
