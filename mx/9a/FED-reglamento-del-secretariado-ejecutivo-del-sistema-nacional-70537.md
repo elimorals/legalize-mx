@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-secretariado-ejecutivo-del-sistema-nacional-7053
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-26"
-last_updated: "2009-10-26"
+last_updated: "2024-07-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70537&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2009-10-23"
 ---
 # REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA, PUBLICADO EN EL D.O.F. DE 29 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PUBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JULIO DE 2024 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 26 de octubre de 2009.
 
@@ -816,3 +818,19 @@ DÉCIMO SEGUNDO.- Las unidades administrativas del Secretariado Ejecutivo, entre
 DÉCIMO TERCERO.- Las referencias a las Direcciones Generales del Sistema Nacional de Información sobre Seguridad Pública; de la Academia Nacional de Seguridad Pública; de la Red Nacional de Telecomunicaciones y de Infraestructura y Equipamiento de Seguridad Pública, se entenderán al Centro Nacional de Información y a la Dirección General de Apoyo Técnico, según corresponda, en el ámbito de las atribuciones previstas en el presente Reglamento.
 
 Dado en la Residencia del Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintitrés de octubre de dos mil nueve.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Lic. Fernando Francisco Gómez Mont Urueta.- Rúbrica.- El Secretario de la Defensa Nacional, Guillermo Galván Galván.- Rúbrica.- El Secretario de Marina, Mariano Francisco Saynez Mendoza.- Rúbrica.- El Secretario de Seguridad Pública, Genaro García Luna.- Rúbrica.- El Secretario de la Función Pública, Salvador Vega Casillas.- Rúbrica.- El Secretario de Educación Pública, Alonso Lujambio Irazábal.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 29 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL SECRETARIADO EJECUTIVO DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA".]
+
+PRIMERO.- El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, publicado el 26 de octubre de 2009 en el Diario Oficial de la Federación, y se derogan todas aquellas disposiciones administrativas que se opongan al presente ordenamiento.
+
+TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se llevarán a cabo mediante movimientos compensados y no se requerirían recursos adicionales, por lo que la Secretaría de Seguridad y Protección Ciudadana debe sujetarse al presupuesto aprobado para el presente ejercicio fiscal y subsecuente, y no se incrementará su presupuesto regularizable.
+
+CUARTO.- Las atribuciones que se otorgan en decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones administrativas a las unidades administrativas del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública cuyas atribuciones se modifican por virtud del presente ordenamiento, se entenderán conferidas a las unidades administrativas que resulten competentes conforme a este decreto.
+
+QUINTO.- Los asuntos que se encuentren pendientes de resolución a la entrada en vigor de este ordenamiento, que conforme a este deban pasar de una unidad administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquellas a las que este decreto les atribuya la competencia respectiva.
