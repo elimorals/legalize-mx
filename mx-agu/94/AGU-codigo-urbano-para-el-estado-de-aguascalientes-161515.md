@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2024-07-18"
+last_updated: "2024-07-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "AGU"
 ---
 # CODIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE JULIO DE 2024 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2024.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 762 PUBLICADO EN EL P.O. DEL 18 DE JULIO DE 2024.]</small>
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
