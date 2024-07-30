@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-servicios-de-salud-del-instituto-167824"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-09-13"
-last_updated: "2024-06-07"
+last_updated: "2024-07-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167824&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-07-31"
 
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE JULIO DE 2024.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 13 de septiembre de 2023.
 
@@ -445,7 +445,9 @@ b) Coordinación de Contabilidad y Trámite de Erogaciones.
 
 c) Coordinación de Finanzas.
 
-d) Coordinación de Servicios de Administración.
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2024)</small>
+
+d) Coordinación de Servicios Generales.
 
 e) Coordinación de Abasto.
 
@@ -454,6 +456,14 @@ f) Coordinación de Recursos Humanos.
 g) Coordinación de Administración de Nómina Federalizada e IMSS-BIENESTAR.
 
 h) Coordinación de Tecnologías de la Información.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2024)</small>
+
+i) Coordinación de Recursos Materiales.
+
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2024)</small>
+
+j) Coordinación de Adquisiciones.
 
 > <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 14 DE FEBRERO DE 2024)</small>
 
@@ -901,7 +911,9 @@ V. Promover el fortalecimiento en la operación de los servicios de enfermería 
 
 VI. Asesorar sobre el desarrollo de nuevos procesos de la atención de enfermería dirigidos a la población objetivo.
 
-VII. Emitir opinión técnica de insumos terapéuticos y no terapéuticos que se requieran en la atención de la población objetivo en las unidades de IMSS-BIENESTAR, en vinculación con la Coordinación de Servicios de Administración.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2024)</small>
+
+VII. Emitir opinión técnica de insumos terapéuticos y no terapéuticos que se requieran en la atención de la población objetivo en las unidades de IMSS-BIENESTAR, en vinculación con la Coordinación de Servicios Generales.
 
 VIII. Proponer proyectos de dignificación de áreas para la prestación de servicios de salud en las que colabora enfermería acorde al análisis técnico, en los diferentes niveles de atención.
 
@@ -975,7 +987,9 @@ XV. Promover la capacitación continua del personal de salud de los diferentes n
 
 XVI. Coordinar la determinación, gestión y seguimiento de las necesidades de recursos humanos, equipo médico, mobiliario e insumos de salud de los programas de promoción de la salud, vigilancia epidemiológica, prevención y control de enfermedades, en vinculación con las coordinaciones de la Unidad de Administración y Finanzas.
 
-XVII. Coordinar la elaboración del catálogo de insumos y medicamentos con base al Compendio Nacional de Insumos para la Salud, que se aplicará en las unidades de salud y hospitales de IMSS-BIENESTAR por nivel de atención, de los procesos de promoción de la salud, vigilancia epidemiológica, prevención y control de enfermedades, en vinculación con la Coordinación de Servicios de Administración.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2024)</small>
+
+XVII. Coordinar la elaboración del catálogo de insumos y medicamentos con base al Compendio Nacional de Insumos para la Salud, que se aplicará en las unidades de salud y hospitales de IMSS-BIENESTAR por nivel de atención, de los procesos de promoción de la salud, vigilancia epidemiológica, prevención y control de enfermedades, en vinculación con la Coordinación de Servicios Generales.
 
 XVIII. Instrumentar la ejecución de proyectos de investigación operativa, relacionada con la promoción de la salud, vigilancia epidemiológica, prevención y control de enfermedades, en vinculación con la Coordinación de Educación e Investigación.
 
@@ -1089,7 +1103,9 @@ XIII. Formular el modelo de plantillas de recursos humanos de acuerdo con las ne
 
 XIV. Determinar un listado de medicamentos y otros insumos esenciales de uso en las unidades del primero, segundo y tercer nivel de IMSS-BIENESTAR, en vinculación con la Unidad de Administración y Finanzas, las Coordinaciones de Unidades de Primer Nivel, Unidades de Segundo Nivel, de Hospitales de Alta Especialidad y Programas Especiales y de Enfermería, y actualizarlo de acuerdo con las necesidades.
 
-XV. Coordinar la integración de necesidades de medicamentos y otros insumos esenciales que se aplicarán en las unidades del primero, segundo y tercer nivel de IMSS-BIENESTAR, acordes al catálogo nacional de insumos para la salud; en vinculación con la Coordinación de Servicios de Administración y la validación de las Coordinaciones de Unidades de Primer Nivel, Unidades de Segundo Nivel y de Hospitales de Alta Especialidad y Programas Especiales.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2024)</small>
+
+XV. Coordinar la integración de necesidades de medicamentos y otros insumos esenciales que se aplicarán en las unidades del primero, segundo y tercer nivel de IMSS-BIENESTAR, acordes al catálogo nacional de insumos para la salud; en vinculación con la Coordinación de Servicios Generales y la validación de las Coordinaciones de Unidades de Primer Nivel, Unidades de Segundo Nivel y de Hospitales de Alta Especialidad y Programas Especiales.
 
 XVI. Instrumentar las metas e indicadores de evaluación del desempeño de los procesos de atención médica aplicables a las unidades del primero, segundo y tercer nivel de IMSS-BIENESTAR.
 
@@ -1365,83 +1381,97 @@ XVII. Coordinar la elaboración y evaluación del presupuesto anual de gastos de
 
 XVIII. Elaborar los criterios generales y específicos para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados al IMSS-BIENESTAR, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás normativa aplicable de conformidad a sus atribuciones.
 
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2024)</small>
+
 ###### Artículo 39.
 
-Son facultades y atribuciones de la Coordinación de Servicios de Administración:
+Son facultades y atribuciones de la Coordinación de Servicios Generales:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+I. Proponer las políticas, normas, planes, programas, proyectos y sistemas que requieran ser sometidos a la consideración y/o autorización de la persona titular de la Unidad de Administración y Finanzas, respecto a servicios generales, con el propósito de establecer una óptima organización que permita llevar el control de los procedimientos internos para realizar la contratación y administración de los servicios.
 
-I. Proponer las políticas, normas, planes, programas, proyectos y sistemas que requieran ser sometidos a la consideración y/o autorización de la persona titular de la Unidad de Administración y Finanzas, respecto a servicios generales, recursos materiales y adquisiciones, con el propósito de establecer una óptima organización que permita llevar el control de los procedimientos internos para realizar la contratación de los servicios y la adquisición de bienes por las unidades administrativas de IMSS-BIENESTAR.
+II. Dirigir los planes y programas de alcance nacional en relación con la contratación y administración de los servicios generales y servicios complementarios, con la finalidad de homologar los criterios de operación.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+III. Colaborar con la Coordinación de Adquisiciones en la integración del Programa Anual de Adquisiciones, Arrendamientos y Servicios.
 
-II. Dirigir los planes y programas de alcance nacional en relación con la contratación y administración de los servicios generales y de administración de muebles e inmuebles, seguridad y resguardo de inmuebles, conservación y servicios complementarios, con la finalidad de homologar los criterios de operación.
+IV. Solicitar los procedimientos de contratación de los servicios generales y complementarios que sean requeridos para las Oficinas Centrales, Coordinaciones Estatales, Hospitales, Clínicas y/o inmuebles que formen parte de IMSS-BIENESTAR.
 
-III. Establecer los programas de Protección Civil con base en la legislación y disposiciones reglamentarias emitidas por la Secretaría de Gobernación, con el objeto de que sean aplicados en las unidades administrativas de IMSS-BIENESTAR y se cuente con protocolos de actuación antes, durante y después de cualquier situación de emergencia.
+V. Coordinar la operación y administración de los servicios generales y participar en conjunto con demás Coordinaciones involucradas de los planes estratégicos de adquisición y abastecimiento de bienes de consumo.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+VI. Coordinar la integración del proyecto de presupuesto anual de operación, para el ejercicio de las funciones y cumplimiento de los objetivos de IMSS BIENESTAR, así como dar seguimiento al comportamiento del ejercicio del presupuesto autorizado.
 
-IV. Coordinar la integración del Programa Anual de Adquisiciones, Arrendamientos y Servicios con los requerimientos determinados por las unidades administrativas de IMSS-BIENESTAR, con la finalidad de presentarlo al Comité de Adquisiciones, Arrendamientos y Servicios.
+VII. Coordinar las solicitudes de comprobación y trámite de erogaciones derivadas de las contrataciones de servicios y la adquisición de bienes.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+VIII. Establecer los esquemas de identificación de necesidades y áreas de oportunidad, con el objeto de que se optimice el uso de los recursos en los que IMSS-BIENESTAR considere prioritarios, urgentes y de atención inmediata.
 
-V. Establecer, en el ámbito de su responsabilidad, las directrices para las Contrataciones Públicas en materia de adquisiciones, arrendamientos y servicios, a efecto de que se instrumenten los procesos apegados a la normatividad para proveer de los insumos y servicios requeridos por las unidades administrativas de IMSS-BIENESTAR.
+IX. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previa validación de la Unidad Jurídica.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+X. Recibir, calificar, custodiar y, en su caso, ordenar la cancelación de las fianzas relacionadas con los contratos y convenios que celebre por la adquisición de bienes y la prestación de servicios y aquéllas que reciba en el ejercicio de sus atribuciones.
 
-VI. Validar, en el ámbito de su competencia, las solicitudes de adquisiciones, arrendamientos y servicios que emitan las áreas requirentes de IMSS-BIENESTAR, con el objeto de que se elaboren de conformidad con las leyes, reglamentos, políticas, bases, lineamientos, acuerdos institucionales y demás disposiciones vigentes dictadas por los órganos superiores, además de determinar la posibilidad de realizar una consolidación interna de requerimientos, buscando con ello, garantizar las mejores condiciones del mercado.
+XI. Determinar los programas necesarios para la administración de los servicios generales.
 
-> <small>(REFORMADA, D.O.F. 3 DE MAYO DE 2024)</small>
+XII. Determinar la terminación de manera anticipada, o bien, en cualquier momento, declarar la rescisión administrativa de los contratos de servicios generales, y complementarios previa orientación de la Unidad Jurídica, cuando así proceda; así como, determinar la suspensión de la prestación de servicios contratados; todo lo anterior, de conformidad con las disposiciones jurídicas aplicables.
 
-VII. Llevar a cabo los procedimientos de contratación, desde la investigación de mercado hasta la contratación de la adquisición y mantenimiento de bienes muebles, inmuebles cuando no impliquen una modificación al mismo, equipo médico, equipo electrónico, equipo electromecánico, parque vehicular; además de la contratación de los servicios generales, servicios médicos, servicios médicos integrales, servicios complementarios así como el programa de aseguramiento de inmuebles entre otros, que sean requeridos para las oficinas centrales y los hospitales que formen parte de IMSS-BIENESTAR, con la finalidad de definir las líneas rectoras en los procesos operativos.
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+###### Artículo 39 Bis.
 
-VIII. Coordinar la operación y participar de los planes estratégicos de adquisición y abastecimiento de bienes de consumo.
+Son facultades y atribuciones de la Coordinación de Recursos Materiales:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+I. Proponer las políticas, normas, planes, programas, proyectos y sistemas que requieran ser sometidos a la consideración y/o autorización de la persona titular de la Unidad de Administración y Finanzas, respecto a recursos materiales, con el propósito de establecer una óptima organización que permita llevar el control de los procedimientos internos para realizar la contratación de los servicios y la adquisición de bienes.
 
-IX. Coordinar la integración del proyecto de presupuesto anual de operación, para el ejercicio de las funciones y cumplimiento de los objetivos de IMSS BIENESTAR, así como dar seguimiento al comportamiento del ejercicio del presupuesto autorizado.
+II. Dirigir los planes y programas de alcance nacional en relación con la contratación y administración de servicios, administración de muebles e inmuebles, resguardo de inmuebles, conservación y servicios complementarios, con la finalidad de homologar los criterios de operación.
 
-X. Coordinar las solicitudes de comprobación y trámite de erogaciones derivadas de las contrataciones de servicios y la adquisición de bienes.
+III. Establecer los programas de Protección Civil con base en la legislación y disposiciones reglamentarias emitidas por la Secretaría de Seguridad y Protección Ciudadana, con el objeto de que sean aplicados en las unidades administrativas de IMSS-BIENESTAR y se cuente con protocolos de actuación antes, durante y después de cualquier situación de emergencia.
 
-XI. Validar los proyectos y programas anuales de arrendamiento inmobiliario del IMSS- BIENESTAR y presentar a la persona titular de la Unidad de Administración y Finanzas para su aprobación.
+IV. Colaborar con la Coordinación de Adquisiciones en la integración del Programa Anual de Adquisiciones, Arrendamientos y Servicios.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+V. Solicitar los procedimientos de contratación, de la adquisición y mantenimiento de bienes muebles, inmuebles cuando no impliquen una modificación al mismo, así como el programa de aseguramiento de inmuebles entre otros, que sean requeridos Oficinas Centrales, Coordinaciones Estatales, Hospitales, Clínicas y/o inmuebles que formen parte de IMSS-BIENESTAR.
 
-XII. Llevar a cabo el registro, transferencia y baja de los bienes capitalizables propiedad de IMSS-BIENESTAR, manteniendo siempre un control sobre los recursos materiales.
+VI. Coordinar la operación y administración de los servicios y arrendamientos, y participar en conjunto con las demás Coordinaciones involucradas de los planes estratégicos de adquisición y abastecimiento de bienes de consumo.
 
-XIII. Coordinar el desarrollo e implementación del Sistema Institucional de Archivos que propicie la organización, administración, conservación y localización de los expedientes.
+VII. Participar con la Coordinación de Servicios Generales en la integración del proyecto de presupuesto anual de operación, para el ejercicio de las funciones y cumplimiento de los objetivos de IMSS BIENESTAR, así como dar seguimiento al comportamiento del ejercicio del presupuesto autorizado.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+VIII. Coordinar las solicitudes de comprobación y trámite de erogaciones derivadas de las contrataciones de servicios y la adquisición de bienes.
 
-XIV. Establecer los esquemas de identificación de necesidades y áreas de oportunidad, con el objeto de que se optimice el uso de los recursos en los que IMSS-BIENESTAR considere prioritarios, urgentes y de atención inmediata.
+IX. Validar los proyectos y programas anuales de arrendamiento inmobiliario de IMSS- BIENESTAR y presentar a la persona titular de la Unidad de Administración y Finanzas para su aprobación.
 
-XV. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previa validación de la Unidad Jurídica.
+X. Llevar a cabo el registro, transferencia y baja de los bienes capitalizables propiedad de IMSS-BIENESTAR, manteniendo siempre un control sobre los recursos materiales.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+XI. Coordinar el desarrollo e implementación del Sistema Institucional de Archivos que propicie la organización, administración, conservación y localización de los expedientes.
 
-XVI. Recibir, calificar, custodiar y, en su caso, ordenar la cancelación de las fianzas relacionadas con los contratos y convenios que celebre por la adquisición de bienes y la prestación de servicios y aquéllas que reciba en el ejercicio de sus atribuciones.
+XII. Establecer los esquemas de identificación de necesidades y áreas de oportunidad, con el objeto de que se optimice el uso de los recursos en los que IMSS-BIENESTAR considere prioritarios, urgentes y de atención inmediata.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+XIII. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previa validación de la Unidad Jurídica.
 
-XVII. Colaborar con la Coordinación de Programación y Presupuesto en la elaboración e integración del programa de inversiones de bienes muebles de IMSS-BIENESTAR.
+XIV. Recibir, calificar, custodiar y, en su caso, ordenar la cancelación de las fianzas relacionadas con los contratos y convenios que celebre por la adquisición de bienes y la prestación de servicios y aquéllas que reciba en el ejercicio de sus atribuciones.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+XV. Colaborar con la Coordinación de Programación y Presupuesto en la elaboración e integración del programa de inversiones de bienes muebles de IMSS-BIENESTAR.
 
-XVIII. Determinar los programas necesarios para la administración de los recursos materiales y conservación, así como los servicios generales.
+XVI. Determinar los programas necesarios para la administración de los recursos materiales y conservación.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+XVII. Elaborar los criterios generales y específicos para la administración del patrimonio, incluido lo correspondiente a inmuebles federales; así como para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados a IMSS-BIENESTAR, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás normativa aplicable de conformidad a sus atribuciones.
 
-XIX. Elaborar los criterios generales y específicos para la administración del patrimonio, incluido lo correspondiente a inmuebles federales; así como para la asignación, ejercicio, comprobación y rendición de cuentas de los recursos que le sean transferidos o aportados a IMSS-BIENESTAR, en términos de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, y demás normativa aplicable de conformidad a sus atribuciones.
+XVIII. Coordinar que los donativos y pagos extraordinarios se lleven a cabo conforme a las disposiciones legales aplicables y verificar que los mismos se apliquen a los fines señalados en el Acuerdo de la Junta de Gobierno respectivo y a lo autorizado por la Dirección General.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+XIX. Determinar la terminación de manera anticipada, o bien, en cualquier momento, declarar la rescisión administrativa de los contratos de adquisiciones, arrendamientos y servicios, previa orientación de la Unidad Jurídica, cuando así proceda; así como, determinar la suspensión de la prestación de servicios contratados; todo lo anterior, de conformidad con las disposiciones jurídicas aplicables.
 
-XX. Coordinar que los donativos y pagos extraordinarios se lleven a cabo conforme a las disposiciones legales aplicables y verificar que los mismos se apliquen a los fines señalados en el Acuerdo de la Junta de Gobierno respectivo y a lo autorizado por la Dirección General.
+> <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 2024)</small>
 
-> <small>(ADICIONADA, D.O.F. 7 DE JUNIO DE 2024)</small>
+###### Artículo 39 Ter.
 
-XXI. Determinar la terminación de manera anticipada, o bien, en cualquier momento, declarar la rescisión administrativa de los contratos de adquisiciones, arrendamientos y servicios, previa orientación de la Unidad Jurídica, cuando así proceda; así como, determinar la suspensión de la prestación de servicios contratados; todo lo anterior, de conformidad con las disposiciones jurídicas aplicables.
+Son facultades y atribuciones de la Coordinación de Adquisiciones:
+
+I. Proponer las políticas, normas, planes, programas, proyectos y sistemas que requieran ser sometidos a la consideración y/o autorización de la persona titular de la Unidad de Administración y Finanzas, respecto a los procedimientos de adquisiciones, con el propósito de establecer una óptima organización que permita llevar el control de los procedimientos internos para realizar la contratación de los servicios y la adquisición de bienes por las unidades administrativas de IMSS-BIENESTAR.
+
+II. Coordinar la integración del Programa Anual de Adquisiciones, Arrendamientos y Servicios con los requerimientos determinados por las unidades administrativas de IMSS-BIENESTAR, con la finalidad de presentarlo al Comité de Adquisiciones, Arrendamientos y Servicios.
+
+III. Establecer, en el ámbito de su responsabilidad, las directrices para las Contrataciones Públicas en materia de adquisiciones, investigaciones de mercado, y elaboración de contratos, a efecto de que se instrumenten los procesos apegados a la normatividad para proveer de los insumos y servicios requeridos por las unidades administrativas de IMSS-BIENESTAR.
+
+IV. Validar, en el ámbito de su competencia, las solicitudes de adquisiciones, arrendamientos y servicios que emitan las áreas requirentes de IMSS-BIENESTAR, con el objeto de que se elaboren de conformidad con las leyes, reglamentos, políticas, bases, lineamientos, acuerdos institucionales y demás disposiciones vigentes dictadas por los órganos superiores, además de determinar la posibilidad de realizar una consolidación interna de requerimientos, buscando con ello, garantizar las mejores condiciones del mercado.
+
+V. Llevar a cabo los procedimientos de contratación, desde la investigación de mercado hasta la contratación de la adquisición y mantenimiento de bienes muebles, inmuebles cuando no impliquen una modificación al mismo, equipo médico, equipo electrónico, equipo electromecánico, parque vehicular; además de la contratación de los servicios generales, servicios médicos, servicios médicos integrales, servicios complementarios así como el programa de aseguramiento de inmuebles entre otros, que sean requeridos para las oficinas centrales y los hospitales que formen parte de IMSS-BIENESTAR, con la finalidad de definir las líneas rectoras en los procesos operativos.
+
+VI. Suscribir los contratos, convenios y acuerdos relativos al ejercicio de sus facultades, así como, los demás documentos que impliquen actos de administración, de acuerdo con las disposiciones jurídicas aplicables y previa validación de la Unidad Jurídica.
 
 ###### Artículo 40.
 
@@ -2883,11 +2913,15 @@ VII. Elaborar y mantener actualizado el inventario de bienes muebles e inmuebles
 
 VIII. Llevar a cabo los procesos de afectación, baja y destino final de los bienes de consumo y desechos propiedad de IMSS-BIENESTAR en la Coordinación Estatal conforme a la normatividad aplicable.
 
-IX. Gestionar, coordinar, supervisar, difundir y orientar a todas las áreas administrativas, en coordinación con la Coordinación de Servicios de Administración, respecto de las disposiciones y coberturas vigentes en materia de aseguramiento y afianzamiento.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2024)</small>
+
+IX. Gestionar, coordinar, supervisar, difundir y orientar a todas las áreas administrativas, en coordinación con la Coordinación de Servicios Generales, respecto de las disposiciones y coberturas vigentes en materia de aseguramiento y afianzamiento.
 
 X. Gestionar, coordinar, controlar y evaluar el servicio de seguridad y vigilancia.
 
-XI. Integrar el Comité de Protección Civil, alineado a la normativa en la materia y los criterios establecidos por la Coordinación de Servicios de Administración, así como verificar que cada uno de las unidades de salud y hospitales, cuenten con sus unidades internas de Protección Civil.
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2024)</small>
+
+XI. Integrar el Comité de Protección Civil, alineado a la normativa en la materia y los criterios establecidos por la Coordinación de Servicios Generales, así como verificar que cada uno (sic) de las unidades de salud y hospitales, cuenten con sus unidades internas de Protección Civil.
 
 XII. Coordinar la implementación y funcionamiento de los equipos y los sistemas informáticos de IMSS-BIENESTAR, la red de teleproceso y los servicios de apoyo tecnológico y asesoría, requeridos por las unidades de salud y hospitales, sus áreas administrativas y las áreas de la Coordinación Estatal.
 
@@ -2939,9 +2973,9 @@ XXXV. Supervisar la actualización permanente de los inventarios de los almacene
 
 XXXVI. Planear, organizar y dirigir las medidas de seguridad y vigilancia de los bienes recibidos para su almacenaje, custodia y distribución.
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2024)</small>
 
-XXXVII. Realizar los procedimientos de adquisición de bienes, arrendamientos y contratación de servicios, así como los de contratación de obra pública y servicios relacionados con las mismas, de conformidad con la normativa aplicable, de acuerdo con su presupuesto autorizado y previa autorización de la Coordinación de Servicios de Administración o de la Coordinación de Proyectos y Construcción de Obra (sic), según corresponda.
+XXXVII. Realizar los procedimientos de adquisición de bienes, arrendamientos y contratación de servicios, así como los de contratación de obra pública y servicios relacionados con las mismas, de conformidad con la normativa aplicable, de acuerdo con su presupuesto autorizado y previa autorización de la Coordinación de Servicios Generales o de la Coordinación de Proyectos y Construcción de Obra, según corresponda.
 
 XXXVIII. Aprobar las cuentas por pagar conforme al procedimiento para la recepción, glosa y aprobación de documentos presentados para trámite de pago por Fondo Fijo de IMSS-BIENESTAR.
 
@@ -3168,3 +3202,15 @@ D.O.F. 7 DE JUNIO DE 2024.
 PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
 
 SEGUNDO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL PARA EL BIENESTAR (IMSS-BIENESTAR)”.]
+
+PRIMERO. La presente modificación entrará en vigor al día siguiente de su aprobación por la Junta de Gobierno.
+
+SEGUNDO. Cualquier referencia que se realice a la Coordinación de Servicios de Administración en las Políticas, Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Servicios de Servicios de Salud del Instituto Mexicano del Seguro Social para el Bienestar (IMSS-BIENESTAR) y en cualesquiera acto, disposición o instrumento jurídico, se entenderá referida a las Coordinaciones de Servicios Generales, Recursos Materiales o Adquisiciones, según sus atribuciones.
+
+TERCERO. Cualquier procedimiento administrativo que a la fecha se encuentren (sic) en trámite ante la Coordinación de Servicios de Administración será concluido por las Coordinaciones de Servicios Generales, Recursos Materiales o Adquisiciones, según corresponda al ámbito de sus atribuciones, de conformidad con las disposiciones jurídicas aplicables.
+
+CUARTO. La presente modificación deberá ser publicada en el Diario Oficial de la Federación.
