@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-jovenes-emprendedores-del-estado-de-morelos-89287"
 country: "mx"
 rank: "ley"
 publication_date: "2012-09-29"
-last_updated: "2015-07-01"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JÓVENES EMPRENDEDORES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 29 de agosto de 2012.
 
@@ -36,6 +36,8 @@ Que el Congreso del Estado se ha servido enviarme para su promulgación lo sigui
 LA QUINCUAGÉSIMA PRIMERA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LAS FACULTADES QUE LE OTORGA EL ARTÍCULO 40, FRACCIÓN II, DE LA CONSTITUCIÓN POLÍTICA LOCAL, Y,
 
 I.- DEL PROCESO LEGISLATIVO.
+
+[...]
 
 Por lo anteriormente expuesto, esta Soberanía ha tenido a bien expedir la siguiente:
 
@@ -60,6 +62,10 @@ c) Promover la inserción de los jóvenes al mundo empresarial
 ###### Artículo 2.
 
 Para promover el desarrollo productivo de las micro y pequeñas empresas innovadoras, creativas y competitivas creadas por jóvenes, el Gobierno del Estado deberá generar condiciones de competencia en igualdad de oportunidades y estimular su capacidad emprendedora, para así liberar las potencialidades creativas y aportar al sostenimiento de las fuentes productivas y a un desarrollo regional equilibrado.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+Las instituciones de Educación Superior del Estado de Morelos, que cuenten con las capacidades técnicas y tecnológicas, de recursos humanos, infraestructura, y de vinculación, podrán desarrollar programas integrales para la creación, orientación, capacitación, profesionalización, e impulso y seguimiento de los proyectos empresariales presentados por los emprendedores del estado de Morelos.
 
 ###### Artículo 3.
 
@@ -131,43 +137,49 @@ VII. Proyecto incubado de negocios.- Es un documento escrito elaborado por un Em
 
 ### CAPÍTULO TERCERO. DE LAS AUTORIDADES Y ÓRGANOS COMPETENTES
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 6.
 
 La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado por conducto de las siguientes dependencias en el ámbito de sus competencias:
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
 
-I.- La Secretaría de Economía;
+I.- La Secretaría de Desarrollo Económico y del Trabajo;
 
-II.- La Secretaría de Educación
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2015)</small>
+II.- La Secretaría de Educación, y
 
-III.- La Secretaría del Trabajo.
+III.- (DEROGADA, P.O. 31 DE JULIO DE 2024)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 7.
 
-A la secretaría de Economía le corresponde:
+A la Secretaría de Desarrollo Económico y del Trabajo le corresponde:
 
 a) Promover y direccionar el desarrollo económico del estado, impulsando la actividad productiva a través de procesos de creación de empresas competitivas, creativas e innovadoras, articuladas con las cadenas y clusters productivos reales relevantes para las distintas regiones de la entidad y con un alto nivel de planeación y visión a largo plazo;
 
 b) Fortalecer los procesos empresariales que contribuyan al desarrollo local, regional y estatal;
 
-c) Coadyuvar con las diferentes instituciones gubernamentales, empresariales y asociaciones de la sociedad civil, con la finalidad de desarrollar estrategias orientadas a vincular y financiar los proyectos innovadores, creativos y competitivos, para lograr su consolidación.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
+
+c) Coadyuvar con las diferentes instituciones gubernamentales, de educación superior, centros empresariales y asociaciones de la sociedad civil, con la finalidad de desarrollar estrategias orientadas a vincular y financiar los proyectos empresariales innovadores, creativos y competitivos, para lograr su consolidación.
 
 d) Establecer mecanismos para el rápido desarrollo de la cultura emprendedora y empresarial en la población joven de México a través del establecimiento de programas de simplificación administrativa, compensación y estímulo al capital joven, identificado por su administración operación y destino entre otros mecanismos institucionales que apoyen a la viabilidad y continuidad de la iniciativa empresarial juvenil.
 
-e) Establecer un programa estatal de asesoramiento y mentoría a la iniciativa joven mediante la creación de incubadoras, asesoramientos y generación de estudios de factibilidad, desarrollados por las cámaras especializadas en los mismos, para la planeación, investigación, administración y mejora regulatoria.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
+
+e) Establecer un programa estatal de asesoramiento y mentoría a la iniciativa joven mediante la creación de incubadoras, centros de atención empresarial y generación de estudios de factibilidad, desarrollado por las cámaras especializadas en los mismos y por las Instituciones de Educación Superior del Estado de Morelos que cuenten con las capacidades técnicas y tecnológicas, de recursos humanos, infraestructura, y de vinculación, para la planeación, investigación, coordinación, validación y mejora regulatoria de dichas incubadoras y centros de atención empresarial, así como las acciones de impulso y seguimiento a las micro, pequeñas y medianas empresas del estado de Morelos, que garanticen la viabilidad y el correcto funcionamiento y coordinación de las incubadoras y de dichos centros.
 
 f) Dar el seguimiento para articular los esfuerzos que en materia regulatoria, estímulos y coinversiones se lleven a cabo para el cumplimiento de lo propuesto en la presente ley.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 8.
 
-la Secretaría del Trabajo en coordinación con la Secretaría de Economía deberá fomentar, promover y desarrollar programas de capacitación para el manejo de las relaciones obrero-patronales y cultura laboral, impositiva y jurídico administrativa mediante enlaces con organizaciones, cámara y/o dependencias afines.
+La Secretaría de Desarrollo Económico y del Trabajo deberá fomentar, promover y desarrollar programas de capacitación para el manejo de las relaciones obrero-patronales y cultura laboral, impositiva y jurídico administrativa mediante enlaces con organizaciones, cámaras y/o dependencias afines.
 
 ###### Artículo 9.
 
@@ -250,3 +262,13 @@ P.O. 1 DE JULIO DE 2015.
 PRIMERO.- Remítase el presente decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO VEINTIOCHO POR EL QUE SE REFORMAN Y ADICIONAN DISPOSICIONES DE LA LEY DE JÓVENES EMPRENDEDORES DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan las disposiciones de igual o menor grado que contravengan lo dispuesto en el presente Decreto.
