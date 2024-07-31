@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-149938"
 country: "mx"
 rank: "ley"
 publication_date: "2021-06-23"
-last_updated: "2024-06-26"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 23 de junio de 2021.
 
@@ -707,7 +707,9 @@ XVIII. Integrar y mantener actualizado un sistema de información y registro de 
 
 XIX. Emitir el informe de adoptabilidad de niñas, niños o adolescentes en términos del reglamento de esta ley.
 
-XX. Autorizar, certificar, llevar un registro y supervisar periódicamente los centros de asistencia social en coordinación con la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, para verificar el cumplimiento de la protección y restitución integral de los derechos de niñas, niños y adolescentes en acogimiento residencial.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XX. Autorizar, certificar, llevar un registro y supervisar periódicamente los centros de asistencia social en coordinación con la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, para verificar el cumplimiento de la protección y restitución integral de los derechos de niñas, niños y adolescentes en acogimiento residencial. Sin perjuicio de lo anterior, a dicha supervisión podrá asistir conjuntamente personal del Sistema para el Desarrollo Integral de la Familia en Yucatán, en términos de lo establecido en el Código de Familia para el Estado de Yucatán.
 
 XXI. Promover acciones colectivas ante los órganos jurisdiccionales competentes, con el objeto de que estos ordenen a los medios de comunicación locales que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva los derechos de niñas, niños y adolescentes y, en su caso, reparen los daños ocasionados.
 
@@ -1058,3 +1060,11 @@ Artículo primero. Este decreto entrará en vigor al día siguiente de su public
 Clausula derogatoria
 
 Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este decreto.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 801/2024 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN, EN MATERIA DE SUPERVISIÓN Y CUIDADO DE LAS NIÑAS, NIÑOS Y ADOLESCENTES SUJETOS A TUTELA PÚBLICA POR PARTE DEL ESTADO”.]
+
+Entrada en vigor
+
+Artículo único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
