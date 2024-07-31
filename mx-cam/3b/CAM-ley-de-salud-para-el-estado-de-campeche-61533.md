@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2024-07-24"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -189,9 +189,9 @@ X. Proporcionar orientación a la población sobre la importancia de la alimenta
 
 XI. Impulsar el bienestar y el desarrollo de las familias y comunidades indígenas que propicien el desarrollo de sus potencialidades político sociales y culturales; con su participación y tomando en cuenta sus valores y organización social;
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
 
-XII. Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas;
+XII. Promover el conocimiento y desarrollo de la medicina tradicional indígena y su práctica en condiciones adecuadas en ese sector;
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 2024)</small>
 
@@ -200,6 +200,10 @@ XIII. Diseñar y ejecutar políticas públicas que propicien la alimentación nu
 > <small>(ADICIONADA, P.O. 26 DE MARZO DE 2024)</small>
 
 XIV. Promover la creación de programas de atención integral para la atención de las víctimas y victimarios de acoso y violencia escolar, en coordinación con las autoridades educativas, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2024)</small>
+
+XV. Promover el desarrollo de los servicios de salud con base en la integración de las Tecnologías de la Información y las Comunicaciones para ampliar la cobertura y mejorar la calidad de atención a la salud.
 
 ###### Artículo 6.
 
@@ -222,6 +226,10 @@ VII. Coordinar el proceso de programación de las actividades de salud en el Est
 VIII. Formular recomendaciones a las dependencias y entidades competentes sobre la asignación de los recursos que requieran los programas de salud en el Estado;
 
 IX. Impulsar, en el ámbito estatal, las actividades científicas y tecnológicas en el campo de la salud;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2024)</small>
+
+IX Bis. Promover la incorporación, uso y aprovechamiento de las Tecnologías de la Información y de las Comunicaciones en los servicios de salud;
 
 X. Coadyuvar con las dependencias y entidades federales competentes en la regulación y control de la transferencia de tecnología en el área de salud;
 
@@ -627,6 +635,10 @@ I. Procedimientos que permitan la participación activa de la familia en la prev
 
 II. Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea el alimento exclusivo durante los primeros seis meses y complementario hasta avanzado el segundo año de vida, siempre y cuando no se ponga en riesgo la salud del menor y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno-infantil;
 
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2024)</small>
+
+II Bis. Acciones de orientación y vigilancia institucional para impulsar la instalación de lactarios, entendiéndose estos como un espacio digno, privado, higiénico y accesible para que las mujeres en periodo de lactancia, amamanten o extraigan y conserven adecuadamente su leche en los centros de trabajo que ocupan las oficinas de las Secretarías, Dependencias, Instituciones y Organismos de los Poderes Ejecutivo, Legislativo, Judicial, Órganos Autónomos y los Ayuntamientos del Estado;
+
 III. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de cinco años de edad.
 
 > <small>(ADICIONADA, P.O. 2 DE JUNIO DE 2022)</small>
@@ -674,6 +686,10 @@ Artículo 63 bis.- La atención a la salud de la mujer comprende principalmente 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2019)</small>
 
 Artículo 63 ter.- La Secretaría Estatal, en coordinación con las instituciones del sector salud promocionará los programas de prevención, detección y tratamiento para atender la salud de la mujer de manera integral.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 63 quater.- La Secretaría Estatal promoverá la realización de jornadas itinerantes a fin de garantizar la prevención, detección, diagnóstico y control oportuno del cáncer mama en las comunidades rurales e indígenas del Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE MARZO DE 2024)</small>
 
@@ -2914,3 +2930,23 @@ P.O. 24 DE JULIO DE 2024.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 374 POR EL QUE "SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 61 Y EL ARTÍCULO 63 QUATER A LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Secretaría de Salud estatal adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio fiscal correspondiente.
+
+Artículo Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 375 POR EL QUE “SE REFORMA LA FRACCIÓN XII Y SE ADICIONA UNA FRACCIÓN XV AL ARTÍCULO 5 Y UNA FRACCIÓN IX BIS AL ARTÍCULO 6 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Secretaría de Salud estatal adoptará las medidas pertinentes para la observancia de lo dispuesto en el presente decreto, de conformidad con la disponibilidad presupuestal del ejercicio fiscal correspondiente.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
