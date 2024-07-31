@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-18777
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2017-03-16"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18777&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de diciembre de 2000.
 
@@ -661,6 +661,10 @@ No serán objeto de evaluación las condiciones establecidas por las convocantes
 
 Si resultare que dos o más proposiciones son técnica y económicamente solventes porque reúne, conforme a los criterios de adjudicación establecidos en las bases de licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y garanticen satisfactoriamente el cumplimiento de las obligaciones respectivas, el contrato se adjudicará de entre estos oferentes a quien presente la proposición cuyo precio sea el más bajo.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+En caso de que el precio ofrecido por dos o más oferentes, además de ser el más bajo, también sea el mismo, el contrato se adjudicará preferentemente de entre estos, al que tenga su domicilio fiscal en el Estado de Morelos.
+
 La convocante emitirá un dictamen que servirá como base para el fallo, en el que se hará constar una reseña cronológica de los actos del procedimiento, el análisis de las proposiciones y las razones para admitirlas o desecharlas.
 
 ###### ARTÍCULO 36.
@@ -723,6 +727,10 @@ d) Se trate de consultorías o servicios profesionales cuya difusión pudiera af
 
 En cualquier supuesto se convocará a las personas que cuenten con capacidad de respuesta inmediata, técnica y económica.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+En caso de que dos o más contratistas reúnan los requisitos a que se refiere este artículo, el contrato se adjudicará preferentemente de entre estos, al que tenga su domicilio fiscal en el Estado de Morelos.
+
 ###### ARTÍCULO 40.
 
 Las Dependencias, Secretaría o Ayuntamientos, bajo su responsabilidad y en su caso, podrán llevar a cabo obra pública y servicios relacionados con las mismas así como consultorías o servicios profesionales, a través del procedimiento de licitación restringida o por adjudicación directa, cuando el importe de cada operación no exceda de los montos máximos que al efecto se establecerán en los Presupuestos de Egresos contemplados en el ejercicio fiscal vigente, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto de excepción a la licitación pública. En este caso no será necesario que satisfagan los requisitos del artículo 38 de la presente Ley.
@@ -739,7 +747,7 @@ En materia de obra pública, la autorización de la persona Titular de las Depen
 
 ###### ARTÍCULO 41.
 
-El procedimiento de licitación restringida, según sea el caso, se sujetara a lo siguiente:
+El procedimiento de licitación restringida, según sea el caso, se sujetará a lo siguiente:
 
 I. El acto de presentación y apertura de los sobres que contengan las proposiciones se llevará a cabo en dos etapas respectivamente, para lo cual la apertura de los sobres podrá hacerse sin la presencia de los correspondientes oferentes, pero invariablemente se invitará a un representante del órgano interno de control de las Dependencias, Secretaría o Ayuntamientos, en su caso;
 
@@ -752,6 +760,10 @@ IV. Los interesados que acepten participar, lo manifestarán por escrito y queda
 V. Los plazos para la presentación de las propuestas se fijarán para cada operación atendiendo al monto, características, especialidad, condiciones y complejidad de los trabajos, y
 
 VI. A las demás disposiciones de la licitación pública de este Título que, en lo conducente, resulten aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+En caso de que dos o más contratistas reúnan los requisitos a que se refiere este artículo, el contrato se adjudicará preferentemente de entre estos, al que tenga su domicilio fiscal en el Estado de Morelos.
 
 ### Capítulo Cuarto. De las Consultorías o de los Servicios Profesionales
 
@@ -796,6 +808,10 @@ I. La solidez y reputación de oferentes, medidas por la cantidad y calidad de s
 II. La competencia técnica del oferente, medida por la preparación, experiencia e idoneidad del personal clave propuesto para la prestación de los servicios; y
 
 III. La conveniencia de la metodología, sistemas y tecnologías propuestos, así como la profundidad y extensión de los estudios ofrecidos;
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+En caso de que dos o más oferentes reúnan los requisitos anteriormente mencionados, se elegirá de entre estos, preferentemente al que tenga su domicilio fiscal en el Estado de Morelos.
 
 C) Definición de los servicios:
 
@@ -1436,3 +1452,13 @@ TERCERO. A partir de la entrada en vigor del presente, se derogan todas y cada u
 CUARTO. Dentro de un plazo no mayor a 90 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, las adecuaciones a las disposiciones reglamentarias correspondientes.
 
 QUINTA (SIC). Dentro de un plazo no mayor a 150 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, los Ayuntamientos municipales del Estado de Morelos, deberán realizar en su caso, las adecuaciones necesarias a sus reglamentos de construcciones, así como al de ecología y protección al ambiente, según corresponda.
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO VEINTINUEVE POR EL QUE REFORMA POR ADICIÓN DIVERSOS ARTÍCULOS DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE MORELOS, EN FAVOR DE LOS EMPRESARIOS MORELENSES".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a), del artículo 70, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan las disposiciones de igual o menor grado que contravengan lo dispuesto en el presente Decreto.
