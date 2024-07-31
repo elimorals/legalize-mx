@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-poder-judicial-morelos-6661"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-04-12"
-last_updated: "2023-07-14"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6661&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 12 de abril de 1995.
 
@@ -347,7 +347,9 @@ XIII.- (DEROGADA, P.O. 23 DE JULIO DE 2008)
 
 XIV.- Nombrar, remover y cambiar de adscripción al secretario General de Acuerdos, oficial mayor, a los secretarios de Acuerdos de la (sic) Salas, a los secretarios de Amparos, Actuarios, secretarios de estudio y cuenta, y oficiales judiciales adscritos a las áreas antes citadas, todos ellosdel (sic) tribunal;
 
-XV.- Elegir cada dos años al Presidente del Tribunal Superior de Justicia;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
+
+XV.- Elegir cada cuatro años al Presidente del Tribunal Superior de Justicia;
 
 XVI.- Asignar las adscripciones a los Magistrados que integrarán las Salas;
 
@@ -3028,3 +3030,13 @@ CUARTA. Tomando en consideración que en el presente Decreto al momento de entra
 El haber de retiro a que se refiere este Decreto, no se aplicará a los magistrados y magistradas en retiro que a la fecha tengan decreto de pensión o jubilación otorgada como magistrada o magistrado, por el Congreso del Estado de Morelos.
 
 QUINTA. Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO TREINTA Y UNO POR EL QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 29 DE LA LEY ORGÁNICA DEL PODER JUDICIAL".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su sanción, promulgación y publicación respectiva de conformidad a los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de Difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
