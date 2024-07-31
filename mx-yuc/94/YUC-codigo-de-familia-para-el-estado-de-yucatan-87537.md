@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-familia-para-el-estado-de-yucatan-87537"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-04-30"
-last_updated: "2024-04-26"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2024.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 30 de abril de 2012.
 
@@ -535,7 +535,9 @@ I. La explicación de los requisitos para contraer matrimonio;
 
 II. Los efectos del matrimonio, con relación a los cónyuges y, en su caso, con sus hijos o hijas;
 
-III. Los regímenes patrimoniales, patria potestad, patrimonio de la familia, paternidad y maternidad responsable, responsabilidad financiera;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+III. Los regímenes patrimoniales, patria potestad, responsabilidad parental, patrimonio de la familia, paternidad y maternidad responsable, responsabilidad financiera;
 
 IV. Las formas y efectos de la terminación del matrimonio;
 
@@ -1719,13 +1721,19 @@ IV. Requerir a ambos cónyuges para que le exhiban, bajo protesta de decir verda
 
 V. Dictar las demás que considere necesarias.
 
+> <small>(REFORMADO EPÍGRAFE [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
+
 Resolución del divorcio
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 198.
 
 La resolución dictada por el juez en la que decrete el divorcio, debe fijar la situación de los hijos o hijas menores de edad, para lo cual deberá contener las siguientes disposiciones:
 
-I. Todo lo relativo a los derechos y deberes inherentes a la patria potestad, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos o hijas a convivir con ambos progenitores;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+I. Todo lo relativo a los derechos y deberes inherentes a la patria potestad incluyendo la responsabilidad parental, su pérdida, suspensión o limitación; a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos o hijas a convivir con ambos progenitores;
 
 > <small>(REFORMADA, D.O. 28 DE MARZO DE 2018)</small>
 
@@ -2349,11 +2357,17 @@ En caso de que alguno de los progenitores se oponga al reconocimiento, la Procur
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
 Patria potestad
 
 ###### Artículo 276.
 
-La patria potestad es un conjunto de derechos y obligaciones que se otorgan e imponen legalmente a los ascendientes, en su caso, para cumplir con las necesidades materiales, afectivas, de salud, educación y recreativas de los hijos o hijas menores de edad, así como para la administración de sus bienes.
+La patria potestad es un conjunto de derechos, obligaciones y responsabilidad parental que se otorgan e imponen legalmente a los ascendientes, en su caso, para cumplir con las necesidades materiales, afectivas, de salud, educación y recreativas de los hijos o hijas menores de edad, así como para la administración de sus bienes.
+
+Para estos efectos, se entenderá a la responsabilidad parental como complemento de la patria potestad basada en el interés superior de la niñez y además como obligación inherente a la orientación, cuidado, acompañamiento y crianza de los hijos o hijas menores de edad, para lograr su desarrollo integral. Esto incluye la responsabilidad compartida y solidaria de los ascendientes de asegurarse que sus hijos o hijas menores de edad puedan lograr el máximo nivel de satisfacción de sus derechos y necesidades.
+
+En ningún caso, el ejercicio de la responsabilidad parental puede conllevar violencia física, psicológica o actos que impidan el ejercicio de sus derechos.
 
 Ejercicio de la patria potestad
 
@@ -2613,15 +2627,19 @@ II. Haber alcanzado el descendiente la mayoría de edad, o
 
 III. La entrega en adopción que realicen los progenitores o abuelos biológicos del descendiente.
 
+> <small>(REFORMADO EPÍGRAFE [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
+
 Pérdida de la patria potestad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 308.
 
 La patria potestad se pierde:
 
-I. Cuando quien o quienes la ejercen son condenados expresamente a la pérdida de ese derecho, o por la comisión de delitos graves;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+I. Cuando quien o quienes la ejercen son condenados expresamente a la pérdida de ese derecho, o por la condena por el delito de feminicidio o su tentativa en contra de la madre de las niñas, niños o adolescentes sujetos a la patria potestad, así como de otros delitos graves;
 
 > <small>(REFORMADA, D.O. 26 DE ABRIL DE 2024)</small>
 
@@ -2669,7 +2687,11 @@ Pérdida de la patria potestad resuelta en el divorcio
 
 El juez, en la misma resolución del divorcio y sólo en los casos de que se afecte de manera grave el interés superior de las niñas, niños y adolescentes, puede decretar la pérdida o suspensión de la patria potestad en relación con uno o ambos progenitores aunque ésta no se haya requerido al solicitar el divorcio.
 
+> <small>(REFORMADO EPÍGRAFE [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
+
 Suspensión de la patria potestad
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 312.
 
@@ -2679,9 +2701,17 @@ I. Incapacidad declarada judicialmente;
 
 II. Ausencia declarada en forma de quien o quienes la ejercen;
 
-III. Sentencia ejecutoriada que imponga dicha suspensión, y
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-IV. En los casos de divorcio o nulidad del matrimonio, cuando el juez imponga esta medida.
+III. Sentencia ejecutoriada que imponga dicha suspensión;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+IV. En los casos de divorcio o nulidad del matrimonio; cuando el juez imponga esta medida, y
+
+> <small>(REFORMADA [N. DE. E. ADICIONADA], D.O. 31 DE JULIO DE 2024)</small>
+
+V. Por auto de vinculación a proceso dictado por delito de feminicidio o su tentativa en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
 
 Conclusión del término de la suspensión
 
@@ -3943,6 +3973,10 @@ Objeto de la tutela pública
 
 El ejercicio de la tutela pública queda sujeto en cuanto a la protección, educación, salud, rehabilitación, en su caso, y satisfacción de necesidades básicas de las niñas, niños y adolescentes y a las modalidades que impriman las resoluciones judiciales que se dicten en relación a la tutela.
 
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+El órgano jurisdiccional que hubiere otorgado la tutela pública, podrá solicitar en cualquier momento la información necesaria a través de las instancias correspondientes para conocer el estado físico, psicológico, emocional y social que guardan las niñas, niños y adolescentes sujetos a dicha tutela, con el fin de garantizar la protección de sus derechos.
+
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
 Deber de las personas que tengan bajo custodia o cuidado a niñas, niños o adolescentes
@@ -3958,6 +3992,10 @@ Deber de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Es
 ###### Artículo 459.
 
 La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán o el Sistema para el Desarrollo Integral de la Familia en Yucatán, en el ámbito de sus respectivas competencias, debe realizar visitas periódicas a centros de asistencia social, instituciones, asociaciones, sociedades, casas de estancia o albergues a los que canalicen niñas, niños, adolescentes y demás personas que así les permitan las leyes, susceptibles de entrar a tutela pública, en los términos establecidos en la Ley para la Protección de la Familia del Estado de Yucatán y de acuerdo con lo que establece este Código.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Cuando el personal que efectúe tales visitas se percate de alguna irregularidad o hecho que pueda ser constitutivo de algún delito, deberá informar a la Procuraduría o al Sistema, según corresponda, así como dar aviso al Ministerio Público.
 
 > <small>(REFORMADO, D.O. 23 DE JUNIO DE 2021)</small>
 
@@ -7826,3 +7864,19 @@ La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Y
 Artículo quinto. Régimen de vigencia especial
 
 Hasta en tanto se emitan los lineamientos correspondientes por parte de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Yucatán, continuará aplicándose el Acuerdo DIF 07/SO/2a/2013 por el que se expiden los Lineamientos sobre el Trámite de Adopción ante la Procuraduría de la Defensa del Menor y la Familia, publicado en el Diario Oficial del Gobierno del Estado de Yucatán el 16 de abril de 2014.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 800/2024 POR EL QUE SE MODIFICAN EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN EN MATERIA DE RESPONSABILIDAD PARENTAL Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN EN MATERIA DE FEMINICIDIO”.]
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Los talleres a los que se refiere el artículo 57 de este Código, deberán de ser modificados con énfasis en la perspectiva de derechos e interés superior de la niñez que implica la patria potestad incluyendo la responsabilidad parental.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 801/2024 POR EL QUE SE MODIFICA EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN Y LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE YUCATÁN, EN MATERIA DE SUPERVISIÓN Y CUIDADO DE LAS NIÑAS, NIÑOS Y ADOLESCENTES SUJETOS A TUTELA PÚBLICA POR PARTE DEL ESTADO".]
+
+Entrada en vigor
+
+Artículo único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
