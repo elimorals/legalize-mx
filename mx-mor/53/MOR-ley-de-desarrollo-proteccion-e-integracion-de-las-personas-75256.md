@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2023-12-20"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -461,7 +461,11 @@ VII. Promocionar la estabilidad y el bienestar familiar;
 
 VIII. Procurar que cada año en el presupuesto de egresos, se otorgue una cantidad responsable que permita dar continuidad a los programas estatales en beneficio de las personas adultas mayores, así como para el cumplimiento de esta Ley;
 
-IX. Las demás que le confieran otros ordenamientos jurídicos en la materia.
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2024)</small>
+
+IX. Implementar estrategias y programas a través de la Secretaría de Desarrollo Económico y del Trabajo para que promuevan dentro de la administración pública estatal y municipal, así como en las empresas privadas a través de incentivos; a contratar a personas adultas mayores de acuerdo a sus capacidades, profesiones, oficios, experiencia y conocimientos teóricos y prácticos; y
+
+X. Las demás que le confieran otros ordenamientos jurídicos en la materia.
 
 ### CAPÍTULO II. DE LAS SECRETARÍAS Y SUBSECRETARÍAS
 
@@ -1166,3 +1170,13 @@ SEGUNDO.- El presente Decreto entrará en vigor al año fiscal próximo de su pu
 TERCERO.- El Congreso del Estado de Morelos, deberá considerar una partida presupuestal para este programa estatal en el presupuesto de egresos del ejercicio 2024.
 
 CUARTO.- El Poder Ejecutivo, a través de los Servicios de Salud de Morelos tendrán un periodo de 90 días hábiles para implementar el programa correspondiente; y, un plazo de 120 días hábiles, para iniciar la entrega de los brazaletes de localización de emergencia para personas adultas mayores, con diagnóstico médico de Alzheimer u otro padecimiento que les impida poder orientarse.
+
+P.O. 31 DE JULIO DE 2024.
+
+> <small>[N. DE E. TRANSITORIOS “DECRETO NÚMERO DOS MIL CIENTO TREINTA POR EL QUE SE ADICIONA UNA FRACCIÓN AL ARTÍCULO 21 RECORRIENDO SU CONTENIDO A PARTIR DE LA FRACCION IX, DE LA LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]</small>
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de Difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de Difusión del Gobierno del estado de Morelos.
+
+TERCERA. A partir de la entrada en vigor del presente decreto la Secretaría de Desarrollo Económico y del Trabajo deberá implementar las estrategias y programas para que sean incluidas en su próximo Programa Operativo Anual.
