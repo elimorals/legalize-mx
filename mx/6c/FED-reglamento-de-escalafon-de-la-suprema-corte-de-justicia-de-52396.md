@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-escalafon-de-la-suprema-corte-de-justicia-de-5239
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-12-08"
-last_updated: "2006-12-08"
+last_updated: "2024-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52396&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-11-14"
 ---
 # REGLAMENTO DE ESCALAFON DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ESCALAFÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 31 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ESCALAFON DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE JULIO DE 2024 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 8 de diciembre de 2006.
 
@@ -536,3 +538,25 @@ LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA S
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que en cumplimiento de lo dispuesto en el artículo Primero Transitorio del REGLAMENTO DE ESCALAFON DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION que antecede, su depósito en la Comisión Substanciadora Unica del Poder Judicial de la Federación quedó formalizado mediante el acuerdo que ésta dictó hoy, y que, por lo tanto, el propio Reglamento entrará en vigor mañana, veinticuatro de noviembre de dos mil seis.- México, Distrito Federal, a veintitrés de noviembre de dos mil seis.- Conste.- Rúbrica.
 
 LICENCIADO JOSE JAVIER AGUILAR DOMINGUEZ, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CERTIFICA: Que esta copia constante de treinta y cuatro fojas útiles, concuerda fiel y exactamente con su original consistente en el Reglamento de Escalafón de la Suprema Corte de Justicia de la Nación, y se certifica para dar cumplimiento a lo dispuesto en el Artículo Sexto Transitorio.- México, Distrito Federal, a veintitrés de noviembre de dos mil seis.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DE ESCALAFÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
+
+PRIMERO. El presente Reglamento entrará en vigor al siguiente día hábil de su depósito ante la Comisión de Conflictos Laborales del Poder Judicial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento de Escalafón, aprobado por el Pleno de la Suprema Corte de Justicia de la Nación, en su sesión privada del trece de noviembre de dos mil seis, depositado en la Comisión Substanciadora Única del Poder Judicial de la Federación, hoy Comisión de Conflictos Laborales del Poder Judicial de la Federación, el veintitrés de noviembre de dos mil seis, y publicado en el Diario Oficial de la Federación el ocho de diciembre del mismo año.
+
+Los concursos escalafonarios, permutas y demás procedimientos derivados de estos, iniciados durante la vigencia del Reglamento de Escalafón abrogado que se encuentren pendientes de conclusión, se continuarán tramitando hasta su terminación conforme a las disposiciones de dicho Reglamento y las demás aplicables relacionadas con el mismo.
+
+TERCERO. Se derogan las disposiciones jurídicas que se opongan al presente Reglamento.
+
+CUARTO. Las personas integrantes de la Comisión Mixta de Escalafón de la Suprema Corte de Justicia de la Nación continuarán en su encargo hasta la conclusión del periodo electivo.
+
+Las personas servidoras públicas que asisten a la Comisión Mixta de Escalafón de la Suprema Corte de Justicia de la Nación continuarán desempeñando sus funciones.
+
+QUINTO. En un plazo de noventa días naturales posteriores a la entrada en vigor del presente Reglamento, la Comisión expedirá los lineamientos a los que hace referencia el presente Reglamento.
+
+SEXTO. Publíquese el presente Reglamento en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública y 71, fracción VI, de la Ley Federal de Transparencia y Acceso a la Información Pública.
