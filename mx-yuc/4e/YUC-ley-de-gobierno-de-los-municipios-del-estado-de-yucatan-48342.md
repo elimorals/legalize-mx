@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2024-03-15"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -3247,9 +3247,9 @@ II.- Un plano de localización que contenga descripción de la superficie, medid
 
 III.- El valor catastral y comercial;
 
-> <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-IV.- En el caso de que el inmueble forme parte del fundo legal, se requerirá la certificación del Catastro del Estado, en la que conste que el solicitante no es propietario de algún inmueble en el Estado, ni su cónyuge o concubina, ni sus hijos menores de edad. Tratándose de persona física, el interesado bajo protesta de decir verdad, manifestará que dicho bien será destinado para casa habitación;
+IV.- En el caso de que el inmueble forme parte del fundo legal, se requerirá la certificación del Registro Público, en la que conste que el solicitante no es propietario de algún inmueble en el Estado, ni su cónyuge o concubina o concubinario, ni sus hijos menores de edad. Tratándose de persona física, el interesado bajo protesta de decir verdad, manifestará que dicho bien será destinado para casa habitación;
 
 > <small>(REFORMADA, D.O. 10 DE FEBRERO DE 2009)</small>
 
@@ -4568,3 +4568,27 @@ Artículo Segundo. Los ayuntamientos deberán prever la suficiencia presupuestal
 Cláusula derogatoria
 
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este Decreto.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 804/2024 POR EL QUE SE MODIFICA LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo establecido en el artículo 210 bis de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, que lo hará quince días naturales siguientes a su publicación.
+
+Segundo. Asuntos en trámite
+
+Los procedimientos, recursos y demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán, hasta su total conclusión, de conformidad con las disposiciones legales y normativas aplicables al momento de su inicio.
+
+Tercero. Obligación normativa
+
+El Poder Ejecutivo del Estado de Yucatán, en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir o modificar las disposiciones necesarias para armonizar el marco jurídico estatal a las disposiciones de este decreto.
+
+Cuarto. Inicio de operaciones del registro
+
+El Registro Estatal de Asesores Inmobiliarios entrará en funciones en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Inscripción en el registro
+
+A partir del inicio de funciones del Registro Estatal de Asesores Inmobiliarios a que se refiere el transitorio anterior, las personas interesadas en inscribirse en el referido registro contarán con un plazo de ciento ochenta días para solicitar la licencia correspondiente y su inscripción.
