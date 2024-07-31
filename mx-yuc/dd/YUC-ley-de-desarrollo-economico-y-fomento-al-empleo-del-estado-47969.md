@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-desarrollo-economico-y-fomento-al-empleo-del-estado-4796
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-21"
-last_updated: "2019-07-31"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el miércoles 21 de diciembre de 2005.
 
@@ -59,39 +59,47 @@ Las disposiciones de esta ley son de orden público, interés social y de observ
 
 La aplicación de este ordenamiento corresponde al Poder Ejecutivo del Gobierno del Estado, quien ejercerá sus atribuciones por conducto de la Secretaría de Fomento Económico y Trabajo. Los municipios del estado concurrirán en su aplicación, en el ámbito de sus competencias.
 
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Respecto a la actividad y desarrollo artesanal contempladas en la presente Ley, la aplicación de este ordenamiento corresponderá a la Secretaría, a través del Instituto Yucateco de Emprendedores.
+
 > <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
 
-I.- Ciudad Industrial: el núcleo urbano, delimitado físicamente, en el que se asientan o se establecen un conjunto de empresas o unidades económicas de naturaleza diversa o uniforme, dotado de infraestructura física e instalaciones industriales y registrado como tal ante la Secretaría de Fomento Económico y Trabajo;
-
-II.- Consejo Consultivo: el Consejo Consultivo para el Desarrollo Económico de Yucatán;
-
-III.- Desarrollo Económico: el cambio favorable en las condiciones cualitativas y cuantitativas del sistema económico estatal, que propicie una mejor calidad de vida de la población;
-
-IV.- Ley: la Ley de Desarrollo Económico y Fomento al Empleo del Estado de Yucatán;
+I.- Actividad artesanal: Es la actividad realizada manualmente de manera individual, familiar o colectiva, que tiene por objeto transformar materiales en productos, sustancias orgánicas e inorgánicas, o en artículos nuevos no seriados, mediante la aplicación de técnicas, herramientas o procedimientos transmitidos generacionalmente; y que forman parte de la cultura del estado, ya que la creatividad personal, los insumos, materiales y la mano de obra, constituyen factores predominantes que imprimen diversas características culturales, históricas, folklóricas, estéticas o utilitarias de una región determinada.
 
 > <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-V.- Microparque: la superficie de terreno de propiedad pública o privada destinada al establecimiento de microempresas, dividida en lotes de entre doscientos cincuenta y mil metros cuadrados, con infraestructura física tal como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría de Fomento Económico y Trabajo;
+II.- Ciudad Industrial: el núcleo urbano, delimitado físicamente, en el que se asientan o se establecen un conjunto de empresas o unidades económicas de naturaleza diversa o uniforme, dotado de infraestructura física e instalaciones industriales y registrado como tal ante la Secretaría de Fomento Económico y Trabajo;
+
+III.- Consejo Consultivo: el Consejo Consultivo para el Desarrollo Económico de Yucatán;
+
+IV.- Desarrollo Económico: el cambio favorable en las condiciones cualitativas y cuantitativas del sistema económico estatal, que propicie una mejor calidad de vida de la población;
+
+V.- Ley: la Ley de Desarrollo Económico y Fomento al Empleo del Estado de Yucatán;
 
 > <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VI.- Parque Industrial: la superficie de terreno con un mínimo de diez hectáreas con otras diez para futuras extensiones, de propiedad pública o privada, destinada al establecimiento de industrias, dividida en lotes mayores a los mil metros cuadrados, con servicios de infraestructura física tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría de Fomento Económico y Trabajo;
-
-VII.- Programa Rector: el Programa Rector para el Desarrollo Económico del Estado de Yucatán;
+VI.- Microparque: la superficie de terreno de propiedad pública o privada destinada al establecimiento de microempresas, dividida en lotes de entre doscientos cincuenta y mil metros cuadrados, con infraestructura física tal como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría de Fomento Económico y Trabajo;
 
 > <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
 
-VIII.- Secretaría: la Secretaría de Fomento Económico y Trabajo;
+VII.- Parque Industrial: la superficie de terreno con un mínimo de diez hectáreas con otras diez para futuras extensiones, de propiedad pública o privada, destinada al establecimiento de industrias, dividida en lotes mayores a los mil metros cuadrados, con servicios de infraestructura física tales como calles, alumbrado público, energía eléctrica, teléfono, agua y drenaje, que se encuentre registrada en la Secretaría de Fomento Económico y Trabajo;
 
-IX.- Sujetos de apoyo: las personas físicas o morales con actividad empresarial, establecidas o por establecerse en el Estado, cuyos proyectos de inversión sean detonantes para el desarrollo o generen empleos directos, y
+VIII.- Programa Rector: el Programa Rector para el Desarrollo Económico del Estado de Yucatán;
 
-X.- Unidad Económica: los establecimientos, personas o entidades que se dediquen a la manufactura, producción o comercialización de bienes o servicios.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+
+IX.- Secretaría: la Secretaría de Fomento Económico y Trabajo;
+
+X.- Sujetos de apoyo: las personas físicas o morales con actividad empresarial, establecidas o por establecerse en el Estado, cuyos proyectos de inversión sean detonantes para el desarrollo o generen empleos directos, y
+
+XI.- Unidad Económica: los establecimientos, personas o entidades que se dediquen a la manufactura, producción o comercialización de bienes o servicios.
 
 > <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
@@ -103,7 +111,9 @@ Esta Ley tiene por objeto establecer las disposiciones que permitan promover el 
 
 Son objetivos de la presente ley:
 
-I.- Promover la generación de fuentes de empleo y consolidar las existentes;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+I.- Promover la generación de fuentes de empleo y consolidar las existentes, así como impulsar la actividad artesanal;
 
 > <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
 
@@ -131,7 +141,9 @@ XII.- Apoyar la operación de un sistema ágil y confiable de información de es
 
 XIII.- Impulsar el establecimiento y desarrollo de unidades económicas, de acuerdo a los lineamientos establecidos en la presente Ley y los reglamentos que al efecto se expidan;
 
-XIV.- Fomentar y promover el desarrollo económico en la entidad, impulsando su crecimiento equilibrado y sustentable;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XIV.- Fomentar y promover el desarrollo económico y artesanal en la entidad, impulsando su crecimiento equilibrado y sustentable;
 
 XV.- Promover el aprovechamiento adecuado de los recursos naturales de la entidad;
 
@@ -139,13 +151,25 @@ XVI.- Difundir las ventajas competitivas de la entidad en su conjunto y de sus r
 
 XVII.- Promover el desarrollo de las zonas en condiciones económicas desfavorables, integrándolas a programas de desarrollo regional;
 
-> <small>(REFORMADA, D.O. 15 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-XVIII.- Establecer políticas y acciones de fomento y desarrollo económico de largo plazo, con la participación del Consejo Consultivo; de conformidad con los planes federal, regional, estatal y municipal, así como con los ordenamientos jurídicos en la materia y los acuerdos internacionales;
+XVIII.- Establecer políticas y acciones de fomento y desarrollo económico y artesanal, de largo plazo, con la participación del Consejo Consultivo; de conformidad con los planes federal, estatal y municipal, así como con los ordenamientos jurídicos en la materia y los acuerdos internacionales;
 
-XIX.- Fomentar la creación de estímulos e incentivos que fortalezcan la productividad y la posición competitiva de la micro, pequeña y mediana empresa, y
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-XX.- Promover el comercio exterior, en concordancia con los gobiernos federal y municipal.
+XIX.- Fomentar la creación de estímulos e incentivos que fortalezcan la productividad y la posición competitiva de la micro, pequeña y mediana empresa;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XX.- Promover el comercio exterior, en concordancia con los gobiernos federal y municipal;
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XXI.- Procurar la creación de espacios que permitan la identidad, apertura y crecimiento de las actividades artesanales; y
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XXII.- Diseñar e implementar políticas públicas eficientes para el desarrollo de las actividades artesanales.
 
 > <small>(REFORMADO, D.O. 15 DE FEBRERO DE 2013)</small>
 
@@ -211,17 +235,39 @@ VI.- Fomentar esquemas y mecanismos para la exportación de los productos locale
 
 VII.- Promover la creación del Sistema Estatal de Información y Análisis Económico, y coordinar sus trabajos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA [N. DE ADICIONADA], D.O. 31 DE JULIO DE 2024)</small>
 
-VIII.- (DEROGADA POR ARTÍCULO QUINTO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA DEL ESTADO DE YUCATÁN, D.O. 11 DE AGOSTO DE 2010)
+VIII.- Fomentar el desarrollo de la actividad artesanal del Estado a través del Instituto Yucateco de Emprendedores, mediante la implementación de políticas públicas para tal fin.
 
 IX.- Las demás que se le otorguen.
 
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 9 Bis.
+
+Para efecto del desarrollo comercial de la actividad artesanal del Estado, la Secretaría, a través del Instituto Yucateco de Emprendedores, deberá realizar las siguientes acciones:
+
+I.- Gestionar la habilitación de un espacio físico como centro expositor de productos artesanales elaborados en diversas regiones de la entidad; en el cual se podrán exponer, promover y comercializar las artesanías originarias del Estado de Yucatán;
+
+II.- Promover los productos artesanales yucatecos en los mercados nacionales e internacionales;
+
+III.- Colaborar, conjunta o separadamente, con las y los interesados, en las uniones de las personas artesanas, asesorando a estos en materia de organización, mediante la formación de asociaciones civiles, sociedades cooperativas u otro tipo de organización que convenga a sus intereses;
+
+IV.- Procurar el financiamiento a las personas artesanas, para la adquisición de materias primas, herramientas y equipos de trabajo, así como para la obtención de todo tipo de asesoría técnica, con la finalidad de elevar la calidad y el volumen de sus productos;
+
+V.- Coordinar la creación y conservación de un catálogo permanente de las artesanías producidas en el Estado, a efecto de preservar la cultura y el artesanado yucateco;
+
+VI.- Constituir un padrón del artesanado de la entidad, su archivo de producción y fomentar la creación de una biblioteca en materia artesanal para consulta especializada, y
+
+VII.- Participar en ferias y exposiciones dentro y fuera del país, con el objeto de abrir mercados más amplios para la comercialización de artesanías yucatecas.
+
 ### CAPÍTULO III. De los Municipios
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 10.
 
-Son atribuciones de los Municipios, en la materia de promoción económica:
+Son atribuciones de los Municipios, en la materia de promoción económica y artesanal:
 
 I.- Participar con derecho a voz en las sesiones del Consejo Consultivo cuando el objeto refiera a proyectos o acciones de los que sean destinatarios sea por jurisdicción o materia;
 
@@ -235,7 +281,9 @@ IV.- Impulsar la participación de los sectores social, privado y académico en 
 
 V.- Coordinar con la Secretaría, las acciones en materia de fomento al empleo y la inversión, en su jurisdicción;
 
-VI.- Celebrar convenios de coordinación en materia de fomento al empleo y la inversión con el gobierno estatal;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+VI.- Celebrar convenios de coordinación con el gobierno estatal, en materia de fomento al empleo e inversión, así como en materia artesanal;
 
 VII.- Promover el fomento de las actividades productivas y artesanales, en el ámbito de su jurisdicción;
 
@@ -423,9 +471,17 @@ X.- Empresas o unidades económicas que sustituyan importaciones mediante el con
 
 XI.- Empresas o unidades económicas, asentadas en zonas o regiones económicas desfavorables;
 
-XII.- Empresas o unidades económicas dedicadas a la elaboración de productos artesanales propios en los términos de la ley de la materia, y
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-XIII.- Empresas o unidades económicas que el Consejo Consultivo determine como preferentes, de acuerdo a situaciones de coyuntura.
+XII.- Empresas o unidades económicas dedicadas a la elaboración de productos artesanales propios en los términos de la ley de la materia;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XIII.- Empresas o unidades económicas que el Consejo Consultivo determine como preferentes, de acuerdo a situaciones de coyuntura, y
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XIV.- Empresas que promuevan y respeten los derechos humanos; fomenten la igualdad entre las personas y la inclusión laboral; generen las condiciones necesarias de accesibilidad para las personas usuarias, y en ambos casos, establezcan políticas de igualdad y no discriminación, así como de prevención y atención de la violencia (sic) género.
 
 ### CAPÍTULO IV. Estímulos e Incentivos
 
@@ -860,3 +916,27 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 802/2024 POR EL QUE SE REFORMA LA LEY DE DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATÁN, EN MATERIA DE EMPRESAS RESPETUOSAS Y PROMOTORAS DE DERECHOS HUMANOS".]
+
+Entrada en vigor
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 803/2024 POR EL QUE SE MODIFICA LA LEY DE DESARROLLO ECONÓMICO Y FOMENTO AL EMPLEO DEL ESTADO DE YUCATÁN, EN MATERIA ARTESANAL”.]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía en lo que se opongan al presente decreto.
