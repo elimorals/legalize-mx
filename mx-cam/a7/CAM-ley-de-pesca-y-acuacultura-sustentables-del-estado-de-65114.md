@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-65114"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-05"
-last_updated: "2022-11-09"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE NOVIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 5 de diciembre de 2008.
 
@@ -71,9 +73,11 @@ IX. Establecer las bases para la integración del Sistema Estatal de Informació
 
 X. Establecer las bases para la participación del Estado y los municipios en las acciones de inspección y vigilancia en materia de pesca y acuacultura, así como los mecanismos de coordinación con las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 3.
 
-La presente Ley, para los efectos de las actividades pesqueras y acuícolas, tendrá aplicación en el territorio del Estado y en las zonas en donde el Estado ejerce derechos de soberanía y jurisdicción respecto de la verificación del cumplimiento de su reglamento y demás disposiciones que de ella deriven.
+La presente Ley, para los efectos de las actividades pesqueras y acuícolas, tendrá aplicación en el territorio del Estado y en las zonas en donde el Estado ejerce derechos de soberanía y jurisdicción respecto de las disposiciones que de ella deriven.
 
 ###### Artículo 4.
 
@@ -96,6 +100,10 @@ VI. Bitácora de acuacultura: Es el documento de registro y control del quehacer
 > <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
 
 VII. Capacitación: Es la enseñanza o apoyo que la (sic) Instituto de Pesca y Acuacultura de Campeche proporciona por sí o por medio de agentes externos a las y los acuicultores y las y los productores pesqueros, para el mejoramiento de sus técnicas de obtención de productos, manejo para su comercialización y dar valor agregado a dichos productos;
+
+> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2024)</small>
+
+VII Bis. Consejo: Consejo Estatal de Pesca y Acuacultura;
 
 VIII. Densidad de siembra: Es el número de organismos cultivables por metro cúbico de agua, variable según la especie a cultivar;
 
@@ -345,35 +353,175 @@ El Instituto de Pesca dispondrá de los recursos humanos, técnicos, financieros
 
 ### CAPÍTULO SEGUNDO. El Consejo Estatal de Pesca y Acuacultura
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 17.
 
-Se crea el Consejo Estatal de Pesca y Acuacultura como un órgano de apoyo, coordinación, consulta, concertación y asesoría, cuyas atribuciones y las de sus integrantes, serán las que señale el Reglamento de la presente Ley.
+Se crea el Consejo Estatal de Pesca y Acuacultura como un órgano de apoyo, coordinación, consulta, concertación, asesoría y análisis, para la formulación y evaluación de las acciones, proyectos e instrumentos que se desarrollen en materia pesquera y acuícola, tanto en el sector público como el privado, en el Estado, así como las demás que señale la Ley General.
 
 El Consejo Estatal de Pesca y Acuacultura se integrará de la forma siguiente:
 
-I. La Persona Titular de la Secretaría de Desarrollo Agropecuario, quien lo presidirá
+I. La Gobernadora o el Gobernador del Estado, que ocupará la Presidencia;
 
-II. La Persona Titular de la SEMABICCE, como vicepresidente;
+II. La Persona Titular de la Secretaría de Desarrollo Agropecuario, que ocupará la Vicepresidencia;
 
-III. La Persona Titular del Instituto de Pesca y Acuacultura, como Secretario Técnico;
+III. La Persona Titular de la Secretaria de Medio Ambiente, Biodiversidad, Cambio Climático y Energía, que fungirá como vocal;
 
-IV. La Persona Titular de la Secretaría de Administración y Finanzas, como vocal
+IV. La Persona Titular de la Secretaría de Administración y Finanzas, que fungirá como vocal;
 
-V. La Persona Titular de la Secretaría de la Contraloría, como vocal;
+V. La Persona Titular de la Secretaría de la Contraloría, que fungirá como vocal;
 
-VI. La Persona Titular de la Secretaría de Bienestar, como vocal;
+VI. La Persona Titular de la Secretaría de Bienestar, fungirá como vocal;
 
-VII. La Persona Titular de la Secretaría de Protección y Seguridad Ciudadana, como vocal; y
+VII. La Persona Titular de la Secretaría de Protección y Seguridad Ciudadana, que fungirá como vocal;
 
-VIII. La Persona Titular de la Fiscalía General del Estado, como vocal.
+VIII. La Persona Titular de la Fiscalía General del Estado, que fungirá como vocal; y
 
-Podrán asistir por invitación del Consejo, con derecho a voz pero no a voto a (sic) los que acudan por parte de la Oficina de Representación de la Secretaría de Agricultura y Desarrollo Rural en el Estado; de la Secretaría de Marina; de la Procuraduría Federal de Protección al Ambiente; de la Fiscalía General de la República y representantes de las instituciones de educación superior en el Estado que lleven a cabo trabajos de investigación; así como de organizaciones sociales y de productores de los sectores pesquero y acuícola en el Estado. El Consejo tendrá como objeto proponer las políticas, programas de carácter estatal y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y acuacultura, fortalecer las acciones de inspección y vigilancia, así como para la descentralización de programas, recursos y funciones, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesqueras y acuícolas, así como a incrementar la competitividad de los sectores productivos.
+IX. La persona Titular del Instituto de Pesca y Acuacultura, que ocupará la Secretaría Técnica.
+
+Cada miembro tendrá voz y voto en las decisiones del Consejo Estatal de Pesca y Acuacultura.
+
+Las y los integrantes del Consejo, a excepción de la Presidencia, designarán a una persona suplente, quien asistirá a las sesiones en ausencia de la persona titular, con todas sus facultades y derechos que a este correspondan.
+
+Podrán asistir por invitación del Consejo, con derecho a voz pero no a voto a los que acudan por parte de la Oficina de Representación de la Secretaría de Agricultura y Desarrollo Rural en el Estado; de la Secretaría de Marina; de la Procuraduría Federal de Protección al Ambiente; de la Fiscalía General de la República, de la Comisión Nacional de Acuacultura y Pesca, y representantes de las instituciones de educación superior en el Estado que lleven a cabo trabajos de investigación; así como de organizaciones sociales y de productores de los sectores pesquero y acuícola en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 17 Bis.
+
+El Consejo Estatal de Pesca y Acuacultura tendrá como objetivos:
+
+I. Proponer las políticas, programas de carácter estatal y municipal para el manejo adecuado de cultivos y pesquerías que impulsen el desarrollo de la pesca y acuacultura;
+
+II. Promover el aprovechamiento sustentable de los recursos pesqueros y acuícolas en el Estado, con base en el conocimiento científico y tecnológico, con el cuidado y conservación del medio ambiente y considerando los factores económicos y sociales de la región;
+
+III. Fortalecer las acciones de la actividad pesquera en el Estado, así como para la descentralización de programas, recursos y funciones, proyectos e instrumentos tendientes al apoyo, fomento, productividad, regulación y control de las actividades pesqueras y acuícolas, además de incrementar la competitividad de los sectores productivos;
+
+IV. Contribuir a la coordinación entre las autoridades federal, estatal y municipales, así como la participación concertada de los sectores productivos, centros de enseñanzas e instituciones de investigación;
+
+V. Reforzar las acciones de inspección y vigilancia, procurando la coordinación entre las autoridades federal, estatal y municipales, así como la participación de los sectores productivos;
+
+VI. Proponer a la autoridad competente mecanismos de participación para el ejercicio ordenado de las actividades de pesca y acuacultura en el Estado, sin contravenir las disposiciones legales, normativas y administrativas aplicables;
+
+VII. Promover la complementariedad y armonización de los esfuerzos de investigación científica y tecnológica desarrollada por las instituciones estatales o regionales de investigación y educación superior aplicables a la pesca y acuacultura, para orientar la realización de estudios específicos necesarios que atiendan la problemática productiva del sector; y
+
+VIII. Coadyuvar con el Instituto y la Secretaría en los mecanismos de participación de los productores dedicados a las actividades pesqueras y acuícolas.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 17 Ter.
+
+El Consejo Estatal de Pesca y Acuacultura tendrá las siguientes funciones:
+
+I. Proponer diagnósticos sobre el estado y comportamiento de cada una de las pesquerías de la Entidad;
+
+II. Promover la elaboración y actualización del Registro de Pesca y Acuacultura, que efectuará el Instituto.
+
+III. Participar y formular los planes de manejo pesquero del Estado;
+
+IV. Identificar a partir de la información científica, tecnológica y aquella derivada de la práctica pesquera, los recursos o áreas potenciales para el desarrollo de la pesca;
+
+V. Proponer las medidas necesarias para el desarrollo ordenado de la pesca dentro del marco de la sustentabilidad, especialmente aquellas relativas al régimen actual de administración pesquera, sistemas y métodos de pesca, organización del sector y alternativas de aprovechamiento, con base en la mejor evidencia científica y tecnológica;
+
+VI. Formular, proyectos específicos para la regularización y ordenamiento de aquellas pesquerías que lo requieran;
+
+VII. Proyectar a las autoridades normativas competentes, la adopción de disposiciones administrativas de regulación pesquera con base en estudios científicos, tecnológicos y socioeconómicos.
+
+VIII. Elaborar, con base en los estudios científicos, tecnológicos y socioeconómicos pertinentes, las propuestas para regular el aprovechamiento de los recursos pesqueros y acuícolas que así lo ameriten, o las propuestas de modificación de NOM vigentes, así como los estudios para la generación de información que debe contener la Manifestación de Impacto Regulatorio que las sustenten, atendiendo las disposiciones legales aplicables;
+
+IX. Coordinar la elaboración de programas operativos de control, inspección y vigilancia, para garantizar que la pesca se desarrolle con apego a la legislación, normatividad y disposiciones administrativas de regulación pesquera, así como su evaluación permanente, con la participación de las autoridades y de las organizaciones de productores;
+
+X. Emitir opiniones a la Secretaría de Agricultura y Desarrollo Social u otras dependencias y entidades federales respecto del aprovechamiento de los recursos pesqueros y acuícolas en el Estado; y
+
+XI. Aprobar su Reglamento Interior y demás disposiciones que regulen su actuación.
+
+El Consejo Estatal de Pesca y Acuacultura tendrá las atribuciones previstas en su Reglamento Interior, en la Ley General y en el Consejo Nacional de Pesca y Acuacultura.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 18.
 
-El Consejo Estatal de Pesca y Acuacultura tendrá la participación prevista en la Ley General y en el Consejo Nacional de Pesca y Acuacultura. La mecánica para las convocatorias, tipos de sesión, forma de adoptar los acuerdos, suplencias y ausencias y demás aspectos atinentes a su operación se establecerán en el Reglamento de la presente ley.
+La Presidencia del Consejo tendrá las facultades siguientes:
+
+I. Definir los asuntos a tratar en las sesiones;
+
+II. Convocar a través del Secretaría Técnica a sesiones ordinarias y extraordinarias;
+
+III. Integrar, conducir y coordinar el funcionamiento del Consejo;
+
+IV. Presidir las sesiones, declarando el quórum o ausencia del mismo;
+
+V. Dar curso a los asuntos tratados en sesión y ordenar la realización de los trámites específicos a estos;
+
+VI. Proponer al Consejo las modificaciones administrativas que mejoren el funcionamiento del mismo;
+
+VII. Coordinar las comisiones designadas por el Consejo para cumplimiento de sus objetivos; y
+
+VIII. Asistir a las sesiones del Consejo.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 18 Bis.
+
+La Vicepresidencia tendrá las siguientes facultades:
+
+I. En caso de ausencia de la persona titular de la Presidencia, la persona titular de la Vicepresidencia del Consejo presidirá las sesiones y tendrá las mismas facultades que la Presidencia descritas en esta ley;
+
+II. Participar con la Presidencia y con la persona titular de la Secretaría Técnica en el desarrollo de las funciones y objetivos del Consejo;
+
+III. Presentar propuestas relacionadas con las actividades del Consejo;
+
+IV. Asistir a las sesiones del Consejo;
+
+V. Integrar las comisiones del Consejo; y
+
+VI. Las demás que sean necesarias para la ejecución de los acuerdos del Consejo.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 18 Ter.
+
+Las Vocalías tendrán las siguientes atribuciones:
+
+I. Participar con la Presidencia y con la Secretaría Técnica en el desarrollo de las funciones y objetivos del Consejo;
+
+II. Presentar propuestas relacionadas con las actividades del Consejo;
+
+III. Asistir a las sesiones del Consejo;
+
+IV. Integrar las comisiones del Consejo; y
+
+V. Las demás que sean necesarias para la ejecución de los acuerdos del Consejo.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 18 Quater.
+
+La Secretaría Técnica tendrá las siguientes facultades:
+
+I. Convocar al Consejo a sesiones ordinarias y extraordinarias por acuerdo de la Presidencia;
+
+II. Auxiliar a la Presidencia del Consejo en el desempeño de sus funciones;
+
+III. Preparar y enviar a los miembros del Consejo el orden del día de las sesiones, con la información y documentación correspondiente;
+
+IV. Realizar el pase de lista de asistencia para la verificación del quórum legal;
+
+V. Elaborar el acta de cada sesión del Consejo y recabar las firmas correspondientes, para su difusión, control y archivo;
+
+VI. Registrar la votación para la aprobación de acuerdos, dictámenes y asuntos del Consejo; y
+
+VII. Asistir a las sesiones del Consejo.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 18 Quinquies.
+
+El Consejo sesionará de forma ordinaria tres veces al año, y extraordinariamente cuantas veces sea necesario, a juicio de la o el Presidente, mismo que emitirá la convocatoria en los términos que establece la presente Ley.
+
+Asimismo, las convocatorias para llevar a cabo las sesiones del Consejo Estatal de Pesca y Acuacultura, deberán formularse por escrito, serán firmadas por la o el Secretario Técnico y enviadas a sus integrantes al menos con setenta y dos horas de anticipación para las sesiones ordinarias; y con cuarenta y ocho horas para las extraordinarias. De igual forma, las convocatorias, ya sean ordinarias o extraordinarias, deberán de ir acompañadas del orden del día y de los documentos que informen los asuntos a tratar.
+
+El quórum legal para sesionar en el Consejo, será con la asistencia de más de la mitad de sus miembros y los acuerdos que de este deriven, serán definidos por unanimidad o por mayoría de votos entre los miembros presentes. En caso de empate la o el Presidente tendrá el voto de calidad.
 
 ## TÍTULO CUARTO. DEL FOMENTO A LA PESCA Y A LA ACUACULTURA
 
@@ -475,9 +623,11 @@ V. El Contribuir con las autoridades competentes para el establecimiento de medi
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 22.
 
-Los permisos para alguna de las actividades señaladas en el artículo 41 de la Ley General se otorgarán de conformidad con lo dispuesto en el numeral 52 de la misma Ley, con excepción de las actividades acuícolas cuya finalidad sea el cultivo dulceacuícola, de peces de ornato y la acuacultura de traspatio, con sistemas de cultivo extensivos; las cuales, para su inicio únicamente se requerirá contar con inscripción en el Registro Estatal de Pesca y Acuacultura en los términos que disponga el Reglamento de la presente Ley.
+Los permisos para alguna de las actividades señaladas en el artículo 41 de la Ley General se otorgarán de conformidad con lo dispuesto en el numeral 52 de la misma Ley, con excepción de las actividades acuícolas cuya finalidad sea el cultivo dulceacuícola, de peces de ornato y la acuacultura de traspatio, con sistemas de cultivo extensivos; las cuales, para su inicio únicamente se requerirá contar con inscripción en el Registro Estatal de Pesca y Acuacultura en los términos que disponga la presente Ley.
 
 ## TÍTULO SÉPTIMO. DE LA PESCA
 
@@ -509,7 +659,9 @@ La pesca de consumo doméstico que efectúen las y los residentes en las riberas
 
 Sólo podrá efectuarse con redes y líneas manuales que pueda utilizar individualmente el pescador, observando y respetando las vedas y las Normas Oficiales que expida la autoridad federal en la materia.
 
-Las cantidades permitidas por pesquería o especie se especificarán en el Reglamento de la presente Ley, y en las Normas Oficiales Mexicanas que expida la autoridad federal competente.
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
+
+Las cantidades permitidas por pesquería o especie serán especificadas por la Norma Oficial Mexicana aplicable.
 
 ###### Artículo 27.
 
@@ -519,9 +671,11 @@ La captura incidental en las pesquerías que se realizan en el Estado, se regula
 
 ### CAPÍTULO ÚNICO. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 28.
 
-La legal procedencia de los productos pesqueros y acuícolas, se acreditará con los avisos de arribo, de cosecha, de producción, de recolección, según corresponda, en los términos y con los requisitos que establezca esta Ley y su reglamento. Para las especies obtenidas al amparo de permisos de pesca deportivo-recreativa, la legal procedencia se comprobará con el permiso respectivo.
+La legal procedencia de los productos pesqueros y acuícolas, se acreditará con los avisos de arribo, de cosecha, de producción, de recolección, según corresponda, en los términos y con los requisitos que establezca esta Ley y demás disposiciones aplicables a la materia. Para las especies obtenidas al amparo de permisos de pesca deportivo-recreativa, la legal procedencia se comprobará con el permiso respectivo.
 
 Para la comercialización de los productos de la pesca y de la acuacultura, los comprobantes fiscales que se emitan deberán incluir el número de permiso o concesión respectiva.
 
@@ -587,11 +741,11 @@ El Instituto de Pesca, en coordinación con las autoridades competentes de la Fe
 
 El Estado suscribirá con la Secretaría de Agricultura y Desarrollo Rural y con la Comisión Nacional de Acuacultura y Pesca, los convenios correspondientes a fin de que, por conducto del Instituto de Pesca se otorguen los permisos para la acuacultura conforme a las disposiciones previstas en la Ley General.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 38.
 
-Las personas que realicen actividades de acuacultura, deberán presentar al Instituto de Pesca los avisos de cosecha, producción y recolección, en la forma y términos que determine el Reglamento de esta Ley.
+Las personas que realicen actividades de acuacultura, deberán presentar al Instituto de Pesca los avisos de cosecha, producción y recolección, en la forma y términos que determine el Instituto, esta Ley y sus disposiciones reglamentarias.
 
 ## TÍTULO UNDÉCIMO. DE LA SANIDAD, INOCUIDAD Y CALIDAD
 
@@ -729,15 +883,57 @@ VII. Las escuelas pesqueras y los centros dedicados a la investigación o enseñ
 
 El Instituto de Pesca expedirá la constancia certificada del registro correspondiente.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
-La organización y funcionamiento del Registro se determinarán en las disposiciones reglamentarias que deriven de esta Ley. Las dependencias estatales y municipales que por razones de su competencia conozcan o tengan injerencia en materia pesquera y acuícola, contribuirá (sic) a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones aplicables.
+La organización y funcionamiento del Registro se determinarán en las disposiciones reglamentarias que deriven de esta Ley.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+Las dependencias estatales y municipales que por razones de su competencia conozcan o tengan injerencia en materia pesquera y acuícola, contribuirán a la integración, actualización y funcionamiento del Registro, en la forma y términos que establezcan las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 44 Bis.
+
+Los aspirantes al registro deberán de cumplir con la presentación de los requisitos generales señalados en las convocatorias que el Instituto de Pesca emita para el ordenamiento por cada figura.
+
+Los documentos requeridos se entregarán en formato PDF, digitalizados de manera individual; asimismo se deberán de presentar los documentos en original, únicamente para cotejo de estos con los archivos electrónicos y se deberá de proporcionar un correo electrónico personal que se encuentre activo.
+
+Una vez concluido el proceso de recepción y validación de la información, el Instituto de Pesca deberá hacer llegar de manera física y/o electrónica la Cédula de Identificación que acredite el registro exitoso; considerándose como exitoso haber adquirido el estatus actualizado, recabando la firma del interesado para acreditar que los datos contenidos en el Registro Estatal son los proporcionados durante el proceso.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 44 Ter.
+
+Se considera estatus actualizado a todos aquellos registros que cumplan con la vigencia en su documentación al momento de finalizar el periodo previsto para el registro y actualización en el Registro Estatal y sean validados por el Comité de la Red Social Productiva.
+
+Se considera estatus no actualizado aquellos que no cumplan con la actualización dentro del periodo previsto.
+
+El registro y aprobación en el Registro Estatal, no garantiza el acceso a los programas de apoyo, ya que cada uno de ellos tienen requisitos generales y específicos por cubrir.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 44 Quater.
+
+Causarán baja del Registro Estatal de Pesca y Acuacultura aquellas inscripciones que se ubiquen en uno o más de los siguientes supuestos, confirmados mediante inspección y vigilancia:
+
+I. Fallecimiento del titular registrado ante el Registro Estatal de Pesca y Acuacultura, de la concesión o del permiso respectivo;
+
+II. Personas morales que hubieren sido liquidadas, disueltas o extinguidas, conforme a las disposiciones legales aplicables;
+
+III. Embarcaciones pesqueras, unidades de producción acuícola, escuelas pesqueras y centros dedicados a la investigación que hubieren quedado impedidas para desempeñar las actividades a que se encontraban afectas, por motivos de hecho o de derecho debidamente comprobados; tales como resoluciones de autoridad competente, cuestiones de seguridad marítima, sanitarias o de seguridad, siniestro, avería, hundimiento, desmantelamiento, pérdida total, retiro del esfuerzo pesquero, por destinarse a usos distintos a la pesca, entre otras causas análogas;
+
+IV. Que se presente documentación falsa o no vigente;
+
+V. Que sea dado de baja a través del formato “Recepción, Actualización y Verificación Documental para Permisionario”; y
+
+VI. Por solicitud expresa del interesado.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 45.
 
-El Estado, a través del Instituto de Pesca, integrará una Red de Información Acuícola, que concentrará la información de los diversos organismos y entidades respecto a esta actividad e incluirá, entre otros, la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, y en su caso, los estudios de factibilidad realizados, los resultados de los proyectos de investigación, así como las estadísticas de producción e información de precios, oferta y demanda de los productos acuícolas.
+El Estado, a través del Instituto de Pesca, integrará los datos del Registro Estatal al Sistema Estatal de Información Pesquera y Acuícola del Estado de Campeche y participará en la integración de la Red de Información Acuícola prevista en el artículo 123 de la Ley General, para concentrar la información de esta actividad, que incluirá entre otros datos, los relativos a la identificación de las especies y ubicación de áreas apropiadas para la acuacultura, los planes de ordenamiento, los resultados de los proyectos de investigación, así como las estadísticas de producción e información sobre precios, oferta y demanda de los productores acuícolas.
 
 ## TÍTULO DÉCIMO TERCERO. INSPECCIÓN Y VIGILANCIA
 
@@ -799,7 +995,9 @@ IV. Comercializar las capturas de la pesca deportivo-recreativa;
 
 V. No proporcionar la información en los términos y plazos que solicite el Instituto de Pesca o incurrir en falsedad al rendir ésta;
 
-VI. No cumplir con la obligación de inscripción y actualización en el Registro Estatal de Pesca y Acuacultura, en los términos de esta Ley y su reglamento;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
+
+VI. No cumplir con la obligación de inscripción y actualización en el Registro Estatal de Pesca y Acuacultura, en los términos de esta Ley;
 
 VII. No cumplir con las medidas sanitarias establecidas en la presente Ley y en los ordenamientos jurídicos aplicables;
 
@@ -863,11 +1061,11 @@ El Instituto de Pesca, para efectos de lo anterior, comunicará los hechos a la 
 
 Son responsables solidarios de las sanciones a que haya lugar, aquellas personas físicas o morales que intervienen en la preparación o realización de las infracciones contenidas en el artículo 50 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 55.
 
-El incumplimiento por parte de las y los servidores públicos estatales, municipales de las disposiciones contenidas en la presente Ley y su Reglamento, dará lugar a la responsabilidad en términos de lo establecido en la Ley General de Responsabilidades Administrativas y en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
+El incumplimiento por parte de las y los servidores públicos estatales y municipales de las disposiciones contenidas en la presente Ley, dará lugar a la responsabilidad en términos de lo establecido en la Ley General de Responsabilidades Administrativas, la Ley de Procedimiento Administrativo para el Estado y los Municipios de Campeche y la Ley de los Trabajadores al Servicio del Gobierno del Estado de Campeche.
 
 Las responsabilidades a que se refiere este capítulo se aplicarán sin perjuicio de las sanciones de carácter penal o civil que en su caso lleguen a determinarse por la autoridad judicial.
 
@@ -920,3 +1118,15 @@ SEGUNDO. Dentro del término de 180 días hábiles contados a partir de la entra
 TERCERO. Se derogan las disposiciones legales que se opongan a lo dispuesto en este decreto.
 
 CUARTO. Las disposiciones administrativas de carácter general aplicables y que hayan sido emitidas con anterioridad a la entrada en vigor del presente decreto, continuarán vigentes en todo lo que no se le oponga, hasta en tanto se expidan las disposiciones que las sustituyan con arreglo al mismo decreto.
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 370 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 3; 17; 18; 22; EL PÁRRAFO TERCERO DEL ARTÍCULO 26; EL PÁRRAFO PRIMERO DEL ARTÍCULO 28; EL ARTÍCULO 38; EL PÁRRAFO TERCERO DEL ARTÍCULO 44; EL ARTÍCULO 45; LA FRACCIÓN VI DEL ARTÍCULO 50 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 55; Y SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 4°; LOS ARTÍCULOS 17 BIS; 17 TER; 18 BIS; 18 TER; 18 QUATER; 18 QUINQUIES; EL PÁRRAFO CUARTO AL ARTÍCULO 44; LOS ARTÍCULOS 44 BIS, 44 TER Y 44 QUATER, TODOS DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- En un plazo no mayor a noventa días contados a partir de la entrada en vigor del presente decreto, deberá realizarse la expedición del Reglamento Interior del Consejo Estatal de Pesca y Acuacultura del Estado.
+
+Asimismo, el Ejecutivo Estatal deberá realizar los cambios que considere pertinentes en los instrumentos jurídicos del marco normativo administrativo.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
