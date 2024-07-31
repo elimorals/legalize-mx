@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-emprendedores-del-estado-de-yucatan-143146"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-09"
-last_updated: "2024-06-27"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EMPRENDEDORES DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Número 34,196 del Diario Oficial del Estado de Yucatán, el martes 9 de junio de 2020.
 
@@ -33,7 +33,7 @@ Mauricio Vila Dosal, gobernador del estado de Yucatán, con fundamento en los ar
 
 EXPOSICIÓN DE MOTIVOS:
 
-[…]
+[...]
 
 Por todo lo expuesto y fundado, los diputados integrantes de ésta Comisión Permanente, en el estudio, análisis y dictamen de la iniciativa para expedir la Ley de Emprendedores del Estado de Yucatán, nos pronunciamos a favor de la iniciativa planteada.En (sic) tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción V de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos los ordenamientos del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -73,9 +73,9 @@ IX. Promover redes de emprendimiento científico que acorten las brechas de la t
 
 X. Establecer programas de formación emprendedora y de impulso a la creación e incremento productivo y competitivo de MIPYMES, integrando e incentivando la participación de organizaciones públicas y privadas del ecosistema emprendedor del estado.
 
-> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O. 31 DE JULIO DE 2024)</small>
 
-XI. Fomentar la instalación de empresas creadas por mujeres con el propósito de impulsar su inserción en el mercado laboral y su participación en el sector formal de la economía, a través de la cultura del emprendimiento con perspectiva de género.
+XI. Fomentar las artesanías tradicionales, estimulando nuevas creaciones que preserven las características propias de las artesanías del estado y propicien la obtención de productos de calidad, sin menoscabo de lo previsto en la legislación aplicable en materia de protección del patrimonio cultural.
 
 > <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
 
@@ -93,7 +93,7 @@ I. Actividades de fomento: acciones económicas, jurídicas, sociales, comercial
 
 II. Agrupamientos empresariales: MIPYMES interconectadas, proveedores especializados y de servicios, así como instituciones asociadas dentro de una región del territorio nacional.
 
-III. Autónomo: condición de libre que el recurso posee y que le permite por caso desenvolverse correctamente en cualquier actividad sin la necesidad de una ayuda externa.
+III. (DEROGADA, D.O. 31 DE JULIO DE 2024)
 
 IV. Cadenas productivas: sistemas productivos que integran conjuntos de empresas que añaden valor agregado o productos o servicios a través de las fases del proceso económico.
 
@@ -105,13 +105,15 @@ VII. Certificación: acción mediante la que se manifiesta que una organización
 
 VIII. CLUSTERS: las Cadenas Productivas y Agrupamientos Empresariales.
 
-IX. Comisión dictaminadora: es el órgano convocado por el Ejecutivo Estatal, responsable de determinar y aplicar los criterios de selección de proyectos ideas de negocio a financiar por medio de los recursos del Fondo para el emprendedor.
+IX. (DEROGADA, D.O. 31 DE JULIO DE 2024)
 
-X. Comité técnico: órgano encargado de seleccionar proyectos a financiar con los recursos del Fondo.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+X. Comité: el órgano encargado de la selección de los proyectos a financiar con los fondos del programa de crédito y financiamiento establecidos en esta ley.
 
 XI. Competitividad: la calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad; y a nivel empresa, la capacidad para mantener y fortalecer la rentabilidad y participación de las MIPYMES en los mercados, con base en ventajas asociadas a sus productos o servicios, así como a las condiciones en que los ofrecen.
 
-XII. Consejo Estatal: el consejo que se establezca para la competitividad de la micro, pequeña y mediana empresa.
+XII. (DEROGADA, D.O. 31 DE JULIO DE 2024)
 
 XIII. Consultoría: servicio empresarial que consiste en la transferencia de conocimientos, metodologías y aplicaciones, con la finalidad de mejorar los procesos de la empresa que reciben la atención.
 
@@ -119,9 +121,13 @@ XIV. Ecosistema emprendedor: comunidad formada por organizaciones que interactú
 
 XV. Emprendedores: personas que identifican una oportunidad y comienzan con el proceso de crear, desarrollar o consolidar una empresa a partir de una idea.
 
-> <small>(ADICIONADA, D.O. 26 DE JUNIO DE 2024)</small>
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XVII.]</small>
 
-XVI. Emprendimiento: el proceso de iniciar o elaborar un proyecto, a través de la identificación de ideas y oportunidades que permitan crear una empresa o desarrollar un plan de negocio viable en términos económicos, sociales, políticos, ambientales, endógenos y de mercados, a fin de generar una alternativa para el mejoramiento en la calidad de vida de las personas.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XVI. Empresa: la persona física o moral, cuyo objeto sea el de llevar a cabo actividades económicas para la producción o intercambio de bienes o servicios para el mercado, con la cual se celebran los convenios en los términos de la presente ley.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XVI.]</small>
 
 XVII. Empresa: la persona física o moralmente constituida, cuyo objeto sea el de llevar a cabo actividades económicas para la producción o intercambio de bienes o servicios para el mercado, con la cual se celebran los convenios en los términos de la presente ley.
 
@@ -129,7 +135,7 @@ XVIII. Empresario: es toda aquella persona, que ejercita y desarrolla una activi
 
 XIX. FabLab: acrónimo del inglés Fabrication Laboratory; es un taller de fabricación digital, un espacio de producción de objetos físicos a escala personal o local que agrupa máquinas controladas por ordenadores.
 
-XX. Fomento emprendedor: el desarrollo de la cultura emprendedora por medio del estudio de temas que despierten el interés de los ciudadanos por convertirse en agentes de cambio y satisfagan sus metas a través de su propia acción, generando riqueza para sí y su comunidad en un marco de libertad, legalidad y responsabilidad.
+XX. (DEROGADA, D.O. 31 DE JULIO DE 2024)
 
 XXI. Fondo para el emprendedor: recurso conformado por un porcentaje que designe la Secretaría de Administración y Finanzas para el desarrollo económico del Estado de Yucatán.
 
@@ -147,13 +153,19 @@ XXVII. MIPYMES: las micro, pequeñas y medianas empresas legalmente constituidas
 
 XXVIII. No político: no vinculado a ningún partido o autoridad política del Estado.
 
-XXIX. Organizaciones empresariales: las cámaras empresariales y sus confederaciones en su carácter de organismos de interés público; así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante la federación, y los municipios del Estado de Yucatán.
+XXIX. (DEROGADA, D.O. 31 DE JULIO DE 2024)
 
 XXX. Profesional: ejercicio temporal de una actividad supervisada por especialistas en el tema.
 
 XXXI. Programas: esquemas para la ejecución de acciones y participación de la Federación, las entidades federativas y municipios.
 
-XXXII. Proyecto incubado de negocios: es un documento escrito elaborado por un emprendedor o empresario, que define claramente los objetivos de un negocio y describe los métodos que van a emplearse para alcanzar los objetivos. Es una serie de actividades relacionadas entre sí para el comienzo o desarrollo de un proyecto con un sistema de planeación tendiente a alcanzar metas determinadas.
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XXIII.]</small>
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XXXII. Sector público: las dependencias y entidades de la Administración Pública federal, estatal y municipal.
+
+> <small>[N. DE E. DEL ANÁLISIS AL PRESENTE ORDENAMIENTO, SE ADVIERTE QUE EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR A LA FRACCIÓN XXII.]</small>
 
 XXXIII. Sector público: dependencia y entidades de la Administración Pública Federal, Estatal y Municipal.
 
@@ -167,9 +179,11 @@ XXXVII. Universal: referente a todo el país, a todos los tiempos, a todas las p
 
 XXXVIII. Viable: que puede ser factible y realizable.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 3.
 
-Para dar cumplimiento a lo dispuesto en la presente ley, el Poder Ejecutivo del Estado deberá generar condiciones de competencia en igualdad de oportunidades y estimular su capacidad emprendedora, para así liberar las potencialidades creativas y aportar al sostenimiento de las fuentes productivas y a un desarrollo regional equilibrado.
+Para dar cumplimiento a lo dispuesto en la presente ley, el Poder Ejecutivo del estado deberá generar condiciones de competencia en igualdad de oportunidades y estimular la capacidad emprendedora, para así liberar las potencialidades creativas y aportar al sostenimiento de las fuentes productivas y a un desarrollo regional equilibrado.
 
 > <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
 
@@ -189,9 +203,11 @@ VI. La difusión de procedimientos, normas, reglas, programas, apoyos e incentiv
 
 ### CAPÍTULO II. Del Desarrollo de la Micro, Pequeña y Mediana Empresa
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 4.
 
-La autoridad responsable de elaborar la política integral de apoyo a las MIPYMES será de manera compartida entre la Secretaría de Fomento Económico y Trabajo y el Instituto, en el marco de la normativa aplicable, tomando en consideración los objetivos y criterios establecidos en la presente Ley, así como las recomendaciones que emita el Consejo. Dicha política deberá realizarse dentro de los primeros 180 días naturales contados a partir del primer día de ejercicio de cada periodo de gobierno en el Estado.
+Las autoridades responsables de elaborar la política integral de apoyo a las MIPYMES serán, de manera compartida, la Secretaría de Fomento Económico y Trabajo y el Instituto, en el marco de la normativa aplicable, tomando en consideración los objetivos y criterios establecidos en la presente ley.
 
 ###### Artículo 5.
 
@@ -207,7 +223,7 @@ IV. Orientar estrategias y proyectos de modernización, innovación y desarrollo
 
 V. Contar con mecanismos de medición de avances para evaluar el impacto de las políticas de apoyo a las MIPYMES, que permitan corregirlas o mejorarlas.
 
-VI. Promover que las dependencias y entidades de la Administración Pública Estatal, en la planeación de sus adquisiciones de bienes, contratación de servicios y realización de obra pública consideren a las MIPYMES, hasta alcanzar un mínimo del 25%, conforme a la presente Ley, a la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y a la Ley de Obra Pública y Servicios Conexos del Estado de Yucatán.
+VI. (DEROGADA, D.O. 31 DE JULIO DE 2024)
 
 ###### Artículo 6.
 
@@ -217,7 +233,9 @@ I. Creación de empleo para jóvenes, mujeres, adultos mayores y personas con di
 
 II. Alto valor agregado económico, en sectores que las autoridades competentes, con base a estudios y análisis, reúnan condiciones preferentes para inversión económica.
 
-III. Uso racional de los recursos naturales de acuerdo a la legislación nacional vigente en materia de protección del medio ambiente, con el fin de proteger el medio ambiente.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+III. Uso racional de los recursos naturales de acuerdo con la legislación nacional vigente en materia de protección del medio ambiente.
 
 IV. Uso y fomento de fuentes de energía renovable y limpia.
 
@@ -309,7 +327,7 @@ IV. El desarrollo de proveedores, almacenistas e intermediarios.
 
 V. Promoción de las MIPYMES a nivel nacional e internacional.
 
-VI. Promoción de las empresas yucatecas como proveedores de productos y servicios al Gobierno del Estado en un mínimo de hasta 25 % del presupuesto total.
+VI. (DEROGADA, D.O. 31 DE JULIO DE 2024)
 
 VII. La transferencia tecnológica y de investigación científica a las MIPYMES establecidas en el Estado.
 
@@ -317,135 +335,109 @@ VIII. El establecimiento de nodos productivos y de infraestructura tecnológica 
 
 IX. Impulso de la participación de incubadoras de negocios, redes estatales de asesores de negocios, aceleradoras de negocios y FabLabs, así como demás actores del ecosistema emprendedor, en las acciones de fomento.
 
-X. Promover la creación de un catálogo o directorio de emprendedores segmentado en base a los principios de la economía del conocimiento.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-### CAPÍTULO III. De la Red Estatal de Emprendedores
+X. Promover la creación de un catálogo o directorio de emprendedores segmentado con base en los sectores presentes en la economía del estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2024)</small>
+
+### CAPÍTULO III. De las Políticas de Fomento al Emprendimiento
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 13.
 
-El Instituto deberá concertar con los gobiernos municipales y las instituciones de educación superior, la integración de una red estatal de incubadoras de nuevos proyectos, así como modelos que contemplen redes de asesores para proyectos de negocios, así como de aceleradoras y organismos de transferencia tecnológica, todo ello con el fin de apoyar el desarrollo económico de las MIPYMES.
+El Instituto deberá contar con un programa que tenga como objetivo que la población emprendedora y empresarial se desenvuelva en un contexto favorable para el desarrollo de proyectos productivos con enfoque de inclusión.
+
+Para la operación del programa, el Instituto deberá realizar las siguientes acciones:
+
+I. La prestación de los servicios de consultorías, capacitaciones y asesorías para obtener la protección de marcas conforme a lo establecido por la normativa aplicable; así como el otorgamiento de apoyo en especie a través del subsidio parcial del pago del derecho para el ingreso de la solicitud de registro de marca ante el Instituto Mexicano de la Propiedad Industrial.
+
+II. La prestación de los servicios de consultorías, capacitaciones y asesorías para el desarrollo de la imagen corporativa, así como el otorgamiento de pagos de servicios de tramitología para escalar el crecimiento del negocio.
+
+III. El otorgamiento de apoyos en especie como materias primas, herramientas o equipo para la elaboración de los productos de las personas emprendedoras, micro y pequeñas empresas para el incremento de su capacidad de producción.
+
+IV. El otorgamiento de apoyos en especie para la digitalización de la operación del negocio, como el pago total o parcial de herramientas, equipo, hardware o software, que permitan tener una operación más eficiente del negocio.
+
+Para acceder a los subsidios o ayudas previstos en este artículo, se deberán (sic) cumplir además de lo previsto en esta ley, con los requisitos establecidos en las reglas de operación donde se regulen; y se otorgarán de acuerdo con la disponibilidad presupuestaria.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 14.
 
-La Red Estatal de Emprendedores establecerá una coordinación conformada por un equipo técnico interdisciplinario con dependencias del sector público y privado, que se especialicen en dar seguimiento y capacitación permanente a los proyectos productivos.
+El Instituto deberá contar con un programa consistente en el otorgamiento de consultorías, para que las ideas o proyectos de las personas beneficiarias se consoliden en un proyecto de negocio validado en el mercado y con las bases para un crecimiento local, la vinculación con diversas entidades, la integración a cadenas productivas y su proyección hacia mercados nacionales o internacionales.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 15.
 
-La Red Estatal de emprendedores, en el ámbito de su competencia, podrá ejercitar las acciones en coordinación con el Instituto, establecidas en el artículo 12 de la presente Ley.
+El Instituto deberá contar con un programa que tenga como objetivo que las empresas constituidas en el estado accedan a apoyos en especie consistentes en diagnósticos empresariales, procesos de formación, consultorías, asesorías o vinculaciones comerciales, que les permitan acelerar el crecimiento de su volumen de operaciones.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 16.
 
-La Red Estatal de Emprendedores se integrará al menos con las siguientes Instituciones y Organismos:
+El Instituto deberá contar con una marca registrada para prestar el servicio de comercialización de productos y servicios de terceros mediante eventos promocionales, o por cualquier otra forma de intermediación y de asesoramiento en la materia, a efecto de promover el desarrollo del sector artesanal en el estado.
 
-I. Secretaría de Administración y Finanzas.
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
 
-II. Secretaría de Educación.
+Artículo 16 bis.- Los programas a que se hace referencia en este capítulo deberán contar con sus respectivas reglas de operación y ajustarse a la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, la Ley de Desarrollo Social del Estado de Yucatán, y demás disposiciones y normativas aplicables.
 
-III. Secretaría de las Mujeres.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2024)</small>
 
-IV. Secretaría de Desarrollo Social.
+### CAPÍTULO IV. Del Programa de Crédito y Financiamiento
 
-V. Secretaría de Investigación, Innovación y Educación Superior.
-
-VI. Secretaría de Fomento Económico y Trabajo.
-
-VII. Secretaría de la Contraloría General.
-
-VIII. Secretaría de Fomento Turístico.
-
-IX. Secretaría Técnica de Planeación y Evaluación.
-
-X. Dos representantes de Cámaras empresariales.
-
-XI. Dos representantes del Sector Obrero.
-
-XII. Dos representantes de Instituciones Educativas de Nivel Superior.
-
-### CAPÍTULO IV. Del Fondo Para el Emprendedor a la Micro, Pequeña y Mediana Empresa
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 17.
 
-Se crea el Fondo para el emprendedor, a la Micro, Pequeña y Mediana Empresa, con carácter universal, no político, transparente, viable, autónomo y profesional, con la partida presupuestal que en su caso apruebe el Poder Legislativo a propuesta del Poder Ejecutivo, en el presupuesto de Egresos del Estado para el ejercicio correspondiente, y se procurará que sea el remanente del ejercicio fiscal anterior más la aportación estatal a partir del siguiente año, para ser preferentemente del 0.016% del total de ingresos autorizados en la Ley de Ingresos antes de financiamiento.
+El Instituto deberá contar con un programa de crédito y financiamiento para emprendedores, micro y pequeñas empresas, con carácter universal, transparente, viable y profesional, con la partida presupuestal que para tal efecto sea propuesta por el Poder Ejecutivo y aprobada por el Poder Legislativo, en el presupuesto de egresos del Gobierno del Estado para el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 18.
 
-El Fondo operará conforme a los siguientes principios:
+El programa de crédito y financiamiento operará conforme a los siguientes principios:
 
-I. La partida presupuestal para el ejercicio que se trate, estará prevista en la Ley de Egresos del Estado.
+I. La partida presupuestal para el ejercicio que se trate, estará prevista en el presupuesto de egresos del Gobierno del Estado.
 
-II. Sin menoscabo de lo dispuesto en la fracción anterior, este fondo económico se podrá complementar con aportaciones adicionales provenientes del gobierno federal, estatal y municipal, las cuales deberán informarse al Consejo oportunamente.
+II. Sin menoscabo de lo dispuesto en la fracción anterior, los fondos de este programa se podrán complementar con aportaciones adicionales provenientes del gobierno federal, estatal y municipal.
 
-III. El Fondo será ejercido por el Instituto, según el presente ordenamiento. Los apoyos y/o financiamientos podrán retornarse en plazos de uno o varios años.
+III. Este programa será ejercido por el Instituto, conforme a lo previsto en esta ley y sus respectivas reglas de operación y ajustarse a la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán, la Ley de Desarrollo Social del Estado de Yucatán, y demás disposiciones y normativas aplicables.
 
-IV. Los apoyos y/o financiamiento a que se refiere la presente Ley estarán sujetos al saldo disponible en el Fondo.
+IV. Los apoyos o financiamientos a que se refiere la presente ley podrán retornarse en plazos de uno o varios años; y estarán sujetos al saldo disponible en el referido programa.
 
-V. El Fondo deberá ser ministrado de manera mensual en cuenta individual aperturada para este fin por la Secretaría de Administración y Finanzas.
+V. Las aportaciones a este programa deberán ser ministradas por la Secretaría de Administración y Finanzas, en los términos y por los montos que se determinen en el presupuesto de egresos del Gobierno del Estado.
 
-VI. El fondo deberá ser utilizado únicamente para empresas establecidas en territorio yucateco.
+VI. Este programa deberá ser utilizado únicamente para empresas establecidas en territorio yucateco.
 
-VII. El Fondo deberá canalizar una fracción de los recursos a la operación de incubadoras y aceleradoras de negocio, que previamente hayan sido consideradas en la red estatal a la que se hace referencia en el artículo 13 de esta ley; así como para instituciones educativas que realicen programas de fomento al emprendimiento.
+El comité informará al director general del Instituto sobre las acciones a que se refiere el presente artículo, conforme a la legislación aplicable en materia de transparencia y de acceso a la información pública; quien a su vez incluirá esta información en el informe que rinda al órgano de gobierno del referido Instituto.
 
-El Comité técnico informará al Consejo sobre las acciones a que se refiere el presente artículo, conforme a la Ley de Transparencia y de Acceso a la Información Pública del Estado de Yucatán.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2024)</small>
 
-> <small>[N. DE E. EL CONTENIDO DEL PENÚLTIMO PÁRRAFO ES SIMILAR AL ÚLTIMO PÁRRAFO.]</small>
+### CAPÍTULO V. Del Comité y del Instituto
 
-> <small>(ADICIONADO, D.O. 26 DE JUNIO DE 2024)</small>
-
-El otorgamiento de apoyos o financiamientos sujetos al saldo disponible en el Fondo se basará y regirá por los criterios de equidad, viabilidad económica, factibilidad, innovación y competitividad.
-
-> <small>[N. DE E. EL CONTENIDO DEL ÚLTIMO PÁRRAFO ES SIMILAR AL PENÚLTIMO PÁRRAFO.]</small>
-
-> <small>(ADICIONADO, D.O. 27 DE JUNIO DE 2024)</small>
-
-El otorgamiento de apoyos y/o financiamientos sujetos al saldo disponible en el fondo se regirá por los principios de igualdad de condiciones, equidad, competitividad, viabilidad, factibilidad económica e innovación.
-
-### CAPÍTULO V. Del Comité Técnico
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 19.
 
-El Comité Técnico será el órgano responsable de determinar y aplicar los criterios de selección de proyectos o ideas de negocios a financiar con los recursos del fondo, así como determinar la distribución de los beneficios del mismo.
+El comité será el órgano responsable de determinar y aplicar los criterios de selección de proyectos o ideas de negocios a financiar con los recursos del programa de crédito y financiamiento, así como determinar la distribución de los beneficios de este.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 20.
 
-El Comité Técnico se integrará por los titulares de las dependencias siguientes:
+Las reglas de operación del programa de crédito y financiamiento deberán establecer lo relativo a la integración y el desarrollo de las sesiones y las facultades de quienes lo integran.
 
-I. Secretaría de Administración y Finanzas.
-
-II. Secretaría de Educación.
-
-III. Secretaría de Desarrollo Social.
-
-IV. Secretaría de las Mujeres.
-
-V. Secretaría de Investigación, Innovación y Educación Superior.
-
-VI. Secretaría de Fomento Económico y Trabajo.
-
-VII. Secretaría de la Contraloría General.
-
-VIII. Secretaría de Fomento turístico.
-
-IX. Secretaría Técnica de Planeación y Evaluación.
-
-X. Representantes de Cámaras empresariales.
-
-XI. Representantes del Sector Social y obrero.
-
-XII. Representantes de Instituciones Educativas de Nivel Superior.
-
-Por acuerdo de la mayoría del Comité, se podrá invitar a cualquier otra cámara, asociación u organización civil que destaque por su conocimiento y experiencia en temas de fomento e impulso al emprendedurismo.
-
-El Secretario de Fomento Económico y Trabajo fungirá como Presidente y designará como Secretario de Actas y Acuerdos, preferentemente, a un funcionario público del Instituto, que tenga, al menos, el nivel de Director o cuente con experiencia y conocimiento en temas del emprendedurismo.
-
-Los titulares de las demás dependencias podrán nombrar a un servidor público con, al menos, nivel de Director que los represente en el Comité Técnico.
-
-Dicho comité podrá vincularse a organismos gubernamentales en la materia con la finalidad de coordinarse y realizar acciones en conjunto en el fomento, avance y desarrollo del emprendedurismo en la entidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 21.
 
-El Comité Técnico tendrá las siguientes atribuciones:
+El comité tendrá las siguientes atribuciones:
 
-I. Aprobar y expedir las Reglas de Operación, así como la normatividad administrativa necesaria que regirán el manejo de los fondos de Fomento a la Micro, Pequeña y Mediana Empresa.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+I. Aprobar y expedir la normativa para regular el manejo de los fondos del programa de crédito y financiamiento.
 
 II. Expedir las convocatorias públicas para la presentación de las solicitudes bajo los principios de universalidad, igualdad, participación democrática, solidaridad, identidad yucateca e interculturalidad.
 
@@ -455,51 +447,25 @@ IV. Determinar el tipo y monto del fondo que se entregará a los beneficiarios c
 
 V. Aprobar su calendario de sesiones en la primera sesión ordinaria de cada año.
 
-VI. Las demás previstas en esta Ley, en las Reglas de Operación del Fondo y en otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+VI. Las demás previstas en esta ley, en las reglas de operación del programa de crédito y financiamiento y en otras disposiciones legales y normativas aplicables.
 
 ###### Artículo 22.
 
-El Consejo Estatal está obligado a considerar y a razonar las decisiones de los apoyos con base en los siguientes criterios:
-
-I. Promover una mayor participación de los ciudadanos en el desarrollo económico del Estado.
-
-II. Contribuir a la creación, fortalecimiento, desarrollo, consolidación, viabilidad, productividad y sustentabilidad de las micro, pequeñas y medianas empresas a través de la mejora de sus procesos.
-
-III. Promover, capacitar y difundir los programas, instrumentos, productos, herramientas y acciones para elevar la competitividad de las MIPYMES y los emprendedores, como estudios de factibilidad, capacitación de personal, infraestructura tecnológica, entre otros.
-
-IV. Fomentar el acceso al financiamiento de las MIPYMES y emprendedores.
-
-V. Fomentar la constitución de incubadoras de empresas y formación de emprendedores, mediante la implementación de programas dirigidos a los diferentes sectores de la población.
-
-VI. Facilitar y fomentar la integración de las MIPYMES a las cadenas globales de valor.
-
-VII. Promover la innovación, investigación y el desarrollo de tecnología en las MIPYMES para ser competitivos.
-
-VIII. Fomentar la generación de empleos en las MIPYMES del Estado.
-
-IX. Apoyar a las incubadoras, los espacios de emprendimiento, aceleradoras, FabLabs; mediante el acceso a financiamiento y canalización de recursos.
-
-X. Promover la vinculación de las MIPYMES con las universidades, centros de investigación científicos y tecnológicos del Estado.
-
-XI. Fomentar el establecimiento de organismos de transferencia tecnológica que garanticen la articulación y apropiación de la innovación y desarrollos tecnológicos en las MIPYMES del Estado.
-
-XII. Fomentar la creación de espacios de trabajo para personas con discapacidad.
-
-XIII. Fomentar proyectos que tengan como objetivo el uso racional de recursos naturales, la energía renovable y limpia y el uso racional de recursos hídricos y la aplicación de sistemas de tratamiento y reciclado de agua con el fin de proteger el medio ambiente.
+(DEROGADO, D.O. 31 DE JULIO DE 2024)
 
 ### CAPÍTULO VI. De las Autoridades Competentes
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 23.
 
-La aplicación de la presente Ley corresponde al Poder Ejecutivo del Estado por conducto de las siguientes dependencias en el ámbito de sus respectivas competencias:
+La aplicación de la presente ley corresponde al Poder Ejecutivo del Estado por conducto de las siguientes dependencias y entidades en el ámbito de sus respectivas competencias:
 
 I. La Secretaría de Fomento Económico y Trabajo.
 
-II. La Secretaría de Educación.
-
-III. La Secretaría de Desarrollo Social.
-
-V (SIC). La Secretaría de Investigación, Innovación y Educación Superior.
+II. El Instituto.
 
 ###### Artículo 24.
 
@@ -519,29 +485,41 @@ VI. Fortalecer los procesos empresariales que contribuyan al desarrollo local, r
 
 VII. Dar el seguimiento para articular los esfuerzos que, en materia regulatoria, estímulos y coinversiones se lleven a cabo para el cumplimiento de lo propuesto en la presente Ley.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 25.
 
-A la Secretaría de Educación del Estado le corresponde:
+Al Instituto le corresponde:
 
-I. Coordinar la puesta en marcha de las acciones que la presente Ley contempla para el logro de sus objetivos en el ámbito de su competencia, mediante la incorporación la cultura emprendedora en las actividades extracurriculares.
+I. Coordinar la puesta en marcha de las acciones que la presente ley contempla para el logro de sus objetivos en el ámbito de su competencia, mediante la incorporación de la cultura emprendedora.
 
-II. Fomentar y promover la cultura y formación emprendedora mediante el impulso de sus temas y sus contenidos en los planes y programas de estudio de la educación básica, media superior y superior, pública y privada, en las diferentes modalidades que se imparten en el Estado.
+II. Fomentar la cultura emprendedora y el desarrollo artesanal en el estado, en coordinación con las secretarías, instituciones de educación media superior y superior, así como con organismos empresariales y demás asociaciones de carácter público o privado que tengan el mismo fin.
 
-III. Fomentar y fortalecer el acercamiento de las instituciones educativas a instituciones que impulsan y desarrollan programas educativos profesionales que acercan al estudiante a entender el sistema de economía de mercado con contenido social.
+III. Fomentar el desarrollo en las personas, comunidades, o uniones de personas artesanas, las habilidades y competencias que se requieren para emprender un negocio, así como la creación o preservación de un producto artesanal, tales como la iniciativa, la creatividad para identificar oportunidades generadoras de valor, la educación financiera y de planeación para lograr un proyecto sostenible en el corto, mediano y largo plazo, entre otras.
 
-IV. Fomentar un vínculo entre el sistema educativo y el desarrollo económico, mediante enlaces y/o prácticas laborales, sociales y empresariales, a través de actividades emprendedoras, a fin de generar individuos agentes de desarrollo económico para el bien común.
+IV. Promover la producción artesanal mediante esquemas de emprendimiento que favorezcan su viabilidad económica, a la vez que permitan generar bienes de valor artístico y cultural.
+
+V. Proporcionar servicios de asesorías, consultorías, formación y capacitación a personas emprendedoras, personas artesanas, cooperativas, uniones de personas artesanas, empresas y organizaciones privadas que lo soliciten, con la finalidad de mejorar su organización, procesos productivos; detonar y desarrollar sus competencias de emprendimiento de alto impacto; impulsar su desarrollo humano y técnico.
+
+VI. Fortalecer la red de emprendimiento y el desarrollo artesanal.
+
+VII. Fomentar y apoyar a las personas emprendedoras y personas artesanas para la creación e impulso de su negocio a través de incubadoras de negocios u organismos especializados en el tema.
+
+VIII. Crear e implementar políticas y programas de apoyo para las micro, pequeñas y medianas empresas, cooperativas y uniones de personas artesanas o personas emprendedoras del estado de Yucatán, mediante, el otorgamiento de subsidios y otras ayudas.
+
+IX. Adquirir, recibir en consignación, comercializar y vender en tiendas físicas o mediante comercio electrónico, en los mercados nacionales y del exterior, productos de personas emprendedoras y de personas artesanas, de micro, pequeñas y medianas empresas, asociaciones, organizaciones, cooperativas o uniones de personas artesanas, o productos que sean generados u obtenidos por cualquier título legal, derivados de programas ejecutados en las unidades administrativas del Instituto.
+
+X. Fomentar las artesanías tradicionales e impulsar nuevas creaciones que preserven las características propias de las artesanías del estado y propicien la obtención de productos de calidad.
+
+XI. Las demás que determinen su decreto de creación, así como su estatuto orgánico.
 
 ###### Artículo 26.
 
-A la Secretaría de Desarrollo Social le corresponde:
-
-I. Dar seguimiento y facilitar el proceso de incubación, en cualquiera de las incubadoras existentes en el Estado de Yucatán, de las ideas de negocios, proyectos productivos y propuestas de nuevas empresas de jóvenes yucatecos.
+(DEROGADO, D.O. 31 DE JULIO DE 2024)
 
 ###### Artículo 27.
 
-A la Secretaría de Investigación, Innovación y Educación Superior le corresponde:
-
-I. Coordinar y administrar de manera óptima los sistemas de información relacionados con la planeación y programación de las actividades de investigación e innovación, así como las actividades de divulgación científica y tecnológica, además de promover la formación, capacitación, atracción y permanencia de investigadores, tecnólogos y vinculadores de alto nivel en el estado, incluyendo en todo momento la participación de comunidades científicas en diferentes actividades.
+(DEROGADO, D.O. 31 DE JULIO DE 2024)
 
 ###### Artículo 28.
 
@@ -629,7 +607,9 @@ II. La reducción de impuestos y contribuciones estatales.
 
 III. La reducción en los pagos por adquisiciones de servicios públicos estatales.
 
-IV. Cualquier otro beneficio fiscal o tributario que se acuerde por el Titular del Poder Ejecutivo del Estado a quienes directamente beneficien a empresas nacidas del emprendedurismo.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+IV. Cualquier otro beneficio fiscal o tributario que se acuerde por la persona titular del Poder Ejecutivo del estado a quienes directamente beneficien a empresas procedentes del emprendimiento.
 
 V. Ampliación del beneficio de exención del pago al impuesto sobre la nómina durante el período en el que el crédito esté activo o hasta por dos años.
 
@@ -716,3 +696,15 @@ Artículo primero. Este Decreto entrará en vigor el día siguiente al de su pub
 Derogación normativa.
 
 Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 799/2024 POR EL QUE SE MODIFICA LA LEY DE EMPRENDEDORES DEL ESTADO DE YUCATÁN, EN MATERIA DE APOYO, PROMOCIÓN Y DESARROLLO DEL EMPRENDIMIENTO EN EL ESTADO”.]
+
+Entrada en vigor
+
+Artículo primero. Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Obligación normativa
+
+Artículo segundo. La persona titular del Poder Ejecutivo del Estado, en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este Decreto, deberá expedir o modificar las disposiciones normativas y reglamentarias que fuesen necesarias para armonizar el marco jurídico estatal con las disposiciones contenidas en este decreto.
