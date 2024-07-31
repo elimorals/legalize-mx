@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-prevenir-combatir-y-sancionar-toda-forma-de-56440"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2024-07-24"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -54,6 +54,14 @@ En el Estado de Campeche todo particular o servidor público que cometa actos de
 ###### Artículo 3.
 
 Las autoridades del gobierno del Estado, en colaboración con los demás entes públicos y los Municipios, procurarán garantizar que toda persona goce, sin discriminación alguna, de todos los derechos y libertades consagrados en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado, en las leyes que de ellas emanen y en los tratados en los que México sea parte.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 3 Bis.
+
+Corresponde al Estado promover las condiciones para que la libertad y la igualdad de las personas sean reales y efectivas.
+
+Los poderes públicos estatal y municipales deberán eliminar todos aquellos obstáculos que limiten en los hechos su ejercicio e impidan el pleno desarrollo de las personas, así como su efectiva participación en la vida política, económica, cultural y social del país y promoverán, garantizarán e impulsarán la participación de las autoridades de sus órdenes de Gobierno y de las personas particulares en la eliminación de dichos obstáculos.
 
 ###### Artículo 4.
 
@@ -790,3 +798,11 @@ P.O. 24 DE JULIO DE 2024.
 Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 373 POR EL QUE “SE ADICIONA EL ARTÍCULO 3 BIS A LA LEY PARA PREVENIR, COMBATIR Y SANCIONAR TODA FORMA DE DISCRIMINACIÓN EN EL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
