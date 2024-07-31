@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2023-05-20"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -281,15 +281,75 @@ III.- Aprobar las comisiones edilicias a que se refiere esta Ley; y
 
 IV.- Proceder a la entrega-recepción de la situación que guarda la Administración Pública Municipal, que hace el Ayuntamiento saliente.
 
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2024)</small>
+
+### CAPITULO SEGUNDO BIS. Del Proceso de Transición y Cambio de la Administración Pública Municipal
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 31 DE JULIO DE 2024)</small>
+
+#### SECCIÓN PRIMERA. Disposiciones Generales
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 28 A.- Las disposiciones del presente capitulo tienen por objeto establecer la forma y términos en que se integrarán y se desarrollarán los trabajos relativos al proceso de transición y cambio de la administración pública municipal entre el Ayuntamiento entrante y el Ayuntamiento saliente, mismos que darán inicio el primer lunes del mes de julio y concluirán a más tardar tres días antes de la fecha de inicio de funciones del Ayuntamiento entrante.
+
+El proceso de transición y cambio de la Administración Pública Municipal se llevará a cabo siempre y cuando la planilla ganadora del proceso electoral correspondiente haya obtenido una diferencia de votos válidos igual o mayor al tres por ciento respecto de la planilla que obtuvo el segundo lugar y que a su vez esta no haya impugnado conforme a la legislación aplicable el resultado de la elección.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 31 DE JULIO DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. De la Comisión de Transición
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 28 B.- Se crea la Comisión de Transición, la cual tendrá por objeto que el Ayuntamiento Saliente ponga a disposición del Ayuntamiento Entrante el estado en que se encuentran los recursos humanos, materiales, patrimoniales y financieros, así como la prestación de los diversos servicios públicos municipales a su cargo, los programas de obra pública y de adquisiciones, asuntos en trámite y jurisdiccionales, auditorías en curso, y demás asuntos relevantes que se hayan tramitado durante el periodo constitucional del Ayuntamiento Saliente, para que al momento de iniciar su ejercicio de funciones el Ayuntamiento entrante se dé continuidad a las acciones, actividades y programas institucionales que correspondan.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 28 C.- La Comisión de Transición estará integrada de la siguiente forma:
+
+I. Por el Ayuntamiento Saliente:
+
+a) La Persona titular de la Secretaría General;
+
+b) La Persona titular de la Tesorería Municipal;
+
+c) La Persona titular de la Oficialía Mayor; y
+
+d) La Persona titular de la Contraloría Municipal;
+
+Dichos servidores públicos serán responsables de entregar conforme a su ámbito de competencias, la información y documentación relativa al estado que guardan los recursos y asuntos del Ayuntamiento Saliente.
+
+Los titulares de las diversas direcciones generales, así como de los organismos descentralizados de la administración pública municipal designarán un enlace que estará encargado de proporcionar la información relativa a sus áreas que le requiera la comisión de transición, por conducto de la persona titular de la Secretaría General.
+
+II. Por el Ayuntamiento Entrante: Cuatro personas designadas por la Persona Titular de la Presidencia Municipal del Ayuntamiento Entrante, quien notificará por escrito tal circunstancia al Presidente Municipal del Ayuntamiento Saliente, señalando los nombres, domicilios, correos electrónicos y números telefónicos de dichas personas, los cuales, no podrán ser servidores públicos en funciones.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 28 D
+
+La persona titular de la Presidencia Municipal del Ayuntamiento entrante solicitará por escrito a la persona titular de la Presidencia Municipal del Ayuntamiento saliente que se proceda a la instalación e inicio de los trabajos de la Comisión de Transición a mas tardar tres dias antes de la fecha señalada en el primer párrafo del artículo 28 A.
+
+En caso de que la persona titular de la Presidencia Municipal del Ayuntamiento saliente no realice las acciones necesarias para llevar a cabo la instalación e inicio de los trabajos de la Comisión de Transición, incurrirá en responsabilidad y por tanto se hará acreedora a las sanciones administrativas que resulten aplicables en términos de lo dispuesto por la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 28 E.- La Comisión de Transición levantará una minuta en la primera reunión que celebre para dejar constancia de su instalación e inicio de los trabajos conjuntos y procederá a la elaboración de un programa de trabajo, en el que se contemple el calendario de reuniones, así como las fechas y contenido de la información que se entregará por parte del Ayuntamiento Saliente sobre la administración, ejecución y cumplimiento de los programas, proyectos, presupuestos, recursos humanos, materiales y financieros, inmuebles, ingresos y egresos, inventarios y almacenes, plantilla de personal, obras públicas y adquisiciones, asuntos en trámite y jurisdiccionales, auditorías, así como todos aquellos asuntos relevantes y de trámite urgente, especificando en este último rubro, las acciones que se realizarán y el cargo de las personas servidoras públicas responsables de su atención y seguimiento, a efecto de que el Ayuntamiento entrante conozca el estado que guarda la Administración Pública Municipal, y poder así dar continuidad a la gestión gubernamental.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 28 F.- La información y documentación podrá ser presentada por escrito y/o a través de medios magnéticos o por cualquier otro medio, según lo acuerde la Comisión de Transición en las fechas establecidas en el Programa de Trabajo; asimismo, en las reuniones que se lleven a cabo conforme al calendario establecido, los integrantes de la referida Comisión deberá exponer los avances, dudas y comentarios que se generen; de cada reunión que se celebre se levantará una minuta en la que se registrarán los acuerdos y conclusiones que adopten y el seguimiento de los acuerdos adoptados en reuniones anteriores y será firmada por todos los asistentes.
+
+A las reuniones de la Comisión de Transición se podrá invitar a otros servidores públicos del Ayuntamiento Saliente que tengan injerencia sobre los temas a tratar teniendo estos la obligación de responder las dudas o cuestionamientos que se presenten, así como a proporcionar la información que les sea requerida por la Comisión de Transición.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 28 G.- La omisión o retraso a entregar la información por parte de los servidores públicos que integran la Comisión de Transición o de cualquiera otra dependencia o área del Ayuntamiento Saliente será causa de responsabilidad, razón por la cual se deberá dar vista al Órgano Interno de Control para que proceda conforme al ámbito de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 28 H.- La Comisión de Transición deberá concluir los trabajos conforme al Programa establecido para lo cual elaborará una minuta de trabajo final en la que se haga constar el cierre de los trabajos, debiendo ser firmada por sus integrantes.
+
 ### CAPITULO TERCERO. De la entrega-recepción de la Administración Pública Municipal
-
-#### SECCIÓN I. De las Facultades y Obligaciones del Presidente Municipal
-
-#### SECCIÓN II. De las Facultades y Obligaciones del Síndico
-
-### CAPITULO CUARTO. Del Funcionamiento de los Ayuntamientos
-
-> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 29.
 
@@ -349,7 +409,9 @@ Sometido a su consideración el dictamen, el Ayuntamiento emitirá el acuerdo co
 
 El Ayuntamiento, dentro de los quince días hábiles siguientes, remitirá copia del expediente de entrega-recepción a la Auditoría Superior del Estado de Baja California Sur, para efecto de que en la revisión de las cuentas públicas municipales, sea tomado en cuenta.
 
-### CAPITULO QUINTO. De la Ética de los Integrantes del Ayuntamiento
+### CAPITULO CUARTO. Del Funcionamiento de los Ayuntamientos
+
+> <small>(REFORMADO, B.O. 30 DE SEPTIEMBRE DE 2016)</small>
 
 ###### Artículo 34.
 
@@ -451,7 +513,7 @@ Las actas deberán ser firmadas por los integrantes del Ayuntamiento que partici
 
 Los Ayuntamientos podrán revocar sus acuerdos por orden judicial o en aquellos casos en que se hayan dictado en contravención a la Ley o hayan desaparecido las causas que lo motivaron, y siguiendo el procedimiento y las formalidades que fueron necesarios para tomar los mismos, en cuyo caso se seguirán las formalidades de ley.
 
-### CAPITULO SEXTO. De las Facultades y Obligaciones de los Ayuntamientos
+### CAPITULO QUINTO. De la Ética de los Integrantes del Ayuntamiento
 
 ###### Artículo 48.
 
@@ -467,7 +529,7 @@ Asimismo, deberán guardar la reserva correspondiente de los asuntos tratados en
 
 Las peticiones que realicen los integrantes del Ayuntamiento, deberán hacerse con respeto y atendiendo al interés público.
 
-### CAPITULO SÉPTIMO. De los Integrantes de los Ayuntamientos
+### CAPITULO SEXTO. De las Facultades y Obligaciones de los Ayuntamientos
 
 ###### Artículo 51.
 
@@ -623,7 +685,7 @@ n) Promover y establecer las medidas o programas tendientes a fortalecer los val
 
 VI.- Las demás que le confieran las leyes y reglamentos para el cumplimiento de sus funciones.
 
-### CAPITULO OCTAVO. De las Comisiones Edilicias
+### CAPITULO SÉPTIMO. De los Integrantes de los Ayuntamientos
 
 ###### Artículo 52.
 
@@ -637,7 +699,7 @@ III. Los Regidores.
 
 El Ayuntamiento se regirá conforme al Reglamento Interior, cuyo objeto será regular su funcionamiento estableciendo los procesos para que los integrantes del mismo, se desenvuelvan de manera eficiente y tomen decisiones debidamente normadas.
 
-#### SECCIÓN III. De las Facultades y Obligaciones de los Regidores
+#### SECCIÓN I. De las Facultades y Obligaciones del Presidente Municipal
 
 ###### Artículo 53.
 
@@ -741,6 +803,8 @@ VIII. Conceder cualquier tipo de descuento que cause perjuicio al erario municip
 
 IX. Otorgar nuevas plazas de base sindicalizadas, sin la autorización previa de sus Ayuntamientos.
 
+#### SECCIÓN II. De las Facultades y Obligaciones del Síndico
+
 ###### Artículo 57.
 
 Los Síndicos tendrán las siguientes facultades y obligaciones:
@@ -783,6 +847,8 @@ El Síndico por si solo no puede desistirse, transigir, comprometer en árbitros
 
 Para el desempeño de las actividades encomendadas al Síndico, contara con asesoría profesional tanto en las áreas jurídicas como contables.
 
+#### SECCIÓN III. De las Facultades y Obligaciones de los Regidores
+
 ###### Artículo 60.
 
 Son facultades y obligaciones de los regidores, las siguientes:
@@ -815,7 +881,7 @@ XII.- Las demás que les señalen esta Ley y otras disposiciones legales aplicab
 
 Los Regidores por si solos no tendrán, en ningún caso, facultades ejecutivas sino meramente legislativas y de gestión social.
 
-### CAPITULO NOVENO. Suplencia de los Integrantes del Ayuntamiento
+### CAPITULO OCTAVO. De las Comisiones Edilicias
 
 ###### Artículo 62.
 
@@ -897,7 +963,7 @@ Las comisiones podrán llamar a comparecer a los titulares de las dependencias a
 
 Las comisiones del Ayuntamiento carecen de facultades ejecutivas. Los asuntos y acuerdos que no estén señalados expresamente para una comisión quedarán bajo la responsabilidad del Presidente Municipal.
 
-### CAPITULO DÉCIMO. De la Desaparición de Ayuntamientos
+### CAPITULO NOVENO. Suplencia de los Integrantes del Ayuntamiento
 
 ###### Artículo 70.
 
@@ -911,7 +977,7 @@ Las faltas temporales del Presidente Municipal, las cubrirá el primer regidor, 
 
 Las faltas de los miembros del Ayuntamiento no se cubrirán, cuando no excedan de dos sesiones ordinarias consecutivas y haya el número suficiente de miembros que marca la ley para que los actos del Ayuntamiento tengan validez; cuando no haya ese número, o las faltas excedieran el plazo indicado, se llamará al suplente respectivo el cual estará concluirá (sic) el periodo para el cual fue electo el propietario.
 
-### CAPITULO DÉCIMO PRIMERO. De la Suspensión o Revocación del Mandato de los Integrantes del Ayuntamientos
+### CAPITULO DÉCIMO. De la Desaparición de Ayuntamientos
 
 ###### Artículo 72.
 
@@ -955,7 +1021,7 @@ Con excepción del Presidente, cuando por cualquier causa alguno de los integran
 
 Los integrantes del Concejo municipal designado, rendirán su protesta, en el lugar, día y hora que fije el Congreso del Estado, en los mismos términos que prevé esta Ley para la instalación del Ayuntamiento.
 
-### CAPITULO PRIMERO. De los Delegados Municipales
+### CAPITULO DÉCIMO PRIMERO. De la Suspensión o Revocación del Mandato de los Integrantes del Ayuntamientos
 
 ###### Artículo 78.
 
@@ -987,7 +1053,7 @@ Decretada la suspensión o revocación del mandato, el Ayuntamiento llamará al 
 
 ## TITULO III. AUTORIDADES AUXILIARES
 
-### CAPITULO SEGUNDO. De los Consejos Municipales de Colaboración
+### CAPITULO PRIMERO. De los Delegados Municipales
 
 ###### Artículo 83.
 
@@ -1073,7 +1139,7 @@ V. Autorizar inhumaciones y exhumaciones;
 
 VI. Expedir, a nombre del Ayuntamiento, títulos de propiedad o constancias de posesión sobre bienes inmuebles en beneficio de particulares, tanto dentro como fuera de su circunscripción territorial.
 
-### CAPITULO PRIMERO. Disposiciones Generales
+### CAPITULO SEGUNDO. De los Consejos Municipales de Colaboración
 
 ###### Artículo 92.
 
@@ -1117,7 +1183,7 @@ Cuando uno o más de los miembros del Consejo no cumpla con sus obligaciones y t
 
 ## TITULO IV. ORGANIZACIÓN ADMINISTRATIVA MUNICIPAL
 
-### CAPITULO SEGUNDO. De la Administración Pública Centralizada
+### CAPITULO PRIMERO. Disposiciones Generales
 
 ###### Artículo 98.
 
@@ -1141,7 +1207,7 @@ Los titulares de las dependencias de la administración pública central, así c
 
 Para ser titular de las dependencias y entidades de la Administración Pública Municipal, se requiere ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos, preferentemente habitante del Municipio, de reconocida honorabilidad y aptitud para desempeñar el cargo y, en su caso, reunir los requisitos del servicio civil de carrera.
 
-### CAPITULO TERCERO. De la Administración Pública Descentralizada
+### CAPITULO SEGUNDO. De la Administración Pública Centralizada
 
 ###### Artículo 102.
 
@@ -1185,7 +1251,7 @@ II.- Cuando la propuesta sea formulada por la mayoría absoluta del Ayuntamiento
 
 El Presidente Municipal, previo acuerdo del Ayuntamiento, podrá crear dependencias que le estén subordinadas directamente y se regirán conforme lo determine el Reglamento de la Administración Pública Municipal de cada municipio.
 
-### CAPITULO CUARTO. De la Secretaría General Municipal
+### CAPITULO TERCERO. De la Administración Pública Descentralizada
 
 ###### Artículo 107.
 
@@ -1299,7 +1365,7 @@ Los miembros del Comité Técnico serán nombrados y removidos por el Ayuntamien
 
 Tratándose de fideicomisos públicos, para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad de la contraloría municipal de realizar visitas y auditorías, así como la obligación de permitir la realización de las mismas por parte de los auditores externos que determine el Ayuntamiento, sin perjuicio de las facultades de fiscalización del Congreso del Estado. En la cuenta pública municipal se deberá informar y anexar el resultado de las auditorias practicadas.
 
-### CAPITULO QUINTO. De la Tesorería Municipal
+### CAPITULO CUARTO. De la Secretaría General Municipal
 
 ###### Artículo 119.
 
@@ -1353,7 +1419,7 @@ XIV. Las demás que le confieran esta Ley y disposiciones aplicables.
 
 La Secretaría General Municipal para el logro de los objetivos señalados en el artículo anterior, se auxiliará de las áreas o departamentos que se contemplen en el respectivo reglamento interior, asimismo será el enlace entre las áreas de la administración publica municipal con la Presidencia Municipal y el Cabildo.
 
-### CAPITULO SEXTO. De la Contraloría Municipal
+### CAPITULO QUINTO. De la Tesorería Municipal
 
 ###### Artículo 123.
 
@@ -1413,7 +1479,7 @@ XVII BIS. Cancelar créditos incobrables a favor del Municipio, conforme a las l
 
 XVIII. Las demás que le confiera ésta u otras leyes, reglamentos, bandos municipales y acuerdos de Ayuntamiento.
 
-### CAPITULO SÉPTIMO. De la Oficialía Mayor
+### CAPITULO SEXTO. De la Contraloría Municipal
 
 ###### Artículo 126.
 
@@ -1491,7 +1557,7 @@ XVIII.- Las demás que le confiera ésta u otras leyes, reglamentos, bandos muni
 
 Es obligación de los titulares de las dependencias y entidades de la Administración Pública Municipal, participar con el Tesorero y el Presidente Municipal en la solventación de las observaciones que formule la Auditoría Superior del Estado de Baja California Sur.
 
-### CAPITULO PRIMERO. De los Servicios Públicos Municipales
+### CAPITULO SÉPTIMO. De la Oficialía Mayor
 
 ###### Artículo 130.
 
@@ -1541,7 +1607,7 @@ XVI. Las demás que le encomienden el Ayuntamiento, el Presidente Municipal, est
 
 ## TITULO V. SERVICIOS PÚBLICOS MUNICIPALES
 
-### CAPITULO SEGUNDO. De las Concesiones de Servicios Públicos Municipales
+### CAPITULO PRIMERO. De los Servicios Públicos Municipales
 
 ###### Artículo 132.
 
@@ -1639,7 +1705,7 @@ El servicio de panteones podrá ser concesionado, con la condición de que se es
 
 El servicio público de transporte urbano y suburbano en ruta fija, se prestará conforme a lo dispuesto en la Ley de la materia.
 
-### CAPITULO PRIMERO. Del Patrimonio Municipal
+### CAPITULO SEGUNDO. De las Concesiones de Servicios Públicos Municipales
 
 ###### Artículo 144.
 
@@ -1833,7 +1899,7 @@ Cuando la concesión del servicio público se extinga por causa imputable al con
 
 ## TITULO VI. PATRIMONIO Y HACIENDA PÚBLICA MUNICIPAL
 
-### CAPITULO SEGUNDO. De la Hacienda Pública
+### CAPITULO PRIMERO. Del Patrimonio Municipal
 
 ###### Artículo 158.
 
@@ -1849,7 +1915,7 @@ IV. Los demás bienes, derechos y aprovechamientos que señalen otras leyes y or
 
 V. La deuda pública municipal.
 
-### CAPITULO TERCERO. De los Bienes del Dominio Público y Privado de los Municipios
+### CAPITULO SEGUNDO. De la Hacienda Pública
 
 ###### Artículo 159.
 
@@ -1861,7 +1927,7 @@ Los recursos que integran la hacienda pública municipal serán ejercidos en for
 
 Los ingresos que pertenezcan al Municipio podrán afectarse o cederse en los términos previstos en la legislación aplicable.
 
-### CAPITULO CUARTO. De las Adquisiciones, Enajenaciones, Arrendamientos y Contrataciones de Servicios de Bienes Muebles e Inmuebles
+### CAPITULO TERCERO. De los Bienes del Dominio Público y Privado de los Municipios
 
 ###### Artículo 160.
 
@@ -1989,7 +2055,7 @@ Toda disposición de bienes de propiedad municipal, que se realice en contravenc
 
 Por razones de interés público, los jueces están obligados a comunicar al Ayuntamiento respectivo, el inicio de cualquier juicio o procedimiento tendiente a acreditar la posesión o propiedad sobre bienes inmuebles que se estimen del dominio público o privado del Municipio.
 
-### CAPITULO QUINTO. Del Presupuesto Municipal
+### CAPITULO CUARTO. De las Adquisiciones, Enajenaciones, Arrendamientos y Contrataciones de Servicios de Bienes Muebles e Inmuebles
 
 ###### Artículo 177.
 
@@ -2019,7 +2085,7 @@ VI. Las demás que apruebe el Ayuntamiento.
 
 En lo no previsto en esta Ley, se aplicará supletoriamente, la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Baja California Sur.
 
-### CAPITULO PRIMERO. De la Planeación del Desarrollo Municipal
+### CAPITULO QUINTO. Del Presupuesto Municipal
 
 ###### Artículo 181.
 
@@ -2065,7 +2131,7 @@ Sin menoscabo de lo anteriormente señalado, los Ayuntamientos, deberán efectua
 
 ## TITULO VII. PLANEACIÓN DEL DESARROLLO MUNICIPAL
 
-### CAPITULO SEGUNDO. Del Comité de Planeación para el Desarrollo Municipal
+### CAPITULO PRIMERO. De la Planeación del Desarrollo Municipal
 
 ###### Artículo 187
 
@@ -2121,7 +2187,7 @@ Los Ayuntamientos de acuerdo a sus características, necesidades y recursos econ
 
 Los organismos a que se hace referencia en este artículo tendrán la finalidad de orientar, asesorar y aconsejar a los Ayuntamientos en materia de Planeación Municipal desde un punto de vista técnico y profesional. Dichos organismos se regirán conforme al reglamento que previamente apruebe el Ayuntamiento o conforme al acuerdo de creación.
 
-### CAPITULO ÚNICO. De los Cuerpos de Seguridad Pública y Tránsito
+### CAPITULO SEGUNDO. Del Comité de Planeación para el Desarrollo Municipal
 
 ###### Artículo 197.
 
@@ -2161,7 +2227,7 @@ El Comité de Planeación para el Desarrollo Municipal contará con un mínimo d
 
 ## TITULO VIII. CUERPOS DE SEGURIDAD PUBLICA Y POLICÍA DE TRANSITO MUNICIPAL
 
-### CAPITULO PRIMERO. Del Nombramiento del Coordinador Municipal de Derechos Humanos
+### CAPITULO ÚNICO. De los Cuerpos de Seguridad Pública y Tránsito
 
 ###### Artículo 201.
 
@@ -2183,7 +2249,7 @@ Cada Ayuntamiento podrá decidir si opera conjunta o separadamente los cuerpos d
 
 ## TITULO IX. COORDINACIÓN MUNICIPAL DE DERECHOS HUMANOS
 
-### CAPITULO SEGUNDO. De las Facultades y Obligaciones del Coordinador Municipal de Derechos Humanos
+### CAPITULO PRIMERO. Del Nombramiento del Coordinador Municipal de Derechos Humanos
 
 ###### Artículo 205.
 
@@ -2219,7 +2285,7 @@ II.- Haber sido condenado por delito doloso; y
 
 III.- Haber estado involucrado en soborno, corrupción, cohecho, así como en cualquier otra conducta ilícita.
 
-### CAPITULO PRIMERO. De los Bandos y Reglamentos
+### CAPITULO SEGUNDO. De las Facultades y Obligaciones del Coordinador Municipal de Derechos Humanos
 
 ###### Artículo 208.
 
@@ -2263,7 +2329,7 @@ El Coordinador Municipal de Derechos Humanos deberá entregar en dicha reunión 
 
 ## TITULO X. FACULTAD REGLAMENTARIA DE LOS AYUNTAMIENTOS
 
-### CAPITULO ÚNICO. De los Recursos Administrativos
+### CAPITULO PRIMERO. De los Bandos y Reglamentos
 
 ###### Artículo 212.
 
@@ -2315,7 +2381,7 @@ Los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones 
 
 ## TITULO XI. JUSTICIA ADMINISTRATIVA
 
-### CAPITULO PRIMERO. De las Responsabilidades de los Servidores Públicos Municipales
+### CAPITULO ÚNICO. De los Recursos Administrativos
 
 ###### Artículo 216.
 
@@ -2323,7 +2389,7 @@ Contra los actos y resoluciones administrativos que dicten o ejecuten las autori
 
 ## TITULO XII. SERVIDORES PÚBLICOS MUNICIPALES
 
-### CAPITULO SEGUNDO. Del Servicio Civil de Carrera
+### CAPITULO PRIMERO. De las Responsabilidades de los Servidores Públicos Municipales
 
 ###### Artículo 217.
 
@@ -2332,6 +2398,8 @@ Son servidores públicos municipales, señalados en el artículo 156 de la Const
 ###### Artículo 218.
 
 Por las infracciones administrativas cometidas a esta Ley, Bando y reglamentos municipales, los servidores públicos municipales incurrirán en responsabilidades en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+### CAPITULO SEGUNDO. Del Servicio Civil de Carrera
 
 ###### Artículo 219.
 
@@ -2576,3 +2644,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Para efectos de lo previsto en la fracción V del artículo 30 del presente Decreto, se les concede a los organismos operadores municipales el término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a sus respectivos estatutos orgánicos.
 
 TERCERO.- Para efectos de lo previsto en la fracción VIII del artículo 10 del presente Decreto se le concede a la Comisión Estatal del Agua el término de 30 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias en su regulación interna.
+
+B.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3063 SE ADICIONA UN CAPÍTULO SEGUNDO BIS AL TÍTULO SEGUNDO DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. El Proceso de Transición y Cambio de la Administración Pública Municipal en el año 2024 por excepción dará inicio el día 25 de julio de 2024.
+
+TERCERO. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
