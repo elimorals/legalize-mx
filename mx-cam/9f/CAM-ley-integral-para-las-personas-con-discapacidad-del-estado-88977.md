@@ -4,7 +4,7 @@ identifier: "CAM-ley-integral-para-las-personas-con-discapacidad-del-estado-8897
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-19"
-last_updated: "2024-03-06"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88977&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 19 de julio de 2012.
 
@@ -161,7 +161,9 @@ XXXI. Transversalidad. Es el proceso mediante el cual se instrumentan las polít
 
 La aplicación y seguimiento de esta Ley corresponde a:
 
-I. El Poder Ejecutivo del Estado, través de las dependencias y entidades de la administración pública centralizada y paraestatal, especialmente los responsables de las áreas de Salud, Educación, Trabajo, Cultura, Transporte, Economía, Deporte, Turismo, Finanzas, Seguridad Pública, Asistencia Social, Procuración de Justicia, Obras Públicas, y Desarrollo Social;
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
+
+I. El Poder Ejecutivo del Estado, a través de las Secretarías, Dependencias y Entidades de la Administración Pública, Centralizada y Paraestatal, especialmente los responsables de las áreas de Salud, Educación, Trabajo, Cultura, Transporte, Economía, Deporte, Turismo, Finanzas, Seguridad Pública, Asistencia Social, Procuración de Justicia, Obras Públicas, y Desarrollo Social;
 
 II. El Poder Judicial del Estado, a través de los integrantes del H. Tribunal Superior de Justicia;
 
@@ -321,21 +323,21 @@ Todas las dependencias y entes públicos estatales y municipales, y organismos d
 
 ### CAPÍTULO I. DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 9.
 
-Corresponde a la Secretaría General de Gobierno:
+Corresponde a la Secretaría de Gobierno:
 
 I. Coordinar las acciones que sean necesarias para el diseño, implementación y evaluación de las políticas públicas que garanticen el pleno goce de los derechos humanos y libertades fundamentales de las personas con discapacidad;
 
 II. Promover las reformas al marco legal del Estado a fin de adecuarlo a la Convención sobre los Derechos de las Personas con Discapacidad y la Convención Interamericana para la Eliminación de Todas las Formas de Discriminación Contra las Personas con Discapacidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 10.
 
-Corresponde a la Secretaría de Desarrollo Social y Humano promover el derecho de las personas con discapacidad a un mayor y mejor índice de desarrollo humano así como el de sus familias, lo cual deberá incluir su alimentación, vestido, vivienda y la mejora continua de sus condiciones de vida. Para estos efectos, realizará las siguientes acciones:
+Corresponde a la Secretaría de Bienestar promover el derecho de las personas con discapacidad a un mayor y mejor índice de desarrollo humano, así como el de sus familias, lo cual deberá incluir su alimentación, vestido, vivienda y la mejora continua de sus condiciones de vida. Para estos efectos, realizará las siguientes acciones:
 
 I. Establecer medidas que garanticen el acceso de las personas con discapacidad en todas las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza, en observancia de todas aquellas disposiciones de la Ley de Desarrollo Social del Estado, que le sean aplicables;
 
@@ -393,11 +395,11 @@ XVII. Las demás que dispongan otros ordenamientos;
 
 Queda prohibido cualquier tipo de discriminación contra las personas con discapacidad en el otorgamiento de seguros de salud o de vida.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 13.
 
-Corresponde a la Secretaría de Desarrollo Territorial, Urbano y Obras Públicas:
+Corresponde a la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas:
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2020)</small>
 
@@ -473,9 +475,11 @@ XVI. Promover la implementación de cursos de verano específicos para personas 
 
 XVII. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 15.
 
-Corresponde a la Secretaría de Cultura promover el derecho de las personas con discapacidad a la cultura, la recreación y el desarrollo de sus capacidades artísticas. Para tales efectos, realizará las siguientes acciones:
+Corresponde al Instituto de Cultura y Artes promover el derecho de las personas con discapacidad a la cultura, la recreación y el desarrollo de sus capacidades artísticas. Para tales efectos, realizará las siguientes acciones:
 
 I. Diseñar, promover y operar programas de orientación y desarrollo de las habilidades artísticas y culturales de las personas con discapacidad;
 
@@ -489,9 +493,9 @@ V. Establecer la capacitación de recursos humanos, el uso de materiales y tecno
 
 VI. Generar espacios de encuentro, intercambio e integración cultural y artística entre la población;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
 
-VII. Coadyuvar con la Secretaría de Desarrollo Urbano, Obras Públicas e Infraestructura y los HH. Ayuntamientos para la adecuación accesible de los espacios públicos, sin afectar la arquitectura y patrimonio cultural del Estado;
+VII. Coadyuvar con la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas y los HH. Ayuntamientos para la adecuación accesible de los espacios públicos, sin afectar la arquitectura y patrimonio cultural del Estado;
 
 VIII. Fomentar la elaboración de materiales de lectura, inclusive en Sistema Braille, u otros formatos accesibles; y
 
@@ -603,11 +607,11 @@ IX. Procurar que en la operación de sus programas asistenciales dirigidos a gru
 
 X. Las demás que dispongan otros ordenamientos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 21.
 
-Corresponde a la Secretaría de Seguridad Pública:
+Corresponde a la Secretaría de Protección y Seguridad Ciudadana:
 
 I. Vigilar que a las personas con discapacidad se les respete el derecho de preferencia de paso en todos los cruceros o zonas de paso peatonal; y se les otorguen las facilidades necesarias para que puedan abordar las unidades de transporte público;
 
@@ -641,9 +645,9 @@ I. Establecer mecanismos de coordinación con autoridades competentes y empresas
 
 II. Promover que en la concesión del servicio de transporte público, las unidades e instalaciones garanticen a las personas con discapacidad la accesibilidad para el desplazamiento y los servicios, así como la inclusión de especificaciones técnicas y antropométricas, apoyos técnicos o humanos y personal capacitado;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
 
-III. Promover en coordinación con la Secretaría de Seguridad Pública programas y campañas de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía y lugares públicos, así como para evitar cualquier tipo de discriminación en el uso del transporte público.
+III. Promover en coordinación con la Secretaría de Protección y Seguridad Ciudadana programas y campañas de educación vial, cortesía urbana y respeto hacia las personas con discapacidad en su tránsito por la vía y lugares públicos, así como para evitar cualquier tipo de discriminación en el uso del transporte público;
 
 IV. Verificar que los concesionarios del transporte público apliquen debidamente las tarifas preferenciales autorizadas a las personas con discapacidad;
 
@@ -651,9 +655,11 @@ V. Supervisar que los vehículos de servicio público dispongan de asientos espe
 
 VI. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 24.
 
-Corresponde a la Secretaría de Finanzas:
+Corresponde a la Secretaría de Administración y Finanzas:
 
 Proyectar y calcular dentro de su presupuesto de egresos una partida presupuestaria para cada una de las dependencias y entidades de la Administración Pública Estatal, a fin de que puedan ser destinados y aplicados los recursos necesarios y suficientes a las políticas públicas en materia de discapacidad.
 
@@ -763,71 +769,65 @@ XVII. Opinar sobre la política de participación del Estado en las reuniones y 
 
 ### CAPÍTULO II. INTEGRACIÓN Y ORGANIZACIÓN INTERNA
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 30.
 
 El Consejo se integrará por los siguientes Poderes, Instituciones y Organismos:
 
-I. El Poder Ejecutivo del Estado, representado por el Gobernador del Estado;
+I. El Poder Ejecutivo del Estado, representado por la o el Gobernador del Estado;
 
-II. El Poder Legislativo del Estado, representado por el Diputado Presidente de la Gran Comisión o Comisión de Gobierno y Administración del Congreso del Estado;
+II. El Poder Legislativo del Estado, representado por la Diputada o Diputado Presidente de la Junta de Gobierno y Administración del Congreso del Estado;
 
-III. El Poder Judicial del Estado, representado por el Magistrado Presidente del H. Tribunal Superior de Justicia;
+III. El Poder Judicial del Estado, representado por la Magistrada o Magistrado Presidente del H. Tribunal Superior de Justicia;
 
-IV. Los once HH. Ayuntamientos de los Municipios del Estado, representados por quien designen;
+IV. Los HH. Ayuntamientos de los Municipios del Estado, representados por quien designen;
 
 V. Las Organizaciones No Gubernamentales legítimamente constituidas, que operen en la Entidad, representadas por quienes ellas designen y cuyas actividades guarden estrecha relación con el objeto de la presente Ley.
+
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 31.
 
 Para efectos de su organización interna el Consejo se conformará de la siguiente manera:
 
-I. El Gobernador del Estado, quien será el Presidente;
+I. La o el Gobernador del Estado, quien tendrá la Presidencia;
 
-II. El Director General del Sistema para el Desarrollo Integral de la Familia en el Estado, quien será el Secretario Técnico;
+II. La o el Director General del Sistema para el Desarrollo Integral de la Familia en el Estado, quien será la o el Secretario Técnico;
 
-III. Los representantes de los Poderes Legislativo y Judicial del Estado, quienes fungirán como vocales;
+III. Las y los representantes de los Poderes Legislativo y Judicial del Estado, quienes fungirán como vocales;
 
-IV. Catorce Comités de trabajo que serán coordinados por los titulares de las siguientes instancias de gobierno en el Estado:
+IV. Catorce Comités de trabajo que serán coordinados por las y los titulares de las siguientes instancias Estatales:
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+a. Comité de Seguridad Jurídica y Acceso a la Justicia, coordinado por la Secretaría de Gobierno;
 
-a. Comité de Seguridad Jurídica y Acceso a la Justicia, coordinado por el Secretario General de Gobierno;
+b. Comité de Accesibilidad y Diseño Universal, coordinado por la Secretaría de Desarrollo Urbano, Movilidad y Obras Públicas;
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+c. Comité de Asistencia Social, coordinado por la o el Titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes;
 
-b. Comité de Accesibilidad y Diseño Universal, coordinado por el Secretario de Desarrollo Urbano, Obras Públicas e Infraestructura;
+d. Comité de Cultura, coordinado por el Instituto de Cultura y Artes;
 
-c. Comité de Asistencia Social, coordinado por el titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia;
+e. Comité de Desarrollo Social, coordinado por la Secretaría de Bienestar;
 
-d. Comité de Cultura, coordinado por el Secretario de Cultura;
+f. Comité de Educación, coordinado por la Secretaría de Educación;
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+g. Comité de Salud, coordinado por la Secretaría de Salud;
 
-e. Comité de Desarrollo Social, coordinado por el Secretario de Desarrollo Social y Humano;
+h. Comité de Trabajo, coordinado por la Secretaría de Gobierno;
 
-f. Comité de Educación, coordinado por el Secretario de Educación;
+i. Comité de Capacitación para el Trabajo, coordinado por el Instituto de Capacitación para el Trabajo;
 
-g. Comité de Salud, coordinado por el Secretario de Salud;
+j. Comité de Deporte, coordinado por el Instituto del Deporte;
 
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
+k. Comité de Turismo, coordinado por la Secretaría de Turismo;
 
-h. Comité de Trabajo, coordinado por el Secretario de Trabajo y Previsión Social;
+l. Comité de Desarrollo Social y Comercial, coordinado por la Secretaría de Desarrollo Económico;
 
-i. Comité de Capacitación para el Trabajo, coordinado por el Director General del Instituto de Capacitación para el Trabajo;
+m. Comité de Transporte, coordinado por el Instituto Estatal del Transporte;
 
-j. Comité de Deporte, coordinado por el Director General del Instituto del Deporte;
+n. Comité de Finanzas, coordinado por la Secretaría de Administración y Finanzas.
 
-k. Comité de Turismo, coordinado por el Secretario de Turismo;
-
-> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2018)</small>
-
-l. Comité de Desarrollo Social y Comercial, coordinado por el Secretario de Desarrollo Económico
-
-m. Comité de Transporte, coordinado por el Director General del Instituto Estatal del Transporte;
-
-n. Comité de Finanzas, coordinado por el Secretario de Finanzas.
-
-A cada Comité se incorporarán las demás instancias públicas del Estado, los once HH. Ayuntamientos de los Municipios, así como las Organizaciones No Gubernamentales que realicen actividades afines a las del Comité respectivo, para que formen parte de la estructura del mismo. De igual forma, podrán ser creados los Comités de trabajo que sean necesarios, a fin de dar cumplimiento a la presente Ley.
+A cada Comité se incorporarán las demás instancias públicas del Estado, los HH. Ayuntamientos de los Municipios, así como las Organizaciones No Gubernamentales que realicen actividades afines a las del Comité respectivo, para que formen parte de la estructura del mismo. De igual forma, podrán ser creados los Comités de trabajo que sean necesarios, a fin de dar cumplimiento a la presente Ley.
 
 Los coordinadores de los Comités podrán nombrar un suplente, quien podrá, por excepción, asistir a las reuniones de trabajo con las mismas funciones que los titulares.
 
@@ -1030,3 +1030,11 @@ P.O. 6 DE MARZO DE 2024.
 Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 372 POR EL QUE “SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 3; EL PÁRRAFO PRIMERO DEL ARTÍCULO 9; EL PÁRRAFO PRIMERO DEL ARTÍCULO 10; EL PÁRRAFO PRIMERO DEL ARTÍCULO 13; EL PÁRRAFO PRIMERO Y LA FRACCIÓN VII DEL ARTÍCULO 15; EL PÁRRAFO PRIMERO DEL ARTÍCULO 21; LA FRACCIÓN III DEL ARTÍCULO 23; EL PÁRRAFO PRIMERO DEL ARTÍCULO 24; LOS ARTÍCULOS 30 Y 31, TODOS DE LA LEY INTEGRAL PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
