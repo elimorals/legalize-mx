@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-electoral-para-el-estado-de-veracruz-de-10887
 country: "mx"
 rank: "codigo"
 publication_date: "2015-07-01"
-last_updated: "2023-06-19"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 2. EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE L
 
 CÓDIGO NÚMERO 577 ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 19 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL ESTADO: 31 DE JULIO DE 2024.
 
 Código publicado en el número extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 1 de julio de 2015.
 
@@ -4065,39 +4065,35 @@ VIII. Cuando para un mismo cargo de elección popular se hubiere solicitado el r
 
 IX. El Consejo General del Instituto podrá exigir a los candidatos la comprobación de sus requisitos de elegibilidad.
 
-(NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ POR EXTENSIÓN, DEL DECRETO NÚMERO 594 POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 31 DE JULIO DE 2024)</small>
 
-> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2020)</small>
+###### Artículo 175 Bis.
 
-Artículo 175 BIS. Con la finalidad de evitar que a algún género le sean asignados distritos o municipios en donde los partidos políticos hayan obtenido los porcentajes de votación más bajos y más altos en el proceso electoral anterior, en términos de los artículos 14 y 16 de este Código, las postulaciones se sujetarán al procedimiento que el Organismo Público Local Electoral de Veracruz establezca para tal efecto, y de conformidad con los criterios mínimos siguientes:
+Los partidos políticos o coaliciones favorecerán el registro de candidaturas para personas con discapacidad; por tanto, además de lo establecido en el presente Capítulo y sin perjuicio de que puedan postular a más personas con esta condición, realizarán las siguientes acciones:
 
-I. Para el caso de diputaciones de Mayoría Relativa:
+A. Para el registro de personas con discapacidad en diputaciones, los partidos políticos:
 
-a) En los distritos donde los partidos políticos no hubieran postulado candidaturas en el proceso electoral anterior, sus postulaciones deberán cumplir con el principio de homogeneidad en las fórmulas y paridad horizontal;
+I. Deberán registrar una fórmula integrada por personas con discapacidad en sus listas de candidaturas a diputaciones por el principio de representación proporcional, la cual se ubicará dentro de los primeros ocho lugares de la lista respectiva;
 
-b) Por cada partido político se enlistarán los distritos en los que postuló candidaturas en el proceso electoral inmediato anterior, ordenados de manera decreciente conforme al porcentaje de votación que en cada uno de ellos hubiese recibido en términos de lo establecido en el estadístico que al efecto realice el Organismo Público Local Electoral de Veracruz;
+II. La fórmula de candidaturas para personas con discapacidad, propietaria y suplente, deberá ser del mismo género; se podrá exceptuar de lo anterior, cuando el propietario sea hombre, en tal caso, se podrá postular a una mujer como suplente, pero no a la inversa; y
 
-c) Dicho listado se dividirá en tres segmentos a fin de obtener un bloque de distritos con alto porcentaje de votación, un bloque intermedio de votación y un bloque de baja votación;
+III. Deberán cumplir con el principio de paridad de género en todo lo dispuesto en el presente Apartado.
 
-d) Si al hacer la división de distritos en los tres bloques señalados, sobrara uno, éste se agregará al bloque de votación más baja, si restaran dos, se agregará uno al de votación más baja y el segundo al de votación más alta;
+B. Para el registro de personas con discapacidad en Ayuntamientos, los partidos políticos:
 
-e) Posteriormente se seleccionarán los bloques de baja y alta votación con la finalidad de dividir cada uno en tres sub bloques, que se denominarán: sub bloques de alta/alta, alta/media y alta/baja votación; en los sub bloques que pertenezcan al bloque de votación más baja se denominarán: sub bloques de baja/alta, baja/media y baja/baja votación; y
+I. Deberán registrar, al menos una fórmula de candidaturas de personas con discapacidad en ocho municipios entre aquellos que cuentan con ocho a trece regidurías, en la posición que libremente determinen en el listado de representación proporcional;
 
-f) Además de verificarse el cumplimiento de la homogeneidad en las fórmulas y paridad horizontal, se verificará la distribución paritaria entre los géneros respecto a la postulación de los distritos que se ubiquen en los sub bloques de votación alta/alta y baja/baja, conforme al porcentaje de votación que en cada uno de ellos hubiese recibido en términos de lo establecido en el estadístico que al efecto realice el Organismo Público Local Electoral de Veracruz.
+II. La fórmula de candidaturas para personas con discapacidad, propietaria y suplente, deberá ser del mismo género; se podrá exceptuar de lo anterior, cuando el propietario sea hombre, en tal caso, se podrá postular a una mujer como suplente, pero no a la inversa; y
 
-II. Para el caso de la integración de los Ayuntamientos:
+III. Podrán elegir libremente el orden de prelación que ocupará la fórmula de candidaturas para personas con discapacidad de la lista respectiva, debiendo cumplir con el principio de paridad de género en todo lo dispuesto en el presente Apartado.
 
-a) En los municipios donde los partidos políticos no hubieran postulado candidaturas para Presidencias Municipales y Sindicaturas, en el proceso electoral anterior, sus postulaciones deberán cumplir con el principio de homogeneidad en las fórmulas y los de paridad horizontal y vertical;
+C. Para la acreditación de la condición de discapacidad.
 
-b) Por cada partido político se enlistarán los municipios en los que postuló candidaturas en el proceso electoral inmediato anterior, ordenados de manera decreciente conforme al porcentaje de votación que en cada uno de ellos hubiese recibido en términos de lo establecido en el estadístico que al efecto realice el Organismo Público Local Electoral de Veracruz;
+Deberán acreditar el tipo de discapacidad -Intelectual, psicosocial, física, sensorial o múltiple- de la persona que postulen para el registro de la candidatura correspondiente a este artículo, pudiendo utilizar alguno de los siguientes documentos:
 
-c) Dicho listado se dividirá en tres segmentos a fin de obtener un bloque de municipios con alto porcentaje de votación, un bloque intermedio de votación y un bloque de baja votación;
+I. Certificado o constancia médica expedida por una institución de salud pública, que dé cuenta fehaciente de la situación de discapacidad y que la misma es de carácter permanente, que deberá contener nombre, firma y número de cédula profesional de la persona médica que la expide, el sello de la institución, domicilio del consultorio o institución; así como precisar el tipo de discapacidad; y/o
 
-d) Si al hacer la división de municipios en los tres bloques señalados, sobrara uno, éste se agregará al bloque de votación más baja, si restaran dos, se agregará uno al de votación más baja y el segundo al de votación más alta;
-
-e) Posteriormente se seleccionarán los bloques de baja y alta votación con la finalidad de dividir cada uno en tres sub bloques, que se denominarán: sub bloques de alta/alta, alta/media y alta/baja votación; en los sub bloques que pertenezcan al bloque de votación más baja se denominarán: sub bloques de baja/alta, baja/media y baja/baja votación; y
-
-f) Además de verificarse el cumplimiento de la homogeneidad en las fórmulas y de paridad vertical y horizontal, se verificará la distribución paritaria entre los géneros respecto a la postulación de los municipios que se ubiquen en los sub bloques de votación alta/alta y baja/baja, conforme al porcentaje de votación que en cada uno de ellos hubiese recibido en términos de lo establecido en el estadístico que al efecto realice el Organismo Público Local Electoral de Veracruz.
+II. Certificado Electrónico de Discapacidad (CEDis) expedido bajo los estándares de la Norma Oficial Mexicana NOM-039-SSA-2023.
 
 (NOTA: EL 3 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN LOS RESOLUTIVOS TERCERO Y CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 241/2020 Y SUS ACUMULADAS 242/2020, 243/2020, 248/2020 Y 251/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 580 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA DE SU TEXTO ANTERIOR, LA CUAL SURTIÓ EFECTOS EL 4 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. [EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Artículo 176. La Dirección Ejecutiva de Prerrogativas y Partidos Políticos y los Consejos Distritales y municipales del Instituto Electoral Veracruzano, estarán provistos de un libro en el que se asentarán los datos de las solicitudes de registro de candidatos que se reciban, autorizado por el Secretario del Consejo General del Instituto Electoral Veracruzano.”] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -9168,3 +9164,11 @@ G.O. 19 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 735 QUE ADICIONA EL ARTÍCULO 175 BIS AL CÓDIGO ELECTORAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
