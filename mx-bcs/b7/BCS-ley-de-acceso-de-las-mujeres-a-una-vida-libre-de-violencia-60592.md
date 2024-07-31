@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6059
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-31"
-last_updated: "2024-07-11"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de marzo de 2008.
 
@@ -303,13 +303,25 @@ V. Diseñar programas que aseguren la igualdad salarial entre mujeres y hombres 
 
 #### SECCIÓN TERCERA. VIOLENCIA INSTITUCIONAL
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 9°.
 
-Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+Violencia Institucional: Son los actos u omisiones de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia, mediante conductas que, de manera enunciativa, mas no limitativa se enumeran:
 
-> <small>(REFORMADO, B.O. 30 DE MAYO DE 2023)</small>
+I.- Negarse a recibir una denuncia por violencia hacia una o varias mujeres;
 
-A fin de prevenir, sancionar y erradicar la violencia institucional, los tres poderes del gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones que correspondan en materia administrativa y proporcionarán la capacitación que requieran sus servidores públicos, a fin de que en ejercicio de sus funciones estos sean capaces de asegurar el derecho de las mujeres a una vida libre de violencia. Asimismo promoverán las acciones conducentes para sancionar las conductas violentas ejercidas por servidores públicos y reparar el daño infligido a las afectadas y vigilarán la estricta aplicación de los artículos 31 y 32 de la Constitución Política del Estado Libre y Soberano de Baja California Sur, de conformidad con lo dispuesto por las normas jurídicas aplicables.
+II.- Obstaculizar la investigación de hechos delictivos denunciados en contra de mujeres;
+
+III.- Discriminar con acto u omisión a una o varias mujeres;
+
+IV.- Obstaculizarle el desempeño de su trabajo en razón de su género a una mujer; y
+
+V.- Incumplir el principio de paridad en la designación del personal.
+
+A fin de prevenir, sancionar y erradicar la violencia institucional, los tres poderes del gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, realizarán las adecuaciones que correspondan en materia administrativa y proporcionarán la capacitación que requieran sus servidores públicos, a fin de que en ejercicio de sus funciones estos sean capaces de asegurar el derecho de las mujeres a una vida libre de violencia. Así mismo promoverán las acciones conducentes para sancionar las conductas violentas ejercidas por servidores públicos y reparar el daño infligido a las afectadas, y vigilarán la estricta aplicación de los artículos 31 y 32 de la Constitución Política del Estado Libre y Soberano de Baja California Sur, de conformidad con lo dispuesto por las normas jurídicas aplicables.
+
+Es obligación de los Tres Poderes de Gobierno y de los Ayuntamientos de establecer mecanismos internos para la denuncia del personal que incurra en violencia institucional.
 
 #### SECCIÓN CUARTA. VIOLENCIA EN LA COMUNIDAD
 
@@ -1633,9 +1645,11 @@ IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral
 
 ### CAPÍTULO UNICO. DE LAS RESPONSABILIDADES Y SANCIONES
 
+> <small>(REFORMADO, B.O. 31 DE JULIO DE 2024)</small>
+
 ###### ARTÍCULO 49.
 
-El incumplimiento de la presente ley podrá ser denunciado por cualquier persona ante la Contraloría General del Estado o ante el superior jerárquico del responsable, quien será sancionada con las medidas administrativas y correctivos que le correspondan, conforme lo establezca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Baja California Sur y lo dispuesto por este capítulo.
+El incumplimiento de la presente ley podrá ser denunciado por cualquier persona ante la Contraloría General del Estado o los órganos internos de control o bien ante el superior jerárquico del responsable, debiendo en su caso procederse en los términos que se establecen en el artículo 11 de la Ley de Responsabilidades Administrativas para el Estado y Municipios de Baja California Sur.
 
 ###### ARTÍCULO 50.
 
@@ -1842,3 +1856,9 @@ B.O. 11 DE JULIO DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 3060 SE REFORMAN LOS ARTÍCULOS 9°, 49 Y 50 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
