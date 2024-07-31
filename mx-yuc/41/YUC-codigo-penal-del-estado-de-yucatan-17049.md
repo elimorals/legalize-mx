@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2024-07-02"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 2 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2024.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -4885,9 +4885,9 @@ Si entre el sujeto activo y la víctima existió una relación de parentesco por
 
 Si la víctima fuera menor de dieciocho años, se impondrá una pena de prisión de cincuenta a sesenta años, y de dos mil a tres mil días-multa.
 
-> <small>(REFORMADO, D.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
-Además de las sanciones descritas en este artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+Además de las sanciones descritas en este artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio. Asimismo, en el caso de que tenga hijas o hijos con la víctima, el sujeto activo en su caso, perderá sobre ellas o ellos los derechos de familia correspondientes a la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, y el derecho de alimentos que, en su caso, le correspondiere; lo mismo aplicará en caso de tentativa. Operará la suspensión de la patria potestad desde el momento del auto de vinculación a proceso por el delito de feminicidio o su tentativa en contra de la madre de las niñas, niños o adolescentes sujetos a la patria potestad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE AGOSTO DE 2021)</small>
 
@@ -6032,3 +6032,11 @@ D.O. 2 DE JULIO DE 2024.
 Entrada en vigor
 
 Artículo único. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 800/2024 POR EL QUE SE MODIFICAN EL CÓDIGO DE FAMILIA PARA EL ESTADO DE YUCATÁN EN MATERIA DE RESPONSABILIDAD PARENTAL Y EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN EN MATERIA DE FEMINICIDIO".]
+
+PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO. Los talleres a los que se refiere el artículo 57 de este Código, deberán de ser modificados con énfasis en la perspectiva de derechos e interés superior de la niñez que implica la patria potestad incluyendo la responsabilidad parental.
