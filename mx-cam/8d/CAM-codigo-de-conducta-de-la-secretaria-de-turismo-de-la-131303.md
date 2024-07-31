@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-de-la-secretaria-de-turismo-de-la-131303"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-08-23"
-last_updated: "2018-08-23"
+last_updated: "2024-07-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE TURISMO DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 31 DE JULIO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024 (ABROGADO).
 
 Código publicado en el Número 0754 del Periódico Oficial del Estado de Campeche, el jueves 23 de agosto de 2018.
 
@@ -356,3 +358,13 @@ Firmas de adhesión al "Código de Conducta de la Secretaría de Turismo de la A
 En Segunda Sesión Ordinaria del Comité de Ética y de Prevención de Conflicto de Intereses, se autoriza el "Código de Conducta de la Secretaría de Turismo de la Administración Pública del Estado de Campeche", elaborado en la ciudad de San Francisco de Campeche, Campeche, a las catorce horas con treinta minutos del día 22 de junio del 2018. firmando todos los miembros que en ella intervinieron al margen y calce de todas y cada una de las fojas que integran el "ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE", para su debida constancia.
 
 Lic. Erik Alberto Herrera Castillo, Subsecretario de Turismo y Suplente del Presidente del Comité.- Mtro. Alex Gilberto Sánchez Escalante, Secretarios (sic) Ejecutivo del Comité.- Lic. Julio Manuel Peña Domínguez, Primer Vocal.- Ing. Rosa Elena García Álvarez, Segundo Vocal.- C. Martin Andrés Negrón Avelino, Tercer Vocal.- Mtro. Jorge Enrique Manos Esparragoza, Secretario de Turismo.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- El presente Acuerdo abroga el Código de Conducta de la Secretaría de Turismo de la Administración Pública del Estado de Campeche, publicado con fecha 23 de agosto de 2018, en el Periódico Oficial del Estado de Campeche.
