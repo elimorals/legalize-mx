@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-defensoria-publica-del-estado-de-morelos-93830"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-03"
-last_updated: "2023-02-01"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de abril de 2013.
 
@@ -31,7 +31,7 @@ GRACO LUIS RAMÍREZ GARRIDO ABREU, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y 
 
 Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
 
-LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:.
+LA QUINCUAGÉSIMA SEGUNDA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN EJERCICIO DE LA FACULTAD QUE LE OTORGA LA FRACCIÓN II, DEL ARTÍCULO 40 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y AL TENOR DE LOS SIGUIENTES:
 
 Por lo anteriormente expuesto, esta Legislatura ha tenido a bien expedir la siguiente:
 
@@ -167,9 +167,9 @@ III. Fomentar, coordinar y concertar acuerdos de apoyo y colaboración con insti
 
 IV. Proporcionar servicios institucionales tendientes a propiciar la profesionalización y capacitación de servidores públicos y público en general, que podrán generar ingresos propios conforme se apruebe en los lineamientos expedidos por la Junta de Gobierno del Instituto;
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE JULIO DE 2024)</small>
 
-V. Proporcionar asesoría, defensa y patrocinio jurídico en materia penal, civil, familiar y de justicia para adolescentes a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes penales, en defensa de los derechos a miembros de los pueblos indígenas y personas con discapacidad;
+V. Proporcionar asesoría, defensa y patrocinio jurídico en materia penal, civil, familiar, administrativa y de justicia para adolescentes, a quienes se les atribuya la realización de una conducta tipificada como delito por las leyes penales, en procedimientos ante autoridades administrativas o jurisdiccionales incluidos los actos administrativos emanados de las autoridades del Estado, los municipios y los organismos descentralizados estatales o municipales en funciones de autoridad, y en defensa de los derechos a miembros de los pueblos indígenas y personas con discapacidad;
 
 VI. Proporcionar asesoría, defensa y patrocinio jurídico en asuntos en los que intervengan incapaces representándolos en cualquier materia;
 
@@ -970,3 +970,13 @@ P.O. 1 DE FEBRERO DE 2023.
 PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los efectos que indican los artículos 44, 47 y 70, fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL CIENTO TREINTA Y DOS.- POR EL QUE SE REFORMA EL ARTÍCULO 9 FRACCIÓN V DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS”.]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su sanción, promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de Difusión del Gobierno del estado de Morelos.
+
+TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
