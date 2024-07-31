@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2023-07-21"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -3037,6 +3037,62 @@ Artículo 261
 
 La información confidencial para la protección del derecho a la intimidad de las personas, se regirá por la ley de la materia.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2024)</small>
+
+TÍTULO DECIMOPRIMERO
+
+DEL COMITÉ PARA LA INSTITUCIONALIZACIÓN DE LA POLÍTICA DE IGUALDAD Y NO DISCRIMINACIÓN Y DEL PROCEDIMIENTO PARA PREVENIR Y ATENDER ACTOS DE VIOLENCIA DE GÉNERO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 31 DE JULIO DE 2024)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 262
+
+El Comité para la institucionalización de la política de igualdad y no discriminación y del procedimiento para prevenir y atender actos de violencia de género Es el órgano colegiado de consulta y orientación, de tipo administrativo, al interior del Congreso del Estado para coadyuvar en la emisión, aplicación y seguimiento de la Política de Igualdad y No Discriminación, así como del procedimiento para prevenir y atender actos de violencia de género, que contribuyen al fortalecimiento de la cultura de la legalidad, imparcialidad, objetividad, no discriminación, igualdad y equidad; así como a la transparencia, cumplimiento de normas, leyes y rendición de cuentas, que garantizan el ejercicio de lo público, la adopción de valores que orientan la actuación de las personas servidoras públicas que conforman el Poder Legislativo.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 263
+
+El Comité, estará integrado por:
+
+I. La persona que presida la Comisión Permanente de Igualdad de Género;
+
+II. La persona que presida la Comisión Permanente la Diversidad Sexual;
+
+III. La persona que presida la Junta de Gobierno y Coordinación Política;
+
+IV. La persona titular de Oficialía Mayor;
+
+V. La persona titular de Contraloría, y
+
+VI. La persona titular de la Unidad para la Igualdad de Género.
+
+Quien ocupe la presidencia de la comisión Permanente para la Igualdad de Género será quien presida el Comité y la Secretaría Técnica estará a cargo de quien ocupe la Titularidad de la Unidad para la Igualdad de Género.
+
+En caso de ausencia, la presidencia del Comité designará a quien le supla de entre las personas integrantes del Comité delegándole la suma de funciones y obligaciones propias de su cargo en las sesiones y los trabajos del Comité.
+
+En caso de ausencia de la Secretaria Técnica, la presidencia del Comité nombrará a la persona suplente, y para los demás integrantes del Comité, éstas nombrarán mediante oficio a una persona suplente, la cual no podrá tener un rango menor al de titular de una Dirección. Quienes integren el Comité no recibirán retribución extra alguna.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 264
+
+Quienes integren el Comité no deberán tener antecedentes de conductas discriminatorias, ni de hostigamiento y/o acoso sexual o laboral; y deberán firmar una carta compromiso que garantice un manejo en apego estricto a la confidencialidad de la información.
+
+> <small>(ADICIONADO, B.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 265
+
+El Comité tendrá las siguientes atribuciones:
+
+I. Elaborar, vigilar la implementación, operación y evaluación de la Política de igualdad laboral y no discriminación en el Poder Legislativo, y
+
+II. Participar y vigilar la debida ejecución y operación del Protocolo para la prevención y atención de la violencia de género al interior del Poder Legislativo.
+
 T R A N S I T O R I O S :
 
 PRIMERO:- El presente decreto entrará en vigor el día de su aprobación debiendo ser publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
@@ -3138,3 +3194,15 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. A propuesta de la Junta de Gobierno y Coordinación Política el Pleno del Congreso deberá aprobar los Manuales de Organización y de Procedimientos, de cada una de las áreas administrativas del Congreso del Estado, a más tardar a los 90 días hábiles siguientes a la entrada en vigor del presente Decreto.
 
 CUARTO. El Congreso del Estado, a través de la Coordinación de Archivo y la Jefatura de Informática, deberán implementar el Sistema de Información Documental, a más tardar a los 180 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+B.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3061 SE ADICIONA EL TÍTULO DECIMOPRIMERO DENOMINADO DEL COMITÉ PARA LA INSTITUCIONALIZACIÓN DE LA POLÍTICA DE IGUALDAD Y NO DISCRIMINACIÓN Y DEL PROCEDIMIENTO PARA PREVENIR Y ATENDER ACTOS DE VIOLENCIA DE GÉNERO, CON UN CAPÍTULO ÚNICO DENOMINADO DISPOSICIONES GENERALES Y LOS ARTÍCULOS 262, 263, 264 Y 265 A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. El Honorable Congreso del Estado de Baja California Sur deberá en un término de 15 días naturales a partir de la expedición de este Decreto instalar el Comité para la institucionalización de la política de igualdad y no discriminación y del procedimiento para prevenir y atender actos de violencia de género.
+
+TERCERO. El Honorable Congreso del Estado de Baja California Sur deberá expedir en un término de 15 días naturales los lineamientos del Comité para la institucionalización de la política de igualdad y no discriminación y del procedimiento para prevenir y atender actos de violencia de género.
+
+CUARTO. Una vez instalado el Comité para la institucionalización de la política de igualdad y no discriminación y del procedimiento para prevenir y atender actos de violencia de género, el Honorable Congreso del Estado de Baja California Sur deberá expedir en un término de 15 días naturales la Política de igualdad laboral y no discriminación para el Poder Legislativo de Baja California Sur.
