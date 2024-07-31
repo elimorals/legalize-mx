@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-instituto-de-seguridad-juridica-patrimonial-822
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-19"
-last_updated: "2022-06-07"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 19 de julio de 2011.
 
@@ -47,19 +47,23 @@ LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 1.
 
 Las disposiciones de esta Ley, son de orden público e interés general y tienen por objeto establecer:
 
-l. La creación del Instituto de Seguridad Jurídica Patrimonial de Yucatán, así como las bases para su organización y funcionamiento;
+I. La creación del Instituto de Seguridad Jurídica Patrimonial de Yucatán, así como las bases para su organización y funcionamiento;
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+II. Las normas y principios básicos de acuerdo con los cuales se llevarán a cabo las funciones del Registro Público de la Propiedad y del Comercio y de la Dirección de Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-II. Las normas y principios básicos de acuerdo con los cuales se llevarán a cabo las funciones del Registro Público y de la Dirección de Catastro;
+III. Las normas y principios básicos de acuerdo con los cuales se llevarán a cabo las funciones de las áreas de los Ayuntamientos en materia de catastro en el ámbito de su competencia funcional y jurisdiccional;
 
-III. Las normas y lineamientos de carácter técnico para la formulación del inventario de los bienes inmuebles ubicados en los Municipios del Estado, tendientes a su identificación, registro y valuación, y
+IV. Las normas y lineamientos de carácter técnico para la formulación del inventario de los bienes inmuebles ubicados en los Municipios del Estado, tendientes a su identificación, registro y valuación;
 
-IV. Las disposiciones conforme a las cuales los Ayuntamientos podrán celebrar convenios en materia de catastro con el Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+V. Las disposiciones conforme a las cuales los Ayuntamientos podrán celebrar convenios en materia de catastro con el Instituto de Seguridad Jurídica Patrimonial de Yucatán, y
+
+VI. Las normas y procedimientos para integrar el Registro Estatal de Asesores Inmobiliarios.
 
 ###### Artículo 2.
 
@@ -69,95 +73,105 @@ I. Al Poder Ejecutivo del Estado, por conducto del Instituto de Seguridad Juríd
 
 II. A los Ayuntamientos en el ámbito de su competencia funcional y jurisdiccional.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 3.
 
-Para los efectos de esta Ley, deberá entenderse por:
+Para los efectos de esta Ley, además de las definiciones previstas en el artículo 4 de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Yucatán, deberá entenderse por:
 
-I. (DEROGADA, D.O. 31 DE JULIO DE 2019)
+I. Catastro: el censo analítico de los bienes inmuebles localizados en el Estado, estructurado por los padrones relativos a su identificación, registro, ubicación y valuación, para fines fiscales, estadísticos, socioeconómicos, jurídicos e históricos y para la formulación e instrumentación de políticas públicas, instrumentos de planeación territorial, planes estatales y municipales de desarrollo;
 
-II. Catastro: el censo analítico de los bienes inmuebles localizados en el Estado, estructurado por los padrones relativos a su identificación, registro, ubicación y valuación, para fines fiscales, estadísticos, socioeconómicos, jurídicos e históricos y para la formulación e instrumentación de políticas públicas, planes estatales y municipales de desarrollo;
+II. Consejería: la Consejería Jurídica del Poder Ejecutivo del Gobierno del Estado de Yucatán;
 
-III. Consejería: la Consejería Jurídica del Poder Ejecutivo del Gobierno del Estado de Yucatán;
+III. Dirección del Catastro: la Dirección del Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-IV. (DEROGADA, D.O. 31 DE JULIO DE 2019)
+IV. Dirección del Registro Público: la Dirección del Registro Público de la Propiedad y del Comercio del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-V. Dirección del Catastro: la Dirección del Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+V. Dirección General del Instituto: la Dirección General del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-VI. Dirección del Registro Público: la Dirección del Registro Público de la Propiedad y del Comercio del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+VI. Director General: el Director General del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-VII. Dirección General del Instituto: la Dirección General del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+VII. Ejecutivo del Estado: el Titular del Poder Ejecutivo del Estado de Yucatán;
 
-VIII. Director General: el Director General del Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+VIII. Instituto: el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-IX. Ejecutivo del Estado: el Titular del Poder Ejecutivo del Estado de Yucatán;
+IX. Junta de Gobierno: la Junta de Gobierno del Instituto;
 
-X. Instituto: el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+X. Ley: la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-XI. Junta de Gobierno: la Junta de Gobierno del Instituto;
+XI. Registro Público: el Registro Público de la Propiedad y del Comercio del Estado de Yucatán;
 
-XII. Ley: la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
+XII. Padrón de Peritos: el Padrón de Peritos Valuadores del Estado de Yucatán;
 
-XIII. Registro Público: el Registro Público de la Propiedad y del Comercio del Estado de Yucatán;
+XIII. Reglamento: el Reglamento de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
 
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+XIV. Titular del Catastro: al Director de la Dirección del Catastro, y
 
-XIV. Padrón de Peritos: el Padrón de Peritos Valuadores del Estado de Yucatán;
-
-XV. Reglamento: el Reglamento de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán;
-
-XVI. (DEROGADA, D.O. 31 DE JULIO DE 2019)
-
-XVII. Titular del Catastro: al Director de la Dirección del Catastro, y
-
-XVIII. Titular del Registro Público: el Director de la Dirección del Registro Público de la Propiedad y del Comercio, quien ejercerá la fe pública registral de la que es depositario pudiendo delegarla en los registradores sin perjuicio de poder ejercerla de manera directa.
+XV. Titular del Registro Público: el Director de la Dirección del Registro Público, quien ejercerá la fe pública registral de la que es depositario pudiendo delegarla en los registradores sin perjuicio de poder ejercerla de manera directa.
 
 ## TÍTULO SEGUNDO. REGISTRO PÚBLICO
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 4.
 
 Para los efectos de este Título, deberá entenderse por:
 
-l. Acervo Registral: el conjunto de documentos físicos o en medios electrónicos, ópticos o por cualquier medio tecnológico de almacenamiento, que contienen los asientos registrales o documentos relacionados con ellos;
+I. Acervo Registral: el conjunto de documentos físicos o en medios electrónicos, ópticos o por cualquier medio tecnológico de almacenamiento, que contienen los asientos registrales o documentos relacionados con ellos;
 
-II. Anotación: el asiento de carácter definitivo o transitorio que se hace en el Registro Público, para la protección del derecho que sobre una finca inscrita resulte tener la persona que la haya solicitado contra las facultades dispositivas del titular, de acuerdo con las disposiciones de este Título Segundo y el Reglamento;
+II. Agencia: la persona física o moral a nombre de la cual se prestan servicios de intermediación inmobiliaria, que puede ser una persona física cuando preste sus servicios bajo el nombre de una marca registrada, inscrita en el Registro Estatal de Asesores Inmobiliarios de Yucatán, al frente de la cual se encuentra una persona asesora inmobiliaria que se responsabiliza por los servicios ofertados y prestados y cuenta con Licencia tipo B: Agencia Inmobiliaria Certificada vigente otorgada por el Instituto;
 
-III. Anotación Preventiva: el asiento registral de carácter transitorio que forma parte de la inscripción principal, mediante la cual se hace constar una situación jurídica que limita, grava o afecta el bien o el derecho que consta en la inscripción;
+III. Anotación: el asiento de carácter definitivo o transitorio que se hace en el Registro Público, para la protección del derecho que sobre una finca inscrita resulte tener la persona que la haya solicitado contra las facultades dispositivas del titular, de acuerdo con las disposiciones de este Título Segundo y el Reglamento;
 
-IV. Asiento Registral: las notas marginales y de presentación, anotaciones preventivas y definitivas, avisos preventivos, inscripciones, registros y cualquiera otra prevista en este Título;
+IV. Anotación Preventiva: el asiento registral de carácter transitorio que forma parte de la inscripción principal, mediante la cual se hace constar una situación jurídica que limita, grava o afecta el bien o el derecho que consta en la inscripción;
 
-V. Base de Datos: el conjunto de la información que produzca cada inscripción o anotación de los actos o negocios jurídicos registrables, de conformidad con sus formas precodificadas;
+V. Asiento Registral: las notas marginales y de presentación, anotaciones preventivas y definitivas, avisos preventivos, inscripciones, registros y cualquiera otra prevista en este Título;
 
-VI. Código: el Código Civil del Estado de Yucatán;
+VI. Base de Datos: el conjunto de la información que produzca cada inscripción o anotación de los actos o negocios jurídicos registrables, de conformidad con sus formas precodificadas;
 
-VII. Función Registral: el servicio que proporciona el Estado, con la finalidad de dar certeza y seguridad jurídica mediante la inscripción y publicidad a los actos jurídicos que conforme a la Ley deben de inscribirse para surtir efectos ante terceros;
+VII. Código: el Código Civil del Estado de Yucatán;
 
-VIII. Firma Electrónica Acreditada: la que ha sido expedida por la autoridad certificadora en los términos de la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica del Estado de Yucatán;
+VIII. Función Registral: el servicio que proporciona el Estado, con la finalidad de dar certeza y seguridad jurídica mediante la inscripción y publicidad a los actos jurídicos que conforme a la Ley deben de inscribirse para surtir efectos ante terceros;
 
-IX. Folio Electrónico Registral: el expediente electrónico y digital en el que se practican los asientos registrales, y que contiene toda la información registral referida a un mismo inmueble o persona jurídica o moral de naturaleza civil y de beneficencia privada, los planes de desarrollo urbano y declaratorias, persona moral de naturaleza agraria y operaciones de crédito rural, considerado cada uno de éstos como una unidad registral con historial jurídico propio;
+IX. Firma Electrónica Acreditada: la que ha sido expedida por la autoridad certificadora en los términos de la Ley Sobre el Uso de Medios Electrónicos y Firma Electrónica del Estado de Yucatán;
 
-X. Forma Precodificada: el documento electrónico base del Sistema de Folio Electrónico Registral, que contiene los datos esenciales sobre un acto o negocio registrable o un asiento registral, necesarios para su calificación y, en su caso, inscripción electrónica;
+X. Folio Electrónico Registral: el expediente electrónico y digital en el que se practican los asientos registrales, y que contiene toda la información registral referida a un mismo inmueble o persona jurídica o moral de naturaleza civil y de beneficencia privada, los Instrumentos de Planeación Territorial y disposiciones relativas, persona moral de naturaleza agraria y operaciones de crédito rural, considerado cada uno de éstos como una unidad registral con historial jurídico propio;
 
-XI. Inscripción: el asiento principal practicado en el Folio Electrónico Registral correspondiente, en relación con los actos jurídicos o convenios a que se refieren el Código y otras disposiciones legales aplicables;
+XI. Forma Precodificada: el documento electrónico base del Sistema de Folio Electrónico Registral, que contiene los datos esenciales sobre un acto o negocio registrable o un asiento registral, necesarios para su calificación y, en su caso, inscripción electrónica;
 
-XII. Inmatriculación: la inscripción de la propiedad de un inmueble en el Registro Público, que carece de antecedentes registrales;
+XII. Inscripción: el asiento principal practicado en el Folio Electrónico Registral correspondiente, en relación con los actos jurídicos o convenios a que se refieren el Código y otras disposiciones legales aplicables;
 
-XIII. Mensaje de Datos: la información generada, enviada, recibida, archivada, reproducida o procesada por el firmante y recibida o archivada por el destinatario a través de medios electrónicos, ópticos o cualquier otra tecnología, de conformidad con lo establecido en la Ley sobre el uso de Medios Electrónicos y Firma Electrónica del Estado de Yucatán y esta Ley;
+XIII. Inmatriculación: la inscripción de la propiedad de un inmueble en el Registro Público, que carece de antecedentes registrales;
 
-XIV. Programa Registral Informático: el medio tecnológico utilizable para capturar y almacenar los datos esenciales sobre un acto o negocio registrable o un asiento registral, necesarios para su calificación y, en su caso, inscripción electrónica;
+XIV. Intermediación inmobiliaria: la prestación de un servicio profesional remunerado, consistente en las actividades que una persona física o moral realice de forma presencial, electrónica o digital con el propósito de brindar asesoría, promoción, comercialización o arrendamiento de inmuebles, intermediando entre una persona propietaria y una tercera persona, ya sea que se ostenten como persona asociada, comisionista, agente, asesora, afiliada, promotora, intermediaria, corredora, asistente o el nombre que seleccione; tendente a la celebración de un contrato de compraventa, arrendamiento, donación, mutuo con garantía hipotecaria, transmisión de dominio, fideicomiso, transacción, adjudicación, cesión o cualquier otro contrato traslativo de dominio o de uso o usufructo de bienes inmuebles.
 
-XV. Registrador: el servidor público que ejerce la fe pública registral y que tiene a su cargo la calificación de documentos registrales, así como la autorización de los asientos en que se materializa su registro;
+Se exceptúan de lo previsto en el párrafo anterior:
 
-XVI. Sistema Registral: el sistema informático donde se realiza la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información registral del Estado;
+a) A quienes sean fedatarios públicos y corredores públicos, peritos valuadores que, en el ejercicio de sus funciones realicen las actividades a las que se refiere el párrafo anterior;
 
-XVII. Sistema Registral Informático: el integrado con los asientos registrales, mediante el Folio Electrónico Registral;
+b) A las personas trabajadoras y colaboradores del equipo de ventas y comercialización que en el ejercicio de sus funciones y bajo una relación laboral subordinada, realicen las actividades a las que se refiere el párrafo anterior de forma exclusiva en los desarrollos inmobiliarios propiedad del desarrollador, y
 
-XVIII. Sistema Manual de Información: el medio utilizable para realizar el asiento en libros, de los actos jurídicos relacionados con personas morales de naturaleza civil y de beneficencia privada, planes de desarrollo urbano y declaratorias, personas morales de naturaleza agraria y operaciones de crédito agrícola;
+c) A las personas licenciadas en derecho o abogadas con cédula profesional que desarrollen funciones de asesoría jurídica con el único objetivo de otorgar certeza jurídica y patrimonial a sus asesorados.
 
-XIX. Sistema de Folio Electrónico Registral: el sistema de operación registral, conforme al cual los asientos registrales se practican en el Folio Electrónico Registral correspondiente a cada inmueble o persona jurídica o moral de naturaleza civil y de beneficencia privada, planes de desarrollo urbano y declaratorias, persona moral de naturaleza agraria y operaciones de crédito rural, y
+XV. Mensaje de Datos: la información generada, enviada, recibida, archivada, reproducida o procesada por el firmante y recibida o archivada por el destinatario a través de medios electrónicos, ópticos o cualquier otra tecnología, de conformidad con lo establecido en la Ley sobre el uso de Medios Electrónicos y Firma Electrónica del Estado de Yucatán y esta Ley;
 
-XX. Título: los instrumentos públicos o documentos otorgados ante fedatario público por personas legalmente autorizadas o los expedidos por autoridad competente con los que se justifique el derecho, acto jurídico o convenio cuya Inscripción deba hacerse.
+XVI. Persona asesora inmobiliaria: las personas físicas que en el ejercicio de su actividad económica retribuida asesoren o representen a un particular o presten un servicio de intermediación inmobiliaria en actividades cuya finalidad sea la transmisión del dominio, uso o goce temporal de un bien inmueble. La acreditación como tal, será expedida por el Gobierno del Estado a través del Instituto bajo la figura de la Licencia Tipo A. Asesor Inmobiliario Certificado o Licencia Tipo C. Asesor Inmobiliario Afiliado y está inscrita en el Registro Estatal de Asesores Inmobiliarios de Yucatán;
+
+XVII. Programa Registral Informático: el medio tecnológico utilizable para capturar y almacenar los datos esenciales sobre un acto o negocio registrable o un asiento registral, necesarios para su calificación y, en su caso, inscripción electrónica;
+
+XVIII. Registrador: la persona servidora pública que ejerza la fe pública registral y que tenga a su cargo la calificación de documentos registrales, así como la autorización de los asientos en que se materializa su registro;
+
+XIX. Sistema Registral: el sistema informático donde se realiza la captura, almacenamiento, custodia, seguridad, consulta, reproducción, verificación, administración y transmisión de la información registral del Estado;
+
+XX. Sistema Registral Informático: el integrado con los asientos registrales, mediante el Folio Electrónico Registral;
+
+XXI. Sistema Manual de Información: el medio utilizable para realizar el asiento en libros, de los actos jurídicos relacionados con personas morales de naturaleza civil y de beneficencia privada, Instrumentos de Planeación Territorial y disposiciones relativas, personas morales de naturaleza agraria y operaciones de crédito agrícola;
+
+XXII. Sistema de Folio Electrónico Registral: el sistema de operación registral, conforme al cual los asientos registrales se practican en el Folio Electrónico Registral correspondiente a cada inmueble o persona jurídica o moral de naturaleza civil y de beneficencia privada, Instrumentos de Planeación Territorial y disposiciones relativas, persona moral de naturaleza agraria y operaciones de crédito rural, y
+
+XXIII. Título: los instrumentos públicos o documentos otorgados ante fedatario público por personas legalmente autorizadas o los expedidos por autoridad competente con los que se justifique el derecho, acto jurídico o convenio cuya Inscripción deba hacerse.
 
 ###### Artículo 5.
 
@@ -309,9 +323,17 @@ I. Los testimonios de escrituras o actas notariales u otros documentos auténtic
 
 II. Las resoluciones y providencias jurisdiccionales y administrativas que consten de manera auténtica, enviadas electrónicamente por los funcionarios autorizados con su firma electrónica acreditada;
 
-III. Los documentos privados que fueren válidos con arreglo en la Ley, siempre que al calce de ellos hubiere la constancia de que el Notario, el Registrador o el Juez competente se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados fedatarios y llevar el sello respectivo, y los documentos deberán ser enviados por medios electrónicos por los notarios o escribanos, con su firma electrónica acreditada, y
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-IV. Las formas precodificadas que los fedatarios públicos sometan a Inscripción, enviadas por medios electrónicos con su firma electrónica acreditada y que contengan los antecedentes registrales correspondientes y demás requisitos para la Inscripción que señale el Reglamento.
+III. Los documentos privados que fueren válidos con arreglo a la Ley, siempre que al calce de ellos hubiere la constancia de que el Notario, el Registrador o el Juez competente se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados fedatarios y llevar el sello respectivo, y los documentos deberán ser enviados por medios electrónicos por los notarios, con su firma electrónica acreditada;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+IV. Las formas precodificadas que los fedatarios públicos sometan a Inscripción, enviadas por medios electrónicos con su firma electrónica acreditada y que contengan los antecedentes registrales correspondientes y demás requisitos para la Inscripción que señale el Reglamento, y
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
+
+V. Los instrumentos de planeación territorial, declaratorias y demás documentos relacionados con estos, siempre que cumplan lo dispuesto en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Yucatán.
 
 ###### Artículo 28.
 
@@ -321,7 +343,9 @@ l. La naturaleza, situación, linderos y colindancias de los inmuebles objeto de
 
 II. La naturaleza, extensión, condiciones y cargas del derecho de que trate;
 
-III. El valor de los bienes o derechos a que se refrieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el Título la estimación que le den;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+III. El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el Título la estimación que le den;
 
 IV. Tratándose de hipotecas, la obligación garantizada, la época en que podrá exigirse el cumplimiento, el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado, los réditos, la tasa o el monto, si se causaren y la fecha y hora desde que deba correr;
 
@@ -599,15 +623,19 @@ II. Se reduzca el derecho inscrito o anotado.
 
 ### CAPÍTULO X. De los Ramos del Registro Público
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 60.
 
-Para cumplir con sus funciones el Registro Público contará con las (sic) siguientes ramos:
+Para cumplir con sus funciones el Registro Público contará con los siguientes ramos:
 
 I. Registro Inmobiliario;
 
 II. Registro de Personas Morales de Naturaleza Civil;
 
-III. Registro de Planes de Desarrollo Urbano y Declaratorias, y
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+III. Registro de instrumentos de planeación territorial y declaratorias y
 
 IV. Registro de Crédito Rural.
 
@@ -633,7 +661,7 @@ VI. La Anotación relativa a la interposición de un juicio en el que se alegare
 
 VII. La promesa de contratar que afecte bienes raíces o derechos reales constituidos sobre los mismos, siempre que la misma conste en escritura pública;
 
-VIII. Los planes de desarrollo urbano y declaratorias, y
+VIII. (DEROGADA, D.O. 31 DE JULIO DE 2024)
 
 IX. Los demás títulos que otras disposiciones legales ordenen expresamente.
 
@@ -841,9 +869,11 @@ Una vez concluida la Inmatriculación, se hará su incorporación en el Folio El
 
 La Inmatriculación no podrá modificarse o cancelarse, sino en virtud de mandato judicial contenido en sentencia irrevocable, dictada en juicio en que haya sido parte el Registro Público.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 92.
 
-No se inscribirán las informaciones judiciales de dominio, cuando se violen los programas de desarrollo urbano o las declaratorias de usos, destinos o reservas de predios, salvo en los casos previstos por la legislación aplicable.
+No se inscribirán las informaciones judiciales de dominio, cuando se violen los Instrumentos de Planeación Territorial.
 
 #### SECCIÓN II. De la Inmatriculación Judicial
 
@@ -943,11 +973,37 @@ Para inscribir cualquier reforma a los estatutos de una persona moral de natural
 
 Las inscripciones que se practiquen en los folios electrónicos registrales relativos a personas morales de naturaleza civil, no producirán más efectos que los señalados en esta Ley y demás disposiciones conducentes, y les serán aplicables a las inscripciones del Sistema Manual de Información, en cuanto sean compatibles con la naturaleza de los actos o contratos, materia de éste Capítulo y con los efectos declarativos que las inscripciones producen.
 
-### CAPÍTULO XIV. Del Registro de Planes de Desarrollo Urbano y Disposiciones Relativas a las Inscripciones en Libros
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2024)</small>
+
+### CAPÍTULO XIV. Del Registro de Instrumentos de Planeación Territorial y Declaratorias a las Inscripciones en Libros
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 105 Bis.
+
+En el Registro de Instrumentos de Planeación Territorial y Declaratorias se inscribirán:
+
+I. El Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano;
+
+II. Los Programas de ordenamiento territorial de regiones y los de zonas metropolitanas;
+
+III. Los Programas de desarrollo urbano de conurbación intermunicipal;
+
+IV. Los Programas municipales de desarrollo urbano;
+
+V. Los Programas de desarrollo urbano de centros de población;
+
+VI. Los Programas de desarrollo urbano de centro de población con esquemas de planeación simplificada;
+
+VII. Los Programas parciales de desarrollo urbano, y
+
+VIII. Los programas e instrumentos que establezcan las disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 106.
 
-Los documentos que originen las inscripciones de los planes de desarrollo urbano, sus modalidades, derivaciones y modificaciones y las declaratorias y cancelaciones, deberán contener las indicaciones para relacionar entre sí las fincas o asientos a que se refieren para ser inscritos en este registro.
+Los documentos que originen las inscripciones de los Instrumentos de Planeación Territorial, sus modalidades, derivaciones y actualizaciones y las declaratorias y cancelaciones, deberán contener las indicaciones para relacionar entre sí las fincas o asientos a que se refieren y los folios electrónicos que relacionen los predios con las áreas respectivas, para ser inscritos en este registro.
 
 Las afectaciones resultantes de los mismos se deberán de reflejar, tanto en los folios electrónicos registrales de los predios con la naturaleza de estos actos, como en la información que se expida sobre dichos predios.
 
@@ -1035,7 +1091,7 @@ Siempre que deba comprenderse en las certificaciones un asiento de presentación
 
 Cuando alguno de los asientos que deba comprender la certificación estuviere rectificado por otro, se insertarán ambos a la letra. En el caso de reposición deberá de señalarse dicha situación.
 
-### CAPITULO XVII. De la Publicidad
+### CAPÍTULO XVII. De la Publicidad
 
 ###### Artículo 121.
 
@@ -1051,17 +1107,259 @@ Los usuarios tendrán acceso a la información generada en el Sistema Manual de 
 
 A los usuarios que hagan mal uso del sistema de cómputo o libros, se les suspenderá el servicio de consulta, sin perjuicio de las responsabilidades de carácter legal en que pudieren incurrir.
 
-### CAPÍTULO I. De las Disposiciones Generales
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2024)</small>
 
-### CAPÍTULO II. De las Autoridades Catastrales
+### CAPÍTULO XVIII. Del Registro Estatal de Asesores Inmobiliarios
 
-### CAPÍTULO III. De los Valores Catastrales
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 123 Bis.
+
+el Registro Estatal de Asesores Inmobiliarios es el padrón oficial y sistematizado de acceso público a cargo del Instituto, que tiene por objeto llevar un control de las personas físicas o morales que, de conformidad con esta Ley, cuentan con los conocimientos mínimos y cumplen los requisitos para prestar los servicios de intermediación inmobiliaria y, en tal virtud, han obtenido la Licencia Tipo A. Asesor Inmobiliario Certificado, la Licencia Tipo B. Agencia Inmobiliaria Certificada o la Licencia Tipo C. Asesor Inmobiliario Afiliado, en cualquiera de las modalidades a que esta Ley se refiere.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 123 Ter.
+
+Son atribuciones del Instituto, en materia de servicios inmobiliarios, las siguientes:
+
+I. Aplicar las políticas que en materia de servicios de intermediación inmobiliaria dicte la presente Ley;
+
+II. Otorgar, renovar y, en su caso, revocar, la Licencia Tipo A. de asesor inmobiliario Certificado, la Licencia Tipo B. Agencia Inmobiliaria Acreditada y la Licencia Tipo C. Asesor Inmobiliario Afiliado a las y los Asesores Inmobiliarios y a las Agencias, en términos de la presente Ley;
+
+III. Expedir constancias de vigencia de las licencias a que se refiere la fracción anterior otorgada a las personas físicas o morales, inscritas en el Registro Estatal de Asesores Inmobiliarios, cuando así lo requieran;
+
+IV. Hacer público el Registro Estatal de Asesores Inmobiliarios, a través de su sitio web y actualizarlo permanentemente;
+
+V. Tener un sistema de quejas o denuncias para que cualquier persona pueda reportar las malas prácticas de los asesores inmobiliarios y agencias y de cualquier persona que se ostente como tales sin serlo;
+
+VI. Dar asesoría legal a las personas usuarias de los servicios de intermediación inmobiliaria, así como promover la difusión e información sobre la regulación en materia de servicios inmobiliarios;
+
+VII. Expedir el Código de Buenas Prácticas para Personas Asesoras Inmobiliarias y Agencias;
+
+VIII. Adoptar los mecanismos que permitan identificar el incumplimiento de esta Ley;
+
+IX. Llevar a cabo visitas de verificación e inspección para detectar el incumplimiento de lo previsto en esta Ley;
+
+X. Imponer las sanciones a los asesores inmobiliarios, agencias y demás personas que incumplan lo previsto en esta Ley;
+
+XI. Procurar la resolución pacífica, de los conflictos entre las personas usuarias de los servicios de intermediación inmobiliaria y los asesores inmobiliarios, agencias y demás personas, y
+
+XII. Las demás que señale la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 123 Quater.
+
+Los notarios públicos que consignen operaciones de enajenación de bienes inmuebles ubicados en Yucatán en escritura pública deberán recabar de las partes intervinientes en ellos, la información sobre los asesores inmobiliarios o agencias que hayan intervenido en cualquier forma en dichos actos. Para lo anterior, y bajo protesta de decir verdad, deberán expresar, en el formato que al efecto se proporcione: el número de Licencia Tipo A. Asesor Inmobiliario Certificado, Licencia Tipo B. Agencia Inmobiliaria Certificada o Licencia Tipo C. Asesor Inmobiliario Afiliado, nombre, teléfono, sitio web y correo electrónico del Asesor Inmobiliario o Agencia o los datos de la persona que les prestó servicios de intermediación inmobiliaria y la forma en que las partes conocieron sus servicios. El notario deberá hacer del conocimiento de las partes intervinientes las infracciones a que se hace acreedor quien se conduzca con falsedad.
+
+La relación de estos formatos, junto con los originales, deberán remitirse por escrito o en forma electrónica al Instituto durante los 10 primeros días de los meses pares del año. En caso de detectar que, en términos de lo establecido en esta Ley, la persona que prestó los servicios de intermediación inmobiliaria no cuenta con Licencia Tipo A. Asesor Inmobiliario Certificado, Licencia Tipo B. Agencia Inmobiliaria Certificada o licencia Tipo C. Asesor Inmobiliario Afiliado vigente, el notario deberá dar aviso de inmediato al Instituto, dejando constancia de ello, durante los 15 días hábiles siguientes a la firma de la operación de que se trate. La Dirección General del Instituto deberá ejercer sus facultades de forma inmediata.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 123 Quinquies.
+
+Toda persona física o moral que preste servicios de intermediación inmobiliaria, deberá contar con la licencia Tipo A. Asesor Inmobiliario Certificado, Tipo B. Agencia Inmobiliaria Certificada o Tipo C. Asesor Inmobiliario Afiliado, conforme a lo establecido en esta Ley, y estar inscrita en el Registro Estatal de Asesores Inmobiliarios, de lo contrario se hará acreedora a las sanciones que esta Ley establece.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 123 Sexies.
+
+El Registro Estatal de Asesores Inmobiliarios deberá hacer constar el otorgamiento, vencimiento y revocación de la Licencia Tipo A. Asesor Inmobiliario Certificado, Licencia Tipo B. Agencia Inmobiliaria Certificada y la licencia Tipo C. Asesor Inmobiliario Afiliado, así como cualquier queja o procedimiento en curso de los asesores inmobiliarios y agencias, y cualquier sanción que se haya impuesto en el ejercicio de su actividad.
+
+El Registro Estatal de Asesores Inmobiliarios deberá integrar también, el listado de las personas físicas o morales que, sin ser persona asesora inmobiliaria o agencia, haya sido sancionada conforme a lo previsto en esta Ley.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 123 Septies.
+
+Las personas físicas o morales que cuenten con licencia de asesor inmobiliario o su equivalente de otras Entidades Federativas que deseen llevar a cabo operaciones inmobiliarias en el Estado de Yucatán, deberán tramitar la Licencia Tipo A. Asesor Inmobiliario Certificado, Licencia Tipo B. Agencia Inmobiliaria Certificada o la licencia Tipo C. Asesor Inmobiliario Afiliado, cumpliendo con los requisitos de este ordenamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2024)</small>
+
+### CAPÍTULO XIX. De las Licencias para asesores y agencias Inmobiliarias
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 123 Octies.
+
+Solo los asesores inmobiliarios y agencias podrán prestar servicios de intermediación inmobiliaria; así como identificarse, anunciarse y promoverse como tales en el estado de Yucatán.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 123 Nonies.
+
+El Instituto, por conducto de la Dirección General del Instituto podrá otorgar tres tipos de licencias que permitan prestar servicios de intermediación inmobiliaria:
+
+I. Licencia tipo A: Asesor Inmobiliario Certificado;
+
+II. Licencia tipo B: Agencia Inmobiliaria Certificada, y
+
+III. Licencia Tipo C: Asesor Inmobiliario Afiliado.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 123 Decies.
+
+Para obtener la licencia Tipo A. Asesor Inmobiliario Certificado las personas interesadas deberán presentar ante la Dirección General del Instituto, la documentación siguiente:
+
+I. Copia de identificación oficial vigente con fotografía,
+
+II. Registro Federal de Contribuyentes en el régimen que le corresponde a la prestación de servicios de intermediación inmobiliaria;
+
+III. Documento que acredite su capacitación en materia inmobiliaria de acuerdo con lo establecido en el reglamento de esta Ley, mediante su certificado de Competencias Laborales, expedida por una Entidad de Certificación y Evaluación de Competencias autorizada por el Consejo Nacional de Normalización y Certificación de Competencias Laborales (CONOCER);
+
+Tratándose del primer registro de la licencia tipo A establecida en la fracción I del artículo anterior, las personas físicas deberán acreditar 50 horas de capacitación; tratándose de su renovación, deberá acreditar 30 horas de capacitación en el último año de vigencia;
+
+IV. Documento que acredite su domicilio fiscal y domicilio convencional;
+
+V. Documento en donde, bajo protesta de decir verdad, afirme cumplir con lo dispuesto por la Ley Federal de Protección al Consumidor y las normas oficiales mexicanas, conforme a lo previsto en el reglamento de esta Ley;
+
+VI. Constancia de Registro ante la Procuraduría Federal del Consumidor del contrato de adhesión, de conformidad con lo dispuesto por la Ley Federal de Protección al Consumidor;
+
+VII. Documento en donde se comprometa a cumplir con los programas de formación, capacitación, actualización y certificación que establezca el Instituto anualmente mediante publicación en el Diario Oficial del Gobierno del Estado de Yucatán, para efectos de la renovación de la licencia;
+
+VIII. En el caso de renovación de la licencia a que se refiere este artículo, deberá presentar la documentación que acredite el cumplimiento de los programas que haya aprobado el Instituto conforme a lo previsto en la fracción anterior, y
+
+IX. En el caso de extranjeros, presentar original y copia del documento migratorio que indique que la persona extranjera cuenta con permiso de trabajo vigente, emitido por la Secretaría de Gobernación, a través del Instituto Nacional de Migración, y su tarjeta de residencia que acredite su legal estancia en el país.
+
+La persona física que preste los servicios de intermediación inmobiliaria que opere bajo una marca comercial deberá solicitar además la Licencia de tipo B. Agencia Inmobiliaria Certificada sin que ello implique su obligación de constituirse como persona moral.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 123 Undecies. Las personas morales de cualquier naturaleza que se dediquen, entre sus actividades, a prestar servicios de intermediación inmobiliaria, deberán obtener del Instituto, su licencia Tipo B. Agencia Inmobiliaria Certificada, para lo cual, deberán cumplir con los siguientes requisitos:
+
+I. Documento que acredite que al menos uno de sus socios u accionistas, así como su representante legal, es una persona asesora inmobiliaria que cuenta con licencia Tipo A. Asesor Inmobiliario Certificado vigente, así como que cuenta con inscripción activa ante el Registro Estatal de Asesores Inmobiliarios;
+
+II. Documento que acredite la capacitación y certificación del personal y personas asesoras inmobiliarias que cuenten con la Licencia Tipo C. Asesor Inmobiliario Afiliado a su cargo respecto al servicio de intermediación inmobiliaria, de acuerdo con lo establecido en el reglamento de esta Ley mediante su certificado de Competencias Laborales, expedida por una Entidad de Certificación y Evaluación de Competencias autorizada por el Consejo Nacional de Normalización y Certificación de Competencias Laborales (CONOCER), y
+
+III. Acreditar que todos sus asesores inmobiliarios tienen licencia tipo A. Asesor Inmobiliario Certificado o tipo C. Asesor Inmobiliario Afiliado.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 123 Duodecies. A la solicitud de Licencia Tipo B. Agencia Inmobiliaria Certificada se deberán anexar los siguientes documentos e información:
+
+I. Copia de identificación oficial vigente del Representante Legal;
+
+II. Tratándose de Personas Morales, el Acta Constitutiva, inscrita en el Registro Público;
+
+III. Comprobante domiciliario de su domicilio fiscal y en caso de no ser el mismo del domicilio comercial, presentar el comprobante de ambos, con una fecha de expedición con una antigüedad no mayor a tres meses respecto a la fecha de la presentación de la solicitud;
+
+IV. En caso de contar con sucursales, enlistarlas y acompañar los comprobantes domiciliarios de las sucursales;
+
+V. Documento donde afirme, bajo protesta de decir verdad, encontrarse en cumplimiento de lo dispuesto por la Ley Federal de Protección al Consumidor y las Normas Oficiales Mexicanas, conforme a lo previsto en el reglamento de esta Ley;
+
+VI. Constancia de registro ante la Procuraduría Federal del Consumidor del contrato de adhesión, de conformidad con lo dispuesto por la Ley Federal de Protección al Consumidor.
+
+Los asesores inmobiliarios con Licencia Tipo C. Asesor Inmobiliario Afiliado, sea que laboren en la agencia como personas asociadas, comisionistas, agentes, afiliadas, promotoras, intermediarias, corredoras o la figura jurídica que los ampare, bastará que presenten el Contrato de Adhesión actualizado de la agencia;
+
+VII. Constancia de Situación Fiscal de la persona física o moral, en el régimen que le corresponde a la prestación de servicios inmobiliarios, que acredite estar al corriente en el cumplimiento de sus obligaciones fiscales;
+
+VIII. Copia certificada del poder notarial del representante legal, en su caso;
+
+IX. Documento que acredite su capacitación en materia inmobiliaria de acuerdo con lo establecido en el reglamento de esta Ley, mediante el certificado de Competencias Laborales, expedida por una Entidad de Certificación y Evaluación de Competencias autorizada por el Consejo Nacional de Normalización y Certificación de Competencias Laborales (CONOCER), expedida a su personal que preste servicios de intermediación inmobiliaria, y
+
+X. Relación de los Asesores Inmobiliarios Certificados que tengan un vínculo legal con el solicitante, los cuales deberán contar con licencia tipo A Asesor Inmobiliario Certificado o licencia tipo C Asesor Inmobiliario Afiliado.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 123 Terdecies. Las Agencias podrán solicitar que se otorgue a su personal que preste servicios de intermediación inmobiliaria en formación, una licencia tipo C. Asesor Inmobiliario Afiliado, siempre que cumplan los requisitos siguientes:
+
+I. Afirmar, bajo protesta de decir verdad, que su personal que preste servicios de intermediación inmobiliaria tiene un vínculo legal con la agencia y actúa en nombre y representación de esta, y en tal virtud, es la agencia la que asume la responsabilidad de la actuación de su personal en todos los actos de intermediación inmobiliaria en los que intervenga, asumiendo los daños y perjuicios que por dolo o negligencia ocasione su personal frente a terceros.
+
+De igual manera, la agencia que opere con apoyo o haya contratado bajo cualquier régimen para la prestación de servicios de Intermediación Inmobiliaria a personas asesoras inmobiliarias que cuenten con Licencia Tipo A. Asesor Inmobiliario Certificado, asumirán la responsabilidad de la actuación de estos en todos los actos de intermediación inmobiliaria en los que intervengan en representación de la referida agencia, asumiendo los daños y perjuicios que por dolo o negligencia ocasione frente a terceros, siempre que se acredite que el incumplimiento de lo previsto en esta Ley derivó de infracciones originadas por la agencia y no por la persona asesora inmobiliaria;
+
+II. Proporcionar a la Dirección del Registro Público, todos los datos de identificación de su personal que preste servicios de intermediación inmobiliaria, así como cualquier otra información que le sea requerida;
+
+III. Acreditar la capacitación de su personal que preste servicios de intermediación inmobiliaria de acuerdo con lo establecido en el reglamento de esta Ley, mediante su certificado de Competencias Laborales, expedida por una Entidad de Certificación y Evaluación de Competencias autorizada por el Consejo Nacional de Normalización y Certificación de Competencias Laborales (CONOCER), y
+
+IV. Cumplir con los requisitos establecidos en el artículo 123 Nonies para obtener la licencia tipo A. Asesor Inmobiliario Certificado.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 123 Quaterdecies. Las agencias deberán dar aviso por escrito al Instituto cuando los Asesores Inmobiliarios dejen de prestar servicios de intermediación inmobiliaria en su nombre, dentro de los 30 días hábiles siguientes a la baja respectiva. La falta de este aviso será sancionada por el Instituto.
+
+En caso de que la Agencia omita dar el aviso a que se refiere el párrafo anterior, continuará siendo responsable respecto a sus actividades de intermediación inmobiliaria, hasta en tanto no se haya presentado dicha comunicación.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 123 Quindecies. El tener bajo el mando, dirección o cualquier otro vínculo jurídico que implique relación de subordinación o de prestación de servicios directos a personas que se anuncien, asuman u ostenten como asesores inmobiliarios sin tener alguna de las licencias o sin estar inscrito en el Registro Estatal de Asesores Inmobiliarios a que se refiere la presente Ley, será motivo de cancelación de la licencia Tipo B. Agencia Inmobiliaria Certificada.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 123 Sexdecies. Las licencias Tipo A. Asesor Inmobiliario Certificado tendrán una vigencia de 5 años, y para su renovación se deberá además de actualizar los datos e información que se hubieren modificado, acreditar haber cursado 30 horas de cursos de actualización en el año calendario inmediato anterior a la solicitud de la renovación.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 123 Septendecies. La licencia tipo B. Agencia Inmobiliaria Certificada tendrá una vigencia de 6 años. Tratándose de Personas Morales, para la renovación de dicha licencia bastará con la actualización de la información proporcionada en la solicitud de origen, en los formatos aprobados por la Dirección General del Instituto, así como la actualización de la información sobre la capacitación de los Asesores Inmobiliarios a su cargo que acrediten contar con la licencia tipo C. Asesor Inmobiliario Afiliado al haber cursado 30 horas de cursos de actualización en el año calendario. Tratándose de personas físicas deberán acreditar la renovación previa de su licencia tipo A. Asesor Inmobiliario Certificado.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 123 Octodecies. La licencia tipo C. Asesor Inmobiliario Afiliado, tendrá una vigencia de 1 año y no podrá ser renovada. En todo caso, la Agencia solicitante, o cualquier otra que haga suya la responsabilidad de los actos del personal que desarrolle actividades de intermediación inmobiliaria en cuestión, podrá solicitar una prórroga de dicha licencia, que no podrá exceder de 12 meses y una vez vencidos se tendrá por cancelada dicha licencia y no podrá ser expedida nuevamente bajo esta misma modalidad.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2024)</small>
+
+### CAPÍTULO XX. De los derechos y obligaciones de los asesores inmobiliarios
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 123 Novodecies. Los asesores inmobiliarios y agencias deberán observar, en la prestación de sus servicios de intermediación inmobiliaria, un comportamiento basado en principios y valores universales, tales como la honestidad, eficiencia, transparencia, rectitud y ética, evitando toda práctica que desacredite la actividad profesional, teniendo las siguientes obligaciones:
+
+I. Solicitar y obtener las licencias a que se refiere el artículo 123 Nonies de esta Ley y sus renovaciones, siempre que cubra los requisitos establecidos en esta Ley;
+
+II. Informar por escrito a la autoridad los cambios o modificaciones que afecten la Licencia a que se refiere la fracción anterior, otorgada por el Estado;
+
+III. Dar aviso a la autoridad sobre su baja voluntaria del Registro Estatal de Asesores Inmobiliarios;
+
+IV. Colocar en su publicidad, sitios web, contratos de servicios y documentación administrativa, el número de su licencia, así como los datos de la autoridad que la expide y su vigencia;
+
+V. Promover la comercialización de bienes inmuebles en el Estado de Yucatán, sólo cuando medie autorización por escrito de su legítimo propietario o de quien tenga legalmente autorización para su comercialización;
+
+VI. Observar y cumplir los estándares de competencia, normas oficiales mexicanas, leyes y reglamentos que normen la prestación de los servicios de intermediación inmobiliaria;
+
+VII. Asistir a los programas de actualización y capacitación que establezca el Instituto;
+
+VIII. Otorgar las facilidades a los inspectores designados por el Instituto para llevar a cabo revisiones de cumplimiento a esta Ley respecto a los servicios de intermediación inmobiliaria que haya prestado en los últimos cinco años;
+
+IX. Conservar por un periodo de cinco años, contado a partir de la fecha de su emisión, la documentación que se haya generado en la prestación de los servicios de intermediación inmobiliaria;
+
+X. Atender los requerimientos de información, visitas de verificación y cualesquiera diligencias de colaboración que realice el Instituto, relacionadas con sus funciones de intermediación inmobiliaria;
+
+XI. Informar al Instituto las prácticas que observe en las operaciones de intermediación inmobiliaria que pudiera considerar contrarias a la presente Ley;
+
+XII. Actuar con ética profesional a efecto de salvaguardar los intereses legales y económicos de sus clientes, de los bienes inmuebles que comercialicen y de cualquier otro profesional que participe en las operaciones de intermediación inmobiliaria que gestione el asesor inmobiliario o la agencia;
+
+XIII. Verificar previo a la publicación y promoción de los bienes inmuebles que comercialice, que tanto los propietarios como los inmuebles, sean susceptibles de adquirir derechos y obligaciones en operaciones traslativas de dominio, de uso o de usufructo, obteniendo invariablemente la autorización por escrito del propietario para la prestación de los servicios de intermediación inmobiliaria;
+
+XIV. Explicar a sus clientes los diferentes trámites que derivan del proceso de la intermediación inmobiliaria;
+
+XV. Manifestar su participación en las protocolizaciones de los contratos y convenios ante fedatario público, en los que se pacten operaciones traslativas de dominio, uso o de usufructo de bienes inmuebles en las que haya participado otorgando servicios de intermediación inmobiliaria el asesor inmobiliario o agencia, haciendo referencia a los datos de la licencia otorgada por el Estado;
+
+XVI. Convenir por escrito con sus clientes, socios comerciales, agentes, asociados o cualquier persona con la que participe conjuntamente en las operaciones inmobiliarias, los honorarios y obligaciones de sus servicios profesionales;
+
+XVII. Salvaguardar los datos personales de sus clientes conforme a la Ley de la materia;
+
+XVIII. No realizar prácticas de exclusión o preferencia alguna respecto de cualquier persona con la que realice intermediación inmobiliaria por motivo de raza, religión, capacidad diferente, nacionalidad o género y los demás previstos en el artículo 1o de la Constitución Política de los Estados Unidos Mexicanos;
+
+XIX. Cumplir con sus obligaciones tributarias federales, estatales y municipales para la prestación de los servicios de intermediación inmobiliaria;
+
+XX. Expedir el Comprobante Fiscal Digital por Internet (CFDI) de todos los servicios de intermediación inmobiliaria prestados, y
+
+XXI. Las demás que señale la presente Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+Artículo 123 Vicies. Los asesores inmobiliarios y las agencias tendrán, en el ejercicio de su actividad profesional, los siguientes derechos:
+
+I. Obtener las licencias previstas en el artículo 123 Nonies de esta Ley y sus renovaciones en términos de la presente Ley y su reglamento;
+
+II. Usar y exhibir la licencia respectiva, conforme a lo previsto en el artículo 123 Nonies de esta Ley, así como ostentarse como persona asesora inmobiliaria o agencia en términos de esta Ley, y
+
+III. Las demás que se deriven de esta y otras leyes aplicables.
 
 ## TÍTULO TERCERO. CATASTRO
 
-### CAPÍTULO IV. Del Padrón Catastral y de la Inscripción de Inmueble
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+### CAPÍTULO I. De las Disposiciones Generales
 
 ###### Artículo 124.
 
@@ -1069,39 +1367,57 @@ Para los efectos de este Título, se entenderá por:
 
 l. Actualización Catastral: el conjunto de actividades técnicas de asignar el valor catastral para las modificaciones efectuadas a los datos de los bienes inmuebles;
 
-II. Bienes Inmuebles: los señalados expresamente como tales en el Código Civil de Yucatán;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+II. Bienes Inmuebles: los señalados expresamente como tales en el Código Civil del Estado de Yucatán;
 
 III. Cartografía: el conjunto de mapas y planos que determinan las delimitaciones y deslindes de los inmuebles;
 
-IV. Clasificación de los Fraccionamientos: las definiciones y dimensiones de los diferentes fraccionamientos, de conformidad con la normatividad de la materia en vigor;
+IV. (DEROGADA, D.O. 31 DE JULIO DE 2024)
 
 V. Cartografía Geodésica: el conjunto de planos elaborados de acuerdo al sistema georeferencial;
 
-VI. Cédula Catastral: el documento que constituye el único medio idóneo para Identificar el registro de un predio en el padrón catastral;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-VII. Construcciones Permanentes: las que por su estructura y por su valor no pueden ser consideradas provisionales;
+VI. Cédula catastral: el documento que constituye el único medio idóneo para Identificar el registro de un predio en el padrón catastral que contiene la clave catastral correspondiente y demás información en términos de las disposiciones aplicables;
 
-VIII. Construcciones Provisionales: las que por su estructura sean fácilmente desmontables en cualquier momento. En los casos dudosos la dirección del catastro que corresponda, determinará si las construcciones son o no provisionales;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+VII. Construcciones permanentes: las que están adheridas a un predio de manera fija y por su estructura no son fácilmente desmontables y de desmontarse sufren merma en su valor o en el de los demás inmuebles unidos a esta, por lo que no pueden ser consideradas provisionales;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+VIII. Construcciones provisionales: las que por su estructura sean fácilmente desmontables en cualquier momento, sin menoscabo en su valor. En los casos dudosos, la Dirección del Catastro o área equivalente que corresponda, determinará si las construcciones son o no provisionales, conforme a las disposiciones que al efecto emita;
 
 IX. Lote: la superficie de terreno que resulta de la división de una manzana;
 
-X. Lote Tipo: la superficie de terreno que de acuerdo a su frecuencia en alguna sección Catastral o localidad por características dimensionales o socioeconómicas, sea determinada por la autoridad catastral como unidad de valuación;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-XI. Manzana: el área integrada por uno o varios terrenos colindantes delimitados por vías públicas;
+X. Lote tipo: la superficie de terreno que, de acuerdo con su frecuencia en alguna sección catastral, sea determinada por la autoridad catastral competente como unidad de valuación estándar por características dimensionales o socioeconómicas;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XI. Manzana: el área integrada por uno o varios predios colindantes delimitados por vías públicas;
 
 XII. Nomenclatura Catastral: el conjunto de datos alfanuméricos que identifican de forma única e irrepetible un bien inmueble;
 
-XIII. Padrón Catastral: el conjunto de registros documentales y electrónicos que contienen los datos generales y particulares de los bienes inmuebles ubicados en el territorio del Estado;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XIII. Padrón catastral: el conjunto de registros documentales y electrónicos que contienen los datos generales y particulares de los bienes inmuebles ubicados en el territorio del Estado;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
 XIV. Predio:
 
-a). El bien inmueble conformado por la porción de terreno, que incluye las construcciones cuyos linderos formen un perímetro cerrado;
+a) El bien inmueble conformado por la porción de terreno, que incluye las construcciones cuyos linderos formen un perímetro cerrado;
 
 b) Los lotes en que se hubiere dividido un terreno de acuerdo con la legislación sobre la materia, y
 
-c) Los diferentes pisos, departamentos, viviendas o locales constituidos bajo el régimen de propiedad y condominio inmobiliario del Estado.
+c) Los diferentes pisos, departamentos, viviendas o locales constituidos bajo el régimen de propiedad en condominio.
 
-XV. Predio Baldío: aquel que no tiene construcciones o que teniéndolas, éstas se encuentran en estado ruinoso, abandonadas y en condiciones no habitables; por espacio de un año o más. Así como aquellos cuyos propietarios se niegan a participar en la proporción que les corresponda del costo total para la introducción de los servicios urbanos;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XV. Predio baldío: aquel que no tiene construcciones permanentes o que teniéndolas, estas se encuentran en estado ruinoso, abandonadas y en condiciones no habitables; y aquellos que tengan construcciones provisionales. Así como aquellos cuyos propietarios se niegan a participar en la proporción que les corresponda del costo total para la introducción de los servicios urbanos;
 
 XVI. Predio Edificado: el que tenga construcciones permanentes;
 
@@ -1109,9 +1425,13 @@ XVII. Predio no Edificado: el que no tenga construcciones permanentes o que las 
 
 XVIII. Predio Oculto: el Predio no inscrito en el padrón catastral;
 
-XIX. Predio Rústico: todo aquel que este ubicado fuera de las zonas urbanas;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-XX. Predio Urbano: el ubicado dentro de las zonas urbanas, así consideradas por estar edificadas total o parcialmente y en donde existen los servicios públicos mínimos esenciales;
+XIX. Predio Rústico: todo aquel que esté ubicado fuera de un centro de población;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XX. Predio urbano: el ubicado dentro de los límites de un centro de población;
 
 XXI. Revalidación Catastral: el conjunto de actividades técnicas a efecto de que se aplique el valor catastral vigente del ejercicio fiscal correspondiente;
 
@@ -1119,7 +1439,9 @@ XXII. Revaluación Catastral: el conjunto de actividades técnicas para asignar 
 
 XXIII. Sección Catastral: la delimitación de las áreas comprendidas en una zona catastral con características similares en cuanto a uso del suelo, servicios públicos y su calidad, edad, tipos de desarrollo urbano, densidad de población, tipo y calidad de las construcciones y nivel socioeconómico;
 
-XXIV. Sistema Estatal de Gestión Catastral: el conjunto de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado, incluyendo los proporcionados por el Registro Público;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XXIV. Sistema Estatal de Gestión Catastral: el conjunto de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado, incluyendo los proporcionados por el Registro Público y que estará vinculado con el Sistema de Información Territorial y Urbana del Estado de Yucatán previsto en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Yucatán;
 
 XXV. Valor Catastral: el asignado a cada uno de los bienes inmuebles ubicados en los territorios de los Municipios del Estado, de acuerdo a los procedimientos a que se refiere este Título Tercero;
 
@@ -1141,33 +1463,47 @@ XXX. Zonificación Catastral: la demarcación del territorio del Estado en zonas
 
 Los objetivos generales del Catastro del Estado son:
 
-l. Identificar y deslindar los Bienes Inmuebles;
+I. Identificar y deslindar los Bienes Inmuebles;
 
-II. Integrar y mantener actualizada la documentación relativa a las características cuantitativas y cualitativas de los inmuebles, comprendidos dentro del territorio del Estado;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-III. Proporcionar a los Ayuntamientos que no cuenten con catastro, previo convenio de coordinación, asesoría técnica y propuestas de la tabla de Valores Unitarios de terreno y de construcción de las zonas urbanas y rusticas así como los planos municipales;
+II. Integrar y mantener actualizada la documentación relativa a las características cuantitativas de los bienes inmuebles; así como el inventario completo de dichos bienes inmuebles, incluyendo sus características físicas y valores;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+III. Proporcionar a los Ayuntamientos que no cuenten con catastro, previo convenio de coordinación, asesoría técnica y propuestas de la tabla de Valores Unitarios de terreno y de construcción de los centros de población y rurales, así como los planos municipales;
 
 IV. Integrar y actualizar la Cartografía catastral del territorio estatal;
 
-V. Integrar y aportar la información técnica en relación a los límites de territorios del Estado y de sus Municipios;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+V. Aportar la información técnica relativa a:
+
+a) Los límites del territorio del Estado, de sus municipios, de los centros de población y demás localidades, y
+
+b) La elaboración y aplicación de los instrumentos de planeación territorial en el Estado y el ejercicio de las atribuciones de las autoridades de control ambiental y urbano.
 
 VI. Realizar el inventario completo de los Bienes Inmuebles y proporcionar a quien lo solicite, la información de sus características físicas y sus valores;
 
-VII. Permitir un ágil manejo de la información catastral digitalizada y su actualización permanente;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+VII. Garantizar un manejo adecuado de la información catastral digitalizada y su actualización permanente;
 
 VIII. Establecer las normas técnicas para la formación, mejoramiento y conservación de los registros para el control de las operaciones catastrales de los inmuebles en el Estado;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-IX. Recopilar de los catastros municipales toda la información de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado;
+IX. Recopilar de los catastros municipales, del Registro Público, y de la Dirección del Archivo Notarial de la Consejería, toda la información de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado;
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+X. (DEROGADA, D.O. 31 DE JULIO DE 2024)
 
-X. Recopilar, del Registro Público y de la Dirección del Archivo Notarial de la Consejería Jurídica, toda la información que sea necesaria para los efectos catastrales, y
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XI. Aportar la información necesaria para la elaboración y aplicación de los instrumentos de planeación territorial en el Estado y para el ejercicio de las atribuciones de las autoridades de control ambiental y urbano, y
 
 > <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
-XI. Fungir como autoridad fiscal para la revisión y validación de avalúos comerciales que se requieran para las transmisiones de propiedad o bien, tratándose de inscripciones por primera vez en catastro y registro público o para la actualización de la cédula o valor catastral.
+XII. Fungir como autoridad fiscal para la revisión y validación de avalúos comerciales que se requieran para las transmisiones de propiedad o bien, tratándose de inscripciones por primera vez en catastro y registro público o para la actualización de la cédula o valor catastral.
 
 ###### Artículo 126.
 
@@ -1177,17 +1513,21 @@ l. La integración, organización y funcionamiento de la Dirección de Catastro;
 
 II. La forma, términos y procedimientos a que se sujetarán los trabajos catastrales;
 
-III. Las obligaciones que en materia catastral tienen los propietarios o poseedores de inmuebles, así como los servidores públicos estatales, municipales, los notarios y escribanos públicos;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+III. Las obligaciones que en materia catastral tienen los propietarios o poseedores de inmuebles, así como los servidores públicos estatales, municipales y los notarios públicos;
 
 IV. El establecimiento de las normas técnicas que considere necesarias para la formación, mejoramiento y conservación de los registros para el control de las operaciones catastrales de los inmuebles en el Estado, y
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-V. El establecimiento de las normas técnicas y procedimentales necesarias para el intercambio de información con la Dirección del Registro Público, con la Dirección del Catastro, con la Dirección del Archivo Notarial de la Consejería Jurídica y con la Agencia de Administración Fiscal de Yucatán.
+V. El establecimiento de las normas técnicas y procedimentales necesarias para el intercambio de información con la Dirección del Registro Público, con la Dirección del Catastro, con la Dirección del Archivo Notarial de la Consejería y con la Agencia de Administración Fiscal de Yucatán y con las autoridades municipales de la materia.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 127.
 
-Las disposiciones contenidas en este Título Tercero serán ejercidas por el Director General por conducto del Titular del Catastro, o por los Presidentes Municipales por conducto de sus Direcciones o áreas del catastro según corresponda.
+Las disposiciones contenidas en este Título Tercero serán ejercidas por el Director General por conducto del Titular del Catastro, o por los Presidentes Municipales, en su respectivo ámbito territorial, por conducto de sus Direcciones o áreas del catastro según corresponda.
 
 ###### Artículo 128.
 
@@ -1201,29 +1541,39 @@ Todos los Bienes Inmuebles establecidos en el territorio del Estado deberán est
 
 Los catastros municipales deberán proporcionar a la Dirección del Catastro, todos los planos y datos catastrales, que capturen, procesen y realicen de manera electrónica para integrarlos en el Sistema Estatal de Gestión Catastral.
 
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 131.
 
-A falta de disposición expresa de éste Título, deberán considerarse como normas supletorias las disposiciones contenidas en el Código Civil y el Código de Procedimientos Civiles, ambos del Estado de Yucatán, así como en las demás disposiciones aplicables.
+A falta de disposición expresa de éste Título, deberán considerarse como normas supletorias las disposiciones contenidas en la Ley del Catastro del Estado de Yucatán, el Código Civil del Estado de Yucatán y la legislación aplicable en materia procesal civil, así como en las demás disposiciones aplicables.
 
 ###### Artículo 132.
 
 El Sistema Estatal de Gestión Catastral se integrará con los registros: Alfabético, numérico, gráfico y electrónico, siguientes:
 
-l. Alfabético, constituido por:
+I. Alfabético, constituido por:
 
-a) Nombre del propietario;
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
-b) Domicilio del propietario;
+a) Nombre del propietario o poseedor;
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+b) Domicilio del propietario o poseedor;
 
 c) Datos correspondientes a la Inscripción del título en el Registro Público;
 
-d) Nacionalidad del propietario;
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+d) Nacionalidad del propietario o poseedor;
 
 e) Uso y destino de cada Predio;
 
 f) Nombre del fedatario público que autoriza;
 
-g) Clase del Predio, y
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+g) Tipo de Predio, y
 
 h) Localidad y Municipio.
 
@@ -1231,7 +1581,9 @@ II. Gráfico, constituido por:
 
 a) El plano general catastral del Estado;
 
-b) El plano catastral geodésico de cada Municipio;
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+b) El plano catastral de cada municipio;
 
 c) Los planos de las zonas urbanas;
 
@@ -1269,7 +1621,7 @@ b) El sistema en línea de la Dirección del Catastro correspondiente, y
 
 c) Los datos y registros que se encuentren capturados en la forma precodificada almacenada en el sistema informático del Catastro del Estado.
 
-### CAPITULO V. De la Valuación, Revaluación y Deslindes
+### CAPÍTULO II. De las Autoridades Catastrales
 
 ###### Artículo 133.
 
@@ -1293,7 +1645,7 @@ I. Del Instituto a través de la Dirección del Catastro, y
 
 II. De las Direcciones o áreas correspondientes.
 
-### CAPÍTULO VI. Del Sistema de Gestión Catastral
+### CAPÍTULO III. De los Valores Catastrales
 
 ###### Artículo 135.
 
@@ -1325,7 +1677,9 @@ II. Características de los servicios públicos y del equipamiento urbano;
 
 III. Tipo y calidad de las construcciones con base a las características de los materiales utilizados, los sistemas constructivos empleados y el tamaño de las construcciones;
 
-IV. Tipo de desarrollo urbano y rural, en el cual deberá considerarse la reserva, destino establecido por los programas correspondientes, el uso actual y potencial del suelo y la uniformidad de los inmuebles edificados, según sean residenciales, comerciales, industriales, agrícolas, pecuarios y aquellos de uso diferente;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+IV. Tipo de desarrollo urbano y rural, en el cual deberá considerarse la reserva, destino establecido por los Instrumentos de Planeación Territorial correspondientes, el uso actual y potencial del suelo y la uniformidad de los inmuebles edificados, según sean de uso habitacional, comercial y de servicios, industrial, mixto y aquellos de uso diferente;
 
 V. Índice socioeconómico de los habitantes;
 
@@ -1362,6 +1716,300 @@ En los casos en que a algún sector del territorio de los Municipios no se le ha
 ###### Artículo 143.
 
 Los Valores Unitarios de Suelo y de Construcción aprobados, así como los valores provisionales, en su caso, son la base para la determinación de los valores catastrales correspondientes a los Bienes Inmuebles, los cuales deberán ser equiparables o proporcionales, en los términos de la legislación aplicable, a los valores de mercado, mismos valores que deberán ser objeto de revisión cada año.
+
+### CAPÍTULO IV. Del Padrón Catastral y de la Inscripción de Inmueble
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 144.
+
+Todos los Bienes Inmuebles ubicados en el territorio del Estado que cumplan previa y estrictamente con las obligaciones y formalidades que establezcan las disposiciones legales y normativas aplicables, se inscribirán en el Catastro correspondiente, señalando sus características físicas de ubicación, su valor, el uso, así como los datos socioeconómicos y estadísticos necesarios para cumplir los objetivos del Catastro, en sus formatos correspondientes.
+
+En la descripción de la ubicación deberá identificarse el municipio, localidad y centro de población y, en su caso, el núcleo agrario del cual forma parte.
+
+Respecto a su uso, deberá identificarse su correspondencia con las disposiciones establecidas en los instrumentos de planeación territorial vigentes en el Estado.
+
+Para la inscripción de un predio en el Padrón Catastral, la autoridad catastral deberá comprobar fehacientemente que dicho predio no se encuentra ya inscrito y, en su caso, que haya una resolución firme de la autoridad competente.
+
+Para objeto de actualización, habrá de anotarse en el propio padrón toda modificación a cualquiera de las características de los Bienes Inmuebles.
+
+La inscripción de un predio en el Padrón Catastral y su correspondiente asignación de clave catastral no genera al propietario o poseedor derechos u obligaciones de ninguna naturaleza.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 145.
+
+Al inscribirse el inmueble en el padrón catastral se le asignará la clave correspondiente, integrándose con el número de la zona catastral, de manzana y de lote; en casos de predios sujetos al régimen de propiedad en condominio, se añadirá el número del edificio y el de la unidad condominal y cada departamento, despacho, vivienda o local, habrá de inscribirse por separado en el padrón, con diferente clave catastral.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 146.
+
+La Dirección o área de Catastro que corresponda estará facultada para realizar de oficio la inscripción o actualización de los predios debidamente inscritos en el Registro Público, en los siguientes casos:
+
+I. Tratándose de inscripciones, cuando los obligados por el Artículo 154 de esta Ley no lo hicieren en los plazos establecidos en el propio artículo;
+
+II. Tratándose de actualizaciones, cuando los propietarios, poseedores y/o los responsables solidarios no la solicitaren en los plazos establecidos en la presente Ley, y
+
+III. Cuando hecha la corrección, reciba el aviso del Registro Público.
+
+Para la inscripción o actualización a que se refiere este artículo, la Dirección o área de Catastro que corresponda deberá verificar previamente que se cumplan las obligaciones y formalidades que establezcan las disposiciones legales y normativas aplicables.
+
+###### Artículo 147.
+
+La dirección del catastro que corresponda podrá verificar mediante visitas de campo y estudios técnicos, los datos asentados en la manifestación de que se trate. Cuando no coincidan dichos datos con las características reales del inmueble, se ejecutarán los trabajos catastrales a costa del interesado, imponiéndose las sanciones correspondientes.
+
+Si del resultado de la inspección a un Predio hubiere diferencias en medidas, colindancias y superficies, con los datos inscritos en el Registro Público, la autoridad catastral competente procederá a la corrección de datos correspondiente a efecto de inscribir los correctos o en su caso, la manifestación de negativa de inscripción.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+En los casos de predios rústicos que ya son parte de un centro de población, deberá contener un punto georreferenciado y se procederá después de la verificación de su nivel de urbanización a su registro como predio urbano o como urbanizable, de conformidad con el informe pericial que se emita al efecto, en el que se mencione que el predio ya se encuentra dentro del centro de población al que pertenece.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+En los casos de predios registrados como urbanos, que no son parte de un centro de población, deberá contener un punto georreferenciado y se procederá después de su verificación a su registro como predio rústico, de conformidad con el informe pericial que se emita al efecto, en el que se mencione que el predio no se encuentra dentro de un centro de población.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 148.
+
+Para el otorgamiento de la autorización o licencia para fraccionar, subdividir o lotificar un bien inmueble, para fusionar o unir dos o más bienes inmuebles, así como para obtener las factibilidades de constitución o modificación de Régimen de propiedad en Condominio de un bien inmueble, la autoridad competente requerirá del solicitante la certificación del valor y registro catastral del o los inmuebles que correspondan y expedirá los oficios correspondientes los cuales tendrán una vigencia de acuerdo con el año calendario en que se expidan y se podrán revalidar por una sola ocasión.
+
+Cuando la dirección del catastro que corresponda emita un oficio de cambio de nomenclatura, mandará una copia para su conocimiento y anotación marginal al Registro Público, previos los requisitos que deban reunir ante este.
+
+###### Artículo 149.
+
+Los trámites catastrales relacionados con un Predio que sea afectado con una vialidad o camino público, federal, estatal o municipal, deberán contar con los oficios de autorización de las autoridades competentes, en los que se expresarán las medidas legales y reglamentarias correspondientes al caso y a cuál de los resultantes de la división corresponde dicha vialidad o camino objeto de la afectación.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 150.
+
+Las personas físicas o morales que obtengan una autorización o licencia para fraccionar, subdividir o lotificar un bien inmueble, así como para fusionar o unir dos o más bienes inmuebles, deberán presentar a la autoridad catastral las autorizaciones vigentes que les hayan sido otorgadas por las autoridades competentes, así como la factibilidad urbana-ambiental y el dictamen de impacto urbano en los términos de la legislación aplicable y cualquier otra que corresponda por la ubicación del predio motivo de la solicitud, acompañándola de copias de los planos y de los demás documentos relativos.
+
+Toda modificación que se realice con posterioridad a la autorización o licencia otorgada deberá ser comunicada a la autoridad catastral en el plazo previsto en el artículo 129 de esta Ley. En caso contrario, se aplicarán las sanciones que correspondan.
+
+###### Artículo 151.
+
+Para el otorgamiento de licencia de construcción, reconstrucción, ampliación y demolición, las autoridades municipales competentes requerirán del solicitante la certificación de clave y Valor Catastral del inmueble respectivo, dichas autoridades deberán informar a la autoridad catastral de la terminación de construcciones, la instalación de servicios, la apertura de vías públicas y el cambio de nomenclatura de calles o realización de cualquier obra pública o privada que implique la modificación de las características de los Bienes Inmuebles o de sus servicios, en un plazo no mayor de treinta días a partir de la fecha de su terminación.
+
+###### Artículo 152.
+
+Las personas físicas o morales que obtengan licencia para construir, reconstruir, ampliar, demoler o que modifiquen el uso del suelo, una vez concluida la obra, dispondrán de un plazo no mayor de treinta días hábiles para informar a la autoridad catastral conducente.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+La persona encargada de la realización de las obras será responsable solidario de la obligación de dar los avisos a que se hace referencia, los cuales deberán firmar junto con el propietario o propietarios o poseedores, o bien en forma indistinta.
+
+###### Artículo 153.
+
+Las entidades de la Administración Pública Federal, Estatal y Municipal, y los organismos auxiliares que realicen actividades relativas a la construcción de obras para el desarrollo urbano y la vivienda, así como a la regularización de la tenencia de la tierra, deberán proporcionar a la autoridad catastral correspondiente la información de los predios de su propiedad o posesión en el territorio del Estado, durante el primer trimestre de cada año, anexando los siguientes documentos:
+
+I. Manifestación de cada Predio, señalando su área en metros cuadrados, las longitudes de sus colindancias y los nombres de los propietarios o poseedores de los predios colindantes;
+
+II. Plano de cada Predio, con la información señalada en el punto anterior, avalado por la autoridad competente de la entidad;
+
+III. Manifestación de cada una de las construcciones dentro del Predio y el valor que le asignen, y
+
+IV. Especificación de los terrenos y construcciones que son del dominio público y de los que no lo son, con el valor actual de cada uno de ellos.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+###### Artículo 154.
+
+Los notarios y escribanos públicos, así como los organismos públicos que, por disposición de la ley, intervengan en actos, contratos y operaciones que transmitan el dominio o modifiquen las características de un Predio, deberán dar aviso de dichos actos jurídicos a la Dirección del Catastro o a la dirección de catastro municipal que corresponda, mediante las formas correspondientes, acompañadas necesariamente de la Cédula Catastral actualizada y vigente, dentro de un plazo de treinta días naturales, contados a partir de la Inscripción del acto en el Registro Público.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 155.
+
+La Dirección o área de catastro de cada municipio proporcionará información y expedirá constancias y certificaciones de los planos y datos que obren en su padrón catastral, previa solicitud por escrito de los particulares y que hayan realizado el pago de los derechos respectivos.
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+###### Artículo 156.
+
+El desarrollador inmobiliario dará aviso a las autoridades estatales y municipales, una vez autorizado el desarrollo inmobiliario de tipo fraccionamiento por las autoridades competentes, remitiendo los planos respectivos en el formato electrónico que señale el Reglamento, a fin de que la autoridad catastral respectiva señale la clave catastral para cada uno de los lotes de terreno que resulten, así como para las áreas y los demás componentes de este, la cual servirá como base para la identificación de las operaciones que posteriormente se realicen.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 157.
+
+Cuando se trate de predios sujetos a régimen de propiedad en Condominio, sus propietarios o poseedores deberán solicitar a la autoridad municipal, la expedición del dictamen de compatibilidad en términos de la Ley de Desarrollos Inmobiliarios del Estado de Yucatán, antes de la inscripción del título correspondiente.
+
+### CAPITULO V. De la Valuación, Revaluación y Deslindes
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 158.
+
+La Dirección del Catastro o el área equivalente que corresponda asignará el valor catastral a los bienes inmuebles de acuerdo con este título y las normas técnicas y administrativas aplicables y emitirá una resolución del valor por escrito que será precisamente la cédula catastral, la cual, además, deberá especificar en su contenido los datos precisos de la zonificación, limitaciones, restricciones y reglas de aprovechamiento contenidas en los planes y programas de desarrollo urbano que apliquen a la propiedad inmobiliaria, en términos de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Yucatán y las disposiciones reglamentarias correspondientes.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+En caso de que el propietario del predio se encuentre inconforme respecto al valor previsto en la cédula catastral que emita el Instituto, por considerar que no se apega a las características de su inmueble, en cualquier momento a partir de su emisión podrá presentar ante la Dirección del Catastro del Instituto un avalúo, elaborado por perito valuador que forme parte del Padrón y validado por el Instituto, para efectos de que este actualice el valor previsto en la cédula catastral. La Dirección del Catastro del Instituto deberá notificar al municipio respectivo sobre la modificación de la cédula catastral de un predio ubicado dentro de su territorio dentro de los diez días hábiles siguientes a que esta ocurra, para los efectos legales que correspondan.
+
+###### Artículo 159.
+
+La determinación del Valor Catastral de cada uno de los Bienes Inmuebles ubicados en el territorio del Estado, se hará con base en los Valores Unitarios de Suelo y de Construcción aprobados, considerando la Sección Catastral en que se encuentren ubicados y la clasificación de construcción que les correspondan.
+
+En casos de inmuebles con o sin construcciones, ubicados en las Secciones Catastrales para los que no se hayan fijado Valores Unitarios o que los existentes ya no sean aplicables, se estará a lo dispuesto en el artículo 139 de esta Ley.
+
+###### Artículo 160.
+
+El Valor Catastral que se determine para cada inmueble, será el que se obtenga de la suma de los Valores Unitarios del terreno y de la construcción, en su caso, el que se aplicará de acuerdo a lo señalado en el artículo 136 de la presente Ley.
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 161.
+
+Para los inmuebles que estén sujetos al régimen de propiedad en condominio, la Valuación Catastral deberá hacerse respecto a cada uno de los departamentos, despachos, viviendas o cualquier otro tipo de locales, comprendiéndose en la valuación la cuota de participación de los bienes comunes.
+
+###### Artículo 162.
+
+La Valuación y Revaluación Catastral de los inmuebles serán realizadas en su caso, de acuerdo a los datos proporcionados por el interesado en la solicitud de inscripción o de actualización en el Padrón Catastral. En todos los casos, los valores serán aplicados por la Dirección del Catastro o el área equivalente respectiva, la que podrá realizar las visitas y estudios técnicos de campo que sean necesarios para verificar los datos proporcionados por el interesado.
+
+Para la Valuación Catastral de cada terreno deberá multiplicarse el valor unitario de suelo aplicable al Predio por la superficie del terreno y por los factores del mérito o demérito que corresponden a su ubicación topográfica, así como su actual potencial.
+
+En caso de que los propietarios, poseedores u ocupantes del Predio se opusieran sin causa justificada a lo señalado en el primer párrafo de este artículo, las autoridades catastrales podrán solicitar el auxilio de la fuerza pública, levantándose acta en la que se asiente tal hecho.
+
+###### Artículo 163.
+
+Los propietarios o poseedores de un bien inmueble, tienen la obligación de proporcionar a la autoridad catastral los datos o informes que le sean solicitados acerca de dicho bien inmueble, así como de permitir el acceso a su interior al personal debidamente autorizado, previa identificación y presentación de la orden de valuación correspondiente, y de dar toda clase de facilidades para la realización de los trabajos catastrales.
+
+En caso de no cumplir con esta disposición, el propietario o poseedor se hará acreedor a la sanción correspondiente.
+
+###### Artículo 164.
+
+La Valuación Catastral de inmuebles ubicados en el territorio del Estado se llevará a cabo en los siguientes casos:
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+I. Cuando se realicen movimientos de propietario o poseedor o cambios a la forma física o legal de un inmueble o cuando sean distintas a los asentados en el Padrón Catastral;
+
+II. Cuando la clave catastral sea distinta a la que corresponda al bien inmueble;
+
+> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+III. Cuando exista error o diferencia en los datos asentados en el Padrón Catastral relativos a la superficie, linderos o colindancias del terreno, en las construcciones, o en el uso o destino del Predio;
+
+IV. Cuando el valor asignado por la autoridad catastral no se haya realizado conforme a los términos establecidos en el presente Título;
+
+V. Los propietarios, poseedores o sus representantes legales, podrán solicitar de la autoridad catastral la aclaración en relación con los datos asentados en el Padrón Catastral, cuando:
+
+a) Un inmueble se inscriba por primera vez en el Padrón Catastral;
+
+b) Se constituya respecto de un bien inmueble el régimen de la propiedad condominal;
+
+> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
+
+c) Un terreno sea fraccionado o dividido;
+
+d) Los lotes de un terreno se relotifiquen;
+
+e) Dos o más terrenos se unan;
+
+f) Se dividan terrenos por la apertura de calles o realización de obras públicas;
+
+g) Se inscriban en el Registro Público, o
+
+h) Se expropien, en los términos de las leyes aplicables.
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
+
+VI. Cuando exista error o diferencia entre los datos asentados en el padrón catastral y la zonificación, limitaciones, restricciones y reglas de aprovechamiento contenidas en los planes y programas de desarrollo urbano que apliquen a la propiedad inmobiliaria, y
+
+VII. En los demás casos en los que haya error o diferencia entre los datos asentados en el Padrón Catastral y las características del bien inmueble.
+
+> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
+
+En caso de que el propietario del inmueble no esté de acuerdo con el valor catastral asignado, se estará a lo dispuesto en el último párrafo del artículo 158 de esta Ley.
+
+###### Artículo 165.
+
+La actualización de inmuebles se realizará en los casos siguientes, cuando:
+
+l. Venza la vigencia del Valor Catastral;
+
+II. Se realice alguna modificación en las características del terreno;
+
+III. Se realicen construcciones, reconstrucciones, remodelaciones, ampliaciones o demoliciones;
+
+IV. La Sección Catastral en donde se encuentre ubicado el inmueble cambie en sus características y calidad de uso, densidad, infraestructura o servicios, y se afecte notoriamente el valor unitario que previamente se le haya aprobado;
+
+V. El bien inmueble sufra un cambio físico que altere notoriamente su valor;
+
+VI. Una construcción sea ocupada sin terminar en función de la superficie cubierta disponible;
+
+VII. Se tengan Valores Unitarios aprobados para Sección Catastral y el bien inmueble haya sido valuado aplicando Valores Unitarios provisionales;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+VIII. El propietario o poseedor del bien inmueble lo solicite;
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
+
+IX. Cuando exista error o diferencia entre los datos asentados en el padrón catastral y la zonificación, limitaciones, restricciones y reglas de aprovechamiento contenidas en los planes y programas de desarrollo urbano que apliquen a la propiedad inmobiliaria, o
+
+X. El bien inmueble sea materia de traslación de dominio y su valor no sea vigente.
+
+###### Artículo 166.
+
+La Valuación y Revaluación Catastral se sujetarán a lo dispuesto por este Título de la Ley y a las normas y procedimientos técnicos y administrativos establecidos por la autoridad catastral. En todos los casos, la Valuación y Revaluación Catastral deberán ser realizadas con base en los Valores Unitarios autorizados.
+
+###### Artículo 167.
+
+En las construcciones que por sus características no se adecuen a ninguna de las clasificaciones de los Valores Unitarios aprobados, la autoridad catastral fijará el valor provisional de las mismas hasta en tanto se aprueben los Valores Unitarios que le correspondan. La valuación que se realice no considerará los factores señalados en el Artículo 140 de esta Ley.
+
+###### Artículo 168.
+
+Cuando por causas imputables al propietario o poseedor de un inmueble no se puedan realizar en el campo los trabajos catastrales que resulten necesarios para determinar o verificar las características del inmueble respectivo o determinar el Valor Catastral correspondiente, la autoridad catastral valuará o revaluará el bien inmueble con base a los elementos de que disponga. El propietario o poseedor tendrá un plazo de quince días hábiles siguientes al requerimiento, para proveer las condiciones necesarias para realizar el trámite que, de no cumplirse, motivará la imposición de la sanción correspondiente.
+
+###### Artículo 169.
+
+Los trabajos de deslinde catastral y de rectificación o aclaración de linderos deberán hacerse por personal autorizado, que se identificará plenamente en presencia de los propietarios o poseedores legítimos del inmueble o de sus representantes legales, asistiendo además los propietarios o poseedores de los inmuebles colindantes, o sus representantes legales, a quienes de no asistir estando debidamente notificados, se les tendrá por conformes, pudiendo hacer las observaciones y declaraciones que a su derecho convengan. El resultado de los trabajos catastrales y las observaciones de los interesados se asentarán en el acta circunstanciada que se levantará y que será firmada por propietarios, representantes del catastro y autoridades que intervengan.
+
+En los casos a que se refiere el párrafo que inmediatamente antecede, no será necesaria la diligencia catastral, siempre y cuando se compruebe ante la autoridad catastral, por prueba indubitable, la conformidad con el deslinde o la rectificación.
+
+Las rectificaciones de medidas no podrán exceder de más del veinticinco por ciento sobre la superficie asentada catastralmente.
+
+Los trabajos topográficos y su representación en planos catastrales serán elaborados mediante las técnicas geodésicas, topográficas o aerofotogramétricas que garanticen su precisión y su representación gráfica ligada al sistema estatal de coordenadas.
+
+Los distintos levantamientos técnicos catastrales se efectuarán de acuerdo a las normas y especificaciones técnicas, manuales e instructivos que para el efecto se aprueben conforme a lo dispuesto en esta Ley y su Reglamento.
+
+###### Artículo 170.
+
+Si las dimensiones manifestadas o las que aparezcan en el documento de propiedad o posesión de un bien inmueble, son diferentes a las dimensiones que resulten de un levantamiento técnico catastral efectuado por métodos topográficos convencionales o aerofotograméticos, se ordenará el deslinde catastral, cuyo costo será cubierto por el propietario o posesionario del bien inmueble de que se trate conforme a la ley aplicable a la materia.
+
+### CAPÍTULO VI. Del Sistema de Gestión Catastral
+
+###### Artículo 171.
+
+El Sistema Estatal de Gestión Catastral a que se refiere este Título, comprende:
+
+l. La creación, desarrollo y mantenimiento de una base de datos catastrales del Estado;
+
+II. La elaboración y determinación de normas técnicas, metodológicas y criterios a que deben sujetarse la captación, procesamiento y publicación de información sistematizada electrónicamente, y
+
+III. La procedencia de otras técnicas especializadas.
+
+###### Artículo 172.
+
+El Sistema Estatal de Gestión Catastral será regulado y administrado por la Dirección del Catastro, quien será la encargada de normar la homologación de los sistemas de cómputo que se requieran, en los términos que se establezcan en el Reglamento.
+
+###### Artículo 173.
+
+La información catastral a que se refiere este Capítulo se obtendrá principalmente por conducto de los catastros municipales y de fuentes de información, considerando como tales a las personas físicas y morales, privadas u oficiales en los tres ámbitos de gobierno.
+
+###### Artículo 174.
+
+El Gobierno del Estado y los Ayuntamientos podrán celebrar convenios entre sí y con las dependencias y entidades federales, con objeto de mejorar la transferencia de datos, a través de normas y principios homogéneos establecidos por la Dirección del Catastro.
+
+###### Artículo 175.
+
+La información que generen en materia catastral las dependencias y organismos auxiliares de Administración Pública Estatal y Municipal de carácter interno y que forme parte de sus registros administrativos, será responsabilidad de cada una de ellas y la pondrán a disposición de la Dirección del Catastro para la constitución del acervo catastral del Estado, cuando sea de interés general.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
 
 ### CAPÍTULO VI BIS. Del Padrón de Peritos Valuadores del Estado de Yucatán
 
@@ -1475,263 +2123,7 @@ VI. Inhabilitación en la función de perito valuador hasta por cinco años.
 
 Si hubiere reincidencia o participación en la comisión de algún delito fiscal, se podrá duplicar el monto máximo de la multa referida y cancelar dicho registro, sin perjuicio de las demás sanciones administrativas o penales en que pudieran llegar a incurrir, y se notificará al colegio respectivo; lo anterior sin perjuicio del ejercicio de facultades de comprobación que corresponda por la autoridad fiscal para determinar las contribuciones omitidas por quien hubiere utilizado un avalúo que no cumpla con las disposiciones legales respectivas.
 
-###### Artículo 144.
-
-Todos los bienes inmuebles ubicados en el territorio del Estado se inscribirán en el Catastro correspondiente, señalando sus características físicas de ubicación, superficie, medidas y colindancias; de uso y su valor; descripción de la construcción; así como los datos socioeconómicos y estadísticos necesarios para cumplir los objetivos del Catastro, en sus formatos correspondientes.
-
-Para la inscripción de un Predio en el Padrón Catastral, la autoridad catastral deberá comprobar fehacientemente que dicho Predio no se encuentra ya inscrito y, en su caso que haya una resolución firme de la autoridad competente.
-
-Para objeto de actualización, habrá de anotarse en el propio padrón toda modificación a cualquiera de las características de los Bienes Inmuebles.
-
-###### Artículo 145.
-
-Al inscribirse el inmueble en el Padrón Catastral se le asignará la clave correspondiente, integrándose por lo menos con el número de la Zonificación Catastral, de Manzana y de Lote; en casos de condominio, se añadirá el número del edificio, el de la unidad condominal y cada departamento, despacho, vivienda o local, habrá de inscribirse por separado en el padrón, con diferente clave catastral.
-
-###### Artículo 146.
-
-La dirección del catastro que corresponda, estará facultada para realizar de oficio la inscripción o actualización de los predios debidamente inscritos en el Registro Público, en los siguientes casos:
-
-l. Tratándose de inscripciones, cuando los obligados por el Artículo 154 no lo hicieren en los plazos establecidos en el propio artículo;
-
-II. Tratándose de actualizaciones, cuando los propietarios y/o los responsables solidarios no la solicitaren en los plazos establecidos en este Título, y
-
-III. Cuando hecha la corrección, reciba el aviso del Registro Público.
-
-###### Artículo 147.
-
-La dirección del catastro que corresponda podrá verificar mediante visitas de campo y estudios técnicos, los datos asentados en la manifestación de que se trate. Cuando no coincidan dichos datos con las características reales del inmueble, se ejecutarán los trabajos catastrales a costa del interesado, imponiéndose las sanciones correspondientes.
-
-Si del resultado de la inspección a un Predio hubiere diferencias en medidas, colindancias y superficies, con los datos inscritos en el Registro Público, la autoridad catastral competente procederá a la corrección de datos correspondiente a efecto de inscribir los correctos o en su caso, la manifestación de negativa de inscripción.
-
-En los casos de los predios rústicos, deberá contener un punto georeferenciado y se procederá después de su verificación a su urbanización, de conformidad al informe pericial que se emita al efecto, en el que se mencione que el mismo ya se encuentra dentro de la zona urbana.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE ENERO DE 2021)</small>
-
-###### Artículo 148.
-
-Para el otorgamiento de la autorización para relotificar, dividir, unir, urbanizar y rectificar medidas, así como para obtener las factibilidades de Constitución o Modificación de Régimen en Condominio de un bien inmueble, la autoridad competente requerirá del solicitante el registro catastral del inmueble que corresponda y expedirá los oficios correspondientes, los cuales tendrán una vigencia de acuerdo con el año calendario en que se expidan y se podrán revalidar por una sola ocasión, en los términos del Reglamento de la Ley.
-
-Cuando la dirección del catastro que corresponda emita un oficio de cambio de nomenclatura, mandará una copia para su conocimiento y anotación marginal al Registro Público, previos los requisitos que deban reunir ante este.
-
-###### Artículo 149.
-
-Los trámites catastrales relacionados con un Predio que sea afectado con una vialidad o camino público, federal, estatal o municipal, deberán contar con los oficios de autorización de las autoridades competentes, en los que se expresarán las medidas legales y reglamentarias correspondientes al caso y a cuál de los resultantes de la división corresponde dicha vialidad o camino objeto de la afectación.
-
-> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
-
-###### Artículo 150.
-
-Las personas físicas o morales que obtengan autorización o licencia para fraccionar, dividir, relotificar o unir un inmueble deberán presentar a la autoridad catastral la autorización vigente que les haya sido otorgada por la autoridad competente, acompañándola de copias de los planos y de los demás documentos relativos.
-
-Toda modificación que se realice con posterioridad a la autorización otorgada deberá ser comunicada a la autoridad catastral. En caso contrario, se aplicarán las sanciones que correspondan.
-
-###### Artículo 151.
-
-Para el otorgamiento de licencia de construcción, reconstrucción, ampliación y demolición, las autoridades municipales competentes requerirán del solicitante la certificación de clave y Valor Catastral del inmueble respectivo, dichas autoridades deberán informar a la autoridad catastral de la terminación de construcciones, la instalación de servicios, la apertura de vías públicas y el cambio de nomenclatura de calles o realización de cualquier obra pública o privada que implique la modificación de las características de los Bienes Inmuebles o de sus servicios, en un plazo no mayor de treinta días a partir de la fecha de su terminación.
-
-###### Artículo 152.
-
-Las personas físicas o morales que obtengan licencia para construir, reconstruir, ampliar, demoler o que modifiquen el uso del suelo, una vez concluida la obra, dispondrán de un plazo no mayor de treinta días hábiles para informar a la autoridad catastral conducente.
-
-La persona encargada de la realización de las obras será responsable solidario de la obligación de dar los avisos a que se hace referencia, misma que deberán firmar junto con el propietario o propietarios, o bien en forma indistinta.
-
-###### Artículo 153.
-
-Las entidades de la Administración Pública Federal, Estatal y Municipal, y los organismos auxiliares que realicen actividades relativas a la construcción de obras para el desarrollo urbano y la vivienda, así como a la regularización de la tenencia de la tierra, deberán proporcionar a la autoridad catastral correspondiente la información de los predios de su propiedad o posesión en el territorio del Estado, durante el primer trimestre de cada año, anexando los siguientes documentos:
-
-I. Manifestación de cada Predio, señalando su área en metros cuadrados, las longitudes de sus colindancias y los nombres de los propietarios o poseedores de los predios colindantes;
-
-II. Plano de cada Predio, con la información señalada en el punto anterior, avalado por la autoridad competente de la entidad;
-
-III. Manifestación de cada una de las construcciones dentro del Predio y el valor que le asignen, y
-
-IV. Especificación de los terrenos y construcciones que son del dominio público y de los que no lo son, con el valor actual de cada uno de ellos.
-
-> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
-
-###### Artículo 154.
-
-Los notarios y escribanos públicos, así como los organismos públicos que, por disposición de la ley, intervengan en actos, contratos y operaciones que transmitan el dominio o modifiquen las características de un Predio, deberán dar aviso de dichos actos jurídicos a la Dirección del Catastro o a la dirección de catastro municipal que corresponda, mediante las formas correspondientes, acompañadas necesariamente de la Cédula Catastral actualizada y vigente, dentro de un plazo de treinta días naturales, contados a partir de la Inscripción del acto en el Registro Público.
-
-###### Artículo 155.
-
-La autoridad catastral proporcionará información y expedirá constancia y certificaciones de los documentos que obren en el Padrón Catastral, de acuerdo a lo establecido en la legislación aplicable, previo pago de los derechos respectivos.
-
-> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
-
-###### Artículo 156.
-
-El desarrollador inmobiliario dará aviso a las autoridades estatales y municipales, una vez autorizado el desarrollo inmobiliario de tipo fraccionamiento por las autoridades competentes, remitiendo los planos respectivos en el formato electrónico que señale el Reglamento, a fin de que la autoridad catastral respectiva señale la clave catastral para cada uno de los lotes de terreno que resulten, así como para las áreas y los demás componentes de este, la cual servirá como base para la identificación de las operaciones que posteriormente se realicen.
-
-###### Artículo 157.
-
-Cuando se trate de predios sujetos a régimen de propiedad en Condominio, los propietarios o poseedores del mismo deberán solicitar a la autoridad catastral municipal o estatal según corresponda, la expedición de la constancia de factibilidad, antes de la inscripción del título correspondiente.
-
 ### CAPITULO VII. De la Aclaración
-
-###### Artículo 158.
-
-La Dirección del Catastro o el área equivalente que corresponda asignará el Valor Catastral a los Bienes Inmuebles, de acuerdo al Título y las normas técnicas y administrativas aplicables y emitirá una resolución del valor por escrito que será la Cédula Catastral.
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-En caso de que el propietario del predio se encuentre inconforme respecto al valor previsto en la cédula catastral que emita el Instituto, por considerar que no se apega a las características de su inmueble, en cualquier momento a partir de su emisión podrá presentar ante la Dirección del Catastro del Instituto un avalúo, elaborado por perito valuador que forme parte del Padrón y validado por el Instituto, para efectos de que este actualice el valor previsto en la cédula catastral. La Dirección del Catastro del Instituto deberá notificar al municipio respectivo sobre la modificación de la cédula catastral de un predio ubicado dentro de su territorio dentro de los diez días hábiles siguientes a que esta ocurra, para los efectos legales que correspondan.
-
-###### Artículo 159.
-
-La determinación del Valor Catastral de cada uno de los Bienes Inmuebles ubicados en el territorio del Estado, se hará con base en los Valores Unitarios de Suelo y de Construcción aprobados, considerando la Sección Catastral en que se encuentren ubicados y la clasificación de construcción que les correspondan.
-
-En casos de inmuebles con o sin construcciones, ubicados en las Secciones Catastrales para los que no se hayan fijado Valores Unitarios o que los existentes ya no sean aplicables, se estará a lo dispuesto en el artículo 139 de esta Ley.
-
-###### Artículo 160.
-
-El Valor Catastral que se determine para cada inmueble, será el que se obtenga de la suma de los Valores Unitarios del terreno y de la construcción, en su caso, el que se aplicará de acuerdo a lo señalado en el artículo 136 de la presente Ley.
-
-> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
-
-###### Artículo 161.
-
-Para los inmuebles que estén sujetos al régimen de propiedad condominal, la Valuación Catastral deberá hacerse respecto a cada uno de los departamentos, despachos, viviendas o cualquier otro tipo de locales, comprendiéndose en la valuación la cuota de participación de los bienes comunes.
-
-###### Artículo 162.
-
-La Valuación y Revaluación Catastral de los inmuebles serán realizadas en su caso, de acuerdo a los datos proporcionados por el interesado en la solicitud de inscripción o de actualización en el Padrón Catastral. En todos los casos, los valores serán aplicados por la Dirección del Catastro o el área equivalente respectiva, la que podrá realizar las visitas y estudios técnicos de campo que sean necesarios para verificar los datos proporcionados por el interesado.
-
-Para la Valuación Catastral de cada terreno deberá multiplicarse el valor unitario de suelo aplicable al Predio por la superficie del terreno y por los factores del mérito o demérito que corresponden a su ubicación topográfica, así como su actual potencial.
-
-En caso de que los propietarios, poseedores u ocupantes del Predio se opusieran sin causa justificada a lo señalado en el primer párrafo de este artículo, las autoridades catastrales podrán solicitar el auxilio de la fuerza pública, levantándose acta en la que se asiente tal hecho.
-
-###### Artículo 163.
-
-Los propietarios o poseedores de un bien inmueble, tienen la obligación de proporcionar a la autoridad catastral los datos o informes que le sean solicitados acerca de dicho bien inmueble, así como de permitir el acceso a su interior al personal debidamente autorizado, previa identificación y presentación de la orden de valuación correspondiente, y de dar toda clase de facilidades para la realización de los trabajos catastrales.
-
-En caso de no cumplir con esta disposición, el propietario o poseedor se hará acreedor a la sanción correspondiente.
-
-###### Artículo 164.
-
-La Valuación Catastral de inmuebles ubicados en el territorio del Estado se llevará a cabo en los siguientes casos:
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-I. Cuando se realicen movimientos de propietario o poseedor o cambios a la forma física o legal de un inmueble o cuando sean distintas a los asentados en el Padrón Catastral;
-
-II. Cuando la clave catastral sea distinta a la que corresponda al bien inmueble;
-
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-III. Cuando exista error o diferencia en los datos asentados en el Padrón Catastral relativos a la superficie, linderos o colindancias del terreno, en las construcciones, o en el uso o destino del Predio;
-
-IV. Cuando el valor asignado por la autoridad catastral no se haya realizado conforme a los términos establecidos en el presente Título;
-
-V. Los propietarios, poseedores o sus representantes legales, podrán solicitar de la autoridad catastral la aclaración en relación con los datos asentados en el Padrón Catastral, cuando:
-
-a) Un inmueble se inscriba por primera vez en el Padrón Catastral;
-
-b) Se constituya respecto de un bien inmueble el régimen de la propiedad condominal;
-
-> <small>(REFORMADO, D.O. 4 DE ENERO DE 2021)</small>
-
-c) Un terreno sea fraccionado o dividido;
-
-d) Los lotes de un terreno se relotifiquen;
-
-e) Dos o más terrenos se unan;
-
-f) Se dividan terrenos por la apertura de calles o realización de obras públicas;
-
-g) Se inscriban en el Registro Público, o
-
-h) Se expropien, en los términos de las leyes aplicables.
-
-VI. En los demás casos en los que haya error o diferencia entre los datos asentados en el Padrón Catastral y las características del bien inmueble.
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-En caso de que el propietario del inmueble no esté de acuerdo con el valor catastral asignado, se estará a lo dispuesto en el último párrafo del artículo 158 de esta Ley.
-
-###### Artículo 165.
-
-La actualización de inmuebles se realizará en los casos siguientes, cuando:
-
-l. Venza la vigencia del Valor Catastral;
-
-II. Se realice alguna modificación en las características del terreno;
-
-III. Se realicen construcciones, reconstrucciones, remodelaciones, ampliaciones o demoliciones;
-
-IV. La Sección Catastral en donde se encuentre ubicado el inmueble cambie en sus características y calidad de uso, densidad, infraestructura o servicios, y se afecte notoriamente el valor unitario que previamente se le haya aprobado;
-
-V. El bien inmueble sufra un cambio físico que altere notoriamente su valor;
-
-VI. Una construcción sea ocupada sin terminar en función de la superficie cubierta disponible;
-
-VII. Se tengan Valores Unitarios aprobados para Sección Catastral y el bien inmueble haya sido valuado aplicando Valores Unitarios provisionales;
-
-VIII. El propietario o poseedor del bien inmueble lo solicite, o
-
-IX. El bien inmueble sea materia de traslación de dominio y su valor no sea vigente.
-
-###### Artículo 166.
-
-La Valuación y Revaluación Catastral se sujetarán a lo dispuesto por este Título de la Ley y a las normas y procedimientos técnicos y administrativos establecidos por la autoridad catastral. En todos los casos, la Valuación y Revaluación Catastral deberán ser realizadas con base en los Valores Unitarios autorizados.
-
-###### Artículo 167.
-
-En las construcciones que por sus características no se adecuen a ninguna de las clasificaciones de los Valores Unitarios aprobados, la autoridad catastral fijará el valor provisional de las mismas hasta en tanto se aprueben los Valores Unitarios que le correspondan. La valuación que se realice no considerará los factores señalados en el Artículo 140 de esta Ley.
-
-###### Artículo 168.
-
-Cuando por causas imputables al propietario o poseedor de un inmueble no se puedan realizar en el campo los trabajos catastrales que resulten necesarios para determinar o verificar las características del inmueble respectivo o determinar el Valor Catastral correspondiente, la autoridad catastral valuará o revaluará el bien inmueble con base a los elementos de que disponga. El propietario o poseedor tendrá un plazo de quince días hábiles siguientes al requerimiento, para proveer las condiciones necesarias para realizar el trámite que, de no cumplirse, motivará la imposición de la sanción correspondiente.
-
-###### Artículo 169.
-
-Los trabajos de deslinde catastral y de rectificación o aclaración de linderos deberán hacerse por personal autorizado, que se identificará plenamente en presencia de los propietarios o poseedores legítimos del inmueble o de sus representantes legales, asistiendo además los propietarios o poseedores de los inmuebles colindantes, o sus representantes legales, a quienes de no asistir estando debidamente notificados, se les tendrá por conformes, pudiendo hacer las observaciones y declaraciones que a su derecho convengan. El resultado de los trabajos catastrales y las observaciones de los interesados se asentarán en el acta circunstanciada que se levantará y que será firmada por propietarios, representantes del catastro y autoridades que intervengan.
-
-En los casos a que se refiere el párrafo que inmediatamente antecede, no será necesaria la diligencia catastral, siempre y cuando se compruebe ante la autoridad catastral, por prueba indubitable, la conformidad con el deslinde o la rectificación.
-
-Las rectificaciones de medidas no podrán exceder de más del veinticinco por ciento sobre la superficie asentada catastralmente.
-
-Los trabajos topográficos y su representación en planos catastrales serán elaborados mediante las técnicas geodésicas, topográficas o aerofotogramétricas que garanticen su precisión y su representación gráfica ligada al sistema estatal de coordenadas.
-
-Los distintos levantamientos técnicos catastrales se efectuarán de acuerdo a las normas y especificaciones técnicas, manuales e instructivos que para el efecto se aprueben conforme a lo dispuesto en esta Ley y su Reglamento.
-
-###### Artículo 170.
-
-Si las dimensiones manifestadas o las que aparezcan en el documento de propiedad o posesión de un bien inmueble, son diferentes a las dimensiones que resulten de un levantamiento técnico catastral efectuado por métodos topográficos convencionales o aerofotograméticos, se ordenará el deslinde catastral, cuyo costo será cubierto por el propietario o posesionario del bien inmueble de que se trate conforme a la ley aplicable a la materia.
-
-### CAPÍTULO I
-
-###### Artículo 171.
-
-El Sistema Estatal de Gestión Catastral a que se refiere este Título, comprende:
-
-l. La creación, desarrollo y mantenimiento de una base de datos catastrales del Estado;
-
-II. La elaboración y determinación de normas técnicas, metodológicas y criterios a que deben sujetarse la captación, procesamiento y publicación de información sistematizada electrónicamente, y
-
-III. La procedencia de otras técnicas especializadas.
-
-###### Artículo 172.
-
-El Sistema Estatal de Gestión Catastral será regulado y administrado por la Dirección del Catastro, quien será la encargada de normar la homologación de los sistemas de cómputo que se requieran, en los términos que se establezcan en el Reglamento.
-
-###### Artículo 173.
-
-La información catastral a que se refiere este Capítulo se obtendrá principalmente por conducto de los catastros municipales y de fuentes de información, considerando como tales a las personas físicas y morales, privadas u oficiales en los tres ámbitos de gobierno.
-
-###### Artículo 174.
-
-El Gobierno del Estado y los Ayuntamientos podrán celebrar convenios entre sí y con las dependencias y entidades federales, con objeto de mejorar la transferencia de datos, a través de normas y principios homogéneos establecidos por la Dirección del Catastro.
-
-###### Artículo 175.
-
-La información que generen en materia catastral las dependencias y organismos auxiliares de Administración Pública Estatal y Municipal de carácter interno y que forme parte de sus registros administrativos, será responsabilidad de cada una de ellas y la pondrán a disposición de la Dirección del Catastro para la constitución del acervo catastral del Estado, cuando sea de interés general.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2021)</small>
-
-### CAPÍTULO II
-
-### CAPÍTULO III
 
 ###### Artículo 176.
 
@@ -1743,9 +2135,17 @@ II. La clave catastral sea distinta a la que le corresponda al bien inmueble;
 
 III. Exista error o diferencia en los datos relativos a la superficie, linderos o colindancias del terreno;
 
-IV. El valor asignado por la autoridad catastral no se haya realizado conforme a los términos establecidos en el presente Título, o
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-V. Existan casos en los que haya error o diferencia entre los datos asentados en el Padrón Catastral, las características de la construcción y del inmueble.
+IV. El valor asignado por la autoridad catastral no se haya realizado conforme a los términos establecidos en el presente Título;
+
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+V. Existan casos en los que haya error o diferencia entre los datos asentados en el Padrón Catastral, las características de la construcción y del inmueble, o
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
+
+VI. Cuando exista error o diferencia entre los datos asentados en el padrón catastral y la zonificación, limitaciones, restricciones y reglas de aprovechamiento contenidas en los planes y programas de desarrollo urbano que apliquen a la propiedad inmobiliaria.
 
 Los propietarios, poseedores o sus representantes legales, podrán solicitar a la autoridad catastral la aclaración respecto de los datos asentados en el Padrón Catastral dentro del término de diez días, contados a partir del día siguiente de tener conocimiento del acto por aclarar y en caso de identificación, apeos y deslindes catastrales o respecto del valor del inmueble, dentro de los quince días hábiles siguientes al levantamiento del acta circunstanciada.
 
@@ -1761,7 +2161,9 @@ II. Clave catastral del inmueble de que se trate;
 
 III. Ubicación, colindancias, superficie y linderos del inmueble, y
 
-IV. Descripción de los errores o diferencias que existan en el Padrón Catastral o de estas en relación con el acta circunstanciada que pretende corregir.
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+IV. Descripción de los errores o diferencias que existan en el padrón catastral o de estas en relación con el acta circunstanciada que pretende corregir o respecto a la zonificación, limitaciones, restricciones y reglas de aprovechamiento contenidas en los planes y programas de desarrollo urbano que apliquen a la propiedad inmobiliaria.
 
 Para los efectos de la presentación y resolución de la aclaración, todos los propietarios o poseedores de predios tienen la obligación de señalar domicilio para recibir notificaciones en el lugar donde esté ubicada la oficina catastral correspondiente.
 
@@ -1775,7 +2177,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO IV
+### CAPÍTULO I
 
 ###### Artículo 179.
 
@@ -1787,7 +2189,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO V
+### CAPÍTULO II
 
 ###### Artículo 181.
 
@@ -1807,7 +2209,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO VI
+### CAPÍTULO III
 
 ###### Artículo 185.
 
@@ -1827,7 +2229,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO I. De la Creación, Organización e Integración del Instituto
+### CAPÍTULO IV
 
 ###### Artículo 189.
 
@@ -1843,7 +2245,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO II. Del Órgano de Gobierno
+### CAPÍTULO V
 
 ###### Artículo 192.
 
@@ -1863,7 +2265,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2019)</small>
 
-### CAPÍTULO III. De la Dirección General del Instituto
+### CAPÍTULO VI
 
 ###### Artículo 196.
 
@@ -1875,7 +2277,7 @@ Compete al Titular de la Dirección del Catastro, resolver la aclaración en un 
 
 ## TÍTULO QUINTO. INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN
 
-### CAPÍTULO IV. Del Patrimonio del Instituto
+### CAPÍTULO I. De la Creación, Organización e Integración del Instituto
 
 ###### Artículo 198.
 
@@ -1935,15 +2337,19 @@ IX. Sancionar a quienes emitan y utilicen avalúos que no cumplan con las dispos
 
 X. Remitir a la Consejería Jurídica anualmente un informe sobre la función notarial en el estado, que incluya el porcentaje de actas notariales y escrituras públicas cuya inscripción o anotación el Instituto denegó y los motivos de esta denegación;
 
-> <small>(ADICIONADA, D.O. 7 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-XI. Practicar, ordenar, revisar o tomar en cuenta el avalúo del bien objeto de la enajenación, a que se refiere el artículo 20-J de la Ley General de Hacienda del Estado de Yucatán, lo anterior con independencia del ejercicio de sus facultades de comprobación, y
+XI. Practicar, ordenar, revisar o tomar en cuenta el avalúo del bien objeto de la enajenación, a que se refiere el artículo 20-J de la Ley General de Hacienda del Estado de Yucatán, lo anterior con independencia del ejercicio de sus facultades de comprobación;
+
+> <small>(ADICIONADA, D.O. 31 DE JULIO DE 2024)</small>
+
+XII. Otorgar, previa solicitud de estos, el apoyo o asesoría necesarios a los ayuntamientos o al Congreso del estado para la delimitación de los centros de población, en los términos de las leyes y reglamentos en la materia, y
 
 > <small>(REFORMADA, D.O. 7 DE JUNIO DE 2022)</small>
 
-XII. Las demás que esta ley y otras disposiciones legales le otorguen.
+XIII. Las demás que esta ley y otras disposiciones legales le otorguen.
 
-### CAPÍTULO V. Del Personal del Instituto
+### CAPÍTULO II. Del Órgano de Gobierno
 
 ###### Artículo 202.
 
@@ -2079,25 +2485,17 @@ XXIX. Autorizar la enajenación, afectación, cesión o disposición de los acti
 
 XXX. Las demás que esta Ley, el Código de la Administración Pública de Yucatán, el Reglamento de la Administración Pública de Yucatán y otras disposiciones legales le otorguen.
 
-### CAPÍTULO VI. De la Profesionalización
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 31 DE JULIO DE 2024)</small>
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+### CAPÍTULO II BIS. Del Consejo Consultivo de Seguridad Jurídica Patrimonial del Gobierno del Estado de Yucatán
 
-### CAPÍTULO VII. De la Especialización
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
 
-> <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2018)</small>
+Artículo 210 bis. El Director General deberá instaurar un Consejo Consultivo de Seguridad Jurídica Patrimonial del Gobierno del Estado de Yucatán, que será un órgano colegiado que integrará participación ciudadana y de las autoridades en materia registral y catastral del estado y tendrá por objeto emitir recomendaciones sobre criterios, acuerdos y lineamientos en materia de seguridad jurídica patrimonial en el estado de Yucatán.
 
-Artículo 228 bis. Para ser designado director del Registro Público de la Propiedad y del Comercio, además de cumplir con los requisitos establecidos en las fracciones I, III, IV, VI, VII y VIII del artículo 212 de esta ley, se deberá contar con título y cédula profesional de abogado o licenciado en derecho, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de tres años.
+La integración, facultades y obligaciones del consejo se establecerán en su reglamento interno, conforme a las disposiciones establecidas en esta Ley.
 
-Artículo 228 ter. (DEROGADO, D.O. 31 DE JULIO DE 2019)
-
-> <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2018)</small>
-
-Artículo 228 Cuáter. Para ser designado titular del Catastro del Estado, además de cumplir con los requisitos establecidos en las fracciones I, III, IV, VI, VII y VIII del artículo 212 de esta ley, se deberá contar con título y cédula profesional de Ingeniero, Arquitecto, topógrafo o carrera afín a los objetivos generales del
-
-Catastro, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de cinco años y contar con experiencia acreditada en las áreas de cartografía, valuación inmobiliaria y en sistemas de información catastral.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
+### CAPÍTULO III. De la Dirección General del Instituto
 
 ###### Artículo 211.
 
@@ -2199,9 +2597,7 @@ Los servidores públicos con jerarquía inmediata inferior a la del Director Gen
 
 El Instituto contará con un Comisario, que será designado por el Titular de la Secretaría de la Contraloría General del Gobierno del Estado de Yucatán, quien tendrá la función de vigilar la correcta aplicación de las disposiciones legales y administrativas correspondientes, así como las demás que le confiera la Ley de la materia y el titular de la citada Secretaría.
 
-### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+### CAPÍTULO IV. Del Patrimonio del Instituto
 
 ###### Artículo 216.
 
@@ -2261,13 +2657,13 @@ El Instituto llevará su contabilidad de conformidad con las disposiciones aplic
 
 El Instituto deberá publicar sus balances consolidados anuales en el Diario Oficial del Gobierno del Estado de Yucatán.
 
-### CAPÍTULO I. Del Recurso Administrativo de Revisión
+### CAPÍTULO V. Del Personal del Instituto
 
 ###### Artículo 225.
 
 Las relaciones laborales del Instituto con sus trabajadores, cualquiera que sea la naturaleza de la contratación de los mismos, se regirá por lo dispuesto en el artículo 123 Apartado A de la Constitución Política de los Estados Unidos Mexicanos, en la Ley Federal del Trabajo y en las demás disposiciones legales aplicables.
 
-### CAPÍTULO II. De las Notificaciones
+### CAPÍTULO VI. De la Profesionalización
 
 > <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -2285,17 +2681,35 @@ Los trabajadores del Instituto, tendrán la obligación de participar en los pro
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 17 DE DICIEMBRE DE 2018)</small>
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO VII. De la Especialización
+
+> <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2018)</small>
+
+Artículo 228 bis. Para ser designado director del Registro Público de la Propiedad y del Comercio, además de cumplir con los requisitos establecidos en las fracciones I, III, IV, VI, VII y VIII del artículo 212 de esta ley, se deberá contar con título y cédula profesional de abogado o licenciado en derecho, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de tres años.
+
+Artículo 228 ter. (DEROGADO, D.O. 31 DE JULIO DE 2019)
+
+> <small>(ADICIONADO, D.O. 17 DE DICIEMBRE DE 2018)</small>
+
+Artículo 228 Cuáter. Para ser designado titular del Catastro del Estado, además de cumplir con los requisitos establecidos en las fracciones I, III, IV, VI, VII y VIII del artículo 212 de esta ley, se deberá contar con título y cédula profesional de Ingeniero, Arquitecto, topógrafo o carrera afín a los objetivos generales del
+
+Catastro, expedidos por autoridad o institución legalmente facultada para ello, con antigüedad mínima de cinco años y contar con experiencia acreditada en las áreas de cartografía, valuación inmobiliaria y en sistemas de información catastral.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
 
 ## TÍTULO SEXTO. VINCULACIÓN DEL REGISTRO PÚBLICO Y DEL CATASTRO
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 229.
 
-El Registro Público y el Catastro compartirán información de sus acervos para el logro de los siguientes fines:
+El Registro Público y el Catastro, así como los catastros municipales, compartirán información de sus acervos para el logro de los siguientes fines:
 
-l. Elevar la eficiencia en la prestación de los servicios que el Instituto brinda a la sociedad;
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
+
+I. Elevar la eficiencia en la prestación de los servicios que el Instituto y los catastros municipales brindan a la sociedad;
 
 II. Generar la certeza jurídica que otorga el Instituto;
 
@@ -2307,13 +2721,13 @@ III. Otorgar congruencia entre la información jurídica existente en el Registr
 
 IV. Impulsar la integración del Sistema Estatal de Gestión Catastral, e
 
-> <small>(REFORMADA, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, D.O. 31 DE JULIO DE 2024)</small>
 
-V. Incrementar la recaudación de contribuciones que se generen en materia registral y catastral.
+V. Contribuir a incrementar la recaudación de contribuciones que se generen en materia registral y catastral.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
 
-Para ello, las direcciones del Registro Público y del Catastro se coordinarán para diseñar los mecanismos tecnológicos y procedimentales que garanticen recíprocamente los flujos de información necesaria y que permitan reforzar la seguridad jurídica y propiciar la consolidación y actualización permanente del Instituto.
+Para ello, las direcciones del Registro Público y del Catastro, así como los catastros municipales, se coordinarán para diseñar los mecanismos tecnológicos y procedimentales que garanticen recíprocamente los flujos de información registrales y catastrales necesarios y que permitan reforzar la seguridad jurídica y propiciar la consolidación y actualización permanente del Instituto y de los catastros municipales, en términos de las disposiciones aplicables en la materia.
 
 > <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -2323,15 +2737,23 @@ El Instituto podrá promover la celebración de convenios con la Consejería Jur
 
 ## TÍTULO SÉPTIMO. PROCEDIMIENTOS ADMINISTRATIVOS
 
+### CAPÍTULO I. Del Recurso Administrativo de Revisión
+
 ###### Artículo 231.
 
 Contra los actos y resoluciones que emitan las autoridades del Instituto procede el recurso administrativo de revisión en la forma y términos establecidos en el Título Noveno de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
+
+### CAPÍTULO II. De las Notificaciones
+
+> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
 
 ###### Artículo 232.
 
 Las notificaciones de las operaciones y resoluciones así como de los trámites que se consideren necesarios en las materias registral y catastral se practicarán en los términos establecidos en la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán, por el personal que para tal efecto designe el Instituto de conformidad con el Reglamento de esta Ley.
 
 ## TÍTULO OCTAVO. RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 233.
 
@@ -2352,6 +2774,8 @@ IV. Cometan dolosamente errores, inexactitudes u omisiones en las inscripciones 
 En su caso lo servidores públicos del Instituto que cometan algún delito en ejercicio o con motivo de sus funciones, serán sancionados conforme a lo establecido en la legislación penal del Estado.
 
 ## TÍTULO NOVENO. INFRACCIONES Y SANCIONES DE LOS USUARIOS EN MATERIA CATASTRAL
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 235.
 
@@ -2416,6 +2840,70 @@ El monto de las multas a que se refieren las fracciones anteriores, se aplicará
 A las personas a quienes se impute alguna sanción mediante el cobro de la multa impuesta, se les comunicará por escrito en el momento que acudan a la realización de su trámite ante la Dirección de Catastro que corresponda, debiendo cumplir la misma en los términos que para el efecto se señalen en el Reglamento. En caso de no cumplir con el pago de la misma, se procederá a la negativa del trámite catastral correspondiente.
 
 Las Direcciones de Catastro municipales estarán a lo que al respecto estipulen los ordenamientos de su ámbito de competencia.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2024)</small>
+
+## TÍTULO DÉCIMO. INFRACCIONES Y SANCIONES DE LOS ASESORES INMOBILIARIOS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE JULIO DE 2024)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 237.
+
+Los asesores inmobiliarios o agencias que presten servicios de intermediación inmobiliaria respecto de predios o desarrollos inmobiliarios que no cuenten con las autorizaciones y licencias correspondientes emitidas por el Instituto de acuerdo con la Ley de Desarrollos Inmobiliarios del Estado de Yucatán, la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollos Urbano del Estado de Yucatán, esta Ley y demás disposiciones aplicables o de incumplir cualquiera de las disposiciones previstas en esta Ley o su reglamento, en el ejercicio de sus actividades de intermediación inmobiliaria, se harán acreedores a una multa, que podrá ir de 50 veces a 2000 veces el valor de la Unidad de Medida y Actualización.
+
+En el caso de que los servicios de intermediación inmobiliaria a que se refiere el párrafo anterior, tengan como fin la celebración de una operación que se realice a título oneroso, el monto de la multa será del 1% al 5 % del valor de la operación, sin que la multa pueda rebasar del doble de los honorarios cobrados por la prestación de los servicios de intermediación inmobiliaria respecto a la transacción de que se trate.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 238.
+
+Los asesores inmobiliarios o agencias que con motivo de la prestación de servicios de intermediación inmobiliaria infrinjan esta Ley o no cumplan con las obligaciones establecidas en la misma, se harán acreedoras a las siguientes sanciones:
+
+I. Multa, que podrá ir de las 50 veces a 2000 veces el valor de la Unidad de Medida y Actualización.
+
+En el caso de que los servicios de intermediación inmobiliaria tengan como fin la celebración de una operación que se realice a título oneroso, el monto de la multa será del 1% al 5 % del valor de la operación, sin que la multa pueda rebasar del doble de los honorarios cobrados por la prestación de los servicios de intermediación inmobiliaria respecto a la transacción de que se trate;
+
+II. Suspensión de la licencia respectiva, que va de 30 días a 360 días, o
+
+III. Revocación de la licencia respectiva.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 239.
+
+Las personas físicas o morales que se ostenten, se identifiquen o pretendan actuar como asesores inmobiliarios o agencia sin contar con la licencia respectiva y presten servicios de intermediación inmobiliaria, se harán acreedoras a una multa de entre 100 veces y 2000 veces el valor de la Unidad de Medida y Actualización.
+
+Tratándose de la primera infracción, el monto de la multa será el límite inferior establecido en Unidad de Medida y Actualización en este artículo.
+
+En el caso de que los servicios de intermediación inmobiliaria tengan como fin la celebración de una operación que se realice a título oneroso, el monto de la multa será del 1% al 5 % del valor de la operación, sin que la multa pueda rebasar del doble de los honorarios cobrados por la prestación de los servicios de intermediación inmobiliaria respecto a la transacción de que se trate.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 240.
+
+Los asesores inmobiliarios o agencias, que a sabiendas de que otra persona no cuenta con alguna de las licencias previstas en esta Ley, le otorgue facilidades para actuar como si la tuviera o para simular actos tendientes a engañar o mantener en el error a personas usuarias de servicios de intermediación inmobiliaria en relación a su calidad de persona asesora inmobiliaria o agencia, se le impondrá una sanción de 100 a 1000 veces del valor de la Unidad de Medida y Actualización, o suspensión de la licencia, de conformidad con la gravedad de la falta y del carácter de reincidente de la persona infractora.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 241.
+
+Los asesores inmobiliarios o agencias, además de las responsabilidades administrativas previstas en esta Ley, serán responsables de los daños y perjuicios que causen por su dolo o negligencia, además de la responsabilidad penal o civil en que incurran.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 242.
+
+El Instituto al imponer las sanciones deberá fundar y motivar su resolución, considerando en todos los casos la gravedad de la falta, su intencionalidad, los daños y perjuicios causados o que pudieren causarse y el carácter de reincidente del infractor.
+
+> <small>(ADICIONADO, D.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 243.
+
+Para efectos del procedimiento para llevar a cabo la determinación y la aplicación de las sanciones a que se refiere este capítulo, serán aplicables, de manera supletoria, las disposiciones de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
 T R A N S I T O R I O S:
 
@@ -2684,3 +3172,27 @@ De igual manera, cuando las leyes de la Administración Pública estatal y sus r
 Artículo Décimo segundo. Plazo para la integración del temario
 
 Por única ocasión, la Consejería Jurídica formulará el temario a que se refiere el artículo 27 de la Ley del Notariado del Estado de Yucatán, y lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro del plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 804/2024 POR EL QUE SE MODIFICA LA LEY QUE CREA EL INSTITUTO DE SEGURIDAD JURÍDICA PATRIMONIAL DE YUCATÁN Y LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, a excepción de lo establecido en el artículo 210 bis de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, que lo hará quince días naturales siguientes a su publicación.
+
+Segundo. Asuntos en trámite
+
+Los procedimientos, recursos y demás asuntos que se encuentren en trámite a la entrada en vigor de este decreto, se substanciarán y resolverán, hasta su total conclusión, de conformidad con las disposiciones legales y normativas aplicables al momento de su inicio.
+
+Tercero. Obligación normativa
+
+El Poder Ejecutivo del Estado de Yucatán, en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir o modificar las disposiciones necesarias para armonizar el marco jurídico estatal a las disposiciones de este decreto.
+
+Cuarto. Inicio de operaciones del registro
+
+El Registro Estatal de Asesores Inmobiliarios entrará en funciones en un plazo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Quinto. Inscripción en el registro
+
+A partir del inicio de funciones del Registro Estatal de Asesores Inmobiliarios a que se refiere el transitorio anterior, las personas interesadas en inscribirse en el referido registro contarán con un plazo de ciento ochenta días para solicitar la licencia correspondiente y su inscripción.
