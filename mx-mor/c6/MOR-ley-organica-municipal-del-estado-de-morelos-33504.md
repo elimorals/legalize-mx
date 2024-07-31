@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2024-02-28"
+last_updated: "2024-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -251,7 +251,7 @@ De conformidad con el artículo 111 de la Constitución Política del Estado Lib
 
 36. Zacualpan de Amilpas.
 
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 5 Bis.
 
@@ -259,11 +259,13 @@ Para los efectos de esta Ley se entenderá por:
 
 I.- Ayuntamiento: el órgano colegiado y deliberante en el que se deposita el gobierno y la representación jurídica y política del Municipio, integrada por el Presidente Municipal, Síndico y Regidores;
 
-II.- Comisiones del Ayuntamiento: los grupos de regidores integrados por área de competencia o de servicios, designados por la mayoría del Ayuntamiento.
+II.- Comisiones del Ayuntamiento: los grupos de regidores integrados por área de competencia o de servicios, designados por la mayoría del Ayuntamiento;
 
-III.- Cabildo.- Es la sesión en la cual se reúne el Ayuntamiento para deliberar y aprobar los asuntos de su competencia.
+III.- Cabildo.- Es la sesión en la cual se reúne el Ayuntamiento para deliberar y aprobar los asuntos de su competencia;
 
-IV.- Cabildo Abierto.- Es la sesión en la cual se reúne el Ayuntamiento en sede oficial o fuera de ella, exclusivamente para informar, escuchar y atender la problemática ciudadana que será expuesta de viva voz a los miembros del Ayuntamiento.
+IV.- Cabildo Abierto.- Es la sesión en la cual se reúne el Ayuntamiento en sede oficial o fuera de ella, exclusivamente para informar, escuchar y atender la problemática ciudadana que será expuesta de viva voz a los miembros del Ayuntamiento;
+
+V.- CONOCER.- Al Consejo Nacional de Normalización y Certificación de Competencias Laborales.
 
 ## TÍTULO SEGUNDO. DE LOS ELEMENTOS DEL MUNICIPIO
 
@@ -1363,6 +1365,12 @@ IX. Patrocinar a particulares en asuntos que se relacionen con el gobierno munic
 
 Para el cumplimiento de sus funciones, el Presidente Municipal se auxiliará de los demás integrantes del Ayuntamiento, así como de los órganos administrativos y comisiones que ésta Ley establece.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 43 Bis.
+
+Para el adecuado cumplimiento de sus funciones, el Presidente Municipal deberá contar preferentemente con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos.
+
 > <small>(REFORMADO, P.O. 9 DE MARZO DE 2016)</small>
 
 ###### Artículo 44.
@@ -1425,6 +1433,12 @@ XIV. Solicitar información a las y los titulares de las estructuras administrat
 
 XV. Las demás que esta ley, los reglamentos y otros ordenamientos señalen.
 
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 45 Bis.
+
+La persona titular de la Sindicatura deberá contar preferentemente con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos.
+
 ###### Artículo 46.
 
 Los Síndicos no podrán desistirse, transigir, comprometerse en árbitros, ni hacer cesión de bienes o derechos municipales, sin la autorización expresa que en cada caso les otorgue el Ayuntamiento.
@@ -1442,6 +1456,12 @@ Los Regidores son representantes populares integrantes del Ayuntamiento que, ind
 > <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2013)</small>
 
 Para tal efecto, deberán de dar cumplimiento a los Principios de Racionalidad, Austeridad y Disciplina en el Gasto Público Municipal en los Recursos Públicos que manejen, con motivo de las Comisiones o Representaciones que tengan encomendadas y responderán ante el Ayuntamiento, por el manejo de dichos recursos; debiendo informar trimestralmente de las actividades y trabajo desarrollado en las Comisiones que desempeñen.
+
+> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2024)</small>
+
+###### Artículo 47 Bis.
+
+Cada Regidor deberá contar preferentemente con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos.
 
 ###### Artículo 48.
 
@@ -1535,25 +1555,27 @@ Los Municipios, en los términos de las Leyes aplicables, podrán celebrar conve
 
 Los planes y programas municipales de desarrollo tendrán su origen en un sistema de planeación democrática, mediante la consulta popular a los diferentes sectores sociales del Municipio, debiendo sujetarse a lo dispuesto por la Ley Estatal de Planeación.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 58.
 
-En cada uno de los treinta y tres municipios que conforman el Estado, funcionará un Comité de Planeación para el Desarrollo Municipal que, coordinado por el Comité de Planeación para el Desarrollo del Estado de Morelos, será un organismo auxiliar del Municipio que tendrá por objeto formular, actualizar, instrumentar y evaluar el Plan Municipal.
+En cada uno de los Municipios que conforman el Estado, funcionará un Comité de Planeación para el Desarrollo Municipal que, coordinado por el Comité de Planeación para el Desarrollo del Estado de Morelos, será un organismo auxiliar del Municipio que tendrá por objeto formular, actualizar, instrumentar y evaluar el Plan Municipal.
 
-Para los efectos de esta Ley, al referirse al Comité de Planeación para el Desarrollo Municipal, se podrán emplear las siglas COPLADEMUN, y en las referencias al Comité de Planeación para el Desarrollo del Estado de Morelos, se podrán utilizar las siglas COPLADE.
+Para los efectos de esta Ley, al referirse al Comité de Planeación para el Desarrollo Municipal, se podrán emplear las siglas COPLADEMUN, y en las referencias al Comité de Planeación para el Desarrollo del Estado de Morelos, se podrán utilizar las siglas COPLADE-MORELOS.
 
 El funcionario que para efecto de coordinar las actividades de los COPLADEMUN nombre cada Ayuntamiento deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano Mexicano.
 
-II. Tener título y cedula profesional de una profesión afín a las áreas de Planeación, Desarrollo Urbano y/o Administración.
+II. Tener título y cédula profesional de una profesión afín a las áreas de Planeación, Desarrollo Urbano y/o Administración.
 
 III. Tener reconocida calidad ética y solvencia moral.
 
 IV. Contar con experiencia, en las áreas de Planeación, Desarrollo Urbano y/o Administración.
 
-V. No haber sido sancionado anteriormente por su desempeño como servidor en la Administración Pública o Privada.
+V. No haber sido sancionado anteriormente por su desempeño como servidor en la Administración Pública o Privada; y
+
+VI. Contar con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos, inclusive si su designación fuera como encargado de despacho. En caso de no contar con ella, este requisito deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones.
 
 ###### Artículo 59.
 
@@ -1753,7 +1775,7 @@ k).- Un Cronista Municipal podrá ser removido del Concejo cuando incurra en vio
 
 ### CAPÍTULO I. ESTRUCTURA ADMINISTRATIVA MUNICIPAL
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 75.
 
@@ -1779,7 +1801,7 @@ i) Una de atención de asuntos migratorios y religiosos;
 
 j) Una de seguridad pública y tránsito municipal;
 
-k) Un cronista municipal;
+k) Un consejo de cronistas municipal;
 
 l) Un área de información pública y protección de datos personales;
 
@@ -1793,31 +1815,31 @@ p) Una Contraloría Municipal, y
 
 q) Una Dirección de la Instancia de Atención a Personas con Discapacidad.
 
+Los titulares de las áreas administrativas señaladas en el presente artículo deberán contar con la certificación en materia de competencias laborales expedida por CONOCER de acuerdo con las funciones a realizar, misma que en caso de no contarla, deberá ser acreditada en un término no mayor a seis meses a partir de su designación inclusive si ésta fuera con el carácter de encargado de despacho. En caso de no acreditar la misma, quedará sin efectos su nombramiento previo procedimiento desahogado mediante la Ley del Servicio Civil del Estado de Morelos.
+
+Quedan exceptuados de aplicar la certificación correspondiente a (sic) los cargos honoríficos.
+
 ### CAPÍTULO II. DE LA SECRETARÍA MUNICIPAL
 
 ###### Artículo 76.
 
 En cada Ayuntamiento, para el despacho de los asuntos de carácter administrativo y para auxiliar en sus funciones al Presidente Municipal, habrá un servidor público denominado Secretario, que será nombrado por el Presidente Municipal.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 77.
 
 Para ser Secretario de un Ayuntamiento se requiere:
 
-I. Ser ciudadano morelense en pleno uso de sus derechos civiles y políticos;
+I.- Ser ciudadano morelense en pleno uso de sus derechos civiles y políticos;
 
-II. Tener como mínimo veintiún años de edad, cumplidos el día de la designación;
+II.- Tener como mínimo veintiún años de edad, cumplidos el día de la designación;
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
+III.- Poseer capacidad administrativa y honestidad suficientes;
 
-III. Poseer capacidad administrativa y honestidad suficientes;
+IV.- No haber sido sentenciado en proceso penal por delito intencional; y
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
-
-IV. No haber sido sentenciado en proceso penal por delito intencional; y,
-
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
-
-V. Tener los conocimientos suficientes para poder desempeñar el cargo y contar con título y cédula profesional.
+V.- Contar con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos, inclusive si su designación fuera como encargado de despacho. En caso de no contar con ella, este requisito deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones.
 
 ###### Artículo 78.
 
@@ -1891,29 +1913,27 @@ Los Tesoreros municipales tomarán posesión de su cargo previo el corte de caja
 
 El acta y los cortes de caja e inventarios que con motivo de la entrega de la Tesorería se elaboren, se formularán por sextuplicado para distribuir los ejemplares en la siguiente forma: uno para el archivo del Ayuntamiento; uno para el Congreso del Estado; uno para el Contralor Municipal, uno para el archivo de la Tesorería Municipal; uno para la persona que haga y firme la entrega y otra para el Tesorero que la reciba.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 81.
 
 Para ser Tesorero Municipal se requiere:
 
-I.- No ser miembro del Ayuntamiento;
+I. No ser miembro del Ayuntamiento;
 
-II.- Ser ciudadano morelense en ejercicio de sus derechos civiles y políticos;
+II. Ser ciudadano morelense en ejercicio de sus derechos civiles y políticos;
 
-III.- Disfrutar de buena fama y no estar procesado ni haber sido sentenciado por delitos intencionales;
+III. Disfrutar de buena fama y no estar procesado ni haber sido sentenciado por delitos intencionales;
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
+IV. Contar con título y cédula profesional de las carreras de Contador Público, Licenciado en Economía, Licenciado en Administración o alguna afín;
 
-IV.- Contar con título y cédula profesional de las carreras de Contador Público, Licenciado en Economía, Licenciado en Administración o alguna afín;
+V. Tener la experiencia y conocimientos suficientes para el desempeño del cargo y contar con capacitación, especialización y/o actualización en contabilidad en el área gubernamental con un mínimo de cuarenta horas con validez oficial comprobada con el documento correspondiente, actualización que deberá realizarse cada año;
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2015)</small>
+VI. Tener como mínimo veinticinco años de edad el día de su designación;
 
-V.- Tener la experiencia y conocimientos suficientes para el desempeño del cargo y contar con capacitación, especialización y/o actualización en contabilidad en el área gubernamental con un mínimo de cuarenta horas con validez oficial comprobada con el documento correspondiente, actualización que deberá realizarse cada año; y
+VII. Exhibir la póliza de fianza a que se refiere el artículo 79 de este ordenamiento; y
 
-> <small>(ADICIONADA, P.O. 19 DE NOVIEMBRE DE 2014)</small>
-
-VI.- Tener como mínimo veinticinco años de edad el día de su designación; y
-
-VII.- Exhibir la póliza de fianza a que se refiere el artículo 79 de este ordenamiento.
+VIII. Contar con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos, inclusive si su designación fuera como encargado de despacho. En caso de no contar con ella, este requisito deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones.
 
 ###### Artículo 82.
 
@@ -2037,11 +2057,11 @@ V. Las demás que de manera específica establezca la Ley Orgánica Municipal, e
 
 La Contraloría Municipal, es el órgano encargado del control, inspección, supervisión y evaluación del desempeño de las distintas áreas de la Administración Pública Municipal, con el objeto de promover la productividad, eficiencia, a través de la implantación de sistemas de control interno, siendo el órgano encargado de aplicar el cumplimiento de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 85.
 
 Para ser Contralor Municipal se requiere:
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2015)</small>
 
 I. No ser miembro del Ayuntamiento, ni haber ejercido como titular de la Tesorería durante los tres años anteriores inmediatos al día del nombramiento;
 
@@ -2051,11 +2071,11 @@ III. Disfrutar de buena fama y no estar procesado, ni haber sido sentenciado por
 
 IV. Contar con título y cédula profesional que lo acredite como profesionista afín al cargo;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2017)</small>
+V. Contar con experiencia mínima comprobable de dos años en órganos de control gubernamental, fincamiento de responsabilidades, fiscalización de recursos públicos o rendición de cuentas;
 
-V. Contar con experiencia mínima comprobable de dos años en órganos de control gubernamental, fincamiento de responsabilidades, fiscalización de recursos públicos o rendición de cuentas, y
+VI. Tener como mínimo veinticinco años de edad, cumplidos al día de la designación; y
 
-VI. Tener como mínimo veinticinco años de edad, cumplidos al día de la designación.
+VII. Contar con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos, inclusive si su designación fuera como encargado de despacho. En caso de no contar con ella, este requisito deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2021)</small>
 
@@ -2209,79 +2229,13 @@ La Secretaría de la Contraloría podrá realizar actos de inspección y vigilan
 
 ### CAPÍTULO III BIS. DIRECCION ADMINISTRATIVA DE LA INSTANCIA MUNICIPAL DE LA MUJER
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
-###### ARTÍCULO 89 Bis.
+###### Artículo 89 Bis.
 
-Para los asuntos relacionados la promoción, fortalecimiento y el fomento de las políticas públicas de género, cada ayuntamiento tendrá una dirección de la Instancia Municipal de la Mujer, la titular será nombrada en sesión de Cabildo, formará parte de la estructura de la administración pública municipal, con nombramiento formal debiendo ser independientes del Sistema DIF Municipal y de cualquier regiduría del ayuntamiento.
+Para los asuntos relacionados con la perspectiva de género, cada Ayuntamiento tendrá una Dirección de la Instancia Municipal de la Mujer, la titular será nombrada en sesión de Cabildo, formará parte de la estructura de la administración pública municipal, con nombramiento formal debiendo ser independientes del Sistema DIF Municipal y de cualquier Regiduría del Ayuntamiento.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 7 DE DICIEMBRE DE 2022)</small>
-
-Para el pleno desarrollo de sus funciones la Instancia Municipal de la Mujer se procurará que cuente con el presupuesto, personal y estructura orgánica suficiente para el desarrollo de sus actividades durante todo el ejercicio constitucional del municipio.
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
-
-La Titular de la Dirección de la Instancia de la Mujer deberá contar con grado académico mínimo de licenciatura y formación de género.
-
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 7 DE DICIEMBRE DE 2022)</small>
-
-Para su cumplimiento la titular de la Dirección de la Instancia Municipal de la Mujer tendrá las siguientes facultades:
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-I. Proponer programas, proyectos y acciones dirigidos al desarrollo integral de las mujeres, en coordinación y concertación de los sectores públicos, privados y sociales;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-II. Promover el desarrollo de metodologías y estrategias para la capacitación y el adiestramiento en y para el trabajo dirigido a mujeres;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-III. Impulsar la creación de fuentes de empleo y el financiamiento de créditos productivos, sociales y de servicios;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-IV. Impulsar la profesionalización del personal femenino dentro de la Administración Pública Municipal;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-V. Ejecutar en todo el territorio municipal los programas y acciones implementados por el Instituto de la Mujer del Estado de Morelos;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-VI. Promover el acceso a programas sociales y culturales y demás que le ayuden a su desenvolvimiento dentro del desarrollo del Municipio;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-VII. Promover acciones de combate a la pobreza, marginación, migración y exclusión de las mujeres, especialmente en comunidades rurales e indígenas;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-VIII. Promover ante las instancias competentes y coadyuvar en la realización de acciones tendientes a prevenir, atender, sancionar y erradicar cualquier tipo de violencia contra las mujeres;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-IX. Coordinarse con las instancias federales, estatales y municipales para el desarrollo de programas y proyectos encaminados a promover el desarrollo y la participación de las mujeres en el ámbito social, económico y político del municipio;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-X. Implementar programas de capacitación para promover la igualdad entre mujeres y hombres en el Municipio;
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-XI. Implementar las acciones necesarias para promover la Ley de Acceso de las Mujeres a una Vida Libre de Violencia;
-
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2022)</small>
-
-XII. Fungir como enlace ante el Instituto de la Mujer del Estado de Morelos, así como ante el Instituto Nacional de las Mujeres, y el Centro de Justicia para las Mujeres de la zona que corresponda.
-
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2011)</small>
-
-XIII. Elaborar el Programa Municipal de Atención y Participación de las Mujeres, el cual estará orientado a impulsar el desarrollo de las mujeres, para lograr e incrementar la integración y participación plena de estas en la vida económica laboral, política, cultural y científica y social del Municipio, así como aspectos del ejercicio de sus derechos.
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
-
-La Conformación de la Instancia Municipal de la Mujer, su organización y sus fines, así como la forma de obtener ingresos extraordinarios al presupuesto municipal, quedarán establecidos en el reglamento municipal de la materia.
+La Titular de la Dirección de la Instancia de la Mujer deberá contar con grado académico mínimo de licenciatura y formación de género, además de contar con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos, inclusive si su designación fuera como encargada de despacho. En caso de no contar con ella, este requisito deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones.
 
 > <small>(ADICIONADO, P.O. 25 DE MAYO DE 2011)</small>
 
@@ -2323,11 +2277,11 @@ Para tal efecto, los Ayuntamientos, en apoyo del Registro Civil, designarán a l
 
 El oficial del Registro Civil en cada municipio podrá llevar a cabo la ceremonia de matrimonio en los actos públicos o eventos en los cuales concurra la o el presidente municipal o la o el síndico municipal y así se determine dentro de cada ayuntamiento.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 91.
 
-Para ser oficial del Registro Civil, se requiere título de licenciado en derecho y cédula profesional, debidamente expedidos por autoridad competente, al momento de su nombramiento.
+Para ser Oficial del Registro Civil, se requiere contar con estudios en Licenciatura en Derecho o pasantía, debidamente acreditados y, contar con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos, inclusive si su designación fuera como encargado de despacho. En caso de no contar con ella, este requisito deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones.
 
 > <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
@@ -2383,17 +2337,21 @@ Los jueces de paz municipales estarán subordinados al Poder Judicial del Estado
 
 El Presidente Municipal podrá delegar en los Jueces Cívicos las facultades para calificar y sancionar las infracciones al Bando de Policía y Gobierno; dichos funcionarios estarán bajo la supervisión y vigilancia del Síndico.
 
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
+
 ###### Artículo 96.
 
 Para ser Juez Cívico, se requiere:
 
-I. Ser ciudadano morelense, en ejercicio de sus derechos, y;
+I.- Ser ciudadano morelense, en ejercicio de sus derechos;
 
-II. Tener veintiún años de edad, cumplidos a la fecha de designación;
+II.- Tener veintiún años de edad, cumplidos a la fecha de designación;
 
-III. Contar, preferentemente, con estudios de licenciatura en Derecho; y
+III.- Contar, preferentemente, con estudios de licenciatura en Derecho;
 
-IV. Contar con buena fama y no haber sido condenado por delito intencional, sancionado con pena privativa de libertad.
+IV.- Contar con buena fama y no haber sido condenado por delito intencional, sancionado con pena privativa de libertad, y
+
+V.- Contar con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos, inclusive si su designación fuera como encargado de despacho. En caso de no contar con ella, este requisito deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones.
 
 ###### Artículo 97.
 
@@ -2815,7 +2773,7 @@ Las obras públicas municipales serán ejecutadas por los Ayuntamientos en coord
 
 La elaboración, dirección y ejecución de los programas relativos a la construcción de obras públicas municipales corresponde al Presidente Municipal, quien los realizará por conducto de la dependencia municipal que corresponda.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE JULIO DE 2024)</small>
 
 ###### Artículo 127 Bis.
 
@@ -2825,9 +2783,11 @@ I.- Ser mayor de 30 años de edad al día de su designación;
 
 II.- Contar con título profesional legalmente expedido, en ingeniería civil, arquitectura o cualquiera otra afín;
 
-III.- Contar con una experiencia profesional de cinco años como mínimo; y
+III.- Contar con una experiencia profesional de cinco años como mínimo;
 
-IV.- Tener un modo honesto de vivir.
+IV.- Tener un modo honesto de vivir; y
+
+V.- Contar con certificación de competencia laboral en la materia que asegure los conocimientos y habilidades para desempeñar el cargo, expedida por un centro acreditado por CONOCER residente en el Estado de Morelos, inclusive si su designación fuera como encargado de despacho. En caso de no contar con ella, este requisito deberá acreditarse dentro de los seis meses siguientes a la fecha en que inicien sus funciones.
 
 > <small>(ADICIONADO, P.O. 1 DE MAYO DE 2013)</small>
 
@@ -4730,3 +4690,19 @@ SEGUNDA.- El presente Decreto entrará en vigor a partir del día siguiente de s
 TERCERA.- Los Ayuntamientos contarán con un periodo de sesenta días posteriores a la publicación del Decreto, para realizar las adecuaciones normativas pertinentes.
 
 CUARTA.- Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 31 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL CIENTO VEINTISIETE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos, tal como se dispone en los artículos 44 y 70, fracción XVII, inciso a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERA. Los Municipios contarán con un término de sesenta días hábiles para realizar las adecuaciones a los reglamentos correspondientes. Por única ocasión, la obligatoriedad de los servidores públicos aludidos en activo de las actuales administraciones municipales que concluyen su encargo hasta el 31 de diciembre de 2024 que deben contar con la certificación que señala el presente Decreto, quedarán exentos de aplicar la misma.
+
+De igual manera quedan exentos de la presente reforma los municipios indígenas.
+
+CUARTA. Los Municipios podrán suscribir convenios con el Instituto de Desarrollo y Fortalecimiento Municipal así como con Instituciones Educativas con registro y validez oficial ante la Secretaría de Educación del Estado de Morelos, para la realización de cursos, capacitaciones y diplomados que consideren pertinentes para el mejor desarrollo de las funciones de los servidores públicos.
+
+QUINTA. En el caso de que los servidores públicos o aspirantes a ser designados en los cargos señalados en el presente Decreto, no encontraren centro educativo o persona autorizada por el Consejo Nacional de Normalización y Certificación en Competencias Laborales dentro del Estado de Morelos para la impartición de la certificación, podrán realizarse en otra entidad federativa reconociéndose la misma en nuestra entidad.
