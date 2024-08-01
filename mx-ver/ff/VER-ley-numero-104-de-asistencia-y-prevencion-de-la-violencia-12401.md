@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-104-de-asistencia-y-prevencion-de-la-violencia-12401
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-08"
-last_updated: "2019-08-08"
+last_updated: "2024-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 104 DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY NÚMERO 731 DE PREVENCIÓN, ATENCIÓN Y ASISTENCIA DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 1 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ASISTENCIA Y PREVENCIÓN DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2024 (ABROGADA).
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 8 de septiembre de 1998.
 
@@ -290,3 +292,29 @@ G.O. 8 DE AGOSTO DE 2019.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERMERO 731 DE PREVENCIÓN, ATENCIÓN Y ASISTENCIA DE LA VIOLENCIA FAMILIAR EN EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+TERCERO. Se abroga la Ley de Asistencia y Prevención de la Violencia Familiar en el Estado de Veracruz, publicada en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz-Llave, el 8 de septiembre de 1998.
+
+CUARTO. Los actos y procedimientos administrativos iniciados conforme el "Acuerdo por el que se crea la Comisión Interinstitucional para la Implementación y Operación del Sistema de Alerta Temprana para la Atención a la Violencia Familiar en el Estado de Veracruz de Ignacio de la Llave", y el "Acuerdo por el que se reforman, adicionan y derogan diversas disposiciones del Acuerdo por el que se crea la Comisión Interinstitucional para la Implementación y Operación del Sistema de Alerta Temprana para la Atención a la Violencia Familiar en el Estado de Veracruz de Ignacio de la Llave", publicados en fecha 1 de julio de 2021 y 29 de diciembre de 2021 respectivamente en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, continuarán su trámite por parte de dicha Comisión hasta la conformación del Consejo Estatal marcada en la presente Ley, la cual, una vez instalada, atraerá los temas que sigan en proceso.
+
+QUINTO. Una vez que sea instalado de manera formal el Consejo Estatal y sea celebrada su primera sesión, se tendrán por abrogados los acuerdos señalados en el transitorio cuarto de este ordenamiento.
+
+SEXTO. A la entrada en vigor de la presente Ley, la instalación del Consejo Estatal deberá realizarse en un plazo que no exceda los 90 días hábiles.
+
+SÉPTIMO. Una vez instalado el Consejo Estatal, se contará con un plazo que no exceda los 90 días para la expedición del reglamento de la Ley.
+
+OCTAVO. En la sesión de la Instalación del Consejo Estatal y Primera Sesión, se conformará la Comisión Permanente de Asuntos Legales, designando a sus integrantes.
+
+NOVENO. Una vez instalado el Consejo Estatal y su plataforma, los recursos de cualquier índole que, a la vigencia de la presente Ley estén asignados al Sistema de Alerta Temprana de Violencia Familiar, creado mediante "Acuerdo por el que se crea la Comisión Interinstitucional para la Implementación y Operación del Sistema de Alerta Temprana para la Atención a la Violencia Familiar en el Estado de Veracruz de Ignacio de la Llave" publicado en fecha 1 de julio de 2021 en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, pasarán al Consejo Estatal establecido en la presente Ley.
+
+DÉCIMO. Una vez instalado el Consejo Estatal y su plataforma, los recursos de cualquier índole que, a la vigencia de la presente Ley estén asignados al Sistema de Alerta Temprana de Violencia Familiar, creado mediante "Acuerdo por el que se crea la Comisión Interinstitucional para la Implementación y Operación del Sistema de Alerta Temprana para la Atención a la Violencia Familiar en el Estado de Veracruz de Ignacio de la Llave" publicado en fecha 1 de julio de 2021 en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, estarán a cargo del Sistema establecido en la presente Ley.
+
+DÉCIMO PRIMERO. El Consejo Estatal deberá expedir el Programa de Prevención, Atención y Asistencia de Violencia Familiar en el Estado de Veracruz de Ignacio de la Llave, en un plazo no mayor a 120 días naturales.
