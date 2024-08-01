@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2024-07-08"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2024.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -2268,7 +2268,9 @@ B. De su integración y funcionamiento
 
 Las y los jueces deberán presentar el respectivo examen de oposición, con base en lo dispuesto en el apartado E, numeral 11 del presente artículo y en lo dispuesto por la ley orgánica.
 
-Las y los jueces durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública, en los términos ya descritos. Durarán en el cargo hasta los setenta años de edad, y sólo podrán ser privados de sus puestos en los términos que establece esta Constitución y las leyes.
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2024)</small>
+
+Las y los jueces durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública, en los términos ya descritos. Durarán en el cargo hasta los setenta y cinco años de edad, y sólo podrán ser privados de sus puestos en los términos que establece esta Constitución y las leyes.
 
 Las y los jueces no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro.
 
@@ -2280,7 +2282,9 @@ Las y los jueces no podrán actuar como patronos, abogados o representantes en c
 
 Las personas aspirantes propuestas deberán cumplir los requisitos establecidos en el apartado E, numeral 11 del presente artículo.
 
-Las y los magistrados durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública en los términos dispuestos en esta Constitución y en la ley de la materia. Una vez ratificados permanecerán en su encargo hasta los setenta años de edad, y sólo podrán ser privados del mismo en los términos que establecen esta Constitución y las leyes.
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2024)</small>
+
+Las y los magistrados durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública en los términos dispuestos en esta Constitución y en la ley de la materia. Una vez ratificados permanecerán en su encargo hasta los setenta y cinco años de edad, y sólo podrán ser privados del mismo en los términos que establecen esta Constitución y las leyes.
 
 Las y los magistrados no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México, mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro.
 
@@ -4527,3 +4531,11 @@ G.O. 8 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN NUMERAL 5 AL APARTADO E DEL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO, EN MATERIA DE DERECHO A LA VIVIENDA Y PRESERVACIÓN DE LAS UNIDADES HABITACIONALES”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 1 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 35 APARTADO B, NUMERALES 3, PÁRRAFO TERCERO Y 4, PÁRRAFO TERCERO DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 17, PÁRRAFO SEGUNDO, Y 31, PÁRRAFO PRIMERO; AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
