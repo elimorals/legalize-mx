@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-169
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-28"
-last_updated: "2023-12-28"
+last_updated: "2024-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL 2024
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2024.
 
 Ley publicada en la Sección Primera al Número 122 del Periódico Oficial del Estado de Nayarit, el jueves 28 de diciembre de 2023.
 
@@ -494,6 +494,10 @@ Endeudamiento Interno 0.00
 0.3 Financiamiento Interno 0.00
 
 G R A N T O T A L 29,530,987,843.00
+
+> <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2024)</small>
+
+Los ingresos que la Hacienda Pública del Estado percibirá durante el ejercicio fiscal dos mil veinticuatro antes listados, podrán incrementarse con motivo de la celebración de financiamientos hasta por la cantidad de $600'000,000.00 (seiscientos millones de pesos 00/100 moneda nacional), conforme a lo dispuesto por el artículo 70 de la presente Ley.
 
 ## TÍTULO SEGUNDO. IMPUESTOS
 
@@ -4419,11 +4423,23 @@ Los ingresos derivados del ejercicio de facultades delegadas por la Federación 
 
 Lo que con carácter extraordinario obtenga el Estado por este concepto.
 
-## TÍTULO NOVENO. DE LOS EMPRÉSTITOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2024)</small>
+
+## TÍTULO NOVENO. DE LOS FINANCIAMIENTOS
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 70.
 
-Son los préstamos obtenidos por el Estado en la persecución de sus fines sociales.
+Son operaciones constitutivas de pasivo, directo o contingente a cargo del Estado, a que se refiere la Ley de Deuda Pública del Estado de Nayarit.
+
+Durante el presente ejercicio fiscal dos mil veinticuatro, los importes que resulten de la celebración de dichas operaciones podrán ascender a un monto máximo de $600'000,000.00 (seiscientos millones de pesos 00/100 moneda nacional) más, en su caso, los gastos y costos asociados a la celebración de dichas operaciones conforme al decreto que autorice su contratación. Dichos recursos:
+
+I. Se considerarán para todos los efectos legales como ingresos adicionales a los previstos en el artículo 1 de la presente Ley, y
+
+II. Deberán ser destinados a inversión pública productiva, así como a los gastos y costos asociados a su celebración, incluyendo las reservas que, en su caso, deban constituirse en relación a los mismos, y deberán contratarse de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios; la Ley de Deuda Pública del Estado de Nayarit, y la demás legislación que resulte aplicable; y en todo caso, sujetándose a lo dispuesto por la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos y el segundo párrafo del artículo 133 de la Constitución Política del Estado Libre y Soberano de Nayarit.
+
+En términos de lo establecido en el segundo párrafo del artículo 22 de (sic) Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, sólo se podrá destinar hasta un 0.15 por ciento del monto de los Financiamientos para cubrir los gastos y costos relacionados con la contratación.
 
 ## TRANSITORIOS
 
@@ -4444,3 +4460,13 @@ DADO en la Sala de Sesiones “Lic. Benito Juárez García” Recinto Oficial de
 Dip. Luis Enrique Miramontes Vázquez, Presidente.- Rúbrica.- Dip. Luis Fernando Pardo González, Secretario.- Rúbrica.- Dip. Aristeo Preciado Mayorga, Secretario.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintiocho días del mes de diciembre de dos mil veintitrés.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Dra. en D. Rocío Esther González García, Secretaria General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT; PARA EL EJERCICIO FISCAL 2024, EN MATERIA DE FINANCIAMIENTOS".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas del marco jurídico estatal de igual o menor jerarquía en lo que se opongan al contenido de este Decreto.
