@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-138
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-29"
-last_updated: "2019-08-29"
+last_updated: "2024-08-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DE LA UNIVERSIDAD TECNOLOGICA DE NUEVO LAREDO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA UNIVERSIDAD TECNOLÓGICA DE NUEVO LAREDO, PUBLICADO EN EL P.O. DE 1 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DE LA UNIVERSIDAD TECNOLÓGICA DE NUEVO LAREDO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2024 (DEROGADO).
 
 Código publicado en el Número 105 del Periódico Oficial del Estado de tamaulipas, el jueves 29 de agosto de 2019.
 
@@ -616,3 +618,29 @@ El presente Código de Conducta y Prevención de Conflictos de Interés de las y
 Nuevo Laredo, Tam., a 13 de junio de 2019
 
 ATENTAMENTE.- EL RECTOR DE LA UNIVERSIDAD TECNOLÓGICA DE NUEVO LAREDO.- LIC. ALFONSO ARAMIS SALAS PÉREZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LAS PERSONAS SERVIDORAS PÚBLICAS UNIVERSIDAD TECNOLÓGICA DE NUEVO LAREDO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Conducta y Prevención de Conflictos de Interés de la Universidad Tecnológica de Nuevo Laredo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos de la Universidad Tecnológica de Nuevo Laredo, publicado en el Periódico Oficial del Estado de Tamaulipas Número 110 el día jueves 29 de agosto de 2019.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Código.
+
+###### ARTÍCULO CUARTO.
+
+En todo lo no previsto por este Código, será aplicable lo dispuesto por las Reglas de Integridad para el Ejercicio de la Función Pública; el Código de Ética del Poder Ejecutivo del Estado de Tamaulipas, y demás disposiciones jurídicas relativas.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
