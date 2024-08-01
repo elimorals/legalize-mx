@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-judicial-de-la-ciudad-de-mexico-128260"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2022-06-15"
+last_updated: "2024-08-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128260&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-05-03"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2024.
 
 Ley publicada en el Tomo I al Número 314 de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -284,7 +284,9 @@ En los casos de propuesta de nombramiento, así como en el de ratificación del 
 
 El Consejo de la Judicatura designará a las y los Jueces por un período de seis años y podrán ser ratificados, previa evaluación pública, en los términos que para el efecto desarrollen, y tomando en consideración los elementos establecidos en la presente Ley.
 
-Una vez ratificados, las y los Jueces durarán en el cargo hasta los setenta años de edad y sólo podrán ser privados de sus puestos en los términos previstos en la Constitución, esta Ley y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADO, G.O. 1 DE AGOSTO DE 2024)</small>
+
+Una vez ratificados, las y los Jueces durarán en el cargo hasta los setenta y cinco años de edad y sólo podrán ser privados de sus puestos en los términos previstos en la Constitución, esta Ley y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 18.
 
@@ -414,9 +416,11 @@ Las personas servidoras públicas de la administración de justicia, no podrán 
 
 Las y los Jueces, Magistrados y Consejeros no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 1 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 31.
 
-El retiro de las y los Jueces y las y los Magistrados se producirá, por sobrevenir incapacidad física o mental que imposibilite el adecuado desempeño del cargo, o al cumplir setenta años de edad.
+El retiro de las y los Jueces y las y los Magistrados se producirá, por sobrevenir incapacidad física o mental que imposibilite el adecuado desempeño del cargo, o al cumplir setenta y cinco años de edad.
 
 Las y los Magistrados ratificados, tendrán derecho al haber por retiro de carácter vitalicio, equivalente al cien por ciento de sus percepciones mensuales netas, durante los dos primeros años y al setenta por ciento de éstas durante el resto de su vida, cuando se encuentren bajo los siguientes supuestos:
 
@@ -4947,3 +4951,11 @@ G.O. 15 DE JUNIO DE 2022.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial de la Ciudad de México para su difusión.
+
+G.O. 1 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 35 APARTADO B, NUMERALES 3, PÁRRAFO TERCERO Y 4, PÁRRAFO TERCERO DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 17, PÁRRAFO SEGUNDO, Y 31, PÁRRAFO PRIMERO; AMBOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
