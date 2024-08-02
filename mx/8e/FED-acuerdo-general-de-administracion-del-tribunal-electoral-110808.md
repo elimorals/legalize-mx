@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-del-tribunal-electoral-110808
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-12-22"
-last_updated: "2016-11-14"
+last_updated: "2024-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110808&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-12-08"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE AGOSTO DE 2024.
 
 Acuerdo publicado en la Tercera y Cuarta Sección del Diario Oficial de la Federación, el martes 22 de diciembre de 2015.
 
@@ -7879,177 +7879,335 @@ XVII. Las demás funciones que en el ámbito de su competencia le atribuyan las 
 
 ### CAPÍTULO VII. De la Dirección General de Planeación y Evaluación Institucional
 
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
 ###### Artículo 375.
 
-La Dirección General de Planeación y Evaluación Institucional es el área encargada de propiciar que la gestión del Tribunal Electoral se lleve a cabo de manera eficaz y eficiente, a partir de la instrumentación de un modelo de planeación estratégica y del desarrollo de un sistema de seguimiento que oriente las acciones hacia objetivos institucionales y permita evaluar su desempeño.
+La Dirección General de Planeación y Evaluación Institucional es el área encargada de propiciar que la gestión del Tribunal Electoral se lleve a cabo de manera eficaz y eficiente, a partir de la instrumentación de un modelo de planeación estratégica, innovación, seguimiento y evaluación que oriente las acciones hacia el logro de los objetivos institucionales; así como coordinar las actividades para la definición de las estructuras organizacionales de las diversas áreas que integran el Tribunal Electoral.
+
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
 
 ###### Artículo 376.
 
 Para el cumplimiento de su objetivo, la Dirección General de Planeación tendrá a su cargo las siguientes funciones:
 
-I. Dirigir el diseño y coordinar el establecimiento de políticas para la planeación estratégica en el Tribunal Electoral;
+I. Dirigir el diseño y coordinar el establecimiento de políticas para la planeación estratégica en el Tribunal Electoral, entre ellos la integración del Plan Estratégico Institucional del Tribunal Electoral;
 
-II. Establecer metodologías, instructivos y demás instrumentos que orienten y faciliten las labores de planeación, organización y evaluación institucionales;
+II. Establecer metodologías, guías y demás instrumentos que orienten y faciliten las labores de planeación, organización y evaluación institucionales;
 
-III. Establecer mecanismos para la recepción, registro, análisis y evaluación de los Programas Anuales de Trabajo e informes de avance periódicos de las unidades administrativas;
+III. Establecer mecanismos para la recepción, registro, análisis y evaluación de los Programas Anuales de Trabajo y de la Cartera de Proyectos, y elaborar los informes de avance periódicos de las unidades administrativas;
 
-IV. Desarrollar y proponer el Programa Anual de Evaluación del Tribunal Electoral, a fin de determinar los tipos de estudios en materia de evaluación que se aplicarán como parte de un proceso integral y gradual para apoyar en la toma de decisiones en materia presupuestal;
+IV. Coordinar el Programa Anual de Evaluación del Tribunal Electoral, a fin de determinar los tipos de estudios en materia de evaluación que se aplicarán como parte de un proceso integral y gradual para apoyar en la toma de decisiones en materia de presupuestación, programación, innovación y de mejora continua;
 
-V. Coordinar la formulación e integración del Programa Anual de Trabajo del Tribunal Electoral;
+V. Coordinar la formulación e integración del Programa Anual de Trabajo, incluyendo la Cartera de Proyectos, del Tribunal Electoral;
 
-VI. Definir la instrumentación de mecanismos de seguimiento y evaluación que permitan conocer los avances y resultados del cumplimiento de metas y objetivos, tanto de la institución como de las unidades administrativas;
+VI. Definir los mecanismos de seguimiento y evaluación que permitan conocer los avances y resultados del cumplimiento de metas y objetivos de la institución;
 
 VII. Proponer la instrumentación de estrategias que promuevan la modernización administrativa del Tribunal Electoral;
 
 VIII. Coordinar la integración y actualización de la Matriz de Indicadores para Resultados, de conformidad con las disposiciones normativas en la materia;
 
-IX. Promover el desarrollo de las diferentes acciones que en materia de control interno, permitan permear hacia la mejora interna de la operación del área, en cumplimiento de las disposiciones en la materia;
+IX. Promover el desarrollo de las diferentes acciones que, en materia de control interno, permitan permear hacia la mejora interna de la operación del área, en cumplimiento de las disposiciones en la materia;
 
 X. Proponer a la Secretaría Administrativa los ajustes a la Estructura Programática Interna del Tribunal Electoral;
 
-XI. Dirigir el análisis de las propuestas de reestructuración orgánica y ocupacional que presenten las unidades administrativas y emitir los dictámenes técnicos correspondientes;
+XI. Dirigir el análisis de las propuestas de reestructuración orgánica y ocupacional que presenten las unidades administrativas, emitir los dictámenes técnicos correspondientes;
 
-XII. Dirigir la elaboración y actualización de los diagramas de organización y de puestos de las unidades administrativas, de acuerdo con las instrucciones emitidas por la Secretaría Administrativa;
+XII. Dirigir la elaboración y actualización de los diagramas de organización y de puestos de las unidades administrativas y su difusión, de acuerdo con las instrucciones emitidas por la Secretaría Administrativa;
 
-XIII. Verificar el registro, integración, resguardo y actualización del archivo administrativo tanto físico como electrónico de la Dirección en términos de la normativa aplicable en la materia;
+XIII. Coordinar trabajos, reuniones, mesas de dialogo e investigación en lo concerniente a temas relacionados con mejoras administrativas, que promuevan nuevas prácticas con un enfoque de innovación;
 
-XIV. Establecer la elaboración de estudios, proyectos y documentos internos de carácter especial encomendados por la Secretaría Administrativa;
+XIV Verificar el registro, integración, resguardo y actualización del archivo administrativo tanto físico como electrónico de la Dirección en términos de la normatividad aplicable en la materia;
 
-XV. Promover la coordinación permanente con la Dirección General de Sistemas a efecto de solicitarle el apoyo técnico requerido para el desarrollo y actualización de los sistemas informáticos requeridos;
+XV. Promover la coordinación de automatización e integración de procesos, trámites y servicios en medios electrónicos, con el apoyo de la Dirección General de Sistemas;
 
-XVI. Autorizar la publicación de los programas e instrumentos que en el ámbito de su competencia sean de interés general a través de medios remotos o locales de comunicación electrónica;
+XVI. Establecer la colaboración de estudios, proyectos y documentos internos de carácter especial encomendados por la Secretaría Administrativa;
 
-XVII. Participar en las reuniones del Comité de Adquisiciones, en calidad de invitado permanente;
+XVII. Coordinar la implementación de políticas, acciones, proyectos y estrategias internas en los procesos operativos y toma de decisiones que promuevan la innovación en la administración;
 
-XVIII. Participar en las reuniones del Comité para la Implementación del Sistema de Gestión de Control Interno y de Mejora Continua, en calidad de vocal; y
+XVIII. Promover la elaboración de un diagnóstico en materia de innovación, organización y procesos de las áreas, que permita la integración y actualización de los manuales de procedimientos de las unidades administrativas;
 
-XIX. Las demás que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Secretaría Administrativa.
+XIX. Autorizar la publicación de los programas e instrumentos que en el ámbito de su competencia sean de interés general a través de medios remotos o locales de comunicación electrónica;
 
-> <small>(REFORMADA SU DENOMINACIÓN POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+XX. Coordinar metodologías y herramientas que provean una mayor eficacia y eficiencia para la mejora de los servicios que prestan las unidades administrativas;
 
-#### SECCIÓN PRIMERA. De la Dirección de Planeación
+XXI. Coordinar el análisis de riesgos para facilitar la identificación, evaluación y administración de los riesgos institucionales;
 
-> <small>(REFORMADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+XXII. Participar en las reuniones de los Comités en que la Dirección General sea parte; y
+
+XXIII. Las demás que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Secretaría Administrativa.
+
+(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+#### SECCIÓN PRIMERA. De la Dirección de Administración Integral de Riesgos
+
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
 
 ###### Artículo 377.
 
-La Dirección de Planeación es el área encargada de instrumentar el modelo de planeación estratégica del Tribunal Electoral, así como coordinar y asesorar a las áreas que lo conforman, en la formulación e integración de sus programas anuales de trabajo.
+La Dirección de Administración Integral de Riesgos es el área encargada de instrumentar el modelo de planeación estratégica en el Tribunal Electoral, con enfoque en la administración integral de riesgos, que contribuya a la formulación e integración de políticas, planes y programas que, en colaboración con las áreas que conforman al Tribunal, para asegurar el logro de los objetivos y metas institucionales. Asimismo, en coordinación con las unidades administrativas, a través de la identificación y valoración de los riesgos relacionados con el cumplimiento de los objetivos institucionales, gestionar la administración de riesgos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
 
 ###### Artículo 378.
 
-Para el cumplimiento de su objetivo, la Dirección de Planeación tendrá a su cargo las siguientes funciones:
+Para el cumplimiento de su objetivo, la Dirección de Administración Integral de Riesgos tendrá a su cargo las siguientes funciones:
 
-I. Diseñar propuestas de políticas y procedimientos enfocados a la planeación estratégica institucional;
+I. Coordinar la integración del Plan Estratégico Institucional del Tribunal Electoral;
 
-> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+II. Desarrollar e instrumentar metodologías y guías que orienten y faciliten las labores de planeación estratégica de las unidades responsables, incluyendo el Programa Anual de Trabajo, la Cartera de Proyectos, y demás instrumentos de planeación y programación;
 
-II. Desarrollar e instrumentar metodologías, instructivos y demás instrumentos que orienten y faciliten a las unidades administrativas las labores de planeación;
+III. Presentar las modificaciones a la Estructura Programática Interna del Tribunal Electoral que se consideren pertinentes para los trabajos de planeación y programación institucional;
 
-III. Elaborar y proponer los lineamientos y políticas para la formulación del Programa Anual de Trabajo, en congruencia con el modelo de planeación estratégica institucional;
+IV. Formular y actualizar la Matriz de Indicadores para Resultados, alineada a la planeación estratégica institucional;
 
-IV. Presentar las modificaciones a la Estructura Programática Interna del Tribunal Electoral que se consideren pertinentes para los trabajos de planeación y programación institucional;
+V. Asesorar a las unidades administrativas en la formulación de sus ejercicios de planeación estratégica y en la integración de sus instrumentos de planeación y programación;
 
-V. Formular y actualizar la Matriz de Indicadores para Resultados, alineada a la planeación estratégica institucional;
+VI. Atender, en el ámbito de su competencia, las solicitudes de acceso a la información, así como de auditorías internas o externas, y en su caso, solventar las observaciones que resulten de las mismas;
 
-VI. Proyectar las propuestas en materia de modernización administrativa, que contribuyan al cumplimiento de los objetivos y metas institucionales;
+VII. Registrar, integrar, resguardar y actualizar, en el ámbito de su competencia, el archivo administrativo tanto físico como electrónico de la Dirección en términos de la normativa aplicable en la materia;
 
-> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+VIII. Promover la coordinación permanente con las áreas del Tribunal Electoral, a efecto de formular e integrar sus instrumentos de planeación estratégica y programación;
 
-VII. Asesorar a las unidades administrativas en la formulación de sus ejercicios de planeación estratégica y en la integración de sus Programas Anuales de Trabajo;
+IX. Gestionar la publicación de los programas e instrumentos que orienten el modelo de planeación estratégica a través de medios de comunicación electrónica disponibles;
 
-> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+X. Elaborar los estudios, proyectos y documentos que le sean encomendados por la persona titular de la Dirección General de Planeación e informarle periódicamente acerca del avance en su elaboración;
 
-VIII. Atender, en el ámbito de su competencia, las solicitudes de acceso a la información, así como de auditorías internas o externas, y en su caso, solventar las observaciones que resulten de las mismas;
+XI. Diseñar procesos de planeación estratégica y seguimiento que orienten a las Unidades en la elaboración de programas y proyectos que procuren el cumplimiento de sus funciones;
 
-> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+XII. Formular los criterios y lineamientos de carácter técnico, así como los procedimientos para orientar la planeación de los programas, proyectos y acciones estratégicas del Tribunal Electoral;
 
-IX. Registrar, integrar, resguardar y actualizar, en el ámbito de su competencia, el archivo administrativo tanto físico como electrónico de la Dirección en términos de la normativa aplicable en la materia;
+XIII. Proponer acciones para incorporar los resultados y recomendaciones de las evaluaciones en la formulación de programas y proyectos de las áreas del Tribunal Electoral;
 
-> <small>(REFORMADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+XIV. Diseñar estrategias para promover con las unidades del Tribunal Electoral, acciones que procuren el cumplimiento de los objetivos y estrategias del Plan Estratégico Institucional, así como de los programas y proyectos derivados de este;
 
-X. Coadyuvar con la Dirección General de Sistemas en el desarrollo y/o actualización de los sistemas informáticos, en el ámbito de su competencia, que permita la agilización y explotación de la información generada por el área;
+XV. Proponer las disposiciones relativas a la definición de objetivos, responsabilidades, metas actividades e indicadores de desempeño de los programas y proyectos de las unidades del Tribunal Electoral;
 
-(REUBICADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)
+XVI. Coordinar la automatización e integración de procesos, trámites y servicios en medios electrónicos, con el apoyo de la Dirección General de Sistemas;
 
-XI. Gestionar la publicación de los programas e instrumentos que en el ámbito de su competencia sean de interés general a través de medios remotos o locales de comunicación electrónica;
+XVII. Asesorar a las unidades administrativas en materia de mapeo de procesos y riesgos que deriven de modificaciones organizacionales;
 
-(REUBICADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)
+XVIII. Supervisar el diagnóstico y procesos de las áreas, así como la integración y actualización de los manuales de procedimientos de las unidades administrativas;
 
-XII. Elaborar los estudios, proyectos y documentos que le sean encomendados por la persona titular de la Dirección General de Planeación e informarle periódicamente acerca del avance en su elaboración;
+XIX. Coordinar la identificación de riesgos en los procesos institucionales, analizar su relevancia y proponer, en coordinación con las unidades, acciones suficientes para responder a estos y asegurar de manera razonable el logro de los objetivos institucionales;
 
-(REUBICADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)
+XX. Dirigir y formular estudios cuantitativos y cualitativos que contribuyan a la generación de informes, síntesis de información y reportes en materia de riesgos;
 
-XIII. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+XXI. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
 
-(REUBICADA POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)
+XXII. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Planeación.
 
-XIV. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Planeación.
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
 
-#### SECCIÓN SEGUNDA. De la Dirección de Seguimiento y Evaluación
+De la Subdirección de Políticas de Planeación
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+###### Artículo 378 Bis.
+
+La Subdirección de Políticas de Planeación es el área encargada de elaborar el modelo de planeación estratégica que asegure el cumplimiento de las funciones y objetivos de las Unidades del Tribunal Electoral, proponiendo metodologías, instructivos y demás instrumentos para la planeación de políticas, programas, proyectos y acciones estratégicas;
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+###### Artículo 378 Ter.
+
+Para el cumplimiento de su objetivo, la Subdirección de Políticas de Planeación tendrá a su cargo las siguientes funciones:
+
+I. Proponer procesos de planeación orientados a la elaboración de programas y proyectos que promuevan el modelo de planeación estratégica orientado al cumplimiento de las funciones de las unidades del Tribunal Electoral;
+
+II. Proponer metodologías, guías y demás instrumentos que orienten y faciliten a las unidades administrativas las labores de planeación;
+
+III. Asesorar a las Unidades en la formulación de instrumentos de planeación que orienten la labor institucional y establezcan la priorización en la asignación de recursos; así como en la formulación de los instrumentos de programación, que procuren el logro de objetivos y metas institucionales;
+
+IV. Proponer los criterios y lineamientos de carácter técnico, así como los procedimientos para la planeación de políticas, programas, proyectos y acciones estratégicas de las unidades del Tribunal Electoral;
+
+V. Contribuir a diseñar estrategias para promover con las unidades del TEPJF, acciones que aseguren el cumplimiento de los objetivos y estrategias del Plan Estratégico Institucional, así como de los programas y proyectos derivados de este;
+
+VI. Proyectar los mecanismos y acciones para incorporar los resultados y recomendaciones de las evaluaciones en la formulación de los programas y proyecto de las unidades del Tribunal Electoral;
+
+VII. Contribuir con las propuestas a las disposiciones relativas a la definición de objetivos responsabilidades, metas, actividades e indicadores de desempeño de los programas y proyectos de las unidades del Tribunal Electoral, en concordancia con el Plan Estratégico Institucional;
+
+VIII. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+
+IX. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección de Administración Integral de Riesgos.
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+De la Subdirección de Integración de Instrumentos
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+###### Artículo 378 Quater.
+
+La Subdirección de Integración de Instrumentos es el área encargada de proponer la elaboración de herramientas que orientan la formulación de programas y proyectos, que permitan una administración eficaz de los recursos, incorporando el modelo de planeación estratégica, con el fin de orientar a las Unidades en la integración de sus instrumentos de programación.
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+Artículo 378 Quintus. Para el cumplimiento de su objetivo, la Subdirección de Integración de Instrumentos tendrá a su cargo las siguientes funciones:
+
+I. Asistir a la Dirección en la propuesta a guías y metodologías que orienten a las Unidades en la definición de políticas, metas, proyectos, tiempos de ejecución y recursos necesarios que contribuyan al logro de los objetivos institucionales;
+
+II. Elaborar guías, formatos e instructivos, y proporcionar asesoría a las Unidades que así lo requieran, para la integración de sus Programas Anuales de Trabajo;
+
+III. Elaborar metodologías y criterios de priorización para la presentación y administración de proyectos; y asesorar a las Unidades en la presentación de sus propuestas de proyectos;
+
+IV. Revisar las propuestas de proyectos y sus componentes, presentadas por las Unidades, para proponer un orden de prioridad, conforme los criterios que para efecto se hayan definido;
+
+V. Elaborar la metodología y criterios para la presentación de metas e indicadores, y asesorar a las Unidades en la propuesta de sus metas e indicadores, que incorporen en sus programas y proyectos;
+
+VI. Proponer los estudios, proyectos y documentos que le sean encomendados por la persona titular de la Dirección de Administración Integral de Riesgos e informarle periódicamente acerca del avance en su elaboración;
+
+VII. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+
+VIII. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección de Administración Integral de Riesgos.
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+De la Subdirección de Procesos y Análisis de Riesgos
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+Artículo 378 Sextus. La Subdirección de Procesos y Análisis de Riesgos es el área encargada de realizar el diagnóstico en materia procesos y riesgos de las áreas con motivo de las modificaciones organizacionales, asesorando a las áreas en el mapeo de procesos, para la integración y actualización de sus manuales de procedimientos; asimismo, es el área encargada de identificar y evaluar los riesgos institucionales para su administración.
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+Artículo 378 Septimus. Para el cumplimiento de su objetivo, la Subdirección de Procesos y Análisis de Riesgos tendrá a su cargo las siguientes funciones:
+
+I. Coadyuvar en el diagnóstico en materia de procesos de las áreas que así lo soliciten, que puedan resultar con motivo de las modificaciones organizacionales;
+
+II. Asesorar a las áreas del Tribunal Electoral que así lo soliciten en el mapeo de sus procesos, procurando la optimización y automatización de actividades;
+
+III. Asesorar a las áreas del Tribunal Electoral, cuando lo soliciten, en la integración y actualización de sus manuales de procedimientos, en lo concerniente en el mapeo de procesos;
+
+IV. Proponer las metodologías y herramientas que promuevan una mayor eficacia y eficiencia para la mejora de procesos de las unidades administrativas;
+
+V. Elaborar las guías y/o programas que permitan identificar y evaluar los riesgos institucionales para su administración de manera efectiva;
+
+VI. Realizar el mapeo de procesos de las áreas e identificar y analizar los riesgos que de estos derivan;
+
+VII. Llevar a cabo estudios cuantitativos y cualitativos que contribuyan a la generación de informes, síntesis de información y reportes en materia de riesgos;
+
+VIII. Llevar a cabo la identificación de riesgos en los procesos institucionales, analizar su relevancia y proponer acciones para (sic) aseguren de manera razonable el logro de los objetivos institucionales.
+
+IX. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+
+X. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que les confiera la persona titular de la Dirección de Administración Integral de Riesgos.
+
+(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+#### SECCIÓN SEGUNDA. De la Dirección de Mejora Continua
+
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
 
 ###### Artículo 379.
 
-La Dirección de Seguimiento y Evaluación es el área encargada de establecer un sistema de seguimiento y evaluación para el Tribunal Electoral que permita verificar el avance en el cumplimiento de los programas, las metas y los proyectos institucionales, a fin de conocer su contribución a los objetivos estratégicos; retroalimentar el proceso de planeación y proporcionar información oportuna para la toma de decisiones.
+La Dirección de Mejora Continua es el área encargada de incorporar resultados obtenidos del seguimiento, control y evaluación en los planes y programas del Tribunal Electoral, para colaborar activamente con las Unidades Responsables con el fin de orientarlas en el cumplimiento de los objetivos estratégicos institucionales; así como retroalimentar los procesos de planeación y programación a través de la implementación de mecanismos de mejora continua que permitan alcanzar las metas y objetivos institucionales establecidos.
+
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
 
 ###### Artículo 380.
 
-Para el cumplimiento de su objetivo, la Dirección de Seguimiento y Evaluación tendrá a su cargo las siguientes funciones:
+Para el cumplimiento de su objetivo, la Dirección de Mejora Continua tendrá a su cargo las siguientes funciones:
 
-I. Diseñar políticas para el seguimiento y evaluación de los programas y proyectos institucionales;
+I. Diseñar guías para el seguimiento, y evaluación y control de los programas y proyectos institucionales, incluyendo el Programa Anual de Evaluación;
 
-II. Desarrollar e implementar las metodologías y herramientas de seguimiento y evaluación del Tribunal Electoral que incorporen factores cualitativos y cuantitativos que permitan medir el avance físico-financiero;
+II. Proponer, desarrollar e implementar guías y herramientas de seguimiento, control y evaluación de instrumentos de planeación y programación, de programas específicos, así como de proyectos del Tribunal Electoral, que permitan medir el cumplimiento de sus objetivos y metas institucionales;
 
-III. Proponer e implementar instrumentos metodológicos para dar seguimiento, de manera permanente, al avance del Plan Estratégico Institucional, de los programas específicos y anuales de trabajo, así como de los proyectos, a fin de conocer el grado de cumplimiento de sus objetivos y metas;
+III. Proponer y dar seguimiento a las acciones de mejora derivadas del seguimiento, control y la evaluación;
 
-IV. Proponer acciones de mejora a partir de la información proporcionada por el sistema de seguimiento, y apoyar a las unidades administrativas para su instrumentación;
+IV. Elaborar los informes que solicita la Comisión de Administración sobre el avance de programas, proyectos e instrumentos de planeación y programación de las unidades responsables;
 
-V. Informar de los resultados obtenidos en la aplicación de la Matriz de Indicadores para Resultados, así como de las modificaciones realizadas a la misma;
+V. Asesorar a las unidades administrativas en la instrumentación de los mecanismos de seguimiento, control y evaluación establecidos en el Tribunal Electoral;
 
-VI. Proponer las acciones y estudios en términos de evaluación a través del Programa Anual de Evaluación, para contribuir a medir la eficacia y eficiencia administrativa del Tribunal Electoral;
+VI. Atender, en el ámbito de su competencia, las solicitudes de acceso a la información, así como de auditorías internas o externas, y en su caso, solventar las observaciones que resulten de las mismas;
 
-VII. Realizar o gestionar la contratación de estudios en materia de evaluación necesarios para cumplir con las obligaciones en la materia;
+VII. Promover la coordinación permanente con las Unidades del Tribunal Electoral, a efecto de solicitarles el apoyo requerido para el seguimiento, control y evaluación de planes, programas y proyectos;
 
-VIII. Gestionar la publicación en la página de Internet del Programa Anual de Evaluación y los resultados de las evaluaciones realizadas, así como las metodologías e indicadores de desempeño;
+VIII. Registrar, integrar, resguardar y actualizar, en el ámbito de su competencia, el archivo administrativo tanto físico como electrónico de la Dirección de Mejora Continua en términos de la normativa aplicable en la materia;
 
-IX. Dar seguimiento a los aspectos susceptibles de mejora que se emitan de las evaluaciones realizadas;
+IX. Elaborar los estudios, proyectos y documentos que le sean encomendados por la persona titular de la Dirección General de Planeación e informarle periódicamente sobre el avance en su elaboración;
 
-X. Apoyar a las unidades administrativas en la instrumentación de los mecanismos de seguimiento y evaluación establecidos en el Tribunal Electoral;
+X. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
 
-XI. Atender, en el ámbito de su competencia, las solicitudes de acceso a la información, así como de auditorías internas o externas, y en su caso, solventar las observaciones que resulten de las mismas;
+XI. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Planeación.
 
-XII. Registrar, integrar, resguardar y actualizar, en el ámbito de su competencia, el archivo administrativo tanto físico como electrónico de la Dirección en términos de la normativa aplicable en la materia;
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
 
-XIII. Elaborar los estudios, proyectos y documentos que le sean encomendados por la persona titular de la Dirección General de Planeación e informarle periódicamente sobre el avance en su elaboración;
+De la Subdirección de Seguimiento
 
-XIV. Promover la coordinación permanente con la Dirección General de Sistemas, a efecto de solicitarle el apoyo técnico requerido para el desarrollo y actualización de los sistemas informáticos de la Dirección General de Planeación;
-
-XV. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
-
-XVI. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Planeación.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
 
 ###### Artículo 380 Bis.
 
-La Dirección de Análisis Organizacional e Integración de Estructuras es el área encargada de coordinar y asesorar a las áreas que conforman al Tribunal Electoral, en la elaboración y presentación de sus propuestas de reestructuración, así como desarrollar los proyectos de dictamen de reestructuración funcional, organizacional y ocupacional que se deriven, observando la normatividad en la materia.
+La Subdirección de Seguimiento es el área encargada de gestionar el seguimiento y control e, informar de manera periódica los resultados obtenidos en el avance y cumplimiento de planes, programas, proyectos e instrumentos de planeación y programación.
 
-> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
 
 ###### Artículo 380 Ter.
 
-Para el cumplimiento de su objetivo, la Dirección de Análisis Organizacional e Integración de Estructuras tendrá a su cargo las siguientes funciones:
+Para el cumplimiento de su objetivo, la Subdirección de Seguimiento tendrá a su cargo las siguientes funciones:
 
-I. Elaborar y proponer los lineamientos y procedimientos enfocados a la definición y modificación de la estructura orgánica del Tribunal Electoral;
+I. Gestionar el seguimiento institucional de los instrumentos de planeación y programación de las Unidades Responsables, que permita determinar los niveles de desempeño de las unidades administrativas del Tribunal Electoral y facilite la toma de decisiones;
+
+II. Elaborar el informe de manera periódica de los resultados obtenidos en la Matriz de Indicadores para Resultados, en el Programa Anual de Trabajo y en la Cartera de Proyectos, así como de las modificaciones realizadas a los mismos;
+
+III. Emitir recomendaciones de acciones correctoras que sean necesarias para la ejecución correcta de los instrumentos de planeación y programación, con base en la información contenida en los informes de seguimiento;
+
+IV. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+
+V. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección de Mejora Continua.
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+De la Subdirección de Evaluación de Resultados
+
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+###### Artículo 380 Quater.
+
+La Subdirección de Evaluación de Resultados es el área encargada de coordinar o realizar la evaluación de los resultados de los programas estratégicos de las áreas del Tribunal Electoral de manera periódica y proponer las acciones de mejora.
+
+(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+Artículo 380 Quintus. Para el cumplimiento de su objetivo, la Subdirección de Evaluación de Resultados tendrá a su cargo las siguientes funciones:
+
+I. Evaluar los resultados de los programas estratégicos de las áreas del Tribunal Electoral de manera periódica, y publicar los resultados de la evaluación;
+
+II. Realizar el análisis para determinar la evaluación a realizar;
+
+III. Gestionar la contratación de estudios en materia de evaluación necesarios para cumplir con las obligaciones en la materia y publicar los resultados de la evaluación;
+
+IV. Identificar hallazgos, debilidades y oportunidades resultado de las evaluaciones a los programas y proyectos estratégicos de las Unidades;
+
+V. Proponer, con base en la evaluación de resultados, acciones de mejora continua de los programas estratégicos que permitan a las Unidades reorientar sus actividades para la consecución de objetivos y metas;
+
+VI. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+
+VII. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección de Mejora Continua.
+
+(REFORMADA SU DENOMINACIÓN POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+#### SECCIÓN TERCERA
+
+De la Dirección de Innovación y Organización.
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+Artículo 380 Sextus. La Dirección de Innovación y Organización es el área encargada de proponer guías y/o programas enfocados a la definición y modificación de la estructura orgánica del Tribunal Electoral; proponer la estructura orgánica del Tribunal Electoral; asesorar a las áreas, en sus propuestas de reestructuración; proyectar dictámenes de reestructuración funcional, organizacional y ocupacional; proponer la implementación de estrategias en materia de innovación en la administración;
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+Artículo 380 Septimus. Para el cumplimiento de su objetivo, la Dirección de Innovación y Organización tendrá a su cargo las siguientes funciones:
+
+I. Elaborar y proponer las guías y/o programas enfocados a la definición y modificación de la estructura orgánica del Tribunal Electoral;
 
 II. Implementar las acciones para la presentación anual a la Comisión de Administración de la estructura orgánica del Tribunal Electoral del ejercicio fiscal correspondiente;
 
-III. Proporcionar asesoría a las diferentes áreas del Tribunal Electoral, para la formulación de sus propuestas de reestructuración;
+III. Proporcionar asesoría a las diferentes áreas del Tribunal Electoral, en la formulación de sus propuestas de reestructuración;
 
-IV. Formular las opiniones técnicas a las propuestas de modificación de la plantilla de personal, que son presentadas por los Magistrados integrantes de la Sala Superior;
+IV. Formular las opiniones técnicas a las propuestas de modificación de la plantilla de personal, presentadas por los Magistrados integrantes de la Sala Superior;
 
-V. Formular los proyectos de dictámenes técnico-organizacionales derivados de las propuestas de reestructuración presentados por las unidades administrativas;
+V. Formular los proyectos de dictámenes técnico-organizacionales derivados de las propuestas de reestructuración, presentados por las unidades administrativas;
 
 VI. Emitir y actualizar el catálogo de códigos de centro de costo de la estructura orgánica del Tribunal Electoral;
 
@@ -8057,27 +8215,71 @@ VII. Elaborar y/o actualizar la estructura orgánica y diagramas de organizació
 
 VIII. Difundir al interior de la institución la estructura orgánica del Tribunal Electoral, así como los diagramas de organización y de puestos aprobados y gestionar la publicación para su consulta externa en el portal institucional;
 
-XI. Elaborar los estudios, proyectos, y documentos que le sean encomendados por la persona titular de la Dirección General de Planeación e informarle periódicamente acerca del avance en su elaboración;
+IX. Realizar trabajos, reuniones, mesas de dialogo e investigación en lo concerniente a temas relacionados con mejoras administrativas, que promuevan nuevas prácticas con un enfoque de innovación;
 
-X. Vigilar los posibles impactos en los procesos de trabajo de las unidades administrativas, que puedan resultar con motivo de las modificaciones organizacionales;
+X. Proponer la automatización e integración de procesos, trámites y servicios en medios electrónicos, con el apoyo de la Dirección General de Sistemas;
 
-XI. Atender, en el ámbito de su competencia, las solicitudes de acceso a la información, así como de auditorías internas o externas, y en su caso, solventar las observaciones que resulten de las mismas;
+XI. Coordinar la implementación de programas generales, acciones, proyectos y estrategias internas en los procesos operativos y toma de decisiones que promuevan la innovación en la administración;
 
-XII. Registrar, integrar, resguardar y actualizar, en el ámbito de su competencia, el archivo administrativo tanto físico como electrónico de la Dirección en términos de la normativa aplicable en la materia;
+XII. Vigilar los posibles impactos en los procesos de las unidades administrativas, que puedan resultar con motivo de las modificaciones organizacionales y en su caso, proponer la actualización de procesos;
 
-XIII. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+XIII. Promover la coordinación permanente con las áreas del Tribunal Electoral a efecto de promover estrategias en materia de innovación, organización y optimización de procesos;
 
-XIV. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Planeación.
+XIV. Coordinar la elaboración de metodologías y herramientas que provean una mayor eficacia y eficiencia para la mejora de los servicios que prestan las unidades administrativas;
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+XV. Elaborar los estudios, proyectos, y documentos que le sean encomendados por la persona titular de la Dirección General de Planeación e informarle periódicamente acerca del avance en su elaboración
 
-###### Artículo 380 Quáter.
+XVI. Atender, en el ámbito de su competencia, las solicitudes de acceso a la información, así como de auditorías internas o externas, y en su caso, solventar las observaciones que resulten de las mismas;
 
-La Subdirección de Organización es el área encargada del diseño y actualización de los diagramas de organización y de puestos; así como de garantizar la difusión de la estructura orgánica del Tribunal Electoral autorizada y sus modificaciones.
+XVII. Registrar, integrar, resguardar y actualizar, en el ámbito de su competencia, el archivo administrativo tanto físico como electrónico de la Dirección en términos de la normativa aplicable en la materia;
 
-> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+XVIII. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
 
-Artículo 380 Quintus. Para el cumplimiento de su objetivo, la Subdirección de Organización tendrá a su cargo las siguientes funciones:
+XIX. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Planeación.
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+De la Subdirección de Innovación
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+Artículo 380 Octavus. La Subdirección de Innovación es el área encargada (sic) revisar, proponer y compilar trabajos, reuniones, mesas de diálogo e investigación y diagnóstico en lo concerniente a temas relacionados con mejoras administrativas, nuevas prácticas e innovación; revisar y proponer la automatización e integración de procesos, trámites y servicios; implementar políticas y estrategias internas en materia de administración sustentable; realizar el diagnóstico en materia de innovación y proponer mejoras administrativas.
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+Artículo 380 Nonus. Para el cumplimiento de su objetivo, la Subdirección de Innovación tendrá a su cargo las siguientes funciones:
+
+I. Proponer y compilar trabajos, reuniones, mesas de diálogo e investigación y diagnóstico en lo concerniente a temas relacionados con mejoras administrativas, que promuevan nuevas prácticas con un enfoque de innovación; un enfoque de innovación; (sic)
+
+II. Realizar el diagnóstico de procesos, trámites y servicios administrativos que permitan identificar necesidades para proponer acciones, proyectos o estrategias con un enfoque de innovación;
+
+III. Implementar programas, acciones, proyectos y estrategias internas en los procesos, trámites y servicios administrativos que promuevan una administración con un enfoque de innovación;
+
+IV. Asesorar a las áreas del Tribunal Electoral en la gestión, implementación y fortalecimiento de programas, acciones, proyectos y estrategias que promuevan la innovación;
+
+V. Apoyar a las áreas del Tribunal Electoral en la elaboración de mecanismos y herramientas que promuevan la automatización y sistematización de procesos, trámites y servicios a través de medios electrónicos;
+
+VI. Asesorar a las áreas del Tribunal Electoral en la implementación de la automatización y sistematización de procesos, trámites y servicios a través de medios electrónicos;
+
+VII. Asesorar a las áreas en la gestión, desarrollo y fortalecimiento de proyectos que promuevan la innovación;
+
+VIII. Elaborar los estudios, proyectos y documentos que le sean encomendados por la persona titular de la Dirección General de Planeación e informarle periódicamente acerca del avance en su elaboración;
+
+IX. Cubrir, en el ámbito de su competencia, las ausencias temporales de su superior jerárquico; y
+
+X. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que les confiera la persona titular de la Dirección de Innovación y Organización.
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+De la Subdirección de Organización
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+Artículo 380 Décimus. La Subdirección de Organización es el área encargada del diseño y actualización de los diagramas de organización y de puestos; así como de garantizar la difusión de la estructura orgánica del Tribunal Electoral autorizada y sus modificaciones.
+
+(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO 13/SO7(11-VII-2024) DE LA COMISIÓN DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 2 DE AGOSTO DE 2024)
+
+Artículo 380 Undécimus. Para el cumplimiento de su objetivo, la Subdirección de Organización tendrá a su cargo las siguientes funciones:
 
 I. Brindar apoyo a las diferentes áreas del Tribunal Electoral, para la elaboración y presentación de sus propuestas de reestructuración;
 
@@ -8087,21 +8289,19 @@ III. Apoyar en la elaboración e integración de los diferentes diagramas de org
 
 IV. Coadyuvar en la elaboración de los proyectos de dictámenes técnico-organizacionales derivados de las propuestas de reestructuración presentados por las unidades administrativas;
 
-V. Revisar y gestionar las acciones para la difusión en el Micrositio de la Dirección General de Planeación, así como en el Portal de Transparencia del Tribunal Electoral de la estructura orgánica básica y no básica autorizada;
+V. Proponer la actualización del catálogo de códigos de centro de costo, conforme a las reestructuras aprobadas;
 
-VI. Mantener el control y resguardo documental que se origina de las estructuras orgánicas;
+VI. Revisar y gestionar las acciones para la difusión en el micrositio de la Dirección General de Planeación, así como en el Portal de Transparencia del Tribunal Electoral de la estructura orgánica básica y no básica autorizada;
 
-VII. Brindar la información requerida para atención en la materia de las solicitudes de transparencia, así como de auditorías internas o externas, entre otras en la materia;
+VII. Mantener el control y resguardo documental que se origina de las estructuras orgánicas;
 
-VIII. Elaborar o en su caso, apoyar en la formulación de documentos, reportes, estudios, y análisis requeridos en el ámbito de su competencia;
+VIII. Brindar la información requerida para atención en la materia de las solicitudes de transparencia, así como de auditorías internas o externas, entre otras en la materia;
 
-IX. Cubrir en el ámbito de su competencia, las ausencias temporales de su superior jerárquico y,
+IX. Elaborar o en su caso, apoyar en la formulación de documentos, reportes, estudios, y análisis requeridos en el ámbito de su competencia;
 
-X. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que les confiera la persona titular de la Dirección de Análisis Organizacional e Integración de las Estructuras.
+X. Cubrir en el ámbito de su competencia, las ausencias temporales de su superior jerárquico y,
 
-#### SECCIÓN TERCERA. De la Dirección de Análisis Organizacional e Integración de Estructuras
-
-> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+XI. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que les confiera la persona titular de la Dirección de Innovación y Organización.
 
 ### CAPÍTULO VIII. De la Dirección General de Enlace y Vinculación Social
 
@@ -8145,11 +8345,7 @@ XV. Coadyuvar, en el ámbito de su competencia, a la integración de documentaci
 
 XVI. Las demás que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables así como las que le encomienden la persona titular de la Presidencia, las y los Magistrados de la Sala Superior y la Secretaría Administrativa.
 
-#### SECCIÓN CUARTA. De la Subdirección de Organización
-
-[Adicionada mediante Acuerdo 313/S10 (20-X-2016)]
-
-> <small>(ADICIONADO POR EL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, D.O.F. 14 DE NOVIEMBRE DE 2016)</small>
+#### SECCIÓN PRIMERA. De la Dirección de Enlace Institucional
 
 ###### Artículo 383.
 
@@ -8177,7 +8373,7 @@ VIII. Cubrir, en el ámbito de su competencia, las ausencias temporales de la pe
 
 IX. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Enlace y Vinculación Social.
 
-#### SECCIÓN PRIMERA. De la Dirección de Enlace Institucional
+#### SECCIÓN SEGUNDA. De la Dirección de Logística Institucional
 
 ###### Artículo 385.
 
@@ -8203,7 +8399,7 @@ VII. Cubrir, en el ámbito de su competencia, las ausencias temporales de la per
 
 VIII. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Dirección General de Enlace y Vinculación Social.
 
-#### SECCIÓN SEGUNDA. De la Dirección de Logística Institucional
+#### SECCIÓN TERCERA. De la Dirección de Gestión Institucional
 
 ###### Artículo 387.
 
@@ -8264,8 +8460,6 @@ XII. Visitar a las Delegaciones Administrativas en sus respectivas Salas Regiona
 XIII. Las demás funciones que en el ámbito de su competencia le atribuyan las disposiciones legales aplicables y las que le confiera la persona titular de la Secretaría Administrativa.
 
 #### SECCIÓN PRIMERA. De la Dirección de Enlace y Apoyo Administrativo
-
-#### SECCIÓN TERCERA. De la Dirección de Gestión Institucional
 
 ###### Artículo 391.
 
@@ -8360,3 +8554,13 @@ D.O.F. 14 DE NOVIEMBRE DE 2016.
 ## [N. DE E. TRANSITORIO DE “REFORMAS Y ADICIONES AL ACUERDO GENERAL DE ADMINISTRACIÓN DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
 
 [EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]
+
+D.O.F. 2 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS Y ADICIONES APROBADAS POR LA COMISIÓN DE ADMINISTRACIÓN MEDIANTE ACUERDO 13/SO7(11-VII-2024), EMITIDO EL 11 DE JULIO DE 2024”.]
+
+PRIMERO. Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Para mayor difusión publíquense las presentes reformas y adiciones en las páginas de internet e intranet del Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO. Se derogan todas aquellas disposiciones que (sic) opongan a las presentes reformas y adiciones.
