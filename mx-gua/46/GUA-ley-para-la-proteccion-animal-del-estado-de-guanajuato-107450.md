@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-animal-del-estado-de-guanajuato-107450"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-21"
-last_updated: "2023-12-21"
+last_updated: "2024-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN ANIMAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2024.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Estado de Guanajuato, el martes 21 de abril de 2015.
 
@@ -47,13 +47,17 @@ Objeto
 
 La presente Ley es de orden público e interés social y tiene por objeto:
 
-I. Regular la protección de los animales domésticos de cualquier acto de maltrato que les cause daño o sufrimiento;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+I. Regular la protección de los animales domésticos de cualquier acto de maltrato que les cause daño o sufrimiento y garantizar el bienestar animal;
 
 II. Promover, a través de la educación y concientización de la sociedad, el respeto, cuidado y consideración hacia los animales domésticos;
 
 III. Instrumentar la política estatal sobre la conservación y aprovechamiento sustentable, así como de información y difusión, en materia de fauna silvestre en congruencia con la política nacional en la materia;
 
-IV. Regular el funcionamiento de los Centros de Control y Asistencia Animal; y
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+IV. Regular el funcionamiento de los Centros de Control y Asistencia Animal y de las Clínicas Veterinarias Públicas; y
 
 V. Fomentar la participación de los sectores privado y social para el cumplimiento de los objetivos de esta Ley.
 
@@ -69,13 +73,31 @@ I. Animales domésticos: Los seres sintientes que son criados bajo el control de
 
 II. Animales ferales: las especies domésticas que al quedar fuera del control del hombre, se establecen en el hábitat natural de la vida silvestre;
 
-III. Centro de Control y Asistencia Animal: los establecimientos de servicio público, destinados para la captura, resguardo y puestos para adopción, en su caso, para el sacrificio humanitario de animales domésticos y ferales, en donde además se pueden ofrecer los servicios de esterilización, orientación, vacunación, desparasitación y clínica a los animales que así lo requieran; además, aquellas acciones encaminadas para la prevención de la rabia y acciones análogas;
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2024)</small>
 
-IV. Sacrificio humanitario: es el acto que provoca la muerte sin sufrimiento a los animales domésticos de manera rápida, mediante métodos físicos o químicos y por personal capacitado;
+III. Bienestar animal: conjunto de actividades encaminadas a proporcionar comodidad, tranquilidad, protección y seguridad a los animales domésticos durante su crianza y sacrificio.
 
-V. Sufrimiento: el daño, dolor o enfermedad causada a un animal por cualquier motivo; y
+> <small>(REFORMADA Y REUBICADA [N. DE E ANTES FRACCIÓN III], P.O. 2 DE AGOSTO DE 2024)</small>
 
-VI. Trato adecuado: el conjunto de medidas que debe observar toda persona para disminuir el sufrimiento de los animales durante su crianza, captura, traslado, exhibición, cuarentena, experimentación, comercialización, adiestramiento y sacrificio.
+IV. Centro de Control y Asistencia Animal: los establecimientos de servicio público, destinados para la captura, resguardo y puestos para adopción, en su caso, para el sacrificio humanitario de animales domésticos y ferales, en donde se pueden ofrecer los servicios de esterilización; además, aquellas acciones encaminadas para la prevención de la rabia y acciones análogas; así como, dependiendo de la suficiencia presupuestal y operativa, podrán prestar el servicio de cremación y compostaje de cadáveres;
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+V. Clínicas Veterinarias Públicas: establecimientos públicos que tienen como objeto el orientar y suministrar a los animales atención médica preventiva como lo es la vacunación y desparasitación y, en caso de enfermedad, brindar tratamiento médico expedito avalado por un médico veterinario.
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+VI. Cremación: es la incineración comunitaria o individual del cadáver de un animal doméstico o feral hasta su reducción a cenizas.
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+VII. Compostaje: es el proceso ecológico de descomposición del cadáver de un animal doméstico o feral hasta su trasformación en abono o enmienda orgánica.
+
+VIII. Sacrificio humanitario: es el acto que provoca la muerte sin sufrimiento a los animales domésticos de manera rápida, mediante métodos físicos o químicos y por personal capacitado;
+
+IX. Sufrimiento: el daño, dolor o enfermedad causada a un animal por cualquier motivo; y
+
+X. Trato adecuado: el conjunto de medidas que debe observar toda persona para disminuir el sufrimiento de los animales durante su crianza, captura, traslado, exhibición, cuarentena, experimentación, comercialización, adiestramiento y sacrificio.
 
 Supletoriedad
 
@@ -125,7 +147,9 @@ Atribuciones de los ayuntamientos
 
 Los ayuntamientos tienen las siguientes atribuciones:
 
-I. Dictar las disposiciones de carácter reglamentario para la aplicación de la presente Ley, así como para el funcionamiento de los Centros de Control y Asistencia Animal, en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+I. Dictar las disposiciones de carácter reglamentario para la aplicación de la presente Ley, así como para el funcionamiento de los Centros de Control y Asistencia Animal y, de las Clínicas Veterinarias Públicas, en el ámbito de su competencia;
 
 II. Emitir placas de identificación de animales domésticos, conforme al reglamento municipal de la materia, las que contendrán por lo menos el nombre del animal, su fecha de vacunación antirrábica, así como el nombre y domicilio del propietario;
 
@@ -137,9 +161,13 @@ IV. Ordenar la práctica de visitas de inspección y vigilancia con el objeto de
 
 V. Vigilar que el sacrificio de los animales domésticos se lleve a cabo en los términos de la presente Ley y demás disposiciones jurídicas aplicables;
 
-VI. Impulsar campañas de educación y concientización para el trato adecuado a los animales;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2024)</small>
 
-VII. Implementar campañas de vacunación antirrábicas, campañas sanitarias para el control y erradicación de enfermedades, de desparasitación y de esterilización, en coordinación con las autoridades sanitarias del Estado o la Federación;
+VI. Impulsar campañas de educación y concientización para el bienestar animal y el trato adecuado a los animales, en las cuales pueda participar la ciudadanía;
+
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+VII. Implementar campañas de vacunación antirrábicas, campañas sanitarias para el control y erradicación de enfermedades, de desparasitación y en la medida de lo posible de esterilización gratuitas, en coordinación con las autoridades sanitarias del Estado o la Federación;
 
 VIII. Ejercer por conducto de la dependencia o entidad municipal que corresponda, las atribuciones conferidas en esta Ley;
 
@@ -147,7 +175,15 @@ IX. Recibir denuncias, entregar número de reporte y dar solución sobre maltrat
 
 X. Coordinarse con las autoridades federales y estatales competentes, en las materias relativas al objeto de la presente Ley; y
 
-XI. Las demás que se deriven de esta Ley y demás disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+XI. Prestar el servicio de cremación y compostaje de animales domésticos y ferales;
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+XII. Difundir medidas de prevención y control que deben llevar a cabo los propietarios o poseedores de animales domésticos ante su deceso; y
+
+XIII. Las demás que se deriven de esta Ley y demás disposiciones jurídicas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -183,7 +219,9 @@ Obligaciones de las autoridades
 
 Son obligaciones en común de las autoridades de la presente Ley, las siguientes:
 
-I. Reconocer a los animales domésticos como seres sintientes por lo que se deberán realizar acciones para su trato adecuado;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+I. Reconocer a los animales domésticos como seres sintientes por lo que se deberán realizar acciones para su bienestar animal y trato adecuado;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2023)</small>
 
@@ -251,11 +289,15 @@ Colaboración con las autoridades
 
 Las sociedades o asociaciones protectoras de animales y los médicos veterinarios podrán colaborar con las autoridades municipales y sanitarias en las campañas de vacunación antirrábica, desparasitación, esterilización, promoción de la cultura de respeto a los animales y demás acciones que implementen, para el desarrollo de las políticas en la materia de esta Ley.
 
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2024)</small>
+
 Convenios de coordinación
 
 ###### Artículo 13.
 
-Los ayuntamientos podrán celebrar convenios de coordinación con sociedades y asociaciones protectoras de animales, legalmente constituidas, para apoyar en la captura, resguardo, esterilización, orientación, vacunación, desparasitación, clínica y en su caso, sacrificio humanitario de animales domésticos y federales encontrados en la vía pública o los entregados por sus dueños, para remitirlos a los Centros de Control y Asistencia Animal o a los refugios autorizados.
+Los ayuntamientos podrán celebrar convenios de coordinación con sociedades y asociaciones protectoras de animales, legalmente constituidas, para apoyar en la captura, resguardo, esterilización, orientación, vacunación, desparasitación, clínica y en su caso, sacrificio humanitario de animales domésticos y ferales encontrados en la vía pública o los entregados por sus dueños, para remitirlos a los Centros de Control y Asistencia Animal o a los refugios autorizados, quienes podrán recibir apoyos para el resguardo de los animales.
+
+Asimismo, los ayuntamientos podrán celebrar convenios con universidades o centros educativos que cuenten con carreras afines al cumplimiento de esta Ley, para efecto de que sus estudiantes brinden servicio social en los Centros de Control y Asistencia Animal o en la dependencia o entidad municipal que corresponda.
 
 ## TÍTULO SEGUNDO. POLÍTICAS ESTATAL Y MUNICIPAL EN MATERIA ANIMAL
 
@@ -313,7 +355,9 @@ I. Reconocer a los animales domésticos como seres sintientes y respetar su vida
 
 II. Proteger a los animales brindándoles asistencia, auxilio y trato adecuado;
 
-III. Evitar a los animales el sufrimiento, lesiones, tortura, actos de crueldad o maltrato;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+III. Evitar a los animales el sufrimiento, lesiones, tortura, actos de crueldad o maltrato o de zooerastia;
 
 IV. Participar en la cultura de cuidado, trato adecuado y responsable de los animales; y
 
@@ -333,7 +377,9 @@ Obligaciones de los propietarios y poseedores
 
 Los propietarios y poseedores de animales deberán:
 
-I. Procurarles la alimentación, atención sanitaria y las condiciones de trato adecuado que esta Ley establece;
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+I. Procurarles la alimentación e hidratación suficiente, a efecto de mantenerlos sanos y con una nutrición adecuada, atención sanitaria y las condiciones de trato adecuado que esta Ley establece;
 
 II. Obtener de la autoridad municipal correspondiente, o por medios propios, la placa de identificación del animal doméstico y colocarla permanentemente;
 
@@ -346,6 +392,18 @@ V. Cubrir los daños que cause el animal, en los términos de las disposiciones 
 VI. Impedir que sus animales entren a propiedades privadas y si lo hacen y excretan, el propietario o poseedor del animal, deberá asear el sitio o pagar su aseo; y
 
 VII. Retirar de la vía pública las excretas del animal.
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+VIII. Proporcionar al animal los cuidados veterinarios preventivos, y de diagnóstico adecuado, así como un tratamiento rápido, para evitar el dolor, las lesiones o enfermedades al animal;
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+IX. Proporcionar al animal un espacio, abrigo contra la intemperie, alojamiento adecuado acorde a su especie, que le permita libertad de movimientos según su talla y peso; y
+
+> <small>(ADICIONADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+X. Cumplir con las disposiciones correspondientes establecidas en la presente Ley y demás ordenamientos jurídicos aplicables.
 
 Animal feroz o peligroso
 
@@ -487,7 +545,9 @@ Condiciones para el adiestramiento
 
 Para el adiestramiento o entrenamiento de animales, queda prohibido utilizar técnicas que les causen sufrimiento, así como emplear métodos de castigo como golpes o prácticas de maltrato animal. Para verificar la agresividad de animales queda prohibido utilizar para dicho fin a otros animales vivos, así como las técnicas o métodos antes señalados.
 
-#### Sección Sexta. Centros de Control y Asistencia Animal
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE AGOSTO DE 2024)</small>
+
+#### Sección Sexta. Centros de Control y Asistencia Animal y Clínicas Veterinarias Públicas
 
 Procurar el establecimiento
 
@@ -511,11 +571,17 @@ VII. Separar y atender a los animales domésticos y ferales que capturen y esté
 
 VIII. Llevar un control y estadística de los servicios que preste el Centro; y
 
-IX. Las demás que se señalen en el reglamento que para tal efecto expida el Ayuntamiento, así como las Normas Oficiales Mexicanas.
+> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2024)</small>
+
+IX. Las demás que se señalen en la presente Ley, en el reglamento que para tal efecto expida el Ayuntamiento, así como en las Normas Oficiales Mexicanas.
+
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2024)</small>
 
 Infraestructura
 
-Artículo 39 Los Centros de Control y Asistencia Animal contarán con la infraestructura necesaria para brindar a los animales domésticos que ahí se resguarden una estancia adecuada, segura y saludable. Se procurará que el Centro esté a cargo de un médico veterinario, con título profesional.
+###### Artículo 39.
+
+Los Centros de Control y Asistencia Animal y las Clínicas Veterinarias Públicas contarán con la infraestructura necesaria para brindar a los animales domésticos que ahí se resguarden una estancia adecuada, segura y saludable. Se procurará que el Centro y la Clínica esté a cargo de un médico veterinario, con título profesional.
 
 Aseguramiento del animal
 
@@ -652,6 +718,32 @@ Vacunación obligatoria
 ###### Artículo 56.
 
 Es obligación de los propietarios o poseedores de animales domésticos vacunarlos para evitar la transmisión de enfermedades al ser humano o que pongan en riesgo la salud.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE AGOSTO DE 2024)</small>
+
+#### Sección Décima Primera. Cremación y compostaje
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2024)</small>
+
+Servicio de cremación y compostaje
+
+Artículo 56 bis. El servicio de cremación y compostaje de cadáveres de animales domésticos se prestará por la autoridad municipal a través de los Centros de Control y Asistencia Animal o la dependencia o entidad municipal que corresponda, previo pago de la contribución.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2024)</small>
+
+Tipos de cremación
+
+Artículo 56 ter. La cremación de cadáveres de animales domésticos podrá ser de dos tipos:
+
+I. Comunitaria: es aquella en la que no existe rescate de cenizas; o
+
+II. Individual: es aquella en la que existe rescate de cenizas.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2024)</small>
+
+Compostaje
+
+Artículo 56 quater. Los Centros de Control y Asistencia Animal o la dependencia o entidad municipal que corresponda, de conformidad con las Normas Oficiales Mexicanas, determinará el protocolo para el compostaje de los cadáveres de animales.
 
 ### CAPÍTULO IV. Denuncia ciudadana
 
@@ -936,3 +1028,23 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Adecuaciones reglamentarias y presupuesto
 
 SEGUNDO. El titular del Poder Ejecutivo y los ayuntamientos, en el ámbito de sus respectivas competencias y en un plazo no mayor de 180 días contados a partir de la entrada en vigor de este Decreto, deberán realizar la emisión o actualización reglamentaria correspondiente, así como asignar de manera progresiva recursos presupuestales necesarios para garantizar la implementación de la infraestructura, insumos, acciones y actividades de la unidad canina y equina conforme las reformas aprobadas.
+
+P.O. 2 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 336 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN ANIMAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno de! Estado de Guanajuato.
+
+Adecuaciones a disposiciones municipales
+
+Artículo Segundo. Los ayuntamientos contarán con un plazo de ciento ochenta días posteriores a la entrada en vigor del presente Decreto para adecuar sus reglamentos y demás disposiciones, en congruencia con el mismo.
+
+Establecimiento de contribuciones
+
+Artículo Tercero. Los ayuntamientos podrán establecer en sus respectivas leyes de ingresos la contribución por concepto del servicio público de cremación y compostaje.
+
+Previsiones presupuestales
+
+Artículo Cuarto. Los municipios destinarán de manera progresiva, los recursos necesarios y suficientes para dar cumplimiento a las disposiciones del presente decreto.
