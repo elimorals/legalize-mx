@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-judicial-del-estado-libre-y-soberano-164
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-05-24"
-last_updated: "2022-04-29"
+last_updated: "2024-08-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el 24 de mayo de 2000.
 
@@ -1575,13 +1575,27 @@ X.- Los Coordinadores, Jefes y Subjefes de Departamento u Oficina; y
 
 XI.- En general todo aquel Servidor Público que ejecute una función de Dirección o Administración dentro del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 71.
 
-Los magistrados del Tribunal Superior de Justicia al retirarse tendrán derecho a un haber de retiro de carácter vitalicio equivalente al cien por ciento durante los dos primeros años y al setenta por ciento durante el resto del tiempo, del ingreso mensual que corresponda a los magistrados en activo.
+Los Magistrados y jueces del Tribunal Superior de Justicia al término de su nombramiento, retirarse de manera voluntaria o forzosa tendrán derecho a un haber de retiro.
 
-Cuando los magistrados se retiren sin haber cumplido quince años en el ejercicio del cargo, tendrán derecho a la remuneración a que se refiere el párrafo anterior de manera proporcional al tiempo de su desempeño en el ejercicio del cargo.
+El haber de retiro no se otorgará en los casos que el magistrado o juez sea privado de su cargo en forma definitiva por sanción, de conformidad con las disposiciones de la Constitución Política del Estado, la Ley Orgánica del Poder Judicial, la Ley de Responsabilidades Administrativas para el Estado de Guerrero y la Ley de Responsabilidades Políticas, Civiles y Penales de los Servidores Públicos del Estado de Guerrero.
+
+El Tribunal Superior de Justicia del Estado deberá establecer en su proyecto de presupuesto de egresos los recursos necesarios para hacer frente al haber de retiro.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2024)</small>
+
+###### ARTICULO 71 Bis.
+
+El Haber de Retiro consiste en una prestación económica personalísima e intransferible, que se cubrirá mediante único pago, en una sola exhibición, el cual se integrará por lo siguiente:
+
+I. El equivalente a tres meses de remuneraciones que el Magistrado o Juez percibía al momento de su terminación de cargo o de retiro, y
+
+II. El equivalente a un mes de remuneración por cada dos años de servicios prestados como Magistrado o Juez.
+
+Cuando la persona que ocupe el cargo de Magistrado provenga de carrera judicial, haya sido juez o trabajador del Poder Judicial del Estado, sus derechos laborales y retiro le serán respetados independientemente del haber de retiro como Magistrado o juez.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE AGOSTO DE 2014)</small>
 
@@ -3058,3 +3072,17 @@ QUINTO.- El Consejo de la Judicatura y el Tribunal Superior de Justicia, en su c
 SEXTO.- El Consejo de la Judicatura y el Tribunal Superior de Justicia, en su caso, deben elaborar y/o actualizar el Acuerdo y/o Reglamento correspondiente, en un término no mayor a noventa días a partir de la entrada en vigor del presente decreto.
 
 SÉPTIMO.- Publíquese y désele amplia difusión a través de la Dirección de Comunicación del Honorable Congreso del Estado Libre y Soberano de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor conocimiento.
+
+P.O. 2 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 836 POR EL QUE SE REFORMA EL ARTÍCULO 71 Y SE ADICIONA EL ARTÍCULO 71 BIS A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 129”.]
+
+PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del estado de Guerrero.
+
+SEGUNDO.- Las disposiciones del presente Decreto no tendrán efectos retroactivos en perjuicio de los servidores públicos judiciales designados con fecha anterior, quienes habrán de retirarse conforme a las normas aplicables al momento de su nombramiento, personas magistradas y jueces de primera instancia, en activo o en situación de retiro forzoso o voluntario con derecho de haber de retiro; debiendo de observarse las presentes reformas para quienes sean designadas posterior a su entrada en vigor.
+
+TERCERO.- Remítase a la Titular del Poder Ejecutivo del Estado para para (sic) su conocimiento y efectos legales correspondientes.
+
+CUARTO.- Envíese copia al Titular del Poder Judicial y del Consejo de la Judicatura del Estado para los efectos a que haya lugar.
+
+QUINTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y en la Gaceta de esta Soberanía, para conocimiento general y efectos legales procedentes.
