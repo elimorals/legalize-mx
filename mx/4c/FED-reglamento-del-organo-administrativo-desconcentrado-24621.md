@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-organo-administrativo-desconcentrado-24621"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-06"
-last_updated: "2002-05-06"
+last_updated: "2024-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24621&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2002-04-29"
 ---
 # REGLAMENTO DEL ORGANO ADMINISTRATIVO DESCONCENTRADO PREVENCION Y READAPTACION SOCIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO DEL ÓRGANO ADMINISTRATIVO DESCONCENTRADO PREVENCIÓN Y REINSERCIÓN SOCIAL, PUBLICADO EN EL D.O.F. DE 2 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 REGLAMENTO DEL ORGANO ADMINISTRATIVO DESCONCENTRADO PREVENCION Y READAPTACION SOCIAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE AGOSTO DE 2024 (DEROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el lunes 6 de mayo de 2002.
 
@@ -758,3 +760,25 @@ PRIMERO.- El presente ordenamiento entrará en vigor al día siguiente de su pub
 SEGUNDO.- En virtud de que el órgano administrativo desconcentrado denominado Patronato para la Reincorporación Social por el Empleo en el Distrito Federal, se integró a la estructura del Órgano Administrativo Desconcentrado Prevención y Readaptación Social, por disposición del Transitorio Tercero del Reglamento Interior de la Secretaría de Seguridad Pública publicado en el Diario Oficial de la Federación el 6 de febrero de 2001, toda mención a dicho patronato en otras disposiciones se entenderá referida a la Dirección General de Instituciones Abiertas, Prevención y Readaptación Social.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintinueve días del mes de abril de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Seguridad Pública, Alejandro Gertz Manero.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 2 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL ÓRGANO ADMINISTRATIVO DESCONCENTRADO PREVENCIÓN Y REINSERCIÓN SOCIAL".]
+
+PRIMERO. El presente Decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se deroga el artículo segundo del Decreto por el que se expiden los Reglamentos del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública y del Órgano Administrativo Desconcentrado Prevención y Readaptación Social, publicado en el Diario Oficial de la Federación el 6 de mayo de 2002.
+
+TERCERO. La normativa en vigor que fue expedida con fundamento en el reglamento anterior, continuará vigente en lo que no se oponga a las disposiciones de este reglamento que se expide, hasta que se expida la nueva normativa que la sustituya.
+
+CUARTO. Las menciones que en otros ordenamientos reglamentarios o de inferior jerarquía normativa en los que se haga mención al órgano administrativo desconcentrado "Prevención y Readaptación Social" deben entenderse hechas al de "Prevención y Reinserción Social", de conformidad con el presente decreto.
+
+QUINTO. Prevención y Reinserción Social debe realizar los ajustes correspondientes, a efecto de prever las erogaciones que correspondan al funcionamiento y operación de Prevención y Reinserción Social. Asimismo, la persona titular de Prevención y Reinserción Social, conforme a los lineamientos de la Unidad de Administración y Finanzas de la Secretaría y la disponibilidad presupuestaria, debe asignar los recursos financieros, materiales y humanos para su funcionamiento.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, así como las modificaciones a las facultades conferidas o a la estructura orgánica de Prevención y Reinserción Social, deberán cubrirse, con cargo a su presupuesto aprobado para el presente ejercicio fiscal y subsecuentes; mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de la Secretaría de Seguridad y Protección Ciudadana.
+
+SÉPTIMO. Las referencias y atribuciones que se hacen y se otorgan, respectivamente, en otras disposiciones reglamentarias u ordenamientos de inferior jerarquía normativa a las unidades administrativas de Prevención y Reinserción Social que desaparecen o cambian de denominación con motivo de la entrada en vigor del presente decreto, se entiende que se hacen o se otorgan a las Unidades Administrativas competentes de conformidad con este ordenamiento.
+
+OCTAVO. Los asuntos que a la entrada en vigor del presente decreto se encuentren en trámite o pendientes de conclusión, deben ser atendidos por las unidades administrativas a las que se les da competencia de conformidad con este ordenamiento, previa formalización de las actas de transferencia que correspondan, en términos de la normativa aplicable.
