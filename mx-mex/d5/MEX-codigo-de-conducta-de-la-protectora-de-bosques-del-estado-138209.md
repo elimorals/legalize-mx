@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-de-la-protectora-de-bosques-del-estado-13820
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-06"
-last_updated: "2019-09-06"
+last_updated: "2024-08-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,782 +21,1502 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MEXICO
 
-CÓDIGO DE CONDUCTA DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO
+LEY GANADERA PARA EL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2013.
 
-Código publicado en la Sección Primera al Número 46 de la Gaceta del Gobierno del Estado de México, el viernes 6 de septiembre de 2019.
+Ley publicada en la Segunda del Periódico Oficial del Estado de Puebla, el lunes 4 de septiembre de 2006.
 
-CARTA DE PRESENTACIÓN DEL TITULAR DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO
+DECRETO del Honorable Congreso del Estado, por el que expide la LEY GANADERA PARA EL ESTADO DE PUEBLA.
 
-Metepec, México; julio de 2019
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado de Puebla.- LVI Legislatura.
 
-SERVIDORES PÚBLICOS DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO
+LICENCIADO MARIO P. MARÍN TORRES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a sus habitantes sabed:
 
-P R E S E N T E S
+Que por la Secretaría del H. Congreso, se me ha remitido el siguiente:
 
-Presento a ustedes el Código de Conducta y las Reglas de Integridad, como instrumento que permite a todas las personas servidoras púbicas de la Protectora de Bosques del Estado de México, regirse por los Principios, Valores y Reglas de Integridad contenidos en el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México y sus Organismo (sic) Auxiliares, que se presentan en este documento, para poder así delimitar las acciones que deben observarse entre nosotros, y así mismo fortalecer la transparencia y la prevención de la corrupción, garantizando el adecuado cumplimiento de los catorce principios rectores del servicio público establecidos en el artículo 5° de la Ley del Sistema Anticorrupción del Estado de México y Municipios, los once principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia, y las diez directrices que señala el artículo 7° de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, que den como resultado una conducta digna, generando condiciones que propicien la igualdad de oportunidades entre las personas.
+EL HONORABLE QUINCUAGÉSIMO SEXTO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-El Código de Conducta y Reglas de Integridad son de observancia general y de cumplimiento obligatorio para las y los servidores públicos sin importar el régimen de contratación.
+CONSIDERANDO
 
-A T E N T A M E N T E
+Por lo anteriormente expuesto y con fundamento en lo dispuesto por los artículos 57 fracción I, 63 fracción II, 64 Y 67 de la Constitución Política del Estado Libre y Soberano de Puebla; 43 fracciones I y III, 69 fracción II, 70 y 71 de la Ley Orgánica del Poder Legislativo del Estado; 20, 21 y 24 fracciones I y III del Reglamento Interior del H. Congreso del Estado, se expide la siguiente:
 
-LIC. EDGAR CONZUELO CONTRERAS
+LEY GANADERA PARA EL ESTADO DE PUEBLA
 
-DIRECTOR GENERAL DE PROBOSQUE
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-(RÚBRICA).
+### CAPÍTULO I. OBJETO Y APLICACIÓN DE LA LEY
 
-CÓDIGO DE CONDUCTA DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-1. PROEMIO
+###### Artículo 1.
 
-El 12 de octubre de 2018, se publicó en el Diario Oficial de la Federación, el Acuerdo por el que se dan a conocer los Lineamientos para la emisión del Código de Ética a que se refiere el artículo 16 de la Ley General de Responsabilidades Administrativas, el cual establece observancia obligatoria y su aplicación de carácter general, para los entes públicos de todos los órdenes de gobierno, de conformidad con lo establecido en el artículo 5 de la Ley General del Sistema Nacional Anticorrupción, a través de las (sic) Secretaría de la Contraloría y los Órganos Internos de Control de las dependencias y Organismos auxiliares.
+La presente Ley es de orden público e interés social, sus disposiciones son de observancia general y obligatoria en el territorio del Estado de Puebla y tiene por objeto apoyar en la planeación, organización, fomento, protección, producción, reproducción, crianza y mejoramiento de la ganadería, así como lo relativo a la sanidad animal, inocuidad y calidad agroalimentaria.
 
-Y de conformidad con lo previsto en los artículos 130 bis de la Constitución Política del Estado Libre y Soberano de México, 5° de la Ley del Sistema Anticorrupción del Estado de México y Municipios y 7° de la Ley de Responsabilidades Administrativas del Estado de México y Municipios, los cuales establecen que todo servidor público sin perjuicio de sus derechos y obligaciones laborales deberán observar en el desempeño de su empleo, cargo o comisión, los principios de legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, eficiencia, eficacia, equidad, transparencia, economía, integridad, competencia por méritos y rendición de cuentas.
+Las actividades de sanidad animal tienen como finalidad el diagnosticar y prevenir la introducción, permanencia y diseminación de enfermedades y plagas que afecten la salud o la vida de los animales, protegiendo la salud humana.
 
-A la Ley de Responsabilidades Administrativas del Estado de México y Municipios, en los artículos 2 fracciones I y IV; y 17, respectivamente, indica como parte de su objeto establecer los principios y obligaciones que rigen la actuación de los servidores públicos; así como la determinación de los mecanismos para la prevención, corrección e investigación de responsabilidades administrativas; y de igual manera la emisión y observancia del Código de Conducta, para que en su actuación impere una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño.
+Para todo lo no previsto en esta Ley, se aplicará de forma supletoria la Ley Federal de Sanidad Animal.
 
-Y al Plan de Desarrollo del Estado de México 2017-2023 que, en su eje transversal segundo, denominado: “Gobierno Capaz y Responsable”, contempla como Objetivo: Promover Instituciones de Gobierno Transparentes y que rindan cuentas, y establece como estrategia para tal fin, la de: “Fortalecer el programa de servicio público sustentado en principios y valores éticos de las y los servidores públicos”.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-El pasado 02 de abril de 2019, fue publicado el Acuerdo del Ejecutivo del Estado por el que se expide el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México y su Organismos Auxiliares con el objetivo de fortalecer la ética, transparencia y prevención de la corrupción; al respecto, se señalan los 14 principios rectores, contenidos en el artículo 5° de la Ley del Sistema Anticorrupción del Estado de México y Municipios; y las 11 directrices para la efectiva aplicación de dichos principios, contenidos en el artículo 7° de la Ley de Responsabilidades Administrativas del Estado de México y Municipios; que den por resultado una conducta digna, generando condiciones que hagan posible la igualdad de oportunidades entre las personas, erradicando la discriminación y actos de violencia; así como también se establece en el Reglamento Interno y Manual General de Organización.
+###### Artículo 2.
 
-Es por lo anterior que, el Comité de Ética de PROBOSQUE, con base en la Guía para la Elaboración de los Códigos de Conducta y Reglas de Integridad de las Dependencias y Organismos Auxiliares del Estado de México, publicada en Gaceta de Gobierno el pasado 5 de julio del 2019, llevó a cabo la actualización del Código de Conducta del Organismo, mismo que es de observancia general y de cumplimiento obligatorio para todas las personas servidoras públicas sin importar el régimen de contratación.
+Para el logro del objeto de esta Ley, se considera de orden público e interés social:
 
-2. OBJETO
+I.- Las vías pecuarias;
 
-Orientar y regular las relaciones de las y los servidores públicos de PROBOSQUE a fin de asumir cabalmente compromisos personales y laborales de integridad y honestidad, enfocados a la ética, honradez, legalidad, lealtad, imparcialidad y eficiencia que permitan evitar la discriminación en el desempeño de sus empleos, cargos o comisiones.
+II.- La pasteurización de leche de bovino, ovino y caprino para el consumo humano y/o transformación, así como la de sus productos y subproductos;
 
-3. GLOSARIO
+III.- El abastecimiento de productos cárnicos;
 
-El término “servidores públicos” empleado en la redacción representa a mujeres y hombres, por lo que su uso no debe considerarse una distinción sexista del lenguaje.
+IV.- La conservación, protección y fomento de las plantas nectaríferas y poliníferas;
 
-Proemio: Prólogo, discurso antepuesto al cuerpo de un libro o texto.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Código de Ética y Conducta: Documento emitido por el Titular de la Protectora de Bosques del Estado de México, el cual contempla un conjunto de normas legales y morales que regulan el actuar del servidor público.
+V.- El desarrollo de las actividades de sanidad animal;
 
-Conflicto de Intereses: Afectación del desempeño de las funciones de los Servidores Públicos debido a intereses personales, laborales, familiares o de negocios.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Denuncia: Manifestación por la que una persona hace del conocimiento de las autoridades, actos u omisiones de algún servidor público que pudieran transgredir el Código de Ética.
+VI.- Vigilar el no uso de sustancias prohibidas en la engorda animal;
 
-Ley: Ley de Responsabilidades Administrativas del Estado de México y Municipios y/o Ley del Sistema de Anticorrupción del Estado de México y Municipios.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Personas servidoras públicas: Aquéllas que desempeñan un empleo, cargo o comisión en las dependencias y organismos auxiliares.
+VII.- El desarrollo de actividades fomentando el bienestar animal;
 
-Principios Rectores: Principios de observancia general para personas servidoras públicas en el desempeño de su empleo, cargo o comisión, contenidos en el artículo 5 de la Ley del Sistema Anticorrupción del Estado de México y Municipios, así como en el artículo 7 de la Ley de Responsabilidades Administrativas del Estado de México y Municipios.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Reglas de Integridad: Pautas y prioridades que deben guiar la actuación de las personas servidoras públicas adscritas jerárquica y funcionalmente a la Protectora de Bosques del Estado de México en el ámbito del servicio público.
+VIII.- Establecer los procedimientos que faciliten la trazabilidad y rastreabilidad de animales, sus productos y subproductos;
 
-PROBOSQUE: Protectora de Bosques del Gobierno del Estado de México.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Órganos Internos de Control: Unidades administrativas en las dependencias y organismos auxiliares, encargadas de promover, evaluar y fortalecer el buen funcionamiento aplicando las leyes en materia de responsabilidades de los servidores públicos; dependientes jerárquica y funcionalmente de la Secretaría de la Contraloría.
+IX.- Las campañas zoosanitarias; y
 
-Valores: Cualidades de los Servidores Públicos contenidos en el Código de Ética, que deben ser antepuestos en el desempeño de su empleo, cargo o comisión.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Confidencialidad de la Información: Garantía de que la información personal será reservada.
+X.- La conservación y aprovechamiento de aguas, suelos y pastos.
 
-Entorno: Conjunto de circunstancias, factores y características que influyen en el estado o desarrollo de un ambiente.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Comité: Comité de Ética.
+###### Artículo 3.
 
-Ética: Conjunto de normas que rigen la conducta de una persona en cualquier ámbito de su vida.
+Para los efectos de esta Ley se entenderá por:
 
-Principios de Conducta: Reglas que orientan la acción del ser humano. Se trata de normas de carácter universal.
+I.- ABASTO.- Se refiere al sacrificio de animales para consumo humano, el cual debe realizarse en los centros de sacrificio autorizados por la autoridad competente;
 
-Honestidad: Cualidad humana que (sic) basada en la justicia, integridad y rectitud respetando las normas y leyes establecidas.
+II.- ABEJA.- Insecto himenóptero apis mellífera spp;
 
-Respeto: Reconocer el derecho hacia la opinión, el actuar y pensar de otra persona.
+III.- ABEJA REINA.- Abeja hembra sexualmente desarrollada, cuya función principal es depositar huevos fértiles e infértiles en las celdas del panal, así como regir la vida de la colonia;
 
-Servicio: Condición de desempeñar alguna actividad encomendada.
+IV.- ABREVADERO.- Bebedero natural, estanque o bordo común donde el ganado se puede proveer de agua de manera rutinaria;
 
-Trabajo en equipo: Actividad realizada por varias personas con un objetivo en común.
+V.- ACTIVIDAD GANADERA.- Conjunto de acciones para la explotación racional de especies animales orientadas a la producción de carne, leche, huevo, miel, piel, lana, especies acuícolas y otras de interés zootécnico, con la finalidad de satisfacer necesidades vitales o del desarrollo humano;
 
-Transparencia: Obligación de rendición de cuentas de acciones realizadas en períodos específicos.
+VI.- ANIMALES TRASHERRADOS.- Animales herrados de manera dolosa más de una vez, con el fin de ocultar el herraje original;
 
-Eficiencia: Cumplimiento de actividades encomendadas en tiempo y forma.
+VII.- ANIMALES MOSTRENCOS.- Animales sin dueño o propietario conocido, o en su caso, sin herrar o sin marca a fuego;
 
-Prevención: Preparación y disposición que se hace anticipadamente para evitar un riesgo o ejecutar algo.
+VIII.- APIARIO.- Conjunto de colmenas ubicadas en un lugar determinado;
 
-Conflicto de Intereses: Incompatibilidad entre las obligaciones públicas y los intereses privados del servidor público buscando un beneficio propio o de terceros.
+IX.- APIARIO FAMILIAR.- Colmenas de un productor nativo del lugar, ubicadas en terreno o terrenos de su propiedad o de su parcela ejidal, con un máximo de diecinueve colmenas;
 
-Corrupción: Uso inapropiado de poder público encomendado para obtener beneficios propios o de terceros.
+X.- APICULTOR.- Persona física o jurídica que se dedique a la cría, manejo, explotación, comercialización y mejoramiento de las abejas;
 
-Reglas de integridad: Conductas para el ejercicio del empleo, cargo o comisión de los servidores públicos del Estado de México.
+XI.- APICULTURA.- Conjunto de actividades concernientes a la cría, sanidad y explotación racional de las abejas, sus productos y subproductos;
 
-4. BASE LEGAL
+XII.- APROVECHAMIENTO SUSTENTABLE.- Utilización de los recursos naturales en forma que se respete la integridad funcional y las capacidades de carga de los ecosistemas de los que forman parte dichos recursos, por periodos indefinidos;
 
-Constituciones
+XIII.- ARETE.- Objeto metálico o plástico que se fija en la oreja del ganado para su identificación individual, con fines productivos, sanitarios o de registro, así como para garantizar la trazabilidad y rastreabilidad del ganado;
 
-- Constitución Política del Estado Libre y Soberano de México
+XIV.- ARETE DE CAMPAÑA.- Arete metálico autorizado por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, para la identificación individual de animales, inscritos en una campaña determinada; así como la trazabilidad del ganado;
 
-Leyes
+XV.- ASOCIACIÓN GANADERA.- Organización que agrupa a ganaderos que se dedican a la explotación racional de una o varias especies animal, en un Municipio determinado;
 
-- Ley Federal del Trabajo
+XVI.- BIENESTAR ANIMAL.- Estado en que el animal tiene satisfechas sus necesidades biológicas, de salud, de comportamiento y fisiológicas frente a cambios en su ambiente, generalmente impuestos por el ser humano;
 
-- Ley Federal de Derechos
+XVII.- BORDOS.- Depósitos artificiales recaudadores de agua en los campos de cultivo que también pueden ser utilizados como abrevaderos;
 
-- Ley Federal de Procedimiento Administrativo
+XVIII.- CAMPAÑA ZOOSANITARIA.- Conjunto de acciones y medidas sanitarias, encaminadas a la prevención y/o erradicación de enfermedades de los animales;
 
-- Ley Federal de Responsabilidades de los Servidores Públicos
+XIX.- CADENAS PRODUCTIVAS.- Proceso donde convergen todos los agentes que participan en el eslabonamiento de la producción-transformación y consumo de los productos pecuarios y acuícolas;
 
-- Ley Federal para Prevenir y Eliminar la Discriminación
+XX.- CENTROS DE MEJORAMIENTO PECUARIO.- Establecimientos especializados en la cría y mejoramiento genético de cualquier especie ganadera con fines productivos;
 
-- Ley General para la Igualdad entre Mujeres y Hombres
+XXI.- CENTRO DE SACRIFICIO.- Establecimiento autorizado, donde se realiza el sacrificio de animales domésticos con fines alimenticios y comercialización de sus productos;
 
-- Ley de Igualdad de Trato y Oportunidades entre Mujeres y Hombres del Estado de México
+XXII.- CERCOS VIVOS.- Material vegetativo utilizado para la delimitación de predios ganaderos;
 
-- Ley Orgánica de la Administración Pública del Estado de México
+XXIII.- CERNIDEROS.- Lugar donde se recepcionan excretas y materia orgánica de origen aviar;
 
-- Ley de Responsabilidades Administrativas del Estado de México y Municipios
+XXIV.- CERTIFICADO ZOOSANITARIO.- Documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o los organismos de certificación acreditados y aprobados en términos de lo dispuesto por la Ley Federal sobre Metrología y Normalización, en el que se hace constar el cumplimiento de las disposiciones de sanidad animal;
 
-- Ley del Trabajo de los Servidores Públicos del Estado y Municipios
+XXV.- CINEGÉTICO.- Concepto aplicado para definir a aquellos animales silvestres señalados por la Ley General de Vida Silvestre susceptibles a ser aprovechados para actividades de cacería sustentable;
 
-- Ley para la Protección, Apoyo y Promoción a la Lactancia Materna del Estado de México
+XXVI.- COLMENA.- Equipo de madera u otro material adecuado con especificaciones estándar, que sirve de alojamiento a las abejas;
 
-- Ley del Sistema Anticorrupción del Estado de México y Municipios
+XXVII.- COLMENA POBLADA.- Habitación para las abejas hecha por el hombre que contiene una colonia de abejas fortalecida y en producción, con población fuerte de abejas obreras, zánganos y una abeja reina;
 
-- Acuerdo por el que se emite el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México, y sus Organismos Auxiliares " Publicado en Periódico Oficial, Gaceta del Gobierno, No.1021, de fecha 2 de abril de 2019
+XXVIII.- COMPARTIMENTO.- Designa una o varias explotaciones con un mismo sistema de bioseguridad, que contienen una población animal en la cual se han aplicado las medidas de vigilancia y control, requeridos para obtener un estatus zoosanitario diferente;
 
-Reglamentos
+XXIX.- CONTINGENCIA AMBIENTAL.- Situación de riesgo, derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-- Reglamento Interior de la Secretaría del Medio Ambiente
+XXX.- CONTINGENCIA ZOOSANITARIA.- Situación de riesgo en materia de salud animal;
 
-- Reglamento Interno de la Secretaría de Medio Ambiente y Recursos Naturales
+XXXI.- CONTROL.- Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-Manuales
+XXXII.- CONTROL SANITARIO.- Conjunto de medidas que tienen por objeto disminuir la incidencia o prevalencia de una enfermedad en los animales;
 
-– Manual General de Organización de la Protectora de Bosques del Estado de México
+XXXIII.- CONSEJO ESTATAL.- El Consejo Estatal para el Desarrollo Rural Sustentable;
 
-5. PRINCIPIOS DEL CÓDIGO DE ÉTICA
+XXXIV.- CUERPOS DE AGUA.- Agua superficial distribuida en ríos, lagos, pantanos y rebalses o depósitos artificiales;
 
-Principios que son de observancia general para todo el Servidor Público en el desempeño de su empleo, cargo o comisión, contenidos en el artículo 5 de la Ley del Sistema Anticorrupción del Estado de México y Municipios y artículo 7 de la Ley de Responsabilidades Administrativas del Estado de México y Municipios:
+XXXV.- CHIP.- Medio electrónico de identificación de especies animales;
 
-- Legalidad
+XXXVI.- DECLARATORIA OFICIAL.- Instrumento mediante el cual se legaliza el reconocimiento de una situación determinada;
 
-- Objetividad
+XXXVII.- DESARROLLO SUSTENTABLE.- El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-- Profesionalismo
+XXXVIII.- ESPECIES GANADERAS.- Conjunto de animales pertenecientes a cualquiera de las siguientes especies: bovinos, equinos, caprinos, ovinos, porcinos, aves, conejos, abejas, fauna acuática y otros animales que sean motivo de aprovechamiento zootécnico;
 
-- Honradez
+XXXIX.- FIERRO.- Instrumento de herrar a fuego o en frío en el cuerpo del animal que identifica de manera permanente al propietario del mismo;
 
-- Lealtad
+XL.- FLEJE SANITARIO.- Cinta metálica o plástica colocada en las puertas de embarque y desembarque de vehículos, como salvoconducto sanitario, para evitar el intercambio de mercancía desde su origen hasta su destino;
 
-- Imparcialidad
+XLI.- GANADERÍA.- Actividades consideradas dentro de los eslabones de la cadena productiva pecuaria tales como la producción, reproducción, crianza, desarrollo, engorda, sacrificio y mejoramiento de especies animales;
 
-- Eficiencia
+XLII.- GANADERO.- Persona física o jurídica que se dedica a la cría, producción, fomento y explotación racional de alguna especie animal;
 
-- Eficacia
+XLIII.- GANADERÍA DE AUTOCONSUMO.- Actividad familiar encaminada a la cría y el aprovechamiento de los animales para consumo propio;
 
-- Equidad
+XLIV.- GANADERÍA DE TRASPATIO.- Actividad familiar desarrollada en el ámbito domiciliario, encaminada a la cría y el aprovechamiento de los animales domésticos para fines de consumo propio y los excedentes para comercialización;
 
-- Transparencia
+XLV.- GUÍA DE TRÁNSITO.- Documento oficial estatal autorizado por la Secretaría para la movilización de animales, productos y subproductos pecuarios;
 
-- Economía
+XLVI.- GRANJAS LIBRES DE PATÓGENOS ESPECÍFICOS (SPF).- Infraestructura encaminada a la producción animal, altamente tecnificados y con estrictas medidas de bioseguridad donde se mantienen individuos libres de patógenos específicos;
 
-- Integridad
+XLVII.- IDENTIFICACIÓN SINIIGA.- Sistema Nacional de Identificación Individual de Ganado, el cual garantiza la trazabilidad y rastreabilidad del ganado;
 
-- Competencia por méritos
+XLVIII.- INSPECTOR.- Personal debidamente autorizado para llevar a cabo acciones de inspección y vigilancia, para comprobar que se cumplan con las medidas establecidas en la presente Ley y demás disposiciones legales aplicables;
 
-- Rendición de cuentas
+XLIX.- INSTALACIONES INDUSTRIALES.- Infraestructura y procesamiento industrial;
 
-Legalidad: Hacer sólo aquello que las normas expresamente confieren y en todo momento someter su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas le atribuyen en el ejercicio de las funciones, facultades y atribuciones conferidas.
+L.- INSTITUCIONES DE INVESTIGACIÓN.- Entidades públicas o privadas dedicadas a la investigación y desarrollo de métodos y técnicas que beneficien el sector ganadero del Estado;
 
-Objetividad: Preservar el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general, actuando de manera neutral e imparcial en la toma de decisiones, que a su vez deberán de ser informadas en estricto apego a la legalidad.
+LI.- INTERNACIÓN DE COLMENAS.- Traslado de colmenas pobladas de otras Entidades Federativas a territorio del Estado de Puebla;
 
-Profesionalismo: Conocer, actuar y cumplir con las funciones, atribuciones y comisiones encomendadas de conformidad con las leyes, reglamentos y demás disposiciones jurídicas, observando en todo momento disciplina, integridad y respeto a las personas con las que llegare a tratar.
+LII.- INOCUIDAD.- Conjunto de procedimientos encaminados a la producción de alimentos de origen animal libres de los riesgos resultantes de enfermedades trasmitidas por los alimentos o de la presencia de aditivos, contaminantes, toxinas u organismos patógenos en los productos alimenticios;
 
-Honradez: Conducirse con rectitud sin utilizar su empleo, cargo o comisión, para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes, que ello compromete sus funciones y que el ejercicio de cualquier empleo o cargo público implica un alto sentido de vocación y austeridad de servicio.
+LIII.- LEY.- Ley Ganadera para el Estado de Puebla;
 
-Lealtad: Corresponder a la confianza que el Estado les ha conferido, con una vocación absoluta de servicio a la sociedad y satisfaciendo el interés superior de las necesidades colectivas por encima de intereses particulares, personales o ajenos al interés general y bienestar de la población
+LIV.- MATANZA CLANDESTINA: El sacrificio de especies ganaderas fuera de los rastros municipales o lugares no autorizados;
 
-Imparcialidad: Brindar a la ciudadanía y a la población en general, el mismo trato, sin conceder privilegios o preferencias a organizaciones o personas, no permitir que influencias, intereses o prejuicios indebidos afecten su compromiso para tomar decisiones o ejercer sus funciones de manera objetiva.
+LV.- MATERIAL BIOLÓGICO APÍCOLA.- Individuos que integran la población de una colmena o núcleo de abejas formado por abeja reina, abejas obreras y zánganos, así como el semen debidamente preservado de éstos;
 
-Eficiencia: Actuar con apego a los planes y programas previamente establecidos y optimizar el uso y asignación de los recursos públicos, en el desarrollo de sus actividades para lograr los objetivos propuestos.
+LVI.- MANTOS FREÁTICOS.- Cuerpos de agua subterráneos;
 
-Eficacia: Actuar conforme a una cultura de servicio orientada al logro de resultados, procurando en todo momento un mejor desempeño de sus funciones, a fin de alcanzar las metas institucionales según sus funciones y mediante el uso responsable y claro de los recursos públicos, eliminando cualquier ostentación y discrecionalidad indebida en su aplicación.
+LVII.- MARCA.- Señal particular que se aplica al ganado;
 
-Equidad: Procurar que toda persona acceda con justicia e igualdad al uso, disfrute y beneficio de los bienes, servicios, recursos y oportunidades.
+LVIII.- MOVILIZACIÓN.- Sistema de control sanitario para la verificación e inspección del movimiento de animales, sus productos y subproductos, a través de la inspección física y documental;
 
-Transparencia: Ejercer sus funciones privilegiando el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso a la información y proporcionando la documentación que genera, obtiene, adquiere, transforma o conserva; y en el ámbito de su competencia, difunde de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia y cuidado.
+LIX.- NOM's.- Normas Oficiales Mexicanas;
 
-Economía: Ejercer del gasto público administrando los bienes, recursos y servicios públicos con legalidad, austeridad y disciplina, satisfaciendo los objetivos y metas a los que estén destinados, siendo éstos de interés social.
+LX.- NÚCLEO DE ABEJAS.- Colonia de abejas compuestas por dos o tres bastidores con cría operculada, uno o dos bastidores con polen, miel y abeja reina;
 
-Integridad: Actuar siempre de manera congruente con los principios que se deben observar en el desempeño de un empleo, cargo, comisión o función, con el compromiso de ajustar su conducta a principios y valores éticos que respondan al interés público y generen certeza plena frente a todas las personas con las que se vinculen.
+LXI.- ORGANISMO DE COADYUVANCIA.- Aquéllos reconocidos por la Secretaría y que coadyuvan con ésta en la sanidad animal;
 
-Competencia por mérito: Las personas servidoras públicas deberán ser elegidas para sus puestos de acuerdo a su habilidad profesional, capacidad y experiencia, garantizando la igualdad de oportunidad, seleccionando a los mejores candidatos para ocupar los puestos mediante procedimientos transparentes, objetivos y equitativos.
+LXII.- ORGANIZACIONES GANADERAS.- Son las asociaciones ganaderas locales generales y especializadas, las uniones ganaderas regionales generales o estatales y especializadas y la Confederación Nacional de Organizaciones Ganaderas, así como las asociaciones y uniones de avicultores, legalmente constituidas;
 
-Rendición de cuentas: Asumir plenamente ante la sociedad y sus autoridades la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, sujetándose a un sistema de sanciones, así como a la evaluación y escrutinio público de sus funciones por parte de la ciudadanía.
+LXIII.- PRODUCTOR PECUARIO.- Toda persona física o jurídica legalmente constituida, que se dedique a la cría, explotación o mejoramiento de especies ganaderas, acuícolas y cinegéticas;
 
-6. VALORES DEL CÓDIGO DE ÉTICA
+LXIV.- PRODUCTOS PECUARIOS.- Son todos aquellos productos y subproductos de origen animal;
 
-Los valores que todo servidor público debe anteponer en el desempeño de su empleo, cargo o comisión:
+LXV.- PRODUCTOS PRIMARIOS.- Son todos aquellos productos emanados de la producción primaria en una cadena productiva;
 
-- Interés Público
+LXVI.- PROTECCIÓN.- El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
-- Respeto
+LXVII.- PUNTO DE VERIFICACIÓN E INSPECCIÓN INTERNA.- Lugar donde se realiza inspección, revisión y verificación de documentos de propiedad y sanitarios, así como de los animales y productos que se transportan;
 
-- Respeto a los Derechos Humanos
+LXVIII.- RASTREABILIDAD.- Conjunto de actividades técnicas y administrativas de naturaleza epidemiológica que se utilizan para determinar a través de investigaciones de campo y del análisis de registros, el origen de un problema zoosanitario y su posible diseminación hasta sus últimas consecuencias, con miras a su controlo erradicación;
 
-- Igualdad y no discriminación
+LXIX.- RASTROS TIF.- Rastros Tipo Inspección Federal;
 
-- Equidad de género
+LXX.- RECONVERSIÓN PRODUCTIVA.- Cambios tecnológicos y de procesos que contribuyan a la productividad y competitividad del sector agropecuario, a la seguridad y soberanía alimentaria y al óptimo uso de las tierras mediante apoyos e inversiones complementarias;
 
-- Entorno Cultural y Ecológico
+LXXI.- RECURSOS GENÉTICOS.- El material genético de valor real o potencial;
 
-- Cooperación
+LXXII.- REGLAMENTO.- El Reglamento de la presente Ley;
 
-- Liderazgo
+LXXIII.- RUTA DE PECOREO.- Zonas útiles aledañas a carreteras, vías de acceso, veredas y sitios para la ubicación de apiarios de un productor o grupo de productores autorizados por las instancias correspondientes para la explotación apícola y que cuentan con el permiso del propietario del predio, o son dueños;
 
-Interés Público: Actuar buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
+LXXIV.- SECRETARÍA.- La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
 
-Respeto: Conducirse con austeridad y sin ostentación, otorgando un trato digno y cordial a las personas, a sus compañeros de trabajo, superiores y subordinados, considerando sus derechos, de tal manera que propicien el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
+LXXV.- SANIDAD ANIMAL.- El conjunto de acciones de diagnóstico, prevención, control y erradicación de las enfermedades o plagas de los animales, teniendo por objeto salvaguardar las condiciones sanitarias de la Entidad;
 
-Respeto a los Derechos Humanos: Respetar los derechos humanos, en el ámbito de su competencia y atribuciones, garantizándolos, promoviéndolos y protegiéndolos, entendiendo que son inherentes a la persona humana, por el hecho de serlo.
+LXXVI.- SEÑAL DE SANGRE.- Incisiones, cortadas o perforaciones que se hagan en las orejas del ganado;
 
-Igualdad y No Discriminación: Prestar sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o por cualquier otro motivo.
+LXXVII.- SILO.- Depósito para el almacenado de granos y forrajes;
 
-Equidad de Género: Garantizar que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones gubernamentales.
+LXXVIII.- SISTEMAS DE PRODUCCIÓN ALTERNATIVOS.- Actividad ganadera dedicada a la crianza y producción de especies de vida silvestre no convencionales;
 
-Entorno Cultural y Ecológico: Evitar la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumir una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, en el ejercicio de sus funciones y conforme a sus atribuciones.
+LXXIX.- SISTEMAS DE PRODUCCIÓN CINEGÉTICO.- Actividad ganadera encaminada a la cría, gestación y producción de aquellos animales silvestres señalados por la Ley General de vida silvestre susceptibles a ser aprovechados para actividades de cacería sostenible;
 
-Cooperación: Colaborar entre sí y propiciar el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad, generando confianza de la ciudadanía en las instituciones públicas.
+LXXX.- SISTEMA-PRODUCTO.- Conjunto de elementos y agentes concernientes de los procesos producción-consumo pecuarios, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, almacenamiento, transformación, distribución, comercialización, consumo, valor alimenticio y actividades conexas, que tienen por objeto el mejor desarrollo de la cadena;
 
-Liderazgo: Promover el Código de Ética y las Reglas de Integridad, fomentando y aplicando en el desempeño de sus funciones, los principios que la Constitución y la ley les imponen, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
+LXXXI.- SUBPRODUCTOS.- Derivados de materias primas de origen animal;
 
-6.1. VALORES ADICIONALES CONSIDERADOS POR LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO “PROBOSQUE”
+LXXXII.- TATUAJE.- Impresión permanente de dibujos, letras o números indelebles en las orejas u otras partes del cuerpo del ganado;
 
-Confidencialidad.
+LXXXIII.- TRAZABILIDAD.- Serie de actividades técnicas y administrativas sistematizadas que permiten registrar la ubicación y la trayectoria de un producto desde su nacimiento hasta el final de la cadena de comercialización;
 
-Acceso a información privilegiada por la que los servidores públicos garantizaran la seguridad de los involucrados, guardando secrecía y discreción, entre el personal autorizado.
+LXXXIV.- UNIDAD DE PRODUCCIÓN.- Granjas, ranchos, asentamientos de animales de traspatio y ranchos cinegéticos;
 
-Prudencia.
+LXXXV.- UNIDADES DE PRODUCCIÓN PECUARIA.- Centros especializados en la producción animal de una o varias especies animales;
 
-Virtud de los servidores públicos donde se desenvuelven de manera justa y adecuada, ante ciertos acontecimientos o actividades, mostrando sensatez, mesura, templanza, cautela y moderación en sus actos.
+LXXXVI.- UNIÓN GANADERA.- Organización que agrupa a cuando menos el treinta por ciento de las asociaciones ganaderas locales, generales o especializadas de una región ganadera; y
 
-Responsabilidad.
+LXXXVII.- VÍAS PECUARIAS.- Los caminos, veredas o rutas establecidos por la costumbre, que sigan los ganados para llegar a los embarcaderos o abrevaderos de uso común y en general, los que siguen en su movilización de una zona ganadera para su comercialización o sacrificio.
 
-Los servidores públicos, actúan bajo los lineamientos aplicables y políticas desarrolladas, conscientes de que sus actividades contribuyen a proteger el medio ambiente, trascendiendo en sus objetivos laborales y aportando el bienestar social.
+### CAPÍTULO II. DE LOS SUJETOS DE LA LEY Y SUS OBLIGACIONES
 
-Compromiso.
+###### Artículo 4.
 
-Obligación contraída por los servidores públicos, conscientes de la misión del organismo y la importancia que tienen sus acciones con el sector forestal, encaminando sus esfuerzos y crecimiento personal para alcanzar los objetivos.
+Quedan sujetos a las disposiciones de esta Ley, los propietarios o poseedores de cualquier lugar destinado a la actividad ganadera, de sus productos y subproductos, abrevaderos de uso común y vías pecuarias y todo aquél que de forma habitual o eventual, se dedique a las siguientes actividades:
 
-Solidaridad.
+I.- Ganaderas, en cualquiera de los eslabones de las cadenas productivas;
 
-Los servidores públicos demuestran con actitudes estar adheridos a una causa en común con la sociedad, a mejorar el entorno ambiental sin limitar sus acciones al ofrecimiento de ayuda en favor al sector forestal del Estado.
+II.- Traslado de animales, productos o subproductos a través de vías pecuarias;
 
-Tolerancia.
+III.- Sacrificio, transformación, comercialización e industrialización de las especies pecuarias;
 
-Los servidores públicos que laboran en PROBOSQUE en el desarrollo de sus actividades, guardan respeto por los pensamientos y las acciones de terceros cuando resultan opuestos o distintos a los propios, respetando la envestidura institucional, cuidando que exista un ambiente de comprensión y condescendencia con la ciudadanía a favor del sector forestal en el Estado de México.
+IV.- Fabricación, comercialización o transporte de productos biológicos, químicos, farmacéuticos, semen o embriones para uso en las actividades pecuarias materia de esta Ley o aquéllas relacionadas;
 
-7. REGLAS DE INTEGRIDAD
+V.- Utilización de predios, infraestructura y equipo destinados a la ganadería y a la producción de forrajes;
 
-Las personas servidoras públicas de PROBOSQUE, en el ámbito de sus funciones, deberán adecuar su actuación a los Principios, Valores y Reglas de Integridad consignadas en el presente Código de Ética, para el ejercicio de su empleo, cargo o comisión.
+VI.- Producción, comercio o transporte de alimentos e insumos, en estado natural o procesados, destinados al consumo de las especies ganaderas; y
 
-- Actuación pública
+VII.- Aprovechamiento y producción de insectos benéficos.
 
-- Información pública
+###### Artículo 5.
 
-- Contrataciones, licencias, permisos, y concesiones
+Son obligaciones de los sujetos de esta Ley:
 
-- Programas gubernamentales
+I.- Informar por escrito a la Secretaría y al Ayuntamiento del lugar, dentro del plazo de treinta días, según sea el caso, la clase de actividad ganadera a que se dedique o se vaya a dedicar, en términos del Reglamento y demás disposiciones legales aplicables, con la finalidad de crear y mantener actualizado un padrón estatal de ganadería;
 
-- Trámites y servicios
+II.- Registrar ante las autoridades correspondientes su fierro y otros medios de identificación de especies ganaderas conforme a la normatividad aplicable, así como refrendar el padrón de los mismos;
 
-- Recursos Humanos
+III.- Herrar o marcar a las especies ganaderas de conformidad con la legislación aplicable;
 
-- Administración de bienes muebles e inmuebles
+IV.- Comunicar de inmediato a las autoridades sanitarias en los casos de sospecha de brotes de enfermedades y plagas que afecten a los animales, pastizal es o a los cultivos forrajeros, así como coadyuvar en el combate de estas de acuerdo con las disposiciones federales y estatales que se determinen;
 
-- Procesos de evaluación
+V.- Participar en las campañas zoosanitarias nacionales, estatales, regionales que se establezcan en el Estado;
 
-- Control interno
+VI.- Realizar desde su origen, cualquier tratamiento contra ectoparásitos, previstos en las NOM's;
 
-- Procedimiento Administrativo
+VII.- Coadyuvar con las autoridades competentes en la prevención y combate del robo de ganado, de conformidad con lo que señale el Reglamento de la Ley, sin perjuicio de las demás disposiciones aplicables;
 
-- Desempeño permanente con integridad
+VIII.- Dar aviso de la terminación de sus actividades ganaderas en un plazo máximo de quince días, a partir de aquéllas; y
 
-- Cooperación con la integridad
+IX.- Las demás que les imponga ésta Ley, el Reglamento, así como las que dicten las autoridades federales y estatales en el ámbito de sus respectivas competencias.
 
-- Comportamiento digno
+###### Artículo 6.
 
-ACTUACIÓN PÚBLICA
+Para efectos de esta Ley, los médicos veterinarios zootecnistas, ingenieros agrónomos, biólogos, técnicos pecuarios, y otros profesionales, que en el ejercicio de su profesión, observen, tengan conocimiento o sospechen de algún brote de enfermedad que ponga en riesgo la ganadería en el Estado, deberán informar a la Secretaría, en términos del Reglamento de la Ley y la normatividad aplicable.
 
-Responsabilidad.
+## TÍTULO SEGUNDO. DE LAS AUTORIDADES Y SU COMPETENCIA
 
-Las personas servidoras públicas, conducen su actuación con transparencia, honestidad, lealtad, cooperación, austeridad y siempre orientada al interés público.
+### CAPÍTULO I. DE LAS AUTORIDADES Y ORGANISMOS DE COOPERACIÓN
 
-Conductas esperadas.
+###### Artículo 7.
 
-a) Conducirse con actitud colaborativa y de unidad, fomentando el trabajo en equipo.
+Son autoridades competentes en la aplicación de la presente Ley:
 
-b) Acatar las disposiciones jurídicas y administrativas, sin perseguir intereses propios y/o de terceros.
+I.- El Titular del Poder Ejecutivo;
 
-c) Actuar con honestidad, congruencia, transparencia, imparcialidad y objetividad.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-d) Propiciar un ambiente laboral libre de violencia.
+II.- La Secretaría de Desarrollo Rural, Sustentabilidad y Ordenamiento Territorial;
 
-e) Denunciar situaciones de violencia al interior del Organismo ante el Comité de Ética y de Prevención de Conflicto de Intereses.
+III.- Los Ayuntamientos; y
 
-f) Difundir los Principios, Valores y Reglas de Integridad que regulan la actuación de los servidores públicos.
+IV.- Las demás Dependencias y Entidades Estatales o Municipales que tengan relación con la materia de esta Ley, en el ámbito de su competencia.
 
-g) Desempeñar el empleo, cargo o comisión conferido con lealtad y honestidad.
+Cuando una misma materia o asunto corresponda a la competencia de una o más de las Dependencias o Entidades Estatales y Municipales a las que se refiere el presente artículo o las demás leyes y reglamentos aplicables, el Gobierno del Estado instrumentará y promoverá mecanismos intersecretariales o interinstitucionales de coordinación.
 
-h) Actuar en el ejercicio del servicio público, representando y buscando únicamente los intereses del Organismo.
+###### Artículo 8.
 
-i) Preservar la independencia y objetividad en su actuación, estar libre de influencias o circunstancias que comprometan de manera real o en apariencia el juicio profesional o la actuación imparcial del Organismo.
+Son organismos de cooperación de las autoridades señaladas en el artículo anterior las organizaciones ganaderas.
 
-j) Adquirir y mantener actualizados los conocimientos y habilidades que garanticen el cumplimiento de las tareas especializadas de cada persona servidora pública.
+###### Artículo 9.
 
-k) Evitar cualquier conducta que pueda desacreditar al Organismo.
+El Gobierno del Estado o la Secretaría podrán convocar a los organismos auxiliares en la materia a fin de:
 
-l) Inhibir en su actuación y en la de sus compañeros factores externos que pudieran demeritar el buen desarrollo del servicio público.
+I.- Procurar el mejoramiento y desarrollo pecuario;
 
-m) Informar y ejercer responsablemente las actividades que se deriven del empleo, cargo o comisión asignado.
+II.- Pugnar por la implementación de métodos científicos y tecnológicos que permitan organizar y orientar la producción pecuaria;
 
-INFORMACIÓN PÚBLICA
+III.- Colaborar con las autoridades, en materia de sanidad animal, para prevenir y combatir las enfermedades y epizootias del ganado; y
 
-Responsabilidad.
+IV.- Promover las demás actividades que la presente Ley y demás disposiciones aplicables establezcan.
 
-Las personas servidoras públicas se conducen con profesionalismo, responsabilidad y protección con la información, evitando ocultar o simular información que propicie irregularidades en los resultados, conforme al principio de transparencia, resguardando la documentación e información gubernamental que tienen bajo su responsabilidad, conforme a la normatividad aplicable en materia de transparencia y protección de datos personales.
+### CAPÍTULO II. DE LA SECRETARÍA
 
-Conductas esperadas.
+###### Artículo 10.
 
-a) Garantizar el derecho de acceso a la información pública, facilitando y proporcionando los requerimientos de información, con la debida protección de los datos personales que establecen las disposiciones legales aplicables.
+Son atribuciones de la Secretaría:
 
-b) Desempeñar el empleo, cargo o comisión conferido con transparencia.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-c) Contribuir en la instrumentación de los mecanismos de rendición de cuentas.
+I.- Formular y aplicar el Programa Estatal de Desarrollo Pecuario y Sanidad Animal;
 
-d) Inhibir todo acto tendente a revelar información que pudiera causar afectación al Organismo, salvo en los casos en que la ley lo permita.
+II.- Planear, coordinar y apoyar la realización de programas tendientes a la integración de las cadenas productivas de las especies ganaderas;
 
-e) Evitar y en su caso denunciar, la sustracción de información relacionada con procesos de contratación pública, en formato físico o digital, con fines ajenos al servicio público.
+III.- Planear, coordinar y fomentar programas dirigidos a la conformación de buenas prácticas de manejo, conducentes a la sustentabilidad de la producción de los alimentos de origen animal;
 
-f) Auxiliar en los trámites de solicitudes de acceso a la información pública, protegiendo los datos personales, documentos e información reservada.
+IV.- Celebrar convenios con las autoridades federales, estatales, municipales o productores ganaderos, para el logro de los objetivos previstos en esta Ley;
 
-g) Atender de forma pronta y expedita las solicitudes de información, sin ocultarlas de forma deliberada.
+V.- Llevar el control de los registros de fierros y marcas correspondientes, a través de las Asociaciones Ganaderas y los Municipios, en su caso;
 
-h) Vigilar que la información pública bajo custodia de las personas servidoras públicas, se encuentre debidamente resguardada, impidiendo con ello la sustracción, destrucción u ocultamiento de ésta.
+VI.- Designar, remover, así como dirigir y coordinar las actividades de los inspectores;
 
-i) Mantener en total secrecía los resultados preliminares de las auditorías y otros medios de control y evaluación, investigación, procedimientos de responsabilidad administrativa, resolución o cualquier determinación emitida, que aún no sean públicos.
+VII.- Asesorar y coadyuvar con la ganadería de traspatio para su tecnificación;
 
-j) Abstenerse de sustraer información institucional relacionada con las funciones de prevención, control, auditoría investigación, en cualquier modalidad de formato y la relativa a los procedimientos de responsabilidad administrativa.
+VIII.- Resolver las consultas técnicas que se le formulen;
 
-CONTRATACIONES PÚBLICAS
+IX.- Fomentar y colaborar con las autoridades federales, estatales y municipales, asociaciones y uniones ganaderas en la organización de tianguis, mercados, ferias, exposiciones y espectáculos ganaderos, en términos de la normatividad aplicable;
 
-Responsabilidad.
+X.- Promover el otorgamiento de apoyos, para el fomento pecuario;
 
-Las personas servidoras públicas que directa o indirectamente participen en contrataciones públicas se conducirán con honradez, transparencia, imparcialidad, legalidad y objetividad.
+XI.- Aplicar de manera coordinada con las instancias correspondientes, las medidas pertinentes para hacer frente a las contingencias zoosanitarias;
 
-Conductas esperadas.
+XII.- Conocer y resolver de las solicitudes expresas respecto de la instalación de tianguis, mercados, ferias, exposiciones y espectáculos ganaderos, cumpliendo con los requisitos establecidos para tal efecto en el Reglamento;
 
-a) Conocer y observar los protocolos y demás normatividad de actuación en materia de contrataciones públicas.
+XIII.- Autorizar la instalación de centros de certificación de origen de ganado para exportación, corrales de engorda y centros de acopio para el consumo nacional, en términos de la normatividad aplicable;
 
-b) Cumplir con la normatividad aplicable respecto de contrataciones públicas.
+XIV.- Proporcionar periódicamente a los productores, información sobre el comportamiento de los precios de los productos pecuarios en los diferentes mercados de acuerdo al centro de información e integración de mercados de la Secretaría de Economía, a través de los diferentes Sistemas de Información Científica (SIC's);
 
-c) Abstenerse de intervenir en los procesos de contratación pública, cuando exista un posible conflicto de interés.
+XV.- Fomentar el desarrollo y protección de Granjas Libres de Patógenos específicos (SPF);
 
-d)) (sic) Abstenerse de manipular los procedimientos de contratación pública, en beneficio propio o de un tercero.
+XVI.- Promover la realización de estudios e investigaciones y difundir sus resultados, para el aprovechamiento de los recursos naturales en materia pecuaria;
 
-e) Anteponer los principios de equidad e igualdad y no discriminación entre los participantes en los procedimientos de contrataciones, observando lo previsto en la normativa administrativa aplicable.
+XVII.- Expedir, revalidar, cancelar y llevar el registro de las guías de tránsito;
 
-f) Evitar ejercer su empleo, cargo o comisión, con el objeto de influir a otro servidor público en la tramitación de contrataciones públicas.
+XVIII.- Llevar un registro actualizado de las Organizaciones Ganaderas;
 
-PROGRAMAS GUBERNAMENTALES
+XIX.- Coadyuvar con las instancias federales y estatales en el fortalecimiento de la estadística de la ganadería estatal;
 
-Responsabilidad.
+XX.- Coadyuvar en el ámbito de su competencia en la prevención y combate con las autoridades competentes en el robo de ganado, productos o subproductos de origen animal;
 
-Las personas servidoras públicas que con motivo de su empleo, cargo o comisión realizan acciones de control y evaluación, relacionadas al otorgamiento y operación de subsidios y apoyos de programas gubernamentales, se sujetan a los principios de igualdad y no discriminación, legalidad, imparcialidad y transparencia.
+XXI.- Promover una mejor distribución y comercialización de la producción pecuaria del Estado, privilegiando el abastecimiento del mercado interno;
 
-Conductas esperadas.
+XXII.- Supervisar los programas de producción e inversión pecuaria en el Estado, en coordinación con las autoridades federales;
 
-a) Llevar a cabo acciones para la fiscalización de los programas gubernamentales, con directrices éticas y enfocadas a la sociedad.
+XXIII.- Autorizar la internación de colmenas pobladas, núcleos de abejas, abejas reinas y material biológico apícola al Estado, sin perjuicio de otras disposiciones legales aplicables;
 
-b) Conocer las normas, lineamientos y demás disposiciones aplicables para la fiscalización de los programas gubernamentales.
+XXIV.- Fomentar la reconvención productiva, de los predios destinados a actividades ganaderas;
 
-c) Realizar acciones para promover la participación ciudadana en el seguimiento, control, vigilancia y evaluación a los programas.
+XXV.- Promover la siembra, resiembra, intersiembra de pastizales, la reforestación de agostaderos y la utilización de cercos vivos;
 
-TRÁMITES Y SERVICIOS
+XXVI.- Vigilar en el ámbito de su competencia, el cumplimiento de las disposiciones en materia de sanidad animal, en las campañas zoosanitarias y en el control de la movilización de animales, productos y subproductos en el Estado e intervenir en los casos en que ésta y otras leyes le señalen;
 
-Responsabilidad.
+XXVII.- Promover la transformación e industrialización de los productos y subproductos pecuarios;
 
-Las personas servidoras públicas que participen en la prestación de trámites y otorgamiento de servicios, atenderán a los usuarios de forma respetuosa, eficiente, oportuna, responsable e imparcial, sujetándose a los principios de igualdad y no discriminación, legalidad, imparcialidad y transparencia.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Conductas esperadas.
+XXVIII.- Incentivar al productor a registrarse y mantener actualizado (sic) las Unidades de Producción Pecuaria;
 
-a) Inhibir la pretensión de algún beneficio, provecho o ventaja personal o a favor de terceros; consistentes en compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-b) Actuar en la gestión o desarrollo de actividades que impliquen trato directo con los ciudadanos, con apego a la legalidad, igualdad y respeto, buscando satisfacer, directa o indirectamente, las necesidades de la persona requirente del servicio o trámite, anteponiendo el interés público.
+XXIX.- Realizar actos de inspección documental en rastros autorizados y cualquier lugar donde se practique el sacrificio de animales con la finalidad de que se cumpla con lo dispuesto en la presente Ley;
 
-c) Promover la eficiencia, transparencia, rendición de cuentas y la simplificación administrativa, que coadyuve al mejoramiento en los procedimientos públicos que se realizan, ofreciendo calidad y oportuna respuesta a los trámites y servicios.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-d) Brindar atención de manera oportuna y eficiente a las personas que soliciten información sobre la presentación de denuncias.
+XXX.- Fomentar la aplicación de recursos públicos para prever la atención de emergencias zoosanitarias y demás que afecten al sector pecuario;
 
-e) Inhibir el otorgamiento de falsas expectativas o resultados futuros e inciertos, en relación con trámites o servicios proporcionados por el Organismo.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-f) Colaborar al mejoramiento en la prestación de trámites y servicios de la Dependencia, impulsando los programas de capacitación para el desarrollo profesional de las personas servidoras públicas.
+XXXI.- Designar Inspectores para realizar la Verificación, Inspección y Vigilancia, para el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y demás disposiciones aplicables, a través del personal debidamente autorizado; y
 
-g) Respetar el derecho de petición y respuesta de los ciudadanos que acudan a PROBOSQUE, dando atención de manera oportuna, eficaz y eficiente a las solicitudes, servicios o trámites.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-RECURSOS HUMANOS
+XXXII.- Realizar acciones de inspección con el auxilio de las autoridades municipales, uniones ganaderas, asociaciones ganaderas locales y organismos auxiliares, de las especies ganaderas que vayan a ser movilizadas en cumplimiento a las disposiciones contenidas en esta Ley.
 
-Responsabilidad.
+### CAPÍTULO III. DE LOS AYUNTAMIENTOS
 
-Las personas servidoras públicas que participen en procedimientos de recursos humanos o que desempeñen un empleo, cargo, comisión, deberán apegarse a los principios de igualdad y no discriminación, legalidad, imparcialidad, transparencia y rendición de cuentas.
+###### Artículo 11.
 
-Conductas esperadas.
+Corresponden a los Ayuntamientos de la Entidad, de conformidad con la presente Ley y demás disposiciones legales aplicables, las siguientes atribuciones:
 
-a) Promover la igualdad de oportunidades entre mujeres y hombres, a través de la institucionalización y transversalización de la perspectiva de género en los procedimientos de reclutamiento, selección, contratación, capacitación, evaluación y movilidad, sin distinción o discriminación por motivo de género, edad, raza, credo, religión, preferencia política, condición socioeconómica, nivel educativo, o bien, por cualquier circunstancia o condición que produzca inobservancia a la objetividad, al profesionalismo o a la equidad.
+I.- Establecer, en sus correspondientes ámbitos de competencia, las medidas necesarias para la debida observancia y cumplimiento de las disposiciones de esta Ley;
 
-b) Realizar la administración y disposición de los recursos humanos con los que se cuenta, a efecto de llevar a cabo el debido desarrollo del servicio público.
+II.- Fomentar la participación de las organizaciones de productores pecuarios en los objetivos derivados de esta Ley;
 
-c) Promover el valor de la integridad como un elemento que debe estar presente en la operación diaria del Organismo, a través de una estrategia de comunicación y capacitación.
+III.- Coadyuvar en la vigilancia y control de las campañas zoosanitarias;
 
-d) Respetar y promover las acciones que, por razones de maternidad o paternidad, necesiten las mujeres y hombres para el ejercicio de sus labores y el goce de sus derechos, sin condicionar su permanencia en el trabajo.
+IV.- Prestar el servicio público de rastros para el sacrificio de animales, en los términos y disposiciones legales que al efecto se emitan, así como contar y en su caso verificar se cuenten con las autorizaciones correspondientes;
 
-e) Evitar que, con motivo de su empleo, cargo o comisión, se disponga de las personas servidoras públicas, en forma indebida en asuntos ajenos al servicio público.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-f) Vigilar y hacer prevalecer la protección de los derechos humanos de las personas servidoras públicas.
+V.- En el ámbito de su competencia vigilar el sacrificio de especies ganaderas fuera de los lugares autorizados;
 
-g) Respetar los horarios de entrada, salida y comidas asignados, fomentando el orden y la disciplina en la Dependencia.
+> <small>(REFORMADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-h) Evaluar y verificar que toda persona candidata a ocupar un empleo, cargo o comisión en el Organismo, cubra el perfil del puesto de que se trate, impulsando y fortaleciendo la cultura de servicio público enfocada al respeto al mérito.
+VI.- Fomentar, difundir y apoyar los programas relativos a la sanidad animal e inocuidad;
 
-i) Ostentar el cargo asignado, acreditando el grado académico respectivo mediante los títulos o los documentos oficiales, para satisfacer los estándares y perfiles determinados por PROBOSQUE.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-j) Cumplir con puntualidad las citas o reuniones de trabajo que se realicen con motivo del servicio público.
+VII.- Fomentar la construcción y equipamiento de un centro de sacrificio autorizado en el Municipio;
 
-k) Facilitar el desarrollo de esquemas laborales que promuevan un equilibrio entre la vida personal y el trabajo de las personas servidoras públicas, con horarios acordes al cumplimiento de ese objetivo.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-l) Respetar los días de vacaciones a que tengan derecho las personas servidoras públicas, así como los días de descanso que por norma se tengan convenidos.
+VIII.- Realizar las acciones necesarias para lograr control de salud, control y operación de negocios de carnicería, reglamentos de operación y mantenimiento de rastro, evitando la venta clandestina de productos o subproductos pecuarios;
 
-m) Ejercer las funciones sin miramientos a impedir la libre competencia de las personas servidoras públicas, en los concursos para ocupar una plaza vacante promocionada por del (sic) Organismo.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-n) Garantizar la igualdad de oportunidades equitativamente y aplicar medidas para garantizar una presencia y participación igualitaria entre mujeres y hombres.
+IX.- Implementar las medidas necesarias, en coordinación con las autoridades competentes, respecto de la disposición final sanitaria, de animales muertos que no pueden ser reconocidos o atribuidos a algún productor y que se encuentren en las vías públicas o privadas, sin perjuicio de lo dispuesto en la normatividad aplicable;
 
-ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Responsabilidad.
+X.- Expedir permisos para la instalación de tianguis, mercados, ferias, exposiciones y espectáculos ganaderos coordinándose con la Secretaría para efectuar la inspección correspondiente para determinar las condiciones de bienestar y salud animal a las que está expuesto el ganado.
 
-La persona servidora pública que, con motivo de su empleo, cargo o comisión, participe en procedimientos de asignación, uso, trasferencia, enajenación, baja o destrucción de bienes muebles o inmuebles, los administrará con eficiencia, transparencia y honradez para satisfacer los objetivos a los que están destinados.
+Dichas instalaciones deberán contar con lo siguiente:
 
-Conductas esperadas.
+a) Contar con un Médico Veterinario Zootecnista titulado y con cédula profesional vigente, el cual fungirá como encargado de todos los animales que ahí se alojen.
 
-a) Utilizar los recursos con los que cuenta PROBOSQUE, con apego a los procedimientos, para la obtención de los resultados requeridos, ponderando satisfacer las necesidades del servicio.
+b) Oficina expedidora del documento Guía de Tránsito oficial por parte de la Asociación Ganadera a falta de ésta por autoridad municipal.
 
-b) Hacer uso debido de la papelería oficial en el desempeño de la función encomendada; así como de los logotipos institucionales e insumos otorgados.
+c) Rampas de desembarque y de embarque.
 
-c) Comprobar oportunamente y conforme a los procesos respectivos, los gastos realizados en el ejercicio del empleo, cargo o comisión encomendada.
+d) Corrales o espacios para cada especie en forma separada.
 
-d) Utilizar los recursos materiales conforme a los principios de racionalidad, economía, austeridad y transparencia.
+e) Área para el manejo de excretas y desechos.
 
-e) Administrar los bienes del Organismo, respetando el entorno cultural y ecológico; respondiendo a los objetivos institucionales.
+f) Fuente de abastecimiento de agua.
 
-f) Utilizar los espacios físicos, áreas comunes, con respeto y decoro; para los fines que fueron diseñados.
+g) Operar un programa de limpieza y desinfección de instalaciones.
 
-g) Emplear los medios de comunicación, telefónicos, electrónicos, equipos de cómputo y vehículos oficiales, conforme a los principios de racionalidad, economía, austeridad y transparencia.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-PROCESOS DE EVALUACIÓN
+XI.- En caso de crecimiento del centro de población donde exista un rastró municipal y quede ubicado dentro de dicha zona, la autoridad municipal deberá adoptar las medidas correspondientes, a efecto de llevar a cabo la reubicación del citado establecimiento, tomando en cuenta para tal efecto lo dispuesto en la presente Ley; y
 
-Responsabilidad.
+> <small>(ADICIONADA, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-La persona servidora pública que, con motivo de su empleo, cargo o comisión, participe en procesos de evaluación, se apegará en todo momento a los principios de legalidad, imparcialidad y rendición de cuentas.
+XII.- Las demás que les confiere esta Ley, su Reglamento y demás ordenamientos aplicables.
 
-Conductas esperadas.
+### CAPÍTULO IV. DE LAS ORGANIZACIONES GANADERAS
 
-a) Impulsar permanentemente con vocación de servicio, acciones de control y evaluación, con el objeto de prevenir irregularidades en áreas sustantivas y de atención a la ciudadanía.
+###### Artículo 12.
 
-b) Evitar acciones que alteren o manipulen los resultados obtenidos con motivo de la práctica de evaluaciones en materia de rendición de cuentas.
+La constitución, integración y funcionamiento de las organizaciones ganaderas en el Estado, se regirá conforme a la Ley de Organizaciones Ganaderas y su Reglamento.
 
-c) Controlar, manejar y resguardar, de manera objetiva y profesional, la información que integren los sistemas electrónicos de la Secretaría y de los Órganos Internos de Control.
+###### Artículo 13.
 
-CONTROL INTERNO
+Las organizaciones y productores pecuarios con fines mercantiles y demás organismos relacionados, se regirán conforme a lo dispuesto en la Ley de la materia.
 
-Responsabilidad. Las personas servidoras públicas en el ejercicio de su empleo, cargo o comisión, que participen en procesos en materia de control interno, deberá (sic) generar, obtener, utilizar y comunicar información suficiente, oportuna, confiable y de calidad.
+## TÍTULO TERCERO. USO DEL SUELO
 
-Conductas esperadas.
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
-a) Fomentar y ejecutar prácticas de mejora continua, a efecto de evitar acciones en el servicio público que generen la comisión de faltas administrativas.
+###### Artículo 14.
 
-b) Conocer el marco jurídico y técnico sobre los temas relacionados con funciones de fiscalización, auditoría, control interno y otras acciones de control u evaluación, a fin de controlar y evaluar el quehacer gubernamental.
+Los productores que se dediquen a la actividad ganadera serán los responsables del manejo de las excretas que con motivo de dicha actividad se generen. Su manejo se sujetará a lo dispuesto en la Ley Para la Protección del Medio Ambiente Natural y el Desarrollo Sustentable del Estado de Puebla y demás ordenamientos aplicables.
 
-c) Capacitarse y adquirir nuevos conocimientos con el objeto de fortalecer y coadyuvar en las funciones de control y evaluación, para impulsar el cumplimiento de las responsabilidades de las personas servidoras publicas adscritas a esta Secretaría y de los Órganos Internos de Control.
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-d) Adoptar métodos de trabajo, lineamientos y procedimientos de mejora, a fin de impulsar y fortalecer las actitudes y aptitudes que contribuyan al combate de la corrupción.
+Los propietarios de las granjas avícolas serán responsables del manejo de las excretas que con motivo de la explotación de aves realizan; así como su almacenamiento y comercialización.
 
-e) Coadyuvar y desarrollar las actividades en materia de control interno, necesarias para prevenir conductas posiblemente constitutivas de faltas administrativas.
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-f) Alentar las propuestas en materia de control interno, tendentes a la obtención de mejoras en la ejecución del servicio público y coadyuvar a fortalecer la visión de la Secretaría y de los Órganos Internos de Control.
+En los casos en que los productores se dediquen a la actividad ganadera noten algún síntoma de enfermedad contagiosa, deberán proceder al aislamiento de los animales enfermos, separándolos de los sanos, dando aviso inmediato a las autoridades sanitarias.
 
-g) Impulsar la importancia de los estándares de calidad y protocolos de actuación en el servicio público, ponderando por el beneficio de la sociedad.
+###### Artículo 15.
 
-h) Mantener la independencia y objetividad en las actividades de auditoria, evitando relaciones con entidades auditadas que puedan generar influencias o circunstancias que comprometan, de manera real o aparente la actuación profesional e imparcial con los entes auditados.
+Para el establecimiento y funcionamiento de cernideros, centros de almacenamiento y procesadoras de excretas de origen animal, se deberá contar invariablemente con las autorizaciones emitidas por las autoridades competentes, de conformidad con las disposiciones legales aplicables.
 
-i) Fortalecer la imparcialidad evitando involucrarse en toma de decisiones de los entes auditados, evitando proporcionar asesoría u otros servicios distintos de la auditoria que afecten la independencia y objetividad.
+###### Artículo 16.
 
-PROCEDIMIENTO ADMINISTRATIVO
+Para que la Secretaría autorice la realización de tianguis, mercados, ferias, exposiciones y espectáculos ganaderos, se deberá contar con las instalaciones que garanticen el bienestar de cada especie animal, cumpliendo con los requisitos establecidos para tal efecto en el Reglamento de esta Ley, sin perjuicio de las autorizaciones que deban otorgar otras autoridades competentes.
 
-Responsabilidad.
+###### Artículo 17.
 
-Las personas servidoras públicas que participen en la investigación, procedimiento de responsabilidad administrativa y en las actividades inherentes al área a la que estén adscritos, actuarán promoviendo una cultura de denuncia, respetando las formalidades esenciales de cada procedimiento, conforme a los principios de legalidad, imparcialidad, objetividad, congruencia, verdad material, presunción de inocencia, exhaustividad, respeto a los derechos humanos y debido proceso.
+Los animales que sean mantenidos de manera temporal o permanente en tianguis, mercados, ferias, exposiciones o espectáculos ganaderos, deberán cumplir con los requisitos que para tal efecto establezca el Reglamento de esta Ley.
 
-Conductas esperadas.
+###### Artículo 18.
 
-a) Conocer las normas legales aplicables a su función, para su correcta aplicación en las etapas de investigación, substanciación y resolución, así como en los recursos y medios de impugnación correspondientes.
+Para instalar una unidad de producción o cualquier otro tipo de instalación de distinto productor pecuario que ponga en riesgo la salud animal, la distancia mínima será la que al efecto se establezca en las NOM's, emanadas de la Ley Federal de Sanidad Animal.
 
-b) Investigar de manera suficiente y oportuna sobre la presunta comisión de faltas administrativas atendiendo a los hechos sucedidos.
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-c) Recibir y tramitar legalmente las denuncias por la presunta comisión de faltas administrativas, analizando su naturaleza y las disposiciones legales aplicables.
+Las Unidades de Producción Pecuaria registradas ante la autoridad federal, deberán de contar con un cercado perimetral como una medida de bioseguridad para evitar riesgos zoosanitarios.
 
-d) Mantener la discreción y secrecía que por razón de sus funciones conozca de asuntos materia de investigación respecto a los hechos relacionados a las denuncias por la presunta comisión de faltas administrativas.
+### CAPÍTULO II. DE LOS CENTROS DE SACRIFICIO
 
-e) Coadyuvar de manera responsable y profesional, en el ámbito de su competencia, con las autoridades investigadoras y substanciadoras, con relación a las conductas de las personas servidoras públicas que pudieran constituir faltas administrativas.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-f) Garantizar la confidencialidad y protección debida al denunciante, con legalidad, objetividad, profesionalismo e interés público.
+###### Artículo 19.
 
-g) Informar con profesionalismo sobre los requerimientos de documentos, datos o información relativos a la investigación, substanciación y en su caso la procedencia de medios de defensa que se promuevan.
+Para la prestación del servicio público de rastro para el sacrificio de animales, y en su caso, comercialización e industrialización, se deberá contar con el Reglamento de operación, así como con los lineamientos, previstos en la normatividad aplicable, así como con las autorizaciones correspondientes.
 
-h) Mantener la secrecía y cuidado de los expedientes de investigación y de responsabilidad administrativa que estén bajo su custodia o de los que tenga conocimiento.
+###### Artículo 20.
 
-i) Realizar las órdenes y visitas de verificación con discreción y profesionalismo, salvaguardando los intereses de PROBOSQUE.
+Las autoridades municipales, deberán comunicar a la Secretaría, el nombre de los responsables o administrador de los centros de sacrificio.
 
-j) Conocer y analizar los criterios jurisprudenciales federales y locales de interpretación de las normas aplicables a cada caso en particular.
+###### Artículo 21.
 
-k) Tramitar y atender los procedimientos de responsabilidad administrativa y los respectivos medios de impugnación con apego a la legalidad, los derechos humanos y el debido proceso.
+Los responsables o administradores de los centros de sacrificio, están obligados a exigir a los tenedores del ganado, antes del sacrificio, la documentación comprobatoria de la propiedad, en términos de Ley y los documentos que amparan su legal movilización.
 
-l) Aplicar las medidas cautelares necesarias, previa satisfacción de los principios de fundamentación y motivación, de acuerdo con los dispositivos legales aplicables.
+###### Artículo 22.
 
-m) Atender con diligencia y respeto las audiencias en el procedimiento, de conformidad a la Ley.
+Es obligatorio realizar el sacrifico de forma humanitaria conforme a la legislación aplicable y las NOM's, quedando prohibido el sacrificio sin previa justificación, de hembras en estado de preñez avanzado y sementales seleccionados.
 
-n) Realizar las notificaciones con apego a las disposiciones legales, haciendo el debido uso de los recursos materiales asignados para ese fin.
+###### Artículo 23.
 
-ñ) Elaborar los proyectos de resoluciones de forma clara, precisa y congruente apegándose a los principios de legalidad, objetividad e imparcialidad, respetando los derechos humanos.
+El médico veterinario zootecnista o quien funja como responsable o administrador de los centros de sacrificio, deberá:
 
-o) Conocer y aplicar las disposiciones legales referentes a la tramitación de los medios de defensa interpuestos en contra de actos o resoluciones emitidos en el procedimiento, propiciando la substanciación debida de los mismos y, en su caso, la adecuada defensa del acto reclamado.
+I.- Llevar un libro de registro de los animales sacrificados, en el cual anotarán los siguientes datos:
 
-p) Realizar las actuaciones del procedimiento de responsabilidad administrativa con la máxima diligencia en cumplimiento al Sistema de Gestión de Calidad.
+a) Fecha;
 
-q) Atender y cumplir con las funciones encomendadas que deriven del empleo, cargo o comisión, de manera oportuna, diligente y profesional.
+b) Nombre del introductor o propietario;
 
-r) Abstenerse de aceptar, exigir u obtener cualquier obsequio, regalo o similar, con motivo del ejercicio de su empleo, cargo o comisión, sean en favor de sí mismas, su cónyuge, concubina, concubinario o conviviente, parientes consanguíneos, parientes civiles o para terceras personas con los que tenga relaciones personales, profesionales, laborales, de negocios, o para socios o sociedades de las que la persona servidora pública o las personas antes referidas formen parte.
+c) Lugar de procedencia de los animales;
 
-DESEMPEÑO PERMANENTE CON INTEGRIDAD
+d) Especie, edad aproximada, color, sexo, marcas y señales de los animales;
 
-Responsabilidad.
+e) Número y fecha de la factura o documento que acredite la propiedad; y
 
-Las personas servidoras públicas se conducirán con legalidad, imparcialidad, objetividad, transparencia, certeza, cooperación, ética e integridad.
+f) Número y fecha del certificado zoosanitario y de la guía de tránsito.
 
-Conductas esperadas.
+Los documentos que comprueben los datos anteriores se archivarán por separado.
 
-a) Asumir el liderazgo en el entorno laboral, para fomentar aquellas conductas que promuevan una cultura ética y de calidad en el servicio público.
+II.- Elaborar un reporte mensual que remitirán en original a la Secretaría, bajo el formato que ésta determine.
 
-b) Tratar a todas las personas con las que se relacione con igualdad y no discriminación.
+###### Artículo 24.
 
-c) Informar de manera exhaustiva, objetiva y profesional de las circunstancias que se actualicen con relación a intereses personales, familiares o de negocios y que a su vez pudieran ocasionar afectación al desarrollo del servicio público.
+El médico veterinario zootecnista o quien funja como responsable o administrador de los rastros será corresponsable de la legalidad de los sacrificios que se hagan en éstos.
 
-d) Elaborar y concluir de manera responsable y profesional, en tiempo y forma, las tareas que son asignadas, propiciando un ambiente dirigido al logro de resultados y al cumplimiento de objetivos Institucionales.
+### CAPÍTULO III. APIARIOS
 
-e) Generar acciones de protección ambiental aptas para el ejercicio de las funciones encomendadas, fomentando en el servicio público la conservación y cuidado ambiental.
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-COOPERACIÓN CON LA INTEGRIDAD
+###### Artículo 25.
 
-Responsabilidad.
+Para establecer un apiario, el apicultor deberá obtener permiso de establecimiento de apiarios, de la Secretaría, cuando haya reunido los requisitos que exige esta Ley y su Reglamento, así como los permisos, en su caso, de los dueños o poseedores de los terrenos dependiendo del tipo de tenencia de los mismos y obtener el registro correspondiente, tomando en consideración:
 
-Las personas servidoras públicas cooperarán con el Organismo con las instancias encargadas de velar por la observancia de los principios y valores que rigen la función pública, en el fortalecimiento de la cultura ética y de servicio a la sociedad.
+I.- Que el permiso de establecimiento de apiarios sea por los diferentes periodos de pecoreo que existen en nuestra Entidad durante el año, mismos que serán determinados por la Secretaría;
 
-Conductas esperadas.
+II.- Que los permisos de los dueños de los predios sean autorizados cada año, en el caso de que los permisos sean firmados de manera permanente, que éste lo avalen las autoridades vigentes del Municipio donde realizan su actividad. En caso de obtener únicamente el permiso de manera verbal del dueño o poseedor del o los terrenos para instalar apiarios, la asociación de apicultores, comisariado ejidal o autoridad municipal que corresponda, podrá hacer constar que no existe oposición alguna del dueño o tenedor legal del terreno para instalar dichos apiarios;
 
-a) Denunciar a las personas servidoras públicas que incurran en conductas que pudieran constituir alguna falta administrativa.
+III.- Para solicitar el permiso de instalación de apiarios, deberá tener la georeferenciación del lugar o lugares donde pretende instalarlos; y
 
-b) Informar de manera inmediata al superior jerárquico, sobre cualquier situación en la que se presente o pueda presentarse conflicto de intereses con relación al ejercicio del servicio público, ya sea de la persona quien informa o bien de un tercero.
+IV.- En el caso que el productor haya sido sancionado con multa o multas, encontrarse al corriente en el pago de las mismas.
 
-c) Llevar a cabo acciones que incidan positivamente en el logro de los objetivos previstos por la Dependencia.
+###### Artículo 26.
 
-d) Practicar y fomentar la coordinación entre las personas servidoras públicas adscritas al Organismo, con el objeto de propiciar mejoras en el servicio público y acrecentar la relación de identidad y pertenencia.
+Los apiarios familiares tendrán preferencia para su ubicación, respecto de otros.
 
-e) Privilegiar el diálogo, el respeto, la cooperación, la integridad y el trabajo en equipo, en las relaciones entre las personas servidoras públicas de PROBOSQUE, que con motivo del desempeño de su empleo, cargo o comisión se generen.
+###### Artículo 27.
 
-f) Promover la comunicación efectiva para transmitir de manera adecuada, clara, precisa y oportuna la información necesaria para cumplir con la función pública encomendada. g) Promover la creatividad e innovación para el cumplimiento del servicio público, propiciando calidad, eficacia y eficiencia. (sic)
+Para la instalación de apiarios, la Secretaría dará preferencia a las colmenas de origen poblano sobre las provenientes de otros Estados, acreditando su origen con la marca a fuego y las especificaciones que determine la Secretaría.
 
-h) Ponderar y reconocer las aportaciones de las personas servidoras públicas colaboradoras en el trabajo diario, respetando sus ideas sin buscar un beneficio propio o de terceros.
+###### Artículo 28.
 
-i) Auxiliar a las personas servidoras públicas en la realización de las actividades para cumplir oportunamente con las tareas que les fueron encomendadas.
+La distancia mínima para instalar un apiario de otro, de distinto apicultor será de un kilómetro, salvo las causas de excepción que determine la Secretaría, previamente justificada por el apicultor las cuales serán establecidas en el Reglamento de esta Ley.
 
-j) Actuar en el servicio público con rectitud y certeza, respetando a las personas que se relacionen con motivo del empleo, cargo o comisión.
+###### Artículo 29.
 
-k) Realizar acciones que fortalezcan la imagen la institucional.
+El derecho de antigüedad de la ruta o zona de pecoreo, deberá ser acreditada ante la Secretaría, de conformidad con los requisitos que para el efecto se establezcan.
 
-l) Promover las buenas relaciones institucionales con otros entes públicos.
+###### Artículo 30.
 
-m). Atender las indicaciones relacionadas a las medidas de protección civil, en cada una de las direcciones o áreas al interior del Organismo.
+Para internar colmenas pobladas, núcleos de abejas, abejas reinas y material biológico apícola de otras entidades federativas en el Estado de Puebla, se requiere permiso de internación de la Secretaría, sin perjuicio de otras disposiciones legales aplicables.
 
-ñ) Aplicar las medidas de seguridad e higiene en el desarrollo de las actividades de trabajo, que incidan positivamente en las demás personas servidoras públicas.
+###### Artículo 31.
 
-o) Mantener limpia el área de trabajo asignada y una buena imagen personal, a efecto de propiciar condiciones armónicas entre las personas servidoras públicas adscritas a (sic) Organismo.
+Todo Apicultor de otro Estado por sí o por interpósita persona, podrá internar hasta quinientas colmenas por productor.
 
-p) Reportar al área correspondiente, la detección de alguna falla interna que pudiera poner en riesgo la seguridad de las personas servidoras públicas, así como de algún peligro ambiental entorno a las instalaciones del Organismo.
+###### Artículo 32.
 
-q) Ingerir los alimentos en los lugares asignados para esta actividad, manteniendo la imagen institucional.
+Con la finalidad de evitar molestias a los vecinos del lugar por la presencia de abejas en la Entidad, todo apicultor deberá:
 
-r) Acudir a los talleres, conferencias y cursos impartidos para la profesionalización de las personas servidoras públicas.
+I.- Ubicar sus apiarios a orillas de carreteras, terracerías y caminos vecinales, a una distancia mínima de cincuenta metros del centro de las vías de comunicación en caso de existir barrera natural o artificial alguna, o de cien metros en caso de no haber dichas barreras;
 
-COMPORTAMIENTO DIGNO
+II.- Instalar sus apiarios o colmenas fuera de las zonas urbanas o lugares poblados;
 
-Responsabilidad.
+III.- Respetar un mínimo de cuatrocientos metros de distancia entre las colmenas y casa habitación o explotaciones industriales y pecuarias más cercanas; y
 
-Las personas servidoras públicas en el desempeño de su empleo, cargo o comisión, observarán respeto hacia las personas con las que tienen o guardan relación.
+IV.- Realizar sus actividades en el momento que no perjudique a terceros.
 
-Conductas esperadas.
+### CAPÍTULO IV. APROVECHAMIENTO SUSTENTABLE
 
-a) Proporcionar un trato respetuoso y adecuado a toda persona con la que, con motivo de su empleo, cargo o comisión tenga relación.
+###### Artículo 33.
 
-b) Realizar acciones que garanticen y protejan los derechos humanos, así como, la igualdad entre mujeres y hombres.
+Los ganaderos, en su caso, deberán conservar y adoptar pastos, reforestar montes y formar praderas mejoradas, a fin de contribuir al aprovechamiento sustentable de los recursos naturales.
 
-c) Evitar que la gestión y otorgamiento de un trámite o servicio, sea condicionado.
+###### Artículo 34.
 
-d) Fomentar la cultura de la denuncia, a efecto de presentar denuncias por transgresiones a los ordenamientos jurídicos en materia de ética.
+La Secretaría orientará a los ganaderos, en las actividades que se realicen para el análisis del tipo de suelo, plantas forrajeras, proyectos para la construcción de abrevaderos, bordos, silos y todo lo relacionado para la conservación y aprovechamiento de aguas, suelos y pastos.
 
-e) Desarrollar las relaciones de trabajo entre compañeros, con un trato equitativo y solidario.
+###### Artículo 35.
 
-f) Evitar realizar cualquier acción de índole sexual que afecte el respeto, el honor y la dignidad de las demás personas servidoras públicas.
+Los productores pecuarios podrán desarrollar procesos de autorregulación ambiental, respetando la legislación y normatividad vigente en la materia, comprometiéndose a cumplir y superar mayores niveles, metas o beneficios en materia de protección ambiental.
 
-g) Evitar realizar acciones que representen agresividad, intimidación, supremacía o dominación, respecto de otras personas servidoras públicas o ciudadanos.
+### CAPÍTULO V. DE LOS CERCOS GANADEROS
 
-h) Abstenerse durante el ejercicio de su empleo, cargo o comisión de la ejecución de comportamientos, tendentes a vulnerar la dignidad de toda persona.
+###### Artículo 36.
 
-i) Evitar durante el ejercicio de su empleo, cargo o comisión de la difusión por cualquier medio de imágenes o videos de toda persona, que produzcan a éstos afectación a su honor o dignidad.
+Los ganaderos, sean propietarios, poseedores o ejidatarios, tienen la obligación de cercar y alambrar sus potreros y de mantener en buen estado dichos cercos y alambrados.
 
-j) Promover en el desarrollo del servicio público, la no discriminación.
+###### Artículo 37.
 
-8. CARTA COMPROMISO
+Los ganaderos propietarios de terrenos colindantes de común acuerdo costearán de forma equitativa los gastos que se generen por el levantamiento de las cercas o alambrados.
 
-La (El) que suscribe _________________________________ con número de servidor (a) público (a) ___________________ adscrito (a) __________________________________, hago constar de manera libre, que de conformidad a la publicación del Código de Conducta de la Protectora de Bosques del Estado de México, conozco concreta y especialmente el objeto del mismo, así como su naturaleza; y las obligaciones que, de cuya vigencia, se desprenden hacia las y los servidores públicos de este Organismo.
+En caso de que los colindantes no se pongan de acuerdo sobre el levantamiento y el mantenimiento de los cercados, resolverá la autoridad municipal competente del lugar.
 
-Derivado de lo anterior, me comprometo a desempeñar el empleo, cargo o comisión que me ha sido encomendado en el servicio público cumpliendo el Código de Conducta, el Código de Ética de los Servidores Públicos del Poder Ejecutivo del Gobierno del Estado de México y sus Organismos Auxiliares y los Principios, Valores y Reglas de Integridad contenidos en éste, con el objeto de fortalecer la ética en el servicio público, en beneficio de la sociedad.
+###### Artículo 38.
 
-_________________________, a los _____ días del mes de __________ del año _______.
+En caso de desobediencia al mandato de autoridad sobre cercas y alambrados, la autoridad estatal o municipal, podrá mandar a hacer la construcción o autorizarla y lo invertido se recuperará del o los infractores, mediante la facultad económica coactiva; independientemente de la imposición de las multas que procedan conforme a las disposiciones legales aplicables.
 
-PROTESTO LO NECESARIO
+###### Artículo 39.
 
-______________________________________
+La existencia de vías pecuarias, implica para los propietarios o poseedores de los predios, la servidumbre de paso correspondiente, de conformidad con lo dispuesto por la legislación civil en el Estado.
 
-NOMBRE Y FIRMA DEL SERVIDOR PÚBLICO
+###### Artículo 40.
 
-9. MECANISMOS DE CAPACITACIÓN Y DIFUSIÓN DEL CÓDIGO DE ÉTICA Y DE LAS POLÍTICAS DE INTEGRIDAD
+El propietario de los potreros en donde se haya introducido ganado ajeno causando daños o no, pero con el sólo hecho de haber permanecido en ellos tiene derecho al pago de pastos, daños y perjuicios, con apego a los ordenamientos legales correspondientes, en su caso.
 
-Para la promoción del conocimiento, difusión y aplicación de los principios rectores, los valores y las reglas de integridad, así como para facilitar su eficacia en la prevención de la corrupción; PROBOSQUE a través del Comité de Ética, lleva a cabo mecanismos de capacitación y difusión del Código de Ética y del Código de Conducta, así como de las políticas de integridad, por medio de cursos, talleres, conferencias, y demás análogos, de manera permanente y continua, en cumplimiento al Programa Anual de Trabajo.
+###### Artículo 41.
 
-10. ÍNDICE
+Los ganaderos quedan obligados a mantener sus abrevaderos en las mejores condiciones de uso, libres de plantas acuáticas y de ser posible con tubería y bebederos para que el ganado no abreve directamente de los depósitos de aguas.
 
-Código de Conducta
+###### Artículo 42.
 
-Protectora de Bosques del Estado de México.
+No se podrán establecer cercos o construcciones que impidan el libre acceso a los aguajes y/o abrevaderos de uso común.
 
-Carta de Presentación del Titular de la Protectora de Bosques del Estado de México
+## TÍTULO CUARTO. PROPIEDAD PECUARIA
 
-1. Proemio
+### CAPÍTULO I. ACREDITACIÓN DE LA PROPIEDAD
 
-2. Objeto
+###### Artículo 43.
 
-3. Glosario
+Es obligatorio acreditar la propiedad de las especies ganaderas por los medios previstos en la presente Ley y demás ordenamientos legales aplicables.
 
-4. Base Legal
+###### Artículo 44.
 
-5. Principios del Código de Ética
+La propiedad de las especies ganaderas y pieles, respectivamente, se acreditará enunciativa más no limitativamente con:
 
-6. Valores del Código de Ética
+I.- Copia certificada de la patente;
 
-6.1. Valores Adicionales Considerados por la Protectora de Bosques del Estado de México “PROBOSQUE”
+II.- La señal de sangre que tenga registrada para el ganado menor;
 
-7. Reglas de Integridad
+III.- La factura de compra-venta correspondiente; y
 
-8. Carta Compromiso
+IV.- El chip.
 
-9. Mecanismos de Capacitación y Difusión del Código de Ética y de las y (sic) Políticas de Integridad
+###### Artículo 45.
 
-10. Índice
+La propiedad de las colmenas se acredita con el fierro que se encuentre autorizado en la Secretaría y registrado en cada uno de los Ayuntamientos de los Municipios en donde se lleve a cabo la actividad ganadera.
 
-11. Firmas de Adhesión y Validación del Código de Conducta de PROBOSQUE
+###### Artículo 46.
 
-11. FIRMAS DE ADHESIÓN Y VALIDACIÓN DEL CÓDIGO DE CONDUCTA
+Las crías de los animales pertenecen al dueño de la madre y no al padre, salvo pacto entre las partes.
 
-Se autoriza la actualización del “Código de Conducta para las y los Servidores Públicos de la Protectora de Bosques del Estado de México”, el día 19 de julio del 2019, firmando todos los miembros que en ella intervinieron al margen y calce de todas y cada una de las fojas que integran el presente documento para su debida constancia.
+###### Artículo 47.
 
-Lic. Edgar Conzuelo Contreras
+Queda prohibida la implementación y aplicación de técnicas de identificación de los animales que provoquen la pérdida de una parte sensible del cuerpo o la alteración de la estructura ósea, que se traduzcan en problemas de bienestar animal a largo plazo.
 
-Director General
+###### Artículo 48.
 
-Presidente
+En todos los documentos en que se haga constar una operación de compra-venta de ganado debe hacerse una reseña pormenorizada de los animales que se enajenen, así como de los fierros, marcas, señales, señales de sangre, tatuajes, aretes o cualquier otro medio de identificación.
 
-(Rúbrica).
+###### Artículo 49.
 
-Mtro. José Arturo Rodríguez Álvarez
+No se podrán vender o adquirir especies ganaderas y pieles, sin la documentación que acredite la propiedad de las mismas.
 
-Jefe “B” de Proyecto
+###### Artículo 50.
 
-Suplente del Presidente
+Los animales que no están herrados o señalados, que se encuentren en una propiedad, se presume que son del dueño de ésta, mientras que no se pruebe lo contrario.
 
-(Rúbrica).
+###### Artículo 51.
 
-Lic. Jessica Fabiola Luja Navas
+En los casos de robo de cualquiera especie ganadera y semovientes mostrencos se estará a lo dispuesto en la legislación penal aplicable.
 
-Representante de la Dirección por el
+### CAPÍTULO II. REGISTROS PECUARIOS
 
-Sistema de Gestión de Calidad y
+###### Artículo 52.
 
-Secretaria Técnica
+La autorización de fierros, marcas o señales, se solicitará ante la autoridad competente a través de los Ayuntamientos o de las organizaciones ganaderas.
 
-(Rúbrica).
+El registro de los mismos se hará ante el Ayuntamiento correspondiente.
 
-Ing. José Alberto Becerril Bedolla
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Director de Protección Forestal
+###### Artículo 53.
 
-Miembro Electo Titular
+El registro de fierro, arete, marca, señal, tatuaje, así como las patentes respectivas deberá refrendarse cada tres años, causando los derechos que marcan las leyes correspondientes
 
-(Rúbrica).
+###### Artículo 54.
 
-Lic. Karla Lilian Vázquez Sánchez
+Las marcas de herrar, deberán cumplir con las características que al efecto se establezcan en el Reglamento y se podrán componer de letras, números o signos, o combinaciones entre sí, sin que contengan más de tres figuras.
 
-Secretaria Particular del
+Éstas sólo podrán usarse por sus propietarios cuando hayan sido previamente autorizadas y registradas de conformidad con las disposiciones legales aplicables.
 
-C. Director General
+###### Artículo 55.
 
-Miembro Electo Titular
+Los animales marcados con fierros, marcas, señales, señales de sangre, tatuajes, aretes, o cualquier otro medio de identificación, no registrados y debidamente autorizados, quedarán sujetos a lo dispuesto en el Código Civil para el Estado Libre y Soberano de Puebla, sobre animales mostrencos.
 
-(Rúbrica).
+En lo que respecta a los animales trasherrados, o traseñalados, en los que no sea posible identificar el fierro o señal original, se observarán también las disposiciones relativas al ordenamiento legal antes invocado.
 
-Mtro. Jorge Ocampo Mata
+###### Artículo 56.
 
-Jefe del Depto. de Estudios de
+Las personas que falsifiquen o usen fierros, marcas, señales, señales de sangre, tatuajes, aretes, o cualquier medio de identificación, a nombre de otra, serán denunciadas por el delito de falsificación, conforme lo previsto en la legislación penal aplicable.
 
-Manejo Integral Forestal
+## TÍTULO QUINTO. SANIDAD ANIMAL E INOCUIDAD DE LOS ALIMENTOS
 
-Miembro Electo Titular
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-(Rúbrica).
+### CAPÍTULO I. ACTIVIDADES ZOOSANITARIAS
 
-Ing. Ricardo Fabila Guzmán
+###### Artículo 57.
 
-Delegado Regional Forestal
+Son de observancia obligatoria, todas las campañas sanitarias que se decreten en contra de las enfermedades infectocontagiosas y parasitarias de los animales, en los términos de las Leyes y Reglamentos respectivos.
 
-VII Valle de Bravo
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Miembro Electo Titular
+Las actividades zoosanitarias estarán conformadas por las medidas y campañas zoosanitarias que se lleven a cabo en el Estado, teniendo por objeto prevenir, controlar y erradicar enfermedades y plagas de los animales.
 
-(Rúbrica).
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-C. Héctor Jesús Bárcenas
+Se considerarán como medidas zoosanitarias:
 
-Quintero Jefe “A” de Proyecto
+a) La implementación integral de servicios de asistencia zoosanitaria;
 
-Miembro Electo Titular
+b) La movilización o retención de animales, sus productos o subproductos y productos químicos, farmacéuticos, biológicos y alimenticios, para uso o consumo en animales, y en su caso, la destrucción;
 
-(Rúbrica).
+c) El saneamiento, desinfección, desinfectación, esterilización, uso de germicidas y plaguicidas en los animales, locales y transportes, para evitar la transmisión o infestación de enfermedades o plagas de animales; y
 
-Lic. Yuliana Carbajal Tapia
+d) Las acciones preventivas de combate y erradicación de enfermedades y plagas en los animales.
 
-Secretaria “D”
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
-Miembro Electo Titular
+La Secretaría establecerá los lineamientos relativos a las medidas zoosanitarias, para evitar una emergencia o contingencia zoosanitaria, debiendo considerar, el análisis de riesgo, las características de la zona en donde se origine un problema, los productos químicos, farmacéuticos y alimenticios, en el consumo de los animales, así como cualquier otra causa que haya originado el problema.
 
-(Rúbrica).
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Los centros de sacrificio de los animales autorizados, deberán tener a su servicio durante las horas laborables, cuando menos un médico veterinario debidamente capacitado para la revisión de los animales a sacrificar, para la vigilancia epidemiológica, la supervisión de medidas zoosanitarias y la verificación de la sanidad animal.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+La Secretaría en coordinación con los Municipios, deberán realizar un programa de trabajo, para el cumplimiento de lo establecido en las diversas normas aplicables tanto federales como locales en lo relativo al establecimiento de rastros o centros de sacrifico de animales, de tal forma que no existan mataderos clandestinos.
+
+###### Artículo 58.
+
+Las autoridades sanitarias y organismos auxiliares a que se refiere esta Ley, coadyuvarán con la autoridad federal previo convenio según corresponda en la aplicación y verificación de medidas zoosanitarias necesarias para proteger las especies pecuarias, contra las enfermedades que las afecten y determinará los medios para su prevención, diagnóstico, tratamiento y erradicación, fijando en cada caso la vigencia que tendrá en el área geográfica correspondiente.
+
+###### Artículo 59.
+
+El Ejecutivo del Estado, a través de la Secretaria y en coordinación con la autoridad federal competente, Ayuntamientos, organismos auxiliares y productores pecuarios en su caso, implementarán las estrategias que requieran las campañas zoosanitarias en el territorio del Estado.
+
+En caso de un diagnóstico, o bajo sospecha o confirmación de la presencia de alguna enfermedad que ponga en riesgo la salud pública o animal, establecerán las medidas para su control en apoyo de la normatividad federal aplicable.
+
+###### Artículo 60.
+
+Cuando se comprueben los avances obtenidos en una campaña zoosanitaria dentro del Estado, región o compartimento y se cumplan los requisitos para obtener de la autoridad federal la autorización o el reconocimiento oficial de un nuevo status zoosanitario, el Ejecutivo del Estado, a petición de las organizaciones de productores pecuarios, solicitará a la autoridad federal la autorización o la certificación correspondiente.
+
+###### Artículo 61.
+
+El control, el diagnóstico de las enfermedades, la vacunación y la desinfección pecuarias, bajo campaña zoosanitaria oficial, deberán ser efectuadas por personal oficial o por médicos veterinarios zootecnistas debidamente identificados y aprobados por la autoridad federal competente, quienes deberán extender constancias de vacunación, pruebas de campo, tratamiento y desinfección, en !as que hará constar nombre y ubicación de la unidad de producción pecuaria, la especie y número de animales, la enfermedad contra la que se haya vacunado, diagnosticado o tratado y la fecha en que se efectuó.
+
+###### Artículo 62.
+
+Corresponderá a los Ayuntamientos, coordinarse con las autoridades competentes para implementar las medidas necesarias respecto de la disposición final sanitaria, de animales muertos que no pueden ser reconocidos o atribuidos a algún productor y que se encuentren en las vías públicas y privadas.
+
+###### Artículo 63.
+
+Los propietarios de ganado, estarán obligados a realizar los tratamientos contra ectoparásitos, para su control.
+
+Los particulares que presten servicios relacionados con la prevención y combate de plagas y enfermedades, actuarán en coordinación y bajo la vigilancia de la Secretaría.
+
+###### Artículo 64.
+
+La falta de cumplimiento del productor, sin causa justificada, de las disposiciones establecidas en las campañas zoosanitarias, lo hará acreedor a la aplicación de sanciones conforme a lo previsto en las disposiciones legales aplicables.
+
+### CAPÍTULO II. CONTINGENCIAS ZOOSANITARIAS
+
+###### Artículo 65.
+
+Cuando la autoridad federal declare emergencias o contingencias zoosanitarias, el Ejecutivo del Estado, las autoridades municipales y los productores pecuarios de las zonas afectadas tendrán la obligación de cooperar con dependencias federales, estatales, organismos auxiliares y demás autoridades competentes, en las actividades de diagnóstico, detección, prevención, control y/o erradicación de la enfermedad que se trate y, en su caso, a efectuar la desinfección y el sacrificio de animales enfermos y sus posibles contactos.
+
+###### Artículo 66.
+
+En los casos de aparición de plagas y/o enfermedades que afecten la ganadería, las autoridades federales o estatales en el ámbito de su competencia dictarán las medidas sanitarias y administrativas tendientes a evitar la propagación, mediante declaratoria oficial que se publicará en el Periódico Oficial del Estado.
+
+###### Artículo 67.
+
+La declaratoria a que se refiere el artículo anterior, deberá notificarse al productor y a las organizaciones de productores, señalando los alcances geográficos, tiempo y medidas de observancia obligatoria hasta el control y erradicación de la plaga o enfermedad y cesen los efectos de la declaratoria.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 68.
+
+Mientras no se levante la declaratoria de emergencia o contingencia zoosanitaria no se expedirán certificados zoosanitarios, ni guías de tránsito de la zona infectada a la zona libre y viceversa, a excepción de los animales que sean destinados a centros de sacrificio autorizados por autoridad competente o los que la autoridad sanitaria autorice y se dictará aislamiento completo o parcial de la zona, sin contravenir las disposiciones de las NOM's, o acuerdos establecidos por las autoridades correspondientes.
+
+###### Artículo 69.
+
+La Secretaría difundirá por los medios que estime convenientes, la información y conocimientos relacionados con la materia, a fin de instruir a la población y obtener su cooperación en el combate y prevención de plagas y enfermedades.
+
+### CAPÍTULO III. INOCUIDAD
+
+###### Artículo 70.
+
+Los propietarios o encargados de ganado tienen la obligación de prodigar a sus animales los cuidados preventivos y zootécnicos, necesarios para preservar la salud y bienestar de los mismos. Las autoridades sanitarias establecerán obligatoriamente las medidas preventivas que estimen necesarias a efecto de alcanzar el sano desarrollo de la ganadería.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 71.
+
+Queda prohibida la comercialización de animales muertos y sus despojos por cualquier causa de muerte (sic) se trate de alguna enfermedad infecto-contagiosa.
+
+Toda persona que venda, acepte o lleve a cabo cualquier operación o contrato sobre algún animal muerto a causa de una enfermedad infecto-contagiosa, será sancionado en los términos de esta Ley sin perjuicio de aplicarse las sanciones a que se haga acreedora.
+
+###### Artículo 72.
+
+A fin de evitar la transmisión de brucelosis y tuberculosis al ser humano por el consumo de leche bronca, sus productos y subproductos, las autoridades competentes, en coordinación con los productores, deberán considerar prioritario el establecimiento de la infraestructura necesaria para que la totalidad de la leche líquida destinada al consumo humano sea previamente pasteurizada.
+
+Asimismo y a fin de evitar el contagio de enfermedades y su diseminación, se prohíbe la alimentación de porcinos con desperdicios de alimentos o comida.
+
+###### Artículo 73.
+
+El abastecimiento de carne deberá proceder de un centro de sacrificio autorizado por autoridad competente y contar con su respectivo sello de inspección sanitaria.
+
+En el caso de productos cárnicos se estará a la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 74.
+
+La venta y uso de productos veterinarios, químicos, farmacéuticos y biológicos para consumo y uso de los animales en el Estado, deberán estar autorizados por la autoridad federal competente en términos de las disposiciones federales correspondientes.
+
+También se deberán tomar en consideración las disposiciones de sanidad animal, en las que se determinan los productos para uso o consumo animal que podrán ser adquiridos o aplicados únicamente mediante receta médica emitida por médicos veterinarios.
+
+Los propietarios, representantes de los establecimientos, las personas físicas o morales que desarrollen o presten cualquier actividad de salud animal o servicio veterinario, deberán asegurarse que los productos alimenticios, químicos, farmacéuticos o biológicos para uso o consumo animal que recomienden, utilicen o vendan, cuenten con el registro o autorización correspondiente, en caso de incumplimiento serán sancionados de conformidad a lo establecido en la presente Ley y demás disposiciones aplicables.
+
+### CAPÍTULO IV. MOVILIZACIÓN DEL GANADO, SUS PRODUCTOS Y SUBPRODUCTOS
+
+###### Artículo 75.
+
+La movilización de especies ganaderas, de sus productos y subproductos que se realice en el Estado, se sujetará a las disposiciones de esta Ley y su Reglamento, en lo que no contravengan las disposiciones federales e invariablemente se debe contar con los permisos que para tal efecto determine la autoridad competente y ampararse con guía de tránsito y certificado zoosanitario.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+En toda movilización de bovinos, ovinos, caprinos y colmenas en el Estado, se deberá contar con la identificación del Sistema Nacional de Identificación Individual del Ganado.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+El Gobierno del Estado, en coordinación con el Gobierno Federal, podrá en cualquier momento rechazar el ingreso a la Entidad, de ganado con estatus zoosanitario menor al del Estado de Puebla, siempre que éste constituya un riesgo sanitario para la actividad pecuaria del lugar de destino, basado en el estatus sanitario de origen otorgado por organismos nacionales o internacionales, las condiciones sanitarias en que se movilice y el motivo de la misma.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Cualquier persona que pretenda movilizar e introducir ganado bovino a las zonas o regiones reconocidas por el Comité Binacional de Tuberculosis bovina, deberá contar con un permiso de Internación a las regiones certificadas por parte de la Secretaría.
+
+###### Artículo 76.
+
+Las guías de tránsito serán expedidas por las Asociaciones Ganaderas Locales y a falta de ésta, por las Autoridades Municipales. Los interesados deberán comprobar la propiedad, la sanidad, el pago de las contribuciones que se hubieren causado y el pago de las cuotas sociales. La sanidad se acreditará con el certificado zoosanitario correspondiente. Por cada certificado zoosanitario, deberá extenderse una guía de tránsito.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 77.
+
+Las guías de tránsito serán foliadas bajo un sistema electrónico que administra la Secretaría.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+###### Artículo 78.
+
+Es obligación de quienes movilicen animales, productos y subproductos, detenerse en los puntos de verificación e inspección interna, a efecto de presentar la documentación correspondiente que acredite la procedencia, propiedad, sanidad y destino de los mismos.
+
+Para la inspección de lo previsto en el párrafo anterior se podrá contar con el apoyo de la Secretaría de Seguridad Pública, Policía Federal Preventiva, Ministerio Público y demás autoridades en materia de Seguridad Vial.
+
+###### Artículo 79.
+
+Queda prohibido el embarque y movilización de aquellos animales con fines de producción y reproducción que presenten evidencias de enfermedad, parásitos o heridas que puedan representar riesgo de contagio.
+
+###### Artículo 80.
+
+Se prohíbe el tránsito de animales enfermos y de presentar signos de enfermedad, será detenida toda la partida, quedando sujeta a control sanitario. La reanudación de la marcha se permitirá por autorización de las autoridades competentes sin perjuicio de las sanciones previstas en las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+En el caso de que se determine que los animales, sus productos y subproductos sujetos a movilización representan un riesgo sanitario para el Estado, se deberán aplicar las medidas zoosanitarias correspondientes.
+
+###### Artículo 81.
+
+Las especies ganaderas deberán movilizarse dentro del Estado en unidades de transporte que permitan su visibilidad y contar con un fleje sanitario, autorizado por la Secretaría que garantice su origen y su destino.
+
+> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+Los Inspectores podrán detener unidades en tránsito que transporten animales, productos y subproductos pecuarios, dando parte a la autoridad correspondiente en caso de que no se compruebe la procedencia legal, su condición sanitaria y legítima propiedad, e impedir los embarques o la movilización de ganado hasta en tanto se presente la documentación requerida para que ésta proceda conforme a lo que establece la normatividad aplicable.
+
+###### Artículo 82.
+
+Los propietarios de las unidades de transporte de ganado son solidariamente responsables de cualquier infracción a este Capítulo en cuanto a la falta de documentación legal para el traslado de ganado y sus productos.
+
+## TÍTULO SEXTO. FOMENTO Y DESARROLLO GANADERO
+
+### CAPÍTULO I. CADENAS PRODUCTIVAS
+
+###### Artículo 83.
+
+La Secretaría constituirá mecanismos de apoyo para la implementación, validación y coordinación de las cadenas productivas; para tal efecto en el ámbito de su respectiva competencia deberá:
+
+I.- Establecer y apoyar los planes encaminados al fomento y desarrollo sustentable e integración de las cadenas productivas;
+
+II.- Implementar modelos de generación, validación y transferencia de tecnología que incidan en las diferentes especies ganaderas;
+
+III.- Coordinar con Instituciones de educación superior e investigación y productores ganaderos el establecimiento de centros de mejoramiento pecuario en lugares estratégicos para el fomento y desarrollo de la ganadería en el Estado;
+
+IV.- Coordinar e implementar los planes rectores de los sistemas-producto;
+
+V.- Fomentar la realización de proyectos pecuarios integrales de productores individuales u organizados que permitan la capitalización de unidades de producción pecuaria;
+
+VI.- Promover la capacitación a los técnicos en ganadería para la realización de transferencia de tecnología de actividades productivas susceptibles de adaptación, así como procurar la investigación que fomente la calidad de los productos pecuarios;
+
+VII.- Fomentará la tecnificación pecuaria en el Estado;
+
+VIII.- Priorizar en coordinación con las autoridades y los productores ganaderos, el establecimiento de la infraestructura necesaria para que la totalidad de la leche líquida destinada al consumo humano sea previamente pasteurizada;
+
+IX.- Integrar un grupo de asistencia técnica integral para el buen funcionamiento de las actividades pecuarias;
+
+X.- Impulsar entre los productores pecuarios la realización de buenas prácticas de manejo en las unidades de producción pecuaria y buenas prácticas de manufactura en el procesamiento de sus productos;
+
+XI.- Establecer programas de capacitación a productores pecuarios encaminados a elevar la productividad de las unidades de producción, industrialización y comercialización;
+
+XII.- Elaborar programas para disminuir los impactos ocasionados por contingencias de los fenómenos meteorológicos;
+
+XIII.- Fomentar el establecimiento de praderas y cultivos forrajeros de alto rendimiento y calidad, de abrevaderos y cuerpos de agua para uso ganadero y la tecnificación de pastoreo;
+
+XIV.- Fomentar que los productores utilicen los recursos de apoyos directos otorgados por las instancias de gobierno para adecuar y modernizar las unidades de producción, así como alentar la reconversión productiva en superficies en que sea posible establecer esas actividades con mayor rentabilidad;
+
+XV.- Promover la realización de alianzas estratégicas y acuerdos para la integración de las cadenas productivas de cada sistema;
+
+XVI.- Promover mecanismos de concertación entre productores primarios, industriales y los diferentes órganos de gobierno para definir las características y cantidades de los productos, precios, formas de pago y apoyos del Estado;
+
+XVII.- Difundir permanentemente el consumo de los productos y subproductos de origen animal; y
+
+XVIII.- Las demás que sean necesarias para fomentar el desarrollo sustentable de las cadenas productivas en el Estado.
+
+###### Artículo 84.
+
+La Secretaría, en el ámbito de su competencia fomentará la organización de productores pecuarios y su integración a las cadenas productivas.
+
+###### Artículo 85.
+
+La Secretaría analizará y determinará apoyos específicos con recursos de los programas destinados al desarrollo rural sustentable, para impulsar la generación de valor agregado en los productos pecuarios y la consolidación de los mercados dentro y fuera del país.
+
+###### Artículo 86.
+
+La Secretaría con fines de seguridad alimentaria establecerá y difundirá los programas y proyectos para incentivar la ganadería de traspatio, en términos de las disposiciones legales aplicables.
+
+###### Artículo 87.
+
+Las actividades que tengan como sujetos de producción fauna silvestre en sistemas de producción alternativos y/o cinegéticos, será regulada por la legislación federal vigente.
+
+La Secretaría podrá realizar programas en materia de sanidad y bienestar animal e inocuidad de los productos que pudiesen emanar de esta actividad, en coordinación con las dependencias y entidades competentes y con los sectores interesados.
+
+###### Artículo 88.
+
+El Estado promoverá la conservación y aprovechamiento de recursos con fines cinegéticos a través de medidas tendientes al aprovechamiento sustentable de la misma.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE NOVIEMBRE DE 2013)</small>
+
+### CAPÍTULO II. DE LA APICULTURA
+
+###### Artículo 89.
+
+La Secretaría fomentará la capacitación, investigación y transferencia de tecnología entre los apicultores del Estado, propiciando así mismo, la participación de las organizaciones ganaderas, instituciones educativas públicas y privadas y de aquéllas que realicen actividades apícolas en dichos rubros.
+
+###### Artículo 90.
+
+Las medidas y acciones tendientes a regular la producción, reproducción, crianza y mejoramiento apícola sustentable, se regirán por lo establecido en el Reglamento de la Ley.
+
+###### Artículo 91.
+
+La Secretaría realizará las acciones necesarias para fomentar y promover el desarrollo de la acuacultura y la pesca, en todas sus modalidades y niveles de inversión, para tal efecto en el ámbito de su respectiva competencia deberá:
+
+I.- Fomentar la investigación, en reproducción, genética, nutrición, sanidad y extensionismo, entre otros;
+
+II.- Asesorar a los acuacultores para que el cultivo y explotación de la flora y fauna acuática, se lleven a cabo de acuerdo con las prácticas e investigaciones científicas y tecnológicas;
+
+III.- Brindar asesoría, en materia de construcción de infraestructura, adquisición y operación de plantas de conservación y transformación industrial, insumos, artes y equipos de cultivos y demás bienes que requieran el desarrollo de la actividad acuícola;
+
+IV.- Procurar la construcción de parques de acuacultura, así como de unidades de producción, centros acuícolas y laboratorios dedicados a la producción de organismos destinados al ornato, al cultivo y repoblamiento de las especies de la flora y fauna acuática;
+
+V.- Procurar la construcción, conservación, mejoramiento y equipamiento de embarcaciones y de artes de pesca selectiva y ambientalmente seguras;
+
+VI.- Elaborar programas de industrialización, comercialización y consumo de productos acuícolas y pesqueros, tendientes a fortalecer las redes de valor de los productos generados por la acuacultura y la pesca, mediante acciones de apoyo y difusión; y
+
+VII.- Fomentar la organización económica de los productores y demás agentes relacionados al sector, a través de mecanismos de comunicación, concertación y planeación.
+
+###### Artículo 92.
+
+Son derechos y obligaciones de los productores apícolas:
+
+I.- Acceder a los apoyos y asesoramiento técnico de los Gobiernos Federal, Estatal y Municipal que se otorguen de acuerdo a los programas correspondientes;
+
+II.- Participar en la integración de organismos técnicos o de consulta para la protección y mejoramiento de la apicultura en el Estado;
+
+II.- Avisar inmediatamente a la Secretaría, asociación o autoridad competentes, los casos de brotes de enfermedades que afecten a las abejas;
+
+IV.- Respetar las rutas o zonas de pecoreo, autorizadas por la Secretaría;
+
+V.- Informar a la Secretaría por escrito sobre la movilización de colmenas dentro del Estado o fuera de éste; y
+
+VI.- Las demás que fije la Secretaría en el ámbito de su competencia y las demás que le impongan las disposiciones legales aplicables.
+
+### CAPÍTULO III. EXPOSICIONES Y PREMIOS GANADEROS
+
+###### Artículo 93.
+
+La Secretaría fomentará con las organizaciones ganaderas las actividades de desarrollo ganadero, así como la realización de exposiciones ganaderas regionales en el lugar y fecha que estimen las partes.
+
+###### Artículo 94.
+
+La Secretaría implementará los mecanismos de reconocimiento a los ganaderos más destacados que por su trabajo sean motivo de ejemplo en el Estado, previo acuerdo del Consejo.
+
+## TÍTULO SÉPTIMO. DE LA INSPECCIÓN, VERIFICACIÓN Y VIGILANCIA
+
+### CAPÍTULO I. DE LA INSPECCIÓN Y VERIFICACIÓN
+
+###### Artículo 95.
+
+Las disposiciones de este Título, regulan la actuación de la Secretaría durante el ejercicio de las funciones de inspección, verificación, vigilancia, ejecución de medidas de seguridad, infracciones, determinación de sanciones y recurso administrativo, así como la presentación de la denuncia popular.
+
+En lo no previsto por el presente Título se aplicará supletoriamente el Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
+
+###### Artículo 96.
+
+La Secretaría podrá realizar actos de inspección y vigilancia para el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y demás disposiciones aplicables, a través del personal debidamente autorizado para ello.
+
+El personal al realizar las visitas de inspección y vigilancia, deberá contar con el documento oficial que lo acredite como inspector, así como la orden escrita de la Secretaria, en la que se precisará el lugar o la zona que habrá de inspeccionarse, el objeto de la diligencia y el alcance de ésta.
+
+###### Artículo 97.
+
+La inspección y verificación de especies ganaderas, sus productos y subproductos, es obligatoria en el Estado y deberá realizarse por personal profesional debidamente autorizado, en:
+
+I.- Unidades de Producción, centros de mejoramiento pecuario, estanques, cuerpos de agua y demás lugares semejantes;
+
+II.- Lugares de embarque y centros de certificación de origen;
+
+III.- Vías de Tránsito;
+
+IV.- Puntos de verificación zoosanitaria e inspección;
+
+V.- Centros de sacrificio y comercio;
+
+VI.- Establecimientos donde se industrialicen o comercialicen;
+
+VII.- Centros de acopio, mercados, ferias, exposiciones o espectáculos ganaderos;
+
+VIII.- Rutas o zonas de pecoreo, bodegas, plantas de extracción y procesamiento apícola;
+
+IX.- La movilización de colmenas pobladas, sus productos y subproductos; y
+
+X.- Cualquier otro lugar en donde se desempeñe alguna actividad pecuaria.
+
+###### Artículo 98.
+
+El personal autorizado previo a iniciar la inspección, requerirá la presencia del visitado o su representante legal; en caso de no encontrarse se dejará citatorio para que espere a una hora fija dentro de las veinticuatro horas siguientes para la práctica de la inspección. Si no espera en el día y hora señalado, se entenderá la diligencia con el encargado o persona que se encuentre en el lugar, le exhibirá la orden respectiva y le entregará copia de la misma con firma autógrafa, requiriéndola para que en el acto designe dos testigos.
+
+En caso de negativa o si los designados no aceptan desempeñarse como testigos, no invalidará los efectos de inspección y el personal autorizado lo hará constar en el acta administrativa que al efecto se levante y asignará dos testigos.
+
+###### Artículo 99.
+
+La persona con quien se entienda la inspección estará obligada a permitir al personal autorizado, el acceso al lugar o lugares sujetos a inspección, en los términos previstos en la orden escrita, a que se hace referencia en el artículo 97 de esta Ley, así como proporcionar toda clase de información que conduzca a la verificación del cumplimiento de esta Ley y demás disposiciones aplicables.
+
+###### Artículo 100.
+
+La Secretaría podrá solicitar el auxilio de la fuerza pública para efectuar la visita de inspección, cuando alguna o algunas personas obstaculicen o se opongan a la práctica de la inspección, independiente de las sanciones a que haya lugar.
+
+###### Artículo 101.
+
+En toda visita de inspección se levantará acta por triplicado, en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubiesen presentado durante la inspección, siendo de manera enunciativa y no limitativa los siguientes:
+
+I.- Hora, día, mes y año en que se inicie y concluya la visita;
+
+II.- Colonia, calle, número, población o municipio y código postal en que se encuentre ubicado el lugar en que se practique la visita;
+
+III.- Nombre, denominación o razón social del visitado;
+
+IV.- Número y fecha de la orden de visita que la motivó;
+
+V.- Nombre y cargo de la persona con quien se entendió la visita de inspección;
+
+VI.- Nombre y domicilio de las personas que fungieron como testigos;
+
+VII.- Los datos relativos al lugar o la zona que habrá de inspeccionarse indicando el objeto de la inspección;
+
+VIII.- Manifestación del visitado, si quisiera hacerla;
+
+IX.- Firma de los que intervinieron en la inspección; y
+
+X.- Las demás que se establezcan en el Reglamento de la presente Ley.
+
+###### Artículo 102.
+
+Antes de finalizar la inspección, se dará oportunidad a la persona con la que se entendió la misma para que en ese acto formule sus observaciones, con relación a los hechos u omisiones asentados en el acta respectiva.
+
+A continuación, se procederá a firmar el acta por la persona con quien se entendió la inspección, por los testigos y el personal autorizado, quien entregará copia del acta al interesado, haciendo de su conocimiento de las infracciones cometidas, para que, dentro del término de cinco días hábiles, manifieste por escrito lo que a su derecho convenga, en relación con el acta de inspección, y en su caso ofrezca pruebas en relación con los hechos u omisiones que en la misma se asienten; asimismo se le requerirá para que subsane las irregularidades que constituyen la o las infracciones que en su caso incurrió.
+
+Si la persona con la que se entendió la inspección o los testigos se negaren a firmar el acta, o se negare el interesado a aceptar copia de la misma, dichas circunstancias se asentarán en ella, sin que esto afecte su validez.
+
+###### Artículo 103.
+
+Recibida el acta de inspección por la Secretaría, se decretarán en su caso, la o las medidas de seguridad correspondientes mediante resolución, debidamente fundada y motivada, y se le notificará al interesado de manera personal, o por correo certificado con acuse de recibo, el acta de inspección, la o las medidas de seguridad decretadas y la determinación dictada.
+
+###### Artículo 104.
+
+Transcurrido el término a que se refiere el segundo párrafo del artículo 102, y desahogadas las pruebas, dentro de los seis días hábiles siguientes, la Secretaría emitirá la resolución administrativa definitiva, misma que contendrá una relación de los hechos, las disposiciones legales y administrativas aplicables, la valoración de las pruebas ofrecidas por el interesado si las hubiere, así como los puntos resolutivos, en los que se decreten o adicionen las medidas que deberán llevarse a cabo para corregir las deficiencias o irregularidades observadas, el plazo otorgado al infractor para satisfacerlas y las sanciones a que se hubiere hecho acreedor conforme a las disposiciones aplicables; contra esta resolución procederá el Recurso Administrativo de Revisión.
+
+###### Artículo 105.
+
+En el procedimiento administrativo previsto en la Ley, son admisibles toda clase de pruebas, con excepción de la confesional, la declaración de partes y las que sean contrarias a derecho, la moral y a las buenas costumbres.
+
+###### Artículo 106.
+
+La Secretaría verificará el cumplimiento de las medidas ordenadas en términos del requerimiento o resolución respectiva y en caso de subsistir la o las infracciones podrá imponer las sanciones que procedan conforme esta Ley, su Reglamento y demás disposiciones aplicables, independientemente de denunciar la desobediencia de un mandato legítimo de autoridad ante las instancias competentes.
+
+### CAPÍTULO II. DE LAS MEDIDAS DE SEGURIDAD
+
+###### Artículo 107.
+
+Cuando se realicen actividades que infrinjan las disposiciones de esta Ley, su Reglamento y demás disposiciones aplicables o produzcan riesgo zoosanitario, daños a la salud, deterioro de los recursos naturales, en el ámbito de su competencia, la Secretaría o los Ayuntamientos en su caso, en forma fundada y motivada, podrán ordenar inmediatamente una o varias de las siguientes medidas de seguridad:
+
+I.- La clausura temporal, parcial o total de centros de sacrificio, de cernideros, unidades de producción o apiarios, que no cuenten con la autorización correspondiente; y
+
+II.- El aseguramiento precautorio de los bienes, utensilios o instrumentos directamente relacionados con las unidades de producción pecuaria, establecidas en el Estado.
+
+La autoridad podrá solicitar el auxilio de la fuerza pública para ejecutar cualquiera de las acciones anteriores.
+
+Se entienden por medidas de seguridad, las acciones tendientes a evitar daños a la salud, y deterioro de los recursos naturales, que se realicen en contravención a esta Ley y su Reglamento.
+
+Las medidas de seguridad son de inmediata ejecución, tienen carácter temporal y preventivo y se aplicarán sin perjuicio de las sanciones que, en su caso, correspondan.
+
+Tratándose de asuntos competencia de los Ayuntamientos aplicarán lo dispuesto en el presente Título, dando aviso inmediato a la Secretaría, para iniciar el procedimiento administrativo correspondiente.
+
+###### Artículo 108.
+
+La Secretaría y los Ayuntamientos en el ámbito de sus respectivas competencias indicarán al interesado dentro del procedimiento administrativo correspondiente, cuando haya dictado alguna de las medidas de seguridad previstas en esta Ley, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron su imposición y los plazos para su realización, a fin de que una vez cumplidas, se ordene el retiro de la medida de seguridad impuesta.
+
+Asimismo, determinará las medidas pertinentes para el bienestar de los animales si los hubiera.
+
+### CAPÍTULO III. DE LAS INFRACCIONES
+
+###### Artículo 109.
+
+Son infracciones a la presente Ley:
+
+I.- Obstaculizar al personal autorizado para la realización de visitas y operativos de inspección;
+
+II.- No estar inscrito en el registro ganadero o no registrar los fierros, marcas o señales en la forma y términos que establezca la autoridad competente;
+
+III.- Trasherrar o herrar con plancha llena, con alambres, ganchos, argollas, o con fierro corrido, así como amputar una, ambas o media oreja del ganado;
+
+IV.- Introducir ganado en terrenos ajenos cercados o de cultivo;
+
+V.- Transportar especies pecuarias, sin contar con la documentación respectiva o los sistemas de control establecidos en el ámbito estatal;
+
+VI.- Transportar ganado en vehículos que impidan verlo libremente, atendiendo a las características del mismo;
+
+VII.- No construir cercas o no dar el debido mantenimiento a las mismas, cuando dichos predios colinden con cualquier vía pública;
+
+VIII.- Utilizar marcas registradas de las que no sea titular;
+
+IX.- Vender, comprar, recoger, aceptar o llevar a cabo cualquier operación o contrato con el despojo de algún animal muerto a causa de una enfermedad infecto contagiosa;
+
+X.- Sacrificar, comerciar o transitar con animales, productos o subproductos sin la autorización y documentación correspondiente;
+
+XI.- Alterar o asentar datos falsos en los certificados zoosanitarios o en las guías de tránsito;
+
+XII.- Aceptar pieles en crudo que no estén amparadas con las guías correspondientes;
+
+XIII.- Instalar, operar o administrar un rastro o unidades de producción, sin los permisos necesarios y expedidos por autoridad competente;
+
+XIV.- Incumplir con la obligación de dar los avisos o presentar los informes a que se refiere esta Ley;
+
+XV.- Realizar actos u omisiones en la prestación de los servicios técnicos o médicos, que propicien o provoquen la comisión de cualquiera de las infracciones previstas en esta Ley;
+
+XVI.- Contravenir las disposiciones contenidas en los decretos estatales por los que se establezcan zonas de contingencias sanitarias;
+
+XVII.- Incumplir con las obligaciones derivadas de las campañas sanitarias;
+
+XVIII.- Eludir los puntos de inspección y vigilancia, para la movilización de especies ganaderas; y
+
+XIX.- Cualquier otra contravención a lo dispuesto en la presente Ley, en su Reglamento y demás disposiciones aplicables.
+
+### CAPÍTULO IV. DE LAS SANCIONES ADMINISTRATIVAS
+
+###### Artículo 110.
+
+Las violaciones a los preceptos de esta Ley, su Reglamento y disposiciones que de ellos emanen, constituyen infracciones y ante las mismas la Secretaría, podrá imponer discrecionalmente atento a la gravedad de la infracción, cualquiera de las siguientes sanciones:
+
+I.- Multa de veinte a dos mil días de salario mínimo general vigente en el Estado, al momento de cometer cualquiera de las infracciones previstas en las fracciones II, V, VI, VII, VIII, XIII, XIV, XV, XVII y XVIII del artículo 109 de la presente Ley;
+
+II.- Multa de veinte a veinte mil días de salario mínimo general vigente en el Estado, al momento de cometer cualquiera de las infracciones previstas en las fracciones I, III, IV, IX, X, XI, XII, XVI y XIX del artículo 109 de la presente Ley;
+
+III.- Clausura temporal o definitiva, parcial o total;
+
+IV.- Revocación de autorizaciones otorgadas por la Secretaría; y
+
+V.- Remate de los bienes asegurados.
+
+###### Artículo 111.
+
+Si una vez vencido el plazo concedido por la autoridad para subsanar la o las infracciones que se hubieren cometido, resultare que éstas aún subsisten, se podrá imponer al infractor multa por cada día que transcurra sin obedecer el requerimiento o la resolución definitiva, o la clausura del establecimiento, según corresponda.
+
+En caso de reincidencia, el monto de la multa podrá ser hasta por dos veces al monto originalmente impuesto, sin exceder del doble del máximo permitido o la clausura definitiva, atendiendo la gravedad de la infracción.
+
+Se considera que existe reincidencia cuando se incurre en la misma conducta infractora en el periodo de un mismo año.
+
+###### Artículo 112.
+
+Las multas que imponga la Secretaría una vez notificadas, deberán pagarse espontáneamente ante la Secretaría de Finanzas y Administración dentro de los 15 días siguientes al de su notificación.
+
+De no realizarse el pago de manera espontánea en el plazo señalado en el párrafo anterior, una vez que hayan quedado firmes, serán consideradas créditos fiscales a favor del erario estatal, las cuales se cobrarán por la Secretaría de Finanzas y Administración, a través del Procedimiento Administrativo de Ejecución y para que en los casos que proceda, ejerza las facultades que le confiere el Código Fiscal del Estado de Puebla.
+
+###### Artículo 113.
+
+Independientemente de la sanción administrativa impuesta al infractor, en caso de desobediencia al mandato legítimo de Autoridad, se hará la denuncia correspondiente para que se ejercite la acción penal y se haga acreedor a la sanción que establece el Código de Defensa Social del Estado Libre y Soberano de Puebla.
+
+###### Artículo 114.
+
+Cuando se imponga como sanción la clausura temporal o definitiva, total o parcial, el personal autorizado para ejecutarla, procederá a levantar el acta de la diligencia, siguiendo para ello los lineamientos administrativos establecidos para las inspecciones.
+
+###### Artículo 115.
+
+Para la imposición de las sanciones por infracciones a la presente Ley y su Reglamento, se tomará en cuenta:
+
+I.- La gravedad de la infracción, considerando principalmente los siguientes criterios: los daños que hubieran producido o puedan producirse en la salud pública y animal;
+
+II.- Las condiciones económicas del infractor;
+
+III.- La reincidencia, si la hubiere;
+
+IV.- El carácter intencional o imprudencial de la acción u omisión constitutivos de la infracción; y
+
+V.- El beneficio directamente obtenido por el infractor por los actos que motiven la sanción.
+
+###### Artículo 116.
+
+En caso que el infractor realice las medidas correctivas o subsane las irregularidades en que hubiere incurrido, previamente a que la Secretaría imponga una sanción, dicha autoridad deberá considerar tal situación como atenuante de la infracción cometida.
+
+###### Artículo 117.
+
+Independientemente de lo mencionado en el artículo 110, procederá la clausura definitiva cuando el infractor:
+
+I.- No cuente con la autorización necesaria para el funcionamiento de sus unidades de producción o actividades pecuarias; y
+
+II.- Esté en alguno de los supuestos del artículo 109 de la presente Ley.
+
+###### Artículo 118.
+
+La Secretaría promoverá ante las autoridades Federales, Estatales o Municipales competentes, con base en los estudios técnicos que realice, la limitación o suspensión de las unidades de producción o actividades pecuarias, que produzcan riesgo zoosanitario o daños a la salud.
+
+### CAPÍTULO V. DEL RECURSO ADMINISTRATIVO DE REVISIÓN
+
+###### Artículo 119.
+
+La resolución definitiva dictada en el procedimiento administrativo con motivo de la aplicación de esta Ley, su Reglamento y disposiciones que de ella emanen, podrá ser impugnada por los interesados, mediante el recurso de revisión.
+
+###### Artículo 120.
+
+Para los efectos del presente Capítulo la autoridad competente que resolverá el recurso, será la Secretaría.
+
+###### Artículo 121.
+
+El recurso de revisión se interpondrá por la parte que se considere agraviada, por escrito dentro de los diez días hábiles siguientes al día en que se hubiera hecho la notificación del acto que sé reclama y se contará en ellos el día del vencimiento.
+
+###### Artículo 122.
+
+El escrito de interposición del recurso de revisión, deberá presentarse ante la Secretaría debidamente firmado por el recurrente, y deberá expresar al menos lo siguiente:
+
+I.- La autoridad a quien se dirige;
+
+II.- El nombre, firma o huella, así como domicilio del recurrente, y del tercero si lo hubiere, así como el lugar que señale para efecto de notificaciones;
+
+III.- El acto o resolución que se recurre y fecha en que se le notificó o tuvo conocimiento del mismo;
+
+IV.- La mención de la autoridad que haya dictado la resolución, ordenado o ejecutado el acto;
+
+V.- Los agravios que le causan;
+
+VI.- Acompañar copia de la resolución que se impugna, y de la notificación correspondiente, o en su caso, señalar la fecha en que se ostente sabedor del acto; y
+
+VII.- Las pruebas que ofrezca, que tengan relación inmediata y directa con el acto impugnado debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad cuando actúen en nombre de otro, en ningún trámite administrativo se admitirá la gestión de negocios; las pruebas deberán desahogarse o desecharse en la audiencia de recepción de pruebas y alegatos.
+
+En caso de que el recurrente omitiere cumplir alguno de los requisitos a que se refieren las fracciones anteriores, la autoridad que conozca del recurso lo requerirá para que en un término de tres días subsane tales omisiones, en caso de no hacerlo se desechará por notoriamente improcedente.
+
+###### Artículo 123.
+
+Para el caso de existir tercero que haya gestionado el acto, se le correrá traslado con copia de los agravios para que en el término de tres días hábiles manifieste lo que a su interés convenga y en caso de que se desconozca su domicilio se le emplazará por edictos.
+
+La Secretaría, podrá decretar para mejor proveer estando facultada para requerir, los informes y pruebas que estime pertinentes y para el caso de que el informe acredite que los documentos ofrecidos como prueba obran en los archivos públicos, deberá solicitar oportunamente copia certificada de los mismos, si no le fueren expedidos, se podrá requerir directamente al funcionario o autoridad que los tenga bajo su custodia, para que los expida y envíe a la autoridad requirente, dichas copias.
+
+Transcurrido el término a que se refiere este artículo, se fijará día y hora para una audiencia de recepción de pruebas y alegatos, y concluida se ordenará se pase el expediente para dictar la resolución que corresponda en un plazo de quince días hábiles.
+
+###### Artículo 124.
+
+La interposición del recurso suspenderá la ejecución del acto impugnado, siempre y cuando:
+
+I.- Lo solicite expresamente el recurrente;
+
+II.- No se siga perjuicio al interés social o se contravengan disposiciones de orden público;
+
+III.- Tratándose de multas, que el recurrente garantice el crédito fiscal en cualquiera de las formas previstas en el Código Fiscal del Estado; y
+
+IV.- En los casos en que resulte procedente la suspensión del acto que se reclama, pero con ella se puedan ocasionar daños o perjuicios a terceros, la misma surtirá sus efectos, si el recurrente otorga fianza bastante a favor del Gobierno del Estado, a través de la Secretaría de Finanzas y Administración para reparar el daño e indemnizar los perjuicios que con ella se causaren, si no obtiene resolución favorable, contando la Secretaría con facultad discrecional para fijar el monto de esa garantía a otorgar.
+
+La autoridad deberá acordar, en su caso, la suspensión o la denegación de la suspensión dentro de los cinco días hábiles siguientes a su interposición, en cuyo defecto se entenderá concedida la suspensión.
+
+###### Artículo 125.
+
+Cuando el recurso se interponga contra una resolución que tenga por objeto el cobro de derechos o sanciones de tipo económico, la suspensión que se conceda no podrá surtir efectos, si el recurrente no garantiza el crédito fiscal.
+
+###### Artículo 126.
+
+El recurso es improcedente y se desechará cuando:
+
+I.- No sea presentado en el término concedido por esta Ley;
+
+II.- No se haya acompañado la documentación que acredite la personalidad del recurrente, o ésta no se acredite legalmente;
+
+III.- Cuando el recurrente haya sido requerido conforme a lo dispuesto por el artículo 122 de la presente Ley y no dé cumplimiento;
+
+IV.- No se presenten pruebas;
+
+V.- No sea firmado por el recurrente; y
+
+VI.- Se promueva contra actos que sean materia de otro recurso, que se encuentre pendiente de resolución.
+
+###### Artículo 127.
+
+Procederá el sobreseimiento del recurso, cuando:
+
+I.- El promovente se desista expresamente de su recurso;
+
+II.- El promovente muera durante el procedimiento, si el acto reclamado sólo afecta su persona;
+
+III.- Cuando hayan cesado los efectos del acto impugnado; y
+
+IV.- Se cumplan con los requerimientos, establecidos por la Secretaría.
+
+###### Artículo 128.
+
+La Secretaría, al resolver el recurso podrá confirmar, modificar o revocar el acto impugnado.
+
+###### Artículo 129.
+
+La resolución del recurso se fundará en derecho y examinará todos y cada uno de los agravios, hechos valer por el recurrente teniendo la autoridad la facultad de invocar hechos notorios, cuando uno de los agravios sea suficiente para desvirtuar la validez del acto impugnado, bastará sólo el examen de dicho punto.
+
+Si la resolución ordena realizar un determinado acto o iniciar la reposición del procedimiento, deberá cumplirse en un plazo de quince días hábiles.
+
+###### Artículo 130.
+
+Cualquier persona que se vea afectada directamente por actividades autorizadas por la Secretaría y que contravengan las disposiciones de esta Ley, su Reglamento y NOM'S, tendrán derecho a interponer en cualquier momento el recurso a que se refiere este Capítulo, en contra de los actos administrativos correspondientes.
+
+###### Artículo 131.
+
+En caso de que se expidan autorizaciones o se realicen actividades contrarias a esta Ley y su Reglamento, serán nulas y los servidores públicos responsables serán sancionados conforme lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Puebla. Dicha nulidad deberá ser declarada por medio del recurso a que se refiere el artículo anterior.
+
+###### Artículo 138.
+
+El expediente de la denuncia popular que hubiere sido aperturado, podrá ser concluido por las siguientes causas:
+
+I.- Por incompetencia de la Secretaría para conocer de la denuncia popular planteada;
+
+II.- Por la emisión de una resolución derivada del procedimiento de Inspección;
+
+III.- Por falta de interés del denunciante en los términos de este Capítulo; y
+
+IV.- Por desistimiento expreso del denunciante.
+
+### CAPÍTULO VI. DE LA DENUNCIA POPULAR
+
+###### Artículo 132.
+
+Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y sociedades podrán denunciar ante la Secretaría u otras autoridades competentes todo acto u omisión que produzca o pueda producir inseguridad en la actividad pecuaria, o contravenga las disposiciones de la presente Ley, y de los demás ordenamientos que regulen dicha actividad.
+
+Si la denuncia fuera presentada ante la autoridad estatal o municipal y resulta del orden federal, deberá ser remitida de manera inmediata para su atención y trámite a la autoridad competente.
+
+###### Artículo 133.
+
+La denuncia popular deberá hacerse por escrito o por comparecencia, y contendrá:
+
+I.- Nombre o razón social y domicilio del denunciante y, en su caso, de su representante legal;
+
+II.- Los actos u omisiones denunciados;
+
+III.- Los datos que permitan identificar al presunto infractor; y
+
+IV.- Las pruebas que en su caso ofrezca el denunciante.
+
+###### Artículo 134.
+
+La autoridad competente, una vez recibida la denuncia, procederá a verificar los hechos materia de aquélla, y le asignará el número de expediente correspondiente.
+
+En caso de recibirse dos o más denuncias por los mismos actos u omisiones, se ordenará la acumulación de éstas, y se notificará a los denunciantes el acuerdo respectivo.
+
+###### Artículo 135.
+
+La Secretaría, efectuará las diligencias necesarias para la comprobación de los hechos denunciados mediante el procedimiento de inspección, y si resultara que son competencia de otra autoridad, en la misma acta se asentará ese hecho, turnando inmediatamente las constancias que obren en el expediente a la autoridad competente para su trámite y resolución, notificando la resolución respectiva al denunciante en forma personal.
+
+###### Artículo 136.
+
+En caso de que no se compruebe que los actos u omisiones denunciados producen o pueden producir inseguridad o daños a la actividad pecuaria o contravengan las disposiciones de la presente Ley y su Reglamento, la Secretaría lo hará del conocimiento del denunciante.
+
+###### Artículo 137.
+
+La formulación de la denuncia popular, así como los acuerdos y resoluciones que emita la Secretaría, no afectarán el ejercicio de otros derechos o medios de defensa que pudiera corresponder a los afectados conforme a las disposiciones aplicables, no suspenderán ni interrumpirán sus plazos de prescripción.
+
+###### Artículo 139.
+
+Sin perjuicio de las sanciones administrativas o penales que procedan, toda persona que infrinja la presente Ley y su Reglamento, será responsable y estará obligada a reparar los daños causados, de conformidad con la legislación civil aplicable.
+
+## TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga la Ley Ganadera para el Estado de Puebla, publicada en el Periódico Oficial del Estado el once de agosto de mil novecientos setenta.
+
+###### ARTÍCULO CUARTO.
+
+El Reglamento a que se refiere la presente Ley, deberá aprobarse en un plazo no mayor de doce meses contados partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos en la materia y la substanciación de los recursos que se encuentren en trámite al inicio de la vigencia de la presente Ley, se sujetarán a las formas y procedimientos de los ordenamientos que les dieron origen.
+
+###### ARTÍCULO SEXTO.
+
+Los permisos y autorizaciones concedidos hasta antes de la entrada en vigor de la presente Ley, continuarán vigentes en tanto no se opongan a las disposiciones de la misma, o a los convenios y acuerdos de coordinación institucional que celebre el Estado con la Federación.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las erogaciones que deriven de la aplicación de esta Ley, estarán sujetas a la suficiencia presupuestal que apruebe el Honorable Congreso del Estado Libre y Soberano de Puebla.
+
+EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los veinte días del mes de julio de dos mil seis.- Diputado Presidente.- JOSÉ ALBERTO GONZÁLEZ MORALES.- Rúbrica.- Diputada Vicepresidenta.- BLANCA ESTELA JIMÉNEZ HERNÁNDEZ. Rúbrica.- Diputado Secretario.- OSCAR ANGUIANO MARTÍNEZ.- Rúbrica.- Diputado Secretario.- JUAN AGUILAR HERNÁNDEZ.- Rúbrica.
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veintiún días del mes de julio de dos mil seis.- El Gobernador Constitucional del Estado.- LICENCIADO MARIO P. MARÍN TORRES.- Rúbrica.- El Secretario de Gobernación.- LICENCIADO JAVIER LÓPEZ ZAVALA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 22 DE NOVIEMBRE DE 2013.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
