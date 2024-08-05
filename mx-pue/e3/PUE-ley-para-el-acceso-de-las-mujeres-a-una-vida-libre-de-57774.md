@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2023-07-27"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -45,11 +45,11 @@ LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PU
 
 ### CAPÍTULO I. DEL OBJETO Y APLICACIÓN DE LA LEY
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 1.
 
-Las disposiciones de esta Ley son de orden público, interés social, observancia general y tienen por objeto establecer la coordinación entre el Estado y los Municipios, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como los principios, tipos, modalidades y mecanismos para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia y el desarrollo integral y sustentable.
+Las disposiciones de esta Ley son de orden público, interés social, observancia general y tienen por objeto establecer la coordinación entre el Estado, los Municipios y el sector social, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres, así como los principios, tipos, modalidades y mecanismos para garantizar su acceso a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, así como para garantizar la democracia y el desarrollo integral y sustentable.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
@@ -176,6 +176,10 @@ X.- Empoderamiento de las mujeres: Es un proceso por medio del cual las mujeres 
 X Bis.- Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
 
 XI.- Erradicación de la violencia contra las mujeres: Consiste en la eliminación de los diferentes tipos y modalidades de la violencia ejercida en contra de mujeres, los estereotipos, valores, actitudes y creencias misóginas y androcéntricas; con la finalidad de garantizar las condiciones para la vigencia y acceso al ejercicio pleno de los derechos humanos de las mujeres y las niñas;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+XI Bis.- Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito.
 
 XII.- Igualdad formal: Reconocimiento ante la ley, las normas, las políticas públicas, acciones, programas, presupuestos y ante las estructuras de gobierno, de la condición igualitaria entre las mujeres y los hombres mediante la cual se asegura que todas las personas gocen de los mismos derechos;
 
@@ -339,9 +343,9 @@ IV.- Violencia económica.- Es toda acción u omisión que afecta la supervivenc
 
 V.- Violencia patrimonial.- Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en la sustracción, retención, destrucción, transformación o distracción de objetos, bienes, valores, derechos u obligaciones o cualquier otro tipo de documentos comunes o propios de la víctima destinados a satisfacer sus necesidades;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 8 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-VI.- Violencia sexual.- Es cualquier acto que degrade, dañe o lesione el cuerpo y/o la sexualidad de la víctima, por tanto atenta contra su integridad física, libertad y/o dignidad. Es una expresión de abuso de poder que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
+VI.- Violencia sexual.- Es cualquier acto que degrade, dañe o lesione el cuerpo y/o la sexualidad de la víctima, por tanto atenta contra su integridad física, libertad y/o dignidad. Es una expresión de abuso de poder que se puede dar en el espacio público o privado, que implica la supremacía masculina sobre la mujer, al denigrarla y concebirla como objeto;
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2023)</small>
 
@@ -355,15 +359,19 @@ VIII.- Cualquier otro tipo análogo que lesione o sea susceptible de dañar la d
 
 #### SECCIÓN PRIMERA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO FAMILIAR
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 11.
 
-La violencia contra las mujeres en el ámbito familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, obstétrica o cualquier otra de naturaleza análoga a las mujeres, dentro o fuera del domicilio familiar, cuando el agresor tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, cualquier otra relación de afectividad, convivencia conjunta, encauzada o que tenga como resultado constituir una relación de matrimonio o concubinato.
+La violencia contra las mujeres en el ámbito familiar es el acto de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, obstétrica o cualquier otra de naturaleza análoga a las mujeres, dentro o fuera del domicilio familiar, cuando el agresor tenga o haya tenido una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo o cualquier otra relación de hecho, afectividad, convivencia conjunta, encauzada o que tenga como resultado constituir una relación de matrimonio o concubinato.
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2022)</small>
 
 Sin perjuicio de lo anterior y tratándose de violencia vicaria se estará a lo que establece esta Ley y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -475,11 +483,9 @@ El Ejecutivo del Estado deberá promover las certificaciones señaladas en el p�
 
 Violencia contra las mujeres en la comunidad, consiste en los actos individuales o colectivos, motivados por razones de género, tendentes a transgredir sus derechos humanos, así como denigrar, discriminar, marginar o excluirlas de cualquier ámbito en el que se desarrollen.
 
-> <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-###### ARTÍCULO 17 Bis.
-
-La violencia mediática consiste en publicar o difundir mensajes e imágenes estereotipados (sic) a través de cualquier medio masivo de comunicación o redes sociales, que de manera directa o indirecta injurie, difame, discrimine, deshonre, humille, atente contra la dignidad o promueva la explotación de las mujeres, generando desigualdad de trato o construya patrones socioculturales reproductores de la desigualdad o generadores de violencia contra las mujeres.
+ARTÍCULO 17 BIS.- Acoso sexual en espacios públicos: Es una forma de violencia que conlleva un abuso de poder respecto de la víctima, sin que medie relación alguna con la persona agresora. Se manifiesta a través de una conducta física o verbal de connotación sexual no consentida ejercida sobre una o varias personas, en espacios y medios de transporte públicos o mercantiles, cuya acción representa una vulneración a los derechos humanos.
 
 ###### ARTÍCULO 18.
 
@@ -490,6 +496,10 @@ I.- El impulso de la educación libre de estereotipos, evitando los privilegios 
 II.- La instrumentación de un sistema de atención, protección y defensa para prevenir y erradicar la violencia contra las mujeres; y
 
 III.- El diseño de un centro de datos respecto a las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las distintas instancias y órdenes de gobierno.
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+IV.- El diseño de políticas públicas dirigidas al desarrollo de espacios y transportes públicos y mercantiles libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2020)</small>
 
@@ -627,13 +637,29 @@ En el caso de que se declare una alerta de violencia de género contra las mujer
 
 La persona Titular del Poder Ejecutivo Estatal, en coordinación con la o las personas titulares de los ayuntamientos son responsables de las acciones y del cumplimiento de todas las medidas indicadas en los resolutivos de la Declaratoria de Alerta de Violencia de Género contra las Mujeres. Así mismo, los municipios declarados en alerta de violencia de género contra las mujeres deberán instalar una comisión especial para dar seguimiento y evaluación de las acciones y medidas que este realice en cumplimiento de todas las medidas indicadas en los resolutivos de la Declaratoria, así como de las acciones vinculadas a la prevención, combate y erradicación de los tipos y modalidades de violencias en contra de las mujeres.
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE AGOSTO DE 2024)</small>
 
-#### SECCIÓN SEXTA. DE LA VIOLENCIA DIGITAL
+#### SECCIÓN SEXTA. DE LA VIOLENCIA DIGITAL Y MEDIÁTICA
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-ARTÍCULO 23 BIS.- Son los actos de acoso, hostigamiento, amenazas, intimidación, exhibición, insultos, vulneración de datos, mensajes de odio, o divulgación de información, textos y publicación de fotografías, videos, impresiones gráficas o sonoras, verdaderas, falsas o alteradas, de contenido violento, erótico o sexual, que se realice sin el consentimiento, empleando las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, aplicaciones, servicios de mensajería instantánea, correo electrónico o cualquier otro espacio digital, que atente contra la integridad, la intimidad, la libertad, la vida privada o transgreda algún derecho humano de las mujeres o de sus familias.
+ARTÍCULO 23 BIS.- Violencia digital Son los actos de acoso, hostigamiento, amenazas, intimidación, exhibición, insultos, vulneración de datos, mensajes de odio, o divulgación, exposición, distribución, difusión, exhibición, transmisión, comercialización o intercambio de información, textos y publicación de fotografías, videos, impresiones gráficas o sonoras, verdaderas, falsas o alteradas, de contenido violento, íntimo, erótico o sexual, que se realice sin el consentimiento, aprobación o autorización, empleando las Tecnologías de la Información y la Comunicación, plataformas de internet, redes sociales, aplicaciones, servicios de mensajería instantánea, correo electrónico o cualquier otro espacio digital, que atente contra la integridad, la intimidad, la libertad, la vida privada, le cause daño psicológico o emocional o transgreda algún derecho humano de las mujeres o de sus familias.
+
+Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+Para efectos de la presente Sección se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 23 BIS 1.- Violencia mediática es todo acto a través de cualquier medio de comunicación, que de manera directa o indirecta promueva estereotipos sexistas, haga apología de la violencia contra las mujeres, adolescentes y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres, que cause daño a las mujeres y niñas de tipo psicológico, sexual, físico, económico, patrimonial o feminicida.
+
+La violencia mediática puede ser ejercida por cualquier persona física o moral, que utilice cualquier medio de comunicación, para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, intimidad, libertad y seguridad de las mujeres, adolescentes y niñas, que impiden su desarrollo y que atentan contra la igualdad.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+###### ARTÍCULO 23 Bis 2.
+
+Tratándose de violencia digital o mediática, para garantizar la integridad de la víctima, la o el Ministerio Público, o la jueza o el juez, ordenarán, de manera inmediata, las medidas de protección necesarias, de conformidad con la legislación procedimental que resulte aplicable.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2020)</small>
 
@@ -661,11 +687,13 @@ Las acciones orientadas a controlar, restringir, vigilar, con la intención de a
 
 ### CAPÍTULO ÚNICO. DE LAS ÓRDENES DE PROTECCIÓN
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 24.
 
-Las órdenes de protección son actos de urgente cumplimiento en función del interés de la víctima, de carácter precautorias y cautelares. Se decretarán inmediatamente después de que la autoridad competente, en casos de urgencia y en razón del lugar o la hora, conozcan de probables hechos constitutivos de violencia contra las mujeres.
+Las órdenes de protección son actos de urgente aplicación en función del interés superior de la víctima, son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes. Se decretarán en el momento en que la autoridad competente tenga conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres o niñas, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+
+> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
 
 En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado y el Instituto Electoral del Estado, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere el presente Capítulo.
 
@@ -775,11 +803,11 @@ V.- Obligación alimentaria provisional e inmediata.
 
 Estas órdenes serán tramitadas ante los juzgados de lo familiar o a falta de éstos en los juzgados civiles que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 28.
 
-El Juez de lo Familiar o el Ministerio Público en su caso al decretar las órdenes emergentes y preventivas de protección establecidas en esta Ley, tomarán en consideración:
+El Juez o el Ministerio Público, en su caso, al decretar las órdenes de protección establecidas en la Ley General para el Acceso de las Mujeres a una Vida Libre de Violencia o en la legislación procedimental aplicable, tomarán en consideración:
 
 I.- El riesgo o peligro existente o inminente;
 
@@ -821,11 +849,11 @@ Las acciones, medidas y políticas públicas que lleven a cabo las autoridades s
 
 En materia de violencia política contra las mujeres en razón de género, las autoridades estatales, municipales, auxiliares, o cualesquiera que se encuentren en la estructura de la administración pública estatal y municipal, deberán colaborar con el Instituto Electoral del Estado y el Tribunal Electoral del Estado de Puebla para el otorgamiento de las órdenes de protección que sean decretadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 33.
 
-Es materia de coordinación entre las autoridades señaladas:
+Es materia de coordinación entre los integrantes e invitados del Sistema Estatal:
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -853,17 +881,17 @@ VI.- Las demás relacionadas con las anteriores que sean necesarias para increme
 
 El Sistema Estatal se integrará por las personas titulares de:
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-I.- El Poder Ejecutivo del Estado, quien fungirá como Presidenta o Presidente Honorario;
+I.- El Poder Ejecutivo del Estado, que fungirá como la persona titular de la Presidencia Honoraria;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 II.- La Secretaría de Gobernación, que fungirá como la persona titular de la Presidencia Ejecutiva;
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-III.- La Secretaría de Igualdad Sustantiva que fungirá como secretaria ejecutiva del Sistema Estatal;
+III.- La Secretaría de Igualdad Sustantiva, que fungirá como la persona titular de la Secretaría Ejecutiva;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -893,9 +921,9 @@ IX.- La Secretaría de Trabajo;
 
 X.- La Secretaría de Desarrollo Rural;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XI.- La Dirección General de Defensoría Pública;
+XI.- El Instituto Especializado de la Defensoría Pública;
 
 > <small>(REFORMADA [N. DE E. REUBICADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -929,13 +957,25 @@ XVIII.- El Instituto Poblano de los Pueblos Indígenas;
 
 XIX.- El Instituto Electoral del Estado;
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XX.- El Tribunal Electoral del Estado; y
+XX.- El Tribunal Electoral del Estado;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-XXI.- Los órganos municipales con funciones de atención a víctimas y prevención de la violencia contra la mujer.
+XXI.- La Comisión Ejecutiva Estatal de Atención a Víctimas;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+XXII.- Los Municipios que cuenten con Declaratoria de Alerta de Violencia de Género; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+XXIII.- Los órganos municipales con funciones de atención a víctimas, igualdad sustantiva y prevención de la violencia contra las mujeres.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE AGOSTO DE 2024)</small>
+
+Las Organizaciones de la Sociedad Civil involucradas en la promoción y protección del derecho de las mujeres a una vida libre de violencia, serán invitados permanentes del Sistema Estatal, los cuales podrán participar en las sesiones de éste con derecho a voz, pero sin voto.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -977,9 +1017,9 @@ VIII.- Supervisar que los medios de comunicación en la realización de sus func
 
 IX.- Promover la investigación y la elaboración de información estadística sobre las causas, frecuencia y consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-X.- Publicar semestralmente la información general y estadística referente a los casos de violencia política contra las mujeres en razón de género que se reciban de las Dependencias y Entidades de la Administración Pública, los Municipios, Poderes y organismos públicos descentralizados y autónomos, en términos de la ley de la materia;
+X.- Publicar semestralmente la información general y estadística referente a los casos de violencia política contra las mujeres en razón de género que se reciban de las Dependencias y Entidades de la Administración Pública, los Poderes Legislativo y Judicial del Estado, los Municipios, los Organismos Públicos Descentralizados y los Organismos Constitucionalmente Autónomos, en términos de la ley de la materia;
 
 XI.- Promover la inclusión prioritaria en el Plan Estatal de Desarrollo de las medidas, políticas y acciones de gobierno para erradicar la violencia contra las mujeres;
 
@@ -1010,6 +1050,10 @@ Para el eficaz cumplimiento del objeto de esta Ley el Estado y los Municipios, s
 Para hacer efectivos los derechos contenidos en esta Ley corresponde al Estado, de conformidad con lo dispuesto en los ordenamientos federales y locales aplicables en la materia las atribuciones siguientes:
 
 I.- Instrumentar y articular sus políticas públicas en concordancia con la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+I Bis.- Promover y garantizar espacios y transportes públicos seguros, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas;
 
 II.- Ejercer, en su caso, las facultades reglamentarias para la aplicación de esta Ley;
 
@@ -1053,11 +1097,13 @@ XV.- Promover investigaciones sobre las causas y las consecuencias de la violenc
 
 XVI.- Revisar y evaluar la eficacia de las acciones, las políticas públicas, los programas estatales, con base en los resultados de las investigaciones previstas en la fracción anterior;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XVII.- Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales;
+XVII.- Impulsar la participación de las Organizaciones de la Sociedad Civil dedicadas a la promoción y defensa de los derechos humanos de las mujeres, en la ejecución de los programas estatales; así como promover su integración como invitados permanentes al Sistema Estatal en términos de las disposiciones aplicables;
 
-XVIII.- Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre la prevención, atención y sanción de la violencia contra mujeres, a fin de mejorar los mecanismos para su erradicación;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+XVIII.- Recibir de las Organizaciones de la Sociedad Civil, las propuestas y recomendaciones relacionadas con la prevención, atención y sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
 
 XIX.- Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas;
 
@@ -1098,6 +1144,10 @@ III.- Coordinar la elaboración e instrumentación del Programa Estatal con los 
 IV.- Apoyar a la Secretaría de Igualdad Sustantiva en la formulación de las bases para la coordinación entre las autoridades locales y municipales, para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 V.- Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+V Bis.- Requerir a los Ayuntamientos de los Municipios del Estado en cuyo territorio sea aplicable la Declaratoria correspondiente, los informes en relación a la instrumentación y ejecución de las acciones y medidas ejecutadas dentro de su ámbito de competencia para la prevención, atención, sanción y erradicación de la violencia contra las mujeres en su Municipio;
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1365,11 +1415,11 @@ III.- Fomentar la cultura de respeto a los derechos humanos de las mujeres que h
 
 IV.- Diseñar y difundir materiales que promuevan la prevención, atención y erradicación de la violencia contra las mujeres en los ejidos y comunidades agrarias.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO SU ACÁPITE [N. DE E. PRIMER PÁRRAFO], P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 44.
 
-Corresponde a la Dirección General de Defensoría Pública las funciones siguientes:
+Corresponde al Instituto Especializado de la Defensoría Pública las funciones siguientes:
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -1475,19 +1525,17 @@ I.- Fungir como Secretaria Ejecutiva del Sistema Estatal y coadyuvar en la solic
 
 I Bis.- Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos humanos de las mujeres;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE AGOSTO DE 2024)</small>
 
-II.- Recibir e integrar los estudios e investigaciones efectuados por las Dependencias y Entidades de la Administración Pública Estatal, sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de:
+II.- Recibir e integrar los estudios e investigaciones realizadas por las Dependencias y Entidades de la Administración Pública Estatal, los Municipios, los Organismos Constitucionalmente Autónomos y las Organizaciones de la Sociedad Civil, relacionadas con las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de:
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 a) Las personas servidoras públicas encargadas de la atención, investigación, prevención, sanción y erradicación de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-b) Las medidas de prevención, atención y erradicación, que generen las Dependencias y Entidades del Estado, municipales, asociaciones o agrupaciones civiles.
-
-Los resultados de los estudios e investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes tendentes a la erradicación de la violencia;
+b) Las medidas de prevención, atención y erradicación, que generen las Dependencias y Entidades de la Administración Pública Estatal, los Municipios, las Organizaciones de la Sociedad Civil, así como las demás asociaciones o agrupaciones sociales dedicadas a la defensa y promoción de los derechos humanos de las mujeres;
 
 III.- Proponer a las autoridades encargadas de la aplicación de esta Ley, los programas, medidas y acciones que consideren pertinentes, así como elaborar los proyectos respectivos, con la finalidad de erradicar la violencia contra las mujeres;
 
@@ -1517,17 +1565,17 @@ IX.- Suscribir convenios de coordinación, colaboración y concertación en la m
 
 X.- Formular las bases para la coordinación entre las autoridades locales y municipales para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XI.- Dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades estatales y municipales;
+XI.- Dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las Dependencias y Entidades de la Administración Pública Estatal, los Municipios, así como las Organizaciones de la Sociedad Civil;
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XII.- Dar seguimiento a las acciones del Programa Estatal, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XIII.- Impulsar la creación de instituciones públicas o privadas de atención y protección a las víctimas, previstas en la Ley;
+XIII.- Operar y administrar albergues y refugios del Estado destinados para la atención de mujeres víctimas de violencia y sus menores hijas e hijos; así como proporcionar e impartir capacitaciones y actualización constante en temas tendientes a sensibilizar y profesionalizar a las personas servidoras públicas que operan refugios de dicha naturaleza en los Municipios;
 
 > <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
@@ -1579,11 +1627,11 @@ VIII.- Suscribir convenios de coordinación, colaboración y concertación en la
 
 IX.- Las demás previstas en otros ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 48.
 
-A la Comisión de Derechos Humanos del Estado de Puebla, al Poder Legislativo, al Poder Judicial, al Consejo Estatal para la Atención de la Violencia Familiar y al Instituto Poblano de los Pueblos Indígenas, les corresponderá el ejercicio y cumplimiento de las atribuciones que tienen conferidas en sus propios ordenamientos y demás disposiciones legales aplicables, con perspectiva de género.
+A la Comisión de Derechos Humanos del Estado de Puebla, al Poder Legislativo, al Poder Judicial, al Consejo Estatal para la Atención de la Violencia Familiar, a la Comisión Ejecutiva Estatal de Atención a Víctimas y al Instituto Poblano de los Pueblos Indígenas, les corresponderá el ejercicio y cumplimiento de las atribuciones que tienen conferidas en sus propios ordenamientos y demás disposiciones legales aplicables, con perspectiva de género.
 
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
 
@@ -1617,6 +1665,10 @@ Para hacer efectivos los derechos contenidos en esta Ley corresponde (sic) a los
 
 I.- Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres;
 
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+I Bis.- Promover espacios y transportes públicos, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas;
+
 II.- Coadyuvar con la Federación y el Estado, para adoptar los Sistemas Nacional y Estatal;
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
@@ -1647,13 +1699,39 @@ X.- Suscribir convenios de coordinación, colaboración y concertación en la ma
 
 XI.- Instalar Centros de Reeducación para Agresores con el objetivo de transformar los patrones de conducta violenta, y de educación para prevenir y erradicar la violencia en todos sus tipos y modalidades previstos en esta Ley;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XII.- Difundir en sus portales de internet, en sus micrositios o en sus oficinas, información relativa a la prevención de cualquier tipo de violencia contra las mujeres, así como los números telefónicos donde se les pueda brindar atención y orientación, y
+XII.- Difundir en sus portales de internet, en sus micrositios o en sus oficinas, información relativa a la prevención de cualquier tipo de violencia contra las mujeres, así corno los números telefónicos donde se les pueda brindar atención y orientación;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-XIII.- Las demás previstas en otros ordenamientos legales aplicables.
+XIII.- Instituir dentro de su estructura orgánica, centralizada o descentralizada, instancias municipales especializadas encargadas de la atención a víctimas, promoción de la igualdad sustantiva, así como la prevención, atención, sanción y erradicación de la violencia contra las mujeres; encargadas de la instrumentación de la política municipal en materia de igualdad sustantiva y la promoción de un entorno libre de violencia de género en el ámbito municipal; de conformidad con su presupuesto autorizado;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+XIV.- Realizar acciones de prevención, atención y erradicación de la violencia que se genere durante la relación de noviazgo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+XV.- Las demás previstas en otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+Los Ayuntamientos de los Municipios en cuyo territorio resulte aplicable la Declaratoria que al efecto sea emitida, deberán priorizar la implementación y ejecución inmediata de las acciones y medidas correspondientes para prevenir, atender, sancionar y erradicar la violencia contra las mujeres en su territorio.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 49 BIS.- Las Organizaciones de la Sociedad Civil podrán promover y fomentar en el ámbito privado, académico y social, la igualdad sustantiva, el respeto a los derechos humanos, el empoderamiento de la mujer, así como la prevención, atención y erradicación de la violencia contra las mujeres de manera enunciativa más no limitativa, a través de las siguientes acciones:
+
+I.- Realizar investigaciones sobre las causas, características y consecuencias de la violencia de género; así como proponer a la Secretaría Ejecutiva del Sistema Estatal, programas y acciones de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+
+II.- Colaborar con los integrantes del Sistema Estatal en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+
+III.- Orientar en materia de prevención, atención y erradicación de la violencia contra las mujeres, a los integrantes del Sistema Estatal que así lo soliciten; canalizándolos, en su caso, con las autoridades competentes en la materia;
+
+IV.- Difundir en la sociedad civil el respeto a los derechos humanos de las mujeres, la erradicación de la violencia contra la mujer, y promover la difusión de los derechos, procesos y mecanismos para acceder a la atención, prevención y erradicación de la violencia contra las mujeres; y
+
+V.- Fungir como enlace entre el Sistema Estatal y las demás organizaciones de la sociedad civil dedicadas a la promoción y defensa de los derechos humanos de las mujeres en el Estado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2018)</small>
 
@@ -2210,3 +2288,13 @@ P.O. 27 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL, DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente ordenamiento, los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, deberán crear dentro de su estructura orgánica, las instancias señaladas en el presente Decreto.
