@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-para-el-estado-de-puebla-148179"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-05"
-last_updated: "2024-04-11"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Cuarta Sección al Número 5 del Periódico Oficial del Estado de Puebla, el viernes 5 de mayo de 2021.
 
@@ -769,9 +769,11 @@ Las personas que reúnan los requisitos de Ley tendrán derecho a solicitarlos e
 
 La sede de los exámenes, será la que en cada caso designe la autoridad notarial.
 
+> <small>(REFORMADO SU ACÁPITE [N. DE E. PRIMER PÁRRAFO], P.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 55.
 
-Para solicitar el examen de aspirante a persona titular de la Notaría, la interesada deberá satisfacer los siguientes requisitos:
+Para solicitar el examen de aspirante a persona titular de la Notaría, la persona interesada deberá satisfacer los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
 
@@ -791,9 +793,11 @@ IV. Gozar de buena reputación personal y honorabilidad profesional;
 
 V. Ser persona profesional del derecho, con título de abogada o abogado o licenciada o licenciado en derecho y con cédula profesional; así como contar con una antigüedad no menor de cinco años en el ejercicio de la profesión;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-VI. Comprobar que durante seis meses ha realizado prácticas notariales ininterrumpidas; las prácticas a las que se refiere esta fracción no podrán llevarse a cabo bajo la dirección y responsabilidad de Notarios que guarden relación de parentesco con el aspirante en los grados y términos que señala el artículo 61 fracción II inciso c) segundo párrafo de esta Ley;
+VI. Comprobar que durante seis meses ha realizado prácticas notariales ininterrumpidas o bien acreditar suficiente experiencia para desarrollar el Servicio Profesional Notarial.
+
+Las prácticas a las que se refiere esta fracción no podrán llevarse a cabo bajo la dirección y responsabilidad de Notarios que guarden relación de parentesco con el aspirante en los grados y términos que señalan los artículos 61 fracción II segundo párrafo y 64 fracción II segundo párrafo de esta Ley;
 
 > <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2022)</small>
 
@@ -845,7 +849,17 @@ b) Los que se refieren a las fracciones III, y IV, la persona interesada deberá
 
 c) El que se refiere a la fracción II, con la constancia de residencia que la autoridad municipal expida, o con información testimonial;
 
-d) El que se refiere a la fracción VI, con los avisos sellados del inicio y terminación de la práctica en cuestión, que la persona titular de la Notaría respectiva deberá dar en tiempo, a la Dirección General del Notariado, marcando copia al Colegio, así como con los oficios de contestación de dichos avisos. Las prácticas podrán ser constatadas por la autoridad competente y por el Colegio;
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+d) El que se refiere a la fracción VI, si se trata de prácticas notariales, se acreditará con los avisos sellados del inicio y terminación de la práctica en cuestión, que la persona titular de la Notaría respectiva deberá dar en tiempo, a la Dirección General del Notariado, marcando copia al Colegio, así como con los oficios de contestación de dichos avisos. Las prácticas podrán ser constatadas por la autoridad competente y por el Colegio.
+
+Si se trata de experiencia esta podrá ser en forma profesional, docente o grado académico en áreas afines al ejercicio de la función notarial, mediante información testimonial y documentos públicos o privados.
+
+La experiencia profesional se acreditará con el ejercicio de por lo menos un año en el sector público o privado, en ramas del Derecho relacionadas con el ejercicio de la función notarial.
+
+La experiencia docente se acreditará mediante el ejercicio de por lo menos un año, en instituciones públicas o privadas con reconocimiento de validez oficial, en materia notarial.
+
+El grado académico de maestría o doctorado, se acreditará mediante título expedido por instituciones públicas o privadas con reconocimiento de validez oficial, en materia notarial.
 
 e) El de la fracción VII, con las constancias emitidas por el Colegio de Notarios, por la autoridad notarial o por instituciones oficialmente reconocidas, donde se acredite la asistencia en el plazo establecido de los eventos o cursos, a los que hace referencia el artículo 55 de esta Ley;
 
@@ -989,7 +1003,15 @@ a) Un Presidente nombrado por la persona titular del Poder Ejecutivo, que será 
 
 b) Dos servidores públicos, nombrados por el titular de la Consejería Jurídica, y
 
-c) Dos personas titulares de las Notarías nombrados (sic) por el Consejo de Notarios, la persona en funciones de secretaria del jurado será titular de la Notaría de menor antigüedad y se encargará de levantar el acta circunstanciada, la que será conservada, foliada en forma progresiva y consecutiva en el Libro de Registro de Exámenes que corresponda.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+c) Dos personas titulares de las Notarías nombradas por la Dirección General del Notariado a propuesta del Consejo de Notarios, la persona en funciones de secretaria del jurado será titular de la Notaría de menor antigüedad y se encargará de levantar el acta circunstanciada, la que será conservada, foliada en forma progresiva y consecutiva en el Libro de Registro de Exámenes que corresponda.
+
+El día en que se apliquen los exámenes, deberán estar presentes cuando menos dos integrantes del Consejo de Notarios designados previamente por la persona Titular de la Presidencia.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE AL INCISO C, P.O. 5 DE AGOSTO DE 2024.]</small>
+
+En caso de ausencia de las personas Titulares de las Notarías o su suplente designados como jurados, la persona Titular de la Dirección General del Notariado designará en ese momento a uno de los miembros del Consejo de Notarios que se encuentre presentes para sustituirlo o sustituirlos según sea el caso.
 
 Los miembros que integren el jurado no podrán ser cónyuges o parientes consanguíneos o afines hasta el cuarto y segundo grado respectivamente, del sustentante, ni titulares de las Notarías en que éste haya realizado su práctica o prestado sus servicios, tengan o hubieren tenido relación laboral con el sustentante o sus parientes, en los referidos grados, ni las personas titulares de las Notarías asociadas o suplentes de dichos titulares o los cónyuges o parientes de éstos en los grados indicados. La contravención a lo antes dispuesto por algún miembro del jurado hará acreedor a ese sinodal a la sanción prevista por el artículo 242 de esta Ley;
 
@@ -1051,7 +1073,15 @@ a) Un Presidente nombrado por la persona titular del Poder Ejecutivo, que será 
 
 b) Dos servidores públicos, nombrados por el titular de la Consejería Jurídica, y
 
-c) Dos personas titulares de las Notarías nombrados (sic) por el Consejo de Notarios, la persona en funciones de secretaria del jurado será titular de la Notaría de menor antigüedad y se encargará de levantar el acta circunstanciada, la que será conservada, foliada en forma progresiva y consecutiva en el Libro de Registro de Exámenes que corresponda.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+c) Dos personas titulares de las Notarías nombradas por la Dirección General del Notariado a propuesta del Consejo de Notarios, la persona en funciones de secretaria del jurado será titular de la Notaría de menor antigüedad y se encargará de levantar el acta circunstanciada, la que será conservada, foliada en forma progresiva y consecutiva en el Libro de Registro de Exámenes que corresponda.
+
+El día en que se apliquen los exámenes, deberán estar presentes cuando menos dos integrantes del Consejo de Notarios designados previamente por la persona Titular de la Presidencia.
+
+> <small>[N. DE E. ESTE PÁRRAFO PERTENECE AL INCISO C, P.O. 5 DE AGOSTO DE 2024.]</small>
+
+En caso de ausencia de las personas Titulares de las Notarías o su suplente designados como jurados, la persona Titular de la Dirección General del Notariado designará en ese momento a uno de los miembros del Consejo de Notarios que se encuentre presente para sustituirlo o sustituirlos según sea el caso.
 
 Los miembros que integren el jurado no podrán ser cónyuges o parientes consanguíneos o afines hasta el cuarto y segundo grado respectivamente, del sustentante, ni titulares de las Notarías en que éste haya realizado su práctica o prestado sus servicios, tengan o hubieren tenido relación laboral con el sustentante o sus parientes, en los referidos grados, ni las personas titulares de las Notarías asociadas o suplentes de dichos titulares o los cónyuges o parientes de éstos en los grados indicados. La contravención a lo antes dispuesto por algún miembro del jurado hará acreedor a ese sinodal a la sanción prevista por el artículo 242 de esta Ley;
 
@@ -2835,9 +2865,11 @@ Las sanciones a que se refiere el artículo anterior serán aplicables de manera
 
 Se sancionará al Notario con amonestación escrita, por omitir dar los avisos previstos en esta Ley, o cualquier otra falta menor que sea subsanable.
 
+> <small>(REFORMADO SU ACÁPITE [N. DE E. PRIMER PÁRRAFO], P.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 242.
 
-Se sancionará al Notario con multa de uno a treinta veces la Unidad de Medida y Actualización vigente en el momento del incumplimiento:
+Se sancionará a la persona titular de la Notaría con multa de treinta y siete a setenta y cuatro veces la Unidad de Medida y Actualización vigente en el momento del incumplimiento:
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
 
@@ -2847,7 +2879,9 @@ I. Por reincidir, en la comisión de alguna de las faltas a que se refiere el ar
 
 II. Por incurrir en alguna de las hipótesis previstas en las fracciones I, IV y VI del artículo 45, de esta Ley;
 
-III. (DEROGADA, P.O. 16 DE FEBRERO DE 2024)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+III. Por desatender las encomiendas de las autoridades Notariales, sin causa justificada.
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
 
@@ -3663,11 +3697,11 @@ VI. Haber cumplido con los cursos de actualización notarial organizados por el 
 
 VII. No haber integrado el Consejo de Notarios, con la calidad de propietario o suplente, durante los cuatro años anteriores a la fecha del periodo corriente. De tal forma, quienes contiendan, podrán ostentar la calidad de Consejeros en funciones, pero estos no deben haber integrado aquel durante los cuatro años anteriores al de su gestión administrativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO SU ACÁPITE [N. DE E. PRIMER PÁRRAFO], P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 293.
 
-La persona titular de la presidencia será el representante legal del Colegio y deberá observar el cumplimiento de las siguientes obligaciones:
+La persona titular de la presidencia será el representante legal del Colegio y deberá observar el cumplimiento de la presente Ley, como de las siguientes obligaciones:
 
 > <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2024)</small>
 
@@ -3775,6 +3809,10 @@ Las sesiones del Consejo de Notarios serán convocadas por la persona titular de
 
 Las citaciones se harán con, por lo menos, tres días de anticipación, por medio de circular y correo electrónico, y las decisiones serán válidas siempre que sean tomadas por mayoría simple de los integrantes del Consejo de Notarios.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+Para el supuesto al que hace referencia el párrafo tercero del inciso c) fracción II del artículo 61 y párrafo tercero del inciso c) fracción II del artículo 64, deberán estar presentes cuando menos dos integrantes del Consejo de Notarios designados previamente por la persona titular de la presidencia.
+
 ## TRANSITORIOS
 
 PRIMERO. La presente Ley entrará en vigor al día siguiente (sic) su publicación en el Periódico Oficial del Estado de Puebla.
@@ -3846,3 +3884,13 @@ P.O. 11 DE ABRIL DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones contrarias o que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ACÁPITE Y LA FRACCIÓN VI DEL ARTÍCULO 55, EL INCISO D) DEL 56, EL INCISO C) DE LA FRACCIÓN 11 DEL 61, EL INCISO C) DE LA FRACCIÓN II DEL 64, EL ACÁPITE Y LA FRACCIÓN III DE 242 Y EL ACÁPITE DEL 293, Y ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 299 DE LA LEY DEL NOTARIADO PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas y legales contrarias o que se opongan al presente Decreto.
+
+TERCERO. El Titular del Poder Ejecutivo del Estado realizará las adecuaciones correspondientes al Reglamento de la presente Ley y demás normatividad estatal correspondiente, dentro del plazo de 180 días hábiles posteriores a la entrada en vigor del presente Decreto.
