@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-y-municipios-de-san-16895
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-18"
-last_updated: "2024-01-31"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168956&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 18 de diciembre de 2023.
 
@@ -485,6 +485,16 @@ PRIMERO. El artículo primero de este Decreto entrará en vigor el día de su pu
 
 SEGUNDO. El artículo segundo de este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
-TERCERO. La Secretaría de Finanzas, una vez enterada de las actualizaciones de los criterios para la aplicación del coeficiente del 30% del Excedente de (sic) Fondo de Fomento Municipal deberá efectuar las actualizaciones correspondientes de acuerdo con los montos autorizados por la Unidad de Coordinación con Entidades Federativas de la Secretaría de Hacienda y Crédito Público, debiendo divulgar la actualización en el Periódico Oficial del Estado “Plan de San Luis”.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+TERCERO. En el caso de presentarse nuevas actualizaciones en el presente ejercicio fiscal 2024 a los valores que integran los coeficientes a los que refieren los artículos 22, 23 y 24 de la Ley de Coordinación Fiscal para el Estado y los Municipios de San Luis Potosí, la Secretaría de Finanza (sic) una vez enterada de dicha actualización, deberá divulgar los nuevos criterios de distribución de Participaciones e Incentivos en el Periódico Oficial del Estado “Plan de San Luis”.
 
 CUARTO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1079.- SE REFORMA DEL ARTÍCULO SEGUNDO, LOS ARTÍCULOS 1º EN SUS PÁRRAFOS PRIMERO, SEGUNDO, DÉCIMO PRIMERO Y DÉCIMO SEGUNDO; 4º EN SUS PÁRRAFOS TERCERO Y ÚLTIMO; 5° LAS TABLAS DEL SEGUNDO Y TERCER PÁRRAFOS; Y TERCERO TRANSITORIO, DEL DECRETO LEGISLATIVO NO. 1001 PUBLICADO EN (SIC) EDICIÓN EXTRAORDINARIA DEL 31 DE ENERO DEL 2024 EN EL PERIÓDICO OFICIAL DEL ESTADO “PLAN DE SAN LUIS”".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
