@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2024-07-16"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3811,19 +3811,35 @@ Se considera como violencia familiar la agresión física, moral o patrimonial d
 
 Comete el delito de violencia familiar el cónyuge; la cónyuge; concubino; concubina; pariente consanguíneo en línea recta sin limitación de grado; pariente colateral consanguíneo o por afinidad, hasta el cuarto grado; adoptado; adoptante; madrastra; padrastro; hijastra; hijastro; pupilo; pupila o tutor que intencionalmente incurra en la conducta descrita en el párrafo anterior, contra cualquier integrante de la familia que se encuentre habitando en la misma casa de la víctima. En el caso de que el pasivo sea mujer, debe entenderse que el delito de violencia familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres dentro o fuera del domicilio familiar, cuyo agresor tenga o haya tenido relación de parentesco por consanguinidad o afinidad de matrimonio, concubinato o mantenga o hayan mantenido una relación de hecho.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 5 DE AGOSTO DE 2024)</small>
+
+Se entenderá por relación de hecho, la que exista entre quienes:
+
+I.- Hagan vida en común, en forma constante y permanente o mantengan una relación de pareja, aunque no vivan en el mismo domicilio;
+
+II.- Se encuentren unidos por vínculos de padrinazgo o madrinazgo;
+
+III.- Se incorporen a un núcleo familiar, aunque no tengan parentesco con ninguno de sus integrantes;
+
+IV.- Tengan relación con las hijas y/o hijos de su pareja, siempre que no los hayan procreado en común;
+
+V.- Tengan relación con la pareja de alguno de sus progenitores; y
+
+VI.- Mantengan una relación de noviazgo.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 5 DE AGOSTO DE 2024)</small>
 
 A quien cometa el delito de violencia familiar, se le impondrán de dos a ocho años de prisión y multa de cincuenta hasta doscientas veces el valor diario de la Unidad de Medida y Actualización en el momento de la comisión del delito; y estará sujeto a tratamiento integral para su rehabilitación por un tiempo que no rebase la sanción privativa de la libertad que se haya impuesto, así como la pérdida de la patria potestad, de los derechos hereditarios y de alimentos.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-La penalidad descrita en el párrafo anterior se aumentará hasta en una mitad, en caso de que la víctima sea mayor de setenta años, niña, niño o adolescentes, personas con discapacidad, o mujer en periodo de gestación.
+La penalidad descrita en el párrafo anterior se aumentará hasta en una mitad, en caso de que la víctima sea mayor de setenta años, niña, niño o adolescente, persona con discapacidad, o mujer en periodo de gestación.
 
-> <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 5 DE AGOSTO DE 2024)</small>
 
 Independientemente de lo establecido en el párrafo anterior, la pena podrá incrementarse hasta en un tercio, cuando de cometerse en contra de una niña, niño o adolescente, se realice utilizándoles como instrumento para causar daño a la madre.
 
-> <small>(ADICIONADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 5 DE AGOSTO DE 2024)</small>
 
 La Autoridad Judicial y el Ministerio Público, en su caso, dictará las medidas necesarias para el tratamiento psicoterapéutico del agresor y de la víctima, ordenando cuando sea procedente las medidas apropiadas para salvaguardar la integridad de sus familiares.
 
@@ -7864,3 +7880,13 @@ SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opon
 TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 90 días naturales, a partir de la entrada en vigor del presente Decreto, para adecuar sus reglamentos municipales a la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla.
 
 CUARTO. Las Licencias y Permisos otorgados en términos de la Ley para la Venta y Suministro de Bebidas Alcohólicas del Estado de Puebla, previo a la entrada en vigor del presente Decreto, mantendrán su vigencia, debiendo los establecimientos amparados por los mismos, ajustar su funcionamiento a los horarios establecidos en el artículo 20 de la mencionada ley.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL, DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente ordenamiento, los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, deberán crear dentro de su estructura orgánica, las instancias señaladas en el presente Decreto.
