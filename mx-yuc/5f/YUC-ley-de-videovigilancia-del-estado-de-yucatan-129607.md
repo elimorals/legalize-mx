@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-videovigilancia-del-estado-de-yucatan-129607"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-25"
-last_updated: "2018-07-25"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE VIDEOVIGILANCIA DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 25 de julio de 2018.
 
@@ -35,7 +35,7 @@ Rolando Rodrigo Zapata Bello, gobernador del estado de Yucatán, con fundamento 
 
 EXPOSICIÓN DE MOTIVOS:
 
-[…]
+[...]
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política; 18 y 43 fracción III inciso b) de la Ley de Gobierno del Poder Legislativo, y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos los ordenamientos del estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -193,7 +193,9 @@ VI. Elaborar los dictámenes necesarios para la adquisición o el retiro de cám
 
 VII. Resguardar, clasificar y custodiar la información que provenga de las cámaras fijas y móviles de videovigilancia bajo su control.
 
-VIII. Proporcionar la información obtenida mediante las cámaras fijas y móviles de videovigilancia bajo su control que le sea solicitada por la Fiscalía General del Estado, los órganos jurisdiccionales o cualquier otra autoridad competente, para el adecuado ejercicio de sus respectivas atribuciones.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+VIII. Proporcionar la información obtenida mediante las cámaras fijas y móviles de videovigilancia bajo su control que le sea solicitada por la Fiscalía General del Estado, la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, los órganos jurisdiccionales o cualquier otra autoridad competente, para el adecuado ejercicio de sus respectivas atribuciones.
 
 IX. Resolver sobre las solicitudes de acceso, rectificación, cancelación u oposición de tratamiento de datos personales que le realicen los particulares, en términos de la legislación aplicable en materia de protección de datos personales.
 
@@ -237,7 +239,9 @@ III. Mantener estrecha coordinación con las autoridades federales, estatales y 
 
 IV. Resguardar, clasificar y custodiar la información que provenga de las cámaras fijas y móviles de videovigilancia de su propiedad.
 
-V. Proporcionar la información obtenida mediante las cámaras fijas y móviles de videovigilancia de su propiedad que le sea solicitada por la Fiscalía General del Estado, los órganos jurisdiccionales o cualquier otra autoridad competente, para el adecuado ejercicio de sus respectivas atribuciones, acompañada del reporte correspondiente.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+V. Proporcionar la información obtenida mediante las cámaras fijas y móviles de videovigilancia de su propiedad que le sea solicitada por la Fiscalía General del Estado, la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, los órganos jurisdiccionales o cualquier otra autoridad competente, para el adecuado ejercicio de sus respectivas atribuciones, acompañada del reporte correspondiente.
 
 No tendrán la obligación prevista en la fracción V de este artículo las empresas de seguridad privada que con sus cámaras fijas y móviles de videovigilancia o sistemas o equipos tecnológicos complementarios capten hechos posiblemente delictivos perseguibles solo por querella de parte ofendida, salvo que se trate de un requerimiento jurisdiccional.
 
@@ -399,7 +403,9 @@ La Secretaría de Seguridad Pública deberá desarrollar, en coordinación con l
 
 Entrega de información para la investigación
 
-Las instituciones policiales y empresas de seguridad privada deberán proporcionar, en tiempo y forma, toda información obtenida mediante las cámaras fijas o móviles de videovigilancia bajo su control que sea solicitada por la Fiscalía General del Estado o los órganos jurisdiccionales, para la investigación de los hechos posiblemente delictivos.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+Las instituciones policiales y empresas de seguridad privada deberán proporcionar, en tiempo y forma, toda información obtenida mediante las cámaras fijas o móviles de videovigilancia bajo su control que sea solicitada por la Fiscalía General del Estado, la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán o los órganos jurisdiccionales, para la investigación de los hechos posiblemente delictivos.
 
 La información que se proporcione deberá estar certificada por la institución responsable y deberá estar acompañada de un informe que precise su origen y las circunstancias que motivaron su grabación. Esta disposición es aplicable también cuando la institución policial que corresponda, en razón de información obtenida mediante las cámaras fijas o móviles de videovigilancia bajo su control, realice remisiones o puestas a disposición ante la autoridad competente.
 
@@ -618,3 +624,33 @@ Gobernador del Estado de Yucatán
 Martha Leticia Góngora Sánchez
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 811/2024 POR EL QUE SE EMITE LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN Y SE MODIFICAN EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN, Y LA LEY DE VIDEOVIGILANCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuaciones presupuestales
+
+Artículo Segundo. La Secretaría de Administración y Finanzas, a la brevedad posible, deberá realizar las adecuaciones presupuestales necesarias para formalizar la estructura orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, en términos de este decreto, y dotarla de los recursos humanos, financieros, materiales y tecnológicos que requiera para el adecuado ejercicio de sus atribuciones y el cumplimiento de su objeto.
+
+Órgano de Control Interno
+
+Artículo Tercero. Las disposiciones contenidas en este decreto, relacionadas con el Órgano de Control Interno de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, entrarán en vigor el día en que el Congreso del Estado de Yucatán designe a la persona titular de dicha unidad administrativa, en términos del artículo 30, fracción XXXII Bis, de la Constitución Política del Estado de Yucatán.
+
+Reglamento Interior de la Fiscalía Especializada
+
+Artículo Cuarto. La persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán deberá expedir el reglamento interior de este organismo en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Primer Informe del Fiscal Anticorrupción
+
+Artículo Quinto. Por única ocasión, la primera rendición del Informe anual de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de marzo de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal anticorrupción hasta el 31 de diciembre 2024.
+
+Cálculo del presupuesto
+
+Artículo Sexto. El presupuesto asignado a la Fiscalía Especializada en Combate a la Corrupción para el año siguiente a su entrada en funciones se calculará dividiendo el primer presupuesto asignado entre el número de meses durante los cuales se ejerció dicho presupuesto, y multiplicando el resultado por doce, tomando en consideración lo dispuesto en el artículo 6, fracción I, de la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, con el fin de garantizar la correcta operatividad y funciones de la referida fiscalía.
