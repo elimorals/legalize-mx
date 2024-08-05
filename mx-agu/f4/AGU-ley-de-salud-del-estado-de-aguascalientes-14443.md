@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2024-07-01"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -115,29 +115,39 @@ V.- Los Ayuntamientos en el ámbito de su respectiva competencia.
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Ley General: A la Ley General de Salud;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-II.- Ley Estatal: A la Ley de Salud del Estado de Aguascalientes;
+I.- Enfermedades Raras: A las enfermedades reconocidas en el país o por organismos internacionales de los cuales el Estado mexicano es parte, las cuales tienen una prevalencia de no más de 5 personas por cada 10,000 habitantes;
 
-III.- Secretaría: A la Secretaría de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+II.- Ley General: A la Ley General de Salud;
 
-IV.- Organismo: Al Organismo Público Descentralizado denominado Instituto de Servicios de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2023)</small>
+III.- Ley Estatal: A la Ley de Salud del Estado de Aguascalientes;
 
-V.- Instituto: Al Organismo Público Descentralizado denominado Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+IV.- Secretaría: A la Secretaría de Salud del Estado de Aguascalientes;
 
-VI.- Sistema Estatal de Salud: Al Sistema Integral de Servicios de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+V.- Organismo: Al Organismo Público Descentralizado denominado Instituto de Servicios de Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+VI.- Instituto: Al Organismo Público Descentralizado denominado Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+VII.- Sistema Estatal de Salud: Al Sistema Integral de Servicios de Salud del Estado de Aguascalientes;
 
 Se entiende por salud, un estado completo de bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-VII.- El Médico en Tu Casa: El Programa mediante el cual se proporcionan servicios de salud en el domicilio de mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, personas en situación de abandono, así como a personas con discapacidad imposibilitados para acudir a una unidad de salud.
+VIII.- El Médico en Tu Casa: El Programa mediante el cual se proporcionan servicios de salud en el domicilio de mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, personas en situación de abandono, así como a personas con discapacidad imposibilitados para acudir a una unidad de salud.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -279,13 +289,17 @@ XXVII.- Administrar el patrimonio de la beneficencia pública a través del órg
 
 XXVIII.- Desarrollar programas y actividades en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad encaminados a promover hábitos alimentarios adecuados y la activación física, primordialmente en los grupos sociales vulnerables;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XXIX.- Impulsar, en coordinación con los Municipios y el Instituto de Educación de Aguascalientes, la prevención y el control del sobrepeso, obesidad y otros trastornos de conducta alimentaria, la detección y seguimiento de peso, talla e índice de masa corporal y la activación física en los centros escolares de educación básica; y
+XXIX.- Promover la incorporación, uso y aprovechamiento de las tecnologías de la información y de las comunicaciones en los servicios de salud;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-XXX.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XXX.- Diseñar y promover la implementación de una estrategia estatal de atención de las enfermedades raras y que tenga como fin proveer el acceso a diagnóstico oportuno y el tratamiento adecuado a las personas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+XXXI.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -551,13 +565,23 @@ u).- Publicar anualmente en el Periódico Oficial del Estado la relación de pro
 
 v).- Los programas para la prevención, detección y diagnóstico oportuno, tratamiento, control y vigilancia epidemiológica de la atención integral de la enfermedad renal;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-w).- La atención temprana tanto quirúrgica como rehabilitación para personas con malformaciones congénitas como labio leporino y paladar hendido, sindactilia y polidactilia; y
+w).- La atención temprana tanto quirúrgica como rehabilitación para personas con malformaciones congénitas como labio leporino y paladar hendido, sindactilia y polidactilia;
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-x).- La orientación, prevención, detección, estimulación temprana, atención integral o especializada, así como tratamiento de carácter progresivo en sus derechos, de las personas con la condición del espectro autista;
+x).- La orientación, prevención, detección, estimulación temprana, atención integral o especializada, así como tratamiento de carácter progresivo en sus derechos, de las personas con la condición del espectro autista; y
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 5 DE AGOSTO DE 2024)</small>
+
+y).- Los programas para la prevención, diagnóstico, tratamiento y atención médica de diabetes, deberán diferenciar los tipos, considerando al menos la siguiente clasificación:
+
+I. Diabetes Tipo 1;
+
+II. Diabetes Tipo 2:
+
+III. Diabetes Gestacional.
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -4826,3 +4850,17 @@ P.O. 1 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 731.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 757.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 760.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO. - El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
