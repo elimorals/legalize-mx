@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2024-05-16"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -643,6 +643,10 @@ VIII. La promoción de estilos de vida saludables, la educación para la salud, 
 
 IX. El fomento de la igualdad de género para la construcción de una sociedad justa e igualitaria;
 
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+IX. BIS. Impulsar en los centros educativos de todos los niveles, la prevención de la violencia que se genere durante la relación de noviazgo.
+
 X. La educación sexual integral y reproductiva que implica el ejercicio responsable de la sexualidad, la planeación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
 
 XI. La educación socioemocional;
@@ -895,9 +899,17 @@ VI. Celebrar convenios de cooperación, coordinación y concertación con los se
 
 VII. Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencia en el entorno escolar, familiar o comunitario, así como promover su defensa en las instancias administrativas o judiciales, promoviendo la cultura de la paz, privilegiando la mediación, la conciliación y los procesos restaurativos, en los casos que proceda;
 
-VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social, y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas.
+VIII. Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencia o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+IX. Impulsar en los centros educativos de todos los niveles, la prevención de la violencia que se genere durante la relación de noviazgo; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+X. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas.
 
 > <small>(REFORMADO, P.O. 16 DE MARZO DE 2023)</small>
 
@@ -2346,3 +2358,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En el caso específico de modificación o actualización de acuerdos de reconocimiento de validez oficial de estudios otorgados a particulares en el área de salud, la autoridad educativa estatal, podrá actualizarlos o modificarlos siempre y cuando hayan sido expedidos con anterioridad al treinta de septiembre de dos mil diecinueve, cuenten con la ampliación de opinión técnico académica (OTA), correspondiente por parte del Comité Interinstitucional para la Formación y Capacitación de Recursos Humanos en Salud (CIFRHS) y no se modifique su nomenclatura.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VIII Y IX DEL ARTÍCULO 91 Y ADICIONA LA FRACCIÓN IX BIS AL 69 Y LA FRACCIÓN X AL 91, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
