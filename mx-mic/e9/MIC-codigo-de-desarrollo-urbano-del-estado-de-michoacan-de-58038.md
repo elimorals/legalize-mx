@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2024-03-11"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -629,7 +629,15 @@ XXX. Determinar y tramitar las infracciones y sanciones, adoptar y ejecutar las 
 
 XXXI. Resolver sobre los recursos administrativos que conforme a su competencia les sean planteados; y,
 
-XXXII. Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+XXXII. Expedir el Reglamento de Construcción y sus Normas Técnicas Municipales;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+XXXIII. Expedir el Reglamento de Epigrafía y Nomenclatura Municipal; y,
+
+XXXIV. Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
 
 ## TÍTULO TERCERO. DE LA PARTICIPACIÓN SOCIAL
 
@@ -1945,11 +1953,11 @@ VI. Tratándose de asentamientos humanos establecidos en tierras de régimen eji
 
 VII. Las autorizaciones de regularización que expidan los ayuntamientos, se tipificarán como fraccionamientos habitacionales urbanos de tipo popular y de urbanización progresiva.
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-###### ARTÍCULO 119.
+ARTIÍCULO (SIC) 119.- Cuando para proceder a una regularización de un asentamiento humano irregular, solo falte cubrir el requisito de entregar las áreas de donación y no existan terrenos baldíos en el asentamiento o sean insuficientes las mismas o el faltante, según corresponda, se podrá convenir con el Ayuntamiento, la entrega de la superficie correspondiente, en ubicación distinta al asentamiento o presentar solicitud al Ayuntamiento o solicitar por escrito al Ayuntamiento que determine mediante avalúo conforme al valor más alto entre el valor catastral y el comercial el pago que deberán cubrir por ese concepto ante la Tesorería Municipal correspondiente.
 
-Cuando para proceder a una regularización de un asentamiento humano irregular, sólo falte cubrir el requisito de entregar las áreas de donación y no existan terrenos baldíos en el asentamiento o sean insuficientes las mismas o el faltante, según corresponda, se podrá convenir con el Ayuntamiento, la entrega de la superficie correspondiente, en ubicación distinta al asentamiento.
+Previa aprobación del Cabildo, este recurso deberá ser destinado a la adquisición de reserva territorial del municipio, o mejoras consistentes en la construcción, ampliación, remodelación y reconstrucción de inmuebles y obras de equipamiento e infraestructura urbana en el entorno de los bienes a regularizar en una distancia radial no mayor a 500 metros, teniendo que incluirse dicho concepto en la Ley de Ingresos Municipal que corresponda.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2017)</small>
 
@@ -3697,6 +3705,14 @@ Las áreas de donación en los desarrollos o desarrollos en condominio, en ning�
 
 Las áreas de donación deberán destinarse a la dotación de equipamiento urbano y áreas verdes. Las destinadas para áreas verdes serán entregadas forestadas por parte del fraccionador, las áreas destinadas para la construcción de equipamiento urbano se ajustarán a lo establecido en los programas de desarrollo urbano correspondientes; en ambos casos deberán considerar ajustes razonables con obras y/o acciones que cumplan con el diseño universal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE AGOSTO DE 2024)</small>
+
+Solo para el caso de áreas de donación para equipamiento urbano, a solicitud del propietario y exclusivamente cuando cada área de donación a que se refiere el párrafo anterior sea menor a 500 metros cuadrados, se procederá a determinar el valor comercial de dicha donación a efecto de que la pague a la Tesorería Municipal correspondiente, teniendo que calcularse mediante avalúo conforme al valor más alto, entre el valor catastral y el valor comercial.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE AGOSTO DE 2024)</small>
+
+Previa aprobación del Cabildo, este recurso deberá ser destinado a la adquisición de reserva territorial del municipio, o mejoras consistentes en la construcción, ampliación, remodelación y reconstrucción de inmuebles y obras de equipamiento e infraestructura urbana en el entorno de los bienes objeto de subdivisión en una distancia radial no mayor a 500 metros, teniendo que incluirse dicho concepto en la Ley de Ingresos Municipal que corresponda.
+
 Las características que deberán cumplir las áreas de donación para equipamiento urbano son las siguientes:
 
 > <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2022)</small>
@@ -5211,15 +5227,15 @@ IV. Las parcelaciones que se realicen por causa de herencia, donación, comprave
 
 V. Cuando sea necesaria la subdivisión de un predio por disolución de una copropiedad.
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 429.
 
 Las subdivisiones de predios mayores a 1,000 metros cuadrados, estarán sujetas a una donación obligatoria a favor del Ayuntamiento correspondiente del tres por ciento única y exclusivamente de la fracción o fracciones a separar y aprovechar respecto al predio de origen.
 
-> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
+A solicitud del propietario y exclusivamente cuando cada área de donación a que se refiere el párrafo anterior sea menor a 500 metros cuadrados, se procederá a determinar el valor comercial de dicha donación a efecto de que la pague a la Tesorería Municipal correspondiente, teniendo que calcularse mediante avalúo conforme al valor más alto, entre el valor catastral y el valor comercial.
 
-A solicitud del propietario y exclusivamente cuando cada área de donación a que se refiere el párrafo anterior sea menor a 1,500 metros cuadrados, se procederá a determinar el valor comercial de dicha donación a efecto de que la pague a la Tesorería Municipal correspondiente, teniendo que calcularse mediante avalúo conforme al valor más alto, entre el valor catastral y el valor comercial. Este recurso deberá ser destinado a la adquisición de reserva territorial del municipio, o al cumplimiento de los objetivos materia del presente Código, teniendo que incluirse dicho concepto en la Ley de Ingresos Municipal que corresponda.
+Previa aprobación del cabildo, este recurso deberá ser destinado a la adquisición de reserva territorial del municipio, o consistentes en la construcción, ampliación, remodelación y reconstrucción de inmuebles y obras de equipamiento e infraestructura urbana en el entorno de los bienes objeto de subdivisión en una distancia radial no mayor a 500 metros, teniendo que incluirse dicho concepto en la Ley de Ingresos Municipal que corresponda.
 
 ###### ARTÍCULO 430.
 
@@ -5692,3 +5708,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. Las autoridades municipales realizarán las adecuaciones administrativas y presupuestales necesarias para cumplir con lo establecido en el último párrafo del artículo 344 del presente Decreto, en un plazo no mayor a 365 días naturales contados a partir de la entrada en vigor de este Decreto.
 
 TERCERO. Notifíquese a las autoridades de los 113 municipios del Estado de Michoacán para su conocimiento y efectos correspondientes.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 662 POR EL QUE "SE ADICIONA AL ARTÍCULO 14, LAS FRACCIONES XXXII Y XXXIII; Y, SE REFORMAN LOS ARTÍCULOS 119, 297 Y 429 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
+
+SEGUNDO. Los municipios deberán realizar las adecuaciones correspondientes en sus reglamentos, a más tardar en los 60 días posteriores a la entrada en vigor del presente Decreto.
