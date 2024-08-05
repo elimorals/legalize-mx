@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-103753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-29"
-last_updated: "2023-06-28"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 29 de noviembre de 2014.
 
@@ -183,9 +183,13 @@ El Fiscal General del Estado será designado conforme al procedimiento estableci
 
 El fiscal general deberá designar, por oficio, a su suplente, quien lo sustituirá en sus ausencias temporales.
 
-> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
 
-En caso de no haber designación explícita, el fiscal general será suplido por el vicefiscal de Investigación y Control de Procesos, y este por el director de su adscripción que designe mediante oficio.
+En caso de no haber designación explícita, la persona titular de la Fiscalía General del Estado será suplido por la persona titular de la Vicefiscalía de Investigación y Litigación “A”.
+
+> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+La persona titular de la Vicefiscalia de Investigación y Litigación "A" designará, a través de oficio, a una persona dentro de su adscripción, quien la suplirá.
 
 > <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
 
@@ -411,17 +415,25 @@ La Unidad Administrativa Especializada en Delitos de Tortura y Actos Crueles Inh
 
 La competencia, las obligaciones y facultades de la Unidad a la que hace referencia el párrafo anterior se regirá por lo previsto en esta ley y en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
+> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+Artículo 11 quinquies. Policía ministerial
+
+La Fiscalía General del Estado contará con un cuerpo policial que depender (sic) administrativamente de la institución y que se denominará Policía Especializada en Investigación Ministerial, que efectuará sus labores en materia de investigación bajo conducción del Ministerio Público.
+
+La Policía Ministerial, estará bajo el mando de una persona con cargo de Comisario Jefe, el cual será nombrado y removido libremente por la persona titular de la Fiscalía General del Estado; la Policía Especializada en Investigación Ministerial se auxiliará de las unidades administrativas y áreas operativas que requiera para el cumplimiento de su objeto, de conformidad con la disponibilidad presupuestal.
+
 ### Capítulo III. Servicio profesional de carrera
 
-> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 12.
 
-Servicio profesional de la carrera
+Servicio profesional de carrera
 
-El servicio profesional de carrera de la Fiscalía General del Estado contemplará el ingreso, permanencia, certificación y separación de los fiscales, peritos y policías investigadores, y se llevará a cabo conforme a lo establecido por el ordenamiento que regule el sistema de seguridad pública del estado, los acuerdos que al efecto emita el Fiscal General y demás disposiciones legales y normativas aplicables.
+El servicio profesional de carrera de la Fiscalía General del Estado contemplará el Ingreso, permanencia, certificación y terminación del servicio de los fiscales, peritos y policías investigadores, y se llevará a cabo conforme a lo establecido por el ordenamiento que regule el sistema de seguridad pública del estado, los acuerdos que al efecto emita la persona titular de Fiscalía General del Estado y demás disposiciones legales y normativas aplicables.
 
-El Fiscal General emitirá los instrumentos jurídicos necesarios para crear los órganos de evaluación y control de confianza y demás que sean necesarios, y para regular la organización y funcionamiento del servicio profesional de carrera, el cual deberá operar con base en el principio de mérito, profesionalismo, imparcialidad, perspectiva y paridad de género e igualdad de oportunidades conforme a las necesidades de la Fiscalía General del Estado.
+La persona titular de la Fiscalía General del Estado suscribirá los instrumentos jurídicos necesarios para la obtención de las certificaciones que deban emitir los órganos de evaluación y control de confianza y demás que sean necesarios, así como para emitir los acuerdos necesarios para regular la organización y funcionamiento del servicio profesional de carrera, el cual deberá operar con base en el principio de mérito, profesionalismo, imparcialidad, perspectiva y paridad de género e igualdad de oportunidades conforme a las necesidades de la Fiscalía General del Estado.
 
 ###### Artículo 13.
 
@@ -429,13 +441,35 @@ Garantía de igualdad laboral
 
 El servicio profesional de carrera garantizará la igualdad de oportunidades laborales, así como la estabilidad, permanencia, remuneración adecuada, capacitación y garantías de seguridad social para los servidores públicos que la integran.
 
-> <small>(ADICIONADO, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
 
-###### Artículo 13 Bis.
+Artículo 13 bis. Régimen laboral
 
-Régimen laboral
+Las relaciones laborales entre la Fiscalía General del Estado y las personas integrantes del Servicio Profesional de Carrera, que contempla a las personas fiscales, peritos y policías ministeriales, se regirán por las Condiciones Generales de Trabajo de la Fiscala General del Estado, de conformidad con el artículo 123, apartado B. fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las relaciones laborales entre la Fiscalía General del Estado y sus trabajadores, independientemente de la naturaleza de su contratación se regirán por lo dispuesto en la Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán.
+Las relaciones laborales entre la Fiscalía General del Estado y las personas trabajadoras que no sea integrantes del Servicio Profesional de Carrera, serán considerados de confianza, independientemente de la naturaleza de su contratación se regirán por lo dispuesto en la Ley de los Trabajadores al Servicio del Estado (sic) Municipios de Yucatán, y en las Condiciones Generales de Trabajo de la Fiscalía General del Estado.
+
+El personal de confianza, deberá someterse a las evaluaciones y requisitos de permanencia que al efecto determine la Fiscalía General del Estado, en concordancia con lo establecido en la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública, por lo que los efectos de su nombramiento podrá darse por terminados en cualquier momento conforme a las leyes aplicables y en caso de que no acrediten las evaluaciones establecidas.
+
+> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+###### Artículo 13 Bis
+
+1. Ayudas complementarias
+
+La Fiscalía General del Estado, otorgará a las personas que sean fiscales, peritos, policías y facilitadores, a través de programas de subsidios o ayudas, los siguientes beneficios:
+
+I. Subsidio para vivienda
+
+II. Beca económica de educación básica, entendiéndose los niveles de primaria y secundaria: media superior en todos los niveles de bachillerato, y superior para hijas e hijos de personas fiscales, peritos, policías o facilitadores.
+
+Los programas al que se hace referencia en este artículo deberán contar con sus respectivas reglas de operación y ajustarse a las determinaciones señaladas en la Ley del Presupuesto y Contabilidad del Estado de Yucatán, la Ley de Desarrollo Social del Estado de Yucatán y demás disposiciones legales y normativas aplicables.
+
+El presupuesto de la Fiscalía General del Estado asignado a los programas a que se refiere este artículo no podrá ser disminuido respecto al del año inmediato anterior y se fijará anualmente.
+
+Para acceder a los subsidios o ayudas previstos en este artículo, se deberán cumplir además de lo previsto en esta ley, con los requisitos establecidos en las reglas de operación donde se regulen.
+
+La persona titular de la Fiscalía General del Estado, además, podrán (sic) celebrar convenios con el gobierno federal en materia de seguridad social y vivienda.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 21 DE ABRIL DE 2023)</small>
 
@@ -539,65 +573,61 @@ Excusa del Fiscal General
 
 El Fiscal General deberá excusarse de conocer los asuntos en los casos señalados en el artículo anterior, pero no podrá ser recusado. El Congreso calificará las excusas del Fiscal General.
 
-### Capítulo V. Responsabilidades y Sanciones
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 5 DE AGOSTO DE 2024)</small>
+
+### Capítulo V. Responsabilidades administrativas, incumplimiento de obligaciones y sanciones
+
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 17.
 
-Responsabilidades
+Responsabilidades administrativas
 
-Son causas de responsabilidad de los servidores públicos de la Fiscalía General del Estado, sin perjuicio de aquellas que se establezcan en las leyes especiales de la materia, las siguientes:
+Serán causas de responsabilidad administrativa aquellas acciones u omisiones efectuadas por las personas servidores públicos integrantes de la Fiscalía General del Estado, que se encuentren descritos en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Yucatán.
 
-I. De forma deliberada o negligente, incumplir las obligaciones que la ley procesal les imponga.
+> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
 
-II. Retrasar o perjudicar por negligencia la debida actuación de la Fiscalía
+Artículo 17 bis. Incumplimiento de las obligaciones
 
-General del Estado.
+Se considerará como incumplimiento de las obligaciones, las acciones u omisiones efectuadas por las personas servidores públicos integrantes del Servicio Profesional de Carrera, que deriven en contravenir las obligaciones que les impone (sic) los artículos 40 de la Ley General del Sistema Nacional de Seguridad Pública; y 31 de la Ley del Sistema Estatal de Seguridad Pública; 9 de esta ley, las que les impongan el Código Nacional de Procedimientos Penales y demás normatividad aplicable.
 
-III. Realizar o encubrir conductas que atenten contra la independencia funcional de los fiscales, tales como aceptar o ejercer consignas, presiones, encargos, comisiones o cualquier otra que genere o implique subordinación indebida respecto de alguna persona o autoridad.
+En el caso de personal integrante de la Policía Especializada en Investigación Ministerial, también se considerará incumplimiento, contravenir con lo establecido en el artículo 41 de la Ley General del Sistema Nacional de Seguridad Pública.
 
-IV. Distraer de su objeto, para uso propio o ajeno, el equipo, los datos confidenciales o los objetos materiales o bienes bajo su custodia o de la Fiscalía General del Estado.
+Además de las señaladas en párrafos precedentes, se considerarán incumplimiento de las obligaciones, las siguientes:
 
-V. No asegurar los bienes, objetos, instrumentos o productos de delito y, en su caso, solicitar su decomiso o la respectiva declaración de abandono, cuando así proceda en los términos que establezcan las leyes.
+I. No Asegurar los bienes, objetos, instrumentos o productos de delito, así como tampoco solicitar su decomiso o la respectiva declaración de abandono, cuando así proceda en los términos que establezcan las leyes.
 
-VI. Abstenerse de ejercer la acción penal o de extinción de dominio en los casos y en los términos que establezca la ley de la materia.
+II. Abstenerse de Ejercer la acción penal o de extinción de dominio en los casos y en los términos que establezca la ley de la materia.
 
-VII. Omitir la práctica de las diligencias necesarias en cada asunto.
+III. Omitir la Práctica de las diligencias necesarias en cada asunto.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+IV. Ordenar detenciones o retenciones sin cumplir con los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos y en la ley procesal, o sin registrarlas.
 
-> <small>(REFORMADA, D.O. 2 DE MAYO DE 2016)</small>
+V. Recibir compensaciones, pagos o gratificaciones distintas a las previstas por las disposiciones legales y normativas aplicables.
 
-VIII. Ordenar detenciones o retenciones sin cumplir con los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos y en la ley procesal, o sin registrarlas.
+VI. Hacer uso de la fuerza de manera irracional, desproporcionada o de forma diferente a las políticas y procedimientos establecidos en la normatividad interna respectiva.
 
-IX. Recibir compensaciones, pagos o gratificaciones distintas a las previstas por las disposiciones legales y normativas aplicables.
+VII. Las demás que señale el Reglamento de esta Ley y el Reglamento del Servicio Profesional de Carrera.
 
-X. Hacer uso de la fuerza de manera irracional, desproporcionada o de forma diferente a las políticas y procedimientos establecidos en la normatividad interna respectiva.
+Las sanciones que deban aplicarse por el incumplimiento de las obligaciones, sus consecuencias y el procedimiento para su imposición, serán las que señalan la Ley del Sistema Nacional de Seguridad Pública, la Ley del Sistema Estatal de Seguridad Pública y el Reglamento del Servicio Profesional de Carrera para la Fiscalía General del Estado de Yucatán
 
-XI. Realizar acciones violatorias de las leyes o de los derechos humanos.
-
-> <small>(REFORMADA, D.O. 21 DE ABRIL DE 2023)</small>
-
-XII. Las demás que establezcan la Ley General de Responsabilidades Administrativas y otras disposiciones legales y normativas aplicables.
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 18.
 
 Sanciones
 
-Las sanciones por incurrir en las causas de responsabilidad a que se refiere esta ley, serán:
+Las sanciones por incurrir en las causas de responsabilidad administrativa a que se refiere esta ley, serán:
 
-I. Apercibimiento.
+I. Amonestación pública o privada.
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2016)</small>
+II. Suspensión del empleo, cargo o comisión.
 
-II. Multa de una a quince unidades de medida y actualización.
+III. Destitución del empleo, cargo o comisión.
 
-III. Suspensión del empleo, sin goce de sueldo, hasta por noventa días.
+IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
 
-IV. Remoción, salvo que se trate de integrantes del servicio profesional de carrera.
-
-> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
-
-Las sanciones serán impuestas por la autoridad competente, conforme al procedimiento establecido en los acuerdos que emita el fiscal general. Supletoriamente serán aplicables las disposiciones de la Ley General de Responsabilidades Administrativas y otras disposiciones legales y normativas aplicables.
+Las sanciones serán impuestas por la autoridad competente, conforme al procedimiento establecido en la Ley General de Responsabilidades Administrativas y en la Ley de Responsabilidades Administrativas del Estado de Yucatán.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
 
@@ -932,3 +962,15 @@ D.O. 28 DE JUNIO DE 2023.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 812/2024 POR EL QUE MODIFICA LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ORGANIZACIÓN Y FUNCIONAMIENTO DE LA FISCALÍA GENERAL DEL ESTADO”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Ajustes presupuestales
+
+Artículo segundo. La Fiscalía General del Estado, deberá realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales necesarias para la aplicación de este decreto.
