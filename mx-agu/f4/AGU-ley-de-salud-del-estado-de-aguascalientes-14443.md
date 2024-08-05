@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2024-07-01"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -115,29 +115,39 @@ V.- Los Ayuntamientos en el ámbito de su respectiva competencia.
 
 Para los efectos de esta Ley se entiende por:
 
-I.- Ley General: A la Ley General de Salud;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-II.- Ley Estatal: A la Ley de Salud del Estado de Aguascalientes;
+I.- Enfermedades Raras: A las enfermedades reconocidas en el país o por organismos internacionales de los cuales el Estado mexicano es parte, las cuales tienen una prevalencia de no más de 5 personas por cada 10,000 habitantes;
 
-III.- Secretaría: A la Secretaría de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+II.- Ley General: A la Ley General de Salud;
 
-IV.- Organismo: Al Organismo Público Descentralizado denominado Instituto de Servicios de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2023)</small>
+III.- Ley Estatal: A la Ley de Salud del Estado de Aguascalientes;
 
-V.- Instituto: Al Organismo Público Descentralizado denominado Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+IV.- Secretaría: A la Secretaría de Salud del Estado de Aguascalientes;
 
-VI.- Sistema Estatal de Salud: Al Sistema Integral de Servicios de Salud del Estado de Aguascalientes;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+V.- Organismo: Al Organismo Público Descentralizado denominado Instituto de Servicios de Salud del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+VI.- Instituto: Al Organismo Público Descentralizado denominado Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+VII.- Sistema Estatal de Salud: Al Sistema Integral de Servicios de Salud del Estado de Aguascalientes;
 
 Se entiende por salud, un estado completo de bienestar físico, mental y social, y no solamente la ausencia de afecciones o enfermedades; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2023)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-VII.- El Médico en Tu Casa: El Programa mediante el cual se proporcionan servicios de salud en el domicilio de mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, personas en situación de abandono, así como a personas con discapacidad imposibilitados para acudir a una unidad de salud.
+VIII.- El Médico en Tu Casa: El Programa mediante el cual se proporcionan servicios de salud en el domicilio de mujeres embarazadas sin control prenatal, adultos mayores, enfermos postrados o terminales, personas en situación de abandono, así como a personas con discapacidad imposibilitados para acudir a una unidad de salud.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -279,13 +289,17 @@ XXVII.- Administrar el patrimonio de la beneficencia pública a través del órg
 
 XXVIII.- Desarrollar programas y actividades en materia de nutrición, prevención, tratamiento y control de la desnutrición y obesidad encaminados a promover hábitos alimentarios adecuados y la activación física, primordialmente en los grupos sociales vulnerables;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XXIX.- Impulsar, en coordinación con los Municipios y el Instituto de Educación de Aguascalientes, la prevención y el control del sobrepeso, obesidad y otros trastornos de conducta alimentaria, la detección y seguimiento de peso, talla e índice de masa corporal y la activación física en los centros escolares de educación básica; y
+XXIX.- Promover la incorporación, uso y aprovechamiento de las tecnologías de la información y de las comunicaciones en los servicios de salud;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 1 DE JULIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-XXX.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XXX.- Diseñar y promover la implementación de una estrategia estatal de atención de las enfermedades raras y que tenga como fin proveer el acceso a diagnóstico oportuno y el tratamiento adecuado a las personas; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+XXXI.- Las demás atribuciones afines a las anteriores, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2011)</small>
 
@@ -551,13 +565,23 @@ u).- Publicar anualmente en el Periódico Oficial del Estado la relación de pro
 
 v).- Los programas para la prevención, detección y diagnóstico oportuno, tratamiento, control y vigilancia epidemiológica de la atención integral de la enfermedad renal;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-w).- La atención temprana tanto quirúrgica como rehabilitación para personas con malformaciones congénitas como labio leporino y paladar hendido, sindactilia y polidactilia; y
+w).- La atención temprana tanto quirúrgica como rehabilitación para personas con malformaciones congénitas como labio leporino y paladar hendido, sindactilia y polidactilia;
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-x).- La orientación, prevención, detección, estimulación temprana, atención integral o especializada, así como tratamiento de carácter progresivo en sus derechos, de las personas con la condición del espectro autista;
+x).- La orientación, prevención, detección, estimulación temprana, atención integral o especializada, así como tratamiento de carácter progresivo en sus derechos, de las personas con la condición del espectro autista; y
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 5 DE AGOSTO DE 2024)</small>
+
+y).- Los programas para la prevención, diagnóstico, tratamiento y atención médica de diabetes, deberán diferenciar los tipos, considerando al menos la siguiente clasificación:
+
+I. Diabetes Tipo 1;
+
+II. Diabetes Tipo 2:
+
+III. Diabetes Gestacional.
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -4827,61 +4851,19 @@ P.O. 1 DE JULIO DE 2024.
 
 ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 37/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO SEXTO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR, CON RESIDENCIA EN ZAPOPAN, JALISCO; ASÍ COMO A LA DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA CIVIL Y EL DIVERSO EN MATERIA MERCANTIL, ESPECIALIZADO EN JUICIOS DE CUANTÍA MENOR EN LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
+P.O. 5 DE AGOSTO DE 2024.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de enero de dos mil dieciocho, con excepción de lo previsto en el Transitorio CUARTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 757.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. Se abroga el Acuerdo CCNO/5/2015 de la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal, relativo a la competencia temporal y turno regulado de asuntos entre los Juzgados de Distrito en Materia Civil en el Estado de Jalisco, con sede en Zapopan, y el Juzgado Tercero de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor en la misma entidad y residencia, para conocer de juicios orales mercantiles y que abroga al diverso CCNO/3/2014.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesario para el desempeño de sus funciones. El órgano jurisdiccional deberá contar con una sala para la celebración de las audiencias orales, así como con un sistema informático y de videograbación para el registro de éstas por medios electrónicos que garanticen su fidelidad, integridad, preservación, la reproducción de su contenido y el acceso a quienes tuvieren derecho a ello.
+P.O. 5 DE AGOSTO DE 2024.
 
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 760.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-QUINTO. Se reforma el numeral SEGUNDO, fracción III, número 4, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Distritos y Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. …
-
-I. a II. …
-
-III. …
-
-1. a 3. ...
-
-4. Dos Juzgados de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con residencia en Zapopan, Jalisco.
-
-IV. a XXXII. …"
-
-D.O.F. 15 DE DICIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 38/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL SÉPTIMO TRIBUNAL UNITARIO DEL SEGUNDO CIRCUITO, CON RESIDENCIA EN TOLUCA, ESTADO DE MÉXICO; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO INDICADO".]
-
-PRIMERO. El presente Acuerdo entrará en vigor el uno de enero de dos mil dieciocho, con excepción de lo previsto en el Transitorio TERCERO de dicho instrumento normativo, el cual iniciará su vigencia a partir de la aprobación del citado Acuerdo.
-
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
-
-TERCERO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al nuevo órgano jurisdiccional de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-CUARTO. Se reforma el numeral SEGUNDO, fracción II, número 2, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-“SEGUNDO. …
-
-I. …
-
-II. …
-
-1. …
-
-2. Siete Tribunales Unitarios: cinco con sede en Toluca, uno con residencia en Nezahualcóyotl; y uno especializado en Materia Penal, con residencia en Almoloya de Juárez.
-
-3. a 4. …
-
-III. a XXXII. …”
-
-D.O.F. 23 DE ENERO DE 2018.
+ÚNICO. - El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 1/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES Y A LA TRANSFORMACIÓN DEL JUZGADO QUINTO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE JALISCO, CON SEDE EN PUENTE GRANDE, EN JUZGADO OCTAVO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL MISMO ESTADO Y SEDE, Y LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DEL ÓRGANO JURISDICCIONAL CITADO EN PRIMER LUGAR; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA ÚLTIMA MATERIA Y ENTIDAD FEDERATIVA INDICADOS".]
 
