@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-para-el-estado-libre-y-soberano-de-puebla-13965
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-06"
-last_updated: "2019-12-06"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la SÉPTIMA SECCIÓN del Periódico Oficial del Estado de Puebla, el viernes 6 de diciembre de 2019.
 
@@ -419,29 +419,39 @@ El retenedor podrá comprobar a la autoridad fiscal, que la retención efectuada
 
 ### CAPÍTULO II. DEL IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+APARTADO A
+
+DISPOSICIONES GENERALES
+
 ###### ARTÍCULO 22.
 
 Son sujetos del Impuesto Sobre Servicios de Hospedaje, las personas físicas, las personas morales y las unidades económicas que presten los servicios a que se refiere el segundo párrafo del artículo 25 de la presente Ley, en el territorio del Estado de Puebla.
 
-También son sujetos de este impuesto las personas físicas, las personas morales y las unidades económicas que mediante sus plataformas digitales se contrate la prestación de los servicios objeto de este gravamen en el territorio del Estado de Puebla, de manera permanente o temporal, con los prestadores de los servicios de hospedaje o a través de promotores, plataforma digital, operadores turísticos, intermediarios, facilitadores o representantes de la prestación de dichos servicios o como se les designe, aun cuando éstos tengan su domicilio fiscal en lugar distinto de la prestación del servicio e independientemente de la duración del mismo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 Quienes reciban a cambio de la prestación de los servicios de hospedaje una contraprestación en dinero o especie, trasladarán de manera expresa y por separado el impuesto correspondiente a las personas a quienes se presten los servicios de hospedaje.
 
 ###### ARTÍCULO 23.
 
-Para efectos de este Capítulo, se entiende por plataforma digital, a la aplicación electrónica de servicios de hospedaje que la persona física, persona moral o la unidad económica, administradora del programa informático, opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, para permitir a los usuarios contratar servicios de hospedaje en inmuebles con terceros.
+(DEROGADO, P.O. 5 DE AGOSTO DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 24.
 
-La persona física, persona moral o la unidad económica, administradora de las plataformas digitales de servicios de hospedaje, a que se refiere este Capítulo, tendrán las siguientes obligaciones:
+La persona física, persona moral o la unidad económica, a que se refiere este Capítulo, tendrán las siguientes obligaciones:
 
 I. Inscribirse ante el Registro Estatal de Contribuyentes como retenedor del impuesto, ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de la retención del impuesto, haciendo uso de las formas oficiales o los medios electrónicos autorizados por la Secretaría de Planeación y Finanzas publicados en el Periódico Oficial del Estado;
 
-II. Retener el impuesto a las personas a las que se preste el servicio de hospedaje y enterarlo en las oficinas o a través de los medios autorizados por la Secretaría de Planeación y Finanzas publicados en el Periódico Oficial del Estado, y
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+II. Retener el impuesto a las personas que se preste el servicio de hospedaje y enterarlo en las oficinas o a través de los medios autorizados por la Secretaría ele Planeación y Finanzas publicados en el Periódico Oficial del Estado, y
 
 III. Presentar a más tardar el día diecisiete del mes siguiente a la fecha en la que se realizaron las retenciones materia del presente Capítulo, una declaración de manera agregada, por el total de las erogaciones base de este impuesto, en los formatos y mecanismos que para tal efecto emita y dé a conocer la Secretaría de Planeación y Finanzas.
 
-Cuando la persona física, persona moral o la unidad económica, en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, por medio de plataformas digitales, entere el impuesto sobre servicios de hospedaje, liberará al prestador del servicio de hospedaje de dicha obligación.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
@@ -502,6 +512,64 @@ g) Clave Única del Registro de Población, tratándose de personas físicas.
 III. Presentar semestralmente ante las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, la información relativa a sus proveedores y prestadores de servicios, en la que se deberá señalar el nombre o razón social, el Registro Federal de Contribuyentes y el domicilio fiscal, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la Secretaría de Planeación y Finanzas.
 
 Dicha información deberá presentarse a más tardar los días 30 de los meses de enero y julio, con los datos relativos al semestre inmediato anterior.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 2024)</small>
+
+APARTADO B
+
+DE LAS PLATAFORMAS DIGITALES DE LOS SERVICIOS DE HOSPEDAJE
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+###### ARTÍCULO 30 Bis.
+
+Están obligados a retener y enterar el impuesto a que se refiere este Capítulo, las personas físicas, las personas morales y las unidades económicas que mediante sus plataformas digitales se contrate la prestación de los servicios objeto de este gravamen en el territorio del Estado de Puebla, de manera permanente o temporal, con los prestadores de los servicios de hospedaje o a través de promotores, plataforma digital, operadores turísticos, intermediarios, facilitadores o representantes de la prestación de dichos servicios o como se les designe, aún cuando éstos tengan su domicilio fiscal en lugar distinto al de la prestación del servicio e independientemente de la duración del mismo.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+###### ARTÍCULO 30 Ter.
+
+Para efectos de este Capítulo, se entiende por plataforma digital, a la aplicación electrónica de servicios de hospedaje que la persona física, persona moral o la unidad económica, administradora del programa informático, opera en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, para permitir a los usuarios contratar servicios ele hospedaje en inmuebles con terceros, ubicados en el territorio del Estado de Puebla.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+###### ARTÍCULO 30 Quáter.
+
+Las personas físicas, las personas morales y las unidades económicas a que se refiere el presente Apartado, tendrán las siguientes obligaciones:
+
+I. Solicitar la inscripción en el Registro Estatal de Contribuyentes como retenedor del impuesto, ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente o a través de los medios electrónicos autorizados, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de la retención del impuesto, de acuerdo con las Reglas de Carácter General que emita la Secretaría de Planeación y Finanzas y, que se publiquen en el Periódico Oficial del Estado;
+
+Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su firma electrónica (FIEL), expedida por el Servicio de Administración Tributaria.
+
+II. Retener el impuesto que se cause conforme a las disposiciones contenidas en esta Ley.
+
+La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratados.
+
+III. Declarar y enterar el impuesto retenido, en los términos a que se refiere el artículo 28 de esta Ley;
+
+IV. Realizar el traslado del impuesto en forma expresa y por separado, a las personas a quienes se presten los servicios de hospedaje;
+
+V. Expedir y conservar copia de la documentación comprobatoria del servicio prestado objeto de este impuesto, durante el plazo que establece el Código Fiscal del Estado, la que deberá cumplir los siguientes requisitos:
+
+a) Contener impreso el nombre, denominación o razón social, domicilio fiscal y en su caso, la clave del Registro Estatal de Contribuyentes de quien la expida;
+
+b) Contener impreso el número de folio;
+
+c) Lugar y fecha de expedición;
+
+d) Nombre de la persona a favor de quien se expida;
+
+e) Descripción de los servicios que amparen;
+
+f) Valor unitario consignado en número e importe total en número o letra, así como el monto del impuesto que en los términos de esta Ley deba trasladarse, y
+
+g) Clave Única del Registro de Población, tratándose de personas físicas.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+###### ARTÍCULO 30 Quinquies.
+
+Cuando la persona física, persona moral o la unidad económica, en su carácter de gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga, por medio de plataformas digitales, entere el Impuesto Sobre Servicios de Hospedaje, liberará al prestador del servicio de hospedaje de dicha obligación.
 
 ### CAPÍTULO III. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
 
@@ -1312,3 +1380,13 @@ QUINTO. Para efectos del pago del Impuesto a que se refiere el Capítulo VI, del
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de noviembre de dos mil diecinueve. Diputada Presidenta. JOSEFINA GARCÍA HERNÁNDEZ. Rúbrica. Diputado Vicepresidente. JUAN PABLO KURI CARBALLO. Rúbrica. Diputado Vicepresidente. RAÚL ESPINOSA MARTÍNEZ. Rúbrica. Diputado Secretario. URUVIEL GONZÁLEZ VIEYRA. Rúbrica. Diputada Secretaria. GUADALUPE MUCIÑO MUÑOZ. Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiocho días del mes de noviembre de dos mil diecinueve. El Gobernador Constitucional del Estado Libre y Soberano de Puebla. LICENCIADO LUIS MIGUEL GERÓNIMO BARBOSA HUERTA. Rúbrica. El Secretario de Gobernación. CIUDADANO FERNANDO LUIS MANZANILLA PRIETO. Rúbrica La Secretaria de Planeación y Finanzas. CIUDADANA MARÍA TERESA CASTRO CORRO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
