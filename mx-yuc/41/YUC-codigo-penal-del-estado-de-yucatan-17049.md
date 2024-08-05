@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2024-07-31"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -3889,13 +3889,21 @@ V. Por dirigente o ministro de culto religioso;
 
 VI. Previa suministración de estupefacientes o psicotrópicos a la víctima, en contra de su voluntad y sin su consentimiento, y
 
+> <small>(ADICIONADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+VII. Mediante la administración sin consentimiento o sin conocimiento de la víctima, de manera forzada u oculta, de fármacos, drogas o cualquier sustancia natural o química que tengan como efecto modificar su comportamiento, alterar o anular su voluntad, y
+
 > <small>(ADICIONADA, D.O. 3 DE AGOSTO DE 2021)</small>
 
-VII. En pandilla.
+VIII. En pandilla.
 
 > <small>(ADICIONADO, D.O. 6 DE MARZO DE 2020)</small>
 
 ARTÍCULO 316 BIS. A quien le conste de la comisión del delito de abuso sexual, violación, violación equiparada, acoso sexual y estupro, y no acuda a la autoridad competente para denunciar el hecho, se le impondrá una pena de uno a cinco años de prisión y de 100 a 200 días-multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 5 DE AGOSTO DE 2024)</small>
+
+Si quien conociere de la comisión de alguno de los delitos señalados en el párrafo anterior fuere parte de alguna institución educativa de cualquier nivel y no acuda a la autoridad competente, se impondrá pena de tres a seis años de prisión y de 250 a 500 días-multa. Sí quien tuviera conocimiento de la comisión de los delitos referidos fuese una autoridad escolar, las penas aumentarían en una tercera parte. Sí además, existiera entre éste y quien cometiera los delitos señalados una relación de parentesco hasta el cuarto grado, las penas aumentarán en dos terceras partes.
 
 TÍTULO DECIMONOVENO
 
@@ -4218,6 +4226,10 @@ XI. Se efectúe por medio de identificaciones falsas o supuestas órdenes de alg
 XII.- Recaiga sobre instrumentos indispensables para la actividad agropecuaria, pesquera, forestal o industrial, pudiendo ser maquinaria, instrumentos, equipo, herramientas, útiles, postes o alambres de cercas; motores eléctricos, de gasolina o de cualquier otra especie; o partes de estos así como tuberías para riego o cableado y cualesquiera otros implementos para dichas actividades.
 
 XIII. Se cometa contra bienes que pertenezcan o estén al servicio de instituciones educativas.
+
+> <small>(ADICIONADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XIV. Se aproveche de la incapacidad del agente pasivo derivada de la administración forzada u oculta de fármacos, drogas o cualquier sustancia natural o química idónea que tengan como objeto la modificación de su comportamiento, la alteración o supresión de su voluntad.
 
 ###### ARTÍCULO 336.
 
@@ -6040,3 +6052,23 @@ D.O. 31 DE JULIO DE 2024.
 PRIMERO. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 SEGUNDO. Los talleres a los que se refiere el artículo 57 de este Código, deberán de ser modificados con énfasis en la perspectiva de derechos e interés superior de la niñez que implica la patria potestad incluyendo la responsabilidad parental.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 808/2024 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE SUMISIÓN QUÍMICA”.]
+
+Entrada en vigor.
+
+Artículo Primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Clausula Derogatoria
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 809/2024 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN Y EL CÓDIGO PENAL PARA EL ESTADO DE YUCATÁN, EN MATERIA DE PREVENCIÓN DE LA VIOLENCIA”.]
+
+PRIMERO.- Publíquese el presente decreto en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
