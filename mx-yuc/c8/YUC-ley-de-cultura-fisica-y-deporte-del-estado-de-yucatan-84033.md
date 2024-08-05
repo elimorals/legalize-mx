@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-cultura-fisica-y-deporte-del-estado-de-yucatan-84033"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-02"
-last_updated: "2024-06-26"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84033&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 2 de diciembre de 2011.
 
@@ -957,6 +957,10 @@ Artículo 59 bis.- Es de interés público la prohibición del consumo y la dist
 
 Artículo 75 bis.- El estado y los municipios deberán propiciar, en sus respectivos ámbitos de competencia, la prevención y atención de la violencia en el deporte.
 
+> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+Asimismo, fomentarán el desarrollo de programas y acciones necesarias para prevenir, atender y erradicar cualquier tipo de violencia en el deporte contra niñas, niños y adolescentes.
+
 Para efectos de esta ley, se entiende por violencia en el deporte, de forma enunciativa y no limitativa, la comisión de los actos o las conductas establecidos en el artículo 138 de la ley general.
 
 > <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
@@ -1020,6 +1024,12 @@ Artículo 75 septies.- Quienes, en su carácter de asistente o espectador, acuda
 > <small>(ADICIONADO, D.O. 7 DE JULIO DE 2017)</small>
 
 Artículo 75 octies.- Los directivos, deportistas, entrenadores, árbitros, jueces y el personal técnico relacionado con la cultura física y el deporte deberán respetar y actuar conforme a las disposiciones que, para la prevención de la violencia y la no discriminación en el deporte, hayan emitido la Comisión Especial contra la Violencia en el Deporte, la Comisión Estatal contra la Violencia en el Deporte o la asociación o sociedad correspondiente.
+
+> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+Artículo 75 nonies.- El IDEY deberá proveer mecanismos que posibiliten la prevención, atención y erradicación de la violencia en el deporte contra niñas, niños y adolescentes.
+
+Los integrantes del Sistema Estatal de Cultura Física y Deporte deberán coordinarse con las autoridades deportivas para colaborar y apoyar en el desarrollo de acciones para prevenir la violencia en el deporte.
 
 ###### Artículo 60.
 
@@ -1396,3 +1406,15 @@ Artículo tercero. El Poder Ejecutivo, a través del Instituto del Deporte del E
 Adecuación presupuestaria
 
 Artículo cuarto. La persona titular del Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, preverá los ajustes correspondientes a los recursos presupuestales necesarios para la debida aplicación de este decreto en el ejercicio fiscal siguiente al de su entrada en vigor.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 810/2024 POR EL QUE SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE YUCATÁN, EN MATERIA DE PREVENCIÓN, ATENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA NIÑAS, NIÑOS Y ADOLESCENTES EN EL DEPORTE".]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula Derogatoria
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este Decreto.
