@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-turismo-del-estado-de-aguascalientes-55083"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-16"
-last_updated: "2024-07-01"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55083&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de abril de 2007.
 
@@ -301,9 +301,9 @@ V. Preservar la limpieza de las zonas y centros turísticos, así como de los ca
 
 VI. Pagar el precio de los servicios o bienes utilizados en el momento de la presentación de la factura correspondiente, en el plazo y términos pactados; y
 
-> <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-VII. Identificarse a satisfacción del prestador de servicios turísticos al momento de hospedarse en algún establecimiento a que se refiere la Fracción I del Artículo 6° de esta Ley, con algún documento oficial con fotografía. Para cotejo con la información recabada en el "Libro de Registro de Visitantes o Turistas".
+VII. Identificarse a satisfacción del prestador de servicios turísticos al momento de hospedarse en algún establecimiento, conforme a lo dispuesto en el artículo 16 Bis de esta Ley, con la finalidad de ser incluido en el “Libro de Registro de Visitantes o Turistas”.
 
 ###### Artículo 14.
 
@@ -383,7 +383,9 @@ V. Garantizar ante la Secretaría el cumplimiento de las condiciones en que ofre
 
 VI. Proporcionar a las autoridades competentes los datos e informes que se les requieran, así como el apoyo, auxilio y facilidades para la promoción turística en la Entidad;
 
-VII. Capacitar a sus trabajadores con base en los programas autorizados;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+VII. Profesionalizar a sus trabajadores en los términos de las leyes respectivas, en coordinación con la Secretaría; así como informar, capacitar y sensibilizar a su personal en materia de derechos humanos y sobre explotación sexual comercial infantil asociada al turismo o cualquier otro tipo de violencia sexual contra personas menores, y la forma de proceder cuando se advierta la posible comisión de delitos relacionados con dichas conductas;
 
 VIII. Emplear en todo caso, y de manera destacada el idioma español en los anuncios, propaganda y leyendas en los que ofrezcan los servicios, sin perjuicio del uso de otros idiomas;
 
@@ -419,13 +421,13 @@ XVIII. Prestar el servicio turístico de hospedaje, requiriendo al turista o vis
 
 XIX. Llevar un "Libro de Registro de Visitantes o Turistas" con datos personales, donde se anotará el nombre del visitante o turista titular del contrato de hospedaje, dirección, procedencia, ocupación, descripción del tipo de identificación que presentó y el número de cuarto;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XX. Colaborar con las autoridades correspondientes cuando investiguen un hecho delictivo; y
+XX. Hacer del conocimiento de las autoridades competentes cualquier conducta, cuando se advierta la posible comisión de un hecho delictivo que atente contra la libertad, dignidad e integridad de niñas, niños y adolescentes, así como colaborar con las autoridades correspondientes cuando investiguen la probable comisión de un delito; y
 
-> <small>(ADICIONADA, P.O. 24 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XXI. Contar con sistema de videovigilancia acorde con los servicios prestados por el establecimiento y sus dimensiones, como medio de prevención de delitos en los espacios a que se refiere el Artículo 6°, Fracción I de esta Ley, respetando en todo momento las disposiciones legales vigentes y los derechos fundamentales de protección de dato (sic) personales, privacidad e intimidad de las personas.
+XXI. Contar con sistema de videovigilancia acorde a los servicios prestados por el establecimiento y sus dimensiones, como medio de prevención de delitos en los espacios a que se refiere la fracción I del artículo 6º de esta ley, respetando en todo momento las disposiciones legales vigentes y los derechos fundamentales de protección de datos personales, privacidad e intimidad de las personas.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2010)</small>
 
@@ -434,6 +436,20 @@ El "Libro de Registro de Visitantes o Turistas", deberá ser resguardado por los
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2010)</small>
 
 La Secretaría verificará que los prestadores de servicios turísticos cuenten con el libro de registro a que se refiere la Fracción XIX, en caso contrario, se harán acreedores a las sanciones que correspondan en términos de esta Ley.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+###### Artículo 16 Bis.
+
+Los prestadores de servicios turísticos que brinden el servicio de hospedaje a que se refiere la fracción I del artículo 6º de esta ley, además de los deberes establecidos en el artículo anterior, deberán implementar medidas adicionales de seguridad útiles para la protección de personas menores de edad, previa prestación del servicio.
+
+Para tal efecto, deberán realizar al menos lo siguiente:
+
+I. Solicitar la exhibición de un documento de identificación oficial con fotografía idóneo que demuestre la mayoría de edad de las personas adultas que acompañen a la persona menor de edad;
+
+II. Autorizar el ingreso de niñas, niños y adolescentes a las habitaciones de los establecimientos de hospedaje a que se refiere la fracción I del artículo 6º de esta ley, siempre y cuando se acredite, por los medios idóneos que se encuentran en compañía de la persona que ejerce la patria potestad, tutela o custodia; y
+
+III. Hacer del conocimiento de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado o del Ministerio Público, cuando se advierta la posible comisión de un delito en contra de personas menores de edad.
 
 ## TITULO TERCERO. ORDENACION DE LA OFERTA TURISTICA
 
@@ -1182,3 +1198,11 @@ El presente Decreto iniciara su vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 758.- SE REFORMA LA LEY DE TURISMO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
