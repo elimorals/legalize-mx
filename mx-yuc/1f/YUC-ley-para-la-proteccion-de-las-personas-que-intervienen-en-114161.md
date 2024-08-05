@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-la-proteccion-de-las-personas-que-intervienen-en-11416
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-20"
-last_updated: "2023-06-28"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "YUC"
 ---
 # LEY PARA LA PROTECCION DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO, EL PRESENTE DECRETO ENTRA EN VIGOR EL 1 DE OCTUBRE DE 2016, PREVIA SU PUBLICACIÓN EN EL DIARIO OFICIAL DEL ESTADO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 20 de abril de 2016.
 
@@ -59,11 +59,15 @@ Personas protegidas
 
 Se entenderá por personas protegidas para los efectos de esta ley, aquellas que puedan verse en una situación de riesgo para su vida, integridad física o psicológica, por haber participado en la investigación o en el proceso penal o, aún sin haber participado, tengan una relación parental o afectiva con un interviniente y compartan con este la misma situación de riesgo; independientemente de si su participación fue de víctima, ofendido, testigo, perito, policía, defensor, fiscal, juez o colaborador.
 
+> <small>(REFORMADO EPÍGRAFE, D.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 3.
 
-Atribuciones de la Fiscalía General del Estado
+Atribuciones de la Fiscalía General del Estado y de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán
 
-La aplicación de esta ley corresponde a la Fiscalía General del Estado, para lo cual tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+La aplicación de esta ley corresponde a la Fiscalía General del Estado y a la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, para lo cual tendrán las siguientes atribuciones:
 
 I. Otorgar las medidas de protección y dar seguimiento a las que se impongan.
 
@@ -111,7 +115,9 @@ El otorgamiento y aplicación de las medidas de protección se realizará con ba
 
 Catálogo de las medidas de protección
 
-Las medidas de protección brindadas a las personas protegidas podrán serlas siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+Las medidas de protección brindadas a las personas protegidas podrán ser las siguientes:
 
 I. La asistencia psicológica, médica, sanitaria o jurídica, a través de los servicios de asistencia social y salud pública, o de instituciones privadas.
 
@@ -133,9 +139,7 @@ IX. El cambio de domicilio, ya sea en territorio estatal, nacional o fuera del p
 
 X. La revisión periódica de la situación de riesgo de la persona protegida.
 
-(NOTA: EL 21 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 35/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XI DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 1 DE OCTUBRE DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-XI. LA SEPARACIÓN DEL RESTO DE LOS RECLUSOS O EL TRASLADO A OTROS CENTROS PENITENCIARIOS CUANDO SE TRATE DE PERSONAS QUE SE ENCUENTREN PRIVADAS DE SU LIBERTAD POR PRISIÓN PREVENTIVA O POR PENA DE PRISIÓN.
+XI. (DEROGADA, D.O. 5 DE AGOSTO DE 2024)
 
 XII. El desalojo del imputado o sentenciado del domicilio de la persona protegida.
 
@@ -145,15 +149,17 @@ XIV. El cambio de identidad y la documentación que la acredite.
 
 XV. El uso de métodos que imposibiliten la identificación visual o auditiva de la persona protegida, o que permitan su participación remota, en las diligencias en que intervengan.
 
-XVI. La confidencialidad del domicilio de la persona en las audiencias jurisdiccionales, para lo cual se entenderá que su domicilio es el de la Fiscalía General del Estado.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XVI. La confidencialidad del domicilio de la persona en las audiencias jurisdiccionales, para lo cual se entenderá que su domicilio es el de la Fiscalía General del Estado o el de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, según corresponda.
 
 XVII. Las demás que sean necesarias para garantizar la vida, así como la seguridad física, psicológica, laboral y la integridad de las personas protegidas.
 
-(NOTA: EL 21 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO, SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 35/2016, DECLARÓ LA INVALIDEZ DEL PENÚLTIMO PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS A PARTIR DEL 1 DE OCTUBRE DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 5 DE AGOSTO DE 2024)</small>
 
-LAS MEDIDAS ESTABLECIDAS EN LA FRACCIÓN XII, XIII, XIV, XV Y XVI DEBERÁN SER AUTORIZADAS POR LAS AUTORIDADES JURISDICCIONALES CORRESPONDIENTES, PARA LO CUAL LA FISCALÍA GENERAL DEL ESTADO DEBERÁ REALIZAR LAS GESTIONES CORRESPONDIENTES.
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
 
-La Fiscalía General del Estado será responsable de vigilar que las medidas de protección que se otorguen, se desarrollen con pleno respeto a los derechos humanos de las personas protegidas.
+La Fiscalía General del Estado y la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, según corresponda, serán responsables de vigilar que las medidas de protección que se otorguen, se desarrollen con pleno respeto a los derechos humanos de las personas protegidas.
 
 ### Capítulo III. Procedimiento para el otorgamiento de las medidas de protección
 
@@ -161,7 +167,9 @@ La Fiscalía General del Estado será responsable de vigilar que las medidas de 
 
 Determinación de las medidas
 
-Las medidas de protección podrán otorgarse por la Fiscalía General del Estado de oficio o a petición de parte desde que inicie la investigación inicial y hasta después de concluido el proceso penal, siempre que la situación de riesgo subsista.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+Las medidas de protección podrán otorgarse por la Fiscalía General del Estado o por la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, según corresponda, de oficio o a petición de parte, desde que inicie la investigación inicial y hasta después de concluido el proceso penal, siempre que la situación de riesgo subsista.
 
 El Ministerio Público deberá informar en la primera entrevista que sostenga con las personas que sean susceptibles de protección sobre la posibilidad de acceder a las medidas a que se refiere esta ley y sobre la importancia de informar cualquier evento que pueda constituir una amenaza o presión por el hecho de su participación en la investigación o en el proceso penal.
 
@@ -191,7 +199,9 @@ VI. LA IMPORTANCIA DEL CASO.
 
 Estudio técnico
 
-Antes de la determinación de las medidas de protección, la Fiscalía General del Estado deberá realizar un estudio técnico a la persona susceptible de recibir protección, el cual deberá contener los siguientes aspectos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+Antes de la determinación de las medidas de protección, la Fiscalía General del Estado o la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, según corresponda, deberá realizar un estudio técnico a la persona susceptible de recibir protección, el cual deberá contener los siguientes aspectos:
 
 I. El nombre completo de la persona a proteger y su domicilio o lugar de ubicación.
 
@@ -211,7 +221,9 @@ VII. Cualquier otro elemento necesario que justifique las medidas de protección
 
 Convenio
 
-En caso de que se otorguen las medidas de protección, la Fiscalía General del Estado deberá celebrar un convenio con la persona protegida que contenga lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+En caso de que se otorguen las medidas de protección, la Fiscalía General del Estado o la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, según corresponda, deberán celebrar un convenio con la persona protegida que contenga lo siguiente:
 
 I. La manifestación de voluntad de la persona a someterse a las medidas de protección.
 
@@ -219,7 +231,9 @@ II. Las medidas de protección, sus alcances y su duración.
 
 III. Las obligaciones a las que se sujeta la persona protegida, particularmente las establecidas en el artículo 13 de esta ley.
 
-IV. La referencia expresa a la facultad de la Fiscalía General del Estado de mantener, modificar o suprimir todas o algunas de las medidas de protección por solicitud de la persona protegida o cuando esta incumpla alguna de las obligaciones señaladas en el convenio.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+IV. La referencia expresa a la facultad de la Fiscalía General del Estado o de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, según corresponda, para mantener, modificar o suprimir todas o algunas de las medidas de protección, por solicitud de la persona protegida o cuando esta incumpla alguna de las obligaciones señaladas en el convenio.
 
 V. Las condiciones de terminación de las medidas de protección.
 
@@ -249,7 +263,9 @@ IV. Abstenerse de frecuentar personas o asistir a lugares que puedan poner en ri
 
 V. Abstenerse de divulgar información sobre las medidas de protección que se le otorguen y sobre los lugares de atención o protección de su persona o de otras personas protegidas.
 
-VI. Mantener comunicación constante con la fiscalía.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+VI. Mantener comunicación constante con la Fiscalía General del Estado o la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, según corresponda.
 
 VII. Utilizar correctamente las instalaciones y demás instrumentos que se les proporcione para su protección.
 
@@ -380,3 +396,31 @@ D.O. 28 DE JUNIO DE 2023.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 811/2024 POR EL QUE SE EMITE LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN Y SE MODIFICAN EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN, Y LA LEY DE VIDEOVIGILANCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuaciones presupuestales
+
+Artículo Segundo. La Secretaría de Administración y Finanzas, a la brevedad posible, deberá realizar las adecuaciones presupuestales necesarias para formalizar la estructura orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, en términos de este decreto, y dotarla de los recursos humanos, financieros, materiales y tecnológicos que requiera para el adecuado ejercicio de sus atribuciones y el cumplimiento de su objeto.
+
+Órgano de Control Interno
+
+Artículo Tercero. Las disposiciones contenidas en este decreto, relacionadas con el Órgano de Control Interno de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, entrarán en vigor el día en que el Congreso del Estado de Yucatán designe a la persona titular de dicha unidad administrativa, en términos del artículo 30, fracción XXXII Bis, de la Constitución Política del Estado de Yucatán.
+
+Reglamento Interior de la Fiscalía Especializada
+
+Artículo Cuarto. La persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán deberá expedir el reglamento interior de este organismo en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Primer Informe del Fiscal Anticorrupción
+
+Artículo Quinto. Por única ocasión, la primera rendición del Informe anual de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de marzo de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal anticorrupción hasta el 31 de diciembre 2024.
+
+Cálculo del presupuesto
+
+Artículo Sexto. El presupuesto asignado a la Fiscalía Especializada en Combate a la Corrupción para el año siguiente a su entrada en funciones se calculará dividiendo el primer presupuesto asignado entre el número de meses durante los cuales se ejerció dicho presupuesto, y multiplicando el resultado por doce, tomando en consideración lo dispuesto en el artículo 6, fracción I, de la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, con el fin de garantizar la correcta operatividad y funciones de la referida fiscalía.
