@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2024-07-01"
+last_updated: "2024-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -5519,7 +5519,9 @@ a) Bicicletas:
 
 2. Circular por la banqueta o en espacios exclusivos para peatones;
 
-3. Estacionarse en rampas para discapacitados y accesos peatonales o cualquier tipo de infraestructura que impida la movilidad de otras personas;
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+3. Estacionarse en accesos peatonales o cualquier tipo de infraestructura que impida la movilidad de otras personas.
 
 4. Circular con distractores visuales que obstruya su conducción;
 
@@ -5773,9 +5775,17 @@ a) Todo tipo de vehículos:
 
 15. Por estacionarse:
 
-i. Obstruyendo entrada o salida de vehículos, excepto la de su domicilio; o
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-ii. Simulando descompostura de vehículo, haciendo maniobras y desplazar o empujar vehículos debidamente estacionados;
+i. Obstruyendo entrada o salida de vehículos, excepto la de su domicilio;
+
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+ii. Simulando descompostura de vehículo, haciendo maniobras y desplazar o empujar vehículos debidamente estacionados; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+iii. Estacionarse en rampas o en zonas de estacionamiento destinadas a personas con discapacidad. Con excepción de las personas que cuenten con placas o tarjetón a las que se refiere el artículo 83 fracción V de la presente ley;
 
 16. Causar un hecho de tránsito al conducir vehículos cuando este en mal estado el sistema de frenado;
 
@@ -6310,3 +6320,11 @@ P.O. 1 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 728.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 759.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO
+
+El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
