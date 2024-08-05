@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-instituto-de-defensa-publica-del-estado-de-yucatan-7718
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-05"
-last_updated: "2022-10-13"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 13 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el viernes 5 de noviembre de 2010.
 
@@ -879,9 +879,11 @@ Los usuarios que se consideren afectados por la actuación de los integrantes de
 
 El procedimiento de investigación de las conductas que se imputen a los servidores públicos del Instituto y el procedimiento para la aplicación de sanciones administrativas, se hará en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
 
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 58.
 
-En caso de que la conducta del servidor público constituya delito, se formulará denuncia ante la Fiscalía General del Estado, y se separará inmediatamente de su cargo, sin prejuicio de las demás sanciones que le correspondan.
+En caso de que la conducta de la persona servidora pública constituya delito, se formulará denuncia ante la Fiscalía General del Estado o la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, según corresponda, y se separará inmediatamente de su cargo, sin perjuicio de las demás sanciones que le correspondan.
 
 TRANSITORIOS:
 
@@ -1066,3 +1068,31 @@ D.O. 13 DE OCTUBRE DE 2022.
 Único. Entrada en vigor
 
 Este decreto entrará en vigor al momento de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 811/2024 POR EL QUE SE EMITE LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN Y SE MODIFICAN EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN, Y LA LEY DE VIDEOVIGILANCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuaciones presupuestales
+
+Artículo Segundo. La Secretaría de Administración y Finanzas, a la brevedad posible, deberá realizar las adecuaciones presupuestales necesarias para formalizar la estructura orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, en términos de este decreto, y dotarla de los recursos humanos, financieros, materiales y tecnológicos que requiera para el adecuado ejercicio de sus atribuciones y el cumplimiento de su objeto.
+
+Órgano de Control Interno
+
+Artículo Tercero. Las disposiciones contenidas en este decreto, relacionadas con el Órgano de Control Interno de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, entrarán en vigor el día en que el Congreso del Estado de Yucatán designe a la persona titular de dicha unidad administrativa, en términos del artículo 30, fracción XXXII Bis, de la Constitución Política del Estado de Yucatán.
+
+Reglamento Interior de la Fiscalía Especializada
+
+Artículo Cuarto. La persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán deberá expedir el reglamento interior de este organismo en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Primer Informe del Fiscal Anticorrupción
+
+Artículo Quinto. Por única ocasión, la primera rendición del Informe anual de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de marzo de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal anticorrupción hasta el 31 de diciembre 2024.
+
+Cálculo del presupuesto
+
+Artículo Sexto. El presupuesto asignado a la Fiscalía Especializada en Combate a la Corrupción para el año siguiente a su entrada en funciones se calculará dividiendo el primer presupuesto asignado entre el número de meses durante los cuales se ejerció dicho presupuesto, y multiplicando el resultado por doce, tomando en consideración lo dispuesto en el artículo 6, fracción I, de la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, con el fin de garantizar la correcta operatividad y funciones de la referida fiscalía.
