@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2024-03-21"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1531,13 +1531,21 @@ LXVII.- Fomentar la creación, venta y distribución de productos artesanales en
 
 LXVIII.- Implementar acciones para prevenir cualquier conducta que pueda configurar violencia política contra las mujeres en razón de género, en especial, la relativa a limitar o negar arbitrariamente el uso de cualquier recurso o atribución inherente al cargo público o político, incluido el pago de salarios, dietas u otras prestaciones asociadas al mismo, prevista en el artículo 21 Ter, fracción XVIII, de la Ley para el Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Puebla;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-LXIX.- Crear la instancia municipal de la mujer como órgano encargado de instrumentar la política municipal en materia de igualdad de género, así como las acciones que les correspondan a los Ayuntamientos de acuerdo con la Ley General y Estatal para el Acceso de las Mujeres a una Vida Libre de Violencia; y
+LXIX.- Crear la instancia municipal de la mujer, como órgano especializado encargado de instrumentar la política municipal en materia de igualdad sustantiva; implementando acciones de prevención, atención, sanción y erradicación de la violencia contra las mujeres; así como las acciones que les correspondan a los Ayuntamientos de conformidad con la Ley General y Estatal para el Acceso de las Mujeres a una Vida Libre de Violencia; con un nivel de estructura de, cuando menos, Dirección de Área u homóloga, y conforme al presupuesto que tengan autorizado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE JULIO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-LXX.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
+LXX.- Emitir, las Órdenes de Protección de naturaleza administrativa a través de la autoridad administrativa que se considere competente, en términos de las disposiciones aplicables; debiendo coordinarse, de ser necesario, con las instancias federales y estatales correspondientes, para garantizar el cumplimiento, monitoreo y ejecución de las mismas;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+LXXI.- Ofrecer servicios reeducativos integrales y especializados gratuitos a hombres agresores, a través de la instancia municipal competente, en coordinación con la Secretaría de Igualdad Sustantiva con el objetivo de eliminar las conductas violentas y erradicar los estereotipos de supremacía masculina y los patrones machistas que dieron origen a su comportamiento violento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+LXXII.- Las demás que le confieran las leyes y ordenamientos vigentes en el Municipio.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2010)</small>
 
@@ -1567,9 +1575,9 @@ I.- Adecuado funcionamiento del Ayuntamiento como órgano máximo de autoridad d
 
 II.- Idónea división administrativa y territorial del Municipio;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-III.- Preservación del orden público como requerimiento prioritario de la sociedad, en los aspectos de seguridad personal y patrimonial, de los habitantes del Municipio, salud pública, vialidad, esparcimiento, cultura, desarrollo urbano, el derecho a una vida libre de violencia, la implementación de acciones afirmativas hacia las mujeres, y demás aspectos fundamentales de la vida comunitaria;
+III. Preservación del orden público como requerimiento prioritario de la sociedad, en los aspectos de seguridad personal y patrimonial, de los habitantes del Municipio, salud pública, vialidad, esparcimiento, cultura, desarrollo urbano, la igualdad sustantiva, el derecho a una vida libre de violencia con atención especial en las mujeres, niñas y adolescentes; la implementación de acciones afirmativas y de empoderamiento hacia las mujeres, y demás aspectos fundamentales de la vida comunitaria;
 
 IV.- Establecimiento de las bases para garantizar, en beneficio de la sociedad, la más adecuada prestación de los servicios públicos municipales directamente por el Ayuntamiento o a través de concesionarios;
 
@@ -1686,6 +1694,10 @@ Son facultades y obligaciones de los Presidentes Municipales:
 I.- Difundir en sus respectivos Municipios, las leyes, reglamentos y cualquier otra disposición de observancia general que con tal objeto les remita el Gobierno del Estado o acuerde el Ayuntamiento, y hacerlas públicas cuando así proceda, por medio de los Presidentes de las Juntas Auxiliares, en los demás pueblos de la municipalidad;
 
 II.- Cumplir y hacer cumplir las leyes, reglamentos y disposiciones administrativas, imponiendo en su caso las sanciones que establezcan, a menos que corresponda esa facultad a distinto servidor público, en términos de las mismas;
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+II Bis. Promover acciones para evitar el acoso y hostigamiento sexual, así como la prevención y atención de estas conductas por medio de la elaboración de protocolos de atención y campañas informativas;
 
 III.- Representar al Ayuntamiento y ejecutar sus resoluciones, salvo que se designe una comisión especial, o se trate de procedimientos judiciales, en los que la representación corresponde al Síndico Municipal;
 
@@ -1841,13 +1853,17 @@ LXI.- Promover el desarrollo y adecuación de la infraestructura, el equipamient
 
 LXII.- Realizar las acciones necesarias para colocar la Nomenclatura en Sistema Braille e implementar la guía táctil en las principales calles, avenidas, inmuebles destinados a un servicio público así como en los bienes de uso común contemplados en el artículo 154 de esta Ley, a fin de facilitar el libre desplazamiento de las personas con discapacidad visual;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-LXIII.- Procurar contar con los servicios de un traductor de lenguas indígenas propias de la región que se trate, en todo acto público que realice el Ayuntamiento en los municipios en donde exista población indígena; y
+LXIII. Procurar contar con los servicios de un traductor de lenguas indígenas propias de la región que se trate, en todo acto público que realice el Ayuntamiento en los municipios en donde exista población indígena;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE NOVIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE AGOSTO DE 2024)</small>
 
-LXIV.- Las demás que le confieran las leyes, reglamentos y las que acuerde el Cabildo.
+LXIV. Cumplir, por conducto de la autoridad administrativa municipal, con las órdenes de protección que al efecto sean dictadas por el Ministerio Público o por el Órgano Jurisdiccional competente, así como prestar el auxilio inmediato de la fuerza pública que al efecto le sea solicitado, de conformidad con lo establecido en la legislación aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE AGOSTO DE 2024)</small>
+
+LXV. Las demás que le confieran las leyes, reglamentos y las que acuerde el Cabildo.
 
 ###### ARTÍCULO 92.
 
@@ -1917,9 +1933,9 @@ VI.- De Educación Pública y Actividades Culturales, Deportivas y Sociales;
 
 VII.- De Grupos Vulnerables, Personas con Discapacidad y Juventud;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-VIII.- De Igualdad de Género; y
+VIII.- De Igualdad de Género, Prevención, Atención y Erradicación de la Violencia contra las Mujeres; y
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -1932,6 +1948,12 @@ Si la comisión se compone de varios Regidores, el Cabildo designará quien la p
 ###### ARTÍCULO 98.
 
 Cuando alguna comisión considere que conviene demorar o suspender el curso de cualquier asunto, no lo acordará por sí misma, sino que emitirá dictamen exponiendo esta necesidad al Ayuntamiento, para que éste acuerde lo conveniente.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+###### ARTÍCULO 98 Bis.
+
+La Comisión Permanente de Igualdad de Género, Prevención, Atención y Erradicación de la Violencia contra las Mujeres, asumirá la coordinación, supervisión y seguimiento de la implementación y ejecución de las acciones y medidas correspondientes en aquellos Municipios en cuyo territorio sea aplicable la Declaratoria de Alerta de Violencia de Género contra las Mujeres, emitida de conformidad con la legislación aplicable, siendo, además, la instancia encargada de garantizar que las Dependencias y Entidades de la Administración Pública Municipal cumplan con las disposiciones establecidas en dicha Declaratoria.
 
 ###### ARTÍCULO 99.
 
@@ -2290,6 +2312,10 @@ Las dependencias y entidades de la Administración Pública Municipal ejercerán
 ###### ARTÍCULO 121.
 
 Para ser titular de las dependencias o entidades de la Administración Pública Municipal, se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos, preferentemente habitante del Municipio, de reconocida honorabilidad y aptitud para desempeñar el cargo, y en su caso, reunir los requisitos establecidos para el Servicio Civil de Carrera.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+Para el nombramiento de las personas titulares de las Dependencias y Entidades de la Administración Pública Municipal, se deberá cumplir con el principio de paridad de género, respetando los principios de igualdad y no discriminación.
 
 #### SECCIÓN II. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
@@ -3109,13 +3135,17 @@ VIII.- Fomento al Empleo;
 
 IX.- Materia de personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-X.- Protección Civil; y
+X.- Protección Civil;
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XI.- Seguridad Pública.
+XI.- Seguridad Pública; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+XII.- Igualdad de Género, y Prevención, Atención y Erradicación de la Violencia contra la Mujer.
 
 En su organización, funcionamiento y supervisión prevalecerán los lineamientos del acto jurídico que los cree y sólo excepcionalmente podrá intervenir el Ayuntamiento.
 
@@ -3341,11 +3371,17 @@ Son atribuciones de los Ayuntamientos en materia de seguridad pública, las sigu
 
 I.- Garantizar el bienestar y tranquilidad de las personas y sus bienes, así como preservar y guardar el orden público en el territorio municipal, expidiendo para tal efecto los reglamentos, planes y programas respectivos;
 
-> <small>(REFORMADA, P.O. 15 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-II.- Pugnar por la profesionalización de los cuerpos de seguridad pública municipal; y
+II. Pugnar por la profesionalización de los cuerpos de seguridad pública municipal;
 
-III.- Celebrar convenios o acuerdos de coordinación con la Federación, el Estado y otros Municipios.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+III. Celebrar convenios o acuerdos de coordinación con la Federación, el Estado y otros Municipios; y
+
+> <small>(ADICIONADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+IV. Implementar las medidas y acciones, para prevenir, atender, sancionar y erradicar la violencia de género en el ámbito municipal, garantizando un entorno seguro y respetuoso para todas las personas, de conformidad con la legislación aplicable.
 
 ###### ARTÍCULO 213.
 
@@ -4636,3 +4672,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los Ayuntamientos deberán hacer las previsiones presupuestarias y adecuaciones normativas pertinentes para la creación y correcta operación de los Centros de Bienestar Animal.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL, DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA Y DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente ordenamiento, los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, deberán crear dentro de su estructura orgánica, las instancias señaladas en el presente Decreto.
