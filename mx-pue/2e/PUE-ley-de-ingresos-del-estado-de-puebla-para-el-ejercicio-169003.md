@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-estado-de-puebla-para-el-ejercicio-169003"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-18"
-last_updated: "2023-12-18"
+last_updated: "2024-08-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2024
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el lunes 18 de diciembre de 2023.
 
@@ -1529,7 +1529,9 @@ XXXII. Por la expedición de la constancia de no adeudo de infracciones $155.00
 
 XXXIII. Por la expedición de la constancia para que un vehículo destinado al servicio público de transporte preste un servicio extraordinario en el horario y en los días que la misma señale, por día $155.00
 
-XXXIV. Las tarifas por los servicios de arrastre, arrastre y salvamento, y resguardo y, custodia de unidades en depósito de vehículos, se fijarán mediante acuerdo que emita la Secretaría de Movilidad y Transporte, y se publique en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+XXXIV. Las tarifas por los servicios de arrastre, arrastre y salvamento y de resguardo y custodia de unidades en depósito de vehículos, se establecerán en el Tabulador que emita la Secretaría de Movilidad y Transporte, que será publicado en el Periódico Oficial del Estado de conformidad con lo dispuesto en la Ley de Transporte del Estado de Puebla; así como, de las demás disposiciones legales en la materia.
 
 XXXV. Por la expedición de la constancia de autorización para que los vehículos destinados al servicio público de transporte, porten publicidad en el interior o en el medallón, por cada vehículo $720.00
 
@@ -1981,15 +1983,9 @@ XXX. Por el Curso de Preparación para el examen TOEFL-ITP $2,760.00
 
 Los derechos por los servicios prestados por la Secretaría de Seguridad Pública, se causarán y pagarán de conformidad con las cuotas siguientes:
 
-I. Por arrastre de vehículos con grúa dentro de la Ciudad de Puebla, por cada uno:
+I. (DEROGADA, P.O. 5 DE AGOSTO DE 2024)
 
-a) Automóviles $790.00
-
-b) Camionetas y remolques $960.00
-
-c) Camiones, autobuses, omnibuses, microbuses, minibuses y tráileres $1,555.00
-
-II. Por el resguardo de vehículos en encierros del Estado, administrados por esta Dependencia, por día $115.00
+II. (DEROGADA, P.O. 5 DE AGOSTO DE 2024)
 
 III. Por la expedición de constancias de inexistencia de infracciones viales en los archivos de la Dependencia, por cada una $155.00
 
@@ -6051,47 +6047,23 @@ IV. Por la expedición de constancia que acredite la inscripción o revalidació
 
 Los derechos por los servicios prestados por la Fiscalía General del Estado, se causarán y pagarán de conformidad con las cuotas siguientes:
 
-I. Por concepto de traslado o custodia por elemento policial al depósito oficial de vehículos asegurados o puestos a disposición, con equipo de grúa, dentro de la Zona Metropolitana de Puebla, con maniobra simple, por cada uno:
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-a) Motocicleta $435.00
+I. Por concepto de abanderamiento, custodia de vehículos asegurados o puestos a disposición, se aplicarán las tarifas establecidas para dichos rubros en el Tabulador que emita la Secretaría de Movilidad y Transporte, que será publicado en el Periódico Oficial del Estado, de conformidad con lo dispuesto por la Ley de Transporte del Estado de Puebla; así como, de las demás disposiciones legales en la materia.
 
-b) Automóvil, SUV o camioneta $790.00
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-c) Camioneta de carga con capacidad de hasta 3.5 toneladas, montacargas, microbuses y demás unidades similares $960.00
+II. Las tarifas por los servicios de arrastre, arrastre y salvamento y resguardo y custodia de unidades en depósito de vehículos, se establecerán en el Tabulador que emita la Secretaría de Movilidad y Transporte que será publicado en el Periódico Oficial del Estado, de conformidad con lo dispuesto por la Ley de Transporte del Estado de Puebla; así como, de las demás disposiciones legales en la materia.
 
-d) Autobús $1,555.00
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-e) Camión de 2 o 3 ejes con capacidad de carga de hasta 12 toneladas $2,145.00
+III. Es responsabilidad de las corporaciones policiales que acudan al aseguramiento de vehículos y que por su cuenta y riesgo, soliciten el servicio de arrastre a empresas particulares de grúas para el traslado e ingreso al Depósito Oficial de Vehículos, informar a dichas empresas que única y exclusivamente deberán aplicar las tarifas establecidas en el Tabulador a que se refiere la fracción II de este artículo, debiendo dejar testimonio escrito debidamente firmado por las personas intervinientes.
 
-f) Camión de 4 o 5 ejes $2,440.00
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-g) Camión de 6, 7, 8 o 9 ejes $2,720.00
+IV. Los sujetos obligados al entero de los derechos por concepto de resguardo y custodia de vehículos en encierros de la Fiscalía General del Estado, gozarán de una reducción del 50% del pago, cuando el vehículo de que se trate se encuentre al corriente en el pago de todas sus contribuciones vehiculares y no tenga créditos fiscales pendientes de pago, provenientes de sanciones por no respetar los límites de velocidad establecidos para las vías públicas de jurisdicción estatal, en las que se encuentre cualquier dispositivo o medio tecnológico de captación de infracciones.
 
-II. Por concepto de traslado, incluye arrastre del lugar de aseguramiento a la ubicación del Ministerio Público, y de éste último sitio al depósito oficial, que requiere equipo de grúa y acondicionamiento, es decir para vehículos quemados, vehículos volcados dentro del camino o carretera, vehículos sin llantas, remolques o semirremolques sin patines o sin ejes, dentro de la Zona Metropolitana de Puebla, por cada uno $22,080.00
-
-III. Por concepto de traslado, incluye arrastre del lugar de aseguramiento a la ubicación del Ministerio Público, y de éste último sitio al depósito oficial, que requiere equipo de grúa y maniobra especializada en vehículos con carga, con peligro de volcadura o volcados fuera del camino o carretera, vehículos ubicados en lugar que impide el acceso de la grúa para realizar enganche, dentro de la Zona Metropolitana de Puebla, por cada uno $40,585.00
-
-En los casos a que se refieren las fracciones anteriores, cuando el arrastre o traslado al Depósito Oficial de Vehículos sea realizado por grúas particulares, éstas deberán sujetarse a las cuotas establecidas en la presente Ley.
-
-Las corporaciones policiales que acudan al aseguramiento de vehículos y que por su cuenta y riesgo, soliciten el servicio de arrastre a empresas particulares de grúas para el traslado e ingreso al Depósito Oficial de Vehículos, deberán comunicar a estas empresas que tienen la obligación de sujetarse a las cuotas establecidas en la presente Ley.
-
-IV. Por concepto de resguardo de vehículos en encierros de la Fiscalía General del Estado, el propietario de los automotores pagará diariamente, por cada uno:
-
-a) Automóvil, SUV, camioneta o montacargas $52.00
-
-b) Camioneta de carga con capacidad de hasta 3.5 toneladas, microbús y demás unidades similares a éstas $105.00
-
-c) Autobús $130.00
-
-d) Camión de 2 o 3 ejes con capacidad de carga de hasta 12 toneladas $150.00
-
-e) Camión de 4 o 5 ejes $165.00
-
-f) Camión de 6, 7, 8 o 9 ejes $185.00
-
-Los sujetos obligados al entero de los derechos a que se refiere esta fracción, gozarán de una reducción del 50% del pago, cuando el vehículo de que se trate se encuentre al corriente en el pago de todas sus contribuciones vehiculares y no tenga créditos fiscales pendientes de pago, provenientes de sanciones por no respetar los límites de velocidad establecidos para las vías públicas de jurisdicción estatal, en las que se encuentre cualquier dispositivo o medio tecnológico de captación de infracciones.
-
-La reducción en el pago de estas contribuciones será del 100% en el supuesto de que el propietario o poseedor del vehículo de que se trate, además de reunir los requisitos a que se refiere el párrafo anterior, tenga el carácter de ofendido, o de víctima directa e indirecta por la comisión del delito; o sea sujeto de error administrativo o puramente formal imputable a alguna autoridad.
+La reducción en el pago de las contribuciones a que se refiere el párrafo anterior, será del 100% en el supuesto de que el propietario o poseedor del vehículo de que se trate, además de reunir los requisitos a que se refiere dicho párrafo, tenga el carácter de ofendido, o de víctima directa e indirecta por la comisión del delito; o sea sujeto de error administrativo o puramente formal imputable a alguna autoridad.
 
 Los vehículos con placas del Servicio Público Federal, podrán beneficiarse con la reducción del 100% en el pago de los derechos a que se refiere esta fracción, en el supuesto de que el propietario o poseedor del vehículo de que se trate, tenga el carácter de ofendido, o de víctima directa e indirecta por la comisión del delito; o sea sujeto de error administrativo o puramente formal imputable a alguna autoridad.
 
@@ -6584,3 +6556,13 @@ Los titulares de los organismos públicos descentralizados deberán remitir a la
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los treinta días del mes de noviembre de dos mil veintitrés. Diputado Presidente. JUAN ENRIQUE RIVERA REYES. Rúbrica. Diputada Vicepresidenta. MARÍA GUADALUPE LEAL RODRÍGUEZ. Rúbrica. Diputado Vicepresidente. EDGAR VALENTÍN GARMENDIA DE LOS SANTOS. Rúbrica. Diputado Secretario. GERARDO HERNÁNDEZ ROJAS. Rúbrica. Diputada Secretaria. MARÍA RUTH ZÁRATE DOMÍNGUEZ. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, al primer día del mes de diciembre de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA JOSEFINA MORALES GUERRERO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2024".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
