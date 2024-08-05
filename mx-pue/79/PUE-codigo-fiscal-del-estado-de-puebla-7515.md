@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2022-08-01"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO FISCAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -98,6 +98,10 @@ La prestación de los servicios a que se refiere el párrafo que antecede se lle
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
 
 Los recargos, las sanciones, los gastos de ejecución y las indemnizaciones por cheque presentado en tiempo y no pagado a que se refiere este Código, son accesorios de las contribuciones y participan de la naturaleza de éstas.
+
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+No serán válidas las exenciones a las contribuciones estatales no contenidas en las leyes fiscales del Estado.
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -235,9 +239,11 @@ a) La persona Titular de la Coordinación General de Estudios Normativos y Anál
 
 3. La persona Titular de la Dirección de Fiscalización:
 
-3.1 La persona Titular de la Subdirección de Revisiones Federales;
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-3.2 La persona Titular de la Subdirección de Métodos de Presencia Fiscal;
+3.1 Las personas Titulares de las Subdirecciones de Revisiones Federales 1 y 2;
+
+3.2 (DEROGADO, P.O. 5 DE AGOSTO DE 2024)
 
 3.3 La persona Titular de la Subdirección de Revisiones Estales; y
 
@@ -1325,11 +1331,11 @@ XV.- (DEROGADA, P.O. 3 DE DICIEMBRE DE 1991)
 
 XVI.- Elaborar los formularios de declaración en forma que puedan ser llenados fácilmente por los contribuyentes.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XVII.- Conocer y resolver las solicitudes de condonación, reducción o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios.
+XVII.- Conocer y resolver las solicitudes de reducción o exención total o parcial del pago de contribuciones, productos, aprovechamientos y sus accesorios.
 
-La solicitud de condonación, reducción o exención en los términos de esta fracción, no constituirá instancia y las resoluciones que emitan las Autoridades Fiscales competentes al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código;
+La solicitud de reducción o exención en los términos de esta fracción, no constituirá instancia y las resoluciones que emitan las Autoridades Fiscales competentes al respecto, no podrán ser impugnadas por los medios de defensa que establece este Código;
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -1563,23 +1569,23 @@ Lo señalado en el párrafo anterior no constituirá instancia y las resolucione
 
 La Secretaría de Planeación y Finanzas podrá solicitar a las entidades financieras y sociedades cooperativas de ahorro y préstamo, que proporcionen directamente o por conducto de la Comisión Nacional Bancaria y de Valores, de la Comisión Nacional del Sistema de Ahorro para el Retiro o de la Comisión Nacional de Seguros y Fianzas, según corresponda, la información de los depósitos, servicios, fideicomisos o cualquier tipo de operaciones, cuando la información que formule derive del ejercicio de las facultades de comprobación, o en relación con el cobro de créditos fiscales firmes o del procedimiento administrativo de ejecución.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 41-H.
 
-Tratándose de contribuyentes que se encuentren sujetos a un procedimiento de concurso mercantil, las autoridades fiscales estatales competentes para ello, podrán condonar parcialmente los créditos fiscales relativos a contribuciones estatales que debieron pagarse con anterioridad a la fecha en que se inicie el procedimiento de concurso mercantil, siempre que el comerciante haya celebrado convenio con sus acreedores en los términos de la ley respectiva y de acuerdo con lo siguiente:
+Tratándose de contribuyentes que se encuentren sujetos a un procedimiento de concurso mercantil, las autoridades fiscales estatales competentes para ello, podrán reducir parcialmente los créditos fiscales relativos a contribuciones estatales que debieron pagarse con anterioridad a la fecha en que se inicie el procedimiento de concurso mercantil, siempre que el comerciante haya celebrado convenio con sus acreedores en los términos de la ley respectiva y de acuerdo con lo siguiente:
 
-I.- Cuando el monto de los créditos fiscales represente menos del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación no excederá del beneficio mínimo de entre los otorgados por los acreedores que, no siendo partes relacionadas, representen en conjunto cuando menos el 50% del monto reconocido a los acreedores no fiscales; y
+I. Cuando el monto de los créditos fiscales represente menos del 60% del total de los créditos reconocidos en el procedimiento concursal, la reducción no excederá del beneficio mínimo de entre los otorgados por los acreedores que, no siendo partes relacionadas, representen en conjunto cuando menos el 50% del monto reconocido a los acreedores no fiscales; y
 
-II.- Cuando el monto de los créditos fiscales represente más del 60% del total de los créditos reconocidos en el procedimiento concursal, la condonación, determinada en los términos de la fracción anterior, no excederá del monto que corresponda a los accesorios de las contribuciones adeudadas.
+II. Cuando el monto de los créditos fiscales represente más del 60% del total de los créditos reconocidos en el procedimiento concursal, la reducción, determinada en los términos de la fracción anterior, no excederá del monto que corresponda a los accesorios de las contribuciones adeudadas.
 
-La autorización de la condonación parcial referida en este artículo, deberá sujetarse a la normatividad que para tal efecto se emita.
+La autorización de la reducción parcial referida en este artículo, deberá sujetarse a la normatividad que para tal efecto se emita.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 41-I.
 
-El Ejecutivo del Estado, mediante resoluciones de carácter general podrá condonar, reducir o eximir, total o parcialmente, el pago de contribuciones estatales y sus accesorios, productos y aprovechamientos, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en caso de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+El Ejecutivo del Estado, mediante resoluciones de carácter general podrá reducir o eximir, total o parcialmente, el pago de contribuciones estatales y sus accesorios, productos y aprovechamientos, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en caso de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
 
 > <small>(ADICIONADO, P.O. 1 DE AGOSTO DE 2022)</small>
 
@@ -4164,5 +4170,13 @@ P.O. 1 DE AGOSTO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 24-E; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 33; LA FRACCIÓN XVII DEL ARTÍCULO 41; LA FRACCIÓN II DEL ARTÍCULO 41-A; EL ARTÍCULO 41-I; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 46; LA FRACCIÓN IV DEL ARTÍCULO 47; LA FRACCIÓN V DEL ARTÍCULO 76; LOS ARTÍCULOS 78, 79; EL SEGUNDO PÁRRAFO DE LA FRACCIÓN III Y EL PRIMER PÁRRAFO DE LA FRACCIÓN V DEL ARTÍCULO 81; EL TERCER PÁRRAFO DEL ARTÍCULO 90; LA FRACCIÓN I Y EL PRIMER PÁRRAFO DE LA FRACCIÓN IV DEL ARTÍCULO 98; EL PRIMER PÁRRAFO DEL ARTÍCULO 116 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 123 Y, SE ADICIONAN UN ÚLTIMO PÁRRAFO AL ARTÍCULO 16; EL ARTÍCULO 41-J; UN TERCER PÁRRAFO AL ARTÍCULO 46; EL ARTÍCULO 88-A, Y LOS PÁRRAFOS SEGUNDO Y TERCERO A LA FRACCIÓN IV DEL ARTÍCULO 98, TODOS DEL CÓDIGO FISCAL DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
