@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-fiscalizacion-de-la-cuenta-publica-del-estado-de-122647"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2024-06-26"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -87,31 +87,59 @@ X. Faltas administrativas: las establecidas en la legislación aplicable en la m
 
 XI. Financiamiento y otras obligaciones: toda operación constitutiva de un pasivo, directo o contingente, de corto, mediano o largo plazo, derivada de un crédito, empréstito o préstamo, incluyendo arrendamientos y factorajes financieros o cadenas productivas, independientemente de la forma mediante la que se instrumente, u obligación de pago, en los términos de la ley en materia de deuda pública y de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
-XII. Gestión financiera: las acciones, tareas y procesos que realizan las entidades fiscalizadas para la administración y ejercicio de los recursos públicos, así como en la ejecución de los planes y programas, conforme a la ley de ingresos, el presupuesto de egresos y demás disposiciones aplicables.
+> <small>(ADICIONADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-XIII. Información financiera: la información presupuestaria y contable integrada, ordenada y presentada en términos de la Ley General de Contabilidad Gubernamental.
+XII. Fiscalía Especializada: La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán.
 
-XIV. Informe de avance de gestión financiera: el informe que rinden los poderes del estado y los entes públicos estatales y municipales de manera consolidada, a través del Ejecutivo estatal al Congreso, sobre los avances físicos y financieros de los programas aprobados para el análisis correspondiente del Congreso, presentado como un apartado específico del segundo informe trimestral del ejercicio correspondiente a que se refiere el artículo 167 de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-XV. Informe general: el informe anual que presenta el auditor superior al Congreso con las observaciones, recomendaciones y acciones promovidas, como resultado de la fiscalización de la información financiera gubernamental y las cuentas públicas.
+XIII. Gestión Financiera: Las acciones, tareas y procesos que realizan las entidades fiscalizadas para la administración y ejercicio de los recursos públicos, así como en la ejecución de los planes y programas, conforme a la ley de ingresos, el presupuesto de egresos y demás disposiciones aplicables.
 
-XVI. Informe específico: el informe derivado de denuncias a que se refiere el último párrafo de la fracción I del artículo 43 Bis de la Constitución Política del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-XVII. Informes individuales: los informes de cada una de las auditorías practicadas a las entidades fiscalizadas.
+XIV. Información Financiera: La información presupuestaria y contable integrada, ordenada y presentada en términos de la Ley General de Contabilidad Gubernamental.
 
-XVIII. Ley de ingresos: la ley de ingresos del estado del ejercicio fiscal en revisión.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-XIX. Presupuesto de egresos: el presupuesto de egresos del estado o del municipio del ejercicio fiscal correspondiente.
+XV. Informe de Avance de Gestión Financiera: El informe que rinden los poderes del estado y los entes públicos estatales y municipales de manera consolidada, a través del Ejecutivo estatal al Congreso, sobre los avances físicos y financieros de los programas aprobados para el análisis correspondiente del Congreso, presentado como un apartado específico del segundo informe trimestral del ejercicio correspondiente a que se refiere el artículo 167 de la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán.
 
-XX. Programas: los que tengan esa calidad, de conformidad con lo establecido en la Ley de Planeación para el Desarrollo del Estado de Yucatán y la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y los contenidos en el Presupuesto de Egresos, con base en los cuales las entidades fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público estatal.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-XXI. Servidores públicos: los señalados en la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia de responsabilidades administrativas.
+XVI. Informe general: El informe anual que presenta el auditor superior al Congreso con las observaciones, recomendaciones y acciones promovidas, como resultado de la fiscalización de la información financiera gubernamental y las cuentas públicas.
 
-XXII. Tribunal: el Tribunal de Justicia Administrativa del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-XXIII. Unidad: la Unidad de Vigilancia y Evaluación de la Auditoría Superior del Estado de la comisión.
+XVII. Informe específico: El informe derivado de denuncias a que se refiere el último párrafo de la fracción I del artículo 43 Bis de la Constitución Política del Estado de Yucatán.
 
-XXIV. Vicefiscalía especializada: la Vicefiscalía Especializada en Combate a la Corrupción.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XVIII. Informes individuales: Los informes de cada una de las auditorías practicadas a las entidades fiscalizadas.
+
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XIX. Ley de ingresos: La ley de ingresos del estado del ejercicio fiscal en revisión.
+
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XX. Presupuesto de egresos: El presupuesto de egresos del estado o del municipio del ejercicio fiscal correspondiente.
+
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XXI. Programas: Los que tengan esa calidad, de conformidad con lo establecido en la Ley de Planeación para el Desarrollo del Estado de Yucatán y la Ley del Presupuesto y Contabilidad Gubernamental del Estado de Yucatán y los contenidos en el Presupuesto de Egresos, con base en los cuales las entidades fiscalizadas realizan sus actividades en cumplimiento de sus atribuciones y se presupuesta el gasto público estatal.
+
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XXII. Servidores públicos: Los señalados en la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia de responsabilidades administrativas.
+
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XXIII. Tribunal: El Tribunal de Justicia Administrativa del Estado de Yucatán.
+
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XXIV. Unidad: La Unidad de Vigilancia y Evaluación de la Auditoría Superior del Estado de la comisión.
+
+XXV. (DEROGADA, D.O. 5 DE AGOSTO DE 2024)
 
 ###### Artículo 3.
 
@@ -315,7 +343,9 @@ XIX. Presentar denuncias y querellas penales en caso de que detecte conductas ti
 
 XX. Elaborar y publicar estudios relacionados con las materias de su competencia.
 
-XXI. Recurrir, a través de la unidad administrativa a cargo de las investigaciones de la auditoría superior, las determinaciones del tribunal y de la vicefiscalía especializada, en términos de las disposiciones legales aplicables.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XXI. Recurrir, a través de la unidad administrativa a cargo de las investigaciones de la auditoría superior, las determinaciones del tribunal y de la Fiscalía Especializada, en términos de las disposiciones legales aplicables.
 
 XXII. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de las multas que imponga.
 
@@ -489,7 +519,9 @@ XXIX. Elaborar, para su envío a la comisión, el plan estratégico de la audito
 
 XXX. Presentar el recurso de revisión administrativa respecto de las resoluciones que emita el tribunal.
 
-XXXI. Recurrir las determinaciones de la vicefiscalía especializada y del tribunal, de conformidad con la legislación aplicable.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XXXI. Recurrir las determinaciones de la fiscalía especializada y del tribunal, de conformidad con la legislación aplicable.
 
 XXXII. Transparentar y dar seguimiento a todas las denuncias, quejas, solicitudes, y opiniones realizadas por los particulares o la sociedad civil organizada, salvaguardando en todo momento los datos personales.
 
@@ -831,11 +863,13 @@ VI. Promover las acciones o denuncias correspondientes para la imposición de la
 
 VII. Realizar las demás revisiones, auditorías y verificaciones que, conforme a las leyes aplicables, le correspondan.
 
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 51.
 
 Recomendaciones y sanciones
 
-Las observaciones que, en su caso, emita la auditoría superior como resultado de la fiscalización superior, podrán derivar en recomendaciones; en acciones y previsiones, incluyendo solicitudes de aclaración, pliegos de observaciones, informes de presunta responsabilidad administrativa, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, denuncias de hechos ante la vicefiscalía especializada y en denuncias de juicio político.
+Las observaciones que, en su caso, emita la auditoría superior como resultado de la fiscalización superior, podrán derivar en recomendaciones; en acciones y previsiones, incluyendo solicitudes de aclaración, pliegos de observaciones, informes de presunta responsabilidad administrativa, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa sancionatoria, denuncias de hechos ante la fiscalía especializada y en denuncias de juicio político.
 
 ###### Artículo 52.
 
@@ -1053,7 +1087,9 @@ En dicho informe, la auditoría superior dará a conocer el seguimiento específ
 
 En dicho informe se dará a conocer el número de pliegos de observaciones emitidos, su estatus procesal y las causas que los motivaron.
 
-En cuanto a las denuncias penales formuladas ante la vicefiscalía especializada o las autoridades competentes, la auditoría superior dará a conocer en dicho informe la información actualizada sobre la situación que guardan las denuncias penales, el número de denuncias presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia así como, en su caso, la pena impuesta.
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+En cuanto a las denuncias penales formuladas ante la fiscalía especializada o las autoridades competentes, la auditoría superior dará a conocer en dicho informe la información actualizada sobre la situación que guardan las denuncias penales, el número de denuncias presentadas, las causas que las motivaron, las razones sobre su procedencia o improcedencia, así como, en su caso, la pena impuesta.
 
 ### CAPÍTULO V. Acciones y recomendaciones derivadas de la fiscalización
 
@@ -1089,7 +1125,9 @@ En caso de que la auditoría superior determine la existencia de daños o perjui
 
 V. A través de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control, cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la legislación aplicable en materia de responsabilidades administrativas.
 
-VI. Mediante las denuncias de hechos, hará del conocimiento de la vicefiscalía especializada, la posible comisión de hechos delictivos.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+VI. Mediante las denuncias de hechos, hará del conocimiento de la fiscalía especializada, la posible comisión de hechos delictivos.
 
 VII. Por medio de la denuncia de juicio político, hará del conocimiento del Congreso la posible comisión de actos u omisiones de los servidores públicos a que se refiere el artículo 97 de la Constitución Política del Estado de Yucatán, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
 
@@ -1109,11 +1147,13 @@ La información, documentación o consideraciones aportadas por las entidades fi
 
 Dentro de los treinta días posteriores a la conclusión del plazo a que se refiere el artículo que antecede, la auditoría superior enviará al Congreso un reporte final sobre las recomendaciones correspondientes a la cuenta pública en revisión, detallando la información a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 81.
 
 Promoción de presunta responsabilidad
 
-La auditoría superior podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el tribunal; así como la denuncia de hechos ante la vicefiscalía especializada, la denuncia de juicio político ante el Congreso, o los informes de presunta responsabilidad administrativa ante el órgano interno de control competente, en términos de esta ley.
+La auditoría superior podrá promover, en cualquier momento en que cuente con los elementos necesarios, el informe de presunta responsabilidad administrativa ante el tribunal; así como la denuncia de hechos ante la fiscalía especializada, la denuncia de juicio político ante el Congreso, o los informes de presunta responsabilidad administrativa ante el órgano de control interno competente, en términos de esta ley.
 
 ### CAPÍTULO VI. Conclusión de la revisión de la cuenta pública
 
@@ -1467,13 +1507,17 @@ II. Dar vista a los órganos internos de control competentes de conformidad con 
 
 En caso de que la auditoría superior determine la existencia de daños o perjuicios, o ambos a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en términos de la legislación aplicable en materia de responsabilidades administrativas.
 
-III. Presentar las denuncias y querellas penales correspondientes ante la vicefiscalía especializada, por posibles delitos que detecte durante sus auditorías o investigaciones.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-IV. Coadyuvar con la vicefiscalía especializada en los procesos penales correspondientes, tanto en la etapa de investigación, como en la judicial. En estos casos, la vicefiscalía especializada recabará previamente la opinión de la auditoría superior, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
+III. Presentar las denuncias y querellas penales correspondientes ante la fiscalía especializada, por posibles delitos que detecte durante sus auditorías o investigaciones.
 
-Previamente a que la vicefiscalía especializada determine declinar su competencia, abstenerse de investigar los hechos denunciados, archivar temporalmente las investigaciones o decretar el no ejercicio de la acción penal, deberá hacerlo del conocimiento de la auditoría superior para que exponga las consideraciones que estime convenientes.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-La auditoría superior podrá impugnar ante la autoridad competente las omisiones de la vicefiscalía especializada en la investigación de los delitos, así como las resoluciones que emita en materia de declinación de competencia, reserva, no ejercicio o desistimiento de la acción penal, o suspensión del procedimiento.
+IV. Coadyuvar con la fiscalía especializada en los procesos penales correspondientes, tanto en la etapa de investigación, como en la judicial. En estos casos, la fiscalía especializada recabará previamente la opinión de la auditoría superior, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal.
+
+Previamente a que la fiscalía especializada determine declinar su competencia, abstenerse de investigar los hechos denunciados, archivar temporalmente las investigaciones o decretar el no ejercicio de la acción penal, deberá hacerlo del conocimiento de la auditoría superior para que exponga las consideraciones que estime convenientes.
+
+La auditoría superior podrá impugnar ante la autoridad competente las omisiones de la fiscalía especializada en la investigación de los delitos, así como las resoluciones que emita en materia de declinación de competencia, reserva, no ejercicio o desistimiento de la acción penal, o suspensión del procedimiento.
 
 V. Presentar las denuncias de juicio político ante el Congreso, en términos de las disposiciones aplicables.
 
@@ -1748,3 +1792,31 @@ Aplicación
 Artículo segundo. Lo dispuesto en este decreto deberá ser aplicado en el presupuesto de egresos 2025 y posteriores.
 
 Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 811/2024 POR EL QUE SE EMITE LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN Y SE MODIFICAN EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN, Y LA LEY DE VIDEOVIGILANCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuaciones presupuestales
+
+Artículo Segundo. La Secretaría de Administración y Finanzas, a la brevedad posible, deberá realizar las adecuaciones presupuestales necesarias para formalizar la estructura orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, en términos de este decreto, y dotarla de los recursos humanos, financieros, materiales y tecnológicos que requiera para el adecuado ejercicio de sus atribuciones y el cumplimiento de su objeto.
+
+Órgano de Control Interno
+
+Artículo Tercero. Las disposiciones contenidas en este decreto, relacionadas con el Órgano de Control Interno de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, entrarán en vigor el día en que el Congreso del Estado de Yucatán designe a la persona titular de dicha unidad administrativa, en términos del artículo 30, fracción XXXII Bis, de la Constitución Política del Estado de Yucatán.
+
+Reglamento Interior de la Fiscalía Especializada
+
+Artículo Cuarto. La persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán deberá expedir el reglamento interior de este organismo en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Primer Informe del Fiscal Anticorrupción
+
+Artículo Quinto. Por única ocasión, la primera rendición del Informe anual de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de marzo de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal anticorrupción hasta el 31 de diciembre 2024.
+
+Cálculo del presupuesto
+
+Artículo Sexto. El presupuesto asignado a la Fiscalía Especializada en Combate a la Corrupción para el año siguiente a su entrada en funciones se calculará dividiendo el primer presupuesto asignado entre el número de meses durante los cuales se ejerció dicho presupuesto, y multiplicando el resultado por doce, tomando en consideración lo dispuesto en el artículo 6, fracción I, de la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, con el fin de garantizar la correcta operatividad y funciones de la referida fiscalía.
