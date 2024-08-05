@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-participacion-ciudadana-del-estado-de-aguascalientes-126
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2024-05-20"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de febrero de 2018.
 
@@ -771,11 +771,11 @@ I. Colaborar con las autoridades correspondientes a solicitud de éstas para la 
 
 II. Convenir con las autoridades correspondientes para dar asesoría y apoyo técnico en la organización, desarrollo, cómputo y declaración de sus resultados de los procesos de consulta de presupuesto participativo; así como para supervisar y validar dichos procesos, cuando se lo soliciten.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 71.
 
-Las autoridades correspondientes publicarán la convocatoria en el Periódico Oficial, lugares de concurrencia ciudadana, su página web, en la Gaceta Municipal respectiva o en los estrados de las oficinas del Ayuntamiento, según corresponda, treinta días hábiles antes de la consulta.
+Anualmente y a más tardar a los noventa días naturales contados a partir de la publicación en el Periódico Oficial del Estado, de los Presupuestos de Egresos Estatal y Municipal, y por lo menos treinta días hábiles antes de que se lleve a cabo la consulta, se publicara la convocatoria por las autoridades correspondientes en el Periódico Oficial, así como en lugares de concurrencia ciudadana, su página web, en la Gaceta Municipal respectiva o en los estrados de las oficinas del Ayuntamiento, según corresponda.
 
 La convocatoria deberá contener:
 
@@ -1252,3 +1252,15 @@ P.O. 20 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 756.- SE REFORMA LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara s (sic) vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
