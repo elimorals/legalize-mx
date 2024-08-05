@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-responsabilidades-administrativas-del-estado-de-122695"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-18"
-last_updated: "2023-06-28"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122695&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 18 de julio de 2017.
 
@@ -111,7 +111,9 @@ XVI. Ley: la Ley de Responsabilidades Administrativas del Estado de Yucatán;
 
 XVII. Ley General: la Ley General de Responsabilidades Administrativas;
 
-XVIII. Organismos Autónomos: El Instituto Electoral y de Participación Ciudadana del Estado de Yucatán, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, el Tribunal Electoral del Estado de Yucatán, el Tribunal de Justicia Administrativa del Estado de Yucatán, la Comisión de Derechos Humanos del Estado de Yucatán y los demás que se establezcan como tales en la Constitución del Estado;
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XVIII. Organismos Autónomos: El Instituto Electoral y de Participación Ciudadana del Estado de Yucatán, el Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, el Tribunal Electoral del Estado de Yucatán, el Tribunal de Justicia Administrativa del Estado de Yucatán, la Comisión de Derechos Humanos del Estado de Yucatán, la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, la Agencia de Transporte de Yucatán, la Fiscalía General del Estado y la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán;
 
 > <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -255,6 +257,10 @@ La Secretaría de Seguridad Pública será competente para aplicar las sanciones
 
 Tratándose de las responsabilidades administrativas de los servidores públicos del Poder Judicial, serán competentes para investigar e imponer las sanciones que correspondan, el Tribunal Superior de Justicia y el Consejo de la Judicatura, conforme al régimen establecido en los artículos 64 y 98 de la Constitución del Estado y a su legislación y normatividad orgánica. Lo anterior, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
+> <small>(ADICIONADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán será competente para aplicar las sanciones por faltas no graves previstas en las leyes que las regulan, sin perjuicio de que su órgano de control interno lleve a cabo investigaciones y auditorías relacionadas con el ejercicio de recursos públicos o imponga y aplique a las personas servidoras públicas de aquélla, las sanciones por las faltas que deriven de las obligaciones a que hacen referencia las fracciones I, incisos b) y c), II, IV, V, VIII y IX del artículo 51 de la presente Ley, así como las que lleve a cabo su titular.
+
 ###### Artículo 9.
 
 Adecuación de estructura de las Autoridades competentes
@@ -271,7 +277,9 @@ I. Implementar los mecanismos internos que prevengan actos u omisiones que pudie
 
 II. Revisar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, y
 
-III. Presentar denuncias por hechos que las Leyes señalen como delitos del orden federal ante la Fiscalía Especializada en Combate a la Corrupción, o en su caso, por delitos del fuero común ante la Fiscalía General del Estado de Yucatán.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+III. Presentar denuncias por hechos que las Leyes señalen como delitos del orden federal ante la Fiscalía Especializada en Combate a la Corrupción perteneciente a la estructura de la Fiscalía General de la República o, en su caso, por delitos del fuero común ante la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán.
 
 Los Órganos de Control Interno en la Contraloría del Estado, podrán adscribir unidades de responsabilidades en las dependencias y entidades, con las facultades que la Ley General y la presente Ley les otorga a las autoridades substanciadoras y resolutoras.
 
@@ -299,9 +307,9 @@ El Tribunal del Estado, además de las facultades y atribuciones conferidas en l
 
 Investigación y trámite de Faltas graves y no graves derivadas de denuncias
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 21 DE ABRIL DE 2023
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 5 DE AGOSTO DE 2024)</small>
 
-Cuando derivado de denuncias que investigue la Autoridad Investigadora, así como las correspondientes de la Secretaría de Seguridad Pública en el Poder Ejecutivo, y los demás órganos de control en los organismos autónomos, se desprendan actos u omisiones tanto de faltas administrativas graves como no graves por el mismo servidor público, por lo que hace a las Faltas administrativas graves, remitirán las constancias documentales junto con el Informe de Probable Responsabilidad Administrativa a su área con competencia de autoridad substanciadora, para que proceda en los términos a que hace referencia el artículo 228 fracciones I a VII de la presente Ley, procediendo a enviar los autos originales del expediente al Tribunal del Estado para que, en su caso, resuelva la sanción que corresponda a dicha falta.
+Cuando, derivado de denuncias que investigue la Autoridad Investigadora, así como las correspondientes de la Fiscalía General del Estado, de la Secretaría de Seguridad Pública en el Poder Ejecutivo, de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán y los demás órganos de control en los organismos autónomos, se desprendan actos u omisiones tanto de faltas administrativas graves como no graves por el mismo servidor público, por lo que hace a las Faltas administrativas graves, remitirán las constancias documentales junto con el Informe de Probable Responsabilidad Administrativa a su área con competencia de autoridad substanciadora, para que proceda en los términos a que hace referencia el artículo 228, fracciones I a VII, de la presente Ley, procediendo a enviar los autos originales del expediente al Tribunal del Estado para que, en su caso, resuelva la sanción que corresponda a dicha falta.
 
 En el caso de que la investigación que derive de denuncias a cargo de servidores públicos municipales, se presuma la constitución de faltas graves que se relacionen con el manejo, aplicación, custodia irregular o desvió de recursos públicos estatales o municipales, las autoridades que reciban la denuncia y los órganos de control en los Municipios o quien ejerza las atribuciones de estos en los Ayuntamientos, deberán enviarla a la Auditoría Superior del Estado a fin de que ejerza las atribuciones de investigación y substanciación en los términos del artículo 10 de la presente Ley, para su posterior envío al Tribunal del Estado para los mismos efectos del párrafo anterior.
 
@@ -1317,13 +1325,13 @@ II. Guardar reserva de los datos que permitan la localización de su domicilio, 
 
 III. Las diligencias en las que se requiera su intervención se llevarán a cabo sin informarle a persona alguna la fecha, lugar y hora en que comparezca, sin perjuicio de que al substanciar y resolverse el procedimiento puedan referirse las circunstancias de modo, tiempo y lugar en la que se llevó a cabo.
 
-> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 99.
 
 Lugar, modo y asistencia para la presentación de las denuncias
 
-La Autoridad Investigadora, así como las correspondientes de la Secretaría de Seguridad Pública en el Poder Ejecutivo, la del órgano de control del Poder Judicial, los demás órganos de control en los organismos autónomos y de los municipios establecerán áreas y medios de fácil acceso, para que cualquier interesado presente su denuncia por probables faltas administrativas, de conformidad con los criterios establecidos en la presente Ley, debiendo otorgarle la asistencia jurídica que requiera para que su denuncia contenga la información y datos a que hace referencia el artículo siguiente.
+La Autoridad Investigadora, así como las correspondientes de la Fiscalía General del Estado, de la Secretaría de Seguridad Pública en el Poder Ejecutivo, de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, los demás órganos de control en los organismos autónomos, la del órgano de control del Poder Judicial y de los municipios establecerán áreas y medios de fácil acceso para que cualquier interesado presente su denuncia por probables faltas administrativas, de conformidad con los criterios establecidos en la presente Ley, debiendo otorgarle la asistencia jurídica que requiera para que su denuncia contenga la información y datos a que hace referencia el artículo siguiente.
 
 ###### Artículo 100.
 
@@ -1417,11 +1425,13 @@ Remisión de investigaciones por faltas no graves
 
 En caso de que la Auditoría Superior del Estado tenga conocimiento de la probable comisión de Faltas administrativas distintas a las señaladas en el artículo anterior, darán vista a la Secretaría de la Función Pública tratándose del ejercicio de recursos públicos federales; a la Contraloría del Estado cuando la investigación derive de denuncias de servidores públicos adscritos al Poder Ejecutivo; al órgano de control del Poder Judicial u Órganos de Control competente, a efecto de que procedan a realizar la investigación correspondiente.
 
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 109.
 
-Disposiciones generales para la atención de denuncias de la Fiscalía General del Estado y de las instituciones policiales por responsabilidad administrativa
+Disposiciones generales para la atención de denuncias de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán y de las instituciones policiales por responsabilidad administrativa
 
-La Fiscalía General del Estado y las instituciones policiales a las que hace referencia la fracción IV del artículo 2 de la Ley del Sistema Estatal de Seguridad Pública, emitirán las disposiciones generales para la atención, trámite, investigación de denuncias, así como las investigaciones que determinen realizar de oficio, cuando se tenga conocimiento de la existencia de una probable responsabilidad administrativa, debiendo llevar la substanciación y resolución de los procedimientos que deriven de las faltas administrativas, con sujeción a lo dispuesto en la presente Ley, para lo cual determinarán en las disposiciones legales que regulan su estructura y competencia, las que correspondan a las autoridades investigadoras, así como las que llevarán a cabo la substanciación y resolución de los procedimientos disciplinarios de su conocimiento.
+La Fiscalía General del Estado, la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán y las instituciones policiales a las que hace referencia la fracción IV del artículo 2 de la Ley del Sistema Estatal de Seguridad Pública, emitirán las disposiciones generales para la atención, trámite, investigación de denuncias, así como las investigaciones que determinen realizar de oficio, cuando se tenga conocimiento de la existencia de una probable responsabilidad administrativa, debiendo llevar la substanciación y resolución de los procedimientos que deriven de las faltas administrativas, con sujeción a lo dispuesto en la presente Ley, para lo cual determinarán en las disposiciones legales que regulan su estructura y competencia, las que correspondan a las autoridades investigadoras, así como las que llevarán a cabo la substanciación y resolución de los procedimientos disciplinarios de su conocimiento.
 
 ### CAPÍTULO III. De las Auditorías
 
@@ -1637,13 +1647,13 @@ Separación de procedimientos por otra falta administrativa imputable a la misma
 
 En caso de que con posterioridad a la admisión del informe las autoridades investigadoras adviertan la probable comisión de cualquier otra falta administrativa imputable a la misma persona señalada como probable responsable, deberán elaborar un diverso Informe de Probable Responsabilidad Administrativa y promover el respectivo procedimiento disciplinario por separado, sin perjuicio de que, en el momento procesal oportuno, puedan solicitar su acumulación.
 
-> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 130.
 
 Separación en estructura de autoridades investigadoras y substanciadoras
 
-La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinta de aquél o aquellos encargados de la investigación. Para tal efecto, la Contraloría del Estado, el órgano de control del Poder Judicial, las instituciones policiales a las que hace referencia la fracción IV del artículo 2 de la Ley del Sistema Estatal de Seguridad Pública, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos y la Auditoría Superior del Estado, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
+La autoridad a quien se encomiende la substanciación y, en su caso, resolución del procedimiento de responsabilidad administrativa, deberá ser distinta de aquél o aquellos encargados de la investigación. Para tal efecto, la Contraloría del Estado, el órgano de control del Poder Judicial, la Fiscalía General del Estado de Yucatán, las instituciones policiales a las que hace referencia la fracción IV del artículo 2 de la Ley del Sistema Estatal de Seguridad Pública, la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, los Órganos de Control de la propia Contraloría del Estado, en los Municipios y en los Organismos Autónomos, y la Auditoría Superior del Estado, contarán con la estructura orgánica necesaria para realizar las funciones correspondientes a las autoridades investigadoras y substanciadoras, y garantizarán la independencia entre ambas en el ejercicio de sus funciones.
 
 ###### Artículo 131.
 
@@ -1993,11 +2003,13 @@ III. Los documentos cuya letra, firma o huella digital haya sido declarada en la
 
 IV. Las letras, firmas o huellas digitales que haya (sic) sido puestas en presencia de la Autoridad resolutora en actuaciones propias del procedimiento de responsabilidad, por la parte cuya firma, letra o huella digital se trate de comprobar.
 
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 179.
 
 Colaboración de autenticidad de documentos
 
-La Autoridad substanciadora o resolutora podrá solicitar la colaboración del ministerio público federal o de la Fiscalía General del Estado, para determinar la autenticidad de cualquier documento que sea cuestionado por las partes.
+La Autoridad substanciadora o resolutora podrá solicitar la colaboración del Ministerio Público federal, de la Fiscalía General del Estado o la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, para determinar la autenticidad de cualquier documento que sea cuestionado por las partes.
 
 ###### Artículo 180.
 
@@ -2629,7 +2641,9 @@ Efectos de la sentencia de apelación
 
 En el caso de ser revocada la sentencia o de que su modificación así lo disponga, cuando el recurrente sea el servidor público o el particular, se ordenará al Ente público en el que se preste o haya prestado sus servicios, lo restituya de inmediato en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas, en los términos de la sentencia respectiva, sin perjuicio de lo que establecen otras Leyes.
 
-Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, peritos oficiales y miembros de las instituciones policiales; casos en los que la Fiscalía General del estado y las instituciones policiales del Estado o municipales, sólo estarán obligadas a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 de la Constitución.
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+Se exceptúan del párrafo anterior los Agentes del Ministerio Público, peritos oficiales y miembros de las instituciones policiales; casos en los que la Fiscalía General del Estado, la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán y las instituciones policiales del Estado o municipales, según corresponda, solo estarán obligadas a pagar la indemnización y demás prestaciones a que tengan derecho, sin que en ningún caso proceda la reincorporación al servicio, en los términos previstos en el apartado B, fracción XIII, del artículo 123 de la Constitución.
 
 #### Sección Cuarta. De la Revisión
 
@@ -2940,3 +2954,31 @@ D.O. 28 DE JUNIO DE 2023.
 Artículo único. Entrada en vigor
 
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 811/2024 POR EL QUE SE EMITE LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN Y SE MODIFICAN EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN, Y LA LEY DE VIDEOVIGILANCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuaciones presupuestales
+
+Artículo Segundo. La Secretaría de Administración y Finanzas, a la brevedad posible, deberá realizar las adecuaciones presupuestales necesarias para formalizar la estructura orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, en términos de este decreto, y dotarla de los recursos humanos, financieros, materiales y tecnológicos que requiera para el adecuado ejercicio de sus atribuciones y el cumplimiento de su objeto.
+
+Órgano de Control Interno
+
+Artículo Tercero. Las disposiciones contenidas en este decreto, relacionadas con el Órgano de Control Interno de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, entrarán en vigor el día en que el Congreso del Estado de Yucatán designe a la persona titular de dicha unidad administrativa, en términos del artículo 30, fracción XXXII Bis, de la Constitución Política del Estado de Yucatán.
+
+Reglamento Interior de la Fiscalía Especializada
+
+Artículo Cuarto. La persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán deberá expedir el reglamento interior de este organismo en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Primer Informe del Fiscal Anticorrupción
+
+Artículo Quinto. Por única ocasión, la primera rendición del Informe anual de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de marzo de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal anticorrupción hasta el 31 de diciembre 2024.
+
+Cálculo del presupuesto
+
+Artículo Sexto. El presupuesto asignado a la Fiscalía Especializada en Combate a la Corrupción para el año siguiente a su entrada en funciones se calculará dividiendo el primer presupuesto asignado entre el número de meses durante los cuales se ejerció dicho presupuesto, y multiplicando el resultado por doce, tomando en consideración lo dispuesto en el artículo 6, fracción I, de la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, con el fin de garantizar la correcta operatividad y funciones de la referida fiscalía.
