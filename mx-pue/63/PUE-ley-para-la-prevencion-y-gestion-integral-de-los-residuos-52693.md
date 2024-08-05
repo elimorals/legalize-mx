@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-prevencion-y-gestion-integral-de-los-residuos-52693
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-11"
-last_updated: "2019-07-12"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 11 de diciembre de 2006.
 
@@ -225,9 +225,9 @@ XXXI.- Reutilización: El empleo de un material o residuo previamente usado, sin
 
 XXXII.- Riesgo: Probabilidad o posibilidad de que el manejo, la liberación al ambiente y la exposición a un material o residuo, ocasionen efectos adversos en la salud pública, en los demás organismos vivos, en el agua, aire, suelo, en los ecosistemas, o en los bienes y propiedades pertenecientes a los particulares;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
 
-XXXIII.- Secretaría: Secretaría de Medio Ambiente y Ordenamiento Territorial;
+XXXIII. Secretaría: Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
@@ -379,7 +379,9 @@ XVIII.- Promover la instrumentación de los planes de manejo del sector gubernam
 
 XIX.- Coadyuvar con los Ayuntamientos que así lo soliciten, brindando asistencia técnica para la instrumentación de los programas de prevención, reducción, gestión y manejo integral de los residuos sólidos urbanos;
 
-XX.- Proponer ante la Secretaría de Finanzas y Administración, las tarifas respecto al cobro de derechos y productos con relación a los servicios que se presten con motivo de la aplicación de la presente Ley para que, en su caso, sean incluidas en el proyecto de Ley de Ingresos del Estado para el ejercicio fiscal correspondiente;
+> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
+
+XX. Proponer ante la Secretaría de Planeación y Finanzas, las tarifas respecto al cobro de derechos y productos con relación a los servicios que se presten con motivo de la aplicación de la presente Ley para que, en su caso, sean incluidas en el proyecto de Ley de Ingresos del Estado para el ejercicio fiscal correspondiente;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2012)</small>
 
@@ -813,9 +815,9 @@ En ningún caso los planes de manejo podrán plantear formas de manejo contraria
 
 Los planes de manejo serán presentados por los particulares a la Secretaría o al Ayuntamiento, en el ámbito de sus respectivas competencias, quienes en un plazo de veinticinco días hábiles contados a partir de la recepción deberán emitir su resolución.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
 
-En el caso de que la autoridad competente requiera más información, notificará al interesado para que en un plazo no mayor de diez días naturales contados a partir de que se reciba la notificación cumpla con dicho requerimiento, en cuyo caso el plazo de respuesta de la autoridad se suspenderá hasta la entrega de la información.
+En el caso de que la autoridad competente requiera más información, notificará al interesado para que en un plazo no mayor a diez días hábiles contados a partir de que reciba la notificación cumpla con dicho requerimiento, en cuyo caso el plazo de respuesta de la autoridad se suspenderá hasta la entrega de la información.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2012)</small>
 
@@ -1085,7 +1087,9 @@ VIII.- Las que determine el Reglamento de la presente Ley y demás normatividad 
 
 Las autoridades competentes deberán resolver las solicitudes de autorización a que se refiere este Capítulo en un plazo máximo de veinticinco días hábiles contados a partir de la presentación de la solicitud.
 
-En el caso de que la Autoridad competente requiera más información, notificará al interesado para que en un plazo no mayor de diez días naturales contados a partir de que se reciba la notificación cumpla con dicho requerimiento, en cuyo caso el plazo de respuesta de la Autoridad se suspenderá hasta la entrega de la información.
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+En el caso de que la Autoridad competente requiera más información, notificará al interesado para que en un plazo no mayor a diez días hábiles, contados a partir de que se reciba la notificación cumpla con dicho requerimiento, en cuyo caso el plazo de respuesta de la Autoridad se suspenderá hasta la entrega de la información.
 
 Para el caso de que el interesado no haya cumplido con los requerimientos formulados por la Autoridad competente, en los plazos establecidos para ello, se tendrá por no presentada.
 
@@ -1275,11 +1279,13 @@ V.- La remediación de sitios contaminados.
 
 En caso de reincidencia, el monto de la multa podrá ser hasta dos veces el monto originalmente impuesto, sin exceder del doble del máximo permitido o la clausura definitiva, atendiendo a la gravedad de la infracción.
 
+> <small>(REFORMADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 77.
 
-Las multas que imponga la Secretaría y los Ayuntamientos una vez notificadas, deberán pagarse espontáneamente ante la Secretaría de Finanzas y Administración o la Tesorería Municipal respectiva, dentro de los quince días siguientes al de su notificación.
+Las multas que imponga la Secretaría y los Ayuntamientos una vez notificadas, deberán pagarse espontáneamente ante la Secretaría de Planeación y Finanzas o la Tesorería Municipal respectiva, dentro de los quince días siguientes al de su notificación.
 
-De no realizarse el pago de manera espontánea en el plazo señalado en el párrafo anterior, una vez que hayan quedado firmes, serán consideradas créditos fiscales a favor del erario estatal o municipal, la cuales se cobrarán por la Secretaría de Finanzas y Administración o por la Tesorería Municipal según sea el caso, a través del Procedimiento Administrativo de Ejecución y para que en los casos que proceda, ejerza las facultades que le confiere la legislación aplicable.
+De no realizarse el pago de manera espontánea en el plazo señalado en el párrafo anterior, una vez que hayan quedado firmes, serán consideradas créditos fiscales a favor del erario estatal o municipal, las cuales se cobrarán por la Secretaría de Planeación y Finanzas o por la Tesorería Municipal según sea el caso, a través del Procedimiento Administrativo de Ejecución y para que en los casos que proceda, ejerza las facultades que le confiere la legislación aplicable.
 
 ###### ARTÍCULO 78.
 
@@ -1636,3 +1642,13 @@ QUINTO. Los establecimientos comerciales estarán obligados a proporcionar la in
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SÉPTIMO. El Poder Ejecutivo Estatal y los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia, realizarán las acciones necesarias para el cumplimiento del presente Decreto.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XXXIII DEL ARTÍCULO 2, LA FRACCIÓN XX DEL 9, EL PÁRRAFO SEGUNDO DEL 33, EL PÁRRAFO SEGUNDO DEL 56 Y EL 77, TODOS DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS SÓLIDOS URBANOS Y DE MANEJO ESPECIAL PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. Dentro de los 180 días siguientes a la publicación del presente Decreto, el Gobierno del Estado de Puebla, realizará la actualización y armonización reglamentaria correspondiente.
