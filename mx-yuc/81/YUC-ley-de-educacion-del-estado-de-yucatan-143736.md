@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-143736"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2024-07-23"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 29 de julio de 2020.
 
@@ -195,6 +195,8 @@ VIII. Realizar campañas, mediante el uso de las tecnologías de la información
 
 IX. Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de violencia y maltrato escolar, así como coordinar campañas de información sobre ellos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], D.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 10.
 
 Lineamientos
@@ -216,6 +218,10 @@ Para la debida aplicación de los protocolos, las autoridades educativas y escol
 Las autoridades educativas serán las responsables de vigilar que las autoridades escolares, así como el personal de apoyo y asistencia a la educación, observen el cumplimiento de las disposiciones legales y normativas aplicables.
 
 A su vez, las autoridades educativas determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 5 DE AGOSTO DE 2024)</small>
+
+En ningún caso, se utilizarán la existencia de denuncias por cualquier tipo de violencia ejercida contra las niñas, niños, adolescentes y jóvenes, o la atención de las mismas, como un criterio de evaluación negativa para las escuelas o planteles escolares o centro (sic) educativos.
 
 ###### Artículo 11.
 
@@ -2523,6 +2529,8 @@ Sustanciación de los procesos de vigilancia
 
 Las acciones de vigilancia a las que se refiere el artículo anterior que lleven a cabo las autoridades educativas estatales, se realizarán de conformidad con el procedimiento establecido en los artículos 152 al 179 de la ley general y atenderán los lineamientos que emita la autoridad educativa federal en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ESTE PÁRRAFO], D.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 150.
 
 Infracciones
@@ -2551,7 +2559,9 @@ X. Ocultar a las madres y padres de familia o tutores, las conductas de los educ
 
 XI. Oponerse a las actividades de vigilancia, así como no proporcionar información veraz y oportuna.
 
-XII. Contravenir las disposiciones contempladas en los artículos 8, párrafo cuarto, 13, 16 y 17 por lo que corresponde a las autoridades educativas y 146, segundo párrafo de esta ley.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+XII. Contravenir las disposiciones contempladas en los artículos 8, párrafo tercero y cuarto, 13, 16 y 17 por lo que corresponde a las autoridades educativas y 146, segundo párrafo de esta ley.
 
 XIII. Administrar a los educandos, sin previa prescripción médica y sin consentimiento informado y expreso de sus madres, padres o tutores, medicamentos, en aquellos casos que no representen una emergencia.
 
@@ -2606,6 +2616,10 @@ Las multas impuestas podrán duplicarse en caso de reincidencia.
 II. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente respecto a las infracciones señaladas en las fracciones IX o XIV del artículo 150 de esta ley. La imposición de esta sanción no excluye la posibilidad de que sea impuesta alguna multa de las señaladas en el inciso b) de la fracción anterior o la imposición de la sanción prevista en la fracción siguiente.
 
 III. Clausura del plantel, respecto a las infracciones señaladas en las fracciones XVIII, XIX o XX del artículo 150 de esta ley.
+
+> <small>(ADICIONADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+IV. Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente, respecto a la infracción señalada por contravenir los párrafos tercero y cuarto del artículo 8 de esta ley.
 
 Si se incurriera en las infracciones establecidas en las fracciones XIII, XIV o XXVIII del artículo anterior, se aplicarán las sanciones de este artículo, sin perjuicio de las penales y de otra índole que resulten.
 
@@ -2952,3 +2966,11 @@ II. Recibidas las solicitudes, la Secretaría de Investigación, Innovación y E
 Los particulares podrán solicitar el reconocimiento al que se refiere el artículo 158 de este decreto cuando así lo decidan y conforme a lo establecido en este decreto y demás disposiciones aplicables, con independencia de la convocatoria que se emita en los términos de esta disposición transitoria.
 
 En la primera solicitud del particular para que se le otorgue el reconocimiento a la gestión institucional y excelencia educativa, la Secretaría de Investigación, Innovación y Educación Superior observará que no hayan sido sancionados por las autoridades educativas correspondientes en los últimos cinco años anteriores a la fecha de solicitud del reconocimiento.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 809/2024 POR EL QUE SE MODIFICA LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN Y EL CÓDIGO PENAL PARA EL ESTADO DE YUCATÁN, EN MATERIA DE PREVENCIÓN DE LA VIOLENCIA".]
+
+PRIMERO.- Publíquese el presente decreto en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
