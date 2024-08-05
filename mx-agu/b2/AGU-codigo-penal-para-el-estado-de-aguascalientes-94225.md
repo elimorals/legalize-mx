@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-07-15"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2959,6 +2959,10 @@ Al responsable de Ataques a las Vías de Comunicación y a los Medios de Transpo
 
 Si para la ejecución de los hechos descritos en este Artículo se utilizan materias explosivas o incendiarias, la punibilidad será de 1 a 6 años de prisión y de 15 a 300 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+> <small>(ADICIONADO, P.O. 5 DE AGOSTO DE 2024)</small>
+
+Tratándose de la conducta descrita en la fracción III de este artículo, cuando se perpetre sobre señales de jurisdicción local ubicadas en las inmediaciones de cruzamientos ferroviarios cuyo propósito sea informar la proximidad de dichos cruzamientos o la necesidad de disminuir la velocidad, las penas de prisión y de multa previstas en los dos párrafos anteriores, aumentarán hasta en una tercera parte en sus mínimos y máximos.
+
 ### CAPÍTULO XIV. Tipos Penales Protectores de la Dignidad de los Muertos
 
 ###### ARTÍCULO 183.
@@ -4272,3 +4276,11 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTICULO SEGUNDO.
 
 Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión el hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 755.- SE ADICIONAN DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
