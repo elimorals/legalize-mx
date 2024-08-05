@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-sistema-estatal-de-seguridad-publica-del-estado-de-1143
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-02"
-last_updated: "2024-06-26"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114373&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 2 de mayo de 2016.
 
@@ -61,9 +61,9 @@ I. Consejo estatal: el Consejo Estatal de Seguridad Pública.
 
 II. Consejos municipales: los consejos municipales de seguridad pública.
 
-> <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-III. Instituciones de seguridad pública: las instituciones policiales, la Fiscalía General del Estado y la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso.
+III. Instituciones de seguridad pública: las instituciones policiales, la Fiscalía General del Estado, la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán y la autoridad estatal encargada de la supervisión de las medidas cautelares y de la suspensión condicional del proceso.
 
 > <small>(REFORMADA, D.O. 24 DE NOVIEMBRE DE 2017)</small>
 
@@ -197,9 +197,15 @@ III. El secretario de Seguridad Pública.
 
 IV. El fiscal general.
 
-V. Los presidentes municipales de cada una de las cabeceras de las regiones de seguridad del estado.
+> <small>(ADICIONADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-VI. El secretario ejecutivo.
+V. La o el Fiscal Especializado en Combate a la Corrupción del Estado de Yucatán.
+
+VI. Los presidentes municipales de cada una de las cabeceras de las regiones de seguridad del estado.
+
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+VII. El secretario ejecutivo o la secretaria ejecutiva.
 
 El presidente será suplido en sus ausencias por el secretario general de Gobierno. Los demás integrantes del consejo estatal deberán asistir personalmente.
 
@@ -671,7 +677,9 @@ IV. Los directores de los centros de reinserción social y de aplicación de med
 
 Servicio de escolta pública posterior al desempeño del cargo
 
-El servicio de escolta pública se prestará a las autoridades establecidas en el artículo anterior, previa solicitud, por escrito, al gobernador y al secretario de Seguridad Pública, por un periodo de tiempo igual al que hayan desempeñado el cargo, siempre que hayan permanecido en él, al menos, un año cumplido. Dicho servicio podrá ser renovado por un segundo periodo, a solicitud de parte.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+El servicio de escolta pública se prestará a las autoridades establecidas en el artículo anterior, previa solicitud, por escrito, a la persona titular del Poder Ejecutivo, por un periodo de tiempo igual al que hayan desempeñado el cargo, siempre que hayan permanecido en él, al menos, un año cumplido. Dicho servicio podrá ser renovado para periodos posteriores, previa solicitud de parte.
 
 Las autoridades de las instituciones de seguridad pública que cuenten con servicio de escolta pública, podrán prescindir, temporal o definitivamente, de él, previo aviso, por escrito, al gobernador.
 
@@ -681,11 +689,25 @@ Negativa al otorgamiento del servicio de escolta pública
 
 El servicio de escolta pública no será otorgado cuando la autoridad de la institución de seguridad pública correspondiente desempeñe otro cargo que tenga bajo su mando fuerza pública o cuente con seguridad proporcionada por otra instancia de gobierno.
 
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 47.
 
 Elementos para la prestación del servicio de escolta pública
 
-La Secretaría de Seguridad Pública dispondrá, para la prestación del servicio de escolta pública que se otorgue a las autoridades de las instituciones de seguridad pública establecidas en las fracciones I, II, III y IV del artículo 44 de esta ley, de, al menos, cuatro integrantes, un automóvil, sistema de comunicación, armamento y demás equipo que les permita el correcto desempeño de sus funciones.
+La Secretaría de Seguridad Pública dispondrá, para la prestación del servicio de escolta pública que se otorgue a las autoridades de las instituciones de seguridad pública establecidas en las fracciones I, II, III y IV del artículo 44 de esta ley, de, al menos, ocho integrantes, dos vehículos, sistema de comunicación, armamento, viáticos y demás equipo que les permita el correcto desempeño de sus funciones.
+
+En caso de que alguna de las personas a que se refiere el párrafo anterior, al término de su mandato inmediatamente desempeñaré un cargo público o de elección popular en territorio nacional fuera de Yucatán, contará con cuatro integrantes y dos vehículos adicionales a lo previsto en el párrafo anterior, con sus respectivos sistemas de comunicación, armamento, viáticos y demás equipo que les permita el adecuado desempeño de sus funciones en el lugar del ejercicio del cargo público o de elección popular de que se trate.
+
+Para efectos del párrafo anterior, la persona titular del Poder Ejecutivo o la persona titular de la Secretaría de Seguridad Pública en su caso, deberá realizar los actos administrativos, celebrar acuerdos, firmar los convenios, expedir los oficios, realizar las gestiones, los trámites o cualquier otro acto que resulte necesario, ante las autoridades federales, estatales y locales, para la prestación del servicio de escolta pública fuera del territorio estatal, que se requiera.
+
+A partir de la fecha de inicio de la prestación del servicio de escolta, el personal, vehículos, sistema de comunicación, armamento, viáticos y demás equipo por medio del cual se preste el servicio deberá disminuir, cada sexenio, en un 25%.
+
+Independientemente de la disminución a que se refiere el párrafo anterior, el mínimo de personal asignado a las autoridades a que se refiere el primer párrafo de este artículo no podrá ser menor a cuatro integrantes, dos vehículos y los respectivos sistemas de comunicación, armamento, viáticos y demás equipo que les permita el correcto desempeño de sus funciones.
+
+La persona titular del Poder Ejecutivo podrá autorizar el aumento del mínimo a que se refiere el párrafo anterior, previa solicitud que justifique la necesidad del incremento del personal, vehículos, viáticos y equipamiento de que se trate.
+
+Para efectos de este artículo, se reputarán como viáticos los gastos de viaje, en el estado o en el país, cuando se destinen al hospedaje, alimentación, transporte, uso o goce temporal de vehículos y pago de kilometraje, suficientes para el desempeño de sus funciones.
 
 ###### Artículo 48.
 
@@ -717,9 +739,13 @@ II. Las direcciones de seguridad pública o sus equivalentes, para los integrant
 
 III. La Fiscalía General del Estado, para los fiscales, peritos y policías investigadoras.
 
-> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(ADICIONADA, D.O. 5 DE AGOSTO DE 2024)</small>
 
-El reglamento de esta ley en materia de servicio profesional de carrera establecerá las disposiciones específicas que regulen su organización y funcionamiento para las instituciones de seguridad pública mencionadas en la fracción I de este artículo. Con respecto a las policías municipales, los ayuntamientos emitirán la regulación respectiva y respecto al personal a que se refiere la fracción III de este artículo, la Fiscalía General del Estado regulará mediante acuerdos la organización y funcionamiento de su servicio profesional de carrera.
+IV. La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, para las y los fiscales y peritos a su cargo.
+
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+El reglamento de esta ley en materia de servicio profesional de carrera establecerá las disposiciones específicas que regulen su organización y funcionamiento para las instituciones de seguridad pública mencionadas en las fracciones (sic) I de este artículo. Con respecto a las policías municipales, los ayuntamientos emitirán la regulación respectiva y respecto al personal a que se refieren las fracciones III y IV de este artículo, la Fiscalía General del Estado, así como la Fiscalía Especializada en Combate a la corrupción del Estado de Yucatán, regularán mediante acuerdos la organización y funcionamiento de su servicio profesional de carrera.
 
 ###### Artículo 51.
 
@@ -1167,7 +1193,7 @@ Los procedimientos deberán observar en todo momento las formalidades esenciales
 
 ### Capítulo X. Academias e institutos
 
-> <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, D.O. 5 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 89.
 
@@ -1175,7 +1201,7 @@ Academias e institutos
 
 El estado deberá contar con academias, las cuales estarán a cargo de la formación y profesionalización de los aspirantes e integrantes de la Secretaría de Seguridad Pública.
 
-La Fiscalía General del Estado contará con los institutos y academias que requiera para la formación y profesionalización de los aspirantes e integrantes de su institución.
+La Fiscalía General del Estado y la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, contará con los institutos y academias que requiera para la formación y profesionalización de los aspirantes e integrantes de su institución.
 
 ###### Artículo 90.
 
@@ -1369,11 +1395,15 @@ IV. El nombre de quienes intervinieron en las detenciones y, en su caso, sus car
 
 V. El lugar a donde serán trasladados los detenidos.
 
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 5 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 98.
 
-Participación de la Fiscalía General del Estado
+Participación de la Fiscalía General del Estado y de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán
 
-La Fiscalía General del Estado, tan pronto reciba a un detenido, deberá actualizar el Registro Estatal de Detenciones con la siguiente información:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 5 DE AGOSTO DE 2024)</small>
+
+La Fiscalía General del Estado o la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, según corresponda, tan pronto reciban a una persona detenida, deberán actualizar el Registro Estatal de Detenciones con la siguiente información:
 
 I. La fecha y hora en la que recibió al detenido.
 
@@ -1389,7 +1419,9 @@ VI. Las huellas dactilares del detenido.
 
 VII. La identificación antropométrica del detenido.
 
-VIII. La demás que disponga el Fiscal General del Estado o establezcan otras disposiciones legales y normativas aplicables para la adecuada identificación del detenido.
+> <small>(REFORMADA, D.O. 5 DE AGOSTO DE 2024)</small>
+
+VIII. La demás que disponga la persona titular de la Fiscalía General del Estado o de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, según sea el caso, o la que establezcan otras disposiciones legales y normativas aplicables para la adecuada identificación del detenido.
 
 ###### Artículo 99.
 
@@ -1858,3 +1890,47 @@ Artículo primero. Este decreto entrará en vigor el día de su publicación en 
 Ajustes presupuestales
 
 Artículo segundo. La Secretaría de Administración y Finanzas y la Secretaría de Seguridad Pública deberán realizar, de conformidad con las disposiciones jurídicas aplicables, las adecuaciones presupuestales para la aplicación de este decreto.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 807/2024 POR EL QUE SE MODIFICA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, EN MATERIA DE SERVICIO DE ESCOLTA".]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Ajustes presupuestales y administrativos
+
+Artículo segundo. La Secretaría de Administración y Finanzas y la Secretaría de Seguridad Pública realizarán los ajustes presupuestales y administrativos necesarios para dar cumplimiento al presente decreto.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente decreto.
+
+D.O. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 811/2024 POR EL QUE SE EMITE LA LEY ORGÁNICA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN Y SE MODIFICAN EL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN, LA LEY DEL INSTITUTO DE DEFENSA PÚBLICA DEL ESTADO DE YUCATÁN, LEY PARA LA PROTECCIÓN DE LAS PERSONAS QUE INTERVIENEN EN EL PROCESO PENAL DEL ESTADO DE YUCATÁN, LA LEY DE VÍCTIMAS DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA, LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE SUJETOS OBLIGADOS DEL ESTADO DE YUCATÁN, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE YUCATÁN, LA LEY DE FISCALIZACIÓN DE LA CUENTA PÚBLICA DEL ESTADO DE YUCATÁN, LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE YUCATÁN, Y LA LEY DE VIDEOVIGILANCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE LA FISCALÍA ESPECIALIZADA EN COMBATE A LA CORRUPCIÓN DEL ESTADO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo Primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Adecuaciones presupuestales
+
+Artículo Segundo. La Secretaría de Administración y Finanzas, a la brevedad posible, deberá realizar las adecuaciones presupuestales necesarias para formalizar la estructura orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, en términos de este decreto, y dotarla de los recursos humanos, financieros, materiales y tecnológicos que requiera para el adecuado ejercicio de sus atribuciones y el cumplimiento de su objeto.
+
+Órgano de Control Interno
+
+Artículo Tercero. Las disposiciones contenidas en este decreto, relacionadas con el Órgano de Control Interno de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, entrarán en vigor el día en que el Congreso del Estado de Yucatán designe a la persona titular de dicha unidad administrativa, en términos del artículo 30, fracción XXXII Bis, de la Constitución Política del Estado de Yucatán.
+
+Reglamento Interior de la Fiscalía Especializada
+
+Artículo Cuarto. La persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán deberá expedir el reglamento interior de este organismo en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto.
+
+Primer Informe del Fiscal Anticorrupción
+
+Artículo Quinto. Por única ocasión, la primera rendición del Informe anual de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, a cargo de la persona titular de dicho órgano autónomo, se realizará en el mes de marzo de 2025, y comprenderá el período que abarca del inicio de sus funciones como fiscal anticorrupción hasta el 31 de diciembre 2024.
+
+Cálculo del presupuesto
+
+Artículo Sexto. El presupuesto asignado a la Fiscalía Especializada en Combate a la Corrupción para el año siguiente a su entrada en funciones se calculará dividiendo el primer presupuesto asignado entre el número de meses durante los cuales se ejerció dicho presupuesto, y multiplicando el resultado por doce, tomando en consideración lo dispuesto en el artículo 6, fracción I, de la Ley Orgánica de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán, con el fin de garantizar la correcta operatividad y funciones de la referida fiscalía.
