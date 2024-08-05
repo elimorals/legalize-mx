@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-educacion-militar-del-ejercito-51248"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-14"
-last_updated: "2023-02-01"
+last_updated: "2024-08-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51248&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-08-08"
 
 REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE AGOSTO DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de agosto de 2006.
 
@@ -1399,9 +1399,11 @@ La Secretaría dejará sin efectos el alta respectiva cuando se detecte que el d
 
 Baja es la separación de los discentes de las Instituciones Educativas de conformidad con lo establecido en el Reglamento de cada Plantel.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 140.
 
-Son causas de baja las siguientes:
+Son causas de baja de las Instituciones Educativas del Sistema Educativo Militar las siguientes:
 
 I. Haber terminado satisfactoriamente sus estudios;
 
@@ -1415,25 +1417,43 @@ IV. Reprobar el examen final o profesional;
 
 V. Observar mala conducta, determinada por el Consejo de Honor de la Institución Educativa;
 
-> <small>(ADICIONADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 5 DE AGOSTO DE 2024)</small>
 
-V Bis. En las escuelas de formación de oficiales:
+V Bis. En las escuelas de formación del personal con los grados de Oficiales y Clases, de conformidad con lo establecido en el reglamento de cada Institución Educativa, por:
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
 a) Acumular quinientos puntos de demérito en un ciclo lectivo en términos del reglamento respectivo, o
 
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
 b) Acumular trescientos puntos de demérito al incurrir en una falta muy grave que afecte la disciplina militar.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE FEBRERO DE 2023)</small>
 
 Para efectos de este inciso se entiende por faltas muy graves que afecten la disciplina militar, entre otras, las siguientes:
 
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+
 1. Golpear a un discente;
 
-2. Incurrir en acciones que denigren la dignidad militar o atenten contra la integridad física de un discente;
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2024)</small>
 
-3. Exigir dádivas o cooperaciones, suscribir colectas, o realizar cualquier tipo de actividades de agio, aprovechando su antigüedad, jerarquía o cargo;
+2. Incurrir en acciones que denigren la dignidad militar o atenten contra la integridad física de una persona discente;
 
-4. Resultar positivo al consumo de drogas en un examen toxicológico, y
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+3. Exigir dádivas o cooperaciones, suscribir colectas o realizar cualquier tipo de actividades de agio, mediante el aprovechamiento de su antigüedad, jerarquía o cargo;
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+4. Resultar no apto por dar positivo al consumo de narcóticos en un examen toxicológico o negarse a proporcionar las tomas de muestra sanguínea o de orina para descartar el consumo de sustancias psicotrópicas, estupefacientes u otras controladas, y
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
 5. Realizar acciones que desprestigien la imagen de la escuela de formación en donde estudian o de la Secretaría.
+
+> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
 Lo anterior, sin perjuicio de la responsabilidad penal que, en su caso, pudiera incurrir el discente;
 
@@ -1453,17 +1473,97 @@ IX. Presentar algún padecimiento de los establecidos en el artículo 226 de la 
 
 X. Por motivos de salud, que le impidan cumplir con sus obligaciones académicas y militares, dentro de la Institución Educativa, certificado por dos médicos militares en activo, especialistas en el área del padecimiento de que se trate;
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
 
-XI. Con motivo del inicio de un proceso penal en el fuero militar, común o federal, seguido de un auto de sujeción o de vinculación a proceso, y
+XI. Estar sujeto a un proceso penal, ya sea en el fuero militar, o del orden común o federal, en el que se le haya dictado una medida cautelar de prisión preventiva u otra que limite sus actividades en la Institución Educativa;
 
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2024)</small>
 
-XII. Otras que señalen los Reglamentos de las Instituciones Educativas y Cursos que imparten las jefaturas.
+XII. Por rescisión del contrato de enganche;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XIII. Realizar maltrato físico, de palabra, de hecho o psicológico a otras personas discentes, así como todas aquellas acciones que pongan en riesgo la integridad física o la salud de dichas personas;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XIV. Asistir a la Institución Educativa en estado de ebriedad sin importar el grado de intoxicación etílica, o ingerir bebidas embriagantes dentro de la Institución Educativa o durante cualquiera de sus actividades relacionadas con su formación académica;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XV. Introducir, poseer, inhalar, fumar, usar o ingerir cualquier tipo de narcótico dentro de la Institución Educativa, instalación militar o en actos del servicio;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS Y NUMERALES], D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XVI. Estar en un caso médico legal, consistente en la alteración de la salud o estado físico, considerado como incidente grave, con responsabilidad para la persona discente, en los casos siguientes:
+
+a) Cuando ocurra en actos del servicio o a consecuencia de estos, durante el desarrollo de actividades administrativas, deportivas, de adiestramiento y otras similares, si se presenta una o más de las condicionantes siguientes:
+
+1. Ocasione lesiones que pongan en peligro la vida de otra persona discente o cause su fallecimiento, o
+
+2. Existan circunstancias que hagan presumir su intención de causar lesión o que participe con terceros. Si estas circunstancias quedan plenamente acreditadas, no importa el tipo de lesión que se produzca, y
+
+b) Cuando sea causado por la persona discente en estado franco, en vacaciones, o en licencias, o en otras circunstancias que no se originen con motivo de actos del servicio, si se presenta una o más de las condicionantes siguientes:
+
+1. Ocasione lesiones que pongan en peligro la vida de otra persona discente o cause su fallecimiento;
+
+2. Se encuentre bajo los influjos de bebidas embriagantes o de narcóticos;
+
+3. Las lesiones de la persona afectada pongan en entredicho la disciplina o imagen y prestigio de la Institución Educativa, de la Secretaría de la Defensa Nacional o del Ejército y Fuerza Aérea Mexicanos, o
+
+4. El hecho haya merecido la atención de los medios de comunicación;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XVII. Estar involucrado en un caso relevante, consistente en hechos o conductas en las que participe y requieran una atención especial por parte de la Secretaría de la Defensa Nacional por poner en entredicho la imagen y el prestigio de la Institución Educativa o del Ejército y Fuerza Aérea Mexicanos;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XVIII. Publicar, exponer, exhibir, distribuir, grabar o divulgar fotografías o imágenes en redes sociales de personal militar, dentro o fuera de instalaciones militares, uniformados, de civil o con prendas o accesorios del uniforme que contengan signos o señas inequívocas sobre su identidad castrense, o con contenido corporal, sexual, real o simulado que afecten, además de la disciplina militar, el prestigio o imagen de la Institución Educativa o de la Secretaría de la Defensa Nacional;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XIX. Tener relaciones sexuales consensuadas dentro de la Institución Educativa o en donde se le haya designado su alojamiento;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XX. Llevar a cabo conductas de hostigamiento y acoso sexual, debidamente acreditadas por el Comité para la Prevención y Atención del Hostigamiento y Acoso Sexual de la Secretaría de la Defensa Nacional;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XXI. Contar con sentencia ejecutoria en la que se le imponga la pena de prisión, sin importar si la sentencia fue dictada por una autoridad jurisdiccional militar, federal o local;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XXII. Incurrir en alguna de las demás causales de baja previstas en el contrato de enganche o carta compromiso a que se refiere el artículo 150 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XXIII. Realizarse tatuajes durante su permanencia en la Institución Educativa, con las características siguientes:
+
+a) Se encuentren en lugares visibles con el uso de uniforme;
+
+b) Tengan una dimensión mayor de 10 x 10 centímetros;
+
+c) Las imágenes sean ofensivas a la moral o hagan apología del delito, y
+
+d) En caso de que tengan más de un tatuaje, estos sean mayores al 10% de la superficie corporal;
+
+> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XXIV. Realizarse perforaciones en cualquier parte del cuerpo, con excepción de las horadaciones lobulares permitidas al personal femenino, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+XXV. Otras que señalen los reglamentos de las Instituciones Educativas y de las Jefaturas de cursos.
 
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
 Los discentes que causen baja de las Instituciones Educativas podrán ser puestos a disposición de la dirección general del arma o del servicio que corresponda conforme a los estudios que se encontraban realizando, siempre que exista vacante y se consideren necesarios sus servicios. Asimismo, se les asignará el grado que corresponda en términos del artículo 16 de este Reglamento, con excepción de los que causen baja de conformidad con el inciso b) de la fracción V Bis del presente artículo, quienes quedarán con el grado de soldados.
+
+> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 140 BIS.- La persona discente causará baja del Sistema Educativo Militar y del Ejército y Fuerza Aérea Mexicanos cuando, además, se ubique en los supuestos previstos en el artículo 170, fracción II, apartados D y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
@@ -1780,6 +1880,16 @@ D.O.F. 1 DE FEBRERO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS Y POR EL QUE SE EXPIDE EL REGLAMENTO DEL INSTITUTO MEXICANO DE ESTUDIOS ESTRATÉGICOS EN SEGURIDAD Y DEFENSA NACIONALES”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
+
+D.O.F. 5 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+PRIMERO.- El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
 
