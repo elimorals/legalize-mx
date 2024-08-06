@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-lenguas-51533"
 country: "mx"
 rank: "estatuto"
 publication_date: "2006-09-01"
-last_updated: "2010-07-14"
+last_updated: "2024-08-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51533&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2006-06-13"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LENGUAS INDIGENAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS, PUBLICADO EN EL D.O.F. DE 6 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LENGUAS INDIGENAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE JULIO DE 2010.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 2024 (ABROGADO).
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 1 de septiembre de 2006.
 
@@ -942,3 +944,13 @@ México, D.F., a 13 de junio de 2005.- El Presidente del Consejo Nacional del In
 D.O.F. 14 DE JULIO DE 2010.
 
 Unico. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS”.]
+
+Primera. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segunda. Se abroga el Estatuto Orgánico del Instituto, publicado el 14 de julio de 2010 en el Diario Oficial de la Federación.
+
+Tercera. Los asuntos que se encuentren vigentes o en trámite, antes de la publicación del presente estatuto, serán atendidos conforme por las áreas designadas en el Estatuto Orgánico publicado el 14 de julio de 2010 en el Diario Oficial de la Federación.
