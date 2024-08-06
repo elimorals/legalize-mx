@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2024-06-06"
+last_updated: "2024-08-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -1465,7 +1465,9 @@ XIII.- Cambiar la sede de los poderes del Estado.
 
 XIV.- Ejercer las facultades que le otorga la Constitución Federal en relación a la Guardia Nacional.
 
-XV.- Determinar las características y el uso del escudo estatal.
+> <small>(REFORMADA, P.O. 6 DE AGOSTO DE 2024)</small>
+
+XV.- Legislar en materia de símbolos estatales, como son: himno, escudo, y bandera, a fin de fomentar el patrimonio cultural, historia e identidad local, respetando en todo momento la supremacía de los símbolos patrios.
 
 > <small>(REFORMADA, P.O. 6 DE MARZO DE 2019)</small>
 
@@ -5922,3 +5924,11 @@ Del mismo modo, hasta en tanto se realice la armonización de la Ley de los Trab
 En ambos casos, los asuntos iniciados con anterioridad a la entrada en vigor de este Decreto continuarán sustanciándose hasta su conclusión de conformidad con las disposiciones vigentes al momento de su inicio, ante los órganos en los que se encuentren radicados.
 
 OCTAVO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 6 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA NÚMERO: 010 POR LA QUE SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 75 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
