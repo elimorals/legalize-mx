@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2018-11-29"
+last_updated: "2024-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2024.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -2943,7 +2943,9 @@ El Consejo Consultivo sesionará de manera ordinaria, por lo menos, cada tres me
 
 Los Consejos Consultivos Municipales de Medio Ambiente y Desarrollo Sustentable tendrán las siguientes atribuciones:
 
-I. Proponer al Ayuntamiento estrategias, políticas públicas o acciones dirigidas al cuidado y protección del medio ambiente y a la procuración del desarrollo sustentable en sus municipios;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2024)</small>
+
+I. Proponer al Ayuntamiento estrategias, políticas públicas o acciones dirigidas al cuidado y protección del medio ambiente, a la seguridad agroalimentaria y a la procuración del desarrollo sustentable en sus municipios;
 
 II. Impulsar y organizar foros de consulta ciudadana para el análisis de la problemática ambiental de los municipios;
 
@@ -2955,7 +2957,9 @@ V. Coadyuvar en la evaluación de las acciones y programas que, en la materia, s
 
 VI. Proponer a la autoridad estatal en materia ambiental, líneas estratégicas en los temas relacionados con el objeto de esta ley en el ámbito territorial del municipio;
 
-VII. Dar aviso al Ayuntamiento o a las autoridades competentes en la materia sobre cualquier hecho o acto que pueda constituir un riesgo para el equilibrio del medio ambiente o el desarrollo sustentable del municipio; y
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2024)</small>
+
+VII. Dar aviso al Ayuntamiento o a las autoridades competentes en la materia sobre cualquier hecho o acto que pueda constituir un riesgo para el equilibrio del medio ambiente, a la seguridad agroalimentaria o el desarrollo sustentable del municipio; y
 
 VIII. Las demás que determinen esta Ley y otros ordenamientos legales aplicables en la materia o el Ayuntamiento.
 
@@ -3508,3 +3512,19 @@ TERCERO. La Secretaría de Medio Ambiente, a efecto de dar cumplimiento a lo est
 CUARTO. La Secretaría de Medio Ambiente no autorizará, con motivo de lo dispuesto en este decreto, nuevos centros de verificación ni autorizará cambios de ubicación de los mismos.
 
 QUINTO. Se derogan todas las disposiciones legales y administrativas que contravengan el presente decreto.
+
+G.O. 7 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 730 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL Y DEL CÓDIGO PENAL, TODOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se concede un plazo de sesenta días, contado a partir del inicio de la vigencia del presente Decreto, a efecto de que realicen las modificaciones necesarias a que haya lugar para el puntual cumplimiento del mismo.
