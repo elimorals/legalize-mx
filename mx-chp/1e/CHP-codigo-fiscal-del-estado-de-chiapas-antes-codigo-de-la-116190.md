@@ -4,7 +4,7 @@ identifier: "CHP-codigo-fiscal-del-estado-de-chiapas-antes-codigo-de-la-116190"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-05-18"
-last_updated: "2023-12-15"
+last_updated: "2024-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2024.
 
 Código publicado en la Cuarta Sección del Periódico Oficial del Estado de Chiapas, el miércoles 18 de Mayo del 2016.
 
@@ -37,7 +37,7 @@ La Honorable Sexagésima Sexta Legislatura Constitucional del Estado Libre y Sob
 
 C O N S I D E R A N D O
 
-[…]
+[...]
 
 Por las consideraciones antes expuestas, el Honorable Congreso del Estado de Chiapas, ha tenido a bien emitir el siguiente Decreto de:
 
@@ -3531,19 +3531,21 @@ Es obligación de los sujetos de este impuesto expedir comprobante fiscal por la
 
 El Pago de este impuesto se efectuará mediante declaración bimestral, que tendrá el carácter de definitiva dentro de los periodos que establece el artículo 236 de este Código.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2024)</small>
 
-Artículo 241 A.- Cuando el servicio de hospedaje temporal en casas y departamentos, mediante aplicaciones y plataformas digitales, a que se refiere el artículo 239, fracción IV de este Código, se reciba con motivo de los actos jurídicos que realice el prestador del servicio con personas físicas o morales directamente o a través de intermediarios, con agencias operadoras mayoristas, agencias de viajes minoristas o empresas de sistemas de intercambio de servicios turísticos y de cualquier tipo, incluyendo promotores y facilitadores, con el propósito de dar alojamiento o albergue a terceras personas, se tendrá obligación de enterar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien preste los servicios de hospedaje y sobre el monto de los mismos.
+Artículo 241 A.- Cuando los servicios de hospedaje se oferten a través de una persona física o moral en su carácter de intermediaria, promotora o facilitadora, éstas deberán recaudar y enterar este impuesto.
 
-En cualquiera de los supuestos previstos en el artículo 239, fracción IV de este Código, cuando intervenga de cualquier manera una persona física o moral en su carácter de intermediario, promotor o facilitador en el cobro de las contraprestaciones por servicios de hospedaje y en caso de que se cubra a través de ella lo correspondiente al Impuesto Sobre Hospedaje, ésta deberá ser quien entere el pago del impuesto correspondiente.
+En cualquiera de los supuestos previstos en el artículo 239, fracción IV de este Código, cuando intervenga de cualquier manera una persona física o moral en su carácter de intermediario, promotor o facilitador en la oferta de los servicios de hospedaje, ésta deberá ser quien retenga y entere el pago del impuesto correspondiente.
 
 En este último supuesto donde la persona física o moral en su carácter de intermediario, promotor o facilitador sea quien entere el pago del Impuesto Sobre Hospedaje, se liberará al contribuyente del impuesto correspondiente y a las personas que presten los servicios de hospedaje.
 
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 242.
 
-Los retenedores de este impuesto deberán enterarlo bimestralmente dentro de los 15 días siguientes al mes inmediato posterior al que se prestó el servicio, los cuales tendrán el carácter de pagos definitivos, mediante los formatos aprobados por la Secretaría que se publiquen en su página de internet.
+Los retenedores de este impuesto deberán enterarlo bimestralmente dentro de los 15 días siguientes al mes inmediato posterior al que se prestó el servicio, los cuales tendrán el carácter de pagos definitivos, de acuerdo con las reglas administrativas que al efecto se emitan.
 
-La declaración anual de este impuesto se deberá presentar en el periodo del 01 de enero al 30 de abril del año siguiente al que se declare.
+La declaración anual de este impuesto, se deberá presentar en el periodo del 01 de enero al 30 de abril del año siguiente al que se declare.
 
 ### Capítulo III. Del Impuesto Sobre Adquisición de Vehículos Automotores Usados
 
@@ -7196,5 +7198,13 @@ P.O. 15 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 029 DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS".]
 
 Artículo Primero.- El presente Decreto entrará en vigor a partir del día primero de enero de dos mil veinticuatro.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 7 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 375 QUE EMITE LA SEXAGÉSIMA OCTAVA LEGISLATURA CORRESPONDIENTE AL DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 241 A Y 242 DEL CÓDIGO DE LA HACIENDA PÚBLICA PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
