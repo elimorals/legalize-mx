@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2022-02-28"
+last_updated: "2024-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2024.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2937,6 +2937,8 @@ A quien prive de sus derechos y su bienestar a persona menor de edad o le inflij
 
 ### CAPÍTULO I. DELITOS AMBIENTALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 7 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 251.
 
 Se impondrán prisión de seis meses a cinco años, multa hasta de ochenta días de salario y suspensión de dos meses a dos años del derecho de ejercer la abogacía, en su caso, y privación definitiva si reincidiere, al abogado, defensor o litigante que:
@@ -3043,7 +3045,7 @@ Se impondrán de dos a cuatro años de prisión y multa de cien a quinientas vec
 
 ###### Artículo 259.
 
-Se impondrán de uno a seis años de prisión y multa de trescientos a quinientos días de salario a quien, sin contar con los permisos, licencias o autorizaciones correspondientes o sin aplicar las medidas de previsión o de seguridad adecuadas:
+Se impondrán de uno a seis años de prisión y multa de trescientas a quinientas UMAS a quien, sin contar con los permisos, licencias o autorizaciones correspondientes o sin aplicar las medidas de previsión o de seguridad adecuadas:
 
 I. Descargue o arroje contaminantes que deterioren la atmósfera o provoquen o puedan provocar daños graves a la salud, la flora o, en general, los ecosistemas cuya conservación o preservación sea competencia de las autoridades estatales o municipales;
 
@@ -3057,9 +3059,17 @@ V. Dañe la salud pública, la flora, la fauna o los ecosistemas, por generar fu
 
 a) Energía térmica o lumínica;
 
-b) Olores, ruidos o vibraciones; o
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2024)</small>
 
-c) Contaminación visual.
+b) Olores, ruidos o vibraciones;
+
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2024)</small>
+
+c) Contaminación visual; o
+
+> <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2024)</small>
+
+d) Alteraciones con el uso de tecnologías al ciclo hidrológico en perjuicio de la seguridad agroalimentaria.
 
 VI. Invada las áreas, zonas o parques naturales protegidos o sujetos a conservación, preservación, restauración o mejoramiento ambiental;
 
@@ -5484,3 +5494,19 @@ G.O. 28 DE FEBRERO DE 2022.
 Primero. El presente Decreto iniciará su vigencia el día de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. En la aplicación del presente Decreto se tendrá presente el principio de sucesión de normas sustantivas penales.
+
+G.O. 7 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 730 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL Y DEL CÓDIGO PENAL, TODOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se concede un plazo de sesenta días, contado a partir del inicio de la vigencia del presente Decreto, a efecto de que realicen las modificaciones necesarias a que haya lugar para el puntual cumplimiento del mismo.
