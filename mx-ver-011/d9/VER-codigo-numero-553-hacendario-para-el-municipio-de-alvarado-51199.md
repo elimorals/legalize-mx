@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-553-hacendario-para-el-municipio-de-alvarado-5119
 country: "mx"
 rank: "codigo"
 publication_date: "2006-07-14"
-last_updated: "2021-03-10"
+last_updated: "2024-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "VER"
 ---
 # CODIGO NUMERO 553 HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE AGOSTO DE 2024 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2024.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -1591,11 +1593,11 @@ Las constancias de no adeudo que, en su caso, expida la Tesorería estarán vige
 
 Si existiere algún crédito por concepto de contribuciones por mejoras a favor del Estado o el Municipio, con fecha de vencimiento para el pago posterior a la fecha de la firma de la escritura, y el adquirente acepta o consiente dicho crédito los Notarios lo harán constar en el instrumento público.
 
-> <small>(REFORMADO, G.O. 5 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 136.
 
-El impuesto al que se refiere el presente Capítulo se causará, liquidará y aplicando a la base gravable determinada la tasa del uno y medio por ciento.
+El impuesto al que se refiere el presente Capítulo se causará, liquidará y pagará aplicando a la base gravable determinada la tasa del dos por ciento.
 
 ###### Artículo 137.
 
@@ -5080,3 +5082,11 @@ G.O. 10 DE MARZO DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
+
+G.O. 7 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 732 QUE REFORMA EL ARTÍCULO 136 DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ”.]
+
+Primero. El presente Decreto entrará en vigor el día Primero del Mes de Enero del Año Dos Mil Veinticuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
