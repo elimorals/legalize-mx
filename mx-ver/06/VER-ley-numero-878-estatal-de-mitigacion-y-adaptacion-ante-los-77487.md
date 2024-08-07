@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-878-estatal-de-mitigacion-y-adaptacion-ante-los-7748
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-03"
-last_updated: "2013-07-02"
+last_updated: "2024-08-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77487&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 878 ESTATAL DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2024.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el miércoles 3 de noviembre de 2010.
 
@@ -119,7 +119,9 @@ Para enfrentar los retos del cambio climático, se atenderán de manera priorita
 
 I. En materia de protección civil, en los mapas de riesgo, se considerarán los escenarios de vulnerabilidad;
 
-II. En materia de seguridad agroalimentaria, se impulsará la investigación de posibles escenarios climáticos, para ubicar cultivos prioritarios o señalar la oportunidad de cambio de cultivos o del método de beneficiarlos;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2024)</small>
+
+II. En materia de seguridad agroalimentaria, se impulsará la investigación de posibles escenarios climáticos, para ubicar cultivos prioritarios o señalar la oportunidad de cambio de cultivos o del método de beneficiarlos, privilegiando el rescate de cultivo de temporal y medio ambiente idóneo;
 
 III. Se implementará un Plan Estatal de Ordenamiento Ecológico Territorial y Desarrollo Urbano que considere los efectos del cambio climático;
 
@@ -377,11 +379,11 @@ La Secretaría coordinará las acciones de las dependencias y entidades de la Ad
 
 La Secretaría será responsable de elaborar y publicar un reporte anual sobre los niveles de emisiones de los gases de efecto invernadero en el Estado, así como de las acciones realizadas en el año por el gobierno estatal en materia de adaptación y mitigación del cambio climático.
 
-> <small>(REFORMADO, G.O. 2 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 7 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 18.
 
-La Secretaría apoyará y asesorará a los municipios que lo soliciten, en la formulación, ejecución y operación de sus programas de atención al cambio climático.
+La Secretaría apoyará y asesorará a los municipios que lo soliciten, en la formulación, ejecución y operación de sus programas de atención al cambio climático y seguridad alimentaria como consecuencia de éste.
 
 ###### Artículo 19.
 
@@ -427,7 +429,9 @@ Cuando se tratare de fuentes emisoras de competencia federal, el reporte se soli
 
 Para enfrentar los retos de la adaptación, se observarán los siguientes criterios:
 
-I. Corregir o aminorar los desequilibrios generados por el cambio climático, que deterioren la calidad de vida de la población o que tengan un impacto negativo en el desarrollo de los ecosistemas;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2024)</small>
+
+I. Corregir o aminorar los desequilibrios generados por el cambio climático, que deterioren la calidad de vida de la población o que tengan un impacto negativo en el desarrollo de los ecosistemas y en los cultivos que en ellos se producen;
 
 II. Considerar los escenarios actuales y futuros de cambio climático en la planeación territorial, evitando los impactos negativos en la calidad de vida de la población, la infraestructura, las diferentes actividades productivas y de servicios, los asentamientos humanos y los recursos naturales; y
 
@@ -471,7 +475,9 @@ XV. El otorgamiento de licencias y permisos en materia de evaluación de impacto
 
 Las dependencias y entidades de la Administración Pública Estatal, los municipios y la sociedad en general llevarán a cabo las políticas y acciones de la Estrategia Estatal, atendiendo de manera prioritaria lo siguiente:
 
-I. La protección de la vida humana y la infraestructura;
+> <small>(REFORMADA, G.O. 7 DE AGOSTO DE 2024)</small>
+
+I. La protección de la vida humana, el medio ambiente y la infraestructura;
 
 II. La prevención y atención a riesgos climáticos;
 
@@ -588,3 +594,19 @@ G.O. 2 DE JULIO DE 2013.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 7 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 730 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO, DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL Y DEL CÓDIGO PENAL, TODOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se concede un plazo de sesenta días, contado a partir del inicio de la vigencia del presente Decreto, a efecto de que realicen las modificaciones necesarias a que haya lugar para el puntual cumplimiento del mismo.
