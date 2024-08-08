@@ -4,7 +4,7 @@ identifier: "COL-ley-de-pensiones-de-los-servidores-publicos-del-estado-de-13068
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-28"
-last_updated: "2022-05-28"
+last_updated: "2024-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2024.
 
 Ley publicada en la Edición Especial Extraordinaria del Periódico Oficial del Estado de Colima, el viernes 28 de septiembre de 2018.
 
@@ -2287,6 +2287,14 @@ DE LAS PENSIONES DE INVALIDEZ Y FALLECIMIENTO POR CAUSAS AJENAS AL TRABAJO PARA 
 
 Artículo Cuadragésimo Segundo. La declaración de invalidez para los trabajadores de educación será realizada directamente por el Instituto, siendo este mismo quien ordene los reconocimientos médicos, quién suspenda las pensiones o las revoque.
 
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2024)</small>
+
+Artículo Cuadragésimo Tercero. Las y los Magistrados del Supremo Tribunal de Justicia del Estado de Colima que opten por incorporarse al Programa Temporal de Retiro Voluntario en las condiciones y términos contemplados en sus artículos Vigésimo Quinto, Vigésimo Sexto y Vigésimo Séptimo transitorios de su Ley Orgánica, y que cumplan con los requisitos citados en dicha Ley y en la presente, tendrán derecho a lo siguiente:
+
+a) En el caso de pensión por jubilación, al aprobarse la misma por el Instituto de Pensiones de los Servidores Públicos del Estado de Colima en los términos previstos en esta Ley, además, se harán acreedores, a una prestación económica adicional hasta igualarse al 100% el monto de su remuneración que percibían en la magistratura al momento de aprobarse aquella. Citada cantidad que tendrá la temporalidad y efectos que la pensión decretada.
+
+b) En el caso de pensión por vejez, o por retiro anticipado en edad avanzada, al aprobarse la misma por el Instituto de Pensiones de los Servidores Públicos del Estado de Colima en los términos previstos en esta Ley, además, se harán acreedores, a una prestación económica adicional en forma proporcional, con la finalidad de que ésta se tome como referencia para fijar el porcentaje del monto de la pensión que corresponda en cada caso. Citada cantidad que tendrá la temporalidad y efectos que la pensión decretada.
+
 El Gobernador del Estado dispondrá se publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo a los veintisiete días del mes de septiembre del año dos mil dieciocho.
@@ -2366,3 +2374,17 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente a su publicaci
 SEGUNDO.- La Titular del Ejecutivo del Estado dentro de los ciento ochenta días siguientes a la entrada en vigor del presente decreto, adecuará el reglamento de la Ley de Pensiones de los Servidores Públicos del Estado de Colima, con respecto al contenido del presente decreto.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 8 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 479.- POR EL QUE SE ADICIONA EL ARTÍCULO CUADRAGÉSIMO TERCERO TRANSITORIO A LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA; ADEMÁS, SE ADICIONAN LOS ARTÍCULOS VIGÉSIMO QUINTO, VIGÉSIMO SEXTO Y VIGÉSIMO SÉPTIMO TRANSITORIOS A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Lo previsto en el presente decreto, será aplicable únicamente a las magistradas y magistrados propietarios que, a la entrada en vigor del presente decreto, se encuentren en funciones.
+
+TERCERO. En caso de que, en el presente ejercicio presupuestal, se actualice el supuesto previsto en la presente reforma, el Supremo Tribunal de Justicia del Estado de Colima deberá realizar las adecuaciones presupuestales que correspondan, para generar la suficiencia presupuestaria para la entrega de la prestación económica prevista en el presente decreto, las cuales deberán ser informadas a la Secretaría de Planeación, Finanzas y Administración.
+
+CUARTO. Para los ejercicios presupuestales subsecuentes necesariamente el Supremo Tribunal de Justicia del Estado de Colima deberá contemplar lo conducente, en los respectivos Anteproyectos de Presupuesto de Egresos.
+
+QUINTO. El Poder Ejecutivo Estatal y el Congreso del Estado, anualmente, deberán tomar en cuenta lo anterior al aprobar el Presupuesto de Egresos del Poder Judicial, a fin de garantizar debidamente la suficiencia presupuestaria correspondiente para cubrir las prestaciones señaladas en el presente decreto.
