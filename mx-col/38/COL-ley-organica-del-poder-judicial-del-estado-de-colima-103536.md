@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-103536"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-08"
-last_updated: "2022-06-25"
+last_updated: "2024-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 8 de noviembre de 2014.
 
@@ -5109,6 +5109,34 @@ Así como de conformidad con lo dispuesto por el artículo SEGUNDO TRANSITORIO d
 
 VIGÉSIMO CUARTO. Se faculta al Pleno del Supremo Tribunal de Justicia para que, atendiendo a la urgencia de poner en marcha la implementación del nuevo sistema de justicia penal acusatorio en la entidad, en forma provisional o bajo la modalidad que el citado órgano colegiado determine, se establezcan los lineamientos que se consideren oportunos para que los interesados en ocupar los cargos vinculados con la referida implementación, sean designados en esos cargos, en tanto, se efectúe la aplicación de las evaluaciones correspondientes o se lleven a cabo los concursos de oposición a que se refiere la presente Ley en el caso de los servidores públicos de carrera judicial; y respecto a los administrativos, se implementen las evaluaciones que se estimen oportunas a fin de garantizar el ingreso, la idoneidad y permanencia de los citados operadores.
 
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2024)</small>
+
+DEL PROGRAMA TEMPORAL DE PENSIONES DE LAS Y LOS MAGISTRADOS DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO DE COLIMA
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2024)</small>
+
+VIGÉSIMO QUINTO. Se crea el Programa Temporal de Retiro Voluntario única y exclusivamente para las y los Magistrados del Supremo Tribunal de Justicia del estado de Colima; mediante de (sic) la figura de pensiones por jubilación, vejez y retiro anticipado en edad avanzada, según corresponda, en términos de lo dispuesto en el presente artículo transitorio y siguientes, y de lo previsto en el diverso Artículo Cuadragésimo Tercero transitorio de la Ley de Pensiones de los Servidores Públicos del Estado de Colima, que cumplan con los siguientes requisitos:
+
+a) Que a la entrada en vigor del presente decreto se encuentren en funciones como Magistradas y Magistrados Propietarios; y
+
+b) Que hayan cumplido a la fecha, o que cumplan con los requisitos para acceder a una pensión por jubilación, por vejez o por retiro en edad avanzada, según corresponda, en términos de lo que dispone la Ley de Pensiones de los Servidores Públicos del Estado de Colima, a partir de que entre en vigor el presente decreto y hasta el día 31 de julio de 2027.
+
+Las y los magistrados propietarios que opten por acogerse al presente programa, deberán cumplir con los requisitos correspondientes, y manifestar expresamente su voluntad de incorporarse al mismo y atender lo señalado en el Artículo Cuadragésimo Tercero transitorio de la Ley de Pensiones de los Servidores Públicos del Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2024)</small>
+
+VIGÉSIMO SEXTO. A las y los Magistrados que cumplan con los requisitos para pensionarse establecidos en la Ley de Pensiones de los Servidores Públicos del Estado de Colima, y que se acojan al programa señalado en el artículo transitorio que antecede, se les deberá aprobar con cargo al propio Presupuesto de Egresos del Poder Judicial del Estado de Colima una prestación económica adicional en forma proporcional en los términos señalados en el artículo transitorio Cuadragésimo Tercero de la Ley de Pensiones de los Servidores Públicos del Estado de Colima, según corresponda en cada caso.
+
+Dichos pagos, surtirán sus efectos a partir de que el Instituto de Pensiones de los Servidores Públicos del Estado de Colima haya determinado en los términos de Ley, la pensión que corresponda en cada caso; y en ningún caso la suma de ambos conceptos deberá superar la remuneración que como activos percibieran las personas que desempeñen las magistraturas que se pensionen al momento de determinarse la misma.
+
+La suma conjunta de ambas prestaciones, tendrá la misma temporalidad y efectos de actualización que la pensión decretada por (sic) Instituto de Pensiones de los Servidores Públicos del Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2024)</small>
+
+VIGÉSIMO SÉPTIMO. Las y los Magistrados que se encuentren dentro de cualquiera de las hipótesis previstas en los dos artículos transitorios que anteceden, y que opten por incorporarse a dicho programa en el presente año 2024, deberán, desde la entrada en vigor del presente decreto, informar por escrito a la Oficialía Mayor del Poder Judicial del Estado y al Instituto de Pensiones de los Servidores Públicos del Estado de Colima, su voluntad de incorporarse al citado programa, para efectos de que se tomen las previsiones tanto administrativas como financieras que correspondan.
+
+Por lo que se refiere a las y los Magistrados que deseen incorporarse en los años subsecuentes 2025, 2026 y 2027, los mismos, deberán informar a las áreas señaladas en el párrafo que antecede, a más tardar el día 31 de julio del año inmediato anterior, respectivamente, a fin de que ello pueda ser considerado en el Anteproyecto de Presupuesto de Egresos que remita el Ente Judicial a la Secretaría de Planeación, Finanzas y Administración, y con ello, se tomen las previsiones administrativas y financieras que correspondan.
+
 El Gobernador del Estado dispondrá se publique, circule y observe."
 
 Las Comisiones que suscribe solicitamos que de ser aprobado el presente dictamen, se emita el decreto correspondiente.
@@ -5516,3 +5544,17 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. La observancia del principio constitucional de paridad de género a que hace referencia el último párrafo del artículo 4 de esta Ley, será aplicable a su integración y designación de manera progresiva a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con esta Ley.
 
 TERCERO. El Pleno del Supremo Tribunal de Justicia contará con un plazo de 180 días naturales para reformar los reglamentos del Poder Judicial afecto (sic) de armonizar el principio constitucional de paridad instituido en la presente Ley.
+
+P.O. 8 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 479.- POR EL QUE SE ADICIONA EL ARTÍCULO CUADRAGÉSIMO TERCERO TRANSITORIO A LA LEY DE PENSIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE COLIMA; ADEMÁS, SE ADICIONAN LOS ARTÍCULOS VIGÉSIMO QUINTO, VIGÉSIMO SEXTO Y VIGÉSIMO SÉPTIMO TRANSITORIOS A LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Lo previsto en el presente decreto, será aplicable únicamente a las magistradas y magistrados propietarios que, a la entrada en vigor del presente decreto, se encuentren en funciones.
+
+TERCERO. En caso de que, en el presente ejercicio presupuestal, se actualice el supuesto previsto en la presente reforma, el Supremo Tribunal de Justicia del Estado de Colima deberá realizar las adecuaciones presupuestales que correspondan, para generar la suficiencia presupuestaria para la entrega de la prestación económica prevista en el presente decreto, las cuales deberán ser informadas a la Secretaría de Planeación, Finanzas y Administración.
+
+CUARTO. Para los ejercicios presupuestales subsecuentes necesariamente el Supremo Tribunal de Justicia del Estado de Colima deberá contemplar lo conducente, en los respectivos Anteproyectos de Presupuesto de Egresos.
+
+QUINTO. El Poder Ejecutivo Estatal y el Congreso del Estado, anualmente, deberán tomar en cuenta lo anterior al aprobar el Presupuesto de Egresos del Poder Judicial, a fin de garantizar debidamente la suficiencia presupuestaria correspondiente para cubrir las prestaciones señaladas en el presente decreto.
