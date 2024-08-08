@@ -4,7 +4,7 @@ identifier: "ROO-ley-del-servicio-de-administracion-tributaria-del-estado-de-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-31"
-last_updated: "2024-07-24"
+last_updated: "2024-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 31 de diciembre de 2018.
 
@@ -57,13 +57,13 @@ II. Establecer las facultades y atribuciones del órgano desconcentrado señalad
 
 III. Estructurar las bases para obtener la información necesaria para el diseño, construcción y evaluación de la política tributaria en el Estado de Quintana Roo.
 
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 2.
 
-El Servicio de Administración Tributaria del Estado de Quintana Roo; por su naturaleza para la realización de los actos de su encargo, tiene la personalidad jurídica del Estado y utiliza el patrimonio que se le asigne. Tiene el carácter de autoridad fiscal.
+El Servicio de Administración Tributaria del Estado de Quintana Roo, por su naturaleza para la realización de los actos de su encargo, tiene la personalidad jurídica del Estado y utiliza el patrimonio que se le asigne. Tiene el carácter de autoridad fiscal y aduanera.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 2024)</small>
-
-El Servicio de Administración Tributaria del Estado de Quintana Roo tiene la responsabilidad de aplicar y vigilar el cumplimiento de las leyes y códigos fiscales federales y del Estado de Quintana Roo, la Ley de Valuación para el Estado de Quintana Roo y su reglamento, convenios de colaboración administrativa y demás disposiciones relativas.
+El Servicio de Administración Tributaria del Estado de Quintana Roo tiene la responsabilidad de aplicar y vigilar el cumplimiento de las leyes y códigos fiscales federales, y del Estado de Quintana Roo, la Ley de Valuación para el Estado de Quintana Roo y su reglamento, así como de la Ley Aduanera, su Reglamento, Ley de los Impuestos Generales de Importación y de Exportación, las Reglas Generales de Comercio Exterior, la Ley de Comercio Exterior y toda aquella legislación que en su conjunto deba ser aplicada a fin de ejercer sus facultades, inclusive las delegadas en los convenios de coordinación fiscal federal y los Convenios de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos, así como demás disposiciones relativas.
 
 ###### Artículo 3.
 
@@ -99,7 +99,9 @@ I. Prestar servicios de asistencia al contribuyente y las demás atribuciones qu
 
 II. Recaudar, controlar y cobrar los impuestos, derechos, contribuciones de mejoras, aprovechamientos, productos estatales, federales y municipales coordinados, realizar el cobro persuasivo y coactivo; la defensa jurídica de los intereses de la hacienda pública del Estado, así como de la Federación y de los municipios cuando se trate de convenios de colaboración administrativa suscritos entre el Estado y la Federación o Municipios, respectivamente;
 
-III. Ejercer las facultades de comprobación establecidas en el Código Fiscal de la Federación y el Código Fiscal del Estado;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+III. Ejercer las facultades de comprobación establecidas en el Código Fiscal de la Federación y el Código Fiscal del Estado, así como decretar el embargo precautorio de las mercancías y de los vehículos, excepto aeronaves, ferrocarriles y embarcaciones, en términos del artículo 151 de la Ley Aduanera, así como iniciar el procedimiento administrativo en materia aduanera o el procedimiento establecido en el artículo 152 de la Ley Aduanera, y demás facultades contenidas en el Convenio de Colaboración Administrativa en Materia Fiscal Federal respectivo y sus Anexos.
 
 IV. Aplicar y vigilar el debido cumplimiento de la legislación fiscal y demás ordenamientos correlacionados del Estado, la Federación y los municipios coordinados, con el fin de que las personas físicas y morales contribuyan proporcional y equitativamente al gasto público;
 
@@ -145,9 +147,11 @@ El domicilio del SATQ será en la Ciudad de Chetumal, Municipio de Othón P. Bla
 
 El SATQ establecerá módulos de atención a contribuyentes en lugares estratégicos y centros comerciales, pudiendo celebrar convenios de colaboración para el cobro de contribuciones estatales y federales coordinadas en tiendas y supermercados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 8.
 
-El SATQ vigilará el cumplimiento de las obligaciones fiscales de los Contribuyentes obligados conforme a las leyes fiscales del Estado, de la Federación y de los municipios coordinados, que deberán realizar el pago de las contribuciones a su cargo en las oficinas destinadas a la recaudación, módulos de servicios electrónicos y demás establecimientos autorizados por el SATQ para este efecto, utilizando los medios de pago establecidos en el Código Fiscal de la Federación o el Código Fiscal del Estado de Quintana Roo, respectivamente.
+El SATQ vigilará el cumplimiento de las obligaciones fiscales y Aduaneras de los contribuyentes obligados conforme a las leyes fiscales del Estado, de la Federación y de los municipios coordinados, que deberán realizar el pago de las contribuciones a su cargo, en las oficinas destinadas a la recaudación, módulos de servicios electrónicos y demás establecimientos autorizados por el SATQ, para este efecto, utilizando los medios de pago establecidos en el Código Fiscal de la Federación o el Código Fiscal del Estado de Quintana Roo, respectivamente.
 
 Las contribuciones Federales y Municipales coordinadas recaudadas por el SATQ, serán identificadas, conciliadas y entregadas diariamente a la SEFIPLAN, de manera íntegra y sin retención alguna.
 
@@ -179,7 +183,9 @@ El SATQ tiene las atribuciones normativas, de política tributaria, asistencia a
 
 I. Celebrar acuerdos interinstitucionales y convenios en el ámbito de su competencia;
 
-II. Fungir como órgano de consulta del gobierno del Estado en materia fiscal;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+II. Fungir como órgano de consulta del Gobierno del Estado en materia fiscal y aduanera;
 
 III. Emitir las disposiciones fiscales de carácter general necesarias para el ejercicio eficaz de sus facultades, con apego a las normas vigentes;
 
@@ -199,7 +205,9 @@ X. Participar en la celebración de convenios de colaboración administrativa en
 
 XI. Ejercer aquellas facultades que en materia de coordinación fiscal correspondan a la administración tributaria y ejecutar, en el ámbito de su competencia, las acciones derivadas de los convenios de coordinación fiscal federal y de los convenios con los municipios;
 
-XII. Fungir como órgano de consulta en materia fiscal de los municipios del Estado, de conformidad con los convenios de coordinación fiscal que se celebren;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XII. Fungir como órgano de consulta en materia fiscal y aduanera de los municipios del Estado, de conformidad con los convenios de coordinación fiscal que se celebren;
 
 XIII. Proporcionar el servicio de asistencia al contribuyente, realizando los siguientes actos:
 
@@ -223,7 +231,9 @@ XVI. Recaudar las contribuciones estatales, federales y municipales coordinadas,
 
 a. Recaudar los ingresos por impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y demás contribuciones que establezcan las leyes del Estado, incluidos sus accesorios, así como las que se deriven de los convenios con los municipios, y
 
-b. Recaudar los ingresos federales coordinados, sean impuestos, derechos o contribuciones de mejoras, sus accesorios o cualquier otro ingreso, así como los productos o aprovechamientos, que correspondan al Estado o a sus municipios, de acuerdo con los convenios de coordinación fiscal federal.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE AGOSTO DE 2024)</small>
+
+b. Recaudar los ingresos federales coordinados, sean impuestos, derechos o contribuciones de mejoras, sus accesorios o cualquier otro ingreso, así como los productos o aprovechamientos, que correspondan al Estado o a sus municipios, de acuerdo con los convenios de coordinación fiscal federal y los Convenios de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos.
 
 No se incluyen en los ingresos que se perciban de la Federación, las participaciones, aportaciones y convenios en los términos de la Ley de Coordinación Fiscal.
 
@@ -237,15 +247,23 @@ XX. Tramitar, autorizar o negar, conforme a las disposiciones fiscales aplicable
 
 XXI. Autorizar el pago diferido o en parcialidades, de los créditos fiscales cuyo cobro le corresponda al SATQ, previa garantía del interés fiscal;
 
-XXII. Vigilar el debido cumplimiento de las disposiciones fiscales del Estado, de la Federación y de los municipios, estos dos últimos derivados de los convenios de colaboración administrativa en materia fiscal y ejercer sus facultades de comprobación a los contribuyentes, responsables solidarios y terceros con ellos relacionados;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
 
-XXIII. Requerir y allegarse de la información necesaria para determinar el correcto cumplimiento de las obligaciones fiscales de los contribuyentes, en relación con la causación, determinación y pago establecidos en las normas fiscales respectivas;
+XXII. Vigilar el debido cumplimiento de las disposiciones fiscales y aduaneras del Estado, de la Federación y de los municipios, estos dos últimos derivados de los convenios de colaboración administrativa en materia fiscal y ejercer sus facultades de comprobación a los contribuyentes, responsables solidarios y terceros con ellos relacionados;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XXIII. Requerir y allegarse de la información necesaria para determinar el correcto cumplimiento de las obligaciones fiscales y aduaneras, de los contribuyentes, en relación con la causación, determinación y pago establecidos en las normas fiscales y aduaneras respectivas;
 
 XXIV. Verificar la existencia de los marbetes y los precintos que los contribuyentes deban utilizar cuando las leyes fiscales los obliguen, de acuerdo con los Convenios de Coordinación Fiscal Federal;
 
-XXV. Determinar y aplicar las sanciones establecidas en el Código Fiscal del Estado y de la Federación que corresponda;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
 
-XXVI. Determinar, mediante resolución administrativa fundada y motivada, las contribuciones o aprovechamientos omitidos, su actualización, sus accesorios y las sanciones a cargo de los contribuyentes, responsables solidarios y demás sujetos obligados;
+XXV. Determinar y aplicar las sanciones establecidas en el Código Fiscal del Estado, de la Federación y en las disposiciones aduaneras que correspondan;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XXVI. Determinar, mediante resolución administrativa fundada y motivada, las contribuciones, aprovechamientos omitidos, precios estimados, cuotas compensatorias, su actualización, recargos o sus accesorios, el incumplimiento de regulaciones y restricciones no arancelarias, las normas oficiales mexicanas así como otras medidas que se establezcan y las sanciones a cargo de los contribuyentes, responsables solidarios y demás sujetos obligados;
 
 XXVII. Emitir las resoluciones por las que se determine la responsabilidad solidaria respecto del pago de contribuciones por impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y en general por cualquier crédito fiscal, respecto a contribuciones estatales;
 
@@ -259,9 +277,13 @@ El SATQ, a través de la Unidad de Inteligencia Financiera, deberá elaborar inf
 
 XXX. Otorgar y revocar los registros para emitir dictámenes en materia de contribuciones estatales, así como imponer las sanciones que procedan a quienes emitan los mismos en contravención a las disposiciones legales y reglamentarias aplicables;
 
-XXXI. Llevar a cabo el procedimiento administrativo de ejecución para hacer efectivos los créditos de naturaleza fiscal o constituidos por otras normas como créditos fiscales, así como los aprovechamientos, a cargo de los contribuyentes, responsables solidarios, retenedores, recaudadores o cualquier otro deudor, incluido el remate o adjudicación de bienes y enajenar fuera de remate, en términos de las disposiciones fiscales estatales o federales y, en su caso, de los convenios de colaboración administrativa en materia fiscal federal o convenios con los municipios;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
 
-XXXII. Ordenar la suspensión del procedimiento administrativo de ejecución, cuando proceda conforme a las disposiciones fiscales estatales o federales aplicables y los convenios de colaboración administrativa en materia fiscal federal o convenios con los municipios;
+XXXI. Llevar a cabo el procedimiento administrativo de ejecución para hacer efectivos los créditos de naturaleza fiscal, aduanera o constituidos por otras normas como créditos fiscales, así como los aprovechamientos, a cargo de los contribuyentes, responsables solidarios, retenedores, recaudadores o cualquier otro deudor, incluido el remate o adjudicación de bienes y enajenar fuera de remate, en términos de las disposiciones fiscales estatales o federales y, en su caso, de los convenios de colaboración administrativa en materia fiscal federal o convenios con los municipios;
+
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XXXII. Ordenar la suspensión del procedimiento administrativo de ejecución, cuando proceda conforme a las disposiciones fiscales estatales, federales y aduaneras, aplicables y los convenios de colaboración administrativa en materia fiscal federal o convenios con los municipios;
 
 XXXIII. Realizar los actos jurídicos necesarios para la defensa del interés fiscal de la Hacienda Pública del Estado, de la Federación y de los municipios, estos dos últimos derivados de los convenios de colaboración administrativa en materia fiscal;
 
@@ -597,17 +619,21 @@ XXXII. Elaborar los proyectos de inversión que impulsen el cumplimiento de los 
 
 XXXIII. Fungir como enlace entre el SATQ y las administraciones públicas federal, estatales y municipales en los asuntos vinculados con la materia fiscal y los convenios de colaboración administrativa;
 
-XXXIV. Proporcionar la asesoría en materia fiscal y cooperación técnica, que le sea requerida por dependencias, organismos y entidades de la administración pública del Estado, de acuerdo con las leyes, reglamentos y demás normatividad que le sea aplicable;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XXXIV. Proporcionar la asesoría en materia fiscal y aduanera, además de cooperación técnica, que le sea requerida por dependencias, organismos y entidades de la administración pública del Estado, de acuerdo con las leyes, reglamentos y demás normatividad que le sea aplicable;
 
 XXXV. Realizar el análisis de resultados obtenidos en la recaudación de las contribuciones estatales y elaborar conjuntamente con los titulares de las áreas responsables y con el apoyo de las áreas jurídica y de organización y métodos, la propuesta de reglas de carácter general en materia fiscal, que establezcan estímulos y otorguen facilidades administrativas, relacionadas con los sectores de producción y desarrollo social del Estado y proponer a la Junta de Gobierno para su aprobación y gestión con las Instancias correspondientes;
 
 XXXVI. Proponer a la Junta de Gobierno para su aprobación, los procedimientos de pagos diferidos y en parcialidades utilizados en el SATQ;
 
-XXXVII. Participar como autoridad fiscal del gobierno del Estado de Quintana Roo, en los organismos del Servicio de Administración Tributaria, de la Secretaria de Hacienda y Crédito Público y del Sistema Nacional de Coordinación Fiscal, en los términos de las facultades conferidas en esta Ley;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+XXXVII. Participar como autoridad fiscal y aduanera del Gobierno del Estado de Quintana Roo, en los organismos del Servicio de Administración Tributaria, de la Secretaría de Hacienda y Crédito Público y del Sistema Nacional de Coordinación Fiscal, en los términos de las facultades conferidas en esta Ley;
 
-XXXVIII. Solicitar y obtener de las dependencias y entidades que integran la administración pública del Estado de Quintana Roo y de los Municipios, la información de las personas físicas y morales que sea necesaria para corroborar el cumplimiento de las obligaciones fiscales estatales y, en su caso, municipales y federales coordinadas;
+> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XXXVIII. Solicitar y obtener de las dependencias y entidades que integran la administración pública del Estado de Quintana Roo y de los Municipios, la información de las personas físicas y morales que sea necesaria para corroborar el cumplimiento de las obligaciones fiscales estatales y, en su caso, municipales y federales coordinadas, incluyendo las aduaneras;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
@@ -617,13 +643,37 @@ XXXIX. Representar legalmente al titular de la Secretaria de Finanzas y Planeaci
 
 XL. Practicar revisiones electrónicas a los contribuyentes, responsables solidarios o terceros con ellos relacionados, basándose en el análisis de la información y documentación que obre en poder de la autoridad, sobre uno o más rubros o conceptos específicos de una o varias contribuciones;
 
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2024)</small>
+
+Practicar revisiones, auditorías y llevar a cabo las acciones necesarias para verificar el cumplimiento de las obligaciones fiscales y aduaneras derivadas de la introducción al territorio nacional de mercancías, así como de los vehículos de procedencia extranjera, excepto aeronaves, ferrocarriles y embarcaciones, así como de su legal almacenaje, estancia o tenencia, transporte o manejo en el país cuando circulen en su territorio y, en su caso, la determinación de créditos fiscales, decretar el embargo precautorio de las mercancías y de los vehículos, excepto aeronaves, ferrocarriles y embarcaciones, en términos del artículo 151 de la Ley Aduanera, así como iniciar el procedimiento administrativo en materia aduanera o el procedimiento establecido en el artículo 152 de la misma Ley, de acuerdo con lo señalado en las disposiciones jurídicas federales aplicables, Convenios de Colaboración Administrativa en Materia Fiscal Federal y sus Anexos.
+
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
 XLI. Ejecutar los acuerdos por los que se otorguen subsidios o estímulos fiscales, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE AGOSTO DE 2024)</small>
 
-XLII. Todas aquellas que correspondan al SATQ y no sean expresamente atribuibles a la Junta de Gobierno y las demás que establezca el Reglamento.
+XLII. Emitir las reglas de carácter general para establecer el sistema y los formatos para la presentación de los avalúos que realicen los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XLIII. Integrar y mantener actualizado el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XLIV. Convocar, previo curso correspondiente, a los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales, a efecto de que presenten el examen correspondiente;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XLV. Revisar y validar los avalúos que emitan los peritos valuadores inscritos en el Registro Estatal de Peritos Inmobiliarios para Fines Fiscales, a excepción de lo previsto en el artículo 15-E del Código Fiscal del Fiscal del Estado de Quintana Roo;
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XLVI. Sancionar a los peritos valuadores inscritos en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales conforme a lo previsto en la Ley de Valuación del Estado de Quintana Roo, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE AGOSTO DE 2024)</small>
+
+XLVII. Todas aquellas que correspondan al SATQ y no sean expresamente atribuibles a la Junta de Gobierno y las demás que establezca el Reglamento.
 
 ###### Artículo 24.
 
@@ -748,6 +798,10 @@ XI. Mejorar los estándares de calidad en atención al público y reducción en 
 XII. Incremento en el comportamiento del indicador de la cultura contributiva, observada con motivo de los actos de administración tributaria.
 
 El cumplimiento de las metas del programa anual de mejora continua contribuye a mejorar la planeación y programación del objeto del SATQ, conjuntamente con los resultados observados en los indicadores de desempeño obtenidos del Programa Institucional de Administración Tributaria y los programas presupuestarios.
+
+> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2024)</small>
+
+XIII. Combate a la introducción ilegal de mercancías y vehículos al territorio nacional y a la economía informal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
@@ -974,3 +1028,11 @@ QUINTO. La Secretaría de Finanzas y Planeación, a través del Servicio de Admi
 SEXTO. Por única ocasión, los peritos valuadores con inscripción vigente en el Registro Estatal de Peritos Valuadores, en la especialidad prevista en el artículo 18, fracción I, de la Ley de Valuaciones para el Estado de Quintana Roo, podrán presentar, dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este decreto, en formato libre, su solicitud de inscripción en el Registro Estatal de Peritos Valuadores Inmobiliarios para Fines Fiscales ante el Servicio de Administración Tributaria del Estado de Quintana Roo anexando la constancia de inscripción vigente al Registro Estatal de Peritos Valuadores, emitida por la Secretaría de Gobierno.
 
 SÉPTIMO. Se abroga el Decreto 222 por el que se reforma el artículo primero transitorio del "Decreto número 173, expedido por la Honorable XVII Legislatura del Estado Libre y Soberano de Quintana Roo, por el que se adiciona un párrafo segundo y un párrafo tercero al artículo 24 de la Ley de Hacienda del Estado de Quintana Roo, publicado en el Periódico Oficial del Estado de Quintana Roo en fecha 21 de diciembre de 2023", publicado en el Periódico Oficial del Estado en fecha 24 de abril de 2024.
+
+P.O. 8 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO DE ADMINISTRACION TRIBUTARÍA DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto, la persona Titular del Poder Ejecutivo del Estado y el Servicio de Administración Tributaria del Estado de Quintana Roo, en el ámbito de sus atribuciones deberán llevar a cabo la armonización a su Reglamento y sus manuales de organización y de procedimientos, conforme a lo establecido en el presente Decreto.
