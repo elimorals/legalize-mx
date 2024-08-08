@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-coordinacion-fiscal-del-estado-de-quintana-roo-145928"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-21"
-last_updated: "2023-12-21"
+last_updated: "2024-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2024.
 
 Ley publicada en el Número 170 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 21 de diciembre de 2020.
 
@@ -137,9 +137,11 @@ III. Los ingresos propios de cada municipio, serán conforme a las últimas cifr
 
 IV. Partes iguales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 7.
 
-Para la determinación mensual de la distribución de las participaciones y los incentivos derivados de la colaboración fiscal federal previstas en el apartado A fracciones I, II, III, IV, V y VII y B fracciones I, II, III, y V, del artículo 4, se tomará como base el importe mensual pagado y publicado en el POE a cada municipio en el ejercicio fiscal 2011. En caso de que existan excedentes estos se aplicarán de acuerdo a los factores y fórmulas siguientes:
+Para la determinación mensual de la distribución de las participaciones y los incentivos derivados de la colaboración fiscal federal previstas en el apartado A fracciones I, II, III, IV y VII y apartado B fracciones I, II, III, y V, del artículo 4, se tomará como base el importe mensual pagado y publicado en el POE a cada municipio en el ejercicio fiscal 2011. En caso de que existan excedentes estos se aplicarán de acuerdo a los factores y fórmulas siguientes:
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 21 DE DICIEMBRE DE 2020, PÁGINA 65.]</small>
 
@@ -212,6 +214,12 @@ La base para la determinación de estos coeficientes será el importe de los rec
 De las cantidades que el Estado reciba por concepto del Impuesto Sobre la Renta por la Enajenación de Bienes Inmuebles en el Estado, corresponderá a los municipios el 20%, conforme a la fórmula siguiente:
 
 > <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 21 DE DICIEMBRE DE 2020, PAGINAS 72 Y 73.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA FÓRMULA EN EL P.O. DE 8 DE AGOSTO DE 2024, PÁGINA 10.]</small>
+
+> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2024)</small>
+
+20 % ISRBI 20% de la cantidad que el Estado reciba por concepto del Impuesto Sobre la Renta por la Enajenación de Bienes Inmuebles en el Estado.
 
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2022)</small>
 
@@ -680,3 +688,11 @@ PRIMERO. El presente Decreto entrará en vigor el primer día del mes de enero d
 SEGUNDO. En tanto los municipios permanezcan adheridos al Sistema Estatal de Coordinación Fiscal, quedarán en suspenso las contribuciones que se establezcan en los convenios de coordinación y colaboración administrativa que celebren en el Estado.
 
 TERCERO. Se derogan todas las disposiciones legales que se opongan al presente Decreto, de igual o inferior jerarquía.
+
+P.O. 8 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARÍA DEL ESTADO DE QUINTANA ROO Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En un plazo de ciento ochenta días naturales contados a partir de la vigencia del presente Decreto, la persona Titular del Poder Ejecutivo del Estado y el Servicio de Administración Tributaria del Estado de Quintana Roo, en el ámbito de sus atribuciones deberán llevar a cabo la armonización a su Reglamento y sus manuales de organización y de procedimientos, conforme a lo establecido en el presente Decreto.
