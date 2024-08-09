@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-de-los-servidores-publicos-del-instituto-163
 country: "mx"
 rank: "codigo"
 publication_date: "2023-01-18"
-last_updated: "2023-01-18"
+last_updated: "2024-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=163519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 9 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE CULTURA FÍSICA Y DEPORTE DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2024 (ABROGADO).
 
 Código publicado en el Número 9 del Periódico Oficial del Estado de Nuevo León, el miércoles 18 de enero de 2023.
 
@@ -408,3 +410,15 @@ Así lo acuerda y firma a los 11 días del mes de marzo del año 2022-dos mil ve
 EL C. DIRECTOR GENERAL DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE DE NUEVO LEÓN
 
 LIC. FRANCISCO HERMILO GONZALEZ ORTIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE CULTURA FISICA Y DEPORTE”.]
+
+PRIMERO.- Se abroga el Código de Conduta el INDE publicado en el Periódico Oficial del Estado el 18 de enero del 2023.
+
+SEGUNDO.- El presente código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO.- El presente documento, deberá ser difundido con la finalidad de hacerlo del conocimiento de los servidores públicos del Instituto Estatal de Cultura Física y Deporte.
