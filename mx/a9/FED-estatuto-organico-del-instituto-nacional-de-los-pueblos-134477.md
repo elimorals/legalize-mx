@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-los-pueblos-134477"
 country: "mx"
 rank: "estatuto"
 publication_date: "2019-03-20"
-last_updated: "2023-07-25"
+last_updated: "2024-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2019-03-04"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE AGOSTO DE 2024.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 20 de marzo de 2019.
 
@@ -231,9 +231,9 @@ XIV. Incorporar tecnologías que promuevan y fomenten la eficacia e impacto de l
 
 XV. Presentar a la Junta de Gobierno el informe anual sobre el desempeño de las funciones, los avances e impacto de las acciones del Instituto y de las dependencias y entidades de la Administración Pública Federal, estatal y municipal en materia de reconocimiento, protección e implementación de los derechos, así como el desarrollo de los pueblos indígenas y afromexicano y, en su caso, realizar las recomendaciones que correspondan;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 25 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2024)</small>
 
-XVI. Implementar e impartir educación en todos los asuntos relativos a los pueblos indígenas; elaborar planes y programas de estudio, así como expedir las constancias, certificados, diplomas, títulos y grados académicos que correspondan, con validez oficial, mediante las Unidades Administrativas que para tal efecto se establezcan, en particular, educación superior a través de la Dirección de Implementación de la Universidad de las Lenguas Indígenas de México, en coordinación con los pueblos indígenas y las instancias competentes, cuando así corresponda;
+XVI. Implementar e impartir educación en todos los asuntos relativos a los pueblos indígenas; elaborar planes y programas de estudio, así como expedir las constancias, certificados, diplomas, títulos y grados académicos que correspondan, con validez oficial, mediante las Unidades Administrativas que para tal efecto se establezcan, en coordinación con los pueblos indígenas y las instancias competentes, cuando así corresponda;
 
 > <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVI], D.O.F. 25 DE JULIO DE 2023)</small>
 
@@ -291,9 +291,7 @@ B. Oficinas de Representación en las Entidades Federativas, y
 
 C. Centros Coordinadores de Pueblos Indígenas.
 
-> <small>(ADICIONADO, D.O.F. 25 DE JULIO DE 2023)</small>
-
-Tendrá una Dirección de Implementación de la Universidad de las Lenguas Indígenas de México, como unidad administrativa responsable de impartir educación superior en los pueblos indígenas, en términos de lo dispuesto en el artículo 9, fracción XVI, del presente Estatuto.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 9 DE AGOSTO DE 2024)</small>
 
 Las Unidades Administrativas para el despacho de sus asuntos y ejercicio de sus atribuciones, podrán auxiliarse por el personal que se requiera para el desarrollo y cumplimiento de las mismas.
 
@@ -411,7 +409,9 @@ XII. Promover medidas para que los pueblos indígenas y afromexicano puedan adqu
 
 XIII. Coordinar y fortalecer el Sistema de Radiodifusoras Culturales Indígenas, emitir los criterios de programación radiofónica, incluida la producción de contenidos radiofónicos en lenguas indígenas con pertinencia cultural y articular la radiofonía institucional con los procesos de comunicación indígena;
 
-XIV. Coordinar con las instancias competentes, la realización de las medidas y acciones para el reconocimiento y la implementación de la educación indígena en todos sus tipos y niveles, así como participar en la elaboración de los planes y programas de estudio y materiales didácticos específicos dirigidos a los pueblos indígenas;
+> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2024)</small>
+
+XIV. Coordinar con las instancias competentes, la realización de las medidas y acciones para el reconocimiento y la implementación de la educación indígena en todos sus tipos y niveles, participar en el diseño y la construcción de propuestas de modelos educativos, planes y programas, mecanismos, instrumentos y acciones de educación indígena, con el objetivo de asegurar la pertinencia cultural en la enseñanza y garantizando la revitalización y fortalecimiento de las culturas y lenguas indígenas en un marco de pluriculturalidad y multilingüismo, así como impartir educación en los pueblos indígenas, en términos de lo dispuesto en el artículo 9, fracción XVI, del presente Estatuto, a través de las Unidades Administrativas que correspondan;
 
 XV. Dirigir las acciones necesarias para la atención integral e intercultural de la niñez, adolescencia y juventud indígena y afromexicana, tanto en sus regiones como fuera de ellas, en el sistema educativo formal, comunitario y en la infraestructura institucional de apoyo en la materia;
 
@@ -876,3 +876,11 @@ Segundo. En virtud de la asignación de competencias, los asuntos que, en su cas
 Tercero. El Director General del Instituto Nacional de los Pueblos Indígenas proveerá lo necesario para que el Manual General de Organización de dicho Instituto, corresponda a las disposiciones de su Estatuto Orgánico.
 
 Cuarto. En tanto entra en vigor el Manual General de Organización del Instituto Nacional de los Pueblos Indígenas, la Dirección de Implementación de la Universidad de las Lenguas Indígenas de México contará, además de las atribuciones y funciones señaladas en el presente Acuerdo, con las establecidas en el punto Tercero del "Acuerdo por medio del cual se instruye la realización de acciones para la creación y funcionamiento de la Universidad de las Lenguas Indígenas de México (ULIM)", lo anterior sin demérito de que el Director General de este Instituto emita las normas y disposiciones necesarias para la correcta operación del presente instrumento.
+
+D.O.F. 9 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, PUBLICADO EL DÍA 20 DE MARZO DE 2019”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. En virtud de la asignación de competencias, los asuntos que, en su caso, se encuentren en trámite a la fecha de publicación del presente Acuerdo serán atendidos y resueltos por las unidades administrativas del Instituto Nacional de los Pueblos Indígenas a las que se les asigne competencia en los mismos.
