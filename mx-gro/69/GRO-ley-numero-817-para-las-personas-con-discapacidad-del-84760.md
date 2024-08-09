@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-817-para-las-personas-con-discapacidad-del-84760"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-20"
-last_updated: "2022-02-08"
+last_updated: "2024-08-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 20 de diciembre de 2011.
 
@@ -55,13 +55,19 @@ De manera enunciativa y no limitativa, esta Ley reconoce a las personas con disc
 
 ### CAPÍTULO II. Definiciones
 
+(NOTA: EL 22 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 3.
 
-Persona con discapacidad es aquella que padece alguna deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social.
+PERSONA CON DISCAPACIDAD ES AQUELLA QUE PADECE ALGUNA DEFICIENCIA FÍSICA, MENTAL, DEL HABLA O SENSORIAL, YA SEA DE NATURALEZA PERMANENTE O TEMPORAL, QUE LIMITA LA CAPACIDAD DE EJERCER UNA O MÁS ACTIVIDADES ESENCIALES DE LA VIDA DIARIA, QUE PUEDE SER CAUSADA O AGRAVADA POR EL ENTORNO ECONÓMICO O SOCIAL.
 
 Se aceptan las tres clases de afectación o alteración que clasifica la Organización Mundial de la Salud como causantes de la discapacidad:
 
-l. Deficiencia: la pérdida o anormalidad de una estructura o de una función psicológica, fisiológica o anatómica, permanente o transitoria; y
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2024)</small>
+
+I. Deficiencia o trastorno: la pérdida, anormalidad o dificultad en una estructura o de una función psicológica, fisiológica, anatómica o del habla, permanente o transitoria.
 
 II. Discapacidad: cualquier restricción o impedimento de la capacidad de realizar una actividad en la forma o dentro del margen que se considera normal para el ser humano.
 
@@ -108,6 +114,10 @@ XVII. Secretaría: Secretaría de Desarrollo Social;
 XVIII. Convención Interamericana: La Convención Interamericana para la eliminación de todas las formas de discriminación contra las personas con discapacidad de la Organización de los Estados Americanos; y
 
 XIX. Convenio 159: Tratado sobre la readaptación profesional y el empleo de personas inválidas de la Organización Internacional del Trabajo.
+
+> <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2024)</small>
+
+XX. Tartamudez: Impedimento o alteración que presenta una persona, de la articulación de los movimientos precisos de la lengua, labios, mandíbula y el tracto bucal, en la producción de los sonidos requeridos para hablar o problemas con la calidad de la voz.
 
 ### CAPÍTULO III. De los Derechos de las Personas con Discapacidad
 
@@ -1164,3 +1174,13 @@ Remítase a la Maestra Evelyn Cecia Salgado Pineda, Titular del Poder Ejecutivo,
 ###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero y en la Gaceta Parlamentaria para conocimiento general.
+
+P.O. 9 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 843 POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO. Y SE DECLARA EL DÍA 22 DE OCTUBRE DE CADA AÑO, COMO "DÍA DE LA TARTAMUDEZ"".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Oficial del Poder Legislativo del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
