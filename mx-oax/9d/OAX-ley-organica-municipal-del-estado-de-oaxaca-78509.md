@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2023-09-30"
+last_updated: "2024-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -365,7 +365,9 @@ En los municipios donde se encuentren asentados pueblos indígenas, los ayuntami
 
 El Ayuntamiento constituye el Órgano de Gobierno del Municipio. Se asentará en la cabecera municipal. Entre el Ayuntamiento y el Gobierno del Estado no habrá autoridad intermedia alguna.
 
-Se deberán expedir por el Ayuntamiento, en ejercicio de las atribuciones previstas en la fracción I, del artículo 43, el reglamento interior del mismo, el reglamento del Cabildo, los manuales de procedimientos, así como las demás disposiciones legales y administrativas necesarias para su buena organización y funcionamiento.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Entre el Ayuntamiento y el Gobierno del Estado no habrá autoridad intermedia alguna. Se deberán expedir por el Ayuntamiento, en ejercicio de las atribuciones previstas en la fracción I, Apartado A, del artículo 43, el reglamento interior del mismo, el reglamento del Cabildo, los manuales de procedimientos, así como las demás disposiciones legales y administrativas necesarias para su buena organización y funcionamiento.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2019)</small>
 
@@ -2001,9 +2003,9 @@ d) Las garantías constituidas por disposición de la Ley o acuerdos de las auto
 
 e) El cobro de los tributos, recargos, intereses y multas federales o estatales cuando el Municipio por ley o convenio se haga cargo de la administración y recaudación de los mismos;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE AGOSTO DE 2024)</small>
 
-VI.- Proponer al Presidente Municipal en tiempo y forma los anteproyectos de la Ley de Ingresos y del Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez. Anteproyectos que, en último año del gobierno municipal, será el Presidente Municipal entrante quien los proponga en los términos establecidos por el artículo 43 fracción XXI de esta Ley.
+VI.- Proponer al Presidente Municipal en tiempo y forma los anteproyectos de la Ley de Ingresos y del Presupuesto de Egresos atendiendo a los principios constitucionales de austeridad, planeación, eficiencia, eficacia, economía, transparencia y honradez. Anteproyecto de Ley de Ingresos que, en el último año del gobierno municipal, será el Presidente Municipal entrante quien los proponga en los términos establecidos por el segundo párrafo del artículo 123 de esta Ley.
 
 > <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2021)</small>
 
@@ -4676,3 +4678,11 @@ P.O. 30 DE SEPTIEMBRE DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2344.- MEDIANTE EL CUAL REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 29; Y EL PRIMER PÁRRAFO DE LA FRACCIÓN VI DEL ARTÍCULO 95 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
