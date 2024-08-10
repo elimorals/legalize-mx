@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2024-01-20"
+last_updated: "2024-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -399,11 +399,15 @@ VI. La información detallada que contengan los planes de desarrollo urbano, ord
 
 VII. Las disposiciones administrativas, directamente o a través de la autoridad competente, con el plazo de anticipación que prevean las disposiciones aplicables al sujeto obligado de que se trate, salvo que su difusión pueda comprometer los efectos que se pretenden lograr con la disposición o se trate de situaciones de emergencia, de conformidad con dichas disposiciones;
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
 
-VIII. Las deudas contraídas con los proveedores, así como los pagos realizados a los mismos; y
+VIII. Las deudas contraídas con los proveedores, así como los pagos realizados a los mismos;
 
-IX. Las demás que le señalen esta Ley y demás disposiciones normativas aplicables.
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+IX. Los acuerdos y toda la información relativa a la autorización de tarifas del servicio público de transporte en todas sus modalidades, desagregada por Municipio, tipo de servicio; y
+
+X. Las demás que le señalen esta Ley y demás disposiciones normativas aplicables.
 
 ###### Artículo 22.
 
@@ -2566,3 +2570,11 @@ P.O. 20 DE ENERO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2338.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VIII, Y SE ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 21 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
