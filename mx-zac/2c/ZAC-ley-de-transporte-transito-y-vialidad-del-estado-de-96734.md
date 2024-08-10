@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-transporte-transito-y-vialidad-del-estado-de-96734"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-20"
-last_updated: "2019-11-23"
+last_updated: "2024-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 20 de noviembre de 2013.
 
@@ -53,57 +53,85 @@ LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS
 
 La presente Ley es de orden público, interés social y de observancia general. Tiene por objeto regular, en las vías públicas de la competencia del Estado de Zacatecas, el tránsito de personas, vehículos y semovientes. También, el servicio público de transporte, que ajustándose a las normas establecidas en la presente Ley, se podrá concesionar a los particulares.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 2.
 
 Para los efectos de esta ley se entenderá por:
 
-I. Concesión: Acto administrativo emitido por el Gobernador de acuerdo al interés público, mediante el cual faculta a las personas físicas y morales para explotar el servicio público de transporte;
+I. Aire espirado: Aire proveniente de los pulmones de una persona, producto de la exhalación;
 
-II. Concesionario: Al Titular de los derechos de una concesión para explotar el servicio público de transporte;
+II. Alcoholímetro: Aparato para medir la cantidad de alcohol presente en el aire espirado de una persona;
 
-III. Consejo Estatal: Consejo Estatal de Tránsito y Transporte;
+III. Aliento alcohólico: Espiración de aire con contenido de 0.08 a 0.19 miligramos por litro;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+IV. Audiencia pública: Momento del proceso en el que el oficial calificador determina o no la existencia de una infracción administrativa y, en su caso, determina la sanción a ser aplicada;
 
-IV. La Secretaría General: A la Secretaría General de Gobierno del Estado;
+V. Auxiliar vial: Persona encargada de guiar el desplazamiento de los peatones en zonas donde pueda estar en riesgo su seguridad, así como indicar a peatones y vehículos, los momentos en que deben efectuar su desplazamiento;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+VI. Boleta de infracción: Documento que consiste en el formato por medio del cual se comunican al presunto infractor los hechos que se le imputan y que pueden constituir faltas a esta Ley o alguno de sus reglamentos;
 
-V. La Secretaría de Seguridad: A la Secretaría de Seguridad Pública del Gobierno del Estado;
+VII. Centro de Sanciones Administrativas: Área de la Dirección de Policía Vial Preventiva, donde se cumple el arresto administrativo;
 
-VI. (DEROGADA, P.O. 31 DE MAYO DE 2017)
+VIII. Ciclista: Persona que maneja o conduce una bicicleta, cualquiera que sea su clasificación;
 
-VII. Gobernador: Al Titular del Poder Ejecutivo del Estado de Zacatecas;
+IX. Concesión: Acto administrativo emitido por el Gobernador de acuerdo al interés público, mediante el cual faculta a las personas físicas y morales para explotar el servicio público de transporte;
 
-VIII. (DEROGADA, P.O. 31 DE MAYO DE 2017)
+X. Concesionario: Persona titular de los derechos de una concesión para explotar el servicio público de transporte;
 
-IX. (DEROGADA, P.O. 31 DE MAYO DE 2017)
+XI. Consejo Estatal: Consejo Estatal del Tránsito y Transporte;
 
-X. Ley: A la presente Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas;
+XII. Detenido: Persona que es asegurada por la probable comisión de una infracción administrativa y puesta a disposición del oficial calificador;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+XIII. Gobernador o Gobernadora: Persona titular del Poder Ejecutivo del estado de Zacatecas;
 
-XI. Licencia de conducir: Al documento expedido por la Secretaría de Seguridad a fin de certificar que el conductor, tiene la capacidad física, los conocimientos y la habilidad necesaria para operar vehículos automotores;
+XIV. Ley: Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas;
 
-XII. Operador: La persona que tenga una concesión de transporte público o que sea trabajador del mismo;
+XV. Ley General: Ley General de Movilidad y Seguridad Vial;
 
-XIII. Peatón: La persona que transita a pie;
+XVI. Licencia de conducir: Documento expedido por la Secretaría de Seguridad a fin de certificar que el conductor, tiene la capacidad física, los conocimientos y la habilidad necesaria para operar vehículos automotores;
 
-XIV. Planes: A los distintos Planes Integrales de Movilidad Urbana Sustentable de las zonas urbanas o conurbadas del Estado de Zacatecas;
+XVII. Medidas de alcohol en la sangre:
 
-XV. Registro: Matriculación de los vehículos que circulen en el Estado de Zacatecas, operado e instituido por la Secretaría de Finanzas de Gobierno del Estado;
+a) mg/L: Miligramos por litro.
 
-XVI. Reglamentos: A los reglamentos de la Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas;
+b) g/Dl: Gramos por decilitro;
 
-XVII. Suspensión de derechos: A la suspensión temporal de los derechos derivados de licencias para conducir vehículos, permisos experimentales o de las concesiones para prestar servicios públicos de transporte;
+XVIII. Movilidad: Conjunto de desplazamientos de personas, bienes y mercancías, a través de diversos modos, orientados a satisfacer las necesidades de las personas;
 
-XVIII. Tránsito: La acción o efecto de desplazarse por la vía pública;
+XIX. Oficial calificador: Persona que conoce, califica y sanciona a las personas cuando cometen infracción que amerite arresto administrativo;
 
-XIX. Transporte público: Al servicio de carga o pasajeros que se presta al público mediante el cobro de una tarifa, que deberá estar previamente autorizada por el Gobernador;
+XX. Operador: La persona que tenga una concesión de transporte público o que sea trabajador del mismo;
 
-XX. Vehículo: Todo medio terrestre motorizado o de propulsión ya sea para carga o pasajeros, y
+XXI. Persona peatona: La persona que transita a pie;
 
-XXI. Vías públicas:
+XXII. Planes: A los distintos Planes Integrales de Movilidad Urbana Sustentable de las zonas urbanas o conurbadas del Estado de Zacatecas;
+
+XXIII. Prueba de alcoholemia: Análisis para determinar la presencia o no de alcohol en la sangre de una persona, puede ser directamente de la sangre, o indirectamente por la cantidad de alcohol presente en aire espirado por conductores de vehículos motorizados, y que en caso de ser positivo, cuantifica el nivel para aplicar las sanciones correspondientes;
+
+XXIV. Registro: Matriculación de los vehículos que circulen en el Estado de Zacatecas, operado e instituido por la Secretaría de Finanzas de Gobierno del Estado;
+
+XXV. Reincidencia: La violación de la Ley o de sus reglamentos por la misma causa, en más de una ocasión, en el lapso de un año;
+
+XXVI. Reglamento General: Reglamento General de la Ley de Transporte, Tránsito y Vialidad del Estado de Zacatecas;
+
+XXVII. Secretaría General: Secretaría General de Gobierno del Estado de Zacatecas;
+
+XXVIII. Secretaría de Seguridad: Secretaría de Seguridad Pública del Gobierno del Estado de Zacatecas;
+
+XXIX. Seguridad vial: Conjunto de políticas y sistemas orientados a controlar los factores de riesgo, con el fin de prevenir y reducir las muertes y lesiones graves ocasionadas por siniestros de tránsito;
+
+XXX. Suspensión de derechos: A la suspensión temporal de los derechos derivados de licencias para conducir vehículos, permisos experimentales o de las concesiones para prestar servicios públicos de transporte;
+
+XXXI. Tránsito: la acción o efecto de desplazarse por la vía pública;
+
+XXXII. Transporte público: Al servicio de carga o pasajeros que se presta al público mediante el cobro de una tarifa, que deberá estar previamente autorizada por el Gobernador;
+
+XXXIII. UMA: Unidad de Medida y Actualización: es una referencia económica que sirve como base para calcular los pagos, obligaciones o multas, su valor actualizado se publica anualmente;
+
+XXXIV. Vehículo: Todo medio terrestre motorizado o de propulsión ya sea para carga o pasajeros, y
+
+XXXV. Vías públicas:
 
 a) Las carreteras que constituyen la vía de comunicación de jurisdicción estatal, que siendo pavimentadas con cintas asfálticas o concreto hidráulico, construidas por el Estado o por los municipios, o confiadas al Estado por la Federación para su vigilancia, comunique a dos o más municipios y poblaciones;
 
@@ -112,14 +140,6 @@ b) Los caminos que constituyen la vía de comunicación de jurisdicción estatal
 c) Las carreteras, caminos o calles construidos por los particulares con sus recursos propios, y
 
 d) Las avenidas, calles, calzadas, paseos, plazas, puentes peatonales y demás lugares de tránsito público.
-
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
-
-XXII. Auxiliar vial.
-
-> <small>(ADICIONADA, P.O. 23 DE NOVIEMBRE DE 2019)</small>
-
-XXIII. Ciclista: Persona que maneja o conduce una bicicleta, cualquiera que sea su clasificación.
 
 ###### ARTÍCULO 3.
 
@@ -175,9 +195,9 @@ III. A la Secretaría de Finanzas;
 
 IV. A los Recaudadores de Rentas que dependan de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
 
-V. A la Secretaría de Seguridad;
+V. A la Secretaría de Seguridad y sus áreas de Policía Vial Preventiva y Centro de Sanciones Administrativas;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -429,9 +449,19 @@ c) Educación vial y cortesía urbana;
 
 d) Prevención de hechos de tránsito y medidas de seguridad vial;
 
-e) Preservación del medio ambiente en materia de tránsito y vialidad; y
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
 
-f) Respeto a los derechos de los niños, adultos mayores, mujeres gestantes y personas con discapacidad, incluyendo las medidas de infraestructura vial que permitan hacer efectivos tales derechos;
+e) Preservación del medio ambiente en materia de tránsito y vialidad,
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+f) Respeto a los derechos de los niños, adultos mayores, mujeres gestantes y personas con discapacidad, incluyendo las medidas de infraestructura vial que permitan hacer efectivos tales derechos, y
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+g) Implementar programas integrales de información, educación e investigación en materia de sensibilización y formación sobre movilidad y seguridad vial con enfoque especial en prevención, conforme los criterios establecidos en la Ley General.
+
+Para prevenir muertes y lesiones graves por siniestros viales, se implementará un programa específico en coordinación con la Secretaría de Salud del Estado;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -503,15 +533,13 @@ ARTÍCULO 15 bis.- El ejercicio de las facultades conferidas en esta Ley a la Se
 
 ARTÍCULO 15 ter.- Las autoridades señaladas en esta Ley podrán celebrar los convenios de colaboración necesarios para el adecuado y eficaz cumplimiento de sus respectivas atribuciones.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 16.
 
-La Secretaría de Seguridad Pública deberá contar con un área encargada del tránsito y la seguridad vial, que tendrá bajo su mando elementos de policía dedicados exclusivamente a las funciones de esa naturaleza, mismos que se regirán por los principios de legalidad, disciplina, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos y se sujetarán a las normas, directrices y disposiciones en materia de seguridad pública, así como a los ordenamientos que regulan la selección, ingreso, formación, actualización, capacitación, evaluación, reconocimiento, certificación, promoción, permanencia, remoción, cese y registro de servidores públicos de las instituciones de seguridad pública.
+La Secretaría de Seguridad tendrá a su cargo la Dirección de Policía Vial Preventiva, responsable del tránsito y la seguridad vial, la que estará integrada por elementos de policía dedicados exclusivamente a las funciones de esa naturaleza, mismos que se regirán por los principios de legalidad, disciplina, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos y se sujetarán a las normas, directrices y disposiciones en materia de seguridad pública, así como a los ordenamientos que regulan la selección, ingreso, formación, actualización, capacitación, evaluación, reconocimiento, certificación, promoción, permanencia, remoción, cese y registro de servidores públicos de las instituciones de seguridad pública.
 
-> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2017)</small>
-
-Los policías de tránsito podrán tener a su cargo auxiliares viales, los cuales se sujetarán, en lo que corresponda, a las normas, directrices y disposiciones señaladas en el párrafo que antecede, en los términos del reglamento correspondiente.
+Los policías viales preventivos podrán tener a su cargo auxiliares viales, los cuales se sujetarán, en lo que corresponda, a las normas, directrices y disposiciones señaladas en el párrafo que antecede, en los términos del reglamento correspondiente.
 
 > <small>(REFORMADO, P.O. 31 DE MAYO DE 2017)</small>
 
@@ -703,7 +731,13 @@ V. Respetar al peatón y a las vialidades de tránsito peatonal, prohibiendo arr
 
 VI. Respetar los carriles de conducción, condiciones para rebasar vehículos, cambios de dirección, preferencias de paso, y
 
-VII. Todas las demás que se consideren necesarias y se establezcan en los reglamentos.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+VII. Someterse ante la autoridad a la prueba de alcoholemia.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII, P.O. 10 DE AGOSTO DE 2024]</small>
+
+Cuando la persona conductora se niegue a la práctica de la prueba será sancionada con multa de 150 a 210 UMA, la cual se aplicará luego de que el personal responsable del operativo le comunique las consecuencias de su negativa.
 
 ###### ARTÍCULO 37.
 
@@ -1715,13 +1749,95 @@ I. Amonestación;
 
 II. Multas de 1 hasta 1000 unidades de medida y actualización vigente en el Estado;
 
-III. Suspensión de derechos de tránsito y transporte hasta por el término de 90 días;
+III. (DEROGADA, P.O. 10 DE AGOSTO DE 2024)
 
 IV. Retiro de vehículos de la circulación vial;
 
-V. Aseguramiento y retención, hasta por noventa días de licencias de manejar, tarjetas de circulación o placas, o bien, hasta que el infractor cumpla con lo ordenado por la Ley o en sus reglamentos, y
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+V. Aseguramiento y retención de licencias o permiso para conducir, hasta que el infractor cumpla lo ordenado por la ley o por sus reglamentos.
+
+A las personas que sean sorprendidas conduciendo bajo el influjo del alcohol se les retirará la licencia o permiso para conducir por un periodo de uno a tres años. A quienes conduzcan vehículos destinados al transporte público, se les aplicará dicha sanción por un periodo de seis meses a tres años;
 
 VI. Arresto hasta por treinta y seis horas.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+El arresto administrativo por conducir bajo el influjo de alcohol se impondrá en el rango de ocho hasta treinta y seis horas, pudiendo ser conmutable por una multa de 120 hasta 240 UMA.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+En caso de reincidencia, se aplicará al infractor arresto inconmutable de ocho hasta treinta y seis horas.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 125 BIS.- La prueba de alcoholemia se aplicará para evitar la conducción de vehículos bajo el efecto del alcohol y los siniestros que esto puede generar en perjuicio del bienestar colectivo.
+
+Se prohíbe conducir con una alcoholemia superior a 0.25 mg/L en aire espirado o de 0.05 g/Dl en sangre, salvo las siguientes consideraciones:
+
+a) A quienes conduzcan motocicletas, se les prohíbe hacerlo con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/Dl en sangre.
+
+Quienes presenten consumo de alcohol mayor de 0.1 y hasta 0.25 mg/L en aire espirado o 0.02 a 0.5 g/Dl en sangre se les impondrá una multa de 20 a 60 UMA. Si presentan mayor concentración de alcohol serán sancionados de la misma forma que a los conductores que no sean de transporte público, e
+
+b) A quienes conduzcan vehículos destinados al transporte público, se les prohíbe hacerlo con cualquier concentración de alcohol por espiración o litro de sangre. En estos casos, procederá el arresto conforme a lo previsto en esta ley.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 125 TER.- A la persona conductora que presente el grado de alcoholemia de 0.26 a 0.39 mg/L en aire espirado o de 0.052 a 0.079 g/Dl en sangre, se le impondrá una multa de 60 a 120 UMA, en su caso, el resguardo del vehículo y alguna otra medida que la autoridad considere procedente conforme a esta Ley y su Reglamento General.
+
+La Secretaría de Seguridad a través de la Dirección de Policía Vial Preventiva, en su caso, en coordinación con otras dependencias, realizará el control de alcoholimetría mediante los métodos aprobados por la Secretaría de Salud Federal.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 125 QUÁTER.- Cuando el resultado de la prueba de alcoholemia aplicada a la persona conductora, muestre resultados de ingesta de alcohol superiores a 0.40 mg/L en aire espirado o de 0.08 g/Dl en sangre, o se compruebe bajo otras formas el influjo de alguna droga, procederá el arresto, mismo que podrá ser conmutable en términos de lo previsto por esta Ley, en su caso, el resguardo del vehículo y alguna otra medida que la autoridad considere procedente conforme a esta Ley y su Reglamento General.
+
+A quienes conduzcan vehículos destinados al transporte público, la misma sanción se les aplicará, al acreditarse cualquier cantidad de consumo de alcohol.
+
+El arresto se determinará para salvaguardar la integridad de las personas y la seguridad vial, sin perjuicio de la imposición de otras medidas conforme a esta Ley y su Reglamento General.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 125 QUINQUIES.- El Centro de Sanciones Administrativas será operado por la Dirección de Policía Vial Preventiva, contará con oficiales calificadores y con el personal complementario para la substanciación de procedimientos administrativos de los que pueda resultar una sanción proveniente de la conducción de vehículos por personas con ingesta de alcohol, en las cantidades establecidas en esta Ley o bajo el influjo de alguna otra droga.
+
+Los oficiales calificadores y su personal serán nombrados por el titular de la Secretaría de Seguridad y deberán reunir los requisitos previstos en el Reglamento General.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 125 SEXIES.- El Registro de Infractores, como área dependiente de la Secretaría de Seguridad, tendrá como objeto integrar una base de datos con antecedentes de cada persona que refleje las infracciones por conducir bajo el consumo de alcohol o cualquier otra droga, los casos de reincidencia y las sanciones cumplidas por el arresto correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 125 SEPTIES.- Durante el operativo, la Policía Vial Preventiva deberá respetar las condiciones de seguridad y control adecuado en el desarrollo y aplicación de los dispositivos e instrumentos, garantizando el respeto de los derechos humanos de los conductores.
+
+Para el desarrollo del operativo, la Secretaría de Seguridad deberá utilizar preferentemente grúas y corralones públicos.
+
+En caso de utilizar el servicio de particulares, estos deberán cobrar sus servicios conforme a los tabuladores autorizados y publicados anualmente en el periódico oficial del Estado.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 125 OCTIES.- El personal de la Policía Vial Preventiva que participe en el operativo deberá portar cámaras corporales y grabar la ejecución del mismo.
+
+Los contenidos de la grabación serán entregados al Oficial Calificador para evidenciar el desarrollo del operativo y deberán resguardarse hasta por 30 días naturales, posteriores a la conclusión del procedimiento administrativo.
+
+Cuando no exista grabación de la detención y del examen de alcoholemia realizado al conductor detenido, se le pondrá en libertad sin ser sometido al procedimiento administrativo y sin recibir sanción alguna.
+
+Los datos personales estarán a salvo en todo momento, lo contrario será causa de responsabilidad.
+
+Cuando el personal de la Policía Vial Preventiva intencionalmente apague o desactive su cámara corporal, omita o simule hacer la grabación, dañe la cámara, altere sus contenidos o se niegue a entregarlos, el oficial calificador deberá informar al Órgano Interno de Control de la Secretaría de Seguridad para que investigue la posible falta administrativa que haya cometido el agente y conforme al régimen disciplinario policial, deberá dar vista a la Unidad de Asuntos Internos de la Secretaría de Seguridad.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 125 NONIES.- Cuando el presunto infractor no muestre un estado de conciencia adecuado para comparecer y ejercer su derecho de audiencia por su grado de ebriedad, permanecerá en el área de control provisional hasta en tanto el médico responsable determine que se encuentra o no en condiciones de salud para enfrentar el procedimiento administrativo. Derivado de la opinión médica, el Oficial Calificador podrá autorizar que se retire de las instalaciones del Centro de Sanciones Administrativas y lo citará con posterioridad para el inicio del procedimiento administrativo.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 125 DECIES.- El procedimiento administrativo estará regido por los principios de legalidad, debido proceso y presunción de inocencia.
+
+El procedimiento deberá desahogarse en audiencia pública, de forma oral, sin interrupciones, y en su tramitación deberán comparecer la persona presunta infractora y el agente de la Policía Vial Preventiva que hubiere participado en su detención.
+
+El oficial calificador informará a la persona presunta infractora sus derechos y la forma en que habrá de desahogarse el procedimiento.
+
+En el Reglamento General se precisarán las formalidades del procedimiento administrativo, así como las normas relativas al ofrecimiento, admisión y desahogo de pruebas, formulación de alegatos y resolución.
 
 ###### ARTÍCULO 126.
 
@@ -1884,3 +2000,21 @@ P.O. 23 DE NOVIEMBRE DE 2019.
 Artículo primero. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial, Órgano de (sic) Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 456.- SE REFORMA LA LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS, LA LEY DE LAS INSTITUCIONES POLICIALES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, la Secretaría de Seguridad Pública constituirá el Centro de Sanciones Administrativas y el Registro de Infractores.
+
+En dicho plazo, se nombrarán a los oficiales calificadores y, en general, a los servidores públicos del Centro de Sanciones Administrativas.
+
+Artículo tercero. El titular del Poder Ejecutivo del Estado deberá instrumentar una campaña de comunicación social a través de las dependencias competentes, para dar a conocer a la sociedad el inicio de funciones, el objeto y el impacto del referido Centro de Sanciones.
+
+La campaña de difusión se llevará a cabo, por lo menos, dos meses antes del primer operativo que se ejecute bajo el marco del presente decreto.
+
+Artículo cuarto. En un plazo que no exceda de 60 días, contados a partir de la publicación de este decreto, el Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento General para armonizarlo con lo previsto por este instrumento legislativo.
+
+Artículo quinto. Las disposiciones legales que hagan mención a la Policía de Seguridad Vial del Estado, se entenderán dirigidas a la Policía Vial Preventiva.
