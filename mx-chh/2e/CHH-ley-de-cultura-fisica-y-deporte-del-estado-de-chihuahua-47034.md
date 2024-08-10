@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2023-11-15"
+last_updated: "2024-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -186,6 +186,10 @@ VIII.- Deporte de Rendimiento: El que promueve, fomenta y estimula el que todas 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 IX.- Deporte de Alto Rendimiento: El que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones nacionales que representan al país en competiciones y pruebas oficiales de carácter internacional.
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+IX Bis.- Personas Deportistas Destacadas. Aquellas personas atletas consideradas con potencial o que sobresalgan en un deporte, con la intención de desarrollar sus habilidades en competencias en los diferentes niveles, categorías y disciplinas.
 
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -741,6 +745,10 @@ XXVII.- Verificar que los estatutos, reglamentos y demás reglamentos deportivos
 
 XXVIII.- Emitir opinión en la formulación de los programas deportivos de las Asociaciones Deportivas Estatales.
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XXVIII Bis.- Instrumentar e implementar el Programa de Fomento al Deporte de Alto Rendimiento y de Personas Deportistas Destacadas, para el desarrollo integral de atletas chihuahuenses.
+
 > <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 XXIX.- Las demás que esta Ley u otras disposiciones legales determinen.
@@ -811,11 +819,13 @@ Asimismo, podrán ser invitados a participar con voz pero sin voto, aquellas per
 
 Para lograr el adecuado cumplimiento de los fines del Instituto, se apoyará de un órgano de gestión llamado Comité de Impulso al Deporte, el cual estará integrado por:
 
-I. El Director del Instituto Chihuahuense del Deporte y Cultura Física.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2017)</small>
+I. La persona titular del Instituto Chihuahuense del Deporte y Cultura Física.
 
-II. Dos representantes de la Comisión de Juventud y Deporte del H. Congreso del Estado.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+II. Dos representantes de la Comisión de Educación, Cultura Física y Deporte del H. Congreso del Estado.
 
 III. Un representante de las asociaciones deportivas debidamente registradas en el Sistema.
 
@@ -1339,13 +1349,95 @@ De igual forma, deberán rendir al Instituto un informe anual sobre las activida
 
 El Instituto presentará al Congreso del Estado un informe semestral de los resultados alcanzados en la materia.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+### CAPÍTULO CUARTO. DEL PROGRAMA DE FOMENTO AL DEPORTE DE ALTO RENDIMIENTO Y DE PERSONAS DEPORTISTAS DESTACADAS
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+###### Artículo 66-A.
+
+El Programa de Fomento al Deporte de Alto Rendimiento y Personas Deportistas Destacadas, tendrá como objetivo desarrollar y apoyar al deporte de alto rendimiento y a las personas deportistas destacadas en el Estado, mediante el otorgamiento de apoyos de conformidad con la convocatoria, reglas de operación y lineamientos que para tal efecto emita el Instituto.
+
+En el caso de existir niñas, niños o adolescentes que puedan considerarse deportistas destacados, el Instituto deberá privilegiarles en todo momento, a fin de que reciban los apoyos necesarios para su desempeño.
+
+Los apoyos referidos en el párrafo anterior podrán consistir en:
+
+I. Apoyo económico o en especie.
+
+II. Gastos para asistir a competencias oficiales.
+
+III. Materiales o equipos deportivos.
+
+IV. Becas económicas o académicas.
+
+V. Uso de infraestructura deportiva.
+
+VI. Asistencia médica y servicios hospitalarios.
+
+VII. Distinciones meritorias, trofeos, premios o reconocimientos, y su promoción pública.
+
+VIII. Las demás que se contemplen dentro de lineamientos, convocatorias y reglas de operación que se emitan para este efecto.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+###### ARTÍCULO 66-B.
+
+Para el otorgamiento de los apoyos referidos en el presente Capítulo, se tomarán en cuenta los siguientes criterios:
+
+I. La persona física, su representante legal o asociación deportiva que recibe los estímulos y apoyos.
+
+II. El tipo, disciplina, especialidad, rama, modalidad, nivel o categoría de deporte que desarrolle.
+
+III. El nivel socioeconómico de las o los beneficiarios.
+
+IV. La temporalidad o vigencia de los estímulos y apoyos.
+
+V. Los mecanismos de responsabilidad, ejercicio, aplicación, transparencia, publicidad y control.
+
+VI. Los demás que establezcan los lineamientos, convocatorias y reglas de operación aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+###### Artículo 66-C.
+
+Para que las personas deportistas destacadas y de alto rendimiento, accedan a los beneficios que prevé el Programa, deberán cumplir como mínimo con los siguientes requisitos:
+
+I. Tener nacionalidad mexicana y residir en el Estado de Chihuahua.
+
+II. Estar previamente inscritas en el Registro Estatal.
+
+III. No encontrarse sancionadas por dopaje o por alguna de las faltas graves previstas en esta Ley.
+
+IV. Haber obtenido triunfos trascendentales en competiciones organizadas por las Federaciones nacionales, internacionales o por el Comité Olímpico o Paralímpico Internacional, en alguna de las modalidades deportivas oficialmente reconocidas.
+
+En el caso de que la persona que busque acceder a alguno de los beneficios que prevé el Programa, sea niña, niño y adolescente, se hará representar en el proceso por sus padres, madres o tutores, obviándose en su caso, aquellos requisitos que refieran a la trayectoria y trascendencia.
+
+Asimismo, las reglas de operación y lineamientos del programa establecerán las bases mínimas para que accedan a estos apoyos.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+###### Artículo 66-D.
+
+Las personas deportistas con discapacidad física o mental, se considerarán de alto rendimiento o deportistas destacadas, cumpliendo los requisitos citados, en atención a su trayectoria deportiva, relevancia social y aquellos requisitos que se fijen para este efecto.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+###### Artículo 66-E.
+
+Las personas deportistas destacadas y de alto rendimiento colaborarán con el Instituto en los proyectos de difusión del deporte base y de la práctica deportiva en general, y en aquellas actividades que promocionen la educación para la salud, la prevención de farmacodependencia y especialmente aquellas actividades destinadas a fomentar la práctica deportiva, así como promover la igualdad de género, la participación de la mujer y de los grupos vulnerables en el deporte.
+
+Las colaboraciones a las que hace referencia el párrafo anterior, se realizarán en los tiempos disponibles de las personas deportistas, a fin de que no afecte su preparación y participación en competencias.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+###### Artículo 66-F.
+
+Los apoyos mencionados en el presente Capítulo, tendrán una vigencia de dos años desde la fecha del reconocimiento, pudiéndose en todo caso ratificar siempre que la persona deportista mantenga en vigor su registro ante el Instituto, y podrán perderse por las causas previstas en los lineamientos y reglas de operación del Programa.
 
 ## TÍTULO III. DEL DEPORTE PROFESIONAL
 
-### CAPÍTULO PRIMERO. DE LA INFRAESTRUCTURA
+### CAPÍTULO ÚNICO
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -1413,7 +1505,7 @@ Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración
 
 Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física, su entrenamiento y participación en competiciones oficiales.
 
-### CAPÍTULO SEGUNDO. DE LA ENSEÑANZA, INVESTIGACIÓN Y DIFUSIÓN
+### CAPÍTULO PRIMERO. DE LA INFRAESTRUCTURA
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -1523,7 +1615,7 @@ Para la celebración de eventos deportivos masivos o con fines de espectáculo, 
 
 Las autoridades municipales serán competentes para verificar el cumplimiento de la presente disposición.
 
-### CAPÍTULO TERCERO. DE LAS CIENCIAS APLICADAS
+### CAPÍTULO SEGUNDO. DE LA ENSEÑANZA, INVESTIGACIÓN Y DIFUSIÓN
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -1551,9 +1643,9 @@ El Instituto promoverá y gestionará conjuntamente con las Asociaciones Deporti
 
 Para tal efecto, emitirá los lineamientos necesarios en los que se determine el procedimiento de acreditación, considerando lo dispuesto por las Leyes General y Estatal de Educación.
 
-### CAPÍTULO CUARTO. DEL ESTÍMULO A LA CULTURA FÍSICA Y AL DEPORTE
+### CAPÍTULO TERCERO. DE LAS CIENCIAS APLICADAS
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 87.
 
@@ -1595,9 +1687,9 @@ La Secretaría de Salud del Estado y el Instituto procurarán la existencia y ap
 
 Las instancias correspondientes, verificarán y certificarán que los laboratorios y profesionistas dedicados al ejercicio de estas ciencias, cumplan con los requisitos que fijen los Reglamentos y Normas Oficiales Mexicanas.
 
-### CAPÍTULO QUINTO. DEL CONTROL DE SUSTANCIAS PROHIBIDAS Y MÉTODOS NO REGLAMENTARIOS EN EL DEPORTE
+### CAPÍTULO CUARTO. DEL ESTÍMULO A LA CULTURA FÍSICA Y AL DEPORTE
 
-> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2019)</small>
 
 ###### ARTÍCULO 93.
 
@@ -1691,7 +1783,9 @@ El Instituto tendrá a su cargo la constitución, administración, control y vig
 
 El Patronato del Salón de la Fama se integrará por representantes de los distintos sectores sociales interesados en el deporte, de conformidad con los lineamientos que fije la Junta Directiva.
 
-### CAPÍTULO SEXTO. DE LA PREVENCIÓN DE LA VIOLENCIA EN EL DEPORTE
+### CAPÍTULO QUINTO. DEL CONTROL DE SUSTANCIAS PROHIBIDAS Y MÉTODOS NO REGLAMENTARIOS EN EL DEPORTE
+
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 100.
 
@@ -1769,7 +1863,7 @@ Los Poderes Públicos, en el ámbito de sus respectivas competencias, adoptarán
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
-### CAPÍTULO SÉPTIMO. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO SEXTO. DE LA PREVENCIÓN DE LA VIOLENCIA EN EL DEPORTE
 
 ###### Artículo 113.
 
@@ -1908,6 +2002,8 @@ Los deportistas, entrenadores, técnicos, directivos y demás personas, en el á
 Los integrantes del Sistema, podrán revisar continuamente sus disposiciones reglamentarias y estatutarias a fin de promover y contribuir a controlar los factores que puedan provocar estallidos de violencia por parte de deportistas y espectadores.
 
 Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades responsables de la aplicación de las disposiciones y lineamientos correspondientes para la prevención de la violencia en el deporte, a fin de conseguir su correcta y adecuada implementación.
+
+### CAPÍTULO SÉPTIMO. DE LAS INFRACCIONES Y SANCIONES
 
 ###### Artículo 116.
 
@@ -2534,3 +2630,23 @@ P.O. 15 DE NOVIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLEY/0882/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades competentes de la Administración Pública Estatal realizarán, en su caso, las modificaciones y adecuaciones pertinentes, de acuerdo con lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las medidas, disposiciones y previsiones financieras, de ser necesarias a que hubiera lugar, siguiendo los procedimientos aplicables, a fin de cumplir con lo establecido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Chihuahuense del Deporte y Cultura Física, elaborará los lineamientos y reglas de operación necesarios para dar cumplimiento a lo establecido en el presente Decreto.
