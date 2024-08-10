@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-1068
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-21"
-last_updated: "2015-03-21"
+last_updated: "2024-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 21 de marzo del 2015.
 
@@ -89,6 +89,14 @@ III. Baja definitiva: Terminación de la relación laboral por decisión de una 
 
 IV. Comité: Órgano colegiado del ISSSTEZAC con funciones administrativas y ejecutivas en un área determinada, conforme a la presente Ley;
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+IV Bis. Compensación: La remuneración adicional al sueldo, que se otorga de manera periódica a un trabajador, en función de las responsabilidades o trabajos extraordinarios relativos a su cargo;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+IV Ter. Complementariedad: La diferencia entre la pensión dictaminada por el ISSSTEZAC conforme a la presente Ley y el monto de la pensión o renta vitalicia equivalente que obtenga el trabajador derechohabiente por parte del Instituto Mexicano del Seguro Social;
+
 V. Comprobante Fiscal Digital por Internet o CFDI: Documento digital en formato XML de comprobación fiscal que utiliza tecnología digital en generación, procesamiento, transmisión y almacenamiento de datos con los estándares definidos por el Sistema de Administración Tributaria;
 
 VI. Cuotas: Porcentaje del sueldo básico de cotización que los trabajadores derechohabientes o pensionados deben cubrir al ISSSTEZAC conforme a lo dispuesto en esta Ley;
@@ -113,11 +121,27 @@ e) Los ascendientes en línea recta del trabajador derechohabiente o pensionado 
 
 La edad y el parentesco se acreditarán ante el ISSSTEZAC conforme a los términos de la legislación civil y familiar vigente; la dependencia económica se acreditará mediante la documentación expedida por la autoridad municipal o judicial competente.
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+X Bis. Factor de integración: es el resultado de dividir 30 días de aguinaldo, entre 365 días del año, más la unidad, igual a 1.0821;
+
 XI. Fideicomiso Fondo de Pensiones: Instrumento que se integra por recursos en efectivo, mismo que administra, invierte y destina el ISSSTEZAC para el pago de pensiones y otorgamiento de préstamos a corto y mediano plazo en los términos de esta Ley;
 
 XII. Fondo de Garantía: Reserva financiera para cubrir los préstamos y créditos de trabajadores derechohabientes y pensionados, en caso de que fallezcan y se encuentren al corriente en los pagos;
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XII Bis. IMSS: Instituto Mexicano del Seguro Social;
+
 XIII. ISSSTEZAC: Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Zacatecas;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XIII Bis. Ley del Seguro Social de 1973: Ley del Seguro Social Publicada en el Diario Oficial de la Federación el 12 de marzo de 1973 con vigencia hasta el 30 de junio de 1997;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XIII Ter. Ley del Seguro Social de 1997: Ley del Seguro Social Publicada en el Diario Oficial de la Federación el 21 de diciembre de 1995 con inicio de vigencia del 1 de julio de 1997;
 
 XIV. Nómina: Relación que contiene, por lo menos, nombre, registro federal de contribuyente, clave única de registro de población, número de empleado, puesto, categoría, lugar de adscripción, fecha de ingreso, días trabajados, sueldo base, desglose de percepciones y deducciones de los trabajadores del ente público;
 
@@ -125,15 +149,39 @@ XV. Pensión: Beneficio económico que periódicamente recibe una persona o sus 
 
 XVI. Pensionado: Persona a la que el ISSSTEZAC le otorga una pensión por haber cumplido los requisitos exigidos por esta Ley;
 
-XVII. Salario Mínimo General (SMG): Cantidad que en efectivo y por cuota diaria establece la Comisión Nacional de Salarios Mínimos para el área geográfica a la que pertenece el Estado de Zacatecas;
+XVII. (DEROGADA, P.O. 10 DE AGOSTO DE 2024)
 
-XVIII. Salario Mínimo Mensual (SMM): El salario mínimo general multiplicado por el factor treinta punto cuatro (30.4);
+XVIII. (DEROGADA, P.O. 10 DE AGOSTO DE 2024)
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XVIII Bis. Sobresueldo: La remuneración adicional al sueldo, que se otorga de manera extraordinaria a un trabajador, en atención a circunstancias especiales de la persona o del entorno o por servicios especiales que desempeñen;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XVIII Ter. Sueldo: La remuneración ordinaria señalada en la designación o nombramiento del trabajador, en relación con la plaza o cargo que desempeñe;
 
 XIX. Sueldo básico de cotización: Remuneración que recibe el trabajador derechohabiente por su trabajo, integrada con el sueldo, el sobresueldo y la compensación previstos en el tabulador de sueldos o salarios, aprobado en el presupuesto de egresos del ente público en el cual preste sus servicios, excluyéndose cualquiera otra prestación que el trabajador derechohabiente percibiere con motivo de su trabajo;
 
-XX. Sueldo regulador: Promedio ponderado de los sueldos básicos de cotización percibidos por el trabajador derechohabiente en los últimos cinco años anteriores a la fecha de la baja o fallecimiento, actualizado conforme al Índice Nacional de Precios al Consumidor;
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
 
-XXI. Trabajador derechohabiente: Persona física que presta sus servicios en los entes públicos y cotiza al ISSSTEZAC, excluyendo a los trabajadores de lista de raya, por contrato de prestación de servicios profesionales, por honorarios o asimilados a salario; y
+XIX Bis. Sueldo básico de cotización integrado: es el resultado de multiplicar el sueldo básico de cotización por el factor de integración;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XX. Sueldo regulador. Será el 94% del promedio ponderado del sueldo básico de cotización sin considerar aguinaldo durante su afiliación al ISSSTEZAC. Para estos efectos, cada sueldo básico de cotización se actualizará conforme al Índice Nacional de Precios al Consumidor a la fecha en que se pensione el trabajador;
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XXI. Trabajador derechohabiente: Persona física que presta sus servicios en los entes públicos y cotiza al ISSSTEZAC, excluyendo a los trabajadores de lista de raya, por contrato de prestación de servicios profesionales, por honorarios o asimilados a salarios;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XXI Bis. UMA: Unidad de Medida y Actualización diaria vigente;
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XXI Ter. UMA mensual: La Unidad de Medida y Actualización diaria multiplicado por el factor treinta punto cuatro (30.4); y
 
 XXII. Visita de verificación: Diligencia de carácter administrativo para revisar o comprobar el cumplimiento de las disposiciones legales y reglamentarias, a cargo de un visitador y sujeta a las formalidades y procedimiento establecidos por esta Ley y su Reglamento.
 
@@ -343,6 +391,14 @@ Facultad del ISSSTEZAC para determinar los créditos a su favor
 
 El ISSSTEZAC tiene atribuciones para determinar los créditos a su favor y las bases de su liquidación, así como para fijarlos en cantidad líquida, notificarlos a los entes públicos y solicitar a la Secretaría de Finanzas se deduzcan del presupuesto de aquellos o, en su caso, de las participaciones estatales o federales de los municipios, cuando lo establezca la ley o así se haya convenido.
 
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+El ISSSTEZAC solicitará a la Secretaría de Finanzas la afectación y descuento de sus ministraciones, transferencias o participaciones estatales o federales de libre disposición del ejercicio vigente; dicha afectación o descuento se efectuará hasta que el Ente Público responsable cubra el monto total del adeudo, incluyendo los recargos y actualizaciones que correspondan hasta el día en que se cubra el monto total adeudado.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+El Ente Público responsable deberá de ajustar su gasto, para continuar con sus funciones sustantivas.
+
 Base de datos del ISSSTEZAC
 
 ###### Artículo 18.
@@ -411,13 +467,15 @@ Si el trabajador derechohabiente falleciere antes de reintegrarse al servicio y 
 
 ### CAPÍTULO I. SUELDO BÁSICO DE COTIZACIÓN, CUOTAS Y APORTACIONES
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 Sueldo básico de cotización
 
 ###### Artículo 24.
 
-El sueldo básico de cotización es la base para calcular y determinar el sueldo regulador. El sueldo básico de cotización tiene como límite máximo veinticinco salarios mínimos mensuales.
+El sueldo básico de cotización es la base para calcular y determinar el sueldo regulador. El sueldo básico de cotización tiene como límite máximo el valor de quince veces la UMA mensual.
 
-El sueldo básico de cotización no podrá ser inferior al salario mínimo general vigente en el Estado.
+El sueldo básico de cotización no podrá ser inferior a dos veces el valor de la UMA.
 
 Principio de igualdad
 
@@ -425,13 +483,47 @@ Principio de igualdad
 
 A percepciones iguales corresponden cuotas y aportaciones iguales, por lo que queda prohibido a los entes públicos aportar de manera diferencial en contravención a las disposiciones legales que rigen el pago de las percepciones del trabajador.
 
-El cálculo de las cuotas y aportaciones se efectuará exclusivamente sobre las percepciones que integran el sueldo básico de cotización.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
 
-Cuotas de los trabajadores
+El cálculo de las cuotas y aportaciones se efectuará exclusivamente sobre las percepciones que integran el sueldo básico de cotización integrado.
+
+> <small>(REFORMADO SU ACÁPITE, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Cuotas de los trabajadores estatales y municipales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 26.
 
-Los trabajadores derechohabientes que laboren para los entes públicos deberán cubrir al ISSSTEZAC una cuota obligatoria equivalente al doce por ciento del sueldo básico de cotización que perciban.
+Los trabajadores derechohabientes que laboren para los entes públicos estatales deberán cubrir al ISSSTEZAC una cuota obligatoria equivalente a un porcentaje del sueldo básico de cotización integrado, de conformidad con la tabla siguiente:
+
+TRABAJADORES DERECHOHABIENTES ESTATALES
+
+AÑO CUOTA
+
+2024 13.00%
+
+2025 14.00%
+
+2026 15.00%
+
+2027 en adelante 16.00%
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Los trabajadores derechohabientes que laboren para los entes públicos municipales deberán cubrir al ISSSTEZAC una cuota obligatoria equivalente a un porcentaje del sueldo básico de cotización integrado, de conformidad con la tabla siguiente:
+
+TRABAJADORES DERECHOHABIENTES MUNICIPALES
+
+AÑO CUOTA
+
+2024 13.00%
+
+2025 14.00%
+
+2026 15.00%
+
+2027 en adelante 16.00%
 
 Los pensionados pagarán una cuota equivalente al seis por ciento sobre el monto de su pensión.
 
@@ -449,21 +541,45 @@ El ente público es retenedor
 
 El ente público tiene el carácter de retenedor de las cuotas de sus trabajadores derechohabientes, como responsable solidario. La retención y entrega de las cuotas de los trabajadores derechohabientes por el ente público no podrá exceder de diez días naturales a la fecha de su retención.
 
-Sueldo de un salario mínimo
-
 ###### Artículo 29.
 
-Si el trabajador derechohabiente recibe como sueldo básico de cotización un salario mínimo general, el ente público cubrirá la cuota que le corresponda a aquel.
+(DEROGADO, P.O. 10 DE AGOSTO DE 2024)
 
-Aportaciones de los entes públicos estatales
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Aportaciones de los entes públicos estatales y municipales
 
 ###### Artículo 30.
 
-Los entes públicos estatales aportarán al ISSSTEZAC conforme a lo previsto en esta Ley sobre los sueldos básicos de cotización de sus trabajadores derechohabientes.
+Los entes públicos estatales aportarán al ISSSTEZAC conforme a lo previsto en esta Ley sobre los sueldos básicos de cotización integrados de sus trabajadores derechohabientes.
 
-La aportación que deberán cubrir los entes públicos del ámbito estatal para los trabajadores derechohabientes será el equivalente al veinticuatro por ciento del sueldo básico de cotización.
+La aportación que deberán cubrir los entes públicos del ámbito estatal para los trabajadores derechohabientes será el equivalente a un porcentaje del sueldo básico de cotización integrado, de conformidad con la tabla siguiente:
 
-La aportación que deberán cubrir los entes públicos del ámbito municipal para los trabajadores derechohabientes, será el equivalente al catorce por ciento del sueldo básico de cotización de sus trabajadores.
+ENTES PÚBLICOS ESTATALES
+
+AÑO APORTACIÓN
+
+2024 26.00%
+
+2025 28.00%
+
+2026 30.00%
+
+2027 en adelante 32.00%
+
+La aportación que deberán cubrir los entes públicos del ámbito municipal para los trabajadores derechohabientes, será el equivalente a un porcentaje del sueldo básico de cotización integrado, de conformidad con la tabla siguiente:
+
+ENTES PÚBLICOS MUNICIPALES
+
+AÑO APORTACIÓN
+
+2024 16.00%
+
+2025 18.00%
+
+2026 20.00%
+
+2027 en adelante 22.00%
 
 Obligación de presupuestar las aportaciones
 
@@ -471,7 +587,9 @@ Obligación de presupuestar las aportaciones
 
 Las aportaciones de los entes públicos tienen el carácter de obligatorias y deberán consignarse en la partida que corresponda en sus respectivos presupuestos de egresos. En caso de omisión, deberán realizar las trasferencias presupuestales correspondientes.
 
-Los entes públicos deberán prever en sus presupuestos los recursos necesarios para el incremento de cuotas establecido en la presente Ley.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Los entes públicos deberán prever en sus presupuestos los recursos necesarios para el incremento de aportaciones establecido en la presente Ley.
 
 Prevención por adeudos
 
@@ -489,13 +607,15 @@ Las retenciones y descuentos ordenados a los entes públicos por el ISSSTEZAC, s
 
 ### CAPÍTULO II. DEVOLUCIÓN DE CUOTAS
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 Término para la devolución de cuotas
 
 ###### Artículo 34.
 
-El trabajador derechohabiente que cause baja definitiva, sin ser sujeto a pensionarse, tendrá derecho a la devolución de cuotas. Este derecho prescribirá a los doce meses contados a partir del día siguiente en que causó baja.
+El trabajador derechohabiente que cause baja definitiva, sin ser sujeto a pensionarse, tendrá derecho a la devolución de cuotas. Este derecho prescribirá a los tres meses contados a partir del día siguiente en que causó baja.
 
-El ISSSTEZAC deberá devolver las cuotas en un plazo máximo de sesenta días naturales, contados a partir de la fecha en que reciba la solicitud de devolución.
+El ISSSTEZAC deberá devolver las cuotas en un plazo que no deberá exceder de dieciocho meses posteriores a la fecha en que reciba la solicitud de devolución.
 
 Afectación a las cuotas
 
@@ -513,11 +633,13 @@ En caso de muerte del trabajador derechohabiente, las cuotas se entregarán a lo
 
 No habrá devolución de cuotas cuando existan familiares beneficiarios con derecho a una pensión que otorga esta Ley.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 Reintegración de cuotas para recuperar años de servicio
 
 ###### Artículo 37.
 
-Si el trabajador separado del servicio reingresa en un lapso máximo de tres años, contados a partir de la fecha de la baja definitiva, para que se le compute el tiempo laborado con anterioridad para los efectos de esta Ley, deberá reintegrar el total de las cuotas devueltas en un plazo de sesenta días naturales contados a partir de la fecha de su reingreso como trabajador derechohabiente, actualizadas conforme al máximo entre el Índice Nacional de Precios al Consumidor y el rendimiento obtenido por el fondo de pensiones.
+Si el trabajador separado del servicio reingresa en un lapso máximo de seis años, contados a partir de la fecha de la baja definitiva, para que se le compute el tiempo laborado con anterioridad para los efectos de esta Ley, deberá reintegrar el total de las cuotas devueltas en un plazo de sesenta días naturales contados a partir de la fecha de su reingreso como trabajador derechohabiente, actualizadas conforme al máximo entre el Índice Nacional de Precios al Consumidor y el rendimiento obtenido por el fondo de pensiones.
 
 ## TÍTULO TERCERO. PENSIONES, PÓLIZAS DE DEFUNCIÓN Y AYUDA PARA GASTOS DE FUNERAL Y AGUINALDO
 
@@ -555,17 +677,21 @@ Inembargabilidad de las pensiones
 
 Las pensiones serán inembargables y sólo podrán ser afectadas para el pago de pensión alimenticia, pago de cuota y adeudos al ISSSTEZAC y el cumplimiento de obligaciones fiscales.
 
-Montos mínimo y máximo de las pensiones
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Montos mínimos y máximos de las pensiones
 
 ###### Artículo 43.
 
-El monto mínimo de las pensiones no será inferior a dos salarios mínimos mensuales; el monto máximo de una pensión no excederá de veinticinco salarios mínimos mensuales.
+El monto mínimo de las pensiones por jubilación no será inferior al valor de dos veces la UMA mensual; el monto máximo de una pensión no excederá del valor de quince veces la UMA mensual.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
 
 Base para determinar las pensiones
 
 ###### Artículo 44.
 
-Para determinar el monto de las pensiones se tomará como base el sueldo regulador, actualizado conforme al Índice Nacional de Precios al Consumidor del mes de enero del año de su aprobación.
+Para determinar el monto de las pensiones se tomará como base el sueldo regulador.
 
 Suspensión de la pensión
 
@@ -589,11 +715,13 @@ II. El desempeño de una actividad remunerada por el pensionado por invalidez; o
 
 III. El alta médica que otorgue el Instituto Mexicano del Seguro Social al pensionado por invalidez.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 Una sola pensión
 
 ###### Artículo 47.
 
-Los trabajadores derechohabientes que coticen por dos o más empleos en los entes públicos, tendrá (sic) únicamente derecho a una pensión. El sueldo regulador se calculará sobre la suma de los sueldos de cotización de ambos empleos, considerando los límites establecidos en el artículo 24 de esta Ley. La antigüedad se considerará tomando en cuenta el empleo con mayor antigüedad.
+Los trabajadores derechohabientes que coticen por dos o más empleos en los entes públicos, tendrán únicamente derecho a una pensión. El sueldo regulador se calculará sobre la suma de los sueldos de cotización de ambos empleos, considerando los límites establecidos en los artículos 24 y 43 de esta Ley. La antigüedad se considerará tomando en cuenta el empleo con mayor antigüedad.
 
 Protección a los familiares del trabajador derechohabiente
 
@@ -634,6 +762,88 @@ Cuando un trabajador derechohabiente o un pensionado sea víctima del delito de 
 Si posteriormente y en cualquier tiempo, el trabajador derechohabiente o pensionado se presentare, tendrá derecho a disfrutar de su pensión y a recibir las diferencias entre el importe original de la misma y aquel que hubiere sido entregado a sus familiares.
 
 Cuando se compruebe el fallecimiento del trabajador derechohabiente o pensionado, se otorgará a sus familiares beneficiarios, en forma definitiva, la pensión a la que tengan derecho.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Continuidad de cotización voluntaria ante el IMSS para pensión complementaria
+
+###### Artículo 51 Bis.
+
+Cuando un trabajador derechohabiente, amparado por la Ley del Seguro Social de 1973, llegara a obtener alguna de las pensiones señaladas en esta Ley, sin haber cumplido con los requisitos legales para gozar de una pensión por cesantía en edad avanzada o vejez ante el IMSS, el ISSSTEZAC cubrirá íntegramente la cuantía de la pensión mensual prevista en este ordenamiento, hasta que el trabajador derechohabiente pensionado genere el derecho a la pensión correspondiente por parte del IMSS.
+
+En estos casos, el trabajador derechohabiente pensionado pagará, a través del ISSSTEZAC, las aportaciones al IMSS establecidas para su régimen de afiliación voluntaria incluyendo las del seguro familiar de salud, desde la fecha en que éste se pensione del ISSSTEZAC y hasta que genere el derecho a la pensión correspondiente por parte del IMSS.
+
+Los montos de las aportaciones voluntarias se calcularán considerando el Sueldo Básico de Cotización Integrado que hubiese acreditado el trabajador derechohabiente al momento de la baja patronal ante el Régimen Obligatorio del IMSS, mismo que deberá ser actualizado anualmente con el Índice Nacional de Precios al Consumidor.
+
+Una vez cumplidos los requisitos para obtener la pensión del IMSS que corresponda, el pensionado deberá tramitarla de manera inmediata e inexcusable, dando aviso al ISSSTEZAC para que, a partir de entonces, se aplique la complementariedad a que se refiere esta Ley.
+
+Para efectos de la complementariedad, cuando el trabajador derechohabiente se encuentre amparado por la Ley del Seguro Social de 1973, el trabajador solo podrá optar por el régimen de Beneficio Definido regulado en dicha Ley; en caso de no ser así, el ISSSTEZAC realizará el cálculo de la cantidad que le hubiera correspondido bajo esta modalidad por parte del IMSS misma que será considerada para la complementariedad establecida en el presente ordenamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Complementariedad con la Pensión del IMSS en esquemas de contribución definida
+
+###### Artículo 51 Ter.
+
+Cuando el trabajador derechohabiente se encuentre amparado por la Ley del Seguro Social de 1997 y, por lo tanto, cuente con un sistema de cuentas individuales, el trabajador sólo podrá optar por la renta vitalicia considerando el saldo total de la cuenta individual al momento de su retiro; de no ser así el ISSSTEZAC realizará el cálculo de la cantidad que le hubiera correspondido bajo esta modalidad por parte del IMSS, misma que será considerada para la complementariedad establecida en esta Ley.
+
+En caso de que el trabajador derechohabiente elija una opción diferente a la referida en el párrafo anterior, el ISSSTEZAC requerirá al pensionado para que proporcione la información de su cuenta individual, que permita verificar el cálculo de la cantidad que le hubiera correspondido bajo esta modalidad por parte del IMSS, y aplicará la complementariedad de la pensión en los términos descritos en esta Ley.
+
+En caso de que el trabajador no tramite su pensión o renta vitalicia con el IMSS en el momento que adquiera el derecho a obtenerla, el ISSSTEZAC realizará el cálculo de la cantidad que le correspondería por el IMSS, misma que será considerada para la complementariedad establecida en esta Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Cálculo de la Complementariedad
+
+Artículo 51 Quarter. Para el cálculo de la pensión a cargo del ISSSTEZAC de los trabajadores derechohabientes a que refieren los artículos 51 Bis y 51 Ter, al sueldo regulador se le restará un porcentaje de la pensión o renta vitalicia que el pensionado reciba del IMSS en los términos de la fracción IV Ter del artículo 4 y de los artículos 51 Bis y 51 Ter de este ordenamiento.
+
+Para los trabajadores derechohabientes amparados por la Ley del Seguro Social de 1973, el porcentaje de la pensión del IMSS referido en el párrafo anterior, dependerá de los años de antigüedad que le falten al trabajador derechohabiente para pensionarse por jubilación conforme la presente ley, de acuerdo con la tabla siguiente:
+
+Años que le faltan al trabajador afiliado Porcentaje de la Pensión del IMSS
+
+para alcanzar la pensión por jubilación del trabajador derechohabiente
+
+de conformidad con la Ley del Instituto amparado por la Ley del Seguro
+
+de Seguridad y Servicios Sociales de Social de 1973 a considerar para el
+
+los Trabajadores del Estado de Zacatecas. Cálculo de la pensión a cargo del
+
+ISSSTEZAC.
+
+0 0.00%
+
+1 5.00%
+
+2 10.00%
+
+3 15.00%
+
+4 20.00%
+
+5 25.00%
+
+6 30.00%
+
+7 35.00%
+
+8 40.00%
+
+9 45.00%
+
+10 o más 50.00%
+
+Para los trabajadores derechohabientes amparados por la Ley del Seguro Social de 1997, el porcentaje a que se refiere el primer párrafo de este artículo será el 100% de la pensión o renta vitalicia que el pensionado reciba del IMSS.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Trámite de solicitud de pensión
+
+###### Artículo 51 Quinquies.
+
+La solicitud de pensión la tramitará la o el interesado a través del Ente Público correspondiente y el ISSSTEZAC dictaminará dentro de los cuarenta y cinco días hábiles siguientes de haber recibido el expediente completo, que deberá incluir el dictamen de pensión del IMSS o el resolutivo de la Afore correspondiente, en los casos que proceda. No obstante, se podrá ampliar este plazo en casos de excepción justificada.
+
+El Dictamen a que se refiere el párrafo anterior, deberá reunir los requisitos de legalidad de todo acto administrativo y será notificado personalmente al solicitante.
 
 ### CAPÍTULO II. PENSIÓN POR JUBILACIÓN
 
@@ -887,49 +1097,75 @@ I. Que la muerte del trabajador derechohabiente no haya ocurrido a consecuencia 
 
 II. Que el trabajador derechohabiente haya cotizado por lo menos quince años, al ISSSTEZAC; y
 
-III. La pensión mensual de orfandad será equivalente a sesenta salarios mínimos generales; se repartirá equitativamente entre los hijos beneficiarios que cumplan con los requisitos establecidos en la presente Ley. Esta prestación se otorgará sin prejuicio de las demás que pudiera tener derecho de acuerdo con esta Ley.
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+III. La pensión mensual de orfandad será equivalente a sesenta veces el valor de la UMA; se repartirá equitativamente entre los hijos beneficiarios que cumplan con los requisitos establecidos en la presente Ley. Esta prestación se otorgará sin prejuicio de las demás que pudiera tener derecho de acuerdo con esta Ley.
 
 ### CAPÍTULO VI. PÓLIZAS DE DEFUNCIÓN Y DE AYUDA PARA GASTOS DE FUNERAL
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
 
 Póliza de defunción
 
 ###### Artículo 72.
 
-Al fallecimiento del trabajador derechohabiente que no tenga derecho a una pensión, el ISSSTEZAC hará entrega a sus familiares beneficiarios de un pago único equivalente a doscientos veinte salarios mínimos generales.
+Al fallecimiento del trabajador derechohabiente que no tenga derecho a una pensión, el ISSSTEZAC hará entrega a sus familiares beneficiarios de un pago único equivalente a doscientos (sic) veinte veces el valor de la UMA.
 
 Póliza de ayuda para gastos de funeral
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 73.
 
-Al fallecimiento de un trabajador derechohabiente, el ISSSTEZAC otorgará a sus familiares beneficiarios o a quien se haya hecho cargo de los gastos funerarios, una ayuda para gastos de funeral equivalente a doscientos salarios mínimos generales.
+Al fallecimiento de un trabajador derechohabiente, el ISSSTEZAC otorgará a sus familiares beneficiarios o a quien se haya hecho cargo de los gastos funerarios, una ayuda para gastos de funeral equivalente a doscientos veces el valor de la UMA.
 
-Al fallecimiento de un pensionado, el ISSSTEZAC otorgará a sus familiares beneficiarios o a quien se haya hecho cargo de los gastos funerarios, una ayuda para gastos de funeral equivalente a cien salarios mínimos generales.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Al fallecimiento de un pensionado, el ISSSTEZAC otorgará a sus familiares beneficiarios o a quien se haya hecho cargo de los gastos funerarios, una ayuda para gastos de funeral equivalente a cien veces el valor de la UMA.
 
 Para tales efectos, los familiares beneficiarios o quien se haya hecho cargo de los gastos funerarios deberán entregar al ISSSTEZAC copia certificada del acta de defunción y la documentación comprobatoria de los gastos.
 
 ### CAPÍTULO VII. AGUINALDO
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 Derecho al aguinaldo
 
 ###### Artículo 74.
 
-Los pensionados del ISSSTEZAC tendrán derecho a un aguinaldo anual equivalente a sesenta días de pensión.
+Los pensionados del ISSSTEZAC tendrán derecho a un aguinaldo anual equivalente a treinta días de pensión.
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
 
 Pago del aguinaldo
 
 ###### Artículo 75.
 
-El aguinaldo se pagará en dos parcialidades. La primera parcialidad, equivalente a cuarenta días de pensión, se pagará antes del veinte de diciembre de cada año. La segunda parcialidad, equivalente a veinte días de pensión, se pagará a más tardar el quince de enero de cada año.
+El aguinaldo se pagará en dos parcialidades. La primera parcialidad, equivalente a quince días de pensión, se pagará antes del veinte de diciembre de cada año. La segunda parcialidad, equivalente a quince días de pensión, se pagará a más tardar el quince de enero de cada año.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO VIII. PAGO TOTAL SUSTITUTIVO
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Beneficio del pago total sustitutivo
+
+###### Artículo 75 Bis.
+
+Los trabajadores derechohabientes o sus beneficiarios podrán optar por recibir el pago total de su pensión en una sola exhibición; el monto del pago recibido será denominado Pago Total Sustitutivo y reemplazará a los pagos mensuales de la pensión que le corresponda.
+
+El Pago Total Sustitutivo cubrirá el monto total de la pensión acumulada generada durante toda la vida laboral del trabajador, de conformidad con la disponibilidad presupuestaria del ISSSTEZAC.
+
+El Pago Total Sustitutivo requerirá un convenio formal por escrito entre el ISSSTEZAC y el trabajador derechohabiente o sus beneficiarios; el monto del pago recibido será determinado por la Junta Directiva; por lo anterior, al formalizar el convenio correspondiente, el trabajador derechohabiente o sus beneficiarios eximen al ISSSTEZAC de cualquier otra obligación o pago adicional por concepto de pensión.
+
+El Pago Total Sustitutivo se realizará en un plazo no mayor a cuarenta y cinco días naturales a partir de la fecha de suscripción del convenio correspondiente.
+
+## TÍTULO CUARTO. PRÉSTAMOS Y CRÉDITOS
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 Tipos de préstamos
-
-## TÍTULO CUARTO. PRÉSTAMOS Y CRÉDITOS
-
-### CAPÍTULO II. PRÉSTAMOS EXPRÉS Y A CORTO PLAZO
-
-Monto y plazo del préstamo exprés
 
 ###### Artículo 76.
 
@@ -1011,13 +1247,15 @@ Otorgamiento de nuevo préstamo
 
 No se concederá un nuevo préstamo mientras permanezca insoluto el anterior; sólo podrá refrendarse si la capacidad de pago del deudor lo permite, aplicándose las disposiciones reglamentarias.
 
-### CAPÍTULO III. PRÉSTAMOS A MEDIANO PLAZO
+### CAPÍTULO II. PRÉSTAMOS EXPRÉS Y A CORTO PLAZO
 
-Requisitos para obtener un préstamo a mediano plazo
+Monto y plazo del préstamo exprés
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 83.
 
-Los trabajadores derechohabientes que no tengan un préstamo o crédito vigente y hayan cotizado más de dieciocho meses, así como los pensionados, podrán obtener préstamos exprés hasta por un monto de cincuenta salarios mínimos generales, cumpliendo con los términos y condiciones establecidos en esta Ley y el reglamento correspondiente.
+Los trabajadores derechohabientes que no tengan un préstamo o crédito vigente y hayan cotizado más de dieciocho meses, así como los pensionados, podrán obtener préstamos exprés hasta por un monto de cincuenta veces el valor de la UMA, cumpliendo con los términos y condiciones establecidos en esta Ley y el reglamento correspondiente.
 
 Los préstamos exprés no requieren avales y deberán pagarse en un plazo máximo de seis meses. El reglamento de préstamos establecerá el procedimiento para el cobro de este tipo de préstamos.
 
@@ -1041,9 +1279,9 @@ Más de 24 meses hasta 48 meses 8 meses
 
 Más de 48 meses 12 meses
 
-### CAPÍTULO IV. PRÉSTAMOS PARA LA ADQUISICIÓN DE AUTOMÓVILES
+### CAPÍTULO III. PRÉSTAMOS A MEDIANO PLAZO
 
-Aprobación de fondos
+Requisitos para obtener un préstamo a mediano plazo
 
 ###### Artículo 86.
 
@@ -1051,21 +1289,25 @@ Los préstamos a mediano plazo podrán otorgarse a los trabajadores derechohabie
 
 Monto de los préstamos a mediano plazo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 87.
 
-Los préstamos a mediano plazo se otorgarán hasta por dos mil ciento treinta salarios mínimos generales. Los pensionados gozarán de estos beneficios conforme a las disposiciones reglamentarias.
+Los préstamos a mediano plazo se otorgarán hasta por dos mil ciento treinta veces el valor de la UMA. Los pensionados gozarán de estos beneficios conforme a las disposiciones reglamentarias.
 
 El plazo para la liquidación de los préstamos a mediano plazo será hasta tres años.
 
-### CAPÍTULO V. PRÉSTAMOS HIPOTECARIOS
+### CAPÍTULO IV. PRÉSTAMOS PARA LA ADQUISICIÓN DE AUTOMÓVILES
 
-Préstamos hipotecarios
+Aprobación de fondos
 
 ###### Artículo 88.
 
 La Junta Directiva, en el mes de enero de cada año, aprobará el monto que el ISSSTEZAC destinará al programa crediticio para la adquisición de automóviles, que se ajustará a las siguientes bases:
 
-I. El monto máximo de los préstamos para la adquisición de automóviles será el equivalente a dos mil ochocientos salarios mínimos generales;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+I. El monto máximo de los préstamos para la adquisición de automóviles será el equivalente a dos mil ochocientas veces el valor de la UMA;
 
 II. Los préstamos se otorgarán a los trabajadores derechohabientes que hayan cotizado más de dos años al ISSSTEZAC y a los pensionados;
 
@@ -1083,9 +1325,9 @@ Garantía prendaria
 
 Otorgado el préstamo para la adquisición de un automóvil, el ISSSTEZAC pagará directamente al concesionario o distribuidor automotriz. El trabajador derechohabiente endosará la factura del automóvil al ISSSTEZAC.
 
-### CAPÍTULO VI. CRÉDITOS PARA BIENES Y SERVICIOS
+### CAPÍTULO V. PRÉSTAMOS HIPOTECARIOS
 
-Derecho a obtener créditos para bienes y servicios
+Préstamos hipotecarios
 
 ###### Artículo 90.
 
@@ -1115,9 +1357,9 @@ V. El Fondo de Garantía para efectos de esta prestación será regulado de conf
 
 VI. Los demás requisitos que establezca el Reglamento de Préstamos.
 
-### CAPÍTULO VII. PRESTACIONES SOCIALES
+### CAPÍTULO VI. CRÉDITOS PARA BIENES Y SERVICIOS
 
-Objeto de las prestaciones sociales
+Derecho a obtener créditos para bienes y servicios
 
 ###### Artículo 92.
 
@@ -1137,9 +1379,9 @@ Descuentos en bienes y servicios
 
 El ISSSTEZAC, previa autorización de la Junta Directiva, podrá otorgar a los trabajadores derechohabientes y pensionados descuentos en la adquisición de bienes y servicios ofrecidos por sus áreas comerciales.
 
-### CAPÍTULO I. INCORPORACIÓN INDIVIDUAL
+### CAPÍTULO VII. PRESTACIONES SOCIALES
 
-Incorporación al régimen voluntario
+Objeto de las prestaciones sociales
 
 ###### Artículo 95.
 
@@ -1169,15 +1411,17 @@ Para el otorgamiento de las prestaciones sociales, el ISSSTEZAC podrá celebrar 
 
 ## TÍTULO QUINTO. RÉGIMEN VOLUNTARIO
 
-### CAPÍTULO II. INCORPORACIÓN COLECTIVA
+### CAPÍTULO I. INCORPORACIÓN INDIVIDUAL
 
-Facultad para incorporar entes públicos
+Incorporación al régimen voluntario
 
 ###### Artículo 98.
 
 El trabajador derechohabiente que cause baja definitiva podrá mantener voluntariamente la vigencia de su derecho a la pensión por jubilación, pagando bimestralmente las cuotas y aportaciones correspondientes.
 
-El monto de las cuotas y aportaciones será calculado a partir del último sueldo básico de cotización registrado en el lSSSTEZAC, aplicándole los respectivos incrementos que se generen de conformidad con las percepciones de la categoría que tenía el trabajador derechohabiente al ser dado de baja.
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+El monto de las cuotas y aportaciones será calculado a partir del último sueldo básico de cotización integrado registrado en el ISSSTEZAC, aplicándole los respectivos incrementos que se generen de conformidad con las percepciones de la categoría que tenía el trabajador derechohabiente al ser dado de baja.
 
 Extinción de derechos
 
@@ -1203,9 +1447,9 @@ Improcedencia del régimen voluntario
 
 No procederá la incorporación voluntaria cuando, de manera previsible, se comprometa el equilibrio financiero del lSSSTEZAC o la eficacia de los servicios que proporciona a los asegurados en el régimen obligatorio.
 
-### CAPÍTULO I. ESTRUCTURA ORGÁNICA DEL ISSSTEZAC
+### CAPÍTULO II. INCORPORACIÓN COLECTIVA
 
-Órganos de gobierno
+Facultad para incorporar entes públicos
 
 ###### Artículo 102.
 
@@ -1229,9 +1473,9 @@ El ente público deberá contar con la infraestructura tecnológica necesaria pa
 
 ## TÍTULO SEXTO. ORGANIZACIÓN DEL ISSSTEZAC
 
-### CAPÍTULO II. COMITÉS DE APOYO
+### CAPÍTULO I. ESTRUCTURA ORGÁNICA DEL ISSSTEZAC
 
-Creación de Comités de Apoyo
+Órganos de gobierno
 
 ###### Artículo 105.
 
@@ -1577,9 +1821,9 @@ XXVI. Informar a la Junta Directiva, cada seis meses, la cuantía del Fondo de G
 
 XXVII. Las demás facultades que le asignen la Junta Directiva, otras leyes y los reglamentos aplicables.
 
-### CAPÍTULO III. PATRIMONIO, RESERVAS E INVERSIONES
+### CAPÍTULO II. COMITÉS DE APOYO
 
-Constitución de la Reserva Técnica del ISSSTEZAC
+Creación de Comités de Apoyo
 
 ###### Artículo 121.
 
@@ -1609,9 +1853,9 @@ El Director General elaborará los proyectos de reglamento de los Comités de Ap
 
 Los Comités de Apoyo deberán integrarse con servidores públicos del propio Instituto, los que en ningún caso percibirán un salario o compensación adicional al que tienen asignado.
 
-### CAPÍTULO IV. FIDEICOMISO FONDO DE PENSIONES
+### CAPÍTULO III. PATRIMONIO, RESERVAS E INVERSIONES
 
-Integración del Fideicomiso Fondo de Pensiones
+Constitución de la Reserva Técnica del ISSSTEZAC
 
 ###### Artículo 124.
 
@@ -1663,11 +1907,25 @@ Los bienes inmuebles pertenecientes al ISSSTEZAC gozarán de las franquicias, ex
 
 El ISSSTEZAC se considerará de acreditada solvencia y no estará obligado a constituir depósitos, fianzas ni garantías legales.
 
-Responsabilidad de los entes públicos
+(NOTA: EL 12 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 149/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE ENERO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Capacidad financiera del ISSSTEZAC
 
 ###### Artículo 128.
 
-El otorgamiento de las prestaciones estará sujeto a la capacidad financiera del ISSSTEZAC; cuando los recursos del ISSSTEZAC no sean suficientes para cumplir las obligaciones a su cargo, éstas se cubrirán proporcionalmente por los entes públicos.
+El otorgamiento de las prestaciones y el cumplimiento de las obligaciones del ISSSTEZAC, estará sujeta a su capacidad financiera. En caso de que el ISSSTEZAC se coloque en estado de quebranto financiero, se basará en estudios técnicos y actuariales, para proponer las modificaciones necesarias para recuperar su estabilidad financiera.
+
+(NOTA: EL 12 DE ENERO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 149/2024, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 14 DE ENERO DE 2026 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Cumplimiento a la política de austeridad
+
+###### Artículo 128 Bis.
+
+Para cumplir con la política de austeridad en el ejercicio de los recursos públicos y administrarlos conforme a los principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, transparencia, control y rendición de cuentas para satisfacer los objetivos a los que estén destinados, así como para evitar las deudas, subsidios, avales o garantías, que imposibiliten un manejo sostenible de las finanzas públicas del ISSSTEZAC, el otorgamiento de las prestaciones sociales y el cumplimiento de sus obligaciones estarán a cargo de la reserva técnica del ISSSTEZAC conforme a su capacidad financiera, observando en todo momento la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios y demás normativas aplicable.
 
 Política de inversiones
 
@@ -1691,9 +1949,9 @@ La reserva técnica del ISSSTEZAC es inembargable e imprescriptible.
 
 La Reserva Técnica del ISSSTEZAC estará destinada al cumplimiento del objeto y administración de la seguridad social, por lo que no podrá disponerse de ella en ningún caso, ni por autoridad alguna, aun a título de préstamo reintegrable, si no es por alguna causa de las expresamente señaladas en esta Ley y mediante los procedimientos ordenados en cada caso.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. FIDEICOMISO FONDO DE PENSIONES
 
-Prescripción de cuotas, descuentos e intereses
+Integración del Fideicomiso Fondo de Pensiones
 
 ###### Artículo 132.
 
@@ -1725,9 +1983,9 @@ El Fideicomiso Fondo de Pensiones solo podrá utilizarse para el pago de pension
 
 La Junta Directiva y el Director General no podrán acordar que los recursos del Fideicomiso Fondo de Pensiones, sean utilizados para sufragar necesidades de gasto operativo del ISSSTEZAC.
 
-### CAPÍTULO VI. RESPONSABILIDADES Y SANCIONES
+### CAPÍTULO V. PRESCRIPCIÓN
 
-Principios rectores
+Prescripción de cuotas, descuentos e intereses
 
 ###### Artículo 135.
 
@@ -1751,9 +2009,9 @@ Los créditos a favor del ISSSTEZAC, cualquiera que sea su especie, prescribirá
 
 Las obligaciones que en favor del ISSSTEZAC señale la presente Ley, a cargo de los entes públicos, prescribirán en el plazo de diez años, contados a partir de la fecha que sean exigibles. En ambos casos, la prescripción se interrumpirá por cualquier gestión de cobro.
 
-### CAPÍTULO VII. COMPETENCIA PARA RESOLVER CONFLICTOS Y MEDIOS DE DEFENSA
+### CAPÍTULO VI. RESPONSABILIDADES Y SANCIONES
 
-Competencia para resolver conflictos
+Principios rectores
 
 ###### Artículo 138.
 
@@ -1765,17 +2023,21 @@ Sujeción al régimen de responsabilidades
 
 Los servidores públicos del ISSSTEZAC estarán sujetos a las responsabilidades civiles, penales y administrativas en que puedan incurrir, de acuerdo con las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 Omisión de inscribir a los trabajadores
 
 ###### Artículo 140.
 
-El incumplimiento del ente público de inscribir a los trabajadores derechohabientes, dar el aviso de baja, de reingreso, de licencias o de modificaciones, descuentos o deducciones correspondientes, se sancionará con una multa de cien cuotas de salario mínimo general vigente en el estado.
+El incumplimiento del ente público de inscribir a los trabajadores derechohabientes, dar el aviso de baja, de reingreso, de licencias o de modificaciones, descuentos o deducciones correspondientes, se sancionará con una multa de cien veces el valor de la UMA.
 
-Omisión de enterar cuotas, aportaciones y descuento
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+Omisión de enterar cuotas, aportaciones y descuentos
 
 ###### Artículo 141.
 
-El ente público que incurra en la omisión de enterar oportunamente las aportaciones y retenciones por cuotas y descuentos por prestaciones al ISSSTEZAC, será sancionado con quinientas cuotas de salario mínimo general vigente en el Estado.
+El ente público que incurra en la omisión de enterar oportunamente las aportaciones y retenciones por cuotas y descuentos por prestaciones al ISSSTEZAC, será sancionado con quinientas veces el valor de la UMA.
 
 Responsabilidad del trabajador
 
@@ -1853,17 +2115,23 @@ El pago de cuotas y aportaciones en monto superior por los entes públicos, no g
 
 El ISSSTEZAC devolverá al ente público la cantidad pagada en exceso; en ningún caso procederá la devolución de actualizaciones o cualquier accesorio diferente.
 
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 Modificación de la base de cotización
 
 ###### Artículo 153.
 
-Si un ente público modifica los conceptos que integran el sueldo básico de cotización o el monto de cuotas y aportaciones, el ISSSTEZAC devolverá al ente público las cantidades excedentes de las cuotas y aportaciones y le prevendrá para que se abstenga de alterar las bases de cotización. Si el ente público reincide será sancionado con una multa de quinientas cuotas de salario mínimo general vigente en el Estado y el servidor público responsable será sancionado con una multa de hasta trescientas cuotas de salario mínimo general vigente en el Estado.
+Si un ente público modifica los conceptos que integran el sueldo básico de cotización o el monto de cuotas y aportaciones, el ISSSTEZAC devolverá al ente público las cantidades excedentes de las cuotas y aportaciones y le prevendrá para que se abstenga de alterar las bases de cotización. Si el ente público reincide será sancionado con una multa de quinientas veces el valor de la UMA y el servidor público responsable será sancionado con una multa de hasta trescientas veces el valor de la UMA.
 
 Reincidencia
 
 ###### Artículo 154.
 
 La reincidencia en la violación a las normas de esta Ley será sancionada con la imposición de la multa que corresponda a la infracción, incrementada en un cien por ciento.
+
+### CAPÍTULO VII. COMPETENCIA PARA RESOLVER CONFLICTOS Y MEDIOS DE DEFENSA
+
+Competencia para resolver conflictos
 
 ###### Artículo 155.
 
@@ -2236,3 +2504,157 @@ DRA. GEMA ALEJANDRINA MERCADO SÁNCHEZ.
 LA DIRECTORA GENERAL DEL PATRONATO ESTATAL DE PROMOTORES VOLUNTARIOS
 
 C.P. EVANGELINA ÁVALOS VILLAREAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 621.- REFORMAS Y ADICIONES A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano Oficial de Gobierno del Estado de Zacatecas, sin perjuicio de lo establecido en los artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los trámites, procedimientos, solicitudes de prestaciones y demás asuntos iniciados antes del inicio de vigencia de este Decreto, se resolverán conforme a las disposiciones vigentes al momento de su inicio o presentación.
+
+###### ARTÍCULO TERCERO.
+
+Las pensiones establecidas para los trabajadores derechohabientes que a la entrada en vigor del presente Decreto coticen al ISSSTEZAC, se incrementarán anualmente en la misma proporción que el Índice Nacional de Precios al Consumidor, considerando para tal efecto, el correspondiente al mes de enero de cada año.
+
+###### ARTÍCULO CUARTO.
+
+En lo que respecta a las cuotas de los trabajadores de entes públicos estatales a que se refiere el artículo 26 de esta Ley, a partir del año 2043 serán reducidas en un 0.5% anual, hasta alcanzar el 8.00%, siempre y cuando no exista déficit financiero del ISSSTEZAC.
+
+###### ARTÍCULO QUINTO.
+
+En lo que respecta a las cuotas de los trabajadores de entes públicos municipales a que se refiere el artículo 26 de esta Ley, a partir del año 2043 serán reducidas en un 0.5% anual, hasta alcanzar el 8.00%, siempre y cuando no exista déficit financiero del ISSSTEZAC.
+
+###### ARTÍCULO SEXTO.
+
+En lo que respecta a las aportaciones de los entes públicos estatales a que se refiere el artículo 30 de esta Ley, a partir del año 2038 y hasta el año 2042 serán aumentadas al 38.00%, a partir del año 2043 serán reducidas en un 1 % anual, hasta alcanzar el 10.00%, siempre y cuando no exista déficit financiero del ISSSTEZAC.
+
+###### ARTÍCULO SÉPTIMO.
+
+En lo que respecta a las aportaciones de los entes públicos municipales a que se refiere el artículo 30 de esta Ley, a partir del año 2038 y hasta el año 2042 serán aumentadas al 28.00%, a partir del año 2043 serán reducidas en un 1 % anual, hasta alcanzar el 8.00%, siempre y cuando no exista déficit financiero del ISSSTEZAC.
+
+###### ARTÍCULO OCTAVO.
+
+Los trabajadores derechohabientes que se incorporen al régimen del ISSSTEZAC a partir de la entrada en vigor del presente Decreto cubrirán una cuota obligatoria equivalente al 16% del sueldo básico de cotización integrado; por lo que refiere a los entes públicos estatales aportarán un 32% del sueldo básico de cotización integrado y los entes públicos municipales aportarán un 22% del sueldo básico de cotización integrado.
+
+###### ARTÍCULO NOVENO.
+
+Para los trabajadores derechohabientes que se encontraban cotizando al ISSSTEZAC al 21 de marzo de 2015 y que al momento de la entrada en vigor de este Decreto ya tuvieran derecho a recibir una pensión en los términos de esta Ley, el sueldo regulador a que se refiere la fracción XX del artículo 4 del presente ordenamiento, será el 94% del promedio de los sueldos básicos de cotización del trabajador derechohabiente utilizados para el cálculo de sus cuotas durante los últimos años de servicio, previa actualización con base al Índice Nacional de Precios al Consumidor, de acuerdo con la siguiente tabla:
+
+AÑOS FALTANTES PARA CUMPLIR TREINTA AÑOS A
+
+AÑOS DE ANTIGÜEDAD AL 21 DE MARZO DE 2015 PROMEDIAR
+
+0 a 2 0
+
+3 o MÁS 3
+
+Para los trabajadores derechohabientes que se encuentren cotizando al ISSSTEZAC a la entrada en vigor del presente ordenamiento y no se encuentren en el supuesto del párrafo anterior, el sueldo regulador a que se refiere la fracción XX del artículo 4, será el 94% del promedio, previa actualización con base en el Índice Nacional de Precios al Consumidor, de los últimos 5 años de sus sueldos básicos de cotización utilizados para el cálculo de sus cuotas.
+
+###### ARTÍCULO DÉCIMO.
+
+La Complementariedad a que se refieren los artículos 51 Bis, 51 Ter y 51 Quarter de este Decreto, solo serán aplicables para los trabajadores derechohabientes que inicien a cotizar ante el ISSSTEZAC a partir de la entrada en vigor de este ordenamiento.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+La burocracia obtendrá el derecho a que el concepto tabular de compensación se incorpore al sueldo regulador establecido en el artículo 4 fracción XX de esta Ley y, por ende, a la base para el cálculo y otorgamiento de prestaciones, en particular de las pensiones, de conformidad con la siguiente tabla:
+
+Año Compensación
+
+2024 0.00%
+
+2025 4.00%
+
+2026 8.00%
+
+2027 12.00%
+
+2028 16.00%
+
+2029 20.00%
+
+2030 24.00%
+
+2031 28.00%
+
+2032 32.00%
+
+2033 36.00%
+
+2034 40.00%
+
+2035 44.00%
+
+2036 48.00%
+
+2037 52.00%
+
+2038 56.00%
+
+2039 60.00%
+
+2040 64.00%
+
+2041 68.00%
+
+2042 72.00%
+
+2043 76.00%
+
+2044 80.00%
+
+2045 84.00%
+
+2046 88.00%
+
+2047 92.00%
+
+2048 96.00%
+
+2049 en adelante 100.00%
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Se instruye a la Auditoría Superior del Estado de Zacatecas a fin de que realice las investigaciones y procedimientos necesarios para iniciar el Procedimiento de Responsabilidades Administrativas correspondiente y se determinen las responsabilidades administrativas que procedan por el incumplimiento y violación a las Leyes en la materia que trajeron como consecuencia el desfalco y quebranto financiero del ISSSTEZAC en perjuicio de los derechohabientes y, en su caso, se instauren las denuncias en materia penal correspondientes en contra de los servidores o ex servidores públicos que hayan tenido injerencia o relación con el ISSSTEZAC.
+
+Para tal efecto, la Auditoría Superior del Estado de Zacatecas en un plazo que no exceda de noventa días posteriores a la entrada en vigor del presente Decreto, presentará a la Legislatura del Estado un informe detallado de todas las denuncias, investigaciones, auditorías y demás trámites legales que haya instaurado o realizado a efecto de determinar posibles responsabilidades administrativas en contra de los servidores públicos señalados en el párrafo que antecede.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El Director General del ISSSTEZAC no podrá realizar nuevas contrataciones de personal dentro del Instituto, asimismo, las plazas pendientes de cubrir, quedarán congeladas por tiempo indefinido; se limitará el pago de prestaciones laborales de carácter extraordinario, especialmente las relacionadas con pago de estímulos en los servicios no catalogados como prioritarios, como bonos, incentivos y cualquier otra remuneración adicional, lo anterior con el fin de optimizar los recursos disponibles y lograr la estabilidad financiera del Instituto.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Con el fin de alcanzar la estabilidad económica y financiera del ISSSTEZAC, además de proveerlo de recursos económicos para el otorgamiento de prestaciones y el cumplimiento de las obligaciones, el Titular del Ejecutivo del Estado queda facultado para otorgar adelanto de aportaciones al ISSSTEZAC durante los ejercicios fiscales 2024, 2025, 2026 y 2027 provenientes del Fondo de Estabilización de los Ingresos del Estado de Zacatecas, conforme a la disponibilidad presupuestaria que otorgue la Secretaría de Finanzas; de igual forma, el Titular del Ejecutivo del Estado, con los recursos que integran el Fondo de Estabilización de los Ingresos del Estado de Zacatecas, podrá adquirir los bienes inmuebles que integran la reserva técnica del ISSSTEZAC.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Dentro de los sesenta días naturales posteriores a la entrada en vigor del presente Decreto, la Junta Directiva del ISSSTEZAC deberá emitir lineamientos que regulen las acciones necesarias para la liquidación gradual de los recursos humanos, materiales y financieros, considerando entre otros, esquemas de liquidación, concesión, venta o arrendamiento, hasta la extinción total de la actividad empresarial.
+
+Dentro del mismo plazo, deberán emitirse los lineamientos que contengan la creación del Comité Técnico de Riesgos Financieros y sus atribuciones a efecto de vigilar y evaluar la administración financiera del ISSSTEZAC, que deberá rendir informes trimestrales a la Junta Directiva, a la Comisión de Vigilancia del ISSSTEZAC y a la Legislatura del Estado, de las acciones realizadas.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El ISSSTEZAC dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, emitirá los lineamientos correspondientes a efecto de establecer las bases para la implementación y operación del Pago Total Sustitutivo.
+
+Estos lineamientos tendrán como objetivo principal proporcionar una estructura clara y detallada sobre cómo se llevará a cabo este proceso de pago. Así mismo, el ISSSTEZAC definirá los pasos específicos que los trabajadores derechohabientes o sus beneficiarios deberán seguir para acceder al beneficio del Pago Total Sustitutivo, incluyendo la documentación e información requerida, los plazos para la presentación de solicitudes y los criterios de evaluación, elegibilidad y procedencia.
+
+En su caso, se incluirán los formatos específicos que los solicitantes utilizarán para presentar sus solicitudes.
+
+El ISSSTEZAC será el responsable de comunicar a los solicitantes el estado de su trámite y, en su caso, los motivos de la aceptación o rechazo de su solicitud.
+
+Además, el ISSSTEZAC se asegurará de que todos los procedimientos relacionados con el Pago Total Sustitutivo se lleven a cabo conforme a lo estipulado por esta Ley y su normatividad aplicable.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Lo dispuesto en el artículo 75 Bis entrará en vigor al momento de la publicación de los lineamientos dispuestos en el artículo décimo sexto transitorio.
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Se derogan todas las disposiciones que contravengan el presente Decreto.
