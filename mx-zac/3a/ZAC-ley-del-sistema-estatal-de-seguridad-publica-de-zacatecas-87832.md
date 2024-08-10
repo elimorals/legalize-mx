@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-sistema-estatal-de-seguridad-publica-de-zacatecas-87832
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-05"
-last_updated: "2023-09-30"
+last_updated: "2024-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de mayo de 2012.
 
@@ -255,9 +255,9 @@ III. Las Policías Preventivas Municipales;
 
 IV. El Cuerpo de Vigilancia y Custodia del Sistema Penitenciario y del Sistema de Justicia para Adolescentes;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
 
-V. El personal operativo de la Policía de Seguridad Vial en el Estado, y
+V. El personal operativo de la Policía Vial Preventiva en el Estado, y
 
 > <small>(ADICIONADA, P.O. 4 DE ENERO DE 2020)</small>
 
@@ -331,9 +331,9 @@ VII. Acordar con los presidentes municipales, en el marco del respeto y colabora
 
 VIII. Administrar la licencia oficial colectiva, que autorice la posesión y portación de armamento al personal de las Instituciones Policiales y del Instituto, a excepción de la Policía Ministerial;
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
 
-IX. Ejercer el mando de la Policía Estatal Preventiva; de la Dirección General de Prevención y Reinserción Social con su Cuerpo de Vigilancia y Custodia; y del personal operativo de la Policía de Seguridad Vial, en el ámbito de la Seguridad Pública;
+IX. Ejercer el mando de la Policía Estatal Preventiva; de la Dirección General de Prevención y Reinserción Social con su Cuerpo de Vigilancia y Custodia; y del personal operativo de la Policía Vial Preventiva, en el ámbito de la Seguridad Pública;
 
 > <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1539,9 +1539,9 @@ c) La Policía Estatal Preventiva;
 
 d) La Policía de Investigación;
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
 
-e) El área operativa de seguridad vial;
+e) El área operativa de la Policía Vial Preventiva;
 
 f) El Cuerpo de Seguridad y Custodia, y
 
@@ -2138,3 +2138,21 @@ Dentro de los cuatro meses siguientes a la publicación de este decreto, los ayu
 Cuarto. De conformidad con la Ley de Austeridad, Disciplina y Responsabilidad Financiera del Estado de Zacatecas y sus Municipios, los ayuntamientos destinarán las partidas presupuestales correspondientes, para cumplir con lo establecido en este decreto.
 
 Quinto. Para efectos del contenido de los artículos 6 fracción VIII, 15 fracción I, 16 fracción I, 23 al 27, 30 y 31 de la Ley para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana para el Estado de Zacatecas, el Programa Estatal de Prevención Social de la Violencia y la Delincuencia de la actual administración gubernamental, deberá estar aprobado y publicado dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 456.- SE REFORMA LA LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS, LA LEY DE LAS INSTITUCIONES POLICIALES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS".]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, la Secretaría de Seguridad Pública constituirá el Centro de Sanciones Administrativas y el Registro de Infractores.
+
+En dicho plazo, se nombrarán a los oficiales calificadores y, en general, a los servidores públicos del Centro de Sanciones Administrativas.
+
+Artículo tercero. El titular del Poder Ejecutivo del Estado deberá instrumentar una campaña de comunicación social a través de las dependencias competentes, para dar a conocer a la sociedad el inicio de funciones, el objeto y el impacto del referido Centro de Sanciones.
+
+La campaña de difusión se llevará a cabo, por lo menos, dos meses antes del primer operativo que se ejecute bajo el marco del presente decreto.
+
+Artículo cuarto. En un plazo que no exceda de 60 días, contados a partir de la publicación de este decreto, el Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento General para armonizarlo con lo previsto por este instrumento legislativo.
+
+Artículo quinto. Las disposiciones legales que hagan mención a la Policía de Seguridad Vial del Estado, se entenderán dirigidas a la Policía Vial Preventiva.
