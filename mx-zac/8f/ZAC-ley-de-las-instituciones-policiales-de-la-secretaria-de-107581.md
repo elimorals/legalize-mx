@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-las-instituciones-policiales-de-la-secretaria-de-107581"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-22"
-last_updated: "2015-04-22"
+last_updated: "2024-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107581&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LAS INSTITUCIONES POLICIALES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 22 de abril de 2015.
 
@@ -69,11 +69,15 @@ I. Arma de cargo: la asignada a un elemento policial, debidamente identificada y
 
 II. Arma de fuego: las autorizadas para el uso de los cuerpos de seguridad pública, de conformidad con la Ley Federal de Armas de Fuego y Explosivos y su Reglamento;
 
-III. Elemento policial: al integrante de las áreas de análisis táctico, investigación y operaciones de la Policía Estatal y al elemento operativo de las unidades y agrupamientos, de la Policía Preventiva de Tránsito, la Policía de Vigilancia y Custodia del Sistema Penitenciario y del Sistema de Justicia para Adolescentes, la Policía Metropolitana, y demás que determinen otras disposiciones aplicables;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+III. Elemento policial: al integrante de las áreas de análisis táctico, investigación y operaciones de la Policía Estatal y al elemento operativo de las unidades y agrupamientos, de la Policía Vial Preventiva, la Policía de Vigilancia y Custodia del Sistema Penitenciario y del Sistema de Justicia para Adolescentes, la Policía Metropolitana, y demás que determinen otras disposiciones aplicables;
 
 IV. Gobernador: al Gobernador del Estado de Zacatecas;
 
-V. Instituciones Policiales: a la Policía Estatal, Policía Preventiva de Tránsito, la Policía de Vigilancia y Custodia del Sistema Penitenciario y del Sistema de Justicia para Adolescentes, la Policía Metropolitana;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+V. Instituciones Policiales: a la Policía Estatal, Policía Vial Preventiva, la Policía de Vigilancia y Custodia del Sistema Penitenciario y del Sistema de Justicia para Adolescentes, la Policía Metropolitana;
 
 VI. Ley: la presente Ley;
 
@@ -161,9 +165,11 @@ XXXIII. Las demás que le atribuyan las leyes.
 
 Mando
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 4.
 
-La Secretaría estará a cargo del Secretario, quien ejerce autoridad jerárquica sobre todo el personal de la misma y tiene el mando directo de la Policía Estatal, la Policía Preventiva de Tránsito, la Policía de Vigilancia y Custodia del Sistema Penitenciario y del Sistema de Justicia para Adolescentes y la Policía Metropolitana.
+La Secretaría estará a cargo del Secretario, quien ejerce autoridad jerárquica sobre todo el personal de la misma y tiene el mando directo de la Policía Estatal, la Policía Vial Preventiva, la Policía de Vigilancia y Custodia del Sistema Penitenciario y del Sistema de Justicia para Adolescentes y la Policía Metropolitana.
 
 De conformidad con la organización jerárquica de las Instituciones Policiales, el Secretario tiene el rango de Comisario General.
 
@@ -473,7 +479,9 @@ Instituciones Policiales
 
 Las Instituciones Policiales se adscribirán a la Subsecretaría que determine el Reglamento Interno, o bien, a alguna de las siguientes dependencias:
 
-I. Dirección de Transporte, Tránsito y Vialidad;
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+I. Dirección de Policía Vial Preventiva;
 
 II. Coordinación de la Policía Metropolitana;
 
@@ -679,7 +687,9 @@ I. Sistema de Especialización:
 
 a) Policía de Proximidad y Atención a Víctimas: que será el cuerpo de policía encargado de las labores de vigilancia y patrullaje, así como de atender de manera inmediata y canalizar a las víctimas del delito, además de recibir las denuncias sobre hechos que puedan ser constitutivos de delito en las áreas geográficas de atención que se determinen;
 
-b) Policía Preventiva de Tránsito: que será el cuerpo de policía encargado de vigilar, dirigir y controlar la circulación de peatones y vehículos en las vías públicas;
+> <small>(REFORMADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+b) Policía Vial Preventiva: que será el cuerpo de policía encargado de vigilar, dirigir y controlar la circulación de peatones y vehículos en las vías públicas;
 
 c) Policía Metropolitana: que será el cuerpo de policía de los Municipios de Zacatecas y Guadalupe en coordinación con el Gobierno del Estado, encargados de preservar el orden y la paz pública, en los términos del convenio previamente establecido;
 
@@ -1756,3 +1766,23 @@ LIC. JAIME SANTOYO CASTRO.
 EL SECRETARIO DE SEGURIDAD PÚBLICA
 
 GRAL. JESÚS PINTO ORTÍZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 456.- SE REFORMA LA LEY DE TRANSPORTE, TRÁNSITO Y VIALIDAD DEL ESTADO DE ZACATECAS, LA LEY DE LAS INSTITUCIONES POLICIALES DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE ZACATECAS Y LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Dentro de los noventa días siguientes a la entrada en vigor de este Decreto, la Secretaría de Seguridad Pública constituirá el Centro de Sanciones Administrativas y el Registro de Infractores.
+
+En dicho plazo, se nombrarán a los oficiales calificadores y, en general, a los servidores públicos del Centro de Sanciones Administrativas.
+
+Artículo tercero. El titular del Poder Ejecutivo del Estado deberá instrumentar una campaña de comunicación social a través de las dependencias competentes, para dar a conocer a la sociedad el inicio de funciones, el objeto y el impacto del referido Centro de Sanciones.
+
+La campaña de difusión se llevará a cabo, por lo menos, dos meses antes del primer operativo que se ejecute bajo el marco del presente decreto.
+
+Artículo cuarto. En un plazo que no exceda de 60 días, contados a partir de la publicación de este decreto, el Titular del Poder Ejecutivo del Estado deberá modificar el Reglamento General para armonizarlo con lo previsto por este instrumento legislativo.
+
+Artículo quinto. Las disposiciones legales que hagan mención a la Policía de Seguridad Vial del Estado, se entenderán dirigidas a la Policía Vial Preventiva.
