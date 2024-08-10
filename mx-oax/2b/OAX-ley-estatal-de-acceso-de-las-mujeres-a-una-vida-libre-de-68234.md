@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-07-20"
+last_updated: "2024-08-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -179,6 +179,10 @@ XIX. Protocolo Alba: Es el mecanismo institucional que permite la coordinación 
 
 XX. Trabajo reeducativo con agresores: El proceso mediante el cual se trabaja de manera individual y/o colectivamente para erradicar las creencias, prácticas y conductas que posibilitan, justifican, y sostienen el ejercicio de las violencias contra las mujeres en cualquiera de sus tipos y modalidades; a través de programas integrales y gratuitos basados en la perspectiva de género, los derechos humanos de las mujeres, con el objeto de la reinserción social del agresor. Este proceso deberá basarse y orientarse a la prevención de la violencia contra las mujeres, a través de procesos educativos y socioculturales, orientados a erradicar y garantizar la no repetición de la violencia contra las mujeres.
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XX (SIC). Espacio Público: Espacios abiertos, áreas o predios destinados al uso y disfrute colectivo, con acceso generalizado y libre tránsito.
+
 ###### Artículo 7.
 
 Los tipos de Violencia contra las Mujeres son:
@@ -195,9 +199,13 @@ III. Violencia patrimonial: Es cualquier acto u omisión que menoscabe el patrim
 
 IV. Violencia económica: Es toda acción u omisión del agresor que afecte la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar sus ingresos económicos, así como la percepción de un salario menor por igual trabajo dentro de un mismo centro laboral;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
 
-V. Violencia Sexual.- Cualquier acto realizado por la persona agresora que degrade, dañe o atente contra el cuerpo y/o la sexualidad de la víctima; puede consistir en: la imposición mediante violencia física o psicológica de relaciones sexuales, incluso la ejercida por el cónyuge o la pareja sentimental; la explotación o comercio sexual; el acoso u hostigamiento sexual; el empleo de mujeres sin su consentimiento y de niñas en pornografía; los delitos contra la libertad sexual e integridad de las personas señalados en el Código Penal para el Estado Libre y Soberano de Oaxaca, y todos los abusos, agresiones y conductas que atenten o limiten el derecho a la libertad, dignidad, integridad y desarrollo físico y sexual de las mujeres;
+También ejercerá violencia económica el agresor que se desentienda de sus obligaciones familiares de aportar recursos económicos, realizar labores domésticas y/o del cuidado de las personas dependientes de la familia, así como las aportaciones necesarias para la preservación o incremento del patrimonio familiar.
+
+> <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+V. Violencia sexual.- Cualquier acto realizado por la persona agresora que degrade, dañe o atente contra el cuerpo y/o la sexualidad de la víctimas (sic); en espacio público o privado; puede consistir en: la imposición mediante violencia física o psicológica de relaciones sexuales, incluso la ejercida por el cónyuge o la pareja sentimental; la explotación o comercio sexual; el acoso u hostigamiento sexual; el empleo de mujeres sin su consentimiento y de niñas en pornografía; los delitos contra la libertad sexual e integridad de las personas señalados en el Código Penal para el Estado Libre y Soberano de Oaxaca, y todos los abusos, agresiones y conductas que atenten o limiten el derecho a la libertad, dignidad, integridad y desarrollo físico y sexual de las mujeres;
 
 > <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES SIMILAR AL DEL PRIMER PÁRRAFO DEL ARTÍCULO 19 BIS, P.O. 10 DE NOVIEMBRE DE 2018]</small>
 
@@ -245,9 +253,31 @@ g) Interponer acciones legales con base en hechos falsos o inexistentes, en cont
 
 h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos.
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XII. Violencia a través de interpósita persona.- Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
+
+Se manifiesta a través de diversas conductas, entre otras:
+
+a) Amenazar con causar daño a las hijas e hijos;
+
+b) Amenazar con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+c) Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+d) Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f) Ocultar, retener o sustraer a hijas y/o hijos, así como a familiares o personas allegadas;
+
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común; y
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos;
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-XII. Cualesquiera otras formas análogas de violencia que lesione o sean susceptibles de dañar la dignidad, integridad, patrimonio o libertad de las mujeres.
+XIII. Cualesquiera otras formas análogas de violencia que lesione o sean susceptibles de dañar la dignidad, integridad, patrimonio o libertad de las mujeres.
 
 ## TÍTULO II. DE LAS MODALIDADES DE LA VIOLENCIA
 
@@ -562,6 +592,12 @@ Se consideran actos de violencia simbólica, la realización de concursos, cert�
 Se encuentra comprendida en esta definición, los concursos o certámenes de belleza, y la elección de reinas, princesas u otras expresiones similares.
 
 Queda prohibida la asignación de recursos públicos, publicidad oficial, subsidios, auspicios institucionales por parte de los Poderes Públicos, los Órganos Autónomos y los Municipios del Estado de Oaxaca, para la realización o promoción de las actividades señaladas en el presente artículo, las cuales tampoco podrán formar parte de la publicidad oficial o de las campañas de promoción al turismo.
+
+> <small>(ADICIONADO, P.O. 10 DE AGOSTO DE 2024)</small>
+
+###### Artículo 18 Ter.
+
+Se considera acoso sexual en espacios públicos a la forma de violencia que conlleva un abuso de poder hacia la victima, sin tener relación alguna con el agresor; se manifiesta a través de una conducta física y verbal de connotación sexual no consentida, que se ejerza sobre una o varias personas, en espacios y medios de transporte público.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -1597,13 +1633,17 @@ XI. Impulsar la suscripción de acuerdos de concertación entre las diferentes i
 
 XII. Implementar y operar el "Protocolo Alba" en el territorio del Estado y coordinarse con la Federación;
 
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XIII. Promover y garantizar espacios y transporte público seguro y libre de todo tipo de violencia contra las mujeres, adolescentes y niñas;
+
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XIII. Educar en los derechos humanos a las mujeres en su lengua materna; y
+XIV. Educar en los derechos humanos a las mujeres en su lengua materna; y,
 
 > <small>(ADICIONADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XIV. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
+XV. Las demás que esta Ley y otros ordenamientos aplicables les confieran.
 
 ###### Artículo 55.
 
@@ -1903,11 +1943,11 @@ XII. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" e
 
 XIII. Las demás previstas para el cumplimiento de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 61.
 
-Corresponde a la Secretaría de Seguridad y Protección Ciudada (sic):
+Corresponde a la Secretaría de Seguridad y Protección Ciudadana:
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
@@ -1952,6 +1992,10 @@ XIII. Establecer áreas especializadas con personal capacitado y perspectiva de 
 > <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
 
 XIV. Difundir por medíos electrónicos, los datos generales de las mujeres, adolescentes y niñas reportadas como desaparecidas, para que la población en general pueda aportar información sobre su paradero.
+
+> <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
+
+XIV (SIC). Diseñar e implementar acciones y operativos coordinados con las policías municipales de forma permanente para prevenir, sancionar y erradicar el acoso sexual en lugares públicos, y;
 
 > <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
 
@@ -3074,3 +3118,23 @@ P.O. 20 DE JULIO DE 2024.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2345.- MEDIANTE EL CUAL REFORMAN EL PÁRRAFO PRIMERO Y SÉ ADICIONA LA FRACCIÓN XIV, RECORRIÉNDOSE LA SUBSECUENTE DEL ARTÍCULO 61 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES Á UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 10 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2346.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 7; Y SE ADICIONAN LA FRACCIÓN XX AL ARTÍCULO 6, UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV Y LA FRACCIÓN XII RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 7, EL ARTÍCULO 18 TER, Y LA FRACCIÓN XIII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 54, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
