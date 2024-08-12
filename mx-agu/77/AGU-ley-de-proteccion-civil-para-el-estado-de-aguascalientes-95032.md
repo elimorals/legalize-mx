@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-95032"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-08"
-last_updated: "2021-06-14"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -489,49 +489,87 @@ VI. Las demás que determinen otras leyes, decretos, reglamentos y convenios.
 
 El Consejo Estatal estará integrado por:
 
-I. El Gobernador Constitucional del Estado, quien será el Presidente del Consejo; en sus ausencias será suplido por el Jefe de Gabinete;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-II. Un Secretario Ejecutivo, que será el Secretario de Gobierno;
+I. La persona titular del Poder Ejecutivo del Estado, quien presidirá el Consejo; en sus ausencias será suplida por la persona titular de la Coordinación General Ejecutiva de Gabinete;
 
-III. Un Secretario Técnico que será el titular de la Coordinación;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-IV. Un Diputado representante del Congreso del Estado, quien será preferentemente el Presidente de la Mesa Directiva en turno;
+II. Una Secretaría Ejecutiva, que estará a cargo de la persona titular de la Secretaría General de Gobierno;
 
-V. El titular de la Secretaría de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-VI. El titular de la Secretaría de Salud del Estado;
+III. Una Secretaría Técnica, que estará a cargo de la persona titular de la Coordinación;
 
-VII. El titular de la Secretaría de Infraestructura y Comunicaciones;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-VIII. El titular de la Secretaría de Finanzas;
+IV. Una persona representante del Congreso del Estado, quien será quien presida la Comisión de Seguridad Pública y Protección Civil;
 
-IX. El titular de la Secretaría de Fiscalización y Rendición de Cuentas;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-X. Dos Presidentes Municipales, de los cuales uno será el del Municipio de Aguascalientes y el otro será renovado cada año por el titular del Ejecutivo, sin la posibilidad de repetir el cargo sin haber turnado el mismo con los demás municipios;
+V. La persona titular de la Secretaría de Seguridad Pública del Estado;
 
-XI. El Delegado o representante de la Secretaría de Gobernación en el Estado;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-XII. El Comandante de la XIV Zona Militar;
+VI. La persona titular de la Secretaría de Salud del Estado;
 
-XIII. El Delegado de la Secretaría de Comunicaciones y Transportes;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-XIV. El titular de la Comisión Nacional del Agua en Aguascalientes;
+VII. La persona titular de la Secretaría de Obras Públicas;
 
-XV. El Delegado de la Cruz Roja Mexicana en Aguascalientes; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-XVI. El Superintendente de la Comisión Federal de Electricidad en el Estado.
+VIII. La persona titular de la Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+IX. La persona titular de la Contraloría del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+X. Dos Presidentas o Presidentes Municipales, de los cuales uno será el del Municipio de Aguascalientes y el otro será renovado cada año por la persona titular del Ejecutivo, sin la posibilidad de repetir el cargo sin haber turnado el mismo con los demás municipios;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XI. La persona titular de la Delegación o representante de la Secretaría de Gobernación en el Estado;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XII. La o el Comandante de la XIV Zona Militar;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XIII. La persona titular de la delegación de la Secretaría de Infraestructura, Comunicaciones y Transportes;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XIV. La persona titular de la Dirección Local en Aguascalientes, de la Comisión Nacional del Agua;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XV. La persona titular de la delegación de la Cruz Roja Mexicana en Aguascalientes; y
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XVI. La persona titular de la superintendencia de la Comisión Federal de Electricidad en el Estado.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 26.
 
-Por cada consejero propietario de los mencionados en el Artículo anterior, se designará un suplente que lo sustituya en sus faltas temporales. El cargo de consejero es de carácter honorario y tratándose de servidores públicos, sus funciones son inherentes al cargo que desempeñen.
+Por cada persona representante mencionada en el artículo anterior, se designará una persona suplente que la sustituya en sus faltas temporales. El cargo de la consejería es de carácter honorario y tratándose de servidores públicos, sus funciones son inherentes al cargo que desempeñen.
 
-El Secretario Ejecutivo será suplido por quien éste designe.
+La persona titular de la Secretaría Ejecutiva podrá designar a su suplente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-La persona que designe el Gobernador del Estado para fungir como titular de la Coordinación deberá de reunir los siguientes requisitos:
+La persona titular del Poder Ejecutivo, designará a la persona titular de la Coordinación, quien deberá de reunir los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+I. Tener nacionalidad mexicana en pleno goce de sus derechos;
 
 II. Tener cuando menos 30 años de edad cumplidos el día de su designación;
 
@@ -543,31 +581,39 @@ V. No tener antecedentes penales ni estar sujeto a proceso; y
 
 VI. No haber desempeñado cargos de dirección en partido político, cuando menos los últimos 6 meses anteriores al momento de su designación.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-El Comité Estatal de Emergencias es el órgano ejecutivo del Consejo Estatal y se constituye por el Presidente, Secretario Ejecutivo, Secretario Técnico y cuatro vocales.
+El Comité Estatal de Emergencias es el órgano ejecutivo del Consejo Estatal y se constituye por una Presidencia, una Secretaría Ejecutiva, una Secretaría Técnica y cuatro Vocalías.
+
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 29.
 
-Los cuatro vocales integrantes del Comité Estatal de Emergencias serán:
+Las cuatro vocalías integrantes del Comité Estatal de Emergencias serán:
 
-I. El Secretario de Salud en el Estado;
+I. La persona titular de la Secretaría de Salud en el Estado;
 
-II. El Secretario de Infraestructura y Comunicaciones;
+II. La persona titular de la Secretaría de Obras Públicas;
 
-III. El Secretario de Finanzas;
+III. La persona titular de la Secretaría de Finanzas;
 
-IV. Uno de los Presidentes Municipales que formen parte del Consejo Estatal y que será designado por el propio Presidente del Consejo.
+IV. Una Presidenta o un Presidente Municipal de los que formen parte del Consejo Estatal y que será designado por la Presidencia del Consejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 30.
 
-El Consejo se reunirá en sesiones ordinarias y extraordinarias, cuando el caso así lo requiera, a convocatoria de su presidente.
+El Consejo se reunirá en sesiones ordinarias y extraordinarias, cuando el caso así lo requiera, a convocatoria de la presidencia.
 
 El Reglamento Interior del Consejo Estatal dispondrá lo relativo a la frecuencia de sus reuniones, procedimiento para ratificar o relevar a los representantes, integración de sus comisiones y las normas que regulen el funcionamiento del pleno del Comité Estatal de Emergencia y de sus Comisiones.
 
 De conformidad a los asuntos específicos que se vayan a analizar en el Consejo Estatal, en el Comité Estatal de Emergencia o en sus comisiones, mediante invitación expresa de su Presidente, podrán participar:
 
-I. Los presidentes de los Municipios donde se presenten las condiciones de alto riesgo, siniestro o desastre;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+I. Las Presidentas o los Presidentes de los Municipios donde se presenten las condiciones de alto riesgo, siniestro o desastre;
 
 II. Los funcionarios de Dependencias Federales, Estatales y Municipales que por sus funciones, puedan aportar informes y alternativas de solución respecto a los problemas planteados al Consejo;
 
@@ -575,11 +621,15 @@ III. Los investigadores, profesionales y peritos en materia de protección civil
 
 IV. Los representantes de organismos intermedios y de participación social.
 
-Los Presidentes Municipales en los casos previstos en la Fracción I que antecede, participarán con voz y voto; en tanto que los representantes a que se refieren las Fracciones II, III y IV de este Artículo, participarán únicamente con voz informativa.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
+Las Presidentas o Presidentes Municipales en los casos previstos en la Fracción I que antecede, participarán con voz y voto; en tanto que los representantes a que se refieren las Fracciones II, III y IV de este Artículo, participarán únicamente con voz informativa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 31.
 
-Corresponde al Presidente del Consejo Estatal:
+Corresponde a la Presidencia del Consejo Estatal:
 
 I. Convocar y presidir las sesiones; dirigir sus debates teniendo voto de calidad en caso de empates;
 
@@ -597,9 +647,11 @@ VII. Proponer la celebración de convenios de coordinación con el Gobierno Fede
 
 VIII. Rendir al Consejo Estatal un informe anual sobre los trabajos realizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 32.
 
-Corresponde al Secretario Ejecutivo del Consejo:
+Corresponde a la Secretaría Ejecutiva del Consejo:
 
 I. Presidir las sesiones ordinarias y extraordinarias en el Comité de Emergencia, Comisiones o el Pleno del Consejo, en ausencia del Presidente;
 
@@ -611,11 +663,15 @@ IV. Promover, ante la eventualidad de los desastres de origen natural, la realiz
 
 V. Las demás que le confieran el Consejo, la presente Ley y otras disposiciones legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 33.
 
-Corresponde al Secretario Técnico:
+Corresponde a la Secretaría Técnica:
 
-I. Elaborar los trabajos que le encomienden el Presidente y el Secretario Ejecutivo del Consejo;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+I. Elaborar los trabajos que le encomienden la Presidencia y la Secretaría Ejecutiva del Consejo;
 
 II. Resolver las consultas que se sometan a su consideración;
 
@@ -627,9 +683,13 @@ V. Llevar el archivo y control de los diversos programas de protección civil;
 
 VI. Administrar los recursos humanos, materiales y financieros del Consejo;
 
-VII. Informar periódicamente al Secretario Ejecutivo del Consejo el cumplimiento de sus funciones y actividades realizadas; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-VIII. Las demás funciones que le confieren el Reglamento Interno los acuerdos del Consejo, el Presidente o el Secretario Ejecutivo.
+VII. Informar periódicamente a la Secretaría Ejecutiva del Consejo el cumplimiento de sus funciones y actividades realizadas; y
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+VIII. Las demás funciones que le confieren el Reglamento Interno, los acuerdos del Consejo, la Presidencia o la Secretaría Ejecutiva del Consejo.
 
 ###### ARTÍCULO 34.
 
@@ -1279,9 +1339,11 @@ Las personas físicas o morales, que deseen colaborar con la captación de donac
 
 Para la captación de donaciones en especie, cuando no se cuente con personal suficiente para ello, la Coordinación podrá permitir el apoyo de personas físicas o morales, que deseen colaborar de forma altruista, previo registro y autorización de las mismas, conforme a los requisitos y criterios que establece en el reglamento de la presente ley.
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 121.
 
-Los donativos que se reciban, se aplicarán para el fin que fueron otorgados, las Coordinaciones de Protección Civil serán las que ejecuten el destino de éstos y en su caso de los remanentes, en base a las necesidades de la sociedad, la zona de desastre, o presencia de fenómeno perturbador, debiendo en todo caso rendir un informe detallado de la administración, entrega, distribución y población beneficiada a la Secretaría de Fiscalización y Rendición de Cuentas.
+Los donativos que se reciban, se aplicarán para el fin que fueron otorgados, las Coordinaciones de Protección Civil serán las que ejecuten el destino de éstos y en su caso de los remanentes, con base en las necesidades de la sociedad, la zona de desastre, o presencia de fenómeno perturbador, debiendo en todo caso rendir un informe detallado de la administración, entrega, distribución y población beneficiada a la Contraloría del Estado.
 
 ###### ARTÍCULO 122.
 
@@ -1618,3 +1680,11 @@ P.O. 14 DE JUNIO DE 2021.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 772.- SE REFORMA LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguientes (sic) de su publicación en el Periódico Oficial del Estado de Aguascalientes.
