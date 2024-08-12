@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-del-estado-de-aguascalientes-128215"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-30"
-last_updated: "2024-08-05"
+last_updated: "2024-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Ley publicada en la Primera Sección al Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de abril de 2018.
 
@@ -165,7 +165,9 @@ XXXVII. Diseño universal: Se entenderá el diseño de productos, entornos, prog
 
 XXXVIII. Dispositivo de seguridad: Aditamento, sistema o mecanismo dispuesto para las personas en favor de la seguridad de la vida, la salud y la integridad durante sus traslados;
 
-XXXIX. Dispositivos de control del tránsito: Conjunto de señales, marcas, dispositivos diversos y demás elementos que se colocan en las vías con el objeto de prevenir, regular y guiar la circulación de personas peatonas y vehículos que cumplan con el criterio de diseño universal, garantizando su adecuada visibilidad en todo momento;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XXXIX. Dispositivos de control del tránsito: Conjunto de señales, marcas, semáforos, dispositivos diversos y/o instrumentos electrónicos, fotográficos o de video, y demás elementos que se colocan en las vías con el objeto de prevenir, regular, ordenar y guiar la circulación de personas peatonas y vehículos que cumplan con el criterio de diseño universal, garantizando su adecuada visibilidad en todo momento;
 
 XL. Dispositivos de seguridad vehicular: Autopartes, partes, sistemas, diseños y mecanismos en un vehículo dispuesto para producir una acción de protección en favor de la seguridad, la vida, la salud e integridad de las personas usuarias, de conformidad con lo establecido en las Normas Oficiales Mexicanas correspondientes;
 
@@ -6328,3 +6330,15 @@ P.O. 5 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 764.- SE REFORMA LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
