@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2024-05-13"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -753,11 +753,9 @@ XL.- Propiciar la cooperación ciudadana para la limpieza de los centros de pobl
 
 XLI.- Inspección, vigilar y establecer medidas de seguridad y sanciones administrativas para garantizar el cumplimiento del presente Código;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-XLII.- Establecer el Sistema Municipal de Premios y Condecoraciones por medio del cual se rinda homenaje a personas que han brindado servicios importantes a la comunidad o pabellonenses, que se han distinguido en alguna actividad profesional, científica, artística, académica, deportiva, económica, política y social.
-
-El Sistema Municipal de Premios y Condecoraciones contará con una presea máxima, que se entregará cada año a una personalidad que sea propuesta por la Comisión de Postulaciones y aprobada por el pleno del H. Ayuntamiento, y que consistirá en medalla de honor denominada "Medalla al Mérito Pabellonense" y diploma, mismos que se entregarán en una sesión solemne de cabildo realizada para tal efecto. Contará además con diversos reconocimientos los cuales serán aprobados de manera particular en cada caso por el ayuntamiento, a propuesta de la Comisión de Postulaciones, pudiendo ser al mérito artístico, científico, académico, deportivo, económico, político y social, y
+XLII.- Establecer el Sistema Municipal de Premios y Condecoraciones por medio del cual se rinda homenaje a personas que han brindado servicios importantes a la comunidad o pabellonenses, que se han distinguido en alguna actividad profesional, científica, artística, académica, deportiva, económica, política y social. El Sistema Municipal de Premios y Condecoraciones contará con una presea máxima, que se entregará cada año, a una personalidad que sea propuesta por la Comisión de Postulaciones y aprobada por el pleno del H. Ayuntamiento, y que consistirá en medalla de honor denominada "Medalla al Mérito Pabellonense" y diploma, mismos que se entregarán en la Sesión Solemne de Cabildo a celebrarse el 14 de mayo de cada año, con motivo del Aniversario de la Erección del Municipio de Pabellón de Arteaga. En dicha sesión se entregarán también los reconocimientos, premios, condecoraciones o preseas que se estimen oportunas, que serán aprobadas de manera particular en cada caso por el Ayuntamiento, a propuesta de la Comisión de Postulaciones, pudiendo ser por mérito artístico, científico, académico, deportivo, económico, político y social, y
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE JULIO DE 2023)</small>
 
@@ -1699,9 +1697,7 @@ VI.- Proponer al pleno del ayuntamiento el dictamen por medio del cual se otorgu
 
 VII.- Dictaminar acerca de las propuestas que realicen los integrantes del ayuntamiento acerca de personalidades que sean postulados (sic) para recibir algún premio, reconocimiento o condecoración;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
-
-VIII.- Proponer las fechas en que se deban realizar actos de homenaje o reconocimiento a personalidades distinguidas del municipio;
+VIII.- (DEROGADA, P.O. 12 DE AGOSTO DE 2024)
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -30614,3 +30610,9 @@ P.O. 13 DE MAYO DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los miembros del Ayuntamiento contarán con quince días hábiles a efecto de realizar el registro del correo electrónico, usuario, número o cualquier otro dato que sea requerido, a partir de que el Secretario del Ayuntamiento les dé a conocer los medios electrónicos que se encontrarán habilitados para la realización de la citación y remisión de anexos correspondientes para la celebración de las Sesiones de Cabildo.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
