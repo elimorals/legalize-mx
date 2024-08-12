@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2024-07-01"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -463,7 +463,13 @@ ARTICULO 36 BIS.- La Secretaría deberá implementar el programa específico "He
 
 La Secretaría en coordinación con los sectores educativo, social y privado, apoyará el autoempleo de manera permanente, para tal finalidad, promoverá programas de capacitación y de incremento a la capacidad productiva.
 
-En el caso de los Municipios, la Secretaría se coordinará con los mismos a efecto de que el apoyo al autoempleo, tenga el propósito de:
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE AGOSTO DE 2024)</small>
+
+Tales programas deberán atender prioritariamente a las personas adultas mayores y a mujeres jefas de familia. Aunado a lo anterior la Secretaría deberá dar máxima publicidad a estos programas en su portal de internet y contar con reglas de operación claras y sencillas, buscando la simplificación administrativa.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE AGOSTO DE 2024)</small>
+
+En el caso de los Municipios, la Secretaría se coordinará con los mismos a efecto de que el apoyo al autoempleo tenga el propósito de:
 
 I.- Vincular la oferta de los programas de capacitación con las necesidades del mercado y sus vocaciones económicas; y
 
@@ -626,3 +632,15 @@ P.O. 1 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 765.- SE REFORMA LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular del Poder Ejecutivo del Estado contará con un plazo de noventa días naturales para proveer las medidas administrativas y realizar las reformas reglamentarias derivadas del presente Decreto.
