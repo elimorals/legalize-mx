@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-promocion-a-la-lectura-el-libro-y-las-bibliotecas-92473"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-18"
-last_updated: "2020-12-07"
+last_updated: "2024-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92473&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE PROMOCION A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE BIBLIOTECAS PÚBLICAS Y DE FOMENTO A LA LECTURA DEL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL P.O. DE 12 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROMOCIÓN A LA LECTURA, EL LIBRO Y LAS BIBLIOTECAS PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024 (ABROGADA).
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 18 de febrero de 2013.
 
@@ -410,3 +412,23 @@ P.O. 7 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 766.- SE EXPIDE LA LEY DE BIBLIOTECAS PÚBLICAS Y DE FOMENTO A LA LECTURA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la publicación del presente Decreto, se abroga la Ley de Promoción a la Lectura, el Libro y las Bibliotecas para el estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+La persona titular del Poder Ejecutivo Estatal dentro de los 90 días hábiles posteriores al inicio de vigencia del presente decreto instalará el Consejo Estatal y, dentro de los 180 días hábiles realizará las adecuaciones reglamentarias necesarias, así como la emisión del Plan Estatal para la Promoción de la Lectura y el Aprendizaje y la Red Estatal de Bibliotecas Públicas.
