@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-adquisiciones-arrendamientos-y-servicios-del-estado-1067
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-23"
-last_updated: "2024-04-01"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106726&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de marzo de 2015.
 
@@ -85,7 +85,9 @@ IV. Entes requirentes: las Dependencias del Ejecutivo o de los Municipios que re
 
 V. Entidades del Ejecutivo: los organismos públicos descentralizados, incluyendo universidades públicas, empresas de participación estatal mayoritaria y fideicomisos públicos a los que la Ley Orgánica de la Administración Pública del Estado de Aguascalientes u otras disposiciones legales aplicables den ese carácter;
 
-VI. Entidades del Municipio: las Entidades de la administración pública municipal, que en cada caso acuerde el Cabildo a propuesta del Presidente Municipal, las que estarán subordinadas a esta autoridad, en los términos que marca (sic) Ley Municipal para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+VI. Entidades del Municipio: las Entidades de la administración pública municipal, que en cada caso acuerde el Cabildo a propuesta del Presidente Municipal, las que estarán subordinadas a esta autoridad, en los términos que marca la Ley Municipal para el Estado de Aguascalientes;
 
 VII. Investigación de mercado: la verificación de la existencia de bienes, arrendamientos o servicios, de proveedores a nivel nacional o internacional y del precio estimado basado en la información que obtengan los Entes requirentes, de organismos públicos o privados, de fabricantes de bienes o prestadores de servicios, o una combinación de dichas fuentes de información;
 
@@ -267,9 +269,11 @@ Las facultades conferidas en el artículo que antecede, con excepción de la pre
 
 ### CAPÍTULO SEGUNDO. De la Integración, Sesiones, y Atribuciones del Comité
 
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 14.
 
-Los Sujetos de la Ley Contratantes deberán constituir sus comités respectivos como órganos de consulta y estudio, respecto de las contrataciones de adquisiciones, arrendamientos y prestación de servicios cuyo monto corresponda al de licitación.
+Los Sujetos de la Ley Contratantes deberán constituir sus comités respectivos atendiendo el principio de equidad y paridad de género entre mujeres y hombres, como órganos de consulta y estudio, respecto de las contrataciones de adquisiciones, arrendamientos y prestación de servicios cuyo monto corresponda al de licitación.
 
 ###### Artículo 15.
 
@@ -559,11 +563,11 @@ II. Revisar el inventario y catálogo de la propiedad patrimonial estatal o muni
 
 III. Asignar en su caso a las dependencias y entidades interesadas, los inmuebles disponibles.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 37.
 
-La determinación del monto máximo que las Dependencias y Entidades del Ejecutivo pagarán por concepto de rentas cuando tengan el carácter de arrendatarias, corresponderá a la Secretaría por conducto de la Secretaría de (sic) General de Gobierno, a través de la Dirección General del Instituto Catastral del Estado de Aguascalientes. En caso de que las Dependencias y Entidades pretendan continuar la ocupación de un inmueble arrendado, el aumento en el monto de la renta no podrá ser superior al índice inflacionario establecido por el Instituto Nacional de Estadística y Geografía correspondiente al periodo de vigencia fenecido.
+La determinación del monto máximo que las Dependencias y Entidades del Ejecutivo pagarán por concepto de rentas cuando tengan el carácter de arrendatarias, corresponderá a la Secretaría por conducto de la Secretaría General de Gobierno, a través de la Dirección General del Instituto Catastral del Estado de Aguascalientes. En caso de que las Dependencias y Entidades pretendan continuar la ocupación de un inmueble arrendado, el aumento en el monto de la renta no podrá ser superior al índice inflacionario establecido por el Instituto Nacional de Estadística y Geografía correspondiente al periodo de vigencia fenecido.
 
 ###### Artículo 38.
 
@@ -761,7 +765,9 @@ La convocante, siempre que ello no tenga por objeto limitar el número de Licita
 
 Las modificaciones que se mencionan en el párrafo anterior en ningún caso podrán consistir en la sustitución de los bienes o servicios convocados originalmente, adición de otros de distintos rubros o en variación significativa de sus características.
 
-Cualquier modificación a la convocatoria de la licitación, incluyendo las que resulten de la o las juntas de aclaraciones, formarán (sic) parte de la convocatoria y deberán ser consideradas por los Licitantes en la elaboración de su proposición.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
+Cualquier modificación a la convocatoria de la licitación, incluyendo las que resulten de la o las juntas de aclaraciones, formará parte de la misma y deberá ser considerada por los Licitantes en la elaboración de su proposición.
 
 Se considerará una variación substancial de los bienes, servicios o arrendamientos cuando represente cambios mayores al treinta por ciento de su cantidad o descripción original, porcentaje que se aplicará por cada partida; rebasando este límite, la convocante a solicitud del área requirente o de oficio, cancelará la partida, en caso de que todas las partidas rebasen este límite se cancelará el procedimiento de contratación correspondiente, haciéndolo, del conocimiento de los licitantes, a través del medio establecido en la convocatoria.
 
@@ -839,9 +845,9 @@ La convocatoria de la licitación establecerá porcentajes diferenciales de prec
 
 De subsistir el empate entre las personas domiciliadas en el Estado de Aguascalientes, la adjudicación se efectuará a favor del Licitante que resulte ganador del sorteo que se realice para el efecto. Será convocado al sorteo un representante de la Autoridad fiscalizadora.
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
 
-En el caso de licitación pública para la contratación de adquisiciones, arrendamientos o servicios que utilicen la evaluación de puntos y porcentajes, se otorgarán puntos, en los términos de la convocatoria, a personas con discapacidad o a la empresa que cuente con trabajadores con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seís meses, misma que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social. De igual manera, se otorgarán puntos a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto.
+En el caso de licitación pública para la contratación de adquisiciones, arrendamientos o servicios que utilicen la evaluación de puntos y porcentajes, se otorgarán puntos, en los términos de la convocatoria, a personas con discapacidad o a la empresa que cuente con trabajadores con discapacidad en una proporción del cinco por ciento cuando menos de la totalidad de su planta de empleados, cuya antigüedad no sea inferior a seis meses, misma que se comprobará con el aviso de alta al régimen obligatorio del Instituto Mexicano del Seguro Social. De igual manera, se otorgarán puntos a las empresas que hayan aplicado políticas y prácticas de igualdad de género, conforme a la certificación correspondiente emitida por las autoridades y organismos facultados para tal efecto.
 
 ###### Artículo 57.
 
@@ -943,9 +949,9 @@ I. Cuando no existan bienes o servicios alternativos o sustitutos técnicamente 
 
 II. Cuando se hubiere rescindido un contrato, en cuyo caso se podrá adjudicar al Proveedor que haya obtenido el segundo o ulteriores lugares, siempre que la diferencia en precio con respecto a la proposición inicialmente adjudicada no sea superior a un margen del diez por ciento. Tratándose de contrataciones en las que la evaluación se haya realizado mediante puntos y porcentajes, se podrá adjudicar al segundo o ulterior lugar, dentro del referido margen;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-III. Cuando de una situación real, peligre o se altere el orden social, la economia, los servicios públicos, la salubridad, la seguridad, o el ambiente de alguna zona del Estado.
+III. Cuando de una situación real, peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad, o el ambiente de alguna zona del Estado.
 
 IV. Cuando existan circunstancias que puedan provocar trastornos graves, pérdidas o costos adicionales importantes, cuantificados y justificados;
 
@@ -1423,7 +1429,9 @@ II. Por lista, que se fijará en lugar visible y de fácil acceso al público en
 
 III. Por oficio, aquéllas dirigidas a la convocante.
 
-Las notificaciones a que se refiere este artículo podrán realizarse a través de (sic) del Sistema Electrónico, conforme a las reglas que al efecto establezcan las Autoridades competentes. Adicionalmente, para el caso de las notificaciones personales se dará aviso por correo electrónico.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
+Las notificaciones a que se refiere este artículo podrán realizarse a través del Sistema Electrónico, conforme a las reglas que al efecto establezcan las Autoridades competentes. Adicionalmente, para el caso de las notificaciones personales se dará aviso por correo electrónico.
 
 ###### Artículo 98.
 
@@ -1523,9 +1531,9 @@ Si se acredita que la resolución no fue cumplimentada según las directrices fi
 
 La resolución que ponga fin al incidente previsto en este artículo podrá impugnarse por el inconforme o tercero interesado mediante el recurso de revisión previsto en la Ley del Procedimiento Administrativo del Estado de Aguascalientes, o bien, cuando proceda, ante las instancias jurisdiccionales competentes.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
 
-El desacato de las convocantes a las resoluciones y acuerdos que emitan la (sic) Autoridades fiscalizadoras en los procedimientos de inconformidad será sancionado de acuerdo a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+El desacato de las convocantes a las resoluciones y acuerdos que emitan las Autoridades fiscalizadoras en los procedimientos de inconformidad será sancionado de acuerdo a lo previsto en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 En los casos en que existan contratos derivados de los actos declarados nulos, dichos acuerdos serán válidos y exigibles hasta en tanto se dé cumplimiento a la resolución, pero será necesario terminarlos anticipadamente cuando la reposición de actos implique que debe adjudicarse a un Licitante diverso, deba declararse desierto el procedimiento o se haya decretado su nulidad total.
 
@@ -1706,3 +1714,31 @@ P.O. 1 DE ABRIL DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 680.- SE REFORMAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES; EL CÓDIGO DE ÉTICA LEGISLATIVA DEL HONORABLE CONGRESO DEL ESTADO DE AGUASCALIENTES; Y, LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Artículos Segundo y Tercero del presente Decreto iniciarán su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 767.- SE REFORMA LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el cumplimiento de la reforma al artículo 14, párrafo primero, entrará en vigor al termino del mandato de los comités actualmente en funciones, los comités que se constituyan después de dicha fecha deberán cumplir con los requisitos de paridad de género establecidos en la Ley.
+
+###### ARTÍCULO TERCERO.
+
+La persona Titular del Poder Ejecutivo y los Ayuntamientos en un plazo no mayor a 180 días naturales, contados a partir de la entrada en vigor del presente decreto, deberán expedir y publicar las reformas a los correspondientes Reglamentos de su competencia, a fin de armonizar con lo dispuesto en esta Ley.
