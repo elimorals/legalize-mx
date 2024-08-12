@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2024-05-27"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -459,7 +459,9 @@ IV. Contribuir a que se formen personas autónomas, responsables, equilibradas, 
 
 V. Desarrollar actitudes solidarias en las personas, con el fin de crear conciencia sobre la planeación, la unión familiar y la paternidad y maternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana, así como propiciar el rechazo a los vicios;
 
-VI. Fomentar y concientizar sobre el cuidado de la salud y la adecuada alimentación; Implementando acciones y protocolos encaminados a la detección y diagnóstico de problemas de salud física y mental de los educandos.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+VI. Contribuir al desarrollo de una cultura de la salud, promoviendo y concientizando sobre los hábitos de higiene y de sana alimentación; la prevención de adicciones a través del conocimiento de sus causas, riesgos y consecuencias, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez de los estudiantes; así como implementando acciones y protocolos encaminados a la detección y diagnóstico de problemas de salud física y mental de los educandos;
 
 VII. Difundir los derechos y deberes de niños, niñas y adolescentes, así como las formas de protección con que cuentan para ejercerlos;
 
@@ -467,7 +469,9 @@ VII. Difundir los derechos y deberes de niños, niñas y adolescentes, así como
 
 VIII. Contribuir al desarrollo integral de la persona para que ejerza plenamente sus capacidades humanas;
 
-IX. Fomentar y fortalecer la cultural (sic) de la nacionalidad, soberanía, el aprecio por los valores cívicos, la historia, los símbolos patrios, las instituciones nacionales y las tradiciones culturales regionales y nacionales;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+IX. Fomentar y fortalecer la cultura de la nacionalidad, soberanía, el aprecio por los valores cívicos, la historia, los símbolos patrios, las instituciones nacionales y las tradiciones culturales regionales y nacionales;
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
 
@@ -1385,7 +1389,9 @@ La Autoridad Educativa Federal establecerá las bases para fomentar estilos de v
 
 La Autoridad Educativa Estatal protegerá a los educandos de los riesgos asociados con la exposición a la radiación ultravioleta emitida por el sol, en cualquier actividad que se desarrolle al aire libre, tomando como referencia para ello el índice ultravioleta difundido por el Instituto de Servicios de Salud del Estado de Aguascalientes así como de los riesgos asociados a una Contingencia Ambiental, tomando como referencia la declaración emitida por la autoridad competente; asimismo fomentará la celebración de convenios con instituciones tanto públicas como privadas a fin de brindar capacitaciones a la comunidad educativa en materia de primeros auxilios.
 
-La Autoridad Educativa Estatal, en coordinación con el Instituto de Servicios de Salud del Estado de Aguascalientes, deberá promover programas de salud nutricional, para preservar la salud física y mental de los educandos.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
+La autoridad educativa estatal, en coordinación con el Instituto de Servicios de Salud del Estado de Aguascalientes, deberá promover programas de salud nutricional, para preservar la salud física y mental de los educandos; así como implementar campañas para la educación y prevención de adicciones, con base en esquemas novedosos y creativos de comunicación que permitan la producción y difusión de mensajes de alto impacto social, con el fin de reforzar los conocimientos de daños y riesgos de las adicciones, dirigiéndolas especialmente hacia los sectores más vulnerables, a través de centros educativos del estado.
 
 El Gobierno del Estado dispondrá las medidas para que los certificados médicos de los educandos que se requieran para sus trámites escolares se emitan sin costo alguno.
 
@@ -1439,13 +1445,17 @@ b) Coadyuvar en la aplicación de programas relacionados con salud mental infant
 
 c) Implementar programas de información dirigida a maestras, maestros, madres, padres, tutores, a quien ejerza la patria potestad y a estudiantes, sobre los efectos adversos de los trastornos mentales y de las medidas para detectar, atender y prevenir aquellos factores que induzcan al suicidio;
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
 
-d) Celebrar los convenios interinstitucionales necesarios entre dependencias y con organizaciones de la sociedad civil para lograr los objetivos de la presente sección; e
+d) Celebrar los convenios interinstitucionales necesarios entre dependencias y con organizaciones de la sociedad civil para lograr los objetivos de la presente sección;
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
 
-e) Implementar programas de información dirigida a madres y padres de familia, a tutores y a quien ejerza la patria potestad, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo relativa a la educación científica sobre temas de sexualidad integral, fertilidad y reproducción que implica el ejercicio responsable e informado de la sexualidad, la planificación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual.
+e) Implementar programas de información dirigida a madres y padres de familia o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo relativa a la educación científica sobre temas de sexualidad integral, fertilidad y reproducción que implica el ejercicio responsable e informado de la sexualidad, la planificación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual; y
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
+f) Diseñar e implementar, en colaboración con las instituciones del sector salud del Estado, los programas educativos, de acuerdo a la edad, desarrollo evolutivo, cognoscitivo y madurez de las personas, que contengan las causas, riesgos y consecuencias de las adicciones. Estos programas deberán ir dirigidos a las maestras, maestros, madres y padres de familia, tutores o quienes ejerzan la patria potestad.
 
 #### Sección Primera. De las Maestras y los Maestros
 
@@ -2544,3 +2554,11 @@ P.O. 27 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 770.- SE REFORMA LA LEY DE EDUCACIÓN PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
