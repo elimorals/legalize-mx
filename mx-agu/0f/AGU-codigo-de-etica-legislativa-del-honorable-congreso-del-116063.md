@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-legislativa-del-honorable-congreso-del-116063"
 country: "mx"
 rank: "codigo"
 publication_date: "2016-08-22"
-last_updated: "2018-09-03"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO DE ÉTICA LEGISLATIVA DEL HONORABLE CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de agosto de 2016.
 
@@ -223,9 +223,9 @@ VII. Integrar, conservar, y dar acceso público a los expedientes derivados de l
 
 VIII. Las demás que sean necesarias para cumplir con las disposiciones del presente Código.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
 
-Los expedientes derivados de las quejas y procedimientos instaurados en los términos del presente Código, tendrán el carácter de reservados en términos de la Ley General de Transparencia y Acceso a la Información Pública, en tanto se emita la resolución, en cuya (sic) caso se publicará lo relativo en términos de la Fracción XVIII del Artículo 55 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
+Los expedientes derivados de las quejas y procedimientos instaurados en los términos del presente Código, tendrán el carácter de reservados en términos de la Ley General de Transparencia y Acceso a la Información Pública, en tanto se emita la resolución, en su caso se publicará lo relativo en términos de la Fracción XVIII del Artículo 55 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -351,19 +351,23 @@ Si de la audiencia de descargo no se deriva la resolución de improcedencia de l
 
 Concluido el plazo mencionado en el Artículo anterior, la Junta de Coordinación Política citará a las partes a una audiencia en la que se darán a conocer las conclusiones preliminares a las que se haya arribado. Las partes podrán solicitar la ampliación del plazo de investigación hasta por quince días naturales más, si señalan la existencia de pruebas supervinientes o no relacionadas previamente y solicitan su desahogo.
 
-> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-Concluido el plazo a que se refiere el plazo del (sic) Artículo anterior, el Presidente de la Junta de Coordinación Política declarará cerrada la investigación y ordenará al Secretario General del Poder Legislativo del Estado que dentro de los tres días siguientes elabore el proyecto de resolución, mismo que enviará a los integrantes de la Junta de Coordinación Política para su revisión y comentarios, previo a la audiencia de resolución. Los integrantes de la Junta de Coordinación Política enviarán al Presidente sus comentarios u observaciones, en su caso, dentro de los tres días siguientes a la recepción del proyecto de resolución.
-
-Aprobado el proyecto de resolución será hecho del conocimiento de la Mesa Directiva y publicado en los estrados del Congreso del Estado para los efectos conducentes.
+Concluido el plazo a que se refiere el artículo anterior, el Presidente de la Junta de Coordinación Política declarará cerrada la investigación y ordenará al Secretario General del Poder Legislativo del Estado que dentro de los tres días siguientes elabore el proyecto de resolución, mismo que enviará a los integrantes de la Junta de Coordinación Política para su revisión y comentarios, previo a la audiencia de resolución. Los integrantes de la Junta de Coordinación Política enviarán al Presidente sus comentarios u observaciones, en su caso, dentro de los tres días siguientes a la recepción del proyecto de resolución.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
+Aprobado el proyecto de resolución será hecho del conocimiento de la Mesa Directiva y publicado en los estrados del Congreso del Estado para los efectos conducentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 26.
 
-El Presidente de la (sic) del Congreso declarará agotada la investigación y el desahogo de pruebas, y citará a la audiencia final en la cual la Junta de Coordinación Política resolverá, en definitiva.
+El Presidente del Congreso declarará agotada la investigación y el desahogo de pruebas, y citará a la audiencia final en la cual la Junta de Coordinación Política resolverá, en definitiva.
+
+> <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 La audiencia de resolución deberá realizarse dentro de los cinco días siguientes con la presencia de las partes. La notificación a las partes se hará de manera personal con al menos tres días de anticipación a la fecha de realización de la audiencia.
 
@@ -486,3 +490,15 @@ P.O. 3 DE SEPTIEMBRE DE 2018.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día 14 de Septiembre de 2018.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 680.- SE REFORMAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES; EL CÓDIGO DE ÉTICA LEGISLATIVA DEL HONORABLE CONGRESO DEL ESTADO DE AGUASCALIENTES; Y, LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Artículos Segundo y Tercero del presente Decreto iniciarán su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
