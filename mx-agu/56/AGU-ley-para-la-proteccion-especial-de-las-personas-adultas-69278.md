@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2024-07-15"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -45,89 +45,151 @@ LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE A
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 1°.
 
-La presente Ley es de orden público e interés social; sus disposiciones son de observancia obligatoria en el territorio del Estado y tiene por objeto establecer las bases normativas que garanticen el ejercicio pleno de los derechos de las personas adultas mayores del Estado, sin ningún tipo de discriminación en razón de su condición y sin distinción de sexo, raza, lengua, credo, religión, costumbres, situación económica o nivel cultural o demás circunstancias análogas, condiciones necesarias para lograr la protección, atención, bienestar y desarrollo de los hombres y mujeres a partir de los sesenta años de edad, para lograr su plena integración al desarrollo social, económico, político y cultural.
+La presente Ley es de orden público e interés social; sus disposiciones son de observancia obligatoria en el territorio del Estado y tiene por objeto promover, proteger y asegurar el reconocimiento y el pleno goce y ejercicio, en condiciones de igualdad, de todos los derechos humanos y libertades fundamentales de la persona adulta mayor.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
+Para lograr lo anterior, establecerá las bases normativas que garanticen el ejercicio pleno de dichos derechos sin ningún tipo de discriminación en razón de su condición y sin distinción de sexo, raza, lengua, credo, religión, costumbres, situación económica o nivel cultural o demás circunstancias análogas, condiciones necesarias para lograr la protección, atención, bienestar y desarrollo de los hombres y mujeres a partir de los sesenta años de edad, a fin de contribuir a su plena inclusión, integración y participación en la sociedad.
 
 ###### ARTÍCULO 2°.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Alteración: Cualquier cambio que se produzca en el organismo humano;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+I. Abandono: La falta de acción deliberada o no para atender de manera integral las necesidades de una persona adulta mayor que ponga en peligro su vida o su integridad física, psíquica o moral;
 
-II. Asistencia Social: conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva en la medida de sus capacidades;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-III. Atención Integral: satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas, productivas y espirituales de las personas adultas mayores para facilitarles una vejez plena y sana se considerarán sus hábitos, capacidades funcionales, usos y costumbres y preferencias;
+II. Alteración: Cualquier cambio que se produzca en el organismo humano;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-IV. Consejo: El Consejo Estatal de la Salud, para la Atención de la Persona Adulta Mayor;
+III. Asistencia Social: conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva en la medida de sus capacidades;
 
-V. Deficiencia: Es una pérdida o anormalidad permanente o transitoria, de carácter psicológico, fisiológico o anatómico, de alguna estructura o función;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-VI. Dirección General: A la Dirección General de Atención Integral a las Personas Adultas Mayores;
+IV. Atención Integral: Satisfacción de las necesidades físicas, materiales, biológicas, emocionales, sociales, laborales, culturales, recreativas, productivas y espirituales de las personas adultas mayores para facilitarles una vejez plena y sana se considerarán sus hábitos, capacidades funcionales, usos y costumbres y preferencias;
 
-VII. Enfermedad: Al conjunto de fenómenos que producen la alteración o desviación del estado fisiológico del organismo humano;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-VIII. Estado: El Estado de Aguascalientes;
+V. Consejo: El Consejo Estatal de la Salud, para la Atención de la Persona Adulta Mayor;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-IX. Familia: Los parientes de las personas adultas mayores, atendiendo a lo dispuesto por las reglas del parentesco estipuladas en el Código Civil del Estado de Aguascalientes;
+VI. Cuidados paliativos: La atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días. Implica una atención primordial al control del dolor, de otros síntomas y de los problemas sociales, psicológicos y espirituales de la persona adulta mayor. Abarcan al paciente, su entorno y su familia. Afirman la vida y consideran la muerte como un proceso normal; no la aceleran ni retrasan;
 
-X. Geriatría: La rama de la medicina especializada en atender enfermedades propias de las personas adultas mayores;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-XI. Gerontología: El estudio del envejecimiento del organismo humano y sus consecuencias biológicas, médicas, psicológicas y socioeconómicas;
+VII. Deficiencia: Es una pérdida o anormalidad permanente o transitoria, de carácter psicológico, fisiológico o anatómico, de alguna estructura o función;
 
-XII. Incapacidad: Cualquier restricción o impedimento del funcionamiento de una actividad, ocasionada por una deficiencia dentro del ámbito considerado normal para el ser humano;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-XIII. Insuficiencia: La disminución de la capacidad de los órganos del cuerpo humano para cumplir sus funciones biológicas;
+VIII. Dirección General: A la Dirección General de Atención Integral a las Personas Adultas Mayores;
 
-XIV. Integración Social: es el resultado de las acciones que realizan las dependencias y entidades de la administración pública federal, estatal y municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-XV. Ley: La Ley para la Protección Especial de los Adultos Mayores del Estado de Aguascalientes;
+IX. Discriminación: Cualquier distinción, exclusión, restricción que tenga como objetivo o efecto anular o restringir el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y las libertades fundamentales en la esfera política, económica, social, cultural o en cualquier otra esfera de la vida pública y privada;
 
-XVI. Limitación: La reducción de las funciones orgánicas del cuerpo humano;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2018)</small>
+X. Discriminación múltiple: Cualquier distinción, exclusión o restricción hacia la persona adulta mayor fundada en dos o más factores de discriminación;
 
-XVII. Persona adulta mayor: Es toda persona física cuya edad comprenda los sesenta años en adelante. De acuerdo a su grado de vulnerabilidad, las personas adultas mayores se clasifican de la siguiente manera:
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
+XI. Discriminación por edad en la vejez: Cualquier distinción, exclusión o restricción basada en la edad que tenga como objetivo o efecto anular o restringir el reconocimiento, goce o ejercicio en igualdad de condiciones de los derechos humanos y libertades fundamentales en la esfera política, económica, social, cultural o en cualquier otra esfera de la vida pública y privada;
 
-a) Persona adulta mayor independiente: Aquella persona adulta mayor apta para desarrollar actividades básicas e instrumentadas de la vida diaria sin ayuda permanente o parcial;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
+XII. Enfermedad: Al conjunto de fenómenos que producen la alteración o desviación del estado fisiológico del organismo humano;
 
-b) Persona adulta mayor temporalmente dependiente: Aquel que de manera temporal se encuentra limitado en sus actividades física y/o mentales;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
+XIII. Envejecimiento: Proceso gradual que se desarrolla durante el curso de vida y que conlleva cambios biológicos, fisiológicos, psico-sociales y funcionales de variadas consecuencias las cuales se asocian con interacciones dinámicas y permanentes entre el sujeto y su medio;
 
-c) Persona adulta mayor parcialmente dependiente: Persona adulta mayor con dependencia leve que requiere asistencia de manera permanente en sus actividades;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
+XIV. Envejecimiento activo y saludable: Proceso por el cual se optimizan las oportunidades de bienestar físico, mental y social de participar en actividades sociales, económicas, culturales, espirituales y cívicas, y de contar con protección, seguridad y atención, con el objetivo de ampliar la esperanza de vida saludable y la calidad de vida de todas las personas en la vejez, y permitirles así seguir contribuyendo activamente a sus familias, amigos y comunidades;
 
-d) Persona adulta mayor totalmente dependiente: Persona adulta mayor que requiere asistencia para realizar todas sus actividades básicas o instrumentadas de la vida diaria; y
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE JULIO DE 2024)</small>
+XV. Estado: El estado de Aguascalientes;
 
-e) Persona adulta mayor en situación de riesgo o desamparo: Persona adulta mayor que, además de viudez, o soltería, o con problemas de salud, se encuentre en: abandono, con carencia de apoyos económicos y con carencia de apoyo familiar; o bien, sea víctima de contingencias ambientales o víctima de desastres naturales, y que requiere la asistencia y protección del Ejecutivo del Estado, de los Municipios y de las Organizaciones de la Sociedad Civil;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-Las autoridades correspondientes deberán elaborar programas que atiendan en la generalidad a las personas adultas mayores, sin descuidar a ningún grado de vulnerabilidad de los descritos en los incisos anteriores.
+XVI. Familia: Los parientes de las personas adultas mayores, atendiendo a lo dispuesto por las reglas del parentesco estipuladas en el Código Civil del estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-XVIII. Prevención: Es la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales o sensoriales;
+XVII. Geriatría: La rama de la medicina especializada en atender enfermedades propias de las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-XIX. Previsión: Conjunto de acciones y programas dirigidos preferentemente a personas en edad productiva, que tienen por objeto promover, fomentar, impulsar y consolidar políticas que generen las previsiones necesarias para que al llegar a los sesenta años mantengan su calidad de vida en lo económico, social, familiar, cultural y de salud, que les asegure su bienestar, estabilidad y vida digna; y
+XVIII. Gerontología: El estudio del envejecimiento del organismo humano y sus consecuencias biológicas, médicas, psicológicas y socioeconómicas;
+
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XIX. Incapacidad: Cualquier restricción o impedimento del funcionamiento de una actividad, ocasionada por una deficiencia dentro del ámbito considerado normal para el ser humano;
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2022)</small>
 
 XX. Instituto: Al Instituto Aguascalentense de las Personas Adultas Mayores.
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XXI. Insuficiencia: La disminución de la capacidad de los órganos del cuerpo humano para cumplir sus funciones biológicas;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XXII. Integración Social: Es el resultado de las acciones que realizan las dependencias y entidades de la administración pública federal, estatal y municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XIII (sic). Ley: La Ley para la Protección Especial de los Adultos Mayores del estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XIV (sic). Limitación: La reducción de las funciones orgánicas del cuerpo humano;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XXV. Maltrato: Acción u omisión, única o repetida, contra una persona adulta mayor que produce daño a su integridad física, psíquica y moral y que vulnera el goce o ejercicio de sus derechos humanos y libertades fundamentales, independientemente de que ocurra en una relación de confianza;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XXVI. Negligencia: Error involuntario o falta no deliberada, incluido entre otros, el descuido, omisión desamparo e indefensión que le causa un daño o sufrimiento a una persona mayor, tanto en el ámbito público como privado, cuando no se hayan tomado las precauciones normales necesarias de conformidad con las circunstancias;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XXVII. Persona adulta mayor: Es toda persona física cuya edad comprenda los sesenta años en adelante. De acuerdo a su grado de vulnerabilidad, las personas adultas mayores se clasifican de la siguiente manera:
+
+a) Persona adulta mayor independiente: Aquella persona adulta mayor apta para desarrollar actividades básicas e instrumentadas de la vida diaria sin ayuda permanente o parcial;
+
+b) Persona adulta mayor temporalmente dependiente: Aquel que de manera temporal se encuentra limitado en sus actividades física y/o mentales;
+
+c) Persona adulta mayor parcialmente dependiente: Persona adulta mayor con dependencia leve que requiere asistencia de manera permanente en sus actividades;
+
+d) Persona adulta mayor totalmente dependiente: Persona adulta mayor que requiere asistencia para realizar todas sus actividades básicas o instrumentadas de la vida diaria;
+
+e) Persona adulta mayor en situación de riesgo o desamparo: Persona adulta mayor con problemas de salud, abandono, carencia de apoyos económicos, carencia de apoyo familiar, víctima de contingencias ambientales o víctima de desastres naturales, que requiere la asistencia y protección del Ejecutivo del estado, de los Municipios y de las Organizaciones de la Sociedad Civil.
+
+Las autoridades correspondientes deberán elaborar programas que atiendan en la generalidad a las personas adultas mayores, sin descuidar a ningún grado de vulnerabilidad de los descritos en los incisos anteriores;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XXVIII. Prevención: Es la adopción de medidas encaminadas a impedir que se produzcan deficiencias físicas, mentales o sensoriales;
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XXIX. Previsión: Conjunto de acciones y programas dirigidos preferentemente a personas en edad productiva, que tienen por objeto promover, fomentar, impulsar y consolidar políticas que generen las previsiones necesarias para que al llegar a los sesenta años mantengan su calidad de vida en lo económico, social, familiar, cultural y de salud, que les asegure su bienestar, estabilidad y vida digna; y
+
+> <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XXX. Vejez: Construcción social de la última etapa del curso de vida.
 
 ###### ARTÍCULO 3°.
 
@@ -789,7 +851,9 @@ XI. Garantizar el derecho a la prestación de servicios públicos de salud integ
 
 XII. Establecer programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufren de discapacidades funcionales.
 
-Los programas de salud dirigidos a atender las necesidades de las personas en las diferentes etapas del ciclo de vida incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento saludable; en igualdad de condiciones para el ejercicio del derecho a la protección de la salud de las personas adultas mayores;
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
+Los programas de salud dirigidos a atender las necesidades de las personas en las diferentes etapas del ciclo de vida incorporarán medidas de prevención y promoción de la salud a fin de contribuir a prevenir discapacidades y favorecer un envejecimiento activo y saludable; en igualdad de condiciones para el ejercicio del derecho a la protección de la salud de las personas adultas mayores;
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
@@ -1782,3 +1846,11 @@ P.O. 15 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 769.- SE REFORMA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes.
