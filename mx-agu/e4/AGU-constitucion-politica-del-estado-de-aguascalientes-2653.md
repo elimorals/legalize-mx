@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2024-06-10"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -46,6 +46,10 @@ Declaraciones.
 ###### Artículo 1o.
 
 El Estado de Aguascalientes es parte integrante de los Estados Unidos Mexicanos; en consecuencia, acatará las disposiciones del Pacto Federal, siendo autónomo en su régimen interno.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
+En el Estado de Aguascalientes se fomentará el patrimonio cultural, la historia y la identidad local. Podrá contar con himno, escudo y bandera como símbolos propios, mismos que deberán ser respetados. Las leyes secundarias regularán lo correspondiente a sus características y usos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MAYO DE 2022)</small>
 
@@ -251,9 +255,9 @@ A.- El Gobierno organizará un sistema de planeación del desarrollo estatal que
 
 La mejora regulatoria es una política de Estado obligatoria para todas las autoridades estatales y municipales en sus respectivos ámbitos de competencia, cuyo objetivo es elevar la competitividad y productividad, así como garantizar la obtención de beneficios superiores a sus costos, el máximo bienestar para la sociedad y la transparencia.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
 
-EI Estado generará un registro estatal obligatorio que incluya todos los trámites y servicios actualizados de las autoridades públicas, con el objeto de generar certeza y seguridad jurídica, así como facilitar su cumplimiento mediante el uso (sic) Tecnologías de la Información. La Ley regulará el Sistema Estatal de Mejora Regulatoria.
+El Estado generará un registro estatal obligatorio que incluya todos los trámites y servicios actualizados de las autoridades públicas, con el objeto de generar certeza y seguridad jurídica, así como facilitar su cumplimiento mediante el uso de Tecnologías de la Información. La Ley regulará el Sistema Estatal de Mejora Regulatoria.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
@@ -495,9 +499,9 @@ i) Parlamento Abierto.
 
 El Instituto Estatal Electoral será autoridad en la materia de instrumentos de participación ciudadana, teniendo por objeto establecer, fomentar y promover los instrumentos que permitan la organización y funcionamiento de la participación ciudadana.
 
-> <small>[N. DE E. PERTENECE AL APARTADO C, P.O. 29 DE ENERO DE 2018]</small>
+> <small>(REFORMADO [N. DE E. PERTENECE AL APARTADO C], P.O. 12 DE AGOSTO DE 2024)</small>
 
-La ley regulará los instrumentos de participación ciudadana, los plazos, términos, medios de impugnación, publicidad, los procedimientos para su solicitud y los mecanismos para llevarlos a cabo; así como las materias de aplicación. Misma Ley que sólo podrá ser reformada, adicionada, derogado (sic) o abrogada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado.
+La ley regulará los instrumentos de participación ciudadana, los plazos, términos, medios de impugnación, publicidad, los procedimientos para su solicitud y los mecanismos para llevarlos a cabo; así como las materias de aplicación. Misma Ley que sólo podrá ser reformada, adicionada, derogada o abrogada por el voto de la mayoría calificada de los miembros que integran el Congreso del Estado.
 
 ###### Artículo 17 Bis.
 
@@ -1559,9 +1563,9 @@ III.- Declarar si ha lugar a formación de causa en contra de los jueces, por il
 
 IV.- Resolver los medios de control de la constitucionalidad local, a través de su Sala Constitucional;
 
-> <small>(REFORMADA, P.O. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-V.- Conceder licencia a sus Magistrados en funciones para separarse de sus cargos, en términos de lo previsto en (sic) Ley Orgánica del Poder Judicial del Estado de Aguascalientes;
+V.- Conceder licencia a sus Magistrados en funciones para separarse de sus cargos, en términos de lo previsto en la Ley Orgánica del Poder Judicial del Estado de Aguascalientes;
 
 VI.- (DEROGADA, P.O. 8 DE AGOSTO DE 2023)
 
@@ -1795,9 +1799,9 @@ I.- Sus integrantes deberán coordinarse con las instituciones policiales federa
 
 II.- Los integrantes de las instituciones de seguridad pública estatal estarán sujetos a un sistema de desarrollo policial que comprenderá los esquemas de servicio de carrera, profesionalización, certificación y su régimen disciplinario en los términos de la Ley de la materia. La ley establecerá un organismo de servicios periciales, dotado de autonomía técnica y de presupuesto para la prestación de servicios periciales.
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
 
-III.- Se deberá (sic) integrar y mantener actualizadas permanentemente las bases de datos criminalísticos y del personal de las instituciones de seguridad pública;
+III.- Se deberán integrar y mantener actualizadas permanentemente las bases de datos criminalísticos y del personal de las instituciones de seguridad pública;
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1929,7 +1933,9 @@ I. Se considera remuneración o retribución toda percepción en efectivo o en e
 
 II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Gobernador del Estado en el presupuesto correspondiente y este a su vez no podrá percibir un ingreso mayor al del Presidente de la República en términos de lo establecido en el Artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
 
-III. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado (sic) así lo requieran.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+III. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado que así lo requieran.
 
 IV. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
@@ -2019,7 +2025,7 @@ I. Las personas que desempeñen cargos públicos de elección popular, sean de l
 
 II. Los Magistrados, tanto del Supremo Tribunal de Justicia, como del Tribunal de Justicia Administrativa, del Tribunal Electoral y los Jueces; Secretarios de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; el Fiscal General del Estado; los Consejeros Electorales del Consejo General del Instituto Estatal Electoral, el Presidente de la Comisión Estatal de Derechos Humanos de Aguascalientes, el Comisionado Presidente y los Comisionados Ciudadanos del Instituto de Transparencia del Estado de Aguascalientes; y los delegados de las dependencias federales en el Estado;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 12 DE AGOSTO DE 2024)</small>
 
 III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado; y
 
@@ -2265,7 +2271,7 @@ Pronunciada una sentencia condenatoria siendo un delito cometido durante el ejer
 
 En los juicios del orden civil no hay fuero ni inmunidad para ningún servidor público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 82.
 
@@ -4196,3 +4202,23 @@ P.O. 10 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de la publicación de su Declaración respectiva en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 680.- SE REFORMAN LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES; EL CÓDIGO DE ÉTICA LEGISLATIVA DEL HONORABLE CONGRESO DEL ESTADO DE AGUASCALIENTES; Y, LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el Artículo 94 de la Constitución Política del Estado de Aguascalientes, el Artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Artículos Segundo y Tercero del presente Decreto iniciarán su vigencia el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 689.- SE REFORMA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
