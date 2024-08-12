@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2024-06-24"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -1677,7 +1677,9 @@ Las sesiones del ayuntamiento podrán ser ordinarias y extraordinarias.
 
 Las sesiones ordinarias deberán celebrarse cada mes el día y hora que determine el ayuntamiento, las sesiones extraordinarias se celebrarán entre los períodos de las ordinarias y se tratarán en ellas exclusivamente el o los asuntos para los que fue convocada.
 
-Todas las sesiones tendrán el carácter de públicas por lo que podrá asistir cualquier ciudadano que así desee hacerlo con el objeto de presenciar su desarrollo, sólo se prohibirá el acceso a quienes se encuentren armados, en estado de ebriedad o bajo influencia de drogas o psicotrópicos o podrá restringirse el aforo por motivos de salubridad, seguridad o protección civil.
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+
+Todas las sesiones tendrán el carácter de públicas por lo que podrá asistir cualquier ciudadano que así desee hacerlo con el objeto de presenciar su desarrollo, sólo se prohibirá el acceso a quienes se encuentren armados, en estado de ebriedad o bajo influencia de drogas o psicotrópicos o podrá restringirse el aforo por motivos de salubridad, seguridad o protección civil. A su vez, las sesiones deberán ser transmitidas en tiempo real vía internet a través del portal oficial del ayuntamiento y/o las plataformas audiovisuales o redes sociales que se encuentren al alcance de cada Municipio.
 
 Las sesiones ordinarias y extraordinarias a su vez podrán tener las siguientes categorías:
 
@@ -2876,3 +2878,19 @@ El presente decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Los ayuntamientos tendrán un término de 180 días naturales contados a partir del inicio de vigencia de este Decreto para aprobar la reglamentación y expedir el protocolo de prevención y actuación contra las agresiones, los acosos y los actos de violencia sexual que puedan suceder en los establecimientos específicos para la venta y consumo de bebidas alcohólicas.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 763.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los 180 días naturales contados al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Municipios de conformidad con su disponibilidad tecnológica y presupuestaria, realizarán las adecuaciones necesarias para la implementación de la obligación contenida en virtud del presente Decreto, para dar pleno cumplimiento a ésta a la entrada en vigor del mismo.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
