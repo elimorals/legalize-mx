@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2024-07-29"
+last_updated: "2024-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 762 PUBLICADO EN EL P.O. DEL 18 DE JULIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2024.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -3131,7 +3129,9 @@ XI.- Las construcciones deberán contemplar la combinación flexible de eco- tec
 
 XII.- Se deberá de analizar la integración al contexto urbano y el impacto visual tanto urbano como paisajístico o natural que las construcciones puedan generar en su entorno;
 
-XIII.- En edificaciones habitacionales, se deberá instalar una cisterna y/o macro cisterna que contenga la reserva de agua, por lo menos de 3 días. En el caso de los multifamiliares, el sistema de cisternas deberá ser proporcional con la cantidad de viviendas por cada multifamiliar; para ello, el Municipio emitirá, a través de su Organismo Operador del Servicio de Agua Potable y Alcantarillado, un dictamen de factibilidad, en el que se analizarán las condiciones del proyecto correspondiente que garanticen el abastecimiento de agua potable para todas las familias o personas.
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+XIII.- En edificaciones habitacionales, se deberá instalar una cisterna y/o macro cisterna que contenga la reserva de agua, por lo menos de 3 días y con capacidad mínima de 1,100 litros. En el caso de los multifamiliares, el sistema de cisternas deberá ser proporcional con la cantidad de viviendas por cada multifamiliar; para ello, el Municipio emitirá, a través de su Organismo Operador del Servicio de Agua Potable y Alcantarillado, un dictamen de factibilidad, en el que se analizarán las condiciones del proyecto correspondiente que garanticen el abastecimiento de agua potable para todas las familias o personas.
 
 XIV.- Toda construcción que se concluya requerirá de constancia o aviso de terminación de obra y de autorización de ocupación y de habitabilidad, emitida por la Secretaría Municipal.
 
@@ -4459,7 +4459,9 @@ c) Locales: de 12 metros hasta 8 metros de derecho de vía y 2 metros de ancho d
 
 Los fraccionamientos habitacionales urbanos, adicionalmente deberán cumplir, en materia de infraestructura y equipamiento urbano, con lo siguiente:
 
-I.- Fuente de abastecimiento de agua potable, en cada unidad habitacional red de distribución, en su caso por separado, de agua potable y de agua tratada, y tomas domiciliarias;
+> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2024)</small>
+
+I.- Fuente de abastecimiento de agua potable, cada unidad habitacional debe contar con una red de distribución, si fuera el caso, por separado, de agua potable y de agua tratada, así como de tomas domiciliarias; así mismo deberá contar con una cisterna con capacidad mínima de almacenaje de 1,100.00 litros y un tinaco con capacidad mínima de almacenaje 1,100.00 litros.
 
 II.- Sistema de alcantarillado separado, pluvial y de aguas residuales, con salidas domiciliarias de albañal o con las especificaciones que determine el Municipio respectivo;
 
@@ -10168,3 +10170,11 @@ P.O. 18 DE JULIO DE 2024.
 PRIMERO.- El presente Decreto Iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Con el inicio de vigencia del presente Decreto, queda sin efecto cualquier disposición legal o reglamentaria que se oponga a lo establecido en el mismo.
+
+P.O. 12 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 771.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
