@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-08-05"
+last_updated: "2024-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1429,9 +1429,9 @@ III. La venta o suministro que de cualquier forma se haga a personas menores de 
 
 IV. Emplear, directa o indirectamente, a personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho o resistirlo, para que presten servicios en cantinas, tabernas, bares, establecimientos donde otras personas practiquen la prostitución o en cualquier lugar nocivo donde se afecte de forma negativa su sano desarrollo físico, mental o emocional. Se considerará que se emplea a las personas descritas en la presente Fracción cuando preste sus servicios por un salario, comida, comisión de cualquier tipo, estipendio, gaje o emolumento, o bien gratuitamente; o
 
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-V. Obligar, inducir, facilitar, procurar o emplear directa o indirectamente, a personas menores de 18 años de edad, o personas que no tengan capacidad para comprender el significado del hecho o resistirlo, para formar parte de una asociación delictuosa, para los efectos de esta fracción, se entenderá como asociación delictuosa toda aquella agrupación o banda de tres o más personas con propósito de delinquir.
+V. Obligar, inducir, facilitar, procurar o emplear directa o indirectamente, a personas menores de 18 años de edad, o personas que no tengan capacidad para comprender el significado del hecho o resistirlo, para formar parte de una asociación delictuosa, para los efectos de esta fracción, se entenderá como asociación delictuosa lo previsto en el artículo 178 D, de este Código;
 
 Para los efectos de este Artículo, por exhibicionismo corporal se entenderá mostrar la vagina, pene, senos, glúteos o ano.
 
@@ -2079,7 +2079,9 @@ c) Desde un Centro de Reeducación Social independientemente de la pena por la q
 
 III. 10 a 16 años de prisión y de 125 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si se realiza por:
 
-a) Una asociación delictuosa u ostentarse como miembro de ésta; para los efectos de este inciso, se entenderá como asociación delictuosa toda aquella agrupación o banda de tres o más personas con propósito de delinquir;
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+a) Una asociación delictuosa u ostentarse como miembro de ésta; para los efectos de este inciso, se entenderá como asociación delictuosa lo previsto en el artículo 178 D, de este Código;
 
 b) Servidor público o ex servidor público; o
 
@@ -2858,6 +2860,16 @@ ARTÍCULO 178 C (SIC).- Portación de Armas Prohibidas. La portación de armas p
 Al responsable de Portación de Armas Prohibidas se le aplicarán de 6 meses a 4 años de prisión y de 25 a 250 días multa, así como el decomiso de la misma.
 
 Para efectos del presente artículo se entiende por acopio la detentación de tres o más instrumentos u objetos de aquellos a que se refiere el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 178 D.- Asociación Delictuosa. La Asociación Delictuosa consiste en formar parte de una asociación o banda integrada por tres o más personas cuyo propósito es realizar conductas delictivas.
+
+Al responsable de Asociación Delictuosa se aplicarán de 2 a 5 años de prisión y de 25 a 100 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados, independientemente de la sanción que corresponda a los delitos que lleguen a cometerse.
+
+En caso de que exista algún grado de consumación de otros tipos penales, al responsable de Asociación Delictuosa se aplicarán de 3 a 6 años de prisión y de 50 a 150 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados; salvo lo dispuesto en los Artículos 116 Fracción V y 149 Fracción III de este Código.
+
+Se aumentará la punibilidad que corresponda hasta en una mitad de sus mínimos y máximos cuando se trate de cualquier servidor público que participe en la realización de los delitos previstos en este artículo. Además, se impondrá a dicho servidor público, destitución e inhabilitación para desempeñar cualquier cargo o comisión pública.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -4284,3 +4296,15 @@ P.O. 5 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 782.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+– El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del artículo 9° del Código Penal para el Estado de Aguascalientes.
