@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2024-03-12"
+last_updated: "2024-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2024.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -120,6 +120,10 @@ En la aplicación y prestación de los servicios, y en el ejercicio de los progr
 13. Irrenunciabilidad. El derecho consagrado en el artículo 4º Constitucional es irrenunciable, nadie puede renunciar a él, ni total ni parcialmente.
 
 14. Prevención de la enfermedad. Es el enfoque de precaución que se aplica a la gestión del riesgo, a la evaluación de los procedimientos y la prestación de los servicios de salud. La prevención de la enfermedad abarca las medidas destinadas no solamente a prevenir la aparición de la enfermedad, tales como la reducción de los factores de riesgo, sino también a detener su avance y atenuar sus consecuencias una vez establecida. La prevención de la enfermedad es la acción que normalmente emana del sector sanitario, y que considera a los individuos y las poblaciones como expuestos a factores de riesgo identificables que suelen estar a menudo asociados a diferentes comportamientos de riesgo.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+15. Perspectiva de género. Es una categoría analítica que implica las acciones que procuren la lucha contra los estereotipos, los prejuicios y las prácticas nocivas que se basan en el género en todos los ámbitos de vida, pues se reconoce que las mujeres, niñas y adolescentes con la condición del espectro autista están sujetas a múltiples formas de discriminación, ante las que es necesario que el Estado tome medidas para asegurar la protección de su esfera jurídica, calidad de vida o pleno desarrollo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
@@ -417,7 +421,9 @@ II. Prestar atención materno-infantil;
 
 III. Implementar el programa de nutrición materno-infantil en las comunidades indígenas y afrodescendientes del estado, el cual ha de diseñarse, planearse y administrarse en coordinación, consulta y consenso con dichas comunidades, tomando en cuenta sus especificidades culturales;
 
-IV. Prestar servicios de planificación familiar;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+IV. Prestar servicios de salud sexual, reproductiva y de planificación familiar;
 
 V. Prestar servicios de atención y promoción de salud mental;
 
@@ -451,9 +457,9 @@ XVIII. Prestar atención especializada a los senescentes;
 
 XIX. Coordinar acciones, con las instancias competentes, para identificar, canalizar y dar aviso de hechos constitutivos de violencia sexual, familiar o de género;
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-XX. Generar campañas de prevención y denuncia en caso de violencia de cualquier tipo contra niñas, niños y adolescentes, en particular de violencia sexual y en materia de educación sexual integral;
+XX. Prever los recursos humanos, físicos y financieros necesarios, para que, en todos los establecimientos de salud administrados por el Estado, otorguen conforme a lo dispuesto en el Código Penal para el Estado Libre y Soberano de Guerrero Número 499, el servicio médico eficiente y gratuito para que las mujeres, ejerzan su derecho a la interrupción legal del embarazo;
 
 > <small>(ADICIONADA, P.O. 12 DE MARZO DE 2024)</small>
 
@@ -863,7 +869,13 @@ IV. La atención médica, que comprende actividades preventivas, curativas y de 
 
 V. La atención materno-infantil;
 
-VI. La planificación familiar;
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+V BIS. La atención de urgencias médicas legales;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+VI. La salud sexual, reproductiva y de planificación familiar;
 
 VII. La salud mental;
 
@@ -1109,23 +1121,45 @@ En materia de higiene escolar, la Secretaría de Salud en coordinación con la S
 
 La prestación de servicios de salud a los escolares, se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes, observando lo establecido en el inciso c), del artículo 19, fracción II del artículo 79 y 80 de la presente Ley.
 
-### CAPITULO VII. SERVICIOS DE PLANIFICACION FAMILIAR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE AGOSTO DE 2024)</small>
+
+### CAPITULO VII. SERVICIOS DE SALUD SEXUAL, REPRODUCTIVA Y DE PLANIFICACIÓN FAMILIAR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 85.
 
-La planificación familiar tiene carácter prioritario. En sus actividades se debe incluir la información y orientación educativa para los adolescentes y jóvenes. Para disminuir el riesgo reproductivo, se debe informar a la mujer y al hombre sobre la inconveniencia del embarazo antes de los 20 años o bien después de los 35, así como la conveniencia de espaciar los embarazos y reducir su número; todo ello, mediante una correcta información anticonceptiva, la cual debe ser oportuna, eficaz y completa a la pareja.
+La salud sexual, reproductiva y de planificación familiar tiene carácter prioritario. La Secretaría promoverá y aplicará permanentemente políticas y programas integrales tendientes a la formación, capacitación y actualización sobre estas materias dirigidos al personal adscrito a las Unidades Médicas, así como de orientación a la población en general.
 
-Los servicios que se presten en la materia, constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+Los servicios de salud sexual, reproductiva y de planificación familiar, constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de los hijos, con pleno respeto a su dignidad. Por ello, las acciones que realicen las instituciones en estas materias deberán contar con una perspectiva de derechos humanos, de género, con una visión de respeto a las diversidades sexuales y de conformidad a las características particulares de los diversos grupos poblacionales, especialmente para niñas, niños, adolescentes y jóvenes.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 13 DE AGOSTO DE 2024)</small>
+
+Las acciones para estas materias se orientarán a:
+
+a) Reducir el índice de embarazos no planeados y en edades tempranas;
+
+b) Disminuir el riesgo reproductivo, informando la inconveniencia del embarazo antes de los 20 años o bien después de los 35;
+
+c) Disminuir la propagación de infecciones de transmisión sexual, y
+
+d) Toda acción que coadyuve al pleno ejercicio de los derechos sexuales y reproductivos.
 
 Quienes practiquen esterilización sin la voluntad del paciente o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
 
 En materia de planificación familiar, las acciones de información y orientación educativa en las comunidades indígenas, deberán llevarse a cabo de manera adecuada y completa, tomando en cuenta sus especificidades culturales, con personal capacitado en la aplicación del enfoque intercultural, en el idioma español y en la lengua o lenguas indígenas en uso en la región o comunidad de que se trate.
 
-###### ARTICULO 86.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2024)</small>
 
-Los servicios de planificación familiar y educación sexual comprenden:
+###### Artículo 86.
 
-I. La promoción del desarrollo de programas de comunicación educativa con base en los contenidos y estrategias que establezca el consejo nacional de población;
+Los servicios de salud sexual, reproductiva y de planificación familiar comprenden:
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+I. La promoción de programas educativos en materia de servicios de salud sexual, reproductiva y de planificación familiar, con base en los contenidos científicos y estrategias que establezcan las autoridades competentes;
 
 II. La atención y vigilancia de los aceptantes y usuarios de servicios de planificación familiar;
 
@@ -1133,37 +1167,95 @@ III. La asesoría para la prestación de servicios de planificación familiar a 
 
 IV. El apoyo y fomento de la investigación en materia de anticoncepción, infertilidad humana, planificación familiar y biología de la reproducción humana;
 
-V. La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de planificación familiar, y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-VI. La recopilación, sistematización y actualización de información, para el adecuado seguimiento de las actividades desarrolladas.
+V. La participación en el establecimiento de mecanismos idóneos para la determinación, elaboración, adquisición, almacenamiento y distribución de medicamentos y otros insumos destinados a los servicios de la salud sexual, reproductiva y de planificación familiar;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+VI. La recopilación, sistematización y actualización de información, para el adecuado seguimiento de las actividades desarrolladas;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+VII. La interrupción legal del embarazo;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+VIII. La ejecución de actividades de vigilancia epidemiológica, de prevención y control, incluyendo la aplicación de vacunas, contra infecciones de transmisión sexual, en términos de lo establecido por el artículo 135 de este ordenamiento legal;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+IX. La distribución gratuita de métodos anticonceptivos, a la población demandante, particularmente en los grupos de riesgo;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+X. La realización de campañas intensivas de información y orientación en materia de salud sexual y reproductiva, y
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+XI. La prevención y atención médica integral de las infecciones de transmisión sexual, particularmente el VIH-SIDA.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 87.
 
-Los comités de salud a que se refiere el artículo 75 de esta Ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales en el Estado se impartan pláticas de orientación en materia de planificación familiar y educación sexual, tomando en cuenta la participación activa de las parteras tradicionales; las instituciones de salud y educativas brindarán el apoyo necesario.
+La comunidad y los organismos a los que se refieren los artículos 75, 76 y 77 de esta Ley, promoverán que en las poblaciones y comunidades urbanas, semiurbanas y rurales en el estado se impartan pláticas de orientación en materia de salud sexual, reproductiva y de planificación familiar, tomando en cuenta la participación activa de las parteras tradicionales.
 
 ###### ARTICULO 88.
 
 El Gobierno del Estado, coadyuvará con la Secretaría de Salud, en las acciones del programa nacional de planificación familiar que formule el Consejo Nacional de Población y del programa de planificación familiar del sector salud, procurando que se incorporen a los programas estatales de salud.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE AGOSTO DE 2024)</small>
+
+### CAPITULO VII BIS. INTERRUPCIÓN LEGAL DEL EMBARAZO
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+ARTICULO 88 BIS. Para los efectos de esta Ley se entiende por Interrupción Legal del Embarazo, el procedimiento médico que se realiza por parte de personal médico público o privado, a solicitud de la mujer embarazada, como parte de una atención integral basada en el derecho de las personas a decidir sobre su vida reproductiva en condiciones de atención médica segura;
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+ARTICULO 88 TER. Las instituciones públicas y privadas que presten servicios de salud, procederán a la interrupción del embarazo, regidos por los criterios de universalidad, interculturalidad, eficiencia, calidad, seguridad, inmediatez, confidencialidad y con pleno respeto a los derechos humanos cuando la persona interesada así lo solicite, salvo en los casos impedidos por la legislación vigente aplicable en la materia. Las Unidades Médicas pondrán a disposición de las personas, servicios de orientación médica, psicológica y social con información veraz y oportuna en materia de interrupción del embarazo y sus consecuencias.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+ARTICULO 88 QUATER. Las instituciones públicas de salud atenderán las solicitudes de interrupción del embarazo de manera gratuita a toda persona que lo solicite en los términos del artículo anterior, independientemente de ser o no derechohabiente o afiliada a algún servicio de salud.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+ARTICULO 88 QUINQUE. Los servicios de interrupción legal del embarazo comprenden:
+
+I. Los procedimientos médicos por los que se interrumpe el embarazo, de conformidad con las Normas Oficiales Mexicanas, la legislación aplicable, el Lineamiento Técnico para el Aborto Seguro y las guías y los protocolos de buenas prácticas emitidos por las autoridades sanitarias estatales, nacionales e internacionales.
+
+El personal médico, en apego a los criterios de eficiencia y seguridad, deberá priorizar los procedimientos menos invasivos o de menor afectación a la persona, según el momento en que se encuentre el proceso de gestación.
+
+II. La orientación médica, psicológica y social, con información clara, precisa, veraz y oportuna, antes y después del procedimiento de aborto;
+
+III. Atención médica sobre complicaciones derivadas del procedimiento clínico empleado para una interrupción del embarazo o en respuesta a cualquier efecto secundario del mismo; y
+
+IV. Atención médica inmediata sobre casos de aborto espontáneo.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+ARTICULO 88 SEXIES. Cuando una persona manifieste su voluntad de efectuar la práctica de la interrupción legal de un embarazo, la unidad médica respectiva, tendrá que realizarla en un término no mayor a cinco días naturales, contados a partir de que la usuaria lo solicite, siempre y cuando las condiciones de salud de la paciente así lo permitan.
+
+La interrupción legal del embarazo, deberá practicarse de manera inmediata, en los casos de urgencia médica, cuando ocurran las siguientes circunstancias:
+
+I. Cuando de no provocarse el aborto, corra peligro de afectación a su salud de la paciente o esté en riesgo su vida;
+
+II. Cuando el embarazo sea resultado de una violación, sin necesidad de que exista denuncia por dichos delitos, o
+
+III. Cuando esté próximo a vencer el plazo para la práctica de la interrupción legal y segura.
+
+El personal médico y de enfermería de las instituciones públicas y privadas se abstendrán de persuadir, por cualquier medio, a las personas usuarias para tomar alguna decisión respecto de la interrupción del embarazo.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+ARTICULO 88 SEPTIES. El ejercicio de la objeción de conciencia del personal médico o de enfermería es derecho personalísimo y no deberá constituir restricción o limitación al derecho a la interrupción legal del embarazo.
+
+Las instituciones públicas y privadas de salud, están obligadas a garantizar la oportuna prestación de los servicios y la permanente disponibilidad de personal médico y de enfermería suficiente.
+
 ### CAPITULO VIII. SALUD MENTAL
-
-### CAPITULO VIII BIS
-
-SALUD VISUAL.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
-
-ARTICULO 93 BIS. La prevención de la Salud Visual, los vicios de refracción y las enfermedades oculares, tienen carácter prioritario, se basará en el conocimiento de los factores que afectan la salud visual, las causas de las alteraciones de la visión, los métodos de prevención y control de las enfermedades oculares, así como otros aspectos relacionados con la salud visual.
-
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
-
-ARTÍCULO 93 BIS 1. Para la promoción de la Salud Visual, la Secretaría de Salud y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
-
-I. El desarrollo de actividades de orientación, información y difusión de medidas de prevención, detección, diagnóstico y atención de los vicios de refracción y enfermedades oculares, a población abierta, poniendo especial énfasis en la población infantil y juvenil, para la detección temprana y oportuna de padecimientos visuales.
-
-II. La realización de campañas de salud visual, para la prevención y diagnóstico oportuno de vicios de refracción, enfermedades oculares, especialmente en la población en edad escolar.
-
-III. Las demás acciones que directa o indirectamente contribuyan al fomento y atención de la salud visual de la población.
 
 ###### ARTICULO 89.
 
@@ -1201,11 +1293,27 @@ La Secretaría de Salud, conforme a las normas oficiales mexicanas la Ley Genera
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2015)</small>
 
-### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
+### CAPITULO VIII BIS
+
+SALUD VISUAL.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTICULO 93 BIS. La prevención de la Salud Visual, los vicios de refracción y las enfermedades oculares, tienen carácter prioritario, se basará en el conocimiento de los factores que afectan la salud visual, las causas de las alteraciones de la visión, los métodos de prevención y control de las enfermedades oculares, así como otros aspectos relacionados con la salud visual.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2015)</small>
+
+ARTÍCULO 93 BIS 1. Para la promoción de la Salud Visual, la Secretaría de Salud y las instituciones de salud, en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+
+I. El desarrollo de actividades de orientación, información y difusión de medidas de prevención, detección, diagnóstico y atención de los vicios de refracción y enfermedades oculares, a población abierta, poniendo especial énfasis en la población infantil y juvenil, para la detección temprana y oportuna de padecimientos visuales.
+
+II. La realización de campañas de salud visual, para la prevención y diagnóstico oportuno de vicios de refracción, enfermedades oculares, especialmente en la población en edad escolar.
+
+III. Las demás acciones que directa o indirectamente contribuyan al fomento y atención de la salud visual de la población.
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
-### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
+### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
 
 ###### ARTICULO 94.
 
@@ -1235,7 +1343,7 @@ Las autoridades educativas del Estado proporcionarán a las autoridades sanitari
 
 Quienes ejerzan las actividades profesionales, técnicas y auxiliares y las especialidades a que se refiere este Capítulo, deberán poner a la vista del público un anuncio que indique la institución que les expidió el título, diploma o certificado y, en su caso, el número de su correspondiente cédula profesional. Iguales menciones deberán consignarse en los documentos y papelería que utilicen en el ejercicio de tales actividades y en la publicidad que realicen al respecto.
 
-### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
+### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
 ###### ARTICULO 98.
 
@@ -1259,7 +1367,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 El Gobierno del Estado, con la participación de las Instituciones de Educación Superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado, de conformidad con las disposiciones legales aplicables al ejercicio profesional en el Estado.
 
-### CAPITULO UNICO
+### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
 ###### ARTICULO 103.
 
@@ -1361,7 +1469,7 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 115.
 
@@ -1381,7 +1489,7 @@ Los establecimientos que presten servicios de salud, los profesionales, técnico
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
-### CAPITULO II. EDUCACION PARA LA SALUD
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 117.
 
@@ -1401,7 +1509,7 @@ IV. Salud ocupacional, y
 
 V. Fomento sanitario.
 
-### CAPITULO III. NUTRICION
+### CAPITULO II. EDUCACION PARA LA SALUD
 
 ###### ARTICULO 119.
 
@@ -1421,7 +1529,7 @@ Las autoridades sanitarias estatales en coordinación con las autoridades federa
 
 Tratándose de las comunidades indígenas, los programas a los que se refiere el párrafo anterior, deberán ser consultados y consensuados con aquéllas y difundirse en español y la lengua o lenguas indígenas que correspondan.
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPITULO III. NUTRICION
 
 ###### ARTICULO 121.
 
@@ -1447,7 +1555,7 @@ IV. Recomendar los lineamientos y los procedimientos que conduzcan al consumo m�
 
 V. Difundir los productos alimenticios y bebidas que han sido procesados, su contenido en altas, medias o bajas cantidades de azúcares, grasas totales, grasas saturadas, grasas trans y sal, señalando la cantidad específica de cada una de estas concentraciones, de acuerdo a las normas establecidas por la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO V. SALUD OCUPACIONAL
+### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTICULO 124.
 
@@ -1485,7 +1593,7 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 La Secretaría de Salud, en coordinación con las autoridades federales y municipales competentes y con la autoridad estatal encargada de la administración del distrito de riego, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para riego o para uso doméstico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
 
-### CAPITULO VI. DE LA MEDICINA TRADICIONAL
+### CAPITULO V. SALUD OCUPACIONAL
 
 ###### ARTICULO 129.
 
@@ -1495,9 +1603,7 @@ La Secretaría de Salud, tendrá a su cargo el control sanitario de los establec
 
 El Gobierno del Estado, en coordinación con las dependencias y entidades federales competentes desarrollará y difundirá investigación multidisciplinaria que permita prevenir y controlar las enfermedades y accidentes ocupacionales, así como estudios para adecuar los instrumentos y equipo de trabajo a las características del hombre.
 
-### CAPITULO I. DISPOSICIONES COMUNES
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+### CAPITULO VI. DE LA MEDICINA TRADICIONAL
 
 ###### ARTICULO 131.
 
@@ -1519,13 +1625,15 @@ La Secretaría de Salud, reconocerá y certificara, a través de programas de ca
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES, ACCIDENTES, DONACION DE ORGANOS, TEJIDOS Y CELULAS CON FINES DE TRASPLANTES
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+### CAPITULO I. DISPOSICIONES COMUNES
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTICULO 134.
 
 Corresponde a la Secretaría de Salud en coordinación con las autoridades Federales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles, la investigación, prevención y control de accidentes, así como lo relacionado con la donación de órganos, tejidos y células con fines de trasplantes.
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTICULO 135.
 
@@ -1641,7 +1749,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinsectación (sic) u otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTICULO 149.
 
@@ -1665,31 +1773,7 @@ V. Las demás que sean necesarias para la prevención, tratamiento y control de 
 
 Los profesionales, técnicos y auxiliares de la salud deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO V. DONACION DE ORGANOS, TEJIDOS Y CELULAS CON FINES DE TRASPLANTES
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-ARTICULO 153 BIS. Para la donación, trasplante y disposición de órganos y tejidos de seres humanos con fines terapéuticos, se deberán observar los preceptos de esta Ley, la Ley General de Salud, sus disposiciones reglamentarias y las Normas Oficiales Mexicanas en la materia, así como, los lineamientos que emitan organismos internacionales y demás instrumentos jurídicos aplicables.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-ARTICULO 153 TER. La donación de órganos, tejidos y células de seres humanos con fines de trasplantes, se regirá por los principios de altruismo, ausencia de ánimo de lucro, confidencialidad, transparencia, equidad y eficiencia, por lo que su obtención y utilización serán estrictamente a título gratuito, y los datos personales deberán protegerse en términos de las disposiciones aplicables.
-
-Queda prohibido el comercio de órganos y tejidos de seres humanos, se considerará disposición ilícita de órganos y tejidos de seres humanos la que se efectué sin observar las disposiciones de esta Ley y la Ley General de Salud.
-
-No se considerarán actos de comercio la recuperación de los costos derivados de la obtención o extracción, análisis, conservación, preparación, distribución, transportación y suministro de órganos, tejidos y células, incluyendo la sangre y sus componentes.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-ARTICULO 153 QUATER. El Centro de Trasplantes del Estado de Guerrero, coadyuvará con el Centro Nacional de Trasplantes, presentando periódicamente sus programas de trasplantes e integrando y actualizando la información del Registro Nacional de Trasplantes, en términos de lo que disponen la Ley General de Salud, la presente Ley y el Decreto de su creación; asimismo, expedirá el documento oficial mediante el que se manifieste el consentimiento expreso de la persona cuya voluntad sea donar sus órganos después de su muerte, para que sean utilizados en trasplantes.
-
-El Centro de Trasplantes del Estado de Guerrero hará constar el mérito y altruismo del donador y su familia y, fomentará la cultura de la donación para fines de trasplantes, en coordinación con el Centro Nacional de Trasplantes.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
-
-ARTICULO 153 QUINQUIES. Para los efectos de esta Ley, se entiende por donación en materia de órganos, tejidos, células y cadáveres, el consentimiento tácito o expreso de la persona para que, en vida después de su muerte, su cuerpo o cualquiera de sus componentes se utilicen para trasplantes.
-
-Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del donante y del receptor, y siempre que existan justificantes de índole terapéutico.
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 152.
 
@@ -1719,11 +1803,35 @@ Dicho consejo se coordinará con el Consejo Nacional para la Prevención de Acci
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
-### CAPITULO UNICO
+### CAPITULO V. DONACION DE ORGANOS, TEJIDOS Y CELULAS CON FINES DE TRASPLANTES
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 153 BIS. Para la donación, trasplante y disposición de órganos y tejidos de seres humanos con fines terapéuticos, se deberán observar los preceptos de esta Ley, la Ley General de Salud, sus disposiciones reglamentarias y las Normas Oficiales Mexicanas en la materia, así como, los lineamientos que emitan organismos internacionales y demás instrumentos jurídicos aplicables.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 153 TER. La donación de órganos, tejidos y células de seres humanos con fines de trasplantes, se regirá por los principios de altruismo, ausencia de ánimo de lucro, confidencialidad, transparencia, equidad y eficiencia, por lo que su obtención y utilización serán estrictamente a título gratuito, y los datos personales deberán protegerse en términos de las disposiciones aplicables.
+
+Queda prohibido el comercio de órganos y tejidos de seres humanos, se considerará disposición ilícita de órganos y tejidos de seres humanos la que se efectué sin observar las disposiciones de esta Ley y la Ley General de Salud.
+
+No se considerarán actos de comercio la recuperación de los costos derivados de la obtención o extracción, análisis, conservación, preparación, distribución, transportación y suministro de órganos, tejidos y células, incluyendo la sangre y sus componentes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 153 QUATER. El Centro de Trasplantes del Estado de Guerrero, coadyuvará con el Centro Nacional de Trasplantes, presentando periódicamente sus programas de trasplantes e integrando y actualizando la información del Registro Nacional de Trasplantes, en términos de lo que disponen la Ley General de Salud, la presente Ley y el Decreto de su creación; asimismo, expedirá el documento oficial mediante el que se manifieste el consentimiento expreso de la persona cuya voluntad sea donar sus órganos después de su muerte, para que sean utilizados en trasplantes.
+
+El Centro de Trasplantes del Estado de Guerrero hará constar el mérito y altruismo del donador y su familia y, fomentará la cultura de la donación para fines de trasplantes, en coordinación con el Centro Nacional de Trasplantes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2017)</small>
+
+ARTICULO 153 QUINQUIES. Para los efectos de esta Ley, se entiende por donación en materia de órganos, tejidos, células y cadáveres, el consentimiento tácito o expreso de la persona para que, en vida después de su muerte, su cuerpo o cualquiera de sus componentes se utilicen para trasplantes.
+
+Los trasplantes de órganos, tejidos y células en seres humanos vivos podrán llevarse a cabo cuando hayan sido satisfactorios los resultados de las investigaciones realizadas al efecto, representen un riesgo aceptable para la salud y la vida del donante y del receptor, y siempre que existan justificantes de índole terapéutico.
 
 ## TITULO NOVENO. ASISTENCIA SOCIAL, PREVENCION DE INVALIDEZ Y REHABILITACION DE INVALIDOS
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO UNICO
 
 ###### ARTICULO 154.
 
@@ -1865,7 +1973,7 @@ El organismo del Gobierno del Estado previsto en el artículo 159 de ésta Ley t
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 178.
 
@@ -1887,7 +1995,7 @@ III. Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV. Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
 ###### ARTICULO 180.
 
@@ -1905,7 +2013,7 @@ I. La investigación de las causas del tabaquismo y de las acciones para control
 
 II. La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
-### CAPITULO UNICO
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 182.
 
@@ -1927,7 +2035,7 @@ A los establecimientos que vendan o utilicen substancias e inhalantes con efecto
 
 ## TITULO DECIMO PRIMERO. DE LOS EXPENDIOS DE ALIMENTOS BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 184.
 
@@ -1947,7 +2055,7 @@ Los propietarios o encargados de los establecimientos en que se expendan o sumin
 
 ## TITULO DECIMO SEGUNDO. SALUBRIDAD LOCAL
 
-### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 188.
 
@@ -2005,7 +2113,7 @@ El organismo publicará en el Periódico Oficial del Estado, las normas en mater
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPITULO III. CONSTRUCCIONES
+### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 195.
 
@@ -2027,7 +2135,7 @@ Los vendedores, locatarios y personas que su actividad esté vinculada con los m
 
 La Secretaría de Salud realizará periódicamente una supervisión en las centrales de abasto para determinar el contenido de agroquímicos en los alimentos perecederos o la presencia de coliformes, si se cultivan con aguas negras.
 
-### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
+### CAPITULO III. CONSTRUCCIONES
 
 ###### ARTICULO 199.
 
@@ -2065,7 +2173,7 @@ Los propietarios o poseedores de los edificios y locales, o de los negocios en e
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes, podrán ordenar la ejecución de las obras que estimen de urgencia con cargo a sus propietarios, encargados o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos.
 
-### CAPITULO V. LIMPIEZA PUBLICA
+### CAPITULO IV. CEMENTERIOS, CREMATORIOS Y FUNERARIAS
 
 ###### ARTICULO 208.
 
@@ -2097,7 +2205,7 @@ Los cementerios deberán contar con áreas verdes y zonas destinadas a reforesta
 
 La aprobación de las solicitudes de refrigeración, exhumación y cremación de cadáveres deberán ajustarse a las medidas de higiene y seguridad sanitaria que al efecto expida el organismo y las normas que dicte la Secretaría de Salud del Gobierno Federal.
 
-### CAPITULO VI. RASTROS
+### CAPITULO V. LIMPIEZA PUBLICA
 
 ###### ARTICULO 214.
 
@@ -2137,7 +2245,7 @@ El Gobierno del Estado, por conducto de sus municipios, proveerá de depósitos 
 
 Para toda actividad relacionada con este capítulo, se estará a lo dispuesto por esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. RASTROS
 
 ###### ARTICULO 220.
 
@@ -2175,7 +2283,7 @@ La norma técnica correspondiente, establecerá los requisitos sanitarios y medi
 
 El sacrificio de animales en los rastros se efectuarán en los días y horas que fijen las autoridades sanitaria y municipal, tomando en consideración las condiciones del lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones necesarias.
 
-### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTICULO 228.
 
@@ -2215,7 +2323,7 @@ Los proyectos para la implantación del sistema de alcantarillado deberán ser e
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños sean vertidos en los ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al uso o consumo humano, en todo caso deberán ser tratados y cumplir con las normas oficiales mexicanas en materia de contaminación.
 
-### CAPITULO IX. PROSTITUCION
+### CAPITULO VIII. ESTABLOS, GRANJAS AVICOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 237.
 
@@ -2239,7 +2347,7 @@ Los establecimientos a que se refiere este capítulo, no podrán ser ubicados en
 
 Las condiciones y requisitos sanitarios que deban reunir los establecimientos a que de (sic) refiere el artículo 220 de esta Ley, serán fijados en las disposiciones reglamentarias y las normas correspondientes.
 
-### CAPITULO X. RECLUSORIOS O CENTROS DE REINSERCION SOCIAL
+### CAPITULO IX. PROSTITUCION
 
 ###### ARTICULO 240.
 
@@ -2265,7 +2373,7 @@ El ejercicio de esta actividad estará sujeto a lo que dispone esta Ley y otras 
 
 Queda prohibido el acceso de menores de edad al interior de los establecimientos o zonas en donde se autorice el ejercicio de la prostitución.
 
-### CAPITULO XI. BAÑOS PUBLICOS
+### CAPITULO X. RECLUSORIOS O CENTROS DE REINSERCION SOCIAL
 
 ###### ARTICULO 246.
 
@@ -2285,7 +2393,7 @@ Tratándose de enfermedades de emergencia, graves o cuando así lo requiera el t
 
 Las personas encargadas de los servicios médicos de los reclusorios o centros de readaptación social, deberán a partir de que tengan conocimiento de alguna enfermedad transmisible adoptar las medidas de seguridad sanitaria que procedan, para evitar la propagación de la misma, así como observar lo dispuesto por el artículo 119 de esta Ley.
 
-### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XI. BAÑOS PUBLICOS
 
 ###### ARTICULO 250.
 
@@ -2299,7 +2407,7 @@ Para abrir al servicio público estos establecimientos, deberá notificarse a la
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, otras disposiciones legales aplicables y a las normas oficiales mexicanas en materia de salubridad local correspondientes que dicte la Secretaría de Salud.
 
-### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
+### CAPITULO XII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 253.
 
@@ -2313,7 +2421,7 @@ La autoridad sanitaria competente, una vez terminada la edificación del centro 
 
 El funcionamiento de los establecimientos a que se refiere el artículo 237 de esta Ley, deberá acatar lo expuesto por las disposiciones legales aplicables y contará con los servicios de seguridad e higiene que se establezcan en los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
+### CAPITULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS COMO PELUQUERIAS, SALONES DE BELLEZA O ESTETICAS Y OTROS SIMILARES
 
 ###### ARTICULO 256.
 
@@ -2323,7 +2431,7 @@ Para los efectos de esta Ley, se entiende por peluquería, salones de belleza y 
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables y a las normas técnicas correspondientes.
 
-### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
 ###### ARTICULO 258.
 
@@ -2338,6 +2446,22 @@ III. Lavadero público: el establecimiento al cual acuden los interesados para r
 ###### ARTICULO 259.
 
 Corresponde a la autoridad sanitaria competente ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
+
+### CAPITULO XV. ESTABLECIMIENTOS PARA EL HOSPEDAJE
+
+###### ARTICULO 260.
+
+Para los efectos de esta Ley, se entiende por establecimientos para el hospedaje, cualquier edificación que se destine a albergar a toda aquella persona que paga por ello.
+
+###### ARTICULO 261.
+
+La Secretaría de Salud, realizará la verificación sanitaria a los establecimientos para el hospedaje que conforme a esta Ley y otras disposiciones aplicables le corresponda.
+
+###### ARTICULO 262.
+
+Para la construcción o acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, así como para su funcionamiento, se deberá notificar de acuerdo a lo que establece el artículo 192 de esta Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ### CAPITULO XVI. ESTABLECIMIENTOS DEDICADOS A LA CIRUGÍA PLÁSTICA Y RECONSTRUCTIVA
 
@@ -2358,20 +2482,6 @@ ARTICULO 262 BIS 3. El funcionamiento de los establecimientos señalados en este
 ARTICULO 262 BIS 4. La oferta de servicios en propaganda o publicidad que se haga a través de medios informativos, ya sean impresos, electrónicos u otros, por especialistas que ofrezcan cirugía plástica y reconstructiva; así como, los establecimientos o unidades medicas en que se practiquen dichas cirugías, deberán prever y contener con claridad en su nombre, título que ostenta y numero de cedula del especialista, numero de certificación otorgado por el Consejo Mexicano correspondiente y el nombre y datos de la institución y/o Instituciones educativas, que avalen su ejercicio profesional así como el nombre del establecimiento o unidad médica con licencia vigente.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE OCTUBRE DE 2015)</small>
-
-###### ARTICULO 260.
-
-Para los efectos de esta Ley, se entiende por establecimientos para el hospedaje, cualquier edificación que se destine a albergar a toda aquella persona que paga por ello.
-
-###### ARTICULO 261.
-
-La Secretaría de Salud, realizará la verificación sanitaria a los establecimientos para el hospedaje que conforme a esta Ley y otras disposiciones aplicables le corresponda.
-
-###### ARTICULO 262.
-
-Para la construcción o acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, así como para su funcionamiento, se deberá notificar de acuerdo a lo que establece el artículo 192 de esta Ley.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 2015)</small>
 
 ### CAPITULO XVI BIS
 
@@ -2403,8 +2513,6 @@ ARTÍCULO 262 BIS 9. El ejercicio de la optometría y la prescripción de anteoj
 
 ### CAPITULO XVI (SIC). TRANSPORTE ESTATAL Y MUNICIPAL
 
-### CAPITULO XVII. GASOLINERIAS
-
 ###### ARTICULO 263.
 
 Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al traslado de carga o de pasajeros sea cual fuere su medio de propulsión.
@@ -2413,7 +2521,7 @@ Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo d
 
 Los transportes que circulen por uno o más Municipios del Estado, no requerirán de autorización sanitaria, debiendo cumplir con los requisitos sanitarios establecidos en las disposiciones reglamentarias aplicables y las normas oficiales mexicanas que para tal efecto se emitan.
 
-### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
+### CAPITULO XVII. GASOLINERIAS
 
 ###### ARTICULO 265.
 
@@ -2423,7 +2531,7 @@ Para los efectos de esta Ley, se entiende por gasolinería el establecimiento de
 
 Las gasolinerías deberán contar con las instalaciones de seguridad que establezcan las disposiciones legales y reglamentarias aplicables y las normas oficiales mexicanas correspondientes.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XVIII. PREVENCION Y CONTROL DE LA RABIA EN ANIMALES Y SERES HUMANOS
 
 ###### ARTICULO 267.
 
@@ -2459,7 +2567,7 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 ## TITULO DECIMO CUARTO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 271.
 
@@ -2503,7 +2611,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los derechos a que se refiere esta Ley se regirán por lo que disponga la legislación fiscal y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 279.
 
@@ -2563,7 +2671,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 287.
 
@@ -2597,7 +2705,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ## TITULO DECIMO QUINTO. VIGILANCIA SANITARIA
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 292.
 
@@ -2693,7 +2801,7 @@ En el caso de los productos recogidos en procedimientos de muestreo o verificaci
 
 ## TITULO DECIMO QUINTO (SIC). MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 304.
 
@@ -2789,7 +2897,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, se ordenará, previa la observancia de la garantía de audiencia y de dictamen pericial, cuando, a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o la vida de las personas.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 317.
 
@@ -2879,7 +2987,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO IV. RECURSO DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 329.
 
@@ -2953,7 +3061,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de sanción administrativa que proceda.
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTICULO 339.
 
@@ -3026,6 +3134,8 @@ III. Que fueren de difícil reparación los daños y perjuicios que se causen al
 ###### ARTICULO 350.
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 351.
 
@@ -3196,3 +3306,15 @@ PRIMERO.- El presente Decreto entrará en vigor al siguiente día de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 
 TERCERO.- Comuníquese al Ejecutivo del Estado para los efectos legales conducentes.
+
+P.O. 13 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 835 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. La Secretaría de salud y las unidades médicas del sector privado deberán realizar las adecuaciones administrativas y de infraestructura necesarias, en un término de 180 días, para dar cumplimiento a las disposiciones del presente Decreto.
+
+CUARTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Oficial del Congreso del Estado, para su conocimiento generar (sic) y efectos legales conducentes.
