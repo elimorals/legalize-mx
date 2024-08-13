@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2024-07-01"
+last_updated: "2024-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -87,13 +87,17 @@ VIII. Promover el desempeño de las instituciones públicas y privadas para que 
 
 IX. Garantizar que la educación en todos los niveles se realice en el marco de la igualdad entre mujeres y hombres evitando toda forma de discriminación y violencia;
 
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-X. Impulsar la planeación, diseño, implementación, ejecución, seguimiento y evaluación de políticas públicas transversales e integrales para prevenir, atender y sancionar la violencia en contra de las mujeres, fomentando las medidas administrativas y presupuestales necesarias para garantizar el cumplimiento de la Ley; y
+X. Impulsar la planeación, diseño, implementación, ejecución, seguimiento y evaluación de políticas públicas transversales e integrales para prevenir, atender y sancionar la violencia en contra de las mujeres, fomentando las medidas administrativas y presupuestales necesarias para garantizar el cumplimiento de la Ley;
 
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-XI. Garantizar la comunicación y difusión de los derechos de las mujeres y el acceso a una vida libre de violencia, contenidos en los instrumentos internacionales y en la presente ley.
+XI. Garantizar la comunicación y difusión de los derechos de las mujeres y el acceso a una vida libre de violencia, contenidos en los instrumentos internacionales y en la presente ley; y
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+XII. Impulsar un cambio cultural a partir de la adopción de medidas progresivas, específicas para modificar patrones culturales y fomentar la educación y capacitación en perspectiva de género y la administración de justicia.
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
 
@@ -1323,13 +1327,17 @@ XII. Crear una base estatal de información genética que contenga la informaci�
 
 XIII. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE AGOSTO DE 2024)</small>
 
-XV. Las demás previstas para el cumplimiento de la presente Ley.
+XV. Investigar con perspectiva de género y debida diligencia las muertes violentas de mujeres y niñas para esclarecer los hechos y en su caso, determinar si se trata de un Feminicidio; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE AGOSTO DE 2024)</small>
+
+XVI. Las demás previstas para el cumplimiento de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -2060,6 +2068,14 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 1 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 721.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 783.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
