@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-asociaciones-publico-privadas-y-proyectos-de-96610"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-11"
-last_updated: "2024-01-23"
+last_updated: "2024-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,7 @@ state: "AGU"
 
 LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2023.
-
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2024.)
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 23 DE ENERO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 563 PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2024.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 11 de noviembre de 2013.
 
@@ -185,25 +181,43 @@ En los procedimientos de contratación de los Proyectos, las autoridades contrat
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 5º.
 
-Los Proyectos tienen por objeto establecer una relación contractual de largo plazo entre una autoridad contratante y un inversionista prestador, a fin de que este último se obligue a prestar un servicio consistente en el financiamiento y la realización de una o más de las siguientes actividades:
+Los Proyectos tienen por objeto establecer una relación contractual de largo plazo entre una o varias autoridades contratantes y un inversionista prestador, a fin de que este último se obligue a prestar un servicio consistente en el financiamiento y la realización de una o más de las siguientes actividades:
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 a) Diseño y construcción de infraestructura;
 
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+
 b) Equipamiento de infraestructura;
 
-c) Operación, mantenimiento y conservación de infraestructura y, en su caso, su equipamiento; y/o
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
 
-d) Suministro y reposición de bienes muebles.
+c) Operación, mantenimiento y conservación de infraestructura y, en su caso, su equipamiento;
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+d) Suministro y reposición de bienes muebles; y/o
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+e) Fomento al desarrollo económico sostenible.
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
 
 Adicionalmente, en su caso, los proyectos podrán incluir el suministro, abastecimiento, proveeduría o consumo de cualquiera de los servicios básicos incluidos dentro de la clasificación del gasto corriente, siempre que se deriven, se vinculen, se integren o, en cualquier forma, se relacionen con cualquiera de las actividades que se señalan en este Artículo de manera tal de lograr su integralidad para que ningún proceso que pudiera quedar fuera detenga la realización del proyecto.
 
 (ADICIONADO, P.O. 25 DE DICIEMBRE DE 2023) (REPUBLICADO, P.O. 22 DE ENERO DE 2024)
 
 Cualquier interesado en realizar un proyecto de asociación público-privada podrá presentar su propuesta a la dependencia o entidad estatal y/o municipal competente.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+Para iniciar el trámite de adhesión a una asociación público-privada existente, los gobiernos estatales o municipales, así como entidades paraestatales o paramunicipales interesadas en adherirse a un Proyecto, podrá manifestarlo a la Autoridad Contratante; o bien, la Autoridad Contratante podrá proponer a cualquiera de dichos entes públicos su adhesión a un Proyecto.
 
 ###### ARTÍCULO 6º.
 
@@ -215,11 +229,13 @@ II. Que los Contratos de los Proyectos sean mayores a cinco años y no excedan d
 
 III. Que el Inversionista Prestador para realizar los servicios, así como de las actividades, será responsable de obtener a su cargo la inversión, tanto de capital como financiamiento requeridos, así como de proveer los activos necesarios. La inversión podrá realizarse sobre inmuebles del Inversionista Prestador o proporcionados por la autoridad contratante.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 7°.
 
-Los Proyectos solo podrán contratarse cuando se destinen a Inversiones públicas productivas, como se definen en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios.
+Los Proyectos solo podrán contratarse o en su caso contar con adhesiones, cuando se destinen a inversiones públicas productivas como se definen en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios; y/o cuando sea para una o más de las actividades señaladas en el artículo 5° de la presente ley, y/o tenga por objeto aumentar el bienestar social y los niveles de inversión en el Estado.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
 
 En la contraprestación por los servicios contratados, deberán incluirse los pagos por la Inversión pública productiva a realizarse.
 
@@ -239,9 +255,11 @@ II. Los programas de transparencia y racionalidad presupuestaria.
 
 Las autoridades contratantes para cada Proyecto, designarán a un servidor público como Administrador del Proyecto que tendrá la responsabilidad de elaborar la documentación que permita la aprobación, autorización y contratación del Proyecto.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 10.
 
-El Administración del Proyecto coordinará un grupo de trabajo como órgano de consulta y apoyo para la elaboración de la documentación en los términos de la Ley.
+El Administrador del Proyecto coordinará un grupo de trabajo como órgano de consulta y apoyo para la elaboración de la documentación en los términos de la Ley.
 
 ###### ARTÍCULO 11.
 
@@ -251,15 +269,17 @@ El grupo de trabajo se integrará por servidores públicos con experiencia y esp
 
 Tratándose de Proyectos del Poder Ejecutivo o sus entidades paraestatales, el grupo de trabajo contará cuando menos con un representante de la Secretaría y otro del área jurídica de la autoridad contratante. En los Proyectos de los Municipios o sus entidades paramunicipales, el grupo de trabajo contará cuando menos con un representante de la Tesorería y otro del área jurídica de la autoridad contratante.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
-El Administrador del Proyecto, previa opinión favorable de la Secretaría o la Secretaría de Finanzas Municipal o la Tesorería, gestionará ante la autoridad contratante la contratación de los servicios de asesoría que se requieran para la elaboración de la documentación de conformidad con las disposiciones contenidas en la Ley de Adquisiciones Arrendamientos y Servicios del Sector Publico del Estado de Aguascalientes.
+El Administrador del Proyecto, previa opinión favorable de la Secretaría o la Secretaría de Finanzas Municipal o la Tesorería, gestionará ante la autoridad contratante la contratación de los servicios de asesoría que se requieran para la elaboración de la documentación de conformidad con las disposiciones contenidas en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, tratándose de los Municipios serán aplicables las disposiciones correspondientes conforme a lo previsto en el artículo 1°, fracción III, de la Ley en cita.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 14.
 
-El Administrador del Proyecto tendrá a su cargo las siguientes atribuciones:
+Los Administradores del Proyecto tendrán a su cargo las siguientes atribuciones:
 
 I. Representar a la autoridad contratante ante cualquier instancia pública, privada o social, en la realización de los trámites que se requieran para el desarrollo del Proyecto;
 
@@ -273,9 +293,19 @@ V. Presentación del Proyecto ante la Comisión correspondiente;
 
 VI. Coordinar la elaboración y preparación de las bases del procedimiento de contratación;
 
-VII. Coordinar la elaboración del Contrato que forma parte de las bases del procedimiento de contratación; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-VIII. Representar a la autoridad contratante en el procedimiento de contratación.
+VII. Coordinar la elaboración del Contrato que forma parte de las bases del procedimiento de contratación;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+VIII. Coordinar el intercambio de información con otros Administradores de Proyecto cuando intervengan otras Autoridades Contratantes; y
+
+IX. Representar a la autoridad contratante en el procedimiento de contratación.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+Cuando exista un proyecto con dos o más autoridades contratantes, cada una de ellas deberá contar con su administrador de proyecto.
 
 ### CAPÍTULO II. Del Análisis Costo-Beneficio
 
@@ -293,7 +323,9 @@ c) La propuesta de solución a la problemática, señalando los servicios, activ
 
 d) La comparación entre la implementación del Proyecto de Prestación de Servicios y las alternativas disponibles para resolver la problemática con la obtención de los servicios, actividades y la infraestructura requeridos. Para tal efecto se elaborarán las proyecciones físicas y financieras correspondientes, especificando para cada caso, el impacto presupuestal, el efecto en las Garantías de Pago evaluadas y el comportamiento de los Pagos Plurianuales;
 
-e) Los aspectos formales del Contrato, como son: objeto; Garantía de Pago que se pretenda otorgar; causales de rescisión; terminación anticipada y sus consecuencias económicas; y
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+e) Los aspectos formales del Contrato, como son: objeto; Garantía de Pago que se pretenda otorgar; causales de rescisión; terminación anticipada y sus consecuencias económicas; y precisar cuáles son las otras autoridades contratantes cuando se trate de adhesión a un Proyeto ya existente; y
 
 f) Descripción de los inmuebles, infraestructura existente y bienes necesarios para la realización del Proyecto.
 
@@ -401,13 +433,15 @@ VII. Solicitar la autorización del Congreso de las Fracciones anteriores.
 
 ### CAPÍTULO III. Del Congreso
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 26.
 
-En caso de haberse obtenido las aprobaciones indicadas en los Capítulos I y II del Título Cuarto de la Ley, el Administrador del Proyecto integrará la documentación necesaria a fin de que el Titular del Poder Ejecutivo o el Presidente Municipal, remita la solicitud al Congreso y obtener, en su caso, de conformidad con la Fracción XXXIV del Artículo 27 de la Constitución Política del Estado de Aguascalientes, el Decreto de autorización correspondiente para
+En caso de haberse obtenido las aprobaciones indicadas en los Capítulos I y II del Título Cuarto de la Ley, el Administrador del Proyecto integrará la documentación necesaria a fin de que el Titular del Poder Ejecutivo o el Presidente Municipal, remita la solicitud al Congreso y obtener, en su caso, de conformidad con la Fracción XXXIV del Artículo 27, de la Constitución Política del Estado de Aguascalientes, el Decreto de autorización correspondiente para:
 
-I. Realizar el Proyecto;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+I. Realizar el Proyecto o adherirse a uno;
 
 II. Crear y fijar la vigencia de la Partida Plurianual;
 
@@ -429,7 +463,9 @@ A la solicitud y autorización que se presente ante el Congreso, el Titular del 
 
 I. El anteproyecto de Decreto;
 
-II. La mención del procedimiento de contratación;
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+II. La mención del procedimiento de contratación, salvo que se trate de la adhesión a un Proyecto ya existente;
 
 III. La aprobación de la Comisión;
 
@@ -481,11 +517,17 @@ La licitación pública inicia con la publicación de la convocatoria y, en el c
 
 En caso de que la autoridad Estatal o Municipal contratante optara por la adjudicación directa en términos de lo señalado en el Artículo 30 Fracción III de esta Ley, deberá presentar el fundamento y motivación de dicho acto.
 
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+Cuando se trate de adhesión a un Proyecto existente, la nueva Autoridad Contratante deberá adherirse al procedimiento de contratación ya realizado por la Autoridad Contratante de origen, con el mismo Inversionista Prestador y a través de la modificación a las obligaciones correspondientes.
+
 ### CAPÍTULO II. De la Licitación Pública
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 31.
 
-La convocatoria a la licitación pública será publicada en el Periódico Oficial del Estado y en uno de los Diarios de mayor circulación estatal. Si la convocante es de las autoridades señaladas en la Fracción II del Artículo 1º de la Ley, adicionalmente deberá publicarse en un periódico de circulación local o regional.
+La convocatoria a la licitación pública será publicada en el Periódico Oficial del Estado y en uno de los Diarios de mayor circulación estatal.
 
 ###### ARTÍCULO 32.
 
@@ -887,9 +929,9 @@ X. Precisión de si la contraprestación es fija o sujeta a ajustes y, en este �
 
 XI. Moneda en que se cotizó y se efectuará el pago respectivo, el cual será en pesos mexicanos;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-XII.- Forma, plazo y condiciones de pago de la contraprestación por los servicios, condicionando su exigibilidad a la inscripción del Contrato en los Registros Estatal de Deuda Pública y, Público Único señalando (sic) en el Artículo 58 de esta Ley;
+XII. Forma, plazo y condiciones de pago de la contraprestación por los servicios, condicionando su exigibilidad a la inscripción del Contrato en el Registro Estatal de Deuda Pública y en el Registro Público Único establecido en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, en el caso que la legislación federal o local así lo determine;
 
 XIII. La forma y modo de la Garantía de Pago;
 
@@ -911,17 +953,31 @@ XX. Condiciones, términos y procedimiento para la aplicación de penas convenci
 
 XXI. La indicación de que en caso de violaciones en materia de derechos inherentes a la propiedad intelectual, la responsabilidad estará a cargo del licitante o Inversionista Prestador según sea el caso;
 
-XXII. Descripción de los inmuebles, infraestructura existente y bienes necesarios para la realización del Proyecto; y
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-XXIII. Los demás aspectos y requisitos previstos en la convocatoria a la licitación e invitaciones a cuando menos tres personas, así como los relativos al Contrato.
+XXII. Descripción de los inmuebles, infraestructura existente y bienes necesarios para la realización del Proyecto;
+
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+XXIII. La firma de las personas representantes legales de los Inversionistas Prestadores, así como de las dependencias o entidades de la administración pública estatal o municipal que actúen como Autoridad Estatal o Municipal contratante o adherente, con cuyas firmas se formalizará el contrato para su plena validez;
+
+En caso de que el Congreso haya autorizado al Poder Ejecutivo del Estado o a un Municipio la adhesión, de varias de sus dependencias paraestatales o paramunicipales, o incluso los trámites previos a esa autorización, la persona titular del Poder Ejecutivo o los Ayuntamientos, según corresponda, podrán delegar la representación legal en la persona que funja como titular de la Secretaría que determinen, por lo que esa persona servidora pública quedará habilitada para firmar válidamente el contrato o adhesión, y demás documentos respectivos; y
+
+XXIV. Los demás aspectos y requisitos previstos en la convocatoria a la licitación e invitaciones a cuando menos tres personas, así como los relativos al Contrato.
 
 Para los efectos de la Ley, la convocatoria a la licitación, el Contrato y sus anexos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan en el Contrato no deberán modificar las condiciones previstas en la convocatoria a la licitación y sus juntas de aclaraciones; en caso de discrepancia, prevalecerá lo estipulado en éstas.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+Tratándose de la adhesión a contratos de Proyectos, deberán celebrarse convenios modificatorios a dichos contratos a fin de ajustar, en lo conducente, el contenido referido en las fracciones I, II, IV, VI, VIII, IX, X, XII, XIII, XIV, XVI, XVII, XIX, XX, XXII, XXIII y XXIV del presente artículo o cualquier otro aspecto que sea necesario para la adecuada ejecución del Proyecto.
 
 ###### ARTÍCULO 47.
 
 Se podrán ceder los derechos de cobro derivado de las contraprestaciones pactadas en el Contrato y de la Garantía de Pago, a favor de los acreedores del Inversionista Prestador que otorguen financiamiento para la inversión del Proyecto.
 
-No se podrá gravar, afectar o dar en garantía la infraestructura de los Proyectos. La cesión de los derechos y obligaciones del Contrato a favor de terceros, requerirá del consentimiento expreso de la autoridad contratante, con la aprobación de la Comisión correspondiente. Tratándose de Proyectos vinculados a las autoridades señaladas en la Fracción II del Artículo 1º de la Ley, será necesario además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+No se podrá gravar, afectar o dar en garantía la infraestructura de los Proyectos. La cesión de los derechos y obligaciones del Contrato a favor de terceros, requerirá del consentimiento expreso de la autoridad contratante, con la aprobación de la Comisión correspondiente. Tratándose de Proyectos vinculados a Municipios, será necesario además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
 
 ###### ARTÍCULO 48.
 
@@ -939,11 +995,19 @@ En el caso de la rescisión, los pagos de recuperación de la inversión se real
 
 La autoridad contratante podrá solicitar por escrito a la Comisión correspondiente, las adecuaciones debidamente justificadas al Contrato para evitar que se perjudique el desarrollo del Proyecto, siempre y cuando no se alteren las condiciones a que se refieran la naturaleza y características esenciales del objeto del Contrato, y en ningún momento podrán variar el plazo y monto de los Pagos Plurianuales y la Garantía de Pago autorizadas por el Congreso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 51.
 
-Cuando en la ejecución del Contrato se presenten causas que ameriten su modificación, como circunstancias imprevistas ajenas a la voluntad de las partes que se presenten, nueva tecnología, ampliaciones de requerimientos en calidad o cantidad del servicio, e infraestructura adicional a la requerida y no prevista en las propuestas hechas por el Inversionista Prestador, para su procedencia, la autoridad contratante deberá evaluar si dicha modificación tiene como finalidad atender las necesidades propias de la utilidad pública o del interés social. Asimismo, deberá emitir dictámenes técnico, jurídico y financieros que demuestren que no se afecte la naturaleza y características esenciales del objeto del Contrato, y que no exista impedimento contractual para su modificación.
+Cuando en la ejecución del Contrato se presenten causas que ameriten su modificación, como circunstancias imprevistas ajenas a la voluntad de las partes que se presenten, nueva tecnología, ampliaciones de requerimientos en calidad o cantidad del servicio, e infraestructura adicional a la requerida y no prevista en las propuestas hechas por el Inversionista Prestador, para su procedencia, la autoridad contratante deberá evaluar si dicha modificación tiene como finalidad atender las necesidades propias de la utilidad pública o del interés social. Asimismo, deberá emitir dictámenes técnico, jurídico y financiero que demuestren que no se afecte la naturaleza del objeto del Contrato, y que no exista impedimento contractual para su modificación.
 
-En el caso de que las modificaciones afecten el plazo y monto de los Pagos Plurianuales y la Garantía de Pago autorizado por el Congreso, la autoridad contratante deberá contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por las autoridades señaladas en la Fracción II del Artículo 1º de la Ley, se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento. Para su posterior sometimiento a la autorización del Congreso del aumento en el plazo y monto de los Pagos Plurianuales y la Garantía de Pago.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+En el caso de que las modificaciones o adhesiones afecten el plazo y monto de los Pagos Plurianuales y la Garantía de Pago autorizados por el Congreso, o bien, alguna característica del objeto del contrato que varíe los conceptos previamente autorizados por el Congreso, la Autoridad Contratante deberá contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por Municipios, se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+Cuando las modificaciones o adhesiones impliquen aumentar el plazo y monto de los pagos plurianuales y la garantía de pago, o bien, variar los conceptos previamente autorizados por el Congreso, tales modificaciones deberán aprobarse por éste.
 
 ### CAPÍTULO III. De la Terminación y Rescisión del Contrato
 
@@ -955,27 +1019,35 @@ El Contrato se dará por terminado una vez transcurrido el plazo pactado y sus p
 
 La autoridad contratante podrá dar por terminado el Contrato en forma anticipada, cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los servicios originalmente contratados, y se demuestre que de continuar con las obligaciones pactadas, se ocasionaría algún daño o perjuicio a la autoridad contratante.
 
-Para decretar la terminación anticipada, la autoridad contratante deberá contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por las autoridades señaladas en la Fracción II del Artículo 1° de la Ley, se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+Para decretar la terminación anticipada, la autoridad contratante deberá contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por Municipios se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 54.
 
-En el caso de la terminación anticipada, el Inversionista Prestador tendrá derecho a los pagos establecidos en el Contrato para la recuperación de la inversión.
+En el caso de la terminación anticipada, el Inversionista Prestador tendrá derecho a los pagos establecidos en el Contrato para la recuperación de la inversión que esté plenamente acreditada.
+
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 55.
 
 Las autoridades contratantes podrán rescindir administrativamente los Contratos en caso de incumplimiento de las obligaciones a cargo del Inversionista Prestador, una vez agotado el monto límite de aplicación de las penas convencionales pactadas.
 
-Previo al inicio del procedimiento de rescisión, las autoridades contratantes deberán contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por las autoridades señaladas en la Fracción II del Artículo 1º de la Ley, se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
+Previo al inicio del procedimiento de rescisión, las autoridades contratantes deberán contar con la aprobación de la Comisión correspondiente. Tratándose de aquellas decretadas por Municipios se requerirá además contar con la autorización de las dos terceras partes de los miembros del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+El procedimiento deberá iniciarse dentro de los veinte días naturales a partir de las aprobaciones o autorizaciones señaladas en el párrafo anterior, y se llevará a cabo ante la Contraloría o el órgano interno de control municipal competente, según corresponda, conforme a lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, tratándose de los Municipios serán aplicables las disposiciones correspondientes en términos de lo previsto en el artículo 1°, fracción III, de la Ley en cita.
 
-El procedimiento deberá iniciarse dentro de los veinte días naturales a partir de las aprobaciones o autorizaciones señaladas en el párrafo anterior, y se llevará a cabo ante la Contraloría o la Contraloría Municipal según corresponda, conforme a lo establecido en la Ley Patrimonial.
-
-En este supuesto, el Inversionista Prestador tendrá derecho a los pagos establecidos en el Contrato para la recuperación de la inversión.
+En este supuesto, el Inversionista Prestador tendrá derecho a los pagos establecidos en el Contrato para la recuperación de la inversión que esté plenamente acreditada.
 
 ###### ARTÍCULO 56.
 
 A la terminación o rescisión del contrato, los inmuebles, bienes y derechos, incorporados a la infraestructura o indispensables para la prestación del servicio, pasarán al dominio, control y administración de la autoridad contratante.
+
+> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+En caso de que existan adhesiones al Contrato, toda terminación anticipada o rescisión surtirá efectos únicamente entre el Inversionista Prestador y la Autoridad Estatal o Municipal Contratante con que se acuerde o la decrete, sin afectar las otras relaciones contractuales.
 
 ### CAPÍTULO IV. Del Control y Registro de los Contratos
 
@@ -983,13 +1055,15 @@ A la terminación o rescisión del contrato, los inmuebles, bienes y derechos, i
 
 A la Secretaría y a las Tesorerías Municipales les corresponderá llevar un control de los Contratos para programar los Pagos Plurianuales. El control tendrá por cada Contrato la información correspondiente a los pagos realizados y su impacto proporcional en el Presupuesto de Egresos. La Secretaría o las Tesorerías Municipales emitirán los certificados de afectación, indicando los ingresos afectos como garantía y/o fuente de pago de las obligaciones contraídas en los Contratos correspondientes a los Pagos Plurianuales.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 58.
 
-Una vez celebrados los Contratos, deberá inscribirse el Proyecto en la sección especial incluida en el Registro Estatal de Deuda Pública de conformidad con lo previsto en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios, así como en el Registro Público Único que lleva la Secretaría de Hacienda y Crédito Público.
+Una vez celebrados los Contratos, deberá inscribirse el Proyecto en la sección especial incluida en el Registro Estatal de Deuda Pública de conformidad con lo previsto en la Ley de Deuda Pública y Disciplina Financiera del Estado de Aguascalientes y sus Municipios, así como en el Registro Público Único de Financiamiento y Obligaciones de Entidades Federativas y Municipios de la Secretaría de Hacienda y Crédito Público, en caso de que la legislación local o federal así lo determinen.
 
-Dentro de los diez días posteriores a partir de su inscripción en el Registro Público Único, la autoridad contratante deberá publicar en su página oficial de Internet dichos Contratos. Asimismo, la autoridad contratante presentará en los informes trimestrales a que se refiere la Ley General de Contabilidad Gubernamental y en su respectiva cuenta pública, la información detallada de cada Proyecto, incluyendo como mínimo, el importe y plazo pactados.
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
+Dentro de los diez días posteriores a partir de su inscripción en el Registro Público Único (sic) Financiamiento y Obligaciones de Entidades Federativas y Municipios de la Secretaría de Hacienda y Crédito Público, la Autoridad Contratante deberá publicar en su página oficial de internet dichos Contratos.
 
 ## TÍTULO OCTAVO. DE LA INFORMACIÓN Y VERIFICACIÓN
 
@@ -1041,9 +1115,11 @@ III. Cuando sean varios los responsables, cada uno será sancionado con el total
 
 IV. Tratándose de reincidencia, se impondrá otra sanción o multa mayor dentro de los límites señalados en el Artículo 62 de la Ley.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 64.
 
-El procedimiento para la aplicación de las sanciones o multas a que se refiere este Capítulo, será el previsto en el Título Cuarto, Capítulo Único de la Ley Patrimonial.
+El procedimiento para la aplicación de las sanciones o multas a que se refiere este Capítulo, será el previsto en el Título Noveno, Capítulo Único de la Ley de Adquisiones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, tratándose de los Municipios serán aplicables las disposiciones correspondientes al artículo 1° fracción III de la ley en cita.
 
 ###### ARTÍCULO 65.
 
@@ -1111,11 +1187,11 @@ En esta hipótesis, la inconformidad sólo podrá presentarse por quien haya res
 
 En todos los casos en que se trate de licitantes que hayan presentado proposición conjunta, la inconformidad sólo será procedente si se promueve conjuntamente por todos los integrantes de la misma.
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 69.
 
-Las denuncias por inconformidades deberán presentarse en los términos previstos en el Título Quinto, Capítulo I de la Ley Patrimonial. El procedimiento para emitir la resolución correspondiente por parte de la Contraloría o Contraloría Municipal según corresponda, deberá apegarse al procedimiento establecido en dicho Título. En contra de estas resoluciones, los agraviados podrán presentar el recurso previsto en el Capítulo II de este Título.
+Las denuncias por inconformidades deberán presentarse en los términos previstos en el Título Décimo, Capítulo Primero de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios, tratándose de los Municipios serán aplicables las disposiciones correspondientes conforme al artículo 1° fracción III de la ley en cita. El procedimiento para emitir la resolución atinente (sic) por parte de la Contraloría u órgano interno de control municipal competente según corresponda, deberá apegarse al procedimiento establecido en dicho Título o en las disposiciones correspondientes cuando se trate de Municipios. En contra de estas resoluciones, los agraviados podrán presentar el recurso previsto en el Capítulo Tercero de ese Título o el que establezca la norma aplicable.
 
 ### CAPÍTULO II. Del Procedimiento de Conciliación
 
@@ -1286,3 +1362,15 @@ Queda (sic) sin efectos todas aquellas disposiciones que se opongan al presenten
 ###### ARTÍCULO TERCERO.
 
 El Poder Ejecutivo del Estado y los Ayuntamientos de la Entidad, dentro de los 90 días siguientes a la publicación de las presentes reformas, deberán realizar las modificaciones correspondientes a su normatividad reglamentaria conforme a las disposiciones del presente Decreto.
+
+P.O. 13 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 781.- SE REFORMA LA LEY DE ASOCIACIONES PÚBLICO-PRIVADAS Y PROYECTOS DE PRESTACIÓN DE SERVICIOS DEL ESTADO Y MUNICIPIOS DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
