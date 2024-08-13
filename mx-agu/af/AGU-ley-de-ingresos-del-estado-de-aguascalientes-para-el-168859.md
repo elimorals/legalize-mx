@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-168859"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-29"
-last_updated: "2023-12-29"
+last_updated: "2024-08-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2024
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2024.
 
 Ley publicada en la Primera Sección al Núm. 61 del Periódico Oficial del Estado de Aguascalientes, el viernes 29 de diciembre de 2023.
 
@@ -118,6 +118,8 @@ Por la prestación de los servicios de las Autoridades de la Secretaría General
 Por los servicios que prestan las oficinas de la Dirección General del Registro Civil, se causarán y pagarán los derechos correspondientes, conforme a las tarifas que se establecen a continuación:
 
 > <small>[N. DE E. VÉASE TABLA EN LA PRIMERA SECCIÓN DEL P.O. DE 29 DE DICIEMBRE DE 2023, PÁGINAS DE LA 10 A LA 11.]</small>
+
+> <small>[N. DE E. VÉASE REFORMA A LA TABLA EN EL EXTRAORDINARIO DEL P.O. 13 DE AGOSTO DE 2024, PÁGINAS DE LA 10 A LA 11.]</small>
 
 Se otorga un descuento del 40% sobre las actas de nacimiento contenidas en la fracción XVI, del presente artículo. Mismo que será aplicado al momento de efectuar el pago.
 
@@ -678,3 +680,17 @@ SANJUANA MARTÍNEZ MELÉNDEZ
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de diciembre de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 784.- SE DEROGAN DISPOSICIONES DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2024”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto aquellas disposiciones que se opongan al presente Decreto.
