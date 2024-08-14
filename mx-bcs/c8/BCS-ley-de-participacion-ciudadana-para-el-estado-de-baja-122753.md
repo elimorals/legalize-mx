@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-participacion-ciudadana-para-el-estado-de-baja-122753"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-20"
-last_updated: "2021-12-14"
+last_updated: "2024-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE AGOSTO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de julio de 2017.
 
@@ -103,11 +103,19 @@ VI. Difusión Pública;
 
 VII. Audiencias Públicas;
 
-VIII. Contralorías Ciudadanas o Social, y
+> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2024)</small>
+
+VIII. Contralorías Ciudadanas o Social
 
 IX. Organización en Comités de Vecinos.
 
-X. Observatorios ciudadanos
+> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2024)</small>
+
+X. Observatorios ciudadanos y
+
+> <small>(ADICIONADA, B.O. 14 DE AGOSTO DE 2024)</small>
+
+XI. Revocación de Mandato
 
 ###### Artículo 5.
 
@@ -205,9 +213,17 @@ XI. Participar y opinar por medio del Referéndum y la Consulta Ciudadana;
 
 XII. Ser informado de las funciones y acciones de la Administración Pública del Estado y Municipios;
 
-XIII. Ejercer y hacer uso de los instrumentos, órganos y mecanismos de participación ciudadana en los términos establecidos en esta Ley; y
+> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2024)</small>
 
-XIV. Los demás que establezcan ésta y otras leyes.
+XIII. Ejercer y hacer uso de los instrumentos, órganos y mecanismos de participación ciudadana en los términos establecidos en esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 14 DE AGOSTO DE 2024)</small>
+
+XIV. Participar en los procesos de revocación de mandato; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 14 DE AGOSTO DE 2024)</small>
+
+XV. Los demás que establezcan ésta y otras leyes.
 
 ###### Artículo 13.
 
@@ -727,11 +743,19 @@ Lo anterior podrá hacerse por medio del Boletín Oficial del Gobierno del Estad
 
 En el caso de que el ejercicio de las funciones de la autoridad no corresponda a la opinión expresada por los participantes en ella, la autoridad deberá expresar con claridad la motivación y fundamentación de sus decisiones.
 
-### Capítulo V. De la Colaboración Ciudadana
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 14 DE AGOSTO DE 2024)</small>
 
-### Capítulo VI. De la Difusión Pública
+### Capítulo V. De la Revocación de Mandato
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2024)</small>
+
+###### Artículo 69 Bis.
+
+Definición. Se entiende por Revocación de mandato el instrumento de participación solicitado por la ciudadanía para determinar la conclusión anticipada del desempeño del cargo a partir de la pérdida de confianza.
+
+La Ley en la Materia regulará y garantizará el ejercicio del derecho político de las ciudadanas y los ciudadanos sudcalifornianos a solicitar, participar, ser consultados y votar respecto a la revocación del mandato de la persona que resultó electa popularmente como titular del poder Ejecutivo del Estado de Baja California Sur, mediante sufragio universal, libre, secreto, directo, personal e intransferible.
+
+### Capítulo VI. De la Colaboración Ciudadana
 
 ###### Artículo 70.
 
@@ -747,7 +771,9 @@ De la aceptación o rechazo de la colaboración. Las Dependencias de la Administ
 
 La autoridad tendrá un plazo no mayor de 30 días naturales para aceptar, rechazar o proponer cambios respecto de la colaboración ofrecida. En caso de no existir contestación por parte de la autoridad, la respuesta se entenderá en sentido positivo.
 
-### Capitulo VII. De la Audiencia Pública
+### Capítulo VII. De la Difusión Pública
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 73.
 
@@ -765,7 +791,7 @@ Medios para la difusión. La difusión se hará a través de los medios informat
 
 La autoridad informará al público mediante avisos, señalamientos u otros medios con anticipación debida y de modo adecuado de las obras o los actos que pudieran afectar el desarrollo normal de las actividades de las ciudadanas y los ciudadanos habitantes de una zona determinada o de quienes circulen por la misma.
 
-### Capítulo VIII. De La Contraloría Ciudadana o Social
+### Capítulo VIII. De la Audiencia Pública
 
 ###### Artículo 76.
 
@@ -809,17 +835,15 @@ De la libertad de expresión. En la audiencia pública las ciudadanas y los ciud
 
 En el caso de que durante la consulta la Ciudadanía se conduzca con faltas a la moral o de respeto hacia a la autoridad o se altere el orden público las autoridades podrán suspender la reunión, la cual deberá reanudarse cuando vuelvan existir las condiciones para el dialogo.
 
-### Capítulo IX. Del Comité de Vecinos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+### Capítulo IX. De La Contraloría Ciudadana o Social
 
 ###### Artículo 81.
 
 Definición. La Contraloría Ciudadana o Social es el instrumento de participación de las ciudadanas y los ciudadanos habitantes de la unidad territorial que voluntaria e individualmente, asumen el compromiso de colaborar de manera honorífica con la Administración Pública Estatal y Municipal, para garantizar la transparencia, la eficacia y la eficiencia del gasto público, de acuerdo con la legislación aplicable y los programas de contraloría social existentes.
 
-### Capitulo X. De los Observatorios Ciudadanos
+### Capítulo X. Del Comité de Vecinos
 
-> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 82.
 
@@ -995,6 +1019,10 @@ El comité que incumpla esta disposición será destituido de sus funciones y re
 
 Del Reglamento. Lo no previsto en la presente Ley, se regulara por el Reglamento que al efecto expida cada Ayuntamiento para organizar y regular el funcionamiento de los comités a que se refiere esta Ley.
 
+### Capítulo XI. De los Observatorios Ciudadanos
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2021)</small>
+
 ###### Artículo 96.
 
 Observatorios Ciudadanos. Esta Ley reconoce como un instrumento de la participación ciudadana a los observatorios ciudadanos, mismos que se han constituido en formas de organización de la sociedad, a partir del análisis, seguimiento y evaluación de las políticas públicas de los distintos ámbitos de gobierno, así como de la revisión, estudio y planteamiento de propuestas respecto a distintas problemáticas que viven sectores de la sociedad. La autoridad promoverá de manera permanente, espacios de análisis y diálogo donde dichos observatorios den a conocer a las y los servidores públicos de sus propuestas, análisis y estudios.
@@ -1068,3 +1096,13 @@ B.O. 14 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 14 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3059 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA SUR EN MATERIA DE REVOCACIÓN DE MANDATO Y SE EXPIDE LA LEY DE REVOCACIÓN DE MANDATO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones normativas que se opongan al mismo.
+
+Tercero.- El ejercicio de las atribuciones que esta Constitución le confiere al Instituto Estatal Electoral en materia revocación de mandato, se cubrirán con base en la disponibilidad presupuestaria para el presente ejercicio y los subsecuentes.
