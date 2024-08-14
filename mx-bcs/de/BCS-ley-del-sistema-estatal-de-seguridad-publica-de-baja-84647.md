@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-estatal-de-seguridad-publica-de-baja-84647"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2020-01-20"
+last_updated: "2024-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE AGOSTO DE 2024.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2011.
 
@@ -49,7 +49,9 @@ La presente Ley es de orden público, interés social y observancia general; reg
 
 I. Normar la seguridad pública en el Estado de Baja California Sur, que comprende la sanción de las infracciones administrativas, la prevención especial y general de los delitos, la investigación de los mismos, la persecución de los imputados, así como la ejecución de las penas y medidas de seguridad, la supervisión de las condiciones impuestas en la suspensión condicional del proceso, y medidas cautelares;
 
-II. Establecer las bases de coordinación con la Federación, las Entidades Federativas, el Distrito Federal y los Municipios, a fin de integrar el Sistema Estatal de Seguridad Pública;
+> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2024)</small>
+
+II. Establecer las bases de coordinación con la Federación, las Entidades Federativas, la Ciudad de México y los Municipios, a fin de integrar el Sistema Estatal de Seguridad Pública;
 
 III. Determinar las bases para el reclutamiento, selección, formación, capacitación, profesionalización, actualización, organización, funcionamiento, coordinación y supervisión de las Instituciones Policiales, así como de los Organismos Auxiliares;
 
@@ -301,7 +303,23 @@ IX. Presidir el Consejo Estatal de Seguridad Pública;
 
 X. Vigilar que todas las acciones, estrategias y políticas en materia de seguridad pública en el Estado, sean acordes con el respeto a los derechos humanos y sus garantías.
 
-XI. Las demás que le confieran la Constitución, la Constitución Estatal, esta Ley y demás ordenamientos legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 14 DE AGOSTO DE 2024)</small>
+
+XI.- Desarrollar, implementar y garantizar los protocolos de Actuación policial siguientes:
+
+a) Protocolo para la prevención y atención del hostigamiento y acoso sexual y laboral;
+
+b) Protocolo de actuación en materia de derechos de personas, comunidades y pueblos indígenas, para aplicarse por los servidores públicos que integran la dirección de servicios previos;
+
+c) Protocolo de actuación policial para la atención de víctimas del delito;
+
+d) Protocolo de actuación en materia de derechos de las personas con discapacidad, para aplicarse por los servidores públicos que integran la dirección de servicios, y
+
+e) Protocolo de actuación para reservar los derechos humanos de las personas que pertenezcan a la población lésbico, gay, bisexual, transgénero, transexual, trasvesti e intersexual, y demás géneros y orientaciones diversas, conforme a lo dispuesto en la normatividad aplicable en materia de no discriminación y derechos humanos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], B.O. 14 DE AGOSTO DE 2024)</small>
+
+XII. Las demás que le confieran la Constitución, la Constitución Estatal, esta Ley y demás ordenamientos legales aplicables.
 
 #### SECCIÓN SEGUNDA. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -815,6 +833,22 @@ La Secretaría llevará un riguroso control de los mecanismos de evaluación y c
 
 Las Instituciones Policiales se podrán coordinar con el objeto (sic) diseñar en conjunto las estrategias operativas para prevenir y controlar conductas delictivas o infracciones administrativas que afecten la paz, el orden y la tranquilidad pública.
 
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2024)</small>
+
+###### Artículo 36 Bis.
+
+La Secretaría, a través de la Policía Estatal Preventiva en coordinación con las Direcciones Municipales de Seguridad Pública, Policía Preventiva y Transito, deberán implementar y garantizar en sus reglamentos internos y demás instrumentos normativos aplicables, los protocolos siguientes:
+
+a) Protocolo para la prevención y atención del hostigamiento y acoso sexual y laboral;
+
+b) Protocolo de actuación en materia de derechos de personas, comunidades y pueblos indígenas, para aplicarse por los servidores públicos que integran la dirección de servicios previos;
+
+c) Protocolo de actuación policial para la atención e víctimas del delito;
+
+d) Protocolo de actuación en materia de derechos de las personas con discapacidad, para aplicarse por los servidores públicos que integran la dirección de servicios, y
+
+e) Protocolo de actuación para preservar los derechos humanos de las personas que pertenezcan a la población lésbico, gay, bisexual, transgénero, transexual, trasvesti e intersexual, y demás géneros y orientaciones diversas, conforme a lo dispuesto en la normatividad aplicable en materia de no discriminación y derechos humanos.
+
 #### SECCIÓN TERCERA. DE LOS ORGANISMOS AUXILIARES
 
 ###### Artículo 37.
@@ -1145,9 +1179,19 @@ V. Garantizar, mantener y en su caso, restablecer el orden y la paz públicas;
 
 VI. Regular la vialidad de vehículos y peatones en las vías primarias y secundarias que se encuentren dentro de su ámbito de competencia;
 
-> <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2024)</small>
 
-VII. Vigilar el cumplimiento estricto de las leyes, reglamentos gubernativos y de policía;
+VII. Vigilar el cumplimiento estricto de las leyes, reglamentos gubernativos y de policía, así como aplicar los protocolos de actuación policial, siguientes:
+
+a) Protocolo para la prevención y atención del hostigamiento y acoso sexual y laboral;
+
+b) Protocolo de actuación en materia de derechos de personas, comunidades y pueblos indígenas, para aplicarse por los servidores públicos que integran la dirección de servicios previos;
+
+c) Protocolo de actuación policial para la atención de víctimas del delito;
+
+d) Protocolo de actuación en materia de derechos de las personas con discapacidad, para aplicarse por los servidores públicos que integran la dirección de servicios, y
+
+e) Protocolo de actuación para reservar los derechos humanos de las personas que pertenezcan a la población lésbico, gay, bisexual, transgénero, transexual, trasvesti e intersexual, y demás géneros y orientaciones diversas, conforme a lo dispuesto en la normatividad aplicable en materia de no discriminación y derechos humanos.
 
 > <small>(REFORMADA, B.O. 30 DE NOVIEMBRE DE 2014)</small>
 
@@ -2396,3 +2440,11 @@ SEXTO.- Las disposiciones contenidas en los artículos 22, 23 y 24, no serán ap
 SEPTIMO.- Por única ocasión, la Comisión Técnica de Video Vigilancia deberá quedar integrada en un término que no excederá de 60 días siguientes a la entrada en vigor del presente decreto.
 
 OCTAVO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 14 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3065 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan las disposiciones legales y reglamentarias que se opongan al presente Decreto.
