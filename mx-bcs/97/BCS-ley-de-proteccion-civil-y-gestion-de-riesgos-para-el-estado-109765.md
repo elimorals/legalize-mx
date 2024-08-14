@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-civil-y-gestion-de-riesgos-para-el-estado-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-01"
-last_updated: "2023-04-30"
+last_updated: "2024-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE AGOSTO DE 2024.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 1 de septiembre de 2015.
 
@@ -149,35 +149,39 @@ XLVIII.- Reconstrucción: La acción transitoria orientada a alcanzar el entorno
 
 XLIX.- Recuperación: Proceso que inicia durante la emergencia, consistente en acciones encaminadas al retorno a la normalidad de la comunidad afectada;
 
-L.- Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contemplando la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura critica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos y el desarrollo de sistemas de alertamiento;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 14 DE AGOSTO DE 2024)</small>
 
-LI.- Riesgo Inminente: Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas, en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
+L.- Red Estatal de Radio de Emergencia: Red compuesta por radioaficionados del Estado, concesionados por el Instituto Federal de Telecomunicaciones, mediante indicativo exclusivo para operar, cuyos integrantes serán colaboradores voluntarios dispuestos permanentemente sin fines de lucro del Sistema Estatal de Protección Civil, en situaciones de emergencias y desastres.
 
-LII.- Refugio Temporal: Lugar físico destinado a prestar asilo, amparo, alojamiento y resguardo a personas ante la amenaza u ocurrencia de un agente perturbador;
+LI.- Reducción de Riesgos: Intervención preventiva de individuos, instituciones y comunidades que nos permite eliminar o reducir, mediante acciones de preparación y mitigación, el impacto adverso de los desastres. Contemplando la identificación de riesgos y el análisis de vulnerabilidades, resiliencia y capacidades de respuesta, el desarrollo de una cultura de protección civil, el compromiso público y el desarrollo de un marco institucional, la implementación de medidas de protección del medio ambiente, uso del suelo y planeación urbana, protección de la infraestructura critica, generación de alianzas y desarrollo de instrumentos financieros y transferencia de riesgos y el desarrollo de sistemas de alertamiento;
 
-LIII.- Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse o recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando los medidas de reducción de riesgos;
+LII.- Riesgo Inminente: Aquel riesgo que según la opinión de una instancia técnica especializada, debe considerar la realización de acciones inmediatas, en virtud de existir condiciones o altas probabilidades de que se produzcan los efectos adversos sobre un agente afectable;
 
-LIV.- Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
+LIII.- Refugio Temporal: Lugar físico destinado a prestar asilo, amparo, alojamiento y resguardo a personas ante la amenaza u ocurrencia de un agente perturbador;
 
-LV.- Secretaría: Secretaría General de Gobierno;
+LIV.- Resiliencia: Es la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse o recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando los medidas de reducción de riesgos;
 
-LVI.- Simulacro: Representación mediante una simulación de las acciones de respuesta previamente planeadas, con el fin de observar, probar y corregir una respuesta eficaz, ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
+LV.- Riesgo: Daños o pérdidas probables sobre un agente afectable, resultado de la interacción entre su vulnerabilidad y la presencia de un agente perturbador;
 
-LVII.- Siniestro: Situación crítica y dañina generada por la incidencia de uno o más agentes perturbadores en un inmueble o instalación, afectando a su población o equipo, con posible afectación de instalaciones circundantes;
+LVI.- Secretaría: Secretaría General de Gobierno;
+
+LVII.- Simulacro: Representación mediante una simulación de las acciones de respuesta previamente planeadas, con el fin de observar, probar y corregir una respuesta eficaz, ante posibles situaciones reales de emergencia o desastre. Implica el montaje de un escenario en terreno específico, diseñado a partir de la identificación y análisis de riesgos y la vulnerabilidad de los sistemas afectables;
+
+LVIII.- Siniestro: Situación crítica y dañina generada por la incidencia de uno o más agentes perturbadores en un inmueble o instalación, afectando a su población o equipo, con posible afectación de instalaciones circundantes;
 
 > <small>(ADICIONADA, B.O. 30 DE ABRIL DE 2023)</small>
 
-LVII Bis.- Subsecretaría: La de Protección Civil del Gobierno del Estado;
+LVIII Bis.- Subsecretaría: La de Protección Civil del Gobierno del Estado;
 
-LVIII.- Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
+LIX..- Unidad Interna de Protección Civil: El órgano normativo y operativo responsable de desarrollar y dirigir las acciones de protección civil, así como elaborar, actualizar, operar y vigilar el Programa Interno de Protección Civil en los inmuebles e instalaciones fijas y móviles de una dependencia, institución o entidad perteneciente a los sectores público, privado y social; también conocidas como Brigadas Institucionales de Protección Civil;
 
-LIX.- Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales.
+LX.- Vulnerabilidad: Susceptibilidad o propensión de un agente afectable a sufrir daños o pérdidas ante la presencia de un agente perturbador, determinado por factores físicos, sociales, económicos y ambientales.
 
-LX.- Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres;
+LXI.- Zona de Desastre: Espacio territorial determinado en el tiempo por la declaración formal de la autoridad competente, en virtud del desajuste que sufre en su estructura social, impidiéndose el cumplimiento normal de las actividades de la comunidad. Puede involucrar el ejercicio de recursos públicos a través del Fondo de Desastres;
 
-LXI.- Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador; y
+LXII.- Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por un fenómeno perturbador; y
 
-LXII.- Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
+LXIII.- Zona de Riesgo Grave: Asentamiento humano que se encuentra dentro de una zona de grave riesgo, originado por un posible fenómeno perturbador.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
 
@@ -529,6 +533,22 @@ XXVIII. En caso de riesgo, emergencia, desastre y operativos especiales, coordin
 
 XXIX. Las demás que le atribuyan otras disposiciones legales, y las que le asigne el Secretario General de Gobierno o el Consejo Estatal de Protección Civil.
 
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2024)</small>
+
+###### Artículo 17 Bis.
+
+Para ser Subsecretario de Protección Civil se deberá de cumplir con los requisitos siguientes:
+
+I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos.
+
+II.- Contar con grado de licenciatura de una rama afín a la materia de gestión de riesgos y protección civil, y poseer al día de su designación título y cédula profesional legalmente expedidos por institución facultada para ello;
+
+III.- Tener experiencia mínima comprobable de tres años en materia de gestión de riesgos y protección civil; y deberá contar con certificación expedida por la Escuela Nacional de Protección Civil o por alguna institución académica con la que el Gobierno del Estado tenga celebrado convenio, y
+
+IV.- Gozar de buena reputación y honorabilidad reconocida.
+
+Para ser Coordinador Estatal, o responsable del área de gestión de riesgos, y del área de gestión de emergencias de la Subsecretaría de Protección Civil, se deberá de cumplir con los mismos requisitos establecidos en el presente artículo.
+
 ## TÍTULO TERCERO. DEL SISTEMA MUNICIPAL DE PROTECCIÓN CIVIL
 
 ### CAPÍTULO I. De las Autoridades Municipales de Protección Civil
@@ -677,6 +697,22 @@ IX. Elaborar y en su caso someter para a (sic) la aprobación del Cabildo Munici
 
 X. Las demás atribuciones que le asigne el Consejo Municipal de Protección Civil.
 
+> <small>(ADICIONADO, B.O. 14 DE AGOSTO DE 2024)</small>
+
+###### Artículo 33 Bis.
+
+Para ser Coordinador de Protección Civil Municipal se deberá de cumplir con los requisitos siguientes:
+
+I.- Ser ciudadano sudcaliforniano en pleno ejercicio de sus derechos civiles y Políticos;
+
+II.- Contar con grado de licenciatura de una rama afín a la materia de gestión de riesgos y protección civil y poseer al día de su designación título y cédula profesional legalmente expedidos por institución facultada para ello;
+
+III.- Tener experiencia mínima comprobable de tres años en materia de gestión de riesgos y protección civil; y deberá contar con certificación expedida por la Escuela Nacional de Protección Civil o por alguna institución académica con la que el Ayuntamiento o el Gobierno del Estado tenga celebrado convenio, y
+
+IV.- Gozar de buena reputación y honorabilidad reconocida.
+
+Para ser Coordinador de Operación de la Coordinación Municipal de Protección Civil, se deberá de cumplir con los mismos requisitos establecidos en el presente artículo.
+
 ## TÍTULO CUARTO. DE LOS AUXILIARES EN MATERIA DE PROTECCIÓN CIVIL
 
 ### CAPÍTULO I. De la participación de los H. Cuerpos de Bomberos
@@ -739,13 +775,37 @@ Las personas que deseen desempeñar labores de protección civil, deberán integ
 
 Aquellos que no deseen integrarse a la red de brigadistas o un grupo voluntario, podrán registrarse individualmente en las Coordinaciones Municipales de Protección Civil correspondiente, precisando su actividad, oficio o profesión, así como su especialidad aplicable a tareas de protección civil.
 
-### CAPÍTULO I. Disposiciones Generales
+> <small>(REFORMADO [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], B.O. 14 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO IV. De la Red Estatal de Radio de Emergencia
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 14 DE AGOSTO DE 2024)</small>
+
+###### Artículo 41 Bis.
+
+La Red Estatal de Radio de Emergencia se constituye como una red de ámbito estatal alternativa y complementaria a otras redes de comunicaciones utilizadas por las autoridades en materia de protección civil.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 14 DE AGOSTO DE 2024)</small>
+
+###### Artículo 41 Ter.
+
+Son objetivos de la Red Estatal de Radio de Emergencia:
+
+I. Constituir un sistema de comunicaciones radioeléctricas alternativo y complementario a las redes de comunicación utilizadas por las autoridades de protección civil. Dicho sistema deberá permitir la recogida de información relevante a nivel estatal sobre cualquier situación de la emergencia, y la transmisión de mensajes a aquellos destinatarios que, por las características de la emergencia o desastre, no dispongan de otros medios de comunicación operativos.
+
+II. Conformar una estructura operativa que permita a los radioaficionados acreditados en el Estado, colaborar en emergencias y desastres asumiendo voluntariamente las funciones que les fueran solicitadas como apoyo por las autoridades en materia de protección civil.
+
+III. Constituirse como una capacidad operativa de apoyo al Sistema Estatal de Protección Civil y de los Sistemas Municipales de Protección Civil, cuando se les solicite y se considere necesario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 14 DE AGOSTO DE 2024)</small>
+
+###### Artículo 41 Quáter.
+
+La Red estará compuesta por radioaficionados acreditados para ello, de conformidad con lo dispuesto en la presente Ley. Sus integrantes serán colaboradores voluntarios permanentes del Sistema Estatal de Protección Civil, y de los Sistemas Municipales de Protección Civil. Los colaboradores utilizarán sus propios medios de radiocomunicaciones para el cumplimiento de las misiones que les sean encomendadas. Los esquemas de coordinación de la Red con el Sistema Estatal de Protección Civil y con los Sistemas Municipales de Protección Civil, serán precisados en el Reglamento de la presente Ley.
 
 ## TÍTULO QUINTO. DE LA CULTURA DE PROTECCIÓN CIVIL
 
-### CAPÍTULO II. De la Acción Ciudadana
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 42.
 
@@ -777,7 +837,7 @@ Los integrantes de los Sistemas Estatal y Municipales de Protección Civil, prom
 
 Las Autoridades Estatales y Municipales coordinaran proyectos, estudios e inversiones necesarias para ampliar y modernizar la cobertura de los sistemas de medición de los distintos Agentes Perturbadores, encaminados a prevenir riesgos que pongan en peligro la vida y que puedan provocar daños irreversibles a la población.
 
-### CAPÍTULO III. De los Programas Internos de Protección Civil
+### CAPÍTULO II. De la Acción Ciudadana
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
 
@@ -805,7 +865,9 @@ Lo anterior, se hará sin perjuicio de que la autoridad receptora de la denuncia
 
 Cuando los hechos que motiven una denuncia hubieren ocasionado daños y perjuicios, los interesados podrán solicitar a la Subsecretaría la formulación de un dictamen técnico para su trámite ante la autoridad correspondiente.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. De los Programas Internos de Protección Civil
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
 
 ###### Artículo 51.
 
@@ -825,7 +887,7 @@ Previo a la realización de eventos públicos y en espacios de concentración ma
 
 ## TÍTULO SEXTO. DE LA PROFESIONALIZACIÓN DE LA PROTECCIÓN CIVIL
 
-### CAPÍTULO I. De los Instrumentos Financieros de Gestión de Riesgos
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 54.
 
@@ -855,7 +917,7 @@ La estructura, organización y operación del área a la que se refiere el prese
 
 ## TÍTULO SÉPTIMO. GESTIÓN FINANCIERA Y TRANSFERENCIA DEL RIESGO
 
-### CAPÍTULO II. De la Administración y Transferencia de Riesgos
+### CAPÍTULO I. De los Instrumentos Financieros de Gestión de Riesgos
 
 ###### Artículo 59.
 
@@ -875,9 +937,7 @@ Los fenómenos antropogénicos, son en esencia provocados por la actividad human
 
 Las Coordinaciones de Protección Civil Estatal y Municipales, promoverán con las diversas instancias del Sistema Nacional de Protección Civil, para que desarrollen programas especiales destinados a reducir o mitigar los riesgos antropogénicos, así como de atención a la población en caso de contingencias derivadas de tales fenómenos.
 
-### CAPÍTULO III. Del Fondo de Protección Civil y Donaciones para Auxiliar a la Población
-
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+### CAPÍTULO II. De la Administración y Transferencia de Riesgos
 
 ###### Artículo 62.
 
@@ -889,7 +949,9 @@ El Gobierno del Estado, a través de la Secretaría de Finanzas, definirá los e
 
 Para el cumplimiento de dicha obligación, se podrá solicitar que los seguros y demás instrumentos de administración y transferencia de riesgos sean complementados con los Instrumentos Financieros de Gestión de Riesgos a que se refiere el Capítulo anterior, conforme lo dispuesto por los lineamientos que el Gobierno Federal emita.
 
-### CAPÍTULO I. Medidas de Seguridad
+### CAPÍTULO III. Del Fondo de Protección Civil y Donaciones para Auxiliar a la Población
+
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
 
 ###### Artículo 64.
 
@@ -921,9 +983,7 @@ Los donativos en efectivo recibidos por las instituciones bancarias o financiera
 
 ## TÍTULO OCTAVO. MEDIDAS DE SEGURIDAD, SUPERVISIONES, INFRACCIONES Y SANCIONES
 
-### CAPÍTULO II. De las Sanciones y Supervisiones
-
-> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
+### CAPÍTULO I. Medidas de Seguridad
 
 ###### Artículo 68.
 
@@ -952,6 +1012,10 @@ VI. La suspensión de trabajos, actividades y servicios;
 VII. La solicitud de la intervención de la fuerza pública, en caso de ser necesario; y
 
 VIII. Las demás que en materia de protección civil determinen las disposiciones reglamentarias y la legislación aplicable, tendientes a evitar que se generen o sigan causándose daños.
+
+### CAPÍTULO II. De las Sanciones y Supervisiones
+
+> <small>(REFORMADO, B.O. 30 DE ABRIL DE 2023)</small>
 
 ###### Artículo 70.
 
@@ -1056,3 +1120,15 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Sin menoscabo de lo previsto en el Artículo anterior, y para efectos de lo establecido en el Artículo Cuarto del presente Decreto, la Subsecretaría de Protección Civil funcionará una vez que entren en vigor las modificaciones contempladas en el presente Decreto, con el mismo presupuesto asignado a la Coordinación Estatal de Protección Civil.
 
 TERCERO.- Sin menoscabo de lo previsto en el Artículo Primero Transitorio de este Decreto, y para efectos de lo previsto en el Artículo Cuarto establecido en el presente Decreto, las trabajadoras y trabajadores que actualmente se encuentran asignados a la Coordinación Estatal de Protección Civil, pasarán a formar parte de la Subsecretaría de Protección Civil bajo las mismas condiciones laborales en que se encuentren actualmente, dejando por ende a salvo sus derechos laborales.
+
+B.O. 14 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3067 SE REFORMA LA FRACCIÓN L AL ARTÍCULO 2, RECORRIÉNDOSE LAS SUBSECUENTES HASTA LLEGAR A LA FRACCIÓN LXIII; UN CAPÍTULO IV AL TÍTULO CUARTO, DENOMINADO “DE LA RED ESTATAL DE RADIO DE EMERGENCIA” QUE CONTIENE LOS ARTÍCULOS 41 BIS, 41 TER Y 41 QUÁTER, TODOS DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletan (sic) Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3069 SE ADICIONAN LOS ARTÍCULOS 17 BIS Y 33 BIS A LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el 01 de octubre de 2027, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
