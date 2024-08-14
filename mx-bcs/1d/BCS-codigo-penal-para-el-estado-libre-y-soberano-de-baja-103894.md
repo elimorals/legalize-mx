@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2024-07-11"
+last_updated: "2024-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE AGOSTO DE 2024.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1961,9 +1961,11 @@ Violencia Vicaria: A quien, siendo o haya sido cónyuge, concubino o concubina o
 
 Al responsable de violencia vicaria, se le someterá a tratamiento psicológico especializado, el cual tendrá la duración que la autoridad jurisdiccional competente disponga, sin exceder el tiempo de la sanción de prisión y sin perjuicio de la aplicación de otros tratamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 201.
 
-Definiciones. Para los efectos del artículo anterior se considera:
+Definiciones. Para los efectos de los artículos anteriores se considera:
 
 I. Maltrato físico.- Todo acto de agresión intencional en el que se utilice alguna parte del cuerpo, objeto, elemento o sustancia para sujetar, inmovilizar o causar daño a la integridad física de otra persona.
 
@@ -1971,21 +1973,29 @@ II. Maltrato psicológico o emocional.- Todo acto u omisión, tales como prohibi
 
 III. Miembro de la familia.- Toda persona que se encuentra unida por una relación de matrimonio, concubinato o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente, sin limitación de grado, o parentesco colateral o afín hasta el cuarto grado, así como parentesco civil.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
-
-> <small>(ADICIONADO, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 201 Bis.
 
-El delito a que se refiere el artículo anterior se perseguirá por querella, excepto cuando se cometa con la participación de dos o más personas, con el uso de armas de fuego o punzocortantes y se deje cicatriz permanente en alguna parte del cuerpo o se tengan documentados antecedentes o denuncias de violencia familiar cometidos por el mismo agresor contra la víctima, o cuando esta última:
+Los delitos a que se refieren los artículos anteriores se perseguirán por querella, excepto cuando se cometan con la participación de dos o más personas, con el uso de armas de fuego o punzocortantes y se deje cicatriz permanente en alguna parte del cuerpo o se tengan documentados antecedentes o denuncias de violencia familiar cometidos por el mismo agresor contra la víctima, o según corresponda, cuando esta última:
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 I. Sea menor de edad, incapaz o no tenga la capacidad de comprender el significado del hecho;
 
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 II. Presente una discapacidad sensorial, física o mental, total o parcial, temporal o permanente;
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 III. Sea mayor de sesenta años de edad;
 
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
+
 IV. Sea una mujer en estado de embarazo o durante los tres meses posteriores al parto;
+
+> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2022)</small>
 
 V. Exista imposibilidad de la víctima de denunciar:
 
@@ -4882,3 +4892,9 @@ B.O. 11 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 3054 SE ADICIONA, AL TÍTULO PRIMERO DEL LIBRO SEGUNDO DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EL CAPÍTULO VI DENOMINADO “VIOLENCIA OBSTÉTRICA” Y LOS ARTÍCULOS 156 BIS, 156 TER Y 156 QUATER”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 14 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 3062 SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
