@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-instituciones-y-procedimientos-electorales-del-167081"
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-26"
-last_updated: "2023-07-26"
+last_updated: "2024-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE AGOSTO DE 2024.
 
 Ley publicada en el Extraordinario No. 44 del Boletín Oficial del Gobierno del Estado de Baja California Sur, el miércoles 26 de julio de 2023.
 
@@ -185,7 +185,9 @@ b) Poder ser votada para todo cargo de elección popular, teniendo las calidades
 
 c) Asociarse individual, libre y pacíficamente para tomar parte en los asuntos políticos del Estado;
 
-d) Participar en las consultas ciudadanas plebiscitarias y de referéndum;
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 2024)</small>
+
+d) Participar en las consultas ciudadanas plebiscitarias y de referéndum, así como en los procesos de Revocación de mandato;
 
 e) Afiliarse, libre e individualmente, a los Partidos Políticos; y
 
@@ -231,7 +233,9 @@ g) Ser Jueza, Juez, titular de la secretaría de acuerdos, proyectista y/o simil
 
 Artículo 7
 
-1. El Instituto Estatal Electoral de Baja California Sur, es el organismo público local en materia electoral, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propio, depositario de la autoridad electoral en la entidad, responsable del ejercicio de la función estatal de organizar las elecciones en los términos de esta Ley y de la Ley General, así como responsable de los procedimientos de referéndum, plebiscito y consulta ciudadana.
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 2024)</small>
+
+1. El Instituto Estatal Electoral de Baja California Sur, es el organismo público local en materia electoral, profesional en su desempeño, autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propio, depositario de la autoridad electoral en la entidad, responsable del ejercicio de la función estatal de organizar las elecciones en los términos de esta Ley y de la Ley General, así como responsable de los procedimientos de referéndum, plebiscito, consulta ciudadana y Revocación de Mandato.
 
 2. El Instituto, así como todas sus actividades se regirá por los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad, y las realizarán con perspectiva de género y enfoque de derechos humanos.
 
@@ -243,7 +247,9 @@ Artículo 8
 
 I. Ejercer la función de Estado consistente en la preparación, organización y vigilancia de los procesos electorales para renovar a los integrantes y titulares de los poderes Legislativo y Ejecutivo, así como los Ayuntamientos de la Entidad;
 
-II. Preparar, organizar y vigilar los procesos de referéndum y plebiscito;
+> <small>(REFORMADA, B.O. 14 DE AGOSTO DE 2024)</small>
+
+II. Preparar, organizar y vigilar los procesos de referéndum, plebiscito y Revocación de Mandato;
 
 III. Contribuir al desarrollo de la vida democrática;
 
@@ -4707,15 +4713,23 @@ Artículo 324
 
 ## TÍTULO DÉCIMO SÉPTIMO. De los Procesos de Participación Ciudadana
 
-### CAPÍTULO ÚNICO. Del Referéndum, Plebiscito y Consulta Ciudadana
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO ÚNICO. Del Referéndum, Plebiscito, Consulta Ciudadana y Revocación de Mandato
 
 Artículo 325
 
 1. En los procesos de referéndum, plebiscito y consulta ciudadana, se aplicarán las reglas específicas señaladas en la Ley de Participación Ciudadana del Estado de Baja California Sur y se aplicarán en lo conducente las reglas señaladas para el proceso electoral sobre la preparación, recepción y cómputo de la votación previstas en la presente Ley.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 14 DE AGOSTO DE 2024)</small>
+
+2. En cuanto a los procesos de Revocación de Mandato se aplicaran las reglas establecidas en la Ley de Revocación de mandato del Estado de Baja California Sur.
+
 Artículo 326
 
-1. Tendrán derecho a participar en los procesos de referéndum, plebiscito y consulta ciudadana convocado por las autoridades la ciudadanía que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE AGOSTO DE 2024)</small>
+
+1. Tendrán derecho a participar en los procesos de referéndum, plebiscito, consulta ciudadana y Revocación de mandato convocado por las autoridades la ciudadanía que:
 
 I. Esté inscrita en el listado nominal y cuenten con la credencial para votar vigente;
 
@@ -4788,3 +4802,15 @@ VÍCTOR MANUEL CASTRO COSÍO
 SECRETARIO GENERAL DE GOBIERNO
 
 HOMERO DAVIS CASTRO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 14 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3059 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE PARTICIPACIÓN CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA SUR Y A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE BAJA CALIFORNIA SUR EN MATERIA DE REVOCACIÓN DE MANDATO Y SE EXPIDE LA LEY DE REVOCACIÓN DE MANDATO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo. A partir de la entrada en vigor del presente Decreto, se derogan todas las disposiciones normativas que se opongan al mismo.
+
+Tercero. El ejercicio de las atribuciones que esta Constitución le confiere al Instituto Estatal Electoral en materia (sic) revocación de mandato, se cubrirán con base en la disponibilidad presupuestaria para el presente ejercicio y los subsecuentes.
