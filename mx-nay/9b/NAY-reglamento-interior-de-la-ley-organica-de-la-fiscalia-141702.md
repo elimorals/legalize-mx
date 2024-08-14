@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-ley-organica-de-la-fiscalia-141702"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-01-23"
-last_updated: "2022-12-16"
+last_updated: "2024-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE DICIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2024.
 
 Reglamento publicado en la Sección Primera del Número 15 del Periódico Oficial del Estado de Nayarit, el jueves 23 de enero de 2020.
 
@@ -215,13 +213,17 @@ V. El ejercicio de las demás atribuciones y obligaciones que les confiera la Le
 
 ### CAPÍTULO I. De la estructura orgánica de la Fiscalía General
 
+> <small>(REFORMADO ACÁPITE, P.O. 14 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 8.
 
-De la Fiscalía General.
+de la Fiscalía General.
 
 La Fiscalía General, para el cumplimiento de las atribuciones, funciones y el despacho de los asuntos de su competencia, contará con la estructura orgánica siguiente:
 
-A. Despacho del Fiscal General:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE AGOSTO DE 2024)</small>
+
+1. Despacho del Fiscal General.
 
 I. La Secretaría Particular;
 
@@ -241,7 +243,11 @@ VIII. La Unidad de Análisis, Monitoreo y Evaluación; y
 
 IX. La Unidad de Análisis Criminal.
 
-B. De las Fiscalías Especializadas por disposición de la Constitucional Local:
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2024)</small>
+
+X. La Coordinación de Derechos Humanos.
+
+B (SIC). De las Fiscalías Especializadas por disposición de la Constitucional Local:
 
 I. La Fiscalía Especializadas (sic) en Materia de Combate a la Corrupción; y
 
@@ -933,6 +939,22 @@ IX. Evaluar riesgos que permitan a la Dirección General de Investigación Minis
 
 X. Las demás que señale la Ley Orgánica, este reglamento, los Manuales de Operación, Criterios y Lineamientos emitidos por el Fiscal General, así como otros ordenamientos legales aplicables.
 
+> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2024)</small>
+
+###### Artículo 35 Bis.
+
+Al frente de la Coordinación de Derechos Humanos habrá una persona titular quien, además de coadyuvar en la observancia del ordinal 10, fracción V, incisos a) y b) de la Ley Orgánica de la Fiscalía General del estado de Nayarit, será la encargada de impulsar acciones que propicien que el personal al servicio de la Fiscalía General promueva, respete y garantice los derechos humanos reconocidos para su protección por la Constitución Política de los Estados Unidos Mexicanos, y en los tratados internacionales aprobados en términos del arábigo 133 Constitucional, de los que el Estado Mexicano sea parte, teniendo los siguientes ejes y principios fundamentales de acción:
+
+I. Proponer directrices institucionales para promover la cultura y respeto de los derechos humanos, en la Fiscalía General;
+
+II. Vigilar la observancia de los estándares nacionales e internacionales de derechos humanos en las actuaciones del personal de la Fiscalía General;
+
+III. Vigilar la atención y seguimiento de las propuestas de conciliación, medidas cautelares, quejas, recomendaciones, recursos de impugnación y otros requerimientos de organismos públicos de derechos humanos en el ámbito de su competencia.
+
+IV. Las demás que le encomiende la persona titular de la Fiscalía General, la Ley Orgánica, este ordenamiento interior y otros ordenamientos normativos aplicables.
+
+Para el cumplimiento de sus atribuciones operativas, la Coordinación de Derechos Humanos contará con las siguientes áreas auxiliares: Área de Quejas; Área de Recomendaciones y Área de mecanismos de coordinación; cuyas funciones se establecerán en el manual de organización correspondiente.
+
 ### CAPÍTULO II. De las Fiscalías Especializadas por disposición de la Constitucional Local
 
 ###### Artículo 36.
@@ -1023,7 +1045,7 @@ d) Coordinación de Unidades de Investigación;
 
 e) Coordinación de Bienes Asegurados;
 
-f) Coordinación de Derechos Humanos; y
+f) (DEROGADO, P.O. 14 DE AGOSTO DE 2024)
 
 g) Bodega de Indicios y Evidencias.
 
@@ -1387,27 +1409,7 @@ XX. Las demás que le encomiende el Fiscal General, el Director General de Inves
 
 ###### Artículo 51.
 
-De la Unidad en Materia de Derechos Humanos.
-
-La Unidad en Materia de Derechos Humanos es la encargada de asegurar que la acción del personal al servicio de la Fiscalía General, respete los derechos humanos previstos en la Constitución Federal y los tratados internacionales, tanto de las personas sujetas a investigación, como de aquellas que son ofendidas, víctimas o testigos de delitos, de demás que intervienen en la investigación de un delito, sustanciación de los procesos penales y en la ejecución de sanciones, de acuerdo con las leyes aplicables.
-
-El Titular de la Unidad en Materia de Derechos Humanos, tendrá las siguientes facultades y obligaciones:
-
-I. Otorgar asesoría jurídica a los miembros de la Fiscalía General, con relación al trámite y sustanciación de quejas en materia de derechos humanos;
-
-II. Vigilar el cumplimiento de las medidas de prevención de violaciones a los derechos humanos;
-
-III. Auxiliar en la atención de los requerimientos de las Comisiones Estatal y Nacional de Derechos Humanos;
-
-IV. Registrar las quejas, solicitudes de colaboración y recomendaciones, en el sistema correspondiente, así como vigilar el seguimiento de las mismas hasta su cumplimiento;
-
-V. Elaborar los informes derivados de las quejas presentadas ante la Comisión de Derechos Humanos del Estado de Nayarit, y ante las Comisiones Estatal y Nacional de Derechos Humanos, así como las diversas solicitudes realizadas por dichos organismos;
-
-VI. Asistir a las audiencias de conciliación que, con motivo de las quejas presentadas en contra de la actuación de servidores públicos;
-
-VII. Rendir informe de las actividades de su dependencia al Subdirector de Investigación Ministerial; y
-
-VIII. Las demás que le encomiende el Fiscal General, el Director General de Investigación Ministerial y Procesos Judiciales, el Subdirector de Investigación Ministerial, la Ley Orgánica, este Reglamento, los Manuales de Organización y demás disposiciones legales aplicables.
+(DEROGADO, P.O. 14 DE AGOSTO DE 2024)
 
 ###### Artículo 52.
 
@@ -3918,5 +3920,15 @@ P.O. 15 DE DICIEMBRE DE 2022.
 Artículo Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del estado de Nayarit.
 
 Artículo Segundo. Se abroga el Acuerdo Administrativo que crea la Unidad de Inteligencia Patrimonial y Económica de la Fiscalía General del Estado, publicado el 1 de julio de 2019 en el Periódico Oficial, Órgano del Gobierno del estado de Nayarit.
+
+Artículo Tercero. Publíquese en el Periódico Oficial Órgano del Gobierno del estado de Nayarit, así como en el Portal Web de la Fiscalía General del estado de Nayarit y dese a conocer a la estructura interna de la Fiscalía General del Estado.
+
+P.O. 14 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO ADMINISTRATIVO QUE ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE NAYARIT".]
+
+Artículo Primero. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del estado de Nayarit.
+
+Artículo Segundo. Los asuntos pendientes de resolución, expedientes en trámite y bienes con los que contaba para su funcionamiento la Unidad de Derechos Humanos continuarán su consecución en la Coordinación de Derechos Humanos adscrita al Despacho del Fiscal, hasta su conclusión en la intelección de realizar los trámites administrativos para la actualización de la documentación, resguardos, material, equipo, inventario y activos que se dispuso para sus funciones.
 
 Artículo Tercero. Publíquese en el Periódico Oficial Órgano del Gobierno del estado de Nayarit, así como en el Portal Web de la Fiscalía General del estado de Nayarit y dese a conocer a la estructura interna de la Fiscalía General del Estado.
