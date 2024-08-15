@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2024-07-03"
+last_updated: "2024-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -833,9 +833,9 @@ Los municipios podrán celebrar contratos y convenios para la prestación de los
 
 1. La Secretaría, en coordinación con los ayuntamientos, promoverá la creación de organismos operadores descentralizados de la administración pública municipal para prestar los servicios públicos previstos en esta ley.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2024)</small>
 
-2. En el caso de los órganos de administración de los organismos operadores de naturaleza estatal, les serán aplicables las disposiciones previstas para los organismos operadores municipales, con excepción de la designación del Gerente General que estará a cargo del Ejecutivo del Estado.
+2. En el caso de los organismos operadores de naturaleza estatal, la designación del Gerente General estará a cargo del Ejecutivo del Estado.
 
 ###### Artículo 23.
 
@@ -845,9 +845,7 @@ Los municipios podrán celebrar contratos y convenios para la prestación de los
 
 3. La organización y funcionamiento de estos organismos se regirán por la presente ley, su decreto de creación y el Estatuto Orgánico.
 
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
-
-4. La integración del Consejo de Administración que se nombrará en cada Organismo Operador, se establecerá en su Decreto de creación.
+4. (DEROGADO, P.O. 15 DE AGOSTO DE 2024)
 
 ###### Artículo 24.
 
@@ -979,17 +977,17 @@ II. Los titulares de tres dependencias municipales, las que serán, preferenteme
 
 III. Tres representantes del Ejecutivo del Estado, los cuales uno será servidor público de la Secretaría, otro de la Secretaría de Salud y otro de la Secretaría de Desarrollo Urbano y Medio Ambiente;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2024)</small>
 
-IV. Un Diputado o Diputada al Congreso del Estado con residencia en uno de los distritos electorales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, quien será propuesto por la Junta de Gobierno al Pleno del Poder Legislativo, para que este resuelva por mayoría simple de los diputados y diputadas presentes; y
+IV. Las Diputadas o Diputados del Congreso del Estado electos en los distritos electorales uninominales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, y;
 
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2022)</small>
 
 V. Tres representantes de los sectores social y privado que tengan representatividad en el desarrollo económico y social del Municipio, de entre quienes se nombrará al Secretario.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2024)</small>
 
-2. La designación de los titulares representantes del Municipio y de los sectores social y privado quedará establecida en el decreto de creación del organismo operador.
+2. Los titulares representantes del Municipio serán designados por el Presidente Municipal; los representantes de los sectores social y privado serán designados por el Consejo de Administración con base en las propuestas que realicen los grupos sociales, organizaciones o la ciudadanía en general.
 
 3. Los integrantes del Consejo tendrán voz y voto, y el Presidente tendrá voto de calidad. Los cargos serán honoríficos y podrán ser relevados libremente por los órganos y sectores que representen.
 
@@ -998,6 +996,38 @@ V. Tres representantes de los sectores social y privado que tengan representativ
 4. Por cada integrante propietario del Consejo se designará un suplente.
 
 5. El Consejo de Administración sesionará validamente con la concurrencia de la mayoría de sus miembros. Sus decisiones se tomarán por mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2024)</small>
+
+6. En la designación de los representantes de los sectores social y privado, sólo podrán votar los integrantes del Consejo de Administración establecidos en las fracciones I, II, III y IV del presente artículo.
+
+> <small>(ADICIONADO, P.O. 15 DE AGOSTO DE 2024)</small>
+
+###### Artículo 28 Bis.
+
+1. El Consejo de Administración de los organismos operadores estatales estará integrado por:
+
+I. El Titular de la Secretaría de Recursos Hidráulicos para el Desarrollo Social, quien fungirá como Presidente;
+
+II. Dos representantes municipales, los cuales uno será el Presidente Municipal y otro el titular de dependencia responsable del desarrollo social, desarrollo urbano, obras públicas, desarrollo económico o medio ambiente;
+
+III. Tres representantes del Gobierno del Estado, uno de la Secretaría (sic) Salud, otro de la Secretaría de Desarrollo Urbano y Medio Ambiente y otro de la Contraloría Gubernamental;
+
+IV. Las Diputadas o Diputados del Congreso del Estado electos en los distritos electorales uninominales comprendidos dentro del ámbito territorial donde desarrolle sus funciones el organismo operador de que se trate, y;
+
+V. Un representante del sector social o privado que tenga representatividad en el desarrollo económico y social del Municipio.
+
+2. El representante del Municipio será designado por el Presidente Municipal; el representante del sector social o privado será designado por el Consejo de Administración con base en la propuesta que realicen los grupos sociales, organizaciones o la ciudadanía en general.
+
+3. En la designación del representante del sector social o privado, sólo podrán votar los integrantes del Consejo de Administración establecidos en las fracciones I, II, III y IV del presente artículo.
+
+4. En el caso de que el organismo operador preste el servicio a dos municipios, ambos Presidentes Municipales formarán parte del Consejo de Administración. En el caso de organismos operadores que se conformen en más de tres municipios, se integrarán al Consejo de Administración, los dos Presidentes Municipales que en sus municipios habiten el mayor número de habitantes de acuerdo a fuentes oficiales gubernamentales. En estos supuestos no se aumentará el número de dos integrantes municipales establecido en el párrafo 1, fracción II de este artículo.
+
+5. Los integrantes del Consejo tendrán voz y voto, y el Presidente tendrá voto de calidad. Los cargos serán honoríficos y podrán ser relevados libremente por los órganos y sector que representen.
+
+6. Por cada integrante propietario del Consejo se designará un suplente.
+
+7. El Consejo de Administración sesionará válidamente con la concurrencia de la mayoría de sus miembros. Sus decisiones se tomarán por mayoría de votos.
 
 ###### Artículo 29.
 
@@ -3439,4 +3469,24 @@ P.O. 3 DE JULIO DE 2024.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
+P.O. 15 DE AGOSTO DE 2024.
+
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-864 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII, DEL PÁRRAFO 1, DEL ARTÍCULO 6, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Consejos de Administración de los organismos operadores municipales y estatales, deberán realizar las adecuaciones de integración a efecto de dar cumplimiento a lo establecido en los artículos 28 párrafo 1 y 2 y 28 Bis del presente Decreto, en un plazo que no exceda los 30 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los organismos operadores estatales y municipales deberán realizar los ajustes a su normatividad interna conforme al presente Decreto en un término de 30 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Los Decretos de creación de los organismos públicos municipales operadores del agua que se reforman mediante el presente Decreto así como sus ordenamientos internos, deberán atender la normatividad establecida en la Ley de Aguas del Estado de Tamaulipas, por lo que, todo aquello que contravenga al presente Decreto y a la ley de referencia, quedará sin efectos, aplicando en lo sucesivo lo dispuesto en la legislación estatal en materia del agua aludida.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-883 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS Y DE LOS DIVERSOS DECRETOS DE CREACIÓN DE LOS ORGANISMOS OPERADORES DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE LAS AGUAS RESIDUALES OPERADOS POR EL ORDEN MUNICIPAL".]
