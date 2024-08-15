@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2024-08-05"
+last_updated: "2024-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -4639,35 +4639,49 @@ Asimismo, se presumirá que hay tentativa de feminicidio cuando las lesiones dol
 
 #### SECCION OCTAVA.- ABORTO
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 339.
 
-Aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
+Aborto es la interrupción del embarazo después de la décima segunda semana de gestación.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 340.
 
-Al que hiciere abortar a una mujer, se le aplicarán de uno a tres años de prisión, sea cual fuere el medio que empleare, siempre que lo haga con consentimiento de ella. Cuando falte el consentimiento, la prisión será de tres a seis años, y si empleare violencia física o moral, se impondrán al delincuente de seis a ocho años de prisión.
+Se impondrán de seis meses a un año de prisión a la mujer o persona gestante que voluntariamente procure su aborto o consienta que otro la haga abortar, después de las doce semanas de embarazo.
+
+Al que hiciere abortar a una mujer o persona gestante con consentimiento de ella, después de la décima segunda semana de gestación, se le aplicarán de uno a tres años de prisión, sea cual fuere el medio que empleare.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 341.
 
-Si el aborto lo causare un médico, cirujano, o partera, además de las sanciones que le correspondan conforme al artículo anterior, se le suspenderá de dos a cinco años en el ejercicio de su oficio o profesión.
+Aborto forzado es la interrupción del embarazo, en cualquier momento de la gestación, sin el consentimiento de la mujer o persona gestante.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+Al que hiciere abortar a una mujer o persona gestante por cualquier medio sin su consentimiento, se le impondrá de cuatro a ocho años de prisión.
+
+Si mediare violencia física o moral, se impondrá de ocho a diez años de prisión.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 342.
 
-Se impondrán de seis meses a un año de prisión a la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar.
+Si el aborto forzado lo causare un médico, cirujano, enfermero, practicante de medicina o partera, además de las sanciones que le correspondan conforme al artículo anterior, se le suspenderá en el ejercicio de su profesión u oficio por un tiempo igual al de la pena de prisión impuesta.
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 343.
 
 El aborto no es sancionable en los siguientes casos:
 
-I.- Cuando sea causado sólo por imprudencia de la mujer embarazada;
+I. Cuando sea causado solo por imprudencia de la mujer o persona gestante;
 
-II.- Cuando el embarazo sea el resultado de una violación;
+II. Cuando el embarazo sea el resultado de una violación o de una inseminación artificial no consentida;
 
-III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asiste, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora; y
+III. Cuando de no provocarse el aborto, la mujer o persona gestante corra peligro de muerte, a juicio del médico que la asiste, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora; y
 
-IV.- Cuando el aborto se deba a causas eugenésicas graves, según dictamen que previamente rendirán dos peritos médicos.
+IV. Cuando a juicio de un médico especialista exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales en el mismo, siempre que se determine mediante dictamen médico y se tenga el consentimiento de la mujer o persona gestante.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -7890,3 +7904,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente ordenamiento, los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, deberán crear dentro de su estructura orgánica, las instancias señaladas en el presente Decreto.
+
+P.O. 15 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 339, 340, 341, 342, Y 343 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
