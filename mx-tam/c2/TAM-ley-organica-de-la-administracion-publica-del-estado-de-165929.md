@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2024-05-28"
+last_updated: "2024-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2024.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -263,9 +263,35 @@ XV. Contribuir al cumplimiento y aplicación de la Ley de Responsabilidades Admi
 
 XVI. Formular y proponer al Gobernador políticas públicas, planes, programas y acciones generales o para cada ramo o en las Dependencias;
 
-XVII. Dar seguimiento a las políticas, planes, programas y acciones de gobierno y evaluar sus resultados presupuestales, económicos y sociales, informando al Gobernador de ellos; y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2024)</small>
 
-XVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
+XVII. Dar seguimiento a las políticas, planes, programas y acciones de gobierno y evaluar sus resultados presupuestales, económicos y sociales, informando al Gobernador de ellos;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+
+XVIII. Administrar la Red Estatal de Comunicaciones, coordinándose para tal efecto con las instancias federales, estatales, municipales y particulares que se requiera;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+
+XIX. Analizar las necesidades de información de las diferentes Dependencias y Entidades, con objeto de hacer más eficiente y optimizar los sistemas actuales; y proponer, desarrollar y ejecutar por sí o a través de terceros, proyectos estratégicos de información con tecnología de punta en sistemas y telecomunicaciones;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+
+XX. Emitir dictamen para la adquisición de equipo de procesamiento electrónico de datos y coordinar el otorgamiento de los servicios que en la materia requieran las distintas Dependencias y Entidades de la Administración Pública;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+
+XXI. Definir, desarrollar, operar y regular la política pública estatal en materia de informática, tecnologías de la información, telecomunicación, Gobierno Digital y datos abiertos en Dependencias y Entidades de la Administración Pública Estatal, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+
+XXII. Establecer mecanismos de coordinación que aseguren la eficiencia, eficacia, economía, transparencia y honradez en la administración de los recursos humanos, materiales, físicos y tecnológicos de las direcciones administrativas o equivalentes en su función en las Dependencias y Entidades de la Administración Pública Estatal, quienes informarán a la Oficina del Gobernador, el estado que guarda la unidad administrativa a su cargo en la periodicidad que dicha dependencia establezca, manteniendo un monitoreo permanente mediante la implementación de sistemas de inteligencia administrativa;
+
+> <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2024)</small>
+
+XXIII. Diseñar y desarrollar las redes de voz, video y datos e impulsar su aplicación para una efectiva operación en las dependencias y entidades de la Administración Pública Estatal; y
+
+XXIV. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
 #### Sección II. De la Secretaría General de Gobierno
 
@@ -465,23 +491,23 @@ XVII. Proveer a los Tribunales Administrativos, con respeto irrestricto a su aut
 
 XVIII. Dictar las disposiciones y medidas administrativas para el uso y aprovechamiento de los bienes propiedad de Gobierno del Estado, así como para optimizar los espacios físicos de las oficinas del Poder Ejecutivo del Estado;
 
-XIX. Administrar la Red Estatal de Comunicaciones, coordinándose para tal efecto con las instancias federales, estatales, municipales y particulares que se requiera;
+XIX. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
-XX. Analizar las necesidades de información de las diferentes Dependencias y Entidades, con objeto de hacer más eficiente y optimizar los sistemas actuales; y proponer, desarrollar y ejecutar por sí o a través de terceros, proyectos estratégicos de información con tecnología de punta en sistemas y telecomunicaciones;
+XX. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
-XXI. Emitir dictamen para la adquisición de equipo de procesamiento electrónico de datos y coordinar el otorgamiento de los servicios que en la materia requieran las distintas Dependencias y Entidades de la Administración Pública;
+XXI. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
 XXII. Administrar y mantener actualizado el Padrón de Proveedores de la Administración Pública del Estado, determinando los criterios y procedimientos para clasificar a las personas inscritas en el mismo;
 
 XXIII. Coordinar administrativamente a la entidad estatal denominada Instituto de Previsión y Seguridad Social del Estado de Tamaulipas y las demás Entidades que determine el Ejecutivo del Estado, de acuerdo con la materia de su competencia;
 
-XXIV. Definir, desarrollar, operar y regular la política pública estatal en materia de informática, tecnologías de la información, telecomunicación, Gobierno Digital y datos abiertos en Dependencias y Entidades de la Administración Pública Estatal, en términos de las disposiciones aplicables;
+XXIV. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
-XXV. Establecer mecanismos de coordinación que aseguren la eficiencia, eficacia, economía, transparencia y honradez en la administración de los recursos humanos, materiales, físicos y tecnológicos de las direcciones administrativas o equivalentes en su función en las Dependencias y Entidades de la Administración Pública Estatal, quienes informarán a la Secretaría de Administración, el estado que guarda la unidad administrativa a su cargo en la periodicidad que dicha dependencia establezca, manteniendo un monitoreo permanente mediante la implementación de sistemas de inteligencia administrativa;
+XXV. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
 XXVI. Colaborar en coordinación con la Secretaría de Finanzas y Contraloría Gubernamental, en la implementación de disposiciones en materia de administración del gasto público;
 
-XXVII. Diseñar y desarrollar las redes de voz, video y datos e impulsar su aplicación para una efectiva operación en las dependencias y entidades de la Administración Pública Estatal; y
+XXVII. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
 XXVIII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado con relación a sus competencias.
 
@@ -1588,3 +1614,23 @@ En un plazo no mayor a sesenta días naturales, contados a partir de la entrada 
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 15 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-875 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La estructura administrativa, los recursos materiales, humanos y financieros, actualmente a cargo de la Subsecretaría de Innovación y Tecnologías de la Información dependiente de la Secretaría de Administración, serán re adscritos a la dependencia denominada Oficina del Gobernador, para la creación e integración de la Agencia de Innovación e Inteligencia Digital de Tamaulipas (AIIDT), como unidad administrativa especializada encargada de coordinar las políticas, estrategias y los proyectos tecnológicos que mejoren la eficiencia, transparencia y calidad de los servicios públicos, así como de modernizar las actividades gubernamentales mediante la actualización y el desarrollo tecnológico, con el fin de ofrecer un gobierno altamente accesible, eficiente transparente e innovador. Los citados recursos humanos, materiales y financieros, podrán ser redistribuidos en función de la estructura orgánica de la citada Agencia.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos económicos asignados en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2024, para la Subsecretaría de Innovación y Tecnologías de la Información dependiente de la Secretaría de Administración, formarán parte de la Agencia de Innovación e Inteligencia Digital de Tamaulipas (AIIDT), que estará adscrita a la dependencia denominada Oficina del Gobernador, quien en los ejercicios fiscales subsecuentes contemplará en su Presupuesto de Egresos los recursos correspondientes a dicha instancia gubernamental.
+
+###### ARTÍCULO CUARTO.
+
+Las personas titulares de las Secretarías de Administración, de Finanzas, Contraloría Gubernamental y Oficina del Gobernador, en un plazo no mayor a diez días hábiles, contados a partir de la entrada en vigor del presente Decreto, realizarán las adecuaciones normativas administrativas para el inicio de operaciones de la AIIDT.
