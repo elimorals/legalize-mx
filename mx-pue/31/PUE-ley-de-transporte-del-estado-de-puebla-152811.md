@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transporte-del-estado-de-puebla-152811"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-03"
-last_updated: "2024-05-08"
+last_updated: "2024-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY DE TRANSPORTE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 8 DE MAYO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DEL 22 DE MARZO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2024.
 
 Ley publicada en la Edición Vespertina del Número 3 en el Periódico Oficial del Estado de Puebla, el viernes 3 de diciembre de 2021.
 
@@ -941,7 +939,7 @@ I. Llevar a cabo los estudios técnicos necesarios, para determinar las necesida
 
 II. Verificar que los solicitantes disponen de la capacidad jurídica, técnica, financiera y operativa suficientes, para satisfacer las exigencias del servicio correspondiente, en beneficio del público usuario, y
 
-III. Constancia de impacto ambiental expedida por la secretaria (sic) de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
+III. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
 IV. Instrumentar las medidas tendientes a fomentar la constitución de personas morales, con la participación de las personas físicas que cuenten con concesiones, en términos de lo que establezcan para el caso, los reglamentos de la presente Ley.
 
@@ -979,7 +977,9 @@ V. Precisar los puntos correspondientes a la ruta, el Municipio o los municipios
 
 VI. Garantía que se otorga a favor de la Secretaría de Planeación y Finanzas, en los términos que señalé (sic) la Ley de Ingresos del Estado vigente, para asegurar la continuidad de los trámites correspondientes;
 
-VII. El seguro de viajero que se obliga a contratar, a fin de proteger a los usuarios y terceros sobre cualquier riesgo que puedan sufrir con motivo de la prestación del servicio, y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2024)</small>
+
+VII. Manifestación mediante la cual se obliga a contratar el seguro de viajero, a fin de proteger a los usuarios y terceros sobre cualquier riesgo que puedan sufrir con motivo de la prestación del servicio, y
 
 VIII. Lugar y fecha en que se formula la solicitud, firmando el documento el peticionario o, en su caso, el representante legal de la persona moral solicitante.
 
@@ -997,11 +997,13 @@ IV. Plano de la ruta o zona de que se trate y croquis de las calles comprendidas
 
 V. Proyecto de horarios, frecuencias de paso, itinerarios y demás características propias del servicio de que se trate;
 
-VI. Constancia de impacto ambiental expedida por la secretaria (sic) de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
+VI. (DEROGADA, P.O. 15 DE AGOSTO DE 2024)
 
 VII. Constancia de no antecedentes penales, expedida por la Fiscalía General del Estado o no encontrarse sujeto a proceso penal por delito doloso;
 
-VIII. Comprobante del depósito de garantía del trámite correspondiente, y
+> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2024)</small>
+
+VIII. Comprobante del depósito de garantía del trámite correspondiente, ante la Secretaría; y
 
 IX. Los demás requisitos que señalen esta Ley y sus Reglamentos y las normas que emita la autoridad competente.
 
@@ -1043,9 +1045,11 @@ XIV. La prevención de que la autoridad competente podrá rescatar e intervenir 
 
 En caso del permiso que se otorga al servicio de transporte mercantil de personas en su modalidad de alquiler o taxi, será aplicable lo previsto por este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 89.
 
-Título de concesión para transporte masivo. Los títulos de concesión que se otorguen para prestar el servicio del Sistema de Transporte Público Masivo, además de los requisitos establecidos en el artículo 65 de esta Ley, deberán considerar:
+Título de concesión para transporte masivo. Los títulos de concesión que se otorguen para prestar el servicio del Sistema de Transporte Público Masivo, además de los requisitos establecidos en el artículo que antecede, deberán considerar:
 
 I. La prevención de que Carreteras de Cuota-Puebla no otorgará concesiones a terceras personas o derechos a otros concesionarios para prestar el Servicio de Transporte Público Masivo en la ruta concesionada, cuando con ello se impacten significativamente los ingresos de la misma;
 
@@ -1071,7 +1075,9 @@ Lo señalado en el párrafo anterior aplicará para cualquier trámite administr
 
 Concesiones a personas físicas. Las personas físicas que aspiren a prestar el Servicio Público de Transporte, deberán ser mayores de edad. A cada concesión corresponderá un sólo vehículo, en caso de que el concesionario desee constituirse en una persona moral deberá cumplir con los requisitos establecidos por la presente Ley y sus Reglamentos.
 
-Las personas morales debidamente constituidas, que aspiren a prestar el Servicio Público de Transporte, se les otorgarán el número de concesiones para satisfacer el servicio de que se trate, previo estudio técnico y de impacto ambiental que al efecto realice la autoridad competente.
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2024)</small>
+
+Las personas morales debidamente constituidas, que aspiren a prestar el Servicio Público de Transporte, se les otorgará el número de concesiones para satisfacer el servicio de que se trate, previo estudio técnico que al efecto realice la autoridad competente.
 
 Las concesiones que se otorguen a las personas físicas o morales para prestar el Servicio Público de Transporte, tendrán una vigencia indeterminada, siempre y cuando se encuentren al corriente en sus obligaciones previstas en esta Ley y su Reglamento, o con el pago de las contribuciones que se vinculen con la propiedad, tenencia o uso o prestación de servicios relacionados con el vehículo materia de la concesión de que se trate, establecidos en las disposiciones fiscales del Estado.
 
@@ -1269,9 +1275,11 @@ Los concesionarios y los permisionarios serán responsables solidarios de sus co
 
 Pago de derechos. Los concesionarios y permisionarios deberán pagar anualmente los derechos que en su caso se causen por los servicios que preste la autoridad competente, derivados de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 117.
 
-Seguro de viajero y responsabilidad civil. Los concesionarios y los permisionarios se obligan a contratar, a satisfacción de la autoridad competente, un seguro de viajero que proteja a sus ocupantes y daños a terceros, con una institución registrada en la Comisión Nacional de Seguros y Fianzas, con motivo de la prestación del Servicio Público de Transporte y Servicio Mercantil; igualmente se obligan, a través de sus conductores, a la utilización del boleto de pasaje del usuario.
+Seguro de viajero y responsabilidad civil. Los concesionarios y los permisionarios se obligan a contratar, a satisfacción de la autoridad competente, un seguro de viajero que proteja a sus ocupantes y daños a terceros, con una institución registrada en la Comisión Nacional de Seguros y Fianzas, con motivo de la prestación del Servicio Público de Transporte y Servicio Mercantil.
 
 Además, deberán contar con el espacio físico suficiente para la guarda de los vehículos, que se encuentren fuera de servicio de acuerdo con las condiciones que establezca la autoridad competente.
 
@@ -1810,3 +1818,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. El Titular del Poder Ejecutivo del Estado realizará las adecuaciones correspondientes al Reglamento de la presente Ley y demás normatividad estatal correspondiente, dentro del plazo de 180 días hábiles posteriores a la entrada en vigor del presente Decreto
+
+P.O. 15 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 86, LA FRACCIÓN VIII DEL ARTÍCULO 87, EL ACÁPITE DEL 89, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 92 Y EL ACÁPITE DEL ARTÍCULO 117, Y DEROGA LA FRACCIÓN III DEL ARTÍCULO 84 Y LA FRACCIÓN VI DEL ARTÍCULO 87, TODOS DE LA LEY DE TRANSPORTE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones administrativas y legales contrarias o que se opongan al presente Decreto.
