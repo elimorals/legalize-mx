@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-construcciones-para-el-estado-y-municipios-de-puebla-171
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-21"
-last_updated: "2024-02-21"
+last_updated: "2024-08-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE CONSTRUCCIONES PARA EL ESTADO Y MUNICIPIOS DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2024.
 
 Ley publicada en la Sexta Sección del Número 14 del Periódico Oficial del Estado de Puebla, el miércoles 21 de febrero de 2024.
 
@@ -225,17 +225,21 @@ Los Ayuntamientos establecerán en sus Reglamentos Municipales, los requisitos, 
 
 Las y los DRO, verificarán que la licencia de demoliciones o excavaciones, en que se requiera el uso de explosivos, se realice por personal capacitado y con experiencia en el manejo de estos, así como que cuente con los permisos correspondientes.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 13.
 
-La vigencia de las licencias de construcción que expidan los Ayuntamientos se sujetará a la naturaleza y magnitud de la obra y se regirá por las normas técnicas derivadas de esta Ley.
+La vigencia de las licencias de construcción que expidan los Ayuntamientos se sujetará a la naturaleza y magnitud de la obra por el tiempo que resulte proporcional, razonable y justificado para su ejecución por las normas técnicas derivadas de esta Ley.
 
 ###### ARTÍCULO 14.
 
 Las obras que afecten bienes inmuebles declarados monumentos históricos o artísticos, y las que afecten al medio ambiente, sus elementos y recursos naturales, deberán obtener previamente la autorización o permiso otorgado por las autoridades competentes en términos de las leyes federales y estatales de la materia.
 
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 15.
 
-Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese terminado, para continuarla deberá obtener una prórroga de la licencia y cubrir los derechos por la parte no ejecutada de la obra.
+Si terminado el plazo autorizado para la construcción de una obra, ésta no se hubiese terminado, para continuarla deberá obtener una prórroga de la licencia, por el tiempo que resulte proporcional, razonable y justificado para su ejecución y cubrir los derechos por la parte no ejecutada de la obra.
 
 ###### ARTÍCULO 16.
 
@@ -816,3 +820,13 @@ CUARTO. Los procedimientos que se encuentren en trámite al momento de la entrad
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinticinco días del mes de enero de dos mil veinticuatro. Diputado Presidente. JUAN ENRIQUE RIVERA REYES. Rúbrica. Diputado Vicepresidente. EDGAR VALENTÍN GARMENDIA DE LOS SANTOS. Rúbrica. Diputada Vicepresidenta. MARÍA RUTH ZÁRATE DOMÍNGUEZ. Rúbrica. Diputado Secretario. ROBERTO BAUTISTA LOZANO. Rúbrica. Diputada Secretaria. ILIANA JOCELYN OLIVARES LÓPEZ. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de enero de dos mil veinticuatro. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica. El Secretario de la Función Pública. CIUDADANO JUAN CARLOS MORENO VALLE ABDALA. Rúbrica. El Secretario de Infraestructura. CIUDADANO LUIS ROBERTO TENORIO GARCÍA. Rúbrica. La Secretaria de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA BEATRIZ MANRIQUE GUEVARA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 13 Y 15 DE LA LEY DE CONSTRUCCIONES PARA EL ESTADO Y MUNICIPIOS DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
