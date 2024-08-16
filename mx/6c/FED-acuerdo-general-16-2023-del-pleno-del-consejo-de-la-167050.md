@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2023-del-pleno-del-consejo-de-la-167050"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-07-14"
-last_updated: "2023-11-06"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167050&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-07-05"
 
 ACUERDO GENERAL 16/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA MEDIDA DE AUXILIO TEMPORAL POR PARTE DE LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE AGUASCALIENTES Y QUERÉTARO AL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 2024.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 14 de julio de 2023.
 
@@ -84,6 +84,10 @@ de Juventino Rosas, Uriangato, Cortázar, Salvatierra,
 Yuriria, Jaral del Progreso, Comonfort, Tarandacuao,
 
 Apaseo el Grande y Celaya.
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 5/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE AGOSTO DE 2024)</small>
+
+I Bis. De todas las solicitudes, diligencias y resoluciones que deriven de los asuntos a que se refiere la fracción anterior, hasta antes del dictado del auto de apertura a juicio, lo que incluye de manera enunciativa más no limitativa medios de conducción a proceso; medidas cautelares; providencias precautorias, y técnicas de investigación, así como las determinaciones del sobreseimiento, salidas alternas y formas de terminación anticipada; y
 
 > <small>(REFORMADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 30/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -184,3 +188,19 @@ D.O.F. 6 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+D.O.F. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 5/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR 16/2023, RELATIVO A LA MEDIDA DE AUXILIO TEMPORAL POR PARTE DE LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE AGUASCALIENTES Y QUERÉTARO AL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE GUANAJUATO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El presente Acuerdo General es aplicable para todos aquellos asuntos que estén pendientes a su entrada en vigor.
+
+En aquellos casos en que los centros auxiliares hubieran remitido por incompetencia, el asunto al Centro de Justicia Penal Federal del Estado de Guanajuato, con residencia en la ciudad del mismo nombre, éste lo devolverá al auxiliar respectivo, salvo en aquellos casos en que esté pendiente de resolución judicial un eventual conflicto competencial, supuesto en el cual se estará a lo que determine el tribunal de alzada.
+
+CUARTO. Comuníquese el contenido de este Acuerdo General a las personas administradoras de los centros auxiliares y auxiliado.
+
+QUINTO. Las personas administradoras de los centros auxiliares y auxiliado, deberán fijar avisos en lugar visible en relación con la medida objeto del presente Acuerdo.
