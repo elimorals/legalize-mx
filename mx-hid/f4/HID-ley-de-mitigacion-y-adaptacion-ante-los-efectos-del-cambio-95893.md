@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mitigacion-y-adaptacion-ante-los-efectos-del-cambio-9589
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-26"
-last_updated: "2024-06-07"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 26 de agosto de 2013.
 
@@ -358,6 +358,10 @@ X.- Transparencia, acceso a la información y a la justicia, considerando que el
 XI.- Conservación de los ecosistemas y su biodiversidad, dando prioridad a las zonas y regiones que brindan servicios ambientales, fundamental para reducir la vulnerabilidad; y
 
 XII.- Compromiso con el desarrollo económico estatal, para lograr la sustentabilidad sin vulnerar su competitividad frente a los mercados nacionales e internacionales.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+Al adoptar medidas para hacer frente al cambio climático, se deberán respetar irrestrictamente los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y la del Estado de Hidalgo.
 
 ###### Artículo 12.
 
@@ -1356,3 +1360,9 @@ P.O. 7 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 955 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1046 POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE MITIGACIÓN Y ADAPTACIÓN ANTE LOS EFECTOS DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
