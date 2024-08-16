@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-hidalgo-60
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-05-30"
+last_updated: "2024-08-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -325,13 +325,17 @@ XIV. Proponer, con base en los elementos que le proporcionen los comités inters
 
 XV. Realizar el seguimiento y conocer la evaluación general del Programa y del presupuesto anual destinado a la ciencia, el desarrollo tecnológico, la innovación, la transferencia de tecnología, el posgrado y los demás instrumentos de apoyo a estas actividades;
 
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XVI. Promover la investigación científica en los jóvenes investigadores en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa; y
+XVI. Promover la investigación científica en los jóvenes investigadores en el Estado, de acuerdo con las prioridades establecidas en el Plan Estatal de Desarrollo y en el Programa;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XVII. Fomentar el trámite y registro de la propiedad intelectual y de patentes que se generen a partir del conocimiento científico, tecnológico y de la innovación.
+XVII. Fomentar el trámite y registro de la propiedad intelectual y de patentes que se generen a partir del conocimiento científico, tecnológico y de la innovación; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XVIII. Fomentar y divulgar el progreso científico y tecnológico, la innovación, la transferencia de tecnología y el postgrado en la entidad en colaboración con las diversas instituciones y sectores afines, incorporando a la población en los programas, prioridades, necesidades y logros en este ámbito, además de incentivar y valorar la labor científica.
 
 ###### ARTÍCULO 8.
 
@@ -1168,3 +1172,9 @@ P.O. 30 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 910 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1041 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
