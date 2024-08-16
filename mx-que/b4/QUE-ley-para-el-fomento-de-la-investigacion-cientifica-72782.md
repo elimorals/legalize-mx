@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-fomento-de-la-investigacion-cientifica-72782"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2018-03-28"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL FOMENTO DE LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA E INNOVACIÓN DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -353,9 +353,17 @@ I. Promover la conservación, consolidación, actualización y desarrollo de la 
 
 II. Fomentar la realización de actividades que propicien el intercambio de información e ideas en materia de ciencia, tecnología e innovación, para propiciar el desarrollo del conocimiento científico y tecnológico;
 
-III. Impulsar la creación de programas y espacios formativos, recreativos e interactivos, con la finalidad de desarrollar en la población, en general, el interés por la formación científica, tecnológica e innovación; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-IV. Promover la producción de materiales, cuya finalidad sea la divulgación del conocimiento científico, tecnológico e innovación.
+III. Impulsar la creación de programas y espacios formativos, recreativos e interactivos, con la finalidad de desarrollar en la población, en general, el interés por la formación científica, tecnológica e innovación;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+IV. Promover la producción de materiales, cuya finalidad sea la divulgación del conocimiento científico, tecnológico e innovación; y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+V. Promover la integración de profesionistas de alto nivel académico y científico en las actividades realizadas por dependencias y organismos estatales.
 
 ## TRANSITORIOS
 
@@ -422,3 +430,13 @@ P.O. 28 DE MARZO DE 2018.
 Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en la presente Ley.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 23 DE LA LEY PARA EL FOMENTO DE LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA E INNOVACIÓN DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
