@@ -4,7 +4,7 @@ identifier: "HID-ley-para-prevenir-atender-sancionar-y-eliminar-la-93833"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-08"
-last_updated: "2024-06-07"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 8 de abril de 2013.
 
@@ -477,6 +477,8 @@ VIII. Establecer, a través de los medios de comunicación oficial y mediante el
 
 IX. Informar, sensibilizar, capacitar y formar de manera permanente a las y los servidores públicos, en materia de derechos humanos con perspectiva de género, igualdad de oportunidades, de trato y no discriminación;
 
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XI BIS.]</small>
+
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
 IX BIS. Generar mecanismos para garantizar el respeto, la no discriminación y la no violencia institucional por parte de los cuerpos de seguridad y servidores públicos;
@@ -484,6 +486,16 @@ IX BIS. Generar mecanismos para garantizar el respeto, la no discriminación y l
 X. Diseñar y ejecutar políticas públicas que promuevan, la igualdad de oportunidades y de trato;
 
 XI. Promover y garantizar que todos los espacios e inmuebles públicos que presten servicios a la población, respeten los principios de diseño universal y sean accesibles para ser utilizados por personas con discapacidad;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN IX BIS.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE AGOSTO DE 2024)</small>
+
+XI BIS. Generar mecanismos para garantizar el respeto, la no discriminación y la no violencia institucional por parte de los cuerpos de seguridad y servidores públicos;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XI TER. Fomentar e impulsar en la población el conocimiento e importancia de los derechos humanos, la igualdad, no discriminación y la eliminación de todo tipo de estereotipos, prejuicios y estigmas;
 
 XII. Fomentar que en los servicios privados e inmuebles particulares donde se preste servicio a la población, se realicen las adecuaciones arquitectónicas que permitan facilidad en el acceso y libre tránsito de las personas con discapacidad;
 
@@ -1492,3 +1504,9 @@ P.O. 7 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 954 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1054 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 14 DE LEY PARA PREVENIR, ATENDER, SANCIONAR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
