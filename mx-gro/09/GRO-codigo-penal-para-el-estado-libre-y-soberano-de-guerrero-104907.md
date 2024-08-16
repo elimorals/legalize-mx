@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2024-06-28"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2163,7 +2163,7 @@ QUEDAN EXCEPTUADOS DE ESTE TIPO PENAL LOS PADRES DE FAMILIA Y/O QUIENES EJERZAN 
 
 ### Capítulo III. Hostigamiento sexual
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO SU ACÁPITE], P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 178.
 
@@ -2199,7 +2199,7 @@ Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se
 
 ### Capítulo IV. Acoso sexual
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 180.
 
@@ -2273,13 +2273,17 @@ VIII. Cuando el delito sea cometido en contra de una niña, niño, adolescentes,
 
 Hostigamiento sexual
 
-Se impondrán de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
+> <small>[N. DE E. DEL ANALISIS SE ADVIERTE QUE SE FUSIONARON LOS PÁRRAFOS PRIMERO Y SEGUNDO]</small>
 
-A quien con fines o móviles de naturaleza sexual que causen ofensa, humillación o descredito, asedie reiteradamente a otra persona, valiéndose de su posición jerárquica o de poder, generando un ambiente intimidante, hostil u ofensivo, en las relaciones laborales, docentes, religiosas, domésticas, o cualquier otra que implique subordinación.
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+A quien con fines o móviles lascivos asedie a otra persona, valiéndose de su posición jerárquica o de poder, derivada de sus relaciones laborales, docentes, religiosas, domésticas, o cualquier otra que implique subordinación, se le impondrán de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
 
 Si el sujeto activo es servidor público y se aprovecha de esa circunstancia, además de la pena prevista en el párrafo anterior, será destituido e inhabilitado del cargo o empleo por el mismo tiempo de la pena de prisión impuesta.
 
-Este delito se perseguirá por querella.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 184.
 
@@ -2295,7 +2299,7 @@ Si el sujeto activo es servidor público y se aprovecha de esa circunstancia, ad
 
 Acoso sexual
 
-A quien con fines o móviles de naturaleza sexual asedie reiteradamente a otra persona con la que no exista relación de subordinación, se le impondrá de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
+A quien con fines o móviles lascivos asedie a otra persona con la que no exista relación de subordinación, se le impondrá de uno a cinco años de prisión y de cincuenta a doscientos cincuenta días multa.
 
 ###### Artículo 186.
 
@@ -2306,6 +2310,16 @@ A quien realice los actos previstos en el artículo anterior con una persona men
 Si se ejerciere violencia física o psicológica las penas previstas se aumentarán en una mitad.
 
 Este delito se perseguirá por querella.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+(sic)186 bis. Acoso sexual callejero
+
+A quien con fines o móviles lascivos asedie a otra persona, tome fotos y/o grabe su cuerpo sin su consentimiento, tenga contacto físico y/o arrinconamiento no consentido, persiga, se masturbe con o sin eyaculación o realice exhibicionismo en lugares públicos y/o privados de acceso público, vías y transporte público y provoque malestar en la víctima dañando su dignidad e integridad personal, se le impondrá de tres a ocho años de prisión y de doscientos a quinientos días multa.
+
+Cuando el agresor sea reincidente, o exista la participación de dos o más agresores o la conducta sea realizada por servidores públicos la penalidad referida se duplicará.
+
+Este delito se perseguirá a petición de parte ofendida, salvo que exista la participación de servidores públicos en cuyo caso será de oficio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE NOVIEMBRE DE 2019)</small>
 
@@ -5422,3 +5436,13 @@ PRIMERO.- El presente Decreto surtirá sus efectos a partir de la fecha de su pu
 SEGUNDO.- Remítase a la Titular del Poder Ejecutivo del Estado para su conocimiento y efectos legales correspondientes.
 
 TERCERO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de este Poder Legislativo, para conocimiento general y efectos legales procedentes.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 858 POR EL QUE SE REFORMAN LOS ARTÍCULOS 183 Y 185; SE ADICIONA EL ARTÍCULO 186 BIS Y SE DEROGA EL PÁRRAFO TERCERO DEL ARTÍCULO 183 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499".]
+
+PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del estado de Guerrero.
+
+SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de esta Soberanía, para conocimiento general y efectos legales procedentes.
