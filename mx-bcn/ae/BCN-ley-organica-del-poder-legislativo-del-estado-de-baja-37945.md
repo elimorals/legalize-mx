@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2024-04-26"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -895,87 +895,65 @@ Las comisiones de dictamen legislativo conocerán de las iniciativas que corresp
 
 Por acuerdo del Pleno las comisiones se pueden dividir en secciones; éstas conservan el nombre de aquélla y se les adiciona otra denominación que las distinga. Una comisión sólo se divide hasta en 3 secciones. La Comisión propone a la Mesa Directiva la forma de integración de las secciones, su materia y duración.
 
-> <small>(REFORMADO, G.P. 14 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 56.
 
 Las Comisiones de dictamen legislativo son:
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
-
 I.- De Gobernación, Legislación y Puntos Constitucionales;
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
 II.- De Hacienda y Presupuesto;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
-
 III.- De Fiscalización del Gasto Público;
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
 IV.- De Reforma de Estado y Jurisdiccional;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
-
-V.- De Educación, Cultura, Ciencia y Tecnología;
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+V.- De Educación, Humanidades, Ciencia y Tecnología;
 
 VI.- De Desarrollo Económico y Comercio Binacional;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
-
 VII.- De Justicia;
-
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2024)</small>
 
 VIII.- De Desarrollo Metropolitano, Conurbación, Infraestructura, Movilidad, Comunicaciones y Transportes;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
-
 IX.- De Medio Ambiente y Desarrollo Sustentable;
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
 
 X.- De Salud;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
-
-XI.- De Seguridad Pública y Protección Civil;
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+XI.- De Seguridad Ciudadana y Protección Civil;
 
 XII.- De Energía y Recursos Hidráulicos;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2016)</small>
-
 XIII.- De Asuntos Fronterizos y Migratorios;
 
-> <small>(REFORMADA, P.O. 25 DE ENERO DE 2022)</small>
+XIV.- De Igualdad de Género;
 
-XIV.- De Igualdad de Género y Juventudes;
+XV.- De Fortalecimiento Municipal;
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2022)</small>
+XVI.- De Asuntos de los Pueblos Originarios y de las Personas Afromexicanas;
 
-XV.- De Fortalecimiento Municipal; y,
+XVII.- De Agricultura, Ganadería, Asuntos Portuarios y Pesca;
 
-> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2022)</small>
+XVIII.- De Cultura y Deporte;
 
-XVI.- Comisión de Asuntos Indígenas y Bienestar Social.
+XIX.- De Bienestar, Derechos de la Niñez, Juventudes, Personas con Discapacidad y Adultos Mayores;
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2016)</small>
+XX.- Turismo e Inversión;
+
+XXI.- De Vivienda y Ordenamiento Territorial;
+
+XXII.- De Derechos Humanos; y,
+
+XXIII.- De Trabajo y Previsión Social.
 
 Las comisiones de dictamen legislativo tienen las atribuciones siguientes:
 
 1. Dictaminar las iniciativas, minutas, proyectos y proposiciones que les son turnados;
 
-2. Revisar, evaluar y emitir opinión, en lo que corresponde, el informe sobre el estado que guarda la Administración Pública Estatal que presenta el gobernador del estado, así como los que remiten los titulares de las dependencias y entidades estatales, los órganos autónomos y cualquier otro ente público obligado. En el cumplimiento de sus atribuciones, las comisiones se sujetan a los procedimientos establecidos en la Constitución del estado, de esta Ley, del Reglamento y demás disposiciones aplicables.
+2. Revisar, evaluar y emitir opinión, en lo que corresponde, el informe sobre el estado que guarda la Administración Pública Estatal que presenta la persona titular del Poder Ejecutivo del Estado, así como los que remiten los titulares de las dependencias y entidades estatales, los órganos autónomos y cualquier otro ente público obligado. En el cumplimiento de sus atribuciones, las comisiones se sujetan a los procedimientos establecidos en la Constitución del estado, de esta Ley, del Reglamento y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
-
-La comisión que requiere información de otra, la solicita directamente a través de su Presidencia. Igualmente atiende las peticiones de otras comisiones o de diputados relacionadas con asuntos de su competencia. En ambos casos se considera el estado que guardan los asuntos de que se trata. Las comisiones pueden resolver por sí mismas los asuntos cuya naturaleza y trascendencia así lo requieran, sin que contravengan los ordenamientos relativos.
+La comisión que requiere información de otra, la solicita directamente a través de su Presidencia. Igualmente atiende las peticiones de otras comisiones o de las diputaciones relacionadas con asuntos de su competencia. En ambos casos se considera el estado que guardan los asuntos de que se trata. Las comisiones pueden resolver por sí mismas los asuntos cuya naturaleza y trascendencia así lo requieran, sin que contravengan los ordenamientos relativos.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2015)</small>
 
@@ -1041,51 +1019,13 @@ Por acuerdo del Pleno, a propuesta de la Junta de Coordinación Política, se pu
 
 Los comités tienen a su cargo la gestión de tareas específicas, distintas de las asignadas a las comisiones, relativas al funcionamiento del Congreso.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 60.
 
-Las Comisiones se integrarán por no menos de tres Diputados y no más de ocho. La Junta de Coordinación Política cuidará que en ellas se encuentren representados los diferentes Grupos Parlamentarios, así como los Diputados no coordinados, tanto en las Presidencias como en las Secretarías.
+Las Comisiones se integrarán por no menos de tres Diputaciones y no más de nueve. La Junta de Coordinación Política cuidará que en ellas se encuentren representados los diferentes Grupos Parlamentarios, así como las Diputadas y los Diputados no coordinados, tanto en las Presidencias como en las Secretarías.
 
-La competencia de las comisiones son las que se derivan de las facultades que al Congreso asigna la Constitución Local, la presente Ley y su Reglamento.
-
-Corresponde a las diferentes comisiones legislativas las siguientes atribuciones y facultades:
-
-a. Comisión de Desarrollo Económico y Comercio Binacional: corresponde el análisis, dictaminación y proposición de iniciativas de temas derivados de su competencia, así como dar seguimiento a las políticas de desarrollo empresarial de nuestra región, proponiendo las acciones para fortalecer a los productores locales, promoviendo más inversiones y mayor calidad en los productos, que se reflejen en los salarios de los trabajadores. Con el Desarrollo de los trabajos legislativos, contribuirá para que el Estado se convierta en una prioridad estratégica de la política nacional e internacional, promoviendo la discusión de temas de interés común, con el fin de diseñar leyes, decretos y acuerdos que promuevan el comercio, la industria, y la competitividad del Estado.
-
-b. Comisión de Educación, Cultura, Ciencia y Tecnología: compete el análisis y dictaminación y proposición de iniciativas de ley en materia educativa, así como la formulación de pronunciamientos políticos, el establecimiento de acuerdos, la evaluación de las políticas públicas y la generación de propuestas encaminadas al mejor desempeño del sistema educativo y cultural del Estado; proponer e impulsar todas las iniciativas tendientes a fomentar el desarrollo integral de la ciencia y la tecnología en el Estado, así como revisar y actualizar permanentemente, la legislación vigente para dar respuesta efectiva a los retos y necesidades de la materia.
-
-c. Comisión de Reforma de Estado y Jurisdiccional: Corresponde el conocimiento, estudio y dictamen de las modificaciones de la Constitución Local, relacionadas con cambios estructurales que se requieran para el fortalecimiento del régimen democrático de la sociedad y del Estado; así como las modificaciones de Leyes secundarias producto de los acuerdos de la agenda legislativa en materia de Reforma del Estado. Así también, será responsable de analizar y dictaminar la procedencia penal contra los Servidores Públicos del Estado en los términos del Artículo 27 y 94 de la Constitución Local; así como resolver la substanciación de los juicios políticos que se instruyan contra los Servidores Públicos de conformidad con el Artículo 27 y 93 de la Constitución Local.
-
-d. Comisión de Justicia: corresponde el análisis, dictaminación y proposición de iniciativas de ley o decreto que le sean turnadas por la Mesa Directiva; deberá proponer e impulsar todos aquellos trabajos legislativos tendientes a garantizar la equidad y la justicia social, condición indispensable para la preservación del Estado de derecho.
-
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2024)</small>
-
-e. Comisión de Desarrollo Metropolitano, Conurbación, Infraestructura, Movilidad, Comunicaciones y Transportes: compete el análisis, dictaminación y proposición de iniciativas de ley relacionadas con su materia, así como la formulación de pronunciamientos políticos, el establecimiento de acuerdos y evaluación de las políticas públicas, a fin de establecer los mecanismos necesarios de coordinación para generar condiciones que permitan el desarrollo de la entidad.
-
-f. Comisión de Medio Ambiente y Desarrollo Sustentable: es responsable de analizar, dictaminar y proponer acuerdos e iniciativas de su materia; deberá atender las denuncias ciudadanas de su competencia, que le sean presentadas, con el fin de alcanzar el desarrollo sustentable en el Estado.
-
-g. Comisión de Salud: corresponde el análisis, dictamen y proposición de iniciativas de las leyes estatales en materia de salud y seguridad social; así como impulsar el fortalecimiento del bienestar de los bajacalifornianos, en correspondencia con los principios establecidos en la Constitución Política del Estado y demás preceptos legales en materia de salud y seguridad social.
-
-h. Comisión de Seguridad Pública y Protección Civil: tendrá a su cargo el análisis, dictaminación y proposición de iniciativas en materia de seguridad pública y protección civil, así como también el impulso de leyes que fomenten organismos y corporaciones confiables y efectivas en el combate a la delincuencia, regulando que estas actúen en condiciones de respeto a los derechos humanos.
-
-i. Comisión de Energía y Recursos Hidráulicos: es responsable del análisis, dictaminación y proposición de iniciativas que le sean turnados por la Mesa Directiva. Sus trabajos estarán encaminados a promover, mediante leyes, acuerdos o pronunciamientos, la solución a la problemática del agua y la suficiencia energética a fin de satisfacer las necesidades humanas, comerciales y agrícolas respecto al abastecimiento del vital líquido.
-
-j. Comisión de Asuntos Fronterizos y Migratorios: corresponde el análisis, dictaminación y proposición de iniciativas de temas derivados de su competencia, así como dar seguimiento a los compromisos del Estado en su relación con la región fronteriza, la federación y la comunidad internacional; promoverá el estrechamiento de vínculos sociales, políticos, económicos y culturales; así como promover las gestiones para la atención de necesidades en materia de asuntos migratorios.
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
-
-k. Comisión de Igualdad de Género y Juventudes: es responsable del análisis, dictamen y proposición de iniciativas de ley en materia de igualdad entre distintos géneros.
-
-Corresponderá también la revisión y actualización permanente de la legislación estatal con el fin de asegurar y garantizar que se mantengan condiciones de pleno respeto e igualdad de trato y oportunidades entre mujeres, hombres y jóvenes dentro del sistema normativo local.
-
-l. Comisión de Fortalecimiento Municipal: es responsable del análisis, dictamen y proposición de iniciativas en materia de fortalecimiento a los municipios, así como promover el estrechamiento de vínculos políticos, sociales, económicos y culturales entre los municipios de la entidad.
-
-> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2022)</small>
-
-m. Comisión de Asuntos Indígenas y Bienestar Social: corresponde el análisis, dictaminación y proposición de iniciativas en materia de bienestar social y comunidades indígenas, proponiendo acciones legislativas para el mejor desarrollo y bienestar de la comunidad en general y los pueblos indígenas.
-
-A todas estas comisiones les corresponderá, además de las facultades y atribuciones que se señalan, el desahogo de los demás asuntos que le sean remitidos por la Mesa Directiva.
+La competencia de las comisiones es la que deriva de acuerdo a su denominación; así como las que se derivan de las facultades que al Congreso asigna la Constitución Local, la presente Ley, su Reglamento y las necesidades del trabajo legislativo.
 
 ###### ARTICULO 61.
 
@@ -3278,3 +3218,13 @@ P.O. 26 DE ABRIL DE 2024.
 PRIMERO. La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
 
 SEGUNDO. Publíquese la presente reforma en el Periódico Oficial del Estado, para los efectos conducentes.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 459 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 56 Y 60 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al momento de su aprobación por el Pleno de esta Soberanía.
+
+SEGUNDO.- Publíquese en la Gaceta del Congreso del Estado de Baja California.
+
+TERCERO.- Publíquese en el Periódico Oficial del Estado, para los efectos conducentes.
