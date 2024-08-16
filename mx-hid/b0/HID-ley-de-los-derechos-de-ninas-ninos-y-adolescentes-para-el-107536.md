@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-07-02"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -157,6 +157,14 @@ XVI. Informe de Adoptabilidad: El documento expedido por el Sistema DIF Hidalgo 
 
 XVI Bis. Lactancia materna: La alimentación con leche del seno materno;
 
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XVI Ter. Mínima intervención de menores en procedimientos judiciales: Consiste en que, cuando se requiera que niñas, niños y adolescentes sean llamados a juicio para ejercer su derecho a emitir su opinión en todo lo que les concierne, éstos sean citados el menor número de veces posible;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XVI Quater. No revictimización de menores en procedimientos judiciales: Implica que, en el ámbito de la función jurisdiccional, las personas juzgadoras deben tomar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de más beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido;
+
 XVII. Órgano Jurisdiccional: Los juzgados o tribunales estatales;
 
 > <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2021)</small>
@@ -257,13 +265,21 @@ XV. Proporcionalidad;
 
 XVI. Formación integral;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XVII. Resiliencia; y
+XVII. Resiliencia;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XVIII. El derecho al adecuado desarrollo evolutivo de la personalidad.
+XVIII. El derecho al adecuado desarrollo evolutivo de la personalidad;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XIX. Mínima intervención de menores cuando intervienen en procedimientos judiciales, y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XX. No revictimización de menores cuando intervienen en procedimientos judiciales.
 
 Así como los Principios contenidos en la Ley de Justicia para Adolescentes del Estado, en aquellas situaciones que sea procedente:
 
@@ -2910,3 +2926,9 @@ P.O. 2 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1002 POR EL QUE SE ADICIONA UNA FRACCIÓN PRIMERA, RECORRIENDO LA SUBSECUENTE, AL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1042 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DE LOS ARTÍCULOS 4 Y 6 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
