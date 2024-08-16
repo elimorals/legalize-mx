@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-07-15"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE JULIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -239,15 +237,11 @@ III. Las y los vecinos de los municipios del Estado; y
 
 IV. Aquéllos que se encuentren temporal o transitoriamente dentro de su territorio.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 17.
 
-Son habitantes del municipio:
-
-I. Quienes temporal o definitivamente tengan su domicilio en el mismo; y
-
-II. Quienes tengan intereses económicos en el mismo.
+Son habitantes del municipio las personas que residan en él, de forma temporal o definitiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -331,23 +325,23 @@ IV.- Las demás que señalen las Leyes y Reglamentos.
 
 Los vecinos tendrán los mismos derechos que los habitantes.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 23.
 
-Reunidos los requisitos de Ley, los vecinos podrán obtener una nueva denominación para sus respectivos poblados mediante declaración que, al respecto, haga el Ayuntamiento, con aprobación del Congreso del Estado.
+Los Ayuntamientos podrán autorizar la creación, división o fusión, así como la denominación o cambio de denominación de los centros de población municipal, previo cumplimiento de los requisitos legales y normativos aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 24.
 
-Las poblaciones Municipales del Estado se clasificarán de acuerdo a su situación demográfica, de la siguiente manera:
+Los centros poblacionales de los municipios del Estado se clasificarán de acuerdo con su situación demográfica, de la siguiente manera:
 
-I.- Ciudades, las que tengan más de 25,000 habitantes;
+I.- Ciudades, las que tengan más de 50,000 habitantes en áreas contiguas densamente pobladas, con más de 1,500 habitantes por kilómetro cuadrado;
 
-II.- Pueblos, los que tengan más de 10,000 habitantes;
+II.- Localidades y zonas de densidad intermedia, los que tengan más de 5,000 habitantes en zonas contiguas cuya densidad es de un mínimo de 300 habitantes por kilómetro cuadrado y;
 
-III.- Villas, las que tengan más de 5,000 habitantes;
-
-IV.- Comunidades, las que tengan 500 habitantes o más; y
-
-V.- Rancherías, las que tengan menos de 500 habitantes.
+III.- Zonas rurales, las que tengan menos de 5,000 habitantes que están constituidas principalmente por áreas con baja densidad de población o deshabitadas.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -919,6 +913,10 @@ q).- Analizar y aprobar, en su caso, la iniciativa de Ley de Ingresos, la que se
 
 r).- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables a impuestos, derechos, productos, aprovechamientos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria; así como las tasas de las contribuciones adicionales. Los Ayuntamientos y, en su caso, el Congreso del Estado, podrán solicitar los criterios técnicos de las dependencias del Poder Ejecutivo Estatal, a fin de respaldar sus proyectos y resoluciones;
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+r BIS) Vigilar la actualización del padrón catastral y las tablas de valores unitarios de suelo y construcciones;
+
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
 s).- Analizar y en su caso aprobar anualmente su presupuesto de egresos, el cual deberá ser aprobado por las dos terceras partes del Ayuntamiento; en caso de ser necesario realizar adecuaciones presupuestales, éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto. En ambos casos, se deberá observar lo dispuesto por las leyes de la materia.
@@ -1152,6 +1150,10 @@ ARTÍCULO 56 BIS.- Las y los integrantes del Ayuntamiento observarán el cumplim
 ARTÍCULO 56 TER.- Los Ayuntamientos procurarán liquidar al término de su administración, los laudos que dicte el Tribunal Laboral competente en su contra, para lo cual deberá tomar las previsiones y acciones presupuestarias necesarias.
 
 Recibidos los laudos ejecutoriados por parte del Tribunal, los Ayuntamientos realizarán su despacho inmediato, con la finalidad de evitar su extensión en periodos administrativos posteriores a aquel en que se hayan recibido.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 56 QUATER.- Los Ayuntamientos quedan impedidos para crear plazas de base o cambiar la clasificación de las plazas existentes a base, durante los últimos dos trimestres de su periodo constitucional.
 
 ###### ARTÍCULO 57.
 
@@ -2111,13 +2113,17 @@ a) Las prioridades de gasto, los programas y proyectos, así como la distribuci�
 
 b) Las contrataciones de servicios por honorarios y, en su caso, previsiones para personal eventual; pensiones; gastos de operación, incluyendo gasto en comunicación social; gasto de inversión; así como gasto correspondiente a compromisos plurianuales, proyectos de asociaciones público privadas y proyectos de prestación de servicios, entre otros;
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
-c) Las previsiones para sufragar las erogaciones correspondientes al presupuesto participativo, el cual deberá ser ejercido conforme a lo establecido en la Ley de Participación Ciudadana para el Estado de Hidalgo, la normativa reglamentaria que emita el Ayuntamiento y demás disposiciones aplicables, y
+c) Las previsiones para sufragar las erogaciones correspondientes al presupuesto participativo, el cual deberá ser ejercido conforme a lo establecido en la Ley de Participación Ciudadana para el Estado de Hidalgo, la normativa reglamentaria que emita el Ayuntamiento y demás disposiciones aplicables;
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
-d) Las previsiones destinadas para el pago de pasivos laborales por concepto de laudos ejecutoriados.
+d) Las previsiones destinadas para el pago de pasivos laborales por concepto de laudos ejecutoriados; y
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+e) Las previsiones presupuestales destinadas para modernización del catastro municipal.
 
 Los funcionarios de la administración pública municipal deberán comparecer ante el Ayuntamiento cuando se les requiera para aportar la información necesaria que contribuya a un mejor análisis de las Iniciativas.
 
@@ -4898,3 +4904,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
 
 TERCERO. Dentro de los 180 días siguientes a la entrada en vigor del presente Decreto, los ayuntamientos de la Entidad deberán crear, adecuar o armonizar su normatividad para dar cumplimiento al presente Decreto.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1055 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1061 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1120 POR EL QUE SE ADICIONA EL ARTÍCULO 56 QUATER DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
