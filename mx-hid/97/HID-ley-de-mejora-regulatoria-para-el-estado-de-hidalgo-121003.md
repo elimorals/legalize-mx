@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mejora-regulatoria-para-el-estado-de-hidalgo-121003"
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-17"
-last_updated: "2017-04-17"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 17 de abril de 2017.
 
@@ -235,17 +235,25 @@ El Consejo Estatal de Mejora Regulatoria es el órgano responsable de coordinar 
 
 El Consejo estará integrado de la siguiente manera:
 
-La persona titular de
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE AGOSTO DE 2024)</small>
+
+La persona titular de:
 
 I.- El Poder Ejecutivo del Estado, quien lo presidirá;
 
-II.- La Secretaría de Desarrollo Económico;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-III.- La Secretaría Ejecutiva de la Política Pública Estatal;
+II.- La Unidad de Planeación y Prospectiva;
 
-IV.- La Secretaría de la Contraloría;
+III.- (DEROGADA, P.O. 16 DE AGOSTO DE 2024)
 
-V.- La Secretaría de Finanzas Públicas;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+IV.- La Secretaría de Contraloría;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+V.- La Secretaría de Hacienda;
 
 VI.- La Coordinación General Jurídica del Ejecutivo Estatal;
 
@@ -263,13 +271,19 @@ XII.- El Colegio de Corredores Públicos del Estado;
 
 XIII.- La Comisión, quien fungirá como Secretario Técnico;
 
-XIV.- El Tribunal Superior de Justicia del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XV.- La Junta de Gobierno del Congreso del Estado de Hidalgo; y
+XIV.- El Tribunal Superior de Justicia del Estado de Hidalgo; y
 
-XVI.- El Consejo Consultivo Ciudadano.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-La persona que presida el Consejo será suplida en sus ausencias por la persona de la Secretaría de Desarrollo Económico.
+XV.- La Junta de Gobierno del Congreso del Estado de Hidalgo.
+
+XVI.- (DEROGADA, P.O. 16 DE AGOSTO DE 2024)
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+La persona que presida el Consejo será suplida en sus ausencias por la persona de la Unidad de Planeación y Prospectiva.
 
 Cada integrante del Consejo podrá nombrar a un suplente, debiendo enviar el documento en el que se informe de su designación al Secretario Técnico, adicionalmente cada titular será responsable de notificar los cambios subsecuentes en su suplencia al Secretario Técnico.
 
@@ -315,9 +329,11 @@ El Consejo sesionará de forma ordinaria cuando menos tres veces al año y de fo
 
 El Consejo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros. Las resoluciones se tomarán por medio de mayoría simple. Quien presida la sesión tendrá voto de calidad en caso de empate.
 
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 13.
 
-La Comisión Estatal de Mejora Regulatoria, es el órgano desconcentrado de la Secretaría de Desarrollo Económico, dotada de autonomía técnica, operativa y de gestión, cuyo objeto es el de implementar la política pública en la materia.
+La Comisión Estatal de Mejora Regulatoria, es el órgano desconcentrado de la Unidad de Planeación y Prospectiva, dotada de autonomía técnica, operativa y de gestión, cuyo objeto es el de implementar la política pública en la materia.
 
 ###### Artículo 14.
 
@@ -1200,3 +1216,11 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1040 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
