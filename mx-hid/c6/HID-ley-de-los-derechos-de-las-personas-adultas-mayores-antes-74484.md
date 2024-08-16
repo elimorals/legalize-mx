@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2024-06-07"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -557,9 +557,9 @@ IX.- Implementar programas a efecto de crear y difundir en la población en gene
 
 A la Secretaría de Salud de Hidalgo, le corresponde:
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-I.- Garantizar el acceso a la atención médica con calidad y calidez en las clínicas, unidades de salud y hospitales del Estado, con un enfoque de atención integral en los servicios de salud, para las personas adultas mayores, basado en prevención adecuada, diagnóstico oportuno, tratamiento individualizado y rehabilitación temprana, garantizando su ingreso hospitalario a las unidades de atención primaria y a los hospitales en caso de emergencia.
+I. Garantizar el acceso a la atención médica con calidad y calidez en las clínicas, unidades de salud y hospitales del Estado, con un enfoque de atención integral en los servicios de salud, para las personas adultas mayores, basado en prevención adecuada, evaluación periódica, diagnóstico oportuno, tratamiento individualizado y rehabilitación temprana, garantizando su ingreso hospitalario a las unidades de atención primaria y a los hospitales en caso de emergencia.
 
 II.- Proporcionar la Cartilla Nacional de Salud para Adultos Mayores, la cual será utilizada indistintamente en las instituciones públicas y privadas en la que deberán registrar acciones de detección y control de los principales padecimientos de los adultos mayores con la finalidad de promover el auto cuidado, la detección oportuna, el tratamiento temprano y la prevención de la discapacidad;
 
@@ -1166,3 +1166,9 @@ P.O. 7 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 957 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1051 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 21 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
