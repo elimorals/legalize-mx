@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-07-15"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 856 PUBLICADO EN EL P.O. DEL 18 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -247,6 +245,8 @@ V. Laica, al mantenerse por completo ajena a cualquier doctrina religiosa.
 
 La educación impartida por los particulares con autorización o con reconocimiento de validez oficial de estudios, se sujetará a lo previsto en la fracción VI del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, al Título Décimo Primero de la Ley General de Educación y a lo dispuesto en el Título Décimo Segundo de esta Ley.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 1053 PUBLICADO EN EL P.O. DE 16 DE AGOSTO DE 2024, PÁGINA 52.]</small>
+
 ###### Artículo 14.
 
 La educación impartida en el Estado de Hidalgo persigue los siguientes fines:
@@ -285,9 +285,17 @@ X BIS. Promover la economía social y solidaria, con el fin de propiciar el trab
 
 XI. Fomentar la enseñanza y aprendizaje integral del idioma inglés, sin menoscabo de la enseñanza del español y de lenguas indígenas;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XII. Fomentar e inculcar la enseñanza y aprendizaje de (sic) educación financiera, de la cultura del ahorro y del emprendimiento; y
+XI BIS. Fomentar la cultura tributaria y el civismo fiscal; y
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XIII.]</small>
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XII. Todos aquellos que contribuyen al bienestar y desarrollo del país y del Estado de Hidalgo.
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IGUAL AL DE LA FRACCIÓN XII.]</small>
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2024)</small>
 
@@ -845,7 +853,9 @@ XII. La prevención del consumo de sustancias psicoactivas, el conocimiento de s
 
 XIII. El reconocimiento de la diversidad de capacidades de las personas; así como el uso del Lenguaje de Señas Mexicanas;
 
-XIV. El fomento de la educación financiera, en donde se incluya el emprendimiento y la cultura del ahorro;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XIV. El fomento de la educación financiera, en donde se incluya el emprendimiento y la cultura del ahorro; así como la cultura tributaria y el civismo fiscal;
 
 XV. El fomento de la cultura de la transparencia, la rendición de cuentas, la integridad, la protección de datos personales, así como el conocimiento en las niñas, los niños, adolescentes y jóvenes su derecho al acceso a la información pública gubernamental y de las mejores prácticas para ejercerlo;
 
@@ -1695,9 +1705,17 @@ V. Llevar a cabo las acciones de participación, coordinación y difusión neces
 
 VI. Promover cooperativas con la participación de la comunidad educativa, las cuales tendrán un compromiso para fomentar estilos de vida saludables en la alimentación de los educandos. Su funcionamiento se apegará a los criterios de honestidad, integridad, transparencia y rendición de cuentas en su administración. De conformidad con lineamientos que emita la autoridad educativa Federal;
 
-VII. Coadyuvar en la dignificación de los planteles educativos, a través del Comité Escolar de Administración Participativa, de acuerdo con los lineamientos que emita la Autoridad Educativa Federal; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-VIII. Realizar actividades encaminadas al beneficio de la propia escuela y de la comunidad escolar.
+VII. Coadyuvar en la dignificación de los planteles educativos, a través del Comité Escolar de Administración Participativa, de acuerdo con los lineamientos que emita la Autoridad Educativa Federal;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+VIII. Realizar actividades encaminadas al beneficio de la propia escuela y de la comunidad escolar, y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+IX. Implementar las acciones pertinentes de participación, coordinación y divulgación para promover y proteger el cuidado de las abejas en las escuelas, con el objetivo de establecer lugares adecuados para su preservación.
 
 ###### Artículo 131.
 
@@ -2440,3 +2458,15 @@ P.O. 15 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1012 POR EL QUE SE ADICIONA LA FRACCIÓN X BIS AL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1043 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 130 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1053 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
