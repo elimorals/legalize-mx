@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-al-ambiente-para-el-estado-de-baja-23012"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-30"
-last_updated: "2023-12-08"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 30 de noviembre de 2001.
 
@@ -243,7 +243,7 @@ I. Contar con estudios relacionados con la materia ambiental;
 
 II. Tener experiencia en la administración o coordinación de acciones relativas a la materia ambiental.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.G. 16 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 8.
 
@@ -331,21 +331,31 @@ XXXIV. La Secretaría propondrá los derechos que correspondan al aprovechamient
 
 XXXV. Instrumentar, ejecutar y evaluar programas, proyectos, políticas, servicios y acciones relativos a la vida silvestre y a la biodiversidad, de conformidad con la legislación en la materia;
 
-> <small>(REFORMADA, P.O. 12 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XXXVI. Coordinarse con la Secretaría de Salud del Estado para elaborar, dar seguimiento y hacer público, los estudios epidemiológicos relacionados con la calidad del aire, y
+XXXVI. Coordinarse con la Secretaría de Salud del Estado para elaborar, dar seguimiento y hacer público, los estudios epidemiológicos relacionados con la calidad del aire;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XXXVII. Identificar, delimitar y establecer corredores biológicos, así como diseñar y proponer las estrategias para su implementación, y
+XXXVII. Identificar, delimitar y establecer corredores biológicos, así como diseñar y proponer las estrategias para su implementación;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XXXVIII. Formular los Criterios y Normas de Producción Sustentable que tendrán por objeto establecer y describir los criterios y buenas prácticas de producción sustentable que los fabricantes de bolsas de plástico deban implementar en sus procesos, operaciones y productos.
+XXXVIII. Formular los Criterios y Normas de Producción Sustentable que tendrán por objeto establecer y describir los criterios y buenas prácticas de producción sustentable que las y los fabricantes de bolsas de plástico deban implementar en sus procesos, operaciones y productos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 22 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE AGOSTO DE 2024)</small>
 
-XXXIX. Las demás que conforme a la legislación local y federal aplicable le correspondan.
+XXXIX. Garantizar la protección de las plantas nativas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE AGOSTO DE 2024)</small>
+
+XL. La formulación, evaluación, aplicación y vigilancia de programas de siembra y distribución de árboles, plantas tradicionales y plantas medicinales en zonas marginadas y zonas indígenas, de conformidad con lo que establezca la Secretaría para alcanzar el objetivo del programa; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE AGOSTO DE 2024)</small>
+
+XLI. Las demás que conforme a la legislación local y federal aplicable le correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 9.
 
@@ -429,9 +439,9 @@ XXXV. Promover y realizar programas para el desarrollo de técnicas y procedimie
 
 XXXVI. Requerir a los responsables de empresas de competencia municipal, la información necesaria en los formatos para las licencias o registros respectivos de generación de contaminantes;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XXXVII. Regular y aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación generada por fuentes móviles, así mismo, para los sistemas de recolección y transporte de los residuos sólidos urbanos y residuos de manejo especial; y
+XXXVII. Regular y aplicar las disposiciones jurídicas relativas a la prevención y control de la contaminación generada por fuentes móviles, así mismo, para los sistemas de recolección y transporte de los residuos sólidos urbanos y residuos de manejo especial e identificar los que, dentro de su competencia, puedan ser sujetos a planes de manejo; y,
 
 XXXVIII. Los demás asuntos que en la materia les concedan la Ley General, esta Ley, otros ordenamientos legales y reglamentos aplicables.
 
@@ -3346,3 +3356,17 @@ P.O. 8 DE DICIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 333 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6, 7, 8, Y 18 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 453 MEDIANTE EL CUAL SE LA (SIC) REFORMA AL ARTÍCULO 8 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado expedirá las disposiciones reglamentarias correspondientes para la aplicación de la reforma a la presente ley, dentro de los noventa días siguientes a la publicación de este Decreto.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 456 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 9 DE LA LEY DE PROTECCIÓN AL AMBIENTE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Único.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
