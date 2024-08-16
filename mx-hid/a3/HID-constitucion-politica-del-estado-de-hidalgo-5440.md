@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2024-07-18"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -95,6 +95,10 @@ El Estado podrá, en los términos de Ley, celebrar los convenios de colaboraci�
 
 En el Estado de Hidalgo, todas las personas gozarán de los derechos humanos que reconoce la Constitución Política de los Estados Unidos Mexicanos, ésta Constitución, los tratados internacionales de los que el Estado mexicano sea parte y las Leyes secundarias, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que en la Constitución Federal se establezcan.
 
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+Todas las personas tienen derecho al libre desarrollo de su personalidad, sin más limitaciones que sus derechos y las libertades de los demás y el orden público.
+
 Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Federal, ésta Constitución y con los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 Todas las autoridades, servidoras y servidores públicos en el Estado de Hidalgo, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley.
@@ -104,6 +108,10 @@ Todas las autoridades, servidoras y servidores públicos en el Estado de Hidalgo
 En el Estado de Hidalgo, (sic) reconoce y protege el derecho a la vida. Queda prohibida toda discriminación motivada por el origen étnico, nacional o regional, el género, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil, el trabajo desempeñado, las costumbres, la raza, o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas.
 
 Toda discriminación o toda intolerancia constituyen un agravio a la dignidad humana y un retroceso a su propia condición, que deberá combatirse.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+En el Estado de Hidalgo, se reconoce el derecho de las personas a utilizar, ocupar, planear, producir, transformar y disfrutar de las ciudades, pueblos y/o asentamientos urbanos o rurales que habiten.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2016)</small>
 
@@ -373,9 +381,9 @@ El Estado impartirá y garantizará la educación inicial, preescolar, primaria,
 
 La educación en el Estado de Hidalgo se ajustará estrictamente a las disposiciones del Artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones en la materia.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
-Las autoridades locales establecerán políticas para fomentar la inclusión, permanencia y continuidad, en términos que la ley señale. Asimismo, proporcionarán medios de acceso a este tipo educativo para las personas que cumplan con los requisitos dispuestos por las instituciones públicas.
+Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella, para lo cual deberá proveer recursos y estímulos suficientes, conforme a las bases de coordinación, vinculación y participación que establezcan las leyes en la materia; además alentará el fortalecimiento y difusión de nuestra cultura.
 
 > <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
 
@@ -3147,11 +3155,11 @@ El Gobernador del Estado, los Diputados Locales, los Magistrados del Tribunal Su
 
 Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial, de intereses y fiscal, ante las autoridades competentes y en los términos que determine la ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 150.
 
-Serán sujetos de juicio político: las Diputadas y los Diputados del Congreso Local, la o el Auditor Superior, las y los titulares de la administración municipal, las y los Síndicos, las Regidoras y los Regidores, las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de Justicia Administrativa, las Secretarias y los Secretarios del despacho del Poder Ejecutivo, la persona titular de la Fiscalía General de Justicia, de la Fiscalía Especializada en Delitos Electorales, así como la Fiscalía Especializada en Delitos de Corrupción y quienes tengan a su cargo las Coordinaciones creadas por el Ejecutivo, las y los directores generales o sus equivalentes de los organismos públicos autónomos y descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta entidad federativa, las y los titulares de los juzgados de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la Comisión de los delitos del orden común y de las violaciones graves a derechos humanos que se cometan durante su gestión.
+Serán sujetos de juicio político: El Gobernador del Estado, las Diputadas y los Diputados del Congreso Local, el Auditor Superior, las y los titulares de la administración municipal, las y los Síndicos, las Regidoras y los Regidores, las Magistradas y los Magistrados del Tribunal Superior de Justicia del Estado, del Tribunal de Justicia Administrativa y del Tribunal Electoral, las Secretarias y los Secretarios del despacho del Poder Ejecutivo, la o el titular de la Procuraduría General de Justicia, la Fiscalía Especializada en Delitos Electorales, así como la Fiscalía Especializada en Delitos de Corrupción y quienes tengan a su cargo las Coordinaciones creadas por el Ejecutivo, las y los directores generales o sus equivalentes de los organismos públicos autónomos y descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a estas, fideicomisos públicos de esta entidad federativa y las y los titulares de los juzgados de primera instancia por las acciones u omisiones indebidas en que incurran en el tiempo de su encargo y serán responsables por la Comisión de los delitos del orden común y de las violaciones graves a derechos humanos que se cometan durante su gestión.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2017)</small>
 
@@ -4394,3 +4402,29 @@ a) La persona que sustituya a la Comisionada que culminará su encargo el 17 de 
 b) La persona que sustituya al Comisionado que finalizará su encargo el 17 de septiembre de 2026, será designada por un periodo de 5 años, para culminar su encargo el 17 de septiembre de 2031.
 
 c) La persona que sustituya a la Comisionada que terminará su encargo el 17 de septiembre de 2027, será designada por un periodo de 2 años, para finalizar su encargo el 17 de septiembre de 2029.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1034 QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1035 POR EL QUE SE ADICIONA UN ULTIMO PÁRRAFO AL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 1036 QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 150 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir del día siguiente de la entrada en vigor del presente Decreto, en el plazo de 90 días deberán (sic) las adecuaciones a la legislación correspondiente.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1037 QUE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 8 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
