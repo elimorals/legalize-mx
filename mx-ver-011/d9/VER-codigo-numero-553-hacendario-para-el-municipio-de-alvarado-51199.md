@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-553-hacendario-para-el-municipio-de-alvarado-5119
 country: "mx"
 rank: "codigo"
 publication_date: "2006-07-14"
-last_updated: "2024-08-07"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "VER"
 ---
 # CODIGO NUMERO 553 HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE AGOSTO DE 2024 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL ESTADO DE VERACRUZ EL 16 DE AGOSTO DE 2024.]</small>
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 14 de julio de 2006.
 
@@ -5087,6 +5087,8 @@ G.O. 7 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 732 QUE REFORMA EL ARTÍCULO 136 DEL CÓDIGO HACENDARIO PARA EL MUNICIPIO DE ALVARADO, ESTADO DE VERACRUZ”.]
 
-Primero. El presente Decreto entrará en vigor el día Primero del Mes de Enero del Año Dos Mil Veinticuatro, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+> <small>(F. DE E., G.O. 16 DE AGOSTO DE 2024)</small>
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
