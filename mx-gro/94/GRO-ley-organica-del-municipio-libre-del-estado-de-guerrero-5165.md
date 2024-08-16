@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2024-07-23"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE JULIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -497,11 +495,15 @@ En las propuestas de personas que se presenten para ocupar cualquier cargo en la
 
 El número y asignación de regidores de representación proporcional se ajustará a lo dispuesto por la Constitución Política del Estado de Guerrero.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 31.
 
-Los integrantes del Ayuntamiento tienen prohibido desempeñar a la vez dos o más cargos o empleos públicos por los que se disfrute sueldo; excepto los regidores, que podrán ser autorizados por el Cabildo para desempeñarse en la docencia, investigación o beneficencia pública que no impliquen remuneración o estímulo económico, y que no afecten sus responsabilidades edilicias o resulten incompatibles a juicio del Congreso del Estado.
+Los integrantes del Ayuntamiento durante su encargo, previo juicio que emita el Congreso del Estado, podrán ser autorizados por el Cabildo, para desempeñarse como servidores públicos federales, estatales o municipales, siempre que lo hagan en las áreas docentes, de la salud, investigación o beneficencia pública.
+
+El juicio que emita el Congreso del Estado podrá ser a favor o en contra, considerando la compatibilidad de los cargos y/o que no se afecten las responsabilidades edilicias.
+
+En todo caso, el Congreso podrá determinar los lineamientos de la compatibilidad, en base a los elementos contenidos en el presente artículo y los mencionados en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos, para lo cual recibirá la información necesaria del Ayuntamiento y la Institución, Dependencia, Órgano u Organismo involucrados.
 
 > <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
 
@@ -4572,6 +4574,16 @@ TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusi�
 P.O. 23 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 675 POR MEDIO DEL CUAL SE REFORMAN LOS ARTÍCULOS 41 PRIMER PÁRRAFO; 73 FRACCIONES XXVII Y XXVIII; 77 FRACCIÓN VI; 78; 106 FRACCIONES XIV, XIX Y XX; 109-A FRACCIÓN X; 124; 134; 137 BIS PÁRRAFOS PRIMERO Y CUARTO; 142; 145-BIS PÁRRAFO SEGUNDO; 157 PÁRRAFO PRIMERO; 164; 169; 243; Y, 244 PÁRRAFO SEGUNDO DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 859, POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 31 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
