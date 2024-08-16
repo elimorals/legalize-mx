@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-33-2023-del-pleno-del-consejo-de-la-168899"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2023-12-26"
-last_updated: "2023-12-26"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168899&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-12-12"
 
 ACUERDO GENERAL 33/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA MEDIDA DE AUXILIO TEMPORAL POR PARTE DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE HIDALGO, CON RESIDENCIA EN PACHUCA, AL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NEZAHUALCÓYOTL
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE AGOSTO DE 2024.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el martes 26 de diciembre de 2023.
 
@@ -92,6 +92,10 @@ Polotitlán, Tonanitla, Soyaniquilpan de Juárez,
 Teoloyucan, Tepotzotlán, Tequixquiac, Timilpan
 
 Tlalnepantla de Baz, Tultepec, Tultitlán y Zumpango.
+
+> <small>(ADICIONADA POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 6/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE AGOSTO DE 2024)</small>
+
+I. Bis. De todas las solicitudes, diligencias y resoluciones que deriven de los asuntos a que se refiere la fracción anterior, hasta antes del dictado del auto de apertura a juicio, lo que incluye de manera enunciativa más no limitativa medios de conducción a proceso; medidas cautelares; providencias precautorias, y técnicas de investigación, así como las determinaciones del sobreseimiento, salidas alternas y formas de terminación anticipada; y
 
 II. Todos los asuntos de nuevo ingreso que provengan de los municipios precisados en este artículo, cuyo conocimiento corresponda a la persona juzgadora de control, serán tramitados y las audiencias correspondientes desahogadas en su totalidad por el Centro de Justicia Penal Federal auxiliar.
 
@@ -172,3 +176,21 @@ QUINTO. La persona administradora del Centro de Justicia Penal Federal en el Est
 SEXTO. Las personas administradoras de los Centros de Justicia Penal Federal en los Estados de México, con residencia en Nezahualcóyotl y de Hidalgo, con sede en Pachuca, deberán fijar avisos en lugar visible en relación con la medida objeto del presente acuerdo.
 
 EL MAGISTRADO JOSÉ ALFONSO MONTALVO MARTÍNEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 33/2023, del Pleno del Consejo de la Judicatura Federal, relativo a la medida de auxilio temporal por parte del Centro de Justicia Penal Federal en el estado de Hidalgo, con residencia en Pachuca, al Centro de Justicia Penal Federal en el Estado de México, con residencia en Nezahualcóyotl, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de 25 de octubre de 2023, por unanimidad de votos de los señores Consejeros: Presidenta Ministra Norma Lucía Piña Hernández, Bernardo Bátiz Vázquez, Eva Verónica de Gyvés Zárate, Alejandro Sergio González Bernabé, Lilia Mónica López Benítez, Celia Maya García y Sergio Javier Molina Martínez.- Ciudad de México, a 12 de diciembre de 2023.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 6/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ADICIONA EL SIMILAR 33/2023, RELATIVO A LA MEDIDA DE AUXILIO TEMPORAL POR PARTE DEL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE HIDALGO, CON RESIDENCIA EN PACHUCA, AL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE MÉXICO, CON RESIDENCIA EN NEZAHUALCÓYOTL”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. El presente Acuerdo General es aplicable para todos aquellos asuntos que estén pendientes a su entrada en vigor.
+
+En aquellos casos en que el centro auxiliar hubiera remitido por incompetencia, el asunto al Centro de Justicia Penal Federal del Estado de México, con residencia en Nezahualcóyotl, éste lo devolverá al auxiliar, salvo en aquellos casos en que esté pendiente de resolución judicial un eventual conflicto competencial, supuesto en el cual se estará a lo que determine el tribunal de alzada.
+
+CUARTO. Comuníquese el contenido de este Acuerdo General a las personas administradoras de los centros auxiliar y auxiliado.
+
+QUINTO. Las personas administradoras de los centros auxiliar y auxiliado, deberán fijar avisos en lugar visible en relación con la medida objeto del presente Acuerdo.
