@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2023-12-11"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -2117,7 +2117,7 @@ I. Cuando se realice aprovechando alguna relación de trabajo, servicio u hospit
 
 II. Cuando se cometa por un servidor público que actúe en ejercicio y con motivo de sus funciones;
 
-III. Cuando recaiga sobre bienes de instituciones educativas, culturales o científicas;
+III. (DEROGADA, P.O. 16 DE AGOSTO DE 2024)
 
 IV. Cuando recaiga sobre materiales destinados a la prestación de un servicio público;
 
@@ -2134,6 +2134,16 @@ IX. Cuando recaiga sobre componente o mobiliario del equipamiento urbano e infra
 Se entenderá por equipamiento urbano el conjunto de inmuebles, instalaciones, construcciones y mobiliario utilizado para prestar a la población los servicios urbanos para desarrollar actividades económicas, sociales, culturales, deportivas, educativas de traslado y abasto.
 
 Se entenderá por infraestructura vial y urbana la pavimentación de calles y avenidas; el mantenimiento de vías; la construcción y rehabilitación de la red de agua potable; urbanización; ciclovías; puentes; alumbrado público; drenaje y alcantarillado.
+
+> <small>(ADICIONADO [N. DE E. CON SU FRACCIÓN], P.O. 16 DE AGOSTO DE 2024)</small>
+
+C) Se aumentarán de uno a cuatro años de prisión, en el siguiente caso:
+
+I. Cuando recaiga sobre bienes de instituciones educativas, sean públicas o privadas de nivel básico, medio o superior, centros de investigación, espacios culturales o científicos y museos.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN I, P.O. 16 DE AGOSTO DE 2024.]</small>
+
+En caso de reincidencia se aumentará en una tercera parte la sanción que corresponda.
 
 > <small>(REFORMADO, P.O. 8 DE ABRIL DE 2022)</small>
 
@@ -5024,5 +5034,15 @@ P.O. 11 DE DICIEMBRE DE 2023.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente decreto.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 393 POR EL QUE "SE DEROGA LA FRACCIÓN III DEL APARTADO B) Y SE ADICIONA UN APARTADO C) CON LA FRACCIÓN I AL ARTÍCULO 193 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 Tercero.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente decreto.
