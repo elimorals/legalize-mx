@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-88104"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-01"
-last_updated: "2023-09-25"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
@@ -481,9 +481,21 @@ Para enfrentar los retos de la adaptación, se observarán los siguientes criter
 
 I. Corregir o aminorar los desequilibrios generados por el cambio climático, que deterioren la calidad de vida de la población o que tengan un impacto negativo en el desarrollo de los ecosistemas;
 
-II. Considerar los escenarios actuales y futuros de cambio climático en la planeación territorial, evitando los impactos negativos en la calidad de vida de la población, la infraestructura, las diferentes actividades productivas y de servicios, los asentamientos humanos y los recursos naturales; y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-III. Establecer y considerar umbrales de riesgo aceptable, derivados de la variabilidad climática actual y esperada, en los instrumentos de planeación territorial, para garantizar la seguridad alimentaria, la protección civil, la conservación de la biodiversidad y la productividad.
+II.- Considerar los escenarios actuales y futuros de cambio climático en la planeación territorial, evitando los impactos negativos en la calidad de vida de la población, la infraestructura, las diferentes actividades productivas y de servicios, los asentamientos humanos y los recursos naturales;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+III.- Establecer y considerar umbrales de riesgo aceptable, derivados de la variabilidad climática actual y esperada, en los instrumentos de planeación territorial, para garantizar la seguridad alimentaria, la protección civil, la conservación de la biodiversidad y la productividad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE AGOSTO DE 2024)</small>
+
+IV.- Fomentar la investigación y el estudio en materia de adaptación en la Entidad; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE AGOSTO DE 2024)</small>
+
+V.- Prevenir riesgos en materia de salud asociados con el cambio climático.
 
 ###### Artículo 37.
 
@@ -730,3 +742,9 @@ P.O. 25 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 290 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LA FRACCIÓN X AL ARTÍCULO 2 DE LA LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA”]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 454 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 36 DE LA LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
