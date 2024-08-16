@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2024-06-18"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -132,6 +132,12 @@ I. Artesanía: Arte y técnica de fabricar o elaborar objetos o productos a mano
 II. Agente cultural: Promotor, gestor, o cualquier persona o grupo que impulse, difunda y potencie el arte de un creador o de la cultura de un grupo o comunidad;
 
 III. Arte popular: Creación artística que es consumida en forma masiva y que es susceptible de reproducción a escala industrial;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+III BIS. Centro Cultural Independiente: Establecimiento cuya actividad principal es la creación, producción, difusión, fomento, intercambio, comercialización de bienes y servicios de contenido artístico y cultural, así como la impartición de cursos, talleres y demás procesos formativos en un espacio físico de propiedad particular.
+
+Dichos centros serán considerados como establecimientos comerciales, de conformidad con lo estipulado en la Ley de Hacienda para los Municipios del Estado de Hidalgo; así como Industrias Creativas y Culturales, de conformidad con lo estipulado en la Ley de Fomento y Desarrollo Económico para el Estado de Hidalgo;
 
 IV. Conservación: Conjunto de operaciones interdisciplinarias que tienen por objeto evitar el deterioro del patrimonio cultural tangible y garantizar su salvaguarda para transmitirlos a las generaciones futuras con toda la riqueza de su autenticidad. Se integra de acciones preventivas, curativas y de restauración;
 
@@ -449,11 +455,39 @@ X. Impulsar y proyectar en el ámbito estatal, nacional e internacional, en la m
 
 XI. Otorgar premios, reconocimientos o estímulos a los individuos, organizaciones e instituciones públicas o privadas que se hayan destacado en la creación artística o en la promoción, preservación, difusión e investigación de la cultura en el ámbito de su jurisdicción;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XII. Instaurar una dependencia municipal que tenga cómo única función la de llevar a la práctica los programas y acciones contenidas en el Programa Municipal de Cultura; y
+XII. Instaurar una dependencia municipal que tenga cómo única función la de llevar a la práctica los programas y acciones contenidas en el Programa Municipal de Cultura;
 
-XIII. Procurar la creación, ampliación y mantenimiento de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros y centros culturales.
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XIII. Procurar la creación, ampliación y mantenimiento de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros y centros culturales;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XIV. Reconocer a los Centros Culturales Independientes en la normatividad municipal, como establecimientos comerciales creados de conformidad con lo estipulado en la Ley de Hacienda para los Municipios del Estado de Hidalgo, los cuales son destinados a ofrecer:
+
+a) Bienes y servicios de contenido artístico y cultural, y
+
+b) Cursos, talleres y procesos formativos en materia de arte y cultura.
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XV. Estipular un giro comercial específico para los Centros Culturales Independientes, y realizar el cobro de las contribuciones municipales conforme a la Ley de Hacienda para los Municipios del Estado de Hidalgo, tomando en cuenta los siguientes criterios:
+
+a) El tamaño y ubicación del establecimiento;
+
+b) El número de personas que laboran, y
+
+c) El tipo de actividades que se realizan, conforme a la fracción XIV del presente artículo.
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XVI. Incluir a los Centros Culturales Independientes en los planes, programas y acciones en materia de arte y cultura, e incentivar su apertura y crecimiento en sus demarcaciones, a través del esquema de apoyos y estímulos que, en su caso, las autoridades hayan establecido para tal efecto, y
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XVII. Elaborar y mantener actualizado el registro de los Centros Culturales Independientes de su demarcación.
 
 ###### Artículo 16.
 
@@ -602,6 +636,10 @@ XI. Fomento al libro y la lectura; incluyendo nuevos modelos de creación litera
 XII. Gestión de los patrimonios culturales, incluidos los que son patrimonio cultural de la humanidad;
 
 XIII. Impulso y desarrollo de las industrias culturales y creativas;
+
+> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+XIII BIS. Fomento al desarrollo y crecimiento de los Centros Culturales Independientes, como parte del ecosistema de industrias creativas y culturales del Estado;
 
 XIV. Investigación histórica y cultural, para la protección, defensa, conservación y recuperación del patrimonio cultural;
 
@@ -953,6 +991,10 @@ La forma de integración, el funcionamiento y la operación del Observatorio, se
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2021)</small>
 
+### CAPÍTULO XIV. DE LOS CENTROS CULTURALES INDEPENDIENTES
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 55.
 
 Se crea la Comisión Estatal para el Fomento a la Salvaguardia del Patrimonio Cultural Inmaterial, la cual podrá auxiliar de (sic) la secretaría, en lo siguiente:
@@ -970,6 +1012,84 @@ El Congreso del Estado proveerá de recursos presupuestales a la Secretaría, de
 ###### Artículo 56.
 
 La integración, el funcionamiento y la operación de la Comisión Estatal para el fomento a la Salvaguardia del Patrimonio Cultural Inmaterial, se establecerá en el Reglamento de la Ley.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2024)</small>
+
+###### Artículo 57.
+
+Los Centros Culturales Independientes establecidos en el Estado gozarán, a través de la persona responsable, de los derechos culturales reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, la Constitución Política del Estado de Hidalgo y la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+###### Artículo 58.
+
+Los Centros Culturales Independientes establecidos en el Estado, gozarán de los siguientes derechos:
+
+I. Participar, a través de la persona responsable del mismo, en el diseño y articulación de las políticas públicas de su interés, previa autorización de la autoridad competente;
+
+II. Participar, a través de la persona responsable, en las convocatorias, acuerdos, estímulos y apoyos que les sean aplicables en materia de arte y cultura, de conformidad con su naturaleza de establecimientos comerciales y como industrias creativas y culturales;
+
+III. Celebrar convenios con (sic) Gobierno del Estado para el acceso a espacios de difusión en los medios de comunicación oficiales y en la cartelera cultural de la Secretaría, en los términos de la legislación aplicable y previa autorización de la autoridad competente;
+
+IV. Solicitar a la Secretaría o a los Gobiernos Municipales, el préstamo temporal de inmuebles o espacios para la realización de eventos o actividades culturales, de conformidad con las disposiciones aplicables;
+
+V. Recibir orientación y asesoría, por parte de las autoridades competentes, para la aplicación de la presente Ley en materia fiscal, administrativa, protección civil, uso de suelo, avisos y permisos, atención de emergencias y demás asuntos de su interés;
+
+VI. Gozar de los beneficios y estímulos fiscales que, en su caso, les resulten aplicables, de conformidad con su naturaleza y con la normatividad aplicable, y
+
+VII. Formar y fortalecer asociaciones y colaboraciones entre los grupos artísticos y culturales del Estado, el Gobierno del Estado y de los Municipios, de manera permanente o temporal.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+###### Artículo 59.
+
+Los Centros Culturales Independientes establecidos en el Estado, tienen las obligaciones siguientes:
+
+I. Destinar sus actividades a la creación, producción, difusión, fomento, intercambio, comercialización de bienes y servicios de contenido artístico y cultural, así como la impartición de cursos, talleres y demás procesos culturales formativos;
+
+II. Llevar a cabo su registro como establecimiento comercial, ante las autoridades del municipio en que se ubiquen, acatando las disposiciones legales y administrativas que correspondan;
+
+III. Colocar de manera visible la licencia o placa de funcionamiento expedida por el Gobierno Municipal, además de un distintivo que contenga el nombre o denominación del Centro Cultural Independiente, su fecha de instalación, horario de atención y aforo máximo permitido;
+
+IV. Cumplir con todas las disposiciones normativas y reglamentarias que el Gobierno Municipal determine para la apertura y funcionamiento del Centro Cultural Independiente, bajo la figura de establecimiento comercial;
+
+V. Disponer de un Programa Interno de Protección Civil, alineado a los criterios de la Ley de Protección Civil del Estado de Hidalgo y las disposiciones reglamentarias que determine el Gobierno Municipal donde se ubique el Centro Cultural;
+
+VI. Evitar cualquier forma de discriminación respecto del acceso al Centro Cultural y la prestación de sus actividades, y
+
+VII. Procurar la accesibilidad de las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+###### Artículo 60.
+
+Corresponde a la Secretaría, en materia de Centros Culturales Independientes:
+
+I. Reconocer a los Centros Culturales Independientes como espacios que permiten el acceso a bienes y servicios de contenido artístico y cultural para la sociedad, así como el ejercicio de sus derechos culturales;
+
+II. Incluir a los Centros Culturales Independientes en la política cultural del Estado;
+
+III. Otorgar asesoría para el fortalecimiento de los Centros Culturales Independientes en el Estado, respecto de:
+
+a) Planes, políticas, programas y acciones del Gobierno del Estado en materia de arte y cultura;
+
+b) Vinculación con entidades y dependencias de cualquier orden de gobierno, para los asuntos inherentes a las actividades que realizan; y
+
+c) Trámites y servicios del Gobierno del Estado en materia de arte y cultura.
+
+IV. Fomentar el desarrollo y crecimiento de los Centros Culturales Independientes, y
+
+V. Difundir las actividades y eventos especiales de los Centros Culturales independientes en su cartelera cultural, previa solicitud y procedencia de los mismos.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+###### Artículo 61.
+
+La Secretaría y los gobiernos municipales promoverán la participación e inclusión de los Centros Culturales Independientes debidamente constituidos, en los planes, políticas, acciones y programas en materia de arte y cultura.
+
+Además, procurarán el diseño, ejecución e innovación de mecanismos de atención para los Centros Culturales Independientes del Estado, con la finalidad de impulsar sus procesos, proyectos y actividades, en un marco de reconocimiento y respeto por la diversidad cultural del Estado.
+
+Los gobiernos municipales deberán auxiliarse de sus Instancias Municipales para la Cultura, a efecto de realizar la vinculación con los Centros Culturales Independientes.
 
 ## TRANSITORIOS
 
@@ -1040,3 +1160,11 @@ P.O. 18 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 992 POR EL QUE SE REFORMAN DIVERSAS FRACCIONES DE LOS ARTÍCULOS 7 Y 14 DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1050 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. En un plazo no mayor a ciento veinte días naturales, contados a partir de la entrada en vigor del presente Decreto, los gobiernos municipales deberán realizar las modificaciones normativas, reglamentarias, administrativas, fiscales o presupuestarias para dar cumplimiento a este Decreto.
