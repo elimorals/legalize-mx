@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-instituto-queretano-del-emprendimiento-y-la-160
 country: "mx"
 rank: "ley"
 publication_date: "2022-09-09"
-last_updated: "2022-09-09"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA EL INSTITUTO QUERETANO DEL EMPRENDIMIENTO Y LA INNOVACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en el No. 65 del Periódico Oficial del Estado de Querétaro, el viernes 9 de septiembre de 2022.
 
@@ -215,9 +215,17 @@ e) Secretaría de Desarrollo Agropecuario;
 
 f) Secretaría de la Juventud;
 
-g) Secretaría de Planeación y Participación Ciudadana, y
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
-h) Secretaría de la Contraloría.
+g) Secretaría de Planeación y Participación Ciudadana;
+
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+h) Secretaría de la Contraloría; e
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+i) Instituto Queretano de las Mujeres.
 
 IV. Una Diputada o Diputado designado por la Legislatura del Estado.
 
@@ -424,3 +432,15 @@ Rúbrica
 María Guadalupe Murguía Gutiérrez
 
 Secretaria de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 10 DE LA LEY QUE CREA EL INSTITUTO QUERETANO DEL EMPRENDIMIENTO Y LA INNOVACIÓN”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
