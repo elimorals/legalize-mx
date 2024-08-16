@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-agropecuario-del-estado-de-baja-california-76
 country: "mx"
 rank: "ley"
 publication_date: "2010-10-08"
-last_updated: "2023-09-25"
+last_updated: "2024-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
 
 Ley publicada en la Sección I al Periódico Oficial del Estado de Baja California, el viernes 8 de octubre de 2010.
 
@@ -237,13 +237,17 @@ XXX.- Reconversión Productiva: Es el cambio o transformación voluntaria hacia 
 
 XXXI.- Secretaría: La Secretaría de Agricultura y Desarrollo Rural del Estado de Baja California;
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XXXII.- Señal de sangre: Las cortadas, incisiones o perforaciones que se hagan en las orejas del ganado, y
+XXXII.- Señal de sangre: Las cortadas, incisiones o perforaciones que se hagan en las orejas del ganado;
 
-> <small>(ADICIONADA, P.O. 10 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-XXXIII.- Tatuajes: La impresión de dibujos, letras, números indelebles en las orejas o en el labio del animal.
+XXXIII.- Tatuajes: La impresión de dibujos, letras, números indelebles en las orejas o en el labio del animal; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE AGOSTO DE 2024)</small>
+
+XXXIV.- Agricultura regenerativa: Es la rehabilitación del suelo con el objetivo de mantenerlo productivo el mayor tiempo posible para evitar la expansión agresiva a nuevas áreas, mediante métodos productivos que a través de prácticas que (sic) mejoren las productividades y contribuyan a la salud de los recursos naturales, el bienestar social y la seguridad económica de las personas productoras.
 
 ### CAPÍTULO III. DE LAS AUTORIDADES COMPETENTES
 
@@ -527,9 +531,23 @@ Los convenios o acuerdos que se celebren versarán sobre los siguientes aspectos
 
 I.- Fomento, investigación, difusión de conocimientos, aplicación, elaboración de programas de gobierno, científicos y tecnológicos del ramo agropecuario;
 
-II.- La observancia y aplicación de las leyes federales y normas internacionales que tengan relación con el sector agropecuario, e impedir la introducción al Estado de maquinaria o equipo agrícola o pecuario, animales, productos y subproductos agropecuarios, que pudieran representar un riesgo para la sanidad vegetal o animal, así también aplicar las medidas de control fitosanitarias y zoosanitarias respectivas, y
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
-III.- La promoción y desarrollo de la infraestructura productiva y el fomento y fortalecimiento de las actividades agropecuarias.
+II.- La observancia y aplicación de las leyes federales y normas internacionales que tengan relación con el sector agropecuario, e impedir la introducción al Estado de maquinaria o equipo agrícola o pecuario, animales, productos y subproductos agropecuarios, que pudieran representar un riesgo para la sanidad vegetal o animal, así también aplicar las medidas de control fitosanitarias y zoosanitarias respectivas;
+
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+
+III.- La promoción y desarrollo de la infraestructura productiva y el fomento y fortalecimiento de las actividades agropecuarias; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 16 DE AGOSTO DE 2024)</small>
+
+IV.- La implementación de campañas de carácter permanente con el objeto de informar a la población rural sobre derechos, apoyos y servicios de los que son beneficiarios, respecto a:
+
+a) Los programas públicos que se implementan y a los requisitos necesarios para ser personas beneficiarias de los mismos.
+
+b) La presentación de quejas y denuncias, antes (sic) las instancias correspondientes en defensa de sus derechos.
+
+c) Información sobre las condiciones laborales que señala la materia.
 
 ###### ARTÍCULO 14.
 
@@ -662,6 +680,14 @@ La Secretaría en coordinación con instituciones gubernamentales y académicas,
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2017)</small>
 
 ARTÍCULO 35 BIS.- La Secretaría impulsará las acciones necesarias y mantendrá la coordinación con el gobierno federal para ampliar, rehabilitar, conservar y modernizar la infraestructura hidroagrícola con la utilización de tecnología apropiada, como mecanismo que consolide el desarrollo sustentable, social y productivo de las actividades rurales.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 35 TER.- La Secretaría impulsará la agricultura regenerativa, como alternativa para la conservación de los suelos agrícolas, coadyuvando al medio ambiente, cambio climático, y ahorro del agua, otorgará a la persona productora asesoría técnica, cursos de capacitación, para que vaya transitando de la agricultura común, a la regenerativa, la cual dará un valor agregado a su producto ya que este cambiará a ser orgánico, debido al uso de biofertilizantes.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 35 QUARTER.- La utilización de biofertilizantes orgánicos, por medio de nutrientes vegetales y/o sustancias naturales, para la bioestimulación de cultivos, y en general todas las prácticas agronómicas que mejoren el suelo de manera orgánica y sustentable.
 
 ### CAPÍTULO IV. DE LA SANIDAD VEGETAL
 
@@ -1654,3 +1680,9 @@ P.O. 25 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 289 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 4, 5, 6, 7, 8, 153, 154 Y 161, ASÍ COMO LA ADICIÓN DE LOS ARTÍCULOS 114 BIS Y 114 TER DE LA LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 16 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 455 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 5, 13 Y LA ADICIÓN DE LOS ARTÍCULOS 35 TER Y 35 QUATER DE LA LEY DE DESARROLLO AGROPECUARIO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Baja California.
