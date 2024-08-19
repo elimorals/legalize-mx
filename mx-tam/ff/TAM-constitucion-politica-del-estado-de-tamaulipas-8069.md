@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2024-01-29"
+last_updated: "2024-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -291,9 +291,9 @@ Al efecto, la Ley establecerá las normas para alentar el desarrollo social, med
 
 En el ejercicio de la política estatal de desarrollo social serán principios rectores la libertad, solidaridad, justicia distributiva, inclusión, integralidad, participación social, sustentabilidad, respeto a la diversidad y transparencia.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
-El Estado impulsará permanentemente el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Los niños y las niñas tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral, así como contar con una familia.
+El Estado impulsará permanentemente el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Las niñas, niños, adolescentes y jóvenes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral, así como contar con una familia.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2010)</small>
 
@@ -2917,11 +2917,11 @@ Las relaciones de trabajo entre los Municipios y sus trabajadores, se regirán p
 
 ### CAPITULO I. De la Educación Pública
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2024)</small>
 
 ###### Art. 138.
 
-La educación que impartan el Estado y los Municipios será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional en la independencia y en la justicia.
+La educación que impartan el Estado y los Municipios se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos y de igualdad sustantiva, será ajena a cualquier doctrina religiosa; se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, la servidumbre, los fanatismos y los prejuicios; será democrática, nacionalista y contribuirá a la mejor convivencia humana, buscando el desarrollo de todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional en la independencia y en la justicia.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -2932,6 +2932,10 @@ El proceso educativo incorporará la promoción de una actitud consciente sobre 
 ###### Art. 139.
 
 La educación que imparta directamente el Estado será gratuita en todos sus niveles, y obligatoria hasta el nivel medio superior. Los habitantes de la Entidad tendrán las mismas oportunidades de acceso al Sistema Educativo Estatal.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -5398,6 +5402,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El informe de gobierno, así como las comparecencias inherentes a los titulares de las Dependencias de la Administración Pública Estatal correspondientes al ejercicio fiscal 2023, se llevará a cabo en la segunda quincena del mes de febrero del año 2024, en la fecha que determine el Congreso del Estado.
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-840 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 16, PÁRRAFO NOVENO; Y 138, PÁRRAFO PRIMERO; Y SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 139, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO NOVENO.
 
