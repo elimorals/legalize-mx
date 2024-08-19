@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-08-16"
+last_updated: "2024-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -701,9 +701,7 @@ II.- Para celebrar actos o convenios que comprometan al municipio por un plazo m
 
 III.- Para que el gobierno estatal asuma una función o servicio municipal, sin el convenio correspondiente, debe mediar solicitud del Ayuntamiento; y
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2024)</small>
-
-IV.- Para nombrar a la persona titular del Órgano Interno de Control
+IV.- (DEROGADA, P.O. 19 DE AGOSTO DE 2024)
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
 
@@ -917,9 +915,9 @@ r).- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuota
 
 r BIS) Vigilar la actualización del padrón catastral y las tablas de valores unitarios de suelo y construcciones;
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
-s).- Analizar y en su caso aprobar anualmente su presupuesto de egresos, el cual deberá ser aprobado por las dos terceras partes del Ayuntamiento; en caso de ser necesario realizar adecuaciones presupuestales, éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto. En ambos casos, se deberá observar lo dispuesto por las leyes de la materia.
+s).- Analizar y en su caso aprobar anualmente su presupuesto de egresos, el cual deberá ser aprobado por mayoría de votos; en caso de ser necesario realizar adecuaciones presupuestales, éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto. En ambos casos, se deberá observar lo dispuesto por las leyes de la materia.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1125,9 +1123,9 @@ s).- Preservar la cultura, derechos lingüísticos y tradiciones de los pueblos 
 
 t).- A más tardar, noventa días hábiles posteriores a la toma (sic) posesión, podrá solicitar al Congreso del Estado la modificación al Catálogo de Pueblos y Comunidades Indígenas, para lo cual se deberá aplicar la metodología de una Cédula Antropológica como un instrumento técnico.
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
-u).- Elegir y designar por mayoría calificada de la totalidad de sus integrantes a la persona titular del Órgano Interno de Control.
+u).- Elegir y designar por mayoría de votos a la persona titular del Órgano Interno de Control.
 
 III.- Las demás que le concedan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y las leyes que de ellas emanen. A tal efecto y en el ámbito de su competencia, la Legislatura del Estado, tomará en cuenta las condiciones territoriales y socioeconómicas del Municipio y su capacidad técnica, administrativa y financiera.
 
@@ -1383,7 +1381,9 @@ a).- Nombrar y remover libremente a los servidores públicos municipales que ref
 
 a Bis) Proponer al Ayuntamiento en sesión ordinaria a la persona titular del Órgano Interno de Control Municipal, previa convocatoria pública abierta, para el registro de aspirantes, conforme a lo dispuesto en el artículo 105 Ter de esta Ley.
 
-La propuesta será sometida a aprobación, debiendo ser designado por mayoría calificada de cuando menos las dos terceras partes de la totalidad de los integrantes del Ayuntamiento para que la o el aspirante acceda al cargo y sólo podrá ser removido por el mismo número de votos.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+La propuesta será sometida a aprobación del Ayuntamiento, debiendo ser designado por mayoría de votos.
 
 b).- Nombrar y remover a los alcaides y al personal de seguridad y administrativo de acuerdo con las disposiciones aplicables, así como, cuidar que las dependencias y oficinas Municipales se integren y funcionen con eficiencia;
 
@@ -2205,11 +2205,15 @@ V. El proyecto de Presupuesto de Egresos deberá incluir la calendarización del
 
 VI. La Comisión de Hacienda del Ayuntamiento analizará el proyecto y elaborará el dictamen correspondiente que deberá ser sometido a la revisión y, en su caso, aprobación del Ayuntamiento, durante la segunda quincena del mes de diciembre del año anterior al de su ejercicio;
 
-VII. El proyecto de Presupuesto de Egresos y el dictamen deberán ser presentados a todos los integrantes del Ayuntamiento para su análisis, discusión y aprobación, en su caso, por las dos terceras partes de los integrantes del Ayuntamiento;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+VII. El Proyecto de Presupuesto de Egresos y el dictamen deberán ser presentados a todos los integrantes del Ayuntamiento para su análisis, discusión y aprobación, en su caso, por la mayoría de votos;
 
 VIII. Una vez aprobado el Presupuesto de Egresos, el Ayuntamiento, a más tardar el 31 de diciembre, por conducto del Presidente Municipal, deberá publicarlo en el Periódico Oficial del Estado y en su página de internet, remitiendo una copia del mismo con todos sus anexos, a la Auditoría Superior del Estado, dentro de los primeros diez días del ejercicio fiscal siguiente al que corresponda el presupuesto aprobado, en caso de existir adecuaciones presupuestales, se publicarán a través de los medios señalados y se remitirán a dicha Entidad de Fiscalización dentro de los 10 días hábiles siguientes a la fecha de su aprobación, en el entendido de que la información contenida en estas servirá para la revisión y fiscalización de la Cuenta Pública; y
 
-IX. Las modificaciones al Presupuesto de Egresos se podrán realizar solamente durante el mismo Ejercicio Fiscal de su vigencia y por causa justificada, éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto. Para lo cual se deberá seguir el mismo procedimiento que para su aprobación y ser sancionadas por las dos terceras partes del Ayuntamiento.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+IX. Las modificaciones al Presupuesto de Egresos se podrán realizar solamente durante el mismo Ejercicio Fiscal de su vigencia y por causa justificada. Éstas deberán ser aprobadas en los términos señalados dentro del ejercicio fiscal al que correspondan y antes del gasto, para lo cual se deberá seguir el mismo procedimiento que para su aprobación y ser sancionadas por la mayoría de votos.
 
 ## TÍTULO SEXTO. RÉGIMEN ADMINISTRATIVO
 
@@ -2405,17 +2409,25 @@ ARTÍCULO 105 BIS.- La Contraloría estará a cargo de una persona titular cuyo 
 
 La Contraloría contará con los recursos humanos, materiales y financieros necesarios para el cumplimiento de su objetivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 105 TER.- La convocatoria descrita en la fracción II, inciso a Bis) del artículo 60 de esta Ley, deberá ser emitida por el Ejecutivo Municipal de manera pública y abierta para la selección de aspirantes a ser titulares del órgano Interno de Control.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+El proceso de selección de aspirantes será coordinado por la Comisión Especial que el ayuntamiento integre para tal efecto, la cual será presidida por la persona titular del Ejecutivo Municipal.
+
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2024)</small>
-
-ARTÍCULO 105 TER.- La convocatoria descrita en la fracción a Bis) del artículo 60 de esta Ley, deberá ser emitida por el Ejecutivo Municipal de manera pública y abierta para la selección de aspirantes a ser titulares del órgano Interno de Control.
-
-Dicha Convocatoria deberá publicarse hasta noventa días antes de que el nuevo titular asuma el cargo y será coordinada por la Comisión Especial que el ayuntamiento integre para tal efecto.
 
 La persona aspirante deberá registrarse personalmente en días y horarios hábiles, conforme al domicilio y el procedimiento que la propia Comisión señale.
 
-Concluida la etapa de registros, el Ejecutivo Municipal emitirá un informe que contendrá el número de aspirantes registrados y determinará las personas que han cumplido con los requisitos establecidos en la convocatoria.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
-Derivado del informe, la Comisión designada organizará la presentación y defensa de ensayos por parte de las y los aspirantes, mediante el cual se determinará a la persona titular del Órgano Interno de Control Municipal.
+Concluida la etapa de registros, el Ejecutivo Municipal emitirá un informe a la Comisión, el cual contendrá el número de aspirantes registrados y determinará las personas que han cumplido con los requisitos establecidos en la convocatoria.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+Derivado del informe, la Comisión designada organizará la presentación y defensa de ensayos por parte de las y los aspirantes, mediante el cual el presidente de la misma determinará y pondrá a consideración del Ayuntamiento a la persona que habrá de ocupar el cargo de titular del Órgano Interno de Control Municipal.
 
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2024)</small>
 
@@ -2439,11 +2451,15 @@ Dentro de la convocatoria se establecerá que los aspirantes comparecerán ante 
 
 La falta o inasistencia injustificada a esta sesión será suficiente para descartar su aspiración sin necesidad de su aprobación del Ayuntamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 105 QUINQUIES.- El Ayuntamiento, previo al desahogo del procedimiento establecido en esta Ley, nombrará a la persona titular de Órgano Interno de Control por mayoría de votos, el cual deberá ser nombrado a más tardar dentro de los cuarenta y cinco días naturales siguientes al inicio de la administración.
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+La persona designada solo podrá ser removida por mayoría de votos y por causas graves determinadas en la ley, debidamente justificadas. En cuyo caso, la nueva designación se llevará a cabo de conformidad con el procedimiento establecido en el presente ordenamiento.
+
 > <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2024)</small>
-
-ARTÍCULO 105 QUINQUIES.- El Ayuntamiento en sesión nombrará a la persona titular de Órgano Interno de Control, a aquella que obtenga mayoría calificada de cuando menos dos terceras partes de la totalidad de sus integrantes, a más tardar el 15 de septiembre del segundo año de inicio de la administración municipal, durando en su encargo cuatro años.
-
-La persona designada solo podrá ser removido por el mismo principio de mayoría calificada y por causas graves determinadas en la Ley y debidamente justificadas.
 
 La violación al procedimiento de designación de la persona titular de Órgano Interno de Control estará afectada de nulidad y se considera violación grave a esta ley.
 
@@ -4922,3 +4938,11 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1120 POR EL QUE SE ADICIONA EL ARTÍCULO 56 QUATER DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1123 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
