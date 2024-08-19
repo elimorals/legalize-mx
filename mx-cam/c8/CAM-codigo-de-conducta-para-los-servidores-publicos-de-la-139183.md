@@ -4,7 +4,7 @@ identifier: "CAM-codigo-de-conducta-para-los-servidores-publicos-de-la-139183"
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-05"
-last_updated: "2019-11-05"
+last_updated: "2024-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # CODIGO DE CONDUCTA PARA LOS SERVIDORES PUBLICOS DE LA SECRETARIA DE EDUCACION DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE EDUCACIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 19 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIGO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LOS SERVIDORES PÚBLICOS DE LA SECRETARÍA DE EDUCACIÓN DEL PODER EJECUTIVO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 5 de noviembre de 2019.
 
@@ -360,3 +362,11 @@ Lic. Elvia del Carmen Arribalsa Castillo
 Jefe de Departamento de Quejas y Denuncias de la Contraloría Interna, 3er. Vocal y miembro propietario temporal
 
 > <small>[N. DE E. VÉASE ANEXOS 1 Y 2 EN EL P.O. DE 5 DE NOVIEMBRE DE 2019, PÁGINAS DE LA 29 A LA 31.]</small>
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA AL QUE DEBERÁN SUJETARSE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE EDUCACIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- El presente Acuerdo abroga el Código de Conducta al que deberán sujetarse las personas servidoras públicas de la Secretaría de Educación de la Administración Pública (sic) del Estado de Campeche, emitido con fecha 24 de octubre de 2019 y publicado en el Periódico Oficial del Estado con fecha 5 de noviembre de 2019.
