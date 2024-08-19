@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2024-05-31"
+last_updated: "2024-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -1273,11 +1273,13 @@ IV.- Promover a nombre del Tribunal las actuaciones que se consideren procedente
 
 El Tribunal contará con un Secretario General, quien además sustituirá las ausencias temporales y excusas del Presidente, debiendo ser Licenciado en Derecho, y con los Secretarios Auxiliares que fueren necesarios, así como el personal indispensable; teniendo los Secretarios Auxiliares el carácter de Actuarios para efectuar todas las diligencias que le fueren encomendadas por el Presidente. Los empleados del Tribunal serán de confianza y quedarán sujetos en lo conducente, al presente ordenamiento, pero los conflictos que se susciten con motivo de la aplicación del mismo, serán resueltos por el Pleno del Tribunal de Arbitraje.
 
-> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 99.
 
-Los gastos que origine el funcionamiento del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, serán cubiertos proporcionalmente por el Gobierno del Estado, de conformidad con lo previsto por el Presupuesto de Egresos; y por los Ayuntamientos, atendiendo al número de sus trabajadores, lo que será determinado por la Secretaría de Finanzas del Gobierno del Estado.
+Los gastos que origine el funcionamiento del Tribunal de Conciliación y Arbitraje de los Trabajadores al Servicio del Estado y los Municipios, serán cubiertos proporcionalmente por el Gobierno del Estado y los ayuntamientos.
+
+Para efectos de lo anterior, el Gobierno del Estado participará de conformidad con lo previsto por el Presupuesto de Egresos del ejercicio fiscal del que se trate y los ayuntamientos participaran aplicando la tasa del uno al millar al Fondo General de Participaciones Federales que le corresponda a cada municipio.
 
 ### CAPITULO II. DE LA COMPETENCIA DEL TRIBUNAL
 
@@ -1972,3 +1974,15 @@ P.O. 31 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-882 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 99 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones normativas que se opongan al presente Decreto.
