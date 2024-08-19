@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-educacion-para-el-estado-de-sinaloa-145523"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-04"
-last_updated: "2023-02-28"
+last_updated: "2024-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
 
 Ley publicada en la Sección Segunda al Número 146 del Periódico Oficial del Estado de Sinaloa, el viernes 4 de diciembre de 2020.
 
@@ -1185,9 +1185,11 @@ En caso de que los docentes, el personal que labora en los planteles educativos,
 
 Cuando exista ausentismo del educando por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres y padres de familia o tutores, las autoridades escolares de las escuelas públicas y privadas del tipo básico informarán a la autoridad educativa estatal, la cual emitirá una Alerta Temprana y será remitida a las Procuradurías Municipales para la Protección de Niñas, Niños y Adolescentes para los efectos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 120.
 
-Las autoridades educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
+Las autoridades educativas, en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en el respeto a la dignidad de las personas y de los derechos humanos, y fomentarán la prevención de cualquier conducta que provoque, incite, apoye a difundir acciones o expresiones verbales o escritas de cualquier tipo basadas en odio, violencia o discriminación contra cualquier persona, grupos o comunidades. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, los docentes, madres y padres de familia o tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender la violencia que se ejerza en el entorno escolar.
 
 Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las siguientes acciones:
 
@@ -1464,6 +1466,10 @@ XVIII. Otorgar estímulos, recompensas, reconocimientos y distinciones a los mae
 > <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2021)</small>
 
 XIX. Establecer programas de educación extraescolar, de fomento cultural, de prevención contra la violencia de género, y de recreación y deporte;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XIX Bis. Promover la capacitación del personal docente en las materias de derechos humanos, igualdad y no discriminación en la educación, así como la eliminación de todo tipo de estereotipos, prejuicios, detrimentos, discurso o expresiones verbales o escritas de cualquier tipo tendientes a denostar la dignidad de las personas basadas o motivadas en odio, y estigmas de los grupos de atención prioritaria;
 
 XX. Fomentar la actividad física de los educandos, el recreo activo, los juegos tradicionales, circuitos recreativos y pautas para la salud, como acciones formativas y preventivas;
 
@@ -1995,6 +2001,10 @@ I. Cumplir con lo dispuesto en el artículo 3° de la Constitución Política de
 
 II. Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes y mantenerlos actualizados;
 
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+II Bis. Garantizar la capacitación del personal docente en materia de derechos humanos, igualdad y no discriminación en la educación, así como, la eliminación de todo tipo de estereotipos, prejuicios, discurso o expresiones verbales o escritas de cualquier tipo tendientes a denostar la dignidad de las personas basadas o motivadas en odio, detrimentos y estigmas de los grupos de atención prioritaria;
+
 III. Otorgar becas que cubran la impartición del servicio educativo, las cuales no podrán ser inferiores al cinco por ciento del total de alumnos inscritos en cada plan y programa de estudios con autorización o reconocimiento de validez oficial de estudios, las cuales distribuirá por nivel educativo y su otorgamiento o renovación no podrá condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario. El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción será decisión voluntaria de cada particular. Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. Corresponde a la autoridad educativa estatal la asignación de las becas a las que se refiere esta fracción, con la finalidad de contribuir al logro de la equidad educativa; para tal efecto atenderá los lineamientos que emita la autoridad educativa federal mediante los cuales se realizará dicha asignación en comités en los que participarán representantes de las instituciones de particulares que impartan educación en los términos de la presente Ley;
 
 IV. Cumplir los requisitos previstos en el artículo 178 de esta Ley;
@@ -2014,6 +2024,12 @@ IX. Dar aviso a la autoridad educativa competente el cambio de domicilio donde p
 Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
 
 En el caso de educación inicial deberán, además, contar con el personal que acredite la preparación adecuada para impartir la educación; contar con instalaciones y demás personal que satisfagan las condiciones higiénicas, de seguridad, pedagógicas y de accesibilidad, que la autoridad educativa determine, conforme a los términos que señalen las disposiciones aplicables; presentar las evaluaciones que correspondan, de conformidad con lo señalado en las disposiciones legales correspondientes, así como facilitar la inspección y vigilancia de las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+###### Artículo 181 Bis.
+
+El personal que ejerce la docencia, así como el personal que labora en los planteles de educación, deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, evitando todo tipo de estereotipos, prejuicios y estigmas de los grupos de atención prioritaria, así como protegerlos contra toda forma de discriminación, maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral. En caso de que el personal docente, el personal que labora en los planteles educativos o las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de los educandos, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
 ### Capítulo II. De los Mecanismos para el Cumplimiento de los Fines de la Educación Impartida por los Particulares
 
@@ -2320,3 +2336,11 @@ DÉCIMO TERCERO. Las Instituciones Públicas de Educación Superior podrán esta
 Las autoridades educativas de la institución correspondiente deberán aplicar la normatividad de transparencia y rendición de cuentas sobre los recursos obtenidos en donación, de conformidad con las disposiciones aplicables.
 
 DÉCIMO CUARTO. La persona titular de la Secretaría de Educación Pública y Cultura del Poder Ejecutivo conformará y decidirá la integración de la instancia estatal de vinculación, consulta y participación como parte integrante de la Comisión Estatal para la Planeación de la Educación Superior.
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 698 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS Y DE LA LEY DE EDUCACIÓN, TODAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
