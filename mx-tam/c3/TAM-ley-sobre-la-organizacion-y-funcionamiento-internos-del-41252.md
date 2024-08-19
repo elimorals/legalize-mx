@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2024-06-20"
+last_updated: "2024-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -793,17 +793,21 @@ aa) Pesca y Acuacultura;
 
 ab) Familia;
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
-ac) Anticorrupción y Participación Ciudadana;
+ac) Anticorrupción;
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
-ad) Cohesión Social; y
+ad) Cohesión Social;
 
-> <small>(ADICIONADO, P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
-ae) Energía y Cambio Climático.
+ae) Energía y Cambio Climático; y
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+af) Participación Ciudadana.
 
 3. La competencia de las comisiones enunciadas en el párrafo anterior se corresponde, en lo general, con las otorgadas a las dependencias de la administración pública del Estado en esas esferas.
 
@@ -821,9 +825,9 @@ b) De Patrimonio Estatal y Municipal, a cargo de los asuntos que entrañan solic
 
 c) De Asuntos Municipales, a cargo de analizar las iniciativas y propuestas inherentes a las funciones constitucionales de los Ayuntamientos, actuando por sí o de consuno con otras comisiones, según se acuerde por el presidente de la Mesa Directiva.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
-d) De Estudios Legislativos, a cargo de contribuir con el análisis, estudio y dictamen de las iniciativas de carácter legislativo.
+d) De Estudios Legislativos Primera y de Estudios Legislativos Segunda, ambas a cargo de contribuir con el análisis, estudio y dictamen de las iniciativas de carácter legislativo.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -2785,19 +2789,29 @@ b) Para ser Titular del Órgano Interno de Control de alguno de los organismos c
 
 c) La convocatoria pública para la elección del Titular del Órgano Interno de Control, considerará las etapas y los procedimientos para la designación correspondiente, ordenándose su publicación en el Periódico Oficial del Estado, en la Gaceta Parlamentaria del Congreso del Estado, en la página de internet del Congreso y, preferentemente, en dos diarios de circulación en la Entidad;
 
-d) Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, por duplicado, y la documentación a que se refiere el inciso a) y b) del presente procedimiento, el Presidente de la Mesa Directiva turnará los expedientes a las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción y Participación Ciudadana, y de Vigilancia de la Auditoría Superior del Estado o a la Diputación Permanente durante los recesos, para que se encarguen de realizar la revisión correspondiente a efecto de determinar aquellos aspirantes que acreditan el cumplimiento de los requisitos exigidos para el cargo, por la Constitución y las leyes secundarias correspondientes;
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
-e) En caso de que las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción y Participación Ciudadana, y de Vigilancia de la Auditoría Superior del Estado o la Diputación Permanente durante los recesos, determinen que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud, motivando y fundando la exclusión de éstos, para no ser considerados en la siguiente etapa;
+d) Una vez abierto el periodo a que se refiera la convocatoria correspondiente, se recibirán las solicitudes de los aspirantes, por duplicado, y la documentación a que se refiere el inciso a) y b) del presente procedimiento, el Presidente de la Mesa Directiva turnará los expedientes a las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción, y de Vigilancia de la Auditoría Superior del Estado o a la Diputación Permanente durante los recesos, para que se encarguen de realizar la revisión correspondiente a efecto de determinar aquellos aspirantes que acreditan el cumplimiento de los requisitos exigidos para el cargo, por la Constitución y las leyes secundarias correspondientes;
 
-f) Las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción y Participación Ciudadana, y de Vigilancia de la Auditoría Superior del Estado o la Diputación Permanente durante los recesos, elaborarán un acuerdo que deberá publicarse en el Periódico Oficial del Estado, en la Gaceta Parlamentaria del Congreso del Estado y en la página de internet del Congreso, y contendrá lo siguiente:
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+e) En caso de que las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción, y de Vigilancia de la Auditoría Superior del Estado o la Diputación Permanente durante los recesos, determinen que alguno de los aspirantes no cumple con alguno de los requisitos, procederá a desechar la solicitud, motivando y fundando la exclusión de éstos, para no ser considerados en la siguiente etapa;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 19 DE AGOSTO DE 2024)</small>
+
+f) Las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción, y de Vigilancia de la Auditoría Superior del Estado o la Diputación Permanente durante los recesos, elaborarán un acuerdo que deberá publicarse en el Periódico Oficial del Estado, en la Gaceta Parlamentaria del Congreso del Estado y en la página de internet del Congreso, y contendrá lo siguiente:
 
 I. El listado con los aspirantes que hayan cumplido con los requisitos exigidos por la Constitución y las leyes secundarias correspondientes;
 
 II. El plazo con que cuentan los aspirantes, cuya solicitud haya sido desechada, para recoger su documentación y fecha límite para ello;
 
-III. El día y hora en donde tendrán verificativo las entrevistas ante las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción y Participación Ciudadana, y de Vigilancia de la Auditoría Superior del Estado o ante la Diputación Permanente durante los recesos, de los aspirantes que hayan cumplido con los requisitos exigidos, a efecto de avalar su garantía de audiencia y conocer su interés y razones respecto a su posible designación en el cargo;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
 
-g) Una vez que se hayan desahogado las entrevistas, las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción y Participación Ciudadana, y de Vigilancia de la Auditoría Superior del Estado o la Diputación Permanente durante los recesos, sesionarán con la finalidad de emitir el dictamen que contenga la lista de candidatos que cumplieron con los requisitos legales y que solventaron las entrevistas, mismos que son aptos para ser votados por el Pleno Legislativo;
+III. El día y hora en donde tendrán verificativo las entrevistas ante las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción, y de Vigilancia de la Auditoría Superior del Estado o ante la Diputación Permanente durante los recesos, de los aspirantes que hayan cumplido con los requisitos exigidos, a efecto de avalar su garantía de audiencia y conocer su interés y razones respecto a su posible designación en el cargo;
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+g) Una vez que se hayan desahogado las entrevistas, las Comisiones Unidas de Transparencia y Acceso a la Información Pública, de Anticorrupción, y de Vigilancia de la Auditoría Superior del Estado o la Diputación Permanente durante los recesos, sesionarán con la finalidad de emitir el dictamen que contenga la lista de candidatos que cumplieron con los requisitos legales y que solventaron las entrevistas, mismos que son aptos para ser votados por el Pleno Legislativo;
 
 h) El dictamen referido en el inciso anterior, será sometido a votación de los miembros del Pleno del Congreso del Estado, para que, posteriormente, mediante votación por cédula, realice la designación del Titular del Órgano Interno de Control correspondiente, con el voto de las dos terceras partes de sus miembros presentes.
 
@@ -4218,3 +4232,11 @@ P.O. 20 DE JUNIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-881 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 35, NUMERAL 2, INCISOS AC), AD) Y AE); 36, INCISO D); Y 134, NUMERAL 8, INCISOS D), E), F) PÁRRAFO PRIMERO Y SU FRACCIÓN III, E INCISO G); Y SE ADICIONA EL INCISO AF) AL NUMERAL 2 DEL ARTÍCULO 35, DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
