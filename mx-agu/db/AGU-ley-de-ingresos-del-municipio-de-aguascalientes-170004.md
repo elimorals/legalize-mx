@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-municipio-de-aguascalientes-170004"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-29"
-last_updated: "2024-01-29"
+last_updated: "2024-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=170004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL MUNICIPIO DE AGUASCALIENTES, AGUASCALIENTES, PARA EL EJERCICIO FISCAL 2024
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 29 DE ENERO DE 2024 NO APLICA AL ARTICULO 95 DE ESTE ORDENAMIENTO PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
 
 Ley publicada en la Tercera Sección del Número 61 del Periódico Oficial del Estado de Aguascalientes, el viernes 29 de diciembre de 2023.
 
