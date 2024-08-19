@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-160407"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2023-11-15"
+last_updated: "2024-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160407&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
 
 Ley publicada en el No. 70 del Periódico Oficial del Estado de Querétaro, el viernes 30 de septiembre de 2022.
 
@@ -116,6 +116,10 @@ Las relaciones laborales de las personas servidoras públicas del Poder Judicial
 En el Poder Judicial, tendrán el carácter de personas trabajadoras de confianza, las comprendidas dentro del servicio judicial de carrera, titulares de las áreas de apoyo a la función jurisdiccional y de las áreas administrativas, así como personal de Presidencia y del Consejo de la Judicatura, además de los señalados en las leyes de la materia.
 
 Meritorios, prestadores de servicio social y practicantes profesionales, no son personas trabajadoras del Poder Judicial; podrán prestar su apoyo al mismo en términos de los Lineamientos que al efecto emita el Consejo de la Judicatura.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+Los servidores públicos del Poder Judicial, así como los meritorios, prestadores de servicio social y practicantes, guían su actuar con base en el Código de Ética y Código de Conducta, ambos de las Personas Servidoras Públicas del Poder Judicial, cuya aplicación está a cargo del Comité de Ética.
 
 ###### Artículo 10.
 
@@ -327,13 +331,59 @@ VII. Las demás que se contrapongan a los fines y objeto del Observatorio Ciudad
 
 El incumplimiento a cualquiera de las obligaciones señaladas en esta Ley y demás normativa aplicable en la materia, será motivo de revocación del cargo, la cual será determinada por el Pleno del Tribunal.
 
-### Capítulo Único. Composición del Gobierno Judicial
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE AGOSTO DE 2024)</small>
+
+### Capítulo VI. Sistema Institucional de Archivos
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+###### Artículo 36 Bis.
+
+El Poder Judicial contará con un Sistema Institucional de Archivos, cuya función y operación será en términos de la Ley General de Archivos, Ley de Archivos del Estado de Querétaro y demás normativa aplicable.
+
+Estará a cargo del titular del Área Coordinadora de Archivos, que tendrá fe pública para certificar las copias de los documentos relacionados con su función, sin perjuicio de la competencia legal de otras autoridades en ese rubro.
+
+El Sistema Institucional de Archivos del Poder Judicial se integra de la forma siguiente:
+
+I. Área Coordinadora, a cargo del responsable del Archivo General del Poder Judicial;
+
+II. Áreas Operativas:
+
+a. De correspondencia: Se integra por las oficialías de partes y unidades de recepción de documentos de cada una de las áreas del Poder Judicial;
+
+b. Archivo de trámite por área o unidad: Los responsables de los archivos de trámite de cada órgano jurisdiccional, área de apoyo o administrativa.
+
+c. Archivo de concentración: El responsable del archivo de concentración.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+###### Artículo 36 Ter.
+
+El Grupo Interdisciplinario se integra por los titulares de las áreas siguientes:
+
+1. Área Coordinadora de Archivos.
+
+2. Un integrante del Consejo de la Judicatura, como representante de las áreas gestoras de la información jurisdiccional.
+
+3. Oficial Mayor, como representante de las áreas de apoyo a la función jurisdiccional y de las áreas administrativas.
+
+4. Dirección de Finanzas.
+
+5. Dirección de Contraloría Interna.
+
+6. Visitaduría Judicial.
+
+7. Dirección Jurídica.
+
+8. Dirección de Tecnologías de la Información.
+
+9. Unidad de Transparencia.
 
 ## Título Segundo. Gobierno Judicial
 
 #### Sección Primera. Disposiciones Iniciales
 
-### Capítulo I. Del Pleno
+### Capítulo Único. Composición del Gobierno Judicial
 
 ###### Artículo 37.
 
@@ -351,7 +401,7 @@ La primera instancia, juzgados uni-instanciales, áreas de apoyo a la función j
 
 #### Sección Segunda. Tribunal Superior de Justicia
 
-### Capítulo II. Presidente del Poder Judicial
+### Capítulo I. Del Pleno
 
 ###### Artículo 40.
 
@@ -415,7 +465,9 @@ XXII. Aprobar, en el ámbito de su competencia, el proyecto del presupuesto anua
 
 XXIII. Supervisar el funcionamiento de las salas y demás áreas del Tribunal;
 
-XXIV. Conocer, aprobar y dirimir las contradicciones de criterios que surjan entre las salas de la misma materia, con motivo de la interpretación de las disposiciones legales, aplicables a los casos competencia del Poder Judicial, en los términos que establece esta Ley, siempre y cuando no se opongan a la jurisprudencia obligatoria;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XXIV. Conocer, aprobar y dirimir las contradicciones de criterios que surjan entre los jueces o entre los magistrados, de la misma materia, con motivo de la interpretación de las disposiciones legales, aplicables a los casos competencia del Poder Judicial, así como aprobar la jurisprudencia local en los términos que establezca su reglamento, siempre y cuando no se opongan a la jurisprudencia obligatoria;
 
 XXV. Revisar y, en su caso, revocar los acuerdos que emita el Consejo de la Judicatura, por mayoría absoluta, en los casos y términos que esta misma Ley establece, siempre y cuando no se trate del funcionamiento administrativo;
 
@@ -443,7 +495,7 @@ Las resoluciones del Pleno se tomarán por unanimidad o mayoría de votos de los
 
 En caso de empate, el asunto volverá a ser discutido en la misma sesión o en la inmediata posterior y se resolverá en los términos antes establecidos; de continuar el empate, el Presidente decidirá, mediante voto de calidad, por cualquiera de las posturas, bajo su más estricta responsabilidad, fundando y motivando su determinación.
 
-### Capítulo III. Salas
+### Capítulo II. Presidente del Poder Judicial
 
 ###### Artículo 45.
 
@@ -507,7 +559,9 @@ XXIV. Ordenar visitas a los juzgados del Poder Judicial y secretarías de acuerd
 
 XXV. Vigilar el cumplimiento de las garantías jurisdiccionales de autonomía, independencia, imparcialidad y libertad para juzgar;
 
-XXVI. Efectuar la rendición de la cuenta pública a la Entidad Superior de Fiscalización del Estado, previa autorización de su envío que haga el Pleno y el Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XXVI. Efectuar la rendición de la cuenta pública a las autoridades competentes y contar con la autorización del Pleno y Consejo de la Judicatura para su envío;
 
 XXVII. Designar a los servidores públicos del Tribunal, que no sean competencia del Pleno;
 
@@ -545,7 +599,7 @@ III. Firmar los acuerdos que no admitan demora; y,
 
 IV. Las demás establecidas en la normatividad aplicable.
 
-### Capítulo IV. Magistrados
+### Capítulo III. Salas
 
 ###### Artículo 49.
 
@@ -613,9 +667,9 @@ Las Salas resolverán colegiadamente lo siguiente:
 
 I. Las resoluciones definitivas de la competencia de las Salas Civil y Familiar; y,
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
 
-II. Las sentencias competencia de la Sala Penal, el reconocimiento de inocencia y anulación de sentencia.
+II. Los asuntos competencia de la Sala Penal que se conozcan en ejercicio de la facultad de atracción en términos del último párrafo de este numeral.
 
 Los asuntos de competencia de las Salas que no se ajusten a lo establecido por las dos fracciones del presente artículo, podrán ser resueltos unitariamente.
 
@@ -653,7 +707,7 @@ VI. Autorizar la expedición de copias certificadas de los asuntos tramitados an
 
 VII. Los demás asuntos que les confiera esta Ley y otras disposiciones aplicables.
 
-### Capítulo V. Secretarios de Acuerdos, Auxiliares, Proyectistas y Actuarios del Tribunal
+### Capítulo IV. Magistrados
 
 ###### Artículo 61.
 
@@ -711,7 +765,7 @@ Cuando los Magistrados supernumerarios integren Sala por falta temporal o defini
 
 Cuando un Magistrado supernumerario tenga impedimento, se excuse o sea recusado, conocerá del asunto, el supernumerario que le siga en turno.
 
-### Capítulo VI. Contradicción de criterios
+### Capítulo V. Secretarios de Acuerdos, Auxiliares, Proyectistas y Actuarios del Tribunal
 
 ###### Artículo 70.
 
@@ -837,7 +891,7 @@ IV. Capturar de manera veraz y oportuna en los programas o sistemas informático
 
 V. Las demás que señale esta Ley y otras disposiciones aplicables.
 
-### Capítulo VII. Excitativas de Justicia
+### Capítulo VI. Contradicción de criterios
 
 ###### Artículo 77.
 
@@ -849,7 +903,7 @@ II. En caso de contradicción de criterios de jueces, la mayoría simple de ést
 
 III. Los criterios adoptados son de observancia obligatoria para los servidores públicos del Poder Judicial; se publicarán en el Periódico Oficial y se difundirán en la página electrónica oficial del Poder Judicial, para su observancia general.
 
-### Capítulo I. De los juzgados en general
+### Capítulo VII. Excitativas de Justicia
 
 ###### Artículo 78.
 
@@ -879,7 +933,7 @@ Cuando a juicio de quien resuelva haya mediado motivo racional e insuperable par
 
 #### Sección Tercera. Juzgados de Primera Instancia y Uni-instanciales
 
-### Capítulo II. Sistema Penal Acusatorio y Oral
+### Capítulo I. De los juzgados en general
 
 ###### Artículo 83.
 
@@ -1025,9 +1079,15 @@ XI. De toda clase de medidas de protección en materia familiar;
 
 XII. De la diligenciación de despachos, exhortos, requisitorias, cartas rogatorias o cualquier otro medio de comunicación procesal, relacionados con los asuntos de su competencia, en los términos previstos en las leyes adjetivas;
 
-XIII. De las cuestiones relativas a los asuntos que afecten en sus derechos de persona a los niños, niñas, adolescentes, personas con discapacidad, adultas mayores y, en general, de todas las cuestiones familiares que reclamen la intervención judicial; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
 
-XIV. Los demás asuntos que señale esta Ley y otras disposiciones aplicables.
+XIII. De las cuestiones relativas a los asuntos que afecten en sus derechos de persona a los niños, niñas, adolescentes, personas con discapacidad, adultas mayores y, en general, de todas las cuestiones familiares que reclamen la intervención judicial;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XIV. De las inscripciones, anotaciones y actualización en el Registro Nacional de Obligaciones Alimentarias, de oficio o a petición de parte y dentro de su ámbito de competencia, de conformidad con las disposiciones jurídicas aplicables, y;
+
+XV. Los demás asuntos que señale esta Ley y otras disposiciones aplicables.
 
 En los distritos judiciales donde no exista juzgado familiar, los asuntos mencionados en este artículo serán competencia de los juzgados civiles o mixtos de primera instancia.
 
@@ -1103,9 +1163,11 @@ Desempeñarán su función mientras no lleguen a la edad de setenta años o el p
 
 Los jueces gozarán de independencia en el ejercicio de sus funciones y percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 101.
 
-Para ser Juez de primera instancia, laboral o menor, se requiere:
+Para ser juez de primera instancia o laboral, se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -1120,6 +1182,10 @@ V. No estar inhabilitado como servidor público;
 VI. Tener carrera judicial de cuando menos diez años y ser vencedor o estar en lista de reserva, en los términos y requisitos de la convocatoria que expida el Consejo de la Judicatura; y
 
 VII. Ser de reconocida honradez y honestidad.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+Para ser juez menor se requiere tener 30 años de edad al día de la designación; carrera judicial de cuando menos 5 años y cumplir con los demás requisitos anteriores.
 
 ###### Artículo 102.
 
@@ -1173,13 +1239,17 @@ Para ser Secretario de Acuerdos, Secretario Proyectista, o Secretario Auxiliar, 
 
 I. Ser mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener título de Licenciado en Derecho y cédula profesional expedidos legalmente;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+II. Tener título de Licenciado en Derecho y cédula profesional expedidos legalmente, con tres años de antigüedad a partir de la obtención de la cédula;
 
 III. Ser de notoria buena conducta, honradez y honestidad;
 
 IV. Contar con carrera judicial, realizar concurso interno de oposición, curso o examen, según corresponda, y cumplir con los requisitos de la convocatoria que expida el Consejo de la Judicatura; y
 
-V. El Secretario de Acuerdos y Secretario Proyectista tanto de Primera Instancia como de Juzgado Menor, requieren contar con dos años de carrera judicial cuando menos.
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+V. El Secretario de Acuerdos y Secretario Proyectista de Primera Instancia, requieren contar con cinco años de carrera judicial y tres años cuando menos, en las categorías que determine el Reglamento de Carrera Judicial.
 
 ###### Artículo 107.
 
@@ -1187,7 +1257,9 @@ Para ser Actuario de Primera Instancia, de Juzgado Menor y Notificador se requie
 
 I. Ser mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-II. Tener título de Licenciado en Derecho y cédula profesional expedidos legalmente, con dos años de práctica profesional, cuando menos, contados a partir de la obtención de dicho título;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+II. Tener título de Licenciado en Derecho y cédula profesional expedidos legalmente, con dos años de antigüedad a partir de la obtención de la cédula;
 
 III. Tener carrera judicial y haber satisfecho los requisitos de la convocatoria que expida el Consejo de la Judicatura;
 
@@ -1295,7 +1367,7 @@ V. Procurar la conciliación en toda controversia civil, mercantil o familiar; y
 
 VI. Las que establezca la presente Ley y las demás disposiciones aplicables.
 
-### Capítulo III. Sistema Oral Laboral
+### Capítulo II. Sistema Penal Acusatorio y Oral
 
 ###### Artículo 113.
 
@@ -1553,15 +1625,17 @@ La Sala Penal del Tribunal, contará con el personal auxiliar necesario para el 
 
 Deberá contar con un sistema de gestión judicial administrativa separado del sistema tradicional de asignación de tocas.
 
-### Capítulo I. Integración y funcionamiento
+### Capítulo III. Sistema Oral Laboral
 
 ###### Artículo 128.
 
 Los juzgados laborales conocerán de los conflictos surgidos de las relaciones de trabajo comprendidas en el artículo 123, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos, que no sean competencia de los Órganos Jurisdiccionales federales. Funcionarán en un sistema de gestión judicial administrativa, a través de las unidades que determine el Consejo de la Judicatura.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 129.
 
-La materia laboral será conocida por los juzgados laborales que determine el Consejo de la Judicatura, los que estarán a cargo de un Juez Laboral y contarán con el personal que determine la Ley y el que resulte necesario para su adecuado funcionamiento.
+La materia laboral será conocida por los juzgados laborales que determine el Consejo de la Judicatura, los que estarán a cargo de un juez y contarán con secretario instructor, auxiliar jurídico, acordistas y demás personal necesario para su adecuado funcionamiento.
 
 ###### Artículo 130.
 
@@ -1587,9 +1661,11 @@ VIII. Ejercer las demás atribuciones que esta Ley y otros ordenamientos jurídi
 
 Cada juzgado contará con los secretarios instructores que el Consejo de la Judicatura determine convenientes y designará de entre ellos a quien deba fungir como Coordinador de gestión judicial administrativa de manera rotativa.
 
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 132.
 
-Los secretarios instructores tendrán fe pública en todo lo relativo al ejercicio de su cargo.
+Los secretarios instructores tendrán fe pública en todo lo relativo al ejercicio de su cargo. Serán suplidos en sus ausencias por el auxiliar jurídico.
 
 ###### Artículo 133.
 
@@ -1671,7 +1747,7 @@ IX. Las demás que señale la ley, el Consejo de la Judicatura y su Presidente.
 
 #### Sección Cuarta. Consejo de la Judicatura
 
-### Capítulo II. Facultades
+### Capítulo I. Integración y funcionamiento
 
 ###### Artículo 136.
 
@@ -1703,13 +1779,15 @@ Una vez designados los Consejeros de la Judicatura, rendirán protesta de ley, a
 
 Los integrantes del Consejo de la Judicatura durarán en su encargo cuatro años, con excepción de su Presidente, quien permanecerá en su encargo mientras ostente también el de Presidente del Poder Judicial, y no podrán ser designados para el mismo cargo. Deberán reunir los requisitos y ser electos en los términos que establece el artículo 30 de la Constitución local.
 
-El Consejo de la Judicatura será auxiliado por el Secretario Técnico designado por el propio Consejo, quien deberá reunir los mismos requisitos que el Secretario de Acuerdos del Pleno y del Presidente.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+El Consejo de la Judicatura funcionará ante un Secretario Técnico designado por el propio Consejo, quien deberá reunir los mismos requisitos que el Secretario de Acuerdos del Pleno y del Presidente. De igual forma, el Consejo contará con auxiliares de acuerdo con las necesidades del servicio y suficiencia presupuestaria.
 
 ###### Artículo 139.
 
 El Pleno seleccionará a los Consejeros de la Judicatura que representen a los jueces y a los magistrados, de una terna que le presente el Presidente, y cumplan con los requisitos de ley. Dicho procedimiento se llevará a cabo en términos del Reglamento.
 
-### Capítulo III. Sesiones
+### Capítulo II. Facultades
 
 ###### Artículo 140.
 
@@ -1853,7 +1931,7 @@ XIV. Las demás que le otorguen esta Ley y la normatividad aplicable.
 
 El Consejo de la Judicatura funcionará en Pleno o en Comisiones y será auxiliado por el Secretario Técnico, con fe pública sobre las actuaciones de aquél.
 
-### Capítulo IV. Comisiones
+### Capítulo III. Sesiones
 
 ###### Artículo 143.
 
@@ -1903,7 +1981,7 @@ XI. Las demás que determine el Pleno del Consejo de la Judicatura, sus Comision
 
 El Consejo de la Judicatura contará con una Oficina encargada de la Defensa Oficiosa de los Servidores Públicos sujetos a procedimientos de responsabilidad administrativa que no designen o cuenten con un defensor particular.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo IV. Comisiones
 
 ###### Artículo 147.
 
@@ -1937,7 +2015,7 @@ En todos aquellos casos en los que no fuere posible la resolución de un asunto 
 
 #### Sección Quinta. Áreas de Apoyo a la Función Jurisdiccional
 
-### Capítulo II. Oficialía de Partes
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 151.
 
@@ -1951,7 +2029,9 @@ III. Dirección de Orientación y Servicio a la Ciudadanía;
 
 IV. Coordinación de Actuarios;
 
-V. Coordinación de Peritos;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+V. Coordinación de Peritos y Auxiliares de la Administración de Justicia;
 
 VI. Dirección de Psicología; y
 
@@ -1981,7 +2061,7 @@ V. Ser de reconocida honradez y rectitud.
 
 El Poder Judicial podrá contar con oficinas de las áreas de apoyo a la función jurisdiccional en los distritos judiciales que determine el Consejo de la Judicatura, de acuerdo a las necesidades del servicio y a la suficiencia presupuestal del Poder Judicial.
 
-### Capítulo III. Oficina Central de Consignaciones
+### Capítulo II. Oficialía de Partes
 
 ###### Artículo 154.
 
@@ -2019,7 +2099,7 @@ En los Distritos Judiciales donde no exista Oficialía de Partes, todos los escr
 
 En horas inhábiles las promociones y escritos cuya presentación deba realizarse dentro del término con que cuente para tal efecto y que su falta de presentación en tiempo genere consecuencias irreparables al promovente o le cause la pérdida de un derecho, serán recibidas en el domicilio que precise el órgano jurisdiccional, para lo cual deberá colocar un aviso visible durante el día que contenga los datos de la persona servidora pública encargada de ello.
 
-### Capítulo IV. Dirección de Orientación y Servicio a la Ciudadanía
+### Capítulo III. Oficina Central de Consignaciones
 
 ###### Artículo 157.
 
@@ -2053,7 +2133,7 @@ X. Capturar de manera veraz y oportuna en los programas o sistemas informáticos
 
 XI. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-### Capítulo V. Coordinación General de Actuarios
+### Capítulo IV. Dirección de Orientación y Servicio a la Ciudadanía
 
 ###### Artículo 159.
 
@@ -2073,7 +2153,7 @@ VI. Capturar de manera veraz y oportuna en los programas o sistemas informático
 
 VII. Las demás relacionadas con su ramo que le encomienden el Pleno, el Consejo de la Judicatura y el Presidente.
 
-### Capítulo VI. Coordinación de Peritos
+### Capítulo V. Coordinación General de Actuarios
 
 ###### Artículo 160.
 
@@ -2089,25 +2169,35 @@ IV. Capturar de manera veraz y oportuna en los programas o sistemas informático
 
 V. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-### Capítulo VII. Dirección de Psicología
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE AGOSTO DE 2024)</small>
+
+### Capítulo VI. Coordinación de Peritos y Auxiliares de la Administración de Justicia
+
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 161.
 
-La Coordinación de Peritos es el área de apoyo a la función jurisdiccional, en todo lo relativo a la asistencia y registro de peritos. Le corresponde:
+La Coordinación de Peritos y Auxiliares de la Administración de Justicia, es el área de apoyo a la función jurisdiccional, en todo lo relativo al registro e intervención de peritos, árbitros, interventores, albaceas, depositarios y demás auxiliares de la administración de justicia. Le corresponde:
 
-I. Administrar y actualizar el Registro de Peritos Auxiliares del Poder Judicial, cuya inscripción autorice el Consejo de la Judicatura;
+I. Administrar y actualizar los registros de peritos y de auxiliares de la administración de justicia, cuya inscripción autorice el Consejo de la Judicatura de acuerdo al proceso de selección;
 
-II. Auxiliar al Consejo de la Judicatura en todo lo relativo al procedimiento para la designación de peritos auxiliares de la administración de justicia;
+II. Auxiliar al Consejo de la Judicatura en lo relativo al procedimiento para la designación de peritos y de auxiliares de la administración de justicia;
 
-III. Llamar al perito auxiliar que soliciten los jueces;
+III. Llamar al perito o al auxiliar de la administración de justicia que soliciten los jueces y realizar las notificaciones que sean necesarias, para lo cual, tendrá fe pública;
 
-IV. Recibir quejas y substanciar los procedimientos de denuncia en contra de los peritos que forman parte del Padrón de Peritos que funjan como auxiliares de los jueces;
+IV. Presentar para su autorización al Consejo de la Judicatura, el monto del pago de honorarios a peritos cuya percepción deba ser cubierta por el Poder Judicial, en términos de las leyes y reglamento aplicables;
 
-V. Capturar de manera veraz y oportuna en los programas o sistemas informáticos implementados por la Dirección de Tecnologías de la Información, los datos estadísticos mensuales; y
+V. Auxiliar al Consejo de la Judicatura en el desarrollo de las funciones que le correspondan, relacionadas con la plataforma digital del Sistema Nacional de Información Jurisdiccional, por lo que respecta al apartado de las direcciones de correo electrónico de los peritos y auxiliares de la administración de justicia;
 
-VI. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
+VI. Recibir las denuncias y substanciar el procedimiento respectivo en contra de los peritos y auxiliares de la administración de justicia inscritos en el registro correspondiente, que funjan como auxiliares de los jueces;
 
-### Capítulo VIII. Centro de Justicia Alternativa
+VII. Capturar de manera veraz y oportuna en los programas o sistemas informáticos implementados por la Dirección de Tecnologías de la Información, los datos estadísticos mensuales; y
+
+VIII. Las demás que le confiera la presente Ley y otras disposiciones jurídicas aplicables.
+
+La persona titular de la Coordinación de Peritos y Auxiliares de la Administración de Justicia, tendrá fe pública en lo relacionado a los actos que realice en cumplimiento de sus funciones.
+
+### Capítulo VII. Dirección de Psicología
 
 ###### Artículo 162.
 
@@ -2125,7 +2215,7 @@ V. Las demás que le confieran esta Ley y otros ordenamientos legales.
 
 La persona titular de esta Dirección, tendrá a su cargo el Centro de Convivencias Familiares, el cual se regirá por el Reglamento y los lineamientos que apruebe el Consejo de la Judicatura.
 
-### Capítulo I. Disposiciones Generales
+### Capítulo VIII. Centro de Justicia Alternativa
 
 ###### Artículo 163.
 
@@ -2149,7 +2239,7 @@ VIII. Las demás que le confiera esta Ley y demás disposiciones jurídicas apli
 
 #### Sección Sexta. Áreas Administrativas
 
-### Capítulo II. Oficialía Mayor
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 164.
 
@@ -2175,7 +2265,15 @@ VIII. Unidad de Transparencia y Acceso a la Información Pública; y,
 
 IX. Unidad de Derechos Humanos e Igualdad de Género.
 
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+Dichas áreas estarán bajo la supervisión directa del Presidente, quien coordinará sus funciones y operatividad.
+
 La estructura y funcionamiento de cada área administrativa estará a lo dispuesto en esta Ley, los reglamentos respectivos y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+Los manuales administrativos serán expedidos y aprobados por el Consejo de la Judicatura.
 
 El Pleno y el Consejo de la Judicatura, en el ámbito de sus respectivas competencias, analizarán y aprobarán, en su caso, las políticas y los programas que les proponga el área administrativa de que se trate, para el debido cumplimiento de sus funciones y actividades.
 
@@ -2191,7 +2289,7 @@ III. Tener experiencia o práctica profesional no menor de tres años, de prefer
 
 IV. No estar inhabilitado para desempeñarse en el servicio público.
 
-### Capítulo III. Dirección de Contraloría Interna
+### Capítulo II. Oficialía Mayor
 
 ###### Artículo 166.
 
@@ -2235,7 +2333,9 @@ XV. Organizar, dirigir y controlar la correspondencia para los órganos jurisdic
 
 XVI. Adoptar las providencias necesarias para el eficiente manejo administrativo del Poder Judicial;
 
-XVII. Proponer al Pleno y al Consejo de la Judicatura, en el ámbito de sus respectivas competencias, los acuerdos relativos a la suscripción de contratos, convenios, acuerdos, políticas y lineamientos concernientes al ejercicio de sus atribuciones, de conformidad con las disposiciones aplicables y previo dictamen de la Dirección Jurídica;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XVII. Proponer al Pleno y al Consejo de la Judicatura, en el ámbito de sus respectivas competencias, los acuerdos relativos a la suscripción de contratos, convenios, acuerdos, políticas y lineamientos concernientes al ejercicio de sus atribuciones, de conformidad con las disposiciones aplicables y previo dictamen de la Dirección Jurídica en los términos que se especifique (sic) en el Reglamento o el manual de procedimientos respectivo;
 
 XVIII. Realizar la vigilancia, organización y funcionamiento del servicio social y prácticas profesionales, que se desarrollen en todas las áreas del Poder Judicial, en los términos de las disposiciones aplicables;
 
@@ -2251,7 +2351,7 @@ XXIII. Llevar el procedimiento de peticiones de jubilaciones y pensiones que rea
 
 XXIV. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-### Capítulo IV. Dirección de Finanzas
+### Capítulo III. Dirección de Contraloría Interna
 
 ###### Artículo 168.
 
@@ -2299,7 +2399,7 @@ Los procedimientos que realice esta Dirección, en cumplimiento de sus funciones
 
 La Dirección de Contraloría Interna, con autorización expresa del Consejo de la Judicatura, podrá contratar los servicios profesionales de despachos privados de contabilidad, auditoría y fiscalización para coadyuvar en el cumplimiento de sus tareas o para encomendarles en forma integral alguna o algunas acciones de la competencia de la propia Dirección. En este caso, se establecerá por escrito el carácter confidencial de las diligencias y sus resultados deberán informarse al Consejo de la Judicatura.
 
-### Capítulo V. Dirección Jurídica
+### Capítulo IV. Dirección de Finanzas
 
 ###### Artículo 171.
 
@@ -2311,7 +2411,9 @@ La Dirección de Finanzas tiene las funciones específicas siguientes:
 
 I. Coadyuvar en la elaboración del anteproyecto del presupuesto de egresos del Poder Judicial;
 
-II. Llevar el ejercicio, control y manejo del presupuesto, bajo los lineamientos que dicte el Consejo de la Judicatura y el Pleno, en el ámbito de sus competencias; así como de lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+II. Llevar el ejercicio, control y manejo del presupuesto, bajo los lineamientos que dicte el Consejo de la Judicatura y el Pleno, en el ámbito de sus competencias; así como de lo dispuesto en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y suscribir conjuntamente con quien corresponda, los convenios, contratos y demás actos jurídicos en los que se comprometan los recursos públicos del Poder Judicial;
 
 III. Realizar el registro contable y presupuestario de las operaciones derivadas de la actividad económica para generar los estados y la información financiera del Poder Judicial, de conformidad con lo establecido en la Ley General de Contabilidad Gubernamental; así como su publicación en términos de la normatividad aplicable;
 
@@ -2335,7 +2437,7 @@ XII. Actualizar la página electrónica del Poder Judicial en la información co
 
 XIII. Las demás que le confieran la presente Ley y otras disposiciones aplicables.
 
-### Capítulo VI. Visitaduría Judicial
+### Capítulo V. Dirección Jurídica
 
 ###### Artículo 173.
 
@@ -2365,7 +2467,7 @@ IX. Actualizar la página electrónica del Poder Judicial en la información cor
 
 X. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-### Capítulo VII. Instituto de Especialización Judicial
+### Capítulo VI. Visitaduría Judicial
 
 ###### Artículo 175.
 
@@ -2391,7 +2493,7 @@ VII. Actualizar la página electrónica del Poder Judicial en la información co
 
 VIII. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-### Capítulo VIII. Dirección de Tecnologías de la Información
+### Capítulo VII. Instituto de Especialización Judicial
 
 ###### Artículo 177.
 
@@ -2435,7 +2537,7 @@ XII. Actualizar la página electrónica del Poder Judicial en la información co
 
 XIII. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-### Capítulo IX. Unidad de Transparencia y Acceso a la Información Pública
+### Capítulo VIII. Dirección de Tecnologías de la Información
 
 ###### Artículo 180.
 
@@ -2479,7 +2581,7 @@ XV. Actualizar la página electrónica del Poder Judicial en la información cor
 
 XVI. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
-### Capítulo X. Unidad de Derechos Humanos e Igualdad de Género
+### Capítulo IX. Unidad de Transparencia y Acceso a la Información Pública
 
 ###### Artículo 182.
 
@@ -2511,7 +2613,7 @@ XII. Actualizar la página electrónica del Poder Judicial, en la información c
 
 XIII. Las demás establecidas por las leyes aplicables en la materia.
 
-### Capítulo I. Disposiciones iniciales
+### Capítulo X. Unidad de Derechos Humanos e Igualdad de Género
 
 ###### Artículo 183.
 
@@ -2571,9 +2673,17 @@ VIII. Secretario de Acuerdos de Juzgado Menor y Secretario Proyectista de Juzgad
 
 IX. Secretario de Atención al Público, Secretario Administrativo, Secretario Auxiliar de Acuerdos, Auxiliar de Audiencias, Auxiliar de Causas, Auxiliar de Salas, Auxiliar de Actas;
 
-X. Secretaria Ejecutiva “A”, Secretaria Ejecutiva “B”, Secretaria de Proyectista de Segunda Instancia, Acordista de Primera y de Segunda Instancia; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
 
-XI. Secretaria de juzgado menor.
+X. Secretaria Ejecutiva “A”, “B” y “C”, Secretaria de Proyectista de Segunda Instancia, Acordista de Primera y de Segunda Instancia, así como de Juzgado Menor;
+
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XI. Secretaria de juzgado menor; y
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XII. Archivista.
 
 ###### Artículo 186.
 
@@ -2591,7 +2701,9 @@ Para acceder a las categorías de Secretario Auxiliar de Segunda Instancia, Auxi
 
 Para las categorías de Secretario de Acuerdos del Pleno, Secretario Técnico del Consejo, Secretario Proyectista de Segunda Instancia, Secretario de Acuerdos de Salas de Segunda Instancia y coordinador de gestión judicial administrativa, no se requiere concurso por oposición, pero además de reunir los requisitos para cada cargo, deberán tener carrera judicial de cuando menos 5 años.
 
-Para acceder al resto de las categorías de la carrera judicial, se requerirá de la aprobación de un examen de aptitudes y de conocimientos, diseñado por el Instituto de Especialización Judicial y aprobados por el Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+Para acceder al resto de las categorías de la carrera judicial, se requerirá de la aprobación de un examen de conocimientos, diseñado por el Instituto de Especialización Judicial y aprobado por el Consejo de la Judicatura.
 
 El Reglamento de Carrera Judicial, regulará lo relativo a los concursos por oposición, debiendo ser en el caso de jueces, exclusivamente para una materia y garantizando en todos los casos la transparencia en el proceso de selección de que se trate, utilizando las tecnologías de la información.
 
@@ -2605,7 +2717,7 @@ En caso de presentarse cualquier situación no prevista en esta Ley, en la convo
 
 #### Sección Primera. Responsabilidad de las Personas Servidores Públicos del Poder Judicial
 
-### Capítulo II. Faltas
+### Capítulo I. Disposiciones iniciales
 
 ###### Artículo 190.
 
@@ -2701,7 +2813,7 @@ La autoridad investigadora, sustanciadora o resolutora, comunicará al Pleno, po
 
 Los particulares podrán incurrir en responsabilidad si cometen las conductas previstas en los Capítulos III y IV del Título Tercero, del Libro Primero de la Ley General de Responsabilidades Administrativas, siempre que se encuentren vinculadas con las funciones del Poder Judicial.
 
-### Capítulo III. Sanciones
+### Capítulo II. Faltas
 
 ###### Artículo 201.
 
@@ -2757,9 +2869,15 @@ III. Alterar o modificar actuaciones judiciales una vez publicado el acuerdo;
 
 IV. Revocar sus propios acuerdos o resoluciones, sin mediar recurso legal de alguna de las partes litigantes o que esté previsto en la ley;
 
-V. Conculcar las formalidades del procedimiento; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
 
-VI. Generar injustificadamente rezago, atendiendo a los indicadores de gestión.
+V. Conculcar las formalidades del procedimiento;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+VI. Recibir a una de las partes de un procedimiento, fuera de audiencia, en tratándose del sistema penal acusatorio y oral; y
+
+VII. Generar injustificadamente rezago, atendiendo a los indicadores de gestión.
 
 ###### Artículo 204.
 
@@ -2785,7 +2903,9 @@ II. Retardar indebida o maliciosamente las notificaciones, emplazamientos, embar
 
 III. Dar preferencia a alguno o algunos de los litigantes en perjuicio de otros;
 
-IV. Hacer constar hechos falsos en las constancias y cédulas de notificaciones;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+IV. Hacer constar hechos falsos, alterarlos u omitir aquellos relacionados con la naturaleza de la diligencia, en las constancias o cédulas de notificación;
 
 V. Practicar diligencias en contra de persona o corporación que no sea la designada en el auto que lo ordene o cuando en el momento de la diligencia o antes de retirarse el Actuario, se le demuestre que esos bienes son ajenos; en todo caso, deberá agregar a los autos la documentación que se le presente, a efecto de dar cuenta a la autoridad que hubiere ordenado la diligencia;
 
@@ -2801,13 +2921,13 @@ Son faltas graves las contenidas en el catálogo respectivo de la Ley General de
 
 Las faltas oficiales específicas del Presidente del Poder Judicial, Magistrados, Jueces, Secretarios de Acuerdos, Coordinadores de Gestión y Actuarios, serán consideradas faltas administrativas no graves en términos de las disposiciones aplicables.
 
-### Capítulo IV. Denuncias
+### Capítulo III. Sanciones
 
 ###### Artículo 207.
 
 Se aplicarán las sanciones previstas por la Ley General de Responsabilidades Administrativas.
 
-### Capítulo V. Investigación
+### Capítulo IV. Denuncias
 
 ###### Artículo 208.
 
@@ -2833,7 +2953,11 @@ La denuncia se tendrá por no presentada cuando la persona denunciante no haya d
 
 Cuando con motivo de los asuntos que sean sometidos a su conocimiento, los magistrados de las salas del Tribunal, si funcionan unitariamente o las propias salas, en asuntos de resolución colegiada, adviertan una notoria ineptitud o descuido en los actos o resoluciones de los órganos jurisdiccionales de que se trate, lo harán constar de manera expresa en documento diverso a la sentencia, en el que señalarán puntualmente las razones de dicha ineptitud o descuido, debiendo remitir tal denuncia a la autoridad investigadora competente.
 
-### Capítulo VI. Substanciación, resolución y medios de defensa
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+Si derivado del resultado de las visitas de inspección realizadas por Visitaduría Judicial o de las auditorías practicadas por la Dirección de Contraloría o a instancia de autoridad competente, se advierte la posible comisión de faltas administrativas, el Pleno, el Presidente o el Consejo, según corresponda, ordenarán el inicio de la investigación, mediante instrucción escrita presentada ante la Oficialía de Partes de Segunda Instancia.
+
+### Capítulo V. Investigación
 
 ###### Artículo 211.
 
@@ -2852,6 +2976,8 @@ El Pleno o el Consejo de la Judicatura, podrán instar oficiosamente el inicio d
 Las autoridades investigadoras designarán de entre su personal, a un asistente para que lo auxilie en sus funciones y comunicarán su designación al Presidente.
 
 El auxiliar así designado tiene fe pública en el desarrollo del procedimiento de investigación.
+
+### Capítulo VI. Substanciación, resolución y medios de defensa
 
 ###### Artículo 215.
 
@@ -2984,3 +3110,13 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 La reforma al artículo 58, fracción II, materia de la presente Ley, se aplicará a los recursos de apelación promovidos con posterioridad a la entrada en vigor de la misma.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Querétaro, “La Sombra de Arteaga”.
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
