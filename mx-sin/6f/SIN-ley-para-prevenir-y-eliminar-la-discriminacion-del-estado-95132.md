@@ -4,7 +4,7 @@ identifier: "SIN-ley-para-prevenir-y-eliminar-la-discriminacion-del-estado-95132
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-03"
-last_updated: "2023-10-04"
+last_updated: "2024-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 3 de julio de 2013.
 
@@ -129,7 +129,9 @@ XVI. Aplicar cualquier tipo de uso o costumbre que atente contra la dignidad e i
 
 XVII. Impedir la libre elección de cónyuge o pareja;
 
-XVIII. Ofender, ridiculizar o promover la violencia en los supuestos a que se refiere el Artículo 4° de esta Ley, a través de mensajes e imágenes en los medios de comunicación;
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XVIII. Ofender, ridiculizar o promover el odio y la violencia en los supuestos a que se refiere el Artículo 4° de esta Ley, a través de mensajes e imágenes en los medios de comunicación;
 
 XIX. Limitar la libre expresión de las ideas, creencias, conciencia o religión, o de prácticas o costumbres, siempre que éstas no atenten contra el orden público;
 
@@ -198,6 +200,10 @@ VIII. En general, todas las que no tengan el propósito o efecto de anular o men
 ###### ARTÍCULO 7°.
 
 El presente ordenamiento deberá ser acatado por los particulares y los servidores públicos de los poderes públicos estatales.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+Toda contravención a lo dispuesto en este artículo, se sancionará de conformidad con lo previsto en la Ley de Responsabilidades Administrativas del Estado de Sinaloa y demás normatividad aplicable.
 
 ###### ARTÍCULO 8°.
 
@@ -533,9 +539,19 @@ VIII. Establecer relaciones de coordinación con instituciones públicas federal
 
 IX. Coordinarse con las dependencias y entidades de la Administración Pública Estatal y Municipal y demás órganos públicos, con el propósito de que en los programas de gobierno, se prevean medidas positivas y compensatorias para cualquier persona o grupo;
 
-X. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales o internacionales en el ámbito de su competencia; y
+> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2024)</small>
 
-XI. Las demás establecidas en esta Ley y su Reglamento Interior.
+X. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales o internacionales en el ámbito de su competencia;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XI. Promover el derecho a la no discriminación mediante campañas de difusión y divulgación. Adicionalmente, se promoverá la prevención y erradicación del discurso de odio, en coordinación con las instituciones públicas, el sector privado y las organizaciones de la sociedad civil;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+XII. Elaborar, difundir y promover que en los medios de comunicación se incorporen contenidos orientados a prevenir y eliminar las prácticas discriminatorias y el discurso de odio; y
+
+XIII. Las demás establecidas en esta Ley y su Reglamento Interior.
 
 ###### ARTÍCULO 30.
 
@@ -666,3 +682,11 @@ P.O. 4 DE OCTUBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 698 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE SINALOA, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE SINALOA Y DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
