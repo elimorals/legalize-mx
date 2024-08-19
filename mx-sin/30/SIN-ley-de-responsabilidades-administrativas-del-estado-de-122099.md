@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-responsabilidades-administrativas-del-estado-de-122099"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-16"
-last_updated: "2023-08-11"
+last_updated: "2024-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 16 de junio de 2017.
 
@@ -153,9 +153,11 @@ IV. El monto de los honorarios que se cubran por su participación en los órgan
 
 Todos los entes públicos están obligados a crear y mantener condiciones estructurales y normativas que permitan el adecuado funcionamiento del Estado en su conjunto, y la actuación ética y responsable de cada servidor público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 7.
 
-Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:
+Los Servidores Públicos observarán en el desempeño de su empleo, cargo o comisión, los principios de transparencia, no discriminación, disciplina, legalidad, objetividad, profesionalismo, honradez, lealtad, imparcialidad, integridad, rendición de cuentas, eficacia y eficiencia que rigen el servicio público. Para la efectiva aplicación de dichos principios, los Servidores Públicos observarán las siguientes directrices:
 
 I. Actuar conforme a lo que las leyes, reglamentos y demás disposiciones jurídicas les atribuyen a su empleo, cargo o comisión, por lo que deben conocer y cumplir las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones;
 
@@ -508,6 +510,12 @@ I. Cumplir con las funciones, atribuciones y comisiones encomendadas, observando
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
 I Bis. Cuando esté dentro de sus facultades, cumplir con el principio de paridad de género en la realización de nombramientos de la estructura de mando dentro del servicio público de la entidad estatal o municipal de que se trate, así como al cubrirse alguna de sus vacantes;
+
+> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2024)</small>
+
+I Bis A. En el ejercicio de sus funciones, conducirse con respeto, libre de cualquier conducta discriminatoria u otra conexa de intolerancia, que tenga por objeto o resultado la negación, exclusión, distinción, menoscabo, impedimento o restricción de los derechos de las personas, grupos o comunidades.
+
+Así como evitar provocar o incitar, apoyar a difundir acciones o expresiones verbales o escritas de cualquier tipo, tendientes a denostar la dignidad de las personas basadas o motivadas en odio;
 
 II. Denunciar los actos u omisiones que en ejercicio de sus funciones llegare a advertir, que puedan constituir Faltas administrativas, en términos del artículo 93 de la presente Ley;
 
@@ -1968,3 +1976,11 @@ P.O. 11 DE AGOSTO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 698 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA, DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN DEL ESTADO DE SINALOA, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE SINALOA Y DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SINALOA”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
