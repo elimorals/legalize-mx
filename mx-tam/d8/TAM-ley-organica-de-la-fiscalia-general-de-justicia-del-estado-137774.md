@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2023-10-24"
+last_updated: "2024-08-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -585,9 +585,53 @@ XIX. Someter a la consideración del Fiscal General, el proyecto de rotación y 
 
 XX. Las demás que le otorguen la persona titular de la Fiscalía General, esta Ley, su Reglamento y diversas disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2024)</small>
 
-La persona titular de la Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos, tendrá a su cargo la Fiscalía Especializada en la Investigación de Alto Impacto, la Fiscalía Especializada en la Investigación a Violaciones de Derechos Humanos y las Unidades Especializadas necesarias para el desarrollo de sus funciones, de conformidad con la disponibilidad presupuestaria y atendiendo a lo previsto en el Reglamento de esta Ley y demás disposiciones legales aplicables.
+La persona titular de la Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos, tendrá a su cargo la Fiscalía Especializada en la Investigación de Alto Impacto, la Fiscalía Especializada en la Investigación de Violaciones a Derechos Humanos y las Unidades Especializadas necesarias para el desarrollo de sus funciones, de conformidad con la disponibilidad presupuestaria y atendiendo a lo previsto en el Reglamento de esta Ley y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2024)</small>
+
+Dentro de la estructura orgánica de la Vicefiscalía de Delitos de Alto Impacto y de Violaciones a Derechos Humanos, deberá integrarse la Fiscalía Especializada en la Investigación de los Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, la cual estará adscrita jerárquicamente a la Fiscalía Especializada en la Investigación de Violaciones a Derechos Humanos.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 19 DE AGOSTO DE 2024)</small>
+
+A la persona Titular de la Fiscalía Especializada en la Investigación de los Delitos de Tortura y Otros Tratos y Penas Crueles, Inhumanos o Degradantes, además de las previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos y Penas Crueles, Inhumanos o Degradantes, le corresponde el ejercicio de las siguientes atribuciones:
+
+I. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Especializada en la Investigación de los Delitos de Tortura y Otros Tratos y Penas Crueles, Inhumanos o Degradantes;
+
+II. Ejercer las atribuciones que la Constitución General, la Constitución del Estado, las leyes, reglamentos y demás disposiciones jurídicas confieren al Ministerio Público en lo relativo a los hechos que las leyes consideran como delitos de su competencia;
+
+III. Iniciar de manera inmediata la investigación por los delitos contenidos en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, así como delitos vinculados a estos;
+
+IV. Comenzar con la integración de la carpeta de investigación correspondiente, incluyendo las declaraciones del denunciante o Víctima alegada del delito y los testigos;
+
+V. Requerir la participación de las autoridades en materia de atención a Víctimas, en términos de las disposiciones aplicables;
+
+VI. Realizar el registro del hecho en el Registro Nacional del Delito de Tortura;
+
+VII. Ejecutar, supervisar y evaluar el Protocolo Homologado, así como los protocolos de actuación y para la investigación a que se refieren los artículos 60 y 61 de la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes;
+
+VIII. Informar a la persona denunciante de su derecho a contar con un asesor jurídico;
+
+IX. Solicitar a las autoridades competentes el resguardo del probable lugar de los hechos y solicitarán a los peritos su intervención para el procesamiento del mismo;
+
+X. Solicitar la intervención de peritos para que realicen el dictamen médico-psicológico correspondiente y los demás que se requieran;
+
+XI. Informar a la Víctima de su derecho a ofrecer un dictamen médico-psicológico elaborado por peritos independientes o, en su caso, por organismos públicos de protección de los derechos humanos cuando se emitan con motivo de quejas interpuestas ante los mismos;
+
+XII. Emitir las medidas de protección necesarias para resguardar la integridad de las Víctimas y testigos;
+
+XIII. Solicitar las medidas cautelares aplicables al imputado por los delitos previstos en esta Ley, de conformidad con la legislación aplicable;
+
+XIV. Notificar, en caso de que la Víctima sea una persona extranjera, a la autoridad competente del Estado y coadyuvar para garantizar el derecho a la asistencia consular;
+
+XV. Establecer mecanismos de cooperación con otras autoridades competentes para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
+
+XVI. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías Especializadas con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes y mantener actualizado el Registro Nacional del Delito de Tortura;
+
+XVII. Llevar a cabo el análisis de contextos y patrones sobre la comisión del delito de tortura y delitos vinculados, con base en los datos del Registro Nacional del Delito de Tortura y otra información disponible; y
+
+XVIII. Las demás que le sean encomendadas por sus superiores jerárquicos.
 
 ###### Artículo 21.
 
@@ -2684,3 +2728,11 @@ El Fiscal General de Justicia del Estado deberá proveer todos los recursos huma
 ###### ARTÍCULO SÉPTIMO.
 
 En un plazo de 15 días hábiles contados a partir de la entrada en vigor del presente Decreto, la Fiscalía General de Justicia del Estado, deberá reformar el Reglamento de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas, para armonizarlo con las presentes disposiciones.
+
+P.O. 19 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-884 MEDIANTE EL CUAL SE REFORMA EL PARRAFO TERCERO Y SE ADICIONAN LOS PÁRRAFOS CUARTO Y QUINTO, ÉSTE ÚLTIMO CON SUS FRACCIONES I A LA XVIII, AL ARTÍCULO 20 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
