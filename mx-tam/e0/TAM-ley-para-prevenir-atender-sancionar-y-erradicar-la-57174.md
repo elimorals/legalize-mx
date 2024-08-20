@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2024-04-03"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -211,9 +211,9 @@ d) establecer inmuebles que sirvan como refugio para víctimas y sus descendient
 
 1. Violencia laboral o docente contra la mujer es toda acción u omisión abusiva intencional al poder que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, que daña la autoestima, salud, integridad, libertad o seguridad de la víctima e impide su desarrollo y atenta contra la igualdad. Puede tratarse de un solo evento o una serie de éstos. Esta modalidad de violencia incluye el acoso u hostigamiento sexual.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-2. Constituye violencia laboral contra la mujer toda negativa ilegal e indebida a contratar a la víctima, a negar el goce de licencia de maternidad o de paternidad, al acceso a servicios de guardería o a no respetar su permanencia o las condiciones generales de su empleo, así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en el artículo 133 de la Ley Federal del Trabajo, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, la explotación o todo tipo de discriminación por condiciones de género.
+2. Constituye violencia laboral contra la mujer toda negativa ilegal e indebida a contratar a la víctima, a negar el goce de licencia de maternidad o de paternidad, al acceso a servicios de guardería o a no respetar su permanencia o las condiciones generales de su empleo, así como la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, las conductas referidas en el artículo 133 de la Ley Federal del Trabajo, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en la ley, la explotación, la imposición de códigos de vestimenta sexistas, discriminatorios y/o estereotipados, o todo tipo de discriminación por condiciones de género;
 
 3. Constituye violencia docente toda conducta que dañe la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones o características físicas, que inflinjan (sic) los directores, maestros o integrantes de las instituciones educativas.
 
@@ -1656,6 +1656,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 3 DE ABRIL DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-831 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII, DEL PÁRRAFO 2, DEL ARTÍCULO 12, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-889 MEDIANTE EL CUAL SE REFORMA LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS; Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
