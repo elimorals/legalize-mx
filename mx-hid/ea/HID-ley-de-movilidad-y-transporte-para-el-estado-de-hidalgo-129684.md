@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2024-06-07"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -831,9 +831,15 @@ I. Generar mecanismos de atención y canalización de las mujeres víctimas de v
 
 II. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres por razón de género en el transporte público;
 
-III. Realizar con otras dependencias campañas de prevención de la violencia contra las mujeres en el transporte público; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
 
-IV. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
+III. Realizar con otras dependencias campañas de prevención de la violencia contra las mujeres en el transporte público;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+IV. Implementar procesos de capacitación y certificación en la sensibilización, prevención y atención del acoso sexual en el transporte público; y
+
+V. Las demás que le señalen las disposiciones legales aplicables y el Reglamento de esta Ley.
 
 ### CAPITULO V. DEL ESTUDIO DE IMPACTO EN LA MOVILIDAD
 
@@ -1869,6 +1875,10 @@ XVIII. Responder por las faltas o infracciones, en que incurran por sí mismos o
 
 XIX. Asegurar que la prestación del servicio se realice con respeto y cortesía al usuario, promoviendo en todo momento la prevención de conductas de violencia en contra de las mujeres;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+XIX BIS. Contribuir en el acompañamiento en los casos reportados de acoso y violencia sexual en el transporte público;
+
 XX. Supervisar que el servicio se efectúe en condiciones idóneas de higiene personal y de acuerdo a las disposiciones aplicables;
 
 XXI. Vigilar que sus conductores no presten el servicio bajo el efecto del consumo de alcohol, drogas, enervantes o psicotrópicos de cualquier tipo;
@@ -1898,6 +1908,10 @@ III. Atender con cortesía a los usuarios del servicio, así como peatones y a l
 > <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
 III Bis. Abstenerse de realizar actos de violencia en contra de mujeres por razón de género;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+III Ter. Colaborar y brindar apoyo al primer respondiente y/o autoridad, ante cualquier hecho probablemente constitutivo de delito en el que se encuentren involucradas mujeres o niñas, así como facilitar los datos o medios de prueba que contribuyan a la investigación, bajo los principios de celeridad, no victimización y respeto a los derechos humanos de las victimas;
 
 IV. Tratándose del servicio público de transporte colectivo cumplir los planes de operación establecidos;
 
@@ -3506,5 +3520,11 @@ P.O. 30 DE MAYO DE 2024.
 P.O. 7 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 969 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1025 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
