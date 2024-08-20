@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-fisica-deporte-y-recreacion-para-el-estado-65691
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-31"
-last_updated: "2024-05-17"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 31 de diciembre de 2008.
 
@@ -469,6 +469,10 @@ VII.- Las y a los entrenadores deportivos;
 
 VIII.- Las y a los árbitros;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+VIII BIS.- Las y los especialistas en medicina del deporte;
+
 IX.- Las personas que por su naturaleza y función sean susceptibles de integrarse al Sistema Estatal del Deporte del Estado de Hidalgo;
 
 X.- Las y a los habitantes del Estado de Hidalgo; y
@@ -899,9 +903,11 @@ DEL REGISTRO ESTATAL DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN.
 
 DEL SISTEMA DE INFORMACIÓN Y DEL REGISTRO ESTATAL.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 69.
 
-Se crea el Registro Estatal de Cultura Física, Deporte y Recreación como instrumento del Sistema Estatal de Cultura Física, Deporte y Recreación, que estará a cargo del Instituto Hidalguense del Deporte, quien organizará y desarrollará el Sistema de Información de Cultura Física, Deporte y Recreación cuyo objetivo será la inscripción general relativa a los programas Estatal y Municipales del Deporte, entrenadores y promotores del deporte, agrupaciones deportivas y organismos deportivos no profesionales, y llevará un control actualizado de todos los deportistas, organizaciones deportivas, jueces, árbitros, técnicos, instructores, guías e instructores en deportes de alto riesgo, programas, censo e inventario de instalaciones y los eventos que se realicen en el Estado.
+Se crea el Registro Estatal de Cultura Física, Deporte y Recreación como instrumento del Sistema Estatal de Cultura Física, Deporte y Recreación, que estará a cargo del Instituto Hidalguense del Deporte, quien organizará y desarrollará el Sistema de Información de Cultura Física, Deporte y Recreación cuyo objetivo será la inscripción general relativa a los programas Estatal y Municipales del Deporte, entrenadores y promotores del deporte, agrupaciones deportivas y organismos deportivos no profesionales, y llevará un control actualizado de todos los deportistas, organizaciones deportivas, jueces, árbitros, técnicos, instructores, guías e instructores en deportes de alto riesgo, especialistas en medicina del deporte, programas, censo e inventario de instalaciones y los eventos que se realicen en el Estado.”
 
 > <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2012)</small>
 
@@ -1435,11 +1441,11 @@ DE LA PROTECCIÓN A LA SALUD DE LOS DEPORTISTAS.
 
 Con el propósito de proteger la salud e integridad de los usuarios de las instalaciones deportivas propiedad del Estado de Hidalgo, la autoridad deportiva, garantizará que el personal que a su servicio imparta clases teórico-prácticas de actividades deportivas y físicas, cuente con la capacitación y certificación de conocimientos, para desempeñar tales actividades.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 141.
 
-Los organismos deportivos participantes del Sistema Estatal de Cultura Física, Deporte y Recreación, que ofrezcan servicios de capacitación o entrenamiento deportivo, están obligados a garantizar que sus instructores, entrenadores y técnicos, cuenten con la certificación de conocimientos avalado por las autoridades competentes y que acrediten su capacidad para ejercer como tal.
-
-El incumplimiento a esta obligación dará lugar a las sanciones que esta Ley prevé.
+Los organismos deportivos participantes del Sistema Estatal de Cultura Física, Deporte y Recreación, que ofrezcan servicios de capacitación o entrenamiento deportivo, están obligados a garantizar que sus instructores, entrenadores, técnicos y especialistas en medicina del deporte cuenten con la certificación de conocimientos avalado por las autoridades competentes y que acrediten su capacidad para ejercer como tal.
 
 ###### Artículo 142.
 
@@ -1904,5 +1910,11 @@ P.O. 22 DE ABRIL DE 2024.
 P.O. 17 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 892 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 13 DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1030 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA, DEPORTE Y RECREACIÓN PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
