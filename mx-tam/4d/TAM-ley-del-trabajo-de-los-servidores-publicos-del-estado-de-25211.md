@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-trabajo-de-los-servidores-publicos-del-estado-de-25211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2024-08-19"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre de 2001.
 
@@ -497,9 +497,9 @@ XX.- Otorgar permiso, con el debido justificante, con goce íntegro de sueldo a 
 
 XXI.- Otorgar permiso por luto, por un plazo mínimo de 3 días con goce de sueldo a las personas trabajadoras por muerte de algún familiar dentro del primer grado por consanguinidad o afinidad. Estos días serán aquellos inmediatos al deceso;
 
-> <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
 
-XXII.- Otorgar incapacidad de hasta por tres días con goce íntegro de sueldo, a aquellas mujeres trabajadoras que acrediten con el debido justificante médico que el dolor ocasionado por su periodo menstrual, les impide y/o limita el desempeño de sus actividades laborales; y
+XXII.- Otorgar incapacidad de hasta por tres días con goce íntegro de sueldo, a aquellas mujeres trabajadoras que acrediten con el debido justificante médico que el dolor ocasionado por su periodo menstrual, les impide y/o limita el desempeño de sus actividades laborales;
 
 > <small>(ADICIONADA, P.O. 20 DE MARZO DE 2024)</small>
 
@@ -507,7 +507,13 @@ XXIII.- Proveer el número suficiente de asientos o sillas con respaldo a dispos
 
 Está prohibido obligar a las trabajadoras y los trabajadores a permanecer de pie durante toda la jornada laboral, sea cual sea el puesto laboral.
 
-Está prohibido negar a las trabajadoras y trabajadores que tomen asiento periódicamente durante el desarrollo de sus funciones.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+Está prohibido negar a las trabajadoras y trabajadores que tomen asiento periódicamente durante el desarrollo de sus funciones; y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+XXIV.- Queda prohibido imponer códigos de vestimenta sexistas, discriminatorios o que perpetúen estereotipos o roles de género, a través del uso de calzado, prendas de vestir o maquillaje que atenten contra la salud o la dignidad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JULIO DE 2023)</small>
 
@@ -1986,3 +1992,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones normativas que se opongan al presente Decreto.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 65-889 MEDIANTE EL CUAL SE REFORMA LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES; LA LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE TAMAULIPAS; Y LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
