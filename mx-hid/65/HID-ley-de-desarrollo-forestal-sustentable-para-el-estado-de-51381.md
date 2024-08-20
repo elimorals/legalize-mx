@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-51381"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2024-01-19"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51381&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -1505,7 +1505,9 @@ La reforestación que se realice con propósitos de conservación y restauració
 
 Las acciones de reforestación que se lleven a cabo en los terrenos forestales sujetos al aprovechamiento deberán incluirse en el programa de manejo forestal correspondiente. El prestador de servicios técnicos forestales que funja como encargado técnico, será responsable solidario junto con el titular de la ejecución del programa.
 
-La Secretaría y los Municipios impulsarán la reforestación con especies forestales nativas. La Norma Oficial Mexicana definirá las especies de vegetación forestal exótica, que por sus características biológicas afecten los procesos o patrones de distribución de la vegetación forestal nativa en terrenos forestales y preferentemente forestales, cuya autorización esté prohibida.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+La Secretaría y los Municipios impulsarán la reforestación con especies forestales nativas. La Norma Oficial Mexicana definirá las especies de vegetación forestal exótica, que por sus características biológicas afecten los procesos o patrones de distribución de la vegetación forestal nativa en terrenos forestales y preferentemente forestales, cuya autorización esté prohibida. Así mismo, promoverán la restauración de las áreas verdes en las zonas urbanizadas, preferentemente con especies nativas o endémicas de conformidad con la legislación aplicable.
 
 La reforestación o forestación de las áreas taladas será una acción prioritaria en los programas de manejo prediales, zonales o regionales.
 
@@ -2262,3 +2264,9 @@ P.O. 19 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 606 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO Y DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1019 POR EL QUE SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 100 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
