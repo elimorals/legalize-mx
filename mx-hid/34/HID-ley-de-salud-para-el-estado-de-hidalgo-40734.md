@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2024-07-15"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE JULIO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 829 PUBLICADO EN EL P.O. DEL 4 DE ABRIL DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -100,6 +98,10 @@ IV.- La prestación de servicios de salud mental;
 V.- La organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
 
 VI.- La promoción de la formación de recursos humanos para la salud;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+VI.- Bis. La capacitación para la atención primaria en el cuidado integral de la mujer durante la perimenopausia y posmenopausia.
 
 VII.- La coordinación de la investigación para la salud y el control de ésta en seres humanos;
 
@@ -2708,5 +2710,11 @@ P.O. 30 DE MAYO DE 2024.
 P.O. 7 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 967 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 2 DE LA LEY DE SALUD DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1029 POR EL QUE SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
