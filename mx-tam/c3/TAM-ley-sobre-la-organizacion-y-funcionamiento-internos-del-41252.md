@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2024-08-19"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -261,11 +261,9 @@ Salvo lo dispuesto por el artículo 12, al inicio de los períodos ordinarios de
 
 4. La Mesa Directiva tendrá las siguientes atribuciones:
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO a) DEL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-a) FORMULAR Y CUMPLIR EL ORDEN DEL DÍA DE LAS SESIONES, EL CUAL DISTINGUIRÁ LOS ASUNTOS DE TRÁMITE, DELIBERATIVOS Y RESOLUTIVOS O QUE REQUIERAN VOTACIÓN, CONFORME AL PROGRAMA PARA EL DESAHOGO DE LAS FUNCIONES CONSTITUCIONALES DEL PLENO QUE ACUERDE LA JUNTA DE GOBIERNO;
+a) Formular y cumplir el orden del día de las sesiones, el cual distinguirá los asuntos de trámite, deliberativos y resolutivos o que requieran de votación, conforme al programa para el desahogo de las funciones constitucionales del Pleno que así lo acuerde la Junta de Gobierno;
 
 b) Asegurar el desarrollo de las sesiones del Pleno;
 
@@ -283,15 +281,15 @@ g) Nombrar las comisiones de cortesía que resulten pertinentes para cumplir con
 
 h) Las demás que le atribuyen esta ley, los ordenamientos relativos a la actividad parlamentaria y los acuerdos del Pleno.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
 ###### ARTICULO 20.
 
-1. La Mesa Directiva es dirigida y coordinada por el presidente; se reunirá por lo menos una vez a la semana durante los períodos de sesiones.
+1. La Mesa Directiva es dirigida y coordinada por la presidenta o presidente; se reunirá por lo menos una vez a la semana durante los períodos de sesiones.
 
-2. La Mesa Directiva adoptará sus decisiones por consenso y, en caso de no lograrse el mismo, por la mayoría absoluta de sus integrantes. En caso de empate, el Presidente de la Mesa contará con el voto decisorio.
+2. La Mesa Directiva adoptará sus decisiones por consenso y, en caso de no lograrse el mismo, por la mayoría absoluta de sus integrantes. En caso de empate, la Presidencia de la Mesa contará con el voto decisorio.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
-
-3. A las reuniones de la Mesa Directiva asistirá el Secretario General, quien tendrá voz y preparará los documentos necesarios para el desarrollo de las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten, el titular de la Unidad de Servicios Parlamentarios y personal de servicios parlamentarios, para la revisión del contenido en los apartados del Orden del Día de la sesión.
+3. A las reuniones de la Mesa Directiva asistirá la persona titular de la Secretaría General, quien tendrá voz y preparará los documentos necesarios para el desarrollo de las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten, la persona titular de la Unidad de Servicios Parlamentarios y personal de servicios parlamentarios, para la revisión del contenido en los apartados del Orden del Día de la sesión.
 
 ###### ARTICULO 21.
 
@@ -309,7 +307,9 @@ h) Las demás que le atribuyen esta ley, los ordenamientos relativos a la activi
 
 ###### ARTICULO 22.
 
-1. Son atribuciones del presidente de la Mesa Directiva:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2024)</small>
+
+1. Son atribuciones de la Presidencia de la Mesa Directiva:
 
 a) Presidir las sesiones del Pleno y dar a conocer el orden del día;
 
@@ -317,7 +317,9 @@ b) Citar, abrir, prorrogar, suspender, declarar recesos y levantar las sesiones 
 
 c) Conceder el uso de la palabra; dirigir los debates, discusiones y deliberaciones; ordenar se proceda a las votaciones, y formular la declaratoria correspondiente a sus resultados;
 
-d) Disponer lo conducente para que los diputados se conduzcan conforme a las normas que rigen el ejercicio de sus funciones;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+d) Disponer lo conducente para que las Diputadas y los Diputados se conduzcan conforme a las normas que rigen el ejercicio de sus funciones;
 
 e) Exigir orden al público asistente a las sesiones e imponerlo cuando hubiere razón para ello;
 
@@ -325,21 +327,29 @@ e) Exigir orden al público asistente a las sesiones e imponerlo cuando hubiere 
 
 f) Dar curso a los asuntos y negocios del Congreso en términos de la normatividad aplicable y determinar los turnos conforme a las competencias, o lo que corresponda respecto de los trámites que deban recaer sobre las cuestiones con que se dé cuenta al Pleno; enviar la publicación en el Periódico Oficial del Estado, cuando no requieran de la sanción y promulgación del Ejecutivo;
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-g) Firmar, en el Salón de Sesiones, junto con los secretarios de la Mesa Directiva, las leyes, decretos y acuerdos que expida el Congreso, así como suscribir cualquier otra resolución del Pleno, al término de la sesión, en que se hubieren aprobado;
+g) Firmar, en el Salón de Sesiones, junto con las personas secretarias de la Mesa Directiva, las leyes, decretos y acuerdos que expida el Congreso, así como suscribir cualquier otra resolución del Pleno, al término de la sesión, en que se hubieren aprobado;
 
 h) Convocar a las reuniones de la Mesa Directiva del Congreso y cumplir con las resoluciones que le correspondan;
 
-i) Comunicar al secretario general las instrucciones, observaciones y propuestas que resulten pertinentes sobre las tareas a su cargo en materia de dirección parlamentaria;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-j) Suscribir los acuerdos de la Mesa Directiva junto con el Secretario General;
+i) Comunicar a la persona titular de la Secretaría General las instrucciones, observaciones y propuestas que resulten pertinentes sobre las tareas a su cargo en materia de dirección parlamentaria;
 
-k) Firmar la correspondencia y demás comunicaciones de la Cámara, sin demérito de instruir para que lo hagan los secretarios de la Mesa Directiva, uno de ellos o el secretario general;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+j) Suscribir los acuerdos de la Mesa Directiva junto con la persona titular de la Secretaría General;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+k) Firmar la correspondencia y demás comunicaciones de la Cámara, sin demérito de instruir para que lo hagan las personas secretarias de la Mesa Directiva, uno de ellos o la persona titular de la Secretaría General;
 
 l) Tener la representación legal del Congreso para rendir informes en juicios de amparo, actuar en controversias constitucionales y acciones de inconstitucionalidad, e intervenir en cualquier litigio o acto jurídico, y delegarla en la persona o personas que resulte necesario;
 
-m) Requerir a los diputados que no asistan a las sesiones del Pleno y comunicar a éste, en su caso, las medidas o sanciones que correspondan con fundamento en lo dispuesto por los artículos 37, 38 y 39 de la Constitución Política del Estado;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+m) Requerir a las y los Diputados que no asistan a las sesiones del Pleno y comunicar a éste, en su caso, las medidas o sanciones que correspondan con fundamento en lo dispuesto por los artículos 37, 38 y 39 de la Constitución Política del Estado;
 
 n) Ordenar el auxilio de la fuerza pública en los casos que resulte necesario, y
 
@@ -391,11 +401,9 @@ a) Cuando, a juicio del Pleno legislativo incurran en causas graves que afecten 
 
 b) Si transgreden en forma grave o reiterada las disposiciones de la Constitución General de la República, la Constitución Política del Estado de Tamaulipas, o las de esta ley;
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO c) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-c) SI INCUMPLEN LOS ACUERDOS DEL PLENO, DE LA JUNTA DE GOBIERNO O CUANDO SE AFECTEN LAS ATRIBUCIONES CONSTITUCIONALES Y LEGALES DEL CONGRESO DEL ESTADO; Y
+c) Cuando incumplan los acuerdos del Pleno, de la Junta de Gobierno o cuando se afecten las atribuciones constitucionales y legales del Congreso del Estado; y
 
 d) Si dejan de asistir sin causa justificada, a tres o más sesiones del Congreso o al mismo número de reuniones de trabajo de la Mesa Directiva.
 
@@ -407,17 +415,15 @@ Para los efectos del párrafo anterior se requerirá presentar solicitud por esc
 
 3. En caso de que sea aprobada la moción para el caso del Presidente, el suplente tomará el cargo para conducir el período para el cual fue elegido el Diputado o Diputada removido, nombrándose nuevo suplente, a falta de él o ella, se elegirá al nuevo Diputado o Diputada que presidirá la Mesa Directiva.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL CAPÍTULO TERCERO DEL TÍTULO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JULIO DE 2023)</small>
-
-### CAPITULO TERCERO. DE LAS FORMAS DE AGRUPACIÓN
+### CAPITULO TERCERO. SOBRE LAS FORMAS DE AGRUPACIÓN
 
 ###### ARTICULO 24.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-1. En términos de lo dispuesto en el artículo 40 de la Constitución Política del Estado, los grupos parlamentarios, las fracciones parlamentarias, las representaciones partidistas o bien quien ostente el cargo por la vía independiente, constituyen las diversas formas de agrupación por afiliación partidista y representación hacia el interior del Congreso del Estado, a través de las cuales se impulsan los entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las funciones constitucionales que correspondan al Poder Legislativo.
+1. En términos de lo dispuesto por el artículo 40 de la Constitución Política del Estado de Tamaulipas, los grupos parlamentarios, las fracciones parlamentarias, las representaciones partidistas o bien quien ostente el cargo por la vía independiente, constituyen las diversas formas de agrupación por afiliación partidista y representación hacia el interior del Congreso del Estado, a través de las cuales se impulsan los entendimientos y convergencias para alcanzar acuerdos que permitan el cumplimiento de las funciones constitucionales que correspondan al Poder Legislativo.
 
 2. El grupo parlamentario se integra por lo menos con tres diputados y solo habrá uno por cada partido político que cuente con legisladores en el Congreso.
 
@@ -435,11 +441,9 @@ c) Nombre del diputado que haya sido designado como coordinador del grupo parlam
 
 5. El coordinador expresa la voluntad del grupo parlamentario en los asuntos inherentes a la dirección política del Congreso, a la luz del ejercicio de sus funciones constitucionales. A su vez, promueve los entendimientos necesarios para la adopción y emisión de resoluciones que competen al Poder Legislativo.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-6. EL COORDINADOR DE CADA GRUPO PARLAMENTARIO PARTICIPA CON VOZ Y VOTO EN LA JUNTA DE GOBIERNO Y LA JUNTA DE COORDINACIÓN POLÍTICA.
+6. El coordinador o coordinadora de cada grupo parlamentario participa con voz y voto en la Junta de Gobierno y la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -461,83 +465,65 @@ c) Nombre del diputado que haya sido designado como coordinador del grupo parlam
 
 2. Para su constitución las fracciones parlamentarias, observarán en lo conducente las disposiciones inherentes a los grupos parlamentarios establecidas en el artículo que antecede.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+3. Uno de los dos, diputada o diputado que integran la fracción parlamentaria, participará con la representación de la misma en la integración de la Junta de Gobierno y la Junta de Coordinación Política, teniendo derecho a voz y voto.
 
-3. UNO DE LOS DOS DIPUTADOS QUE INTEGRAN LA FRACCIÓN PARLAMENTARIA, PARTICIPARÁ CON LA REPRESENTACIÓN DE LA MISMA EN LA INTEGRACIÓN DE LA JUNTA DE GOBIERNO Y LA JUNTA DE COORDINACIÓN POLÍTICA, TENIENDO DERECHO A VOZ Y VOTO.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 26.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+1. La Diputada o Diputado que sea único en cuanto a la representación de algún partido político o quien ostente el cargo por la vía independiente, por sí solo constituirá una representación partidista, al igual que los grupos parlamentarios y las fracciones parlamentarias forman parte de la Junta de Gobierno y de la Junta de Coordinación Política, teniendo derecho a voz y voto.
 
-1. La Diputada o Diputado que sea único en cuanto a la representación de algún partido político o bien quien ostente el cargo por la vía independiente, por sí solo constituirá una representación partidista, al igual que los grupos parlamentarios y las fracciones parlamentarias forman parte de la Junta de Gobierno y de la Junta de Coordinación Política, teniendo derecho a voz y voto.
+2. Asimismo, en lo conducente observará las disposiciones inherentes a los grupos parlamentarios respecto de su constitución e integración a la Junta de Gobierno y a la Junta de Coordinación Política.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-2. EN LO CONDUCENTE OBSERVARÁ LAS DISPOSICIONES INHERENTES A LOS GRUPOS PARLAMENTARIOS RESPECTO DE SU CONSTITUCIÓN E INTEGRACIÓN A LA JUNTA DE GOBIERNO Y A LA JUNTA DE COORDINACIÓN POLÍTICA.
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 27.
 
-1. En términos de la representación de cada grupo parlamentario, fracción parlamentaria, representación partidista, sin partido e independiente, la Junta de Gobierno acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, esta Junta de Gobierno dispondrá una subvención mensual para cada forma de organización partidista, integrada por una suma fija de carácter general y otra variable, en función del número de diputadas y diputados.
+1. En términos de la representación de cada grupo parlamentario, fracción parlamentaria, representación partidista, sin partido e independiente, la Junta de Gobierno acordará la asignación de recursos y locales adecuados a cada uno de ellos. Adicionalmente a esas asignaciones, la Junta de Gobierno dispondrá una subvención mensual para cada forma de organización partidista, misma que estará integrada por una suma fija de carácter general y otra variable, en función del número de diputadas y diputados.
 
-2. Las subvenciones que se asignen a los grupos parlamentarios, fracciones parlamentarias, representaciones partidistas, sin partido e independientes se incorporará a la cuenta pública del Congreso, correspondiente.
+2. Las subvenciones que se asignen a los grupos parlamentarios, fracciones parlamentarias, representaciones partidistas, sin partido e independientes se incorporará a la cuenta pública del Congreso del Estado, correspondiente.
 
-3. La ocupación de las curules en el Salón de Sesiones se hará de forma que los integrantes de cada grupo parlamentario y fracciones parlamentarias queden ubicados en una misma área, buscándose que sus integrantes se sienten en forma contigua. La asignación definitiva de las curules que correspondan a las formas de organización partidista estará a cargo de la Mesa Directiva del Congreso. En todo caso, las y los coordinadores representantes de los grupos parlamentarios, fracciones parlamentarias, representaciones partidistas, sin partido e independientes, formularán proposiciones de ubicación y la Mesa Directiva del Congreso resolverá lo conducente.
+3. La ocupación de las curules en el Salón de Sesiones se hará de forma que los integrantes de cada grupo parlamentario y fracciones parlamentarias queden ubicados en una misma área, buscándose que sus integrantes se sienten en forma contigua. La asignación definitiva de las curules que correspondan a las formas de organización partidista estará a cargo de la Presidencia de la Mesa Directiva del Congreso del Estado. En todo caso, las y los coordinadores representantes de los grupos parlamentarios, fracciones parlamentarias, representaciones partidistas, sin partido e independientes, formularán proposiciones de ubicación y la Presidencia de la Mesa Directiva del Congreso del Estado, resolverá lo conducente.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 28.
 
-1. Las diputadas y diputados que decidan no pertenecer a un grupo parlamentario, fracción parlamentaria o representación partidista o dejar de pertenecer a uno de ellos, sin integrarse a otra forma de organización partidista, serán considerados como diputados sin partido. Se les guardarán las mismas consideraciones que a los demás legisladores y, conforme a la disponibilidad material y presupuestal del Congreso, se les brindarán los apoyos que requieran para el desempeño de sus funciones constitucionales.
+1. Las diputadas y los diputados que decidan no pertenecer a un grupo parlamentario, fracción parlamentaria o representación partidista o dejar de pertenecer a uno de ellos, sin integrarse a otra forma de organización partidista, serán considerados como diputadas o diputados sin partido. Se les guardarán las mismas consideraciones que a las demás legisladoras y legisladores, asimismo, se les brindarán los apoyos que requieran para el desempeño de sus funciones constitucionales, conforme a la disponibilidad material y presupuestal del Congreso del Estado.
 
-2. En caso de que en el transcurso de la Legislatura se declaren dos o más diputadas o diputados sin partido, a fin de garantizar el derecho de libre asociación, podrán formar una fracción parlamentaria o grupo parlamentario según sea el caso y tendrán todas las prerrogativas que esta Ley prevé para estas formas de agrupación.
+2. En caso de que en el transcurso de la Legislatura se declaren dos o más diputadas o diputados sin partido, a fin de garantizar el derecho de libre asociación, podrán formar una fracción parlamentaria o grupo parlamentario según sea el caso y tendrán todas las prerrogativas que la presente Ley prevé para estas formas de agrupación.
 
-3. La fracción parlamentaria o grupo parlamentario participará con voz y voto dentro de la Junta de Gobierno y en la Junta de Coordinación Política de este Congreso, debiendo ser considerados para la integración de la Diputación Permanente; solamente los Grupos Parlamentarios serán considerados para presidir la Mesa Directiva.
+3. La fracción parlamentaria o grupo parlamentario participará con voz y voto dentro de la Junta de Gobierno y en la Junta de Coordinación Política de este Congreso del Estado, debiendo ser considerados para la integración de la Diputación Permanente; solamente los Grupos Parlamentarios serán considerados para presidir la Mesa Directiva.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE ADICIONA EL CAPÍTULO TERCERO BIS DEL TÍTULO SEGUNDO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE JULIO DE 2023)</small>
+### CAPITULO TERCERO BIS. SOBRE LA JUNTA DE GOBIERNO DEL CONGRESO DEL ESTADO
 
-### CAPITULO TERCERO BIS. DE LA JUNTA DE GOBIERNO DEL CONGRESO DEL ESTADO
-
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ARTICULO 28 BIS.
 
-1. La Junta de Gobierno del Congreso del Estado, en adelante Junta de Gobierno, se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas.
+1. La Junta de Gobierno del Congreso del Estado, se integra con los coordinadores de cada grupo parlamentario, con los representantes de las fracciones parlamentarias, así como de los titulares de las representaciones partidistas.
 
-2. Será Presidente o Presidenta de la Junta de Gobierno por la duración de la Legislatura, el Coordinador o Coordinadora del Grupo Parlamentario del partido político que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente a la Legislatura en turno.
+2. Será Presidente o Presidenta de la Junta de Gobierno por la duración de la Legislatura, el Coordinador o la Coordinadora del Grupo Parlamentario del partido político que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente a la Legislatura en turno.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ARTICULO 28 TER.
 
-1. En caso de ausencia temporal o definitiva del Presidente o Presidenta de la Junta de Gobierno, el grupo parlamentario al cual pertenezca informará de inmediato al presidente de la Mesa Directiva y a la propia Junta de Gobierno, el nombre del Diputado o Diputada que le sustituirá.
+1. En caso de ausencia temporal o definitiva del Presidente o de la Presidenta de la Junta de Gobierno, el grupo parlamentario al cual pertenezca informará de inmediato a la Presidencia de la Mesa Directiva y a la propia Junta de Gobierno, el nombre del Diputado o Diputada que le sustituirá.
 
-2. Los integrantes de la Junta de Gobierno podrán ser sustituidos temporalmente en términos de las reglas internas de cada grupo parlamentario o fracción parlamentaria. En el caso de los diputados o diputadas de las representaciones partidistas que se declaren diputados sin partido, podrán conformarse como Grupo Parlamentario o Fracción Parlamentaria, pudiendo participar ante el órgano, con voz y voto.
+2. Los integrantes de la Junta de Gobierno podrán ser sustituidos temporalmente en términos de las reglas internas de cada grupo parlamentario o fracción parlamentaria. En el caso de los diputados o diputadas de las representaciones partidistas que se declaren diputadas o diputados sin partido, podrán conformarse como Grupo Parlamentario o Fracción Parlamentaria, pudiendo participar ante el órgano, con voz y voto.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2023)</small>
+ARTICULO 28 QUATER
 
-ARTICULO 28 QUATER.
+1. La Junta de Gobierno, conforme a lo dispuesto en la Constitución Política del Estado de Tamaulipas, es el órgano de dirección política del Poder Legislativo y la expresión de la pluralidad del Congreso del Estado.
 
-1. La Junta de Gobierno, acorde a lo dispuesto en la Constitución Política del Estado de Tamaulipas, es el órgano de dirección política del Poder Legislativo y la expresión de la pluralidad del Congreso.
-
-2. En la Junta de Gobierno se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios para alcanzar acuerdos, a fin de que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
-
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+2. En la Junta de Gobierno se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios para alcanzar acuerdos, para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2023)</small>
 
@@ -545,75 +531,91 @@ ARTICULO 28 QUINQUIES.
 
 Son atribuciones de la Junta de Gobierno las siguientes:
 
-a) Impulsar la conformación de acuerdos relacionados con el contenido de las agendas legislativas presentadas por las distintas formas de agrupación por afiliación partidista, así como con las propuestas, iniciativas o minutas que requieran del conocimiento y votación del Pleno, con objeto de garantizar el cumplimiento de las funciones del Congreso;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-b) Presentar a la Mesa Directiva y al Pleno del Congreso iniciativas de puntos de Acuerdo que contengan pronunciamientos o declaraciones del Congreso que entrañen una posición política de la institución parlamentaria;
+a) Impulsar la conformación de acuerdos relacionados con el contenido de las agendas legislativas presentadas por las distintas formas de agrupación por afiliación partidista, así como con las propuestas, iniciativas o minutas que requieran del conocimiento y votación del Pleno, con el objeto de garantizar el cumplimiento de las funciones del Congreso del Estado;
 
-c) Proponer al Pleno la integración de las comisiones ordinarias, de comités o de comisiones especiales, con el señalamiento de la conformación de sus respectivas mesas directivas;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-d) Proponer al Pleno la designación de delegaciones para atender reuniones parlamentarias con instituciones parlamentarias del país o del extranjero; durante los recesos, la Junta de Gobierno podrá hacer la designación a propuesta de quien la presida;
+b) Presentar a la Presidencia de la Mesa Directiva y al Pleno del Congreso Iniciativas de Puntos de Acuerdo que contengan pronunciamientos o declaraciones del Congreso del Estado que entrañen una posición política de la institución parlamentaria;
 
-e) Presentar al Pleno el anteproyecto de presupuesto anual del Congreso;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-f) Establecer la integración del orden del día de las sesiones, así como proponer las formas que seguirán los debates, discusiones y deliberaciones. Para el ejercicio de esta atribución se podrá invitar al Presidente de la Mesa Directiva a participar en la reunión de la Junta de Gobierno;
+c) Proponer al Pleno Legislativo la integración de las comisiones ordinarias, de comités o de comisiones especiales, con el señalamiento de la conformación de sus respectivas mesas directivas;
 
-g) Impulsar el trabajo de las comisiones ordinarias para la elaboración y el cumplimiento de los programas legislativos;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-h) Proponer al Pleno los nombramientos de Secretario General y demás colaboradores del Congreso, con base en lo que señala esta ley;
+d) Proponer al Pleno Legislativo la designación de delegaciones para atender reuniones parlamentarias con instituciones parlamentarias del país o del extranjero; durante los recesos, la Junta de Gobierno podrá hacer la designación a propuesta de quien la presida;
 
-i) Aprobar, una vez discutida y analizada la propuesta de la Junta de Coordinación Política, sobre la realización de actividades cívicas, académicas y políticas, sin demerito de que el órgano de dirección política pueda acordarla a falta de propuesta;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-j) Asignar, en los términos de esta ley, los recursos humanos, financieros y materiales, así como los locales que corresponden a los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas; así como a la presidencia de la Junta de Coordinación Política; y
+e) Presentar al Pleno Legislativo el anteproyecto de presupuesto anual del Congreso del Estado;
 
-k) Las demás que le atribuye esta ley o los ordenamientos relativos a la actividad parlamentaria.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+f) Establecer la integración del Orden del Día de las sesiones, así como proponer las formas de cómo se seguirán los debates, las discusiones y deliberaciones. Para el ejercicio de esta atribución se podrá invitar a la Presidencia de la Mesa Directiva a participar en la reunión de la Junta de Gobierno;
 
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+g) Impulsar los trabajos de las comisiones ordinarias para la elaboración y el cumplimiento de los programas legislativos;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+h) Proponer al Pleno los nombramientos de la Secretaría General y demás colaboradores del Congreso del Estado, con base en lo que señala esta ley;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+i) Aprobar, una vez que sea discutida y analizada la propuesta de la Junta de Coordinación Política, sobre la realización de actividades cívicas, académicas y políticas, sin demerito de que el órgano de dirección política pueda acordarla a falta de propuesta;
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+j) Asignar, en los términos de esta ley, los recursos humanos, financieros y materiales, así como los locales que corresponden a los grupos parlamentarios, fracciones parlamentarias y representaciones partidistas; así como también a la presidencia de la Junta de Coordinación Política; y
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+k) Las demás que le atribuye esta ley o los ordenamientos concernientes a la actividad parlamentaria.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ARTICULO 28 SEXIES.
 
-1. La Junta de Gobierno deberá instalarse, al concluir la primera sesión ordinaria que celebre el Congreso al inicio de cada Legislatura. Sesionará, por lo menos, una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos.
+1. La Junta de Gobierno deberá instalarse, al concluir la primera sesión ordinaria que celebre el Congreso del Estado al inicio de cada Legislatura. Sesionará, por lo menos, una vez a la semana durante los periodos de sesiones y con la periodicidad que así lo acuerde durante los recesos.
 
-2. La Junta de Gobierno, adoptará sus decisiones por mayoría, donde los coordinadores de los Grupos Parlamentarios y coordinadores de las Fracciones Parlamentarias representarán tantos votos como integrantes tenga su partido político, tomándose en cuenta a su vez el voto del representante de partido. En caso de empate, quien ocupe la Presidencia de la Junta de Gobierno, contará con el voto decisorio.
+2. La Junta de Gobierno, adoptará sus decisiones por mayoría, donde los coordinadores o coordinadoras de los Grupos Parlamentarios y coordinadores o coordinadoras de las Fracciones Parlamentarias representarán tantos votos como integrantes tenga su partido político, tomándose en cuenta a su vez el voto del representante de partido. En caso de empate, quien ocupe la Presidencia de la Junta de Gobierno, contará con el voto decisorio.
 
-3. A las reuniones de la Junta de Gobierno concurrirá el Secretario General, quien podrá hacer uso de la voz y preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+3. A las reuniones de la Junta de Gobierno concurrirá la persona titular de la Secretaría General, quien podrá hacer uso de la voz y preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos adoptados.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE ADICIONA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ARTICULO 28 SEPTIES.
 
-1. En materia de dirección política, quien asuma la presidencia de la Junta de Gobierno conduce las relaciones institucionales con los Poderes y los Ayuntamientos del Estado, los Poderes de la Federación y los órganos de gobierno de la Ciudad de México.
+1. En materia de dirección política, quien ocupe la presidencia de la Junta de Gobierno conduce las relaciones institucionales con los Poderes y los Ayuntamientos del Estado, los Poderes de la Federación y los órganos de gobierno de la Ciudad de México.
 
-2. Son atribuciones de quien preside la Junta de Gobierno las siguientes:
+2. Son atribuciones de quien ocupe la presidencia de la Junta de Gobierno las siguientes:
 
-a) Convocar a las reuniones de trabajo de este órgano y conducir su desarrollo;
+a) Convocar a las reuniones de trabajo de la Junta de Gobierno y conducir su desarrollo;
 
-b) Velar por el cumplimiento de las decisiones y acuerdos que se adopten;
+b) Velar por el cumplimiento de las decisiones y acuerdos que sean adoptados;
 
-c) Proponer criterios para la elaboración y adopción del programa de trabajo de cada periodo de sesiones, el calendario para su desahogo y la integración del orden del día de las sesiones del Pleno;
+c) Proponer criterios para la elaboración y adopción del programa de trabajo de cada periodo de sesiones, el calendario para su desahogo y la integración del orden del día de las sesiones del Pleno Legislativo;
 
-d) Disponer la elaboración del anteproyecto del presupuesto anual del Congreso;
+d) Disponer la elaboración del anteproyecto del presupuesto anual del Congreso del Estado;
 
-e) Presentar a la Junta de Gobierno las propuestas para el nombramiento del Secretario General y demás colaboradores del Congreso;
+e) Presentar a la Junta de Gobierno las propuestas para el nombramiento de la persona titular de la Secretaría General y demás colaboradores del Congreso del Estado;
 
-f) Garantizar que los acuerdos y entendimientos de la Junta de Gobierno se lleven a cabo con criterios de perspectiva de género; y
+f) Garantizar que tanto los acuerdos como entendimientos de la Junta de Gobierno se lleven a cabo con criterios de perspectiva de género; y
 
-g) Las demás que deriven de esta ley y de los ordenamientos de la actividad parlamentaria o que le sean conferidas por la propia Junta de Gobierno.
+g) Las demás que deriven de la presente ley y de los ordenamientos de la actividad parlamentaria o que le sean conferidas por la propia Junta de Gobierno.
 
 ### CAPITULO CUARTO. DE LA JUNTA DE COORDINACION POLITICA
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
 ###### ARTICULO 29.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+1. La Junta de Coordinación Política se integra con las coordinadoras y los coordinadores de cada grupo parlamentario, con las y los representantes de las fracciones parlamentarias, con las y los titulares de las representaciones partidistas y las y los que ostenten el cargo por la vía independiente.
 
-1. La Junta de Coordinación Política se integra con las y los coordinadores de cada grupo parlamentario, con las y los representantes de las fracciones parlamentarias, con las y los titulares de las representaciones partidistas y las y los que ostenten el cargo por la vía independiente.
-
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2023)</small>
-
-2. Será Presidente o Presidenta de la Junta por la duración de la Legislatura, el Coordinador o Coordinadora del Grupo Parlamentario del partido político que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente a la Legislatura en turno.
+2. Será Presidente o Presidenta de la Junta por la duración de la Legislatura, el Coordinador o la Coordinadora del Grupo Parlamentario del partido político que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente a la Legislatura en turno.
 
 ###### ARTICULO 30.
 
@@ -623,15 +625,11 @@ g) Las demás que deriven de esta ley y de los ordenamientos de la actividad par
 
 2. Los integrantes de la Junta de Coordinación Política podrán ser sustituidos temporalmente en términos de las reglas internas de cada grupo parlamentario o fracción parlamentaria. En el caso de los diputados de las representaciones partidistas que se declaren diputados sin partido, podrán también participar ante el órgano, únicamente con voz, previo acuerdo que emita la propia Junta de Coordinación Política.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 31.
 
-La Junta de Coordinación Política será un órgano colegiado conformado de acuerdo al presente capítulo, el cual será un ente coadyuvante de la Junta de Gobierno.
-
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+La Junta de Coordinación Política será un órgano colegiado que estará conformado de acuerdo al presente capítulo, el cual será un ente coadyuvante de la Junta de Gobierno.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
 
@@ -639,35 +637,37 @@ La Junta de Coordinación Política será un órgano colegiado conformado de acu
 
 Son atribuciones de la Junta de Coordinación Política las siguientes:
 
-a) Podrá proponer a la Junta de Gobierno la realización de actividades cívicas, académicas y políticas;
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-b) Dar a conocer a sus integrantes la integración del orden del día de las sesiones acordada por la Junta de Gobierno; y
+a) Podrá proponer a la Junta de Gobierno llevar a cabo actividades cívicas, académicas y políticas;
 
-c) Coadyuvar, cuando así lo solicite la Junta de Gobierno, al impulso del trabajo de las comisiones ordinarias para la elaboración y el cumplimiento de los programas legislativos.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+b) Dar a conocer a los demás integrantes la integración del orden del día de las sesiones acordada por la Junta de Gobierno; y
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-###### ARTÍCULO 33.
+c) Colaborar, cuando así lo solicite la Junta de Gobierno, al impulso del trabajo de las comisiones ordinarias para la elaboración y el cumplimiento de los programas legislativos.
 
-1. La Junta de Coordinación Política deberá instalarse, a más tardar, en la segunda sesión ordinaria que celebre el Congreso al inicio de cada Legislatura. Sesionará, por lo menos, una vez a la semana durante los periodos de sesiones y con la periodicidad que acuerde durante los recesos.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-2. La Junta de Coordinación Política, adoptará sus decisiones por mayoría absoluta, donde los coordinadores de los Grupos Parlamentarios y coordinadores de las Fracciones Parlamentarias representarán tantos votos como integrantes tenga su partido político, tomándose en cuenta a su vez el voto del representante de partido. En caso de empate, quien ocupe la Presidencia de la Junta de Gobierno, contará con el voto decisorio.
+###### ARTICULO 33.
 
-3. A las reuniones de la Junta de Coordinación Política concurrirá el Secretario General, quien podrá hacer uso de la voz y preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se adopten.
+1. La Junta de Coordinación Política deberá instalarse, a más tardar, en la segunda sesión ordinaria que celebre el Congreso del Estado al inicio de cada Legislatura. Sesionará, por lo menos, una vez a la semana durante los periodos de sesiones y con la periodicidad que así se acuerde durante los recesos.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+2. La Junta de Coordinación Política, adoptará sus decisiones por mayoría absoluta, donde los coordinadores o coordinadoras de los Grupos Parlamentarios y coordinadores o coordinadoras de las Fracciones Parlamentarias representarán tantos votos como integrantes tenga su partido político, tomándose en cuenta a su vez el voto del representante de partido. En caso de empate, quien ocupe la Presidencia de la Junta de Gobierno, contará con el voto decisorio.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+3. A las reuniones de la Junta de Coordinación Política concurrirá la persona titular de la Secretaría General, quien podrá hacer uso de la voz y preparará los documentos necesarios para las reuniones, levantará el acta correspondiente y llevará el registro de los acuerdos que se hayan adoptado.
 
-###### ARTÍCULO 34.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-Son atribuciones de quien presida la Junta de Coordinación Política:
+###### ARTICULO 34.
 
-a) Convocar a las reuniones de trabajo de este órgano y conducir su desarrollo; y
+Son atribuciones de quien presida la Junta de Coordinación Política las siguientes:
 
-b) Velar por el cumplimiento de las decisiones y acuerdos que se adopten.
+a) Convocar a las reuniones de trabajo de dicho órgano y conducir su desarrollo; y
+
+b) Velar por el cumplimiento de las decisiones y acuerdos adoptados.
 
 ### CAPITULO QUINTO. DE LAS COMISIONES Y COMITES
 
@@ -851,11 +851,9 @@ f) De la Medalla al Mérito "Luís García de Arellano", a cargo de la recepció
 
 1. El Pleno podrá acordar la conformación de comisiones especiales para hacerse cargo de un asunto concreto, cuya naturaleza requiera esta determinación. El acuerdo que las establezca señalará su objeto, el número de sus integrantes y el plazo para efectuar las tareas que se les encomienden.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-2. LAS COMISIONES ESPECIALES SE EXTINGUIRÁN AL CUMPLIR SU OBJETO, PERO CUANDO NO SE HAYA AGOTADO EL MISMO Y ESTÉ PRÓXIMO A CULMINAR EL PERIODO CONSTITUCIONAL DE LA LEGISLATURA, LA JUNTA DE GOBIERNO PLANTEARÁ AL PLENO, POR CONDUCTO DE LA MESA DIRECTIVA, LA DECLARACIÓN DE SU EXTINCIÓN, ENTREGÁNDOSE LOS ANTECEDENTES DE SU CONSTITUCIÓN Y ACTUACIÓN A LA LEGISLATURA ENTRANTE.
+2. Las comisiones especiales se extinguirán al cumplir su objeto, pero cuando no se haya agotado el mismo y esté próximo a culminar el periodo constitucional de la Legislatura, la Junta de Gobierno planteará al Pleno Legislativo, por conducto de la Presidencia de la Mesa Directiva, la declaración de su extinción, entregándose los antecedentes de su constitución y actuación a la Legislatura entrante.
 
 ###### ARTICULO 39.
 
@@ -863,23 +861,17 @@ f) De la Medalla al Mérito "Luís García de Arellano", a cargo de la recepció
 
 1. Las comisiones ordinarias se constituyen normalmente durante el primer mes de ejercicio de la Legislatura, podrán tener hasta ocho integrantes y su encargo será por el término de la propia Legislatura. Ningún diputado podrá pertenecer a más de nueve comisiones, salvo que se trate de la Comisión Instructora o de comisiones especiales.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+2. Corresponde a la Junta de Gobierno proponer al Pleno Legislativo la integración de las comisiones, tomando en cuenta la pluralidad y el criterio de proporcionalidad entre la integración del Pleno y la conformación de las Comisiones.
 
-2. CORRESPONDE A LA JUNTA DE GOBIERNO PROPONER AL PLENO LA INTEGRACIÓN DE LAS COMISIONES, TOMANDO EN CUENTA LA PLURALIDAD Y EL CRITERIO DE PROPORCIONALIDAD ENTRE LA INTEGRACIÓN DEL PLENO Y LA CONFORMACIÓN DE LAS COMISIONES.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+3. Al proponer la integración de las comisiones, la Junta de Gobierno señalará en quiénes recaerá la responsabilidad de fungir como presidente o presidenta y como secretario o secretaria. Al hacerlo, tomará en cuenta los antecedentes y la experiencia de los diputados y las diputadas, y procurará que su propuesta incorpore a los diputados y las diputadas pertenecientes a las diversas formas de agrupación por afiliación partidista, de tal suerte que en lo conducente se refleje la proporción que representen en el Pleno Legislativo.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-3. AL PROPONER LA INTEGRACIÓN DE LAS COMISIONES, LA JUNTA DE GOBIERNO SEÑALARÁ EN QUIÉNES RECAERÁ LA RESPONSABILIDAD DE FUNGIR COMO PRESIDENTE Y COMO SECRETARIO. AL HACERLO, TOMARÁ EN CUENTA LOS ANTECEDENTES Y LA EXPERIENCIA DE LOS DIPUTADOS, Y PROCURARÁ QUE SU PROPUESTA INCORPORE A LOS DIPUTADOS PERTENECIENTES A LAS DIVERSAS FORMAS DE AGRUPACIÓN POR AFILIACIÓN PARTIDISTA, DE TAL SUERTE QUE EN LO CONDUCENTE SE REFLEJE LA PROPORCIÓN QUE REPRESENTEN EN EL PLENO.
-
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-4. EN SU PROPUESTA, LA JUNTA DE GOBIERNO BUSCARÁ INCLUIR DENTRO DE LAS COMISIONES DE SU PREFERENCIA A LOS INTEGRANTES DE LAS DIVERSAS FORMAS DE AGRUPACIÓN POR AFILIACIÓN PARTIDISTA CUYA DIMENSIÓN NO LES PERMITA PARTICIPAR EN LA TOTALIDAD DE LAS COMISIONES ESTABLECIDAS POR ESTA LEY.
+4. En su propuesta, la Junta de Gobierno buscará incluir dentro de las comisiones de su preferencia a los integrantes de las diversas formas de agrupación por afiliación partidista cuya dimensión no les permita participar en la totalidad de las comisiones establecidas en la presente ley.
 
 5. Si un diputado se separa del grupo parlamentario al que pertenecía en el momento de conformarse las comisiones, el coordinador de dicho grupo podrá solicitar su sustitución.
 
@@ -891,11 +883,9 @@ f) De la Medalla al Mérito "Luís García de Arellano", a cargo de la recepció
 
 1. Los miembros de las comisiones, están obligados a asistir puntualmente a sus reuniones. Quien no pueda concurrir a la cita hecha, comunicará oportunamente al presidente de la comisión la causa que lo justifique.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-2. EL COORDINADOR DEL GRUPO PARLAMENTARIO AL QUE PERTENEZCAN LOS DIPUTADOS MIEMBROS DE LAS COMISIONES PODRÁ SOLICITAR A LA JUNTA DE GOBIERNO SU SUSTITUCIÓN TEMPORAL, EN CASO DE AUSENCIA QUE ASÍ LO JUSTIFIQUE, A EFECTO DE QUE SE HAGA LA PROPUESTA RESPECTIVA AL PLENO.
+2. El coordinador o coordinadora del grupo parlamentario al que pertenezcan las diputadas o los diputados miembros de las comisiones podrá solicitar a la Junta de Gobierno su sustitución temporal, en caso de ausencia que así lo justifique, a efecto de que se haga la propuesta respectiva al Pleno Legislativo.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -915,11 +905,9 @@ f) De la Medalla al Mérito "Luís García de Arellano", a cargo de la recepció
 
 ###### ARTICULO 42.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-1. LAS COMISIONES ORDINARIAS CUYA MATERIA SE CORRESPONDA CON TAREAS A CARGO DE LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO HARÁN EL ESTUDIO DEL INFORME A QUE SE REFIERE EL CUARTO PÁRRAFO DEL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, SEGÚN LA COMPETENCIA DE CADA UNA DE ELLAS. AL EFECTO, FORMULARÁN UN DOCUMENTO EN EL QUE CONSTEN LAS CONCLUSIONES DE SU ANÁLISIS. EN SU CASO, PODRÁN REQUERIR MAYOR INFORMACIÓN O SOLICITAR LA COMPARECENCIA DE SERVIDORES PÚBLICOS ANTE LA PROPIA COMISIÓN. SI DE LAS CONCLUSIONES SE DESPRENDE LA NECESIDAD DE QUE EL TITULAR DEL ENTE PÚBLICO COMPAREZCA ANTE EL PLENO DEL CONGRESO, LA COMISIÓN COMPETENTE FORMULARÁ LA SOLICITUD CORRESPONDIENTE A LA JUNTA DE GOBIERNO. EN TODO CASO SE ESTARÁ A LO DISPUESTO POR LA PARTE FINAL DEL CUARTO PÁRRAFO DEL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO.
+1. Las comisiones ordinarias cuya materia se corresponda con tareas a cargo de las dependencias de la administración pública del Estado harán el estudio del informe a que se refiere el cuarto párrafo del artículo 93 de la Constitución Política del Estado, según la competencia de cada una de ellas. Al efecto, formularán un documento en el que consten las conclusiones de su análisis. En su caso, podrán requerir mayor información o solicitar la comparecencia de servidores públicos ante la propia comisión. Si de las conclusiones se desprende la necesidad de que el titular del ente público comparezca ante el Pleno Legislativo, la Comisión competente formulará la solicitud correspondiente a la Junta de Gobierno. En todo caso se estará a lo dispuesto por la parte final del cuarto párrafo del artículo 93 de la Constitución Política del Estado.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -935,11 +923,9 @@ Las comisiones ordinarias llevarán a cabo las tareas siguientes:
 
 a) Elaborar su programa de trabajo, el cual podrá modificarse durante el ejercicio de la Legislatura;
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO b) DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-b) RENDIR UN INFORME ANUAL DE SUS ACTIVIDADES A LA JUNTA DE GOBIERNO; Y ENTREGAR UN EJEMPLAR A LA SECRETARÍA GENERAL DEL CONGRESO PARA SU ARCHIVO Y PUBLICACIÓN EN LA PLATAFORMA NACIONAL DE TRANSPARENCIA;
+b) Rendir un informe anual de sus actividades a la Junta de Gobierno; y entregar un ejemplar a la Secretaría General del Congreso del Estado para su archivo y publicación en la Plataforma Nacional de Transparencia;
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -947,9 +933,9 @@ c) Mantener actualizado el registro de los asuntos que les sean turnados, con el
 
 d) Sesionar, cuando menos, una vez cada dos meses;
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-e) Atender y, en su caso, dictaminar con apoyo de los Auxiliares de Dictaminadores de la Sección que le corresponda, los asuntos que le sean turnados por quien presida la Mesa Directiva;
+e) Atender y, en su caso, dictaminar con apoyo de las personas Auxiliares de Dictaminación de la Sección que le corresponda, los asuntos que le sean turnados por quien presida la Mesa Directiva;
 
 f) (DEROGADO, P.O. 30 DE MAYO DE 2017)
 
@@ -1009,11 +995,9 @@ h) Dar seguimiento de los asuntos dictaminados y aprobados por el Pleno, e infor
 
 1. Las comisiones podrán solicitar la presencia de servidores públicos de los entes públicos del Estado para ilustrar su juicio en el despacho de los asuntos a su cargo; cuando se discuta una ley, o se estudie un negocio de su competencia, así como para que respondan a interpelaciones o preguntas.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-2. LA SOLICITUD DE LA PRESENCIA REQUERIDA SE FORMULARÁ POR ACUERDO DE LA COMISIÓN AL PRESIDENTE DE LA JUNTA DE GOBIERNO, A FIN DE QUE ÉSTE REALICE LA PETICIÓN DEL CASO AL PODER O ENTE PÚBLICO DE QUE SE TRATE.
+2. La solicitud de la presencia requerida se formulará por acuerdo de la comisión a la Presidencia de la Junta de Gobierno, a fin de que éste realice la petición del caso al Poder o ente público de que se trate.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
 
@@ -1053,11 +1037,9 @@ Los asesores de las diversas formas de agrupación por afiliación partidista no
 
 ###### ARTICULO 51.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-1. PODRÁN CONSTITUIRSE COMITÉS A PROPUESTA DE LA JUNTA DE GOBIERNO Y POR ACUERDO DEL PLENO, PARA ATENDER TAREAS QUE NO TENGAN CARÁCTER LEGISLATIVO, DE CONTROL DE LA GESTIÓN PÚBLICA O JURISDICCIONAL, A FIN DE REALIZAR TAREAS QUE NO SEAN MATERIA DE ATENCIÓN DE LAS COMISIONES ORDINARIAS.
+1. Podrán constituirse comités a propuesta de la Junta de Gobierno y por acuerdo del Pleno Legislativo, para atender tareas que no tengan carácter legislativo, de control de la gestión pública o jurisdiccional, a fin de realizar tareas que no sean materia de atención de las comisiones ordinarias.
 
 2. Los comités tendrán la duración que señale el acuerdo de creación.
 
@@ -1093,7 +1075,9 @@ ARTICULO 52 BIS.
 
 1. En apoyo al trabajo de las Comisiones y Comités, el Congreso del Estado contará con Auxiliares de Dictaminación, que estarán adscritos a la Unidad de Servicios Parlamentarios, los que tendrán el rango de asesores.
 
-2. Los Auxiliares de Dictaminación serán coordinados por el Titular de la Unidad de Servicios Parlamentarios y se encargarán de las actividades inherentes al análisis y elaboración de proyectos de dictámenes de los asuntos turnados a las Comisiones Ordinarias, así como apoyar a las Comisiones Especiales y Comités en la atención de los asuntos de su competencia.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+2. Las personas Auxiliares de Dictaminación serán coordinadas por la persona Titular de la Unidad de Servicios Parlamentarios y se encargarán de las actividades inherentes al análisis y elaboración de proyectos de dictámenes de los asuntos turnados a las Comisiones Ordinarias, así como apoyar a las Comisiones Especiales y Comités en la atención de los asuntos de su competencia.
 
 3. Quienes ocupen los cargos de Auxiliares de Dictaminación, deberán contar con licenciatura en carreras afines al derecho o la administración pública.
 
@@ -1101,7 +1085,9 @@ ARTICULO 52 BIS.
 
 ARTICULO 52 TER.
 
-1. Habrá un Auxiliar de Dictaminación responsable por cada una de las siguientes secciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2024)</small>
+
+1. Habrá una persona Auxiliar de Dictaminación responsable por cada una de las siguientes secciones:
 
 a) De Asuntos de carácter Social;
 
@@ -1113,11 +1099,9 @@ d) De Asuntos de Seguridad Pública y Justicia; y
 
 e) De Asuntos Patrimoniales y Municipales.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-2. A CADA SECCIÓN CORRESPONDERÁN LAS COMISIONES Y COMITÉS AFINES A SU NOMENCLATURA QUE ACUERDE LA JUNTA DE GOBIERNO AL INICIO DE LA LEGISLATURA.
+2. A cada Sección corresponderán las Comisiones y Comités que sean afines a su nomenclatura y que acuerde la Junta de Gobierno al inicio de la Legislatura.
 
 ### CAPITULO SEXTO. DE LA DIPUTACION PERMANENTE
 
@@ -1133,15 +1117,13 @@ e) De Asuntos Patrimoniales y Municipales.
 
 3. Si por causa extraordinaria el Congreso suspende sus sesiones o culmina el periodo ordinario sin haber electo a la Diputación Permanente, actuará como tal la última Mesa Directiva del Congreso.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-4. El Grupo Parlamentario del partido que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente en la legislatura en turno, contará con cuatro de los siete integrantes que conforman la Diputación Permanente, el Grupo Parlamentario que tenga la segunda mayoría contará con dos miembros en su integración, el séptimo Diputado o Diputada corresponderá a cualquier otro grupo parlamentario que no corresponda a la segunda fuerza o, en su caso, de no existir otros grupos parlamentarios, corresponde a cualquier forma de agrupación o representación partidista, sin partido e independiente que se determine incluir en la propuesta con base en los acuerdos que se produzcan para ese efecto en la Junta de Gobierno y privilegiando en su caso la que tenga un mayor número de integrantes; bajo este último criterio, los suplentes se integrarán de la siguiente manera, uno para cada uno de los grupos parlamentarios, quienes actuarán en suplencia de cualquiera de los miembros propietarios de la Diputación Permanente; en caso de que aún persista la necesidad de designar a un suplente y no haya Grupos Parlamentarios para asignar, le corresponderá a cualquier forma de agrupación o de representación partidista, sin partido e independiente que se determine, con base en los acuerdos conducentes al interior de la Junta de Gobierno.
+4. El Grupo Parlamentario del partido que haya obtenido más votos o que haya ganado más distritos de mayoría en el Estado, en la elección correspondiente de la legislatura en turno, contará con cuatro de los siete Diputados que conforman la Diputación Permanente, el Grupo Parlamentario que tenga la segunda mayoría contará con dos Diputados en su integración, el séptimo Diputado corresponderá a cualquier otro grupo parlamentario que no corresponda a la segunda fuerza o, en su caso, de no existir otros grupos parlamentarios, corresponde a cualquier forma de agrupación o representación partidista que se determine incluir en la propuesta con base en los acuerdos que se produzcan para tal efecto en la Junta de Gobierno y privilegiando en su caso la que tenga un mayor número de integrantes; bajo éste último criterio, los suplentes se integrarán de la siguiente manera, uno para cada uno de los grupos parlamentarios, quienes actuarán en suplencia de cualquiera de los miembros propietarios de la Diputación Permanente; en caso de que aún persista la necesidad de designar a un suplente y no haya Grupos Parlamentarios para asignar, le corresponderá a cualquier forma de agrupación o de representación partidista, que se determine, con base en los acuerdos conducentes al interior de la Junta de Gobierno.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 5 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-5. LA PROPUESTA PARA LA ELECCIÓN DE LA DIPUTACIÓN PERMANENTE SERÁ PRESENTADA AL PLENO POR UN INTEGRANTE DE LA JUNTA DE GOBIERNO, CUYA VOTACIÓN SE REALIZARÁ POR CÉDULA, Y SE COMUNICARÁ A LOS ÓRGANOS SEÑALADOS EN EL NUMERAL 5 DEL ARTÍCULO 18 DEL PRESENTE ORDENAMIENTO.
+5. La propuesta para la elección de la Diputación Permanente será presentada al Pleno Legislativo por un integrante de la Junta de Gobierno, cuya votación se realizará por cédula, y se comunicará a los órganos señalados en el numeral 5 del artículo 18 del presente ordenamiento.
 
 ###### ARTICULO 54.
 
@@ -1237,15 +1219,15 @@ Las Minutas que no hayan sido atendidas mediante el procedimiento legislativo co
 
 1. En su desempeño, la Secretaría General observa las disposiciones de la Constitución Política del Estado, de esta ley, de los acuerdos relativos a la actividad parlamentaria, así como de los lineamientos que dicten los órganos de dirección parlamentaria y de dirección política del Poder Legislativo.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+2. La Secretaría General constituye el ámbito de coordinación y de supervisión de los servicios técnicos y administrativos del Congreso del Estado.
 
-2. LA SECRETARÍA GENERAL CONSTITUYE EL ÁMBITO DE COORDINACIÓN Y SUPERVISIÓN DE LOS SERVICIOS TÉCNICOS Y ADMINISTRATIVOS DEL CONGRESO DEL ESTADO.
+La persona titular de la Secretaría General será nombrada por el Pleno Legislativo, con la aprobación de la mayoría de las Diputadas y los Diputados presentes, a propuesta de quien presida la Junta de Gobierno, por el término de la Legislatura. En todo caso, continuará en sus funciones hasta la realización de la elección correspondiente.
 
-EL SECRETARIO GENERAL SERÁ NOMBRADO POR EL PLENO LEGISLATIVO CON LA APROBACIÓN DEL VOTO DE LAS DOS TERCERAS PARTES DE LOS INTEGRANTES DEL MISMO, A PROPUESTA DE QUIEN PRESIDA LA JUNTA DE GOBIERNO, POR EL TÉRMINO DE LA LEGISLATURA. EN TODO CASO, CONTINUARÁ EN SUS FUNCIONES HASTA LA REALIZACIÓN DE LA ELECCIÓN CORRESPONDIENTE.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2024)</small>
 
-3. Para ser designado Secretario General se requiere:
+3. Para ser designada la persona titular de la Secretaría General se requiere:
 
 > <small>(REFORMADO, P. O. 19 DE ABRIL DE 2012)</small>
 
@@ -1261,33 +1243,29 @@ e) Acreditar conocimientos y experiencia para desempeñar el cargo, y
 
 f) No haber sido condenado por delito intencional que ameritara pena privativa de la libertad.
 
-4. Son atribuciones del Secretario General:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2024)</small>
+
+4. Son atribuciones de la persona titular de la Secretaría General:
 
 a) Preparar la sesión de instalación de cada Legislatura y las sesiones del Pleno en los términos previstos por esta ley;
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO b) DEL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-b) Asistir a las reuniones de trabajo de la Mesa Directiva, de la Junta de Gobierno y de la Junta de Coordinación Política y brindar las opiniones que se le soliciten;
+b) Asistir a las reuniones de trabajo de la Mesa Directiva, de la Junta de Gobierno y de la Junta de Coordinación Política y brindar las opiniones que le sean solicitadas;
 
 c) Dirigir los trabajos de las Unidades de Servicios Parlamentarios y de Servicios Administrativos y Financieros, supervisar el cumplimiento de las atribuciones de las mismas y velar por su correcto funcionamiento;
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO d) DEL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-d) EJECUTAR LOS ACUERDOS DE LA MESA DIRECTIVA, DE LA JUNTA DE GOBIERNO, ASÍ COMO VIGILAR QUE SE CUMPLAN LAS POLÍTICAS, LINEAMIENTOS Y CRITERIOS DE DICHOS ÓRGANOS EN LA PRESTACIÓN DE LOS SERVICIOS PARLAMENTARIOS, Y ADMINISTRATIVOS Y FINANCIEROS;
+d) Ejecutar los acuerdos tomados por la Mesa Directiva, la Junta de Gobierno, así como vigilar que se cumplan las políticas, lineamientos y criterios de dichos órganos en la prestación de los servicios parlamentarios, y administrativos y financieros;
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
 e) Formular el anteproyecto de presupuesto anual del Congreso y los programas de carácter administrativo y financiero para su ejercicio;
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO f) DEL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-f) INFORMAR A LA MESA DIRECTIVA Y A LA JUNTA DE GOBIERNO SOBRE EL CUMPLIMIENTO DE LOS ACUERDOS ADOPTADOS POR DICHOS ÓRGANOS, Y SOBRE EL DESEMPEÑO EN LA PRESTACIÓN DE LOS SERVICIOS PARLAMENTARIOS Y ADMINISTRATIVOS Y FINANCIEROS; Y
+f) Informar a la Mesa Directiva y a la Junta de Gobierno sobre el cumplimiento de los acuerdos adoptados por dichos órganos, así como el desempeño en la prestación de los servicios parlamentarios y administrativos y financieros; y
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -1305,9 +1283,9 @@ a) De Asistencia Técnica a la Presidencia de la Mesa Directiva, que comprende l
 
 b) De la Sesión, que comprende los de: preparación y desarrollo de los trabajos del Pleno; elaboración del proyecto de instructivo para la conducción de la sesión; apoyo en actividades del protocolo y ceremonial; asesoría a los integrantes de la Mesa Directiva sobre el desahogo de los procedimientos parlamentarios; elaboración, registro y compilación de las actas de la sesión; y, asistencia a los Secretarios para verificar el quórum, el cómputo y registro de las votaciones;
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-c) De las Comisiones, que comprende los de: organización y asistencia para la celebración de sus reuniones; elaboración de la agenda semanal de reuniones; actividades de logística y estadística; registro de sus integrantes; atención en la solicitud de documentos para el desahogo de sus actividades; y apoyo a los Auxiliares de Dictaminación en la planeación y desarrollo de las reuniones de comisiones;
+c) De las Comisiones, que comprende los de: organización y asistencia para la celebración de sus reuniones; elaboración de la agenda semanal de reuniones; actividades de logística y estadística; registro de sus integrantes; atención en la solicitud de documentos para el desahogo de sus actividades; y apoyo a las personas Auxiliares de Dictaminación en la planeación y desarrollo de las reuniones de comisiones;
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1323,15 +1301,15 @@ f) De Archivo, que comprende los de: formación, clasificación y custodia de ex
 
 g) (DEROGADO, P.O. 2 DE ABRIL DE 2019)
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-h) De Apoyo Técnico y Actualización Legislativa, que comprende los de: registro y control de iniciativas y propuestas; estadística de las leyes, decretos y acuerdos expedidos por el Pleno Legislativo; elaboración de informes sobre el trabajo del Congreso; asesoría de técnica legislativa en la elaboración de documentos inherentes al proceso legislativo; edición, reproducción, sistematización y actualización de la Constitución Política del Estado, leyes, códigos y reglamentos estatales vigentes que se difunden en la página web oficial del Congreso, así como el registro y clasificación de la legislación abrogada; y auxiliar al titular de la Unidad de Servicios Parlamentarios en el ejercicio de sus atribuciones;
+h) De Apoyo Técnico y Actualización Legislativa, que comprende los de: registro y control de iniciativas y propuestas; estadística de las leyes, decretos y acuerdos expedidos por el Pleno Legislativo; elaboración de informes sobre el trabajo del Congreso; asesoría de técnica legislativa en la elaboración de documentos inherentes al proceso legislativo; edición, reproducción, sistematización y actualización de la Constitución Política del Estado, leyes, códigos y reglamentos estatales vigentes que se difunden en la página web oficial del Congreso, así como el registro y clasificación de la legislación abrogada; y auxiliar a la persona titular de la Unidad de Servicios Parlamentarios en el ejercicio de sus atribuciones;
 
 i) (DEROGADO, P.O. 10 DE NOVIEMBRE DE 2021)
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-j) De documentación, que comprende los de recopilación, escaneo reproducción y distribución, entre los diputados de los documentos inherentes al desarrollo de la sesión y su incorporación a la página web oficial del Congreso; proveer de documentación a los Auxiliares de Dictaminación: manejo y operación de la página web, el sistema interno para la publicación del contenido parlamentario, del equipo de audio y video, del circuito cerrado de televisión, así como el sistema electrónico de votaciones; y
+j) De documentación, que comprende los de: recopilación, escaneo reproducción y distribución, entre las diputadas y diputados de los documentos inherentes al desarrollo de la sesión y su incorporación a la página web oficial del Congreso; proveer de documentación a las personas Auxiliares de Dictaminación: manejo y operación de la página web, el sistema interno para la publicación del contenido parlamentario, del equipo de audio y video, del circuito cerrado de televisión, así como el sistema electrónico de votaciones; y
 
 > <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1345,11 +1323,9 @@ k) De Oficialía de Partes, que comprende los de recibir y registrar la correspo
 
 1. Son atribuciones de la Unidad de Servicios Parlamentarios:
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO a) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-a) ASISTIR AL SECRETARIO GENERAL EN EL CUMPLIMIENTO DE SUS FUNCIONES Y ACORDAR CON ÉL LOS ASUNTOS DE SU RESPONSABILIDAD, ASÍ COMO SUPLIRLO CUANDO NO PUEDA CONCURRIR A LAS REUNIONES DE LA MESA DIRECTIVA, O DE LA JUNTA DE GOBIERNO EN ASUNTOS PARLAMENTARIOS;
+a) Asistir a la persona titular de la Secretaría General en el cumplimiento de sus funciones y acordar con él los asuntos de su responsabilidad, así como suplirlo cuando no pueda acudir a las reuniones de la Mesa Directiva, o de la Junta de Gobierno en asuntos parlamentarios;
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
 
@@ -1365,13 +1341,13 @@ d) Elaborar y mantener actualizado el manual de operación de los servicios parl
 
 e) Otorgar asesoría y formular opiniones técnicas en apoyo al trabajo de Comisiones sobre iniciativas y propuestas turnadas para dictamen;
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-f) Coordinar y supervisar el trabajo de los Auxiliares de Dictaminación; y
+f) Coordinar y supervisar el trabajo de las personas Auxiliares de Dictaminación; y
 
-(REUBICADO Y REFORMADO, P.O. 6 DE DICIEMBRE DE 2016)
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-g) Cumplir las demás funciones que le confiere esta ley, los ordenamientos relativos a la actividad parlamentaria del Congreso y que le encomiende la Secretaría General.
+g) Cumplir las demás funciones que le confiere esta ley, los ordenamientos relativos a la actividad parlamentaria del Congreso y que le encomiende la persona titular de la Secretaría General.
 
 2. El titular de la Unidad de Servicios Parlamentarios velará por la imparcialidad de los servicios a su cargo.
 
@@ -1413,35 +1389,33 @@ h) De Biblioteca, que comprende los de: resguardo, administración y actualizaci
 
 3. Cada servicio tendrá el rango de departamento.
 
-> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-4. La Unidad de Servicios Administrativos y Financieros contará con tres áreas de apoyo, para la atención de los servicios relativos a recursos materiales, que tendrá a cargo el almacén para el resguardo temporal de bienes de consumo interno; a adquisiciones, que estará a cargo del registro y actualización del padrón de proveedores, y de la compra de bienes y servicios necesarios para el funcionamiento del Congreso del Estado; así como con un área especializada en Certificación y Capacitación de los servidores públicos de los servicios parlamentarios y administrativos.
+4. La Unidad de Servicios Administrativos y Financieros contará con dos áreas de apoyo, para la atención de los servicios relativos a recursos materiales, que tendrá a cargo el almacén para el resguardo temporal de bienes de consumo interno; a adquisiciones, que estará a cargo del registro y actualización del padrón de proveedores, y de la compra de bienes y servicios necesarios para el funcionamiento del Congreso del Estado.
 
 ###### ARTICULO 64.
 
 1. Son atribuciones de la Unidad de Servicios Administrativos y Financieros:
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO a) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-a) ASISTIR AL SECRETARIO GENERAL EN EL CUMPLIMIENTO DE SUS FUNCIONES, ACORDAR CON ÉL LOS ASUNTOS DE SU RESPONSABILIDAD Y SUPLIRLO CUANDO NO PUEDA CONCURRIR A LAS REUNIONES DE LA JUNTA DE GOBIERNO EN LOS ASUNTOS ADMINISTRATIVOS Y FINANCIEROS;
+a) Asistir a la persona titular de la Secretaría General en el cumplimiento de sus funciones, acordar con él los asuntos de su responsabilidad y suplirlo cuando no pueda acudir a las reuniones de la Junta de Gobierno en los asuntos administrativos y financieros;
 
 b) Dirigir los trabajos de los servicios bajo su adscripción y acordar los asuntos de su competencia con sus titulares;
 
 c) Realizar estudios de carácter administrativo y financiero sobre el funcionamiento del Congreso, y
 
-d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos relativos a la actividad administrativa y financiera del Congreso y que le encomiende el secretario general.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos relativos a la actividad administrativa y financiera del Congreso y que le encomiende la persona titular de la Secretaría General.
 
-2. El titular de la Unidad de Servicios Administrativos y Financieros velará por el eficiente funcionamiento de los servicios que le competen; asimismo es el responsable de la integración y consolidación de la información financiera, contable, presupuestal, patrimonial y programática que se remitirá a la Secretaría de Finanzas del Poder Ejecutivo para la conformación del Tomo del Poder legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+2. La persona titular de la Unidad de Servicios Administrativos y Financieros velará por el eficiente funcionamiento de los servicios que le competen; asimismo es el responsable de la integración y consolidación de la información financiera, contable, presupuestal, patrimonial y programática que se remitirá a la Secretaría de Finanzas del Poder Ejecutivo para la conformación del Tomo del Poder legislativo de la Cuenta Pública del Gobierno del Estado de Tamaulipas.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-3. LA UNIDAD DE SERVICIOS ADMINISTRATIVOS Y FINANCIEROS, INSTRUMENTARÁ UNA POLÍTICA DE “CERO PAPEL” POR LA CUAL SE REDUCIRÁ EL USO DE PAPEL EN LOS PROCESOS PARLAMENTARIOS Y ADMINISTRATIVOS DEL CONGRESO DEL ESTADO, EN LOS QUE NO SE REQUIERAN DATOS EN PAPEL PARA GARANTIZAR AUTENTICIDAD, CONFIABILIDAD E INALTERABILIDAD DE ALGUNA INFORMACIÓN. PARA ELLO, INSTRUMENTARÁ LOS MECANISMOS TECNOLÓGICOS, PROCESALES Y DE CAPACITACIÓN NECESARIOS HASTA LOGRAR REDUCIR EL USO DE PAPEL EN EL CONGRESO. LA JUNTA DE GOBIERNO EVALUARÁ Y VALIDARÁ LOS RESULTADOS DE LAS ESTRATEGIAS ADOPTADAS AL INICIO DE CADA PERIODO DE SESIONES Y SE COMUNICARÁ EL RESULTADO AL PLENO.
+3. La Unidad de Servicios Administrativos y Financieros, instrumentará una política de “Cero Papel” por la cual se reducirá el uso de papel en los procesos parlamentarios y administrativos del Congreso del Estado, en los que no se requieran datos en papel para garantizar autenticidad, confiabilidad e inalterabilidad de alguna información. Para ello, instrumentará los mecanismos tecnológicos, procesales y de capacitación necesarios hasta lograr reducir el uso de papel en el Congreso del Estado. La Junta de Gobierno evaluará y validará los resultados de las estrategias adoptadas al inicio de cada periodo de sesiones y se comunicará el resultado al Pleno Legislativo.
 
 ###### ARTICULO 65.
 
@@ -1449,11 +1423,9 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 
 1. La Unidad de Comunicación Social tiene a su cargo la difusión de las actividades del Congreso, a la vez que sirve de enlace con los medios de comunicación y es responsable del programa de publicaciones y del material de divulgación. En la realización de estas tareas actuará con criterios de objetividad, imparcialidad y neutralidad editorial, a efecto de garantizar el derecho de la sociedad a la información completa y precisa de las actividades desarrolladas por el Congreso, y cuidará en todo momento la utilización de lenguaje claro e inclusivo.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-2. LA UNIDAD DE COMUNICACIÓN SOCIAL DEPENDE DE LA JUNTA DE GOBIERNO PARA LA DIVULGACIÓN DE LOS ASPECTOS DE DIRECCIÓN POLÍTICA DEL CONGRESO.
+2. La Unidad de Comunicación Social depende de la Junta de Gobierno para la divulgación de los aspectos de dirección política del Congreso del Estado.
 
 3. En su caso, se coordinará con la Secretaría General cuando las actividades a su cargo incidan en el desempeño de las funciones de dirección parlamentaria de la Mesa Directiva y el desarrollo de las sesiones del Pleno o las reuniones de las comisiones.
 
@@ -1461,19 +1433,21 @@ d) Cumplir las demás funciones que le confieren esta ley, los ordenamientos rel
 
 ###### ARTICULO 66.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL PÁRRAFO ÚNICO DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JULIO DE 2023)</small>
-
-1. LA UNIDAD DE LA CONTRALORÍA INTERNA ES EL ÓRGANO QUE DEPENDE DE LA JUNTA DE GOBIERNO Y TIENE A SU CARGO LAS SIGUIENTES TAREAS:
+1. La Unidad de la Contraloría interna es el órgano que depende de la Junta de Gobierno y tiene a su cargo las tareas siguientes:
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 2019)</small>
 
 a) De Auditoría Interna, y que comprende las de fiscalización y evaluación del ejercicio del presupuesto de egresos del Congreso; inspección y auditoría sobre el cumplimiento de normas y disposiciones en materia de contabilidad, contratación y pago de personal, obras y servicios, así como en lo relativo a adquisiciones, arrendamiento, conservación, uso, destino, afectación, enajenación y baja de bienes, activos y recursos materiales llevando un inventario actualizado; verificación del padrón de proveedores; supervisión de la integración y trámite de la cuenta pública; atención y seguimiento al plan de acciones correctivas inherentes a informes de auditoría o actividades de control, y supervisión del proceso de entrega recepción; y
 
-b) De Quejas y Responsabilidades, que comprende las de atención de quejas y denuncias administrativas interpuestas en contra de servidores públicos del Congreso; orientación y capacitación en materia de obligaciones, responsabilidades públicas y mejor aprovechamiento de los recursos; formulación y supervisión de manuales de control interno; establecimiento de un software o sistema informativo para la recepción de quejas y denuncias; recepción y registro de declaraciones patrimoniales y las demás que le asigne el titular de la Unidad de la Contraloría.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-2. Para el mejor cumplimiento de sus atribuciones, el titular de la Contraloría podrá requerir a los servidores públicos del Congreso información sobre sus respectivas áreas y estos deberán proporcionarla en forma inmediata.
+b) De Quejas y Responsabilidades, que comprende las de: atención de quejas y denuncias administrativas interpuestas en contra de servidores públicos del Congreso; orientación y capacitación en materia de obligaciones, responsabilidades públicas y mejor aprovechamiento de los recursos; formulación y supervisión de manuales de control interno; establecimiento de un software o sistema informativo para la recepción de quejas y denuncias; recepción y registro de declaraciones patrimoniales y las demás que le asigne la persona titular de la Unidad de la Contraloría.
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+2. Para el mejor cumplimiento de sus atribuciones, la persona titular de la Unidad de la Contraloría podrá requerir a las personas servidoras públicas del Congreso información sobre sus respectivas áreas y estos deberán proporcionarla en forma inmediata.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -1481,11 +1455,9 @@ ARTICULO 66 BIS.
 
 1. La Unidad de Transparencia del Congreso del Estado, realizará sus funciones con base en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, y ejercerá sus atribuciones legales orientada por las bases regulatorias que establezca el Reglamento que al efecto se expida en esta materia.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-2. LA UNIDAD DE TRANSPARENCIA DEPENDERÁ DE QUIEN PRESIDA LA JUNTA DE GOBIERNO, DEBIENDO DESARROLLAR SUS FUNCIONES BAJO EL ACUERDO Y SUPERVISIÓN DE DICHO TITULAR, EN LOS TÉRMINOS QUE ESTABLEZCAN LAS DISPOSICIONES LEGALES Y REGLAMENTARIAS RESPECTIVAS.
+2. La Unidad de Transparencia depende de la Junta de Gobierno, debiendo desarrollar sus funciones bajo el acuerdo y supervisión de su titular, en los términos que establezcan las disposiciones legales y reglamentarias respectivas.
 
 3. La Unidad de Transparencia contará con un Departamento Jurídico el cual asesorará a la Unidad en el cumplimiento de las disposiciones legales vigentes en materia de Acceso a la Información y Protección de Datos Personales, así como prestará auxilio a la Unidad en todo lo que ésta requiera.
 
@@ -1543,11 +1515,9 @@ l) Las demás que se le encomienden a través del Comité del Instituto de Inves
 
 2. Para el ejercicio de las atribuciones establecidas en el párrafo anterior, el Instituto contará con la estructura administrativa que se prevea en el Reglamento, la cual podrá ampliarse conforme a las necesidades propias de su funcionamiento. El personal del instituto deberá contar con un perfil profesional relacionado con los ámbitos académico y de la investigación.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-3. EL COORDINADOR DEL INSTITUTO SERÁ NOMBRADO POR EL PLENO, CON EL VOTO DE LA MAYORÍA DE LOS DIPUTADOS PRESENTES, A PROPUESTA DE LA JUNTA DE GOBIERNO, POR UN TÉRMINO DE TRES AÑOS, PUDIENDO SER RATIFICADO, Y SOLO PODRÁ SER REMOVIDO POR EL MISMO PLENO.
+3. El Coordinador del Instituto será nombrado por el Pleno Legislativo, con el voto de la mayoría de las Diputadas y los Diputados presentes, a propuesta de la Junta de Gobierno, por un término de tres años, pudiendo ser ratificado, y solo podrá ser removido por el mismo Pleno Legislativo.
 
 4. Para ser nombrado Coordinador del Instituto de Investigaciones Parlamentarias se requiere:
 
@@ -1595,11 +1565,9 @@ h) Realizar estudios sobre los temas directamente relacionados con las finanzas 
 
 2. Para el ejercicio de las atribuciones establecidas en el párrafo anterior, el Centro contará con la estructura administrativa que se prevea en el Reglamento, la cual podrá ampliarse conforme a las necesidades propias de su funcionamiento. El personal del instituto deberá contar con un perfil profesional relacionado con los ámbitos académicos y de la investigación.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-3. LA PERSONA TITULAR DE LA COORDINACIÓN DEL CENTRO SERÁ NOMBRADA, A PROPUESTA DE LA JUNTA DE GOBIERNO, Y SÓLO PODRÁ SER REMOVIDA POR EL PLENO.
+3. La persona titular de la Coordinación del Centro será nombrada, a propuesta de la Junta de Gobierno, y sólo podrá ser removida por el Pleno Legislativo.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2018)</small>
 
@@ -1629,11 +1597,9 @@ a) Aprobar el reglamento interno que rija el trabajo técnico y científico enca
 
 b) Adoptar las medidas y decisiones relativas a la vinculación del Centro con otras instituciones similares de órganos legislativos nacionales y extranjeros; y
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO c) DEL NUMERAL 6 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-c) GESTIONAR ANTE LA JUNTA DE GOBIERNO LA ASIGNACIÓN DEL PRESUPUESTO DEL CENTRO PARA EL CUMPLIMIENTO DE SUS FUNCIONES Y ATRIBUCIONES.
+c) Gestionar ante la Junta de Gobierno la asignación del presupuesto del Centro de Estudio de las Finanzas Públicas, para el cumplimiento de sus funciones y atribuciones.
 
 7. En los análisis, informes, proyecciones y toda clase de documentos que elabore el Centro, no podrán hacerse recomendaciones de política económica y social.
 
@@ -1653,37 +1619,39 @@ d) La planeación, análisis, organización y ejecución de los programas de act
 
 2. Para el ejercicio de las atribuciones establecidas en el párrafo anterior, la Unidad contará con la estructura administrativa necesaria, la cual podrá ampliarse conforme a las necesidades propias de su funcionamiento. El personal de la Unidad deberá contar con un perfil profesional idóneo al de su objeto.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+3. La Unidad de Profesionalización Parlamentaria contará con un área especializada en Certificación y Capacitación de los servidores públicos de los servicios parlamentarios y administrativos.
 
-3. EL TITULAR DE LA UNIDAD SERÁ NOMBRADO POR LA JUNTA DE GOBIERNO, A PROPUESTA DEL PRESIDENTE DE LA MISMA, POR UN TÉRMINO DE TRES AÑOS, PUDIENDO SER RATIFICADO, Y SÓLO PODRÁ SER REMOVIDO CONFORME LO PREVISTO EN EL ARTÍCULO 66 SEXIES DE LA PRESENTE LEY.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-4. Para ser nombrado Titular de la Unidad de Profesionalización Parlamentaria, se requiere:
+4. El Titular de la Unidad será nombrado por la Junta de Gobierno, a propuesta del Presidente de la misma, por un término de tres años, pudiendo ser ratificado, y sólo podrá ser removido conforme lo previsto en el artículo 66 SEXIES de esta Ley.
+
+5. Para ser nombrado Titular de la Unidad de Profesionalización Parlamentaria, se requiere:
 
 a) Ser mexicano;
 
-b) Estar en pleno de goce de sus derechos civiles y políticos;
+b) Estar en pleno goce de sus derechos civiles y políticos;
 
 c) No haber sido condenado por delito intencional que ameritara pena privativa de la libertad;
 
-d) Contar con título profesional preferentemente de Licenciado en Derecho o su equivalente legalmente expedido, y
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+d) Contar con título profesional preferentemente de Licenciado en Derecho o su equivalente legalmente expedido; y
 
 e) Acreditar mínimo cinco años en el ejercicio de la profesión y contar con experiencia en materia parlamentaria.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ARTICULO 66 SEXIES.
 
-1. A las personas titulares de la Secretaría General, así como de las Unidades, de las jefaturas de departamento, jefaturas de unidad, responsables de área, y Auxiliares de Dictaminación, que conforman la estructura orgánica del Poder Legislativo, previstas en esta Ley, reglamentos respectivos, y cualquier otro instrumento jurídico, se les garantizará su permanencia en el cargo para el cual fueron nombrados o, por lo menos, hasta por el término de la Legislatura, según sea el caso.
+1. A las personas titulares de la Secretaría General, así como de las Unidades, jefaturas de departamento, jefaturas de unidad, responsables de área, y Auxiliares de Dictaminación, que conforman la estructura orgánica del Poder Legislativo, previstas en esta Ley, reglamentos respectivos, y cualquier otro instrumento jurídico, se les garantizará su permanencia en el cargo para el cual fueron nombrados o, por lo menos, hasta por el término de la Legislatura, según sea el caso.
 
-2. Para el caso del nombramiento del Secretario General, el mismo se hará a propuesta de la Junta de Gobierno y aprobado por las dos terceras partes de los integrantes del Pleno Legislativo.
+2. Para el caso del nombramiento de la persona titular de la Secretaría General, el mismo se hará a propuesta de la Junta de Gobierno y será aprobado por el Pleno Legislativo con el voto de la mayoría de las Diputadas y los Diputados presentes.
 
-3. Todos los nombramientos de los titulares señalados en el presente artículo, a excepción del Secretario General, deberán ser aprobados por la mayoría ponderada de los integrantes de la Junta de Gobierno del Congreso del Estado, en reunión donde se encuentren presentes la totalidad de los integrantes de la Junta de Gobierno.
+3. Todos los nombramientos de los titulares señalados en el presente artículo, con excepción de la Secretaría General, deberán ser aprobados por la mayoría ponderada de los integrantes de la Junta de Gobierno del Congreso del Estado, en reunión donde se encuentren presentes la totalidad de los integrantes de la Junta de Gobierno.
 
-4. Las personas servidoras públicas referidas en el presente artículo, únicamente podrán ser removidas de su cargo por el voto de las dos terceras partes de los miembros del Pleno Legislativo.
+4. Las personas servidoras públicas referidas en el presente artículo, sólo podrán ser removidas de su cargo por el voto de las dos terceras partes de los miembros del Pleno Legislativo.
 
 ## TITULO TERCERO. DEL FUNCIONAMIENTO INTERNO DEL CONGRESO
 
@@ -1709,11 +1677,9 @@ g) Representar al Congreso en las reuniones para las cuales se le designe por el
 
 h) Recibir la identificación que lo acredite como diputado al Congreso del Estado;
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO i) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-i) PERCIBIR LAS DIETAS Y ASIGNACIONES CORRESPONDIENTES CONFORME AL PRESUPUESTO DE EGRESOS DEL CONGRESO Y DISFRUTAR DE LAS PREVISIONES Y PRESTACIONES DE SEGURIDAD SOCIAL Y ATENCIÓN MÉDICA QUE PERMITA LA DISPONIBILIDAD PRESUPUESTAL, CONFORME AL PROGRAMA QUE ACUERDE LA JUNTA DE GOBIERNO; Y
+i) Percibir las dietas y asignaciones correspondientes conforme al presupuesto de egresos del Congreso del Estado y disfrutar de las previsiones y prestaciones de seguridad social y atención médica que permita la disponibilidad presupuestal, conforme al programa que acuerde la Junta de Gobierno; y
 
 j) Solicitar licencia para separarse de su encargo representativo.
 
@@ -1829,11 +1795,13 @@ d) Atención de alguna encomienda oficial conferida por el Pleno, las Comisiones
 
 7. También será causa para la disminución en las dietas la ausencia injustificada a las comisiones o comités de las que forme parte el diputado. En su caso, el Presidente de la comisión o comité hará la notificación por escrito al Presidente de la Mesa Directiva para los efectos del párrafo anterior, debiendo entregarse copia al interesado de dicha notificación.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
 ###### ARTICULO 70.
 
-1. En caso de que se presenten cualesquiera de las hipótesis conducentes al entendimiento de que el diputado propietario o el diputado suplente renuncian a sus encargos, el Presidente de la Mesa Directiva será responsable de que la determinación que corresponde por mandato del artículo 37 de la Constitución Política del Estado se publique en el Periódico Oficial del Estado.
+1. En caso de que se presenten cualesquiera de las hipótesis conducentes al entendimiento de que la Diputada o Diputado propietario o la Diputada o Diputado suplente renuncian a sus encargos, la Presidencia de la Mesa Directiva será responsable de que la determinación que corresponde por mandato del artículo 37 de la Constitución Política del Estado se publique en el Periódico Oficial del Estado.
 
-2. Cuando no se hubiere reunido el quórum para la instalación de la Legislatura, el secretario general solicitará que la determinación derivada del artículo 37 de la Constitución Política del Estado, a que se refiere el párrafo anterior, se publique en el Periódico Oficial del Estado.
+2. Cuando no se hubiere reunido el quórum para la instalación de la Legislatura, la persona titular de la Secretaría General solicitará que la determinación derivada del artículo 37 de la Constitución Política del Estado, a que se refiere el párrafo anterior, se publique en el Periódico Oficial del Estado.
 
 ###### ARTICULO 71.
 
@@ -1925,17 +1893,13 @@ e) Sobrevenga la muerte del representante popular.
 
 6. Las sesiones serán permanentes si se celebran con ese carácter por acuerdo expreso de la mayoría de los miembros del Congreso, con objeto de abordar un asunto previamente determinado y hasta la conclusión de los procedimientos parlamentarios requeridos para su tratamiento.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 7 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+7. Las sesiones serán semipresenciales cuando así se disponga por esta ley o lo acuerde la Junta de Gobierno, con carácter excepcional por la situación de emergencia y contingencia de salud pública en el Estado. El orden del día de dichas sesiones se establecerá conforme a las previsiones que proponga la Junta de Gobierno.
 
-7. LAS SESIONES SERÁN SEMIPRESENCIALES CUANDO ASÍ SE DISPONGA POR ESTA LEY O LO ACUERDE LA JUNTA DE GOBIERNO, CON CARÁCTER EXCEPCIONAL POR LA SITUACIÓN DE EMERGENCIA Y CONTINGENCIA DE SALUD PÚBLICA EN EL ESTADO. EL ORDEN DEL DÍA DE ESTAS SESIONES SE ESTABLECERÁ CONFORME A LAS PREVISIONES QUE PROPONGA LA JUNTA DE GOBIERNO.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 8 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-8. LAS SESIONES SERÁN SOLEMNES CUANDO ASÍ SE DISPONGA POR ESTA LEY O LO ACUERDE EL PLENO CON OBJETO DE REALIZAR ALGUNA CONMEMORACIÓN O RECIBIR LA PRESENCIA DE ALGÚN INVITADO ESPECIAL. EL ORDEN DEL DÍA DE ESTAS SESIONES SE ESTABLECERÁ CONFORME A LAS PREVISIONES QUE PROPONGA LA JUNTA DE GOBIERNO.
+8. Las sesiones serán solemnes cuando así se disponga por esta ley o lo acuerde el Pleno Legislativo, con el objeto de realizar alguna conmemoración o recibir la presencia de algún invitado especial. El orden del día de estas sesiones se establecerá conforme a las previsiones que proponga la Junta de Gobierno.
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
@@ -1951,11 +1915,9 @@ e) Sobrevenga la muerte del representante popular.
 
 1. El Congreso del Estado celebrará cuantas sesiones requiera para el oportuno despacho de los asuntos de su competencia, pero normalmente lo hará los martes de cada semana durante el período ordinario de sesiones.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-2. LAS SESIONES ORDINARIAS Y EXTRAORDINARIAS INICIARÁN NORMALMENTE A LAS DOCE HORAS, SALVO DISPOSICIÓN ESPECÍFICA DEL PRESIDENTE DE LA MESA DIRECTIVA, EN CUYO CASO SE HARÁ PREVIAMENTE DEL CONOCIMIENTO DE LOS INTEGRANTES DEL PLENO POR CONDUCTO DE LOS SERVICIOS TÉCNICOS CORRESPONDIENTES. SE PROCURARÁ QUE SU DURACIÓN NO SEA MAYOR DE CINCO HORAS, PERO EL PRESIDENTE DE LA MESA DIRECTIVA, CON BASE EN LA PROPUESTA DE LA JUNTA DE GOBIERNO, PODRÁ PRORROGARLAS HASTA CONCLUIR LA DISCUSIÓN EN CURSO O LOS ASUNTOS CONTENIDOS EN EL ORDEN DEL DÍA.
+2. Las sesiones ordinarias y extraordinarias iniciarán normalmente a las doce horas, salvo disposición específica de la Presidencia de la Mesa Directiva, en cuyo caso se hará previamente del conocimiento de los integrantes del Pleno Legislativo por conducto de los servicios técnicos correspondientes. Se procurará que su duración no sea mayor de cinco horas, pero la Presidencia de la Mesa Directiva, con base en la propuesta de la Junta de Gobierno, podrá prorrogarlas hasta concluir la discusión en curso o los asuntos contenidos en el orden del día.
 
 ###### ARTICULO 79.
 
@@ -1987,11 +1949,9 @@ a) Las conclusiones de la Comisión Instructora en los casos de juicio político
 
 b) Las comunicaciones que se dirijan al Congreso con la nota de "reservado", y
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO c) DEL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-c) LOS DEMÁS QUE LA LEY, LA JUNTA DE GOBIERNO O EL PRESIDENTE DE LA MESA DIRECTIVA CONSIDEREN QUE DEBEN TRATARSE EN RESERVA.
+c) Los demás que esta ley, la Junta de Gobierno o la Presidencia de la Mesa Directiva consideren que deben tratarse en reserva.
 
 3. Cuando en sesión reservada se trate un asunto que exija reserva estricta, el presidente de la Mesa Directiva consultará al Pleno si debe guardarse sigilo y si la mayoría lo acuerda, los presentes están obligados a guardarlo.
 
@@ -2053,17 +2013,13 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 
 2. En la apertura de cada sesión, el Presidente de la Mesa Directiva expresará la hora y día en que ello ocurre, procediéndose de igual forma cuando declare su conclusión.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+3. La Presidencia de la Mesa Directiva podrá autorizar la introducción de otros apartados en el orden del día conforme a la propuesta que realice la Junta de Gobierno, con base en la naturaleza y pertinencia de los mismos.
 
-3. EL PRESIDENTE DE LA MESA DIRECTIVA PODRÁ AUTORIZAR LA INTRODUCCIÓN DE OTROS APARTADOS EN EL ORDEN DEL DÍA CONFORME A LA PROPUESTA QUE REALICE LA JUNTA DE GOBIERNO, CON BASE EN LA NATURALEZA Y PERTINENCIA DE LOS MISMOS.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-4. EL ORDEN DEL DÍA PARA CADA SESIÓN SERÁ EL QUE A SU INICIO DÉ A CONOCER EL PRESIDENTE DE LA MESA DIRECTIVA, DE CONFORMIDAD CON LOS ENTENDIMIENTOS Y ACUERDOS QUE SE PRODUZCAN EN LA JUNTA DE GOBIERNO.
+4. El orden del día para cada sesión será el que a su inicio dé a conocer la Presidencia de la Mesa Directiva, de conformidad con los entendimientos y acuerdos que se produzcan en la Junta de Gobierno.
 
 > <small>(REFORMADO, P.O. 24 DE JUNIO DE 2021)</small>
 
@@ -2072,6 +2028,10 @@ h) Clausura de la sesión y cita para la celebración de la siguiente.
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
 6. El acta de la sesión anterior contendrá una relación sucinta de lo acontecido en ella, realizándose inserciones textuales cuando así lo solicite expresamente un diputado. Se podrán hacer las precisiones, observaciones y en su caso correcciones pertinentes cuando un integrante del Pleno lo solicite y se apruebe por la mayoría de los presentes, de ser aceptadas deberán incorporarse al Acta para su aprobación.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+La Presidencia de la Mesa Directiva, por conducto de la Secretaría General, distribuirá con 24 horas de anticipación a la celebración de la sesión el Acta que deba conocerse, con el objeto de dispensar la lectura íntegra de la misma, a través de medios o vías de comunicación electrónica. En la sesión correspondiente a su desahogo, sólo se presentará la lectura de las resoluciones o acuerdos adoptados que van implícitos en el acta correspondiente.
 
 Una vez aprobada el Acta, se incorporará a los libros que para tal efecto se lleven. Podrá dispensarse su lectura y votación, para efectuarse en sesión posterior cuando la sesión a la que corresponde dicho documento se haya celebrado 48 horas o menos antes de la sesión en la que hubiere de discutirse y votarse, además de que su contenido sea considerablemente extenso, circunstancias por las que haya sido materialmente imposible su elaboración y entrega en los términos que establece este ordenamiento y los acuerdos parlamentarios adoptados al efecto.
 
@@ -2093,9 +2053,61 @@ Una vez aprobada el Acta, se incorporará a los libros que para tal efecto se ll
 
 3. Si por falta de quórum no pudiere verificarse la sesión, el presidente de la Mesa Directiva está facultado para utilizar los medios que juzgue convenientes a fin de que los diputados concurran a ella.
 
-### CAPITULO TERCERO. DE LOS PROCEDIMIENTOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2024)</small>
 
-### CAPITULO CUARTO. DE LA DISPENSA DE LAS FASES DE LOS PROCEDIMIENTOS
+### CAPITULO SEGUNDO BIS. SOBRE EL SISTEMA ELECTRÓNICO DE REGISTRO DE ASISTENCIA Y VOTACIÓN
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+ARTICULO 85 BIS.
+
+El Sistema Electrónico de Registro de Asistencia y Votación, es el instrumento de apoyo al trabajo legislativo en el Salón de Sesiones, en el cual se hará el registro de la asistencia y de votación.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+ARTICULO 85 TER.
+
+El Sistema Electrónico de Registro de Asistencia y Votación, deberá utilizarse con base en las siguientes previsiones:
+
+a) El sistema electrónico se abrirá para el registro de asistencia de las Diputadas y Diputados por lo menos 30 minutos antes de la hora del inicio programado de la sesión, en cuyo lapso las Diputadas y Diputados deberán registrar su asistencia, accesando al sistema a través del dispositivo o panel de control correspondiente, mediante la identificación de su huella digital.
+
+b) Al momento en que cada Diputada y Diputado registre su asistencia, aparecerá su registro en los monitores colocados en los muros del Salón de Sesiones, así como el número total de quienes han dado cuenta de su asistencia en el sistema. La Presidencia de la Mesa Directiva, en ejercicio de sus atribuciones de dirección parlamentaria, determinará la apertura y cierre del registro de asistencia.
+
+c) Si por causa justificada alguna Diputada o Diputado no hubiera registrado su asistencia en el sistema electrónico, una vez cerrado éste, dará aviso a la Mesa Directiva a fin de que la Presidenta o Presidente, en su caso, resuelva lo conducente.
+
+d) Con base en el reporte del registro de asistencia y sobre el quórum que emita el sistema electrónico al momento de cerrarse, la Presidencia de la Mesa Directiva declarará, en su caso, el quórum y la apertura de la sesión.
+
+e) Las votaciones inherentes al desahogo de Actas, de dispensa de trámites, de iniciativas, de dictámenes, de leyes, decretos y acuerdos, y cualquier propuesta o acto legislativo susceptible de ser votado, se realizarán mediante el Sistema Electrónico, con excepción de aquellas que por su naturaleza deben efectuarse por cédula, o cuando la Mesa Directiva determine hacer la votación en forma distinta, para lo cual la Presidencia de la Mesa Directiva habrá de convocar a la votación que corresponda, declarándolo abierto durante el tiempo que a su consideración estime pertinente para efecto del registro de la votación respectiva.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+ARTICULO 85 QUATER.
+
+1. Cada voto aparecerá en los monitores ubicados en los muros del Recinto, distinguiendo el sentido del mismo mediante los colores verde, amarillo o rojo, atendiendo al sentido positivo, de abstención o negativo, respectivamente.
+
+2. Durante el tiempo en que permanezca abierto el sistema electrónico para el registro de votación, éste emitirá un sonido de alerta, como un llamado a las Diputadas y Diputados para que emitan su voto. Hecho lo anterior habrá de cerrarse el registro, para que enseguida la Presidencia de la Mesa Directiva proceda a realizar la declaración del resultado con base en el reporte que emita el sistema. La Presidencia de la Mesa determinará la apertura y cierre del registro de votación.
+
+3. La falla del dispositivo de control de alguna Diputada o Diputado, deberá comunicarse a la Presidencia de la Mesa Directiva, indicando el sentido de su voto a fin de que sea considerado en el cómputo del resultado correspondiente y quede asentado en el Acta., para lo cual la Presidencia de la Mesa Directiva instruirá a los Servicios Parlamentarios asentarlo en el acta correspondiente.
+
+4. Los nombres de las Diputadas y Diputados, tanto en el registro de asistencia, como en el de votación, aparecerán en los monitores agrupados por forma de agrupación por afiliación partidista en orden alfabético, salvo que la Junta de Gobierno acuerde una forma distinta.
+
+5. El sistema electrónico se usará además como reloj-cronómetro, a fin de regular el tiempo de las participaciones de las Diputadas y Diputados en la discusión de asuntos, bajo las instrucciones de la Presidencia de la Mesa Directiva.
+
+6. La Presidencia de la Mesa Directiva determinará la apertura y cierre de esta función en cada intervención de los oradores con base en los términos que establece la ley para las discusiones.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+ARTICULO 85 QUINQUIES.
+
+Si el Pleno del Congreso del Estado sesionara en algún otro lugar declarado Recinto Oficial, podrá dispensarse la utilización del Sistema Electrónico del Registro de Asistencia y Votación.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+ARTICULO 85 SEXIES.
+
+Las situaciones no previstas en la utilización del Sistema Electrónico de Registro de Asistencia y Votación serán subsanadas con base en las determinaciones que por acuerdo adopte la Presidencia de la Mesa Directiva en ejercicio de sus facultades de dirección parlamentaria.
+
+### CAPITULO TERCERO. DE LOS PROCEDIMIENTOS
 
 #### SECCION PRIMERA. DE LAS DISPOSICIONES GENERALES
 
@@ -2121,11 +2133,9 @@ Las minutas-proyecto de Decreto sobre adiciones y reformas a la Constitución Ge
 
 1. Para la presentación, discusión y votación de los dictámenes relacionados con minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, se aplicarán en lo conducente las previsiones en materia de dictámenes, discusiones y votaciones aplicables al procedimiento legislativo ordinario.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-2. LA JUNTA DE GOBIERNO PODRÁ PROPONER MODALIDADES ESPECÍFICAS PARA LA DISCUSIÓN DE LOS DICTÁMENES DE MINUTAS-PROYECTO DE DECRETO SOBRE ADICIONES Y REFORMAS A LA CONSTITUCIÓN GENERAL DE LA REPÚBLICA, PROPICIÁNDOSE LA EXPRESIÓN DE LAS DIVERSAS FORMAS DE AGRUPACIÓN POR AFILIACIÓN PARTIDISTA EN TORNO AL DICTAMEN FORMULADO, SIN DEMÉRITO DE LOS DIPUTADOS QUE DESEEN HACER USO DE LA PALABRA EN LO INDIVIDUAL.
+2. La Junta de Gobierno podrá proponer modalidades específicas para la discusión de los dictámenes de minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, propiciándose la expresión de las diversas formas de agrupación por afiliación partidista en torno al dictamen formulado, sin demérito de las Diputadas y los Diputados que deseen hacer uso de la palabra en lo individual.
 
 3. La determinación del Pleno en torno a la minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República se expresará en un punto de Acuerdo, mismo que deberá publicarse en el Periódico Oficial del Estado.
 
@@ -2153,11 +2163,13 @@ Las minutas-proyecto de Decreto sobre adiciones y reformas a la Constitución Ge
 
 6. En el dictamen, discusión y votación de las iniciativas de reformas y adiciones a la Constitución Política del Estado se observarán en lo conducente las previsiones que este ordenamiento dispone en esos rubros para el procedimiento legislativo ordinario.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
 ###### ARTICULO 90.
 
-1. Si durante el desempeño de la Diputación Permanente se presentan iniciativas de reforma y adición a la Constitución Política del Estado, las mismas serán del conocimiento de la propia Diputación Permanente, la cual las reservará para su presentación al Pleno en el siguiente periodo ordinario o en la sesión extraordinaria a que se convoque si el asunto es objeto de dicha sesión.
+1. Si durante el desempeño de la Diputación Permanente se presentan iniciativas de reforma y adición a la Constitución Política del Estado, las mismas podrán ser admitidas por la mayoría de las Diputadas y los Diputados presentes.
 
-2. Solo el Pleno del Congreso, podrá resolver sobre la admisión y turno a comisiones de las iniciativas de reformas y adiciones a la Constitución Política del Estado.
+2. Una vez admitidas las iniciativas de reforma y adición a la Constitución Política local, la Diputación Permanente procederá a su estudio y elaboración del dictamen correspondiente.
 
 ###### ARTICULO 91.
 
@@ -2255,17 +2267,13 @@ DE LOS DICTAMENES
 
 2. En todo caso, ésta preverá que los dictámenes queden a disposición de los legisladores que deseen consultarlos o su difusión a través de la red interna de informática del Congreso.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+3. La comisión o comisiones que hubieren formulado el dictamen solicitarán su incorporación en el orden del día de la sesión más próxima, a la luz de las atribuciones que en la materia tienen la Presidencia de la Mesa Directiva y la Junta de Gobierno.
 
-3. LA COMISIÓN O COMISIONES QUE HUBIEREN FORMULADO EL DICTAMEN SOLICITARÁN SU INCORPORACIÓN EN EL ORDEN DEL DÍA DE LA SESIÓN MÁS PRÓXIMA, A LA LUZ DE LAS ATRIBUCIONES QUE EN LA MATERIA TIENEN EL PRESIDENTE DE LA MESA DIRECTIVA Y LA JUNTA DE GOBIERNO.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 4 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-4. SI EL DICTAMEN HA SIDO AUTORIZADO CON 24 HORAS DE ANTICIPACIÓN AL INICIO DE LA SESIÓN DEL PLENO, SALVO ACUERDO CONTRARIO DE LA JUNTA DE GOBIERNO, EL DOCUMENTO FORMARÁ PARTE DEL ORDEN DEL DÍA CORRESPONDIENTE; PERO SI HA SIDO AUTORIZADO DENTRO DE UN PLAZO MENOR AL SEÑALADO, SE REQUERIRÁ EL ACUERDO DE LA JUNTA DE GOBIERNO PARA SU INCORPORACIÓN AL ORDEN DEL DÍA.
+4. Si el dictamen ha sido autorizado con 24 horas de anticipación al inicio de la sesión del Pleno Legislativo, salvo acuerdo contrario de la Junta de Gobierno, el documento formará parte del orden del día correspondiente; pero si ha sido autorizado dentro de un plazo menor al señalado, se requerirá el acuerdo de la Junta de Gobierno para su incorporación al orden del día.
 
 ###### ARTICULO 98.
 
@@ -2275,11 +2283,9 @@ Los dictámenes podrán ser leídos en la sesión en la que se presenten por cua
 
 1. Si con motivo del análisis de un expediente a su cargo, la comisión o comisiones dictaminadoras estiman que se han cometido infracciones a la Constitución Política del Estado o a las leyes que de ella emanan por parte de servidores públicos sujetos de responsabilidad política, penal o administrativa, lo hará del conocimiento del Pleno en opinión independiente del dictamen que formule.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-2. DICHO DOCUMENTO SE PONDRÁ EN CONOCIMIENTO OPORTUNO DEL PRESIDENTE DE LA MESA DIRECTIVA Y DE LA JUNTA DE GOBIERNO, A FIN DE QUE PUEDA DETERMINARSE SI SU TRATAMIENTO SE HACE EN SESIÓN RESERVADA.
+2. Dicho documento se pondrá en conocimiento oportuno de la Presidencia de la Mesa Directiva y de la Junta de Gobierno, a fin de que pueda determinarse si su tratamiento se hace en sesión reservada.
 
 3. De encontrarse procedente por el Pleno la presunción de responsabilidad, el presidente de la Mesa Directiva lo turnará a quien corresponda en términos de las disposiciones legales aplicables. La actuación de la comisión o comisiones que hayan intervenido y del Pleno mismo no constituyen prejuicio para efectos de los procedimientos de juicio político y de declaración de procedencia.
 
@@ -2641,33 +2647,25 @@ Para la formulación, presentación, discusión y votación de los dictámenes s
 
 ###### ARTICULO 130.
 
-(NOTA: EL 14 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 160/2023, DECLARÓ LA INVALIDEZ DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+1. Los titulares de las dependencias en términos de lo dispuesto por la parte final del artículo 93 de la Constitución Política del Estado, y cualquier servidor público estatal, podrán ser citados y acudirán ante el Pleno del Congreso, ante la Diputación Permanente o ante comisiones ordinarias para que brinden información sobre el estado que guardan sus respectivos ramos, así como cuando se discuta una iniciativa de ley o se considere un asunto relacionado con los ramos de su competencia.
 
-1. LOS TITULARES DE LAS DEPENDENCIAS EN TÉRMINOS DE LO DISPUESTO POR LA PARTE FINAL DEL ARTÍCULO 93 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, Y CUALQUIER SERVIDOR PÚBLICO ESTATAL, PODRÁN SER CITADOS Y ACUDIRÁN ANTE EL PLENO DEL CONGRESO, ANTE LA DIPUTACIÓN PERMANENTE O ANTE COMISIONES ORDINARIAS PARA QUE BRINDEN INFORMACIÓN SOBRE EL ESTADO QUE GUARDAN SUS RESPECTIVOS RAMOS, ASÍ COMO CUANDO SE DISCUTA UNA INICIATIVA DE LEY O SE CONSIDERE UN ASUNTO RELACIONADO CON LOS RAMOS DE SU COMPETENCIA.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+2. Las comparecencias se celebrarán con base en el procedimiento que para tal efecto proponga la Junta de Gobierno, a la Diputación Permanente o a la Comisión de que se trate.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE AGOSTO DE 2024)</small>
 
-2. LAS COMPARECENCIAS SE CELEBRARÁN CON BASE EN EL PROCEDIMIENTO QUE PROPONGA LA JUNTA DE GOBIERNO, A LA DIPUTACIÓN PERMANENTE O A LA COMISIÓN DE QUE SE TRATE.
-
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL PÁRRAFO ÚNICO DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE JULIO DE 2023)</small>
-
-3. A FALTA DE PROPUESTA ESPECÍFICA DE LA JUNTA DE GOBIERNO O SI NO SE ADOPTA UNA RESOLUCIÓN ESPECÍFICA AL RESPECTO, EL PROCEDIMIENTO DE COMPARECENCIA SE SUJETARÁ A LAS SIGUIENTES REGLAS:
+3. A falta de propuesta específica de la Junta de Gobierno o si no se adopta una resolución al respecto, el procedimiento de comparecencia se sujetará a las siguientes reglas:
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2021)</small>
 
 a) El presidente de la Mesa Directiva, de la Diputación Permanente o de la comisión dará la bienvenida al servidor público asistente y explicará de manera sucinta las razones que motivan la presencia de dicho funcionario, el cual lo hará bajo protesta de decir verdad;
 
-(NOTA: EL 14 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 160/2023, DECLARÓ LA INVALIDEZ DEL INCISO b) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
-
-b) EL SERVIDOR PÚBLICO ESTATAL HARÁ USO DE LA PALABRA HASTA POR 20 MINUTOS, SI ASÍ LO DESEA, PARA PRESENTAR UN INFORME RELACIONADO CON EL MOTIVO DE SU PRESENCIA EN EL CONGRESO;
+b) El servidor público estatal hará uso de la palabra hasta por 20 minutos, si así lo desea, para presentar un informe relacionado con el motivo de su presencia en el Congreso del Estado;
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -2681,15 +2679,13 @@ e) Al final de la intervención del servidor público compareciente en cada rond
 
 f) Si así lo desea el servidor público compareciente, contará con 5 minutos adicionales al término de sus respuestas a la segunda ronda de preguntas o de las consideraciones de los diputados a sus comentarios y planteamientos, para realizar una reflexión global con relación a su comparecencia, y
 
-(NOTA: EL 14 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 160/2023, DECLARÓ LA INVALIDEZ DEL INCISO g) DEL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE MAYO DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 6 DE JUNIO DE 2023)</small>
+g) La Presidencia de la Mesa Directiva, de la Diputación Permanente o de la comisión hará uso de la palabra para expresar un agradecimiento institucional a la presencia del servidor público estatal.
 
-g) EL PRESIDENTE DE LA MESA DIRECTIVA, DE LA DIPUTACIÓN PERMANENTE O DE LA COMISIÓN HARÁ USO DE LA PALABRA PARA EXPRESAR UN AGRADECIMIENTO INSTITUCIONAL A LA PRESENCIA DEL SERVIDOR PÚBLICO ESTATAL.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
-
-4. Las diputadas y/o diputados sin partido e independientes que deseen participar en la comparecencia serán considerados en el procedimiento a que se refiere el numeral 2 de este artículo y, en caso de seguirse lo dispuesto por el numeral 3, dichas diputadas y/o diputados formularán la solicitud correspondiente a su participación al órgano en el cual se vaya a desarrollar la propia comparecencia.
+4. Las Diputadas y los Diputados sin partido o independientes que deseen participar en la comparecencia serán considerados en el procedimiento a que se refiere el numeral 2 de este artículo y, en caso de seguirse lo dispuesto por el numeral 3, dichas Diputadas y/o Diputados formularán la solicitud correspondiente a su participación al órgano en el cual se vaya a llevar a cabo la propia comparecencia.
 
 ###### ARTICULO 131.
 
@@ -2749,11 +2745,9 @@ c) Datos biográficos de la persona nombrada, destacándose aquellas actividades
 
 2. Recibida la designación o propuesta correspondiente, la comisión ordinaria competente o la Diputación Permanente, en su caso, analizarán si la persona nombrada reúne los requisitos constitucionales y legales que se prevean para el desempeño del cargo. En caso afirmativo, tratándose de los nombramientos o ratificaciones señalados en el párrafo 1 del artículo que antecede, se propondrá fecha para que la persona nombrada o propuesta asista a una reunión de trabajo con la comisión o la Diputación Permanente, en su caso.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-3. SI LA DETERMINACIÓN DEL ANÁLISIS DEL CUMPLIMIENTO DE LOS REQUISITOS CONSTITUCIONALES Y LEGALES ES NEGATIVA, SE HARÁ LA COMUNICACIÓN DEL CASO A LA JUNTA DE GOBIERNO DEL CONGRESO DEL ESTADO. EN ESTE SUPUESTO, SE PRESENTARÁ ANTE EL ÓRGANO DE GOBIERNO O LA INSTANCIA A QUIEN COMPETE LA DESIGNACIÓN O PROPUESTA DEL CASO, EL RESULTADO DEL ANÁLISIS SOBRE LA AUSENCIA DE CUMPLIMIENTO DE LOS REQUISITOS CONSTITUCIONALES Y LEGALES, A FIN DE QUE SE DETERMINE SI SE MODIFICA LA DESIGNACIÓN O LA PROPUESTA, SEGÚN EL CASO.
+3. Si la determinación del análisis del cumplimiento de los requisitos constitucionales y legales es negativa, se hará la comunicación del caso a la Junta de Gobierno del Congreso del Estado. En dicho supuesto, se presentará ante el órgano de gobierno o la instancia a quien compete la designación o propuesta del caso, el resultado del análisis sobre la ausencia de cumplimiento de los requisitos constitucionales y legales, a fin de que se determine si se modifica la designación o la propuesta, según sea el caso.
 
 4. En el supuesto de nombramientos previstos en el párrafo 1 del artículo anterior, si la persona nombrada o propuesta cumple con los requisitos constitucionales para desempeñar el cargo, se procederá a realizar una reunión de trabajo o entrevista, que se sujetará al siguiente orden:
 
@@ -2779,11 +2773,9 @@ d) Intervención general de 5 minutos para la exposición de conclusiones, en ca
 
 8. El nombramiento de los titulares de los órganos internos de control, se sujetará al siguiente procedimiento:
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO a) DEL NUMERAL 8 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-a) CUANDO SE GENERE LA VACANTE, O A MÁS TARDAR 60 DÍAS ANTES DE LA CONCLUSIÓN DEL PERÍODO PARA EL QUE FUE ELECTO, LA JUNTA DE GOBIERNO DEL CONGRESO DEL ESTADO, EMITIRÁ LA CONVOCATORIA PÚBLICA PARA LA DESIGNACIÓN DEL TITULAR DEL ÓRGANO INTERNO DE CONTROL CORRESPONDIENTE, LA QUE DEBERÁ CONTEMPLAR QUE LOS ASPIRANTES ACOMPAÑEN SU DECLARACIÓN DE INTERESES, DE CONFORMIDAD CON LAS DISPOSICIONES APLICABLES;
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del período para el que fue electo, la Junta de Gobierno del Congreso, emitirá la convocatoria pública para la designación del Titular del Órgano Interno de Control correspondiente, la que deberá contemplar que los aspirantes acompañen su declaración de intereses, de conformidad con las disposiciones aplicables;
 
 b) Para ser Titular del Órgano Interno de Control de alguno de los organismos con autonomía reconocida en la Constitución y que ejerzan recursos del Presupuesto de Egresos del Estado, se deberán cumplir los requisitos que establezcan las leyes de dichos organismos autónomos;
 
@@ -2819,11 +2811,9 @@ h) El dictamen referido en el inciso anterior, será sometido a votación de los
 
 9. La designación del Titular de la Presidencia y de los integrantes del Consejo Consultivo de la Comisión de Derechos Humanos del Estado de Tamaulipas y de los suplentes respectivos, se sujetará al siguiente procedimiento:
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO a) DEL NUMERAL 9 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-a) CUANDO SE GENERE LA VACANTE, O A MÁS TARDAR 60 DÍAS ANTES DE LA CONCLUSIÓN DEL PERIODO PARA EL QUE FUE ELECTO, LA JUNTA DE GOBIERNO DEL CONGRESO DEL ESTADO REALIZARÁ UNA CONSULTA PÚBLICA Y TRANSPARENTE, A EFECTO DE QUE LOS CIUDADANOS QUE CUMPLAN CON LOS REQUISITOS LEGALES ESTÉN EN APTITUD DE SER CONSIDERADOS PARA OCUPAR EL CARGO.
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Gobierno realizará una consulta pública y transparente, a efecto de que los ciudadanos que cumplan con los requisitos legales estén en aptitud de ser considerados para ocupar el cargo.
 
 b) La convocatoria considerará las etapas y procedimientos para la designación o reelección correspondiente, ordenando su publicación en el Periódico Oficial del Estado, en dos diarios de circulación en la entidad, así como en la página web oficial del Congreso.
 
@@ -2841,11 +2831,9 @@ g) El Titular de la Presidencia y los integrantes del Consejo Consultivo de la C
 
 10. La designación de los Comisionados del Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas se sujetará al siguiente procedimiento:
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO a) DEL NUMERAL 10 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-a) CUANDO SE GENERE LA VACANTE, O A MÁS TARDAR 60 DÍAS ANTES DE LA CONCLUSIÓN DEL PERIODO PARA EL QUE FUERON ELECTOS, LA JUNTA DE GOBIERNO DEL CONGRESO DEL ESTADO LANZARÁ UNA CONVOCATORIA PÚBLICA, A EFECTO DE QUE PARTICIPEN LOS CIUDADANOS QUE CUMPLAN CON LOS REQUISITOS LEGALES Y ESTÉN EN APTITUD DE SER CONSIDERADOS PARA OCUPAR EL CARGO.
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fueron electos, la Junta de Gobierno lanzará una convocatoria pública, a efecto de que participen los ciudadanos que cumplan con los requisitos legales y estén en aptitud de ser considerados para ocupar el cargo.
 
 > <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2017)</small>
 
@@ -2871,9 +2859,9 @@ f) El dictamen final a que hace referencia el inciso que antecede, será sometid
 
 11. El nombramiento del Titular de la Fiscalía Especializada en Combate a la Corrupción, se sujetará al siguiente procedimiento:
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Gobierno emitirá una convocatoria pública, con base en los requisitos establecidos en la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas, a efecto de que participen las y los ciudadanos que cumplan con estos y que estén en aptitud de ser consideradas y/o considerados para ocupar el cargo.
+a) Cuando se genere la vacante, o a más tardar 60 días antes de la conclusión del periodo para el que fue electo, la Junta de Gobierno del Congreso emitirá una convocatoria pública, con base en los requisitos establecidos en la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas, a efecto de que participen las y los ciudadanos que cumplan con éstos y que estén en aptitud de ser consideradas y/o considerados para ocupar el cargo.
 
 b) La convocatoria considerará las etapas y procedimientos para la designación correspondiente, ordenando su publicación en el Periódico Oficial del Estado, en la página de internet del Congreso, y preferentemente en dos diarios de circulación en la Entidad.
 
@@ -2893,11 +2881,9 @@ Cuando el Pleno apruebe dictámenes relacionados con el nombramiento de servidor
 
 ###### ARTICULO 136.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-1. CORRESPONDE A LA JUNTA DE GOBIERNO, POR CONDUCTO DE LA CONTRALORÍA INTERNA INVESTIGAR Y DETERMINAR LAS RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS DEL CONGRESO DEL ESTADO, ASÍ COMO APLICAR LAS SANCIONES QUE PARA TAL EFECTO ESTABLECE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS, EN LA FORMA Y TÉRMINOS DE ESTA SECCIÓN.
+1. Corresponde a la Junta de Gobierno del Congreso, por conducto de la Contraloría Interna investigar y determinar las responsabilidades administrativas de los servidores públicos del Congreso del Estado, así como aplicar las sanciones que para tal efecto establece la Ley de Responsabilidades Administrativas del Estado de Tamaulipas, en la forma y términos de esta Sección.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2019)</small>
 
@@ -2907,11 +2893,9 @@ Cuando el Pleno apruebe dictámenes relacionados con el nombramiento de servidor
 
 1. Cualquier ciudadano, bajo su más estricta responsabilidad, y aportando los elementos de prueba conducentes, podrá denunciar actos u omisiones que impliquen responsabilidad de los servidores públicos del Congreso del Estado, ante:
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL INCISO a) DEL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-a) LA JUNTA DE GOBIERNO, SI LOS ACTOS U OMISIONES CORRESPONDEN A LOS INTEGRANTES DEL CONGRESO O A LOS TITULARES DE LA SECRETARÍA GENERAL O DE LAS UNIDADES DE SERVICIOS PARLAMENTARIOS O DE SERVICIOS ADMINISTRATIVOS Y FINANCIEROS;
+a) La Junta de Gobierno, si los actos u omisiones corresponden a los integrantes del Congreso del Estado o a los titulares de la Secretaría General o de las Unidades de Servicios Parlamentarios o de Servicios Administrativos y Financieros;
 
 b) La Contraloría Interna, si se trata de servidores públicos distintos a los referidos en el inciso anterior, y
 
@@ -2925,11 +2909,9 @@ c) La Auditoría Superior del Estado, si se trata de alguno de los integrantes d
 
 ###### ARTICULO 138.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-1. EN CASO DE RESPONSABILIDAD ADMINISTRATIVA DE LOS DIPUTADOS, LA JUNTA DE GOBIERNO PODRÁ IMPONER LAS SANCIONES CONDUCENTES CON BASE EN LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS
+1. En caso de responsabilidad administrativa de las Diputadas y los Diputados, la Junta de Gobierno podrá imponer las sanciones conducentes con base en la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 2. El Congreso del Estado está facultado para aplicar cualquiera de las sanciones administrativas a sus servidores públicos.
 
@@ -3035,7 +3017,7 @@ d) En votación económica inmediata, el Congreso determinará si se admite o no
 
 2. Estas propuestas se presentarán invariablemente en el apartado de asuntos generales del orden del día.
 
-### CAPITULO QUINTO. DEL CEREMONIAL
+### CAPITULO CUARTO. DE LA DISPENSA DE LAS FASES DE LOS PROCEDIMIENTOS
 
 ###### ARTICULO 148.
 
@@ -3051,7 +3033,7 @@ d) En votación económica inmediata, el Congreso determinará si se admite o no
 
 5. En caso de ser aprobada la dispensa del turno a comisiones de una iniciativa o proposición, si ésta ya hubiese sido leída se continuará con su puesta a discusión y subsiguiente votación; pero si no hubiese sido leída, el presidente de la Mesa Directiva dispondrá su lectura íntegra y, posteriormente, se procederá a su discusión y votación.
 
-### CAPITULO SEXTO. DE LAS GALERIAS
+### CAPITULO QUINTO. DEL CEREMONIAL
 
 ###### ARTICULO 149.
 
@@ -3135,7 +3117,7 @@ Cuando a invitación expresa de la Legislatura, el Gobernador del Estado, el Pre
 
 5. El Presidente de la Mesa Directiva dispondrá la expedición del Decreto correspondiente.
 
-### CAPITULO SEPTIMO. DEL REGISTRO DE LOS ACTOS DEL CONGRESO
+### CAPITULO SEXTO. DE LAS GALERIAS
 
 ###### ARTICULO 158.
 
@@ -3169,9 +3151,7 @@ Cuando a invitación expresa de la Legislatura, el Gobernador del Estado, el Pre
 
 El Congreso podrá ordenar el acceso del público a las galerías mediante tarjetas o invitaciones que se expidan para la entrada a las mismas. Su distribución quedará a cargo de la Secretaría General.
 
-### CAPÍTULO OCTAVO. DEL PARLAMENTO ABIERTO
-
-> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2020)</small>
+### CAPITULO SEPTIMO. DEL REGISTRO DE LOS ACTOS DEL CONGRESO
 
 ###### ARTICULO 163.
 
@@ -3205,17 +3185,13 @@ El Congreso podrá ordenar el acceso del público a las galerías mediante tarje
 
 1. La Gaceta Parlamentaria es el órgano de difusión mediante el cual se proporciona información sobre las actividades del Pleno y de los órganos parlamentarios y administrativos del Congreso.
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 2 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
+2. La Gaceta Parlamentaria se actualizará semanalmente y contendrá el orden del día, acta y correspondencia de la sesión más próxima, así como convocatorias de las reuniones de comisiones y comités, informes de los diversos órganos del Congreso del Estado, actos oficiales, avisos importantes sobre las actividades legislativas y cualquier otro que por acuerdo de la Mesa Directiva de consuno con la Junta de Gobierno deba publicitarse en este medio.
 
-2. LA GACETA PARLAMENTARIA SE ACTUALIZARÁ SEMANALMENTE Y CONTENDRÁ EL ORDEN DEL DÍA, ACTA Y CORRESPONDENCIA DE LA SESIÓN MÁS PRÓXIMA, ASÍ COMO CONVOCATORIAS DE LAS REUNIONES DE COMISIONES Y COMITÉS, INFORMES DE LOS DIVERSOS ÓRGANOS DEL CONGRESO, ACTOS OFICIALES, AVISOS IMPORTANTES SOBRE LAS ACTIVIDADES LEGISLATIVAS Y CUALQUIER OTRO QUE POR ACUERDO DE LA MESA DIRECTIVA DE CONSUNO CON LA JUNTA DE GOBIERNO DEBA PUBLICITARSE EN ESTE MEDIO.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 19 DE NOVIEMBRE DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 177/2023 Y SU ACUMULADA 178/2023, DECLARÓ LA INVALIDEZ DEL DECRETO 65-619, POR EL QUE SE REFORMA EL NUMERAL 3 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 26 DE NOVIEMBRE DE 2024, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2023)</small>
-
-3. LAS CARACTERÍSTICAS Y FORMA DE LA GACETA PARLAMENTARIA SERÁN FIJADAS POR LA JUNTA DE GOBIERNO.
+3. Las características y forma de la Gaceta Parlamentaria se fijarán por la Junta de Gobierno.
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2007)</small>
 
@@ -3223,9 +3199,15 @@ El Congreso podrá ordenar el acceso del público a las galerías mediante tarje
 
 1. La grabación de lo acontecido en las sesiones es un instrumento para la conservación de la historia de los procesos parlamentarios del Estado, la cual comprenderá íntegramente las voces de las intervenciones que por cualquier causa se presenten en las sesiones.
 
-2. El secretario general vigilará que el local de grabación se mantenga debidamente equipado.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+2. La persona titular de la Secretaría General vigilará que el área de grabación se mantenga debidamente equipado.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE JUNIO DE 2020)</small>
+
+### CAPÍTULO OCTAVO. DEL PARLAMENTO ABIERTO
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2020)</small>
 
 ###### ARTÍCULO 168.
 
@@ -4240,3 +4222,19 @@ P.O. 19 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-886 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su expedición y deberá publicarse en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-887 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su expedición y deberá publicarse en el Periódico Oficial del Estado.
