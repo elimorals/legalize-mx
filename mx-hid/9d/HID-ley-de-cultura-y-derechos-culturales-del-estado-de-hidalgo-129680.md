@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2024-08-16"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -315,7 +315,9 @@ IV. Celebrar convenios con la federación, otras entidades federativas, los Gobi
 
 V. Definir en el Plan Estatal de Desarrollo, la política cultural del Estado;
 
-VI. Diseñar las políticas, programas y acciones de investigación, difusión, vinculación, promoción, rescate y preservación de la cultura;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+VI. Diseñar las políticas, programas y acciones de investigación, difusión, vinculación, promoción, rescate y preservación de la cultura y biocultura;
 
 VII. Dictar los acuerdos administrativos necesarios para la eficaz coordinación y ejecución de programas culturales, que realicen las instituciones públicas;
 
@@ -351,7 +353,9 @@ II. Asesorar y apoyar técnicamente en asuntos de su competencia a las dependenc
 
 III. Brindar acceso universal a la cultura mediante el uso de las tecnologías de la información y comunicación;
 
-IV. Conducir la política estatal en materia de cultura, para lo cual celebrara acuerdos de coordinación con dependencias y entidades de la Administración Pública Estatal, Federal y Gobiernos Municipales;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+IV. Conducir la política estatal en materia de cultura y biocultura, para lo cual celebrara acuerdos de coordinación con dependencias y entidades de la Administración Pública Estatal, Federal y Gobiernos Municipales;
 
 V. Coordinar la agenda digital cultural y el desarrollo de plataformas digitales con la participación de todos los actores de la sociedad;
 
@@ -411,7 +415,9 @@ XXXI. Promover la creación artística y popular en Hidalgo y ampliar el acceso 
 
 XXXII. Proteger, preservar, restaurar, difundir e incrementar el patrimonio cultural del Estado;
 
-XXXIII. Promover la participación social en la valoración, protección, uso y disfrute del patrimonio cultural;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+XXXIII. Promover la participación social en la valoración, protección, uso y disfrute del patrimonio cultural y biocultural;
 
 XXXIV. Promover la comercialización del arte popular en eventos culturales y festividades;
 
@@ -455,13 +461,19 @@ X. Impulsar y proyectar en el ámbito estatal, nacional e internacional, en la m
 
 XI. Otorgar premios, reconocimientos o estímulos a los individuos, organizaciones e instituciones públicas o privadas que se hayan destacado en la creación artística o en la promoción, preservación, difusión e investigación de la cultura en el ámbito de su jurisdicción;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE AGOSTO DE 2024)</small>
 
 XII. Instaurar una dependencia municipal que tenga cómo única función la de llevar a la práctica los programas y acciones contenidas en el Programa Municipal de Cultura;
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
 
-XIII. Procurar la creación, ampliación y mantenimiento de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros y centros culturales;
+XIII. Procurar la creación, ampliación y mantenimiento de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros y centros culturales; e
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 1026 PUBLICADO EN EL P.O. DE 20 DE AGOSTO DE 2024, PÁGINA 75.]</small>
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+XIV (sic). Impulsar la capacitación y profesionalización del personal encargado de las áreas culturales.
 
 > <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
 
@@ -517,7 +529,9 @@ Los Gobiernos Municipales, en el ámbito de sus respectivas competencias, deber�
 
 Los organismos o instituciones municipales en materia de cultura, tendrán al menos los siguientes objetivos:
 
-I. Celebrar convenios de coordinación con la Federación, Estado, municipios y demás organismos públicos; así con particulares, en materia de cultura;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+I. Celebrar convenios de coordinación con la Federación, Estado, municipios y demás organismos públicos; así con particulares, en materia de cultura y biocultura;
 
 II. Coadyuvar en la promoción, conservación y restauración de sitios y monumentos arqueológicos, históricos y artísticos, en los términos de la Ley de la materia;
 
@@ -619,6 +633,10 @@ III. Descentralización de bienes y servicios culturales, para democratizar el a
 
 IV. Definición de regiones geoculturales, sus vocaciones y rutas culturales;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+IV BIS. Establecimiento de mecanismos para la identificación y vinculación con espacios que prestan servicios artísticos y culturales de manera independiente en las diferentes regiones geoculturales;
+
 V. Difusión cultural y artística; para alcanzar coberturas regionales, empleando también nuevas tecnologías, radio y televisión por internet;
 
 VI. Diversidad cultural considerando la composición pluricultural del Estado, los rasgos de identidad cultural de nuestros pueblos indígenas y aquellas identidades emergentes, para conseguir la promoción, protección del conocimiento, reconocimiento, valoración y respeto de la diversidad cultural;
@@ -641,7 +659,9 @@ XIII. Impulso y desarrollo de las industrias culturales y creativas;
 
 XIII BIS. Fomento al desarrollo y crecimiento de los Centros Culturales Independientes, como parte del ecosistema de industrias creativas y culturales del Estado;
 
-XIV. Investigación histórica y cultural, para la protección, defensa, conservación y recuperación del patrimonio cultural;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+XIV. Investigación histórica y cultural, para la protección, defensa, conservación y recuperación del patrimonio cultural y biocultural;
 
 XV. La creación de fondos de financiamiento destinados a las empresas culturales y artesanales;
 
@@ -773,15 +793,47 @@ b) Inmuebles
 
 Así como los demás bienes tangibles e intangibles que corresponden al patrimonio cultural hidalguense.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO VI BIS. DEL PATRIMONIO BIOCULTURAL
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+Artículo 30 BIS. Se considera Patrimonio Biocultural, al conjunto de saberes, usos y representaciones, sociales, manifestaciones, conocimientos, innovaciones técnicas, prácticas culturales tradicionales, y elementos de la diversidad biológica, cuyos componentes interactúan estrechamente ligados a través de la práctica diaria, la cosmovisión, las creencias, mitos, y leyendas relacionadas con la naturaleza, los cuales son transmitidos a través de generaciones como valores culturales.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+Artículo 30 TER. De manera enunciativa más no limitativa, podrán ser considerados afectos al siguiente Patrimonio Biocultural, lo siguiente:
+
+I. Conocimientos y saberes tradicionales;
+
+II. Diseños;
+
+III. Juegos tradicionales;
+
+IV. Medicina Tradicional;
+
+V. Paisajes Bioculturales;
+
+VI. Recursos Genéticos;
+
+VII. Rutas y/o itinerarios bioculturales;
+
+VIII. Tecnologías; y
+
+IX. Tradiciones Orales
+
 ### CAPÍTULO VII. DE LAS DECLARATORIAS DE PATRIMONIO CULTURAL DEL ESTADO
 
-### CAPÍTULO VIII. DE LA CULTURA POPULAR DE LOS PUEBLOS Y COMUNIDADES RURALES Y URBANAS, FESTIVIDADES Y TRADICIONES
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 31.
 
-Con el objeto de restaurar, preservar, difundir y garantizar la permanencia del patrimonio cultural tangible e intangible del Estado, se establecen las Declaratorias de Patrimonio Cultural, para reconocer la importancia histórica, cultural y patrimonial de centros históricos, espacios públicos de valor cultural, monumentos, bienes muebles, así como tradiciones, costumbres y manifestaciones artísticas y culturales.
+Con el objeto de restaurar, preservar, difundir y garantizar la permanencia del patrimonio cultural tangible, intangible y biocultural del Estado, se establecen las Declaratorias de Patrimonio Cultural y biocultural, para reconocer la importancia histórica, cultural y patrimonial de centros históricos, espacios públicos de valor cultural, monumentos, bienes muebles, así como tradiciones, costumbres, manifestaciones artísticas y culturales o elementos relacionados con la biocultura.
 
-La (sic) declaratorias pueden ser propuestas a la Secretaría, por los Gobiernos Municipales, las organizaciones de la sociedad civil debidamente constituidas, así como cualquier ciudadano, siempre que medie una motivación y fundamentación que justifique tal solicitud por escrito.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+La (sic) declaratorias pueden ser propuestas a la Secretaría por el Poder Legislativo, por los Gobiernos Municipales, las organizaciones de la sociedad civil debidamente constituidas, así como cualquier ciudadano, siempre que medie una motivación y fundamentación que justifique tal solicitud por escrito.
 
 ###### Artículo 32.
 
@@ -815,7 +867,7 @@ Las disposiciones de la presente Ley relativas a la protección del patrimonio c
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE JULIO DE 2021)</small>
 
-### CAPÍTULO IX. DEL FINANCIAMIENTO A LA CULTURA
+### CAPÍTULO VIII. DE LA CULTURA POPULAR DE LOS PUEBLOS Y COMUNIDADES RURALES Y URBANAS, FESTIVIDADES Y TRADICIONES
 
 ###### Artículo 39.
 
@@ -887,7 +939,7 @@ La Secretaría y los Gobiernos Municipales establecerán programas y proyectos q
 
 Además, promoverán la apertura y utilización de espacios públicos, para la práctica de las expresiones del patrimonio cultural inmaterial y de las culturales urbanas, así como la creación de concursos, exposiciones y festivales.
 
-### CAPÍTULO X. DEL USO DE LOS ESPACIOS PÚBLICOS DESTINADOS A LA CULTURA
+### CAPÍTULO IX. DEL FINANCIAMIENTO A LA CULTURA
 
 ###### Artículo 43.
 
@@ -923,9 +975,7 @@ El Estado y los Gobiernos Municipales, podrán convenir voluntariamente acciones
 
 La Secretaría podrá suscribir convenios de colaboración con personas físicas o morales, dependencias y entidades de la administración pública estatal a efecto de sumar recursos financieros, humanos y materiales en el cumplimiento de programas, proyectos y acciones a favor de la cultura.
 
-### CAPÍTULO XI. DE LA PARTICIPACIÓN SOCIAL
-
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+### CAPÍTULO X. DEL USO DE LOS ESPACIOS PÚBLICOS DESTINADOS A LA CULTURA
 
 ###### Artículo 48.
 
@@ -949,7 +999,7 @@ El gobierno del Estado y los municipios deberán reglamentar, en el ámbito de s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2021)</small>
 
-### CAPÍTULO XII. DEL OBSERVATORIO DE DESARROLLO CULTURAL
+### CAPÍTULO XI. DE LA PARTICIPACIÓN SOCIAL
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
 
@@ -965,7 +1015,7 @@ La Secretaria celebrará los convenios de concentración para la ejecución de l
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2021)</small>
 
-### CAPÍTULO XIII. DE LA COMISIÓN ESTATAL PARA EL FOMENTO A LA SALVAGUARDIA DEL PATRIMONIO CULTURAL INMATERIAL
+### CAPÍTULO XII. DEL OBSERVATORIO DE DESARROLLO CULTURAL
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
 
@@ -989,31 +1039,39 @@ V.- A solicitud de la Secretaría, el Observatorio podrá realizar estudios de f
 
 La forma de integración, el funcionamiento y la operación del Observatorio, se establecerán en el Reglamento de la Ley que expida el Ejecutivo.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JULIO DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE AGOSTO DE 2024)</small>
 
-### CAPÍTULO XIV. DE LOS CENTROS CULTURALES INDEPENDIENTES
+### CAPÍTULO XIII. DE LA COMISIÓN ESTATAL PARA EL FOMENTO A LA SALVAGUARDIA DEL PATRIMONIO CULTURAL INMATERIAL Y BIOCULTURAL
 
-> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
 
 ###### Artículo 55.
 
 Se crea la Comisión Estatal para el Fomento a la Salvaguardia del Patrimonio Cultural Inmaterial, la cual podrá auxiliar de (sic) la secretaría, en lo siguiente:
 
-I. Proponer las bases y prioridades del Programa Estatal de Fomento a la Salvaguardia del Patrimonio Cultural Inmaterial, tanto para su inclusión dentro del Programa Estatal de Cultura y Derechos Culturales, así como dentro de los programas operativos anuales que de él se deriven;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+I. Proponer las bases y prioridades del Programa Estatal de Fomento a la Salvaguardia del Patrimonio Cultural Inmaterial y biocultural, tanto para su inclusión dentro del Programa Estatal de Cultura y Derechos Culturales, así como dentro de los programas operativos anuales que de él se deriven;
 
 II. Proponer la normatividad operativa y técnica a efecto de que el Estado y los Municipios, de manera coordinada, ejecuten políticas y acciones encaminadas a la eliminación de condiciones de riesgo para la salvaguarda y enriquecimiento de la diversidad de los usos, representaciones, expresiones, conocimientos y técnicas que las comunidades, los grupos y en algunos casos los individuos reconozcan como parte integrante de su identidad cultural; así como, para la conservación y preservación de los monumentos, conjuntos, lugares, espacios, instrumentos y objetos culturales, que les sean inherentes; y
 
-III. Proponer mecanismos de fomento y apoyo a la formulación e instrumentación comunitaria de Planes de Salvaguardia del Patrimonio Cultural Inmaterial.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+III. Proponer mecanismos de fomento y apoyo a la formulación e instrumentación comunitaria de Planes de Salvaguardia del Patrimonio Cultural Inmaterial y biocultural.
 
 El Congreso del Estado proveerá de recursos presupuestales a la Secretaría, dentro del Presupuesto de Egresos del Estado, específicamente para el cumplimiento de estas responsabilidades.
 
-> <small>(ADICIONADO, P.O. 28 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 56.
 
-La integración, el funcionamiento y la operación de la Comisión Estatal para el fomento a la Salvaguardia del Patrimonio Cultural Inmaterial, se establecerá en el Reglamento de la Ley.
+La integración, el funcionamiento y la operación de la Comisión Estatal para el fomento a la Salvaguardia del Patrimonio Cultural Inmaterial y biocultural, se establecerá en el Reglamento de la Ley.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 16 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO XIV. DE LOS CENTROS CULTURALES INDEPENDIENTES
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 57.
 
@@ -1168,3 +1226,23 @@ P.O. 16 DE AGOSTO DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. En un plazo no mayor a ciento veinte días naturales, contados a partir de la entrada en vigor del presente Decreto, los gobiernos municipales deberán realizar las modificaciones normativas, reglamentarias, administrativas, fiscales o presupuestarias para dar cumplimiento a este Decreto.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 970 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1024 POR EL QUE SE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 24 DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Secretaría de Cultura deberá hacer las modificaciones correspondientes al programa sectorial de cultura, conforme a lo aprobado en este Decreto.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1026 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
