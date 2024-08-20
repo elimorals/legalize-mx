@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2024-08-16"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -550,6 +550,16 @@ VII.- Promover la coordinación con las Instituciones Federales y Locales de sal
 VIII.- Implementar en coordinación con las instituciones Federales en el Estado, programas de estímulos e incentivos a las personas adultas mayores que estudien; y
 
 IX.- Implementar programas a efecto de crear y difundir en la población en general y en la familia, la cultura, dignificación, respeto e integración a la sociedad de las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+###### Artículo 20 Bis.
+
+Al Instituto Hidalguense del Deporte, le corresponde, en los términos de sus atribuciones:
+
+I. Impulsar el desarrollo de la cultura física de las personas adultas mayores; y
+
+II. Brindar asesoría e información a las personas adultas mayores, asociaciones o instituciones que lo requieran, en cuanto a las actividades físicas, de recreación o deportivas que este grupo poblacional pueda desarrollar de manera segura.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE DICIEMBRE DE 2017)</small>
 
@@ -1172,3 +1182,9 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1051 POR EL QUE SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 21 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1022 POR EL QUE SE ADICIONA EL ARTÍCULO 20 BIS A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
