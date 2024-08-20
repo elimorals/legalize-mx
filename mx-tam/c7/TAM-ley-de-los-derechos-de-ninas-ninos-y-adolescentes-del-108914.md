@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2024-06-26"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE TAMAULIPAS EL 26 DE JUNIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -132,6 +130,10 @@ X.- Constitución Federal: A la Constitución Política de los Estados Unidos Me
 XI.- Constitución del Estado: A la Constitución Política del Estado Libre y Soberano de Tamaulipas;
 
 XII.- Convención: Convención Sobre los Derechos del Niño;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+XII Bis.- Crianza Positiva: El conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos físicos ni a tratos crueles y humillantes, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos que deberán garantizar y llevar a cabo quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en la crianza o cuidado de niñas, niños y adolescentes;
 
 XIII.- Discriminación Múltiple: A la situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
@@ -787,7 +789,9 @@ Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y
 
 ###### ARTÍCULO 30.
 
-1. Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades del Estado, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas correspondientes.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+1. Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo, así como desempeñar una crianza positiva y respetuosa que garantice el pleno ejercicio de sus derechos, contribuyendo así a su desarrollo, bienestar y crecimiento saludable y armónico. Las autoridades del Estado, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas correspondientes.
 
 2. Se establece como edad mínima para contraer matrimonio los 18 años de edad.
 
@@ -1391,9 +1395,11 @@ El Estado garantizará a niñas, niños y adolescentes su integración a la soci
 
 ### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 70.
 
-Las autoridades están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones aplicables.
+Las autoridades están obligadas a proporcionar asistencia médica, psicológica, atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica, orientación social e impulsar acciones para fomentar la crianza positiva a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, y las demás obligaciones que establece esta Ley y demás disposiciones aplicables.
 
 ###### ARTÍCULO 71.
 
@@ -1415,7 +1421,9 @@ En los casos de esta fracción, será obligación de toda autoridad, participar 
 
 V.- Asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo;
 
-VI.- Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+VI.- Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad, a través de la crianza positiva;
 
 VII.- Tratar a las niñas, los niños y los adolescentes con respeto a su dignidad y a sus derechos;
 
@@ -1911,7 +1919,9 @@ I.- Negar injustificadamente el ejercicio de un derecho a la niña, niño o adol
 
 II.- Cuando en el ejercicio de sus funciones o con motivo de ellas tenga conocimiento de la violación de algún derecho de alguna niña, niño o adolescente y se abstenga de hacerlo del conocimiento de la autoridad competente, en contravención de lo prescrito por la presente Ley y demás disposiciones estatales aplicables;
 
-III.- Propiciar, tolerar o abstenerse de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+III.- Ejercer, permitir, propiciar, tolerar o abstenerse de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes; y
 
 IV.- Toda actuación que no cuente con el permiso o autorización respectiva de la autoridad correspondiente; especialmente, en los procedimientos de adopción de acuerdo a lo prescrito por la Ley General y la Ley de Adopciones para el Estado de Tamaulipas.
 
@@ -2268,6 +2278,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-858 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 37, PÁRRAFO 3, FRACCIÓN IX, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; Y 277, FRACCIÓN II, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-888 MEDIANTE EL CUAL SE REFORMAN EL NUMERAL 1, DEL ARTÍCULO 30; EL ARTÍCULO 70; LA FRACCIÓN VI, DEL NUMERAL 1, DEL ARTÍCULO 71 Y LA FRACCIÓN III, DEL ARTÍCULO 99; Y SE ADICIONA LA FRACCIÓN XII BIS, AL ARTÍCULO 5, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
