@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-proteccion-civil-y-gestion-de-riesgos-para-el-estado-109
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-01"
-last_updated: "2024-08-14"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 1 de septiembre de 2015.
 
@@ -727,6 +727,14 @@ Los H. Cuerpos de Bomberos en caso de emergencia o desastre, coadyuvarán con la
 
 Los H. Cuerpos de Bomberos, podrán participar en los programas de prevención, simulacros, atención y mitigación de las emergencias, riesgos, contingencias y desastres de toda índole y magnitud.
 
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2024)</small>
+
+Para tal efecto el Estado y los Municipios en base a su disponibilidad financiera procurarán asignar en sus respectivos presupuestos partidas específicas y suficientes para que los H. Cuerpos de Bomberos cuenten con las instalaciones, unidades vehiculares, equipamiento, equipo de protección para los bomberos y todo lo necesario para la atención de emergencias y la salvaguarda de la vida y bienes de la población.
+
+> <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 2024)</small>
+
+Asimismo, y en base a su disponibilidad financiera, procurarán destinar el presupuesto necesario para cubrir al personal adscrito en los H. Cuerpos de Bomberos, además del salario correspondiente, el otorgamiento de un seguro de vida, la implementación de programas de vivienda digna y becas educativas para sus hijas e hijos así como el pago de marcha a sus familiares. Lo anterior sin perjuicio de otras prestaciones que conforme a la ley aplicable les corresponda.
+
 ### CAPÍTULO II. Red Estatal y Municipal de Brigadistas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE ABRIL DE 2023)</small>
@@ -1132,3 +1140,9 @@ B.O. 14 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 3069 SE ADICIONAN LOS ARTÍCULOS 17 BIS Y 33 BIS A LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el 01 de octubre de 2027, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3068 SE ADICIONA UN PÁRRAFO SEGUNDO Y UN PÁRRAFO TERCERO AL ARTÍCULO 35 DE LA LEY DE PROTECCIÓN CIVIL Y GESTIÓN DE RIESGOS PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
