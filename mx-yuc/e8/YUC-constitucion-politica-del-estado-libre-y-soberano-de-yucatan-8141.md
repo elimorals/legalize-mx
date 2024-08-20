@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2024-06-27"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "YUC"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE SEPTIEMBRE DE 2024 EN EL D.O. DEL ESTADO DE YUCATÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -3437,11 +3435,11 @@ Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la present
 
 En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 99.
 
-Podrán ser sujetos de juicio político los diputados locales en funciones; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; los titulares de las dependencias de la Administración Pública estatal y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales.
+Podrán ser sujetos de juicio político los diputados locales en funciones; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; la persona titular del Centro de Innovación Tecnológica de Yucatán; los titulares de las dependencias de la Administración Pública estatal y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales.
 
 > <small>(REFORMADO, D.O. 9 DE SEPTIEMBRE DE 2005)</small>
 
@@ -3467,9 +3465,9 @@ REFORMADO PRIMER PÁRRAFO, D.O. 19 DE JUNIO DE 2017)
 
 El Congreso del estado, mediante el voto de las dos terceras partes del total de sus integrantes, resolverá lo conducente, para proceder penalmente en contra de los magistrados y consejeros de la Judicatura del Poder Judicial del estado, ÚNICAMENTE POR LA COMISIÓN DE DELITOS COMETIDOS CONTRA LA ADMINISTRACIÓN DE JUSTICIA Y OTROS RAMOS DEL PODER PÚBLICO, PARTICULARMENTE EN LAS RESOLUCIONES O SENTENCIAS QUE PRONUNCIEN, ESTABLECIDOS EN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EFECTUADOS DURANTE SU ENCARGO.
 
-> <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
+> <small>(REFORMADO, D.O. 20 DE AGOSTO DE 2024)</small>
 
-Los diputados locales; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, que fueran objeto de proceso penal, permanecerán en su cargo, hasta en tanto se dicte sentencia condenatoria definitiva.
+Los diputados locales; los magistrados y los consejeros de la judicatura del Poder Judicial del estado; el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; los comisionados del Instituto Estatal de Transparencia, Acceso a la Información Pública y Protección de Datos Personales; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; la persona titular del Centro de Innovación Tecnológica de Yucatán; los titulares de las dependencias de la Administración Pública centralizada y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales, que fueran objeto de proceso penal, permanecerán en su cargo, hasta en tanto se dicte sentencia condenatoria definitiva.
 
 > <small>(REFORMADO, D.O. 21 DE DICIEMBRE DE 1988)</small>
 
@@ -6138,3 +6136,15 @@ Artículo Primero. Este Decreto entrará en vigor al día siguiente de su public
 Clausula derogatoria
 
 Artículo Segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan al presente Decreto.
+
+D.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 814/2024 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE RESPONSABILIDAD POLÍTICA”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Clausula derogatoria
+
+Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a este decreto.
