@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2024-08-16"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -1745,6 +1745,14 @@ Las niñas, niños y adolescentes tienen derecho al acceso y uso seguro del inte
 
 En concordancia con el Derecho a la Educación, las autoridades competentes deberán establecer mecanismos para fomentar que niñas, niños y adolescentes, hagan uso responsable y seguro de las tecnologías de información y comunicación y el uso del internet, previniendo el ciberacoso y todas las formas de violencia digital.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+###### Artículo 100 Bis 3 - A.
+
+Las niñas, niños y adolescentes, en su calidad de consumidores en situación de vulnerabilidad, tienen derecho a recibir por parte de los proveedores la información clara, comprensible y suficiente, respecto de los productos y servicios que ofrecen.
+
+La toma de decisión que realicen respecto de cualquier producto o servicio, deberá ser libre de cualquier tipo de acoso, coacción, influencia indebida o información engañosa.
+
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE NOVIEMBRE DE 2019)</small>
 
 ### Capítulo Vigésimo Primero. Del Derecho a una Crianza Positiva
@@ -2930,5 +2938,11 @@ P.O. 2 DE JULIO DE 2024.
 P.O. 16 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1042 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DE LOS ARTÍCULOS 4 Y 6 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1020 POR EL QUE SE ADICIONA EL ARTÍCULO 100 BIS 3 - A, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
