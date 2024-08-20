@@ -4,7 +4,7 @@ identifier: "HID-ley-de-archivos-para-el-estado-de-hidalgo-139130"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-18"
-last_updated: "2019-11-18"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Número 46 del Periódico Oficial del Estado de Hidalgo, el lunes 18 de Noviembre de 2019.
 
@@ -103,7 +103,17 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Archivo: Conjunto orgánico de documentos en cualquier soporte o formato, producidos o recibidos en el ejercicio de las atribuciones y funciones de los sujetos obligados y que ocupan un lugar determinado a partir de su estructura funcional u orgánica;
 
-II. Archivo de concentración: Área encargada de integrar los documentos que tiene (sic) vigencia administrativa, cuya consulta es esporádica y que permanecen en él hasta su disposición documental;
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+I. Bis. Acervo: Al conjunto de documentos producidos y recibidos por los sujetos obligados en el ejercicio de sus atribuciones y funciones con independencia del soporte, espacio o lugar que se resguarden;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+I. Ter. Actividad archivística: Al conjunto de acciones encaminadas a administrar, organizar, conservar y difundir documentos de archivo;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+II. Archivo de concentración: Área encargada de integrar los documentos que tienen vigencia administrativa, cuya consulta es esporádica y que permanecen en él hasta su disposición documental;
 
 III. Archivo de trámite: Área encargada de integrar los documentos de archivo de uso cotidiano y necesario para el ejercicio de las atribuciones y funciones de los sujetos obligados;
 
@@ -129,9 +139,13 @@ XIII. Consejo Estatal: Consejo de Archivo del Estado de Hidalgo;
 
 XIV. Consejo Nacional: Consejo Nacional de Archivos;
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
 
-XV. CONSERVACIÓN DE DOCUMENTOS: SON LAS ACCIONES DIRECTAS E INDIRECTAS QUE TIENEN POR OBJETO GARANTIZAR LA TRANSMISIÓN DEL DOCUMENTO CON EL MISMO ASPECTO, FORMA Y CONTENIDO, EN QUE HA LLEGADO A LOS SUJETOS OBLIGADOS, EVITANDO ALTERAR SUS MATERIALES Y SU FUNCIÓN;
+XIV Bis. Consejo Técnico: Al Consejo Técnico y Científico Archivístico;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+XV. Conservación de archivos: Al conjunto de procedimientos y medidas destinados a asegurar la prevención de alteraciones físicas de los documentos en papel y la preservación de los documentos digitales a largo plazo;
 
 XVI. Consulta de documentos: A las actividades relacionadas con la implantación de controles de acceso a los documentos debidamente organizados que garantizan el derecho que tienen los usuarios mediante la atención de requerimientos;
 
@@ -183,6 +197,14 @@ XXXIX. Metadatos: Conjunto de datos que describen el contexto, contenido y estru
 
 XL. Organización: Proceso archivístico que consiste en identificación, clasificación y ordenación de los documentos de archivo;
 
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+XL Bis. Órgano de Gobierno: Al Órgano de Gobierno del Archivo General del Estado;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+XL Ter. Órgano de Vigilancia: Al Órgano de Vigilancia del Archivo General del Estado;
+
 XLI. Particulares: Las personas físicas y morales, propietarios o poseedores de documentos o archivos considerados de interés público, quienes tendrán las obligaciones y derechos que estipula la Ley General;
 
 XLII. Patrimonio documental: Los documentos y registros escritos o gráficos vinculados en series documentales, producidos como resultado de las tareas o funciones de instituciones o personas, que por su naturaleza no son sustituibles y dan cuenta de la evolución del Estado y de las personas e instituciones que han contribuido a su desarrollo, además de transmitir y heredar información significativa de la vida intelectual, social, política, económica, cultural y artística de una comunidad, incluyendo aquellos que hayan pertenecido o pertenezcan a los sujetos obligados e instituciones privadas;
@@ -197,9 +219,7 @@ XLVI. Procedencia: Principio de procedencia y orden original. Los documentos deb
 
 XLVII. Programa Anual: Programa anual de desarrollo archivístico;
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XLVIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XLVIII. REGISTRO ESTATAL: REGISTRO ESTATAL DE ARCHIVOS;
+XLVIII. (DEROGADA, P.O. 20 DE AGOSTO DE 2024)
 
 XLIX. Sección: Cada una de las divisiones del fondo documental basada en las atribuciones de cada sujeto obligado de conformidad con las disposiciones legales aplicables;
 
@@ -213,13 +233,15 @@ LIII. Sistema Nacional: Sistema Nacional de Archivos;
 
 LIV. Soportes documentales: Material físico, lógico, magnético, óptico u otro además del papel, donde se registra la información del documento, siendo estos materiales audiovisuales, fotográficos, fílmicos, digitales, electrónicos, sonoros, visuales, entre otros;
 
-LV. Sujetos obligados: Cualquier autoridad, dependencia, unidades administrativas, entidad, órgano u organismo, que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos del Estado de Hidalgo y sus Municipios; así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal o municipal;
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+LV Bis. Subserie: A la división de la serie documental;
 
 LVI. Transferencia: Traslado controlado y sistemático de expedientes de consulta esporádica de un archivo de trámite a uno de concentración y de expedientes que deben preservarse de manera permanente, del archivo de concentración al archivo histórico;
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN LVII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
 
-LVII. TRAZABILIDAD: CAPACIDAD PARA SEGUIR LA HISTORIA, EL TRÁNSITO Y LA LOCALIZACIÓN DE UN DOCUMENTO;
+LVII. Trazabilidad: A la cualidad que permite, a través de un sistema automatizado para la gestión documental y administración de archivos, identificar el acceso y la modificación de documentos electrónicos;
 
 LVIII. Unidad documental: Documento o documentos, testimonio de un acto y, en general, de cualquier hecho, formalizado de acuerdo a un procedimiento o a una práctica de uso o de información, y es la unidad básica de conformación para la serie y la colección;
 
@@ -287,9 +309,7 @@ III. Administrar, organizar, y conservar de manera homogénea los documentos de 
 
 IV. Integrar los documentos en expedientes;
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-V. INSCRIBIR EN EL REGISTRO ESTATAL, LA EXISTENCIA Y UBICACIÓN DE ARCHIVOS BAJO SU RESGUARDO;
+V. (DEROGADA, P.O. 20 DE AGOSTO DE 2024)
 
 VI. Conformar el grupo interdisciplinario, que coadyuve en la valoración documental;
 
@@ -421,9 +441,9 @@ Los sujetos obligados deberán elaborar un informe anual detallando el cumplimie
 
 El área coordinadora de archivos promoverá que las áreas operativas lleven a cabo las acciones de gestión documental y administración de los archivos, de manera conjunta con las unidades administrativas o áreas competentes de cada sujeto obligado.
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-EL TITULAR DEL ÁREA COORDINADORA DE ARCHIVOS, SERÁ AQUEL QUE ENTRE SUS FUNCIONES ESTÉN AQUELLAS QUE SEAN AFINES A LA GESTIÓN DOCUMENTAL, DE CONFORMIDAD CON LA NORMATIVIDAD APLICABLE, TENDRÁ POR LO MENOS DOS NIVELES INMEDIATOS INFERIORES AL DEL TITULAR DEL SUJETO OBLIGADO; ADEMÁS, DEBERÁ ESTAR INSCRITO EN EL REGISTRO ESTATAL.
+El titular del área coordinadora de archivos deberá tener al menos nivel de director general o su equivalente dentro de la estructura orgánica del sujeto obligado. La persona designada deberá dedicarse específicamente a las funciones establecidas en esta Ley y en la Ley General.
 
 ###### Artículo 27.
 
@@ -651,9 +671,7 @@ VI. Órgano Interno de Control; y
 
 VII. Las áreas o unidades administrativas productoras de la documentación.
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-El grupo interdisciplinario deberá SER REGISTRADO ANTE EL ARCHIVO GENERAL DEL ESTADO Y PARA SU FUNCIONAMIENTO DEBERÁN atender a los lineamientos y normatividad emitida por Consejo Estatal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 50.
 
@@ -805,11 +823,17 @@ Las instancias del Sistema Estatal observarán lo dispuesto en las resoluciones 
 
 El Consejo Estatal, estará integrado por:
 
-I. La persona titular de la Oficialía Mayor, quien lo presidirá;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+I. La persona titular del Archivo General del Estado, quien lo presidirá;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+I Bis. La persona titular de la Secretaría de Gobierno;
 
 II. La persona titular de la Secretaría de Contraloría;
 
-III. La persona titular de la Secretaría de Cultura;
+III. (DEROGADA, P.O. 20 DE AGOSTO DE 2024)
 
 IV. El Diputado o Diputada que presida la Comisión de Transparencia y Anticorrupción del Congreso del Estado de Hidalgo;
 
@@ -819,11 +843,19 @@ VI. Un Comisionado o Comisionada del Instituto de Transparencia, Acceso a la Inf
 
 VII. La persona titular de la Auditoría Superior del Estado de Hidalgo;
 
-VIII. La persona titular de la Presidencia del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción;
+VIII. (DEROGADA, P.O. 20 DE AGOSTO DE 2024)
 
-IX. Nueve municipios del Estado de Hidalgo, que serán los primeros lugares de cada región en base al cumplimiento anual en materia de archivos; y
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
 
-X. Un representante de una asociación civil legalmente constituida y registrada, cuyo objeto social este directamente relacionado con la conservación de archivos.
+IX. Nueve municipios del Estado de Hidalgo, que serán los primeros lugares de cada región en base al cumplimiento anual en materia de archivos;
+
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+X. Un representante de los archivos privados, y
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+XI. Un representante del Consejo Técnico.
 
 ###### Artículo 65.
 
@@ -831,7 +863,7 @@ Los integrantes del Consejo Estatal contarán con voz y voto.
 
 La función como integrantes del Consejo Estatal será honorífica y podrán nombrar un suplente, el cual deberá tener, en su caso, la jerarquía inmediata inferior a la del consejero titular, actuando con voz y voto en su ausencia.
 
-El presidente del Consejo Estatal será suplido en sus ausencias por el titular del Archivo General del Estado.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 Para el caso del Diputado o Diputada que presida la Comisión de Transparencia y Anticorrupción del Congreso del Estado de Hidalgo, su suplente será el Diputado o Diputada Secretaria de esa Comisión.
 
@@ -839,7 +871,13 @@ El Consejo Estatal contará con un Secretario Técnico, que será nombrado y rem
 
 El presidente o a propuesta de alguno de los integrantes del Consejo Estatal, podrá invitar a las sesiones de éste a las personas que considere pertinentes, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
 
-Serán invitados permanentes del Consejo Estatal con voz, pero sin voto, los órganos a los que la Constitución Política del Estado de Hidalgo reconoce su autonomía, distintos a los referidos en las fracciones anteriores del presente artículo, quienes designarán un representante.
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+Serán invitados permanentes del Consejo Estatal con voz, pero sin voto, los órganos a los que la Constitución Política del Estado de Hidalgo reconoce su autonomía, distintos a los referidos en la fracción VI y VII del artículo 64 de esta Ley, quienes designarán un representante.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+La designación de la representación de los archivos privados referidos en la fracción X del artículo que antecede, será a través de convocatoria que emita el Consejo Estatal, en la que se establezcan las bases para seleccionar al representante de los mismos, estableciendo como mínimo los requisitos siguientes: que formen parte del Registro Nacional, una asociación civil legalmente constituida con al menos cinco años previos a la convocatoria, cuyo objeto social sea relacionado con la conservación de archivos y que cuente con la representación de al menos cinco archivos privados.
 
 ###### Artículo 66.
 
@@ -953,33 +991,25 @@ En la entidad no se podrá llevar a cabo la venta de un acervo o archivos privad
 
 El Archivo General del Estado, previo acuerdo con el Archivo General de la Nación, podrá solicitar el derecho preferente respecto a los demás compradores.
 
-### CAPÍTULO V. DEL REGISTRO ESTATAL DE ARCHIVOS
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO V. DEL REGISTRO ESTATAL DE ARCHIVOS
 
 ###### Artículo 75.
 
-El Sistema Estatal contará con el Registro Estatal, cuyo objeto es obtener y concentrar información sobre los sistemas institucionales de cada sujeto obligado y de los archivos de interés público, así como difundir el patrimonio documental resguardado en sus archivos, conforme a las disposiciones que para tal efecto emitan el Consejo Nacional y el Consejo Estatal de Archivos, en concordancia con la legislación aplicable.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2024)
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+###### Artículo 75.
 
-###### Artículo 76.
-
-La inscripción al Registro Estatal es obligatoria para los sujetos obligados y para los propietarios o poseedores de archivos de interés público, quienes deberán actualizar anualmente la información requerida en dicho registro, de conformidad con las disposiciones que para tal efecto emita el Consejo Nacional y el Consejo Estatal.
-
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 20 DE AGOSTO DE 2024)
 
 ###### Artículo 77.
 
-El Registro Estatal será administrado por el Archivo General del Estado, su organización y funcionamiento será conforme a las disposiciones que emita el propio Consejo Estatal.
-
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(DEROGADO, P.O. 20 DE AGOSTO DE 2024)
 
 ###### Artículo 78.
 
-Para la operación del Registro Estatal, el Archivo General del Estado pondrá a disposición de los sujetos obligados y de los particulares, propietarios o poseedores de archivos privados de interés público, una aplicación informática que les permita registrar y mantener actualizada la información.
-
-La información del Registro Estatal será de acceso público y de consulta gratuita, disponible a través del portal electrónico del Archivo General del Estado.
+(DEROGADO, P.O. 20 DE AGOSTO DE 2024)
 
 ### CAPÍTULO VI. DEL FONDO DE APOYO ECONÓMICO PARA LOS ARCHIVOS
 
@@ -1087,13 +1117,15 @@ Los usuarios de los archivos deberán respetar las disposiciones aplicables para
 
 ## TÍTULO SEXTO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL ARCHIVO GENERAL DEL ESTADO
 
-### CAPÍTULO ÚNICO. DE LA ORGANIZACIÓN
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+### CAPÍTULO I. DE LA ORGANIZACIÓN
+
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 96.
 
-Se crea el Archivo General del Estado como un órgano desconcentrado de la Oficialía Mayor del Gobierno del Estado de Hidalgo, con autonomía operativa, técnica, administrativa y de gestión para el cumplimiento de sus atribuciones, objeto y fines.
+Se crea el Archivo General del Estado, como un organismo descentralizado no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines; con domicilio legal en la Ciudad de Pachuca de Soto.
 
 ###### Artículo 97.
 
@@ -1115,9 +1147,7 @@ V. Emitir las declaratorias de patrimonio documental del Estado de Hidalgo;
 
 VI. Registrar y autorizar los procesos administrativos en materia archivística que realicen los Sujetos Obligados;
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-VII. SUSPENDER LOS PROCESOS ADMINISTRATIVOS EN MATERIA ARCHIVÍSTICA QUE REALICEN LOS SUJETOS OBLIGADOS, POR INACTIVIDAD, FALTA DE INTERÉS O LA NO COLABORACIÓN;
+VII. (DEROGADA, P.O. 20 DE AGOSTO DE 2024)
 
 VIII. Organizar, conservar y preservar el acervo documental, gráfico, bibliográfico y hemerográfico que resguarda, con base en las mejores prácticas y las disposiciones legales aplicables;
 
@@ -1187,7 +1217,7 @@ XXXIX. Realizar la declaratoria de interés público;
 
 XL. Organizar y participar en eventos nacionales e internacionales en la materia;
 
-XLI. Emitir el dictamen de baja documental o de transferencia secundaria para los sujetos obligados, los cuales se considerarán de carácter histórico; y
+XLI. (DEROGADA, P.O. 20 DE AGOSTO DE 2024)
 
 XLII. Las demás establecidas en la presente Ley y en otras disposiciones legales y normativas aplicables.
 
@@ -1195,17 +1225,73 @@ XLII. Las demás establecidas en la presente Ley y en otras disposiciones legale
 
 Las relaciones laborales entre el Archivo General del Estado y sus trabajadores deben sujetarse a lo dispuesto en la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los organismos descentralizados del Estado de Hidalgo y las demás disposiciones jurídicas aplicables.
 
-### CAPÍTULO I. DE LAS INFRACCIONES ADMINISTRATIVAS
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-### CAPÍTULO II. DE LOS DELITOS CONTRA LOS ARCHIVOS
+###### Artículo 99 Bis.
+
+Para el cumplimiento de su objeto, el Archivo General del Estado contará con los siguientes órganos:
+
+I. Órgano de Gobierno;
+
+II. Dirección General;
+
+III. Órgano de Vigilancia;
+
+IV. Consejo Técnico, y
+
+V. Las estructuras administrativas y órganos técnicos establecidos en su estatuto orgánico.
+
+El Consejo Técnico operará conforme a los lineamientos emitidos por el Órgano de Gobierno para tal efecto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+###### Artículo 99 Ter.
+
+El Órgano de Gobierno es el cuerpo colegiado de administración del Archivo General del Estado, que se encargará de evaluar la operación administrativa y el cumplimiento de los objetivos y metas de este. Lo anterior, sin perjuicio de las atribuciones previstas en la Ley de Entidades Paraestatales del Estado de Hidalgo y demás disposiciones reglamentarias.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+###### Artículo 99 Quáter.
+
+El Órgano de Gobierno estará integrado por un miembro de las siguientes instancias:
+
+I. La Secretaría de Gobierno, quien lo presidirá;
+
+II. La Secretaría de Hacienda;
+
+III. La Secretaría de Educación Pública;
+
+IV. La Oficialía Mayor;
+
+V. La Secretaría de Cultura;
+
+VI. La Secretaría de Contraloría;
+
+VII. La Unidad de Planeación y Prospectiva, y
+
+VIII. El Consejo de Ciencia, Tecnología e Innovación de Hidalgo.
+
+Los integrantes del Órgano de Gobierno con carácter de propietarios deberán tener el nivel jerárquico de titular de dependencia de la Administración Pública o titular de una entidad paraestatal, los suplentes, como mínimo deberán tener el nivel jerárquico de director general o similar. Los cuales, contarán con derecho a voz y voto, salvo la Secretaría de Contraloría, la cual contará únicamente con derecho a voz.
+
+El presidente o (sic) a propuesta de alguno de los integrantes del Órgano de Gobierno, podrá invitar a las sesiones a representantes de todo tipo de instituciones públicas o privadas, quienes intervendrán con voz pero sin voto.
+
+Los integrantes del Órgano de Gobierno, no obtendrán remuneración, compensación o emolumento por su participación.
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO III. DEL DIRECTOR GENERAL
 
 ###### Artículo 100.
 
 El Director General del Archivo General del Estado será nombrado por el Gobernador del Estado y deberá cubrir los siguientes requisitos:
 
-(NOTA: EL 17 DE MARZO 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMERO, DÉCIMO TERCERO, DÉCIMO QUINTO, DÉCIMO SEXTO, DÉCIMO SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 140/2019, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 4 DE ABRIL DE 2022, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-I. SER CIUDADANO HIDALGUENSE;
+I. Ser ciudadano mexicano por nacimiento;
 
 II. Poseer, al día de la designación, preferentemente el grado académico de maestro en ciencias sociales o humanidades, expedido por autoridad o institución facultada para ello, o bien, contar con experiencia mínima de cinco años en materia archivística;
 
@@ -1219,7 +1305,53 @@ VI. No haber sido Secretario de Estado, Procurador General de Justicia, Senador,
 
 Durante su gestión, el Director General no podrá desempeñar ningún otro empleo, cargo o comisión, con excepción de aquellos que puede desempeñar en las instituciones docentes, científicas o de beneficencia, siempre que sean compatibles con sus horarios, responsabilidades y actividades dentro del Archivo General del Estado.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+Para el adecuado ejercicio de sus funciones, el Director General contará con aquellas facultades establecidas en la Ley de Entidades Paraestatales del Estado de Hidalgo y en el estatuto orgánico del Archivo General del Estado.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO IV. DEL ÓRGANO DE VIGILANCIA
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+###### Artículo 100 Bis.
+
+El Archivo General del Estado contará con un Comisario Público propietario y un suplente, así como con un Órgano Interno de Control, de conformidad con lo dispuesto por la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento; quiénes ejercerán las facultades establecidas en estos ordenamientos y los demás que le resulten aplicables.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO V. DEL CONSEJO TÉCNICO Y CIENTÍFICO ARCHIVÍSTICO
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+###### Artículo 100 Ter.
+
+El Archivo General del Estado contará con un Consejo Técnico que lo asesorará en las materias históricas, jurídicas, de tecnologías de la información y las disciplinas afines al quehacer archivístico.
+
+El Consejo Técnico estará conformado por cinco integrantes designados por el Consejo Estatal a convocatoria pública del Archivo General del Estado, entre representantes de instituciones de docencia, investigación o preservación de archivos, académicos y expertos destacados. Operará conforme a los lineamientos aprobados por el Consejo Estatal.
+
+Los integrantes del Consejo Técnico no obtendrán remuneración, compensación o emolumento por su participación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO VI. DEL PATRIMONIO DEL ARCHIVO GENERAL DEL ESTADO
+
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+###### Artículo 100 Quáter.
+
+El patrimonio del Archivo General del Estado estará integrado por:
+
+I. Los recursos que le sean asignados anualmente conforme al Presupuesto de Egresos del Estado correspondiente;
+
+II. Los ingresos que perciba por los servicios que proporcione y los que resulten del aprovechamiento de sus bienes, y
+
+III. Los demás ingresos, bienes, derechos y obligaciones que adquiera, se le asignen, transfieran o adjudiquen por cualquier título jurídico.
+
 ## TÍTULO SÉPTIMO. DE LAS INFRACCIONES ADMINISTRATIVAS Y DELITOS EN MATERIA DE ARCHIVOS
+
+### CAPÍTULO I. DE LAS INFRACCIONES ADMINISTRATIVAS
 
 ###### Artículo 101.
 
@@ -1270,6 +1402,8 @@ Se considera grave el incumplimiento a las fracciones I, II, III, IV y V del art
 Las sanciones contempladas en la presente Ley son aplicables sin perjuicio de la responsabilidad civil o penal de quienes incurran en ellas.
 
 En caso de que existan hechos que pudieran ser constitutivos de algún delito, las autoridades estarán obligadas a realizar la denuncia ante el Ministerio Público correspondiente, coadyuvando en la investigación y aportando todos los elementos probatorios con los que cuente.
+
+### CAPÍTULO II. DE LOS DELITOS CONTRA LOS ARCHIVOS
 
 ###### Artículo 106.
 
@@ -1360,3 +1494,29 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 LIC. OMAR FAYAD MENESES
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1023 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ARCHIVOS PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO. Se deroga el artículo NOVENO transitorio del Decreto que crea la Ley de Archivos para el Estado de Hidalgo, publicado en el Periódico Oficial del Estado de Hidalgo con fecha 18 de noviembre de 2019.
+
+CUARTO. El Poder Ejecutivo del Estado de Hidalgo, deberá llevar a cabo los actos necesarios para que a partir del 01 de enero de 2026 el Archivo General del Estado opere como un organismo descentralizado no sectorizado, con personalidad jurídica y patrimonio propio, con autonomía técnica y de gestión para el cumplimiento de sus atribuciones, objeto y fines, de conformidad con el presente Decreto.
+
+QUINTO. El Congreso del Estado de Hidalgo deberá contemplar y garantizar en el Presupuesto de Egresos para el ejercicio fiscal 2026 y subsecuentes, la suficiencia presupuestal para el funcionamiento del Archivo General del Estado, como organismo descentralizado no sectorizado.
+
+Mientras tanto, la Oficialía Mayor del Poder Ejecutivo del Estado de Hidalgo, con cargo a su presupuesto, proveerá de los recursos humanos, materiales, tecnológicos y financieros que requiera el Archivo General del Estado para el cumplimiento del presente Decreto, hasta el 31 de diciembre de 2025.
+
+SEXTO. El Archivo General del Estado que comience a operar en los términos del artículo cuarto transitorio, contará con 30 días naturales a partir de la fecha a que se refiere dicho artículo transitorio, para instalar el Órgano de Gobierno a que se refieren los artículos 99 Ter y 99 Quater del presente Decreto.
+
+SÉPTIMO. El Órgano de Gobierno del Archivo General del Estado que comience a operar en los términos del artículo sexto transitorio, contará con 30 días naturales a partir de su instalación, para expedir y publicar en el Periódico Oficial del Estado el Estatuto Orgánico del Archivo General del Estado.
+
+OCTAVO. Los actos realizados por el Archivo General del Estado hasta antes de la entrada en vigor del presente Decreto continuarán su despacho conforme a la normatividad aplicable.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para los sujetos obligados, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal 2026 y los subsecuentes.
