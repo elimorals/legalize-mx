@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2024-06-18"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -1993,11 +1993,19 @@ Los procedimientos a que se refiere este Artículo se realizarán de acuerdo a l
 
 La Procuraduría o los prestadores de los servicios a excepción de los concesionarios, podrán ordenar la práctica de visitas de investigación, supervisión, vigilancia y verificación de los servicios por medio del personal autorizado, debiendo hacerlo por escrito motivando y fundamentando el acto a realizar, observando el procedimiento previsto en la Ley para la Protección al Ambiente del Estado de Hidalgo, así como la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 146.
 
-Se practicará (sic) visitas para verificar:
+Se practicarán visitas periódicas y sistemáticas para verificar:
 
-I. Que el uso de los servicios públicos sea el contratado;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+I. Que el uso de los servicios públicos sea el contratado y cumplan con lo dispuesto en la ley;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+I Bis. Que el uso del agua potable sea el correcto y no se emplee para usos no autorizados;
 
 II. Que el funcionamiento de las instalaciones hidráulicas sea acorde a lo que se disponga en la autorización concedida;
 
@@ -2005,17 +2013,27 @@ III. El funcionamiento de los medidores y las causas de alto o bajo consumo;
 
 IV. El diámetro exacto de las tomas y de las conexiones de las descargas;
 
-V. Que no existan tomas clandestinas o derivaciones no autorizadas;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+V. Que no existan tomas clandestinas, derivaciones no autorizadas o mecanismos de succión no autorizados;
 
 VI. La existencia de fugas de agua;
 
 VII. Que las tomas o descargas cumplan con lo dispuesto en esta Ley y su Reglamento;
 
-VIII. Que los sellos de suspensión de servicio no se hayan violado y reinstalado el servicio;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
 
-IX. Que a las tomas suspendidas no se le suministre el servicio de otra toma de agua y
+VIII. Que los sellos de suspensión de servicio no se hayan violado y reinstalado el servicio sin la autorización pertinente;
 
-X. Las demás que el prestador del servicio considere necesarias.
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+IX. Que a las tomas suspendidas no se le suministre el servicio de otra toma de agua;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+X. Los consumos de agua de los diferentes usuarios, y
+
+XII (SIC). Las demás que el prestador del servicio considere necesarias.
 
 ###### Artículo 147.
 
@@ -2452,3 +2470,9 @@ P.O. 18 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 975 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1003 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 146 DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
