@@ -4,7 +4,7 @@ identifier: "HID-ley-del-notariado-para-el-estado-de-hidalgo-72402"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2021-09-22"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 25 de enero de 2010.
 
@@ -95,9 +95,9 @@ XII.- Colegio.- Colegio de Notarios Públicos del Estado de Hidalgo.
 
 Corresponderá al Ejecutivo vigilar el cumplimiento de esta Ley y la eficaz prestación del servicio público notarial, a través de la Secretaría por conducto de la Coordinación, mediante la Dirección; autoridades que concentrarán y sistematizarán para efectos estadísticos la información sobre los actos notariales y sus requerimientos, a fin de que se pueda regular en el orden administrativo la eficaz y suficiente prestación del servicio público notarial.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
-El Estado podrá requerir a los notarios públicos que colaboren de forma gratuita en la prestación del servicio público notarial para satisfacer demandas inaplazables de interés social, fijando las condiciones a las que deberán sujetarse.
+El Estado podrá requerir a los notarios públicos que colaboren de forma gratuita o fijar costos preferenciales en la prestación del servicio público notarial para satisfacer demandas inaplazables de interés social y en favor de personas vulnerables, fijando las condiciones a las que deberán sujetarse.
 
 Los Notarios Públicos tendrán obligación solidaria cuando fueren expensados para ello en el pago de impuestos y derechos que generen los actos pasados ante su Fe. La tramitación por cuenta de terceros hasta la inscripción del título ante el registro Público que corresponda, cuando así le fuere solicitado.
 
@@ -1945,6 +1945,10 @@ El Ejecutivo expedirá y publicará anualmente en el Periódico Oficial del Esta
 
 Para las escrituras en las que intervengan la Federación, el Estado, o los Municipios cuya finalidad sea el fomento y construcción de vivienda de interés social y popular, así como de programas tendientes a la titulación de inmuebles u otros análogos y de aquellos en que sean parte el Gobierno del Estado, los Ayuntamientos o los organismos auxiliares de carácter local, los honorarios no se sujetarán al Arancel.
 
+> <small>(ADICIONADO, P.O. 20 DE AGOSTO DE 2024)</small>
+
+ARTICULO 200 BIS.- El Arancel tendrá un apartado especial que establezca la prestación del servicio público notarial gratuito, o a costos preferenciales, en favor de personas pertenecientes a grupos vulnerables.
+
 A R T I C U L O S T R A N S I T O R I O S
 
 PRIMERO.- Esta Ley entrará en vigor a los 180 días naturales siguientes al de su Publicación en el Periódico Oficial del Estado de Hidalgo.
@@ -2018,3 +2022,9 @@ P.O. 22 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 782 QUE REFORMA EL ARTÍCULO 23 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 168, DE LA LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1027 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
