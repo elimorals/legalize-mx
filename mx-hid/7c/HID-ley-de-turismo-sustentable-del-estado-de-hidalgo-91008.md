@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2024-06-18"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -146,6 +146,10 @@ V.- Consejo: El Consejo Consultivo para el Desarrollo Turístico Sustentable de 
 V Bis.- Comité: El Comité Ciudadano de los Pueblos Mágicos;
 
 VI.- Consejo Municipal: El Consejo Consultivo Municipal de Turismo Sustentable del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+VI Bis.- Geoturismo: Turismo que sostiene y promueve la identidad del territorio, tomando en consideración la geología y los recursos de ésta.
 
 VII.- Guía de turistas: Especialista que tiene conocimiento sobre algún atractivo o tema en específico y obtuvo reconocimiento por la autoridad competente en su respectiva categoría de turismo;
 
@@ -875,9 +879,11 @@ I.- Promover, en coordinación con las Dependencias y entidades competentes, as�
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
-II. Desarrollar e implementar la marca turística estatal Hidalgo, para reforzar su imagen como una entidad atractiva, segura y con una oferta turística diversa, siendo el signo perceptible por los sentidos y susceptible de representarse, que permita distinguir a la entidad como destino turístico en el ámbito local, nacional e internacional;
+II.- Desarrollar e implementar la marca turística estatal Hidalgo, para reforzar su imagen como una entidad atractiva, segura y con una oferta turística diversa, siendo el signo perceptible por los sentidos y susceptible de representarse, que permita distinguir a la entidad como destino turístico en el ámbito local, nacional e internacional;
 
-III.- Impulsar el aprovechamiento sustentable y la difusión del patrimonio histórico, artístico, cultural y natural del Estado;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+III.- Impulsar el aprovechamiento sustentable y la difusión del patrimonio histórico, geoturístico, artístico, cultural y natural del Estado;
 
 IV.- Coordinar la participación del Estado en los programas turísticos regionales que conjunten a varias Entidades Federativas, suscribiendo al efecto los convenios necesarios;
 
@@ -1454,3 +1460,9 @@ P.O. 18 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 989 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1017 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DE LOS ARTÍCULOS 5 Y 46 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
