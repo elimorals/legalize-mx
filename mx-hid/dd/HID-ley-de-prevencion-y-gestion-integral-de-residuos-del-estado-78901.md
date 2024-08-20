@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-y-gestion-integral-de-residuos-del-estado-789
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-24"
-last_updated: "2024-01-17"
+last_updated: "2024-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 24 de enero de 2011.
 
@@ -157,7 +157,9 @@ I.- Coordinar esfuerzos para que las distintas políticas sectoriales, incorpore
 
 II.- Incorporar en los planes y programas de ordenamiento territorial, ordenamiento ecológico y desarrollo urbano, la consideración al establecimiento de la infraestructura indispensable para la gestión integral de los residuos;
 
-III.- Requerir a las autoridades municipales correspondientes y a los grandes generadores de residuos de la Entidad, la presentación de la información necesaria para la elaboración de los diagnósticos básicos integrales que sustentarán la gestión de los mismos;
+> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+
+III.- Requerir a las autoridades municipales correspondientes y a los grandes generadores de residuos de la Entidad, la presentación de los datos y documentos necesarios para integrar un sistema de registro de información sobre el manejo de residuos, el cual permita conocer el origen, ruta y destino final de los mismos, y que permita la elaboración de los diagnósticos básicos integrales que sustentarán la gestión de los residuos;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
 
@@ -1514,3 +1516,9 @@ P.O. 17 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 589 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 20 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1018 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5 DE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
