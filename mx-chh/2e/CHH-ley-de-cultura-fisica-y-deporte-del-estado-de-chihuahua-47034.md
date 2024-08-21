@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2024-08-10"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -105,9 +105,17 @@ VIII.- Promover en la práctica de actividades físicas, recreativas y deportiva
 
 IX.- Garantizar a todas las personas la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen, sin discriminación por origen étnico o nacional, sexo, género, orientación sexual, edad, discapacidad, estatura corporal, condición social, de salud, embarazo, lengua, religión, opiniones o estado civil.
 
-X.- (DEROGADA, P.O. 15 DE JUNIO DE 2019)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2024)</small>
 
-XI.- Las demás que esta Ley, su Reglamento y otras disposiciones determinen.
+X.- Garantizar la institucionalización progresiva de la perspectiva de género en el deporte profesional y juvenil.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2024)</small>
+
+XI.- Implementar políticas públicas deportivas que permitan el acceso y la práctica igualitaria del deporte entre hombres y mujeres.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE AGOSTO DE 2024)</small>
+
+XII.- Las demás que esta Ley, su Reglamento y otras disposiciones determinen.
 
 ###### Artículo 3.
 
@@ -210,6 +218,14 @@ XIII.- Evento Deportivo con fines de espectáculo: Todo aquel en el que se condi
 > <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2018)</small>
 
 XIV.- Deporte Adaptado. Aquel que está convenido como un sistema institucionalizado, regulado por los organismos internacionales correspondientes, y sus reglamentos deportivos para su práctica, considerando las necesidades de participación de los deportistas que presentan discapacidades físicas, intelectuales, mentales y sensoriales.
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XV.- Hostigamiento sexual: El ejercicio del poder en una relación de subordinación real de la víctima frente a la persona agresora, que se expresa en conductas verbales, físicas, o ambas, relacionadas con la sexualidad de connotación lasciva.
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XVI.- Acoso sexual: Forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo del poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -319,9 +335,9 @@ II.- Establecer los mecanismos para la planeación, supervisión, ejecución y e
 
 III.- Proponer planes y programas que contribuyan a fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, considerando el pleno reconocimiento a la equidad e igualdad hacia las personas con discapacidad.
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-IV.- Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte.
+IV.- Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, desde una perspectiva de igualdad de género en la asignación de recursos.
 
 V.- (DEROGADA, P.O. 16 DE JULIO DE 2014)
 
@@ -541,7 +557,9 @@ I.- Administrar y representar legalmente al Instituto;
 
 II.- Formular los programas institucionales de corto, mediano y largo plazo, así como el presupuesto del Instituto y presentarlos para su aprobación a la Junta Directiva;
 
-III.- Formular programas de organización;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+III.- Formular planes y programas de organización con perspectiva de género, procurando la asignación de recursos presupuestales para la detección, apoyo y seguimiento de mujeres deportistas;
 
 IV.- Establecer los mecanismos que permitan el óptimo aprovechamiento de los bienes muebles e inmuebles del Instituto;
 
@@ -749,9 +767,13 @@ XXVIII.- Emitir opinión en la formulación de los programas deportivos de las A
 
 XXVIII Bis.- Instrumentar e implementar el Programa de Fomento al Deporte de Alto Rendimiento y de Personas Deportistas Destacadas, para el desarrollo integral de atletas chihuahuenses.
 
-> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2024)</small>
 
-XXIX.- Las demás que esta Ley u otras disposiciones legales determinen.
+XXIX.- Promover, dentro de las asociaciones deportivas, la implementación de unidades de atención, políticas y protocolos de prevención y atención del hostigamiento y acoso sexual en contra de las mujeres en el deporte.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE AGOSTO DE 2024)</small>
+
+XXX.- Las demás que esta Ley u otras disposiciones legales determinen.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2006)</small>
 
@@ -1199,6 +1221,10 @@ VII.- Representar oficialmente al Estado ante sus respectivas federaciones depor
 
 VIII.- Ejercer la potestad disciplinaria en los términos establecidos en la presente Ley, su Reglamento y demás ordenamientos aplicables.
 
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+IX.- Establecer órganos internos para la implementación y ejecución de políticas, modelos y protocolos que tengan por objeto prevenir y, en su caso, sancionar la discriminación, el acoso y hostigamiento sexual, así como erradicar cualquier forma de discriminación en el ámbito laboral y deportivo.
+
 ###### Artículo 56.
 
 Las Asociaciones Deportivas Estatales son la máxima instancia técnica de su disciplina en la Entidad y deberán representar a un solo deporte en todas sus modalidades y especialidades, en los términos del reconocimiento de su respectiva Asociación Deportiva Nacional.
@@ -1252,6 +1278,10 @@ f) Mecanismos de apoyo para sus deportistas afiliados, dirigidos a todos aquello
 > <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
 
 g) El reconocimiento de la facultad del Instituto de fiscalizar la correcta aplicación y ejercicio de los recursos públicos, así como evaluar los resultados de los programas operados con los mencionados recursos.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+h) Órganos de justicia deportiva encargados de prevenir, atender y sancionar la discriminación, el acoso y hostigamiento sexual, así como erradicar cualquier forma de violencia en el ámbito laboral y deportivo.
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -2650,3 +2680,23 @@ La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las 
 ###### ARTÍCULO CUARTO.
 
 El Instituto Chihuahuense del Deporte y Cultura Física, elaborará los lineamientos y reglas de operación necesarios para dar cumplimiento a lo establecido en el presente Decreto.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLEY/0859/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades competentes de la Administración Pública Estatal realizarán, en su caso, las modificaciones y adecuaciones pertinentes, de acuerdo con lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las medidas, disposiciones y previsiones financieras, de ser necesarias a que hubiera lugar, siguiendo los procedimientos aplicables, a fin de cumplir con lo establecido en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las asociaciones deportivas tendrán un periodo de 180 días hábiles para realizar las modificaciones necesarias a sus estatutos, para dar cumplimiento al presente Decreto.
