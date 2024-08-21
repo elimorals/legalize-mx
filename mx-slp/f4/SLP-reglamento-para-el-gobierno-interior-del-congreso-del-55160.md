@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-para-el-gobierno-interior-del-congreso-del-55160"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-15"
-last_updated: "2023-09-01"
+last_updated: "2024-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SLP"
 ---
 # REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 21 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 15 de febrero de 2007.
 
@@ -3208,3 +3208,21 @@ P.O. 1 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto será vigente a partir de la entrada en vigor del artículo primero de este Decreto, previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1085.- SE EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y EL REGLAMENTO DEL CONGRESO, AMBOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Reglamento entrará en vigor el día trece de septiembre de dos mil veinticuatro, previa su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se abroga el Reglamento para el Gobierno Interior del Congreso del Estado Libre y Soberano de San Luis Potosí, publicado con fecha 15 de febrero de 2007 en el Periódico Oficial del Estado.
+
+TERCERO. Las disposiciones del presente Reglamento que establecen los requisitos para ocupar la titularidad de los órganos de soporte técnico, de apoyo y de control del Congreso del Estado, no serán aplicables a quienes los vengan desempeñando a la entrada en vigor del propio Reglamento.
+
+CUARTO. Los trabajadores de base nivel 13 que ostentaban previamente el cargo de "Asesor" y/o "Asesor de Comisiones" adscritos a la "Coordinación de Asesoría y Secretariado Técnico de Comisiones" del Congreso del Estado, a la entrada en vigor del nuevo Reglamento contenido en el presente Decreto pasarán a ocupar el cargo de "Secretario de Estudio Legislativo", conservando de manera íntegra todos sus derechos laborales previamente adquiridos.
+
+QUINTO. La Junta de Coordinación Política asignará los recursos materiales para la adquisición de un reloj legislativo que servirá como apoyo para el correcto desarrollo de las sesiones en el pleno.
+
+SEXTO. El Congreso del Estado a través de la Directiva y de la JUCOPO, implementarán las acciones necesarias para que se habilite el Sistema de Mensajería del Congreso o los medios electrónicos y tecnológicos que considere pertinentes para el correcto desarrollo de los trabajos legislativos.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
