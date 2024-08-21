@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-07-10"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -938,6 +938,14 @@ XXII. Establecer programas de educación de la afectividad y sexualidad integral
 > <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2024)</small>
 
 XXIII. Prevenir las adicciones, mediante el diseño y ejecución de programas y campañas de información y concientización, con carácter permanente, dirigidas a niñas, niños y adolescentes, sobre los daños que provoca a la salud física, mental, emocional y su rendimiento escolar, el consumo de sustancias psicoactivas.
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XXIV. Establecer medidas para detectar y atender las necesidades de niñas, niños y adolescentes con trastornos específicos del aprendizaje, de tal manera que se posibilite su desarrollo progresivo e integral, y conforme a sus capacidades y habilidades personales.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXIV, P.O. 21 DE AGOSTO DE 2024]</small>
+
+Para ello, deberá dotarse a las y los docentes de la capacitación constante y necesaria, así como promover becas educativas o de apoyo a educandos con discapacidades y sus familias que deriven en dificultades de aprendizaje, y considerar alternativas accesibles para el apoyo didáctico de acompañamiento o "maestros sombras" cuando así se requiera.
 
 ###### Artículo 66.
 
@@ -2922,6 +2930,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 10 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0862/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 60, SEGUNDO PÁRRAFO, UNA FRACCIÓN VI, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0863/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 65, UNA FRACCIÓN XXIV, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
