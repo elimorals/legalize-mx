@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-del-estado-de-chihuahua-110765"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-12"
-last_updated: "2017-02-22"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de diciembre de 2015.
 
@@ -323,7 +323,13 @@ XIX. Crear, modificar o suprimir los puntos o casetas de verificación en el Est
 
 XX. De manera coordinada con los organismos auxiliares, difundir los programas de gobierno orientados al impulso y desarrollo de la actividad pecuaria en el Estado, así como el fomento de la capacitación en materia de epidemiología a los médicos veterinarios acreditados para realizar las pruebas de tuberculosis y brucelosis.
 
-XXI. Las demás que esta Ley y otras normas jurídicas aplicables le confieran.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2024)</small>
+
+XXI. Fomentar la conservación y desarrollo de la apicultura en el Estado, en coordinación con las asociaciones apícolas, la sociedad civil y sector privado.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE AGOSTO DE 2024)</small>
+
+XXII. Las demás que esta Ley y otras normas jurídicas aplicables le confieran.
 
 ###### Artículo 6.
 
@@ -1844,3 +1850,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto, entendié
 ###### ARTÍCULO TERCERO.
 
 El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0869/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
