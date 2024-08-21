@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2021-11-15"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -177,7 +177,9 @@ Son tipos de violencia contra las mujeres:
 
 I. La violencia psicológica: Acto u omisión que dañe la estabilidad psíquica y/o emocional de la mujer; consistente en amedrentar, negligencia, abandono, celotipia, insultos, humillaciones, denigración, marginación, infidelidad, comparaciones destructivas, rechazo y restricción a la autodeterminación;
 
-II. La violencia física: Acto que inflige daño usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas;
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2024)</small>
+
+II. Violencia Física: Es cualquier acción u omisión intencional que busca infringir daño visible o no en la integridad física de la mujer, usando algún tipo de arma, objeto o la fuerza física, provocando lesiones internas, externas o ambas;
 
 III. La violencia sexual: Acto que degrada o daña el cuerpo y/o la sexualidad de la víctima, que atenta contra su libertad, dignidad e integridad, como una expresión de abuso de poder que implica la supremacía sobre la mujer, al denigrarla o concebirla como objeto; se considera como tal, la discriminación o imposición vocacional, la regulación de la fecundidad o la inseminación artificial no consentidas, la prostitución forzada, la pornografía infantil, la trata de niñas y mujeres, la esclavitud sexual, el acceso carnal violento, las expresiones lascivas, el hostigamiento sexual, la violación, los tocamientos libidinosos sin consentimiento o la degradación de las mujeres en los medios de comunicación como objeto sexual;
 
@@ -205,9 +207,13 @@ VIII. Violencia mediática. Es todo acto a través de cualquier medio de comunic
 
 La violencia mediática se ejerce por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atentan contra la autoestima, salud, integridad, libertad y seguridad de las mujeres y niñas, que impide su desarrollo y que atenta contra la igualdad.
 
-> <small>(REFORMADA [N. DE E. REUBICADA], G.O. 15 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 21 DE AGOSTO DE 2024)</small>
 
-IX. Cualesquiera otras que lesionen o sean susceptibles de dañar la dignidad, la integridad o libertad de las mujeres.
+IX. Cualesquiera otras que lesionen o sean susceptibles de dañar la dignidad, la integridad o libertad de las mujeres; y
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2024)</small>
+
+X. Violencia Ácida: Es aquella que pretende causar daño físico irreversible que lastime, altere o cause alguna discapacidad, mediante la acción de arrojar ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, líquidos a altas temperaturas o cualquier otra sustancia que pueda provocar o no lesiones en órganos internos o externos o en ambos.
 
 > <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
@@ -306,6 +312,10 @@ v) Ejercer violencia física, sexual, simbólica, psicológica, económica o pat
 w) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres en el ejercicio de un cargo político, público, de poder o de decisión, que afecte sus derechos políticos y electorales.
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en las leyes de la materia, así como en la legislación electoral y de responsabilidades administrativas correspondientes.
+
+> <small>(ADICIONADA, G.O. 21 DE AGOSTO DE 2024)</small>
+
+VIII. Violencia en los espacios públicos. Son todas aquellas conductas físicas o verbales de connotación sexual, que, sin su consentimiento, son ejercidas en contra de las mujeres por una persona o varias personas desconocidas en lugares públicos o de acceso al público, como la calle y el transporte público, que tiene como objeto dañar su integridad, libertad, libre circulación y que las sitúa como objeto sexual a través del miedo, la humillación y la intimidación.
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
@@ -473,11 +483,19 @@ XII. Las demás que sean propuestas por las instituciones que integran el Observ
 
 Los gobiernos estatal y municipales, así como las autoridades jurisdiccionales, en el ámbito de sus competencias garantizarán a las mujeres el derecho a una vida libre de violencia digital y mediática y tomarán en consideración los daños que éstas puedan generar en las víctimas.
 
-### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 21 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO XI. DE LA VIOLENCIA EN LOS ESPACIOS PÚBLICOS
+
+> <small>(ADICIONADO, G.O. 21 DE AGOSTO DE 2024)</small>
+
+###### Artículo 13 Decies.
+
+Las autoridades estatales y municipales y los organismos autónomos, en el ámbito de sus competencias, tomarán todas las medidas necesarias para garantizar a las mujeres el ejercicio pleno del derecho a una vida libre de violencia en los espacios públicos.
 
 ## TÍTULO TERCERO. DEL SISTEMA Y DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO II. DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+### CAPÍTULO I. DEL SISTEMA ESTATAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 14.
 
@@ -549,7 +567,7 @@ V. Las acciones conjuntas para la protección de las mujeres víctimas de violen
 
 VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
-### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
+### CAPÍTULO II. DEL PROGRAMA PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
 ###### Artículo 17.
 
@@ -587,7 +605,7 @@ El Ejecutivo Estatal propondrá en el Presupuesto de Egresos, asignar una partid
 
 ## TÍTULO CUARTO. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
 
-### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
+### CAPÍTULO I. DE LA COMPETENCIA ESTATAL
 
 ###### Artículo 19.
 
@@ -683,7 +701,13 @@ XXX. A través de la Secretaría de Salud:
 
 a). En el marco de la política de salud integral de las mujeres, diseñar con perspectiva de género la política de prevención, atención, sanción y erradicación de la violencia en su contra; y
 
-b). Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y garantizar la atención a las víctimas y la aplicación de la NOM 190-SSA1-1999: Prestación de Servicios de Salud;
+> <small>(REFORMADO, G.O. 21 DE AGOSTO DE 2024)</small>
+
+b). Crear programas de capacitación para el personal del sector salud, respecto de la violencia contra las mujeres y garantizar la atención a las víctimas y la aplicación de la NOM 190-SSA1-1999: Prestación de Servicios de Salud; y
+
+> <small>(ADICIONADO, G.O. 21 DE AGOSTO DE 2024)</small>
+
+c). Llevar un registro y remitir a las autoridades competentes la información y estadísticas sobre las personas víctimas de violencia ácida, protegiendo, en todo momento, sus datos personales.
 
 XXXI. A través de la Secretaría de Trabajo, Previsión Social y Productividad:
 
@@ -875,7 +899,7 @@ VII. Substanciar los procedimientos y remitir al Tribunal Electoral de Veracruz,
 
 VIII. Las demás que establezcan esta Ley y otras disposiciones aplicables.
 
-### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
+### CAPÍTULO II. DE LA COMPETENCIA DE LOS AYUNTAMIENTOS
 
 ###### Artículo 22.
 
@@ -911,7 +935,7 @@ XIV. Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 ## TÍTULO QUINTO. DE LA ATENCIÓN A LAS VÍCTIMAS, DE LOS REFUGIOS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
 
-### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
+### CAPÍTULO I. DE LA ATENCIÓN A LAS VÍCTIMAS
 
 ###### Artículo 23.
 
@@ -961,7 +985,7 @@ Se prohíbe someter a la víctima a mecanismos de conciliación, de mediación o
 
 La persona agresora deberá participar en los programas de reeducación integral, por mandato de autoridad competente.
 
-### CAPÍTULO III. DE LAS MEDIDAS REEDUCATIVAS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
+### CAPÍTULO II. DE LOS REFUGIOS PARA LAS VÍCTIMAS
 
 ###### Artículo 27.
 
@@ -1035,7 +1059,7 @@ En ningún caso se podrá mantener a las víctimas en los refugios en contra de 
 
 Los gobiernos estatal y municipal, con la participación que corresponda de los sectores social y civil, promoverán mecanismos para otorgar los apoyos necesarios para que los refugios cumplan con su objeto.
 
-### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO
+### CAPÍTULO III. DE LAS MEDIDAS REEDUCATIVAS Y DE LOS CENTROS DE REEDUCACIÓN PARA LAS PERSONAS AGRESORAS
 
 ###### Artículo 34.
 
@@ -1067,7 +1091,7 @@ VI. Contar con el personal debidamente formado, actualizado y especializado en l
 
 ## TÍTULO SEXTO. DE LA ALERTA DE VIOLENCIA DE GÉNERO Y DE LAS ÓRDENES DE PROTECCIÓN
 
-### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN Y MEDIDAS CAUTELARES
+### CAPÍTULO I. DE LA ALERTA DE VIOLENCIA DE GÉNERO
 
 ###### Artículo 38.
 
@@ -1126,6 +1150,8 @@ b) Diseñar e instrumentar políticas públicas integrales que eviten la comisi�
 c) Verificar los hechos y la publicidad de la verdad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE SEPTIEMBRE DE 2020)</small>
+
+### CAPÍTULO II. DE LAS ÓRDENES DE PROTECCIÓN Y MEDIDAS CAUTELARES
 
 ###### Artículo 42.
 
@@ -1368,5 +1394,21 @@ G.O. 15 DE NOVIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 871 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO PENAL, AMBOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 738 QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan el (sic) presente Decreto.
+
+G.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 737 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA Y DEL CÓDIGO PENAL, AMBOS ORDENAMIENTOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
