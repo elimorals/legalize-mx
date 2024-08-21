@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2024-08-15"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -115,7 +115,9 @@ VI. Aguas Residuales: Las aguas de composición variada provenientes de las desc
 
 VII. Aguas residuales tratadas: Las aguas residuales después de haber recibido el tratamiento de saneamiento.
 
-VIII. Alcantarillado Sanitario: El servicio público que permite desalojar las aguas residuales de los predios.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+VIII. Alcantarillado: El sistema de ductos, accesorios y cuerpos receptores para recolectar y conducir las aguas residuales, pluviales y cualesquiera otras sustancias provenientes del drenaje de los predios urbanos, industriales, comerciales o de servicios;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -147,7 +149,9 @@ XVI. Derecho de Vía: El área destinada a los conductos hidráulicos naturales 
 
 XVII. Derivación: La conexión a una toma domiciliaria para abastecer de agua a otras edificaciones ubicadas en un mismo predio.
 
-XVIII. Descarga Sanitaria: La infraestructura conectada al sistema de desalojo de aguas residuales para depositar las aguas usadas en un predio.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XVIII. Descarga: La acción de verter aguas residuales, pluviales o cualesquiera otras sustancias, de forma continua o intermitente, al drenaje o alcantarillado;
 
 XIX. Desperdicio de Agua: La utilización del agua en cantidades que excedan a las necesarias considerando el uso autorizado permitido, cuyos parámetros quedarán establecidos en la normatividad operativa para el Sector Agua del Estado.
 
@@ -161,9 +165,9 @@ XXI. Distritos de Riego: El establecido mediante Decreto Presidencial, conformad
 
 XXII. Distrito de Temporal Tecnificado: El área geográfica integrada por unidades de temporal, destinada normalmente a las actividades agrícolas que no cuentan con infraestructura de riego, en el cual mediante el uso de diversas técnicas y obras, se aminoran los daños a la producción por causa de ocurrencia de lluvias fuertes y prolongadas o en condiciones de escasez, se aprovecha con mayor eficiencia la lluvia y la humedad en los terrenos adquiridos, y cuya administración compete a la Comisión Nacional del Agua;
 
-> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-XXIII. Drenaje Pluvial: El servicio público que permite desalojar el agua pluvial de los asentamientos humanos;
+XXIII. Drenaje: El servicio público que permite desalojar a través de obras hidráulicas el agua pluvial, las aguas residuales, pluviales o cualesquiera otras sustancias provenientes de los asentamientos humanos en predios urbanos, industriales, comerciales o de servicios;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2011)</small>
 
@@ -275,9 +279,9 @@ L. Saneamiento: La acción de sanear las aguas residuales para que cumplan con c
 
 LI. Secretaría: Secretaría de Recursos Hidráulicos para el Desarrollo Social del Gobierno del Estado de Tamaulipas;
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-LII. Servicio (sic) Públicos: Aquellos que se prestan a la población o asentamientos humanos relacionados con el suministro de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas;
+LII. Servicios Públicos: Aquellos que se prestan a la población o asentamientos humanos en predios urbanos, industriales, comerciales o de servicios relacionados con el suministro de agua potable, drenaje, alcantarillado, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas;
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
 
@@ -295,9 +299,9 @@ LV. Sistema de Captación: La infraestructura hidráulica utilizada para extraer
 
 LVI. Sistema de Conducción: La infraestructura hidráulica utilizada para transportar el agua desde el sistema de captación hasta el sistema de potabilización; o del sistema de potabilización al sistema de almacenamiento; o del sistema de captación al sistema de almacenamiento, que forma parte de la línea de producción de los servicios de agua potable;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-LVII. Sistema de Desalojo: La infraestructura sanitaria utilizada para transportar el agua residual por las calles de los asentamientos humanos, a la cual se conectan las descargas sanitarias, y que entrega el agua residual a los cuerpos receptores o al sistema de recolección y que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
+LVII. Sistema de Desalojo: La infraestructura utilizada para transportar las aguas usadas en un predio, sean sanitarias, residuales, pluviales, crudas, tratadas o cualesquiera otras sustancias, por las calles de los asentamientos humanos, a la cual se conectan las descargas, y que entrega dicha agua, fluido o material a los cuerpos receptores o al sistema de recolección y que forma parte de la línea de producción de los servicios de alcantarillado;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -311,29 +315,29 @@ LIX. Sistema de Distribución: La infraestructura hidráulica utilizada para tra
 
 LX. Sistema de Potabilización: La infraestructura hidráulica utilizada para dar tratamiento al agua cruda para que cumpla con las condiciones de calidad que establecen las Normas Oficiales Mexicanas relativas al uso público urbano, que forma parte de la línea de producción de los servicios de agua potable;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-LXI. Sistema de Recolección: La infraestructura sanitaria utilizada para transportar el agua residual a los cuerpos receptores alejados de los asentamientos humanos o al sistema de tratamiento, que forma parte de la línea de producción de los servicios de alcantarillado sanitario;
+LXI. Sistema de Recolección: La infraestructura utilizada para transportar las aguas usadas en un predio urbanos, industriales, comerciales o de servicios, sean residuales, pluviales, tratadas o cualquiera otras sustancias, a los cuerpos receptores alejados de los asentamientos humanos o al sistema de tratamiento, que forma parte de la línea de producción de los servicios de alcantarillado;
 
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-LXII. Sistema de Reúso de las Aguas Residuales: La infraestructura sanitaria utilizada para transportar las aguas residuales hasta los predios donde serán utilizadas;
+LXII. Sistema de Reúso de las Aguas Residuales: La infraestructura utilizada para transportar las aguas residuales hasta los predios donde serán utilizadas;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
 LXIII. Sistema de Reúso de las Aguas Residuales Tratadas: La infraestructura hidráulica utilizada para transportar las aguas residuales tratadas hasta los predios donde serán utilizadas;
 
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+LXIV. Sistema de Tratamiento: La infraestructura utilizada para llevar a cabo las acciones de saneamiento de las aguas residuales;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+LXV. Sistema Hidráulico del Estado: El conjunto de planos y diseños que en su conjunto integran la infraestructura hidráulica que conforma los sistemas que se utilizan y utilizarán en el uso y aprovechamiento del agua y en la prestación de los servicios públicos inherentes, con un horizonte prospectivo de 25 años;
+
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
-LXIV. Sistema de Tratamiento: La infraestructura sanitaria utilizada para llevar a cabo las acciones de saneamiento de las aguas residuales;
-
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
-
-LXV. Sistema Hidráulico del Estado: El conjunto de planos y diseños que en su conjunto integran la infraestructura hidráulica y sanitaria que conforma los sistemas que se utilizan y utilizarán en el uso y aprovechamiento del agua y en la prestación de los servicios públicos inherentes, con un horizonte prospectivo de 25 años;
-
-> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
-
-LVI. Suspensión: La acción y efecto de interrumpir temporalmente los servicios públicos por las causales previstas en esta Ley;
+LXVI. Suspensión: La acción y efecto de interrumpir temporalmente los servicios públicos por las causales previstas en esta Ley;
 
 > <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
 
@@ -793,7 +797,9 @@ XVIII. Realizar las visitas de inspección y verificación conforme lo estableci
 
 XIX. Resolver los recursos y demás medios de impugnación interpuestos en contra de sus actos o resoluciones;
 
-XX. Otorgar los permisos de descargas de aguas residuales a los sistemas alcantarillado sanitario, en los términos de la Ley de Aguas Nacionales y su Reglamento, de la legislación de equilibrio ecológico y protección al ambiente y las normas oficiales mexicanas, de esta ley y su reglamento;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XX. Otorgar los permisos de descargas de aguas residuales a los sistemas de drenaje y alcantarillado, en los términos de la Ley de Aguas Nacionales y su Reglamento, de la legislación de equilibrio ecológico y protección al ambiente y las normas oficiales mexicanas, de esta ley y su reglamento;
 
 XXI. Aplicar las sanciones por las infracciones que se cometan a esta ley y sus reglamentos;
 
@@ -925,9 +931,9 @@ XVII. Las demás que le asigne la presente Ley, su decreto de creación, la legi
 
 1. El patrimonio de los organismos operadores estará constituido por:
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-I. Los bienes y derechos que formen parte del sistema de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas del municipio, mismos que autorizará el Ayuntamiento para aportarlos como patrimonio inicial del organismo, así como otros que le entreguen con tal objeto las demás autoridades e instituciones;
+I. Los bienes y derechos que formen parte del sistema de agua potable, drenaje alcantarillado, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas del municipio, mismos que autorizará el Ayuntamiento para aportarlos como patrimonio inicial del organismo, así como otros que le entreguen con tal objeto las demás autoridades e instituciones;
 
 II. Las aportaciones federales, estatales y municipales que en su caso se reciban;
 
@@ -943,13 +949,13 @@ VII. Los demás bienes y derechos que formen parte de su patrimonio por cualquie
 
 VIII. Los ingresos que por cualquier forma obtenga, independientemente de los señalados en la fracción III precedente.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
-2. Los bienes de los organismos operadores directamente destinados a la prestación del servicio de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas, serán inembargables e imprescriptibles.
+2. Los bienes de los organismos operadores directamente destinados a la prestación del servicio de agua potable, drenaje, alcantarillado, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas, serán inembargables e imprescriptibles.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
-3. Los bienes inmuebles de los organismos operadores destinados directamente a la prestación de los servicios de agua potable, alcantarillado sanitario, drenaje pluvial, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas, se considerarán bienes del dominio público municipal.
+3. Los bienes inmuebles de los organismos operadores destinados directamente a la prestación de los servicios de agua potable, drenaje, alcantarillado, tratamiento y reúso de las aguas residuales, reúso de las aguas residuales tratadas y disposición de las aguas, se considerarán bienes del dominio público municipal.
 
 ###### Artículo 27.
 
@@ -1273,9 +1279,11 @@ VI. Organizaciones ambientalistas no gubernamentales; y
 
 VII. Asociaciones de usuarios.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 42.
 
-La participación en el Consejo Estatal del Agua será honorífica, pero podrán solicitarse a la Comisión los apoyos económicos necesarios para la celebración de sus sesiones de trabajo.
+La participación en el Consejo Estatal del Agua será honorífica, pero podrán solicitarse a la Secretaría los apoyos económicos necesarios para la celebración de sus sesiones de trabajo.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
@@ -1317,7 +1325,9 @@ IX. Las demás que le otorguen esta ley y otras disposiciones legales o reglamen
 
 El sector privado podrá participar en:
 
-I. La prestación de servicios públicos de agua potable, alcantarillado sanitario, drenaje pluvial; reuso y tratamiento de las aguas residuales y reuso de las aguas residuales tratadas;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+I. La prestación de servicios públicos de agua potable, drenaje, alcantarillado, y tratamiento de las aguas residuales y reúso de las aguas residuales tratadas;
 
 II. La administración, operación, construcción y mantenimiento total o parcial de los sistemas;
 
@@ -1407,7 +1417,9 @@ XV. Los programas de construcción, expansión y modernización de los sistemas,
 
 XVI. Las fórmulas para calcular las cuotas y tarifas a que se refiere el artículo 140 de esta ley;
 
-XVII. El reconocimiento explícito de la Comisión como árbitro en caso de controversia entre las partes, y como autoridad en el ejercicio de las atribuciones que se le confieren en la presente ley y su reglamento, en el título de concesión o cualquier otro ordenamiento, y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XVII. El reconocimiento explícito de la Secretaría como árbitro en caso de controversia entre las partes, y como autoridad en el ejercicio de las atribuciones que se le confieren en la presente ley y su reglamento, en el título de concesión o cualquier otro ordenamiento; y
 
 XVIII. Las causas de revocación a que se refiere el artículo 58 de esta ley.
 
@@ -1615,11 +1627,15 @@ IV. Las riberas o zonas estatales contiguas a los cauces de las corrientes y los
 
 V. Los terrenos de los cauces y los de los vasos de lagos, lagunas o esteros de propiedad estatal, descubiertos por causas naturales o por obras artificiales;
 
-VI. Las obras de infraestructura hidráulica financiada por el Gobierno del Estado, como presas, diques, vasos, canales, drenes, bordos, zanjas, acueductos, distritos o unidades de riego y demás construidas para la explotación, uso, aprovechamiento, control de inundaciones y manejo de las aguas estatales, con los terrenos que ocupen y con las zonas de protección, en la extensión que en cada caso fije la Comisión; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+VI. Las obras de infraestructura hidráulica financiada por el Gobierno del Estado, como presas, diques, vasos, canales, drenes, bordos, zanjas, acueductos, distritos o unidades de riego y demás construidas para la explotación, uso, aprovechamiento, control de inundaciones y manejo de las aguas estatales, con los terrenos que ocupen y con las zonas de protección, en la extensión que en cada caso fije la Secretaría; y
 
 VII. Los materiales pétreos localizados dentro de los cauces de las aguas estatales y en sus bienes públicos inherentes.
 
-2. La administración de los bienes anteriores estará a cargo de la Comisión.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+2. La administración de los bienes anteriores estará a cargo de la Secretaría.
 
 ###### Artículo 69.
 
@@ -1883,7 +1899,9 @@ XIII. El desarrollo y aplicación de modelos de diversa índole, incluidos los d
 
 ###### Artículo 88.
 
-1. El Ejecutivo del Estado, por medio de la Comisión diseñará, elaborará, instrumentará y mantendrá actualizado el Sistema Estatal de Información del Sector Agua para el Estado.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+1. El Ejecutivo del Estado, por medio de la Secretaría diseñará, elaborará, instrumentará y mantendrá actualizado el Sistema Estatal de Información del Sector Agua para el Estado.
 
 2. EL Sistema Estatal de Información del Sector Agua para el Estado será un sistema tecnológico donde se puedan analizar los resultados del diagnóstico del Sector; las estrategias, líneas de acción y objetivos estratégicos del Programa Estratégico de Desarrollo del Sector Agua del Estado; el comportamiento y proyección de la oferta de agua disponible y de la demanda de la misma; el comportamiento de los indicadores de gestión respecto a las metas establecidas; y los avances físicos y económicos de cada uno de los proyectos en ejecución.
 
@@ -1913,7 +1931,9 @@ d. Reúso de las aguas residuales tratadas;
 
 e. Manejo y control de ríos, corrientes, afluentes, arroyos, y demás cuerpos y corrientes de agua;
 
-f. Drenaje pluvial; y
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+f. Drenaje; y
 
 g. Sistemas de riego agrícola.
 
@@ -1939,7 +1959,9 @@ XIV. Las metas alcanzadas en cada uno de los procesos, respecto a sus estándare
 
 XV. El comportamiento de la calidad del agua cruda, potable, residual y tratada; y
 
-XVI. Todas aquellas variables que permitan a la Comisión mejorar la toma de decisiones.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XVI. Todas aquellas variables que permitan a la Secretaría mejorar la toma de decisiones.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
@@ -2187,7 +2209,9 @@ III. Aprobar los proyectos relativos a las instalaciones hidráulicas y sanitari
 
 ###### Artículo 115.
 
-1. Los solicitantes a los cuales se les haya extendido un certificado de factibilidad de servicios para urbanizar un nuevo asentamiento humano, están obligados a realizar un contrato de servicios públicos de agua potable y alcantarillado sanitario para cada predio y pagar la cuota establecida por el organismo operador.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+1. Los solicitantes a los cuales se les haya extendido un certificado de factibilidad de servicios para urbanizar un nuevo asentamiento humano, están obligados a realizar un contrato de servicios públicos de agua potable, drenaje y alcantarillado para cada predio y pagar la cuota establecida por el organismo operador.
 
 2. Cuando en la urbanización del nuevo asentamiento humano esté considerada la construcción de viviendas, a cada predio se le deberá instalar un aparato medidor de volúmenes de agua con las especificaciones que se establecen en el artículo 132 de esta ley y pagar los precios y tarifas que se establezcan en la misma y en la normatividad operativa para el Sector Agua del Estado.
 
@@ -2199,27 +2223,45 @@ III. Aprobar los proyectos relativos a las instalaciones hidráulicas y sanitari
 
 2. El organismo operador no podrá autorizar el cambio de propietario mencionado en el párrafo anterior, cuando existan adeudos pendientes de pagar en el estado de cuenta correspondiente.
 
-### CAPITULO III. DE LA CONTRATACION DE LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO SANITARIO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2024)</small>
+
+### CAPITULO III. DE LA CONTRATACION DE LOS SERVICIOS PUBLICOS DE AGUA POTABLE, DRENAJE Y ALCANTARILLADO
 
 ###### Artículo 117.
 
-1. Están obligados a contratar los servicios públicos de agua potable y alcantarillado sanitario los propietarios o poseedores de predios por cuyo frente exista la infraestructura hidráulica y sanitaria necesaria para su prestación, en las siguientes hipótesis:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE AGOSTO DE 2024)</small>
+
+1. Están obligados a contratar los servicios públicos de agua potable, drenaje y alcantarillado los propietarios o poseedores de predios por cuyo frente exista la infraestructura necesaria para su prestación, en las siguientes hipótesis:
 
 I. Los propietarios de los predios edificados;
 
 II. Los propietarios de los predios no edificados;
 
-III. Los poseedores de los predios, cuando la posesión se derive de contratos de compra-venta con reserva de dominio; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-IV. Los poseedores de predios propiedad de la Federación, del Estado o de los municipios si los han recibido por cualquier título.
+III. Los poseedores de los predios, cuando la posesión se derive de contratos de compra-venta con reserva de dominio;
 
-2. Cuando se ejecuten obras de infraestructura para introducir los servicios públicos a un centro de población, el prestador de los servicios deberá informar a los propietarios de los predios la fecha en que se estará en posibilidades de prestar los servicios públicos de agua potable y alcantarillado sanitario.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-3. Los propietarios de los predios por cuyo frente exista la infraestructura hidráulica y sanitaria necesaria para la prestación de los servicios públicos tendrán 30 días para solicitar el contrato respectivo.
+IV. Los poseedores de predios propiedad de la Federación, del Estado o de los municipios si los han recibido por cualquier título; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+V. Los ocupantes de los predios edificados con uso doméstico exclusivamente.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+2. Cuando se ejecuten obras de infraestructura para introducir los servicios públicos a un centro de población, el prestador de los servicios deberá informar a los propietarios, poseedores u ocupantes de los predios, la fecha en que se estará en posibilidades de prestar los servicios públicos de agua potable, drenaje y alcantarillado.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+3. Los propietarios, poseedores u ocupantes de los predios por cuyo frente exista la infraestructura necesaria para la prestación de los servicios públicos tendrán 30 días para solicitar el contrato respectivo.
 
 ###### Artículo 118.
 
-Para solicitar la contratación de los servicios públicos, los propietarios de los predios deberán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE AGOSTO DE 2024)</small>
+
+1. Para solicitar la contratación de los servicios públicos, los propietarios o poseedores de los predios deberán:
 
 I. Manifestar por escrito el uso del servicio solicitado, el cual no podrá ser violatorio de la vocación del suelo que le haya sido asignado al predio;
 
@@ -2227,23 +2269,61 @@ II. Presentar los planos hidráulicos y sanitarios de las instalaciones intradom
 
 III. Presentar la documentación legal que los acredite como propietarios del predio.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 21 DE AGOSTO DE 2024)</small>
+
+2. Para solicitar la contratación de los servicios públicos, los ocupantes de los predios edificados deberán cumplir las siguientes disposiciones:
+
+I. Presentar escrito en el que manifiesten bajo protesta de decir verdad que es el ocupante del predio edificado y que el servicio solicitado será exclusivamente para el uso doméstico;
+
+II. De contar con ellos, exhibir documentos que acrediten indicios que acrediten ser el ocupante del predio edificado en el que solicita el servicio;
+
+III. Presentar los planos hidráulicos y sanitarios de las instalaciones intradomiciliarias;
+
+IV. Permitir al prestador de los servicios públicos, efectuar las inspecciones o verificaciones correspondientes al predio edificado, a efecto de corroborar que el servicio se requiere exclusivamente para el uso doméstico;
+
+V. Los contratos que se formalicen por el prestador del servicio no generarán derechos de propiedad o posesión en favor del ocupante, lo cual deberá señalarse en el contrato y en el recibo de cobro respectivo;
+
+VI. Los contratos temporales tendrán una vigencia de doce meses contados a partir de su formalización, por lo que una vez concluido ese periodo deberá renovarse por el ocupante cumpliendo los requisitos de las fracciones I, II y IV del párrafo 2 del presente artículo; y
+
+VII. Los ocupantes beneficiados del servicio, deberán cubrir los precios y tarifas establecidas en la presente ley.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 119.
 
-El prestador de los servicios públicos no podrá autorizar una contratación de servicios públicos cuando no se haya pagado la cuota por uso de infraestructura del predio donde se encuentra ubicado el lote del usuario solicitante, en concordancia con lo establecido en el párrafo 2 del artículo 115 de esta Ley.
+El prestador de los servicios públicos no podrá autorizar una contratación de servicios públicos cuando no se haya pagado la cuota por uso de infraestructura del predio donde se encuentra ubicado el lote del usuario solicitante, en concordancia con lo establecido en los párrafos 2 y 3 del artículo 115 de esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 120.
 
-1. El prestador de los servicios públicos está obligado, en un plazo no mayor de 30 días, a partir de la fecha de recepción de la solicitud de contratación, a informar por escrito la negación del servicio o, si la resolución fuese afirmativa, el presupuesto relacionado con la instalación de la toma domiciliaria y la descarga sanitaria para que sea pagado por el usuario, en el entendido que dicha infraestructura pasará a formar parte del patrimonio del organismo operador. El presupuesto deberá considerar, cuando fuese necesario, la rotura y reposición del pavimento.
+1. El prestador de los servicios públicos está obligado, en un plazo no mayor de 30 días, a partir de la fecha de recepción de la solicitud de contratación, a informar por escrito la negación del servicio o, si la resolución fuese afirmativa, el presupuesto relacionado con la instalación de la toma domiciliaria y/o la descarga para que sea pagado por el usuario, en el entendido que dicha infraestructura pasará a formar parte del patrimonio del organismo operador. El presupuesto deberá considerar, cuando fuese necesario, la rotura y reposición del pavimento.
 
-2. Después de que el propietario del predio haya pagado el importe relacionado con la instalación de la toma domiciliaria y la descarga sanitaria, el prestador de los servicios públicos se obligará a instalar la toma domiciliaria y la descarga sanitaria en un plazo no mayor a 30 días hábiles, a partir de la fecha del pago. A partir de la fecha en que queden instaladas la toma domiciliaria y la descarga sanitaria, el propietario del predio se obliga a pagar el importe de los servicios públicos en los períodos establecidos en el contrato respectivo.
+2. Después de que el propietario o poseedor del predio haya pagado el importe relacionado con la instalación de la toma domiciliaria y la descarga sanitaria, el prestador de los servicios públicos se obligará a instalar la toma domiciliaria y/o la descarga sanitaria en un plazo no mayor a 30 días hábiles, a partir de la fecha del pago. A partir de la fecha en que queden instaladas la toma domiciliaria y la descarga sanitaria, el propietario o poseedor del predio se obliga a pagar el importe de los servicios públicos en los períodos establecidos en el contrato respectivo.
 
 ###### Artículo 121.
 
 1. El prestador de los servicios públicos está obligado a entregar el servicio de agua potable a la entrada de los predios, en las condiciones que se establecen en el artículo 101 de esta ley. La prestación de los servicios en los niveles superiores de un edificio dependerá de la oferta disponible y la capacidad instalada de la línea de producción de los servicios, aspectos que deberán quedar establecidos en el contrato correspondiente.
 
-2. A cada predio le corresponde una toma domiciliaria y una descarga sanitaria del diámetro que establezca el prestador de los servicios, por lo tanto quedan prohibidas las conexiones internas entre predios para suministrar agua potable o desalojar aguas residuales.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
-3. Cuando en un predio exista más de una casa habitación o cuando en una sola edificación se requieran dos o más usos diferentes del agua, los propietarios de los predios están obligados a contratar una toma domiciliaria y una descarga sanitaria para cada casa habitación o para cada tipo de uso. El prestador de los servicios públicos podrá, cuando lo considere técnicamente viable, instalar una toma o descarga de mayor diámetro, para conectar las derivaciones para cada casa habitación o uso diferente, en el entendido de cada una realizará un contrato individual y a cada derivación se le instalará un aparato medidor de volúmenes de agua.
+2. A cada predio le corresponde una toma domiciliaria y/o una descarga del diámetro que establezca el prestador de los servicios, por lo tanto quedan prohibidas las conexiones internas entre predios para suministrar agua potable o desalojar aguas residuales.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+3. Cuando en un predio exista más de una casa habitación o cuando en una sola edificación se requieran dos o más usos diferentes del agua potable los propietarios de los predios están obligados a contratar una toma domiciliaria y una descarga para cada casa habitación o para cada tipo de uso. El prestador de los servicios públicos podrá, cuando lo considere técnicamente viable, instalar una toma o descarga de mayor diámetro, para conectar las derivaciones para cada casa habitación o uso diferente, en el entendido de cada una realizará un contrato individual y a cada derivación se le instalará un aparato medidor de volúmenes de agua.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+4. El prestador de los servicios públicos instalará medidores de flujo volumétrico en las tomas de agua potable para todos los usos previstos por esta ley.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+5. El prestador de los servicios públicos instalará medidores de flujo volumétrico para los usuarios que utilizan la infraestructura del sistema de drenaje y alcantarillado y cuyas descargas provengan de usos industriales, comerciales o de servicios.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+6. El prestador de los servicios públicos, suspenderá, limitará o interrumpirá las descargas que provengan de usos industriales, comerciales o de servicios, cuando estas provoquen una gravedad ambiental o pongan en riesgo el funcionamiento de la infraestructura del sistema de drenaje y alcantarillado.
 
 ###### Artículo 122.
 
@@ -2251,13 +2331,17 @@ El prestador de los servicios públicos podrá suspender los servicios públicos
 
 ###### Artículo 123.
 
-1. El prestador de los servicios públicos estará obligado a instalar la infraestructura donde se colocará el medidor. Esto se hará en la entrada del predio, en un lugar con libre acceso para el personal del prestador de los servicios públicos.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+1. El prestador de los servicios públicos estará obligado a instalar la infraestructura donde se colocarán los medidores volumétricos previstos en esta Ley. Esto se hará en un lugar con libre acceso para el personal del prestador de los servicios públicos, preferentemente en la entrada del predio.
 
 2. El usuario está obligado a aceptar la determinación señalada en el párrafo anterior.
 
 ###### Artículo 124.
 
-1. Solamente personal autorizado por el prestador de los servicios públicos, podrá instalar, modificar o reparar las tomas domiciliarias y las descargas sanitarias instaladas al frente de cada predio, en el entendido que dicha infraestructura es propiedad del prestador de los servicios públicos.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+1. Solamente personal autorizado por el prestador de los servicios públicos, podrá instalar, modificar o reparar las tomas domiciliarías las descargas y los medidores volumétricos en cada predio, en el entendido que dicha infraestructura es propiedad del prestador de los servicios públicos.
 
 2. La violación a lo dispuesto en el párrafo anterior será sancionada conforme a lo que establecen las disposiciones legales aplicables.
 
@@ -2273,7 +2357,9 @@ No se podrán instalar sistemas hidroneumáticos directamente a la toma domicili
 
 ###### Artículo 127.
 
-1. Cuando tengan que efectuarse obras de construcción o de reconstrucción de un edificio, o cuando por cualquier causa se haga necesario cambiar de lugar o modificar la toma domiciliaria o la descarga sanitaria, los interesados deberán solicitar al prestador de los servicios públicos la reubicación o modificación correspondiente, expresándose las causas que lo motivan, y fijándose con toda precisión el lugar en donde deberán quedar instaladas.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+1. Cuando tengan que efectuarse obras de construcción o de reconstrucción de un edificio, o cuando por cualquier causa se haga necesario cambiar de lugar o modificar la toma domiciliaría o la descarga, los interesados deberán solicitar al prestador de los servicios públicos la reubicación o modificación correspondiente, expresándose las causas que lo motivan, y fijándose con toda precisión el lugar en donde deberán quedar instaladas.
 
 2. Cuando la modificación solicitada no altere las disposiciones de esta ley, el prestador de los servicios públicos elaborará el presupuesto y realizará los trabajos correspondientes previo pago del costo presupuestado por parte del usuario.
 
@@ -2299,7 +2385,9 @@ Los predios ubicados en el área de factibilidad de los servicios públicos, por
 
 1. Cuando se trate de instalaciones de espectáculos o diversiones públicas temporales, las autoridades facultadas para autorizar su funcionamiento comunicarán al prestador de los servicios públicos la expedición de una licencia de uso temporal de dichos servicios, para que el prestador elabore el presupuesto, cobre el importe correspondiente y pueda proceder a ejecutar las obras de infraestructura necesarias para la prestación de los servicios públicos solicitados.
 
-2. Cuando no sea viable el suministro de los servicios de alcantarillado sanitario, el solicitante se obligará a instalar letrinas en los lugares que determine el prestador de los servicios públicos, en la cantidad y calidad que este último determine.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+2. Cuando no sea viable el suministro de los servicios de drenaje y alcantarillado, el solicitante se obligará a instalar letrinas en los lugares que determine el prestador de los servicios públicos, en la cantidad y calidad que este último determine.
 
 3. Como garantía de pago de los servicios públicos, el prestador exigirá el pago por adelantado del consumo estimado, el cual será devuelto al solicitante al terminar la vigencia de la licencia de uso temporal y el pago de los servicios correspondientes.
 
@@ -2343,9 +2431,17 @@ Con objeto de mantener el control de su calidad, los prestadores de los servicio
 
 ###### Artículo 139.
 
-1. Los prestadores de los servicios públicos están obligados (sic) medir la cantidad de agua residual que por medio de las descargas sanitarias viertan los usuarios al sistema de alcantarillado sanitario.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
-2. Para dar cumplimiento a lo establecido en el párrafo anterior, los usuarios deberán instalar en la banqueta, con libre acceso para el personal del prestador de los servicios públicos, un registro sanitario con las especificaciones técnicas que establezca el prestador de los servicios públicos.
+1. Los prestadores de los servicios públicos están obligados (sic) medir la cantidad de agua residual que por medio de las descargas sanitarias viertan los usuarios al sistema de drenaje alcantarillado.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+2. Para dar cumplimiento a lo establecido en el párrafo anterior, los usuarios deberán instalar en la banqueta, con libre acceso para el personal del prestador de los servicios públicos, un registro con las especificaciones técnicas que establezca el prestador de los servicios públicos.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+3. Para efectuar la medición prevista en el párrafo 1 del presente artículo, el prestador de los servicios públicos instalará los medidores de flujo volumétrico para los usuarios que utilizan la infraestructura del sistema de drenaje y alcantarillado y cuyas descargas provengan de usos industriales, comerciales o de servicios.
 
 ### CAPITULO V. DE LOS PRECIOS Y TARIFAS
 
@@ -2373,6 +2469,10 @@ f. Por el reuso de las aguas residuales; y
 
 g. Por el reuso de las aguas residuales tratadas.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+3. Para efectuar la medición prevista en el párrafo 1 del presente artículo, el prestador de los servicios públicos instalará con cargo al usuario, los medidores de flujo volumétrico para los usuarios que utilizan la infraestructura del sistema de drenaje y alcantarillado y cuyas descargas provengan de usos industriales, comerciales o de servicios.
+
 II. La contratación de los servicios propios:
 
 a. Por los costos de instalación de tomas domiciliarias;
@@ -2387,7 +2487,9 @@ a. Por la expedición de constancias de factibilidad de los servicios;
 
 b. Por uso de infraestructura hidráulica; y
 
-c. Por uso de infraestructura sanitaria; y
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+c. Por uso de infraestructura de drenaje y alcantarillado; y
 
 IV. Otros servicios:
 
@@ -2403,7 +2505,9 @@ e. Por la realización de trabajos especializados;
 
 f. Por la elaboración de proyectos; y
 
-g. Por el mantenimiento correctivo a la infraestructura hidráulica o sanitaria cuando el daño haya sido imputable al usuario;
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+g. Por el mantenimiento correctivo a la infraestructura hidráulica o de drenaje y alcantarillado cuando el daño haya sido imputable al usuario.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2413,9 +2517,9 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 ###### Artículo 141.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
-1. Los precios y tarifas deberán ser suficientes para cubrir los costos de operación, administración y conservación de infraestructura; pago de pasivos; pago de servicios ambientales, y constitución de un fondo de reservas para sustituir, ampliar, rehabilitar y mejorar la infraestructura hidráulica sanitaria y demás activos del prestador de los servicios públicos; así como la conservación y vigilancia de la cuenca y todos los elementos del ciclo hidrológico.
+1. Los precios y tarifas deberán ser suficientes para cubrir los costos de operación, administración y conservación de infraestructura; pago de pasivos; pago de servicios ambientales, y constitución de un fondo de reservas para sustituir, ampliar, rehabilitar y mejorar la infraestructura para potabilizar el agua y su suministro, drenaje y alcantarillado; instalación y uso de medidores volumétricos, pago de pasivos; pago de servicios ambientales, y construcción de un fondo de reservas para sustituir, ampliar, rehabilitar y mejorar la infraestructura hidráulica y demás activos del prestador de los servicios públicos; así como la conservación y vigilancia de la cuenca y todos los elementos del ciclo hidrológico.
 
 2. Todos los usuarios, tanto del sector público, social y privado, están obligados al pago de los servicios públicos conforme a los precios y tarifas que se establezcan y actualicen en los términos de esta ley por el prestador de dichos servicios.
 
@@ -2433,7 +2537,9 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 ###### Artículo 142.
 
-1. Las tarifas para calcular el cobro por el servicio de agua deberán considerar en su estructura niveles de consumo para cada uso autorizado, estableciéndose precios más altos para los niveles de mayor consumo a fin de promover el uso eficiente del agua.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+1. Las tarifas para calcular el cobro por el servicio de agua y/o descargas deberán considerar en su estructura niveles de consumo y/o descarga para cada uso autorizado, estableciéndose precios más altos para los niveles de mayor consumo y/o descarga a fin de promover el uso eficiente del agua.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2018)</small>
 
@@ -2445,25 +2551,33 @@ h. Por los servicios ambientales proporcionados por los elementos del ciclo hidr
 
 ###### Artículo 143.
 
-1. Al precio que se establezca para cada metro cúbico de agua servida se le sumarán tres porcentajes: uno para el cobro del servicio de alcantarillado sanitario, otro para el cobro del servicio de tratamiento de las aguas residuales y otro para el cobro de servicios ambientales.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+1. Al precio que se establezca para cada metro cúbico de agua potable servida se le sumarán tres porcentajes: uno para el cobro del servicio de drenaje y alcantarillado, otro para el cobro del servicio de tratamiento de las aguas residuales y otro para el cobro de servicios ambientales.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 21 DE AGOSTO DE 2024)</small>
 
 2. Para llevar a cabo el incremento de tarifas, una vez aprobado el dictamen por el Consejo de Administración del Organismo Operador, deberá remitirlo para su validación, aprobación y publicación en el Periódico Oficial del Estado, a la Secretaría.
 
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+3. Para el caso de los usuarios industriales, comerciantes o de servicios que no se les suministre agua potable por el prestador de los servicios pero que realicen descargas al sistema de drenaje y alcantarillado, pagarán las tarifas correspondientes en términos del siguiente artículo.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 144.
 
-Para cobrar el servicio de agua residual se establecerán precios por cada metro cúbico de agua servido.
+Para cobrar el servicio de descargas a los usuarios industriales, comerciales o de servicios que no se les suministre agua potable pero que realicen descargas al sistema de drenaje y alcantarillado, el prestador de los servicios establecerá precios por cada metro cúbico descargado conforme a los registros del medidor volumétrico que se instale.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Todos los usuarios que se encuentren en el supuesto del párrafo anterior, estarán obligados a contratar el servicio público de drenaje y alcantarillado de conformidad con lo previsto en el párrafo 3 del artículo 117 de la presente Ley.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 145.
 
-1. Cuando el cuerpo receptor o el sistema de tratamiento así lo requiera, el concesionario o la autoridad a cargo del sistema de alcantarillado al que se estén vertiendo las aguas residuales, podrá establecer condiciones particulares de descarga que regule la calidad y la cantidad máxima de flujos de descarga distintos a lo establecido en las Normas Oficiales Mexicanas en materia ambiental.
+1. Cuando el cuerpo receptor o el sistema de tratamiento así lo requiera, el concesionario o la autoridad a cargo del sistema de drenaje y alcantarillado al que se estén vertiendo las aguas residuales, podrá establecer condiciones particulares de descarga que regule la calidad y la cantidad máxima de flujos de descarga distintos a lo establecido en las Normas Oficiales Mexicanas en materia ambiental.
 
-2. Las aguas residuales que se viertan al sistema de alcantarillado sanitario que no cumplan con la calidad y la cantidad máxima de flujos de descarga permitida, conforme a las Normas Oficiales Mexicanas en materia ambiental, la legislación vigente sobre equilibrio ecológico y protección al ambiente y sobre desarrollo sustentable, la normatividad operativa del Sector Agua para el Estado o las condiciones particulares de descarga impuestas por el concesionario o la autoridad a cargo del sistema en cuestión, incluirán el pago de tarifas y precios acordes a la naturaleza de las descargas.
+2. Las aguas residuales que se viertan al sistema de drenaje y alcantarillado sanitario que no cumplan con la calidad y la cantidad máxima de flujos de descarga permitida, conforme a las Normas Oficiales Mexicanas en materia ambiental, la legislación vigente sobre equilibrio ecológico y protección al ambiente y sobre desarrollo sustentable, la normatividad operativa del Sector Agua para el Estado o las condiciones particulares de descarga impuestas por el concesionario o la autoridad a cargo del sistema en cuestión, incluirán el pago de tarifas y precios acordes a la naturaleza de las descargas.
 
 ###### Artículo 146.
 
@@ -2519,15 +2633,21 @@ III Uso doméstico.
 
 3. Cuando el prestador de los servicios públicos sea un particular a quien se le haya otorgado concesión, realizará la suspensión de los servicios a que este artículo se refiere, cuando así lo haya convenido con los usuarios en el contrato que para tal efecto se celebre.
 
-4. En todo caso, sin necesidad de acuerdo con el usuario, el Municipio, los organismos operadores municipales, intermunicipales o regionales o la Comisión, tendrán la facultad de suspender el servicio en los supuestos mencionados en los dos primeros párrafos de este artículo.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+4. En todo caso, sin necesidad de acuerdo con el usuario, el Municipio, los organismos operadores municipales, intermunicipales o regionales o la Secretaría, tendrán la facultad de suspender el servicio en los supuestos mencionados en los dos primeros párrafos de este artículo.
 
 ## TITULO SEPTIMO. DEL SANEAMIENTO DE LAS AGUAS RESIDUALES
 
-### CAPITULO I. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DE LAS AGUAS VERTIDAS AL SISTEMA DE ALCANTARILLADO SANITARIO Y DRENAJE PLUVIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2024)</small>
+
+### CAPITULO I. DE LA PREVENCION Y CONTROL DE LA CONTAMINACION DE LAS AGUAS VERTIDAS AL SISTEMA DE DRENAJE Y ALCANTARILLADO
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 152.
 
-Al prestador de los servicios públicos le corresponde el control de las descargas de agua residual al sistema de alcantarillado sanitario y verificar que cumplan con las normas mínimas establecidas por las leyes y reglamentos aplicables, así como las normas oficiales mexicanas, al tiempo de que no rebasen las capacidades tecnológicas del sistema de tratamiento de aguas residuales.
+Al prestador de los servicios públicos le corresponde el control de las descargas al sistema de drenaje y alcantarillado y verificar que cumplan con las normas mínimas establecidas por las leyes y reglamentos aplicables, así como las normas oficiales mexicanas, al tiempo de que no rebasen las capacidades tecnológicas del sistema de tratamiento de aguas residuales.
 
 ###### Artículo 153.
 
@@ -2537,27 +2657,43 @@ En el Estado es obligatorio que los prestadores de servicios públicos acrediten
 
 En el Estado queda prohibido en los términos de esta ley, sus reglamentos, las normas oficiales mexicanas y demás disposiciones aplicables:
 
-I. Depositar, descargar o infiltrar al subsuelo residuos contaminantes sin canalizarse a través del sistema de alcantarillado sanitario;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+I. Depositar, descargar o infiltrar al subsuelo residuos contaminantes sin canalizarse a través del sistema de alcantarillado;
 
 II. Diluir las emisiones de las fuentes fijas o móviles para disminuir su verdadera concentración de contaminantes;
 
-III. Derramar inútilmente agua potable o verter agua residual al arroyo de la calle, coladeras pluviales, registros de descargas sanitarias o pozos de visita del sistema de alcantarillado sanitario;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-IV. Verter sin autorización del prestador de los servicios públicos, agua residual en cuerpos receptores del Estado por medios distintos al sistema de alcantarillado sanitario;
+III. Derramar inútilmente agua potable o verter agua residual al arroyo de la calle, coladeras pluviales, registros de descargas o pozos de visita del sistema de alcantarillado;
 
-V. Descargar o arrojar al sistema de alcantarillado sanitario o drenaje pluvial y a los cuerpos receptores del Estado, materiales o residuos que obstruyan el flujo del agua;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-VI. Realizar, sin autorización previa del prestador de los servicios públicos, conexiones interiores entre predios para descargar aguas residuales por medio de descargas sanitarias que no correspondan al predio que las produce; y
+IV. Verter sin autorización del prestador de los servicios públicos, agua residual en cuerpos receptores del Estado por medios distintos al sistema de alcantarillado;
 
-VII. Verter agua pluvial al sistema de alcantarillado sanitario.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+V. Descargar o arrojar al sistema de drenaje o alcantarillado y a los cuerpos receptores del Estado, materiales o residuos que obstruyan el flujo del agua;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+VI. Realizar, sin autorización previa del prestador de los servicios públicos, conexiones interiores entre predios para descargar aguas residuales por medio de descargas que no correspondan al predio que las produce; y
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+VII. Verter agua pluvial al sistema de alcantarillado sin contar con autorización correspondiente.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 155.
 
-Para controlar la calidad de las aguas residuales, quedan sujetos a regulación por parte del prestador de los servicios públicos todas las descargas sanitarias que estén conectadas al sistema de alcantarillado sanitario.
+Para controlar la calidad de descargas, quedan sujetos a regulación por parte del prestador de los servicios públicos todas las que estén conectadas al sistema de drenaje y alcantarillado sanitario.
 
 ###### Artículo 156.
 
-1. El prestador de los servicios públicos está obligado a integrar y mantener actualizada la información de las descargas sanitarias de usuarios industriales, comerciales y de servicios, que de acuerdo a su giro representen una fuente de contaminación importante.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+1. El prestador de los servicios públicos está obligado a integrar y mantener actualizada la información de las descargas de usuarios industriales, comerciales y de servicios, que de acuerdo a su giro representen una fuente de contaminación importante.
 
 2. La información aludida en el párrafo anterior deberá formar parte del padrón de usuarios y contener, por lo menos, los siguientes datos:
 
@@ -2569,11 +2705,13 @@ III. Tipo de contaminantes que desecha; y
 
 IV. Flujo esperado de aguas residuales que se viertan al sistema de alcantarillado sanitario.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 157.
 
-1. El prestador de los servicios públicos mantendrá el derecho de uso de todas las aguas residuales vertidas al sistema de alcantarillado sanitario.
+1. El prestador de los servicios públicos mantendrá el derecho de uso de todas las aguas residuales vertidas al sistema de drenaje y alcantarillado.
 
-2. En el Estado es obligación de los prestadores de los servicios públicos sanear la totalidad de las aguas residuales que fluyan por el sistema de alcantarillado sanitario para que cumplan con los reglamentos aplicables en materia de contaminación y preservación de la calidad del agua, así como en las normas oficiales mexicanas, con excepción de las que se suministren a los usuarios mencionados en el artículo siguiente.
+2. En el Estado es obligación de los prestadores de los servicios públicos sanear la totalidad de las aguas residuales que fluyan por el sistema de alcantarillado para que cumplan con los reglamentos aplicables en materia de contaminación y preservación de la calidad del agua, así como en las normas oficiales mexicanas, con excepción de las que se suministren a los usuarios mencionados en el artículo siguiente.
 
 ###### Artículo 158.
 
@@ -2587,11 +2725,13 @@ IV. Flujo esperado de aguas residuales que se viertan al sistema de alcantarilla
 
 Los usuarios mencionados en el artículo anterior no podrán enajenar o comercializar en forma alguna el agua residual que reciba del prestador de los servicios públicos, aunque esta haya sido saneada y convertida en agua residual tratada, salvo por el otorgamiento de la concesión correspondiente en los términos de esta ley y sus reglamentos.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 160.
 
-1. El prestador de los servicios públicos tendrá el derecho de uso de todas las aguas pluviales que fluyan por el sistema de drenaje pluvial.
+1. El prestador de los servicios públicos tendrá el derecho de uso de todas las aguas pluviales que fluyan por el sistema de drenaje y alcantarillado.
 
-2. En el Estado se promoverá el uso de las aguas pluviales que fluyan por el drenaje pluvial.
+2. En el Estado se promoverá el uso de las aguas pluviales mediante sistemas de captación y almacenamiento que eviten su contaminación y permitan su utilización.
 
 ### CAPITULO II. DEL TRATAMIENTO DE LAS AGUAS RESIDUALES Y EL REUSO DE LAS AGUAS RESIDUALES TRATADAS
 
@@ -2931,7 +3071,9 @@ I. Las personas que instalen en forma clandestina conexiones en cualquiera de la
 
 II. Las personas que en cualquier caso proporcionen servicios de agua potable en forma distinta a la que señala esta ley;
 
-III. Los propietarios o poseedores de predios que impidan el examen de los aparatos medidores o la práctica de las visitas de inspección;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+III. Los propietarios o poseedores u ocupantes de predios que impidan el examen de los aparatos medidores o la práctica de las visitas de inspección;
 
 IV. Las personas que en cualquier caso y sin autorización, por sí o por interpósita persona ejecuten derivaciones de agua potable y conexiones al alcantarillado, tratamiento y disposición de sus aguas residuales;
 
@@ -2945,7 +3087,9 @@ VIII. Las personas que deterioren cualquier instalación destinada a la prestaci
 
 IX. Las personas que utilicen el servicio de los hidrantes públicos para destinarlo a usos distintos a los de su objeto;
 
-X. Los propietarios o poseedores de predios dentro de los cuales se localice alguna fuga que no haya sido atendida oportunamente;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+X. Los propietarios, poseedores u ocupantes de predios dentro de los cuales se localice alguna fuga que no haya sido atendida oportunamente;
 
 XI. Las personas que no cumplan con los requisitos o las condiciones de uso eficiente del agua potable;
 
@@ -2957,17 +3101,35 @@ XIV. Las personas que impidan la instalación de los servicios de agua potable, 
 
 XV. Las personas que empleen mecanismos para succionar agua potable de las tuberías de distribución;
 
-XVI. Las personas que descarguen aguas residuales en el sistema de alcantarillado, tratamiento y disposición de sus aguas residuales, sin contar con el permiso correspondiente;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-XVII. Los usuarios que reciban el servicio público de agua potable o quien descargue aguas residuales en el sistema de alcantarillado, tratamiento y disposición de sus aguas residuales, sin haber cubierto las cuotas o tarifas respectivas;
+XVI. Las personas que efectúen descargas en el sistema de drenaje y alcantarillado, sin contar con el permiso correspondiente;
 
-XVIII. Las personas que en cualquier forma transgredan o incumplan lo dispuesto en esta ley; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-XIX. Los que construyan u operen sistemas para la prestación de los servicios públicos sin la concesión correspondiente.
+XVII. Los usuarios que reciban el servicio público de agua potable o quien descargue aguas residuales en el sistema de drenaje y alcantarillado, tratamiento y disposición de sus aguas residuales, sin haber cubierto las cuotas o tarifas respectivas;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XVIII. Las personas que en cualquier forma transgredan o incumplan lo dispuesto en esta ley;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XIX. Los que construyan u operen sistemas para la prestación de los servicios públicos sin la concesión correspondiente;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XX. Los usuarios industriales, comerciales o de servicios que descarguen aguas residuales en el sistema de drenaje y alcantarillado, sin tratamiento o disposición de sus aguas residuales o sin contar con el permiso correspondiente; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XXI. Los usuarios industriales, comerciales o de servicios que descarguen aguas residuales en el sistema de alcantarillado y drenaje, contaminadas con líquidos, gases, plásticos u objetos que no sean biodegradables según lo dispuesto en las Normas Oficiales Mexicanas.
 
 ###### Artículo 192.
 
-1. Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente por el Ayuntamiento, por los organismos operadores y, en su caso, por la Comisión:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE AGOSTO DE 2024)</small>
+
+1. Las infracciones a que se refiere el artículo anterior serán sancionadas administrativamente por el Ayuntamiento, por los organismos operadores y, en su caso, por la Secretaría:
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2021)</small>
 
@@ -2981,15 +3143,15 @@ II. Con multa por el equivalente de cinco a veinte veces el valor diario de la U
 
 III. Con multa por el equivalente de cinco a cuarenta veces, el valor diario de la Unidad de Medida y Actualización, en el caso de las fracciones III, V, X, XVI, XVII y XVIII del artículo anterior; y
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-IV. Con multa por el equivalente de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, tratándose de la fracción XIX del artículo anterior.
+IV. Con multa por el equivalente de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización, tratándose de las fracciones XIX, XX y XXI del artículo anterior.
 
 2. Para sancionar las faltas anteriores, se calificarán las infracciones tomando en consideración la gravedad de la falta, los daños causados, las condiciones económicas del infractor y la reincidencia.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
-3. Los infractores señalados en la fracción XIX del artículo anterior, perderán en beneficio del Ayuntamiento, del organismo operador o, en su caso, de la Secretaría, las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles o inmuebles dedicados a la prestación de los servicios públicos, sin perjuicio de la aplicación de la multa señalada en la fracción IV del párrafo 1 de este artículo. El Ayuntamiento, el organismo operador o, en su caso, la Comisión podrá solicitar a la autoridad correspondiente el desalojo de los infractores y, en su caso, que se realice la demolición de las obras e instalaciones por cuenta del infractor.
+3. Los infractores señalados en la fracción XIX del artículo anterior, perderán en beneficio del Ayuntamiento, del organismo operador o, en su caso, de la Secretaría, las obras ejecutadas, las instalaciones establecidas y todos los bienes muebles o inmuebles dedicados a la prestación de los servicios públicos, sin perjuicio de la aplicación de la multa señalada en la fracción IV del párrafo 1 de este artículo. El Ayuntamiento, el organismo operador o, en su caso, la Secretaría podrá solicitar a la autoridad correspondiente el desalojo de los infractores y, en su caso, que se realice la demolición de las obras e instalaciones por cuenta del infractor.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
 
@@ -3489,4 +3651,16 @@ Los organismos operadores estatales y municipales deberán realizar los ajustes 
 
 Los Decretos de creación de los organismos públicos municipales operadores del agua que se reforman mediante el presente Decreto así como sus ordenamientos internos, deberán atender la normatividad establecida en la Ley de Aguas del Estado de Tamaulipas, por lo que, todo aquello que contravenga al presente Decreto y a la ley de referencia, quedará sin efectos, aplicando en lo sucesivo lo dispuesto en la legislación estatal en materia del agua aludida.
 
+P.O. 21 DE AGOSTO DE 2024.
+
 ## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-883 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS Y DE LOS DIVERSOS DECRETOS DE CREACIÓN DE LOS ORGANISMOS OPERADORES DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE LAS AGUAS RESIDUALES OPERADOS POR EL ORDEN MUNICIPAL".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Estado y los Ayuntamientos deberán prever en el ejercicio fiscal del próximo año, los recursos necesarios para la implementación del presente Decreto.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-894 MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
