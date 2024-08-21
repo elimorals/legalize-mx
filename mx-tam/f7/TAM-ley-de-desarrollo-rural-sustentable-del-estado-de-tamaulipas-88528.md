@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-rural-sustentable-del-estado-de-tamaulipas-88
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2024-05-08"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -103,7 +103,9 @@ III. La protección y mejoramiento de los recursos naturales y los servicios amb
 
 IV. El cumplimiento de las normas que aseguren la sanidad, inocuidad y calidad agroalimentaria; y,
 
-V. Contribuir a la seguridad agroalimentaria en el Estado.
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+V. Contribuir a la soberanía y seguridad agroalimentaria en el Estado mediante el impulso de la producción agropecuaria.
 
 ###### ARTÍCULO 3.
 
@@ -1628,6 +1630,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-841 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-892 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 2, DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
