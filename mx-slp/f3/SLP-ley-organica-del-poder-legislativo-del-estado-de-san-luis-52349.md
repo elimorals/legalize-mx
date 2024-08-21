@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-52349
 country: "mx"
 rank: "ley_organica"
 publication_date: "2006-06-13"
-last_updated: "2023-09-01"
+last_updated: "2024-08-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "SLP"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADA EN EL PERIÓDICO OFICIAL EL 21 DE AGOSTO DE 2024; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR AL TRECE DE SEPTIEMBRE DE DOS MIL VEINTICUATRO.]</small>
+
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 13 de junio de 2006.
 
@@ -3254,3 +3256,21 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1085.- SE EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO Y EL REGLAMENTO DEL CONGRESO, AMBOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al trece de septiembre de dos mil veinticuatro, previa su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. A la entrada en vigor del presente Decreto, se abroga la Ley Orgánica del Poder Legislativo del Estado de San Luis Potosí, publicada con el Decreto Legislativo número 502, en el Periódico Oficial del Estado, el trece de junio de dos mil seis.
+
+TERCERO. La persona titular de la Coordinación de Asesoría y Secretariado Técnico de Comisiones, a la entrada en vigor de este Decreto, será titular de la Coordinación de Apoyo Técnico a Comisiones y Comités, hasta por la vigencia del (sic) aquel nombramiento.
+
+CUARTO. El personal de base y sindicalizado adscrito a las coordinaciones cuya denominación se modifica, continuarán adscritos a las correspondientes coordinaciones cuyos nombres se reforman con el presente Decreto.
+
+QUINTO. Los trabajadores de base nivel 13 que ostentaban previamente el cargo de “Asesor” y/o “Asesor de Comisiones” adscritos a la “Coordinación de Asesoría y Secretariado Técnico de Comisiones” del Congreso del Estado, a la entrada en vigor de la nueva Ley contenida en el presente Decreto pasarán a ocupar el cargo de “Secretario de Estudio Legislativo”, conservando de manera íntegra todos sus derechos laborales previamente adquiridos.
+
+SEXTO. Las iniciativas que se encuentren pendientes de resolver a la entrada en vigor del presente Decreto, deberán atenderse en observancia con la legislación vigente al momento de su presentación.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente decreto.
