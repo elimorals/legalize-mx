@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2024-01-10"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -991,9 +991,13 @@ XVII.- Participar en cualquier acto, convenio o contrato que obligue al Gobierno
 
 XVIII.- Colaborar en el trabajo conjunto de las Dependencias y Entidades de la Administración Pública Estatal que integran los Centros de Justicia para las Mujeres en el Estado, para desde el ámbito competencial correspondiente contribuir a los objetivos establecidos en el Acuerdo que les da origen.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ENERO DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2024)</small>
 
-XIX.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
+XIX.- Coadyuvar con la Secretaría de Seguridad Pública del Estado, en el desarrollo de las campañas de prevención enfocadas en la detección de la violencia sexual, dirigidas a niñas, niños y adolescentes; así como campañas de concientización y mecanismos de detección y prevención de este tipo de violencia, a madres, padres y quienes ejercen la guarda y custodia, en los términos de la fracción XXXV, del artículo 35 Quinquies de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE AGOSTO DE 2024)</small>
+
+XX.- Las demás que le atribuyan expresamente las leyes y sus reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -1765,9 +1769,13 @@ XXXIII. Desarrollar la política criminal para la aplicación de las medidas de 
 
 XXXIV. Participar, conforme a los convenios respectivos, en el traslado de las personas internas de los centros de reinserción social en el Estado.
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXIX], P.O. 30 DE ENERO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2024)</small>
 
-XXXV. Las demás que le atribuyan expresamente las leyes o reglamentos.
+XXXV. Formular, desarrollar e impartir, en coadyuvancia con la Secretaría de Educación y Deporte, campañas de prevención enfocadas en la detección de la violencia sexual, dirigidas a niñas, niños y adolescentes de manera clara, accesible, adecuada y apropiada para su edad; así como campañas de concientización y mecanismos de detección y prevención de este tipo de violencia, a madres, padres y quienes ejercen la guarda y custodia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE AGOSTO DE 2024)</small>
+
+XXXVI. Las demás que le atribuyan expresamente las leyes o reglamentos.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 2022)</small>
 
@@ -3756,3 +3764,19 @@ El Artículo Octavo del presente Decreto, entrará en vigor al año de su public
 ###### ARTÍCULO TERCERO.
 
 Los artículos Undécimo y Decimocuarto del presente Decreto, entrarán en vigor a los 180 días posteriores a su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/RFLEY/0849/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades competentes de la Administración Pública Estatal realizarán, en su caso, las modificaciones y adecuaciones pertinentes, de acuerdo con lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las medidas, disposiciones y previsiones financieras, de ser necesarias a que hubiera lugar, siguiendo los procedimientos aplicables, a fin de cumplir con lo establecido en el presente Decreto.
