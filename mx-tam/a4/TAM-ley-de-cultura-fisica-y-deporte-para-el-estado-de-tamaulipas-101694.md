@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2023-04-06"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -1227,9 +1227,15 @@ IV. La irrupción no autorizada en los terrenos de juego;
 
 V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
 
-VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-VII. Las que establezca la presente ley, su reglamento, los Códigos de Conducta de cada disciplina y demás ordenamientos aplicables.
+VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+VII. Todo trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizante y de menosprecio, así como cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación a cualquier usuario o prestador de servicios en materia deportiva; y
+
+VIII. Las que establezca la presente ley, su reglamento, los Códigos de Conducta de cada disciplina y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 97.
 
@@ -1265,9 +1271,15 @@ VI. Fomentar programas y campañas de divulgación en contra de la violencia y l
 
 VII. Emitir recomendaciones y orientar a los miembros del Sistema sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos;
 
-VIII. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-IX. Las demás que se establezcan en la Ley General, esta ley, su reglamento y demás ordenamientos aplicables.
+VIII. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+IX. Asesorar a todos los clubes, asociaciones, sociedades y organismos afines que incurran en actos violentos durante los entrenamientos y/o prácticas deportivas. El asesoramiento proporcionado por esta Comisión deberá ser impartido por expertos en el área correspondiente a la incidencia reportada; es decir, profesionales en pedagogía, psicología, deporte y salud; y
+
+X. Las demás que se establezcan en la Ley General, esta ley, su reglamento y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 99.
 
@@ -1293,9 +1305,11 @@ II. Cumplir con las indicaciones señaladas por el organizador, mismas que deber
 
 2. Con estricto respeto a las disposiciones y procedimientos previstos en las leyes u ordenamientos en materia de responsabilidades administrativas, civiles y penales aplicables de carácter federal, estatal y municipal, los asistentes o espectadores que cometan actos que generen violencia u otras acciones sancionables al interior o en las inmediaciones de los espacios destinados a la realización de la cultura física, el deporte y en las que se celebren eventos deportivos en cualquiera de sus modalidades, serán sujetos a la aplicación de la sanción correspondiente conforme a los ordenamientos referidos por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 101.
 
-Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales y Municipales respectivas.
+Los deportistas, entrenadores, técnicos, directivos y demás personas que interactúen con niñas, niños, adolescentes y jóvenes, en el ámbito de la disciplina deportiva, tendrán que omitir en todo momento el trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizante y de menosprecio, así como cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación, durante los entrenamientos y/o prácticas deportivas. Asimismo, deberán actuar conforme a las disposiciones y lineamientos que emita la Comisión Especial para prevenir y erradicar la violencia en el deporte, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las Asociaciones Deportivas Estatales y Municipales respectivas.
 
 ###### ARTÍCULO 102.
 
@@ -1638,3 +1652,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La aplicación del presente Decreto se sujetará a la disponibilidad presupuestal que el Titular del Poder Ejecutivo del Estado asigne en materia del Deporte
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-891 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES VI, DEL ARTÍCULO 96; VIII, DEL ARTÍCULO 98 Y EL ARTÍCULO 101; Y SE ADICIONAN LAS FRACCIONES VII, AL ARTÍCULO 96, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE Y IX, AL ARTÍCULO 98, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
