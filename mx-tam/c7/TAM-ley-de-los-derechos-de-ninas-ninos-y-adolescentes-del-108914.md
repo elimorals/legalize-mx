@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2024-08-20"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -267,13 +267,21 @@ XIII.- La transversalidad en la legislación, políticas públicas, actividades 
 
 XIV.- La no discriminación;
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-XV.- El derecho a la vida, a la supervivencia y al desarrollo; y
+XV.- El derecho a la vida, a la supervivencia y al desarrollo;
 
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-XVI.- La participación.
+XVI.- La participación;
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XVII.- Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XVII (SIC).- No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos
 
 ###### ARTÍCULO 8.
 
@@ -2286,6 +2294,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 20 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-888 MEDIANTE EL CUAL SE REFORMAN EL NUMERAL 1, DEL ARTÍCULO 30; EL ARTÍCULO 70; LA FRACCIÓN VI, DEL NUMERAL 1, DEL ARTÍCULO 71 Y LA FRACCIÓN III, DEL ARTÍCULO 99; Y SE ADICIONA LA FRACCIÓN XII BIS, AL ARTÍCULO 5, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-893 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XV Y XVI, Y SE ADICIONAN LAS FRACCIONES XVII Y XVIII AL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
