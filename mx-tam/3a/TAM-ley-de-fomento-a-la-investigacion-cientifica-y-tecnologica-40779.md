@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-la-investigacion-cientifica-y-tecnologica-4077
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-19"
-last_updated: "2020-12-17"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 19 de agosto de 2004.
 
@@ -63,19 +63,29 @@ III.- Establecer y garantizar los medios de vinculación y participación de la 
 
 IV.- Vincular la investigación científica y tecnológica con la educación y desarrollo económico del Estado, particularmente los procesos productivos;
 
-V.- Impulsar el incremento paulatino de los recursos presupuestales destinados a la investigación científica y tecnológica, a fin de alcanzar en el horizonte de mediano y largo plazo un gasto por esos conceptos equivalente al 2.5% del producto interno bruto del Estado; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-VI.- Regular la aplicación de recursos destinados para el financiamiento de investigación y desarrollo tecnológico.
+V.- Impulsar el incremento paulatino de los recursos presupuestales destinados a la investigación científica y tecnológica, a fin de alcanzar en el horizonte de mediano y largo plazo un gasto por esos conceptos equivalente al 2.5% del producto interno bruto del Estado;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-VII.- Promover la inclusión de la perspectiva de género con una visión transversal en la ciencia y la tecnología e innovación, así como una participación equitativa de las mujeres y los hombres en todos los ámbitos de la investigación en que se desarrollen.
+VI.- Regular la aplicación de recursos destinados para el financiamiento de investigación y desarrollo tecnológico;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+VII.- Promover la inclusión de la perspectiva de género con una visión transversal en la ciencia y la tecnología e innovación, así como una participación equitativa de las mujeres y los hombres en todos los ámbitos de la investigación en que se desarrollen; y
+
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+VIII.- Promover la participación de mujeres y niñas en materia de investigación científica y desarrollo tecnológico, estableciendo las acciones afirmativas necesarias para este fin.
 
 ###### ARTICULO 3.
 
 Para los efectos de la presente ley, se entenderá por:
 
-I.- CONACYT.- Al Consejo Nacional de Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+I.- CONAHCYT.- Al Consejo Nacional de Humanidades, Ciencias y Tecnologías;
 
 II.- Gobierno del Estado.- Al Gobierno del Estado de Tamaulipas;
 
@@ -103,11 +113,17 @@ I.- Las actividades de planeación de la investigación científica y tecnológi
 
 II.- Los resultados de las actividades de investigación y desarrollo tecnológico que sean objeto de apoyos en términos de esta ley serán invariablemente evaluados y se tomarán en cuenta para el otorgamiento de apoyos posteriores;
 
-III.- La toma de decisiones, desde la determinación de políticas generales y presupuestales en materia de ciencia y tecnología hasta las orientaciones de asignación de recursos a proyectos específicos, se llevará a cabo con la participación de las comunidades científica, académica y tecnológica, a la que se sumará la opinión del sector productivo;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-IV.- Los instrumentos de apoyo a la ciencia y la tecnología deberán procurar el desarrollo armónico de la potencialidad científica y tecnológica del Estado, buscándose asimismo el crecimiento y la consolidación de las comunidades científica y académica, en particular las que forman parte de las instituciones públicas;
+III.- La toma de decisiones, desde la determinación de políticas generales y presupuestales en materia de ciencia y tecnología hasta las orientaciones de asignación de recursos a proyectos específicos, garantizará la paridad de género y se llevará a cabo con la participación de las comunidades científica, académica y tecnológica, a la que se sumará la opinión del sector productivo;
 
-V.- Las políticas, Instrumentos y criterios con los que el Gobierno del Estado fomente y apoye la investigación científica y tecnológica deberán buscar el mayor efecto benéfico de estas actividades en la enseñanza y el aprendizaje de la ciencia y la tecnología, así como en la calidad de la educación, particularmente de la educación superior, al tiempo de incentivar la participación y desarrollo de las nuevas generaciones de investigadores;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+IV.- Los instrumentos de apoyo a la ciencia y la tecnología deberán procurar el desarrollo armónico de la potencialidad científica y tecnológica del Estado, buscándose asimismo el crecimiento y la consolidación de las comunidades científica y académica, asegurando la participación de mujeres y hombres en condición de igualdad, en particular las que forman parte de las instituciones públicas;
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+V.- Las políticas, instrumentos y criterios con los que el Gobierno del Estado fomente y apoye la investigación científica y tecnológica deberán buscar el mayor efecto benéfico de estas actividades en la enseñanza y el aprendizaje de la ciencia y la tecnología, así como en la calidad de la educación, particularmente de la educación superior, al tiempo de incentivar la participación y desarrollo de las nuevas generaciones de investigadoras e investigadores;
 
 VI.- La concurrencia de aportaciones de recursos públicos y privados para la generación, ejecución y difusión de proyectos de investigación científica y tecnológica, así como para la modernización tecnológica, el fomento y divulgación de la investigación científica y la formación de recursos humanos especializados para la innovación y el desarrollo tecnológico de la industria;
 
@@ -115,7 +131,9 @@ VII.- Los incentivos fiscales y otros mecanismos de fomento, constituirán un me
 
 VIII.- Las políticas y estrategias de apoyo al desarrollo científico y tecnológico deberán ser periódicamente revisadas y actualizadas conforme a un esfuerzo permanente de evaluación de resultados y tendencias del avance científico y tecnológico, así como en su impacto en la solución de las necesidades de la Entidad;
 
-IX.- La selección de instituciones, programas, proyectos y personas destinatarios de los apoyos, se realizará mediante procedimientos competitivos, eficientes, equitativos y públicos, sustentados en méritos y calidad, así como orientados con un claro sentido de responsabilidad social que favorezcan el desarrollo del Estado;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+IX.- La selección de instituciones, programas, proyectos y personas destinatarios (sic) de los apoyos, se realizará garantizando la paridad de género, mediante procedimientos competitivos, eficientes, y públicos, sustentados en méritos y calidad, así como orientados con un claro sentido de responsabilidad social que favorezcan el desarrollo del Estado;
 
 X.- Los instrumentos de apoyo de ninguna manera afectarán la libertad de investigación científica y tecnológica, sin perjuicio de la regulación o limitaciones que por motivos de seguridad, de salud, de ética o de cualquier otra causa de interés público determinen las disposiciones legales;
 
@@ -125,7 +143,9 @@ XII.- La promoción y la divulgación de la ciencia y la tecnología, se orienta
 
 XIII.- La actividad de investigación y desarrollo tecnológico que realicen directamente las dependencias y entidades del sector público, se orientará preferentemente a procurar la identificación y solución de problemas y retos de interés general, contribuir significativamente en la adquisición del conocimiento, permitir mejorar la calidad de vida de la población con respecto al medio ambiente y apoyar la formación de personal especializado en ciencia y tecnología;
 
-XIV.- Los apoyos a las actividades de ciencia y tecnología deberán ser oportunos y suficientes para garantizar la continuidad de las investigaciones en beneficio de sus resultados;
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XIV.- Los apoyos a las actividades de ciencia y tecnología deberán ser oportunos y suficientes para garantizar la continuidad de las investigaciones en beneficio de sus resultados y garantizando la paridad entre los géneros;
 
 XV.- Las personas físicas e instituciones que lleven a cabo investigación y desarrollo tecnológico, que reciban apoyo del Gobierno del Estado, deberán difundir a la sociedad sus actividades y los resultados de sus investigaciones y desarrollos tecnológicos, sin perjuicio de los derechos de propiedad industrial o intelectual correspondientes y de la información que por razón de su naturaleza deba reservarse;
 
@@ -133,13 +153,17 @@ XVI.- Los incentivos que se otorguen reconocerán los logros sobresalientes de p
 
 XVII.- La conservación, consolidación, actualización y desarrollo de la infraestructura de investigación existente, así como la creación de nuevos centros, cuando esto sea necesario;
 
-XVIII.- La creación y fortalecimiento de espacios destinados a la promoción de ciencia y tecnología para jóvenes y niños; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-XIX.- Toda opinión, propuesta o sugerencia que emita el ciudadano durante los procesos de consulta en materia de políticas y programas de investigación científica y desarrollo tecnológico, serán sistematizadas, evaluadas y consideradas en lo conducente.
+XVIII.- La creación y fortalecimiento de espacios destinados a la promoción de ciencia y tecnología para niñas, niños, adolescentes y jóvenes;
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-XX.- La participación de la mujer y el hombre en el ámbito científico y tecnológico, deberá ser equilibrada y sin discriminación, e incentivando el impulso al desarrollo de las nuevas generaciones de investigadores.
+XIX.- Toda opinión, propuesta o sugerencia que emita el ciudadano durante los procesos de consulta en materia de políticas y programas de investigación científica y desarrollo tecnológico, serán sistematizadas, evaluadas y consideradas en lo conducente; y
+
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+XX.- La participación de la mujer y el hombre en el ámbito científico y tecnológico, deberá ser equilibrada y sin discriminación, e incentivando el impulso al desarrollo de las nuevas generaciones de investigadoras e investigadores.
 
 ### CAPITULO III. INSTRUMENTOS DE APOYO A LA INVESTIGACION CIENTIFICA Y TECNOLOGICA
 
@@ -189,9 +213,9 @@ XII.- El fomento e implementación de una feria anual de innovación, ciencia y 
 
 1. Se integra el Sistema de Información Científica y Tecnológica del Estado de Tamaulipas, que estará a cargo del Consejo, quien lo administrará manteniéndolo actualizado.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
-2. El Consejo, en el ámbito de su competencia, coadyuvará al CONACYT en la estrategia nacional que tiene como finalidad ampliar, consolidar y facilitar el acceso a la información científica, tecnológica y de innovación nacional e internacional a texto completo, en formatos digitales.
+2. El Consejo, en el ámbito de su competencia, coadyuvará al CONAHCYT en la estrategia nacional que tiene como finalidad ampliar, consolidar y facilitar el acceso a la información científica, tecnológica y de innovación nacional e internacional a texto completo, en formatos digitales.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2016)</small>
 
@@ -263,7 +287,9 @@ I.- Promover la creación de espacios bibliohemerográficos especializados en ma
 
 II.- Fomentar la organización y realización de actos académicos y científicos, que propicien el intercambio de información, el contacto con especialistas y el desarrollo del conocimiento;
 
-III.- Promover la creación de programas y espacios educativos, recreativos e interactivos, con el objeto de fomentar en la población en general, haciendo énfasis en los jóvenes y niños, el interés por la formación científica; y
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+III.- Promover la creación de programas y espacios educativos, recreativos e interactivos, con el objeto de fomentar en la población en general, haciendo énfasis en las niñas, niños, adolescentes y jóvenes, el interés por la formación científica; y
 
 IV.- Promover, a través del Consejo, la coordinación y difusión de programas, proyectos y acciones de alcance estatal y nacional, así como la producción y difusión de materiales generados por instituciones y organismos similares al propio Consejo.
 
@@ -305,7 +331,9 @@ a) investigación científica y tecnológica, con el señalamiento de su relaci�
 
 b) innovación y desarrollo tecnológico, con el señalamiento de su relación con los procesos productivos.
 
-c) formación e incorporación de investigadores, tecnólogos y profesionales de alto nivel.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+c) formación e incorporación de investigadores, tecnólogos y profesionales de alto nivel, asegurando la participación de mujeres y hombres en condición de igualdad.
 
 d) difusión del conocimiento científico y tecnológico.
 
@@ -527,7 +555,9 @@ IV.- Proponer las medidas y estímulos fiscales, esquemas de financiamiento, fac
 
 1. Las dependencias y entidades de la Administración Pública del Estado, así como las instituciones públicas de educación superior, en sus respectivos ámbitos de competencia, promoverán la modernización, la innovación y el desarrollo tecnológicos, vinculándose con los sectores social y privado.
 
-2. El proceso de vinculación deberá ser intersectorial, multidisciplinario e interinstitucional, buscándose la coordinación de esfuerzos conjuntos en materia de ciencia y tecnología, al tiempo de tomar en cuenta los intereses prioritarios y estrategias del Estado.
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+2. El proceso de vinculación deberá ser intersectorial, multidisciplinario e interinstitucional, buscándose la coordinación de esfuerzos conjuntos en materia de ciencia y tecnología, garantizando la participación de mujeres y hombres de manera equitativa, al tiempo de tomar en cuenta los intereses prioritarios y estrategias del Estado.
 
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -585,11 +615,11 @@ La investigación científica y tecnológica que apoye el Gobierno del Estado bu
 
 Con el objeto de integrar la investigación y la educación, los centros de investigación y las instituciones de educación superior promoverán, a través de sus ordenamientos internos, que sus académicos de carrera, profesores e investigadores, participen en actividades de enseñanza frente a grupo, de tutores de estudiantes, de investigación o de aplicación innovadora del conocimiento.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2005)</small>
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 43.
 
-El Gobierno del Estado reconocerá los logros sobresalientes de quienes realicen investigación científica y tecnológica, y procurará apoyar para que la actividad de investigación de dichos individuos contribuya a mantener y fortalecer la calidad de la educación, el desarrollo industrial y comercial del Estado.
+El Gobierno del Estado reconocerá de manera equitativa, los logros sobresalientes de mujeres y hombres que realicen investigación científica y tecnológica, y procurará apoyar para que la actividad de investigación de dichos individuos contribuya a mantener y fortalecer la calidad de la educación, el desarrollo industrial y comercial del Estado.
 
 ###### ARTICULO 44.
 
@@ -708,3 +738,11 @@ P.O. 17 DE DICIEMBRE DE 2020.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-890 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
