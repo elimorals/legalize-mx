@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2024-06-29"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -1501,11 +1501,15 @@ La sentencia que se pronuncie en definitiva, fijará la situación de los hijos 
 
 268.- La situación de los hijos a que se refiere el artículo anterior, puede ser modificada por el juez en interés justificado de ellos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+268 Bis.- En la disolución del concubinato o del matrimonio contraído bajo el régimen de separación de bienes, cualquiera de las personas concubinarias o cónyuges que haya realizado, preponderantemente, trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia de manera cotidiana, y que, debido a ello, se encuentre en desventaja económica respecto de la otra parte, tendrá derecho a la repartición de los bienes adquiridos durante el matrimonio o el concubinato hasta por el cincuenta por ciento; y en los casos en que proceda, al otorgamiento de una pensión compensatoria.
+
+> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+La autoridad jurisdiccional habrá de resolver con perspectiva de género, atendiendo al tiempo que duró el matrimonio o el concubinato; al tiempo que tome resarcir el desequilibrio económico entre las partes; los bienes con que cuenten los cónyuges; la custodia de la descendencia; y las demás circunstancias especiales de cada caso.
+
 > <small>(ADICIONADO, P.O. 25 DE JUNIO DE 2022)</small>
-
-268 Bis.- En la disolución del concubinato o del matrimonio contraído bajo el régimen de separación de bienes, cualquiera de las personas concubinarias o cónyuges que haya realizado trabajo del hogar consistente en tareas de administración, dirección, atención del mismo o cuidado de la familia de manera cotidiana, tendrá derecho a la repartición de los bienes adquiridos durante el matrimonio o el concubinato hasta por el cincuenta por ciento.
-
-La autoridad jurisdiccional habrá de resolver atendiendo al tiempo que duró el matrimonio o el concubinato; los bienes con que cuenten los cónyuges; la custodia de la descendencia; y las demás circunstancias especiales de cada caso.
 
 Se exceptúan de los bienes establecidos en este artículo, los que se adquieran por sucesión y donación.
 
@@ -13426,6 +13430,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 29 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFCOD/0838/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL Y DEL CÓDIGO PENAL, AMBOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0870/2024 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 268 BIS, PRIMER Y SEGUNDO PÁRRAFOS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
