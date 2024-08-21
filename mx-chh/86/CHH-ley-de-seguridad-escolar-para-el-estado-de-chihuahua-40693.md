@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-seguridad-escolar-para-el-estado-de-chihuahua-40693"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-31"
-last_updated: "2016-10-03"
+last_updated: "2024-08-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 31 de julio de 2004.
 
@@ -155,6 +155,10 @@ V. Los órganos de gobierno de los organismos públicos descentralizados cuya ca
 
 VI. Los Ayuntamientos.
 
+> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2024)</small>
+
+VII. La persona titular de la Secretaría de Seguridad Pública del Estado.
+
 ###### Artículo 8.
 
 Al Titular del Poder Ejecutivo del Estado le corresponde, en materia de seguridad escolar, el ejercicio de las siguientes atribuciones:
@@ -165,11 +169,11 @@ II. Celebrar convenios de coordinación y ejecución a fin de cumplir los objeti
 
 III. Las demás atribuciones que conforme a ésta y las demás disposiciones legales aplicables le correspondan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 9.
 
-Corresponde al Fiscal General del Estado, por conducto de las Fiscalías Especializadas en Seguridad Pública y Prevención del Delito:
+Corresponde a la persona titular de la Fiscalía General del Estado, por conducto de las Fiscalías Especializadas:
 
 I.- Aplicar en el ámbito de su competencia la presente Ley, su reglamento, y demás disposiciones que resulten aplicables bajo la premisa de que la Seguridad Escolar se constituye desde el marco del Servicio de Seguridad Pública y que por tanto, tiene por objeto principal asegurar el pleno goce de las garantías individuales y sociales, la paz, la tranquilidad, el orden público, así como prevenir la comisión de delitos y procurar la protección que la sociedad otorga a cada uno de sus miembros, para la conservación de su persona, de sus derechos y de sus bienes;
 
@@ -183,17 +187,13 @@ IV.- Promover la realización de cursos de capacitación y actualización para e
 
 V.- Auxiliar a las autoridades en el cumplimiento de esta Ley y demás disposiciones legales que de ésta deriven;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
-
-VI.- Celebrar acuerdos de colaboración con los Ayuntamientos de la Entidad a fin de cumplir el objetivo de la presente Ley;
+VI.- (DEROGADA, P.O. 21 DE AGOSTO DE 2024)
 
 > <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
 VII.- Aplicar los programas de prevención para el mejor cumplimiento del objeto de esta Ley, así como apoyar y asesorar a las brigadas escolares;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
-
-VIII.- Formular, desarrollar programas y realizar las acciones que le competen, en materia de seguridad escolar, coordinándose, en su caso, con las demás dependencias del Ejecutivo Estatal, según sus respectivas esferas de competencia, con los municipios de la Entidad y con la sociedad;
+VIII.- (DEROGADA, P.O. 21 DE AGOSTO DE 2024)
 
 > <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
 
@@ -229,13 +229,17 @@ VII. Vigilar que en la toma de decisiones, en la materia de esta ley, las autori
 
 VIII. Proponer a la Fiscalía General del Estado, en atención a lo dispuesto por los artículos 8, fracción V y 11, fracción I, de la Ley de Protección Civil del Estado de Chihuahua, el proyecto de Programa Estatal de Seguridad Escolar, el cual contendrá como mínimo el manual y protocolos de seguridad escolar, con la información de cómo se debe actuar en caso de accidente o lesión en la escuela; incendio; fuga o derrame de materiales peligrosos; amenaza de bomba; disturbio o despliegue de fuerzas de seguridad y contingencia meteorológica;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2024)</small>
 
-IX. Participar, a través de la Coordinación Estatal de Seguridad Escolar, con la Fiscalía General del Estado, en la operación del Programa Estatal de Seguridad Escolar; y
+IX. Participar, a través de la Coordinación Estatal de Seguridad Escolar, con la Fiscalía General del Estado, en la operación del Programa Estatal de Seguridad Escolar;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE AGOSTO DE 2024)</small>
 
-X. Las que conforme a esta ley y otras disposiciones aplicables le correspondan.
+X. Coadyuvar con la Secretaría de Seguridad Pública del Estado en el desarrollo de las campañas de prevención a que se refiere la fracción VI, del artículo 12 BIS de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE AGOSTO DE 2024)</small>
+
+XI. Las que conforme a esta Ley y otras disposiciones aplicables le correspondan.
 
 ###### Artículo 10 Bis.
 
@@ -270,6 +274,26 @@ II.- Proponer a los titulares de la Secretaría de Educación y Deporte y de la 
 III.- Coadyuvar con la Secretaría de Educación y Deporte, la Fiscalía General del Estado y los Ayuntamientos, en la formulación del registro de las brigadas de los planteles educativos a su cargo;
 
 IV.- Las que conforme a esta ley y otras disposiciones aplicables les correspondan.
+
+> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2024)</small>
+
+###### Artículo 12 Bis.
+
+Corresponde a la Secretaría de Seguridad Pública del Estado:
+
+I. Auxiliar a las autoridades en el cumplimiento de esta Ley y demás disposiciones legales que de esta deriven;
+
+II. Celebrar acuerdos de colaboración con los Ayuntamientos de la Entidad a fin de cumplir los propósitos de la presente Ley;
+
+III. Aplicar los programas de prevención para el mejor cumplimiento del objeto de esta Ley, así como apoyar y asesorar a las brigadas escolares;
+
+IV. Formular, desarrollar programas y realizar las acciones que le competen en materia de seguridad escolar, coordinándose, en su caso, con las demás dependencias de la administración pública estatal, según sus respectivas esferas de competencia, con los municipios de la Entidad y con la sociedad en general;
+
+V. Auxiliar en las revisiones a que se refiere el artículo 30 de esta Ley;
+
+VI. Formular, desarrollar e impartir, en coadyuvancia con la Secretaría, campañas de prevención enfocadas en la detección de la violencia sexual, dirigidas a niñas, niños y adolescentes, de manera clara, accesible, adecuada y apropiada para su edad; así como campañas de concientización y mecanismos de detección y prevención de este tipo de violencia, a padres, madres y quienes ejercen la guarda y custodia; y
+
+VII. Las demás atribuciones que a esta Ley y otras disposiciones legales le encomienden.
 
 ### Capítulo III. De las Entidades Auxiliares en materia de Seguridad Escolar
 
@@ -592,3 +616,19 @@ Los derechos laborales del personal que, en virtud de lo dispuesto en el present
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 El Ejecutivo del Estado emitirá los Reglamentos Interiores de las Secretarías de Cultura, de Desarrollo Municipal, de la Comisión Estatal para los Pueblos Indígenas y la Coordinación de Asesoría y Proyectos Especiales y hará las adecuaciones en los Reglamentos vigentes que correspondan en un plazo de 180 días a partir de la entrada en vigor del presente Decreto.
+
+P.O. 21 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLEY/0849/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD ESCOLAR PARA EL ESTADO DE CHIHUAHUA Y DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades competentes de la Administración Pública Estatal realizarán, en su caso, las modificaciones y adecuaciones pertinentes, de acuerdo con lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las medidas, disposiciones y previsiones financieras, de ser necesarias a que hubiera lugar, siguiendo los procedimientos aplicables, a fin de cumplir con lo establecido en el presente Decreto.
