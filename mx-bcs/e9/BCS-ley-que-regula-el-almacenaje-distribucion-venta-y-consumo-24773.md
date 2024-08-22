@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-24773
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2016-10-31"
+last_updated: "2024-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY QUE REGULA EL ALMACENAJE, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE AGOSTO DE 2024.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -163,6 +163,10 @@ VIII QUATER. Cervecería.- Sitio donde se fabrica y/o vende cerveza.
 
 IX. Cerveza.- Bebidas fermentada y elaborada con malta, lúpulo y agua potable o con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o fruto feculentas o azúcares como adjuntos de la malta, con adición de lúpulos o sucedáneos de éstos. Los porcentajes de las materias primas empleadas para la elaboración de este producto obedecerán a lo que señale la norma correspondiente.
 
+> <small>(ADICIONADA, B.O. 22 DE AGOSTO DE 2024)</small>
+
+IX BIS. Cerveza Artesanal: Bebida fermentada cuyos ingredientes naturales son agua, lúpulo, maltas de cebada y artesanales se hace de forma manual, semi automática o Automática a pequeña escala no mayor a 3 mil litros de producción al mes.
+
 X. Centro Comercial.- Conjunto de locales o espacios en los que se encuentran establecidos diversos giros comerciales en forma individual, incluyendo a las tiendas departamentales, que expenden bebidas alcohólicas.
 
 XI. Centro de Espectáculos.- Inmueble en el que se presentan espectáculos artísticos, deportivos y culturales y cuyo acceso se controla a base de boletos de distribución gratuita u onerosa.
@@ -269,6 +273,10 @@ XXIII. Licenciatario.- La persona física o jurídica que haya obtenido una lice
 
 XXIV. Mercancía.- Toda bebida alcohólica que se encuentre en un inmueble, así como en los muebles o enseres requeridos para su comercialización o venta.
 
+> <small>(ADICIONADA, B.O. 22 DE AGOSTO DE 2024)</small>
+
+XXIV BIS. Micro-Cervecería: Establecimiento constituido por una Persona física o moral con domicilio fiscal en Baja California Sur para la producción, envasado, degustación, venta, distribución, almacenaje, difusión y comercialización por diversos medios de cerveza y productos relacionados, cumpliendo las características de pequeña escala, independiente y tradicionales.
+
 XXV. Minisuper.- Establecimiento organizado por departamentos y con presentación de autoservicio, cuya función primordial es expender al público producto de uso y consumo en general y que cuente con licencia para expender bebidas alcohólicas en envase cerrado para su consumo en lugar diferente.
 
 XXVI. Permiso Eventual.- Documento en que consta la autorización otorgada para vender en envase abierto y permitir el consumo de bebidas alcohólicas, en un espacio previamente delimitado y por una temporalidad que no exceda de diez días naturales.
@@ -286,6 +294,10 @@ XXVII BIS. Pulquería.- Establecimiento donde se vende pulque.
 > <small>(ADICIONADA, B.O. 31 DE AGOSTO DE 2015)</small>
 
 XXVII TER. Restaurante-Bar.- Establecimiento mercantil cuya actividad principal es la venta de bebidas alcohólicas, cualquiera que sea su graduación con o sin alimentos, mismo que deberá estar acondicionado con instalaciones para la elaboración de alimentos preparados para su consumo dentro del lugar. Opcionalmente puede tener música en vivo o grabada o espectáculos para amenizar el ambiente.
+
+> <small>(ADICIONADA, B.O. 22 DE AGOSTO DE 2024)</small>
+
+XXVII QUATER. Sala de degustación: Área de la Micro Cervecería, delimitada para la recepción de visitantes, venta y consumo al público con o sin servicio de alimentos, sean provistos por el establecimiento o por terceros.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -316,6 +328,10 @@ XXIX. Ultramarinos.- Establecimiento cuya actividad preponderante es la venta de
 XXX. Venta al menudeo.- Es la que se realiza en anvase (sic) o botella cerrada o abierta, directamente al consumidor por quienes tienen licencia para ello, independientemente de la cuantía de la venta.
 
 XXXI. Venta al mayoreo.- Es la que realizan quienes tienen licencia de distribución de bebidas alcohólicas, en cartón o caja cerrada, sin refrigerar a comerciantes autorizados, independientemente de la cuantía de la venta.
+
+> <small>(ADICIONADA, B.O. 22 DE AGOSTO DE 2024)</small>
+
+XXXII. Vino regional. Bebidas con contenido alcohólico elaboradas a base de productos de uva y sus derivados dentro del territorio de la Entidad, tales como vinos misionales, vinos de mesa y licores regionales o artesanales.
 
 ### CAPITULO II. DE LAS AUTORIDADES MATERIA DE ESTA LEY
 
@@ -601,11 +617,9 @@ Los Regidores que no sean miembros del Consejo, podrán asistir a las sesiones d
 
 Para los efectos de la presente ley, los establecimientos y locales a que se refiere el artículo 4o, se clasifican en la forma siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, B.O. 22 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA, B.O. 31 DE AGOSTO DE 2015)</small>
-
-I. Establecimientos específicos para la venta y consumo de bebidas alcohólicas: Cantina, cervecería, discoteca, cabaret, centro nocturno, pulquería, centro botanero, bar y/o cantina, anexo de bar y demás similares;
+I. Establecimientos específicos para la venta y consumo de bebidas alcohólicas: Cantina, cervecería, discoteca, cabaret, centro nocturno, pulquería, centro botonero, bar y/o cantina, anexo de bar, sala de degustación, micro-cervecería, Pub de cerveza artesanal y demás similares;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -816,6 +830,10 @@ c) Venta en botella cerrada, sin consumo en el establecimiento o local, de bebid
 d) Venta de bebidas de baja graduación cuando constituye el giro principal del establecimiento.
 
 e) Venta y consumo de bebidas de baja graduación, cuando constituye el giro principal del establecimiento.
+
+> <small>(ADICIONADO, B.O. 22 DE AGOSTO DE 2024)</small>
+
+f) Venta, consumo, almacenaje, y distribución, de bebidas denominadas cerveza artesanal, vinos regionales y/o licores regionales, con la condicionante de contar con domicilio fiscal establecido en Baja California Sur y la denominación "Hecho en BCS".
 
 II. La licencia o permiso que autorice la venta o consumo de bebidas de alta graduación, comprenderá la venta o consumo de bebidas de baja graduación.
 
@@ -1226,3 +1244,11 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 22 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3078 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA EL ALMACENAJE, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
