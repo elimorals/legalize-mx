@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2024-08-21"
+last_updated: "2024-08-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2024.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -852,6 +852,12 @@ Las niñas, niños y adolescentes tienen derecho a no sufrir violencia en el ám
 ###### ARTÍCULO 32 Ter.
 
 Las niñas, niños y adolescentes tienen derecho a que se proteja cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación locales, o en redes sociales y en general en medios digitales. En caso de que sea necesario, debe hacerse mediante autorización por escrito, o por cualquier otro medio que permita constatarla, de quienes ejerzan la patria potestad, tutela, guarda o custodia, quedando prohibido se lleve a cabo toda exposición, aun existiendo dicho consentimiento, si ésta implica menoscabo de su honra o reputación, es contraria a sus derechos o las y los ponga en riesgo, conforme al principio de interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2024)</small>
+
+###### ARTÍCULO 32 Quater.
+
+En los casos de niñas, niños y adolescentes en situación de orfandad por feminicidio de su madre, o por el homicidio de uno o ambos progenitores, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán implementar acciones específicas y medidas cautelares inmediatas para garantizar la protección, integridad y tratamiento psicológico del menor. Asimismo, deberán facilitar su reincorporación a la vida cotidiana y asegurar el ejercicio pleno de los derechos establecidos en esta ley.
 
 ###### ARTÍCULO 33.
 
@@ -2302,6 +2308,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 21 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-893 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XV Y XVI, Y SE ADICIONAN LAS FRACCIONES XVII Y XVIII AL ARTÍCULO 7 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 65-896 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 32 QUATER, A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
