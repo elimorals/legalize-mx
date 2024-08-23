@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2024-06-28"
+last_updated: "2024-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2024.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -1042,6 +1042,10 @@ El certificado de defunción hace prueba del día, hora, lugar y causas del fall
 ###### ARTICULO 118.
 
 En el acta de defunción se asentarán los datos que contenga el certificado de defunción, así como los datos que el Juez del Registro Civil requiera y será firmada por el declarante.
+
+> <small>(ADICIONADO, G.O. 23 DE AGOSTO DE 2024)</small>
+
+Para las actas de defunción de las personas transgénero, en caso de que sus familiares se negaren a realizar el trámite o pudieren vulnerar su identidad o expresión de género, dicha acta podrá ser tramitada por una persona que pertenezca a la familia social de la persona transgénero, en términos de la Ley de Víctimas de la Ciudad de México.
 
 ###### ARTICULO 119.
 
@@ -15328,3 +15332,11 @@ G.O. 28 DE JUNIO DE 2024.
 PRIMERO. Remítase el presente decreto a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL PÁRRAFO PRIMERO DEL ARTÍCULO 69 TER, LA FRACCIÓN VIII DEL ARTÍCULO 138, EL SEGUNDO PÁRRAFO, LA FRACCIÓN IX Y EL INCISO A) DEL PÁRRAFO QUINTO, DEL ARTÍCULO 148 BIS; SE ADICIONA UN CAPÍTULO VII, AL TÍTULO PRIMERO DEL LIBRO SEGUNDO PARTE ESPECIAL, Y UN ARTÍCULO 148 TER, AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 118 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL; SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 37; SE ADICIONAN LAS FRACCIONES V, VI, VII AL ARTÍCULO 37, Y LAS FRACCIONES XXIV, XXV, XXVI, AL ARTÍCULO 65, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO Y SE ADICIONA UNA FRACCIÓN XIV BIS AL ARTÍCULO 3 DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
