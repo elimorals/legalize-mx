@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2024-08-16"
+last_updated: "2024-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -555,11 +555,15 @@ Las elecciones de comisarios se sufragarán por planilla al cabo el segundo domi
 
 ### CAPITULO II. DE LA INSTALACION DEL AYUNTAMIENTO
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 36.
 
-Los presidentes municipales, síndicos y regidores, deberán rendir protesta constitucional de su cargo el día de la instalación de los Ayuntamientos que integran, que será el día 30 de septiembre del año de la elección. La instalación es un acto meramente formal y la responsabilidad del Ayuntamiento saliente cesa el 29 de septiembre del año de la elección a las 24:00 horas, e inicia inmediatamente la responsabilidad del nuevo Ayuntamiento. Cada Ayuntamiento notificará inmediatamente sobre su toma de posesión e instalación a los Poderes del Estado y a los Ayuntamientos de Municipios limítrofes.
+Los Ayuntamientos declararán su instalación, en sesión de Cabildo, el día 01 de enero del año siguiente al de su elección, previa protesta constitucional que rindan la Persona Titular de la Presidencia Municipal, de la o las Sindicaturas Procuradoras y de las Regidurías ante el Ayuntamiento saliente, en Sesión Solemne que se celebrará el día anterior al de la instalación.
+
+La instalación es un acto meramente formal y la responsabilidad del Ayuntamiento saliente cesa el 31 de diciembre del año de la elección a las 24:00 horas, e inicia inmediatamente la responsabilidad del Ayuntamiento entrante.
+
+Cada Ayuntamiento notificará inmediatamente sobre su toma de posesión, instalación e integración a los Poderes del Estado y a los Ayuntamientos de los Municipios limítrofes.
 
 ###### ARTICULO 37.
 
@@ -579,31 +583,31 @@ El Presidente saliente, o la persona que los sustituya, replicará: "Si no lo hi
 
 A continuación el nuevo Presidente declarará: "Queda legítimamente instalado el Ayuntamiento del Municipio de ........................... que funcionará el trienio ............
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 38.
 
-Formulada la declaratoria a que se refiere el artículo anterior el Presidente dará lectura a las bases del programa de trabajo que desarrollará el Ayuntamiento durante el período de su gestión, sin perjuicio del Plan de Desarrollo del Municipio del trienio que deberá expedirse a más tardar el 28 de diciembre del año en que entren en funciones.
+Formulada la declaratoria de instalación a la que se refiere el artículo anterior, la Persona Titular de la Presidencia Municipal, dará lectura a las bases del programa de trabajo que desarrollará el Ayuntamiento durante el período de su gestión, sin perjuicio del Plan de Desarrollo del Municipio del trienio que deberá expedirse a más tardar el 31 del mes de marzo del año en que entren en funciones
 
 ### CAPITULO III
 
 DEL PROCEDIMIENTO DE ENTREGA-RECEPCION DE LOS AYUNTAMIENTOS.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 39.
 
-El Ayuntamiento saliente hará entrega en la segunda quincena de septiembre de los informes e inventarios sobre el patrimonio mobiliario e inmobiliario, los recursos humanos y financieros, los archivos e informes sobre el avance de los programas de gobierno pendientes o de carácter permanente, asegurando la disponibilidad de recursos para garantizar el pago de aguinaldo proporcional, prima vacacional y demás prestaciones de los trabajadores de la administración municipal.
+El Ayuntamiento saliente hará entrega en la segunda quincena del mes de diciembre del año de la elección, de los informes e inventarios sobre el patrimonio mobiliario e inmobiliario, los recursos humanos y financieros, los archivos e informes sobre el avance de los programas de gobierno pendientes o de carácter permanente, asegurando la disponibilidad de recursos para garantizar el pago de aguinaldo, prima vacacional y demás prestaciones de los trabajadores de la administración municipal
 
 ###### ARTICULO 40.
 
 Los Presidentes Municipales y los miembros de los Ayuntamientos salientes y entrantes participarán en los procesos de entrega recepción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 41.
 
-En cada Ayuntamiento durante los primeros doce días del mes de septiembre, se creará un Comité de Entrega recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como un representante de la Auditoría Superior del Estado y de las Secretarías de la Contraloría y Transparencia Gubernamental; de Finanzas y Administración y de Bienestar, mismos que previa auditoría sancionarán dicho acto.
+En cada Ayuntamiento durante los primeros doce días del mes de diciembre, se creará un Comité de Entrega recepción integrado por miembros del Ayuntamiento electo y el Ayuntamiento saliente; así como una persona representante de la Auditoría Superior del Estado y de las Secretarías de la Contraloría y Transparencia Gubernamental; de Finanzas y Administración y de Planeación y Desarrollo Regional, mismas que previa auditoría sancionarán dicho acto.
 
 > <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 24 DE JUNIO DE 2022)</small>
 
@@ -973,9 +977,9 @@ I. Realizar estudios económicos relacionados con las finanzas municipales;
 
 II. Celebrar convenios con el Gobierno del Estado en materia fiscal relacionadas con la administración de contribuciones;
 
-> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-III. Formular y remitir al Congreso del Estado a más tardar el 15 de octubre, sus presupuestos anuales de ingresos, para expedir en su caso, la Ley de Ingresos, junto con la Tabla de Valores Unitarios de Suelo y Construcción del año siguiente; con excepción del año de renovación de los Ayuntamientos, lo podrán entregar a más tardar el 30 de octubre del año de la elección. El Congreso del Estado está facultado para incorporar a la Iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Congreso suplirá esta deficiencia en los términos de Ley.
+III. Formular y remitir al Congreso del Estado a más tardar el 15 de octubre, sus presupuestos anuales de ingresos y sus iniciativas con los proyectos respectivos, para expedir, en su caso, la Ley de Ingresos del Municipio y la Tabla de Valores Unitarios de Suelo y Construcción del año siguiente. En el último año de ejercicio de los Ayuntamientos, los citados documentos deberán contener la opinión del Ayuntamiento electo. El Congreso del Estado está facultado para incorporar a la iniciativa de ingresos municipales que al efecto presente el Ejecutivo del Estado, el monto total de ingresos autorizado por Municipio, siempre y cuando los presupuestos se hayan remitido previo acuerdo de los Ayuntamientos. En el caso de que un Ayuntamiento no presente su presupuesto de ingresos, el Congreso suplirá esa deficiencia en los términos de Ley;
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
@@ -1495,9 +1499,9 @@ Son facultades y obligaciones de la Presidencia Municipal las siguientes:
 
 I. Presidir las sesiones y dirigir los debates del Ayuntamiento tomando parte en las deliberaciones con voz y voto y con voto de calidad en caso de empate y facultad de veto suspensivo para efectos de analizar y votar de nueva cuenta el asunto que lo haya motivado;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-II. Rendir al pueblo en Sesión Solemne, en la primera quincena del mes de Septiembre, el informe anual pormenorizado sobre el estado que guarda la administración municipal del cual enviará copia al Ejecutivo y al Congreso del Estado; en el último año del mandato podrá rendirlo en la Sesión Solemne en que el Ayuntamiento entrante rinda protesta o en Sesión Solemne anterior a la fecha de celebración de ésta;
+II. Rendir al pueblo del Municipio en Sesión Solemne, en la primera quincena del mes de diciembre, el informe anual pormenorizado sobre el estado que guarda la administración municipal del cual enviará copia al Poder Ejecutivo del Estado y al Congreso del Estado; en el último año del mandato, podrá rendirlo en la Sesión Solemne en que el Ayuntamiento entrante rinda protesta o en Sesión Solemne anterior a la fecha de celebración de ésta;
 
 III. Rendir cada mes, en sesión ordinaria del Ayuntamiento y con el auxilio del jefe de la Policía un informe al Ayuntamiento sobre la corporación y las principales incidencias en materia de orden público;
 
@@ -1579,17 +1583,17 @@ XXIV. Participar en el procedimiento de entrega - recepción de los Ayuntamiento
 
 XXV. Conducir el trabajo administrativo de los regidores cuando se les asigne alguna de las ramas de la administración;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-XXVI. Mancomunar su firma con la del Tesorero para el manejo de las cuentas y operaciones bancarias, así como la del Síndico Procurador,
+XXVI. Mancomunar su firma con la de la Persona Titular de la Secretaría de Finanzas o de la Tesorería Municipal o similar según se le denomine, para el manejo de las cuentas y operaciones bancarias, así como con la de la Persona Titular de la Sindicatura Procuradora;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-XXVII. Remitir juntamente con el Tesorero Municipal a la Auditoría Superior del Estado las cuentas, informes contables y financieros en los términos establecidos en la legislación aplicables (sic) a la Materia; y
+XXVII. Remitir a la Auditoría Superior del Estado, conjuntamente con la Persona Titular de la Secretaría de Finanzas o Tesorería Municipal o similar, según se le denomine, las cuentas, informes contables y financieros en los términos establecidos en la legislación aplicable a la Materia; y
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-XXVIII. Las demás que les otorguen la Ley y los Reglamentos.
+XXVIII. Las demás que les otorguen las Leyes y los Reglamentos.
 
 ###### ARTICULO 74.
 
@@ -1605,9 +1609,11 @@ Las faltas temporales del Presidente Municipal que no excedan de treinta días j
 
 ### CAPITULO VII. DE LOS SINDICOS PROCURADORES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2024)</small>
+
 ###### ARTICULO 77.
 
-Son facultades y obligaciones de los Síndicos Procuradores:
+Son facultades y obligaciones de las Sindicaturas Procuradoras:
 
 I. Procurar defender y promover los intereses patrimoniales y económicos del Municipio;
 
@@ -1627,11 +1633,17 @@ VII. Autorizar la suscripción de créditos públicos y privados;
 
 VIII. Autorizar las adquisiciones de bienes muebles cualquiera que sea el título y su monto;
 
-IX. Supervisar la aplicación de los bandos de policía y buen gobierno, y de toda disposición orientada a proteger el orden público, así como la organización y desempeño de la policía municipal;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-X. Revisar y autorizar los cortes de caja de la Tesorería Municipal;
+IX. Supervisar la aplicación del Bando de Policía y Gobierno y de toda disposición orientada a proteger el orden público, así como la organización y desempeño de la policía municipal;
 
-XI. Asistir a las visitas de inspección o auditoría que se practique a la Tesorería Municipal o a sus oficinas recaudadoras;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+X. Revisar y autorizar los cortes de caja de la Secretaría de Finanzas o Tesorería Municipal o similar, según se denomine;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+XI. Asistir a las visitas de inspección o auditoría que se practique a la Secretaría de Finanzas o Tesorería Municipal o similar, según se denomine o a sus oficinas recaudadoras;
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 2009)</small>
 
@@ -1659,33 +1671,35 @@ XXII. Regularizar los bienes muebles e inmuebles propiedad del Municipio;
 
 XXIII. Verificar que los servidores públicos municipales cumplan con las obligaciones derivadas de la Ley de Responsabilidades de los Servidores Públicos;
 
-XXIV. No ausentarse más de tres días de su Municipio cada mes sin autorización del Ayuntamiento; y no más de cinco días al mes sin la del Congreso, comunicándose previamente lo anterior al Ejecutivo del Estado, y
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+XXIV. No ausentarse más de tres días de su Municipio cada mes sin autorización del Ayuntamiento; y no más de cinco días al mes sin la del Congreso, comunicándose previamente lo anterior al Ejecutivo del Estado;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-XXV.- Concurrir a las reuniones de Síndicos Procuradores a las que convoque el Gobierno del Estado para la definición de normas y procedimientos, así como su aplicación, entratándose de recursos federales y estatales transferidos a los Ayuntamientos o provenientes de créditos;
+XXV. Concurrir a las reuniones de Síndicos Procuradores a las que convoque el Gobierno del Estado para la definición de normas y procedimientos, así como su aplicación, entratándose de recursos federales y estatales transferidos a los Ayuntamientos o provenientes de créditos;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-XXVI.- Vigilar que los ediles y servidores públicos municipales presenten sus declaraciones de situación patrimonial en los términos de la Ley relativa, proveer a ello y, en su caso, formular las denuncias correspondientes al Congreso del Estado y a las demás autoridades competentes;
+XXVI. Vigilar que los ediles y servidores públicos municipales presenten sus declaraciones de situación patrimonial en los términos de la Ley relativa, proveer a ello y, en su caso, formular las denuncias correspondientes al Congreso del Estado y a las demás autoridades competentes;
 
 > <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
 
-XXVII.- Dar cuenta a las autoridades de toda violación a las leyes estatales y federales en que incurran los ediles y los servidores públicos municipales, y formular las denuncias legales correspondientes;
+XXVII. Dar cuenta a las autoridades de toda violación a las leyes estatales y federales en que incurran los ediles y los servidores públicos municipales, y formular las denuncias legales correspondientes;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-XXVIII.- Auxiliar al Tribunal de lo Contencioso Administrativo en lo que éste lo requiera con sujección (sic) a la Ley de Justicia Administrativa y del Tribunal de lo Contencioso Administrativo del Estado de Guerrero, y
+XXVIII. Auxiliar al Tribunal de Justicia Administrativa, con sujeción a la normatividad aplicable; y.
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 1991)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-XXIX. Las demás que les otorguen la Ley y los reglamentos.
+XXIX. Las demás que les otorguen las Leyes y los Reglamentos.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 78.
 
-Los Síndicos Procuradores, cuando sean expresamente autorizados por autoridad competente, podrán fungir como agentes auxiliares del Ministerio Público, o como fedatarios bajo control y supervisión de la Fiscalía General del Estado de Guerrero y de la Secretaría General de Gobierno respectivamente.
+Las Personas Titulares de las Sindicaturas Procuradoras, cuando sean expresamente autorizados por autoridad competente, podrán fungir como Agentes Auxiliares del Ministerio Público, o como Fedatarios bajo control y supervisión de la Fiscalía General del Estado de Guerrero y de la Secretaría General de Gobierno respectivamente.
 
 ### CAPITULO VIII. DE LOS REGIDORES
 
@@ -2015,19 +2029,23 @@ IV. Proponer e implementar programas de modernización de la administración pú
 
 ### CAPITULO III. DE LA TESORERIA MUNICIPAL
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
 ###### ARTICULO 104.
 
-La Tesorería Municipal es el órgano de recaudación de los Ayuntamientos y estará a cargo de un Tesorero que será nombrado por el propio Ayuntamiento a propuesta del presidente municipal.
+La Secretaría de Finanzas o Tesorería Municipal o similar, según se le denomine, es el órgano de recaudación de los Ayuntamientos y estará a cargo de una Persona Titular de la Secretaría o Tesorería o similar, que será nombrada, observando el principio de paridad, por el Ayuntamiento a propuesta de la Persona Titular de la Presidencia Municipal.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 105.
 
-Los requisitos para ser Tesorero Municipal son los mismos que se señalan para ser Secretario del Ayuntamiento y preferentemente, ser profesional en los ramos de contabilidad, finanzas públicas o economía, o tener práctica y conocimientos necesarios en dichas materias.
+Los requisitos para ser Titular de la Secretaría de Finanzas o Tesorería Municipal o similar, según se le denomine, son los mismos que se señalan para ser Titular de (sic) Secretaría General del Ayuntamiento y, preferentemente, deberá ser profesional en las ramas de contabilidad, finanzas públicas, administración pública o economía, o tener práctica y conocimientos necesarios en dichas materias.
 
-###### ARTICULO 106.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2024)</small>
 
-Son facultades y obligaciones del Tesorero Municipal las siguientes:
+###### ARTÍCULO 106.
+
+Son facultades y obligaciones de la Secretaría de Finanzas o Tesorería Municipal o similar, según se denomine, las siguientes:
 
 I. Participar en la formulación de los proyectos de presupuestos de egresos y de ingresos que corresponde al Ayuntamiento;
 
@@ -2051,11 +2069,15 @@ IX. Cuidar de la puntualidad de los cobros fiscales, de la exactitud de las liqu
 
 X. Llevar al día los libros de caja, diario, cuentas corrientes y auxiliares y de registro que sean necesarias para la debida comprobación de los ingresos y egresos;
 
-XI. Llevar la caja de la Tesorería, bajo su personal responsabilidad, y asumir la custodia de los fondos y valores municipales;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+XI. Llevar la caja de la Secretaría de Finanzas o Tesorería Municipal o similar, según se le denomine, bajo su personal responsabilidad, y asumir la custodia de los fondos y valores municipales;
 
 XII. Promover el cobro eficaz de las contribuciones municipales, evitando el rezago en dichas tramitaciones;
 
-XIII. Cuidar que las multas impuestas por las autoridades municipales ingresen a la Tesorería Municipal;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+XIII. Cuidar que las multas impuestas por las autoridades municipales ingresen a la Secretaría de Finanzas o Tesorería Municipal o similar, según se denomine;
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
@@ -2063,31 +2085,37 @@ XIV. Permitir y facilitar la práctica de auditorías provenientes de la Auditor
 
 XV. Glosar oportunamente las cuentas del Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2006)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-XVI. Remitir conjuntamente con el Presidente Municipal al Congreso del Estado, la Cuenta Anual de la Hacienda Pública Municipal y los Informes Financieros cuatrimestrales, en los términos establecidos en la legislación aplicable a la materia;
+XVI. Remitir al Congreso del Estado, conjuntamente con la Persona Titular de la Presidencia Municipal, la Cuenta Pública Anual de la Hacienda Pública Municipal y los Informes Financieros semestrales, en los términos establecidos en la legislación de la materia;
 
-XVII. Presentar mensualmente al Ayuntamiento el corte de caja de la Tesorería Municipal con el visto bueno del Síndico Procurador;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+XVII. Presentar mensualmente al Ayuntamiento el corte de caja de la Secretaría de Finanzas o Tesorería Municipal o similar, según se denomine, con el visto bueno de la Persona Titular de (sic) Sindicatura Procuradora;
 
 XVIII. Obtener del Síndico Procurador la autorización de los gastos que deba realizar la administración municipal;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-XIX. Contestar oportunamente las observaciones que formule la Auditoría Superior del Estado, en relación con las disposiciones del Artículo 102 de la Constitución Política del Estado de Guerrero;
+XIX. Contestar oportunamente las observaciones que formule la Auditoría Superior del Estado, en relación a las disposiciones de los artículos 150 y 153 de la Constitución Política del Estado de Guerrero;
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-XX. Ministrar oportunamente y obtener el acuse de recibo correspondiente de su inmediato antecesor de los pliegos de observaciones y alcances que formula la Auditoría Superior del Estado en ejercicio de sus atribuciones;
+XX. Ministrar oportunamente y obtener el acuse de recibo correspondiente de la Persona inmediata que la antecedió, de los pliegos de observaciones y alcances que formula la Auditoría Superior del Estado en ejercicio de sus atribuciones.
 
-XXI. Informar permanentemente al Presidente Municipal sobre el estado que guarden las finanzas municipales y en particular sobre las partidas que estén próximas a agotarse;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+XXI. Informar permanentemente a la Persona Titular de la Presidencia Municipal, sobre el estado que guarden las finanzas municipales y en particular sobre las partidas que estén próximas a agotarse;
 
 XXII. Organizar el Padrón de contribuyentes municipales con la coordinación de las entidades correspondientes del Gobierno del Estado, y
 
 XXIII. Las demás que les impongan las leyes.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
 ###### ARTICULO 107.
 
-El Tesorero no podrá en ningún caso efectuar pago alguno que no esté contemplado en el presupuesto de egresos correspondiente o que no cuente con la aprobación del Ayuntamiento. Los tesoreros que no cumplieran con esta prevención incurrirán en responsabilidad oficial en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+La Secretaría de Finanzas o Tesorería Municipal o similar, según se denomine, no podrá en ningún caso efectuar pago alguno que no esté contemplado en el presupuesto de egresos correspondiente o que no cuente con la aprobación del Ayuntamiento. Las Personas Titulares de las Secretarías de Finanzas o Tesorerías Municipales o similares, según se denominen, que no cumplan con esta prevención, incurrirán en responsabilidad oficial en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos y demás disposiciones en materia de corrupción.
 
 ###### ARTICULO 108.
 
@@ -2531,11 +2559,11 @@ Las disposiciones relativas a la programación, presupuestación, control y eval
 
 La Auditoría Superior del Estado, deberá auxiliar a la Tesorería municipal, al área responsable de la ejecución de los recursos y al Órgano de Control Interno Municipal, en la inspección, control y evaluación de los Ayuntamientos en materia de presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores, y en general del gasto público.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 142.
 
-La Auditoría Superior del Estado podrá practicar visitas a las Tesorerías Municipales a fin de verificar el cumplimiento de las normas aplicables, así como el conecto (sic) destino de los fondos públicos que éstas manejen.
+La Auditoría Superior del Estado podrá practicar visitas a las Secretarías de Finanzas o Tesorerías Municipales o similares, según se denominen, a fin de verificar el cumplimiento de las normas aplicables, así como el correcto destino de los fondos públicos que éstas manejen.
 
 ###### ARTICULO 143.
 
@@ -2549,13 +2577,11 @@ En función del Municipio y de los agrupamientos del Municipio por regiones se f
 
 El Congreso del Estado analizará las propuestas que presenten los Ayuntamientos para la concertación de empréstitos y resolverá sobre su procedencia haciéndose llegar los elementos de juicio que considere oportunos, en particular sobre las condiciones de los créditos, plazos de amortización, tasas de interés y garantías solicitadas.
 
-> <small>(ADICIONADO, P.O. 5 DE MARZO DE 1991)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
-ARTICULO 145 bis.- Cuando un servidor público municipal aplique los recursos federales o estatales que se le transfieran según las leyes o convenios; para programas o proyectos específicos a gastos municipales distintos a los prevenidos, se hará acreedor a las sanciones que disponga la Ley de Responsabilidades de los Servidores Públicos, sin perjuicio de la aplicación del Código Penal en lo conducente.
+ARTICULO 145 BIS.- Cuando una Persona Servidora Pública Municipal aplique los recursos federales o estatales que se le transfieran, según las leyes o convenios, para programas o proyectos específicos a gastos municipales distintos a los prevenidos, se hará acreedora a las sanciones que disponga esta Ley, la Ley de Responsabilidades Administrativas de los Servidores Públicos y la normatividad en materia de corrupción, sin perjuicio de la aplicación, en lo conducente, del Código Penal.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2024)</small>
-
-Los servidores públicos municipales otorgarán los auxilios e información necesarios para la devolución de los recursos desviados y los correspondientes intereses legales, al personal de la Auditoría Superior del Estado, las áreas de Contraloría y Fiscalización y de las dependencias federales competentes que según las Leyes deban intervenir en estos asuntos.
+Las Personas Servidoras Públicas Municipales otorgarán los auxilios e información necesarios para la devolución de los recursos desviados y los correspondientes intereses legales, al personal de la Auditoría Superior del Estado, a las áreas de Contraloría y Fiscalización y de las dependencias federales competentes que según las Leyes deban intervenir en estos asuntos.
 
 ### CAPITULO II. DE LOS PRESUPUESTOS DE EGRESOS
 
@@ -2611,9 +2637,11 @@ El Presidente municipal, hará entrega a dichos cuerpos colegiados y al Órgano 
 
 ### CAPITULO III. DEL EJERCICIO DEL GASTO PUBLICO MUNICIPAL
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
 ###### ARTICULO 152.
 
-Corresponde a las Tesorerías Municipales ser los órganos de gestión para el ejercicio del gasto público municipal, entendiendo éste como el pago de las erogaciones correspondientes a los presupuestos municipales, así como el manejo de los fondos municipales.
+Corresponde a las Secretarías de Finanzas o Tesorerías Municipales o similar, según se denomine, ser los órganos de gestión para el ejercicio del gasto público municipal, entendiendo éste como el pago de las erogaciones correspondientes a los presupuestos municipales, así como el manejo de los fondos municipales.
 
 ###### ARTICULO 153.
 
@@ -2649,13 +2677,17 @@ Los Ayuntamientos podrán autorizar de manera excepcional la celebración de con
 
 Será causa de responsabilidad para los titulares o directores de las unidades administrativas del Municipio contraer compromisos fuera de las limitaciones del Presupuesto de Egresos y en general acordar erogaciones en forma que no permitan, dentro de los montos autorizados en sus programas respectivos, la atención de los servicios públicos durante el ejercicio fiscal.
 
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
 ###### ARTICULO 160.
 
-Las Tesorerías Municipales deberán vigilar que el ejercicio del presupuesto de egresos se haga en forma estricta, para lo cual tendrán facultades para verificar que toda erogación con cargo a dicho presupuesto esté debidamente justificada, pudiendo rechazar una erogación, si ésta se considera lesiva para los intereses del erario municipal.
+Las Secretarías de Finanzas o Tesorerías Municipales o similar, según se denomine, deberán vigilar que el ejercicio del presupuesto de egresos se haga en forma estricta, para lo cual tendrán facultades para verificar que toda erogación con cargo a dicho presupuesto esté debidamente justificada, pudiendo rechazar una erogación, si ésta se considera lesiva para los intereses del erario municipal.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### ARTICULO 161.
 
-Quedan prohibidos los anticipos y adelantos, cualquier forma que adopten y que no estén sujetos a la plena comprobación ante las Tesorerías Municipales. El Servidor Público que viole esta disposición, ya sea autorizando, otorgando o disponiendo de recursos financieros no sujetos a comprobación, incurrirá en responsabilidad oficial en los términos de esta Ley y de la Ley de Responsabilidades de los Servidores Públicos.
+Quedan prohibidos los anticipos y adelantos, cualquier forma que adopten y que no estén sujetos a la plena comprobación ante las Secretarías de Finanzas o Tesorerías Municipales o similar, según se denomine. La Persona Servidora Pública Municipal que viole esta disposición, ya sea autorizando, otorgando o disponiendo de recursos financieros no sujetos a comprobación, incurrirá en responsabilidad oficial en los términos de esta Ley, de la Ley de Responsabilidades Administrativas de los Servidores Públicos y la legislación en materia de corrupción.
 
 ###### ARTICULO 162.
 
@@ -4590,3 +4622,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
 
 TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 23 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 860, POR MEDIO DEL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al momento de su promulgación y publicación en el Periódico Oficial del Gobierno del Estado del Decreto Número 678 por el que se reforma el artículo 171 numeral 2 y 176 párrafo primero, de la Constitución Política del Estado Libre y Soberano de Guerrero, mediante el cual se modifica la fecha de instalación de los Ayuntamientos de los Municipios del Estado de Guerrero.
+
+SEGUNDO.- Los Ayuntamientos que hayan de instalarse el 30 de septiembre de 2027, por única ocasión, durarán en su encargo hasta el 31 de diciembre de 2030, es decir, tres años y tres meses.
+
+TERCERO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para sus efectos constitucionales y legales conducentes.
+
+CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para su conocimiento general.
