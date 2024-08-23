@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-victimas-para-la-ciudad-de-mexico-126466"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-19"
-last_updated: "2020-09-29"
+last_updated: "2024-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126466&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-02-15"
 
 LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE SEPTIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2024.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el lunes 19 febrero de 2018.
 
@@ -109,6 +109,10 @@ XII. Daño material: Las consecuencias patrimoniales del delito o de las violaci
 XIII. Delito: Acto u omisión que sancionan las leyes penales;
 
 XIV. Desplazamiento forzado interno: La condición de aquellas personas o grupos de personas obligadas a escapar o huir de su hogar o de su lugar de residencia, como resultado de situaciones de violencia generalizada, de violaciones de derechos humanos o de catástrofes naturales o provocadas por el ser humano, sin que ello implique que crucen una frontera estatal internacionalmente reconocida;
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2024)</small>
+
+XIV Bis. Familia social: Son aquellas personas que pertenecen al círculo más cercano de la víctima, es decir, amistades, compañeros o compañeras de trabajo o de vivienda o cualquier otra que tenga una relación estrecha y reconocida con la víctima.
 
 XV. Fiscalía: A la Fiscalía General de Justicia de la Ciudad de México;
 
@@ -2663,3 +2667,11 @@ G.O. 29 DE SEPTIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO TERCERO Y SE ADICIONA UN PÁRRAFO CUARTO RECORRIENDO LOS SUBSECUENTES, DEL ARTÍCULO 55; Y SE REFORMA EL ARTÍCULO 64; AMBOS DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 23 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL PÁRRAFO PRIMERO DEL ARTÍCULO 69 TER, LA FRACCIÓN VIII DEL ARTÍCULO 138, EL SEGUNDO PÁRRAFO, LA FRACCIÓN IX Y EL INCISO A) DEL PÁRRAFO QUINTO, DEL ARTÍCULO 148 BIS; SE ADICIONA UN CAPÍTULO VII, AL TÍTULO PRIMERO DEL LIBRO SEGUNDO PARTE ESPECIAL, Y UN ARTÍCULO 148 TER, AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 118 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL; SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 37; SE ADICIONAN LAS FRACCIONES V, VI, VII AL ARTÍCULO 37, Y LAS FRACCIONES XXIV, XXV, XXVI, AL ARTÍCULO 65, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO Y SE ADICIONA UNA FRACCIÓN XIV BIS AL ARTÍCULO 3 DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
