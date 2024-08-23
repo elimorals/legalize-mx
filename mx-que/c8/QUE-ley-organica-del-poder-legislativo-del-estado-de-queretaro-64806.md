@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-6480
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-12-01"
-last_updated: "2023-11-28"
+last_updated: "2024-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64806&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 1 de diciembre de 2008.
 
@@ -51,7 +51,9 @@ LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO
 
 (Objeto de la ley) Esta Ley tiene por objeto establecer la organización, funciones y atribuciones del Poder Legislativo del Estado de Querétaro, de sus órganos y dependencias; normar los procedimientos que derivan de esas atribuciones previstas en la Constitución Política del Estado de Querétaro, así como definir los derechos y obligaciones de los integrantes de la Legislatura y de los servidores públicos del Poder Legislativo.
 
-Las disposiciones de esta Ley no son transigibles por vía de acuerdo de la Legislatura o de sus órganos, ni su vigencia u observancia podrán, por este concepto, suspenderse u obviarse.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Las disposiciones de esta Ley no son transigibles por vía de acuerdo de la Legislatura o de sus órganos, ni su vigencia y observancia podrán, por este concepto, suspenderse u obviarse. Las reformas a esta Ley requieren ser aprobadas con el voto de la mayoría calificada.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -184,6 +186,16 @@ La información y documentación deberá indicar el estado de los asuntos de su 
 (Servicio Profesional de Carrera) El Servicio Profesional de Carrera es un procedimiento administrativo de selección y capacitación de personal, que permitirá el ingreso, capacitación, desarrollo, promoción y permanencia de los servidores públicos del Poder Legislativo, basado en la experiencia laboral, especialización, preparación profesional, registros de evaluación periódica y calificación de sus funciones, con el fin de impulsar la profesionalización del servicio público.
 
 Los parámetros, criterios, funcionamiento y operación del Servicio Profesional de Carrera del Poder Legislativo, se resolverá de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 23 DE AGOSTO DE 2024)</small>
+
+La Mesa Directiva será la encargada de:
+
+I. Expedir las constancias de certificación, diplomas y reconocimientos con motivo de la profesionalización;
+
+II. Promover la certificación de procesos de formación, capacitación o especialización; y
+
+III. Suscribir instrumentos de colaboración académica, con instituciones de enseñanza superior o especializada, públicas o privadas.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -643,17 +655,25 @@ Cuando la iniciativa proponga la creación de organismos, dependencias o la ampl
 
 (Iniciativas presentadas por particulares) Las iniciativas de particulares serán presentadas en los términos de la Constitución Política del Estado de Querétaro, la Ley de Participación Ciudadana del Estado de Querétaro y la presente Ley
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 44.
 
-(Turno de iniciativa) La Presidencia de la Legislatura dentro de un plazo de 7 días hábiles contados a partir de la recepción de Iniciativas, realizará el turno a la Comisión de dictamen que estime competente.
+(Turno de iniciativa) La Secretaría de Servicios Parlamentarios, dentro de un plazo de 7 días hábiles contados a partir de la recepción de iniciativas, realizará el turno a la Comisión de dictamen que estime competente.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 Cuando las iniciativas presentadas no cumplan con los requisitos establecidos en la presente ley, se prevendrá al autor para que en un plazo no mayor de 10 días subsane, aclare o corrija las irregulares que correspondan.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 Cuando la iniciativa sea presentada por varios autores, bastará notificar la prevención a uno de ellos para que subsane las irregularidades o realice las aclaraciones que correspondan.
 
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+
 Las iniciativas turnadas se harán del conocimiento de los integrantes de la Comisión acusando recibo respectivo de sus oficinas, y se harán del conocimiento de los demás diputados mediante correo electrónico institucional de la Secretaría de Servicios Parlamentarios.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 Las iniciativas presentadas se harán del conocimiento público en el portal de internet de la Legislatura, en un plazo de 10 días hábiles.
 
@@ -667,19 +687,23 @@ Para los efectos de este supuesto, por autor se entiende la o las personas que s
 
 Cuando la iniciativa haya sido firmada por más de una persona, se requiere que la totalidad de quienes la signaron manifiesten su voluntad de retirarla.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 46.
 
-(Acumulación de iniciativas) Cuando se propongan dos o más iniciativas en un mismo sentido o relativas a un mismo ordenamiento, la Presidencia de la Legislatura, a solicitud del presidente de la Comisión respectiva, podrá ordenar que se dictaminen conjuntamente.
+(Acumulación de iniciativas) Cuando se propongan dos o más iniciativas en un mismo sentido o relativas a un mismo ordenamiento, podrán dictaminarse conjuntamente.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 47.
 
-(Reasignación de iniciativas) La Presidencia de la Legislatura podrá reasignar iniciativas a una Comisión distinta a la de origen cuando:
+(Reasignación de iniciativas) Las iniciativas podrán ser reasignadas a una comisión distinta a la de origen, previo acuerdo suscrito por quien Presida la MD y quien presida la JCP, siempre y cuando:
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 I. Existan otras iniciativas pendientes de dictamen que estén relacionadas con la iniciativa que se pretenda reasignar.
+
+> <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 II. Se determine que existe inactividad legislativa injustificada de por lo menos 4 meses del asunto de mérito, contados a partir de su turno.
 
@@ -745,11 +769,13 @@ V. Emitido el dictamen, la Comisión notificará el mismo a los Ayuntamientos, q
 
 VI. Hecho lo anterior, la Comisión presentará ante el Pleno el dictamen correspondiente.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 52.
 
-(Ingreso de dictámenes) Aprobado un dictamen por la comisión respectiva, deberá ingresarse por Oficialía de Partes, a efecto de que sea considerado por la Mesa Directiva para su inclusión en la Sesión de Pleno que determine.
+(Ingreso de dictámenes) Aprobado un dictamen por la comisión respectiva, deberá ingresarse por Oficialía de Partes, a efecto de que sea considerado por la Mesa Directiva para su inclusión en la Sesión de Pleno que determine, así mismo deberá ser remitido a los diputados integrantes de la legislatura;
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 Los dictámenes deberán presentarse impresos y con firmas autógrafas, acompañando archivo electrónico en formato de procesador de textos editable para su incorporación en la edición que corresponda de la Gaceta Legislativa.
 
@@ -1169,9 +1195,9 @@ III. El orden del día; y
 
 IV. La firma autógrafa o firma electrónica de la Presidencia de la Legislatura, de conformidad con la presente Ley.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
-La convocatoria deberá ser remitida al menos con un día de anticipación a la fecha en que habrá de celebrarse la sesión.
+La convocatoria deberá ser remitida al menos con 48 horas de anticipación a la fecha y hora en que habrá de celebrarse la sesión.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1523,6 +1549,10 @@ Las relaciones contractuales entre las personas que no hayan sido contratadas po
 
 La Presidencia de la Legislatura conducirá los trabajos del Poder Legislativo hasta por seis meses; en cada caso se especificará la duración del ejercicio correspondiente.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+La Presidencia de la Legislatura reflejará en su composición la paridad, pluralidad y proporción de los Grupos Parlamentarios que integren (sic) Pleno por lo que será rotativa en género y entre cada uno de los distintos grupos y fracciones representados en la Legislatura por lo que el mismo grupo o fracción, no podrá ostentar la Presidencia por dos periodos consecutivos.
+
 En su actuación, la Mesa Directiva observará los principios de legalidad, imparcialidad y objetividad, haciendo prevalecer el interés general de la Legislatura sobre el particular de sus integrantes o sus órganos.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
@@ -1577,11 +1607,15 @@ XII. Supervisar y ordenar el trabajo de la Dirección de Investigación y Estad�
 
 XIII. Designar, en caso de ausencia temporal o definitiva de los titulares de las dependencias del Poder Legislativo, a propuesta de la Junta de Coordinación Política, a quienes de manera interina deban llevar a cabo las funciones de los titulares;
 
-> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-XIV. Conceder, atendiendo a la suficiencia presupuestal del Poder Legislativo del Estado de Querétaro, reconocimientos por la trayectoria, méritos y valores de ciudadanos ejemplares para la sociedad queretana; y
+XIV. Conceder, atendiendo a la suficiencia presupuestal del Poder Legislativo del Estado de Querétaro, reconocimientos por la trayectoria, méritos y valores de ciudadanos ejemplares para la sociedad queretana;
 
-XV. Ejercer las demás atribuciones que le confiera este ordenamiento y las normas que de él se deriven.
+> <small>(ADICIONADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+XV. Elaborar y celebrar convenios de colaboración con diversas organizaciones, ya sea en el ámbito internacional, federal, estatal o municipal; que busquen la innovación, modernización o fortalecimiento institucional, a través de prácticas parlamentarias y demás actividades legislativas; y
+
+XVI. Ejercer las demás atribuciones que le confiera este ordenamiento y las normas que de él se deriven.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1621,13 +1655,7 @@ X. Solicitar a sus autores, la aclaración que estime pertinente de la documenta
 
 XI. Vigilar, con apoyo de los integrantes de la Mesa Directiva, que los acuerdos, iniciativas, dictámenes, proyectos, informes, propuestas, mociones, comunicados y demás escritos, cumplan con las normas que regulan su contenido y trámite; así como instar a las Comisiones para que emitan sus dictámenes en los términos de la presente Ley;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2016)</small>
-
-XII. Turnar a los órganos y dependencias que correspondan, los asuntos de su competencia. Para ejercer esta facultad, el Presidente podrá consultar la opinión de los integrantes de la Junta de Coordinación Política;
-
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2020)</small>
-
-Cuando a consideración de la Presidencia de la Mesa Directiva, haya asuntos o iniciativas que deban ser analizados al seno de más de una comisión, mediante Acuerdo podrá determinar e instruir los trabajos en comisiones unidas, señalando las comisiones que estarán involucradas, el Diputado o la Diputada que fungirán en la Presidencia y en la Secretaría de las comisiones unidas, los asuntos o iniciativas que habrán de desahogarse, así como las cuestiones especiales que al efecto se consideren necesarias;
+XII. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
 XIII. Declarar la aprobación o el rechazo de la Legislatura, respecto de los asuntos que le sean sometidos a votación;
 
@@ -1801,6 +1829,10 @@ Cuando exista empate en las votaciones de las resoluciones de la Mesa Directiva,
 
 A las sesiones de la Mesa Directiva asistirá la Secretaría de Servicios Parlamentarios a efecto de que participe e informe de los asuntos recibidos y pendientes de resolución por parte de dicho órgano.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Los acuerdos que se determinen en las sesiones de la Mesa Directiva serán aprobados por mayoría de votos.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
 #### Sección Tercera. Junta de Coordinación Política
@@ -1819,11 +1851,13 @@ Para su funcionamiento deberá estar presente el Presidente de la Junta de Coord
 
 (Asignación presupuestal) Para cumplir con sus atribuciones, contará con el presupuesto que le asigne la Legislatura, mismo que será ejercido por su Presidente.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 137.
 
-(Composición de la Junta de Coordinación Política) La Junta de Coordinación Política estará compuesta por una Presidencia y una Secretaría que ocuparán respectivamente los coordinadores de los Grupos con mayor representación en el Congreso con base en los resultados de la última elección local; los demás coordinadores de los Grupos y Fracciones serán considerados integrantes.
+(Composición de la Junta de Coordinación Política) La Junta de Coordinación Política estará compuesta por una Presidencia y una Secretaría. Los demás coordinadores de los Grupos y Fracciones serán considerados integrantes.
+
+La Presidencia de la Junta de Coordinación Política será para la persona que sea coordinadora del partido político con mayor votación obtenida respecto a la elección de las diputaciones locales, conforme a los resultados de la última elección en la entidad. La Presidencia de la Junta de Coordinación Política será por todo el periodo de la Legislatura.
 
 > <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2016)</small>
 
@@ -1905,11 +1939,11 @@ Cada Presidente de la Junta de Coordinación Política rendirá, al abandonar su
 
 En las sesiones de la Junta en las que se desahoguen asuntos de trámite legislativo se podrá invitar a la Presidencia de la Mesa Directiva.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 142.
 
-(Acuerdos de la Junta de Coordinación Política) Las decisiones de la Junta de Coordinación Política sobre los asuntos que sean de su conocimiento y requieran la emisión de un acuerdo o propuesta, serán adoptadas, preferentemente, por consenso, en caso de que éste no se obtenga será por mayoría de votos, ponderando el porcentaje de la representatividad que corresponda a los Coordinadores de los Grupos y Fracciones Legislativas presentes, atendiendo para ello al número de Diputados que los integre, en relación con la conformación total de la Legislatura en ejercicio constitucional.
+(Acuerdos de la Junta de Coordinación Política) Las decisiones de la Junta de Coordinación Política sobre los asuntos que sean de su competencia y requieran la emisión de un acuerdo o propuesta, serán adoptadas, preferentemente, por unanimidad, en caso de que ésta no se obtenga, será por mayoría de votos. En caso de empate, la Presidencia de la Junta de Coordinación Política tendrá voto de calidad.
 
 (REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2018) (F. DE E., P.O. 17 DE OCTUBRE DE 2018)
 
@@ -1953,7 +1987,9 @@ II. Formular las propuestas y proyectos de dictamen que se discutirán al seno d
 
 III. Realizar en los términos de la presente Ley, invitaciones a particulares, requisiciones de información oficial, solicitudes de comparecencia de servidores públicos, inspecciones, encuestas, foros y consultas, y demás actuaciones necesarias para la investigación, estudio y desahogo de los asuntos que les sean encomendados;
 
-En caso de negativa para comparecer por parte de los servidores públicos, ésta se comunicará al Pleno de la Legislatura para que acuerde lo conducente;
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Las solicitudes de comparecencia de servidores públicos requieren previamente de un acuerdo aprobado conjuntamente por la Junta de Coordinación Política y la Mesa Directiva. En caso de negativa para comparecer por parte de los servidores públicos, ésta se comunicará al Pleno de la Legislatura para que acuerde lo conducente.
 
 IV. Establecer, en su caso, planes y programas de trabajo, y los plazos e instrumentos para su evaluación;
 
@@ -2167,11 +2203,11 @@ El Presidente tendrá voto de calidad en caso de empate en la votación de los a
 
 En caso de circunstancias extraordinarias que impidan llevar a cabo una sesión presencial, ésta podrá llevarse a cabo de forma virtual, previo Acuerdo emitido por la Presidencia de la Mesa Directiva.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 152.
 
-(Tiempo de la convocatoria) La convocatoria a sesiones de las Comisiones, será expedida por su Presidente y remitida a sus integrantes por escrito o a través de medios electrónicos, al menos con un día de anticipación a la fecha en que haya de celebrarse la sesión y con aviso a la Secretaría de Servicios Parlamentarios, Oficialía Mayor, Dirección de Comunicación Social y Dirección de Investigación y Estadística Legislativa, para que brinden el apoyo necesario en el ámbito de sus responsabilidades.
+(Tiempo de la convocatoria). La convocatoria a sesiones de las Comisiones, será expedida por su Presidente y remitida a sus integrantes por escrito o a través de medios electrónicos, al menos con 48 horas de anticipación a la fecha y hora en que haya de celebrarse la sesión y con aviso a la Secretaría de Servicios Parlamentarios, Oficialía Mayor, Dirección de Comunicación Social y Dirección de Investigación y Estadística Legislativa, para que brinden el apoyo necesario en el ámbito de sus responsabilidades.
 
 > <small>(ADICIONADO, P.O. 14 DE MAYO DE 2019)</small>
 
@@ -2329,6 +2365,10 @@ La propuesta para designar titulares de las citadas dependencias se realizará e
 
 Los titulares en funciones continuarán desarrollando sus actividades institucionales, hasta en tanto el Pleno de la Legislatura los ratifique o designe a otra persona.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+La designación y remoción de los titulares de las dependencias requiere ser aprobada con el voto de la mayoría calificada.
+
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 164.
@@ -2338,6 +2378,10 @@ Los titulares en funciones continuarán desarrollando sus actividades institucio
 En caso de ausencia temporal por más de 15 días hábiles o ausencia definitiva de los titulares de las dependencias, la Presidencia de la Mesa Directiva, a propuesta de la Presidencia de la Junta de Coordinación Política, designará a quienes de manera interina y hasta por un plazo de noventa días naturales, deban llevar a cabo las funciones de los titulares; plazo que podrá prorrogarse hasta en dos ocasiones, por periodos iguales, para el buen funcionamiento de la Legislatura.
 
 Cuando la ausencia sea temporal hasta por 15 días hábiles, el Presidente de la Mesa Directiva determinará lo conducente.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+La remoción y ratificación de los titulares de las dependencias requiere ser aprobada con el voto de la mayoría calificada.
 
 ###### Artículo 165.
 
@@ -2671,9 +2715,9 @@ VI. Los demás asuntos que a juicio de la Presidencia de la Legislatura, deban h
 
 Los documentos que aparezcan en la Gaceta Legislativa tendrán el carácter de informativos. Las modificaciones hechas a los mismos con posterioridad a la edición de la Gaceta, no constituyen responsabilidad para la Legislatura del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2024)</small>
 
-La Gaceta Legislativa se remitirá a los diputados a un correo electrónico institucional, el día anterior a aquel en que se celebre la sesión, salvo casos excepcionales que acuerde la Presidencia de la Legislatura.
+La Gaceta Legislativa se remitirá a los diputados a un correo electrónico institucional, cuarenta y ocho horas antes de la hora en que se celebre la sesión, salvo casos excepcionales que acuerde la Presidencia de la Legislatura.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3574,5 +3618,15 @@ P.O. 28 DE NOVIEMBRE DE 2023.
 Artículo Primero. La presente Ley entrará en vigor el día de su aprobación por el Pleno de la Sexagésima Legislatura del Estado de Querétaro.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 23 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día de su aprobación por el Pleno de la Sexagésima Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
