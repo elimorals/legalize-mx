@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-de-la-secretaria-de-infraestructura-165865"
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-04-28"
-last_updated: "2024-06-28"
+last_updated: "2024-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y REORDENACIÓN TERRITORIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2024.
 
 Reglamento publicado en el Número 23 del Periódico Oficial del Estado de Baja California, el viernes 28 de abril de 2023.
 
@@ -95,7 +95,9 @@ IX. Reglamento: El Reglamento Interno de la Secretaría de Infraestructura, Desa
 
 X. Secretaría: La Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
-XI. Subsecretarias: La Subsecretaría de Infraestructura, Gubernamental, Social y Productiva, y la Subsecretaría de Reordenación Territorial y Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+XI. Subsecretarías: La Subsecretaría de Infraestructura Gubernamental, Social y Productiva, la Subsecretaría de Reordenación Territorial y Desarrollo Urbano y la Subsecretaría de Planeación, Inversión Sectorial y Control de Obra;
 
 XII. Titular de la Secretaría: La persona Titular de la Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
@@ -111,7 +113,7 @@ I. Oficina de la Persona Titular:
 
 a) Dirección Jurídica;
 
-b) Dirección Técnica de Inversión;
+b) (DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 c) Dirección de Administración y Transparencia:
 
@@ -135,15 +137,7 @@ a) Dirección de Obras de Infraestructura y Edificación:
 
 5. Departamento de Control y Seguimiento de Obra.
 
-b) Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras:
-
-1. Departamento de Programación Sectorial;
-
-2. Departamento de Costos;
-
-3. Departamento de Atención, Seguimiento y Evaluación Sectorial, y
-
-4. Departamento de Licitación y Contratación de Obra.
+b) (DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE JUNIO DE 2024)</small>
 
@@ -177,17 +171,39 @@ b) Dirección de Desarrollo Urbano y Vivienda:
 
 2. Departamento de Vivienda.
 
-IV. Delegación Tijuana-Playas de Rosarito:
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE AGOSTO DE 2024)</small>
+
+IV. Subsecretaría de Planeación, Inversión Sectorial y Control de Obra:
+
+a) Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras:
+
+1. Departamento de Programación Sectorial;
+
+2. Departamento de Costos;
+
+3. Departamento de Atención, Seguimiento y Evaluación Sectorial, y
+
+4. Departamento de Licitación y Contratación de Obra.
+
+b) Dirección Técnica de Inversión.
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+V. Delegación Tijuana-Playas de Rosarito:
 
 1. Departamento de Construcción y Servicios Técnicos Tijuana-Rosarito.
 
-V. Delegación Ensenada:
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+VI. Delegación Ensenada:
 
 1. Departamento de Construcción y Servicios Técnicos Ensenada, y
 
 2. Subdelegación San Quintín.
 
-VI. Delegación Tecate:
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 23 DE AGOSTO DE 2024)</small>
+
+VII. Delegación Tecate:
 
 1. Departamento de Construcción y Servicios Técnicos Tecate.
 
@@ -341,7 +357,7 @@ Para el estudio, planeación y desarrollo de los asuntos y el desempeño de las 
 
 a. Dirección Jurídica;
 
-b. Dirección Técnica de Inversión, y
+b. (DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 c. Dirección de Administración y Transparencia.
 
@@ -397,69 +413,7 @@ XXIII. Las demás atribuciones que le confieran la persona superior jerárquica 
 
 ###### Artículo 16.
 
-Corresponde a la Dirección Técnica de Inversión, por conducto de su titular, el ejercicio de las atribuciones siguientes:
-
-I. Elaborar los análisis y opiniones técnicas de los proyectos que se realicen en el marco de APP, en apego a los lineamientos y normativa vigente en la materia;
-
-II. Integrar y administrar expedientes de proyectos de APP con base en la evaluación, información y prioridades que presenten las Dependencias y Entidades Paraestatales, los municipios del Estado y las personas de derecho público estatal con autonomía derivada de la Constitución Política del Estado Libre y Soberano de Baja California, independientemente de la fuente de financiamiento;
-
-III. Recibir las solicitudes de proyectos de APP que determine el Comité Estatal, a efecto de revisar si cumplen con la normativa aplicable;
-
-IV. Verificar, en coordinación con las instancias competentes, la congruencia de los proyectos de APP con los objetivos, prioridades y estrategias del Plan Estatal de Desarrollo;
-
-V. Integrar y proponer el programa anual de Proyectos de APP ante la Secretaría y al Comité Estatal, así como evaluar las inversiones que resulten, verificando en todo momento que cumplan con los lineamientos y políticas que emita el referido Comité Estatal;
-
-VI. Llevar a cabo los procesos de supervisión de los proyectos de APP que se realicen en el Estado, a fin de garantizar que se estén llevando a cabo en cumplimiento a los ordenamientos legales que dieron origen al contrato de APP;
-
-VII. Preparar y publicar por instrucción del Comité Estatal, los lineamientos relativos a la rentabilidad social y la conveniencia del esquema de asociación público-privada, así como los demás lineamientos que, de acuerdo a la ley de la materia y su reglamento, corresponda o convenga expedir a dicho Comité Estatal;
-
-VIII. Prestar la asesoría que soliciten las Dependencias y Entidades Paraestatales respecto de los lineamientos y criterios a que se refiere la fracción anterior;
-
-IX. Revisar los análisis para determinar la viabilidad y procedencia de un proyecto de APP competencia de la Secretaría, que se reciba por parte de las Dependencias y Entidades Paraestatales o por vía de proyecto no solicitado, emitiendo su opinión al Comité Estatal, en un plazo que no exceda de 30 días hábiles;
-
-X. Dar seguimiento al proceso de ejecución de los proyectos de APP, emitiéndose los reportes de avance necesarios en cumplimiento a la normativa en la materia;
-
-XI. Analizar, proponer y promover en coordinación con las instancias competentes, esquemas de asociación público-privada;
-
-XII. Analizar técnicamente los estudios preliminares que los promotores presentan a las instancias ejecutoras de la administración pública estatal y municipios, a fin de emitir opiniones técnicas respecto a su contenido y verificar la conveniencia de ser proyectos no solicitados;
-
-XIII. Intervenir, en coordinación con las instancias competentes, en el desarrollo de los proyectos de APP que impulsen las Dependencias y Entidades Paraestatales, a fin de promover su ejecución, observando el cumplimiento de las disposiciones aplicables en materia de APP;
-
-XIV. Administrar, en coordinación con las Unidades Administrativas competentes, los sistemas de información que requiera para el cumplimiento de sus atribuciones;
-
-XV. Hacer pública, en los términos de las disposiciones aplicables, la información en materia de programas y proyectos de APP, salvo aquella que la Dependencia o Entidad Paraestatal interesada haya señalado como de naturaleza reservada o confidencial en términos de la Ley de Transparencia;
-
-XVI. Analizar la experiencia nacional e internacional en el diseño y aplicación de normas y metodologías en materia de proyectos de APP, así como participar en foros y organismos nacionales e internacionales en temas relacionados con el ámbito de su competencia;
-
-XVII. Participar en la emisión de opiniones técnicas ante el Comité Estatal que sean solicitadas a la Secretaría;
-
-XVIII. Elaborar, actualizar y fomentar las normas y especificaciones técnicas para las licitaciones y contratación de los proyectos de APP que lleve a cabo el Gobierno del Estado;
-
-XIX. Resolver los asuntos que las disposiciones legales que rigen la materia de proyectos de APP atribuyan a la Secretaría de Hacienda o a la Secretaría, siempre y cuando no formen parte de las facultades indelegables del Titular de la Secretaría y no estén asignadas expresamente al Comité Estatal o a alguna Unidad Administrativa o a la Secretaría de Hacienda;
-
-XX. Promover las normas, políticas, lineamientos y especificaciones de las APP en el ámbito estatal, municipal y particulares interesados que así lo soliciten;
-
-XXI. Elaborar, integrar y presentar toda la documentación técnica, administrativa y financiera ante las instancias conducentes para que, en el marco de la normativa vigente, emitan las opiniones y viabilidades requeridas conforme a la Ley de Asociaciones Público Privadas para el Estado de Baja California y su reglamento, así como los lineamientos que emita el Comité Estatal;
-
-XXII. Vigilar el ejercicio de los programas de proyectos de APP que ejecute el Estado, a fin de verificar el cumplimiento de las metas físicas, financieras y normativas establecidas;
-
-XXIII. Llevar a cabo el proceso de licitación de todos los proyectos que se aprueben por el Comité Estatal, gestionar y publicar la convocatoria, bases de licitación y demás acciones que establezcan los ordenamientos legales en la materia, en coordinación con la Oficialía Mayor de Gobierno para su publicación;
-
-XXIV. Elaborar los contratos de APP que se generen para el debido cumplimiento de los proyectos que sean aprobados por el Comité Estatal, siendo sometidos a opinión jurídica, administrativa y técnica para su autorización;
-
-XXV. Apoyar jurídicamente a las áreas de la Secretaría para el debido cumplimiento de los programas de APP y, en su caso, asesorarse de las áreas que para el efecto le sean necesarias;
-
-XXVI. Coordinar y dar seguimiento a los procesos de auditoría que se lleven para los proyectos de APP, así como la solventación de las observaciones derivadas de los mismos;
-
-XXVII. Llevar el registro anual del padrón de desarrolladores interesados en participar en proyectos de APP, integrando para tal efecto las políticas y lineamientos que emita el Comité Estatal;
-
-XXVIII. Planear, organizar y llevar a cabo reuniones de trabajo con instancias de gobierno y promotores de proyectos no solicitados, para la orientación y aplicación de la normativa en la materia;
-
-XXIX. Integrar el informe mensual de las actividades realizadas por la Dirección a su cargo, para proporcionar la información necesaria a la Subsecretaría de Infraestructura Gubernamental, Social y Productiva, a fin de consolidar el informe que rinde el Ejecutivo Estatal ante el Congreso del Estado;
-
-XXX. Gestionar y coordinar acciones tendientes a realizar proyectos de inversión para las Entidades del Sector, en congruencia con los objetivos de la planeación estatal, y
-
-XXXI. Las demás que le confieran las leyes, reglamentos y las que el Comité Estatal considere necesarias para el cumplimiento de su objeto.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 ###### Artículo 17.
 
@@ -635,47 +589,51 @@ Cuando alguna Unidad Administrativa se negare a colaborar con la Unidad de Trans
 
 Corresponde a la Subsecretaría de Infraestructura Gubernamental, Social y Productiva, por conducto de la persona Titular, el ejercicio de las atribuciones siguientes:
 
-I. Coordinar el proceso de planeación, proyección y gestión de recursos para la infraestructura, obra pública y servicios relacionados con la misma, competencia de la Secretaría;
+I. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
-II. Vigilar y coordinar el proceso de planeación, proyección, ejecución y supervisión de la infraestructura y obra pública competencia de la Secretaría y servicios relacionados con la misma, en apego a la normativa aplicable, conforme a los proyectos, programas y contratos respectivos;
+II. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
-III. Integrar el Programa de Infraestructura y Obra Pública Anual con apoyo de las diversas Unidades Administrativas de la Secretaría, así como difundirlo a éstas, señalando prioridades, tiempos de ejecución y su debido seguimiento;
+III. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
 IV. Coordinar todas aquellas solicitudes que se relacionen con la infraestructura de salud, infraestructura educativa, infraestructura vial, infraestructura de movilidad urbana, infraestructura deportiva, vivienda y edificación de las obras que se le asignen y que representen un beneficio para el Estado;
 
 V. Coordinar la elaboración de los estudios técnicos, anteproyectos conceptuales y proyectos ejecutivos vigilando que contengan los estudios necesarios para la contratación y la ejecución de las obras;
 
-VI. Coordinar la integración de los expedientes técnicos para acceder a los recursos de los diferentes programas federales;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+VI. Coordinar la integración de expedientes técnicos, en conjunto con las demás Subsecretarías competentes, para acceder a los recursos de diferentes programas federales;
 
 VII. Autorizar, coordinar, orientar, ejecutar y vigilar las acciones de trabajo para la realización de los estudios técnicos, anteproyectos y proyectos conceptuales que competen a la Secretaría, y revisar, integrar y administrar los derivados de convenios celebrados con instancias federales, estatales y municipales, con base en sus diferentes programas;
 
 VIII. Coordinar la integración, actualización y resguardo de los expedientes técnicos de la obra pública en sus diferentes etapas;
 
-IX. Ejercer de conformidad con la normativa aplicable, el presupuesto de inversión de la infraestructura que le hayan sido asignadas, así como de las acciones del programa de infraestructura y obras públicas de las áreas metropolitanas de Baja California, además de las que se le asignen, por administración directa o por contrato, supervisando su aplicación oportuna y eficiente;
+IX. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
-X. Validar en conjunto con la persona Titular de la Secretaría las estimaciones generadas en los procesos de realización de los estudios técnicos, anteproyectos, proyectos conceptuales de su competencia, así como las generadas por la ejecución de la obra de conformidad con las normas, lineamientos y criterios específicos que se determine en la legislación vigente;
+X. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
 XI. Proponer a la persona Titular de la Secretaría la incorporación de los requerimientos de infraestructura al Plan Estatal de Desarrollo y a los programas de desarrollo urbano;
 
-XII. Participar de acuerdo a la normativa aplicable conjuntamente con los organismos representativos de los sectores público, social y privado, en la planeación, seguimiento y evaluación de los programas a cargo de la Secretaría, en materia de obra pública e infraestructura que se realicen en el Estado;
+XII. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
 XIII. Proponer las medidas necesarias para la simplificación de trámites, sistemas de control y seguimiento en la ejecución de programas y proyectos infraestructura y obra pública;
 
-XIV. Validar e integrar los anteproyectos de programas sectoriales de corto y mediano plazo en materia de obra pública y desarrollo urbano de la Secretaría, y someterlos a consideración de la persona Titular de la Secretaría;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-XV. Vigilar en el ámbito de su competencia la ejecución de los procesos de celebración de concursos y contratos; integración de expedientes técnicos y control financiero de las obras públicas a cargo de la Secretaría;
+XIV. Validar los anteproyectos de programas sectoriales de corto y mediano plazo en materia de obra pública y desarrollo urbano de la Secretaría, y someterlos a consideración de la persona titular de la Secretaría;
+
+XV. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
 XVI. Promover proyectos de infraestructura gubernamental, social y productiva que coadyuven a satisfacer las necesidades básicas de la población en estado de vulnerabilidad, así como al fortalecimiento de la base productiva y valor agregado de la misma con obras de infraestructura productiva, facilitando la producción, transformación y comercialización de diversos productos en distritos en condición vulnerable;
 
-XVII. Validar normativamente los procesos de programación, presupuestación, control, seguimiento y evaluación del gasto público, así como vigilar el cumplimiento de la normativa establecida a las Entidades del Sector;
+XVII. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
-XVIII. Coordinar, evaluar y proponer las medidas y acciones para contribuir al mejoramiento de la organización y funcionamiento administrativo de las Entidades del Sector;
+XVIII. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
 XIX. Representar a la persona Titular de la Secretaría en las sesiones de órganos de gobierno de las Entidades del Sector;
 
-XX. Proporcionar información de los programas de obras públicas del sector, a diferentes dependencias del gobierno federal y estatal, para la integración, seguimiento y evaluación de los mismos;
+XX. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
-XXI. Validar los movimientos presupuestales del área y de los programas de inversión pública, relativos a la autorización, aprobación, transferencia, traspaso, ampliación, reducción y, en su caso, la cancelación correspondiente para posteriormente formalizarlo ante las autoridades correspondientes en los términos de la normativa aplicable;
+XXI. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
 XXII. Coordinar la realización de estudios y proyectos y la ejecución de los programas de obra pública a cargo de la Secretaría, así como evaluar los resultados;
 
@@ -689,9 +647,7 @@ Quedan adscritas a la Subsecretaría de Infraestructura Gubernamental, Social y 
 
 a) Dirección de Obras de Infraestructura y Edificación;
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
-
-b) Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras;
+b) (DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2024)</small>
 
@@ -709,17 +665,25 @@ I. Vigilar la ejecución y realización de actividades en materia de construcci�
 
 II. Ejecutar las obras de infraestructura y edificaciones, así como las acciones que por sus características sean encomendadas a la Secretaría, cumpliendo con la normativa aplicable en materia de obra pública;
 
-III. Validar y coordinar la formulación del programa anual de las obras públicas y servicios relacionados con las mismas, así como las acciones tendientes a la construcción, reconstrucción, ampliación, modificación, mejoramiento, conservación, mantenimiento y modernización en materia de obra pública, infraestructura y de comunicaciones;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-IV. Validar los expedientes técnicos de obras de infraestructura, edificación y equipamiento, para la aprobación de recursos financieros y su contratación, que se encomienden a la Secretaría y a las Entidades del Sector, con base a los lineamientos establecidos;
+III. Coadyuvar con la Subsecretaría de Planeación, Inversión Sectorial y Control de Obra en la formulación del programa anual de las obras públicas y servicios relacionados con las mismas, así como en las acciones tendientes a la construcción, reconstrucción, ampliación, modificación, mejoramiento, conservación, mantenimiento y modernización en materia de obra pública, infraestructura y de comunicaciones;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+IV. Auxiliar a la Subsecretaría de Planeación, Inversión Sectorial y Control de Obra en la integración de los expedientes técnicos de obras de infraestructura, edificación y equipamiento, para la aprobación de recursos financieros y su contratación, que se encomienden a la Secretaría y a las Entidades del Sector, con base a los lineamientos establecidos;
 
 V. Coadyuvar cuando sea requerido con las diferentes instituciones en las investigaciones relacionadas con los procedimientos de construcción y nuevas tecnologías aplicables a la infraestructura, obra de edificación y equipamiento;
 
 VI. Fomentar la aplicación de la normativa en el desarrollo de las obras de edificación y equipamiento que lleven a cabo las Entidades del Sector;
 
-VII. Participar y coordinar en la integración de la propuesta del programa anual de infraestructura y obras de edificación y equipamiento a cargo de las Entidades del Sector;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
 
-VIII. Coadyuvar en la elaboración, revisión y validación de los expedientes técnicos, estudios y proyectos, para la aprobación de recursos financieros y su contratación, que se encomienden a la Secretaría y a las Entidades del Sector, con base a los lineamientos establecidos;
+VII. Coadyuvar con la Subsecretaría de Planeación, Inversión Sectorial y Control de Obra en la integración de la propuesta del programa anual de infraestructura y obras de edificación y equipamiento a cargo de las Entidades del Sector;
+
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+VIII. Elaborar, revisar y validar la información que deberá formar parte de las notas técnicas, necesarias para que realice ante la Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras, la solicitud de gestión de recursos financieros y su contratación, de aquellas que sean encomendadas a la Secretaría con base en los lineamientos establecidos;
 
 IX. Vigilar el cumplimiento de las normas técnicas y administrativas durante la ejecución de obras públicas y servicios relacionados con las mismas;
 
@@ -741,7 +705,9 @@ XVII. Ordenar la integración de informes con relación a los avances físicos y
 
 XVIII. Coordinar los procedimientos de entrega y recepción de obra pública y servicios relacionados con la misma, infraestructura y edificaciones, así como lo relativo a las obras y construcciones realizadas bajo el esquema legal de proyectos para prestación de servicios y proyectos de inversión, en el ámbito de su competencia;
 
-XIX. Validar las estimaciones de los contratos de obra pública y de los servicios relacionados con la misma, competencia de la Secretaría, así como de los finiquitos respectivos, cuando los remita la Unidad Administrativa que corresponda;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+XIX. Validar las estimaciones de los contratos de obra pública y de los servicios relacionados con la misma, así como los finiquitos correspondientes, respecto las acciones encomendadas a la Unidad Administrativa que representa;
 
 XX. Coordinar con las instancias competentes o las dependencias usufructuarias de los bienes inmuebles propiedad estatal, la construcción, rehabilitación o conservación de éstos, sea directamente o a través de terceros, de conformidad con las disposiciones aplicables, previo acuerdo de la persona titular de la Subsecretaría;
 
@@ -755,7 +721,7 @@ XXIV. Participar y dar seguimiento a los estudios y proyectos correspondientes a
 
 XXV. Revisar que los estudios topográficos y de mecánica de suelos que se requieran para la elaboración de proyectos, sean elaborados de acuerdo a los términos de referencia en materia de obra pública;
 
-XXVI. Validar los expedientes técnicos de obras de infraestructura, edificación y equipamiento para la aprobación de recursos financieros y su contratación, que se encomienden a la Secretaría y a las Entidades del Sector, con base en los lineamientos establecidos;
+XXVI. (DEROGADA, P.O. 23 DE AGOSTO DE 2024)
 
 XXVII. Coadyuvar cuando sea requerido con las diferentes instituciones en las investigaciones relacionadas con los procedimientos de construcción y nuevas tecnologías aplicables a la obra de infraestructura, edificación y equipamiento;
 
@@ -765,7 +731,9 @@ XXIX. Participar en la integración de la propuesta del programa anual de obras 
 
 XXX. Emitir diagnóstico de factibilidad para la rehabilitación y mantenimiento de vialidades en el Estado;
 
-XXXI. Elaborar el Programa de Obra Anual para el mantenimiento de vialidades en el Estado;
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2024)</small>
+
+XXXI. Elaborar y remitir para validación de la Subsecretaría de Planeación, Inversión Sectorial y Control de Obra, el Programa de Obra Anual para el mantenimiento de vialidades en el Estado;
 
 XXXII. Vigilar el correcto resguardo de los equipos y maquinaria adscritos al programa de reciclado asfáltico;
 
@@ -955,167 +923,27 @@ XII. Las demás relativas a la competencia de su Unidad Administrativa y que sea
 
 ###### Artículo 32.
 
-Corresponde a la Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras, por conducto de la persona Titular, el ejercicio de las atribuciones siguientes:
-
-I. Vigilar el ejercicio de los programas de inversión pública de las Entidades del Sector, a fin de verificar el cumplimiento de las metas físicas, financieras y normativas establecidas;
-
-II. Asesorar a las Unidades Administrativas y a las Entidades del Sector, en las acciones que se generen del proceso de planeación, programación, presupuestación, control, seguimiento y evaluación de la inversión pública, así como vigilar el cumplimiento de la normativa aplicable;
-
-III. Gestionar los movimientos presupuestales de recursos financieros asignados a programas de inversión pública, de las Unidades Administrativas y de las Entidades del Sector, relativos a autorización, aprobación, traspaso, ampliación, reducción y, en su caso, la cancelación correspondiente, de acuerdo a los lineamientos establecidos, para el seguimiento y evaluación de los mismos;
-
-IV. Validar y gestionar los trámites de la documentación comprobatoria de gastos indirectos y gastos de inspección y supervisión derivados de obras o programas de inversión;
-
-V. Integrar la información para la comunicación y difusión de las acciones y avances de los programas que se realicen en el Sector;
-
-VI. Validar y gestionar el trámite de pago de anticipos y estimaciones de obras, estudios y proyectos, así como llevar el control financiero de los mismos;
-
-VII. Evaluar el avance financiero de los programas de operación e inversión pública de la Secretaría y Entidades del Sector, con base en los objetivos y metas, mediante el análisis sistemático entre lo presupuestado y lo ejercido; determinando las variaciones, las causas y las medidas correspondientes;
-
-VIII. Elaborar y difundir periódicamente los informes correspondientes a los avances del Programa de Inversión Pública en sus diferentes modalidades;
-
-IX. Validar el seguimiento y evaluación de las acciones descentralizadas de los municipios y Entidades del Sector, en materia de obra pública, llevando a cabo la coordinación correspondiente;
-
-X. Informar a las Unidades Administrativas y a las Entidades del Sector, la evaluación del avance financiero de los programas de inversión pública del sector, con base en los objetivos y metas autorizadas, mediante el análisis sistemático entre lo presupuestado y lo ejercido; determinando las variaciones, las causas y las medidas correspondientes;
-
-XI. Integrar la información relativa a las actividades realizadas por la Secretaría y las Entidades del Sector, a fin de proporcionar el insumo necesario para la integración del informe anual que rinde el Ejecutivo Estatal ante el Congreso del Estado;
-
-XII. Atender la resolución de los asuntos que sean competencia de las Unidades Administrativas a su cargo;
-
-XIII. Verificar y emitir opinión respecto de la congruencia de la programación de las Entidades del Sector, con los objetivos de la planeación estatal de desarrollo y las prioridades del Ejecutivo Estatal, en materia de programación e inversión en obra;
-
-XIV. Coordinar y asesorar en la elaboración de los proyectos de programas operativos y presupuestos de egresos anuales de las Entidades del Sector, verificando su congruencia con los objetivos de la planeación estatal del desarrollo y las prioridades del Ejecutivo Estatal;
-
-XV. Coordinar y orientar las acciones de seguimiento y evaluación de los programas y presupuestos que ejecutan las Entidades del Sector, proponiendo en su caso, acciones de mejora para el cumplimiento de sus objetivos en tiempo y forma;
-
-XVI. Establecer y coordinar acciones específicas sobre organización y modernización administrativa, así como opinar respecto a la modificación de las estructuras administrativas básicas de la Secretaría y de las Entidades del Sector;
-
-XVII. Emitir opinión sobre los proyectos y programas de las Entidades del Sector que requieran de financiamiento para su realización;
-
-XVIII. Integrar en coordinación con la Dirección Jurídica y enviar para opinión y, en su caso, validación de la Consejería Jurídica, los proyectos de los reglamentos internos y de las modificaciones a los mismos, así como de todo instrumento jurídico y administrativo que pretenda suscribirse por la Secretaría o las Entidades del Sector, para la tramitación correspondiente;
-
-XIX. Programar y coordinar el calendario anual de sesiones de órganos de gobierno, de las Entidades del Sector, conforme a lo dispuesto en la normativa estatal aplicable;
-
-XX. Asistir a la persona superior inmediata, en las sesiones de órganos de gobierno de las Entidades del Sector;
-
-XXI. Suplir a la persona titular de la Subsecretaría en las sesiones de la Comisión de Regulación y Seguimiento de las Entidades del Sector, que manejan programas de inversión en obra con la federación, a efecto de dar seguimiento puntual al cumplimiento de los mismos, de acuerdo a su competencia;
-
-XXII. Validar los proyectos de programas operativos y de presupuestos anuales de las Entidades del Sector; las solicitudes de modificaciones presupuestales, programáticas y de estructura administrativa; así como la información que se pretenda someter a aprobación de los órganos de gobierno de las Entidades del Sector;
-
-XXIII. Elaborar el manual de bases de contratación de acuerdo a la legislación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
-
-XXIV. Elaborar los contratos, convenios y demás documentación establecida en la normativa en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
-
-XXV. Supervisar los procesos de contratación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma, a cargo de la Secretaría;
-
-XXVI. Fomentar la difusión y aplicación de la legislación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma al personal de las Unidades Administrativas, Entidades del Sector y Dependencias que así lo soliciten;
-
-XXVII. Supervisar el registro anual del padrón de contratistas y proveedores en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma; analizando las solicitudes para su inscripción y revalidación y, en su caso, ordenar la suspensión o cancelación del mismo, por infracciones a la normativa vigente;
-
-XXVIII. Asesorar a las Dependencias y a las Entidades del Sector en los procesos de contratación de la obra pública, equipamientos, suministros y servicios relacionados con la misma;
-
-XXIX. Supervisar la elaboración y actualización de los tabuladores de precios unitarios en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
-
-XXX. Supervisar la elaboración de los precios relativos a los insumos para la construcción de la obra pública, que sirvan de base para los ajustes de costos y publicarlos en el Periódico Oficial del Estado;
-
-XXXI. Supervisar la revisión de ajustes de costos, para su aprobación y aplicación, en el ámbito de su competencia;
-
-XXXII. Instruir la elaboración y validar los dictámenes técnicos que justifiquen la contratación de obra pública y servicios relacionados con la misma, en todas sus modalidades, que incidan en el ámbito de su competencia, en términos de las disposiciones legales aplicables;
-
-XXXIII. Realizar los procedimientos para determinar la aplicación de las sanciones previstas en las disposiciones legales en las materias de su competencia, y proponer a la persona titular de la Subsecretaría a la que se encuentra adscrito, las resoluciones respectivas;
-
-XXXIV. Vigilar el uso eficiente y apropiado del recurso aprobado en Gastos Indirectos y Gastos de Inspección y Supervisión a las unidades de obra y normativas, validando las partidas presupuestales proporcionadas por las unidades ejecutoras;
-
-XXXV. Validar que las partidas presupuestales proporcionadas por las unidades ejecutoras de obra y normativas en los recursos de gastos indirectos y gastos de inspección y supervisión cumplan con la normativa vigente, y
-
-XXXVI. Las demás relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende la persona superior jerárquica inmediata.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 ###### Artículo 33.
 
-Quedan adscritas a la Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras, las Unidades Administrativas siguientes:
-
-1. Departamento de Programación Sectorial;
-
-2. Departamento de Costos;
-
-3. Departamento de Atención, Seguimiento y Evaluación Sectorial, y
-
-4. Departamento de Licitación y Contratación de Obra.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 ###### Artículo 34.
 
-Corresponde al Departamento de Programación Sectorial, por conducto de su titular, el ejercicio de las atribuciones siguientes:
-
-I. Apoyar a las Unidades Administrativas y a las Entidades del Sector, en las acciones que se generen del proceso de planeación anual de la obra pública;
-
-II. Dar asesoría técnica a las Unidades Administrativas y a las Entidades del Sector en cuanto a la formulación de la nota técnica de obras o proyectos;
-
-III. Validar la información relativa a la nota técnica de las obras o proyectos del programa de inversión para la gestión de recursos;
-
-IV. Verificar el cumplimiento de la normativa establecida para el proceso de planeación, programación y presupuestación, en la ejecución del programa de inversión del sector;
-
-V. Coadyuvar en la gestión de los recursos relativos a la ejecución de obras, proyectos, programas y acciones en materia de infraestructura y desarrollo urbano ante la Secretaría de Hacienda;
-
-VI. Revisar y gestionar los movimientos presupuestales de recursos financieros asignados a programas de inversión pública, relativos a autorización, aprobación, transferencias, ampliación, reducción y, en su caso, la cancelación correspondiente, de acuerdo a los lineamientos establecidos, para el seguimiento y evaluación de los mismos, que realicen las Unidades Administrativas y las Entidades del Sector;
-
-VII. Revisar la documentación comprobatoria de los gastos indirectos derivados de obras o programas de inversión;
-
-VIII. Integrar y proporcionar la información para la comunicación y difusión de las acciones y avances de los programas que se realicen en el sector, y
-
-IX. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 ###### Artículo 35.
 
-Corresponde al Departamento de Costos, por conducto de su titular, el ejercicio de las atribuciones siguientes:
-
-I. Elaborar, actualizar y fomentar los lineamientos para la presupuestación de la obra pública, equipamientos, suministros y servicios relacionados con la misma, que realicen las Dependencias y las Entidades del Sector;
-
-II. Elaborar y actualizar los tabuladores de precios unitarios referentes a los rendimientos y costos de insumos de mano de obra, materiales y máquinas, de acuerdo a las condiciones de mercado para las diferentes localidades en el Estado, que deberán aplicarse a la presupuestación, ejecución y pago (sic) obras públicas, equipamientos, suministros y servicios relacionados con la misma, a cargo de la Secretaría y Entidades del Sector;
-
-III. Elaborar los tabuladores relativos de precios de insumos para la construcción de la obra pública, equipamientos, suministros y servicios relacionados con la misma, que sirvan de base para los ajustes de costos, mediante grupos de obra tipificados, para su aprobación y aplicación;
-
-IV. Revisar las solicitudes de ajustes de costos, para su aprobación y aplicación, en el ámbito de su competencia;
-
-V. Elaborar y actualizar los presupuestos base de las obras públicas que llevan a cabo las diferentes Unidades Administrativas;
-
-VI. Participar en los procedimientos de contratación y adjudicación de contratos que lleve a cabo la Secretaría, en las actividades concernientes a sus funciones, y
-
-VII. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 ###### Artículo 36.
 
-Corresponde al Departamento de Atención, Seguimiento y Evaluación Sectorial, por conducto de su titular, el ejercicio de las atribuciones siguientes:
-
-I. Dar seguimiento al avance de inversión pública a cargo de las Unidades Administrativas y a las Entidades del Sector, verificando que los recursos se ejerzan con apego a las normas, políticas, lineamientos y demás disposiciones administrativas que al efecto se expidan;
-
-II. Integrar, elaborar y difundir periódicamente informes correspondientes a los avances del proceso integral que presenta el programa de inversión pública en sus diferentes modalidades;
-
-III. Dar seguimiento y evaluar las acciones descentralizadas de los municipios y Entidades del Sector, en materia de obra pública, llevando a cabo la coordinación correspondiente;
-
-IV. Revisar los contratos relativos a las obras, estudios y proyectos que realizan las Unidades Administrativas, verificando que se cumpla con la normativa respectiva de acuerdo al origen de sus recursos;
-
-V. Revisar y tramitar el pago de anticipos y estimaciones de obras, estudios y proyectos, verificando que se cumpla con la normativa respectiva de acuerdo al origen de sus recursos, así como llevar el control financiero de los mismos;
-
-VI. Presentar el proyecto de evaluación del avance financiero de los programas de inversión pública del sector, con base en los objetivos y metas establecidas, mediante el análisis sistemático entre lo presupuestado y lo ejercido; determinando las variaciones, las causas y las medidas correspondientes;
-
-VII. Coadyuvar en el cierre del ejercicio fiscal, informando a las Unidades Administrativas, así como revisar y validar los trámites relativos a la liberación de estimaciones, y
-
-VIII. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 ###### Artículo 37.
 
-Corresponde al Departamento de Licitación y Contratación de Obras, por conducto de su titular, el ejercicio de las atribuciones siguientes:
-
-I. Dar seguimiento a los procedimientos de contratación y adjudicación de obra pública que lleve a cabo la Secretaría;
-
-II. Elaborar el proyecto del manual de bases de licitación, de acuerdo a la legislación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
-
-III. Llevar a cabo la revisión de los procesos de contratación y adjudicación de los contratos de obra pública, equipamientos, suministros y servicios relacionados con la misma, a cargo de la Secretaría, y elaborar el dictamen que sirve de base para el fallo correspondiente;
-
-IV. Elaborar los proyectos de contratos, convenios y demás documentación establecida en la normativa para la contratación de obras, equipamientos, suministros y servicios relacionados con las mismas;
-
-V. Llevar el registro anual del padrón de contratistas, prestadores de servicios y proveedores en materia de obra pública, equipamientos, suministros y servicios relacionados con las mismas, y
-
-VI. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
+(DEROGADO, P.O. 23 DE AGOSTO DE 2024)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2024)</small>
 
@@ -1733,11 +1561,309 @@ X. Apoyar en las comisiones relacionadas con las acciones de vivienda, así como
 
 XI. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
 
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Artículo 51 BIS. Corresponde a la Subsecretaría de Planeación, Inversión Sectorial y Control de Obra, por conducto de la persona titular, el ejercicio de las atribuciones siguientes:
+
+I. Coordinar el proceso de planeación, proyección y gestión para la infraestructura, obra pública y servicios relacionados con la misma, competencia de la Secretaría;
+
+II. Vigilar y coordinar el proceso de planeación, proyección, ejecución y supervisión de la infraestructura y obra pública competencia de la Secretaría y servicios relacionados con la misma, en apego a la normativa aplicable, conforme a los proyecto (sic), programas y contratos respectivos;
+
+III. Coordinar el Programa de Infraestructura y Obra Pública Anual con apoyo de las diversas Unidades Administrativas de la Secretaría, así como difundirlo a estas, señalando prioridades, tiempos de ejecución y su debido seguimiento;
+
+IV. Coordinar la integración de expedientes técnicos, en conjunto con las demás Subsecretarías competentes, para acceder a los recursos de diferentes programas federales;
+
+V. Dirigir, de conformidad con la normativa aplicable, el presupuesto de inversión de infraestructura que le haya sido asignado, así como las acciones del programa de infraestructura y obras públicas de las zonas metropolitanas del Estado, además de las que les asignen, por administración directa o por contrato, supervisando su oportunidad y eficiencia;
+
+VI. Aprobar, en conjunto con la persona titular de la Secretaría, las estimaciones generadas en los procesos de realización de estudios técnicos, anteproyectos, proyectos conceptuales de su competencia, así como las generadas por la ejecución de la obra de conformidad con las normas, lineamientos y criterios específicos que se determine en la normativa aplicable;
+
+VII. Proponer las medidas necesarias para la simplificación de trámites, sistemas de control y seguimiento en la ejecución de programas y proyectos de infraestructura y obra pública;
+
+VIII. Validar, en el ámbito de su competencia, la ejecución de los procesos de celebración de concursos y contratos, y control financiero de las obras públicas a cargo de la Secretaría;
+
+IX. Validar normativamente los procesos de programación, presupuestación, control, seguimiento y evaluación del gasto público, así como vigilar el cumplimiento de la normativa establecida a las Entidades del Sector;
+
+X. Coordinar, evaluar y proponer las medidas y acciones para contribuir al mejoramiento de la organización y funcionamiento administrativo de las Entidades del Sector;
+
+XI. Proporcionar la información de los programas de obra pública del sector, a diferentes dependencias del gobierno federal y estatal, para la integración, seguimiento y evaluación de los mismos;
+
+XII. Aprobar los movimientos presupuestales de las áreas y de los programas de inversión pública, relativos a la autorización, aprobación, transferencia, traspaso, ampliación, reducción y, en su caso, la cancelación correspondiente para posteriormente formalizarlo ante las autoridades correspondientes en los términos de la normativa aplicable;
+
+XIII. Suscribir, previa delegación de facultades de la persona titular de la Secretaría, los contratos y convenios de obra pública y servicios que se relacionen con la misma, en los términos de la normativa aplicable;
+
+XIV. Coordinar y validar los análisis y opiniones técnicas de los proyectos que se realicen en el marco de APP, que emita la Dirección Técnica de Inversión;
+
+XV. Validar la propuesta del programa anual de proyectos de APP que emita la Dirección Técnica de Inversión;
+
+XVI. Dirigir los procesos de supervisión de los proyectos de APP que realice la Dirección Técnica de Inversión;
+
+XVII. Validar las propuestas de esquemas de APP que emita la Dirección Técnica de Inversión;
+
+XVIII. Validar los lineamientos de rentabilidad social y la conveniencia del esquema de asociación público-privada que prepare la Dirección Técnica de Inversión y coordinar la elaboración y actualización de las normas y especificaciones técnicas para las licitaciones y contratación de los proyectos de APP;
+
+XIX. Coordinar el desarrollo de los proyectos de APP a fin de promover su ejecución, observando el cumplimiento de las disposiciones aplicables; dirigir el seguimiento al proceso de ejecución, y validar los reportes de avance necesarios en cumplimiento a la normativa en la materia;
+
+XX. Coordinar el proceso de licitación de los proyectos de APP y la elaboración de los contratos de APP que realiza la Dirección Técnica de Inversión, y
+
+XXI. Las demás relativas a la competencia de la Subsecretaría y que sean necesarias para su funcionamiento, así como aquellas que le confieran otros ordenamientos legales aplicables o le encomiende la persona titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Artículo 51 TER. Quedan adscritas a la Subsecretaría de Planeación, Inversión Sectorial y Control de Obra, las Unidades Administrativas siguientes:
+
+a) Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras, y
+
+b) Dirección Técnica de Inversión.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Artículo 51 QUATER. Corresponde a la Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+
+I. Vigilar el ejercicio de los programas de inversión pública de las Entidades del Sector, a fin de verificar el cumplimiento de las metas físicas, financieras y normativas establecidas;
+
+II. Asesorar a las Unidades Administrativas y a las Entidades del Sector, en las acciones que se generen del proceso de planeación, programación, presupuestación, control, seguimiento y evaluación de la inversión pública, así como vigilar el cumplimiento de la normativa aplicable;
+
+III. Aprobar los movimientos presupuestales de recursos financieros asignados a programas de inversión pública, de las Unidades Administrativas y de las Entidades del Sector relativos a la autorización, traspaso, ampliación, reducción y, en su caso, la cancelación correspondiente, de acuerdo a los lineamientos establecidos para el seguimiento y evaluación de los mismos;
+
+IV. Validar y gestionar los trámites de la documentación comprobatoria de gastos indirectos y gastos de inspección y supervisión derivados de obras o programas de inversión;
+
+V. Integrar la información para la comunicación y difusión de las acciones y avances de los programas que se realicen a través de las Entidades del Sector;
+
+VI. Validar y gestionar el trámite de pago de anticipos, estimaciones de obras, estudios y proyectos y llevar el control financiero de los mismos;
+
+VII. Evaluar el avance financiero de los programas de operación e inversión pública de la Secretaría y Entidades del Sector, con base en los objetivos y metas, mediante el análisis sistemático entre lo presupuestado y lo ejercido; determinando las variaciones, las causas y las medidas correspondientes;
+
+VIII. Emitir periódicamente los informes correspondientes a los avances del Programa de Inversión Pública en sus diferentes modalidades;
+
+IX. Validar el seguimiento y evaluación de las acciones descentralizadas de los municipios y Entidades del Sector, en materia de obra pública, llevando a cabo la coordinación correspondiente;
+
+X. Proporcionar a las Unidades Administrativas y a las Entidades del Sector, la evaluación del avance financiero de los programas de inversión pública del sector, con base en los objetivos y metas autorizadas, mediante el análisis sistemático entre lo presupuestado y lo ejercido; determinando las variaciones, las causas y las medidas correspondientes;
+
+XI. Integrar la información relativa a las actividades realizadas por la Secretaría y las Entidades del Sector, a fin de proporcionar el insumo necesario para la integración del informe anual que rinde la persona titular del Poder Ejecutivo Estatal ante el Congreso del Estado;
+
+XII. Coordinar y validar la resolución de los asuntos que sean competencia de las Unidades Administrativas a su cargo;
+
+XIII. Verificar y emitir opinión respecto de la congruencia de la programación de las Entidades del Sector, con los objetivos de la planeación estatal de desarrollo y las prioridades del Ejecutivo Estatal, en materia de programación e inversión en obra;
+
+XIV. Coordinar y asesorar en la elaboración de los proyectos de programas operativos y presupuestos de egresos anuales de las Entidades del Sector, verificando su congruencia con los objetivos de la planeación estatal del desarrollo y las prioridades del Ejecutivo Estatal;
+
+XV. Coordinar y orientar las acciones de seguimiento y evaluación de los programas y presupuestos que ejecutan las Entidades del Sector, proponiendo en su caso, acciones de mejora para el cumplimiento de sus objetivos en tiempo y forma;
+
+XVI. Establecer y coordinar acciones específicas sobre organización y modernización administrativa, así como opinar respecto a la modificación de las estructuras administrativas básicas de la Secretaría y de las Entidades del Sector;
+
+XVII. Emitir opinión sobre los proyectos y programas de las Entidades del Sector que requieran de financiamiento para su realización;
+
+XVIII. Integrar, en coordinación con la Dirección Jurídica, y enviar para opinión y, en su caso, validación de la Consejería Jurídica, los proyectos de reglamentos internos y de las modificaciones a los mismos, así como de todo instrumento jurídico y administrativo que pretenda suscribirse por la Secretaría o las Entidades del Sector, para la tramitación correspondiente;
+
+XIX. Programar y coordinar el calendario anual de sesiones de los órganos de gobierno de las Entidades del Sector, conforme a lo dispuesto en la normativa aplicable;
+
+XX. Asistir a la persona superior inmediata, en las sesiones de órganos de gobierno de las Entidades del Sector;
+
+XXI. Suplir a la persona titular de la Subsecretaría de adscripción en las sesiones de la Comisión de Regulación y Seguimiento de las Entidades del Sector, que manejan programas de inversión en obra con la Federación, a efecto de dar seguimiento puntual al cumplimiento de los mismos, de acuerdo a su competencia;
+
+XXII. Validar los proyectos de programas operativos y de presupuestos anuales de las Entidades del Sector; las solicitudes de modificaciones presupuestales, programáticas y de estructura administrativa; así como la información que se pretenda someter a aprobación de los órganos de gobierno de las Entidades del Sector;
+
+XXIII. Elaborar el manual de bases de contratación de acuerdo a la legislación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
+
+XXIV. Elaborar los contratos, validar convenios y demás documentación establecida en la normativa en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
+
+XXV. Supervisar los procesos de contratación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma, a cargo de la Secretaría;
+
+XXVI. Fomentar la difusión y aplicación de la legislación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma, al personal de las Unidades Administrativas, Entidades del Sector y Dependencias que así lo soliciten;
+
+XXVII. Supervisar el registro anual del padrón de contratistas y proveedores en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma; analizando las solicitudes para su inscripción y revalidación y, en su caso, ordenar la suspensión o cancelación del mismo, por infracciones a la normativa vigente;
+
+XXVIII. Asesorar a las Dependencias y a las Entidades del Sector en los procesos de contratación de obra pública, equipamientos, suministros y servicios relacionados con la misma;
+
+XXIX. Supervisar la elaboración y actualización de los tabuladores de precios unitarios en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
+
+XXX. Supervisar la elaboración de los precios relativos a los insumos para la construcción de obra pública, que sirvan de base para los ajustes de costos y publicarlos en el Periódico Oficial del Estado;
+
+XXXI. Supervisar los ajustes de costos, para su aprobación y aplicación, en el ámbito de su competencia;
+
+XXXII. Proponer la elaboración y validar los dictámenes técnicos que justifiquen la contratación de obra pública y servicios relacionados con la misma, en todas sus modalidades, que incidan en el ámbito de su competencia, en términos de las disposiciones legales aplicables;
+
+XXXIII. Realizar los procedimientos para determinar la aplicación de las sanciones previstas en las disposiciones legales en las materias de su competencia, y proponer a la persona titular de la Subsecretaría a la que se encuentra adscrita, las resoluciones respectivas;
+
+XXXIV. Vigilar el uso eficiente y apropiado del recurso aprobado en gastos indirectos y gastos de inspección y supervisión a las unidades de obra y normativas, validando las partidas presupuestales proporcionadas por las unidades ejecutoras;
+
+XXXV. Validar que las partidas presupuestales proporcionadas por las unidades ejecutoras de obra y normativas en los recursos de gastos indirectos y gastos de inspección y supervisión cumplan con la normativa vigente;
+
+XXXVI. Supervisar que las Unidades Administrativas ejecuten la obra acorde al recurso, programa y catálogo contratado, validando cualquier modificación previamente justificada en campo y en estricto apego a la necesidad de la obra o a un requerimiento social que le sea encomendado a la persona titular de la Secretaría, y
+
+XXXVII. Las demás relativas a su competencia y que sean necesarias para su funcionamiento, así como aquellas que le confieran otros ordenamientos, o le encomiende la persona superior jerárquica inmediata.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Artículo 51 QUINQUIES. Quedan adscritas a la Dirección de Inversión Sectorial, Programación Presupuestal y Administración de Obras, las Unidades Administrativas siguientes:
+
+1. Departamento de Programación Sectorial;
+
+2. Departamento de Costos;
+
+3. Departamento de Atención, Seguimiento y Evaluación Sectorial, y
+
+4. Departamento de Licitación y Contratación de Obra.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Artículo 51 SEXIES. Corresponde al Departamento de Programación Sectorial, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+
+I. Apoyar a las Unidades Administrativas y a las Entidades del Sector, en las acciones que se generen del proceso de planeación anual de obra pública;
+
+II. Dar asesoría técnica a las Unidades Administrativas y a las Entidades del Sector en cuanto a la formulación de la nota técnica de obras o proyectos;
+
+III. Validar la información relativa a la nota técnica de las obras o proyectos del programa de inversión para la gestión de recursos;
+
+IV. Verificar el cumplimiento de la normativa establecida para el proceso de planeación, programación y presupuestación, en la ejecución del programa de inversión del sector;
+
+V. Coadyuvar en la gestión de los recursos relativos a la ejecución de obras, proyectos, programas y acciones en materia de infraestructura y desarrollo urbano ante la Secretaría de Hacienda;
+
+VI. Revisar y gestionar los movimientos presupuestales de recursos financieros asignados a programas de inversión pública relativos a la autorización, aprobación, transferencias, ampliación, reducción y, en su caso, la cancelación correspondiente, de acuerdo a los lineamientos establecidos, para el seguimiento y evaluación de los mismos, que realicen las Unidades Administrativas y las Entidades del Sector;
+
+VII. Revisar la documentación comprobatoria de los gastos indirectos derivados de obras o programas de inversión;
+
+VIII. Integrar y proporcionar la información para la comunicación y difusión de las acciones y avances de los programas que se realicen en el sector, y
+
+IX. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Artículo 51 SEPTIES. Corresponde al Departamento de Costos, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+
+I. Elaborar, actualizar y fomentar los lineamientos para la presupuestación de la obra pública, equipamientos, suministros y servicios relacionados con la misma, que realicen las Dependencias y las Entidades del Sector;
+
+II. Elaborar y actualizar los tabuladores de precios unitarios referentes a los rendimientos y costos de insumos de mano de obra, materiales y máquinas, de acuerdo a las condiciones de mercado para las diferentes localidades en el Estado, que deberán aplicarse a la presupuestación, ejecución y pago de obras públicas, equipamientos, suministros y servicios relacionados con la misma, a cargo de la Secretaría y Entidades del Sector;
+
+III. Elaborar los tabuladores relativos de precios de insumos para la construcción de la obra pública, equipamientos, suministros y servicios relacionados con la misma, que sirvan de base para los ajustes de costos, mediante grupos de obra tipificados, para su aprobación y aplicación;
+
+IV. Revisar las solicitudes de ajustes de costos, para su aprobación y aplicación, en el ámbito de su competencia;
+
+V. Elaborar y actualizar los presupuestos base de las obras públicas que llevan a cabo las diferentes Unidades Administrativas;
+
+VI. Participar en los procedimientos de contratación y adjudicación de contratos que lleve a cabo la Secretaría, en las actividades concernientes a sus funciones, y
+
+VII. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Artículo 51 OCTIES. Corresponde al Departamento de Atención, Seguimiento y Evaluación Sectorial, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+
+I. Dar seguimiento al avance de inversión pública a cargo de las Unidades Administrativas y a las Entidades del Sector, verificando que los recursos se ejerzan con apego a las normas, políticas, lineamientos y demás disposiciones administrativas que al efecto se expidan;
+
+II. Integrar, elaborar y difundir periódicamente informes correspondientes a los avances del proceso integral que presenta el programa de inversión pública en sus diferentes modalidades;
+
+III. Dar seguimiento y evaluar las acciones descentralizadas de los municipios y Entidades del Sector, en materia de obra pública, llevando a cabo la coordinación correspondiente;
+
+IV. Analizar los contratos relativos a las obras, estudios y proyectos que realizan las Unidades Administrativas, verificando que se cumpla con la normativa respectiva de acuerdo al origen de sus recursos;
+
+V. Revisar y tramitar el pago de anticipos y estimaciones de obras, estudios y proyectos, verificando que se cumpla con la normativa respectiva de acuerdo al origen de sus recursos, así como llevar el control financiero de los mismos;
+
+VI. Asegurar y verificar que las unidades administrativas ejecuten la obra pública, acorde a la normativa, al origen del recurso y acorde a las necesidades de la misma en apego a lo contratado;
+
+VII. Verificar que las unidades administrativas lleven el control de los expedientes unitarios acorde a lo establecido en la ley de la materia, y en apego al recurso mediante el cual fue contratada;
+
+VIII. Asesorar en el control y seguimiento de las acciones propias de la obra pública encomendada a cada unidad administrativa;
+
+IX. Requerir a las unidades administrativas, los avances de obra acordes a los programas de obra contratados;
+
+X. Analizar las justificaciones y validaciones que emitan las unidades ejecutoras respecto los avances o atrasos en la ejecución de la obra, verificando que correspondan con lo ejecutado en campo;
+
+XI. Revisar y validar que los trabajos gestionados para pago de estimaciones de obra, estudios y proyectos sean acordes a lo ejecutado en campo;
+
+XII. Revisar y validar que los dictámenes de justificación a los convenios de obra sean acordes a las necesidades de la obra en campo, y
+
+XIII. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Artículo 51 NONIES. Corresponde al Departamento de Licitación y Contratación de Obra, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+
+I. Dar seguimiento a los procedimientos de contratación y adjudicación de obra pública que lleve a cabo la Secretaría;
+
+II. Elaborar el proyecto del manual de bases de licitación, de acuerdo a la legislación en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma;
+
+III. Llevar a cabo la revisión de los procesos de contratación y adjudicación de los contratos de obra pública, equipamientos, suministros y servicios relacionados con la misma, a cargo de la Secretaría, y elaborar el dictamen que sirve de base para el fallo correspondiente;
+
+IV. Elaborar los proyectos de contratos, convenios y demás documentación establecida en la normativa para la contratación de obras, equipamientos, suministros y servicios relacionados con la misma;
+
+V. Llevar el registro anual del padrón de contratistas, prestadores de servicios y proveedores en materia de obra pública, equipamientos, suministros y servicios relacionados con la misma, y
+
+VI. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
+
+> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2024)</small>
+
+Artículo 51 DECIES. Corresponde a la Dirección Técnica de Inversión, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+
+I. Elaborar los análisis y opiniones técnicas de los proyectos que se realicen en el marco de APP, en apego a los lineamientos y normativa en la materia;
+
+II. Integrar y administrar expedientes de proyectos de APP con base en la evaluación, información y prioridades que presenten las Dependencias y Entidades Paraestatales, los municipios del Estado y las personas de derecho público estatal con autonomía derivada de la Constitución Política del Estado Libre y Soberano de Baja California, independientemente de la fuente de financiamiento;
+
+III. Recibir las solicitudes de proyectos de APP que determine el Comité Estatal, a efecto de revisar si cumplen con la normativa aplicable;
+
+IV. Verificar, en coordinación con las instancias competentes, la congruencia de los proyectos de APP con los objetivos, prioridades y estrategias del Plan Estatal de Desarrollo;
+
+V. Integrar y proponer el programa anual de proyectos de APP ante la Secretaría y el Comité Estatal, así como evaluar las inversiones que resulten, verificando en todo momento que cumplan con los lineamientos y políticas que emita el referido Comité;
+
+VI. Llevar a cabo los procesos de supervisión de los proyectos de APP que se realicen en el Estado, a fin de garantizar que se estén llevando a cabo en cumplimiento a los ordenamientos legales que dieron origen al contrato de APP;
+
+VII. Preparar y publicar por instrucción del Comité Estatal, los lineamientos relativos a la rentabilidad social y la conveniencia del esquema de asociación público-privada, así como los demás lineamientos y criterios que, de acuerdo a la ley de la materia y su reglamento, corresponda o convenga expedir a dicho Comité Estatal;
+
+VIII. Prestar la asesoría que soliciten las Dependencias y Entidades Paraestatales respecto de los lineamientos y criterios a los que se refiere la fracción anterior;
+
+IX. Revisar los análisis para determinar la viabilidad y procedencia de un proyecto de APP competencia de la Secretaría, que se reciba por parte de las Dependencias y Entidades Paraestatales o por vía de proyecto no solicitado, emitiendo su opinión al Comité Estatal, en un plazo que no exceda de 30 días hábiles;
+
+X. Dar seguimiento al proceso de ejecución de los proyectos de APP, emitiéndose los reportes de avance necesarios en cumplimiento a la normativa en la materia;
+
+XI. Analizar, proponer y promover en coordinación con las instancias competentes, esquemas de asociación público-privada;
+
+XII. Analizar técnicamente los estudios preliminares que los promotores presentan a las instancias ejecutoras de la administración pública estatal y municipios, a fin de emitir opiniones técnicas respecto a su contenido y verificar la conveniencia de ser proyectos no solicitados;
+
+XIII. Intervenir, en coordinación con las instancias competentes, en el desarrollo de los proyectos de APP que impulsen las Dependencias y Entidades Paraestatales, a fin de promover su ejecución, observando el cumplimiento de las disposiciones aplicables en materia de APP;
+
+XIV. Administrar, en coordinación con las Unidades Administrativas competentes, los sistemas de información que requiera para el cumplimiento de sus atribuciones;
+
+XV. Hacer pública, en los términos de las disposiciones aplicables, la información en materia de programas y proyectos de APP, salvo aquella que la Dependencia o Entidad Paraestatal interesada haya señalado como de naturaleza reservada o confidencial en términos de la Ley de Transparencia;
+
+XVI. Analizar la experiencia nacional e internacional en el diseño y aplicación de normas y metodologías en materia de proyectos de APP, así como participar en foros y organismos nacionales e internacionales en temas relacionados con el ámbito de su competencia;
+
+XVII. Participar en la emisión de opiniones técnicas ante el Comité Estatal que sean solicitadas a la Secretaría;
+
+XVIII. Elaborar, actualizar y fomentar las normas y especificaciones técnicas para las licitaciones y contratación de los proyectos de APP que lleve a cabo el Poder Ejecutivo del Estado;
+
+XIX. Resolver los asuntos que las disposiciones legales que rigen la materia de proyectos de APP atribuyan a la Secretaría de Hacienda o a la Secretaría, siempre y cuando no formen parte de las facultades indelegables de la persona titular de la Secretaría y no estén asignadas expresamente al Comité Estatal o a alguna Unidad Administrativa o a la Secretaría de Hacienda;
+
+XX. Promover las normas, políticas, lineamientos y especificaciones de las APP en el ámbito estatal, municipal y particulares interesados que así lo soliciten;
+
+XXI. Elaborar, integrar y presentar toda la documentación técnica, administrativa y financiera ante las instancias conducentes para que, en el marco de la normativa aplicable, emitan las opiniones y viabilidades requeridas conforme a la Ley de Asociaciones Público Privadas para el Estado de Baja California y su reglamento, así como los lineamientos que emita el Comité Estatal;
+
+XXII. Vigilar el ejercicio de los programas de proyectos de APP que ejecute el Estado, a fin de verificar el cumplimiento de las metas físicas, financieras y normativas establecidas;
+
+XXIII. Llevar a cabo el proceso de licitación de todos los proyectos que se aprueben por el Comité Estatal, gestionar y publicar la convocatoria, bases de licitación y demás acciones que establezcan los ordenamientos legales en la materia, en coordinación con la Oficialía Mayor de Gobierno y demás instancias gubernamentales competentes para su publicación;
+
+XXIV. Elaborar los contratos de APP que se generen para el debido cumplimiento de los proyectos que sean aprobados por el Comité Estatal, siendo sometidos a opinión jurídica, administrativa y técnica para su autorización;
+
+XXV. Apoyar jurídicamente a las Unidades Administrativas de la Secretaría para el debido cumplimiento de los programas de APP y, en su caso, asesorarse de las que sean necesarias;
+
+XXVI. Coordinar y dar seguimiento a los procesos de auditoría que se lleven para los proyectos de APP, así como la solventación de las observaciones derivadas de los mismos;
+
+XXVII. Llevar el registro anual del padrón de desarrolladores interesados en participar en proyectos de APP, integrando para tal efecto las políticas y lineamientos que emita el Comité Estatal;
+
+XXVIII. Planear, organizar y llevar a cabo reuniones de trabajo con instancias de gobierno y promotores de proyectos no solicitados, para la orientación y aplicación de la normativa en la materia;
+
+XXIX. Integrar el informe mensual de las actividades realizadas por la Unidad Administrativa a su cargo, para proporcionar la información necesaria a la Subsecretaría de Infraestructura Gubernamental, Social y Productiva, a fin de consolidar el informe que rinde la persona titular del Poder Ejecutivo Estatal ante el Congreso del Estado;
+
+XXX. Gestionar y coordinar acciones tendientes a realizar proyectos de inversión para las Entidades del Sector, en congruencia con los objetivos de la planeación estatal, y
+
+XXXI. Las demás que le confieran las leyes, reglamentos y las que el Comité Estatal considere necesarias para el cumplimiento de su objeto.
+
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES Y OBLIGACIONES DE LAS DELEGACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 52.
 
-Corresponde a la Delegación de Tijuana-Playas de Rosarito, Delegación Ensenada y Delegación Tecate, por conducto de las personas titulares respectivas el ejercicio de las atribuciones siguientes:
+Corresponde a la Delegación de Tijuana-Playas de Rosarito, Delegación Ensenada y Delegación Tecate, por conducto de las personas titulares respectivas, auxiliar en el ámbito de su competencia a la Subsecretaría de Infraestructura Gubernamental, Social y Productiva, Subsecretaría de Reordenación Territorial y Desarrollo Urbano, y a la Subsecretaría de Planeación, Inversión Sectorial y Control de Obra, respecto de las facultades que les confieren los artículos 23, 42 y 51 BIS de este Reglamento, respectivamente; así como el ejercicio de las atribuciones siguientes:
 
 I. Ejercer en su ámbito territorial, la representación de la Secretaría respecto de las atribuciones que le competan a la misma;
 
@@ -1823,9 +1949,11 @@ XVII. Revisar, analizar y controlar el registro y revalidación del padrón de c
 
 XVIII. Las demás atribuciones relativas a la competencia de su Unidad Administrativa y que sean necesarias para su buen funcionamiento, así como aquellas que le confieran otros ordenamientos, o la persona superior jerárquica.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 54.
 
-Corresponde a la Subdelegación de San Quintín, por conducto de su titular, el ejercicio de las atribuciones siguientes:
+Corresponde a la Subdelegación de San Quintín, por conducto de su titular, auxiliar en el ámbito de su competencia a la Subsecretaría de Infraestructura Gubernamental, Social y Productiva, Subsecretaría de Reordenación Territorial y Desarrollo Urbano, y a la Subsecretaría de Planeación, Inversión Sectorial y Control de Obra, respecto de las facultades que les confieren los artículos 23, 42, y 51 BIS de este Reglamento, respectivamente; así como el ejercicio de las atribuciones siguientes:
 
 I. Representar a la Delegación Ensenada en su ámbito territorial, respecto de las atribuciones que le competen a la misma;
 
@@ -2110,5 +2238,17 @@ Artículo Primero. El presente Decreto entrará en vigor al día hábil siguient
 Artículo Segundo. Los asuntos que, antes de la entrada en vigor de este Decreto, se estuvieran substanciando en la unidad administrativa que, en virtud del mismo, modifica su estructura, denominación y competencia, se turnarán de inmediato a la unidad administrativa que, por efectos del mismo, resulte competente para continuar su trámite o resolución.
 
 Artículo Tercero. Los recursos financieros y materiales que estuvieran asignados a las unidades administrativas que modifiquen su estructura, denominación y competencia en virtud de lo dispuesto en el presente Decreto, serán reasignados a la unidad administrativa que asuma las atribuciones correspondientes.
+
+Artículo Cuarto. Los actos, resoluciones, acuerdos y las demás disposiciones de carácter general emitidas con fundamento en las normas que estaban vigentes con anterioridad al presente Decreto, conservarán su validez.
+
+P.O. 23 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DEL REGLAMENTO INTERNO DE LA SECRETARÍA DE INFRAESTRUCTURA, DESARROLLO URBANO Y REORDENACIÓN TERRITORIAL”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+Artículo Segundo. Los asuntos que, antes de la entrada en vigor de este Decreto, se estuvieran substanciando en la Unidad Administrativa que, en virtud del mismo, modifica su estructura, denominación, competencia y atribuciones, se turnarán de inmediato a la Unidad Administrativa que, por efectos del mismo, resulte competente para continuar su trámite o resolución.
+
+Artículo Tercero. Los recursos financieros y materiales que estuvieran asignados a las Unidades Administrativas que modifiquen su estructura, denominación y competencia en virtud de lo dispuesto en el presente Decreto, serán reasignados a la Unidad Administrativa que asuma las atribuciones correspondientes.
 
 Artículo Cuarto. Los actos, resoluciones, acuerdos y las demás disposiciones de carácter general emitidas con fundamento en las normas que estaban vigentes con anterioridad al presente Decreto, conservarán su validez.
