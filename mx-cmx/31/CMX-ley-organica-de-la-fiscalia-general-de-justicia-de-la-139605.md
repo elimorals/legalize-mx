@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-fiscalia-general-de-justicia-de-la-139605"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-12-24"
-last_updated: "2023-05-25"
+last_updated: "2024-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139605&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-12-23"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 25 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 23 DE AGOSTO DE 2024.
 
 Ley publicada en el Número 248 Bis de la Gaceta Oficial de la Ciudad de México, el martes 24 de diciembre de 2019.
 
@@ -726,7 +726,21 @@ II. Prevenir y evitar la revictimización en el desarrollo del procedimiento pen
 
 III. Allegarse de los dictámenes para el acceso efectivo a la reparación del daño, con la acreditación del daño y su cuantificación; y
 
-IV. Evitar en todo momento los prejuicios y estereotipos de género o de sumisión, así como de roles tradicionales asociados a factores sociales, culturales o laborales, como la forma de vestir, la expresión verbal o corporal, la condición socioeconómica o étnica, las preferencias sexuales o las actividades a que se dedique la mujer, sea víctima o inculpada.
+> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2024)</small>
+
+IV. Evitar en todo momento los prejuicios y estereotipos de género o de sumisión, así como de roles tradicionales asociados a factores sociales, culturales o laborales, como la forma de vestir, la expresión verbal o corporal, la condición socioeconómica o étnica, las preferencias sexuales, identidad o expresión de género o las actividades a que se dedique la mujer, sea víctima o inculpada.
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2024)</small>
+
+V. Aplicar estrictamente en la acreditación de los delitos que sean en contra de la comunidad LGBTTTI, con especial atención en el delito de transfeminicidio, el Protocolo de Actuación para la Atención a las personas de la Comunidad LGBTTTI;
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2024)</small>
+
+VI. En el caso de la entrega del cadáver de alguna persona transgénero, si este no es reclamado por sus familiares consanguíneos o en caso de que sí sea reclamado, estos pudieren vulnerar la identidad de género, expresión de género de la víctima o su dignidad humana, el cuerpo de esta deberá ser entregado a su familia social, en términos de lo que establece la Ley de Víctimas de la Ciudad de México; y
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2024)</small>
+
+VII. Generar datos estadísticos e informes trimestrales sobre los delitos que sean en contra de la comunidad LGBTTTI, respetando en la generación de dichos datos la identidad o expresión de género real o percibida de la víctima.
 
 ###### Artículo 38.
 
@@ -1580,6 +1594,18 @@ XXII. Proponer convenios de coordinación con otras instituciones policiales de 
 
 XXIII. Las demás que le asigne de manera directa la persona Fiscal General.
 
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2024)</small>
+
+XXIV. En todos los actos de investigación que realicen deberán evitar cometer actos de revictimización;
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2024)</small>
+
+XXV. Aplicar estrictamente en la acreditación de los delitos que sean en contra de la comunidad LGBTTTI, con especial atención en el delito de transfeminicidio, el Protocolo de Actuación para la Atención a las personas de la Comunidad LGBTTTI; y
+
+> <small>(ADICIONADA, G.O. 23 DE AGOSTO DE 2024)</small>
+
+XXVI. Evitar en todo momento los prejuicios y estereotipos de género o de sumisión, así como de roles tradicionales asociados a factores sociales, culturales o laborales, como la forma de vestir, la expresión verbal o corporal, la condición socioeconómica o étnica, las preferencias sexuales, identidad (sic) género y expresión de género o las actividades a que se dedique la persona, sea víctima o inculpada.
+
 ### Capítulo Segundo. Órganos auxiliares
 
 ###### Artículo 66.
@@ -2355,3 +2381,11 @@ En su caso, la Coordinación General Jurídica y de Derechos Humanos emitirá op
 TERCERO. Las facultades de la Unidad de Implementación previstas en la presente Ley y en el Reglamento serán transferidas al Órgano de Política Criminal, una vez concluido el Proceso de Transición de la Fiscalía General.
 
 CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE MODIFICA EL PÁRRAFO PRIMERO DEL ARTÍCULO 69 TER, LA FRACCIÓN VIII DEL ARTÍCULO 138, EL SEGUNDO PÁRRAFO, LA FRACCIÓN IX Y EL INCISO A) DEL PÁRRAFO QUINTO, DEL ARTÍCULO 148 BIS; SE ADICIONA UN CAPÍTULO VII, AL TÍTULO PRIMERO DEL LIBRO SEGUNDO PARTE ESPECIAL, Y UN ARTÍCULO 148 TER, AL CÓDIGO PENAL PARA EL DISTRITO FEDERAL; SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 118 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL; SE MODIFICA LA FRACCIÓN IV DEL ARTÍCULO 37; SE ADICIONAN LAS FRACCIONES V, VI, VII AL ARTÍCULO 37, Y LAS FRACCIONES XXIV, XXV, XXVI, AL ARTÍCULO 65, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO Y SE ADICIONA UNA FRACCIÓN XIV BIS AL ARTÍCULO 3 DE LA LEY DE VÍCTIMAS PARA LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
