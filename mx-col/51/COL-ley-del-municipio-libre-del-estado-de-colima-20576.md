@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2023-03-04"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -2169,6 +2169,10 @@ Los actos de preparación del plan y programas estarán a cargo de los consejos 
 
 Los Ayuntamientos están facultados para aprobar, de acuerdo con esta Ley, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, que organicen el gobierno y la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, aseguren la participación ciudadana, y promuevan el desarrollo de la vida comunitaria y vecinal.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+Toda la normatividad emitida por los ayuntamientos deberá ser presentada con un lenguaje incluyente y no sexista.
+
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2007)</small>
 
 ###### ARTICULO 117.
@@ -2766,3 +2770,9 @@ P.O. 4 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 477.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 116 DE LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
