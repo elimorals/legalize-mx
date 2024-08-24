@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-austeridad-republicana-oaxaca-164240"
 country: "mx"
 rank: "ley"
 publication_date: "2023-01-20"
-last_updated: "2023-08-17"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164240&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE AUSTERIDAD REPUBLICANA, DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 20 de enero de 2023.
 
@@ -45,11 +45,13 @@ LEY ESTATAL DE AUSTERIDAD REPUBLICANA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público e interés social y tiene por objeto regular y normar las medidas de austeridad que deberá observar el ejercicio del gasto público estatal y coadyuvar a que los recursos económicos de que se dispongan se administren con eficacia, eficiencia, economía, transparencia y honradez, conforme lo establecen los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 137 y 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca y las disposiciones de la Ley Federal de Austeridad Republicana. Sus disposiciones son aplicables a todas las dependencias, entidades, organismos auxiliares y demás entes que integran la Administración Pública Estatal.
+La presente Ley es de orden público e interés social y tiene por objeto regular y normar las medidas de austeridad que deberán observar en el ejercicio del gasto público estatal y coadyuvar para que los recursos económicos que se dispongan se administren con eficacia, eficiencia, economía, transparencia y honradez de conformidad con los artículos 134 de la Constitución Política de los Estados Unidos Mexicanos, los artículos 137 y 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley Federal de Austeridad Republicana.
 
-Los Poderes Legislativo y Judicial, los Órganos Constitucionales Autónomos y los Municipios tomarán las acciones necesarias para dar cumplimiento a la presente Ley, de acuerdo con la normatividad aplicable a cada uno de ellos, cuando se les asignen recursos del Presupuesto de Egresos del Estado.
+Las presentes disposiciones son aplicables a los Poderes Ejecutivo, Legislativo y Judicial del Estado, así como Órganos Constitucionales Autónomos y Municipios los cuales realizarán las acciones necesarias para su cumplimiento, de acuerdo con la normatividad aplicable a cada uno de ellos, cuando se les asignen recursos del Presupuesto de Egresos del Estado.
 
 ###### Artículo 2.
 
@@ -71,43 +73,43 @@ V. Establecer medidas que permitan generar ahorros en el gasto público para ori
 
 VI. Crear el mecanismo de operación y evaluación de la política de austeridad.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 4.
 
-Para los efectos de la presente Ley se entenderá por:
+Para los efectos de la presente Ley, se entenderá por:
 
-I. Austeridad: Conducta de servidores públicos y política de Estado que los entes públicos de los Poderes Ejecutivo, Legislativo y Judicial, las empresas productivas del Estado y sus empresas subsidiarias, los Órganos Constitucionales Autónomos y los Municipios deberán acatar de conformidad con su orden jurídico, para combatir la desigualdad social, la corrupción, la avaricia y el despilfarro de los bienes y recursos estatales, administrando los recursos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados;
+I. Austeridad de Estado: Conducta de las personas servidoras públicas y política de Estado que los entes públicos de los Poderes Ejecutivo, Legislativo y Judicial del Estado, las empresas productivas del Estado y sus empresas subsidiarias, los Órganos Constitucionales Autónomos y los Municipios deberán acatar de conformidad con su orden jurídico, para combatir la desigualdad social, la corrupción, la avaricia y el despilfarro de los bienes y recursos estatales, administrando los recursos con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados;
 
-II. Comité Estatal de Evaluación: Órgano Colegiado Interinstitucional encargado en el ámbito de la Administración Pública Estatal de, entre otros, evaluar las medidas de austeridad;
+II. Comité de Evaluación: Órgano Colegiado Interinstitucional encargado de evaluar las medidas de austeridad, de los entes públicos;
 
-III. Entes públicos: Los Poderes Ejecutivo, Legislativo y Judicial del Estado, los Órganos Constitucionales Autónomos, los Municipios, así como los organismos descentralizados, empresas de participación estatal o municipal y los fideicomisos públicos, cuando se les asignen recursos del Presupuesto de Egresos del Estado;
+III. Entes públicos: Los Poderes Ejecutivo, Legislativo y Judicial del Estado, los Órganos Constitucionales Autónomos, los Municipios, así como los Organismos Descentralizados, Empresas de Participación Estatal o Municipal y los Fideicomisos Públicos, cuando se les asignen recursos del Presupuesto de Egresos del Estado;
 
-IV. Ley: Ley Estatal de Austeridad.
+IV. Ley: Ley Estatal de Austeridad Republicana;
 
-V. Nepotismo: La designación, otorgamiento de nombramiento o contratación que realice un servidor público de personas con las que tenga lazos de parentesco por consanguinidad hasta el cuarto grado, de afinidad hasta el segundo grado, o vínculo de matrimonio o concubinato para que preste sus servicios en la misma institución, dependencia o ente público en que éste labore;
+V. Lineamientos: A los Lineamientos de Austeridad de cada uno de los entes públicos;
 
-VI. Remuneración: Toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones económicas, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;
+VI. Nepotismo: A la falta administrativa, estipulada en el artículo 63 Bis de la Ley General de Responsabilidades Administrativas;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2023)</small>
+VII. Órgano Interno de Control: Al Órgano Interno de Control de los entes públicos encargado de prevenir, detectar y sancionar posibles actos de corrupción, conforme a sus respectivas leyes.
 
-VII. Secretaría: Secretaría de Administración del Gobierno del Estado de Oaxaca;
+VIII. Remuneración: Toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones económicas, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en Actividades Oficiales;
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2023)</small>
+IX. Secretaría: Secretaría de Administración;
 
-VIII. Secretaría de Finanzas: Secretaría de Finanzas del Gobierno del Estado de Oaxaca;
+X. Secretaría de Finanzas: Secretaría de Finanzas;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2023)</small>
+XI. Secretaría de Honestidad: Secretaría de Honestidad, Transparencia y Función Pública, y
 
-IX. Secretaría de Honestidad: Secretaría de Honestidad, Transparencia y Función Pública del Gobierno del Estado de Oaxaca; y
+XII. Servidor Público: Persona que desempeña un empleo, cargo o comisión en los Entes Públicos del ámbito Estatal o Municipal, conforme a lo dispuesto en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
 
-X. Servidor Público: Persona que desempeña un empleo, cargo o comisión en los entes públicos del ámbito estatal o municipal, conforme a lo dispuesto en el artículo 115 de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 5.
 
-El cumplimiento de la presente Ley recaerá sobre cada uno de los entes públicos, quienes para su vigilancia se apoyarán de la instancia encargada de su respectivo control interno.
+El cumplimiento de la presente Ley recaerá sobre cada uno de los entes públicos, quienes para su vigilancia se apoyarán de su respectivo Órgano Interno de Control.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
-
-La Secretaría, estará facultada en el ámbito de sus atribuciones, para interpretar esta Ley.
+Para el caso del Poder Ejecutivo, la Secretaría y la Secretaría de Honestidad estarán facultadas, en el ámbito de sus atribuciones, para la interpretación de la presente Ley. Para el resto de los entes públicos, lo estarán sus respectivas áreas o unidades administrativas y su Órgano Interno de Control correspondiente.
 
 ### CAPÍTULO II. LA AUSTERIDAD DE ESTADO
 
@@ -115,11 +117,15 @@ La Secretaría, estará facultada en el ámbito de sus atribuciones, para interp
 
 Para dar cumplimiento a los fines de esta Ley, los entes públicos sujetarán su gasto corriente y de capital a los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Oaxaca, en la Ley Federal de Austeridad Republicana, en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, en la Ley de Ingresos del Estado de Oaxaca, en el Presupuesto de Egresos del Estado de Oaxaca, y en la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca, conforme a los objetivos señalados en la presente Ley y de acuerdo con las demás disposiciones aplicables en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 7.
 
-La política de austeridad de Estado deberá partir de un diagnóstico de las medidas a aplicar, su compatibilidad con la planeación democrática, así como los instrumentos de planeación que emanen del Plan Estatal de Desarrollo y el respeto a los programas sectoriales, institucionales, regionales y especiales que se establezcan de conformidad con la Ley Estatal de Planeación. Además, se deberán desarrollar indicadores de desempeño para evaluar dicha política.
+Para la política de austeridad de Estado, los entes públicos, conforme a sus respectivas competencias, deberán partir de un diagnóstico de las medidas a aplicar, su compatibilidad con la planeación democrática, y el respeto a los programas sectoriales, institucionales, regionales y especiales, y demás planes que se establezcan por las disposiciones legales que en materia de planeación le sean aplicables. Además, se deberán desarrollar indicadores de desempeño para evaluar dicha política.
 
-Al final de cada año fiscal los entes públicos obligados entregarán al Comité Estatal de Evaluación y al Congreso del Estado de Oaxaca un Informe de Austeridad de Estado, en el cual se reportarán los ahorros obtenidos por la aplicación de la presente Ley, y serán evaluados en términos de los propios lineamientos y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+Al final de cada ejercicio fiscal, los entes públicos obligados entregarán al Comité de Evaluación y al Congreso del Estado de Oaxaca, un Informe de Austeridad, en el cual se reportarán los ahorros obtenidos por la aplicación de la presente Ley, y serán evaluados en términos de sus propios lineamientos y demás normatividad aplicable.
 
 Para aplicar la política de la austeridad de Estado, los entes públicos deberán:
 
@@ -135,7 +141,9 @@ Los ahorros obtenidos con motivo de la aplicación de la presente Ley se destina
 
 En la adquisición de bienes muebles e inmuebles, su arrendamiento o contratación de servicios y obra pública se buscará la máxima economía, eficiencia y funcionalidad, observando el principio de austeridad, ejerciendo estrictamente los recursos públicos en apego a las disposiciones legales aplicables.
 
-Las adquisiciones, arrendamientos y servicios se adjudicarán, por regla general y de manera prioritaria, a través de licitaciones públicas, de conformidad con lo establecido en la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca. Las excepciones a esta regla deberán estar plenamente justificadas conforme a la legislación de la materia.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+Las contrataciones de adquisiciones, arrendamientos, prestación de servicios, obras públicas y servicios relacionados de cualquier naturaleza, se adjudicarán, por regla general y de manera prioritaria, a través de licitaciones públicas, de conformidad con lo establecido en la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca, y la Ley de Obras Públicas y Servicios Relacionados del Estado de Oaxaca. Las excepciones a esta regla deberán estar plenamente justificadas conforme a la legislación de la materia.
 
 ###### Artículo 9.
 
@@ -143,21 +151,23 @@ Los contratos que hayan sido suscritos con empresas que hayan sido otorgados med
 
 La nulidad de dichos contratos sólo se podrá declarar por la autoridad judicial competente.
 
-Los órganos internos encargados del control o de la fiscalización en cada ente público, iniciarán los procesos correspondientes para sancionar a los responsables y resarcir el daño ocasionado de acuerdo con la legislación aplicable.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+Los Órganos Internos de Control encargados de la fiscalización en cada ente público, iniciarán los procesos correspondientes para sancionar a los responsables y resarcir el daño ocasionado de acuerdo con la legislación aplicable.
 
 ###### Artículo 10.
 
 En tanto no se autoricen nuevos programas o se amplíen las metas de los existentes, los gastos por concepto de telefonía, telefonía celular, fotocopiado, combustibles, arrendamientos, viáticos, alimentación, mobiliario, remodelación de oficinas, equipo de telecomunicaciones, bienes informáticos, papelería, pasajes, congresos, convenciones, exposiciones y seminarios, necesarios para cumplir la función de cada dependencia y organismo, no podrán exceder de los montos erogados en el ejercicio presupuestal inmediato anterior, una vez considerados los incrementos en precios y tarifas oficiales o la inflación. Lo anterior, salvo las autorizaciones presupuestales que otorgue la Secretaría de Finanzas, previa justificación.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
 
-La Secretaría, en su respectivo ámbito de competencia, emitirá los lineamientos para la adquisición de bienes y servicios de uso generalizado de los entes públicos de manera consolidada, con objeto de obtener las mejores condiciones con relación a precio, calidad y oportunidad, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente, sin perjuicio de lo previsto en la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca y otros ordenamientos legales.
+La Secretaría o su homólogo de los entes públicos, en su respectivo ámbito de competencia, emitirán los lineamientos para la adquisición de bienes y servicios de uso generalizado de los entes públicos, de manera consolidada, con objeto de obtener las mejores condiciones con relación a precio, calidad y oportunidad, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente, sin perjuicio de lo previsto en la Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca y otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 11.
 
-Las erogaciones por concepto de congresos y convenciones se sujetarán a los lineamientos que emita la Secretaría, atendiendo a las disposiciones de austeridad y en el ámbito de sus atribuciones.
+Las erogaciones por concepto de congresos y convenciones se sujetarán a los lineamientos que emita la Secretaría o su homólogo de los entes públicos, atendiendo a las disposiciones de austeridad y en el ámbito de sus respectivas atribuciones.
 
 ###### Artículo 12.
 
@@ -168,6 +178,10 @@ Para dar cumplimiento a lo anterior, en el ámbito del Poder Ejecutivo del Estad
 I. Únicamente titulares de las dependencias y entidades podrán disponer de personal que se desempeñe como secretario particular y chofer;
 
 II. La contratación de servicios de consultoría, asesoría y de todo tipo de despachos externos para elaborar estudios, investigaciones, proyectos de ley, planes de desarrollo, o cualquier tipo de análisis y recomendaciones, se realizará exclusivamente cuando las personas físicas o morales que presten los servicios no desempeñen funciones similares, iguales o equivalentes a las del personal de plaza presupuestaria, no puedan realizarse con la fuerza de trabajo y capacidad profesional de los servidores públicos y sean indispensables para el cumplimiento de los programas autorizados, considerando lo establecido en Ley de Adquisiciones, Enajenaciones, Arrendamientos, Prestación de Servicios y Administración de Bienes Muebles e Inmuebles del Estado de Oaxaca y la Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+Para el resto de los entes públicos en el ámbito de sus atribuciones, podrán establecer medidas similares en sus respectivos ámbitos de competencia.
 
 ###### Artículo 13.
 
@@ -183,13 +197,17 @@ Las asignaciones dispuestas en el párrafo anterior, no podrán ser objeto de in
 
 Son medidas de austeridad de manera enunciativa y no limitativa, las siguientes:
 
-I. Se prohíbe la compra o arrendamiento de vehículos de lujo o cuyo valor comercial supere las cuatro mil trescientas cuarenta y tres Unidades de Medida y Actualización diaria vigente para el transporte y traslado de los servidores públicos. Cuando resulte necesario adquirir o arrendar un tipo de vehículo específico para desarrollar tareas indispensables vinculadas con el cumplimiento de las obligaciones de los entes públicos, su adquisición o arrendamiento se realizará previa justificación que al efecto realice la autoridad compradora, misma que se someterá a la consideración del órgano interno encargado del control que corresponda, y se deberá optar preferentemente por tecnologías que generen menores daños ambientales;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+I. Se prohíbe la compra o arrendamiento de vehículos de lujo o cuyo valor comercial sin considerar el Impuesto al Valor Agregado, supere las cuatro mil trescientas cuarenta y tres Unidades de Medida y Actualización diaria vigente para el transporte y traslado de los servidores públicos; cuando resulte necesario adquirirlos o arrendarlos para desarrollar tareas indispensables vinculadas con el cumplimiento de las obligaciones de los entes públicos, su adquisición o arrendamiento se realizará previa justificación que al efecto realice la autoridad compradora, misma que se someterá a consideración del Comité de Evaluación. Debiendo optar preferentemente por tecnologías que generen el menor impacto ambiental.
 
 II. Los vehículos oficiales sólo podrán destinarse a actividades que permitan el cumplimiento de las funciones de los entes públicos. Queda prohibido cualquier uso privado de dichos vehículos;
 
 III. Las adquisiciones y arrendamientos de equipos y sistemas de cómputo se realizarán previa justificación, con base en planes de modernización y priorizando el uso de software libre, siempre y cuando cumpla con las características requeridas para el ejercicio de las funciones públicas;
 
-IV. Se prohíben contrataciones de seguros de ahorro en beneficio de los servidores públicos con recursos del Estado, tal como el Seguro de Separación Individualizado, o las cajas de ahorro especiales; lo anterior, con excepción de aquellos cuya obligación de otorgarlos derive de ley, contratos colectivos de trabajo o Condiciones Generales de Trabajo;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+IV. Se prohíben contrataciones de seguros de ahorro en beneficio de las personas servidoras públicas con recursos del Estado, tal como el Seguro de Separación Individualizado, o las cajas de ahorro especiales; lo anterior, con excepción de aquellos cuya obligación de otorgarlos derive de ley, contratos colectivos de trabajo o Condiciones Generales de Trabajo;
 
 V. Los vehículos aéreos propiedad del Poder Ejecutivo del Estado, atendiendo a las particularidades del bien correspondiente, serán destinados a actividades de seguridad, protección civil o salud. Los que no cumplan con esta función serán enajenados asegurando las mejores condiciones para el Estado;
 
@@ -199,9 +217,9 @@ VII. Se prohíbe remodelar oficinas por cuestiones estéticas o comprar mobiliar
 
 VIII. Se prohíbe el derroche en energía eléctrica, agua, servicios de telefonía fija y móvil, gasolinas e insumos financiados por el erario.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
 
-La Secretaría elaborará y emitirá los lineamientos necesarios para regular lo previsto en el presente artículo, de acuerdo con sus atribuciones y considerando las disposiciones de la Ley, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente.
+La Secretaría o su homólogo de los entes públicos elaborará y emitirá los lineamientos necesarios para regular lo previsto en el presente artículo, de acuerdo con sus atribuciones y considerando las disposiciones de la Ley, pudiendo ampliar los supuestos regulados en este artículo, en caso de estimarlo conveniente.
 
 Corresponderá a la Secretaría de Finanzas en el ámbito del Poder Ejecutivo, emitir las disposiciones que en materia de control presupuestal regirán la implementación de la presente Ley.
 
@@ -239,23 +257,31 @@ III. Publicar trimestralmente sus estados financieros;
 
 IV. Reportar la información que le requiera la Secretaría de Finanzas para su integración en los apartados correspondientes de los informes trimestrales y de la Cuenta Pública del Estado, y
 
-V. Contar con las autorizaciones y opiniones que corresponda emitir a la Secretaría de Hacienda y Crédito Público en términos de la normatividad aplicable.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+V. Contar con las autorizaciones y opiniones que corresponda emitir a la Secretaría de Finanzas en términos de la normatividad aplicable.
 
 ###### Artículo 18.
 
 La Secretaría de Finanzas contará con un sistema de información de fideicomisos, mandatos o contratos análogos que manejen recursos públicos en el cual las dependencias y entidades inscribirán la información de la totalidad de los instrumentos a que se refiere el artículo anterior. Asimismo, concentrará el reporte de la información respectiva, misma que se hará de conocimiento en los informes trimestrales a que se refiere la Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
 
-La Secretaría de Honestidad y la Auditoría Superior de Fiscalización del Estado de Oaxaca desarrollarán, en el ámbito de sus respectivas competencias, las actividades de fiscalización a todo fideicomiso, mandato o contrato análogo que maneje recursos públicos, para verificar el cumplimiento de lo dispuesto en la presente Ley.
+La Secretaría de Honestidad y la Auditoria Superior de Fiscalización del Estado de Oaxaca desarrollarán, en el ámbito de sus respectivas competencias y de acuerdo a sus respectivos programas de auditorías, visitas e inspecciones, las actividades de fiscalización a todo fideicomiso, mandato o contrato análogo que maneje recursos públicos, para verificar el cumplimiento de lo dispuesto en la presente Ley.
 
 Las autoridades en materia de fiscalización incluirán en su planeación de auditorías, visitas e inspecciones a cualquier fideicomiso, mandato o contrato análogo que maneje recursos públicos, y darán seguimiento y evaluación rigurosa del cumplimiento de los fines para los cuales fueron constituidos.
 
-### CAPÍTULO III. COMPORTAMIENTO AUSTERO Y PROBO DE LAS Y LOS SERVIDORES PÚBLICOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO III. COMPORTAMIENTO AUSTERO Y PROBO DE LAS PERSONAS SERVIDORAS PÚBLICAS
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 19.
 
-Las y los servidores públicos se sujetarán a la remuneración adecuada y proporcional que conforme a sus responsabilidades se determine en los presupuestos de egresos, considerando lo establecido en los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 137 y 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca, y demás disposiciones aplicables. Por ende, queda prohibida la obtención de algún privilegio económico adicional a lo establecido en la ley.
+Las personas servidoras públicas se sujetarán a la remuneración adecuada y proporcional, que, conforme a su empleo, cargo o comisión, se determine por la normatividad aplicable y en los presupuestos de egresos, considerando lo establecido en los artículos 75 y 127 de la Constitución Política de los Estados Unidos Mexicanos y los artículos 137 y 138 de la Constitución Política del Estado Libre y Soberano de Oaxaca, y demás disposiciones aplicables.
+
+Queda prohibida la obtención de algún privilegio económico adicional que se encuentre al margen de la Ley.
 
 ###### Artículo 20.
 
@@ -279,13 +305,13 @@ Queda prohibido contratar con recursos públicos cualquier tipo de jubilaciones,
 
 Por ningún motivo se autorizarán pensiones de retiro al titular del Ejecutivo Estatal adicionales a la provista por la Ley de Pensiones para los Trabajadores del Gobierno del Estado de Oaxaca.
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 22.
 
-Ningún servidor público podrá utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los relacionados con sus funciones; su contravención será causa de responsabilidad administrativa en los términos que establezcan la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca.
+Ninguna persona servidora pública podrá utilizar recursos humanos, materiales o financieros institucionales para fines distintos a los relacionados con sus funciones; su contravención será causa de responsabilidad administrativa en los términos que establezcan la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca, y en su caso, responsabilidad penal de conformidad con el Código Penal para el Estado Libre y Soberano de Oaxaca.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
-
-Cada Ente Público, en el ámbito de sus facultades y atribuciones actualizarán su Código de Conducta observando la presente Ley y en apego a las disposiciones jurídicas que le sean aplicables.
+Cada Ente Público, en el ámbito de sus facultades y atribuciones, actualizará su Código de Ética, observando la presente Ley y en apego a las disposiciones jurídicas que le sean aplicables.
 
 ###### Artículo 23.
 
@@ -297,21 +323,29 @@ Queda prohibido a cualquier persona física o moral el uso de su personalidad ju
 
 Lo anterior, de conformidad con lo establecido en el marco normativo aplicable.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 25.
 
-La Secretaría emitirá los lineamientos aplicables en materia de austeridad, sin que éstos limiten o interfieran en el cumplimiento de la prestación de servicios al público y de los objetivos de los entes públicos.
+La Secretaría y sus homólogos de los entes públicos, emitirán los Lineamientos aplicables en materia de austeridad; sin que éstos limiten o interfieran en el cumplimiento de la prestación de servicios al público y de los objetivos de los entes públicos.
 
-### CAPÍTULO IV. DE LA EVALUACIÓN DE LA POLÍTICA DE AUSTERIDAD Y DEL FINCAMIENTO DE RESPONSABILIDADES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2024)</small>
 
-#### SECCIÓN PRIMERA. DE LA EVALUACIÓN
+### CAPÍTULO IV. DEL COMITÉ DE EVALUACIÓN Y DEL FINCAMIENTO DE RESPONSABILIDADES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE AGOSTO DE 2024)</small>
+
+#### SECCIÓN PRIMERA. DEL COMITÉ DE EVALUACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 26.
 
-Se formará un Comité Estatal de Evaluación, el cual será responsable de promover y evaluar las políticas y medidas de austeridad de los entes públicos.
+Se formará un Comité de Evaluación, el cual será responsable de promover y evaluar las políticas y medidas de austeridad de los entes públicos.
 
-El Comité Estatal de Evaluación deberá entregar informes de evaluación de forma anual, los cuales deberán ser remitidos al Congreso del Estado de Oaxaca para su conocimiento y contener al menos los siguientes elementos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE AGOSTO DE 2024)</small>
+
+El Comité de Evaluación deberá entregar informes de evaluación de forma anual, los cuales deberán ser remitidos al Congreso del Estado de Oaxaca para su conocimiento y contener al menos los siguientes elementos:
 
 I. Medidas tomadas por los entes públicos;
 
@@ -323,13 +357,17 @@ IV. Posibles mejoras a las medidas de austeridad, y
 
 V. Destino del ahorro obtenido.
 
-Los resultados de dicha evaluación serán presentados ante el titular del Poder Ejecutivo Estatal y deberán servir para retroalimentar y mejorar futuras medidas de austeridad.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+Los resultados de dicha evaluación serán presentados ante el titular de cada ente público, según corresponda y deberán servir para retroalimentar y mejorar futuras medidas de austeridad.
 
 #### SECCIÓN SEGUNDA. DE LAS RESPONSABILIDADES
 
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 27.
 
-El órgano interno encargado del control estará facultado en todo momento para vigilar y fiscalizar la gestión gubernamental de los entes públicos, verificando que las medidas de austeridad se apliquen de conformidad con lo establecido en esta Ley y demás disposiciones aplicables.
+El Órgano Interno de Control estará facultado en todo momento para vigilar y fiscalizar la gestión gubernamental de los entes públicos, verificando que las medidas de austeridad se apliquen de conformidad con lo establecido en esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 28.
 
@@ -390,3 +428,17 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2361.- MEDIANTE EL CUAL REFORMAN LOS ARTÍCULOS 1, 4, 5, LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 7, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 8, EL PÁRRAFO TERCERO DEL ARTÍCULO 9, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 10, EL ARTÍCULO 11, LAS FRACCIONES I, IV Y EL PÁRRAFO ÚLTIMO DEL ARTÍCULO 15, LA FRACCIÓN V DEL ARTÍCULO 17, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 18, LA DENOMINACIÓN DEL CAPÍTULO III PARA DENOMINARSE COMPORTAMIENTO AUSTERO Y PROBO DE LAS PERSONAS SERVIDORAS PÚBLICAS, LOS ARTÍCULOS 19, 22, 25, LA DENOMINACIÓN DEL CAPÍTULO IV PARA DENOMINARSE DEL COMITÉ DE EVALUACIÓN Y DEL FINCAMIENTO DE RESPONSABILIDADES, LA DENOMINACIÓN DE LA SECCIÓN PRIMERA DEL CAPÍTULO IV PARA DENOMINARSE DEL COMITÉ DE EVALUACIÓN, LOS PÁRRAFOS PRIMERO, SEGUNDO Y ÚLTIMO DEL ARTÍCULO 26 Y EL ARTÍCULO 27; Y SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 12; TODOS DE LA LEY ESTATAL DE AUSTERIDAD REPUBLICANA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+CUARTO. En un plazo de noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría expedirá los Lineamientos en materia de Austeridad mencionados en la presente Ley los cuales serán de aplicación específica para el Poder Ejecutivo Estatal. Para el caso de los demás entes públicos sus áreas homologas serán las encargadas de elaborar tales lineamientos en el ámbito de su competencia.
+
+QUINTO. En un plazo de noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría (sic) Honestidad y la Secretaría de Finanzas, expedirán los Lineamientos para la Operación y Funcionamiento del Comité de Evaluación. Para el caso de los demás entes públicos sus áreas homologas serán las encargadas de elaborar tales lineamientos en el ámbito de su competencia.
