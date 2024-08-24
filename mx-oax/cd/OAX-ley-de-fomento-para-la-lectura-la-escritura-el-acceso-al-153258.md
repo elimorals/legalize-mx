@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-para-la-lectura-la-escritura-el-acceso-al-153258
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-04"
-last_updated: "2021-12-04"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO PARA LA LECTURA, LA ESCRITURA, EL ACCESO AL LIBRO Y LAS BIBLIOTECAS EN EL ESTADO Y MUNICIPIOS DE OAXACA.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Ley publicada en la Séptima Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -469,6 +469,10 @@ Para fomentar la producción de proyectos bibliográficos, el Ejecutivo Estatal 
 
 Las bibliotecas públicas en el Estado de Oaxaca se regirán conforme a los derechos y los principios consagrados en la Constitución Política de los Estados Unidos Mexicanos, Tratados e Instrumentos Internacionales, la Constitución Política del Estado Libre y Soberano de Oaxaca, así como en los valores de libertad intelectual, el respeto, la tolerancia, la pluralidad ideológica y cultural.
 
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+En la elaboración de los programas a que se refiere el párrafo anterior, se deberá considerar el aspecto multilingüista de los dieciséis pueblos indígenas de nuestro Estado.
+
 ###### Artículo 28.
 
 Las bibliotecas públicas de Oaxaca reconocerán la libertad de investigar, y garantizarán su ejercicio con el respeto a la privacidad y la confidencialidad de lo que se investiga, protegiendo los datos personales en los términos establecidos en la ley respectiva. Serán un espacio para acceder a la información pública y para la formación de ciudadanía.
@@ -638,3 +642,13 @@ QUINTO. - El Ejecutivo del Estado, en un plazo no mayor de noventa días, contad
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Cetro, Oaxaca, a 22 de Octubre de 2021.- Dip. Arsenio Lorenzo Mejía García, Presidete.- Dip. Arcelia López Hernández, Vicepresidenta.- Dip. Rocío Machuca Rojas, Secretaría.- Dip. Maritza Escarlet Vásquez Guerra, Secretaría.- Rúbricas.”
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento, Palacio de Gobierno, Centro, Oax., a 4 de Noviembre de 2021. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, Mtro. Alejandro Ismael Murat Hinojosa.- Rúbrica.- El Secretario General de Gobierno. Ing. Francisco Javier García López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2366.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 27 DE LA LEY PARA EL FOMENTO DE LA LECTURA, LA ESCRITURA, EL LIBRO Y EL USO DE LAS BIBLIOTECAS DEL ESTADO Y MUNICIPIOS DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
