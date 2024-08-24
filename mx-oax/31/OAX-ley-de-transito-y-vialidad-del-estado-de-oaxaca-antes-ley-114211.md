@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transito-y-vialidad-del-estado-de-oaxaca-antes-ley-11421
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-11"
-last_updated: "2023-10-07"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 11 de abril de 2016.
 
@@ -570,6 +570,26 @@ III. Cuando a simple vista se advierta que el vehículo se halle en condiciones,
 > <small>(REFORMADA, P.O. 5 DE JUNIO DE 2021)</small>
 
 IV. Cuando se trate de un vehículo con el cual se realice servicio público de pasajeros o de carga, sin que se tenga permiso o concesión vigentes para prestarlo. Esta infracción se considerará agravada y se sancionará en términos de esta Ley y su Reglamento.
+
+Los vehículos de motor asegurados se devolverán hasta que se cumplan los requisitos cuyo incumplimiento motivó la infracción, previo pago de las infracciones correspondientes, y acreditar con documento idóneo la propiedad del vehículo.
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+V. Tratándose de vehículos destinados al servicio público de transporte de pasajeros en su modalidad colectiva, la Policía Vial Estatal deberá asegurar y resguardar los vehículos, además de lo previsto en las fracciones anteriores del presente artículo, en los casos siguientes:
+
+a) Por circular sin verificación vigente de emisiones contaminantes;
+
+b) Por tener el vehículo una antigüedad mayor a los diez años, o en su caso carecer de prórroga para su uso una vez vencido ese plazo;
+
+c) Por circular sin póliza de seguro vigente para proteger y asegurar la vida de los usuarios y su carga, del conductor y de terceros, así como para responder por los daños en caso de accidente;
+
+d) Por circular con número de ocupantes mayor al establecido en la tarjeta de circulación;
+
+e) Por circular sin el diseño y la cromática de identificación y homologación establecida por la Secretaría de Movilidad; y
+
+f) Por tener el vehículo aditamentos o accesorios no autorizados por la Secretaría de Movilidad; torretas, estorbos, lámparas o faros que emitan luz roja en la parte delantera o faros o fanales que emitan luz blanca en la trasera; sirenas o accesorios de uso exclusivo de vehículos policiales o de emergencia.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, P.O. 24 DE AGOSTO DE 2024]</small>
 
 Los vehículos de motor asegurados se devolverán hasta que se cumplan los requisitos cuyo incumplimiento motivó la infracción, previo pago de las infracciones correspondientes, y acreditar con documento idóneo la propiedad del vehículo.
 
@@ -1670,3 +1690,13 @@ P.O. 7 DE OCTUBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El Poder Ejecutivo del Estado y las autoridades municipales contarán con 60 días naturales a partir de la publicación del presente Decreto para adecuar sus reglamentos de tránsito conforme a lo aquí dispuesto.
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2350.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN V AL ARTÍCULO 24 DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Poder Ejecutivo del Estado y las autoridades municipales contarán con 60 días naturales a partir de la publicación del presente Decreto para adecuar sus reglamentos de tránsito conforme a lo aquí dispuesto.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
