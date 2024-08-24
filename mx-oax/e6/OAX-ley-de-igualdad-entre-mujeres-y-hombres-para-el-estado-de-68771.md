@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-igualdad-entre-mujeres-y-hombres-para-el-estado-de-68771
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-25"
-last_updated: "2023-10-14"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68771&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 25 de abril de 2009.
 
@@ -135,9 +135,9 @@ XIV. Discriminación contra la Mujer.- Toda distinción, exclusión o restricci�
 
 XV. Igualdad de Género.- Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, cultural y familiar;
 
-> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
 
-XVI. Igualdad Sustantiva.- Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+XVI. Igualdad Sustantiva.- Es el acceso al mismo trato, oportunidades y condiciones para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales, en todos los campos de la vida y esferas de la sociedad, mediante la aplicación efectiva de las medidas necesarias que así lo garanticen.
 
 > <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
@@ -495,7 +495,9 @@ VII. Vincular entre si todas las acciones financiadas para el adelanto de las mu
 
 VIII. Procurar que en el mercado laboral las personas no sean segregadas por razón de su sexo;
 
-IX. Diseñar y aplicar lineamientos que aseguren la igualdad en la contratación del personal en la administración pública;
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+IX. Diseñar y aplicar lineamientos que aseguren la igualdad de género en la selección, ingreso, permanencia y profesionalización de personas en la administración pública;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -962,3 +964,23 @@ PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente.
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2352.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 5 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2370.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 26 DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal e (sic) lo que se opongan al presente Decreto.
