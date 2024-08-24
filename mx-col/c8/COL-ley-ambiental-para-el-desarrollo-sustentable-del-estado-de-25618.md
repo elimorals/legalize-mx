@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2023-12-02"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -653,9 +653,17 @@ I. Promover la participación ciudadana en todas y cada una de las etapas de la 
 
 II. Fomentar la protección al ambiente y a la salud;
 
-III. Fomentar y hacer uso sustentable de los recursos naturales; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
 
-IV. Requerir a las personas físicas o morales la reparación de los daños causados en el caso de inducir cualquier actividad que afecte el ambiente y la disponibilidad futura de los recursos naturales. En el caso de proyectos sometidos a evaluación, los servicios técnicos de consultoría serán corresponsables como personas físicas o morales.
+III. Fomentar y hacer uso sustentable de los recursos naturales;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+IV. Requerir a las personas físicas o morales la reparación de los daños causados en el caso de inducir cualquier actividad que afecte el ambiente y la disponibilidad futura de los recursos naturales. En el caso de proyectos sometidos a evaluación, los servicios técnicos de consultoría serán corresponsables como personas físicas o morales; y
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+V. Regular mayores prohibiciones y deberes para efecto de controlar, reducir o evitar la contaminación de la atmósfera.
 
 ###### ARTÍCULO 21.
 
@@ -3420,5 +3428,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 2 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 365.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 475.- POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 20, DE LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
