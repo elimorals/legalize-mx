@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-a-los-animales-del-estado-de-colima-8287
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-31"
-last_updated: "2022-10-08"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN A LOS ANIMALES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el miércoles 31 de agosto de 2011.
 
@@ -753,6 +753,56 @@ Queda prohibido capturar animales abandonados, entregarlos voluntariamente o est
 
 Los centros de control animal no podrán destinar animales para que se realicen experimentos con ellos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE AGOSTO DE 2024)</small>
+
+I. PARA ABASTO
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+###### Artículo 61 Bis.
+
+En las unidades de producción pecuaria de cualquier especie de animal doméstico destinado al abasto, se debe cumplir con lo siguiente:
+
+I.- Los animales deberán tener fácil acceso a suficiente alimento y agua, acorde con su edad y características biológicas;
+
+II.- El ambiente donde se introduzca al animal debe adaptarse a las especies para minimizar los riesgos, movimientos seguros y cómodos, así como un comportamiento natural, a través de enriquecimiento adecuado. Las bases del enriquecimiento adecuado estarán dispuestas por especie y tipo en el Reglamento de la presente Ley;
+
+III.- Tener periodos suficientes e ininterrumpidos de oscuridad y luz, no inferiores a los necesarios para cada especie;
+
+IV.- Contar con instalaciones que en su diseño garanticen el que no exista riesgo de lesión, enfermedad o estrés para los animales, y se encuentren drenados, secos, cómodos e higiénicos;
+
+V.- Garantizar que en los mecanismos de selección para el mejoramiento genético se considere la sanidad y el bienestar de los animales;
+
+VI.- Contar con protocolos de gestión de desastres, que incluyan procedimientos de evacuación de los animales, conservación de reservas de alimentación;
+
+VII.- Así como las demás disposiciones de otras Leyes, Reglamentos, Normas, Lineamientos y Manuales que norman y regulan los sistemas de producción en la materia.
+
+Los criterios para medir el bienestar de cada especie animal de abasto estarán descritos en la normatividad reglamentaria aplicable.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+###### Artículo 61 Ter.
+
+Durante la producción primaria, las intervenciones dolorosas deberán realizarse exclusivamente por operarios registrados, bajo supervisión de médico veterinario, y sólo cuando sean necesarias, de tal modo que se minimice cualquier dolor, estrés o sufrimiento del animal.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+###### Artículo 61 Quater.
+
+En los sistemas de producción de pollo para engorde, la densidad de carga deberá ser de máximo 30 kilogramos por metro cuadrado, la cual deberá permitir el acceso al alimento, agua y luz natural, así como el espacio suficiente para desplazarse y cambiar de postura con normalidad.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+###### Artículo 61 Quinquies.
+
+En los sistemas de producción de gallina ponedora de huevo destinado al consumo humano, para inducir la muda de plumas se debe implementar una dieta adecuada.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+###### Artículo 61 Sexies.
+
+Se considera sistema de producción de huevo libre de jaula aquel que se lleve a cabo en Casetas o Naves, con o sin acceso al exterior, donde las gallinas disponen de un mayor espacio para moverse sin restricciones y realizar algunos comportamientos naturales que incluyen elementos de enriquecimiento que brindan a las gallinas un entorno de mayor bienestar animal. Ningún tipo de jaula se deberá permitir para la producción de huevo libre de jaula.
+
 ### CAPÍTULO IX. DEL SACRIFICIO DE LOS ANIMALES
 
 ###### Artículo 62.
@@ -1116,3 +1166,15 @@ SEGUNDO. El Poder Ejecutivo del Estado, así como los Ayuntamientos, contarán c
 TERCERO. Se derogan las disposiciones contenidas en la Ley para la Protección de los Animales del Estado de Colima, relativas (sic) los denominados animales domésticos, incluidas en los artículos 3 fracción I; 4 fracción III; 7 fracción VII; 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 74, 79 y 80 de la mencionada Ley.
 
 CUARTO. Las disposiciones relativas a los Centros de Asistencia Animal establecido (sic) en la fracción XIV del artículo 3; la captura de los Animales de Compañía establecida en la fracción VI del artículo 11 y los servicios de cremación establecidos en la fracción VI del artículo 9 de la Ley, se aplicarán de manera paulatina de acuerdo a la disponibilidad presupuestal de la autoridad responsable de su ejecución.
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 472.- POR EL QUE SE ADICIONA EL APARTADO I. DENOMINADO “PARA ABASTO”, AL “CAPÍTULO VIII” “DE LOS ANIMALES SEGÚN SU FIN ESPECÍFICO”, ASÍ COMO LOS ARTÍCULOS 61 BIS, 61 TER, 61 QUATER, 61 QUINQUIES Y 61 SEXIES A LA LEY PARA LA PROTECCIÓN A LOS ANIMALES DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Para el cumplimiento de las disposiciones correspondientes a la producción de Huevo Libre de Jaula, la Subsecretaría de Desarrollo Rural tendrá 180 días naturales para emitir la Norma Estatal correspondiente.
+
+TERCERO.- Para el cumplimiento de las disposiciones relativas a la protección y bienestar de los animales de abasto, la Subsecretaría de Desarrollo Rural tendrá 180 días naturales para emitir el Reglamento correspondiente.
+
+CUARTO.- Los productores y personas responsables de la implementación de las disposiciones en materia de bienestar animal tendrán setecientos treinta días naturales para adecuar sus sistemas de producción a las disposiciones del presente decreto, a partir de la expedición del Reglamento correspondiente.
