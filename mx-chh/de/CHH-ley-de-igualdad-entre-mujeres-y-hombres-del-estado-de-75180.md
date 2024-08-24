@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-igualdad-entre-mujeres-y-hombres-del-estado-de-75180"
 country: "mx"
 rank: "ley"
 publication_date: "2010-05-29"
-last_updated: "2017-02-18"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75180&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 29 de mayo de 2010.
 
@@ -361,9 +361,15 @@ IX. Diseñar, en el ámbito de su competencia, políticas y programas de desarro
 
 X. Proponer, en el ámbito de su competencia, el otorgamiento de estímulos a las empresas que hayan garantizado la igualdad entre mujeres y hombres;
 
-XI. Garantizar el derecho a la denuncia por violación a la presente Ley en el ámbito laboral y económico; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+XI. Garantizar el derecho a la denuncia por violación a la presente Ley en el ámbito laboral y económico;
 
 XII. Difundir, previo consentimiento de las personas físicas o morales, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres.
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+XIII. Promover y difundir acciones encaminadas al reconocimiento progresivo del derecho de las personas a la conciliación de la vida personal, familiar y laboral; así como a establecer los medios y mecanismos tendientes a la convivencia igualitaria, el fomento de la corresponsabilidad en las labores domésticas y en la atención a la familia; sin menoscabo del pleno desarrollo humano y promoción profesional.
 
 ### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA EQUILIBRADA DE LAS MUJERES Y LOS HOMBRES
 
@@ -564,3 +570,11 @@ Igualmente quedan subsistentes todos los compromisos, obligaciones, deudas y dem
 ###### ARTÍCULO TERCERO.
 
 Háganse por parte de la Directora General del "Instituto Chihuahuense de las Mujeres", todas las modificaciones documentales a que haya lugar, para que la razón social del Organismo quede ahora como "Instituto Chihuahuense de las Mujeres".
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0890/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
