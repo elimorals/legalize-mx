@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-08-10"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -453,7 +453,9 @@ I. Políticas para prevenir la discriminación en la atención de las mujeres en
 
 II. Erradicar las practicas, prejuicios o costumbres de las y los funcionarios públicos que impiden o limitan el ejercicio de los derechos de las mujeres, y
 
-III. Capacitar a las y los funcionarios públicos sobre los derechos humanos de las mujeres y la violencia de género.
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+III. La capacitación, profesionalización, especialización y actualización de las y los servidores públicos en materia de derechos humanos y violencia de género.
 
 > <small>(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2022)</small>
 
@@ -3132,6 +3134,16 @@ TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco j
 P.O. 10 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2346.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN V DEL ARTÍCULO 7; Y SE ADICIONAN LA FRACCIÓN XX AL ARTÍCULO 6, UN SEGUNDO PÁRRAFO A LA FRACCIÓN IV Y LA FRACCIÓN XII RECORRIÉNDOSE LA SUBSECUENTE AL ARTÍCULO 7, EL ARTÍCULO 18 TER, Y LA FRACCIÓN XIII RECORRIÉNDOSE LAS SUBSECUENTES AL ARTÍCULO 54, TODOS DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2351.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN III DEL ARTÍCULO 11 TER DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
