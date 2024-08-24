@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "2024-08-21"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -2195,7 +2195,9 @@ Las autoridades auxiliarán a quienes ejercen la patria potestad, tutela o guard
 
 402.- Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
-403.- Cuando la patria potestad se ejerza a la vez por el padre y por la madre; o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será el varón; pero consultará en todos los negocios a su consorte, y requerirá su consentimiento expreso para los actos más importantes de la administración.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+403.- Cuando la patria potestad se ejerza a la vez por el padre y por la madre; o por el abuelo y la abuela, o por los adoptantes, la administración de los bienes será conjunta, y se requerirá el consentimiento expreso de ambas personas para los actos más importantes de la administración.
 
 404.- La persona que ejerza la patria potestad representará también a los hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su consorte, y con la autorización judicial cuando la ley lo requiera expresamente.
 
@@ -2225,7 +2227,9 @@ II.- Cuando contraigan ulteriores nupcias;
 
 III.- Cuando su administración sea notoriamente ruinosa para los hijos.
 
-412.- Cuando por la ley o por la voluntad del padre, el hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+412.- Cuando por la ley o por la voluntad de quienes ejerzan la patria potestad, la hija o hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
 
 413.- Los que ejercen la patria potestad no pueden enajenar ni gravar de ningún modo los bienes inmuebles y los muebles preciosos que correspondan al hijo, sino por causa de absoluta necesidad o de eminente beneficio, y previa la autorización del juez competente.
 
@@ -13438,6 +13442,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 21 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFCOD/0870/2024 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 268 BIS, PRIMER Y SEGUNDO PÁRRAFOS DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVII/RFCOD/0889/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 403 Y 412 DEL CÓDIGO CIVIL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
