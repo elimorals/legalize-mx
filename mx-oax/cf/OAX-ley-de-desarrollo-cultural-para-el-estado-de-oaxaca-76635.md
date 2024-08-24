@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-desarrollo-cultural-para-el-estado-de-oaxaca-76635"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-28"
-last_updated: "2023-05-12"
+last_updated: "2024-08-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
 
 Ley publicada en la Tercera Sección al Periódico Oficial del Estado de Oaxaca, el sábado 28 de Agosto de 2010.
 
@@ -83,9 +83,17 @@ VIII. Ayuntamientos: Aquellos constituidos en el Estado en términos del artícu
 
 IX. Programa: El Programa Estatal de Cultura;
 
-X. Regiones: Las ochos (sic) regiones geográficas reconocidas en la legislación del Estado; y
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
 
-XI. Fondo: El Fondo Estatal para el Desarrollo Cultural del Estado.
+X. Regiones: Las ocho regiones geográficas reconocidas en la legislación del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+XI. Fondo: El Fondo Estatal para el Desarrollo Cultural del Estado; y
+
+> <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2024)</small>
+
+XII. Estereotipos socioculturales de género: Ideas, creencias o convenciones ampliamente compartidas y aceptadas por un pueblo, comunidad o sociedad sobre lo que deben ser las mujeres y los hombres individualmente o como grupo social, que operan ignorando las habilidades, necesidades, deseos y circunstancias personales, para negar o limitar sus derechos o libertades fundamentales.
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -322,6 +330,10 @@ VII. Salvaguarda del Patrimonio Biocultural Colectivo.
 ###### Artículo 12.
 
 El Ejecutivo del Estado por conducto de la Secretaría establecerá en la ejecución de políticas públicas en materia cultural acciones que eviten toda discriminación cultural motivada por origen étnico o nacional, género, idioma, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias u orientación sexual, estado civil o cualquier otra circunstancia o condición que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades.
+
+> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2024)</small>
+
+La política cultural del Estado y los municipios deberá contener acciones para la erradicación de estereotipos socioculturales de género que propician la violencia contra las mujeres y niñas.
 
 ###### Artículo 13.
 
@@ -944,3 +956,9 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan al presente Decreto, aun cuando no estén expresamente derogadas.
+
+P.O. 24 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2364.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 3; SE ADICIONAN (SIC) LA FRACCION XII AL ARTÍCULO 3; Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY DE DESARROLLO CULTURAL DEL ESTADO DE OAXACA”.]
+
+ÚNICO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, el cual entrará en vigor a partir del día siguiente de su referida publicación.
