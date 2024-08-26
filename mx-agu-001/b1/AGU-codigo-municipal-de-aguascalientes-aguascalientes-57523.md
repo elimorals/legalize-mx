@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2024-03-18"
+last_updated: "2024-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,9 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE NOVIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2699,7 +2697,13 @@ XVI. Planear, ordenar y ejecutar todas las acciones que tengan relación con la 
 
 XVII. Tener bajo su mando la Unidad de Derechos Humanos, encargada de atender y dar seguimiento a las quejas que presenten los usuarios de los servicios municipales, así como los servidores públicos adscritos a cualquier dependencia municipal cuando se presuma la comisión de alguna violación a sus derechos humanos;
 
-XVIII. Las demás que señale la ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE AGOSTO DE 2024)</small>
+
+XVIII. Notificar al Órgano Interno de Control del Municipio de Aguascalientes, la creación o modificación de puestos en las unidades administrativas o dependencias, para efecto del proceso de entrega-recepción.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 26 DE AGOSTO DE 2024)</small>
+
+XIX. Las demás que señale la Ley que en materia municipal expida el Poder Legislativo del Estado o le encomiende el H. Ayuntamiento o la persona titular de la Presidencia Municipal.
 
 > <small>(REFORMADO, P.O. 21 DE ENERO DE 2019)</small>
 
@@ -2919,7 +2923,9 @@ VIII. Mantener el correcto desarrollo de las relaciones con los trabajadores del
 
 IX. Intervenir en la elaboración de presupuestos de las dependencias municipales y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos.
 
-X. Informar en el mes de enero de cada año a la Contraloría General del Estado, sobre los servidores públicos obligados a presentar la Declaración de situación Patrimonial.
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2024)</small>
+
+X. Notificar al Órgano Interno de Control del Municipio de Aguascalientes, la creación o modificación de puestos, para efecto del proceso de entrega-recepción.
 
 XI. Desarrollar y establecer los planes, programas y proyectos necesarios para la adecuada seguridad e higiene de todas las áreas de trabajo.
 
@@ -4751,11 +4757,13 @@ La entrega-recepción de la administración municipal, es el proceso a través d
 
 La entrega-recepción de los asuntos y recursos que se encuentran a cargo de los servidores públicos salientes, constituyen un procedimiento legal-administrativo de orden informativo, de cumplimiento obligatorio y formal.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 148.
 
-Los sujetos al proceso de entrega-recepción serán el H. Ayuntamiento, el Presidente Municipal, el Secretario del H. Ayuntamiento y Director General de Gobierno, los Secretarios, los Coordinadores, los Delegados Municipales, los Comisarios Municipales, los que ocupen cargos hasta el nivel de Jefes de Departamento o equivalentes y aquellos de nivel inferior que por la naturaleza e importancia de sus funciones y por la responsabilidad del puesto o encargo que realizan, les sea solicitado por el titular de la dependencia, unidad administrativa o entidad y/o por la Contraloría Municipal.
+Los sujetos al proceso de entrega-recepción serán el H. Ayuntamiento, las personas titulares de: la Presidencia Municipal, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, las Secretarías, las Coordinaciones, las Delegaciones Municipales, las Comisarías Municipales, las que ocupen cargos hasta el nivel de Jefaturas de Departamento o equivalentes y aquellas de nivel inferior que por la naturaleza e importancia de sus funciones y por la responsabilidad del puesto o encargo que realizan, les sea solicitado por la persona titular de la dependencia, unidad administrativa o entidad y/o por el órgano interno de control competente.
 
-Tratándose de entidades, son sujetos al proceso de entrega-recepción, los Directores Generales y los que dentro de ellas ocupen cargos con las características establecidas en el párrafo anterior.
+Tratándose de entidades, son sujetos al proceso de entrega-recepción, las personas titulares de las Direcciones Generales y las que dentro de ellas ocupen cargos con las características establecidas en el párrafo anterior.
 
 ###### ARTÍCULO 149.
 
@@ -4765,83 +4773,105 @@ I. Al término del periodo constitucional de la administración pública municip
 
 II. Por cualquier otra causa distinta al término del periodo constitucional que implique separación temporal o definitiva del cargo y cese de sus funciones de los servidores públicos señalados en el Artículo 148 del presente Código.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 150.
 
-La entrega-recepción se formalizará mediante acta administrativa que se acompañará de un informe escrito de la o el servidor público saliente, autorizado bajo su firma, de las actividades principales realizadas por la oficina a su cargo, así como del estado que guarde, formando parte de la misma los informes, formatos, documentos y elementos anexos que señale la Contraloría Municipal en las disposiciones que al efecto expida. El acta será firmada por la o el servidor público saliente y la o el entrante, ante la presencia de dos testigos y la representación de la Contraloría Municipal y señalará los documentos con posible valor histórico de acuerdo con el catálogo de disposición documental.
+La entrega-recepción se formalizará mediante acta administrativa que se acompañará de un informe escrito de la persona servidora pública saliente, autorizado bajo su firma, de las actividades principales realizadas por la oficina a su cargo, así como del estado que guarde, formando parte de la misma los informes, formatos, documentos y elementos anexos que señale el órgano interno de control competente en las disposiciones que al efecto expida. El acta será firmada por la persona servidora pública saliente y la persona servidora pública entrante, ante la presencia de dos testigos y la representación del órgano interno de control competente y señalará los documentos con posible valor histórico de acuerdo con el catálogo de disposición documental.
 
-Cuando así proceda, los servidores públicos salientes harán constar en el acta la renuncia o la causa o motivo de separación del empleo, cargo o comisión.
+Cuando así proceda, las personas servidoras públicas salientes harán constar en el acta la renuncia o la causa o motivo de separación del empleo, cargo o comisión.
 
-El servidor público que entrega la oficina a su cargo deberá elaborar, requisitar y suscribir el acta administrativa.
+La persona servidora pública que entrega la oficina a su cargo deberá elaborar, requisitar y suscribir el acta administrativa.
 
-Los servidores públicos encargados de la recepción tendrán el derecho de que en el mismo acto de entrega se anoten al final del acta las observaciones que estimen pertinentes.
+Las personas servidoras públicas encargadas de la recepción tendrán el derecho de que en el mismo acto de entrega se anoten al final del acta las observaciones que estimen pertinentes.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 151.
 
-La entrega-recepción se realizará en la fecha en que el servidor público saliente concluya su empleo, cargo o comisión o se de cualquiera de los supuestos contenidos en el Artículo 149 del presente Código.
+La entrega-recepción se realizará en la fecha en que la persona servidora pública saliente concluya su empleo, cargo o comisión o se de cualquiera de los supuestos contenidos en el Artículo 149 del presente Código.
 
-La entrega-recepción del Municipio y del H. Ayuntamiento se llevará a cabo ante Notario Público, una vez terminada la ceremonia de instalación y toma de protesta constitucional del H. Ayuntamiento electo.
+La entrega-recepción del Municipio y del H. Ayuntamiento se llevará a cabo ante Notaria o Notario Público, una vez terminada la ceremonia de instalación y toma de protesta constitucional del H. Ayuntamiento electo.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 152.
 
-En la entrega de los organismos públicos descentralizados de la administración pública municipal, se observarán las disposiciones que previene el presente capítulo, el carácter legal que ostentan y al acuerdo que en tal sentido tome su órgano de gobierno.
+En la entrega de los organismos públicos descentralizados de la administración pública municipal, se observarán las disposiciones que previene el presente capítulo, el carácter legal que ostentan, el acuerdo que en tal sentido tome su órgano de gobierno y los demás lineamientos que emita el Ayuntamiento de Aguascalientes.
 
 Al término del periodo constitucional de la administración pública municipal de Aguascalientes, los organismos públicos descentralizados elaborarán, requisitarán y suscribirán el acta administrativa de su situación actual y de los recursos humanos, financieros, y materiales que tienen asignados para el ejercicio de sus atribuciones legales, conforme a las disposiciones que para la entrega-recepción establece este Código. Esta acta tendrá sólo carácter informativo.
 
-Al acta informativa del organismo municipal regulador del agua potable y alcantarillado se deberá integrar la documentación relativa al manejo de la concesión del servicio por parte de la empresa concesionaria.
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 153.
 
-Cuando el servidor público saliente no efectúe la entrega que señala este ordenamiento, será requerido por la Contraloría Municipal, para que en un término de cinco días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
+Cuando la persona servidora pública saliente no efectúe la entrega que señala este ordenamiento, será requerida por el órgano interno de control competente, para que, en un término de cinco días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
 
-En este supuesto, el servidor público entrante, al tomar posesión, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia del estado en que se encuentran los asuntos y recursos, haciéndolo del conocimiento de su jefe inmediato, del titular de la dependencia, unidad administrativa o entidad y de la Contraloría Municipal para efecto de que inicie el Procedimiento Administrativo de Responsabilidades.
+En este supuesto, la persona servidora pública entrante, al tomar posesión, levantará acta circunstanciada con asistencia de dos testigos, dejando constancia del estado en que se encuentran los asuntos y recursos, haciéndolo del conocimiento de su jefe inmediato, del titular de la dependencia, unidad administrativa o entidad y del órgano interno de control competente para efecto de que inicie el Procedimiento Administrativo de Responsabilidades.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 154.
 
-En el caso en que el servidor público que deba recibir aún no haya sido designado o nombrado, el Presidente Municipal en funciones o el electo en su caso o el titular de la dependencia, unidad administrativa o entidad de su adscripción, designará al que recibirá la oficina, comunicando a la Contraloría Municipal tal designación.
+En el caso en que la persona servidora pública que deba recibir aún no haya sido designada o nombrada, la persona titular de la Presidencia Municipal en funciones o la electa en su caso o la persona titular de la dependencia, unidad administrativa o entidad de su adscripción, designará a la persona que recibirá la oficina, comunicando al órgano interno de control competente tal designación.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 155.
 
-A partir de la fecha en que el servidor público saliente proporcione la información y documentación correspondiente, en los términos y forma establecidos en el Artículo 150 de este Código, se tendrá por formalmente realizada la entrega, aún y cuando el ciudadano habilitado para recibir, se rehúse a hacerlo, quedando el saliente relevado por ello de responsabilidad por lo que se refiere al acto de entrega.
+A partir de la fecha en que la persona servidora pública saliente proporcione la información y documentación correspondiente, en los términos y forma establecidos en el Artículo 150 de este Código, se tendrá por formalmente realizada la entrega, aún y cuando la persona habilitada para recibir, se rehúse a hacerlo, quedando la saliente relevada por ello de responsabilidad por lo que se refiere al acto de entrega.
 
-En este caso, el servidor público saliente deberá entregar los asuntos y recursos a su cargo al titular de su área de adscripción o a quien, en su caso, designe éste o el Presidente Municipal.
+En este caso, la persona servidora pública saliente deberá entregar los asuntos y recursos a su cargo a la persona titular de su área de adscripción o a quien, en su caso, designe esta o la persona titular de la Presidencia Municipal.
 
-Tal situación, el servidor público saliente la asentará en el acta correspondiente y la hará del conocimiento de la Contraloría Municipal, a fin, de que ésta registre el hecho para los efectos legales procedentes.
+Tal situación, la persona servidora pública saliente la asentará en el acta correspondiente y la hará del conocimiento del órgano interno de control competente, a fin, de que éste registre el hecho para los efectos legales procedentes.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 156.
 
-Las observaciones que surjan de la revisión al acta y sus anexos a que se refiere el Artículo 150 de este capítulo, deberán formularse por escrito ante la Contraloría Municipal por los servidores públicos entrantes, dentro de los treinta días hábiles contados a partir de la fecha de entrega-recepción; para tal efecto, la Contraloría Municipal requerirá de inmediato la presencia dentro de los tres días hábiles siguientes del servidor público saliente, el que estará obligado a realizar las aclaraciones que le sean requeridas en el tiempo señalado por la Contraloría, la que deberá levantar el acta correspondiente.
+Las observaciones que surjan de la revisión al acta y sus anexos a que se refiere el Artículo 150 de este capítulo, deberán formularse por escrito ante el órgano interno de control competente por las personas servidoras públicas entrantes, dentro de los veinte días hábiles contados a partir de la fecha de entrega-recepción; para tal efecto, una vez presentadas las observaciones, el órgano interno de control competente, requerirá de inmediato la presencia dentro de los tres días hábiles siguientes de la persona servidora pública saliente, la que estará obligada a realizar las aclaraciones que le sean requeridas en un plazo no mayor a 8 días hábiles contados a partir del día siguiente de la comparecencia, dicho órgano deberá levantar el acta correspondiente.
+
+Asimismo, se podrá otorgar prórroga hasta por la mitad del plazo referido del párrafo que antecede, siempre y cuando se justifique plenamente la necesidad de la misma.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 157.
 
-Con el propósito de facilitar el proceso de entrega-recepción, los titulares de las dependencias, unidades administrativas y entidades tomarán las medidas necesarias a fin de que se mantengan ordenados y permanentemente actualizados los informes, registros, controles y demás documentación relativa a los asuntos de su competencia y la información de los recursos humanos, materiales y financieros de que disponen para el ejercicio de sus funciones.
+Con el propósito de facilitar el proceso de entrega-recepción, las personas titulares de las dependencias, unidades administrativas y entidades tomarán las medidas necesarias a fin de que se mantengan ordenados y permanentemente actualizados los informes, registros, controles y demás documentación relativa a los asuntos de su competencia y la información de los recursos humanos, materiales y financieros de que disponen para el ejercicio de sus funciones.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 158.
 
-Con motivo de la entrega, el servidor público saliente no queda eximido de las responsabilidades en que hubiese incurrido durante el desempeño de su empleo, cargo o comisión.
+Con motivo de la entrega, la persona servidora pública saliente no queda eximida de las responsabilidades en que hubiese incurrido durante el desempeño de su empleo, cargo o comisión.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 159.
 
-El incumplimiento de las disposiciones del presente capítulo denominado "De la Entrega-Recepción de la Administración Pública Municipal" o de las que deriven del mismo, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes, sin perjuicio de cualquier otra responsabilidad en la que pudieran incurrir los servidores públicos.
+El incumplimiento de las disposiciones del presente capítulo denominado “De la Entrega-Recepción de la Administración Pública Municipal” o de las que deriven del mismo, será sancionado en los términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, sin perjuicio de cualquier otra responsabilidad en la que pudieran incurrir las personas servidoras públicas.
+
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 160.
 
-La Contraloría Municipal, en el ámbito de su competencia, queda facultada para:
+El Órgano Interno de Control del Municipio de Aguascalientes, en el ámbito de su competencia, queda facultado para:
 
-I.- Dictar las disposiciones que se requieran para la adecuada aplicación y cumplimiento de este capítulo.
+I.- Dictar las disposiciones que se requieran para la adecuada aplicación y cumplimiento de este capítulo, con aprobación de la mayoría del Ayuntamiento y con base en las disposiciones de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
 II.- Vigilar el cumplimiento y aplicación del presente capítulo, así como de las disposiciones complementarias dictadas.
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 161.
 
-Para los gastos preoperativos de la nueva administración municipal, se asignará al Presidente Municipal electo, una partida especial que deberá establecerse en el Presupuesto de Egresos del último año de la administración, la cual deberá aplicarse conforme a las disposiciones administrativas que al efecto dicte la Contraloría Municipal en apoyo y cumplimiento de lo establecido en el Artículo 104 fracción II de este Código. La partida, así como su manejo y entrega, se deberá ceñir a las siguientes reglas generales.
+Para los gastos preoperativos de la nueva administración municipal, se asignará a la persona titular de la Presidencia Municipal electa, una partida especial que deberá establecerse en el Presupuesto de Egresos del último año de la administración, la cual deberá aplicarse conforme a las disposiciones administrativas que al efecto dicte el Órgano Interno de Control del Municipio de Aguascalientes en apoyo y cumplimiento de lo establecido en el Artículo 104 fracción II de este Código. La partida, así como su manejo y entrega, se deberá ceñir a las siguientes reglas generales.
 
 I. Con cargo a la partida especial asignada, la autoridad municipal sujetará las adquisiciones de bienes muebles y servicios requeridos por la Administración electa al sistema de compras regulado en el Reglamento de Adquisiciones, Arrendamientos y Servicios, bienes que deberán ser registrados en el tiempo y forma establecidos por los numerales 188 al 196 de este Código, ante el Departamento de Control Patrimonial, a fin de que pasen a formar parte del patrimonio del Municipio.
 
-El resguardante de estos bienes lo será el Presidente Municipal electo.
+La persona resguardante de estos bienes lo será la persona titular de la Presidencia Municipal electa.
 
-II. Los gastos menores e imprevistos que con cargo a la partida especial asignada realice la administración electa quedan sujetos a las disposiciones que al efecto emita la Contraloría.
+II. Los gastos menores e imprevistos que con cargo a la partida especial asignada realice la administración electa quedan sujetos a las disposiciones que al efecto emita el Órgano Interno de Control del Municipio de Aguascalientes.
 
 III. El personal requerido, será dado de alta en la nómina municipal, con cargo a la partida especial asignada.
 
@@ -25620,3 +25650,11 @@ P.O. 18 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DE LAS “REFORMAS A LOS ARTÍCULO 112, 112 BIS, 112 TER, 112 QUATER, Y 112 SEXIES; ADICIONES DE LOS ARTÍCULOS 112 OCTIES, 112 NONIES, 112 DECIES Y 112 UNDECIES; DEROGACIÓN DEL ARTÍCULO 112 QUINQUIES; TODOS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES, A FIN DE ARMONIZAR LAS FACULTADES DE LA SECRETARÍA DE DESARROLLO URBANO MUNICIPAL, EN LA REGULACIÓN DE LAS UNIDADES EXTERNAS DE SUPERVISIÓN, CON LO PREVISTO EN EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO. - Las presentes reformas, adiciones y derogaciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 26 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMA AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, Y AL MANUAL DE LINEAMIENTOS QUE REGULAN LA ENTREGA-RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas, adiciones y derogaciones al Código Municipal de Aguascalientes, así como el Manual de Lineamientos que regulan la Entrega-Recepción de la Administración Pública del Municipio de Aguascalientes, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
