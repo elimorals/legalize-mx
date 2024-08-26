@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2024-07-22"
+last_updated: "2024-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "NAY"
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 26 DE AGOSTO DE 2024.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -533,33 +535,33 @@ Conforme a las prioridades del Sistema Estatal de Salud y a los convenios de coo
 
 Se entiende por grupos sociales en situación de vulnerabilidad a aquellos núcleos de población y personas que por diferentes factores o la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida, y por lo tanto, requieren de la atención e inversión del Gobierno para lograr su bienestar.
 
-I.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+I.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-II.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+II.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-III.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+III.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-IV.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+IV.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-V.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+V.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-VI.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+VI.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-VII.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+VII.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-VIII.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+VIII.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-IX.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+IX.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-X.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+X.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-XI.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+XI.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-XII.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+XII.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-XIII.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+XIII.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
-XIV.- (DEROGADA, P.O. 19 DE JULIO DE 2022)
+XIV.- (DEROGADA, P.O. 19 DE JULIO DE 2022) (F. DE E., P.O. 26 DE AGOSTO DE 2024)
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
 
