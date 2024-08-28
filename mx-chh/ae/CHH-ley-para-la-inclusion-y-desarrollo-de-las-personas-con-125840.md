@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-inclusion-y-desarrollo-de-las-personas-con-125840"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-24"
-last_updated: "2021-09-04"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
 
 Ley publicada en el Folleto Anexo al Número 7 del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2018.
 
@@ -211,29 +211,21 @@ VII. Ajustes razonables y ayudas técnicas que aseguren la autonomía personal.
 
 VIII. Trato preferente y contar con la ayuda necesaria de las personas prestadoras de servicios o atención al público en instituciones públicas y privadas.
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 292/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0760/2020 I P.O., POR EL QUE SE REFORMA LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 28 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE OCTUBRE DE 2020)</small>
+IX. Libre acceso y permanencia en espacios de uso público, sean de propiedad privada o pública, que además comprende:
 
-IX. LIBRE ACCESO Y PERMANENCIA EN ESPACIOS DE USO PÚBLICO, SEAN DE PROPIEDAD PRIVADA O PÚBLICA, QUE ADEMÁS COMPRENDE:
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 28 DE AGOSTO DE 2024)</small>
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 292/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0760/2020 I P.O., POR EL QUE SE ADICIONA EL INCISO a) A LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+a) Hacer uso de apoyos o ayudas técnicas.
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 28 DE AGOSTO DE 2024)</small>
 
-a). HACER USO DE APOYOS O AYUDAS TÉCNICAS.
+b) Acompañamiento permanentemente por un perro de asistencia, permitiéndole el acceso a todo edificio, construcción o infraestructura.
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 292/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0760/2020 I P.O., POR EL QUE SE ADICIONA EL INCISO b) A LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 28 DE AGOSTO DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
-
-b). ACOMPAÑAMIENTO PERMANENTEMENTE POR UN PERRO DE ASISTENCIA, PERMITIÉNDOLE EL ACCESO A TODO EDIFICIO, CONSTRUCCIÓN O INFRAESTRUCTURA.
-
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 292/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0760/2020 I P.O., POR EL QUE SE ADICIONA EL INCISO c) A LA FRACCIÓN IX DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2020)</small>
-
-c). ACCEDER Y CIRCULAR EN CUALQUIER MEDIO DE TRANSPORTE DE PASAJEROS QUE PRESTE SERVICIOS EN EL TERRITORIO ESTATAL, SEA GRATUITO O REMUNERADO, PÚBLICO O PRIVADO, INDIVIDUAL O COLECTIVO.
+c) Acceder y circular en cualquier medio de transporte de pasajeros que preste servicios en el territorio estatal, sea gratuito o remunerado, público o privado, individual o colectivo.
 
 X. Comunicación como lenguaje escrito, oral, lengua de señas mexicana, la visualización de textos, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, los medios de voz digitalizada y sistemas aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso.
 
@@ -921,11 +913,9 @@ Para los efectos de la presente Ley, la Secretaría o los ayuntamientos según e
 
 I. Multa equivalente al valor diario de 20 a 50 Unidades de Medida y Actualización, a quienes ocupen indebidamente los espacios de estacionamiento preferencial, o bien, obstruyan las rampas o accesos para personas con discapacidad, u obstaculicen el libre desplazamiento de acuerdo al artículo 6 de esta Ley.
 
-(NOTA: EL 6 DE JUNIO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 292/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO LXVI/RFLEY/0760/2020 I P.O., POR EL QUE SE REFORMA LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE CHIHUAHUA, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 28 DE AGOSTO DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 14 DE OCTUBRE DE 2020)</small>
-
-II. MULTA EQUIVALENTE AL VALOR DIARIO DE 30 A 50 UNIDADES DE MEDIDA Y ACTUALIZACIÓN, A LOS PRESTADORES EN CUALQUIER MODALIDAD DEL SERVICIO PÚBLICO O PRIVADO QUE NIEGUEN, IMPIDAN U OBSTACULICEN EL USO DEL SERVICIO A PERSONAS CON DISCAPACIDAD Y A SU PERRO DE ASISTENCIA, SI ES EL CASO; O QUE NO CUMPLAN CON LAS ADAPTACIONES REQUERIDAS POR LA PRESENTE LEY.
+II. Multa equivalente al valor diario de 30 a 50 Unidades de Medida y Actualización, a los prestadores en cualquier modalidad del servicio público o privado que nieguen, impidan u obstaculicen el uso del servicio a personas con discapacidad y a su perro de asistencia, si es el caso; o que no cumplan con las adaptaciones requeridas por la presente Ley.
 
 III. Multa equivalente al valor diario de 30 a 180 Unidades de Medida y Actualización, a las personas empresarias, administradoras y/u organizadoras de espectáculos públicos que omitan o ubiquen discriminatoriamente los espacios reservados, así como las facilidades de acceso, para personas con discapacidad.
 
@@ -1076,3 +1066,19 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVII/RFLEY/0893/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Decreto No. LXVI/RFLEY/0760/2020 I P.O., publicado en el Periódico Oficial del Estado No. 83, del 14 de octubre de 2020.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos del artículo 46 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, remítase a la Presidenta de la Suprema Corte de Justicia de la Nación, copia certificada del dictamen que da origen al presente Decreto.
