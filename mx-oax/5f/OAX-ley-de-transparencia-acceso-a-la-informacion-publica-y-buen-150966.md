@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-transparencia-acceso-a-la-informacion-publica-y-buen-150
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-04"
-last_updated: "2024-08-10"
+last_updated: "2024-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
 
 Ley publicada en el No. 36 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de septiembre de 2021.
 
@@ -1841,11 +1841,17 @@ Cuando las Unidades de Transparencia determinen la notoria incompetencia por par
 
 Si los sujetos obligados son competentes para atender parcialmente la solicitud de acceso a la información, se deberá dar respuesta respecto de dicha parte y únicamente en estos casos, la notificación de la declaración de incompetencia se realizará dentro de los plazos del procedimiento de acceso a la información.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 124.
 
-Cuando la solicitud presentada no fuese clara en cuanto a la información requerida o no cumpla con alguno de los requisitos señalados en el artículo 122 de esta Ley, el sujeto obligado dentro de los cinco días siguientes a la recepción de la solicitud mandará requerir a la o el solicitante en el medio señalado por éste para recibir notificaciones, a efecto de que, en un plazo de cinco días contados a partir del día siguiente a la notificación del requerimiento, aclare, precise o complemente su solicitud de acceso a la información. En caso de que la o el solicitante no cumpla con dicha prevención, la solicitud de información se tendrá como no presentada. Este requerimiento interrumpirá el plazo otorgado en esta Ley al sujeto obligado respecto del tiempo en que debe dar respuesta a la solicitud de información. Ninguna solicitud de información podrá desecharse si el sujeto obligado omite requerir a la o el solicitante para que subsane su solicitud.
+Cuando la solicitud presentada no fuese clara en cuanto a la información requerida o no cumpla con alguno de los requisitos señalados en el artículo 122 de esta Ley, el sujeto obligado dentro de los cinco días siguientes a la recepción de la solicitud mandará requerir a la o el solicitante en el medio señalado por éste para recibir notificaciones, a efecto de que, en un plazo de cinco días contados a partir del día siguiente a la notificación del requerimiento, aclare, precise o complemente de manera total o parcial su solicitud de acceso a la información, apercibiéndolo que en caso de no hacerlo se tendrá por no presentada su solicitud de información, cuando el requerimiento sea sobre la totalidad de la solicitud.
+
+En el caso de un requerimiento parcial, se le apercibirá al solicitante, que, de no atenderlo, se tendrá por presentada su solicitud solo en la parte que no fue objeto de requerimiento.
+
+Estos requerimientos interrumpirán el plazo otorgado en esta Ley al sujeto obligado respecto del tiempo en que debe dar respuesta a la solicitud de información.
+
+Ninguna solicitud de información podrá desecharse total o parcialmente si el sujeto obligado omite requerir a la o el solicitante para que subsane su solicitud.
 
 ###### Artículo 125.
 
@@ -2578,3 +2584,13 @@ P.O. 10 DE AGOSTO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2339.- MEDIANTE EL CUAL REFORMA EL ARTÍCULO 124 DE LA LEY DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
