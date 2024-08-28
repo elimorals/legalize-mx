@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-a-la-lactancia-materna-en-el-estado-de-oaxaca-12
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-12"
-last_updated: "2017-05-12"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121801&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO A LA LACTANCIA MATERNA EN EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 12 de mayo de 2017.
 
@@ -45,9 +45,11 @@ LEY DE FOMENTO A LA LACTANCIA MATERNA EN EL ESTADO DE OAXACA
 
 ## TITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 1.
 
-Esta Ley es de orden público, interés social, se podrá aplicar a las instituciones públicas, instituciones privadas y personas en los ámbitos relacionados con la lactancia materna y la alimentación óptima de los lactantes y niños pequeños.
+Esta Ley es de orden público, interés social y de observancia general en el Estado de Oaxaca.
 
 ###### ARTÍCULO 2.
 
@@ -95,9 +97,11 @@ XIV. Sucedáneo: Que tiene propiedades parecidas a las de otra y puede sustituir
 
 XV. Sucedáneo de la leche materna: alimento comercializado como sustituto parcial o total de la leche materna.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 6.
 
-Corresponde a la Secretaría vigilar el cumplimiento de las disposiciones de la presente Ley, conforme a lo establecido en la fracción IX del artículo 63 de la Ley Estatal de Salud.
+Corresponde a la Secretaría vigilar el cumplimiento de las disposiciones de la presente Ley, conforme a lo establecido en la Ley General de Salud y la Ley Estatal de Salud en materia de lactancia materna.
 
 ###### ARTÍCULO 7.
 
@@ -121,9 +125,15 @@ VIII. Vigilar y supervisar la operación de clínicas, hospitales y consultorios
 
 IX. Formular las disposiciones reglamentarias de la presente Ley y someterlas a consideración del Titular del Ejecutivo para los efectos conducentes.
 
-X. Expedir las (sic) normatividad reglamentaria en materia de lactancia materna.
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
-XI. Conocer de las infracciones e imponer las sanciones correspondientes de conformidad con lo establecido en la presente Ley.
+X. Llevar a cabo en coordinación con la Secretaría de Educación Pública y con las instituciones de nivel superior, programas de sensibilización y capacitación permanente a los profesionales de la salud sobre los beneficios que produce la lactancia materna;
+
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+
+XI. Expedir la normatividad reglamentaria en materia de lactancia materna; y
+
+XII. Conocer de las infracciones e imponer las sanciones correspondientes de conformidad con lo establecido en la presente Ley.
 
 ###### ARTÍCULO 8.
 
@@ -179,7 +189,9 @@ VI. Fomentar y vigilar que la lactancia materna y la alimentación complementari
 
 VII. Promover la creación de espacios de lactancia en los establecimientos de salud que cuenten con servicios neonatales.
 
-VIII. Fomentar y vigilar que las instituciones públicas y privadas y los profesionales de la salud cumplan con las disposiciones de la presente Ley.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+
+VIII. Fomentar y vigilar que las instituciones públicas y privadas y los profesionales de la salud cumplan con las disposiciones de la presente Ley, la Ley Estatal de Salud y la Ley General de Salud.
 
 IX. Incluir en los materiales informativos y educativos relativos a la alimentación de lactantes y niños pequeños, los aspectos siguientes:
 
@@ -294,3 +306,13 @@ Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpl
 “Dado en el Salón de Sesiones del H. Congreso del Estado, San Raymundo Jalpan, Centro. Oaxaca, a 15 de abril de 2017.- Dip. Samuel Gurrión Matías, Presidente.- Dip. Donovan Rito García, Secretario.- Dip. Rosa Elia Romero Guzmán, Secretaria. Dip. Paola Gutiérrez Galindo, Secretaria.- Rúbricas.
 
 Por lo tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento. Palacio de Gobierno. Centro, Oax., a 24 de Abril de 2017. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. Mtro. Alejandro Ismael Murat Hinojosa.- Rubrica.- La encargada de despacho de la Secretaría General de Gobierno, Lic. María del Carmen Ricárdez Vela.- Rubrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2336.- MEDIANTE EL CUAL REFORMAN EL ARTÍCULO 1, EL ARTÍCULO 6, LA FRACCIÓN XI DEL ARTÍCULO 7 Y LA FRACCIÓN VIII DEL ARTÍCULO 14; SE ADICIONA LA FRACCIÓN X RECORRIENDOSE EN SU ORDEN LAS SUBSECUENTES AL ARTÍCULO 7 DE LA LEY DE FOMENTO A LA LACTANCIA MATERNA EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
