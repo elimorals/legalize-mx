@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2024-08-23"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,7 +23,7 @@ scjn_last_update: "2026-08-20"
 
 CÓDIGO CIVIL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2024.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -11505,9 +11505,9 @@ ARTICULO 2,448 C.- La duración mínima de todo contrato de arrendamiento de inm
 
 ARTICULO 2,448 D.- Para los efectos de este capítulo la renta deberá estipularse en moneda nacional y solo podrá ser aumentada anualmente.
 
-> <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2024)</small>
 
-En aquellos contratos en que el importe de la renta mensual no exceda de a 5,400 veces la Unidad de Cuenta de la Ciudad de México vigente y no exceda de 9,000 veces la Unidad de Cuenta de la Ciudad de México vigente; el incremento no podrá exceder del 10% de la cantidad pactada como renta mensual.
+El incremento de la renta nunca será mayor a la inflación reportada por el Banco de México en el año anterior, respecto de la cantidad pactada como renta mensual.
 
 > <small>(REFORMADO, G.O. 16 DE ENERO DE 2003)</small>
 
@@ -11548,6 +11548,18 @@ IX.- El monto del depósito o en su caso los datos del fiador en garantía.
 (ADICIONADA, G.O. 16 DE ENERO DE 2003) (F. DE E., G.O. 6 DE FEBRERO DE 2003)
 
 X.- El carácter y las facultades con que el arrendador celebrará el contrato, incluyéndose todos los datos del instrumento con que éste acredite su personalidad.
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2024)</small>
+
+Se establecerá un registro digital de contratos de arrendamiento, de autorización inmediata, a cargo del Gobierno de la Ciudad de México y para tales efectos el arrendador deberá registrar sus contratos en un plazo no mayor a 30 días de celebrado el contrato.
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2024)</small>
+
+El registro a que se refiere el párrafo anterior se regirá de conformidad con los criterios de la Ley de Transparencia, Acceso a la Información Pública y Rendición de Cuentas de la Ciudad de México, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados de la Ciudad de México, además de que por ningún motivo, salvo por resolución judicial, podrá ser público o darse a conocer.
+
+> <small>(ADICIONADO, G.O. 28 DE AGOSTO DE 2024)</small>
+
+La persona o personas servidoras públicas encargadas del registro que hagan mal uso del mismo, o que no actúen con el deber de cuidado necesario para preservar la integridad y divulgación de los datos de los particulares, serán sancionadas conforme a las disposiciones legales aplicables en materia penal y administrativa.
 
 ARTICULO 2,448 G.- (DEROGADO, G.O. 14 DE MAYO DE 2010)
 
@@ -15340,3 +15352,15 @@ G.O. 23 DE AGOSTO DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2448 D Y SE ADICIONA UN TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 2448 F, AMBOS NUMERALES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL Y SE MODIFICAN LAS FRACCIONES XV Y XVI, ADICIONÁNDOSE UNA FRACCIÓN XVII AL ARTÍCULO 1; SE ADICIONA UNA FRACCIÓN XXXVII BIS AL ARTÍCULO 5; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 12; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 13; SE ADICIONA UNA FRACCIÓN X BIS AL ARTÍCULO 21; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 24; SE ADICIONA UNA FRACCIÓN VII BIS AL ARTÍCULO 26; SE REFORMA EL ARTÍCULO 53 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 59; Y SE REFORMA (SIC) LOS ÚNICOS PÁRRAFOS DEL ARTÍCULO 60 Y 73, TODOS LOS DISPOSITIVOS DE LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO, EN MATERIA DE RENTAS”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El registro a que se refiere el último párrafo del artículo 2448 F del Código Civil para el Distrito Federal, se llevará a cabo de conformidad con el mecanismo que el Gobierno de la Ciudad de México establezca, en un plazo no mayor a 30 días posteriores a la entrada en vigor del presente decreto.
+
+Los contratos de arrendamiento que se encuentren en curso a la entrada en vigor del presente decreto deberán registrarse por el arrendador en un plazo no mayor a 90 días posteriores a lo señalado en el párrafo anterior.
