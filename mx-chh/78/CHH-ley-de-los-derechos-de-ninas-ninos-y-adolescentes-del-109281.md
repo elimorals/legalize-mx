@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-08-21"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -1377,7 +1377,9 @@ Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custod
 
 I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación y nutrición, habitación, educación, vestido, atención médica y psicológica preventiva integrada a la salud, asistencia médica y recreación. Con relación a las niñas, niños y adolescentes con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo.
 
 > <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2020)</small>
 
@@ -1764,6 +1766,12 @@ X. Coadyuvar en la integración del sistema de información a nivel estatal de n
 XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales.
 
 XII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y el DIF Estatal.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
+###### Artículo 126 Bis.
+
+Los tribunales estatales deberán suministrar, intercambiar, sistematizar y actualizar la información que se genere sobre el incumplimiento de las obligaciones alimentarias, en el ámbito de sus competencias, a través de los sistemas e instrumentos tecnológicos del Sistema Nacional DIF, para integrar el Registro Nacional de Obligaciones Alimentarias.
 
 #### SECCIÓN SEGUNDA. DEL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE CHIHUAHUA
 
@@ -2938,6 +2946,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 21 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0863/2024 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 65, UNA FRACCIÓN XXIV, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0860/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
