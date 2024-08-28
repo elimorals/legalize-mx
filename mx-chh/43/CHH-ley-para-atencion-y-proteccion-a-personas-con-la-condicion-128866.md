@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-atencion-y-proteccion-a-personas-con-la-condicion-1288
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-12"
-last_updated: "2023-06-21"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
 
 Ley publicada en el Folleto Anexo al Número 38 del Periódico Oficial del Estado de Chihuahua, el sábado 12 de mayo de 2018.
 
@@ -59,7 +59,9 @@ Las disposiciones de la presente Ley son de orden público, de interés social y
 
 La presente Ley tiene por objeto impulsar la plena integración e inclusión a la sociedad de las personas con la condición del espectro autista, mediante la protección de sus derechos y necesidades fundamentales que les son reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales, en la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista y en la Constitución Política para el Estado de Chihuahua, sin perjuicio de los demás derechos tutelados por otras leyes u ordenamientos.
 
-Así mismo, tiene por objeto garantizar la atención integral y protección a las personas con trastorno del espectro autista y complementar las demás normas existentes sobre la materia, estableciendo un régimen legal que fomente el diagnóstico temprano y oportuno, la intervención inmediata, protección de la salud, educación inclusiva, capacitación, inserción laboral y social incluyendo la cultura, recreación y el deporte.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
+Así mismo, tiene por objeto garantizar la atención integral y protección a las personas con la condición del espectro autista y complementar las demás normas existentes sobre la materia, estableciendo un régimen legal que fomente el diagnóstico temprano y oportuno, la intervención inmediata, protección de la salud, educación inclusiva, capacitación, inserción laboral y social incluyendo la cultura, recreación y el deporte.
 
 ###### ARTÍCULO 3.
 
@@ -69,15 +71,21 @@ I. Actividades Educativas, Socioculturales y Recreativas: aquellas que se realiz
 
 II. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a las personas con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales.
 
-III. Comorbilidad: la presencia de trastornos coexistentes, o que se agregan a la enfermedad primaria, pero que no se relacionan con ella.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+
+III. Comorbilidad: la presencia de trastornos o enfermedades coexistentes, o que se agregan a la condición primaria, pero que no se relacionan con ella.
 
 IV. Coordinación: Coordinación Interinstitucional para la Atención y Protección a Personas con la Condición del Espectro Autista, de la Secretaría de Salud del Estado.
 
-V. Diagnóstico: el proceso de carácter deductivo mediante el cual las y los profesionales de la salud, con base en sus conocimientos, experiencia clínica y conforme a las categorías reconocidas por la comunidad científica, caracterizan el comportamiento de una persona con la condición del espectro autista o cualquier enfermedad, identifican trastornos comórbidos y de otros trastornos evolutivos, y establecen un plan de intervención apropiado para la atención de dicha persona.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+
+V. Diagnóstico: el proceso de carácter deductivo mediante el cual las y los profesionales de la salud, con base en sus conocimientos, experiencia clínica y conforme a las categorías reconocidas por la comunidad científica, caracterizan el comportamiento de una persona con la condición del espectro autista o cualquier enfermedad, identifican trastornos o condiciones comórbidas o evolutivas, y establecen un plan de intervención apropiado para la atención de dicha persona.
 
 VI. Educación inclusiva: aquella que garantiza el acceso, permanencia, participación y aprendizaje de todo ser estudiando, con especial énfasis en quienes sufren exclusión, marginación o están en riesgo de estarlo, a través de la puesta en práctica de un conjunto de acciones orientadas a eliminar o minimizar las barreras que limitan el aprendizaje y la participación del alumnado, y que surgen de la interacción entre las y los estudiantes y sus contextos.
 
-VII. Espectro Autista: todas aquellas personas que presentan una condición caracterizada en diferentes grados por dificultades en la interacción social, en la comunicación verbal y no verbal, y en comportamientos repetitivos.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+
+VII. Espectro Autista: se caracteriza por déficits persistentes en la capacidad de iniciar y sostener la interacción social recíproca y la comunicación social, y por un rango de patrones comportamentales e intereses restringidos, repetitivos e inflexibles.
 
 VIII. Estado: Estado Libre y Soberano de Chihuahua.
 
@@ -157,7 +165,9 @@ IV. Solicitar y recibir los certificados de evaluación y diagnóstico indicativ
 
 V. Recibir consultas clínicas y terapias de habilitación especializadas en la red hospitalaria del Estado de Chihuahua y sus municipios, así como en las instituciones privadas derivado de la subrogación contratada.
 
-VI. Contar con los cuidados apropiados para su salud mental y física, con acceso a tratamientos y medicamentos de calidad, que les sean administrados oportunamente, tomando todas las medidas y precauciones necesarias.
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+
+VI. Contar con los cuidados apropiados para su salud mental y física, con acceso gratuito a tratamientos y medicamentos de calidad, que les sean administrados oportunamente por el Estado, tomando todas las medidas y precauciones necesarias.
 
 VII. Ser inscritos en el Sistema de Protección Social en Salud, conforme a lo establecido en la Ley General de Salud.
 
@@ -399,11 +409,15 @@ Programar y realizar, conforme a las disposiciones aplicables, acciones de salud
 
 Desarrollar acciones de promoción en materia de salud sexual y reproductiva para personas con la condición del espectro autista, en las que se priorice la información accesible en la materia, así como alternativas para su orientación y atención personalizada y, en su caso, acceso a los métodos de planificación familiar, respetando los derechos humanos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 26.
 
-Realizar, dentro de las instituciones que conforman el Sistema Estatal de Salud, la evaluación clínica de las personas dentro de los tres primeros años de vida, con el propósito de detectar o descartar, de manera temprana, la condición del espectro autista, conforme a sus protocolos certificados y autorizados.
+Realizar, dentro de las instituciones que conforman el Sistema Estatal de Salud, la evaluación clínica de las personas dentro de los tres primeros años de vida, con el propósito de detectar de manera temprana y atender, con los tratamientos y medicamentos necesarios, la condición del espectro autista o, en su caso, descartarla, conforme a sus protocolos certificados y autorizados.
 
-Así mismo, la detección y atención de comorbilidades o afecciones comórbidas, que a menudo se presentan.
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
+Así mismo, la detección y atención de comorbilidades o afecciones comórbidas, que a menudo se presentan, brindando los tratamientos y medicamentos que se requieran.
 
 ###### ARTÍCULO 27.
 
@@ -447,11 +461,15 @@ A través del Programa Nacional de Trabajo y Empleo para las Personas con Discap
 
 Queda prohibido solicitar o tomar en consideración documento médico alguno en el que se haga constar o se certifique, que las personas con la condición del espectro autista se encuentran aptas para el desempeño de actividades laborales, productivas o de cualquier otra índole y, por lo tanto, que condicione la posibilidad de su contratación laboral o el desarrollo o práctica de actividades de su interés.
 
-### CAPÍTULO VI. Desarrollo Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE AGOSTO DE 2024)</small>
+
+### CAPÍTULO VI. Desarrollo Social y Humano
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 33.
 
-La Secretaría de Desarrollo Social de (sic) Gobierno del Estado, incluirá en su política general de desarrollo social para el combate a la pobreza, en los términos previstos en los artículos 60 y 61 del Reglamento de la Ley General para la Inclusión de las Personas con Discapacidad, beneficios a las personas con la condición del espectro autista y sus familias, especialmente a quienes se encuentran en situación de marginación.
+La Secretaría de Desarrollo Humano y Bien Común de (sic) Gobierno del Estado, incluirá en su política general de desarrollo social y humano para el combate a la pobreza, en los términos previstos en los artículos 60 y 61 del Reglamento de la Ley General para la Inclusión de las Personas con Discapacidad, beneficios a las personas con la condición del espectro autista y sus familias, especialmente a quienes se encuentran en situación de marginación.
 
 Incorporará en las reglas de operación de sus programas sociales, acciones específicas enfocadas a beneficiar a las personas con discapacidad y sus familias.
 
@@ -560,3 +578,19 @@ P.O. 21 DE JUNIO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLEY/0883/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades competentes de la Administración Pública Estatal realizarán, en su caso, las modificaciones y adecuaciones pertinentes, de acuerdo con lo establecido en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular del Poder Ejecutivo del Estado, establecerá las previsiones y demás recursos financieros en los presupuestos anuales de egresos, a fin de cumplir con lo establecido en el presente Decreto.
