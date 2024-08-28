@@ -4,7 +4,7 @@ identifier: "OAX-ley-en-materia-de-desaparicion-de-personas-para-el-estado-14032
 country: "mx"
 rank: "ley"
 publication_date: "2019-10-04"
-last_updated: "2024-07-20"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140322&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
 
 Ley publicada en el Número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 4 de octubre de 2019.
 
@@ -299,7 +299,9 @@ VI. Emitir informes públicos trimestrales, sobre los avances, resultados de la 
 
 VII. Solicitar a la Comisión Nacional emita medidas extraordinarias y de alertas, cuando en un municipio o región del estado aumente significativamente el número de desapariciones, así como vigilar el cumplimiento de las medidas extraordinarias que se establezcan por la Comisión Nacional para enfrentar la contingencia;
 
-VIII. Mantener comunicación con la Fiscalía Especializada y demás autoridades federales, estatales y municipales para la coordinación constante de acciones de búsqueda y localización o por recomendación de la Comisión Nacional;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+
+VIII. Mantener comunicación con la fiscalía especializada y demás autoridades federales, estatales y municipales para la coordinación constante de acciones de búsqueda y localización a partir de la información obtenida en la investigación de los delitos materia de esta ley. Y, derivado de las acciones de búsqueda que implemente, dar aviso de manera inmediata a la Fiscalía Especializada que corresponda sobre la existencia de información relevante y elementos que sean útiles para la investigación de los delitos en materia de ésta y otras leyes, de conformidad con el Protocolo Homologado de Búsqueda, así como firmar los registros correspondientes de las actuaciones en que haya participado;
 
 IX. Celebrar, de conformidad con las disposiciones aplicables, convenios de coordinación, colaboración y concertación, o cualquier otro instrumento jurídico necesarios para el cumplimiento de su objeto, tanto con instituciones gubernamentales como en privadas, conforme a lo dispuesto en el artículo 94 de la Ley General;
 
@@ -315,7 +317,9 @@ XIV. Formular solicitudes de colaboración en acciones de búsqueda a la Fiscal�
 
 XV. Realizar y dar seguimiento a las acciones de búsqueda, de manera coordinada con las Comisiones Locales de Búsqueda de las demás entidades y con la Comisión Nacional de Búsqueda de Personas Desaparecidas, atendiendo a las características propias del caso, así como a las circunstancias de ejecución o la relevancia social del mismo;
 
-XVI. Colaborar en la investigación y persecución de los delitos vinculados con sus funciones con el Tribunal Superior de Justicia del Estado y sus órganos jurisdiccionales, con la Fiscalía General del Estado de Oaxaca y con sus dependencias especializadas;
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
+
+XVI. Colaborar en la investigación y persecución de los delitos, vinculados con sus funciones, con el Tribunal Superior de Justicia del Estado y sus órganos jurisdiccionales, con la Fiscalía General del Estado de Oaxaca y con sus dependencias especializadas, para lo cual deberá acudir a todos los llamados que éstas realicen y firmar los registros correspondientes a la cadena de custodia siempre que haya participado en la investigación y en el hallazgo de indicios;
 
 XVII. Recibir la información que aporten los particulares u organizaciones civiles en los casos de desaparición forzada de personas y desaparición cometida por particulares y, en su caso, remitirla a la Fiscalía General del Estado;
 
@@ -1286,5 +1290,13 @@ P.O. 20 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2319.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXII DEL ARTÍCULO 24 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 6 DE LA LEY DE LA CORPORACIÓN OAXAQUEÑA DE RADIO Y TELEVISIÓN, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE”.]
 
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2341.- MEDIANTE CUAL REFORMAN LAS FRACCIONES VIII Y XVI DEL ARTÍCULO 24 DE LA LEY EN MATERIA DE DESAPARICIÓN DE PERSONAS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
