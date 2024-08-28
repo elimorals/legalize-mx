@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2024-07-06"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -913,7 +913,9 @@ La acción popular podrá ejercitarse por cualquier persona, bastando para darle
 
 La atención materno-infantil tiene carácter prioritario y comprende las siguientes acciones:
 
-I.- (DEROGADA, P.O. 26 DE SEPTIEMBRE DE 1998)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE AGOSTO DE 2024)</small>
+
+I.- La atención humanizada de la mujer sin violencia, ni discriminación y con enfoque de derechos humanos durante el embarazo, el parto y el puerperio.
 
 > <small>(REFORMADA, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -947,9 +949,9 @@ VIII.- La mujer embarazada deberá ser atendida preferentemente en parto natural
 
 IX.- El recién nacido después del momento del parto deberá tener contacto físico con la madre, si el estado de salud de ambos lo permite;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
-X.- La mujer embarazada deberá ser acompañada por algún familiar, amistad o persona de su confianza en toda la atención materno-infantil;
+X.- A que la mujer embarazada sí lo desea en todo momento puede estar acompañada por algún familiar, amistad o persona de su confianza durante el trabajo de parto, el parto, en su caso el procedimiento de cesárea y en toda la atención materno-infantil;
 
 > <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2023)</small>
 
@@ -1001,13 +1003,17 @@ III.- Acciones de capacitación para fortalecer la competencia técnica de las p
 
 IV.- Acciones de capacitación dirigidas al personal de salud, público o privado, para evitar toda acción u omisión que atente contra el derecho a la salud sexual, los derechos reproductivos de las mujeres durante el embarazo, el parto y el puerperio y su autonomía para ejercerlos de manera informada;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
-V.- Acciones de capacitación para evitar el abuso de medicalización y patologización de los procesos naturales, trayendo consigo la pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y su sexualidad, daño físico, psicológico, o la muerte de la madre o del producto por negligencia o impericia, y;
+V.- Acciones de capacitación para evitar el abuso de medicalización y patologización de los procesos naturales, trayendo consigo la pérdida de autonomía y capacidad de decidir libremente sobre sus cuerpos y su sexualidad, daño físico, psicológico, o la muerte de la madre o del producto por negligencia o impericia;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
-VI.- Acciones de equipamiento y áreas especializadas para la atención materno-infantil.
+VI.- Acciones de equipamiento y áreas especializadas para la atención materno-infantil; y
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2024)</small>
+
+VII.- Para impulsar y fomentar la capacitación y sensibilización continua al personal de salud que presta servicios en la atención gineco-obstétrica para evitar prejuicios basados en la discriminación de las mujeres y brindarles información sobre sus derechos relacionados con el embarazo, el parto y el puerperio.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -1066,6 +1072,10 @@ Las autoridades sanitarias estatales asegurarán que la prestación de los servi
 Todas las acciones en materia de salud reproductiva deberán llevarse a cabo en español y en la lengua o lenguas en uso en la región o comunidad a la que se destinen; así como en formatos accesibles para personas ciegas o con discapacidad visual, formatos de lectura fácil para personas con discapacidad psicosocial, y contar con traductoras al lenguaje de señas mexicano.
 
 Quienes practiquen esterilización o cualquier otro medio contraceptivo sin la voluntad del paciente o ejerzan presión para que éste la admita serán sancionados conforme las disposiciones de esta Ley, independientemente de la responsabilidad penal en que incurran.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
+El personal de salud informará a las personas embarazadas sobre el derecho de estar acompañadas por una persona de confianza durante el trabajo de parto, el parto, el procedimiento de cesárea y en toda la atención materno-infantil, debiéndose tomar las medidas de higiene y seguridad necesarias.
 
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2023)</small>
 
@@ -2045,25 +2055,25 @@ Para la mayor eficacia de las acciones a las que se refiere este artículo, se c
 
 I.- La persona titular de la Secretaría de Salud, quien fungirá como presidente o presidenta del Consejo;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
-II.- La persona titular de la Secretaría General de Gobierno;
+II.- La persona titular de la Secretaría de Gobierno;
 
 > <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
 
 III.- La persona titular de la Secretaría de Movilidad;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
-IV.- La persona titular de la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+IV.- La persona titular de la Secretaría de Infraestructuras y Comunicaciones;
 
 > <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
 
 V.- La persona titular de la Secretaría de Finanzas;
 
-> <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2024)</small>
 
-VI.- La persona titular de la Secretaría de Seguridad Pública;
+VI.- La persona titular de la Secretaría de Seguridad y Protección Ciudadana;
 
 > <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
 
@@ -4472,3 +4482,19 @@ P.O. 6 DE JULIO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2335.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES II, IV Y VI DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 125 DE (SIC) LEY ESTATAL DE SALUD".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2337.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES I Y X DEL ARTÍCULO 56, LAS FRACCIONES V Y VI DEL ARTÍCULO 59; SE ADICIONAN LA FRACCIÓN VII AL ARTÍCULO 59 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 62 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
