@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-etica-de-la-administracion-publica-de-la-ciudad-13330
 country: "mx"
 rank: "codigo"
 publication_date: "2019-02-07"
-last_updated: "2019-02-07"
+last_updated: "2024-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133309&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2019-02-05"
 ---
 # CODIGO DE ETICA DE LA ADMINISTRACION PUBLICA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA Y ALCALDÍAS DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 28 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2024 (ABROGADO).
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el jueves 7 de febrero de 2019.
 
@@ -379,3 +381,19 @@ EL SECRETARIO DE LA CONTRALORÍA GENERAL DE LA CIUDAD DE MÉXICO
 (Firma)
 
 MTRO. JUAN JOSÉ SERRANO MENDOZA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA Y ALCALDÍAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Código en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Se abroga el Código de Ética de la Administración Pública de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México, el 7 de febrero de 2019, y se dejan sin efectos las demás disposiciones administrativas que contravengan el contenido del presente Código.
+
+CUARTO. Los entes públicos tendrán 150 días hábiles, siguientes a la entrada en vigor del presente Código para actualizar sus Códigos de Conducta, en términos del presente Código de Ética y de la Guía para su elaboración que al efecto emita la Secretaría.
+
+QUINTO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
