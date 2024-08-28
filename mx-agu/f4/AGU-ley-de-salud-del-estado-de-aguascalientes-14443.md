@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2024-08-05"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -1427,8 +1427,6 @@ El Gobierno del Estado coadyuvará con la Secretaría de Salud, en las acciones 
 
 ### CAPITULO VII. Salud Mental
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2024)</small>
-
 ### CAPITULO VIII. Enfermedad Renal
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2023)</small>
@@ -1451,15 +1449,7 @@ ARTICULO 83 UNDECIES.- (DEROGADO, P.O. 27 DE OCTUBRE DE 2023)
 
 ###### ARTICULO 79.
 
-La salud mental y prevención de las adicciones tendrán carácter prioritario dentro de las políticas de salud y deberán brindarse conforme a lo establecido en la Constitución y en los tratados internacionales en materia de derechos humanos.
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
-
-Toda persona tiene derecho a gozar del más alto nivel posible de salud mental, sin discriminación por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad, la expresión de género, la filiación política, el estado civil, el idioma, los antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
-
-> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
-
-Para los efectos de esta Ley, se entiende por salud mental un estado de bienestar físico, mental, emocional y social determinado por la interacción del individuo con la sociedad y vinculado al ejercicio pleno de los derechos humanos; y por adicción a la enfermedad física y psico-emocional que crea una dependencia o necesidad hacia una sustancia, actividad o relación.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
 
@@ -1473,63 +1463,9 @@ La atención a la salud mental deberá brindarse con un enfoque comunitario, de 
 
 ARTICULO 79 TER.- La atención de la salud mental y las adicciones del comportamiento comprende todas las acciones a las que se refiere el artículo 44 de esta Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 8 DE ENERO DE 2024)</small>
-
 ###### ARTICULO 80.
 
-Los servicios y programas en materia de salud mental y adicciones deberán privilegiar la atención comunitaria, integral, interdisciplinaria, intercultural, intersectorial, con perspectiva de género y participativa de las personas desde el primer nivel de atención y los hospitales generales.
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE ENERO DE 2024)</small>
-
-Para la promoción de la salud mental, el Organismo y las instituciones de salud, en coordinación con las autoridades competentes del Estado y sus municipios fomentarán y apoyarán:
-
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
-
-I.- El desarrollo de actividades educativas, socioculturales y recreativas con carácter permanente que contribuyan a la salud mental y a la prevención de adicciones, preferentemente a grupos en situación de vulnerabilidad;
-
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
-
-II.- La difusión de las orientaciones para la promoción de la salud mental, así como el conocimiento y prevención de los trastornos mentales y por consumo prejudicial de sustancias psicoactivas, y de adicciones;
-
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
-
-III.- La realización de programas para la prevención y control del uso prejudicial de sustancias psicoactivas y de adicciones;
-
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
-
-IV.- Las acciones y campañas de promoción de los derechos de la población, sobre salud mental y adicciones, así como de sensibilización para reducir el estigma y la discriminación, a fin de favorecer el acceso oportuno a la atención;
-
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
-
-V.- La implementación estratégica de servicios de atención de salud mental y adicciones en establecimientos de la red integral de servicios de salud del Sistema Estatal de Salud, que permita abatir la brecha de atención;
-
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
-
-VI.- La investigación multidisciplinaria en materia de salud mental;
-
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2024)</small>
-
-VII.- La participación de observadores externos en derechos humanos y la implementación de un mecanismo de supervisión y el desarrollo de programas que promuevan, protejan y garanticen los derechos humanos en cualquier establecimiento de salud;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ENERO DE 2024)</small>
-
-VIII.- La detección de los grupos poblacionales en riesgo de presentar trastornos mentales y por consumo perjudicial de sustancias psicoactivas, y de adicciones, preferentemente (sic) niñas, niños y adolescentes y miembros de grupos en situación de vulnerabilidad;
-
-> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
-
-IX.- El desarrollo de equipos de respuesta inmediata para situaciones de crisis, capacitados en técnicas para atenuar el escalamiento de crisis;
-
-> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
-
-X.- La capacitación y educación en salud mental al personal de salud del Sistema Estatal de Salud;
-
-> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2024)</small>
-
-XI.- El desarrollo de acciones y programas para detectar, atender y prevenir el suicidio; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE ENERO DE 2024)</small>
-
-XII.- Las demás acciones que directa o indirectamente contribuyan a la prevención, atención, recuperación y fomento de la salud mental de la población.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
 
@@ -1563,31 +1499,9 @@ III.- Programas educativos en salud mental con enfoque de derechos humanos y per
 
 IV.- Programas en los medios de comunicación masiva en lenguaje claro, formatos accesibles y con pertinencia lingüística.
 
-> <small>(REFORMADO, P.O. 8 DE ENERO DE 2024)</small>
-
 ###### ARTICULO 81.
 
-La población usuaria de los servicios de salud mental tendrán los derechos siguientes:
-
-I.- A la mejor atención disponible en materia de salud mental con perspectiva intercultural, pertinencia lingüística y perspectiva de género, lo que incluye el trato sin discriminación y con respeto a la dignidad de la persona, en establecimientos del Sistema Estatal de Salud;
-
-II.- A contar con mecanismos de apoyo en la toma de decisiones y a directrices de voluntad anticipada sobre el consentimiento informado;
-
-III.- Al consentimiento informado de la persona con relación al tratamiento a recibir;
-
-IV.- A no ser sometido a medidas de aislamiento, contención coercitiva o cualquier práctica que constituya tratos crueles, inhumanos o degradantes y, en su caso, ser sujeto a medios para atenuar el escalamiento de crisis;
-
-V.- A un diagnóstico integral e interdisciplinario y a un tratamiento basado en un plan prescrito individualmente con historial clínico, revisado periódicamente y modificado de acuerdo con la evolución del paciente, que garantice el respeto a su dignidad de persona humana y sus derechos humanos;
-
-VI.- A no ser sometido a tratamientos irreversibles o que modifiquen la integridad de la persona;
-
-VII.- A ser tratada y atendida en su comunidad o lo más cerca posible al lugar en donde habiten sus familiares o amigos;
-
-VIII.- A la confidencialidad de la información sobre su salud;
-
-IX.- A tener acceso y disponibilidad a servicios de salud mental y adicciones; y
-
-X.- A los derechos establecidos en la legislación nacional y los tratados y convenciones internacionales, vinculantes, de los que México forma parte.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
 > <small>(ADICIONADO, P.O. 8 DE ENERO DE 2024)</small>
 
@@ -1617,199 +1531,27 @@ ARTICULO 81 QINQUIES (SIC).- Los establecimientos del Sistema Estatal de Salud e
 
 ###### ARTICULO 82.
 
-Los padres, tutores o quienes ejerzan la patria potestad de menores, los responsables de su guarda, las autoridades educativas y cualquier persona que esté en contacto con los mismos, procurarán la atención inmediata de los menores que presenten alteraciones de conducta que permitan suponer la existencia de enfermedades mentales.
-
-A tal efecto, podrán obtener orientación y asesoramiento en las Instituciones Públicas dedicadas a la atención de enfermos mentales.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
 ###### ARTICULO 83.
 
-El Organismo conforme a la normatividad vigente, prestará atención a los enfermos mentales que se encuentren en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+(DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
-A estos efectos, se establecerá la coordinación necesaria entre las autoridades sanitarias, judiciales, administrativas y otras, según corresponda.
+ARTICULO 83 BIS.- (DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE JULIO DE 2017)</small>
+ARTICULO 83 TER.- (DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
-ARTICULO 83 BIS.- Las autoridades que integran el Sistema Estatal de Salud ejecutarán el Programa Estatal contra el Suicidio, el cual será formulado e implementado por el Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio. Dicho Programa deberá contener la política pública para prevenir el problema social del suicidio, en el que se atenderán al menos las siguientes acciones:
+ARTICULO 83 QUATER.- (DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+ARTICULO 83 QUINQUIES.- (DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
-I. Elaboración de información científica sobre las causas del suicidio y su dinámica en el Estado;
+ARTICULO 83 SEXIES.- (DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
-> <small>(ADICIONADA, P.O. 8 DE AGOSTO DE 2011)</small>
+ARTICULO 83 SEXIES 1.- (DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
-II. Establecer y difundir ampliamente líneas de comunicación de contacto directo, atendidas por especialistas, para asistencia a víctimas potenciales y recibir denuncias preventivas de terceros;
+ARTICULO 83 SEXIES 2.- (DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
-> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2023)</small>
-
-III. Formular recomendaciones a las autoridades competentes, a fin de capacitar al personal de salud, seguridad pública, protección civil y a todo el personal de primer contacto ante emergencias, para la detección, atención, canalización y seguimiento a personas con comportamiento suicida y a sus familiares.
-
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2017)</small>
-
-IV. Coordinación con el Instituto de Educación de Aguascalientes para cruzar información sobre posibles casos de depresión detectados en las escuelas; y
-
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
-
-V. Coordinación con las autoridades municipales para cruzar información referente a los casos detectados y atendidos dentro de sus respectivas demarcaciones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2023)</small>
-
-ARTICULO 83 TER.- El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio a que se hace referencia en el Artículo anterior estará integrado por las personas titulares de las siguientes dependencias y entidades:
-
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
-
-I. La Secretaría de Salud del Estado, quien lo presidirá;
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
-
-II. El Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes;
-
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
-
-III. La Secretaría de Seguridad Pública del Estado;
-
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
-
-IV. El Instituto de Educación de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
-
-V. El Instituto Aguascalentense de las Mujeres;
-
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
-
-VI. El Instituto del Deporte del Estado de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
-
-VII. El Instituto Aguascalentense de la Juventud;
-
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2017)</small>
-
-VIII. El Instituto Cultural de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
-
-IX. La Secretaría de Desarrollo Social;
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
-
-X. Radio y Televisión de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
-
-XI. La Secretaría Ejecutiva del Sistema Estatal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes;
-
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2023)</small>
-
-XII. La Secretaria de la Familia; y
-
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2022)</small>
-
-XIII. Un representante de cada uno de los Municipios del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
-
-ARTICULO 83 QUATER.- Por cada miembro propietario del Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio habrá un suplente, el cual no podrá ser de menor jerarquía que un director de área o su equivalente en el sector paraestatal.
-
-Los miembros enunciados en el Artículo anterior participarán dentro del Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio con voz y voto. Teniendo el Secretario de Salud el voto de calidad en caso de empate.
-
-Los cargos de los integrantes del Comité serán honoríficos y por su desempeño no percibirán retribución, emolumento o compensación alguna.
-
-El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio podrá invitar a otras autoridades, académicos o expertos en la materia quienes participarán con voz pero sin voto en las sesiones a las que sean citados.
-
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
-
-ARTICULO 83 QUINQUIES.- El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio es el ente encargado de vigilar que se lleven a cabo las acciones del Programa Estatal contra el Suicidio.
-
-Deberá sesionar en forma ordinaria dos veces al año, y de manera extraordinaria cuando haya asuntos urgentes que tratar.
-
-Su funcionamiento quedará establecido en el Reglamento Interior del Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio.
-
-El comité deberá rendir un informe trimestral de las acciones del Programa Estatal contra el Suicidio a la Comisión de Salud Pública y Asistencia Social del Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE JULIO DE 2017)</small>
-
-ARTICULO 83 SEXIES.- El Comité Interinstitucional de Atención a los Problemas de Salud Mental y Prevención Integral del Suicidio tendrá las siguientes atribuciones:
-
-I. Formular e Implementar el Programa Estatal contra el Suicidio;
-
-II. Proponer líneas de acción y estrategias para el fortalecimiento y consolidación del Programa Estatal contra el Suicidio;
-
-III. Analizar y evaluar los resultados del Programa Estatal contra el Suicidio;
-
-IV. Promover y establecer mecanismos para la coordinación de esfuerzos contra el suicidio;
-
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
-
-V. Ofrecer capacitaciones y trasferencias de modelos preventivos en salud mental a las áreas de psicología de las empresas privadas que se encuentren dentro del Estado;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2023)</small>
-
-VI. Fungir como un organismo de consulta permanente para los planes, proyectos, programas y políticas públicas encaminadas a la atención integral de la salud mental; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE AGOSTO DE 2023)</small>
-
-VII. Las demás que establezcan la presente Ley, el Reglamento Interior del Comité y demás disposiciones legales aplicables.
-
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
-
-ARTICULO 83 SEXIES 1.- En cada municipio existirá un Consejo Municipal de Salud Mental, que tendrá como principales atribuciones las siguientes:
-
-I. Elaborar el Programa Municipal de Salud Mental de conformidad con la Ley General de Salud, las Normas Oficiales Mexicanas, y el presente ordenamiento, a través de la participación de los sectores social y privado;
-
-II. Implementar en el Municipio las acciones pertinentes en materia de salud mental, propiciando un enfoque centrado en los derechos humanos;
-
-III. Diseñar y ejecutar campañas municipales para orientar, motivar e informar a la población sobre la importancia de la salud mental, los síntomas que se presentan en esa clase de padecimientos, las formas de prevención, y modos de atención, en coordinación con las dependencias estatales y demás instituciones competentes;
-
-IV. Atender de manera prioritaria y coordinada con las demás autoridades, la problemática del suicidio, lo cual enunciativamente implica:
-
-a) Elaborar estrategias coordinadas e interdisciplinarias para abatir la incidencia del suicidio a nivel municipal;
-
-b) Realizar tareas de sensibilización de la población, así como de capacitación y profesionalización del personal que tenga contacto con personas en crisis, a fin de que se cuenten con los elementos para identificar las tendencias suicidas;
-
-c) Diseñar e implementar los procedimientos posteriores a una conducta suicida, para asistir y acompañar a la familia de la persona que se privó la vida, ya sea a nivel municipal o a través de los mecanismos de colaboración con el gobierno del Estado;
-
-d) Elaborar manuales y guías municipales para la atención de personas con tendencias suicidas;
-
-e) Generar estadísticas municipales sobre los intentos de suicidio o eventos consumados a nivel municipal, a fin de contar con información adecuada;
-
-f) Promover la equidad y no discriminación en el acceso a los servicios municipales de quienes presenten alguna conducta suicida.
-
-V. Llevar a cabo reuniones periódicas con los demás actores públicos y privados interesados en la salud mental para lograr la uniformidad de las acciones en este campo;
-
-VI. Suscribir los instrumentos jurídicos necesarios para el cumplimiento de las funciones propias de los Consejos Municipales de Salud Mental;
-
-VII. Presentar al Ayuntamiento un informe anual sobre las políticas municipales implementadas en la materia, así como el grado de avance en el cumplimiento del Programa Municipal de Salud Mental;
-
-VIII. Funcionar como un organismo de consulta permanente sobre los proyectos y programas encaminados a la atención integral de la salud mental a nivel municipal;
-
-IX. Desempeñarse como un organismo de vinculación entre los sectores público, social y privado para la implementación de estrategias de salud mental que beneficien a la población;
-
-X. Revisar la reglamentación municipal a efecto de formular observaciones y propuestas de reforma que se consideren apropiadas; y
-
-XII. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población o le sean encomendadas por el Ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
-
-ARTICULO 83 SEXIES 2.- Los Consejos Municipales de Salud Mental, estarán integrados por:
-
-I. El presidente municipal, quien será también presidente del Consejo;
-
-II. El Secretario del Ayuntamiento;
-
-III. El regidor que presida el ramo de salud;
-
-IV. El titular de la dependencia municipal encargada de la salud o equivalente;
-
-V. Los demás miembros que determine el Ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 17 DE OCTUBRE DE 2022)</small>
-
-ARTICULO 83 SEXIES 3.- Conforme a las bases generales de los artículos precedentes y en ejercicio de su potestad normativa, los Municipios reglamentarán el funcionamiento de los Consejos Municipales de Salud Mental mediante el dictado de las medidas que aseguren la operatividad conforme a las necesidades y problemática concreta de cada Municipio.
-
-Los ayuntamientos podrán determinar, en atención a cuestiones objetivas debidamente justificadas, que los Consejos Municipales de Salud o algún órgano equivalente ejerza las funciones a que se refiere el artículo 83-Sexies 1, siempre que esos entes no sean puramente consultivos y en ellos tengan participación las áreas municipales relevantes.
-
-En este caso, deberá procurarse que la gestión de la salud mental sea una a (sic) actividad permanente al interior de tales órganos.
+ARTICULO 83 SEXIES 3.- (DEROGADO, P.O. 28 DE AGOSTO DE 2024)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE OCTUBRE DE 2023)</small>
 
@@ -4865,271 +4607,13 @@ P.O. 5 DE AGOSTO DE 2024.
 
 ÚNICO. - El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 1/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES Y A LA TRANSFORMACIÓN DEL JUZGADO QUINTO DE DISTRITO DE PROCESOS PENALES FEDERALES EN EL ESTADO DE JALISCO, CON SEDE EN PUENTE GRANDE, EN JUZGADO OCTAVO DE DISTRITO DE AMPARO EN MATERIA PENAL EN EL MISMO ESTADO Y SEDE, Y LA EXCLUSIÓN DE TURNO DE NUEVOS ASUNTOS DEL ÓRGANO JURISDICCIONAL CITADO EN PRIMER LUGAR; ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO DE LA ÚLTIMA MATERIA Y ENTIDAD FEDERATIVA INDICADOS".]
+P.O. 28 DE AGOSTO DE 2024.
 
-PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 801.- SE EXPIDE LA LEY DE SALUD MENTAL DEL ESTADO DE AGUASCALIENTES; Y, SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. El turno de guardia para la recepción de asuntos en días y horas inhábiles para los Juzgados de Distrito de Amparo en Materia Penal en el Estado de Jalisco se modifica para incorporar al Juzgado de Distrito que se transforma, para quedar como sigue:
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-DEL 26 DE FEBRERO AL JUZGADO SÉPTIMO DE DISTRITO DE
-
-5 DE MARZO DE 2018 AMPARO EN MATERIA PENAL EN EL
-
-ESTADO DE JALISCO, CON RESIDENCIA EN
-
-ZAPOPAN
-
-5 AL 12 DE MARZO DE 2018 JUZGADO OCTAVO DE DISTRITO DE
-
-AMPARO EN MATERIA PENAL EN EL
-
-ESTADO DE JALISCO, CON RESIDENCIA EN
-
-PUENTE GRANDE
-
-DEL 12 AL 19 DE MARZO JUZGADO PRIMERO DE DISTRITO DE
-
-DE 2018 AMPARO EN MATERIA PENAL EN EL
-
-ESTADO DE JALISCO, CON RESIDENCIA EN
-
-ZAPOPAN
-
-DEL 19 AL 26 DE MARZO JUZGADO SEGUNDO DE DISTRITO DE
-
-DE 2018 AMPARO EN MATERIA PENAL EN EL
-
-ESTADO DE JALISCO, CON RESIDENCIA EN
-
-ZAPOPAN
-
-DEL 26 DE MARZO JUZGADO TERCERO DE DISTRITO DE
-
-Al 2 ABRIL DE 2018 AMPARO EN MATERIA PENAL EN EL
-
-ESTADO DE JALISCO, CON RESIDENCIA EN
-
-ZAPOPAN
-
-DEL 2 AL 9 DE ABRIL DE 2018 JUZGADO CUARTO DE DISTRITO DE
-
-AMPARO EN MATERIA PENAL EN EL
-
-ESTADO DE JALISCO, CON RESIDENCIA EN
-
-ZAPOPAN
-
-DEL 9 AL 16 DE ABRIL DE 2018 JUZGADO QUINTO DE DISTRITO DE
-
-AMPARO EN MATERIA PENAL EN EL
-
-ESTADO DE JALISCO, CON RESIDENCIA EN
-
-ZAPOPAN
-
-DEL 16 AL 23 DE ABRIL JUZGADO SEXTO DE DISTRITO DE AMPARO
-
-DE 2018 EN MATERIA PENAL EN EL ESTADO DE
-
-JALISCO, CON RESIDENCIA EN ZAPOPAN
-
-DEL 23 AL 30 DE ABRIL JUZGADO SÉPTIMO DE DISTRITO DE
-
-DE 2018 AMPARO EN MATERIA PENAL EN EL
-
-ESTADO DE JALISCO, CON RESIDENCIA EN
-
-ZAPOPAN
-
-DEL 30 DE ABRIL AL JUZGADO OCTAVO DE DISTRITO DE
-
-7 DE MAYO DE 2018 AMPARO EN MATERIA PENAL EN EL
-
-ESTADO DE JALISCO, CON RESIDENCIA EN
-
-PUENTE GRANDE
-
-Y así sucesivamente de manera semanal.
-
-Los turnos de guardia inician el día lunes a las ocho horas con treinta minutos y finalizan el siguiente lunes a las ocho horas con veintinueve minutos.
-
-CUARTO. La Secretaría Ejecutiva de Administración, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional que se transforma de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio al órgano jurisdiccional que se transforma.
-
-QUINTO. Se reforma el numeral SEGUNDO, fracción III, número 3, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. …
-
-I. a II. …
-
-III. …
-
-1. a 2. ...
-
-3. Treinta y dos juzgados de Distrito especializados: ocho de amparo en materia penal, siete con residencia en Zapopan y uno con sede en Puente Grande; nueve en materias administrativa y de trabajo y siete en materia civil, todos con residencia en el municipio de Zapopan; y ocho de procesos penales federales con residencia en Puente Grande.
-
-4. …
-
-IV. a XXXII. …"
-
-SEXTO. Para la distribución de las causas penales en trámite, como en archivo provisional o definitivo, del Juzgado Quinto de Distrito de Procesos Penales Federales en el Estado de Jalisco, con residencia en Puente Grande, que se transforma, se realizará lo siguiente:
-
-I. El veinticuatro de enero de dos mil dieciocho, el órgano jurisdiccional que se transforma, clasificará los asuntos de su índice, en los siguientes rubros:
-
-a) Causas penales en trámite (que estén sin audiencia celebrada; con audiencia celebrada y pendientes de resolución; resueltas que estén subjudice, etcétera);
-
-b) Causas suspensas en archivo provisional;
-
-c) Causas penales archivadas definitivamente; y
-
-d) Causas penales con resolución urgente, les dará el trámite correspondiente, para posteriormente remitirlas a los juzgados de distrito que corresponda en términos del inciso V del presente artículo, dando aviso de ello a la Oficina de Correspondencia Común.
-
-Posteriormente, elaborará listas por triplicado de las causas penales que correspondan por rubro, en las que respecto de cada expediente incluirán la relación de sus valores, instrumentos, objetos o productos del delito, que en su caso tenga bajo su resguardo.
-
-La relación de expedientes en cada lista se hará en orden ascendente, según el número y año de los expedientes.
-
-II. Una vez concluidas las listas indicadas, el Secretario del Juzgado designado para tal efecto, realizará una certificación de cada una de ellas, en la cual dará constancia de la existencia física de las causas penales, así como de sus valores, instrumentos, objetos o productos del delito.
-
-III. De las 9:00 A.M. a las 11:00 A.M. del veinticinco de enero de dos mil dieciocho, el Juzgado de Distrito que se transforma y concluye funciones, por medio de su actuario, entregará por triplicado las listas referidas en la fracción II, a la Dirección General de Estadística Judicial, donde se cotejarán los asuntos reportados con los que tengan registrados en el SISE; y por triplicado se hará una relación de los expedientes de las listas, por cada uno de los rubros señalados en la fracción I, corrigiendo si es necesario el orden numérico de su distribución, y a cada causa penal de esos rubros se le agregará un número de cada ciclo del 1 al 2.
-
-IV. La Dirección General de Estadística Judicial, se quedará con una lista de cada rubro del triplicado que recibió, así como de uno de los triplicados de la relación que generó; y de las 9:00 A.M. a las 11:00 A.M. del veintiséis de enero de dos mil dieciocho, entregará al Secretario de Juzgado que designe el órgano para recibirla, las dos copias de los dos triplicados restantes.
-
-V. Los ciclos de números del 1 al 2 señalados en la fracción III, corresponderán al Juzgado de Distrito al cual le deberán turnar cada uno de esos asuntos, en los términos que se exponen en el siguiente cuadro:
-
-Número ordinal asignado a cada Juzgado de Distrito de Procesos Penales Federales en el Estado de Jalisco, con residencia en Puente Grande para efectos del turno de los asuntos mencionados en las fracciones I a V que anteceden
-
-Número ordinal Juzgado de Distrito
-
-1 JUZGADO OCTAVO DE DISTRITO DE PROCESOS
-
-PENALES FEDERALES EN EL ESTADO DE JALISCO,
-
-CON RESIDENCIA EN PUENTE GRANDE
-
-2 JUZGADO NOVENO DE DISTRITO DE PROCESOS
-
-PENALES FEDERALES EN EL ESTADO DE JALISCO,
-
-CON RESIDENCIA EN PUENTE GRANDE
-
-VI. Entre el veintiséis y el treinta y uno de enero de dos mil dieciocho, el Juzgado de Distrito indicado en el primer párrafo de este artículo, al recibir las listas en comento, con apoyo en uno de los juegos de sus triplicados y en la relación de ciclos del 1 al 2; procederá a distribuir entre los dos Juzgados de Distrito mencionados en la tabla que antecede, las causas penales que le correspondan, según el sistema ordinal expuesto en el cuadro de la fracción anterior.
-
-Para ello, entregará a los Juzgados de Distrito receptores, una copia certificada de las listas y relación de ciclos del 1 al 2 respectivas, a efecto de que verifiquen físicamente la entrega de cada una de las causas penales que les correspondan, así como sus valores, instrumentos, objetos o productos del delito, que en su caso tengan bajo su resguardo.
-
-De cada entrega se levantará un acta circunstanciada por triplicado, la cual se signará por un Secretario de Juzgado de cada órgano, quedando una copia para el Juzgado de Distrito que entrega los expedientes y otra para el que los recibe.
-
-El Juzgado de Distrito de Procesos Penales Federales en el Estado de Jalisco, que recibe las causas penales bajo el sistema anteriormente expuesto, inmediatamente procederá a su registro con el nuevo número que le corresponda, indicando el órgano del cual procede, y el número que tenía asignado en éste.
-
-VII. Posteriormente, el órgano jurisdiccional citado en el primer párrafo de este artículo, realizará lo siguiente:
-
-Entregará a la Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en el Estado de Jalisco, un tanto del triplicado de las listas y de la relación numerada en ciclos de 1 y 2 que recibió de la Dirección General de Estadística Judicial, así como el tercer triplicado de las actas circunstanciadas de entrega-recepción de expedientes que se integró en términos del penúltimo párrafo de la fracción VI.
-
-Entregará a la Dirección General de Estadística Judicial, copia de las actas circunstanciadas de entrega-recepción de expedientes que integró, en términos del penúltimo párrafo de la fracción VI.
-
-VIII. La Oficina de Correspondencia Común antes citada, con base en los documentos recibidos, que se indican en las fracciones VI y VII, procederá a realizar el formal registro y turno de los asuntos según la distribución ya realizada, indicando el órgano del cual procede cada asunto y el número de expediente asignado al mismo.
-
-Los Juzgados Octavo y Noveno de Distrito de Procesos Penales Federales en el Estado de Jalisco, con residencia en Puente Grande, comisionarán al actuario de su adscripción para que acuda a la Oficina de Correspondencia Común indicada, a recibir las boletas de turno que se emitan respecto a los expedientes que se les entregaron en términos de la fracción VI, las cuales, en su momento, se incorporarán a las causas penales correspondientes.
-
-IX. La Dirección General de Estadística Judicial, con apoyo en las actas circunstanciadas de entrega-recepción de expedientes, las relaciones numeradas en ciclos de 1-2, y con las listas indicadas en la fracción IV, integrará un documento final de distribución y recepción de asuntos, que permita ubicar el origen y destino final de los expedientes, con apoyo en los registros del SISE.
-
-Este documento final, en el caso de las causas suspensas de archivo provisional, por cuestiones de sigilo no deberá incluir nombres o apodos de los encausados en contra de quienes se dictaron las órdenes correspondientes.
-
-X. Una vez concluido el documento final indicado en la fracción IX, la Dirección General de Estadística Judicial lo remitirá a la Procuraduría General de la República, para los efectos conducentes, en especial, a efecto de que en los cumplimientos de órdenes de aprehensión dictadas por el Juzgado Quinto de Distrito de Procesos Penales Federales en el Estado de Jalisco, con residencia en Puente Grande, se conozca el órgano al que se turnó la causa penal respectiva.
-
-SÉPTIMO. Todas las promociones posteriores que se relacionen con causas penales del Juzgado Quinto de Distrito de Procesos Penales Federales en el Estado de Jalisco, con residencia en Puente Grande, que se encuentren en el archivo de concentración, deberán presentarse ante la Oficina de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales en el Estado de Jalisco, donde se turnarán mediante el sistema relacionado a los Juzgados Octavo y Noveno de Procesos Penales Federales en el Estado de Jalisco, con residencia en Puente Grande a los que presta sus servicios dicha oficina.
-
-OCTAVO. Se faculta a la Secretaría Ejecutiva de Creación de Nuevos Órganos, para que con apoyo de la Dirección General de Estadística Judicial y de la Dirección General de Tecnologías de la Información, resuelva todas las situaciones que surjan con motivo de la aplicación de lo expuesto en el Transitorio Sexto.
-
-NOVENO. El turno de guardia para la recepción de asuntos en días y horas inhábiles para los Juzgados de Distrito de Procesos Penales Federales en el Estado de Jalisco, se modifica para quedar como sigue:
-
-PERIODO DE GUARDIA ÓRGANO JURISDICCIONAL AL QUE
-
-CORRESPONDE LA GUARDIA
-
-DEL 5 AL 11 DE MARZO DE 2018 JUZGADO SEXTO DE DISTRITO DE
-
-PROCESOS PENALES FEDERALES EN
-
-EL ESTADO DE JALISCO, CON
-
-RESIDENCIA EN PUENTE GRANDE.
-
-DEL 12 AL 18 DE MARZO DE 2018 JUZGADO SÉPTIMO DE DISTRITO DE
-
-PROCESOS PENALES FEDERALES EN
-
-EL ESTADO DE JALISCO, CON
-
-RESIDENCIA EN PUENTE GRANDE.
-
-DEL 19 AL 25 DE MARZO DE 2018 JUZGADO OCTAVO DE DISTRITO DE
-
-PROCESOS PENALES FEDERALES EN
-
-EL ESTADO DE JALISCO, CON
-
-RESIDENCIA EN PUENTE GRANDE.
-
-DEL 26 DE MARZO AL JUZGADO NOVENO DE DISTRITO DE
-
-1 DE ABRIL DE 2018 PROCESOS PENALES FEDERALES EN
-
-EL ESTADO DE JALISCO, CON
-
-RESIDENCIA EN PUENTE GRANDE.
-
-DEL 2 AL 8 DE ABRIL DE 2018 JUZGADO PRIMERO DE DISTRITO DE
-
-PROCESOS PENALES FEDERALES EN
-
-EL ESTADO DE JALISCO, CON
-
-RESIDENCIA EN PUENTE GRANDE.
-
-DEL 9 AL 15 DE ABRIL DE 2018 JUZGADO SEGUNDO DE DISTRITO DE
-
-PROCESOS PENALES FEDERALES EN
-
-EL ESTADO DE JALISCO, CON
-
-RESIDENCIA EN PUENTE GRANDE.
-
-DEL 16 AL 22 DE ABRIL DE 2018 JUZGADO TERCERO DE DISTRITO DE
-
-PROCESOS PENALES FEDERALES EN
-
-EL ESTADO DE JALISCO, CON
-
-RESIDENCIA EN PUENTE GRANDE.
-
-DEL 23 AL 29 DE ABRIL DE 2018 JUZGADO CUARTO DE DISTRITO DE
-
-PROCESOS PENALES FEDERALES EN
-
-EL ESTADO DE JALISCO, CON
-
-RESIDENCIA EN PUENTE GRANDE.
-
-DEL 30 DE ABRIL AL 6 DE MAYO JUZGADO SEXTO DE DISTRITO DE
-
-DE 2018 PROCESOS PENALES FEDERALES EN
-
-EL ESTADO DE JALISCO, CON
-
-RESIDENCIA EN PUENTE GRANDE.
-
-Y así sucesivamente de manera semanal.
-
-DÉCIMO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
-
-D.O.F. 31 DE ENERO DE 2018.
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 39/2017 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DENOMINACIÓN, RESIDENCIA, COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES DEL JUZGADO DECIMOSEGUNDO DE DISTRITO EN EL ESTADO DE GUANAJUATO, CON RESIDENCIA EN LEÓN, ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO, DE LA ENTIDAD FEDERATIVA Y RESIDENCIA INDICADOS".]
 
