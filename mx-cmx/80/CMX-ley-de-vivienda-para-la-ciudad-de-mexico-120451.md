@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-vivienda-para-la-ciudad-de-mexico-120451"
 country: "mx"
 rank: "ley"
 publication_date: "2017-03-23"
-last_updated: "2021-09-02"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120451&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-02-28"
 
 LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE AGOSTO DE 2024.
 
 Ley publicada en la Gaceta Oficial de la Ciudad de México, el jueves 23 de marzo de 2017.
 
@@ -92,9 +92,17 @@ XIII. Integrar el Consejo de Vivienda;
 
 XIV. Propiciar, orientar y fomentar la participación de los sectores público, social, académico y privado para la producción social de la vivienda, del hábitat, mejoramiento y autoproducción de vivienda en todas sus modalidades;
 
-XV. Integrar el Sistema de Información de Vivienda de la Ciudad de México.
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2024)</small>
 
-XVI. Disponer las sanciones aplicables a los particulares que incumplan con lo establecido en esta Ley y normas reglamentarias aplicables, así como a los servidores públicos que no cumplan con estas disposiciones, independientemente de las sanciones contempladas en los ordenamientos relativos a las responsabilidades de servidores públicos.
+XV. Integrar el Sistema de Información de Vivienda de la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2024)</small>
+
+XVI. Disponer las sanciones aplicables a los particulares que incumplan con lo establecido en esta Ley y normas reglamentarias aplicables, así como a los servidores públicos que no cumplan con estas disposiciones, independientemente de las sanciones contempladas en los ordenamientos relativos a las responsabilidades de servidores públicos; y
+
+> <small>(ADICIONADA, G.O. 28 DE AGOSTO DE 2024)</small>
+
+XVII. Garantizar la producción pública de vivienda en arrendamiento asequible para las personas de menores ingresos por parte del Gobierno de la Ciudad de México.
 
 ###### Artículo 2.
 
@@ -217,6 +225,10 @@ XXXV. PREDIOS BALDÍOS URBANIZABLES: El inmueble situado en la zona urbana que n
 XXXVI. PRODUCCIÓN SOCIAL DE VIVIENDA: Es el conjunto de actividades que se realizan bajo la gestión y control directo de autoproductores y autoconstructores, que operan sin fines de lucro y que se orientan prioritariamente a atender las necesidades de la población de bajos ingresos, utilizando recursos, procedimientos constructivos y tecnologías, con base en sus propias necesidades y su capacidad de gestión y toma de decisiones. Asimismo, incluye aquella que se realiza por procedimientos de autogestión y solidarios que dan prioridad al valor de uso de la vivienda sobre la definición mercantil;
 
 XXXVII. PRODUCCIÓN SOCIAL DEL HÁBITAT: Conjunto de actividades de gestión para el mejoramiento ambiental, con un enfoque sustentable del espacio público, el uso de suelo, infraestructura, servicios, equipamientos básicos y vivienda, que realizan las personas físicas o morales, productores sociales, instituciones académicas, organizaciones sociales o civiles, sin fines de lucro, bajo su control directo y que pueden utilizar recursos, asistencia técnica, financiamiento y trabajo de las personas para mejorar su calidad de vida, además de sus espacios habitacionales y comunitarios, de conformidad con los planes de desarrollo urbano vigentes;
+
+> <small>(ADICIONADA, G.O. 28 DE AGOSTO DE 2024)</small>
+
+XXXVII Bis. PRODUCCIÓN PÚBLICA DE VIVIENDA PARA ARRENDAMIENTO: Aquella que realice el Gobierno de la Ciudad de México con recursos públicos a fin de ofrecer acceso a la vivienda en arrendamiento con un criterio de asequibilidad para las personas de menores ingresos;
 
 XXXVIII. PRODUCTORES SOCIALES: Son los pertenecientes al sector social y pueden ser personas físicas o morales, grupos organizados, organizaciones sociales, cooperativas y asociaciones de vivienda o de producción de bienes y servicios, gremios profesionales e institutos de asistencia técnica, que realizan procesos de autogestión para desarrollar la producción social del hábitat y la producción social de la vivienda, sin fines de lucro;
 
@@ -350,7 +362,9 @@ IV. Determinar las políticas de desarrollo urbano para la localización, provis
 
 V. Celebrar convenios de coordinación con el Gobierno Federal y entidades federativas colindantes, para el establecimiento de acciones que fortalezcan la ejecución de una política de vivienda en la Ciudad de México y en su Zona Metropolitana, en los términos de la legislación aplicable;
 
-VI. Promover esquemas y proponer programas para fomentar la vivienda en arrendamiento;
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2024)</small>
+
+VI. Promover esquemas y proponer programas para la producción y el fomento de la vivienda en arrendamiento asequible para las personas de menores ingresos;
 
 VII. Diseñar y operar el Sistema de Información de la Vivienda, el cual complementará al Sistema de Información y Evaluación del Desarrollo Urbano;
 
@@ -368,7 +382,9 @@ XI. Vigilar que los programas de construcción de vivienda para la venta, promov
 
 El Instituto es el principal instrumento del gobierno de la Ciudad de México para la protección y realización del derecho a la vivienda de la población que por su condición socioeconómica o por otras condiciones de vulnerabilidad, requieren de la acción del Estado para garantizarlo, de tal manera que para dar cumplimiento a esta Ley tendrá además de las atribuciones comprendidas en su decreto de creación, las siguientes:
 
-I. Elaborar el Programa Institucional de Vivienda de interés social y popular en términos de lo establecido por la Ley de Planeación del Desarrollo del Distrito Federal, que contenga por lo menos, los siguientes elementos: Programa de Vivienda en Conjunto, Programa de Mejoramiento de Vivienda, Rescate de Cartera Hipotecaria, Programa de Vivienda en Riesgo, Programa Comunitario de Producción y Gestión Social del Hábitat, y Vivienda en Uso.
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2024)</small>
+
+I. Elaborar el Programa Institucional de Vivienda de interés social y popular en términos de lo establecido por la Ley de Planeación del Desarrollo del Distrito Federal, que contenga por lo menos, los siguientes elementos: Programa de Vivienda en Conjunto, Programa de Mejoramiento de Vivienda, Programa de Vivienda en Arrendamiento Asequible para las personas de menores ingresos, Rescate de Cartera Hipotecaria, Programa de Vivienda en Riesgo, Programa Comunitario de Producción y Gestión Social del Hábitat, y Vivienda en Uso;
 
 II. Diseñar, implementar y realizar las acciones que permitan satisfacer las necesidades de vivienda de interés social y popular, producción social del hábitat y de la vivienda para las y los habitantes de la Ciudad de México;
 
@@ -482,6 +498,10 @@ IX. Establecer los mecanismos para garantizar una adecuada distribución de resp
 
 X. Fomentar y apoyar los procesos de producción social de vivienda, del hábitat y de vivienda rural;
 
+> <small>(ADICIONADA, G.O. 28 DE AGOSTO DE 2024)</small>
+
+X Bis. Fomentar y apoyar la producción pública de vivienda en arrendamiento asequible para las personas de menores ingresos;
+
 XI. Fomentar y apoyar a las cooperativas de ayuda mutua;
 
 XII. Organizar y promover la producción y distribución de materiales de construcción que satisfagan las Normas Oficiales Mexicanas;
@@ -508,7 +528,9 @@ La o el Titular de la Jefatura de Gobierno, a través de la Secretaría y el Ins
 
 Los acuerdos y convenios que se celebren con los sectores social y privado podrán tener por objeto:
 
-I. Buscar que un mayor número de personas, tengan acceso a una vivienda, estableciendo mecanismos que garanticen este derecho, preferentemente a la población en situación de pobreza;
+> <small>(REFORMADA, G.O. 28 DE AGOSTO DE 2024)</small>
+
+I. Buscar que un mayor número de personas, tengan acceso a una vivienda, estableciendo mecanismos que garanticen este derecho, preferentemente a la población en situación de pobreza, trabajadores, madres solteras y personas jóvenes entre los 18 y 35 años;
 
 II. Promover la creación de fondos e instrumentos para la generación oportuna de vivienda y suelo para el desarrollo del Programa Institucional;
 
@@ -561,6 +583,10 @@ V. Ampliar y adecuar los Programas y sus reglas para atender las diversas proble
 VI. Promover y ampliar la participación de la sociedad en la planeación y en el diseño de los programas de vivienda, así como en su ejecución y evaluación, reconociendo tanto las formas de organización social no lucrativas como las del sector privado, e involucrando además a las instituciones públicas y privadas de educación e investigación.
 
 VII. Apoyar prioritariamente la producción social de la vivienda en sus diversas modalidades.
+
+> <small>(ADICIONADA, G.O. 28 DE AGOSTO DE 2024)</small>
+
+VII Bis. Promover la producción pública de vivienda en arrendamiento asequible para las personas de menores ingresos.
 
 VIII. Promover la participación del sector financiero para ampliar las posibilidades de acceder a una vivienda adecuada a más amplios sectores de la población.
 
@@ -820,9 +846,11 @@ En todas las acciones que se realicen, se deberá garantizar la seguridad a toda
 
 ### CAPÍTULO ÚNICO. DE LA VIVIENDA ACCESIBLE Y ASEQUIBLE
 
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 53.
 
-El Gobierno de la Ciudad de México, a través de la Secretaría y el Instituto, dentro de los Programas de Vivienda, deberán promover condiciones de igualdad y equidad que garanticen el derecho a una vivienda a los diferentes sectores de la población conforme a sus características socioeconómicas, culturales y demográficas, prioritariamente a la población de bajos recursos económicos.
+El Gobierno de la Ciudad de México, a través de la Secretaría y el Instituto, dentro de los Programas de Vivienda, deberán promover condiciones de igualdad y equidad que garanticen el derecho a una vivienda a los diferentes sectores de la población conforme a sus características socioeconómicas, culturales y demográficas, prioritariamente a la población de bajos recursos económicos, trabajadores, madres solteras y las personas jóvenes entre los 18 y 35 años.
 
 ###### Artículo 54.
 
@@ -870,11 +898,11 @@ Se garantizará la aplicación de programas de vivienda para las y los trabajado
 
 ### CAPÍTULO I. VIVIENDA EN ARRENDAMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 28 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 59.
 
-El Gobierno de la Ciudad de México, a través de la Secretaría y/o el Instituto, en el ámbito de sus atribuciones, deberá fomentar la vivienda en arrendamiento, mediante esquemas y programas dirigidos a los grupos de atención prioritaria, que contengan como mínimo:
+El Gobierno de la Ciudad de México, a través de la Secretaría y/o el Instituto, deberá fomentar la vivienda en arrendamiento asequible, mediante esquemas y programas dirigidos a la población vulnerable, en situación de pobreza y de menores ingresos, que contengan como mínimo:
 
 I. Ámbito de Aplicación;
 
@@ -886,9 +914,11 @@ IV. Procedimientos de seguimiento, control y evaluación; y
 
 V. Esquemas que garanticen la certeza jurídica de la ocupación del inmueble por parte de las y los beneficiarios.
 
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 60.
 
-El Gobierno de la Ciudad de México a través del Instituto, podrá promover la vivienda en arrendamiento, además de proponer a la Secretaría de Finanzas facilidades administrativas y/o fiscales para apoyar la construcción de este tipo de vivienda conforme al Programa Institucional.
+El Gobierno de la Ciudad de México, a través del Instituto, promoverá la producción pública de vivienda en arrendamiento asequible para las personas de menores ingresos, además de proponer a la Secretaría de Finanzas facilidades administrativas y/o fiscales para apoyar la construcción de este tipo de vivienda conforme al Programa Institucional.
 
 ###### Artículo 61.
 
@@ -980,11 +1010,11 @@ III. Se impulsaran los principios y valores cooperativistas.
 
 El Gobierno de la Ciudad de México deberá adoptar las acciones necesarias para garantizar el derecho a la vivienda; para lograr este propósito podrá valerse del financiamiento público, la aplicación de medidas de carácter fiscal, la promoción en la aplicación de recursos de los Organismos Nacionales de Vivienda, de los Órganos Políticos Administrativos y del Gobierno Federal, así como de la participación de empresas y entidades financieras del sector privado.
 
-> <small>(REFORMADO, G.O. 11 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, G.O. 28 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 73.
 
-Las medidas que adopte y promueva el Gobierno de la Ciudad de México deberán orientarse a la ejecución de los Programas contemplados en esta Ley y tendrán como principio generar una redistribución del ingreso para garantizar prioritariamente la realización de este derecho de los sectores de más bajos ingresos y de los grupos de atención prioritaria.
+Las medidas que adopte y promueva el Gobierno de la Ciudad de México deberán orientarse a la ejecución de los Programas contemplados en esta Ley y tendrán como principio generar una redistribución del ingreso para garantizar prioritariamente la realización de este derecho de los sectores de más bajos ingresos, trabajadores, madres solteras, personas jóvenes entre los 18 y 35 años y grupos de atención prioritaria.
 
 ###### Artículo 74.
 
@@ -1347,3 +1377,15 @@ SEGUNDO.– Por lo que se refiere a la Reforma a la Norma de Ordenación Número
 TERCERO.– El presente Decreto entrará en vigor el día siguiente al de su publicación.
 
 CUARTO.- Los Acuerdos emitidos por la Secretaría de Desarrollo Urbano y Vivienda de la Ciudad de México para la aplicación de la Norma de Ordenación Número 26, continuarán vigentes en lo que no contravengan al presente Decreto.
+
+G.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2448 D Y SE ADICIONA UN TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 2448 F, AMBOS NUMERALES DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL YSE MODIFICAN LAS FRACCIONES XV Y XVI, ADICIONÁNDOSE UNA FRACCIÓN XVII AL ARTÍCULO 1; SE ADICIONA UNA FRACCIÓN XXXVII BIS AL ARTÍCULO 5; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 12; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 13; SE ADICIONA UNA FRACCIÓN X BIS AL ARTÍCULO 21; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 24; SE ADICIONA UNA FRACCIÓN VII BIS AL ARTÍCULO 26; SE REFORMA EL ARTÍCULO 53 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 59; Y SE REFORMA LOS ÚNICOS PÁRRAFOS DEL ARTÍCULO 60 Y 73, TODOS LOS DISPOSITIVOS DE LA LEY DE VIVIENDA PARA LA CIUDAD DE MÉXICO, EN MATERIA DE RENTAS".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- El registro a que se refiere el último párrafo del artículo 2448 F del Código Civil para el Distrito Federal, se llevará a cabo de conformidad con el mecanismo que el Gobierno de la Ciudad de México establezca, en un plazo no mayor a 30 días posteriores a la entrada en vigor del presente decreto.
+
+Los contratos de arrendamiento que se encuentren en curso a la entrada en vigor del presente decreto deberán registrarse por el arrendador en un plazo no mayor a 90 días posteriores a lo señalado en el párrafo anterior.
