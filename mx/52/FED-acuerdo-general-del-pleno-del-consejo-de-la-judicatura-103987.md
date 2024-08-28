@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2024-05-06"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE AGOSTO DE 2024.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -5697,11 +5697,15 @@ SUBSECCIÓN PRIMERA
 
 EJECUCIÓN DE LOS TRABAJOS DE OBRA PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON PREVISIONES RELATIVAS A LA DISPOSICIÓN DE LOS INMUEBLES PARA LA EJECUCIÓN DE TRABAJOS DE OBRA PÚBLICA, D.O.F. 28 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 378.
 
-La ejecución de los trabajos deberá iniciarse con la orden de inicio en la fecha señalada en la misma, la cual deberá ser coincidente con el contrato respectivo y, en su caso, el Consejo oportunamente pondrá al contratista en posesión, total o parcial, del inmueble en que deban llevarse a cabo los trabajos. El incumplimiento del Consejo prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos.
+La ejecución de los trabajos deberá iniciarse con la orden de inicio en la fecha señalada en la misma, la cual deberá ser coincidente con el contrato respectivo y, en su caso, el Consejo oportunamente pondrá a disposición del contratista, total o parcialmente, el inmueble en que deban llevarse a cabo los trabajos. El incumplimiento del Consejo prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos.
 
-La entrega de la posesión se hará mediante acta de entrega recepción en la que se harán constar las circunstancias de modo, tiempo y lugar.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON PREVISIONES RELATIVAS A LA DISPOSICIÓN DE LOS INMUEBLES PARA LA EJECUCIÓN DE TRABAJOS DE OBRA PÚBLICA, D.O.F. 28 DE AGOSTO DE 2024)</small>
+
+La disposición del inmueble se hará mediante acta de entrega recepción en la que se harán constar las circunstancias de modo, tiempo y lugar.
 
 El administrador del inmueble deberá entregarlo al área de obras previo a la vigencia del contrato para que ésta haga lo propio con la contratista.
 
@@ -6152,6 +6156,12 @@ Tratándose de prueba pericial deberá presentarse, dentro de dicho término, co
 II. Transcurrido el término a que se refiere la fracción anterior, el área operativa que corresponda propondrá al Comité para su consideración y, en su caso, aprobación, la resolución de rescisión administrativa acompañando los elementos, documentación y pruebas que en su caso se hubieren hecho valer; y
 
 III. La determinación de dar o no por rescindido el contrato deberá ser debidamente fundada, motivada y comunicada al proveedor o contratista.
+
+> <small>(ADICIONADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON PREVISIONES RELATIVAS A LA DISPOSICIÓN DE LOS INMUEBLES PARA LA EJECUCIÓN DE TRABAJOS DE OBRA PÚBLICA, D.O.F. 28 DE AGOSTO DE 2024)</small>
+
+###### Artículo 420 Bis.
+
+Una vez comunicada la terminación anticipada de los contratos o notificado el inicio del procedimiento de rescisión administrativa de los mismos; o en los casos en que a juicio del área operativa se acredite que existe un riesgo fundado para la seguridad o integridad de personas, de los trabajos o del inmueble; o bien, que sin existir causa justificada la contratista abandone o deje sin resguardo el inmueble, previa opinión del Comité; el área o áreas operativas que correspondan, deberán tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas, y en su caso, proceder a suspender los trabajos, levantando, con o sin la comparecencia de la contratista y ante la presencia de fedatario público, acta circunstanciada del estado en que se encuentre la obra.
 
 ###### Artículo 421.
 
@@ -14644,3 +14654,11 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en intranet e internet.
 
 TERCERO. Las áreas administrativas y órganos jurisdiccionales deberán adoptar las acciones a que haya lugar para el debido cumplimiento de este Acuerdo.
+
+D.O.F. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y ADICIONA EL QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, EN RELACIÓN CON PREVISIONES RELATIVAS A LA DISPOSICIÓN DE LOS INMUEBLES PARA LA EJECUCIÓN DE TRABAJOS DE OBRA PÚBLICA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
