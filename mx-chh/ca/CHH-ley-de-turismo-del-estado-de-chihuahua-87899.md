@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-turismo-del-estado-de-chihuahua-87899"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-19"
-last_updated: "2024-06-19"
+last_updated: "2024-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE TURISMO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 19 de mayo de 2012.
 
@@ -70,6 +70,10 @@ III. En general, promover lo conducente para dirigir la actividad relacionada co
 Para los efectos de esta Ley, se entenderá por:
 
 I. Actividad Turística.- Los servicios y las actuaciones dirigidos a los usuarios turísticos y el conjunto de actuaciones públicas y privadas para la regulación y promoción del turismo; así como las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos.
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2024)</small>
+
+I Bis. Agroturismo: Es aquel que ofrece al turista la posibilidad de conocer y experimentar de forma directa los procesos de producción agropecuaria, así como las fincas agropecuarias y agroindustrias, culminando con la degustación de los productos.
 
 II. Atlas Turístico: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos dentro del Estado de Chihuahua, sitios de interés y en general todas aquellas zonas y áreas territoriales de desarrollo del turismo.
 
@@ -202,6 +206,10 @@ XX. Brindar capacitación, asesoría y apoyo técnico a los Pueblos Tradicionale
 > <small>(ADICIONADA, P.O. 22 DE MARZO DE 2023)</small>
 
 XXI. Vigilar el cumplimiento de las acciones que garanticen la permanencia y el fortalecimiento de los denominados Pueblos Tradicionales.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
+XXI Bis. Promover y fomentar el agroturismo en las zonas rurales del Estado.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 22 DE MARZO DE 2023)</small>
 
@@ -477,7 +485,7 @@ La Secretaría, en conjunto con el Municipio que corresponda, formulará los pro
 
 Ruta Turística es un circuito temático o geográfico que se basa en el patrimonio natural o cultural de una zona y se marca sobre el terreno o aparece en los mapas.
 
-Compete a la Secretaría determinar y establecer reglas y procedimientos para la creación, operación y mantenimiento de las rutas turísticas del sotol, nuez, manzana, vino, queso y los demás que se determinen con la participación de los diversos sectores de turismo, academias, sociedad civil y Ayuntamientos.
+Compete a la Secretaría determinar y establecer reglas y procedimientos para la creación, operación y mantenimiento de las rutas turísticas del sotol, nuez, manzana, vino, queso y las demás que se determinen con la participación de los diversos sectores de turismo, academias, sociedad civil y Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2021)</small>
 
@@ -531,7 +539,7 @@ Realizada la declaratoria, la Secretaría programará acciones de capacitación 
 
 ###### Artículo 37.
 
-La Secretaría formulará los programas y conveníos de promoción y fomento turístico a fin de proteger, mejorar, incrementar y difundir el patrimonio y los servicios turísticos que ofrece el Estado de Chihuahua, para alentar la afluencia turística de conformidad con las disposiciones legales aplicables y con la intervención de las autoridades competentes.
+La Secretaría formulará los programas y convenios de promoción y fomento turístico a fin de proteger, mejorar, incrementar y difundir el patrimonio y los servicios turísticos que ofrece el Estado de Chihuahua, para alentar la afluencia turística de conformidad con las disposiciones legales aplicables y con la intervención de las autoridades competentes.
 
 ###### Artículo 38.
 
@@ -551,7 +559,7 @@ La Secretaría realizará y promoverá campañas oficiales de publicidad en mate
 
 Dichas campañas, tenderán a fomentar entre los chihuahuenses una conciencia cívica de servicio, rectitud y hospitalidad para con el turista nacional y extranjero.
 
-### CAPÍTULO IX. LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO IX. DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### Artículo 41.
 
@@ -737,9 +745,45 @@ Con el objeto de elevar los índices de competitividad en las empresas que ofrec
 
 La Secretaría deberá participar en la elaboración de los programas de capacitación turística que realicen otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal.
 
-### CAPÍTULO XI. DEL TURISTA
+### CAPÍTULO X Bis. DEL TURISMO ACCESIBLE
 
-### CAPÍTULO XII. DE LAS VERIFICACIONES Y SANCIONES
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
+###### Artículo 55 Bis.
+
+La Secretaría, con el apoyo y en coordinación con las demás dependencias estatales y municipales competentes, promoverá la prestación de servicios turísticos con accesibilidad, que tengan por objeto beneficiar a las personas con discapacidad.
+
+El turismo accesible implica un proceso de colaboración entre el sector turístico, para permitir a las personas con discapacidad, en distintas dimensiones, entre ellas las de movilidad, visión, audición y cognición, actuar con independencia, igualdad y dignidad, a través de una oferta de productos, servicios y entornos de turismo diseñados de manera universal.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
+###### Artículo 55 Ter.
+
+La Secretaría promoverá el diseño, aplicación y fomento de una política estatal que atienda al turismo accesible, en la cual se deberá tomar en cuenta, cuando menos, los aspectos siguientes:
+
+I. Fomento a la infraestructura accesible.
+
+II. Aplicación de programas de calidad turística, con criterios de accesibilidad e inclusión.
+
+III. Apoyo e impulso a los destinos turísticos que faciliten el uso y disfrute de su infraestructura a personas con discapacidad.
+
+IV. Programar y ejecutar permanentemente, en coordinación con instituciones u organizaciones especializadas, cursos de capacitación, actualización, sensibilización en materia de discapacidad, así como capacitación en lengua de señas, dirigidos a personal administrativo en hoteles, restaurantes, centros y lugares turísticos del Estado.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
+###### Artículo 55 Quater.
+
+El sector turístico, a través de los municipios y prestadores de servicios, promoverá productos y materiales para atender a las personas con discapacidad, para que su estancia y experiencia sean agradables y seguras en los destinos turísticos.
+
+La Secretaría supervisará el cumplimiento de lo dispuesto en este Capítulo.
+
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2024)</small>
+
+###### Artículo 55 Quinquies.
+
+La Secretaría fomentará que las personas empresarias locales dedicadas al sector turístico, contribuyan al desarrollo con enfoque de responsabilidad social en la comunidad.
+
+### CAPÍTULO XI. DEL TURISTA
 
 ###### Artículo 56.
 
@@ -769,7 +813,7 @@ Aquellos municipios considerados por la Secretaría como de Zonas de Interés y 
 
 La Secretaría, en coordinación con los municipios, habilitará mecanismos ágiles y eficientes para canalizar y dar tratamiento a las quejas y demandas que pudieran presentar los turistas de conformidad con lo dispuesto en el Reglamento de esta Ley y demás disposiciones aplicables.
 
-### CAPÍTULO XIII. DE LOS RECURSOS
+### CAPÍTULO XII. DE LAS VERIFICACIONES Y SANCIONES
 
 ###### Artículo 59.
 
@@ -790,6 +834,8 @@ Para efectos de la aplicación de sanciones por infracciones a la presente Ley, 
 ###### Artículo 62.
 
 Las visitas de verificación a que se refieren los artículos anteriores, se sujetarán a lo dispuesto por esta Ley y su Reglamento.
+
+### CAPÍTULO XIII. DE LOS RECURSOS
 
 ###### Artículo 63.
 
@@ -966,3 +1012,19 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado, por conducto de sus áreas competentes, deberá realizar las adecuaciones administrativas, reglamentarias, operativas y financieras necesarias para la correcta implementación de lo previsto en el presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVII/RFLEY/0857/2024 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0858/2024 II P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
