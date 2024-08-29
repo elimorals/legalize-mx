@@ -4,7 +4,7 @@ identifier: "SON-reglamento-de-transito-municipal-de-hermosillo-sonora-45195"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-31"
-last_updated: "2023-11-30"
+last_updated: "2024-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 REGLAMENTO DE TRÁNSITO MUNICIPAL DE HERMOSILLO, SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 29 DE AGOSTO DE 2024.
 
 Reglamento publicado en la Sección I del Número 26 en el Boletín Oficial del Estado de Sonora, el jueves 31 de marzo de 2005.
 
@@ -37,11 +37,11 @@ REGLAMENTO DE TRANSITO MUNICIPAL
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 1.
 
-El presente Reglamento es de interés público y de observancia obligatoria en el Municipio de Hermosillo. Tiene por objeto regular el tránsito de vehículos y establecer las normas de seguridad vial a las que se sujetarán sus conductores y ocupantes, así como los peatones.
+El presente Reglamento es de observancia general e interés público en el Municipio de Hermosillo. Tiene por objeto regular el tránsito de vehículos y personas peatonas en la vía pública, así como establecer las normas de seguridad vial, garantizando el derecho a la movilidad, en condiciones de accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 (ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
@@ -55,23 +55,25 @@ III.- UMA: La Unidad de Medida y Actualización; y
 
 IV.- Norma Oficial Mexicana: La regulación técnica de observancia obligatoria, expedida por las Autoridades competentes, que tiene como finalidad, establecer reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieren a su cumplimiento o aplicación, también podrá estar expresado por su acrónimo NOM.
 
-> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 2.
 
-El Ayuntamiento de Hermosillo es la autoridad con atribuciones para ordenar la aplicación de las medidas necesarias para el debido cumplimiento del presente Reglamento y de la Ley de Tránsito del Estado de Sonora, ejerciéndose a través de la Jefatura de Policía y Tránsito Municipal; Dirección General de Seguridad Pública y la Secretaría del Ayuntamiento por conducto de los Jueces Calificadores y Médicos Legistas en el ámbito del Municipio, de conformidad a lo señalado por los artículos 115 fracciones II y III inciso h) de la Constitución Política de los Estados Unidos Mexicanos y 61 fracción V inciso A) de la Ley de Gobierno y Administración Municipal.
+El Ayuntamiento de Hermosillo es la autoridad con atribuciones para ordenar la aplicación de las medidas necesarias para el debido cumplimiento del presente Reglamento, del Protocolo Municipal para la Implementación de Puntos de Control de Alcoholimetría en Hermosillo, Sonora, de la Ley de Tránsito del Estado de Sonora, ejerciéndose por medio de la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública y la Secretaría del Ayuntamiento, por conducto de las y los Jueces Calificadores y las y los Médicos Legistas en el ámbito del Municipio, de conformidad a lo señalado por los artículos 115, fracciones II y III inciso h) de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Movilidad y Seguridad Vial, Ley de Control Vehicular para el Estado de Sonora, la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, la Ley de Transporte del Estado de Sonora y 61 fracción V, inciso A), de la Ley de Gobierno y Administración Municipal.
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+El Ayuntamiento de Hermosillo, deberá adoptar las medidas de prevención y mitigación de riesgos para garantizar la seguridad e integridad de las y los conductores, las y los pasajeros y la ciudadanía en general.
 
-Asimismo, será autoridad la Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, en materia de autorizaciones, semaforización y señalamientos en la vía pública, que se consignan en el Capítulo Décimo Tercero del presente Reglamento, con excepción de lo relativo a las autorizaciones para áreas de taxis, las cuales serán facultad de la Tesorería Municipal, a través de la Dirección de Inspección y Vigilancia.
+Además, tras recibir la opinión del Instituto Municipal de Planeación Urbana, Movilidad y Espacio Público, la Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, será la autoridad competente para gestionar las autorizaciones, la señalización y la instalación de semáforos en las vías públicas. En cuanto a las autorizaciones relacionadas con las áreas de taxis, son responsabilidad de la Tesorería Municipal, a través de la Dirección de Inspección y Vigilancia; en todos los casos, se requerirá un dictamen previo del Instituto Municipal de Planeación Urbana, Movilidad y Espacio Público.
 
-(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-ARTÍCULO 2 BIS.- Sin perjuicio de las atribuciones establecidas en las Leyes de Seguridad Pública y de Tránsito del Estado de Sonora, Bando de Policía y Gobierno, la Dirección General de Seguridad Pública Municipal, ejercerá las siguientes atribuciones:
+ARTÍCULO 2 BIS. Sin perjuicio de las atribuciones establecidas en la Ley General de Movilidad y Seguridad Vial, Ley de Movilidad y Seguridad Vial para el Estado de Sonora, Ley de Tránsito del Estado de Sonora, la Ley de Transporte del Estado de Sonora, Bando de Policía y Gobierno, el Ayuntamiento de Hermosillo, por conducto de la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, ejercerá las siguientes atribuciones:
 
 I.- Vigilar el cumplimiento de las disposiciones contenidas en el presente Reglamento;
 
-II.- Expedir boleta oficial, la que podrá ser manual o electrónica y en la que se consignará la infracción cometida, fundando y motivando la violación a las disposiciones del presente Reglamento, la Ley de Tránsito del Estado de Sonora y Ley de Control Vehicular para el Estado de Sonora, la cual para su validez deberá contener:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE AGOSTO DE 2024)</small>
+
+II.- Expedir boleta oficial, la cual preferentemente deberá ser impresa por medios tecnológicos y excepcionalmente manuscrita, en la que se consignará la infracción cometida, ya sea captada por las o los policías de forma presencial o ya sea por medio del uso de tecnologías, fundando y motivando la violación a las disposiciones, que pudieran aplicar, del presente Reglamento, la Ley de Tránsito del Estado de Sonora, la Ley General de Movilidad y Seguridad Vial, la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, la Ley de Transporte del Estado de Sonora, el Protocolo Municipal para la Implementación de Puntos de Control de Alcoholimetría en Hermosillo, Sonora, las Normas Oficiales Mexicanas y cualquier otra aplicable en materia de tránsito, movilidad y seguridad vial de aplicación municipal, las que, en todo caso, deberán estar numeradas o foliadas, para su control, y para su validez deberá contener:
 
 1.- Fundamentación legal:
 
@@ -81,7 +83,9 @@ a) Artículos de la Ley o del presente Reglamento que prevén la conducta cometi
 
 a) Día, lugar, hora y breve descripción del hecho de la conducta infractora;
 
-b) Nombre y domicilio del infractor, salvo que no esté presente o no los proporcione se faculta a poner la leyenda “a quien corresponda”;
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+b) Nombre y domicilio del o de la infractora, salvo que no esté presente o no los proporcione, en cuyo caso, se le faculta dirigirla "a quien corresponda";
 
 c) Placas de matrícula, y en su caso, número del permiso del vehículo para circular;
 
@@ -89,85 +93,249 @@ d) En su caso, número y tipo de licencia o permiso de conducir;
 
 e) Nombre, número de placa, adscripción y firma del agente que expida la boleta oficial; y
 
-III.- Poner a disposición inmediata del Juez Calificador, a los conductores que sean detenidos por conducir bajo los efectos del alcohol, drogas u otras sustancias tóxicas;
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-IV.- Formular informes de hechos y circunstancias que hubieren motivado la detención de conductores. Dicho informe deberá contener los siguientes datos:
+III.- Poner a disposición inmediata de las y los jueces calificadores, a las y los conductores detenidos por conducir presumiblemente bajo los efectos del alcohol, drogas u otras sustancias tóxicas, cuando así sean certificados por las y los médicos legistas en turno, quienes además establecerán el tiempo mínimo en que estas personas detenidas recuperarán su estado consciente para la toma de decisiones. Las y los jueces calificadores programarán la audiencia de ley, conforme a la indicación de tiempo anteriormente establecido.
 
-a) Deberá elaborarse el informe policial homologado;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE AGOSTO DE 2024)</small>
 
-b) Nombre y domicilio del presunto infractor, explicitando los documentos con los cuales se identificó;
+IV.- Formular informes de hechos y circunstancias que hubieren motivado la detención de conductoras y conductores. Dicho informe deberá contener los siguientes datos:
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+a) Deberá elaborarse en papel membretado cuando se presuma la comisión de una infracción y se levantará el Informe Policial Homologado, cuando se presuma la comisión de un delito;
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+b) Nombre y domicilio de la o el presunto infractor, indicando el o los documentos con los cuales se identificó;
 
 c) Relación sucinta de los hechos que hagan presumir la comisión de la infracción o delito.
 
 En dicha relación se referirán, aparte de la infracción cometida, las circunstancias de tiempo, modo y lugar, y los demás datos que resultaren relevantes para efectos del procedimiento;
 
-d) Nombre y domicilio de los testigos, si hubiere;
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-e) Inventario de objetos que se le hubieren encontrado en poder del presunto infractor en el momento de la detención, así como del vehículo, sus partes y demás accesorios que se encuentren en su interior. El inventario deberá realizarse en presencia del conductor detenido; y
+d) Nombre y domicilio de las y los testigos, si los hubiere:
 
-f) Nombre, firma, jerarquía y número de unidad del agente que practique la detención.
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-V.- Autorizar la instalación y operación de los dispositivos tecnológicos por sí o a través de un tercero, así como el mantenimiento de estos;
+e) Inventario de objetos que se le hubieren encontrado en poder de la o el presunto infractor en el momento de la detención, así como del vehículo, sus partes y demás accesorios que se encuentren en su interior. El inventario deberá realizarse en presencia de la o el conductor detenido; y
 
-VI.- Hacer uso por sí o a través de un tercero de dispositivos tecnológicos que coadyuven con la detección de la comisión de infracciones y la identificación de las personas que las cometan;
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+f) Nombre, firma, jerarquía y número de unidad de la o el agente que practique la detención.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE AGOSTO DE 2024)</small>
+
+V.- Usar tecnologías, por sí o por medio de terceros, como medio auxiliar para la prevención y captación de infracciones a fin de prevenir y mitigar factores de riesgo que atenten contra la integridad, dignidad o libertad de las personas, conforme a lo siguiente:
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+a) Se podrán emplear dispositivos tecnológicos, entendidos estos como los equipos electromecánicos, eléctricos, análogos, digital u óptico, incluyendo radares, cinemómetros u otros instrumentos de innovación tecnológica que permitan la detección e identificación de infracciones; los cuales podrán fotografiar, grabar, registrar o recabar aquella constancia con la que se demuestre la comisión de la infracción al presente ordenamiento, generando la boleta digital o, en su caso, la impresión de la misma, la cual contendrá los requisitos señalados en este reglamento en lo que corresponda;
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+b) Se podrán utilizar dispositivos tecnológicos para la verificación del cumplimiento de este reglamento, de las Normas Oficiales Mexicanas, expedidas por la federación en materia de movilidad y seguridad vial, así como de las normas generales que facultan u obligan al municipio a dar cumplimiento en materias de tránsito, movilidad y seguridad vial;
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+c) Se podrán utilizar dispositivos tecnológicos en auxilio para la determinación de infracciones y sus sanciones derivadas del incumplimiento de este reglamento, de las Normas Oficiales Mexicanas, expedidas por la federación en materia de movilidad y seguridad vial, así como de las normas generales que facultan u obligan al municipio a dar cumplimiento en materias de tránsito, movilidad y seguridad vial; y
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+d) Establecer la comunicación por la autoridad competente, a quien aparezca como titular de las placas de circulación del vehículo con el cual se cometiere la infracción, ya sea por medio de correo electrónico o directamente en el domicilio que de dicho titular se obtengan en las bases de datos del Padrón Vehicular del Estado o Registro Público vehicular, la infracción cometida.
+
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+VI.- Autorizar la instalación y operación de dispositivos tecnológicos, como medio auxiliar para la prevención y captación de infracciones a fin de prevenir y mitigar factores de riesgo que atenten contra la integridad, dignidad o libertad de las personas, así como el mantenimiento de estos, por medio del Ayuntamiento, o por terceros;
 
 VII.- Suscribir acuerdos y convenios, con autoridades federales y municipales, para la realización de acciones en las materias objeto de esta Ley;
 
-VIII.- Autorizar la instalación de puestos fijos o móviles a cargo de los agentes de vialidad a fin de imponer las sanciones que resulten del incumplimiento del presente Reglamento ya sea en el sitio donde se comete la conducta o máximo un kilómetro después del mismo, esto, atendiendo la seguridad que debe prevalecer para los elementos y derivado de la persecución que en su caso se realice o bien de la ubicación del dispositivo de seguridad.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-IX.- La facultad y obligación del Ayuntamiento y Presidente Municipal, previstas en los artículos 61, fracción V, Inciso A) y 65, fracción XXIX de la Ley de Gobierno y Administración Municipal; se confiere por el Ayuntamiento a los integrantes de la Policía Municipal; limitándose lo conferido, a que la Policía aplique la sanción de multa que prevea la Ley de Ingresos y Presupuesto de Ingresos para el Ayuntamiento del Municipio de Hermosillo vigente en cada uno de los ejercicios fiscales y este Reglamento, con relación al artículo 128 de la Ley de Hacienda Municipal, en específico por incurrir en infracción cuando se exceda el tiempo de estacionamiento, o se estacione sin cubrir la cuota o derecho que indique la Ley, en los lugares donde el estacionamiento de vehículos se encuentre restringido y medido mediante la instalación de sistemas de control de tiempo y espacio u otra forma que permita al Ayuntamiento ordenar y controlar su uso y aprovechamiento; y
+VIII.- Llevar a cabo la aplicación y supervisión del funcionamiento de los Puntos de Control de Alcoholimetría en el municipio, en términos del Protocolo Municipal para la Implementación de Puntos de Control de Alcoholimetría en Hermosillo, Sonora;
 
-X. Las demás que le confieran los ordenamientos legales aplicables a la materia.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+IX.- La facultad y obligación del Ayuntamiento y Presidente Municipal, previstas en los artículos 61, fracción V, Inciso A) y 65, fracción XXIX de la Ley de Gobierno y Administración Municipal; se confiere por el Ayuntamiento a los integrantes de la Policía Municipal; limitándose lo conferido, a que la Policía aplique la sanción de multa que prevea la Ley de Ingresos y Presupuesto de Ingresos para el Ayuntamiento del Municipio de (sic)
+
+(sic)Hermosillo vigente en cada uno de los ejercicios fiscales y este Reglamento, con relación al artículo 128 de la Ley de Hacienda Municipal, en específico por incurrir en infracción cuando se exceda el tiempo de estacionamiento, o se estacione sin cubrir la cuota o derecho que indique la Ley, en los lugares donde el estacionamiento de vehículos se encuentre restringido y medido mediante la instalación de sistemas de control de tiempo y espacio u otra forma que permita al Ayuntamiento ordenar y controlar su uso y aprovechamiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE AGOSTO DE 2024)</small>
+
+X.- Autorizar el uso de dispositivos tecnológicos, como medio auxiliar para la prevención y captación de infracciones a fin de prevenir y mitigar factores de riesgo que atenten contra la integridad, dignidad o libertad de las personas, que coadyuven con la detección de la comisión de infracciones y la identificación de las personas que las cometan, por medio del Ayuntamiento, o por terceros;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XI.- Autorizar operativos de verificación del cumplimiento de este reglamento, de las Normas Oficiales Mexicanas, expedidas por la federación en materia de movilidad y seguridad vial, así como de las normas generales que facultan u obligan al municipio a dar cumplimiento en materias de tránsito, movilidad y seguridad vial, los que podrán ser fijos o móviles;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XII.- Vigilar el cumplimiento de las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XIII.- Implementar dispositivos para el control del tránsito que deban ser utilizados en los centros de población de su competencia;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XIV.- Establecer, de conformidad con la propuesta del Instituto Municipal de Planeación Urbana, Movilidad y del Espacio Público del Ayuntamiento de Hermosillo, la categoría, sentidos de circulación, señalética y demás características de las vías en su territorio;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XV.- Establecer, de conformidad con la propuesta que el Instituto Municipal de Planeación Urbana, Movilidad y del Espacio Público del Ayuntamiento de Hermosillo, el establecimiento de servicios de estacionamiento en vía pública, especificando zonas restringidas, horarios y su temporalidad;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XVI.- Mantener, en el ámbito de sus atribuciones, las vías libres de obstáculos y elementos que impidan, dificulten, generen un riesgo u obstaculicen el tránsito peatonal y vehicular, excepto en aquellos casos debidamente autorizados y respetando la jerarquía de la movilidad;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XVII.- Instrumentar programas y campañas de cultura de la movilidad, que fomenten la prevención de los siniestros de tránsito, para lo cual podrá solicitar la asesoría y capacitación técnica por parte del Instituto de Movilidad y Transporte para el Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XVIII.- Implementar programas especiales de seguridad vial en los entornos escolares y puntos de alta afluencia de personas, para lo cual podrá solicitar la asesoría y capacitación técnica por parte del Instituto de Movilidad y Transporte para el Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XIX.- Promover la creación de Observatorios con la participación de la sociedad, pueblos y comunidades indígenas y afromexicanas, zonas insulares, personas con discapacidad y las organizaciones que les representan, instituciones académicas y de investigación, colegios de profesionistas con incidencia directa en la materia de la Ley General de Movilidad y Seguridad Vial, organismos empresariales del sector ligado a la movilidad, la seguridad vial y al transporte de bienes y mercancías, organizaciones de la sociedad civil organizada y los gobiernos respectivos, para el estudio, investigación y propuestas; evaluación de las políticas públicas, programas y acciones; capacitación a la comunidad; difusión de información y conocimientos sobre la problemática de la movilidad, la seguridad vial, la accesibilidad, la eficiencia, la sostenibilidad, la calidad y la inclusión e igualdad y sus implicaciones en el ordenamiento territorial, y en general sobre la aplicación de la citada Ley General. Para el ejercicio de esta facultad emitirá, por medio de su Junta de Gobierno, los lineamientos a los que se sujetará la creación y operación de dichos observatorios, los cuales deberán mantenerse actualizados en el registro a su cargo;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XX.- Ordenar, regular y administrar los servicios de vialidad y tránsito en los centros de población ubicados en el territorio del municipio y en las vías públicas de jurisdicción municipal, conforme a las disposiciones de la Ley de Movilidad y Seguridad Vial para el Estado de Sonora y en los reglamentos respectivos;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXI.- Ejecutar las medidas que, para mejorar la infraestructura vial y los sistemas de control de tránsito de jurisdicción municipal en términos de la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, dicte el Instituto Municipal de Planeación Urbana, Movilidad y del Espacio Público, así como proponer a éste las que considere adecuadas para tales efectos;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXII.- Ejecutar las acciones relativas a la ingeniería de tránsito y al señalamiento de las vialidades en los centros de población de su jurisdicción;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXIII.- Recopilar e integrar la información que, en el ámbito de su competencia, deba incorporarse al Sistema Municipal de Movilidad y Seguridad Vial, la que, a su vez, deberá incorporarse a las bases de datos de movilidad y seguridad vial que establece el sistema de información territorial y urbana a que refiere la Ley de Movilidad y Seguridad Vial para el Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXIV.- Requerir a las instituciones educativas los planes de movilidad de sus instalaciones para garantizar que el ascenso y descenso de estudiantes, docentes y personal administrativo se realice en condiciones de seguridad vial;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXV.- Realizar operativos de control de uso de distractores durante la conducción de vehículos, sistemas de retención infantil, uso de cinturones de seguridad en todos los pasajeros cascos certificados en personas motociclistas y vehículos motorizados afines y control de velocidad;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXVI.- Realizar los operativos de alcoholimetría en las vías de su competencia, con base en los límites y procedimientos establecidos por la Ley General y el Protocolo Municipal para la Implementación de Puntos de Control de Alcoholimetría en Hermosillo, Sonora;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXVII.- Elaborar, en los casos de siniestros de tránsito, el análisis técnico para determinar la responsabilidad de las o los involucrados en el hecho en cuestión. En dicho análisis prevalecerá la jerarquía de la movilidad establecida en la Ley de Movilidad y Seguridad Vial para el Estado de Sonora; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXVIII.- Las demás que le confieran los ordenamientos legales aplicables a la materia.
 
 > <small>(ADICIONADO, B.O. 28 DE MAYO DE 2009)</small>
 
 ARTÍCULO 2 BIS 1.- Corresponde a los Jueces Calificadores, el ejercicio de las siguientes atribuciones:
 
-I.- Conocer, calificar y sancionar las infracciones al presente Reglamento.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+I.- Conocer, calificar y sancionar las infracciones al presente Reglamento, a la Ley General de Movilidad y Seguridad Vial y a la Ley de Movilidad y Seguridad Vial para el Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
 
 II.- Desahogar y valorar las pruebas que fueren presentadas para la calificación de la infracción;
 
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
+
 III.- Dictar, en los términos de las disposiciones aplicables, resolución expresa respecto de las infracciones que se hagan de su conocimiento, conforme a lo dispuesto en el Capítulo II, Título Segundo del Libro Cuarto de la Ley de Seguridad Pública para el Estado de Sonora;
 
-IV.- Coordinarse con los Médicos Legistas para la calificación de las infracciones al presente Reglamento;
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-V.- Permutar las sanciones impuestas, cuando así proceda, o a petición del infractor;
+IV.- Coordinarse con las y los Médicos Legistas para la calificación de las infracciones al presente Reglamento a la Ley General de Movilidad y Seguridad Vial y a la Ley de Movilidad y Seguridad Vial para el Estado de Sonora;
+
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+V.- Permutar las sanciones impuestas, cuando así proceda, o a petición de la o el infractor;
+
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
 
 VI.- Adoptar las medidas de prevención para garantizar la seguridad e integridad de conductores, pasajeros y la ciudadanía en general;
 
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
+
 VII.- Resolver los recursos de revocación interpuestos en contra de las sanciones impuestas por infracciones al presente Reglamento y la Ley de Tránsito del Estado de Sonora, en los términos del artículo 240 de la Ley de Tránsito del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
 
 VIII.- Hacer del conocimiento del Agente del Ministerio Público, la probable comisión de delitos, de conformidad con lo previsto en el artículo 144 del Código Penal para el Estado de Sonora, y
 
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
+
 IX.- Las demás que les confieran los ordenamientos legales aplicables a la materia.
 
-> <small>(ADICIONADO, B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-ARTÍCULO 2 BIS 2.- Sin perjuicio de lo previsto en el Bando de Policía y Gobierno para el Municipio de Hermosillo, corresponde a los Médicos Legistas, el ejercicio de las siguientes atribuciones:
+ARTÍCULO 2 BIS 2.- Sin perjuicio de lo previsto en el Bando de Policía y Gobierno para el Municipio de Hermosillo, corresponde a las y a los Médicos Legistas, el ejercicio de las siguientes atribuciones:
 
-I.- Emitir certificado médico, sobre el grado de intoxicación de conductores por el consumo de alcohol, drogas u otras sustancias tóxicas;
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+I.- Emitir certificado médico oficial, sobre el grado de intoxicación de conductores por el consumo de alcohol, drogas u otras sustancias tóxicas, estableciendo el tiempo mínimo en que estas personas detenidas recuperarán su estado consciente para la toma de decisiones;
+
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
 
 II.- Dictar las medidas necesarias para garantizar y proteger la salud de los conductores detenidos con motivo de infracciones al presente Reglamento;
 
-III.- Practicar las pruebas para la detección del grado de intoxicación, utilizando para ello los medios e instrumentos médico-tecnológicos, tales como alcoholemia y alcoholímetro, así como los exámenes de las capacidades psicomotrices y de alteración de la conducta, entre otros;
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+III.- Practicar las pruebas para la detección del grado de intoxicación por el consumo de bebidas con contenido alcohólico, drogas u otras sustancias tóxicas, en apego a la Ley General de Movilidad y Seguridad Vial;
+
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
 
 IV.- Certificar sobre el grado de intoxicación de los conductores que le sean presentados;
 
-V.- Coordinarse con los Jueces Calificadores, para la calificación de las infracciones al presente Reglamento y la Ley de Tránsito del Estado de Sonora;
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-VI.- Informar al Juez Calificador de toda irregularidad o situación extraordinaria que se presente al momento de la certificación médica de las personas que le sean presentadas;
+V.- Coordinarse con las y los Jueces Calificadores, para la calificación de las infracciones a la Ley General de Movilidad y Seguridad Vial, a la Ley de Tránsito del Estado de Sonora, a la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, al presente Reglamento y al Protocolo Municipal para la Implementación de Puntos de Control de Alcoholimetría en Hermosillo, Sonora;
+
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+VI.- Informar a la o al Juez Calificador de toda irregularidad o situación extraordinaria que se presente al momento de la certificación médica de las personas que le sean presentadas;
+
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
 
 VII.- Determinar las condiciones y procedimientos bajo los cuales habrá de realizarse la valoración y certificación médica del infractor, y
+
+> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
 
 VIII.- Las demás que les confieran los ordenamientos legales aplicables a la materia.
 
 ### CAPÍTULO SEGUNDO. DEL TRÁNSITO DE VEHÍCULOS
 
-(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 3.
 
-Para transitar en el Municipio de Hermosillo, todo vehículo debe portar de forma visible los elementos de identificación vehicular oficiales y vigentes; o contar con permiso provisional vigente expedido por autoridad competente.
+Serán requisitos para transitar en las vías de comunicación de jurisdicción municipal para todo vehículo, portar las placas de circulación delantera y trasera vigentes colocadas en los lugares destinados para ello, conforme al diseño de los vehículos y a la normatividad aplicable, tener adherido en lugar visible la calcomanía de revalidación vigente y portar la tarjeta de circulación vigente; o contar con permiso provisional vigente expedido por autoridad competente.
+
+Se prohíbe la circulación en las vías de comunicación de jurisdicción municipal de todo vehículo motorizado que no cumpla a conformidad con los estándares establecidos en las Normas Oficiales Mexicanas expedidas por la Federación, en materia de movilidad y seguridad vial.
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 3 BIS.- El conjunto de desplazamientos de personas, bienes y mercancías, a través de diversos modos, orientado a satisfacer las necesidades de las personas en el municipio de Hermosillo deberá favorecer en todo momento a la persona, los grupos en situación de vulnerabilidad y sus necesidades, garantizando la prioridad en el uso y disposición de las vías, de acuerdo con la siguiente jerarquía de la movilidad:
+
+I. Personas peatonas, con un enfoque equitativo y diferenciado en razón de género, personas con discapacidad y movilidad limitada;
+
+II. Personas ciclistas y personas usuarias de vehículos no motorizados;
+
+III. Personas usuarias y prestadoras del servicio de transporte público de pasajeros, con un enfoque equitativo pero diferenciado;
+
+IV. Personas prestadoras de servicios de transporte y distribución de bienes y mercancías, y
+
+V. Personas usuarias de vehículos motorizados particulares.
 
 (REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
@@ -175,33 +343,43 @@ Para transitar en el Municipio de Hermosillo, todo vehículo debe portar de form
 
 Para los efectos del presente Reglamento se entiende por transitar, el desplazamiento de una persona a pie o auxiliada por aparatos especiales (muletas, silla de ruedas, bastones, etc.); o vehículo de propulsión automotriz, eléctrico, humana (patines, patinetas, monociclos) o animal desde un lugar a otro; y por conductor a toda persona que tenga el control del vehículo en tránsito.
 
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 5.
 
-Es obligación de los conductores y peatones respetar estrictamente lo indicado mediante señalamientos o dispositivos de tránsito. Dichos señalamientos serán establecidos por la Dirección General de Seguridad Pública Municipal atendiendo recomendaciones técnicas del Instituto Municipal de Planeación Urbana.
+Es obligación de las y los conductores y las personas peatonas respetar estrictamente lo indicado mediante señalamientos o dispositivos de tránsito. Dichos señalamientos serán establecidos por la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, atendiendo recomendaciones técnicas del Instituto Municipal de Planeación Urbana, Movilidad y del Espacio Público.
 
-Las indicaciones de los Agentes de Tránsito y Policías Preventivos, prevalecerán sobre los semáforos, señales y demás dispositivos para el control de tránsito y de las normas de tránsito y estacionamiento.
+Las indicaciones de las y los policías de tránsito y policías preventivos prevalecerán sobre los semáforos, señales y demás dispositivos para el control de tránsito y de las normas de tránsito y estacionamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 6.
 
-En cruceros donde converjan dos o más avenidas, calles o carreteras, la prioridad de paso se determinará como sigue:
+En cruceros donde converjan dos o más avenidas, calles o carreteras la prioridad de paso se determinará como sigue:
 
-I.- En las esquinas o lugares donde haya señal restrictiva de ALTO, los conductores deberán detener completamente sus vehículos. Esto es, antes de las zonas de peatones marcadas o en su defecto, dos metros antes de la intersección.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-Antes de iniciar la marcha de sus vehículos, los conductores deberán ceder el paso a los peatones que estén cruzando o hayan iniciado el cruce de una calle o avenida. Posteriormente, sin invadir el (los) carril (es) de Tránsito de la calle transversal, deberán cerciorarse de que no se aproxima ningún vehículo con el que se pueda ocasionar algún accidente y hasta entonces iniciarán la marcha, evitando detenerse dentro de la intersección.
+I.- En las esquinas o lugares donde haya señal restrictiva de ALTO las y los conductores deberán detener completamente sus vehículos. Esto es, antes de las zonas de personas peatonas marcadas, o en su defecto, dos metros antes de la intersección.
 
-(REFORMADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+Antes de iniciar la marcha de sus vehículos, las y los conductores deberán ceder el paso a las personas peatonas, personas ciclistas y personas usuarias de vehículos no motorizados, personas usuarias y prestadoras del servicio de transporte público de pasajeros, personas prestadoras de servicios de transporte y distribución de bienes y mercancías, que estén cruzando o hayan iniciado el cruce de una calle o avenida.
 
-II.- Cuando todas las calles o avenidas convergentes en un crucero tengan señal de ALTO la prioridad de paso lo tiene el primero en llegar; si dos vehículos llegaran en forma simultánea al crucero, tendrá prioridad de paso el vehículo que transita por la derecha con relación al otro.
+Posteriormente, sin invadir el (los) carril (es) de tránsito de la calle transversal, deberán cerciorarse de que no se aproxima ningún vehículo con el que se pueda ocasionar algún accidente y hasta entonces iniciarán la marcha, evitando detenerse dentro de la intersección;
 
-(REFORMADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-III.- En las esquinas o lugares donde exista señal gráfica de CEDA EL PASO los conductores podrán entrar a la intersección si por la calle transversal no se aproxima ningún vehículo que constituya peligro de accidente; en caso contrario deberán cederle el paso a vehículos y peatones.
+II.- Cuando todas las calles o avenidas convergentes en un crucero tengan señal de ALTO tendrá la prioridad de paso, una vez observado lo estipulado en la fracción anterior, quien llegue primero; si dos vehículos llegaran en forma simultánea al crucero, tendrá prioridad de paso el vehículo que transita por la derecha con relación al otro; y
+
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+III.- En las esquinas o lugares donde exista señal gráfica de CEDA EL PASO las y los conductores podrán entrar a la intersección si por la calle transversal no se aproxima ningún vehículo que constituya peligro de accidente; en caso contrario deberán cederles el paso a vehículos y a las personas peatonas.
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 7.
 
-Los vehículos de emergencia que hagan uso simultáneo de su sirena y torretas o faros de luz roja, tendrán derecho de paso y movimiento sobre los demás vehículos, pudiendo exceder hasta en 50% el limite de velocidad establecido. Los conductores de los demás vehículos deberán cederles el paso y auxiliarles en el libre movimiento, siempre y cuando la maniobra pueda realizarse con seguridad.
+Cuando la situación así lo requiera, los vehículos de emergencia que hagan uso simultáneo de su sirena, torretas o faros de luz roja, tendrán el uso prioritario de la vía a sobre los demás vehículos, pudiendo exceder hasta en 50% el límite de velocidad establecido.
 
-Existirá en toda vía pública un carril denominado “EMERGENCIA” el cual estará siempre ubicado en el carril central en donde los conductores de los demás vehículos deberán cederles el paso y auxiliarles en el libre movimiento, siempre y cuando la maniobra pueda realizarse con seguridad.
+Las y los conductores de los demás vehículos deberán cederles el paso y auxiliarles en el libre movimiento, siempre y cuando la maniobra pueda realizarse con seguridad.
 
 ###### ARTÍCULO 8.
 
@@ -263,17 +441,25 @@ II.- Para los vehiculos con peso mayor al anterior, la distancia deberá ser de 
 
 Cuando las condiciones sean adversas, que limiten la visibilidad o hagan difícil la conducción de vehículos; se deberá aumentar esta distancia de acuerdo a las circunstancias. Todo accidente causado por no guardar la distancia será responsabilidad de quien no cumpla con este ordenamiento. Se exceptúa de lo anterior el caso en el que se compruebe que el vehiculo golpeado entró en forma repentina proveniente de otra calle o carril colocándose adelante del que lo golpea sin darle tiempo a guardar la distancia o bien que se encontraba con la marcha detenida sobre el carril de circulación de un desperfecto mecánico y no se cumplió con la obligación de señalizar tal situación a los demás conductores.
 
-> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 14.
 
-La Jefatura de Policía Preventiva y Tránsito Municipal, Dirección General de Seguridad Pública, expedirá permisos para el tránsito de vehículos de carga con peso bruto mayor a ocho mil kilogramos, los de tres o más ejes, los tracto camiones y los vehículos de tracción animal dentro de las zonas que por sus características habitacionales, comerciales o de servicios y por las condiciones físicas de la vía pública que así lo requieran.
+Conforme a las facultades de aplicación que otorga a los municipios la Ley General de Movilidad y Seguridad Vial, se prohíbe sin excepción la circulación en las vías generales de comunicación de jurisdicción municipal a los vehículos de autotransporte que excedan el peso máximo, ya sea por tipo de eje o por peso bruto vehicular, y/o que excedan las dimensiones máximas (largo, ancho y/o alto) permitidas, según clase de vehículo y, tomando de referencia el tipo de camino A4 y A2, conforme a la Norma Oficial Mexicana NOM-012-SCT-2-2017, sobre el peso y dimensiones máximas con los que pueden circular los vehículos de autotransporte que transitan en las vías generales de comunicación de jurisdicción federal.
 
-Se establece como área de uso restringido con prohibición total de circulación para el tránsito de vehículos de carga de largo itinerario, con las características contenidas en el párrafo anterior, dentro del polígono comprendido a partir del punto de intersección del kilómetro 251+100 al 252+800 ambos cuerpos periférico Sur del kilómetro 0+000 al 1+900 incluyendo el Distribuidor Vial a la Colorada y ambos cuerpos, y Periférico Oriente del kilómetro 0+000 al 4+500 incluyendo los puentes del vertedor de la Presa General Abelardo L. Rodríguez y ambos cuerpos que forman parte de la carretera federal número 15 México Nogales en el estado de Sonora.
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-Los vehículos de carga con destino final o intermedio dentro de la ciudad de Hermosillo, Sonora, o su región poniente, deberán contar con guía o manifiesto de carga por escrito en el que se contenga el nombre y el domicilio del destinatario el cual deberá estar ubicado dentro del área indicada.
+Las unidades vehiculares tipo góndola o madrina, de conformidad a la Norma Oficial Mexicana NOM-012-SCT-2-2017, que transitan en vías generales de comunicación de jurisdicción federal, cuyo peso bruto vehicular sea superior a las 13 toneladas o cuyo largo sea superior a los 12.5 metros, y que requieran internarse a las vías generales de comunicación de jurisdicción municipal, deberán contar con el complemento Carta Porte que especifique expresamente al municipio de Hermosillo como parte de su ruta, y obtener y portar el permiso de circulación correspondiente expedido por la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, el cual establecerá las vías en las que se le autoriza circular, y solo serán permitidas en el horario comprendido de las 22:00 horas a 5:00 horas.
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+Los vehículos de carga a que hace referencia el párrafo anterior, en cuanto al tránsito interno local, sólo podrán circular con permiso, quedando prohibido hacerlo en horarios de 06:30 a 9:00 horas, de 13:00 a 15:00 horas y de 17:30 a 20:30 horas.
+
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 Además, el tránsito de vehículos de carga, así como las maniobras de carga y descarga de los vehículos con las características contenidas en el párrafo primero deberán sujetarse a las restricciones de circulación de vialidades y horarios previstos en este y en otros ordenamientos legales.
+
+> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 2015)</small>
 
 En todo caso, el tránsito por las vialidades de la ciudad de Hermosillo y la carga y descarga dentro del perímetro urbano de los vehículos con las características contenidas en el párrafo primero solo serán permitidas en el horario comprendido de las 21:00 horas a las 6:00 horas del día siguiente.
 
@@ -293,15 +479,33 @@ Los conductores de vehículos que estén autorizados para hacer uso provisional 
 
 Los conductores de vehiculos que salgan de cocheras particulares, cajones de estacionamiento, estacionamientos públicos o privados, áreas privadas, parques o cualquier lugar no destinado para vehículos deberán ceder el paso a los vehiculos en movimiento sobre los carriles de circulación, utilizando siempre el carril próximo.
 
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 18.
 
-La tarjeta de circulación original o copia legible deberá de conservarse en el vehículo y ser presentada al Agente de Tránsito o Agente de la Policía Preventiva Municipal, cuando lo solicite.
+La tarjeta de circulación original o copia legible deberá conservarse en el vehículo y ser presentada al policía de tránsito o al policía preventivo cuando lo solicite.
 
-(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
-Es obligatorio para los conductores de vehículos automotores en marcha, así como para sus acompañantes utilizar el cinturón de seguridad. Los niños menores de seis años deberán viajar en el asiento trasero del vehículo, los menores de dos años lo harán sentados en la silla o porta bebé que estarán sujetos con los cinturones del vehículo.
+Es obligatorio para las y los conductores de vehículos automotores en marcha, así como para sus acompañantes, cumplir con lo siguiente:
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+I. Utilizar el cinturón de seguridad, en todo momento, sin importar si viajan en los asientos delanteros o traseros;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+II. Que cualquier persona menor de doce años o que por su constitución física lo requiera, viaje en los asientos traseros con un sistema de retención infantil o en un asiento de seguridad que cumpla con los requisitos establecidos en la Norma Oficial Mexicana aplicable;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+III. Contar y portar consigo la licencia o permiso de conducir vigente, la cual deberá ser la adecuada para el tipo de vehículo que se opere; y
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+IV. Que el vehículo a operar cuente con los estándares establecidos en la Norma Oficial Mexicana aplicable.
 
 ###### ARTÍCULO 20.
 
@@ -309,11 +513,11 @@ Los propietarios de los vehículos son responsables del pago de las infracciones
 
 ### CAPÍTULO TERCERO. DE LAS PROHIBICIONES A LOS CONDUCTORES DE VEHÍCULOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 21.
 
-Los conductores de vehículos tienen prohibido lo siguiente:
+Las y los conductores de vehículos tienen prohibido lo siguiente:
 
 I.- Conducir vehículos de propulsión automotriz sin contar con licencia vigente de conformidad a lo establecido en el Artículo 18 de la Ley de Tránsito del Estado de Sonora.
 
@@ -321,7 +525,41 @@ II.- Conducir cuando sus facultades físicas o mentales se encuentren alteradas 
 
 III.- Llevar entre su cuerpo y los dispositivos de manejo del vehículo personas, animales u objetos que dificulten la normal conducción del mismo o le reduzcan su campo de visión, audición y libre movimiento.
 
-IV.- Exceder los límites máximos de velocidad especificados en los señalamientos o a falta de ellos a 30 kilómetros por hora en calles y avenidas, 45 kilómetros por hora en pares y ejes viales, de 60 kilómetros por hora en Bulevares y 80 kilómetros por hora fuera de los perímetros urbanos, cuando no exista señalamiento de velocidad. En zonas escolares el límite máximo de velocidad permitida es de 20 Kilómetros por hora.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE AGOSTO DE 2024)</small>
+
+IV.- Exceder los límites máximos de velocidad especificados en los señalamientos o a falta de estos, de conformidad con lo siguiente:
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+(sic) 20 km/h en zonas de hospitales, asilos, albergues y casas hogar;
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+a) 20 km/h en zonas y entornos escolares en vías secundarias y calles terciarias; y hasta 30 km/h en zonas y entornos escolares en vías primarias y carreteras;
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+b) 20 km/h en tramos viales con señalamiento de zona escolar;
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+c) 30 km/h en calles secundarias y calles terciarias (calles y avenidas);
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+d) 50 km/h en avenidas primarias sin acceso controlado y dentro de zonas urbanas (pares viales, ejes viales y bulevares);
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+e) 80 km/h en carriles centrales de avenidas de acceso controlado y las que se encuentren fuera de los perímetros urbanos;
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+f) 110 km/h para automóviles, 95 km/h para autobuses y 80 km/h para transporte de bienes mercancías en carreteras y autopistas de acceso restringido (cuota); y
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+g) Ninguna intersección, independientemente de la naturaleza de la vía, podrá tener velocidad de operación mayor a 50 km/h en cualquiera de sus accesos.
 
 V.- Conducir vehículos con mayor número de personas de las que puedan ir debidamente sentadas con su cinturón de seguridad.
 
@@ -335,9 +573,9 @@ IX.- Llevar consigo aparatos que hagan uso de la frecuencia de radio de Segurida
 
 X.- Utilizar equipos de sonido de tal forma que su volumen contamine el ambiente o sea molesto para el público o pasajeros.
 
-> <small>(REFORMADA, B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-XI.- Utilizar audífonos, teléfonos celulares o cualquier aparato similar que distraiga la atención del conductor.
+XI.- Hablar por teléfono celular o hacer uso de él o de cualquier otro dispositivo electrónico o de comunicación, así como leer y/o enviar mensajes de texto por medio de cualquier tipo de dispositivo electrónico, salvo que se realice mediante tecnología de manos libres;
 
 XII.- Bajar o subir pasajeros sobre los carriles de circulación o en lugares no permitidos.
 
@@ -363,11 +601,33 @@ XXII.- Remolcar vehículos si no se cuenta con el equipo especial para ello.
 
 XXIII.- Entorpecer el libre tránsito de vehículos, bicicletas o peatones.
 
-XXIV.- Transitar, estacionarse u obstruir el carril especial para bicicletas (ciclo vía).
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+XXIV. Transitar, estacionarse u obstruir el carril especial para bicicletas (ciclo carril y ciclo vías);
 
-XXV.- Transitar en el área de playas o estacionarse en accesos a estas. Así como transitar en motocicletas (cuatrimotos) en todos aquellos horarios y fechas que determine el departamento de tránsito.
+> <small>(REFORMADA [N DE E. ADICIONADA], B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXV. Conducir con una alcoholemia superior a 0.25 mg/L en aire espirado o 0.05 g/dL en sangre, salvo que por el tipo de vehículo que conduzca, este reglamento establezca mediciones distintas;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXVI. Transitar en el área de playas o estacionarse en accesos a estas. Así como transitar en motocicletas (cuatrimotos) o cualquier otro vehículo motorizado en todos aquellos horarios y fechas que determine el departamento de tránsito;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXVII. Utilizar sistemas anti-radares o detector de radares de velocidad;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXVIII. Llevar sobre las placas de los vehículos o anexas a las mismas, distintivos, objetos u otras placas con rótulos e inscripciones de cualquier índole, que oculten, velen o impidan ver con claridad, parcial o totalmente, sus letras, números e identificaciones; asimismo, se prohíbe remachar, soldar, modificar la forma de las placas o colocar en el lugar de éstas, objetos o dispositivos decorativos que se asemejen a placas de circulación extranjera o nacional;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XXIX. Efectuar acciones peligrosas o imprudentes al conducir, tales como:
+
+a) Vueltas violentas (bomberas): Se prohíbe realizar maniobras en las que el vehículo efectúe giros bruscos y repentinos que impliquen derrapes o cambios de dirección súbitos, poniendo en riesgo la seguridad vial y la integridad de los ocupantes del vehículo, peatones y otros usuarios de la vía; y
+
+b) Salidas violentas (patinado de llantas): Se prohíbe arrancar o acelerar el vehículo de manera excesiva que provoque el patinado de las llantas, generando ruido, humo y pérdida de control temporal del vehículo, lo cual puede causar accidentes y molestias a otros usuarios de la vía pública.
 
 > <small>(ADICIONADO, B.O. 28 DE MAYO DE 2009)</small>
 
@@ -375,13 +635,15 @@ ARTÍCULO 21 BIS.- Todos los conductores de vehículos que cometan infracciones 
 
 ### CAPÍTULO CUARTO. DE LOS MOTOCICLISTAS Y CICLISTAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-Además de lo establecido en este reglamento, los motociclistas deberán cumplir con lo siguiente:
+Además de lo establecido en este reglamento, las y los motociclistas deberán cumplir lo siguiente:
 
-(REFORMADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-I.- Usar casco de motociclista, sujeto firmemente a la cabeza y anteojos protectores, sus acompañantes deberán cumplir con lo anterior.
+I. Usar obligatoriamente y de forma correcta casco para personas conductoras y pasajeros de motocicletas que cumpla con la Norma Oficial Mexicana aplicable en la materia;
 
 II.- No efectuar maniobras irresponsables que pongan en peligro su vida o la de terceros.
 
@@ -397,9 +659,13 @@ VII.- No deberán circular por las ciclo vías cuando estas estén señaladas.
 
 VIII.- Las motocicletas para transitar en la vía pública deberán contar con luces reflectivas y demás accesorios de seguridad, además de faros para circulación nocturna.
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-IX.- No exceder el número de pasajeros que el diseño de la motocicleta permita;
+IX.- No exceder el número de pasajeros que el diseño de la motocicleta permita; y
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+X. Abstenerse de conducir con una alcoholemia superior a 0.1 mg/L en aire espirado o 0.02 g/dL en sangre.
 
 ###### ARTÍCULO 23.
 
@@ -443,9 +709,11 @@ III.- Al caminar a lo largo de las calles deberán hacerlo por la banqueta. De n
 
 IV.- Ayudar a cruzar las calles a los invidentes, minusválidos y menores de ocho años cuando se les solicite.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 27.
 
-Los peatones tienen prohibido lo siguiente:
+Las personas peatonas tienen prohibido lo siguiente:
 
 I.- Cruzar entre vehículos estacionados.
 
@@ -471,7 +739,13 @@ XI.- Abordar vehículos fuera de la banqueta o en más de una fila.
 
 XII.- Cruzar frente a vehículos en tránsito, detenidos momentáneamente para bajar o subir pasaje.
 
-XIII.- Cruzar las calles fuera de las zonas peatonales.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XIII. Cruzar las calles fuera de las zonas peatonales; y
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XIV. Desplazarse fuera de las zonas peatonales, utilizando dispositivos distractores tales como audífonos, teléfonos celulares, tabletas electrónicas, videojuegos o cualquier otro dispositivo electrónico.
 
 ###### ARTÍCULO 28.
 
@@ -539,17 +813,19 @@ Los tarjetones para personas con discapacidad sólo otorgan el derecho para uso 
 
 ### CAPÍTULO SÉPTIMO. DE LA SUSPENSIÓN DE MOVIMIENTO Y EL ESTACIONAMIENTO DE VEHÍCULOS
 
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 36.
 
-Suspensión de movimiento es toda detención de tránsito de un vehículo hecha para cumplir con indicaciones o normas de tránsito, señales o dispositivos para control del mismo, bajar o subir pasaje en lugares permitidos, estacionarse, detenerse por orden de un oficial de tránsito o por circunstancias no previstas comprobables o por caso fortuito o fuerza mayor.
+Suspensión de movimiento es toda detención de tránsito de un vehículo hecha para cumplir con indicaciones o normas de tránsito, señales o dispositivos para control del mismo, bajar o subir pasaje en lugares permitidos, estacionarse, detenerse por orden de un policía de tránsito o por circunstancias no previstas comprobables o por caso fortuito o fuerza mayor.
 
-Estacionar un vehiculo es cualquier maniobra de suspensión de movimiento del vehiculo con el fin de descender de él no comprendida dentro del párrafo anterior.
-
-(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 37.
 
-Cuando un vehículo esté estacionado en zona o lugar prohibido, cause interrupción al tránsito u obstruya la visibilidad de señales o dispositivos de tránsito cuya visión sea importante para evitar accidentes, será retirado con grúa y trasladado al depósito autorizado, los costos de grúas, infracción, deposito se vincularán a los elementos de identificación del vehículo detenido.
+Cuando un vehículo esté estacionado en zona o lugar prohibido o, por cualquier razón, inclusive por fallas mecánicas, cause interrupción al tránsito u obstruya la visibilidad de señales o dispositivos de tránsito, cuya visión sea importante para evitar accidentes, será retirado con grúa y trasladado al depósito autorizado.
+
+Los costos de grúas, infracción y depósito, se vincularán a los elementos de identificación del vehículo detenido y deberán ser cubiertos por quien aparezca como titular de las placas de circulación del vehículo con el cual se cometiere la infracción.
 
 ###### ARTÍCULO 38.
 
@@ -599,23 +875,33 @@ XII.- En las calles de un solo sentido, salvo cuando el Ayuntamiento, conforme a
 
 XIII.- En lugares reservados para personas con discapacidad.
 
-XIV.- En el carril especial para bicicletas (ciclo vías) u obstruir el mismo.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XIV.- En el carril especial para bicicletas (ciclo carril o ciclo vías) u obstruirlo; y
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XV.- En las áreas de vía pública delimitadas por el Ayuntamiento como de estacionamiento restringido y medido mediante la instalación de parquímetros u otros sistemas de control de tiempo y espacio, sin haber cubierto la cuota correspondiente establecida en la Ley de Ingresos vigente.
 
 ### CAPÍTULO OCTAVO. DE LOS ACCIDENTES
 
-(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO PRIMER PÁRRAFO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 43.
 
-La atención e investigación de accidentes se hará en primer lugar por el personal de la Dirección General de Seguridad Pública antes de cualquier otra autoridad. El policía de tránsito que atienda un accidente deberá cumplir con lo siguiente:
+La atención e investigación de accidentes se hará en primer lugar por el personal de la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, antes de cualquier otra autoridad. La o el policía de tránsito que atienda un accidente deberá cumplir con lo siguiente:
 
-(REFORMADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-I.- Valorar el nivel de riesgo y tomar las medidas necesarias y en caso necesario solicitar el apoyo requerido a fin de evitar un nuevo accidente y agilizar el tránsito.
+I.- Valorar el nivel de riesgo y tomar las medidas necesarias y, en caso necesario, solicitar el apoyo requerido a fin de evitar un nuevo accidente y agilizar el tránsito;
 
-(REFORMADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-II.- En caso de flagrante delito actuara bajo la conducción y mando del ministerio público en la investigación con estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la constitución, atendiendo al protocolo nacional de primer respondiente.
+II.- En caso de fallecimiento(s), dar aviso inmediato al Agente del Ministerio Público que corresponda y detener a los conductores.
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+En caso de flagrante delito, actuará bajo la conducción y mando de la o el Agente del Ministerio Público en la investigación con estricto apego a los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, atendiendo al protocolo nacional de primer respondiente;
 
 III.- En caso de lesionados, solicitará y prestará auxilio inmediato según las circunstancias y consignará el caso al Agente de Ministerio Público que corresponda presentando al o los detenidos en su caso.
 
@@ -633,9 +919,13 @@ V.- Realizará las intervenciones necesarias con celeridad.
 
 VI.- Solicitará a quién corresponda proceda a despejar el área de residuos.
 
-(REFORMADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-VII.- Cuando se causen daños materiales en bienes que no sean del dominio público, las partes pueden llegar a un acuerdo de reparación de daños que se hará constar mediante convenio suscrito por los propietarios o apoderado legal, mismo que deberá de realizarse en el Departamento de Tránsito ante la presencia del Jefe del Departamento de Tránsito o por el responsable de zona en funciones, el cual deberá anexarse al reporte del oficial de tránsito. Cuando resulten personas fallecidas o lesionadas, participen conductores menores de edad o en estado de ebriedad o bajo los efectos de alguna droga, no procederá dicho convenio.
+VII.- Cuando se causen daños materiales en bienes que no sean del dominio público, hará del conocimiento de las partes que, si así conviene a sus intereses, pueden llegar a un acuerdo de reparación de daños, siempre y cuando se haga constar mediante convenio de responsabilidades suscrito por los propietarios, por su propio derecho o por conducto de apoderado legal, mismo que deberá de celebrarse en el Departamento de Tránsito ante la presencia del Jefe del Departamento de Tránsito o, en su ausencia, ante el responsable de zona en funciones.
+
+En caso de celebrarse, dicho convenio deberá anexarse al reporte de la o el oficial de tránsito.
+
+Cuando resulten personas fallecidas o lesionadas, participen conductores menores de edad o en estado de ebriedad o bajo los efectos de alguna droga, no procederá dicho convenio.
 
 VIII.- Presentará a los conductores ante el Médico Legista para su certificación.
 
@@ -685,11 +975,15 @@ VI.- Esperar en el lugar del accidente la intervención del personal de Segurida
 
 VII.- Dar al personal de Seguridad Pública Municipal la información que le sea solicitada y someterse a examen médico cuando se les requiera.
 
-(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 46.
 
-Cuando las partes involucradas en un accidente sin lesionados o fallecidos no suscriban un convenio de responsabilidades, podrán denunciar los hechos o presentar querella ante el Agente del Ministerio Público que corresponda dentro del plazo establecido por la Ley vigente en la materia y la Dirección General de Seguridad Pública Municipal deberá otorgar la liberación de los vehículos a quien acredite la legal propiedad, con documentos oficiales, podrá solicitar por escrito la liberación de los vehículos detenidos a disposición del departamento de tránsito municipal, después de 24 horas de recibida dicha solicitud, se gestionara la entrega de los vehículos, previos requisitos exceptuando los casos que el agente del ministerio público correspondiente mediante oficio, solicite el turno del expediente y vehículos.
+Cuando las partes involucradas en un accidente en el que no haya lesionados o fallecidos, y que no suscriban un convenio de responsabilidades, cada una de ellas podrá denunciar los hechos o presentar querella ante la o el Agente del Ministerio Público que corresponda dentro del plazo establecido por la Ley vigente en la materia.
+
+En estos casos y salvo que la o el Agente del Ministerio Público disponga formalmente lo contrario, la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, podrá otorgar la liberación del o los vehículos detenidos a disposición del Departamento de Tránsito Municipal, a quien así lo solicite por escrito y acredite con documentos oficiales la legal propiedad de los mismos.
+
+La liberación del o los vehículos se efectuará hasta 24 horas después de recibida dicha solicitud, y cumplimentados los requisitos de demostración de la legal propiedad o posesión del vehículo y el pago, cuando menos y sin perjuicio de cualquier otro que conforme a derecho proceda, del servicio de grúas, la o las multas de tránsito, y de los derechos aplicables.
 
 ###### ARTÍCULO 47.
 
@@ -697,31 +991,37 @@ El arrastre de vehículos participantes en accidente se hará mediante servicio 
 
 ### CAPÍTULO NOVENO. DE LOS SEGUROS Y FIANZAS
 
-(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 48.
 
-Los propietarios de vehículos de motor que transiten por las vías públicas del municipio deberán tener póliza de seguro vigente, mínimo por daños a terceros en sus personas y/o bienes.
-
-De igual forma los propietarios de vehículos de transporte de carga en todas las modalidades y de trasporte de pasaje en todas sus modalidades que transiten por las vías públicas del municipio deberán tener póliza de seguro vigente, mínimo por daños a terceros en sus personas y/o bienes.
+Será requisito indispensable para la circulación de vehículos de motor, de transporte de carga y de transporte de pasaje, en todas sus modalidades, que transiten por las vías generales de comunicación de jurisdicción municipal, contar con póliza vigente de seguro con cobertura de responsabilidad civil, en el ramo de automóviles, cuando menos, por daños a terceros en sus personas y bienes.
 
 ### CAPÍTULO DÉCIMO. DEL SERVICIO PÚBLICO DE TRANSPORTE DE PASAJE Y CARGA
 
-(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 49.
 
-Para prestar el servicio público o privado de transporte se requieren los siguientes requisitos:
+Para prestar el servicio público de transporte se requieren los siguientes requisitos:
+
+(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
 a) Engomado u holograma vigente, adherido en un lugar visible, que demuestre que esté inscrito en el Registro Público de Transporte.
 
-b) Permiso eventual que demuestre que esté inscrito en el Registro Público de Transporte.
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-c) Permiso emergente que demuestre que esté inscrito en el Registro Público de Transporte.
+b) Permiso eventual o, en su caso, permiso emergente que demuestre que esté inscrito en el Registro Público de Transporte. En ambos casos se deberá de presentar el documento original, vigente y en el caso de presentar copia, para su validez deberá presentar, además, carta de revalidación original y con sello vigente;
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+c) El uso de sistemas de sujeción para sillas de ruedas; y
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 d) Cumplir con las disposiciones generales de este reglamento.
 
-e) En el caso de contar con permiso eventual o emergente deberán portar el documento original, vigente y en el caso de presentar copia para su validez deberá presentar carta de revalidación original y con sello vigente.
+e) (DEROGADO, B.O. 29 DE AGOSTO DE 2024)
 
 (REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO PRIMER PÁRRAFO, B.O. 23 DE ENERO DE 2023)
 
@@ -757,11 +1057,11 @@ III.- Guardar hacia los demás pasajeros y para el conductor una conducta de res
 
 IV.- Respetar los asientos señalados para las personas con discapacidad y de la tercera edad.
 
-(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO PRIMER PÁRRAFO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 54.
 
-Los conductores de vehículos del servicio público de transporte de pasajeros, tienen prohibido, lo siguiente:
+Las y los conductores de vehículos del servicio público de transporte de pasajeros, tienen prohibido, además de lo establecido en el artículo 21 de este reglamento, lo siguiente:
 
 I.- Hacer Servicio Público de Pasaje sin el permiso correspondiente.
 
@@ -771,15 +1071,27 @@ III.- Utilizar un carril diverso al de la extrema derecha de la vialidad, except
 
 IV.- Exceder la velocidad de 40 kilómetros por hora, aún cuando la vialidad tenga autorizada una velocidad mayor.
 
-V.- Permitir al pasajero subir o bajar de la unidad de transporte desde un carril de circulación.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-VI.- Transportar pasajeros en estado de ebriedad.
+V. Permitir al pasaje subir o bajar de la unidad de transporte desde un carril de circulación;
+
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+VI. Transportar pasaje en estado de ebriedad, para el caso de medios de transporte público colectivo;
 
 VII.- Utilizar alto volumen en equipo de sonido.
 
 VIII.- Transportar animales domésticos dentro del compartimiento para pasajeros.
 
 IX.- Utilizar equipo de claxon diverso al original de la unidad.
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+X. En el caso de que sea necesaria la utilización de dispositivos electrónicos o de comunicación para la prestación del servicio de transporte, el teléfono celular o cualquier otro tipo de dispositivo electrónico deberá estar debidamente colocado en un sujetador que facilite su manipulación y que no obstaculice la visibilidad al conducir; y
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+XI. Conducir con cualquier concentración de alcohol por espiración o litro de sangre.
 
 ###### ARTÍCULO 55.
 
@@ -789,11 +1101,11 @@ Los conductores de unidades de transporte escolar están obligados a encender su
 
 Todo conductor al alcanzar o encontrar un vehículo de transporte escolar detenido para bajar o subir escolares deberá reducir la velocidad del vehículo al nivel de zona escolar.
 
-(REFORMADO PRIMER PÁRRAFO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO PRIMER PÁRRAFO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 57.
 
-Los conductores de vehículos del servicio público o privado de transporte de carga, tienen prohibido, lo siguiente:
+Las y los conductores de vehículos del servicio público de transporte de carga, tienen prohibido, además de lo establecido en el artículo 21 de este reglamento, lo siguiente:
 
 I.- Hacer Servicio Público de carga sin el permiso correspondiente.
 
@@ -806,6 +1118,14 @@ IV.- Exceder la velocidad de 40 kilómetros por hora, aún cuando la vialidad te
 V.- Realizar maniobras en la vía pública fuera del horario autorizado por el Municipio.
 
 VI.- Utilizar equipo de claxon diverso al original de la unidad.
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+VII.- En el caso de que sea necesaria la utilización de dispositivos electrónicos o de comunicación para la prestación del servicio de transporte, el teléfono celular o cualquier otro tipo de dispositivo electrónico deberá estar debidamente colocado en un sujetador que facilite su manipulación y que no obstaculice la visibilidad al conducir; y
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+VIII.- Conducir con cualquier concentración de alcohol por espiración o litro de sangre.
 
 ###### ARTÍCULO 58.
 
@@ -823,41 +1143,59 @@ d) En caso de que el operador de un vehículo de transporte de carga lo haga tra
 
 ### CAPÍTULO DÉCIMO PRIMERO. DE LAS ATRIBUCIONES DE SEGURIDAD PÚBLICA MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+
 ###### ARTÍCULO 59.
 
-La vigilancia del tránsito y la aplicación del presente Reglamento queda a cargo de la Dirección General de Seguridad Pública Municipal. Al detectar un infractor, los elementos de Seguridad Pública Municipal, procederán como sigue:
+La vigilancia del tránsito y la aplicación del presente Reglamento queda a cargo de la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública. Al detectar a una o un infractor, las y los policías de tránsito, procederán como sigue:
 
 I.- Notificarán, por radio, a la central la detención del vehículo, proporcionando placas y características del vehículo, con el objeto de verificar su situación.
 
-II.- Utilizando el Silbato, altoparlante, manual y/o verbalmente indicarán al conductor que se detenga.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+II.- Utilizando el silbato, altoparlante, manual y/o verbalmente indicarán a la o al conductor que se detenga;
 
 III.- Indicarán que el vehículo sea estacionado en lugar seguro.
 
-IV.- Abordarán al infractor de una manera cortés, dando su nombre y número de elemento de tránsito.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-V.- Comunicarán al infractor la falta cometida y le solicitarán su licencia de manejo, además tarjeta de circulación y póliza de seguro del vehículo en su caso.
+IV.- Abordarán a la o al infractor de una manera cortés, dando su nombre y número de identificación como elemento de tránsito;
 
-VI.- Comunicarán al infractor la acción a tomar, que podrá consistir en:
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-A).- NOTIFICACIÓN.- Se hará cuando la infracción cometida sea derivada de nuevas disposiciones o cambios de circulación que pudiera ignorar el conductor.
+V.- Comunicarán a la o al infractor la falta cometida y le solicitarán su licencia de manejo, además de la tarjeta de circulación y póliza de seguro del vehículo en su caso;
 
-B).- AMONESTACIÓN.- Se realizará cuando la infracción se haya cometido de tal forma que el conductor no pudiera evitar o solucionar el hecho inmediatamente; en estos casos, será de forma verbal y el elemento de transito llevara un control de las amonestaciones impuestas a través de la bitácora, el oficial llena una boleta, anotando en ella la palabra amonestación, sobre todo el espacio de la boleta, entregando copia al infractor.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE AGOSTO DE 2024)</small>
 
-(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+VI.- Comunicarán a la o al infractor la acción a tomar, que podrá consistir en:
 
-C).- MULTA.- En su caso, se llenará la boleta de infracción manual o electrónica y se entregará la original al infractor.
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+A).- NOTIFICACIÓN.- Se hará cuando la infracción cometida sea derivada de nuevas disposiciones o cambios de circulación que pudiera ignorar la o el conductor;
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+B).-AMONESTACIÓN.- Se realizará cuando la infracción se haya cometido de tal forma que la o el conductor no pudiera evitar o solucionar el hecho inmediatamente; en estos casos, será de forma verbal y la o el policía de tránsito llevará un control de las amonestaciones impuestas a través de la bitácora; la o el oficial llena una boleta anotando en ella la palabra amonestación, sobre todo el espacio de la boleta, entregando copia a la o al infractor;
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+C). - MULTA. - En su caso, se llenará la boleta de infracción, manual o electrónica, y se entregará la original a la o al infractor.
 
 VII.- Entregar infracciones y amonestaciones levantadas al terminar el turno o antes si las circunstancias lo ameritan.
 
 VIII.- Levantarán la infracción correspondiente cuando el infractor no se detenga o se dé a la fuga, la boleta original destinada al infractor será entregada al Departamento de Medios de Apremio, o al juzgado calificador, para que proceda a citar al propietario, quien deberá presentar al conductor o pagar la multa cuando se le requiera.
 
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+IX.- Levantarán la infracción correspondiente cuando la o el infractor no se detenga o se dé a la fuga; la boleta original destinada a la o al infractor será entregada al Departamento de Medios de Apremio o al juzgado cívico, para que proceda a citar a la o al propietario, quien deberá presentar a la o al conductor o pagar la multa cuando se le requiera.
+
 (ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
 ARTÍCULO 59 BIS.- Las autoridades podrán hacer uso por sí o a través de terceros de dispositivos tecnológicos que coadyuven con la detección de la comisión de infracciones y la identificación de las personas que las cometan.
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-ARTÍCULO 59 BIS 1.- Las autoridades podrán celebrar convenios con diversas instancias, tanto públicas como privadas, a fin de que los infractores tengan mayor facilidad para realizar los pagos de aquellas multas que le sean impuestas.
+ARTÍCULO 59 BIS 1.- El Ayuntamiento de Hermosillo podrá celebrar convenios con diversas instancias, tanto públicas como privadas, a fin de que las y los infractores tengan mayor facilidad para realizar los pagos de aquellas multas que le sean impuestas.
 
 (ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
@@ -867,57 +1205,127 @@ I. La velocidad superior a la máxima permitida para un vehículo;
 
 II. Falta de observancia a la señalización vial; y
 
-III. Cualquier otra contravención a lo dispuesto en la Ley de Tránsito del Estado de Sonora y su Reglamento.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+III. Cualquier otra contravención a la Ley General de Movilidad y Seguridad Vial, Ley de Movilidad y Seguridad Vial para el Estado de Sonora, Ley de Tránsito del Estado de Sonora, a este reglamento, de las Normas Oficiales Mexicanas, expedidas por la federación en materia de movilidad y seguridad vial, así como de las normas generales que facultan u obligan al municipio a dar cumplimiento en materias de tránsito, movilidad y seguridad vial.
 
-ARTÍCULO 59 BIS 3.- Las boletas de infracción cuyo origen sea a través de dispositivos tecnológicos deberán contener para su validez:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 59 BIS 3.- Sin perjuicio de lo dispuesto en el artículo 2 Bis, de este reglamento, las boletas de infracción captadas a través de dispositivos tecnológicos deberán contener, para su validez, cuando menos, lo siguiente:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Número de Placa o matrícula del vehículo;
 
-II. Nombre y Domicilio del propietario del vehículo con el que se cometió la infracción, que aparezca en el registro vehicular correspondiente; quien en todo caso será responsable solidario de la infracción;
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+II. Nombre y domicilio de la o el propietario del vehículo con el que se cometió la infracción, que aparezca en el registro vehicular correspondiente; quien, en todo caso, será responsable solidario de la infracción;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Hechos constitutivos de la infracción, así como lugar y fecha en que se haya cometido;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Folio de la boleta de infracción;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 V. Fundamentación y motivación de la infracción;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VI. Nombre y Clave del dispositivo tecnológico que captó la infracción;
 
-VII. Fotografía, grabación o registro con el que se demuestre la conducta infractora; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE AGOSTO DE 2024)</small>
 
-VIII. Nombre y firma autógrafa o electrónica avanzada del agente de tránsito.
+VII. Datos de identificación del dispositivo electrónico que detectó la infracción y el lugar de ubicación del mismo;
 
-Para los efectos de imposición de sanciones a que se refiere la Ley de Tránsito del Estado de Sonora y este Reglamento, la Autoridad competente podrá hacer uso de cualquier fotografía, grabación, material audiovisual o medio electrónico generado por los dispositivos tecnológicos, el cual será prueba de las infracciones que se cometan
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+VIII. Fotografía, grabación, registro o aquella constancia que demuestre la comisión de la infracción; y
 
-ARTICULO 59 BIS 4.- Los vehículos deberán encontrarse libres de sistemas anti-radares o detector de radares de velocidad.
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], B.O. 29 DE AGOSTO DE 2024)</small>
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+IX. Nombre y firma autógrafa o electrónica avanzada de la o el agente de tránsito.
 
-ARTÍCULO 59 BIS 5.- Queda prohibido llevar sobre las placas de los vehículos o anexas a las mismas, distintivos, objetos u otras placas con rótulos e inscripciones de cualquier índole, que oculten, velen o impidan ver con claridad, parcial o totalmente, sus letras, números e identificaciones, asimismo, se prohíbe remachar, soldar, modificar la forma de las placas o colocar en el lugar de éstas, objetos o dispositivos decorativos que se asemejen a placas de circulación extranjera o nacional.
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+Para efectos de la imposición de las sanciones a que se refiere este reglamento, de las Normas Oficiales Mexicanas, expedidas por la federación en materia de movilidad y seguridad vial, así como de las normas generales que facultan u obligan al municipio a dar cumplimiento en materias de tránsito, movilidad y seguridad vial, las personas que aparezcan en las bases de datos del Padrón Vehicular del Estado o Registro Público Vehicular, como titulares de las placas de circulación del vehículo con el cual se cometa una infracción, serán solidariamente responsables.
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+La Autoridad competente podrá hacer uso de cualquier fotografía, grabación, material audiovisual o medio electrónico generado por los dispositivos tecnológicos, el cual será prueba de las infracciones que se cometan.
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 59 BIS 4.- El Ayuntamiento de Hermosillo, por conducto de la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, podrá implementar acciones para la identificación, a través de los dispositivos tecnológicos, de vehículos con que se hayan cometido infracciones a este Reglamento, de las Normas Oficiales Mexicanas, expedidas por la federación en materia de movilidad y seguridad vial, así como de las normas generales que facultan u obligan al municipio a dar cumplimiento en materias de tránsito, movilidad y seguridad vial y proceder a su detención para la notificación de la boleta de infracción respectiva.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE AGOSTO DE 2024)</small>
+
+ARTÍCULO 59 BIS 5.- Las y los conductores de un vehículo registrado en esta u otra Entidad Federativa, país o sin registro, que cometan o hayan cometido una infracción a este Reglamento, de las Normas Oficiales Mexicanas, expedidas por la federación en materia de movilidad y seguridad vial, así como de las normas generales que facultan u obligan al municipio a dar cumplimiento en materias de tránsito, movilidad y seguridad vial, captada por cualquier dispositivo tecnológico, cuando por estos mismos medios sea identificado el vehículo circulando en vías de jurisdicción municipal, las y los agentes de tránsito actuarán de la siguiente manera:
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+I. Indicarán a la o al conductor detener la marcha de su vehículo;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+II. Se identificarán mediante credencial oficial con su nombre, que lo acredite como agente de tránsito;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+III. Señalarán a la o al conductor, que el vehículo que conduce presenta uno o más registros de infracción cometida y captada por un dispositivo tecnológico.
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+IV. Solicitarán a la o al conductor mostrar la licencia de conducir y la tarjeta de circulación;
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+V. Emitirán la boleta de infracción de conformidad con el artículo 63 del presente Reglamento, procediendo a su notificación, entregando la misma a la o al interesado; y
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+VI. La o el agente de tránsito al momento de notificar y entregar a la o al conductor la boleta de infracción, le informará sobre la posibilidad de recibir el pago de la misma a través de medios electrónicos de pago.
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+Al momento de entregar a la o al conductor la boleta de infracción, le informará el monto de la sanción impuesta y el descuento al que tiene derecho. Acto continuo, le solicitará que firme de recibido la misma, en caso de negativa de la o el conductor, se asentará en la boleta que se negó a firmarla y le entregará el original de la boleta de la infracción a la o al conductor; así mismo, procederá a retener la licencia del conductor, la tarjeta de circulación, o la placa delantera del vehículo, como medida para garantizar el pago de las multas, informándole en el mismo acto a la o al infractor, el domicilio donde previo pago, podrá solicitar la devolución de sus documentos.
 
 (ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
 ARTÍCULO 59 BIS 6.- La autoridad podrá implementar acciones para la identificación del vehículo con el que se cometió la conducta infractora a través de los dispositivos tecnológicos, y proceder a su detención para la notificación de la boleta de infracción respectiva.
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-ARTÍCULO 59 BIS 7.- Los conductores de un vehículo registrado en esta u otra Entidad Federativa, que cometan o hayan cometido una infracción a la Ley o al presente Reglamento, captada por cualquier dispositivo tecnológico, cuando por estos mismos medios sea identificado el vehículo circulando en vías de jurisdicción municipal, los agentes de tránsito actuarán de la siguiente manera:
+ARTÍCULO 59 BIS 7.- Las y los conductores de un vehículo registrado en esta u otra Entidad Federativa, que cometan o hayan cometido una infracción a la Ley o al presente Reglamento, captada por cualquier dispositivo tecnológico, cuando por estos mismos medios sea identificado el vehículo circulando en vías de jurisdicción municipal, las y los policías de tránsito actuarán de la siguiente manera:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Indicarán al conductor detener la marcha de su vehículo;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Se identificarán mediante credencial oficial con su nombre, que lo acredite agente de tránsito;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Señalarán al conductor, que el vehículo que conduce presenta uno o más registros de infracción cometida y captada por un dispositivo tecnológico.
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Solicitarán al conductor mostrar la licencia de conducir y la tarjeta de circulación;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 V. Emitirán la boleta de infracción, procediendo a su notificación, entregando la misma al interesado;
 
-VI. El agente de tránsito al momento de notificar y entregar al conductor la boleta de infracción le informará sobre la posibilidad de recibir el pago de la misma a través de terminal electrónica con cargo a tarjeta de crédito o débito.
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+VI.- La o el policía de tránsito al momento de notificar y entregar al conductor la boleta de infracción le informará sobre la posibilidad de recibir el pago de la misma a través de terminal electrónica con cargo a tarjeta de crédito o débito.
+
+(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
 Al momento de entregar al conductor la boleta de infracción, le informará el monto de la sanción impuesta y el descuento al que tiene derecho. Acto continuo, le solicitará que firme de recibido la misma, en caso de negativa del conductor, se asentará en la boleta que se negó a firmarla y le entregará el original de la boleta de infracción al conductor; así mismo, procederá a retener la licencia del conductor, la tarjeta de circulación, o la placa delantera del vehículo, como medida para garantizar el pago de las multas, informándole en el mismo acto al infractor el domicilio donde, previo pago, podrá solicitar la devolución de sus documentos.
 
@@ -933,41 +1341,49 @@ La altura máxima autorizada para todos los vehículos que transitan en el munic
 
 Para lo no previsto en el presente artículo se deberá cumplir con lo establecido en la Norma Oficial Mexicana NOM-012-SCT-2-2017, o a aquella que en su momento se encuentre vigente, así como con las demás disposiciones jurídicas en la materia.
 
-> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 60.
 
-En todos los casos que se detecte que el conductor tiene aliento alcohólico, estado de ebriedad o esté bajo el influjo de drogas o enervantes, se le deberá trasladar a la comandancia correspondiente, poniéndolo a disposición inmediata del Juez Calificador, a fin de que el Médico Legista practique las pruebas para la detección del grado de intoxicación, mediante la utilización del alcoholímetro, así como los exámenes de las capacidades psicomotrices y de alteración de la conducta, entre otras, excepto en los casos que resulte materialmente imposible, lo cual deberá asentarse en dicho dictamen.
+En todos los casos que se detecte que la o el conductor tiene aliento alcohólico, estado de ebriedad o esté bajo el influjo de drogas o enervantes, se le deberá trasladar a la comandancia correspondiente, poniéndolo a disposición inmediata de la o el Juez Calificador, a fin de que la o el Médico Legista practique las pruebas para la detección del grado de alcoholemia o intoxicación, así como los exámenes de las capacidades psicomotrices y de alteración de la conducta, entre otras, excepto en los casos que resulte materialmente imposible, lo cual deberá asentarse en dicho dictamen.
 
-(REFORMADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+La o el policía de Tránsito responsable de la detención de la o el conductor deberá poner de igual manera a disposición de la o el Juez Calificador, el vehículo, pudiendo hacer uso para su traslado el servicio de grúa oficial y, sólo en caso necesario, se hará uso de grúas particulares autorizadas.
 
-El policía de Tránsito responsable de la detención del conductor deberá poner de igual manera a disposición del Juez Calificador, el vehículo, pudiendo hacer uso para su traslado el servicio de grúa oficial, y sólo en caso necesario, se hará uso de grúas particulares autorizadas.
-
-En los casos en que el dictamen médico establezca que no existe embriaguez, al ciudadano no se le cobrará el uso de grúa, ni el certificado médico.
+En los casos en que el dictamen oficial establezca que no se exceden los límites de alcoholemia a que se hacen referencia en este Reglamento, a la o al ciudadano no se le cobrará el uso de grúa, ni el certificado médico oficial.
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LAS SANCIONES
 
-> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 61.
 
-Los propietarios de vehículos son responsables solidarios del pago de multas por las infracciones que se cometan con los mismos, así como del pago por los daños que se ocasionen tanto a terceros como a bienes del dominio público municipal; excepto en caso de robo reportado previamente y por escrito ante las Autoridades Competentes.
+Las y los propietarios de vehículos son responsables solidarios del pago de multas por las infracciones que se cometan con los mismos, así como del pago por los daños que se ocasionen tanto a terceros como a bienes del dominio público municipal; lo anterior, excepto en caso de robo reportado previamente y por escrito ante las autoridades competentes.
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 62.
 
-Cuando el infractor viole varias disposiciones de este reglamento, con actos y tiempos diversos o con acciones continuas, se le aplicarán las sanciones correspondientes a dichas violaciones.
+Cuando la o el infractor viole varias disposiciones de la Ley General de Movilidad y Seguridad Vial, de la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, y de este reglamento, con actos y tiempos diversos o con acciones continuas, se les aplicarán las sanciones correspondientes a dichas violaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 63.
 
-Las sanciones por faltas o violaciones al presente Reglamento, consistirán en:
+Las sanciones por faltas o violaciones a la Ley General de Movilidad y Seguridad Vial, a la Ley de Movilidad y Seguridad Vial para el Estado de Sonora, y al presente reglamento, consistirán en:
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-I. ARRESTO.- La privación de libertad por un período de hasta treinta y seis horas, que se cumplirá en lugares distintos de los destinados a la detención de indiciados, procesados o reos. En todo caso, los lugares de arresto para varones y mujeres, estarán separados.
+I.- ARRESTO.- La privación de libertad por un período de hasta treinta y seis horas, que se cumplirán en lugares distintos de los destinados a la detención de indiciados, indiciadas, procesadas o procesados o reos. En todo caso, los lugares de arresto para varones y mujeres estarán separados.
 
-Se impondrá arresto a los infractores, que:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 29 DE AGOSTO DE 2024)</small>
+
+Se impondrá arresto a las y los infractores, que:
+
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
 
 A).- Conduzcan en estado de ebriedad.
+
+> <small>(REFORMADO, B.O. 28 DE MAYO DE 2009)</small>
 
 B).- Conduzcan bajo el influjo de drogas, estupefacientes o cualquier otra sustancia.
 
@@ -987,17 +1403,27 @@ C).- Por conducir vehículos en estado de ebriedad o bajo la influencia de estup
 
 D).- Por resolución judicial que cause ejecutoria y así lo ordene.
 
-E).- Por insultar o agredir a los pasajeros en el caso de conductores de vehículos de servicio público de pasajeros.
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-F).- Cuando se compruebe que la licencia fue obtenida dando información falsa.
+E).- Por insultar o agredir a las y/o a las o los pasajeros en el caso de conductoras y/o conductores de vehículos de servicio público de pasajeros;
 
-G).- Por haber sido infraccionado el titular de la licencia, en más de tres ocasiones en el período de un año, por conducir vehículos con exceso de velocidad.
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+F).- Cuando se compruebe que la licencia fue obtenida dando información falsa; y
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+G).- Por haber sido infraccionada la o el titular de la licencia, en más de tres ocasiones en el período de un año, por conducir vehículos con exceso de velocidad.
 
 En caso de suspensión o cancelación de la licencia de conducir se dará aviso a la Agencia Fiscal del Estado.
 
-IV.- DETENCION DE VEHICULOS.- Los agentes de tránsito y policía municipal deberán impedir que el vehículo continúe transitando y remitirlo al depósito de vehículos, utilizando equipo de grúas en los siguientes casos:
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-A).- Cuando el conductor no presente licencia de conducir o permiso tratándose de un menor de edad.
+IV.- DETENCIÓN DE VEHÍCULOS.- Las y los policías de la Jefatura de Policía Preventiva y Tránsito Municipal, a través de la Dirección General de Seguridad Pública, deberán impedir que el vehículo continúe transitando y remitirlo al depósito de vehículos, utilizando equipo de grúas en los siguientes casos:
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+A).- Cuando la o el conductor no presente licencia de conducir, o permiso tratándose de una o un menor de edad o se encuentren vencidas. En caso de licencias vencidas se dará un periodo de 15 días hábiles para su renovación;
 
 B).- Cuando el vehículo no porte placas de circulación, no correspondan al vehículo o estén alteradas o vencidas.
 
@@ -1005,7 +1431,9 @@ C).- Por conducir en estado de ebriedad o bajo el efecto de drogas u otras subst
 
 D).- Por conducir a mayor velocidad de la autorizada, haciéndolo negligente o temerariamente, poniendo en peligro la vida, la seguridad de las personas o de los bienes.
 
-E).- Por abandonar vehículos en la vía pública, por un período mayor de 5 días naturales. Se entenderá por vehículo abandonado aquel que los vecinos inmediatos desconozcan su procedencia o propietarios, lo cual deberán denunciarlo por escrito.
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+E).- Por abandonar vehículos en la vía pública, por un período mayor de 5 días naturales. Se entenderá por vehículo abandonado aquel que las o los vecinos inmediatos desconozcan su procedencia o propietarios, lo cual deberán denunciarlo por escrito;
 
 F).- Por realizar maniobras de carga y descarga, no tomando las medidas de seguridad pertinentes, fuera del horario autorizado o no contar con el permiso respectivo del Municipio para realizar este tipo de maniobras.
 
@@ -1019,23 +1447,27 @@ I).- Por conducir un vehículo que arroje humo ostensiblemente contaminante, o e
 
 J).- En caso de accidente o delito.
 
-K).- Por orden de autoridad judicial.
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+K).- Por orden de autoridad judicial; y
 
 (ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
 L).- Por prestar servicio público o privado de transporte de carga o pasaje sin concesión o permiso.
 
-> <small>(REFORMADA, B.O. 20 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-V.- Multa.- Se impondrá multa de cero punto cuatro a doscientas Unidades de Medida y Actualización, en los términos de la Ley de Tránsito del Estado de Sonora.
+V.- MULTA.- Se impondrán las multas en los términos de la Ley de Tránsito del Estado de Sonora y de Ingresos y Presupuesto de Ingresos del Municipio del Hermosillo para el ejercicio fiscal correspondiente.
 
-La multa por conducción de vehículos en estado de ebriedad o bajo los influjos de las drogas o sustancias tóxicas, se impondrá multa de cincuenta a cien Unidades de Medida y Actualización; y en el caso de conducta reiterada, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
+En el caso de conducta reiterada por multa por conducción de vehículos en estado de ebriedad o bajo los influjos de las drogas o sustancias tóxicas, el monto de la multa podrá ser hasta por dos veces del monto originalmente impuesto.
 
-> <small>(ADICIONADA, B.O. 28 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
-VI.- TRABAJOS A FAVOR DE LA COMUNIDAD.- El trabajo a favor de la comunidad, consiste en la prestación de servicios no remunerados, en instituciones públicas, educativas o de asistencia social en instituciones privadas asistenciales. Este trabajo se llevará a cabo en jornadas dentro de períodos distinto (sic) al horario de labores que representen la fuente de ingreso para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
+VI.-TRABAJOS A FAVOR DE LA COMUNIDAD. - El trabajo a favor de la comunidad, consiste en la prestación de servicios no remunerados, en instituciones públicas, educativas o de asistencia social o en instituciones privadas asistenciales. Este trabajo por ningún concepto se desarrollará en forma que resulte degradante o humillante para la o el infractor y se llevará a cabo en jornadas dentro de períodos distinto (sic) al horario de labores que representen la fuente de ingreso para la subsistencia del sujeto y de su familia, sin que pueda exceder de la jornada extraordinaria que determine la ley laboral y bajo la orientación y vigilancia de la autoridad ejecutora.
 
-Para efecto del cómputo de las horas de trabajo a favor de la comunidad, el Juez Calificador ordenara al infractor, la asistencia obligatoria de cuando menos quince horas efectivas, a programas para la prevención y rehabilitación de personas con enfermedades relacionadas con el consumo de alcohol, drogas estupefacientes o cualquier otra sustancia.
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+Corresponderá al Juzgado Cívico el conocimiento, pronunciamiento y seguimiento de las solicitudes de conmutación de sanciones por trabajo a favor de la comunidad en los términos del Bando de Policía y Gobierno.
 
 Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante para el infractor.
 
@@ -1141,11 +1573,15 @@ III. Las dimensiones de la calle no lo permitan; y
 
 IV. De otorgarse se afecte a la vialidad.
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+Los supuestos a que refieren las fracciones III y IV, se deberán acreditar mediante dictamen expedido por el Instituto de Planeación Urbana, Movilidad y del Espacio Público.
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 72.
 
-Los cajones de estacionamiento exclusivos residenciales o comerciales podrán tener el carácter de exclusivo para personas con discapacidad, siempre y cuando atiendan los requisitos del artículo 70 del presente Reglamento con excepción de la fracción VI, además de comprobante expedido por el Sistema de Desarrollo Integral de la Familia Municipal; en cada caso se colocará el señalamiento adecuado siempre a costa del solicitante.
+Los cajones de estacionamiento exclusivos residenciales o comerciales podrán tener el carácter de exclusivo para personas con discapacidad, siempre y cuando atiendan los requisitos del artículo 70 del presente Reglamento, además de comprobante expedido por el Sistema de Desarrollo Integral de la Familia Municipal; en cada caso se colocará el señalamiento adecuado siempre a costa de la o el solicitante.
 
 (ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
 
@@ -1155,21 +1591,29 @@ Son causas de revocación de la autorización para cajones de estacionamiento ex
 
 I. La falta de pago de los derechos correspondientes, con excepción de los cajones de estacionamiento exclusivos residenciales o comerciales que tengan el carácter de exclusivo para personas con discapacidad;
 
-II. La utilización de un número mayor de cajones de los autorizados o de medidas diferentes a las autorizadas; y
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-III. La explotación del exclusivo por personas distintas al titular de la autorización, en el caso de estacionamiento exclusivo residencial.
+II. La utilización de un número mayor de cajones de los autorizados o de medidas diferentes a las autorizadas;
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+III. La explotación del exclusivo por personas distintas al titular de la autorización, en el caso de estacionamiento exclusivo residencial; y
+
+> <small>(ADICIONADA, B.O. 29 DE AGOSTO DE 2024)</small>
+
+IV. Por determinación, fundada y motivada, que dicte el Instituto de Planeación Urbana, Movilidad y del Espacio Público.
+
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 74.
 
-Las autorizaciones para cajones de estacionamiento exclusivo tendrán una vigencia mensual y el pago de los derechos correspondientes se hará por adelantado en una sola exhibición.
+Las autorizaciones para cajones de estacionamiento exclusivo estarán sujetas en todo momento a las determinaciones que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, tendrán una vigencia mensual y el pago de los derechos correspondientes se hará por adelantado en una sola exhibición.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2023)</small>
 
 ###### ARTÍCULO 75.
 
-la Tesorería Municipal, a través de la Dirección de Inspección y Vigilancia, podrá autorizar cajones de estacionamiento exclusivos para la instalación de bases de taxis previa presentación de los siguientes requisitos:
+La Tesorería Municipal, a través de la Dirección de Inspección y Vigilancia, podrá autorizar cajones de estacionamiento exclusivos para la instalación de bases de taxis previa presentación de los siguientes requisitos:
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1211,51 +1655,79 @@ IX. Carta de autorización de propietarios del lugar donde se pretende ubicar el
 
 X. Aprobar la verificación de factibilidad;
 
-(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADA, B.O. 29 DE AGOSTO DE 2024)</small>
 
-XI. Presentar opinión positiva del Instituto Municipal de Planeación Urbana y del Espacio Público; y
+XI Presentar opinión positiva del Instituto Municipal de Planeación Urbana, Movilidad y del Espacio Público; y
 
 (ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 XII. Realizar el pago de los derechos correspondientes.
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 76.
 
-Una vez reunidos los requisitos señalados en el artículo anterior, se procederá a realizar la verificación de factibilidad, la cual consistirá en la revisión de los siguientes aspectos:
+Para obtener el requisito a que hace referencia la fracción XI, del artículo anterior, la Tesorería Municipal, a través de la Dirección de Inspección y Vigilancia, procederá a realizar la verificación de factibilidad, la cual consistirá en la revisión de los siguientes aspectos:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Que el ancho de la calle sea el suficiente y adecuado y que la ubicación delexclusivo (sic) no se pretenda en lugar o forma prohibida;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Que la ubicación del exclusivo no bloquee, obstruya o estrangule la circulación;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Que la ubicación del exclusivo no signifique dificultad para dar vuelta en esquina;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Que en el espacio solicitado puedan ubicarse los cajones requeridos con las medidas oficiales de dos metros con cincuenta centímetros de ancho por seis metros de largo;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 V. Deberán descartarse posibles efectos negativos con la instalación del exclusivo en virtud de diferentes eventos como la instalación de mercados, peregrinaciones, iglesias, así como proyectos públicos o adecuaciones viales que se tengan contemplados en la vialidad donde se pretende el exclusivo;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VI. Que el nombre, firma y teléfono de los vecinos colindantes que hubieren dado su autorización efectivamente correspondan a los vecinos del lugar donde se pretende el exclusivo; y
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VII. La revisión física del lugar donde se pretenda ubicar el exclusivo y la verificación de los nombres, firmas y teléfonos de los vecinos colindantes.
+
+> <small>(ADICIONADO, B.O. 29 DE AGOSTO DE 2024)</small>
+
+Una vez efectuada la verificación de factibilidad y sin perjuicio del pago de los derechos a que hubiere lugar, se remitirá su resultado al Instituto Municipal de Planeación Urbana, Movilidad y Espacio Público, para efecto de que éste pueda emitir, en caso de así considerarlo, el requisito a que refiere el artículo inmediato anterior en su fracción XI, para su aprobación.
 
 (ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 #### SECCIÓN II. AUTORIZACIÓN DE ALTOS DE CORTESÍA
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 77.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo estudio correspondiente, podrá autorizar Altos de Cortesía, tomando en cuenta la factibilidad técnica y vial, satisfaciendo lo (sic) siguientes requisitos:
+La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen del Instituto Municipal de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar Altos de Cortesía, tomando en cuenta la factibilidad técnica y vial, satisfaciendo lo (sic) siguientes requisitos:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Pago por los derechos correspondientes al trámite, de conformidad con la Ley de Ingresos;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Presentar identificación oficial con fotografía emitida por el Instituto Nacional Electoral o Pasaporte Mexicano emitido por la Secretaría de Relaciones Exteriores, en ambos casos, deberán estar vigentes y, en caso de persona moral, además se deberá presentar instrumento jurídico que acredite su constitución, debidamente inscrito y el instrumento notarial mediante el cual se le otorgue poder para realizar el trámite;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Presentar opinión positiva del Instituto Municipal de Planeación Urbana y del Espacio Público; y
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 V. Presentar plano o croquis de ubicación.
 
@@ -1263,31 +1735,45 @@ V. Presentar plano o croquis de ubicación.
 
 #### SECCIÓN III. AUTORIZACIÓN DE SEÑALAMIENTOS PARA ZONAS ESCOLARES
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 78.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, podrá autorizar señalamientos para zonas escolares, conforme a los siguientes requisitos:
+La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen del Instituto Municipal de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar señalamientos para zonas escolares, conforme a los siguientes requisitos:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Pago por los derechos correspondientes al trámite, de conformidad con la Ley de Ingresos, para el caso de escuelas particulares;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Acreditación de la propiedad o, en su caso, posesión legítima incontrovertida. Este requisito se satisfacerá por medio de documento público, copia certificada o documentos originales, para el caso de escuelas particulares;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Presentar identificación oficial con fotografía emitida por el Instituto Nacional Electoral o Pasaporte Mexicano emitido por la Secretaría de Relaciones Exteriores, en ambos casos, deberán estar vigentes y, en caso de persona moral, además se deberá presentar instrumento jurídico que acredite su constitución, debidamente inscrito y el instrumento notarial mediante el cual se le otorgue poder para realizar el trámite;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 V. Presentar plano o croquis de ubicación;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VI. Presentar Cédula de Identificación Fiscal, para acreditar el Registro Federal de Contribuyente, para el caso de escuelas particulares; y
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 VII. Presentar la licencia de funcionamiento para el caso de escuelas particulares.
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 79.
 
-Los señalamientos a que se refiere la presente sección serán para ubicar una zona escolar o para establecer que la velocidad máxima para que un vehículo transite por dicha zona es de 20 kilómetros por hora.
+Los señalamientos a que se refiere la presente sección serán para ubicar una zona escolar o para establecer que la velocidad máxima para que un vehículo transite por dicha zona es de 20 km/h en zonas y entornos escolares en vías secundarias y calles terciarias; y hasta 30 km/h en zonas y entornos escolares en vías primarias y carreteras.
 
 (ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
@@ -1313,7 +1799,9 @@ VI. Presentar carta de no adeudo al Municipio;
 
 VII. Presentar comprobante de domicilio;
 
-VIll. Presentar opinión positiva del Instituto Municipal de Planeación Urbana y del Espacio Público; y
+> <small>(REFORMADA [N. DE E. REPUBLICADA], B.O. 29 DE AGOSTO DE 2024)</small>
+
+VIII. Presentar opinión positiva del Instituto Municipal de Planeación Urbana y del Espacio Público; y
 
 IX. Documento que contenga las firmas de conformidad de la mayoría de los vecinos habitacionales o comerciales dentro de una franja perimetral de cien metros circundantes, contados a partir del eje del reductor de velocidad y la copia de la identificación oficial con fotografía, ya sea emitida por el Instituto Nacional Electoral o la Secretaría de Relaciones Exteriores, de cada uno de los firmantes.
 
@@ -1321,21 +1809,33 @@ IX. Documento que contenga las firmas de conformidad de la mayoría de los vecin
 
 #### SECCIÓN V. AUTORIZACIÓN DE SEÑALAMIENTOS PARA NUEVOS DESARROLLOS INMOBILIARIOS
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 81.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, podrá autorizar señalamientos para nuevos desarrollos inmobiliarios, conforme a los siguientes requisitos:
+La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar señalamientos para nuevos desarrollos inmobiliarios, conforme a los siguientes requisitos:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Pago por los derechos correspondientes al trámite, de conformidad con la Ley de Ingresos, para el caso de escuelas particulares;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Presentar identificación oficial con fotografía emitida por el Instituto Nacional Electoral o Pasaporte Mexicano emitido por la Secretaría de Relaciones Exteriores, en ambos casos, deberán estar vigentes y, en caso de persona moral, además se deberá presentar instrumento jurídico que acredite su constitución, debidamente inscrito y el instrumento notarial mediante el cual se le otorgue poder para realizar el trámite;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Presentar carta de no adeudo al Municipio;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 V. Presentar acreditación de autorización de la nomenclatura, mediante el documento respectivo emitido por el Consejo de Nomenclatura; y
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 VI. Plano de señalamientos viales.
 
@@ -1343,25 +1843,39 @@ VI. Plano de señalamientos viales.
 
 #### SECCIÓN VI. AUTORIZACIÓN DE CAMBIO DE SENTIDO DE VIALIDAD LOCAL
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 82.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo estudio correspondiente, podrá autorizar el cambio de sentido de una vialidad local, tomando en cuenta la factibilidad técnica y vial, atendiendo las disposiciones jurídicas y técnicas vigentes, conforme a los siguientes requisitos:
+La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar el cambio de sentido de una vialidad local, tomando en cuenta la factibilidad técnica y vial, atendiendo las disposiciones jurídicas y técnicas vigentes, conforme a los siguientes requisitos:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Pago por los derechos correspondientes al trámite, de conformidad con la Ley de Ingresos, para el caso de escuelas particulares;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 III. Presentar identificación oficial con fotografía emitida por el Instituto Nacional Electoral o Pasaporte Mexicano emitido por la Secretaría de Relaciones Exteriores, en ambos casos, deberán estar vigentes y, en caso de persona moral, además se deberá presentar instrumento jurídico que acredite su constitución, debidamente inscrito y el instrumento notarial mediante el cual se le otorgue poder para realizar el trámite;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 IV. Presentar carta de no adeudo al Municipio;
 
 V. Presentar plano o croquis de ubicación;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VI. Presentar Cédula de Identificación Fiscal, para acreditar el Registro Federal de Contribuyente;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VII. Presentar comprobante de domicilio; y
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 VIII. Presentar opinión positiva del Instituto Municipal de Planeación Urbana y del Espacio Público.
 
@@ -1369,25 +1883,41 @@ VIII. Presentar opinión positiva del Instituto Municipal de Planeación Urbana 
 
 #### SECCIÓN VII. AUTORIZACIÓN DE PERMISO PARA ASCENSO Y DESCENSO EN LA VÍA PÚBLICA
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 83.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, podrá autorizar permisos para ascenso y descenso en la vía pública, previo cumplimiento de los siguientes requisitos:
+La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar permisos para ascenso y descenso en la vía pública, previo cumplimiento de los siguientes requisitos:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Pago por los derechos correspondientes al trámite, de conformidad con la Ley de Ingresos, para el caso de escuelas particulares;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Presentar identificación oficial con fotografía emitida por el Instituto Nacional Electoral o Pasaporte Mexicano emitido por la Secretaría de Relaciones Exteriores, en ambos casos, deberán estar vigentes y, en caso de persona moral, además se deberá presentar instrumento jurídico que acredite su constitución, debidamente inscrito y el instrumento notarial mediante el cual se le otorgue poder para realizar el trámite;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Presentar carta de no adeudo al Municipio;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 V. Presentar plano o croquis de ubicación;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VI. Presentar Cédula de Identificación Fiscal, para acreditar el Registro Federal de Contribuyente;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VII. Acreditación de la propiedad o, en su caso, posesión legítima incontrovertida. Este requisito se satisfacerá por medio de documento público, copia certificada o documentos originales; y
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 VIII. Presentar la licencia de funcionamiento.
 
@@ -1395,25 +1925,41 @@ VIII. Presentar la licencia de funcionamiento.
 
 #### SECCIÓN VIII. AUTORIZACIÓN DE PERMISO PARA FRANJA ROJA PARA RESTRICCIÓN DE ESTACIONAMIENTO EN LA VÍA PÚBLICA
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 84.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo estudio correspondiente, podrá autorizar el permiso para franja roja con el objetivo de restringir el estacionamiento de vehículos en la vía pública, tomando en cuenta la factibilidad técnica y vial, que no sean de los lugares que expresamente lo dispone el Reglamento de Tránsito Municipal de Hermosillo, previo cumplimiento de los siguientes requisitos:
+La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar el permiso para franja roja con el objetivo de restringir el estacionamiento de vehículos en la vía pública, tomando en cuenta la factibilidad técnica y vial, que no sean de los lugares que expresamente lo dispone el Reglamento de Tránsito Municipal de Hermosillo, previo cumplimiento de los siguientes requisitos:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Pago por los derechos correspondientes al trámite, de conformidad con la Ley de Ingresos, para el caso de escuelas particulares;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Presentar identificación oficial con fotografía emitida por el Instituto Nacional Electoral o Pasaporte Mexicano emitido por la Secretaría de Relaciones Exteriores, en ambos casos, deberán estar vigentes y, en caso de persona moral, además se deberá presentar instrumento jurídico que acredite su constitución, debidamente inscrito y el instrumento notarial mediante el cual se le otorgue poder para realizar el trámite;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Presentar carta de no adeudo al Municipio;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 V. Presentar plano o croquis de ubicación;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VI. Presentar Cédula de Identificación Fiscal, para acreditar el Registro Federal de Contribuyente;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VII. Comprobante de domicilio; y
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 VIII. Documento que contenga las firmas de conformidad del 100 por ciento de los vecinos habitacionales y la copia de la identificación oficial con fotografía, ya sea emitida por el Instituto Nacional Electoral o la Secretaria de Relaciones Exteriores, de cada uno de los firmantes.
 
@@ -1421,27 +1967,45 @@ VIII. Documento que contenga las firmas de conformidad del 100 por ciento de los
 
 #### SECCIÓN IX. AUTORIZACIÓN DE MODIFICACIÓN GEOMÉTRICA DE LA VIALIDAD
 
-(ADICIONADO, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADO, B.O. 23 DE ENERO DE 2023)
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE AGOSTO DE 2024)</small>
 
 ###### ARTÍCULO 85.
 
-La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo estudio correspondiente, podrá autorizar la modificación geométrica de la vialidad, tomando en cuenta la factibilidad técnica y vial, previo cumplimiento de los siguientes requisitos:
+La Coordinación de Infraestructura, Desarrollo Urbano y Ecología, a través de la Dirección de Vialidad y Semaforización, previo dictamen que emita el Instituto de Planeación Urbana, Movilidad y del Espacio Público, podrá autorizar la modificación geométrica de la vialidad, tomando en cuenta la factibilidad técnica y vial, previo cumplimiento de los siguientes requisitos:
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 I. Presentar la solicitud correspondiente, cuyos formatos estarán disponibles ante la Dirección de Vialidad y Semaforización y medios electrónicos;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 II. Pago por los derechos correspondientes al trámite, de conformidad con la Ley de Ingresos, para el caso de escuelas particulares;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 III. Presentar identificación oficial con fotografía emitida por el Instituto Nacional Electoral o Pasaporte Mexicano emitido por la Secretaría de Relaciones Exteriores, en ambos casos, deberán estar vigentes y, en caso de persona moral, además se deberá presentar instrumento jurídico que acredite su constitución, debidamente inscrito y el instrumento notarial mediante el cual se le otorgue poder para realizar el trámite;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 IV. Presentar carta de no adeudo al Municipio;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 V. Presentar plano o croquis de ubicación;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VI. Presentar Cédula de Identificación Fiscal, para acreditar el Registro Federal de Contribuyente;
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 VII. Presentar plano con especificaciones de la solicitud, según la norma oficial mexicana correspondiente, debidamente firmado por el Director Responsable de Obra;
 
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
+
 VIII. Presentar estudio de impacto vial; y
+
+(ADICIONADA, B.O. 26 DE DICIEMBRE DE 2022) (REPUBLICADA, B.O. 23 DE ENERO DE 2023)
 
 IX. Presentar opinión positiva del Instituto Municipal de Planeación Urbana y del Espacio Público.
 
@@ -1648,3 +2212,9 @@ B.O. 30 DE NOVIEMBRE DE 2023.
 ÚNICO.- La presente modificación reglamentaria entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
 Se deroga toda disposición reglamentaria que se oponga a la presente modificación.
+
+B.O. 29 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA "REFORMAS Y ADICIONES AL REGLAMENTO DE TRÁNSITO MUNICIPAL, AL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DIRECTA DEL H. AYUNTAMIENTO DE HERMOSILLO, AL ACUERDO DE CREACIÓN DEL INSTITUTO MUNICIPAL DE PLANEACIÓN URBANA DE HERMOSILLO Y DEL ESPACIO PÚBLICO, AL ACUERDO DE CREACIÓN DEL CONSEJO MUNICIPAL DE CONCERTACIÓN PARA LA OBRA PÚBLICA DEL AYUNTAMIENTO, AL REGLAMENTO DE DESARROLLO URBANO Y DEL ESPACIO PÚBLICO, AL ACUERDO DE CREACIÓN DEL ORGANISMO OPERADOR MUNICIPAL DENOMINADO AGUA DE HERMOSILLO, AL ACUERDO DE CREACIÓN DE LA AGENCIA MUNICIPAL DE ENERGÍA Y CAMBIO CLIMÁTICO DE HERMOSILLO, CON LA FINALIZAD DE ARMONIZARLOS CON LAS DISPOSICIONES DE LA LEY GENERAL DE MOVILIDAD Y SEGURIDAD VIAL Y CON LA LEY DE MOVILIDAD Y SEGURIDAD VIAL PARA EL ESTADO DE SONORA; ASIMISMO LA EMISIÓN DEL REGLAMENTO DEL SISTEMA DE MOVILIDAD Y SEGURIDAD VIAL DE HERMOSILLO".]
+
+ÚNICO. Las reformas, adiciones y derogaciones de diversas disposiciones al presente reglamento entrarán en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
