@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2024-08-01"
+last_updated: "2024-08-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2024.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -690,7 +690,9 @@ E. De las y los campesinos y pequeños propietarios rurales
 
 Artículo 11
 
-Ciudad incluyente
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE AGOSTO DE 2024)</small>
+
+Ciudad Incluyente
 
 A. Grupos de atención prioritaria
 
@@ -728,9 +730,15 @@ d) Condiciones de buen trato, convivencia armónica y cuidado, por parte de sus 
 
 7. Esta Constitución reconoce como grupos de atención prioritaria, al menos y de manera enunciativa, a los referidos en los siguientes apartados.
 
-C. Derechos de las mujeres
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 29 DE AGOSTO DE 2024)</small>
+
+C. Derechos de las Mujeres.
 
 Esta Constitución reconoce la contribución fundamental de las mujeres en el desarrollo de la ciudad, promueve la igualdad sustantiva y la paridad de género. Las autoridades adoptarán todas las medidas necesarias, temporales y permanentes, para erradicar la discriminación, la desigualdad de género y toda forma de violencia contra las mujeres.
+
+> <small>(ADICIONADO, G.O. 29 DE AGOSTO DE 2024)</small>
+
+Se garantiza que las mujeres y niñas en situación de violencia podrán acudir a un refugio o casa de emergencia con los apoyos sociales, económicos, psicológicos y jurídicos para mantenerse a salvo. Para cumplimiento de lo anterior, se deberán tomar las medidas presupuestales suficientes, en términos de la Ley de la materia.
 
 D. Derechos de las niñas, niños y adolescentes
 
@@ -4042,9 +4050,9 @@ El sistema electoral y las reglas para la elección de las y los diputados de ma
 
 Lo dispuesto en los artículos 29, apartado B, numeral 3 y 53, apartado A, numeral 6 de esta Constitución, será aplicable a partir de la elección de 2021 a las y los diputados e integrantes de las alcaldías que sean electos en 2018.
 
-> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 29 DE AGOSTO DE 2024)</small>
 
-TERCERO.- Las disposiciones relativas a los derechos y las relaciones laborales entre las instituciones públicas de la Ciudad y sus trabajadores, establecidas en el artículo 10, apartado C y demás relativos de esta Constitución, entrarán en vigor el 31 de agosto de 2024.
+TERCERO.- Las disposiciones relativas a los derechos y las relaciones laborales entre las instituciones públicas de la Ciudad y sus trabajadores, establecidas en el artículo 10, apartado C y demás relativos de esta Constitución, entrarán en vigor el 1 de enero de 2030.
 
 CUARTO.- Los apartados del artículo 8, en lo referente a la educación preescolar, primaria y secundaria, entrarán en vigor en la Ciudad de México en el momento en que se efectúe la descentralización de los servicios educativos.
 
@@ -4539,3 +4547,11 @@ G.O. 1 DE AGOSTO DE 2024.
 PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 29 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL APARTADO C, DEL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO; Y SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO DE FECHA 5 DE FEBRERO DE 2017”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
