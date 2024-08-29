@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-138
 country: "mx"
 rank: "codigo"
 publication_date: "2019-08-13"
-last_updated: "2019-08-13"
+last_updated: "2024-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138133&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # CODIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DE LAS Y LOS SERVIDORES PUBLICOS DEL COLEGIO DE EDUCACION PROFESIONAL TECNICA DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DEL COLEGIO EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE TAMAULIPAS, PUBLICADO EN EL P.O. DE 29 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 CÓDIGO PARA LA PREVENCIÓN Y CONFLICTOS DE INTERÉS DE LAS Y LOS SERVIDORES PÚBLICOS DEL COLEGIO DE EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2024 (DEROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el martes 13 de agosto de 2019.
 
@@ -214,3 +216,29 @@ El presente Código de Conducta y Prevención de Conflictos de Interés de las y
 Este Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Colegio de Educación Profesional Técnica del Estado de Tamaulipas fue dictaminado, y aprobado mediante ACUERDO 10.13 del Comité de Ética, Conducta y Prevención de Conflictos de Interés del Colegio de Educación Profesional Técnica del Estado de Tamaulipas, en su sesión tercera celebrada el 03 de diciembre de 2018, firmando los presentes para los efectos a que haya lugar.
 
 PRESIDENTE.- DIRECTOR JURÍDICO.- LIC. GERARDO FRANCISCO CAMPOS MARTÍNEZ.- Rúbrica. SECRETARIO.- TITULAR DE LA UNIDAD DE TRANSPARENCIA.- LIC. RAFFA IVÁN HERNÁNDEZ VICENCIO.- Rúbrica.- COORDINADOR.- DIRECTOR ADMINISTRATIVO.- LIC. ADOLFO ANTONIO PASTOR PAZ.- Rúbrica.- VOCAL 1.- TITULAR DE RECURSOS HUMANOS.- LIC. LUIS IGNACIO VEGA HERRERA.- Rúbrica.- VOCAL 2.- DIRECTOR DE PLANEACIÓN.- DR. JAVIER CARRIZAL JARAMILLO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y PREVENCION DE CONFLICTOS DE INTERES DEL COLEGIO EDUCACIÓN PROFESIONAL TÉCNICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código de Ética y de Conducta y Prevención de Conflictos de Interés del Colegio de Educación Profesional Técnica del Estado de Tamaulipas entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Código de Conducta y Prevención de Conflictos de Interés de las y los Servidores Públicos del Colegio de Educación Profesional Técnica del Estado de Tamaulipas publicado en el Periódico Oficial del Estado Número 97 de fecha 13 de agosto de 2019.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Código.
+
+###### ARTÍCULO CUARTO.
+
+En todo lo no previsto por este Código, será aplicable lo dispuesto por las Reglas de Integridad para el Ejercicio de la Función Pública; el Código de Ética del Poder Ejecutivo del Estado de Tamaulipas, y demás disposiciones relativas.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos administrativos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor del presente Código, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
