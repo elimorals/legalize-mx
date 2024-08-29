@@ -4,7 +4,7 @@ identifier: "CMX-acuerdo-por-el-que-se-regula-la-gaceta-oficial-de-la-ciudad-174
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-12-31"
-last_updated: "2018-12-31"
+last_updated: "2024-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174236&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2018-12-28"
 ---
 # ACUERDO POR EL QUE SE REGULA LA GACETA OFICIAL DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DE LOS LINEAMIENTOS PARA REGULAR LAS PUBLICACIONES EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL G.O. DE 29 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO POR EL QUE SE REGULA LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2024 (ABROGADO).
 
 Acuerdo publicado en el Número 482 de la Gaceta Oficial de la Ciudad de México, el lunes 31 de diciembre de 2018.
 
@@ -173,3 +175,15 @@ EL CONSEJERO JURÍDICO Y DE SERVICIOS LEGALES
 (Firma)
 
 DR. HÉCTOR VILLEGAS SANDOVAL
+
+G.O. 29 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LOS “LINEAMIENTOS PARA REGULAR LAS PUBLICACIONES EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+TERCERO. La interpretación de los presentes Lineamientos corresponde a la Consejería Jurídica y de Servicios Legales de la Ciudad de México, por conducto de la Dirección General Jurídica y de Estudios Legislativos.
+
+CUARTO. Se abroga el Acuerdo por el que se Regula la Gaceta Oficial de la Ciudad de México publicado el 31 de diciembre de 2018 en la Gaceta Oficial de la Ciudad de México, no. 482.
