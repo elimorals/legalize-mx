@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-obras-publicas-y-servicios-relacionados-del-estado-24656
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-11"
-last_updated: "2022-08-06"
+last_updated: "2024-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 11 de septiembre del 2001.
 
@@ -81,19 +81,21 @@ II.- Entidades: Las definidas paraestatales en la Ley de Entidades Paraestatales
 
 III.- Secretaría: La Secretaría de las Infraestructuras y del Ordenamiento Territorial Sustentable;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2024)</small>
 
-IV.- Contraloría: La Secretaría de la Contraloría y Transparencia Gubernamental;
+IV.- Contraloría: A la Secretaría de Honestidad, Transparencia y Función Pública;
 
-V.- COPLADE: Comité Estatal de Planeación para el Desarrollo de Oaxaca;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+V.- Instituto: Al Instituto de Planeación para el Bienestar;
 
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2021)</small>
 
 VI.- Órganos Internos de Control: Las unidades administrativas a cargo de promover, evaluar y fortalecer el buen funcionamiento del control interno en los entes públicos, así como aquellas otras instancias de los Órganos constitucionales autónomos que, conforme a sus respectivas leyes, sean competentes para aplicar las leyes en materia de responsabilidades de Servidores Públicos;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2024)</small>
 
-VII.- OSFE: Órgano Superior de Fiscalización del Estado de Oaxaca;
+VII. Auditoría Superior: La Auditoría Superior de Fiscalización del Estado de Oaxaca;
 
 VIII.- Ayuntamientos: De los Municipios del Estado de Oaxaca;
 
@@ -225,11 +227,11 @@ Las atribuciones conferidas a la Contraloría en esta Ley, serán ejercidas por 
 
 Las controversias que se susciten con motivo de la interpretación y aplicación de esta Ley o de los contratos celebrados, serán resueltas por el Honorable Tribunal Superior de Justicia del Estado, en los términos de la Ley Orgánica del Poder Judicial del Estado de Oaxaca. Para la resolución de las controversias se aplicará el procedimiento sumario contemplado en el Código de Procedimientos Civiles del Estado, en lo que no se oponga a la naturaleza de las disposiciones de esta Ley.
 
-> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2020)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 16.
 
-La Comisión Estatal Consultiva de la Obra Pública, es un órgano normativo, de asesoría y consulta técnica para el seguimiento de la ejecución de la obra pública; integrándose bajo la siguiente estructura: un Presidente que será el Secretario de las Infraestructuras y el Ordenamiento Territorial Sustentable, y contará además con representantes permanentes del COPLADE, de las Secretarías de Administración, Finanzas y de la Contraloría.
+La Comisión Estatal Consultiva de la Obra Pública, es un órgano normativo, de asesoría y consulta técnica para al (sic) seguimiento de la ejecución de la obra pública; integrándose bajo la siguiente estructura: un Presidente que será el Secretario de las Infraestructuras y Comunicaciones, y contará con representantes del Instituto, de las Secretarías de Finanzas y de la Contraloría.
 
 ## TITULO SEGUNDO. DE LAS (SIC) PLANEACION, PROGRAMACION Y PRESUPUESTACION DE LA OBRA
 
@@ -265,7 +267,9 @@ VI.- La contratación preferentes (sic) de contratistas locales; así como, la u
 
 VII.- Las medidas necesarias para la preservación y restauración de la obra pública, para el caso de que esta se deteriore, contemplando para ello de ser posible la utilización de tecnología nacional, preferentemente la existente en el Estado.
 
-Los Ayuntamientos para la planeación de sus obras en los términos anteriores, podrán recibir asesoría del COPLADE o de las Dependencias y Entidades del Ejecutivo que sean competentes.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+Los Ayuntamientos para la planeación de sus obras en los términos anteriores, podrán recibir asesoría del Instituto o de las Dependencias y Entidades del Ejecutivo que sean competentes.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2021)</small>
 
@@ -319,11 +323,11 @@ XIV.- Las demás previsiones que deban tomarse en consideración según la natur
 
 Los dictámenes de factibilidad y/o validaciones a las que se refiere la fracción primera de este artículo serán vigentes cuando menos dos años.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 21.
 
-Las Dependencias y Entidades a más tardar el último día del mes de marzo de cada año, pondrán a disposición de la Secretaría, la Contraloría y COPLADE; sus programas de obras públicas para los efectos de su competencia.
+Las Dependencias y Entidades a más tardar el último día del mes de marzo de cada año, pondrán a disposición de la Secretaría, la Contraloría e Instituto; sus programas de obras públicas para los efectos de su competencia.
 
 El documento que contenga los programas, podrá ser adicionado, modificado, suspendido o cancelado, de manera fundada sin responsabilidad alguna para la Dependencia o Entidad de que se trate.
 
@@ -387,11 +391,11 @@ III.- Por adjudicación directa.
 
 En el caso de las fracciones II y III se estará a lo dispuesto en el tercer párrafo del artículo 46 de la presente Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 26.
 
-La contratación de obra pública, por Dependencias y Entidades solo podrá llevarse a cabo cuando se tenga saldo disponible en las partidas correspondientes del presupuesto aprobado, y se cuente con los títulos de propiedad debidamente inscritos en los Registros Públicos a favor de las Dependencias, Entidades y Ayuntamientos, además deberán contar con los estudios y proyectos, las normas y especificaciones de construcción y programas de ejecución; salvo casos excepcionales a juicio de la Secretaría y previa autorización del COPLADE, podrán convocarse sin contar con tales requisitos.
+La contratación de obra pública, por Dependencias y Entidades solo podrá llevarse a cabo cuando se tenga saldo disponible en las partidas correspondientes del presupuesto aprobado, y se cuente con los títulos de propiedad debidamente inscritos en el Instituto de la Función Registral; cuando se trate de bienes de propiedad social deberá acreditarse que la legal posesión a favor de las Dependencias, Entidades y Ayuntamientos fue otorgada conforme a la ley por sus asambleas, además deberán contar con los estudios y proyectos, las normas y especificaciones de construcción y programas de ejecución; salvo casos excepcionales a juicio de la Secretaría y previa autorización de la Dirección General del Instituto de Planeación para el Bienestar, podrán convocarse sin contar con tales requisitos.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2019)</small>
 
@@ -517,9 +521,9 @@ VII.- Suscripción del contrato.
 
 Las licitaciones públicas podrán ser:
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2024)</small>
 
-I.- Estatales, cuando por el monto de la obra así proceda y donde únicamente deberán participar contratistas locales. La publicación de la convocatoria en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación en el Estado;
+I. Estatales, cuando por el monto de la obra así proceda, y donde únicamente deberán participar contratistas locales. La publicación de la convocatoria en el Periódico Oficial del Gobierno del Estado y en un diario de mayor circulación en el Estado en su versión física o digital;
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
@@ -799,15 +803,39 @@ La opción que las Dependencias, Entidades y Ayuntamientos apliquen en los térm
 
 Para este tipo de contrataciones se invitará a contratistas y sólo para el caso de que las personas físicas y/o morales invitadas no cuenten con capacidad técnica y económica requerida para la ejecución de la obra, se invitará a contratistas foráneos inscritos debidamente en el padrón, debiendo en todo caso el titular de la dependencia y/o ayuntamiento, emitir un acuerdo justificado de su determinación.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 43.
 
-Los titulares de las Dependencias, Entidades y el Presidente Municipal para el caso de los Ayuntamientos, bajo su responsabilidad podrán contratar obra pública, a través de un procedimiento de invitación restringida a cuando menos tres contratistas, en los siguientes casos:
+Los titulares de las Dependencias, Entidades y el Presidente Municipal para el caso de los Ayuntamientos, bajo su responsabilidad podrán contratar obra pública, a través de los procedimientos de invitación restringida a cuando menos tres contratistas o de adjudicación directa, en los siguientes casos:
 
-I.- Se trate de trabajos de conservación, mantenimiento, restauración, reparación, reconstrucción y demolición de las obras, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos, cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
+I.- El contrato sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, el licenciamiento exclusivo de patentes, derechos de autor u otros derechos exclusivos;
 
-II.- Cuando existan condiciones o circunstancias extraordinarias de tiempo, económicas o sociales que determinen la ejecución inmediata de la obra pública; y,
+II.- Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado o Municipio respectivo como consecuencia de fenómenos naturales, caso fortuito o de fuerza mayor;
 
-III.- Cuando se trate de obras que deban realizarse utilizando sistemas y procedimientos de tecnología avanzada.
+III.- Existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, debidamente justificados;
+
+IV.- Su contratación mediante licitación pública ponga en riesgo la seguridad pública o el medio ambiente o cuando se trate de obras de beneficio colectivo;
+
+V.- Derivado de caso fortuito o fuerza mayor, no sea posible ejecutar los trabajos mediante el procedimiento de licitación pública en el tiempo requerido para atender la eventualidad de que se trate, en este supuesto deberán limitarse a lo estrictamente necesario para afrontarla;
+
+VI.- Se hubiere rescindido el contrato respectivo por causas imputables al contratista que hubiere resultado ganador en una licitación. En estos casos la Dependencia o Entidad y los Ayuntamientos podrán adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la proposición que inicialmente hubiere resultado ganadora no sea superior al diez por ciento. Tratándose de procedimientos de contratación en los que se hayan considerado puntos y porcentajes como método para la evaluación de las proposiciones, se podrá adjudicar a la proposición que siga en calificación a la del ganador;
+
+VII.- Se haya declarado desierta una licitación pública, siempre que se mantengan los requisitos establecidos en la convocatoria cuyo incumplimiento haya sido considerado como causa de desechamiento porque afecta directamente la solvencia de las proposiciones;
+
+VIII.- Se trate de trabajos de construcción, mantenimiento, restauración, reparación o demolición de inmuebles, en los que no sea posible precisar su alcance, establecer el catálogo de conceptos, cantidades de trabajo, determinar las especificaciones correspondientes o elaborar el programa de ejecución;
+
+IX.- Se trate de trabajos que requieran fundamentalmente de mano de obra campesina o urbana marginada, y que la dependencia o entidad contrate directamente con los habitantes beneficiarios de la localidad o del lugar donde deban realizarse los trabajos, ya sea como personas físicas o morales;
+
+X.- Se trate de servicios relacionados con las obras públicas prestados por una persona física, siempre que éstos sean realizados por ella misma, sin requerir de la utilización de más de un especialista o técnico;
+
+XI.- Se acredite la celebración de una alianza estratégica que lleven a cabo las Dependencias y Entidades con personas físicas o morales dedicadas a la ingeniería, la investigación y a la transferencia y desarrollo de tecnología, a fin de aplicar las innovaciones tecnológicas en la Infraestructura estatal, y
+
+XII.- Se trate de servicios que tengan por objeto elaborar o concluir los estudios, planes o programas necesarios que permitan la realización de la licitación pública para la ejecución de las obras públicas asociadas a proyectos de infraestructura.
+
+En los procedimientos de invitación restringida y de adjudicación directa, se invitará a la o las personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos financieros y demás que sean necesarios.
+
+La ejecución de los contratos contenidos en el presente artículo, no se contabilizarán a los porcentajes establecidos en el párrafo tercero del artículo 46 de esta Ley.
 
 ###### Artículo 44.
 
@@ -829,35 +857,27 @@ VI.- Para que este procedimiento se inicie deberá de existir obligatoriamente l
 
 VII.- Para el caso de que ninguna de las propuestas presentadas sea satisfactoria a las necesidades o requerimientos de la Dependencia, Entidad o Ayuntamiento convocante, éstas procederán a convocar a un nuevo procedimiento de invitación restringida, a personas físicas y/o morales que cuenten con la capacidad técnica y económica requerida para la ejecución de la obra, y si este se vuelve a declarar desierto, el titular de la Dependencia, Entidad o Ayuntamiento determinará lo conducente debiendo informar a las instancias correspondientes.
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 45.
 
-La contratación de obra por adjudicación directa, podrá efectuarse bajo responsabilidad de los titulares de las Dependencias, Entidades o del Presidente Municipal para el caso de los Ayuntamientos, de acuerdo a lo siguiente:
-
-I.- Peligre o se altere, la seguridad del Estado o el orden social, la economía, los servicios públicos, la salubridad, el medio ambiente de alguna zona o región del Estado o Municipio respectivamente, como consecuencia de desastres producidos por fenómenos naturales, por casos fortuitos o de fuerza mayor; o existan circunstancias que puedan provocar pérdidas o costos adicionales importantes;
-
-II.- Se trate de trabajos que requieran fundamentalmente de mano de obra campesina o urbana marginada, y la Dependencia, Entidad o Ayuntamiento deba contratar directamente con los habitantes beneficiarios de la localidad o del lugar en donde deba ejecutarse la obra o con las personas morales o agrupaciones legalmente establecidas y constituidas por los propios habitantes beneficiarios;
-
-III.- Cuando se hubiere rescindido el contrato respectivo por causas imputables al contratista. En estos casos la Dependencia, Entidad o Ayuntamiento podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la postura que inicialmente hubiere resultado ganadora no sea superior al 10%;
-
-IV.- Cuando a juicio de la convocante no sea idónea la realización de una licitación pública, en virtud de que la divulgación de los proyectos e información que deba otorgarse a los participantes, pudiera comprometer información de naturaleza confidencial para el Estado o Municipio, así como la operación o seguridad de la obra a ejecutarse;
-
-V.- Cuando el contrato solo pueda celebrarse con una persona determinada, por ser esta la titular de patentes u otros derechos exclusivos; y,
-
-VI.- Cuando habiendo celebrado dos licitaciones públicas o invitaciones restringidas de un evento, estas se hubieren declarado desiertas.
-
-En los procedimientos de invitación restringida y de adjudicación directa, se invitará a la o las personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos financieros y demás que sean necesarios.
+La contratación de obra pública y servicios relacionados por adjudicación directa o invitación a cuando menos tres contratistas procederá en los casos de excepción establecidos en el artículo 43 o, bien, por rango de acuerdo al Presupuesto de Egresos del Estado vigente.
 
 ###### Artículo 46.
 
 Las Dependencias, Entidades y en su caso los Ayuntamientos, deberán optar preferentemente por la contratación de obra mediante la modalidad de licitación pública, con el objeto de dar mayor transparencia a los recursos, y aplicar en lo mínimo las excepciones.
 
-Para los efectos de la aplicación de los artículos 43 y 45 de esta Ley, la Dependencia, Entidad o Ayuntamiento de que se trate, podrá contratar a través del procedimiento de invitación restringida a cuando menos tres contratistas o del de adjudicación directa, cuando el monto total de la obra pública no exceda del rango de aplicación máximo que al efecto se le establezca en el Presupuesto de Egresos del Estado y siempre que los trabajos de obra pública no se fraccionen para quedar comprendidos en los supuestos de excepción a la licitación pública.
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
-La suma de los montos de la obra pública contratada mediante el procedimiento de adjudicación directa y de invitación restringida a cuando menos tres contratistas, no deberá exceder del treinta por ciento de los recursos asignados para el ejercicio de la Dependencia, Entidad o Ayuntamiento de que se trate; adicionalmente se preferirá la modalidad de licitación pública sobre cualquier techo financiero, aun cuando el monto de la obra pública no exceda del consignado como máximo en el Presupuesto de Egresos del Estado.
+Las Dependencias, Entidades o Ayuntamientos, bajo su responsabilidad, podrán contratar obras públicas o servicios relacionados con las mismas, sin sujetarse al procedimiento de licitación pública, a través del procedimiento de invitación restringida a cuando menos tres personas o de adjudicación directa, cuando el importe de cada contrato no exceda del rango de aplicación máximo que al efecto se establezcan en el Presupuesto de Egresos del Estado y siempre que los contratos no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
-En casos excepcionales, el Titular de la Dependencia o Entidad, o en su caso el Presidente Municipal del Ayuntamiento de que se trate, bajo su responsabilidad y mediante acuerdo debidamente fundado y motivado podrá fijar un rango de aplicación superior al indicado en el Presupuesto de Egresos, debiéndolo hacer del conocimiento de la Contraloría para el caso de las Dependencias o Entidades y de sus órganos internos de control, y del OSFE, para el caso de los Ayuntamientos.
+La suma de los montos de los contratos que se realicen por rango no podrá exceder del treinta por ciento del presupuesto autorizado a las Dependencias, Entidades o Ayuntamientos para realizar obras públicas y servicios relacionados con las mismas en cada ejercicio presupuestario. La contratación deberá ajustarse a los límites establecidos en el Presupuesto de Egresos del Estado.
+
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+En casos excepcionales, la persona titular de la Dependencia o Entidad, o en su caso el Presidente Municipal del Ayuntamiento de que se trate, bajo su responsabilidad y mediante acuerdos debidamente fundados y motivados podrá fijar un rango de aplicación superior al indicado en el Presupuesto de Egresos y también podrán fijar un porcentaje mayor al indicado en este artículo, debiéndolo hacer del conocimiento de la Contraloría para el caso de las Dependencias o Entidades y de sus órganos internos de control y de la Auditoría Superior, para el caso de los Ayuntamientos.
 
 ## TITULO CUARTO. DE LA FORMALIZACION DEL CONTRATO
 
@@ -887,7 +907,13 @@ Los contratos de obra pública podrán celebrarse:
 
 I.- Basándose en precios unitarios, en cuyo caso el importe de la remuneración o pago total que deba cubrirse al contratista se hará por unidad de concepto de trabajo terminado, para la integración de los precios unitarios se deberá estar a lo dispuesto en el contenido de las publicaciones que mensualmente emitirá la Comisión Estatal Consultiva de Obra Pública del Estado de Oaxaca;
 
-II.- A precio alzado, en cuyo caso el importe de la remuneración o pago total fijo que deba cubrirse al contratista será por la obra totalmente terminada y ejecutada en el plazo establecido, estos contratos tanto en sus aspectos técnicos como económicos, deberán estar desglosados por actividades principales.
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+II. A precio alzado, en cuyo caso el importe de la remuneración o pago total fijo que deba cubrirse al contratista será por la obra totalmente terminada y ejecutada en el plazo establecido o bien, por las partidas y/o sub partidas, trabajos, actividades e hitos totalmente terminados y en los plazos establecidos; estos contratos tanto en sus aspectos técnicos como económicos, deberán estar desglosados por actividades principales; y,
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+III. Mixtos, cuando contengan una parte de los trabajos sobre la base de precios unitarios y otra, a precio alzado.
 
 Los contratos que contemplen proyectos integrales se celebrarán a precio alzado. Las Dependencias, Entidades o Ayuntamientos convocantes, podrán incorporar las modalidades de contratación que tiendan a garantizar al Estado o Municipio, las mejores condiciones en la ejecución de la obra, siempre que con ello no se desvirtué el tipo de contrato que se haya licitado.
 
@@ -943,11 +969,11 @@ Excepcionalmente podrán exceder el porcentaje indicado, siempre y cuando las ne
 
 De las modificaciones a los contratos de obra pública mediante convenios, se dará conocimiento a la Contraloría, dentro de los diez días hábiles siguientes a su celebración.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 53.
 
-La entrega de anticipos para la iniciación de los trabajos se hará de acuerdo a lo pactado en el contrato de obra pública, pero su importe máximo no rebasará el 30% de la asignación aprobada para el contrato en el primer ejercicio fiscal de que se trate, y del 20% en los ejercicios subsecuentes del propio contrato, en caso de que se trate de una obra que se ejecute en más de un ejercicio presupuestal. Cuando por las características especiales y condiciones particulares de la realización de la obra sea necesario otorgar un anticipo mayor, deberán asentarse por escrito dichas características y condiciones, remitiendo el documento según el caso a la Contraloría o el OSFE, dentro de los cinco días hábiles siguientes al de la entrega del anticipo. La cantidad que reciba el contratista por ese concepto deberá aplicarse exclusivamente para la ejecución de los trabajos y nunca excederá del 50%, en el cual deberá estipularse su destino específico.
+La entrega de anticipos para la iniciación de los trabajos se hará de acuerdo a lo pactado en el contrato de obra pública, pero su importe máximo no rebasará el 30% de la asignación aprobada para el contrato en el primer ejercicio fiscal de que se trate, y del 20% en los ejercicios subsecuentes del propio contrato, en caso de que se trate de una obra que se ejecute en más de un ejercicio presupuestal. Cuando por las características especiales y condiciones particulares de la realización de la obra sea necesario otorgar un anticipo mayor, deberán asentarse por escrito dichas características y condiciones, remitiendo el documento según el caso a la Contraloría o a la Auditoría Superior, dentro de los cinco días hábiles siguientes al de la entrega del anticipo. La cantidad que reciba el contratista por ese concepto deberá aplicarse exclusivamente para la ejecución de los trabajos y nunca excederá del 50% en el cual deberá estipularse su destino específico.
 
 ### CAPITULO II. EJECUCION, AJUSTE DE COSTOS, PRECIOS UNITARIOS Y SU PROCEDIMIENTO
 
@@ -1021,9 +1047,9 @@ II.- En caso de rescisión del contrato por causas imputables al contratista, la
 
 III.- Cuando por caso fortuito o fuerza mayor se imposibilite la continuación de los trabajos, el contratista podrá suspender la obra. En este supuesto, si opta por la terminación anticipada del contrato, deberá presentar su solicitud a la Dependencia, Entidad o Ayuntamiento, quien resolverá dentro de los veinte días naturales siguientes a la recepción de la misma; en caso de negativa será necesario que el contratista obtenga de la autoridad judicial la declaratoria correspondiente.
 
-> <small>(REFORMADO, P.O. 6 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
-En todos los casos de las fracciones anteriores, los titulares de las Dependencias y Entidades o el Presidente Municipal, en el caso de los Ayuntamientos, mediante acuerdo debidamente fundado y motivado resolverán lo procedente; dicho acuerdo deberá ser notificado al contratista, informando del mismo a la Secretaría y a la Contraloría en el caso de las Dependencias y Entidades; los Ayuntamientos lo harán del conocimiento del Órgano Interno de Control y del OSFE; lo mismo, se aplicará para la reanudación de la obra que haya sido suspendida y todas aquellas actuaciones que modifiquen las condiciones originales del contrato.
+En todos los casos de las fracciones anteriores, los titulares de las Dependencias y Entidades o el Presidente Municipal, en el caso de los Ayuntamientos, mediante acuerdo debidamente fundado y motivado resolverán lo procedente, dicho acuerdo deberá ser notificado al contratista, informando del mismo a la Secretaría y a la Contraloría en el caso de las Dependencias y Entidades; los Ayuntamientos lo harán del conocimiento del Órgano Interno de Control y a la Auditoría Superior; lo mismo, se aplicará para la reanudación de la obra que haya sido suspendida y todas aquellas actuaciones que modifiquen las condiciones originales del contrato.
 
 ## TITULO QUINTO. DE LA EJECUCION DE LA OBRA
 
@@ -1043,15 +1069,19 @@ Las Dependencias y Entidades establecerán la residencia de obra con anteriorida
 
 Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones para efectos de pago deberá ser autorizada por la residencia de obra de la Dependencia o Entidad.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+Por su parte, de manera previa al inicio de los trabajos, los contratistas designarán a un superintendente de construcción o de servicios facultado para oír y recibir toda clase de notificaciones relacionadas con los trabajos, aún las de carácter personal, así como tomar las decisiones que se requieran en todo lo relativo al cumplimiento del contrato.
+
 ### CAPITULO II. DE LA ADMINISTRACION DIRECTA
 
 ###### Artículo 62.
 
 Las Dependencias, Entidades o los Ayuntamientos, bajo su responsabilidad podrán ejecutar obra pública por administración directa, siempre que posean capacidad técnica, administrativa, operativa y elementos necesarios para ello, consistentes en maquinaria, equipo de construcción y personal técnico que se requiera para el desarrollo de los trabajos respectivos.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
-Previo a la ejecución de la obra el titular de la ejecutora, emitirá el acuerdo respectivo haciéndolo del conocimiento de la Contraloría, la Secretaría, o al OSFE, según corresponda, así mismo, les comunicará periódicamente sobre el inicio, avance físico, gastos efectuados y terminación de la obra.
+Previo a la ejecución de la obra el titular de la ejecutora, emitirá el acuerdo respectivo haciéndolo del conocimiento de la Contraloría, la Secretaría, o a la Auditoría Superior, según corresponda, así mismo, les comunicará periódicamente sobre el inicio, avance físico, gastos efectuados y terminación de la obra.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
@@ -1069,7 +1099,9 @@ En la ejecución de obra pública por administración directa en pueblos y comun
 
 Para que las Dependencias, Entidades y Ayuntamientos puedan realizar obras por administración directa es necesario:
 
-I.- Que las obras estén incluidas en el programa de inversión autorizado por la Coordinación General del COPLADE o que las mismas sean aprobadas por el cabildo Municipal según corresponda;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+I.- Que las obras estén incluidas en el programa de inversión autorizado por el Instituto o que las mismas sean aprobadas por el Ayuntamiento en sesión de cabildo Municipal según corresponda;
 
 II.- Que se cuente con los estudios, proyectos, normas y especificaciones de construcción, presupuesto, programas de ejecución, y se cumplan todos los trámites legales relacionados con la obra;
 
@@ -1088,6 +1120,14 @@ IV.- Prever la asesoría de especialistas en las partes de la obra que lo requie
 El contratista comunicará a la Dependencia, Entidad o Ayuntamiento, la terminación de los trabajos que fueron materia del contrato y que tenía encomendados, estas verificarán que los mismos estén debidamente concluidos dentro de los veinte días siguientes al de la comunicación, salvo que al efecto fuese señalado un plazo diferente; dichos trabajos deberán ser recibidos por los contratantes y al efecto se deberá informar a la Contraloría o al Órgano Interno de Control con diez días de anticipación el lugar, la fecha y hora, en que se efectuará la recepción de los trabajos.
 
 La entrega y recepción de la obra no exime al contratista de la responsabilidad por defectos o vicios ocultos que tenga la misma, en los términos de las leyes respectivas, por lo que en el momento de celebrarse la entrega se deberá exhibir fianza que garantice los vicios ocultos de la obra, la cual tendrá una vigencia de doce meses.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+Recibidos físicamente los trabajos, las partes dentro del término estipulado en el contrato, el cual no podrá exceder de veinte días naturales a partir de la recepción de los trabajos, deberán elaborar el finiquito de los mismos, en el que se hará constar los créditos a favor y en contra que resulten para cada uno de ellos, describiendo el concepto general que les dio origen y el saldo resultante.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+De existir desacuerdo entre las partes respecto al finiquito, o bien, el contratista no acuda con la Dependencia, Entidad o Ayuntamiento para su elaboración dentro del plazo señalado en el contrato, ésta procederá a elaborarlo, debiendo comunicar su resultado al contratista dentro de un plazo de diez días naturales, contado a partir de su emisión; una vez notificado el resultado de dicho finiquito al contratista, éste tendrá un plazo de quince días naturales para alegar lo que a su derecho corresponda, si transcurrido este plazo no realiza alguna gestión, se dará por aceptado.
 
 ###### Artículo 65.
 
@@ -1145,11 +1185,11 @@ No quedan comprendidos dentro de los servicios a que se refiere el artículo 68 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 71.
 
-Las Dependencias, Entidades o los Ayuntamientos contratantes, deberán remitir por escrito a la Secretaría, a la Contraloría y al OSFE según corresponda, la información relativa a las obras y servicios relacionados con las mismas que se realicen o contraten.
+Las Dependencias, Entidades o los Ayuntamientos contratantes, deberán remitir por escrito a la Secretaría, a la Contraloría y a la Auditoría Superior según corresponda, la información relativa a las obras y servicios relacionados con las mismas que se realicen o contraten.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
@@ -1277,35 +1317,35 @@ Los contratistas que se encuentren en los supuestos de las fracciones VI, VII, V
 
 ### CAPÍTULO I. DE LA INCONFORMIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 87.
 
-Las personas interesadas podrán inconformarse por escrito ante la Contraloría o ante el OSFE, por los actos que contravengan las disposiciones contenidas en esta Ley, dentro de los diez días hábiles siguientes a aquel en que estos ocurran o se notifiquen al inconforme del acto impugnado.
+Las personas interesadas podrán inconformarse por escrito ante la Contraloría o ante la Auditoría Superior, por los actos que contravengan las disposiciones contenidas en esta Ley, dentro de los diez días hábiles siguientes a aquel en que estos ocurran o se notifiquen al inconforme del acto impugnado.
 
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2021)</small>
 
 Lo anterior sin perjuicio de que las personas interesadas previamente manifiesten a los Órganos Internos de Control según correspondan, las irregularidades que a su juicio se hayan cometido en el procedimiento de contratación, a fin de que dichas irregularidades se corrijan.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
-Transcurrido el plazo establecido en éste artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la Contraloría o el OSFE, puedan actuar en cualquier tiempo en los términos de esta Ley.
+Transcurrido el plazo establecido en este artículo, precluye para los interesados el derecho a inconformarse, sin perjuicio de que la Contraloría o la Auditoría Superior puedan actuar en cualquier tiempo en los términos de esta Ley.
 
 La manifestación de hechos falsos se sancionará conforme a las disposiciones legales aplicables.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 88.
 
-La Contraloría o el OSFE, realizarán las investigaciones que de la propia inconformidad se deriven, dentro de un plazo que no excederá de 45 días naturales, contados a partir de la fecha en que se inicien, bajo las prescripciones siguientes:
+La Contraloría o la Auditoría Superior, realizarán las investigaciones que de la propia inconformidad se deriven, dentro de un plazo que no excederá de 45 días naturales, contados a partir de la fecha en que se inicien, bajo las prescripciones siguientes:
 
-I.- Citará al inconforme para que ratifique su promoción; en caso de que no sea ratificada, se archivará el expediente respectivo. Lo anterior sin perjuicio de que la Contraloría o el OSFE, puedan darle seguimiento de oficio al asunto correspondiente;
+I.- Citará al inconforme para que ratifique su promoción; en caso de que no sea ratificada, se archivará el expediente respectivo. Lo anterior sin perjuicio de que la Contraloría o la Auditoría Superior, puedan darle seguimiento de oficio al asunto correspondiente;
 
-II- La Contraloría o el OSFE, al admitir la inconformidad notificarán a los terceros perjudicados, la iniciación del procedimiento, para que dentro del término de cinco días naturales manifiesten lo que a su derecho convenga. Transcurrido el plazo anterior, se les tendrá por perdido su derecho; y
+II.- La Contraloría o la Auditoría Superior, al admitir la inconformidad notificarán a los terceros perjudicados, la iniciación del procedimiento, para que dentro del término de cinco días naturales manifiesten lo que a su derecho convenga. Transcurrido el plazo anterior, se les tendrá por perdido su derecho; y,
 
-III.- La Contraloría y el OSFE en el ámbito de su competencia, practicarán las diligencias que estimen necesarias, a fin de contar con los elementos suficientes para la mejor substanciación de la inconformidad que se investiga.
+III. La Contraloría y la Auditoría Superior, en el ámbito de su competencia, practicarán las diligencias que estimen necesarias, a fin de contar con los elementos suficientes para la mejor substanciación de la inconformidad que se investiga.
 
-La convocante de que se trate proporcionará a la Contraloría o el OSFE, según corresponda, la información requerida para la investigación de los hechos, dentro de los doce días naturales siguientes, contados a partir de que se efectué el requerimiento.
+La convocante de que se trate proporcionará a la Contraloría o la Auditoría Superior, según corresponda, la información requerida para la investigación de los hechos, dentro de los doce días naturales siguientes, contados a partir de que se efectúe el requerimiento.
 
 ###### Artículo 89.
 
@@ -1321,11 +1361,11 @@ Cuando el inconforme solicite la suspensión de los efectos del acto reclamado d
 
 Solo se otorgará la suspensión de los actos recurridos cuando la inconformidad haya sido admitida y no se cause perjuicio al interés público.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 91.
 
-Concluidas las investigaciones correspondientes, la Contraloría y el OSFE, según corresponda, emitirán su resolución, la que sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos y contratistas que hayan intervenido, tendrá por consecuencia:
+Concluidas las investigaciones correspondientes, la Contraloría y la Auditoría Superior, según corresponda, emitirán su resolución, la que sin perjuicio de la responsabilidad que proceda respecto de los servidores públicos y contratistas que hayan intervenido, tendrá por consecuencia:
 
 I.- Declarar la nulidad total o parcial del procedimiento, a partir del acto o actos irregulares, estableciendo las directrices necesarias para que el mismo se realice conforme a la ley; y
 
@@ -1337,11 +1377,11 @@ La resolución que ponga fin al procedimiento de inconformidad, se notificará p
 
 ### CAPITULO II. DEL RECURSO DE REVOCACION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 93.
 
-En contra de las resoluciones que dicte la Secretaría, la Contraloría y el OSFE, en los términos de esta Ley, el agraviado podrá interponer el recurso de revocación ante la que hubiese emitido dicha resolución, dentro del término de diez días naturales, contados a partir del día siguiente al de la notificación de la resolución, el que se tramitará conforme a las normas siguientes:
+En contra de las resoluciones que dicte la Secretaría, la Contraloría y la Auditoría Superior, en los términos de esta Ley, el agraviado podrá interponer el recurso de revocación ante la que hubiese emitido dicha resolución, dentro del término de diez días naturales, contados a partir del día siguiente al de la notificación de la resolución, el que se tramitará conforme a las normas siguientes:
 
 I.- Se interpondrá bajo protesta de decir verdad por el recurrente, mediante escrito en el que se expresarán los agravios que la resolución impugnada le cause, acreditará su personalidad, ofrecerá las pruebas que se proponga rendir y acompañará copia de la resolución impugnada o constancia de la notificación de esta última, excepto si la notificación se hizo por correo;
 
@@ -1351,9 +1391,9 @@ III.- Si dentro del trámite que haya dado origen a la resolución recurrida, el
 
 IV.- Se tendrán por no ofrecidas las pruebas documentales, si estas no se acompañan al escrito en que se interponga el recurso y en ningún caso serán recabadas por la autoridad, salvo que obren en el expediente en que se haya originado la resolución recurrida;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2024)</small>
 
-V.- La Secretaría, la Contraloría y el OSFE, según el caso, acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiese ofrecido, que deberán ser pertinentes e idóneas para clarificar las cuestiones controvertidas; ordenándose el desahogo de las mismas, dentro del plazo de quince días hábiles, el que será improrrogable;
+V.- La Secretaría, la Contraloría y la Auditoría Superior, según el caso, acordarán lo que proceda sobre la admisión del recurso y de las pruebas que el recurrente hubiese ofrecido, que deberán ser pertinentes e idóneas para clarificar las cuestiones controvertidas; ordenándose el desahogo de las mismas, dentro del plazo de quince días hábiles, el que será improrrogable;
 
 VI.- La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente. De no presentarse el dictamen dentro del plazo de Ley, la prueba será declarada desierta; y,
 
@@ -1694,3 +1734,13 @@ P.O. 6 DE AGOSTO DE 2022.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del H. Congreso del Estado y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM 2398 .- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES IV, V Y VII DEL ARTÍCULO 3, EL ARTÍCULO 16, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 18, EL PRIMER PÁRRAFO DEL ARTÍCULO 21, EL PRIMER PÁRRAFO DEL ARTÍCULO 26, LA FRACCIÓN I DEL ARTÍCULO 28, EL ARTÍCULO 43, EL ARTÍCULO 45, LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DEL ARTÍCULO 46, LA FRACCIÓN II DEL ARTÍCULO 50, EL ARTÍCULO 53, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 59, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 62, LA FRACCIÓN I DEL ARTÍCULO 63, EL ARTÍCULO 71, EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 87, EL ARTÍCULO 88, EL PRIMER PÁRRAFO DEL ARTÍCULO 91, EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 93; SE ADICIONAN LA FRACCIÓN III AL ARTÍCULO 50, UN TERCER PÁRRAFO AL ARTÍCULO 61, UN TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 64, TODOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
