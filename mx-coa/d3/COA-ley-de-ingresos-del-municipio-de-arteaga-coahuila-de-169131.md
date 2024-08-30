@@ -4,7 +4,7 @@ identifier: "COA-ley-de-ingresos-del-municipio-de-arteaga-coahuila-de-169131"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2023-12-22"
-last_updated: "2024-03-22"
+last_updated: "2024-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COA"
 
 LEY DE INGRESOS DEL MUNICIPIO DE ARTEAGA, COAHUILA DE ZARAGOZA, PARA EL EJERCICIO FISCAL 2024
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MARZO DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 22 DE MARZO DE 2024 NO APLICA AL ARTICULADO DEL DECRETO 601 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2024.
 
 Ley publicada en el Número 102 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 22 de diciembre de 2023.
 
