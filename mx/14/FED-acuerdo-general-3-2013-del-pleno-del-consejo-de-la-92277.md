@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2024-07-23"
+last_updated: "2024-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -25,7 +25,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE AGOSTO DE 2024.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -131,9 +131,9 @@ I. PRIMER CIRCUITO:
 
 2. Cuatro tribunales colegiados de apelación especializados: dos en materia penal y dos en materias civil, administrativa y especializados en competencia económica, radiodifusión y telecomunicaciones, todos con residencia en la Ciudad de México.
 
-> <small>(REFORMADO POR EL ARTÍCULO 14 DEL ACUERDO GENERAL 23/2022 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 31 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 21 DEL ACUERDO GENERAL 7/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE AGOSTO DE 2024)</small>
 
-3. Sesenta juzgados de Distrito en la Ciudad de México especializados: cuatro de procesos penales federales, dieciséis de amparo en materia penal, diecisiete en materia administrativa, catorce en materia civil y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
+3. Cincuenta y seis juzgados de Distrito en la Ciudad de México especializados: dieciséis en materia penal, diecisiete en materia administrativa, catorce en materia civil y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
 
 > <small>(REFORMADO POR EL ARTÍCULO 15 DEL ACUERDO GENERAL 28/2020 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2020)</small>
 
@@ -173,9 +173,9 @@ III. TERCER CIRCUITO:
 
 2. Dos tribunales colegiados de apelación con residencia en Zapopan.
 
-> <small>(REFORMADO POR EL ARTÍCULO 7 DEL ACUERDO GENERAL 19/2023 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 22 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 17 DEL ACUERDO GENERAL 10/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE AGOSTO DE 2024)</small>
 
-3. Treinta y un juzgados de Distrito especializados: nueve de amparo en materia penal, tres con residencia en Zapopan y seis con sede en Puente Grande; diecinueve en materias administrativa, civil y de trabajo, con residencia en el municipio de Zapopan; y tres de procesos penales federales con residencia en Puente Grande.
+3.Treinta y un juzgados de Distrito especializados: siete en materia penal con residencia en Puente Grande; ocho en materia administrativa, siete con residencia en Zapopan y uno con sede en Puente Grande; ocho en materia civil con residencia en Zapopan; y ocho en materia de trabajo, siete con sede en Zapopan y uno con residencia en Puente Grande.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2017)</small>
 
@@ -11162,3 +11162,37 @@ CUARTO. La Secretaría Ejecutiva de Administración, a través de las unidades a
 QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los mencionados Tribunales Laborales Federales de asuntos individuales en el Estado de Baja California, con sede en Tijuana.
 
 SEXTO. La Dirección General de Gestión Judicial, en coordinación con la Dirección General de Tecnologías de la Información, instrumentarán los cambios necesarios en el sistema de cómputo de la Oficina de Correspondencia Común y del Sistema Integral de Gestión de Expedientes, para el turno y trámite de los asuntos que le correspondan al Tercer Tribunal Laboral Federal de asuntos individuales en el Estado de Baja California, con sede en Tijuana.
+
+D.O.F. 30 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 7/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DE LOS JUZGADOS DE DISTRITO DE PROCESOS PENALES FEDERALES EN LA CIUDAD DE MÉXICO, CON SEDE EN LOS RECLUSORIOS NORTE Y ORIENTE, Y DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA SERVICIO; AL CAMBIO DE DENOMINACIÓN Y AMPLIACIÓN DE COMPETENCIA DE LOS JUZGADOS DE DISTRITO DE AMPARO EN MATERIA PENAL EN LA CIUDAD DE MÉXICO, Y DE LA OFICINA DE CORRESPONDENCIA COMÚN QUE LES PRESTA SERVICIO; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración y Creación de Nuevos Órganos y la Dirección General de Gestión Judicial llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+CUARTO. El Instituto Federal de Defensoría Pública, en el ámbito de su competencia, adoptará las medidas necesarias que se relacionen con el cumplimiento de este Acuerdo.
+
+QUINTO. Las Oficinas de Correspondencia Común de los Juzgados de Distrito de Procesos Penales Federales, con sede en los Reclusorios Norte y Oriente; la Oficina de Correspondencia Común de los Juzgados de Distrito de Amparo en Materia Penal en la Ciudad de México, y los Juzgados de Distrito a los que les prestan servicio, colocarán avisos en lugar visible de sus accesos, informando al público lo determinado en el presente Acuerdo.
+
+SEXTO. Las Direcciones Generales de Tecnologías de la Información, y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los Juzgados de Distrito en Materia Penal en la Ciudad de México.
+
+D.O.F. 30 DE AGOSTO DE 2024.
+
+ACUERDO GENERAL 10/2024 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE DENOMINACIÓN DE LOS JUZGADOS DECIMOTERCERO, DECIMOCUARTO, DECIMOQUINTO, DECIMOSEXTO, DECIMOSÉPTIMO Y DECIMOCTAVO DE DISTRITO EN MATERIAS ADMINISTRATIVA, CIVIL Y DE TRABAJO, CON RESIDENCIA EN ZAPOPAN Y JUZGADOS SEGUNDO Y NOVENO DE DISTRITO DE AMPARO EN MATERIA PENAL, UNO CON RESIDENCIA EN ZAPOPAN Y OTRO CON SEDE EN PUENTE GRANDE, TODOS EN EL ESTADO DE JALISCO, E INICIO DE FUNCIONES COMO JUZGADOS PRIMERO, SEGUNDO, TERCERO, CUARTO, QUINTO, SEXTO, SÉPTIMO Y OCTAVO DE DISTRITO EN MATERIA DE TRABAJO EN EL MISMO ESTADO, LOS PRIMEROS SIETE CON RESIDENCIA EN ZAPOPAN Y EL ÚLTIMO CON SEDE EN PUENTE GRANDE, RESPECTIVAMENTE; ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS; Y QUE REFORMA EL SIMILAR 3/2013, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO, LOS TRIBUNALES COLEGIADOS DE APELACIÓN Y LOS JUZGADOS DE DISTRITO.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Las Secretarías Ejecutivas de Administración, y de Creación de Nuevos Órganos, así como las Direcciones Generales de Recursos Humanos, Gestión Judicial, Estadística Judicial y de Tecnologías de la Información, en el ámbito de sus competencias, llevarán a cabo las acciones necesarias para la ejecución del presente Acuerdo.
+
+CUARTO. La Oficina de Correspondencia Común de los Juzgados de Distrito en Materia de Trabajo en el Estado de Jalisco, con residencia en Zapopan, colocará avisos en lugar visible de su acceso, informando al público lo determinado en el presente Acuerdo.
+
+QUINTO. Las Direcciones Generales de Tecnologías de la Información y de Gestión Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado de recepción y distribución de asuntos que se presenten en la Oficina de Correspondencia Común que dará servicio a los Juzgados de Distrito en Materia de Trabajo en el Estado de Jalisco.
+
+SEXTO. La Coordinación de Administración Regional brindará todo el apoyo a los órganos jurisdiccionales para el traslado y recepción de los expedientes, y de sus anexos. Asimismo, para el traslado de los asuntos que corresponda conocer al ahora denominado Juzgado Octavo de Distrito en Materia de Trabajo en el Estado de Jalisco, con residencia en Puente Grande.
+
+SÉPTIMO. El cambio de denominación y competencia de los órganos jurisdiccionales de que se trata se realizará respetando los derechos laborales de las personas servidoras públicas, para lo cual la Dirección General de Recursos Humanos del Consejo de la Judicatura Federal, instrumentará las acciones administrativas correspondientes.
