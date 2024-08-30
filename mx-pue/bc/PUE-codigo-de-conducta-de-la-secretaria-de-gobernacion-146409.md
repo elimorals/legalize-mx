@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-conducta-de-la-secretaria-de-gobernacion-146409"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-01-19"
-last_updated: "2021-01-19"
+last_updated: "2024-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE GOBERNACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBERNACIÓN DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 30 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBERNACIÓN DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2024 (ABROGADO).
 
 Código publicado en la Quinta Sección del Número 12 del Periódico Oficial del Estado de Puebla, el martes 19 de enero de 2021.
 
@@ -600,3 +602,15 @@ El Comité de Ética y Prevención de Conflictos de Interés, es la instancia en
 El incumplimiento a lo establecido en el presente Código de Conducta, se hará del conocimiento al Órgano Interno de Control y podrá dar lugar a los procedimientos administrativos correspondientes, apegados a los lineamientos establecidos.
 
 Fecha de actualización: Noviembre de 2020. Fecha de Aprobación: 27 de Noviembre de 2020. Segunda Sesión Ordinaria del Comité de Ética y Prevención de Conflictos de Interés. La Coordinadora General de Administración. Presidenta del Comité. C MYRNA ZALDÍVAR MENDÍVIL. Rúbrica. La Directora de Recursos Financieros. Secretaria Ejecutiva. C. ANGÉLICA MARÍA RUEDA OROZCO. Rúbrica. La Subsecretaria de Prevención del delito y Derechos Humanos. Vocal. C. RAQUEL MEDEL VALENCIA. Rúbrica. El Director General de Construcción de Ciudadanía y Participación Social. Vocal. C. JEAN CARLO TOXQUI TECUANHUEY. Rúbrica. El Subdirector de Enlace Institucional y Atención a Víctimas. Vocal. C. JORGE HERNÁNDEZ AGUILERA. Rúbrica. La Jefa del Departamento de Archivos Municipales. Vocal. C. ROSA MARÍA BÁEZ SÁNCHEZ. Rúbrica. El Analista de Confianza de la Subsecretaría de Prevención del Delito y Derechos Humanos. Vocal. C. NOEL RAFAEL CASTELLANOS GARCÍA. Rúbrica. El Analista de Base de la Subsecretaria de Prevención del Delito y Derechos Humanos. Vocal. C. FRANKLIN DURÁN CORTÉS. Rúbrica. La Analista de Base de la Dirección de Participación Ciudadana de la Subsecretaría de Prevención del Delito y Derechos Humanos. Vocal. C. ANA ARELY GONZÁLEZ ARROYO. Rúbrica. La Personal de lista de raya de la Dirección general del registro civil. Vocal. C. ANA KAREN GARCÍA SANDOVAL. Rúbrica. El Subsecretario Jurídico e Invitado del "CEPCI" C. JOSÉ LUCIANO OSORIO COUTTOLENC. Rúbrica. El Titular del Órgano de Control en la Secretaría de Gobernación e Invitado de (sic) del "CEPCI". C, ERNESTO BUENO MEZA Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBERNACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente ordenamiento entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se abroga el Código de Conducta de la Secretaría Gobernación, aprobado en la Segunda Sesión Ordinaria de fecha veintisiete de noviembre de dos mil veinte, del Comité de Ética y Prevención de Conflictos de Interés, publicado en el Periódico Oficial del Estado, el día diecinueve de marzo de dos mil veinte.
+
+TERCERO. Se instruye al Comité de Ética y Prevención de Conflictos de Interés de la Secretaría Gobernación, su difusión a toda persona servidora pública de esta dependencia.
