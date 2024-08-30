@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-someter-a-la-aprobacion-del-comite-de-85286"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-01-26"
-last_updated: "2012-01-26"
+last_updated: "2024-08-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85286&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2012-01-25"
 ---
 # REGLAMENTO PARA SOMETER A LA APROBACION DEL COMITE DE PLANEACION DEL DESARROLLO DEL DISTRITO FEDERAL, LA CREACION Y OPERACION DE PROGRAMAS DE DESARROLLO SOCIAL QUE OTORGUEN SUBSIDIOS, APOYOS Y AYUDAS A LA POBLACION DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA COMISIÓN COORDINADORA DEL SISTEMA GENERAL DE BIENESTAR SOCIAL, PUBLICADO EN LA G.O. DE 30 DE AGOSTO DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA SOMETER A LA APROBACIÓN DEL COMITÉ DE PLANEACIÓN DEL DESARROLLO DEL DISTRITO FEDERAL, LA CREACIÓN Y OPERACIÓN DE PROGRAMAS DE DESARROLLO SOCIAL QUE OTORGUEN SUBSIDIOS, APOYOS Y AYUDAS A LA POBLACIÓN DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE AGOSTO DE 2024 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 26 de enero de 2012.
 
@@ -323,3 +325,21 @@ Tercero.- El titular de la Secretaría de Desarrollo Social fungirá como Presid
 Cuarto.- El Secretario actualmente designado por el Pleno del Comité seguirá en sus funciones hasta en tanto no se haga nueva designación.
 
 Dado en la Ciudad de México, a los veinticinco días del mes de enero de dos mil doce.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, MARCELO LUIS EBRARD CASAUBON.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ ÁNGEL ÁVILA PÉREZ.- FIRMA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, FELIPE LEAL FERNÁNDEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, MARTHA TERESA DELGADO PERALTA.- FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, FERNANDO JOSÉ ABOITIZ SARO.- FIRMA.- EL SECRETARIO DE FINANZAS, ARMANDO LÓPEZ CÁRDENAS.- FIRMA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, RAÚL ARMANDO QUINTERO MARTÍNEZ.- FIRMA.- EL SECRETARIO DE PROTECCIÓN CIVIL, ELÍAS MIGUEL MORENO BRIZUELA.- FIRMA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, MANUEL MONDRAGÓN Y KALB.- FIRMA.- LA SECRETARIA DE DESARROLLO ECONÓMICO, LAURA VELÁZQUEZ ALZÚA.- FIRMA.- EL SECRETARIO DE DESARROLLO SOCIAL, JESÚS VALDÉS PEÑA.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO AHUED ORTEGA.- FIRMA.- LA SECRETARIA DE CULTURA, ELENA CEPEDA DE LEÓN.- FIRMA.- EL DIRECTOR GENERAL DE PROGRAMAS ESTRATÉGICOS DE LA SECRETARÍA DE TURISMO, POR AUSENCIA DE SU TITULAR, RICARDO VILLALPANDO OCHOA.- FIRMA.- EL SECRETARIO DE TRABAJO Y FOMENTO AL EMPLEO, BENITO MIRÓN LINCE.- FIRMA.- EL SECRETARIO DE EDUCACIÓN, MARIO MARTÍN DELGADO CARRILLO.- FIRMA.- LA SECRETARIA DE DESARROLLO RURAL Y EQUIDAD PARA LAS COMUNIDADES, MARÍA ROSA MÁRQUEZ CABRERA.- FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. DE 30 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA COMISIÓN COORDINADORA DEL SISTEMA GENERAL DE BIENESTAR SOCIAL”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+Segundo.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+Tercero.- Se abroga el Reglamento para someter a la aprobación del Comité de Planeación del Desarrollo del Distrito Federal, la creación y operación de Programas de Desarrollo Social que otorguen subsidios, apoyos y ayudas a la población del Distrito Federal, publicado el 26 de enero de 2012 en la Gaceta oficial del -entonces- Distrito Federal no. 1276.
+
+Cuarto.- Los casos que durante el ejercicio fiscal 2024 fueron sometidos al Comité de Planeación para el Desarrollo de la Ciudad de México deberán ser revisados para su aprobación o modificaciones en la Comisión siempre y cuando cuenten con la suficiencia presupuestal emitida por la Secretaría de Administración y Finanzas.
+
+Quinto.- Los casos que durante el ejercicio fiscal 2024 fueron sometidos y aprobados al Consejo de Evaluación de la Ciudad de México deberán presentar el formato de suficiencia presupuestal autorizado por la Secretaría de Administración y Finanzas.
+
+Sexto.- Todos los casos que no entren en lo señalado en los transitorios Cuarto y Quinto deberán someterse para revisión de la Comisión.
