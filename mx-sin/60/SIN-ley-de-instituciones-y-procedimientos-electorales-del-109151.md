@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2023-01-20"
+last_updated: "2024-08-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -47,9 +47,11 @@ LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y de observancia general en el Estado de Sinaloa, para las y los ciudadanos sinaloenses que ejerzan sus derechos político-electorales en territorio estatal, y tiene por objeto reglamentar las normas constitucionales locales relativas a las instituciones políticas y la función del Estado en la organización de los procesos electorales para elegir a los integrantes de los Poderes Legislativo y Ejecutivo del Estado, así como de los Ayuntamientos.
+La presente ley es de orden público y de observancia general en el Estado de Sinaloa, para las y los ciudadanos sinaloenses que ejerzan sus derechos político-electorales en territorio estatal, así como para las y los que residan en el extranjero, quienes emitirán su voto únicamente en la elección de Gobernador o Gobernadora del Estado; y tiene por objeto reglamentar las normas constitucionales locales relativas a las instituciones políticas y la función del Estado en la organización de los procesos electorales para elegir a los integrantes de los Poderes Legislativo y Ejecutivo del Estado, así como de los Ayuntamientos.
 
 ###### Artículo 2.
 
@@ -137,6 +139,10 @@ Es derecho de las y los ciudadanos ser votado para todos los cargos de elección
 
 Los derechos político-electorales, se ejercerán libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+Las y los ciudadanos sinaloenses que residan en el extranjero tendrán derecho a emitir el sufragio únicamente en la elección de Gobernador o Gobernadora del Estado, de conformidad con lo dispuesto en la Constitución, en la Constitución Estatal, en la Ley General de Instituciones y Procedimientos Electorales, en esta Ley y en los reglamentos y/o lineamientos que en su caso expida el Consejo General, quien para tal efecto podrá suscribir convenio con el Instituto Nacional Electoral, a partir del cual establecerá las modalidades para la recepción de este tipo de sufragios.
+
 ###### Artículo 5.
 
 Es obligación de las y los ciudadanos integrar las mesas directivas de casilla en los términos de esta ley.
@@ -158,6 +164,34 @@ En cada distrito electoral el sufragio se emitirá en la sección electoral que 
 ###### Artículo 7.
 
 Las elecciones de la Gubernatura, Diputaciones, Presidencias Municipales, Síndico Procurador y Regidurías, se realizarán mediante elecciones libres, auténticas y periódicas a través del sufragio universal, libre, secreto y directo, en los términos que disponen la Constitución Estatal y esta ley.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+Las y los sinaloenses residentes en el extranjero, podrán ejercer su derecho al sufragio exclusivamente en la elección de Gobernador o Gobernadora, de conformidad con lo dispuesto en los artículos 10, fracción I párrafo segundo de la Constitución Estatal y 329 de la Ley General de Instituciones y Procedimientos Electorales.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+Para ejercer su derecho al voto, las y los sinaloenses residentes en el extranjero, deberán satisfacer los requisitos a que se refiere el artículo 6 de esta ley, lo que deberán acreditar ante el Instituto y, en su caso, ante el Instituto Nacional Electoral. La credencial para votar deberá corresponder al Estado de Sinaloa; y deberá solicitar su inscripción en el listado nominal de los ciudadanos residentes en el extranjero que lleva el Instituto Nacional Electoral.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+El listado nominal de los ciudadanos residentes en el extranjero es la relación de ciudadanos elaborada por el Registro Federal de Electores, con los nombres de los ciudadanos y las ciudadanas cuya solicitud de inscripción hubiera sido aprobada por el Instituto y el Instituto Nacional Electoral, mediante el convenio previsto en esta ley.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+Concluido el proceso electoral, cesará la vigencia de las listas nominales de electores residentes en el extranjero. La Dirección Ejecutiva del Registro Federal de Electores procederá a reinscribir a los ciudadanos en ellas registrados, en la lista nominal de electores de la sección electoral que les corresponda por su domicilio en México.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 30 DE AGOSTO DE 2024)</small>
+
+El Instituto proveerá lo necesario para que al menos ciento ochenta días antes del inicio del proceso electoral, las y los sinaloenses radicados en el extranjero puedan solicitar su inscripción en el listado nominal de los ciudadanos residentes en el extranjero, por cualquiera de los siguientes medios:
+
+I. Personalmente en las oficinas del Instituto Nacional Electoral;
+
+II. Personalmente en las embajadas y consulados mexicanos del país de su residencia;
+
+III. Por vía remota electrónica; y
+
+IV. Por vía remota postal.
 
 Las elecciones ordinarias locales se celebrarán el primer domingo de junio del año que corresponda, de conformidad con la Constitución, las Leyes Generales en la materia, la Constitución Estatal y esta ley. La fecha en que éstas se verifiquen será concurrente con la que la Constitución señale para las elecciones ordinarias federales.
 
@@ -264,6 +298,14 @@ La demarcación territorial de los Distritos Electorales Uninominales en que se 
 ###### Artículo 12.
 
 El ejercicio del Poder Ejecutivo se deposita en un ciudadano que se denomina Gobernador Constitucional del Estado, electo por mayoría relativa y mediante voto directo en todo el Estado para un periodo de seis años.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+Las y los sinaloenses radicados en el extranjero podrán emitir su voto en la elección de Gobernador o Gobernadora sujetándose a las disposiciones de la presente Ley, la Ley General de Instituciones y Procedimientos Electorales, así como a los lineamientos y acuerdos que con apego a ellas y a la Constitución y la Constitución Estatal, emitan el Instituto y el Instituto Nacional Electoral.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+Para efecto de esa elección se considerarán como emitidos dentro de la circunscripción única estatal, los sufragios de las y los sinaloenses que residan y emitan su voto en el extranjero.
 
 ###### Artículo 13.
 
@@ -1195,9 +1237,11 @@ Las aportaciones de bienes muebles o inmuebles deberán destinarse únicamente p
 
 Los partidos políticos podrán establecer en instituciones bancarias domiciliadas en México cuentas, fondos o fideicomisos para la inversión de sus recursos líquidos, a fin de obtener rendimientos financieros, sujetos a las reglas y verificaciones establecidas en la Ley General de Partidos Políticos.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 66.
 
-(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2020)
+Los partidos políticos, coaliciones o candidatos independientes no deberán, en ningún caso y por ninguna circunstancia, utilizar recursos provenientes de financiamiento público o privado, en cualquiera de sus modalidades, para financiar actividades ordinarias o de proselitismo en el extranjero.
 
 ### Capítulo IX. Del Acceso de los Partidos Políticos a los Medios de Comunicación Social
 
@@ -1941,11 +1985,13 @@ III. Garantizar la ministración oportuna del financiamiento público a que tien
 
 IV. Desarrollar y ejecutar los programas de educación cívica en la entidad que incluyan la paridad de género y el respeto a los derechos humanos de las mujeres en el ámbito político electoral;
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2024)</small>
 
-V. Orientar a la ciudadanía en la entidad para el ejercicio y protección de sus derechos y el cumplimiento de sus obligaciones político-electorales;
+V. Orientar a la ciudadanía en la entidad, así como a los sinaloenses radicados en el extranjero, respecto al ejercicio y protección de sus derechos y el cumplimiento de sus obligaciones político-electorales;
 
-VI. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral;
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+VI. Llevar a cabo las actividades necesarias para la preparación de la jornada electoral y las relativas al voto de las y los sinaloenses radicados en el extranjero;
 
 VII. Imprimir los documentos y producir los materiales electorales, en términos de los lineamientos que al efecto emita el Instituto Nacional Electoral;
 
@@ -2029,7 +2075,25 @@ XVIII. Enviar a las instancias correspondientes el expediente relativo a la elec
 
 XIX. Aprobar los formatos de la documentación electoral, conforme a los lineamientos que emita el Instituto Nacional Electoral;
 
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+XIX Bis. Aprobar en coordinación con el Instituto Nacional Electoral, el formato de boleta electoral impresa y el de boleta electrónica que utilizarán los y las sinaloenses residentes en el extranjero para la elección de Gobernador o Gobernadora del Estado; los formatos de actas de escrutinio y cómputo; las herramientas y materiales que se requieran para el ejercicio del voto electrónico, así como el instructivo; y los demás documentos y materiales electorales para la recepción de dichos votos.
+
+Las boletas deberán llevar la leyenda "voto de sinaloenses residentes en el extranjero".
+
 XX. Celebrar convenios con autoridades federales, estatales y municipales u otras instancias, para el mejor desarrollo del proceso electoral;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+XX Bis. Celebrar convenio con el Instituto Nacional Electoral para la instrumentación del voto de los y las sinaloense (sic) residentes en el extranjero;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+XX Bis A. Aprobar normas y reglamentos para el empleo de sistemas e instrumentos tecnológicos de votación en el territorio del Estado, así como para facilitar el voto de las y los sinaloenses residentes en el extranjero, ajustándose a los lineamientos que en la materia emita el Instituto Nacional Electoral;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+XX Bis B. Difundir los plazos y términos para que las y los sinaloenses residentes en el extranjero soliciten su inscripción en el listado nominal de los ciudadanos residentes en el extranjero, la lista de votantes sinaloenses;
 
 XXI. Celebrar convenios con los medios impresos de comunicación, para la cesión gratuita de espacios que pudieran asignarse equitativamente a los partidos políticos y candidatos independientes en las campañas electorales;
 
@@ -2046,6 +2110,10 @@ XXIV Bis. Recibir supletoriamente las manifestaciones de intención de ciudadano
 XXV. Desahogar las dudas que se presenten sobre la aplicación e interpretación de esta ley;
 
 XXVI. El Consejo General podrá designar de entre sus miembros, todas las Comisiones que considere necesarias, precisando las funciones de cada una de ellas, considerando entre éstas informar oportunamente a la sociedad sobre los acuerdos y disposiciones que en su interior se generen, así como contribuir a la difusión de la cultura cívica y de participación ciudadana;
+
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+XXVI Bis. Designar de entre sus miembros una Comisión que se encargará de planificar y coordinar los estudios, estadísticas, gestiones, propuestas y acciones orientadas a promover, incentivar y recabar el voto de los y las sinaloenses que residan en el extranjero;
 
 XXVII. Nombrar a o al titular de la Secretaría Ejecutiva del Consejo a propuesta de la Presidencia;
 
@@ -2083,11 +2151,27 @@ XXXIX. Formular solicitud expresa al Instituto Nacional Electoral para que asuma
 
 XL. Todas las demás que le sean delegadas por Instituto Nacional Electoral y las que le confieran ésta y otras leyes y disposiciones complementarias.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 146 Bis.
 
-Conforme a la fracción III del artículo anterior, las Titulares o Titulares de las Consejerías y Presidencias de los Consejos Electorales Municipales y Distritales, podrán ser sancionados por incurrir en alguna de las siguientes causas:
+La Comisión a que se refiere la fracción XXVI Bis del artículo anterior se instalará a más tardar durante el mes de enero del año anterior al de la jornada electoral; en ella participarán los representantes de los partidos políticos; y tendrá como atribuciones el proponer al Consejo General del Instituto:
+
+a). Los proyectos de convenio que sean necesarios para organizar y celebrar la elección de Gobernador o Gobernadora del Estado en el extranjero;
+
+b). Los proyectos de reglamento, lineamientos, acuerdos, procedimientos, documentación y materiales y demás insumos, para someterlos a la aprobación del Consejo General y de las áreas que correspondan del Instituto Nacional Electoral;
+
+c). Recabar y mantener actualizada la estadística relativa a la cantidad de ciudadanas y ciudadanos sinaloenses radicados en el extranjero, clasificada por países de destino, así como la de su participación histórica en los procesos electorales;
+
+d). Utilizar el sistema electrónico que habilite el Instituto Nacional Electoral, para hacer constar los resultados en las actas de la elección de Gobernador o Gobernadora;
+
+e). El proyecto de presupuesto para la instrumentación del voto de los y las sinaloenses residentes en el extranjero, incluyendo el costo de los servicios postales y/o de mensajería que requerirá el Instituto Electoral del Estado de Sinaloa para hacerles llegar la documentación; y en su caso, la estimación del costo de los servicios digitales, tecnológicos, operativos y de promoción, con la oportunidad necesaria para su inclusión en el presupuesto institucional; y
+
+f). Las demás que a juicio del Consejo General resulten necesarias.
+
+> <small>(REFORMADO Y REUBICADO [ANTES ARTÍCULO 146 BIS], P.O. 30 DE AGOSTO DE 2024)</small>
+
+Artículo 146 Bis A. Conforme a la fracción III del artículo 146, las personas titulares de las Consejerías y Presidencias de los Consejos Electorales Municipales y Distritales, podrán ser sancionados por incurrir en alguna de las siguientes causas:
 
 I. Inmiscuirse indebidamente en cuestiones que competan a otros órganos del Instituto;
 
@@ -2103,9 +2187,9 @@ VI. Asentar hechos falsos en las actuaciones o alterarlas, aunque no se cause pe
 
 VII. El incumplimiento de cualquiera de las disposiciones contenidas en la presente Ley, en los Lineamientos que emita el Instituto, y demás disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO Y REUBICADO [ANTES ARTÍCULO 146 BIS A], P.O. 30 DE AGOSTO DE 2024)</small>
 
-Artículo 146 Bis A. Las infracciones señaladas en el artículo 146 Bis serán sancionadas conforme a lo siguiente:
+Artículo 146 Bis B. Las infracciones señaladas en el artículo 146 Bis A serán sancionadas conforme a lo siguiente:
 
 I. Apercibimiento;
 
@@ -2131,9 +2215,9 @@ Se considerará reincidente a la persona infractora que habiendo sido declarada 
 
 El procedimiento sancionador correspondiente se desarrollara sujetándose a los lineamientos que emita el Instituto.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADO Y REUBICADO [ANTES ARTÍCULO 146 BIS B], P.O. 30 DE AGOSTO DE 2024)</small>
 
-Artículo 146 Bis B. Las Titulares o los Titulares de las Consejerías y Presidencias de los Consejos Electorales Distritales y Municipales, podrán ser removidos por el Consejo General, por incurrir en alguna de las siguientes causas:
+Artículo 146 Bis C. Las personas titulares de las Consejerías y Presidencias de los Consejos Electorales Distritales y Municipales, podrán ser removidos por el Consejo General, por incurrir en alguna de las siguientes causas:
 
 I. Realizar conductas que atenten contra la independencia e imparcialidad de la función electoral, o cualquier acción que genere o implique subordinación respecto de terceros;
 
@@ -2161,7 +2245,7 @@ XII. Transgredir de manera grave o reiterada la presente Ley, los Lineamientos, 
 
 Cuando las Presidentas o Presidentes, Consejeras o Consejeros Electorales faltaren injustificadamente a dos sesiones consecutivas del Consejo Distrital o Municipal del que forme parte, se procederá conforme a lo señalado en el artículo 150 de la presente Ley, llamando al suplente en orden de prelación.
 
-Si las Presidentas o Presidentes, Consejeras o Consejeros Electorales Distrital o Municipal consideran que hubo alguna afectación a sus derechos, podrá acudir a la Comisión de Quejas respectiva a efecto de que ésta revise el procedimiento descrito en el párrafo anterior.
+Si las Presidentas o Presidentes, Consejeras o Consejeros Electorales Distritales o Municipales consideran que hubo alguna afectación a sus derechos, podrán acudir al órgano interno de control del Instituto, a efecto de que éste revise el procedimiento descrito en el párrafo anterior.
 
 ###### Artículo 147.
 
@@ -2812,6 +2896,14 @@ Los partidos políticos, precandidatos y simpatizantes están obligados a retira
 En todo caso los poseedores o propietarios de los espacios comerciales donde se fije, coloque o pinte propaganda electoral, en el convenio suscrito con el partido político, coalición o candidato independiente deberán comprometerse de retirar la propaganda en el término señalado en el numeral anterior.
 
 Cualquier infracción a las disposiciones relativas, a la propaganda electoral será sancionada en los términos de esta ley y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 30 DE AGOSTO DE 2024)</small>
+
+###### Artículo 186 Bis.
+
+Los partidos políticos y coaliciones y sus candidaturas a Gobernador o Gobernadora, así como las candidaturas independientes al mismo cargo, no podrán realizar precampañas ni campañas electorales en el extranjero; en consecuencia no deberán desarrollar, durante los procesos electorales o fuera de ellos, actividades o actos de propaganda electoral, ni contratar medios de comunicación para la promoción del proceso o de algún partido o candidato en el extranjero.
+
+La desobediencia a lo establecido en este artículo podrá ser denunciada por escrito por los partidos políticos ante el Consejo General del Instituto, mediante queja, a la que se acompañen las probanzas de que dispongan, debidamente autenticadas por autoridad competente del lugar en el que se desarrollen los hechos denunciados.
 
 ### Capítulo V. Del Procedimiento para el Registro de Candidatos
 
@@ -3775,7 +3867,13 @@ II. Se continuará con la elección de la Gubernatura, bajo el siguiente procedi
 
 a) Se tomará nota de los resultados que consten en cada una de las actas de cómputo distrital de esta elección;
 
-b) La suma de los resultados constituirá el cómputo estatal de la elección de la Gubernatura y se asentará en el acta correspondiente.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 30 DE AGOSTO DE 2024)</small>
+
+b) Se agregarán los resultados de la votación de las y los sinaloenses radicados en el extranjero; y
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 30 DE AGOSTO DE 2024)</small>
+
+c) La suma de los resultados de los incisos anteriores constituirá el cómputo estatal de la elección de la Gubernatura y se asentará en el acta correspondiente.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
@@ -3899,9 +3997,21 @@ V. La realización anticipada de actos de precampaña o campaña atribuible a lo
 
 VI. Exceder los topes de gastos de campaña;
 
-VII. La realización de actos de precampaña o campaña fuera del territorio del Estado, cuando se acredite plenamente que se hizo con consentimiento de aquéllos, sin perjuicio de que se determine la responsabilidad de quien hubiese cometido la infracción;
+> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2024)</small>
 
-VIII. El incumplimiento de las demás disposiciones previstas en esta ley y demás disposiciones jurídicas aplicables en materia de precampañas y campañas electorales;
+VI Bis. La utilización de recursos provenientes del financiamiento público o privado, en cualquiera de sus modalidades, para financiar actividades ordinarias o de proselitismo en el extranjero;
+
+> <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2024)</small>
+
+VII. La realización de actos de precampaña o de campaña fuera del territorio del Estado, incluyendo los que se realicen en el extranjero, cuando se acredite plenamente que se hizo con consentimiento de aquéllos, sin perjuicio de que se determine la responsabilidad de quien hubiese cometido la infracción;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE AGOSTO DE 2024)</small>
+
+VIII. El desarrollo durante los procesos electorales o fuera de ellos, de actividades o actos de propaganda electoral, y/o la contratación de medios de comunicación para la promoción del proceso o de algún partido o candidato en el extranjero;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE AGOSTO DE 2024)</small>
+
+VIII Bis. El incumplimiento de las demás disposiciones previstas en esta ley y demás disposiciones jurídicas aplicables en materia de precampañas y campañas electorales;
 
 IX. La contratación, en forma directa o por terceras personas, de tiempo en cualquier modalidad en radio o televisión;
 
@@ -4922,3 +5032,23 @@ P.O. 20 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 379 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO FAMILIAR, DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES, DE LA LEY DEL SISTEMA DE MEDIOS DE IMPUGNACIÓN EN MATERIA ELECTORAL Y DE PARTICIPACIÓN CIUDADANA Y DE LA LEY DE GOBIERNO MUNICIPAL, TODAS DEL ESTADO DE SINALOA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 871 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones relacionadas con el voto de las y los sinaloenses residentes en el extranjero, serán aplicables a partir del proceso electoral 2026-2027; siempre y cuando el Instituto Electoral del Estado de Sinaloa cuente con los instrumentos necesarios validados por el Instituto Nacional Electoral.
+
+###### ARTÍCULO TERCERO.
+
+El Instituto Electoral del Estado de Sinaloa deberá incluir en los proyectos de presupuesto de egresos correspondientes a los ejercicios 2026 y 2027, las partidas presupuestales necesarias para instrumentar el voto de las y los sinaloenses residentes en el extranjero.
+
+###### ARTÍCULO CUARTO.
+
+El Instituto Electoral del Estado de Sinaloa contará con un plazo de ciento ochenta días hábiles, contados a partir de la fecha en que designe a la Comisión a que se refiere la fracción XXVI Bis del artículo 146 reformado con el presente decreto, para adecuar y aprobar la normatividad interna, así como la estructura orgánica y funcional, que se requieran para hacer efectivo el derecho al sufragio que corresponde a las y los sinaloenses radicados en el extranjero, sujetándose a los principios de racionalidad, austeridad y eficacia previstos para el ejercicio del gasto público.
