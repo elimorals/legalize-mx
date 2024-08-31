@@ -4,7 +4,7 @@ identifier: "COL-ley-de-desarrollo-rural-sustentable-del-estado-de-colima-96836"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2022-09-03"
+last_updated: "2024-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 07 de diciembre de 2013.
 
@@ -381,7 +381,9 @@ XVI. Promover y fomentar la asesoría y asistencia técnica, jurídica, financie
 
 XVII. Promover y fomentar esquemas de financiamiento para impulsar proyectos productivos de bienes y servicios agropecuarios en el Estado;
 
-XVIII. Impulsar y apoyar la generación, transferencia y adopción de tecnología en las actividades agropecuarias;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+XVIII. Impulsar y apoyar la generación, transferencia y adopción de tecnología en las actividades agropecuarias, cuidando no dañar el medio ambiente o que altere los procesos de fenómenos atmosféricos y otros procesos acordes a la agroproducción;
 
 XIX. Implementar las medidas de control de sanidad, inocuidad y calidad agropecuaria, de acuerdo a las disposiciones federales y estatales aplicables;
 
@@ -1690,3 +1692,9 @@ P.O. 3 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 134.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 136 SEGUNDO PÁRRAFO, 137, 138 PRIMER PÁRRAFO, 139, 141, 142 Y 143 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 31 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 482.- POR EL QUE SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 16 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
