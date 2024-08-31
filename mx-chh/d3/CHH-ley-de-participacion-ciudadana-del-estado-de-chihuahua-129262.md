@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-participacion-ciudadana-del-estado-de-chihuahua-129262"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-23"
-last_updated: "2021-10-23"
+last_updated: "2024-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129262&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 23 de junio de 2018.
 
@@ -383,11 +383,13 @@ V. La pregunta a formularse en el instrumento de participación ciudadana.
 
 VI. La fecha para realizar la jornada de participación ciudadana.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 32.
 
-Las jornadas de participación ciudadana podrán verificarse simultáneamente con una jornada electoral de cargos de representación popular, siempre y cuando se soliciten a más tardar ciento ochenta días naturales antes de la jornada electoral.
+Las jornadas de votación de los instrumentos de participación ciudadana se efectuarán en fecha posterior y no coincidente con los procesos electorales locales o federales.
 
-Las jornadas de participación ciudadana o las votaciones en instrumentos de participación ciudadana solicitadas en año no electoral o treinta días después de la jornada electoral, se verificarán dentro de los noventa días naturales siguientes de la emisión de la convocatoria.
+Las jornadas de participación ciudadana o las votaciones en instrumentos de participación ciudadana solicitadas en año no electoral o treinta días después de la jornada electoral, se verificarán dentro de los tres meses siguientes de la emisión de la convocatoria.
 
 ###### Artículo 33.
 
@@ -573,9 +575,11 @@ III. Las Presidencias Municipales.
 
 IV. Las Sindicaturas.
 
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 54.
 
-Podrá solicitar la revocación de mandato de quien ocupe la titularidad del Poder Ejecutivo del Estado, al menos el cinco por ciento de la ciudadanía registrada en la Lista Nominal del Estado.
+Podrá solicitar la revocación de mandato de quien ocupe la titularidad del Poder Ejecutivo del Estado, un número equivalente, al menos, al diez por ciento de la lista nominal del Estado, en la mitad más uno de los municipios de la Entidad.
 
 ###### Artículo 55.
 
@@ -599,7 +603,9 @@ Tratándose de diputaciones por el principio de representación proporcional, de
 
 Dicho resultado será vinculante para:
 
-I. La persona titular del Poder Ejecutivo Estatal, cuando voten a favor de revocar el mandato al menos un treinta y cinco por ciento de la Lista Nominal estatal.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+I. La persona Titular del Poder Ejecutivo Estatal, cuando la participación corresponda como mínimo al cuarenta por ciento de la lista nominal del Estado, y la votación sea por mayoría absoluta.
 
 II. Diputaciones por el principio de mayoría relativa, cuando voten a favor de revocar el mandato al menos un equivalente al treinta por ciento de la ciudadanía de la Lista Nominal Distrital correspondiente.
 
@@ -627,11 +633,19 @@ Una vez hechas las notificaciones correspondientes, se publicarán en el Periód
 
 Una vez publicados los resultados, el Instituto notificará formalmente al Poder Legislativo o a los Ayuntamientos, según corresponda, a fin de que inicien con el proceso correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2024)</small>
+
 ###### Artículo 60.
 
-El instrumento de revocación de mandato procederá solamente una vez en el periodo para el que fue electo quien ostente la titularidad del Poder Ejecutivo Estatal, de la diputación, de la presidencia municipal o de la sindicatura.
+El instrumento de revocación de mandato podrá llevarse a cabo en una sola ocasión durante el periodo constitucional, mediante votación libre, directa y secreta.
 
-Solo podrá solicitarse y ejecutarse el instrumento a la mitad del mandato.
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2024)</small>
+
+La solicitud de revocación de mandato de quien ocupe la titularidad del Poder Ejecutivo del Estado, deberá plantearse durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional. Y quien asuma el mandato del Poder Ejecutivo revocado concluirá el periodo constitucional.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2024)</small>
+
+La petición de revocación de mandato de la Diputación, de la Presidencia Municipal o de la Sindicatura, solo podrá solicitarse durante los tres meses posteriores a la mitad del mandato.
 
 ### Capítulo Sexto. De los Instrumentos de Participación Social
 
@@ -906,6 +920,14 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL
 P.O. 23 DE OCTUBRE DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVI/RFLEY/1060/2021 XIV P.E., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 76, UNA FRACCIÓN VII, DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVII/RFLEY/0946/2024 XVI P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
