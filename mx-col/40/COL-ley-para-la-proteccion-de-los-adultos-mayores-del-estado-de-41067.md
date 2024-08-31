@@ -4,7 +4,7 @@ identifier: "COL-ley-para-la-proteccion-de-los-adultos-mayores-del-estado-de-410
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-11"
-last_updated: "2023-09-30"
+last_updated: "2024-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41067&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "COL"
 
 LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA EL 30 DE SEPTIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 11 de septiembre de 2004.
 
@@ -663,9 +661,13 @@ Cualquier miembro de la sociedad tiene el deber de auxiliar y apoyar a los adult
 
 La población en general tiene el deber de aceptar a los adultos mayores en las actividades sociales, económicas y políticas de la comunidad, evitando su marginación o discriminación, o hacerlos objeto de burla, de abuso o simple indiferencia, para lo cual el DIF Estatal y Municipal en coordinación con el Instituto y con la participación de las dependencias y entidades del Estado, diseñarán e instrumentarán programas y campañas permanentes de cortesía urbana y respeto hacia los adultos mayores debiéndose difundir las mismas en los medios masivos de comunicación existentes en la Entidad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2019)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 36.
+
+Se entenderá por violencia contra las personas adultas mayores, cualquier acción u omisión que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el Público.
+
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2019)</small>
 
 Cuando algún ciudadano cometa cualquier acto de discriminación, abuso, explotación, aislamiento, o violencia en contra de un adulto mayor, que ponga en riesgo su persona y derechos, será sancionado conforme a la Ley.
 
@@ -1382,3 +1384,9 @@ P.O. 16 DE SEPTIEMBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 31 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 488.- POR EL QUE SE ADICIONA UN PRIMER PÁRRAFO AL ARTÍCULO 36, DE LA LEY PARA LA PROTECCIÓN DE LOS ADULTOS MAYORES DEL ESTADO DE COLIMA Y SE HACE EL CORRIMIENTO SUBSECUENTE DE LOS PÁRRAFOS”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
