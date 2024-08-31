@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2024-05-15"
+last_updated: "2024-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -1820,6 +1820,10 @@ VI. Fortalecer la actitud creativa que fomente el autoempleo y la creación de e
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 2010)</small>
 
 VII. Promover permanentemente y de manera transversal, en la currícula establecida, programas educativos que propicien la consolidación y el desarrollo de una cultura que permita participar activamente en el desarrollo sustentable de la Entidad.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+VIII. Facilitar la integración al mercado laboral de las personas que han dedicado una parte significativa de su vida al cuidado de otras, tanto dentro como fuera del hogar.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4674,3 +4678,15 @@ P.O. 15 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO Nº LXVII/RFLEY/0885/2024 XIII P.E., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 93, LA FRACCIÓN VIII, DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las medidas, disposiciones y previsiones financieras, de ser necesarias a que hubiera lugar, siguiendo los procedimientos aplicables, a fin de cumplir con lo establecido en el presente Decreto.
