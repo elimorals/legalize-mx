@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2024-07-20"
+last_updated: "2024-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -2763,9 +2763,9 @@ I.- Sea cometido por dos o más personas;
 
 II.- Se hiciere uso de violencia física o moral; y
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2024)</small>
 
-III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
+III.- Se utilice la sumisión química.
 
 > <small>(ADICIONADA, P.O.22 DE MAYO DE 2021)</small>
 
@@ -2791,9 +2791,9 @@ Cuando el delito fuere cometido por un servidor público, docente o ministro de 
 
 Si la persona hostigadora fuese servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su empleo, encargo o comisión y se le inhabilitará para desempeñar otro por un lapso igual al de la pena de prisión impuesta, que iniciará una vez que haya compurgado la pena privativa de la libertad.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2024)</small>
 
-Cuando el hostigamiento se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista y en este caso se perseguirá de oficio.
+Cuando el hostigamiento se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, mediante el uso de la sumisión química o por cualquier causa no pueda resistirlo, la pena de prisión se aumentará hasta en una tercera parte de la prevista y en este caso se perseguirá de oficio.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
@@ -2813,7 +2813,9 @@ I.- Si el delito se comete en conjunto por dos o más personas;
 
 II.- Si además hubiese asedio, seguimiento o persecución; y
 
-III.- Si se comete contra una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el significado del hecho o con alguna discapacidad o que por cualquier causa no pueda resistirlo.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+III.- Si se comete contra una persona menor de dieciocho años de edad, o que no tenga la capacidad de comprender el significado del hecho, o con alguna discapacidad, mediante el uso de la sumisión química o que por cualquier causa no pueda resistirlo.
 
 En el último supuesto, el delito se perseguirá de oficio. En los demás casos se procederá contra el responsable a petición de parte.
 
@@ -2855,9 +2857,9 @@ Para los efectos de este artículo, se entiende por cópula, la introducción de
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2024)</small>
 
-247.- Se equipara la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida y actualización.
+247.- Se equipara la violación, la cópula con persona menor de doce años de edad, aun cuando se hubiere obtenido su consentimiento, sea cual fuere su sexo; con persona privada de razón o sentido, mediante el uso de la sumisión química o cuando por enfermedad o cualquiera otra causa no pudiere oponer resistencia. En tales casos, la pena será de diecisiete a veintisiete años de prisión y multa de mil seiscientos a dos mil cien el valor de la unidad de medida y actualización.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
@@ -2921,7 +2923,9 @@ IV. A quien cometa el delito en contra de una persona en situación de vulnerabi
 
 V. A quien cometa el delito contra menores de edad.
 
-VI. A quien con violencia obligue a la víctima a fabricar, hacer el contenido íntimo, sexual o erótico publicado.
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+VI. A quien con violencia obligue a la víctima a fabricar, hacer el contenido íntimo, sexual o erótico publicado o utilice la sumisión química para el mismo fin.
 
 VII. A quien amenace con la publicación o bloqueo de la difusión del contenido a cambio de un nuevo intercambio sexual o económico.
 
@@ -3435,6 +3439,32 @@ Tampoco integran los elementos del cuerpo del delito previstos en el párrafo an
 
 325.- Los ascendientes o tutores que entreguen en una casa de expósitos a un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE AGOSTO DE 2024)</small>
+
+### CAPITULO IX.
+
+Sumisión química.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2024)</small>
+
+325 Bis.- Comete el delito de sumisión química quién sin consentimiento de la víctima o mediante intimidación o engaño obligue, procure, facilite, induzca, propicie o favorezca el consumo de narcóticos, fármacos o cualquier otra sustancia natural o química, con uno o varios de los siguientes propósitos:
+
+I. Manipular, anular o disminuir la voluntad de la víctima;
+
+II. Generar una disminución del grado de vigilancia de la víctima;
+
+III. Vulnerar la capacidad de discernimiento de la víctima, o;
+
+IV. Provocar la completa inconsciencia de la víctima.
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2024)</small>
+
+325 Ter.- A quién cometa el delito de sumisión química se le aplicará de cinco a die (sic) años de prisión y multa de cincuenta a doscientas cincuenta veces el valor diario de la Unidad de Medida y Actualización. Lo anterior, sin perjuicio de las penas que correspondan a otros delitos que se cometiesen sobre la víctima de sumisión química.
+
+Si el autor del delito fuese persona empleada o colaboradora del establecimiento destinado a la venta y consumo de bebidas alcohólicas en donde se cometió el delito de sumisión química, o se tratase de un proveedor de servicios de dicho establecimiento, la pena se aumentará en una mitad.
+
+Si algún empleado o colaborador de un establecimiento destinado a la venta y consumo de bebidas alcohólicas o de un proveedor de servicios de dicho establecimiento, prestare ayuda al autor, coautor o cómplice del delito de sumisión química, la pena se aumentará en una tercera parte.
+
 TITULO DECIMOSEPTIMO.
 
 Delitos contra el honor.
@@ -3683,6 +3713,12 @@ El Estado y los municipios serán solidariamente responsables del pago de los da
 
 (DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR TRANSITORIO CUARTO DE LA LEY PARA PREVENIR, SANCIONAR Y ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VICTIMAS DE ESTOS DELITOS EN EL ESTADO DE OAXACA, P.O. 22 DE JUNIO DE 2012) (REPUBLICADA SU DEROGACIÓN, P.O. 12 DE MAYO DE 2018)
 
+## TITULO DECIMO OCTAVO (SIC).
+
+Delitos contra la libertad y violación de otras garantías.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
+
 ### CAPITULO V.
 
 Trata de personas.
@@ -3696,12 +3732,6 @@ Trata de personas.
 TITULO DECIMONOVENO.
 
 Delitos en contra de las personas en su patrimonio.
-
-## TITULO DECIMO OCTAVO (SIC).
-
-Delitos contra la libertad y violación de otras garantías.
-
-> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2002)</small>
 
 ### CAPITULO I.
 
@@ -4551,6 +4581,64 @@ II. Por instrucciones de quién ejerciendo la patria potestad o por pariente del
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE OCTUBRE DE 2012)</small>
 
+###### ARTÍCULO 388 Bis.
+
+Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
+
+> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
+
+Si el daño se cometiere sobre lienzos, pinturas, murales o cualquier material de difícil o imposible reparación; así como de bienes o monumentos considerados con un valor cultural, histórico, arquitectónico o científico, declarado por autoridad, se sancionará además de la reparación del daño, con multa de cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente o pena privativa de libertad de dos años a seis años.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+En caso de reincidencia la pena se le incrementará hasta un cincuenta por ciento de la que se le haya impuesto en la primera ocasión.
+
+> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
+
+Cuando el daño se cometa en bienes de dominio privado, este delito se perseguirá de oficio.
+
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
+
+389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
+
+## TITULO VIGESIMO.
+
+Encubrimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2024)</small>
+
+390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientas veces la unidad de medida y actualización vigente, al que:
+
+I.- No procure, por los medios lícitos que estén a su alcance, impedir la continuación de los delitos que sepa que van a cometerse, o que se están cometiendo, si son los que se persiguen de oficio;
+
+Quedan exceptuados de pena aquellos que no pueden cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secretos que se le hubiesen confiado en el ejercicio de su profesión o encargo;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+II.- Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la fracción anterior y cuando se trate del cónyuge o pariente del requerido o de personas a quienes este debe respeto gratitud o amistad;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+III.- Impida o dificulte la investigación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este artículo, o
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
+
+IV.- Preste auxilio o cooperación de cualquier especie al autor del delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito, salvo las personas exceptuadas en la fracción II de este artículo.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+Las excusas absolutorias contenidas en las fracciones I, III y IV no serán aplicables cuando se trate de delitos de feminicidio u homicidio doloso de mujeres, la excusa absolutoria prevista en la fracción II no será aplicable en los mismos casos a los parientes por consanguinidad en línea recta ascendente o descendente después del cuarto grado y en la colateral por consanguinidad después del segundo grado, ni a las personas que deben respeto, gratitud o amistad al sujeto activo.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
+
+390 Bis.- La o el Juez teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que señala el artículo 74, podrán imponer en los casos de encubrimiento de delitos de feminicidio u homicidio doloso de mujeres, en lugar de las sanciones señaladas, hasta las dos terceras partes de las penas que correspondería al autor del delito; debiendo hacer constar en la sentencia las razones en que se funda para aplicar la sanción que autoriza este párrafo.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
+## TITULO VIGESIMO PRIMERO.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
+
 ### CAPITULO III.
 
 Feminicidio.
@@ -4615,64 +4703,6 @@ En caso de no tener elementos suficientes del feminicidio, se judicializará por
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE ABRIL DE 2020)</small>
 
-###### ARTÍCULO 388 Bis.
-
-Al que por cualquier sustancia o medio, realice inscripciones, dibujos, manchas, signos, símbolos, códigos, mensajes, figuras y pintas de todo tipo que alteren o modifiquen la forma original del bien mueble o inmueble de dominio público o privado, sin consentimiento del propietario o del representante legal o de quien legalmente posea la cosa, se le impondrá además de la reparación del daño, multa de treinta a trescientas veces el valor de la Unidad de Medida y Actualización vigente o prisión de seis meses a tres años.
-
-> <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2020)</small>
-
-Si el daño se cometiere sobre lienzos, pinturas, murales o cualquier material de difícil o imposible reparación; así como de bienes o monumentos considerados con un valor cultural, histórico, arquitectónico o científico, declarado por autoridad, se sancionará además de la reparación del daño, con multa de cincuenta a quinientas veces el valor de la Unidad de Medida y Actualización vigente o pena privativa de libertad de dos años a seis años.
-
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
-
-En caso de reincidencia la pena se le incrementará hasta un cincuenta por ciento de la que se le haya impuesto en la primera ocasión.
-
-> <small>(ADICIONADO, P.O. 19 DE MAYO DE 2015)</small>
-
-Cuando el daño se cometa en bienes de dominio privado, este delito se perseguirá de oficio.
-
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-389.- Los daños se perseguirán por querella, excepto los previstos en el artículo 388.
-
-## TITULO VIGESIMO.
-
-Encubrimiento.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2024)</small>
-
-390.- Se aplicarán de quince días a dos años de prisión y multa de veinte a quinientas veces la unidad de medida y actualización vigente, al que:
-
-I.- No procure, por los medios lícitos que estén a su alcance, impedir la continuación de los delitos que sepa que van a cometerse, o que se están cometiendo, si son los que se persiguen de oficio;
-
-Quedan exceptuados de pena aquellos que no pueden cumplir tal obligación sin peligro de su persona o intereses, o de la persona o intereses del cónyuge, de algún pariente en línea recta o de la colateral dentro del segundo grado, y los que no puedan ser compelidos por las autoridades a revelar secretos que se le hubiesen confiado en el ejercicio de su profesión o encargo;
-
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
-
-II.- Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes; salvo las excepciones consignadas en la fracción anterior y cuando se trate del cónyuge o pariente del requerido o de personas a quienes este debe respeto gratitud o amistad;
-
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2024)</small>
-
-III.- Impida o dificulte la investigación de los delitos y el castigo de los culpables, salvo los exceptuados en la fracción I de este artículo, o
-
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2024)</small>
-
-IV.- Preste auxilio o cooperación de cualquier especie al autor del delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito, salvo las personas exceptuadas en la fracción II de este artículo.
-
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
-
-Las excusas absolutorias contenidas en las fracciones I, III y IV no serán aplicables cuando se trate de delitos de feminicidio u homicidio doloso de mujeres, la excusa absolutoria prevista en la fracción II no será aplicable en los mismos casos a los parientes por consanguinidad en línea recta ascendente o descendente después del cuarto grado y en la colateral por consanguinidad después del segundo grado, ni a las personas que deben respeto, gratitud o amistad al sujeto activo.
-
-> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2024)</small>
-
-390 Bis.- La o el Juez teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que señala el artículo 74, podrán imponer en los casos de encubrimiento de delitos de feminicidio u homicidio doloso de mujeres, en lugar de las sanciones señaladas, hasta las dos terceras partes de las penas que correspondería al autor del delito; debiendo hacer constar en la sentencia las razones en que se funda para aplicar la sanción que autoriza este párrafo.
-
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
-
-## TITULO VIGESIMO PRIMERO.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JULIO DE 1995)</small>
-
 ### CAPITULO III BIS.
 
 Alteraciones a la Salud por Razón de Género.
@@ -4706,6 +4736,10 @@ III. Cuando la conducta del sujeto activo cause deformidad incorregible en el ro
 Las anteriores sanciones se impondrán con independencia de otros delitos que se llegaren a configurar.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE JUNIO DE 2018)</small>
+
+## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO IV. Discriminación
 
@@ -4766,10 +4800,6 @@ Asimismo, se incrementará en una mitad la pena cuando los actos discriminatorio
 Este delito se perseguirá por querella.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO V. Violencia Política
 
@@ -4967,6 +4997,10 @@ IV.- El sacrificio de un animal vertebrado para consumo humano.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE OCTUBRE DE 2016)</small>
 
+## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
 ### CAPITULO UNICO.. DELITOS CONTRA LA SEGURIDAD INFORMÁTICA Y ELECTRÓNICA
 
 > <small>(ADICIONADO, P.O. 15 DE FEBRERO DE 2020)</small>
@@ -5017,9 +5051,9 @@ III. Cuando los datos o información contenida en un sistema informático o elec
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE OCTUBRE DE 2022)</small>
 
-## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
-> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPITULO UNICO
 
@@ -5206,10 +5240,6 @@ El juez tomará en cuenta para la determinación del daño causado en materia am
 459.- Los delitos del presente Título podrán denunciarse por cualquier persona o por las mismas autoridades ambientales.
 
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MARZO DE 2023)</small>
-
-## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE JULIO DE 2024)</small>
 
 ### CAPITULO UNICO. La esterilización forzada, procreación asistida e inseminación artificial sin consentimiento
 
@@ -6504,3 +6534,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 TERCERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2353.- MEDIANTE EL CUAL SE REFORMAN LA FRACCIÓN III DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 241, EL TERCER PÁRRAFO DEL ARTÍCULO 241 BIS, LA FRACCIÓN III DEL SEGUNDO PÁRRAFO DEL ARTÍCULO 241 TER, EL PRIMER PÁRRAFO DEL ARTÍCULO 247 Y LA FRACCIÓN VI DEL CUARTO PÁRRAFO DEL ARTÍCULO 249; Y SE ADICIONA EL CAPÍTULO IX DENOMINADO "SUMISIÓN QUÍMICA" QUE CONTIENE LOS ARTÍCULO 325 BIS Y 325 TER AL TÍTULO DÉCIMO SEXTO "DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL"; TODOS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
