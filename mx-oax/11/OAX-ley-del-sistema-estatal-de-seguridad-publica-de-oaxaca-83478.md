@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2023-04-22"
+last_updated: "2024-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -81,7 +81,9 @@ La administración, organización y operatividad policial en el territorio del E
 
 Para los efectos de la presente Ley, se entiende por:
 
-I. Academia, a la Academia de Seguridad Pública del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+I. Universidad: A la Universidad de la Seguridad Pública y Paz Social del Estado de Oaxaca.
 
 II. Carrera Ministerial, al Servicio Profesional de Carrera Ministerial;
 
@@ -115,7 +117,9 @@ XIV. Instituciones Policiales, a la Policía Estatal; Cuerpos de Seguridad, Vigi
 
 XV. Instituciones de Procuración de Justicia, a las instituciones del Estado que integran al ministerio público, al Instituto de servicios periciales y demás auxiliares;
 
-XVI. Institutos, a los órganos encargados de la formación; capacitación, adiestramiento y actualización especializada, de las Instituciones de Seguridad Pública del Estado;
+> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+XVI. Institutos y/o academias: A los órganos encargados de la formación; capacitación, adiestramiento y actualización especializada, de las Instituciones de Seguridad Pública del Estado;
 
 XVII. Ley, a la Ley del Sistema Estatal de Seguridad Pública;
 
@@ -945,7 +949,9 @@ El Secretario podrá delegar las facultades necesarias, con excepción de las en
 
 Para el estudio, planeación y despacho de los asuntos que son competencia de la Secretaría, contará cuando menos, con las unidades administrativas y órganos administrativos desconcentrados siguientes:
 
-A. Unidades administrativas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE AGOSTO DE 2024)</small>
+
+A. Unidades Administrativas
 
 I. El Comisionado de la Policía Estatal;
 
@@ -955,7 +961,7 @@ a) Dirección General de Información y Análisis;
 
 b) Dirección General del Centro de Control, Comando y Comunicación;
 
-c) Dirección General del Sistema de Desarrollo Policial
+c) (DEROGADO, P.O. 31 DE AGOSTO DE 2024)
 
 III. Subsecretaría de Prevención y Reinserción Social;
 
@@ -984,6 +990,10 @@ I. Policía Auxiliar, Bancaria, Industrial y Comercial;
 II. Centro de Desarrollo Infantil, y
 
 III. Patronato de Ayuda para la Reinserción Social.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+IV. Universidad de la Seguridad Pública y Paz Social del Estado de Oaxaca.
 
 Asimismo, para el ejercicio de sus funciones, la Secretaría contará con subsecretarios, directores generales, directores, subdirectores, jefes de departamento, personal operativo y demás unidades administrativas subalternas que figuren en las estructuras autorizadas en su presupuesto, cuya adscripción y funciones serán establecidas en sus respectivos reglamentos y, en los demás ordenamientos legales aplicables.
 
@@ -3590,3 +3600,13 @@ P.O. 22 DE ABRIL DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+P.O. 31 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2399.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y XVI DEL ARTÍCULO 7; SE ADICIONA LA FRACCIÓN IV AL APARTADO B DEL ARTÍCULO 46; Y SE DEROGA EL INCISO C) DE LA FRACCIÓN II DEL APARTADO A DEL ARTÍCULO 46, TODOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
