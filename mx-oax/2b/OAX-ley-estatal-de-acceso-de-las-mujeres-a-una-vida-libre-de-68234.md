@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-08-24"
+last_updated: "2024-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -345,11 +345,11 @@ Se prohíbe la aplicación de los mecanismos de mediación, conciliación o alte
 
 ### Capítulo Segundo. En el Ámbito Institucional y Político
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2024)</small>
 
 ###### Artículo 10.
 
-Violencia en el ámbito institucional, son los actos u omisiones de las y los servidores públicos del Estado o los Municipios que discriminen, dilaten, obstaculicen, entorpezcan o impidan el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar la violencia de género en cualquiera de sus tipos y modalidades.
+Violencia en el ámbito institucional, son los actos u omisiones de las y los servidores públicos del Estado o los Municipios que discriminen, utilicen estereotipos de género, dilaten, obstaculicen, entorpezcan o impidan el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar la violencia de género en cualquiera de sus tipos y modalidades.
 
 > <small>(ADICIONADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -3148,5 +3148,15 @@ P.O. 24 DE AGOSTO DE 2024.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 31 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2358.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 10 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, el cual entrará en vigor a partir del día siguiente de su referida publicación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
