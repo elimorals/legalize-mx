@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-08-28"
+last_updated: "2024-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -254,6 +254,14 @@ XII. El principio pro persona.
 XIII. El acceso a una vida libre de violencia.
 
 XIV. La accesibilidad.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+XV. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas, ofendidos o testigos.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+XVI. No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas, ofendidos o testigos.
 
 ###### Artículo 11.
 
@@ -882,6 +890,10 @@ IX. Procurar el desarrollo equitativo de quienes pertenezcan a comunidades indí
 X. Fomentar la participación activa en las escuelas y en su comunidad.
 
 XI. Promover la equidad de género, previniendo la discriminación.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+XII. Fomentar una cultura financiera adecuada, proporcionando herramientas para gestionar sus recursos, desde edades tempranas, que los prepare para enfrentar desafíos financieros en la edad adulta.
 
 ###### Artículo 64.
 
@@ -1696,6 +1708,10 @@ XXVIII. Promover, en conjunto con organismos especializados, programas que conte
 > <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2024)</small>
 
 XXIX. Implementar medidas de capacitación que promuevan el desarrollo de habilidades y herramientas para la educación parental en el marco de una crianza respetuosa a quienes ejerzan la patria potestad, tutela, guarda, custodia o cualquier persona que tenga relación con niñas, niños y adolescentes.
+
+> <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2024)</small>
+
+XXX. Capacitar de manera continua al personal adscrito a las diversas dependencias relacionadas con la prevención, persecución e investigación del delito que pudiera tener contacto con niñas, niños y adolescentes, a fin de garantizar la aplicación de los principios de no revictimización, interés superior de la niñez y los demás contenidos en el artículo 10 de la presente Ley, así como proteger de manera prioritaria la dignidad humana, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales.
 
 ###### Artículo 124.
 
@@ -2954,6 +2970,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0860/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0895/2024 XIII P.E., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 63, CUARTO PÁRRAFO, UNA FRACCIÓN XII, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0896/2024 XIII P.E., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
