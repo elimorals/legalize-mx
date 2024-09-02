@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cambio-climatico-para-el-estado-de-aguascalientes-107097
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-06"
-last_updated: "2024-05-27"
+last_updated: "2024-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de abril de 2015.
 
@@ -65,21 +65,23 @@ VII. Promover la transición hacia una economía competitiva, sustentable y de b
 
 En lo no previsto por esta Ley y los ordenamientos específicos que señale, se aplicarán de manera supletoria y complementaria los ordenamientos federales y estatales en materia de cambio climático.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 2º.
 
 Para efectos de esta Ley se estará a las definiciones contenidas en el artículo 3º de la Ley General de Cambio Climático, así como las siguientes:
 
-I. Autoridades Estatales y Municipales: la Administración Pública Central y Paraestatal del Estado y los municipios;
+I. Agencia de Energía: la Agencia de Energía del Estado de Aguascalientes.
 
-II. Comisión: Comisión Intergubernamental de Cambio Climático;
+II. Autoridades Estatales y Municipales: la Administración Pública Central y Paraestatal del Estado y los municipios;
 
-III. Eficiencia Energética: Todas las acciones que conlleven a una reducción económicamente viable de la cantidad de energía necesaria para satisfacer las necesidades energéticas de los servicios y bienes que requiere la sociedad, asegurando un nivel de calidad igual o superior y una disminución de los impactos ambientales negativos derivados de la generación, distribución y consumo de energía. Queda incluida dentro de esta definición, la sustitución de fuentes no renovables de energía por fuentes renovables de energía;
+III. Comisión: Comisión Intergubernamental de Cambio Climático;
 
-IV. Estrategia: Estrategia Estatal de Cambio Climático;
+IV. Eficiencia Energética: Todas las acciones que conlleven a una reducción económicamente viable de la cantidad de energía necesaria para satisfacer las necesidades energéticas de los servicios y bienes que requiere la sociedad, asegurando un nivel de calidad igual o superior y una disminución de los impactos ambientales negativos derivados de la generación, distribución y consumo de energía. Queda incluida dentro de esta definición, la sustitución de fuentes no renovables de energía por fuentes renovables de energía;
 
-V. Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kioto:
+V. Estrategia: Estrategia Estatal de Cambio Climático;
+
+VI. Gases de Efecto Invernadero: Componentes gaseosos de la atmósfera, que absorben y remiten radiación infrarroja y que están incluidos en el Anexo A del Protocolo de Kioto:
 
 a) Dióxido de carbono (CO2);
 
@@ -93,29 +95,25 @@ e) Perfluorocarbonos (PFC); y
 
 f) Hexafluoruro de azufre (SF6).
 
-VI. Inventario: Documento que contiene la estimación de las emisiones antropógenas por las fuentes y de la absorción por los sumideros.
+VII. Inventario: Documento que contiene la estimación de las emisiones antropógenas por las fuentes y de la absorción por los sumideros.
 
-VII. OCC: Oficina de Cambio Climático;
+VIII. OCC: Oficina de Cambio Climático;
 
-VIII. Ley: Ley de Cambio Climático para el Estado de Aguascalientes;
+IX. Ley: Ley de Cambio Climático para el Estado de Aguascalientes;
 
-IX. Ordenamiento Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio, ya sea: el país como un todo, o una división administrativa del mismo;
+X. Ordenamiento Territorial: Instrumento normativo que regula el uso territorial, definiendo los usos posibles para las diversas áreas en que se ha dividido el territorio, ya sea: el país como un todo, o una división administrativa del mismo;
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2017)</small>
+XI. Perspectiva de Género: Instrumento teórico y metodológico que analiza las relaciones de género para identificar las desigualdades y sus orígenes, a fin de dimensionar la vulnerabilidad de mujeres y hombres ante el cambio climático y los riesgos de desastres, así como las necesidades y los aportes que hace cada uno de ellos, para diseñar acciones diferenciadas entre ambos géneros en un marco de justicia e igualdad entre mujeres y hombres;
 
-X. Perspectiva de Género: Instrumento teórico y metodológico que analiza las relaciones de género para identificar las desigualdades y sus orígenes, a fin de dimensionar la vulnerabilidad de mujeres y hombres ante el cambio climático y los riesgos de desastres, así como las necesidades y los aportes que hace cada uno de ellos, para diseñar acciones diferenciadas entre ambos géneros en un marco de justicia e igualdad entre mujeres y hombres;
+XII. Procuraduría: Procuraduría Estatal de Protección al Ambiente;
 
-XI. Procuraduría: Procuraduría Estatal de Protección al Ambiente;
+XIII. Programa Estatal: Programa Estatal de Acción contra el Cambio Climático;
 
-XII. Programa Estatal: Programa Estatal de Acción contra el Cambio Climático;
+XIV. Reglamento: Reglamento de la Ley de Cambio Climático para el Estado de Aguascalientes;
 
-XIII. Reglamento: Reglamento de la Ley de Cambio Climático para el Estado de Aguascalientes;
+XV. Secretaría: Secretaria de Sustentabilidad, Medio Ambiente y Agua; y
 
-> <small>(REFORMADA, P.O. 20 DE MAYO DE 2024)</small>
-
-XIV. Secretaría: Secretaría de Sustentabilidad, Medio Ambiente y Agua; y
-
-XV. Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano.
+XVI. Servicios Ambientales: Condiciones y procesos a través de los cuales los ecosistemas naturales y las especies que los forman mantienen y satisfacen la vida del ser humano.
 
 ###### Artículo 3º.
 
@@ -123,31 +121,31 @@ Las disposiciones de la presente Ley serán de aplicación a los sectores energ�
 
 Los destinatarios de esta Ley, las autoridades estatales y municipales, así como las personas físicas y morales de naturaleza privada que realicen actividades en el Estado, deberán cumplir con lo establecido en sus disposiciones.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 4º.
 
 Son autoridades en materia de cambio climático en el Estado, en el ámbito de sus respectivas competencias:
 
-I. El titular del Ejecutivo Estatal;
+I. La persona titular del Ejecutivo Estatal;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+II. La persona titular de la Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
-II. El titular de la Secretaría de Sustentabilidad, Medio Ambiente y Agua;
+III. La persona titular de la Secretaría de Planeación, Participación y Desarrollo;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+IV. La persona de la Secretaría de Desarrollo Rural y Agroempresarial;
 
-III. El titular de la Secretaría de Planeación, Participación y Desarrollo;
+V. La persona titular del Instituto del Agua;
 
-IV. El titular de la Secretaría de Desarrollo Rural y Agroempresarial;
+VI. La persona titular de la Procuraduría Estatal de Protección al Ambiente;
 
-V. El titular del Instituto del Agua;
+VII. La persona titular de la Agencia de Energía del Estado de Aguascalientes;
 
-VI. El titular de la Procuraduría Estatal de Protección al Ambiente;
+VIII. Los Ayuntamientos;
 
-VII. Los Ayuntamientos;
+IX. El Congreso del Estado a través de la Comisión Legislativa del Medio Ambiente y Recursos Naturales; y
 
-VIII. El Congreso del Estado a través de la Comisión Legislativa del Medio Ambiente y Recursos Naturales; y
-
-IX. Las demás que con ese carácter señalen otros ordenamientos legales, en materia ecológica o ambiental.
+X. Las demás que con ese carácter señalen otros ordenamientos legales, en materia ecológica o ambiental.
 
 En todo caso, las competencias y funciones serán ejercidas por las autoridades estatales y municipales, de conformidad con los principios de coordinación, corresponsabilidad, eficacia y transparencia, en cuya consecución tendrá un papel fundamental la Secretaría y la Comisión, como órganos de promoción, impulso y seguimiento de las políticas, planes, proyectos y demás acciones que desde los distintos ámbitos y sectores de la administración y de la sociedad se lleven a cabo en materia de acción de cambio climático.
 
@@ -359,47 +357,39 @@ XIX. Ejercer las atribuciones que expresamente se determinen en su Reglamento In
 
 Se crea con carácter permanente la Comisión Intergubernamental de Cambio Climático. Fungirá como órgano colegiado responsable de la coordinación intergubernamental en materia de cambio climático para el Estado y sus resoluciones y opiniones son de carácter obligatorio para las dependencias y entidades de la administración pública estatal.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 13.
 
 La Comisión será presidida por el Titular del Poder Ejecutivo y será integrada de la siguiente manera:
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+I. La persona titular de la Secretaría de Sustentabilidad, Medio Ambiente y Agua;
 
-I. El Titular de la Secretaría de Sustentabilidad, Medio Ambiente y Agua;
+II. La persona titular de la Secretaría de Desarrollo Rural y Agroempresarial;
 
-II. El Titular de la Secretaría de Desarrollo Rural y Agroempresarial;
+III. La persona titular de la Secretaría de Obras Públicas;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+IV. La persona titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
-III. El Titular de la Secretaría de Obras Públicas;
+V. La persona titular de la Secretaría de Planeación, Participación y Desarrollo;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+VI. La persona titular de la Secretaría de Desarrollo Social;
 
-IV. El Titular de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
+VII. La persona titular de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
+VIII. La persona titular de la Secretaría de Salud;
 
-V. El Titular de la Secretaría de Planeación, Participación y Desarrollo;
+IX. La persona titular del Instituto de Educación del Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+X. La persona titular del Instituto del Agua del Estado de Aguascalientes;
 
-VI. El Titular de la Secretaría de Desarrollo Social;
+XI. La persona titular de la Procuraduría Estatal de Protección al Ambiente;
 
-VII. El Titular de la Secretaría de Finanzas;
+XII. La persona titular de la Agencia de Energía del Estado de Aguascalientes; y
 
-VIII. El Titular de la Secretaría de Salud;
+XIII. Una persona integrante de la Comisión Legislativa del Medio Ambiente y Recursos Naturales.
 
-IX. El Titular del Instituto de Educación del Estado de Aguascalientes;
-
-X. El Titular del Instituto del Agua del Estado de Aguascalientes;
-
-XI. El Titular de la Procuraduría Estatal de Protección al Ambiente;
-
-XII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2022); y (sic)
-
-XIII. Un Diputado del Congreso del Estado integrante de la Comisión Legislativa del Medio Ambiente y Recursos Naturales.
-
-El titular de la Secretaría presidirá la Comisión en ausencia del titular del Poder Ejecutivo.
+La persona titular de la Secretaría presidirá la Comisión en ausencia del titular del Poder Ejecutivo.
 
 El responsable de la OCC será el secretario técnico de la Comisión, quien registrará y dará seguimiento a los acuerdos que en ella se tomen.
 
@@ -838,3 +828,45 @@ Con el inicio de vigencia del presente Decreto quedan sin efecto todas aquellas 
 ###### ARTÍCULO CUARTO.
 
 – El Poder Ejecutivo del Estado y los Ayuntamientos de los Municipios de la Entidad, deberán con la entrada en vigor del presente Decreto, modificar y actualizar su marco normativo a efecto de darle cumplimiento, en un término no mayor a 180 días de que se emitan los Lineamientos a que hace referencia el Artículo Tercero Transitorio de este Decreto.
+
+P.O. 2 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 798.- SE EXPIDE LA LEY DE LA AGENCIA DE ENERGÍA DEL ESTADO DE AGUASCALIENTES; Y, SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La persona titular del Poder Ejecutivo del Estado, deberá designar a la persona titular de la Dirección General de la Agencia de Energía del Estado de Aguascalientes, dentro de los sesenta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado de Aguascalientes proveerá a la Agencia de Energía del Estado de Aguascalientes, por conducto de la Secretaría de Finanzas y la Secretaría de Administración, según corresponda y de acuerdo de (sic) la suficiencia presupuestal de los recursos necesarios para la instalación y operación de la misma, para lo cual deberá realizar todos aquellos actos administrativos, jurídicos y financieros requeridos para tal efecto.
+
+###### ARTÍCULO CUARTO.
+
+La Junta de Gobierno del Organismo Descentralizado denominado "Agencia de Energía del Estado de Aguascalientes", se deberá instalar en un término no mayor a sesenta días hábiles a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+La Junta de Gobierno de la Agencia de Energía del Estado de Aguascalientes, deberá expedir su Reglamento Interior en la primera sesión que se lleve a cabo en el año 2025.
+
+###### ARTÍCULO SEXTO.
+
+La Junta de Gobierno deberá aprobar el Plan Anual de Trabajo de la Agencia de Energía del Estado de Aguascalientes dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Junta de Gobierno de la Agencia de Energía del Estado de Aguascalientes, deberá establecer cuáles son los servicios que se vayan a brindar, de acuerdo al objeto del Organismo Descentralizado, así como el presupuesto para sus ingresos y egresos, los cuales deberán adecuarse al Presupuesto de Egresos del Estado de Aguascalientes y a la Ley de Ingresos del Estado de Aguascalientes, correspondientes al Ejercicio Fiscal del Año 2025.
+
+###### ARTÍCULO OCTAVO.
+
+La Comisión Intergubernamental de Cambio Climático, establecida en la Ley de Cambio Climático para el Estado de Aguascalientes, deberá tomar protesta a la persona titular de la Agencia de Energía del Estado de Aguascalientes, en la siguiente sesión inmediata a la designación de dicha persona titular.
+
+ARTÍCULO NOVENA (SIC).- Para el cumplimiento del presente Decreto, se deberán llevar a cabo a través de las autoridades competentes, todos aquellos asuntos, actos y procedimientos necesarios para el funcionamiento y operación de la Agencia de Energía del Estado de Aguascalientes.
+
+###### ARTÍCULO DÉCIMO.
+
+Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Decreto.
