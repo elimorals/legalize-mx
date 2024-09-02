@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-sanitario-de-control-proteccion-y-trato-digno-a-1394
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-10-21"
-last_updated: "2020-03-16"
+last_updated: "2024-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139447&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO SANITARIO DE CONTROL, PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES DEL MUNICIPIO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Primera Sección del Número 42 del Periódico Oficial del Estado de Aguascalientes, el lunes 21 de octubre de 2019.
 
@@ -37,11 +37,11 @@ MARÍA TERESA JIMÉNEZ ESQUIVEL, PRESIDENTE MUNICIPAL DE AGUASCALIENTES, con fun
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1°.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
-Las disposiciones de este Reglamento son de orden público y se emiten con fundamento en lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Vida Silvestre, Ley Federal de Sanidad Animal, Ley de Organizaciones Ganaderas, la Constitución Política del Estado de Aguascalientes, la Ley Estatal de Salud, Ley de Protección y Trato Digno a los Animales para el Estado de Aguascalientes, Ley de Ingresos del Municipio de Aguascalientes; Código Penal del Estado de Aguascalientes; las Normas Oficiales Mexicanas en esta materia y las demás que sean competentes en la materia, en lo que respecta a la salud y cuidado animal para evitar el maltrato.
+###### ARTÍCULO 1º.
 
-En todo lo no previsto en el presente Reglamento en materia sustantiva, se aplicarán las disposiciones contenidas en otras Leyes, Reglamentos, Normas y demás disposiciones legales relacionados con la materia que regulan el presente Reglamento.
+Las disposiciones de este Reglamento son de orden público y se emiten con fundamento en lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Vida Silvestre, Ley Federal de Sanidad Animal, Ley de Organizaciones Ganaderas; la Constitución Política del Estado de Aguascalientes, la Ley de Salud del Estado de Aguascalientes, Ley de Protección a los Animales para el Estado de Aguascalientes, Ley de Ingresos del Municipio de Aguascalientes; Código Penal para el Estado de Aguascalientes; las Normas Oficiales Mexicanas en esta materia y las demás que sean competentes en la materia, en lo que respecta a la salud y cuidado animal para evitar el maltrato.
 
 ###### ARTÍCULO 2°.
 
@@ -149,7 +149,9 @@ XXXVII. Sacrificio de emergencia: Sacrificio necesario que se realiza por métod
 
 XXXVIII. Trato digno: Conjunto de medidas para disminuir la tensión, sufrimiento, traumatismo y dolor a los animales durante su captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, entrenamiento y sacrificio.
 
-XXXIX. UMAS: Unida de Medida y Actualización.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+XXXIX. UMAS: Valor diario de la Unidad de Medida y Actualización.
 
 XL. Zoonosis: Enfermedades que transmiten los animales al ser humano.
 
@@ -161,9 +163,11 @@ XLIII. PROESPA: Procuraduría Estatal de Protección al Ambiente.
 
 XLIV. SEMADESU: Secretaría del Medio Ambiente y Desarrollo Sustentable.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 4°.
 
-Lo no previsto en el presente Reglamento se resolverá aplicando supletoriamente el Código Municipal, la Ley de Protección a los Animales del Estado de Aguascalientes, así como las Leyes Generales y Estatales del Equilibrio Ecológico y de Protección Ambiental; la Ley General y la Ley de Salud del Estado de Aguascalientes y sus respectivos Reglamentos; las Normas Oficiales Mexicanas y demás disposiciones aplicables en la materia.
+Lo no previsto en el presente Reglamento se resolverá aplicando supletoriamente el Código Municipal de Aguascalientes.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS
 
@@ -201,7 +205,9 @@ Son autoridades responsables en el cumplimiento de este Reglamento, las siguient
 
 I. Secretaría del H. Ayuntamiento y Dirección General de Gobierno;
 
-II. Secretaría de Servicios Públicos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+II. Coordinación General de Salud;
 
 III. Secretaría de Medio Ambiente y Desarrollo Sustentable;
 
@@ -209,7 +215,9 @@ IV. Secretaría de Seguridad Pública;
 
 V. Dirección de Mercados, Estacionamientos y Áreas comerciales; y
 
-VI. Dirección de Justicia Municipal.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Dirección de Juzgados Cívicos.
 
 #### Sección Primera. Secretaría del H. Ayuntamiento y Dirección General de Gobierno
 
@@ -217,11 +225,15 @@ VI. Dirección de Justicia Municipal.
 
 Los integrantes de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, tendrán las facultades y obligaciones que para tal efecto señale el Código Municipal de Aguascalientes, así como las previstas en el presente Reglamento.
 
-#### Sección Segunda. De la Secretaría de Servicios Públicos
+> <small>(REFORMADA SU DEONOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
-###### ARTÍCULO 9°.
+#### Sección Segunda. De la Coordinación General de Salud
 
-Corresponde a la Secretaría de Servicios Públicos las obligaciones y facultades siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 9º.
+
+Corresponde a la Coordinación General de Salud las obligaciones y facultades siguientes:
 
 I. Dar trámite a las solicitudes de ingreso al Centro de Control, Atención y Bienestar Animal y Rastro Municipal;
 
@@ -271,11 +283,15 @@ Los integrantes operativos de Seguridad Pública Municipal según lo dispuesto e
 
 Los integrantes de la Dirección de Mercados, Estacionamientos y Áreas Comerciales del H. Ayuntamiento y Dirección General de Gobierno, tendrán las facultades y obligaciones que para tal efecto señale el Código Municipal de Aguascalientes, los Reglamentos de la materia, así como las previstas en el presente Reglamento.
 
-#### Sección Sexta. Justicia Municipal
+> <small>(REFORMADA SU DEONOMINACIÓN, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+#### Sección Sexta. Justicia cívica
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
-Los integrantes de la Dirección de Justicia Municipal tendrán las facultades y obligaciones que para tal efecto señale el Código Municipal de Aguascalientes, así como las previstas en el presente Reglamento.
+Los integrantes de la Dirección de Justicia Cívica tendrán las facultades y obligaciones que para tal efecto señale el Código Municipal de Aguascalientes, así como las previstas en el presente Reglamento.
 
 ### CAPÍTULO II. DEL CONSEJO CONSULTIVO MUNICIPAL DE PROTECCIÓN A LOS ANIMALES
 
@@ -287,7 +303,9 @@ Se crea el Consejo Consultivo Municipal de Protección a los Animales, el cual t
 
 El Consejo Consultivo Municipal de Protección a los Animales estará integrado de la siguiente forma:
 
-I. Dos representantes de la Secretaría de Servicios Públicos;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+I. Dos representantes de la Coordinación General de Salud;
 
 II. Dos representantes de la Secretaría de Medio Ambiente y Desarrollo Sustentable;
 
@@ -303,13 +321,17 @@ VII. Un representante de la Asociación Estatal de Padres de Familia;
 
 VIII. Un representante de las autoridades educativas en el estado y/o Municipio;
 
-IX. Un representante del área de justicia Municipal o de la Secretaria de Seguridad Pública Municipal;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Un representante de la Dirección de Juzgados Cívicos de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno y un representante de la Secretaría de Seguridad Pública Municipal;
 
 X. Un representante de PROESPA; y
 
 XI. Un representante de la Secretaria de Salud del Estado.
 
-El Secretario de Servicios Públicos será Presidente del Consejo, y el Secretario de Medio Ambiente y Desarrootro (sic) será el Secretario de este Consejo, los demás tendrán el cargo de vocales, cargos que serán honoríficos y podrán nombrar un representante para suplirlo en ausencias temporales.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Coordinación General de Salud será Presidente del Consejo, y la persona titular de la Secretaría del Medio Ambiente y Desarrollo Sustentable será el Secretario de este Consejo, los demás tendrán el cargo de vocales, cargos que serán honoríficos y podrán nombrar un representante para suplirlo en ausencias temporales.
 
 Cualquier asunto ventilado ante el Consejo y que sea de la competencia de la Comisión Permanente de Ecología, Parques, Jardines y Panteones, deberá ser de su conocimiento, a fin de contar con la opinión de quienes la integran, esta Comisión podrá supervisar en todo momento el trabajo del Consejo Consultivo.
 
@@ -395,17 +417,19 @@ XI. Las demás que estén establecidas en el presente Reglamento.
 
 Las asociaciones protectoras debidamente registradas podrán emitir cartas de recomendación para las personas que desean realizar el trámite de devolución de un animal que se encuentra en custodia de la autoridad Municipal por haber sufrido de maltrato o de aquellos utilizados en prácticas de peleas.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 24.
 
 Se permitirá el acceso a las instalaciones de rastros y del Centro de Control, Atención y Bienestar Animal a las asociaciones protectoras de animales de acuerdo con lo siguiente:
 
 I. A las instalaciones: Se permitirá el acceso a las instalaciones dentro del horario de labores, con la asistencia del personal que esté disponible, limitando el acceso a una persona por recorrido sin limitación de visitadores, con excepción de los lugares destinados a los sacrificios;
 
-II. Sacrificios: Se permitirá únicamente la entrada a personal de las asociaciones debidamente registradas ante la Secretaría de Medio Ambiente y Desarrollo Sustentable Municipal o a médicos veterinarios zootecnistas que cuenten con título y cédula profesional, debidamente registrados que participen en las asociaciones protectoras de animales, tomen el curso que será impartido por la Secretaría de Servicios Públicos que se formulará para capacitación, reciban la inmunización respectiva de acuerdo al Código Municipal así como las Normas Oficiales Mexicanas y firmen la carta de no responsabilidad;
+II. Sacrificios: Se permitirá únicamente la entrada a personal de las asociaciones debidamente registradas ante la Secretaría de Medio Ambiente y Desarrollo Sustentable Municipal o a médicos veterinarios zootecnistas que cuenten con título y cédula profesional, debidamente registrados que participen en las asociaciones protectoras de animales, tomen el curso que será impartido por la Coordinación General de Salud que se formulará para capacitación, reciban la inmunización respectiva de acuerdo al Código Municipal así como las Normas Oficiales Mexicanas y firmen la carta de no responsabilidad;
 
-III. Visitas Programadas: Cualquier persona o grupos escolares podrán solicitar a la Secretaría de Servicios Públicos una visita programada a las instalaciones del rastro Municipal o al Centro de Control, Atención y Bienestar Animal con una anticipación de por lo menos 5 días hábiles, limitando el acceso a los horarios de sacrificio por seguridad de los visitantes;
+III. Visitas Programadas: Cualquier persona o grupos escolares podrán solicitar a la Coordinación General de Salud una visita programada a las instalaciones del rastro Municipal o al Centro de Control, Atención y Bienestar Animal con una anticipación de por lo menos 5 días hábiles, limitando el acceso a los horarios de sacrificio por seguridad de los visitantes;
 
-De la visita hecha por las asociaciones protectoras de animales, a través de sus colaboradores, se deberá elaborar un reporte de la visita practicada que deberá ser entregada a la Comisión Permanente de Ecología, Parques, Jardines y Panteones, para su análisis, dentro de los siguientes 30 días, en apoyo de las Secretarías de Medio Ambiente y Desarrollo Sustentable, así como la de Servicios Públicos. El cual contendrá una relación sucinta de los hechos, fotografías según sea el caso, así como las anomalías descubiertas, con una propuesta de solución.
+De la visita hecha por las asociaciones protectoras de animales, a través de sus colaboradores, se deberá elaborar un reporte de la visita practicada que deberá ser entregada a la Comisión Permanente de Ecología, Parques, Jardines y Panteones, para su análisis, dentro de los siguientes 30 días, en apoyo de la Secretaría de Medio Ambiente y Desarrollo Sustentable, así como de la Coordinación General de Salud. El cual contendrá una relación sucinta de los hechos, fotografías según sea el caso, así como las anomalías descubiertas, con una propuesta de solución.
 
 En términos del Código Municipal de Aguascalientes, los integrantes del H. Ayuntamiento, podrán entrar en cualquier momento a las instalaciones del Rastro Municipal y el Centro de Control, Atención y Bienestar Animal, con la finalidad de supervisar las labores dentro de los mismos, cumpliendo con las disposiciones normativas.
 
@@ -413,11 +437,15 @@ En términos del Código Municipal de Aguascalientes, los integrantes del H. Ayu
 
 Del sacrificio:
 
-I. Las asociaciones podrán llevar a cabo el sacrificio en los lugares autorizados y registrados para este efecto ante la Secretaría, de acuerdo a lo establecido en el capítulo del sacrificio de los animales y siguiendo el procedimiento previsto en el presente Reglamento, solo en aquellas situaciones que se justifique la medida y sea estrictamente necesario, por tratarse de casos en los que estén sufriendo de enfermedades o lesiones que no les permitan su supervivencia o porque se han agotado todos los procedimientos e intentos de entrega responsable y esta no se logra;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+I. Las asociaciones podrán llevar a cabo el sacrificio en los lugares autorizados y registrados para este efecto ante la Coordinación General de Salud, de acuerdo a lo establecido en el capítulo del sacrificio de los animales y siguiendo el procedimiento previsto en el presente Reglamento, solo en aquellas situaciones que se justifique la medida y sea estrictamente necesario, por tratarse de casos en los que estén sufriendo de enfermedades o lesiones que no les permitan su supervivencia o porque se han agotado todos los procedimientos e intentos de entrega responsable y esta no se logra;
 
 II. Para que los rescatistas y ciudadanos voluntarios registrados puedan llevar a cabo el sacrificio, además de cumplir con las disposiciones del anterior artículo, tendrán que contar con el respaldo de alguna de las asociaciones protectoras registradas;
 
-III. En el caso de que se compruebe que alguna asociación protectora, rescatista o ciudadano voluntario incurre sistemáticamente en sacrificios no justificados de animales, el Centro de Bienestar Animal denunciará los hechos al Ministerio Público para los efectos legales conducentes.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+III. En el caso de que se compruebe que alguna asociación protectora, rescatista o ciudadano voluntario incurre sistemáticamente en sacrificios no justificados de animales, el Centro de Control, Atención y Bienestar Animal denunciará los hechos al Ministerio Público para los efectos legales conducentes.
 
 ###### ARTÍCULO 26.
 
@@ -501,7 +529,9 @@ El responsable o poseedor de un animal que lo abandone, no lo cuide, no lo vigil
 
 Se prohíbe la venta de cualquier tipo de animal en la vía pública, lugares de acceso público y cualquier otro tipo de negocio que no cuente con el permiso correspondiente por parte de las autoridades Municipales.
 
-Para tal efecto se dispondrá en la página de internet de (sic) Municipio un formato de certificado de propiedad animal, el cual deberá ser impreso por el interesado y llevado a la Secretaría de Servicios Públicos para su sello. Dicho documento para ser sellado, deberá contener foto del animal, nombre del dueño e historial de vacunas y desparasitaciones. Formato que deberá ser renovado gratuitamente cada año.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+Para tal efecto se dispondrá en la página de internet del Municipio un formato de certificado de propiedad animal, el cual deberá ser impreso por el interesado y llevado a la Coordinación General de Salud para su sello. Dicho documento para ser sellado deberá contener foto del animal, nombre del dueño e historial de vacunas y desparasitaciones. Formato que deberá ser renovado gratuitamente cada año.
 
 ###### ARTÍCULO 33.
 
@@ -661,7 +691,9 @@ III. Los datos que permitan identificar y localizar al presunto infractor; y
 
 IV. Los documentos probatorios, en su caso.
 
-Dicha denuncia se podrá realizar vía internet, escrita o telefónica, para tal efecto la Secretaría de Servicios Públicos deberá contar con el personal e instalaciones necesarios para atender, dar trámite y seguimiento.
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+Dicha denuncia se podrá realizar vía internet, escrita o telefónica, para tal efecto la Coordinación General de Salud deberá contar con el personal e instalaciones necesarios para atender, dar trámite y seguimiento.
 
 ### CAPÍTULO III. DE LA POSESIÓN, CRÍA Y COMERCIALIZACIÓN DE ANIMALES
 
@@ -1115,9 +1147,11 @@ Queda prohibido el hacinamiento, para lo cual los dueños, Directores o encargad
 
 Queda prohibido instalar dentro de los Zoológicos y Acuarios, atracciones, actividades o espectáculos que ocasionen daño a los animales.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 110.
 
-Los dueños, Directores o encargados de los Zoológicos y Acuarios deberán permitir el ingreso a sus instalaciones al personal del Departamento de Salud y Bienestar Animal, perteneciente a la Secretaría de Servicios Públicos Municipales para que se verifique el cumplimiento de lo dispuesto en el presente Reglamento.
+Los dueños, Directores o encargados de los Zoológicos y Acuarios deberán permitir el ingreso a sus instalaciones al personal del Departamento de Salud y Bienestar Animal, perteneciente a la Coordinación General de Salud para que se verifique el cumplimiento de lo dispuesto en el presente Reglamento.
 
 ### CAPÍTULO XII. DE LOS CIRCOS
 
@@ -1229,9 +1263,11 @@ El Municipio de Aguascalientes debe contar con un horno crematorio para cremar l
 
 ### CAPÍTULO I. DISPOSICIONES GENRALES
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 133.
 
-Las funciones de inspección y vigilancia en materia de protección animal dentro del Municipio, serán ejercidas por la Secretaría de Servicios Públicos por conducto del Departamento de Salud y Bienestar Animal y se llevarán a cabo mediante visitas de verificación e inspección, por queja, denuncia o de oficio, para garantizar el cumplimiento de las disposiciones contenidas en el presente Reglamento.
+Las funciones de inspección y vigilancia en materia de protección animal dentro del Municipio, serán ejercidas por la Coordinación General de Salud por conducto del Departamento de Salud y Bienestar Animal y se llevarán a cabo mediante visitas de verificación e inspección, por queja, denuncia o de oficio, para garantizar el cumplimiento de las disposiciones contenidas en el presente Reglamento.
 
 ###### ARTÍCULO 134.
 
@@ -1249,7 +1285,9 @@ En el supuesto de visitas derivadas de un reporte por caso de emergencia o auxil
 
 I. En la práctica de las visitas, el personal autorizado deberá de verificar que en los lugares donde se encuentran animales, sea casa, predio, giro comercial u otro, se cumplan con las condiciones de salubridad, higiene, seguridad, equipamiento, infraestructura y las demás establecidas en el presente Reglamento, haciendo uso para ello de las normas, métodos e instrumentos científicos necesarios para que se logre tal fin. Al efecto, el visitado deberá atender la diligencia prestando la debida colaboración a la autoridad, para el desarrollo de sus funciones.
 
-II. En lo que se refiere a giros comerciales, será aplicable el Reglamento para el Funcionamiento de Giros Comerciales, Industriales y de Prestación de Servicios para el Municipio de Aguascalientes, en lo que no se contraponga al presente.
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+II. En lo que se refiere a giros comerciales, será aplicable la reglamentación municipal aplicable en esa materia en lo que no se contraponga al presente.
 
 ###### ARTÍCULO 137.
 
@@ -1457,7 +1495,9 @@ En los casos de que un animal sea asegurado como medida precautoria por causas d
 
 El trámite de devolución se ajustará a las siguientes formalidades:
 
-I. Se iniciará con una solicitud por escrito ante el Departamento de Control y Bienestar Animal, dentro del término mencionado en el artículo anterior;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+I. Se iniciará con una solicitud por escrito ante el Departamento de Salud y Bienestar Animal, dentro del término mencionado en el artículo anterior;
 
 II. A la solicitud adjuntará el documento que acredite la propiedad del animal o la constancia de registro si existiere, de no contar con ninguna de estas, se requerirá la presencia de dos testigos debidamente identificados y radicados en la entidad, quienes se constituirán como responsables solidarios del reclamante.
 
@@ -1467,7 +1507,9 @@ IV. Demostrar con evidencia como fotografías o vídeos que se han hecho los cam
 
 En el caso de animales comunitarios o gatos asilvestrados identificados y registrados como parte de una colonia bajo la metodología CES, el trámite de devolución, se ajustará a las siguientes formalidades:
 
-I. Se iniciará con una solicitud por escrito ante Departamento de Control y Bienestar Animal dentro del término mencionado en el artículo anterior;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+I. Se iniciará con una solicitud por escrito ante el Departamento de Salud y Bienestar Animal dentro del término mencionado en el artículo anterior;
 
 II. A la solicitud adjuntará el documento que acredite la esterilización y vacunación antirrábica del animal, y la constancia de registro ante el Municipio;
 
@@ -1537,9 +1579,11 @@ Es responsable de las faltas previstas en el presente Reglamento, cualquier pers
 
 Las violaciones a lo dispuesto por este Reglamento, constituyen una infracción, siempre que no constituyan delito y serán sancionadas administrativamente por las autoridades Municipales.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 166.
 
-Las infracciones a las disposiciones contenidas en el presente Reglamento y demás disposiciones legales aplicables de observancia general, se sancionarán a criterio de las autoridades que conforman la Justicia Municipal en Turno, atendiendo a la gravedad de la falta cometida.
+Las infracciones a las disposiciones contenidas en el presente Reglamento y demás disposiciones legales aplicables de observancia general, se sancionarán a criterio del Juzgado Cívico en Turno, atendiendo a la gravedad de la falta cometida.
 
 ###### ARTÍCULO 167.
 
@@ -1577,9 +1621,11 @@ En la tramitación de los recursos serán admisibles toda clase de pruebas, exce
 
 En el mismo escrito deberán acompañarse los documentos probatorios, en caso contrario, si al examinarse el recurso se advierte que no se adjuntaron los documentos señalados en este artículo, la autoridad requerirá al recurrente para que en un término de tres días los presente, apercibiéndolo de que en caso de no hacerlo se desechará de plano el recurso o se tendrán por no ofrecidas las pruebas según corresponda.
 
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 171.
 
-El recurso de revisión será presentado ante el Secretario General del H. Ayuntamiento y Director General de Gobierno, quien resolverá, ya sea confirmando, revocando o modificando el acuerdo impugnado en un plazo no mayor de quince días.
+El recurso de revisión será presentado ante el Secretario del H. Ayuntamiento y Director General de Gobierno, quien resolverá, ya sea confirmando, revocando o modificando el acuerdo impugnado en un plazo no mayor de quince días.
 
 ### CAPÍTULO III. DE LA SUSPENSIÓN DEL ACTO RECLAMADO
 
@@ -1593,9 +1639,11 @@ Si la resolución reclamada impuso una multa, determinó un crédito fiscal o pu
 
 ### CAPÍTULO IV. DE LA NULIDAD DEL ACTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 173.
 
-En contra de las resoluciones dictadas por la autoridad Municipal al resolver el recurso, podrá interponerse el juicio de nulidad ante la Sala Administrativa y Electoral del Poder Judicial del Estado de Aguascalientes.
+En contra de las resoluciones dictadas por la autoridad Municipal al resolver el recurso, podrá interponerse el juicio de nulidad ante el Tribunal de Justicia Administrativa del Estado de Aguascalientes.
 
 En todo lo no previsto en este capítulo, se estará a lo establecido por la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
 
@@ -1622,3 +1670,11 @@ P.O. 16 DE MARZO DE 2020.
 ## [N. DE E. TRANSITORIO DE LAS "REFORMAS AL ARTÍCULO 40 FRACCIÓN VIII DEL REGLAMENTO SANITARIO DE CONTROL, PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES DEL MUNICIPIO DE AGUASCALIENTES".]
 
 ÚNICO: La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA COORDINACIÓN GENERAL DE SALUD DEL MUNICIPIO DE AGUASCALIENTES; ASÍ COMO DIVERSAS REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, AL REGLAMENTO DE RASTROS DEL MUNICIPIO DE AGUASCALIENTES, AL REGLAMENTO SANITARIO DE CONTROL, PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES DEL MUNICIPIO DE AGUASCALIENTES Y AL REGLAMENTO INTERIOR DEL CENTRO DE CONTROL, ATENCIÓN BIENESTAR ANIMAL DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+PRIMERO.- Las presentes reformas y adiciones, así como el Reglamento Interno de la Coordinación General de Salud del Municipio de Aguascalientes, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El Reglamento para la Protección y Trato Digno a los Animales del Municipio de Aguascalientes, publicado en el Periódico Oficial del Estado el 3 de octubre de 2011, quedó abrogado tácitamente mediante la expedición del Reglamento Sanitario de Control, Protección y Tratamiento Digno a los Animales del Municipio de Aguascalientes publicado en el Periódico Oficial del Estado el 21 de octubre de 2019.
