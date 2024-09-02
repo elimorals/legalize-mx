@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2024-08-29"
+last_updated: "2024-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2024.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -106,7 +106,9 @@ De los principios rectores
 
 2. La Ciudad de México asume como principios:
 
-a) El respeto a los derechos humanos, la defensa del Estado democrático y social, el diálogo social, la cultura de la paz y la no violencia, el desarrollo económico sustentable y solidario con visión metropolitana, la más justa distribución del ingreso, la dignificación del trabajo y el salario, la erradicación de la pobreza, el respeto a la propiedad privada, la igualdad sustantiva, la no discriminación, la inclusión, la accesibilidad, el diseño universal, la preservación del equilibrio ecológico, la protección al ambiente, la protección y conservación del patrimonio cultural y natural. Se reconoce la propiedad de la Ciudad sobre sus bienes del dominio público, de uso común y del dominio privado; asimismo, la propiedad ejidal y comunal;
+> <small>(REFORMADO, G.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+a) El respeto a los derechos humanos, la defensa del Estado democrático y social, el diálogo social, la cultura de la paz y la no violencia, el desarrollo económico sustentable y solidario con visión metropolitana, la más justa distribución del ingreso, la dignificación del trabajo y el salario, la erradicación de la pobreza, el respeto a la propiedad en los mismos términos del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, la igualdad sustantiva, la no discriminación, la inclusión, la accesibilidad, el diseño universal, la preservación del equilibrio ecológico, la protección al ambiente, la protección y conservación del patrimonio cultural y natural. Se reconoce la propiedad de la Ciudad sobre sus bienes del dominio público, de uso común y del dominio privado; asimismo, la propiedad ejidal y comunal;
 
 b) La rectoría del ejercicio de la función pública apegada a la ética, la austeridad, la racionalidad, la transparencia, la apertura, la responsabilidad, la participación ciudadana y la rendición de cuentas con control de la gestión y evaluación, en los términos que fije la ley; y
 
@@ -4555,3 +4557,11 @@ G.O. 29 DE AGOSTO DE 2024.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 2 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL INCISO A), NUMERAL 2 DEL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
