@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2024-08-26"
+last_updated: "2024-09-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2003,71 +2003,27 @@ Departamento de Capacitación y Vinculación Institucional.
 
 Departamento de Evaluación de Transparencia.
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
 XXI.- Coordinación General de Salud.
 
-Unidad de Transparencia.
+Departamento de Regulación Sanitaria.
 
-Unidad de Comunicación Social.
+Departamento de Salud y Bienestar Animal.
 
-Guardia Sanitaria Municipal.
+Departamento Administrativo.
 
-Hospital Veterinario
+Departamento de Asuntos Jurídicos.
 
-Dirección de Rastros
+Departamento de Formación y Capacitación.
+
+Dirección de Rastros.
 
 Departamento de Inspección Sanitaria.
 
 Departamento de Producción.
 
 Departamento de Control de Calidad.
-
-Unidad de Crédito y Cobranza
-
-Departamento de Regulación Sanitaria
-
-Unidad de Verificación.
-
-Unidad de Archivo.
-
-Unidad de Dictaminación.
-
-Unidad de Servicios Médicos de Zona de Tolerancia.
-
-Departamento de Salud y Bienestar Animal;
-
-Unidad de Certificación de Lesiones;
-
-Unidad de Captura y Aseguramiento;
-
-Unidad de Observación y Cuarentena;
-
-Unidad de Educación y Fomento Sanitario y Concientización;
-
-Unidad de Investigación;
-
-Unidad de Sacrificio humanitario y anfiteatro; y
-
-Unidad de Quirófano y Asistencia Médico-Veterinaria.
-
-Departamento Administrativo;
-
-Unidad de Recursos Humanos.
-
-Unidad de Recursos Materiales y control presupuestal
-
-Departamento de Asuntos Jurídicos;
-
-Unidad Contenciosa.
-
-Unidad de Asesoría General.
-
-Departamento de Formación y Capacitación.
-
-Unidad de Capacitación.
-
-Unidad de diseño e implementación de programas de difusión.
 
 > <small>(ADICIONADA [N. DE E. CON SUS PÁRRAFOS], P.O. 21 DE FEBRERO DE 2022)</small>
 
@@ -4063,31 +4019,77 @@ APARTADO DÉCIMO NOVENO
 
 De la Coordinación General de Salud
 
-> <small>(ADICIONADO, P.O. 22 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
 ARTÍCULO 114 QUINQUIES.- Corresponde a la Coordinación General de Salud:
 
-I. La prestación por sí o por conducto de terceras personas a través de concesiones, los servicios de salud pública municipal, rastro municipal, y control de población canina y felina. Este último servicio no podrá concesionarse.
+I.- La prestación por sí o por conducto de terceras personas a través de concesiones, de los servicios de salud pública municipal, rastro municipal, y control de población canina y felina. Este último servicio no podrá concesionarse;
 
-II. Vigilar que los servicios que proporcione el rastro a los usuarios se haga en condiciones que garantice la higiene en el sacrificio humanitario y transportación de los productos cárnicos;
+II.- Dar seguimiento a los convenios de coordinación y colaboración que, en su caso, celebre el municipio con instituciones de salud, tanto federales, estatales y de otros municipios, así como ejecutar las acciones que le encomienden en dichos convenios;
 
-III. Regular la introducción de ganado y el abastecimiento de carne para el consumo humano dentro de su ámbito de competencia.
+III.- Compilar la información referida en el artículo 104 de la Ley General de Salud, que sea generada o manejada por el Municipio, a fin de suministrarla a la Secretaría de Salud del Gobierno Federal con la periodicidad y en los términos que dicha Secretaría señale;
 
-IV. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y/o derechos municipales, así como haber acreditado la legítima propiedad del ganado, dentro de sus instalaciones.
+IV.- Implementar, en conjunto con otras dependencias u organismos descentralizados municipales que resulten competentes, las actividades que encomiende a los municipios la Secretaría de Salud del Gobierno Federal, a fin de ejecutar acciones extraordinarias en materia de salubridad general conforme a lo establecido en la Ley General de Salud;
 
-V. Determinar el destino de las carnes no apropiadas para el consumo de la población de acuerdo a la normatividad vigente.
+V.- Vigilar el cumplimiento de la Ley General de Salud, de la Ley de Salud del Estado de Aguascalientes y de las disposiciones que se dicten con base en esos ordenamientos, atendiendo a lo que se determine en los convenios que para el efecto celebre el Municipio con el Gobierno del Estado y a lo que dispongan la propia Ley de Salud del Estado y otros ordenamientos locales.
 
-VI. Regular y vigilar la salud pública por conducto de sus diversas unidades administrativas;
+Dicha vigilancia se realizará mediante visitas de verificación a cargo del personal expresamente autorizado por esta dependencia, las cuales se desahogarán de conformidad con la Ley de Salud del Estado de Aguascalientes y demás disposiciones legales aplicables.
 
-VII. Verificar y vigilar el cumplimiento de las condiciones sanitarias de los establecimientos, productos, actividades y servicios en protección de la salud de la población;
+Las visitas de verificación también podrán desarrollarse por la Guardia Sanitaria Municipal, pero en todo caso, deberá cumplirse con lo establecido en el párrafo anterior;
 
-VIII. Promover, fortalecer y apoyar las acciones en materia de salubridad local a cargo del Municipio, con sujeción a las políticas nacionales y estatales de salud y a los convenios que al efecto se celebren;
+VI.- Ordenar y ejecutar las medidas de seguridad previstas en la Ley General de Salud y en la Ley de Salud del Estado de Aguascalientes, atendiendo a lo que se determine en los convenios que al efecto celebre el Municipio con el Gobierno del Estado y a lo que disponga la propia Ley de Salud del Estado y otros ordenamientos locales;
 
-IX. Vigilar en la esfera de su competencia el cumplimiento de la Ley de Salud del Estado de Aguascalientes y de las demás disposiciones legales de la materia, así como instrumentar y desarrollar programas municipales que procuren el cumplimiento de este fin;
+VII.- Establecer políticas y criterios, en el marco de las disposiciones aplicables, para la regulación sanitaria de los giros comerciales y lugares sujetos a verificación de competencia municipal que se establezcan en el Reglamento Interno de la Coordinación General de Salud;
 
-X. Coordinarse con las autoridades estatales y federales en materia de salud a efecto de instrumentar y desarrollar programas para el mejoramiento de los niveles de salud y bienestar en el Municipio; y
+VIII.- Dar seguimiento a los convenios que celebre el Ayuntamiento con el Poder Ejecutivo del Estado en materia de desconcentración o descentralización para la prestación de los servicios de salubridad general y los de salubridad local conforme a lo previsto en el artículo 29 de la Ley de Salud del Estado de Aguascalientes, y en su caso, ejecutar las acciones que se le encomienden con motivo de dichos convenios;
 
-XI. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+IX.- Ejecutar las acciones que le encomienden el Ayuntamiento o la persona que se desempeñe como Presidente Municipal, a fin de que el Municipio contribuya con el Instituto de Servicios de Salud del Estado de Aguascalientes y con el Instituto de Atención Integral de Enfermedades Renales del Estado de Aguascalientes en los términos establecidos en la Ley de Salud del Estado, los convenios que el municipio suscriba con el Ejecutivo del Estado y demás normas aplicables;
+
+X.- Elaborar los programas municipales de salud en el marco del Sistema Nacional y Estatal de Salud, que corresponda desarrollar al Ayuntamiento de conformidad con el artículo 30 de la Ley de Salud del Estado de Aguascalientes;
+
+XI.- Ejecutar las acciones que el Ayuntamiento o la persona que se desempeñe como Presidente Municipal le encomienden, a fin de que el municipio participe en la creación y puesta en marcha de políticas públicas en materia de atención primaria de conformidad con lo previsto en el artículo 30 fracción VIII de la Ley de Salud del Estado de Aguascalientes, así como dar seguimiento a la implementación de dichas políticas;
+
+XII.- Organizar comités y subcomités de salud, así como casas de salud de conformidad con lo establecido en los artículos 66 y 67 de la Ley de Salud del Estado de Aguascalientes;
+
+XIII.- Apoyar y fomentar las actividades que en materia materno infantil refiere el artículo 73 de la Ley de Salud del Estado de Aguascalientes, así como dar seguimiento a tales actividades;
+
+XIV.- Coordinarse con las autoridades federales y estatales competentes, para realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, de prevención y control de las no transmisibles y de investigación, prevención y control de accidentes, así como para realizar actividades de investigación, prevención, consejería, detección, diagnóstico, tratamiento, control, seguimiento, evaluación y vigilancia de la enfermedad renal, lo anterior, conforme a lo establecido en el artículo 120 de la Ley de Salud del Estado de Aguascalientes;
+
+XV.- Coordinarse con las autoridades federales y estatales competentes, para la elaboración de programas o campañas en materia de control o erradicación de enfermedades transmisibles que constituyan un problema para la protección de la salud en general a la población del Municipio, así como para realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades referidas en el artículo 121 de la Ley de Salud del Estado de Aguascalientes;
+
+XVI.- Coordinarse con las autoridades federales y estatales competentes, así como con otras dependencias y organismos descentralizados del Municipio, para la ejecución del programa contra el alcoholismo y el abuso de bebidas alcohólicas referido en el artículo 158 de la Ley de Salud del Estado de Aguascalientes;
+
+XVII.- Formular y ejecutar propuestas de programas de educación para la salud en términos de lo previsto en el artículo 110 de la Ley de Salud del Estado de Aguascalientes;
+
+XVIII.- En general, promover, fortalecer y apoyar las acciones en materia de salubridad local a cargo del Municipio, con sujeción a las políticas nacionales y estatales de salud y a los convenios que al efecto se celebren;
+
+XIX.- Tener a su cargo la administración y funcionamiento del Centro de Control, Atención y Bienestar Animal de conformidad con su reglamento, a fin de atender las funciones previstas en el artículo 223 de la Ley de Salud del Estado de Aguascalientes;
+
+XX.- Tener a su cargo la administración y funcionamiento del Hospital Veterinario Municipal;
+
+XXI.- Tener a su cargo la operación de los rastros municipales en los que deberá garantizar que los servicios que proporcionen a los usuarios se hagan en condiciones que garanticen la higiene en el sacrificio humanitario y en la transportación de los productos cárnicos;
+
+XXII.- Fomentar la obtención de certificaciones de los rastros municipales, así como la implementación de buenas prácticas pecuarias, conforme a la Ley Federal de Sanidad Animal;
+
+XXIII.- Implementar medidas para evitar que en rastros municipales se lleve a cabo sacrificio de animales para consumo humano cuando se detecte la presencia de clorhidrato de clembuterol o cualquier otra sustancia nociva por la que se deba impedir, o bien, por alguno de los motivos establecidos en el artículo 100 de la Ley para el Desarrollo Pecuario del Estado de Aguascalientes; tratándose de ganado enfermo, se estará a lo previsto en el artículo 102 de esa misma Ley;
+
+XXIV. Impedir la comercialización de productos cárnicos que no hayan sido previamente inspeccionados en cuanto a sus condiciones sanitarias o no hayan cubierto los impuestos y derechos municipales, así como haber acreditado la legítima propiedad del ganado en el rastro;
+
+XXV.- Elaborar y enviar a la autoridad estatal competente, los informes mensuales sobre el movimiento y sacrificio de ganado de los rastros municipales, conforme a lo previsto en el artículo 101 de la Ley para el Desarrollo Pecuario del Estado de Aguascalientes;
+
+XXVI.- Determinar el destino de las carnes no apropiadas para el consumo humano de acuerdo con la normatividad vigente;
+
+XXVII.- Implementar medidas para garantizar la preservación y restauración del equilibrio ecológico y la protección al ambiente en relación con los efectos derivados de los servicios de rastros municipales, ello de conformidad con la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley General para la Prevención y Gestión Integral de los Residuos, la Ley de Protección Ambiental para el Estado de Aguascalientes y el Reglamento de Protección al Medio Ambiente y Manejo de Áreas Verdes del Municipio de Aguascalientes;
+
+XXVIII.- Implementar medidas para que el sacrificio de animales en rastros municipales se apegue a lo previsto en la Ley de Protección de los Animales para el Estado de Aguascalientes y las normas oficiales mexicanas aplicables;
+
+XXIX.- Autorizar, inspeccionar y vigilar el funcionamiento de los rastros y lugares de matanza, sujetándose a las normas y los procedimientos para el sacrificio de animales que emitan las autoridades competentes;
+
+XXX.- Autorizar y revisar, en los rastros, los libros de entrada de animales para su sacrificio, en los cuales se deberá asentar la información referida en el artículo 12 fracción XII de la Ley para el Desarrollo Pecuario del Estado de Aguascalientes;
+
+XXXI. Regular la introducción de ganado y el abastecimiento de carne para el consumo humano dentro de su ámbito de competencia; y
+
+XXXII. Las demás que señalen otras disposiciones legales o reglamentarias, o bien, que le encomiende el Ayuntamiento o la persona que se desempeñe como Presidente Municipal.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE FEBRERO DE 2022)</small>
 
@@ -18331,11 +18333,11 @@ Cualquier persona física o moral podrá denunciar ante la Secretaría cualquier
 
 La denuncia popular deberá interponerse por escrito con nombre, firma autógrafa, domicilio, autoridad a la que se dirija, número de expediente en el caso de que exista, así como una descripción breve de los hechos, actos u omisiones en que consista la infracción y los datos de la persona o personas a las que se impute la infracción.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 1291.
 
-La Secretaría una vez recibida la denuncia popular, integrará el expediente respectivo y solicitará a la Coordinación General de Verificación Única Administrativa que practique las visitas de verificación y diligencias necesarias; la Secretaría emitirá la resolución correspondiente conforme a lo dispuesto por la legislación en la materia, misma que notificará al denunciante como respuesta a su petición.
+La Secretaría una vez recibida la denuncia popular, integrará el expediente respectivo, practicando las inspecciones y diligencias necesarias y emitirá la resolución correspondiente conforme a lo dispuesto por la legislación en la materia, misma que notificará al denunciante como respuesta a su petición.
 
 ###### ARTÍCULO 1292.
 
@@ -18429,11 +18431,13 @@ XXXII. Municipio.- Al Municipio de Aguascalientes;
 
 XXXIII. Perímetro Ferial.- Área Urbana en la cual se ubican las diversas instalaciones de la "Feria Nacional de San Marcos", por determinado tiempo, previamente autorizado por el H. Ayuntamiento de Aguascalientes;
 
-XXXIV. Permiso.- Acto Administrativo por el cual el Municipio, autoriza la actividad del giro para el funcionamiento de un establecimiento mercantil o lugar, con la vigencia que éste le señale, el cual se expedirá a través de la Dirección de Reglamentación;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+XXXIV. Permiso.- Acto Administrativo por el cual el Municipio, autoriza la actividad del giro para el funcionamiento de un establecimiento mercantil o lugar, con la vigencia que éste le señale, el cual se expedirá a través de la Dirección de Reglamentos;
 
 XXXV. Reincidencia.- Comisión de una conducta de manera reiterada violando las disposiciones del presente Código dos o más veces, dentro de un periodo de seis meses, contados a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior;
 
-XXXVI. Reglamento.- Reglamento de Verificación Única Administrativa del Municipio de Aguascalientes;
+XXXVI. (DEROGADA, P.O. 2 DE SEPTIEMBRE DE 2024)
 
 XXXVII. Titular de Licencia y/o Permiso.- Persona física o moral a quien se le haya expedido a su nombre una licencia o permiso para ejercer cualquier actividad de las establecidas en el Libro Séptimo del presente Código; y
 
@@ -18461,11 +18465,15 @@ Las personas titulares, de las licencias o permisos que se expiden conforme a la
 
 A ninguna persona se le podrá obligar para que pertenezca a alguna organización, asociación o empresa, pague cuotas o aportaciones, pague sumas por cualquier concepto a persona o empresa alguna o se obligue a vender o no vender en favor de algún interés, como condición o requisito para que pueda disfrutar o explotar una licencia o permiso que regula el presente Libro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 1295 BIS.- La autoridad municipal competente, determinará a través de la Dirección de Reglamentos, los giros y las características especiales para su clasificación, para efectos del Título Primero, del Libro Séptimo del presente Código.
+
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
-ARTÍCULO 1295 BIS.- La autoridad municipal competente, determinará a través de la Dirección de Reglamentación, los giros y las características especiales para su clasificación, para efectos del Título Primero, del Libro Séptimo del presente Código.
-
 La clasificación de los establecimientos mercantiles que se realiza en el presente Libro es enunciativa, mas no limitativa. Cualquier establecimiento sea cual fuere su clasificación, por el sólo hecho de vender o permitir el consumo de bebidas alcohólicas, se sujetará a lo dispuesto por el presente Código y los ordenamientos jurídicos aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
 Para tal efecto, dichos establecimientos mercantiles, de acuerdo con el giro o actividad que exploten o realicen, serán equiparables a los mencionados en el presente Código, según sea el caso.
 
@@ -18475,11 +18483,11 @@ Para tal efecto, dichos establecimientos mercantiles, de acuerdo con el giro o a
 
 Las licencias y permisos que se otorguen al amparo de este Código, son personales por lo tanto son intransferibles y sólo podrán ser ejercidas por las personas que sean titulares en los establecimientos mercantiles o lugares autorizados, en consecuencia no podrán ser objeto de comercio, arrendamiento, venta, donación, comodato o cesión por concepto alguno, por parte de las personas titulares; con excepción de los supuestos previstos por la Ley de Ingresos del Municipio de Aguascalientes, correspondiente al ejercicio fiscal vigente, el presente Código y demás disposiciones legales aplicables en la materia.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 1297.
 
-Es facultad potestativa y exclusiva del Presidente Municipal, expedir, suspender, cancelar o autorizar cualquier trámite o explotación de las licencias o permisos a que se refiere el presente Libro, quien la ejercerá a través de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno o de la Dirección de Reglamentación.
+Es facultad potestativa y exclusiva del Presidente Municipal, expedir, suspender, cancelar o autorizar cualquier trámite o explotación de las licencias o permisos a que se refiere el presente Libro, quien la ejercerá a través de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno o de la Dirección de Reglamentos.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -18585,7 +18593,9 @@ IV. Dictar las disposiciones administrativas necesarias para el cumplimiento del
 
 V. Coordinar y girar las instrucciones necesarias a las autoridades competentes, para el debido cumplimiento de las presentes disposiciones;
 
-VI. Establecer y regular los horarios no previstos en el presente Libro, a través de la Dirección de Reglamentación;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Establecer y regular los horarios no previstos en el presente Libro, a través de la Dirección de Reglamentos;
 
 VII. Delegar facultades a los servidores públicos, conforme al artículo 98 del presente Código y demás disposiciones jurídicas aplicables, para el cumplimiento del presente ordenamiento; y
 
@@ -18841,7 +18851,9 @@ b) Cabaret: Es el establecimiento que por reunir determinadas condiciones de con
 
 c) Cantina: Es todo establecimiento, que cuentan con barra y contrabarra, dedicado específicamente a la venta y consumo de bebidas alcohólicas donde se podrá expender botanas y tabaco. Se podrá de manera accesoria ofrecer de manera gratuita juegos de mesa y de salón, siempre que sean legales y no medien apuestas, pueden instalarse aparatos de radio, televisores y similares, siempre funcionando a un volumen moderado y que no perturbe el orden público;
 
-d) Centro Nocturno: Es todo establecimiento que constituye un centro de reunión, donde se venden bebidas alcohólicas en envase abierto o al copeo, cuentan con un conjunto u orquesta permanente, presentando sólo espectáculos autorizados por la Dirección de Reglamentación, de los denominados variedades y con espacio para que bailen los concurrentes, siendo optativo el servicio de restaurante;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+d) Centro Nocturno: Es todo establecimiento que constituye un centro de reunión, donde se venden bebidas alcohólicas en envase abierto o al copeo, cuentan con un conjunto u orquesta permanente, presentando sólo espectáculos autorizados por la Dirección de Reglamentos, de los denominados variedades y con espacio para que bailen los concurrentes, siendo optativo el servicio de restaurante;
 
 e) Cervecería: Es el establecimiento en el que de manera exclusiva se venda cerveza en envase abierto o se expenda mediante máquinas u otro medio, de cualquier clase o presentación o en el que se preparan bebidas a base de cerveza de cualquier tipo o modalidad, para su consumo; podrá incluir la venta de comida, botanas o refrescos;
 
@@ -18917,9 +18929,17 @@ g) Lienzo Charro: Inmueble acondicionado para las suertes charras y jaripeo;
 
 h) Palenque: Local acondicionado para la realización de peleas de gallos, en el que también se presenten artistas o grupos musicales;
 
-i) Plaza de Toros: Local acondicionado para la presentación de espectáculos taurinos o eventos masivos; y
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
-j) Terraza: Local instalado provisionalmente en ferias o fiestas públicas, en el que se presenten artistas y/o grupos musicales, y que puedan contar con pista de baile.
+i) Plaza de Toros: Local acondicionado para la presentación de espectáculos taurinos o eventos masivos;
+
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+j) Terraza: Local instalado provisionalmente en ferias o fiestas públicas, en el que se presenten artistas y/o grupos musicales, y que puedan contar con pista de baile; y
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+k) Recorrido Tradicional: Espectáculo desarrollado en la vía pública, en el que se realiza un paseo por las calles, plazas o callejones que autorice el Municipio, acompañado de estudiantina, tambora, mariachi o grupo similar, durante el cual se puede permitir el consumo de vinos generosos, preferentemente producidos en el estado de Aguascalientes;
 
 IV. Establecimientos mercantiles en donde pueda venderse bebidas alcohólicas, sólo en botella o envase cerrado, quedando prohibido su consumo en el interior del establecimiento mercantil:
 
@@ -19087,13 +19107,25 @@ XXVI. PULQUERÍA Diariamente de las 10:00 horas
 
 a las 20:00 horas;
 
-XXVII. PERMISOS La autoridad municipal establecerá
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+XXVII. RECORRIDO sábados de las 12:00 a las 23:59 horas;
+
+TRADICIONAL así como viernes, domingos y días festivos
+
+de 18:00 a 23:59 horas.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+XXVIII. PERMISOS La autoridad municipal establecerá
 
 ESPECIALES O los horarios a que se sujetarán; y
 
 POR TEMPORADA
 
-XXVIII. Otros. La Dirección de Reglamentación
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+XXIX. OTROS La Dirección de Reglamentos
 
 los determinará.
 
@@ -19108,6 +19140,38 @@ Los establecimientos mercantiles o lugares que tengan restricción para la entra
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
 ARTÍCULO 1301 TER.- Para la autorización de cualquier espectáculo público, en el que se permita la venta y/o consumo de bebidas alcohólicas, previa licencia o permiso, ésta deberá realizarse en vaso de plástico desechable o de cualquier material similar que pueda ser reciclado, que no implique peligro para quienes acudan al evento o espectáculo, prohibiéndose los vasos de vidrio, metal o de barro. Se deberán respetar los horarios previstos en el presente capítulo o en el que determine la autoridad municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 1301 QUATER.- Lo previsto en el artículo 1301 TER también aplica a los Recorridos Tradicionales, mismos que además se sujetarán a lo siguiente:
+
+I.- Podrán ser:
+
+a) Familiares, cuyo aforo sea menor de 100 personas y deriven de eventos familiares como pueden ser bodas o quince años, los cuales se sujetarán a lo previsto en este Código; y
+
+b) Populares, los cuales no derivan de eventos familiares, o que derivados de esos eventos, su aforo sea de 100 o más personas, los cuales se sujetarán a lo previsto en este Código y en el Reglamento de Espectáculos y Diversiones Públicas del Municipio de Aguascalientes.
+
+También se podrán otorgar permisos para celebrar cualquier tipo de Recorridos Tradicionales sin consumo de vinos generosos, en los días y horas previstos en el artículo 1301 fracción XXVII de este Código.
+
+Se podrán otorgar permisos en días y horarios distintos a los establecidos en el artículo 1301 fracción XXVII del presente Código, cuando exista causa justificada y atendiendo a la logística del evento, lo que se podrá realizar, por ejemplo, por alguna festividad especial como la Feria Nacional de San Marcos, el Festival de las Calaveras, la Ruta del Vino o cualquier otra.
+
+Las solicitudes y requisitos para celebrar Recorridos Tradicionales con o sin consumo de vinos generosos, tratándose de los Recorridos Tradicionales familiares, se sujetarán a lo previsto en el artículo 1312 del presente Código; y tratándose de Recorridos Tradicionales populares, se sujetarán al Reglamento de Espectáculos y Diversiones Públicas del Municipio de Aguascalientes;
+
+II. La ruta del paseo deberá ser aprobada por la Coordinación Municipal de Protección Civil, la cual emitirá dictamen en donde se señale el número máximo de asistentes y los aspectos de operatividad que estime pertinentes para garantizar la seguridad de participantes, automovilistas y peatones. La Coordinación Municipal de Protección Civil contará con el auxilio de la Dirección de Movilidad de la Secretaría de Seguridad Pública y ésta deberá validar la ruta del paseo la cual podrá ser variada o rechazada para garantizar el tránsito adecuado de personas y vehículos;
+
+III. La Dirección de Reglamentos, en su caso, autorizará el permiso respectivo ajustándose al dictamen referido en la fracción anterior;
+
+IV. Los derechos a cubrir para la celebración de un Recorrido Tradicional se sujetarán a lo establecido en la ley de ingresos del municipio vigente;
+
+V. Los participantes en los Recorridos Tradicionales deberán ir identificados mediante collares, pulseras, tarjetas colocadas sobre la ropa, o cualquier otro distintivo visible, los cuales deberán ser proporcionados por los organizadores. Asimismo, en su desarrollo se procurará la difusión de la imagen y obra de personajes ilustres de Aguascalientes;
+
+VI. El desarrollo de los Recorridos Tradicionales será vigilado por elementos de la Secretaría de Seguridad Pública y verificadores de la Dirección de Reglamentos. En caso de que se incumpla con los términos establecidos en el permiso se suspenderá, pudiéndose reanudar cuando se subsane el incumplimiento siempre que se esté dentro del horario y el día autorizados en el propio permiso. En todo Recorrido Tradicional estará prohibido el uso de fuegos pirotécnicos;
+
+VII. Las faltas administrativas cometidas durante el desahogo del Recorrido Tradicional se sancionarán de conformidad con el Reglamento de Justicia Cívica para el Municipio de Aguascalientes y el presente Código;
+
+VIII. La Dirección de Reglamentos podrá otorgar permisos para celebrar Recorridos Tradicionales en días y horarios distintos a los establecidos en el artículo 1301 de este Código, cuando determine que existe causa justificada; y
+
+IX. Cuando se obtengan ingresos por la organización de Recorridos Tradicionales se deberá pagar el Impuesto sobre Juegos Permitidos, Espectáculos Públicos, Diversiones y Aparatos Mecánicos o Electromecánicos Accionados con Monedas o Fichas, de conformidad con la ley de ingresos del municipio vigente.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -19125,7 +19189,9 @@ ARTÍCULO 1302 BIS.- Los establecimientos mercantiles y/o lugares a que se refie
 
 ARTÍCULO 1302 TER.- Para los efectos de la ampliación o anticipación de horario, se deberán cumplir los siguientes requisitos:
 
-I. Presentar solicitud por escrito en la Dirección de Reglamentación por cada evento y señalar el horario solicitado;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+I. Presentar solicitud por escrito en la Dirección de Reglamentos por cada evento y señalar el horario solicitado;
 
 II. Realizar el pago correspondiente en la Secretaría de Finanzas Públicas, que establezca la Ley de Ingresos del Municipio de Aguascalientes correspondiente al ejercicio fiscal vigente;
 
@@ -19135,9 +19201,9 @@ IV. Atender los criterios y lineamientos que establezca la autoridad municipal; 
 
 V. Los demás necesarios para evitar alterar el orden público, las buenas costumbres y el bienestar colectivo.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 1302 QUATER.- Reunidos los requisitos correspondientes, la Dirección de Reglamentación tendrá la facultad potestativa para otorgar o negar el permiso para la ampliación y/o anticipación de horario.
+ARTÍCULO 1302 QUATER.- Reunidos los requisitos correspondientes, la Dirección de Reglamentos tendrá la facultad potestativa para otorgar o negar el permiso para la ampliación y/o anticipación de horario.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -19193,39 +19259,67 @@ Todas las licencias reglamentadas deberán ser renovadas anualmente a más tarda
 
 ARTÍCULO 1305 BIS.- Para la realización de cambio de domicilio del establecimiento mercantil, industrial o de servicios reglamentados o especiales, la persona interesada debe cumplir con todos y cada uno de los requisitos necesarios como si se tratase de una solicitud de licencia nueva, realizar el pago de los derechos correspondientes y contar con la autorización de la autoridad municipal competente.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 1306.
 
-Cualquier persona interesada en obtener una licencia para un establecimiento mercantil que se dedique a la venta y/o consumo de bebidas alcohólicas; sustancias o medicamentos de efectos psicotrópicos o enervantes, deberá presentar ante la Dirección de Reglamentación, los siguientes requisitos:
+Cualquier persona interesada en obtener una licencia para un establecimiento mercantil que se dedique a la venta y/o consumo de bebidas alcohólicas; sustancias o medicamentos de efectos psicotrópicos o enervantes, deberá presentar ante la Dirección de Reglamentos, los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
 I. Formato de solicitud por escrito, que expide la Secretaría de Finanzas Públicas, debidamente complementada y firmada con los datos generales de la persona interesada o representante legal;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
 II. Identificación oficial con fotografía vigente de la persona solicitante;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
 III. Fotografía tipo pasaporte, reciente y sin retoque de la persona solicitante;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
 IV. Tratándose de personas morales, copia certificada en original del documento notarial que acredite la existencia de la misma y la representación legal de la persona solicitante;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
 V. Señalar domicilio para oír y recibir notificaciones dentro del municipio, así como la constancia o comprobante de domicilio vigente de la persona solicitante en el Municipio de Aguascalientes;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
 VI. Registro Federal de Contribuyentes expedido por el Servicio de Administración Tributaria, de la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
 VII. Que el inmueble donde se pretenda instalar el establecimiento mercantil no sea casa-habitación y en el caso que se encuentren en el mismo predio, que no tenga ningún tipo de acceso a ésta u otros locales comerciales, debiéndose contar con las modificaciones estructurales para que se cumpla este supuesto;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
 VIII. Croquis de ubicación exacta del lugar en donde se pretende establecer el negocio de que se trate y acompañado de la escritura que lo acredite como persona propietaria o el documento que le otorgue la posesión derivada de dicho inmueble;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
 IX. Acompañar constancia de Alineamiento y Compatibilidad Urbanística expedida por la Secretaría de Desarrollo Urbano o en su caso proyecto de cambio del uso del suelo;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
 X. Que el inmueble y/o la persona solicitante, estén al corriente con sus obligaciones fiscales con el Municipio de Aguascalientes;
 
-XI. Firmas de por lo menos diez vecinos inmediatos del lugar en caso de que existan éstos, las cuales deberán ser recabadas con los vecinos de la parte frontal, anterior y laterales, en el cual se pretende operar la licencia, manifestando su conformidad, en el formato que para tal efecto expedirá la Dirección de Reglamentación;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Firmas de por lo menos diez vecinos inmediatos del lugar en caso de que existan éstos, las cuales deberán ser recabadas con los vecinos de la parte frontal, anterior y laterales, en el cual se pretende operar la licencia, manifestando su conformidad, en el formato que para tal efecto expedirá la Dirección de Reglamentos;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
 XII. Fotografías del exterior y del interior del establecimiento; y
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
+
 XIII. Que el acceso del establecimiento mercantil sea independiente y por la vía pública.
 
-Además del cumplimiento de los requisitos anteriores, para los establecimientos mercantiles señalados en la fracción I, II, III y IV incisos c), d), f), j) y k) del artículo 1300 del presente Código, que tengan una capacidad de aforo mayor a cien personas, deberán cumplir con los siguientes requisitos:
+(REFORMADO, P.O. 4 DE MARZO DE 2013)Además del cumplimiento de los requisitos anteriores, para los establecimientos mercantiles señalados en la fracción I, II, III y IV incisos c), d), f), j) y k) del artículo 1300 del presente Código, que tengan una capacidad de aforo mayor a cien personas, deberán cumplir con los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
 I. Dictamen o peritaje del local, expedido por la autoridad competente, en el cual se señale que el establecimiento mercantil, tiene la construcción o adecuaciones estructurales necesarias para no contaminar el medio ambiente con sonidos estridentes, generados en su interior;
 
@@ -19233,31 +19327,55 @@ I. Dictamen o peritaje del local, expedido por la autoridad competente, en el cu
 
 II. Constancia emitida por la Coordinación Municipal de Protección Civil, en la que conste que cumple con las condiciones de seguridad, que señala el presente Código y demás disposiciones aplicables en la materia;
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 III. Constancia de la Secretaría de Salud, en la que se señale que el establecimiento reúne las condiciones sanitarias adecuadas para su funcionamiento, en el caso que aplique según la normatividad aplicable;
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 IV. Acreditar el servicio de seguridad pública o privada, mediante el recibo de pago expedido por la Secretaría de Finanzas Públicas o convenio correspondiente que acredite tal servicio con empresa legalmente registrada, por el periodo de un año, éste requisito sólo aplicará para los establecimientos mercantiles dedicados a la venta y consumo de bebidas alcohólicas; y
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 V. Cualquier otro que considere oportuno la autoridad municipal únicamente para salvaguardar el orden público e interés general.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 La autoridad municipal solicitará a los establecimientos mercantiles que se dediquen a la venta y consumo de bebidas alcohólicas, que cuenten con un seguro de responsabilidad civil por daños a terceros, en relación a la capacidad de aforo de cada establecimiento.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 La carencia de cualquiera de los requisitos que señala el presente artículo, dará lugar a que no se dé trámite y se rechace la solicitud de que se trate.
 
-> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 1306 BIS.- Recibida la solicitud, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno solicitará a través de la Dirección de Reglamentación a las dependencias municipales competentes, que remitan los dictámenes correspondientes en el término de cinco días hábiles, los cuales deberán indicar:
+ARTÍCULO 1306 BIS.- Recibida la solicitud, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno solicitará a través de la Dirección de Reglamentos a las dependencias municipales competentes, que remitan los dictámenes correspondientes en el término de cinco días hábiles, los cuales deberán indicar:
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 I. Si el inmueble en el que se pretende establecer el giro correspondiente, reúne o no las características que establece la reglamentación municipal en materia de construcciones;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 II. Si el inmueble cumple o no con la normatividad aplicable en materia de: seguridad, salubridad, comodidad e higiene;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 III. Si el inmueble no afecta las vialidades públicas, por causa de: enseres en vía pública, por causa de estacionamiento o por cualquier otra;
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 IV. La ubicación en la que se demuestre fehacientemente si existe o no, institución educativa o centro deportivo, en un radio de acción de ciento cincuenta metros en relación con el establecimiento mercantil;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
 V. Si el inmueble cuenta con las instalaciones de acústica que evite sonidos estridentes o excesivos, que causen molestias a los vecinos; y
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
 VI. Cualquier otro necesario para la comprobación de los requisitos y disposiciones que señale el presente Código.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
 Las distancias referidas se establecerán tomando en cuenta el acceso principal de los lugares de referencia.
 
@@ -19265,11 +19383,11 @@ Las distancias referidas se establecerán tomando en cuenta el acceso principal 
 
 ARTÍCULO 1306 TER.- El H. Cabildo mediante acuerdo aprobado, que se publique en el Periódico Oficial del Estado, puede decretar el establecimiento de zonas comerciales, que consistirán en lugares determinados en los cuales para el fomento del turismo y la actividad comercial se eximirá a los establecimientos mercantiles del cumplimiento de la fracción cuarta del artículo anterior y se podrán ofrecer estímulos para el establecimiento de negocios.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 1307.
 
-El expediente se integrará hasta que la persona solicitante cubra todos los requisitos que señala el presente Código y éstos sean revisados y aprobados por la Dirección de Reglamentación. Una vez integrado se tendrá que resolver sobre la procedencia o improcedencia de la solicitud, en el término de cuarenta y cinco días hábiles y en el supuesto de no resolver al respecto en el lapso señalado se considerará en sentido negativo.
+El expediente se integrará hasta que la persona solicitante cubra todos los requisitos que señala el presente Código y éstos sean revisados y aprobados por la Dirección de Reglamentos. Una vez integrado se tendrá que resolver sobre la procedencia o improcedencia de la solicitud, en el término de cuarenta y cinco días hábiles y en el supuesto de no resolver al respecto en el lapso señalado se considerará en sentido negativo.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -19277,11 +19395,11 @@ El expediente se integrará hasta que la persona solicitante cubra todos los req
 
 Si de los dictámenes técnicos de las autoridades se desprende que no se cubre alguno de los requisitos señalados por el presente Código, la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, negará la licencia y lo hará saber a la persona solicitante en el domicilio señalado en su solicitud.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 1309.
 
-Si el dictamen técnico emitido por la Dirección de Reglamentación, determina que se cubren la totalidad de los requisitos señalados para el otorgamiento de la licencia, se someterá la propuesta al Presidente Municipal, para el análisis de su viabilidad y en su caso aprobación.
+Si el dictamen técnico emitido por la Dirección de Reglamentos determina que se cubren la totalidad de los requisitos señalados para el otorgamiento de la licencia, se someterá la propuesta al Presidente Municipal, para el análisis de su viabilidad y en su caso aprobación.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -19335,29 +19453,45 @@ c) Tener sentencia condenatoria por la comisión de delitos dolosos; y
 
 d) Por causa de preservar el orden público y el bienestar general.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 1312.
 
-La expedición de permisos para la realización de eventos artísticos, tradicionales, deportivos, festividades cívicas, ferias, verbenas, eventos especiales u ocasionales, en los que se pretenda vender bebidas alcohólicas, la persona interesada deberá solicitar con un mínimo de tres días hábiles de anticipación a la fecha de realización al evento, cumpliendo con los siguientes requisitos:
+La expedición de permisos para la realización de eventos artísticos, tradicionales, deportivos, festividades cívicas, ferias, verbenas, Recorridos Tradicionales, eventos especiales u ocasionales, en los que se pretenda vender o consumir bebidas alcohólicas, la persona interesada deberá solicitar con un mínimo de tres días hábiles de anticipación a la fecha de realización al evento, cumpliendo con los siguientes requisitos:
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 a) Presentar solicitud ante la Dirección de Reglamentos, dirigida a la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, en el formato establecido;
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 b) Datos generales de la persona solicitante;
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 c) Lugar donde se realizará el evento;
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 d) Especificar la actividad o giro reglamentado que pretende realizar;
 
-e) Anexar croquis que ubique el lugar en el que se va a instalar;
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+e) Anexar croquis que ubique el lugar en el que se va a instalar. Tratándose de Recorridos Tradicionales, el mapa en el que se refleje el trayecto del paseo que se pretende;
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 f) Motivo del evento o celebración:
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 g) Horario pretendido;
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 h) Calcular el Aforo del lugar, en su caso;
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 i) Tener contratado para el día del evento, servicio de seguridad pública;
 
@@ -19365,23 +19499,27 @@ i) Tener contratado para el día del evento, servicio de seguridad pública;
 
 j) Que cumpla con las medidas de seguridad aplicables a la materia;
 
-> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
-k) Los demás que determine y solicite la Dirección de Reglamentos, para el cumplimiento de las disposiciones del presente Libro; y
+k) Los demás que determine y solicite la Dirección de Reglamentos, para el cumplimiento de las disposiciones del presente Libro;
 
-> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
-l) El cumplimiento a las condicionantes establecidas en la autorización que expida la SEMADESU.
+l) El cumplimiento a las condicionantes establecidas en la autorización que expida la SEMADESU;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
-m) Los giros que tengan música viva o grabada deberán Presentar consentimiento por escrito de la Sociedad de Autores y Compositores de México, Sociedad de Gestión Colectiva de Interés Público, para usar, comunicar, ejecutar, explotar, trasmitir, reproducir, o de cualquier otra forma o modalidad de comunicar obras musicales que son protegidas por la Ley Federal del Derecho de Autor; y
+m) Los giros que tengan música viva o grabada deberán Presentar consentimiento por escrito de la Sociedad de Autores y Compositores de México, Sociedad de Gestión Colectiva de Interés Público, para usar, comunicar, ejecutar, explotar, trasmitir, reproducir, o de cualquier otra forma o modalidad de comunicar obras musicales que son protegidas por la Ley Federal del Derecho de Autor.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2016)</small>
 
 La Dirección de Reglamentos, determinará los casos en que aplicará el inciso i); La Secretaría de Seguridad Pública Municipal determinará el número de integrantes operativos que se requieran para el evento en atención al aforo que se pretende. Reunidos los requisitos correspondientes, la autoridad municipal tendrá la facultad potestativa para otorgar o negar el permiso correspondiente.
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
 Una vez autorizado el evento, la persona solicitante deberá realizar el pago correspondiente en las cajas recaudadoras autorizadas por la Secretaría de Finanzas Públicas del Municipio de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
 
 Los lugares en los que se vayan a realizar cualquiera de los eventos a que se refiere este artículo deberán contar con las medidas de seguridad que determine las autoridades competentes de conformidad con las leyes y reglamentos aplicables a la materia.
 
@@ -19425,7 +19563,9 @@ Cuando se presuma que los hechos revisten carácter delictivo, se procederá a f
 
 Para la renovación de la licencia, la persona titular deberá presentar los siguientes requisitos:
 
-I. Acudir la persona titular y/o su representante legal que lo acredite mediante documento notarial y suscribir la solicitud preestablecida por la Dirección de Reglamentación;
+> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+
+I. Acudir la persona titular y/o su representante legal que lo acredite mediante documento notarial y suscribir la solicitud preestablecida por la Dirección de Reglamentos;
 
 II. Credencial o identificación oficial con fotografía vigente;
 
@@ -19855,9 +19995,9 @@ VIII. Las demás que determine la autoridad.
 
 IX. Deberán colocar en el exterior del establecimiento mercantil un anuncio visible y legible que contenga la leyenda de: "EN ESTE ESTABLECIMIENTO NO SE DISCRIMINA EL INGRESO NI EL SERVICIO A PERSONA ALGUNA POR MOTIVOS DE SU ORIGEN ÉTNICO, NACIONALIDAD, GÉNERO, DISCAPACIDADES, CONDICIÓN SOCIAL, CONDICION DE SALUD, RELIGIÓN, OPINIONES, PREFERENCIAS SEXUALES, EL ESTADO CIVIL O CUALQUIER OTRA QUE ATENTE CONTRA LA DIGNIDAD HUMANA", acompañada del número telefónico de la Comisión de Derechos Humanos del Estado de Aguascalientes.
 
-(REPUBLICADO, P.O. 16 DE DICIEMBRE DE 2019)
+> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
 
-Los requisitos para el otorgamiento de esta licencia de carácter especial serán: uso del suelo que emitirá la autoridad correspondiente, identificación oficial con fotografía, contrato de arrendamiento en caso de no ser propietario u otro documento que acredite la legal posesión del mismo, comprobante del domicilio particular actual del solicitante, fotografías del exterior y de las instalaciones del negocio, constancia del número de equipos de cómputo que se registren ante la Dirección de Reglamentación.
+Los requisitos para el otorgamiento de esta licencia de carácter especial serán: uso del suelo que emitirá la autoridad correspondiente, identificación oficial con fotografía, contrato de arrendamiento en caso de no ser propietario u otro documento que acredite la legal posesión del mismo, comprobante del domicilio particular actual del solicitante, fotografías del exterior y de las instalaciones del negocio, constancia del número de equipos de cómputo que se registren ante la Dirección de Reglamentos.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -25658,3 +25798,17 @@ P.O. 26 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes reformas, adiciones y derogaciones al Código Municipal de Aguascalientes, así como el Manual de Lineamientos que regulan la Entrega-Recepción de la Administración Pública del Municipio de Aguascalientes, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS AL CÓDIGO MUNICIPAL Y AL REGLAMENTO DE ESPECTÁCULOS Y DIVERSIONES PÚBLICAS DEL MUNICIPIO DE AGUASCALIENTES, EN MATERIA DE RECORRIDOS TRADICIONALES Y ACTUALIZACIÓN DE LA DENOMINACIÓN DE ALGUNAS INSTANCIAS MUNICIPALES”.]
+
+ÚNICO.- Las presentes reformas, adiciones y derogaciones iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 2 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DE LA COORDINACIÓN GENERAL DE SALUD DEL MUNICIPIO DE AGUASCALIENTES; ASÍ COMO DIVERSAS REFORMAS AL CÓDIGO MUNICIPAL DE AGUASCALIENTES, AL REGLAMENTO DE RASTROS DEL MUNICIPIO DE AGUASCALIENTES, AL REGLAMENTO SANITARIO DE CONTROL, PROTECCIÓN Y TRATO DIGNO A LOS ANIMALES DEL MUNICIPIO DE AGUASCALIENTES Y AL REGLAMENTO INTERIOR DEL CENTRO DE CONTROL, ATENCIÓN BIENESTAR ANIMAL DEL MUNICIPIO DE AGUASCALIENTES".]
+
+PRIMERO.- Las presentes reformas y adiciones, así como el Reglamento Interno de la Coordinación General de Salud del Municipio de Aguascalientes, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- El Reglamento para la Protección y Trato Digno a los Animales del Municipio de Aguascalientes, publicado en el Periódico Oficial del Estado el 3 de octubre de 2011, quedó abrogado tácitamente mediante la expedición del Reglamento Sanitario de Control, Protección y Tratamiento Digno a los Animales del Municipio de Aguascalientes publicado en el Periódico Oficial del Estado el 21 de octubre de 2019.
