@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-del-instituto-de-la-vivienda-de-nuevo-167755
 country: "mx"
 rank: "codigo"
 publication_date: "2022-11-09"
-last_updated: "2022-11-09"
+last_updated: "2024-09-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 2 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Código publicado en la Sección Tercera del Número 160 del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de noviembre de 2022.
 
@@ -790,3 +792,17 @@ LIC. LUIS ADOLFO MONROY RODRÍGUEZ
 ENCARGADA DEL DESPACHO DE LA UNIDAD DE TRANSPARENCIA DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEÓN Y SECRETARIA TÉCNICA DEL COMITÉ DE ÉTICA Y DE PREVENCIÓN DE CONFLICTOS DE INTERÉS DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEÓN
 
 LIC. SEGHOLENE APARICIO ZAMORA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL INSTITUTO DE LA VIVIENDA DE NUEVO LEÓN".]
+
+PRIMERO. El presente Código de Conducta, se expide de conformidad con la aprobación efectuada en la Segunda Sesión Ordinaria del Comité de Ética y de Prevención de Conflictos de Interés del Instituto de la Vivienda de Nuevo León, celebrada el 28 de junio de 2024.
+
+SEGUNDO. Se abroga el Código de Conducta del Instituto de la Vivienda de Nuevo León, publicado en el Periódico Oficial del Estado de fecha 9 de noviembre de 2022.
+
+TERCERO. En las situaciones de orden legal y administrativas no previstas en el presente ordenamiento, se estará a lo dispuesto en el Acuerdo Administrativo por el que se emite el Código de Ética de las personas servidoras públicas de la Administración Pública del Estado de Nuevo León, así como en el Acuerdo por el que se expide el Protocolo para la Prevención y Atención del Hostigamiento Sexual y Acoso Sexual para la Administración Pública del Estado, y demás disposiciones legales y administrativas aplicables.
+
+CUARTO. El presente Código de Conducta, entrará en vigor al día hábil siguiente al de su publicación en el Periódico Oficial del Estado.
