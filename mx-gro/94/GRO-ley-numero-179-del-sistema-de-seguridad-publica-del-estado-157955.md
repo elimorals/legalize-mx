@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-179-del-sistema-de-seguridad-publica-del-estado-1579
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-14"
-last_updated: "2022-05-03"
+last_updated: "2024-09-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157955&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NUMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de Guerrero, el jueves 14 de abril de 2022. (REPUBLICADA EN EL P.O. 3 DE MAYO DE 2022).
 
@@ -37,7 +37,7 @@ Que el H. Congreso Local, se ha servido comunicarme que,
 
 LA SEXAGÉSIMA TERCERA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN NOMBRE DEL PUEBLO QUE REPRESENTA, Y:
 
-1.C O N S I D E R A N D O
+1. C O N S I D E R A N D O
 
 [...]
 
@@ -69,7 +69,9 @@ Para los efectos de esta Ley, se entenderá y conceptualizará por:
 
 I. Ayuntamiento: La autoridad municipal;
 
-II. Bases de Datos: Las Bases de Datos Criminalística y de Personal, información en materia de detenciones, información criminal, personal de seguridad pública, servicios de seguridad privada, armamento y equipo, vehículos, huellas dactilares, teléfonos celulares, sentenciados y las necesarias para la operación del Sistema;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+II. Bases de Datos: Las bases de datos que constituyen subconjuntos sistematizados de la información contenida en Registros Nacionales en materias relativas a detenciones, armamento, equipo y personal de seguridad pública, medidas cautelares, soluciones alternas y formas de terminación anticipada, así como las bases de datos del Ministerio Público y las instituciones policiales de los tres órdenes de gobierno relativas a la información criminalística, huellas dactilares de personas sujetas a un proceso o investigación penal, teléfonos celulares, personas sentenciadas y servicios de seguridad privada, así como las demás necesarias para la prevención, investigación y persecución de los delitos. El conjunto de bases de datos conformará el Sistema Estatal de Información;
 
 III. Carrera Policial: El Servicio Profesional de Carrera Policial;
 
@@ -109,9 +111,15 @@ XX. Secretaría: La Secretaría de Seguridad Pública del Gobierno del Estado de
 
 XXI. Secretariado Ejecutivo: El Secretariado Ejecutivo como Órgano Administrativo Desconcentrado de la Secretaría;
 
-XXII. Sistema Estatal: El Sistema Estatal de Seguridad Pública, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
-XXIII. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
+XXII. Sistema Estatal: El Sistema Estatal de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XXIII. Ley de Uso de Tecnologías: Ley que Regula el Uso de Tecnologías de la Información y Comunicación para la Seguridad Pública del Estado de Guerrero;
+
+XXIV. Sistema Nacional: El Sistema Nacional de Seguridad Pública.
 
 ### Capítulo II. Ámbito de competencia
 
@@ -131,9 +139,13 @@ V. Desarrollar, aplicar y supervisar los procedimientos de selección, ingreso, 
 
 VI. Desarrollar y aplicar los sistemas disciplinarios, así como de reconocimientos, estímulos y recompensas;
 
-VII. Impulsar, evaluar y determinar criterios uniformes para la organización, operación y modernización tecnológica de las instituciones de seguridad pública;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Establecer, supervisar, utilizar y mantener actualizadas las Bases de Datos;
+VII. Impulsar, evaluar y determinar criterios uniformes para la organización, operación y modernización tecnológica de las instituciones de seguridad pública, conforme a lo establecido en la Ley de Uso de Tecnologías;
+
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Establecer, supervisar, utilizar y mantener actualizadas las Bases de Datos, conforme a lo establecido en la Ley de Uso de Tecnologías;
 
 IX. Realizar acciones y operativos conjuntos de las instituciones de seguridad pública;
 
@@ -155,9 +167,19 @@ XVII. Formalizar los convenios de colaboración respectivos para brindar los ser
 
 XVIII. Auxiliar a la población en caso de siniestros y desastres;
 
-XIX. Distribuir a las personas integrantes del Sistema Estatal, actividades específicas para el cumplimiento de los fines de la seguridad pública, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
-XX. Las demás acciones que sean necesarias para incrementar la eficiencia y eficacia en el cumplimiento de los objetivos y fines de la seguridad pública.
+XIX. Distribuir a las personas integrantes del Sistema Estatal, actividades específicas para el cumplimiento de los fines de la seguridad pública;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Proponer, coordinar y ejecutar la implementación de las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la Ley de Uso de Tecnologías y el Reglamento;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Clasificar, resguardar y registrar la información captada por los equipos y sistemas tecnológicos en los términos establecidos por la Ley de Uso de Tecnologías, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables, y
+
+XXII. Las demás acciones que sean necesarias para incrementar la eficiencia y eficacia en el cumplimiento de los objetivos y fines de la seguridad pública.
 
 ###### Artículo 5.
 
@@ -333,9 +355,15 @@ XXIV. Promover y desarrollar las bases para la coordinación del Sistema Estatal
 
 XXV. Autorizar las bases para la profesionalización y operación del Cuerpo de la Policía Estatal;
 
-XXVI. Proponer iniciativas de ley, reglamentos y disposiciones administrativas relativas a la seguridad pública, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
-XXVII. Las demás que se establezcan en otras disposiciones normativas y que sean necesarias para los objetivos y funcionamiento del Sistema Estatal.
+XXVI. Proponer iniciativas de ley, reglamentos y disposiciones administrativas relativas a la seguridad pública;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XXVIII (SIC). Verificar el cumplimiento de las disposiciones que en materia del uso de tecnologías de la información y comunicación para la seguridad pública establezca la Ley de Que Regula el Uso de Tecnologías de la información y Comunicación para la Seguridad Pública del Estado de Guerrero y su reglamento, y
+
+XXVIII. Las demás que se establezcan en otras disposiciones normativas y que sean necesarias para los objetivos y funcionamiento del Sistema Estatal.
 
 ### Capítulo IV. Secretariado Ejecutivo
 
@@ -379,11 +407,37 @@ XV. Integrar las estadísticas, con el propósito de planear las estrategias y p
 
 XVI. Adoptar las medidas necesarias para que el servicio de llamadas de emergencia y el servicio de denuncia anónima opere con un número único de atención a la ciudadanía en el Estado y los municipios;
 
-XVII. Establecer, operar y desarrollar la red estatal de telecomunicaciones y el sistema estatal de videovigilancia, verificando que las instituciones policiales estatales y municipales cumplan con las normas técnicas de operación;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Establecer, operar y desarrollar la red estatal de telecomunicaciones y el sistema estatal de videovigilancia, verificando que las instituciones policiales, estatales y municipales cumplan conforme a lo establecido en la Ley de Uso de Tecnologías;
 
 XVIII. Controlar y mantener actualizado el Registro Público Vehicular en el que consten las inscripciones o altas, bajas, emplacamientos, infracciones, pérdidas, robos, recuperaciones y destrucción de los vehículos que se fabrican, ensamblan, importan o circulan en el territorio, y
 
-XIX. Las demás que le atribuyan expresamente las leyes y los reglamentos.
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XIX. Proponer, coordinar y ejecutar la implementación de las acciones derivadas de las disposiciones que, en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen (sic) la Ley de Uso de Tecnologías y el Reglamento;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Coordinarse con la Fiscalía o la autoridad municipal para la instalación de equipos y sistemas tecnológicos;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Emitir el dictamen correspondiente de los equipos y sistemas tecnológicos en materia de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Operar, administrar y actualizar el Registro de Tecnologías a través del Centro de Control, Comando, Comunicación, Cómputo y Calidad;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XXIII. Clasificar, resguardar y registrar la información captada por los equipos y sistemas tecnológicos en los términos establecidos por la Ley de Uso de Tecnologías, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XXIV. Garantizar la inviolabilidad e inalterabilidad de la información recabada con equipos o sistemas tecnológicos, y
+
+XXV. Las demás que le atribuyan expresamente las leyes y los reglamentos.
 
 ###### Artículo 20.
 
@@ -439,9 +493,19 @@ XIX. Presentar al Consejo Estatal los informes de la Conferencia Estatal, para e
 
 XX. Colaborar con las instituciones de seguridad pública, para fortalecer y eficientar los mecanismos de coordinación; así como en el impulso de las carreras ministerial, policial y pericial conforme al ámbito de su competencia;
 
-XXI. Informar al Consejo Estatal, de los avances y resultados de los asuntos de su competencia, previo acuerdo con la persona titular de la Secretaría, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
-XXII. Las demás que le asigne el Consejo Estatal y los ordenamientos legales aplicables.
+XXI. Informar al Consejo Estatal, de los avances y resultados de los asuntos de su competencia, previo acuerdo con la persona titular de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Verificar el cumplimiento de las disposiciones que en materia del uso de tecnologías de la información y comunicación para la seguridad pública establezca la Ley de (sic) Que Regula el Uso de Tecnologías de la información y Comunicación para la Seguridad Pública del Estado de Guerrero y su reglamento;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XXIII. Solicitar informes a la secretaría de instalación y retiro de equipos y sistemas tecnológicos, y
+
+XXVII (SIC). Las demás que le otorgue esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 23.
 
@@ -521,7 +585,11 @@ XXIV. Organizar foros, seminarios, conferencias y ponencias en materia de seguri
 
 XXV. Integrar los comités que sean necesarios para el desempeño de sus funciones, y
 
-XXVI. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XXVI. Vigilar el correcto cumpliendo de lo establecido en la Ley de Uso de Tecnologías, y
+
+XXVII. Las demás que le otorgue esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 27.
 
@@ -673,9 +741,19 @@ X. Llevar a cabo los procesos que permitan los estudios de hechos, productos geo
 
 XI. Realizar el seguimiento de la agenda de riesgos, determinada por instancias superiores y áreas operativas para su estudio y permitir contemplar, rectificar y proyectar aspectos de la misma;
 
-XII. Establecer el destino de la información para determinar el tipo de análisis y productos que se requieran, así como el establecer el desarrollo de los mecanismos de intercambio de información, para asegurar la retroalimentación entre el Centro del Sistema Estatal de Información e Inteligencia Policial y las áreas policiales operativas, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Las demás que establezcan otras disposiciones legales.
+XII. Establecer el destino de la información para determinar el tipo de análisis y productos que se requieran, así como el establecer el desarrollo de los mecanismos de intercambio de información, para asegurar la retroalimentación entre el Centro del Sistema Estatal de Información e Inteligencia Policial y las áreas policiales operativas, de conformidad con lo establecido en la Ley de Uso de Tecnologías;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Asegurar la unificación de equipos y sistemas tecnológicos entre las áreas de la administración pública central, desconcentrada y paraestatal del Gobierno del Estado de Guerrero y las Instituciones Privadas autorizadas por la Ley de Regula el Uso de Tecnologías de la Información y Comunicación para la Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Establecer las políticas necesarias para la administración, operación y evaluación de los mismos, a efecto de unificar y difundir entre la población los dígitos de acceso, debiendo los municipios alinearse a tales disposiciones conforme a lo dispuesto en la Ley de Uso de Tecnologías, y
+
+XIV (SIC). Las demás que establezcan otras disposiciones legales.
 
 ###### Artículo 36.
 
@@ -715,9 +793,19 @@ X. Emitir el Programa Estatal de Prevención del Delito y Participación Ciudada
 
 XI. Ejecutar en tiempo y forma, los programas y proyectos aprobados, así como informar de los avances y cumplimiento de los mismos cuando se le requiera;
 
-XII. Establecer un programa permanente de investigación para el reconocimiento de los delitos no denunciados y las infracciones no registradas oficialmente, mediante encuestas, entrevistas y otros medios idóneos, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Las demás que establezcan otras disposiciones legales.
+XII. Establecer un programa permanente de investigación para el reconocimiento de los delitos no denunciados y las infracciones no registradas oficialmente, mediante encuestas, entrevistas y otros medios idóneos;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Proponer a la Secretaría la colocación de equipos de videovigilancia en puntos estratégicos, conforme a los lineamientos de colocación de Tecnologías de la Ley de Uso de Tecnologías;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Solicitar a la Secretaría un informe de instalación y retiros de equipos y sistemas tecnológicos, y
+
+XV. Las demás que establezcan otras disposiciones legales.
 
 ###### Artículo 40.
 
@@ -905,7 +993,9 @@ V. Constituir y operar las Comisiones de Honor y Justicia y del Servicio Profesi
 
 VI. Asegurar su integración a las Bases de Datos;
 
-VII. Designar a una persona responsable del control, suministro y adecuado manejo de la información a que se refiere la Ley General;
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Designar a una persona responsable del control, suministro y adecuado manejo de la información a que se refiere la Ley General y la Ley de Uso de Tecnologías;
 
 VIII. Integrar y consultar en las Bases de Datos de seguridad pública, los expedientes de las o los aspirantes a ingresar en las instituciones policiales;
 
@@ -917,9 +1007,31 @@ XI. Integrar y consultar la información relativa a la operación y desarrollo p
 
 XII. Destinar los fondos federales para la seguridad pública exclusivamente a estos fines y nombrar a una persona responsable de su control y administración;
 
-XIII. Participar en la ejecución de las acciones para el resguardo de las instalaciones estratégicas del Estado, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
-XIV. Las demás establecidas en esta Ley y demás disposiciones jurídicas aplicables.
+XIII. Participar en la ejecución de las acciones para el resguardo de las instalaciones estratégicas del Estado;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Proponer acciones derivadas de las disposiciones que en materia de uso de tecnologías de la información y comunicación para la seguridad pública, determinen la presente Ley de Uso de Tecnologías y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Coordinarse con la Secretaría para la instalación de equipos y sistemas tecnológicos;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Clasificar, resguardar y registrar la información captada por los equipos y sistemas tecnológicos en los términos establecidos por la Ley de Uso de Tecnologías, la Ley de Seguridad, la Ley de Protección, la Ley de Transparencia y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Garantizar la inviolabilidad e inalterabilidad de la información recabada con equipos o sistemas tecnológicos;
+
+> <small>(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Solicitar a la Secretaría la dictaminación de los equipos y sistemas tecnológicos en materia de seguridad pública, y
+
+XIX. Las demás establecidas en esta Ley y demás disposiciones jurídicas aplicables.
 
 ### Capítulo III. Derechos y obligaciones del Cuerpo de la Policía Estatal
 
@@ -1567,6 +1679,8 @@ VI. Las demás que establezcan otras disposiciones legales.
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
 ### Capítulo II. Registro Administrativo de Detenciones
 
 ###### Artículo 96.
@@ -1681,7 +1795,7 @@ El Servicio de Carrera de los policías ministeriales, peritos y agentes del min
 
 ###### Artículo 112.
 
-Con el objeto de recopilar, suministrar, intercambiar, sistematizar, consultar, analizar, actualizar, preservar y utilizar la información que diariamente generen las instituciones de Seguridad Pública, se establece un Sistema Estatal de Información de Seguridad Pública, que será operado por el Centro Estatal de Información Policial, quien a su vez se coordinará con las instituciones de seguridad pública para suministrar la información a la Base de Datos.
+Con el objeto de recopilar, suministrar, intercambiar, sistematizar, consultar, analizar, actualizar, preservar y utilizar la información que diariamente generen las instituciones de Seguridad Pública, se establece un Sistema Estatal de Información de Seguridad Pública, que será operado por el Centro Estatal de Información Policial, quien a su vez se coordinará con las instituciones de seguridad pública para suministrar la información a la Base de Datos, conforme a los lineamientos establecidos en la Ley de Uso de Tecnologías.
 
 ###### Artículo 113.
 
@@ -1733,27 +1847,27 @@ XXII. De Licencias de Conducir;
 
 XXIII. De Llamadas de Denuncia Anónima 089;
 
-XXIV. De Detenciones, y
+> <small>(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
-XXV. Los demás necesarios para la operación del Sistema Estatal.
+XXIV. De Detenciones;
+
+XXVI (SIC). Los demás necesarios para la operación del Sistema Estatal.
+
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 114.
 
-La utilización de los registros del Sistema Estatal de Información de Seguridad Pública, se hará bajo los más estrictos principios de confidencialidad, consulta y utilización por parte de los servidores públicos en el ejercicio de funciones oficiales, previa asignación de cuenta de usuario que el Centro Estatal de Información e Inteligencia Policial gestione ante la instancia competente.
-
-La difusión de la información contenida en los registros solo podrá ser utilizada en apego a las disposiciones en materia de transparencia y protección de datos personales, al cumplimiento de esta Ley, los acuerdos generales, los convenios y demás disposiciones legales aplicables.
-
-El incumplimiento a esta disposición, así como el acceso a la información por parte de particulares y el uso inapropiado por quienes tengan acceso a su contenido, será sancionado conforme a la legislación aplicable al caso.
+La utilización de los registros del Sistema Estatal de Información de Seguridad Pública, se hará bajo los más estrictos principios de confidencialidad, consulta y utilización por parte de los servidores públicos en el ejercicio de funciones oficiales, previa asignación de cuenta de usuario que el Centro Estatal de Información e Inteligencia Policial gestione ante la instancia competente, conforme a los lineamientos establecidos en la Ley de Uso de Tecnologías.
 
 ###### Artículo 115.
 
 La persona titular de la Secretaría dictará las medidas necesarias, además de las ya previstas en la Ley, para la integración y preservación de la información administrada y sistematizada mediante los instrumentos de información sobre seguridad pública.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 116.
 
 Los integrantes del Sistema Estatal y las secretarías, dependencias y entidades del Ejecutivo Estatal y de los Ayuntamientos, están obligados a compartir la información sobre seguridad pública que obre en sus Bases de Datos, con el Centro Estatal de Información e Inteligencia Policial, en los términos de las disposiciones normativas aplicables.
-
-La información contenida en las Bases de Datos, podrá ser certificada por la autoridad respectiva y tendrá el valor probatorio que las disposiciones legales determinen.
 
 ###### Artículo 117.
 
@@ -1999,9 +2113,11 @@ Los particulares autorizados por la Federación deberán sujetarse a las disposi
 
 Los servicios de seguridad privada son auxiliares a la función de Seguridad Pública. Sus integrantes coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente de la Federación, el Estado, entidades federativas y los Municipios, de acuerdo a los requisitos y condiciones que establezca la norma respectiva.
 
+> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 153.
 
-Los particulares que se dediquen a estos servicios, así como el personal que utilicen, se regirán en lo conducente, por las normas que esta ley y las demás aplicables establecen para las Instituciones de Seguridad Pública; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre la delincuencia al Centro Estatal de Información e Inteligencia Policial.
+Los particulares que se dediquen a estos servicios, así como el personal que utilicen, se regirán en lo conducente, por las normas que esta ley y las demás aplicables establecen para las Instituciones de Seguridad Pública; incluyendo los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, proporcionar la información estadística y sobre la delincuencia (sic) Centro Estatal de Información e Inteligencia Policial.
 
 ###### Artículo 154.
 
@@ -2096,3 +2212,13 @@ OCTAVO. Remítase a la Titular del Poder Ejecutivo del Estado, para los efectos 
 NOVENO. En vías de cumplimiento a la Resolución recaída a la Acción de Inconstitucionalidad 81/2018, remítase a la Suprema Corte de Justicia de la Nación para su conocimiento y efectos legales conducentes.
 
 DÉCIMO. Remítase al Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado, para su observancia y conocimiento general.
+
+P.O. 3 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 857 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 179 DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Congreso del Estado.
