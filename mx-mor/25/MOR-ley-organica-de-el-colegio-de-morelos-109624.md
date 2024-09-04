@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-el-colegio-de-morelos-109624"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-08-26"
-last_updated: "2018-02-21"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE “EL COLEGIO DE MORELOS”
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2015.
 
@@ -869,7 +869,9 @@ DÉCIMA SÉPTIMA. Los documentos escolares que deban de emitirse, expedirse y/o 
 
 DÉCIMA OCTAVA. (DEROGADA, P.O. 21 DE FEBRERO DE 2018)
 
-DÉCIMA NOVENA. La vigencia de los programas de estudio del Centro de Investigación y Docencia en Humanidades del Estado de Morelos será de 6 y hasta 7 años, contados a partir de la vigencia de la presente Ley, quedando autorizada en su caso la revalidación que corresponda con la oferta académica de El Colegio de Morelos.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+DÉCIMA NOVENA. La vigencia de los programas de estudio del Centro de Investigación y Docencia en Humanidades del Estado de Morelos concluirá en dos años, contados a partir de la vigencia de la presente reforma, quedando autorizada en su caso la revalidación que corresponda con la oferta académica de El Colegio de Morelos, con el propósito final de permitir a los alumnos terminar sus estudios y lograr la titulación respectiva.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
@@ -914,3 +916,11 @@ P.O. 21 DE FEBRERO DE 2018.
 PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política de! Estado libre y Soberano de Morelos.
 
 SEGUNDA El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y CINCO POR EL QUE SE REFORMA LA DISPOSICIÓN DÉCIMA NOVENA TRANSITORIA DE LA LEY ORGÁNICA DE "EL COLEGIO DE MORELOS", PARA QUE SUS EGRESADOS QUE FUERON AFECTADOS POR LA PRESENCIA DE LA PANDEMIA DERIVADA DEL COVID-19, PUEDAN CONCLUIR SU PROCESO DE TITULACIÓN QUE OFRECE DICHA INSTITUCIÓN".]</small>
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para cumplimiento de los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
