@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2024-02-28"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -581,11 +581,11 @@ CÓMPUTO DE GRADOS EN LA LÍNEA TRANSVERSAL. En la línea transversal los grados
 
 RECIPROCIDAD ALIMENTARIA. La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 35.
 
-ORIGEN DE LA OBLIGACIÓN DE DAR ALIMENTOS. La obligación de dar alimentos se deriva del matrimonio, del concubinato, del parentesco o por disposición de la ley.
+ORIGEN DE LA OBLIGACIÓN DE DAR ALIMENTOS. La obligación de dar alimentos se deriva del matrimonio, del concubinato, por adopción, del parentesco, por mandamiento judicial o por disposición de la ley.
 
 ###### ARTÍCULO 36.
 
@@ -645,11 +645,11 @@ OBLIGACIÓN ALIMENTARIA DE LOS PARIENTES COLATERALES CON RELACIÓN A INCAPACES. 
 
 (DEROGADO, P.O. 29 DE NOVIEMBRE DE 2017)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 43.
 
-ALIMENTOS. Los alimentos comprenden la casa, la comida, el vestido, atención médica y psicológica preventiva integrada a la salud, asistencia en caso de enfermedad, el esparcimiento, los gastos de embarazo y parto en cuanto no estén cubiertos de otra forma, los gastos necesarios para la educación básica del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales. Esta obligación subsistirá no obstante la mayoría de edad del alimentista si éste se encuentre incapacitado para trabajar, y hasta los veinticinco años si el acreedor alimentista se encuentre estudiando y no cause baja, conforme al reglamento escolar, y que esta se curse en instituciones educativas que se encuentren en posibilidades de pagar los deudores alimentistas, siempre que los acreedores no cuenten con ingresos propios.
+ALIMENTOS.- Los alimentos comprenden la casa, la comida, el vestido, atención médica y psicológica preventiva integrada a la salud, asistencia en caso de enfermedad, el esparcimiento, los gastos de embarazo y parto en cuanto no estén cubiertos de otra forma, los gastos necesarios para la educación básica del alimentista, y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales, y con relación a los menores con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo. Esta obligación subsistirá no obstante la mayoría de edad del alimentista si éste se encuentre incapacitado para trabajar, y hasta los veinticinco años si el acreedor alimentista se encuentre estudiando y no cause baja, conforme al reglamento escolar, y que esta se curse en instituciones educativas que se encuentren en posibilidades de pagar los deudores alimentistas, siempre que los acreedores no cuenten con ingresos propios.
 
 > <small>(REFORMADO, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -661,17 +661,17 @@ La obligación de dar alimentos no comprende la de proveer capital a los hijos p
 
 CUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTICIA. El obligado a dar alimentos cumple con la obligación asignando una pensión suficiente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al Juez, según las circunstancias, fijar la manera de ministrar los alimentos.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Aquella persona que incumpla con lo señalado en el párrafo anterior, por un periodo de noventa días, se constituirá deudor alimentario moroso. El Juez de lo Familiar, ordenará al Registro Civil su inscripción en el Registro de Deudores Alimentarios Morosos.
+Aquella persona que incumpla con lo señalado en el párrafo anterior, por un periodo de treinta días naturales, se constituirá como deudor alimentario moroso. El Juez de lo Familiar, ordenará su inscripción en el Registro Nacional de Obligaciones Alimentarias.
 
 > <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
 
 El deudor alimentario moroso que acredite ante el Juez de lo Familiar, que han sido pagadas en su totalidad los adeudos a que se refiere el párrafo anterior, podrá solicitar al mismo la cancelación de la inscripción.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-El Registro Civil, cancelará las inscripciones a que se refiere el segundo párrafo de este artículo, previa orden judicial.
+El Tribunal Superior de Justicia del Estado de Morelos, cancelará las inscripciones a que se refiere el segundo párrafo de este artículo, previa orden judicial.
 
 ###### ARTÍCULO 45.
 
@@ -821,39 +821,13 @@ INICIO DE LA MAYORÍA DE EDAD. La mayoría de edad comienza a los dieciocho año
 
 LIBRE DISPOSICIÓN DEL MAYOR DE EDAD. El mayor de edad dispone libremente de su persona y de sus bienes.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPÍTULO VI. DEL REGISTRO DE DEUDORES ALIMENTARIOS MOROSOS
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+ARTÍCULO 64 BIS.- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2024)
 
-ARTÍCULO 64 BIS.- En el Registro de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 44 del presente Código. Dicho registro deberá contener:
-
-I. Nombre, apellidos y Clave Única del Registro de Población del Deudor alimentario moroso;
-
-II.- Nombre del acreedor o acreedores alimentarios;
-
-III.- Datos del acta que acrediten el vínculo entre el deudor y acreedor alimentario, en su caso;
-
-IV.- Número de pagos incumplidos y monto del adeudo alimentario;
-
-V.- Órgano jurisdiccional que ordena el registro; y
-
-VI.- Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
-
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
-
-ARTÍCULO 64 TER.- El Certificado a que se refiere el artículo 419 de éste Código contendrá lo siguiente:
-
-I.- Nombre, apellidos y Clave Única de Registro de Población del deudor alimentario moroso;
-
-II.- Número de acreedores alimentarios;
-
-III.- Monto de la obligación adeudada;
-
-IV.- Órgano jurisdiccional que ordenó el registro; y
-
-V.- Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
+ARTÍCULO 64 TER.- (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2024)
 
 # LIBRO TERCERO. DEL CONCUBINATO, DEL MATRIMONIO Y SU DISOLUCIÓN
 
@@ -963,11 +937,9 @@ X.- (DEROGADA, P.O. 1 DE NOVIEMBRE DE 2017)
 
 XI.- (DEROGADA, P.O. 27 DE MAYO DE 2015)
 
-> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XII.- La Violencia o miedo graves.
-
-En caso de privación ilegal de la libertad personal o la comisión de otro ilícito en contra de la o el futuro contrayente, en el que se involucre como objeto la obtención de su voluntad para contraer matrimonio, subsiste el impedimento mientras la víctima no sea restituida a lugar seguro, o se haya extinguido el ilícito y pueda libremente manifestar su voluntad.
+XII.- La Violencia, violencia familiar determinada por sentencia firme o miedo graves;
 
 XIII.- La embriaguez habitual, o el uso ilegal y persistente de drogas estupefacientes y psicotrópicas;
 
@@ -991,13 +963,17 @@ IMPEDIMENTOS DISPENSABLES. Son impedimentos dispensables:
 
 I.- (DEROGADA, P.O. 17 DE AGOSTO DE 2016)
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Estar inscrito en el Registro Nacional de Obligaciones Alimentarias, ante lo cual, el oficial del Registro Civil solicitará a los contrayentes el certificado de no inscripción en dicho registro mencionando la situación que guardan respecto de las obligaciones que tiene y si, aun así, manifiesten su consentimiento para contraer matrimonio, se procederá a realizarlo;
+
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2020)</small>
 
-II.- El parentesco en la línea colateral desigual la cual comprende sólo a los tíos y sobrinos en el tercer grado, conforme a las reglas de los artículos 72 y 73 de este Código; y,
+III.- El parentesco en la línea colateral desigual la cual comprende sólo a los tíos y sobrinos en el tercer grado, conforme a las reglas de los artículos 72 y 73 de este Código; y
 
-> <small>(ADICIONADA, P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-III.- Padecer alguna enfermedad crónica e incurable que sea además contagiosa o hereditaria, cuando ambos contrayentes acrediten fehacientemente haber obtenido de institución o médico especialista, el conocimiento de los alcances, los efectos y la prevención de la enfermedad que sea motivo del impedimento y aun así, manifiesten su consentimiento para contraer matrimonio.
+IV.- Padecer alguna enfermedad crónica e incurable que sea además contagiosa o hereditaria, cuando ambos contrayentes acrediten fehacientemente haber obtenido de institución o médico especialista, el conocimiento de los alcances, los efectos y la prevención de la enfermedad que sea motivo del impedimento y aun así, manifiesten su consentimiento para contraer matrimonio, se procederá a realizarlo.
 
 ###### ARTÍCULO 79.
 
@@ -1905,7 +1881,7 @@ El marido podrá reconocer a un hijo habido antes de su matrimonio o durante és
 
 ###### ARTÍCULO 206.
 
-HIJO DE MUJER CASADA DESCONOCIDO POR EL MARIDO. El hijo de una mujer casada no podrá ser reconocido como hijo por otro hombre distinto del marido, sino cuando éste lo haya desconocido y por sentencia ejecutoria se haya declarado que no es hijo suyo.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 207.
 
@@ -2018,6 +1994,10 @@ CONTENIDO DE LA SENTENCIA DEFINITIVA. La sentencia que se pronuncie en definitiv
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2021)</small>
 
 Deberá procurarse en lo posible el régimen de custodia compartida del padre y la madre, pudiendo los hijos e hijas permanecer de manera plena e ilimitada con ambos padres, en caso de que algún ascendiente tuviese la custodia, el otro que no la posee, podrá demandar en lo posible custodia para ambos padres, lo anterior en función de las posibilidades de éstos y aquellos, así como que no exista con alguno de los progenitores peligro alguno para su normal desarrollo.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+La persona juzgadora deberá garantizar que niñas, niños y adolescentes, conozcan la sentencia que se emita en un juicio donde se diriman sus derechos.
 
 La recuperación de la patria potestad procederá únicamente en aquellos casos que por cuestiones alimentarias de (sic) haya perdido, siempre y cuando acredite que se ha cumplido con dicha obligación.
 
@@ -2205,13 +2185,17 @@ II.- (DEROGADA, P.O. 21 DE MARZO DE 2018)
 
 III.- Cuando el que la ejerza no cumpla, cualquiera que sea la causa, los deberes inherentes al cargo, sin perjuicio de las sanciones penales que procedan;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IV.- Por la exposición o el abandono que dure treinta días naturales en forma continua, del sujeto a patria potestad, por parte de quien ejerza ésta conforme a la Ley; y
+IV.- Por la exposición o el abandono que dure treinta días naturales en forma continua, del sujeto a patria potestad, por parte de quien ejerza ésta conforme a la Ley;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-V. Por el abandono por parte de sus progenitores de una niña o niño recién nacido, cualquiera que sea el lapso.
+V.- Por el abandono por parte de sus progenitores de una niña o niño recién nacido, cualquiera que sea el lapso; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI.- Cuando el que la ejerza es condenado judicialmente por los delitos de feminicidio o tentativa de feminicidio en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
 
 En el caso de ulteriores nupcias de quien ejerza la patria potestad, no confiere al cónyuge nuevo el derecho de su ejercicio respecto de las personas que están sujetas a ella.
 
@@ -2235,9 +2219,15 @@ IV.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 43
 
 V.- Cuando el que la ejerce incurra en conductas de violencia familiar prevista en el artículo 24 de este Código, en contra de las personas contra las cuales la ejerza.
 
-VI.- Cuando exista la posibilidad de poner en riesgo la salud, el estado emocional o incluso su vida del o de los descendientes menores por parte de quien conserva la custodia legal o de pariente por consaguinidad (sic) o afinidad hasta por el cuarto grado.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI.- Cuando exista la posibilidad de poner en riesgo la salud, el estado psicoemocional o incluso su vida del o de los descendientes menores por parte de quien conserva la custodia legal o de pariente por consanguinidad o afinidad hasta por el cuarto grado.
 
 VII.- Por no permitir que se lleven a cabo las convivencias decretadas por autoridad competente o en convenio aprobado judicialmente.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII.- Por auto de vinculación a proceso dictado por los delitos de feminicidio o tentativa de feminicidio, en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad del procesado.
 
 ###### ARTÍCULO 250.
 
@@ -2271,21 +2261,31 @@ Mientras que se nombra tutor, el Juez de lo Familiar debe dictar las medidas nec
 
 ÓRGANOS INTERVINIENTES EN LA TUTELA. La tutela se desempeñará por el tutor con intervención del curador, del Juez de lo Familiar y del Consejo Local de Tutelas, en los términos establecidos por este Código.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 255.
 
 LIMITACIONES EN EL DESEMPEÑO DE LA TUTELA. Ningún incapaz puede tener a un mismo tiempo más de un tutor y de un curador definitivos.
 
 El tutor y el curador pueden desempeñar respectivamente la tutela o la curatela hasta de dos incapaces. Si éstos son hermanos, o son coherederos o legatarios de la misma persona, puede nombrarse un solo tutor y un curador a todos ellos, aunque sean más de dos.
 
+El ejercicio de los cargos de tutor o curador serán suspendidos definitivamente en los casos en los que la persona que los ejerce sea condenada judicialmente por los delitos de feminicidio o tentativa de feminicidio. Asimismo, estos cargos serán suspendidos temporalmente si el tutor o curador es vinculado a proceso dictado por los delitos de feminicidio o tentativa de feminicidio.
+
 ###### ARTÍCULO 256.
 
 OPOSICIÓN DE INTERESES DE INCAPACES. Cuando los intereses de alguno o algunos de los incapaces, sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del Juez, quien nombrará un tutor especial que defienda los intereses de los incapaces, que el mismo designe, mientras se decide el punto de oposición.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 257.
 
 IMPEDIMENTOS PARA SER TUTOR Y CURADOR. Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mismo tiempo por una sola persona. Tampoco pueden desempeñarse por personas que tengan entre sí parentesco en cualquier grado de la línea recta o dentro del cuarto grado de la colateral.
 
 No pueden ser nombrados tutores o curadores las personas que sean Jueces de lo Familiar y las que integren los Consejos Locales de Tutela, ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Ninguna persona condenada judicialmente por los delitos de feminicidio o tentativa de feminicidio puede desempeñar el cargo de tutor o curador de una persona incapaz.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2023)</small>
 
@@ -2483,7 +2483,9 @@ III.- Los que hayan sido removidos de otra tutela por haberse conducido indebida
 
 IV.- Los que por sentencia que cause ejecutoria hayan sido condenados a la privación de este cargo o a la inhabilitación para desempeñarlo;
 
-V.- El que haya sido condenado por delitos contra la vida o la integridad corporal, delitos contra las personas en su patrimonio, delitos contra la moral pública o delitos sexuales con sentencia cuya penalidad sea mayor de un año;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V.- El que haya sido condenado por delitos contra la vida o la integridad corporal, feminicidio, delitos contra las personas en su patrimonio o delitos sexuales, o tentativa de estos delitos, con sentencia cuya penalidad sea mayor de un año;
 
 VI.- Los que no tengan oficio o modo honrado de vivir o sean notoriamente de mala conducta;
 
@@ -2963,15 +2965,19 @@ DISPOSICIONES GENERALES. La adopción es la institución jurídica de protecció
 
 La adopción siempre será benéfica para el adoptado, atendiendo al interés superior del mismo y el respeto de sus derechos fundamentales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE JULIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 361.
 
-QUIENES PUEDEN ADOPTAR.- Los mayores de veintiocho años y menores de cincuenta años de edad, unidos en matrimonio, en pleno ejercicio de sus derechos, pueden adoptar a uno o varios menores o incapaces aun cuando estos sean mayores de edad, siempre y cuando la adopción sea benéfica para este, acreditando:
+QUIENES PUEDEN ADOPTAR:
 
-I.- Que tienen medios suficientes para proveer a la subsistencia, cuidado y educación personal del adoptado, como un hijo propio, según las circunstancias de la persona que trata de adoptar;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Que el adoptante sea persona de buenas costumbres, y disfrute de buena salud;
+I.- Las personas físicas solteras mayores de veintiocho años y menores de cincuenta años de edad, en pleno ejercicio de sus derechos, pueden adoptar a una o más personas menores de dieciocho o con discapacidad aun cuando sean mayores de edad, siempre que el adoptante tenga por lo menos quince años más que el adoptado y lo haga en forma personal y no por conducto de apoderado o representante;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Los mayores de veintiocho años y menores de cincuenta años de edad, unidos en matrimonio, en pleno ejercicio de sus derechos, pueden adoptar a uno o varios menores o incapaces aun cuando estos sean mayores de edad, siempre y cuando la adopción sea benéfica para este, acreditando:
 
 III.- Su identidad, antecedentes familiares, entorno social y motivos para adoptar, y
 
@@ -3475,9 +3481,9 @@ Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena
 
 NATURALEZA Y FUNCIÓN. El Registro Civil es la institución de orden público y de interés social, por la cual el Estado inscribe, autoriza, certifica y da publicidad a los hechos y actos constitutivos, modificativos o extintivos del estado civil de las personas.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-El Registro Civil tendrá a su cargo el Registro de Deudores Alimentarios, Morosos del Estado de Morelos, en el que se inscribirá a las personas que hayan dejado de cumplir por más de noventa días, sus obligaciones alimentarias, ordenadas por los Jueces y Tribunales o establecidas por convenio judicial. El registro expedirá un Certificado que informe si un deudor alimentario se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+El Tribunal Superior de Justicia del Estado de Morelos, tendrá a su cargo la concentración, sistematización y actualización de la información de las personas que hayan dejado de cumplir por más de treinta días naturales, sus obligaciones alimentarias, ordenadas por los Jueces y Tribunales o establecidas por convenio judicial; para que a su vez sea suministrada al Registro Nacional de Obligaciones Alimentarias, que es la instancia competente para la emisión de certificados de no inscripción.
 
 ###### ARTÍCULO 420.
 
@@ -3743,9 +3749,9 @@ III.- Que es su libre voluntad unirse en matrimonio.
 
 Este escrito deberá ser firmado por los solicitantes y si alguno no pudiere o no supiere escribir, imprimirá su huella digital.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-El Oficial del Registro Civil, hará del conocimiento de los pretendientes inmediatamente después de la presentación de la solicitud, si alguno de ellos se encuentra inscrito en el Registro de Deudores Alimentarios Morosos.
+El Oficial del Registro Civil, hará del conocimiento de los pretendientes inmediatamente después de la presentación de la solicitud, si alguno de ellos se encuentra inscrito en el Registro Nacional de Obligaciones Alimentarias.
 
 ###### ARTÍCULO 457.
 
@@ -3771,13 +3777,17 @@ Si de acuerdo con el artículo 103 de este Cuerpo de Leyes fuere necesario que l
 
 V.- Un certificado médico prenupcial, que determine que los solicitantes no padecen alguna de las enfermedades consideradas como impedimento previstas en los artículos 77 y 78 del presente ordenamiento; y en el caso del impedimento contemplado en la fracción III del artículo 78 del presente Código, cumplir con lo requerido para su dispensa;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VI.- Copia certificada del acta de defunción o de divorcio si alguno de los pretendientes es viudo o divorciado; o copia certificada de la sentencia firme de nulidad de matrimonio en caso de que alguno de los pretendientes declarase haber estado casado anteriormente; y,
+VI.- Copia certificada del acta de defunción o de divorcio si alguno de los pretendientes es viudo o divorciado; o copia certificada de la sentencia firme de nulidad de matrimonio en caso de que alguno de los pretendientes declarase haber estado casado anteriormente;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VII.- Copia de la dispensa de impedimento, si lo hubo.
+VII.- Copia de la dispensa de impedimento, si lo hubo, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII.- Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
 
 En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V, tendrá la obligación de redactarlo el Oficial de Registro Civil, con los datos que los mismos pretendientes le suministren.
 
@@ -7164,3 +7174,63 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y SIETE POR EL QUE SE REFORMA EL ARTÍCULO 361 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Dentro del plazo de 90 días hábiles contados a partir de la entrada en vigor del presente decreto, el Poder Ejecutivo Estatal deberá realizar las adecuaciones reglamentarias y administrativas necesarias para adecuarlas a la presente reforma.
+
+CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y DOS POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES DEL ESTADO DE MORELOS, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA SOBRE OBLIGACIONES ALIMENTARIAS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Tribunal Superior de Justicia del Estado, en el término de noventa días naturales, realizará las adecuaciones pertinentes a sus disposiciones reglamentarias y administrativas, para efecto de cumplir con las obligaciones establecidas en el presente Decreto y en los Lineamientos establecidos por el Sistema Nacional DIF.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo ordenado en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y SEIS.- POR EL QUE SE REFORMA LA FRACCIÓN XII DEL ARTÍCULO 77 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para cumplimiento de los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y NUEVE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MORELOS, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MORELOS, Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS".]
+
+PRIMERO.- Aprobado el presente Decreto por las diputadas y diputados integrantes de la Quincuagésima Quinta Legislatura del Congreso del Estado de Morelos, remítase el presente decreto al titular del Poder Ejecutivo del estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor grado jerárquico que se opongan al presente decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS SETENTA Y TRES POR EL QUE SE DEROGA EL ARTÍCULO 206 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA.- Se derogan todas las disposiciones de igual o menor rango jerárquico que se oponga a la presente reforma.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SETENTA Y CINCO.- POR EL QUE SE ADICIONA UN TERCER PÁRRAFO RECORRIÉNDOSE LOS SUBSECUENTES AL ARTÍCULO 223 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
