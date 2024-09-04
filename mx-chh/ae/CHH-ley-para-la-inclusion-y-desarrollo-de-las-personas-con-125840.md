@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-inclusion-y-desarrollo-de-las-personas-con-125840"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-24"
-last_updated: "2024-08-28"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Folleto Anexo al Número 7 del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de enero de 2018.
 
@@ -309,7 +309,13 @@ III. La promoción de programas de capacitación a las y los servidores público
 
 IV. Garantizar el respeto de comunicación en sus formas alternativas.
 
-V. Las demás necesarias para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Programas de sensibilización a las y los servidores públicos, a efecto de que se les brinden a las personas cuidadoras un trato digno, con pleno respeto a sus derechos humanos.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Las demás necesarias para el cumplimiento de la presente Ley.
 
 ###### Artículo 15.
 
@@ -351,7 +357,17 @@ VIII. Garantizar que en todos los servicios de salud públicos y privados se cue
 
 IX. Garantizar la realización de la prueba del tamiz ampliado, auditivo y oftalmológico, para la detección temprana de padecimientos.
 
-X. Las demás que se determinen necesarias para el cumplimiento de la presente Ley.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+X. Establecer y promover programas para la detección y atención de la salud física y mental, como síntomas de ansiedad, depresión u otros relacionados con estos, que presenten las personas cuidadoras que asumen la responsabilidad total o parcial de brindar apoyo a personas con discapacidad.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Promover e impartir cursos de capacitación en primeros auxilios y cuidado adecuado de personas con discapacidad.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Las demás que se determinen necesarias para el cumplimiento de la presente Ley.
 
 ###### Artículo 18.
 
@@ -1082,3 +1098,11 @@ Se abroga el Decreto No. LXVI/RFLEY/0760/2020 I P.O., publicado en el Periódico
 ###### ARTÍCULO TERCERO.
 
 Para los efectos del artículo 46 de la Ley Reglamentaria de las Fracciones I y II del Artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, remítase a la Presidenta de la Suprema Corte de Justicia de la Nación, copia certificada del dictamen que da origen al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVII/RFLEY/0892/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
