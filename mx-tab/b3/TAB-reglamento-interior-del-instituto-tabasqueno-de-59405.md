@@ -4,7 +4,7 @@ identifier: "TAB-reglamento-interior-del-instituto-tabasqueno-de-59405"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-01-19"
-last_updated: "2019-09-21"
+last_updated: "2024-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO POR EL CUAL SE EMITE EL NUEVO REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA, PUBLICADO EN EL P.O. DE 4 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 19 de enero de 2008.
 
@@ -1140,3 +1142,11 @@ P.O. 21 DE SEPTIEMBRE DE 2019.
 PRIMERO.- Las presentes reformas, adiciones y derogaciones entrarán en vigor al día siguiente de su aprobación por parte del Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
 
 SEGUNDO.- Publíquese para su debida difusión en el Periódico Oficial del Estado de Tabasco, en la Página Principal de Internet de este Órgano Garante, su Portal de Transparencia y a través de las cuentas oficiales en redes sociales.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA”.]
+
+PRIMERO. El presente acuerdo entrará en vigor a partir de la fecha de aprobación por el Pleno del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública.
+
+SEGUNDO. Publíquese para su debida difusión, en el Periódico Oficial del Estado de Tabasco, la Página Oficial de Internet de este Órgano Garante, Portal de Transparencia, y a través de las cuentas oficiales en redes sociales.
