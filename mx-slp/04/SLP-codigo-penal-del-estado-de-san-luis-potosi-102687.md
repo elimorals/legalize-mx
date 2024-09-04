@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2024-02-20"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -4873,7 +4873,9 @@ A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX
 
 A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI y XXXVII se le impondrá pena de prisión de cuatro a diez años y de trescientas a un mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+En caso de tratarse de particulares realizando funciones propias de supervisor o supervisora en libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, las personas jurídicas serán acreedoras a las penas y medidas en materia de responsabilidad penal establecidas en este Código.
 
 ### CAPÍTULO IV. Violación de Correspondencia
 
@@ -5914,5 +5916,13 @@ P.O. 20 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1009.- SE REFORMAN LOS ARTÍCULOS 27 Y 70; Y ADICIONA LOS ARTÍCULOS 27 BIS, 27 TER, 27 QUÁTER, 27 QUINQUIES, 27 SEXIES, 27 SEPTIES, 27 OCTIES Y 70 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor a los treinta días hábiles siguiente (sic) a su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1097.- SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 342, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
