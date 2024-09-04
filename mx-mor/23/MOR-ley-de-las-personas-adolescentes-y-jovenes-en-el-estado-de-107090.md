@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-las-personas-adolescentes-y-jovenes-en-el-estado-de-1070
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-01"
-last_updated: "2023-09-27"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 1 de abril de 2015.
 
@@ -1091,6 +1091,88 @@ n. Adolescentes y Jóvenes no organizados.
 
 II. El Presidente de la Comisión de Juventud, convocará dos veces por período legislativo, mismas que sesionarán ordinariamente, generando una memoria de los temas tratados.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 86 Bis.
+
+El Poder Legislativo del Estado de Morelos realizará el Parlamento Juvenil del Congreso del Estado de Morelos a través de su Comisión de la Juventud en el mes de agosto de cada año.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 86 Ter.
+
+El Parlamento Juvenil realizará simulacros de las actividades parlamentarias que se realizan en el Poder Legislativo; con el objeto de fomentar y desarrollar la cultura política mediante el diálogo, el debate, la tolerancia, el trabajo colaborativo y el interés por la vida política.
+
+El Parlamento Juvenil realizará sus actividades en el Recinto Legislativo y sesionará en el salón de plenos, el Salón de Comisiones y en la oficina de la Junta Política y de Gobierno, según corresponda.
+
+Las y los integrantes del Parlamento Juvenil serán denominados “Diputada o Diputado Juvenil” y podrán hacer uso de la voz en cualquiera de las tribunas del Recinto Legislativo Durante el tiempo que dure el Parlamento Juvenil.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 86 Quáter.
+
+Las Actividades que realice el Parlamento Juvenil deberán contemplar cuando menos los siguientes supuestos:
+
+I. La declaratoria de instalación del Parlamento Juvenil del año que corresponda;
+
+II. La declaratoria de la integración de los Grupos Parlamentarios del Parlamento Juvenil;
+
+III. La declaratoria de la Diputada o Diputado Juvenil Coordinador de cada uno de Grupos Parlamentarios del Parlamento Juvenil. Cada Grupo Parlamentario determinará la forma en la que elegirá a su Coordinadora o Coordinador;
+
+IV. La elección e integración de la Mesa Directiva del Parlamento Juvenil;
+
+V. La integración de la Junta Política y de Gobierno del Parlamento Juvenil;
+
+VI. La integración de las Comisiones Legislativas del Parlamento Juvenil;
+
+VII. El desarrollo de cuando menos una Sesión en el Salón de Plenos, una sesión en el Salón de Comisiones y para el caso de las y los Diputados Juveniles Coordinadores de Grupo Parlamentario una sesión en la Oficina de la de la Junta Política y de Gobierno;
+
+VIII. La presentación de, al menos, una iniciativa por Grupo Parlamentario.
+
+IX. El uso de la voz en el salón de plenos para fijar posicionamiento respecto de las iniciativas presentadas por, preferentemente, todos los integrantes del parlamento juvenil;
+
+X. El sometimiento a votación de las iniciativas presentadas por los integrantes del Parlamento Juvenil;
+
+XI. La o el Diputado Presidente de la Mesa Directiva del Congreso del Estado turnará las propuestas aprobadas en el Parlamento Juvenil a las comisiones correspondientes;
+
+XII. La intervención de la persona diputada presidente de la Comisión de la Juventud del Congreso del Estado de Morelos;
+
+XIII. La invitación a las y los Diputados integrantes de la Legislatura en funciones para ser testigos del desahogo de los trabajos del Parlamento Juvenil; y
+
+XIV. Del Parlamento Juvenil se levantará una versión estenográfica y se registrará una memoria con los datos y propuestas de los Diputados Juveniles.
+
+Para la integración de los órganos contemplados en las fracciones II, IV, V y VI del presente artículo podrá utilizarse como referencia la que exista en la Legislatura en funciones.
+
+Las situaciones no previstas en estas actividades deberán ser resueltas por la Presidencia de la Comisión de la Juventud, utilizando como principios guiadores la normatividad aplicable al Poder Legislativo del Estado de Morelos.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 86 Quinquies.
+
+El Congreso del Estado de Morelos a propuesta y deliberación de la Comisión de la Juventud entregará un reconocimiento por escrito y un incentivo económico a:
+
+I. La persona Diputada Juvenil que haya presentado la iniciativa de ley, reforma o punto de acuerdo que mejor responda a una problemática social estatal;
+
+II. La persona Diputada Juvenil que haya realizado el mejor posicionamiento en tribuna, y
+
+III. Las dos personas Diputadas Juveniles que hayan realizado el mejor intercambio argumentativo en debate.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 86 Sexies.
+
+Adicional a las actividades descritas en el artículo que antecede, podrán realizarse mesas de trabajo o ponencias del Proceso Legislativo o de los temas que se establezcan en la convocatoria que para tal efecto se emita.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 86 Septies.
+
+La Comisión de la Juventud emitirá la convocatoria para la integración del Parlamento Juvenil antes del 15 de julio de cada año.
+
+El Parlamento Juvenil será integrado por treinta adolescentes y jóvenes en la primera semana del mes de agosto de cada año.
+
+Los integrantes serán seleccionados por la comisión de la juventud respetando el principio constitucional de paridad de género.
+
 ### CAPÍTULO XIV. DEL PODER JUDICIAL
 
 ###### Artículo 87.
@@ -1212,3 +1294,17 @@ SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su
 TERCERA. El titular del Poder Ejecutivo del Estado de Morelos incluirá la partida correspondiente a los fines del presente decreto, en el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio del 1 de enero al 31 de diciembre de 2024 y en los años subsecuentes.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CATORCE POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS; SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 76 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, Y SE ABROGA EL DECRETO NÚMERO SEISCIENTOS TREINTA Y CINCO PUBLICADO EN EL EJEMPLAR NÚMERO 4608 DEL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD" DE FECHA VEINTITRÉS DE ABRIL DE DOS MIL OCHO".]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para cumplimiento de los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- Con relación al primer artículo del presente decreto, este entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Con relación al segundo artículo del presente decreto, entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+CUARTA.- Las erogaciones que deban efectuarse para cubrir los gastos que se originen con motivo del Parlamento Juvenil del Congreso del Estado de Morelos deberán ser consideradas y aprobadas por la Junta Política y de Gobierno dentro del presupuesto anual autorizado para el Congreso del estado de Morelos; en cuyo caso no podrá ser menor a siete veces el valor anual de la Unidad de Medida y Actualización del año que corresponda y, de este presupuesto, la Conferencia para la Dirección y Programación de los Trabajos Legislativos y Parlamentarios determinará el monto en numerario para reconocer a los diputados juveniles que se distingan por su desempeño.
+
+QUINTA.- Se abroga el Decreto Número Seiscientos Treinta y Cinco. Que abroga el Decreto Número 149 por el cual se instituye la figura de Diputado por un Día para integrar el Parlamento Juvenil del Congreso del Estado de Morelos, y crea el Decreto que da origen al Congreso Juvenil Morelense, por el que se instaura la figura de Diputado por un Día para integrar el Parlamento Juvenil.
