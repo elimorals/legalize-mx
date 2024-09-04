@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-bebidas-alcoholicas-del-estado-de-san-luis-potosi-106724
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-19"
-last_updated: "2023-02-27"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 19 de marzo de 2015.
 
@@ -114,6 +114,14 @@ XXII. Clasificación: denominación que se asigna a cada uno de los establecimie
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 2023)</small>
 
 XXII Bis. Conductor designado: persona libre del consumo de alcohol, designada para conducir un vehículo con el propósito de transportar a una u otras personas que hayan consumido bebidas alcohólicas;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XXII Ter. Clausura definitiva: sanción aplicada por la autoridad municipal y/o estatal, y que produce la suspensión permanente de la actividad comercial o la operación de un establecimiento, mediante la imposición de sellos o símbolos de clausura provocando la revocación de la licencia o permiso especial;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XXII Quáter. Clausura temporal: sanción aplicada por la autoridad municipal y/o estatal, que produce la suspensión provisional de la actividad comercial o la operación de un establecimiento, mediante la imposición de sellos o símbolos de clausura;
 
 XXIII. Depósitos: establecimientos comerciales dedicados a la venta de cerveza de baja graduación, en envase cerrado o por caja, para llevar;
 
@@ -717,9 +725,11 @@ En caso de incumplimiento a esta disposición, el trámite se cancelará y el so
 
 A los titulares y dependientes de los establecimientos a que se refiere la fracción IV del artículo 10 de esta Ley, además de las obligaciones que les impone la misma, les está prohibido suministrar o permitir el consumo de bebidas alcohólicas dentro de sus instalaciones, debiendo tener en lugares visibles del establecimiento, avisos que hagan saber al público de dicha prohibición, y en los que se advierta que quien consuma bebidas alcohólicas dentro del mismo, se hará acreedor a las sanciones que establecen esta Ley y las disposiciones relativas. Tendrán además, avisos visibles al público, informando de las sanciones que se pueden aplicar a las personas que consuman bebidas alcohólicas en la vía pública.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 48.
 
-Queda prohibido a los propietarios, o titulares de licencia, dependientes o encargados de los establecimientos a que se refiere el artículo 10 de esta Ley, vender o suministrar bebidas alcohólicas a personas en evidente estado de ebriedad, o que muestren signos claros y externos de dependencia alcohólica, así como prestar los servicios en estado de ebriedad o con aliento alcohólico, o consumiendo bebidas alcohólicas o bajo el influjo de drogas, enervantes o cualquier otro psicotrópico.
+Queda prohibido a los propietarios, o titulares de licencia, dependientes o encargados de los establecimientos a que se refiere el artículo 10 de esta Ley, vender o suministrar bebidas alcohólicas a personas en evidente estado de ebriedad, o que muestren signos claros y externos de dependencia alcohólica, o que estén bajo el efecto evidente de psicotrópicos, así como prestar los servicios en estado de ebriedad o con aliento alcohólico, o consumiendo bebidas alcohólicas o bajo el influjo de drogas, enervantes o cualquier otro psicotrópico.
 
 ###### ARTÍCULO 49.
 
@@ -783,9 +793,11 @@ Cuando se compruebe que los titulares de las licencias, o sus empleados o encarg
 
 Toda persona que venda, distribuya o suministre bebidas alcohólicas sin licencia; o bebidas alcohólicas adulteradas, alteradas, contaminadas, o falsificadas, se le impondrá una multa de seiscientas a mil doscientas veces el valor diario de la unidad de medida y actualización vigente, sin perjuicio de las sanciones penales que correspondan.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 56.
 
-El servidor público que reciba, exija o solicite compensaciones, gratificaciones, prebendas o emolumentos por expedir licencias, o por agilizar los trámites para la expedición de las mismas; el que omita la celebración de la visita de verificación o de inspección, la simule, o declare datos falsos que favorezcan al interesado en el acta de inspección, será suspendido temporalmente del puesto que desempeñe; y sancionado en los términos previstos por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de San Luis Potosí.
+El servidor público que reciba, exija o solicite compensaciones, gratificaciones, prebendas o emolumentos por expedir licencias, o por agilizar los trámites para la expedición de las mismas; el que omita la celebración de la visita de verificación o de inspección, la simule, o declare datos falsos que favorezcan al interesado en el acta de inspección, será suspendido temporalmente del puesto que desempeñe; y sancionado en los términos previstos por la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
 
 ###### ARTÍCULO 57.
 
@@ -960,3 +972,11 @@ P.O. 27 DE FEBRERO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1096.- SE REFORMAN LOS ARTÍCULOS 48 Y 56; Y ADICIONAN LAS FRACCIONES XXII TER Y XXII QUÁTER AL ARTÍCULO 2º DE LA LEY DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
