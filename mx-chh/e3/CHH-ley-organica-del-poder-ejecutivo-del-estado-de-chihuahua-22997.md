@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-ejecutivo-del-estado-de-chihuahua-22997"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-10-01"
-last_updated: "2024-08-21"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22997&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 1 de octubre de 1986.
 
@@ -146,6 +146,10 @@ Sin perjuicio de lo anterior, la persona titular del Poder Ejecutivo contará, a
 ###### ARTICULO 7o.
 
 Las dependencias y entidades de la administración pública centralizada y paraestatal conducirán sus actividades en forma programada, con base en las políticas que para el logro de los objetivos y prioridades de la planeación estatal del desarrollo, establezca el Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Las dependencias y entidades de la administración pública señaladas en el párrafo anterior, deberán planear y conducir sus actividades para garantizar el desarrollo equitativo, incluyente, integral, sustentable y sostenible del Estado de Chihuahua, tomando como elemento fundamental la protección de la organización, fortalecimiento y desarrollo de la familia que señalan el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado Mexicano es parte; entendida la perspectiva de familia como la orientación transversal de las políticas públicas estatales para la protección y fortalecimiento de las familias mediante la construcción de una cultura de la complementariedad entre sus integrantes, eliminando todas las formas de violencia a su interior y exterior que atenten contra su unidad en los sectores público y privado, y encaminadas a mejorar las condiciones de vida familiar en los ámbitos económico, social y de cuidado en el hogar para quienes las conforman.
 
 > <small>(ADICIONADO, P.O. 22 DE MAYO DE 2002)</small>
 
@@ -3780,3 +3784,15 @@ Las autoridades competentes de la Administración Pública Estatal realizarán, 
 ###### ARTÍCULO TERCERO.
 
 La persona titular del Poder Ejecutivo del Estado establecerá, en su caso, las medidas, disposiciones y previsiones financieras, de ser necesarias a que hubiera lugar, siguiendo los procedimientos aplicables, a fin de cumplir con lo establecido en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLYC/0884/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
