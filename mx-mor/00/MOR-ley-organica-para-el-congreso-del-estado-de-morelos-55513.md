@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2024-07-24"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -83,11 +83,7 @@ VI. Entidades Fiscalizadas: Los poderes del Estado de Morelos, el Tribunal Elect
 
 VII. Legislatura: El periodo constitucional de tres años para el que fueron electos los Diputados;
 
-> <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2023)</small>
-
-VIII. Órgano Político Calificador: Órgano Político del Congreso del Estado encargado del proceso de designación de magistrados del Tribunal Superior de Justicia del Estado de Morelos, Tribunal Unitario de Justicia Penal para Adolescentes; y el Tribunal de Justicia Administrativa del Estado de Morelos. Estará conformado por nueve integrantes, procurando pluralidad.
-
-El órgano estará conformado por un Presidente, un Secretario y vocales.
+VIII. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
 
@@ -215,7 +211,9 @@ Los diputados, a partir de que rindan la protesta constitucional tendrán los si
 
 I. Participar con voz y voto en las sesiones del pleno del Congreso del Estado y en la diputación permanente, cuando formen parte de ésta;
 
-II. Formar parte de por lo menos una comisión legislativa o comité;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Presidir por lo menos una comisión legislativa o comité;
 
 III. Formar parte de la Mesa Directiva del Congreso del Estado;
 
@@ -463,13 +461,13 @@ Cuando un partido político, coalición o candidato independiente obtenga una cu
 
 Los diputados electos bajo las siglas de un mismo partido, en un número de dos o más, constituirán un grupo parlamentario.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Solo podrá existir un grupo parlamentario por cada partido político con representación en el Congreso del Estado. Cuando uno o más Diputados de un mismo partido dejen de pertenecer a un grupo parlamentario, podrán integrarse a otro de diferente partido en cualquier momento; si no lo hacen, serán considerados como Diputados sin partido.
+Solo podrá existir un grupo parlamentario por cada partido político con representación en el Congreso del Estado. Cuando uno o más Diputados de un mismo partido dejen de pertenecer a un grupo parlamentario, podrán integrarse a otro de diferente partido en cualquier momento, pero su adhesión se encontrará circunscrita a la declaratoria de modificación de grupos parlamentarios que al efecto emita el presidente de la Mesa Directiva; en caso de no integrase a algún grupo parlamentario, serán considerados como Diputados sin partido.
 
-> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Para tal efecto, deberán informarlo por escrito al presidente de la Mesa Directiva, quien, de inmediato, hará la declaratoria de modificación correspondiente, surtiendo sus efectos a partir de ese momento. De igual forma lo comunicarán a las y los integrantes del Grupo Parlamentario al que se pretendan adherir.
+Para tal efecto, deberán informarlo por escrito al presidente de la Mesa Directiva, quien, de conformidad con esta ley hará la declaratoria de modificación correspondiente, surtiendo sus efectos a partir de ese momento. De igual forma lo comunicarán a las y los integrantes del Grupo Parlamentario al que se pretendan adherir.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2023)</small>
 
@@ -495,11 +493,17 @@ En la Sesión de instalación del primer periodo de cada año legislativo, el Pr
 
 Cualquier modificación a la estructura original de los grupos parlamentarios, deberá hacerse del conocimiento de la Junta Política y de Gobierno y del Presidente de la Mesa Directiva.
 
-En la Sesión de Instalación del primer periodo de cada año legislativo, el Presidente de la Mesa Directiva hará la declaratoria de la modificación en la integración de los grupos parlamentarios, surtiendo sus efectos a partir de ese momento; sin perjuicio de lo dispuesto por el artículo 28 de esta Ley.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+En la Sesión de Instalación del primer periodo de cada año legislativo, el Presidente de la Mesa Directiva hará la declaratoria de la modificación en la integración de los grupos parlamentarios, surtiendo sus efectos a partir de ese momento.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 31.
 
-Los recursos económicos de que dispondrán los grupos parlamentarios, serán de hasta el diez por ciento del total del presupuesto anual del gasto corriente del Congreso del Estado, mismos que se asignarán mensualmente en relación al número de curules obtenidas en el proceso electoral. Los espacios físicos, los recursos humanos de asesoría, apoyo técnico y administrativo, se asignarán de manera proporcional a cada grupo parlamentario.
+Los recursos económicos de que dispondrán los grupos y fracciones parlamentarias, serán de hasta el diez por ciento del total del presupuesto anual del gasto corriente del Congreso del Estado, mismos que se asignarán mensualmente en relación al número de curules obtenidas en el proceso electoral.
+
+Los espacios físicos, los recursos humanos de asesoría, apoyo técnico y administrativo, se asignarán de manera proporcional a cada grupo y fracción parlamentaria.
 
 ## TÍTULO QUINTO. DE LA ORGANIZACIÓN DEL PODER LEGISLATIVO
 
@@ -769,6 +773,10 @@ III. (DEROGADA, P.O. 15 DE SEPTIEMBRE DE 2010) (REPUBLICADA SU DEROGACIÓN, P.O.
 
 IV. La Presidencia de la Junta Política y de gobierno será rotativa y anual, al (sic) Pleno del Congreso, por el voto de las dos terceras partes de sus integrantes, designará al grupo parlamentario que deba presidirla, siempre y cuando el Grupo Parlamentario esté integrado por lo menos del quince por ciento de los Diputados integrantes de la Legislatura.
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Para garantizar la representación plural de los órganos políticos y de decisión del Congreso del Estado, en ningún caso la Junta Política podrá ser presidida por el grupo parlamentario que al efecto ostente la presidencia de Mesa Directiva como fuerza política.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE SEPTIEMBRE DE 2023)</small>
 
 Con el objetivo de garantizar la gobernabilidad al interior del Poder Legislativo, en caso de falta de designación del grupo parlamentario que deberá presidir la Junta Política y de Gobierno para el segundo y tercer año legislativo, continuará en funciones la Diputada o Diputado que haya presidido dicho órgano en el periodo legislativo inmediato anterior, quien ante dicho supuesto contará con el voto ponderado del grupo parlamentario al que pertenezca, hasta en tanto se realice la designación respectiva por el Pleno del Congreso, mediante el voto de las dos terceras partes de sus integrantes.
@@ -825,7 +833,9 @@ e) La designación y remoción de los titulares de los órganos administrativos 
 
 f) La terna de ciudadanos que envíe el Gobernador del Estado para designar al Fiscal General del Estado;
 
-g) (DEROGADO, P.O. 21 DE JUNIO DE 2023)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+g) Las designaciones de los Magistrados que integran el Poder Judicial, para lo cual la Junta Política y de Gobierno establecerá los criterios para las designaciones conforme lo establece la Constitución del Estado y esta Ley, y
 
 h) Designar en caso de licencia de algún diputado a quien deba cubrir la ausencia en las comisiones respectivas;
 
@@ -917,19 +927,19 @@ Las comisiones especiales son aquellas de carácter temporal que acuerde el plen
 
 Para el análisis y dictaminación de las autorizaciones relativas a los contratos de colaboración público privada y de las demás modalidades y actos jurídicos previstos en la Ley de Contratos de Colaboración Público Privada para el Estado de Morelos, deberá constituirse una Comisión Especial.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 55.
 
-Las comisiones legislativas se integran de por lo menos tres diputados y su composición deberá reflejar en lo posible la pluralidad política del Congreso del Estado. De los diputados que integren las comisiones legislativas habrá un presidente, por lo menos un secretario y vocales que sean designados. Ningún diputado podrá presidir más de cinco comisiones ordinarias o comités.
+Las comisiones legislativas se integran de por lo menos tres diputados y su composición deberá reflejar en lo posible la pluralidad política del Congreso del Estado, para lo cual, los grupos y fracciones parlamentarias deberán tener por lo menos una representatividad en las presidencias de las mismas en proporción a su porcentaje de representación en el Pleno, lo cual no será limitativo para que, en su caso, puedan ostentar un mayor número de presidencias con relación a dicho porcentaje. De los diputados que integren las comisiones legislativas habrá un presidente, por lo menos un secretario y vocales que sean designados. Ningún diputado podrá presidir más de cinco comisiones ordinarias o comités.
 
 > <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 2015)</small>
 
 Las comisiones ordinarias de Puntos Constitucionales y Legislación, Hacienda, Presupuesto y Cuenta Pública, y Gobernación y Gran Jurado, estarán conformadas por un Presidente, tres secretarios y al menos un diputado de cada uno de los grupos y/o fracciones parlamentarias que integren la legislatura.
 
-> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-En el caso de la Comisión de Hacienda, Presupuesto y Cuenta Pública, la Presidencia será anual, para ello la Junta Política y de Gobierno propondrá al pleno, mediante acuerdo aprobado por mayoría calificada de sus integrantes por voto ponderado, la conformación de dicha comisión; mediante el mismo procedimiento, podrá proponer al pleno las comisiones que considere conveniente que sean rotativas y anuales, especificando el motivo y la conformación de las comisiones en su caso.
+En el caso de la Comisión de Hacienda, Presupuesto y Cuenta Pública, la Presidencia será anual, rotativa y no podrá pertenecer al grupo parlamentario que ostente al Presidencia de la Mesa Directiva del Congreso; para ello la Junta Política y de Gobierno propondrá al pleno, mediante acuerdo aprobado por mayoría calificada de sus integrantes por voto ponderado, la conformación de dicha comisión; mediante el mismo procedimiento, podrá proponer al pleno las comisiones que considere conveniente que sean rotativas y anuales, especificando el motivo y la conformación de las comisiones en su caso.
 
 > <small>(REFORMADO, P.O. 26 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1399,6 +1409,10 @@ VI. Revisar la Legislación Estatal para el proceso de armonización legislativa
 
 VII. Convocar a la instalación del Consejo Consultivo de la Comisión de Juventud, con el objetivo de vigilar y mantener actualizada la definición de las necesidades, las características, las demandas y los derechos de las personas adolescentes y jóvenes.
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII (SIC). Realizar el Parlamento Juvenil del Congreso del Estado de Morelos en los términos de la Ley de las Personas Adolescentes y Jóvenes en el Estado de Morelos y la normartiva (sic) aplicable.
+
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE JULIO DE 2024)</small>
 
 ###### Artículo 77.
@@ -1863,17 +1877,13 @@ VIII. Solicitar y autorizar la ampliación del plazo de reserva de la informaci�
 
 IX. Las demás que se desprendan de la normatividad aplicable.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE JUNIO DE 2023)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPÍTULO V. DEL ÓRGANO POLÍTICO CALIFICADOR
 
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+###### Artículo 88. Ter.
 
-###### Artículo 88 Ter.
-
-El Órgano Político Calificador estará conformado por nueve integrantes procurando la pluralidad, con derecho a voz y voto, propuestos por dos o más diputados y aprobados por las dos terceras partes del Pleno del Congreso mediante votación por cédula.
-
-La propuesta deberá contemplar a la diputada o diputado que Presidirá y la Secretaría, respectivamente. La Presidencia del Congreso del Estado podrá acudir a las sesiones del órgano con derecho a voz, pero sin voto.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2024)
 
 ## TÍTULO OCTAVO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL CONGRESO DEL ESTADO
 
@@ -1951,9 +1961,15 @@ I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
 II. No haber sido condenado en sentencia firme por delito intencional que amerite pena privativa de libertad;
 
-III. Acreditar los conocimientos, experiencia y capacidad de acuerdo al cargo y contar con título de licenciatura legalmente expedido y cédula profesional; y
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Las demás que señalen ésta ley y su Reglamento.
+III. No encontrarse inscrito en el Registro Nacional de Obligaciones Alimentarias;
+
+IV. Acreditar los conocimientos, experiencia y capacidad de acuerdo al cargo y contar con título de licenciatura legalmente expedido y cédula profesional; y
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Las demás que señalen esta Ley y su Reglamento.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -2051,9 +2067,13 @@ I. Ser ciudadano mexicano en pleno goce de sus derechos políticos y civiles;
 
 II. No haber sido condenado en sentencia firme por delito intencional que amerite pena privativa de libertad;
 
-III. Acreditar los conocimientos, experiencia y capacidad de acuerdo al cargo y contar con un título de licenciatura y cédula legalmente expedidos; y
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Los demás que señalen los ordenamientos legales aplicables.
+III. No encontrarse inscrito en el Registro Nacional de Obligaciones Alimentarias;
+
+IV. Acreditar los conocimientos, experiencia y capacidad de acuerdo al cargo y contar con un título de licenciatura y cédula legalmente expedidos; y
+
+V. Los demás que señalen los ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 2012)</small>
 
@@ -2227,11 +2247,13 @@ Para la designación de los servidores públicos que conforme al artículo 40, f
 
 Los servidores públicos y aspirantes a alguno de los cargos que corresponde designar al Congreso del Estado, deberán abstenerse de realizar gestión personal alguna ante los integrantes de las Comisiones correspondientes o ante cualquiera otra persona.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 112.
 
-El secretario de Servicios Legislativos, dará fe de los actos que realice el Órgano Político Calificador y fungirá como secretario técnico de dicho órgano. Asimismo, en todos los asuntos relacionados con este título, deberá estar presente el director jurídico del Congreso del Estado, quien podrá hacer uso de la palabra para asesorar y orientar a los integrantes del Órgano Político Calificador.
+El secretario técnico de la Junta Política y de Gobierno, dará fe de los actos que la misma realice. Asimismo, en todos los asuntos relacionados con este título, deberá estar presente el Director Jurídico del Congreso del Estado, quien podrá hacer uso de la palabra para asesorar y orientar a los integrantes de la Junta Política y de Gobierno.
+
+> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
 
 El presidente del órgano político calificador deberá nombrar a un representante servidor público del Congreso del estado de Morelos, que desempeñará esta función con carácter honorífico, que coadyuvará con el secretario técnico del órgano político y el director jurídico, en los asuntos relacionados a los procedimientos de este órgano y llevará el registro de los acuerdos y actas correspondientes.
 
@@ -2239,23 +2261,25 @@ El presidente del órgano político calificador deberá nombrar a un representan
 
 ### CAPÍTULO II. DE LA DESIGNACIÓN DE MAGISTRADOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 113.
 
-El Órgano Político Calificador emitirá una convocatoria pública a la sociedad, a efecto de recibir propuestas para la designación de magistraturas del Tribunal Superior de Justicia.
-
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
+La Junta Política y de Gobierno emitirá una convocatoria pública a la sociedad, a efecto de recibir propuestas para la designación de Magistrados del Tribunal Superior de Justicia.
 
 ###### Artículo 113 Bis.
 
-Serán conducidos los trabajos del Órgano Político Calificador por el Presidente designado.
+(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2024)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2023)</small>
 
 ###### Artículo 114.
 
 Para ser designado magistrada o magistrado del Tribunal Superior de Justicia, es necesario cumplir con los requisitos establecidos en la Constitución del Estado, esta ley y la convocatoria que al efecto se expida.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Además de no estar sentenciado por delitos de agresión sexual, violencia familiar, política contra las mujeres en razón de género y por ser declarado como deudor alimentario moroso y encontrarse en el Registro Nacional de Obligaciones Alimentarias.
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
@@ -2307,7 +2331,9 @@ c) Honorabilidad profesional
 
 En la sesión en que sea presentado al Pleno el dictamen con la propuesta de aspirantes, el Congreso designará por el voto de las dos terceras partes de sus integrantes, a las magistradas y magistrados del Tribunal Superior de Justicia del Estado.
 
-En caso de que ninguno de los aspirantes propuestos reúna la votación requerida, el dictamen se regresará al Órgano Político Calificador, a efecto de que en tres días hábiles presente uno nuevo.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+En caso de que ninguno de los aspirantes propuestos reúna la votación requerida, el dictamen se regresará a la Junta Política y de Gobierno, a efecto de que en tres días hábiles presente uno nuevo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE JUNIO DE 2023)</small>
 
@@ -2343,9 +2369,29 @@ II. Presentar la solicitud respectiva y el formato de registro debidamente llena
 
 4. Constancia de no inhabilitación expedida por la Secretaría de la Contraloría
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+5.- Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias;
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+6.- No estar sentenciado como agresor sexual;
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+7.- No estar sancionado por violencia familiar, y
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+8.- No encontrarse en el Registro Nacional o Estatal de Personas Sancionadas en materia de Violencia Política contra las Mujeres en razón de Género.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Por cuanto a los numerales 6, 7 y 8, la diputada o diputado que presida la Junta Política y de Gobierno, tiene la obligación de verificar mediante registros oficiales que las personas aspirantes a ocupar la Magistratura, no se encuentren en dichos supuestos.
+
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
-5. Copia certificada de:
+9. Copia certificada de:
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
@@ -2383,9 +2429,9 @@ b) Haber residido en el Estado durante los diez años inmediatos anteriores a la
 
 c) No haber ocupado el cargo de Secretario de Despacho del Poder Ejecutivo, Fiscal General del Estado o Diputado Local, durante el año previo al día de su designación.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Escrito en el que se autorice al Órgano Político Calificador para que en caso de ser necesario, lleve a cabo investigaciones para corroborar por los medios legales que juzgue convenientes, la información a que se refieren los numerales anteriores.
+IV. Escrito en el que se autorice a la Junta Política y de Gobierno para que en caso de ser necesario, lleve a cabo investigaciones para corroborar por los medios legales que juzgue convenientes, la información a que se refieren los numerales anteriores.
 
 > <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
 
@@ -2395,11 +2441,11 @@ V. Entrega de ensayo científico jurídico por escrito y con respaldo electróni
 
 VI. Documentos que acrediten la preparación académica y experiencia laboral del aspirante.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 119.
 
-El Órgano Político Calificador formará un expediente de los aspirantes que hayan acreditado los requisitos establecidos en el artículo anterior, procediendo a publicar la lista respectiva en la Gaceta Legislativa y el portal del Congreso, comunicándoles por este medio, así como vía correo electrónico a todos los aspirantes, si pasaron a la siguiente etapa de la convocatoria.
+La Junta Política y de Gobierno formará un expediente de los aspirantes que hayan acreditado los requisitos establecidos en el artículo anterior, procediendo a publicar la lista respectiva en la Gaceta Legislativa y el portal del Congreso, comunicándoles por este medio, así como vía correo electrónico a todos los aspirantes, si pasaron a la siguiente etapa de la convocatoria.
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2009)</small>
 
@@ -2435,33 +2481,29 @@ f) Las fuentes de investigación donde se precisen las fuentes bibliográficas, 
 
 g) El sustentante bajo protesta de decir verdad manifestará a través de una carta, que las ideas expuestas en dicho ensayo no han sido publicadas, ni plagiadas, misma que acompañará al ensayo en la hoja posterior a la portada.
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. El Órgano Político Calificador al cierre de la convocatoria, calificará la originalidad, calidad e integridad del ensayo, y podrá investigar las fuentes utilizadas y en su caso requerir la presentación de las fuentes utilizadas a los sustentantes, procediendo a desechar los trabajos que presenten irregularidades o no cumplan con las disposiciones que marca la Constitución, la ley o la convocatoria. Su decisión será inapelable.
+VIII.- La Junta Política y de Gobierno al cierre de la convocatoria, calificará la originalidad, calidad e integridad del ensayo, y podrá investigar las fuentes utilizadas y en su caso requerir la presentación de las fuentes utilizadas a los sustentantes, procediendo a desechar los trabajos que presenten irregularidades o no cumplan con las disposiciones que marca la Constitución, la Ley o la convocatoria. Su decisión será inapelable.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 121.
 
-Una vez realizada la calificación de los ensayos científicos, el Órgano Político Calificador publicará la lista de los aspirantes que acreditaron esta fase, en la Gaceta Legislativa y el portal de Internet del Congreso, la cual tendrá efectos de notificación a los interesados. Asimismo, les comunicará vía correo electrónico a todos los aspirantes si pasaron a la siguiente etapa de la convocatoria.
+Una vez realizada la calificación de los ensayos científicos, la Junta Política y de Gobierno publicará la lista de los aspirantes que acreditaron esta fase, en la Gaceta Legislativa y el portal de Internet del Congreso, la cual tendrá efectos de notificación a los interesados. Asimismo, les comunicará vía correo electrónico a todos los aspirantes si pasaron a la siguiente etapa de la convocatoria.
 
-En la referida publicación se convocará a los aspirantes acreditados a sesión del Órgano Político Calificador, en la que comparecerán, en estricto orden alfabético, para entrevistarse en un tiempo máximo de diez minutos con los integrantes del órgano, mismos que podrán hacer preguntas sobre su ensayo científico, el ejercicio profesional y el perfil del aspirante o aquellos temas que consideren pertinentes respecto al cargo que aspira y a las constancias que obren en el expediente.
+En la referida publicación se convocará a los aspirantes acreditados a sesión de la Junta Política y de Gobierno, en la que comparecerán, en estricto orden alfabético, para entrevistarse en un tiempo máximo de diez minutos con los integrantes del órgano de gobierno, mismos que podrán hacer preguntas sobre su ensayo científico, el ejercicio profesional y el perfil del aspirante o aquellos temas que consideren pertinentes respecto al cargo que aspira y a las constancias que obren en el expediente.
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 122.
 
-Concluida la etapa anterior, el Órgano Político Calificador analizará y calificará todos los elementos que contengan los expedientes de los aspirantes que hayan acreditado las dos primeras fases, con base en lo establecido en el artículo 116 de la Ley Orgánica para el Congreso del Estado.
+Concluida la etapa anterior, la Junta Política y de Gobierno analizará y calificará todos los elementos que contengan los expedientes de los aspirantes que hayan acreditado las dos primeras fases, con base en lo establecido en el artículo 116 de la Ley Orgánica para el Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 123.
 
-El Órgano Político Calificador, reunida (sic) en sesión, por consenso o en su caso por mayoría simple de sus integrantes, seleccionará a los aspirantes que considere son los más idóneos para ser designados magistradas o magistrados del Tribunal Superior de Justicia, los cuales propondrá en el dictamen correspondiente, al Pleno del Congreso.
-
-> <small>(ADICIONADO, P.O. 21 DE JUNIO DE 2023)</small>
-
-Una vez que las designaciones de Magistradas o Magistrados por el Pleno del Congreso, hayan quedado firmes se darán por concluidos los trabajos del Órgano Político Calificador.
+La Junta Política y de Gobierno, reunida en sesión, por consenso o en su caso por mayoría calificada mediante el sistema de voto ponderado de los coordinadores de los grupos parlamentarios, seleccionará a los aspirantes que considere son los más idóneos para ser designados Magistrados del Tribunal Superior de Justicia, los cuales propondrá en el dictamen correspondiente, al Pleno del Congreso.
 
 ###### Artículo 124.
 
@@ -3542,3 +3584,43 @@ PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado p
 SEGUNDA. El presente Decreto iniciará su vigencia a partir de la aprobación por el Pleno del Congreso del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CATORCE.-POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LAS PERSONAS ADOLESCENTES Y JÓVENES EN EL ESTADO DE MORELOS; SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 76 DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS, Y SE ABROGA EL DECRETO NÚMERO SEISCIENTOS TREINTA Y CINCO PUBLICADO EN EL EJEMPLAR NÚMERO 4608 DEL PERIÓDICO OFICIAL “TIERRA Y LIBERTAD” DE FECHA VEINTITRÉS DE ABRIL DE DOS MIL OCHO”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para cumplimiento de los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- Con relación al primer artículo del presente decreto, este entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA.- Con relación al segundo artículo del presente decreto, entrará en vigor al momento de su aprobación por el Pleno del Congreso del Estado de Morelos.
+
+CUARTA.- Las erogaciones que deban efectuarse para cubrir los gastos que se originen con motivo del Parlamento Juvenil del Congreso del Estado de Morelos deberán ser consideradas y aprobadas por la Junta Política y de Gobierno dentro del presupuesto anual autorizado para el Congreso del estado de Morelos; en cuyo caso no podrá ser menor a siete veces el valor anual de la Unidad de Medida y Actualización del año que corresponda y, de este presupuesto, la Conferencia para la Dirección y Programación de los Trabajos Legislativos y Parlamentarios determinará el monto en numerario para reconocer a los diputados juveniles que se distingan por su desempeño.
+
+QUINTA.- Se abroga el Decreto Número Seiscientos Treinta y Cinco. Que abroga el Decreto Número 149 por el cual se instituye la figura de Diputado por un Día para integrar el Parlamento Juvenil del Congreso del Estado de Morelos, y crea el Decreto que da origen al Congreso Juvenil Morelense, por el que se instaura la figura de Diputado por un Día para integrar el Parlamento Juvenil.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y DOS.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES DEL ESTADO DE MORELOS, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA SOBRE OBLIGACIONES ALIMENTARIAS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Tribunal Superior de Justicia del Estado, en el término de noventa días naturales, realizará las adecuaciones pertinentes a sus disposiciones reglamentarias y administrativas, para efecto de cumplir con las obligaciones establecidas en el presente Decreto y en los Lineamientos establecidos por el Sistema Nacional DIF.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo ordenado en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SESENTA Y SIETE POR EL QUE SE DEROGAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado de Morelos, para los fines que indican los artículos 44, 47 y 70, fracción XVII, inciso a), del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor en el momento de su aprobación por el Pleno del Congreso del Estado de Morelos, de conformidad con lo establecido en el segundo párrafo del artículo 38 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por el presente Decreto.
+
+CUARTA. Todas las referencias al Órgano Político Calificador en esta ley o dentro de otros ordenamientos, en adelante se entenderán hechas a la Junta Política y de Gobierno del Congreso del Estado de Morelos.
+
+QUINTA. Toda la documentación y archivos que obren en poder del Órgano Político Calificador con motivo del procedimiento hecho para la designación de Magistraturas que integran el Poder Judicial del Estado, deberá ser remitida a la Junta Política y de Gobierno del Congreso del Estado, cumpliendo con el acto de entrega recepción.
