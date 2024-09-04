@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-victimas-del-estado-de-morelos-antes-ley-de-atencion-951
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2024-05-15"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "MOR"
 
 LEY DE VÍCTIMAS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -271,77 +271,145 @@ XLII. Violación de Derechos Humanos, a todo acto u omisión que afecte los dere
 
 ### CAPÍTULO II. DE LOS DERECHOS EN LO GENERAL DE LAS VÍCTIMAS
 
-> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 7.
 
-Los derechos de las víctimas que prevé la presente Ley son de carácter enunciativo y no limitativo y deberán ser interpretados de conformidad con lo dispuesto en el artículo 3 de esta Ley, favoreciendo en todo tiempo la protección más amplia de sus derechos.
+Los derechos de las víctimas que prevé la presente Ley son de carácter enunciativo y deberán ser interpretados de conformidad con lo dispuesto en la Constitución, los tratados y las leyes aplicables en materia de atención a víctimas, favoreciendo en todo tiempo la protección más amplia de sus derechos.
+
+> <small>(REFORMADO [N. DE E REPUBLICADO ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 Las víctimas tendrán, entre otros, los siguientes derechos:
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 I. A una investigación pronta y eficaz que lleve, en su caso, a la identificación y enjuiciamiento de los responsables de violaciones de los derechos humanos y a su reparación integral;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 II. A ser reparadas por el Estado de manera integral, adecuada, diferenciada, transformadora y efectiva por el daño o menoscabo que han sufrido en sus derechos como consecuencia de las violaciones a derechos humanos;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 III. A conocer la verdad de lo ocurrido acerca de los hechos en que les fueron violados sus derechos humanos, para lo cual la autoridad deberá informar los resultados de las investigaciones y de los derechos que en su favor contemplan la Constitución, la Constitución Local, así como en la normativa de la materia;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 IV. A que se les brinde protección y se salvaguarde su vida y su integridad corporal en los casos previstos en el artículo 34 de la Ley Federal contra la Delincuencia Organizada;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 V. A ser tratadas con humanidad y respeto de su dignidad y sus derechos humanos por parte de los servidores públicos y, en general, por el personal de las instituciones responsables del cumplimiento de esta Ley, así como por parte de los particulares que cuenten con convenios para brindar servicios a las víctimas;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 VI. A solicitar y a recibir ayuda, asistencia y atención en forma oportuna, rápida, equitativa, gratuita y efectiva por personal especializado en atención al daño sufrido desde la comisión del hecho victimizante, con independencia del lugar en donde ella se encuentre; así como a que esa ayuda, asistencia y atención no dé lugar, en ningún caso, a una nueva afectación;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 VII. A la verdad, a la justicia y a la reparación integral a través de recursos y procedimientos accesibles, apropiados, suficientes, rápidos y eficaces;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 VIII. A la protección del Estado, incluido su bienestar físico y psicológico y la seguridad de su entorno, con respeto a su dignidad y privacidad de la víctima, con independencia de que se encuentre dentro de un proceso penal o de cualquier otra índole. Lo anterior incluye el derecho a la protección de su intimidad contra injerencias ilegítimas, así como derecho a contar, ella y sus familiares, con medidas de protección eficaces cuando su vida, integridad o libertad personal sean amenazadas o se hallen en riesgo en razón de su condición de víctima o del ejercicio de sus derechos;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 IX. A solicitar y a recibir información clara, precisa y accesible sobre las rutas y los medios de acceso a los procedimientos, mecanismos y medidas que se establecen en la presente Ley;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 X. A solicitar, acceder y recibir, en forma clara y precisa, toda la información oficial necesaria para lograr el pleno ejercicio de cada uno de sus derechos, conforme la normativa aplicable;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XI. A obtener en forma oportuna, rápida y efectiva todos los documentos que requiera para el ejercicio de sus derechos, respetando los procedimientos que establezca la normativa aplicable;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XII. A conocer el estado de los procesos judiciales y administrativos en los que tenga un interés como interviniente;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XIII. A ser efectivamente escuchada por la autoridad respectiva, cuando se encuentre presente en la audiencia, diligencia o en cualquier otra actuación y antes de que la autoridad se pronuncie;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XIV. A ser notificada de las resoluciones relativas a las solicitudes de ingreso al Registro Estatal de Víctimas y de medidas de ayuda, de asistencia y de reparación integral que se dicten;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XV. A que su consulado sea inmediatamente notificado conforme a las normas internacionales que protegen el derecho a la asistencia consular, cuando se trate de víctimas extranjeras;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XVI. A la reunificación familiar cuando por razón de su tipo de victimización su núcleo familiar se haya dividido;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XVII. A retornar a su lugar de origen o a reubicarse en condiciones de voluntariedad, seguridad y dignidad;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XVIII. A acudir y participar en escenarios de diálogo institucional;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XIX. A ser beneficiaria de las acciones afirmativas y programas sociales públicos para proteger y garantizar sus derechos;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XX. A participar en la formulación, implementación y seguimiento de la política pública de prevención, ayuda, atención, asistencia y reparación integral;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XXI. A que las políticas públicas que son implementadas con base en la presente Ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores, la población indígena y las personas en situación de desplazamiento interno;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XXII. A no ser discriminadas ni limitadas en sus derechos;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XXIII. A recibir tratamiento especializado que le permita su rehabilitación física y psicológica con la finalidad de lograr su reintegración a la sociedad;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XXIV. A acceder a los mecanismos de justicia disponibles para determinar la responsabilidad en la comisión del delito o de la violación de los derechos humanos;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XXV. A tomar decisiones informadas sobre las vías de acceso a la justicia o mecanismos alternativos;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XXVI. A una investigación pronta y efectiva que lleve a la identificación, captura, procesamiento y sanción de manera adecuada de todos los responsables del daño, al esclarecimiento de los hechos y a la reparación del daño;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XXVII. A participar activamente en la búsqueda de la verdad de los hechos y en los mecanismos de acceso a la justicia que estén a su disposición, conforme a los procedimientos establecidos en la normativa aplicable;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XXVIII. A expresar libremente sus opiniones e intereses ante las autoridades e instancias correspondientes y a que éstas, en su caso, sean consideradas en las decisiones que afecten sus intereses;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XXIX. A ejercer los recursos legales en contra de las decisiones que afecten sus intereses y el ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XXX. A que se les otorgue la ayuda provisional de los Recursos de Ayuda de la Comisión Ejecutiva Estatal o de la Comisión Ejecutiva Federal en los términos de la normativa aplicable;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XXXI. A recibir gratuitamente la asistencia de un intérprete o traductor de su lengua, en caso de que no hablen el idioma español o tengan discapacidad auditiva, verbal o visual;
 
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
+
 XXXII. A trabajar de forma colectiva con otras víctimas para la defensa de sus derechos, incluida su reincorporación a la sociedad;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XXXIII. A participar con espacios colectivos donde se proporcione el apoyo individual o colectivo que le permita relacionarse con otras víctimas;
 
@@ -349,15 +417,23 @@ XXXIII. A participar con espacios colectivos donde se proporcione el apoyo indiv
 
 XXXIV. Toda ausencia a su fuente de trabajo por motivo de comparecencia o trámite ante el órgano investigador, juez, tribunal o cualquier oficina gubernamental o de carácter privado, cuando sea necesaria su presencia, se considerará justificada para efectos escolares y laborales, en este último caso cuando se trate de trabajadores al servicio del estado de Morelos, teniendo el derecho a gozar de la totalidad de los emolumentos a que se refiere la Ley del Servicio Civil del Estado de Morelos u otra normativa aplicable, según corresponda;
 
-XXXV. La protección de las víctimas del delito de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes; de los intervinientes o colaboradores en un procedimiento penal; así como de las personas o familiares cercanas a todos ellos, se otorgará además de los dispuesto por esta Ley en términos de la normativa aplicable;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XXXV. La protección de las víctimas del delito de feminicidio, tentativa de feminicidio, secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la Ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, de los intervinientes o colaboradores en un procedimiento penal, así como de las personas o familiares cercanas a todos ellos, se otorgará además de lo dispuesto por esta Ley en términos de la legislación aplicable.
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XXXVI. Tener acceso ágil, eficaz y transparente a los fondos de ayuda federal y estatal en términos de esta Ley;
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XXXVII. A recibir la protección de su identidad, datos personales y confidencialidad, y
 
 > <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
 XXXVIII. Al pago íntegro de los días en que el trabajador al servicio del estado de Morelos se haya ausentado de su fuente laboral, con motivo de algún hecho delictivo del que haya sido víctima, siempre y cuando justifique ante el patrón la inasistencia con las constancias respectivas, lo anterior en términos de la fracción XXXII del artículo 110 de la presente Ley, y
+
+> <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
 XXXIX. Los demás señalados por la Constitución, los Tratados Internacionales, la Ley General, las normas federales y locales.
 
@@ -3096,3 +3172,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su s
 SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y NUEVE.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MORELOS, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MORELOS, Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS”.]
+
+PRIMERO.- Aprobado el presente Decreto por las diputadas y diputados integrantes de la Quincuagésima Quinta Legislatura del Congreso del Estado de Morelos, remítase el presente decreto al titular del Poder Ejecutivo del estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor grado jerárquico que se opongan al presente decreto.
