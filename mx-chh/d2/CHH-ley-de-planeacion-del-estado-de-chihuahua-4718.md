@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-planeacion-del-estado-de-chihuahua-4718"
 country: "mx"
 rank: "ley"
 publication_date: "1989-01-04"
-last_updated: "2024-05-11"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -59,9 +59,11 @@ IV.- Las bases para promover y garantizar la participación democrática de los 
 
 V.- Las bases para la concertación de acciones con los sectores social y privado, tendientes a alcanzar los objetivos y prioridades de los planes y programas.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 2o.
 
-La planeación deberá llevarse a cabo, como medio para el eficaz desempeño de la responsabilidad del Gobierno del estado y de los Gobiernos Municipales, sobre el desarrollo integral de la entidad, de acuerdo a los principios, fines y objetivos políticos, sociales, culturales y económicos contenidos en la Constitución Política del Estado Libre y Soberano de Chihuahua.
+La planeación deberá llevarse a cabo como un medio para el eficaz desempeño de la responsabilidad del Gobierno del Estado y los Gobiernos Municipales, sobre el desarrollo equitativo, incluyente, integral, sustentable y sostenible del Estado, con perspectiva de género, y de familia, y deberá tender a la consecución de los fines y objetivos políticos, sociales, culturales, ambientales y económicos contenidos en la Constitución Política de los Estados Unidos Mexicanos, la propia de la entidad y en los tratados internacionales de los que el Estado Mexicano sea parte.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
@@ -70,6 +72,14 @@ La planeación deberá llevarse a cabo, como medio para el eficaz desempeño de 
 Para los efectos de esta Ley, se entiende por planeación para el desarrollo, la ordenación racional y sistemática de las acciones de las diversas instancias de gobierno con la participación de los sectores social y privado, a fin de transformar la realidad socioeconómica de la entidad, y elevar la calidad de vida de su población.
 
 Mediante la planeación se fijarán prioridades, objetivos, estrategias, indicadores y metas en los ámbitos político, social, económico, cultural y ambiental; se asignarán recursos, responsabilidades, tiempos de ejecución y se evaluarán resultados.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+La protección de la organización, fortalecimiento y desarrollo de la familia que señalan el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano es parte, será una de las bases fundamentales de la planeación y la consecución de los fines y objetivos a que hace referencia el artículo 2 de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+La perspectiva de familia a que hace referencia el párrafo anterior, se entenderá como la orientación transversal de las políticas públicas para la protección y fortalecimiento de las familias mediante la construcción de una cultura de la complementariedad entre sus integrantes, eliminando todas las formas de violencia a su interior y exterior que atenten contra su unidad en los sectores público y privado, y encaminadas a mejorar las condiciones de vida familiar en los ámbitos económico, social y de cuidado en el hogar para quienes la conforman.
 
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
@@ -347,6 +357,10 @@ Ambos Planes deberán sujetarse a los Objetivos de Desarrollo Sostenible de la O
 
 La categoría del Plan, queda reservada exclusivamente para los Planes Estatales de Desarrollo y de Seguridad Pública y para los Planes Municipales.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Todos los Planes a los que hace referencia el presente artículo, deberán contemplar dentro de sus estrategias de trabajo, la protección de la organización, fortalecimiento y desarrollo de la familia que señalan el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano es parte.
+
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2018)</small>
 
 ###### ARTICULO 12.
@@ -442,6 +456,10 @@ El Gobernador del Estado, al enviar al Congreso del Estado las iniciativas de Le
 Los Planes Municipales de Desarrollo de cada uno de los Municipios del Estado, deberán elaborarse, aprobarse y publicarse dentro de un plazo de cuatro meses, contados a partir de la fecha de toma de posesión de los Ayuntamientos respectivos y su vigencia no excederá del período constitucional que les corresponda.
 
 El Plan precisará los objetivos, estrategias y prioridades del desarrollo municipal; determinará los instrumentos y responsables de su ejecución; sus previsiones se referirán al conjunto de las actividades económicas y sociales; contendrá previsiones sobre los recursos que serán asignados, para el cumplimiento de sus fines a través del Programa Operativo Anualizado; y regirá el contenido de los programas que se deriven del Plan.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Las políticas públicas municipales que se establezcan en el Plan, deberán contemplar las estrategias de trabajo con sujetos sociales prioritarios por cuestiones de vulnerabilidad, tales como niñas, niños y adolescentes, jóvenes, personas adultas mayores, mujeres, personas jornaleras, migrantes y personas con discapacidad, así como la protección de la organización, fortalecimiento y desarrollo de la familia que señalan el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano es parte, esto con la finalidad de darle un rostro humano a toda la actividad y objetivos de desarrollo que el gobierno establezca.
 
 ###### ARTICULO 26.
 
@@ -776,3 +794,15 @@ P.O. 11 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXVII/RFLYC/0884/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
