@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-escudo-la-bandera-y-el-himno-del-estado-de-yucatan-1740
 country: "mx"
 rank: "ley"
 publication_date: "2024-08-12"
-last_updated: "2024-08-12"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL ESCUDO, LA BANDERA Y EL HIMNO DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Vespertina Número 35,467 del Diario Oficial del Estado de Yucatán, el lunes 12 de agosto de 2024.
 
@@ -369,9 +369,13 @@ y así proclamarte, con justa razón,
 
 en signo de orgullo de nuestra nación.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 La música del himno del estado de Yucatán es la siguiente:
 
 > <small>[N. DE E. VÉASE IMÁGENES EN EL D.O. DE 12 DE AGOSTO DE 2024, PAGINAS DE LA 14 A LA 17.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LAS IMÁGENES EN EL D.O. DE 4 DE SEPTIEMBRE DE 2024, PÁGINAS DE LA 47 A LA 52.]</small>
 
 Tanto la música como la letra, en su conjunto, constituyen de manera íntegra el himno, para todas las disposiciones legales y normativas que resulten aplicables.
 
@@ -381,7 +385,9 @@ Ejecución, canto y reproducción del himno
 
 La ejecución, el canto y la reproducción del himno se apegarán a su letra y música. Se hará siempre de manera respetuosa, en un ámbito que permita observar la debida solemnidad.
 
-Se permitirá la reproducción parcial del himno, cuando requiera acortarse. Para este fin, se ejecutará el coro, las primeras dos estrofas del himno, y se terminará con la repetición del coro.
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Se permitirá la reproducción parcial del himno, al número de estrofas que convenga para su interpretación. Para este fin deberá respetarse el orden de coro, primera estrofa y coro, y de manera sucesiva hasta entonar las estrofas deseadas. La interpretación siempre deberá respetar el orden de las estrofas de acuerdo a su enumeración.
 
 El reglamento de esta ley señalará las disposiciones para la enseñanza, difusión y reproducción del himno.
 
@@ -516,3 +522,13 @@ Gobernador del Estado de Yucatán
 Abog. María Dolores Fritz Sierra
 
 Secretaria general de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 831/2024 POR EL QUE SE MODIFICA LA LEY DEL ESCUDO, LA BANDERA Y EL HIMNO DEL ESTADO DE YUCATÁN, EN MATERIA DE LA MÚSICA DEL HIMNO DE YUCATÁN".]
+
+Entrada en vigor
+
+Artículo único. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
