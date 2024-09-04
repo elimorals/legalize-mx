@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2024-05-16"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -1559,9 +1559,9 @@ I. Establecer en el ámbito de su competencia, los lineamientos y políticas en 
 
 II. Aprobar el Programa Operativo Anual que le presente el Director General;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-III. Remitir al Congreso, para su aprobación, las cuotas y tarifas por la prestación del servicio, a más tardar el cinco de noviembre de cada año, de conformidad con lo establecido en la presente Ley; de no hacerlo oportunamente, o de no apegarse a la metodología para el cálculo de las cuotas y tarifas, se tomará como propuesta las que hubiesen regido durante el año fiscal inmediato anterior;
+III. Remitir al Congreso, para su aprobación, las cuotas y tarifas por la prestación del servicio, a más tardar el quince de octubre de cada año, con excepción del año de instalación de los ayuntamientos, en el que lo harán a más tardar el cinco de noviembre, propuestas que deberán cumplir con los requisitos y formalidades que se disponen en la presente Ley; de no hacerlo oportunamente, o de no apegarse a la metodología para el cálculo de las cuotas y tarifas, se tomará como propuesta las que hubiesen regido durante el año fiscal inmediato anterior;
 
 IV. Designar y remover al Director General del organismo;
 
@@ -3862,5 +3862,13 @@ P.O. 16 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1045.- SE REFORMA EL ARTÍCULO 12 EN SUS PÁRRAFOS OCTAVO Y ACTUAL NOVENO; Y ADICIONA AL MISMO ARTÍCULO 12 UN PÁRRAFO ÉSTE COMO NOVENO, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; Y SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 16, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1098.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 96, DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
