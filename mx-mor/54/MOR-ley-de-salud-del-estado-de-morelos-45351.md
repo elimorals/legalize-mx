@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2024-07-24"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -251,6 +251,10 @@ XX. DEONTOLOGÍA MÉDICA, PARTE DE LA ÉTICA QUE TRATA DE LOS DEBERES Y PRINCIPI
 
 XXI.- Lex Artis Ad Hoc, criterio valorativo de la corrección del acto médico ejecutado por profesionales de la medicina, que tiene en cuenta las especiales características de la profesión, de la complejidad y trascendencia vital de su actor y, en su caso, de la influencia de otros factores, como el estado o intervención del paciente, de sus familiares, o de la misma organización sanitaria, para calificar dicho acto de conformidad con la técnica normal establecida en la literatura magistral médica, las publicaciones especializadas, los protocolos de atención, las guías de práctica clínica vigentes y, en general, las prácticas aceptadas por la comunidad médica.
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XXII.- Violencia obstétrica, es toda acción u omisión, ejercida por cualquier persona de instituciones del Sistema Estatal de Salud que, en contravención de la Lex Artis Ad Hoc de la medicina, cause un daño físico o psicológico a la mujer durante el embarazo, parto o puerperio, manifestada a través de la negación de acceso a los servicios de salud; de tratos crueles, inhumanos y denigrantes y, en general, lo que implique la vulneración del derecho de las mujeres a decidir de manera libre, consciente, e informada, en la atención obstétrica.
+
 ###### Artículo 4.
 
 Son autoridades sanitarias en el Estado:
@@ -411,9 +415,13 @@ XVI.- Impulsar la permanente actualización de las disposiciones legales en mate
 
 XVII.- Promover e impulsar que las instituciones del Sistema Estatal de Salud implementen programas cuyo objeto consista en brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
 
-XVIII.- Llevar el Registro de Agrupaciones para la Salud, y
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XIX.- Las demás atribuciones, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
+XVIII.- Apoyar la coordinación de los establecimientos de atención médica del Sistema Estatal de Salud para la elaboración y actualización continua de las guías de referencia y contrarreferencia de pacientes en todos sus niveles de atención.
+
+XIX.- Llevar el Registro de Agrupaciones para la Salud, y
+
+XX.- Las demás atribuciones, que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, y las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -1313,7 +1321,9 @@ IX. A designar a una persona de su confianza para que le acompañe y represente 
 
 La atención materno-infantil, tiene carácter prioritario y comprende, entre otras, las siguientes acciones:
 
-I. La atención integral de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+I. La atención integral y libre de violencia obstétrica, de la mujer durante el embarazo, el parto y el puerperio, incluyendo la atención psicológica que requiera;
 
 II. La atención del menor y la vigilancia de su crecimiento y desarrollo integral, incluyendo la promoción de la vacunación oportuna, atención prenatal, así como la prevención y detección de las condiciones y enfermedades hereditarias y congénitas, y, en su caso, atención, que incluya la aplicación de la prueba del tamiz ampliado, y su salud visual;
 
@@ -1345,13 +1355,17 @@ II. Acciones de orientación y vigilancia institucional, fomento para la lactanc
 
 III. Acciones de promoción para la creación de bancos de leche humana, en los establecimientos de salud que cuenten con servicios neonatales;
 
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Acciones para controlar las enfermedades prevenibles por vacunación, las infecciones gastrointestinales, los procesos diarréicos y las infecciones respiratorias agudas de los menores de cinco años, y
+IV. Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de cinco años;
 
-> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-V. Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio
+V. Acciones de capacitación para fortalecer la competencia técnica de las parteras tradicionales, para la atención del embarazo, parto y puerperio; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Las acciones institucionales necesarias para identificar, prevenir, atender y erradicar la violencia obstétrica contra las mujeres, asegurando un trato digno y de respeto del derecho al parto humanizado.
 
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 2014)</small>
 
@@ -1689,11 +1703,13 @@ III.- Orientar y capacitar a la población; preferentemente, en materia de nutri
 
 Las autoridades sanitarias estatales en coordinación con las autoridades municipales y federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, los cuales podrán ser difundidos en los medios masivos de comunicación que actúen en el ámbito del Estado, procurando optimizar los recursos y alcanzar una cobertura total de la población.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 111 Bis.
 
-Las autoridades de salud del Estado, en sus respectivos ámbitos de competencia, vigilarán el cumplimiento de las normas oficiales mexicanas tendientes a la protección de la salud, en materia de prevención, tratamiento y control de la diabetes mellitus.
+Las autoridades de salud del Estado, en sus respectivos ámbitos de competencia, vigilarán el cumplimiento de las normas oficiales mexicanas tendientes a la protección de la salud, en materia de prevención, diagnóstico, tratamiento y control diferenciado de la diabetes mellitus en todos sus tipos y subtipos, de conformidad con las respectivas guías de práctica clínica vigentes.
+
+Las autoridades de salud del Estado, en garantía del derecho a la protección de la salud, promoverán la adopción de lo establecido por este artículo, especialmente mediante campañas de educación y de atención integral a la salud.
 
 ### CAPÍTULO III. NUTRICIÓN
 
@@ -5008,3 +5024,37 @@ P.O. 24 DE JULIO DE 2024.
 PRIMERA.- Aprobado el presente Decreto, remítase al Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”.
 
 SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SESENTA Y DOS POR EL QUE SE REFORMAN EL ARTÍCULO 111 BIS DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para cumplimiento de los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+
+TERCERA. La Secretaría de Salud del Estado realizará las modificaciones pertinentes en los programas vigentes sobre diabetes mellitus en un plazo de ciento veinte días a efecto de dar cumplimiento de lo dispuesto en el presente decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SESENTA Y TRES POR EL QUE SE ADICIONA UNA NUEVA FRACCIÓN XVIII, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, AL ARTÍCULO 14 DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para cumplimiento de los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SESENTA Y CUATRO.- POR LA QUE SE ADICIONAN, LA FRACCIÓN XXII AL ARTÍCULO 3 BIS Y LA FRACCIÓN VI AL ARTÍCULO 88 DUODECIES, Y SE REFORMAN, LA FRACCIÓN I DEL ARTÍCULO 88 DECIES Y LAS FRACCIONES IV Y V DE LA ARTÍCULO 88 DUODECIES, TODAS DE LA LEY DE SALUD DEL ESTADO DE MORELOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para cumplimiento de los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
