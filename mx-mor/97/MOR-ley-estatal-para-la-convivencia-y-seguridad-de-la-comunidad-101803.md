@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-para-la-convivencia-y-seguridad-de-la-comunidad-101
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-23"
-last_updated: "2019-11-27"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY ESTATAL PARA LA CONVIVENCIA Y SEGURIDAD DE LA COMUNIDAD ESCOLAR DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2019.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 27 DE NOVIEMBRE DE 2019 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO DOSCIENTOS CUARENTA Y DOS PUBLICADO EN EL P.O. DE 22 DE MAYO DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 23 de julio de 2014.
 
@@ -51,15 +49,21 @@ LEY ESTATAL PARA LA CONVIVENCIA Y SEGURIDAD DE LA COMUNIDAD ESCOLAR
 
 Las disposiciones de esta Ley son de orden público e interés general y tienen por objeto:
 
-I. Establecer las normas conforme a las cuales se llevarán a cabo las acciones en materia de convivencia y seguridad de la comunidad escolar;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+I. Establecer las bases conforme se llevarán a cabo las acciones en materia de convivencia, cultura de la paz y seguridad de la comunidad escolar;
 
 II. Procurar la creación de vínculos permanentes entre los diversos elementos que interactúan en el ámbito de la comunidad escolar y la propia sociedad, así como establecer las bases para el funcionamiento de los organismos encargados de diseñar y aplicar las políticas que surjan sobre la base de dicha comunicación;
 
 III. Regular las acciones, Proyectos y Programas en la materia de corto, mediano y largo plazo, que permitan su seguimiento y evaluación constante, así como una eventual rectificación; en todo caso, se dará prioridad a su implementación en las zonas de alta incidencia de inseguridad pública;
 
-IV. Fortalecer el ambiente social de la comunidad escolar con la participación de maestros, padres de familia, alumnos, vecinos y autoridades;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-V. Impulsar acciones para generar un clima de convivencia y seguridad de la comunidad escolar y su entorno, así como para fortalecer una cultura de la prevención; y
+IV. Fortalecer el ambiente social de la comunidad escolar con la participación de los alumnos, estudiantes, docentes, madres, padres, tutores, personas cuidadoras, integrantes de la comunidad y las autoridades;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Impulsar acciones para la generación de un clima de paz, convivencia y seguridad de la comunidad escolar y su entorno; así como fortalecer una cultura de la prevención de la violencia, la resolución pacífica de conflictos y la justicia restaurativa; y,
 
 VI. Establecer como obligatorias para las instituciones educativas públicas y privadas, asociaciones de padres de familia, estudiantes y en general para los habitantes del Estado, las actividades y programas relacionados con la convivencia y seguridad de la comunidad escolar.
 
@@ -97,6 +101,18 @@ XIV. Sistemas Municipales DIF: A los Sistemas para el Desarrollo Integral de la 
 
 XV. Violencia Escolar: Es la forma de agresión o maltrato psicológico, físico, verbal o sexual, a través de los medios o modalidades establecidos en el artículo 30 del presente ordenamiento, realizada dentro o fuera de las instituciones educativas públicas y privadas, ejercida por cualquier integrante de la comunidad educativa, de manera reiterada y sin provocación aparente por parte del receptor; que daña la integridad y el bienestar físico y psicológico de forma inmediata al hacerle sentir un temor razonable al sufrir algún daño de cualquier tipo y que afecta gravemente su desarrollo, su educación y su integración social a inmediato, mediano y largo plazo;
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Botón de Pánico. Dispositivo instalado en los planteles escolares, con la capacidad de emitir una señal silenciosa a la Comisión Estatal de Seguridad Pública o de la autoridad competente, para alertar sobre una emergencia que ponga en riesgo o afecte la integridad de una o varias personas de la comunidad escolar;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Cultura de paz. Conjunto de valores, ideas, actitudes y comportamientos que reflejan el respeto a la vida, a la dignidad del ser humano y a la naturaleza, que anteponen en primer plano los derechos humanos, la igualdad de género, el rechazo a la violencia en todas sus formas, así como la adhesión a la democracia y los principios de libertad, justicia, respeto, solidaridad y tolerancia, y;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Resolución pacífica de conflictos: Proceso de construcción de soluciones no violentas a la problemática suscitada entre dos o mas personas, o que constituye una problemática para la comunidad escolar, guiada por los principios del diálogo, cooperación y participación.
+
 ###### ARTÍCULO 3.
 
 La prevención y ejecución de medidas y acciones en materia de convivencia y seguridad de la comunidad escolar, son responsabilidad de los gobiernos estatal en coordinación con la autoridad municipal, a quienes corresponde atenderlas en el ámbito de sus atribuciones y competencias, mediante la celebración de acuerdos y acciones con los sectores público, privado, social y la población en general, o por cualquier otro medio, a efecto de dar estricto cumplimiento a lo previsto en esta Ley y los Reglamentos que de ella deriven.
@@ -119,7 +135,9 @@ III. La Secretaría de Gobierno, a través de la Comisión Estatal de Seguridad 
 
 IV. La Secretaría de Salud;
 
-V. La Secretaría de Cultura;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. La Secretaría de Turismo y Cultura;
 
 VI. La Fiscalía General del Estado de Morelos;
 
@@ -129,9 +147,17 @@ VIII. El Sistema Estatal y Municipales para el Desarrollo Integral de la Familia
 
 IX. El Instituto de la Educación Básica del Estado de Morelos (IEBEM);
 
-X. El Instituto del Deporte y Cultura Física; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Los Ayuntamientos.
+X. El Instituto del Deporte y la Cultura Física;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Los Ayuntamientos, y;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XII. El Instituto de la Mujer para el Estado de Morelos.
 
 ###### ARTÍCULO 6.
 
@@ -149,7 +175,9 @@ Corresponde a la Secretaría de Educación las siguientes atribuciones:
 
 I. Proponer al titular del Ejecutivo Estatal la celebración de convenios de colaboración con los ayuntamientos a fin de cumplir los propósitos de la presente Ley;
 
-II. Celebrar convenios de colaboración con organizaciones civiles debidamente registradas, para canalizara (sic) los receptores, generadores y partícipes de violencia escolar, a tratamientos de atención psicológica, médica y jurídica;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Canalizar a la autoridad competente, a las probables víctimas de algún hecho presuntamente delictivo dentro de la comunidad escolar para su atención oportuna, mediante los medios que considere idóneos y eficientes. En el caso de personas menores de edad, deberá tener acompañamiento de sus padres, madres, tutores o personas cuidadoras;
 
 III. Diseñar el contenido del Programa Estatal para la Convivencia y Seguridad de la Comunidad Escolar, previa discusión del Consejo Estatal y aprobación del Gobernador del Estado;
 
@@ -163,13 +191,27 @@ VII. Formular y desarrollar programas y realizar las acciones que le competan en
 
 VIII. Motivar y facilitar la organización de los miembros de la comunidad escolar en los diversos niveles educativos para el cumplimiento del objeto de esta ley, estimulando su participación en el rescate de valores y ataque a las causas que generan violencia e inseguridad escolar;
 
-IX. Proponer que se incluya en el Programa Estatal para la Convivencia y Seguridad de la Comunidad Escolar, protocolos de seguridad escolar, con la información de cómo se debe actuar en casos de accidente o lesión en la escuela, incendio, fuga o derrame de materiales peligrosos, amenaza de bomba, disturbio o despliegue de fuerzas de seguridad y contingencia meteorológica;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Proponer la inclusión en el Programa Estatal para la Convivencia y Seguridad de la Comunidad Escolar, protocolos de seguridad escolar, con la información de cómo se debe actuar en casos de accidente o lesión en la escuela, casos de violencia en la comunidad escolar, incendio, fuga o derrame de materiales peligrosos, amenaza de bomba, disturbio o despliegue de fuerzas de seguridad y contingencia meteorológica;
 
 X. Vigilar que en la toma de decisiones, en la materia de esta Ley, las autoridades o instancias respectivas consideren las necesidades específicas para cada una de las regiones del Estado;
 
-XI. Establecer en su página de internet, en diversos espacios virtuales y oficiales, información dirigida a los integrantes de la comunidad escolar, sobre los efectos adversos de la violencia escolar, la manera de identificarla y prevenirla, así como las dependencias públicas donde se preste atención; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XII. Las demás atribuciones que esta ley y otras disposiciones legales le encomienden.
+XI. Establecer en su página de internet, en diversos espacios virtuales y oficiales, información dirigida a los integrantes de la comunidad escolar, sobre los efectos adversos de la violencia escolar, la manera de identificarla y prevenirla, privilegiando la resolución pacífica de conflictos, así como las dependencias públicas donde se preste atención;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Elaborar y remitir a la Secretaría de Hacienda, el programa presupuestario anual para ser incluido en el Presupuesto de Egresos del Estado para garantizar la aplicación del Programa, así como las diversas acciones contempladas en la Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Celebrar convenios de colaboración con organizaciones de la sociedad civil acreditadas, para coadyuvar con la atención de personas receptoras, generadoras y partícipes de violencia escolar, para su canalización hacia tratamientos médicos, psicológicos y de acompañamiento jurídico, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Las demás atribuciones que esta ley y otras disposiciones legales le encomienden.
 
 ###### ARTÍCULO 8.
 
@@ -187,13 +229,23 @@ V. Auxiliar a las autoridades educativas y locales en el cumplimiento de la pres
 
 VI. Celebrar acuerdos de colaboración con los ayuntamientos de la Entidad a fin de cumplir el objetivo de la presente Ley;
 
-VII. Aplicar los programas de prevención para el mejor cumplimiento del objeto de esta Ley, así como apoyar y asesorar a las brigadas escolares;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Aplicar los programas de prevención para el mejor cumplimiento del objeto de esta Ley, con acciones diferenciadas para atender las necesidades particulares y garantizar la seguridad de alumnos, estudiantes, docentes, personal administrativo y otras personas que integren las comunidades educativas, así como apoyar y asesorar a las brigadas escolares;
 
 VIII. Formular, desarrollar programas y realizar las acciones que le competen, en materia de seguridad de la comunidad escolar, coordinándose, en su caso, con las demás dependencias y entidades del Ejecutivo Estatal, según sus respectivas esferas de competencia, con los municipios de la Entidad y con la sociedad;
 
-IX. Auxiliar en las revisiones a que se refiere el artículo 35 de esta Ley; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-X. Las que conforme a este ordenamiento y otras disposiciones aplicables que le correspondan.
+IX. Establecer estrategias de atención inmediata en los planteles educativos, en comunicación con docentes, directivos, personal administrativo y otras personas que integran la comunidad educativa para la atención de emergencias médicas, en seguridad, protección civil y orientación en servicios institucionales;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+X. Auxiliar en las revisiones a que se refiere el artículo 35 de esta Ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Las que conforme a este ordenamiento y otras disposiciones aplicables que le correspondan.
 
 ###### ARTÍCULO 9.
 
@@ -211,19 +263,35 @@ V. Implementar talleres y cursos dirigidos a los generadores de violencia escola
 
 VI. Aplicar las demás disposiciones que deriven de la Ley General de Salud, de la Ley de Salud y de la Ley (sic) Salud Mental, ambas del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 10.
 
-Corresponde a la Secretaría de Cultura las siguientes atribuciones:
+Corresponde a la Secretaría de Turismo y Cultura las siguientes atribuciones:
 
 I. Celebrar convenios de colaboración con las instancias competentes, para efecto de promover visitas para las y los alumnos de los distintos niveles educativos, a lugares de recreación, que forman parte de nuestro patrimonio cultural estatal y nacional;
 
-II. Difundir en los planteles educativos la riqueza y diversidad cultural de nuestro Estado, en el que se promueva el reconocimiento y respeto de las tradiciones, usos y costumbres de las comunidades indígenas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-III. Fomentar y apoyar la enseñanza de alguna actividad artística en los planteles educativos, que presentan alta incidencia de marginación, pobreza e inseguridad;
+II. Difundir en los planteles educativos la riqueza y diversidad cultural de nuestro estado, en el que se promueva el reconocimiento y respeto de las manifestaciones culturales e identidades de las personas y comunidades indígenas y afrodescendientes;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. Fomentar y apoyar la enseñanza de alguna actividad artística en los planteles educativos, con énfasis en aquellos que presentan alta incidencia de marginación, pobreza, violencia e inseguridad;
 
 IV. Proyectar en los planteles educativos producciones cinematográficas de contenido cultural-histórico; y
 
-V. Las demás que señale la presente Ley, su Reglamento y las disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Promover la formación artística que impulse la creatividad, la cultura de paz y el libre desarrollo de la personalidad en planteles educativos, mediante convenios de colaboración celebrados con la Secretaría de Educación, la Universidad Autónoma del Estado de Morelos, el Instituto de la Educación Básica del Estado de Morelos y organizaciones de la sociedad civil acreditadas;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Implementar programas de apoyo y atención a personas receptoras, generadoras y partícipes de la violencia escolar a fin de promover la cultura de paz mediante actividades artísticas y culturales, y;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Las demás que señale la presente Ley, su Reglamento y las disposiciones legales aplicables.
 
 ###### ARTÍCULO 11.
 
@@ -231,13 +299,17 @@ Corresponde a la Fiscalía General del Estado de Morelos las siguientes atribuci
 
 I. Colaborar en el ámbito de su competencia con autoridades correspondientes para atender los casos de violencia escolar;
 
-II. Instrumentar acciones de prevención social para la atención de la violencia escolar, dando prioridad a las zonas de alta incidencia delincuencial;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Instrumentar acciones de prevención social para la atención de la violencia escolar, que contemple a las diversas personas que integran una comunidad educativa, dando prioridad a las zonas de alta incidencia delincuencial;
 
 III. Planear, desarrollar y difundir conjuntamente con el Consejo Estatal, la campaña de información y prevención de la violencia escolar, desde el ámbito familiar para promover una convivencia de cultura para la paz;
 
 IV. Crear unidades especializadas para la atención de los integrantes de la comunidad escolar, que sean víctimas de violencia escolar;
 
-V. Cuando se esté ante un hecho que puede presumirse delictivo, se registrará el mismo a efecto de dar seguimiento a los casos de violencia escolar, desde la integración de la carpeta de investigación hasta la ejecución de sentencia, incluyendo el procedimiento respectivo para la reparación del daño, observando la mayor protección de la identidad y datos personales conforme a la legislación de la materia; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Cuando se esté ante un hecho que puede presumirse delictivo, se registrará el mismo a efecto de dar seguimiento a los casos de violencia escolar, desde la integración de la carpeta de investigación hasta la ejecución de sentencia, incluyendo el procedimiento respectivo para la reparación del daño y el acompañamiento jurídico de las presuntas víctimas, observando la mayor protección de la identidad y datos personales conforme a la legislación de la materia, y;
 
 VI. Las demás que señale la presente Ley, su Reglamento y las disposiciones legales aplicables.
 
@@ -279,13 +351,33 @@ III. Concentrar el registro de las brigadas escolares de los planteles educativo
 
 IV. Coordinar la aplicación del Programa Estatal para la Convivencia y Seguridad de la Comunidad Escolar, en las escuelas de educación básica, para el mejor cumplimiento del objeto de esta ley, mediante las brigadas escolares;
 
-V. Formular y desarrollar las acciones que le competen en materia de seguridad de la comunidad escolar, coordinándose, en su caso, con las demás dependencias de la administración estatal, según sus respectivas esferas de competencia, con los municipios de la Entidad y con la sociedad en general;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Promover la realización de diferentes cursos de capacitación y actualización, dirigido a los integrantes de la comunidad escolar, a fin de procurar la convivencia y seguridad en cada una de las escuelas de educación básica;
+V. Formular y desarrollar las acciones que le competen en materia de cultura de paz y seguridad de la comunidad escolar, coordinándose, en su caso, con las demás dependencias de la administración estatal, según sus respectivas esferas de competencia, con los municipios de la Entidad y con la sociedad en general;
 
-VII. Promover cursos de capacitación en materia de prevención del delito, dirigidos a los integrantes de la comunidad escolar; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Las demás que esta ley y otras disposiciones legales le encomienden.
+VI. Promover la realización de diferentes cursos de capacitación y actualización, dirigido a los integrantes de la comunidad escolar, a fin de procurar la convivencia pacífica y seguridad en cada una de las escuelas de educación básica;
+
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES IDÉNTICO AL CONTENIDO DE LA FRACCIÓN VI ANTERIOR, VÉASE PUBLICACION OFICIAL P.O. 4 DE SEPTIEMBRE DE 2024, PÁGINA 88.]</small>
+
+VI. Promover la realización de diferentes cursos de capacitación y actualización, dirigido a los integrantes de la comunidad escolar, a fin de procurar la convivencia pacífica y seguridad en cada una de las escuelas de educación básica; (sic)
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Promover cursos de capacitación en materia de prevención de la violencia, del delito, la resolución pacífica de los conflictos y la justicia restaurativa dirigidos a los integrantes de la comunidad escolar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Canalizar a las personas generadoras, receptoras y partícipes de la violencia escolar a las instancias correspondientes para su atención oportuna, de conformidad con lo establecido en la Ley;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Establecer estrategias, programas, planes y lineamientos de manera coordinada con la Secretaría de Educación, la comunidad estudiantil y la Comisión Estatal de Seguridad Pública para la seguridad de la comunidad escolar haciendo uso de herramientas digitales y botones de pánico, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+X. Las demás que esta ley y otras disposiciones legales le encomienden.
 
 ###### ARTÍCULO 15.
 
@@ -293,13 +385,21 @@ Corresponde al Instituto del Deporte y Cultura Física las siguientes atribucion
 
 I. Fomentar el deporte y la cultura física en cada plantel educativo;
 
-II. Presentar a la Secretaría de Educación, propuestas de fomento y práctica del deporte en sus distintas modalidades, para efecto de que sean consideradas en el Programa Estatal;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Presentar a la Secretaría de Educación, propuestas de fomento y práctica del deporte en sus distintas modalidades, que propicien la inclusión social, la igualdad y la no discriminación, para efecto de que sean consideradas en el Programa Estatal;
 
 III. Coordinar acciones con los municipios, para promover el deporte y la actividad física de manera gratuita;
 
 IV. Promover el rescate de espacios públicos en los municipios, para que los integrantes de la comunidad escolar, convivan a través del deporte y la actividad física; y
 
-V. Las demás que esta ley y otras disposiciones legales le encomienden.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Promover el deporte y la actividad física que impulsen la cultura de paz, la inteligencia emocional, el manejo del estrés y la inclusión social;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Las demás que esta ley y otras disposiciones legales le encomienden.
 
 ###### ARTÍCULO 16.
 
@@ -323,11 +423,17 @@ V (SIC). Las demás que deriven de esta ley y de otras disposiciones aplicables.
 
 Son auxiliares en materia de seguridad de la comunidad escolar:
 
-I. En nivel básico: Los directores, supervisores, jefes de sector, y demás personal docente, administrativo y auxiliar de los planteles educativos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. En nivel medio superior: Los directores generales de los subsistemas, los directores de cada uno de los planteles educativos y demás personal docente, administrativo y auxiliar;
+I. En nivel básico: Las direcciones, supervisiones, jefaturas de sector, y demás personal docente, administrativo y auxiliar de los planteles educativos;
 
-III. En nivel superior: Los rectores, directivos, docentes, administrativos y personal auxiliar;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. En nivel medio superior: Las direcciones generales de los subsistemas, las direcciones de cada uno de los planteles educativos y demás personal docente, administrativo y auxiliar;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. En nivel superior: Las rectorías, direcciones, personal docente, administrativo y auxiliar, así como las representaciones estudiantiles;
 
 IV. El Consejo Estatal de Participación Social en la Educación;
 
@@ -335,27 +441,47 @@ V. El Consejo Municipal de Participación Social en la Educación;
 
 VI. El Consejo Escolar de Participación Social en la Educación;
 
-VII. Los padres y madres de familia o tutores, a través de las asociaciones de padres de familia; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Las brigadas escolares.
+VII. Los padres, madres de familia, personas cuidadoras o tutores, a través de las asociaciones de padres de familia;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Las organizaciones de alumnos o estudiantes; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Las brigadas escolares.
 
 ###### ARTÍCULO 18.
 
 Corresponde a los directivos de las escuelas de los distintos niveles educativos las siguientes facultades:
 
-I. Propiciar el respeto a la dignidad y el compañerismo entre la comunidad escolar;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. Promover el respeto a la propiedad pública y privada;
+I. Propiciar el respeto a la dignidad, la integridad de las personas y el compañerismo entre la comunidad escolar;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Promover el respeto a la propiedad pública y privada, individual y colectiva;
 
 III. Implementar en el plantel educativo el Programa Estatal para la Convivencia y Seguridad de la Comunidad Escolar;
 
-IV. Promover un curso informativo para docentes, personal administrativo y auxiliar, para la detección y atención de casos de violencia escolar; así como la responsabilidad administrativa y/o penal a la que son sujetos en caso de ser ellos las y los generadores y partícipes de violencia;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-V. Proponer a la autoridad competente, los programas de formación e información que refieran:
+IV. Promover cursos de sensibilización y capacitación para docentes, personal directivo, administrativo y auxiliar, para la detección, atención y reparación de casos de violencia escolar; así como la resolución pacífica de conflictos, la cultura de paz, la violencia contra las mujeres, la responsabilidad administrativa y penal a la que son sujetos en caso de ser las y los generadores y partícipes de violencia, ya sea por acción u omisión;
 
-a) Sobre prevención de adicciones;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-b) Educación sexual;
+V. Proponer a la autoridad competente, los programas de formación, sensibilización y capacitación que refieran a la:
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+a) Prevención de adicciones y gestión de riesgos;
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+b) Educación sexual integral;
 
 c) Prevención de abuso sexual;
 
@@ -369,6 +495,18 @@ g) La protección civil en el edificio escolar, y
 
 h) El control de la salud en los alumnos y maestros en el edificio escolar.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+i) Resolución pacífica y la transformación positiva del conflicto;
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+j) Inteligencia emocional; y
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+k) Prevención del suicidio.
+
 VI. Promover el consumo de alimentos nutritivos;
 
 VII. Promover el respeto al entorno, al medio ambiente y a los animales;
@@ -379,17 +517,29 @@ IX. Denunciar ante la autoridad competente conductas de acoso o violencia escola
 
 X. Solicitar el apoyo a la autoridad local en los casos de violencia escolar, que así lo ameriten;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Notificar por escrito a los Sistemas para el Desarrollo Integral de la Familia o a la Secretaría de Salud, las situaciones en que la víctima del acoso o violencia escolar, requiera de atención en el aspecto psicológico, médico y jurídico;
+XI. Notificar por escrito a los Sistemas para el Desarrollo Integral de la Familia, a la Secretaría de Salud, la Fiscalía General del Estado de Morelos y, en su caso, al Instituto de la Mujer para el Estado de Morelos y a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, las situaciones en que la víctima del acoso o violencia escolar, requiera de atención en el aspecto psicológico, médico y jurídico;
 
-XII. Aplicar las medidas disciplinarias y correctivas a las que serán sujetos los generadores de violencia escolar;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Aplicar las medidas disciplinarias y correctivas a las que serán sujetos los generadores de violencia escolar, así como aquellas tendientes a la resolución pacífica del conflicto, la cultura de paz y la reparación del daño;
 
 XIII. Cuando el autor de acoso o violencia escolar sea un docente, administrativo o auxiliar, se hará del conocimiento de la autoridad superior jerárquica, para que atendiendo a la normatividad aplicable, lo remita al proceso sancionatorio correspondiente;
 
 XIV. Denunciar al docente, administrativo o auxiliar, generador de acoso o violencia escolar, que incurra en hechos que constituyan actos delictivos, para efecto de que el asunto sea tramitado por la vía administrativa o penal; y
 
-XV. La (sic) demás que prevea esta Ley o su Reglamento.
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Realizar acciones y estrategias para prevenir, atender, sancionar, reparar y erradicar la violencia contra las mujeres, niñas, y adolescentes, el acoso y la violencia en la comunidad escolar;
+
+(REFORMADA Y REUBICADA), P.O. 4 DE SEPTIEMBRE DE 2024)
+
+XVI. Las demás que prevea esta Ley o su Reglamento.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Para el desarrollo de sus facultades, las direcciones de las escuelas podrán solicitar a la Secretaría de Educación la implementación de programas de formación y estrategias informativas, de acuerdo con la disponibilidad presupuestal.
 
 ###### ARTÍCULO 19.
 
@@ -407,25 +557,39 @@ V. Coordinarse permanentemente con los cuerpos de seguridad pública y la comuni
 
 VI. Las demás que deriven de la presente ley, así como de las leyes supletorias aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-Los padres y madres de familia o tutores, a través de las asociaciones de padres de familia y atendiendo al nivel educativo que corresponda, coadyuvarán con la autoridad educativa y escolar en materia de convivencia y seguridad de la comunidad escolar, con las siguientes acciones:
+Los padres, madres de familia, tutores, o personas cuidadoras, preferentemente a través de las asociaciones de padres de familia y atendiendo al nivel educativo que corresponda, coadyuvarán con la autoridad educativa y escolar en materia de convivencia y seguridad de la comunidad escolar, con las siguientes acciones:
 
 I. Responsabilizarse del proceso de formación y educativo de sus hijos o pupilos;
 
 II. Asistir al Programa de Escuela de Padres y Tutores, y/o a los cursos de orientación y/o actualización;
 
-III. Crear en el ámbito familiar, un ambiente de respeto y disciplina, que eduque con valores a las y los niños y jóvenes morelenses, a fin de fomentar la cultura para la paz;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Garantizar un ambiente libre de violencia, sin maltrato físico, emocional o psicológico, a través de una sana convivencia;
+III. Crear en el ámbito familiar, un ambiente de respeto a la integridad y dignidad de todas las personas, con disciplina y que eduque con principios y valores de inclusión, igualdad, autonomía progresiva, resolución pacífica de conflictos y tolerancia a las y los niños y adolescentes morelenses, a fin de fomentar la cultura para la paz;
 
-V. Detectar comportamientos o señales de los que sus hijos o pupilos, son víctimas de violencia escolar, dando parte a la autoridad competente, para que se realicen los tramites respectivos para la atención integral del caso;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Cuando sus hijos o pupilos sean generadores de violencia, solicitará al director de la escuela la atención respectiva, a efecto de remitirlo a la instancia competente para que reciba la atención psicológica adecuada;
+IV. Garantizar un ambiente libre de violencia verbal, física, psicológica, sexual, cibernética, patrimonial, económica y social, a través de una sana convivencia;
 
-VII. Enseñar a sus hijos o pupilos actitudes de solución de conflictos de manera pacífica, tanto al interior como al exterior del plantel educativo, promoviendo el respeto por todos los integrantes de la comunidad escolar;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Observar que los directivos, docentes, administrativos y de apoyo, adopten medidas de disciplina y organización que no estén basadas en el miedo, las amenazas, las humillaciones, el acoso o la fuerza física;
+V. Detectar comportamientos o señales que sugieran o indiquen que sus hijas, hijos o pupilos, son víctimas de violencia en la comunidad escolar, dando parte a la autoridad competente, para que se realicen los trámites respectivos para la atención integral del caso;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Cuando sus hijos, hijas o pupilos sean generadores de violencia, solicitará a la dirección de la escuela la atención respectiva, a efecto de remitirlo a la instancia competente para que reciba la atención psicológica adecuada, así como la implementación de medidas reparatorias paras (sic) las personas receptoras;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Enseñar a sus hijos, hijas o pupilos actitudes de solución de conflictos de manera pacífica, tanto al interior como al exterior del plantel educativo, promoviendo el respeto por todos los integrantes de la comunidad escolar y la reparación integral;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Observar que el personal directivo, docente, administrativo y de apoyo, adopte medidas de disciplina y organización, de alertar o denunciar, privilegiando la resolución pacífica del conflicto que estén apegadas a los derechos humanos y no estén basadas en el miedo, las amenazas, las humillaciones, el acoso o la fuerza física;
 
 IX. Participaren (sic) la aplicación del Programa Estatal;
 
@@ -433,7 +597,9 @@ X. Supervisar el uso y los contenidos que sus hijos o pupilos hacen del internet
 
 XI. Supervisar y reducir gradualmente hasta su eliminación, programas televisivos con escenas que contengan imágenes sexuales, agresiones físicas y verbales; y uso de videojuegos con contenido violento; y juguetes bélicos;
 
-XII. Reportar supletoriamente ante la autoridad inmediata superior y ante la Secretaría, los actos de violencia de cualquier integrantes (sic) de la comunidad escolar, cuando a su juicio, los directivos de la institución educativa sean omisos en atender la denuncia;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Reportar supletoriamente ante la autoridad inmediata superior y ante la Secretaría, los actos de violencia de cualquier integrante de la comunidad escolar, cuando a su juicio, la dirección de la institución educativa sea omisa en atender la denuncia o las acciones que haya implementado resulten insuficientes;
 
 XIII. Revisar periódicamente la mochila escolar de sus hijos o pupilos, a efecto de detectar sustancias o armas de cualquier tipo; y
 
@@ -451,9 +617,17 @@ II. Un representante del IEBEM, que será el supervisor de la zona, o representa
 
 III. Un representante de la Comisión Estatal de Seguridad Pública;
 
-IV. Un docente de la escuela que será elegido por las y los docentes del plantel educativo; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-V. Un representante de la asociación de padres de familia de la escuela.
+IV. Un docente de la escuela que será elegido por las y los docentes del plantel educativo;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Un representante de la asociación de padres de familia de la escuela, en el caso de nivel de educación básica; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Una persona representante de las y los estudiantes, en el caso de educación media superior y superior, misma que debe ser electa por la comunidad estudiantil mediante el procedimiento que señale el plantel educativo.
 
 ###### ARTÍCULO 22.
 
@@ -477,7 +651,9 @@ Las actividades que lleven a cabo las brigadas, que involucren acciones específ
 
 Corresponde a las brigadas escolares:
 
-I. Diseñar y proponer al Consejo Escolar, las medidas preventivas que propicien un entorno escolar sano y confiable para la educación; dichas propuestas serán remitidas a la Secretaría de Educación, para que sean consideradas en el Programa Estatal;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+I. Diseñar y proponer al Consejo Escolar, las medidas preventivas que propicien un entorno escolar sano y confiable para la educación, mismas que deben estar sujetas a la promoción y respeto de los derechos humanos; dichas propuestas serán remitidas a la Secretaría de Educación, para que sean consideradas en el Programa Estatal;
 
 II. Coadyuvar en la aplicación del Programa Estatal para la Convivencia y Seguridad de la Comunidad Escolar;
 
@@ -489,7 +665,9 @@ V. Constituirse en vínculos efectivos de coordinación entre las autoridades es
 
 VI. Gestionar ante quien corresponda los recursos para cubrir las necesidades que en materia de protección civil requiera el plantel educativo;
 
-VII. Canalizara (sic) las instituciones de los sectores público, privado o social, a través del director del plantel educativo a los estudiantes que requieran algún tratamiento específico;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Canalizar a las instituciones de los sectores público, privado o social, a través del director del plantel educativo a los estudiantes que requieran algún tratamiento específico, con especial atención a las personas receptoras y generadoras de violencia;
 
 VIII. Proponer y revisar las acciones en materia de convivencia y seguridad de la comunidad escolar;
 
@@ -499,15 +677,25 @@ X. Gestionar ante la Secretaría de Salud la promoción de cursos y talleres enc
 
 XI. Promover la orientación por parte de la autoridad en materia de Protección Civil Municipal o Estatal en los casos de desastres y/o contingencias naturales;
 
-XII. Extender reconocimientos a los miembros de la comunidad escolar que se distingan por su valor cívico y participación social en bien de las labores preventivas de seguridad de la comunidad escolar, así como a sus propios miembros;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Gestionar ante la autoridad municipal respectiva, en coordinación con el director de la escuela y con la asociación de padres de familia de cada plantel, la instalación de alumbrado y vigilancia de elementos de seguridad pública, en el perímetro del plantel;
+XII. Extender reconocimientos a las y los integrantes de la comunidad escolar que se distingan por su valor cívico y participación social en favor de cultura de paz y las labores preventivas de seguridad de la comunidad escolar;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Gestionar ante la autoridad municipal respectiva, en coordinación con la dirección de la escuela, la instalación de alumbrado y vigilancia de elementos de seguridad pública, la facilitación de canales de comunicación de emergencia, entre otras condiciones particulares y de acuerdo con la suficiencia presupuestal en el perímetro del plantel;
 
 XIV. Solicitar al director de la escuela, que la autoridad municipal con apego a las disposiciones aplicables, la destrucción de tapias, bardas e inmuebles en general que, por su estado y condiciones físicas, sean susceptibles de ser usados para actividades ilícitas en riesgo de la comunidad escolar;
 
 XV. Promover y difundir entre los vecinos del plantel, las actividades y capacitaciones de la brigada; y
 
-XVI. Las demás que conforme a esta Ley y sus reglamentos le correspondan.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Cuando algún integrante de la Brigada incumpla con sus responsabilidades, por negligencia o maliciosamente, podrá ser removido en términos de lo establecido en el artículo 27 de la presente Ley. En el caso de los directivos, docentes, personal administrativo o de apoyo que, por negligencia o maliciosamente, incumplan con las funciones establecidas en este artículo, podrán ser objeto de sanciones administrativas, penales y civiles establecidas en la normatividad correspondiente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Las demás que conforme a esta Ley y sus reglamentos le correspondan.
 
 ###### ARTÍCULO 27.
 
@@ -515,7 +703,9 @@ Para la integración y funcionamiento de la brigada, se sujetarán a las siguien
 
 I. El registro de la brigada lo realizará el director del plantel educativo de que se trate, y será responsable del funcionamiento y desarrollo de los planes de trabajo de la brigada ante la comunidad y ante la autoridad competente;
 
-II. Los miembros de la brigada podrán ser sustituidos, debiéndose comunicar por el director del plantel o la autoridad educativa que corresponda, dentro de los diez días hábiles siguientes a partir de que ocurra;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Las y los integrantes de la brigada podrán ser sustituidos, debiéndose comunicar por el director del plantel o la autoridad educativa que corresponda, dentro de los diez días hábiles siguientes a partir de que ocurra la solicitud, ya sea por incumplimiento de sus funciones o a solicitud del integrante en cuestión;
 
 III. Las determinaciones de la brigada se adoptarán por mayoría de votos de sus miembros;
 
@@ -539,47 +729,89 @@ IV. Las demás que sean necesarias para el cumplimiento de sus objetivos.
 
 ### CAPÍTULO I. DE LA SEGURIDAD DE LA COMUNIDAD ESCOLAR
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 29.
 
-Es obligación de los miembros de la comunidad educativa reportar o hacer del conocimiento de la brigada o de la autoridad escolar, cualquier situación anormal que detecten y consideren que pone o puede poner en riesgo la seguridad de la comunidad escolar.
+Es obligación de quienes integran una comunidad educativa reportar o hacer del conocimiento de la brigada o de la autoridad escolar, cualquier situación que detecten y consideren que pone o puede poner en riesgo la seguridad de la comunidad escolar.
+
+En el caso de los directivos, docentes, personal administrativo o de apoyo, el incumplimiento de esta obligación podrán ser objeto de sanciones administrativas, penales y civiles establecidas en la normatividad correspondiente.
 
 ###### ARTÍCULO 30.
 
 Las modalidades a través del cual se ejerce violencia escolar son las siguientes:
 
-I. Físico: Cuando hay una agresión o daño físico a un estudiante, o a su propiedad;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+I. Física: Cualquier acto intencional que cause daño, ya sea mediante el uso de la fuerza física o con algún objeto o sustancia, que cause o pueda causar lesiones a un alumno o estudiante;
 
 II. Verbal: Cuando hay un daño emocional a un estudiante mediante insultos, menosprecio y burlas en público o privado;
 
-III. Escrito: Cuando a través de un mensaje, grafiti o imagen se cause alguna afectación;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Psicológico: Cuando existe persecución, sometimiento, tiranía, intimidación, hostigamiento, chantaje, manipulación o amenaza contra un estudiante, incluidas las gesticulaciones y obscenidades mediante señas, miradas o expresiones corporales que lastimen su dignidad y autoestima;
+III. Patrimonial: Cualquier acto u omisión que afecta el patrimonio de un o una estudiante, que puede suceder mediante la sustracción, destrucción total o parcial de bienes y la retención de documentos personales de manera injustificada;
 
-V. Cibernético: El que se realiza mediante el uso de cualquier medio electrónico como internet, páginas web, redes sociales, blogs, correos electrónicos, mensajes, imágenes o videos por teléfono celular, computadoras, videograbaciones u otras tecnologías digitales;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Sexual: Toda aquella discriminación y violencia contra otro alumno relacionada con su sexualidad, así como el envío de mensajes, imágenes o videos con contenidos eróticos o pornográficos por medio de tecnologías digitales que denoten obscenidad, tocamientos, hostigamiento, acoso o abuso de orden sexual, y
+IV. Psicológica: Cuando existe persecución, sometimiento, tiranía, intimidación, hostigamiento, chantaje, manipulación, amenaza, negligencia, anulación, restricción injustificada, celotipia o coacción contra un o una estudiante, incluidas las gesticulaciones y obscenidades mediante señas, miradas, expresiones corporales, mensajes escritos, grafitis, imágenes, insultos o burlas que lastimen su dignidad y autoestima;
 
-VII. Exclusión social: Cuando el estudiante víctima es notoriamente excluido y aislado, o amenazado con serlo, de la convivencia escolar por razones de discriminación de cualquier tipo.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Cibernética: Es cualquier acto que se realiza mediante el uso de algún medio electrónico como internet, páginas web, redes sociales, blogs, correos electrónicos, mensajes, imágenes, audios o videos por teléfono celular, computadoras, videograbaciones u otras tecnologías digitales, que dañen la integridad, dignidad, intimidad, libertad, vida privada o cause daño moral de un alumno o estudiante;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Sexual: Todo acto contra (sic) daña o degrada el cuerpo o la sexualidad de un o una estudiante y, por tanto, atenta contra su libertad, dignidad e integridad, la cual puede ocurrir mediante actos como tocamientos, miradas lascivas, abuso sexual, acoso u hostigamiento sexual, violación, así como el envío de mensajes, imágenes, audios o videos con contenidos eróticos o pornográficos por medio de tecnologías digitales que denoten obscenidad;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Exclusión social: Cuando el estudiante víctima, es notoriamente excluido y aislado, o amenazado con serlo, de la convivencia escolar por razones de discriminación de cualquier tipo, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Económica: Es toda acción u omisión encaminadas a controlar, dañar, retener, sustraer o limitar los recursos, bienes o valores de un alumno o estudiante, generando una afectación económica de manera injustificada.
 
 Para que exista violencia escolar se requiere que se presente alguna de las siguientes condiciones:
 
-a) Se trate de una acción agresiva e intencional;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-b) Se produzca la agresión dada por un mismo victimario aunque se trate de distintas víctimas; para el caso del acoso previsto en las fracciones IV y V del artículo que antecede, así como cuando se trate del maltrato físico manifestado mediante golpes o lesiones, bastará con que se presenten una sola vez para que se tenga como presumible el acoso; y
+a) Se trate de una acción directa, agresiva e intencional;
 
-c) Provoque en la víctima daño emocional o físico.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+b) La agresión dada se produzca por un mismo victimario, aunque se trate de distintas víctimas;
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+c) Provoque en la víctima daño en su integridad emocional, física o sexual;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+d) Las agresiones se dirijan a una misma víctima, aunque se trate de distintos victimarios, y;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+e) La agresión sea cometida por algún integrante de la comunidad educativa contra un alumno o estudiante.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 31.
 
-Es obligación de los miembros de la comunidad educativa reportar o hacer del conocimiento de la brigada o de la autoridad escolar, cualquier situación que consideren que puede poner en riesgo la seguridad de la comunidad escolar.
+Es obligación de quienes integran una comunidad educativa denunciar o hacer del conocimiento de la brigada, de la autoridad escolar u otra autoridad competente, cualquier situación que sea un posible acto de violencia o que ponga en riesgo la seguridad e integridad de los integrantes de la comunidad escolar, con especial atención a la violencia que se ejerce contra las niñas, adolescentes y mujeres en las instancias educativas.
+
+En el caso de los directivos, docentes, personal administrativo o de apoyo, ante el incumplimiento de esta obligación, podrán ser objeto de sanciones administrativas, penales y civiles establecidas en la normatividad aplicable.
 
 ###### ARTÍCULO 32.
 
 Los miembros de la comunidad escolar, en los casos en que detecten deterioro del inmueble o las instalaciones de la escuela y que ponga en riesgo o en peligro la salud o integridad física de los miembros de la misma comunidad, lo harán del conocimiento del director del plantel y del comité de protección civil escolar.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 33.
 
-Los directivos de los planteles educativos deberán realizar las denuncias correspondientes ante la autoridad competente, cuando se cometan acciones presuntamente delictivas, al interior de la escuela, solicitando el apoyo de la autoridad local para supervisar el perímetro escolar, cuando los delitos atenten contra la seguridad de la comunidad escolar. El perímetro escolar se considera las vialidades que circulan el plantel educativo.
+La dirección de los planteles educativos deberán realizar las denuncias correspondientes ante la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, la Fiscalía General del Estado de Morelos, la Comisión Estatal de Seguridad o alguna otra autoridad competente, cuando se cometan acciones presuntamente delictivas, al interior de la escuela, solicitando el apoyo de la autoridad estatal o municipal para supervisar el perímetro escolar, cuando dichas acciones atenten contra la seguridad de la comunidad escolar. El perímetro escolar se considera las vialidades que circulan el plantel educativo, mismo que debe tener la atención prioritaria.
+
+El personal docente, auxiliar o de apoyo en los planteles, o cualquier integrante de la comunidad escolar que tenga conocimiento de los hechos también podrá realizar las denuncias que correspondan.
 
 ###### ARTÍCULO 34.
 
@@ -601,29 +833,47 @@ El comité de protección civil escolar en coordinación con la autoridad de Pro
 
 De igual manera promoverá cursos de capacitación permanente en primeros auxilios.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 38.
 
-El comité de protección civil escolar en coordinación con la autoridad de protección civil que corresponda y atendiendo a las características de ubicación del plantel, elaborará un programa específico para traslados urgentes en casos de accidentes; así como un directorio de hospitales, clínicas y ambulancias cercanas al mismo.
+El comité de protección civil escolar en coordinación con la autoridad de Protección Civil que corresponda y atendiendo a las características de ubicación del plantel, elaborará un programa específico para traslados urgentes en casos de accidentes, urgencias médicas, incluyendo aquellas que sean resultado de la violencia; así como un directorio de hospitales, clínicas, ambulancias y ministerios públicos cercanos al mismo.
 
 ### CAPÍTULO II. DEL PROGRAMA ESTATAL PARA LACONVIVENCIA (SIC) Y SEGURIDAD DE LA COMUNIDAD ESCOLAR
 
-###### ARTÍCULO 39.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Los objetivos del Programa Estatal para la Convivencia y Seguridad de la Comunidad Escolar, serán:
+###### Artículo 39.
+
+Los objetivos del Programa Estatal para la Convivencia Pacífica y Seguridad de la Comunidad Escolar, serán:
 
 I. Establecer las acciones de coordinación que las autoridades estatales, deben realizar en el ámbito de sus respectivas competencias, para garantizar la convivencia y seguridad de la comunidad escolar;
 
 II. Detectar y evitar el consumo de drogas, alcohol y tabaco en el interior de los planteles educativos;
 
-III. Detectar la incidencia delictiva que se dé en los diferentes planteles y su entorno, e identificar a los responsables de estos hechos o delitos, para implementar el seguimiento, tratamiento y las medidas que se llevarán a cabo, con la finalidad de brindar seguridad a la comunidad escolar en general;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Analizar las diferentes situaciones que se pudiesen dar en cada escuela, para que basadas en éstas se planteen mecanismos y estrategias que reduzcan el riesgo de peligro y garanticen la seguridad de la comunidad escolar;
+III. Detectar la incidencia delictiva que se dé en los diferentes planteles y su entorno, e identificar a los responsables de estos hechos o delitos, para implementar el seguimiento, tratamiento y las medidas de prevención, atención, sanción y reparación que se llevarán a cabo, con la finalidad de brindar seguridad a la comunidad escolar en general;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Analizar las diferentes situaciones que se pudiesen dar en cada escuela, para que, basadas en éstas, se planteen mecanismos y estrategias que promuevan la convivencia pacífica, la resolución pacífica de conflictos, reduzcan el riesgo de peligro y garanticen la seguridad de la comunidad escolar;
 
 V. Crear conciencia en la sociedad y en la comunidad escolar sobre la necesidad de implementar medidas tendientes a la prevención, atención y denuncia de conductas ilícitas y consumo de sustancias nocivas para la salud dentro de los planteles educativos y su entorno; así como también las medidas sanitarias y alimenticias que garanticen el bienestar escolar;
 
 VI. Promover una cultura de colaboración, participación y solidaridad escolar, en donde impulsados por las diversas autoridades de gobierno en materia de seguridad pública y escolares, se logre que organismos empresariales, cámaras, asociaciones, organismos no gubernamentales, sindicatos, organizaciones culturales, líderes de opinión intelectuales, centros académicos, culturales y deportivos, que se involucren con la presente ley a través de la realización de conferencias, pláticas y foros para la prevención, detección y canalización oportuna de factores de riesgo de la comunidad escolar y en general organizar actividades escolares y extraescolares, tendientes a acrecentar un interés por el deporte, arte, cultura y recreación de la comunidad escolar; y
 
-VII. Involucrar al personal docente y administrativo de las escuelas, padres de familia, alumnos y vecinos de los planteles, para ejercitar y operar las acciones conducentes a fin de lograr un verdadero ambiente de convivencia y seguridad de la comunidad escolar.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Involucrar al personal docente, directivo, administrativo y de apoyo, madres, padres de familia, tutores o personas cuidadoras, alumnos, estudiantes, vecinas y vecinos de los planteles, para ejercitar y operar las acciones conducentes a fin de lograr un verdadero ambiente de convivencia pacífica y seguridad de la comunidad escolar;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Implementar estrategias y acciones para desarrollar y fortalecer las capacidades, aptitudes y herramientas de las y los estudiantes, personal docente, administrativo, directivo y de apoyo, así como de toda la comunidad educativa, para la resolución pacífica de conflictos, la transformación positiva del conflicto y la inteligencia emocional a fin de promover la convivencia pacífica; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Desarrollar conocimientos, capacidades, aptitudes, mediante acciones y estrategias, para prevenir, atender, denunciar, sancionar, reparar y eliminar la violencia contra las mujeres, así como otras formas de violencia que puedan suscitarse entre las y los integrantes de las comunidades educativas vinculadas a los roles y estereotipos de género.
 
 ### CAPÍTULO III. CONSEJO ESTATAL DE PARTICIPACIÓN SOCIAL EN LA EDUCACIÓN
 
@@ -870,3 +1120,19 @@ DÉCIMA. En un plazo no mayor de 90 días hábiles, contados a partir de la vige
 DÉCIMA PRIMERA. En un plazo no mayor de 90 días hábiles, la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Morelos deberá realizar las adecuaciones normativas al Estatuto Orgánico, mismas que deberán inscribirse en el Registro Público de Organismos Descentralizados.
 
 DÉCIMA SEGUNDA. El Sistema para el Desarrollo Integral de la Familia del estado de Morelos, la Fiscalía General del Estado de Morelos y demás Secretarías, Dependencias y Entidades, procederán a realizar los actos administrativos idóneos y necesarios, así como la entrega recepción correspondiente, a partir del siguiente día al que entre en vigor el presente Decreto, en caso de que se hubiere realizado la entrega – recepción que se establece en las disposiciones transitorias DÉCIMA PRIMERA, DÉCIMA SEGUNDA, DÉCIMA TERCERA, DÉCIMA CUARTA y DÉCIMA QUINTA del Decreto número Tres Mil Doscientos Cuarenta y Ocho, publicado en el Periódico Oficial “Tierra y Libertad” 5611.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL OCHOCIENTOS SETENTA.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL PARA LA CONVIVENCIA Y SEGURIDAD DE LA COMUNIDAD ESCOLAR Y LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, EN MATERIA DE VIOLENCIA ESCOLAR”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos de los artículos 44, 47 y 70 fracción XVII inciso b) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día 01 de enero de 2025.
+
+TERCERA. El Ejecutivo Estatal, en la elaboración del Presupuesto de Egresos del Ejercicio Fiscal correspondiente al año 2025, preverá la asignación de recursos para la implementación de la presente reforma.
+
+CUARTA. La Secretaría de Educación, así como el Instituto de Educación Básica del Estado de Morelos, contarán con un plazo de noventa días hábiles posteriores a la entrada en vigor del presente Decreto, para la expedición de los lineamientos o del reglamento para dar cumplimiento al presente Decreto.
+
+Así mismo, se deberá dar prioridad a las comunidades estudiantiles con mayores índices de violencia.
+
+QUINTA. Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente Decreto.
