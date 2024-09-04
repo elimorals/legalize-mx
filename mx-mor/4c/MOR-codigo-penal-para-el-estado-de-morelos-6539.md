@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2024-02-28"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -561,11 +561,13 @@ b) El titular o quien esté legitimado para consentir tenga la capacidad jurídi
 
 c) El consentimiento sea expreso o tácito y no medie algún vicio de la voluntad, o bien, que el hecho se realice en circunstancias tales que permitan presumir fundadamente que de haberse consultado al titular o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento;
 
-IV. Se repela una agresión real, actual o inminente y sin derecho en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad racional de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Se presume que existe legítima defensa, salvo prueba en contrario, en el caso de que se cause un daño racionalmente necesario a quien por cualquier medio trate de penetrar o penetre sin derecho al lugar donde habiten, aunque sea en forma temporal, el que se defiende o su familia, o cualquier persona a la que el inculpado tenga el deber de defender, o a las dependencias de ese lugar o al sitio en el que se encuentren bienes propios o ajenos respecto de los cuales tenga ese mismo deber.
+VI (sic). Se repela una agresión real, actual o inminente y sin derecho en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad racional de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte de la persona agredida o de su defensor.
 
-Igual presunción favorecerá al que cause un daño a otra persona en el momento de sorprenderla en alguno de los lugares antes citados, en circunstancias que revelen la posibilidad de una agresión;
+Se presume que existe legítima defensa, salvo prueba en contrario, en el caso de que se cause un daño, lesión o incluso privación de la vida, a quien a través de la violencia o por cualquier medio trate de penetrar o penetre sin derecho al lugar donde habiten, aunque sea en forma temporal o permanente, el que se defiende, a su familia o al de cualquier persona respecto de las que el agente tenga la obligación de defender, a sus dependencias de ese lugar o al sitio en el que se encuentren bienes propios o ajenos respecto de los que exista la misma obligación.
+
+Igual presunción favorecerá al que cause un daño a otra persona en el momento de sorprenderla en alguno de los lugares antes citados o en oficinas o comercios, en circunstancias tales que revelen la posibilidad de una agresión;
 
 V. Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el inculpado, y que éste no tenga el deber jurídico de afrontar, siempre que no tenga a su alcance otro medio practicable y menos perjudicial;
 
@@ -591,13 +593,23 @@ c) Alguna exculpante.
 
 XI. Se obre para salvar un bien jurídico y no se tenga otra alternativa de actuación no lesiva o menos lesiva.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+El daño deberá ser proporcional a las circunstancias de la agresión ilegítima que motive la legítima defensa, salvo en los casos en que se advierta contextos de violencia de género en una situación hombre/mujer.
+
 ###### ARTICULO 24.
 
 Las excluyentes de incriminación penal se harán valer de oficio y se aplicarán también a los inimputables.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 25.
 
-A quien por error vencible se exceda en alguna de las excluyentes de incriminación previstas en las fracciones IV a VII del artículo 23, se le aplicará la sanción prevista para el delito culposo.
+En los casos de exceso de legítima defensa o exceso en cualquier otra causa de justificación se impondrá la tercera parte de la sanción correspondiente al delito de que se trate, quedando subsistente la imputación a título doloso.
+
+No se considerará exceso en la legítima defensa cuando concurran circunstancias en las que la persona que se defiende se encuentre en estado de confusión, miedo o terror que afecte su capacidad para determinar el límite adecuado de su respuesta o la racionalidad de los medios empleados.
+
+El Ministerio Público o el Órgano jurisdiccional, según corresponda, analizará las circunstancias de la legítima defensa, favoreciendo en todo tiempo la protección más amplia a la persona agredida que actuó bajo esa causa de exclusión del delito.
 
 ## TITULO CUARTO. SANCIONES
 
@@ -1060,6 +1072,10 @@ Se entiende por profesionales, técnicos y auxiliares a los especialistas a que 
 > <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2024)</small>
 
 Cuando se cometa delito de despojo, abuso de confianza, fraude o suplantación de identidad en agravio de personas de sesenta años o más de edad, se aumentarán hasta en dos terceras partes las sanciones establecidas para esos delitos.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Cuando se cometa delito de violación, abuso sexual o robo, utilizando la administración sin consentimiento de la víctima ya sea de manera forzada u oculta, de estupefacientes, psicotrópicos, fármacos, drogas o cualquier sustancia natural o química que tenga como efecto modificar su comportamiento, alterar o anular su voluntad, se aumentarán hasta en una mitad las sanciones establecidas para esos delitos.
 
 ###### ARTICULO 59.
 
@@ -1677,6 +1693,10 @@ De las lesiones que a una persona cause un animal, será responsable la persona 
 
 Cuando la lesión o las lesiones señaladas en las modalidades establecidas en este artículo se generen en perjuicio de personas menores de edad o en personas con discapacidad, o en agravio hacia la mujer por razón de género, se sancionará hasta con una mitad más a la pena establecida en este artículo.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Se sancionará hasta con una tercera parte más de la sanción correspondiente a las lesiones inferidas, cuando la víctima sea integrante de alguna institución de seguridad pública, en el ejercicio de sus funciones o con motivo de ellas.
+
 ###### ARTICULO 122.
 
 (DEROGADO, P.O. 6 DE JULIO DE 2016)
@@ -1787,6 +1807,10 @@ Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obli
 
 Si del abandono resulta la muerte o lesiones, se aplicarán las penas que correspondan por homicidio calificado o por lesiones calificadas en razón del grado de éstas.
 
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 132 BIS.- Al progenitor que abandone a una mujer embarazada, y sin causa justificada incumpla las obligaciones de prestar asistencia económica y alimentos durante el embarazo y una vez nacido el o la menor; se le impondrán de nueve meses a seis años de prisión, además de la reparación del daño y el pago de alimentos para el recién nacido y la madre en los casos que procedan.
+
 ### CAPITULO IV. OMISION DE AUXILIO
 
 ###### ARTICULO 133.
@@ -1855,7 +1879,7 @@ Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres 
 
 ### CAPITULO IV. EXTORSION
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 140.
 
@@ -1891,39 +1915,103 @@ Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres 
 
 > <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 146.
+###### ARTICULO 146.
 
-Al que por cualquier medio ilícito ejerza coacción sobre una persona para que haga, deje de hacer o entregue algo, se le impondrán de quince a veinte años de prisión y multa de un mil a dos mil veces el importe del valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito, sin perjuicio de la sanción aplicable para los demás delitos que resulten.
+Al que por cualquier medio ilícito ejerza coacción sobre una persona para que permita, haga, deje de hacer o entregue algo, se le impondrán de quince a veinte años de prisión y multa de un mil a dos mil veces el importe del valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito, sin perjuicio de la sanción aplicable para los demás delitos que resulten.
 
-Se aplicará la pena prevista en el párrafo anterior, a quien facilite o utilice su cuenta bancaria para que se le realicen depósitos de dinero producto de la extorsión.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Las penas previstas en el primer párrafo se aumentarán hasta en dos terceras partes, si el delito se comete en alguna de las siguientes circunstancias:
+Las penas previstas en el primer párrafo se aumentarán hasta en dos terceras partes, cuando el delito se cometa en alguna de las siguientes circunstancias:
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
 
 I. Si el autor de la extorsión obtiene lo que se propuso;
 
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
 II. Intervenga una o más personas portando armas de fuego, o portando juguetes con apariencia de ser armas de fuego, o en su caso portando objetos o mecanismos con apariencia de armas de fuego, de las que están catalogadas como prohibidas en este código penal;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
 
 III. Se emplee violencia psicológica o física que ponga en peligro la integridad de la víctima o personas con las que ésa tenga vínculos de parentesco, sentimentales o laborales;
 
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
 IV. Cuando el sujeto activo se encuentre privado de su libertad bajo cualquier circunstancia en un Centro Penitenciario Estatal o Federal, o a disposición de cualquier autoridad;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
 
 V. Cuando en la comisión del delito se utilice la comunicación vía telefónica, o cualquier otro medio de comunicación electrónica o de redes sociales;
 
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
 VI. Cuando el sujeto activo tenga vínculos de tipo laboral, sentimental, familiar, vecinal, escolar o comercial con la víctima;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
 
 VII. Cuando el sujeto activo aceche, vigile a la víctima o cumpla cualquier amenaza proferida para obtener su propósito, entendiéndose aquellos actos que atenten contra la integridad física o emocional de la víctima, sus familiares o en su patrimonio;
 
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
+
 VIII. Cuando el sujeto activo sea elemento o haya pertenecido a instituciones de seguridad pública o privada, procuración de justicia, administración de justicia o militares, o se ostente como tal sin serlo. En este caso se le inhabilitará para ejercer algún cargo público y se suspenderá en el ejercicio de su profesión hasta por el mismo tiempo de la sanción impuesta;
 
-IX. Cuando la víctima sea alguna asociación civil, sociedad mercantil o grupo social;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-X. Cuando la víctima sea alguna institución pública;
+IX. Cuando la víctima sea alguna asociación civil, sociedad mercantil o una agrupación de facto, por cualquiera que sea su actividad;
 
-XI. Cuando la víctima se dedique al transporte de pasajeros o de mercancías; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(F. DE E., P.O. 15 DE FEBRERO DE 2023)</small>
+X. Cuando la víctima sea alguna institución pública o siendo una persona servidora pública verse sobre su función;
 
-XII. Cuando la víctima sea menor de edad o adulto mayor de 60 años.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Cuando la actividad de la víctima esté relacionada con el sector agropecuario, turístico, educativo, deportivo, comercial o productivo, de bienes o servicios, al transporte público, de personas, materiales o mercancías, con o sin autorización oficial;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Cuando la comisión del delito recaiga sobre bienes muebles, inmuebles o animales;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Cuando la comisión del delito tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el ejercicio el (sic) derecho a la libertad de expresión, a la libertad de culto o a la defensa de derechos humanos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Cuando el sujeto activo utilice en la comisión del delito información privada o datos personales, imágenes, audios, textos o videos, reales, manipulados o alterados, de la víctima;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Cuando el propósito del delito sea distribuir, comercializar o consumir cualesquiera de las sustancias ilícitas y prohibidas por la Ley General de Salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Cuando el sujeto activo sea una persona servidora pública; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Cuando la víctima sea una niña, niño, adolescente, no tenga la capacidad para comprender el significado del hecho o pertenezca a un grupo en condiciones de vulnerabilidad.
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES PÁRRAFO SEGUNDO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Se aplicarán las penas previstas a quienes faciliten o utilicen su cuenta bancaria para que se le realicen depósitos de dinero producto de la extorsión, u obtengan algún beneficio por la comisión de este delito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Además, de las penas previstas, en el caso de personas servidoras públicas, se les impondrán la destitución del cargo, empleo o comisión pública, se le inhabilitará hasta por un periodo igual al término de la pena que se imponga; y se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 146 BIS.- Se equipara al delito de extorsión y se le impondrán de quince a veinte años de prisión y multa de un mil a dos mil veces el importe del valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito, sin perjuicio de la sanción aplicable para los demás delitos que resulten, a:
+
+I. El sujeto activo sea una persona servidora pública que omita la denuncia del delito de extorsión del que tenga conocimiento, sea partícipe del mismo o lo consienta, por acción u omisión, si está dentro de sus facultades evitarlo;
+
+II. El sujeto activo sea una persona servidora pública que, mediante el uso de la fuerza pública, o por negligencia o descuido, coloque a la víctima de extorsión en una situación de riesgo;
+
+III. El sujeto activo sea una persona servidora pública que, por acción u omisión, facilite los medios tecnológicos, digitales o físicos, en su totalidad o sus componentes, para la comisión del delito de extorsión por personas privadas de la libertad, bajo su custodia o vigilancia; o
+
+IV. El sujeto activo sea una persona servidora pública o cualquier otro sujeto obligado a la protección de datos personales que aproveche su situación para proporcionar información a cualquier persona, organización o grupo delincuencial, con la finalidad de cometer el delito de extorsión.
+
+Además, de las penas previstas, en el caso de personas servidoras públicas, se les impondrán la destitución del cargo, empleo o comisión pública, se le inhabilitará hasta por un periodo igual al término de la pena que se imponga; y se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada.
 
 ### CAPITULO VII. ARTICULO 148 BIS.- (DEROGADO, P.O. 10 DE DICIEMBRE DE 2014 Y P.O. 18 DE FEBRERO DE 2015)
 
@@ -2045,9 +2133,17 @@ II. Cometa la conducta punible o haya cometido la conducta con fines lucrativos;
 
 III. Se cometa en contra de personas adultas mayores o personas que no tienen capacidad para comprender el significado del hecho o no se puedan resistir a éste;
 
-IV. Se cometa en contra de una persona en situación de vulnerabilidad social, por su condición cultural, étnica o su pertenencia a algún pueblo originario, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-V. Haya mediado violencia en la comisión de este delito.
+IV. Se cometa en contra de una persona en situación de vulnerabilidad social, por su condición cultural, étnica o su pertenencia a algún pueblo originario;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Haya mediado violencia en la comisión de este delito; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Sea cometido por alguna persona servidora pública en ejercicio de sus funciones.
 
 Cuando el delito previsto en este artículo sea cometido contra una persona menor de dieciocho años, se estará a lo establecido en los artículos 211 ter, 212 y demás relativos y aplicables de este Código y las leyes especiales o de la materia.
 
@@ -2697,7 +2793,7 @@ A quien aprovechando la necesidad económica de otro obtenga de éste, mediante 
 
 ### CAPITULO I. INCUMPLIMIENTO DE LAS OBLIGACIONES DE ASISTENCIA ALIMENTARIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 197.
 
@@ -2777,17 +2873,25 @@ En los casos previstos en este Título, el juzgador podrá suspender al agente e
 
 ###### ARTICULO 201.
 
-Al que sin motivo justificado no proporcione los recursos indispensables para la subsistencia de las personas con las que tenga ese deber legal, y exceda de un lapso de treinta días naturales, se le impondrán de un año a cuatro años de prisión "y" de ciento ochenta a trescientos sesenta días-multa y pago como reparación del daño de las cantidades no suministradas oportunamente a la parte ofendida. Si el adeudo excede de noventa días, el Juez ordenará al Registro Civil el ingreso de los datos del sentenciado en el Registro de Deudores Alimentarios a que se refiere el Código Familiar para el Estado de Morelos.
+Al que sin motivo justificado no proporcione los recursos indispensables para la subsistencia de las personas con las que tenga ese deber legal, y exceda de un lapso de treinta días naturales, se le impondrán de dos a cinco años de prisión y de ciento ochenta a trescientos sesenta días-multa y pago como reparación del daño de las cantidades no suministradas oportunamente a la parte ofendida. Si el adeudo excede treinta días naturales, el Juez ordenará la inscripción en el Registro Nacional de Obligaciones Alimenticias.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Al que dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determine, se le impondrá pena de seis meses a cinco años de prisión.
+Al que dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determine, se le impondrá pena de seis meses a seis años de prisión.
 
 Si la omisión mencionada en este artículo ocurre en incumplimiento de una resolución judicial, las sanciones se incrementarán en una mitad.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Una vez que el sentenciado cumpla con la reparación del daño, el Juez a petición de parte, deberá ordenar al Registro Civil la cancelación de la inscripción.
+Una vez que el sentenciado cumpla con la reparación del daño, el Juez a petición de parte, deberá solicitar al Tribunal Superior de Justicia del Estado de Morelos, la cancelación de la inscripción.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez o la autoridad responsable que le requiera; de no hacerlo, será sancionada en términos de lo dispuesto por el párrafo primero del artículo 221 de este Código y responderá solidariamente para el pago de daños y perjuicios que cause al acreedor alimentario por las omisiones o informes falsos, sin perjuicio de los delitos que puedas (sic) cometer y lo dispuesto por otros ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+La Fiscalía General del Estado, solicitará al Tribunal Superior de Justicia del Estado, la información respecto a los deudores alimentarios.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE OCTUBRE DE 2000)</small>
 
@@ -3045,35 +3149,63 @@ Si en la comisión de los delitos previstos en el Capítulo I del presente Títu
 
 ### CAPITULO I. FEMINICIDIO
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ARTICULO 213 QUINTUS.- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
 
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
 I. La víctima presente signos de violencia sexual de cualquier tipo;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
 II. A la víctima se haya infligido lesiones infamantes, degradantes o mutilaciones, previa o posterior a la privación de la vida o actos de necrofilia;
 
-III. Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral o escolar, del sujeto activo en contra de la víctima;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III.- Existan antecedentes o datos de cualquier tipo de violencia en el ámbito familiar, laboral, comunitario, político o escolar, del sujeto activo en contra de la víctima;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
 IV. Haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, noviazgo, cualquier otra relación de hecho, sentimental, afectiva o de confianza;
 
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
+
 V. Hay o se haya dado, entre el activo y la víctima una relación laboral, docente, o cualquier otro que implique confianza, subordinación o superioridad;
 
-VI. Existan datos que establezcan que hubo amenazas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Existan datos que establezcan que hubo amenazas directas o indirectas relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2021)</small>
 
 VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida, y
 
-VIII. El cuerpo de la víctima sea expuesto o arrojado en un lugar público.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. El cuerpo de la víctima sea expuesto, depositado, exhibido o arrojado en un lugar público, o
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IX. El sujeto activo haya obligado a la víctima a realizar una actividad o trabajo o haya ejercido sobre ella cualquier forma de explotación.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
 
 A quien cometa el delito de feminicidio se le impondrán de cuarenta a setenta años de prisión y multa de quinientos a mil veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
+
 En caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2023)</small>
+En su caso, también perderá con relación a los hijos e hijas de la víctima, la patria potestad, guarda y custodia, régimen de visitas y convivencias, y el derecho de alimentos que le correspondiere por un periodo igual al término de la pena que se imponga, garantizando el interés superior de la niñez en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes. De igual manera, el sujeto activo perderá el cargo de tutor o curador de cualquier persona incapaz, por un periodo igual al término de la pena que se imponga. Sanciones que se aplicarán igualmente en caso de tentativa de feminicidio.
 
-La pena se agravará hasta en una tercera parte, sin que pueda exceder la máxima establecida en este código, cuando la víctima sea menor de dieciocho años, adulta mayor, se encuentre embarazada, tenga alguna discapacidad, así como cuando el delito se cometa frente a sus hijas o hijos.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+La pena se agravará hasta en una tercera parte, sin que pueda exceder la máxima establecida en este código, cuando la víctima sea menor de dieciocho años, adulta mayor, se encuentre embarazada, tenga alguna discapacidad, cuando el delito se cometa frente a sus hijas o hijos, así como cuando el sujeto activo sea servidor público y haya cometido la conducta valiéndose de esta condición.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2021)</small>
 
 En caso de que un servidor público retarde o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, se estará a lo dispuesto en el Título Vigésimo Primero, denominado Delitos Cometidos Contra la Procuración y Administración de Justicia.
 
@@ -4311,11 +4443,15 @@ XXXVII. A quien ejerciendo funciones de supervisor de libertad indebidamente req
 
 XXXVIII. A quien ejerciendo funciones de supervisor de libertad falsee informes o reportes al Juez de Ejecución.
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XXXIX. Llevar a cabo acciones, prácticas u omisiones basadas en estereotipos de género, que obstaculicen o impidan que las mujeres accedan a los medios o mecanismos para el goce y ejercicio pleno de sus derechos fundamentales o políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia contra las mujeres o aquellas necesarias para su desarrollo.
+
 A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, XX, XXIV, XXV, XXVI, XXXIII y XXXIV, se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien días multa.
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI y XXXVII, se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
+A quien cometa los delitos previstos en las fracciones IV, V, VI, X, XI, XIV, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXVII, XXVIII, XXX, XXXI, XXXII, XXXV, XXXVI, XXXVII y XXXIX se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta días multa.
 
 En caso de tratarse de particulares realizando funciones propias del supervisor de libertad, y con independencia de la responsabilidad penal individual de trabajadores o administradores, la organización podrá ser acreedora a las penas y medidas en materia de responsabilidad penal de las personas jurídicas estipuladas en este Código.
 
@@ -5730,3 +5866,85 @@ El presente Decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y UNO POR EL QUE SE REFORMAN LAS FRACCIONES CUARTA Y QUINTA Y SE ADICIONA UNA FRACCIÓN SEXTA AL ARTÍCULO 150 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y CINCO.- POR EL QUE SE REFORMA LOS ARTÍCULOS 23 Y 25 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, EN MATERIA DE LEGÍTIMA DEFENSA CON ENFOQUE DE GÉNERO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 58 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, EN MATERIA DE AGRAVANTES POR SUMISIÓN QUÍMICA”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y DOS POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES DEL ESTADO DE MORELOS, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA SOBRE OBLIGACIONES ALIMENTARIAS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Tribunal Superior de Justicia del Estado, en el término de noventa días naturales, realizará las adecuaciones pertinentes a sus disposiciones reglamentarias y administrativas, para efecto de cumplir con las obligaciones establecidas en el presente Decreto y en los Lineamientos establecidos por el Sistema Nacional DIF.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo ordenado en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y TRES.- POR EL QUE SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 121 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, EN MATERIA DE LESIONES CONTRA INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA”.]
+
+PRIMERA.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para cumplimiento de los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y CUATRO POR EL QUE SE REFORMA EL ARTÍCULO 146 Y ADICIONA EL ARTÍCULO 146 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERO.– Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO.– Se derogan todas las disposiciones de igual o menor grado jerárquico que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y SIETE POR EL QUE SE REFORMA EL TERCER PÁRRAFO Y SE ADICIONA LA FRACCIÓN XXXIX DEL ARTÍCULO 297 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, EN MATERIA DE VIOLENCIA INSTITUCIONAL CONTRA LAS MUJERES".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para cumplimiento de los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Estado de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y NUEVE.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MORELOS, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MORELOS, Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS”.]
+
+PRIMERO.- Aprobado el presente Decreto por las diputadas y diputados integrantes de la Quincuagésima Quinta Legislatura del Congreso del Estado de Morelos, remítase el presente decreto al titular del Poder Ejecutivo del estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor grado jerárquico que se opongan al presente decreto.
