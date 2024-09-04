@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2024-01-05"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "PUE"
 
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:4 DE SEPTIEMBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -1527,25 +1527,271 @@ II. Si las partes Concilian sus diferencias; o
 
 III. Si al concurrir las partes no llegan a un acuerdo.
 
-### CAPÍTULO 8. CONSEJOS DE PARTICIPACIÓN CIUDADANA
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ENERO DE 2016)</small>
+### CAPÍTULO 7 BIS. MECANISMOS DE DEMOCRACIA DIRECTA Y PARTICIPATIVA
 
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 148.
 
-(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
+Para los efectos del presente Capítulo, se entenderá por:
+
+I. Presupuesto Participativo. Al mecanismo que sirve a la ciudadanía para decidir o proponer proyectos de mejoraría de su entorno inmediato, los cuales se realizarán con cargo al presupuesto del Ayuntamiento.
+
+II. Comisión Permanente. Al Órgano colegiado que se integra por diversos sectores de la Sociedad, en el cual se establecerán formas y mecanismos de participación, que ayuden al desarrollo del Municipio de Puebla y zona conurbada.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+DEL PRESUPUESTO PARTICIPATIVO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 149.
 
-(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
+El Presupuesto Participativo es el instrumento, mediante el cual la ciudadanía podrá ejercer el derecho a decidir sobre la aplicación del recurso que otorga el Ayuntamiento, para que sus habitantes optimicen su entorno, proponiendo proyectos de obras y servicios, equipamiento e infraestructura urbana, y, en general, cualquier mejora para sus unidades territoriales.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 149 BIS. El Presupuesto Participativo deberá estar orientado esencialmente al fortalecimiento del desarrollo comunitario, la convivencia y la acción comunitaria, que contribuya a la reconstrucción del tejido social y la solidaridad entre las personas vecinas y habitantes.
+
+Los objetivos sociales del Presupuesto Participativo serán la distribución de recursos, la mejora de la eficiencia del gasto público, la prevención del delito y la inclusión de grupos de atención prioritaria.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+DE LA COMISIÓN PERMANENTE
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 150.
 
-(DEROGADO, P.O. 10 DE AGOSTO DE 2012)
+El presente Capítulo tiene como objeto regular la organización, atribuciones y funcionamiento de la Comisión Permanente, la cual tiene como propósito establecer las bases de los mecanismos de participación que permitan el trabajo y la coordinación con los diferentes sectores de la sociedad, en materia de seguridad, desarrollo económico y social, turismo y bienestar en el Municipio de Puebla y área conurbada. Además de ser un órgano auxiliar de planeación del municipio en la conformación del Plan Municipal.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 BIS. Los sectores de la sociedad que podrán participar en la Comisión Permanente de Puebla serán, de manera enunciativa más no limitativa, los siguientes:
+
+I. Académico
+
+II. Empresarial;
+
+III. Organismos de la Sociedad Civil; y
+
+IV. Liderazgos sindicales.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+DE LA INTEGRACIÓN Y ATRIBUCIONES DE LA COMISIÓN PERMANENTE
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 TER. La Comisión Permanente estará integrada por las siguientes personas:
+
+I. Una persona que fungirá como Presidenta o Presidente de la Comisión Permanente, que será la persona Titular de la Presidencia Municipal del Honorable Ayuntamiento de Puebla;
+
+II. La persona servidora pública Titular de la Coordinación de las Regidurías;
+
+III. Tres personas invitadas permanentes, que serán las personas Titulares de la Presidencia Municipal de los Municipios de la zona conurbada;
+
+IV. Hasta doce vocalías ciudadanas, que serán personas representantes de los diversos sectores de la sociedad:
+
+a. Tres por el Sector Académico;
+
+b. Tres por el Sector Empresarial;
+
+c. Tres por Organismos de la Sociedad Civil; y
+
+d. Tres por los Liderazgos Sindicales.
+
+Los cargos de la Comisión Permanente serán de carácter honorífico, por lo que no percibirán compensación o emolumento alguno.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 QUATER. Cada persona integrante de la Comisión Permanente deberá nombrar a una persona suplente, que contará con las mismas facultades, y será quien en caso de ausencia lo supla.
+
+La persona Titular de la Presidencia de la Comisión Permanente designará a la persona que lo suplirá en caso de ausencia.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 QUINQUIES. La Comisión Permanente tendrá las siguientes atribuciones:
+
+I. Conocer de los temas relacionados con la Seguridad, el Desarrollo Económico y Social del Municipio de Puebla y la Zona Conurbada;
+
+II. Formular y desarrollar estrategias para la atracción de inversiones;
+
+III. Analizar y ejecutar acciones e implementar programas en beneficio de la sociedad del Municipio de Puebla;
+
+IV. Formular estrategias dirigidas a mantener la seguridad de la población del Municipio de Puebla;
+
+V. Formular y desarrollar estrategias para enfrentar la desigualdad y la pobreza, creando programas de apoyo a la sociedad;
+
+VI. Realizar programas de acciones conjuntas con las personas Titulares de las Presidencias Municipales de la Zona Conurbada para temas específicos que así lo requieran;
+
+VII. Analizar y poner en marcha los proyectos, planes y programas en materia de Desarrollo Económico, Social y de Seguridad;
+
+VIII. Elaborar y aprobar los lineamientos para el óptimo funcionamiento de la propia Comisión Permanente, así como de las Comisiones Especiales; y
+
+IX. Las demás que sean necesarias para el cumplimiento del objeto de la Comisión.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+DE LAS PERSONAS INVITADAS PERMANENTES, VOCALÍAS CIUDADANAS
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 SEXIES. Las personas invitadas permanentes serán las personas Titulares de las Presidencias de los municipios de la zona conurbada que a continuación se enlistan:
+
+I. La persona Titular de la Presidencia Municipal de San Andrés Cholula
+
+II. La persona Titular de la Presidencia Municipal de San Pedro Cholula; y
+
+III. La persona Titular de la Presidencia Municipal de Cuautlancingo.
+
+Las personas invitadas permanentes contarán con derecho a voz y voto dentro de la Comisión Permanente y tienen tal carácter para que la toma de decisiones sea constante, siempre y cuando se mantengan en el cargo por el que fueron electos.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 SEPTIES. La persona Titular de la Presidencia de la Comisión Permanente, mediante oficio invitará a las personas Titulares de las presidencias de los municipios de la zona conurbada para que formen parte de la Comisión de manera permanente, los cuales podrán aceptar o no la invitación realizada.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 OCTIES. La persona Titular de la Presidencia de la Comisión Permanente, con apoyo de la persona Titular de la Secretaría Técnica de la Comisión Permanente, citará a través de comunicado oficial, a las personas invitadas permanentes a todas las sesiones ordinarias y extraordinarias que se celebren.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 NONIES. Las vocalías ciudadanas serán representadas por personas de los sectores de la sociedad señalados en el artículo 150 TER fracción IV del presente Código.
+
+Los cargos de las vocalías ciudadanas de la Comisión Permanente serán de carácter honorífico y su duración será de cuatro años.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 DECIES. Las personas invitadas permanentes y Vocalías Ciudadanas tendrán las siguientes facultades:
+
+I. Cumplir, en el ámbito de su competencia, los acuerdos a los que llegue la Comisión Permanente;
+
+II. Proponer programas y proyectos para el desarrollo en los sectores de Seguridad Pública y Desarrollo Económico y Social del Municipio de Puebla;
+
+III. Asistir a las sesiones de la Comisión Permanente, con derecho a voz y voto;
+
+IV. Presentar propuestas que se consideren necesarias para el cumplimiento del objeto de la Comisión Permanente;
+
+V. Emitir su voto respecto de los asuntos que se sometan a su consideración; y
+
+VI. Las demás que determine la Comisión Permanente y las que les confiera el presente Código.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+DE LA SECRETARÍA TÉCNICA DE LA COMISIÓN PERMANENTE
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 UNDECIES. La Secretaría Técnica es un órgano de apoyo que coadyuva en el cumplimiento de las tareas administrativas y técnicas que permitan el buen funcionamiento de la Comisión Permanente.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 DUODECIES. La Secretaría Técnica será ocupada por una persona que sea Titular de la Dependencia o Entidad que designe la persona Titular de la Presidencia, a fin de dar cumplimiento al objeto de dicha Comisión.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 TERDECIES. La persona Titular de la Secretaría Técnica tendrá las siguientes facultades:
+
+I. Proponer a la Comisión Permanente el calendario anual de sesiones ordinarias;
+
+II. Convocar a las personas integrantes de la Comisión Permanente a las sesiones, ya sean ordinarias o extraordinarias;
+
+III. Convocar a sesiones ordinarias y enviar la documentación correspondiente para el conocimiento de las personas integrantes de la Comisión Permanente;
+
+IV. Convocar a sesiones extraordinarias, a solicitud de tres o más de las personas integrantes de la Comisión Permanente, previo acuerdo con la personal Titular de la Presidencia de la (sic) está, o cuando algún asunto urgente así lo requiera;
+
+V. Elaborar la lista de asistencia de cada sesión y verificar el quórum legal de la Comisión Permanente;
+
+VI. Integrar el orden del día a que se sujetarán las sesiones y someterlo a la consideración de los integrantes de la Comisión Permanente;
+
+VII. Asistir a las sesiones de la Comisión Permanente, con derecho a voz;
+
+VIII. Someter a votación, la aprobación de los asuntos tratados en las sesiones de la Comisión Permanente;
+
+IX. Elaborar las actas de las sesiones que celebre la Comisión Permanente para someterlas a aprobación y firma de los integrantes asistentes en la siguiente sesión;
+
+X. Notificar y dar seguimiento a los acuerdos y determinaciones de la Comisión Permanente; y
+
+XI. Las demás que determine la Comisión Permanente y las que confiera el presente Código.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+DE LAS SESIONES DE LA COMISIÓN
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 QUATERDECIES. Las sesiones que celebre la Comisión serán:
+
+I. Ordinarias;
+
+II. Extraordinarias;
+
+III. Públicas, o
+
+IV. Privadas.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 QUINDECIES. Por regla general las sesiones de la Comisión serán públicas.
+
+Solamente podrán celebrarse sesiones privadas cuando se trate de asuntos de Seguridad o que afecten la gobernabilidad del Municipio. Las personas integrantes de la Comisión Permanente están obligadas a guardar reserva en los asuntos tratados en las Sesiones privadas.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 SEXDECIES. La persona Titular de la Presidencia de la Comisión Permanente, en el desahogo de las sesiones, tendrá las facultades siguientes:
+
+I. Citar a Sesiones Ordinarias y Extraordinarias de la Comisión Permanente, con apoyo de la persona Titular de la Secretaría Técnica de la Comisión Permanente;
+
+II. Hacer la declaratoria del inicio de las sesiones;
+
+III. Conceder el uso de la palabra a las o los integrantes de la Comisión Permanente, en el orden que lo soliciten;
+
+IV. Hacer uso de la palabra en las sesiones de la Comisión Permanente para emitir su criterio sobre el asunto que se esté tratando;
+
+V. Solicitar con apoyo de la persona Titular de la Secretaría Técnica de la Comisión Permanente la votación respectiva del punto en discusión;
+
+VI. Mantener el orden durante el desarrollo de las Sesiones, para lo cual podrá llamar la atención a las personas asistentes y en su caso ordenar la salida a quien perturbe el orden;
+
+VII. Hacer la declaratoria del cierre de la Sesión cuando esté agotada el orden del día;
+
+VIII. Vigilar y hacer cumplir el presente Código; y
+
+IX. Las demás que establezcan las Leyes aplicables y que acuerde la Comisión Permanente.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 SEPTENDECIES. Los acuerdos de la Comisión Permanente serán tomados por mayoría de votos.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+DE LA INTEGRACIÓN Y ELECCIÓN DE LAS COMISIONES ESPECIALES DE LA COMISIÓN PERMANENTE.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 OCTODECIES. La Comisión Permanente podrá crear Comisiones Especiales, que tendrán objetivos específicos y particulares.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 NOVODECIES. El funcionamiento, atribuciones y regulación de las Comisiones Especiales se establecerán a través de Lineamientos que para tal efecto se elaboren.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 150 VICIES. Deberá estar integrada por al menos cinco personas, de la manera siguiente:
+
+I. Una persona Titular de la Presidencia, que sea parte de la Comisión Permanente y que cuente con experiencia en la naturaleza de la Comisión Especial;
+
+II. Una persona Titular de la Secretaría Técnica: que será designada por la persona Presidenta de la Comisión Especial
+
+III. Cuando menos tres personas invitadas que cuenten con conocimiento y experiencia afín a la naturaleza de la Comisión Especial correspondiente, mismos que podrán ser:
+
+a. Titulares de Dependencias o Entidades del orden federal, estatal y/o municipal.
+
+b. Personas representantes de los Sectores de la Sociedad, relacionados con el objetivo de la Comisión Especial, de quienes su experiencia profesional y práctica comprobada se alinee a la naturaleza de la Comisión Especial correspondiente.
+
+Los cargos de las Comisiones Especiales serán de carácter honorífico, por lo que no recibirán compensación o emolumento alguno.
 
 DE LAS SANCIONES
 
@@ -1573,11 +1819,13 @@ DE LAS SANCIONES
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE ENERO DE 2016)</small>
 
-### CAPÍTULO 9. POLICÍA Y GOBIERNO
+### CAPÍTULO 8. CONSEJOS DE PARTICIPACIÓN CIUDADANA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE ENERO DE 2016)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 155.
 
@@ -1631,15 +1879,25 @@ DE LA JUNTA DIRECTIVA
 
 La Junta Directiva de los Consejos de Participación Ciudadana, es el Órgano de Dirección de los mismos y estará conformada por:
 
-I. Un Presidente Honorario, que es el Presidente Municipal;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. Un Presidente Ejecutivo;
+I. Una Presidencia Honoraria que será la persona Titular de la Presidencia Municipal o quien este designe;
 
-III. Los Consejeros Presidentes de los Consejos de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Un Secretario Ejecutivo, quien es designado por el Presidente Honorario; y
+II. Una Presidencia Ejecutiva;
 
-V. Un Consejero de Vigilancia.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. Las personas Titulares de las Presidencias de los Consejos de Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Una Secretaría Ejecutiva, quien será designada por la Presidencia Honoraria; y
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Una Consejería de Vigilancia.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
@@ -1647,119 +1905,163 @@ V. Un Consejero de Vigilancia.
 
 Son atribuciones de la Junta Directiva de los Consejos de Participación Ciudadana, las siguientes:
 
-I. Aprobar el Plan Anual General de Trabajo, integrado con todos los programas anuales de actividades de todos los Consejos de Participación Ciudadana;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. Aprobar la convocatoria anual para la renovación de los integrantes de los Consejos de Participación Ciudadana, que será publicada mediante la Secretaría Ejecutiva;
+I. Aprobar en la primera sesión ordinaria, el Plan Anual General de Trabajo, integrado con los programas de actividades de todos los Consejos de Participación Ciudadana;
 
-III. Otorgar reconocimientos a los Consejeros que se distingan por su espíritu de colaboración, cooperación, compromiso y responsabilidad a favor de la ciudadanía;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Aprobar la convocatoria anual para la renovación de las personas integrantes de los Consejos de Participación Ciudadana, que será publicada mediante la Secretaría Ejecutiva;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. Otorgar reconocimientos a las personas Consejeras que se distingan por su espíritu de colaboración, cooperación, compromiso y responsabilidad a favor de la ciudadanía;
 
 IV. Promover y difundir las acciones de los Consejos de Participación Ciudadana a efecto de fomentar la cultura de la participación ciudadana, y
 
 V. Las demás que le confiera el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 160.
 
-El Presidente Honorario de la Junta Directiva de los Consejos de Participación Ciudadana, tendrá las siguientes atribuciones:
+La persona Titular de la Presidencia Honoraria de la Junta Directiva de los Consejos de Participación Ciudadana, tendrá las facultades siguientes:
 
-I. Proponer una terna de entre los Consejeros Presidentes de los Consejos de Participación Ciudadana, para que de ella emane, el Presidente Ejecutivo;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. Designar al Titular de la Secretaría Ejecutiva;
+I. Proponer una terna de entre las personas Titulares de las Presidencias de los Consejos de Participación Ciudadana, para que de ella emane, la persona Titular de la Presidencia Ejecutiva;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Designar a la Persona Titular de la Secretaría Ejecutiva;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 III. Participar con voz y voto en las sesiones de la Junta Directiva;
 
-IV. Solicitar al Secretario Ejecutivo, en cualquier momento los informes que requiera;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-V. Asistir a las sesiones de la Junta Directiva, y en su caso mediante oficio designar un representante que lo supla, y
+IV. Solicitar a la Secretaría Ejecutiva, en cualquier momento los informes que requiera;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Asistir a las sesiones de la Junta Directiva, y en su caso mediante oficio designar una persona representante que lo supla; y
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VI. Las demás que le confiera el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 161.
 
-El Presidente Ejecutivo será electo mediante voto directo, universal, secreto, personal e intransferible de los Consejeros de Participación Ciudadana, de entre la terna designada por el Presidente Honorario, debiendo ser Presidente Propietario de un Consejo de Participación Ciudadana.
+La persona Titular de la Presidencia Ejecutiva será electa mediante voto directo, universal, secreto, personal e intransferible de las y los Consejeros de Participación Ciudadana, de entre la terna designada por la persona Titular de la Presidencia Honoraria, debiendo ser Titular Propietaria de la Presidencia de un Consejo de Participación Ciudadana.
 
-Terminada la votación, la Comisión de Escrutinio y Cómputo nombrada por la Comisión Ejecutiva, que estará integrada por tres Consejeros Presidentes, contará los votos y levantará el acta correspondiente.
+Terminada la votación, la Comisión de Escrutinio y Cómputo nombrada por la Comisión Ejecutiva, que estará integrada por tres personas Consejeras Presidentes, contará los votos y levantará el acta correspondiente.
 
-El proceso establecido en este artículo deberá realizarse durante los 30 días naturales posteriores a la renovación de las Mesas Directivas de los Consejos de Participación Ciudadana.
+Este proceso de selección deberá realizarse durante los treinta días naturales posteriores a la renovación de las Mesas Directivas de los Consejos de Participación Ciudadana.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 162.
 
-Son obligaciones y atribuciones del Presidente Ejecutivo:
+Son obligaciones y atribuciones de la persona Titular de la Presidencia Ejecutiva:
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 I. Dar seguimiento a los acuerdos de la Junta Directiva;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 II. Designar a su suplente;
 
-III. Proponer al Consejero de Vigilancia;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. Proponer a la persona Titular del Consejo de Vigilancia;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 IV. Presidir y dirigir las sesiones y todos aquellos actos propios de la Comisión Ejecutiva;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 V. Vigilar el cumplimiento del objeto del presente Capítulo;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VI. Presentar un informe anual de las actividades de la Comisión Ejecutiva en sesión solemne de la Junta Directiva, en el mes de enero;
 
-VII. Firmar de manera conjunta con el Secretario Ejecutivo, las actas y acuerdos que se levanten en las sesiones de la Comisión Ejecutiva;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Firmar de manera conjunta con la persona Titular de la Secretaría Ejecutiva, las actas y acuerdos que se levanten en las sesiones de la Comisión Ejecutiva;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VIII. Participar como vocal en la Junta de Gobierno del Instituto Municipal de Planeación, e informar en la Comisión Ejecutiva de los asuntos tratados, y
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 IX. Las demás que le designe el Presidente Honorario y el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 163.
 
-El Presidente Ejecutivo podrá ser reelecto una sola vez. En caso de que el Presidente Ejecutivo presente su renuncia o solicite licencia, el suplente realizará las funciones de éste, continuando con el cargo para el periodo en el que fue electo.
+La Persona Presidenta Ejecutiva podrá ser reelecta una sola vez, en caso de que presente su renuncia o solicite licencia, la suplente realizará las funciones de ésta, continuando con el cargo para el periodo en el que fue electa. En caso de renuncia de la suplente se convocará a una sesión extraordinaria de la Junta Directiva, con el fin de aplicar el procedimiento de elección de la Presidencia, establecido en el presente Capítulo, quien deberá terminar el periodo restante de la gestión en turno.
 
-En caso de renuncia del suplente se convocará a una sesión extraordinaria de la Junta Directiva, con el fin de aplicar el procedimiento de elección del Presidente establecido en el presente Capítulo, quien deberá terminar el periodo restante de la gestión en turno.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 164.
 
-El Presidente Ejecutivo podrá solicitar licencia temporal hasta por tres meses ininterrumpidos por causa justificada ante la Junta Directiva. Las licencias temporales solicitadas por el Presidente Ejecutivo, se otorgarán máximo hasta en dos ocasiones durante su periodo de gestión en forma discontinua y no acumulativa.
+La persona Titular de la Presidencia Ejecutiva podrá solicitar licencia temporal hasta por tres meses ininterrumpidos por causa justificada ante la Junta Directiva. Las licencias temporales solicitadas por la o el Presidente Ejecutivo, se otorgarán máximo hasta en dos ocasiones durante su periodo de gestión en forma discontinua y no acumulativa. Concluido el tiempo de la primera licencia temporal solicitada por la persona Presidenta Ejecutiva, éste se reincorporará a sus actividades debiendo pasar mínimo seis meses a partir de su regreso, en caso de requerir su segunda licencia temporal.
 
-Concluido el tiempo de la primera licencia temporal solicitada por el Presidente Ejecutivo, éste se reincorporará a sus actividades debiendo pasar mínimo seis meses a partir de su regreso, en caso de requerir su segunda licencia temporal.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 165.
 
-Para su adecuado funcionamiento, la Junta Directiva sesionará de manera ordinaria, extraordinaria y solemne.
+Para su adecuado funcionamiento, la Junta Directiva sesionará de manera ordinaria, extraordinaria y solemne, de acuerdo con lo siguiente:
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 I. Las sesiones ordinarias se llevarán a cabo cada cuatro meses.
 
-II. Las sesiones extraordinarias se realizarán cuando las convoque el Presidente Honorario, las solicite el Presidente Ejecutivo o más del cincuenta por ciento de sus integrantes, dicha solicitud deberá notificarse por escrito al Secretario Ejecutivo.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Las sesiones extraordinarias se realizarán cuando las convoque la persona Titular de la Presidencia Honoraria, las solicite la Presidenta Ejecutiva o más del cincuenta por ciento de sus integrantes, dicha solicitud deberá notificarse por escrito a la Secretaría Ejecutiva; y
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 III. Las sesiones solemnes, se realizarán cuando:
 
-a) Rinda protesta el Presidente Ejecutivo y el Consejero de Vigilancia;
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-b) El Presidente Ejecutivo presente el informe anual de actividades de los Consejos de Participación Ciudadana, y
+a) Rinda protesta la persona Titular de la Presidencia Ejecutiva y la Titular del Consejo de Vigilancia;
 
-c) Se instale un nuevo Consejo Ciudadano y sus miembros rindan protesta ante el Presidente Honorario.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+b) La persona Titular de la Presidencia Ejecutiva presente el informe anual de actividades de los Consejos de Participación Ciudadana; y
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+c) Se instale un nuevo Consejo Ciudadano y las personas integrantes rindan protesta ante la Presidencia Honoraria.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
 DE LA COMISIÓN EJECUTIVA
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 166.
 
-La Comisión Ejecutiva estará integrada por:
+La Comisión Ejecutiva estará integrada por las personas siguientes:
 
-I. El Presidente Ejecutivo de la Junta Directiva;
+I. La persona Titular de la Presidencia Ejecutiva de la Junta Directiva;
 
-II. El Secretario Ejecutivo;
+II. La persona Titular de la Secretaría Ejecutiva;
 
-III. El Consejero de Vigilancia de la Junta Directiva, y
+III. La persona Consejera de Vigilancia de la Junta Directiva; y
 
-IV. Los Consejeros Presidentes de los Consejos de Participación Ciudadana.
+IV. Las Personas Titulares de las Presidencias de los Consejos de Participación Ciudadana.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
@@ -1769,15 +2071,21 @@ Son responsabilidades y atribuciones de la Comisión Ejecutiva, las siguientes:
 
 I. Dar seguimiento a los programas, proyectos y acciones de cada Consejo de Participación Ciudadana;
 
-II. Proponer reconocimientos para los Consejeros que se distingan por su colaboración, compromiso y responsabilidad que fortalezca la cultura de la Participación Ciudadana;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Proponer reconocimientos para las personas Consejeras que se distingan por su colaboración, compromiso y responsabilidad que fortalezca la cultura de la Participación Ciudadana;
 
 III. Apoyar a los Consejos de Participación Ciudadana en las gestiones ciudadanas;
 
 IV. Vigilar el buen funcionamiento de los Consejos de Participación Ciudadana;
 
-V. Fomentar en los Consejeros de Participación Ciudadana, mediante cursos de inducción y actualización, el conocimiento de la Participación Ciudadana en todos sus ámbitos, con apoyo de la Secretaria Ejecutiva, a través de la impartición de cursos, talleres, foros, seminarios, entre otros;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Solicitar al Ayuntamiento, de conformidad con lo establecido en la Ley Orgánica Municipal, la autorización para la recepción de aportaciones económicas realizadas por Organismos Públicos y Privados, para ser utilizados en proyectos específicos, promovidos por el Consejo de Participación Ciudadana, bajo los lineamientos que establezca la Tesorería Municipal;
+V. Fomentar en las personas Consejeras de Participación Ciudadana, mediante cursos de inducción y actualización, el conocimiento de la Participación Ciudadana en todos sus ámbitos, con apoyo de la Secretaría Ejecutiva, a través de la impartición de cursos, talleres, foros, seminarios, entre otros;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Solicitar al Ayuntamiento, de conformidad con lo establecido en la Ley Orgánica Municipal, la autorización para la recepción de aportaciones económicas realizadas por organismos públicos y privados, para ser utilizados en proyectos y/o proyectos específicos, promovidos por el Consejo de Participación Ciudadana, bajo los lineamientos que establezca la Tesorería Municipal;
 
 VII. Proponer al Ayuntamiento, a través de la Comisión correspondiente, la creación de premios y reconocimientos;
 
@@ -1793,17 +2101,13 @@ XII. Conformar las Comisiones que se consideren pertinentes para el logro de los
 
 XIII. Las demás que le confiera el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 168.
 
-Para su correcto funcionamiento, la Comisión Ejecutiva podrá sesionar de manera ordinaria y extraordinaria.
+Para su correcto funcionamiento, la Comisión Ejecutiva podrá sesionar de manera ordinaria y extraordinaria. Las sesiones ordinarias se celebrarán una vez al mes, para dar seguimiento a los planes de trabajo y tratar asuntos comunes de los Consejos de Participación Ciudadana, a estas sesiones deberán asistir personas Consejeras Presidentas.
 
-Las sesiones ordinarias se celebrarán una vez al mes, para dar seguimiento a los planes de trabajo y tratar asuntos comunes de los Consejos de Participación Ciudadana, a estas sesiones deberán asistir los Consejeros Presidentes.
-
-Las sesiones extraordinarias se realizarán cuando las convoque el Presidente Ejecutivo o más del cincuenta por ciento de sus integrantes, en este caso dicha solicitud deberá notificarse por escrito al Secretario Ejecutivo y solo se desahogarán los temas especificados en la convocatoria, sin asuntos generales.
-
-La asistencia de un suplente será válida para efectos de quórum legal de la sesión, pero no contará como asistencia del Consejero propietario
+Las sesiones extraordinarias se realizarán cuando las convoque la persona Titular de la Presidencia Ejecutiva o más del cincuenta por ciento de las personas integrantes, en este caso dicha solicitud deberá notificarse por escrito a la Secretaria Ejecutiva y sólo se desahogarán los temas especificados en la convocatoria, sin asuntos generales. La asistencia de una persona suplente será válida para efectos de quórum legal de la sesión, pero no contará como asistencia de la Consejera Propietaria.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
@@ -1811,183 +2115,285 @@ La asistencia de un suplente será válida para efectos de quórum legal de la s
 
 Son funciones del Consejero de Vigilancia, las siguientes:
 
-I. Solicitar al titular de la Secretaría Ejecutiva los registros de asistencia a las sesiones de los Consejos de Participación Ciudadana para rendir un informe semestral;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. Organizar y realizar semestralmente, mesas de trabajo con los Consejeros de Vigilancia de cada Consejo de Participación Ciudadana, para dar seguimiento a sus respectivas actividades;
+I. Solicitar a la persona Titular de la Secretaría Ejecutiva los registros de asistencia a las sesiones de los Consejos de Participación Ciudadana para rendir un informe semestral;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Organizar y realizar semestralmente, mesas de trabajo con las y los Consejeros de Vigilancia de cada Consejo de Participación Ciudadana, para dar seguimiento a sus respectivas actividades;
 
 III. Dar seguimiento a las aportaciones económicas, y
 
 IV. Las demás que le confiera la Junta Directiva y la Comisión Ejecutiva.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-DE LOS CONSEJEROS DE PARTICIPACION CIUDADANA
+DE LAS PERSONAS CONSEJERAS DE PARTICIPACIÓN CIUDADANA
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 170.
 
-Para ser miembro de un Consejo de Participación Ciudadana, se requiere:
+Para ser miembro de un Consejo de Participación Ciudadana, se requiere cumplir con los requisitos siguientes:
 
-I. Ser ciudadano Mexicano en pleno ejercicio de sus derechos;
+I. Tener la ciudadanía en pleno ejercicio de sus derechos;
 
-II. Ser vecino o trabajar en el Municipio o en su zona metropolitana, al menos los últimos seis meses a su integración;
+II. Ser vecino o vecina preferentemente o trabajar dentro del municipio de Puebla, al menos los últimos seis meses anteriores a su integración;
 
-III. No haber sido condenado por delito alguno;
+III. No desempeñar cargo alguno en la administración pública federal, estatal o municipal;
 
-IV. No desempeñar cargo alguno en la Administración Pública Federal, Estatal o Municipal; ni haber desempeñado cargos de Dirección en algún partido o agrupación política, dos años anteriores a su integración;
+IV. No haber desempeñado cargos de Dirección en algún partido o agrupación política, dos años anteriores a su integración;
 
-V. No ser proveedor, arrendatario, asesor, consultor, prestador de servicios o contratista del Ayuntamiento; una vez siendo Consejero en funciones deberá presentar renuncia ante la Comisión Ejecutiva si se diera cualquiera de los supuestos anteriores, y
+V. No ser persona proveedora, arrendataria, asesora, consultora, prestadora de servicios o contratista del Ayuntamiento. Una vez siendo persona Consejera en funciones deberá presentar renuncia ante la Comisión Ejecutiva si se diera cualquiera de los supuestos anteriores; y
 
-VI. Ser propuesto en formula propietario y suplente, por Organismo o Institución del sector privado o social, cubriendo el perfil del Consejo de Participación Ciudadana para el cual es propuesto; o de manera independiente contar con reconocido prestigio, experiencia y calificados conocimientos sobre la temática correspondiente, estar interesados (sic) en colaborar y recomendar soluciones a los problemas de carácter Municipal.
+VI. Ser propuesto en fórmula como persona propietaria o suplente, por algún organismo o institución del sector privado o social, cubriendo el perfil del Consejo de Participación Ciudadana para el cual es propuesta; o de manera independiente contar con reconocido prestigio, experiencia y calificados conocimientos sobre la temática correspondiente, estar interesados en colaborar y recomendar soluciones a los problemas de carácter Municipal.
 
 La documentación que acredite el cumplimiento de los requisitos señalados, que deberá ser entregada a la Secretaría Ejecutiva, para que ésta la turne al Consejo de Participación Ciudadana respectivo, para su valoración y en su caso aceptación.
 
-El Secretario Ejecutivo verificará que cumpla con los requisitos establecidos y tendrá que notificar personalmente el nombramiento como Consejero Ciudadano, dentro de los quince días hábiles posteriores a su ingreso.
+La o el Secretario Ejecutivo verificará que cumpla con los requisitos establecidos y tendrá que notificar personalmente el nombramiento como Persona Consejera Ciudadana, dentro de los quince días hábiles posteriores a su ingreso.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 171.
 
-El cargo de Consejero de Participación Ciudadana es honorífico y no remunerado; será renunciable por escrito, debiéndolo hacer del conocimiento de la Comisión Ejecutiva.
+El cargo de Persona Consejera es honorífico y no remunerado; será renunciable por escrito, debiéndolo hacer del conocimiento de la Comisión Ejecutiva.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD EN EL P.O. DE 4 DE SEPTIEMBRE DE 2024, PÁGINAS 3 Y 12.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 172.
 
-Los Consejeros de Participación Ciudadana, tanto propietarios como suplentes, durarán en su función tres años a partir de su ingreso, pudiendo reelegirse para el periodo inmediato siguiente, dentro del mismo u otro Consejo de Participación Ciudadana.
+Las personas Consejeras de Participación Ciudadana, tanto propietarios como suplentes, durarán en su función tres años a partir de su ingreso, pudiendo reelegirse para el periodo inmediato siguiente, dentro del mismo u otro Consejo de Participación Ciudadana. Una vez que haya participado en dos periodos continuos dentro del mismo o en otro consejo, deberá dejar pasar un periodo, para volver a participar en un Consejo de Participación Ciudadana. Para el caso de las personas Consejeras representantes de Instituciones u Organismos de la Sociedad Civil, podrán ser relevados antes del término, por decisión del proponente.
 
-Una vez que haya participado en dos periodos continuos deberá dejar pasar un periodo, para volver a participar en un Consejo de Participación Ciudadana.
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Para el caso de Consejeros representantes de Instituciones u Organismos de la Sociedad Civil, podrán ser relevados antes del término, por decisión del proponente.
+Cada mesa directiva de los consejos deberá de expedir los nombramientos a las personas consejeras, en el formato que expida la Secretaría Ejecutiva en donde se especifique la fecha en la que asumió el cargo y el tiempo que durará en el mismo; debiendo entregar copia del mismo a la Secretaría Ejecutiva.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 173.
 
-Son derechos y obligaciones de los Consejeros de Participación Ciudadana:
+Son derechos y obligaciones de las y los Consejeros de Participación Ciudadana, los siguientes:
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 I. Votar y ser votado para la integración de la Mesa Directiva al que pertenece;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 II. Contar con un suplente. En caso de no ser propuesto por una Institución, el propietario deberá nombrar a su suplente;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 III. Participar y cumplir con las encomiendas del Consejo de Participación Ciudadana;
 
-IV. Asistir y deliberar en las sesiones del Consejo de Participación Ciudadana del que forma parte, acudir a actos, reuniones y a cualquier otro evento al que sea invitado en su carácter de Consejero;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Asistir y deliberar en las sesiones del Consejo de Participación Ciudadana del que forma parte, acudir a actos, reuniones y a cualquier otro evento al que sea invitado en su carácter de Consejera o Consejero;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 V. Asistir y participar en los cursos de inducción y actualización que organice la Comisión Ejecutiva;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 VI. Proponer a su Consejo de Participación Ciudadana, actividades en beneficio de la comunidad;
 
-VII. Solicitar al Presidente de su Consejo de Participación Ciudadana, la información que requiera para el desarrollo de las actividades encomendadas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Solicitar licencia por escrito al Presidente del Consejo de Participación Ciudadana al que pertenece, hasta por seis meses, la cual solamente podrá prorrogarse en caso de enfermedad o por el desempeño de algún cargo que imposibilite el cumplimiento de sus funciones;
+VII. Solicitar a la persona Titular de la Presidencia de su Consejo de Participación Ciudadana, la información que requiera para el desarrollo de las actividades encomendadas;
 
-IX. Renunciar a su cargo, conforme a lo establecido en el presente Capítulo, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Solicitar licencia por escrito a la persona Titular de la Presidencia del Consejo de Participación Ciudadana al que pertenece, hasta por seis meses, la cual solamente podrá prorrogarse en caso de enfermedad o por el desempeño de algún cargo que imposibilite el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Renunciar a su cargo, conforme a lo establecido en el presente Capítulo; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 X. Las demás que les confiera el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 174.
 
-En caso de que un Consejero de Participación Ciudadana sea designado para ocupar un cargo público, deberá solicitar licencia ante el Consejo de Participación Ciudadana, debiendo hacer del conocimiento de la Comisión Ejecutiva.
+En caso de que una Persona Consejera sea designada para ocupar un cargo público, deberá presentar su renuncia ante el Consejo de Participación Ciudadana, debiendo hacer del conocimiento de la Comisión Ejecutiva.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 175.
 
-Los Consejeros de Participación Ciudadana podrán participar en dos Consejos de Participación Ciudadana, siempre y cuando el segundo Consejo de Participación Ciudadana lo requiera mediante escrito motivado y sujeto a aprobación de la Comisión Ejecutiva, pero sólo en uno podrá ser integrante de la Mesa Directiva.
+Las personas consejeras podrán participar en dos Consejos de Participación Ciudadana, siempre y cuando el segundo Consejo de Participación Ciudadana lo requiera mediante escrito motivado y sujeto a aprobación de la Comisión Ejecutiva, pero sólo en uno podrá ser integrante de la Mesa Directiva.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
 DE LA SECRETARÍA EJECUTIVA
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 176.
 
-El Titular de la Secretaría Ejecutiva será designado por el Presidente Honorario de la Junta Directiva de los Consejos de Participación Ciudadana, y tendrá las siguientes responsabilidades y atribuciones:
+La persona Titular de la Secretaría Ejecutiva será designada por la Titular de la Presidencia Honoraria de la Junta Directiva de los Consejos de Participación Ciudadana, y tendrá las responsabilidades y atribuciones siguientes:
 
 A) EN LA JUNTA DIRECTIVA
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 I. Realizar las gestiones para la obtención de los recursos y apoyos institucionales, para el desempeño de sus funciones;
 
-II. Proponer y acordar con el Presidente Ejecutivo de la Junta Directiva la calendarización anual de las sesiones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-III. Proponer y acordar con el Presidente Ejecutivo de la Junta Directiva el orden del día de las sesiones;
+II. Proponer y acordar con la persona Titular de la Presidencia Ejecutiva de la Junta Directiva la calendarización anual de las sesiones;
 
-IV. Convocar a las sesiones por instrucción del Presidente Honorario o del Presidente Ejecutivo a las Sesiones, notificando a los integrantes por lo menos con tres días hábiles de anticipación, dando a conocer lugar, día, hora y orden del día;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. Proponer y acordar con la persona Titular de la Presidencia Ejecutiva de la Junta Directiva el orden del día de las sesiones;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Convocar a las sesiones por instrucción de la persona Titular de la Presidencia Honoraria o de la Presidencia Ejecutiva, a las sesiones, notificando a las personas integrantes por lo menos con tres días hábiles de anticipación, dando a conocer lugar, día, hora y orden del día;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 V. Participar en todas las sesiones, con voz pero sin voto, integrando y resguardando el archivo de las mismas;
 
-VI. Asistir al Presidente Honorario y al Ejecutivo en las sesiones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Levantar acta de la sesión que contendrá de manera sucinta los acuerdos tomados, en el formato registrado por la Contraloría Municipal, y circular dicha acta a los integrantes, dentro de los veinte días posteriores;
+VI. Asistir a la persona Titular de la Presidencia Honoraria y Ejecutiva en las sesiones;
 
-VIII. Dar fe de los acuerdos, del contenido de las actas y de las resoluciones que se tomen en las sesiones, firmándolas en conjunto con el Presidente Ejecutivo;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Levantar acta de la sesión que contendrá de manera sucinta los acuerdos tomados, en el formato registrado por la Contraloría, y circular para el conocimiento de las personas integrantes la Junta Directiva dicha acta, dentro de los veinte días naturales posteriores;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Dar fe de los acuerdos, del contenido de las actas y de las resoluciones que se tomen en las sesiones, firmándolas en conjunto con la persona Titular de la Presidencia Ejecutiva;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 IX. Elaborar el formato por medio del cual todos los Consejos de Participación Ciudadana deberán remitir a la Junta Directiva los informes anuales y especiales;
 
-X. Entregar el informe anual en el mes de enero, a los Presidentes de los Consejos de Participación Ciudadana y a los integrantes del Cabildo Municipal;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+X. Entregar el informe anual en el mes de enero, a las personas Titulares de las Presidencias de los Consejos de Participación Ciudadana y a las integrantes del Cabildo Municipal;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 XI. Informar en las sesiones el seguimiento de los acuerdos y asuntos en general;
 
-XII. Recabar y computar los votos de los integrantes, emitidos en las sesiones señaladas en este articulo;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Recabar y computar los votos de las personas integrantes, emitidos en las sesiones señaladas en este artículo;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 XIII. Publicar las convocatorias aprobadas por la Junta Directiva;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 XIV. Resguardar, conservar y actualizar el archivo de la Junta Directiva, de conformidad con lo establecido en las disposiciones aplicables al Archivo Municipal, y
 
-XV. Gestionar la elaboración y entrega de credenciales de identificación como Consejeros de Participación Ciudadana, signadas por el Presidente Honorario, dentro de un plazo de 60 días a su designación como consejero.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Gestionar la elaboración y entrega de credenciales de identificación como Persona Consejera, signadas por la persona Titular de la Presidencia Honoraria, dentro de un plazo de sesenta días a su designación como persona Consejera y resguardar los nombramientos de todas las personas integrantes de los Consejos de Participación Ciudadana.
 
 B) EN LA COMISIÓN EJECUTIVA
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 I. Realizar las gestiones para la obtención de los recursos y apoyos institucionales, para el desempeño de sus funciones;
 
-II. Proponer y acordar con el Presidente Ejecutivo la calendarización anual de las sesiones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-III. Proponer y acordar con el Presidente Ejecutivo el orden del día de las sesiones;
+II. Proponer y acordar con la persona Titular de la Presidencia Ejecutiva la calendarización anual de las sesiones;
 
-IV. Convocar, por instrucción del Presidente Ejecutivo, a las Sesiones, notificando a los integrantes por lo menos con tres días hábiles de anticipación, dándoles a conocer lugar, día, hora y orden del día;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. Proponer y acordar con la persona Titular de la Presidencia Ejecutiva el orden del día de las sesiones;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Convocar, por instrucción de la persona Titular de la Presidencia Ejecutiva, a las sesiones, notificando a las integrantes por lo menos con tres días hábiles de anticipación, dándoles a conocer lugar, día, hora y orden del día;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 V. Participar en todas las sesiones, con voz pero sin voto, integrando y resguardando el archivo de las mismas;
 
-VI. Asistir al Presidente Ejecutivo en las sesiones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Levantar acta sucinta, en la que precise los acuerdos tomados de cada sesión, en el formato aprobado por Contraloría Municipal y circular dicha acta a los integrantes, dentro de los veinte días posteriores;
+VI. Asistir a la persona Titular de la Presidencia Ejecutiva en las sesiones;
 
-VIII. Dar fe de los acuerdos, del contenido de las actas y de las resoluciones que se tomen en las sesiones, firmándolas en conjunto con el Presidente Ejecutivo;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IX. Presentar a consideración y a aprobación del Presidente Ejecutivo, el proyecto del informe anual que se expondrá ante el pleno de la Junta Directiva;
+VII. Levantar acta sucinta, en la que precise los acuerdos tomados de cada Sesión, en el formato aprobado por Contraloría, y circular dicha acta para el conocimiento de las personas integrantes, dentro de los veinte días naturales posteriores a su celebración;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Dar fe de los acuerdos, del contenido de las actas y de las resoluciones que se tomen en las sesiones, firmándolas en conjunto con la persona Titular de la Presidencia Ejecutiva;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Presentar a consideración y a aprobación de la persona Titular de la Presidencia Ejecutiva, el proyecto del informe anual que se expondrá ante el pleno de la Junta Directiva;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 X. Informar en las sesiones el curso que sigan los acuerdos y asuntos en general;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 XI. Recabar y computar los votos de los integrantes, emitidos en las sesiones;
 
-XII. Resguardar, conservar y actualizar el archivo de la Comisión Ejecutiva, de conformidad con lo establecido en las disposiciones aplicables al Archivo Municipal;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Remitir semestralmente al Consejero de Vigilancia de la Comisión Ejecutiva, informe respecto al número de sesiones realizadas y de Consejeros asistentes de cada Consejo de Participación Ciudadana;
+XII. Resguardar, conservar y actualizar el archivo de la Comisión Ejecutiva, de conformidad con lo establecido en las disposiciones aplicables al Archivo Municipal; remitiendo copia a la Secretaria Ejecutiva.
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Remitir semestralmente a la persona Titular de la Consejería de Vigilancia de la Comisión Ejecutiva, informe respecto al número de sesiones realizadas y de las personas Consejeras asistentes de cada Consejo de Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 XIV. Realizar las gestiones y acciones necesarias para la impartición de cursos de inducción y actualización que acuerde la Comisión Ejecutiva, y
 
-XV. Llevar el registro de asistencia y participación de los Consejeros de Participación Ciudadana, en los cursos de inducción y actualización.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Llevar el registro de asistencia y participación de las personas Consejeras de Participación Ciudadana, en los cursos de inducción y actualización.
 
 C) EN LOS CONSEJOS DE PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 I. Realizar todas las acciones logísticas para la celebración de las sesiones;
 
-II. Enviar la convocatoria que cada Consejo emita para las sesiones, notificando a los integrantes de los mismos, por lo menos con tres días hábiles de anticipación, dándoles a conocer lugar, día, hora y orden del día;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Enviar la convocatoria que cada Consejo emita para las sesiones, notificando a las personas integrantes de estos, por lo menos con tres días hábiles de anticipación, dándoles a conocer lugar, día, hora y orden del día;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 III. Recabar de cada Consejo, lista de asistencia y acta de la sesión realizada, para su integración al archivo de cada uno y notificar a la Comisión Ejecutiva.;
 
-IV. Integrar el expediente de cada uno de los Consejeros y mantener actualizado el directorio de los mismos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-V. Mantener actualizado el padrón de Consejeros, con documentos probatorios en los cuales se acredite el periodo y su representación;
+IV. Integrar el expediente de cada una de las personas Consejeras y mantener actualizado el directorio de estos; haciendo llegar una copia del mismo a la secretaria ejecutiva;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Mantener actualizado el padrón de las personas Consejeras, con documentos probatorios en los cuales se acredite el periodo y su representación;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VI. Entablar comunicación continua con los organismos, asociaciones e instituciones integrantes de los Consejos de Participación Ciudadana;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 VII. Asistir a las sesiones de los Consejos de Participación Ciudadana, pudiendo designar un representante de la Secretaria Ejecutiva, y
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VIII. Las demás que le confiera el presente Capítulo.
 
@@ -2001,115 +2407,193 @@ DE LOS CONSEJOS DE PARTICIPACIÓN CIUDADANA
 
 Los Consejos de Participación Ciudadana son por su naturaleza jurídica órganos de consulta, promoción y gestión ciudadana; encargados de promover los mecanismos de participación ciudadana y colaboración de los habitantes del Municipio y proponer la creación o modificación de acciones y programas.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 178.
 
-Los Consejos de Participación Ciudadana serán los que establece la Ley Orgánica Municipal, así como los creados por acuerdo en Sesión de Cabildo y conforme a su naturaleza podrán interrelacionarse con las dependencias afines, que de manera enunciativa y no limitativa son los siguientes:
+Los Consejos de Participación Ciudadana serán los que establece la Ley Orgánica Municipal, así como los creados por acuerdo por el Ayuntamiento y conforme a su naturaleza podrán interrelacionarse con las Dependencias afines, que de manera enunciativa y no limitativa son los siguientes:
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 I. Consejo de Participación Ciudadana de Bienestar Animal;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 II. Consejo de Participación Ciudadana de Centro Histórico y Patrimonio Edificado;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 III. Consejo de Participación Ciudadana de Cultura;
 
-IV. Consejo de Participación Ciudadana de Deporte;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Consejo de Participación Ciudadana de Combate a la Corrupción;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 V. Consejo de Participación Ciudadana de Derechos Humanos e Igualdad entre Géneros;
 
-VI. Consejo de Participación Ciudadana de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Consejo de Participación Ciudadana de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VII. Consejo de Participación Ciudadana de Desempeño Gubernamental;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 VIII. Consejo de Participación Ciudadana para la Discapacidad;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 IX. Consejo de Participación Ciudadana de Ecología y Medio Ambiente;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 X. Consejo de Participación Ciudadana de Educación;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 XI. Consejo de Participación Ciudadana de Juventud;
 
-XII. Consejo de Participación Ciudadana de Obras y Servicios Públicos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Consejo de Participación Ciudadana de Igualdad Sustantiva de Género;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 XIII. Consejo de Participación Ciudadana para Personas en Situación de Vulnerabilidad;
 
-XIV. Consejo de Participación Ciudadana de Protección Civil;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XV. Consejo de Participación Ciudadana de Salud;
+XIV. Consejo de Participación Ciudadana de Movilidad;
 
-XVI. Consejo de Participación Ciudadana de Seguridad Pública;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XVII. Consejo de Participación Ciudadana de Turismo;
+XV. Consejo de Participación Ciudadana de Obras y Servicios Públicos;
 
-XVIII. Consejo de Participación Ciudadana de Vialidad y Transporte, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XIX. Los demás que se determinen de conformidad al procedimiento establecido en el presente Capítulo.
+XVI. Consejo de Participación Ciudadana para Personas en Situación de Vulnerabilidad;
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Consejo de Participación Ciudadana de Protección Civil;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Consejo de Participación Ciudadana de Salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIX. Consejo de Participación Ciudadana de Seguridad Pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Consejo de Participación Ciudadana de Turismo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Consejo de Participación Ciudadana de Vialidad y Transporte; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIX], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Los demás que se determinen de conformidad al procedimiento establecido en el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 179.
 
-Los Consejos de Participación Ciudadana se crean, modifican o extinguen en función de las necesidades propias del Municipio, a propuesta de la Comisión Ejecutiva o del Ayuntamiento, mediante acuerdo de Cabildo.
+Los Consejos de Participación Ciudadana se crean, modifican o extinguen en función de las necesidades propias del Municipio, a propuesta de la Comisión Ejecutiva o del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 180.
 
-Son atribuciones de los Consejos de Participación Ciudadana:
+Son atribuciones de los Consejos de Participación Ciudadana, las siguientes:
 
-I. Opinar para el cumplimiento eficaz de los programas aprobados en Sesión de Cabildo y por las Dependencias y Entidades, y en su caso emitir las recomendaciones que consideren pertinentes al Ayuntamiento;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+I. Opinar para el cumplimiento eficaz de los programas aprobados por el Ayuntamiento, las Dependencias y Entidades, y en su caso emitir las recomendaciones que consideren pertinentes al Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 II. Promover y difundir las acciones del Consejo de Participación Ciudadana y fomentar entre la comunidad la Cultura de Legalidad y de Participación Ciudadana;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 III. Contribuir en las tareas de asistencia social, cuando así se les requiera;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 IV. Promover la participación y colaboración de los habitantes del Municipio, en todos los aspectos de beneficio social;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 V. Recibir las opiniones y requerimientos de la ciudadanía interesada en los asuntos municipales y canalizarlas a la Dependencia y Entidades correspondientes;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VI. Realizar estudios y proponer al Ayuntamiento, programas, estrategias, proyectos, sistemas y acciones de mejoramiento de la Administración Municipal;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 VII. Elaborar y aprobar su programa anual de trabajo;
 
-VIII. Solicitar por escrito la contestación a las propuestas, quejas y peticiones turnadas al Gobierno Municipal, en los términos que establece la ley;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Solicitar por escrito la contestación a las propuestas, quejas y peticiones turnadas a las Dependencias y Entidades, en los términos que establece la ley;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 IX. Proponer a las Comisiones Permanentes o Transitorias del Ayuntamiento, por conducto de la Comisión Ejecutiva, la formación o extinción de los Consejos de Participación Ciudadana;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 X. Establecer canales de comunicación y colaboración con los sectores de la sociedad, así como con otras instancias de participación ciudadana existentes;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 XI. Participar y Promover reuniones, seminarios, congresos y otro tipo de eventos de interés ciudadano, en coordinación con las Dependencias y Entidades de la Administración o aquellas Comisiones permanentes o transitorias del Ayuntamiento que tengan competencias sobre el particular;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 XII. Promover la publicación y difusión de acciones y servicios del Ayuntamiento, y
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 XIII. Las demás que le confiera el Ayuntamiento y la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 181.
 
-Los Consejos de Participación Ciudadana se integrarán por un mínimo de diez y máximo de quince Consejeros propietarios, quienes contarán con su respectivo suplente.
+Los Consejos de Participación Ciudadana se integrarán por un mínimo de diez y máximo de quince personas Consejeras propietarias, quienes contarán con su respectiva o respectivo suplente.
 
-Los Consejos de Participación Ciudadana a solicitud del mismo, podrá (sic) integrar a más Consejeros, siempre y cuando cuenten con la aprobación de la Comisión Ejecutiva.
+Los Consejos de Participación Ciudadana a solicitud de estos, podrá integrar a más personas integrantes, siempre y cuando cuenten con la aprobación de la Comisión Ejecutiva.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 182.
 
-Con el fin de propiciar la Participación Ciudadana, el Secretario Ejecutivo deberá publicar una convocatoria en diversos medios de comunicación durante el mes de julio de cada año, dirigida a la sociedad, para la postulación de ciudadanos que deseen integrarse a partir del mes de agosto como Consejero de Participación Ciudadana.
+Con el fin de propiciar la Participación Ciudadana, la o el Secretario Ejecutivo deberá publicar una convocatoria en diversos medios de comunicación durante el mes de julio de cada año, dirigida a la sociedad, para la postulación de ciudadanas y ciudadanos que deseen integrarse como Persona Consejera.
 
-En cualquier momento un ciudadano podrá integrarse a un Consejo de Participación Ciudadana previo cumplimiento de los requisitos establecidos en este Capítulo y la aceptación de los miembros del Consejo de Participación Ciudadana que se trate.
+En cualquier momento la ciudadanía podrá integrarse a un Consejo de Participación Ciudadana, previo cumplimiento de los requisitos establecidos en este Capítulo y la aceptación de las personas a integrarse en el Consejo de Participación Ciudadana que se trate.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 183.
 
-En cada una de las sesiones de los Consejos de Participación Ciudadana podrán asistir los Regidores del Ayuntamiento; asimismo, los Secretarios o Directores de las Dependencias y Entidades de la Administración asistirán de manera obligatoria, cuando sean convocados por escrito quienes participarán con voz pero sin voto.
+En cada una de las sesiones de los Consejos de Participación Ciudadana podrán asistir las y los Regidores del Ayuntamiento; asimismo, las personas Titulares de las Dependencias y Entidades, y de las Direcciones o unidades administrativas homólogas, asistirán de manera obligatoria, cuando sean convocadas por escrito, quienes participarán con voz, pero sin voto en las sesiones.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 184.
 
-Los Consejos de Participación Ciudadana para cumplir con su objeto, integrarán las comisiones que fuesen necesarias, designando un Coordinador que sea el responsable de la misma.
+Los Consejos de Participación Ciudadana para cumplir con su objeto, integrarán las Comisiones que fuesen necesarias, designando a una persona responsable de su coordinación.
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
 Las Comisiones deberán informar y desarrollar los trabajos encomendados, dentro de los plazos que al efecto se señalen.
 
@@ -2119,103 +2603,167 @@ Las Comisiones deberán informar y desarrollar los trabajos encomendados, dentro
 
 Los Consejos de Participación Ciudadana tendrán una Mesa Directiva, conformada por:
 
-I. Un Consejero Presidente;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. Un Consejero Secretario, y
+I. Una Persona Consejera Presidente;
 
-III. Un Consejero de Vigilancia.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Las Mesas Directivas se renovarán a la mitad del periodo de la administración pública municipal, salvo renuncia de alguno de sus integrantes, debiendo designarse de conformidad a su procedimiento.
+II. Una Persona Consejera Secretaria, y
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. Una Persona Consejera de Vigilancia.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Las Mesas Directivas se renovarán a la mitad del periodo de la administración pública municipal, salvo renuncia de alguna o alguno de sus integrantes, debiendo designarse de conformidad a su procedimiento.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 186.
 
-El Consejero Presidente será elegido mediante voto directo de entre los Consejeros presentes el día de la elección, la cual se efectuará en sesión extraordinaria, en presencia del Secretario Ejecutivo y en ningún caso podrá estar presente funcionario público alguno. En caso de empate se realizará una segunda ronda de votación.
+La Persona Consejera Presidente será elegida mediante voto directo de entre las Consejeras presentes el día de la elección, la cual se efectuará en sesión extraordinaria, en presencia de la o el Secretario Ejecutivo y en ningún caso podrá estar presente funcionaria o funcionario público alguno. En caso de empate se realizará una segunda ronda de votación.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 187.
 
-Una vez electo el Consejero Presidente de cada Consejo de Participación Ciudadana, éste en la misma sesión, propondrá al Consejero Secretario y al Consejero de Vigilancia de entre los miembros, los cuales serán aprobados por mayoría.
+Una vez electa la Persona Consejera Presidente de cada Consejo de Participación Ciudadana, en la misma sesión, propondrá a la Consejera Secretaria y a la Consejera de Vigilancia de entre los integrantes, las que serán aprobadas por mayoría.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 188.
 
-Para ser Consejero Presidente, se requiere:
+Para ser Persona Consejera Presidente, se requiere cumplir con los requisitos siguientes:
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 I. Contar con una antigüedad mínima de un año como miembro del Consejo de Participación Ciudadana, salvo en el caso de Consejo de Participación Ciudadana de nueva creación, y
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 II. Contar con al menos nueve asistencias a las sesiones ordinarias, durante el año a que se hace referencia en la fracción anterior.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 189.
 
-Son responsabilidades y atribuciones de los Consejeros Presidentes de cada Consejo de Participación Ciudadana:
+Son responsabilidades y atribuciones de las Personas Consejeras Presidentas de cada Consejo de Participación Ciudadana las siguientes:
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 I. Representar al Consejo de Participación Ciudadana que preside ante la Junta Directiva, Comisión Ejecutiva e Instituciones Públicas y Privadas;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 II. Presidir las sesiones del Consejo de Participación Ciudadana y declarar el quórum legal;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 III. Dirigir y vigilar la realización de actividades inherentes al área del Consejo de Participación Ciudadana que representa y las encomendadas por el mismo;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 IV. Conservar el orden en las sesiones;
 
-V. Conceder el uso de la palabra a los Consejeros e invitados a las sesiones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Someter a consideración las propuestas de los miembros del Consejo de Participación Ciudadana y una vez votadas se tomen como acuerdos que emita el Consejo Ciudadano que preside;
+V. Conceder el uso de la palabra a las Personas Consejeras y, a las y los invitados a las sesiones;
 
-VII. Solicitar la realización y exposición de estudios e investigaciones encomendadas a los Consejeros Ciudadanos a través de las diferentes Comisiones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Someter a consideración las propuestas de los integrantes del Consejo de Participación Ciudadana y una vez votadas se tomen como acuerdos que emita el Consejo Ciudadano que preside;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Solicitar la realización y exposición de estudios e investigaciones encomendadas a las Personas Consejeras a través de las diferentes Comisiones;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VIII. Elaborar un programa anual de trabajo, y someterlo a la aprobación del Consejo de Participación Ciudadana al que pertenece, debiendo turnarlo a la Comisión Ejecutiva para su conocimiento y seguimiento;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 IX. Presentar a la Comisión Ejecutiva un informe anual de trabajo de su Consejo de Participación Ciudadana, al menos veinte días hábiles antes de la presentación del informe anual general;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 X. Informar a la Comisión Ejecutiva los acuerdos que consideren relevantes, y
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 XI. Las demás que le confiera el Ayuntamiento y el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 190.
 
-Son responsabilidades y atribuciones de los Consejeros Secretarios de la Mesa Directiva, las siguientes:
+Son responsabilidades y atribuciones de las Personas Consejeras Secretarias de la Mesa Directiva, las siguientes:
 
-I. Auxiliar al Consejero Presidente en las actividades propias del Consejo;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. Suplir al Consejero Presidente cuando no pueda asistir a las sesiones o eventos;
+I. Auxiliar a la Persona Consejera Presidente en las actividades propias del Consejo;
 
-III. Presentar y acordar con el Consejero Presidente, el proyecto de orden del día de las sesiones;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Suplir a la Persona Consejera Presidente cuando no pueda asistir a las sesiones o eventos;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. Presentar y acordar con la Persona Consejera Presidente, el proyecto de orden del día de las sesiones;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 IV. Enviar a la Secretaría Ejecutiva al menos con tres días hábiles de anticipación, lugar, día, hora y orden del día de la sesión de que se trate, para que ésta, remita la convocatoria de las sesiones;
 
-V. Levantar acta de la sesión que contendrá de manera sucinta los acuerdos tomados, en el formato registrado por la Contraloría Municipal, en un plazo no mayor de 10 días naturales para su revisión y aprobación en la siguiente sesión. Una vez aprobada recabar las firmas correspondientes;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Firmar junto con el Consejero Presidente los acuerdos, actas y resoluciones que emita el propio Consejo de Participación Ciudadana;
+V. Levantar acta de la sesión que contendrá de manera sucinta los acuerdos tomados, en el formato registrado por la Contraloría, en un plazo no mayor de 10 días naturales para su revisión y aprobación en la siguiente sesión. Una vez aprobada recabar las firmas correspondientes;
 
-VII. Integrar y actualizar el directorio de los miembros del Consejo de Participación Ciudadana conjuntamente con la Secretaria Ejecutiva;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Firmar junto con la Persona Consejera Presidente los acuerdos, actas y resoluciones que emita el propio Consejo de Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Integrar y actualizar el directorio de las personas integrantes del Consejo de Participación Ciudadana en colaboración con la Secretaria Ejecutiva;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VIII. Informar en las sesiones del Consejo de Participación Ciudadana, el curso que sigan los acuerdos y asuntos en general;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 IX. Recabar y computar los votos de los integrantes del Consejo, emitidos en las sesiones;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 X. Mantener comunicación continúa con los organismos e instituciones representadas en el Consejo de Participación Ciudadana;
 
-XI. Informar al Consejo de Participación Ciudadana del procedimiento para el reconocimiento para Consejeros Destacados, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Informar al Consejo de Participación Ciudadana del procedimiento para el reconocimiento de las Personas Consejeras destacados; y
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 XII. Las demás que le confiera el presente Capítulo.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 191.
 
-Son funciones de los Consejeros de Vigilancia de las Mesas Directivas, las siguientes:
+Son funciones de las Personas Consejeras de Vigilancia de las Mesas Directivas, las siguientes:
 
-I. Revisar conjuntamente con la Secretaría Ejecutiva, la documentación de los ciudadanos propuestos a Consejeros para su validación por el Consejo de Participación Ciudadana e informar a la Comisión Ejecutiva;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+I. Revisar en colaboración con la Secretaría Ejecutiva, la documentación de las y los ciudadanos propuestos como Personas Consejeras para su validación por el Consejo de Participación Ciudadana e informar a la Comisión Ejecutiva;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 II. Elaborar y rendir un informe anual sobre sus actividades y los informes que solicite el Gobierno Municipal, su Consejo de Participación Ciudadana y la Comisión Ejecutiva, y
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 III. Las demás que le confieran las disposiciones aplicables.
 
@@ -2223,65 +2771,85 @@ III. Las demás que le confieran las disposiciones aplicables.
 
 DE LAS SESIONES
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 192.
 
-Las sesiones de los Consejos de Participación Ciudadana serán públicas y desahogadas por el Consejero Presidente del mismo.
+Las sesiones de los Consejos de Participación Ciudadana serán públicas y desahogadas por la o el Consejero Presidente que corresponda.
 
-Los Consejos de Participación Ciudadana sesionarán en las instalaciones del Instituto Municipal de Planeación, o en su caso, por acuerdo del Consejo de Participación Ciudadana, el Secretario Ejecutivo gestionará ante las Dependencias y Entidades de la Administración, los espacios e insumos necesarios para que sesionen adecuadamente donde determinen.
+Los Consejos de Participación Ciudadana sesionarán en las instalaciones del Instituto Municipal de Planeación, o en su caso, por acuerdo del Consejo de Participación Ciudadana, la o el Secretario Ejecutivo gestionará ante las Dependencias y Entidades de la Administración, los espacios e insumos necesarios para que sesionen adecuadamente donde determinen.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 193.
 
-Las sesiones de los Consejos de Participación Ciudadana tendrán el carácter de:
+Las sesiones de los Consejos de Participación Ciudadana tendrán el carácter siguiente:
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 I. Ordinaria: se realiza por lo menos una vez al mes, y
 
-II. Extraordinaria: cuando la convoque el Consejero Presidente o más del cincuenta por ciento de sus integrantes, dicha solicitud deberá hacerse por escrito al Secretario Ejecutivo para la convocatoria.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+II. Extraordinaria: cuando la convoque la Persona Consejera Presidente o más del cincuenta por ciento de sus integrantes, dicha solicitud deberá hacerse por escrito a la Secretaria Ejecutiva para la convocatoria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 194.
 
-Las sesiones Ordinarias de los Consejos de Participación Ciudadana se llevarán a cabo de la siguiente manera:
+Las sesiones ordinarias de los Consejos de Participación Ciudadana se llevarán a cabo de acuerdo con el orden siguiente:
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 I. Lista de asistencia, declaratoria del quórum legal, que se cumplirá con la presencia del cincuenta por ciento más uno de los miembros acreditados y apertura de la sesión;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 II. Lectura, discusión y aprobación en su caso, del orden del día;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 III. Lectura y aprobación en su caso, del acta de la sesión anterior;
 
-IV. Informe del Consejero Secretario, de los asuntos, acuerdos y comunicaciones de autoridades y escritos de particulares;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Informe de la Persona Consejera Secretaria, de los asuntos, acuerdos y comunicaciones de autoridades y escritos de particulares;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 V. Desahogo de los asuntos listados en la orden del día;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 VI. Asuntos Generales;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VII. Recapitulación de acuerdos tomados durante la sesión, propuesta de algunos puntos a tratar en la siguiente sesión, y
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 VIII. Cierre de sesión.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 195.
 
-El Consejero Presidente será el moderador en las discusiones relativas al orden del día, concederá el uso de la palabra y tendrá la obligación de cuidar el orden, considerando las medidas necesarias para que éste se establezca.
+La Persona Consejera Presidente será el moderador en las discusiones relativas al orden del día, concederá el uso de la palabra y tendrá la obligación de cuidar el orden, considerando las medidas necesarias para que éste se establezca.
 
-A falta del Consejero Presidente o al ausentarse, la sesión será presidida por el Consejero Secretario.
+A falta de la Persona Consejera Presidente o al ausentarse, la sesión será presidida por la Consejera Secretaria.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 196.
 
-El Consejero Secretario, tomará nota del desarrollo de la sesión y terminada ésta, procederá a elaborar el acta sucinta correspondiente.
+La Persona Consejera Secretaria, tomará nota del desarrollo de la sesión y terminada ésta, procederá a elaborar el acta sucinta correspondiente, remitiéndola para su revisión a la Secretaría Ejecutiva.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 197.
 
-Si pasados treinta minutos de la hora señalada para el inicio de la sesión, no hubiera el número suficiente de miembros del Consejo de Participación Ciudadana respectivo para integrar el quórum legal, dicha sesión se dará por no realizada; debiendo el Consejero Secretario levantar el acta circunstanciada y emitir otra convocatoria en los términos establecidos en este Capítulo.
+Si pasados treinta minutos de la hora señalada para el inicio de la sesión, no hubiera el número suficiente de integrantes del Consejo de Participación Ciudadana respectivo para integrar el quórum legal, dicha sesión se dará por no realizada; debiendo la Persona Consejera Secretaria levantar el acta circunstanciada y emitir otra convocatoria en los términos establecidos en este Capítulo.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
@@ -2289,45 +2857,49 @@ Si pasados treinta minutos de la hora señalada para el inicio de la sesión, no
 
 Los acuerdos, se tomarán por mayoría de votos, la votación se regirá con base en los siguientes aspectos:
 
-I. Solo tendrán derecho a voto, los Consejeros Propietarios;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. Los Consejeros suplentes, sólo podrán ejercer su voto, en ausencia del Consejero propietario, y
+I. Solo tendrán derecho a voto, las Personas Consejeras Propietarias;
 
-III. En caso de empate, el Consejero Presidente, tendrá voto de calidad.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+II. Las Personas Consejeras suplentes, sólo podrán ejercer su voto, en ausencia de la Consejera Propietaria; y
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. En caso de empate, la Persona Consejera Presidente, tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 199.
 
-En caso de votación secreta, el Consejero Presidente en funciones propondrá de entre los Consejeros acreditados a dos escrutadores, para el conteo de votos, procediendo a enterar al Secretario para que informe el resultado.
+En caso de votación secreta, la Persona Consejera Presidenta en funciones propondrá de entre las personas Consejeras acreditados a dos escrutadoras, para el conteo de votos, procediendo a enterar a la Secretaria para que informe el resultado.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 200.
 
-Los Consejos de Participación Ciudadana podrán llevar a cabo sesiones conjuntas con otros Consejos, previo acuerdo de los Consejeros Presidentes respectivos, mismas que serán presididas por el convocante.
+Los Consejos de Participación Ciudadana podrán llevar a cabo sesiones conjuntas con otros Consejos, previo acuerdo de las Personas Consejeras Presidentas respectivas, mismas que serán presididas por el convocante.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 201.
 
-La exposición de los trabajos, en la Junta Directiva y la Comisión Ejecutiva, tendrán una duración máxima de quince minutos, los comentarios se limitarán a tres minutos por Consejero Presidente y el ponente dispondrá de tres minutos para contestar los comentarios.
-
-Las intervenciones realizadas en el Consejo de Participación Ciudadana no estarán sujetas a dicha restricción.
+La exposición de los trabajos, en la Junta Directiva y la Comisión Ejecutiva, tendrán una duración máxima de quince minutos, los comentarios se limitarán a tres minutos por la persona Consejera Presidente y la ponente dispondrá de tres minutos para contestar los comentarios. Las intervenciones realizadas en el Consejo de Participación Ciudadana no estarán sujetas a dicha restricción.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
 DE LAS FALTAS Y SANCIONES
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 202.
 
-La falta injustificada de un Consejero Ciudadano, a más de cuatro sesiones ordinarias en el transcurso del año o tres sesiones consecutivas, serán causa de destitución, entrando en función el suplente.
+La falta injustificada de una Persona Consejera, a más de cuatro sesiones ordinarias en el transcurso del año o tres sesiones consecutivas, será causa de destitución, entrando en función el suplente.
 
-La falta injustificada de cualquier integrante de la Comisión Ejecutiva a más de cuatro sesiones ordinarias en el transcurso del año o tres sesiones consecutivas, será causa de destitución, supliéndolo interinamente el Consejero Secretario de su Consejo de Participación Ciudadana, hasta en tanto no se elija a un nuevo Consejero Presidente.
+La falta injustificada de cualquier integrante de la Comisión Ejecutiva a más de cuatro sesiones ordinarias en el transcurso del año o tres sesiones consecutivas será causa de destitución, supliéndolo interinamente la Persona Consejera Secretaria de su Consejo de Participación Ciudadana, hasta en tanto no se elija a una Consejera Presidenta.
 
-La asistencia de un suplente será válida para efectos del quórum legal de la sesión pero no contará como asistencia del Consejero titular, en ambos casos.
+La asistencia de una o un suplente será válida para efectos del quórum legal de la sesión, pero no contará como asistencia de la Persona Consejera Titular, en ambos casos.
 
 > <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
@@ -2343,29 +2915,49 @@ III. Suspensión del cargo, y
 
 IV. Separación del cargo.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 204.
 
-Los Consejeros Ciudadanos podrán ser sancionados, en cualquiera de los casos siguientes:
+Las Personas Consejeras podrán ser sancionadas, en cualquiera de los casos siguientes:
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 I. No desarrollar los trabajos encomendados, dentro de los plazos que les hayan sido señalados;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 II. La inasistencia injustificada a las sesiones,
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 III. La inasistencia injustificada a los actos, reuniones o cualquier otro evento al que asistan en representación del Consejo Ciudadano;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 IV. Ocultar o no proporcionar información que sea necesaria para los fines de su Consejo de Participación Ciudadana;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 V. Hacer uso indebido de información de la Junta Directiva, Comisión Ejecutiva o de los Consejos de Participación Ciudadana;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 VI. Exceder sin justificación el término para el goce de la licencia a la que se refiere el presente capítulo;
 
-VII. Realizar cualquier actividad de proselitismo político, a favor o en contra de algún partido o candidato a cargo de elección popular, utilizando el cargo de Consejero Ciudadano;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Realizar cualquier actividad de proselitismo político, a favor o en contra de algún partido o candidato a cargo de elección popular, utilizando el cargo de Persona Consejero Ciudadana;
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 VIII. Firmar algún documento que comprometa a un Consejo de Participación Ciudadana, o en su caso, a la Comisión Ejecutiva, sin previa autorización;
 
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
 IX. Representar o emitir opinión en nombre de algún Consejo de Participación Ciudadana o de la Comisión Ejecutiva sin previa anuencia, y
+
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
 
 X. El incumplimiento a las obligaciones y atribuciones establecidas en el presente Capítulo.
 
@@ -2375,19 +2967,11 @@ X. El incumplimiento a las obligaciones y atribuciones establecidas en el presen
 
 ## TITULO II. DE LA JUSTICIA Y SEGURIDAD MUNICIPAL
 
-### CAPÍTULO 10. TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL
+### CAPÍTULO 9. POLICÍA Y GOBIERNO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE PARTE, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+DISPOSICIONES GENERALES
 
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
-
-PARTE I
-
-REGLAS DE LOS USUARIOS DE LA VÍA PÚBLICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE JULIO DE 2021)</small>
 
 ###### Artículo 206.
 
@@ -4223,9 +4807,19 @@ En contra de las determinaciones que realice la Jueza o Juez de Justicia Cívica
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2015)</small>
 
-### CAPÍTULO 11. PROTECCIÓN CIVIL MUNICIPAL
+### CAPÍTULO 10. TRÁNSITO MUNICIPAL, MOVILIDAD Y SEGURIDAD VIAL
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE PARTE, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
+
+PARTE I
+
+REGLAS DE LOS USUARIOS DE LA VÍA PÚBLICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2015)</small>
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
@@ -7297,9 +7891,7 @@ En caso de duda, se faculta al Presidente Municipal para la interpretación de l
 
 (DEROGADO, P.O. 2 DE MARZO DE 2015)
 
-### CAPÍTULO 12. ESPECTÁCULOS PÚBLICOS
-
-DISPOSICIONES GENERALES
+### CAPÍTULO 11. PROTECCIÓN CIVIL MUNICIPAL
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -8411,9 +9003,11 @@ El Programa Municipal de Protección Civil del Municipio de Puebla y sus respect
 
 ## TÍTULO I. DE LOS ESPECTÁCULOS EN EL MUNICIPIO DE PUEBLA
 
-### CAPÍTULO 13. ESPECTACULOS TAURINOS
+### CAPÍTULO 12. ESPECTÁCULOS PÚBLICOS
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 ###### Artículo 474.
 
@@ -8983,11 +9577,9 @@ VII. Evitar la obstrucción de pasillos, puertas y escaleras con mercancías u o
 
 VIII. Las demás que determinen las disposiciones legales y reglamentarias aplicables.
 
-### CAPÍTULO 14. VENTA DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE PUEBLA
+### CAPÍTULO 13. ESPECTACULOS TAURINOS
 
 DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 493.
 
@@ -10113,9 +10705,11 @@ En todo lo no previsto en el presente Capítulo se aplicarán de manera supletor
 
 ## TÍTULO II. DE LA ACTIVIDAD COMERCIAL
 
-### CAPÍTULO 15. ESTABLECIMIENTOS DE GIROS COMERCIALES AUTORIZADOS
+### CAPÍTULO 14. VENTA DE BEBIDAS ALCOHÓLICAS EN EL MUNICIPIO DE PUEBLA
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2023)</small>
 
 ###### Artículo 601.
 
@@ -10893,9 +11487,9 @@ Contra cualquier acto de las autoridades fiscales municipales encargadas de la a
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2006)</small>
 
-### CAPÍTULO 15 BIS. DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS
+### CAPÍTULO 15. ESTABLECIMIENTOS DE GIROS COMERCIALES AUTORIZADOS
 
-> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 #### SECCIÓN I. DISPOSICIONES GENERALES
 
@@ -11593,13 +12187,9 @@ Lugar: Paseo Bravo y Seminario Palafoxiana.
 
 > <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO 16
+### CAPÍTULO 15 BIS. DE LA COMERCIALIZACIÓN DE PRODUCTOS CÁRNICOS Y/O SUBPRODUCTOS Y AVES MUERTAS
 
-COMERCIO AMBULANTE, SEMIFIJO, PRESTADORES AMBULANTES DE SERVICIOS Y ARTISTAS URBANOS EN LA VÍA PÚBLICA DEL MUNICIPIO DE PUEBLA.
-
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 639 Bis.
 
@@ -11907,9 +12497,13 @@ Artículo 639 Duovicies.- La autoridad sanitaria municipal, en caso de detectar 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE NOVIEMBRE DE 2018)</small>
 
-### CAPÍTULO 17. DE LA GESTIÓN DEL SUELO Y CONSTRUCCIONES
+### CAPÍTULO 16
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2017)</small>
+COMERCIO AMBULANTE, SEMIFIJO, PRESTADORES AMBULANTES DE SERVICIOS Y ARTISTAS URBANOS EN LA VÍA PÚBLICA DEL MUNICIPIO DE PUEBLA.
+
+DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2023)</small>
 
 ###### Artículo 640.
 
@@ -12513,13 +13107,9 @@ III. La reincidencia, si la hubiere.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2017)</small>
 
-### CAPÍTULO 18. ANUNCIOS
+### CAPÍTULO 17. DE LA GESTIÓN DEL SUELO Y CONSTRUCCIONES
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
-
-DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2017)</small>
 
 ## TÍTULO I. DISPOSICIONES GENERALES
 
@@ -20431,11 +21021,13 @@ RECURSO DE INCONFORMIDAD
 
 (DEROGADO, P.O. 10 DE ABRIL DE 2017)
 
-### CAPÍTULO 19. LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS
+### CAPÍTULO 18. ANUNCIOS
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 1253.
 
@@ -22963,9 +23555,11 @@ La imposición de la sanción a que se refiere el artículo anterior por la inob
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO 20. DE LOS MERCADOS MUNICIPALES
+### CAPÍTULO 19. LIMPIA, RECOLECCIÓN, TRASLADO, TRATAMIENTO Y DISPOSICIÓN FINAL DE RESIDUOS
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 1350.
 
@@ -24413,7 +25007,7 @@ MEDIOS DE IMPUGNACIÓN
 
 Los actos de la autoridad, derivados del cumplimiento del presente Capítulo, podrán ser recurridos a través del Recurso de Inconformidad, dispuesto en la Ley Orgánica Municipal.
 
-### CAPÍTULO 21. DE LA CENTRAL DE ABASTO DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 20. DE LOS MERCADOS MUNICIPALES
 
 DISPOSICIONES GENERALES
 
@@ -25091,7 +25685,7 @@ Para los efectos de este capítulo, será considerado como reincidente el comerc
 
 (DEROGADO, P.O. 29 DE AGOSTO DE 2008)
 
-### CAPÍTULO 22. PANTEONES
+### CAPÍTULO 21. DE LA CENTRAL DE ABASTO DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
 
@@ -25901,11 +26495,9 @@ II. Retiro del producto o mercancía, y se impedirá la entrada del vehículo po
 
 III. Retiro del producto y multa equivalente al valor diario de 5 unidades de medida y actualización, por invadir pasillos y zonas de circulación peatonal y vehicular.
 
-### CAPÍTULO 23. DEL SERVICIO PÚBLICO DEL RASTRO MUNICIPAL
+### CAPÍTULO 22. PANTEONES
 
 DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1528.
 
@@ -26671,11 +27263,11 @@ Contra las resoluciones de la Autoridad Municipal, derivadas de la aplicación d
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2007)</small>
 
-### CAPÍTULO 24. DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
+### CAPÍTULO 23. DEL SERVICIO PÚBLICO DEL RASTRO MUNICIPAL
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 17 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2007)</small>
 
 ###### Artículo 1617.
 
@@ -27595,13 +28187,11 @@ Contra de los actos emitidos por el Presidente Municipal o el Ayuntamiento, de l
 
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2007)</small>
 
-### CAPÍTULO 25. DEL ARCHIVO GENERAL MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 24. DEL SERVICIO PÚBLICO DE ESTACIONAMIENTO
 
 DISPOSICIONES GENERALES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2022)</small>
 
 ###### Artículo 1676.
 
@@ -28195,13 +28785,13 @@ El particular podrá impugnar los actos administrativos derivados de la aplicaci
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPÍTULO 26. DE DESARROLLO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL
-
-AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
+### CAPÍTULO 25. DEL ARCHIVO GENERAL MUNICIPAL DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 1688.
 
@@ -28757,7 +29347,11 @@ A fin de garantizar que al cambio de cada Administración Municipal se cuente co
 
 # LIBRO QUINTO. ECOLOGÍA
 
-### CAPÍTULO 27. PROTECCIÓN A LOS ANIMALES, PREVENCIÓN Y CONTROL DE LA ZOONOSIS
+### CAPÍTULO 26. DE DESARROLLO SUSTENTABLE EN MATERIA ECOLÓGICA Y PROTECCIÓN AL
+
+AMBIENTE NATURAL DEL MUNICIPIO DE PUEBLA
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2022)</small>
 
 DISPOSICIONES GENERALES
 
@@ -30861,9 +31455,9 @@ Las resoluciones dictadas por la autoridad Municipal con motivo de la aplicació
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2012)</small>
 
-### CAPÍTULO 28. DEL CONTROL PARA EL EXPENDIO DE PINTURAS EN AEROSOL Y
+### CAPÍTULO 27. PROTECCIÓN A LOS ANIMALES, PREVENCIÓN Y CONTROL DE LA ZOONOSIS
 
-SUBSTANCIAS CON EFECTOS TÓXICOS EN EL MUNICIPIO DE PUEBLA
+DISPOSICIONES GENERALES
 
 ###### Artículo 1831.
 
@@ -32485,9 +33079,9 @@ DEL RECURSO DE INCONFORMIDAD
 
 Las resoluciones dictadas en los procedimientos administrativos con motivo de la aplicación del presente Capítulo, podrán ser impugnadas, mediante el recurso de inconformidad previsto en la Ley Orgánica Municipal del Estado de Puebla.
 
-### CAPÍTULO 29. USO DE SUELO PARA ESTACIONES DE SERVICIO DE GAS LICUADO DE PETRÓLEO CON ALMACENAMIENTO FIJO DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 28. DEL CONTROL PARA EL EXPENDIO DE PINTURAS EN AEROSOL Y
 
-DISPOSICIONES GENERALES
+SUBSTANCIAS CON EFECTOS TÓXICOS EN EL MUNICIPIO DE PUEBLA
 
 ###### Artículo 1929.
 
@@ -33011,9 +33605,9 @@ I. En el caso de substancias tóxicas, a programas de protección a menores impl
 
 II. En el caso de pinturas en aerosol, al remozamiento de las fachadas afectadas con graffitis.
 
-### CAPÍTULO 30. JUBILACIONES Y PENSIONES A TRABAJADORES MUNICIPALES
+### CAPÍTULO 29. USO DE SUELO PARA ESTACIONES DE SERVICIO DE GAS LICUADO DE PETRÓLEO CON ALMACENAMIENTO FIJO DEL MUNICIPIO DE PUEBLA
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+DISPOSICIONES GENERALES
 
 ###### Artículo 1942.
 
@@ -33337,11 +33931,9 @@ TABLA NÚMERO UNO
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
-### CAPÍTULO 31. ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
+### CAPÍTULO 30. JUBILACIONES Y PENSIONES A TRABAJADORES MUNICIPALES
 
-DISPOSICIONES GENERALES
-
-DISPOSICIONES GENERALES
+> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
 
 ###### Artículo 1981.
 
@@ -33643,11 +34235,11 @@ Es imprescriptible e irrenunciable el derecho al otorgamiento de una jubilación
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
-### CAPÍTULO 32. SEGURO DE VIDA PARA LOS TRABAJADORES DEL AYUNTAMIENTO
+### CAPÍTULO 31. ESCALAFÓN DE LOS TRABAJADORES DE BASE DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
+DISPOSICIONES GENERALES
 
 ###### Artículo 1998.
 
@@ -34049,9 +34641,11 @@ Cadenero
 
 Los movimientos escalafonarios, serán operados tomando en cuenta el total del salario asignado a cada puesto y cada categoría en el tabulador correspondiente.
 
-### CAPÍTULO 33. DEL SERVICIO PROFESIONAL DE CARRERA
+### CAPÍTULO 32. SEGURO DE VIDA PARA LOS TRABAJADORES DEL AYUNTAMIENTO
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2007)</small>
 
 ###### Artículo 2036.
 
@@ -34249,13 +34843,9 @@ DE LOS DESCUENTOS Y PÓLIZAS
 
 (DEROGADO, P.O. 30 DE NOVIEMBRE DE 2007)
 
-### CAPÍTULO 34. ESPECTÁCULOS DE BOX Y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
+### CAPÍTULO 33. DEL SERVICIO PROFESIONAL DE CARRERA
 
 DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 2074.
 
@@ -34579,13 +35169,13 @@ Cuando por necesidades del servicio público se lleve a cabo una reestructuraci�
 
 > <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO 35. "DE LA MEJORA REGULATORIA"
+### CAPÍTULO 34. ESPECTÁCULOS DE BOX Y LUCHA LIBRE PARA EL MUNICIPIO DE PUEBLA
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2006)</small>
 
 ###### Artículo 2107.
 
@@ -36567,13 +37157,13 @@ No se considerará como sanción la cancelación de licencias expedidas a Boxead
 
 > <small>(ADICIONADO CON LOS TÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO 36. DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA
+### CAPÍTULO 35. "DE LA MEJORA REGULATORIA"
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE FEBRERO DE 2006)</small>
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 2015)</small>
 
 ###### Artículo 2245.
 
@@ -36961,11 +37551,13 @@ Los servidores públicos que infrinjan las disposiciones contenidas en el presen
 
 > <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
-### CAPÍTULO 37. DEL GOBIERNO DIGITAL
+### CAPÍTULO 36. DE LAS BASES PARA LA ENTREGA DE PREMIOS Y RECONOCIMIENTOS EN EL MUNICIPIO DE PUEBLA
 
-> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE ENERO DE 2007)</small>
 
 DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2012)</small>
 
 ###### Artículo 2276.
 
@@ -38141,9 +38733,11 @@ El Reconocimiento "Juan de Palafox y Mendoza", será otorgado a aquellas persona
 
 > <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-### CAPÍTULO 38. DE LA ECONOMÍA SOCIAL Y SOLIDARIA EN EL MUNICIPIO
+### CAPÍTULO 37. DEL GOBIERNO DIGITAL
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
+> <small>(DEROGADO POR EL TRANSITORIO PRIMERO DEL REGLAMENTO PARA EL GOBIERNO ELECTRÓNICO Y LA VENTANILLA DIGITAL DEL MUNICIPIO DE PUEBLA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+
+DISPOSICIONES GENERALES
 
 ###### Artículo 2343.
 
@@ -38323,9 +38917,9 @@ DE LAS RESPONSABILIDADES Y SANCIONES
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2017)</small>
 
-### CAPÍTULO 38 BIS. ESTANCIAS INFANTILES
+### CAPÍTULO 38. DE LA ECONOMÍA SOCIAL Y SOLIDARIA EN EL MUNICIPIO
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2017)</small>
 
 ###### Artículo 2377.
 
@@ -38359,9 +38953,9 @@ VI. En general, de todas las formas de organización social para la producción,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
-### CAPÍTULO 39. DEL DRENAJE, ALCANTARILLADO, SANEAMIENTO Y REÚSO
+### CAPÍTULO 38 BIS. ESTANCIAS INFANTILES
 
-> <small>(ADICIONADO CON LOS ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 2379 Bis.
 
@@ -38390,6 +38984,10 @@ A efecto de llevar a cabo el logro de las acciones tendientes a favorecer la pre
 # LIBRO DÉCIMO SEGUNDO. PREVENCIÓN Y CONTROL DE LA CONTAMINACIÓN DEL AGUA RESIDUAL DEL MUNICIPIO DE PUEBLA
 
 > <small>(ADICIONADO CON LOS TÍTULOS, ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
+
+### CAPÍTULO 39. DEL DRENAJE, ALCANTARILLADO, SANEAMIENTO Y REÚSO
+
+> <small>(ADICIONADO CON LOS ENCABEZADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE OCTUBRE DE 2017)</small>
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
@@ -40876,3 +41474,13 @@ P.O. 5 DE FEBRERO DE 2024.
 PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 16 DE AGOSTO DE 2024, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS REGIDORES INTEGRANTES DE LA COMISIÓN DE PARTICIPACIÓN CIUDADANA, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
+
+PRIMERO. Los presentes artículos entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se reforman los artículos 148, 149, 150, las fracciones I, II, III ,IV y V del artículo 158; fracciones I, II y III del artículo 159; fracciones I, II, IV, V y acápite del artículo 160; 161, fracción III, VII y acápite del 162; 163, 164, fracciones II, III, último párrafo y acápite del artículo 165; 166, fracción II, V, VI del artículo 167; 168 fracciones I, II del artículo 169, 170, 171, se adiciona un párrafo al artículo 172, fracciones IV, VII, VIII, IX, X y acápite de 173; 174, 175, fracciones II,III, IV, VI, VII, VIII, X, XII y XIV del apartado A; II, III, IV, VI, VII, VIII, IX, XII, XIII y XV del apartado B, II, IV y V del apartado C todos del artículo 176; fracciones IV, VI, XII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XI, XII y acápite del artículo 178; 179, fracción I, VIII y el acápite del 180, 181, 182, 183, acápite del 184; las fracciones I, II, III y último párrafo del 185; 186, 187, acápite del 188; fracciones V, VI y VII y el acápite del 189, fracción I, II, III, V, VI, VII, XI y acápite del artículo 190, fracción I y acápite del 191; 192, fracción II y acápite del 193; fracción IV y acápite del 194, 195, 196, 197, fracciones I, II y III del artículo 198, 199, 200, 201, 202, fracción VII y acápite del 204; y ADICIONAR un Capítulo 7 Bis, los artículos 149 Bis, 150 Bis, 150 Ter, 150 Quater, 150 Quinquies, 150 Sexies, 150 Septies, 150 Octies, 150 Nonies, 150 Decies, 150 Undecies, 150 Duodecies, 150 Terdecies, 150 Quaterdecies, 150 Quindecies, 150 Sexdecies, 150 Septendecies, 150 Octodecies, 150 Novodecies y 150 Vicies, y un último párrafo del artículo 172, todos del Código Reglamentario para el Municipio de Puebla, publicado en el Periódico Oficial del Estado, el treinta y uno de diciembre de dos mil cuatro.
+
+TERCERO. Se dejan sin efecto todas aquellas disposiciones administrativas que se opongan a lo dispuesto en el presente Dictamen.
