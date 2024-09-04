@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-notariado-del-estado-de-morelos-130172"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-30"
-last_updated: "2018-08-30"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL NOTARIADO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número 5628 del Periódico Oficial del Estado de Morelos, el jueves 30 de agosto de 2018.
 
@@ -1127,11 +1127,15 @@ XIII. Hará constar su fe:
 
 a) Que se aseguró de la identidad de los otorgantes y que a su juicio tienen capacidad legal;
 
-b) Que les fue leída en voz alta la escritura a los otorgantes, a los testigos e intérpretes en su caso, o que lo leyeron por ellos mismos;
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-c) Que explicó a los otorgantes el valor y las consecuencias legales del contenido de la escritura cuando así proceda, y
+b) Que se aseguró que las partes que en ella intervengan no se encuentran inscritos en el Registro Nacional de Obligaciones Alimentarias;
 
-d) Que otorgaron la escritura los comparecientes, mediante la manifestación ante el Notario de su conformidad, así como mediante su firma o en su caso que no la firmaron por haber declarado, no saber o no poder hacerlo. En substitución del otorgante que se encuentre en cualquiera de estos casos, firmará la persona que al efecto elija anotándose las generales de éste último. En todo caso el otorgante que no firme imprimirá las huellas digitales de ambos pulgares; en su defecto solamente el de un pulgar.
+c) Que les fue leída en voz alta la escritura a los otorgantes, a los testigos e intérpretes en su caso, o que lo leyeron por ellos mismos;
+
+d) Que explicó a los otorgantes el valor y las consecuencias legales del contenido de la escritura cuando así proceda, y
+
+e) Que otorgaron la escritura los comparecientes, mediante la manifestación ante el Notario de su conformidad, así como mediante su firma o en su caso que no la firmaron por haber declarado, no saber o no poder hacerlo. En substitución del otorgante que se encuentre en cualquiera de estos casos, firmará la persona que al efecto elija anotándose las generales de éste último. En todo caso el otorgante que no firme imprimirá las huellas digitales de ambos pulgares; en su defecto solamente el de un pulgar.
 
 ###### ARTÍCULO 111.
 
@@ -1146,6 +1150,10 @@ El Notario hará constar en la escritura el medio por el que identificó a los o
 ###### ARTÍCULO 112.
 
 Para que el Notario haga constar que los otorgantes tienen capacidad legal, bastará con que en ellos no observe manifestaciones de incapacidad natural y que no tenga noticias de que estén sujetos a incapacidad civil.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+En el caso de personas físicas, el Notario hará constar que los otorgantes no son deudores alimentarios, solicitando para tal fin el certificado de no inscripción de deudor alimentario, expedido por el Registro Nacional de Obligaciones Alimentarias.
 
 ###### ARTÍCULO 113.
 
@@ -2084,3 +2092,17 @@ SECRETARIO DE GOBIERNO
 LIC. ÁNGEL COLÍN LÓPEZ
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y DOS POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES DEL ESTADO DE MORELOS, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA SOBRE OBLIGACIONES ALIMENTARIAS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Tribunal Superior de Justicia del Estado, en el término de noventa días naturales, realizará las adecuaciones pertinentes a sus disposiciones reglamentarias y administrativas, para efecto de cumplir con las obligaciones establecidas en el presente Decreto y en los Lineamientos establecidos por el Sistema Nacional DIF.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo ordenado en el presente Decreto.
