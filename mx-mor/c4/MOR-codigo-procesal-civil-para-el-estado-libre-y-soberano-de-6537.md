@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-civil-para-el-estado-libre-y-soberano-de-6537"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2019-08-28"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6537&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 13 de octubre de 1993.
 
@@ -4643,7 +4643,11 @@ I. Que el crédito conste en escritura pública o privada, según su cuantía;
 
 II. Que sea de plazo cumplido, o que deba anticiparse conforme al contrato de hipoteca o a la Ley; y,
 
-III. Que la escritura pública en que conste sea primer testimonio y esté debidamente inscrita en el Registro Público de la Propiedad.
+(NOTA: EL 30 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 162/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. QUE SE PRESENTE EL DOCUMENTO ORIGINAL O COPIA CERTIFICADA DE LA ESCRITURA PRIVADA Y EN SU CASO TESTIMONIO CUALQUIERA QUE SU NÚMERO ORDINAL O COPIA CERTIFICADA DE LA ESCRITURA PÚBLICA EN LA CUAL SE HIZO CONSTAR EL OTORGAMIENTO DE LA HIPOTECA Y SE ACREDITE QUE LA MISMA ESTÁ DEBIDAMENTE INSCRITA EN EL REGISTRO PÚBLICO DE LA PROPIEDAD.
 
 Cuando se entable pleito entre los que contrataron la hipoteca procederá el juicio hipotecario sin necesidad del requisito del registro, para exigir el pago o la prelación de un crédito garantizado con hipoteca; siendo siempre condición indispensable para inscribir la cédula, que esté registrado el bien a nombre del demandado y que no haya inscripción de embargo o gravamen en favor de tercero.
 
@@ -7750,3 +7754,13 @@ SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publi
 TERCERA. Las reformas realizadas por virtud del DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO, publicado en el Periódico Oficial “Tierra y Libertad”, número 5695 alcance, el 10 de abril de 2019, que no han sido objeto de derogación por virtud del presente instrumento; continuarán surtiendo sus efectos a partir de la vigencia del citado Decreto.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS OCHENTA POR EL QUE SE REFORMA LA FRACCIÓN TERCERA DEL ARTÍCULO 624 DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para su promulgación y publicación, de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+
+TERCERA.- Se derogan las disposiciones de igual o menor grado que se opongan al presente Decreto.
