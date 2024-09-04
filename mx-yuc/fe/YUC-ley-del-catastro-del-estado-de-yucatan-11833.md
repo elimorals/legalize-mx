@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-catastro-del-estado-de-yucatan-11833"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-11"
-last_updated: "2022-06-07"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL CATASTRO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 11 de Marzo de 1992.
 
@@ -43,19 +43,39 @@ LEY DEL CATASTRO DEL ESTADO DE YUCATAN
 
 Las disposiciones de la presente Ley son de orden público e interés general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 2.
 
-Catastro es el censo analítico de la propiedad raíz en el Estado; estructurado por los padrones relativos a la identificación, registro y valuación de los bienes inmuebles ubicados en su territorio; para fines fiscales, estadísticos, socioeconómicos, jurídicos e históricos y para la formulación e instrumentación de planes estatales y municipales de desarrollo. Sus objetivos generales son:
+El catastro es el censo analítico de los bienes inmuebles localizados en el Estado, estructurado por los padrones relativos a su identificación, registro, ubicación y valuación, para fines fiscales, estadísticos, socioeconómicos, jurídicos e históricos, así como para la formulación e instrumentación de políticas públicas, instrumentos de planeación territorial y planes estatales y municipales de desarrollo. Sus objetivos generales son:
 
 I.- Identificar y deslindar los bienes inmuebles.
 
-II.- Integrar y mantener actualizada la documentación relativa a las características cuantitativas de los bienes inmuebles.
+> <small>(REFORMADA, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Integrar y mantener actualizada la documentación relativa a las características cuantitativas de los bienes inmuebles; así como el inventario completo de dichos bienes inmuebles, incluyendo sus características físicas y valores.
 
 III.- Determinar los valores catastrales de los bienes inmuebles.
 
-IV.- Integrar la cartografía catastral del territorio estatal.
+> <small>(REFORMADA, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-V.- Integrar y aportar la información técnica en relación a los límites de territorios del Estado y de sus municipios.
+IV.- Integrar y actualizar la cartografía catastral del territorio estatal.
+
+> <small>(REFORMADA, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V.- Aportar la información técnica relativa a:
+
+a) Los límites del territorio del Estado, de sus municipios, de los centros de población y demás localidades.
+
+b) La elaboración y aplicación de los instrumentos de planeación territorial en el Estado y el ejercicio de las atribuciones de las autoridades de control ambiental y urbano.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI.- Establecer las normas técnicas para la formación, mejoramiento y conservación de los registros para el control de las operaciones catastrales de los inmuebles en el Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII.- Garantizar un manejo adecuado de la información catastral digitalizada y su actualización permanente.
 
 ###### ARTICULO 3.
 
@@ -69,291 +89,353 @@ II.- La forma, términos y procedimientos a que se sujetarán los trabajos catas
 
 III.- Las obligaciones que en materia de catastro tienen los propietarios o poseedores de bienes inmuebles, así como los servidores públicos del Estado y de los municipios y los notarios públicos.
 
-> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADA, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- El establecimiento de las normas técnicas que se consideren necesarias para la formación, mejoramiento y conservación de los registros para el control de las operaciones catastrales de los inmuebles en el Estado; así como para el intercambio de información con la Dirección del Registro Público de la Propiedad y del Comercio del Instituto, y la Dirección del Archivo Notarial de la Consejería Jurídica.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 4.
 
-Las disposiciones contenidas en la presente Ley serán ejercidas por el Gobernador del Estado por conducto del Director del Catastro del Estado, o por los Presidentes Municipales por conducto de sus direcciones del Catastro.
+Las disposiciones contenidas en la presente Ley serán ejercidas por la Directora o Director General del Instituto de Seguridad Jurídica Patrimonial de Yucatán por conducto de la persona titular de su Dirección de Catastro, o por las y los Presidentes Municipales, en su respectivo ámbito territorial, por conducto de sus direcciones o áreas de catastro.
 
 ### CAPITULO SEGUNDO. DEFINICIONES E INTEGRACION DEL CATASTRO
 
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 5.
 
-Para los efectos de la presente Ley, se entenderá por:
+Para los efectos de esta Ley, además de las contenidas en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Yucatán se entenderá por:
 
-I.- Predio.
+I.- Actualización catastral: el conjunto de actividades técnicas de asignar el valor catastral para las modificaciones efectuadas a los datos de los bienes inmuebles.
 
-A).- La porción o porciones de terreno, incluyendo en su caso, las construcciones que pertenezcan a un mismo propietario o a varios en copropiedad y cuyos linderos formen un perímetro cerrado.
+II.- Bienes inmuebles: los señalados expresamente como tales en el Código Civil del Estado de Yucatán.
 
-B).- Los lotes en que se hubiere fraccionado un terreno de acuerdo con la Legislación sobre la materia.
+III.- Cartografía: el conjunto de mapas y planos que determinan las delimitaciones y deslindes de los inmuebles.
 
-> <small>(F. DE E., D.O. 20 DE MARZO DE 1992)</small>
+IV.- Cédula catastral: el documento que constituye el único medio idóneo para identificar el registro de un predio en el padrón catastral que contiene la clave catastral correspondiente y demás información en términos de las disposiciones aplicables.
 
-C).- Los diferentes pisos, departamentos, viviendas o locales constituidos bajo el régimen de propiedad y condominio inmobiliario del Estado.
+V.- Centro de población: las áreas constituidas por las áreas urbanizadas y las que se reserven para su expansión.
 
-II.- Predio no edificado.- El que no tenga construcciones permanentes o que las tenga provisionales.
+VI.- Clave catastral: el código que identifica al predio de forma única para su localización geográfica, el cual es asignado a cada uno de ellos en el momento de su inscripción en el padrón catastral.
 
-III.- Predio edificado.- El que tenga construcciones permanentes.
+VII.- Construcciones permanentes: las que están adheridas a un predio de manera fija y por su estructura no son fácilmente desmontables y de desmontarse sufren merma en su valor o en el de los demás inmuebles unidos a esta, por lo que no pueden ser consideradas provisionales.
 
-IV.- Predio urbano.- El ubicado dentro de las zonas urbanas, así consideradas por estar edificadas total o parcialmente y en donde existen servicios mínimos esenciales.
+VIII.- Construcciones provisionales: las que por su estructura sean fácilmente desmontables en cualquier momento, sin menoscabo de su valor. En los casos dudosos, la dirección del catastro o área equivalente que corresponda, determinará si las construcciones son o no provisionales, conforme a las disposiciones que al efecto emita en su medio de difusión oficial.
 
-V.- Predio rústico.- Todo aquel que este ubicado fuera de las zonas urbanas.
+IX.- Instituto: el Instituto de Seguridad Jurídica Patrimonial de Yucatán.
 
-VI.- Predio Baldío.- Es aquel que no tiene construcciones o que teniéndolas estas se encuentran en estado ruinoso, abandonadas y en condiciones no habitables; por espacio de un año o más. Así como aquellos cuyos propietarios se niegan a participar en la proporción que les corresponda del costo total para la introducción de los servicios urbanos.
+X.- Lote: la superficie de terreno que resulta de la división de una manzana.
 
-VII.- Manzana.- El área integrada por uno o varios terrenos colindantes delimitados por vías públicas.
+XI.- Lote tipo: la superficie de terreno que, de acuerdo con su frecuencia en alguna sección catastral, sea determinada por la autoridad catastral competente como unidad de valuación estándar por características dimensionales o socioeconómicas.
 
-VIII.- Lote.- La superficie de terreno que resulta de la división de una manzana.
+XII.- Manzana: el área integrada por uno o varios predios colindantes delimitados por vías públicas.
 
-IX.- Lote tipo.- La superficie de terreno que de acuerdo a su frecuencia en alguna sección catastral o localidad por características dimensionales o socioeconómicas, sea determinada por la autoridad catastral como unidad de valuación.
+XIII.- Nomenclatura catastral: el conjunto de datos alfanuméricos que identifican de forma única e irrepetible un bien inmueble.
 
-> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+XIV.- Padrón catastral: el conjunto de registros documentales y electrónicos que contienen los datos generales y particulares de los bienes inmuebles ubicados en el territorio del Estado.
 
-X.- Construcciones provisionales.- Las que por su estructura sean fácilmente desmontables en cualquier momento. En los casos dudosos la Dirección del Catastro que corresponda, determinará si las construcciones son o no provisionales.
+XV.- Predio:
 
-XI.- Construcciones Permanentes.- Las que por su estructura y por su valor no pueden ser consideradas provisionales.
+a) El bien inmueble conformado por la porción de terreno que incluye las construcciones, cuyos linderos formen un perímetro cerrado.
 
-XII.- Padrón Catastral.- El conjunto de registros en los que se contienen los datos generales y particulares de los bienes inmuebles ubicados en el territorio del Estado.
+b) Los lotes en que se hubiere dividido un terreno de acuerdo con la legislación sobre la materia.
 
-XIII.- Bienes Inmuebles.- Los señalados expresamente como tales en el Código Civil del Estado.
+c) Los diferentes pisos, departamentos, viviendas o locales constituidos bajo el régimen de propiedad en condominio.
 
-XIV.- Zonificación Catastral.- La demarcación del territorio del Estado en zonas y sectores catastrales, de acuerdo a las características señaladas en esta Ley.
+XVI.- Predio baldío: aquel que no tiene construcciones permanentes o que, teniéndolas, estas se encuentran en estado ruinoso, abandonadas y en condiciones no habitables, y aquellos que tengan construcciones provisionales. Así como aquellos cuyos propietarios se niegan a participar en la proporción que les corresponda del costo total para la introducción de los servicios urbanos.
 
-XV.- Zonas Catastrales.- Son las áreas en que se dividen el territorio de los municipios del Estado.
+XVII.- Predio edificado: el que tenga construcciones permanentes.
 
-XVI.- Sector Catastral.- La delimitación de las áreas comprendidas en una zona catastral con características similares en cuanto a uso del suelo, servicios públicos y su calidad, edad, tipos de desarrollo urbano, densidad de población, tipo y calidad de las construcciones y nivel socioeconómico.
+XVIII.- Predio rústico: todo aquel que esté ubicado fuera de los límites de un centro de población.
 
-XVII.- Valores Unitarios:
+XIX.- Predio urbano: el ubicado dentro de los límites de un centro de población.
 
-A).- De suelo.- Los determinados para el suelo por unidad de superficie en cada sector catastral.
+XX.- Revaluación catastral: el conjunto de actividades técnicas para asignar un nuevo valor catastral a un bien inmueble.
 
-B).- De construcción.- Los determinados para las distintas clasificaciones de construcciones por unidad de superficie o de volumen.
+XXI.- Sección catastral: la delimitación de las áreas comprendidas en una zona catastral con características similares en cuanto a uso del suelo, servicios públicos y su calidad, edad, tipos de desarrollo urbano, densidad de población, tipo y calidad de las construcciones y nivel socioeconómico.
 
-XVIII.- Valor Catastral.- El asignado a cada uno de los bienes inmuebles ubicados en los territorios de los municipios del Estado, de acuerdo a los procedimientos a que se refiere esta Ley.
+XXII.- Sistema Estatal de Gestión Catastral: el conjunto de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado, incluyendo los proporcionados por el Registro Público.
 
-XIX.- Valuación Catastral.- El conjunto de actividades técnicas realizadas para asignar un valor catastral por primera vez a un bien inmueble.
+XXIII.- Valor catastral: el asignado a cada uno de los bienes inmuebles ubicados en los municipios del Estado.
 
-XX.- Revaluación Catastral.- El conjunto de actividades técnicas para asignar un nuevo valor catastral a un bien inmueble.
+XXIV.- Valor comercial: el que determina la oferta y la demanda, aplicada a los bienes inmuebles en el Estado.
 
-XXI.- Cartografía.- Es el conjunto de mapas y planos que determina la delimitación y deslinde de los inmuebles.
+XXV.- Valores unitarios:
 
-XXII.- Fraccionamiento Residencial.
+a) De construcción: los determinados para las distintas clasificaciones de construcciones por unidad de superficie o de volumen.
 
-Aquel con densidad bruta de población de 60 a 110 habitantes por hectárea y que por la amplitud de sus calles y ubicación. Deberá contar con todos los servicios de infraestructura de primera calidad. Las dimensiones mínimas del lote tipo son de 15.00 metros de frente y 35 metros de fondo. Excepto los frentes de los lotes cabeceros.
+b) De suelo: los determinados para el suelo por unidad de superficie en cada sección catastral.
 
-XXIII.- Fraccionamiento Residencial Medio:
+XXVI.- Valuación catastral: el conjunto de actividades técnicas realizadas para asignar un valor catastral por primera vez a un bien inmueble.
 
-Aquel con densidad bruta de población de 100 a 150 habitantes por hectárea, que deberá contar con todos los servicios de infraestructura de buena calidad. Las dimensiones mínimas del lote tipo son de 10 metros de frente y 25 metros de fondo, excepto los frentes de los lotes cabeceros.
+XXVII.- Zonificación catastral: la demarcación del territorio de cada municipio en zonas y secciones catastrales.
 
-XXIV.- Fraccionamiento Residencial Campestre:
+XXVIII.- Zonas catastrales: las áreas en que se divide el territorio de los Municipios del Estado.
 
-Aquel con densidad bruta de población no mayor de 50 habitantes por hectárea y que, por sus características de ubicación permite reducir la magnitud de los servicios con que debe contar. Las dimensiones mínimas de lote tipo son de 20 metros de frente por 50 metros de fondo, excepto los frentes de los lotes cabeceros.
-
-XXV.- Fraccionamiento social:
-
-Es aquel con densidad bruta de población de 150 a 300 habitantes por hectárea. La urbanización y la edificación de viviendas deberá siempre estar a cargo de una misma entidad pública, social o privada. Las dimensiones mínimas de lote son de 7 metros de frente por 18 metros de fondo, debiendo aumentar su superficie en relación al tipo de calle al que tenga frente.
-
-XXVI.- Fraccionamiento Popular:
-
-Aquel con densidad bruta de población de 150 a 300 habitantes por hectárea. Este tipo de fraccionamiento se caracteriza por que los lotes salen a la venta y cada adquirente construye su vivienda con sus propios recursos o financiamiento individual. Las dimensiones mínimas de lote tipo son de 7 metros de frente por 18 metros de fondo, debiendo aumentar su superficie en relación al tipo de calle al que tenga frente.
-
-XXVII.- Fraccionamiento Costero:
-
-Es aquel con densidad bruta de población de 120 a 150 habitantes por hectárea y con frente a la playa. Las dimensiones mínimas de lote son 10 metros de frente y 30 metros de fondo, excepto los lotes cabeceros.
-
-XXVIII.- Fraccionamiento Agropecuario:
-
-Con densidad de población no mayor de 20 habitantes por hectárea destinado a vivienda y actividades agropecuarias en pequeña escala. Las dimensiones mínimas del lote tipo son de 30 metros de frente y 70 metros de fondo, pudiendo ser mayor su superficie.
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 6.
 
-Los actos y resoluciones en materia de catastro serán regulados en la forma, términos y procedimientos establecidos en la presente Ley.
+Los actos y resoluciones en materia de Catastro serán regulados en la forma, términos y procedimientos establecidos en esta Ley; la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, su reglamento y demás disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 7.
 
-Los bienes inmuebles establecidos en el territorio del Estado deberán estar incluidos en el padrón catastral y los propietarios o poseedores deberán inscribirlos. Asimismo deberán manifestar cualquier modificación que se realice dentro de los siguientes 45 días hábiles a que esta se de, y en caso de no hacerlo, se harán acreedores a las sanciones establecidas en la presente Ley.
+Todos los bienes inmuebles establecidos en el territorio del Estado deberán estar incluidos en el padrón catastral.
+
+Los propietarios o poseedores deberán inscribirlos en dicho padrón, cumpliendo previa y estrictamente las obligaciones y formalidades que establezcan las disposiciones jurídicas y administrativas aplicables, así como manifestar cualquier modificación que se realice dentro de los siguientes cuarenta y cinco días hábiles a que ésta se realice. En caso de no hacerlo, se harán acreedores a las sanciones establecidas en esta Ley y en la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 8.
 
-A falta de disposición expresa, deberán considerarse como normas supletorias las disposiciones contenidas en el Código Civil del Estado y demás disposiciones jurídicas relativas.
+A falta de disposición expresa, deberán considerarse como normas supletorias las disposiciones contenidas en la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, el Código Civil del Estado de Yucatán, así como las demás disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 8 Bis.
 
-El sistema de Catastro se integrará con los registros: Alfabético, numérico y gráfico, que se expresan:
+El Sistema Estatal de Gestión Catastral se integrará con los registros siguientes:
 
 I.- Alfabético, constituido por:
 
-A) Nombre del propietario.
+a) Nombre del propietario o poseedor.
 
-B) Ubicación del predio, indicando calle y número, en su caso.
+b) Domicilio del propietario o poseedor.
 
-C) Domicilio del propietario.
+c) Datos correspondientes a la inscripción del título en el Registro Público de la Propiedad y el Comercio.
 
-D) Número catastral.
+d) Nacionalidad del propietario o poseedor.
 
-E) Número y fecha del título de propiedad y nombre de quien lo autorizo.
+e) Uso y destino de cada predio.
 
-F) Nacionalidad del propietario.
+f) Nombre del fedatario público que autoriza.
 
-G) Uso y destino de cada predio.
+g) Tipo de predio.
+
+h) Localidad y municipio donde se encuentra ubicado cada predio.
 
 II.- Gráfico, constituido por:
 
-A) EL plano general catastral del Estado.
+a) El plano general catastral del estado.
 
-B) EL plano catastral de cada municipio.
+b) El plano catastral de cada municipio.
 
-C) Los planos de las zonas urbanas.
+c) Los planos de las zonas urbanas.
 
-D) Los planos de las secciones catastrales.
+d) Los planos de las secciones catastrales.
 
-E) Los planos catastrales de cada manzana, y
+e) Los planos catastrales de cada manzana.
 
-F) Los planos de cada predio.
+f) Los planos geodésicos de cada predio.
 
 III.- Numérico, constituido por:
 
-A) El número catastral.
+a) El número catastral.
 
-B) Ubicación del predio, indicando calle y número en su caso.
+b) Ubicación del predio, indicando calle, número, colonia y sección, en su caso.
 
-C) Dimensiones y colindancias de cada predio.
+c) Superficie, medidas y colindancias de cada predio, incluyendo descripción de construcciones, en su caso.
 
-D) Avalúo del predio.
+d) Avalúo del predio, expedido por perito valuador inscrito en el Padrón de Peritos Valuadores del Estado de Yucatán
 
-E) Nombre del propietario, y
+e) Los datos topográficos necesarios.
 
-F) Los datos topográficos necesarios.
+IV.- Electrónico, constituido por:
+
+a) Folio electrónico registral y número de inscripción del Registro Público de la Propiedad y del Comercio.
+
+b) El sistema en línea de la Dirección del Catastro correspondiente.
+
+c) Los datos y registros que se encuentren capturados en la forma precodificada, almacenada en el sistema informático del Catastro del Estado.
 
 ### CAPITULO TERCERO. DE LAS AUTORIDADES CATASTRALES
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 9.
 
 Son autoridades en materia de Catastro:
 
-I.- El Ejecutivo del Estado.
+I.- La persona titular del Poder Ejecutivo.
 
-> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+II.- La Directora o Director General del Instituto.
 
-II.- Los Presidentes municipales.
+III.- La Directora o Director del Catastro del Instituto.
 
-> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+IV.- Las y los presidentes municipales; y
 
-III.- La Secretaría de Hacienda y Planeación.
+V.- Las directoras y los directores o titulares de los catastros municipales.
 
-> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
-
-IV.- Las Direcciones del Catastro.
-
-> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 10.
 
-La Secretaría de Hacienda y Planeación y los presidentes municipales tendrán a su cargo el Catastro por conducto de sus direcciones respectivas.
+Le corresponde al Estado, a través del Instituto, la función catastral, en lo no reservado a los municipios conforme al artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y de las leyes generales de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
+> <small>(ADICIONADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 10 Bis.
+
+Las y los presidentes municipales tendrán a su cargo el catastro de su respectiva jurisdicción territorial, a través de las personas que dirijan o sean titulares de sus catastros municipales, en términos de los reglamentos municipales respectivos.
+
+> <small>(ADICIONADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 10 Ter.
+
+La integración, actualización y operación del Sistema Estatal de Gestión Catastral será responsabilidad del Instituto, a través de la Dirección de Catastro.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 11.
 
-Es competencia del Gobernador del Estado y de los presidentes municipales:
+Es competencia del Ejecutivo del Estado, a través del Instituto:
 
-I.- Determinar la política, normas y lineamientos generales del Catastro, así como evaluar su cumplimiento.
+I.- Determinar la política, normas y lineamientos generales, técnicos y administrativos, para la integración y operación catastral, así como evaluar su cumplimiento.
 
-II.- Recibir y evaluar las propuestas de zonificación catastral y los valores de suelo y construcción; y proponer al Congreso del Estado su aprobación.
+II.- Implementar y administrar un sistema de gestión y actualización, que permita la interoperabilidad de la información catastral y registral entre los órdenes de gobierno estatal y municipal.
 
-> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+III.- Diseñar e implementar los programas estatales para la armonización y homologación de los catastros estatales y municipales, en el ámbito de su competencia.
 
-III.- Suscribir acuerdos de coordinación en materia de Catastro; y
+IV.- Establecer, operar y administrar el Catastro estatal, de conformidad con esta Ley, la Ley que Crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, su Reglamento y demás disposiciones legales aplicables, en el ámbito de su competencia.
 
-IV.- Las demás que expresamente le determine esta Ley.
+V.- Integrar el inventario completo de los bienes inmuebles en el Estado, incluyendo sus características físicas y sus valores, recopilando de los catastros municipales del Registro Público de la Propiedad y del Comercio, y del Archivo Notarial, toda la información de datos geográficos, alfanuméricos y documentales relacionados entre sí, que contienen los registros relativos a la identificación plena y datos reales de los inmuebles en el Estado y demás información necesaria para integrar las cédulas catastrales, en términos de lo previsto en esta Ley, en la Ley general y en las leyes de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
+VI.- Regular y administrar el Sistema Estatal de Gestión Catastral, normando la homologación de los sistemas de cómputo que se requieran, en los términos que se establezcan en el Reglamento de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán, en el ámbito de su competencia.
+
+VII.- Promover en forma permanente, la actualización de los métodos, procedimientos y sistemas tecnológicos que se utilizan para la realización de las funciones catastrales.
+
+VIII.- Vigilar que en el Sistema Estatal de Gestión Catastral aparezca determinada en forma precisa y actualizada, la localización de cada predio ubicado dentro del territorio del estado, procurando que exista certeza en su descripción y que su realidad física corresponda con la situación jurídica que catastral y registralmente presenta.
+
+IX.- Supervisar las inscripciones de predios realizados en el padrón catastral del estado, respecto al cumplimiento de las obligaciones y formalidades que establezcan las disposiciones jurídicas y administrativas aplicables, así como los instrumentos de planeación territorial vigentes en el Estado. En caso de incumplimiento, deberá emitir el dictamen correspondiente.
+
+X.- Hacer del conocimiento del cabildo o de la persona titular del Instituto, según corresponda, y de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, el dictamen a que se refiere la fracción previa.
+
+XI.- Asesorar técnica y operativamente a los Ayuntamientos, previa solicitud de estos, en la elaboración de la propuesta de zonificación catastral, así como respecto de los valores unitarios de suelo y de construcción.
+
+XII.- Elaborar los proyectos de zonificación catastral y de valores unitarios de suelo y de construcción, en los casos en que el municipio haya delegado la administración del Catastro al estado.
+
+XIII.- Proponer, impulsar y suscribir acuerdos y convenios con las dependencias y entidades de la Administración Pública Federal y Estatal, organismos constitucionales autónomos, otras entidades federativas y municipios, así como con los sectores social y privado, para el cumplimiento del objeto de esta Ley.
+
+XIV.- Resolver las dudas que se susciten en la interpretación y aplicación de esta Ley.
+
+XV.- Servir como órgano técnico de apoyo y consulta a los Poderes Ejecutivo, Legislativo y Judicial del Estado de Yucatán y a los Ayuntamientos del estado.
+
+XVI.- Las demás que expresamente le determine esta Ley y las normas consideradas como supletorias de la misma.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 12.
 
-La Secretaría de Hacienda y Planeación y los presidentes municipales tiene (sic) las siguientes atribuciones:
+Es competencia de las y los presidentes municipales:
 
-> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
+I.- Operar y administrar el Catastro de su municipio de conformidad con lo establecido en esta Ley, la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán y los ordenamientos legales aplicables.
 
-I.- Administrar el Catastro de conformidad con lo establecido en esta Ley y los ordenamientos legales municipales.
+II.- Aplicar la política, normas y lineamientos generales para la integración y operación catastral, en los municipios correspondientes.
 
-II.- Establecer, encausar y apoyar los programas tendientes a lograr los objetivos del Catastro.
+III.- Someter a la aprobación del cabildo las propuestas de zonificación catastral y los valores de suelo y construcción en el territorio de su jurisdicción, formuladas por su respectiva dirección o área de catastro y, posteriormente, presentarlas al Congreso del Estado para su análisis y, en su caso, aprobación.
 
-III.- Validar y aprobar las normas técnicas y administrativas aplicables a la ejecución de los trabajos catastrales.
-
-> <small>(REFORMADA, D.O. 14 DE AGOSTO DE 1998)</small>
-
-IV.- Remitir al Gobernador del Estado los proyectos de zonificación catastral y de valores unitarios de suelo y de construcción, sancionados por los ayuntamientos, en los casos en que el Catastro no esté administrado por el municipio.
+IV.- Implementar y administrar sistemas de gestión y de información catastral que permitan la interoperabilidad de sus datos catastrales entre los órdenes de gobierno estatal y municipal, acorde con lo dispuesto en esta Ley y demás disposiciones aplicables relacionadas con las funciones catastrales, en el ámbito de su competencia.
 
 V.- Expedir y publicar los edictos que notifican a los interesados el inicio masivo de las operaciones catastrales en las poblaciones que por primera vez se incorporan al Catastro.
 
-VI.- Suscribir acuerdos de coordinación relativos al Catastro, con otras dependencias y organismos auxiliares de la Administración Pública del Estado; y
+VI.- Compartir la información catastral del municipio, así como mantenerla actualizada, conforme a las disposiciones aplicables relacionadas con las funciones catastrales, en el ámbito de su competencia.
 
-VII.- Las demás que determine la Ley.
+VII.- Implementar y ejecutar los programas municipales para la armonización y homologación de sus Catastros, conforme a las disposiciones aplicables relacionadas con las funciones catastrales, en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
+VIII.- Proponer, impulsar y suscribir acuerdos y convenios con las dependencias y entidades de la administración pública federal, organismos constitucionales autónomos, Gobierno del Estado y otros municipios, así como con los sectores social y privado, para el cumplimiento del objeto de esta Ley.
+
+IX.- Las demás que expresamente le determine esta Ley y las normas consideradas como supletorias de la misma.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 13.
 
-A las Direcciones del Catastro les corresponde:
+A las directoras y los directores o personas titulares de los catastros municipales les corresponde:
 
-I.- Planear, coordinar, administrar y evaluar los programas que se elaboren en materia catastral.
+I.- Implementar y ejecutar los programas municipales para la armonización y homologación de sus Catastros, ajustándose a los programas estatales en la materia.
 
-II.- Definir y ejecutar las normas técnicas y administrativas para la identificación y registro, valuación, revaluación y deslinde de los bienes inmuebles ubicados en el territorio del Estado.
+II.- Ejecutar las normas técnicas y administrativas para la identificación, registro, valuación, revaluación y deslinde de los bienes inmuebles ubicados en el territorio del municipio correspondiente.
 
-III.- Formular los proyectos de zonificación catastral y valores unitarios de suelo y construcción.
+III.- Formular los proyectos de zonificación catastral y de valores unitarios de suelo y construcción.
 
-IV.- Ejecutar coordinadamente con las dependencias del Ejecutivo Estatal y Federal los estudios para apoyar la determinación de los límites del territorio del Estado y de los municipios.
+IV.- Elaborar coordinadamente con el Ejecutivo Estatal, a través del Instituto, los estudios para apoyar en la determinación de los límites territoriales del municipio.
 
-V.- Asesorar, vigilar y apoyar a los ayuntamientos en la ejecución de los trabajos catastrales que convengan con el Ejecutivo Estatal.
+V.- Integrar y mantener actualizado el padrón catastral del municipio.
 
-VI.- Integrar el padrón de propietarios.
+VI.- Elaborar y mantener actualizada la cartografía catastral del municipio.
 
-VII.- Integrar, clasificar y ordenar la información catastral del Estado.
+VII.- Asignar clave catastral a cada uno de los predios ubicados dentro del municipio.
 
-VIII.- Elaborar y mantener actualizada la cartografía del Estado.
+VIII.- Inscribir los bienes inmuebles que se encuentren dentro del municipio en el padrón catastral.
 
-IX.- Asignar clave catastral a cada uno de los bienes inmuebles.
+IX.- Determinar en forma inconfundible la localización de cada predio en el municipio.
 
-X.- Inscribir los bienes inmuebles en el padrón catastral y mantenerlo actualizado.
+X.- Solicitar a los propietarios o poseedores de bienes inmuebles, los datos, documentos o informes que sean necesarios para integrar y actualizar el padrón catastral del municipio.
 
-XI.- Determinar en forma inconfundible la localización de cada predio.
+XI.- Determinar los valores catastrales correspondientes a cada bien inmueble en el municipio, y actualizarlos con base en los valores unitarios de suelo y construcción que se fijen de acuerdo con esta Ley.
 
-XII.- Solicitar a las dependencias y organismos auxiliares estatales, así como de los propietarios o poseedores de bienes inmuebles, los datos, documentos o informes que sean necesarios para integrar y actualizar el padrón catastral.
+XII.- Ejecutar los trabajos de localización, deslinde y mensura, para elaborar los planos de cada predio ubicado en el territorio municipal.
 
-XIII.- Determinar los valores catastrales correspondientes a cada bien inmueble y actualizarlos, con base de los valores unitarios de suelo y construcción que se fijen de acuerdo con esta Ley.
+XIII.- Efectuar los levantamientos de los diferentes sectores catastrales, así como de todo lo relacionado con trabajos técnicos sobre fijación o rectificación de los límites de la propiedad pública y privada en el territorio municipal.
 
-XIV.- Ejecutar los trabajos de localización, deslinde, mensura y elaborar los planos de cada predio ubicado en el territorio del Estado.
+XIV.- Ejecutar en el municipio las acciones que procedan en los términos de esta Ley.
 
-XV.- Efectuar los levantamientos de los diferentes sectores catastrales, así como de todo lo relacionado con trabajos técnicos sobre fijación o rectificación de los límites de la propiedad pública y privada en el territorio del Estado.
+XV.- Dar servicio como valuador en los dictámenes sobre el valor catastral de inmuebles ubicados en el municipio, que sean necesarios en todo tipo de contrato y en juicios civiles, penales, laborales, administrativos y fiscales. Así como intervenir en los dictámenes periciales que sobre inmuebles deben practicarse y rendirse ante ellas, sin excluir los que soliciten partes interesadas en materia de identificación, apeo o deslinde de bienes raíces.
 
-XVI.- Determinar las acciones que procedan en los términos de esta Ley.
+XVI.- Ratificar o rectificar los datos proporcionados por los propietarios o poseedores, respecto de sus predios ubicados en el municipio, para determinar y asentar los verdaderos datos catastrales.
 
-XVII.- Dar servicio como valuador en los dictámenes sobre el valor catastral de inmuebles que sean necesarios en todo tipo de contrato y en juicios civiles, penales, laborales, administrativos y fiscales. Así como intervenir en los dictámenes periciales que sobre inmuebles deben practicarse y rendirse ante ellas, sin excluir los que soliciten partes interesadas en materia de identificación, apeo o deslinde de bienes raíces.
+XVII.- Ordenar, mediante mandamiento escrito debidamente fundado y motivado, inspecciones a los predios ubicados en el municipio para determinar si sus características han sido modificadas.
 
-XVIII.- Ratificar o rectificar los datos proporcionados por los propietarios, respecto de sus predios para determinar y asentar los verdaderos datos catastrales.
+XVIII.- Comunicar por escrito a la tesorería municipal, cualquier modificación de las características de los predios ubicados en sus respectivos municipios dentro de un plazo de treinta días contados a partir de la fecha que le sean manifestadas o hayan sido descubiertas.
 
-XIX.- Mediante mandamiento escrito debidamente fundado y motivado, podrá ordenar inspecciones a los predios para determinar si sus características han sido modificadas.
+XIX.- Aplicar los sistemas de registro catastral y archivo de los bienes inmuebles ubicados en el territorio municipal.
 
-XX.- Comunicar por escrito a las tesorerías municipales en el Estado cualquier modificación de las características de los predios ubicados en sus respectivos municipios dentro de un plazo de treinta días contados a partir de la fecha que le sean manifestadas o hayan sido descubiertas.
+XX.- Registrar oportunamente los cambios que se operan en los bienes inmuebles ubicados en el municipio, y que por cualquier concepto, alteren los datos contenidos en los registros catastrales, con el propósito de mantenerlos actualizados.
 
-XXI.- Establecer los sistemas del registro catastral y archivo de los bienes inmuebles.
+XXI.- Revaluar los bienes inmuebles ubicados en el municipio, para efectos fiscales, de acuerdo con las disposiciones, formas y períodos que establezca esta Ley.
 
-XXII.- Registrar oportunamente, los cambios que se operan en los bienes inmuebles y que por cualquier concepto alteren los datos contenidos en los registros catastrales, con el propósito de mantenerlos actualizados.
+XXII.- Auxiliar a los organismos, oficinas e instituciones públicas que requieren los datos contenidos en el catastro del municipio.
 
-XXIII.- Revaluar los bienes raíces para efectos fiscales, de acuerdo a las disposiciones, formas y períodos que establezca esta Ley.
+XXIII.- Expedir cédula catastral, certificados de valor catastral, copias certificadas de planos y demás constancias y documentos relacionados con la información catastral y cambios de los bienes inmuebles ubicados en el municipio.
 
-XXIV.- Auxiliar a los organismos, oficinas e instituciones públicas, que requieren los datos contenidos en el Catastro.
+XXIV.- Notificar a los interesados del resultado de las operaciones catastrales efectuadas en el municipio.
 
-XXV.- Expedir cédula catastral, certificado de valor catastral, copia (sic) certificadas de planos y demás constancias y documentos relacionados con la información catastral y cambios de los bienes inmuebles.
+XXV.- Asignar a cada predio inscrito en el padrón catastral, la clave catastral correspondiente.
 
-XXVI.- Notificar a los interesados del resultado de las operaciones catastrales efectuadas.
+XXVI.- Proponer mejoras al Sistema Estatal de Gestión Catastral, así como reformas o adiciones a los reglamentos o instructivos correspondientes para mejorar el sistema catastral, y someterlos a la aprobación del Ejecutivo Estatal, a través del Instituto.
 
-XXVII.- Elaborar los anteproyectos de reglamento o instructivos que sean necesarios y someterlos a la aprobación del C. Tesorero del Estado, y proponer los cambios que mejoren el sistema catastral vigente.
+XXVII.- Las demás que expresamente le determine esta Ley y las normas consideradas como supletorias de la misma.
 
-XXVIII.- Remitir periódicamente la información catastral a los H. ayuntamientos, cuando se practiquen los avalúos catastrales, o reavalúos por cambios que modifiquen el valor catastral indispensable para los fines hacendarios de su competencia.
+> <small>(ADICIONADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XXIX.- Resolver las dudas que se susciten en la interpretación y aplicación de esta Ley.
+###### ARTICULO 13 Bis.
+
+A la Dirección de Catastro del Instituto le corresponde:
+
+I.- Planear, coordinar y evaluar los programas que se elaboren en materia catastral para el estado.
+
+II.- Definir las normas técnicas y administrativas para la identificación, registro, valuación, revaluación y deslinde de los bienes inmuebles ubicados en el territorio del Estado.
+
+III.- Asesorar técnica y operativamente a los Ayuntamientos, previa solicitud de estos al Instituto, en la elaboración de la propuesta de zonificación catastral, así como respecto de los valores unitarios de suelo y de construcción.
+
+IV.- Ejecutar coordinadamente con las dependencias y entidades del Ejecutivo Estatal y Federal los estudios para apoyar la determinación de los límites del territorio del estado.
+
+V.- Vigilar el correcto y oportuno cumplimiento de las disposiciones legales y normativas en materia catastral.
+
+VI.- Elaborar los anteproyectos de reglamento o instructivos que sean necesarios y someterlos a la aprobación de la persona titular del Poder Ejecutivo, y proponer los cambios que mejoren el sistema catastral vigente.
+
+VII.- Ejercer las funciones referidas en los artículos 12 y 13 de esta Ley, en los casos de Ayuntamientos que no cuenten con dirección o área de catastro, previo convenio de coordinación.
+
+VIII.- Las demás que expresamente le determine esta Ley y las normas consideradas como supletorias de esta.
+
+> <small>(ADICIONADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 13 Ter.
+
+Al Congreso del Estado le corresponde analizar y, en su caso, aprobar las propuestas de valores unitarios de suelo y de construcción que le presenten los Ayuntamientos, para lo cual, podrá solicitar el apoyo técnico y de consulta al Ejecutivo del Estado, para que este le sea brindado a través del Instituto en términos de lo previsto en el artículo 11, fracción XV, de esta ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
 
@@ -387,11 +469,17 @@ e) Los resultados de los trabajos a que se refiere la fracción XV del artículo
 
 V.- Las demás que determine la presente Ley.
 
-> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 15.
 
-En el ejercicio de las atribuciones que les corresponden, los presidentes municipales deberán observar las disposiciones del presente ordenamiento y su reglamento.
+En el ejercicio de las atribuciones que les corresponden, las y los presidentes municipales deberán observar las disposiciones del presente ordenamiento, de la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán y su Reglamento, así como las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 15 Bis.
+
+Los convenios por los que, previa aprobación del cabildo correspondiente, los municipios se coordinen o asocien con el estado en materia de catastro, deberán prever las facultades específicas de las que se hará cargo, de forma temporal, el Poder Ejecutivo del estado, o bien, las que se presten o ejerzan coordinadamente por el Estado y el propio municipio. También, a través de estos convenios, los municipios podrán delegar al Estado la administración del catastro de manera total o parcial.
 
 ### CAPITULO CUARTO. DE LOS VALORES CATASTRALES
 
@@ -467,49 +555,79 @@ Los valores unitarios de suelo y de construcción aprobados, así como los valor
 
 ### CAPITULO QUINTO. "DEL PADRON CATASTRAL Y DE LA INSCRIPCION DE INMUEBLES"
 
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 25.
 
-Todos los bienes inmuebles ubicados en el territorio del Estado se inscribirán en el Catastro, señalando sus características físicas de ubicación, de uso y su valor, los datos socioeconómicos y estadísticos necesarios para cumplir los objetivos del Catastro, en los formatos correspondientes. Asimismo para objeto de actualización habrá de anotarse en el propio padrón toda modificación a cualesquiera de las características de los bienes inmuebles.
+Todos los bienes inmuebles ubicados en el territorio del Estado que cumplan previa y estrictamente con las obligaciones y formalidades que establezcan las disposiciones legales y normativas aplicables en la materia, se inscribirán en el Catastro correspondiente, señalando sus características físicas de ubicación; su valor; el uso; así como los datos socioeconómicos y estadísticos necesarios para cumplir los objetivos del catastro, en sus formatos correspondientes.
+
+En la descripción de la ubicación deberá identificarse el municipio, localidad y centro de población y, en su caso, el núcleo agrario del cual forma parte el bien inmueble.
+
+Respecto a su uso, deberá identificarse su correspondencia con las disposiciones establecidas en los instrumentos de planeación territorial vigentes en el Estado.
+
+Para la inscripción de un predio en el padrón catastral, la autoridad catastral correspondiente deberá comprobar fehacientemente que dicho predio no se encuentra ya inscrito y, en su caso, que exista una resolución firme de la autoridad competente.
+
+Para objeto de la actualización de un predio, habrá de anotarse en el propio padrón toda modificación a cualquiera de las características de los bienes inmuebles.
+
+La inscripción de un predio en el padrón catastral y su correspondiente asignación de clave catastral no genera al propietario o poseedor derechos u obligaciones de ninguna naturaleza.
 
 ###### ARTICULO 26.
 
 Al inscribirse el inmueble en el padrón catastral se le asignará la clave correspondiente, integrándose con el número de la zona catastral, de manzana y de lote; en casos de condominio se añadirá el número del edificio y el de la unidad condominal, cada departamento, despacho, vivienda o local, habrá de inscribirse por separado en el padrón, con diferente clave catastral.
 
-> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 27.
 
-La Dirección del Catastro que corresponda estará facultada para realizar de oficio la inscripción o actualización según se trate, en los siguientes casos:
+La dirección o área de catastro que corresponda estará facultada para realizar de oficio la inscripción o actualización de los predios debidamente inscritos en el Registro Público de la Propiedad y del Comercio del Estado de Yucatán, en los siguientes casos:
 
-I.- Tratándose de inscripciones, cuando los obligados por el Artículo 34 no lo hicieren en los plazos establecidos en el propio Artículo.
+I.- Tratándose de inscripciones, cuando los obligados por el artículo 34 de esta Ley, no lo hicieren en los plazos establecidos en el propio artículo.
 
-II.- Tratándose de actualizaciones, cuando los propietarios y/o los responsables solidarios no la solicitaren en los plazos establecidos en la presente Ley.
+II.- Tratándose de actualizaciones, cuando los propietarios, poseedores o, en su caso, los responsables solidarios no la solicitaren en los plazos establecidos en la presente Ley.
 
-> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+III.- Cuando hecha la corrección, reciba el aviso del Registro Público de la Propiedad y del Comercio del Estado de Yucatán,
+
+Para la inscripción o actualización a que se refiere este artículo, la dirección o área de catastro que corresponda deberá verificar previamente que se cumplan con las obligaciones y formalidades que establezcan las disposiciones legales y normativas aplicables.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 28.
 
-La Dirección del Catastro que corresponda podrá verificar mediante visitas de campo y estudios técnicos, los datos asentados en la manifestación de que se trate. Cuando no coincidan dichos datos con las características reales del inmueble, se ejecutarán los trabajos catastrales a costa del interesado, imponiéndose las sanciones correspondientes.
+La dirección o área de catastro que corresponda podrá verificar mediante visitas de campo y estudios técnicos, los datos asentados en la manifestación de que se trate. Cuando no coincidan dichos datos con las características reales del inmueble, se ejecutarán los trabajos catastrales a costa del interesado, imponiéndose las sanciones correspondientes.
+
+Si del resultado de la inspección a un predio hubiere diferencias en medidas, colindancias y superficies, con los datos inscritos en el Registro Público de la Propiedad y del Comercio del Estado de Yucatán, la autoridad catastral competente procederá a la corrección de datos correspondiente a efecto de inscribir los correctos o, en su caso, la manifestación de negativa de inscripción.
+
+En los casos de predios registrados como rústicos, que ya son parte de un centro de población, deberá contener un punto georreferenciado y se procederá después de su verificación a su registro como predio urbano, de conformidad al informe pericial que se emita al efecto, en el que se mencione que el mismo ya se encuentra dentro del centro de población al que pertenece.
+
+En los casos de predios registrados como urbanos, que no son parte de un centro de población, deberá contener un punto georreferenciado y se procederá después de su verificación a su registro como predio rústico, de conformidad al informe pericial que se emita al efecto, en el que se mencione que el mismo no se encuentra dentro de un centro de población.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 29.
 
-Para el otorgamiento de la autorización o licencia para fraccionar, subdividir, relotificar o unir un bien inmueble, la autoridad competente requerirá del solicitante la certificación del valor y registro catastral del inmueble que corresponda.
+Para el otorgamiento de la autorización o licencia para fraccionar, subdividir o lotificar un bien inmueble, o en su caso, para fusionar o unir dos o más bienes inmuebles, así como para obtener las factibilidades de Constitución o Modificación de Régimen de Propiedad en Condominio de un bien inmueble, la autoridad competente requerirá del solicitante la certificación del valor y registro catastral del o los inmuebles que correspondan y expedirá los oficios correspondientes, los cuales tendrán una vigencia de acuerdo con el año calendario en que se expidan y se podrán revalidar por una sola ocasión.
+
+Cuando la dirección o área de catastro que corresponda emita un oficio de cambio de nomenclatura, mandará una copia para su conocimiento y anotación marginal al Registro Público de la Propiedad y del Comercio del Estado de Yucatán, previo cumplimiento de los requisitos que deban reunir ante este.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 30.
 
-Las personas físicas o morales que obtengan autorización o licencia para fraccionar, subdividir, relotificar o unir un inmueble deberán presentar a la autoridad catastral copia de la licencia o autorización que les haya sido otorgada por la autoridad competente, en un plazo no mayor de quince días hábiles contados a partir de la fecha de su expedición, acompañando copias de los planos y demás documentos relativos; asimismo toda modificación que se realice con posterioridad y que no esté contemplada en la aprobación inicial, deberá ser comunicada en el mismo término a la autoridad catastral, en caso contrario se aplicarán sanciones que correspondan.
+Las personas físicas o morales que obtengan una autorización o licencia para fraccionar, subdividir o lotificar un bien inmueble, así como para fusionar o unir dos o más bienes inmuebles, deberán presentar a la autoridad catastral las autorizaciones vigentes que les hayan sido otorgadas por las autoridades competentes en materia ambiental, urbana y cualquier otra que corresponda por la ubicación del predio motivo de la solicitud, la cual deberá acompañarse con las copias de los planos y de los demás documentos relativos.
+
+Toda modificación que se realice con posterioridad a la autorización o licencia otorgada deberá ser comunicada a la autoridad catastral en el plazo previsto en el artículo 7 de esta Ley. En caso contrario, se aplicarán las sanciones que correspondan.
 
 ###### ARTICULO 31.
 
 Para el otorgamiento de licencia de construcción, reconstrucción, ampliación y demolición, las autoridades municipales competentes requerirán del solicitante la certificación de clave y valor catastral del inmueble respectivo. Asimismo dichas autoridades deberán informar a la autoridad catastral de la terminación de construcciones, la instalación de servicios, la apertura de vías públicas y el cambio de nomenclatura de calles o realización de cualquier obra pública o privada que implique la modificación de las características de los bienes inmuebles o de sus servicios, en un plazo no mayor de treinta días a partir de la fecha de su terminación.
 
-> <small>(F. DE E., D.O. 20 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 32.
 
 Las personas físicas o morales que obtengan licencia para construir, reconstruir, ampliar, demoler o que modifiquen el uso del suelo una vez concluida la obra dispondrán de un plazo no mayor de treinta días hábiles para informar a la autoridad catastral conducente.
 
-La persona encargada de la realización de las obras será responsable solidario de la obligación de dar avisos a que se hace referencia, mismos que deberán firmar junto con el propietario o propietarios, o bien en forma indistinta.
+La persona encargada de la realización de las obras será responsable solidario de la obligación de dar avisos a que se hace referencia, mismos que deberán firmar junto con el o los propietarios o poseedores, o bien, en forma indistinta.
 
 ###### ARTICULO 33.
 
@@ -525,23 +643,25 @@ Los notarios públicos, así como los organismos públicos que por disposición 
 
 El incumplimiento de esta disposición, dará lugar a la aplicación de la sanción señalada en el capítulo respectivo de la presente Ley.
 
-> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 35.
 
-El padrón catastral estará bajo el control y administración de la Dirección del Catastro que, en su caso, corresponda y podrá ser consultado de acuerdo a lo establecido en el artículo 8 de la Constitución Política de los Estados Unidos Mexicanos.
+El padrón catastral de cada municipio estará bajo el control y administración de la dirección o área de catastro que corresponda y podrá ser consultado de acuerdo con lo establecido en el artículo 8 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 36.
 
-La autoridad catastral proporcionará información y expedirá constancias y certificaciones de los planos y datos que obren en el padrón catastral, previa solicitud por escrito de los particulares y que hayan realizado el pago de los derechos respectivos.
+La Dirección o área de catastro de cada municipio proporcionará información y expedirá constancias y certificaciones de los planos y datos que obren en su padrón catastral, previa solicitud por escrito de los particulares y que hayan realizado el pago de los derechos respectivos.
 
 ### CAPITULO SEXTO. "DE LA VALUACION, REVALUACION Y DESLINDES"
 
-> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 37.
 
-La Dirección del Catastro Respectiva asignará el valor catastral a los bienes inmuebles de acuerdo a la presente Ley y las normas técnicas y administrativas aplicables y emitirá una resolución del valor por escrito que será precisamente la cédula catastral.
+La dirección del catastro respectiva asignará el valor catastral a los bienes inmuebles de acuerdo con la presente Ley y las normas técnicas y administrativas aplicables, y emitirá una resolución del valor por escrito que será precisamente la cédula catastral, la cual, además, deberá especificar en su contenido los datos precisos de la zonificación, limitaciones, restricciones y reglas de aprovechamiento contenidas en los planes y programas de desarrollo urbano que apliquen a la propiedad inmobiliaria, en términos de la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Yucatán.
 
 ###### ARTICULO 38.
 
@@ -583,7 +703,11 @@ IV.- Cuando exista error o diferencia entre los datos asentados en el padrón ca
 
 V.- Cuando el valor asignado por la autoridad catastral no se haya realizado conforme a los términos establecidos en la presente Ley.
 
-VI.- En los demás casos en que haya error o diferencia entre los datos asentados en el padrón catastral y las características del bien inmueble.
+> <small>(ADICIONADA, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI.- Cuando exista error o diferencia entre los datos asentados en el padrón catastral y la zonificación, limitaciones, restricciones y reglas de aprovechamiento contenidas en los planes y programas de desarrollo urbano que apliquen a la propiedad inmobiliaria.
+
+VII.- En los demás casos en que haya error o diferencia entre los datos asentados en el padrón catastral y las características del bien inmueble.
 
 Los propietarios, poseedores o sus representantes legales podrán solicitar de la autoridad catastral, la aclaración con relación a los datos asentados en el padrón catastral en todo tiempo.
 
@@ -623,9 +747,13 @@ VI.- Cuando una construcción sea ocupada sin terminar en función de la superfi
 
 VII.- Cuando se tengan valores unitarios aprobados para el sector catastral y el bien inmueble haya sido valuado aplicando valores unitarios provisionales.
 
-VIII.- Cuando el propietario o poseedor del bien inmueble lo solicite; y
+> <small>(ADICIONADA, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IX.- Cuando el bien inmueble sea materia de traslación de dominio y su valor no sea vigente.
+VIII.- Cuando exista error o diferencia entre los datos asentados en el padrón catastral y la zonificación, limitaciones, restricciones y reglas de aprovechamiento contenidas en los planes y programas de desarrollo urbano que apliquen a la propiedad inmobiliaria
+
+IX.- Cuando el propietario o poseedor del bien inmueble lo solicite; y
+
+X.- Cuando el bien inmueble sea materia de traslación de dominio y su valor no sea vigente.
 
 ###### ARTICULO 45.
 
@@ -665,7 +793,11 @@ IV.- Cuando exista error o diferencia entre los datos asentados en el padrón ca
 
 V.- Cuando el valor asignado por la autoridad catastral no se haya realizado conforme a los términos establecidos en la presente Ley.
 
-VI.- En los demás casos en que haya error o diferencia entre los datos asentados en el padrón catastral y las características del bien inmueble.
+> <small>(ADICIONADA, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI.- Cuando exista error o diferencia entre los datos asentados en el padrón catastral y la zonificación, limitaciones, restricciones y reglas de aprovechamiento contenidas en los planes y programas de desarrollo urbano que apliquen a la propiedad inmobiliaria.
+
+VII.- En los demás casos en que haya error o diferencia entre los datos asentados en el padrón catastral y las características del bien inmueble.
 
 Los propietarios, poseedores o sus representantes legales podrán solicitar a la autoridad catastral la aclaración respecto de los datos asentados en el padrón catastral en todo tiempo y en caso de identificación, apeos y deslindes catastrales respecto del valor del inmueble, dentro de los quince días hábiles siguientes al levantamiento del acta circunstanciada.
 
@@ -681,7 +813,9 @@ II.- Clave catastral del inmueble de que se trate.
 
 III.- Ubicación, colindancias, superficie y linderos del inmueble; y
 
-IV.- Descripción de los errores o diferencias que existan en el padrón catastral o de estas en relación con el acta circunstanciada que pretende corregir.
+> <small>(REFORMADA, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- Descripción de los errores o diferencias que existan en el padrón catastral o de estas en relación con el acta circunstanciada que pretende corregir o respecto a la zonificación, limitaciones, restricciones y reglas de aprovechamiento contenidas en los planes y programas de desarrollo urbano que apliquen a la propiedad inmobiliaria.
 
 Al escrito por el que se solicita la aclaración respectiva deberán acompañarse los documentos que la funden para los efectos de la presentación y resolución de este recurso, todos los propietarios o poseedores de predios tienen la obligación de señalar domicilio para recibir notificaciones en el lugar donde esté asentada la autoridad catastral.
 
@@ -691,33 +825,23 @@ Al escrito por el que se solicita la aclaración respectiva deberán acompañars
 
 Compete al Director del Catastro que corresponda, resolver la aclaración en un término no mayor de treinta días hábiles, contados a partir de la fecha de recepción de la solicitud.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 14 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 53.
 
-Contra las resoluciones y acuerdos de la Dirección del Catastro del Estado, procede el recurso de revocación, que deberá ser interpuesto ante la propia Dirección, en escrito por triplicado y presentado en el término de cinco días hábiles contados a partir de la fecha de notificación del acuerdo respectivo.
+Contra las resoluciones y acuerdos de la Dirección de Catastro del Instituto, procede el recurso de revisión en la forma y términos establecidos en el Título Noveno de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
-En dicho escrito el recurrente expresará las razones en que se funde y aportará las pruebas que estime convenientes.
+Admitido el recurso, si lo solicita la parte interesada, se suspenderá la ejecución de la resolución o acuerdo recurrido. Si éste consiste en el cobro de alguna contribución, derecho, impuesto o, en general, alguna prestación de naturaleza económica a cargo del interesado, para garantizar el interés fiscal, se deberá constituir depósito en la Agencia de Administración Fiscal de Yucatán o, en su caso, en la Tesorería Municipal que corresponda, o bien, otorgar fianza de alguna institución legalmente autorizada por una suma equivalente a la prestación reclamada, siempre que se cumpla lo previsto en el artículo 131 de la Ley de Actos y Procedimientos Administrativos del Estado de Yucatán.
 
-> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+En su caso, la Directora o el Director del Catastro fijará la cuantía de la fianza para garantizar los daños y perjuicios que la suspensión pudiera ocasionar si el recurrente no obtuviera resolución favorable.
 
-Admitido el recurso, si lo solicita la parte interesada, se suspenderá la ejecución de la resolución o acuerdo recurrido. Si éste consiste en el cobro de alguna contribución, derecho, impuesto o, en general, alguna prestación de naturaleza económica a cargo del interesado, para garantizar el interés fiscal, se deberá constituir depósito en la Secretaría de Hacienda y Planeación o, en su caso, en la Tesorería Municipal que corresponda, o bien, otorgar fianza de alguna institución legalmente autorizada por una suma equivalente a la prestación reclamada.
-
-> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
-
-En su caso, el Director del Catastro fijará la cuantía de la fianza para garantizar los daños y perjuicios que la suspensión pudiera ocasionar si el recurrente no obtuviera resolución favorable.
-
-> <small>(REFORMADO, D.O. 14 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 54.
 
-Contra la resolución que dicte el Director del Catastro del Estado, con motivo del recurso de revocación, los interesados podrán interponer el de revisión ante el Gobernador del Estado, en escrito por triplicado y dentro de tres días hábiles, contados a partir de la notificación de dicha resolución.
+Contra la resolución que dicte la persona titular de la Dirección de Catastro del Instituto, con motivo del recurso de revisión, las personas interesadas podrán promover el juicio contencioso administrativo ante el Tribunal de Justicia Administrativa del Estado de Yucatán, en términos de la legislación aplicable.
 
-Interpuesto el recurso de revisión, subsistirán los efectos de la suspensión concedida con anterioridad y, de no haberlo hecho antes, el recurrente tendrá derecho a solicitarla, cumpliendo los mismos requisitos exigidos en el artículo inmediato anterior. Corresponderá al Director del Catastro del Estado fijar el monto de la fianza que garantice el interés fiscal, así como los daños y perjuicios que se causaren si el recurrente no obtuviera resolución favorable.
-
-El Gobernador del Estado basándose en el expediente que deberá remitir el Director del Catastro al interponer el recurso, tomando en cuenta lo expuesto por el quejoso, dictará resolución dentro de los treinta días hábiles siguientes a la fecha de interposición de este recurso.
-
-Contra los actos o resoluciones de las autoridades municipales en materia de catastro procederán los recursos previstos en la Ley Orgánica de los Municipios del Estado de Yucatán.
+Contra los actos o resoluciones de las autoridades municipales en materia de catastro procederán los recursos previstos en la Ley de Gobierno de los Municipios del Estado de Yucatán.
 
 ### CAPITULO OCTAVO. "DE LAS INFRACCIONES Y SANCIONES"
 
@@ -762,6 +886,16 @@ IV.- De diez a treinta unidades de medida y actualización a los sujetos cuya co
 En caso de reincidencia, la autoridad catastral podrá duplicar el monto de la multa señalada en este artículo.
 
 Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPITULO NOVENO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
+
+> <small>(ADICIONADO, D.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 57.
+
+En el desempeño de sus funciones, las personas servidoras públicas del Instituto y de las direcciones o áreas de los catastros municipales estarán sujetas a las responsabilidades administrativas en que incurran en el ejercicio de su empleo, cargo, o comisión, derivadas del incumplimiento de las obligaciones que al efecto les impone esta Ley, la Ley que crea el Instituto de Seguridad Jurídica Patrimonial de Yucatán y su Reglamento, la Ley de Responsabilidades de los Servidores Públicos del Estado de Yucatán y demás disposiciones legales o reglamentarias aplicables. Para esto, y a efecto de determinar las sanciones, procedimientos y autoridades competentes para aplicarlas, se sujetarán a lo dispuesto en dichos ordenamientos.
 
 T R A N S I T O R I O S :
 
@@ -892,3 +1026,27 @@ De igual manera, cuando las leyes de la Administración Pública estatal y sus r
 Artículo Décimo segundo. Plazo para la integración del temario
 
 Por única ocasión, la Consejería Jurídica formulará el temario a que se refiere el artículo 27 de la Ley del Notariado del Estado de Yucatán, y lo publicará en el Diario Oficial del Gobierno del Estado de Yucatán, dentro del plazo de noventa días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 822/2024 POR EL QUE SE MODIFICA LA LEY DEL CATASTRO DEL ESTADO DE YUCATÁN”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Asuntos en trámite
+
+Artículo segundo. Los procedimientos, recursos y demás asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de este decreto, se substanciarán y resolverán, hasta su total conclusión, en los términos de las disposiciones legales y normativas con las que iniciaron.
+
+Obligación normativa estatal
+
+Artículo tercero. El Poder Ejecutivo del estado, en un plazo máximo de ciento ochenta días naturales, contado a partir de la entrada en vigor de este decreto, deberá expedir o modificar las disposiciones que fuesen necesarias para armonizar el marco jurídico estatal con las disposiciones contenidas en este decreto.
+
+Obligación normativa municipal
+
+Artículo cuarto. Los ayuntamientos de los municipios del estado de Yucatán, en un plazo máximo de trescientos sesenta y cinco días naturales, contado a partir de la entrada en vigor de este decreto, deberán expedir o adecuar sus reglamentos municipales y demás disposiciones normativas que fuesen necesarias para armonizar sus respectivos marcos jurídicos con las disposiciones contenidas en este decreto.
+
+Derogación normativa
+
+Artículo quinto. Se derogan todas las disposiciones normativas de igual o menor jerarquía que se opongan al presente decreto.
