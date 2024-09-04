@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-defensoria-publica-del-estado-de-morelos-93830"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-03"
-last_updated: "2024-07-31"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 3 de abril de 2013.
 
@@ -501,7 +501,9 @@ El Director General podrá intervenir en los diferentes asuntos que se encuentre
 
 Para ser Defensor Público se requiere:
 
-I. Ser ciudadano mexicano por nacimiento, de preferencia morelense;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+I. Ser ciudadano mexicano, de preferencia morelense;
 
 II. Tener plena capacidad jurídica;
 
@@ -980,3 +982,11 @@ PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDO. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de Difusión del Gobierno del estado de Morelos.
 
 TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y SEIS POR EL QUE SE REFORMA LA FRACCIÓN PRIMERA DEL ARTÍCULO 33 DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS".]
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA (SIC).- El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado.
