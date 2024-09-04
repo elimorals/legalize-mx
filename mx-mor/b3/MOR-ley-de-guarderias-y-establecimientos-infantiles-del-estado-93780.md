@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-guarderias-y-establecimientos-infantiles-del-estado-9378
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-10"
-last_updated: "2015-08-19"
+last_updated: "2024-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93780&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE GUARDERIAS Y ESTABLECIMIENTOS INFANTILES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEXTO TRANSITORIO DE LA LEY DE PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 4 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE GUARDERÍAS Y ESTABLECIMIENTOS INFANTILES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de abril de 2013.
 
@@ -1056,3 +1058,21 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PRESTACIÓN DE SERVICIOS DE ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase la presente Ley al Titular del Poder Ejecutivo del Estado para su publicación correspondiente en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. La presente Ley iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. El Ejecutivo del Estado, en un plazo no mayor a ciento ochenta días hábiles posteriores a la entrada en vigor de la presente Ley, expedirá su Reglamento, y realizará las adecuaciones necesarias al marco jurídico del mismo rango jerárquico.
+
+CUARTA. Los prestadores de servicios para atención, cuidado y desarrollo integral infantil que cuenten o no con licencias expedidas con anterioridad a esta Ley, que amparan el funcionamiento de los Centros de Desarrollo y Atención Infantil, contarán con un término de un año, contado a partir de la entrada en vigor del Reglamento a que se refiere la Disposición Transitoria anterior, a efecto de regularizar su situación, deberán cumplir con los requisitos previstos en la normativa aplicable.
+
+QUINTA. El Consejo Estatal de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil, deberá quedar instalado a más tardar dentro de los noventa días hábiles siguientes a la entrada en vigor de la presente Ley.
+
+SEXTA. Se abroga la Ley de Guarderías y Establecimientos Infantiles del Estado de Morelos, publicada en el periódico oficial "Tierra y Libertad, número 5083, el 10 de abril de 2013, y se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico que se opongan a la presente Ley.
+
+SÉPTIMA. El Poder Ejecutivo Estatal, por sí o por conducto del IEBEM, deberá prever lo conducente dentro del paquete económico del ejercicio fiscal 2025, para establecer en su presupuesto la suficiencia necesaria para implementar las acciones que se derivan de esta Ley.
