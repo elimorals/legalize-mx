@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2024-02-28"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -193,7 +193,9 @@ II.- Incluir en la legislación de la materia, el tipo penal de violencia en el 
 
 III.- Prever los mecanismos procesales respectivos para la acreditación de la violencia en el ámbito familiar, en materia civil y penal, considerando la preconstitución de pruebas, respecto a las constancias que se proporcionen a las mujeres, con motivo de la asistencia a los centros de atención, la Procuraduría de la Defensa del Menor y la Familia o refugios especializados en los términos del Código Familiar y Código Procesal Familiar para el Estado de Morelos.
 
-### CAPÍTULO II. DE LA VIOLENCIA EN EL ÁMBITO LABORAL Y DOCENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. DE LA VIOLENCIA EN EL ÁMBITO LABORAL Y ESCOLAR
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
@@ -205,13 +207,19 @@ La violencia en el ámbito laboral es toda acción u omisión realizada por el p
 
 De igual manera, constituye violencia en el ámbito laboral la solicitud de certificados médicos de no embarazo como requisito para la contratación, permanencia, promoción o ascenso en el empleo, cargo o comisión; así como el despido por este motivo, o bien, la coacción directa o indirecta para que renuncie; así como la discriminación o menoscabo de sus derechos con motivo de su estado de gravidez o embarazo, o por estar en periodo de lactancia.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 11.
 
-La violencia en el ámbito docente comprende aquellas conductas que dañen la autoestima de las alumnas con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, que les infligen maestras o maestros.
+La violencia en el ámbito escolar es todo acto o conducta ejercida por una persona integrante de una comunidad educativa, dentro o fuera de las instituciones educativas públicas y privadas, que daña la integridad, dignidad, autoestima, integración o bienestar físico, psicológico o sexual de una alumna o estudiante.
+
+Son integrantes de las comunidades educativas las y los alumnos, las y los estudiantes, los ex alumnos y ex estudiantes; el personal docente, directivo, administrativo y de apoyo, autoridades educativas y locales, así como las madres, padres, tutores o personas cuidadoras.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 12.
 
-Son manifestaciones de la violencia en el ámbito laboral y docente, el hostigamiento y abuso sexual, entendiendo por hostigamiento sexual, el ejercicio del poder, mediante la violencia física, psicológica, sexual o económica sobre las mujeres a partir de la subordinación que se tiene respecto del patrón o docente independientemente del tipo penal consagrado en las leyes respectivas.
+Son manifestaciones de la violencia en el ámbito laboral y escolar, el hostigamiento y abuso sexual, entendiendo por hostigamiento sexual, el ejercicio del poder, mediante la violencia física, psicológica, sexual o económica sobre las mujeres a partir de la subordinación que se tiene respecto del patrón, directivo, personal administrativo, docente o cualquier persona con que la exista una relación de subordinación independientemente del tipo penal consagrado en las leyes respectivas.
 
 El abuso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
@@ -221,17 +229,23 @@ Las políticas públicas del Estado y Municipios deben considerar en materia de 
 
 I.- El impacto psicológico y emocional que generan en quien las sufre;
 
-II.- Las diferentes formas de discriminación que se pueden presentar en razón del género, edad, condición de las mujeres, estado civil, preferencia sexual;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-III.- La adhesión a convenios o protocolos para eliminar esta modalidad de violencia, por parte de sindicatos, empresas públicas o privadas y de la Administración Pública Paraestatal, y
+II.- Las diferentes formas de discriminación que se pueden presentar en razón del género, edad, condición de las mujeres, estado civil, orientación sexual, identidad o expresión de género, origen étnico o nacional, color de la piel, lengua, idioma, cultura, embarazo, situación familiar, discapacidades, apariencia física, características genéticas o algún otro motivo contemplado en la Ley para Prevenir y Eliminar la Discriminación en el Estado de Morelos;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III.- La adhesión a convenios o protocolos para eliminar esta modalidad de violencia, por parte de sindicatos, empresas públicas o privadas y de la Administración Pública Paraestatal, escuelas, colegios y universidades públicas y privadas u otros centros educativos, y
 
 IV.- La evaluación de sus políticas públicas.
 
 ### CAPÍTULO III. DE LA VIOLENCIA EN EL ÁMBITO INSTITUCIONAL
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 14.
 
-La violencia en el ámbito institucional comprende las acciones, prácticas u omisiones de las y los servidores públicos del Estado y Municipios que dilaten, obstaculicen o impidan que las mujeres accedan a los medios o mecanismos para el goce y ejercicio pleno de sus derechos fundamentales o políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia contra las mujeres o aquellas necesarias para su desarrollo, de conformidad a lo dispuesto en la CEDAW.
+La violencia en el ámbito institucional comprende las acciones, prácticas u omisiones de las y los servidores públicos del Estado y Municipios que discriminen, utilicen estereotipos de género, dilaten, obstaculicen o impidan que las mujeres accedan a los medios o mecanismos para el goce y ejercicio pleno de sus derechos fundamentales o políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia contra las mujeres o aquellas necesarias para su desarrollo, de conformidad a lo dispuesto en la CEDAW.
 
 ###### Artículo 15.
 
@@ -559,9 +573,11 @@ II.- Encontrarse debidamente registrados en el Instituto de la Mujer para el Est
 
 III.- Contar con una institución pública o privada reconocida, que funja como supervisor clínico de los profesionales que proporcionan el apoyo psicoterapéutico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 27.
 
-Para la atención de la violencia en el ámbito laboral y docente, el Estado y los Municipios buscarán:
+Para la atención de la violencia en el ámbito laboral y escolar, el Estado y los Municipios buscarán:
 
 I.- Celebrar convenios con el sector público y privado sobre la vigilancia de prácticas discriminatorias;
 
@@ -1295,15 +1311,23 @@ Corresponde a la Secretaría de Educación:
 
 I.- Contemplar en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno a los derechos de las mujeres, así como fomenten la cultura de una vida libre de violencia contra las mujeres y el respeto a su dignidad; la comprensión adecuada al ejercicio del derecho a una paternidad y maternidad libre, responsable e informada, como función social y el reconocimiento de la responsabilidad compartida de hombres y mujeres en cuanto a la educación y el desarrollo de sus hijos;
 
-II.- Incluir en sus políticas, programas y contenidos educativos, los ejes de acción de prevención y erradicación de la violencia contra las mujeres, con apoyo en la equidad de género, el aprendizaje emocional y la resolución pacifica de conflictos.
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-III.- Informar y sensibilizar a la población estudiantil, docente, comunidad de planteles, oficinas sobre género, equidad y violencia en sus diferentes tipos y ámbitos, dentro de las acciones que se realizan para apoyar el desarrollo integral de los estudiantes, impulsando un área especifica enfocada a estos aspectos;
+II.- Incluir en sus políticas, programas y contenidos educativos, los ejes de acción de prevención y erradicación de la violencia contra las mujeres y la construcción de paz, con apoyo en la equidad de género, el aprendizaje emocional y la resolución pacífica de conflictos.
 
-IV.- Incorporar específicamente en los programas educativos y contenidos, en todos los niveles de instrucción, el respeto a los derechos de las mujeres y modificar los conceptos culturales que impliquen prejuicios y fomenten la inferioridad o superioridad de uno de los sexos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III.- Informar y sensibilizar a la población de las comunidades educativas, con especial énfasis en las y los alumnos, en las y los estudiantes, personal docente y directivo, sobre género, equidad y violencia en sus diferentes tipos y ámbitos, la gestión de conflictos y la justicia restaurativa dentro de las acciones que se realizan para apoyar el desarrollo integral de los estudiantes, impulsando un área específica enfocada a estos aspectos;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- Incorporar específicamente en los programas educativos y contenidos, en todos los niveles de instrucción, el respeto a los derechos de las mujeres, la cultura de paz y modificar los conceptos culturales que impliquen prejuicios y fomenten la inferioridad o superioridad de uno de los sexos;
 
 V.- Crear materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres; eliminando los programas educativos y materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
 
-VI.- Garantizar el derecho de acceso de las mujeres a la educación, a la alfabetización además de favorecer su permanencia y la conclusión de sus estudios en todos los niveles, a través del otorgamiento de becas, apoyos e incentivos;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI.- Garantizar el derecho de acceso de las mujeres a la educación, a la alfabetización además de favorecer su permanencia y la conclusión de sus estudios en todos los niveles, a través del otorgamiento de becas, apoyos e incentivos y programas de prevención, atención, sanción y reparación de la violencia;
 
 VII.- Implementar las investigaciones multidisciplinarias encaminadas a crear modelos de detección de la violencia contra las mujeres en los centros educativos, que dimensionen la problemática y faciliten la toma de decisiones e implementación de políticas públicas;
 
@@ -2212,3 +2236,29 @@ SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente d
 TERCERA. Dentro del plazo de 180 días hábiles contados a partir de la vigencia del presente Decreto, se deberán realizar las adecuaciones que resulten necesarias al marco regulatorio interior de la Comisión Estatal de Seguridad Pública, para atender los términos de la presente reforma, respecto a la implementación y funcionamiento del Registro Estatal de Agresores Sexuales.
 
 CUARTA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL OCHOCIENTOS SETENTA POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL PARA LA CONVIVENCIA Y SEGURIDAD DE LA COMUNIDAD ESCOLAR Y LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS, EN MATERIA DE VIOLENCIA ESCOLAR".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los efectos de los artículos 44, 47 y 70 fracción XVII inciso b) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día 01 de enero de 2025.
+
+TERCERA. El Ejecutivo Estatal, en la elaboración del Presupuesto de Egresos del Ejercicio Fiscal correspondiente al año 2025, preverá la asignación de recursos para la implementación de la presente reforma.
+
+CUARTA. La Secretaría de Educación, así como el Instituto de Educación Básica del Estado de Morelos, contarán con un plazo de noventa días hábiles posteriores a la entrada en vigor del presente Decreto, para la expedición de los lineamientos o del reglamento para dar cumplimiento al presente Decreto.
+
+Así mismo, se deberá dar prioridad a las comunidades estudiantiles con mayores índices de violencia.
+
+QUINTA. Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y NUEVE POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE MORELOS, DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, DE LA LEY DE VÍCTIMAS DEL ESTADO DE MORELOS, Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS".]
+
+PRIMERO.– Aprobado el presente Decreto por las diputadas y diputados integrantes de la Quincuagésima Quinta Legislatura del Congreso del Estado de Morelos, remítase el presente decreto al titular del Poder Ejecutivo del estado para su publicación de conformidad con lo dispuesto por los artículos 44, 47 y 70, fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO.– Se derogan todas las disposiciones de igual o menor grado jerárquico que se opongan al presente decreto.
