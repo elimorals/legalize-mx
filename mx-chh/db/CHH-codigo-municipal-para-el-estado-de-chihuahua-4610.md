@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2024-02-28"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -73,7 +73,9 @@ IV. Impulsar la igualdad sustantiva y no discriminación al interior como al ext
 
 V. Garantizar los derechos humanos en todo el territorio municipal;
 
-VI. Garantizar un enfoque integral, transversal, con perspectiva de derechos humanos, de género e interculturalidad en el diseño y la instrumentación de políticas y programas de gobierno;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Garantizar un enfoque integral, transversal, con perspectiva de derechos humanos, de género, interculturalidad y de familia, en el diseño y la instrumentación de políticas y programas de gobierno;
 
 VII. Establecer los procedimientos de impugnación de actos del Ayuntamiento.
 
@@ -101,9 +103,9 @@ Los Municipios tendrán derecho, a determinar la forma particular de su organiza
 
 El Ayuntamiento es la autoridad competente para interpretar la legislación municipal y dictar las disposiciones generales o particulares que se requieran para su eficaz cumplimiento.
 
-> <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-Esta interpretación debe preservar la perspectiva de derechos humanos, de género, e interculturalidad, así como los principios constitucionales y aquellos establecidos en el presente Código.
+Esta interpretación debe preservar la perspectiva de derechos humanos, de género, interculturalidad y de familia, así como los principios constitucionales y aquellos establecidos en el presente Código.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2021)</small>
 
@@ -725,9 +727,9 @@ Para lo no previsto, en este ordenamiento sobre el funcionamiento de los Ayuntam
 
 Son facultades y obligaciones de los Ayuntamientos:
 
-> <small>(REFORMADO ESTE PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-I.- Aprobar de acuerdo con las leyes en materia municipal expedidas por la Legislatura del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones con perspectiva de derechos humanos, de género e interculturalidad, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y social, bajo los principios de igualdad sustantiva y no discriminación;
+I.- Aprobar de acuerdo con las leyes en materia municipal expedidas por la Legislatura del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, con perspectiva de derechos humanos, de género, interculturalidad y de familia, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y social, bajo los principios de igualdad sustantiva y no discriminación;
 
 Los reglamentos aprobados por los Ayuntamientos deberán publicarse en el Periódico Oficial del Estado o en la Gaceta Municipal, en los casos en que el Ayuntamiento correspondiente cuente con una.
 
@@ -867,9 +869,9 @@ g) Las acciones en materia de igualdad sustantiva, no discriminación y para pre
 
 h) En general, coordinarse conforme a las leyes, para la ejecución y operación de obras y la prestación de servicios públicos;
 
-> <small>(REFORMADA, P.O. 24 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XXVI. Aprobar y ordenar la publicación en el Periódico Oficial del Estado, el Plan Municipal de Desarrollo con Perspectiva de Derechos Humanos, de Género, e interculturalidad, correspondiente a su periodo constitucional de gobierno y derivar de éste, los programas anuales para la ejecución de obras y la prestación de los servicios de su competencia;
+XXVI.- Aprobar y ordenar la publicación en el Periódico Oficial del Estado, el Plan Municipal de Desarrollo con Perspectiva de Derechos Humanos, de Género, interculturalidad y de familia, correspondiente a su periodo constitucional de gobierno y derivar de este, los programas anuales para la ejecución de obras y la prestación de los servicios de su competencia;
 
 XXVII.- Reglamentar en materia de construcción, a efecto de que todas las construcciones públicas y privadas de uso público, cumplan con las especificaciones orientadas al uso adecuado por parte de personas con discapacidad física;
 
@@ -995,9 +997,13 @@ LIV.- Impulsar la creación de las instancias municipales en materia de protecci
 
 LV.- Establecer mecanismos, en el ámbito de su competencia, que favorezcan a la prevención, atención, sanción y erradicación del acoso y hostigamiento sexual en contra de mujeres, niñas, niños y adolescentes. Para lo cual podrán celebrar acuerdos y convenios con instituciones públicas o privadas.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-LVI.- Las demás que les confieren las leyes y sus reglamentos.
+LVI.- Impulsar la aprobación e implementación transversal de la perspectiva de familia en las políticas públicas municipales, entendida esta como las acciones municipales para la protección y fortalecimiento de las familias mediante la construcción de una cultura de la complementariedad entre sus integrantes, eliminando todas las formas de violencia a su interior y exterior que atenten contra su unidad en los sectores público y privado, y encaminadas a mejorar las condiciones de vida familiar en los ámbitos económico, social y de cuidado en el hogar para quienes que (sic) la conforman.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+LVII.- Las demás que les confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -1153,9 +1159,13 @@ XLV.- Proponer al Ayuntamiento, la celebración de instrumentos jurídicos para 
 
 XLVI.- Ejercer, en el ámbito de su competencia, las acciones que favorezcan a la prevención, atención, sanción y erradicación del acoso y hostigamiento sexual en contra de mujeres, niñas, niños y adolescentes.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 10 DE ENERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XLVII.- Las demás que le confieren las leyes y reglamentos.
+XLVII.- Implementar, de conformidad con el artículo 2 de la Ley de Planeación del Estado de Chihuahua, la planeación como mecanismo para el eficaz desempeño de la responsabilidad del gobierno municipal en el desarrollo equitativo, incluyente, integral, sustentable y sostenible del país, bajo una perspectiva de familia, entendida esta como las acciones para la protección y fortalecimiento de las familias que habitan el municipio mediante la construcción de una cultura de la complementariedad entre sus integrantes, eliminando todas las formas de violencia a su interior y exterior que atenten contra su unidad en los sectores público y privado, y encaminadas a mejorar las condiciones de vida familiar en los ámbitos económico, social y de cuidado en el hogar para quienes que (sic) la conforman.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XLVIII.- Las demás que le confieren las leyes y reglamentos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 1987)</small>
 
@@ -5902,3 +5912,15 @@ P.O. 28 DE FEBRERO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO Nº LXVII/RFLYC/0884/2024 XIII P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PLANEACIÓN DEL ESTADO DE CHIHUAHUA, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA]".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
