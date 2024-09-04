@@ -4,7 +4,7 @@ identifier: "MOR-ley-estatal-de-participacion-ciudadana-reglamentaria-del-125025
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-20"
-last_updated: "2017-12-20"
+last_updated: "2024-09-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ESTATAL DE PARTICIPACION CIUDADANA, REGLAMENTARIA DEL ARTICULO 19 BIS DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO QUINTO DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 4 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL DE PARTICIPACIÓN CIUDADANA, REGLAMENTARIA DEL ARTÍCULO 19 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Número 5562 del Periódico Oficial del Estado de Morelos, el miércoles 20 de diciembre de 2017.
 
@@ -1648,3 +1650,23 @@ SECRETARIO DE GOBIERNO
 M.C. MATÍAS QUIROZ MEDINA
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad". Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Publíquese en El Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan a la presente Ley.
+
+CUARTO.- El Reglamento de la presente Ley deberá expedirse en un plazo no mayor a noventa días hábiles, contados a partir de la entrada en vigor de la presente Ley, por el Instituto Morelense de Procesos Electorales y Participación Ciudadana.
+
+QUINTO.- Se abroga la Ley Estatal de Participación Ciudadana, Reglamentaria del Artículo 19 Bis de la Constitución Política del Estado Libre y Soberano de Morelos publicada en el Periódico Oficial “Tierra Y Libertad “Número (sic) 5562 de fecha 20 de diciembre del año 2017.
+
+SEXTO.- El Congreso del Estado establecerá en el presupuesto de egresos del Poder Legislativo del ejercicio fiscal que corresponda, los recursos suficientes para la instrumentación de la presente Ley.
+
+SÉPTIMO.- Una vez conformado el Consejo Estatal de Participación Ciudadana en un término no mayor a 90 días deberá expedir su reglamento.
