@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2021-10-06"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE OCTUBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -105,51 +105,55 @@ VII. El CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo S
 
 VIII. El Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
 
-IX. La Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-X. La Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
+IX. Crianza positiva: Práctica de cuidado, protección, formación y guía que posibilitan el desarrollo, bienestar y crecimiento saludable y armonioso, tanto físico como mental, espiritual, ético, cultural y social de las niñas, niños y adolescentes, misma que se realiza de acuerdo con la evolución de las facultades, la etapa del ciclo vital de desarrollo, las características de la niña, niño o adolescente, sin recurrir a la -violencia, sino respetando sus derechos humanos;
 
-XI. La Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
+X. La Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
 
-XII. La Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+XI. La Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
 
-XIII. La Familia de Acogimiento pre-adoptivo: Aquélla que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+XII. La Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-XIV. La Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+XIII. La Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
+
+XIV. La Familia de Acogimiento pre-adoptivo: Aquélla que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
+
+XV. La Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2018)</small>
 
-XV. El Informe de Adoptabilidad: El documento expedido por la Procuraduría, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la Adoptabilidad de niñas, niños y adolescentes;
+XVI. El Informe de Adoptabilidad: El documento expedido por la Procuraduría, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la Adoptabilidad de niñas, niños y adolescentes;
 
-XVI. El Órgano Jurisdiccional, a los juzgados o tribunales federales o de las entidades federativas;
+XVII. El Órgano Jurisdiccional, a los juzgados o tribunales federales o de las entidades federativas;
 
 > <small>(REFORMADA, P.O. 22 DE MAYO DE 2019)</small>
 
-XVII. Las Procuradurías de Protección: La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, del Sistema DIF Morelos y las instancias Municipales;
+XVIII. Las Procuradurías de Protección: La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia, del Sistema DIF Morelos y las instancias Municipales;
 
-XVIII. El Programa Local: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Morelos;
+XIX. El Programa Local: El Programa de Protección de Niñas, Niños y Adolescentes del Estado de Morelos;
 
-XIX. El Programa Municipal: El programa de Protección de Niñas, Niños y Adolescentes de cada municipio
+XX. El Programa Municipal: El programa de Protección de Niñas, Niños y Adolescentes de cada municipio
 
-XX. La Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
+XXI. La Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
 
-XXI. La Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXII. La Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXII. La Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
+XXIII. La Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-XXIII. La Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+XXIV. La Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-XXIV. (DEROGADA, P.O. 30 DE AGOSTO DE 2018)
+XXV. (DEROGADA, P.O. 30 DE AGOSTO DE 2018)
 
-XXV. El Sistema de Protección Local: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Morelos;
+XXVI. El Sistema de Protección Local: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Morelos;
 
-XXVI. Los Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
+XXVII. Los Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
 
-XXVII. El Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+XXVIII. El Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-XXVIII. El Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+XXIX. El Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
 
-XXIX. Los Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXX. Los Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
 ###### Artículo 5.
 
@@ -188,6 +192,10 @@ XII. El principio pro persona;
 XIII. El acceso a una vida libre de violencia, y
 
 XIV. La accesibilidad.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XV. El derecho al libre desarrollo de la personalidad.
 
 ###### Artículo 7.
 
@@ -365,7 +373,9 @@ Las y los niños menores de tres años que nazcan o permanezcan junto a su madre
 
 Así mismo, en términos de los dispuesto en los artículos 10, fracciones VI y IV, y 36, tercer párrafo de la citada Ley Nacional de Ejecución Penal, el Estado les reconocerá como titulares de derechos, proporcionando las condiciones de vida que garanticen su sano desarrollo, atendiendo el interés superior de la niñez, de conformidad con lo señalado en la propia Ley Nacional y demás normativa aplicable. De conformidad con lo dispuesto en la Ley Nacional de ejecución Penal, y conforme al ámbito de sus respectivas competencias, la autoridad penitenciaria adoptará las acciones tendientes a proporcionar las condiciones de vida que garanticen el sano desarrollo de las niñas y los niños.
 
-El estado garantizara a las madres en reclusión la obtención de información periódica del estado de salud de sus hijos, con base en un expediente clínico, que también se compartirá con la persona o institución que se haga cargo del menor a partir de su egreso del centro penitenciario, respetando en todo caso la legislación en materia de salud y de protección de datos personales.
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+El estado garantizará a las madres en reclusión la obtención de información periódica del estado de salud de hijas o hijos, con base en un expediente clínico, que también se compartirá con la persona o institución que se haga cargo del o la menor a partir de su egreso del centro penitenciario, respetando en todo caso la legislación en materia de salud y de protección de datos personales.
 
 En su caso las niñas y los niños cuya madre biológica se encuentre privada de su libertad cumpliendo con una condena en un centro penitenciario femenil estatal se les garantizará el acceso a la información de los programas sociales estatales que proporcionen las condiciones de vida que garanticen su sano desarrollo de conformidad con la normatividad aplicable.
 
@@ -491,6 +501,18 @@ V. Establecer los mecanismos institucionales que orienten al Estado de Morelos h
 
 VI. Desarrollar campañas permanentes de sensibilización de los derechos de niñas y adolescentes.
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Promover un entorno educativo en el que se eliminen las barreras sociales y culturales que impidan la asistencia a las escuelas de adolescentes embarazadas;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Generar mecanismos e impulsar campañas para alentar a las niñas, niños y adolescentes a ejercer su opinión en los asuntos que les afecten, garantizando que sus opiniones sean respetadas y valoradas de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Diseñar y aplicar protocolos de investigación sobre delitos que se cometen con mayor incidencia en contra de niñas, niños y adolescentes, primordialmente aquellos que atenten contra su vida, seguridad, libertad, dignidad y libre desarrollo de la personalidad.
+
 ###### Artículo 35.
 
 El Congreso del Estado y los municipios, en el ámbito de su competencia, se asegurarán de que las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar, en todo momento, sus derechos en aras de alcanzar la igualdad sustantiva con respecto a los niños y a los adolescentes; y, en general, con toda la sociedad.
@@ -527,9 +549,11 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 41.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo, garantizando un entorno afectivo, comprensivo y sin violencia, para el pleno armonioso y libre desarrollo de su personalidad, en base a una crianza positiva. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2019)</small>
 
@@ -537,9 +561,11 @@ Artículo 41 bis. La edad mínima para contraer matrimonio será los 18 años, d
 
 ### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 42.
 
-Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
+Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia, a ser protegidos, cuidados y guiados a un sano desarrollo integral y formados mediante una crianza positiva, respetuosa de todos sus derechos y a que se resguarde su integridad física y personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
 
 ###### Artículo 43.
 
@@ -601,7 +627,9 @@ VIII. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así com
 
 IX. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
 
-X. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, VIH/SIDA y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre éstas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+X. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, diabetes en todas sus variantes y tipos, VIH/SIDA y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre éstas;
 
 XI. Proporcionar asesoría y orientación sobre salud sexual y reproductiva;
 
@@ -619,6 +647,10 @@ XVII. Establecer medidas para la detección temprana de discapacidades a efecto 
 
 XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
 
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XX (SIC). Desarrollar e implementar estrategias de información de educación sexual y reproductiva para niñas, niños ya (sic) adolescentes.
+
 Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
 El sistema estatal de Salud deberá garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer Acciones afirmativas a favor de niñas, niños y adolescentes.
@@ -632,6 +664,12 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 ###### Artículo 48.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 48 Bis.
+
+Las autoridades estatales y municipales procurarán que el cuerpo médico, de enfermería, de trabajo social y administrativo de instituciones de salud públicas y privadas que atiendan a niñas, niños y adolescentes estén debidamente capacitados y sensibilizados en materia sus derechos humanos.
 
 ### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
 
@@ -674,6 +712,18 @@ III. Promover acciones interdisciplinarias para el estudio, diagnóstico tempran
 IV. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, esparcimiento, actividades ocupacionales, así como a la capacitación para el trabajo, y
 
 V. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Promover acciones interdisciplinarias para el estudio, diagnóstico temprano, tratamiento y rehabilitación de las discapacidades de niñas, niños y adolescentes que en cada caso se necesiten, asegurando que sean accesibles a las posibilidades económicas de sus familiares o tutores;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Desarrollar, implementar e impulsar políticas, programas y acciones específicos que amplíen y mejoren la cobertura de servicios, accesibilidad y movilidad de niñas, niños y adolescentes con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII (SIC). Realizar campañas de sensibilización orientadas a promover el respeto a los derechos de niñas, niños y adolescentes con discapacidad, así como a combatir estereotipos y prejuicios respecto de su discapacidad.
 
 Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, entidad federativa y tipo de discapacidad.
 
@@ -729,7 +779,9 @@ XVII. Administrar la disciplina escolar de modo compatible con la dignidad human
 
 XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
 
-XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIX. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; así como el respeto, cuidado y procuración de bienestar de los animales.
 
 XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación, y
 
@@ -738,6 +790,10 @@ XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de n
 > <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2019)</small>
 
 XXII. Instaurar acciones encaminadas al fortalecimiento del núcleo familiar, a fin de que todas las niñas, niños y adolescentes logren un adecuado desarrollo integral.
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XXIII. Fomentar el desarrollo de la infraestructura tecnológica en los planteles educativos para promover la formación científica y tecnológica de niñas, niños y adolescentes.
 
 Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
 
@@ -791,9 +847,17 @@ Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al j
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 57.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas y espacios adecuados y seguros en condiciones de igualdad para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 57 Bis.
+
+Las autoridades estatales y municipales propiciarán la participación gratuita de niñas, niños y adolescentes de escasos recursos en talleres, cursos, espectáculos y otras actividades educativas, culturales, artísticas y deportivas llevados a cabo por el Estado, los municipios y sus dependencias.
 
 ### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
 
@@ -812,6 +876,12 @@ Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligados a establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, ni de los principios rectores de esta Ley.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 59 Bis.
+
+Las niñas, niños y adolescentes pertenecientes a un grupo indígena tienen derecho al reconocimiento y protección de sus usos y costumbres, incluyendo concepciones religiosas, educativas, estéticas, festivas, de vestido, lengua y cualquier otra expresión cultural.
 
 ### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
 
@@ -869,6 +939,20 @@ Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuent
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, están obligados a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Para garantizar el derecho de niñas, niños y adolescentes a ser escuchados, deberán:
+
+I. Asegurarse de que estén informados sobre su de re cho (sic) a expresar su opinión en todos los asuntos que les afecten;
+
+II. Prepararlos debidamente antes de que sean escuchados, explicándoles cómo, cuándo y dónde se les escuchará y quiénes serán las personas participantes;
+
+III. La persona que escuchará a niñas, niños y adolescentes deberá ser un profesional especializado en derechos humanos de niñas, niños y adolescentes;
+
+IV. Adoptar el formato de una conversación, y no el de una entrevista unilateral, cuando la situación así lo permita, y
+
+V. Deberán garantizar que niñas, niños y adolescentes puedan interponer comunicaciones cuando consideren que son víctimas de algún tipo de violencia o presencien alguna situación de violencia sobre otra persona menor de edad.
+
 ###### Artículo 67.
 
 Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan, en los términos señalados en este Capítulo.
@@ -876,6 +960,10 @@ Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y to
 ###### Artículo 68.
 
 Niñas, niños y adolescentes también tienen derecho a que las diferentes instancias gubernamentales estatales y municipales, les informen de qué manera su opinión ha sido valorada y tomada en cuenta su solicitud.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+La persona encargada de asumir decisiones debe informar de manera clara y accesible que resulte comprensible a niñas, niños y adolescentes, sobre el resultado de su solicitud o proceso.
 
 ### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
 
@@ -939,9 +1027,11 @@ El órgano jurisdiccional competente, con base en este artículo y en las dispos
 
 Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecido en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política para el Estado Libre y Soberano de Morelos, esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 77.
 
-Las autoridades estatales y municipales, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas a observar, cuando menos a:
+Las autoridades estatales y municipales, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo cognoscitivo y grado de madurez estarán obligadas a observar, cuando menos a:
 
 I. Garantizar la protección y prevalencia del interés superior de la niñez a que se refiere el artículo 2 de la presente Ley;
 
@@ -965,9 +1055,17 @@ X. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan 
 
 XI. Destinar espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
 
-XII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante las audiencias y la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
+XII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante las audiencias y la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Garantizar que el entorno en el que sean escuchados niñas, niños o adolescentes sea reconfortante, tranquilizante, agradable, amigable, sensible y adecuado para su edad.
 
 ###### Artículo 78.
 
@@ -985,9 +1083,11 @@ La Procuraduría de Protección Estatal, en el marco de sus atribuciones, deber�
 
 Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 80.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccional es (sic) en que estén relacionadas niñas, niños o adolescentes como probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
 
 I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable;
 
@@ -997,9 +1097,17 @@ III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potesta
 
 IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de identificación en los términos de esta Ley y las demás aplicables;
 
-V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Garantizar que la comunicación de la información dirigida a las niñas, niños y adolescentes sea proporcionada por personal especializado en cada caso particular, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo, grado de madurez y en apego al principio de autonomía progresiva.
 
 ###### Artículo 81.
 
@@ -1043,7 +1151,37 @@ La Fiscalía, a través de la Procuraduría enviará al Sistema Nacional DIF la 
 
 ## TÍTULO TERCERO. De las Obligaciones
 
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia De Niñas, Niños y Adolescentes
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 86 Bis.
+
+Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia respecto de las niñas, niños y adolescentes:
+
+I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos de conformidad con las disposiciones aplicables;
+
+II. Declarar el nacimiento ante el Juez del Registro Civil dentro de los sesenta días siguientes a la fecha en que ocurrió aquél;
+
+III. Participar en su proceso educativo, proporcionando condiciones para su continuidad y asegurándose que cursen la educación obligatoria;
+
+IV. Propiciar un entorno afectivo, comprensivo y sin violencia adecuado para el libre desarrollo de su personalidad;
+
+V. Protegerles contra toda forma de violencia, maltrato, daño, abuso, trata de personas y cualquier forma de explotación;
+
+VI. Resguardar su integridad fisica y psicológica;
+
+VII. Evitar conductas que pongan en riesgo la integridad fisica de niñas, niños y adolescentes, y
+
+VIII. Tomar en consideración su opinión y preferencias para la toma de decisiones que les conciernan conforme a su edad, desarrollo cognoscitivo y madurez.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 86 Ter.
+
+Quienes ejerzan la patria potestad, tutela guardia y custodia darán cumplimiento a las obligaciones a su cargo independientemente de que habiten en domicilios distintos.
 
 ###### Artículo 87.
 
@@ -1053,9 +1191,13 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Las autoridades estatales y municipales, en el ámbito de su competencia, tendrán las obligaciones siguientes:
 
-I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, los cuiden y atiendan; protejan contra toda forma de abuso; los traten con respeto a su dignidad y orienten, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas, y
+I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, los cuiden y atiendan; protejan contra toda forma de abuso; los traten con respeto a su dignidad y orienten, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas; promoviendo en todo momento formas de crianza positiva no violentas y participativas.
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas, adoptando medidas eficaces, con campañas de información, para promover medidas disciplinarias alternativas, positivas, participativas y no violentas; erradicando el castigo corporal, humillante y los tratos crueles y denigrantes, enfocados siempre en la enseñanza de una crianza positiva; y
 
 III. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal.
 
@@ -1069,11 +1211,97 @@ Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entr
 
 No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
 
-### Capítulo Único. De los Centros de Asistencia Social
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+### Capítulo Segundo. De los Deudores Alimentarios Morosos
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 89 Bis.
+
+Los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y, en la especie:
+
+a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto;
+
+b) Los gastos derivados de la educación y la formación para proporcionar a los menores un oficio, arte o profesión, adecuados a sus circunstancias personales, y
+
+c) Con relación a los menores con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo; (sic)
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 89 Ter.
+
+El Tribunal Superior de Justicia del Estado, es la autoridad encargada de concentrar la información de deudores y acreedores de obligaciones alimentarias; por lo que, le corresponde suministrar, intercambiar, sistematizar y actualizar la información durante los primeros cinco días hábiles de cada mes, que se genere sobre el incumplimiento de las obligaciones alimentarias, utilizando los formatos, los sistemas e instrumentos tecnológicos que para el efecto proporcione el Sistema Nacional DIF, para la integración del Registro Nacional de Obligaciones Alimentarias.
+
+La cancelación en el Registro será responsabilidad del Tribunal Superior de Justicia y procederá cuando hayan sido pagados la totalidad de los adeudos y previa orden judicial.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 89 Quater.
+
+Los datos que debe de suministrar el Tribunal Superior de Justicia, son los que indique el formato que para tal efecto proporcione el Sistema Nacional DIF, pero cuando menos deberá contener los siguientes:
+
+I. Nombre o nombres del deudor;
+
+II. Apellido o apellidos del deudor;
+
+III. CURP del deudor;
+
+IV. RFC con homoclave del deudor;
+
+V. Órgano jurisdiccional que ordenó la inscripción;
+
+VI. Cuantía del cumplimiento de la obligación alimentaria;
+
+VII. Plazo de pago de los alimentos definitivos;
+
+VIII. Datos del expediente o causa jurisdiccional de la cual deriva la inscripción;
+
+IX. Edad;
+
+X. Sexo;
+
+XI. Nacionalidad;
+
+XII. Ocupación o profesión;
+
+XIII. Nombre completo de los acreedores alimentarios, y
+
+XIV. Parentesco
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 89 Quinquies.
+
+Las autoridades estatales, municipales y de los organismos constitucionales autónomos, en el ámbito de su competencia, dispondrán lo necesario a fin de establecer como requisito la presentación del certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias.
+
+Entre los trámites y procedimientos que se requiere para la expedición de ese certificado, se encuentran los siguientes:
+
+I. Obtención de licencias y permisos para conducir;
+
+II. Para participar como candidato a cargos concejiles y de elección popular;
+
+III. Para participar como aspirantes a cargos de jueces, magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa del Estado de Morelos, del magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, Comisionados del Instituto Morelense de Procesos Electorales y Participación Ciudadana y Titular de la Auditoría General de la Entidad Superior de Auditoría y Fiscalización;
+
+IV. Para ser Titular de las Secretarías de Despacho del Poder Ejecutivo Estatal, Direcciones Generales, Coordinadores y Jefaturas de Departamento de Gobierno del Estado;
+
+V. Para préstamos de adquisición de vivienda o vehículos automotores;
+
+VI. Para los trámites de jubilación, renuncia, despido o terminación de la relación laboral y cobro de laudos favorables, se le descontará el porcentaje que le fue decretado como pensión alimenticia;
+
+VII. Los que se realicen ante notario público relativos a la compraventa de bienes inmuebles y la constitución o transmisión de derechos reales, y
+
+VIII. En las solicitudes de matrimonio, el juez del Registro Civil hará del conocimiento si alguno de los contrayentes se encuentra inscrito en el Registro, mencionando la situación que guardan respecto de las obligaciones que tiene.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 89 Sexties. Toda persona a quien por su cargo y derivado de una subordinación laboral, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez o la autoridad responsable del fuero local; de no hacerlo, será sancionada en los términos establecidos por el artículo 113 de esta Ley y responderá solidariamente para el pago de daños y perjuicios que cause al acreedor alimentario por las omisiones o informes falsos, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+
+El deudor alimentario deberá informar, en un máximo de quince días hábiles al acreedor alimentario, al Juez o la autoridad responsable del fuero local cualquier cambio en su empleo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que se actualice la pensión alimenticia decretada.
 
 ## TÍTULO CUARTO. De los Requisitos para Autorizar, Registrar, Certificar y Supervisar los Centros de Asistencia Social
 
-### Capítulo Primero. De las autoridades
+### Capítulo Único. De los Centros de Asistencia Social
 
 ###### Artículo 90.
 
@@ -1081,9 +1309,7 @@ La Ley de Salud del Estado de Morelos y la Ley de Asistencia Social y Correspons
 
 ## TÍTULO QUINTO. De las Políticas Públicas de los Derechos de Niñas, Niños y Adolescentes
 
-### Capítulo Segundo. De la Procuraduría de Protección Estatal
-
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
+### Capítulo Primero. De las autoridades
 
 ###### Artículo 91.
 
@@ -1179,9 +1405,15 @@ XI. Proporcionar a las instancias encargadas de realizar estadísticas y de inte
 
 XII. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
 
-XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-XIV. Cualquier otra prevista para el cumplimiento de esta Ley.
+XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley, y XIV. Adoptar medidas apropiadas para desarrollar programas para la enseñanza de una crianza positiva, con el fin de erradicar el castigo corporal, humillante o denigrante; (sic)
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Adoptar medidas apropiadas para desarrollar programas para las enseñanzas de una crianza positiva, con el fin de erradicar el castigo corporal, humillante o denigrante; y
+
+XV. Cualquier otra prevista para el cumplimiento de esta Ley.
 
 ###### Artículo 95.
 
@@ -1231,7 +1463,9 @@ V. Prestar apoyo y colaboración técnica y administrativa en las materias regul
 
 VI. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
-### Capítulo Tercero. Del Sistema de Protección Local
+### Capítulo Segundo. De la Procuraduría de Protección Estatal
+
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2019)</small>
 
 ###### Artículo 97.
 
@@ -1319,7 +1553,7 @@ V. Acordar y coordinar con las instituciones que corresponda el cumplimiento del
 
 VI. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de la niña, niño o adolescente se encuentren garantizados.
 
-### Capítulo Cuarto. Del Programa de Protección de Niñas, Niños y Adolescentes del Estado de Morelos
+### Capítulo Tercero. Del Sistema de Protección Local
 
 #### Sección Primera. De los Integrantes
 
@@ -1365,45 +1599,49 @@ XVII. Promover políticas públicas y revisar las ya existentes relacionadas con
 
 XVIII. Las demás que sean necesarias para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 101.
 
-El Sistema de Protección Local estará conformado por:
+El Sistema de Protección Local estará conformado por las personas titulares de las siguientes dependencias y secretarías:
 
-I. El Gobernador del Estado, quien lo presidirá;
+I.- El Gobernador o Gobernadora del Estado, quien lo presidirá;
 
-II. El Secretario de Gobierno;
+II.- La Secretaría de Gobierno;
 
-III. El Secretario de Hacienda;
+III.- La Secretaría de Hacienda;
 
-IV. El Secretario del Desarrollo Social;
+IV.- La Secretaría de Desarrollo Social;
 
-V. El Secretario de Educación;
+V.- La Secretaría de Educación;
 
-VI. El Secretario de Salud;
+VI.- La Secretaría de Salud;
 
-VII. El Secretario del Trabajo, y
+VII.- La Secretaría de Desarrollo Económico y del Trabajo;
 
-VIII. El Director del Sistema DIF Morelos.
+VIII.- La Dirección General del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-IX. El Presidente del Sistema DIF Morelos
+IX.- La Presidencia del Sistema Estatal para el Desarrollo Integral de la Familia;
 
-X. El Procurador de Protección Estatal
+X.- La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia;
 
-XI. Los Presidentes Municipales
+XI.- Los Ayuntamientos del Estado;
 
-XII. El Fiscal General del Estado
+XII.- La Fiscalía General del Estado;
 
-XIII. El Presidente de la Comisión de Derechos Humanos del Estado
+XIII.- La Comisión de Derechos Humanos del Estado;
 
-XIV. Secretario Ejecutivo, el cual estará representado por el funcionario público, que para tal efecto designe el Presidente de dicho sistema, el cual intervendrá a voz pero no ha voto.
+XIV.- La Secretaría Ejecutiva, la cual estará representada por la o el servidor público que para tal efecto designe la Presidencia de dicho Sistema, quien intervendrá con voz, pero sin voto;
 
-XV. Dos ciudadanos de la sociedad civil, dos niños y dos adolescentes, que serán nombrados por el Sistema DIF Morelos, previa convocatoria.
+XV.- Dos representantes de la sociedad civil, dos niñas o niños, y dos adolescentes, que serán nombradas por el Sistema DIF Morelos, previa convocatoria.
 
-Serán invitados permanentes a las sesiones del Sistema de Protección Local, el Presidente de la Mesa Directiva del Congreso del Estado y el Presidente del Tribunal Superior de Justicia en el Estado, legalmente constituidas, quienes intervendrán con voz pero sin voto.
+Serán invitadas permanentes a las sesiones del Sistema de Protección Local, las personas titulares de las Presidencias de la Mesa Directiva del Congreso del Estado y del Tribunal Superior de Justicia del Estado, quienes intervendrán con voz, pero sin voto.
 
-El gobernador podrá ser suplido por el Secretario de Gobierno, y los demás integrantes del Sistema de Protección Local nombrarán un suplente que deberá tener el nivel de subsecretario o equivalente.
+Serán invitadas permanentes a las sesiones del Sistema de Protección Local,las (sic) personas titulares de las Presidencias de la Mesa Directiva del Congreso del Estado y del Tribunal Superior de Justicia del Estado, quienes intervendrán con voz, pero sin voto.
 
-El Presidente del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública, de los órganos con autonomía constitucional, o el especialista en la materia que se considere apropiado, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz pero sin voto.
+La persona titular de la Secretaría de Gobierno podrá suplir al Gobernador o Gobernadora, y las demás personas integrantes del Sistema de Protección Local nombrarán a una persona suplente, quienes deberán tener el nivel de una persona titular de una subsecretaría o su equivalente.
+
+La Presidencia del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública, de los órganos con autonomía constitucional, o a especialistas en la materia que se consideren apropiados, según la naturaleza de los asuntos a tratar, quien intervendrán con voz, pero sin voto.
 
 ###### Artículo 102.
 
@@ -1449,9 +1687,11 @@ XIII. Fungir como instancia de interlocución con organizaciones de la sociedad 
 
 XIV. Las demás que le encomiende el Sistema de Protección Local.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 105.
 
-El titular de la Secretaría Ejecutiva será nombrado y removido libremente por el Presidente del Sistema y deberá cumplir con los siguientes requisitos:
+La persona titular de la Secretaría Ejecutiva será nombrada y removida por la persona titular de la Presidencia del Sistema y deberá cumplir con los siguientes requisitos:
 
 I. Tener ciudadanía mexicana en pleno goce de sus derechos civiles y políticos;
 
@@ -1463,7 +1703,7 @@ IV. Contar con al menos cinco años de experiencia en las áreas correspondiente
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
+### Capítulo Cuarto. Del Programa de Protección de Niñas, Niños y Adolescentes del Estado de Morelos
 
 ###### Artículo 106.
 
@@ -1485,41 +1725,49 @@ El Sistema de Protección Local contará con órganos consultivos de apoyo, en l
 
 ## TÍTULO SEXTO. De las Infracciones Administrativas
 
+### Capítulo Único. De las Infracciones y Sanciones Administrativas
+
 ###### Artículo 110.
 
 El Estado y los Municipios establecerán las infracciones y las sanciones que resulten aplicables en el ámbito de sus respectivas competencias y los procedimientos para su imposición e impugnación, así como las autoridades competentes para ello.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 111.
 
-Los servidores públicos estatales y municipales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas que, en el ejercicio de sus funciones o actividades o con motivo de ellas, indebidamente impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados a alguna niña, niño o adolescente, serán sujetos a las sanciones administrativas y demás que resulten aplicables, en términos de las disposiciones correspondientes.
+Las y los servidores públicos estatales y municipales, personal de instituciones de salud, educación, deportivas o culturales, personal de establecimientos sujetos al control, administración o coordinación de aquéllas que, en el ejercicio de sus funciones o actividades o con motivo de ellas, indebidamente impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligadas á alguna niña, niño o adolescente serán sancionadas administrativamente y lo demás que resulte aplicable en términos de las disposiciones correspondientes.
 
 No se considerarán como negación al ejercicio de un derecho las molestias que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 112.
 
-Constituyen infracciones a la presente Ley:
+Constituyen infracciones a lapresente (sic) Ley:
 
-I. Respecto de servidores públicos estatales y municipales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal o municipal, cuando en el ejercicio de sus funciones o actividades o con motivo de ellas conozcan de la violación de algún derecho a alguna niña, niño o adolescente e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente en contravención a lo dispuesto en el artículo 12 de esta Ley y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-II. Respecto de servidores públicos estatales y municipales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal o municipal, propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes;
+I. Respecto de las y los servidores públicos estatales y municipales,personal (sic) de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal o municipal, cuando en el ejercicio de sus funciones o actividades o con motivo de ellas conozcan de la violación de algún derecho a alguna niña, niño o adolescente e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente en contravención a lo dispuesto en el artículo 12 de esta Ley y demás ordenamientos aplicables.
 
-III. Respecto de profesionales en trabajo social o psicología que intervengan en procedimientos de adopción que no cuenten con la autorización del Sistema DIF Morelos, en los casos competencia de dicho Sistema, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Las demás contravenciones a lo dispuesto en esta Ley, competencia del orden estatal o municipal.
+II. Respecto de las y los servidores públicos estatales y municipales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción estatal o municipal, propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+III. Respecto de profesionales en trabajo social o psicología que intervengan en procedimientos de adopción que no cuenten con la autorización del Sistema DIF Morelos, en los casos competencia de dicho Sistema;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Cualquier persona que tenga una relación de subordinación laboral y se niegue a proporcionar informes o a rendir informes falsos sobre la capacidad económica de los deudores alimentarios, y
+
+V. Las demás contravenciones a lo dispuesto en esta Ley, competencia del orden estatal o municipal.
+
+> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 113.
 
-A quienes incurran en las infracciones previstas en las fracciones I, II y III del artículo anterior, se les impondrá multa de hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de realizarse la conducta sancionada.
-
-En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en este artículo. Se considerará reincidente al que:
-
-a) Habiendo incurrido en una infracción que haya sido sancionada, realice otra violación del mismo precepto de esta Ley;
-
-b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado, y
-
-c) Que entre el inicio del procedimiento y la resolución que haya causado estado no hayan transcurrido más de diez años.
+A quienes incurran en las infracciones previstas en las fracciones I, II, III y IV del artículo anterior, se les impondrá multa de hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de realizarse la conducta sancionada.
 
 ###### Artículo 114.
 
@@ -1541,7 +1789,9 @@ Las sanciones previstas en esta Ley se aplicarán por las siguientes autoridades
 
 I. La dependencia o entidad de la Administración Pública del Estado que resulte competente, en los casos de las fracciones I y II del artículo 112 de esta Ley;
 
-II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial del Estado; la Cámara de Diputados; órganos con autonomía constitucional, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales; y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+II. Tratándose de servidoras y servidores públicos, así como las y los empleados o trabajadoras y trabajadores sujetos al control, administración o coordinación de los Poderes Legislativo y Judicial del Estado; órganos con autonomía constitucional, las sanciones.
 
 III. El Sistema DIF Morelos, en los casos de la fracción III del 112 de esta Ley.
 
@@ -1760,3 +2010,85 @@ SEGUNDA. El presente decreto entrará en vigor para el ejercicio fiscal 2022, si
 TERCERA. Publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 CUARTA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma constitucional local.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y DOS POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES DEL ESTADO DE MORELOS, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA SOBRE OBLIGACIONES ALIMENTARIAS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Tribunal Superior de Justicia del Estado, en el término de noventa días naturales, realizará las adecuaciones pertinentes a sus disposiciones reglamentarias y administrativas, para efecto de cumplir con las obligaciones establecidas en el presente Decreto y en los Lineamientos establecidos por el Sistema Nacional DIF.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo ordenado en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS SESENTA Y CINCO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLECENTES DEL ESTADO DE MORELOS".]
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo para su promulgación y publicación en el Periódico Oficial "Tierra y Libertad" órgano oficial de difusión del Gobierno del Estado de Morelos, de conformidad con lo dispuesto por los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrara en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SESENTA Y SEIS.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para cumplimiento de los artículos 44, 47 y 70 fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Estado de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SESENTA Y NUEVE POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 101 A LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SETENTA POR EL QUE SE REFORMA LA FRACCIÓN X, DEL ARTÍCULO 46 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SETENTA Y DOS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se oponga a la presente reforma.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS SETENTA Y SEIS.- POR EL QUE SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 53 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase la presente Ley al Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS SETENTA Y SIETE POR EL QUE SE REFORMA (SIC) LOS ARTÍCULOS 23 BIS, TERCER PÁRRAFO, 101, 105, 11 (SIC), 112, FRACCIONES I Y II, Y 1115 (SIC), FRACCIÓN II DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS".]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado de Morelos, para los fines que indican los artículos 44, 47 y 70 fracción XVII inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma.
