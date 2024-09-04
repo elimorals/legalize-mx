@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-instituciones-y-procedimientos-electorales-para-10160
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-30"
-last_updated: "2023-06-07"
+last_updated: "2024-09-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "MOR"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Morelos, el lunes 30 de junio de 2014.
 
@@ -374,6 +374,10 @@ No son elegibles para los cargos de elección popular, quienes hubieren ejercido
 Son elegibles para los cargos a la Gubernatura, Diputaciones del Congreso del Estado e integrantes de los Ayuntamientos, la ciudadanía del Estado que, teniendo la calidad de electores, reúnan los requisitos que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos, así como las demás leyes aplicables y no haber sido condenada o condenado por el delito de violencia política contra mujeres en razón de género.
 
 No son elegibles para los cargos de elección popular, quienes hubieren ejercido como: Consejera o Consejero Presidente o en las Consejerías Electorales, personal directivo del Instituto Morelense o en alguna magistratura del Tribunal Electoral; en el modo y términos que establece la Constitución Política del Estado Libre y Soberano de Morelos.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Tampoco serán elegibles los sentenciados por los delitos de agresión sexual, violencia familiar, política contra las mujeres en razón de género y por ser declarado como deudor alimentario moroso y encontrarse en el Registro Nacional de Obligaciones Alimentarias.
 
 ## TÍTULO TERCERO. DE LA ELECCIÓN DEL PODER EJECUTIVO, DEL PODER LEGISLATIVO Y DE LOS AYUNTAMIENTOS DEL ESTADO
 
@@ -4027,9 +4031,17 @@ II. No desempeñarse como Magistrado Electoral, Consejero Electoral u ocupar un 
 
 III. No ocupar un cargo de dirección en los gobiernos federal, estatal, municipal, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo ciento ochenta días antes del día de la jornada electoral, con excepción de los diputados que pretendan su reelección, en cuyo caso podrán optar por no separarse del cargo, de acuerdo a lo dispuesto en el artículo anterior;
 
-IV. No estar inhabilitado por el Consejo Estatal por haber violado las disposiciones de este código en materia de precampañas, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-V. Para ocupar un cargo como integrante del Congreso o de un ayuntamiento mediante una candidatura indígena, deberá acreditar con acta original o copia certificada de la Asamblea General Comunitaria o el documento expedido por la autoridad facultada para ello y en su caso lo que establezcan sus Sistemas Normativos Indígenas.
+IV. No estar inhabilitado por el Consejo Estatal por haber violado las disposiciones de este código en materia de precampañas;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+V. Para ocupar un cargo como integrante del Congreso o de un ayuntamiento mediante una candidatura indígena, deberá acreditar con acta original o copia certificada de la Asamblea General Comunitaria o el documento expedido por la autoridad facultada para ello y en su caso lo que establezcan sus Sistemas Normativos Indígenas, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. No estar sentenciado por los delitos de agresión sexual, violencia familiar, política contra las mujeres en razón de género y no ser declarado deudor alimentario moroso por instancia o autoridad competente.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -4525,7 +4537,9 @@ LAS Y LOS CANDIDATOS INDEPENDIENTES DEBERÁN PRESENTAR SU SOLICITUD DE REGISTRO 
 
 La solicitud de registro deberá elaborarse en el formato que expida el Consejo Estatal, debidamente firmada por el candidato propuesto e ir acompañada de los siguientes documentos:
 
-I. Declaración, bajo protesta de decir verdad, de aceptación de la candidatura y que cumple con los requisitos de elegibilidad;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+I. Declaración, bajo protesta de decir verdad, de aceptación de la candidatura y que cumple con los requisitos de elegibilidad, de no estar sentenciado por los delitos de agresión sexual, violencia familiar, política contra las mujeres en razón de género o ser declarado deudor alimentario moroso;
 
 II. Copia certificada del acta de nacimiento del candidato expedida por el Registro Civil;
 
@@ -4533,13 +4547,37 @@ III. Copia de la credencial para votar con fotografía;
 
 IV. Constancia de residencia vigente que precise la antigüedad, expedida por la autoridad competente, dentro de los quince días anteriores a la presentación de su solicitud de registro;
 
-V. Tres fotografías tamaño infantil, y
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Currículum vitae.
+V. Tres fotografías tamaño infantil;
+
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Currículum vitae;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. No estar sentenciado como agresor sexual;
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IX. No estar sancionado por violencia familiar, y
+
+> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+X. No encontrarse en el Registro Nacional o Estatal de Personas Sancionadas en materia de Violencia Política contra las Mujeres en razón de Género.
 
 En el caso de las candidaturas indígenas deberán entregar junto con su solicitud de registro, debidamente firmada por la o el candidato propuesto, además de los documentos señalados en los numerales I a VI, el acta original o copia certificada de la Asamblea General Comunitaria o el documento expedido por la autoridad facultada para ello y en su caso lo que establezcan sus Sistemas Normativos Indígenas en la cual fueron reconocidos como personas indígenas, en términos de los artículos 178 y 180 de este código.
 
-La expedición de los documentos de las fracciones II y IV de este artículo serán gratuitas y deberán cumplir con los requisitos establecidos en la legislación aplicable, las autoridades estatales y municipales competentes observarán esta disposición y darán facilidades al ciudadano en el trámite de estas solicitudes.r
+La expedición de los documentos de las fracciones II y IV de este artículo serán gratuitas y deberán cumplir con los requisitos establecidos en la legislación aplicable, las autoridades estatales y municipales competentes observarán esta disposición y darán facilidades al ciudadano en el trámite de estas solicitudes.
+
+> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+Por cuanto hace a las fracciones VIII, IX y X, la autoridad administrativa electoral, tiene la obligación de verificar mediante registros oficiales que la candidata o candidato no se encuentren en dichos supuestos.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -8106,3 +8144,15 @@ P.O. 7 DE JUNIO DE 2023.
 PRIMERO. Remítase el presente decreto al Titular del Poder Ejecutivo para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO DOS MIL TRESCIENTOS CINCUENTA Y DOS POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES DEL ESTADO DE MORELOS, EN MATERIA DE ARMONIZACIÓN LEGISLATIVA SOBRE OBLIGACIONES ALIMENTARIAS".]
+
+PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo Estatal, para efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. El Tribunal Superior de Justicia del Estado, en el término de noventa días naturales, realizará las adecuaciones pertinentes a sus disposiciones reglamentarias y administrativas, para efecto de cumplir con las obligaciones establecidas en el presente Decreto y en los Lineamientos establecidos por el Sistema Nacional DIF.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo ordenado en el presente Decreto.
