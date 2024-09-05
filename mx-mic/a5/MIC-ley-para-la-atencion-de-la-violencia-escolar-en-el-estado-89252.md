@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-atencion-de-la-violencia-escolar-en-el-estado-89252
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-17"
-last_updated: "2023-07-25"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Novena Sección del Periódico Oficial del Estado de Michoacán, el viernes 17 de agosto del 2012.
 
@@ -133,7 +133,9 @@ VI. Exclusión educativa: Es cuando la niña, niño y/o adolescente es aislado, 
 
 Es violencia escolar aquella que se da en:
 
-I. La institución educativa;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+I. La institución educativa y centros de educación públicos y privados;
 
 II. El transporte de uso escolar;
 
@@ -213,9 +215,9 @@ III. Coordinará a las autoridades mencionadas en esta Ley;
 
 IV. Supervisará que las autoridades integren políticas públicas y acciones que fomenten la cultura de la no violencia escolar; y,
 
-> <small>(REFORMADA, P.O. 25 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-V. Informará en el mes de agosto por escrito a las Comisiones de Dictamen de Protección a la Niñez y Adolescencia y Educación del Congreso del Estado sobre el estado que guardan las acciones ordenadas por esta Ley.
+V. Informará en el mes de agosto por escrito a las Comisiones de Dictamen de Derechos Humanos, Protección a la Niñez y Adolescencia y de Educación del Congreso del Estado sobre el estado que guarda las acciones ordenadas por esta Ley.
 
 ###### ARTÍCULO 10.
 
@@ -461,25 +463,31 @@ El Protocolo deberá ser publicado en el Periódico Oficial del Gobierno, así c
 
 ### CAPÍTULO SEXTO. DENUNCIAS Y RELACIONES DE HECHOS
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 26.
 
-Sobre los casos de violencia escolar podrá presentarse denuncia o relación de hechos.
+Sobre los casos de violencia escolar podrá presentarse denuncia o querella.
 
-Es denuncia cuando sea presentada por las víctimas de la violencia escolar. Será relación de hechos cuando sea presentada por cualquier persona que tenga conocimiento de los mismos.
+La denuncia podrá ser presentada por cualquier persona que tenga conocimiento de los hechos. La querella solo podrá ser presentada por la víctima del hecho que es considerado como delito o sus representantes legales.
 
-Si un trabajador de la educación tiene conocimiento de los hechos o actos dirigidos hacia uno o varios estudiantes, está obligado a informarlo ante las instancias escolares correspondientes.
+Si un trabajador de la educación tiene conocimiento de los hechos o actos dirigidos hacia uno o varios estudiantes, está obligado a informarlo ante las instancias escolares correspondientes, en caso de no hacerlo será sancionado de conformidad con lo establecido en los artículos 42 y 43 de esta Ley.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-Las denuncias podrán ser presentadas por escrito al Consejo o mediante el buzón anónimo de conformidad con lo establecido en la fracción III del artículo 8 de la presente Ley.
+Las denuncias podrán ser presentadas por escrito o digital al Consejo, quien deberá sujetarse a lo dispuesto por la Ley de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Michoacán de Ocampo.
 
-Deberán ser recibidas, y enviadas al mismo, por la autoridad escolar correspondiente.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+Las denuncias deberán ser recibidas y enviadas por la autoridad escolar correspondiente al Consejo. Asimismo, para tal efecto la autoridad escolar establecerá un buzón digital en todas las páginas de internet y de redes sociales de la Secretaría de Educación Pública del Estado de Michoacán, a fin de recibir cualquier denuncia o querella y dar el trámite correspondiente, así como para brindar atención a víctimas de violencia escolar.
 
 Si por alguna circunstancia el denunciante no puede entregarla por escrito, la realizará de manera verbal, donde la autoridad estará obligada a documentar para entregarla al Consejo.
 
-En caso de menores de edad que presenten denuncias o relación de hechos, éstos contarán de ser posible con apoyo psicológico y pedagógico. La autoridad escolar cuidará que los hechos denunciados tengan verosimilitud.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+En caso de menores de edad que presenten denuncia o querella, éstos contarán de ser posible con apoyo psicológico y pedagógico. La autoridad escolar cuidará que los hechos denunciados tengan verosimilitud. Podrá contarse con la asistencia de los padres o tutores.
 
 Podrá contar con la asistencia de los padres o tutores.
 
@@ -632,3 +640,23 @@ P.O. 25 DE JULIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 673.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5; SE REFORMAN LAS FRACCIONES XLV, XLVI Y SE ADICIONAN LAS FRACCIONES XLVII, XLVIII Y XLIX AL ARTÍCULO 7 RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN LA SUBSECUENTE; SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 8, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 15 Y SE LE ADICIONA UN TERCER Y CUARTO PÁRRAFO AL MISMO ARTÍCULO; SE REFORMA EL ARTÍCULO 16 Y LA FRACCIÓN VII DEL ARTÍCULO 22, TODOS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 114; SE REFORMA LA FRACCIÓN XXVI Y SE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 226 RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN SUBSECUENTE; SE REFORMA EL INCISO A) Y B) DE LA FRACCIÓN I DEL ARTÍCULO 227 Y SE REFORMA EL ÚLTIMO PÁRRAFO AL MISMO ARTÍCULO, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5, LA FRACCIÓN V DEL ARTÍCULO 9, EL ARTÍCULO 26; Y, EL PRIMERO, SEGUNDO Y CUARTO PÁRRAFOS DEL ARTÍCULO 27, TODOS DE LA LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN".]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto de Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Se concede al Consejo 180 días hábiles a fin de que realice los ajustes necesarios para garantizar los derechos de la presente reforma al artículo 27 de la Ley para la Atención de la Violencia Escolar en el Estado de Michoacán.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
