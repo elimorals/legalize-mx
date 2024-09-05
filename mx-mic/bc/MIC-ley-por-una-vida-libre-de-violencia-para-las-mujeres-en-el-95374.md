@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2024-07-26"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -245,9 +245,13 @@ Para efectos del presente artículo se entiende por persona significativa cualqu
 
 X. Violencia contra las mujeres periodistas y defensoras de derechos humanos. Es toda acción u omisión incluida la tolerancia basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de su derecho a la libertad de expresión y al ejercicio de sus labores o actividades en condición de no discriminación y libres de cualquier manifestación de violencia; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad, la salud y la libertad de las mujeres.
+XI. Violencia en el noviazgo: Cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o una relación sexual, y que viola sus derechos humanos; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad, la salud y la libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2020)</small>
 
@@ -1382,3 +1386,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su public
 SEGUNDO. La Comisión Ejecutiva Estatal de Atención a Víctimas establecerá en su Reglamento, dentro del plazo de ciento veinte días a partir de la entrada en vigor del presente Decreto, los casos en los cuales deberán de recibir apoyo económico las niñas, niños y adolescentes que hayan quedado en situación de orfandad como consecuencia del delito de feminicidio.
 
 TERCERO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 677.- SE REFORMA LA FRACCIÓN XI Y SE ADICIONA LA FRACCIÓN XII DEL ARTÍCULO 9, DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
