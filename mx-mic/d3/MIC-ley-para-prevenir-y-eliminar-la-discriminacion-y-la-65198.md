@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-prevenir-y-eliminar-la-discriminacion-y-la-65198"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-02"
-last_updated: "2024-05-22"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el viernes 2 de enero de 2009.
 
@@ -131,7 +131,9 @@ I. Establecer mecanismos públicos que eviten la discriminación y la violencia 
 
 II. Capacitar al personal en las materias de derechos humanos, a fin de evitar acciones de discriminación y violencia;
 
-III. Monitorear las poblaciones y municipios con el fin de evitar la discriminación y la violencia, ejecutando las medidas positivas y compensatorias necesarias para proporcionar una atención integral;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+III. Monitorear las poblaciones y municipios, así como planteles educativos tanto públicos como privados, con el fin de evitar la discriminación y la violencia, ejecutando las medidas positivas y compensatorios necesarias para proporcionar una atención integral;
 
 IV. Realizar campañas informativas en torno al respeto de los derechos humanos;
 
@@ -275,13 +277,29 @@ XLIII. Difundir sin consentimiento de la persona agraviada información sobre su
 
 XLIV. Estigmatizar y negar derechos a personas con el Virus de la Inmunodeficiencia Humana (VIH) o el Síndrome de la Inmunodeficiencia Adquirida (SIDA);
 
-XLV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas; y,
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-XLVI. En general cualquier acto u omisión discriminatoria en términos de la normatividad internacional, nacional y estatal.
+XLV. Implementar o ejecutar políticas públicas, programas u otras acciones de gobierno que tengan un impacto desventajoso en los derechos de las personas;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XLVI. En general cualquier acto u omisión discriminatoria en términos de la normatividad internacional, nacional y estatal;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XLVII. Realizar actos hostiles o humillantes en el interior de los planteles de la educación pública o privada, que, constituya un ejemplo de trato degradante, supongan grave atentado contra la dignidad humana o de género contra la víctima;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XLVIII. Realizar o promover la exclusión social, especialmente en el ámbito escolar y laboral, es una forma de crear distancia física y psicológica con la persona discriminada con la finalidad de mantenerla aislada y puede incluir la invisibilización, los prejuicios y rehuir toda forma de contacto;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XLIX. Estipular la leyenda de reserva de admisión en cualquier establecimiento o institución abierto al público, excepto en aras de mantener la mayoría de edad, el orden dentro del establecimiento y evitar cualquier acción que pueda producir peligro, malestar o deterioro de las instalaciones; en ningún momento, el ejercicio del derecho de admisión podrá implicar cualquier tipo de discriminación contemplado en esta ley; y,
 
 > <small>(ADICIONADA, P.O. 31 DE AGOSTO DE 2022)</small>
 
-XLVII. Se prohíba o restrinja a una mujer, el derecho a lactar, en cualquier espacio público.
+L. Se prohíba o restrinja a una mujer, el derecho a lactar, en cualquier espacio público.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2020)</small>
 
@@ -319,9 +337,13 @@ IV. Patrimonial. Cualquier acción u omisión encaminada a la sustracción, dest
 
 V. Económica. Cualquier acción limitativa y de control de los ingresos propios, adquiridos o asignados a las personas, que lesionan su independencia y supervivencia;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Institucional. Actos u omisiones de servidores públicos que discriminan o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos y libertades fundamentales de las personas, grupos o comunidades; y;
+VI. Institucional. Actos u omisiones de servidores públicos que discriminan o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos y libertades fundamentales de las personas, grupos o comunidades;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Bis. Escolar. Toda conducta agresiva, intencional y dañina en el tiempo; provocando con ello una situación de exclusión e indefensión del afectado, la cual ocurre en las escuelas, centros educativos y sus alrededores. Dicha violencia puede ser ejercida por una o varias personas, en su calidad de estudiante, personal docente, directivo escolar, persona administrativa, familiares o tutores y que situacionalmente pueden asumir roles de reproductores o receptores de la misma, tanto de forma directa como indirecta; y,
 
 VII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las personas.
 
@@ -491,17 +513,29 @@ III. Crear programas permanentes de capacitación para el empleo y fomento para 
 
 ### CAPÍTULO PRIMERO. ALERTA DE DISCRIMINACIÓN Y VIOLENCIA
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 15.
 
-La declaratoria de Alerta de Discriminación y Violencia será emitida por el Titular del Poder Ejecutivo, ante situaciones de notoria urgencia que contravengan los objetivos y las disposiciones de esta Ley. Podrá ser solicitada por el Consejo, ayuntamientos, Comisión Estatal de los Derechos Humanos u organizaciones de la sociedad civil.
+La declaratoria de Alerta de Discriminación y Violencia será emitida por el Titular del Poder Ejecutivo, ante situaciones de notoria urgencia que contravengan los objetivos y las disposiciones de esta Ley. Podrá ser solicitada por el Consejo, ayuntamientos, Comisión Estatal de los Derechos Humanos, organizaciones académicas, consejos de participación escolar, consejo de padres de familia o sociedades de alumnos u organizaciones de la sociedad civil.
+
+> <small>(REFORMADO, P.O. 21 DE JULIO DE 2017)</small>
 
 La Alerta de Discriminación y Violencia tendrá como objetivo fundamental garantizar la dignidad y seguridad de las víctimas, el cese de la violación a sus derechos humanos y resarcir el daño causado, por lo que se deberá establecer un grupo interinstitucional y multidisciplinario el cual será coordinado por el titular del Consejo.
 
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+La Alerta de Discriminación y Violencia Escolar deberá establecer además, el procedimiento para la aplicación de sanciones en el caso del personal que no demuestra haber realizado las acciones correspondientes y de medidas disciplinarias apropiadas a la edad de alumnas y alumnos respetando en todo momento los derechos humanos; los aspectos para su capacitación en materia de orientación, atención y resolución pacífica de conflictos; y los lineamientos para la elaboración del programa de concientización sobre la sana conciencia escolar con la participación social de todos los integrantes de la comunidad educativa.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+Deberá incorporar también políticas de prevención, medidas pedagógicas, protocolos de seguridad, e indicaciones para actuar ante un acto de agresión, hostigamiento o acoso.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 16.
 
-El Titular del Poder Ejecutivo del Estado dará aviso a los ayuntamientos que se vean afectados con la declaratoria, a fin de coadyuvar en la implementación de estrategias y acciones conjuntas. Las autoridades responsables e intervinientes deberán estar atentas a éstas.
+El Titular del Poder Ejecutivo del Estado dará aviso a los ayuntamientos, instituciones o establecimientos comerciales, de salud, escolares y de atención institucional ya sean públicos o privados, que se vean afectados con la declaratoria, a fin de coadyuvar en la implementación de estrategias y acciones conjuntas para prevenir y erradicar la discriminación. Las autoridades responsables e intervinientes deberán estar atentas a éstas.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2017)</small>
 
@@ -561,7 +595,9 @@ V. Implementar un sistema de recepción y seguimiento de quejas y denuncias por 
 
 VI. Diseñar y aplicar instrumentos de evaluación periódica de las políticas públicas encaminadas a prevenir y eliminar la discriminación y la violencia;
 
-VII. Desarrollar, fomentar y difundir los estudios sobre las prácticas discriminatorias y de violencia en los ámbitos político, económico, social y cultural;
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Desarrollar, fomentar y difundir estudios sobre prácticas, conductas discriminatorias y de violencia en las actividades comerciales, de salud y escolares; así como, del servicio público institucional y de los sectores de servicio público, privado, político, económico, social y cultural;
 
 VIII. Realizar análisis sobre los ordenamientos jurídicos y administrativos vigentes, así como de las prácticas cotidianas en el sector público a efecto de proponer las modificaciones que correspondan;
 
@@ -1014,5 +1050,25 @@ Se derogan todas las disposiciones legales de igual o menor rango que se opongan
 Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 ###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 673.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5; SE REFORMAN LAS FRACCIONES XLV, XLVI Y SE ADICIONAN LAS FRACCIONES XLVII, XLVIII Y XLIX AL ARTÍCULO 7 RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN LA SUBSECUENTE; SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 8, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 15 Y SE LE ADICIONA UN TERCER Y CUARTO PÁRRAFO AL MISMO ARTÍCULO; SE REFORMA EL ARTÍCULO 16 Y LA FRACCIÓN VII DEL ARTÍCULO 22, TODOS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 114; SE REFORMA LA FRACCIÓN XXVI Y SE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 226 RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN SUBSECUENTE; SE REFORMA EL INCISO A) Y B) DE LA FRACCIÓN I DEL ARTÍCULO 227Y SE REFORMA EL ÚLTIMO PÁRRAFO AL MISMO ARTÍCULO, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5, LA FRACCIÓN V DEL ARTÍCULO 9, EL ARTÍCULO 26; Y, EL PRIMERO, SEGUNDO Y CUARTO PÁRRAFOS DEL ARTÍCULO 27, TODOS DE LA LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto de Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Se concede al Consejo 180 días hábiles a fin de que realice los ajustes necesarios para garantizar los derechos de la presente reforma al artículo 27 de la Ley para la Atención de la Violencia Escolar en el Estado de Michoacán.
+
+###### ARTÍCULO CUARTO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
