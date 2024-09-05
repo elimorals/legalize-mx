@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-asistencia-social-del-estado-de-michoacan-de-ocampo-1437
 country: "mx"
 rank: "ley"
 publication_date: "1987-05-14"
-last_updated: "2024-01-29"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14376&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 14 de mayo de 1987.
 
@@ -75,15 +73,15 @@ Corresponde al Estado y Gobiernos Municipales, en el marco de la corresponsabili
 
 Para los efectos de esta Ley, se entienden como servicios de asistencia social el conjunto de acciones y programas del gobierno y la sociedad, tendientes a la atención de los individuos, familias o grupos de población en situación de riesgo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 5o.
 
-Son sujetos de atención de los servicios de asistencia social, los siguientes:
+Son participantes y sujetos de atención de los servicios de asistencia social, preferentemente los siguientes:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-I. Las niñas, niños y adolescentes expósitos, en estado de abandono, desamparo, desnutrición, o sujetos a maltrato;
+I. Las niñas, niños y adolescentes expósitos, en estado de abandono, desamparo, desnutrición, sujetos a maltrato o con quemaduras graves;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2020)</small>
 
@@ -271,9 +269,17 @@ XVII. Elaborar un padrón respecto de las niñas y niños que viven con sus madr
 
 XVIII. Facilitar las visitas de las niñas y niños a sus madres que se encuentran en los centros penitenciarios; y,
 
-> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-XIX. Las demás que establezcan las disposiciones aplicables en la materia.
+XIX. Establecer convenios o mecanismos de colaboración, con instituciones públicas y privadas, para que niñas, niños y adolescentes con quemaduras graves reciban atención médica especializada de manera inmediata, sin que su condición económica o social sea un obstáculo o impedimento;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Los demás servicios de salud en materia de asistencia social que sean complementarios para el debido cumplimiento de su objetivo; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Las demás que establezcan las disposiciones aplicables en la materia.
 
 > <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2007)</small>
 
@@ -692,3 +698,11 @@ El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Mic
 Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
 
 Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 678 POR EL QUE "SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5°; SE ADICIONAN LAS FRACCIONES XX Y XXI AL ARTÍCULO 9° Y SE REFORMA SU FRACCIÓN XIX; TODOS DE LA LEY DE ASISTENCIA SOCIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
