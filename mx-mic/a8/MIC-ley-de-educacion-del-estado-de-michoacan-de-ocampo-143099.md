@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2024-03-05"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE MARZO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -1255,7 +1253,13 @@ En la impartición de educación para menores de dieciocho años se tomarán med
 
 Los docentes, el personal que labora en los planteles de educación y las autoridades educativas deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de discriminación, maltrato, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
 
-En caso de que los docentes, el personal que labora en los planteles educativos, los padres de familia o tutores legales, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho que la Ley señale como delito en agravio de los educandos, estarán obligados a hacerlo del conocimiento inmediato a la autoridad correspondiente.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+En caso de que los docentes, el personal que labora en los planteles educativos, los padres de familia o tutores legales, así como las autoridades educativas, tengan conocimiento de la comisión de algún hecho o conducta que pueda constituir cualquier tipo de violencia o bien que pudiera encuadrar en un hecho que la Ley señale como delito en agravio de los educandos, estarán obligados a hacerlo del conocimiento inmediato a la autoridad correspondiente, de conformidad con lo establecido en los artículos 42 y 43 de la Ley para la Atención de la Violencia Escolar en el Estado de Michoacán de Ocampo.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+Los docentes, el personal que labora en los planteles educativos, las autoridades de los mismos, así como las instituciones que impartan de manera particular educación e instrucción, deberán atender y tomar las medidas que eviten todo tipo de discriminación, violencia en todas sus formas, abuso o acoso escolar hacia los educandos, por lo que deberán ajustarse en su conducta a lo dispuesto en el párrafo tercero del artículo 1° de la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado de Michoacán de Ocampo, así como lo establecido en este artículo.
 
 ###### Artículo 115.
 
@@ -2393,9 +2397,15 @@ XXIV. Condicionar la prestación del servicio público de educación a la adquis
 
 XXV. Omitir dar a conocer por escrito a las personas usuarias de los servicios educativos, previamente a la inscripción para cada ciclo escolar, el costo total de la colegiatura o cualquier otra contraprestación;
 
-XXVI. Difundir o transmitir datos personales sin consentimiento expreso de su titular o, en su caso, de la madre o padre de familia o tutor; e,
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-XXVII. Incumplir cualquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
+XXVI. Difundir o transmitir datos personales sin consentimiento expreso de su titular o, en su caso, de la madre o padre de familia o tutor;
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XXVII. Asumir una conducta o conductas omisas evitando atender o dejar de tomar las medidas que eviten todo tipo de violencia o acoso escolar hacia los educandos a efecto de protegerlos de cualquier forma de discriminación, maltrato, violencia, perjuicio, daño, agresión o abuso; y,
+
+XXVIII. Incumplir cualquiera de los demás preceptos de esta Ley, así como las disposiciones expedidas con fundamento en ella.
 
 ###### Artículo 227.
 
@@ -2403,9 +2413,13 @@ Las infracciones enumeradas en el artículo anterior serán sancionadas de la si
 
 I. Imposición de multa, para lo cual se estará a los siguientes criterios:
 
-a) Multa por el equivalente a un monto mínimo de cien y hasta máximo de mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones I, II, III, IV, V, VI, VIII, X, XVI, XVII, XXIV y XXV del artículo 226 de esta Ley;
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-b) Multa por el equivalente a un monto mínimo de mil y un, y hasta máximo de siete mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones XI, XII, XIII, XXI, XXII, XXIII, XXVI y XXVII del artículo 226 de esta Ley;
+a) Multa por el equivalente a un monto mínimo de cien y hasta un máximo de mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones I, II, III, IV, V, VI, VIII, X, XVI, XVII, XXIV, XXV y XXVII del artículo 226 de esta Ley;
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+b) Multa por el equivalente a un monto mínimo de mil y hasta un máximo de siete mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones XI, XII, XIII, XXI, XXII, XXIII, XXVI y XXVIII del artículo 226 de esta Ley;
 
 c) Multa por el equivalente a un monto mínimo de siete mil y hasta máximo de quince mil veces de la Unidad de Medida y Actualización, en la fecha en que se cometa la infracción, respecto a lo señalado en las fracciones VII y XIV del artículo 226 de esta Ley; y,
 
@@ -2415,7 +2429,9 @@ II. Revocación de la autorización o retiro del reconocimiento de validez ofici
 
 III. Clausura del plantel, respecto a las infracciones señaladas en las fracciones XVIII, XIX y XX del artículo 226 de esta Ley.
 
-Si se incurriera en las infracciones establecidas en las fracciones XIV, XV y XXVII del artículo anterior, se aplicarán las sanciones de este artículo, sin perjuicio de las penales y de otra índole que resulten.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+Si se incurriera en las infracciones establecidas en las fracciones XIV, XV, XXVII y XXVIII del artículo anterior, se aplicarán las sanciones de este artículo, sin perjuicio de las penales y de otra índole que resulten.
 
 ###### Artículo 228.
 
@@ -2598,3 +2614,23 @@ A la entrada en vigor del presente Decreto, las autoridades responsables de la a
 ###### ARTÍCULO CUARTO.
 
 Las autoridades responsables de la aplicación de lo mandatado en el presente Decreto, deberán de reformar sus reglamentos y manuales de operación, para adecuarlos a lo mandatado en el presente Decreto en un máximo de 180 días hábiles a su entrada en vigor.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 673.- ARTÍCULO PRIMERO.- SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 5; SE REFORMAN LAS FRACCIONES XLV, XLVI Y SE ADICIONAN LAS FRACCIONES XLVII, XLVIII Y XLIX AL ARTÍCULO 7 RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN LA SUBSECUENTE; SE REFORMA LA FRACCIÓN VI Y SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 8, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 15 Y SE LE ADICIONA UN TERCER Y CUARTO PÁRRAFO AL MISMO ARTÍCULO; SE REFORMA EL ARTÍCULO 16 Y LA FRACCIÓN VII DEL ARTÍCULO 22, TODOS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN Y LA VIOLENCIA EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA EL SEGUNDO PÁRRAFO Y SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 114; SE REFORMA LA FRACCIÓN XXVI Y SE ADICIONA LA FRACCIÓN XXVII AL ARTÍCULO 226 RECORRIÉNDOSE LA SIGUIENTE EN SU ORDEN SUBSECUENTE; SE REFORMA EL INCISO A) Y B) DE LA FRACCIÓN I DEL ARTÍCULO 227 Y SE REFORMA EL ÚLTIMO PÁRRAFO AL MISMO ARTÍCULO, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO TERCERO.- SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 5, LA FRACCIÓN V DEL ARTÍCULO 9, EL ARTÍCULO 26; Y, EL PRIMERO, SEGUNDO Y CUARTO PÁRRAFOS DEL ARTÍCULO 27, TODOS DE LA LEY PARA LA ATENCIÓN DE LA VIOLENCIA ESCOLAR EN EL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto de Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+Se concede al Consejo 180 días hábiles a fin de que realice los ajustes necesarios para garantizar los derechos de la presente reforma al artículo 27 de la Ley para la Atención de la Violencia Escolar en el Estado de Michoacán.
+
+###### ARTÍCULO CUARTO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
