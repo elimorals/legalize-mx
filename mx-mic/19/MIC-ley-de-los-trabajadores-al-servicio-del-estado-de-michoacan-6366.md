@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2023-11-15"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -357,7 +357,13 @@ I. Preferir, en igualdad de condiciones, de conocimientos, aptitudes y de antig�
 
 II. Cumplir con todos los servicios de higiene y de prevención de accidentes a que están obligadas;
 
-III. Reinstalar a los trabajadores en las plazas de las cuales los hubieran separado y ordenar el pago de los salarios caídos, a que fueren condenados por laudo ejecutoriado. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldos;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+III. Reinstalar a los trabajadores en las plazas de las cuales los hubieran separado y ordenar el pago de los salarios caídos, a que fueren condenados por laudo ejecutoriado. En los casos de supresión de plazas, los trabajadores afectados tendrán derecho a que se les otorgue otra equivalente en categoría y sueldos.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+Reinstalar a las y los trabajadores declarados desaparecidos que cuenten con Declaración Especial de Ausencia, en los términos de lo establecido en la legislación especial en la materia. Si es localizada con vida, recuperará su posición, escalafón y derechos de antigüedad de conformidad con la legislación aplicable.
 
 IV. Proporcionar a los trabajadores los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido;
 
@@ -390,6 +396,10 @@ VIII. Respetar y vigilar que se cumplan los derechos humanos del personal a su c
 > <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2022)</small>
 
 IX. Conceder permiso para que las y los trabajadores al servicio del Estado y sus Municipios, acudan a las instituciones educativas, para atender los asuntos relacionados con temas escolares de sus hijos, por lo menos una vez cada trimestre del ciclo escolar.
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+X. Dar de baja o terminar la relación laboral del trabajador o trabajadora que tenga la calidad de persona desaparecida y cuente con Declaración Especial de Ausencia, en los términos de lo establecido en la legislación especial en la materia.
 
 ### CAPITULO VII. OBLIGACIONES DE LOS TRABAJADORES
 
@@ -442,6 +452,10 @@ V. El arresto del trabajador; y,
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2014)</small>
 
 VI. La violación de alguno de los derechos humanos de las personas durante el ejercicio de sus funciones laborales, incluida la discriminación motivada por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales de acuerdo con su orientación sexual o identidad de género, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Otorgar permiso sin goce de sueldo a las y los trabajadores declarados desaparecidos que cuenten con Declaración Especial de Ausencia, en los términos de lo establecido en la legislación especial en la materia. De los Riesgos de Trabajo y Enfermedades no Profesionales.
 
 ### CAPITULO IX. DE LA TERMINACION DE LA RELACION DE TRABAJO
 
@@ -851,9 +865,21 @@ IV. Por laudo de la persona o tribunal que, a solicitud de las partes y con la c
 
 ### CAPITULO XV. DE LOS RIESGOS DE TRABAJO Y ENFERMEDADES NO PROFESIONALES
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 82.
 
-Los riesgos profesionales que sufran los trabajadores se regirán por las disposiciones de la Ley del Instituto Mexicano del Seguro Social o de algún otro ordenamiento que regule a la institución de seguridad social con quien la entidad respectiva hubiere contratado.
+Cuando los riesgos se realizan pueden producir:
+
+I. Incapacidad temporal;
+
+II. Incapacidad permanente parcial;
+
+III. Incapacidad permanente total;
+
+IV. La muerte; y,
+
+V. Desaparición derivada de un acto delincuencial.
 
 ###### ARTICULO 83.
 
@@ -900,6 +926,10 @@ I. Contra los incapacitados mentales, sino cuando se haya discernido su tutela c
 II. Contra los trabajadores incorporados al servicio militar en tiempo de guerra; y,
 
 III. Durante el tiempo que el trabajador se encuentre privado de su libertad, siempre que haya sido absuelto por sentencia ejecutoriada.
+
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Contra la y el trabajador que tenga la calidad de desparecido (sic) y cuente con Declaración Especial de Ausencia en términos de la legislación especial en la materia.
 
 ###### ARTICULO 88.
 
@@ -1334,3 +1364,11 @@ P.O. 15 DE NOVIEMBRE DE 2023.
 PRIMERO. Remítase del presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 676 POR EL QUE "SE ADICIONAN UN SEGUNDO PÁRRAFO A LA FRACCIÓN III, UNA FRACCIÓN X AL ARTÍCULO 35, UNA FRACCIÓN VII AL ARTÍCULO 37; SE REFORMA EL ARTÍCULO 82; Y SE ADICIONA UNA FRACCIÓN IV AL ARTÍCULO 87 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Remítase del (sic) presente Decreto al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su conocimiento y los efectos legales correspondientes.
