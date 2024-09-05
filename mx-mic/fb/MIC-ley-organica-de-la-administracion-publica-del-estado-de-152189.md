@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-152189"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-08"
-last_updated: "2023-09-25"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Octava Sección del Número 77 del Periódico Oficial del Estado de Michoacán de Ocampo, el viernes 8 de octubre de 2021.
 
@@ -181,7 +181,11 @@ XVI. Expedir constancias de actos y documentación que obre en sus archivos, en 
 
 XVII. Expedir los manuales de organización, de procedimientos y de servicios al público necesarios para su funcionamiento, de acuerdo a la ley, los que deberán contener información sobre la estructura orgánica de la dependencia y las funciones de sus unidades administrativas, así como sobre los sistemas de comunicación y coordinación y los principales procedimientos administrativos que se establezcan. Los manuales y demás instrumentos de apoyo administrativo interno, los cuales deberán mantenerse actualizados. Los manuales de organización general, de procedimientos y de servicios al público deberán publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, además deberán estar disponibles para consulta de los usuarios y de los propios servidores públicos, a través del registro electrónico que opere la Secretaría de Contraloría; y,
 
-XVIII. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos jurídicos respectivos.
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Coadyuvar con el Consejo Michoacano para la Inclusión de las Personas con Discapacidad en la elaboración del informe anual para la evaluación del Programa Estatal de Prevención y Atención para las Personas con Discapacidad, acorde a lo establecido en la Ley para la Inclusión de las Personas con Discapacidad en el Estado de Michoacán de Ocampo; y,
+
+XIX. Las demás que expresamente se señalen en esta Ley, en las leyes del Estado y en los ordenamientos jurídicos respectivos.
 
 ###### Artículo 13.
 
@@ -1672,3 +1676,11 @@ Primero. Se derogan todas las disposiciones que se opongan al presente Decreto.
 Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Tercero. Notifíquese al Poder Ejecutivo de Michoacán de Ocampo, para que sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 679 POR EL QUE “SE ADICIONA LA FRACCIÓN XVIII Y RECORRE LA POSTERIOR DEL ARTÍCULO 12 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El gobierno del Estado, tendrá 180 días para expedir la reglamentación que mandata el presente Decreto a partir de la fecha de su publicación.
