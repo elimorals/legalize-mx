@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-la-comision-estatal-de-los-derechos-humanos-de-103774"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-21"
-last_updated: "2024-01-29"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MIC"
 
 LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 21 de noviembre de 2014.
 
@@ -1255,31 +1253,49 @@ Cualquier persona podrá denunciar presuntas violaciones a los Derechos Humanos 
 
 Cuando los interesados estén privados de su libertad o se desconozca su paradero, los hechos se podrán denunciar por los familiares o vecinos de los afectados, inclusive por menores de edad.
 
-Sólo las organizaciones no gubernamentales legalmente constituidas podrán acudir ante la Comisión para denunciar las violaciones de Derechos Humanos respecto de personas que por sus condiciones físicas, mentales, económicas y culturales, no tengan la capacidad efectiva de presentar quejas de manera directa.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+Las instancias gubernamentales, órganos autónomos del Estado, así como las organizaciones no gubernamentales, ante el conocimiento de una violación de derechos humanos deberán denunciar ante las instancias correspondientes y ante la propia Comisión, las violaciones que sean de su conocimiento en el desempeño de sus funciones, respecto de personas que por cualquier condición o circunstancia no puedan presentar por sí mismas la queja o denuncia de manera directa.
 
 ###### Artículo 87.
 
 La queja sólo podrá presentarse dentro del plazo de un año, contado a partir de la fecha en que se hubiere iniciado la ejecución del hecho que el quejoso estime violatorio o de que este último hubiese tenido conocimiento del mismo. En casos excepcionales y tratándose de violaciones graves a los Derechos Humanos, la Comisión podrá ampliar dicho plazo mediante una resolución razonada. No contará plazo alguno cuando se trate de hechos que por su gravedad puedan ser considerados violaciones de lesa humanidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 88.
 
-La queja deberá presentarse de forma oral, por escrito o por lenguaje de señas mexicanas; podrá formularse por cualquier medio de comunicación eléctrica, electrónica o telefónica y a través de mecanismos accesibles para personas con discapacidad. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los tres días siguientes a su presentación.
+La queja deberá presentarse de manera oral, por escrito, en lenguaje de señas mexicana y de sginos o en lenguas maternas indígenas; podrá formularse por cualquier medio de comunicación eléctrica, electrónica, digital o telefónica y a través de mecanismos accesibles para personas con discapacidad. No se admitirán comunicaciones anónimas, por lo que toda queja o reclamación deberá ratificarse dentro de los cinco días siguientes a su presentación.
 
-En caso de una queja presentada por dos o más personas, se nombrará un representante común quien la ratificará.
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+En caso de una queja presentada por dos o más personas, deberá nombrarse un representante común quien la ratificará en los términos del párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+La comisión en su página de internet, en su micrositio en el que se establece el buzón, este deberá operar para la recepción de quejas y denuncias que facilite a las personas el acceso a la defensa de sus derechos.
 
 ###### Artículo 89.
 
 En todos los casos operará la suplencia en la deficiencia de la queja; la Comisión orientará y apoyará a los quejosos sobre el contenido de la misma y pondrá a su disposición formularios que faciliten el trámite.
 
-Para el caso de personas que posean algún tipo de discapacidad que les dificulte una comunicación clara y precisa o de personas que sean hablantes de lengua indígena o idioma diferente al español, la Comisión les proporcionará gratuitamente un traductor o intérprete.
+> <small>(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+Las quejas también podrán presentarse de manera oral, cuando los comparecientes no puedan o no sepan escribir o que estas sean presentadas por menores de edad.
+
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+Para el caso de personas que posean algún tipo de discapacidad que les dificulte una comunicación clara y precisa o de personas que sean hablantes de lengua indígena o idioma diferente al español, la Comisión les proporcionará gratuitamente un traductor o intérprete que tenga conocimiento de su lengua y cultura, o en su caso intérprete de lengua de señas mexicana.
 
 ###### Artículo 90.
 
 La Comisión proporcionará la información que le sea requerida, relativa a los datos y documentos que obren en los expedientes de los procedimientos, de conformidad con lo dispuesto por la legislación y normatividad aplicables, en materia de transparencia y acceso a la información pública.
 
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 91.
 
-La persona que se encuentre en un centro de detención, internamiento o reinserción social, podrá presentar queja ante las autoridades del mismo, la que deberá ser turnada a la Comisión inmediatamente por el encargado de dicho Centro, pudiendo éste utilizar para tal efecto los medios electrónicos de comunicación.
+La persona que se encuentre en un centro de detención, internamiento o reinserción social, podrá presentar queja ante las autoridades del mismo, la que deberá ser turnada a la Comisión inmediatamente y sin demora alguna por el encargado de dicho Centro, pudiendo éste utilizar para tal efecto cualquier medio electrónico de comunicación.
 
 ###### Artículo 92.
 
@@ -1319,9 +1335,11 @@ Las quejas presentadas ante la Comisión cuyo conocimiento competa a otra Comisi
 
 Si de la presentación de la queja no se deducen los elementos mínimos que permitan la intervención de la Comisión, ésta requerirá por escrito al quejoso para que haga las aclaraciones pertinentes. Si después del requerimiento el quejoso no contesta en un término de cinco días hábiles, se le requerirá por segunda ocasión concediéndole un término de quince días hábiles, si el quejoso no contesta o no acude se enviará la queja a archivo definitivo por falta de interés.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 99.
 
-Una vez admitida la queja, la Comisión dentro de los tres días hábiles siguientes deberá hacerla del conocimiento de los servidores públicos señalados como presuntos responsables, utilizando en caso de urgencia, cualquier medio de comunicación y solicitándoles un informe específico sobre los actos u omisiones que se les atribuyan, dejando constancia de ello. Para tal efecto, se les remitirá copia de la queja y del acuerdo de admisión, omitiendo los datos del quejoso; domicilio particular, laboral, número telefónico o cualquier información que permita localizarlo.
+Una vez admitida la queja, la Comisión dentro de los tres días hábiles siguientes deberá hacerla del conocimiento de los servidores públicos señalados como presuntos responsables, utilizando en caso de urgencia, cualquier medio de comunicación y solicitándoles un informe específico sobre los actos, omisiones n (sic) que se les atribuyan, dejando constancia de ello. Para tal efecto, se les remitiráí (sic) copia de la queja y del acuerdo de admisioín (sic), omitiendo los datos del quejoso; domicilio particular, laboral, nuímero telefoínico (sic) o cualquier informacioín (sic) que permita localizarlo.
 
 En todos los casos el Presidente o el Visitador correspondiente, informará de inmediato al superior jerárquico de la autoridad o servidor público al que se atribuya la violación de Derechos Humanos, para lograr la conciliación entre las partes involucradas, a fin de lograr una solución inmediata del conflicto cuando proceda. De lograrse una conciliación satisfactoria o el allanamiento del o de los responsables, la Comisión lo hará constar así y ordenará el archivo del expediente, el cual sólo podrá reabrirse cuando los quejosos informen a la Comisión que no se ha cumplido con el compromiso establecido dentro del plazo acordado, mismo que no deberá exceder de noventa días naturales, la Comisión podrá ampliar dicho plazo mediante una resolución razonada.
 
@@ -1624,3 +1642,19 @@ El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Mic
 Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
 
 Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 671 POR EL QUE "SE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 86; SE ADICIONA UN ÚLTIMO PÁRRAFO Y SE REFORMA EL PRIMER Y EL SEGUNDO PÁRRAFOS DEL ARTÍCULO 88; SE ADICIONA UN SEGUNDO PÁRRAFO Y SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 89; Y, SE REFORMA EL ARTÍCULO 91 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 99 TODOS DE LA LEY DE LA COMISIÓN ESTATAL DE LOS DERECHOS HUMANOS DE MICHOACÁN DE OCAMPO".]
+
+###### ARTÍCULO PRIMERO.
+
+Se derogan todas las disposiciones legales de igual o menor rango que se opongan a las disposiciones de este Decreto de Ley.
+
+###### ARTÍCULO SEGUNDO.
+
+Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO TERCERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
