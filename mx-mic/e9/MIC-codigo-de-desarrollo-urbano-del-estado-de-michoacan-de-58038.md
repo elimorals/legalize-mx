@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-desarrollo-urbano-del-estado-de-michoacan-de-58038"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-12-26"
-last_updated: "2024-08-05"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el miércoles 26 de diciembre de 2007.
 
@@ -3695,23 +3695,23 @@ La construcción de vivienda multifamiliar o edificios habitacionales dentro de 
 
 Las construcciones en los desarrollos en condominio, además de cumplir con lo dispuesto en el párrafo anterior, deberán respetar lo previsto en este Código, en cuanto a las densidades y características de las obras, continuidad de vialidades existentes y las previstas en los programas de desarrollo urbano, así como a la extensión de las áreas libres, de estacionamiento y de uso común.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2022)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 675, PUBLICADO EN EL P.O. DE 5 DE SEPTIEMBRE DE 2024, PAGINAS 1 Y 2.]</small>
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 297.
 
 Las áreas de donación en los desarrollos o desarrollos en condominio, en ningún caso podrán ser objeto de enajenación.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
 Las áreas de donación deberán destinarse a la dotación de equipamiento urbano y áreas verdes. Las destinadas para áreas verdes serán entregadas forestadas por parte del fraccionador, las áreas destinadas para la construcción de equipamiento urbano se ajustarán a lo establecido en los programas de desarrollo urbano correspondientes; en ambos casos deberán considerar ajustes razonables con obras y/o acciones que cumplan con el diseño universal.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-Solo para el caso de áreas de donación para equipamiento urbano, a solicitud del propietario y exclusivamente cuando cada área de donación a que se refiere el párrafo anterior sea menor a 500 metros cuadrados, se procederá a determinar el valor comercial de dicha donación a efecto de que la pague a la Tesorería Municipal correspondiente, teniendo que calcularse mediante avalúo conforme al valor más alto, entre el valor catastral y el valor comercial.
+En tanto el Estado o el Municipio no haga uso de dichas áreas, el fraccionador deberá delimitar claramente en sus colindantes con barreras físicas provisionales con las características que autorice el Ayuntamiento, previa verificación del cumplimiento de los porcentajes de donación, y deberán ser señalizadas con el tipo de donación que les corresponde: estatal, municipal o área verde, respectivamente; preferentemente, cada área de donación debe contar con un acceso único, de no ser posible, en los accesos de cada área donada debe estar claramente señalizado el tipo de donación que le corresponde.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE AGOSTO DE 2024)</small>
-
-Previa aprobación del Cabildo, este recurso deberá ser destinado a la adquisición de reserva territorial del municipio, o mejoras consistentes en la construcción, ampliación, remodelación y reconstrucción de inmuebles y obras de equipamiento e infraestructura urbana en el entorno de los bienes objeto de subdivisión en una distancia radial no mayor a 500 metros, teniendo que incluirse dicho concepto en la Ley de Ingresos Municipal que corresponda.
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
 Las características que deberán cumplir las áreas de donación para equipamiento urbano son las siguientes:
 
@@ -3751,7 +3751,7 @@ VIII. La posición en relación a la manzana, deberá ser preferentemente en la 
 
 IX. No se permitirán predios afectados por fallas geológicas, derechos federales como líneas de la Comisión Federal de Electricidad, cuerpos de agua, carreteras, poliductos, zonas inundables, entre otros;
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2013)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
 Las características que deberán cumplir las áreas de donación para áreas verdes son las siguientes:
 
@@ -4557,9 +4557,9 @@ VIII. Aprobación del proyecto de instalaciones de los sistemas de alcantarillad
 
 IX. Estudio de mecánica de suelos con diseño de pavimentos, elaborado por laboratorio acreditado ante la Dependencia Municipal;
 
-> <small>(REFORMADA, P.O. 30 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-X. En caso de que se requiera la perforación de pozos, adjuntar la solicitud para obtener de la Comisión Nacional del Agua, la autorización para la perforación; correspondiendo al Organismo Operador de Agua Potable del Municipio distribuir las asignaciones de aguas nacionales, conforme a la autorización referida;
+X. En caso de que se requiera la perforación de pozos, acreditar la solicitud para obtener de la Comisión Nacional del Agua, la autorización para la perforación; correspondiendo al Organismo Operador de Agua Potable del municipio aportar las asignaciones de aguas nacionales en los volúmenes requeridos, cuando el gasto requerido del desarrollo exceda de 35,000 m3 anuales; debiendo el desarrollador cubrir los derechos correspondientes que se establezcan en el oficio de factibilidad respectivo;
 
 XI. En caso de que el Desarrollo o desarrollo en condominio colinde con carreteras federales o estatales se presentará el proyecto de entroncamiento, aprobado por la autoridad competente;
 
@@ -4933,9 +4933,21 @@ XII. Respetar las servidumbres o las restricciones de compatibilidad de usos del
 
 XIII. Mantener en forma visible al público, en la caseta de ventas del Desarrollo o desarrollo en condominio, el precio autorizado sobre metro cuadrado de terreno urbanizado;
 
-XIV. Forestar las áreas verdes y de donación, independientemente del destino final que se les pretenda otorgar; y,
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-XV. Durante el período de ejecución de las obras de urbanización del Desarrollo o desarrollo en condominio, mantener un residente en el lugar de las mismas, con carácter de representante debidamente autorizado, debiendo el fraccionador en todos los casos; informar por escrito a la Dependencia Municipal, el nombre del o los residentes que señalen para tal efecto.
+XIV. Forestar las áreas verdes y de donación, independientemente del destino final que se les pretenda otorgar;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Durante el período de ejecución de las obras de urbanización del Desarrollo o desarrollo en condominio, mantener un residente en el lugar de las mismas, con carácter de representante debidamente autorizado, debiendo el fraccionador en todos los casos; informar por escrito a la Dependencia Municipal, el nombre del o los residentes que señalen para tal efecto; y,
+
+(ADCIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)
+
+XVI. La escrituración, y su posterior inscripción en el Registro Público de la Propiedad de las superficies de donación deberá ser debidamente completado (sic) previo a la autorización definitiva de conformidad con lo establecido en la fracción XIV del artículo 351 y el último párrafo del artículo 329 de éste Código; en las escrituras correspondientes se indicarán el área total, medidas y colindancias, así como el destino que ocupará cada una en función de si es área verde, o área de equipamiento urbano.
+
+(ADCIONADO, P.O. 5 DE SEPTIEMBRE DE 2024)
+
+Para aquellos desarrollos de régimen de la propiedad en condominio, y donde se reserven las áreas de uso común, verdes y de equipamiento urbano, bastará, en los tiempos señalados en la fracción anterior, y en este mismo apartado y en la fracción anterior, el presentar para anexar al expediente del Municipio copia de la escritura que avale que esta se ha generado en reserva, de los condóminos indicando sus usos correspondientes.
 
 ###### ARTÍCULO 393.
 
@@ -5716,3 +5728,19 @@ P.O. 5 DE AGOSTO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán.
 
 SEGUNDO. Los municipios deberán realizar las adecuaciones correspondientes en sus reglamentos, a más tardar en los 60 días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 675.- SE REFORMA EL ARTÍCULO 297; Y, SE REFORMAN LAS FRACCIONES XIV Y XV, SE ADICIONA LA FRACCIÓN XVI Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 392, TODOS DEI CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 687.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 351 DEL CÓDIGO DE DESARROLLO URBANO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
