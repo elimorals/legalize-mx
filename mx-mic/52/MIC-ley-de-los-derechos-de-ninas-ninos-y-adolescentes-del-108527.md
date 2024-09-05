@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2024-01-29"
+last_updated: "2024-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -717,11 +715,11 @@ Artículo 32 ter. Adicionalmente, en los casos de violencia sexual en contra de 
 
 ### CAPÍTULO X. DERECHO A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 33.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable.
+Niñas, Niños y Adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica y psicológica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud física y mental.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -867,47 +865,53 @@ XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de 
 
 XIV. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales;
 
-XV. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa;
+> <small>(ADICIONADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-XVI. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes;
+XV. Establecer medidas para detectar y atender las necesidades de niñas, niños y adolescentes con trastornos específicos del aprendizaje, de tal manera que se posibilite su desarrollo progresivo e integral, y conforme a sus capacidades y habilidades personales;
+
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa;
+
+XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes;
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2021)</small>
 
-XVII. Erradicar el castigo corporal físico o psicológico y las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes o degradantes. Castigo corporal físico o psicológico, es todo aquél en que se utilice la fuerza física o verbal para impactar en la psique del menor, que tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve; considerándose castigos crueles y degradantes aquellos en que se menosprecia, se humilla, se denigra, se convierte en chivo expiatorio, se amenaza, se asusta o se ridiculiza a la niña, niño o adolescente;
+XVIII. Erradicar el castigo corporal físico o psicológico y las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes o degradantes. Castigo corporal físico o psicológico, es todo aquél en que se utilice la fuerza física o verbal para impactar en la psique del menor, que tenga por objeto causar cierto grado de dolor o malestar, aunque sea leve; considerándose castigos crueles y degradantes aquellos en que se menosprecia, se humilla, se denigra, se convierte en chivo expiatorio, se amenaza, se asusta o se ridiculiza a la niña, niño o adolescente;
 
 > <small>(REFORMADA, P.O. 6 DE JULIO DE 2023)</small>
 
-XVIII. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
+XIX. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
 
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
-XVIII Bis. Establecer mecanismos para garantizar el derecho de la primera infancia y la estimulación temprana;
+XIX Bis. Establecer mecanismos para garantizar el derecho de la primera infancia y la estimulación temprana;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE SEPTIEMBRE DE 2023)</small>
 
-XIX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
+XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
 > <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
-XIX Bis. Promover que las niñas, niños y adolescentes accedan a contenidos curriculares específicos y actividades extracurriculares que tengan potencial influencia sobre la segregación ocupacional;
+XX Bis. Promover que las niñas, niños y adolescentes accedan a contenidos curriculares específicos y actividades extracurriculares que tengan potencial influencia sobre la segregación ocupacional;
 
-> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-XX. Establecer medidas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal; y,
+XXI. Establecer medidas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo estatal;
 
-> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 2024)</small>
 
-XXI. Crear convenios de colaboración con personal calificado a fin de fomentar una adecuada educación alimentaria y se brinde apoyo profesional en materia de nutrición a niñas, niños y adolescentes que se encuentren en centros educativos.
+XXII. Crear convenios de colaboración con personal calificado a fin de fomentar una adecuada educación alimentaria y se brinde apoyo profesional en materia de nutrición a niñas, niños y adolescentes que se encuentren en centros educativos; y,
 
 > <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-XXII. En las escuelas o instituciones similares, los dueños, directivos, educadores, maestros o personal administrativo serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños o adolescentes.
+XXIII. En las escuelas o instituciones similares, los dueños, directivos, educadores, maestros o personal administrativo serán responsables de evitar cualquier forma de maltrato, perjuicio, daño, agresión, abuso o explotación, en contra de niñas, niños o adolescentes.
 
 Para el cumplimiento de esta obligación se deberá contar en cada escuela o institución similar con planes y programas para la atención de víctimas y victimarios de acoso o violencia escolar; y,
 
 > <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
 
-XXIII. Diseñar programas integrales para la prevención, atención, contención y erradicación del acoso o violencia escolar física y psicológica, incluida la que se ejerce a través de cualquier plataforma digital o red social.
+XXIV. Diseñar programas integrales para la prevención, atención, contención y erradicación del acoso o violencia escolar física y psicológica, incluida la que se ejerce a través de cualquier plataforma digital o red social.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -2538,3 +2542,19 @@ El Consejo del Poder Judicial y el Titular del Poder Ejecutivo del Estado de Mic
 Tercero. Conforme al principio de prioridad de la niñez y adolescencia, el Congreso del Estado de Michoacán, en el Presupuesto de Egresos inmediato posterior a la entrada en vigor del presente Decreto, al menos deberá destinar los recursos necesarios para la operación y funcionamiento de un Centro de Atención y Justicia para Niñas, Niños y Adolescentes en cada distrito judicial en el Estado. Los organismos autónomos y las autoridades vinculadas por el presente Decreto, también incluirán en su proyecto de Presupuesto los recursos necesarios.
 
 Lo anterior, no será impedimento para que dichos Centros comiencen a operar conforme al artículo segundo transitorio del presente Decreto, con los recursos con que cuenten los poderes Ejecutivo y Judicial y los organismos autónomos a la fecha.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 674.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 33 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 5 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 685.- SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 38 Y SE RECORREN LAS SUBSECUENTES EN SU ORDEN, DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese al Gobernador Constitucional del Estado de Michoacán de Ocampo, para que se sirva ordenar su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
