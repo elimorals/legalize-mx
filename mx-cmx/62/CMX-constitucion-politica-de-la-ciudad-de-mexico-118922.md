@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2024-09-02"
+last_updated: "2024-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 2024.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -2261,6 +2261,10 @@ Del Poder Judicial
 A. De la función judicial
 
 La función judicial se regirá por los principios de legalidad y honradez, accesibilidad, transparencia, máxima publicidad y rendición de cuentas.
+
+> <small>(ADICIONADO, G.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+Aunado a lo anterior, en la función jurisdiccional se privilegiarán los principios de igualdad sustantiva, justicia restaurativa y justicia redistributiva, y los fines de la justicia social, a fin de que respecto de los elementos no esenciales en el procedimiento impere un sistema auténtico que garantice y favorezca la tutela efectiva, sin dilaciones indebidas, de los derechos humanos, especialmente, de grupos sociales y personas que se encuentren en situaciones de pobreza, exclusión, marginación, desigualdad, discriminación o desventaja social.
 
 > <small>(ADICIONADO, G.O. 22 DE JULIO DE 2021)</small>
 
@@ -4561,6 +4565,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.O. 2 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL INCISO A), NUMERAL 2 DEL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+G.O. 6 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 35 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación en la Gaceta Oficial de la Ciudad de México.
 
