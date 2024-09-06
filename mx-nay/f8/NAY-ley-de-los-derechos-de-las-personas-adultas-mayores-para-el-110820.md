@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-las-personas-adultas-mayores-para-el-110
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-09"
-last_updated: "2024-07-22"
+last_updated: "2024-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 9 de diciembre de 2015.
 
@@ -231,9 +231,17 @@ XIX. Procurar o gestionar apoyos en favor de aquéllos que carezcan de los medio
 
 XX. Llevar a cabo la aplicación de sanciones administrativas en coordinación con las dependencias y entidades estatales o municipales, según corresponda;
 
-XXI. Llevar un padrón de las casas hogar, albergues, residencias de día o cualquier otro centro de atención público o privado que atienden a las personas adultas mayores, permitiendo identificar a los prestadores de servicios, así como mantener actualizada dicha información, y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
 
-XXII. Las demás que determine el presente ordenamiento, otras disposiciones aplicables y el Gobernador del Estado.
+XXI. Llevar un padrón de las casas hogar, albergues, residencias de día o cualquier otro centro de atención público o privado que atienden a las personas adultas mayores, permitiendo identificar a los prestadores de servicios, así como mantener actualizada dicha información;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Promover campañas sobre la importancia de generar condiciones que garanticen la inclusión financiera de las personas adultas mayores, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+XXIII. Las demás que determine el presente ordenamiento, otras disposiciones aplicables y el Gobernador del Estado.
 
 ###### Artículo 17.
 
@@ -261,9 +269,17 @@ VIII. Coadyuvar en la constitución de clubes de tercera edad y asociaciones sim
 
 IX. Motivarlos a afiliarse al Instituto Nacional de las Personas Adultas Mayores, para recibir orientación, ayuda, protección, asesoría jurídica y capacitación gerontológica de todo tipo; así como beneficiarse de servicios que presten, independientemente de sus condiciones sociales o de salud;
 
-X. Obtener créditos accesibles para que adquieran una vivienda propia, o realicen mejoras en caso de que ya cuenten con una, y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Darles a conocer, así como a la sociedad en general, el contenido de la presente Ley y de otras disposiciones legales aplicables.
+X. Obtener créditos accesibles para que adquieran una vivienda propia, o realicen mejoras en caso de que ya cuenten con una;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Darles a conocer, así como a la sociedad en general, el contenido de la presente Ley y de otras disposiciones legales aplicables, y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Explicar de forma sencilla la importancia de la educación financiera y de las finanzas personales en su desarrollo integral.
 
 ###### Artículo 19.
 
@@ -515,9 +531,17 @@ II. Superar las deficiencias o rezagos de aprendizaje que se hubieran presentado
 
 III. Fomentar la adquisición de los conocimientos que les permitan la mayor autonomía posible;
 
-IV. Desarrollar al máximo su capacidad de aprendizaje, y
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
 
-V. Promover el desarrollo de todas las demás capacidades personales que permitan su incorporación a la vida social.
+IV. Desarrollar al máximo su capacidad de aprendizaje;
+
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+V. Promover el desarrollo de todas las demás capacidades personales que permitan su incorporación a la vida social, y
+
+> <small>(ADICIONADA, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Fomentar la importancia de tener finanzas personales sanas en beneficio de su desarrollo integral.
 
 ###### Artículo 43.
 
@@ -576,6 +600,12 @@ A través de los programas ocupacionales y de promoción al autoempleo, se propo
 ###### Artículo 53.
 
 Sin perjuicio de lo dispuesto en el artículo anterior, las dependencias correspondientes del Poder Ejecutivo del Estado, brindarán el apoyo y la asesoría necesarias para impulsar el financiamiento de microindustrias, microempresas, proyectos productivos, proyectos educativos y en general todas las acciones que fomenten la participación activa de las personas adultas mayores.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 53 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus competencias, promoverán políticas públicas y programas de capacitación en materia de educación financiera y finanzas personales.
 
 ### Capítulo XI. Protección, Servicios y Estímulos a las Personas Adultas Mayores
 
@@ -708,3 +738,9 @@ P.O. 22 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 24 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT, EN MATERIA DE INCLUSIÓN FINANCIERA PARA LAS PERSONAS ADULTAS MAYORES”.]
 
 ÚNICO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE NAYARIT, EN MATERIA DE INCLUSIÓN FINANCIERA, EDUCACIÓN FINANCIERA Y FINANZAS PERSONALES”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
