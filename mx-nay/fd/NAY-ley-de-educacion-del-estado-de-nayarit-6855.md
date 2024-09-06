@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2024-05-03"
+last_updated: "2024-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -225,9 +225,9 @@ IX.- Fomentar en los educandos la cultura de la paz, el respeto, la tolerancia, 
 
 X.- Implementar estrategias de prevención de adicciones partiendo de la educación, involucrando a los alumnos, docentes, madres y padres de familia y a la sociedad en general;
 
-> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2011)</small>
+> <small>(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
 
-XI.- Coadyuvar a prevenir, combatir y erradicar el alcoholismo, tabaquismo, drogadicción o cualquier otro tipo de conducta adictiva que perturbe la percepción y comportamiento de las personas, señalando los detrimentos a la salud física así como a la integridad emocional, social y económica que conlleva el uso de sustancias dañinas independientemente de que su consumo se encuentre regulado por la ley;
+XI. Prevenir, detectar y atender el alcoholismo, tabaquismo, drogadicción o cualquier otro tipo de adicción que perturbe la percepción y comportamiento de las personas, señalando los detrimentos a la salud física, así como a la integridad emocional, social y económica que conlleva el uso de sustancias dañinas independientemente de que su consumo se encuentre regulado por la ley;
 
 > <small>(REFORMADA, P.O. 11 DE MAYO DE 2022)</small>
 
@@ -281,19 +281,19 @@ XXII.- Incorporar el desarrollo personal y social de los estudiantes como parte 
 
 XXIII.- Propiciar actitudes solidarias en el ámbito internacional, en la independencia y en la justicia para fortalecer el ejercicio de los derechos de todas las personas, el cumplimiento de sus obligaciones y el respeto entre las naciones;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE SEPTIEMBRE DE 2024)</small>
 
-XXIV.- La promoción del emprendimiento, el fomento de la cultura del ahorro y la educación financiera, y
+XXIV.- La promoción del emprendimiento, el fomento de la cultura del ahorro y la educación financiera; en los términos de esta Ley, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE MARZO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE SEPTIEMBRE DE 2024)</small>
 
-XXV.- Las demás que con tal carácter determine el artículo 3 párrafo segundo de la Constitución Federal, la Ley General y la presente Ley y demás ordenamientos legales que resulten aplicables.
+XXV.- Promover en colaboración con docentes, madres, padres de familia y personal del sector salud, la implementación de protocolos, manuales o programas para la detección de conductas y trastornos que afecten la salud física y mental de los educandos, y
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXV], P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+XXVI.- Las demás que con tal carácter determine el artículo 3 párrafo segundo de la Constitución Federal, la Ley General y la presente Ley y demás ordenamientos legales que resulten aplicables.
 
 Las instituciones del Sistema Educativo Estatal impartirán educación de manera que permita al educando incorporarse a la sociedad y, en su oportunidad, desarrollar una actividad productiva y que permita, asimismo, al trabajador estudiar.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 Para los efectos de esta Ley y las demás disposiciones que regulan al Sistema Educativo Nacional, se entenderán como sinónimos los conceptos de Educador, Docente, Profesor y Maestro.
 
@@ -535,9 +535,25 @@ Las autoridades competentes seleccionarán los medios pertinentes para la public
 
 La elaboración, programación y publicación de la información generada por dichos protocolos de prevención , detección y actuación ante una conducta suicida se realizarán en un marco de respeto a los derechos humanos, a los derechos de niñas, niños y adolescentes, considerando valores éticos y morales, así como garantizando el adecuado tratamiento de la información de conformidad con las normas en materia de transparencia y protección de datos personales;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 6 DE SEPTIEMBRE DE 2024)</small>
 
-XLIII.- Promover y fortalecer en el ámbito de sus competencias la educación financiera a través de la impartición de actividades extracurriculares cuyos contenidos incluyan los conceptos, principios, elementos y procesos de emprendimiento, el ahorro y la inversión, que propicien el desarrollo económico y la calidad de vida de los habitantes del Estado;
+XLIII.- Promover y fortalecer en el ámbito de sus competencias la educación financiera a través de la impartición de actividades extracurriculares cuyos contenidos incluyan los conceptos, principios, elementos y procesos de emprendimiento, el ahorro y la inversión, que propicien el desarrollo económico y la calidad de vida de los habitantes del Estado, bajo las siguientes bases:
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+a) Dar conocimientos patrimoniales básicos para planificar con visión de futuro;
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+b) Impulsar hábitos de gasto responsable y de ahorro con perspectiva de mediano y largo plazo;
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+c) Desarrollar y fortalecer competencias que les permitan tomar decisiones financieras que potencien sus recursos, y
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+d) Promover la generosidad en el uso de los recursos, en vistas de promover la solidaridad social.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 2023)</small>
 
@@ -1982,3 +1998,21 @@ P.O. 3 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 6° DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE EDUCACION SOBRE SALUD MENSTRUAL”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA (SIC) EDUCACIÓN FINANCIERA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Comuníquese el presente Decreto a la Secretaría de Educación del Estado de Nayarit y a los Servicios de Educación Pública del Estado de Nayarit, para los efectos legales conducentes.
+
+P.O. 6 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 6 DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE SALUD MENTAL DE ESTUDIANTES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO.- La autoridad educativa estatal en colaboración con los Servicios de Salud de Nayarit, en el ámbito de sus posibilidades presupuestales de cada ciclo escolar, implementarán protocolos, manuales o programas para la detección de conductas y trastornos que afecten la salud física y mental de los educandos.
+
+TERCERO.- Comuníquese el presente Decreto a los Servicios de Educación Pública del Estado de Nayarit, la Secretaría de Educación y la Secretaría de Salud, ambas del Estado de Nayarit, para los efectos legales conducentes.
