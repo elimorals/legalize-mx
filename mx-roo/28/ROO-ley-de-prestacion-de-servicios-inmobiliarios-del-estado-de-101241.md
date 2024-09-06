@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-prestacion-de-servicios-inmobiliarios-del-estado-de-1012
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-06"
-last_updated: "2023-12-21"
+last_updated: "2024-09-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # LEY DE PRESTACION DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 6 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Número 54 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 06 de junio de 2014.
 
@@ -500,3 +502,31 @@ P.O. 21 DE DICIEMBRE DE 2023.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación al día siguiente de su publicación (sic) en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 229 POR EL QUE SE EXPIDE LA LEY DE PRESTACIÓN DE SERVICIOS INMOBILIARIOS DEL ESTADO DE QUINTANA ROO".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Prestación de Servicios Inmobiliarios del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado de fecha 6 de Julio de 2014.
+
+###### ARTÍCULO TERCERO.
+
+Las personas que con la entrada en vigor de la presente Ley estén llevando a cabo los servicios inmobiliarios a que se refiere este ordenamiento y que por lo mismo encuadren dentro de las hipótesis de un prestador de servicios inmobiliarios, dentro de un plazo de doce meses contados a partir de su entrada en vigor deberán tramitar y obtener su licencia ante la Secretaría para continuar sus actividades.
+
+###### ARTÍCULO CUARTO.
+
+Las personas que a la entrada en vigor de la presente Ley estén llevando a cabo la prestación de servicios inmobiliarios y que cuenten con matrícula estatal vigente a que se refiere el ordenamiento de la Ley de Prestación de Servicios Inmobiliarios del Estado de Quintana Roo, publicada en el Periódico Oficial del Estado, conservarán sus derechos adquiridos, su categoría será como asesor inmobiliario, en tanto actualice en el momento que le corresponda la actualización de su matrícula ante la Secretaría, a partir de su entrada en vigor del presente ordenamiento.
+
+###### ARTÍCULO QUINTO.
+
+Se estará a lo dispuesto en la Ley de Derechos del Estado de Quintana Roo, respecto del ejercicio fiscal que corresponda, para el pago de los derechos para obtener la licencia como persona prestadora de servicios inmobiliarios en las diferentes categorías descritas y señaladas en la presente Ley.
+
+###### ARTÍCULO SEXTO.
+
+Se establece un plazo de 90 días para la expedición del Reglamento de la presente Ley, contados a partir de la entrada en vigor de la misma.
