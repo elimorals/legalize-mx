@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2024-08-06"
+last_updated: "2024-09-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE SEPTIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -164,6 +164,14 @@ El Estado garantiza la igualdad jurídica respecto de sus habitantes sin distinc
 > <small>(REFORMADO, P.O. 14 DE JULIO DE 2020)</small>
 
 La mujer y el hombre serán sujetos de iguales derechos y obligaciones ante la Ley. Toda referencia de esta Constitución y de las leyes del Estado al género masculino, lo es también para el género femenino, cuando de su texto y contexto no se establezca que es expresamente para uno u otro género.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+El Estado implementará medidas permanentes tendentes a combatir y eliminar la desigualdad social y económica en razón de género, garantizando la entrega de apoyos económicos y en especie, que contribuyan a mejorar el acceso a la salud, la alimentación, el empleo o la vivienda de las Mujeres y sus familias que habitan en el Estado de Quintana Roo, priorizando a las mujeres que se encuentren en situación de vulnerabilidad, bajo la suficiencia de los recursos autorizados para tal efecto.
+
+> <small>(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2024)</small>
+
+Las Mujeres, las Adolescentes y las Niñas del Estado de Quintana Roo tienen derecho a vivir una vida libre de violencia, por lo que el Estado implementará medidas tendentes a prevenir, atender, sancionar y erradicar la violencia en su contra, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
@@ -5932,3 +5940,9 @@ P.O. 6 DE AGOSTO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 6 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DE LA "DECLARATORIA NÚMERO: 009 POR LA QUE SE ADICIONAN LOS PÁRRAFOS QUINTO Y SEXTO AL ARTÍCULO 13 Y SE RECORREN EN EL ORDEN LOS SUBSECUENTES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
