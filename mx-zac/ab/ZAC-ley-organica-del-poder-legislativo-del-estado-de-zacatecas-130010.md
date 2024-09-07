@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2023-09-30"
+last_updated: "2024-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 7 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2024 ABROGADA.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -2962,3 +2962,53 @@ P.O. 30 DE SEPTIEMBRE DE 2023.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Vigencia
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley se publicará en el Periódico Oficial, Órgano del Gobierno del Estado y entrará en vigor el siete de septiembre de dos mil veinticuatro, sin perjuicio de lo establecido en los transitorios siguientes.
+
+Abrogación
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Legislativo del Estado de Zacatecas, publicada en Suplemento 7 al número 54 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 07 de julio de 2018.
+
+Se abroga el Código de Ética Parlamentaria del Poder Legislativo del Estado de Zacatecas, publicado en el Suplemento 2 al No 62 del Periódico Oficial, Órgano del Estado, correspondiente al 3 de agosto de 2022.
+
+Reglamentación
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los sesenta días naturales siguientes a la publicación de este Decreto, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Reglamento General del Poder Legislativo del Estado.
+
+Hasta no haberse emitido en la fecha señalada el nuevo Reglamento General, se aplicará, en lo conducente y en tanto no contravenga a la presente Ley, el Reglamento General del Poder Legislativo del Estado de Zacatecas, en vigor.
+
+Estatuto Servicio Profesional
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los sesenta días naturales siguientes a la publicación de este Decreto, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Estatuto del Servicio Profesional de Carrera Parlamentaria.
+
+Órgano de Control
+
+###### ARTÍCULO QUINTO.
+
+Las atribuciones, modificaciones, funciones y la posibilidad de ser elegido por un periodo más en el cargo, serán aplicables para el actual Órgano Interno de Control sin importar que haya sido designado con anterioridad a la emisión de la presente Ley.
+
+Extensión encargo
+
+###### ARTÍCULO SEXTO.
+
+En virtud de que el nombramiento del actual titular del Órgano Interno de Control tiene una vigencia de tres años, a partir del 1° de enero del 2023 y hasta el 31 de diciembre de 2025, se extiende la vigencia del Decreto hasta el 31 de diciembre de 2026.
+
+Derogación
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las normas que se opongan al presente Decreto.
