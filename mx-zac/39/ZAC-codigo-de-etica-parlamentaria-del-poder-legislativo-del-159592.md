@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-etica-parlamentaria-del-poder-legislativo-del-159592"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-08-03"
-last_updated: "2022-08-03"
+last_updated: "2024-09-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # CODIGO DE ETICA PARLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 7 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA PARLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Código publicado en el Número 62 al Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de agosto de 2022.
 
@@ -412,3 +414,55 @@ Cuarto. En un plazo que no exceda de treinta días, contados a partir de la entr
 COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PUBLICACIÓN.
 
 DADO en la Sala de Sesiones de la Honorable Sexagésima Cuarta Legislatura del Estado de Zacatecas, a los veintiocho días del mes de junio del año dos mil veintidós. DIPUTADO PRESIDENTE.- JOSÉ DAVID GONZÁLEZ HERNÁNDEZ. DIPUTADA SECRETARIA.- MARÍA DEL MAR DE ÁVILA IBARGÜENGOYTIA. DIPUTADO SECRETARIO.- NIEVES MEDELLÍN MEDELLÍN. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+Vigencia
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley se publicará en el Periódico Oficial, Órgano del Gobierno del Estado y entrará en vigor el siete de septiembre de dos mil veinticuatro, sin perjuicio de lo establecido en los transitorios siguientes.
+
+Abrogación
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Legislativo del Estado de Zacatecas, publicada en Suplemento 7 al número 54 del Periódico Oficial, Órgano del Gobierno del Estado, correspondiente al día 07 de julio de 2018.
+
+Se abroga el Código de Ética Parlamentaria del Poder Legislativo del Estado de Zacatecas, publicado en el Suplemento 2 al No 62 del Periódico Oficial, Órgano del Estado, correspondiente al 3 de agosto de 2022.
+
+Reglamentación
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los sesenta días naturales siguientes a la publicación de este Decreto, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Reglamento General del Poder Legislativo del Estado.
+
+Hasta no haberse emitido en la fecha señalada el nuevo Reglamento General, se aplicará, en lo conducente y en tanto no contravenga a la presente Ley, el Reglamento General del Poder Legislativo del Estado de Zacatecas, en vigor.
+
+Estatuto Servicio Profesional
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los sesenta días naturales siguientes a la publicación de este Decreto, deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado, el Estatuto del Servicio Profesional de Carrera Parlamentaria.
+
+Órgano de Control
+
+###### ARTÍCULO QUINTO.
+
+Las atribuciones, modificaciones, funciones y la posibilidad de ser elegido por un periodo más en el cargo, serán aplicables para el actual Órgano Interno de Control sin importar que haya sido designado con anterioridad a la emisión de la presente Ley.
+
+Extensión encargo
+
+###### ARTÍCULO SEXTO.
+
+En virtud de que el nombramiento del actual titular del Órgano Interno de Control tiene una vigencia de tres años, a partir del 1° de enero del 2023 y hasta el 31 de diciembre de 2025, se extiende la vigencia del Decreto hasta el 31 de diciembre de 2026.
+
+Derogación
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan las normas que se opongan al presente Decreto.
