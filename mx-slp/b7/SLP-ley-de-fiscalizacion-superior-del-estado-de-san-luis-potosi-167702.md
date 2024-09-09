@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fiscalizacion-superior-del-estado-de-san-luis-potosi-167
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-01"
-last_updated: "2023-09-01"
+last_updated: "2024-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167702&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 1 de septiembre de 2023
 
@@ -75,7 +75,9 @@ VIII. Cuenta Pública: el informe que contiene la información contable, presupu
 
 IX. Entes Públicos: los poderes, Ejecutivo, Legislativo, y Judicial del Estado, los órganos que la Constitución Política del Estado les reconozca autonomía, los órganos jurisdiccionales que no formen parte del Poder Judicial del Estado, las dependencias y entidades de la administración pública estatal, los municipios y sus dependencias y entidades de la administración pública municipal, la Fiscalía General del Estado, las empresas productivas del Estado y sus subsidiarias, y cualquier otro ente sobre el que los poderes y órganos públicos citados tengan control sobre sus decisiones o acciones;
 
-X. Entidad fiscalizada: los entes públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos, no obstante que sean o no considerados entidades paraestatales y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+X. Entidad fiscalizada: los entes públicos; las entidades de interés público distintas a los partidos políticos; los mandantes, mandatarios, fideicomitentes, fiduciarios, fideicomisarios, los patronatos, o cualquier otra figura jurídica análoga, así como los mandatos, fondos o fideicomisos, públicos o privados, cuando hayan recibido por cualquier título, recursos públicos, no obstante que sean o no considerados entidades paraestatales y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, que haya captado, recaudado, administrado, manejado, ejercido, cobrado o recibido en pago directo o indirectamente recursos públicos, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines;
 
 XI. Faltas administrativas graves: las así señaladas en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí;
 
@@ -1312,3 +1314,13 @@ J. GUADALUPE TORRES SÁNCHEZ
 El Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1107.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 2°, DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
