@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2023-07-31"
+last_updated: "2024-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -266,6 +266,10 @@ IX. Las demás que correspondan al Consejo Potosino de Ciencia y Tecnología, qu
 ARTÍCULO 13 BIS. Los municipios, de manera gradual y en acuerdo a la medida de sus capacidades presupuestarias, proveerán conexión de internet gratuita en las plazas públicas de su demarcación. La infraestructura utilizada para dicho acceso, se deberá usar también para favorecer el uso de internet por parte de micro, pequeñas y medianas empresas.
 
 La provisión del servicio de internet gratuito, también se podrá realizar por medio de acuerdos y convenios específicos conforme a lo establecido en la Ley de Asociaciones Público-Privadas para la prestación de Servicios del Estado y Municipio de San Luis Potosí.
+
+> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 13 TER. La inclusión de campañas de comunicación social, propaganda electoral y propaganda política que realicen los ayuntamientos del Estado, y las personas físicas o morales que reciban o ejerzan recursos públicos o realicen actos de autoridad en el ámbito local, que proporcionen el servicio público gratuito de conexión a la red internet, deberán apegarse a lo establecido en la Ley de Comunicación Social para el Estado y Municipios de San Luis Potosí, y a lo dispuesto en la Ley Electoral del Estado de San Luis Potosí, así como a las demás legislaciones estatales aplicables.
 
 ### CAPÍTULO IV. Del Consejo para el Desarrollo Económico Sustentable, y la Competitividad
 
@@ -1196,3 +1200,11 @@ P.O. 31 DE JULIO DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1100.- SE ADICIONA EL ARTÍCULO 13 TER, A LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
