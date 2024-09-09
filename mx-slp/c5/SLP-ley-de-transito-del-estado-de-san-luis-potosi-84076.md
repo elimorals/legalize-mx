@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2024-06-14"
+last_updated: "2024-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -1367,17 +1367,21 @@ X Bis. EVITAR UTILIZAR EL TELÉFONO CELULAR O CUALQUIER DISPOSITIVO MÓVIL QUE D
 
 XI. Abstenerse de arrojar basura, substancias o cualquier objeto a la vía pública; así como sacar del vehículo parte de su cuerpo u objetos;
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
-XII. Se prohíbe transportar en calidad de pasajero de una motocicleta a más de una persona; con excepción de aquellas que fueron acondicionadas por el fabricante para transportar a más de un pasajero; quedando estrictamente prohibido viajar en calidad de pasajero de una motocicleta a un menor de seis años de edad, que no cuenten con el equipo de protección adecuado según lo dispuesto por las fracciones, XII, y XIII del artículo 19 de esta Ley, y
+XII. Se prohíbe transportar en calidad de pasajero de una motocicleta a más de una persona; con excepción de aquellas que fueron acondicionadas por el fabricante para transportar a más de un pasajero; quedando estrictamente prohibido viajar en calidad de pasajero de una motocicleta a un menor de seis años de edad, que no cuenten con el equipo de protección adecuado según lo dispuesto por las fracciones, XII, y XIII del artículo 19 de esta Ley;
 
-> <small>(REFORMADA, P.O. 14 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. En las vías públicas obligatoriamente, dar paso preferente a los vehículos de emergencia, y no seguirlos, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de auxilio, limitándose solamente a disminuir o detener la velocidad para cederles el paso. Las autoridades municipales establecerán, en sus respectivos reglamentos, el uso prioritario de la vía a vehículos que presten servicios de emergencia, cuando la situación así lo requiera, y
+XIII. En las vías públicas obligatoriamente, dar paso preferente a los vehículos de emergencia, y no seguirlos, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de auxilio, limitándose solamente a disminuir o detener la velocidad para cederles el paso. Las autoridades municipales establecerán, en sus respectivos reglamentos, el uso prioritario de la vía a vehículos que presten servicios de emergencia, cuando la situación así lo requiera;
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. En el caso de vehículos que no sean de emergencia o especiales en los términos de las definiciones contenidas en el artículo sexto de esta Ley, podrán solicitar a la autoridad competente en materia de tránsito, autorización para el uso de torretas temporales con luz ámbar, en caso de no contar con autorización, serán sancionados conforme a lo que dispongan los Reglamentos de Tránsito de los municipios, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2016)</small>
 
-XIII (SIC). Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
+XV. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo III. De las Escuelas de Manejo
 
@@ -2220,3 +2224,9 @@ SEGUNDO. Una vez de la entrada en vigor del presente Decreto, los municipios del
 TERCERO. Los señalamientos horizontales y verticales de las vialidades urbanas y carreteras del Estado, deberán ser adecuados por las autoridades de su respectiva competencia en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto.
 
 CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 1104.- SE REFORMAN LAS FRACCIONES XII Y XIII; Y ADICIONA UNA FRACCIÓN ESTA COMO XIV, DEL ARTÍCULO 72 DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
