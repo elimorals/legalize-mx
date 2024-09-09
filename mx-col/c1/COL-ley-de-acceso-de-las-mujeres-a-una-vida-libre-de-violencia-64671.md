@@ -4,7 +4,7 @@ identifier: "COL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6467
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-29"
-last_updated: "2022-12-31"
+last_updated: "2024-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Suplemento No. 2 del Periódico Oficial del Estado de Colima, el sábado 29 de noviembre de 2008.
 
@@ -683,7 +683,9 @@ Para los efectos de esta Ley, se consideran tipos de violencia contra la mujer, 
 
 I.- Psicológica.- Cualquier acto u omisión que daña la estabilidad psicológica que puede consistir en: negligencia, abandono, insultos, humillaciones, intimidación, coacción, devaluación, marginación, anulación, indiferencia, comparaciones destructivas, rechazo, prohibiciones, condicionamientos, restricción a la autodeterminación y amenazas, que provocan depresión, aislamiento, devaluación de su autoestima e incluso el suicidio;
 
-II.- Física.- Cualquier acto, en el que se utiliza parte del cuerpo, algún objeto, arma o sustancia, para sujetar, inmovilizar, o causar daño a la integridad física de las mujeres, independientemente de que se produzca o no lesiones físicas y que va encaminado a obtener su sometimiento y control;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+II. Física: Es cualquier acción u omisión que cause o busque causar daño en la integridad física de la mujer, provocando lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
 
 III.- Patrimonial.- Cualquier acto u omisión que afecta la supervivencia de la persona receptora. Se manifiesta en la sustracción, destrucción, retención, transformación de objetos, valores, documentos personales, derechos patrimoniales, recursos económicos, o bienes de las mujeres o de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a éstos, y puede abarcar los daños a los bienes comunes o propios de la receptora;
 
@@ -700,6 +702,10 @@ VI.- Equiparada.- Cualquier forma análoga que lesione o sea susceptible de dañ
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
 VII.- Simbólica.- Todo acto que a través de patrones estereotipados, mensajes, íconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales y culturales, naturalizando la subordinación de la mujer en la sociedad.
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+VIII.- Violencia por ataques con ácido, sustancias químicas o corrosivas.- Es cualquier acción u omisión que cause o busque causar daño no accidental arrojando, derramando o poniendo en contacto con algún tipo de gas, compuestos químicos, ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en determinadas condiciones pueda provocar lesiones temporales o permanentes, internas, externas o ambas, algún tipo de discapacidad o pongan en peligro la vida.
 
 ## TÍTULO TERCERO. DE LOS MECANISMOS GARANTES
 
@@ -1437,7 +1443,11 @@ XXI.- Asegurar la adecuada implementación de la NOM-007-SSA2-1993 mediante la d
 
 XXII.- Procurar la adecuada implementación de la NOM-046-SSA2-2005, así como todas las normas oficiales mexicanas aplicables vigentes y sus reformas, mediante el fomento de su contenido por todos los profesionales de la salud; y
 
-XXIII.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+XXIII.- Las autoridades y/o el personal de los servicios de salud correspondientes deberán llevar un registro y remitir la información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas a las autoridades competentes. Lo anterior en términos de lo dispuesto por el artículo 22 fracción III de esta Ley, las Normas Oficiales Mexicanas y demás disposiciones aplicables. Las personas prestadoras de servicios de salud deberán implementar los criterios, protocolos y/o lineamientos con los que cuente la Secretaría de Salud, para coordinarse interinstitucionalmente con las autoridades correspondientes ante los casos de violencia contra las mujeres; y
+
+XXIV.- Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE ENERO DE 2013)</small>
 
@@ -2322,3 +2332,11 @@ P.O. 31 DE DICIEMBRE DE 2022.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial del Estado de Colima".
+
+P.O. 9 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 471.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE COLIMA Y SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. La Secretaría de Salud contará con un lapso no mayor a 180 días a la entrada en vigor del presente Decreto para coordinarse con las autoridades correspondientes a efecto de llevar un registro y remitir información y estadísticas sobre las personas atendidas en caso de violencia por ataques con ácido, sustancias químicas o corrosivas.
