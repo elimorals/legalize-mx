@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2024-05-16"
+last_updated: "2024-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2024.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -7303,13 +7303,19 @@ ART. 1957.- El adquirente, luego que sea emplazado, debe denunciar el pleito de 
 
 ART. 1958.- El fallo judicial impone al que enajena la obligación de indemnizar en los términos de los artículos siguientes.
 
-ART. 1959.- Si el enajenó hubiere procedido de buena fe, estará obligado a entregar al que sufrió la evicción:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+ART. 1959.- Si el que enajenó hubiere procedido de buena fe, estará obligado a entregar al que sufrió la evicción:
 
 I.- El precio íntegro que recibió por la cosa;
 
 II.- Los gastos causados en el contrato, si fueren satisfechos por el adquirente;
 
-III.- Los causados en el pleito de evicción y en el de saneamiento;
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+III.- Los causados en el pleito de evicción y en el de saneamiento, y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE SEPTIEMBRE DE 2024)</small>
 
 IV.- El valor de las mejoras útiles y necesarias, siempre que en la sentencia no se determine que el vencedor satisfaga su importe.
 
@@ -7377,7 +7383,9 @@ ART. 1980.- Si la cosa enajenada pereciere o mudare de naturaleza a consecuencia
 
 ART. 1981.- Si el enajenante no conocía los vicios, solamente deberá restituir el precio y abonar los gastos del contrato, en el caso de que el adquirente los haya pagado.
 
-ART. 1982.- Las acciones que nacen de lo dispuesto en los artículos del 1975 al 1981, se extinguen a los seis meses, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 1971 y 1972.
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+ART.1982.- Las acciones que nacen de lo dispuesto en los artículos del 1975 al 1981, se extinguen a los dos años tratándose de bienes inmuebles, y seis meses tratándose bienes muebles, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 1971 y 1972.
 
 ART. 1983.- Enajenándose dos o más animales juntamente, sea en un precio alzado o sea señalándolo a cada uno de ellos, el vicio de uno da sólo lugar a la acción redhibitoria, respecto de él y no respecto a los demás, a no ser que aparezca que el adquirente no habría adquirido el sano o sanos sin el vicioso, o que la enajenación fuese de un rebaño y el vicio fuere contagioso.
 
@@ -8163,7 +8171,13 @@ I.- A satisfacer la renta en la forma y tiempo convenidos;
 
 II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
 
-III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella, y
+
+> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- A realizar en tiempo y forma el pago de los servicios públicos y privados, así como de las obligaciones accesorias que haya contraído vinculantes a la cosa arrendada.
 
 ART. 2255.- El arrendatario no está obligado a pagar la renta sino desde el día en que reciba la cosa arrendada, salvo pacto en contrario.
 
@@ -8359,7 +8373,9 @@ IV.- Los daños causados al bien arrendado, imputables al arrendatario;
 
 V.- La modificación del bien arrendado, sin contar con el consentimiento expreso del arrendador, y
 
-VI.- La falta de pago de servicios públicos derivados del bien arrendado por más de dos meses o, el tiempo que, en su caso, acuerden las partes cuando se haya comprometido a realizarlo el arrendatario.
+> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+
+VI.- La falta de pago de servicios públicos, o privados, derivados del bien arrendado por más de dos meses o, el tiempo que, en su caso, acuerden las partes cuando se haya comprometido a realizarlo el arrendatario.
 
 ART. 2320.- En los casos del artículo 2274 el arrendatario podrá rescindir el contrato cuando la pérdida del uso fuere total, y aún cuando fuere parcial, si la reparación durare más de dos meses.
 
@@ -10690,5 +10706,21 @@ P.O. 16 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 1044.- SE DEROGAN LAS FRACCIONES III Y IV DEL ARTÍCULO 1162, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1101.- SE REFORMAN LOS ARTÍCULOS 1959 EN SU PÁRRAFO PRIMERO Y LAS FRACCIONES III Y IV Y 1982, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1103.- SE REFORMAN LOS ARTÍCULOS 2254 SU FRACCIÓN III Y 2319 SU FRACCIÓN VI; Y ADICIONA AL ARTÍCULO 2254 LA FRACCIÓN IV, DEL CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
