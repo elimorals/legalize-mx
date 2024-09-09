@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-de-lenguas-173973"
 country: "mx"
 rank: "estatuto"
 publication_date: "2024-08-06"
-last_updated: "2024-08-06"
+last_updated: "2024-09-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173973&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2024-06-26"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL DE LENGUAS INDIGENAS
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2024/INALI/Estatuto_Organico_INALI.pdf]</small>
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE SEPTIEMBRE DE 2024 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2024/INALI/Nuevo_Estatuto_Organico_INALI.pdf
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 9 DE SEPTIEMBRE DE 2024.]</small>
 
 Estatuto publicado en el Número 5 del Diario Oficial de la Federación, el martes 6 de agosto de 2024.
 
@@ -39,11 +39,15 @@ Datos de identificación y lugar de publicación del aviso:
 
 Sitio web oficial del Instituto Nacional de Lenguas Indígenas
 
-https://www.inali.gob.mx/pdf/estatuto_organico/Estatuto_organico_INALI-2024.pdf
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2024)</small>
+
+https://www.inali.gob.mx/pdf/estatuto_organico/Nuevo_Estatuto_organico_INALI- 024.pdf
 
 Diario Oficial de la Federación:
 
-www.dof.gob.mx/2024/INALI/Estatuto_Organico_INALI.pdf
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 2024)</small>
+
+www.dof.gob.mx/2024/INALI/Nuevo_Estatuto_Organico_INALI.pdf
 
 Ciudad de México, a 26 de junio de 2024.- De conformidad con los artículos 23, fracción I y 28, fracción II del Estatuto Orgánico del INALI, el Prosecretario pro tempore del Consejo Nacional y Director de Asuntos Jurídicos del Instituto Nacional de Lenguas Indígenas, Lic. Guillermo Morales Gutiérrez.- Rúbrica.
 
