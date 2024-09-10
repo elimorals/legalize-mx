@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "2023-08-30"
+last_updated: "2024-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE SEPTIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
@@ -331,9 +333,9 @@ XV.- Realizar estudios e investigaciones en materia de invalidez, o incapacidad;
 
 XVI.- Participar en programas de rehabilitación y educación especial;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XVII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de personas con discapacidad o incapaces; y
+XVII. Promover ante las autoridades correspondientes la adaptación y readaptación de la infraestructura urbana que fuere necesario para satisfacer los requerimientos de autonomía de personas con discapacidad o incapaces;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
 
@@ -351,15 +353,13 @@ El Organismo en la prestación de servicios y en la realización de acciones de 
 
 En caso de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de naturaleza similar por los que se causen (sic) daño a la población, el organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades de la administración pública federal, estatal o municipal, promoverá la atención y coordinación de las acciones de los distintos sectores sociales que actúen en beneficio de aquéllos, en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 20.
 
-El Gobernador del Estado, a través de las dependencias y entidades competentes, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de discapacidad o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales, así como estancias de día para personas adultas mayores.
+El Gobernador del Estado, a través del Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de discapacidad o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales, así como estancias de día para personas adultas mayores, de conformidad con lo previsto (sic) la Ley para las Personas con Discapacidad del Estado de Puebla y en la presente Ley.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-Para este efecto, las dependencias y entidades deberán observar una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del sector salud y de los sectores social y privado.
+Para este efecto, el Organismo deberá observar una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del sector salud y de los sectores social y privado.
 
 ###### ARTICULO 21.
 
@@ -980,3 +980,41 @@ P.O. 30 DE AGOSTO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, QUE EL (SIC) QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD Y DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, AMBAS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se extingue el Instituto de la Discapacidad del Estado de Puebla, como un organismo público descentralizado del Gobierno del Estado creado por la Ley para las Personas con Discapacidad del Estado de Puebla.
+
+TERCERO. El Gobierno del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, a la entrada en vigor del presente Decreto continuará realizando las acciones que se encuentran a cargo del Instituto de la Discapacidad del Estado de Puebla, mediante los mecanismos y programas existentes.
+
+CUARTO. El personal que a la entrada en vigor del presente Decreto se encuentre laborando en el Instituto de la Discapacidad del Estado de Puebla, podrá ser adscrito al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, debiendo la persona designada de conformidad con los Lineamientos para la Extinción de Entidades Paraestatales en la Administración Pública del Gobierno del Estado realizar los trámites que procedan ante las autoridades que correspondan.
+
+QUINTO. Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen del Instituto de la Discapacidad del Estado de Puebla al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, se respetarán en términos de las disposiciones legales aplicables.
+
+SEXTO. Los bienes muebles que a la entrada en vigor del presente Decreto formen parte del patrimonio del Instituto de la Discapacidad del Estado de Puebla o tenga derecho a incorporarlos al mismo, se transmitirán en propiedad al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla para su administración, a través de la Secretaría de Administración.
+
+SÉPTIMO. Los recursos materiales y financieros que formen parte del patrimonio del Instituto de la Discapacidad del Estado de Puebla, y aquéllos que tenga derecho a percibir el mismo, se transferirán al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, a través del Sistema Integral de Administración Financiera, siempre y cuando las disposiciones normativas aplicables no determinen un fin distinto.
+
+OCTAVO. Los servidores públicos del Instituto de la Discapacidad del Estado de Puebla, o en su caso, quienes hayan concluido su empleo, cargo o comisión y que por cualquier motivo hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio o aplicación de recursos públicos, deberán atender las instrucciones, requerimientos, resoluciones y solicitudes de los órganos de control y fiscalización.
+
+NOVENO. El C. José Gustavo Ávila Sánchez. designado como liquidador por la Comisión Directiva del Instituto de la Discapacidad del Estado de Puebla, para estar en aptitud de llevar a cabo los trámites legales y administrativos finales del Organismo hasta su total conclusión, que resulten con motivo de la publicación de este Decreto, deberá realizarlos dentro de los treinta días hábiles siguientes a su entrada en vigor; una vez concluido este plazo, se entenderá que dicha función ha cesado. Por lo que dentro de dicho plazo el liquidador deberá rendir informes de las acciones realizadas cada quince días a la Secretaría de la Función Pública y al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla; y se coordinará con la Secretaría de la Función Pública y con las demás instancias competentes para llevar a cabo el proceso de entrega-recepción a que haya lugar, asimismo podrá solicitar a la Secretaría de Planeación y Finanzas los recursos necesarios para cubrir los gastos que se requieran para concluir los trabajos de extinción del Organismo, debiendo, en su caso, cuidar que la prestación de los servicios continúe de manera ininterrumpida, en tanto se da cumplimiento al presente Decreto, conforme a lo establecido en los Lineamientos para la Extinción de Entidades Paraestatales en la Administración Pública del Gobierno del Estado y demás legislación legal aplicable.
+
+DÉCIMO. Los juicios, recursos y procedimientos continuarán tramitándose hasta su total conclusión por el Gobierno del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, atendiendo a la naturaleza del asunto de que se trate.
+
+DÉCIMO PRIMERO. Los convenios, contratos y demás asuntos en trámite, distintos a los señalados en los artículos anteriores, en los que sea parte el Instituto de la Discapacidad del Estado de Puebla, continuarán tramitándose hasta su total conclusión por el Gobierno del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, atendiendo a su objeto o naturaleza.
+
+DÉCIMO SEGUNDO. El archivo físico y electrónico del Instituto de la Discapacidad del Estado de Puebla será transferido al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, para su custodia, conservación y administración en los términos que establece la Ley de Archivos del Estado de Puebla.
+
+DÉCIMO TERCERO. La persona designada para recibir y llevar a cabo los trámites legales y administrativos del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, derivado del proceso de entrega-recepción al que hace referencia el ARTÍCULO TRANSITORIO NOVENO, contará con un plazo de treinta días naturales, a partir de la firma de las actas correspondientes, para formular las observaciones que correspondan, conforme al procedimiento que establecen los Lineamientos para la Extinción de Entidades Paraestatales en la Administración Pública del Gobierno del Estado y demás legislación legal aplicable.
+
+DÉCIMO CUARTO. Todo instrumento legal, jurídico y administrativo y norma en sentido formal o material, que, a la entrada en vigor del presente, se refiera al Instituto de la Discapacidad del Estado de Puebla, se entenderá atribuido al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, en los términos a que se refiere el presente ordenamiento.
+
+DÉCIMO QUINTO. Una vez concluidos los trámites administrativos relacionados con la extinción del Instituto, la Secretaría de la Función Pública realizará los procedimientos administrativos necesarios para proceder a la cancelación de la inscripción del Instituto en el Registro de Entidades Paraestatales.
+
+DÉCIMO SEXTO. El Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, realizará las adecuaciones correspondientes a su Reglamento y demás normatividad estatal correspondiente, dentro del plazo de 180 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+DÉCIMO SÉPTIMO. Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
