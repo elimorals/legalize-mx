@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-legislativo-del-estado-de-nayarit-55875"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-05"
-last_updated: "2022-09-30"
+last_updated: "2024-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2022.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE SEPTIEMBRE DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sección Séptima del Periódico Oficial del Estado de Nayarit, el sábado 5 de mayo de 2007.
 
@@ -831,23 +829,27 @@ XVIII. Niñez, Juventud y Deporte;
 
 XIX. Igualdad de Género y Familia;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2008)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XX. Asuntos Migratorios; Gestoría Social y Grupos Vulnerables;
+XX. Gestoría Social y Grupos Vulnerables;
 
 XXI. Asuntos Pesqueros y Desarrollo Acuícola;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XXII. Transparencia, Información Gubernamental, Protección de Datos y Archivos.
+XXII. Transparencia, Información Gubernamental, Protección de Datos y Archivos;
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XXIII. Ciencia, Tecnología e Innovación.
+XXIII. Ciencia, Tecnología e Innovación;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XXIV. Participación Ciudadana y Anticorrupción.
+XXIV. Participación Ciudadana y Anticorrupción, y
+
+> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XXV. Asuntos Migratorios.
 
 Estas comisiones podrán ampliarse o disminuirse por acuerdo de la Legislatura, su funcionamiento será permanente y se regirán de conformidad a lo dispuesto por el Reglamento.
 
@@ -1858,3 +1860,9 @@ P.O. 9 DE SEPTIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT, EN MATERIA DE ASOCIACIÓN PARLAMENTARIA PLURAL".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 10 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE NAYARIT”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
