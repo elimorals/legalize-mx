@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-del-petroleo-164549"
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-02-20"
-last_updated: "2023-02-20"
+last_updated: "2024-09-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164549&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-10-26"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DEL PETROLEO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO DEL ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DEL PETRÓLEO, PUBLICADO EN EL D.O.F. DE 10 DE SEPTIEMBRE DE 2024 EL PRESENTE ESTATUTO HA QUEDADO SIN EFECTOS.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DEL PETRÓLEO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE SEPTIEMBRE DE 2024 (SIN EFECTOS).
 
 Estatuto publicado en el Número 19 del Diario Oficial de la Federación, el lunes 20 de febrero de 2023.
 
@@ -702,3 +704,11 @@ En caso de duda sobre la interpretación del presente ordenamiento, el o la Dire
 Único. El presente Estatuto Orgánico del IMP iniciará su vigencia una vez que sea publicado en la Normateca Interna del Instituto, previa aprobación del Consejo de Administración del IMP, dejando sin efectos el Estatuto Orgánico anteriormente emitido.
 
 Dado en la Ciudad de México, con fecha veintiséis de octubre del dos mil veintidós, se presentan para publicación los contenidos actualizados del Estatuto Orgánico del Instituto Mexicano del Petróleo aprobados por el Consejo de Administración del Instituto Mexicano del Petróleo en sus Sesiones Ordinarias doscientos veinticuatro y doscientos veintiséis de fechas trece de mayo y veinticuatro de noviembre, ambas de dos mil veintiuno, respectivamente. El Titular de la Dirección General del Instituto Mexicano del Petróleo, Ing. Marco Antonio Osorio Bonilla.- Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 10 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “ESTATUTO ORGÁNICO DEL INSTITUTO MEXICANO DEL PETRÓLEO”.]
+
+Único.- El presente Estatuto Orgánico del IMP iniciará su vigencia una vez que sea publicado en la Normateca Interna del Instituto, previa aprobación del Consejo de Administración del IMP, dejando sin efectos el Estatuto Orgánico anteriormente emitido.
