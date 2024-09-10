@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2024-07-06"
+last_updated: "2024-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2024.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1985,9 +1985,9 @@ XXVII Bis. Formular la solicitud ante el Instituto Estatal Electoral y de Partic
 
 XXVIII. Elegir a los Magistrados del Tribunal Superior de Justicia, de conformidad con lo establecido por el artículo 102 de esta Constitución;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XXVIII Bis. Ratificar las designaciones de los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, de conformidad con lo establecido por el artículo 114 QUÁTER de esta Constitución;
+XXVIII Bis. Ratificar las designaciones de los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, de conformidad con lo establecido por el artículo 114 QUINQUIES de esta Constitución.
 
 > <small>(REFORMADA, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -2535,11 +2535,11 @@ El ciudadano electo para suplir las faltas absolutas de Gobernador Constituciona
 
 #### SECCION SEGUNDA. De las Facultades, Obligaciones y Restricciones del Gobernador
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 79.
 
-Son facultades del gobernador:
+Son facultades del Gobernador:
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2575,9 +2575,9 @@ VIII. Conceder indulto a reos sentenciados por delitos del orden común;
 
 IX. Excitar a los Poderes de la Unión a que presten su protección al Estado en los términos de la Fracción XLIX del Artículo 59 de esta Constitución, siempre que la Legislatura no estuviere reunida;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
-X. Emitir la convocatoria de Magistrados del Tribunal Superior de Justicia de conformidad con lo establecido en el artículo 102 de esta Constitución. Así mismo, designar a los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, de conformidad con lo establecido en el artículo 114 QUÁTER de esta Constitución.
+X. Emitir la convocatoria de Magistrados del Tribunal Superior de Justicia de conformidad con lo establecido en el artículo 102 de esta Constitución. Así mismo, designar a los Magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, de conformidad con lo establecido en el artículo 114 QUINQUIES de esta Constitución.
 
 > <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -3825,133 +3825,35 @@ VII. Las demás que le atribuyan la Constitución Política de los Estados Unido
 
 ### CAPÍTULO III. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA Y COMBATE A LA CORRUPCIÓN DEL ESTADO DE OAXACA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2023)</small>
+ARTICULO 114 QUÁTER.- (DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2024)
 
-ARTICULO 114 QUÁTER.- El Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, es la máxima autoridad jurisdiccional en materia de fiscalización, rendición de cuentas, responsabilidad de los servidores públicos, combate a la corrupción e impartición de Justicia Administrativa, estará dotado de plena autonomía para dictar sus fallos, establecer su organización, funcionamiento, procedimientos y su presupuesto.
+> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+ARTICULO 114 QUINQUIES.- El Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, es la máxima autoridad jurisdiccional en materia de justicia administrativa y responsabilidades administrativas de los servidores públicos y los particulares en los términos que establece la legislación.
 
-Estará integrado por una Sala Superior y cuatro Salas Unitarias de Primera Instancia; las resoluciones de la Sala Superior serán definitivas e inatacables en el orden local.
+Estará dotado de plena autonomía para dictar sus fallos, y establecer su organización, funcionamiento, procedimientos, en su caso, recursos contra sus resoluciones y el ejercicio de su presupuesto. Promoverá la profesionalización de la ciudadanía en las materias de su competencia.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
+A. El Tribunal estará conformado por una Sala Superior y cuatro Salas Unitarias de Primera Instancia.
 
-La Sala Superior del Tribunal se compondrá de tres Magistrados y actuará en Pleno.
+La Sala Superior del Tribunal se integrará por tres magistraturas que actuarán en Pleno. Las y los magistrados de la Sala Superior durarán en su encargo siete años. Su sustitución se realizará de manera escalonada.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
+Cada una de las Salas Unitarias de Primera Instancia se integrará por una magistratura. Las y los magistrados titulares durarán en su encargo cinco años.
 
-Los Magistrados de la Sala Superior serán designados por el Gobernador del Estado y ratificados por el voto de las dos terceras partes de los miembros presentes de la Legislatura. Durarán en su encargo siete años improrrogables y serán sustituidos de manera escalonada, en los términos que establezca la legislación aplicable.
+El Tribunal será presidido por la o el magistrado que elija el Pleno y será electo de entre las y los integrantes de la Sala Superior; ejercerá la presidencia por un período de dos años, pudiendo ser reelecto por un período más.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
+Para garantizar el desempeño profesional, la Ley regulará el Servicio Profesional de Carrera del Tribunal.
 
-Los Magistrados de este Tribunal elegirán a su presidente, para un período de dos años, con posibilidad de ser reelecto para otro período igual.
+B. Para ser elegibles, las y los magistrados deberán cumplir con los requisitos que establezca la Ley.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
+Cuando exista la vacante de una magistratura, la Presidencia del Tribunal la comunicará al Gobernador del Estado para que éste designe a la persona que ocupará el cargo.
 
-Los Magistrados de las Salas Unitarias de Primera Instancia, serán designados por el Gobernador del Estado y ratificados por mayoría de los miembros presentes de la Legislatura. Durarán en su encargo cinco años pudiendo ser considerados para nuevos nombramientos.
+Posteriormente, el Gobernador del Estado, remitirá la designación junto con una justificación de la idoneidad profesional y académica de la persona, a través de la Junta de Coordinación Política del Congreso del Estado, quien someterá para su votación a las y los integrantes del Pleno del Congreso del Estado.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
+La aprobación de la propuesta de designación se hará por las dos terceras partes de los miembros presentes del Congreso del Estado.
 
-Expedirán su Reglamento Interno y los acuerdos generales para su adecuado funcionamiento.
+Previo a la ratificación que haga el Pleno, la Junta de Coordinación Política podrá solicitar la comparecencia presencial de las personas designadas en caso de que lo estime necesario.
 
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-La Ley de la materia establecerá las normas para su organización y funcionamiento; el procedimiento y los recursos contra sus resoluciones, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad; y los criterios para instalar los juzgados y salas especializadas en la materia.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-A) Para ser Magistrado de Sala Superior y de las Salas Unitarias de Primera Instancia del Tribunal de Justicia Administrativa del Estado de Oaxaca, se necesita:
-
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Tener cuando menos treinta y cinco años cumplidos el día de su nombramiento;
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
-
-Poseer el día del nombramiento, con antigüedad mínima de cinco años, título y cédula profesionales de Licenciado en Derecho, expedidas por la autoridad o institución legalmente facultada para ello;
-
-> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2018)</small>
-
-III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se trata de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-IV. Haber residido en la República Mexicana durante los dos años anteriores al día del nombramiento; y
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-V. No haber sido Secretario de Despacho, Fiscal General del Estado de Oaxaca o Diputado Local, en el año anterior a su nombramiento.
-
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2023)</small>
-
-VI. No haber sido condenada o condenado mediante resolución forme (sic) por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de los (sic) dispuesto en la ley de la materia.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-Los nombramientos de los Magistrados serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-No podrán reunirse en el Tribunal dos o más Magistrados que sean parientes entre sí por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-Durante el ejercicio de su encargo no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público; excepto la docencia o la investigación académica. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
-
-Las personas que hayan ocupado el cargo de Magistrado, de Sala Superior o de las Salas Unitarias de Primera Instancia del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, no podrán, dentro del año siguiente a la fecha de su retiro, actuar como patronos, abogados o representantes, en cualquier proceso ante los órganos de dicho Tribunal.
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
-
-Los impedimentos de este artículo serán aplicables a los servidores públicos del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, que gocen de licencia. La infracción a lo previsto en el presente párrafo será sancionada con la pérdida del respectivo cargo, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
-
-Para las designaciones a que se refiere el presente artículo, el Gobernador Constitucional del Estado, acompañará una justificación de la idoneidad de las propuestas, para lo cual hará constar la trayectoria profesional y académica de la persona propuesta, a efecto de que sean valoradas al momento de la ratificación por parte del Congreso del Estado. Para ello, la Junta de Coordinación Política someterá de manera directa las propuestas que haga el Ejecutivo ante el pleno.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-Las Comisiones Legislativas encargadas del dictamen correspondiente, deberán solicitar información a las autoridades, relativas a antecedentes penales y/o administrativos que consideren necesaria para acreditar la idoneidad de las designaciones.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-B) La organización, administración, vigilancia y disciplina en este Tribunal se establecerá en los términos que disponga su Ley Orgánica y tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2022)</small>
-
-I. Conocer y resolver mediante juicio las controversias suscitadas por resoluciones que emita la Auditoría Superior de Fiscalización del Estado de Oaxaca;
-
-II. Conocer, substanciar, resolver e imponer las sanciones en los procedimientos de los servidores públicos relacionados con responsabilidades administrativas graves y resarcitorias;
-
-III. Conocer, substanciar, resolver e imponer las sanciones en los procedimientos relacionados con cualquier persona que haya cometido hechos de corrupción que no constituyan delitos, así como de aquellas personas que resulten beneficiadas por los mismos; de igual forma, cuando su participación se dé en actos vinculados con responsabilidades administrativas graves;
-
-IV. Determinar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o municipal o al patrimonio de los entes públicos estatales o municipales;
-
-V. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas; inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas; así como el resarcimiento de los daños y perjuicios a que refiere la fracción anterior. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá decretarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública, siempre que se acredite participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves; en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva;
-
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
-
-VI. Resolver las controversias que se susciten entre la Administración Pública Estatal y los particulares. Así como las que se susciten entre los Municipios entre sí o entre éstos y el Gobierno del Estado, como consecuencia de los convenios que celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales; la ley establecerá las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones; con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
-
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2023)</small>
-
-VII. Conocer y resolver las controversias que se susciten entre las Agencias y los Ayuntamientos Municipales respecto a la asignación del presupuesto de egresos que les correspondan en términos de lo que establece la legislación local; y
-
-> <small>(ADICIONADA, P.O. 22 DE JULIO DE 2023)</small>
-
-VIII. Conocer de las controversias que se susciten entre los particulares y la Administración Pública Municipal, cuando no haya organismos o disposiciones de carácter municipal que diriman dichas controversias. Las disposiciones que versen sobre tales cuestiones deberán ser aprobadas por el Congreso del Estado.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-Las resoluciones que emita el Tribunal deberán apegarse a los principios de legalidad, máxima publicidad, respeto a los derechos humanos, verdad material, razonabilidad, proporcionalidad, presunción de inocencia, tipicidad y debido proceso.
-
-> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2018)</small>
-
-En los casos que involucren personas, comunidades, municipios y pueblos indígenas y afromexicano, este tribunal al resolver observará los sistemas normativos y las determinaciones de las instituciones de dichos pueblos.
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2023)</small>
-
-Salvo por conclusión del período y en el ejercicio del mismo, los Magistrados de la Sala Superior y de las Salas Unitarias, del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca y conforme a lo prescrito en el artículo 117 de esta Constitución.
+C. En los casos que involucren personas, comunidades, municipios y pueblos indígenas y afromexicanos, el Tribunal al resolver, observará los sistemas normativos y las determinaciones de las instituciones de dichos pueblos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -6808,3 +6710,21 @@ P.O. 6 DE JULIO DE 2024.
 PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2397.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXVIII BIS DEL ARTÍCULO 59, Y LA FRACCIÓN X DEL ARTÍCULO 79; SE ADICIONA EL ARTÍCULO 114 QUINQUIES; Y SE DEROGA EL ARTÍCULO 114 QUÁTER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a las reformas establecidas en el presente Decreto y sus transitorios.
+
+CUARTO. Las y los magistrados del Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca continuarán en el ejercicio de sus funciones conforme a la duración del cargo para el que fueron designados mediante nombramiento del 22 de julio de 2023, pero al momento de la conclusión de su periodo, le serán aplicables las reglas establecidas con la aprobación del presente Decreto.
+
+Al finalizar el periodo de la y los actuales integrantes de la Sala Superior, o en caso de existir una vacante, el Gobernador del Estado, por única ocasión, podrá especificar en las eventuales designaciones, que la duración de las magistraturas que proponga durarán en su cargo un periodo menor a los siete años previstos en el apartado A del artículo 114 QUINQUIES, a fin de que se cumpla con la sustitución escalonada.
+
+QUINTO. El Honorable Congreso del Estado de Oaxaca contará con 90 días hábiles para realizar las reformas legales necesarias, a fin de armonizar la legislación estatal en materia de procedimientos y justicia administrativa con las adiciones legales contenidas en el presente Decreto.
+
+Dichas reformas deberán incluir de manera enunciativa la regulación de los procedimientos administrativos de la Administración Pública Estatal y municipal, la regulación de los actos materialmente administrativos de los Poderes del Estado y los órganos constitucionales autónomos, así como el juicio especial de resolución de controversias administrativas entre los municipios y sus agencias.
