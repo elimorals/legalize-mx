@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-del-tribunal-estatal-de-conciliacion-y-13842
 country: "mx"
 rank: "codigo"
 publication_date: "2019-09-23"
-last_updated: "2019-09-23"
+last_updated: "2024-09-10"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA DEL TRIBUNAL ESTATAL DE CONCILIACION Y ARBITRAJE DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE, PUBLICADO EN LA G.O. DE 10 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 CÓDIGO DE CONDUCTA DEL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE SEPTIEMBRE DE 2024 (SIN EFECTOS).
 
 Acuerdo publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 23 de septiembre de 2019.
 
@@ -598,3 +600,15 @@ Derivado de lo anterior, me comprometo a desempeñar el empleo, cargo o comisió
 Toluca, Estado de México, a los __ días del mes de ________ del año 20__.
 
 PROTESTO LO NECESARIO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LO DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 10 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DEL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE”.]
+
+PRIMERO. Publíquese el presente Código en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Código entrará en vigor al día siguiente de su aprobación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se deja sin efectos el Código de Conducta de los Servidores Públicos del Tribunal Estatal de Conciliación y Arbitraje, publicado mediante el Periódico Oficial "Gaceta del Gobierno", en fecha veintitrés de septiembre del 2019
