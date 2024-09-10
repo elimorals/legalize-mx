@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-graduados-de-sanidad-21471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-22"
-last_updated: "2001-06-22"
+last_updated: "2024-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21471&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE GRADUADOS DE SANIDAD
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 22 de noviembre de 1994.
 
@@ -35,9 +35,11 @@ REGLAMENTO DE LA ESCUELA MILITAR DE GRADUADOS DE SANIDAD
 
 ### CAPITULO I. Misión
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 1o.
 
-La Escuela Militar de Graduados de Sanidad, es el establecimiento de educación militar superior responsable de formar técnicos especializados, especialistas, maestros y doctores en las Ciencias de la Salud, así como de desarrollar la investigación científica para satisfacer las necesidades del Ejército y Fuerza Aérea Mexicanos.
+La Escuela Militar de Graduados de Sanidad es una institución de educación militar de tipo superior cuya misión es formar y especializar a las personas pertenecientes al Servicio de Sanidad, mediante estudios de posgrado en Ciencias de la Salud así como desarrollar y liderar la investigación científica biomédica a través del uso de tecnología de vanguardia con apego a métodos, técnicas y principios para una adecuada y eficaz solución de problemas médicos específicos, que permitan satisfacer las necesidades del Ejército y Fuerza Aérea Mexicanos, en beneficio de la sociedad del país.
 
 ### CAPITULO II. Dependencia
 
@@ -53,13 +55,13 @@ La Escuela Militar de Graduados de Sanidad depende del Alto Mando del Ejército 
 
 La Escuela Militar de Graduados de Sanidad, tendrá los siguientes objetivos:
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-I. Formar técnicos especializados, especialistas de la medicina y de la odontología y ciencias afines, así como maestros y doctores en las ciencias biomédicas, que sean capaces de identificar y satisfacer las necesidades de atención en salud del personal del Ejército y Fuerza Aérea y sus derechohabientes en los diversos escalones del Servicio de Sanidad y de contribuir al desarrollo de técnicas y conocimientos biomédicos mediante el método científico;
+I. Formar personas especialistas de la medicina, la enfermería, la odontología y las ciencias afines, así como personas con maestrías y doctorados en las ciencias biomédicas, que sean capaces de identificar y satisfacer las necesidades de atención en salud del personal del Ejército y Fuerza Aérea Mexicanos y sus derechohabientes en los diversos escalones del Servicio de Sanidad, así como contribuir al desarrollo de técnicas y conocimientos biomédicos mediante el método científico;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-II. Reafirmar en el personal en instrucción los conocimientos, habilidades y aptitudes necesarios para desempeñar las funciones militares, administrativas y técnicas que les correspondan de acuerdo con su jerarquía militar;
+II. Reafirmar en el personal que realiza sus estudios en esta institución educativa los conocimientos, habilidades y actitudes necesarios para desempeñar las funciones que correspondan de acuerdo con su especialización;
 
 III. Realizar investigaciones biomédicas y fomentar en el personal en instrucción una actitud favorable a la investigación científica y a la difusión de los conocimientos;
 
@@ -73,11 +75,17 @@ VI. Mantener y desarrollar en el personal en instrucción una formación moral y
 
 Para alcanzar sus objetivos, el plantel impartirá los cursos de:
 
-I. Técnico Especializado para Oficiales de Sanidad y Enfermeras;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-II. Especialización y Residencia para Cirujanos Dentistas;
+I. Especialidades para personas licenciadas en Enfermería, Salud Pública y Urgencias Médicas o su equivalente;
 
-III. Especialización y Residencia para Médicos Cirujanos;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+II. Especialidades para personas cirujanas dentistas;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+III. Especialidades para personas médicas cirujanas;
 
 IV. Maestría;
 
@@ -85,17 +93,19 @@ V. Doctorado y
 
 VI. Otros que autorice el Alto Mando.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 5o.
 
-Los cursos de Técnico Especializado y de Especialización y Residencia, tendrán como finalidad ampliar y profundizar los conocimientos, desarrollar las habilidades y destrezas en los campos respectivos, así como fomentar actitudes positivas hacia la superación profesional continua.
+Las especialidades tienen como finalidad ampliar y profundizar los conocimientos, desarrollar las habilidades y destrezas en los campos respectivos, así como fomentar actitudes positivas hacia la superación profesional continua.
 
 ###### ARTICULO 6o.
 
 Los estudios de maestría tendrán las siguientes finalidades:
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-I. Preparar personal militar y civil, técnico y docente de alto nivel para las escuelas e instalaciones del Servicio de Sanidad; así como instituciones de salud y educativas nacionales y extranjeras;
+I. Preparar al personal militar y civil que cuente con estudios de licenciatura para las escuelas e instalaciones del Servicio de Sanidad, así como instituciones de salud y educativas, nacionales y extranjeras;
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -121,11 +131,11 @@ En la Escuela Militar de Graduados de Sanidad, se podrán efectuar estudios de a
 
 Los programas de entrenamiento clínico tendrán la flexibilidad necesaria para estudiar los casos clínicos conforme se presenten en los servicios hospitalarios.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 11.
 
-El nivel de los estudios de la escuela exige de los docentes y alumnos la realización de actividades de auto-aprendizaje basados en el método tutelar, con una gran flexibilidad en su desarrollo de acuerdo a las modalidades que la práctica asistencial y las innovaciones científicas impongan, tomando como guía los planes y programas aprobados por la superioridad.
+El nivel de los estudios de esta Escuela exige del personal docente y discente la realización de actividades de auto-aprendizaje basados en el método tutelar, con una gran flexibilidad en su desarrollo, de acuerdo con las modalidades que la práctica asistencial y las innovaciones científicas impongan, así como a lo previsto en los planes y programas de estudio aprobados por la Secretaría de la Defensa Nacional.
 
 ###### ARTICULO 12.
 
@@ -159,17 +169,23 @@ Para su funcionamiento la Escuela Militar de Graduados de Sanidad se integrará 
 
 I. Dirección:
 
-A. Director.
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-B. Secretaría Particular.
+A. La persona titular de la Dirección, y
+
+B. (DEROGADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)
 
 II. Subdirección de Estudios de Posgrado.
 
-Subdirector de Estudios de Postrado.
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Subdirección de Estudios de Posgrado;
 
 III. Subdirección de Investigación.
 
-Subdirector de Investigación.
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Subdirección de Investigación;
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -183,7 +199,7 @@ C. Subsección de Apoyos a la Investigación;
 
 D. Subsección de Maestrías y Doctorados en Ciencias Biomédicas;
 
-E. Subsección de Bioterio, y
+E. (DEROGADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)
 
 F. Subsección del Taller de Bioelectrónica.
 
@@ -241,7 +257,7 @@ C. Subsección de Contabilidad, Recursos Materiales y Control de Bienes.
 
 D. Subsección de Archivo y Correspondencia.
 
-X. Unidad Ejecutora de Pago.
+X. (DEROGADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 18.
 
@@ -281,9 +297,11 @@ IV. En sus ausencias los vocales serán suplidos por los subjefes de sección o 
 
 ### CAPITULO I. De la Dirección
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 19.
 
-La Dirección será el órgano rector de la Escuela Militar de Graduados de Sanidad a cargo de un General Médico Cirujano, egresado de la Escuela Médico Militar, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denominará Director.
+La Dirección es el órgano rector de la Escuela Militar de Graduados de Sanidad, a cargo de una persona con el grado de General, Médica Cirujana, egresada de la Escuela Militar de Medicina, nombrada por la persona titular de la Secretaría de la Defensa Nacional.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -353,13 +371,17 @@ Las subdirecciones de la Escuela Militar de Graduados de Sanidad serán: la de E
 
 ###### ARTICULO 22.
 
-Los Subdirectores de la escuela serán Generales o Coroneles Médicos Cirujanos egresados de la Escuela Médico Militar. El Subdirector de Investigación deberá, además, poseer el grado de Doctor en Ciencias o su equivalente curricular en investigación biomédica básica y ambos serán designados por el Secretario de la Defensa Nacional.
+(DEROGADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 23.
 
-Son atribuciones y responsabilidades del Subdirector de Estudios de Posgrado las siguientes:
+La persona titular de la Subdirección de Estudios de Posgrado es designada por la persona titular de la Secretaría de la Defensa Nacional y debe tener el grado de General o Coronel Médica Cirujana, ser egresada de la Escuela Militar de Medicina y tiene las facultades siguientes:
 
-I. Suplir en sus ausencias temporales al Director del plantel en el ejercicio de sus funciones;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+I. Suplir las ausencias de la persona titular de la Dirección del plantel;
 
 II. Desempeñarse como jefe de estudios del plantel;
 
@@ -397,13 +419,17 @@ XVI. Proponer a la Dirección los movimientos internos del personal y
 
 XVII. Las demás que le señalen las leyes y reglamentos militares en sus partes aplicables a un 2o. comandante de cuerpo de tropa y las que le sean asignadas por la superioridad.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 24.
 
-El Subdirector de Investigación suplirá las ausencias temporales del Director o Subdirector de Estudios de Posgrado según corresponda, quien tendrá las atribuciones y responsabilidades siguientes:
+La persona titular de la Subdirección de Investigación es designada por la persona titular de la Secretaría de la Defensa Nacional, que debe tener el grado de General o Coronel Médica Cirujana y con estudios de Posgrado en Ciencias o su equivalente curricular en investigación biomédica básica, ser egresada de la Escuela Militar de Medicina y tiene las facultades siguientes:
 
 I. Dirigir, supervisar y participar en la investigación biomédica que se lleve a cabo en el plantel, así como coordinar y dar apoyo técnico a las actividades relacionadas con la misma;
+
+> <small>(ADICIONADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+I Bis. Suplir las ausencias de la persona titular de la Subdirección de Estudios de Posgrado;
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -477,11 +503,11 @@ XII. Las demás que le sean asignadas por la superioridad.
 
 ### CAPITULO IV. De la Sección Pedagógica
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 27.
 
-La Sección Pedagógica será la encargada de la Planeación y Evaluación Educativa de la Escuela Militar de Graduados de Sanidad, la cual estará a cargo de un Jefe egresado de las escuelas de formación del servicio, al que se le denominará Jefe de la Sección Pedagógica, quien además deberá tener experiencia académica y docente.
+La Sección Pedagógica es la encargada de la planeación y evaluación educativa de la Escuela Militar de Graduados de Sanidad, la cual está a cargo de una persona con el grado de Jefe, egresada de las escuelas de formación del servicio, y debe contar con experiencia académica y docente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -513,9 +539,9 @@ XI. Supervisar y controlar el desarrollo de los trabajos de investigación o tes
 
 XII. Participar en la difusión científica y cultural de las actividades del plantel en coordinación con el Subdirector de Investigación;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Analizar los resultados del rendimiento académico del personal de alumnos emitido por la Sección Académica a efecto de llevar a cabo la planeación y acciones subsecuentes;
+XIII. Analizar los resultados del rendimiento académico del personal discente emitido por la Sección Académica a efecto de llevar a cabo la planeación y acciones subsecuentes;
 
 XIV. Generar la información estadística del plantel;
 
@@ -723,9 +749,11 @@ El Jefe de la Unidad Ejecutora de Pago del plantel tiene la responsabilidad de p
 
 ### CAPITULO IX. De la Junta Técnico-Consultiva
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 36.
 
-La Junta Técnico-Consultiva será el órgano colegiado que asesorará al Director en materia pedagógica y académica.
+La Junta Técnico-Consultiva es el órgano colegiado que tiene como finalidad asesorar a la persona titular de la Dirección del plantel en materia pedagógica, académica y cuando una persona discente se ubique en alguna causal que amerite la baja de la Escuela Militar de Graduados de Sanidad.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -741,9 +769,17 @@ III. Proponer a los candidatos a recibir condecoraciones y reconocimientos con b
 
 IV. Proponer la actualización de los métodos y técnicas de enseñanza;
 
-V. Analizar, evaluar y proponer las medidas necesarias en relación con el proceso enseñanza-aprendizaje y
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-VI. En los casos especiales, podrá recurrir a otras fuentes de asesoramiento.
+V. Analizar, evaluar y proponer las medidas necesarias en relación con el proceso enseñanza-aprendizaje del plantel;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Utilizar, en casos especiales, otras fuentes de asesoramiento, y
+
+> <small>(ADICIONADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Elaborar el acta correspondiente cuando una persona discente se ubique en una causal de baja del plantel.
 
 ## TITULO CUARTO. Del Personal
 
@@ -907,9 +943,17 @@ V. Cubrir puntualmente el personal civil nacional, la colegiatura fijada por la 
 
 Los militares y civiles de nacionalidad extranjera que ingresen al plantel, lo harán en calidad de becarios y se regirán durante su estancia por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en sus partes aplicables y en el presente reglamento; no estarán sujetos al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulándose su situación disciplinaria en cada caso, como lo determine la Secretaría de la Defensa Nacional.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 46.
 
-El personal en instrucción estará asignado para el desarrollo de sus actividades académicas y de investigación a diversas áreas y servicios donde se desarrollen las actividades fundamentales del curso correspondiente y que podrán ser hospitales militares, el laboratorio multidisciplinario de investigación, el departamento de salud pública del plantel o las instalaciones civiles que requiera el desarrollo del curso y sean autorizadas por el Alto Mando. Todo el personal en instrucción estará en calidad de externo.
+La Dirección, para cumplir con los programas de estudio, debe comisionar al personal discente para el desarrollo de sus actividades académicas y de investigación en diversas áreas y servicios donde se practiquen las actividades fundamentales de la especialidad, maestría o doctorado que cursan y que pueden ser instalaciones hospitalarias militares o civiles, así como, a laboratorios militares o civiles, y para efectos del control disciplinario queda bajo la responsabilidad de dichas instalaciones.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 46 Bis.
+
+El personal discente está en calidad de externo.
 
 ### CAPITULO VI. Del Personal Administrativo y de la Planta
 
@@ -921,17 +965,19 @@ El personal Administrativo y de la Planta de la Escuela Militar de Graduados de 
 
 ### CAPITULO I. Requisitos para la admisión
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 48.
 
-Los Médicos Cirujanos Militares, para realizar cursos de especialización y residencia, deberán reunir los siguientes requisitos:
+El personal militar que se encuentre en el escalafón de Médicos Cirujanos, para realizar una especialidad en la Escuela Militar de Graduados de Sanidad, debe reunir los requisitos siguientes:
 
-I. Ser egresados de la Escuela Médico Militar, o encontrarse veteranizados si no lo son;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+I. Ser egresado de la Escuela Militar de Medicina o encontrarse veteranizado;
 
-II. Haber terminado satisfactoriamente la residencia rotatoria de posgrado o la especialidad y residencia en medicina integral y de urgencia;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+II. Haber terminado satisfactoriamente la residencia rotatoria de posgrado o la especialidad;
 
 III. La convocatoria anual para el ingreso a la escuela deberá señalar aquellos cursos para cuya realización es necesario el haber efectuado un tiempo previo de residencia en Cirugía, Medicina Interna, Pediatría o Gineco-Obstetricia, cuya duración será fijada en la misma convocatoria;
 
@@ -939,33 +985,33 @@ IV. Para el ingreso se tomará en cuenta su desempeño militar, profesional y el
 
 V. Cumplir con los demás requisitos que señale la convocatoria de admisión correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 49.
 
-Los Cirujanos Dentistas Militares, para realizar cursos de especialización y residencia, deberán reunir los siguientes requisitos:
+El personal militar que se encuentre en el escalafón de Cirujanos Dentistas, para realizar una especialidad en la Escuela Militar de Graduados de Sanidad, debe reunir los requisitos siguientes:
 
 I. Ser egresado de la Escuela Militar de Odontología, o encontrarse veteranizado si no lo es;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-II. Haber terminado satisfactoriamente la residencia rotatoria de posgrado en odontología para aquellos egresados de la Escuela Militar de Odontología a partir de 1993 o especialidad y residencia en odontología integral y de urgencia;
+II. Haber terminado satisfactoriamente la residencia rotatoria de posgrado en odontología;
 
 III. Para el ingreso se tomará en cuenta su desempeño militar, profesional y el resultado de los exámenes de admisión y
 
 IV. Cumplir con los demás requisitos que señale la convocatoria de admisión correspondiente.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 50.
 
-Los oficiales de sanidad y enfermeras militares, para realizar cursos de técnicos especializados, deberán reunir los siguientes requisitos:
+El personal egresado de la Escuela Militar de Enfermería y de la Escuela Militar de Oficiales de Sanidad, para realizar una especialidad o maestría en la Escuela Militar de Graduados de Sanidad debe cumplir con los requisitos que establezca la convocatoria de admisión correspondiente.
 
-I. Ser egresado de las escuelas militar de enfermeras o militar de oficiales de sanidad;
-
-II. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
-
-III. Cumplir con los demás requisitos que señale la convocatoria de admisión correspondiente.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 51.
 
-Serán requisitos de admisión para personal de procedencia civil nacional que desee realizar cursos de Especialización y Residencia:
+La persona civil aspirante a realizar una especialidad en la Escuela Militar de Graduados de Sanidad debe cumplir con los requisitos de admisión siguientes:
 
 I. Ser mexicano por nacimiento;
 
@@ -979,9 +1025,9 @@ IV. Acreditar buena conducta;
 
 V. Cumplir con los demás requisitos aplicables de la convocatoria de admisión correspondiente, y
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Presentar y aprobar el examen de conocimientos profesionales.
+VI. Presentar y aprobar la evaluación de conocimientos profesionales.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1013,27 +1059,39 @@ El doctorado en ciencias biomédicas tendrá una duración mínima de un año y 
 
 El personal que haya efectuado un curso en el plantel, sólo podrá efectuar un nuevo curso, si está relacionado con el anterior y si las necesidades del servicio lo requieren.
 
-### CAPITULO II. De la Convocatoria e Instructivo de Admisión
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPITULO II. De la Convocatoria de Admisión
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 56.
 
-La convocatoria e instructivo de admisión del plantel, comprenderá los siguientes puntos:
+La convocatoria de admisión a la Escuela Militar de Graduados de Sanidad debe contener lo siguiente:
 
-I. Requisitos.
+I. Introducción
 
-II. Documentos.
+II. Beneficios;
 
-III. Complementarios:
+III. Compromisos;
 
-A. Entrega de documentos.
+IV. Objetivo y proyección futura;
 
-B. Periodo de recepción.
+V. Requisitos de admisión;
 
-IV. Exámenes de admisión.
+VI. Documentación;
 
-V. Bibliografía y temario de estudio.
+VII. Especialidades que se imparten en el plantel;
 
-VI. Disposiciones generales.
+VIII. Periodo de admisión;
+
+IX. Objetivos y tipos de las evaluaciones, y la calificación de estas;
+
+X. Temario y bibliografía para la evaluación cultural;
+
+XI. Motivos de exclusión, y
+
+XII. Disposiciones complementarias;
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1067,15 +1125,21 @@ IV. Personal Administrativo.
 
 Será el suficiente para cubrir las necesidades adicionales al respecto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 59.
 
-Las funciones de la comisión de admisión serán las siguientes:
+La Comisión de Admisión tiene las funciones las siguientes:
 
-I. Formular el proyecto de convocatoria e instructivo de admisión, apegándose a las disposiciones de este reglamento y a las necesidades vigentes;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+I. Formular el proyecto de convocatoria de admisión, conforme a las disposiciones de este reglamento y a las necesidades que requiera el plantel;
 
 II. Participar en las juntas que al respecto ordene la superioridad;
 
-III. Dar amplia difusión a la convocatoria e instructivo de admisión, en todos los escalones del servicio;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+III. Dar amplia difusión a la convocatoria de admisión, en todos los escalones del Servicio de Sanidad;
 
 IV. Tramitar las solicitudes para los aspirantes a presentar los exámenes de admisión;
 
@@ -1087,7 +1151,7 @@ VI. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
 VII. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
 
-VIII. Comunicar los resultados del examen de admisión.
+VIII. (DEROGADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO IV. Del Concurso de Admisión
 
@@ -1113,23 +1177,35 @@ V. Conocimientos profesionales, y
 
 VI. Los demás que señala la convocatoria correspondiente.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 61.
 
-El examen médico tiene por objeto comprobar el estado general de salud y funcional del concursante; el resultado lo clasificará como "APTO" o "NO APTO", eliminándose del concurso al "NO APTO". Se realizará en el hospital militar más próximo a su unidad.
+El examen médico tiene por objeto comprobar el estado general de salud y funcional de la persona concursante. El resultado del examen médico puede ser "Apta" o "No apta". La persona concursante queda excluida del proceso de admisión cuando resulte "No apta". El examen médico debe realizarse en las instalaciones sanitarias que para el efecto se designe.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 62.
 
-El examen físico, tiene por objeto determinar que el concursante reúna las características necesarias y aptitud suficiente para resistir las fatigas propias de la carrera militar, el resultado lo clasificará como "APTO" o "NO APTO", eliminándose del concurso al "NO APTO".
+El examen físico tiene por objeto determinar que la persona concursante reúna las características necesarias y aptitud suficiente para resistir las fatigas propias de la carrera militar. El resultado del examen físico puede ser "Apta" o "No Apta". La persona concursante queda excluida del proceso de admisión cuando su resultado sea "No apta".
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 62 Bis.
 
-La entrevista tiene por objeto explorar la motivación, interés y la idoneidad del perfil profesional del aspirante para realizar la especialidad, así como su capacidad de respuesta a situaciones de presión y el resultado lo clasifica el Jefe de Curso o de Área como "apto" o "no apto", eliminándose del concurso al "no apto".
+La entrevista tiene por objeto explorar la motivación, el interés y la idoneidad del perfil profesional de la persona concursante para realizar la especialidad en el plantel, así como su capacidad de respuesta a situaciones de presión. El resultado de la entrevista lo determina la persona titular de la Jefatura de Curso o de la coordinación de área correspondiente, la cual puede ser "Apta" o "No apta". La persona concursante será excluida del proceso de admisión cuando su resultado sea "No apta".
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 63.
 
-El examen psicológico, tiene por objeto clasificar al concursante de acuerdo con sus rasgos de personalidad, aptitudes específicas y nivel de capacidad intelectual, el resultado lo clasificará como "APTO" o "NO APTO", eliminándose del concurso al "NO APTO".
+El examen psicológico tiene por objeto seleccionar a las personas aspirantes que poseen estructuras de personalidad adaptativas para las exigencias del Sistema Educativo Militar, y consta de dos instrumentos:
+
+I. Prueba de inteligencia, y
+
+II. Prueba de personalidad.
+
+La interpretación de resultados se determina como “Cubre perfil” o “No cubre perfil”.
 
 > <small>(REFORMADO, D.O.F.22 DE JUNIO DE 2001)</small>
 
@@ -1167,43 +1243,35 @@ La ejecución del proceso enseñanza-aprendizaje, tiene por objeto la correcta c
 
 La evaluación tiene por objeto verificar el nivel de aprovechamiento del personal en instrucción en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y la de los planes y programas de estudio.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 70.
 
-La evaluación académica que se hará a lo largo de los cursos, contempla la aplicación de los exámenes siguientes:
+Las evaluaciones académicas que se aplican en los cursos son las siguientes:
 
-I. (DEROGADA, D.O.F. 22 DE JUNIO DE 2001)
+I. Parciales de materia y del desempeño práctico;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+II. Finales de materia.
 
-II. Evaluación mensual de materia y del desempeño práctico;
+III. Profesionales de especialidad;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+IV. De avance de proyecto de investigación, solo para el personal discente de maestría y doctorado;
 
-III. Exámenes finales de materia;
+V. Predoctorales, y
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+VI. De grado de maestría y doctorado.
 
-IV. Exámenes profesionales para cursos de técnicos y de especialización;
-
-V. Exámenes de avance de proyecto de investigación para alumnos de maestría y doctorado;
-
-VI. Examen predoctoral; y
-
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-VII. Exámenes de grado de maestría y doctorado.
-
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 71.
 
-La evaluación mensual se realiza en forma oral, escrita, teórica o práctica o cualquier combinación de estas modalidades de acuerdo a los objetivos y contenido del programa correspondiente.
+La evaluación parcial se realiza en forma oral, escrita, teórica o práctica o cualquier combinación de estas modalidades, de acuerdo con los objetivos y contenido del programa correspondiente.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 72.
 
-La evaluación mensual del desempeño práctico en los cursos de técnico especializado y de residencia y de especialización es aquella que realizan los profesores del curso, en coordinación con el personal asignado en cada una de las áreas, respecto a la calidad de las actividades que efectúen los alumnos.
+La evaluación parcial del desempeño práctico de especialidad es aquella que realiza el personal docente del curso, en coordinación con el personal asignado en cada una de las áreas, respecto de la calidad de las actividades que efectúa el personal discente.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1211,11 +1279,11 @@ La evaluación mensual del desempeño práctico en los cursos de técnico especi
 
 Los exámenes finales de materia son aquellos que se aplican al término de una asignatura y podrán ser orales, escritos, teóricos o prácticos o cualquier combinación de estas modalidades.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 74.
 
-Los exámenes profesionales para técnico especializado y de especialización y residencia, son los que se aplican al terminar el curso respectivo y podrán ser orales, escritos, teóricos o prácticos o cualquier combinación de estas modalidades.
+Las evaluaciones profesionales para especialidad son las que se aplican al terminar el curso respectivo y pueden ser orales, escritas, teóricas o prácticas o cualquier combinación de estas modalidades.
 
 ###### ARTICULO 75.
 
@@ -1231,29 +1299,29 @@ Los exámenes predoctorales son los que realizan los alumnos de doctorado al té
 
 Los exámenes de maestría y doctorado se realizarán al cumplir con todos los créditos y elaborar la tesis de investigación correspondiente a dichos grados.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 78.
 
-Las calificaciones obtenidas en las evaluaciones mensuales y finales son numéricas comprendidas entre "cero y diez" con un decimal, siendo la mínima aprobatoria de ocho punto cero.
+Las calificaciones obtenidas en las evaluaciones parciales y finales son numéricas, comprendidas entre cero y diez con un decimal. La calificación mínima aprobatoria para ambas evaluaciones es de ocho punto cero.
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 79.
 
-Los jurados para los exámenes profesionales de técnico especializado, de especialización y residencia, de avance de proyecto de investigación de maestría y doctorado, estarán integrados por un presidente, tres vocales y un secretario, quienes son propuestos por los respectivos jefes de cursos y aprobados por el Director del plantel.
+Los jurados para las evaluaciones profesionales de especialidad, de avance de proyecto de investigación, de maestría y doctorado se integran con una presidencia, tres vocalías y una secretaría, nombradas por la persona titular de la Dirección a propuesta de las jefaturas de cursos respectivos.
 
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 79 Bis.
 
-Los jurados para exámenes finales de materia, de los cursos para técnico especializado, de especialización y residencia, de maestría y doctorado están integrados por un presidente, un vocal y un secretario, quienes son nombrados por el Director del plantel.
+Los jurados para las evaluaciones finales de materia, de especialidad, de maestría y de doctorado se integran con una presidencia, una vocalía y una secretaría, nombradas por la Dirección del plantel.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 80.
 
-Los resultados de los exámenes profesionales y de tesis para técnico especializado, especialización y residencia, maestría y doctorado, quedarán registrados en el libro de actas correspondiente en los términos siguientes:
+Los resultados de las evaluaciones profesionales y de tesis para especialidad, maestría y doctorado deben registrarse en el libro de actas correspondiente en los términos siguientes:
 
 I. Aprobado con mención honorífica;
 
@@ -1297,55 +1365,83 @@ El personal en instrucción que falte injustificadamente a cualquiera de los ex�
 
 ### CAPITULO II. De las Bajas
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 88.
 
-El personal en instrucción de la escuela causará baja de la misma por encontrarse comprendido en cualquiera de las siguientes situaciones:
+El personal discente con el grado de Oficiales causa baja de la Escuela Militar de Graduados de Sanidad por:
 
-I. Haber terminado satisfactoriamente sus estudios;
+I. Observar mala conducta determinada por el Consejo de Honor, por cometer las faltas muy graves que afecten la disciplina militar siguientes:
 
-II. Estar comprendido en alguna de las causales de baja señaladas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
+A. Golpear a un discente;
 
-III. Observar mala conducta determinada por el Consejo de Honor para Oficiales y por el Director para los Generales, Jefes y Civiles;
+B. Incurrir en acciones que denigren la dignidad militar o atenten contra la integridad física de una persona discente;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+C. Exigir dádivas o cooperaciones, suscribir colectas o realizar cualquier tipo de actividades de agio, mediante el aprovechamiento de su antigüedad, jerarquía o cargo;
 
-IV. Reprobar tres exámenes mensuales consecutivos en una materia;
+D. Resultar no apto por dar positivo al consumo de narcóticos en un examen toxicológico o negarse a proporcionar las tomas de muestra sanguínea o de orina para descartar el consumo de sustancias psicotrópicas, estupefacientes u otras controladas, y
 
-V. Reprobar un examen final, de avance de proyecto de investigación o predoctoral;
+E. Realizar acciones que desprestigien la imagen de la Escuela Militar de Graduados de Sanidad o de la Secretaría;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+II. Acumular 20 días de arresto;
 
-VI. Reprobar el desempeño práctico por 3 meses consecutivos;
+III. Reprobar tres evaluaciones parciales, teóricas o prácticas, de manera consecutiva en una materia o reprobar más del 50% de las materias que se encuentre cursando por semestre;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+IV. Reprobar un examen final, de avance de proyecto de investigación o predoctoral;
 
-VII. Reprobar el examen profesional o de tesis para técnico especializado, de especialización, de especialización y residencia, de maestría o doctorado;
+V. Reprobar la evaluación profesional o de tesis de especialidad, de maestría o doctorado;
 
-VIII. Acumular más de cinco faltas injustificadas en el año lectivo;
+VI. Acumular más de tres faltas injustificadas durante un semestre escolar;
 
-IX. Faltar justificadamente al diez por ciento de las actividades académicas del año lectivo;
+VII. Faltar justificadamente al 10% de las actividades académicas durante un semestre escolar;
 
-X. No apegarse a la ruta crítica del trabajo de investigación o de tesis;
+VIII. Incumplir con la ruta crítica del trabajo de investigación o de tesis, así como cometer plagio durante su elaboración;
 
-XI. Existir irregularidades en la documentación presentada al ingresar al plantel;
+IX. Existir irregularidades en la documentación presentada al ingresar al plantel;
 
-XII. Por solicitud del interesado que sea aceptada por la superioridad y (sic)
+X. Incurrir en las conductas previstas en las fracciones I, II, V Bis, párrafo segundo; VI; XI; XIII; XIV; XV; XVI; XVII; XVIII; XIX; XX; XXI; XXII; XXIII y XXIV, del artículo 140 del Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
 
-XIII. Por inutilidad de acuerdo con las tablas anexas de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XIV. Adquirir otra nacionalidad, y
-
-> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
-
-XV. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
-
-> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 88 Bis.
 
-Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
+El personal discente con el grado de General y de Jefes, así como los civiles causan baja de la Escuela Militar de Graduados de Sanidad por propuesta de la persona titular de la Dirección del plantel, al Alto Mando del Ejército y Fuerza Aérea, cuando se encuentre en alguna de las situaciones siguientes:
+
+I. Por cometer faltas muy graves que afecten la disciplina militar siguientes:
+
+A. Golpear a un discente;
+
+B. Incurrir en acciones que denigren la dignidad militar o atenten contra la integridad física de una persona discente;
+
+C. Exigir dádivas o cooperaciones, suscribir colectas o realizar cualquier tipo de actividades de agio, mediante el aprovechamiento de su antigüedad, jerarquía o cargo;
+
+D. Resultar no apto por dar positivo al consumo de narcóticos en un examen toxicológico o negarse a proporcionar las tomas de muestra sanguínea o de orina para descartar el consumo de sustancias psicotrópicas, estupefacientes u otras controladas, y
+
+E. Realizar acciones que desprestigien la imagen de la Escuela Militar de Graduados de Sanidad o de la Secretaría, y
+
+II. Incurrir en las conductas previstas en las fracciones VI, VIII, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI, del artículo 140 del Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
+
+III. Acumular 20 días de arresto para el personal discente militar nacional y extranjero y 300 puntos de demerito para el personal discente civil por incurrir en faltas muy graves que afecten la disciplina militar.
+
+IV. Reprobar tres evaluaciones parciales, teóricas o prácticas, de manera consecutiva en una materia o reprobar más del 50% de las materias que se encuentre cursando por semestre;
+
+V. Reprobar un examen final, de avance de proyecto de investigación o predoctoral;
+
+VI. Reprobar la evaluación profesional o de tesis de especialidad, de maestría o doctorado;
+
+VII. Acumular más de tres faltas injustificadas durante un semestre escolar;
+
+VIII. Faltar justificadamente al 10% de las actividades académicas durante un semestre escolar;
+
+IX. Incumplir con la ruta crítica del trabajo de investigación o de tesis, así como cometer plagio durante su elaboración;
+
+X. Existir irregularidades en la documentación presentada al ingresar al plantel;
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 88 Ter.
+
+Al personal discente que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales contados, a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
 
 ### CAPITULO III. De los Reingresos
 
@@ -1371,13 +1467,15 @@ IV. El personal en instrucción que haya causado baja por mala conducta o por re
 
 ## TITULO OCTAVO. De los Reconocimientos Académicos y Estímulos
 
-### CAPITULO I. Reconocimientos Académicos, Grados Académicos, Diplomas, Certificados y Constancias
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+### CAPITULO I. Reconocimientos Académicos, Grados Académicos, Diplomas, Certificados, Constancias y Títulos
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 91.
 
-Al término del curso correspondiente la escuela elaborará y remitirá a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los grados académicos, diplomas, certificados y constancias de los cursos realizados por los alumnos para su aprobación, legalización y trámite de registro según corresponda.
+Al término del curso correspondiente, la Escuela Militar de Graduados de Sanidad debe elaborar y remitir a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea los grados académicos, diplomas, certificados, constancias y títulos de los cursos realizados por el personal discente para su aprobación, legalización y trámite de registro, según corresponda.
 
 ###### ARTICULO 92.
 
@@ -1387,7 +1485,9 @@ I. Constancia de asistencia a los cursos de actualización y capacitación con d
 
 II. Certificado de materias acreditadas durante su estancia en el plantel;
 
-III. Diploma de especialización al cumplir satisfactoriamente los requisitos del curso correspondiente para médicos cirujanos y cirujanos dentistas; en el caso de oficiales de sanidad y enfermeras el correspondiente al nivel técnico especializado y
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+III. Título profesional al cumplir satisfactoriamente los requisitos de la especialidad correspondiente, y
 
 > <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1395,15 +1495,15 @@ IV. Grado académico de maestría o doctorado en ciencias biomédicas con anotac
 
 ### CAPITULO II. De los Estímulos
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 93.
 
-Los estímulos que otorgue la escuela serán:
+Los estímulos que otorgue el plantel son:
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+I. Mención honorifica otorgada por los jurados de evaluaciones profesionales, de especialidad y de grado al personal discente que haya tenido un rendimiento académico sobresaliente, y
 
-I. Mención honorífica otorgada por los jurados de exámenes profesionales de técnico especializado, especialidad y de grado a aquellos alumnos que hayan tenido un rendimiento académico sobresaliente, y
-
-II. Recomendación del pase inmediato de la maestría al doctorado otorgado por el jurado del examen de maestría.
+II. Recomendación del pase inmediato de la maestría al doctorado otorgado por el jurado de la evaluación de maestría.
 
 ## TITULO NOVENO. Disposiciones Complementarias
 
@@ -1417,9 +1517,17 @@ El personal civil nacional y extranjero se someterá a las disposiciones académ
 
 El personal en instrucción que ostente grado jerárquico superior al de los directivos y docentes, deberá guardar a éstos, las consideraciones que por su calidad y comisión merecen de acuerdo con los principios de decencia, ética militar y social.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 96.
 
-La escuela recibirá como personal en instrucción a los militares de la Armada de México y de Fuerzas Armadas Extranjeras que cumplan con los requerimientos académicos del curso correspondiente, cuando así lo determine el Alto Mando del Ejército y Fuerza Aérea Mexicanos, durante su estancia en el plantel deberá regirse por el presente reglamento, así como cumplir con las disposiciones y directivas emitidas por el Alto Mando.
+La escuela recibe como personal discente a los militares de la Armada de México y de Fuerzas Armadas extranjeras que cumplan con los requerimientos académicos del curso correspondiente cuando así lo determine el Alto Mando del Ejército y Fuerza Aérea Mexicanos, durante su estancia en el plantel debe regirse por el presente reglamento, así como cumplir con las disposiciones y directivas emitidas por el Alto Mando.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 96 Bis.
+
+El personal discente de la Armada de México y de fuerzas armadas extranjeras, por la comisión de una falta, son acreedores de las sanciones disciplinarias correspondientes de acuerdo con la equivalencia de su grado con la del personal militar del Ejército y Fuerza Aérea Mexicanos.
 
 > <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
@@ -1432,6 +1540,12 @@ Los cursos señalados en el presente Reglamento tendrán el nivel académico de 
 ###### ARTICULO 97 Bis.
 
 Los arrestos que se impongan al personal militar en instrucción serán graduados por el Director del plantel conforme a lo establecido en la legislación militar y se cumplirán a partir del momento en que se comuniquen.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTICULO 98.
+
+Para efecto del artículo 88 Bis, fracción III, de este reglamento, cuando el personal discente civil cometa una falta se le debe aplicar las sanciones disciplinarias consistente en una amonestación y en los puntos de demerito a que se hace acreedor, lo cual debe asentarse en el acta correspondiente.
 
 ## TRANSITORIOS
 
@@ -1452,3 +1566,13 @@ D.O.F. 22 DE JUNIO DE 2001.
 PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 10 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA ESCUELA MILITAR DE GRADUADOS DE SANIDAD”.]
+
+PRIMERO.- El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto
