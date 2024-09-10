@@ -4,7 +4,7 @@ identifier: "TAM-codigo-de-conducta-y-prevencion-de-conflictos-de-interes-de-167
 country: "mx"
 rank: "codigo"
 publication_date: "2023-07-24"
-last_updated: "2023-07-24"
+last_updated: "2024-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "TAM"
 
 CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE ECONOMÍA DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2024.
 
 Código publicado en el Número Extraordinario 17 del Periódico Oficial del Estado de Tamaulipas, el lunes 24 de julio de 2023.
 
@@ -60,9 +60,13 @@ Por lo que, se prevé que, el Código de Conducta y Prevención de Conflictos de
 
 Riesgos Éticos
 
-La Misión de la Secretaría está enfocada en coordinar, promover y concertar la interacción de acciones, planes y programas de promoción y economía, entre los recursos públicos y/o privados de los diversos sectores, para fomentar la productividad y competitividad en el Estado y tiene como Visión, promover la creación de mecanismos que faciliten el emprendimiento empresarial y el desarrollo de la competitividad de las micro, pequeñas y medianas empresas, con la finalidad de fomentar el empleo, el bienestar social y un desarrollo sostenible de la sociedad tamaulipeca.
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
-En tal virtud, las personas servidoras publicas que laboran en la Secretaría, podrian situarse en procesos suceptibles (sic) de riesgo ético y sin perjuicio de las acciones especificas que el Comité de Etica en su oportunidad establezca, resulta necesario, el estableciemiento (sic) del presente Codigo de Conducta, para delimitar las conductas que pudieran presentarse.
+La MISIÓN de la Secretaría es contribuir al Desarrollo Económico Sostenible de Tamaulipas, con un sentido humanista, que integre a las acciones de gobierno, las iniciativas de empresarios, académicos, trabajadores y sociedad civil organizada para incrementar la competitividad regional, impulsar la promoción de inversiones dirigida a la conformación de clústeres industriales, crear ambientes propicios en el desarrollo de emprendedores, de la micro, pequeña y mediana empresa tamaulipeca, para generar empleos en condiciones de igualdad que favorezcan el mejoramiento del nivel de vida de las familias tamaulipecas.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
+
+Y tiene como VISIÓN coordinar las políticas públicas para el desarrollo económico sostenible en Tamaulipas a partir de la implementación de programas y proyectos coordinados con los actores económicos y sectores sociales, que impulsen la competitividad de sus regiones, la llegada de nuevas inversiones, así como para impulsar el emprendimiento, las micro, pequeñas y medianas empresas consolidadas en los mercados locales e internacionales para una mayor generación de empleos formales y un mejor bienestar de los habitantes del estado.
 
 Objeto
 
@@ -315,3 +319,17 @@ Nombre de la persona servidora pública
 Puesto
 
 Número de empleado
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE REFORMA EL CÓDIGO DE CONDUCTA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS DE LA SECRETARÍA DE ECONOMÍA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Acuerdo.
