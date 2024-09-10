@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2021-04-09"
+last_updated: "2024-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE SEPTIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -107,9 +109,7 @@ XI.- Estenografía Proyectada: Es el oficio y la técnica de transcribir un mon�
 
 XII.- Igualdad de Oportunidades: Proceso de adecuaciones, ajustes y mejoras necesarias en el entorno jurídico, social, cultural y de bienes y servicios, que faciliten a las personas con discapacidad su inclusión, integración, convivencia y participación, con el goce o ejercicio en paridad de condiciones de todos los derechos y libertades fundamentales;
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
-
-XII Bis.- Instituto.- Instituto de la Discapacidad del Estado de Puebla;
+XII Bis.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2024)
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE OCTUBRE DE 2020)</small>
 
@@ -339,183 +339,129 @@ m) Los demás que resulten aplicables.
 
 ## TÍTULO SEGUNDO. DE LOS SERVICIOS INSTITUCIONALES PARA PERSONAS CON DISCAPACIDAD
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
-### CAPÍTULO PRIMERO. DEL INSTITUTO DE LA DISCAPACIDAD DEL ESTADO DE PUEBLA
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+### CAPÍTULO PRIMERO. DE LAS AUTORIDADES QUE BRINDARÁN ATENCIÓN A PERSONAS CON DISCAPACIDAD
 
 ###### Artículo 11.
 
-El Instituto de la Discapacidad del Estado de Puebla, es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, con autonomía técnica y de gestión, sectorizado a la Secretaría de Igualdad Sustantiva, el cual tendrá su domicilio en la Ciudad de Puebla, Puebla, sin perjuicio de que pueda establecer oficinas o delegaciones en otras localidades de la entidad y contará con una estructura operativa para el cumplimiento de sus atribuciones, objetivos y fines.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2024)
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 12.
 
-El Instituto será la máxima autoridad para la planeación, ejecución y evaluación de los programas vigentes en la Entidad en materia de atención a personas con discapacidad y tendrá por objeto la coordinación y ejecución, en su caso, de los programas a que se refieren la presente Ley, su reglamento y demás ordenamientos aplicables.
+El Sistema DIF será la autoridad competente para la planeación, ejecución y evaluación de los programas vigentes en la Entidad en materia de atención a personas con discapacidad y tendrá la coordinación y ejecución, en su caso, de los programas a que se refieren la presente Ley, su reglamento y demás ordenamientos aplicables.
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 12 Bis.
 
-Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
+Para el cumplimiento de las acciones y programas que establece esta Ley tendientes a modificar y mejorar las circunstancias de carácter social, para lograr el desarrollo integral del individuo, así como la protección física, mental y social hasta lograr su completa realización personal, como la integración a una vida plena y productiva de las personas con discapacidad, el Sistema DIF tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 I.- Intervenir en la definición, instrumentación y promoción de una política estatal de discapacidad, en coordinación con las demás dependencias y entidades estatales, en el ámbito de sus respectivas competencias;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 II.- Coordinar y evaluar los programas y proyectos estatales en materia de personas con discapacidad, de conformidad a lo que establece el presente ordenamiento;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 III.- Vincular los programas, políticas, estrategias y acciones en materia de discapacidad, con los correspondientes en materia de salud, asistencia social e igualdad sustantiva;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 IV.- Articular las acciones, servicios, instrumentos y medidas interinstitucionales en materia de discapacidad, conforme a las disposiciones de esta Ley y demás ordenamientos aplicables;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 V.- Integrar un expediente general de cada persona con discapacidad y darle el debido seguimiento, desde su valoración hasta considerar que se ha logrado su total inclusión e integración social;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 VI.- Valorar a las personas con discapacidad y canalizarlas a las diversas instituciones u organismos especializados, sean éstos públicos o privados;
 
-VII.- Articular y ejecutar acciones para recabar recursos económicos o en especie, para que con éstos se apoyen los programas para las personas con discapacidad de bajos recursos económicos;
+VII.- (DEROGADA, P.O. 10 DE SEPTIEMBRE DE 2024)
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 VIII.- Fomentar la orientación a la comunidad y en lo particular a las familias de personas con discapacidad, en materia de convivencia social, apoyo y tratamiento de las mismas;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 IX.- Proporcionar la debida asesoría a los Ayuntamientos de la Entidad, para que establezcan las bases de desarrollo urbanístico y arquitectónico para las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 X.- Promover el establecimiento de centros de servicios de rehabilitación somática, psicológica, social y ocupacional para las personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 XI.- Coadyuvar en la definición de las estrategias y políticas públicas necesarias, para eliminar la discriminación hacia las personas con discapacidad y promover su plena inclusión e integración por parte de las autoridades estatales y/o entidades privadas, en la prestación o suministro de bienes, servicios, instalaciones y programas;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XII.- Determinar las acciones necesarias para difundir y en su caso fortalecer una cultura de respeto, sensibilización y conciencia hacia las personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 XIII.- Proponer al Titular del Poder Ejecutivo programas, proyectos, mecanismos e instrumentos, para la obtención de recursos provenientes de fuentes alternas de financiamiento, para el cumplimiento del objeto de esta ley;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XIV.- Coordinar y concertar la participación de los sectores público, social y privado en la planeación, programación, ejecución, evaluación, impacto y supervisión de las acciones que se realicen a favor de las personas con discapacidad;
 
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
+
 XV.- Intervenir en la suscripción de convenios y acuerdos de coordinación y concertación, en materia de discapacidad;
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
 XVI.- Formular consultas estrechas para la colaboración activa con las personas con discapacidad, incluidos los niños y las niñas con discapacidad, a través de las organizaciones que las representen; y
 
-XVII.- Las demás que le señalen el presente ordenamiento, su Reglamento y demás disposiciones legales.
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 2019)</small>
 
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+XVII.- Las demás que le señalen el presente ordenamiento, su Reglamento y demás disposiciones legales.
 
 ###### Artículo 12 Ter.
 
-La administración y dirección del Instituto estará a cargo de las instancias siguientes:
-
-I.- Una Comisión Directiva;
-
-II.- Una o un Director General; y
-
-III.- Las unidades administrativas que sean necesarias para el mejor despacho de los asuntos de su competencia, de acuerdo al presupuesto autorizado y a las disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 13.
 
-La Comisión Directiva será la máxima autoridad del Instituto y estará integrada por:
-
-I.- Un Presidente Honorario, que será la o el Titular del Poder Ejecutivo;
-
-II.- Un Presidente Ejecutivo, que será la o el Titular de la Secretaría de Igualdad Sustantiva;
-
-III.- Un Secretario, que será la o el Titular de la Secretaria de Salud;
-
-IV.- Ocho Vocales, que serán las o los representantes de:
-
-a) La Secretaría de Planeación y Finanzas;
-
-b) La Secretaría de Administración;
-
-c) La Secretaría de Infraestructura;
-
-d) La Secretaría de Movilidad y Transporte;
-
-e) La Secretaría de Bienestar;
-
-f) Una organización social cuyo objeto social tenga relación directa con la atención y la defensa de los derechos de las personas con discapacidad, a invitación del Presidente Ejecutivo;
-
-g) Una cámara u organización empresarial, a invitación del Presidente Ejecutivo; y
-
-h) Una universidad o institución de educación superior, a invitación del Presidente Ejecutivo.
-
-La o el Titular del Órgano Interno de Control participará en las sesiones de la Comisión Directiva con voz, pero sin voto.
-
-La o el Director General fungirá como Secretario Técnico del órgano de gobierno, con voz, pero sin voto.
-
-Los cargos de la Comisión Directiva serán honoríficos, por lo que quienes los asuman no recibirán retribución ni emolumento alguno. Todas las personas integrantes previstas en las fracciones I a IV tendrán voz y voto.
-
-Las personas integrantes titulares de la Comisión Directiva podrán nombrar a sus respectivos suplentes, quienes tendrán las mismas facultades que a aquéllas les correspondan y deberán tener cuando menos nivel de Director o su equivalente.
-
-La o el Presidente será suplido en su ausencia por la o el Secretario de Igualdad Sustantiva, en cuyo caso entrará en funciones la o el suplente de la o el Presidente Ejecutivo.
-
-La o el Presidente y la o el Presidente Ejecutivo, a propuesta de la o el Director General, podrán invitar a las sesiones de la Comisión Directiva a representantes de instituciones públicas federales, estatales o municipales, así como organizaciones y asociaciones privadas que guarden relación con el objeto del Instituto, quienes tendrán derecho de voz.
-
-La Comisión Directiva sesionará de manera ordinaria cada tres meses y extraordinaria las veces que sea necesario; el quórum del órgano de gobierno se integrará con la mitad más uno de sus integrantes, y sus resoluciones se tomarán por mayoría de votos de las personas integrantes presentes, teniendo la o el Presidente, voto de calidad en caso de empate.
-
-Las sesiones deberán convocarse por conducto del Secretario Técnico, con cuando menos cinco días de anticipación en el caso de las ordinarias y veinticuatro horas de anticipación en el caso de las extraordinarias, debiendo acompañar el orden del día propuesto.
-
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 14.
 
-La Comisión Directiva, tendrá las atribuciones que la Ley de Entidades Paraestatales del Estado de Puebla prevé para los órganos de gobierno y las que le confiera el Reglamento Interior del Instituto.
-
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 14 Bis.
 
-La o el Director General será propuesto por el Titular del Poder Ejecutivo, y nombrado por la Comisión Directiva, para lo cual deberá reunir los requisitos establecidos en la Ley de Entidades Paraestatales del Estado de Puebla.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2024)
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 15.
 
-La o el Director General del Instituto, además de las atribuciones que le confiere la Ley de Entidades Paraestatales del Estado de Puebla, tendrá las siguientes:
+La persona titular de la Dirección General del Sistema DIF, además de las atribuciones que le confieren la Ley sobre el Sistema Estatal de Asistencia Social, la Ley de Entidades Paraestatales del Estado de Puebla y demás legislación aplicable en la materia, tendrá las siguientes:
 
-I.- Formular y someter a la aprobación de la Comisión Directiva el programa operativo anual, el anteproyecto del presupuesto de egresos; y, de manera trimestral, los estados financieros del Instituto;
+I. Someter a consideración de la Junta Directiva, los proyectos de fuentes alternas de financiamiento del Sistema DIF en materia de discapacidad;
 
-II.- Rendir un informe anual de actividades;
+II. Asesorar a la persona titular del Poder Ejecutivo del Estado y a los Ayuntamientos en la definición de estrategias en proyectos de discapacidad;
 
-III.- Someter a la autorización de la Comisión Directiva, los contratos, acuerdos y convenios inherentes al objeto del Instituto, que pretenda celebrar;
+III. Conducir, organizar supervisar y evaluar, con el apoyo de las unidades administrativas que correspondan, los servicios que presta el Sistema DIF para personas con discapacidad, y
 
-IV.- Informar a la Comisión Directiva respecto del ejercicio de los poderes generales o especiales otorgados;
-
-V.- Promover la celebración de eventos y programas del Instituto, en colaboración con todos los sectores de la población;
-
-VI.- Someter a consideración de la Comisión Directiva, los proyectos de fuentes alternas de financiamiento del Instituto;
-
-VII.- Asesorar al titular del Poder Ejecutivo del Estado y a los ayuntamientos en la definición de estrategias en proyectos de discapacidad;
-
-VIII.- Someter a la Comisión Directiva la organización de la estructura orgánica, los proyectos de Reglamento Interior y de manuales administrativos, y, en general, la normatividad interna del Instituto, así como las modificaciones necesarias para el cumplimiento de su objeto;
-
-IX.- Conducir, organizar y evaluar, con el apoyo de las unidades administrativas que correspondan, las actividades y funcionamiento del Instituto, en cumplimiento de su objeto, así como supervisar la operación y los servicios que se prestan;
-
-X.- Expedir, a petición de particulares o autoridades competentes, la certificación de datos o documentos que obren en los archivos del Instituto, previo pago de los derechos correspondientes, en los casos que proceda; y
-
-XI.- Las demás que le señale esta Ley y el ordenamiento jurídico que lo norme.
-
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+IV. Las demás que le señalen esta Ley y los ordenamientos legales aplicables.
 
 ###### Artículo 15 Bis.
 
-El patrimonio del Instituto estará constituido por:
-
-I.- Las aportaciones, participaciones, subsidios, transferencias y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal;
-
-II.- Las aportaciones y donaciones que bajo cualquier título, le realicen personas físicas o jurídicas, de derecho público o privado, nacionales o extranjeras, así como las que reciba a través de fideicomisos en los que se le señale como fideicomisario;
-
-III.- Los bienes muebles e inmuebles que adquiera u obtenga por cualquier título legal para el cumplimiento de su objeto;
-
-IV.- Las utilidades, intereses, dividendos, rendimientos, contraprestaciones y en general, los bienes, derechos y demás ingresos que adquiera por cualquier título legal; y
-
-V.- Los ingresos derivados de la prestación de los servicios a su cargo y en cumplimiento de su objeto, que se regirán conforme a las disposiciones legales aplicables.
-
-Los bienes que formen parte del patrimonio del Instituto, se equipararán a los del dominio público y, por lo tanto, serán inembargables, inalienables e imprescriptibles.
-
-> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 15 Ter.
 
-La vigilancia del Instituto estará a cargo de un Órgano Interno de Control, designado por la Secretaría de la Función Pública, quien tendrá las facultades que a estos órganos le otorgan las leyes y demás disposiciones aplicables.
+(DEROGADO, P.O. 10 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO SEGUNDO. DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -625,15 +571,17 @@ VI.- Forma de sesionar.
 
 La valoración de las personas con discapacidad, tendrá por objeto detectar en forma integral todos los problemas físicos, psicológicos, familiares y sociales que éstas presenten, con el fin de integrar el expediente con el cual se le canalice a las diversas instancias en que pueda obtener los servicios que requiera para su rehabilitación e incorporación.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 22.
 
-Para llevar a cabo la valoración de las personas con discapacidad, el Instituto contará con un equipo multidisciplinario de especialistas en medicina, psicología, educación, trabajo social y materia laboral, procurando la inclusión en forma preferencial de profesionales con discapacidad que reúnan los requisitos suficientes para desempeñar su labor u oficio.
+Para llevar a cabo la valoración y en su caso certificación de las personas con discapacidad, el Sistema DIF deberá contar con un equipo multidisciplinario de especialistas en medicina, psicología, educación, trabajo social y materia laboral, procurando la inclusión en forma preferencial de profesionales con discapacidad que reúnan los requisitos suficientes para desempeñar su labor u oficio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 23.
 
-La valoración debe efectuarse en forma inmediata luego de que el solicitante acuda o sea canalizado por otras instituciones a la Comisión Estatal Coordinadora, participando en ella, todos los especialistas que integran la Comisión de valoración, la que se realizará preferentemente en el siguiente orden:
+Las acciones para emitir la valoración y en su caso, la certificación correspondiente, deberán iniciarse de forma inmediata, luego de que el solicitante acuda o sea canalizado por otras instituciones al Sistema DIF, en coordinación con los especialistas de dependencias o instituciones afines para realizarla preferentemente en el siguiente orden:
 
 > <small>(REFORMADA, P.O. 20 DE ENERO DE 2010)</small>
 
@@ -645,11 +593,11 @@ III.- Valoración del ambiente familiar, social y laboral, especificando en cada
 
 IV.- Valoración del nivel socioeconómico, detallando el grado de apoyo que requiera para su rehabilitación total.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 24.
 
-El proceso de valoración deberá efectuarse dentro del plazo de treinta días, contados a partir de la presentación del solicitante al Instituto.
+El proceso de valoración deberá efectuarse dentro del plazo de treinta días hábiles, contados a partir de la presentación del solicitante al Sistema DIF.
 
 ### CAPÍTULO SEGUNDO. DE LA REHABILITACIÓN EN GENERAL
 
@@ -673,9 +621,11 @@ IV.- Educación general, regular y especial; y
 
 V.- Rehabilitación laboral.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 27.
 
-El Sistema DIF, fomentará y establecerá, en coordinación con las instituciones involucradas, las actividades relativas al proceso de rehabilitación, llevándolo a los Municipios de la Entidad.
+Además de las atribuciones establecidas en la presente Ley, el Sistema DIF, fomentará y establecerá, en coordinación con las instituciones involucradas, las actividades relativas al proceso de rehabilitación, llevándolo a los Municipios de la Entidad.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2015)</small>
 
@@ -725,11 +675,13 @@ La educación general que imparta y regule la Secretaría de Educación Pública
 
 Los programas que formen parte del sistema educativo en el Estado, deberán promover una cultura de respeto a la dignidad y a los derechos humanos, y a la no discriminación de las personas con discapacidad y con necesidades educativas especiales.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 36.
 
-Las personas con discapacidad tendrán derecho a la educación regular y especial, misma que será impartida por la Secretaría de Educación Pública; recibiendo en su caso, los programas de apoyo específicos de cada nivel educativo que la Ley de Educación del Estado, las Normas de Atención Inclusión e Integración Educativas y la presente Ley señalen.
+Las personas con discapacidad tendrán derecho a la educación regular y especial, misma que será impartida por la Secretaría de Educación; recibiendo en su caso, los programas de apoyo específicos de cada nivel educativo que la Ley de Educación del Estado de Puebla, las Normas de Atención Inclusión e Integración Educativas y la presente Ley señalen.
 
-De acuerdo con el resultado del diagnóstico dado por la comisión de valoración o sin él, la persona con discapacidad debe ser incorporada al sistema educativo, de conformidad con lo previsto en la presente Ley y la Ley de Educación Pública del Estado.
+De acuerdo con el resultado de la valoración y, en su caso, certificación dada por la unidad administrativa competente, la persona con discapacidad deberá ser incorporada al sistema educativo, de conformidad con lo previsto la Ley de Educación Pública del Estado de Puebla y en la presente Ley.
 
 ###### Artículo 37.
 
@@ -757,17 +709,17 @@ VI.- La incorporación a la vida social y a un sistema de trabajo, que permita a
 
 En los casos en que el grado de la discapacidad lo haga necesario, la educación deberá prestarse en centros especiales que funcionarán en coordinación con la Comisión de Educación del Programa para el Bienestar y la Incorporación al Desarrollo de las Personas con Discapacidad.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 40.
 
-El Instituto, en coordinación con la Secretaría de Educación Pública y el Sistema DIF, deberá apoyar el proceso educativo de las y los niños, adolescentes y adultos en plenitud que se encuentren en rehabilitación.
+El Sistema DIF en coordinación con la Secretaría de Educación, deberá apoyar el proceso educativo de las y los niños, adolescentes y adultos en plenitud que se encuentren en rehabilitación.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 41.
 
-El Instituto promoverá programas de becas educativas para personas con discapacidad ante la Institución correspondiente.
+El Sistema DIF promoverá programas de becas educativas para personas con discapacidad ante la Institución correspondiente.
 
 ###### Artículo 42.
 
@@ -779,11 +731,11 @@ El sistema educativo estatal determinará el porcentaje del acervo que cada inst
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 43.
 
-Las personas con discapacidad tienen derecho a un trabajo digno y remunerado, así como a la capacitación, en términos de igualdad de oportunidades y equidad. El Instituto procurará la incorporación de un tres por ciento como mínimo, en los ámbitos laborales correspondientes de aquellas personas con discapacidad en edad de laborar, así mismo, vigilará y recomendará que se garanticen las mismas condiciones y derechos laborales que la Ley Federal del Trabajo contempla sin discriminación alguna.
+Las personas con discapacidad tienen derecho a un trabajo digno y remunerado, así como a la capacitación, en términos de igualdad de oportunidades y equidad. El Sistema DIF promoverá la incorporación de un tres por ciento como mínimo, en los ámbitos laborales correspondientes a personas con discapacidad en edad de laborar, así mismo, vigilará y recomendará que se garanticen las mismas condiciones y derechos laborales que las Leyes en materia del trabajo contempla sin discriminación alguna.
 
 ###### Artículo 44.
 
@@ -805,25 +757,27 @@ VI.- La ubicación y adscripción de acuerdo a la aptitud en el trabajo.
 
 La orientación ocupacional tendrá en consideración las potencialidades reales de la persona con discapacidad, determinadas con base a los informes del Sistema DIF a través del Departamento de Integración Social de la persona con discapacidad, teniendo en cuenta la educación escolar recibida, la capacitación laboral y las perspectivas de empleo existentes en cada caso; así como la atención a sus motivaciones, aptitudes y preferencias ocupacionales.
 
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 46.
 
-La Secretaría del Trabajo y Competitividad de forma conjunta y coordinada con las demás autoridades competentes, establecerá un régimen de certificación relativo a la formación para el trabajo, conforme al cual sea posible a la persona con discapacidad acreditar conocimientos, habilidades o destrezas-intermedias o terminales de manera parcial y acumulativa, independientemente de la manera en que hayan sido adquiridos.
+La Secretaría de Trabajo de forma conjunta y coordinada con el Sistema DIF y con las demás autoridades competentes, establecerá un régimen de certificación relativo a la formación para el trabajo, conforme al cual le sea posible acreditar a la persona con discapacidad los conocimientos, habilidades o destrezas-intermedias o terminales de manera parcial y acumulativa, independientemente de la manera en que hayan sido adquiridos.
 
 ###### Artículo 47.
 
 Los procesos de rehabilitación laboral y la capacitación permanente, serán proporcionados considerando la coordinación entre las áreas de salud, de educación y del trabajo.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 48.
 
-El Instituto propondrá a empresas y patrones, la consideración de un tres por ciento como mínimo de empleos para personas que, por el tipo y grado de su discapacidad puedan ser desempeñadas por éstas, incorporándose a la actividad laboral.
+El Sistema DIF propondrá a las empresas y patrones, la consideración de un tres por ciento como mínimo de empleos para personas que, por el tipo y grado de su discapacidad puedan ser desempeñadas por éstas, incorporándose a la actividad laboral.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 49.
 
-El Instituto, atendiendo a los programas vigentes, apoyará y promoverá a las personas con discapacidad que deseen establecerse como trabajadores independientes.
+El Sistema DIF atendiendo a los programas vigentes, gestionará los apoyos para las personas con discapacidad que deseen establecerse como trabajadores independientes.
 
 ###### Artículo 50.
 
@@ -843,13 +797,11 @@ Los patrones que contraten personas con discapacidad o que en virtud de dichas c
 
 ### CAPÍTULO ÚNICO
 
-> <small>[N. DE E. DEL ANÁLISIS DE LA REFORMA PUBLICADA EN EL P.O. DE 6 DE DICIEMBRE DE 2019, SE ADVIERTE QUE EL PÁRRAFO SEGUNDO DE ÉSTE ARTÍCULO SE INTEGRÓ AL PRIMERO.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 53.
 
-El Instituto, a través de los programas vigentes, fomentará la práctica de la cultura física y deporte general y especial, así como la cultura y recreación de las personas con discapacidad. En este caso, se tomará en cuenta la disminución en su capacidad física, psicológica y de relación social comprendiendo los siguientes aspectos:
+El Sistema DIF en los planes y programas vigentes en favor de las personas con discapacidad se fomentará la práctica de la cultura física y deporte general y especial, así como la cultura y recreación de este sector. En este caso, se tomará en cuenta la disminución en su capacidad física, psicológica y de relación social comprendiendo los siguientes aspectos:
 
 I.- Instrucción;
 
@@ -861,33 +813,33 @@ IV.- Accesos; y
 
 V.- Equipo.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 54.
 
-El Instituto promoverá programas de becas para la participación de la persona con discapacidad en la cultura deportiva nacional e internacional, así como organizar encuentros deportivos en las diversas zonas del Estado, en los que otorgará premios e incentivos a los equipos ganadores en las diversas áreas del deporte.
+El Sistema DIF promoverá programas de becas para la participación de las personas con discapacidad en la cultura deportiva nacional e internacional, así como organizar encuentros deportivos en las diversas zonas del Estado, en los que otorgará premios e incentivos a los equipos ganadores en las diversas áreas del deporte.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 55.
 
-El Instituto fomentará y promoverá el derecho de las personas con discapacidad a la cultura, la recreación, así como el desarrollo de sus capacidades intelectuales y el ejercicio de sus derechos de propiedad intelectual. De igual forma se favorecerá y promoverá incentivos, becas y lo necesario para el cumplimiento de este objetivo.
+El Sistema DIF fomentará, promoverá y garantizará el derecho de las personas con discapacidad a la cultura, la recreación, así como el desarrollo de sus capacidades intelectuales y el ejercicio de sus derechos de propiedad intelectual. De igual forma se favorecerá y promoverá el otorgamiento de incentivos, becas y lo necesario para el cumplimiento de este objetivo.
 
 ###### Artículo 56.
 
 Los administradores u organizadores deberán establecer preferencialmente espacios reservados para personas con discapacidad que no puedan ocupar las butacas o asientos ordinarios en los auditorios, cines, teatros, salas de conciertos y de conferencias, centros recreativos, comerciales, deportivos y en general cualquier recinto en que se presenten espectáculos públicos, de conformidad con los reglamentos respectivos aplicables y el presente ordenamiento.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 57.
 
-El Instituto fomentará el establecimiento de servicios y programas turísticos, que incluyan las facilidades de acceso y descuentos para las personas con discapacidad.
+El Sistema DIF fomentará el establecimiento de servicios y programas turísticos, que incluyan las facilidades de acceso y descuentos para las personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 58.
 
-Se proporcionará a través del Instituto, dentro del Programa de Integración Social de Personas con Discapacidad, el apoyo necesario a los servicios turísticos de mercado, contemplando las necesidades especiales de las personas con discapacidad haciendo las modificaciones pertinentes y necesarias a los paquetes turísticos.
+Se proporcionará a través del Sistema DIF, dentro del Programa de Integración Social de Personas con Discapacidad, el apoyo necesario a los servicios turísticos de mercado, contemplando las necesidades especiales de las personas con discapacidad haciendo las modificaciones pertinentes y necesarias a los paquetes turísticos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -895,11 +847,11 @@ Se proporcionará a través del Instituto, dentro del Programa de Integración S
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 59.
 
-El Instituto promoverá ante las autoridades competentes, la transformación y adaptación de la infraestructura urbana, para garantizar el libre acceso de las personas con discapacidad, por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, a todos los espacios y edificios públicos.
+El Sistema DIF propondrá ante las autoridades correspondientes la adaptación y readaptación de la infraestructura urbana, para garantizar el libre acceso de las personas con discapacidad, por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, a todos los espacios y edificios públicos.
 
 Los que deberán contar con las facilidades de accesibilidad y señalización necesarias, a fin de facilitar el libre tránsito, desplazamiento y uso seguro de estos espacios por las personas con discapacidad.
 
@@ -909,17 +861,17 @@ Los que deberán contar con las facilidades de accesibilidad y señalización ne
 
 Las personas con discapacidad gozarán del derecho de paso en todas las intersecciones y zonas señaladas para este efecto, así como a disfrutar de los servicios públicos y tener acceso y facilidades para poderse desplazar por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, en los espacios laborales, comerciales, oficiales y recreativos, a través de la construcción de accesos arquitectónicos apropiados, estando obligado el personal de seguridad pública y vial a brindarles la protección necesaria, efectuando las señales y realizando las maniobras que procedan según las circunstancias.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 61.
 
-El Instituto propondrá a las autoridades competentes, estrategias permanentes y progresivas para reformar los reglamentos Estatales y Municipales vigentes, de acuerdo a las necesidades de la población con discapacidad, de igual forma impulsara el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminadas a motivar los hábitos de respeto hacia las personas con discapacidad que transiten por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable.
+El Sistema DIF propondrá a las autoridades competentes, estrategias permanentes y progresivas para reformar sus reglamentos de acuerdo a las necesidades de la población con discapacidad, de igual forma impulsaran el diseño e instrumentación permanente de programas y campañas de educación vial y cortesía urbana, encaminadas a motivar los hábitos de respeto hacia las personas con discapacidad que transiten por sí o con ayuda de cualquier forma de asistencia humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte, por la vía pública y en lugares de acceso al público, de conformidad con la legislación aplicable.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 62.
 
-El Instituto impulsará propuestas para modificar la prestación del servicio público de transporte para permitir el acceso de las personas con discapacidad, por sí o con ayuda de prótesis, órtesis u otras ayudas funcionales sea humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte.
+El Sistema DIF impulsará acciones para modificar la prestación del servicio público de transporte para permitir el acceso de las personas con discapacidad, por sí o con ayuda de prótesis, órtesis u otras ayudas funcionales sea humana, animal o cualquier otro medio técnico o electrónico que la ciencia aporte.
 
 > <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
 
@@ -959,25 +911,27 @@ Las oficinas de la Administración Pública Estatal donde se presten servicios a
 
 ## TÍTULO SÉPTIMO. DE LA COMUNICACIÓN E INFORMACIÓN ESTADÍSTICA
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 67.
 
-El Instituto establecerá programas de difusión masiva para impulsar y difundir la cultura de respeto y dignidad hacia las personas con discapacidad, así como la equidad de oportunidades para su inclusión social.
+El Sistema DIF establecerá programas de difusión masiva para impulsar y difundir la cultura de respeto y dignidad hacia las personas con discapacidad, así como la equidad de oportunidades para su inclusión social.
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 68.
 
-Con la finalidad de contar con una base de datos confiable, la Comisión Estatal Coordinadora, promoverá la instrumentación de un Programa Estatal permanente de información sobre la población con discapacidad, concertando la aplicación de la cédula respectiva con instituciones públicas y organizaciones de carácter social.
+El Sistema DIF, con la finalidad de contar con una base de datos, promoverá la instrumentación de un Programa Estatal permanente de información sobre la población con discapacidad, concertando la aplicación de la cédula respectiva con instituciones públicas y organizaciones de carácter social.
 
 ###### Artículo 69.
 
 En las Cartillas Nacionales de Vacunación que se expidan en el Estado de Puebla, deberá consignarse el registro del Índice Apgar, que permita su comprensión aun para personas analfabetas.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 70.
 
-El Instituto promoverá la instalación de servicios de telecomunicaciones y herramientas de tecnologías de la información adaptados para las personas con discapacidad.
+El Sistema DIF promoverá la instalación de servicios de telecomunicaciones y herramientas de tecnologías de la información adaptados para las personas con discapacidad.
 
 ###### Artículo 71.
 
@@ -1164,3 +1118,41 @@ P.O. 9 DE ABRIL DE 2021.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, QUE EL (SIC) QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD Y DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, AMBAS DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se extingue el Instituto de la Discapacidad del Estado de Puebla, como un organismo público descentralizado del Gobierno del Estado creado por la Ley para las Personas con Discapacidad del Estado de Puebla.
+
+TERCERO. El Gobierno del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, a la entrada en vigor del presente Decreto continuará realizando las acciones que se encuentran a cargo del Instituto de la Discapacidad del Estado de Puebla, mediante los mecanismos y programas existentes.
+
+CUARTO. El personal que a la entrada en vigor del presente Decreto se encuentre laborando en el Instituto de la Discapacidad del Estado de Puebla, podrá ser adscrito al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, debiendo la persona designada de conformidad con los Lineamientos para la Extinción de Entidades Paraestatales en la Administración Pública del Gobierno del Estado realizar los trámites que procedan ante las autoridades que correspondan.
+
+QUINTO. Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto pasen del Instituto de la Discapacidad del Estado de Puebla al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, se respetarán en términos de las disposiciones legales aplicables.
+
+SEXTO. Los bienes muebles que a la entrada en vigor del presente Decreto formen parte del patrimonio del Instituto de la Discapacidad del Estado de Puebla o tenga derecho a incorporarlos al mismo, se transmitirán en propiedad al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla para su administración, a través de la Secretaría de Administración.
+
+SÉPTIMO. Los recursos materiales y financieros que formen parte del patrimonio del Instituto de la Discapacidad del Estado de Puebla, y aquéllos que tenga derecho a percibir el mismo, se transferirán al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, a través del Sistema Integral de Administración Financiera, siempre y cuando las disposiciones normativas aplicables no determinen un fin distinto.
+
+OCTAVO. Los servidores públicos del Instituto de la Discapacidad del Estado de Puebla, o en su caso, quienes hayan concluido su empleo, cargo o comisión y que por cualquier motivo hubieren tenido bajo su responsabilidad la captación, recaudación, manejo, administración, control, resguardo, custodia, ejercicio o aplicación de recursos públicos, deberán atender las instrucciones, requerimientos, resoluciones y solicitudes de los órganos de control y fiscalización.
+
+NOVENO. El C. José Gustavo Ávila Sánchez. designado como liquidador por la Comisión Directiva del Instituto de la Discapacidad del Estado de Puebla, para estar en aptitud de llevar a cabo los trámites legales y administrativos finales del Organismo hasta su total conclusión, que resulten con motivo de la publicación de este Decreto, deberá realizarlos dentro de los treinta días hábiles siguientes a su entrada en vigor; una vez concluido este plazo, se entenderá que dicha función ha cesado. Por lo que dentro de dicho plazo el liquidador deberá rendir informes de las acciones realizadas cada quince días a la Secretaría de la Función Pública y al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla; y se coordinará con la Secretaría de la Función Pública y con las demás instancias competentes para llevar a cabo el proceso de entrega-recepción a que haya lugar, asimismo podrá solicitar a la Secretaría de Planeación y Finanzas los recursos necesarios para cubrir los gastos que se requieran para concluir los trabajos de extinción del Organismo, debiendo, en su caso, cuidar que la prestación de los servicios continúe de manera ininterrumpida, en tanto se da cumplimiento al presente Decreto, conforme a lo establecido en los Lineamientos para la Extinción de Entidades Paraestatales en la Administración Pública del Gobierno del Estado y demás legislación legal aplicable.
+
+DÉCIMO. Los juicios, recursos y procedimientos continuarán tramitándose hasta su total conclusión por el Gobierno del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, atendiendo a la naturaleza del asunto de que se trate.
+
+DÉCIMO PRIMERO. Los convenios, contratos y demás asuntos en trámite, distintos a los señalados en los artículos anteriores, en los que sea parte el Instituto de la Discapacidad del Estado de Puebla, continuarán tramitándose hasta su total conclusión por el Gobierno del Estado a través del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, atendiendo a su objeto o naturaleza.
+
+DÉCIMO SEGUNDO. El archivo físico y electrónico del Instituto de la Discapacidad del Estado de Puebla será transferido al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, para su custodia, conservación y administración en los términos que establece la Ley de Archivos del Estado de Puebla.
+
+DÉCIMO TERCERO. La persona designada para recibir y llevar a cabo los trámites legales y administrativos del Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, derivado del proceso de entrega recepción al que hace referencia el ARTÍCULO TRANSITORIO NOVENO, contará con un plazo de treinta días naturales, a partir de la firma de las actas correspondientes, para formular las observaciones que correspondan, conforme al procedimiento que establecen los Lineamientos para la Extinción de Entidades Paraestatales en la Administración Pública del Gobierno del Estado y demás legislación legal aplicable.
+
+DÉCIMO CUARTO. Todo instrumento legal, jurídico y administrativo y norma en sentido formal o material, que, a la entrada en vigor del presente, se refiera al Instituto de la Discapacidad del Estado de Puebla, se entenderá atribuido al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, en los términos a que se refiere el presente ordenamiento.
+
+DÉCIMO QUINTO. Una vez concluidos los trámites administrativos relacionados con la extinción del Instituto, la Secretaría de la Función Pública realizará los procedimientos administrativos necesarios para proceder a la cancelación de la inscripción del Instituto en el Registro de Entidades Paraestatales .
+
+DÉCIMO SEXTO. El Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, realizará las adecuaciones correspondientes a su Reglamento y demás normatividad estatal correspondiente, dentro del plazo de 180 días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+DÉCIMO SÉPTIMO. Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
