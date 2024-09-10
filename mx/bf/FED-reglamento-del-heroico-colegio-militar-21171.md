@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-heroico-colegio-militar-21171"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2011-08-01"
+last_updated: "2024-09-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21171&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-05-15"
 
 REGLAMENTO DEL HEROICO COLEGIO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación el miércoles 16 de mayo de 2001.
 
@@ -43,11 +43,11 @@ Se expide el Reglamento del Heroico Colegio Militar para quedar como sigue:
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 1o.
 
-El Heroico Colegio Militar es una Institución de Educación Militar que tiene como misión formar subtenientes de las Armas e Intendentes para desempeñarse como comandantes de las unidades de las armas hasta nivel Sección y ayudantes de Pelotón de Intendencia respectivamente, en las corporaciones y dependencias del Ejército y Fuerza Aérea Mexicanos, para lo cual impartirá educación de Tipo Superior Nivel Licenciatura y Medio Superior.
+El Heroico Colegio Militar es una institución de educación militar de tipo superior nivel licenciatura y de capacitación para el trabajo, con la misión de formar al personal militar con el grado de Subteniente de Arma y de Servicios de Policía Militar y de Intendencia, con la finalidad de que obtengan sólidos valores y conocimientos teóricos y prácticos para desempeñarse con liderazgo en el ejercicio del Mando de las unidades a nivel sección en corporaciones del Ejército Mexicano, que permita satisfacer las necesidades de la Secretaría de la Defensa Nacional en el cumplimiento de sus misiones.
 
 ###### ARTÍCULO 2o.
 
@@ -71,31 +71,43 @@ d. Blindada, y
 
 e. Ingenieros (Zapadores).
 
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-B. Intendentes.
+B. Servicios:
 
-II. Proporcionar formación militar en los aspectos disciplinarios, intelectuales y físicos, que capaciten al personal en instrucción para ejercer el mando y administración de las pequeñas unidades hasta el nivel Sección, Pelotón de Intendencia o servicio de alimentación y en las actividades de contabilidad, glosa y estadística de las corporaciones y dependencias militares, de conformidad con el Plan General de Educación Militar;
+a. Intendencia, y
 
-III. Preparar al personal en instrucción para desempeñarse como eficiente instructor y guía del personal a sus órdenes;
+b. Policía Militar;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+II. Proporcionar formación militar en los aspectos disciplinarios, intelectuales y físicos, que capaciten al personal discente para ejercer el mando y administración de las pequeñas unidades hasta el nivel Sección, Pelotón de Intendencia o servicio de alimentación y en las actividades de contabilidad, glosa y estadística de las corporaciones y dependencias militares, de conformidad con el Plan General de Educación Militar;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+III. Preparar al personal discente para desempeñarse como eficiente instructor y guía del personal a sus órdenes;
 
 IV. Crear en el futuro oficial, el más profundo sentimiento de lealtad, honor, disciplina, patriotismo, honradez y demás virtudes militares;
 
-V. Desarrollar en el personal en instrucción una formación moral sólida, para lograr la afirmación de los valores nacionales y los tradicionales del Ejército y Fuerza Aérea, y
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Capacitar al personal en instrucción para resistir las fatigas que impone el cumplimiento de sus misiones.
+V. Desarrollar en el personal discente una formación moral sólida, para lograr la afirmación de los valores nacionales y los tradicionales del Ejército y Fuerza Aérea, y
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Capacitar al personal discente para resistir las fatigas que impone el cumplimiento de sus misiones.
 
 ###### ARTÍCULO 4o.
 
 Para cumplir con los objetivos del plantel, se imparten los cursos siguientes:
 
-> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-I. De formación de Oficiales de las Armas e Intendentes, y
+I. De formación de Oficiales de las Armas y Servicios de Policía Militar e Intendencia, y
 
-> <small>(REFORMADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-II. Intensivo de Formación de Oficiales de las Armas.
+II. Intensivo de Formación de Oficiales de las Armas y Servicio de Policía Militar.
 
 ## TÍTULO SEGUNDO. Organización
 
@@ -105,47 +117,75 @@ II. Intensivo de Formación de Oficiales de las Armas.
 
 El Heroico Colegio Militar está constituido de conformidad con su planilla orgánica, quedando sujeta su integración a la disponibilidad de recursos presupuestales.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 6o.
 
-Para su funcionamiento, el Heroico Colegio Militar se integra con los órganos siguientes:
+El Heroico Colegio Militar, para su funcionamiento, se integra con los órganos siguientes:
 
 I. Dirección:
 
-A. Director;
+A. La persona titular de la Dirección;
 
-B. Asesoría Jurídica;
+B. Sección de Contabilidad;
 
-C. Secretaría Particular, y
+C. Asesoría Jurídica;
 
-D. Ayudantía.
+D. Oficina de Calidad, y
+
+E. Sección de Inteligencia y Contrainteligencia;
 
 II. Subdirección:
 
-A. Subdirector;
+A. Subdirección Administrativa;
 
-B. Secretaría Particular, y
-
-C. Ayudantía.
+B. Subdirección Académica;
 
 III. Cuerpo de Cadetes:
 
-A. Comandancia del Cuerpo de Cadetes:
+A. Comandancia del Cuerpo de Cadetes;
+
+B. Grupo de Comando:
+
+a. Jefatura;
+
+b. Sección de Instrucción, Información y Operaciones, y
+
+c. Sección de Personal, Abastecimientos y Ayudantía;
+
+C. Tres Batallones de Cadetes:
 
 a. Mando, y
 
-b. Grupo de Comando.
+b. Cuatro Compañías de Cadetes por cada batallón;
 
-B. Batallones o Regimientos del Cuerpo de Cadetes:
+D. Batallón de Cadetes de Policía Militar:
+
+a. Mando, y
+
+b. Cuatro Compañías de Discentes de Policía Militar;
+
+E. Agrupamiento de Personal de Discentes Femenino:
 
 a. Mando;
 
-b. Grupo de Comando, y
+b. Tres Compañías de Discentes, y
 
-c. Compañías, Escuadrones y Baterías.
+c. Compañía de Discentes de Policía Militar;
 
-C. Banda de Música, y
+F. Regimiento de Discentes:
 
-D. Personal de Tropa.
+a. Mando;
+
+b. Escuadrón de Caballería “Ignacio Allende”;
+
+c. Escuadrón Blindado “José María Morelos y Pavón”;
+
+d. Batería de Artillería “Felipe Ángeles”;
+
+e. Compañía de Ingenieros de Combate “Teniente Juan de la Barrera”, y
+
+f. Compañía de Intendencia de Cadetes;
 
 IV. Sección Pedagógica:
 
@@ -155,101 +195,77 @@ B. Subsección de Planes y Programas;
 
 C. Subsección de Estadística y Evaluación;
 
-D. Subsección de Evaluación Psicopedagógica;
+D. Subsección de Investigación y Doctrina Militar;
 
-E. Subsección de Difusión Cultural y Relaciones Públicas, y
+E. Subsección Psicopedagógica;
 
-F. Subsección de Doctrina Militar.
+F. Subsección de Relaciones Públicas y de Difusión Cultural, y
 
-V. Sección Académica:
+G. Subsección del Curso Básico de Formación Militar;
 
-A. Jefatura;
-
-B. Subsección de Control Docente;
-
-C. Subsección del Arma de Infantería;
-
-D. Subsección del Arma de Caballería;
-
-E. Subsección del Arma de Artillería;
-
-F. Subsección del Arma Blindada;
-
-G. Subsección del Arma de Ingenieros;
-
-H. (DEROGADO, D.O.F. 1 DE AGOSTO DE 2011)
-
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
-
-I. Subsección de Intendentes;
-
-J. Subsección de Materias Comunes;
-
-K. Subsección de Materias de Cultura General, y
-
-L. Subsección de Educación Física y Deportes.
-
-VI. Sección de Apoyos Didácticos:
+V. Sección de Apoyos Didácticos:
 
 A. Jefatura;
 
-B. Subsección de Laboratorio y Circuito Cerrado de Televisión;
+B. Subsección de Tecnologías de la Información;
 
-C. Subsección de Apoyos Gráficos, Topográficos y Especiales;
+C. Subsección de Informática;
 
-D. Subsección de Biblioteca y Mapoteca, Videoteca e Internet, y
+D. Subsección de Biblioteca y Mapoteca, y
 
-E. Subsección de Taller Autográfico y Fotocopiado.
+E. Subsección de Equipamiento e Infraestructura Didáctica;
 
-VII. Sección Ecuestre:
+VI. Sección Ecuestre:
 
 A. Jefatura;
 
-B. Subsección de Adiestramiento de Disciplinas Ecuestres;
+B. Subsección Administrativa;
 
-C. Subsección de Servicios Generales, y
+C. Subsección Técnica;
 
-D. Subsección de Veterinaria y Remonta.
+D. Subsección de Servicios Generales;
 
-VIII. Ayudantía General:
+E. Subsección de Veterinaria y Remonta, y
 
-A. Ayudante General;
+F. Subsección de Coordinación con la Unidad de Manejo para la Conservación de la Vida Silvestre;
+
+VII. Ayudantía General:
+
+A. La persona titular de la Ayudantía General;
 
 B. Subayudantía;
 
-C. Servicios Técnicos:
+C. Compañía de Intendencia;
 
-a. Intendencia;
+D. Compañía de Transportes;
 
-b. Materiales de Guerra;
+E. Compañía de Materiales de Guerra;
 
-c. Sanidad;
+F. Compañía de Transmisiones;
 
-d. Transmisiones, y
+G. Residencia de Ingenieros;
 
-e. Transportes.
+H. Compañía de Servicios Generales, y
 
-D. Servicios Generales;
+I. Banda de Música, y
 
-E. Policía Militar, y
-
-F. Residencia de Ingenieros.
-
-IX. Sección Administrativa:
+VIII. Sección Administrativa:
 
 A. Jefatura;
 
-B. Subsección de Recursos Humanos;
+B. Subjefatura;
 
-C. Subsección de Recursos Materiales;
+C. Grupo Enlace;
 
-D. Subsección de Presupuesto y Contabilidad;
+D. Subsección de Archivo;
 
-E. Subsección de Reclutamiento y Seguridad Social, y
+E. Subsección de Presupuesto y Contabilidad;
 
-F. Subsección de Informática, Archivo y correspondencia.
+F. Subsección Recursos Humanos;
 
-X. Unidad Ejecutora de Pago
+G. Subsección de Trámite, y
+
+H. Subsección de Recursos Materiales.
 
 ###### ARTÍCULO 7o.
 
@@ -283,7 +299,11 @@ VII. Convocar al Consejo de Honor;
 
 VIII. Convocar a la Junta Técnica-Consultiva;
 
-IX. Conferir los cargos que desempeñe el personal académico, docente, del cuerpo de cadetes, administrativo y de la planta; excepto aquellos que sean designados por el Alto Mando;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Conferir los cargos que desempeñe el personal académico, docente, del Cuerpo de Cadetes, administrativo y de la planta, excepto aquellos cargos que sean designados por el Alto Mando del Ejército y Fuerza Aérea Mexicanos;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 X. Otorgar los nombramientos y distinciones que sean necesarios para cubrir los cuadros en las unidades de cadetes; así como expedir los nombramientos correspondientes;
 
@@ -303,15 +323,21 @@ XVII. Las que le sean asignadas por el Secretario de la Defensa Nacional.
 
 ### CAPÍTULO II. De la Subdirección
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 10.
 
-La subdirección del Heroico Colegio Militar es un órgano de dirección del mismo y está a cargo de un General procedente de Arma, Diplomado de Estado Mayor, egresado del propio plantel, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Subdirector.
+La Subdirección es un órgano de dirección del Heroico Colegio Militar, la cual está integrada por las subdirecciones Administrativa y Académica, y estas están a cargo de una persona con el grado de General de Arma, De Estado Mayor, egresada de este plantel y nombrada por el Alto Mando del Ejército y Fuerza Aérea Mexicanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 11.
 
-El Subdirector del Heroico Colegio Militar, tiene las mismas atribuciones y responsabilidades correspondientes a un Segundo Comandante de Cuerpo de Tropa, de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
+La Subdirección Administrativa del Heroico Colegio Militar tiene, además de las atribuciones y responsabilidades correspondientes a una Segunda Comandancia de Cuerpo de Tropa de conformidad con las leyes y reglamentos militares, las siguientes:
 
-I. Suplir las ausencias temporales del Director del plantel en el ejercicio de sus funciones;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+I. Suplir las ausencias en el ejercicio de sus funciones de la persona titular de la Dirección;
 
 II. Desempeñarse como Jefe de Estudios del plantel, por lo tanto es el principal supervisor de todas las actividades relacionadas con el proceso enseñanza-aprendizaje;
 
@@ -319,7 +345,9 @@ III. Presidir la Junta Técnica-Consultiva;
 
 IV. Coordinar y supervisar las actividades de los diversos órganos subordinados;
 
-V. Designar a los coordinadores de área y de materia, así como a los profesores titulares y adjuntos, con base a su experiencia docente o por ganar concurso de oposición;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+V. Designar a las personas titulares de las jefaturas de área con base en su experiencia;
 
 VI. Coordinar y supervisar toda clase de eventos culturales y militares;
 
@@ -327,9 +355,13 @@ VII. Someter a la consideración del Director del plantel, los proyectos de plan
 
 VIII. Coordinar y supervisar la actualización permanente del Manual de Organización y Funcionamiento del plantel, recomendando al Director los cambios necesarios;
 
-IX. Coordinar y consolidar los informes de los diferentes órganos que integran el plantel, para presentarlos al Director;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-X. Coordinar y supervisar la correcta y oportuna elaboración de la documentación de fin de cursos para presentarla al Director del plantel;
+IX. Coordinar y consolidar los informes de los diferentes órganos que integran el plantel para presentarlos a la persona titular de la Dirección;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+X. Coordinar y supervisar la correcta y oportuna elaboración de la documentación administrativa de fin de cursos para presentarla a la Dirección del plantel;
 
 XI. Convocar y presidir juntas de coordinación con el personal docente del plantel;
 
@@ -343,61 +375,141 @@ XV. Coordinar y supervisar el desarrollo oportuno de las actividades de graduaci
 
 XVI. Presentar al Director del plantel el anteproyecto de presupuesto del mismo;
 
-XVII. Coordinar y supervisar las ceremonias en que participe el plantel;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XVIII. Proponer al Director que se convoque a la Junta Técnica-Consultiva, y
+XVII. Coordinar y supervisar las ceremonias en que participe el personal del plantel;
 
-XIX. Las que le sean asignadas por el Secretario de la Defensa Nacional.
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Proponer a la Dirección que se convoque a la Junta Técnica-Consultiva, y
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XIX. Las que le sean asignadas por la persona titular de la Secretaría de la Defensa Nacional.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 11 Bis.
+
+La Subdirección Académica del Heroico Colegio Militar tiene las atribuciones siguientes:
+
+I. Fungir como titular de la Jefatura de Estudios del plantel, así como supervisar las actividades relacionadas con el proceso enseñanza-aprendizaje;
+
+II. Suplir las ausencias de la persona titular de la Subdirección Administrativa;
+
+III. Designar al personal docente titular y adjunto, con base en su experiencia o por ganar el concurso de oposición;
+
+IV. Someter a consideración de la persona titular de la Dirección del plantel, los proyectos de planes y programas de estudio de su competencia;
+
+V. Supervisar la elaboración de la documentación académica de fin de cursos para presentarla a la Dirección del plantel;
+
+VI. Convocar y presidir juntas de coordinación con el personal docente del plantel;
+
+VII. Supervisar la elaboración y aplicación del calendario escolar del plantel, en coordinación con la Subdirección Administrativa;
+
+VIII. Coordinar y supervisar los programas de visitas de estudio a instituciones civiles y militares;
+
+IX. Proponer a la persona titular de la Dirección que se convoque a la Junta Técnica-Consultiva;
+
+X. Realizar toda clase de eventos culturales y militares;
+
+XI. Coordinar y supervisar la elaboración de los diferentes programas de adiestramiento de su competencia;
+
+XII. Coadyuvar con la Subdirección Administrativa en el desarrollo oportuno de las actividades de graduación;
+
+XIII. Presentar a la Dirección del plantel el anteproyecto de presupuesto del mismo, y
+
+XIV. Las demás que le asigne la persona titular de la Secretaría de la Defensa Nacional.
 
 ### CAPÍTULO III. De la Comandancia del Cuerpo de Cadetes
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 12.
 
-La Comandancia del Cuerpo de Cadetes del Heroico Colegio Militar está a cargo de un General Brigadier procedente de Arma o un Coronel de Arma, egresado del propio plantel, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Comandante del Cuerpo de Cadetes.
+La Comandancia del Cuerpo de Cadetes del Heroico Colegio Militar está a cargo de una persona con el grado de General Brigadier o Coronel, de Arma, De Estado Mayor, egresada de este plantel, y nombrada por el Alto Mando del Ejército y Fuerza Aérea Mexicanos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
-El Comandante del Cuerpo de Cadetes del Heroico Colegio Militar tiene las atribuciones y responsabilidades siguientes:
+La persona titular de la Comandancia del Cuerpo de Cadetes del Heroico Colegio Militar tiene las facultades y responsabilidades siguientes:
 
-I. Ejercer el mando del Cuerpo de Cadetes del plantel;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-II. Representar en las ausencias temporales al Subdirector del plantel;
+I. Ejercer el Mando del Cuerpo de Cadetes;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+II. Suplir las ausencias de la persona titular de la Subdirección Académica;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 III. Exigir permanentemente la observancia estricta de la disciplina en el Cuerpo de Cadetes;
 
-IV. Contribuir en la educación integral de los cadetes en los aspectos moral y cívico, inculcando y fomentándoles los valores de patriotismo, lealtad, honor, deber y espíritu de cuerpo;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Contribuir en la educación integral del personal de Cadetes en los aspectos moral y cívico, así como inculcar y fomentar en dicho personal los valores de patriotismo, lealtad, honor, deber y espíritu de cuerpo;
 
 V. Planear, coordinar y supervisar la instrucción militar en sus diferentes fases, con base en las directivas que sobre el particular reciba de la superioridad;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 VI. Exigir permanentemente la buena presentación personal del Cuerpo de Cadetes;
 
 VII. Proponer al Director del plantel la reunión del Consejo de Honor cuando sea necesario;
 
-VIII. Controlar operativa y disciplinariamente al personal integrante de la banda de música, así como al personal de tropa encuadrado en el propio cuerpo de cadetes;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-IX. Supervisar que el personal en instrucción que se encuentra en el cuadro de desaplicados, cumpla con el programa de estudios controlados;
+VIII. Controlar operativa y disciplinariamente al personal encuadrado en el Cuerpo de Cadetes;
 
-X. Proponer al Director del plantel, al personal nacional en instrucción que por su don de mando, aprovechamiento y disciplina se haga merecedor a recibir alguna distinción o grado, así como elaborar los documentos correspondientes para la firma del Director del plantel;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Supervisar el pago de la Percepción Recreativa Estudiantil (PRE) y su entrega oportuna al personal de cadetes;
+IX. Supervisar que el personal discente con calificación reprobatoria se sujete al programa remedial correspondiente, para que cumpla con los parámetros requeridos para aprobar sus asignaturas;
 
-XII. Supervisar y dirigir las prácticas de tiro y ejercicios sobre el terreno del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Es responsable de que el personal perteneciente al Cuerpo de Cadetes permanentemente se encuentre en óptimas condiciones físicas para el cumplimiento de sus obligaciones;
+X. Proponer a la persona titular de la Dirección del plantel, el personal discente nacional que por su don de mando, aprovechamiento y disciplina sea merecedor de recibir alguna distinción o grado, así como elaborar los documentos correspondientes para la firma de la persona titular de la Dirección del plantel;
 
-XIV. Controlar estadísticamente los correctivos disciplinarios impuestos al personal en instrucción;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Supervisar el pago de la Pensión Recreativa Estudiantil y su entrega oportuna al personal de Cadetes;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Supervisar y dirigir las prácticas de tiro y ejercicios sobre el terreno del personal de Discentes;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Verificar que el personal perteneciente al Cuerpo de Cadetes se encuentre permanentemente en óptimas condiciones físicas para el cumplimiento de sus obligaciones, sobre todo en aquel personal con problemas de salud, por lo que puede adoptar medidas coordinadas con el personal del servicio médico del plantel para lograr su pronta recuperación e incorporación al servicio;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Controlar estadísticamente los aspectos siguientes:
+
+A. Correctivos disciplinarios impuestos al personal Discente, y
+
+B. Faltas en las materias de orden cerrado y educación física;
 
 XV. Elaborar los diversos informes de su competencia que sean ordenados por el Director del plantel;
 
-XVI. Capacitar y supervisar al personal de jefes y oficiales de alumnos respecto a las funciones y responsabilidades que desarrollan en el Cuerpo de Cadetes;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Capacitar y supervisar al personal de Jefes y Oficiales de alumnos respecto a las funciones y responsabilidades que desarrollan en el Cuerpo de Cadetes;
 
 XVII. Supervisar el cumplimiento de las actividades establecidas en la distribución de tiempo aprobada por el Director del plantel;
 
-XVIII. Supervisar y controlar el desempeño de los servicios de armas, económicos y especiales que realiza el personal perteneciente al Cuerpo de Cadetes;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Supervisar y controlar el desempeño de los servicios de armas y económicos que realiza el personal perteneciente al Cuerpo de Cadetes;
 
 XIX. Participar en la elaboración del plan de defensa y los demás que sean necesarios, para la seguridad del personal e instalaciones del plantel;
 
-XX. En coordinación con la Sección Pedagógica, planear y supervisar las actividades de carácter social y cultural en las que participe el personal perteneciente al Cuerpo de Cadetes;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Planear y supervisar, en coordinación con la Sección Pedagógica, las actividades de carácter social y cultural en las que participe el personal perteneciente al Cuerpo de Cadetes;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 XXI. Coordinar las actividades del Cuerpo de Cadetes con las de los demás órganos del plantel, y
 
@@ -405,19 +517,27 @@ XXII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPÍTULO IV. De la Sección Pedagógica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 14.
 
-La Sección Pedagógica es el órgano de planeación y evaluación educativa del Heroico Colegio Militar, a cargo de un Coronel o Teniente Coronel de Arma, Diplomado de Estado Mayor o Pedagogo, a quien se denomina Jefe de la Sección Pedagógica, mismo que además, debe reunir cualquiera de los requisitos siguientes:
+La Sección Pedagógica es el órgano encargado de la planeación, ejecución y evaluación educativa del Heroico Colegio Militar, la cual está a cargo de una persona con el grado de Coronel o Teniente Coronel de Arma, De Estado Mayor, con estudios en pedagogía o afines a la educación y, además debe reunir cualquiera de los requisitos siguientes:
 
 I. Tener experiencia docente, o
 
-II. Tener experiencia académica.
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+II. Tener experiencia académica en el Sistema Educativo Militar.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
-La Sección Pedagógica del Heroico Colegio Militar tiene las atribuciones y responsabilidades siguientes:
+La Sección Pedagógica tiene las atribuciones y responsabilidades siguientes:
 
-I. Organizar al personal en instrucción en grupos pedagógicos para la impartición de las clases, de conformidad con las directivas que reciba del Director del plantel;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+I. Organizar al personal discente en grupos pedagógicos para la impartición de las clases, de conformidad con las directivas que reciba de la persona titular de la Dirección del plantel;
 
 II. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
@@ -435,23 +555,37 @@ VIII. Coordinar, controlar y supervisar la recepción, proceso y divulgación de
 
 IX. Controlar el archivo pedagógico;
 
-X. Controlar las estadísticas de aprobados y reprobados del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+X. Controlar las estadísticas de aprobados y reprobados del personal discente;
 
 XI. Analizar y proponer a la Junta Técnica-Consultiva la adquisición de la bibliografía, acorde con el avance militar, científico y tecnológico;
 
-XII. Controlar el registro y cómputo de faltas académicas del personal en instrucción;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Dar a conocer periódicamente el cómputo de las faltas académicas al personal en instrucción;
+XII. Controlar el registro y cómputo de faltas académicas del personal discente;
 
-XIV. En coordinación con el Cuerpo de Cadetes, planear y supervisar la realización de eventos culturales y sociales en los que participe el personal en instrucción, dentro y fuera del plantel;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XV. Elaborar la documentación que se requiera con motivo del término de cada ciclo lectivo;
+XIII. Dar a conocer periódicamente el cómputo de las faltas académicas al personal discente;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Planear y supervisar, en coordinación con el Cuerpo de Cadetes, la realización de eventos culturales y sociales en los que participe el personal discente, dentro y fuera del plantel;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Elaborar la documentación académica que se requiera con motivo del término de cada ciclo lectivo;
 
 XVI. Formular los informes pedagógicos que ordene el Director del plantel;
 
-XVII. Supervisar el seguimiento psicológico que se realice al personal del plantel;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XVIII. Elaborar el programa general de prácticas y visitas de estudio a instalaciones civiles y militares y presentarlo al Director del plantel;
+XVII. Supervisar el seguimiento psicopedagógico que se realiza al personal discente y evaluaciones psicológicas al personal de la planta y docente del plantel;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Elaborar y supervisar el programa complementario de prácticas y visitas de estudio a instalaciones civiles y militares y presentarlo a la persona titular de la Dirección del plantel;
 
 XIX. Coordinar sus actividades con los demás órganos del plantel;
 
@@ -469,7 +603,9 @@ XXV. Participar en la elaboración de perfiles de ingreso y egreso del personal 
 
 XXVI. Elaborar y difundir la doctrina militar a través de los medios a su alcance, proponiendo los que considere convenientes;
 
-XXVII. Proponer innovaciones educativas, culturales y doctrinarias, tendientes a lograr una mayor profesionalización en los miembros del plantel;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XXVII. Proponer innovaciones educativas, culturales y doctrinarias, tendientes a lograr una mayor profesionalización en el personal del plantel;
 
 XXVIII. Proponer programas y actividades de investigación científica y tecnológica;
 
@@ -479,9 +615,11 @@ XXX. Las que le sean asignadas por el Director del plantel.
 
 ### CAPÍTULO V. De la Sección Académica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 16.
 
-La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio del Heroico Colegio Militar, a cargo de un Coronel o Teniente Coronel de Arma, Diplomado de Estado Mayor o Pedagogo, a quien se denomina Jefe de la Sección Académica, mismo que además, debe reunir cualquiera de los requisitos siguientes:
+La Sección Académica es el órgano de ejecución y materialización de los planes y programas de estudio del Heroico Colegio Militar, la cual está a cargo de una persona con el grado de Coronel de Arma, De Estado Mayor y, además debe reunir cualquiera de los requisitos siguientes:
 
 I. Tener experiencia académica, o
 
@@ -493,15 +631,25 @@ La Sección Académica del Heroico Colegio Militar tiene las atribuciones y resp
 
 I. Coordinar y supervisar la aplicación y desarrollo de los planes y programas de estudio, así como proponer las modificaciones que sean necesarias;
 
-II. Seleccionar y proponer al personal docente titular y adjunto, así como a los jefes de área y coordinadores de materia;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-III. Coordinar y controlar al personal docente del plantel;
+II. Seleccionar y proponer, a la persona titular de la subdirección correspondiente, el personal docente titular y adjunto, así como a las personas titulares de las jefaturas de área para la ejecución de las actividades definidas en los planes y programas de estudio del plantel;
 
-IV. Coordinar y supervisar el desempeño de las actividades académicas del personal docente y en instrucción;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-V. Aplicar la distribución de tiempo mensual de las materias pedagógicas programadas;
+III. Coordinar, controlar y realizar el proceso de contratación del personal docente civil y militar en situación de retiro del plantel;
 
-VI. Supervisar que cada titular de la materia imparta su asignatura correspondiente y en caso de ausencia, sea suplido por su adjunto;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Coordinar y supervisar el desempeño de las actividades académicas del personal docente y discente;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+V. Aplicar la distribución de tiempo mensual de las asignaturas pedagógicas programadas;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Supervisar que cada persona docente titular de asignatura imparta las cátedras correspondientes y, en caso de ausencia, sea suplida por su adjunta;
 
 VII. Coordinar y supervisar el empleo apropiado de los auxiliares didácticos;
 
@@ -517,9 +665,13 @@ XII. Formular los informes académicos y presentarlos al Director del plantel;
 
 XIII. Informar el estado del avance programático de los diferentes cursos que se imparten en el plantel;
 
-XIV. Coordinar sus actividades con los demás órganos del plantel;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-XV. Proponer a la Junta Técnica-Consultiva al personal docente que se haga acreedor a recibir alguna recompensa de acuerdo con su actuación;
+XIV. Coordinar sus actividades con los demás órganos del plantel, para la ejecución de los planes y programas de estudio, cursos especiales y otras actividades que se programen;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Proponer a la Junta Técnica-Consultiva el personal docente que sea acreedor de recibir alguna recompensa de acuerdo con su desempeño académico;
 
 XVI. De conformidad con los planes y programas de estudio, aplicar las evaluaciones correspondientes, así como aquellas ordenadas por el Director del plantel, y
 
@@ -527,23 +679,35 @@ XVII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPÍTULO VI. De la Sección de Apoyos Didácticos
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 18.
 
-La Sección de Apoyos Didácticos es el órgano encargado de proveer y administrar el material didáctico necesario y asesorar sobre su empleo para la materialización del proceso educativo en el heroico Colegio Militar, a cargo de un Teniente Coronel o Mayor, egresado del propio plantel, a quien se denomina Jefe de la Sección de Apoyos Didácticos.
+La Sección de Apoyos Didácticos es el órgano encargado de proveer y administrar el material didáctico necesario y asesorar sobre su empleo para la materialización del proceso educativo en el Heroico Colegio Militar, la cual está a cargo de una persona con el grado de Mayor de Arma.
 
 ###### ARTÍCULO 19.
 
 La Sección de Apoyos Didácticos del Heroico Colegio Militar tiene las atribuciones y responsabilidades siguientes:
 
-I. Proporcionar los recursos de apoyo didáctico disponible así como el asesoramiento sobre el empleo de los recursos materiales para el desarrollo de prácticas y trabajos en apoyo del proceso enseñanza-aprendizaje;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-II. Controlar y coordinar las formas de empleo, la aplicación y el mantenimiento de los recursos de apoyo didáctico de cargo en la sección;
+I. Proporcionar los recursos de apoyo didáctico disponible, así como el asesoramiento sobre el empleo de los recursos tecnológicos, informáticos y materiales para el desarrollo de prácticas y trabajos en apoyo del proceso enseñanza-aprendizaje;
 
-III. Analizar, elaborar y recomendar la adquisición de nuevos recursos de apoyo didáctico, para satisfacer las necesidades académicas del plantel;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Difundir entre los órganos del plantel, la información sobre los recursos materiales de apoyo didáctico con que cuenta la sección y sus potencialidades;
+II. Controlar y coordinar las formas de empleo, la aplicación y el mantenimiento de los recursos a cargo de esta sección;
 
-V. Formular los informes respecto al material didáctico que ordene el Director del plantel;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+III. Analizar, elaborar y recomendar la adquisición de nuevos recursos de apoyo didáctico, tecnológico e informático para satisfacer las necesidades del plantel;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Difundir entre los órganos del plantel, la información sobre los recursos materiales de apoyo didáctico, tecnológico e informático con que cuenta la sección y sus potencialidades;
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+V. Formular los informes respecto al material didáctico, tecnológico e informático que ordene la Dirección del plantel;
 
 VI. Coordinar sus actividades con los demás órganos del plantel, y
 
@@ -551,9 +715,11 @@ VII. Las que le sean asignadas por el Director del plantel.
 
 ### CAPÍTULO VII.. De la Sección Ecuestre
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 20.
 
-La Sección Ecuestre es el órgano encargado de elaborar y aplicar los planes y programas de adiestramiento de las actividades ecuestres y de las materias de Mariscalía, Hipología e Hipiátrica en el Heroico Colegio Militar, a cargo de un Coronel o Teniente Coronel del Arma de Caballería, egresado del propio plantel, a quien se denomina Jefe de la Sección Ecuestre, mismo que además debe tener experiencia en las actividades ecuestres, tales como: concurso completo de equitación, salto y otras.
+La Sección Ecuestre es el órgano encargado de elaborar y aplicar los planes y programas de adiestramiento de las actividades ecuestres y de las asignaturas de adiestramiento ecuestre en el Heroico Colegio Militar, la cual está a cargo de una persona con el grado de Coronel de Arma de Caballería, De Estado Mayor, egresada de este plantel y, además debe tener la experiencia en las actividades ecuestres de concurso completo de equitación, salto y otras.
 
 ###### ARTÍCULO 21.
 
@@ -561,7 +727,9 @@ La Sección Ecuestre del Heroico Colegio Militar tiene las atribuciones y respon
 
 I. Elaborar, aplicar y supervisar los planes de adiestramiento de las actividades ecuestres;
 
-II. Supervisar la aplicación de las materias de Mariscalía, Hipología e Hipiátrica;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+II. Supervisar la aplicación de las asignaturas de Mariscalía, Hipología e Hipiátrica;
 
 III. Controlar el adiestramiento y disciplina del personal a su mando;
 
@@ -571,25 +739,69 @@ V. Controlar el mantenimiento y conservación de los bienes muebles e inmuebles 
 
 VI. Formular los informes que ordene el Director del plantel;
 
-VII. Coordinar sus actividades con los demás órganos del plantel, y
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Las que le sean asignadas por el Director del plantel.
+VII. Coordinar sus actividades con los demás órganos del plantel;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Participar, a través del equipo ecuestre representativo del Heroico Colegio Militar, en los concursos de adiestramiento, salto y concurso completo de equitación, programados por la Federación Ecuestre Mexicana;
+
+> <small>(ADICIONADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Participar en los concursos de adiestramiento, de salto y completo de equitación, programados por la Federación Ecuestre Mexicana, mediante el equipo ecuestre representativo del plantel, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+X. Las demás que le asigne la Dirección del plantel.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 21 Bis.
+
+La Subsección de Veterinaria y Remonta del Heroico Colegio Militar, es el órgano encargado del cuidado, la salud, alimentación y medicina preventiva de los semovientes a cargo del plantel, la cual está a cargo de una persona con el grado de Coronel del Servicio de Veterinaria y Remonta, quien es designado por el Alto Mando que además debe tener experiencia en materias de salud de los caballos.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 21 Ter.
+
+La Subsección de Veterinaria y Remonta del Heroico Colegio Militar tiene las atribuciones y responsabilidades siguientes:
+
+I. Supervisar la aplicación de las materias de Hipiátrica e Hipología;
+
+II. Controlar el adiestramiento y disciplina del personal a su mando;
+
+III. Ser responsable del adiestramiento, de la salud y de la alimentación del ganado a su cargo;
+
+IV. Controlar el mantenimiento y conservación de los bienes muebles e inmuebles de cargo en la Subsección de Veterinaria y Remonta del Heroico Colegio Militar;
+
+V. Formular los informes que ordene la Dirección del plantel y los concernientes a las revistas realizadas de manera periódica sobre los semovientes;
+
+VI. Coordinar sus actividades con los demás órganos del plantel, y
+
+VII. Las demás que le asigne la Dirección del plantel.
 
 ### CAPÍTULO VIII. De la Ayudantía General
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 22.
 
-La Ayudantía General del Heroico Colegio Militar es el órgano encargado de satisfacer las necesidades de vida interna del plantel, a cargo de un Coronel o Teniente Coronel de Arma, egresado del propio plantel, a quien se denomina Ayudante General.
+La Ayudantía General es el órgano encargado de satisfacer las necesidades de vida interna del Heroico Colegio Militar, la cual está a cargo de una persona con el grado de Coronel o Teniente Coronel de Arma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 23.
 
-El Ayudante General del Heroico Colegio Militar tiene las atribuciones y responsabilidades siguientes:
+La persona titular de la Ayudantía General tiene las facultades y responsabilidades siguientes:
 
 I. Las correspondientes a las de un Ayudante General y a las de un Jefe de Instrucción en un Cuerpo de Tropa, respecto al personal de la planta del plantel;
 
 II. Vigilar el cumplimiento de las diferentes órdenes que emita la superioridad, con respecto al servicio, al régimen interior y mantenimiento de las instalaciones del plantel;
 
-III. Controlar las actividades que realice el personal de la planta del establecimiento y de Policía Militar;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+III. Controlar las actividades que realice el personal de la planta del Heroico Colegio Militar;
 
 IV. Elaborar, aplicar y supervisar los programas de adiestramiento del personal perteneciente a la planta del establecimiento;
 
@@ -613,13 +825,17 @@ XIII. Las que determine el Director del plantel.
 
 ### CAPÍTULO IX. De la Sección Administrativa
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 24.
 
-La Sección Administrativa del Heroico Colegio Militar es un órgano de apoyo administrativo del plantel, a cargo de un Teniente Coronel o Mayor oficinista, a quien se denomina Jefe de la Sección Administrativa.
+La Sección Administrativa es el órgano de apoyo administrativo del Heroico Colegio Militar, la cual está a cargo de una persona con el grado de Teniente Coronel Oficinista.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-El Jefe de la Sección Administrativa del Heroico Colegio Militar tiene las atribuciones y responsabilidades siguientes:
+La Sección Administrativa del Heroico Colegio Militar tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar la documentación que se genera con motivo de los movimientos del personal perteneciente al plantel y mantener completo y actualizados los expedientes del mismo;
 
@@ -635,7 +851,9 @@ VI. Elaborar el proyecto de presupuesto anual del plantel;
 
 VII. Formular y mantener al día los estados de vacantes, papeletas de raciones y relación de desertores;
 
-VIII. Elaborar las listas de revista de inspección administrativa mensual y la documentación complementaria;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Elaborar e integrar el legajo de la revista administrativa mensual y la documentación complementaria;
 
 IX. Elaborar y tramitar las hojas de actuación, actas de consejo de honor, certificados de conducta y memorial de servicios del personal del plantel;
 
@@ -645,29 +863,51 @@ XI. Coordinar sus actividades con los demás órganos del plantel, y
 
 XII. Las que le sean asignadas por el Director del plantel.
 
-### CAPÍTULO X. De la Unidad Ejecutora de Pago
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO X. De la Compañía de Intendencia
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 26.
 
-La Unidad Ejecutora de Pago del Heroico Colegio Militar está a cargo de un jefe u oficial Pagador, a quien se denomina Jefe de la Unidad Ejecutora de Pago, nombrado por el Alto Mando del Ejército y Fuerza Aérea.
+La Compañía de Intendencia es el órgano encargado del servicio de alimentación del personal discente y de la planta del Heroico Colegio Militar, el cual está a cargo de una persona con el grado de Coronel del Servicio de Intendencia De Estado Mayor.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 27.
 
-El Jefe de la Unidad Ejecutora de Pago del Heroico Colegio Militar tiene la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal del plantel, de conformidad con las disposiciones legales aplicables y directivas que emita la superioridad.
+La Comandancia de la Compañía de Intendencia del Heroico Colegio Militar tiene las atribuciones y responsabilidades siguientes:
+
+I. Responsable de la recepción, almacenamiento y distribución de vestuario y equipo del personal discente y de la planta del Heroico Colegio Militar;
+
+II. Coordinar la preparación y distribución de los tres tercios, así como raciones secas de la totalidad del personal discente y de la planta del Heroico Colegio Militar;
+
+III. Recepción, almacenamiento y distribución de abastecimientos y víveres para atención del personal de este plantel, y
+
+IV. Las que le sean asignadas por la persona titular de la Dirección del plantel.
 
 ### CAPÍTULO XI. De la Junta Técnica-Consultiva
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 28.
 
-La Junta Técnica-Consultiva del Heroico Colegio Militar es el órgano colegiado que tiene por finalidad asesorar en materia pedagógica y académica al Director del Plantel y se integra con:
+La Junta Técnica-Consultiva es el órgano colegiado que tiene por finalidad asesorar a la persona titular de la Dirección del plantel en materia pedagógica, académica, y cuando una persona discente se ubique en alguna causal que amerite la baja del Heroico Colegio Militar.
 
-I. Presidente:
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-Subdirector del plantel.
+La Junta Técnica-Consultiva se integra con:
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+I. Presidencia, a cargo de la persona titular de la Subdirección Administrativa del plantel;
 
 II. Vocales:
 
-A. Comandante del Cuerpo de Cadetes;
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+A. La persona titular de la Comandancia del Cuerpo de Cadetes;
 
 B. Jefe de la Sección Pedagógica;
 
@@ -681,9 +921,11 @@ III. El secretario es el vocal de menor jerarquía y antigüedad.
 
 En casos especiales, la Junta Técnica-Consultiva puede recurrir a otras fuentes de asesoramiento.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 30.
 
-Los integrantes de la Junta Técnica-Consultiva señalados en la fracción II, incisos A, B, C, y D del artículo 28, de este Reglamento son suplidos en sus ausencias por el Segundo Comandante del Cuerpo de Cadetes y un jefe de subsección de la sección correspondiente.
+Las personas integrantes de la Junta Técnica-Consultiva señaladas en la fracción II del artículo 28 de este reglamento debe ser suplidas en sus ausencias por las personas titulares de la Segunda Comandancia del Cuerpo de Cadetes y de la Jefatura de Subsección de la Sección que corresponda.
 
 ###### ARTÍCULO 31.
 
@@ -691,7 +933,9 @@ Las funciones de la Junta Técnica-Consultiva son:
 
 I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
 
-II. Revisar y analizar los proyectos de planes y programas de estudio para ser sometidos a la consideración del Director;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+II. Revisar y analizar los proyectos de planes y programas de estudio, cursos y otras actividades académicas o culturales para ser sometidos a la consideración de la persona titular de la Dirección;
 
 III. Revisar los manuales, compendios y otro material bibliográfico, en apoyo de la enseñanza para los efectos correspondientes;
 
@@ -699,9 +943,17 @@ IV. Evaluar la actuación del personal académico, docente y en instrucción, pa
 
 V. Analizar los resultados de la evaluación pedagógica para mejorar el nivel enseñanza-aprendizaje en el plantel;
 
-VI. Analizar las propuestas de normas y disposiciones orientadas a la mejor organización y funcionamiento académico y pedagógico del establecimiento, y
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Las que en materia pedagógica y académica le asigne el Director del plantel.
+VI. Analizar las propuestas de normas y disposiciones orientadas a la mejor organización y funcionamiento académico y pedagógico del plantel;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Elaborar el acta correspondiente cuando una persona discente se ubique en alguna causa de baja del plantel y del servicio activo del Ejército y Fuerza Aérea Mexicana, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Las demás que, en materia pedagógica, académica, disciplinarias, médicas y físicas le asigne la Dirección.
 
 ## TÍTULO CUARTO. Del Personal
 
@@ -721,13 +973,19 @@ II. Académico:
 
 A. Jefes de las secciones Pedagógica, Académica y Ecuestre, y
 
-B. Jefes de subsección de las secciones Pedagógica, Académica y Jefe de la Subsección de Adiestramiento de las disciplinas ecuestres.
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+B. Las personas titulares de las jefaturas de las subsecciones de las secciones Pedagógica, Académica, y Ecuestre;
 
 III. Docente:
 
-A. Profesores, y
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-B. Instructores.
+A. Civil y militar en situación de retiro, y
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+B. Militar;
 
 IV. Del Cuerpo de Cadetes:
 
@@ -735,9 +993,11 @@ A. Comandante;
 
 B. Jefes y oficiales del Cuerpo;
 
-C. Personal en instrucción, y
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-D. Banda de Música.
+C. Personal Discente, y
+
+D. (DEROGADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)
 
 V. Personal Administrativo:
 
@@ -747,51 +1007,71 @@ B. Jefe de la Sección Administrativa;
 
 C. Jefe de la Sección de Apoyos Didácticos, y
 
-D. Jefe de la Unidad Ejecutora de Pago.
+D. (DEROGADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)
 
-VI. De la planta, está constituido por el personal perteneciente a los servicios técnicos, administrativos, generales y de Policía Militar y aquel otro personal no incluido en la clasificación anterior.
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+VI. De la planta, el cual está constituido por el personal perteneciente a los servicios técnicos, administrativos, generales y demás personal no incluido en las fracciones anteriores.
 
 ###### ARTÍCULO 33.
 
 El personal directivo y académico del Heroico Colegio Militar tiene las atribuciones y responsabilidades que establecen las leyes y reglamentos militares para los de su jerarquía, las prescritas en el presente Reglamento y disposiciones o directivas aplicables que emita el Secretario de la Defensa Nacional.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 34.
 
-Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y disposiciones que emita el Director del plantel, este personal puede ser profesor e instructor.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, y tiene las facultades y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las señaladas en el presente reglamento y las disposiciones que emita la persona titular de la Dirección del plantel.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 35.
 
-Son profesores los militares o civiles que tienen a su cargo, con carácter de titular o de adjunto, labores permanentes de enseñanza o transmisión de conocimiento, previa acreditación del título profesional que avale el dominio de la o las asignaturas por impartir y en el caso de los civiles celebrar el contrato respectivo con la Secretaría de la Defensa Nacional.
+Son personas docentes los militares o civiles que tienen a su cargo, con carácter de titular o de adjunta, labores permanentes de enseñanza o transmisión de conocimiento, previa acreditación del título profesional que avale el dominio de las asignaturas por impartir. El personal docente civil debe celebrar el contrato respectivo con la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 36.
 
-Son instructores los militares o civiles a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza y que acrediten previamente ante la Sección Académica el conocimiento de la materia que vayan a impartir.
+El personal docente militar o civil que deba impartir conocimientos sobre asignaturas que requieren habilidad, pericia o destreza, debe acreditar su conocimiento ante la Sección Académica.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 37.
 
-Los profesores o instructores honorarios son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
+El personal docente honorario es el que imparte conocimientos o prácticas sin percibir remuneración, por lo que se le debe extender un nombramiento como estímulo a sus actividades.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 38.
 
-El Comandante del Cuerpo de Cadetes, Grupo de Comando y oficiales del Cuerpo tienen las atribuciones y responsabilidades que establecen las leyes y reglamentos militares para su jerarquía y cargo, las prescritas en el presente Reglamento y disposiciones aplicables que emita la superioridad.
+La persona titular de la Comandancia del Cuerpo de Cadetes, la persona titular del Grupo de Comando y el personal con el grado de Oficiales del Cuerpo de Cadetes tienen las facultades y responsabilidades que establecen las leyes y reglamentos militares para su jerarquía y cargo, las señaladas en el presente reglamento y demás disposiciones aplicables que emita la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 39.
 
-El personal en instrucción es el que realiza sus estudios en el plantel y se integra con personal de origen militar o civil nacional y con personal extranjero de origen civil o militar y su situación será en calidad de interno.
+El personal discente es el que realiza sus estudios en el plantel y se integra con personal de origen militar o civil nacional y con personal extranjero de origen civil o militar y su situación es en calidad de interno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 40.
 
-Los militares y civiles de nacionalidad extranjera que ingresen al plantel, lo harán en calidad de becarios y quedarán sujetos a las disposiciones establecidas para el personal de cadetes, asimismo se regirán durante su estancia por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y el presente Reglamento en las partes aplicables.
+Las personas militares y civiles de nacionalidad extranjera que ingresen al Heroico Colegio Militar tienen la calidad de becarias, quedan sujetas a las disposiciones establecidas para el personal discente. Durante su estancia se rigen por lo establecido en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y el presente reglamento.
 
 No estarán sujetos al fuero de guerra que comprende faltas y delitos contra la disciplina militar, regulándose su situación disciplinaria, en cada caso, como lo determine la Secretaría de la Defensa Nacional.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 41.
 
-El personal de origen militar y el civil nacional, recibe la denominación de cadetes y el personal militar que al causar alta para estudiar en el plantel conserve su grado, se denomina clase en instrucción.
+El personal militar que cause alta como discente en el Heroico Colegio Militar conserva su grado, y se le denomina clase en instrucción.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 42.
 
-El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables que emita la superioridad, tiene las atribuciones y responsabilidades siguientes:
+El personal discente además de lo establecido en la legislación militar y disposiciones aplicables que emita la superioridad, tiene las atribuciones y responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que le señale la distribución de tiempo respectiva;
 
@@ -803,13 +1083,17 @@ IV. Desempeñar servicios y comisiones inherentes a su jerarquía, y
 
 V. Conocer y observar el contenido del presente Reglamento en las partes correspondientes.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 43.
 
-El personal en instrucción que cada año ingrese al plantel integrará una antigüedad, siendo designada con el año de inicio y término del curso.
+El personal discente que cada año ingrese al plantel integra una antigüedad, la cual se designa con el año de inicio y término del curso.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 44.
 
-El personal en instrucción del Heroico Colegio Militar deberá tener presente que en todos los actos del servicio y en sus actividades en la vida civil y familiar, se distinguirá por su lealtad a las instituciones, por el exacto cumplimiento de la palabra empeñada, por el estudio y superación permanente, por el valor, la disciplina, el buen comportamiento y la discreción, a lo que pondrá toda su atención, voluntad y esfuerzo.
+El personal discente del Heroico Colegio Militar debe tener presente que en todos los actos del servicio y en sus actividades en la vida civil y familiar, se debe distinguir por su lealtad a las instituciones, por el exacto cumplimiento de la palabra empeñada, por el estudio y superación permanente, por el valor, la disciplina, el buen comportamiento y la discreción, a lo que debe poner toda su atención, voluntad y esfuerzo.
 
 ###### ARTÍCULO 45.
 
@@ -819,17 +1103,21 @@ El personal administrativo y de la planta tiene las atribuciones y responsabilid
 
 ### CAPÍTULO I. De la Admisión
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 46.
 
-El ingreso al Heroico Colegio Militar será únicamente al primer año de estudios y por riguroso concurso de selección.
+El ingreso al Heroico Colegio Militar es únicamente al primer año de estudios, por concurso de selección a nivel nacional y a través del sistema de admisión regionalizado de la Secretaría de la Defensa Nacional.
 
 ###### ARTÍCULO 47.
 
 Es facultad del Alto Mando autorizar el ingreso al plantel a personal extranjero a solicitud del gobierno de su país ante el de México a través de la Secretaría de la Defensa Nacional, para efectuar los estudios y obtener la acreditación correspondiente, durante su estancia, quedará sujeto al presente Reglamento y a la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos en las partes aplicables.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 48.
 
-Los concursantes que habiendo satisfecho los requisitos de admisión y obtengan en sus exámenes las calificaciones más altas para cubrir las plazas autorizadas, causarán alta como cadetes o clases en instrucción, debiendo firmar el contrato o compromiso respectivamente como lo establece el artículo 150 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
+Las personas concursantes que hayan cumplido los requisitos de admisión y obtengan en sus evaluaciones las calificaciones más altas para cubrir las plazas autorizadas, así como las personas admitidas mediante el sistema de admisión regionalizado deben causar alta en el Heroico Colegio Militar como cadetes o clases en instrucción y firmar el contrato de enganche o compromiso a que se refiere el artículo 150 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
 
 ###### ARTÍCULO 49.
 
@@ -837,9 +1125,11 @@ Las actividades de admisión al plantel se realizarán con base en la convocator
 
 ### CAPÍTULO II. Del Proceso Enseñanza-Aprendizaje
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 50.
 
-La formación del personal en instrucción del plantel, se realiza mediante el proceso enseñanza-aprendizaje en sus tres fases: planeación, ejecución y evaluación.
+La formación del personal discente del plantel, se realiza mediante el proceso enseñanza-aprendizaje en sus tres fases: planeación, ejecución y evaluación.
 
 ###### ARTÍCULO 51.
 
@@ -853,29 +1143,37 @@ La planeación didáctica es el conjunto de acciones que permiten establecer la 
 
 La ejecución de la enseñanza tiene por objeto desarrollar el contenido de los planes y programas de estudio a través de la interacción del personal docente y en instrucción.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 54.
 
-La evaluación académica, tiene por objeto verificar el nivel de aprovechamiento del personal en instrucción en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y de los planes y programas de estudio.
+La evaluación académica, tiene por objeto verificar el nivel de aprovechamiento del personal discente en el proceso enseñanza-aprendizaje, así como la eficiencia del personal docente y de los planes y programas de estudio del Heroico Colegio Militar.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 55.
 
-Los docentes evalúan al personal en instrucción en las formas siguientes:
+Los docentes evalúan al personal discente en las formas siguientes:
 
-I. Apreciación de los conocimientos y aptitudes adquiridos, mediante la participación en clases y desempeño en los ejercicios y trabajos prácticos del personal en instrucción, y
+I. Apreciación de los conocimientos y aptitudes adquiridos, mediante la participación en clases y desempeño en los ejercicios y trabajos prácticos del personal discente, y
 
-II. Aplicación de los diversos exámenes.
+II. Aplicación de las diversas evaluaciones.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 56.
 
-Los exámenes que se aplican en el Heroico Colegio Militar son los siguientes:
+Las evaluaciones que se aplican en el Heroico Colegio Militar son las siguientes:
 
-I. Parciales, aquellos que se aplican al personal en instrucción para comprobar el grado de aprovechamiento en una o varias partes del programa de cualquier asignatura, durante el semestre correspondiente;
+I. Parciales, aquellas que se aplican al personal discente para comprobar el grado de aprovechamiento en una o varias partes del programa de cualquier asignatura, durante el semestre correspondiente;
 
-II. Final ordinario, aquellos que se aplica a todo el personal en instrucción al término de cada materia, del semestre o ciclo lectivo y cubre la totalidad del programa de la asignatura durante el semestre o ciclo escolar;
+II. Final ordinaria, las que se aplican al personal discente al término de cada asignatura, del semestre o ciclo lectivo, y cubren la totalidad del programa de la asignatura durante el semestre o ciclo escolar;
 
-III. Extraordinario, aquellos que se aplica al personal en instrucción, cuya calificación final de la asignatura sea menor de seis puntos, calculado de acuerdo a lo establecido en el artículo 61, de este Reglamento, y
+III. Extraordinaria, las que se aplican al personal discente, cuya calificación final de la asignatura sea menor de seis puntos, calculado de acuerdo a lo establecido en el artículo 61, de este reglamento;
 
-IV. Especiales, aquellos que se aplican al personal que estuvo en instrucción y causó baja sin terminar sus estudios, bajo las condiciones que establece el presente Reglamento.
+IV. Especiales, las que se aplican al personal discente que cause baja sin terminar sus estudios, bajo las condiciones que establece el presente reglamento, y
+
+V. Profesional, la que presenta la persona egresada ante un jurado calificador para constatar que cuenta con las competencias requeridas para obtener el título de licenciatura correspondiente a los estudios realizados en el Heroico Colegio Militar.
 
 ###### ARTÍCULO 57.
 
@@ -897,25 +1195,33 @@ Para calificar todos los exámenes excepto el profesional, se utiliza la escala 
 
 La calificación obtenida en un examen extraordinario o especial, se asentará en el registro de calificaciones con la anotación: “Obtenida en Examen Extraordinario o en Examen Especial”, excluyendo estadísticamente al alumno para obtener algún premio académico.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 60.
 
-El personal en instrucción que utilice medios no lícitos para resolver un examen será suspendido del mismo y calificado con cero.
+El personal discente que utilice medios fraudulentos para resolver una evaluación debe suspenderse su aplicación y ser calificada con cero.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 61.
 
-La calificación final de cada asignatura se integrará de la manera siguiente:
+La calificación final de cada asignatura se debe integrar de la manera siguiente:
 
 I. El promedio de las evaluaciones parciales, constituirán el 60% de la calificación, y
 
-II. El resultado del examen final ordinario constituirá el 40% de la calificación.
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+II. El resultado de la evaluación final ordinaria constituye el 40% de la calificación.
 
 ## TÍTULO SEXTO. De las Faltas, Bajas y Reingresos
 
 ### CAPÍTULO I. De las Faltas de Asistencia Académica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 62.
 
-Son faltas de asistencia académica las ausencias del personal en instrucción a cualquier actividad académica, teórica o práctica, las faltas de asistencia pueden ser:
+Son faltas de asistencia académica las ausencias del personal discente a cualquier actividad académica, teórica o práctica; las cuales son las siguientes:
 
 I. Justificadas, cuando se deban a comisiones del servicio, motivos de salud, razones de carácter legal y las que a juicio del Director del plantel correspondiente se consideren como tales, y
 
@@ -931,115 +1237,139 @@ II. Las faltas justificadas a clases motivadas por actos del servicio, no serán
 
 ### CAPÍTULO II. De las Bajas y Reingresos
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 64.
 
-Son causales de baja del plantel para el personal en instrucción las siguientes:
+El personal discente causa baja del Heroico Colegio Militar por:
 
-I. Haber terminado satisfactoriamente sus estudios;
+I. Reprobar el 40% o más del total de las evaluaciones parciales en un mismo periodo de evaluación;
 
-II. Reprobar el 40% o más del total de exámenes parciales en un mismo periodo de evaluación;
+II. Reprobar el 40% o más del total de las evaluaciones finales ordinarias en un semestre;
 
-III. Reprobar el 40% o más del total de exámenes finales ordinarios en un semestre;
+III. Reprobar una o más evaluaciones extraordinarias;
 
-IV. Reprobar uno o más exámenes extraordinarios;
+IV. Acumular en un semestre el 10% o más de faltas injustificadas en una sola asignatura o el 15% o más en el conjunto de ellas;
 
-V. Acumular en un semestre el 10% o más de faltas injustificadas en una sola asignatura o el 15% o más en el conjunto de ellas;
+V. Acumular en un semestre el 30% o más de faltas justificadas en una sola asignatura o en el conjunto de ellas;
 
-VI. Acumular en un semestre, el 30% o más de faltas justificadas en una sola asignatura o en el conjunto de ellas;
+VI. Existir irregularidades en la documentación presentada al ingresar al plantel;
 
-VII. Encontrarse en alguna de las causales de baja establecidas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos;
+VII. Para el personal becario extranjero, faltar injustificadamente a sus labores académicas durante tres días consecutivos;
 
-VIII. Acumular 500 puntos de demérito durante el ciclo lectivo, previa determinación de mala conducta dictada por el Consejo de Honor;
+VIII. Reprobar tres evaluaciones parciales de una misma asignatura en un semestre, y
 
-IX. Inutilidad, de acuerdo con las tablas anexas de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+IX. Acumular 500 puntos de demérito en el año lectivo, previa determinación de mala conducta dictada por el Consejo de Honor, y
 
-X. Infringir cualquiera de las cláusulas establecidas en el compromiso filiación;
+X. Incurrir en las conductas previstas en las fracciones I; II; V Bis, inciso b; VI; VIII; IX; X; XI; XII; XIII; XIV; XV; XVI; XVII; XVIII; XIX; XX; XXI; XXII; XXIII y XXIV, del artículo 140 del Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
 
-XI. Existir irregularidades en la documentación presentada al ingresar al plantel;
-
-XII. Para el personal becario extranjero, faltar injustificadamente a sus labores académicas durante tres días consecutivos;
-
-XIII. Solicitud del interesado, que sea aceptada por la superioridad;
-
-XIV. Adquirir otra nacionalidad;
-
-XV. Reprobar tres exámenes parciales de una misma asignatura en un semestre, y
-
-XVI. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 65.
 
-Al personal en instrucción que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente y por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales, contados a partir de la fecha en que sea notificado, a efecto de que manifieste lo que a sus intereses convenga sobre el particular.
+Al personal discente que por cualquier motivo vaya a ser dado de baja del plantel, se le debe comunicar previamente por escrito esta circunstancia, así como los motivos y fundamentos jurídicos de dicha baja. Asimismo, se le debe conceder un término de 15 días naturales, contado a partir de la fecha en que sea notificado, a efecto de que manifieste ante la Dirección del plantel lo que a sus intereses convenga.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 66.
 
-El personal en instrucción que cause baja del plantel quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
+El personal discente que cause baja del plantel queda a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 67.
 
-El personal de cadetes de primer año y clases en instrucción que causen baja, no podrán reingresar al plantel.
+El personal de Cadetes de primer año y clases en instrucción que causen baja, no pueden reingresar al Heroico Colegio Militar.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 68.
 
-Para efectos del presente Reglamento se considera como reingreso el acto mediante el cual el personal en instrucción que habiendo causado baja del Heroico Colegio Militar antes de terminar sus estudios es admitido nuevamente para continuarlos.
+Para efectos del presente reglamento se considera reingreso, el acto mediante el cual el personal discente que causó baja del Heroico Colegio Militar antes de terminar sus estudios es admitido nuevamente para continuarlos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 69.
 
-Podrá reingresar al plantel por una sola vez bajo las condiciones que establece el presente reglamento, el personal en instrucción que haya causado baja del Heroico Colegio Militar por los motivos siguientes:
+El personal discente que causó baja del Heroico Colegio Militar puede reingresar al plantel, por una sola vez y bajo las condiciones que establece el presente reglamento, por los motivos siguientes:
 
 I. Académicos excepto por faltas injustificadas;
 
 II. De salud, o
 
-III. Haberse encontrado sujeto a proceso en el fuero de guerra, en el orden común o federal y haya resultado absuelto.
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+III. Haber estado vinculado a un proceso penal, ya sea en el fuero militar, o del orden común o federal, y haya resultado absuelto.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 70.
 
-El personal en instrucción que cause baja por los motivos citados en el artículo anterior, del segundo año en adelante, será puesto a disposición de la Secretaría de la Defensa Nacional para que sea destinado a prestar sus servicios donde ésta lo determine, como clase de arma o servicio y por el tiempo necesario para regresar al siguiente periodo de exámenes extraordinarios del semestre que cursaba para que presente el examen especial.
+El personal discente que cause baja por los motivos citados en el artículo anterior, del segundo año en adelante, debe ser puesto a disposición de la Secretaría de la Defensa Nacional para que sea destinado a prestar sus servicios donde esta lo determine, como Clase de Arma o Servicio y por el tiempo necesario para regresar al siguiente periodo de evaluaciones extraordinarias del semestre que cursaba para que presente la evaluación especial.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 71.
 
-El personal en instrucción que se sitúe en lo establecido en el artículo 64, fracciones III o IV, del presente Reglamento podrá reingresar por una sola vez al inicio del siguiente semestre correspondiente, siempre y cuando apruebe las asignaturas que originaron su baja temporal del plantel a través del examen especial respectivo.
+El personal discente que se sitúe en lo establecido en el artículo 64, fracciones II o III, del presente reglamento puede reingresar por una sola vez al inicio del siguiente semestre, siempre y cuando apruebe las asignaturas que originaron su baja temporal del plantel por medio de la evaluación especial respectiva.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 72.
 
-El personal en instrucción que se sitúe en lo establecido en el artículo 64, fracciones II o VI, del presente Reglamento podrá reingresar por una sola vez al inicio del semestre que cursaba, en el siguiente ciclo lectivo.
+El personal discente que se sitúe en lo establecido en el artículo 64, fracciones I o V, del presente reglamento puede reingresar por una sola vez al inicio del semestre que cursaba, en el siguiente ciclo lectivo.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 73.
 
-El personal en instrucción que haya causado baja del plantel por motivos de salud, o por haberse encontrado sujeto a proceso o en el fuero de guerra, en el orden común o federal y haya resultado absuelto, podrá reingresar al plantel por una sola vez, al inicio del semestre que cursaba, en el siguiente ciclo lectivo.
+El personal discente que causó baja del plantel por motivos de salud o por haberse encontrado sujeto a un proceso penal y haya resultado absuelto puede reingresar por una sola vez, al inicio del semestre.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 74.
 
-El personal de cadetes y clases en instrucción que repruebe un examen especial no podrá reingresar al plantel, quedando a juicio de la Secretaría de la Defensa Nacional para continuar empleando sus servicios o prescindir de los mismos.
+El personal discente que repruebe una evaluación especial no puede reingresar al Heroico Colegio Militar.
 
 ## TÍTULO SÉPTIMO. De los Reconocimientos Académicos, Premios y Recompensas
 
-> <small>(REFORMADA SU DENOMINACION [N. DE E. ADICIONADA], D.O.F. 16 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-### CAPÍTULO ÚNICO. De los Títulos, Certificados y Patentes
+### CAPÍTULO ÚNICO. Del Proceso de Titulacion
 
-> <small>(REFORMADO, D.O.F. 16 DE AGOSTO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 75.
 
-El personal en instrucción del Heroico Colegio Militar que termine satisfactoriamente sus estudios recibirá:
+La persona discente del Heroico Colegio Militar que termine satisfactoriamente sus estudios debe recibir:
+
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2004)</small>
 
 I. Personal nacional:
 
 A. Certificado de Estudios;
 
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-B. Título de Licenciado, conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar;
+B. Título de licenciatura y cédula profesional, conforme a los planes y programas de estudio reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar;
 
-> <small>(REFORMADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-C. Grado de Subteniente de Infantería, Caballería, Artillería, Arma Blindada, Zapadores o Intendente, según corresponda;
+C. Grado de Subteniente de Infantería, de Caballería, de Artillería, del Arma Blindada, de Ingenieros Zapadores, Intendente o de Policía Militar, según corresponda;
 
-D. Patente, y
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-E. Gafete distintivo del curso.
+D. Patente;
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+E. Gafete distintivo del curso, y
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+F. Placa de la licenciatura;
+
+> <small>(REFORMADA, D.O.F. 16 DE AGOSTO DE 2004)</small>
 
 II. Personal de nacionalidad extranjera:
 
@@ -1049,31 +1379,83 @@ A. Certificado de Estudios;
 
 B. Título de Licenciado, conforme a los planes y programas reconocidos ante la Secretaría de Educación Pública y contenidos en el Plan General de Educación Militar;
 
-C. Diploma, y
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-D. Gafete distintivo del curso.
+C. Diploma;
 
-> <small>(ADICIONADA, D.O.F. 1 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-III. Para el Curso Intensivo de Formación de Oficiales de las Armas se otorga Certificado de Estudios, grado de Subteniente, Patente y Gafete distintivo.
+D. Gafete distintivo del curso, y
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+E. Placa de la licenciatura, y
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+III. Para el Curso Intensivo de Formación de Oficiales de las Armas y Servicio de Policía Militar se otorga certificado de estudios, grado de Subteniente, patente y gafete distintivo.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 75 Bis.
+
+El personal discente de los cursos regulares, para terminar satisfactoriamente sus estudios en el Heroico Colegio Militar, debe aprobar su evaluación profesional consistente en la elaboración de una tesis.
+
+La calificación de la evaluación profesional puede ser:
+
+I. Aprobada por aclamación;
+
+II. Aprobada por unanimidad;
+
+III. Aprobada por mayoría, o
+
+IV. Reprobada.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 75 Ter.
+
+La persona discente sustentante de una evaluación profesional que por su calidad merezca a juicio del jurado la calificación de aprobado por aclamación, se le puede conceder "Mención Honorífica". Esta calificación debe anotarse en el acta respectiva y se le debe otorgar si se cumple lo siguiente:
+
+I. Elaborar una tesis con calidad académica y originalidad;
+
+II. No haber presentado evaluaciones extraordinarias durante el curso, y
+
+III. Tener un promedio general mínimo de nueve puntos durante el curso.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 76.
 
-Al personal en instrucción que no concluya satisfactoriamente sus estudios se le expedirá certificado parcial de estudios a solicitud del interesado, previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+La persona discente que no concluya satisfactoriamente sus estudios se le debe expedir certificado parcial de estudios a solicitud de la persona interesada, previa aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+
+> <small>(ADICIONADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 76 Bis.
+
+Cuando una persona discente concluya sus estudios en cumplimiento a una suspensión provisional o definitiva otorgada por la autoridad jurisdiccional competente, debe colocarse la anotación respectiva en cada uno de los documentos que se le expidan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 77.
 
-Los incentivos que se otorgan al personal en instrucción por el aprovechamiento en sus estudios son los siguientes:
+Los incentivos que se otorgan al personal discente por el aprovechamiento en sus estudios son los siguientes:
 
-I. Figurar en el cuadro de honor en el mes siguiente en que haya obtenido en los exámenes, un promedio mínimo de 8.5 (Ocho punto cinco) puntos;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+I. Estar en el cuadro de honor en el mes siguiente en que haya obtenido en las evaluaciones un promedio mínimo de 9.0 puntos;
 
 II. Disfrutar de las franquicias extraordinarias que fije el Director del plantel;
 
 III. Recibir citación en la orden particular del plantel;
 
-IV. Premio y diploma al personal en instrucción que termine satisfactoriamente sus estudios y obtenga los promedios más altos durante su estancia en el plantel, y
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
-V. Exento de presentar examen final ordinario al personal en instrucción que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado los exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno exento la opción de presentar o no dicha evaluación como un intento para incrementar su promedio general.
+IV. Premio y diploma al personal discente que termine satisfactoriamente sus estudios y obtenga los promedios más altos durante su estancia en el plantel, y
+
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+V. Exento de presentar la evaluación final ordinaria al personal discente que obtenga un promedio mínimo de 9.0 puntos en una asignatura, después de haber sustentado las evaluaciones parciales correspondientes. En este caso, la calificación que debe asentarse es la obtenida en dicho promedio, y queda a elección de la persona discente exenta la opción de presentar o no dicha evaluación como un intento para incrementar su promedio general.
 
 ###### ARTÍCULO 78.
 
@@ -1083,75 +1465,101 @@ V. Exento de presentar examen final ordinario al personal en instrucción que ob
 
 ### CAPÍTULO I. De la Disciplina
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 79.
 
-Los arrestos que se impongan al personal en instrucción, serán graduados por el Director del plantel.
+La conducta del personal discente está sujeta a las leyes y reglamentos militares, a lo previsto en el presente reglamento, así como a la guía de comportamiento y código de ética del plantel, y demás disposiciones que emita la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 80.
 
-El Director del Heroico Colegio Militar podrá graduar los arrestos que se impongan al personal en instrucción hasta por 300 puntos de demérito en el interior del plantel.
+La persona titular de la Dirección puede graduar los arrestos que se impongan al personal discente hasta por 300 puntos de demérito en el interior del plantel.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 81.
 
-El personal en instrucción cumplirá su arresto los sábados y domingos de franquicia y los días inhábiles del año lectivo que determine el Director del plantel.
+El personal de cadetes debe cumplir su arresto los sábados y domingos de franquicia y los días inhábiles del año lectivo que determine la persona titular de la Dirección del plantel.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 82.
 
-La graduación de arrestos impuestos al personal en instrucción se contabilizará con puntos de demérito, los que sirven de base para el control y registro de su conducta.
+La graduación de arrestos impuestos al personal de cadetes se contabiliza con puntos de demérito, los que sirven de base para el control y registro de su conducta.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 83.
 
-Los arrestos impuestos al personal en instrucción se computarán con 20 puntos de demérito por cada veinticuatro horas.
+Los arrestos impuestos al personal de cadetes se computan con 20 puntos de demérito por cada veinticuatro horas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 84.
 
-El personal en instrucción cumplirá su arresto en las semanas laborables de la manera siguiente:
+El personal discente debe cumplir su arresto en las semanas laborables de la manera siguiente:
 
 I. A partir de la hora de franquicia del sábado hasta las 08:00 horas del domingo, 20 puntos de demérito;
 
-II. De las 0800 (sic) horas del domingo hasta la hora que termine la franquicia, 20 puntos de demérito;
+> <small>(REFORMADA, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+II. De las 08:00 horas del domingo hasta la hora que termine la franquicia, 20 puntos de demérito;
 
 III. Sin disfrutar la franquicia del sábado y domingo, 40 puntos de demérito, y
 
 IV. Los arrestos graduados con más de 80 puntos de demérito, se cumplirán alternando dos fines de semana continuos de reclusión, por uno de franquicia.
 
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 85.
 
-El personal en instrucción cumplirá el arresto conforme al cómputo establecido, en días inhábiles correspondientes a semanas no laborables.
+El personal discente debe cumplir el arresto conforme al cómputo establecido, en días inhábiles correspondientes a semanas no laborables.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 86.
 
-La acumulación de 200 (doscientos) puntos de demérito durante el ciclo lectivo implica la destitución para los cadetes de primera.
+La acumulación de 200 puntos de demérito durante el ciclo lectivo implica la destitución para las personas cadetes de primera.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 87.
 
-La acumulación de 300 (trescientos) puntos de demérito durante el ciclo lectivo implica la destitución de grado para las clases de cadetes.
+La acumulación de 300 puntos de demérito durante el ciclo lectivo implica la destitución de grado para las clases de cadetes.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 88.
 
-Al personal en instrucción que utilice medios no lícitos en la resolución de algún examen, además de la sanción académica prevista en el artículo 60, de este Reglamento se le impondrá el correctivo disciplinario correspondiente.
+Al personal de cadetes que utilice medios fraudulentos para resolver una evaluación, además de la sanción académica prevista en el artículo 60 de este reglamento se le debe imponer el correctivo disciplinario correspondiente.
+
+> <small>(REFORMADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 89.
 
-El Comandante del Cuerpo de Cadetes propondrá la distribución de tiempo que debe regir las actividades del personal en instrucción que se encuentra arrestado.
+La persona titular de la Comandancia del Cuerpo de Cadetes debe proponer la distribución de tiempo que debe regir las actividades del personal discente que se encuentra arrestado.
 
-### CAPÍTULO II. De la Garantía de Permanencia
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 10 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO II. De la Garantía le Permanencia
 
 ###### ARTÍCULO 90.
 
-Los civiles y el personal de tropa que causen alta en el plantel como cadetes, otorgarán un depósito en efectivo cuyo monto fijará la Secretaría de la Defensa Nacional.
+(DEROGADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 91.
 
-El importe del depósito otorgado se hará efectivo a favor del interesado, cuando éste cause baja del plantel por inutilización en actos del servicio antes de terminar sus estudios o por graduarse.
+(DEROGADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 92.
 
-Cuando al cadete cause baja del plantel antes de terminar sus estudios por causas imputables al propio cadete el importe del depósito se hará efectivo a favor del Erario Nacional.
+(DEROGADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 93.
 
-Las clases en instrucción y el personal becario no cubrirán depósito alguno”.
+(DEROGADO, D.O.F. 10 DE SEPTIEMBRE DE 2024)
 
 ## TRANSITORIOS
 
@@ -1178,3 +1586,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los recursos adicionales que requiera la Secretaría de la Defensa Nacional por las modificaciones al Plan General de Educación Militar derivado de un incremento en costos por pasar de un tipo superior nivel técnico superior universitario a un tipo superior nivel licenciatura, serán cubiertos, mediante movimientos compensados, con cargo al presupuesto autorizado de dicha Secretaría.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 10 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL HEROICO COLEGIO MILITAR”.]
+
+PRIMERO.- El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO.- Se derogan todas las disposiciones administrativas que se opongan al presente decreto.
