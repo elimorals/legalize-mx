@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-educacion-1683
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-10-31"
-last_updated: "2023-10-31"
+last_updated: "2024-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168329&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2023-10-12"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO NACIONAL PARA LA EDUCACION DE LOS ADULTOS
 
+> <small>[N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2024/SEP/Estatuto_Organico_INEA_2024.pdf]</small>
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS, PUBLICADO EN EL D.O.F. DE 11 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Estatuto publicado en el Número 29 del Diario Oficial de la Federación, el martes 31 de octubre de 2023.
 
@@ -798,3 +802,17 @@ El presente Estatuto Orgánico del Instituto Nacional para la Educación de los 
 En cumplimiento al Acuerdo SE/II-23/03,R dictado en la Segunda Sesión Extraordinaria del 12 de octubre de 2023 de la Junta de Gobierno del Instituto Nacional para la Educación de los Adultos, y con fundamento en los artículos 15, antepenúltimo párrafo, y 58, fracción VIII de la Ley Federal de las Entidades Paraestatales; así como el artículo 13, fracción VIII del Decreto por el que se reforma el diverso por el que se crea el Instituto Nacional para la Educación de los Adultos, la suscrita Directora General del citado organismo público descentralizado procede a tramitar la publicación del presente Estatuto Orgánico en el Diario Oficial de la Federación.
 
 Ciudad de México, a 12 de octubre de 2023.- La Directora General del Instituto Nacional para la Educación de los Adultos, Teresa Guadalupe Reyes Sahagún.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 11 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS", OBTENIDO DE: www.dof.gob.mx/2024/SEP/Estatuto_Organico_INEA_2024.pdf]
+
+PRIMERO.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto Nacional para la Educación de los Adultos, publicado en el Diario Oficial de la Federación el 31 de octubre de 2023.
+
+TERCERO.- Las Unidades Administrativas con facultades nuevas que aparecen en el presente Estatuto Orgánico y que tienen competencia en asuntos que anteriormente correspondían a otras Unidades, se harán cargo de los mismos, o en su caso, la persona Titular de la Dirección General, dictará las resoluciones respectivas.
+
+CUARTO.- La implementación del presente Estatuto Orgánico será con cargo al presupuesto autorizado al INEA, por lo que no se requerirán recursos adicionales en el presente ejercicio fiscal, ni se incrementará su presupuesto regularizable.
