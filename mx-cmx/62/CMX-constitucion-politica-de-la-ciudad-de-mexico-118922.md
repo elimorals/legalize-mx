@@ -4,7 +4,7 @@ identifier: "CMX-constitucion-politica-de-la-ciudad-de-mexico-118922"
 country: "mx"
 rank: "constitucion"
 publication_date: "2017-02-05"
-last_updated: "2024-09-06"
+last_updated: "2024-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118922&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-02-05"
 
 CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE SEPTIEMBRE DE 2024.
 
 Constitución publicada en la Edición Vespertina al Número 4 del Diario Oficial de la Federación y en el Número 1 de la Gaceta Oficial de la Ciudad de México, el domingo 5 de febrero de 2017.
 
@@ -1271,6 +1271,14 @@ G. Espacio público y convivencia social
 Las autoridades de la Ciudad garantizarán el rescate, mantenimiento e incremento progresivo del espacio público; en ningún caso podrán tomarse medidas que tiendan a su destrucción o disminución. Todas las personas tienen la obligación de respetar y contribuir a la conservación de los espacios públicos y áreas verdes.
 
 2. El diseño y gestión de los espacios públicos deberán estar en armonía con la imagen y el paisaje urbano de las colonias, pueblos y barrios originarios de acuerdo con el ordenamiento territorial y con los usos y necesidades de las comunidades. Su diseño se regirá por las normas de accesibilidad y diseño universal. El Gobierno de la Ciudad regulará su cuidado y protección a fin de evitar la contaminación visual, acústica o ambiental provocada por cualquier publicidad o instalación de servicios.
+
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+El Gobierno de la Ciudad de México establecerá programas de mejoramiento barrial, como un derecho al entorno urbano amigable, sustentable, seguro, digno, incluyente, accesible y dotado de espacios y servicios para los habitantes de las colonias y barrios.
+
+> <small>(ADICIONADO, G.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+El acceso a los recursos de los programas de mejoramiento barrial y la participación ciudadana en su diseño y ejecución, se establecerá en las reglas de operación que al efecto emita el Gobierno de la Ciudad de México, garantizando que las obras realizadas tengan siempre un uso universal y gratuito.
 
 3. El equipamiento y la vía pública son bienes públicos y su propiedad corresponde a la Ciudad de México. El Gobierno de la Ciudad, por causa de interés público, tendrá la facultad de transmitir el uso, goce o disfrute a los particulares y establecer los gravámenes que determine la ley.
 
@@ -4573,6 +4581,14 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 G.O. 6 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 35 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno de la Ciudad de México.
+
+G.O. 11 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL NUMERAL 2, APARTADO G DEL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación en la Gaceta Oficial de la Ciudad de México.
 
