@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1300
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-07-07"
-last_updated: "2024-09-07"
+last_updated: "2024-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE SEPTIEMBRE DE 2024 ABROGADA.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2024 ABROGADA.
 
 Ley publicada en el Suplemento 7 al Número 54 del Periódico Oficial del Estado de Zacatecas, el sábado 7 de julio de 2018.
 
@@ -393,7 +393,13 @@ XVIII. Las demás que le confiera la Constitución estatal y leyes del Estado.
 
 Las atribuciones de la Legislatura del Estado con relación al Poder Judicial son:
 
-I. Designar a los magistrados del Tribunal Superior de Justicia del Estado, de entre la terna que someta a su consideración la Gobernadora o Gobernador;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+I. Designar a las Magistradas y Magistrados del Tribunal Superior de Justicia del Estado, de entre la terna que someta a su consideración la Gobernadora o Gobernador.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+Cuando alguna de las personas propuestas, no cumpla con los requisitos de elegibilidad, o cuando se vulnere el principio de paridad de género en la integración del Pleno del Tribunal, la Legislatura desechará la terna y lo comunicará a la Gobernadora o Gobernador para que remita una diversa;
 
 II. Recibir la protesta de ley de los magistrados del Poder Judicial, así como resolver acerca de sus licencias y renuncias;
 
@@ -3012,3 +3018,19 @@ Derogación
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan las normas que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 349.- SE REFORMA Y ADICIONA LA FRACCIÓN I DEL ARTÍCULO 23 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+En los procesos de designación de las próximas magistraturas del Tribunal Superior de Justicia del Estado, la Legislatura deberá asignarlas a mujeres, hasta alcanzar una integración paritaria de siete magistradas y seis magistrados en el Pleno.
