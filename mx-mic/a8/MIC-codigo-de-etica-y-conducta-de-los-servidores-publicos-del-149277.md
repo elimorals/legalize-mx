@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-etica-y-conducta-de-los-servidores-publicos-del-14927
 country: "mx"
 rank: "codigo"
 publication_date: "2021-04-21"
-last_updated: "2021-04-21"
+last_updated: "2024-09-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "MIC"
 ---
 # CODIGO DE ETICA Y CONDUCTA DE LOS SERVIDORES PUBLICOS DEL SISTEMA INTEGRAL DE FINANCIAMIENTO PARA EL DESARROLLO DE MICHOACAN DE OCAMPO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL SISTEMA INTEGRAL DE FINANCIAMIENTO PARA EL DESARROLLO DE MICHOACÁN (SI FINANCIA), PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA Y CONDUCTA DE LOS SERVIDORES PÚBLICOS DEL SISTEMA INTEGRAL DE FINANCIAMIENTO PARA EL DESARROLLO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Código publicado en la Sexta Sección del Número 55 del Periódico Oficial del Estado de Michoacán, el miércoles 21 de abril de 2021.
 
@@ -535,3 +537,13 @@ GUSTAVO GUADALUPE MELENDEZ ARREOLA
 DIRECTOR GENERAL DEL SISTEMA INTEGRAL DE FINANCIAMIENTO PARA EL DESARROLLO DE MICHOACÁN
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL SISTEMA INTEGRAL DE FINANCIAMIENTO PARA EL DESARROLLO DE MICHOACÁN (SI FINANCIA)”.]
+
+Primero. El presente Código entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y se actualizará de manera anual de conformidad con lo establecido en la Guía de Elaboración y Actualización para los del Códigos de Conducta de las Dependencias y Entidades del Poder Ejecutivo del Estado de Michoacán.
+
+Segundo. Se abroga el Código de Ética y Conducta de los Servidores Públicos del Sistema Integral de Financiamiento para el Desarrollo de Michoacán, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, de fecha 21 de abril de 2021, tomo CLXXVII, número 55, así como las demás disposiciones administrativas que se opongan al presente Código.
