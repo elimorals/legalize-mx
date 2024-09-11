@@ -4,7 +4,7 @@ identifier: "CHP-ley-para-la-atencion-de-personas-con-trastornos-del-128242"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-25"
-last_updated: "2018-04-25"
+last_updated: "2024-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128242&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY PARA LA ATENCIÓN DE PERSONAS CON TRASTORNOS DEL ESPECTRO AUTISTA PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Tercera Sección al Número 364 del Periódico Oficial del Estado de Chiapas, el miércoles 25 de abril de 2018.
 
@@ -89,27 +89,33 @@ XVI. DERECHOS HUMANOS: Aquellos derechos reconocidos por la Constitución Polít
 
 XVII. COMITÉ TÉCNICO. Comité Estatal Interinstitucional encargado de otorgar opinión técnica, realizar evaluación de políticas públicas y dar seguimiento a los compromisos derivados del mismo comité, en relación a temas de los TEA.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 3.
 
-Las dependencias involucradas en aplicación y desarrollo de esta ley son:
+Las dependencias facultadas en la aplicación y desarrollo de esta Ley son:
 
-I. La Secretaria General de Gobierno;
+I. Secretaría General de Gobierno.
 
-II. La Secretaria de Educación;
+II. Secretaría de Salud.
 
-III. La Secretaría de Salud;
+III. Secretaría de Educación.
 
-IV. La Secretaría de la Juventud, Recreación y Deporte;
+IV. Secretaría de Seguridad y Protección Ciudadana.
 
-V. La Secretaria de Desarrollo Social;
+V. Secretaría de Bienestar.
 
-VI. La Secretaria del Trabajo;
+VI. Secretaría de Economía y del Trabajo.
 
-VII. El DIF Estatal;
+VII. Instituto de la Juventud del Estado de Chiapas.
 
-VIII. Los DIF Municipales; y
+VIII. Instituto del Deporte del Estado de Chiapas.
 
-IX. Comisión Estatal de los Derechos Humanos.
+IX. DIF Estatal.
+
+X. DIF Municipales.
+
+XI. Comisión Estatal de los Derechos Humanos.
 
 ###### Artículo 4.
 
@@ -119,19 +125,25 @@ I. Promover la inclusión de temas de autismo y sus diversas manifestaciones en 
 
 II. Impulsar la integración e inclusión a la sociedad, de las personas con la condición del espectro autista, mediante la atención de sus necesidades fundamentales;
 
-III. Proporcionar información y capacitación para la inclusión laboral de las personas con TEA, así como la obtención de un salario justo, sin discriminación ni prejuicios a través de la colaboración de la Secretaria del Trabajo;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+III. Proporcionar información y capacitación para la inclusión laboral de las personas con TEA, así como la obtención de un salario justo, sin discriminación ni prejuicios a través de la colaboración de la Secretaría de Economía y del Trabajo.
 
 IV. Proporcionar atención médica, diagnóstico y prestación de servicios de salud a las personas con TEA, con el propósito de disminuir la carga de enfermedad y morbilidades para así potenciar sus posibilidades de desarrollo; y
 
 V. Proveer infraestructura a través de la gestoría social con organismos empresariales, no gubernamentales, fundaciones, asociaciones civiles; nacionales e internacionales, para facilitar la disponibilidad de espacios seguros para la recreación, la práctica del deporte y terapias dirigidas a las personas con algún grado de TEA, así como el mantenimiento de las mismas.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 5.
 
-La Secretaría de Educación, será la instancia encargada de velar por el desarrollo educativo, propiciar la vinculación institucional con las dependencias y realizar las referencias necesarias en los casos de niñas y niños con sospecha de TEA para la integración diagnostica establecimiento de planes de manejo y apoyo necesario.
+La Secretaría de Educación será la instancia encargada de velar por el desarrollo educativo, propiciar la vinculación institucional con las dependencias y realizar las referencias necesarias en los casos de niñas y niños con sospecha de TEA, para la integración diagnostica, establecimiento de planes de manejo y apoyo necesario.
 
-Así mismo la Secretaría de Educación podrá integrar el programa de capacitación a docentes, de manera permanente temas relacionados con TEA, afectaciones mecanismos de detección, atención y mecanismos de derivación a otras instancias; además de temas inclusión, no discriminación y respeto a los derechos humanos y la diversidad.
+Asimismo, podrá integrar el programa de capacitación a docentes, de manera permanente (sic) temas relacionados con (sic) TEA, afectaciones mecanismos de detección, atención y mecanismos de derivación a otras instancias; además de temas (sic) inclusión, no discriminación y respeto a los derechos humanos y la diversidad.
 
-La Secretaría de Educación de acuerdo con su capacidad presupuestaria Incorporará de manera progresiva a los planteles educativos a profesionistas de apoyo relacionados con la atención de las necesidades en la diversidad, que incluyan a psicólogos terapistas del lenguaje y especialista de atención especial que cubran las necesidades de las personas con TEA, permitiendo la incorporación de las mismas a la educación regular.
+De acuerdo con su capacidad presupuestaria la Secretaría de Educación incorporará de manera progresiva a los planteles educativos a profesionistas de apoyo relacionados con la atención de las necesidades en la diversidad, que incluyan a psicólogos terapistas del lenguaje y especialista (sic) de atención especial que cubran las necesidades de las personas con TEA, permitiendo la incorporación de las mismas a la educación regular, pudiendo desarrollar además protocolos de atención e inclusión escolar para alumnos con TEA.
+
+Con dicha información promoverá la implementación de un registro estatal de los profesionales a que se refiere el párrafo anterior, así como de la identificación de los centros educativos, públicos o privados, incorporados al Sistema Educativo Estatal, que atiendan a alumnos diagnosticados con TEA.
 
 ###### Artículo 6.
 
@@ -152,6 +164,18 @@ VI. Podrán establecer acuerdos cooperativos con el resto de las instituciones d
 VII. Establecer mecanismos de capacitación y comunicación efectiva con padres y familia de personas con TEA, a través de charlas, talleres o entrenamiento sobre los TEA y las formas de atención a las personas que viven con TEA;
 
 VIII. En caso de no contar con el conjunto de especialistas requeridos para la atención de las necesidades específicas de personas con TEA, se establecerán los mecanismos de derivación oportuna ante instancias que cuenten con los elementos para otorgar el servicio requerido.
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Concientizar y, en su caso, capacitar al personal adscrito a las áreas de urgencias médicas, respecto de las condiciones y manifestaciones de conducta que pueden presentar los pacientes con TEA.
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+X. Promover la aplicación de herramientas que coadyuven a la identificación, diagnóstico, tratamiento y atención de pacientes con TEA.
+
+> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Proporcionar servicios de salud a las personas con TEA, en el ámbito de su competencia y disponibilidad presupuestal.
 
 ### CAPÍTULO II. POLITICAS PÚBLICAS EN MATERIA DE TEA
 
@@ -189,43 +213,59 @@ El gobierno estatal se podrá coordinar con el gobierno federal, mediante la cel
 
 ### CAPÍTULO III. DEL COMITÉ ESTATAL INTERINSTITUCIONAL PARA LA ATENCIÓN Y SEGUIMIENTO DE LOS TRASTORNOS DEL ESPECTRO AUTISTA
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 10.
 
-Se creará el Comité Estatal Interinstitucional para la atención y seguimiento de los trastornos del Espectro Autista, mediante acta constitutiva y la elaboración de minuta en cada reunión, compuesto por representantes de las Secretarías de Educación, Salud, Trabajo, Desarrollo Social, el DIF Estatal, DIF municipales y representantes de la sociedad civil, legalmente constituidas en el Estado, así como un representante de la Comisión Estatal de los Derechos Humanos, con la finalidad de crear una comisión de Evaluación y Diagnostico multidisciplinarios y generar información de base para el registro de niños y adultos con Trastorno del Espectro Autista en el Estado, integrado de la siguiente manera:
+Se crea el Comité Estatal Interinstitucional para la Atención y Seguimiento de los Trastornos del Espectro Autista, con la finalidad de crear un órgano de Evaluación y Diagnóstico multidisciplinario y de generar información para el registro de niños y adultos con TEA; integrado de la siguiente manera:
 
-I. Presidente: Gobernador del Estado;
+I. Presidente: Titular de la Secretaría de Salud.
 
-II. Vicepresidente: Secretario General de Gobierno;
+I (SIC). Secretario Técnico: Titular del DIF Estatal.
 
-III. Secretario Técnico: Secretario de Salud;
+III. Vocales, a cargo de los titulares de las (sic) siguientes Organismos Públicos y un representante de la sociedad civil:
 
-IV. Vocal: Secretario de Educación;
+a) Secretaría General de Gobierno.
 
-V. Vocal: Secretario de Desarrollo Social;
+b) Secretaría de Educación.
 
-VI. Vocal: Secretario de la Juventud, Recreación y Deporte;
+c) Secretaría de Seguridad y Protección Ciudadana.
 
-VII. Vocal: Secretario del Trabajo;
+d) Secretaría de Bienestar.
 
-VIII. Vocal: Un representante del DIF Estatal;
+e) Secretaría de Economía y del Trabajo.
 
-IX. Vocal: Un representante por cada DIF Municipal;
+f) Instituto del Deporte del Estado de Chiapas.
 
-X. Vocal: Un representante de la Sociedad Civil.
+g) Instituto de la Juventud del Estado de Chiapas
 
-XI. Vocal: Un representante de la Comisión Estatal de los Derechos Humanos.
+h) Comisión Estatal de los Derechos Humanos.
+
+IV. Invitados especiales:
+
+a) Un representante de los Sistemas DIF Municipales por región.
+
+b) Un representante de Asociaciones Civiles relacionadas con personas con TEA.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 11.
 
-El Comité Técnico, tendrá las siguientes funciones y actividades:
+El Comité Técnico tendrá las siguientes atribuciones:
 
-I. Celebrar tres reuniones al año de evaluación, planeación y seguimiento;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
 
-II. Estudiar y emitir con voz y voto opinión sobre los proyectos de carácter académico, de inclusión e integración, técnico y administrativo que les presente las instancias involucradas;
+I. Sesionar de manera ordinaria cuatro veces al año, conforme al calendario que el mismo apruebe.
+
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+II. Estudiar y acordar los proyectos de carácter académico, de inclusión e integración, técnico y administrativo que les presente las instancias involucradas.
 
 III. Cuando la agenda de una sesión lo amerite, el Comité Técnico podrá tener invitados especiales en parte o en toda la reunión;
 
-IV. El Comité Técnico contará con un Secretario Técnico, que será la persona encargada del Seguimiento de acciones para la atención de personas con TEA, que podrá ser responsable del programa de atención a la salud de la infancia y la adolescencia, o en su defecto quien designe el titular de la Secretaria de Salud;
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+IV. El Secretario Técnico del Comité será la persona encargada del Seguimiento de acciones para la atención de personas con TEA.
 
 V. El Comité Técnico deberá sesionar de manera trimestral y el Secretario Técnico convocara a las sesiones haciendo llegar a todos los miembros orden del día, por lo menos con tres días de anticipación para las sesiones ordinarias y con 24 horas de antelación para las sesiones extraordinarias;
 
@@ -241,13 +281,19 @@ El Comité establecerá mecanismos de vinculación interinstitucional, con depen
 
 El Comité impulsará a través de sus integrantes la creación de un programa informativo en medios masivos de comunicación, que tenga por objeto difundir las características de esta condición, concientizar a la sociedad y a las personas que interactúan con las personas con TEA.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+El Comité Técnico promoverá el diseño y difusión de información relativa al TEA, mediante espacios pautados en el Sistema Chiapaneco de Radio, Televisión y Cinematografía.
+
 ###### Artículo 13.
 
 Las Delegaciones del Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, serán invitados permanentes del Comité.
 
 Los integrantes del Comité podrán designar a sus respectivos suplentes.
 
-El Comité, a través de su Presidente, podrá convocar a las sesiones a otras dependencias del Ejecutivo y a entidades del sector público, con objeto de que informen de los asuntos de su competencia, relacionados con la atención de las personas con la condición del espectro autista.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+El Comité a través del Presidente o del Secretario Técnico, podrá convocar a las sesiones a otros Organismos del Ejecutivo y del sector público, con objeto de que informen de los asuntos de su competencia, relacionados con la atención de las personas con la condición del espectro autista.
 
 ###### Artículo 14.
 
@@ -385,11 +431,13 @@ Los familiares de personas con TEA, deben ser informados, educados y capacitados
 
 El Estado, a través del Comité Técnico, desarrollará programas y acciones, con el propósito de promover y apoyar para que las personas con autismo puedan acceder y disfrutar de actividades culturales, recreativas, artísticas y de esparcimiento, así como también la utilización y el desarrollo de sus habilidades, aptitudes y potencial artístico, creativo e intelectual.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 27.
 
-El Estado, a través de la Secretaría de la Juventud, Recreación y Deporte y del DIF Estatal, en coordinación con los Ayuntamientos, y DIF municipales, desarrollará programas y acciones para la inclusión e integración de las personas con TEA a la práctica deportiva, mediante facilidades administrativas y las ayudas técnicas, humanas, económicas y financieras adecuadas.
+El Estado, a través del Instituto del Deporte del Estado de Chiapas y del DIF Estatal, en coordinación con los Ayuntamientos, y DIF Municipales, desarrollará programas y acciones para la inclusión e integración de las personas con TEA a la práctica deportiva, mediante facilidades administrativas y las ayudas técnicas, humanas, económicas y financieras adecuadas.
 
-La Secretaria de Salud promoverá actividades alusivas la conmemoración del Día Mundial de la Concienciación sobre el Autismo.
+La Secretaría de Salud promoverá actividades alusivas a la conmemoración del Día Mundial de la Concienciación sobre el Autismo.
 
 ### CAPÍTULO XI. CAPACITACIÓN PARA EL TRABAJO
 
@@ -397,11 +445,33 @@ La Secretaria de Salud promoverá actividades alusivas la conmemoración del Dí
 
 El Estado, a través de la Secretaría del Trabajo, y las demás instancias dedicadas a la promoción del adiestramiento y la capacitación, establecerá programas permanentes, cursos y talleres para la participación de personas con TEA, con el fin de fomentar el empleo entre las personas diagnosticadas con autismo.
 
-### CAPÍTULO XII. PARTICIPACION CIUDADANA
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+La Secretaría de Economía y del Trabajo, en coordinación con la Secretaría de Hacienda, coadyuvarán en el diseño de estrategias que permitan generar estímulos fiscales a los empleadores de personas con TEA.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO XII. ASISTENCIA Y SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 29.
 
-La presente Ley establece el derecho de la ciudadanía a recibir información relacionada al autismo, a participar y a denunciar actos omisiones que puedan atentar contra la integridad y derechos de la persona con TEA.
+El DIF Estatal en coordinación con los DIF Municipales, en el ámbito de sus respectivas competencias y su disponibilidad presupuestal, serán responsables de proporcionar atención a las personas con TEA y ejecutar acciones tendentes a la protección y desarrollo de los mismos.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 30.
+
+La Secretaría de Seguridad y Protección Ciudadana, en coordinación con la Secretaría de Salud, Secretaría de Educación e instancias especialistas en la materia, diseñará un protocolo de atención a personas con TEA, con la finalidad proporcionar el auxilio en situaciones de extravío, búsqueda y ubicación; así como regular la actuación del personal policial en situaciones de posible crisis.
+
+Para la aplicación del protocolo referido en el párrafo anterior, la Secretaría de Seguridad y Protección Ciudadana gestionará la capacitación del personal ante las instancias especializadas en la materia.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO, ANTES ARTÍCULO 29], P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 31.
+
+La ciudadanía tendrá derecho a recibir información relacionada con el TEA, a participar y a denunciar actos u omisiones que puedan atentar contra la integridad y los derechos de las personas que lo padecen.
 
 T R A N S I T O R I O S
 
@@ -426,3 +496,15 @@ Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorabl
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 24 días del mes de Abril del año dos mil dieciocho.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Mario Carlos Culebro Velasco, Secretario General de Gobierno.- Rúbricas
+
+[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.
+
+P.O. 11 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 415 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA ATENCIÓN DE PERSONAS CON TRASTORNOS DEL ESPECTRO AUTISTA PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Comité Técnico deberá instalarse en un periodo no mayor a 30 días naturales, siguientes a la entrada en vigor del presente Decreto.
