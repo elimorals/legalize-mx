@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-122201"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-15"
-last_updated: "2024-04-14"
+last_updated: "2024-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 15 de junio de 2017.
 
@@ -1343,9 +1343,9 @@ La creación de toda ley y las modificaciones a la misma deberán, en su caso, r
 
 Las Comisiones Legislativas serán propuestas por la Junta de Gobierno y Coordinación Política ante la Mesa Directiva, quien deberá someterlas a la consideración del Congreso en la tercera sesión de cada año de ejercicio constitucional, a excepción de las comisiones ordinarias, que serán nombradas al inicio del ejercicio constitucional y fungirán durante todo el período de la Legislatura.
 
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
 
-Las Comisiones Legislativas deberán integrarse de manera tal que reflejen la pluralidad política del Congreso y estarán integradas invariablemente por un Presidente, un Secretario y cuatro vocales. Sólo la Comisión de Hacienda, Presupuesto y Cuenta Pública estará conformada por siete integrantes, un Presidente, un Secretario y cinco Vocales.
+Las Comisiones Legislativas deberán integrarse de manera tal que reflejen la pluralidad política del Congreso y estarán integradas invariablemente por un Presidente, un Secretario y cuatro vocales. Sólo la Comisión de Hacienda, Presupuesto y Cuenta Pública estará conformada por ocho integrantes, un Presidente, un Secretario y seis Vocales.
 
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
@@ -3960,3 +3960,13 @@ P.O. 14 DE ABRIL DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 002 QUE CONTIENE REFORMAS A LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Comisión de Hacienda, Presupuesto y Cuenta Pública deberá integrarse conforme a lo señalado en el presente Decreto en un plazo que no exceda de cinco días a partir del inicio de su vigencia.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
