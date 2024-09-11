@@ -4,7 +4,7 @@ identifier: "CHP-ley-del-patrimonio-del-estado-de-chiapas-151362"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-29"
-last_updated: "2021-09-29"
+last_updated: "2024-09-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151362&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DEL PATRIMONIO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número 186 del Periódico Oficial del Estado de Chiapas, el miércoles 29 de septiembre de 2021.
 
@@ -465,7 +465,9 @@ III. Constancia de disponibilidad presupuestaria y autorización de inversión.
 
 IV. Levantamientos topográficos, planos y cédulas de avalúos catastrales.
 
-V. Dictamen de factibilidad de uso de suelo.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+V. Dictamen de factibilidad de uso de suelo; para aquellos bienes inmuebles en los que se pretendan realizar acciones, servicios y todo tipo de obras.
 
 VI. Constancias de los títulos de propiedad, antecedentes registrales, certificados de libertad o gravamen.
 
@@ -487,19 +489,25 @@ IV. Asignar a los solicitantes, en caso de considerarlo procedente, los Bienes I
 
 Los particulares, la Administración Pública Estatal y Entes Públicos, podrán adquirir el uso, aprovechamiento y explotación de los bienes sujetos al régimen de dominio público a cargo del Poder Ejecutivo del Estado, en apego a las disposiciones establecidas en esta Ley y demás disposiciones jurídicas o administrativas aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 43.
 
-Cuando la Administración Pública Estatal, ejerza la posesión, control o administración a título de dueño sobre un bien inmueble, sobre el que no exista inscripción en el Registro Público de la Propiedad y del Comercio; el Poder Ejecutivo del Estado a través del Instituto, podrá expedir una declaratoria, bajo el siguiente procedimiento de adjudicación:
+Cuando una Dependencia o Entidad de la Administración Pública Estatal, ejerza la posesión, control o administración a título de dueño sobre un bien inmueble del que no exista inscripción en el Registro Público de la Propiedad y del Comercio, deberá iniciar un procedimiento de adjudicación que consistirá en lo siguiente:
 
-I. Se integrará el expediente técnico con la documentación correspondiente que acredite la posesión, control o administración del bien inmueble, con la intervención de la instancia solicitante y el Instituto.
+I. Integrar un expediente técnico con la documentación correspondiente que acredite la posesión, control o administración del bien inmueble.
 
-II. Se emitirá el acuerdo administrativo mediante el cual se acredite la posesión, control o administración del bien inmueble a título de dueño; que su naturaleza es de uso común o está destinado a un servicio público; asimismo deberá contener los datos referentes a su ubicación, denominación si la tuviere, uso actual, superficie, medidas y colindancias, planos topográficos o de localización o carta catastral o ficha de datos catastral respectiva, y constancia de no inscripción en el Registro Público de la Propiedad y del Comercio, y la determinación del inicio del procedimiento de regularización; el cual quedará a disposición de los interesados.
+II. Emitir un acuerdo administrativo mediante el cual se acredite la posesión, control o administración del bien inmueble a título de dueño; que su naturaleza es de uso común o está destinado a un servicio público; asimismo deberá contener los datos referentes a su ubicación, denominación si la tuviere, uso actual, superficie, medidas y colindancias, planos topográficos o de localización o carta catastral o ficha de datos catastral respectiva, y constancia de no inscripción en el Registro Público de la Propiedad y del Comercio, y la determinación del inicio del procedimiento de regularización; el cual quedará a disposición de los interesados.
 
-III. Se publicará en el Periódico Oficial y en al menos dos periódicos de mayor circulación estatal, el acuerdo administrativo referido en la fracción anterior, con la finalidad de que los propietarios o poseedores de los predios colindantes del inmueble y, en general, las personas que tengan interés jurídico, manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de la publicación.
+III. Publicar en el Periódico Oficial y en al menos dos diarios de mayor circulación estatal, el acuerdo administrativo referido en la fracción anterior, con la finalidad de que los propietarios o poseedores de los predios colindantes del inmueble y, en general, las personas que tengan interés jurídico, manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de la publicación.
 
-IV. Una vez transcurrido el plazo a que se refiere la fracción anterior, sin que se hubiese presentado oposición de parte interesada, el acuerdo administrativo quedará firme, y el Instituto procederá a realizar los trámites para la expedición de la declaratoria de adjudicación correspondiente.
+IV. Una vez transcurrido el plazo a que se refiere la fracción anterior, sin que se hubiese presentado oposición de parte interesada, el acuerdo administrativo quedará firme.
 
-V. El Director General del Instituto expedirá la declaratoria de adjudicación a nombre del Poder Ejecutivo del Estado, previa validación de la Consejería; dicha declaratoria deberá publicarse en el Periódico Oficial, y será inscrita en el Registro Público de la Propiedad y del Comercio.
+Finalizado el procedimiento antes referido, la Dependencia o Entidad de la Administración Pública Estatal, deberá remitir al Instituto las documentales que se señalan de la fracción I a la III del presente artículo, con el objeto de iniciar con los trámites para la expedición de la Declaratoria de Adjudicación correspondiente.
+
+El Director General del Instituto, previa autorización de la Junta de Gobierno, deberá expedir la Declaratoria de Adjudicación a nombre del Poder Ejecutivo del Estado, la cual será remitida a la Consejería para la validación correspondiente; dicha Declaratoria deberá publicarse en el Periódico Oficial y será inscrita en el Registro Público de la Propiedad y del Comercio.
+
+La Declaratoria de Adjudicación será considerada documento idóneo para proceder a su registro en el Sistema de Control Patrimonial, así como para su registro contable.
 
 ###### Artículo 44.
 
@@ -569,13 +577,19 @@ Un mismo bien inmueble podrá destinarse para el servicio prestado por distintas
 
 Los usos que se otorguen a los Bienes Inmuebles del Poder Ejecutivo del Estado, deberán ser compatibles con lo previsto en las disposiciones en materia de desarrollo urbano de la localidad en que se ubiquen, así como con el valor artístico o histórico que en su caso posean.
 
-Los Destinatarios conforme a esta Ley, serán los responsables del aseguramiento de los Bienes Inmuebles que les sean asignados u otorgados mediante contrato de comodato.
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+Los Destinatarios conforme a esta Ley, serán los responsables del aseguramiento de los Bienes Inmuebles que les sean asignados u otorgados.
 
 ###### Artículo 49.
 
 Los Bienes Inmuebles de dominio privado, pertenecientes al Poder Ejecutivo del Estado, podrán otorgarse en comodato a personas físicas o morales.
 
 El Instituto podrá otorgar a los particulares derechos de uso o aprovechamiento sobre los Bienes Inmuebles mediante contrato de comodato, para la realización de actividades sociales o culturales, siempre que se acredite un beneficio para la sociedad.
+
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+Los destinarios no podrán realizar actos de desincorporación, cambio de destino, uso, usuario, ni de explotación.
 
 ###### Artículo 50.
 
@@ -635,7 +649,9 @@ VIII. Dar aviso en forma inmediata al Instituto, de cualquier hecho o acto, con 
 
 IX. Comunicar al Instituto los casos en que se utilicen Bienes Inmuebles pertenecientes al Poder Ejecutivo del Estado, sin que medie el acuerdo de destino respectivo.
 
-X. Presentar denuncias de carácter penal por ocupaciones ilegales y daños a los Bienes Inmuebles asignados; debiendo informar al Instituto sobre las gestiones realizadas hasta su total conclusión, asumiendo la responsabilidad que en su carácter de Destinatarios les competa.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+X. Presentar denuncias de carácter penal por ocupaciones ilegales y daños a los Bienes Inmuebles asignados, así como de interponer los recursos jurídicos necesarios para su defensa; debiendo informar al Instituto sobre las gestiones realizadas hasta su total conclusión, asumiendo la responsabilidad que en su carácter de Destinatarios les competa.
 
 XI. Entregar al Instituto los Bienes Inmuebles o áreas no utilizadas, dentro de los quince días hábiles siguientes a su desocupación, conforme a la normatividad aplicable; en caso contrario, asumir la responsabilidad administrativa y/o penal que corresponda, conforme a la legislación aplicable.
 
@@ -645,7 +661,13 @@ XIII. Gestionar y aplicar los recursos asignados conforme a su presupuesto para 
 
 XIV. Pagar las contribuciones sobre la propiedad inmobiliaria, en los casos en que no se acredite el objeto público.
 
-XV. Las demás que esta Ley, su Reglamento y otras disposiciones en materia de inmuebles les asignen.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Realizar las gestiones y actuaciones necesarias para acreditar legalmente la propiedad o posesión de los Bienes Inmuebles que tienen en uso.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Las demás que esta Ley, su Reglamento y otras disposiciones en materia de inmuebles les asignen.
 
 ### Capítulo V. De la Desincorporación de Bienes Inmuebles
 
@@ -735,9 +757,11 @@ XVIII. Instrumentar el acta administrativa referente al levantamiento del invent
 
 XIX. Publicar el inventario de Bienes Muebles a través de su página de internet, de conformidad a la normatividad aplicable.
 
-XX. Solicitar al Instituto la Emisión de Dictámenes Técnicos, para la adquisición o arrendamiento de vehículos terrestres nuevos y vehículos terrestres usados, hasta con tres años anteriores al ejercicio fiscal en el que se pretendan adquirir.
+> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
 
-En casos excepcionales, por causas justificadas y de urgente necesidad, relacionados con la seguridad pública, la procuración de justicia, los servicios de salud, los de protección civil y programas productivos prioritarios, se podrán adquirir y arrendar vehículos aéreos y marítimos, nuevos o usados, previo Dictamen Técnico emitido por el Instituto y autoridad competente en materia de aeronaves, conforme a lo establecido en el Reglamento y demás normatividad aplicable.
+XX. Solicitar al Instituto la Emisión de Dictámenes Técnicos para la adquisición o arrendamiento de vehículos, maquinaria pesada y agrícola, nuevos o usados, hasta con tres años anteriores al ejercicio fiscal en el que se pretendan adquirir.
+
+En casos excepcionales, por causas justificadas y de urgente necesidad, relacionados con la seguridad pública, la procuración de justicia, los servicios de salud, los de protección civil y programas productivos prioritarios, se podrán adquirir y arrendar vehículos aéreos, marítimos y maquinaria pesada, nuevos o usados, previo Dictamen Técnico emitido por el Instituto, conforme a lo establecido en el Reglamento y demás normatividad aplicable.
 
 XXI. Las demás que sean establecidas en leyes, reglamentos y la normatividad aplicable en materia de control y registro de Bienes Muebles e Intangibles.
 
@@ -745,19 +769,25 @@ XXI. Las demás que sean establecidas en leyes, reglamentos y la normatividad ap
 
 Los servidores públicos que tengan asignados Bienes Muebles, deberán cumplir las obligaciones establecidas en la presente Ley, su Reglamento y demás normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 62.
 
-Cuando la Administración Pública Estatal ejerza la posesión, control o administración a título de dueño sobre un bien mueble, del que no exista la certeza de la propiedad, el Instituto, a través del Director General podrá expedir la declaratoria para que dicho bien forme parte del Patrimonio del Ejecutivo, bajo el siguiente procedimiento de adjudicación:
+Cuando una Dependencia o Entidad de la Administración Pública Estatal, ejerza la posesión, control o administración a título de dueño sobre un bien mueble del que no exista la certeza de la propiedad, deberá iniciar un procedimiento de adjudicación para que dicho bien forme parte del Patrimonio del Ejecutivo, que consistirá en lo siguiente:
 
-I. El solicitante, integrará el expediente técnico con la documentación que contribuya a la acreditación de la posesión, uso, control o administración del bien mueble y demás documentos expedidos por las autoridades competentes que acrediten el hecho.
+I. Integrar un expediente técnico con la documentación que contribuya a la acreditación de la posesión, uso, control o administración del bien mueble y demás documentos expedidos por las autoridades competentes que acrediten el hecho.
 
-II. El Instituto, emitirá acuerdo administrativo mediante el cual se acredite la posesión, control o administración del bien mueble a título de dueño; que su naturaleza es de uso común o se encuentra destinado a un servicio público; asimismo deberá contener como mínimo el resguardo del bien mueble, póliza de seguro, fotografías actualizadas, uso actual, y en su caso, el contrato de comodato correspondiente, y la determinación del inicio del procedimiento de regularización, el cual quedará a disposición de los interesados.
+II. Emitir un acuerdo administrativo mediante el cual se acredite la posesión, control o administración del bien mueble a título de dueño; que su naturaleza es de uso común o se encuentra destinado a un servicio público; asimismo deberá contener como mínimo el resguardo y/o documento que identifique y describa las características del bien mueble, fotografías actualizadas, uso actual y la determinación del inicio del procedimiento de regularización, el cual quedará a disposición de los interesados.
 
-III. El acuerdo administrativo a que se refiere la fracción anterior, deberá ser publicado en el Periódico Oficial, y en dos diarios de mayor circulación en el Estado, con la finalidad de que las personas que tengan interés jurídico manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de su publicación.
+III. Publicar en el Periódico Oficial y en al menos dos diarios de mayor circulación estatal, el acuerdo administrativo referido en la fracción anterior, con la finalidad de que las personas que tengan interés jurídico manifiesten lo que a su derecho convenga y aporten las pruebas pertinentes dentro de un plazo de quince días hábiles, contados a partir de la fecha de su publicación.
 
-IV. Transcurrido el plazo a que se refiere la fracción anterior sin que se hubiere presentado oposición por parte interesada, el acuerdo administrativo quedará firme y el Instituto procederá a realizar los trámites para la expedición de la declaratoria de adjudicación a nombre del Poder Ejecutivo del Estado, misma que deberá ser publicada en el Periódico Oficial e inscrita en el Registro Público de la Propiedad y del Comercio.
+IV. Una vez transcurrido el plazo a que se refiere la fracción anterior, sin que se hubiese presentado oposición de parte interesada, el acuerdo administrativo quedará firme.
 
-La declaratoria de adjudicación será considerada documento idóneo para proceder a su registro en el Sistema de Control Patrimonial, así como para su registro contable.
+Finalizado el procedimiento antes señalado, la Dependencia o Entidad de la Administración Pública Estatal deberá remitir al Instituto las documentales que se señalan de la fracción I a la III del presente artículo, con el objeto de comenzar con los trámites para la expedición de la Declaratoria de Adjudicación correspondiente.
+
+El Director General del Instituto, previa autorización de la Junta de Gobierno, deberá expedir la Declaratoria de Adjudicación a nombre del Poder Ejecutivo del Estado; dicha Declaratoria deberá publicarse en el Periódico Oficial y será inscrita en el Registro Público de la Propiedad y del Comercio.
+
+La Declaratoria de Adjudicación será considerada documento idóneo para proceder a su registro en el Sistema de Control Patrimonial, así como para su registro contable.
 
 ###### Artículo 63.
 
@@ -839,6 +869,10 @@ Las atribuciones, procedimientos y criterios específicos en materia de subasta,
 
 El Instituto, en representación del Ejecutivo del Estado, suscribirá los documentos correspondientes a la enajenación a favor del postor calificado como ganador del bien subastado; la Secretaría de Hacienda, a través del área competente, emitirá los recibos fiscales correspondientes, que amparen su adjudicación.
 
+> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2024)</small>
+
+Solo los recursos obtenidos de la enajenación de vehículos propiedad del Fideicomiso denominado Fondo de Protección para Vehículos del Poder Ejecutivo del Estado "FOPROVEP", deberán ser incorporadas al patrimonio del propio "FOPROVEP", observando en todo momento lo establecido en sus Reglas de Operación. Lo anterior no limita las facultades del Instituto para reservar, de las citadas ganancias, los recursos necesarios para el pago de honorarios, cuotas y demás gastos que el propio proceso de subasta requiera.
+
 ## Título Octavo. Del Aseguramiento de Bienes
 
 ### Capítulo Único. De la Obligación de Asegurar los Bienes
@@ -900,3 +934,15 @@ El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumpl
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas a los 20 días de Septiembre del año dos mil veintiuno.- D. P. C. JOSÉ OCTAVIO GARCÍA MACÍAS.- D. PS. C. MARÍA OBDULIA MEGCHÚN LÓPEZ.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintinueve días del mes de septiembre del año dos mil veintiuno.- Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Victoria Cecilia Flores Pérez, Secretaria General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 417 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PATRIMONIO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- El Instituto del Patrimonio del Estado, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto, deberá realizar las adecuaciones que correspondan a la normatividad y reglamentación aplicable.
