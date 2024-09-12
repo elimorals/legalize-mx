@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2024-06-23"
+last_updated: "2024-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -1317,9 +1317,13 @@ II. De fiscalización, vigilancia y combate a la corrupción:
 
 a) Recibir la cuenta pública del Ejecutivo, los órganos constitucionales autónomos y los ayuntamientos.
 
-b) Revisar, discutir y aprobar, en su caso, con vista del informe que rinda la Entidad de Auditoría Superior del Estado, la cuenta pública que anualmente le presentarán, el Ejecutivo, los órganos constitucionales autónomos y los ayuntamientos del Estado, sobre sus respectivos ejercicios presupuestales.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-c) Coordinar y evaluar por medio de la Comisión correspondiente, el desempeño de las funciones de la Entidad de Auditoría Superior del Estado.
+b) Revisar, discutir y aprobar, en su caso, con vista del informe que rinda la Auditoría Superior del Estado, la cuenta pública que anualmente le presentarán, el Ejecutivo, los órganos constitucionales autónomos y los ayuntamientos del Estado, sobre sus respectivos ejercicios presupuestales.
+
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+c) Coordinar y evaluar por medio de la Comisión correspondiente, el desempeño de las funciones de la Auditoría Superior del Estado.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -1333,9 +1337,9 @@ f) Recabar informes sobre todos los ramos de administración pública del Estado
 
 g) Llevar un registro del patrimonio de los servidores públicos en los casos que proceda;
 
-> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-h) Expedir la ley que regule la organización y facultades de la Entidad de Auditoría Superior del Estado y las demás que normen la gestión, control y evaluación de los Poderes del Estado, los Municipios y de los entes públicos estatal y municipales; así como para expedir la ley que establezca las bases de coordinación del Sistema Local Anticorrupción.
+h) Expedir la ley que regule la organización y facultades de la Auditoría Superior del Estado y las demás que normen la gestión, control y evaluación de los Poderes del Estado, los Municipios y de los entes públicos estatal y municipales; así como para expedir la ley que establezca las bases de coordinación del Sistema Local Anticorrupción.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2017)</small>
 
@@ -1369,9 +1373,9 @@ l) Designar, por el voto de las dos terceras partes de sus integrantes presentes
 
 III. De nombramiento y ratificación de servidores públicos:
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-a) Nombrar al titular de la Entidad de Auditoría Superior del Estado, a las magistradas y los magistrados del Poder Judicial del Estado, a las consejeras y los consejeros y comisionadas y comisionados de los órganos constitucionales autónomos, y en su caso a las y los presidentes municipales sustitutos.
+a) Nombrar a la persona titular de la Auditoría Superior del Estado, a las magistradas y los magistrados del Poder Judicial del Estado, a las consejeras y los consejeros y comisionadas y comisionados de los órganos constitucionales autónomos, y en su caso a las y los presidentes municipales sustitutos.
 
 > <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -1431,9 +1435,9 @@ d) Cambiar provisionalmente, en caso necesario, la residencia de los poderes del
 
 e) Conceder distinciones u honores por servicios distinguidos prestados al Estado y la Nación, en los términos de la ley.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-f) Integrar comisiones para investigar el funcionamiento de cualquier órgano de la administración pública estatal o municipal. Los resultados de las investigaciones se harán de conocimiento del Pleno del Congreso del Estado, y en su caso, de la Gobernadora o Gobernador del Estado y de los ayuntamientos, así como a la Entidad de Auditoría Superior del Estado y a la Fiscalía Especializada en Combate a la Corrupción, y podrán dar lugar a responsabilidades políticas o de otro tipo.
+f) Integrar comisiones para investigar el funcionamiento de cualquier órgano de la administración pública estatal o municipal. Los resultados de las investigaciones se harán de conocimiento del Pleno del Congreso del Estado, y en su caso, de la Gobernadora o Gobernador del Estado y de los ayuntamientos, así como a la Auditoría Superior del Estado y a la Fiscalía Especializada en Combate a la Corrupción, y podrán dar lugar a responsabilidades políticas o de otro tipo.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
 
@@ -1475,25 +1479,35 @@ La Comisión Permanente deberá instalarse el día de su elección y su funciona
 
 > <small>[N. DE E. PERTENECE A LA FRACCIÓN VI]</small>
 
-> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 26 DE ENERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-La Comisión Permanente tendrá las siguientes atribuciones:
+La Comisión Permanente tendrá las siguientes atribuciones;
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2017)</small>
 
 I.- Llevar la correspondencia;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Tomar la protesta de ley, en su caso, a la Gobernadora o Gobernador, a las Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Menores Infractores, al Titular de la Entidad de Auditoría Superior del Estado, del Tribunal de Justicia Administrativa y a las y los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango;
+II.- Tomar la protesta de ley, en su caso, a la Gobernadora o Gobernador, a las Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Menores Infractores, del Tribunal de Justicia Administrativa, a la persona titular de la Auditoría Superior del Estado y a las y los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango;
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
 III.- Recibir los avisos de ausencia de la Gobernadora o Gobernador y conceder las autorizaciones o, en su caso, licencias que soliciten la Gobernadora o el Gobernador y las Magistradas y los Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados Electorales, del Tribunal de Justicia Fiscal y Administrativa y del Tribunal de Menores Infractores y miembros del Consejo de la Judicatura;
 
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2017)</small>
+
 IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2017)</small>
 
 V.- Presidir los períodos extraordinarios de sesiones del Congreso;
 
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2017)</small>
+
 VI.- Recibir las iniciativas de ley y turnarlas para su estudio y dictamen a las comisiones legislativas que corresponda; y
+
+> <small>(ADICIONADA, P.O. 26 DE ENERO DE 2017)</small>
 
 VII.- Las demás que le confiera esta Constitución y las leyes.
 
@@ -1517,43 +1531,59 @@ Contará con un Órgano de Gobierno Interior, denominado Junta de de (sic) Gobie
 
 El trabajo del Congreso y de las comisiones será asistido por los órganos técnicos que señalen esta Constitución y la Ley Orgánica del Congreso, los cuales estarán integrados por un cuerpo permanente de personal técnico, administrativo y especialistas que se determinen en dicha Ley.
 
-> <small>(ADICIONADA, P.O. 29 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-#### Sección cuarta. De la Entidad de Auditoría Superior del Estado
+#### Sección cuarta. De la Auditoría Superior del Estado
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 85.
 
-La Entidad de Auditoría Superior del Estado es el órgano del Congreso del Estado, con autonomía técnica y de gestión, en el ejercicio de sus atribuciones y para decidir sobre su administración y organización interna, funcionamiento y resoluciones en los términos que disponga la ley, encargado de fiscalizar y evaluar el desempeño de la gestión gubernamental de los Poderes y los municipios, sus entidades y dependencias, así como las administraciones paraestatales y paramunicipales, organismos descentralizados de carácter estatal o municipal, fideicomisos públicos, mandatos, instituciones y órganos constitucionales autónomos, y cualquier otro ente público en materia de fondos, recursos locales y deuda pública.
+La Auditoría Superior del Estado es el órgano del Congreso del Estado, con autonomía técnica y de gestión, en el ejercicio de sus atribuciones y para decidir sobre su administración y organización interna, funcionamiento y resoluciones en los términos que disponga la ley, encargado de fiscalizar y evaluar el desempeño de la gestión gubernamental de los Poderes y los municipios, sus entidades y dependencias, así como las administraciones paraestatales y paramunicipales, organismos descentralizados de carácter estatal o municipal, fideicomisos públicos, mandatos, instituciones y órganos constitucionales autónomos, y cualquier otro ente público en materia de fondos, recursos locales y deuda pública.
 
-En trabajos de planeación de las auditorías, la Entidad de Auditoría Superior del Estado, podrá solicitar información del ejercicio en curso, respecto de procesos concluidos; así mismo, podrá solicitar de manera casuística y concreta información de ejercicios anteriores al de la cuenta pública en revisión, sin que ello implique la apertura de la Cuenta Pública aprobada. Las observaciones y recomendaciones que se emitan, solo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
+En trabajos de planeación de las auditorías, la Auditoría Superior del Estado, podrá solicitar información del ejercicio en curso, respecto de procesos concluidos; así mismo, podrá solicitar de manera casuística y concreta información de ejercicios anteriores al de la cuenta pública en revisión, sin que ello implique la apertura de la Cuenta Pública aprobada. Las observaciones y recomendaciones que se emitan, solo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
 
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2018)</small>
-
-A la Entidad de Auditoría Superior del Estado, corresponderá, en los términos de la ley, tramitar el registro correspondiente en la Plataforma Digital Nacional, de las declaraciones patrimoniales, fiscales y de intereses que reciba de los servidores públicos en los casos que prevea la ley.
-
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+A la Auditoría Superior del Estado, corresponderá, en los términos de la ley, tramitar el registro correspondiente en la Plataforma Digital Nacional, de las declaraciones patrimoniales, fiscales y de intereses que reciba de los servidores públicos en los casos que prevea la ley.
 
 ###### Artículo 86.
 
-La Entidad de Auditoría Superior del Estado tiene las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+La Auditoría Superior del Estado tiene las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 I. Fiscalizar los ingresos y egresos, el manejo, la custodia y la aplicación de recursos que ejerzan las entidades fiscalizadas.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 II. Realizar auditorías sobre el desempeño, emitiendo las recomendaciones correspondientes. Las entidades fiscalizadas deberán precisar las mejoras realizadas o, en su caso, justificar su improcedencia.
 
-III. Sin perjuicio del principio de anualidad, la auditoría superior podrá solicitar y revisar periodos anteriores, cuando el programa o proyecto contenidos en el presupuesto en revisión, abarque diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Revisar los procesos concluidos que las entidades fiscalizadas reporten en los informes de avance de gestión financiera. De igual manera, derivado de denuncias que presuman daño a la hacienda pública o al patrimonio de las entidades fiscalizadas, la auditoría superior podrá requerir a éstas procedan a la revisión, durante el ejercicio fiscal en curso, de los hechos motivo de la denuncia y le rindan un informe.
+III. Sin perjuicio del principio de anualidad, la Auditoría Superior del Estado podrá solicitar y revisar periodos anteriores, cuando el programa o proyecto contenidos en el presupuesto en revisión, abarque diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas.
 
-V. Entregar al Congreso del Estado los informes del resultado de la revisión de la Cuenta Pública, a más tardar el último día hábil del mes de julio del año de su presentación. Dentro de dichos informes se incluirán las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos públicos por parte de los entes fiscalizables, la verificación del desempeño en el cumplimiento de los objetivos de los programas y el relativo a las observaciones de la Entidad de Auditoría Superior del Estado.
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Entregar al Congreso del Estado, dentro de los primeros quince días de los meses de febrero y agosto de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas por la Entidad de Auditoria Superior.
+IV. Revisar los procesos concluidos que las entidades fiscalizadas reporten en los informes de avance de gestión financiera. De igual manera, derivado de denuncias que presuman daño a la hacienda pública o al patrimonio de las entidades fiscalizadas, la Auditoría Superior del Estado podrá requerir a éstas procedan a la revisión, durante el ejercicio fiscal en curso, de los hechos motivo de la denuncia y le rindan un informe.
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+V. Entregar al Congreso del Estado los informes del resultado de la revisión de la Cuenta Pública, a más tardar el último día hábil del mes de julio del año de su presentación. Dentro de dichos informes se incluirán las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos públicos por parte de los entes fiscalizables, la verificación del desempeño en el cumplimiento de los objetivos de los programas y el relativo a las observaciones de la Auditoría Superior del Estado.
+
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Entregar al Congreso del Estado, dentro de los primeros quince días de los meses de febrero y agosto de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas por la Auditoria Superior del Estado.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 VII. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, control, administración y aplicación de recursos públicos que ejerzan las entidades fiscalizadas.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 VIII. Efectuar visitas domiciliarias para exigir la exhibición de libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las entidades fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 IX. Determinar los daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades fiscalizadas, decretar las indemnizaciones y sanciones correspondientes, y en su caso, promover ante las autoridades competentes el establecimiento de otras responsabilidades.
 
@@ -1571,29 +1601,35 @@ Derivado de sus investigaciones y sin perjuicio de la competencia de la Auditor�
 
 XII. Las demás que le otorgue esta Constitución y las leyes.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 87.
 
-Los poderes del Estado y los sujetos de fiscalización están obligados a prestar la ayuda que requiera la Entidad de Auditoría Superior del Estado para el ejercicio de sus funciones; en caso de negarse se harán acreedores a las sanciones que establezca la ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+Los poderes del Estado y los sujetos de fiscalización están obligados a prestar la ayuda que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones; en caso de negarse se harán acreedores a las sanciones que establezca la ley.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 Asimismo, los servidores públicos del Estado y municipios, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que se les solicite.
 
-El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en los términos de la ley.
-
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
+El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en los términos de la ley.
 
 ###### Artículo 88.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-La persona titular de la Entidad de Auditoría Superior del Estado durará en su encargo siete años. Será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, y deberá cumplir con los siguientes requisitos:
+La persona titular de la Auditoría Superior del Estado durará en su encargo siete años. Será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, y deberá cumplir con los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
 I. Ser ciudadana mexicana o ciudadano mexicano en pleno ejercicio de sus derechos.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 II. Tener cuando menos treinta y cinco años cumplidos al día de su designación.
+
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
 
 III. Poseer título profesional de licenciatura y experiencia en materia de control, auditoría financiera y de responsabilidades de por lo menos cinco años al momento de la designación.
 
@@ -1601,9 +1637,15 @@ III. Poseer título profesional de licenciatura y experiencia en materia de cont
 
 IV. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo estatal, Fiscal General del Estado, Magistrada o Magistrado, Diputada o Diputado o titular de algún ente fiscalizable durante los dos años previos al de su designación.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 V. No haber sido dirigente de un partido político, durante los últimos seis años.
 
+> <small>(REFORMADA, P.O. 29 DE AGOSTO DE 2013)</small>
+
 VI. No haber sido condenado por delito doloso.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 Durante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados de docencia o en asociaciones científicas, artísticas o de beneficencia.
 
@@ -2573,9 +2615,9 @@ El Consejo General del Instituto, realizará la declaración de validez de la el
 
 Las determinaciones sobre las declaraciones de validez, el otorgamiento de las constancias de mayoría y la asignación de diputados y de los miembros de ayuntamientos podrán ser impugnadas ante el Tribunal Electoral, en los términos que señale la ley.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-El Instituto contará con un Órgano Interno de Control, que tendrá autonomía técnica y de gestión para la fiscalización de todos los ingresos y egresos del Instituto y mantendrá la coordinación técnica con la Entidad de Auditoría Superior del Estado.
+El Instituto contará con un Órgano Interno de Control, que tendrá autonomía técnica y de gestión para la fiscalización de todos los ingresos y egresos del Instituto y mantendrá la coordinación técnica con la Auditoría Superior del Estado.
 
 > <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2014)</small>
 
@@ -2989,15 +3031,15 @@ III. Los órganos de Control Interno de los Municipios, quienes concurrirán a t
 
 El Consejo Coordinador es la instancia responsable de establecer mecanismos de coordinación entre los integrantes del Sistema Local Anticorrupción, y tendrá bajo su encargo el diseño, promoción y evaluación de políticas públicas en materia de combate a la corrupción y tendrá las facultades que le señale la legislación aplicable.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
 Son integrantes del Consejo Coordinador:
 
 I. Un representante del Consejo de Participación Ciudadana, quien lo presidirá;
 
-> <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-II. La persona titular de la Entidad de Auditoría Superior del Estado;
+II. La persona titular de la Auditoría Superior del Estado;
 
 > <small>(REFORMADA, P.O. 24 DE MAYO DE 2022)</small>
 
@@ -3033,7 +3075,7 @@ Durarán en su encargo cinco años, sin posibilidad de reelección y serán reno
 
 #### Sección segunda. De la Cuenta Pública
 
-> <small>(REFORMADO, P.O. 26 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 164.
 
@@ -3101,7 +3143,7 @@ Al término del periodo constitucional de cada Ayuntamiento, sus presidentes mun
 
 ###### Artículo 170.
 
-La fiscalización superior es una facultad exclusiva del Congreso del Estado que se ejerce a través de la Entidad de Auditoria Superior del Estado que tiene por objeto evaluar el desempeño de la gestión gubernamental, comprendiéndose en el examen, el cumplimiento de los objetivos y metas de los planes y programas de gobierno y la conformidad y justificación de las erogaciones realizadas con las partidas autorizadas en los correspondientes presupuestos de egresos y los demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables.
+La fiscalización superior es una facultad exclusiva del Congreso del Estado que se ejerce a través de la Auditoria Superior del Estado que tiene por objeto evaluar el desempeño de la gestión gubernamental, comprendiéndose en el examen, el cumplimiento de los objetivos y metas de los planes y programas de gobierno y la conformidad y justificación de las erogaciones realizadas con las partidas autorizadas en los correspondientes presupuestos de egresos y los demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -3127,7 +3169,9 @@ V. La información general que permita el análisis de resultados.
 
 VI. Los resultados de la evaluación del desempeño de los programas ejercidos durante el periodo de que se trate, utilizando aquellos indicadores que permitan determinar el cumplimiento de las metas y objetivos de cada uno de ellos.
 
-Las cuentas públicas se entregarán a más tardar en el mes de febrero del año siguiente al del ejercicio fiscal anual que será objeto de fiscalización. Previamente, los entes obligados deberán entregar a la Entidad de Auditoría Superior del Estado, informes mensuales preliminares del avance de la gestión financiera y el desempeño gubernamental, en los términos que disponga la ley.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+Las cuentas públicas se entregarán a más tardar en el mes de febrero del año siguiente al del ejercicio fiscal anual que será objeto de fiscalización. Previamente, los entes obligados deberán entregar a la Auditoría Superior del Estado, informes mensuales preliminares del avance de la gestión financiera y el desempeño gubernamental, en los términos que disponga la ley.
 
 > <small>(ADICIONADO, P.O. 26 DE ENERO DE 2017)</small>
 
@@ -3169,15 +3213,17 @@ Los entes públicos estatales y municipales, tendrán órganos internos de contr
 
 En el cumplimiento de sus obligaciones, las autoridades responsables de la investigación y sanción de las responsabilidades administrativas y hechos de corrupción no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro o inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-Las faltas administrativas graves serán investigadas y sustanciadas por la Entidad de Auditoría Superior del Estado y los órganos internos de control, según corresponda y serán resueltas por el Tribunal de Justicia Administrativa.
+Las faltas administrativas graves serán investigadas y sustanciadas por la Auditoría Superior del Estado y los órganos internos de control, según corresponda y serán resueltas por el Tribunal de Justicia Administrativa.
 
 La ley establecerá los supuestos y procedimientos para la (sic) impugnar la determinación judicial con relación a los delitos derivados de las faltas administrativas graves en materia de corrupción y enriquecimiento inexplicable.
 
 La Ley señalara los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencias de los actos y omisiones y cuando sean graves, los plazos de prescripción no serán inferiores a siete años.
 
-Para la investigación, substanciación y sanción de las responsabilidades administrativas de los integrantes del Poder Judicial del Estado conocerá el Consejo de la Judicatura, sin perjuicio de las atribuciones de la Entidad de Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, así como las facultades del Congreso en materia de responsabilidades.
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los integrantes del Poder Judicial del Estado conocerá el Consejo de la Judicatura, sin perjuicio de las atribuciones de la Auditoría Superior del Estado, en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos, así como las facultades del Congreso en materia de responsabilidades.
 
 > <small>(ADICIONADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -4774,3 +4820,11 @@ P.O. 23 DE JUNIO DE 2024.
 PRIMERO.- El presente decreto entrará en vigor en día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 585 QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, RESPECTO AL ENTE ESTATAL DE FISCALIZACIÓN”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
