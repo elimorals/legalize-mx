@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-regular-los-servicios-privados-de-seguridad-en-el-5896
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-08"
-last_updated: "2021-07-14"
+last_updated: "2024-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA REGULAR LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2021.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 8 de noviembre de 2007.
 
@@ -59,9 +59,9 @@ DISPOSICIONES GENERALES.
 
 3. Para los efectos de esta ley, los prestadores de servicios privados de seguridad son auxiliares de las autoridades e instituciones de seguridad pública, ya sean del orden federal, estatal o municipal.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-4. Los particulares que se dediquen a estos servicios, así como el personal que preste dichos servicios, se regirán en lo conducente por las normas previstas en la Ley de Seguridad, en la Ley de Coordinación y demás aplicables que se prevén para las instituciones de seguridad pública; asimismo, les resulta obligatoria la observancia de los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, la de proporcionar la información estadística y sobre la delincuencia al Sistema Estatal de Información.
+4. Los particulares que se dediquen a estos servicios, así como el personal que preste dichos servicios, se regirán en lo conducente por las normas previstas en la Ley de Seguridad, en la Ley de Coordinación y demás aplicables que se prevén para las instituciones de seguridad pública; asimismo, les resulta obligatoria la observancia de los principios de actuación y desempeño y la obligación de aportar los datos para el registro de su personal y equipo y, en general, la de proporcionar la información estadística y sobre la delincuencia al Centro Estatal de Información.
 
 ###### ARTÍCULO 2.
 
@@ -219,7 +219,9 @@ g) Contar con el manual de operaciones del personal operativo;
 
 h) Expresar el domicilio en donde se asentarán sus instalaciones y, en su caso, también de las sucursales que se encuentren en el Estado;
 
-i) Presentar la relación del personal operativo propuesto, que contenga nombre, domicilio, fotografía a colores de frente y perfil, así como sus huellas digitales, constancia de no antecedentes penales, tipo y grupo sanguíneo. Dicho personal operativo deberá de satisfacer los requisitos previstos en el artículo 35 de la presente ley;
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+i) Presentar la relación del personal operativo propuesto, que contenga nombre, domicilio, fotografía a colores de frente y perfil, así como sus huellas digitales, constancia de no antecedentes penales, trámite o resultado de evaluaciones de control y confianza el cual incluye tipo y grupo sanguíneo. Dicho personal operativo deberá de satisfacer los requisitos previstos en el artículo 35 de la presente ley;
 
 j) Presentar relación del equipo de protección personal que se utilizará en el servicio, proporcionando las características específicas del mismo;
 
@@ -463,9 +465,17 @@ i) No hacer uso de sustancias psicotrópicas, estupefacientes u otras que produz
 
 j) No tener impedimento físico o mental para realizar las actividades del puesto a desarrollar;
 
-k) No ser activo de alguna corporación de seguridad pública; y
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-l) Contar con la preparación y conocimientos suficientes.
+k) Acreditar las evaluaciones de control de confianza;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+l) No ser activo de alguna corporación de seguridad pública; y
+
+> <small>(REFORMADA [N. DE E. REUBICADO], P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+m) Contar con la preparación y conocimientos suficientes.
 
 2. Estos requisitos serán exigibles a las personas que presten el servicio de seguridad y protección personal.
 
@@ -473,9 +483,9 @@ l) Contar con la preparación y conocimientos suficientes.
 
 4. Los requisitos previstos en el párrafo 1 de este artículo no serán obligatorios para los trabajadores que exclusivamente realicen labores de tipo administrativo para el prestador de servicios privados de seguridad.
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-5. Independientemente de lo anterior, los prestadores del servicio deberán acreditar las evaluaciones del control de confianza en términos de la Ley de Coordinación.
+5. La acreditación de las evaluaciones de control de confianza del personal operativo será en términos de la Ley de Coordinación.
 
 ###### ARTÍCULO 36.
 
@@ -491,15 +501,15 @@ III. La modificación a los permisos, autorizaciones o licencias que se hayan ex
 
 IV. Los cambios de domicilio, apertura de nuevos establecimientos, así como las modificaciones a las insignias, aditamentos, uniformes y gafetes o credenciales;
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-b) Informar a la Secretaría, dentro de los primeros cinco días hábiles de cada mes, las altas del personal operativo, así como cualquier tipo de sanción o suspensión en el servicio con motivo de algún incumplimiento a los principios de actuación y desempeño que establece la Ley de Seguridad. Asimismo, informará de las bajas, señalando los motivos que ocasionaron éstas. De todo lo anterior informara debidamente al Registro Nacional de Personal de Seguridad Pública;
+b) Informar a la Secretaría, dentro de los primeros cinco días hábiles de cada mes, las altas del personal operativo, así como cualquier tipo de sanción o suspensión en el servicio con motivo de algún incumplimiento a los principios de actuación y desempeño que establece la Ley de Seguridad. Asimismo, informará de las bajas, señalando los motivos que ocasionaron éstas. De todo lo anterior informará debidamente al Registro Nacional de Personal de Seguridad Pública y al Centro Estatal de Evaluación y Control de Confianza;
 
 c) Inscribir al personal operativo al régimen obligatorio del Instituto Mexicano del Seguro Social;
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-d) Solicitar a la Secretaría la autorización de las altas y bajas del equipo, en su caso, los aditamentos de protección que pretenda utilizar en la prestación del servicio, proporcionando sus características principales, incluso de aquellos que requieran de permisos, autorizaciones o licencias, cuyo otorgamiento sea competencia de otra autoridad. Asimismo, dará cuenta de ello al Sistema Estatal de Información;
+d) Solicitar a la Secretaría la autorización de las altas y bajas del equipo, en su caso, los aditamentos de protección que pretenda utilizar en la prestación del servicio, proporcionando sus características principales, incluso de aquellos que requieran de permisos, autorizaciones o licencias, cuyo otorgamiento sea competencia de otra autoridad. Asimismo, dará cuenta de ello al Centro Estatal de Información;
 
 e) La descripción de las armas de fuego asignadas a cada elemento operativo, dentro de los cinco días hábiles de efectuada la asignación, en su caso;
 
@@ -527,9 +537,9 @@ i) Responder solidariamente de los daños y perjuicios que cause su personal al 
 
 j) Hacer constar el número de autorización y registro en su papelería, documentación, publicidad, gafetes o credenciales;
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-k) Informar al Sistema de Información, las altas, bajas e incidencias del personal autorizado para prestar los servicios privados de seguridad dentro del término de cinco días naturales siguientes;
+k) Informar al Centro Estatal de Información, las altas, bajas e incidencias del personal autorizado para prestar los servicios privados de seguridad dentro del término de cinco días naturales siguientes;
 
 l) Notificar a la Secretaría el cambio del jefe de operación, dentro de los tres días naturales siguientes a que esto ocurra;
 
@@ -537,9 +547,17 @@ l) Notificar a la Secretaría el cambio del jefe de operación, dentro de los tr
 
 m) Capacitar debidamente a toda persona que se pretenda incorporar como personal operativo, previamente a la realización de las funciones que le sean asignadas, debiendo acreditar las evaluaciones en términos de la Ley de Coordinación;
 
-n) Capacitar permanentemente al personal operativo y jefe o jefes de operación, con base en los programas señalados en el inciso q) del párrafo 1 del artículo 10 de esta ley; y
+> <small>(ADICIONADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-o) En general, cumplir todas y cada una de las obligaciones que señale la autorización correspondiente, la Ley de Seguridad y la presente ley.
+n) Someter a todo su personal operativo a los procedimientos de evaluación de control de confianza;
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+o) Capacitar permanentemente al personal operativo y jefe o jefes de operación, con base en los programas señalados en el inciso q) del párrafo 1 del artículo 10 de esta ley; y
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+p) En general, cumplir todas y cada una de las obligaciones que señale la autorización correspondiente, la Ley de Seguridad y la presente ley.
 
 2. Una vez satisfecho lo establecido en los incisos g) y k) del párrafo 1 del presente artículo, la Secretaría, por el conducto idóneo, deberá entregar al prestador la Clave Única de Identificación Policial.
 
@@ -757,7 +775,9 @@ a) Reincida en cualquiera de los casos señalados en el artículo anterior;
 
 b) Se altere la documentación que contenga la autorización y registro concedidos;
 
-c) Se incumpla lo dispuesto en los artículos 20, 26, 36, párrafo 1, inciso a), fracciones i y iv, b), d), g), j), y l), 37, 38, 45 párrafos 1 inciso b), c), d), e), h) y j) y 2, y 46 de esta ley; o
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+c) Se incumpla lo dispuesto en los artículos 20, 26, 36, párrafo 1, inciso a), fracciones I y IV, b), d), g), j), l) y n) 37, 38, 45 párrafos 1 inciso b), c), d), e), h) y j) y 2, y 46 de esta ley; o
 
 d) Cuando una persona física o moral preste servicios de seguridad privada sin contar con la autorización y registro correspondiente.
 
@@ -1176,3 +1196,19 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 65-904 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA REGULAR LOS SERVICIOS PRIVADOS DE SEGURIDAD EN EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberán adecuarse los reglamentos y demás normatividad aplicable.
+
+###### ARTÍCULO TERCERO.
+
+Las empresas o particulares que prestan servicios privados de seguridad, en un plazo no mayor a ciento veinte días naturales contados a partir de la entrada en vigor del presente Decreto, deberán acreditar a todo el personal operativo.
