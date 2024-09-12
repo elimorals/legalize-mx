@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-a-los-animales-para-el-estado-de-sonora-13207
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-03"
-last_updated: "2023-03-02"
+last_updated: "2024-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY DE PROTECCION A LOS ANIMALES PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 12 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE SEPTIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Número 45 Sección II del Boletín Oficial del Estado de Sonora, el lunes 3 de diciembre de 2018.
 
@@ -702,3 +704,53 @@ B.O. 2 DE MARZO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 12 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL LA "LEY NÚMERO 02, DE PROTECCIÓN (SIC) BIENESTAR ANIMAL PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Protección a los Animales del Estado de Sonora publicada en el Boletín Oficial del Gobierno del Estado el 03 de diciembre de 2018.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo dispuesto en esta ley y sus reglamentos.
+
+###### ARTÍCULO CUARTO.
+
+Las dependencias y entidades facultadas en esta ley, expedirán las normas y reglamentos correspondientes, dentro de los seis meses posteriores a la entrada en vigor de la presente ley.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo del Gobierno del Estado de Sonora difundirá por los medios más apropiados el contenido y espíritu de la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+Se otorga a los municipios un plazo de doce meses contados a partir de la entrada en vigor de la presente ley para realizar las adecuaciones a sus normativas correspondientes.
+
+En cuanto a la creación y operación del Centro, los municipios atenderán a su suficiencia presupuestaria.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los establecimientos dedicados a la celebración de espectáculos públicos o privados, incluyendo los espectáculos a domicilio, fijos o itinerantes, con cualquier especie de mamíferos marinos, así como el uso y el (sic) de mamíferos marinos con fines económicos de manejo, adiestramiento, y entretenimiento, contarán con un plazo de hasta doce meses después de la entrada en vigor del presente decreto para evaluar a los ejemplares y resguardarlos con base a la normatividad vigente que para tales efectos determine la Secretaría del Medio Ambiente y Recursos Naturales, o bien trasladarlos a santuarios que tengan manejo de mamíferos marinos, previo estudio de la reubicación de ejemplares, en cuyo caso se deberá evaluar el hábitat de destino y las condiciones de los ejemplares, en los términos señalados en la normatividad federal vigente.
+
+###### ARTÍCULO OCTAVO.
+
+La CEDES por conducto de la Dirección General, contará con un plazo de 180 días naturales para emitir la regulación del El Fondo para la Protección y Bienestar de los Animales, pudiendo establecerse dentro de su propio Reglamento Interior.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo del Estado de Sonora, deberá realizar las adecuaciones presupuestarias necesarias en el presupuesto de egresos vigente conforme a lo establecido en el presente decreto.
+
+###### ARTICULO DÉCIMO.
+
+Para efectos de la fracción I del artículo 16 del presente ordenamiento, la Fiscalía General de Justicia del Estado de Sonora, contará con un plazo no mayor a doce meses para establecer agencias que se especialicen en delitos contra los animales, por actos de maltrato o crueldad, realizando las adecuaciones presupuestales para tales efectos.
+
+###### ARTÍCULO DÉCIMO.
+
+Para efectos de la fracción I del artículo 16 del presente ordenamiento, la Fiscalía General de Justicia del Estado de Sonora, contará con un plazo no mayor a doce meses para establecer agencias que se especialicen en delitos contra los animales, por actos de maltrato o crueldad, realizando las adecuaciones presupuestales para tales efectos. (sic)
