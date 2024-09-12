@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fiscalizacion-superior-del-estado-de-durango-22984"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-30"
-last_updated: "2021-07-04"
+last_updated: "2024-09-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE DURANGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 591 POR EL QUE SE EXPIDE LA NUEVA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 12 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -1088,3 +1090,21 @@ P.O. 4 DE JULIO DE 2021.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO. En un plazo que no exceda de 30 días posteriores a la entrada en vigor del presente decreto, se deberán expedir las disposiciones y adecuaciones reglamentarias para dar cumplimiento al presente decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 591 POR EL QUE SE EXPIDE LA NUEVA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley de Fiscalización Superior del Estado de Durango, publicada en el Periódico Oficial No. 53 del Gobierno del Estado de Durango el 30 de diciembre de 2001 y sus reformas, conforme a lo dispuesto en los artículos transitorios subsecuentes y se derogan todas las disposiciones legales que contravengan o se opongan a la presente ley.
+
+TERCERO. Los procedimientos administrativos iniciados o que se encuentren en trámite o pendientes de resolución a la entrada en vigor de la presente ley, se resolverán hasta su conclusión definitiva, en términos de la Ley de Fiscalización Superior del Estado de Durango que se abroga, así como los que se deriven de las funciones de fiscalización y revisión hasta la Cuenta Pública del año 2023 en tanto no contravengan lo dispuesto en la Ley General de Responsabilidades Administrativas.
+
+CUARTO. La Entidad, deberá actualizar y, en su caso, publicar la normativa y lineamientos que conforme a sus atribuciones deba expedir, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente Ley, quedando sin efectos la normativa y lineamientos emitidos con fecha anterior a la promulgación de la presente ley.
+
+QUINTO. La Comisión deberá emitir la reglamentación interior de la Unidad Técnica conforme a lo previsto en esta Ley, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor de la presente ley.
+
+SEXTO. Los nombramientos del Auditor o Auditora Superior, de los auditores generales y de la persona titular de la Unidad Técnica, otorgados con las disposiciones de la ley que se abroga, mantendrán la vigencia para el periodo por el cual fueron designados, con excepción del auditor general A, cuya propuesta deberá efectuarse por parte del Auditor o Auditora Superior, en los términos de la presente ley.
+
+SÉPTIMO. Hasta en tanto se cuente con la firma electrónica y se encuentre implementada, los acuerdos o convenios entre la Auditoría y los entes fiscalizables, suplirán la falta de la firma y dispondrán la manera de garantizar la integridad de los documentos y datos, así como la sustitución de la firma autógrafa.
