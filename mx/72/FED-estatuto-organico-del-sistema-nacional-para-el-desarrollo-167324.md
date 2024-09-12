@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-16732
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-08-10"
-last_updated: "2023-08-10"
+last_updated: "2024-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,11 @@ issue_date: "2023-07-10"
 
 Información obtenida de la página electrónica del Diario Oficial de la Federación: www.dof.gob.mx/2023/DIF/EstatutoSNDIF.pdf
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE SEPTIEMBRE DE 2024 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA 2023
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 12 DE SEPTIEMBRE DE 2024.]</small>
 
 Estatuto publicado en el Diario Oficial de la Federación, el jueves 10 de agosto de 2023.
 
@@ -705,7 +705,9 @@ XXXI. Expedir copias certificadas de los documentos que obren en sus archivos, p
 
 XXXII. Solicitar el auxilio de las instituciones policiales competentes, para la imposición de las medidas urgentes de protección, así como de las autoridades de los tres órdenes de gobierno, para el desempeño de sus funciones;
 
-XXXIII. Dirigir la coordinación de la Red Nacional de DIFusores de los Derechos de Niñas, Niños y Adolescentes a nivel Federal y en las entidades federativas;
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 2024)</small>
+
+XXXIII. Dirigir la coordinación de la Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes a nivel Federal y en las entidades federativas;
 
 XXXIV. Delegar alguna de las facultades a que se refiere el presente artículo a las personas servidoras públicas titulares de las unidades administrativas que le estén adscritas;
 
@@ -1223,7 +1225,9 @@ VI. Elaborar las propuestas de Normas Oficiales Mexicanas referentes a los derec
 
 VII. Dirigir acciones de promoción y difusión de los derechos de las niñas, niños y adolescentes;
 
-VIII. Promover la Red Nacional de DIFusores de los Derechos de Niñas, Niños y Adolescentes a nivel Federal y en las entidades federativas, así como llevar a cabo acciones en materia de participación infantil con dicha Red; y
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Promover la Red Nacional de Impulsores de la Transformación de los Derechos de Niñas, Niños y Adolescentes a nivel Federal y en las entidades federativas, así como llevar a cabo acciones en materia de participación infantil con dicha Red; y
 
 IX. Las demás que le confiera la Procuradora o Procurador Federal de Protección de Niñas, Niños y Adolescentes, así como las que le señalen el presente Estatuto y las demás disposiciones normativas aplicables.
 
