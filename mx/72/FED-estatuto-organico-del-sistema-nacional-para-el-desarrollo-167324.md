@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-sistema-nacional-para-el-desarrollo-16732
 country: "mx"
 rank: "estatuto"
 publication_date: "2023-08-10"
-last_updated: "2023-08-10"
+last_updated: "2024-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167324&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,79 +19,13 @@ issue_date: "2023-07-10"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
 
-Información obtenida de la página electrónica del Diario Oficial de la Federación: www.dof.gob.mx/2023/DIF/EstatutoSNDIF.pdf
+LEY DE INGRESOS DEL MUNICIPIO DE FRONTERA, COAHUILA DE ZARAGOZA, PARA EL EJERCICIO FISCAL 2025
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 12 DE SEPTIEMBRE DE 2024 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2025.
 
-ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA 2023
+Ley publicada en la Quinta Sección del número 101 del Periódico Oficial del Estado de Coahuila, el martes 17 de diciembre de 2024.
 
-TEXTO ORIGINAL.
-
-Estatuto publicado en el Diario Oficial de la Federación, el jueves 10 de agosto de 2023.
-
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- SALUD.- Secretaría de Salud.- Sistema Nacional para el Desarrollo Integral de la Familia.
-
-EXTRACTO DEL ACUERDO POR EL QUE EXPIDE EL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
-
-NURIA MARÍA FERNÁNDEZ ESPRESATE, Titular del Sistema Nacional para el Desarrollo Integral de la Familia, con fundamento en lo establecido por los artículos 10, fracciones IX, XV y XVII del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado el cinco de diciembre de dos mil diecinueve; tengo a bien expedir el siguiente ACUERDO, mismo que tiene como propósito regular la organización, funcionamiento y fortalecimiento de atribuciones de las unidades administrativas de este Organismo en cumplimiento a los principios de progresividad del derecho humano, a la educación y de seguridad jurídica, asimismo, derivado de las acciones que, en materia de atención, protección y garantía de derechos de niñas, niños y adolescentes en contexto de movilidad humana, se ha detectado la necesidad de ampliar las facultades de la persona Titular del Sistema Nacional para el Desarrollo Integral de la Familia, resultando imperativo modificar la adscripción de algunas Direcciones Generales y establecer atribuciones en materia de igualdad de género.
-
-Por lo que, en la Segunda Sesión Ordinaria de la Junta de Gobierno del Sistema Nacional para el Desarrollo Integral de la Familia, celebrada el 14 de junio de 2023, mediante Acuerdo 07/ORD.02/2023 y de conformidad con los artículos 58, fracción VIII de la Ley Federal de las Entidades Paraestatales; 33, inciso c) de la Ley de Asistencia Social; y 7, fracción III del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, aprueba las actuales modificaciones al Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia.
-
-La versión íntegra; está disponible en la siguiente dirección electrónica:
-
-http://sitios.dif.gob.mx/normateca/wp-content/uploads/2023/07/Reforma%20EOSNDIF%202023%20UVOCR%20100723.pdf
-
-Página DOF:
-
-www.dof.gob.mx/2023/DIF/EstatutoSNDIF.pdf
-
-Lo anterior en cumplimiento a la normatividad antes mencionada, así como al artículo 4° de la Ley Federal de Procedimiento Administrativo, en relación con el último párrafo del artículo segundo del “ACUERDO que modifica al diverso por el que se instruye a las dependencias y entidades de la Administración Pública Federal, así como a la Procuraduría General de la República a abstenerse de emitir regulación en las materias que se indican”, publicado el 21 de agosto de 2012; y artículos 2° y 3°, fracción III, de la Ley del Diario Oficial de la Federación y Gacetas Gubernamentales.
-
-Ciudad de México, a 10 de julio de 2023.- La Titular del Sistema Nacional para el Desarrollo Integral de la Familia, Nuria María Fernández Espresate.- Rúbrica.
-
-ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA 2023
-
-Emitió y Expidió
-
-Nuria María Fernández Espresate
-
-Titular del Sistema Nacional para el Desarrollo Integral de la Familia
-
-Propuso y Validó
-
-David Velázquez Velázquez
-
-Jefe de la Unidad de Administración y Finanzas
-
-Validó
-
-Hilda Marina Concha Viloria
-
-Directora General de Programación, Organización y Presupuesto
-
-Revisó
-
-Alejandro Cárdenas Camacho
-
-Director General de Asuntos Jurídicos
-
-Aprobado en la Segunda Sesión Ordinaria de la Junta de Gobierno del Sistema Nacional para el Desarrollo Integral de la Familia de 2023
-
-ACUERDO POR EL QUE EXPIDE EL ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
-
-NURIA MARÍA FERNÁNDEZ ESPRESATE, Titular del Sistema Nacional para el Desarrollo Integral de la Familia, con fundamento en lo establecido por los artículos 10, fracciones IX, XV Y XVII del Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, publicado el cinco de diciembre de dos mil diecinueve y 4° de la Ley Federal de Procedimiento Administrativo, y:
-
-CONSIDERANDO
-
-[…]
-
-Por lo que he tenido a bien expedir el siguiente:
-
-ACUERDO
-
-ÚNICO.- Se expide el Estatuto Orgánico del Sistema Nacional para el Desarrollo Integral de la Familia, para quedar como sigue:
-
-ESTATUTO ORGÁNICO DEL SISTEMA NACIONAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ### CAPÍTULO I DE LAS DISPOSICIONES GENERALES DE LA COMPETENCIA Y LA ORGANIZACIÓN DEL ORGANISMO
 
@@ -799,13 +733,49 @@ Las personas servidoras públicas a que se refiere el artículo anterior, en el 
 
 #### SECCIÓN PRIMERA. DE LAS DISPOSICIONES COMUNES
 
-###### Artículo 23.
+###### ARTÍCULO 23.
 
-Al frente de cada Dirección General habrá una Directora o Director General, propuesto por la persona Titular del Organismo y ratificado por la Junta de Gobierno, salvo lo dispuesto en el párrafo siguiente.
+Con base en la Ley General de Protección Civil, en la Ley de Protección Civil para el Estado de Coahuila de Zaragoza, son objeto de estos derechos, los servicios prestados por las autoridades municipales por concepto de servicios de ecología y control ambiental y las cuotas serán las siguientes:
 
-En el caso de la persona Titular de la Dirección General de Asuntos Jurídicos, conforme a lo previsto en artículo 43, fracción VII, de la Ley Orgánica de la Administración Pública Federal, el nombramiento y remoción se harán por la persona Titular de la Consejería Jurídica del Ejecutivo Federal, atendiendo a los Lineamientos que para tal efecto se expidan y se formalizará la presentación de la persona servidora pública ante la Junta de Gobierno.
+I.- Licencia para aguas residuales de las empresas de alcantarillado municipal a $ 1,573.00 anual.
 
-En el desempeño de sus funciones, las personas Titulares de las Direcciones Generales serán auxiliadas por las personas servidoras públicas adscritas a las Direcciones, Subdirecciones, Jefaturas de Departamento y por el demás personal que sea necesario y que les esté adscrito, conforme a la estructura orgánica vigente.
+II.- Otorgamiento de permisos para el uso de aguas residuales urbanas o industriales, para fincas industriales o agropecuarias a $1,136.00 anual.
+
+III.- Por servicio de revisión anticontaminante vehicular $ 126.00 por semestre. Conforme al Artículo 119 BIS, segundo párrafo, de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza, esta contribución solo podrá cobrarse en las unidades automotrices y vehículos inscritos en su municipio y siempre y cuando demuestre que se cuenta con los recursos técnicos y humanos establecidos en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza.
+
+Estableciendo una cuota de $86.00 para pensionados, discapacitados y personas de la tercera edad con su debida acreditación, de igual manera una cuota de $ 99.00 para servicios públicos, taxis y transporte escolar durante el primer mes de verificación de cada semestre (enero - julio). Para las empresas del municipio con plantilla a partir de 10 unidades, un incentivo del 30% en el primer mes de cada periodo de verificación (enero - julio), 20% en el segundo mes de cada periodo de verificación (febrero - agosto) y 10% en el tercer mes de cada periodo de verificación (marzo - septiembre).
+
+IV.- Por la expedición de Licencia de Funcionamiento para las industrias y comercios conforme al Reglamento Municipal, Código Municipal del Estado de Coahuila de Zaragoza, Código Financiero para los Municipios del Estado de Coahuila de Zaragoza y Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Coahuila de Zaragoza.
+
+1.- De $660.00 Microempresas, de $941.00 para Empresas Medianas, de $1,582.00 para Macro empresas
+
+2.- Para la tipificación del tamaño de las empresas se utilizarán los criterios que señale la Dependencia Federal competente.
+
+V.- Por la expedición de Licencia de Funcionamiento de las centrales productoras de energía termoeléctrica, térmica solar, hidroeléctrica, eólica, fotovoltaica, aerogeneradores, etc., así como de las edificaciones para la extracción del gas de lutitas o gas shale, gas natural y gas no asociado y los pozos para la extracción de cualquier hidrocarburo, se cobrará anualmente la siguiente tarifa:
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 130/2025, DECLARÓ LA INVALIDEZ DEL NUMERAL 1 DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+1.- EDIFICACIÓN PARA LA EXTRACCIÓN DE GAS DE LUTITAS O GAS SHALE $39,902.00 POR UNIDAD.
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 130/2025, DECLARÓ LA INVALIDEZ DEL NUMERAL 2 DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+2.- EDIFICACIÓN PRODUCTORA DE ENERGÍA TERMOELÉCTRICA, TÉRMICA SOLAR, HIDROELÉCTRICA, EÓLICA, FOTOVOLTAICA, AEROGENERADOR, ETC., $39,902.00 POR UNIDAD.
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 130/2025, DECLARÓ LA INVALIDEZ DEL NUMERAL 3 DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+3.- EDIFICACIÓN PARA LA EXTRACCIÓN DE GAS NATURAL $ 38,475.00 POR UNIDAD.
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 130/2025, DECLARÓ LA INVALIDEZ DEL NUMERAL 4 DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+4.- EDIFICACIÓN PARA LA EXTRACCIÓN DE GAS NO ASOCIADO $ 38,475.00 POR UNIDAD.
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 130/2025, DECLARÓ LA INVALIDEZ DEL NUMERAL 5 DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+5.- POR PERFORACIÓN EN POZOS VERTICALES Y DIRECCIONALES EN EL ÁREA ESPECÍFICA A YACIMIENTOS CONVENCIONALES (ROCA RESERVORIO) EN TRAMPAS ESTRUCTURALES EN EL QUE SE ENCUENTRE EL HIDROCARBURO $ 38,475.00 POR POZO.
+
+(NOTA: EL 17 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 130/2025, DECLARÓ LA INVALIDEZ DEL NUMERAL 6 DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 19 DE SEPTIEMBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+6.- POR PERFORACIÓN DE POZO PARA LA EXTRACCIÓN DE CUALQUIER HIDROCARBURO $ 38,475.00 POR POZO.
 
 ###### Artículo 24.
 
