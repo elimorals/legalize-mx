@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-proteccion-y-conservacion-de-arboles-urbanos-del-109135"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-21"
-last_updated: "2022-12-27"
+last_updated: "2024-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 21 de julio de 2015
 
@@ -179,9 +179,9 @@ XII. Participar, cuando sea necesario, en la atención de emergencias y continge
 
 XIII. Apoyar dentro del ámbito de sus competencias mediante incentivos económicos a las personas físicas o morales que cumplan con las disposiciones de esta Ley. Para lo anterior, en los reglamentos municipales de la materia se deberá (sic) determinar los requisitos y obligaciones que deberán cumplir las personas que pretendan recibirlos;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2024)</small>
 
-XIV. Promover y ejecutar campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes, y
+XIV. Promover y ejecutar campañas permanentes y progresivas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, usando las especies endémicas o más idóneas conforme a los estudios. Para efecto de lo anterior, podrán celebrar convenios de colaboración con los diferentes órdenes de gobierno, así como coordinar acciones con organizaciones de la sociedad civil, profesionistas, empresariales e instituciones educativas procurando además promover el cuidado y mantenimiento de las especies arbóreas para garantizar su pervivencia (sic), y
 
 XV. Las demás que conforme a la presente Ley, y el reglamento municipal les correspondan.
 
@@ -890,5 +890,13 @@ P.O. 27 DE DICIEMBRE DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0571.- SE REFORMAN LOS ARTÍCULOS 11 Y 44, ASÍ COMO LA DENOMINACIÓN DEL CAPÍTULO X; Y ADICIONA AL CAPÍTULO X LAS SECCIONES, PRIMERA “DEL PERITO DICTAMINADOR” Y LOS VIGENTES ARTÍCULOS 41, 42 Y 43, SEGUNDA “DEL DICTAMEN TÉCNICO” Y LOS ARTÍCULOS 44 REFORMADO, 44 BIS, 44 TER Y 44 QUÁTER, ASÍ MISMO EL ARTÍCULO 11 BIS, DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1113.- SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 10, DE LA LEY DE PROTECCIÓN Y CONSERVACIÓN DE ÁRBOLES URBANOS DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
