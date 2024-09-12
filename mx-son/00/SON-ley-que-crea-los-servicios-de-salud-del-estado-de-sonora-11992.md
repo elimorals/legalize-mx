@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-los-servicios-de-salud-del-estado-de-sonora-11992"
 country: "mx"
 rank: "ley"
 publication_date: "1997-03-10"
-last_updated: "2019-10-10"
+last_updated: "2024-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE CREA LOS SERVICIOS DE SALUD DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Sección II del Número 20 del Boletín Oficial del Estado de Sonora, el lunes 10 de marzo de 1997.
 
@@ -41,9 +41,11 @@ QUE CREA LOS SERVICIOS DE SALUD DE SONORA
 
 ### CAPITULO I. ORGANIZACION Y FUNCIONAMIENTO DEL ORGANISMO
 
+> <small>(REFORMADO, B.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 1o.
 
-Se crean los Servicios de Salud de Sonora, como un organismo público descentralizado de servicio, dotado de personalidad jurídica y patrimonio propios. Tendrá funciones de autoridad administrativa, en los términos establecidos en esta Ley.
+Se crean los Servicios de Salud de Sonora, como un organismo público descentralizado de servicio, dotado de personalidad jurídica y patrimonio propios. Tendrá funciones de autoridad sanitaria y administrativa, en los términos establecidos en esta ley.
 
 ###### ARTICULO 2o.
 
@@ -173,7 +175,9 @@ II.- Analizar y, en su caso, aprobar el calendario de sesiones ordinarias de la 
 
 III.- Convocar a sesiones extraordinarias cuando lo considere necesario;
 
-IV.- Autorizar las enajenaciones o gravámenes de los bienes del Organismo, salvo los que le transfiera el Gobierno Federal, en los términos del Acuerdo de Coordinación; y
+> <small>(REFORMADA, B.O. 12 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- Autorizar las enajenaciones o gravámenes de los bienes del Organismo; y
 
 V.- Las demás que le confieran este Ordenamiento, el Reglamento Interior y las demás disposiciones legales aplicables.
 
@@ -348,3 +352,11 @@ El presente decreto entrara en vigor al día siguiente de su publicación en el 
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo y los Ayuntamientos, deberán adecuar sus disposiciones reglamentarias a lo dispuesto en el presente Decreto, a más tardar, dentro de los ciento ochenta días naturales después de su entrada en vigor.
+
+B.O. 12 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 02, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY QUE CREA LOS SERVICIOS DE SALUD".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
