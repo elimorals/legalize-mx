@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-455-de-proteccion-civil-del-estado-de-guerrero-77439
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-19"
-last_updated: "2023-02-03"
+last_updated: "2024-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77439&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GRO"
 ---
 # LEY NUMERO 455 DE PROTECCION CIVIL DEL ESTADO DE GUERRERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY NÚMERO 861 DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO, PUBLICADA EN EL P.O. DE 13 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY NÚMERO 455 DE PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 19 de noviembre de 2010.
 
@@ -2038,3 +2040,25 @@ TERCERO. Que a partir de la entrada en vigor de la reforma, la Secretaría de Pr
 CUARTO. Remítase a la Titular del Ejecutivo del Estado, para los efectos de lo dispuesto por la fracción II, del artículo 91 de la Constitución Política del Estado Libre y Soberano de Guerrero, así como su publicación en el Periódico Oficial del Gobierno del Estado, para su conocimiento general y efectos conducentes.
 
 QUINTO. Publíquese en la página web del H. Congreso del Estado, para su conocimiento general y efectos conducentes.
+
+P.O. 13 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY NÚMERO 861 DE GESTIÓN INTEGRAL DE RIESGOS Y PROTECCIÓN CIVIL DEL ESTADO DE GUERRERO".]
+
+PRIMERO. La presente Ley entrará en vigor a los treinta días naturales posteriores a su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Se abroga la Ley Número 455 de Protección Civil del Estado de Guerrero publicada en el Periódico Oficial del Gobierno del Estado Número 93 de fecha 19 de noviembre de 2010.
+
+TERCERO. El Consejo Estatal a través de la Secretaría establecerá los lineamientos para la creación del Centro Estatal de Formación Especializada en Gestión Integral de Riesgos y Protección Civil; cuya operación estará sujeta a la disponibilidad presupuestaria que establezca en el Presupuesto de Egresos el Poder Ejecutivo del Estado.
+
+CUARTO. Las disposiciones reglamentarias y lineamientos que se deriven de la presente Ley, deberán expedirse en un término de ciento ochenta días hábiles, a partir de la entrada en vigor de la presente Ley.
+
+QUINTO. El Programa Estatal, los Programas Municipales, los Programas Especiales y los Atlas Estatal y Municipales de Riesgos deberán elaborarse y actualizarse en un término de ciento ochenta días hábiles, a partir de la entrada en vigor de la presente Ley.
+
+SEXTO. Los procedimientos iniciados, así como los demás asuntos que se encuentren en trámite o pendientes de resolución, se tramitarán y regularán conforme a las disposiciones vigentes al momento en que se iniciaron.
+
+SÉPTIMO. En un plazo de ciento ochenta días hábiles a partir de la entrada en vigor de esta Ley, los municipios en el ámbito de sus atribuciones y competencias, homologarán los criterios en sus disposiciones normativas en la materia a efecto de implementar de manera transversal la gestión integral de riesgos.
+
+OCTAVO. Remítase a la Titular del Poder Ejecutivo del Estado y a los Ayuntamientos Municipales, para su conocimiento y efectos legales correspondientes.
+
+NOVENO. Publíquese la presente Ley, en el Periódico Oficial del Gobierno del Estado, y en Gaceta Electrónica del Poder Legislativo, para conocimiento general y efectos legales procedentes.
