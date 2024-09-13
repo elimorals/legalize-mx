@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-transporte-y-vialidad-del-estado-de-guerrero-5195"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2024-07-16"
+last_updated: "2024-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de junio de 1989.
 
@@ -43,9 +43,11 @@ LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO.
 
 El transporte vehicular de personas y bienes, y el uso de las vías públicas de jurisdicción estatal, son de interés social y de orden público y se regirán por esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 2o.
 
-El transporte vehicular de personas y bienes está sujeto a regímenes de autorización que esta Ley, y otros cuerpos legales, establece. En el caso del transporte como servicio público esos regímenes asegurarán la satisfacción oportuna, eficiente y equitativa de las necesidades colectivas, y una utilidad razonable para los transportistas; o bien la satisfacción de necesidades particulares sin perjuicio del interés colectivo.
+El transporte vehicular de personas y bienes está sujeto a regímenes de autorización que esta Ley, y otros cuerpos legales, establece. En el caso del transporte como servicio público esos regímenes asegurarán la satisfacción oportuna, eficiente y equitativa de las necesidades colectivas, y una utilidad razonable para las personas transportistas; o bien la satisfacción de necesidades particulares sin perjuicio del interés colectivo.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -71,31 +73,39 @@ VII. Organismos: Los organismos públicos descentralizados que se constituyan pa
 
 VIII. Paraderos: El lugar exclusivo para realizar obligatoriamente el ascenso y descenso de pasajeros de los Vehículos de Transporte Masivo sobre las Rutas Alimentadoras;
 
-IX. Ruta Alimentadora: La que moviliza pasajeros de las áreas periféricas y/o de baja densidad de y hacia los Paraderos, Terminales y Estaciones de la Ruta Troncal;
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-X. Ruta Complementaria: El Servicio de Transporte Público que se requiera integrar a un Corredor con la finalidad de darle viabilidad operativa;
+IX. Persona titular del Poder Ejecutivo: La Gobernadora o Gobernador Constitucional del estado de Guerrero;
 
-XI. Ruta Troncal: El Servicio Público de Transporte Masivo que es prestado en una vialidad con carriles específicos, preferentes o confinados total o parcialmente para el transporte público masivo;
+X. Ruta Alimentadora: La que moviliza pasajeros de las áreas periféricas y/o de baja densidad de y hacia los Paraderos, Terminales y Estaciones de la Ruta Troncal;
 
-XII. Servicio Público de Transporte: El servicio de transporte que se presta de manera regular y uniforme a un tercero, mediante el pago de tarifas autorizadas y mediante concesión o permiso. El servicio público de transporte puede ser de pasajeros, de bienes o mixto;
+XI. Ruta Complementaria: El Servicio de Transporte Público que se requiera integrar a un Corredor con la finalidad de darle viabilidad operativa;
 
-XIII. Servicio Público de Transporte Masivo de Pasajeros: El servicio de transporte que se presta como un Sistema Integral de Transporte en Vías Públicas específicas, preferentes o confinadas, con Vehículos de Transporte Masivo y con tecnologías para su control, operación y cobro de tarifas, así como en su caso, en las Rutas Alimentadoras y Complementarias que permitan su adecuada operación;
+XII. Ruta Troncal: El Servicio Público de Transporte Masivo que es prestado en una vialidad con carriles específicos, preferentes o confinados total o parcialmente para el transporte público masivo;
 
-XIV. Servicio de Transporte Privado o Particular: El servicio de transporte que se presta para satisfacer necesidades del permisionario conexas a su actividad y sin estipendio por concepto de pasaje o flete. Para efectuar este tipo de transporte se requiere de permiso;
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-XV. Sistema de Despacho: El sistema que controla las frecuencias de paso y/o operación regulada de manera exclusiva en una vialidad con carriles preferentes o total o parcialmente confinados para el Servicio de Transporte Público Masivo;
+XIII. Secretaría General de Gobierno: Órgano encargado de conducir por delegación de la persona titular del Poder Ejecutivo, la política interna del estado de Guerrero, con atribuciones y competencia en materia de transporte.
 
-XVI. Sistema de Recaudo: El conjunto de bienes tangibles e intangibles incluyendo los mecanismos, procesos y procedimientos que permiten la identificación, captura, almacenamiento, comunicación, procesamiento y generación de informes de operación relativos al Servicio Público de Transporte Masivo; así como distribuir y vender la Tarjeta Multimodal, y recolectar el dinero por la tarifa que los usuarios pagan;
+XIV. Servicio Público de Transporte: El servicio de transporte que se presta de manera regular y uniforme a un tercero, mediante el pago de tarifas autorizadas y mediante concesión o permiso. El servicio público de transporte puede ser de pasajeros, de bienes o mixto;
 
-XVII. Terminales: Las estaciones ubicadas en el origen y destino de Corredor, cada uno de los Corredores que forman parte del Sistema Integral de Transporte Público Masivo;
+XV. Servicio Público de Transporte Masivo de Pasajeros: El servicio de transporte que se presta como un Sistema Integral de Transporte en Vías Públicas específicas, preferentes o confinadas, con Vehículos de Transporte Masivo y con tecnologías para su control, operación y cobro de tarifas, así como en su caso, en las Rutas Alimentadoras y Complementarias que permitan su adecuada operación;
 
-XVIII. Sistema Integral de Transporte Masivo: Comprende en su conjunto a todos y cada uno de los Corredores en donde se preste esta modalidad de servicio;
+XVI. Servicio de Transporte Privado o Particular: El servicio de transporte que se presta para satisfacer necesidades del permisionario conexas a su actividad y sin estipendio por concepto de pasaje o flete. Para efectuar este tipo de transporte se requiere de permiso;
 
-XIX. Vehículo: Todo mueble que mediante mecanismos de combustión interna, tracción animal o humana se destine a transitar por las vías públicas;
+XVII. Sistema de Despacho: El sistema que controla las frecuencias de paso y/o operación regulada de manera exclusiva en una vialidad con carriles preferentes o total o parcialmente confinados para el Servicio de Transporte Público Masivo;
 
-XX. Vehículos de Transporte Masivo: El vehículo automotor por medio de cual se presta el servicio público de transporte masivo ya sea en la Ruta Troncal, las Rutas Alimentadoras o en las Rutas Complementarias; y
+XVIII. Sistema de Recaudo: El conjunto de bienes tangibles e intangibles incluyendo los mecanismos, procesos y procedimientos que permiten la identificación, captura, almacenamiento, comunicación, procesamiento y generación de informes de operación relativos al Servicio Público de Transporte Masivo; así como distribuir y vender la Tarjeta Multimodal, y recolectar el dinero por la tarifa que los usuarios pagan;
 
-XXI. Vías Públicas: Las carreteras y caminos vecinales, calles, avenidas y toda área del dominio público y de uso común, destinados al tránsito de vehículos, que se encuentren dentro de los límites del Estado y que no sean de jurisdicción federal según la Ley de Vías Generales de Comunicación.
+XIX. Terminales: Las estaciones ubicadas en el origen y destino de Corredor, cada uno de los Corredores que forman parte del Sistema Integral de Transporte Público Masivo;
+
+XX. Sistema Integral de Transporte Masivo: Comprende en su conjunto a todos y cada uno de los Corredores en donde se preste esta modalidad de servicio;
+
+XXI. Vehículo: Todo mueble que mediante mecanismos de combustión interna, tracción animal o humana se destine a transitar por las vías públicas;
+
+XXII. Vehículos de Transporte Masivo: El vehículo automotor por medio de cual se presta el servicio público de transporte masivo ya sea en la Ruta Troncal, las Rutas Alimentadoras o en las Rutas Complementarias; y
+
+XXIII. Vías Públicas: Las carreteras y caminos vecinales, calles, avenidas y toda área del dominio público y de uso común, destinados al tránsito de vehículos, que se encuentren dentro de los límites del Estado y que no sean de jurisdicción federal según la Ley de Vías Generales de Comunicación.
 
 ###### ARTICULO 4o.
 
@@ -113,17 +123,15 @@ La prestación del servicio público de transporte de personas o bienes, corresp
 
 (DEROGADO, P.O. 26 DE NOVIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
-
-###### ARTICULO 7o
-
-BIS.- Sin perjuicio de las obligaciones que esta Ley establece a los concesionarios y permisionarios de los diversos servicios que se exploten dentro de las vías públicas de la Entidad, el Ejecutivo Estatal podrá autorizar al titular de la Comisión Técnica de Transporte y Vialidad para celebrar convenios con los concesionarios y permisionarios, a fin de coordinar las acciones de los mismos en la conservación y ampliación del Sistema Vial de la Entidad.
-
-Los organismos podrán celebrar dichos convenios, previa autorización de la Comisión Técnica de Transporte y Vialidad.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 7
 
-BIS.- Sin perjuicio de las obligaciones que esta Ley establece a los concesionarios y permisionarios de los diversos servicios que se exploten dentro de las vías públicas de la Entidad, el Ejecutivo podrá autorizar al Director de la Comisión Técnica de Transporte y Vialidad, para que celebre convenios con esos Concesionarios y Permisionarios, a fin de coordinar las acciones de los mismos en la conservación y ampliación del Sistema Vial de la Entidad.
+BIS.- Sin perjuicio de las obligaciones que esta Ley establece a las personas concesionarias y permisionarias de los diversos servicios que se exploten dentro de las vías públicas de la Entidad, la persona titular del Poder Ejecutivo podrá autorizar a la persona titular de la Comisión Técnica de Transporte y Vialidad para celebrar convenios con las personas concesionarias y permisionarias, a fin de coordinar las acciones de los mismos en la conservación y ampliación del Sistema Vial de la Entidad.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
+Los organismos podrán celebrar dichos convenios, previa autorización de la Comisión Técnica de Transporte y Vialidad.
 
 ### CAPITULO II. DE LAS AUTORIDADES DE TRANSPORTE Y VIALIDAD
 
@@ -133,33 +141,89 @@ BIS.- Sin perjuicio de las obligaciones que esta Ley establece a los concesionar
 
 Son autoridades en materia de transporte y vialidad:
 
-I. El Gobernador del Estado;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+I. La persona titular del Poder Ejecutivo;
 
-II. Jefe de la Oficina del Gobernador;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-III. El Secretario de Finanzas y Administración;
+II. La persona titular de la Secretaría General de Gobierno;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+III. La persona titular de la Secretaría de Finanzas y Administración;
 
 IV. El Consejo Técnico de Transporte y Vialidad;
 
-V. El Director General de la Comisión Técnica de Transporte y Vialidad;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Los Delegados Regionales;
+V. La persona titular de la Dirección General de la Comisión Técnica de Transporte y Vialidad;
 
-VII. Los Inspectores de Transporte y Vialidad; y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Director General de Tránsito, Caminos, Puertos y Aeropuertos del Estado.
+VI. Las delegadas o delegados Regionales;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Las inspectoras o inspectores de Transporte y Vialidad; y
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. La persona titular de la Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado.
 
 ###### ARTICULO 9o.
 
 Corresponde a las autoridades señaladas en el artículo anterior la aplicación de esta Ley, y sus disposiciones reglamentarias y las administrativas que para su mejor observancia expidan los órganos competentes y quienes podrán auxiliarse de la fuerza pública para su cumplimiento.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 9 BIS.– Son atribuciones de la persona titular del Poder Ejecutivo:
+
+I. Expedir y actualizar los Reglamentos de la presente Ley;
+
+II. Establecer políticas de transporte acordes con los principios y objetivos en materia de movilidad, desarrollo urbano y ordenamiento territorial que se emitan en el ámbito estatal;
+
+III. Aplicar las medidas necesarias para el cumplimiento de esta Ley y sus Reglamentos;
+
+IV. Intervenir el servicio público de transporte de acuerdo a lo que prevén los artículos 84 y 85 de esta Ley; y
+
+V. Las demás que le conceda la presente Ley y sus Reglamentos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 9 BIS 1.– Son atribuciones de la persona titular de la Secretaría General de Gobierno:
+
+I. Cumplir y hacer cumplir la presente Ley y sus Reglamentos;
+
+II. Otorgar, revocar o modificar las concesiones y permisos necesarios para la explotación de carreteras y vialidades de jurisdicción estatal, así como ejercer en su caso, el derecho de reversión;
+
+III. Regular la concesión y explotación del servicio público de transporte en las vialidades de jurisdicción estatal;
+
+IV. Reestructurar y autorizar, previo estudio, las tarifas del servicio público de transporte y servicios auxiliares, sujetos a permiso o concesión del gobierno del estado, conjuntamente con la Secretaría de Finanzas y Administración;
+
+V. Autorizar, previo estudio, los itinerarios, recorridos y horarios del servicio público de transporte y servicios auxiliares;
+
+VI. Actuar como autoridad en materia de transporte y cuidar el interés estatal de la misma;
+
+VII. Realizar las acciones necesarias requeridas para el cumplimiento de la presente Ley y sus Reglamentos e imponer las sanciones que correspondan;
+
+VIII. Realizar las tareas de ingeniería de transporte y de señalización de la vialidad en el Estado;
+
+IX. Celebrar para el debido cumplimiento de esta Ley y sus Reglamentos, convenios de coordinación y colaboración con dependencias y entidades de las administraciones federal, estatales y municipales, así como con instituciones educativas y del sector público, privado y social;
+
+X. Crear, operar, administrar, registrar, controlar, verificar y supervisar el Registro Estatal del Transporte;
+
+XI. Crear, operar, administrar, registrar, controlar, verificar y supervisar el Sistema de Control, Asignación y Vigilancia de los Servicios Auxiliares;
+
+XII. Coordinar y delegar a la Comisión Técnica de Transporte y Vialidad en cuanto a las facultades que le confiere la presente Ley; y
+
+XIII. Las demás que le otorgue la presente Ley, sus Reglamentos y demás disposiciones administrativas.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 10.
 
-La Comisión Técnica de Transporte y Vialidad es un órgano administrativo desconcentrado, jerárquicamente subordinado al Jefe de la Oficina del Gobernador, cuyo objeto será regular y conducir el servicio público de transporte que lleven a cabo los particulares y la vialidad de jurisdicción estatal.
+La Comisión Técnica de Transporte y Vialidad es un órgano administrativo desconcentrado, jerárquicamente subordinado a la persona titular de la Secretaría General de Gobierno, cuyo objeto será regular, inspeccionar y conducir el servicio público de transporte que lleven a cabo los particulares y la vialidad de jurisdicción estatal.
 
 ###### ARTICULO 11.
 
@@ -169,13 +233,11 @@ I. Ejercer las facultades que en materia de transporte y vialidad confiere la Le
 
 II. Establecer las normas técnicas y demás disposiciones que rijan la organización, funcionamiento y prestación del servicio público de transporte, y vigilar su cumplimiento;
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
-
-III. Otorgar y revocar concesiones, permisos y todo tipo de autorizaciones en materia de transporte que sean de la jurisdicción del Estado; así como otorgar y revocar las concesiones y contratos para el Sistema de Recaudo, Sistema de Despacho y/o Centro de Control.
+III. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2024)
 
 IV. Realizar visitas periódicas de inspección, auditoría técnica, vigilancia y supervisión tendientes a asegurar la prestación eficiente, oportuna y social del servicio público;
 
-V. Realizar los estudios técnicos para la fijación de las tarifas y su revisión, así como de todo tipo de cobro en los términos de la legislación aplicable;
+V. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2024)
 
 VI. Intervenir, en su esfera de competencia, en el uso de las facultades que las leyes confíen al Gobierno del Estado en materia de vialidad para la mejor prestación del servicio público de transporte;
 
@@ -193,9 +255,7 @@ X. Establecer Comités Consultivos de Transporte y Vialidad de carácter regiona
 
 XI. Imponer las sanciones que la presente Ley y sus disposiciones reglamentarias prevengan,
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
-
-XII. Llevar a cabo los procedimientos para el otorgamiento de concesiones o adjudicación de contratos para el equipamiento, operación y/o mantenimiento de los sistemas necesarios para la operación de los Corredores;
+XII. (DEROGADA, P.O. 13 DE SEPTIEMBRE DE 2024)
 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -217,37 +277,43 @@ XVI. Coadyuvar con los concesionarios y contratistas en la facilitación de trá
 
 XVII. Las demás que sean necesarias para el cumplimiento de su objeto.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 12.
 
-La Comisión Técnica de Transporte y Vialidad contará con un órgano de gobierno denominado Consejo Técnico, que estará integrado por:
+La Comisión Técnica de Transporte y Vialidad contará con un órgano de gobierno denominado Consejo Técnico, que estará integrado por las personas titulares de:
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-I. El Jefe de la Oficina del Gobernador, quien fungirá como Presidente;
+I. La Secretaría General de Gobierno, quien fungirá como presidenta o presidente;
 
-II. El Secretario de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+II. La Secretaría de Finanzas y Administración;
 
-III. El Secretario de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-IV. El Secretario de Desarrollo Social;
+III. La Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-V. El Secretario de Fomento y Desarrollo Económico; y
+IV. La Secretaría de Bienestar;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-VI. El Secretario de Agricultura, Ganadería, Pesca y Desarrollo Rural.
+V. La Secretaría de Fomento y Desarrollo Económico; y
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-VII. El Presidente del Consejo Estatal Consultivo de Transporte y Vialidad, quien tendrá derecho a voz y voto, y un vocal del Consejo Consultivo, con derecho a voz, este último deberá asignarse dependiendo los temas a tratar por el Consejo Técnico y que sean competencia de la Región Económica que representa.
+VI. La Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural, y
 
-El Director General de la Comisión Técnica de Transporte y Vialidad será nombrado y removido por el Titular del Poder Ejecutivo, mismo que podrá participar en las sesiones del Consejo con voz pero sin voto.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VII. La presidencia del Consejo Estatal Consultivo de Transporte y Vialidad, quien tendrá derecho a voz y voto, y una vocalía del Consejo Consultivo, con derecho a voz, esta última deberá asignarse dependiendo los temas a tratar por el Consejo Técnico y que sean competencia de la Región Económica que representa.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Dirección General de la Comisión Técnica de Transporte y Vialidad será nombrada y removida por la persona titular del Poder Ejecutivo, misma que podrá participar en las sesiones del Consejo con voz pero sin voto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -279,35 +345,35 @@ VII. Otorgar al Director General de la Comisión Técnica de Transporte y Vialid
 
 VIII. Las demás que sean necesarias para el ejercicio de las facultades de la Comisión Técnica de Transporte y Vialidad.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 14.
 
-El Director General conducirá las labores operativas de la Comisión Técnica de Transporte y Vialidad y actuará como su representante legal con las limitaciones, modalidades y facultades que le fije el Consejo Técnico; procurando el óptimo aprovechamiento y ejecutar los acuerdos del Consejo Técnico; con facultades para comparecer ante toda clase de autoridades federales, estatales, municipales, administrativas, judiciales, civiles, penales, militares, Juntas Federales y Locales de Conciliación y Arbitraje, Tribunal Estatal de Conciliación y Arbitraje, Tribunal de Justicia Administrativa, Instituto Mexicano del Seguro Social, Secretaría de Hacienda y Crédito Público, Servicio de Administración Tributaria, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, instituciones estatales de seguridad social, instituciones bancarias, así como ante cualquier clase de personas físicas y jurídicas; esta facultad la podrá delegar a favor de terceras personas.
+La persona titular de la Dirección General conducirá las labores operativas de la Comisión Técnica de Transporte y Vialidad y actuará como su representante legal con las limitaciones, modalidades y facultades que le fije el Consejo Técnico; procurando el óptimo aprovechamiento y ejecutar los acuerdos del Consejo Técnico; con facultades para comparecer ante toda clase de autoridades federales, estatales, municipales, administrativas, judiciales, civiles, penales, militares, Juntas Federales y Locales de Conciliación y Arbitraje, Tribunal Estatal de Conciliación y Arbitraje, Tribunal de Justicia Administrativa, Instituto Mexicano del Seguro Social, Secretaría de Hacienda y Crédito Público, Servicio de Administración Tributaria, Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, instituciones estatales de seguridad social, instituciones bancarias, así como ante cualquier clase de personas físicas y jurídicas; esta facultad la podrá delegar a favor de terceras personas.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 14 Bis.
 
-Los delgados regionales, tendrán a su cargo dentro de su competencia la vigilancia y el control para el buen funcionamiento del servicio público de transporte, llevando a cabo todo tipo de autorizaciones de trámite, siempre y cuando éste no implique el cambio de naturaleza de las concesiones del servicio público de transporte y los permisos.
+– Las delegadas o delegados regionales, tendrán a su cargo dentro de su competencia la vigilancia y el control para el buen funcionamiento del servicio público de transporte, llevando a cabo todo tipo de autorizaciones de trámite, siempre y cuando éste no implique el cambio de naturaleza de las concesiones del servicio público de transporte y los permisos.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 15.
 
-El Secretario de Contraloría y Transparencia Gubernamental, designará conforme a la Ley Orgánica de la Administración Pública del Estado de Guerrero número 08 y a la Ley número 690 de Entidades Paraestatales del Estado de Guerrero, quien fungirá como titular del órgano interno de control de la Comisión Técnica de Transporte y Vialidad, mismo que tendrá a su cargo las facultades de vigilancia verificación, control y evaluación del desempeño de la Comisión de acuerdo con las leyes antes referidas y demás disposiciones legales aplicables en la materia.
+La persona titular de la Secretaría de Contraloría y Transparencia Gubernamental, designará conforme a la Ley Orgánica de la Administración Pública del Estado de Guerrero número 242 y a la Ley número 690 de Entidades Paraestatales del Estado de Guerrero, quien fungirá como titular del órgano interno de control de la Comisión Técnica de Transporte y Vialidad, quien tendrá a su cargo las facultades de vigilancia verificación, control y evaluación del desempeño de la Comisión de acuerdo con las leyes antes referidas y demás disposiciones legales aplicables en la materia.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 16.
 
-El Consejo Técnico, con el auxilio del Director General de la Comisión Técnica de Transporte y Vialidad, en los términos de esta Ley, propiciará la formación y funcionamiento de comités consultivos para las principales ciudades y distintas regiones del Estado, procurando la participación de la ciudadanía.
+El Consejo Técnico, con el auxilio de la persona titular de la Dirección General de la Comisión Técnica de Transporte y Vialidad, en los términos de esta Ley, propiciará la formación y funcionamiento de comités consultivos para las principales ciudades y distintas regiones del Estado, procurando la participación de la ciudadanía.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 17.
 
-El Consejo Técnico y el Director General de la Comisión Técnica de Transporte y Vialidad, en uso de sus facultades y sin perjuicio de las disposiciones de Ley, se sujetarán a los siguientes criterios:
+El Consejo Técnico y la persona titular de la Dirección General de la Comisión Técnica de Transporte y Vialidad, en uso de sus facultades y sin perjuicio de las disposiciones de Ley, se sujetarán a los siguientes criterios:
 
 I. Se orientará a la ciudadanía sobre la pertinencia de la fijación y revisión de las tarifas del servicio público de transporte;
 
@@ -317,43 +383,45 @@ II. No se otorgarán concesiones ni permisos para el servicio público a servido
 
 III. Se cuidará que en la fijación y revisión de las tarifas se armonicen los criterios de interés público y social y el de derecho a utilidades razonables;
 
-IV. Se vigilará el estado físico del equipo vehicular y de las instalaciones de las empresas prestadoras del servicio, y se evitarán alzas inmoderadas de las tarifas por elevación de costos;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Se vigilará el estado físico del equipo vehicular y de las instalaciones de las empresas prestadoras del servicio, se evitarán alzas inmoderadas de las tarifas por elevación de costos y se exhortará a las personas concesionarias y permisionarias a promover en sus unidades de servicio público los valores sociales;
 
 V. En igualdad de condiciones, se dará preferencia a trabajadores guerrerenses del transporte y núcleos agrarios o comisarías municipales, organizaciones representativas de los trabajadores del transporte, personas morales del sector social, y a quien cuente con mejor equipo e infraestructura y experiencia para la eficiente prestación del servicio, y
 
-> <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Se procurará que las Secretarías de Desarrollo Social y de Finanzas y Administración oriente (sic) la aplicación de los ingresos fiscales que de acuerdo con las leyes debe generar el transporte hacia la mejora de la prestación de ese servicio público y de la vialidad.
+VI. Se procurará que las Secretarías de Bienestar y de Finanzas y Administración oriente (sic) la aplicación de los ingresos fiscales que de acuerdo con las leyes debe generar el transporte hacia la mejora de la prestación de ese servicio público y de la vialidad.
 
-> <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 18.
 
-El Consejo Técnico, celebrará sesiones ordinarias bimensuales, pudiendo su Presidente o dos de sus miembros convocar a sesión extraordinaria cuando sea necesario. Las sesiones serán válidas con la asistencia de la mayoría de sus integrantes.
+El Consejo Técnico, celebrará sesiones ordinarias bimensuales, pudiendo su presidenta o presidente o dos de sus miembros convocar a sesión extraordinaria cuando sea necesario. Las sesiones serán válidas con la asistencia de la mayoría de sus integrantes.
 
 ### CAPITULO III. DE LA PARTICIPACION CIUDADANA
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 19.
 
-El Consejo Estatal Consultivo de Transporte y Vialidad será el órgano de consulta de la Comisión Técnica de Transporte y Vialidad; se integrará por los representantes de las organizaciones de concesionarios y permisionarios que estén legalmente registrados en el Estado, bajo la siguiente estructura:
+El Consejo Estatal Consultivo de Transporte y Vialidad será el órgano de consulta de la Comisión Técnica de Transporte y Vialidad; se integrará por las personas representantes de las organizaciones de concesionarios y permisionarios que estén legalmente registradas en el Estado, bajo la siguiente estructura:
 
-I. Un Presidente;
+I. Una presidenta o presidente;
 
-II. Un Vicepresidente;
+II. Una vicepresidenta o vicepresidente;
 
-III. Un Secretario;
+III. Una secretaria o secretario;
 
-IV. Un Vocal por cada una de las regiones económicas del Estado;
+IV. Una vocalía por cada una de las regiones económicas del Estado;
 
-V. Un Vocal por cada municipio que cuente con más de 100 mil habitantes;
+V. Una vocalía por cada municipio que cuente con más de 100 mil habitantes;
 
-VI. Un representante de la Comisión de Transporte del Congreso del Estado, y
+VI. Una persona representante de la Comisión de Transporte del Congreso del Estado, y
 
-VII. Un representante de la Universidad Autónoma de Guerrero, quien actuará con voz, pero sin voto.
+VII. Una persona representante de la Universidad Autónoma de Guerrero, quien actuará con voz, pero sin voto.
 
-El Consejo sesionará válidamente con el 51% de sus integrantes, de manera ordinaria cada tres meses, pudiendo reunirse de manera extraordinaria las veces que sean necesarias previa convocatoria de su Presidente y Secretario.
+El Consejo sesionará válidamente con el 51% de sus integrantes, de manera ordinaria cada tres meses, pudiendo reunirse de manera extraordinaria las veces que sean necesarias previa convocatoria de las personas titulares de la Presidencia y Secretaría.
 
 > <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2021)</small>
 
@@ -381,15 +449,15 @@ IX. Emitir opinión sobre el procedimiento de otorgamiento, modificación, revoc
 
 X. Elaborar y aprobar su Reglamento Interior y sus demás instrumentos normativos.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 21.
 
-Los Integrantes del Consejo Estatal Consultivo de Transporte y Vialidad, serán nombrados por el Congreso del Estado, la Junta de Coordinación Política emitirá la convocatoria pública dirigida a los trabajadores y concesionarios del transporte público legalmente constituidos; a la Universidad Autónoma de Guerrero, y a los ayuntamientos de Municipios que cuenten con más de 100 mil habitantes, a fin de que registren o propongan candidatos a integrar el Consejo; la Comisión Ordinaria de Transportes será la encargada de desahogar el procedimiento de selección y propuesta de designación ante el Pleno.
+Las personas Integrantes del Consejo Estatal Consultivo de Transporte y Vialidad, serán nombradas por el Congreso del Estado, la Junta de Coordinación Política emitirá la convocatoria pública dirigida a las personas trabajadoras y concesionarias del transporte público legalmente constituidas; a la Universidad Autónoma de Guerrero, y a los ayuntamientos de Municipios que cuenten con más de 100 mil habitantes, a fin de que registren o propongan a las personas que deseen integrar el Consejo; la Comisión Ordinaria de Transporte será la encargada de desahogar el procedimiento de selección y propuesta de designación ante el Pleno.
 
-Para la designación de los integrantes del Consejo se requerirá de las dos terceras partes de los Diputados presentes en sesión ordinaria. El cargo será honorífico y durará hasta por seis años improrrogables.
+Para la designación de las personas integrantes del Consejo se requerirá de las dos terceras partes de los Diputados presentes en sesión ordinaria. El cargo será honorífico y durará hasta por seis años improrrogables.
 
-En la designación de los integrantes del Consejo, el Congreso del Estado velará por la pluralidad entre los concesionarios y trabajadores del volante, así como de organizaciones. Evitando que más de un miembro de dichas representaciones o agrupaciones ocupe más de un espacio dentro del Consejo Estatal Consultivo de Transporte y Vialidad.
+En la designación de las personas integrantes del Consejo, el Congreso del Estado velará por la pluralidad entre los concesionarios y trabajadores del volante, así como de organizaciones. Evitando que más de una persona de dichas representaciones o agrupaciones ocupe más de un espacio dentro del Consejo Estatal Consultivo de Transporte y Vialidad.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
@@ -403,15 +471,19 @@ ARTICULO 21 BIS.- A fin de que los diferentes sectores de la comunidad estén co
 
 Para conducir vehículos de propulsión motorizada o eléctrica se deberá contar con licencia expedida por la Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, en su ámbito de competencia territorial, previa la satisfacción de los requisitos que esta Ley y sus disposiciones reglamentarias establezcan.
 
-Los conductores de vehículos de propulsión humana o animal no requieren licencia.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+Las personas que conduzcan vehículos de propulsión humana o animal no requieren licencia.
 
 ###### ARTICULO 23.
 
 Las licencias se expedirán para las clases y categorías de conductores que las disposiciones reglamentarias de esta Ley determinen según el servicio al que se encuentra afecto el vehículo respectivo.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 24.
 
-Todo solicitante de licencia para conducir vehículos deberá acreditar su pericia en el manejo del vehículo correspondiente y su capacidad física, mental y moral.
+Toda persona que solicite licencia para conducir vehículos deberá acreditar su pericia en el manejo del vehículo correspondiente y su capacidad física, mental y moral.
 
 ###### ARTICULO 25.
 
@@ -423,7 +495,9 @@ II. Por infringir las leyes, reglamentos y normas de tránsito más de tres vece
 
 III. Por conducir bajo el efecto de bebidas embriagantes, estupefacientes, enervantes o tóxicos en general;
 
-IV. Por imposibilidad física o mental superveniente cuando la conducción del vehículo ponga en riesgo al titular de la licencia o a terceros, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Por imposibilidad física o mental superveniente cuando la conducción del vehículo ponga en riesgo a la persona titular de la licencia o a terceros, y
 
 V. Por las demás causas que para cada servicio se prevengan en las disposiciones reglamentarias de esta Ley.
 
@@ -431,9 +505,9 @@ V. Por las demás causas que para cada servicio se prevengan en las disposicione
 
 Las personas menores de 18 años y mayores de 16 años pueden obtener licencia para conducir únicamente los vehículos de servicio privado que determine el reglamento de esta Ley, pero además de satisfacer los requisitos del caso, deberán acreditar, mediante una carta responsiva, que cuentan con el consentimiento de quienes ejerzan la patria potestad o su tutor, siendo éstos últimos los responsables de los daños que se ocasionen.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, exigirá fianza o deposito, o póliza de seguro con una cobertura amplia, por la cantidad del importe de cuarenta y cinco veces el valor de la Unidad de Medida y Actualización que será consignado ante la Secretaría de Finanzas y Administración, para garantizar el pago a terceros por los daños y perjuicios que el menor llegare a ocasionar, con el vehículo que conduzca.
+La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, exigirá fianza o deposito, o póliza de seguro con una cobertura amplia, por la cantidad del importe de cuarenta y cinco veces el valor de la Unidad de Medida y Actualización que será consignado ante la Secretaría de Finanzas y Administración, para garantizar el pago a terceros por los daños y perjuicios que la persona menor de edad llegare a ocasionar, con el vehículo que conduzca.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -441,7 +515,9 @@ La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, e
 
 La Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, mediante disposiciones que se publicarán en el Periódico Oficial del Gobierno vigilará la vigencia de las licencias de manejo y su diseño así como los plazos y circunstancias para su revalidación.
 
-Las licencias de manejo que se expidan a menores de edad no podrán tener una vigencia superior a 180 días.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+Las licencias de manejo que se expidan a personas menores de edad no podrán tener una vigencia superior a 180 días.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -537,13 +613,17 @@ La Comisión Técnica de Transporte y Vialidad, así como la Dirección General 
 
 ### CAPITULO VI. DEL SERVICIO PUBLICO DEL TRANSPORTE
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 39.
 
-Para aprovechar las vías públicas de jurisdicción estatal en la explotación del servicio público de transporte de personas o de bienes, se necesita el otorgamiento de una concesión o de un permiso expedido por la Comisión Técnica de Transporte y Vialidad.
+Para aprovechar las vías públicas de jurisdicción estatal en la explotación del servicio público de transporte de personas o de bienes, se necesita el otorgamiento de una concesión o de un permiso expedido por la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 40.
 
-El servicio público de transporte es el que se presta a un tercero por medio del pago de tarifas autorizadas y por concesión o permiso otorgado por la Comisión Técnica de Transporte y Vialidad.
+El servicio público de transporte es el que se presta a un tercero por medio del pago de tarifas autorizadas y por concesión o permiso otorgado por la Secretaría General de Gobierno.
 
 ###### ARTICULO 41.
 
@@ -567,9 +647,13 @@ III. De transporte especial;
 
 IV. De servicio turístico urbano; y
 
-> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-V. Servicio masivo de pasajeros.
+V. Servicio masivo de pasajeros; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Servicios Auxiliares.
 
 ###### ARTICULO 43.
 
@@ -681,33 +765,53 @@ Asimismo, dicha dependencia podrá operar, equipar, y dar mantenimiento al Siste
 
 ARTICULO 51 BIS 2.- Los Organismos aplicarán los descuentos establecidos en los títulos de concesión y en los contratos respectivos a los que se harán acreedores los concesionarios o contratistas por la falta, fallas o deficiencias en la prestación de servicios; la reiteración de éstas podrá implicar la aplicación de sanciones en términos de la presente Ley y su Reglamento.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-ARTICULO 51 BIS 3.- Cualquier usuario puede utilizar del Servicio Público de Transporte Masivo de Pasajeros previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; y, en consecuencia, los concesionarios estarán obligados a prestarlo, salvo cuando el usuario:
+ARTICULO 51 BIS 3.- Cualquier persona puede utilizar del Servicio Público de Transporte Masivo de Pasajeros previo pago de la tarifa en vigor, accediendo a éste a través de los sistemas, medios y dispositivos que sean determinados y aprobados; y, en consecuencia, los concesionarios estarán obligados a prestarlo, salvo cuando la persona usuaria:
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 I. Se encuentre en notorio estado de ebriedad o bajo el influjo de estupefacientes o psicotrópicos;
 
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
 II. Ejecute o haga ejecutar a bordo de los vehículos actos que atenten contra la tranquili-dad (sic), seguridad e integridad de los usuarios; y
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 III. En general, pretenda que la prestación del servicio se haga contraviniendo las disposiciones legales aplicables o sus reglamentos.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-ARTICULO 51 BIS 4.- La Comisión Técnica de Transporte y Vialidad deberá fijar y revisar las tarifas para el Servicio Público de Transporte Masivo para cada Corredor. Las tarifas se establecerán y revisarán con base en un estudio técnico que al efecto realice dicha dependencia. El estudio en mención, deberá considerar:
+ARTICULO 51 BIS 4.- La Secretaría General de Gobierno, conjuntamente con la Secretaría de Finanzas y Administración deberá fijar y revisar las tarifas para el Servicio Público de Transporte Masivo para cada Corredor. Las tarifas se establecerán y revisarán con base en un estudio técnico que al efecto realice dicha dependencia. El estudio en mención, deberá considerar:
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 I. El impacto en el interés público y social;
 
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
 II. La zona donde habrán de prestarse los servicios;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 III. El equilibrio financiero de operación del servicio;
 
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
 IV. La clase del servicio que se preste, el grado de comodidad, la categoría del equipo y los márgenes de seguridad que debe prestar al usuario;
+
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 V. Los costos diarios de operación, y los de depreciación de inversiones;
 
+> <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+
 VI. Los índices y precios de insumos para la adecuada operación; y
 
-VII. La utilidad razonable a que tienen derecho los concesionarios.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VII. La utilidad razonable a que tienen derecho las personas concesionarias, que debe ser proporcional al servicio que brindan.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -727,15 +831,17 @@ ARTICULO 51 BIS 6.- Para la prestación y operación del servicio público de tr
 
 ARTICULO 51 BIS 7.- El servicio público de transporte masivo de pasajeros deberá ser prestado de manera regular y uniforme, mediante retribución de los usuarios. Las concesiones y contratos obligan a sus titulares a la prestación directa del servicio.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-ARTICULO 51 BIS 8.- Los concesionarios y contratistas tendrán derecho a explotar el servicio o recibir de un tercero o del Gobierno del Estado, un pago por la prestación del servicio público de transporte masivo de pasajeros, en los términos que se establezcan en los correspondientes títulos de concesión.
+ARTICULO 51 BIS 8.- Las personas concesionarias y contratistas tendrán derecho a explotar el servicio o recibir de un tercero o del Gobierno del Estado, un pago por la prestación del servicio público de transporte masivo de pasajeros, en los términos que se establezcan en los correspondientes títulos de concesión.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
 ARTICULO 51 BIS 9.- Las concesiones y contratos para la prestación y operación del servicio público de transporte masivo de pasajeros tendrán una vigencia de hasta 20 años en función de la amortización de las inversiones y una utilidad razonable. El plazo de las concesiones y contratos podrá ser prorrogado previo estudio que al efecto realice la Comisión Técnica de Transporte y Vialidad del cumplimiento de las obligaciones del Título de Concesión.
 
-La Comisión Técnica referida podrá otorgar otras concesiones para la prestación y operación del Servicio Público de Transporte Masivo de Pasajeros, aun cuando dichas concesiones pudieran afectar el desempeño económico de una concesión de transporte masivo otorgada con anterioridad. En ese caso, el concesionario afectado podrá solicitar a la propia Comisión medidas compensatorias, en los términos que se establezcan en los títulos correspondientes.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+La Secretaría General de Gobierno podrá otorgar otras concesiones para la prestación y operación del Servicio Público de Transporte Masivo de Pasajeros, aun cuando dichas concesiones pudieran afectar el desempeño económico de una concesión de transporte masivo otorgada con anterioridad. En ese caso, la persona concesionaria afectada podrá solicitar a la propia Comisión medidas compensatorias, en los términos que se establezcan en los títulos correspondientes.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -839,9 +945,9 @@ Los organismos, serán los responsables del mantenimiento de la infraestructura 
 
 Los Organismos establecerán los mecanismos para garantizar la seguridad de la infraestructura y usuarios del servicio.
 
-> <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-ARTICULO 51 BIS 18.- Los contratos y concesiones para el equipamiento, operación y mantenimiento del Sistema de Recaudo, el Sistema de Despacho y/o el Centro de Control, tendrán una vigencia de hasta 20 años en función de la armonización de las inversiones y una utilidad razonable. El plazo de las concesiones y contratos podrá ser prorrogado siempre que los titulares hayan cumplido con sus obligaciones y soliciten dicha ampliación a la Comisión Técnica de Transporte y Vialidad. Esta última solicitará a los Organismos los informes del cumplimiento de las obligaciones de los contratos y concesiones.
+ARTICULO 51 BIS 18.- Los contratos y concesiones para el equipamiento, operación y mantenimiento del Sistema de Recaudo, el Sistema de Despacho y/o el Centro de Control, tendrán una vigencia de hasta 20 años en función de la armonización de las inversiones y una utilidad razonable. El plazo de las concesiones y contratos podrá ser prorrogado siempre que las personas titulares hayan cumplido con sus obligaciones y soliciten dicha ampliación a la Secretaría General de Gobierno. Esta última solicitará a los Organismos los informes del cumplimiento de las obligaciones de los contratos y concesiones.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -891,7 +997,9 @@ III. Nombre y datos de la persona a la que se le otorga;
 
 IV. Objeto;
 
-V. Obligaciones y derechos del titular;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+V. Obligaciones y derechos de la persona titular;
 
 VI. Vigencia;
 
@@ -901,7 +1009,9 @@ VIII. Causas de terminación y revocación; así como los términos y condicione
 
 IX. Lugar y fecha de expedición;
 
-X. Firmas de la autoridad y del titular;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+X. Firmas de la autoridad y de la persona titular;
 
 XI. Contraprestación o forma de pago al concesionario o contratista; y
 
@@ -917,7 +1027,9 @@ ARTICULO 51 BIS 21.- Las concesiones y contratos para prestar el servicio públi
 
 I. Vencimiento del plazo establecido en el título de la concesión o de la prórroga que se hubiera otorgado;
 
-II. Renuncia del titular;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+II. Renuncia de la persona titular;
 
 III. Revocación;
 
@@ -927,17 +1039,25 @@ V. Rescisión;
 
 VI. Desaparición del objeto o de la finalidad de la concesión;
 
-VII. Disolución, liquidación o quiebra del titular;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Por sustitución del titular, para incorporarse a un nuevo sistema de prestación del servicio; y
+VII. Disolución, liquidación o quiebra de la persona titular;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Por sustitución de la persona titular, para incorporarse a un nuevo sistema de prestación del servicio; y
 
 IX. Por resolución judicial o administrativa.
 
 X. Las demás causas que se establezcan en la concesión, reglamento o disposiciones de la materia.
 
-La terminación de la concesión no exime a su titular de las responsabilidades contraídas durante su vigencia en el Gobierno y con terceros.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-Los organismos, por causas justificadas, podrán solicitar a la Comisión Técnica de Transporte y Vialidad la terminación de una concesión o contrato.
+La terminación de la concesión no exime a la persona titular de las responsabilidades contraídas durante su vigencia en el Gobierno y con terceros.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+Los organismos, por causas justificadas, podrán solicitar a la Secretaría General de Gobierno la terminación de una concesión o contrato.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -951,7 +1071,9 @@ III. La no prestación de los servicios o su prestación en términos distintos 
 
 IV. Las demás que se establezcan en los respectivos títulos de concesión, leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones de la materia vigentes.
 
-El titular de una concesión que hubiere sido revocada estará imposibilitado para obtener otra dentro de un plazo de cinco años, contado a partir de que hubiere quedado firme la resolución respectiva.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de una concesión que hubiere sido revocada estará imposibilitada para obtener otra dentro de un plazo de cinco años, contados a partir de que hubiere quedado firme la resolución respectiva.
 
 > <small>(ADICIONADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
 
@@ -973,23 +1095,81 @@ VI. Las demás que se establezcan en los respectivos contratos, leyes, reglament
 
 ARTICULO 51 BIS 24.- Los efectos de la terminación anticipada de los contratos y de la revocación de las concesiones se determinarán en cada uno de estos. En caso de que se rescinda el contrato o revoque la concesión, por causas no imputables al contratista, se deberá reembolsar a éste los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y los mismos se relacionen directamente con el objeto de la concesión o contrato.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPITULO VI BIS 1. DE LOS SERVICIOS AUXILIARES
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 51 BIS 25.- Los Servicios Auxiliares tienen las siguientes modalidades:
+
+I. Servicio de arrastre;
+
+II. Servicio de salvamento; y
+
+III. Depósito de vehículos.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 51 BIS 26.- Servicio de arrastre: Es aquel que realiza las maniobras necesarias para enganchar a una grúa o colocar en plataformas a los vehículos accidentados o descompuestos, sus partes o su carga, o cualquier bien mueble que deban ponerse sobre la superficie de rodamiento y ser trasladados por caminos y puentes de jurisdicción estatal.
+
+El servicio de arrastre de vehículos hacia los depósitos, será realizado por las personas físicas o morales que cuenten con el permiso respectivo y dispongan de vehículos con grúa para cumplir con dicho propósito. El permiso que se otorgue para estos efectos, será válido en los caminos y puentes de jurisdicción estatal y no autorizará para cubrir el servicio de salvamento.
+
+Cuando sea necesario utilizar caminos y puentes de cuota para la ejecución de este servicio, los pagos serán a cargo de la persona permisionaria. Los demás costos o pagos de cualquier naturaleza correrán a cargo de la persona propietaria del vehículo arrastrado. Los vehículos que sean arrastrados deberán hacerlo sin personas a bordo.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 51 BIS 27.- Servicio de salvamento: Es aquel que realiza las maniobras mecánicas y/o manuales necesarios para enganchar a una grúa a los vehículos accidentados, sus partes o su carga, o cualquier bien mueble que deban ser rescatados en caminos y puentes de jurisdicción estatal.
+
+La autoridad correspondiente podrá expedir permiso para la operación del servicio de arrastre y salvamento, siempre y cuando la persona permisionaria acredite que cuenta con el tipo de vehículos que para cada caso establece el Reglamento respectivo.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 51 BIS 28.- Depósito de vehículos: Es la guarda y custodia de vehículos abandonados, accidentados, descompuestos, infraccionados y retenidos en caminos de jurisdicción estatal; así como aquellos que sean remitidos por autoridad competente.
+
+Causarán abandono los vehículos que se encuentren en los corralones o depósitos de vehículos y que teniendo resolución definitiva por parte de autoridad judicial o administrativa, no sean retirados por las personas propietarias o legítimas poseedoras, dentro del plazo improrrogable de seis meses contados a partir de la fecha de la notificación respectiva.
+
+Corresponde a la Secretaría General de Gobierno, emitir y publicar el Acuerdo en el que se establezcan los términos, plazos y condiciones a que deberán sujetarse las personas propietarias y poseedoras de vehículos para el retiro de los mismos; así como, el destino y proceder en cuanto a los vehículos abandonados.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 51 BIS 29.- Los servicios de arrastre, salvamento y depósito de vehículos, son servicios auxiliares para los vehículos de servicio de transporte público y para los vehículos particulares en caminos de jurisdicción Estatal.
+
+Para prestar los servicios de arrastre y arrastre y salvamento se requiere permiso expedido por la Secretaría General de Gobierno. Para prestar los servicios de depósito de vehículos se requiere concesión expedida por la Secretaría General de Gobierno.
+
+El Reglamento respectivo regulará la operación y el otorgamiento de los permisos y concesiones de los servicios auxiliares.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 51 BIS 30.- El Sistema de control, asignación y vigilancia de servicios auxiliares es la plataforma por medio de la cual se llevará el registro de las personas permisionarias y concesionarias de los servicios de arrastre, salvamento y depósito de vehículos en el Estado, tendrá por objeto la asignación y vigilancia del servicio que se preste y su operación estará a cargo de la Comisión Técnica de Transporte y Vialidad. El Reglamento definirá las bases, características, criterios y procedimientos necesarios.
+
+Las personas usuarias podrán elegir a quien deba prestar el servicio correspondiente; caso contrario, el sistema de control, asignación y vigilancia asignará el servicio.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 51 BIS 31.- Las tarifas de los servicios de arrastre, salvamento y depósito de vehículos, no podrán rebasar las tarifas autorizadas por cada uno de los servicios por la Secretaría General de Gobierno, conjuntamente con la Secretaría de Finanzas y Administración y el Consejo Técnico de Transporte y Vialidad, que deberán ser publicadas en la Ley de Ingresos respectiva.
+
+Las personas permisionarias y concesionarias de los servicios de arrastre, salvamento y depósito de vehículos, están obligados a respetar en todo momento las tarifas autorizadas. La violación a las tarifas dará lugar a la revocación de los permisos y concesiones otorgadas.
+
 ### CAPITULO VII. DE LAS CONCESIONES Y PERMISOS
 
-### CAPITULO VII-BIS. DE PROTECCION AL MEDIO AMBIENTE
-
-> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 52.
 
-Las concesiones y permisos a que se refiere esta Ley sólo se otorgarán a mexicanos o a sociedades constituidas en términos de ley. En igualdad de condiciones se preferirá a las siguientes personas o entidades:
+Las concesiones y permisos a que se refiere esta Ley sólo se otorgarán a personas mexicanas o a sociedades constituidas en términos de ley. En igualdad de condiciones se preferirá a las siguientes personas o entidades:
 
-I. Trabajadores guerrerenses del transporte;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+I. Personas trabajadoras guerrerenses del transporte;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2021)</small>
 
 II. Núcleos agrarios y comisarías municipales, para transporte rural.
 
-III. Organizaciones representativas de los trabajadores del transporte;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+III. Organizaciones representativas de las personas trabajadoras del transporte;
 
 IV. Personas morales del sector social;
 
@@ -1009,17 +1189,29 @@ Las concesiones para el transporte masivo de pasajeros únicamente podrán otorg
 
 Para que las concesiones de servicio público de transporte se puedan otorgar, habrán de reunirse los siguientes requisitos:
 
-I. Que la Comisión Técnica haga una declaratoria de necesidad de transporte, fundada en los estudios socio-económico, operativo y urbano que con tal propósito realice;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-II. Que el solicitante cumpla los requisitos que prevenga el reglamento, las disposiciones administrativas y la convocatoria correspondiente;
+I. Que la Secretaría General de Gobierno haga una declaratoria de necesidad de transporte, fundada en los estudios socio-económico, operativo y urbano que con tal propósito realice;
 
-III. Que el solicitante, para el caso de concesión para transporte en automóvil de alquiler, no sea titular de una o más concesiones o no las haya transferido en violación a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Que al solicitante no se le haya cancelado concesión anterior por violaciones a las disposiciones aplicables;
+II. Que la persona solicitante cumpla los requisitos que prevenga el reglamento, las disposiciones administrativas y la convocatoria correspondiente;
 
-V. Que el solicitante acredite la capacidad económica, moral y técnica para la adecuada prestación del servicio;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Que el solicitante haya entregado debidamente requisitado y en los plazos fijados las solicitudes correspondientes;
+III. Que la persona solicitante, para el caso de concesión para transporte en automóvil de alquiler, no sea titular de una o más concesiones o no las haya transferido en violación a las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Que a la persona solicitante no se le haya cancelado concesión anterior por violaciones a las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+V. Que la persona solicitante acredite la capacidad económica, moral y técnica para la adecuada prestación del servicio;
+
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Que la persona solicitante haya entregado debidamente requisitado y en los plazos fijados las solicitudes correspondientes;
 
 VII. Que se acredite la propiedad del o los vehículos;
 
@@ -1037,9 +1229,11 @@ No se otorgarán concesiones ni permisos para el servicio público a servidores 
 
 Se exceptuará de lo anterior cuando el pariente sea titular de una concesión o trabajador del transporte con una antigüedad de cinco años.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 55.
 
-Los interesados en obtener concesión o permiso de servicio público de transporte, presentarán solicitud a la Comisión Técnica de Transporte y Vialidad, de conformidad con los preceptos de esta Ley y su Reglamento respectivo.
+Las personas interesadas en obtener concesión o permiso de servicio público de transporte, presentarán solicitud a la Secretaría General de Gobierno, de conformidad con los preceptos de esta Ley y su Reglamento respectivo.
 
 ###### ARTICULO 56.
 
@@ -1053,9 +1247,9 @@ Todo tipo de concesión o permiso así como todos los demás conceptos señalado
 
 Los pagos de las personas físicas o morales a quienes se les expida cualquier concesión o permiso, y los demás conceptos a que hace referente el párrafo anterior, deberán hacerse invariablemente en la Administración o Agencia Fiscal de su Jurisdicción, pues sólo presentando el recibo oficial se les otorgará la concesión o permiso.
 
-> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-La Comisión Técnica de Transporte y Vialidad, tendrá la obligación de informar a la Secretaría de Finanzas y Administración, sobre el total de concesiones, permisos y los demás conceptos señalados en la Ley de Ingresos vigente expedidos mensualmente citando los números de folios utilizados a través de cortes de efectos y cortes de ingresos.
+La Secretaría General de Gobierno, tendrá la obligación de informar a la Secretaría de Finanzas y Administración, sobre el total de concesiones, permisos y los demás conceptos señalados en la Ley de Ingresos vigente expedidos mensualmente citando los números de folios utilizados a través de cortes de efectos y cortes de ingresos.
 
 > <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
 
@@ -1065,43 +1259,55 @@ Todo tipo de permisos, concesión y los demás conceptos ya mencionados que sean
 
 Las concesiones del servicio público de transporte de personas, de carga o mixto, tendrán una vigencia de diez años, cuyos derechos de validez serán renovados en el primer semestre de cada año, y podrán prorrogarse por períodos iguales sucesivos, siempre que el concesionario demuestre que ha cumplido las obligaciones que esta Ley le impone.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 58.
 
-La Comisión Técnica de Transporte y Vialidad podrá otorgar permisos con carácter provisional y con duración hasta por treinta días si los estudios de necesidad temporal de transporte que realice la Comisión, así lo recomiendan.
+La Secretaría General de Gobierno podrá otorgar permisos con carácter provisional y con duración hasta por treinta días si los estudios de necesidad temporal de transporte que realice la Comisión, así lo recomiendan.
 
 Sólo podrá obtener un permiso provisional quien reúna los requisitos que señala el artículo 53.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 59.
 
-Las concesiones para vehículos de alquiler únicamente se otorgarán a trabajadores del volante si cumplen los siguientes requisitos:
+Las concesiones para vehículos de alquiler únicamente se otorgarán a personas trabajadoras del volante si cumplen los siguientes requisitos:
 
 I. Haber trabajado como mínimo cinco años continuos en este tipo de servicio, y
 
 II. Que dicha antigüedad la hayan computado en la localidad donde se vayan a otorgar las concesiones.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-La Comisión Técnica de Transporte y Vialidad deberá realizar un estudio de los trabajadores del volante que cumplan con la antigüedad requerida, a efecto que la concesión se otorgue a quien tenga el mayor número de años en el servicio y reúna los requisitos para ser beneficiario de una concesión.
+La Comisión Técnica de Transporte y Vialidad deberá realizar un estudio de las personas trabajadoras del volante que cumplan con la antigüedad requerida, a efecto que la concesión se otorgue a quien tenga el mayor número de años en el servicio y reúna los requisitos para ser beneficiaria de una concesión.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 60.
 
-Cuando el concesionario de un vehículo de alquiler opte porque su concesión se configure como patrimonio familiar en los términos de ley, para que se generen las prerrogativas y límites propias de esa institución jurídica, la autorización subsistirá hasta que fallezca el titular, o su cónyuge, concubina o concubino; o bien sus hijos sean mayores de edad.
+Cuando la persona concesionaria de un vehículo de alquiler opte porque su concesión se configure como patrimonio familiar en los términos de ley, para que se generen las prerrogativas y límites propias de esa institución jurídica, la autorización subsistirá hasta que fallezca la persona titular, o su cónyuge, concubina o concubino; o bien sus hijos sean mayores de edad.
 
-Cuando el titular que haya obtenido la concesión configurada como patrimonio familiar, sea mujer, los derechos fiscales derivados de la misma se podrán reducir hasta en un 50%.
+Cuando la persona titular que haya obtenido la concesión configurada como patrimonio familiar, sea mujer, los derechos fiscales derivados de la misma se podrán reducir hasta en un 50%.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 61.
 
-El titular de una concesión se podrá asociar utilizando las formas legales de organización que mejor convengan a sus intereses siempre que ello redunde en la prestación eficiente del servicio público. Los concesionarios de automóviles de alquiler podrán adoptar las formas de organización conocidas como sitios.
+La persona titular de una concesión se podrá asociar utilizando las formas legales de organización que mejor convengan a sus intereses siempre que ello redunde en la prestación eficiente del servicio público. Las personas concesionarias de automóviles de alquiler podrán adoptar las formas de organización conocidas como sitios.
 
-Los estatutos y los instrumentos de toda índole que se requieran para la organización y funcionamiento de esas formas, así como sus modificaciones, deberán presentarse a autorización de la Comisión Técnica de Transporte y Vialidad.
+Los estatutos y los instrumentos de toda índole que se requieran para la organización y funcionamiento de esas formas, así como sus modificaciones, deberán presentarse a autorización de la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 62.
 
-Los concesionarios sólo podrán celebrar entre sí o con terceros convenios de enlace, de fusión y combinación de equipo, si cuentan con autorización de la Comisión Técnica de Transporte y Vialidad y si ello no representa competencia desleal. Los posibles afectados, previamente deberán rendir opinión.
+Las personas concesionarias sólo podrán celebrar entre sí o con terceros convenios de enlace, de fusión y combinación de equipo, si cuentan con autorización de la Secretaría General de Gobierno y si ello no representa competencia desleal. Las personas posibles afectadas, previamente deberán rendir opinión.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 63.
 
-Los concesionarios del servicio urbano y suburbano deberán constituírse en sociedades mercantiles o cooperativas y las escrituras constitutivas, así como cualquier modificación posterior, deberá ser previamente autorizada por la Comisión Técnica de Transporte y Vialidad e inscrita en el Registro que llevará dicha Comisión sin perjuicio de las inscripciones en el Registro Público de la Propiedad.
+Las personas concesionarias del servicio urbano y suburbano deberán constituirse en sociedades mercantiles o cooperativas y las escrituras constitutivas, así como cualquier modificación posterior, deberá ser previamente autorizada por la Secretaría General de Gobierno e inscrita en el Registro que llevará dicha Secretaría sin perjuicio de las inscripciones en el Registro Público de la Propiedad.
 
 ###### ARTICULO 64.
 
@@ -1117,27 +1323,39 @@ Las sociedades concesionarias o las que formen los titulares de concesión son r
 
 Los miembros de las sociedades concesionarias, además de su aportación al capital social, deberán obligarse a que esas sociedades presten el servicio concesionado, por lo menos durante tres años, no podrá hacerlo en ese término ninguna otra sociedad ni los propios titulares individualmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 67.
 
-Los derechos derivados de las concesiones sólo podrán transferirse previa autorización de la Comisión Técnica de Transporte y Vialidad, cuando se reúnan los siguientes requisitos:
+Los derechos derivados de las concesiones sólo podrán transferirse previa autorización de la Secretaría General de Gobierno, cuando se reúnan los siguientes requisitos:
 
-I. Que el solicitante cumpla con los requisitos que establece la Ley para la obtención de una concesión según el tipo de servicio;
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+I. Que la persona solicitante cumpla con los requisitos que establece la Ley para la obtención de una concesión según el tipo de servicio;
 
 II. Que la concesión que se desea transferir se hubiere explotado tres años por lo menos;
 
-III. Que el titular de la concesión que se desea transferir haya satisfecho el pago de los derechos correspondientes, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-IV. En cualquier tiempo en caso de fallecimiento o incapacidad física o mental del concesionario y el beneficiario sea su cónyuge, concubina, concubino o hijo menor de edad. En estos casos la transferencia no causará derechos.
+III. Que la persona titular de la concesión que se desea transferir haya satisfecho el pago de los derechos correspondientes, y
 
-Si a los 30 días de haberse efectuado la transferencia no se ha notificado a la Comisión Técnica de Transporte y Vialidad, quedará virtualmente revocada la concesión.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+IV. En cualquier tiempo en caso de fallecimiento o incapacidad física o mental de la persona concesionaria y la persona beneficiaria sea su cónyuge, concubina, concubino o hijo o hija menor de edad. En estos casos la transferencia no causará derechos.
+
+Si a los 30 días de haberse efectuado la transferencia no se ha notificado a la Secretaría General de Gobierno, quedará virtualmente revocada la concesión.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 68.
 
-El titular de una concesión podrá adquirir una más sólo en el caso en que adquiera los derechos de otro concesionario, para lo cual habrá de llenar los requisitos que establece el artículo 53.
+La persona titular de una concesión podrá adquirir una más sólo en el caso en que adquiera los derechos de otra persona concesionaria, para lo cual habrá de llenar los requisitos que establece el artículo 53.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 69.
 
-Los concesionarios están obligados a:
+Las personas concesionarias están obligadas a:
 
 I. Prestar el servicio en los términos señalados en la concesión;
 
@@ -1175,9 +1393,9 @@ X. Cumplir con las disposiciones de las demás leyes y reglamentos aplicables, y
 
 XI. En los casos a que se refiere la fracción III, la autoridad podrá otorgar plazos para que se subsanen las deficiencias.
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-La Comisión Técnica de Transporte y Vialidad, en coordinación con las agrupaciones o asociaciones del Transporte Público deberán establecer programas de capacitación, orientación y mejora del servicio del transporte público, dirigido a los trabajadores del volante, con el objetivo de profesionalizar el servicio y cumplir con lo señalado en el inciso e) de la fracción IV, del presente artículo.
+La Comisión Técnica de Transporte y Vialidad, en coordinación con las agrupaciones o asociaciones del Transporte Público deberán establecer programas de capacitación, orientación y mejora del servicio del transporte público, dirigido a las personas trabajadoras del volante, con el objetivo de profesionalizar el servicio y cumplir con lo señalado en el inciso e) de la fracción VI, del presente artículo.
 
 ###### ARTICULO 70.
 
@@ -1189,9 +1407,15 @@ II. Por revocación, y
 
 III. Por caducidad.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+Procede la revocación, cuando la persona concesionaria o permisionaria altere las tarifas autorizadas, en términos de lo dispuesto en el artículo 79 de esta Ley.
+
 > <small>(ADICIONADO, CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 24 DE FEBRERO DE 1995)</small>
 
-### CAPITULO VIII. DE LOS ITINERARIOS, LOS HORARIOS Y LAS TARIFAS
+### CAPITULO VII-BIS. DE PROTECCION AL MEDIO AMBIENTE
+
+> <small>(ADICIONADO, P. O. 24 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 70
 
@@ -1253,87 +1477,119 @@ BIS 9.- Las presentes disposiciones, se aplicarán independientemente de las med
 
 Sin perjuicio de lo anterior, la autoridad competente podrá aplicar aquellas medidas tendientes a reducir los niveles de emisión de los vehículos automotores, aún cuando no se trate de situaciones de contingencia ambiental o de emergencia ecológica.
 
-### CAPITULO IX. DEL REGISTRO
+### CAPITULO VIII. DE LOS ITINERARIOS, LOS HORARIOS Y LAS TARIFAS
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 71.
 
-La Comisión Técnica de Transporte y Vialidad para la regularidad y eficiencia del servicio público del transporte, establecerá los límites máximos y mínimos de velocidad, horarios y tarifas para los distintos tipos de vehículo y servicio.
+La Secretaría General de Gobierno, conjuntamente con la Secretaría de Finanzas y Administración para la regularidad y eficiencia del servicio público del transporte, establecerán los límites máximos y mínimos de velocidad, horarios y tarifas para los distintos tipos de vehículo y servicio.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 72.
 
-Se entiende por itinerario el recorrido que deba hacer un vehículo dentro de las vías públicas del Estado, en los puntos y en la forma que señale la concesión o permiso o que determine la Comisión Técnica de Transporte y Vialidad.
+Se entiende por itinerario el recorrido que deba hacer un vehículo dentro de las vías públicas del Estado, en los puntos y en la forma que señale la concesión o permiso o que determine la Secretaría General de Gobierno;
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 73.
 
-Se entiende por horario, el régimen de salida y llegada de los vehículos de servicio público, con indicación de tiempo y de estacionamiento en puntos intermedios de la ruta. A efecto de garantizar el cumplimiento del horario se instalarán relojes marcadores con cargo a los concesionarios.
+Se entiende por horario, el régimen de salida y llegada de los vehículos de servicio público, con indicación de tiempo y de estacionamiento en puntos intermedios de la ruta. A efecto de garantizar el cumplimiento del horario se instalarán relojes marcadores con cargo a las personas concesionarias.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 74.
 
-La Comisión Técnica de Transporte y Vialidad podrá modificar los horarios y los itinerarios de los vehículos destinados al servicio público de transporte, cambiar sus bases y señalar como deben identificarse para mayor conocimiento de los usuarios, atendiendo a la opinión de los interesados conforme al Reglamento.
+La Secretaría General de Gobierno podrá modificar los horarios y los itinerarios de los vehículos destinados al servicio público de transporte, cambiar sus bases y señalar como deben identificarse para mayor conocimiento de las personas usuarias, atendiendo a la opinión de las personas interesadas conforme al Reglamento.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 75.
 
-La tarifa es la cantidad en efectivo que cubre el usuario para pagar el servicio.
+La tarifa es la cantidad en efectivo que cubren las personas usuarias para pagar el servicio.
 
 ###### ARTICULO 76.
 
 Las tarifas y sus elementos de aplicación deberán ser aprobados de acuerdo a lo previsto en la legislación aplicable y una vez establecidas se publicarán en el Periódico Oficial del Gobierno del Estado.
 
-Se cuidará que la tarifa asegure una utilidad rezonable (sic) al concesionario y sea acorde con la condición económica de los usuarios.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+Se cuidará que la tarifa asegure una utilidad razonable a la persona concesionaria, sea proporcional con el servicio que se brinda y acorde con la condición económica de las personas usuarias.
 
 Se procurará que esas tarifas respondan a un criterio técnico, uniforme, diversificado de acuerdo con la zona donde habrán de prestarse los servicios y por la diferente situación económica que guarden los lugares respectivos.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 77.
 
-La unidad técnica que servirá de base para la fijación de las tarifas; será el kilómetro-pasajero y el kilómetro-tonelada; y el criterio para su diversificación se tomará de las diferentes clases de servicio que se preste el grado de comodidad, el índice de velocidad, la categoría del equipo y los márgenes de seguridad que cada servicio debe prestar al usuario.
+La unidad técnica que servirá de base para la fijación de las tarifas; será el kilómetro-pasajero y el kilómetro-tonelada; y el criterio para su diversificación se tomará de las diferentes clases de servicio que se preste el grado de comodidad, el índice de velocidad, la categoría del equipo y los márgenes de seguridad que cada servicio debe prestar a la persona usuaria.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 78.
 
-La Comisión Técnica de Transporte y Vialidad, revisará el régimen tarifario de los servicios públicos de transporte, cuando considere que se ha alterado el equilibrio en los costos de operación del servicio.
+La Secretaría General de Gobierno, revisará el régimen tarifario de los servicios públicos de transporte, cuando considere que se ha alterado el equilibrio en los costos de operación del servicio.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 79.
 
-Queda prohibido al concesionario o permisionario el cobro de una tarifa superior a la autorizada, o inferior a la misma cuando el propósito sea la competencia desleal.
+Queda prohibido a las personas concesionarias o permisionarias el cobro de una tarifa superior a la autorizada, o inferior a la misma cuando el propósito sea la competencia desleal.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 80.
 
-Los concesionarios y permisionarios celebrarán convenios con el Gobierno del Estado, a través de la Comisión Técnica de Transporte y Vialidad, para otorgarle tarifas preferenciales que satisfagan el costo de prestación cuando se trate de actividades de interés público.
+Las personas concesionarias y permisionarias celebrarán convenios con el Gobierno del Estado, a través de la Secretaría General de Gobierno, para otorgarle tarifas preferenciales que satisfagan el costo de prestación cuando se trate de actividades de interés público.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 81.
 
-Los miembros efectivos de los cuerpos de policía y tránsito del Estado y municipales y los inspectores de transporte debidamente acreditados, gozarán de pase gratuito en los vehículos afectos a concesión o permiso de servicio público de transporte en cumplimiento de sus funciones, pudiendo la Comisión Técnica de Transporte y Vialidad convenir con los concesionarios las modalidades pertinentes.
+Las personas de los cuerpos de policía y tránsito del Estado y municipales y de las inspecciones de transporte debidamente acreditadas, gozarán de pase gratuito en los vehículos afectos a concesión o permiso de servicio público de transporte en cumplimiento de sus funciones, pudiendo la Secretaría General de Gobierno convenir con las personas concesionarias las modalidades pertinentes.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 82.
 
-En todo tiempo la Comisión Técnica de Transporte y Vialidad, podrá autorizar u ordenar el cambio de ruta que sea conveniente para la mejor prestación del servicio público, sin perjuicio de los pagos de los derechos que las leyes fiscales establezcan.
+En todo tiempo la Secretaría General de Gobierno, podrá autorizar u ordenar el cambio de ruta que sea conveniente para la mejor prestación del servicio público, sin perjuicio de los pagos de los derechos que las leyes fiscales establezcan.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 83.
 
-Los concesionarios y permisionarios asegurarán a los pasajeros en su vida e integridad física, a los efectos de los mismos y a la carga mediante pólizas contratadas con Compañías Aseguradoras legalmente autorizadas o con mutualidades integradas por las propias organizaciones.
+Las personas concesionarias y permisionarias asegurarán a las personas usuarias en su vida e integridad física, a los efectos de los mismos y a la carga mediante pólizas contratadas con Compañías Aseguradoras legalmente autorizadas o con mutualidades integradas por las propias organizaciones.
 
-El monto de la cantidad asegurada lo establecerá la Comisión Técnica de Transporte y Vialidad; en ningún caso será menor a la cantidad que establezca la Ley de Vías Generales de Comunicación.
+El monto de la cantidad asegurada lo establecerá la Secretaría General de Gobierno; en ningún caso será menor a la cantidad que establezca la Ley de Vías Generales de Comunicación.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 84.
 
-Para asegurar la continuidad del servicio público y la atención eficiente de las necesidades colectivas, el Ejecutivo podrá decretar la intervención del servicio concesionado o sujeto a permiso, cuando sin justificación se interrumpa o deteriore gravemente. La intervención durará hasta que subsista la causa que le dió lugar.
+Para asegurar la continuidad del servicio público y la atención eficiente de las necesidades colectivas, la persona titular del Poder Ejecutivo podrá decretar la intervención del servicio concesionado o sujeto a permiso, cuando sin justificación se interrumpa o deteriore gravemente. La intervención durará hasta que subsista la causa que le dio lugar.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 85.
 
-En el procedimiento de intervención la autoridad notificará por escrito al concesionario, apercibiéndolo del contenido del artículo anterior, que procederá a intervenir el servicio público concesionado. Al efecto, tendrá tres días naturales para expresar lo que a su derecho convenga.
+En el procedimiento de intervención la autoridad notificará por escrito a la persona concesionaria, apercibiéndola del contenido del artículo anterior, que procederá a intervenir el servicio público concesionado. Al efecto, tendrá tres días naturales para expresar lo que a su derecho convenga.
 
-### CAPITULO X. DE LA VIALIDAD
+### CAPITULO IX. DEL REGISTRO
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 86.
 
-Todo vehículo, concesión, permiso o autorización en materia de transporte, así como toda persona moral constituida para la explotación del transporte público deberá inscribirse en el Registro del Transporte que llevará la Comisión Técnica de Transporte y Vialidad.
+Todo vehículo, concesión, permiso o autorización en materia de transporte, así como toda persona moral constituida para la explotación del transporte público deberá inscribirse en el Registro Estatal del Transporte que llevará la Secretaría General de Gobierno.
 
 ###### ARTICULO 87.
 
 El vehículo que no esté registrado no podrá circular y la falta de inscripción será sancionada en los términos que fijen las disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-Cuando los vehículos estén registrados en otras Entidades Federativas o en otros países y circulen dentro del territorio del Estado, se respetarán sus efectos jurídicos, si lo estuvieran legalmente, pero la Comisión Técnica de Transporte y Vialidad y la Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, podrán aplicar las sanciones a que se hagan acreedores por infracciones a esta Ley y las disposiciones reglamentarias.
+Cuando los vehículos estén registrados en otras Entidades Federativas o en otros países y circulen dentro del territorio del Estado, se respetarán sus efectos jurídicos, si lo estuvieran legalmente, pero la Secretaría General de Gobierno y la Dirección General de Tránsito, Caminos, Puertos y Aeropuertos del Estado, podrán aplicar las sanciones a que se hagan acreedores por infracciones a esta Ley y las disposiciones reglamentarias.
 
 ###### ARTICULO 88.
 
@@ -1347,25 +1603,35 @@ III. El pago, según las leyes fiscales federales, estatales o municipales, y
 
 IV. El buen estado mecánico y físico del vehículo que evite riesgos a terceros, al solicitante o a las vías públicas de conformidad con el dictamen pericial de la Comisión.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 89.
 
-La Comisión Técnica de Transporte y Vialidad podrá fijar para el registro de vehículos los requisitos que se convengan con el Gobierno Federal o con otras Entidades Federativas.
+La Secretaría General de Gobierno podrá fijar para el registro de vehículos los requisitos que se convengan con el Gobierno Federal o con otras Entidades Federativas.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 90.
 
-No requerirán de registro las carretas para transporte de productos agropecuarios, carretones, carretelas, calandrias de tracción animal o humano, así como los vehículos que por su eventualidad de tránsito en las vías públicas determine la Comisión.
+No requerirán de registro las carretas para transporte de productos agropecuarios, carretones, carretelas, calandrias de tracción animal o humano, así como los vehículos que por su eventualidad de tránsito en las vías públicas determine la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 91.
 
-El comprobante de registro de vehículo será un documento denominado "tarjeta de circulación", la cual será expedida por la Comisión Técnica de Transporte y Vialidad u otras autoridades a las que conforme a la Ley se les autorice, y que deberá hacerse acompañar de placas, calcomanías y demás signos de identidad según la naturaleza del servicio y condiciones de prestación. Dichos signos se colocarán en el vehículo que corresponda conforme lo establezca el Reglamento respectivo.
+El comprobante de registro de vehículo será un documento denominado "tarjeta de circulación", la cual será expedida por la Secretaría General de Gobierno u otras autoridades a las que conforme a la Ley se les autorice, y que deberá hacerse acompañar de placas, calcomanías y demás signos de identidad según la naturaleza del servicio y condiciones de prestación. Dichos signos se colocarán en el vehículo que corresponda conforme lo establezca el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 92.
 
-Las placas se otorgarán con arreglo a esta Ley y a los convenios celebrados y a las disposiciones que expida la Comisión.
+Las placas se otorgarán con arreglo a esta Ley y a los convenios celebrados y a las disposiciones que expida la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 93.
 
-El registro de un vehículo obliga a su propietario o poseedor legítimo a someterse a las disposiciones que con base en esta Ley se expidan y genera o permite el derecho de hacer circular el mismo en la forma, modalidades y términos correspondientes al tipo de vehículo de que se trate.
+El registro de un vehículo obliga a la persona propietaria o poseedora legítima a someterse a las disposiciones que con base en esta Ley se expidan y genera o permite el derecho de hacer circular el mismo en la forma, modalidades y términos correspondientes al tipo de vehículo de que se trate.
 
 ###### ARTICULO 94.
 
@@ -1379,7 +1645,9 @@ III. Por cambio de uso o características del vehículo;
 
 IV. Por destrucción del vehículo, siempre y cuando no se autorice la reposición del mismo;
 
-V. Por determinación de la Comisión Técnica de Transporte y Vialidad cuando el vehículo no satisfaga las condiciones de seguridad; la autoridad podrá otorgar un plazo no mayor de treinta días para que dichas condiciones se satisfagan, y
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+V. Por determinación de la Secretaría General de Gobierno cuando el vehículo no satisfaga las condiciones de seguridad; la autoridad podrá otorgar un plazo no mayor de treinta días para que dichas condiciones se satisfagan, y
 
 VI. Por resolución judicial.
 
@@ -1387,11 +1655,7 @@ VI. Por resolución judicial.
 
 La Comisión Técnica de Transporte y Vialidad administrará el padrón de conductores con licencia expedida por la autoridad competente, de solicitantes de concesiones o permisos, así como de concesionarios y permisionarios.
 
-### CAPITULO X BIS
-
-DE LAS BASES PARA LOS REGLAMENTOS MUNICIPALES EN MATERIA DE VIALIDADES Y DE ESTACIONAMIENTOS EN ZONAS TURISTICAS.
-
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+### CAPITULO X. DE LA VIALIDAD
 
 ###### ARTICULO 96.
 
@@ -1411,41 +1675,55 @@ En cualquier vía pública será preferente el cruce de peatones sobre la de los
 
 Los peatones al transitar en la vía pública, a efecto de garantizar su integridad física y no perturbar el libre tránsito de peatones y vehículos, deberán observar las disposiciones aplicables así como la señalización vial.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 100.
 
-La Comisión Técnica de Transporte y Vialidad propondrá a los Ayuntamientos los programas relativos a la protección de los peatones en las vías públicas de jurisdicción municipal, así como las mejoras que coadyuven a un mejor servicio público de transporte.
+La Secretaría General de Gobierno propondrá a los Ayuntamientos los programas relativos a la protección de los peatones en las vías públicas de jurisdicción municipal, así como las mejoras que coadyuven a un mejor servicio público de transporte.
 
 ###### ARTICULO 101.
 
 La Comisión Técnica de Transporte y Vialidad programará y realizará, con la participación que corresponda a las autoridades municipales, y de la ciudadanía, campañas permanentes de educación vial para inculcar a los conductores el respeto al peatón y familiarizar a los menores de edad con la señalización vial, entre otros, con el objeto de hacer más seguro y eficiente el tránsito por las vías públicas.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 102.
 
-La Comisión Técnica de Transporte y Vialidad propondrá las obras que requiere la vialidad y la ingeniería de tránsito a las autoridades estatales o municipales competentes.
+La Secretaría General de Gobierno propondrá las obras que requiere la vialidad y la ingeniería de tránsito a las autoridades estatales o municipales competentes.
 
 ###### ARTICULO 103.
 
 El Reglamento de la presente Ley señalará los límites de velocidad a que se puede circular en las diversas vías públicas del Estado.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 104.
 
-Queda prohibido a los usuarios de la vía pública causar daños a la misma, a los edificios públicos, a la señalización y al mobiliario urbano, así como depositar materiales y bienes que sean obstáculo a la circulación de vehículos y peatones.
+Queda prohibido a las personas usuarias de la vía pública causar daños a la misma, a los edificios públicos, a la señalización y al mobiliario urbano, así como depositar materiales y bienes que sean obstáculo a la circulación de vehículos y peatones.
 
 ###### ARTICULO 105.
 
 El estacionamiento de vehículos en la vía pública será regulado por la Comisión Técnica de Transporte y Vialidad y por los Ayuntamientos en sus respectivos ámbitos de competencia, sin perjuicio del pago de los derechos que la leyes fiscales establezcan.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 106.
 
-La construcción de todo estacionamiento de uso colectivo será autorizado por la Comisión Técnica de Transporte y Vialidad.
+La construcción de todo estacionamiento de uso colectivo será autorizado por la Secretaría General de Gobierno.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 107.
 
-La Comisión Técnica de Transporte y Vialidad mantendrá en buen estado la señalización y el balizamiento de la vialidad existente y producirá e instalará los señalamientos visuales que requiera el control de la vialidad con la participación de la ciudadanía y la que corresponda a las autoridades municipales.
+La Secretaría General de Gobierno mantendrá en buen estado la señalización y el balizamiento de la vialidad existente y producirá e instalará los señalamientos visuales que requiera el control de la vialidad con la participación de la ciudadanía y la que corresponda a las autoridades municipales.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P. O. 26 DE FEBRERO DE 1991)</small>
 
-### CAPITULO XI. DE LAS SANCIONES
+### CAPITULO X BIS
+
+DE LAS BASES PARA LOS REGLAMENTOS MUNICIPALES EN MATERIA DE VIALIDADES Y DE ESTACIONAMIENTOS EN ZONAS TURISTICAS.
+
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
 ###### ARTICULO 107 Bis 1.
 
@@ -1463,11 +1741,11 @@ Se podrán definir horarios y calendarios para la utilización de la vía públi
 
 Los visitantes no podrán dormir en la vía pública ni en vehículos estacionados en la misma.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 107 Bis 4.
 
-Se establecerán normas técnicas y disposiciones administrativas para que la vía pública no sea reservada en exclusiva para vehículo alguno. Cuando la autoridad municipal autorice a los propietarios de establecimientos hoteleros, comerciales o gastronómicos el uso de la vía pública para el estacionamiento de vehículos de sus propietarios, empleados o consumidores, deberá aplicarse a dicha autoridad el régimen de concesiones y de autorizaciones en general, según la ley relativa.
+Se establecerán normas técnicas y disposiciones administrativas para que la vía pública no sea reservada en exclusiva para vehículo alguno. Cuando la autoridad municipal autorice a las personas propietarias de establecimientos hoteleros, comerciales o gastronómicos el uso de la vía pública para el estacionamiento de sus vehículos, de su personal laboral o consumidores, deberá aplicarse a dicha autoridad el régimen de concesiones y de autorizaciones en general, según la ley relativa.
 
 > <small>(ADICIONADO P.O. 26 DE FEBRERO DE 1991)</small>
 
@@ -1477,21 +1755,33 @@ El Ayuntamiento establecerá directamente o a través de autorizaciones, estacio
 
 El Ayuntamiento promoverá también que los particulares construyan y operen dichos estacionamientos.
 
-> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 107 Bis 6.
 
-La autoridad municipal promoverá que los propietarios o administradores de los establecimientos hoteleros, gastronómicos, centros nocturnos, comercios y demás análogos ubicados en las zonas turísticas, hagan frente a sus necesidades de estacionamientos conforme a las siguientes opciones:
+La autoridad municipal promoverá que las personas propietarias o administradoras de los establecimientos hoteleros, gastronómicos, centros nocturnos, comercios y demás análogos ubicados en las zonas turísticas, hagan frente a sus necesidades de estacionamientos conforme a las siguientes opciones;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 1991)</small>
 
 I. Construcción u operación de estacionamientos propios;
 
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 1991)</small>
+
 II. Adquisición o uso de cajones en propiedad, cualquiera que sea la modalidad, o en arrendamiento, en estacionamientos de terceros;
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 1991)</small>
 
 III. Concesión de lugares en la vía pública cuando ello no lesione el interés general;
 
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 1991)</small>
+
 IV. Prestación del servicio de acomodador de vehículos en estacionamientos propios o de terceros; y
 
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 1991)</small>
+
 V. Las demás que sean necesarias y convenientes de acuerdo a las leyes.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1991)</small>
 
 Los estacionamientos estarán sujetos a regímenes de concesión en los términos de ley cuando presten servicio al público en general.
 
@@ -1529,11 +1819,15 @@ Igualmente, podrán autorizar a la autoridad a que se modifiquen temporalmente l
 
 La autoridad municipal, con la intervención del Gobierno del Estado en lo que se refiere a transporte, promoverá programas y campañas de orientación vial y concientización tendientes a la utilización y aprovechamiento eficientes de las vialidades de carácter turístico y la observancia del interés general.
 
+### CAPITULO XI. DE LAS SANCIONES
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 108.
 
-La violación a esta Ley, sus disposiciones reglamentarias, los acuerdos de la Comisión Técnica de Transporte y Vialidad y a la señalización vial se sancionará conforme a lo previsto en el presente capítulo y en las disposiciones reglamentarias de la materia.
+La violación a esta Ley, sus disposiciones reglamentarias, los acuerdos de la Secretaría General de Gobierno, de la Comisión Técnica de Transporte y Vialidad y a la señalización vial se sancionará conforme a lo previsto en el presente capítulo y en las disposiciones reglamentarias de la materia.
 
-Las autoridades de transporte y tránsito podrán retener la documentación del infractor para garantizar el cumplimiento de la sanción.
+Las autoridades de transporte y tránsito podrán retener la documentación de la persona infractora para garantizar el cumplimiento de la sanción.
 
 ###### ARTICULO 109.
 
@@ -1565,7 +1859,9 @@ Los montos y duración según sea el caso y el procedimiento de aplicación de l
 
 Para los efectos de esta Ley, multa es la sanción pecuniaria impuesta por contravenir las disposiciones de esta Ley y sus disposiciones reglamentarias y variará, según la gravedad de la infracción, de una a cincuenta veces el valor de la Unidad de Medida y Actualización.
 
-Se aplicará multa en los casos en que se viole lo dispuesto en los artículos: 22, 23, 37, 38, 39, 47, 50, 51, 61 párrafo segundo, 62, 63, 69 fracciones I, II, III, V, VI, VII, VIII y IX, 79, 81, 83, 87, 91, 94 fracciones I, II, III y IV, 98, 99, 103 y 104.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+Se aplicará multa en los casos en que se viole lo dispuesto en los artículos: 22, 23, 37, 38, 39, 47, 50, 51, 61 párrafo segundo, 62, 63, 69 fracciones I, II, III, V, VI, VII, VIII y IX, 81, 83, 87, 91, 94 fracciones I, II, III y IV, 98, 99, 103 y 104.
 
 ###### ARTICULO 111.
 
@@ -1599,7 +1895,9 @@ VI. La cesión, renta o enajenación de la concesión, permiso o alguno de los d
 
 VII. Cuando la unidad que ampare la concesión o permiso respectivo, sea conducida por persona en estado de ebriedad o bajo los efectos de algún estupefaciente o substancia psicotrópica, o sea utilizada deliberadamente en la comisión de conductas delictivas, o bien, cuando por las malas condiciones mecánicas de la unidad automotriz se produzca un accidente de tránsito o siniestro vial que provoque la pérdida de una vida humana.
 
-Se aplicará revocación de licencia, concesión o permiso en los casos en que se viole lo dispuesto en los artículos 37, 63, 65, 67, 69 fracciones II y III, 83 y 94 fracciones IV, V y VI.
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+Se aplicará revocación de licencia, concesión o permiso en los casos en que se viole lo dispuesto en los artículos 37, 63, 65, 67, 69 fracciones II y III, 79, 83 y 94 fracciones IV, V y VI.
 
 ###### ARTICULO 113.
 
@@ -1611,7 +1909,9 @@ I. El término de la vigencia de la concesión;
 
 II. La falta de iniciación de la prestación del servicio dentro del plazo establecido en la concesión, permiso y Reglamento respectivo, y
 
-III. La interrupción del servicio sin causa justificada debidamente comprobada a juicio de la Comisión Técnica de Transporte y Vialidad.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+III. La interrupción del servicio sin causa justificada debidamente comprobada a juicio de la Secretaría General de Gobierno o de la Comisión Técnica de Transporte y Vialidad.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2024)</small>
 
@@ -1665,23 +1965,23 @@ La Secretaría General de Gobierno, a través de la Dirección General de la Com
 
 El aseguramiento del interés fiscal para el efecto de cobro de las sanciones pecuniarias, se hará en los términos de las disposiciones de la materia.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 119.
 
-Se concede el recurso administrativo de inconformidad que podrá hacer valer el interesado en contra de la sanción impuesta, ante la propia Dirección General de la Comisión Técnica de Transporte y Vialidad en primera instancia y su resolución podrá ser recurrida ante el Tribunal de Justicia Administrativa del Estado de Guerrero.
+Se concede el recurso administrativo de inconformidad que podrá hacer valer la persona interesada en contra de la sanción impuesta, ante la propia Secretaría General de Gobierno en primera instancia y su resolución podrá ser recurrida ante el Tribunal de Justicia Administrativa del Estado de Guerrero.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 120.
 
-Para efectos del artículo anterior, el interesado contará con tres días hábiles a partir de que la sanción impuesta le sea notificada, pudiendo hacer valer ante la Dirección General de la Comisión Técnica de Transporte y Vialidad, lo que a su derecho convenga y cause agravios.
+Para efectos del artículo anterior, la persona interesada contará con tres días hábiles a partir de que la sanción impuesta le sea notificada, pudiendo hacer valer ante la Secretaría General de Gobierno, lo que a su derecho convenga y cause agravios.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 121.
 
-La Dirección General de la Comisión Técnica de Transporte y Vialidad, emitirá resolución por escrito en un término de cinco días hábiles, contados a partir del día siguiente en que se reciba el escrito, donde se interponga el recurso de inconformidad administrativa.
+La Secretaría General de Gobierno, emitirá resolución por escrito en un término de cinco días hábiles, contados a partir del día siguiente en que se reciba el escrito, donde se interponga el recurso de inconformidad administrativa.
 
 > <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2018)</small>
 
@@ -1828,3 +2128,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para su conocimiento y efectos legales conducentes, remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en el portal electrónico del Congreso del Estado, para conocimiento general y efectos legales procedentes.
+
+P.O. 13 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 863 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE Y VIALIDAD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Para su conocimiento y efectos legales conducentes, remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en el portal electrónico del Congreso del Estado, para su conocimiento general y efectos legales procedentes.
