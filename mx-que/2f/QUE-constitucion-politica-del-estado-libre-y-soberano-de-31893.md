@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2023-04-14"
+last_updated: "2024-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2024.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -153,6 +153,18 @@ El Estado garantizará que la rectoría del desarrollo económico sea integral y
 
 En el Estado de Querétaro, toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad y equidad.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+El Estado promoverá la planeación del desarrollo de la entidad considerando la participación de la ciudadanía, a través de las instituciones y figuras jurídicas que establezcan las leyes.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+El Plan Estratégico de Largo Plazo es el documento que contendrá la visión participativa para el desarrollo del Estado con un horizonte de hasta treinta años, y será el instrumento rector de la planeación del Estado. Se actualizará y revisará durante el ejercicio del quinto año de cada administración del Poder Ejecutivo. Para la Planeación Estratégica del Estado de Querétaro se creará un órgano auxiliar, denominado Consejo Querétaro para la Planeación Estratégica, encargado de su elaboración conforme a lo que establezca la ley en la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+El Plan Estatal de Desarrollo y los Planes Municipales de Desarrollo son los documentos que, alineados al Plan Estratégico de Largo Plazo, contemplan los procesos de planeación, ejecución, control, evaluación, retroalimentación y las acciones en general que ejecutarán el Poder Ejecutivo y los Municipios durante el período constitucional que les corresponda.
+
 > <small>(REFORMADO, P.O. 27 DE SEPTIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 4.
@@ -164,6 +176,14 @@ La educación que se imparta en el Estado, promoverá el conocimiento de su geog
 El Sistema Educativo Estatal estará orientado a exaltar los valores universales cívicos y democráticos del hombre; a propiciar el conocimiento, la defensa y respeto a los derechos humanos; a fomentar la cultura de la legalidad, el trabajo productivo para una convivencia social armónica y promover el desarrollo de la ciencia, la tecnología y la innovación. Se reconoce la autonomía de la universidad pública en los términos que la Ley establezca. Se promoverá y se atenderá la educación superior necesaria para el desarrollo del Estado, destinando el subsidio suficiente y oportuno para el cumplimiento eficaz de sus fines.
 
 La cultura de los queretanos constituye un bien irrenunciable y un derecho fundamental. Las leyes protegerán el patrimonio y las manifestaciones culturales; las autoridades, con la participación responsable de la sociedad, promoverán el rescate, la preservación, el fortalecimiento, la protección, la restauración y la difusión del patrimonio cultural que define al pueblo queretano, mismo que es inalienable e imprescriptible.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+El Sistema Educativo Estatal deberá sustentarse y promover la Cultura de Paz.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+El Estado deberá garantizar que la educación sea inclusiva y que todos los niños, niñas y jóvenes que estudien en las mismas escuelas, no sean por ningún motivo excluidos, con la finalidad de eliminar las barreras que limiten el aprendizaje y la participación de los alumnos.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -217,19 +237,29 @@ El derecho de solicitar el registro de candidatos ante la autoridad electoral pa
 
 La ley regulará las figuras de participación ciudadana.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+En la renovación de la Gubernatura se deberá respetar el principio de paridad de género, para lo cual los partidos políticos deberán postular en la candidatura a una persona del género distinto a la registrada en la elección anterior.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 8.
 
-El Gobernador del Estado, los Diputados de la Legislatura y los miembros de los Ayuntamientos, serán electos mediante elección popular.
+El Gobernador del Estado, los Diputados de la Legislatura y los miembros de los Ayuntamientos, serán electos mediante elección popular. Para ser electo y permanecer en los cargos de elección popular se requiere:
 
-Para ser electo y permanecer en los cargos de elección popular se requiere:
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos políticos;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 II. Estar inscrito en el padrón electoral;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
+
 III. Tener residencia efectiva en el Estado para el caso de diputados, de cuando menos tres años anteriores a la fecha de la elección. y para el caso de Gobernador del Estado de cinco años. Para el caso de miembros del Ayuntamiento, tener una residencia efectiva en el municipio mínima de 3 años;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 IV. No ser militar en servicio activo o tener un mando en los cuerpos policíacos;
 
@@ -237,13 +267,27 @@ IV. No ser militar en servicio activo o tener un mando en los cuerpos policíaco
 
 V. No ser Presidente Municipal, ni ser titular de ninguno de los organismos a los que esta Constitución otorga autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la Administración Pública Federal, Estatal o Municipal, a menos que se separe de sus funciones, mediante licencia o renuncia en los términos de ley, por lo menos noventa días naturales antes del día de la elección;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-VI. No desempeñarse como Magistrado del Órgano Jurisdiccional Especializado en Materia Electoral del Estado, como Consejero, Secretario Ejecutivo o Director Ejecutivo del Instituto Electoral del Estado de Querétaro, ni pertenecer al Servicio Profesional Electoral Nacional, salvo que, en cualquier caso, se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; y
+VI. No desempeñarse como Magistrado del Órgano Jurisdiccional Especializado en Materia Electoral del Estado, como Consejero, Secretario Ejecutivo o Director Ejecutivo del Instituto Electoral del Estado de Querétaro, ni pertenecer al Servicio Profesional Electoral Nacional, salvo que, en cualquier caso, se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-VII. No ser ministro de algún culto.
+VII. No ser ministro de algún culto;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. No ser declarado deudor alimentario moroso;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+IX. No haber sido condenado como persona agresora por delitos sexuales y/o violencia familiar; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+X. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 Se pierde el derecho a ser votado para cargos de elección popular en el Estado, por residir más de tres años consecutivos fuera del mismo, salvo en los casos de estudios y de empleo fuera de Querétaro, cargo o comisión gubernamental, así como en el caso de queretanos migrantes al extranjero que se hubieren reintegrado a su domicilio, por lo menos seis meses antes del día de la elección y se acredite que su familia haya permanecido en el Estado durante su ausencia.
 
@@ -405,6 +449,10 @@ Ratificar por las dos terceras partes de sus miembros presentes de la Legislatur
 
 Asimismo, la Legislatura del Estado designará por las dos terceras partes de sus miembros presentes, a los titulares de los órganos internos de control de los organismos que esta Constitución les reconoce autonomía;
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+No podrán elegirse o ratificarse por la Legislatura del Estado, personas que sean declaradas deudoras alimentarias morosas.
+
 V. Conceder licencia a los diputados, al gobernador; así como conceder las licencias y admitir las renuncias a los Magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
@@ -551,6 +599,10 @@ III. Preservar las libertades, el orden y la paz públicos, así como la tranqui
 
 IV. Nombrar y remover libremente a los servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados en esta Constitución o en las Leyes; procurando mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados;
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+El nombramiento de los titulares de las dependencias del Poder Ejecutivo del Estado de Querétaro, deberá realizarse observando el principio de paridad de género.
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 V. Hacer cumplir los fallos y resoluciones de la autoridad judicial; conceder a las autoridades judiciales de la entidad los apoyos necesarios para el desempeño de sus funciones;
@@ -655,13 +707,25 @@ I. Cumplir con los requisitos fijados en las fracciones I a IV del artículo 95 
 
 II. Haber residido en el Estado los tres años anteriores inmediatos al día de su designación;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-III. Durante el año previo a su nombramiento, no haber ocupado cargo de elección popular, ni haber sido Secretario del Poder Ejecutivo o su equivalente, ni Fiscal General del Estado; y
+III. Durante el año previo a su nombramiento, no haber ocupado cargo de elección popular, ni haber sido Secretario del Poder Ejecutivo o su equivalente, ni Fiscal General del Estado;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-IV. No ser mayor de setenta años de edad.
+IV. No ser mayor de setenta años de edad;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+V. No ser declarado deudor alimentario moroso;
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VI. No haber sido condenado como persona agresora por delitos sexuales y/o violencia familiar; y
+
+> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VII. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
 
 El retiro de los Magistrados se producirá, por sobrevenir incapacidad física o mental declarada por autoridad competente, que imposibilite el adecuado desempeño del cargo, o al cumplir la edad que se señala en el primer párrafo de esta fracción.
 
@@ -745,11 +809,19 @@ Las ausencias del Fiscal General del Estado serán suplidas en los términos que
 
 El Fiscal General del Estado presentará un informe anual mediante comparecencia ante la Legislatura del Estado.
 
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+La persona que sea declarada deudora alimentaria morosa no podrá ocupar el cargo de Fiscal General del Estado.
+
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ARTÍCULO 30 ter. El titular de la Fiscalía Especializada en el Combate a la Corrupción, será designado por las dos terceras partes de los miembros presentes de la Legislatura del Estado y deberá cubrir los mismos requisitos descritos en el párrafo cuarto, del artículo 30 bis, de la presente Constitución. Durará en su encargo nueve años y únicamente podrá ser removido por las causas graves que establezca la Ley, mediante la misma votación requerida para su designación.
 
 El titular de la Fiscalía Especializada en el Combate a la Corrupción presentará un informe anual ante la Legislatura del Estado.
+
+> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+La designación del titular de la Fiscalía Especializada en el Combate a la Corrupción debe sujetarse al procedimiento previsto para el titular de la Fiscalía General del Estado, contemplado en las fracciones I, II y III, del quinto párrafo, del artículo 30 bis de la Constitución Política del Estado Libre y Soberano de Querétaro
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1990,3 +2062,79 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley y deberán adecuarse a la presente ley, las disposiciones jurídicas secundarias.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 13 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley quedará aprobada una vez satisfechos los requisitos y procedimiento que al efecto establece el artículo 39 de la Constitución Política del Estado Libre y Soberano de Querétaro.
+
+Artículo Segundo. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 13 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ADICIONA LOS PÁRRAFOS CUARTO Y QUINTO AL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley quedará aprobada una vez satisfechos los requisitos y procedimiento que al efecto establece el artículo 39 de la Constitución Política del Estado Libre y Soberano de Querétaro.
+
+Artículo Segundo. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 13 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley quedará aprobada una vez satisfechos los requisitos y procedimiento que al efecto establece el artículo 39 de la Constitución Política del Estado Libre y Soberano de Querétaro.
+
+Artículo Segundo. La presente Ley entrará en vigor el 01 de octubre de 2024.
+
+Artículo Tercero. Para efectos de lo dispuesto por el séptimo párrafo, del artículo 7, de la Constitución Política del Estado Libre y Soberano de Querétaro, los partidos políticos podrán postular libremente para el proceso electoral del 2026-2027 a un candidato o candidata. Alternándose el género para las subsecuentes elecciones de Gobernador o Gobernadora.
+
+Los partidos políticos podrán determinar libremente el género a postular, en el proceso electoral del 2026-2027, ya sea que participen de manera individual o a través de coaliciones electorales o candidaturas comunes, los cuales deberán alternar el género para las subsecuentes elecciones.
+
+Artículo Cuarto. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Quinto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 13 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley quedará aprobada una vez satisfechos los requisitos y procedimiento que al efecto establece el artículo 39 de la Constitución Política del Estado Libre y Soberano de Querétaro.
+
+Artículo Segundo. La presente Ley entrará en vigor al día siguiente en que concluya el plazo previsto para la implementación del Registro Nacional de Obligaciones Alimentarias, de conformidad con el Artículo Segundo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes, publicado el 8 de mayo de 2023 en el Diario Oficial de la Federación.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 13 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley quedará aprobada una vez satisfechos los requisitos y procedimiento que al efecto establece el artículo 39 de la Constitución Política del Estado Libre y Soberano de Querétaro.
+
+Artículo Segundo. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo dispuesto por la presente Ley.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 13 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 30 TER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley quedará aprobada una vez satisfechos los requisitos y procedimiento que al efecto establece el artículo 39 de la Constitución Política del Estado Libre y Soberano de Querétaro.
+
+Artículo Segundo. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a lo dispuesto por la presente Ley.
+
+Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga”.
