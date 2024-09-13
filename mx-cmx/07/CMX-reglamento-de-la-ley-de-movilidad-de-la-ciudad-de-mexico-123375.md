@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2023-09-08"
+last_updated: "2024-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-09-15"
 
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 13 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -642,7 +642,13 @@ IX. Servicio de Trolebús concesionado.
 
 Los servicios directo, exprés, así como ejecutivo de corredores pueden tener tarifa diferencial previa solicitud, presentación de estudios técnicos y autorización correspondiente.
 
-El servicio de transporte público colectivo metropolitano requiere de un permiso complementario que al efecto expida la Secretaría para la operación de itinerarios, bases e infraestructura complementaria.
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+El servicio de transporte público colectivo en las modalidades de ruta y ruta metropolitana deberá realizar el trámite de otorgamiento de permiso complementario para recorridos o itinerarios, alargamientos, bases y lanzaderas del servicio de transporte de pasajeros público colectivo concesionado, con base en lo estipulado en los artículos 12, fracción XLVIII y 125 de la Ley de Movilidad de la Ciudad de México. Dicho permiso tendrá vigencia de un año por lo que los interesados deberán solicitar anualmente una prórroga del mismo.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+En los casos donde el servicio público colectivo en las modalidades de ruta y ruta metropolitana tengan como base un Centro de Transferencia Modal, además del permiso complementario, las personas físicas y/o morales autorizadas para prestar el servicio deberán realizar y completar la solicitud de acceso vehicular ante el Organismo Regulador del Transporte y efectuar el pago de los aprovechamientos correspondientes que indica el Código Fiscal de la Ciudad de México.
 
 #### SECCIÓN TERCERA. DEL SERVICIO DE TRANSPORTE DE PASAJEROS PÚBLICO INDIVIDUAL
 
@@ -1382,25 +1388,37 @@ IX. Equipamiento para fomento de la intermodalidad racks portabicicletas y bicie
 
 X. Los demás que establezca la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 100.
 
-Se otorgarán permisos para la operación de bases de servicio, lanzaderas y sitios en las áreas de transferencia para el transporte, por el tiempo que la Secretaría determine y prorrogables hasta por el mismo tiempo que se otorgó la concesión de origen, a las personas que reúnan los siguientes requisitos:
+Se otorgarán permisos para la operación de bases de servicio, lanzaderas y sitios en las áreas de transferencia para el transporte, por el tiempo que la Secretaría determine y prorrogables hasta por el mismo tiempo que se otorgó la concesión o permiso de origen, a las personas que reúnan los siguientes requisitos:
 
-I. Solicitud por escrito dirigida a la Secretaría, indicando el domicilio fiscal, así como la ubicación donde solicita la autorización o revalidación para la prestación del servicio, especificando la modalidad y número de cajones para la que solicita el permiso, horario de servicio, nombre de la organización nombre y firma del representante o apoderado legal;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+I. Solicitud realizada a través de ventanilla física o digital, con base en el Aviso que se publique en la Gaceta Oficial de la Ciudad de México, que determine el procedimiento a seguir correspondiente al trámite en comento, señalando el domicilio fiscal, así como la ubicación donde solicita la autorización o prórroga de la misma para la prestación del servicio, especificando la modalidad y número de cajones para la que solicita el permiso, horario de servicio, nombre de la organización, así como el nombre y firma del representante o apoderado legal. En el caso de las solicitudes de servicio público colectivo de ruta y ruta metropolitana, se deberán agregar los recorridos en los que opera;
 
 II. En caso de que el solicitante sea una persona moral, deberá acreditar su existencia legal y personalidad jurídica vigente del representante o apoderado;
 
-III. Identificación oficial con fotografía del representante o apoderado legal (credencial para votar con fotografía, cédula profesional, pasaporte vigente, cartilla del servicio militar);
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Presentar padrón vehicular de las unidades que prestarán el servicio, debiendo contener datos que puedan identificar a los vehículos tales como nombre y domicilio del titular de la concesión, número de placa, marca, número de serie, número del motor y modelo o año de los vehículos, nombre y domicilio del operador o conductor, número de folio o licencia que autoriza a conducir ese tipo de vehículo;
+III. Identificación oficial con fotografía de la persona titular o del representante o apoderado legal (credencial para votar con fotografía, cédula profesional, pasaporte vigente, cartilla del servicio militar);
+
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Las solicitudes del Servicio de Transporte de Pasajeros Público Individual y del Servicio de Transporte de Carga (Público, Mercantil y Privado) y de Pasajeros (Mercantil y Privado) deberán acompañarse del padrón vehicular de las unidades que prestarán el servicio, debiendo contener datos que puedan identificar a los vehículos tales como número de placas, nombre del concesionario o permisionario, nombre del o de los operadores y números de licencia de conducir que autoriza a conducir ese tipo de vehículo. En el caso de las solicitudes de servicio público colectivo de ruta y ruta metropolitana, se deberá indicar el número de placas, número económico, tipo y año de unidad, si cuenta con algún dispositivo de seguridad, como GPS y cámara, así como el ramal en que opera cada una de las unidades.
 
 V. Acreditar el pago de derechos correspondientes y que se encuentren establecidos en el Código Fiscal de la Ciudad México;
 
 VI. Registro Federal de Contribuyentes;
 
-VII. Mapa o croquis señalando la ubicación solicitada para la autorización o revalidación de la base o sitio de servicio, debiendo indicar además la orientación Norte y nombre de las calles aledañas;
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. En caso de trámite de revalidación, presentar último permiso y pago de cajón (es) de los últimos tres años. Si los pagos efectuados por concepto de cajón son menores a tres años, el solicitante deberá manifestarlo en su escrito, además de presentar los que se hayan realizado a partir de la fecha en que iniciaron operaciones;
+VII. Para el caso de las solicitudes de Servicio de Transporte de Pasajeros Público Individual y el Servicio de Transporte de Carga (Público, Mercantil y Privado) y de Pasajeros (Mercantil y Privado), se deberá anexar el mapa o croquis señalando la ubicación sobre la cual se requiere la autorización o revalidación de la base o sitio de servicio, debiendo indicar la orientación norte y nombre de las calles aledañas;
+
+> <small>(REFORMADA, G.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. En caso de trámite de prórroga del permiso, presentar el último permiso y el pago de cajones de los últimos tres años. Si los pagos efectuados por concepto de cajón son menores a tres años, el solicitante deberá manifestarlo, además de presentar los que se hayan realizado a partir de la fecha en que iniciaron operaciones;
 
 IX. Una vez concluido el término de un año sin que medie el trámite de revalidación, dentro de los 30 (sic) hábiles anteriores a la fecha de vencimiento del permiso, se procederá a la revocación del permiso con la posibilidad de otorgar la base al solicitante que cumpla con los requisitos que establezca la Secretaría.
 
@@ -1408,11 +1426,17 @@ X. Contar con la cromática autorizada en todos los vehículos, en apego a la mo
 
 XI. Demostrar el cumplimiento de los demás requisitos establecidos en las disposiciones jurídicas y administrativas aplicables;
 
-La Secretaría notificará personalmente la resolución a la petición del permiso o revalidación, dentro de los quince días hábiles siguientes a la presentación de la solicitud.
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2024)</small>
+
+La Secretaría notificará la resolución a la petición de la autorización o prórroga, dentro de los cuarenta días hábiles siguientes a la presentación de la solicitud, por los mismos medios que recibió la solicitud.
+
+> <small>(REFORMADO, G.O. 13 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 101.
 
-Los Vistos Buenos que sean solicitados por la Secretaría a las Delegaciones para la autorización de las bases, sitios y lanzaderas, deberán ser contestados y enviados en un término máximo de diez días hábiles, a falta de respuesta se entenderá que no existe impedimento alguno por parte de la Delegación.
+Los Vistos Buenos que sean solicitados por la Secretaría a las Alcaldías para la autorización de las bases, sitios y lanzaderas, deberán ser contestados y enviados en un término máximo de diez días hábiles, a falta de respuesta se entenderá que no existe impedimento alguno por parte de la Alcaldía.
+
+En caso de que las Alcaldías respondan en sentido negativo, dicha respuesta deberá contener las justificaciones técnicas correspondientes.
 
 > <small>(REFORMADO, G.O. 24 DE ABRIL DE 2019)</small>
 
@@ -1888,7 +1912,7 @@ Tratándose de vehículos de transporte particular se establece el siguiente cua
 
 > <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 37 A LA 38.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 7 A LA 8; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 5 A LA 7; F. DE E., G.O. 26 DE NOVIEMBRE DE 2021, PÁGINA 4.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 7 A LA 8; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 5 A LA 7; F. DE E., G.O. 26 DE NOVIEMBRE DE 2021, PÁGINA 4; 13 DE SEPTIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 8.]</small>
 
 > <small>[N. DE E. LOS PÁRRAFOS TERCERO CON SUS INCISOS, CUARTO Y QUINTO PASARON A FORMAR PARTE DE LA TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR, VÉASE G.O. DE 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 6 A LA 7.]</small>
 
@@ -3763,3 +3787,15 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su public
 TERCERO. Por lo que respecta a las Constancias de Registro Vehicular, que se encuentren en trámite a la entrada en vigor del presente Decreto, se emitirán hasta su conclusión definitiva, en términos de la normativa conforme a la cual fueron solicitadas originalmente.
 
 CUARTO. La Secretaría contará con un plazo de 60 días hábiles para la publicación de los Lineamientos establecidos en el párrafo cuarto del artículo 58 del presente Reglamento.
+
+G.O. 13 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. La Secretaría de Movilidad contará con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para llevar a cabo la publicación del Aviso mencionado en el artículo 100, fracción I del Reglamento de la Ley de Movilidad de la Ciudad de México.
+
+CUARTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente Decreto.
