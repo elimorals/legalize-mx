@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2023-10-14"
+last_updated: "2024-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -391,9 +391,17 @@ XVIII. Territorialidad: Se refiere a la planeación y ejecución de la política
 
 XIX. Transparencia: Establece que la información relativa al desarrollo social es pública en los términos de las leyes en la materia. La Secretaría garantizará que la información gubernamental sea objetiva, oportuna, sistemática y veraz;
 
-XX. Transversalidad: Se refiere a la participación de más de una secretaría de gobierno, y representaciones o delegaciones federales, en la implementación de Políticas integrales de Desarrollo Social, y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-XXI. Universalidad: la política de desarrollo social está dirigida a todos los habitantes del Estado, y tiene por propósito el acceso de todos al ejercicio de los derechos sociales y a una creciente calidad de vida.
+XX. Transversalidad: Se refiere a la participación de más de una secretaría de gobierno, y representaciones o delegaciones federales, en la implementación de Políticas integrales de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Universalidad: la política de desarrollo social está dirigida a todos los habitantes del Estado, y tiene por propósito el acceso de todos al ejercicio de los derechos sociales y a una creciente calidad de vida; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Dignidad Humana: Cuyo sustento son los derechos humanos por el que se reconoce a toda persona la libertad y la igualdad, actuando como objetivo de las acciones de la política de desarrollo social.
 
 ###### Artículo 16.
 
@@ -1818,3 +1826,11 @@ CUARTO. La Secretaría de Finanzas deberá revisar la distribución de los fondo
 QUINTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 SEXTO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2371.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XX Y XXI DEL ARTÍCULO 15 DE LA LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
