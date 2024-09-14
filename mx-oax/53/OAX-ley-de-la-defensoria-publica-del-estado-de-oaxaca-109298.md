@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-la-defensoria-publica-del-estado-de-oaxaca-109298"
 country: "mx"
 rank: "ley"
 publication_date: "2015-05-07"
-last_updated: "2021-12-04"
+last_updated: "2024-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el jueves 7 de mayo de 2015.
 
@@ -139,7 +139,13 @@ VII. Proponer proyectos de iniciativas de ley y decretos en materia de asesoría
 
 VIII. Capacitar y certificar a los abogados y profesionistas privados para los efectos señalados en los párrafos segundo y tercero del artículo 5 de esta ley; y
 
-IX. Las ciernas (sic) que establezcan la presente Ley y demás disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Asesorar, defender y representar legalmente a los migrantes y sus familias.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+X. Las demás que establezcan la presente Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 7.
 
@@ -728,3 +734,11 @@ P.O. 4 DE DICIEMBRE DE 2021.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2387.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXIII Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 8 DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA; Y SE REFORMA LA FRACCIÓN IX Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 6 DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
