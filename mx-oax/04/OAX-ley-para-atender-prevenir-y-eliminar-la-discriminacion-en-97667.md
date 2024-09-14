@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-atender-prevenir-y-eliminar-la-discriminacion-en-97667
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-09"
-last_updated: "2023-09-30"
+last_updated: "2024-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 9 de diciembre de 2013.
 
@@ -89,7 +89,9 @@ II. Ajustes razonables: Modificaciones y adaptaciones necesarias y adecuadas en 
 
 III. Comisión: Comisión para Atender, Prevenir y Eliminar la Discriminación del Estado de Oaxaca;
 
-IV. Comunidad LGBTTTI: Personas o grupos de Lesbianas, Gays, Bisexuales, Travestis, Transexuales, Transgénero e Intersexuales;
+> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Comunidad LGBTTTIQ+: Personas o grupos de personas de Lesbianas, Gays, Bisexuales, Travestis, Transexuales, Transgénero e Intersexuales;
 
 > <small>(REFORMADA, P.O. 13 DE ABRIL DE 2018)</small>
 
@@ -130,6 +132,18 @@ Se entenderá por discriminación: toda distinción, exclusión, restricción o 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 También se entenderá como discriminación la homofobia, misoginia, lesbofobia, transfobia, cualquier manifestación de xenofobia, antisemitismo, así como de discriminación racial y de otras formas conexas de intolerancia, incluyendo diferencias en las remuneraciones, apoyos, becas, estímulos y/o compensaciones que reciben los deportistas paralímpicos y el impedimento del acceso a la participación en el ámbito político.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+
+La discriminación interseccional se presenta cuando dos o más motivos prohibidos de discriminación, de forma concomitante, producen un efecto mayor comúnmente relacionados con el racismo y el sexismo. Los tipos de esta discriminación son:
+
+I. La Discriminación directa: Cuando una persona recibe un trato menos favorable que otra en una situación similar, por alguna causa relacionada con uno o varios de los motivos prohibidos de discriminación;
+
+II. La Discriminación indirecta: Es aquella que se produce en la esfera pública o privada, cuando una disposición, un criterio o una práctica, implique una desventaja particular para las personas que pertenecen a un grupo específico;
+
+III. La Discriminación estructural: Se refiere al conjunto de normas, reglas, rutinas, patrones, actitudes y pautas de comportamiento que dan paso a una situación de inferioridad y exclusión contra un grupo de personas de forma generalizada; y
+
+IV. La Discriminación por asociación: Es aquella que ocurre en razón de la relación y7o (sic) asociación a una persona o grupo de personas que tengan o les sean atribuidos los motivos previstos en el segundo párrafo de este artículo.
 
 ###### Artículo 7.
 
@@ -1288,3 +1302,13 @@ P.O. 30 DE SEPTIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 4 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2384.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 5 Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 6 DE LA LEY PARA ATENDER, PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
