@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-salud-del-estado-de-oaxaca-6960"
 country: "mx"
 rank: "ley"
 publication_date: "1994-03-05"
-last_updated: "2024-08-28"
+last_updated: "2024-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 5 de marzo de 1994.
 
@@ -575,11 +575,15 @@ X.- La asistencia social a los grupos más vulnerables;
 
 XI.- La atención a las víctimas de violencia intrafamiliar y de abandono;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-XII.- La prevención y atención médica de las enfermedades auditivas y visuales; y
+XII.- La prevención y atención médica de las enfermedades auditivas y visuales;
 
-XIII.- Las demás que establezcan otras disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XIII.- La disponibilidad de productos e insumos esenciales para la salud y gestión menstrual de niñas, adolescentes, mujeres y personas menstruantes en situación de pobreza o vulnerabilidad, así como aquellas privadas de su libertad en centros penitenciarios del Estado; y
+
+XIV.- Las demás que establezcan otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 2004)</small>
 
@@ -601,7 +605,9 @@ El Gobierno del Estado coadyuvará con las autoridades federales y municipales c
 
 I.- Que se garantice a la población del Estado la disponibilidad de medicamentos básicos e insumos para la salud menstrual de niñas, adolescentes, mujeres y personas menstruantes;
 
-La Secretaría de Salud a través de los Servicios de Salud de Oaxaca pondrán a disposición de las niñas, adolescentes, mujeres y personas menstruantes los productos e insumos para la salud menstrual como son toallas sanitarias, tampones o copas menstruales en la Unidades Médicas, Centros y Casas de Salud ubicadas en los municipios y comunidades del territorio oaxaqueño, priorizando la utilización de productos reutilizable, sustentable o ecológico.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+La Secretaría de Salud a través de los Servicios de Salud de Oaxaca pondrán a disposición de las niñas, adolescentes, mujeres y personas menstruantes los productos e insumos para la salud menstrual como son toallas sanitarias, tampones o copas menstruales en las Unidades Médicas, Centros y Casas de Salud, así como en las escuelas públicas ubicadas en los municipios y comunidades del territorio oaxaqueño, para lo cual se coordinará con la Secretaría de Educación Pública del estado, prevaleciendo el acceso de las personas menstruantes de comunidades indígenas y en situación de vulnerabilidad, priorizando la utilización de productos reutilizables sustentable o ecológico.
 
 II.- Que los establecimientos de los sectores público, social y privado dedicados al expendio de medicamentos y a la provisión de insumos para su elaboración, se ajusten a los preceptos legales aplicables.
 
@@ -4494,6 +4500,14 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 28 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2337.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES I Y X DEL ARTÍCULO 56, LAS FRACCIONES V Y VI DEL ARTÍCULO 59; SE ADICIONAN LA FRACCIÓN VII AL ARTÍCULO 59 Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 62 DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2392.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XII DEL ARTÍCULO 29 Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 31; SE ADICIONA LA FRACCIÓN XIII RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 29, TODOS DE LA LEY ESTATAL DE SALUD”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
