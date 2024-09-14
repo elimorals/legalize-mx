@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-reconocimiento-y-atencion-de-los-derechos-de-110525
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-31"
-last_updated: "2023-10-28"
+last_updated: "2024-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Onceava Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de octubre de 2015.
 
@@ -239,9 +239,13 @@ XXI. A denunciar cualquier forma de explotación, dominación o circunstancia qu
 
 XXII. A ser protegidos contra la persecución, hostigamiento y detenciones arbitrarias.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 28 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-XXIII. Las demás que le reconozcan y le confieran las normas aplicables.
+XXIII. A recibir asesoría, defensa y representación legal por parte de un defensor público.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XXIV. Las demás que le reconozca (sic) y le confieran las normas aplicables.
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES DE LOS SERVIDORES PÚBLICOS Y PARTICULARES
 
@@ -1004,3 +1008,11 @@ P.O. 28 DE OCTUBRE DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1588.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XIX Y SE ADICIONAN LAS FRACCIONES XX, XXI, XXII Y XXIII AL ARTÍCULO 8 DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del estado de Oaxaca. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 2387.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XXIII Y SE ADICIONA LA FRACCIÓN XXIV AL ARTÍCULO 8 DE LA LEY PARA EL RECONOCIMIENTO Y ATENCIÓN DE LOS DERECHOS DE LOS MIGRANTES Y SUS FAMILIAS PARA EL ESTADO DE OAXACA; Y SE REFORMA LA FRACCIÓN IX Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 6 DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
