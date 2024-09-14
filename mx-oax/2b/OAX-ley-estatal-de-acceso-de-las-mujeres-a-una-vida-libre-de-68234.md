@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-08-31"
+last_updated: "2024-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -1179,11 +1179,13 @@ El Sistema estará integrado por las o los titulares del gabinete legal y amplia
 
 I. El Ejecutivo del Estado, quien lo presidirá o el funcionario que éste designe atendiendo a la naturaleza y atribuciones del Sistema;
 
-II. La Secretaria General de Gobierno, quien estará a cargo de la Secretaría Ejecutiva del Sistema;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+II. La Secretaría de Gobierno, quien estará a cargo de la Secretaría Ejecutiva del Sistema Estatal;
 
-III. La Secretaría de las Mujeres de Oaxaca, quien estará a cargo de la Secretaría Técnica del Sistema Estatal;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+III. La Secretaría de las Mujeres, quien estará a cargo de la Secretaría Técnica del Sistema Estatal;
 
 IV. El Honorable Tribunal Superior de Justicia del Estado;
 
@@ -1197,15 +1199,17 @@ VII. La Dirección General del Sistema Estatal para el Desarrollo Integral de la
 
 VIII. La Secretaría de Salud;
 
-IX. La Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+IX. La Secretaría de Seguridad y Protección Ciudadana:
 
 X. La Secretaría de Finanzas;
 
 XI. La Secretaría de Administración;
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-XII. La Secretaría de Pueblos Indígenas y Afromexicano;
+XII. La Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicana;
 
 > <small>(ADICIONADA, P.O. 20 DE AGOSTO DE 2022)</small>
 
@@ -1215,9 +1219,13 @@ XIII. La Secretaría de Movilidad;
 
 XIV. La Defensoría de los Derechos Humanos del Pueblo de Oaxaca;
 
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XIV Bis. Secretaría de Educación;
+
 XV. El Instituto Estatal de Educación Pública de Oaxaca;
 
-> <small>(ADICIONADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 XV Bis. La Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología;
 
@@ -2090,6 +2098,36 @@ VIII. Coadyuvar y participar en la operación y ejecución del "Protocolo Alba" 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE DICIEMBRE DE 2017)</small>
 
 IX. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 64 Bis.
+
+Corresponde a la Secretaría de Educación Pública las funciones siguientes:
+
+I. Definir y fomentar las políticas educativas, acciones para prevenir y erradicar la violencia en el entorno escolar en las instituciones educativas públicas y privadas de la entidad;
+
+II. Desarrollar programas educativos, en todos los niveles de escolaridad, que fomenten la cultura de una vida libre de violencia contra las mujeres;
+
+III. Capacitar a todo el personal docente y administrativo en el conocimiento, respeto y difusión del derecho humano de las mujeres a una vida libre de violencia;
+
+IV. Garantizar el derecho de las niñas, adolescentes y mujeres a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles, a través de la obtención de becas y cualquier otra forma de ayuda;
+
+V. Desarrollar investigación multidisciplinaria encaminada a crear modelos de detección de la violencia contra las niñas, adolescentes y mujeres en los centros educativos;
+
+VI. Incorporar en los programas educativos en todos los niveles, campañas publicitarias que orienten a la erradicación de la violencia contra las mujeres, y el respeto a sus derechos humanos, así como contenidos educativos con perspectiva de género;
+
+VII. Formular y aplicar programas que permitan la detección temprana de los problemas de violencia contra las niñas, adolescentes y mujeres en los centros educativos, para brindar medidas de protección;
+
+VIII. Establecer como requisito de contratación a todo el personal, docente y administrativo, acreditar no contar con antecedente de violencia contra las mujeres;
+
+IX. Informar a la autoridad competente de los casos de violencia que sucedan en las instituciones educativas públicas o privadas;
+
+X. Suscribir convenios de coordinación, colaboración y concertación en la materia;
+
+XI. Coordinar con la Secretaría de las Mujeres, la elaboración e implementación de protocolos para la prevención, atención y erradicación de cualquier tipo de violencia contra las mujeres, así como con instituciones educativas, públicas y privadas para la implementación de mecanismos de acompañamiento de la víctima;
+
+XII. Las demás previstas en las normas jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE OCTUBRE DE 2020)</small>
 
@@ -3156,6 +3194,16 @@ P.O. 31 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2358.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 10 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca, el cual entrará en vigor a partir del día siguiente de su referida publicación.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2383.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II, III, IX Y XII, Y SE ADICIONAN LAS FRACCIONES XIV BIS Y XV BIS AL ARTÍCULO 39, SE ADICIONA EL ARTÍCULO 64 BIS A LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
