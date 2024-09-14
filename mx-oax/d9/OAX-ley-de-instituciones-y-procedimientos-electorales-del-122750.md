@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-instituciones-y-procedimientos-electorales-del-122750"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2023-04-22"
+last_updated: "2024-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Segunda Sección al Número 22 del Periódico Oficial del Estado de Oaxaca, el sábado 3 de junio de 2017.
 
@@ -74,6 +74,10 @@ VIII.- Las acciones afirmativas y los procedimientos para promover y asegurar co
 > <small>(ADICIONADA, P.O. 18 DE MARZO DE 2023)</small>
 
 IX.- El reconocimiento, salvaguarda y garantía de los derechos político-electorales de las personas con discapacidad a votar y ser votados, a desempeñar cualquier función pública, participar en la dirección de los asuntos públicos y a ser designadas o elegidas para integrar algún órgano representativo.
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+X.- La procuración de incorporar sistemas de prestación de cargos y servicios municipales que se eligen por el régimen de partidos políticos y candidaturas independientes, lo anterior atendiendo a un fin útil en el contexto intercultural, sin menoscabo de los derechos políticos y electorales de la ciudadanía oaxaqueña.
 
 Artículo 2
 
@@ -6374,3 +6378,11 @@ P.O. 22 DE ABRIL DE 2023.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca y en la Gaceta Parlamentaria.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2377.- MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 1 DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
