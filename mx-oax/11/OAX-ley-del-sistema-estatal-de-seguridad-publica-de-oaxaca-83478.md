@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-sistema-estatal-de-seguridad-publica-de-oaxaca-83478"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-20"
-last_updated: "2024-08-31"
+last_updated: "2024-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el martes 20 de septiembre del 2011.
 
@@ -555,6 +555,10 @@ El Centro Estatal, será el responsable de efectuar las evaluaciones de control 
 
 La certificación y acreditación de todos los Integrantes de las Instituciones de Seguridad Pública y de las empresas de seguridad privada en el Estado y Municipios, estarán a cargo del Centro Estatal.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+La certificación a que hace referencia el párrafo anterior, deberá ser realizada con perspectiva intercultural.
+
 ###### Artículo 28.
 
 Los Integrantes de las Instituciones Policiales de los Municipios, deberán de ser evaluados por el Centro Estatal, de conformidad con los requisitos y procedimientos señalados en la presente Ley, y demás disposiciones normativas que se emitan para tal efecto.
@@ -562,6 +566,10 @@ Los Integrantes de las Instituciones Policiales de los Municipios, deberán de s
 ###### Artículo 29.
 
 El Centro Estatal, aplicará los exámenes y evaluaciones de control de confianza a los Integrantes de las Instituciones de Seguridad Pública y de las empresas de seguridad privada.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Todos los exámenes y evaluaciones de control de confianza deberán tener un enfoque con perspectiva intercultural.
 
 ###### Artículo 30.
 
@@ -2091,21 +2099,29 @@ La Profesionalización es el proceso permanente y progresivo de formación que s
 
 Los planes de estudio para la Profesionalización se integrarán por el conjunto de contenidos estructurados en unidades didácticas de enseñanza aprendizaje que estarán comprendidos en el Programa Rector.
 
-### CAPÍTULO III. DEL RÉGIMEN DISCIPLINARIO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO III. DEL SISTEMA DE SEGURIDAD DE LAS COMUNIDADES INDÍGENAS Y AFROMEXICANOS
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 110.
+
+El sistema de Seguridad de las comunidades indígenas y afromexicanos coadyuvarán en materia de seguridad pública con el Sistema Estatal en términos de lo establecido en las disposiciones aplicables.
+
+### CAPÍTULO IV. DEL RÉGIMEN DISCIPLINARIO
+
+###### Artículo 111.
 
 La actuación de los Integrantes de las Instituciones Policiales se regirá por los principios previstos en el artículo 21 de la Constitución Federal, en concordancia con el diverso 21 de la Constitución Particular, y 4 de esta Ley.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-### CAPITULO IV. DE LOS DERECHOS Y DEBERES DE LOS INTEGRANTES DE LAS INSTITUCIONES POLICIALES
-
-###### Artículo 111.
+###### Artículo 112.
 
 Los elementos de las Instituciones Policiales, en todos sus niveles jerárquicos observarán la disciplina como la base del funcionamiento y organización de las Instituciones Policiales, por lo que sus Integrantes deberán sujetar su conducta a la observancia de las leyes, órdenes y jerarquías, así como a la obediencia y al alto concepto del honor, de la justicia y de la ética. Las Instituciones Policiales exigirán de sus integrantes el más estricto cumplimiento del deber, a efecto de salvaguardar la integridad, los bienes, los derechos humanos y garantías de las personas, prevenir la comisión de delitos y preservar las libertades, el orden y la paz públicos; por lo que podrán ser objeto de la imposición de correctivos disciplinarios y sanciones, por incumplimiento a los principios de actuación previstos en el artículo 21 de la Constitución Federal y de los deberes y obligaciones establecidos en esta Ley.
 
-###### Artículo 112.
+###### Artículo 113.
 
 Para los efectos del artículo anterior y sin perjuicio de lo que se prevea en otras disposiciones legales y reglamentarias, los correctivos disciplinarios y sanciones a que se harán acreedores los miembros de los Cuerpos de Policía Estatal y Municipal serán:
 
@@ -2125,33 +2141,35 @@ III. Remoción.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-###### Artículo 113.
+###### Artículo 114.
 
 Si la autoridad jurisdiccional resolviere que la remoción fue injustificada, el Estado o los Municipios, sólo estarán obligados a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
 
-###### Artículo 114.
+###### Artículo 115.
 
 Los correctivos disciplinarios, serán aplicados por el superior inmediato en la línea o cadena de mando respectiva, mediante mecanismos ágiles y sencillos, sin que esto implique arbitrariedad en el ejercicio de esta facultad, por lo que su contravención podrá ser objeto de sanción en términos de esta Ley.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-###### Artículo 115.
+###### Artículo 116.
 
 Se podrá decretar como medida cautelar la suspensión preventiva de funciones al elemento que se encuentre sujeto a investigación administrativa o penal, por actos u omisiones de los que puedan derivarse presuntas responsabilidades y cuya permanencia en el servicio pudiera afectar las instituciones Policiales Estatales y Municipales, y a la comunidad en general, decretada por la autoridad que conozca del procedimiento interno, bajo la única condicionante de que la orden que la decrete se encuentre debidamente fundada y motivada.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 116.
+###### Artículo 117.
 
 La suspensión preventiva subsistirá hasta que el asunto de que se trate quede total y definitivamente resuelto en la instancia final del procedimiento correspondiente, de conformidad a lo establecido en la Ley, salvo que la Comisión de Honor y Justica (sic), determine que dicha medida ya no resulta conveniente en la continuación del procedimiento.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
-###### Artículo 117.
+###### Artículo 118.
 
 En caso de que el elemento resulte declarado sin responsabilidad, se le reintegrarán los salarios y prestaciones que hubiese dejado de percibir hasta ese momento, con motivo de la suspensión preventiva y en caso contrario se declarará la sanción que conforme a las constancias resulte procedente aplicar.
 
-###### Artículo 118.
+### CAPITULO V. DE LOS DERECHOS Y DEBERES DE LOS INTEGRANTES DE LAS INSTITUCIONES POLICIALES
+
+###### Artículo 119.
 
 Son derechos de los Integrantes de las Instituciones Policiales, los siguientes.
 
@@ -2213,9 +2231,7 @@ XXVI. Cambiar de adscripción por permuta, cuando las necesidades del servicio l
 
 XXVII. Los demás que establezcan las disposiciones legales aplicables.
 
-### CAPÍTULO V. DE LA INVESTIGACIÓN POLICIAL DE LOS DELITOS
-
-###### Artículo 119.
+###### Artículo 120.
 
 Son deberes de los Integrantes de las Instituciones de Policía:
 
@@ -2317,7 +2333,9 @@ Siempre que se use la fuerza pública se hará de manera racional, congruente, o
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MAYO DE 2015)</small>
 
-###### Artículo 120.
+### CAPÍTULO VI. DE LA INVESTIGACIÓN POLICIAL DE LOS DELITOS
+
+###### Artículo 121.
 
 El Cuerpo Especializado de la Policía Estatal, desarrollará labores de búsqueda, recolección, análisis, evaluación e interpretación de la información para su utilización e intercambio, que permita la planeación de operativos para prevenir conductas delictivas o detener en flagrancia a presuntos responsables en la comisión de conductas ilícitas, debiendo hacer del conocimiento del Ministerio Público, hechos que pudieran ser constitutivos de delito.
 
@@ -2343,25 +2361,33 @@ V. Individualización, sólo se aplicará a las personas que tengan relación co
 
 VI. Intervención Mínima, debe tener carácter de última ratio, sólo se utilizarán para la protección de los bienes jurídicos más importantes frente a los ataques más graves.
 
-### CAPÍTULO VI. DE LA ATENCIÓN A VÍCTIMAS DEL DELITO
-
-> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
-
-Artículo 122 BIS. Las instituciones policiales podrán otorgar atención inmediata o especializada a las víctimas del delito, según sea el caso. Para tales efectos, su actuación se regirá de acuerdo a los lineamientos normativos que expida la Comisión Ejecutiva Estatal de Atención a Víctimas.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-###### Artículo 121.
+###### Artículo 122.
 
 Las Instituciones Policiales del Estado, recabarán la información necesaria para el cumplimiento de sus tareas a través del establecimiento y operación de los servicios de atención de emergencias, denuncias anónimas y quejas, que en el caso de la comunicación vía telefónica tendrá un número único de atención a la ciudadanía, para todo el territorio estatal.
 
-###### Artículo 122.
+###### Artículo 123.
 
 En las labores diarias de vigilancia se buscará una distribución racional de la fuerza policial y que los elementos asignados puedan cubrir todo el territorio estatal en forma adecuada y eficiente, que focalice las necesidades específicas que cada región o sector policial plantea, a fin de desarrollar una capacidad de reacción expedita y se mantenga una relación cercana con los habitantes de modo que inspiren confianza y puedan reconocer las preocupaciones de los mismos, además de propiciar su colaboración.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 7 DE MAYO DE 2015)</small>
 
-###### Artículo 123.
+### CAPÍTULO VII. DE LA ATENCIÓN A VÍCTIMAS DEL DELITO
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2015)</small>
+
+Artículo 123 BIS. Las instituciones policiales podrán otorgar atención inmediata o especializada a las víctimas del delito, según sea el caso. Para tales efectos, su actuación se regirá de acuerdo a los lineamientos normativos que expida la Comisión Ejecutiva Estatal de Atención a Víctimas.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+## TÍTULO DÉCIMO. DE LAS INSTANCIAS COLEGIADAS DE LAS INSTITUCIONES POLICIALES
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+### CAPÍTULO I. DE LA COMISIÓN DEL SERVICIO PROFESIONAL DE CARRERA
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 124.
 
 La Comisión del Servicio Profesional de Carrera, es el órgano colegiado encargado de determinar y ejecutar las disposiciones administrativas relacionadas con los procedimientos de reclutamiento, selección, ingreso, formación, certificación, permanencia, evaluación, promoción, estímulos y reconocimiento, que comprende el Servicio de Carrera Policial, además será la instancia encargada en el ámbito de su competencia, de que se cumplan con los fines de la Carrera Policial.
 
@@ -2393,19 +2419,7 @@ Los integrantes de la Comisión podrán designar un suplente, quienes tendrán l
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-### CAPÍTULO I. DE LA COMISIÓN DEL SERVICIO PROFESIONAL DE CARRERA
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-## TÍTULO DÉCIMO. DE LAS INSTANCIAS COLEGIADAS DE LAS INSTITUCIONES POLICIALES
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-### CAPÍTULO ll. DE LA COMISIÓN DE HONOR Y JUSTICIA
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-###### Artículo 124.
+###### Artículo 125.
 
 La Comisión del Servicio Profesional de Carrera, tendrá las siguientes atribuciones:
 
@@ -2445,7 +2459,11 @@ XVII. Las demás que le señalen la presente Ley, y demás disposiciones legales
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REUBICADO], P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 125.
+### CAPÍTULO ll. DE LA COMISIÓN DE HONOR Y JUSTICIA
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 126.
 
 La Comisión de Honor y Justicia, es el órgano colegiado de carácter honorifico que conocerá y resolverá toda controversia que se suscite por incumplimiento a los requisitos de permanencia o por infracción al régimen disciplinario de los integrantes de las Instituciones Policiales, con motivo de las infracciones previstas en la Ley General, esta Ley y demás disposiciones normativas aplicables.
 
@@ -2477,11 +2495,7 @@ Los integrantes de la Comisión podrán designar un suplente, quienes tendrán l
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-### CAPÍTULO III. DEL PROCEDIMIENTO
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-###### Artículo 126.
+###### Artículo 127.
 
 La Comisión de Honor y Justicia, tendrá las siguientes atribuciones:
 
@@ -2509,7 +2523,11 @@ XI. Las demás que le señalen la presente Ley, y demás disposiciones legales a
 
 (REUBICADO, P.O. 10 DE NOVIEMBRE DE 2018)
 
-###### Artículo 127.
+### CAPÍTULO III. DEL PROCEDIMIENTO
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 128.
 
 El procedimiento que se instaure a los Integrantes de la Policía Estatal por incumplimiento a los requisitos de permanencia o por infracción al régimen disciplinario ante la Comisión de Honor y Justicia, iniciará por solicitud fundada y motivada del responsable de la Dirección General de Asuntos Internos, dirigida al Presidente de la Comisión de Honor y Justicia, remitiendo para tal efecto el expediente del presunto infractor.
 
@@ -2521,11 +2539,7 @@ El procedimiento será oral y se regirá por los principios de publicidad, contr
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-### CAPÍTULO IV. DEL RECURSO DE RECLAMACIÓN
-
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-###### Artículo 128.
+###### Artículo 129.
 
 El acuerdo que emita el Presidente de la Comisión de Honor y Justicia respecto a la no procedencia del inicio del procedimiento, podrá ser impugnado por el área administrativa solicitante mediante el recurso de reclamación ante la misma Comisión, dentro del término de cinco días contados a partir de la notificación y recepción del expediente respectivo.
 
@@ -2533,7 +2547,7 @@ En el escrito de reclamación, el área administrativa sustentante expresará lo
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 129.
+###### Artículo 130.
 
 Resuelto el inicio del procedimiento, el Secretario Técnico, deberá señalar a la brevedad la fecha para la celebración de la audiencia de pruebas y alegatos, la cual deberá notificarse al presunto infractor, cuando menos quince días hábiles antes de la celebración de la audiencia, haciéndole saber la infracción que se le imputa, el lugar, el día y la hora en que tendrá verificativo dicha audiencia y su derecho a contestar, ofrecer pruebas y formular alegatos, asistido de un defensor público o particular, y podrá imponerse de los autos del expediente.
 
@@ -2543,7 +2557,7 @@ El presunto infractor, deberá señalar domicilio para ser notificado en el proc
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 130.
+###### Artículo 131.
 
 La notificación del citatorio para la audiencia de pruebas y alegatos se realizará personalmente al presunto infractor en el domicilio oficial de la adscripción de éste, en el último que hubiera reportado, o en el lugar en que se encuentre físicamente y se le hará saber el lugar donde quedará a disposición en tanto se dicte la resolución definitiva respectiva.
 
@@ -2551,13 +2565,13 @@ El Presidente de la Comisión de Honor y Justicia podrá quitar la suspensión t
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 131.
+###### Artículo 132.
 
 El día y hora señalados para la audiencia de pruebas y alegatos del presunto infractor, el Presidente de la Comisión de Honor y Justicia declarará formalmente abierta la audiencia y enseguida, el Secretario Técnico tomará los generales de aquél y de su defensor, a quien protestará en el cargo y apercibirá al primero para conducirse con verdad.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 132.
+###### Artículo 133.
 
 Los integrantes de la Comisión de Honor y Justicia, podrán formular preguntas al presunto infractor, por conducto del Secretario Técnico, con la finalidad de allegarse de los datos necesarios para el conocimiento del asunto.
 
@@ -2565,7 +2579,7 @@ Las pruebas que sean presentadas por las partes, serán debidamente analizadas y
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 133.
+###### Artículo 134.
 
 Son admisibles como medio de prueba:
 
@@ -2595,7 +2609,7 @@ En caso contrario, se procederá a la formulación de alegatos.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 135.
+###### Artículo 136.
 
 Una vez desahogadas todas las pruebas y presentados los alegatos, la Comisión de Honor y Justicia, deberá emitir la resolución que conforme a derecho corresponda, dentro del término de veinte días hábiles contados a partir del cierre de la audiencia de pruebas y alegatos.
 
@@ -2603,7 +2617,7 @@ La resolución se notificará personalmente al interesado por conducto del perso
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 136.
+###### Artículo 137.
 
 Contra la resolución del procedimiento disciplinario procederá el recurso de revisión que deberá interponerse en término de cinco días hábiles contados a partir de la notificación de la resolución.
 
@@ -2615,13 +2629,17 @@ Las resoluciones de la Comisión de Honor y Justicia, que recaigan sobre el recu
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 137.
+###### Artículo 138.
 
 Para lo no previsto en el presente capítulo se aplicará de manera supletoria el Código de Procedimientos Civiles para el Estado de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 138.
+### CAPÍTULO IV. DEL RECURSO DE RECLAMACIÓN
+
+> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
+
+###### Artículo 139.
 
 El recurso de reclamación se desarrollará conforme a las siguientes bases:
 
@@ -2655,7 +2673,7 @@ D. El órgano colegiado resolverá de plano este recurso, dentro de los cinco d�
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 139.
+###### Artículo 140.
 
 En contra de las resoluciones que pongan fin al procedimiento de la Comisión de Honor y Justicia, procede el recurso de revisión, que se substanciará ante la propia Comisión, como órgano revisor, quien tramitará y resolverá conforme a las bases siguientes:
 
@@ -2727,9 +2745,7 @@ V. Por falta de objeto o materia del acto respectivo.
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-### CAPÍTULO I. DEL INTERCAMBIO, SUMINISTRO Y ACCESO A LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
-
-###### Artículo 140.
+###### Artículo 141.
 
 Las pruebas supervinientes se desahogaran a la brevedad, a fin de no dilatar el procedimiento.
 
@@ -2737,7 +2753,7 @@ La Comisión, en beneficio del recurrente, deberá corregir los errores que advi
 
 > <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 141.
+###### Artículo 142.
 
 La Comisión podrá:
 
@@ -2759,7 +2775,11 @@ No se tomarán en cuenta en la resolución del recurso, hechos, documentos o ale
 
 Si se determina la no procedencia del recurso de revisión y resuelto el recurso, sin mayor trámite, ordenará que se proceda al cumplimiento de la resolución.
 
-###### Artículo 142.
+## TÍTULO DÉCIMO PRIMERO. DEL SISTEMA PENITENCIARIO Y DE REINSERCIÓN SOCIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
+
+###### Artículo 143.
 
 El Sistema Penitenciario Estatal tiene por objeto procurar la reinserción social del sentenciado sobre la base del respeto a los derechos humanos, la educación, el trabajo, la capacitación para el mismo, la salud y el deporte; y la reintegración social y familiar del adolescente a quien se le atribuya la realización o participación en una conducta tipificada como delito; además buscará evitar la desvinculación a la sociedad de las personas privadas de la libertad.
 
@@ -2773,11 +2793,11 @@ La Secretaría, establecerá en cada Centro Penitenciario, equipos que permitan 
 
 Los casos, condiciones y requisitos necesarios para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico y en los centros penitenciarios federales y estatales, será en los términos establecidos por el Consejo Nacional.
 
-## TÍTULO DÉCIMO PRIMERO. DEL SISTEMA PENITENCIARIO Y DE REINSERCIÓN SOCIAL
+## TÍTULO DÉCIMO SEGUNDO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2015)</small>
+DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA.
 
-###### Artículo 143.
+###### Artículo 144.
 
 El Programa Estatal de Seguridad Publica guardará congruencia con el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y el Programa Nacional de Seguridad Pública, debiendo contener:
 
@@ -2803,39 +2823,35 @@ Este programa que será a corto, mediano y largo plazo, tendrá carácter priori
 
 Así mismo, contendrá los acuerdos, convenios de coordinación, colaboración concertación y los pronunciamientos entre el Estado con la Federación, Entidades Federativas, y los Municipios; así como los subprogramas específicos, incluidos los municipales, las acciones y metas operativas, y aquellas que requieran de concertación con los grupos sociales; las opiniones recabadas en los foros de consulta y de los Consejos Regionales y Municipales de Seguridad Pública y organizaciones vecinales o sociales que se emitan en relación a la seguridad pública y las dependencias o unidades administrativas responsables de su ejecución.
 
-## TÍTULO DÉCIMO SEGUNDO
-
-DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA.
-
-###### Artículo 144.
+###### Artículo 145.
 
 Corresponde al Gobernador del Estado y a los Presidentes Municipales, en sus respectivos ámbitos de competencia, la ejecución del Programa Estatal.
 
-###### Artículo 145.
-
-Los Secretarios Ejecutivos de los Consejos Estatal, Regionales y Municipales de Seguridad Pública, darán amplia difusión al Programa Estatal, implementando los mecanismos mediante los cuales la población debe participar en el mismo.
-
 ###### Artículo 146.
 
-El Secretario, a través del Subsecretario de Información y Desarrollo Institucional, establecerá y operará el Sistema Estatal de Información de Seguridad Pública, el cual efectuará los procesos de suministro, integración, sistematización, intercambio, consulta, análisis y actualización de la información que en la materia generen las Instituciones Policiales del Estado y Municipios.
-
-Los procesos aludidos se realizarán a través de los equipos y sistemas tecnológicos respectivos.
+Los Secretarios Ejecutivos de los Consejos Estatal, Regionales y Municipales de Seguridad Pública, darán amplia difusión al Programa Estatal, implementando los mecanismos mediante los cuales la población debe participar en el mismo.
 
 ## TÍTULO DÉCIMO TERCERO. DE LA INFORMACIÓN SOBRE SEGURIDAD PÚBLICA
 
 ###### Artículo 147.
 
-Las Instituciones de Seguridad Pública recopilarán, sistematizarán, suministrarán y actualizarán diariamente la información que generen en el ejercicio de sus funciones, conforme a las disposiciones emitidas en la materia.
+El Secretario, a través del Subsecretario de Información y Desarrollo Institucional, establecerá y operará el Sistema Estatal de Información de Seguridad Pública, el cual efectuará los procesos de suministro, integración, sistematización, intercambio, consulta, análisis y actualización de la información que en la materia generen las Instituciones Policiales del Estado y Municipios.
+
+Los procesos aludidos se realizarán a través de los equipos y sistemas tecnológicos respectivos.
 
 ###### Artículo 148.
 
-Los Municipios, a través de sus policías preventivas municipales, integrarán, suministrarán, consultarán y actualizarán las bases de datos del Sistema Estatal de Información sobre Seguridad Pública, para lo cual contará en su estructura orgánica, con la unidad respectiva y con los servidores públicos capacitados y certificados para la realización de estas funciones.
+Las Instituciones de Seguridad Pública recopilarán, sistematizarán, suministrarán y actualizarán diariamente la información que generen en el ejercicio de sus funciones, conforme a las disposiciones emitidas en la materia.
 
 ###### Artículo 149.
 
-Toda Información para la Seguridad Pública generada o en poder de Instituciones Policiales debe registrarse, clasificarse y tratarse de conformidad con la presente Ley y demás disposiciones aplicables.
+Los Municipios, a través de sus policías preventivas municipales, integrarán, suministrarán, consultarán y actualizarán las bases de datos del Sistema Estatal de Información sobre Seguridad Pública, para lo cual contará en su estructura orgánica, con la unidad respectiva y con los servidores públicos capacitados y certificados para la realización de estas funciones.
 
 ###### Artículo 150.
+
+Toda Información para la Seguridad Pública generada o en poder de Instituciones Policiales debe registrarse, clasificarse y tratarse de conformidad con la presente Ley y demás disposiciones aplicables.
+
+###### Artículo 151.
 
 Se considera información reservada la siguiente:
 
@@ -2855,33 +2871,33 @@ V. La información contenida en todas y cada una de las Bases de Datos del Siste
 
 La consulta de la información establecida en la fracción V, es exclusiva de las Instituciones de Seguridad Pública que estén facultadas en cada caso, a través de los servidores públicos que cada.Institución (sic) designe, por lo que el público no tendrá acceso a la información que en ellos se contenga.
 
-###### Artículo 151.
+###### Artículo 152.
 
 La inobservancia a lo dispuesto en el presente Título constituye responsabilidad administrativa grave para los efectos de las disposiciones legales aplicables, sin perjuicio de la sanción penal prevista en el Código Penal del Estado de Oaxaca y demás disposiciones aplicables.
 
-###### Artículo 152.
+###### Artículo 153.
 
 Las Instituciones Policiales atenderán en todo caso a las disposiciones emitidas por los Consejos Nacional y Estatal de Seguridad Pública, para la integración y preservación de la información administrada y sistematizada.
 
-###### Artículo 153.
+###### Artículo 154.
 
 Para los efectos de la integración y manejo de la información a que se refiere este Título, el Secretario y los Presidentes Municipales, en el ámbito de sus respectivas competencias, deberán nombrar a un responsable en términos de lo dispuesto por la fracción VI, apartado B, del artículo 39 de la Ley General.
 
-###### Artículo 154.
-
-Las Instituciones Policiales intercambiarán la información que obre en sus bases de datos con la Subsecretaría de Información y Desarrollo Institucional, en los términos de las disposiciones aplicables.
-
-### CAPÍTULO II. DE LA CERTIFICACIÓN DE LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
+### CAPÍTULO I. DEL INTERCAMBIO, SUMINISTRO Y ACCESO A LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
 
 ###### Artículo 155.
 
-No se podrán celebrar convenios para el intercambio o suministro de información para la seguridad pública con instituciones públicas extranjeras o privadas de cualquier nacionalidad.
+Las Instituciones Policiales intercambiarán la información que obre en sus bases de datos con la Subsecretaría de Información y Desarrollo Institucional, en los términos de las disposiciones aplicables.
 
 ###### Artículo 156.
 
-Toda Información para la Seguridad Pública en poder de Instituciones Policiales deberá suministrarse debidamente certificada, a cualquiera de las autoridades judiciales o administrativas competentes para requerirla, siempre y cuando se relacione con el cumplimiento de sus atribuciones.
+No se podrán celebrar convenios para el intercambio o suministro de información para la seguridad pública con instituciones públicas extranjeras o privadas de cualquier nacionalidad.
 
 ###### Artículo 157.
+
+Toda Información para la Seguridad Pública en poder de Instituciones Policiales deberá suministrarse debidamente certificada, a cualquiera de las autoridades judiciales o administrativas competentes para requerirla, siempre y cuando se relacione con el cumplimiento de sus atribuciones.
+
+###### Artículo 158.
 
 Son autoridades competentes para requerir Información para la Seguridad Pública, las siguientes:
 
@@ -2891,7 +2907,7 @@ II. Las Instituciones de Procuración de Justicia respecto de la información co
 
 III. Las autoridades administrativas competentes para imponer sanciones por la comisión de infracciones administrativas derivadas de conductas relacionadas con las materias que regula la presente Ley.
 
-###### Artículo 158.
+###### Artículo 159.
 
 Toda Institución policial tendrá acceso a la información contenida en las bases de datos de otras Instituciones de esta naturaleza.
 
@@ -2899,19 +2915,17 @@ Los servidores públicos de las Instituciones Policiales que participen en la ob
 
 Todo servidor público, independientemente de su adscripción, deberá acatar las disposiciones de este artículo cuando, por razón de su encargo, conozca o maneje la información que haya sido reservada.
 
-###### Artículo 159.
-
-El Secretario, por sí o a través del servidor público en el que delegue dicha función, de conformidad con los lineamientos de la presente Ley, podrá certificar la información para la seguridad pública contenida en las bases de datos de sus respectivas Instituciones Policiales y del Sistema Estatal de Información sobre Seguridad Pública.
-
-### CAPÍTULO III. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
-
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 2023)</small>
+### CAPÍTULO II. DE LA CERTIFICACIÓN DE LA INFORMACIÓN PARA LA SEGURIDAD PÚBLICA
 
 ###### Artículo 160.
 
-La facultad de certificación podrá delegarse en el servidor público que se designe para el suministro, actualización y consulta de la información contenida en las bases de datos.
+El Secretario, por sí o a través del servidor público en el que delegue dicha función, de conformidad con los lineamientos de la presente Ley, podrá certificar la información para la seguridad pública contenida en las bases de datos de sus respectivas Instituciones Policiales y del Sistema Estatal de Información sobre Seguridad Pública.
 
 ###### Artículo 161.
+
+La facultad de certificación podrá delegarse en el servidor público que se designe para el suministro, actualización y consulta de la información contenida en las bases de datos.
+
+###### Artículo 162.
 
 La certificación a que hace referencia el artículo anterior, tendrá las modalidades siguientes:
 
@@ -2921,25 +2935,27 @@ II. Certificación de información y documentos de respaldo, y
 
 III. Certificación de información obtenida por la Secretaría con equipos y sistemas tecnológicos.
 
-###### Artículo 162.
+###### Artículo 163.
 
 La certificación de información inscrita es el acto de autoridad plasmado en una documental a través del cual la autoridad competente por Ley o delegación de facultades hace constar que la información materia de la certificación se encuentra inscrita de esa forma en las bases de datos de las Instituciones de Seguridad Pública y del Sistema Estatal de Información sobre Seguridad Pública.
 
-###### Artículo 163.
+###### Artículo 164.
 
 La certificación de información inscrita que se ofrezca en juicios o procedimientos del fuero común, con arreglo a la presente Ley, será valorada de conformidad con las leyes procesales aplicables.
 
-###### Artículo 164.
+### CAPÍTULO III. DEL REGISTRO ADMINISTRATIVO DE DETENCIONES
 
-Se establece el Registro Administrativo de Detenciones a cargo de la Dirección General de Información y Análisis de la Secretaría de Seguridad y Protección Ciudadana, que se interrelacionará con sus áreas semejantes de la Federación, de Entidades Federativas y de los Municipios, de conformidad con los convenios que se suscriban en el marco del Sistema Nacional y Estatal de Seguridad Pública.
-
-### CAPÍTULO IV. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 2023)</small>
 
 ###### Artículo 165.
 
-Todos los Integrantes de las Instituciones Policiales que realicen la detención de un mayor de edad al que se le imputa la comisión de un delito o de un menor de edad que probablemente cometió una conducta tipificada como delito por las leyes penales, elaborará el Informe Policial Homologado y lo comunicará de inmediato a la Dirección General de Información y Análisis de la Secretaría.
+Se establece el Registro Administrativo de Detenciones a cargo de la Dirección General de Información y Análisis de la Secretaría de Seguridad y Protección Ciudadana, que se interrelacionará con sus áreas semejantes de la Federación, de Entidades Federativas y de los Municipios, de conformidad con los convenios que se suscriban en el marco del Sistema Nacional y Estatal de Seguridad Pública.
 
 ###### Artículo 166.
+
+Todos los Integrantes de las Instituciones Policiales que realicen la detención de un mayor de edad al que se le imputa la comisión de un delito o de un menor de edad que probablemente cometió una conducta tipificada como delito por las leyes penales, elaborará el Informe Policial Homologado y lo comunicará de inmediato a la Dirección General de Información y Análisis de la Secretaría.
+
+###### Artículo 167.
 
 El Informe Policial Homologado contendrá, los siguientes datos:
 
@@ -2999,7 +3015,7 @@ j) Fotografía panorámica del lugar de detención, en su caso.
 
 El informe debe ser completo, los hechos deben describirse con continuidad, cronológicamente y resaltando lo importante; no deberá contener afirmaciones sin el soporte de datos o hechos reales, por lo que deberá evitar información de oídas, conjeturas o conclusiones ajenas a la diligencia.
 
-###### Artículo 167.
+###### Artículo 168.
 
 El Registro Administrativo de Detenciones se compone de las siguientes secciones:
 
@@ -3009,7 +3025,7 @@ II. Procuración de justicia, y
 
 III. Justicia para adolescentes.
 
-###### Artículo 168.
+###### Artículo 169.
 
 La sección de detención deberá integrarse por lo menos, con la siguiente información:
 
@@ -3081,7 +3097,7 @@ a. Ficha signaléctica (sic) o cualquier otra forma de identificación del inter
 
 b. Cualquier otro medio que se genere en dicha dependencia y que permita su identificación.
 
-###### Artículo 169.
+###### Artículo 170.
 
 La sección de justicia para adolescentes se compondrá, por lo menos, de la siguiente información:
 
@@ -3121,19 +3137,19 @@ h. Determinación de las actuaciones del Ministerio Público especializado en ju
 
 i. Institución y domicilio donde queda recluido el detenido, o señalamiento de que se dejó en libertad y, en su caso, el monto de la caución otorgada.
 
-###### Artículo 170.
+###### Artículo 171.
 
 Las Instituciones Policiales deberán presentar la información al Registro Administrativo de Detenciones, a que se refiere este capítulo, dentro de los siete días naturales siguientes a aquél en que se genere o reciba dicha información.
 
-###### Artículo 171.
+###### Artículo 172.
 
 Las Instituciones Policiales deberán informar a quien lo solicite, de la detención de una persona y en su caso, la autoridad ante la que se puso a disposición el detenido.
 
-###### Artículo 172.
+###### Artículo 173.
 
 El Registro Administrativo de Detenciones ajustará sus dispositivos tecnológicos conforme a lo establecido por las autoridades correspondientes.
 
-###### Artículo 173.
+###### Artículo 174.
 
 La información capturada en el Registro Administrativo de Detenciones será confidencial y reservada. Sólo tendrán acceso a la información contenida en el registro:
 
@@ -3147,29 +3163,23 @@ Bajo ninguna circunstancia se podrá proporcionar información contenida en el R
 
 El Registro Administrativo de Detenciones no podrá ser utilizado como base de discriminación, vulneración de la dignidad, intimidad, privacidad u honra de persona alguna.
 
-###### Artículo 175.
+###### Artículo 176.
 
 Las Instituciones Policiales y de Seguridad Pública serán responsables de la administración, guarda y custodia de los datos que integran el Registro Administrativo de Detenciones, en el ámbito de su competencia.
 
 Al servidor público que quebrante la reserva de este registro o proporcione información sobre el mismo, se le sujetará al procedimiento de responsabilidad administrativa o penal, según corresponda.
 
-###### Artículo 176.
-
-Con el propósito de planear las estrategias y políticas tendentes a la preservación del orden, la tranquilidad y la paz pública, en el Estado y los Municipios, la Dirección General de Información y Análisis de la Secretaría, integrara las estadísticas, y las remitirá al Secretario Ejecutivo, a fin de que proponga las estrategias y acciones a implementar en la materia.
-
-### CAPÍTULO V. DEL REGISTRO NACIONAL DE MEDIDAS CAUTELARES, SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
-
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
-
-###### Artículo 178 Bis.
-
-Las Instituciones de Seguridad Pública en el ámbito de su competencia suministrarán y actualizarán permanentemente la información en el Registro Nacional de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada, en términos de la Ley General.
+### CAPÍTULO IV. DE LA ESTADÍSTICA DE SEGURIDAD PÚBLICA
 
 ###### Artículo 177.
 
-Se establece un programa permanente de investigación para el reconocimiento de los delitos no denunciados y las infracciones no registradas oficialmente, mediante encuestas, entrevistas y otros medios idóneos a cargo del Consejo Estatal.
+Con el propósito de planear las estrategias y políticas tendentes a la preservación del orden, la tranquilidad y la paz pública, en el Estado y los Municipios, la Dirección General de Información y Análisis de la Secretaría, integrara las estadísticas, y las remitirá al Secretario Ejecutivo, a fin de que proponga las estrategias y acciones a implementar en la materia.
 
 ###### Artículo 178.
+
+Se establece un programa permanente de investigación para el reconocimiento de los delitos no denunciados y las infracciones no registradas oficialmente, mediante encuestas, entrevistas y otros medios idóneos a cargo del Consejo Estatal.
+
+###### Artículo 179.
 
 La estadística se integrará al Sistema Estatal de Información sobre Seguridad Pública, que conforme a las disposiciones aplicables sistematizará los datos y cifras relevantes sobre servicios y operaciones del Cuerpo de Policía Estatal e investigación del delito; procuración y administración de justicia; sistemas de prisión preventiva y ejecución de sanciones; aplicación de medidas de orientación, protección y tratamiento de adolescentes; así como otros datos y elementos asociados a la seguridad pública.
 
@@ -3177,17 +3187,23 @@ Cuando la revelación de la información a que se hace referencia en el párrafo
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-###### Artículo 179.
+### CAPÍTULO V. DEL REGISTRO NACIONAL DE MEDIDAS CAUTELARES, SOLUCIONES ALTERNAS Y FORMAS DE TERMINACIÓN ANTICIPADA
 
-El Consejo Estatal, establecerá mecanismos y procedimientos para la participación de la sociedad respecto de las funciones que realice y en general, de las actividades de la seguridad pública en el Estado.
+> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2018)</small>
 
-### CAPÍTULO I. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
+###### Artículo 179 Bis.
+
+Las Instituciones de Seguridad Pública en el ámbito de su competencia suministrarán y actualizarán permanentemente la información en el Registro Nacional de Medidas Cautelares, Soluciones Alternas y Formas de Terminación Anticipada, en términos de la Ley General.
 
 ## TÍTULO DÉCIMO CUARTO. DE LA PARTICIPACIÓN CIUDADANA
 
-### CAPÍTULO II. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
+### CAPÍTULO I. DE LOS COMITÉS DE CONSULTA Y PARTICIPACIÓN CIUDADANA
 
 ###### Artículo 180.
+
+El Consejo Estatal, establecerá mecanismos y procedimientos para la participación de la sociedad respecto de las funciones que realice y en general, de las actividades de la seguridad pública en el Estado.
+
+###### Artículo 181.
 
 Los Consejos Estatal, Regionales y Municipales de Seguridad Pública, en el ámbito de su competencia, promoverán la integración de Comités de Consulta y Participación Ciudadana, a fin de involucrar a la sociedad para:
 
@@ -3203,7 +3219,7 @@ V. Presentar denuncias o quejas sobre irregularidades del Cuerpo de Policía Est
 
 VI. Auxiliar a las autoridades competentes en el ejercicio de sus tareas y participar en las actividades que no sean confidenciales o pongan en riesgo el buen desempeño en la función de seguridad pública.
 
-###### Artículo 181.
+###### Artículo 182.
 
 La participación ciudadana en materia de seguimiento, evaluación y supervisión de políticas y de las Instituciones Policiales, se sujetará a los indicadores previamente establecidos sobre los temas siguientes:
 
@@ -3215,7 +3231,7 @@ c) El impacto de las políticas públicas en prevención del delito.
 
 Los resultados de los estudios serán entregados a las Instituciones de Seguridad Pública del Estado y servirán para la formulación de políticas públicas en la materia.
 
-###### Artículo 182.
+###### Artículo 183.
 
 En los Comités de Consulta y Participación Ciudadana Estatal Regional y Municipal, se contará con una mesa directiva integrada de la siguiente manera:
 
@@ -3229,19 +3245,19 @@ IV. Tres Vocales Propietarios; y
 
 V. Tres Vocales Suplentes.
 
-###### Artículo 183.
+###### Artículo 184.
 
 Los Comités de Consulta y Participación Ciudadana Estatal Regional y Municipal deberán integrarse por ciudadanos independientes o representantes de organizaciones educativas, culturales, de profesionales, de comerciantes, industriales, deportivas y de servicios en general, que tengan interés en colaborar en actividades vinculadas con los objetivos de la seguridad pública.
 
-###### Artículo 184.
+###### Artículo 185.
 
 Los Comités de Consulta y Participación Ciudadana Estatal, Regional y Municipal, se regirán por lo dispuesto en la Ley y en las demás disposiciones en la materia.
 
-###### Artículo 185.
+###### Artículo 186.
 
 Los Comités de Consulta y Participación Ciudadana Estatal, Regional y Municipal, sesionarán ordinariamente cada dos meses y extraordinariamente las veces que sean necesarias, por convocatoria de su Presidente.
 
-###### Artículo 186.
+###### Artículo 187.
 
 Los Comités de Consulta y Participación Ciudadana Estatal, Regional y Municipal, en el ámbito de sus respectivas competencias, tendrán las atribuciones siguientes:
 
@@ -3271,7 +3287,9 @@ XII. Las demás que les otorguen esta Ley y otros ordenamientos de la materia.
 
 La Secretaría contará con una Dirección General de Prevención del Delito y Participación Ciudadana, para alcanzar los propósitos de este capítulo.
 
-###### Artículo 187.
+### CAPÍTULO II. DE LOS SERVICIOS DE ATENCIÓN A LA POBLACIÓN
+
+###### Artículo 188.
 
 El Secretariado Ejecutivo, impulsará el desarrollo de políticas públicas de atención temprana a la víctima del delito, que deberán prever, los rubros siguientes:
 
@@ -3283,7 +3301,7 @@ III. Medidas de protección a la víctima del Delito; y
 
 IV. Otras, en los términos del artículo 20 de la Constitución Federal.
 
-###### Artículo 188.
+###### Artículo 189.
 
 La Secretaría, impulsará las acciones necesarias para que el Estado y los Municipios, establezcan conjuntamente un servicio de asistencia telefónica para responder y orientar a la población en caso de emergencias, para que reciba los reportes sobre faltas y delitos de que tenga conocimiento y para la localización de personas y bienes.
 
@@ -3291,37 +3309,37 @@ La Secretaría, impulsará las acciones necesarias para que el Estado y los Muni
 
 El servicio de asistencia telefónica operara de acuerdo con las bases previstas en los convenios de coordinación o en los Programas de Seguridad Pública bajo los números de emergencia y de denuncia anónima, que funcionaran de conformidad con el reglamento que al efecto se expida. Este servicio de asistencia telefónica también deberá brindar la atención en las lenguas indígenas del estado y al menos una lengua extranjera.
 
-###### Artículo 189.
-
-El servicio tendrá comunicación directa con las Instituciones Policiales, salud, bomberos, protección civil y las demás instancias de asistencia pública y privada.
-
 ###### Artículo 190.
 
-El Secretario podrá autorizar a particulares la prestación de servicios de seguridad privada, siempre que se satisfagan los requisitos determinados por su reglamento y demás disposiciones aplicables; lo requiera el interés general. Los servicios de seguridad privada, consisten en la protección, vigilancia, custodia de personas, información, bienes inmuebles, muebles o valores, incluidos su traslado, interior y exterior; instalación, operación de sistemas y equipo de seguridad; aportar datos para la investigación de delitos, y apoyar en caso de siniestros y desastres, en su carácter de auxiliares en la función de seguridad pública, por parte de empresas particulares o personas físicas o morales autorizadas en términos de lo establecido por esta Ley, el reglamento respectivo y demás leyes aplicables.
+El servicio tendrá comunicación directa con las Instituciones Policiales, salud, bomberos, protección civil y las demás instancias de asistencia pública y privada.
 
 ## TÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
 ###### Artículo 191.
 
-Las personas físicas o morales, prestadores de los servicios de seguridad privada y todos aquellos que realicen funciones relacionadas con la seguridad pública, son auxiliares de la seguridad pública, quedando sujetos a los principios de actuación previstos en la presente Ley y en los términos y modalidades que se señalen en el reglamento que al efecto se expida.
+El Secretario podrá autorizar a particulares la prestación de servicios de seguridad privada, siempre que se satisfagan los requisitos determinados por su reglamento y demás disposiciones aplicables; lo requiera el interés general. Los servicios de seguridad privada, consisten en la protección, vigilancia, custodia de personas, información, bienes inmuebles, muebles o valores, incluidos su traslado, interior y exterior; instalación, operación de sistemas y equipo de seguridad; aportar datos para la investigación de delitos, y apoyar en caso de siniestros y desastres, en su carácter de auxiliares en la función de seguridad pública, por parte de empresas particulares o personas físicas o morales autorizadas en términos de lo establecido por esta Ley, el reglamento respectivo y demás leyes aplicables.
 
 ###### Artículo 192.
 
-Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, la Ley General, la presente Ley y demás disposiciones aplicables, los particulares, personas físicas o morales que presten servicios de seguridad privada en el interior o exterior de los establecimientos comerciales, públicos o privados, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, o sistemas de alarma; así como de servicios de seguridad interna al sector turístico, deberán obtener la autorización de la Secretaría para prestar sus servicios, cuando la empresa que lo presta opere dentro de los límites del Estado.
+Las personas físicas o morales, prestadores de los servicios de seguridad privada y todos aquellos que realicen funciones relacionadas con la seguridad pública, son auxiliares de la seguridad pública, quedando sujetos a los principios de actuación previstos en la presente Ley y en los términos y modalidades que se señalen en el reglamento que al efecto se expida.
 
 ###### Artículo 193.
 
-Los integrantes de los agrupamientos de seguridad privada, no forman parte del Cuerpo de Policía Estatal, por lo tanto no existirá vínculo que se derive de la relación de prestación del servicio o de naturaleza similar con el Estado o los Municipios; sin perjuicio de regirse en lo conducente por las normas que esta Ley y la Ley General establece para las instituciones de seguridad; incluyendo los principios de actuación y desempeño.
+Además de cumplir con las disposiciones de la Ley Federal de Armas de Fuego y Explosivos, la Ley General, la presente Ley y demás disposiciones aplicables, los particulares, personas físicas o morales que presten servicios de seguridad privada en el interior o exterior de los establecimientos comerciales, públicos o privados, protección, vigilancia o custodia de personas, lugares o establecimientos, de bienes o valores, incluido su traslado, o sistemas de alarma; así como de servicios de seguridad interna al sector turístico, deberán obtener la autorización de la Secretaría para prestar sus servicios, cuando la empresa que lo presta opere dentro de los límites del Estado.
 
 ###### Artículo 194.
 
-Las personas que presten servicios de seguridad privada, serán responsables de las obligaciones que se deriven de la relación de prestación del servicio que exista con el personal que contraten, así como de las que deriven de la relación laboral que tengan con el personal contratado para la prestación de los servicios, de conformidad con las disposiciones legales aplicables.
+Los integrantes de los agrupamientos de seguridad privada, no forman parte del Cuerpo de Policía Estatal, por lo tanto no existirá vínculo que se derive de la relación de prestación del servicio o de naturaleza similar con el Estado o los Municipios; sin perjuicio de regirse en lo conducente por las normas que esta Ley y la Ley General establece para las instituciones de seguridad; incluyendo los principios de actuación y desempeño.
 
 ###### Artículo 195.
 
-Los servicios de seguridad privada son auxiliares de la función de seguridad pública, por lo que sus integrantes coadyuvarán en situaciones de urgencia y desastre, cuando así se les requiera por las autoridades de seguridad pública estatal o municipal.
+Las personas que presten servicios de seguridad privada, serán responsables de las obligaciones que se deriven de la relación de prestación del servicio que exista con el personal que contraten, así como de las que deriven de la relación laboral que tengan con el personal contratado para la prestación de los servicios, de conformidad con las disposiciones legales aplicables.
 
 ###### Artículo 196.
+
+Los servicios de seguridad privada son auxiliares de la función de seguridad pública, por lo que sus integrantes coadyuvarán en situaciones de urgencia y desastre, cuando así se les requiera por las autoridades de seguridad pública estatal o municipal.
+
+###### Artículo 197.
 
 Los particulares que se dediquen a los servicios de seguridad privada, así como el personal que utilicen se regirán por esta Ley y las demás disposiciones jurídicas aplicables para las Instituciones Policiales; incluyendo los principios de actuación y desempeño; además, se encuentran obligados a proporcionar los datos sobre su personal, armamento, equipo, y demás información sobre seguridad para integrarlos a los Sistemas Nacional y Estatal de Información. Así mismo, se encuentran obligados a tramitar la Clave Única de Identificación Policial de todo su personal.
 
@@ -3329,29 +3347,29 @@ Las empresas privadas que presten el servicio de seguridad, tendrán la obligaci
 
 En caso de que el personal de seguridad privada no acredite los procesos de evaluación y control de confianza, la empresa deberá separarlos del servicio conforme a la legislación aplicable.
 
-###### Artículo 197.
+###### Artículo 198.
 
 Los servicios de seguridad privada sólo podrán ser prestados por ciudadanos mexicanos y personas jurídicas colectivas, con cláusula de exclusión de extranjeros.
 
 Ningún elemento en activo que pertenezca al Cuerpo de Policía Estatal o Federal o de las Fuerzas Armadas o servidor público que labore en las Instituciones Policiales, podrá ser socio, propietario, administrador, comisionista, empleado de una empresa o grupo que preste servicios de seguridad privada. La contravención a lo dispuesto será motivo para revocar la autorización respectiva.
 
-###### Artículo 198.
-
-Los Fondos de ayuda federal que sean asignados al Estado o sus Municipios se regularán, administrarán y supervisarán de conformidad a lo establecido en la Ley de Coordinación Fiscal y la presente Ley y sólo serán destinados a los fines de seguridad pública.
-
 ## TÍTULO DÉCIMO SEXTO. DE LA ADMINISTRACIÓN DE LOS FONDOS DE AYUDA FEDERAL PARA LA SEGURIDAD PÚBLICA
 
 ###### Artículo 199.
 
-El Gobierno del Estado, a través del Secretario Ejecutivo deberá concentrar los recursos asignados a través de los Fondos de Ayuda Federal, en una cuenta específica, así como los rendimientos que generen, a efecto de identificarlos y separarlos del resto de los recursos que con cargo a su presupuesto destinen a seguridad pública.
+Los Fondos de ayuda federal que sean asignados al Estado o sus Municipios se regularán, administrarán y supervisarán de conformidad a lo establecido en la Ley de Coordinación Fiscal y la presente Ley y sólo serán destinados a los fines de seguridad pública.
 
 ###### Artículo 200.
+
+El Gobierno del Estado, a través del Secretario Ejecutivo deberá concentrar los recursos asignados a través de los Fondos de Ayuda Federal, en una cuenta específica, así como los rendimientos que generen, a efecto de identificarlos y separarlos del resto de los recursos que con cargo a su presupuesto destinen a seguridad pública.
+
+###### Artículo 201.
 
 El Gobierno del Estado, a través del Secretario Ejecutivo deberá rendir informe trimestral al Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos, su destino así como los recursos comprometidos, devengados y pagados.
 
 El mismo servidor público atenderá todo requerimiento que realice el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública, relativo a los recursos que se obtengan con cargo a los Fondos de ayuda federal.
 
-###### Artículo 201.
+###### Artículo 202.
 
 El Estado aplicará de manera adecuada y transparente los recursos públicos-financieros que al efecto sean destinados para el rubro de seguridad pública, o de manera revolvente mediante acuerdos o convenios entre éste con la Federación, a efecto de cumplir estrictamente con los objetivos y fines de la Seguridad Publica.
 
@@ -3359,7 +3377,7 @@ Los recursos que se programen, presupuesten y aporten para el Estado y los Munic
 
 Del manejo de dichos recursos rendirán informes trimestrales al Secretariado Ejecutivo del Sistema Nacional sobre los movimientos que presenten las cuentas específicas, la situación en el ejercicio de los recursos, su destino así como los recursos comprometidos, devengados y pagados.
 
-###### Artículo 202.
+###### Artículo 203.
 
 El Gobierno del Estado en cada ejercicio fiscal establecerá las bases y los mecanismos para garantizar de manera prioritaria las partidas presupuestales, con base en una planeación integral y a las necesidades específicas que consideren necesarias para el cumplimiento de políticas y acciones, planes y programas adoptados para el ejercicio de la función de seguridad pública y la operatividad del Sistema Estatal.
 
@@ -3604,6 +3622,16 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 31 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2399.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y XVI DEL ARTÍCULO 7; SE ADICIONA LA FRACCIÓN IV AL APARTADO B DEL ARTÍCULO 46; Y SE DEROGA EL INCISO C) DE LA FRACCIÓN II DEL APARTADO A DEL ARTÍCULO 46, TODOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Quedan sin efecto todas aquellas disposiciones contrarias al presente Decreto.
+
+P.O. 14 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2395.- MEDIANTE EL CUAL ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 27, UN SEGUNDO PÁRRAFO AL ARTÍCULO 29, EL CAPÍTULO TERCERO DENOMINADO "DEL SISTEMA DE SEGURIDAD DE LAS COMUNIDADES INDÍGENAS Y AFROMEXICANOS" AL TÍTULO NOVENO, RECORRIÉNDOSE LOS SUBSECUENTES, Y EL ARTÍCULO 110 RECORRIÉNDOSE LOS SUBSECUENTES, TODOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE OAXACA".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
