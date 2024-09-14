@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interno-de-la-defensoria-de-los-derechos-humanos-898
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-10-01"
-last_updated: "2013-10-26"
+last_updated: "2024-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERNO DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 1 de octubre de 2012.
 
@@ -65,13 +65,17 @@ V. DEFENSOR o DEFENSORA. Titular de la Defensoría de los Derechos Humanos del P
 
 VI. DEFENSORÍA. Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
 
-VII. LEY. Ley de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. PETICIONARIO O PETICIONARIA. Cualquier persona, colectivo, pueblo o comunidad indígena o afrodescendiente, sociedad civil, que presente una petición, queja o denuncia sobre una supuesta violación a los derechos humanos.
+VII. DIRECTOR O DIRECTORA DE DEFENSORÍAS ESPECIALIZADAS. Director o Directora de Defensorías Especializadas y Adjuntas.
 
-IX. REGLAMENTO. Reglamento Interno de la Defensoría.
+VIII. LEY. Ley de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
 
-X. SERVIDOR PÚBLICO. Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, en el Poder Legislativo del Estado; en el Poder Judicial del Estado; o en algún Órgano Autónomo estatal, sea cual fuera la naturaleza de su nombramiento, designación o elección.
+IX. PETICIONARIO O PETICIONARIA. Cualquier persona, colectivo, pueblo o comunidad indígena o afrodescendiente, sociedad civil, que presente una petición, queja o denuncia sobre una supuesta violación a los derechos humanos.
+
+X. REGLAMENTO. Reglamento Interno de la Defensoría.
+
+XI. SERVIDOR PÚBLICO. Toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal o Municipal, en el Poder Legislativo del Estado; en el Poder Judicial del Estado; o en algún Órgano Autónomo estatal, sea cual fuera la naturaleza de su nombramiento, designación o elección.
 
 ###### Artículo 4º.
 
@@ -139,9 +143,11 @@ El personal de la Defensoría deberá procurar en toda circunstancia proteger lo
 
 El personal de la Defensoría, en materia de responsabilidades quedará sujeto al Título IV de las responsabilidades de los servidores públicos, y patrimonial del Estado en la Constitución Federal, y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 10.
 
-Quienes aspiren a titulares de la Secretaría Ejecutiva, de la Coordinación General de Defensorías, de la Coordinación General de Fortalecimiento de la Cultura de los Derechos Humanos no deben haber desempeñado cargo en la administración pública federal, estatal o municipal en los últimos dos años anteriores al día de su designación.
+Quienes aspiren a titulares de la Secretaría Ejecutiva, de las Direcciones de las Defensorías Especializadas y de las Defensorías Regionales, Coordinaciones y Dirección Jurídica, deberán cumplir con los requisitos establecidos en el artículo 29 de la Ley.
 
 ###### Artículo 11.
 
@@ -171,57 +177,111 @@ I. La función correctiva que consiste en la defensa y protección de los Derech
 
 II. La función preventiva que consiste en el fortalecimiento de la cultura de los Derechos Humanos, la promoción y fomento de la cultura del respeto, el estudio y la divulgación de los derechos humanos, del respeto a la identidad y derechos de los pueblos y comunidades indígenas del estado, así como del combate a toda forma de discriminación y exclusión en los términos previstos en la Constitución Federal y la Constitución Local.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 16.
 
 La Defensoría, en términos del artículo 15, y artículo 25, Fracción XVII de la Ley, contará con los siguientes órganos, áreas e instancias administrativas que hagan eficiente su función:
 
-I El Consejo Ciudadano
+I. El Defensor o Defensora de los Derechos Humanos del Pueblo de Oaxaca.
 
-a. Secretaría Técnica del Consejo
+a) Secretaría Particular.
 
-II El Defensor o Defensora de los Derechos Humanos del Pueblo de Oaxaca
+b) Dirección de Peticiones y Quejas.
 
-a. Secretaría Particular
+A. Departamento de Oficialía de Partes y Notificación.
 
-b. Contraloría Interna
+B. Departamento de Orientación.
 
-c. Dirección de Comunicación Social
+C. Departamento de Transparencia.
 
-d. Coordinación de Tecnologías de la Información y Comunicación
+c) Dirección de Planeación, Organización y Evaluación.
 
-e. Coordinación Jurídica
+A. Departamento de Planeación y Evaluación.
 
-f. Equipo de Consultoría
+B. Departamento de Organización y Desarrollo Institucional.
 
-g. Dirección Administrativa
+d) Dirección Jurídica.
 
-III Secretaría Ejecutiva
+A. Departamento de Seguimiento a Recomendaciones, Propuestas de Conciliación, Medidas Cautelares y Alertas Tempranas.
 
-a. Coordinación de Enlace con Instituciones Gubernamentales y Organizaciones de la Sociedad Civil
+B. Departamento de Representación Legal y Cumplimiento de Obligaciones.
 
-b. Coordinación de Transparencia, Informes y Programas Especiales
+e) Contraloría Interna.
 
-IV La Coordinación General de las Defensorías
+A. Departamento de Investigación.
 
-a. Dirección de Peticiones, Orientación y Seguimiento de Recomendaciones
+B. Departamento de Substanciación y Responsabilidades.
 
-b. Coordinación Operativa de las Defensorías
+f) Coordinación de Asesores.
 
-b.1 Unidad de Dictamen
+g) Coordinación de Archivos.
 
-b.2 Defensorías Adjuntas
+II. Secretaría Ejecutiva.
 
-b.3 Defensorías Especializadas
+a) Departamento de Difusión y Promoción de la Cultura de Respeto a los Derechos Humanos.
 
-b.4 Defensorías Regionales
+b) Departamento de Políticas Públicas, Vinculación y Convenios en Derechos Humanos.
 
-c. Dirección de Atención a Víctimas
+c) Departamento de Estudios, Diagnósticos e Informes.
 
-V La Coordinación General de Fortalecimiento de la Cultura de los Derechos Humanos
+d) Departamento de Tecnología Educativa.
 
-a. Dirección de Políticas Públicas en Derechos Humanos
+III. Direcciones de las Defensorías Especializadas y de las Defensorías Regionales.
 
-b. Dirección de Educación, Investigación, Divulgación y Promoción de la Cultura del Respeto de los Derechos Humanos
+a) Dirección de la Primera Defensoría Especializada.
+
+b) Dirección de la Segunda Defensoría Especializada.
+
+c) Dirección de la Tercera Defensoría Especializada.
+
+d) Dirección de la Cuarta Defensoría Especializada.
+
+e) Dirección de Defensorías Regionales.
+
+A. Coordinaciones de Oficinas Regionales.
+
+1. Sierra de Flores Magón.
+
+2. Papaloapan.
+
+3. Sierra de Juárez.
+
+4. Istmo.
+
+5. Costa.
+
+6. Mixteca.
+
+7. Sierra Sur.
+
+8. Valles Centrales.
+
+IV. Dirección de Comunicación Social.
+
+a) Departamento de Contenidos Informativos.
+
+b) Departamento de Logística y Eventos Especiales.
+
+c) Departamento de Medios Digitales.
+
+V. Dirección Administrativa.
+
+a) Departamento de Recursos Humanos.
+
+b) Departamento de Recursos Financieros.
+
+c) Departamento de Recursos Materiales y Servicios Generales.
+
+VI. Dirección de Tecnologías de la Información y Estadística.
+
+a) Departamento de Sistemas de Información.
+
+b) Departamento de Operaciones.
+
+c) Departamento de Estadística e Indicadores.
+
+Para el mejor desempeño de sus responsabilidades la Defensoría contará con un Consejo Ciudadano y éste con una Secretaría Técnica, de igual forma con un Cuerpo de Peritos necesarios para el cumplimiento de sus funciones.
 
 ### CAPÍTULO II. DEL CONSEJO CIUDADANO DE LA DEFENSORÍA
 
@@ -363,9 +423,11 @@ Para que exista quórum legal en las sesiones extraordinarias y en las reuniones
 
 Para tratar los asuntos a los que se refiera el acuerdo respectivo, el Consejo Ciudadano podrá constituirse en sesión permanente por mayoría de votos de los Consejeros. La sesión concluirá una vez que se hayan desahogado o resuelto los asuntos que la motivaron.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 28.
 
-En el supuesto de que el Defensor o Defensora no asista o se ausente en forma definitiva de la sesión, podrá designar un suplente exclusivamente para la conducción de la sesión, que deberá ser algún miembro del Consejo Ciudadano o el Coordinador/a General de Fortalecimiento de la Cultura de los Derechos Humanos.
+En el supuesto de que el Defensor o Defensora no asista o se ausente en forma definitiva de la sesión, podrá designar un suplente exclusivamente para la conducción de la sesión, que deberá ser algún miembro del Consejo Ciudadano o la o el Secretario Ejecutivo.
 
 En caso de que el Defensor o Defensora se ausente momentáneamente de la sesión del Consejo, la o el Secretario Técnico lo auxiliará en la conducción de la sesión, con el propósito de no interrumpir su desarrollo.
 
@@ -437,35 +499,59 @@ XVII. Establecer a través de la Contraloría Interna, el procedimiento administ
 
 XVIII. Coordinar el diseño e implementación del sistema de alerta temprana conjuntamente con la Coordinación General de Defensorías para evitar posibles violaciones masivas a los derechos humanos ya sea de personas, grupos sociales como colectivos y organizaciones, con el propósito de difundir por conducto del Defensor o Defensora la información a las autoridades estatales y municipales, para la atención correspondiente;
 
-XIX. Atender y solucionar con la Coordinación Jurídica los asuntos laborales que surjan en la Defensoría;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-XX. Rendir informes especiales o temáticos a la sociedad sobre el estado que guardan los derechos humanos en el Estado;
+XIX. Coordinar el diseño e implementación del sistema de alerta temprana conjuntamente con las Direcciones de las Defensorías Especializadas y de las Defensorías Regionales, Coordinaciones de Oficinas Regionales y la Dirección Jurídica, para evitar posibles violaciones masivas a los derechos humanos ya sea de personas, grupos sociales como colectivos y organizaciones, con el propósito de difundir por conducto del Defensor o defensora la información a las autoridades estatales y municipales para la atención correspondiente;
 
-XXI. Establecer nuevas áreas de apoyo para mejorar el servicio y autorizar el ámbito de competencia territorial de las Defensorías regionales conforme a las necesidades del pueblo de Oaxaca; y
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-XXII. Las demás que le otorgue la legislación en la materia, el presente reglamento interno y ordenamientos aplicables.
+XX. Atender y solucionar con la Dirección Jurídica los asuntos laborales que surjan en la Defensoría;
+
+XXI. Rendir informes especiales o temáticos a la sociedad sobre el estado que guardan los derechos humanos en el Estado;
+
+XXII. Establecer nuevas áreas de apoyo para mejorar el servicio y autorizar el ámbito de competencia territorial de las Defensorías regionales conforme a las necesidades del pueblo de Oaxaca; y
+
+XXIII. Las demás que le otorgue la legislación en la materia, el presente reglamento interno y ordenamientos aplicables.
 
 #### SECCIÓN PRIMERA. DE LAS ÁREAS DE APOYO AL DEFENSOR O DEFENSORA
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 33.
 
 Para el óptimo desempeño de sus facultades, el Defensor o Defensora contará con las siguientes áreas de apoyo:
 
-- Secretaria Particular
+a) Secretaría Particular.
 
-- Contraloría Interna
+b) Dirección de Peticiones y Quejas.
 
-- Dirección de Comunicación Social
+D (SIC). Departamento de Oficialía de Partes y Notificación.
 
-- Coordinación de Tecnologías de la Información y Comunicación
+E. Departamento de Orientación.
 
-- Coordinación Jurídica
+F. Departamento de Transparencia.
 
-- Equipo de Consultoría
+c) Dirección de Planeación, Organización y Evaluación.
 
-- Dirección Administrativa
+C (SIC). Departamento de Planeación y Evaluación.
 
-Todas ellas, para su correcta operación, tendrán a su cargo personal profesional, técnico y administrativo necesario, con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
+D. Departamento de Organización y Desarrollo Institucional.
+
+d) Dirección Jurídica.
+
+C (SIC). Departamento de Seguimiento a Recomendaciones, Propuestas de Conciliación, Medidas Cautelares y Alertas Tempranas.
+
+D. Departamento de Representación Legal y Cumplimiento de Obligaciones.
+
+e) Contraloría Interna.
+
+C (SIC). Departamento de Investigación.
+
+D. Departamento de Substanciación y Responsabilidades.
+
+f) Coordinación de Asesores.
+
+g) Coordinación de Archivos.
 
 #### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DE LAS ÁREAS DE APOYO AL DEFENSOR O DEFENSORA
 
@@ -495,7 +581,163 @@ X. Las demás que les señale el presente Reglamento y las que le asigne el Defe
 
 ###### Artículo 35.
 
-La o el Titular de la Contraloría Interna tendrá bajo su responsabilidad las siguientes atribuciones:
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 35 BIS. La o el Titular de la Dirección de Peticiones y Quejas tendrá las siguientes atribuciones:
+
+I. Dirigir el proceso de recepción, calificación, admisión, registro, control y seguimiento de las peticiones por presuntas violaciones a derechos humanos que se presenten de manera personal,
+
+escrita, por comparecencia o por cualquier medio de comunicación ante la Defensoría, apoyándose de las tecnologías de la información y comunicación;
+
+II. Proponer la actualización del catálogo de calificación de quejas por presuntas violaciones a los derechos humanos;
+
+III. Informar a las o los titulares de las Defensorías Especializadas y de las Defensorías Regionales de los asuntos que requieran una intervención urgente para dictar las medidas precautorias y cautelares necesarias;
+
+IV. Iniciar los cuadernos de antecedentes cuando del análisis de los planteamientos presentados no se desprendan actos u omisiones violatorias de derechos humanos atribuibles a autoridades, servidores públicos de carácter estatal o municipal y particulares, solicitando las colaboraciones necesarias para su atención;
+
+V. Coordinar las labores de atención al público durante las veinticuatro horas, los trescientos sesenta y cinco días del año;
+
+VI. Apoyar a las Direcciones de Defensorías Especializadas y de las Defensorías Regionales en el inicio de una investigación de oficio, cuando exista la presunción de hechos violatorios de derechos humanos, difundidos a través de los medios de comunicación escritos y electrónicos;
+
+VII. Coordinar el sistema de información sobre el curso de las peticiones presentadas ante la Defensoría, el número de expediente que le corresponde a su asunto, la Defensoría Regional, Adjunta o Especializada, el nombre del Defensor o Defensora responsable de su tramitación, así como el control de las personas a las que la Defensoría ha otorgado medidas cautelares;
+
+VIII. Turnar las peticiones recibidas a las Defensorías Regionales, Adjuntas o Especializadas según correspondan y de manera inmediata;
+
+IX. Turnar las peticiones o asuntos en los que se señale como probables responsables a las autoridades federales o de otras entidades federativas, a los organismos públicos de derechos humanos competentes;
+
+X. Coordinar la operación y administración del sistema de registro y control estadístico de los expedientes de peticiones, cuadernos de antecedentes y trámites derivados de Investigaciones de probables violaciones a derechos humanos; así como generar la información necesaria para la elaboración correspondientes;
+
+XI. Autorizar y supervisar el despacho de toda la correspondencia concerniente a la atención de los expedientes de peticiones, así como gestionar los acuses de recepción y turnarlos a las áreas correspondientes;
+
+XII. Organizar, coordinar y presentar ante la o el Defensor los informes periódicos de los avances en la tramitación de las peticiones, orientaciones y expedientes de conclusión de las recomendaciones emitidas por la Defensoría;
+
+XIII. Coordinar las actividades con las defensoras o defensores adjuntos, regionales o especializados, desarrollando un canal de retroalimentación de información para el análisis de las peticiones y la elaboración de los proyectos respectivos;
+
+XIV. Tramitar los expedientes relativos a las incompetencias e improcedencias señaladas en la ley y en el presente reglamento;
+
+XV. Canalizar a la Contraloría Interna las peticiones realizadas contra los servidores públicos de la Defensoría, para determinar la probable responsabilidad en que hayan incurrido;
+
+XVI. Coordinar el incumplimiento a los lineamientos, mecanismos, procedimientos, criterios y políticas que en materia de transparencia y acceso a la información pública emita el Órgano Garante de acceso a la Información Pública, Transparencia, Protección de Datos Personales y buen Gobierno del Estado de Oaxaca y demás normatividad en la materia y tendrá a cargo la Unidad de Transparencia; y
+
+XVII. Las demás que le otorguen el presente reglamento, otros ordenamientos aplicables y la o el titular de la Defensoría.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 35 TER. Para el cumplimiento de sus funciones, la Dirección de Peticiones y Quejas contará con las siguientes áreas:
+
+A. Departamento de Oficialía de Partes y Notificación.
+
+B. Departamento de Orientación.
+
+C. Departamento de Transparencia.
+
+Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
+
+###### Artículo 36.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 36 BIS. La Directora o Director de Planeación, Organización y Evaluación, tendrá las siguientes facultades:
+
+I. Dirigir y coordinar los procedimientos técnicos en materia de formulación, seguimiento y evaluación de las políticas, planes, programas y proyectos de las distintas áreas de la Defensoría, así como aquellas acciones de gestión y administración de la información del desempeño de las mismas;
+
+II. Generar lineamientos metodológicos específicos en materia de planeación estratégica, evaluación y desarrollo institucional con perspectiva de derechos humanos para optimizar el ejercicio de los programas de la Defensoría;
+
+III. Coordinar la elaboración e integración del Plan Estratégico Institucional de la Defensoría sustentado en la Ley Estatal de Planeación y alineado al Plan Estatal de Desarrollo y su correspondiente actualización, de acuerdo con las políticas que determinen la o el titular y el Consejo Ciudadano;
+
+IV. Dirigir el establecimiento de un Sistema de Indicadores de Gestión y Estratégicos consensuado con todas las áreas administrativas de la Defensoría que permitan llevar a cabo el seguimiento y evaluación a través de un tablero de control;
+
+V. Proponer y conducir los trabajos de planeación y evaluación del desempeño institucional, así como la operación de los sistemas de información que permitan la integración y evaluación de las estrategias institucionales en materia de derechos humanos;
+
+VI. Dirigir las actividades de asesoría técnica de la Defensoría en materia de planeación estratégica, desde la identificación y análisis del problema público con sus involucrados, hasta el planteamiento de las propuestas e inclusión en el programa presupuestario anual en coordinación con la Dirección Administrativa;
+
+VII. Coordinar la elaboración del Programa de Trabajo Anual de la Defensoría y vigilar que se enmarque dentro del Plan Estratégico Institucional;
+
+VIII. Participar en la formulación del programa presupuestario anual del organismo, en sus etapas de planeación y programación, con base en los objetivos y acciones proyectadas por las áreas de trabajo que permitan la definición y actualización de la Matriz de Indicadores para Resultados, que fundamenten la correcta presupuestación que realiza la Dirección Administrativa;
+
+IX. Formular la metodología para el Programa de Trabajo Anual y diversos proyectos específicos, y coordinar su elaboración con las áreas administrativas correspondientes;
+
+X. Dirigir y coordinar la realización de todas las actividades de seguimiento y evaluación del desempeño institucional de las distintas áreas de la Defensoría;
+
+XI. Dirigir y revisar la sistematización de la información trimestral generada por las áreas administrativas de la Defensoría, sobre el avance en el cumplimiento del Programa de Trabajo Anual;
+
+XII. Dirigir, coordinar y revisar el levantamiento del Censo Nacional de Derechos Humanos Estatal (CNDHE) del Instituto Nacional de Estadística y Geografía (INEGI) en la Defensoría;
+
+XIII. Planear, organizar, dirigir, supervisar y coordinar la elaboración del Informe Anual de actividades de la Defensoría, vinculado con el Plan Estratégico Institucional;
+
+XIV. Dirigir y coordinar conjuntamente con las diversas áreas administrativas la formulación de lineamientos normativos y reglamentos básicos a fin de dar orden y certeza en el cumplimiento de sus atribuciones que fortalezcan la capacidad institucional de la Defensoría;
+
+XV. Proponer y coordinar los procesos de análisis y organización para la reingeniería institucional del organismo, desde la preparación, identificación, visión, solución técnica y social, hasta la configuración necesaria de la estructura de la Defensoría, incluyendo la revisión a la ley y reglamento interno;
+
+XVI. Dirigir las actividades de organización y métodos para apoyar el mejoramiento de la operación de las áreas administrativas de la Defensoría, especialmente para la formulación de los Manuales de Organización y de Procedimientos;
+
+XVII. Instrumentar estrategias para incrementar la capacidad del personal técnico y profesional para el mejor desempeño de sus funciones, mediante actividades de capacitación y actualización del personal en servicio en temas de derechos humanos, desarrollo administrativo, humano y tecnológico en coordinación con la Secretaría Ejecutiva;
+
+XVIII. Instrumentar estrategias para mejorar la capacidad tecnológica de información y comunicación, así como el equipamiento de las oficinas que permitan cumplir con mayor eficiencia, eficacia, calidad y transparencia las funciones sustantivas y de apoyo de la Defensoría, en coordinación con la Dirección de Tecnologías de la Información y Estadística y la Dirección Administrativa; y
+
+XIX. Las demás que le otorguen el presente reglamento, otros ordenamientos aplicables y la o el titular de la Defensoría.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 36 TER. Para el cumplimiento de sus funciones, la Dirección de Planeación, Organización y Evaluación contará con las siguientes áreas:
+
+A. Departamento de Planeación y Evaluación.
+
+B. Departamento de Organización y Desarrollo Institucional.
+
+Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorguen el Manual de Organización que emita la Defensoría.
+
+###### Artículo 37.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 37 BIS. La o el Titular de la Dirección Jurídica, tendrá las siguientes atribuciones:
+
+I. Evaluar y validar jurídicamente los actos y documentos que el Defensor o Defensora suscriba;
+
+II. Asesorar y apoyar jurídicamente en el ámbito de su competencia al Defensor o Defensora y representarlo legalmente en los procedimientos administrativos y jurisdiccionales al interior de la Defensoría que requiera su intervención;
+
+III. Revisar los anteproyectos de acuerdos, convenios, reglamentos y normas específicas que elaboren las diversas áreas de la Defensoría;
+
+IV. Representar a la Defensoría en todos los procedimientos administrativos y judiciales de orden federal y estatal, así como ante el juicio para la protección de los derechos humanos ante la Sala Constitucional del Tribunal Superior de Justicia del Estado;
+
+V. Revisar y aplicar la normatividad en materia de transparencia y acceso a la información en las solicitudes de información presentadas ante esta Defensoría;
+
+VI. Diseñar, editar y actualizar periódicamente un prontuario de las disposiciones jurídicas y legales que integran la normatividad nacional e internacional que exista en materia de derechos humanos;
+
+VII. Dar seguimiento a recomendaciones, propuestas de conciliación, medidas cautelares, alertas tempranas y cualquier otra resolución que emita la Defensoría;
+
+VIII. En los casos que se requiera, solicitará a las autoridades correspondientes la ampliación de las Medidas Cautelares, y dará el seguimiento oportuno;
+
+IX. Coordinar la operación de un sistema de registro de las recomendaciones que emita la Defensoría, y realizar la notificación correspondiente de todas las acciones para dar seguimiento hasta su cumplimiento;
+
+X. Informar a la o al titular de la Defensoría el estado que guarden cada uno de los asuntos antes mencionados; y
+
+XI. Las demás que le otorguen el presente reglamento, otros ordenamientos aplicables y la o el titular de la Defensoría.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 37 TER. La o el titular de la Dirección Jurídica, para el cumplimiento de sus funciones contará con las siguientes áreas:
+
+A. Departamento de Seguimiento a Recomendaciones, Propuestas de Conciliación, Medidas Cautelares y Alertas Tempranas.
+
+B. Departamento de Representación Legal y Cumplimiento de Obligaciones.
+
+Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
+
+###### Artículo 38.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 38 BIS. La o el Titular de la Contraloría Interna tendrá las siguientes atribuciones:
 
 I. Establecer la coordinación institucional con el Defensor o Defensora y las áreas que conforman la Defensoría para desarrollar los procesos de vigilancia, prevención, supervisión, fiscalización, corrección y en su caso sanción, de acuerdo a los lineamientos normativos internos y los existentes tanto estatales como federales;
 
@@ -505,151 +747,53 @@ III. Realizar los estudios, análisis, supervisión y control, relativos a la or
 
 IV. Vigilar el cumplimiento de las normas de control, evaluación, fiscalización, contabilidad y auditoría que debe observar la Defensoría;
 
-V. Elaborar, ejecutar y dar seguimiento al programa de auditorías a las distintas áreas de la Defensoría, y definir soluciones a las deficiencias e irregularidades detectadas;
+V. Participar en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, contratos, arrendamientos, prestación de servicios y obra, enajenaciones y demás actos administrativos que involucren recursos financieros, materiales y humanos de la Defensoría, a fin de vigilar que se cumpla con la normatividad aplicable, resolver de las inconformidades que presenten los involucrados en dichas actividades, así como de los procedimientos administrativos para sancionar y/o declarar la procedencia o improcedencia legal de los actos antes referidos;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+VI. Intervenir en los actos de entrega-recepción de los servidores públicos de este Órgano Autónomo, según lo establecido en el Reglamento de Responsabilidades de los Servidores Públicos adscritos a la Defensoría de los Derechos Humanos del Pueblo de Oaxaca; lo anterior con motivo de la separación de su cargo, empleo o comisión; y con la finalidad de que dichos actos cumplan con las disposiciones normativas aplicables en la materia;
 
-V Bis. Participar en los procedimientos y demás actos que tengan lugar en materia de adquisiciones, contratos, arrendamientos prestación de servicios y obra, enajenaciones y demás actos administrativos que involucren recursos financieros, materiales y humanos de la Defensoría; a fin de vigilar que se cumpla con la normatividad aplicable, resolver de las inconformidades que presenten los involucrados en dichas actividades, así como de los procedimientos administrativos para sancionar y/o declarar la procedencia o improcedencia legal de los actos antes referidos;
+VII. Sancionar conforme a las normas las irregularidades en la actuación de los servidores públicos de la Defensoría, debiendo informar al Defensor o Defensora el establecimiento del procedimiento correspondiente; para efectos de lo referido en la fracción X del artículo 41 de la Ley de la Defensoría, se aplicará el procedimiento que se encuentra establecido en el Reglamento de Responsabilidades de los Servidores Públicos de la Defensoría;
 
-VI. Dictar los lineamientos que permitan vigilar que los empleados de la Defensoría no cuenten con sanciones administrativas o penales emitidas por organismos públicos facultados por la Ley;
+VIII. Dictar los lineamientos que permitan vigilar que los empleados de la Defensoría no cuenten con sanciones administrativas o penales emitidas por organismos públicos facultados por la Ley;
 
-> <small>(ADICIONADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+IX. Elaborar, ejecutar y dar seguimiento al programa de auditorías a las distintas áreas de la Defensoría, y definir soluciones a las deficiencias e irregularidades detectadas;
 
-VI Bis. Intervenir en los actos de Entrega-Recepción de los servidores públicos de éste Órgano Autónomo, según lo establecido en el Reglamento de Responsabilidades de los Servidores Públicos de la Defensoría; lo anterior con motivo de la separación de su cargo, empleo o comisión; y con la finalidad de que dichos actos cumplan con las disposiciones normativas aplicables en la materia;
+X. Procurar el intercambio de información con las instituciones del Estado y otras entidades federativas, a efecto de obtener información respecto del personal que haya causado baja como resultado de un procedimiento administrativo de responsabilidad y jurisdiccional;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+XI. Proveer lo necesario para que los servidores públicos de la Defensoría cumplan en los términos legales, con la declaración de su situación patrimonial de acuerdo a las disposiciones que dicte la Auditoría Superior de Fiscalización del Estado de Oaxaca;
 
-VII. Sancionar conforme a las normas las irregularidades en la actuación de los servidores públicos de la Defensoría, debiendo informar al Defensor o Defensora el establecimiento del procedimiento correspondiente; para efectos de lo referido en la fracción X del artículo 41 de la Ley de la Defensoría, se aplicará el procedimiento que se encuentra establecido en el Reglamento de Responsabilidades de los Servidores Públicos de la Defensoría.
+XII. Diseñar e implementar un programa de promoción y captación de peticiones, denuncias y sugerencias sobre el desempeño de los empleados de la Defensoría;
 
-VIII. Procurar el intercambio de información con las instituciones del Estado y otras entidades federativas, a efecto de obtener información respecto del personal que haya causado baja como resultado de un procedimiento administrativo de responsabilidad y jurisdiccional;
+XIII. Presentar al Defensor o Defensora para su aprobación, el Programa Anual de Trabajo, dirigir su ejecución e informar de los avances y resultados; y
 
-IX. Proveer lo necesario para que los servidores públicos de la Defensoría cumplan en los términos legales, con la declaración de situación patrimonial de acuerdo a las disposiciones que dicte la Auditoria Superior del Estado;
+XIV. Las demás que le otorguen el presente reglamento, otros ordenamientos aplicables y la o el titular de la Defensoría.
 
-X. Diseñar e implementar un programa de promoción y captación de peticiones, denuncias y sugerencias sobre el desempeño de los empleados de la Defensoría; y (sic)
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Presentar al Defensor o Defensora para su aprobación, el Programa Anual de Trabajo, dirigir su ejecución e informar de los avances y resultados;
+Artículo 38 TER. La o el titular de la Contraloría Interna, para el cumplimiento de sus funciones contará con las siguientes áreas:
 
-XII. Las demás que le confiera este reglamento, los manuales correspondientes y otras disposiciones aplicables.
+A. Departamento de Investigación.
 
-###### Artículo 36.
+B. Departamento de Substanciación y Responsabilidades.
 
-La o el titular de la Contraloría Interna, para el cumplimiento de sus atribuciones tendrá bajo su cargo las siguientes áreas:
-
-- Unidad de Planeación y Evaluación Institucional.
-
-- Unidad de Normatividad y Auditoria Operativa.
-
-Todas ellas para su correcta operación, tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
-
-###### Artículo 37.
-
-La o el Titular de la Dirección de Comunicación Social tendrá por objeto la realización de las siguientes actividades:
-
-I. Planear, conducir y diseñar las políticas de comunicación social de la Defensoría para su divulgación;
-
-II. Establecer mecanismos de vinculación con los medios de información o comunicación a fin de dar a conocer las labores de la Defensoría;
-
-III. Establecer mecanismos de monitoreo y análisis de la información cotidiana difundidas en los diversos medios de comunicación, relacionada con el tema de derechos humanos y presentar un informe diario;
-
-IV. Detectar a través del monitoreo de los medios de comunicación, probables violaciones a los derechos humanos, remitiendo la información a la Coordinación General de las Defensorías para su respectivo análisis y atención;
-
-V. Difundir el sistema de alerta temprana conjuntamente con la Coordinación General de las Defensorías para prevenir a las autoridades estatales y municipales de graves y masivas violaciones a los derechos humanos en el territorio estatal;
-
-VI. Presentar al Defensor o Defensora para su aprobación, su Programa Anual de Trabajo, dirigir su ejecución e informar de los avances y resultados;
-
-VII. Dirigir la elaboración de materiales audiovisuales de calidad en coordinación con la Secretaría Ejecutiva y la Coordinación General de Fortalecimiento de la Cultura de los Derechos Humanos para dar a conocer a la sociedad las funciones y actividades de la Defensoría;
-
-VIII. Coordinar las conferencias de prensa y elaboración de comunicados del Defensor o Defensora y demás servidores públicos de la Defensoría;
-
-IX. Publicar las recomendaciones, propuestas y acuerdos de conciliación que emita la Defensoría, así como hacer pública la no aceptación de tales resoluciones, apegados a las diversas disposiciones jurídicas;
-
-X. Establecer la vinculación permanente con los representantes de los medios de comunicación, con el fin de tenerlos informados sobre las acciones que la Defensoría pretenda difundir, previo acuerdo de la o el titular y en coordinación con la o el Secretario Ejecutivo;
-
-XI. Coordinar conjuntamente con las o los titulares de las áreas, los requerimientos y su cumplimiento en materia de comunicación, a efecto de cubrir veraz y oportunamente, los eventos en que esta Defensoría tenga participación;
-
-XII. Coordinar el diseño de campañas de posicionamiento e imagen, para su divulgación en diversos medios locales, nacionales e internacionales, de acuerdo a los lineamientos establecidos por la Defensoría;
-
-XIII. Supervisar que las publicaciones editadas por la Defensoría cumplan con los lineamientos de imagen institucional;
-
-XIV. Coordinar el diseño, integración y archivo de los materiales que se utilicen en la integración de la memoria gráfica-documental de la Defensoría;
-
-XV. Facilitar la información que se publica en el Sitio Web de la Defensoría; y
-
-XVI. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que le asigne el Defensor o Defensora.
-
-###### Artículo 38.
-
-La Directora o Director de Comunicación Social, tendrá bajo su cargo las siguientes áreas para el cumplimiento de sus atribuciones:
-
-- Coordinación de Monitoreo y Análisis de la Información.
-
-- Coordinación de Prensa y Publicaciones.
-
-- Coordinación de Radio, Televisión y Contenido Multimedia.
-
-Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
+Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que 1es otorgue el Manual de Organización que emita la Defensoría.
 
 ###### Artículo 39.
 
-La o el titular de la Coordinación de Tecnologías de la Información y Comunicación, tendrá bajo su responsabilidad las siguientes atribuciones:
-
-I. Diseñar, elaborar y presentar la información generada a partir de las tareas realizadas por sus áreas sustantivas y administrativas;
-
-II. Establecer y realizar las tareas de seguimiento de las actividades que programen, realicen y ejecuten las diversas áreas de trabajo de la Defensoría,
-
-III. Presentar al Defensor o Defensora para su aprobación, su Programa Anual de Trabajo, dirigir su ejecución e informar de los avances y resultados;
-
-IV. Generar estrategias y mecanismos de control informático que permitan y faciliten la divulgación y promoción de las actividades programadas y ejecutadas;
-
-V. Brindar los servicios de apoyo que soliciten y/o requieran la estructura operativa y administrativa de la Defensoría en el uso y operación de los sistemas de información desarrollados y establecidos por esta Coordinación;
-
-VI. Apoyar el diseño, elaboración y presentación de los informes que las diversas áreas de la Defensoría generen;
-
-VII. Desarrollar aplicaciones de software según lo soliciten o requieran las áreas que conforman esta Defensoría,
-
-VIII. Proponer la adquisición de soluciones informáticas aplicables a los proyectos y acciones que se realicen en las distintas áreas de la Defensoría;
-
-IX. Planear y dirigir la administración del Sitio Web de la Defensoría en coordinación con la Dirección de Comunicación Social;
-
-X. Garantizar la constante y permanente actualización, administración y mantenimiento en operación de la red de equipos de cómputo para asegurar la disponibilidad de los recursos compartidos en la misma;
-
-XI. Implementar y mantener actualizadas las bases de datos asociadas a los sistemas de información que operan en la red de cómputo de la Defensoría
-
-XII. Instalar y operar el software especializado requerido por las distintas áreas de trabajo que la conforman,
-
-XIII. Brindar los servicios de capacitación al personal que así lo solicite;
-
-XIV. Garantizar la integridad de la información contenida en los equipos de cómputo, bases de datos y tráfico de la red informática de la Defensoría;
-
-XV. Captar, organizar y procesar la información generada y analizada por las distintas áreas que integran la Defensoría para su análisis y publicación mediante los sistemas de información establecidos;
-
-XVI. Mantener en óptima operación el equipo de cómputo asignado al personal de la Defensoría, así como el software desarrollado o adquirido; y
-
-XVII. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que le asigne el Defensor o Defensora.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 40.
 
-La o el Titular de la Coordinación Jurídica tendrá bajo su responsabilidad las siguientes atribuciones:
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
 
-I. Evaluar y validar jurídicamente los actos y documentos que el Defensor o Defensora suscriba;
-
-II. Asesorar y apoyar jurídicamente en el ámbito de su competencia al Defensor o Defensora y representarlo legalmente en los procedimientos administrativos y jurisdiccionales al interior de la Defensoría que requiera su intervención;
-
-III. Revisar los anteproyectos de acuerdos, convenios, reglamentos y normas específicas que elabore las diversas áreas de la Defensoría;
-
-IV. Representar a la Defensoría en todos los procedimientos administrativos y judiciales de orden federal y estatal, así como ante el juicio para la protección de los derechos humanos ante la Sala Constitucional del Tribunal Superior de Justicia del Estado;
-
-V. Revisar y aplicar la normatividad en materia de transparencia y acceso a la información en las solicitudes de información presentadas ante esta Defensoría;
-
-VI. Diseñar, editar y actualizar periódicamente un prontuario de las disposiciones jurídicas y legales que integran la normatividad nacional e internacional que exista en materia de derechos humanos; y
-
-VII. Las demás que les señalen otras disposiciones legales aplicables y las que le asigne el Defensor o Defensora.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 41.
 
-El Equipo de Consultoría lo integra un grupo de especialistas en temas diversos de derechos humanos, cuyo objeto es profundizar en la investigación y análisis a efecto de corregir, mejorar y profesionalizar la actuación de los servidores públicos, proponer y dar elementos para mejorar las políticas de atención, defensa, educación y promoción de los derechos humanos, así como orientar en temas de la agenda nacional e internacional aplicables en nuestro estado.
+La Coordinación de Asesores se integra por un grupo de especialistas en temas diversos de derechos humanos, cuyo objeto es profundizar en la investigación y análisis a efecto de corregir, mejorar y profesionalizar la actuación de los servidores públicos, proponer y dar elementos, para mejorar las políticas de atención, defensa, educación y promoción de los derechos humanos, así como orientar en temas de la agenda nacional e internacional aplicables en nuestro estado.
 
-El Equipo de Consultoría tendrá bajo su responsabilidad las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+La Coordinación de Asesores tendrá las siguientes atribuciones:
 
 I. Auxiliar al Defensor o Defensora en la aplicación del derecho internacional público en los proyectos de conciliación, de recomendación y de medidas cautelares presentados para su aprobación;
 
@@ -663,47 +807,31 @@ V. Capacitar y orientar a los servidores públicos de la Defensoría en temas de
 
 VI. Las demás que les asigne el Defensor o Defensora y el presente reglamento.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 41 BIS. la Coordinación de Archivos tendrá las siguientes atribuciones:
+
+I. Organizar, custodiar, resguardar y administrar el archivo general de la Defensoría en apego a la Ley General de Archivos, Ley de Archivos para el Estado de Oaxaca y demás normatividad aplicable;
+
+II. Coordinar la organización; custodia, resguardo y administración del archivo general de la Defensoría respecto de los expedientes de petición, recursos de inconformidad, orientación directa o remisión, que se encuentren en trámite o concluidos, así como de las recomendaciones cuyo seguimiento haya finalizado; y
+
+III. Las demás que le otorguen el presente reglamento, otros ordenamientos aplicables y la o el titular de la Defensoría.
+
 ###### Artículo 42.
 
-La o el titular de la Dirección Administrativa, tendrá las siguientes atribuciones:
-
-I. Conducir y supervisar, con la aprobación de la o el titular de la Defensoría, las políticas, normas, criterios, sistemas y procedimientos de la administración de los recursos humanos, materiales, de servicios generales y financieros;
-
-II. Coordinar las acciones en materia de recursos humanos, materiales, servicios generales y financieros en cumplimiento a las diversas disposiciones jurídicas y normativas en la materia;
-
-III. Coordinar la integración, ejecución, seguimiento y control del Programa Operativo Anual y el Proyecto de Presupuesto de Egresos de la Defensoría, atendiendo a legislación aplicable y a los lineamientos internos establecido para tal fin;
-
-IV. Emitir con la aprobación del Defensor o Defensora las políticas institucionales de adquisición, conservación y custodia de los bienes muebles e inmuebles de la Defensoría procurando el ahorro, así como el uso austero, eficaz y eficiente de los mismos;
-
-V. Dirigir y coordinar la formulación y ejecución de los programas anuales de adquisiciones, mantenimiento, conservación de bienes muebles e inmuebles y obra pública según sea el caso;
-
-VI. Establecer los contratos, convenios y acuerdos relativos a los procesos administrativos de la Defensoría, conforme a las disposiciones legales aplicables;
-
-VII. Conducir las relaciones laborales de la Defensoría conforme a la normatividad establecida para ello;
-
-VIII. Planear, controlar y evaluar el programa interno de seguridad, protección civil, de administración de riesgos y aseguramiento para el personal, instalaciones, bienes, información y documentación de la Defensoría;
-
-IX. Establecer un sistema de seguimiento que permita el puntual e integral cumplimiento de los informes periódicos relativos al registro y control de los asuntos y actividades relevantes de la Dirección Administrativa;
-
-X. Las demás que le confiera el presente Reglamento, manual de organización y otras disposiciones aplicables.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 43.
 
-La o el titular de la Dirección Administrativa, para el cumplimiento de sus funciones contará con las siguientes áreas:
-
-I. Coordinación de Recursos Humanos.
-
-II. Coordinación de Recursos Financieros.
-
-III. Coordinación de Recursos Materiales y Servicios Generales.
-
-Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO IV. DE LA SECRETARÍA EJECUTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 44.
 
-La o el Titular de la Secretaría Ejecutiva tendrá bajo su responsabilidad las siguientes atribuciones:
+La o el Titular de la Secretaría Ejecutiva tendrá las siguientes atribuciones.
 
 I. Establecer en coordinación con el Defensor o Defensora, los criterios generales que normen las relaciones con la población, las organizaciones de la sociedad civil nacionales e internacionales, autoridades federales, estatales y municipales, instituciones académicas y de investigación;
 
@@ -719,517 +847,47 @@ VI. Promover ante organizaciones de la sociedad civil su participación en la fo
 
 VII. Difundir las actividades emprendidas por la Defensoría ante la sociedad y ante los diversos poderes del Estado, apoyándose en las áreas que por su naturaleza realizan estas actividades;
 
-VIII. Coordinar con las demás áreas administrativas de la Defensoría, las acciones necesarias para obtener la información en forma expedita y dar cumplimiento a las solicitudes ciudadanas, fungiendo como Presidente/a del Comité de Información al que se refiere el artículo 45 de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-IX. Implementar los mecanismos necesarios para mantener actualizado y detallado el registro de las solicitudes de acceso a la información;
+VIII. La difusión y promoción de la cultura en Derechos Humanos;
 
-X. Dar cumplimiento a los lineamientos, mecanismos, procedimientos, criterios y políticas que en materia de transparencia y acceso a la información pública emita la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Las demás que en forma expresa le señalen el presente Reglamento, los manuales y las que le asigne el Defensor o Defensora.
+IX. Políticas Públicas, Vinculación y Convenios en Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+X. Realizar estudios, diagnósticos e informes en materia de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Creación y seguimiento de Tecnologías Educativas en Derechos Humanos;
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Instrumentar un modelo de educación superior con reconocimiento oficial para la formación y profesionalización en derechos humanos; y
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Las demás que le otorguen el presente reglamento, otros ordenamientos aplicables y la o el titular de la Defensoría.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 45.
 
 La o el titular de la Secretaría Ejecutiva tendrá bajo su cargo las siguientes áreas para el cumplimiento de sus atribuciones:
 
-- Coordinación de Enlace con Organismos Internacionales, Gubernamentales, de la Sociedad Civil e Instituciones Académicas.
+A. Departamento de Difusión y Promoción de la Cultura de Respeto a los Derechos Humanos.
 
-- Coordinación de Transparencia, Informes y Programas Especiales
+B. Departamento de Políticas Públicas, Vinculación y Convenios en Derechos Humanos.
 
-Todas ellas para su correcta operación, tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
+C. Departamento de Estudios, Diagnósticos e Informes.
 
-### CAPÍTULO V. DE LA COORDINACIÓN GENERAL DE LAS DEFENSORÍAS
+D. Departamento de Tecnología Educativa.
 
-###### Artículo 46.
+A. La o el titular del Departamento de Difusión y Promoción de la Cultura de Respeto a los Derechos Humanos tiene las siguientes facultades y obligaciones:
 
-La o el Titular de la Coordinación General de las Defensorías tendrá bajo su responsabilidad las siguientes atribuciones:
-
-I. Suplir en sus funciones y representación legal al Defensor o Defensora durante sus ausencias temporales, entendiéndose por tales aquellas que no sean mayores a los treinta días;
-
-II. Presentar al Defensor o Defensora para su aprobación, su Programa Anual de Trabajo, dirigir su ejecución e informar de los avances y resultados;
-
-III. Coordinar el trabajo de solicitud de peticiones, orientación y seguimiento a las recomendaciones, el desempeño de las defensorías regionales, adjuntas y especializadas, el proceso de análisis y dictaminación de las resoluciones, así como la atención integral a víctimas;
-
-IV. Coadyuvar con la Coordinación General de Fortalecimiento de la Cultura de los Derechos Humanos un programa especial de trabajo dirigido a las autoridades estatales y municipales para tomar las medidas preventivas necesarias y con ello evitar la consumación irreparable de posibles violaciones a los derechos humanos;
-
-V. Coordinar, dirigir y aprobar la elaboración de los acuerdos de inicio de las peticiones presentadas, determinando su procedencia o improcedencia;
-
-VI. Dirigir las acciones de investigación que sean necesarias para allegarse de todos los elementos que permitan emitir la resolución que corresponda, solicitando para ello, los informes o la colaboración de cualquier dependencia, autoridad o servidor público estatal o municipal, así como realizar las visitas o inspecciones que contribuyan al esclarecimiento de los hechos denunciados;
-
-VII. Solicitar a la autoridad competente el inicio del procedimiento administrativo o penal en contra de aquellas autoridades o servidores públicos que hayan obstaculizado las investigaciones realizadas por la Defensoría;
-
-VIII. Proponer a las y los Defensores Regionales, Adjuntos y Especializados, con la aprobación de las partes involucradas en la violación de derechos humanos, otras alternativas que permitan la solución anticipada y que garanticen la satisfacción en la reparación del daño o afectación, con excepción de los casos que atenten contra la vida, la integridad física, psicológica y que se agravie la integridad sexual;
-
-IX. Informar al Defensor o Defensora de todas las peticiones que se reciban o tramiten, la descripción del número y características de las peticiones y denuncias que se hayan presentado, los efectos de la labor de conciliación, las investigaciones realizadas, las recomendaciones y las demás resoluciones y determinaciones que se hubiesen formulado;
-
-X. Iniciar de oficio la investigación de las denuncias de probables violaciones a los derechos humanos que sean de interés social o de dominio público, comisionando ala (sic) o el Defensor Regional, Adjunto o Especializado para que realice el proceso correspondiente;
-
-XI. Coordinar la supervisión a los establecimientos destinados a la detención preventiva, custodia, reinserción social, conforme al programa de visitas periódicas que permitan evaluar, prevenir y constatar que no se cometan violaciones a los derechos humanos, informando al Defensor o Defensora inmediatamente de la probables violaciones detectadas, elaborando en el transcurso de los tres días siguientes a cada visita un acta circunstanciada que incluya las observaciones obtenidas;
-
-XII. Participar conjuntamente con la Coordinación General de Fortalecimiento de la Cultura de los Derechos Humanos en la presentación de acciones de inconstitucionalidad en contra de leyes y reglamentos que violen o atenten contra los derechos humanos, así como la formulación de los proyectos de reformas legales en materia de derechos humanos;
-
-XIII. Dictar las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de violaciones a los derechos humanos que puedan cometer autoridades o servidores públicos;
-
-XIV. Proponer al Defensor o Defensora la necesidad de emitir alertas tempranas para prevenir a las autoridades estatales y municipales que eviten graves y masivas violaciones a los derechos humanos en el territorio estatal;
-
-XV. Analizar y turnar a la Comisión los asuntos que sean de competencia, apegados a su Ley;
-
-XVI. Proponer de acuerdo al número de peticiones, necesidades, territorialidad, vías de acceso, diversidad etnocultural, así como de la disponibilidad presupuestal, la instalación y operación de nuevas Defensorías Regionales que considere necesarias para la mejor protección y defensa de los derechos humanos;
-
-XVII. Coordinar las estrategias de atención integral a victimas u ofendidos por violación a sus derechos humanos, para que por conducto de las o los Defensores Regionales, Adjuntos o Especializados se realicen las acciones inmediatas de reparación del daño y de recuperación parcial o total de sus derechos humanos;
-
-XVIII. Coordinar los trabajos a que haya lugar para integrar y elaborar los informes semanales y mensuales de las peticiones recibidas, iniciadas de oficio, en trámite y concluidas; y
-
-XIX. Las demás que les señalen otras disposiciones legales aplicables y las que le asigne el Defensor o Defensora.
-
-#### SECCIÓN PRIMERA. DE LAS ÁREAS QUE INTEGRAN LA COORDINACIÓN GENERAL DE DEFENSORÍAS
-
-###### Artículo 47.
-
-Para el cumplimiento de sus atribuciones la Coordinación General de Defensorías contará con las siguientes áreas:
-
-I. Dirección de Peticiones, Orientación y Seguimiento a las Recomendaciones.
-
-II. Coordinación Operativa de las Defensorías.
-
-a. Unidad de Dictamen.
-
-b. Defensorías Adjuntas.
-
-c. Defensorías Especializadas.
-
-d. Defensorías Regionales.
-
-III. Dirección de Atención a Víctimas.
-
-#### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DE LAS ÁREAS QUE INTEGRAN LA COORDINACIÓN GENERAL DE LAS DEFENSORÍAS
-
-###### Artículo 48.
-
-La o el Titular de la Dirección de Peticiones, Orientación y Seguimiento a las Recomendaciones tendrá las siguientes atribuciones:
-
-I. Dirigir el proceso de recepción, calificación, admisión, registro, control y seguimiento de las peticiones por presuntas violaciones a derechos humanos que se presenten de manera personal, escrita, por comparecencia o por cualquier medio de comunicación ante la Defensoría, apoyándose de las tecnologías de la información y comunicación
-
-II. Elaborar y actualizar el catálogo de calificación de quejas por presuntas violaciones a los derechos humanos;
-
-III. Informar a la o el titular de la Coordinación General de las Defensorías de los asuntos que requieran una intervención urgente para dictar las medidas precautorias y cautelares necesarias;
-
-IV. Iniciar los cuadernos de antecedentes cuando del análisis de los planteamientos presentados no se desprendan actos u omisiones violatorias de derechos humanos atribuibles a autoridades, servidores públicos de carácter estatal o municipal y particulares, solicitando las colaboraciones necesarias para su atención y esclarecimiento;
-
-V. Coordinar las labores de atención al público durante las veinticuatro horas, los trescientos sesenta y cinco días del año;
-
-VI. Apoyar a la Coordinación Operativa de las Defensorías en el inicio de una investigación de oficio, cuando exista la presunción de hechos violatorios de derechos humanos, difundidos a través de los medios de comunicación escritos y electrónicos, y no se tengan los datos mínimos para determinar los hechos concretos, la identidad de autoridades o servidores públicos participantes, o de los posibles agraviados;
-
-VII. Dirigir y coordinar un sistema de información sobre el curso de las peticiones presentadas ante la Defensoría, el número de expediente que le corresponde a su asunto, la Defensoría Regional, Adjunta o Especializada, el nombre del Defensor o Defensora responsable de su tramitación, así como el control de las personas a las que la Defensoría ha otorgado medidas cautelares;
-
-VIII. Turnar las peticiones recibidas a las Defensorías Regionales, Adjuntas o Especializadas según correspondan y de manera inmediata, después que se hayan calificado, admitido y registrado;
-
-IX. Turnar las peticiones o asuntos en los que se señale como probables responsables a las autoridades federales o de otras entidades federativas, a los organismos públicos de derechos humanos competentes;
-
-X. Dirigir la conformación del Protocolo de Alerta Temprana;
-
-XI. Planear, dirigir y supervisar la operación y administración del sistema de registro y control de avance y conclusión de los expedientes de peticiones de acuerdo con la dictaminación elaborada por la Coordinación General de las Defensorías;
-
-XII. Coordinar la operación de un sistema de registro de las recomendaciones que emita la Defensoría, y realizar la notificación correspondiente de todas las acciones para dar seguimiento hasta su cumplimiento;
-
-XIII. Autorizar y supervisar el despacho de toda la correspondencia concerniente a la atención de los expedientes de peticiones, inconformidad, orientación, remisión y de seguimiento de recomendaciones, así como gestionar los acuses de recepción y turnarlos a las áreas correspondientes;
-
-XIV. Organizar, coordinar y presentar ante la o el Coordinador General de las Defensorías los informes periódicos de los avances en la tramitación de las peticiones, orientaciones y expedientes de conclusión de las recomendaciones emitidas por la Defensoría.
-
-XV. Coordinar las actividades con los (sic) defensoras o defensores adjuntos, regionales o especializados, desarrollando un canal de retroalimentación de información para el análisis de las peticiones y la elaboración de los proyectos respectivos;
-
-XVI. Coordinar la organización, custodia, resguardo y administración del archivo general de la Defensoría respecto de los expedientes de petición, recursos de inconformidad, orientación directa o remisión, que se encuentren en trámite o concluidos, así como de las recomendaciones cuyo seguimiento haya finalizado;
-
-XVII. Canalizar a la Contraloría Interna las peticiones realizadas contra los servidores públicos de la Defensoría, para determinar la probable responsabilidad en que hayan incurrido; y
-
-XVIII. Las demás que le confiera el presente Reglamento, los manuales internos y aquellas que le asigne la o el Coordinador General de las Defensorías.
-
-###### Artículo 49.
-
-Para el cumplimiento de sus funciones, la Dirección de Peticiones, Orientación y Seguimiento de las Recomendaciones contará con las siguientes áreas:
-
-I. Coordinación de Peticiones, Registro y Orientación Jurídica.
-
-II. Coordinación de Seguimiento de Recomendaciones, Acuerdos y Medidas Cautelares.
-
-Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
-
-###### Artículo 50.
-
-La Coordinación Operativa de las Defensorías tendrá las siguientes atribuciones:
-
-I. Coordinar la integración del programa especial de medidas preventivas y cautelares dirigido a las autoridades estatales y municipales para evitar la consumación irreparable de posibles violaciones a los derechos humanos;
-
-II. Supervisar los procedimientos de solicitud de peticiones, la procedencia o improcedencia de los acuerdos de inicio de las peticiones recibidas, la atención y orientación al público del personal adscrito de cada Defensoría Regional, y en las Adjuntas y Especializadas;
-
-III. Diseñar el Protocolo de Alerta Temprana;
-
-IV. Apoyar a la o el Coordinador General de las Defensorías en la revisión y dictaminación de los proyectos, acuerdos, recomendaciones y medidas precautorias y cautelares que propongan las Defensorías Regionales, Adjuntas y Especializadas;
-
-V. Supervisar en tiempo y forma la ejecución de las acciones de investigación encomendadas a las Defensorías Regionales, Adjuntas y Especializadas, para la correcta integración de los expedientes derivados de peticionarios o agraviados, y las que sean de interés social y de dominio público;
-
-VI. Solicitar ante las autoridades correspondientes el inicio de procedimientos administrativos o penales, cuando las autoridades o servidores públicos obstaculicen las investigaciones realizadas por la Defensoría, con la aprobación de la o el Coordinador General de las Defensorías;
-
-VII. Coordinar el seguimiento necesario para que los mecanismos de alerta temprana, medidas precautorias o cautelares dictadas por las o los Defensores se cumplan en tiempo y forma, evaluando la atención y restitución definitiva del goce de los derechos vulnerados, así como de la reparación del daño y la satisfacción de la o el peticionario en coordinación con la Dirección de Atención a Víctimas;
-
-VIII. Elaborar el programa de visitas periódicas a los establecimientos destinados a la custodia, detención preventiva, y reinserción social, así como dirigir los trabajos de evaluación y dictaminación que permitan prevenir y atender posibles violaciones a los derechos humanos, de acuerdo con los manuales y las indicaciones que establezca la o el Coordinador General de Defensorías;
-
-IX. Recabar y enviar por conducto de la o el Coordinador General de las Defensorías a la Coordinación General de Fortalecimiento de la Cultura de los Derechos Humanos información que fundamente y fortalezca los proyectos de acciones de inconstitucionalidad, necesidades de capacitación, promoción y difusión en temas de mayor incidencia considerados violatorios o que atenten contra los derechos humanos;
-
-X. Analizar y proponer la instalación y operación de nuevas defensorías en función de las necesidades, el trabajo de las defensoras o defensores adjuntos regionales o especializados, o por instrucciones del Defensor o Defensora;
-
-XI. Integrar los informes mensuales de los defensores correspondiente a las peticiones recibidas, iniciadas de oficio, en trámite o cancelación, la descripción del número y características, los efectos de la labor de conciliación, investigaciones realizadas, recomendaciones y resoluciones que se hubiesen formulado, así como de los resultados obtenidos;
-
-XII. Revisar los proyectos de resoluciones de las peticiones presentadas, determinando su admisión o cancelación de acuerdo a las investigaciones y estudios necesarios de tal manera que se fundamente y motive su análisis y, en su caso, su aprobación, y
-
-XIII. Las demás que le confiera el presente Reglamento, los manuales internos y aquellas que le asigne la o el Coordinador General de las Defensorías.
-
-###### Artículo 51.
-
-Para el mejor cumplimiento de la protección y defensa de los derechos humanos, la Coordinación Operativa de las Defensorías contará con las siguientes áreas:
-
-I. Unidad de Dictamen,
-
-II. Defensorías Adjuntas.
-
-III. Defensorías Especializadas.
-
-IV. Defensorías Regionales.
-
-Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
-
-###### Artículo 52.
-
-La Unidad de Dictamen tendrá las siguientes atribuciones:
-
-I. Establecer un control y registro digital de todas las resoluciones emitidas por las Defensorías Adjuntas, Especializadas y Regionales;
-
-II. Apoyar los trabajos de investigación, estudios o aquellos que considere necesarios y convenientes para que conforme a derecho las Defensorías Adjuntas, Especializadas y Regionales recaben y proporcionen la información necesaria que permita fundamentar y motivar el análisis e investigación y, en su caso, su dictamen y aprobación de los proyectos;
-
-III. Sugerir, de ser el caso, otras alternativas que permitan la solución anticipada y que garanticen la satisfacción de la reparación del daño o afectación de violación a los derechos humanos;
-
-IV. Notificar a las y los defensores adjuntos, especializados y regionales la respectiva aprobación, recomendaciones o cancelación de los proyectos de resolución recibidos;
-
-V. Presentar a la o el Coordinador General de Defensorías el dictamen de las peticiones aprobadas y la emisión de recomendaciones o medidas cautelares para su aprobación y firma del Defensor o Defensora, Coordinador o Coordinadora;
-
-VI. Organizar la evaluación de los expedientes de dictaminación de tal manera que de existir violación a los Derechos Humanos apoye en la elaboración de recomendaciones o medidas cautelares para que la o el Coordinador General de Defensorías, las turne al Defensor o Defensora para su respectiva aprobación y firma; y
-
-VII. Las demás que le confiera el presente Reglamento, los manuales internos y aquellas que le asigne la o el Coordinador General de las Defensorías y la o el Coordinador Operativo de las Defensorías.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
-
-###### Artículo 53.
-
-Cuando se requiera realizar acciones de investigación para estar en aptitud de emitir resoluciones, las y los Defensores Adjuntos, Especializados o Regionales contarán con las facultades siguientes:
-
-I. Realizar personalmente o a través del personal bajo su cargo, visitas o inspecciones en los lugares que estén relacionados con los hechos motivo de la investigación;
-
-II. Solicitar por escrito a las autoridades involucradas en los procedimientos de investigación los informes que se inicien en la Defensoría para su debida integración y resolución;
-
-III. Solicitar informes a las autoridades y particulares que, sin estar involucradas directamente en el asunto, puedan ofrecer datos que ayuden a esclarecer los casos que se investigan;
-
-IV. Solicitar la comparecencia de los servidores públicos a los que se imputen violaciones a los derechos humanos y de aquellos que tengan relación con los hechos motivo de la petición;
-
-V. Citar a las personas que deban comparecer como peritos o testigos;
-
-VI. Entrevistar a los testigos presenciales de los hechos que motivaron la investigación y realizar las diligencias de inspección ocular, auditiva y de identificación cuando el caso lo amerite, ya sea directamente o por medio del personal bajo su cargo;
-
-VII. Las y los Defensores Regionales, Adjuntos y Especializados podrán desarrollar actividades de orientación, recepción y registro de quejas, investigación, seguimiento de recomendaciones o cualquiera otra que se requiera conforme a las necesidades que el caso amerite, contando con fe pública para certificar la veracidad de los hechos; y
-
-VIII. Todas las demás necesarias para la debida investigación de los hechos.
-
-###### Artículo 54.
-
-Para ser Defensor Adjunto, Especializado o Regional se requerirá nombramiento expreso de la o el Defensor, además de cumplir con los siguientes requisitos:
-
-I. Tener ciudadanía mexicana, en pleno ejercicio de sus derechos.
-
-II. Acreditar conocimientos y experiencia como Defensor de derechos humanos.
-
-III. No tener antecedentes negativos de violación a los derechos humanos.
-
-IV. Gozar de prestigio reconocido.
-
-V. Cumplir con lo que disponga el Estatuto de Servicio Profesional en Derechos Humanos.
-
-Para las o los Defensores Especializados se requiere:
-
-I. Conocimiento y dominio del tema de la especialidad.
-
-II. Presentar evidencias curriculares del conocimiento y experiencia en el tema.
-
-Para las o los Defensores Regionales se requiere:
-
-I. Conocimiento de la problemática regional en materia de los derechos humanos.
-
-II. Preferentemente, debe hablar alguna lengua indígena de la región.
-
-III. Presentar evidencias curriculares de conocimiento en materia de derechos humanos.
-
-###### Artículo 55.
-
-Las o los Defensores Adjuntos contarán con las siguientes atribuciones:
-
-I. Atender y dar seguimiento a las peticiones presentadas a la Defensoría turnadas por la Dirección de Peticiones, Orientación y Seguimiento, para su tramitación y resolución de acuerdo a su análisis y dictaminación;
-
-II. Presentar los proyectos de recomendaciones, resoluciones, acuerdos debidamente fundados y motivados a la o el Coordinador General de Defensorías para su aprobación, los cuales deberán supervisarse por la o el Coordinador Operativo de las Defensorías;
-
-III. Dar seguimiento y ejecutar los programas especiales que por acuerdo del Defensor o Defensora les sean asignados por la o el titular de la Coordinación General de Defensorías;
-
-IV. Realizar con la aprobación de las partes involucradas en la violación a los Derechos Humanos las alternativas que permitan la solución anticipada y que garanticen la satisfacción en la reparación del daño o afectación, con excepción de los casos que atenten contra la vida, la integridad física, psicológica o se agravie la integridad sexual;
-
-V. Coadyuvar con la Coordinación Operativa de las Defensorías, en el trámite de las investigaciones por violaciones a los derechos humanos, cuando estas se inicien de oficio, así como elaborar los acuerdos respectivos hasta la conclusión de los mismos;
-
-VI. Solicitar ante las autoridades correspondientes el inicio de procedimientos administrativos o penales, cuando las autoridades o servidores públicos obstaculicen las investigaciones realizadas por la Defensoría, con la aprobación dela (sic) o el Coordinador General de las Defensorías;
-
-VII. Realizar las visitas a los centros de custodia, de prisión preventiva y de reinserción social, centros psiquiátricos, hospitales públicos y privados, asilos, guarderías, albergues, entre otros, cuando así les haya sido encomendado por el Defensor o Defensora, o por la o el Coordinador General de Defensorías, debiendo presentar su informe correspondiente;
-
-VIII. Atender, investigar y dar seguimiento a los casos violatorios en derechos humanos que se les haya canalizado para su resolución;
-
-IX. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que le asigne la o el Coordinador General de las Defensorías.
-
-En el ámbito de su competencia, cada Defensoría Adjunta estará integrada por un Defensor o Defensora adjunta y un auxiliar jurídico.
-
-###### Artículo 56.
-
-Las Defensorías Especializadas con las que contará ésta Defensoría, darán atención a las siguientes temáticas:
-
-- Centros de reclusión
-
-- Discriminación y diversidad sexual
-
-- Equidad de género y atención de mujeres víctima (sic) de violencia
-
-- Migrantes
-
-- Niños y niñas, adolescentes y jóvenes
-
-- Periodistas, comunicadores y defensores de derechos humanos
-
-- Personas con discapacidad y adultos mayores
-
-- Pueblo Afrodescendiente
-
-- Pueblos indígenas
-
-- Trata de Personas
-
-###### Artículo 57.
-
-Las o los Defensores Especializados contarán con las siguientes atribuciones:
-
-I. Atender y dar seguimiento a las peticiones turnadas por la Dirección de Peticiones, Orientación y Seguimiento, para su investigación y resolución en función de su análisis y dictaminación, así como de la temática especializada requerida;
-
-II. Presentar para su aprobación a la o el Coordinador General de Defensorías los proyectos de recomendaciones, resoluciones y acuerdos debidamente fundados y motivados que se deriven de las peticiones turnadas, los cuales deberán supervisarse por la o el Coordinador Operativo de las Defensorías;
-
-III. Registrar en el sistema establecido para ello, el estado que guarda el caso especializado que se atiende, para su revisión y conocimiento de la o el Coordinador Operativo de las Defensorías;
-
-IV. Realizar las visitas de campo necesarias para la atención y resolución de la petición recibida, debiendo presentar su informe correspondiente al Coordinador Operativo de las Defensorías;
-
-V. Atender, investigar y dar seguimiento a probables violaciones a derechos humanos que por su especialización les hayan sido canalizados para su resolución;
-
-VI. Comunicar a la víctima u ofendido, a las autoridades y/o servidores públicos, las recomendaciones emitidas por el Defensor o Defensora;
-
-VII. Coadyuvar con la Coordinación Operativa de las Defensorías, en el trámite de las investigaciones por violaciones a los derechos humanos, cuando estas se inicien de oficio, así como elaborar los acuerdos respectivos hasta la conclusión de los mismos;
-
-VIII. Establecer lineamientos de trabajo con la Coordinación General de Fortalecimiento de la Cultura de los Derechos Humanos con el propósito de capacitar, difundir y promover todo lo relacionado a las diversas temáticas especializadas; y
-
-IX. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que le asigne la o el Coordinador General de las Defensorías.
-
-###### Artículo 58.
-
-Las o los Defensores Regionales tendrán las siguientes facultades
-
-I. Ejecutar el programa de trabajo establecido por la o el titular de la Coordinación General de Defensorías para que las autoridades estatales y municipales que operan en los municipios de la región tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de posibles violaciones a los derechos humanos;
-
-II. Recibir, atender e integrar el expediente correspondiente de cada una de las peticiones recibidas en la oficina municipal o regional, que de manera presencial, o por otras vías de comunicación presente la víctima u ofendido;
-
-III. Presentar los proyectos de recomendaciones, resoluciones, acuerdos debidamente fundados y motivados a la o el Coordinador General de Defensorías para su aprobación, los cuales deberán supervisarse por la o el Coordinador Operativo de las Defensorías.
-
-IV. Brindar a la víctima u ofendido la atención inmediata que requiera para que se restituya de manera provisional el goce de sus derechos vulnerados, siempre que no se afecten derechos de terceros;
-
-V. Integrar los cuadernos de antecedentes cuando del análisis de los planteamientos presentados por el peticionario o peticionaria no se desprendan actos u omisiones violatorias de derechos humanos o estén fuera de la competencia de la Defensoría, ante ello se le debe orientar para que acuda a la instancia correspondiente;
-
-VI. Registrar en el sistema establecido para ello, la petición recibida en la oficina municipal o regional y enviarla a la Coordinación Operativa de las Defensorías para su aprobación o cancelación, informando de manera inmediata al peticionario;
-
-VII. Ejecutar de acuerdo a las indicaciones recibidas por la o el titular de la Coordinación Operativa de las Defensorías las acciones de investigación o aquellas que considere necesarias y convenientes para que conforme a derecho se obtenga mejor conocimiento del caso y se garantice la capacidad para emitir la resolución de los asuntos;
-
-VIII. Solicitar y obtener en el plazo establecido la colaboración de cualquier dependencia, autoridad o servidor público estatal o municipal de la región, la presentación de informes o documentos, así como realizar las visitas o inspecciones que considere necesarias, de tal manera que contribuyan al esclarecimiento de los hechos denunciados;
-
-IX. Comunicar a la o el Coordinador Operativo de las Defensorías, y de acuerdo a los procedimientos administrativos o penales, la posible responsabilidad de las autoridades o servidores públicos que obstaculicen las investigaciones realizadas por el Defensor o Defensora Regional;
-
-X. Realizar con la aprobación de las partes involucradas en la violación de derechos humanos otras alternativas que permitan su solución anticipada y que garanticen la satisfacción en la reparación del daño o afectación, con excepción de los casos que atenten contra la vida, la integridad física, psicológica o se agravie la integridad sexual;
-
-XI. Comunicar a la víctima u ofendido, a las autoridades y/o servidores públicos las recomendaciones emitidas por el Defensor o Defensora;
-
-XII. Informar a la o el Coordinador General de Defensorías los eventos que a su juicio atenten gravemente en la violación a los derechos humanos en los municipios que integran la región, para que de acuerdo a las indicaciones recibidas se inicie de oficio la respectiva investigación;
-
-XIII. Establecer canales de comunicación con autoridades municipales, educativas, religiosas y organizaciones de la sociedad civil para agendar procesos de capacitación, difusión y promoción de la cultura de los derechos humanos;
-
-XIV. Promover y gestionar bajo la supervisión de la o el Coordinador Operativo de las Defensorías la creación y operación de Defensorías Municipales de acuerdo a los lineamientos y metodologías establecida para tal fin;
-
-XV. Integrar y elaborar los informes mensuales de las peticiones recibidas, iniciadas de oficio, en trámite o conclusión; y (sic)
-
-XVI. Sistematizar el proceso de recepción, calificación, admisión, registro, control y seguimiento de las peticiones por presuntas violaciones a derechos humanos apoyándose de las tecnologías de la información y comunicación; y
-
-XVII. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que le asigne la o el Coordinador General de las Defensorías.
-
-###### Artículo 59.
-
-El ámbito de competencia territorial de cada Defensoría Regional será asignado por el Defensor o Defensora, basado en un trabajo conjunto con la o el Coordinador General de Fortalecimiento de la Cultura de los Derechos Humanos y estará integrado por un Defensor o Defensora regional y el personal que se considere necesario para su buen funcionamiento, quienes deberán contar con la formación y especialización en temas de mayor incidencia en la región.
-
-###### Artículo 60.
-
-La cobertura territorial de las Defensorías Regionales considera los criterios de necesidad de atención, gravedad del caso o casos, número de peticiones, densidad de población, vías de acceso y diversidad etnocultural.
-
-###### Artículo 61.
-
-La Defensoría contará con diecisiete Defensorías Regionales, abriendo la posibilidad de expansión de acuerdo a las necesidades y disponibilidad presupuestal.
-
-Las Defensorías Regionales se establecerán en las siguientes ciudades:
-
-a) Región Costa: Puerto Escondido, Santa María Huatulco y Pinotepa Nacional.
-
-b) Región Istmo: Juchitán de Zaragoza, Ciudad Ixtepec y Santo Domingo Tehuantepec.
-
-c) Región Papaloapan: San Juan Bautista Tuxtepec.
-
-d) Región Cañada: Huautla de Jiménez, San Juan Bautista Cuicatlán.
-
-e) Región Mixteca: Huajuapan de León, Heroica Ciudad de Tlaxiaco y Santiago Juxtlahuaca.
-
-f) Región Sierra Sur: Miahuatlán de Porfirio Díaz, San Agustín Loxicha, Villa Sola de Vega y Putla Villa de Guerrero.
-
-g) Región Sierra Norte: San Pedro y San Pablo Ayutla Mixes.
-
-h) Región Valles Centrales: Oaxaca de Juárez, oficinas centrales de la Defensoría.
-
-###### Artículo 62.
-
-La o el titular de la Dirección de Atención a Víctimas de violaciones de derechos humanos tendrá las siguientes atribuciones:
-
-I. Diseñar, promover y ejecutar el Programa de Atención a Victimas desde un enfoque de género y pluralismo jurídico, elaborando un calendario anual para su respectiva operación;
-
-II. Establecer los protocolos de atención integral a las víctimas que han sufrido o enfrentado violación a sus derechos humanos;
-
-III. Coordinar al personal adscrito a esta dirección a fin de aportar de manera imparcial la prueba técnica o científica, de carácter médico y psicológico, en las investigaciones de casos de presuntas violaciones a los derechos humanos, para que de acuerdo a la gravedad del caso se brinde el consecuente apoyo de la Defensoría;
-
-IV. Fijar mecanismos que garanticen la pronta y expedita coordinación con las áreas competentes de la Defensoría, para que se restituya provisionalmente a las víctimas u ofendidos de violación a derechos humanos, el goce de sus derechos vulnerados;
-
-V. Canalizar a la víctima u ofendido de violación a sus derechos humanos y de acuerdo a la gravedad del caso y naturaleza del mismo, a los programas sociales de instituciones públicas y privadas que coadyuven en la restitución provisional, parcial o total del goce de sus derechos vulnerados, así como de la restitución del daño físico o material sufrido;
-
-VI. Proponer a la o el Coordinador General de las Defensorías el perfil del personal para la operatividad y desarrollo del Programa de Atención a Víctimas;
-
-VII. Formular y presentar el Programa de Trabajo Anual para su aprobación a la o el Coordinador General de las Defensorías;
-
-VIII. Promover, diseñar y ejecutar conjuntamente con la Coordinación General de Fortalecimiento de la Cultura de los Derechos Humanos, programas de capacitación, talleres, conferencias con temas preventivos y de atención de las personas afectadas en la violación de sus derechos humanos de acuerdo a su Programa de Trabajo Anual y al presupuesto asignado;
-
-IX. Colaborar en el diseño y ejecución de programas específicos en atención a víctimas implementados por instituciones públicas o privadas;
-
-X. Participar en la elaboración de contenidos de materiales didácticos para la atención de víctimas de violaciones a los derechos humanos desde una perspectiva de género y pluralismo jurídico conjuntamente con el personal de la Coordinación General de Fortalecimiento de la Cultura de los Derechos Humanos;
-
-XI. Vigilar en el ámbito de su competencia, la aplicación de los instrumentos internacionales de los que México forme parte en materia de atención a víctimas; así como desarrollar y ejercer las bases, convenios y otros acuerdos de colaboración con instituciones públicas, privadas, nacionales o extranjeras en coordinación con la o el Secretario Ejecutivo y por conducto de la o el Coordinador General de las Defensorías;
-
-XII. Supervisar los servicios de atención a víctimas en las Defensorías Regionales, Adjuntas y Especializadas para que éstos se realicen y conduzcan de acuerdo al Programa de Atención a Víctimas; y
-
-XIII. Las demás relativas a su ámbito de competencia que le sean asignadas por el presente Reglamento, manuales internos y por la o el Coordinador General de las Defensorías.
-
-###### Artículo 63.
-
-La Directora o Director de Atención a las Víctimas, tendrá bajo su cargo las siguientes áreas para el cumplimiento de sus atribuciones:
-
-- Coordinación de Diagnóstico y Atención Integral a víctimas.
-
-- Coordinación de Programas Interinstitucionales para la Atención Integral a Víctimas.
-
-Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
-
-### CAPÍTULO VI. DE LA COORDINACIÓN GENERAL DE FORTALECIMIENTO DE LA CULTURA DE LOS DERECHOS HUMANOS
-
-###### Artículo 64.
-
-La o el Titular de la Coordinación General de Fortalecimiento de la Cultura de los Derechos Humanos tendrá las siguientes atribuciones:
-
-I. Establecer acuerdos con el Defensor o Defensora en relación a los asuntos en materia de políticas públicas, educación, investigación, difusión y promoción de la cultura de los derechos humanos;
-
-II. Presentar al Defensor o Defensora para su aprobación, su Programa Anual de Trabajo, y dirigir su ejecución e informar de los avances y resultados;
-
-III. Diseñar e innovar los procesos que generen, promuevan e impulsen el diseño, implementación y evaluación de políticas públicas en materia de derechos humanos;
-
-IV. Coordinar los trabajos que en materia de educación, divulgación y promoción de la cultura de los derechos humanos se establezcan para los servidores públicos y población en general;
-
-V. Apoyar en la formulación de proyectos de modificaciones legislativas y reglamentarias ante diversas autoridades del Estado que a juicio de la Defensoría redunden en una mejor protección de los derechos humanos, para su promoción ante las diversas autoridades del estado de Oaxaca.
-
-VI. Coordinar y participar en los procesos de formulación de proyectos de modificaciones legislativas y reglamentarias ante diversas autoridades del estado de Oaxaca que redunden en una mejor protección de los derechos humanos;
-
-VII. Participar conjunta o de forma personal con el Defensor o Defensora en las reuniones o asambleas con organismos institucionales locales, nacionales e internacionales en las que la Defensoría forme parte en relación a los temas de su competencia;
-
-VIII. Promover y elaborar conjuntamente con la o el Secretario Ejecutivo los convenios y acuerdos de colaboración con instituciones públicas y privadas u organizaciones de la sociedad civil que incidan en materia de fortalecimiento de la cultura de los derechos humanos;
-
-IX. Apoyar en la elaboración, publicación y distribución del órgano de información de la Defensoría, así como los boletines de prensa, y todo lo que se refiera a difusión y promoción de la cultura de los derechos humanos;
-
-X. Establecer programas especiales con la Coordinación General de las Defensorías dirigido a las autoridades estatales y municipales para tomar las medidas preventivas necesarias y con ello evitar la consumación irreparable de posibles violaciones a los derechos humanos;
-
-XI. Coordinar procedimientos y lineamientos para la elaboración de diagnósticos, investigación, formulación y evaluación de políticas públicas con enfoque de derechos humanos tomando en cuenta la legislación internacional, nacional y local;
-
-XII. Apoyar en la promoción y consolidación de Defensorías de los derechos humanos en los municipios del estado de Oaxaca; y
-
-XIII. Las demás que le confiera el Defensor o Defensora, el presente Reglamento y manuales internos.
-
-#### SECCIÓN PRIMERA. DE LAS ÁREAS QUE INTEGRAN LA COORDINACIÓN GENERAL DE FORTALECIMIENTO DE LA CULTURA DE LOS DERECHOS HUMANOS
-
-###### Artículo 65.
-
-Para el cumplimiento de sus atribuciones la Coordinación General de Atención y Fortalecimiento de la Cultura de los Derechos Humanos contará con las siguientes áreas:
-
-- Dirección de Políticas Públicas en Derechos Humanos.
-
-- Dirección de Educación, Investigación, Divulgación y Promoción de la Cultura de los Derechos Humanos.
-
-Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
-
-#### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DE LAS AREAS QUE INTEGRAN LA COORDINACIÓN GENERAL DE FORTALECIMIENTO DE LA CULTURA DE LOS DERECHOS HUMANOS
-
-###### Artículo 66.
-
-La o el Titular de la Dirección de Políticas Públicas en Derechos Humanos tendrá a su cargo el ejercicio de las siguientes atribuciones:
-
-I. Acordar con el Coordinador General de Fortalecimiento de la Cultura de los Derechos Humanos los procedimientos y lineamientos para la elaboración del diagnóstico, la formulación y evaluación de políticas públicas con enfoque de derechos humanos tomando en cuenta la legislación internacional, nacional y local;
-
-II. Definir y desarrollar los mecanismos e instrumentos para la coordinación, concertación, inducción y obligatoriedad para la elaboración de diagnósticos, políticas públicas, programas y proyectos en materia de derechos humanos a efecto de permitir la participación de los tres órdenes de gobierno, las organizaciones de la sociedad civil y de la población en general;
-
-III. Coordinar el diseño de metodologías para la transversalización de la perspectiva de género y del pluralismo jurídico en la formulación de las políticas públicas, programas y proyectos en materia de derechos humanos;
-
-IV. Dirigir la realización de los estudios necesarios sobre la legislación interna y su jurisprudencia que sirvan de apoyo a la labor de la Defensoría, a la luz del sentido y alcance del Derecho Internacional de los Derechos Humanos;
-
-V. Dirigir y coordinar la formulación de proyectos de modificaciones legislativas y reglamentarias que redunden en una mejor protección de los derechos humanos;
-
-VI. Participar en coordinación con las demás áreas de la Defensoría en la definición de la cobertura territorial para la atención de la demanda y la implementación de programas regionales;
-
-VII. Coadyuvar en el diseño de políticas públicas educativas para la promoción de los derechos humanos conjuntamente con la Dirección de Educación, Investigación y Promoción de la Cultura de los Derechos Humanos.
-
-VIII. Dirigir y coordinar la elaboración de un sistema de indicadores e instrumentos para la evaluación de las políticas públicas, programas y proyectos.
-
-IX. Formular informes de evaluación de las políticas públicas en derechos humanos; y
-
-X. Las demás que le confiera el presente reglamento, manuales internos y aquellas que le asigne la o el Coordinador General de Fortalecimiento de la Cultura de los Derechos Humanos.
-
-###### Artículo 67.
-
-La Dirección de Políticas Públicas en Derechos Humanos, tendrá bajo su cargo las siguientes áreas para el cumplimiento de sus atribuciones:
-
-- Coordinación de Estudios y Diagnósticos en Derechos Humanos.
-
-- Coordinación de Diseño y Operación de Políticas Públicas.
-
-- Coordinación de Seguimiento y Evaluación de los Programas.
-
-Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
-
-###### Artículo 68.
-
-El Director o Directora de Educación, Investigación, Divulgación y Promoción de la Cultura de los Derechos Humanos tiene las siguientes facultades y obligaciones:
-
-I. Planear, diseñar, implementar y coordinar programas y proyectos de capacitación en materia de derechos humanos a servidores públicos estatales y municipales, así como organizaciones de la sociedad civil;
+I. Planificar, diseñar, implementar y coordinar programas y proyectos de capacitación en materia de derechos humanos a servidores públicos estatales y municipales, así como organizaciones de la sociedad civil;
 
 II. Planear, diseñar, implementar y coordinar programas y proyectos de capacitación en materia de derechos humanos al personal de la Defensoría;
 
@@ -1257,31 +915,681 @@ XIII. Diseñar y poner en práctica un sistema de indicadores y la metodología 
 
 XIV. Coadyuvar y fortalecer las relaciones de educación, investigación, capacitación y promoción con las organizaciones de la sociedad civil con presencia en el estado, en el país o en el ámbito internacional;
 
-XV. Promover vínculos con instituciones académicas estatales, nacionales e internacionales a fin de fortalecer el desarrollo de la investigación en derechos humanos en el estado, así como para la obtención de financiamiento alterno y colaboración en proyectos de investigación, divulgación y promoción;
+XV. Promover vínculos con instituciones académicas estatales, nacionales e internacionales a fin de fortalecer el desarrollo de la investigación en derechos humanos en el estado, así como para la obtención de financiamiento alterno y colaboración en proyectos de investigación, divulgación y promoción; y
 
-XVI. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que le asigne el Coordinador General de Fortalecimiento de la Cultura de los Derechos Humanos.
+XVI. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que le asigne la o el Secretario Ejecutivo o el o la Defensoría.
+
+B. La o el titular del Departamento de Políticas Públicas, Vinculación y Convenios en Derechos Humanos tendrá a su cargo el ejercicio de las siguientes atribuciones:
+
+I. Acordar con la o el Secretario Ejecutivo los procedimientos y lineamientos para la elaboración del diagnóstico, la formulación y evaluación de políticas públicas con enfoque de derechos humanos tomando en cuenta la legislación internacional, nacional y local;
+
+II. Definir y desarrollar los mecanismos e instrumentos para la coordinación, concertación, inducción y obligatoriedad para la elaboración de diagnósticos, políticas públicas, programas y proyectos en materia de derechos humanos a efecto de permitir la participación de los tres órdenes de gobierno, las organizaciones de la sociedad civil y de la población en general;
+
+III. Coordinar el diseño de metodologías para la transversalización de la perspectiva de género y del pluralismo jurídico en la formulación de las políticas públicas, programas y proyectos en materia de derechos humanos;
+
+IV. Dirigir la realización de los estudios necesarios sobre la legislación interna y su jurisprudencia que sirvan de apoyo a la labor de la Defensoría, a la luz del sentido y alcance del Derecho Internacional de los Derechos Humanos;
+
+V. Dirigir y coordinar la formulación de proyectos de modificaciones legislativas y reglamentarias que redunden en una mejor protección de los derechos humanos;
+
+VI. Participar en coordinación con las demás áreas de la Defensoría en la definición de la cobertura territorial para la atención de la demanda y la implementación de programas regionales;
+
+VII. Coadyuvar en el diseño de políticas públicas educativas para la promoción de los derechos humanos conjuntamente con el Departamento de Difusión y Promoción de la Cultura de Respeto a los Derechos Humanos;
+
+VIII. Dirigir y coordinar la elaboración de un sistema de indicadores e instrumentos para la evaluación de las políticas públicas, programas y proyectos.
+
+IX. Formular informes de evaluación de las políticas públicas en derechos humanos; y
+
+X. Las demás que le confiera el presente reglamento, manuales internos y aquellas que le asigne la o el Secretario Ejecutivo o el o la Defensora.
+
+C. La o el titular del Departamento de Estudios, Diagnósticos e Informes tendrá las siguientes atribuciones:
+
+I. Realizar estudios necesarios sobre la legislación interna y su jurisprudencia, que sirvan de apoyo a la labor de la Defensoría, a la luz del sentido y alcance del derecho internacional de los derechos humanos;
+
+II. Realizar los estudios específicos sobre diversos temas derivados de la problemática existente en materia de violación a los derechos humanos en las regiones del estado;
+
+III. Promover la publicación de artículos científicos en materia de derechos humanos en revistas indexadas;
+
+IV. Efectuar en coordinación con la Dirección Jurídica, la formulación de proyectos de modificaciones legislativas y reglamentarias que redunden en una mejor protección de los derechos humanos de las y los oaxaqueños;
+
+V. Elaborar la metodología, procedimientos y demás lineamientos para la elaboración de diagnósticos e investigaciones con enfoque de derechos humanos, tomando en cuenta la legislación internacional, nacional y local;
+
+VI. Coadyuvar en la elaboración de informes trimestrales, anuales, temáticos y especiales, que a criterio de la o el Defensor se deban presentar ante las instancias que exigen su cumplimiento en coordinación con las Direcciones de Planificación, Organización y Evaluación y de Comunicación social;
+
+VII. Analizar, diseñar y evaluar políticas públicas de acuerdo a la legislación internacional, nacional y local, tomando en cuenta a todos los sectores de la población, a fin de crear una cultura de respeto a los derechos humanos que garanticen la eliminación de la violencia contra las mujeres, la discriminación y la falta de reconocimiento de los derechos de los pueblos y comunidades indígenas y afromexicanas;
+
+VIII. Elaborar y poner a consideración del Secretario Ejecutivo su Programa de Trabajo Anual; y
+
+IX. Las demás relativas a su ámbito de competencia que le sean asignadas por el presente Reglamento, manuales internos y por la o el Secretario Ejecutivo o el o la Defensora.
+
+D. La o el Titular del Departamento de Tecnología Educativa tendrá las siguientes atribuciones:
+
+I. Desarrollar el uso de las tecnologías digitales aplicadas a la educación para lograr entre la población y las autoridades, una mayor comprensión de los contenidos en materia de los derechos humanos;
+
+II. Brindar asesorías sobre tecnologías educativas a quienes así lo soliciten, para el cumplimiento de las actividades formativas que realiza la Defensoría;
+
+III. Capacitar y orientar a las y los servidores públicos de la Defensoría en el manejo de esta modalidad educativa para la realización de otras tareas y acciones de enseñanza de los derechos humanos contenidas en las nuevas reformas a los tratados, declaraciones internacionales y leyes nacionales;
+
+IV. Diseñar el material y medios de apoyo para cursos a personal de otras instituciones estatales, y de la Defensoría en el empleo de tecnologías educativas;
+
+V. Elaborar el Programa de Trabajo Anual para su validación por parte del titular de la Secretaría Ejecutiva y realizar su seguimiento periódico;
+
+VI. Generar una guía metodológica para la utilización de la tecnología educativa orientada a la enseñanza de los derechos humanos;
+
+VII. Trabajar con expertos en los temas para identificar las necesidades de formación de la audiencia;
+
+VIII. Diseñar y desarrollar estructuras de cursos para aulas virtuales; y
+
+IX. Las demás relativas a su ámbito de competencia que le sean asignadas por el presente Reglamento, manuales internos y por la o el Secretario Ejecutivo o el o la Defensora.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO V. DE LAS DIRECCIONES DE LAS DEFENSORÍAS ESPECIALIZADAS Y DE LAS DEFENSORÍAS REGIONALES
+
+###### Artículo 46.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. DE LAS ÁREAS QUE INTEGRAN LA COORDINACIÓN GENERAL DE DEFENSORÍAS
+
+###### Artículo 47.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DE LAS AREAS QUE INTEGRAN LAS DIRECCIONES DE LAS DEFENSORÍAS ESPECIALIZADAS Y DE LAS DEFENSORÍAS REGIONALES
+
+###### Artículo 48.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 48 BIS. Las o los Titulares de las Direcciones de las Defensorías Especializadas y de las Defensorías Regionales tendrán las siguientes atribuciones:
+
+I. En orden numérico suplir en sus funciones y representación legal al Defensor o Defensora durante sus ausencias temporales, entendiéndose por tales aquellas que no sean mayores a los treinta días;
+
+II. Presentar al Defensor o Defensora para su aprobación, su Programa Anual de Trabajo, dirigir su ejecución e informar de los avances y resultados;
+
+III. Coordinar el trabajo de atención a peticiones, orientación, el proceso de análisis y dictaminación de las resoluciones, así como la atención integral a víctimas;
+
+IV. Coadyuvar con la Secretaría Ejecutiva en la elaboración de un programa especial de trabajo dirigido a las autoridades estatales y municipales para tomar las medidas preventivas necesarias y con ello evitar la consumación irreparable de violaciones a los derechos humanos;
+
+V. Coordinar, dirigir y aprobar la elaboración de los acuerdos de inicio de las peticiones presentadas, determinando su procedencia o improcedencia;
+
+VI. Dirigir las acciones de investigación que sean necesarias para allegarse de todos los elementos que permitan emitir la resolución que corresponda, solicitando para ello, los informes o la colaboración de cualquier dependencia, autoridad o servidor público estatal o municipal, así como de particulares, y realizar las visitas o inspecciones que contribuyan al esclarecimiento de los hechos denunciados;
+
+VII. Solicitar la colaboración de las instituciones y autoridades federales, de organismos internacionales, para la investigación y documentación de los hechos materia de la queja;
+
+VIII. Solicitar a la autoridad competente el inicio del procedimiento administrativo o penal en contra de aquellas autoridades o servidores públicos que hayan obstaculizado las investigaciones realizadas por la Defensoría;
+
+IX. Dar vista al superior jerárquico o al órgano interno de control de la omisión de rendición de informes en que incurra alguna autoridad con motivo de investigación de violación a derechos humanos;
+
+X. Proponer a las y los Defensores Adjuntos y Especializados, con la aprobación de las partes involucradas en la violación de derechos humanos, otras alternativas que permitan la solución anticipada y que garanticen la satisfacción en la reparación del daño o afectación, con excepción de los casos en que se investiguen violaciones graves a derechos humanos;
+
+XI. Informar al Defensor o Defensora de todas las peticiones que se reciban o tramiten, la descripción del número y características de las peticiones y denuncias que se hayan presentado, los efectos de la labor de conciliación, las investigaciones realizadas, las recomendaciones y las demás resoluciones y determinaciones que se hubiesen formulado;
+
+XII. Iniciar de oficio la investigación de probables violaciones a los derechos humanos que sean de interés social o de dominio público, comisionando a las o los Defensores Especializados y Adjuntos para que realice el proceso correspondiente;
+
+XIII. Coordinar y realizar las visitas periódicas a los establecimientos, lugares e instituciones a que se refiere el artículo 13 fracción XXII y 55 de la Ley, informando al Defensor o Defensora inmediatamente de las probables violaciones detectadas;
+
+XIV. Participar conjuntamente con la Secretaría Ejecutiva en la presentación de acciones de inconstitucionalidad en contra de leyes y reglamentos que violen o atenten contra los derechos humanos, así como de controversias constitucionales y la formulación de los proyectos de reformas legales en materia de derechos humanos;
+
+XV. Dictar las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de violaciones a los derechos humanos;
+
+XVI. Proponer al Defensor o Defensora la necesidad de emitir alertas tempranas para prevenir a las autoridades estatales y municipales que eviten graves y masivas violaciones a los derechos humanos en el territorio estatal;
+
+XVII. Analizar y turnar a la Comisión Nacional de los Derechos Humanos los asuntos que sean de su competencia;
+
+XVIII. Proponer de acuerdo al número de peticiones, necesidades, territorialidad, vías de acceso, diversidad etnocultural, así como de la disponibilidad presupuestal, la instalación y operación de nuevas Defensorías Regionales y/o Especializadas que consideren necesarias para la mejor protección y defensa de los derechos humanos;
+
+XIX. Coordinar las estrategias de atención integral a victimas u ofendidos por violación a sus derechos humanos, para que por conducto de las o los Defensores Especializados y Adjuntos se realicen las acciones inmediatas de reparación del daño y de recuperación parcial o total de sus derechos humanos;
+
+XX. Coordinar los trabajos a que haya lugar para integrar y elaborar los informes semanales y mensuales de las peticiones recibidas, iniciadas de oficio, en trámite y concluidas;
+
+XXI. Suscribir acuerdos de trámite y conclusión de los expedientes, con excepción de aquellas resoluciones que, conforme a la Ley, corresponde únicamente suscribir a la o el Defensor; y
+
+XXII. Las demás que les señalen otras disposiciones legales aplicables y las que le asigne el Defensor o Defensora.
+
+###### Artículo 49.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+###### Artículo 50.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+###### Artículo 51.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+###### Artículo 52.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE OCTUBRE DE 2013)</small>
+
+###### Artículo 53.
+
+Cuando se requiera realizar acciones de investigación para estar en aptitud de emitir resoluciones, las y los Defensores Adjuntos, Especializados o Regionales contarán con las facultades siguientes:
+
+I. Realizar personalmente o a través del personal bajo su cargo, visitas o inspecciones en los lugares que estén relacionados con los hechos motivo de la investigación;
+
+II. Solicitar por escrito a las autoridades involucradas en los procedimientos de investigación los informes que se inicien en la Defensoría para su debida integración y resolución;
+
+III. Solicitar informes a las autoridades y particulares que, sin estar involucradas directamente en el asunto, puedan ofrecer datos que ayuden a esclarecer los casos que se investigan;
+
+IV. Solicitar la comparecencia de los servidores públicos a los que se imputen violaciones a los derechos humanos y de aquellos que tengan relación con los hechos motivo de la petición;
+
+V. Citar a las personas que deban comparecer como peritos o testigos;
+
+VI. Entrevistar a los testigos presenciales de los hechos que motivaron la investigación y realizar las diligencias de inspección ocular, auditiva y de identificación cuando el caso lo amerite, ya sea directamente o por medio del personal bajo su cargo;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Las y los Defensores Adjuntos y Especializados podrán desarrollar actividades de orientación, recepción y requisitos de quejas, investigación, seguimiento de recomendaciones o cualquiera otra que se requiera conforme a las necesidades que el caso amerite, contando con fe pública para certificar la veracidad de los hechos; y
+
+VIII. Todas las demás necesarias para la debida investigación de los hechos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 54.
+
+Para ser Defensor Adjunto o Especializado se requerirá nombramiento expreso de la o el Defensor, además de cumplir con los siguientes requisitos:
+
+I. Tener ciudadanía mexicana, en pleno ejercicio de sus derechos.
+
+II. Acreditar conocimientos y experiencia como Defensor de derechos humanos.
+
+III. No tener antecedentes negativos de violación a los derechos humanos.
+
+IV. Gozar de prestigio reconocido.
+
+V. Cumplir con lo que disponga el Estatuto de Servicio Profesional en Derechos Humanos.
+
+Para las o los Defensores Especializados se requiere:
+
+I. Conocimiento y dominio del tema de la especialidad.
+
+II. Presentar evidencias curriculares del conocimiento y experiencia en el tema.
+
+> <small>(DEROGADO DÉCIMO PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+I. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+II. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+III. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 55.
+
+Las o los Defensores Adjuntos tendrán las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+I. Atender y dar seguimiento a las peticiones presentadas a la Defensoría turnadas por la Dirección de Peticiones y Quejas, para su tramitación y resolución de acuerdo a su análisis y dictaminación;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+II. Presentar los proyectos de recomendaciones, resoluciones, acuerdos debidamente fundados y motivados a las o los Directores de las Defensorías Especializadas y Regionales para su aprobación;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+III. Dar seguimiento y ejecutar los programas especiales que por acuerdo del Defensor o Defensora le sean asignados por las o los Directores de las Defensorías Especializadas y Regionales;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Realizar con la aprobación de las partes involucradas en la violación a los derechos humanos, las alternativas que permitan la solución anticipada y que garanticen la satisfacción en la reparación del daño o afectación, con excepción de los casos en que se investiguen violaciones graves a derechos humanos;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+V. Dar trámite a las investigaciones por violaciones a los derechos humanos, cuando éstas se inicien de oficio, así como elaborar los acuerdos respectivos hasta su conclusión;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Solicitar ante las autoridades correspondientes el inicio de procedimientos administrativos o penales, cuando las autoridades o servidores públicos obstaculicen las investigaciones realizadas por la Defensoría, con la aprobación de las o los Directores de las Defensorías Especializadas y Regionales;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Realizar las visitas en los términos a los que se refieren los artículos 13 fracción XXII y 55 de la Ley, cuando así les haya sido encomendado por el Defensor o Defensora, o por las o los Directores de las Defensorías Especializadas y Regionales, debiendo presentar su informe correspondiente;
+
+VIII. Atender, investigar y dar seguimiento a los casos violatorios en derechos humanos que se les haya canalizado para su resolución;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que les asignen las o los Directores de las Defensorías Especializadas y Regionales y la o el Defensor.
+
+En el ámbito de su competencia, cada Defensoría Adjunta estará integrada por un Defensor o Defensora adjunta y un auxiliar jurídico.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 56.
+
+Las Defensorías Especializadas con las que contará esta Defensoría darán atención a las siguientes temáticas:
+
+A. Salud.
+
+B. Educación.
+
+C. Autoridades municipales y ambientales.
+
+D. Seguridad.
+
+E. Justicia.
+
+F. Centros de reclusión.
+
+G. Igualdad de género.
+
+H. Niñas, Niños y Adolescentes.
+
+I. Personas con discapacidad y adultos mayores.
+
+J. Migrantes.
+
+K. Víctimas de trata.
+
+L. Personas de la diversidad sexogenérica.
+
+M. Pueblos indígenas y Afromexicanos.
+
+N. Periodistas y Defensores de Derechos Humanos.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 56 BIS. Para el cumplimiento de sus atribuciones las Direcciones de las Defensorías Especializadas y de las Defensorías Regionales contarán con las siguientes competencias:
+
+I. Dirección de la Primera Defensoría Especializada.
+
+a) Salud.
+
+b) Educación.
+
+c) Autoridades municipales y ambientales.
+
+II. Dirección de la Segunda Defensoría Especializada.
+
+a) Seguridad.
+
+b) Justicia.
+
+c) Centros de Reclusión.
+
+III. Dirección de la Tercera Defensoría Especializada.
+
+a) Igualdad de género.
+
+b) Niñas, Niños y Adolescentes.
+
+c) Personas con discapacidad y adultos mayores.
+
+d) Víctimas de trata.
+
+e) Personas de la diversidad sexogenérica.
+
+IV. Dirección de la Cuarta Defensoría Especializada.
+
+a) Pueblos indígenas y Afromexicanos.
+
+b) Periodistas y Defensores de Derechos Humanos.
+
+V. Dirección de Defensorías Regionales.
+
+a) Atención a Migrantes.
+
+Las Direcciones de las Defensorías Especializadas conocerán prioritariamente los temas asignados, sin embargo, podrán conocer cualquier acto u omisión violatorio de derechos humanos.
+
+La Dirección de Defensorías Regionales a través de sus Coordinaciones de Oficinas Regionales conocerá de todas las temáticas descritas con anterioridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 57.
+
+Las o los Defensores Especializados tendrán las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+I. Atender y dar seguimiento a las peticiones turnadas por la Dirección de Peticiones y Quejas, para su investigación y resolución en función de su análisis y dictaminación, así como la temática especializada requerida;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+II. Presentar para su aprobación a las o los Directores de las Defensorías Especializadas los proyectos de recomendaciones, resoluciones y acuerdos debidamente fundados y motivados que se deriven de las peticiones turnadas;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+III. Registrar en el sistema establecido para ello, el estado que guarda el caso especializado que se atiende, para su revisión y conocimiento de las o los Directores de las Defensorías Especializadas;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Realizar las visitas de campo necesarias para la atención y resolución de la petición recibida, debiendo presentar su informe correspondiente a las o los Directores de las Defensorías Especializadas;
+
+V. Atender, investigar y dar seguimiento a probables violaciones a derechos humanos que por su especialización les hayan sido canalizados para su resolución;
+
+VI. Comunicar a la víctima u ofendido, a las autoridades y/o servidores públicos, las recomendaciones emitidas por el Defensor o Defensora;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Dar trámite de las investigaciones por violaciones a los derechos humanos, cuando éstas se inicien de oficio, así como elaborar los acuerdos respectivos hasta la conclusión de los mismos;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Establecer lineamientos de trabajo con la Secretaría Ejecutiva, con el propósito de capacitar, difundir, y promover todo lo relacionado a las diversas temáticas especializadas; y
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que le asigne las o los Directores de las Defensorías Especializadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 58.
+
+Las o los Coordinadores de Oficinas Regionales tendrán las siguientes facultades:
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+I. Ejecutar el programa de trabajo establecido por la o el titular de la Dirección de Defensorías Regionales para que las autoridades estatales y municipales que operan en los municipios de la región tomen las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de posibles violaciones a los derechos humanos.
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+II. Recibir, atender e integrar el expediente correspondiente de cada una de las peticiones recibidas en la oficina regional, que de manera presencial, o por otras vías de comunicación presente la víctima u ofendido;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+III. Presentar los proyectos de recomendaciones, resoluciones, acuerdos debidamente fundados y motivados a la o al Director de Defensorías Regionales para su aprobación;
+
+IV. Brindar a la víctima u ofendido la atención inmediata que requiera para que se restituya de manera provisional el goce de sus derechos vulnerados, siempre que no se afecten derechos de terceros;
+
+V. Integrar los cuadernos de antecedentes cuando del análisis de los planteamientos presentados por el peticionario o peticionaria no se desprendan actos u omisiones violatorias de derechos humanos o estén fuera de la competencia de la Defensoría, ante ello se le debe orientar para que acuda a la instancia correspondiente;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Registrar en el sistema establecido para ello, la petición recibida en la oficina regional y enviarla a la Dirección de Defensorías Regionales para su aprobación o cancelación, informado de manera inmediata al peticionario.
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Ejecutar de acuerdo a las indicaciones recibidas por la o el titular de la Dirección de Defensorías Regionales las acciones de investigación o aquellas que considere necesarias y convenientes para que conforme a derecho se obtenga mejor conocimiento del caso y se garantice la capacidad para emitir la resolución de los asuntos;
+
+VIII. Solicitar y obtener en el plazo establecido la colaboración de cualquier dependencia, autoridad o servidor público estatal o municipal de la región, la presentación de informes o documentos, así como realizar las visitas o inspecciones que considere necesarias, de tal manera que contribuyan al esclarecimiento de los hechos denunciados;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Comunicar a la o al Director de Defensorías Regionales, y de acuerdo a los procedimientos administrativos o penales, la posible responsabilidad de las autoridades o servidores públicos que obstaculicen las investigaciones realizadas por el Defensor o Defensora Regional;
+
+X. Realizar con la aprobación de las partes involucradas en la violación de derechos humanos otras alternativas que permitan su solución anticipada y que garanticen la satisfacción en la reparación del daño o afectación, con excepción de los casos que atenten contra la vida, la integridad física, psicológica o se agravie la integridad sexual;
+
+XI. Comunicar a la víctima u ofendido, a las autoridades y/o servidores públicos las recomendaciones emitidas por el Defensor o Defensora;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Informar a la o al Director de Defensorías Regionales los eventos que a su juicio atenten gravemente contra los derechos humanos en los municipios que integran la región, para que de acuerdo a las indicaciones recibidas se inicie de oficio la respectiva investigación;
+
+XIII. Establecer canales de comunicación con autoridades municipales, educativas, religiosas y organizaciones de la sociedad civil para agendar procesos de capacitación, difusión y promoción de la cultura de los derechos humanos;
+
+XIV. (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+XV. Integrar y elaborar los informes mensuales de las peticiones recibidas, iniciadas de oficio, en trámite o conclusión; y (sic)
+
+XVI. Sistematizar el proceso de recepción, calificación, admisión, registro, control y seguimiento de las peticiones por presuntas violaciones a derechos humanos apoyándose de las tecnologías de la información y comunicación; y
+
+> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Dictar las medidas precautorias o cautelares necesarias para evitar la consumación irreparable de violaciones a los derechos humanos.
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Las demás que le confiera el presente Reglamento y aquellas que le asigne la o el Director de Defensorías Regionales y la o el Defensor.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 59.
+
+El ámbito de competencia territorial de cada Oficina Regional será asignado por el Defensor o Defensora y estará integrado por un Coordinado o Coordinadora Regional y el personal que se considere necesario para su buen funcionamiento.
+
+###### Artículo 60.
+
+La cobertura territorial de las Defensorías Regionales considera los criterios de necesidad de atención, gravedad del caso o casos, número de peticiones, densidad de población, vías de acceso y diversidad etnocultural.
+
+###### Artículo 61.
+
+La Defensoría contará con diecisiete Defensorías Regionales, abriendo la posibilidad de expansión de acuerdo a las necesidades y disponibilidad presupuestal.
+
+Las Defensorías Regionales se establecerán en las siguientes ciudades:
+
+a) Región Costa: Puerto Escondido, Santa María Huatulco y Pinotepa Nacional.
+
+b) Región Istmo: Juchitán de Zaragoza, Ciudad Ixtepec y Santo Domingo Tehuantepec.
+
+c) Región Papaloapan: San Juan Bautista Tuxtepec.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+d) Región Sierra de Flores Magón: Teotitlán de Flores de Magón, San Juan Bautista Cuicatlán.
+
+e) Región Mixteca: Huajuapan de León, Heroica Ciudad de Tlaxiaco y Santiago Juxtlahuaca.
+
+f) Región Sierra Sur: Miahuatlán de Porfirio Díaz, San Agustín Loxicha, Villa Sola de Vega y Putla Villa de Guerrero.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+g) Región Sierra de Juárez: San Pedro y San Pablo Ayutla Mixes.
+
+h) Región Valles Centrales: Oaxaca de Juárez, oficinas centrales de la Defensoría.
+
+###### Artículo 62.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+###### Artículo 63.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO VI. DE LA COORDINACIÓN GENERAL DE FORTALECIMIENTO DE LA CULTURA DE LOS DERECHOS HUMANOS
+
+###### Artículo 64.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. DE LAS ÁREAS QUE INTEGRAN LA COORDINACIÓN GENERAL DE FORTALECIMIENTO DE LA CULTURA DE LOS DERECHOS HUMANOS
+
+###### Artículo 65.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DE LAS AREAS QUE INTEGRAN LA COORDINACIÓN GENERAL DE FORTALECIMIENTO DE LA CULTURA DE LOS DERECHOS HUMANOS
+
+###### Artículo 66.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+###### Artículo 67.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
+
+###### Artículo 68.
+
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 69.
 
-Para el ejercicio de sus funciones y atribuciones, la Dirección de Educación, Investigación, Divulgación y Promoción de la Cultura de los Derechos Humanos, contará con las siguientes áreas:
+(DEROGADO, P.O. 14 DE SEPTIEMBRE DE 2024)
 
-I. Coordinación de Capacitación en materia de Derechos Humanos
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-II. Coordinación de Difusión y Promoción de la Cultura de los Derechos Humanos
+### CAPÍTULO VII. DE LA DIRECCIÓN DE COMUNICACIÓN SOCIAL
 
-III. Coordinación de Investigación y Evaluación Educativa en Derechos Humanos
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
+Artículo 69 BIS. La o el Titular de la Dirección de Comunicación Social tendrá por objeto la realización de las siguientes actividades:
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+I. Planear, conducir y diseñar las políticas de comunicación social de la Defensoría para su divulgación;
 
-### CAPÍTULO II. DEL PROCEDIMIENTO DE EMISIÓN DE ALERTA TEMPRANA
+II. Establecer vínculos permanentes con representantes de los distintos medios de comunicación, con personas periodistas y comunicadoras;
 
-### CAPÍTULO III. DE LA PRESENTACIÓN, RECEPCIÓN Y REGISTRO DE LA PETICIÓN
+III. Dirigir el establecimiento y operación de mecanismos de monitoreo y análisis de la información para detectar probables violaciones a derechos humanos;
+
+IV. Dirigir la elaboración de materiales audiovisuales en coordinación con áreas específicas de la Defensoría, para difundir temas de derechos humanos;
+
+V. Organizar y dirigir las conferencias de prensa, entrevistas, pronunciamientos y comunicados de la Defensoría;
+
+VI. Seleccionar información puntual de la Defensoría para su publicación en la página WEB;
+
+VII. Coordinar la integración del archivo para la memoria gráfica y documental de la Defensoría;
+
+VIII. Elaborar, distribuir y resguardar diariamente la síntesis de prensa respecto del quehacer de la Defensoría y temas análogos;
+
+IX. Dirigir el monitoreo diario sobre información transmitida en medios electrónicos, acerca de la Defensoría y/o dependencias afines;
+
+X. Diseñar y coordinar campañas de posicionamiento e imagen de la Defensoría;
+
+XI. Coordinar la elaboración del material impreso y audiovisual para dar a conocer a la población las funciones y servicios que se brindan;
+
+XII. Gestionar ante el Defensor o Defensora las entrevistas que soliciten los medios de comunicación.
+
+XIII. Integrar una base de datos de las personas periodistas y comunicadoras, así como de los medios comunitarios indígenas para fortalecer las (sic) comunicación en materia de derechos humanos con y a través de éstos:
+
+XIV. Revisar y preparar para su edición los diversos artículos que se publican, así como efectuar la corrección de estilo y ortotipográfico de boletines de prensa, posicionamientos, recomendaciones, informes, alertas tempranas, entre otros;
+
+XV. Coordinar la elaboración de las publicaciones sobre las recomendaciones, informes, pronunciamientos, alertas tempranas, medidas cautelares, conciliaciones, etc., para su presentación en conferencias de prensa y otros medios;
+
+XVI. Administrar las redes sociales con las que cuenta la Defensoría.
+
+XVII. Dirigir la edición de material impreso como libros, revistas, carteles, trípticos y publicaciones diversas para difundir la cultura de respeto a los derechos humanos y el quehacer de la Defensoría;
+
+XVIII. Revisar y corregir los informes que se emitan a través de la Dirección de Comunicación Social;
+
+XIX. Dirigir la publicación de documentos, recomendaciones, alertas tempranas, informes especiales, acuerdos de conciliación entre otros para su presentación en conferencias de prensa y otros medios como radio, televisión y redes sociales relativos a las actividades de la Defensoría;
+
+XX. Dirigir la elaboración de cápsulas informativas en español y lenguas originarias para radio y televisión sobre violaciones más recurrentes de derechos humanos en el Estado;
+
+XXI. Coordinar la producción de videos informativos sobre temas de derechos humanos para su publicación en redes sociales, canales por internet y televisión, así como la difusión de los logros de la Defensoría;
+
+XXII. Conservar la videoteca y audioteca de la Defensoría con el material correspondiente a las sesiones del Consejo Ciudadano, las entrevistas de la Defensora y todo el material multimedia producido en la Dirección de Comunicación Social;
+
+XXIII. Dirigir la logística de eventos especiales y cubrir las giras del Defensor o Defensora, mediante el registro fotográfico, grabaciones y videos;
+
+XXIV. Coordinar la elaboración del Programa de Trabajo Anual de comunicación social; y
+
+XXV. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que le asigne el Defensor o Defensora.
+
+A. La Directora o Director de Comunicación Social, tendrá bajo su cargo las siguientes áreas para el cumplimiento de sus atribuciones:
+
+A. Departamento de Contenidos Informativos.
+
+B. Departamento de Logística y Eventos Especiales.
+
+C. Departamento de Medios Digitales.
+
+Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO VIII. DE LA DIRECCIÓN ADMINSITRATIVA
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 69 TER. La o el titular de la Dirección Administrativa, tendrá las siguientes atribuciones:
+
+I. Conducir y supervisar, con la aprobación de la o el titular de la Defensoría, las políticas, normas, criterios, sistemas y procedimientos de la administración de los recursos humanos, materiales, de servicios generales y financieros;
+
+II. Coordinar las acciones en materia de recursos humanos, materiales, servicios generales y financieros en cumplimiento a las diversas disposiciones jurídicas y normativas en la materia;
+
+III. Coordinar la integración, ejecución, seguimiento y control del Programa Operativo Anual y el Proyecto de Presupuesto de Egresos de la Defensoría, atendiendo a la legislación aplicable y a los lineamientos internos establecido (sic) para tal fin;
+
+IV. Emitir con la aprobación del Defensor o Defensora las políticas institucionales de adquisición, conservación y custodia de los bienes muebles e inmuebles de la Defensoría procurando el ahorro, así como el uso austero, eficaz y eficiente de los mismos;
+
+V. Dirigir y coordinar la formulación y ejecución de los programas anuales de adquisiciones, mantenimiento, conservación de bienes muebles e inmuebles y obra pública según sea el caso;
+
+VI. Establecer los contratos, convenios y/o acuerdos relativos a los procesos administrativos de la Defensoría, conforme a las disposiciones legales aplicables;
+
+VII. Conducir las relaciones laborales de la Defensoría conforme a la normatividad establecida para ello;
+
+VIII. Planear, controlar y evaluar el programa interno de seguridad, protección civil, de administración de riesgos y aseguramiento para el personal, instalaciones, bienes, información y documentación de la Defensoría;
+
+IX. Establecer un sistema de seguimiento que permita el puntual e integral cumplimiento de los informes periódicos relativos al registro y control de los asuntos y actividades relevantes de la Dirección Administrativa;
+
+X. Planear, ejecutar y dar seguimiento a los proyectos de ejecución de obra, equipamiento y servicios para el cumplimiento del objeto de la Defensoría;
+
+XI. Las demás que le otorguen el presente reglamento, otros ordenamientos aplicables y la o el titular de la Defensoría.
+
+A. La o el titular de la Dirección Administrativa, para el cumplimiento de sus funciones contará con las siguientes áreas:
+
+A. Departamento de Recursos Humanos.
+
+B. Departamento de Recursos Financieros.
+
+C. Departamento de Recursos Materiales y Servicios Generales.
+
+Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO IX. DE LA DIRECCIÓN DE TECNOLOGÍAS DE LA INFORMACIÓN Y ESTADÍSTICA
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 69 QUÁTER. La o el titular de la Dirección de Tecnologías de la Información y Estadística, tendrá bajo su responsabilidad las siguientes atribuciones:
+
+I. Diseñar, elaborar y presentar la información generada a partir de las tareas realizadas por sus áreas sustantivas y administrativas;
+
+II. Establecer y realizar las tareas de seguimiento de las actividades que programen, realicen y ejecuten las diversas áreas de trabajo de la Defensoría;
+
+III. Presentar al Defensor o Defensora para su aprobación, su Programa Anual de Trabajo, dirigir su ejecución e informar de los avances y resultados;
+
+IV. Generar estrategias y mecanismos de control informático que permitan y faciliten la divulgación y promoción de las actividades programadas y ejecutadas;
+
+V. Brindar los servicios de apoyo que soliciten y/o requieran la estructura operativa y administrativa de la Defensoría en el uso y operación de los sistemas de información desarrollados y establecidos por esta Dirección;
+
+VI. Apoyar el diseño, elaboración y presentación de los informes que las diversas áreas de la Defensoría generen;
+
+VII. Desarrollar aplicaciones de software según lo soliciten o requieran las áreas que conforman esta Defensoría;
+
+VIII. Proponer la adquisición de soluciones informáticas aplicables a los proyectos y acciones que se realicen en las distintas áreas de la Defensoría;
+
+IX. Planear y dirigir la administración del Sitio Web de la Defensoría en coordinación con la Dirección de Comunicación Social;
+
+X. Garantizar la constante y permanente actualización, administración y mantenimiento en operación de la red de equipos de cómputo para asegurar la disponibilidad y seguridad de los recursos compartidos en la misma;
+
+XI. Implementar y mantener actualizadas las bases de datos asociadas a los sistemas de información que operan en la red de cómputo de la Defensoría;
+
+XII. Instalar y operar el software especializado requerido por las distintas áreas de trabajo que la conforman;
+
+XIII. Brindar los servicios de capacitación al personal que así lo solicite;
+
+XIV. Garantizar la integridad y seguridad de la información contenida en los equipos de cómputo, bases de datos y tráfico de la red informática de la Defensoría;
+
+XV. Captar, organizar y procesar la información generada y analizada por las distintas áreas que integran la Defensoría para su análisis y publicación mediante los sistemas de información establecidos;
+
+XVI. Mantener en óptima operación el equipo de cómputo asignado al personal de la Defensoría, así como el software desarrollado o adquirido;
+
+XVII. Coordinar y operar el sistema estadístico de toda la información generada por las áreas de la Defensoría;
+
+XVIII. Coadyuvar con las áreas directivas en la elaboración de reportes e indicaciones conforme a la información generada por este organismo; y
+
+XIX. Las demás que le confiera el presente Reglamento, manuales internos y aquellas que le asigne el Defensor o Defensora.
+
+A. La Directora o Director de Tecnologías de la Información y Estadística, tendrá bajo su cargo las siguientes áreas para el cumplimiento de sus atribuciones:
+
+A. Departamento de Sistemas de Información.
+
+B. Departamento de Operaciones.
+
+C. Departamento de Estadística e Indicadores.
+
+Todas ellas para su correcta operación tendrán a su cargo personal profesional, técnico y administrativo necesario con las facultades que les otorgue el Manual de Organización que emita la Defensoría.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO ANTE LA DEFENSORÍA
 
-### CAPÍTULO IV. DE LA CALIFICACIÓN DE LA PETICIÓN
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### Artículo 70.
 
@@ -1309,17 +1617,21 @@ Respecto al principio de confidencialidad se respetará por naturaleza de la pet
 
 Se procurará, en lo posible, la comunicación inmediata con el peticionario y con las autoridades, sea de manera personal, telefónica o por cualquier otro medio, a efecto de allegarse de los elementos suficientes para determinar el trámite que deba darse al asunto planteado. Asimismo, durante la integración del expediente de peticiones, se buscará que a la brevedad posible se realice la investigación a que haya lugar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 74.
 
-El principio de confidencialidad no operará en los casos siguientes: recomendaciones, propuestas de Conciliación, Acuerdos de no Responsabilidad, propuestas generales e informes especiales, así como en el seguimiento a las recomendaciones, salvo que exista solicitud expresa de reserva por parte del interesado.
+El principio de confidencialidad no operará en los casos siguientes: recomendaciones, propuestas de Conciliación, Acuerdos de no Responsabilidad, propuestas generales e informes especiales, así como el seguimiento a las recomendaciones, salvo que exista solicitud expresa de reserva por parte del interesado, sin perjuicio en lo que establece la Ley General de Transparencia y Acceso a la Información Pública y la Ley de Acceso a la Información Pública, Transparencia y Buen Gobierno del Estado de Oaxaca y demás normas aplicables.
 
 ###### Artículo 75.
 
 Los servidores públicos que laboren en la Defensoría no estarán obligados a rendir testimonio ante ninguna autoridad administrativa o jurisdiccional, cuando dicha prueba se encuentre relacionada con su intervención en el trámite de los procedimientos de investigación de violaciones a derechos humanos radicados en la Defensoría.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 76.
 
-Las Recomendaciones, Acuerdos de No Responsabilidad, Informes Especiales, Propuestas de Conciliación, Alertas Tempranas, Medidas Precautorias, Cautelares y demás resoluciones que emita la Defensoría estarán basados en las pruebas que de manera fehaciente consten en los respectivos expedientes y deberán estar fundados en los instrumentos estatales, federales e internacionales de derechos humanos y motivados en los hechos denunciados.
+Las Recomendaciones, Acuerdos de no Responsabilidad, Informes Especiales, Propuestas de Conciliación, Soluciones Anticipadas, Alertas Tempranas, Medidas Precautorias, Cautelares y demás resoluciones que emita la Defensoría estarán basados en las pruebas que de manera fehaciente consten en los respectivos expedientes y deberán estar fundados en los instrumentos estatales, nacionales e internacionales de derechos humanos y motivados en los hechos denunciados.
 
 ###### Artículo 77.
 
@@ -1329,7 +1641,7 @@ I. Sean solicitadas por la parte legítima, sin afectar el principio de confiden
 
 II. Cuando no se trate de documentos que afecten derechos de terceros.
 
-### CAPÍTULO V. DEL PROCEDIMIENTO DE EMISIÓN DE MEDIDA CAUTELAR
+### CAPÍTULO II. DEL PROCEDIMIENTO DE EMISIÓN DE ALERTA TEMPRANA
 
 ###### Artículo 78.
 
@@ -1373,7 +1685,7 @@ El formato de emisión de alerta temprana debe integrar:
 
 Además, se debe impulsar la consolidación de redes sociales en derechos humanos estableciendo la corresponsabilidad social que permita a instituciones públicas y privadas, organizaciones de la sociedad civil, así como con la sociedad oaxaqueña la realización de ejercicios de prevención y alertamiento ante graves violaciones a los derechos humanos.
 
-### CAPÍTULO VI. DE LA TRAMITACIÓN DE LA PETICIÓN
+### CAPÍTULO III. DE LA PRESENTACIÓN, RECEPCIÓN Y REGISTRO DE LA PETICIÓN
 
 ###### Artículo 82.
 
@@ -1411,17 +1723,25 @@ VI. Nombre, firma o huella digital de la o el peticionario, o de la persona que 
 
 La Defensoría podrá suplir la deficiencia de la petición, salvo por lo que se refiere a los requisitos señalados en las fracciones I y VI. Si la persona que presenta la petición proviene de una población o comunidad indígena o no comprende el idioma español, se le asignará un traductor o una persona especializada que la apoye en su comparecencia.
 
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 85 BIS. En la medida de lo posible se procurará la implementación de expedientes electrónicos de petición o queja, así como cuadernos de antecedentes y todo tipo de archivos que sean necesarios.
+
 ###### Artículo 86.
 
 Cuando la petición se presente por vía telefónica o por cualquier otro medio de comunicación telegráfica, eléctrica o electrónica, se hará la prevención a la parte peticionaria para que dentro de los cinco días siguientes a su presentación, contados a partir de la fecha en que se levante el acta circunstanciada, ratifique su petición vía comparecencia o por escrito, y se le hará saber mediante acuerdo que de no hacerlo se dará por concluida por falta de interés, enviándose el expediente al archivo.
 
-En los casos en que el peticionario o peticionaria que se encuentre privada de su libertad o materialmente impedida por otra causa para acudir a la Defensoría, la Defensora o Defensor Regional, Adjunto o Especializado a quien se le asigne el caso, acudirá a la mayor brevedad al centro de detención o reclusión, o al lugar donde se encuentre, para dar seguimiento a la petición. De no ratificarse por falta de interés, el expediente se enviará al archivo.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+En los casos en que el peticionario o peticionaria que se encuentre privada de su libertad o materialmente impedida por otra causa para acudir a la Defensoría, la Defensora o Defensor Adjunto o Especializado a quien se le asigne el caso, acudirá a la mayor brevedad al centro de detención o reclusión, o al lugar donde se encuentre, para dar seguimiento a la petición. De no ratificarse por falta de interés, el expediente se enviará al archivo.
 
 ###### Artículo 87.
 
 Se considerará como anónima una petición que no contenga el nombre, no esté firmada o no tenga huella digital del peticionario. En este supuesto no se podrá recibir ni iniciar trámite por lo que se tendrá por no presentada.
 
-Se excepcionan de lo establecido en el párrafo anterior, las peticiones que no contengan el nombre, firma o huella digital del peticionario, como consecuencia del temor a represalias que puedan atentar contra su integridad física o moral. En este supuesto, se registrará y asignará la petición a la Defensora o Defensor Regional, Adjunto o Especializado correspondiente, debiéndose mantener los datos de identificación del peticionario en estricta reserva, los cuales le serán invariablemente solicitados con el único fin de tenerla ubicada y poder de esta forma realizar las gestiones necesarias para la preservación de sus derechos humanos.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Se excepcionan de lo establecido en el párrafo anterior, las peticiones que no contengan el nombre, firma o huella digital del peticionario, como consecuencia del temor a represalias que puedan atentar contra su integridad física o moral. En este supuesto, se registrará y asignará la petición a la Defensora o Defensor Adjunto o Especializado correspondiente, debiéndose mantener los datos de identificación del peticionario en estricta reserva, los cuales le serán invariablemente solicitados con el único fin de tenerla ubicada y poder de esta forma realizar las gestiones necesarias para la preservación de sus derechos humanos.
 
 Si con motivo de mantener la reserva durante la investigación, se ve imposibilitada la actuación e intervención de la Defensoría, se dará por concluido el procedimiento, debiéndose exponer en el Acuerdo de Conclusión las razones por las que no fue posible la continuación de éste.
 
@@ -1447,6 +1767,8 @@ Las organizaciones de la sociedad civil legalmente constituidas podrán acudir a
 
 Los menores de edad podrán presentar quejas siempre con apoyo de un adulto, y de no ser posible, la Defensoría le proporcionará asesoría especializada.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 93.
 
 La Defensoría podrá iniciar de oficio procedimientos de investigación por presuntas violaciones a los derechos humanos en los casos siguientes:
@@ -1457,7 +1779,9 @@ II. Cuando el asunto sea de importancia y trascendencia por darse una violación
 
 III. Cuando se refiera a violaciones graves a los derechos humanos y de lesa humanidad.
 
-La o el Coordinador General de las Defensorías evaluará los hechos, y determinará si de oficio inicia la investigación. Para ello será indispensable que así lo acuerde con el Defensor o Defensora.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales evaluarán los hechos, y determinarán si de oficio inicia la investigación. Para ello será indispensable que así lo acuerden con el Defensor o Defensora.
 
 El procedimiento de investigación de oficio seguirá, en lo conducente, el mismo trámite de solicitud de petición ante la Defensoría.
 
@@ -1481,23 +1805,29 @@ De recibirse dos o más peticiones por los mismos actos u omisiones que se atrib
 
 Cuando la o el peticionario no pueda identificar a las autoridades o servidores públicos que consideran han afectado sus derechos fundamentales, se buscará la identificación de los mismos por la Defensoría, por todos los medios a su alcance, con aquellos que las autoridades deberán poner a su disposición y con la participación del mismo.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 99.
 
 El planteamiento podrá presentarse dentro del plazo de un año, a partir de que se hubiera iniciado la ejecución de los hechos que se estimen violatorios de derechos humanos, o de que la o el peticionario hubiere tenido conocimiento de los mismos.
 
-No existirá plazo alguno cuando en casos excepcionales y tratándose de infracciones graves a los Derechos Humanos, en cuyo caso, el Coordinador General de las Defensorías, previo acuerdo con el Defensor o Defensora, emitirá el acuerdo de inicio correspondiente, en el que se expondrán en forma clara las circunstancias que motivaron recibir la petición fuera del término señalado.
+No existirá plazo tratándose de infracciones graves a los Derechos Humanos, en cuyo caso, las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales, previo acuerdo con el Defensor o Defensora, emitirán el acuerdo de inicio correspondiente, en el que se expondrán en forma clara las circunstancias que motivaron recibir la petición fuera del término señalado.
 
-### CAPÍTULO VII. DEL ACUERDO DE CONCILIACIÓN
+### CAPÍTULO IV. DE LA CALIFICACIÓN DE LA PETICIÓN
 
 ###### Artículo 100.
 
 Una vez que el planteamiento de petición haya sido recibido y registrado, se le asignará número de expediente, y se hará su calificación por la o el Defensor Adjunto, Especializado o Regional, correspondiente.
 
-El acuerdo de calificación deberá ser emitido por la o el Defensor Regional, Adjunto o Especializado correspondiente en un término máximo de tres días hábiles a partir de la fecha de recepción de la petición.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+El acuerdo de calificación deberá ser emitido por la o el Defensor Adjunto o Especializado correspondiente en un término máximo de tres días hábiles a partir de la fecha de recepción de la petición.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 101.
 
-Las y los Defensores Regionales, Adjuntos y Especializados podrán iniciar un cuaderno de antecedentes en los casos siguientes:
+Las y los Defensores Adjuntos y Especializados podrán iniciar un cuaderno de antecedentes en los casos siguientes:
 
 I. Con motivo de los planteamientos o comunicaciones que los peticionarios presenten en relación con algún asunto que no sea de su competencia, con el objeto de orientar, canalizar y solicitar la colaboración de las autoridades involucradas a fin de que dichos planteamientos sean atendidos por la autoridad competente.
 
@@ -1511,9 +1841,11 @@ Si en la integración del Cuaderno de Antecedentes se advierte la participación
 
 Atendido el planteamiento efectuado por la o el peticionario, sin mayor trámite se enviará el Cuaderno de Antecedentes al archivo central de esta Defensoría y en la Defensoría Regional como asunto totalmente concluido.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 104.
 
-La o el Defensor Regional, Adjunto o Especializado suscribirá el acuerdo de calificación debidamente fundado y motivado con la aprobación de la o el Coordinador Operativo de las Defensorías, quien informará a la o el Coordinador General de las Defensorías.
+La o el Defensor Adjunto o Especializado suscribirá el acuerdo de calificación debidamente fundado y motivado con la aprobación de las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales.
 
 Éstos podrán ser por:
 
@@ -1525,17 +1857,21 @@ III. Incompetencia de este Organismo pero con la posibilidad de ofrecer una orie
 
 IV. Acuerdo de calificación pendiente, cuando la petición no reúna los requisitos legales o reglamentarios, o ésta sea confusa.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 105.
 
-Cuando la petición haya sido calificada como presuntamente violatoria de Derechos Humanos, La Defensora o Defensor Regional, Adjunto o Especializado a quién haya correspondido conocer la petición notificará a la o el peticionario el acuerdo de admisión de la misma, en el que se informará sobre el resultado de la calificación y solicitará mantenerse en comunicación constante con la Defensoría durante la tramitación del expediente.
+Cuando la petición haya sido calificada como presuntamente violatoria de Derechos Humanos, La Defensora o Defensor Adjunto o Especializado a quién haya correspondido conocer la petición notificará a la o el peticionario el acuerdo de admisión de la misma, en el que se informará sobre el resultado de la calificación y solicitará mantenerse en comunicación constante con la Defensoría durante la tramitación del expediente.
 
 ###### Artículo 106.
 
 Cuando la petición sea calificada como de incompetencia de la Defensoría, se notificará a la o el peticionario el acuerdo respectivo de manera oral y escrita donde se señalará la causa de incompetencia y sus fundamentos legales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 107.
 
-Cuando la petición sea calificada como de incompetencia, pero exista la posibilidad de proporcionar una orientación jurídica a la o el peticionario, la Defensora o Defensor Regional, Adjunto o Especializado correspondiente, enviará al interesado un documento de orientación en el que se explicará de manera breve y sencilla la naturaleza del problema y posibles formas para su solución, debiendo señalar la dependencia pública competente para atenderlo. A dicha dependencia pública se le enviará un oficio solicitando la colaboración en la que se señalará que la Defensoría ha orientado a la persona y le pedirá que éste sea recibido para la atención de su petición.
+Cuando la petición sea calificada como de incompetencia, pero exista la posibilidad de proporcionar una orientación jurídica o la o el peticionario, la Defensora o Defensor Adjunto o Especializado correspondiente, enviará al interesado un documento de orientación en el que se explicará de manera breve y sencilla la naturaleza del problema y posibles formas para su solución, debiendo señalar la dependencia pública competente para atenderlo. A dicha dependencia pública se le enviará un oficio solicitando la colaboración en la que se señalará que la Defensoría ha orientado a la persona y le pedirá que éste sea recibido para la atención de su petición.
 
 En caso que la o el peticionario no sepa leer ni escribir, se le brindará la notificación y orientación de manera personal, oral, clara y precisa.
 
@@ -1543,7 +1879,7 @@ En caso que la o el peticionario no sepa leer ni escribir, se le brindará la no
 
 Cuando la petición haya sido determinada como pendiente de calificación, por no reunir los requisitos legales o reglamentarios o porque sea ambigua o imprecisa, se procederá en los siguientes términos: Se solicitará a la o el peticionario las aclaraciones y precisiones que correspondan, mismas que deberá realizar dentro de los cinco días siguientes contados a partir de que quede notificado de tal circunstancia, en caso de no comparecer, se concluirá el expediente por falta de interés del peticionario, y se enviará al archivo.
 
-### CAPÍTULO VIII. PROPUESTAS DE CONCILIACIÓN
+### CAPÍTULO V. DEL PROCEDIMIENTO DE EMISIÓN DE MEDIDA CAUTELAR
 
 ###### Artículo 109.
 
@@ -1589,15 +1925,19 @@ Respecto de medidas cautelares de naturaleza colectiva, la Defensoría podrá es
 
 El otorgamiento de esas medidas y su adopción por el Estado no constituirán prejuzgamiento sobre la violación de los derechos humanos protegidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución local y otros instrumentos aplicables.
 
-### CAPÍTULO IX. DE LAS CAUSAS DE CONCLUSIÓN DE LOS EXPEDIENTES
+### CAPÍTULO VI. DE LA TRAMITACIÓN DE LA PETICIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 118.
 
-Corresponderá exclusivamente al Defensor o Defensora, la o el Coordinador General de las Defensorías o las y los Defensores Regionales la determinación de urgencia de un asunto que amerite reducir el plazo máximo de 15 días concedido a una autoridad municipal o servidor público para que rinda su informe.
+Corresponderá exclusivamente al Defensor o Defensora, las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales, la determinación de urgencia de un asunto que amerita reducir el plazo máximo de 15 días concedido a una autoridad o servidor público para que rinda su informe.
 
 En el correspondiente oficio de solicitud de información se expondrán de manera general los motivos de urgencia, en caso de no dar respuesta, la Defensoría podrá rendir un informe especial por efectos del artículo 84 de la Ley.
 
-En estos casos, independientemente del oficio de solicitud de información, el Defensor o Defensora, la o el Coordinador General de las Defensorías, así como las o los Defensores Regionales deberán establecer de inmediato comunicación telefónica con la autoridad responsable o con su superior jerárquico para conocer la gravedad del problema y, en su caso, tomar las medidas necesarias para evitar la consumación irreparable de las violaciones denunciadas.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+En estos casos, independientemente del oficio de solicitud de información, el Defensor o Defensora, las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales, defensores adjuntos y especializados, deberán establecer de inmediato comunicación telefónica con la autoridad responsable o con su superior jerárquico para conocer la gravedad del problema y, en caso, tomar las medidas necesarias para evitar la consumación irreparable de las violaciones denunciadas.
 
 Artículo 119 Toda la documentación que remitan las autoridades, deberá estar legible, certificada y debidamente foliada, para que surta sus efectos en el procedimiento de investigación.
 
@@ -1609,27 +1949,35 @@ I. Cuando exista contradicción evidente entre lo manifestado por la o el petici
 
 II. Cuando la autoridad pida que la o el peticionario se presente ante ella para resarcirle la presunta violación;
 
-III. Cuando a juicio de la o el Coordinador General de las Defensorías, las o los Defensores Regionales, Adjuntos o Especializados que conozca de la petición, sea necesario que la o el peticionario se entere fehacientemente del contenido de la respuesta de la autoridad.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+III. Cuando a juicio de las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales, defensores adjuntos y especializados, que conozcan la petición, sea necesario que la o el peticionario se entere fehacientemente del contenido de la respuesta de la autoridad.
 
 En los casos anteriores se concederá a la o el peticionario un plazo máximo de quince días contados a partir del acuse de recibido, para que manifieste lo que a su derecho convenga. De no hacerlo, se ordenará el envío del expediente al archivo, siempre y cuando resulte evidente que la autoridad se ha conducido con verdad.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 121.
 
-Cuando la o el peticionario solicite la reapertura de un expediente, la o el Coordinador General de las Defensorías, después de analizar el asunto en particular, acordará razonadamente si se reabre o no el expediente. La determinación correspondiente se comunicará a la o el peticionario y a la autoridad señalada como responsable, si a ésta se le pidieron informes durante la integración del expediente.
+Cuando la o el peticionario solicite la reapertura de un expediente o se reciba información o documentación posterior a la fecha de su conclusión, de la cual se advierta una presunta violación a derechos humanos, las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales, después de analizar el asunto en particular, acordarán razonadamente si se reabre o no el expediente. La determinación correspondiente se comunicará a la o el peticionario y a la autoridad señalada como responsable, si a ésta se le pidieron informes durante la integración del expediente.
 
 ###### Artículo 122.
 
 Para los efectos del artículo 76 de la Ley, la Defensoría notificará, por medio de oficio dirigido a la o el peticionario, con acuse de recibo, los resultados del expediente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 123.
 
-El Defensor o Defensora, la o el Coordinador General de las Defensorías, así como las o los Defensores Regionales, Adjuntos o Especializados tendrán fe pública en el desempeño de sus funciones, lo cual les llevará a certificar la veracidad de los hechos en relación con las peticiones o inconformidades, así como la facultad de autentificar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos funcionarios, sin perjuicio del valor probatorio que en definitiva se les atribuya de conformidad con lo dispuesto en el artículo 9 de la Ley.
+El Defensor o Defensora, la o el Director Jurídico, la o el Director de Peticiones y Quejas, las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales, defensores adjuntos y especializados, tendrán fe pública en el desempeño de sus funciones, lo cual les llevará a certificar la veracidad de los hechos en relación con las peticiones o inconformidades, así como la facultad de autentificar documentos preexistentes o declaraciones y hechos que tengan lugar o estén aconteciendo en presencia de dichos funcionarios, sin perjuicio del valor probatorio que en definitiva se les atribuya de conformidad con lo dispuesto en el artículo 9 de la Ley.
 
 Las declaraciones y hechos a que alude el párrafo anterior se harán constar en la certificación que al efecto levantará el funcionario correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 124.
 
-Durante la fase de investigación de una petición las o los Defensores Regionales, Adjuntos o Especializados así como los servidores que sean designados al efecto podrán presentarse en cualquier oficina administrativa, hospitales públicos y privados, penitenciarías, casas de seguridad, consejos tutelares, garitas migratorias, comisarías preventivas, cárceles municipales, casas de arraigo, espacios de reclusión, entre otros, para comprobar cuantos datos fueren necesarios, hacer las entrevistas personales pertinentes, sea con autoridades o con testigos, o proceder al estudio de los expedientes y documentos relacionados.
+Durante la fase de investigación de una petición las o los Defensores Adjuntos o Especializados así como los servidores que sean designados al efecto podrán presentarse en cualquier oficina administrativa, hospitales públicos y privados, penitenciarías, casas de seguridad, consejos tutelares, garitas migratorias, comisarías preventivas, cárceles municipales, casas de arraigo, espacios de reclusión, entre otros, para comprobar cuantos datos fueren necesarios, hacer las entrevistas personales pertinentes, sea con autoridades o con testigos, o proceder al estudio de los expedientes y documentos relacionados.
 
 Las autoridades deberán dar las facilidades que se requieran para el buen desempeño de las labores de investigación de una petición; y permitir el acceso a la documentación y los archivos respectivos.
 
@@ -1643,7 +1991,9 @@ La falta de colaboración u omisión de las autoridades a las labores de los fun
 
 Se podrá requerir hasta por dos ocasiones a la autoridad que se le turnó la petición para que rinda el informe o envíe la documentación solicitada. El lapso de tiempo establecido entre los dos requerimientos será de cinco días contados a partir del acuse de recibido.
 
-Los dos requerimientos procederán tanto en el caso de que la autoridad no rinda el informe, como para el supuesto de que lo rinda pero no anexe la documentación solicitada. De no recibir respuesta, las o los Defensores Regionales, Adjuntos o Especializados acudirán a la oficina de la autoridad para hacer la investigación respectiva, dentro del término de tres días hábiles contados a partir del siguiente al del vencimiento del referido plazo.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Los dos requerimientos procederán tanto en el caso de que la autoridad no rinda el informe, como para el supuesto de que lo rinda pero no anexe la documentación solicitada. De no recibir respuesta, las o los Defensores Adjuntos o Especializados acudirán a la oficina de la autoridad para hacer la investigación respectiva, dentro del término de tres días hábiles contados a partir del siguiente al del vencimiento del referido plazo.
 
 ###### Artículo 127.
 
@@ -1681,7 +2031,7 @@ Cuando los hechos sean ciertos, la autoridad a la que se notifique el requerimie
 
 En el desempeño de sus funciones, las y los servidores públicos de la Defensoría estarán obligados a identificarse con la credencial oficial que a su nombre se expida. Cuando algún servidor de la Defensoría hiciere uso indebido de su credencial, será sujeto de responsabilidad administrativa y, en su caso, penal. Para tal efecto, la o el Contralor Interno, previo procedimiento, podrá imponer la sanción que corresponda.
 
-### CAPÍTULO X. DE LOS ACUERDOS DE NO RESPONSABILIDAD
+### CAPÍTULO VII. DEL ACUERDO DE CONCILIACIÓN
 
 ###### Artículo 134.
 
@@ -1691,21 +2041,25 @@ La conciliación es una de las formas en las que se puede concluir un procedimie
 
 La conciliación no procederá tratándose de procedimientos de investigación que versen sobre violaciones a los derechos humanos como violaciones al derecho a la vida, a la integridad física, psicológica, y sexual, así como a la libertad personal y de lesa humanidad.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 136.
 
-De lograrse una conciliación satisfactoria para la persona ofendida, las o los Defensores Regionales, Adjuntos o Especializados lo harán constar por escrito y ordenarán el archivo del expediente, el cual podrá reabrirse cuando las o los peticionarios expresen a la Defensoría que no se ha cumplido con el compromiso en un plazo de 15 días o en el plazo establecido en el acuerdo, contado a partir de la fecha de realización de la conciliación.
+De lograrse una conciliación satisfactoria para la persona ofendida, las o los Defensores Adjuntos o Especializados lo harán constar por escrito y ordenarán el archivo del expediente, el cual podrá reabrirse cuando las o los peticionarios expresen a la Defensoría que no se ha cumplido con el compromiso en un plazo de 15 días o en el plazo establecido en el acuerdo, contado a partir de la fecha de realización de la conciliación.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO XI. DE LAS RECOMENDACIONES
+### CAPÍTULO VIII. PROPUESTAS DE CONCILIACIÓN
 
 ###### Artículo 137.
 
 Cuando en una petición se acredite la existencia de violación de derechos humanos, que no atenten contra los derechos a la vida, la integridad física psicológica y sexual o a otras que se consideren especialmente graves por el número de afectados o sus posibles consecuencias, la misma podrá sujetarse a un procedimiento de conciliación con las autoridades señaladas como presuntas responsables.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 138.
 
-En referencia al artículo anterior, las o los Defensores Regionales, Adjuntos o Especializados, previo acuerdo de la Coordinación Operativa de las Defensorías, formularán por escrito a la autoridad o servidor público la propuesta de conciliación del mismo.
+En referencia al artículo anterior, las o los Defensores Adjuntos o Especializados, previo acuerdo de las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales, formularán por escrito a la autoridad o servidor público la propuesta de conciliación correspondiente.
 
 ###### Artículo 139.
 
@@ -1719,13 +2073,13 @@ Se podrá efectuar hasta dos requerimientos que no exceda de cinco días, a la a
 
 Si durante los treinta días siguientes a la aceptación de la propuesta de conciliación, la autoridad no la hubiera cumplido totalmente, el peticionario podrá comunicarlo a la Defensoría para que, en su caso, dentro del término de setenta y dos horas, contadas a partir de la recepción del escrito, se resuelva sobre la reapertura del expediente, determinándose las acciones que correspondan.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 142.
 
-La o el Defensor Regional, Adjunto o Especializado que conozca de una petición susceptible de ser solucionada por la vía conciliatoria, inmediatamente dará aviso a la o el peticionario de esta circunstancia, explicándole en qué consiste el procedimiento y sus ventajas; y manteniéndolo informado del avance del trámite conciliatorio hasta su conclusión.
+La o el Defensor Adjunto o Especializado que conozca de una petición susceptible de ser solucionada por la vía conciliatoria, inmediatamente dará aviso a la o el peticionario de esta circunstancia, explicándole en qué consiste el procedimiento y sus ventajas; y manteniéndolo informado del avance del trámite conciliatorio hasta su conclusión.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
-
-Esta función debe ser consultada previamente con la o el Defensor, la o el Coordinador General de Defensorías o la o el Coordinador Operativo de las Defensorías.
+Esta función debe ser consultada previamente con la o el Defensor y las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales.
 
 ###### Artículo 143.
 
@@ -1735,7 +2089,7 @@ Durante el trámite conciliatorio, la autoridad o servidor público podrán pres
 
 Cuando la autoridad o servidor público no acepte la propuesta de conciliación formulada por la Defensoría, la consecuencia inmediata será la preparación del proyecto de recomendación que corresponda.
 
-### CAPÍTULO XII. DE LA REPARACIÓN DEL DAÑO
+### CAPÍTULO IX. DE LAS CAUSAS DE CONCLUSIÓN DE LOS EXPEDIENTES
 
 ###### Artículo 145.
 
@@ -1777,19 +2131,25 @@ XVI. Por acumulación.
 
 Cuando en algún expediente se acredite una causal de incompetencia de la Defensoría, de resultar procedente, deberá orientar jurídicamente a la o el peticionario, a fin de dar por concluido el expediente.
 
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 147.
 
-Los expedientes de petición serán formalmente concluidos mediante acuerdo debidamente fundado y motivado, firmado por la o el Coordinador General de las Defensorías, con excepción de los Acuerdos de no Responsabilidad, las Recomendaciones y los Informes Especiales que deberán ser firmadas por la o el Defensor.
+Los expedientes de petición serán formalmente concluidos mediante acuerdo debidamente fundado y motivado, firmado por las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales, con excepción de los Acuerdos de no Responsabilidad, las Recomendaciones, Alertas Tempranas y los Informes Especiales que deberán ser firmadas por la o el Defensor.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 148.
 
-La o el Defensor Regional, Adjunto o Especializado vigilará que se realice la notificación del acuerdo de conclusión a la o el peticionario y a la autoridad o servidor público que hubiese estado involucrado. Sólo se notificará a la autoridad o servidor público cuando se le hubiere turnado la petición y solicitado los informes respectivos.
+La o el Defensor Adjunto o Especializado vigilará que se realice la notificación del acuerdo de conclusión a la o el peticionario y a la autoridad o servidor público que hubiese estado involucrado. Sólo se notificará a la autoridad o servidor público cuando se le hubiere turnado la petición y solicitado los informes respectivos.
 
-### CAPÍTULO ÚNICO. RECURSOS DE QUEJA
+### CAPÍTULO X. DE LOS ACUERDOS DE NO RESPONSABILIDAD
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 149.
 
-Concluida la investigación y en caso de existir los elementos de convicción necesarios para demostrar la no existencia de violaciones a los Derechos Humanos, o de no haberse acreditado éstos de manera fehaciente, la o el Coordinador General de las Defensorías hará del conocimiento al Defensor o Defensora mediante el proyecto de Acuerdo de No Responsabilidad.
+Concluida la investigación y en caso de existir los elementos de convicción necesarios para demostrar la no existencia de violaciones a los Derechos Humanos, o de no haberse acreditado éstos de manera fehaciente, las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales harán del conocimiento al Defensor o Defensora mediante el proyecto de Acuerdo de No Responsabilidad.
 
 ###### Artículo 150.
 
@@ -1817,19 +2177,27 @@ Los Acuerdos de No Responsabilidad serán notificados en el término de tres dí
 
 Los Acuerdos de No Responsabilidad que expida la Defensoría se referirán a casos concretos cuyo origen sea un hecho específico. En consecuencia, dichos acuerdos no son de aplicación general y no eximen de responsabilidad a la autoridad o servidor público, respecto a otras peticiones de la misma naturaleza.
 
+### CAPÍTULO XI. DE LAS RECOMENDACIONES
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 154.
 
-Concluida la investigación y reunidos los elementos de convicción necesarios para probar la existencia de violaciones a Derechos Humanos, la o el Defensor Regional, Adjunto o Especializado harán del conocimiento de la o el Coordinador Operativo de las Defensorías del inicio del proyecto de recomendación correspondiente.
+Concluida la investigación y reunidos los elementos de convicción necesarios para probar la existencia de violaciones a Derechos Humanos, la o el Defensor Adjunto o Especializado harán del conocimiento de las o los Directores de las Defensorías Especializadas, así como la o el Director y Coordinadores de Oficinas Regionales del inicio del proyecto de recomendación correspondiente.
 
-La o el Defensor Regional, Adjunto o Especializado, tendrá la obligación de consultar los precedentes que sobre casos análogos o similares haya resuelto la Defensoría.
+La o el Defensor Adjunto o Especializado, tendrá la obligación de consultar los precedentes que sobre casos análogos o similares haya resuelto la Defensoría.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 155.
 
-Una vez concluido el proyecto de recomendación, se presentará a consideración de la o el titular de la Coordinación Operativa de las Defensorías para que se formulen todas las observaciones y consideraciones que resulten pertinentes. Cuando las modificaciones hayan sido incorporadas al texto del proyecto, se presentará para consideración de la o el Coordinador General de la Defensoría para firma del Defensor o Defensora.
+Una vez concluido el proyecto de recomendación, se presentará a consideración de las o los Directores de las Defensorías Especializadas, así como a la o al Director y Coordinadores de Oficinas Regionales para que se formulen todas las observaciones y consideraciones que resulten pertinentes. Cuando las modificaciones hayan sido incorporadas al texto del proyecto, se presentará para firma del Defensor o Defensora.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 156.
 
-La o el Coordinador General de las Defensorías analizará todos los proyectos de Recomendación que la o el Coordinador Operativo de las Defensorías presente a su consideración, formulará las modificaciones, las observaciones, las consideraciones que resulten convenientes y suscribirá el texto de la recomendación.
+Las o los Directores de las Defensorías Especializadas y de las Defensorías Regionales analizarán todos los proyectos de Recomendación, formularán las modificaciones, las observaciones, las consideraciones que resulten convenientes y suscribirán el texto de la recomendación.
 
 El proyecto de recomendación se enviará al Consejo Ciudadano para su conocimiento y opinión.
 
@@ -1879,9 +2247,11 @@ Cuando, a juicio del destinatario de la recomendación, el plazo al que se refie
 
 Cuando la autoridad o servidor público haya aceptado una recomendación, asumirá el compromiso de dar a ella su total cumplimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 163.
 
-La o el Coordinador General de las Defensorías reportará al titular de la Defensoría el estado de las Recomendaciones de acuerdo con los siguientes asuntos:
+La o el titular de la Dirección Jurídica reportará a la o al titular de la Defensoría el estado de las Recomendaciones de acuerdo con los siguientes asuntos:
 
 I. Recomendaciones no aceptadas;
 
@@ -1920,6 +2290,8 @@ III. Cuando existan violaciones sistemáticas a uno o más derechos humanos espe
 En estos casos, la recomendación general se basará en las recomendaciones específicas que la Defensoría haya emitido en casos particulares. Contendrá un breve informe en donde se especifiquen los casos que la Defensoría ha conocido y que por su reiteración, constituyen violaciones sistemáticas según los supuestos de las fracciones I, II y III de este artículo.
 
 La recomendación se dirigirá a todos los servidores públicos que se encuentren relacionados con los hechos, y se ofrecerán propuestas de solución que pretendan disminuir y, en su momento erradicar la violación sistemática motivo de la misma.
+
+### CAPÍTULO XII. DE LA REPARACIÓN DEL DAÑO
 
 ###### Artículo 167.
 
@@ -1988,6 +2360,8 @@ La reparación del daño debe corresponderle, sin discriminación alguna, a la v
 El Estado será subsidiariamente responsable del pago de la reparación del daño por las violaciones a derechos humanos cometidas por sus servidores públicos.
 
 ## TÍTULO CUARTO. DE LAS INCONFORMIDADES POR LA ATENCIÓN Y SERVICIO DE LA DEFENSORÍA
+
+### CAPÍTULO ÚNICO. RECURSOS DE QUEJA
 
 ###### Artículo 175.
 
@@ -2064,3 +2438,15 @@ SEGUNDO. Se instruye al Director de Peticiones, Orientaciones y Seguimiento de R
 TERCERO. Se instruye al Titular de la Unidad de Enlace para que a partir de la vigencia del presente acuerdo, realice las gestiones necesarias para su publicación en el Portal de Transparencia de la Defensoría.
 
 CUARTO. Se instruye a la Secretaría Técnica del Consejo Ciudadano, para que realice las gestiones necesarias para su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERNO DE LA DEFENSORÍA DE LOS DERECHOS HUMANOS DEL PUEBLO DE OAXACA, APROBADO EN SESIÓN ORDINARIA DEL CONSEJO CIUDADANO EL 4 DE JUNIO DE 2024”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su aprobación por el Consejo Ciudadano de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca.
+
+SEGUNDO.- Se instruye a la o al Director Jurídico para que a partir de la aprobación del presente acuerdo, realice las gestiones necesarias para su publicación en los estrados de la Defensoría, por un plazo de treinta días hábiles, dejando la razón correspondiente de su retiro.
+
+TERCERO.- Se instruye a la o al titular de la Unidad de Transparencia para que a partir de la vigencia del presente acuerdo, realice las gestiones necesarias para su publicación en el Portal de Transparencia de la Defensoría.
+
+CUARTO.- Se instruye a la Secretaría Técnica del Consejo Ciudadano, para que realice las gestiones necesarias para su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
