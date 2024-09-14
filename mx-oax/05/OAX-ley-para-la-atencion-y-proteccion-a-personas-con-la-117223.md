@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-la-atencion-y-proteccion-a-personas-con-la-117223"
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-30"
-last_updated: "2022-10-15"
+last_updated: "2024-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 30 de septiembre de 2016.
 
@@ -128,6 +128,10 @@ X. Los demás que respondan a la interpretación de los principios rectores en m
 ###### Artículo 6.
 
 Para el cumplimiento de lo dispuesto en la presente Ley, las dependencias y/o entidades de la Administración Pública y de los municipios, formularán respecto de los asuntos de su competencia, las propuestas de programas, objetivos, metas, estrategias y acciones, así como sus previsiones presupuestarias.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+Así mismo, procurarán que las niñas, niños, adolescentes y toda persona con esta condición, reciban en los centros de salud, educativos, espacios deportivos y culturales, atención especializada con profesionales de la salud para lograr un pleno acceso al más alto nivel de salud, que favorezca su autonomía y desarrollo personal, con igualdad y sin discriminación, así como brindar asesoría y acompañamiento emocional a sus familias durante el tiempo que dure el tratamiento.
 
 ###### Artículo 7.
 
@@ -235,13 +239,19 @@ La Comisión estará integrada por los titulares de las siguientes dependencias 
 
 I. La Secretaría de Salud, quien presidirá la Comisión;
 
-II. El Instituto Estatal de Educación Pública de Oaxaca;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+II. La Secretaría de Educación Pública;
 
 III. La Secretaría del Trabajo;
 
-IV. La Secretaría de Desarrollo Social y Humano;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
 
-V. La Secretaría General de Gobierno;
+IV. La Secretaría de Bienestar, Tequio e Inclusión;
+
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2024)</small>
+
+V. La Secretaría de Gobierno;
 
 VI. La Secretaría de Finanzas, y
 
@@ -406,3 +416,13 @@ P.O. 15 DE OCTUBRE DE 2022.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 14 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2394.- MEDIANTE EL CUAL REFORMAN LAS FRACCIONES II, IV Y V DEL ARTÍCULO 12 Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 6 DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Para la integración de la Comisión Intersecretarial, la Secretaría de Educación Pública podrá delegar la representación al Instituto Estatal de Educación Pública de Oaxaca, con independencia de que pueda ejercerla de manera directa.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
