@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-de-89283"
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2024-06-14"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -271,13 +271,17 @@ XII.- Promover la capacitación en relación al proceso editorial;
 
 XIII.- Realizar acciones de actualización y capacitación para bibliotecarios y mediadores de lectura y promover su certificación;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-XIV.- Propiciar que los hablantes de lenguas indígenas participen en la creación de las políticas y programas de fomento y promoción de la lectura; y
+XIV.- Propiciar que los hablantes de lenguas indígenas participen en la creación de las políticas y programas de fomento y promoción de la lectura;
 
-> <small>(ADICIONADA, P.O. 29 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-XV.- Promover la formación de intérpretes y traductores de lenguas indígenas.
+XV.- Promover la formación de intérpretes y traductores de lenguas indígenas; y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XVI.- Gestionar la donación de libros para que sean ocupados principalmente por niñas, niños y adolescentes.
 
 > <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2024)</small>
 
@@ -768,3 +772,9 @@ P.O. 14 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 982 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1086 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 8 DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
