@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2024-08-23"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -549,9 +549,11 @@ Sin el cumplimiento de los requisitos descritos, los ayuntamientos no podrán ap
 
 Las Comisarías son órganos de desconcentración territorial de la Administración Pública Municipal, a cargo de un Comisario electo en votación popular directa por medio de mecanismos vecinales a través del sufragio de vecinos mayores de 18 años y que tendrán el carácter honorífico.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 35.
 
-Las elecciones de comisarios se sufragarán por planilla al cabo el segundo domingo del mes de junio del año en que deba renovarse. En las elecciones de comisarios se sufragará además, por un comisario suplente, así como por dos comisarios vocales.
+Las elecciones de Comisarías Municipales, Comisarías Municipales Suplentes y las Comisarías Municipales Vocales, se someterán a procesos electivos cada tres años, mediante procedimientos de elección vecinal y por planilla, durante la última semana del mes de junio del año en que deban renovarse. En la elección y votación, se observará el principio de paridad, según lo establecido en el Capítulo II del Título Séptimo de la presente Ley Orgánica y en la Ley Número 652, para la Elección de Comisarías Municipales del Estado de Guerrero.
 
 ### CAPITULO II. DE LA INSTALACION DEL AYUNTAMIENTO
 
@@ -895,9 +897,13 @@ V. Vigilar que la intervención de los elementos policiales en los casos de infr
 
 VI. Mantener la tranquilidad, la seguridad y orden público dentro del Municipio;
 
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Prevenir la comisión de delitos y proteger a las personas, a sus propiedades y derechos; e impulsar programas de prevención y atención a la violencia contra las mujeres, así como a otros grupos en situaciones de vulnerabilidad;
+VII. Implementar políticas públicas y programas de prevención del delito y de la violencia, en coordinación con el área municipal correspondiente a la Seguridad Pública y las autoridades federales y estatales respectivas y, de ser el caso, de otros Municipios;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VII-A. Prevenir la comisión de delitos y proteger a las personas, a sus propiedades y derechos; e impulsar programas de prevención y atención a la violencia contra las mujeres, así como a otros grupos en situaciones de vulnerabilidad;
 
 VIII. Auxiliar al Ministerio Público y a las autoridades judiciales cuando sea requerido para ello;
 
@@ -1491,11 +1497,11 @@ El programa trianual deberá aprobarse dentro del primer cuatrimestre del primer
 
 El Presidente Municipal es el representante del Ayuntamiento y Jefe de la Administración Municipal en los términos de ley, así como el encargado de ejecutar sus resoluciones, las que en todo momento serán respetuosas de los derechos humanos contenidos en la legislación. Sus funciones son incompatibles con cualquier otro cargo de la Federación o de los Poderes del Estado excepto las docentes, de beneficencia y de salud, o los honoríficos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 73.
 
-Son facultades y obligaciones de la Presidencia Municipal las siguientes:
+Son facultades y obligaciones de la Presidencia Municipal, las siguientes:
 
 I. Presidir las sesiones y dirigir los debates del Ayuntamiento tomando parte en las deliberaciones con voz y voto y con voto de calidad en caso de empate y facultad de veto suspensivo para efectos de analizar y votar de nueva cuenta el asunto que lo haya motivado;
 
@@ -1513,7 +1519,13 @@ VI. Auxiliar a las autoridades federales en materia de culto religioso y discipl
 
 VII. Tener bajo su mando al personal de Seguridad Pública y Tránsito Municipal;
 
-VIII. Imponer multas a los infractores de los reglamentos gubernativos y de policía, así como imponer los arrestos administrativos los cuales no excederán de treinta y seis horas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Ejecutar las políticas públicas y los programas de prevención del delito y de la violencia en coordinación con las autoridades federales y estatales respectiva (sic) y, de ser el caso, de otros Municipios;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VIII-A. Imponer multas a los infractores de los reglamentos gubernativos y de policía, así como imponer los arrestos administrativos los cuales no excederán de treinta y seis horas;
 
 > <small>(REFORMADA, P.O. 23 DE ABRIL DE 2024)</small>
 
@@ -4634,3 +4646,23 @@ SEGUNDO.- Los Ayuntamientos que hayan de instalarse el 30 de septiembre de 2027,
 TERCERO.- Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para sus efectos constitucionales y legales conducentes.
 
 CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, así como en la página web del Congreso del Estado, para su conocimiento general.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 876 POR MEDIO DEL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Periódico Oficial del Gobierno del Estado de Guerrero, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 877 POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 35 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos constitucionales y legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Periódico Oficial del Gobierno del Estado de Guerrero, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
