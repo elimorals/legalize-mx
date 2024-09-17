@@ -4,7 +4,7 @@ identifier: "HID-ley-de-prevencion-del-delito-para-el-estado-de-hidalgo-71127"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-07"
-last_updated: "2021-09-13"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71127&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de diciembre de 2009.
 
@@ -83,21 +83,19 @@ II.- Prevención secundaria, que comprende medidas dirigidas a grupos de riesgo 
 
 III.- Prevención terciaria, que comprende medidas para prevenir la reincidencia delictiva, mediante programas de reinserción social o de tratamiento y se centra en truncar las trayectorias delictivas.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Art. 5.
 
-Las estrategias de prevención del delito abarcarán tres formas:
+Las estrategias de prevención del delito abarcarán las siguientes formas:
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+I.- La prevención situacional, que consiste en modificar el entorno urbano, rural, ambiental, tecnológico y de recuperación de espacios públicos, para propiciar la convivencia, la cohesión y esparcimiento social, así como disminuir factores de riesgo que facilitan fenómenos de violencia y de incidencia delictiva;
 
-I.- Prevención situacional, que consiste en modificar el entorno urbano, ambiental y tecnológico, para propiciar la convivencia, la cohesión y esparcimiento social y eliminar las condiciones que propician y facilitan la delincuencia;
+II.- Prevención social de la violencia y la delincuencia, que consiste en programas integrales de desarrollo social, cultural y económico dirigidos a grupos en riesgo y en altas condiciones de vulnerabilidad, y tiene como propósito reducir los factores criminógenos y conductas antisociales, mediante actividades multidisciplinarias e interinstitucionales relacionadas con el fortalecimiento y protección de la familia para evitar su desintegración y cualquier modalidad de violencia que la propicie, la prevención de adicciones, la educación, el deporte, la cultura, la vivienda, la salud y el desarrollo social, urbano y económico;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+III.- Prevención comunitaria, que tiene por objeto promover la participación ciudadana y comunitaria en acciones tendientes a establecer prioridades de la prevención, mejorar las condiciones de seguridad de su entorno y al desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y solución de los conflictos a través de los medios de justicia alternativa, así como, el impulso de las actividades de las organizaciones de la sociedad civil y del fomento del desarrollo comunitario, la convivencia y la cohesión social entre las comunidades frente a problemas locales; y
 
-II.- Prevención social, que consiste en programas de carácter social dirigidos a grupos en riesgo, y tiene como propósito reducir los factores criminógenos mediante actividades multidisciplinarias e interinstitucionales relacionadas con el fortalecimiento y protección de la familia para evitar su desintegración, la prevención de adicciones, la educación, el deporte, la cultura, la vivienda, la salud y el desarrollo social, urbano y económico; y
-
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
-
-III.- Prevención comunitaria, que tiene por objeto promover la participación ciudadana y comunitaria en acciones tendientes a establecer prioridades de la prevención, mejorar las condiciones de seguridad de su entorno y al desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y solución de los conflictos a través de los medios de justicia alternativa, así como, el impulso de las actividades de las organizaciones de la sociedad civil.
+IV.- Prevención psicosocial, tiene por objetivo incidir en las motivaciones individuales y las condiciones criminógenas con referencia a los individuos, la familia, la escuela y la comunidad, mediante el diseño y aplicación de programas formativos en habilidades para la vida, dirigidos principalmente a la población en situación de riesgo y vulnerabilidad, la inclusión de la prevención de la violencia, la delincuencia y de las adicciones, especialmente en alcohol, tabaco y estupefacientes, en las políticas públicas en materia de educación, a través de la difusión de contenidos tendientes a disminuirlas y el fortalecimiento de las medidas de detección, prevención y atención del acoso entre niñas, niños, adolescentes y mujeres, en las escuelas y comunidades, que privilegien la retroalimentación de sus experiencias comunitarias.
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE PREVENCIÓN DEL DELITO
 
@@ -362,3 +360,9 @@ P.O. 13 DE SEPTIEMBRE DE 2021.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 757 QUE REFORMA, DIVERSAS DISPOSICIONES DE LA LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO.- El presente Decreto entra en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1109 QUE REFORMA EL ARTÍCULO 5 DE LA LEY DE PREVENCIÓN DEL DELITO PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
