@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2024-05-09"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -790,6 +790,10 @@ XXV.- Realizar acciones formativas para fortalecer el tejido social y familiar;
 > <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2023)</small>
 
 XXV Bis.- Diseñar, en conjunto con el Instituto Hidalguense de las Mujeres, las pláticas prematrimoniales previstas en el artículo 12 de la Ley para la Familia del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXV Ter.- Promover el fortalecimiento familiar, contribuyendo a la adquisición y desarrollo de actitudes, creencias, valores, estilos de vida y comportamientos que determinarán el modo en que los niños, niñas y adolescentes se desenvolverán en la vida, impulsando así la inclusión participativa de las familias en la vida social y comunitaria.
 
 XXVI.- Promover y apoyar el desarrollo integral de las niñas, niños y adolescentes;
 
@@ -1656,3 +1660,9 @@ P.O. 9 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 869 POR EL QUE SE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 11 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1044 POR EL QUE SE ADICIONA LA FRACCIÓN XXV TER AL ARTÍCULO 26 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
