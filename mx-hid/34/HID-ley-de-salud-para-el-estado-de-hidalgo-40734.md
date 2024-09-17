@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2024-08-20"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -715,6 +715,12 @@ Asimismo, las autoridades sanitarias promoverán cursos, talleres y diplomados c
 
 Las parteras tradicionales recibirán por parte de la autoridad sanitaria estatal y con base en el registro referido en el Artículo 16 SEXTUS, una remuneración o estimulo como reconocimiento a su labor.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 16 Nonies.
+
+Las parteras tradicionales están facultadas para expedir certificados de nacimiento en términos de la Ley General de Salud, a través de un lenguaje apropiado a su cultura e identidad, asentando en esta (sic) el día, hora, lugar de nacimiento, maternidad y sexo del nacido.
+
 ### CAPITULO II. DE LOS ESTABLECIMIENTOS QUE EXPENDAN ALIMENTOS, BEBIDAS NO ALCOHOLICAS Y ALCOHOLICAS
 
 ###### Artículo 17.
@@ -913,39 +919,57 @@ El transporte sanitario de los desechos sólidos deberá cumplir con los requisi
 
 ### CAPITULO VII. CENTROS DE CONTROL ANIMAL Y ZOONOSIS
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 49.
 
-El Centro de Control Animal y Zoonosis es una unidad de servicio a la comunidad, que estará encargado del control de la rabia y otras zoonosis.
+Los Centros de Control animal y zoonosis, son unidades municipales de servicio a la comunidad, encargados del control de la población animal, así como del control y prevención de rabia y otras zoonosis, principalmente en especies felinas y caninas.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 49 Bis.
+
+Corresponde a la Secretaría de Salud el ejercicio de las siguientes facultades:
+
+I. Verificar los Centros de Control Animal y Zoonosis, y
+
+II. Expedir a través de los Centros de Control Animal y Zoonosis, las placas y certificados oficiales de vacunación antirrábica.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 50.
 
-Los Municipios deberán atender las demandas de su población en esta materia.
+El establecimiento de los Centros de Control Animal y Zoonosis estará a cargo de las autoridades municipales.
 
-> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 50 Bis.
 
-Los municipios apoyarán a la autoridad estatal en materia de salud, a efecto de proporcionar la atención médica veterinaria para prevenir y atender los problemas de salud de los animales de compañía; la cual comprenderá acciones de esterilización y vacunación a precios módicos de recuperación o, en casos determinados, de manera gratuita, conjuntamente con los Centros de Control Animal y Zoonosis y Asociaciones protectoras de Animales.
+Los municipios a través de los Centros de Control Animal y Zoonosis y Asociaciones protectoras de Animales, podrán apoyar a la autoridad estatal en materia de salud, a efecto de proporcionar a los animales de compañía la atención médica veterinaria para prevenir y atender los problemas de salud en los términos del Artículo 45 BIS de la Ley de Protección y Trato Digno a los Animales en el Estado de Hidalgo.
 
 ###### Artículo 51.
 
-La construcción, equipamiento, aseo, conservación y operación de los centros de control animal y zoonosis, estará a cargo del Municipio y deberán cumplir con los requisitos que establezca la Autoridad Sanitaria competente.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 52.
 
 Las funciones y asesorías técnicas competerán a la Secretaría de Salud, bajo los Convenios correspondientes.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 53.
 
-La vacunación en los animales para prevenir las zoonosis, será obligatoria a partir de un mes de edad, apegándose a las disposiciones establecidas en la normatividad correspondiente. Queda prohibido abandonar a estos animales en la vía pública.
+La vacunación en los animales para prevención de algún tipo de zoonosis, será obligatoria a partir de un mes de edad como corresponda a la especie, apegándose a las disposiciones establecidas en la normatividad correspondiente.
 
 ###### Artículo 54.
 
 El Municipio será el responsable del control de la población animal con el propósito de prevenir las zoonosis que éstos ocasionen, así como la contaminación ambiental generada.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 55.
 
-La posesión de especies animales será de acuerdo al espacio de la vivienda y que estas no deberán causar molestias sanitarias y riesgos para la salud de sus habitantes o del vecindario.
+La posesión de especies animales será de acuerdo con el espacio de la vivienda, procurando que éstas no causen riesgos para la salud de sus habitantes o del vecindario.
 
 ###### Artículo 56.
 
@@ -965,9 +989,11 @@ Es obligación del propietario presentar ante la Autoridad Sanitaria correspondi
 
 En coordinación con la Secretaría de Salud, la Secretaría de Educación Pública, la iniciativa privada y otras organizaciones sociales, realizará campañas periódicas de sensibilización para el cuidado y atención de sus mascotas, así como ofreciendo el servicio de esterilización permanente.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 60.
 
-Los animales agresores por segunda ocasión, podrán ser sacrificados o disponerse según los preceptos aplicables. Antes del sacrificio, el propietario, previo cumplimiento de las obligaciones que le imponga la Ley, tendrá derecho de donarlos para uso lícito o desconcentrarlos de la zona urbana o vecindario. Pero si el propietario lo regresare a su domicilio sin autorización, el animal será recapturado y sacrificado sin más trámite.
+Los animales agresores por segunda ocasión, podrán ser sacrificados utilizando métodos humanitarios o disponerse según los preceptos aplicables. Antes del sacrificio, el propietario, previo cumplimiento de las obligaciones que le imponga la Ley, tendrá derecho de donarlos a asociaciones protectoras de animales o a terceros. Si el propietario lo regresare a su domicilio sin autorización, el animal será recapturado y sacrificado sin más trámite.
 
 ###### Artículo 61.
 
@@ -976,6 +1002,10 @@ Bajo ninguna circunstancia el propietario o la población podrá oponerse o impe
 ###### Artículo 62.
 
 El Municipio será responsable de reglamentar de manera específica la tenencia de mascotas en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Los Centros de Control Animal y Zoonosis, en coordinación con la Secretaría de Salud, la Secretaría de Educación Pública, la iniciativa privada y Asociaciones protectoras de animales, realizarán campañas periódicas de sensibilización para la tenencia responsable, protección, cuidado y atención de los animales de compañía, ofreciendo, además, el servicio de esterilización permanente.
 
 ### CAPITULO VIII. RASTROS
 
@@ -2279,6 +2309,16 @@ En el caso del artículo 181 Bis, la sanción de multa será de 5 a 10 veces el 
 
 Las autoridades sanitarias correspondientes, auxiliaran a la Secretaría en la ejecución de lo señalado en el párrafo anterior.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 187 Ter.
+
+Se sancionará con multa equivalente de cien a mil veces la Unidad de Medida y Actualización, al que por sí o por interpósita persona:
+
+I.- Cobre en una institución pública de salud la aplicación de una vacuna incluida en el Programa de Vacunación Universal o destinada a acciones ordinarias o extraordinarias de vacunación; y
+
+II.- A sabiendas de ello, venda las vacunas que sean propiedad de las instituciones públicas del Sistema Nacional de Salud.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
 ###### Artículo 188.
@@ -2718,3 +2758,21 @@ P.O. 20 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1029 POR EL QUE SE ADICIONA UNA FRACCIÓN VI BIS AL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1068 POR EL QUE SE ADICIONA EL ARTÍCULO 16 NONIES A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1082 POR EL QUE SE ADICIONA UN ARTÍCULO 187 TER A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1122 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
