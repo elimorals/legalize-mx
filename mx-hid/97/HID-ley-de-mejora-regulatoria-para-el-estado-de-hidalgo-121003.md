@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mejora-regulatoria-para-el-estado-de-hidalgo-121003"
 country: "mx"
 rank: "ley"
 publication_date: "2017-04-17"
-last_updated: "2024-08-16"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 17 de abril de 2017.
 
@@ -87,7 +87,9 @@ III.- Simplificar, reducir o eliminar al mínimo necesario, tiempos y costos en 
 
 IV.- No duplicidad ni discrecionalidad en la emisión de disposiciones y trámites administrativos;
 
-V.- Promover la eficacia administrativa gubernamental;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V.- Promover la eficacia, eficiencia y calidad administrativa gubernamental;
 
 VI.- Uso de tecnologías de la información;
 
@@ -1224,3 +1226,9 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1040 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1066 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 4 DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
