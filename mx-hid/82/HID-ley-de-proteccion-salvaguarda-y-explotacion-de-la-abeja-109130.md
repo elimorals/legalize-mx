@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-salvaguarda-y-explotacion-de-la-abeja-109130"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-27"
-last_updated: "2023-08-18"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109130&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN, SALVAGUARDA Y EXPLOTACIÓN DE LA ABEJA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de julio de 2015.
 
@@ -217,11 +217,15 @@ I. Promover y vigilar la actividad apícola municipal en congruencia con los cri
 
 II. Concertar acciones con la Federación, el Estado y otros municipios en materia de esta Ley;
 
-> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-III. Fomentar en conjunto con las organizaciones de apicultores, la sociedad civil, sector privado y organizaciones ambientalistas, la conservación y desarrollo de la apicultura en el Estado; y
+III. Fomentar en conjunto con las organizaciones de apicultores, la sociedad civil, sector privado y organizaciones ambientalistas, la conservación y desarrollo de la apicultura en el Estado;
 
-IV. Las demás que se deriven de la presente ley, de las leyes vigentes o de la normatividad aplicable.
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Impulsar acciones, programas o políticas para el rescate de las abejas en favor del cumplimiento de su ciclo de vida, así como polinización; y
+
+V. Las demás que se deriven de la presente ley, de las leyes vigentes o de la normatividad aplicable.
 
 ### CAPÍTULO III. DE LAS FUNCIONES DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO
 
@@ -822,3 +826,9 @@ P.O. 18 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 553 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN, SALVAGUARDA Y EXPLOTACIÓN DE LA ABEJA PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1063 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 6 BIS DE LA LEY DE PROTECCIÓN, SALVAGUARDA Y EXPLOTACIÓN DE LA ABEJA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
