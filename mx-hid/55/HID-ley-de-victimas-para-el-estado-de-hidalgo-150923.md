@@ -4,7 +4,7 @@ identifier: "HID-ley-de-victimas-para-el-estado-de-hidalgo-150923"
 country: "mx"
 rank: "ley"
 publication_date: "2021-09-01"
-last_updated: "2024-03-21"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE VÍCTIMAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance Diez del Número 35 del Periódico Oficial del Estado de Hidalgo, el miércoles 1 de Septiembre de 2021.
 
@@ -75,7 +75,9 @@ La presente Ley es de orden público, interés social y de observancia general e
 
 La presente Ley tiene por objeto:
 
-I. Reconocer y garantizar los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial el derecho a la asistencia, protección, atención, verdad, justicia, reparación integral del daño, debida diligencia y todos los demás derechos consagrados en ella, en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales suscritos y ratificados por México, la Constitución Política del Estado de Hidalgo, y las normas que de ellos emanan;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I. Reconocer y garantizar los derechos de las víctimas del delito y de violaciones a derechos humanos, en especial el derecho a la asistencia, protección, atención, verdad, justicia, reparación integral del daño, debida diligencia, memoria y todos los demás derechos consagrados en ella, en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales suscritos y ratificados por México, la Constitución Política del Estado de Hidalgo, y las normas que de ellos emanan;
 
 II. Establecer las competencias de las autoridades del Estado de Hidalgo en la materia, así como definir esquemas de coordinación interinstitucionales entre las mismas para promover, respetar, proteger, garantizar y permitir el ejercicio efectivo de los derechos de las víctimas; así como implementar los mecanismos para que todas las autoridades estatales y municipales en el ámbito de sus respectivas competencias cumplan con sus obligaciones de prevenir, investigar, sancionar y lograr la reparación integral del daño;
 
@@ -197,9 +199,11 @@ Para garantizar el derecho de las víctimas de acceso a la justicia, tendrán ac
 
 Para garantizar el ejercicio pleno del derecho de las víctimas a la justicia, el Estado podrá generar mecanismos para la investigación independiente, imparcial y competente, en términos de los dispuesto en la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 12.
 
-Las víctimas y la sociedad en general tienen el derecho imprescriptible de conocer la verdad de los hechos victimizantes de que fueron objeto, la identidad de los responsables, las circunstancias que hayan propiciado su comisión, así como tener acceso a la justicia en condiciones de igualdad, recibir información en los casos de personas desaparecidas, ausentes, no localizadas, extraviadas o fallecidas y a conocer su destino o paradero o el de sus restos.
+Las víctimas y la sociedad en general tienen el derecho imprescriptible a la memoria, a conocer la verdad de los hechos victimizantes de que fueron objeto, la identidad de los responsables, las circunstancias que hayan propiciado su comisión, así como tener acceso a la justicia en condiciones de igualdad, recibir información en los casos de personas desaparecidas, ausentes, no localizadas, extraviadas o fallecidas y a conocer su destino o paradero o el de sus restos.
 
 Toda víctima que haya sido reportada como desaparecida tiene derecho a que las autoridades competentes inicien de manera eficaz y urgente las acciones para lograr su localización y en su caso, su oportuno rescate.
 
@@ -1956,3 +1960,9 @@ P.O. 21 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 802 QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 6º, EL PÁRRAFO PRIMERO DEL ARTÍCULO 65, LAS FRACCIONES XIX Y XX DEL ARTÍCULO 123, EL PÁRRAFO PRIMERO DEL ARTÍCULO 164 Y EL PÁRRAFO PRIMERO Y SEGUNDO DEL ARTÍCULO 166; SE ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 123 DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1108 QUE REFORMAN LOS ARTÍCULOS 2 FRACCIÓN I Y 12 PÁRRAFO PRIMERO, DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
