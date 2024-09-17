@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-derechos-culturales-para-el-estado-de-guanajuato-127989"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-20"
-last_updated: "2020-07-22"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE DERECHOS CULTURALES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 20 de abril de 2018.
 
@@ -69,17 +69,23 @@ VIII. Promover entre la población la solidaridad y responsabilidad en la preser
 
 Para la aplicación de esta Ley, se entiende por:
 
-I. Consejo: Al Consejo Directivo del Instituto Estatal de la Cultura;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I. Consejo: Al Consejo de la Secretaría;
 
 II. Cultura: Al conjunto de rasgos distintivos espirituales y materiales, intelectuales y afectivos que distinguen e identifican a un grupo social;
 
 III. Fondo Estatal: Al Fondo Estatal para la Cultura y las Artes;
 
-IV. Instituto: Al Instituto Estatal de la Cultura;
+IV. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 V. Programa Estatal: Al Programa Estatal de Fomento y Difusión de la Cultura; y
 
 VI. Políticas culturales: Al conjunto de prácticas sociales, conscientes y deliberadas, de intervención y no intervención, que tienen por objeto satisfacer ciertas necesidades de la población y de la comunidad, mediante el empleo óptimo de todos los recursos materiales y humanos, de que dispone una sociedad en un momento determinado, que busca reconocer la identidad como Estado y como Nación.
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Secretaría: La Secretaría de Cultura.
 
 ### Capítulo II. Políticas culturales
 
@@ -119,7 +125,9 @@ VI. Preservar, promocionar, difundir e investigar la diversidad cultural local, 
 
 VII. Impulsar la formación de artistas, artesanos, docentes, investigadores, promotores y administradores culturales;
 
-VIII. Definir y actualizar los contenidos de los programas de los centros dedicados al fomento de la cultura, a través del Instituto y de la Secretaría de Educación, para consolidar la identidad local, en el marco de la cultura nacional;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Definir y actualizar los contenidos de los programas de los centros dedicados al fomento de la cultura, a través de la Secretaría y de la Secretaría de Educación, para consolidar la identidad local, en el marco de la cultura nacional;
 
 IX. Destacar el valor que la cultura posee para el desarrollo, la cohesión social y la paz;
 
@@ -173,9 +181,11 @@ IX. Utilizar las tecnologías de la información y las comunicaciones para el ej
 
 X. Los demás que en la materia se establezcan en la Constitución federal, en la Constitución local, en los tratados internacionales celebrados por el Estado Mexicano y ratificados por el Senado y en otras leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 8.
 
-Para garantizar el ejercicio de los derechos culturales, el Instituto y los municipios, en el ámbito de su competencia, deberán establecer acciones que fomenten y promuevan los siguientes aspectos:
+Para garantizar el ejercicio de los derechos culturales, la Secretaría y los municipios, en el ámbito de su competencia, deberán establecer acciones que fomenten y promuevan los siguientes aspectos:
 
 I. La cohesión social, la paz y la convivencia armónica de sus habitantes;
 
@@ -199,17 +209,23 @@ X. El acceso universal a la cultura aprovechando los recursos de las tecnología
 
 XI. La inclusión de personas y grupos en situación de discapacidad, en condiciones de vulnerabilidad o violencia en cualquiera de sus manifestaciones.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 9.
 
-El Instituto y los municipios, en el ámbito de su competencia, promoverán el ejercicio de los derechos culturales de las personas con discapacidad con base en los principios de igualdad y no discriminación.
+La Secretaría y los municipios, en el ámbito de su competencia, promoverán el ejercicio de los derechos culturales de las personas con discapacidad con base en los principios de igualdad y no discriminación.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 10.
 
-El Instituto y los municipios, en el ámbito de su competencia, desarrollarán acciones para investigar, conservar, proteger, fomentar, formar, enriquecer y difundir el patrimonio cultural tangible e intangible, favoreciendo la dignificación y respeto de las manifestaciones de las culturas originarias, mediante su investigación, difusión, estudio y conocimiento.
+La Secretaría y los municipios, en el ámbito de su competencia, desarrollarán acciones para investigar, conservar, proteger, fomentar, formar, enriquecer y difundir el patrimonio cultural tangible e intangible, favoreciendo la dignificación y respeto de las manifestaciones de las culturas originarias, mediante su investigación, difusión, estudio y conocimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 11.
 
-El Instituto regulará el resguardo del patrimonio cultural tangible e intangible e incentivará la participación de las organizaciones de la sociedad civil y pueblos originarios.
+La Secretaría regulará el resguardo del patrimonio cultural tangible e intangible e incentivará la participación de las organizaciones de la sociedad civil y pueblos originarios.
 
 Los municipios promoverán, en el ámbito de sus atribuciones, acciones para salvaguardar el patrimonio cultural tangible e intangible en los términos de la Ley de la materia.
 
@@ -237,25 +253,33 @@ Las manifestaciones culturales a que se refiere esta Ley son los elementos mater
 
 Son autoridades encargadas de la aplicación de esta Ley:
 
-I. El titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I. La persona titular del Poder Ejecutivo;
 
 II. Los Ayuntamientos;
 
-III. El Instituto Estatal de la Cultura; y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+III. La Secretaría; y
 
 IV. Los organismos, instituciones o instancias municipales encargados de la ejecución de los programas y acciones culturales a desarrollar en el municipio.
 
-### Capítulo II. Atribuciones del titular del Poder Ejecutivo del Estado
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+### Capítulo II. Atribuciones de la persona titular del Poder Ejecutivo del Estado
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 16.
 
-Corresponde al titular del Poder Ejecutivo del Estado:
+Corresponde a la persona titular del Poder Ejecutivo del Estado:
 
 I. Definir las políticas culturales del Estado;
 
 II. Coordinar con las autoridades municipales la elaboración de los programas y acciones encaminadas al fomento y desarrollo cultural del Estado, así como para su aplicación en el ámbito respectivo;
 
-III. Designar al Director General del Instituto;
+III. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 IV. Aprobar el Programa Estatal;
 
@@ -263,7 +287,9 @@ V. Promover la conservación y preservación de los monumentos arqueológicos, h
 
 VI. Preservar y promover las manifestaciones de la cultura local, y la de los grupos indígenas en el territorio del Estado;
 
-VII. Otorgar, a través del Instituto, estímulos y reconocimientos para la cultura y las artes en los términos establecidos en la presente Ley;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Otorgar a través de la Secretaría, estímulos y reconocimientos para la cultura y las artes en los términos establecidos en la presente Ley;
 
 VIII. Fortalecer la integración cultural de las comunidades extranjeras residentes en el Estado, y promover su respeto;
 
@@ -273,7 +299,9 @@ X. Fomentar la presencia de muestras culturales y artísticas diversas del Estad
 
 XI. Promover la celebración de festivales nacionales e internacionales para difundir la cultura del Estado;
 
-XII. Incluir en el proyecto del Presupuesto General de Egresos del Estado, los presupuestos correspondientes al Instituto y al Fondo Estatal.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Incluir en el proyecto del Presupuesto General de Egresos del Estado, los presupuestos correspondientes de la Secretaría y al Fondo Estatal;
 
 Los recursos deberán ser prioritarios, oportunos y suficientes en términos reales para permitir el cumplimiento de las finalidades derivadas de la presente Ley. Los recursos de gasto de operación ordinario nunca podrán ser menores al ejercido en el Presupuesto General de Egresos del Estado del año inmediato anterior; y
 
@@ -351,143 +379,57 @@ XI. Informar a la sociedad del programa municipal, destacando sus objetivos y es
 
 ### Capítulo IV. Instituto Estatal de la Cultura
 
+> <small>(DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 #### Sección Primera. Estructura y organización
 
 ###### Artículo 20.
 
-El Instituto es un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propio, encargado de formular, coordinar, ejecutar y supervisar las políticas culturales.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 21.
 
-El Instituto tiene por objeto:
-
-I. Garantizar, promover y difundir el derecho de acceso a la cultura;
-
-II. Promover y difundir el conocimiento de las diversas manifestaciones culturales del Estado y sus municipios;
-
-III. Integrar el Programa Estatal y coordinar su ejecución y seguimiento, con autorización del Consejo.
-
-IV. Promover la formación de artesanos a través de la capacitación, mejora de técnicas, concursos y demás acciones encaminadas a este fin, así como su registro en el Padrón Estatal de Artesanos;
-
-V. Colaborar con las autoridades educativas para la capacitación de bibliotecarios y promotores de la lectura;
-
-VI. Fomentar la profesionalización de los gestores culturales dedicadas (sic) a promover, incentivar, diseñar y realizar proyectos culturales;
-
-VII. Suscribir convenios para cumplir con las atribuciones que esta Ley y demás ordenamientos le establezcan;
-
-VIII. Implementar acciones dirigidas al fomento y promoción de la lectura, así como para la edición, distribución y comercialización del libro, folletos, revistas y publicaciones periódicas de contenido cultural de autores guanajuatenses, a través de las unidades administrativas que se establezca en la reglamentación;
-
-IX. Preservar, promocionar, difundir e investigar la cultura indígena y local;
-
-X. Otorgar reconocimientos y estímulos a personas, organizaciones e instituciones públicas o privadas que se hayan destacado en la cultura;
-
-XI. Coordinar, junto con otras instituciones y organismos públicos y privados, la celebración de los festivales culturales;
-
-XII. Promover la conservación y construcción de teatros, auditorios y demás espacios, en donde se puedan realizar actividades culturales;
-
-XIII. Procurar la creación de hemerotecas, museos, auditorios, teatros y centros culturales, así como su ampliación, mantenimiento, mejoras físicas y tecnológicas;
-
-XIV. Establecer mecanismos de coordinación con los ayuntamientos, para el funcionamiento de las casas de cultura, museos, bibliotecas, hemerotecas públicas y cualquier otro lugar en donde se puedan realizar actividades culturales;
-
-XV. Promover la realización de eventos, ferias, concursos y cualquier otra actividad de difusión y conocimiento de la cultura;
-
-XVI. Promover y proporcionar apoyo técnico y asesoría a las industrias culturales o creativas que tengan como objeto principal la producción o la reproducción, la promoción, la difusión o la comercialización de bienes, servicios y actividades de contenido cultural, así como a grupos organizados y a toda persona para la elaboración de proyectos y actividades culturales;
-
-XVII. Coordinar y operar el Padrón Estatal de Artistas, de conformidad con la normativa que se expida;
-
-XVIII. Establecer el Registro Estatal de Espacios y Servicios Culturales, de conformidad con la Ley de Patrimonio Cultural del Estado de Guanajuato y a los lineamientos que para tal efecto se expidan;
-
-XIX. Promover y establecer de manera equitativa, acciones que generen la producción de bienes culturales objeto de la presente Ley;
-
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2020)</small>
-
-XX. Proponer a la Secretaría de Educación, la inclusión en los planes académicos y sus programas de extensión, acciones de formación, protección y difusión de los bienes culturales;
-
-XXI. Impulsar y apoyar la educación que se imparta en instituciones oficiales para la enseñanza, difusión, conservación y restauración de las artes y culturas populares, de conformidad con la normativa en la materia;
-
-XXII. Fomentar el respeto de las expresiones culturales y artísticas, en el marco de la pluralidad, usos y costumbres tradiciones regionales;
-
-XXIII. Promover en el ámbito de su competencia las actividades de información y comunicación que permitan promover y difundir la cultura;
-
-XXIV. Diseñar, organizar y operar programas de apoyo, becas, estímulos e incentivos para la formación y consolidación de creadores, ejecutantes, investigadores y grupos, de cualquiera de las ramas y especialidades de la cultura;
-
-XXV. Fomentar el respeto a los derechos de autor y a la propiedad intelectual;
-
-XXVI. Diseñar y promover la política editorial de los órganos y entidades que integren el sector cultural;
-
-XXVII. Mantener la actualización y funcionamiento del sistema nacional de información cultural en la forma y términos que establezcan los acuerdos de coordinación que para tal efecto se celebren y que se sujetarán a la Ley General de Cultura y Derechos Culturales y su reglamento; y
-
-XXVIII. Las demás que se desprendan de esta Ley.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 22.
 
-El domicilio del Instituto se ubicará en la ciudad de Guanajuato y éste podrá contar con oficinas en los lugares que acuerde el Consejo.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 23.
 
-El patrimonio del Instituto se integrará con:
-
-I. Los recursos que en su favor se establezcan en el Presupuesto General de Egresos del Estado;
-
-II. Las aportaciones, subsidios y apoyos que a su favor hagan la Federación, el Estado, los municipios, y otras organizaciones públicas o particulares;
-
-III. Los recursos obtenidos de programas específicos de promoción, preservación, difusión o investigación de la cultura;
-
-IV. Los rendimientos, recuperaciones, bienes, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
-
-V. Los ingresos que se generen con el otorgamiento de permisos, licencias y autorizaciones para el desarrollo y fomento de la actividad cultural; y
-
-VI. Los demás bienes o ingresos que adquiera a título legal.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 24.
 
-Corresponde al Director General del Instituto:
-
-I. Proponer y someter a la autorización del Consejo, el Programa Estatal y el programa operativo anual del Instituto;
-
-II. Evaluar y controlar el desarrollo de los programas operativos de trabajo, y en su caso, proponer las medidas correctivas que correspondan;
-
-III. Representar legalmente al Instituto;
-
-IV. Otorgar poderes generales o especiales con la autorización del Consejo cuando se trate de personas ajenas al Instituto y revocarlos;
-
-V. Ejecutar los acuerdos y decisiones del Consejo;
-
-VI. Presentar anualmente al Consejo, los proyectos de presupuesto de ingresos y egresos;
-
-VII. Presentar anualmente al Consejo, el informe de actividades del ejercicio anterior;
-
-VIII. Rendir informe de actividades del Instituto en cada sesión ordinaria del Consejo;
-
-IX. Presentar trimestralmente al Consejo, los estados financieros del Instituto;
-
-X. Someter a consideración del Consejo, los proyectos de financiamiento para cumplir los objetivos del Instituto;
-
-XI. Designar y remover, dando cuenta al Consejo, al personal directivo del Instituto, así como conducir las relaciones laborales de acuerdo a la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios;
-
-XII. Delegar sus funciones en la persona que designe;
-
-XIII. Dirigir y supervisar las actividades de las áreas que integran al Instituto;
-
-XIV. Certificar las copias de los documentos que obren en los archivos del Instituto; y
-
-XV. Las demás para el ejercicio de las facultades anteriores y las que le encomiende el Consejo.
+(DEROGADO, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 #### Sección Segunda. Consejo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 25.
 
-El Consejo es la máxima autoridad del Instituto, el cargo de sus integrantes será de naturaleza honorífica, por lo que no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones y estará integrado por:
+El Consejo es el órgano de vinculación, consulta y auxiliar de la Secretaría, el cargo de sus integrantes será de naturaleza honorífica, por lo que no recibirán retribución, emolumento o compensación alguna por el desempeño de sus funciones y estará integrado por:
 
-I. Un ciudadano, quien fungirá como Presidente, designado por el titular del Poder Ejecutivo del Estado, quien durará en su encargo un periodo de tres años;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-II. El titular de la Secretaría de Educación o el representante que éste designe;
+I. Un ciudadano, quien fungirá como Presidente, designador (sic) por la persona titular del Poder Ejecutivo del Estado, quien durará en su encargo un periodo de tres años;
 
-III. El titular de la Secretaría de Finanzas, Inversión y Administración o el representante que éste designe;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-IV. El Rector General de la Universidad de Guanajuato o el representante que éste designe;
+II. La persona titular de la Secretaría de Educación o el representante que ésta designe;
 
-V. Dos servidores públicos que representarán a la totalidad de los municipios del Estado, los cuales serán rotativos en los términos del reglamento interior del Instituto quienes serán los encargados de los organismos, instituciones o instancias municipales responsables de la coordinación de programas y acciones en materia cultural;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+III. La persona titular de la Secretaría de Finanzas o el representante que ésta designe;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IV. La persona Rectora General de la Universidad de Guanajuato o el representante que ésta designe;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V. Dos servidores públicos que representarán a la totalidad de los municipios del Estado, los cuales serán rotativos en los términos del reglamento interior de la Secretaría quienes serán los encargados de los organismos, instituciones o instancias municipales responsables de la coordinación de programas y acciones en materia cultural;
 
 VI. Un representante de los organismos públicos culturales en el Estado;
 
@@ -495,7 +437,9 @@ VII. Un representante de los organismos privados culturales en el Estado; y
 
 VIII. Un representante de los grupos indígenas del Estado.
 
-Las bases para integrar el Consejo se establecerán en el reglamento interior del Instituto.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Las bases para integrar el Consejo se establecerán en el reglamento interior de la Secretaría.
 
 ###### Artículo 26.
 
@@ -511,15 +455,15 @@ II. Promover la participación de la sociedad en materia cultural;
 
 III. Aprobar el programa operativo anual del Instituto;
 
-IV. Evaluar el informe de actividades rendido por el Director General del Instituto;
+IV. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 V. Formular sugerencias para la ejecución y cumplimiento del Programa Estatal;
 
-VI. Aprobar los presupuestos anuales de ingresos y egresos; y trimestralmente los estados financieros del Instituto, así como su cuenta pública;
+VI. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-VII. Evaluar periódicamente la gestión y administración del Instituto;
+VII. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-VIII. Aprobar, revisar y modificar, en su caso, el reglamento interior y demás disposiciones administrativas del Instituto;
+VIII. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 IX. Analizar y desarrollar propuestas para el diseño de las políticas culturales;
 
@@ -529,11 +473,11 @@ XI. Formular propuestas y opiniones a las autoridades, para el mejoramiento del 
 
 XII. Opinar sobre las condiciones que estimulen la creación cultural, así como la producción y distribución mayoritaria de los bienes culturales;
 
-XIII. Estudiar y aprobar los proyectos de inversión del Instituto;
+XIII. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-XIV. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades;
+XIV. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-XV. Conocer los convenios que hayan de celebrarse para cumplir con los objetivos del Instituto;
+XV. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 XVI. Proponer alternativas de solución a los problemas o contingencias en materia cultural;
 
@@ -541,7 +485,7 @@ XVII. Aprobar la operación y funcionamiento del Fondo Estatal, de conformidad a
 
 XVIII. Conceder a las personas físicas y morales los reconocimientos y estímulos a la creación y al desarrollo artístico;
 
-XIX. Aprobar la creación de las unidades administrativas para cumplir con los objetivos del Instituto, en los términos de su reglamento; y
+XIX. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 XX. Las demás que señale esta Ley y demás ordenamientos.
 
@@ -559,31 +503,39 @@ IV. El quórum legal se reunirá con la asistencia de la mitad más uno de sus i
 
 V. Las decisiones se tomarán por mayoría de votos. En caso de empate, el Presidente del Consejo tendrá voto dirimente, razonando la decisión que en su caso emita.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 29.
 
-Para ser Presidente del Consejo se requiere:
+Para presidir el Consejo se requiere:
 
 I. Ser ciudadano mexicano en ejercicio de sus derechos y no formar parte de la administración pública; y
 
 II. Tener experiencia socialmente reconocida en la promoción, difusión o fomento de actividades artísticas o culturales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 30.
 
-El Presidente del Consejo tendrá las siguientes atribuciones:
+Quien presida el Consejo tendrá las siguientes atribuciones:
 
 I. Presidir y conducir las sesiones conforme al orden del día aprobado;
 
-II. Convocar, por conducto del Secretario Técnico, a las sesiones del Consejo;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-III. Dar a conocer al Consejo el programa operativo anual del Instituto;
+II. Convocar, por conducto de la Secretaría Técnica, a las sesiones del Consejo;
+
+III. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 IV. Proponer al Consejo a las personas físicas y morales, merecedoras de reconocimientos y estímulos; y
 
 V. Establecer las medidas para guardar el orden en las sesiones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 31.
 
-La Secretaría Técnica del Consejo, corresponde al Director General del Instituto, quien tendrá y ejercerá las atribuciones siguientes:
+La Secretaría Técnica del Consejo, corresponde a la persona titular de la Secretaría, quien tendrá y ejercerá las atribuciones siguientes:
 
 I. Citar a los consejeros, previo acuerdo del Presidente, o a petición de la mayoría de los integrantes del Consejo, a las sesiones ordinarias y extraordinarias;
 
@@ -597,13 +549,17 @@ V. Ejecutar los acuerdos y decisiones del Consejo;
 
 VI. Certificar los acuerdos, resoluciones y demás documentación que emita el Consejo; y
 
-VII. Las demás que le confiera el reglamento interior del Instituto.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Las demás que le confiera el reglamento interior de la Secretaría.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 32.
 
-El control y vigilancia del Instituto estará a cargo de un órgano interno de control, el cual será el responsable de controlar, vigilar, fiscalizar y evaluar el uso de los recursos materiales y financieros del Instituto, a fin de determinar su uso correcto y será competente para aplicar la normatividad en materia de responsabilidades administrativas.
+El control y vigilancia de la Secretaría estará a cargo de un órgano interno de control, el cual será el responsable de controlar, vigilar, fiscalizar y evaluar el uso de los recursos materiales y financieros de la Secretaría, a fin de determinar su uso correcto y será competente para aplicar la normatividad en materia de responsabilidades administrativas.
 
-Sus atribuciones se establecerán en el reglamento interior del Instituto, de conformidad con la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y demás disposiciones normativas aplicables en la materia.
+Sus atribuciones se establecerán en el reglamento interior de la Secretaría, de conformidad con la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, la Ley de Responsabilidades Administrativas para el Estado de Guanajuato y demás disposiciones normativas aplicables en la materia.
 
 ## Título Tercero. Investigación y preservación de la cultura local e indígena
 
@@ -619,9 +575,11 @@ Las autoridades competentes promoverán la incorporación de contenidos cultural
 
 Se fomentará la realización de acciones de cultura en toda la entidad, a fin de cumplir la cobertura de la educación cultural a todos sus habitantes y proporcionará el fortalecimiento de la misma, a través de los medios a su alcance.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 35.
 
-El Ejecutivo del Estado y los municipios, fomentarán investigaciones y promoverán programas para el desarrollo de procedimientos que permitan preservar, promover y difundir la cultura en sus distintas manifestaciones. Para ello, se podrán celebrar convenios con instituciones del sector social y privado, investigadores y especialistas de la materia.
+La persona titular del Poder Ejecutivo del Estado y los municipios, fomentarán investigaciones y promoverán programas para el desarrollo de procedimientos que permitan preservar, promover y difundir la cultura en sus distintas manifestaciones. Para ello, se podrán celebrar convenios con instituciones del sector social y privado, investigadores y especialistas de la materia.
 
 ### Capítulo II. Cultura Indígena y Local
 
@@ -657,23 +615,29 @@ Cuando la cultura indígena o local, comprenda, por su ubicación, más de un mu
 
 El Estado y los municipios, destinarán un lugar adecuado para la exhibición, y en su caso, venta de productos artesanales, que produzcan los grupos indígenas y locales.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 40.
 
-El Instituto promoverá la difusión de esta Ley en las lenguas vivas de los pueblos originarios del Estado.
+La Secretaría promoverá la difusión de esta Ley en las lenguas vivas de los pueblos originarios del Estado.
 
 ## Título Cuarto. Fondo Estatal y Estímulos para la Cultura y las Artes
 
 ### Capítulo I. Fondo Estatal para la Cultura y las Artes
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 41.
 
-El Fondo Estatal es el mecanismo financiero del Instituto para apoyar a la comunidad de creadores y artistas para realizar proyectos creativos e innovadores en las distintas disciplinas artísticas; estimular su proceso de formación; el rescate, promoción, difusión, preservación, desarrollo, investigación y gestión de la cultura, y demás obras y acciones que permitan cumplir ampliamente el objeto de la Ley.
+El Fondo Estatal es el mecanismo financiero de la Secretaría para apoyar a la comunidad de creadores y artistas para realizar proyectos creativos e innovadores en las distintas disciplinas artísticas; estimular su proceso de formación; el rescate, promoción, difusión, preservación, desarrollo, investigación y gestión de la cultura, y demás obras y acciones que permitan cumplir ampliamente el objeto de la Ley.
 
 ###### Artículo 42.
 
 Para el funcionamiento del Fondo Estatal, deberá considerarse lo siguiente:
 
-I. Establecer un mecanismo financiero del que disponga el Instituto para su ejercicio;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I. Establecer el mecanismo financiero del que disponga la Secretaría para su ejercicio;
 
 II. Establecer los lineamientos de los montos que se otorguen para el cumplimiento del objeto de esta Ley; y
 
@@ -691,9 +655,11 @@ III. Donaciones, herencias, legados y aportaciones realizadas por personas físi
 
 ### Capítulo II. Reconocimientos y Estímulos para la Cultura y las Artes
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 44.
 
-Previa aprobación del Consejo, el Instituto expedirá las bases para el funcionamiento y ejercicio del Fondo Estatal, en la (sic) que se establecerán las condiciones para otorgar en favor de personas físicas o morales, reconocimientos, becas y estímulos en general, por su contribución al rescate, promoción, difusión, preservación, desarrollo, investigación y gestión de la cultura.
+La Secretaría expedirá las bases para el funcionamiento y ejercicio del Fondo Estatal, en las que se establecerán las condiciones para otorgar en favor de personas físicas o morales, reconocimientos, becas y estímulos en general, por su contribución al rescate, promoción, difusión, preservación, desarrollo, investigación y gestión de la cultura.
 
 ###### Artículo 45.
 
@@ -711,31 +677,41 @@ Las condiciones referidas en el artículo anterior deberán ser publicadas en el
 
 El Gobierno Estatal, a través de los medios de comunicación con que cuente, apoyará la difusión cultural, mediante la producción, distribución, transmisión y emisión de programas de expresión e información cultural.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 48.
 
-El Instituto, promoverá la coordinación con los diversos medios de comunicación electrónica y escrita, con el propósito de fomentar que sus programas y espacios de divulgación, contribuyan a elevar el nivel cultural de la población, bajo los principios y objetivos establecidos en la presente Ley.
+La Secretaría, promoverá la coordinación con los diversos medios de comunicación electrónica y escrita, con el propósito de fomentar que sus programas y espacios de divulgación, contribuyan a elevar el nivel cultural de la población, bajo los principios y objetivos establecidos en la presente Ley.
 
 ## Título Sexto. Participación social y privada
 
 ### Capítulo I. Participación social
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 49.
 
-El Instituto y los municipios conformarán la participación corresponsable de la sociedad civil en la planeación y evaluación de la política pública en materia cultural.
+La Secretaría y los municipios conformarán la participación corresponsable de la sociedad civil en la planeación y evaluación de la política pública en materia cultural.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 50.
 
-El Instituto celebrará los convenios de colaboración para la ejecución de la política pública en la materia e impulsará una cultura cívica que fortalezca la participación de la sociedad civil en los mecanismos que se creen para tal efecto.
+La Secretaría celebrará los convenios de colaboración para la ejecución de la política pública en la materia e impulsará una cultura cívica que fortalezca la participación de la sociedad civil en los mecanismos que se creen para tal efecto.
 
 ### Capítulo II. Participación del sector privado
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 51.
 
-El Instituto en coordinación con las dependencias y entidades de la administración pública estatal y los municipios promoverá y concertará con el sector privado los convenios para la investigación, conservación, promoción, protección y desarrollo del patrimonio cultural.
+La Secretaría en coordinación con las dependencias y entidades de administración pública estatal y los municipios promoverá y concertará con el sector privado los convenios para la investigación, conservación, promoción, protección y desarrollo del patrimonio cultural.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 52.
 
-El Instituto celebrará los convenios de colaboración entre los municipios y el sector privado, para promover campañas de sensibilización, difusión y fomento sobre la importancia de la participación de los diferentes sectores de la población en la conservación de los bienes inmateriales y materiales que constituyan el patrimonio cultural, conforme a los mecanismos de participación que se creen para tal efecto.
+La Secretaría celebrará los convenios de colaboración entre los municipios y el sector privado, para promover campañas de sensibilización, difusión y fomento sobre la importancia de la participación de los diferentes sectores de la población en la conservación de los bienes inmateriales y materiales que constituyan, el patrimonio cultural, conforme a los mecanismos de participación que se creen para tal efecto.
 
 ### Capítulo III. Mecanismos de coordinación
 
@@ -802,3 +778,103 @@ En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y A
 Artículo Octavo. La Secretaría de la Transparencia y Rendición de Cuentas, vigilará los procesos de entrega recepción extraordinaria, de conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Noveno. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de este Decreto, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO 345 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y DE LA LEY DE DERECHOS CULTURALES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2024, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. A partir de la entrada en vigor del presente Decreto y para dar cumplimiento a la creación de las secretarías del Agua y Medio Ambiente; de Cultura; y de Derechos Humanos, la persona titular del Poder Ejecutivo expedirá y adecuará los reglamentos y demás disposiciones para el cumplimiento, en un término que no exceda de 90 días naturales. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Tercero. La Secretaría del Agua y Medio Ambiente, sustituye en su ámbito de competencia, en sus obligaciones y asume los compromisos adquiridos por la Secretaría de Medio Ambiente y Ordenamiento Territorial, y la Comisión Estatal del Agua de Guanajuato.
+
+La Secretaría de Medio Ambiente y Ordenamiento Territorial, transferirá a la Secretaría del Agua y Medio Ambiente los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+El personal de la Secretaría de Medio Ambiente y Ordenamiento Territorial pasará a integrar la Secretaría del Agua y Medio Ambiente, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+La Comisión Estatal del Agua de Guanajuato, entrará en un proceso de liquidación, para tales efectos, en un término de 10 días naturales a partir de la entrada en vigor del presente Decreto, deberá sesionar su órgano de gobierno para nombrar a un liquidador de entre su personal, el cual deberá ser ratificado, mediante oficio, por la persona titular de la Secretaría del Agua y Medio Ambiente.
+
+En el mismo plazo señalado en el párrafo anterior, el Poder Ejecutivo conformará un Comité de Extinción que generará los lineamientos para la liquidación de dicha entidad y le dará seguimiento a este proceso.
+
+El liquidador contará con las facultades para finiquitar los bienes, derechos y obligaciones de la entidad paraestatal y deberá enviar reportes mensuales de su avance al Comité señalado en el párrafo anterior. Los bienes inmuebles, asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan resultado del proceso de liquidación serán transferidos a la Secretaría del Agua y Medio Ambiente, a través de la entrega-recepción respectiva.
+
+A partir de la entrada en vigor del presente Decreto, la Comisión Estatal del Agua de Guanajuato no deberá adquirir nuevos derechos u obligaciones, correspondiéndole al liquidador llevar a cabo los actos, debiendo intervenir en las actas de entrega-recepción que se suscriban, además de los responsables en términos del Reglamento para la Entrega-Recepción para la Administración Pública Estatal.
+
+Se instalará un Comité de Estructura Administrativa por parte del Poder Ejecutivo para definir la estructura de personal de la Comisión Estatal del Agua de Guanajuato, que pasará a integrarse a la Secretaría del Agua y Medio Ambiente, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Cuando el liquidador haya transferido los bienes, derechos y obligaciones de la entidad y una vez concluida esa acción resultante de la liquidación, así como que la contabilidad se encuentre liquidada, este cesará sus funciones, debiendo presentar un informe final al Comité de Extinción.
+
+Artículo Cuarto. La Secretaría de Derechos Humanos, sustituye en su ámbito de competencia, en sus obligaciones y asume los compromisos adquiridos por la Secretaría del Migrante y Enlace Internacional.
+
+La Secretaría del Migrante y Enlace Internacional, transferirá a la Secretaría de Derechos Humanos los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través la entrega-recepción respectiva.
+
+El personal de la Secretaría del Migrante y Enlace Internacional pasará a integrar la Secretaría de Derechos Humanos, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá Instalar el Poder Ejecutivo, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+El personal de la Secretaría de Gobierno, que atienda los temas de derechos humanos, pasará a integrar la Secretaría de Derechos Humanos, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Artículo Quinto. La Secretaría de Cultura, sustituye en su ámbito de competencia, en todas sus obligaciones y asume los compromisos adquiridos por el Instituto Estatal de la Cultura y el Forum Cultural Guanajuato.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto Estatal de la Cultura y el Forum Cultural Guanajuato no deberán adquirir nuevos derechos u obligaciones.
+
+El personal del Instituto Estatal de la Cultura y el Forum Cultural Guanajuato, pasará a integrar la Secretaría de Cultura, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos de ambas entidades paraestatales serán transferidos a la Secretaría de Cultura mediante la entrega recepción correspondiente, contando con la participación de los liquidadores designados en términos del párrafo siguiente.
+
+En el término de 10 días naturales a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno de cada una de las entidades señaladas a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado, mediante oficio, por la persona titular de la Secretaría de Cultura.
+
+En el mismo plazo señalado en el párrafo anterior, el Poder Ejecutivo conformará un Comité de Extinción por cada entidad, que generará los lineamientos para la liquidación de dichas paraestatales y le dará seguimiento.
+
+Los liquidadores contarán con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones de las entidades paraestatales correspondientes y deberán enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya transferido los bienes, derechos y obligaciones de las entidades, y que la contabilidad se encuentre liquidada, éste cesará sus funciones debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Artículo Sexto. Para los efectos legales, las referencias a la Comisión Estatal de Agua de Guanajuato contenidas en decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad a la vigencia del presente Decreto, se entenderán efectuadas a la Secretaría del Agua y Medio Ambiente; y las del Instituto Estatal de lo Cultura y el Forum Cultural Guanajuato, contenidas en leyes, decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de la Cultura. Las referencias a las secretarías que cambian de denominación se entenderán:
+
+Denominación actual Nueva denominación
+
+Secretaría de Finanzas, Secretaría de Finanzas
+
+Inversión y Administración
+
+Secretaría de Desarrollo Secretaría del Nuevo
+
+Social y Humano Comienzo
+
+Secretaría de Desarrollo Secretaría de Economía
+
+Económico Sustentable
+
+Secretaría de Desarrollo Secretaría del Campo
+
+Agroalimentario y Rural
+
+Secretaría de Seguridad Secretaría de Seguridad
+
+Pública y Paz
+
+Secretaría de la Secretaría de la
+
+Transparencia y Honestidad
+
+Rendición de Cuentas
+
+Secretaría de Turismo Secretaría de Turismo
+
+e Identidad
+
+Secretaría del Migrante y Secretaría de Derechos Humanos
+
+Enlace Internacional
+
+Coordinación General Jurídica Consejería Jurídica del Ejecutivo
+
+Artículo Séptimo. Se abroga la Ley para Fomentar el Acceso al Financiamiento a las Micros, Pequeñas y Medianas Empresas en el Estado de Guanajuato, contenida en el Decreto Legislativo número 106, expedido por la Sexagésima Quinta Legislatura del Congreso del Estado, publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato número 236 Segunda Parte, el 28 de noviembre de 2022.
+
+Artículo Octavo. La Consejería Jurídica del Ejecutivo, sustituye en su ámbito de competencia, en las obligaciones y asume los compromisos adquiridos por la Coordinación General Jurídica. El personal de la Coordinación General Jurídica pasará a integrar Consejería Jurídica del Ejecutivo, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Artículo Noveno. El personal de la Jefatura de Gabinete del Poder Ejecutivo del Estado de Guanajuato podrá ser reubicado en otras áreas de Gobierno del Estado de acuerdo a sus perfiles y funciones, sin menoscabo de los derechos adquiridos de los trabajadores, de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+A partir de la entrada en vigor del presente Decreto, la Jefatura de Gabinete del Poder Ejecutivo no deberá adquirir nuevos derechos u obligaciones, correspondiéndole llevar a cabo todos los actos respectivos, debiendo intervenir en las actas de entrega-recepción que se suscriban, además de los responsables en términos del Reglamento de Entrega-Recepción para la Administración Pública Estatal.
+
+Artículo Décimo. El Congreso del Estado Libre y Soberano de Guanajuato deberá, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones a las leyes para armonizar el marco jurídico estatal con las reformas establecidas en el presente Decreto que reforma la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
