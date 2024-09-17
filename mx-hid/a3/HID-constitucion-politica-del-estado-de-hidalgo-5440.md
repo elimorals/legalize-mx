@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2024-08-16"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -171,15 +171,21 @@ El derecho de réplica será ejercido en los términos dispuestos por la Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
 
-Artículo 5° Sin distinción alguna, todas y todos los habitantes del Estado tienen los derechos y obligaciones, así como los derechos humanos, consagrados en esta Constitución.
+###### Artículo 5.
+
+Sin distinción alguna, todas y todos los habitantes del Estado tienen los derechos y obligaciones, así como los derechos humanos, consagrados en esta Constitución.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
 La familia es el elemento natural y fundamental de la sociedad y tiene derecho a su protección y desarrollo, por la sociedad, el Estado y la ley.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-La mujer y el hombre son iguales ante la ley.
+Todas las personas son iguales ante la ley.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Toda persona tiene derecho a una vida libre de violencia. El Estado priorizará el ejercicio de este derecho a las niñas, niños, adolescentes y mujeres.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -309,9 +315,9 @@ Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienest
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y domestico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la Ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de la Federación, el Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
 
-> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. Las autoridades Estatales y Municipales promoverán los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
+Toda persona tiene derecho al acceso a la cultura y a ejercer en condiciones de igualdad y no discriminación sus derechos culturales. Toda persona tiene derecho a acceder al Patrimonio Cultural de la entidad, así como a los bienes y servicios culturales que presta el Estado. Las autoridades estatales y municipales promoverán los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -336,12 +342,6 @@ TODA PERSONA TIENE EL DERECHO HUMANO A LA PARTICIPACIÓN CIUDADANA EN LOS ASUNTO
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
-
-###### Artículo 5°.
-
-Sin distinción alguna, todos los habitantes del Estado tienen los mismos derechos y libertades consagrados en esta Constitución.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ###### Artículo 6º.
 
@@ -1103,13 +1103,17 @@ III. Al Tribunal Superior de Justicia en su ramo;
 
 IV. A los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-V. A la persona titular de la Fiscalía General de Justicia del Estado en su ramo; y
+V. A la persona titular de la Fiscalía General de Justicia del Estado en su ramo;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VI. A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes.
+VI. A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes, y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VII. A los Organismos Constitucionales Autónomos del Estado, en la materia de su competencia.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2014)</small>
 
@@ -3067,7 +3071,9 @@ VI. Proponer al Ayuntamiento la designación de Comisiones de Gobierno y Adminis
 
 VII. Presentar al Ayuntamiento el proyecto de Ley de Ingresos y de Presupuesto de Egresos del Municipio para cada ejercicio fiscal, para los efectos previstos por esta Constitución y las leyes, así como la cuenta mensual de egresos. El proyecto de Presupuesto de Egresos del Municipio deberá incluir los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 157 de esta Constitución;
 
-VIII. Nombrar y remover libremente a los directores de las dependencias y entidades de la administración pública municipal, a los delegados y subdelegados y demás personal administrativo, de acuerdo con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Nombrar y remover libremente a los directores de las dependencias y entidades de la administración pública municipal y demás personal administrativo, de acuerdo con las disposiciones aplicables;
 
 IX. Convocar al Ayuntamiento a sesiones conforme a la ley respectiva;
 
@@ -4428,3 +4434,33 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1037 QUE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 8 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1058 QUE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1059 QUE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1074 QUE REFORMA LAS FRACCIONES V Y VI, Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 47 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1075 QUE REFORMA EL PÁRRAFO VIGÉSIMO SÉPTIMO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1088 QUE REFORMA EL ARTÍCULO 144, FRACCIÓN VIII, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
