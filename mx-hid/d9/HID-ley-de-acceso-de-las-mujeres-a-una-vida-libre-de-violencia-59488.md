@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-08-20"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -491,6 +491,10 @@ V.- La implementación de medidas de seguridad pública que favorezcan a las muj
 
 ARTÍCULO 16 BIS.- Los Ayuntamientos en el ámbito de sus competencias deberán fomentar el desarrollo de programas de capacitación y la aplicación de protocolos con perspectiva de género, orientados a sus servidores públicos con el fin de brindarles herramientas suficientes para su intervención en episodios de violencia familiar.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 16 TER. Los municipios fomentarán que las personas servidoras públicas observen, tanto en el ámbito público como privado, los principios rectores establecidos en esta ley.
+
 ### CAPÍTULO IV
 
 DE LA VIOLENCIA EN EL ÁMBITO INSTITUCIONAL Y DE LA VIOLENCIA FEMINICIDA.
@@ -803,7 +807,7 @@ XVIII. Solicitar a la autoridad jurisdiccional competente, para garantizar las o
 
 XIX. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora, y
 
-> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIX], P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIX], P.O. 18 DE ABRIL DE 2024)</small>
 
 XX. Además de los anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de la mujer o la niña en situación de violencia.
 
@@ -1329,7 +1333,7 @@ VII.- Diseñar la política integral para la prevención de delitos contra las m
 
 VIII.- Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
 
-> <small>(ADICIONADA, P.O.18 DE ABRIL DE 2024)</small>
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2024)</small>
 
 IX.- Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
 
@@ -1909,13 +1913,17 @@ VI.- Capacitación preferentemente técnica y administrativa, para que puedan ad
 
 VII.- Vestido y calzado;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VIII.- Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada; y
+VIII. Programas reeducativos integrales a fin de que logren estar en condiciones de participar plenamente en la vida pública, social y privada;
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-IX.- Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten.
+IX. Bolsa de trabajo, con la finalidad de que puedan tener una actividad laboral remunerada en caso de que lo soliciten; y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+X. Apoyo de intérpretes o traductores, cuando pertenezcan a pueblos y comunidades indígenas.
 
 ###### ARTÍCULO 55.
 
@@ -2426,3 +2434,15 @@ P.O. 20 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1032 POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 3 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1065 POR EL QUE SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 54 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1101 POR EL QUE SE ADICIONA EL ARTÍCULO 16 TER A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
