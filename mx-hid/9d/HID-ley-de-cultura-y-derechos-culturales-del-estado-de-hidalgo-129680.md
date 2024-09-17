@@ -4,7 +4,7 @@ identifier: "HID-ley-de-cultura-y-derechos-culturales-del-estado-de-hidalgo-1296
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-31"
-last_updated: "2024-08-20"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129680&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance Uno al Número 31 del Periódico Oficial del Estado de Hidalgo, el martes 31 de julio de 2018.
 
@@ -101,7 +101,9 @@ II. Establecer los mecanismos de coordinación, vinculación y coparticipación 
 
 III. Fijar las bases para el diseño, implementación y evaluación de la política cultural del Estado;
 
-IV. Promover el acceso y participación de los ciudadanos, grupos, instituciones y organizaciones de los sectores social y privado en la preservación, promoción, fomento y difusión e investigación de la actividad cultural y artística;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Promover el acceso y participación de los ciudadanos, grupos, instituciones y organizaciones de los sectores social y privado en la preservación, promoción, fomento y difusión e investigación de la actividad cultural y artística; así como las relacionadas con el desarrollo cultural comunitario, la difusión cultural, la conservación del patrimonio, el acceso a bienes y servicios culturales y la cooperación cultural;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
@@ -144,6 +146,10 @@ IV. Conservación: Conjunto de operaciones interdisciplinarias que tienen por ob
 (ADICONADA, P.O. 28 DE JULIO DE 2021)
 
 IV Bis. Contenidos digitales de carácter cultural o creativo: A todo contenido original divulgado y publicado exclusivamente a través de páginas de internet que esté relacionado con las obras creativas y artísticas, programas por internet y/o las manifestaciones culturales;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IV Ter. Cooperación cultural: conjunto de acciones dirigidas a difundir conocimientos, y estimular valores, enriquecer las culturas, desarrollar las relaciones pacíficas y amistad entre las comunidades; y acceder a saberes, disfrutar de las artes, las letras, los beneficios de la ciencia y tecnología de todos los pueblos y comunidades para contribuir en su enriquecimiento de la vida cultural;
 
 V. Creador: Autor, compositor o investigador; interprete o ejecutante artístico;
 
@@ -465,9 +471,9 @@ XI. Otorgar premios, reconocimientos o estímulos a los individuos, organizacion
 
 XII. Instaurar una dependencia municipal que tenga cómo única función la de llevar a la práctica los programas y acciones contenidas en el Programa Municipal de Cultura;
 
-> <small>(REFORMADA, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Procurar la creación, ampliación y mantenimiento de bibliotecas, hemerotecas, casas municipales de la cultura, museos, auditorios, teatros y centros culturales; e
+XIII. Procurar la creación, ampliación y mantenimiento de bibliotecas, hemerotecas, casas municipales de la cultura, museos, museos comunitarios, auditorios, teatros y centros culturales.
 
 > <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NÚMERO 1026 PUBLICADO EN EL P.O. DE 20 DE AGOSTO DE 2024, PÁGINA 75.]</small>
 
@@ -831,9 +837,9 @@ IX. Tradiciones Orales
 
 Con el objeto de restaurar, preservar, difundir y garantizar la permanencia del patrimonio cultural tangible, intangible y biocultural del Estado, se establecen las Declaratorias de Patrimonio Cultural y biocultural, para reconocer la importancia histórica, cultural y patrimonial de centros históricos, espacios públicos de valor cultural, monumentos, bienes muebles, así como tradiciones, costumbres, manifestaciones artísticas y culturales o elementos relacionados con la biocultura.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-La (sic) declaratorias pueden ser propuestas a la Secretaría por el Poder Legislativo, por los Gobiernos Municipales, las organizaciones de la sociedad civil debidamente constituidas, así como cualquier ciudadano, siempre que medie una motivación y fundamentación que justifique tal solicitud por escrito.
+Las declaratorias únicamente serán emitidas por la persona titular del Poder Ejecutivo del Estado de Hidalgo, de oficio o con motivo de las propuestas que por escrito reciba la Secretaría, realizadas por el Poder Legislativo, los Gobiernos Municipales, por las organizaciones de la sociedad civil debidamente constituidas o por cualquier ciudadano, siempre que medie motivación y fundamentación que las justifiquen.
 
 ###### Artículo 32.
 
@@ -1246,3 +1252,15 @@ P.O. 20 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1026 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1080 POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 31 DE LA LEY DE CULTURA Y DERECHOS CULTURALES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1116 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE CULTURA (SIC) DERECHOS CULTURALES DEL ESTADO DE HIDALGO Y LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
