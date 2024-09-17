@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2023-06-15"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -345,9 +345,17 @@ En el diseño, planeación e implementación de la Política Estatal en materia 
 
 En la recopilación de información, registros, diagnósticos y estadísticas, se deberán considerar las categorías de análisis que permitan identificar las desigualdades entre mujeres y hombres.
 
-### CAPÍTULO TERCERO. DE LA COMISIÓN DE IGUALDAD Y NO DISCRIMINACIÓN
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-### CAPÍTULO CUARTO. DEL INSTITUTO HIDALGUENSE DE LAS MUJERES
+### CAPÍTULO SEGUNDO BIS. DEL LEGISLATIVO ESTATAL
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 15 Quater.
+
+Corresponde al Poder Legislativo Estatal realizar trabajo en materia de igualdad entre hombres y mujeres, acordes a la inclusión social, y observando la perspectiva de género.
+
+### CAPÍTULO TERCERO. DE LA COMISIÓN DE IGUALDAD Y NO DISCRIMINACIÓN
 
 ###### Artículo 16.
 
@@ -393,7 +401,7 @@ V. Verificar la observancia de las buenas prácticas de igualdad; y
 
 VI. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
-### CAPÍTULO QUINTO. DE LOS MUNICIPIOS
+### CAPÍTULO CUARTO. DEL INSTITUTO HIDALGUENSE DE LAS MUJERES
 
 ###### Artículo 18.
 
@@ -431,7 +439,7 @@ XII. Impulsar la participación de la sociedad civil en la promoción de la igua
 
 XIII. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
-### CAPÍTULO PRIMERO. DE LOS ÁMBITOS DE OPERACIÓN DE LA IGUALDAD
+### CAPÍTULO QUINTO. DE LOS MUNICIPIOS
 
 ###### Artículo 19.
 
@@ -479,7 +487,7 @@ V. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
 ## TÍTULO III. DE LAS IGUALDADES
 
-### CAPÍTULO SEGUNDO. DE LA IGUALDAD ECONÓMICA ENTRE MUJERES Y HOMBRES
+### CAPÍTULO PRIMERO. DE LOS ÁMBITOS DE OPERACIÓN DE LA IGUALDAD
 
 ###### Artículo 21.
 
@@ -499,9 +507,7 @@ VI. Tener interlocutores en el sector social y privado; y
 
 VII. Establecer mecanismos de seguimiento y evaluación.
 
-### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y LOS HOMBRES
-
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
+### CAPÍTULO SEGUNDO. DE LA IGUALDAD ECONÓMICA ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 22.
 
@@ -581,7 +587,9 @@ VIII. Diseñar políticas y programas de desarrollo empresarial, industrial y co
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE MARZO DE 2023)</small>
 
-### CAPÍTULO CUARTO. DE LA IGUALDAD SOCIAL Y CULTURAL ENTRE MUJERES Y HOMBRES
+### CAPÍTULO TERCERO. DE LA PARTICIPACIÓN Y REPRESENTACIÓN POLÍTICA PARITARIA DE LAS MUJERES Y LOS HOMBRES
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2023)</small>
 
 ###### Artículo 24.
 
@@ -627,7 +635,7 @@ VII. Garantizar que la educación en todos sus niveles se realice en el marco de
 
 VIII. Desarrollar y actualizar estadísticas desagregadas por sexo, sobre puestos decisorios y cargos directivos en los sectores público, privado y de la sociedad civil.
 
-### CAPÍTULO QUINTO. DE LA IGUALDAD EN EL ACCESO A LA JUSTICIA Y A LA SEGURIDAD PÚBLICA
+### CAPÍTULO CUARTO. DE LA IGUALDAD SOCIAL Y CULTURAL ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 26.
 
@@ -655,7 +663,7 @@ I. Diseñar un acuerdo estatal sobre las reglas de la igualdad con los sectores 
 
 II. Elaborar diagnósticos con perspectiva de género sobre la pobreza para implementar políticas públicas tendentes a su eliminación.
 
-### CAPÍTULO SEXTO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ÁMBITO COMUNITARIO Y FAMILIAR
+### CAPÍTULO QUINTO. DE LA IGUALDAD EN EL ACCESO A LA JUSTICIA Y A LA SEGURIDAD PÚBLICA
 
 ###### Artículo 28.
 
@@ -687,7 +695,7 @@ I. Formar y capacitar a las autoridades encargadas de la procuración y administ
 
 II. Proporcionar la seguridad pública considerando las necesidades de las mujeres y de los hombres.
 
-### CAPÍTULO SÉPTIMO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LOS PUEBLOS Y COMUNIDADES INDÍGENAS
+### CAPÍTULO SEXTO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN EL ÁMBITO COMUNITARIO Y FAMILIAR
 
 ###### Artículo 31.
 
@@ -713,9 +721,7 @@ II. Establecer los mecanismos para la atención de las víctimas en todos los ti
 
 III. Efectuar campañas sobre la importancia de la igualdad de género y el respeto entre mujeres y hombres.
 
-### CAPÍTULO SÉPTIMO BIS. DE LA ELIMINACIÓN DE ESTEREOTIPOS EN FUNCIÓN DEL SEXO
-
-> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
+### CAPÍTULO SÉPTIMO. DE LA IGUALDAD ENTRE MUJERES Y HOMBRES EN LOS PUEBLOS Y COMUNIDADES INDÍGENAS
 
 ###### Artículo 33.
 
@@ -751,7 +757,9 @@ VIII. Desarrollar políticas, planes y programas para la prevención, atención 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE JULIO DE 2018)</small>
 
-### CAPÍTULO PRIMERO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD
+### CAPÍTULO SÉPTIMO BIS. DE LA ELIMINACIÓN DE ESTEREOTIPOS EN FUNCIÓN DEL SEXO
+
+> <small>(ADICIONADO, P.O. 30 DE JULIO DE 2018)</small>
 
 ###### Artículo 34 Bis.
 
@@ -809,11 +817,25 @@ VII. Fomentar las investigaciones en materia de prevención, atención, sanción
 
 VIII. Impulsar la capacitación permanente al personal de las instituciones encargadas de la procuración y administración de justicia en materia de igualdad entre mujeres y hombres.
 
-### CAPÍTULO SEGUNDO. DE LA SOSTENIBILIDAD
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-## TÍTULO V. DE LA INSTITUCIONALIZACIÓN DE LA IGUALDAD
+### CAPÍTULO OCTAVO. DE LA IGUALDAD EDUCATIVA ENTRE MUJERES Y HOMBRES
 
-### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 34 Sexies.
+
+En el ámbito educativo, se deberá contemplar enunciativamente lo siguiente:
+
+I. Ofertar en igualdad de condiciones la orientación en materia de elección de carrera, así como la capacitación profesional en todos los tipos y niveles de educación;
+
+II. Procurar las mismas oportunidades para la obtención de becas en todos los niveles educativos; y
+
+III. Las demás que la Ley y otros ordenamientos aplicables confieran.
+
+## TÍTULO V (SIC). DE LA INSTITUCIONALIZACIÓN DE LA IGUALDAD
+
+### CAPÍTULO PRIMERO. DE LA OBSERVANCIA EN MATERIA DE IGUALDAD
 
 ###### Artículo 35.
 
@@ -839,11 +861,13 @@ V. Difundir información sobre los diversos aspectos relacionados con la igualda
 
 VI. Las demás que sean necesarias para cumplir los objetivos de esta Ley.
 
-### CAPÍTULO CUARTO. DEL DERECHO A LA INFORMACIÓN EN MATERIA DE IGUALDAD
+### CAPÍTULO SEGUNDO. DE LA SOSTENIBILIDAD
 
 ###### Artículo 38.
 
 La evaluación de las acciones y políticas de gobierno se articularán para eliminar cualquier desigualdad entre mujeres y hombres y la consecuente discriminación buscando, en todo momento, la sostenibilidad social, a fin de que se den procesos de institucionalización de la igualdad.
+
+### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES
 
 ###### Artículo 39.
 
@@ -860,6 +884,8 @@ IV. Mecanismos de evaluación.
 ###### Artículo 40.
 
 El Instituto deberá revisar el Programa Estatal de Igualdad cada tres años, y se modificará, en caso de ser necesario, de conformidad con la evaluación de su impacto.
+
+### CAPÍTULO CUARTO. DEL DERECHO A LA INFORMACIÓN EN MATERIA DE IGUALDAD
 
 ###### Artículo 41.
 
@@ -960,3 +986,9 @@ P.O. 15 DE JUNIO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Las obligaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria de los ejecutores de gasto responsables para el presente ejercicio fiscal y los subsecuentes.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1105 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
