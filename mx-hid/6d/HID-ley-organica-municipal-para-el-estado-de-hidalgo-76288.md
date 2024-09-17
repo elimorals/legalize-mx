@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2024-08-19"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -267,6 +267,10 @@ IV BIS.- Acceder a los instrumentos de participación ciudadana reconocidos en l
 
 V.- Acceder a los mecanismos de transparencia y acceso a la información pública municipal; y
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V BIS.- Gozar de la protección de datos personales en posesión de las dependencias y entidades de la administración pública municipal.
+
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2017)</small>
 
 VI.- Los demás que les concedan las leyes, sus reglamentos y demás disposiciones aplicables.
@@ -403,9 +407,11 @@ ARTÍCULO 26 TER.- Las violaciones a las normas de transparencia, acceso a la in
 
 ### CAPÍTULO CUARTO. DE LA PARTICIPACIÓN CIUDADANA
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 27.
 
-Los Ayuntamientos promoverán la participación ciudadana en las políticas públicas Municipales.
+Los Ayuntamientos promoverán la participación ciudadana, orientada al fortalecimiento de la transparencia, la rendición de cuentas, combate a la corrupción y estricto apego a la legalidad del servicio público y en la generación de políticas públicas municipales.
 
 > <small>(ADICIONADO, P.O. 27 DE JUNIO DE 2022)</small>
 
@@ -563,9 +569,11 @@ ARTÍCULO 36 QUINQUIES.- La ausencia en su totalidad de quienes integran el Ayun
 
 El Ayuntamiento saliente, fungirá hasta el momento en que se haga la toma de protesta del electo para el siguiente período. Inmediatamente después, el nuevo presidente hará la siguiente declaratoria; "Quedó legítimamente instalado el Ayuntamiento del Municipio de___________ que deberá funcionar durante los años de _______________".
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 38.
 
-Concluída la ceremonia del acto formal de instalación, el presidente Municipal o quien haga sus funciones presidirá la primera sesión del nuevo Ayuntamiento, en la que, en su caso, se acordará notificar de inmediato a los miembros propietarios electos ausentes, para que asuman su cargo dentro de un plazo perentorio de cinco días, apercibidos de que si no se presentan, transcurrido dicho plazo, los suplentes entrarán en ejercicio definitivo de sus funciones, salvo en casos de enfermedad o causa justificada.
+Concluida la ceremonia del acto formal de instalación, el presidente o presidenta municipal o quien haga sus funciones presidirá la primera sesión del nuevo Ayuntamiento, en la que, en su caso, se acordará notificar de inmediato a los miembros propietarios electos ausentes, para que asuman su cargo dentro de un plazo perentorio de cinco días, apercibidos de que si no se presentan, transcurrido dicho plazo, los suplentes entrarán en ejercicio definitivo de sus funciones, salvo en casos de enfermedad o causa justificada.
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
 
@@ -651,9 +659,11 @@ Si el servidor público entrante, no procediera de conformidad al párrafo anter
 
 La entrega del despacho y de los asuntos en trámite encomendados al servidor público saliente, no lo exime de las responsabilidades que hubiera incurrido en términos de Ley.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 43.
 
-Todos los funcionarios del Municipio al tomar posesión de sus cargos, rendirán la protesta de fiel desempeño de ellos, ante el Presidente Municipal. En igual forma lo harán las autoridades auxiliares como los Delegados y Subdelegados, ante el Presidente Municipal o el funcionario Municipal designado por éste.
+Todos los funcionarios del Municipio al tomar posesión de sus cargos, rendirán la protesta de fiel desempeño de ellos, ante el Presidente o Presidenta Municipal. En igual forma lo harán las autoridades auxiliares como los Delegados y Subdelegados, ante el Presidente o Presidenta Municipal o el funcionario Municipal designado por estos.
 
 ###### ARTÍCULO 44.
 
@@ -715,13 +725,17 @@ Es mayoría calificada, el número de votos emitidos en el mismo sentido, por la
 
 Si al aplicar la votación de mayoría calificada, con relación al total de integrantes de un ayuntamiento, resultare cantidad en números fraccionados, ésta será equivalente a un voto y se sumará al número cardinal siguiente, para obtener el total de votos requeridos para considerar este tipo de mayoría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 49.
 
-En las sesiones del Ayuntamiento sólo tendrán derecho a voz y voto el Presidente Municipal, los Síndicos y los Regidores.
+En las sesiones del Ayuntamiento sólo tendrán derecho a voz y voto el Presidente o Presidenta Municipal, los Síndicos y los Regidores.
 
 Los Ayuntamientos podrán celebrar sesiones públicas ordinarias, extraordinarias, especiales o solemnes; éstas podrán ser privadas cuando así lo aprueben las dos terceras partes de sus integrantes. Podrán convocar a sesiones extraordinarias las dos terceras partes de los regidores cuando se requiera. En sesión extraordinaria sólo se tratarán los asuntos objeto de la convocatoria.
 
-Las sesiones del Ayuntamiento serán presididas por el Presidente Municipal y moderadas por quien designe el Ayuntamiento.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Las sesiones del Ayuntamiento serán presididas por el Presidente o Presidenta Municipal y moderadas por quien designe el Ayuntamiento.
 
 Para la atención de asuntos internos y la correspondencia, los Ayuntamientos podrán contar con un Oficial Mayor, nombrado mediante acuerdo de sus integrantes. El presupuesto de egresos contemplará la remuneración que le corresponda.
 
@@ -951,9 +965,9 @@ v).- Prevenir y sancionar, con el auxilio de las autoridades competentes, el alc
 
 w).- Autorizar al Presidente Municipal para solicitar al Gobernador, la expropiación de bienes por causa de utilidad pública que previene la Constitución Política del Estado;
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-x) Desempeñar sus facultades con un enfoque de sustentabilidad en la prestación de los servicios públicos y otras materias que les corresponden y aprobar su Agenda Verde Municipal, dentro de los ciento ochenta días naturales posteriores al inicio de la administración municipal, debiendo considerar las acciones necesarias para prevenir, combatir, controlar y remediar en proporción, a la posibilidad de sus recursos, la contaminación ambiental, garantizando la remediación de los pasivos ambientales que se generen durante su administración que garantice la protección de la salud pública;
+x).- Desempeñar sus facultades con un enfoque de sustentabilidad en la prestación de los servicios públicos y otras materias que les corresponden y aprobar su Agenda Verde Municipal, dentro de los ciento ochenta días naturales posteriores al inicio de la administración municipal, debiendo considerar las acciones necesarias para prevenir, combatir, controlar y remediar en proporción, a la posibilidad de sus recursos, la contaminación ambiental, y la generada por emisiones de ruido, vibraciones, olores, energía térmica, luz intrusa, garantizando la remediación de los pasivos ambientales que se generen durante su administración que garantice la protección de la salud pública;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
@@ -1059,9 +1073,9 @@ j).- Proceder conforme a Ley Sobre Monumentos y Zonas Arqueológicas, Artística
 
 j BIS).- Diagnosticar, planear, implementar y evaluar, en concordancia con la política nacional y estatal, la política municipal de cultura y derechos culturales;
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-j TER).- Formular con la participación de las personas y las comunidades y aprobar, un Programa Municipal de Cultura y Derechos Culturales que tenga por objeto promover, respetar, proteger y garantizar los derechos culturales de la población, los migrantes, los visitantes del municipio y las personas con discapacidad; preservar el patrimonio cultural de propiedad municipal y propiciar la salvaguardia del patrimonio cultural inmaterial de las comunidades; propiciar, conforme a sus facultades y la disponibilidad presupuestal, la atención a la condición del artista y, establecer el sistema de información cultural municipal;
+j TER).- Formular con la participación de las personas y las comunidades y aprobar, un Programa Municipal de Cultura y Derechos Culturales que tenga por objeto promover, respetar, proteger y garantizar los derechos culturales de la población, los migrantes, los visitantes del municipio y las personas con discapacidad; fomentar entre la población el desarrollo cultural comunitario y la cooperación cultural; preservar el patrimonio cultural de propiedad municipal y propiciar la salvaguardia del patrimonio cultural inmaterial de las comunidades; propiciar, conforme a sus facultades y la disponibilidad presupuestal, la atención a la condición del artista y, establecer el sistema de información cultural municipal;
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 2024)</small>
 
@@ -1245,11 +1259,13 @@ En estricto apego a la Ley de Catastro y su Reglamento, los Municipios, en coord
 
 ### CAPÍTULO SEXTO. FACULTADES Y OBLIGACIONES DE LOS PRESIDENTES MUNICIPALES
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 59.
 
-El Presidente Municipal ajustará su actuación a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, en esta Ley, en sus Reglamentos Internos y en los Bandos de Policía y Gobierno correspondientes. En caso de facultades no exclusivas, podrá delegarlas en términos de la normatividad Municipal.
+El Presidente o Presidenta Municipal ajustará su actuación a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, en esta Ley, en sus reglamentos internos y en los bandos de policía y gobierno correspondientes. En caso de facultades no exclusivas, podrá delegarlas en términos de la normatividad municipal.
 
-El Presidente Municipal, asumirá la representación jurídica del Ayuntamiento en los litigios en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, o no la asuma por cualquier causa, quien, de ser necesario, podrá nombrar apoderados.
+El Presidente o Presidenta Municipal, asumirá la representación jurídica del Ayuntamiento en los litigios en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, o no la asuma por cualquier causa, quien, de ser necesario, podrá nombrar apoderados.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 6 DE JUNIO DE 2022)</small>
 
@@ -1277,9 +1293,9 @@ g).- Constituir el Comité de Planeación del Desarrollo Municipal, con la parti
 
 h).- Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, respecto a lo que se refiere a su Municipio. A más tardar, noventa días después de tomar posesión de su cargo, el Presidente Municipal deberá presentar un Plan Municipal de Desarrollo Urbano que contenga los Planes de Desarrollo Rural para los Pueblos y Comunidades Indígenas en caso de contar con población indígena reconocida así como, el que corresponda al desarrollo agropecuario municipal;
 
-(REFORMADO, P.O. 19 DE ENERO DE 2024) (F. DE E., P.O. 15 DE JULIO DE 2024)
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-Asimismo, contará hasta con ciento ochenta días naturales para presentar su Agenda Verde Municipal en términos del Reglamento respectivo; así como para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión de cabildo, el Atlas Municipal de Riesgos correspondiente o en su caso, actualizarlo durante su gestión.
+Asimismo, contará hasta con ciento ochenta días para presupuestar, gestionar lo conducente, ordenar la elaboración y aprobar en sesión del Ayuntamiento el Atlas de Riesgos correspondiente o en su caso, actualizarlo a su gestión.
 
 i).- Coadyuvar con las Autoridades Federales en la aplicación y cumplimiento de las disposiciones previstas en los Artículos 27 y 30 de la Constitución Política de los Estados Unidos Mexicanos, de acuerdo a su normatividad interna;
 
@@ -1475,9 +1491,11 @@ VI.- Residir habitualmente durante su gestión fuera del territorio Municipal qu
 
 VII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, o promoción de familiares consanguíneos hasta el cuarto grado, por afinidad o civiles.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 63.
 
-El Presidente Municipal tiene la representación del Ayuntamiento.
+El Presidente o Presidenta Municipal tiene la representación del Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2023)</small>
 
@@ -1617,9 +1635,13 @@ V.- Vigilar que las peticiones realizadas realizadas (sic) a la Administración 
 
 VI.- Solicitar información a los Síndicos, respecto de los asuntos de su competencia, cuando lo consideren necesario;
 
-VII.- Vigilar que el Presidente Municipal cumpla con los acuerdos y resoluciones del Ayuntamiento;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VIII.- Recibir y analizar el Informe Anual que rinda el Presidente Municipal o el Presidente del Concejo Municipal y emitir su voto respecto de su aprobación;
+VII.- Vigilar que el Presidente o Presidenta Municipal cumpla con los acuerdos y resoluciones del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VIII.- Recibir y analizar el Informe Anual que rinda el Presidente o Presidenta Municipal o el Presidente o Presidenta del Concejo Municipal y emitir su voto respecto de su aprobación;
 
 VIII Bis. (DEROGADA, P.O. 28 DE MARZO DE 2022)
 
@@ -1775,9 +1797,11 @@ Para la designación de quien deba sustituir al Presidente Municipal, en caso de
 
 ### CAPÍTULO DÉCIMO PRIMERO. LICENCIAS DE LOS SERVIDORES DE LA ADMINISTRACIÓN MUNICIPAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 76.
 
-El Presidente Municipal podrá conceder licencia por tiempo determinado de hasta treinta días, a los servidores públicos pertenecientes al régimen administrativo municipal, que se hará constar por escrito.
+El Presidente o Presidenta Municipal podrá conceder licencia por tiempo determinado de hasta treinta días, a los servidores públicos pertenecientes al régimen administrativo municipal, que se hará constar por escrito.
 
 Toda licencia por tiempo indeterminado o que exceda de quince días será sin goce de sueldo.
 
@@ -1905,7 +1929,9 @@ Los delegados y subdelegados serán electos por los vecinos de los pueblos, comu
 
 En cada Municipio, podrán funcionar uno o varios Consejos de Colaboración Municipal, en el reglamento que expide el Ayuntamiento, se señalarán disposiciones, de acuerdo a sus necesidades, que regulen lo dispuesto en este capítulo.
 
-El Presidente Municipal, con el acuerdo de la mayoría de los integrantes del Ayuntamiento, convocará públicamente a los vecinos del pueblo, comunidad, zona, demarcación, colonia, fraccionamiento o barrio, para la integración de los Consejos de Colaboración Municipal. Las organizaciones y agrupaciones representativas de los principales sectores sociales de la comunidad, podrán acreditar a su representante dentro de los Consejos.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+El Presidente o Presidenta Municipal, con el acuerdo de la mayoría de los integrantes del Ayuntamiento, convocará públicamente a los vecinos del pueblo, comunidad, zona, demarcación, colonia, fraccionamiento o barrio, para la integración de los Consejos de Colaboración Municipal. Las organizaciones y agrupaciones representativas de los principales sectores sociales de la comunidad, podrán acreditar a su representante dentro de los Consejos.
 
 Los Delegados y Subdelegados, están facultados para presidir los Consejos de Colaboración Municipal, si así lo aprueba la mayoría de los vecinos del pueblo, comunidad, zona, demarcación, colonia, fraccionamiento o barrio, en primera convocatoria pública o los que asistan en segunda convocatoria.
 
@@ -2127,9 +2153,9 @@ e) Las previsiones presupuestales destinadas para modernización del catastro mu
 
 Los funcionarios de la administración pública municipal deberán comparecer ante el Ayuntamiento cuando se les requiera para aportar la información necesaria que contribuya a un mejor análisis de las Iniciativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 95 QUATER.- La Iniciativa de Ley de Ingresos deberá ser presentada al Ayuntamiento por el Presidente Municipal con apoyo del Tesorero Municipal a más tardar el segundo lunes del mes de septiembre del año anterior al de su ejercicio, para su análisis, discusión y, en su caso, aprobación. La aprobación de dicha iniciativa se hará a más tardar el cuarto lunes del mes de septiembre de ese mismo año.
+ARTICULO 95 QUATER.- La Iniciativa de Ley de Ingresos deberá ser presentada al Ayuntamiento por el Presidente o Presidenta Municipal con apoyo del Tesorero Municipal a más tardar el segundo lunes del mes de septiembre del año anterior al de su ejercicio, para su análisis, discusión y, en su caso, aprobación. La aprobación de dicha iniciativa se hará a más tardar el cuarto lunes del mes de septiembre de ese mismo año.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2155,7 +2181,9 @@ Cualquier modificación a la Ley de Ingresos solo podrá realizarse durante el e
 
 ARTÍCULO 95 QUINQUIES.- El Presupuesto de Egresos Municipal será el que apruebe el Ayuntamiento respectivo, contendrá el ejercicio del gasto público municipal desde el primero de enero hasta el treinta y uno de diciembre del ejercicio fiscal correspondiente.
 
-Para tal efecto el Presidente Municipal, deberá presentar al Ayuntamiento la iniciativa de Proyecto de Presupuesto de Egresos previamente elaborado por la Tesorería Municipal, a más tardar el 1 de diciembre del año anterior al de su ejercicio, mismo que será turnado a la Comisión de Hacienda para su análisis y dictamen.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Para tal efecto el Presidente o Presidenta Municipal, deberá presentar al Ayuntamiento la iniciativa de Proyecto de Presupuesto de Egresos previamente elaborado por la Tesorería Municipal, a más tardar el 1 de diciembre del año anterior al de su ejercicio, mismo que será turnado a la Comisión de Hacienda para su análisis y dictamen.
 
 En caso de que al treinta y uno de diciembre del año que corresponda, el Ayuntamiento no apruebe el Presupuesto de Egresos que regirá el próximo año, se declarará aplicable para el siguiente ejercicio fiscal, el Presupuesto de Egresos que se encuentre vigente, sólo en lo relativo al gasto corriente.
 
@@ -2397,11 +2425,15 @@ XXVII.- Las demás que le asignen las Leyes y Reglamentos.
 
 ### CAPÍTULO TERCERO. DE LA CONTRALORÍA
 
-> <small>(REFORMADO, P.O. 21 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 105.
 
-En cada Ayuntamiento, habrá Órgano de Control Interno que tendrá por objeto la vigilancia y evaluación del desempeño de las distintas áreas de la administración municipal, para promover la productividad, eficiencia y eficacia, a través de la implantación de sistemas de control interno, adecuado a las circunstancias, así como vigilar, en su ámbito, el cumplimiento de la Ley de Responsabilidades de Servidores Públicos.
+En cada Ayuntamiento, habrá un Órgano Interno de Control que tendrá por objeto la vigilancia y evaluación del desempeño de las distintas áreas de la administración municipal, para promover la productividad, eficiencia y eficacia, a través de la implementación de sistemas de control interno, adecuado a las circunstancias, así como vigilar, en su ámbito, el cumplimiento de la Ley de Responsabilidades Administrativas del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Los Órganos Internos de Control municipal y, en su caso, los de los organismos descentralizados municipales, deberán contar con la estructura orgánica necesaria para cumplir las funciones de autoridad investigadora, substanciadora y resolutora, en los términos de la ley de la materia.
 
 > <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2022)</small>
 
@@ -2497,9 +2529,9 @@ IX.- Inspeccionar que las obras que en forma directa o en participación con otr
 
 X.- Recepcionar, registrar y resguardar las declaraciones de situación patrimonial y de intereses y en su caso la fiscal anual, que deban presentar los servidores públicos; y practicar las investigaciones que fueren pertinentes respecto del cumplimiento de esta obligación, de acuerdo con las leyes y reglamentos;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-XI.- Substanciar los procedimientos administrativos que resulten con motivo de la falta de presentación de las declaraciones de situación patrimonial y de intereses que se encuentran obligados los servidores públicos;
+XI.- Tramitar, en términos de la Ley de Responsabilidades Administrativas del Estado de Hidalgo, los procedimientos administrativos que resulten con motivo de la falta de presentación de las declaraciones de situación patrimonial, de intereses y constancia de presentación de declaración fiscal que se encuentran obligados los servidores públicos;
 
 > <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
 
@@ -2511,19 +2543,31 @@ XII Bis.- Proponer al Ayuntamiento, dentro de los primeros quince días del mes 
 
 XIII.- Informar al Presidente Municipal el resultado de las evaluaciones realizadas y proponer las medidas correctivas que procedan;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-XIV.- conocer los actos u omisiones que pudieran constituir faltas administrativas en contra de servidores y ex servidores públicos y de particulares, para lo cual deberá:
+XIV.- Conocer por conducto de las autoridades investigadora, substanciadora y resolutora, según corresponda, de los actos u omisiones que pudieran constituir faltas administrativas cometidas por servidores públicos, ex servidores públicos y particulares, para lo cual deberá:
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 a) Recibir denuncias por presuntas faltas administrativas;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 b) Investigar la presunta responsabilidad administrativa de faltas administrativas, de oficio, por denuncia o derivados de auditorías;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 c) Determinar la existencia o inexistencia de presunta responsabilidad administrativa;
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
+
 d) Calificar las faltas administrativas;
 
-e) Iniciar, sustanciar y en su caso, resolver los procedimientos de responsabilidad administrativa; y
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+e) Iniciar, substanciar y en su caso, resolver los procedimientos de responsabilidad administrativa; y
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2017)</small>
 
 f) Imponer y ejecutar las sanciones administrativas, cuando así corresponda.
 
@@ -2545,7 +2589,9 @@ XIX Bis.- Solicitar, en caso de considerarlo necesario, asesoría y apoyo en mat
 
 XX.- Participar en la entrega-recepción de las unidades administrativas de las dependencias y entidades del Municipio, conjuntamente con el Síndico;
 
-XXI.- Revisar los estados financieros de la Tesorería y verificar que los informes sean remitidos en tiempo y forma al Auditor Superior del Estado. Al efecto, podrá auxiliarse de profesionales en la materia, previa autorización del Cabildo;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXI.- Revisar los estados financieros de la Tesorería y verificar que los informes sean remitidos en tiempo y forma al Auditor Superior del Estado. Al efecto, podrá auxiliarse de profesionales en la materia, previa autorización del Ayuntamiento;
 
 XXII.- Revisar los inventarios de bienes muebles e inmuebles propiedad del Ayuntamiento; y
 
@@ -2663,9 +2709,11 @@ Cuando los servicios públicos municipales sean concesionados a particulares, la
 
 ### CAPÍTULO QUINTO. DE LAS DEPENDENCIAS ENCARGADAS DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 112.
 
-El Presidente Municipal, de acuerdo con las necesidades administrativas y con la disponibilidad de recursos financieros, podrá proponer ante el Ayuntamiento la creación de las Dependencias u Organismos Descentralizados que sean indispensables para la buena marcha de los servicios públicos.
+El Presidente o Presidenta Municipal, de acuerdo con las necesidades administrativas y con la disponibilidad de recursos financieros, podrá proponer ante el Ayuntamiento la creación de las dependencias u organismos descentralizados que sean indispensables para la buena marcha de los servicios públicos.
 
 Las Dependencias u Organismos Municipales descentralizados se crearán por acuerdo emitido por el Ayuntamiento, en el que se señalen sus funciones y competencias, así como en los reglamentos respectivos.
 
@@ -2703,9 +2751,11 @@ Los actos del Oficial del Registro del Estado Familiar, deberán llevarse a cabo
 
 El titular de esta dependencia municipal, además de los requisitos plasmados en esta ley, deberá contar con título profesional de Licenciado en Derecho, con experiencia mínima de un año al momento de su designación.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 116.
 
-Dentro de los primeros quince días del mes de enero de cada año, el duplicado de los libros del Registro del Estado Familiar se remitirá a la Dirección del Registro del Estado Familiar del Estado. El Presidente Municipal vigilará que se cumpla con esta disposición.
+Dentro de los primeros quince días del mes de enero de cada año, el duplicado de los libros del Registro del Estado Familiar se remitirá a la Dirección del Registro del Estado Familiar del Estado. El Presidente o Presidenta Municipal vigilará que se cumpla con esta disposición.
 
 ###### ARTÍCULO 117.
 
@@ -2885,11 +2935,15 @@ V.- Generar mejores condiciones de higiene y salud para los habitantes del Munic
 
 La persona titular de Sanidad Municipal, además de los requisitos establecidos en el artículo 114, deberá contar con título profesional en disciplina correspondientes (sic) al área de ciencias de la salud, así como tener experiencia en el ámbito clínico o en algún cargo de la administración pública relacionado con la materia; la cual habrá de ser mínima de un año al momento de su designación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 121.
 
-El Titular de Reglamentos y Espectáculos, tendrá como funciones:
+La persona Titular de Reglamentos y Espectáculos, tendrá como funciones:
 
-I.- Vigilar que en los lugares donde se desarrollen todo tipo de espectáculos o diversiones, no se falte a la moral y las buenas costumbres;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I.- Vigilar que en los lugares donde se desarrollen todo tipo de espectáculos o diversiones, se respeten los derechos humanos y no se discrimine a persona alguna
 
 II.- Realizar las visitas de verificación a los establecimientos mercantiles, levantando el acta circunstanciada correspondiente;
 
@@ -2905,9 +2959,9 @@ V.- Autorizar las licencias y permisos de funcionamiento y cuidar que se paguen 
 
 VI.- Regular el comercio establecido y los establecimientos mercantiles, así como la autorización de espectáculos públicos en el Municipio, para tal efecto el solicitante deberá presentar consentimiento expreso de las Sociedades de Gestión Colectiva respectivas, tratándose de espectáculos públicos o establecimientos mercantiles en los que se ejecute, represente, explote o de cualquier otra forma se comuniquen públicamente obras musicales protegidas por la Ley Federal del Derecho de Autor; y
 
-> <small>(ADICIONADA, P.O. 15 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VII.- Vigilar que los espectáculos públicos y los establecimientos mercantiles cuenten con la autorización a que hace referencia el inciso k de la fracción II del artículo 56 de la presente Ley.
+VII.- Vigilar que (sic) los espectáculos públicos y los establecimientos mercantiles, no se lleven a cabo conductas discriminatorias, o que violen los derechos humanos de las personas, atribuibles a las personas titulares de las licencias o permisos de funcionamiento o espectáculos, o de sus trabajadoras o trabajadores, así como que cuenten con la autorización a que hace referencia el inciso k de la fracción II del artículo 56 de la presente Ley
 
 Los Titulares de Reglamentos y Espectáculos deberán orientar a los solicitantes respecto del lugar en donde podrán solicitarlo.
 
@@ -2987,9 +3041,11 @@ b).- Acreditar que cuenta con los conocimientos, habilidades y perfil físico, m
 
 c).- Cumplir con los principios básicos de actuación señalados en la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 125.
 
-El Titular de Policía y Tránsito acordará directamente con el Presidente Municipal, cuando el caso lo amerite.
+El Titular de Policía y Tránsito acordará directamente con el Presidente o Presidenta Municipal, cuando el caso lo amerite.
 
 ###### ARTÍCULO 126.
 
@@ -3029,19 +3085,25 @@ En cada Municipio, se deberá contar con una Dirección de Protección Civil y p
 
 El Sistema Municipal de Protección Civil debe ser el primer nivel de respuesta ante cualquier agente perturbador que afecte a la población; para su adecuado funcionamiento contará con: el Programa Municipal de Protección Civil; Atlas Nacional, Estatal y Municipal de Riesgos; inventarios; así como directorios de Recursos Materiales y Humanos del Municipio correspondiente.
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 128.
 
-El Área de Protección Civil, tendrán (sic) bajo su responsabilidad la coordinación y operación del sistema municipal de protección civil y cuerpo de bomberos, cuyos titulares serán designados y removidos por el Presidente Municipal y deberán cubrir los siguientes requisitos:
+El Área de Protección Civil, tendrán bajo su responsabilidad la coordinación y operación del sistema municipal de protección civil y cuerpo de bomberos, cuyos titulares serán designados y removidos por el Presidente o Presidenta Municipal y deberán cubrir los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 I. Ser ciudadano mexicano en pleno goce de sus derechos;
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 II. No haber sido condenado por delito doloso;
 
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 III. Contar con título profesional, con formación técnica en materia de prevención de riesgos, protección civil o disciplinas afines, con experiencia mínima de un año y preferentemente estar afiliado a algún Colegio de Profesionistas de la entidad, o algún otro Colegio que tenga presencia a nivel nacional.
+
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 IV. En caso de no contar con licenciatura, contar con experiencia mínima comprobable de tres años en el área de Protección Civil, con cursos sobre protección civil, gestión integral de riesgos, prevención y atención de desastres o cualquier otro relacionado a protección civil.
 
@@ -3167,9 +3229,11 @@ V.- Los demás casos establecidos por la Constitución Política de los Estados 
 
 A la solicitud de autorización para celebrar los actos jurídicos, de acuerdo con el artículo anterior, se acompañarán las bases sobre las cuales se pretende celebrarlos y los documentos necesarios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 132.
 
-Para la enajenación de un inmueble, el Presidente Municipal deberá presentar ante el Ayuntamiento la solicitud respectiva, que deberá reunir los siguientes requisitos:
+Para la enajenación de un inmueble, el Presidente o Presidenta Municipal deberá presentar ante el Ayuntamiento la solicitud respectiva, que deberá reunir los siguientes requisitos:
 
 I.- Señalar la superficie, medidas, linderos y ubicación exacta del inmueble;
 
@@ -3199,9 +3263,11 @@ La celebración de contratos de ejecución de obras y para la prestación de ser
 
 A la solicitud de autorización para contratar la prestación de servicios públicos, de acuerdo con el artículo anterior, se acompañarán las bases sobre las cuales se pretende celebrar el contrato y los documentos que respalden dicha petición.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 135.
 
-En las solicitudes que formule el Presidente Municipal al Ayuntamiento, para cambiar de destino o desafectar los bienes de uso común o dedicado a un servicio público, se expresarán los motivos que tenga para ello, acompañándose el dictamen técnico o pericial al respecto.
+En las solicitudes que formule el Presidente o Presidenta Municipal al Ayuntamiento, para cambiar de destino o desafectar los bienes de uso común o dedicado a un servicio público, se expresarán los motivos que tenga para ello, acompañándose el dictamen técnico o pericial al respecto.
 
 ###### ARTÍCULO 136.
 
@@ -3317,9 +3383,11 @@ El Comité de Planeación, contará con el apoyo técnico que en cada caso se co
 
 ARTÍCULO 145 BIS.- En los municipios que cuenten con población indígena, los ayuntamientos podrán contar con una Secretaría de Desarrollo para Pueblos y Comunidades Indígenas, para atender o canalizar, con respeto a su cultura, usos, costumbres, tradiciones y formas de organización comunitaria, las demandas y propuestas de las personas y comunidades indígenas de su circunscripción y que correspondan a su competencia.
 
-> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 145 TER.- La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, aprobado por el Cabildo a propuesta del Presidente Municipal, quien preferentemente consultará a las autoridades tradicionales de las principales comunidades para presentar la misma.
+ARTICULO 145 TER.- La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas estará a cargo de una persona que hable y escriba suficientemente la lengua o lenguas indígenas de la región de que se trate, aprobado por el Ayuntamiento a propuesta del Presidente Municipal, quien preferentemente consultará a las autoridades tradicionales de las principales comunidades para presentar la misma.
+
+> <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 El titular de la Secretaría realizará las funciones y ejercerá las atribuciones que señale el Reglamento Interior del Municipio correspondiente. Se procurará que el personal de esta Secretaría sea preferentemente indígena.
 
@@ -3424,6 +3492,10 @@ II BIS (SIC). Realizar acciones de difusión que promuevan los derechos de las m
 III. Promover la celebración de convenios o cualquier acto jurídico con instituciones públicas o privadas, para llevar a cabo programas o proyectos que propicien el desarrollo integral de las mujeres, así como para lograr el cumplimiento de su objeto;
 
 IV. Promover la incorporación de la perspectiva de género en la planeación, organización, ejecución y control de programas y proyectos, con el fin de eliminar las brechas de desigualdad subsistentes;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IV BIS. Implementar mecanismos de detección de violencia de género dentro de la administración pública municipal;
 
 V. Promover e impulsar condiciones que hagan posible la defensa y el ejercicio de los derechos de las mujeres; la igualdad de oportunidades; y su participación activa en todos los órdenes de la vida;
 
@@ -4209,9 +4281,11 @@ Con relación a los recursos administrativos, tanto la autoridad Municipal como 
 
 Los miembros del Ayuntamiento serán responsables, conforme a las Leyes civiles y penales vigentes, por los actos u omisiones en que incurran en el ejercicio de su cargo; dicha responsabilidad podrá ser exigida ante las autoridades competentes, por los particulares cuando se lesionen sus derechos y por el Ministerio Público cuando se cometan delitos y exista denuncia de hechos.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 185.
 
-No podrá procederse en contra del Presidente Municipal, los Síndicos y los Regidores, cuando se trate de delitos del orden común o de carácter oficial, sin que previamente se cumplan los requisitos que señalan la Constitución Política del Estado y la Ley de Responsabilidades de los Servidores Públicos para el Estado.
+No podrá procederse en contra del Presidente Municipal, los Síndicos y los Regidores, cuando se trate de delitos del orden común o de carácter oficial, sin que previamente se cumplan los requisitos que señalan la Constitución Política del Estado y la Ley de Responsabilidades Administrativas del Estado de Hidalgo.
 
 ###### ARTÍCULO 186.
 
@@ -4223,9 +4297,11 @@ Cuando la acusación se entable en contra de un funcionario Municipal, excepto e
 
 Si en la comisión de un hecho delictuoso, se agravia al Ayuntamiento, la denuncia se presentará por conducto del Síndico.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 188.
 
-Tratándose de delitos o faltas oficiales en que hayan incurrido los miembros y funcionarios del Ayuntamiento, se estará a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos y demás disposiciones vigentes.
+Tratándose de delitos o faltas oficiales en que hayan incurrido los miembros y funcionarios del Ayuntamiento, se estará a lo dispuesto por la Ley de Responsabilidades Administrativas del Estado de Hidalgo y demás disposiciones vigentes.
 
 ## TÍTULO NOVENO. LEGISLACIÓN MUNICIPAL
 
@@ -4946,3 +5022,61 @@ P.O. 19 DE AGOSTO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1062 POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1070 POR EL QUE SE REFORMA EL INCISO X) DE LA FRACCIÓN I DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1076 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 1077 POR EL QUE SE ADICIONA LA FRACCIÓN V BIS AL ARTÍCULO 18 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1079 POR EL QUE SE REFORMA EL ARTÍCULO 27 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1083 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1097 POR EL QUE SE REFORMA EL ARTÍCULO 121 DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1102 POR EL QUE SE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 145 OCTAVUS DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1116 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES A LA LEY DE CULTURA DERECHOS CULTURALES DEL ESTADO DE HIDALGO Y LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
