@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2024-06-14"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -353,7 +353,9 @@ II.- Participar de manera conjunta y coordinada con la Federación, los Estados 
 
 III.- Participar de manera conjunta y coordinada con los Municipios involucrados, en la planeación del desarrollo urbano y ordenamiento territorial de las conurbaciones intermunicipales, en los términos que establece la presente Ley;
 
-IV.- Otorgar la asesoría, apoyo e información técnica a los Municipios para la formulación, aprobación, ejecución, control y evaluación de los programas de desarrollo urbano de su competencia, y en su caso, formularlos a través de la celebración de los respectivos Convenios de Colaboración;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- Otorgar la asesoría, apoyo e información técnica a los Municipios para la formulación, aprobación, ejecución, control y evaluación de los programas de desarrollo urbano de su competencia, Sistemas de Atlas de Riesgo correspondientes, y en su caso, formularlos a través de la celebración de los respectivos Convenios de Colaboración;
 
 V.- Tramitar la Publicación de los Programas de Desarrollo Urbano y Ordenamiento Territorial en el Periódico Oficial del Estado, así como su inscripción en el Registro Público de la Propiedad y del Comercio correspondiente;
 
@@ -455,7 +457,9 @@ III.- Gestionar ante la Secretaría, la obtención del dictamen de congruencia c
 
 IV.- Administrar la zonificación prevista en los Programas Municipales, de centros de población y parciales de desarrollo urbano, vigilando las reservas, usos y destinos de áreas y predios en los asentamientos humanos;
 
-V.- Expedir las licencias, permisos, autorizaciones, constancias y dictámenes de uso del suelo, de construcción, fraccionamiento, urbanización, fusión, subdivisión, relotificación, reagrupamiento inmobiliario, cambio a régimen de propiedad en condominio y otros tendientes a la transformación, uso o aprovechamiento del suelo urbano, así como los permisos relacionados con la remodelación y urbanización, de acuerdo con lo establecido en los programas de desarrollo urbano vigentes, remitiendo copia de las mismas a la Secretaría;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V.- Expedir las licencias, permisos, autorizaciones, constancias y dictámenes de uso del suelo, de construcción, fraccionamiento, urbanización, fusión, subdivisión, relotificación, reagrupamiento inmobiliario, cambio a régimen de propiedad en condominio y otros tendientes a la transformación, uso o aprovechamiento del suelo urbano, así como los permisos relacionados con la remodelación y urbanización, de acuerdo con lo establecido en los programas de desarrollo urbano vigentes y Sistemas de Atlas de Riesgo, remitiendo copia de las mismas a la Secretaría;
 
 VI.- Remitir a la Secretaría, los estudios de impacto urbano a que se refiere la Sección Segunda, Capítulo Primero, Título Cuarto que le presenten los particulares, a efecto de que ésta emita el dictamen correspondiente;
 
@@ -2830,5 +2834,11 @@ P.O. 7 DE JUNIO DE 2024.
 P.O. 14 DE JUNIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 984 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 137 DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1115 POR EL CUAL SE REFORMAN Y (SIC) DIVERSAS DISPOSICIONES DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
