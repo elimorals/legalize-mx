@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-superior-del-estado-de-hidalgo-167195"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-03"
-last_updated: "2024-05-03"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance Catorce del Número 31 del Periódico Oficial del Estado de Hidalgo, el jueves 3 de agosto de 2023.
 
@@ -1211,6 +1211,12 @@ Las becas podrán consistir en la exención del pago total o parcial de las cuot
 
 Las anteriores becas son compatibles con aquellas de orden económico derivados de programas sociales que el gobierno de la Entidad promueva para el ingreso, permanencia y egreso de los estudiantes en instituciones de particulares.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Artículo 76 BIS. Las instituciones particulares de educación superior deberán otorgar becas deportivas consistentes en la exención del pago total o parcial de cuotas de inscripción y de colegiaturas.
+
+Las becas deportivas no deberán de considerarse dentro del porcentaje establecido en el artículo anterior.
+
 ### CAPÍTULO II. DEL RECONOCIMIENTO DE VALIDEZ OFICIAL DE ESTUDIOS Y DEL RECONOCIMIENTO A LA GESTIÓN INSTITUCIONAL
 
 ###### Artículo 77.
@@ -1452,5 +1458,11 @@ P.O. 4 DE ABRIL DE 2024.
 P.O. 3 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 865 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO Y DE LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1110 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO Y A LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
