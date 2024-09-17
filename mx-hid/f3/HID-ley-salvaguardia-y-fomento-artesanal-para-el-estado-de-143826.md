@@ -4,7 +4,7 @@ identifier: "HID-ley-salvaguardia-y-fomento-artesanal-para-el-estado-de-143826"
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2024-07-02"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143826&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance Uno al Número 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -301,9 +301,17 @@ IV.- Propiciar que los trámites y servicios relacionados con las actividades ar
 
 V.- Fomentar la coordinación entre los municipios integrantes de una región con similares actividades artesanales, para su asesoría, capacitación y apoyo;
 
-VI.- Investigar y analizar en lo general y lo particular las necesidades y problemáticas que enfrenta el sector artesanal, así como proponer alternativas que alienten su estudio, desarrollo y consolidación desde el ámbito cultural, social, económico y de medio ambiente con la finalidad de preservar sus valores tradicionales; y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VII.- Propiciar un protocolo (con base en la Metodología DAM) que permita identificar la diferenciación entre artesanía, manualidad e híbrido.
+VI.- Investigar y analizar en lo general y lo particular las necesidades y problemáticas que enfrenta el sector artesanal, así como proponer alternativas que alienten su estudio, desarrollo y consolidación desde el ámbito cultural, social, económico y de medio ambiente con la finalidad de preservar sus valores tradicionales;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VII.- Propiciar un protocolo (con base en la Metodología DAM) que permita identificar la diferenciación entre artesanía, manualidad e híbrido, y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VIII.- Procurar la implementación de programas de apoyo a mujeres artesanas enfocados a la obtención de materias primas, producción y comercialización de los productos terminados.
 
 ###### Artículo 15.
 
@@ -421,7 +429,13 @@ III. Celebrar convenios con otros municipios para la promoción de espacios regi
 
 IV. Vincular a artesanas y artesanos con el sector turístico nacional e internacional;
 
-V. Investigar, promover, gestionar y facilitar a artesanas y artesanos, la información relacionada con programas y apoyos para la producción artesanal.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V. Investigar, promover, gestionar y facilitar a artesanas y artesanos, la información relacionada con programas y apoyos para la producción artesanal, y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Promocionar el trabajo que realicen artesanas y artesanos que radiquen en sus municipios, así como contemplarlos permanentemente en ferias, exposiciones, fiestas y festivales que realice el municipio.
 
 T R A N S I T O R I O S
 
@@ -478,3 +492,9 @@ P.O. 2 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1004 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1113 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY SALVAGUARDIA Y FOMENTO ARTESANAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
