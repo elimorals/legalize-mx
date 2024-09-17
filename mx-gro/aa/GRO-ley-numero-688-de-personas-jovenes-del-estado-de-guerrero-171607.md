@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-688-de-personas-jovenes-del-estado-de-guerrero-17160
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-20"
-last_updated: "2024-02-20"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 688 DE PERSONAS JÓVENES DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance I a la Edición No. 15 del Periódico Oficial del Estado de Guerrero, el martes 20 de Febrero de 2024.
 
@@ -283,7 +283,9 @@ I. Lograr que los jóvenes puedan adquirir conocimientos prácticos sin suspende
 
 II. Consolidar su incorporación a la actividad económica mediante una ocupación específica y formal, promoviendo su contratación en el sector público o privado.
 
-III. Establecer mecanismos para garantizar los derechos de las personas jóvenes en el área laboral, sin menospreciar su condición social, económica, su religión, opinión, raza, color, sexo, edad, orientación sexual y lengua. La primera experiencia laboral se entenderá como el proceso de integración de los jóvenes de 14 a 29 años de edad al mercado laboral, el cual permitirá a la persona joven participar en procesos de capacitación y formación laboral articulados con el proceso de la educación formal. Los lineamientos deberán establecerse en términos de lo estipulado en el artículo anterior.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+III. Establecer mecanismos para garantizar los derechos de las personas jóvenes en el área laboral, sin menospreciar su condición social, económica, su religión, opinión, raza, color, sexo, edad, orientación sexual y lengua. La primera experiencia laboral se entenderá como el proceso de integración de los jóvenes de 18 a 29 años de edad al mercado laboral, el cual permitirá a la persona joven participar en procesos de capacitación y formación laboral articulados con el proceso de la educación formal. Los lineamientos deberán establecerse en términos de lo estipulado en el artículo anterior.
 
 ###### Artículo 18.
 
@@ -1021,6 +1023,8 @@ La Secretaría de la Juventud y la niñez deberá contar con los recursos humano
 
 ### CAPÍTULO VIII. DE LAS SANCIONES APLICABLES A LOS SERVIDORES PÚBLICOS RESPONSABLES DE APLICAR LA PRESENTE LEY
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 107.
 
 El Consejo Estatal de la Juventud es una instancia de colaboración, concurrencia, coordinación y apoyo interinstitucional, que tiene por objeto coordinar, ejecutar, promover, apoyar y conjuntar esfuerzos, recursos, políticas, programas, servicios y acciones a favor de los jóvenes, que coadyuvará con el Ejecutivo y los municipios en el cumplimiento del objeto y políticas establecidas en esta Ley.
@@ -1225,7 +1229,7 @@ f) Las demás necesarias, dentro de su ámbito de competencia, para el cumplimie
 
 ###### Artículo 114.
 
-Los servidores públicos del Estado de Guerrero serán responsables por todo acto u omisión que viole, infrinja, incumpla o contraríe las disposiciones de esta Ley, y la Ley Federal de Responsabilidades de los Servidores Públicos.
+Los servidores públicos del Estado de Guerrero serán responsables por todo acto u omisión que viole, infrinja, incumpla o contraríe las disposiciones de esta Ley, y la Ley No. 465 de Responsabilidades Administrativas para el Estado de Guerrero.
 
 ###### Artículo 115.
 
@@ -1280,3 +1284,15 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 MTRO. LUDWIG MARCIAL REYNOSO NÚÑEZ.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 862 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 688 DE PERSONAS JÓVENES DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase este Decreto a la Titular del Poder Ejecutivo para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado en los redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
