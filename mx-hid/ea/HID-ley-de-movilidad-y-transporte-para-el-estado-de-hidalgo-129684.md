@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2024-08-20"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -55,9 +55,11 @@ Artículo Único.- Se expide la LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE 
 
 ### CAPÍTULO I. ÁMBITO DE APLICACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general, su observancia y aplicación es de carácter general y obligatorio en el Territorio del Estado, y tiene por objeto establecer las bases y directrices para planificar, regular y gestionar la movilidad de las personas, bienes y mercancías por medios terrestres, así como registrar y regular el Servicio de Transporte y los Servicios Auxiliares y Conexos que operan en las vías públicas de competencia estatal.
+La presente Ley es de orden público e interés general, su observancia y aplicación es de carácter general y obligatorio en el Territorio del Estado, y tiene por objeto establecer las bases y directrices para garantizar que toda persona tenga derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad, así como para planificar, regular y gestionar la movilidad de las personas, bienes y mercancías por medios terrestres, así como registrar y regular el Servicio de Transporte y los Servicios Auxiliares y Conexos que operan en las vías públicas de competencia estatal.
 
 > <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3273,9 +3275,13 @@ VI. Se sancionará con multa de ciento setenta hasta doscientas cincuenta veces 
 
 VII. Se sancionará con multa de ciento setenta hasta doscientas cincuenta veces la Unidad de Medida y Actualización, al momento de cometer la infracción, independientemente de que se proceda a la detención y aseguramiento del vehículo, a quien conduzca vehículos del Servicio de Transporte, bajo los influjos de bebidas alcohólicas, enervantes o de cualquier otra sustancia tóxica, se impondrá la revocación del Tarjetón y la suspensión hasta por un año en el derecho de servir como conductor de vehículos del Servicio de Transporte y, si el infractor es el propio concesionario o permisionario, se incrementará la sanción en un cincuenta por ciento y se revocará de pleno derecho la concesión o permiso correspondiente;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. A quien de cualquier forma altere las tarifas, itinerarios y horarios o los modifique de cualquier forma o, a quien transgreda las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores, se le impondrá multa por el importe de cien hasta doscientas veces la Unidad de Medida y Actualización, al momento de cometer la infracción. Tratándose de personas permisionarias del servicio de arrastre o arrastre y salvamento, o de los empleados o trabajadores de éstas, se aumentará la multa hasta en 30 veces la Unidad de Medida y Actualización, al momento de cometer la infracción;
+VIII. A quien de cualquier forma altere las tarifas, itinerarios y horarios o los modifique de cualquier forma o, a quien transgreda las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores se le impondrá multa por el importe de ochenta y cinco hasta ciento treinta veces la Unidad de Medida y Actualización, al momento de cometer la infracción.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Si se trata de un prestador de servicio de transporte privado de arrastre, arrastre y salvamento, y depósito vehicular que no se sujete a las tarifas correspondientes, se le impondrá multa por el importe de seiscientas cincuenta hasta mil veces la Unidad de Medida y Actualización, al momento de cometer la infracción;
 
 IX. A quien transgreda de cualquier manera las condiciones de prestación del servicio, siendo responsables solidarios los concesionarios o permisionarios por los actos de sus empleados o trabajadores, se le impondrá multa por el importe de ochenta y cinco hasta ciento treinta veces la Unidad de Medida y Actualización, al momento de cometer la infracción;
 
@@ -3528,3 +3534,15 @@ P.O. 20 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1025 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1073 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VIII DEL ARTÍCULO 289 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1100 POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO, DEL ARTÍCULO 1, DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
