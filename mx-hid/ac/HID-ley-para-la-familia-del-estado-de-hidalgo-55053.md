@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-familia-del-estado-de-hidalgo-55053"
 country: "mx"
 rank: "ley"
 publication_date: "2007-04-09"
-last_updated: "2024-06-18"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 9 de abril de 2007.
 
@@ -2915,6 +2915,12 @@ El Oficial del Registro del Estado Familiar hará la anotación correspondiente 
 
 Las declaraciones de nacimiento se harán presentando al menor ante el Oficial del Registro del Estado Familiar, en su oficina o en el lugar donde aquél hubiere nacido.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 413 Bis.
+
+El Estado garantizará a toda persona el derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Registro del Estado Familiar y las autoridades municipales exentarán de cobro el derecho por el registro de nacimiento, expedirán gratuitamente la primera copia certificada del acta de nacimiento.
+
 ###### Artículo 414.
 
 Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos, a falta de éstos, los abuelos paternos o maternos, indistintamente, dentro de los cuarenta días siguientes a la fecha en que ocurrió aquél.
@@ -3588,3 +3594,13 @@ P.O. 18 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 993 POR EL QUE SE REFORMA EL ARTÍCULO 143 DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NUM. 1078 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Registro del Estado Familiar del Estado de Hidalgo deberá en un plazo de 60 sesenta días naturales armonizar su reglamento con el presente decreto.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
