@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2024-08-20"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -127,11 +127,15 @@ Para el cumplimiento del objeto de esta Ley, el Ejecutivo Estatal por sí mismo 
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 17 DE MAYO DE 2024)</small>
+I.- Accesibilidad: Condición que deben cumplir los entornos para que permitan a cualquier persona con discapacidad entrar, desplazarse, salir, orientarse, ser atendido y comunicarse de manera segura, autónoma y cómoda en los espacios de uso público.
 
-I Bis.- Astroturismo: Turismo que integra un conjunto de actividades lúdico-recreativas relacionadas con el acceso y disfrute de la astronomía en zonas naturales libres de contaminación atmosférica y lumínica del estado.
+I Bis.- Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I Ter.- Astroturismo: Turismo que integra un conjunto de actividades lúdico-recreativas relacionadas con el acceso y disfrute de la astronomía en zonas naturales libres de contaminación atmosférica y lumínica del estado;
 
 II.- Atlas Turístico de México: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 
@@ -1191,6 +1195,14 @@ XI.- Acatar las normas sanitarias y de higiene en los atractivos, Regiones, Dest
 
 XII.- Las demás que establezca la legislación aplicable en la materia.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 75 Bis.
+
+Los prestadores de servicios turísticos emplearán el español en los anuncios, propaganda y leyendas en los que ofrezcan los servicios, pudiendo también hacer uso de otros idiomas regionales y extranjeros.
+
+Así mismo, procurarán establecer las acciones necesarias para brindar información respecto de los servicios que se prestan en la Lengua de Señas Mexicana de Escritura Braille.
+
 > <small>(REFORMADO, P.O. 18 DE JUNIO DE 2024)</small>
 
 ###### Artículo 76.
@@ -1466,3 +1478,9 @@ P.O. 20 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1017 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DE LOS ARTÍCULOS 5 Y 46 DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1103 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
