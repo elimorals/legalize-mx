@@ -4,7 +4,7 @@ identifier: "HID-ley-de-mecanismos-alternativos-de-solucion-de-controversias-957
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-02"
-last_updated: "2024-03-15"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 2 de septiembre de 2013.
 
@@ -135,9 +135,21 @@ V.- Flexibilidad: El procedimiento prescindirá de formalidades o lineamientos e
 
 VI.- Honestidad: El facilitador deberá conducirse con probidad y rectitud en el ejercicio de sus funciones;
 
-VII.- Legalidad: Sólo pueden ser objeto de mediación y conciliación, los casos expresamente autorizados por la Ley; y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VIII.- Neutralidad: El facilitador deberá tratar el asunto con objetividad y evitar juicios, opiniones y prejuicios que puedan influir en la toma de las decisiones de los interesados.
+VII.- Legalidad: Sólo pueden ser objeto de mediación y conciliación, los casos expresamente autorizados por la Ley;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VIII.- Neutralidad: El facilitador deberá tratar el asunto con objetividad y evitar juicios, opiniones y prejuicios que puedan influir en la toma de las decisiones de los interesados;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IX.- Buena fe: Implica que las partes, en un procedimiento de Mecanismos Alternativos de Solución de Controversias, participen con probidad y honradez, libres de vicios, dolo, defectos y sin intención de engañar; y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+X.- Interés superior del menor: Criterio de interpretación que implica que el ejercicio pleno de los derechos de los menores debe ser considerado como rector en los procedimientos de Mecanismos Alternativos de Solución de Controversias.
 
 ###### Artículo 5.
 
@@ -866,3 +878,9 @@ P.O. 15 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 803 QUE ADICIONA LA FRACCIÓN VII BIS DEL ARTÍCULO 3, LA FRACCIÓN VI BIS DEL ARTÍCULO 13 Y LA FRACCIÓN IV BIS DEL ARTÍCULO 45, Y REFORMA LA FRACCIÓN XII DEL ARTÍCULO 3, EL ARTÍCULO 63 Y LA FRACCIÓN II DEL ARTÍCULO 70 DE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1104 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 4 DE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
