@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-preservacion-del-ambiente-del-16355"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-08"
-last_updated: "2021-11-23"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 8 de febrero de 2000.
 
@@ -401,7 +401,11 @@ XVI.- Integrar y mantener actualizado el inventario de fuentes fijas de contamin
 
 XVII.- Proponer al Ejecutivo del Estado la celebración de acuerdos y convenios para el establecimiento de programas que permitan el ahorro de energía y su utilización eficiente, conforme a los principios establecidos en la presente Ley; y
 
-XVIII.- Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII.- Declarar la contingencia ambiental en coordinación con el Comité Técnico de Contingencias cuando los niveles de contaminación ambiental representen un riesgo para la población de acuerdo a los límites máximos permisibles fijados por las Normas Oficiales Mexicanas, así como dictar las medidas y acciones que deberán llevarse a cabo en caso de una contingencia; y
+
+XIX.- Las demás que le otorgue esta Ley y otras disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2012)</small>
 
@@ -2610,3 +2614,11 @@ Para todos los efectos legales correspondientes, las referencias al Instituto de
 Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos para la asignación de recursos presupuestales a las secretarías de Desarrollo Social y Humano; y de Infraestructura, Conectividad y Movilidad para su adecuada operación. En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
 
 Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega-Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 342 MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 8 REUBICANDO EL CONTENIDO DE LA FRACCIÓN XVIII EN LA XIX DE LA LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
