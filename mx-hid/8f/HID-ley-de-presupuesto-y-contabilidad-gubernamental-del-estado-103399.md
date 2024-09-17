@@ -4,7 +4,7 @@ identifier: "HID-ley-de-presupuesto-y-contabilidad-gubernamental-del-estado-1033
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-27"
-last_updated: "2023-10-05"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de octubre de 2014.
 
@@ -1651,6 +1651,14 @@ Los ejecutores de gasto, en el manejo de los recursos públicos estatales, deber
 
 Los ejecutores de gasto deberán remitir al Congreso del Estado la información que éste les solicite en relación con sus respectivos presupuestos, en los términos de las disposiciones generales aplicables.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Dicha Solicitud se realizará por la Junta de Gobierno del Congreso del Estado de Hidalgo o por las comisiones competentes.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+El incumplimiento a lo dispuesto en este artículo será sancionado en los términos de la Ley de Responsabilidades Administrativas del Estado de Hidalgo y las demás disposiciones aplicables.
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2018)</small>
 
 ###### Artículo 92.
@@ -1864,6 +1872,14 @@ TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 5 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 585 POR EL CUAL SE REFORMA LA FRACCIÓN LIX DEL ARTÍCULO 2 DE LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1091 POR EL CUAL SE ADICIONA UN TERCER Y CUARTO PÁRRAFO AL ARTICULO 91 DE LA LEY DE PRESUPUESTO Y CONTABILIDAD GUBERNAMENTAL DEL ESTADO DE HIDALGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
