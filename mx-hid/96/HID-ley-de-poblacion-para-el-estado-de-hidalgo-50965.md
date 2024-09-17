@@ -4,7 +4,7 @@ identifier: "HID-ley-de-poblacion-para-el-estado-de-hidalgo-50965"
 country: "mx"
 rank: "ley"
 publication_date: "2006-07-03"
-last_updated: "2024-05-30"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 3 de julio de 2006.
 
@@ -238,6 +238,14 @@ El CONSEJO elaborará, en coordinación con el Consejo Nacional de Población, e
 El Programa Estatal de Población, los programas sectoriales y especiales, que de éste se deriven a cargo de las dependencias y Entidades Estatales y los Ayuntamientos, en materia de Población, deberán contemplar:
 
 I.- Los mecanismos para su seguimiento y evaluación;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I Bis.- El establecimiento de objetivos y metas relacionadas con el crecimiento poblacional, la distribución de la población, la natalidad, la migración, la mortalidad y la atención a grupos vulnerables entre otros aspectos relevantes;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I Ter.- Las políticas y estrategias para hacer frente a los desafíos demográficos identificados en el Estado y los Municipios;
 
 II.- Los canales de participación ciudadana, para la integración y aplicación de las políticas públicas en la materia;
 
@@ -594,3 +602,9 @@ P.O. 30 DE MAYO DE 2024.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1106 POR EL QUE SE ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 14 DE LA LEY DE POBLACIÓN PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
