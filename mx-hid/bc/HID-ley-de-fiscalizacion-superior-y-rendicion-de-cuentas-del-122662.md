@@ -4,7 +4,7 @@ identifier: "HID-ley-de-fiscalizacion-superior-y-rendicion-de-cuentas-del-122662
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-10"
-last_updated: "2023-03-31"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
 
@@ -1015,29 +1015,43 @@ La Auditoría Superior contará con un Servicio Profesional de Carrera, dirigido
 
 ### Capítulo II. De la vigilancia de la Auditoría Superior
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 82.
 
-La Auditoría Superior contará, dentro de su estructura orgánica, con un Órgano Interno de Control, que se encargará de vigilar el cumplimiento de las funciones a cargo de los servidores públicos, sujetándose a lo establecido en la legislación en materia de Responsabilidades Administrativas y demás disposiciones legales aplicables.
+La Auditoría Superior contará, dentro de su estructura orgánica, con un Órgano Interno de Control, que se encargará de vigilar el cumplimiento de las funciones a cargo de las personas servidoras públicas, sujetándose a lo establecido en la legislación en materia de Responsabilidades Administrativas y demás disposiciones legales aplicables.
 
-El Titular del Órgano Interno de Control será designado por el Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso del Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+La persona titular del Órgano Interno de Control será designada por el Congreso del Estado, con el voto de las dos terceras partes de sus Diputadas y Diputados presentes, conforme al procedimiento establecido en la Ley Orgánica del Congreso del Estado de Hidalgo.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
 
 I. Ser ciudadano hidalguense en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos el día de la designación;
 
-II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+II. Gozar de buena reputación;
 
 III. Contar al momento de su designación con una experiencia de al menos tres años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
 
 IV. Contar al día de su designación con título profesional expedido con antigüedad mínima de cinco años, relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
 
-V. Contar con reconocida solvencia moral;
+V. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Auditoría Superior o haber fungido como consultor o auditor externo de la Auditoría Superior, en lo individual durante ese periodo;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Auditoría Superior o haber prestado servicios de consultoría o auditoría externa a la Auditoría Superior, en lo individual durante ese periodo;
 
-VIII. No haber sido Gobernador, Titular de alguna Dependencia Estatal, Procurador General de Justicia del Estado, Diputado Local o Presidente Municipal, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VII. No estar inhabilitada para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. No haber sido Titular del Poder Ejecutivo, Titular de alguna Dependencia Estatal, Procurador General de Justicia del Estado, Diputada o Diputado Local o Presidenta o Presidente Municipal, dirigente, integrante de órgano rector, representante de un cargo alto ejecutivo o haber sido responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulada para cargo de elección popular en los tres años anteriores a la propia designación.
 
 ###### Artículo 83.
 
@@ -1240,3 +1254,9 @@ P.O. 31 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1094 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
