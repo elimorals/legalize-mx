@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-fomentar-el-acceso-al-financiamiento-a-las-micros-1611
 country: "mx"
 rank: "ley"
 publication_date: "2022-11-28"
-last_updated: "2022-11-28"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY PARA FOMENTAR EL ACCESO AL FINANCIAMIENTO A LAS MICROS, PEQUEÑAS Y MEDIANAS EMPRESAS EN EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SÉPTIMO TRANSITORIO DEL DECRETO LEGISLATIVO 345 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y DE LA LEY DE DERECHOS CULTURALES PARA EL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 17 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA FOMENTAR EL ACCESO AL FINANCIAMIENTO A LAS MICROS, PEQUEÑAS Y MEDIANAS EMPRESAS EN EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en la Segunda Parte del Número 236 del Periódico Oficial del Estado de Guanajuato, el lunes 28 de noviembre de 2022.
 
@@ -326,3 +328,99 @@ DIEGO SINHUE RODRÍGUEZ VALLEJO
 LA SECRETARIA DE GOBIERNO
 
 LIBIA DENNISE GARCÍA MUÑOZ LEDO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO 345 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y DE LA LEY DE DERECHOS CULTURALES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2024, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. A partir de la entrada en vigor del presente Decreto y para dar cumplimiento a la creación de las secretarías del Agua y Medio Ambiente; de Cultura; y de Derechos Humanos, la persona titular del Poder Ejecutivo expedirá y adecuará los reglamentos y demás disposiciones para el cumplimiento, en un término que no exceda de 90 días naturales. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Tercero. La Secretaría del Agua y Medio Ambiente, sustituye en su ámbito de competencia, en sus obligaciones y asume los compromisos adquiridos por la Secretaría de Medio Ambiente y Ordenamiento Territorial, y la Comisión Estatal del Agua de Guanajuato.
+
+La Secretaría de Medio Ambiente y Ordenamiento Territorial, transferirá a la Secretaría del Agua y Medio Ambiente los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+El personal de la Secretaría de Medio Ambiente y Ordenamiento Territorial pasará a integrar la Secretaría del Agua y Medio Ambiente, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+La Comisión Estatal del Agua de Guanajuato, entrará en un proceso de liquidación, para tales efectos, en un término de 10 días naturales a partir de la entrada en vigor del presente Decreto, deberá sesionar su órgano de gobierno para nombrar a un liquidador de entre su personal, el cual deberá ser ratificado, mediante oficio, por la persona titular de la Secretaría del Agua y Medio Ambiente.
+
+En el mismo plazo señalado en el párrafo anterior, el Poder Ejecutivo conformará un Comité de Extinción que generará los lineamientos para la liquidación de dicha entidad y le dará seguimiento a este proceso.
+
+El liquidador contará con las facultades para finiquitar los bienes, derechos y obligaciones de la entidad paraestatal y deberá enviar reportes mensuales de su avance al Comité señalado en el párrafo anterior. Los bienes inmuebles, asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan resultado del proceso de liquidación serán transferidos a la Secretaría del Agua y Medio Ambiente, a través de la entrega-recepción respectiva.
+
+A partir de la entrada en vigor del presente Decreto, la Comisión Estatal del Agua de Guanajuato no deberá adquirir nuevos derechos u obligaciones, correspondiéndole al liquidador llevar a cabo los actos, debiendo intervenir en las actas de entrega-recepción que se suscriban, además de los responsables en términos del Reglamento para la Entrega-Recepción para la Administración Pública Estatal.
+
+Se instalará un Comité de Estructura Administrativa por parte del Poder Ejecutivo para definir la estructura de personal de la Comisión Estatal del Agua de Guanajuato, que pasará a integrarse a la Secretaría del Agua y Medio Ambiente, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Cuando el liquidador haya transferido los bienes, derechos y obligaciones de la entidad y una vez concluida esa acción resultante de la liquidación, así como que la contabilidad se encuentre liquidada, este cesará sus funciones, debiendo presentar un informe final al Comité de Extinción.
+
+Artículo Cuarto. La Secretaría de Derechos Humanos, sustituye en su ámbito de competencia, en sus obligaciones y asume los compromisos adquiridos por la Secretaría del Migrante y Enlace Internacional.
+
+La Secretaría del Migrante y Enlace Internacional, transferirá a la Secretaría de Derechos Humanos los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través la entrega-recepción respectiva.
+
+El personal de la Secretaría del Migrante y Enlace Internacional pasará a integrar la Secretaría de Derechos Humanos, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+El personal de la Secretaría de Gobierno, que atienda los temas de derechos humanos, pasará a integrar la Secretaría de Derechos Humanos, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Artículo Quinto. La Secretaría de Cultura, sustituye en su ámbito de competencia, en todas sus obligaciones y asume los compromisos adquiridos por el Instituto Estatal de la Cultura y el Forum Cultural Guanajuato.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto Estatal de la Cultura y el Forum Cultural Guanajuato no deberán adquirir nuevos derechos u obligaciones.
+
+El personal del Instituto Estatal de la Cultura y el Forum Cultural Guanajuato, pasará a integrar la Secretaría de Cultura, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos de ambas entidades paraestatales serán transferidos a la Secretaría de Cultura mediante la entrega recepción correspondiente contando con la participación de los liquidadores designados en términos del párrafo siguiente.
+
+En el término de 10 días naturales a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno de cada una de las entidades señaladas a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado, mediante oficio, por la persona titular de la Secretaría de Cultura.
+
+En el mismo plazo señalado en el párrafo anterior, el Poder Ejecutivo conformará un Comité de Extinción por cada entidad, que generará los lineamientos para la liquidación de dichas paraestatales y le dará seguimiento.
+
+Los liquidadores contarán con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones de las entidades paraestatales correspondientes y deberán enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya transferido los bienes, derechos y obligaciones de las entidades, y que la contabilidad se encuentre liquidada, éste cesará sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Artículo Sexto. Para los efectos legales, las referencias a la Comisión Estatal de Agua de Guanajuato contenidas en decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad a la vigencia del presente Decreto, se entenderán efectuadas a la Secretaría del Agua y Medio Ambiente; y las del Instituto Estatal de la Cultura y el Forum Cultural Guanajuato, contenidas en leyes, decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de la Cultura. Las referencias a las secretarías que cambian de denominación se entenderán:
+
+Denominación actual Nueva denominación
+
+Secretaría de Finanzas, Inversión y Secretaría de Finanzas
+
+Administración
+
+Secretaría de Desarrollo Social y Secretaría del Nuevo Comienzo
+
+Humano
+
+Secretaría de Desarrollo Económico Secretaría de Economía
+
+Sustentable
+
+Secretaría de Desarrollo Agroalimentario Secretaría del Campo
+
+y Rural
+
+Secretaría de Seguridad Pública Secretaría de Seguridad y Paz
+
+Secretaría de la Transparencia y Secretaría de la Honestidad
+
+Rendición de Cuentas
+
+Secretaría de Turismo Secretaría de Turismo e Identidad
+
+Secretaría del Migrante y Enlace Secretaría de Derechos Humanos
+
+Internacional
+
+Coordinación General Jurídica Consejería Jurídica del Ejecutivo
+
+Artículo Séptimo. Se abroga la Ley para Fomentar el Acceso al Financiamiento a las Micros, Pequeñas y Medianas Empresas en el Estado de Guanajuato, contenida en el Decreto Legislativo número 106, expedido por la Sexagésima Quinta Legislatura del Congreso del Estado, publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato número 236 Segunda Parte, el 28 de noviembre de 2022.
+
+Artículo Octavo. La Consejería Jurídica del Ejecutivo, sustituye en su ámbito de competencia, en las obligaciones y asume los compromisos adquiridos por la Coordinación General Jurídica. El personal de la Coordinación General Jurídica pasará a integrar Consejería Jurídica del Ejecutivo, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales o partir de la entrada en vigor del presente Decreto.
+
+Artículo Noveno. El personal de la Jefatura de Gabinete del Poder Ejecutivo del Estado de Guanajuato podrá ser reubicado en otras áreas de Gobierno del Estado de acuerdo a sus perfiles y funciones, sin menoscabo de los derechos adquiridos de los trabajadores, de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+A partir de la entrada en vigor del presente Decreto, la Jefatura de Gabinete del Poder Ejecutivo no deberá adquirir nuevos derechos u obligaciones, correspondiéndole llevar a cabo todos los actos respectivos, debiendo intervenir en las actas de entrega-recepción que se suscriban, además de los responsables en términos del Reglamento de Entrega-Recepción para la Administración Pública Estatal.
+
+Artículo Décimo. El Congreso del Estado Libre y Soberano de Guanajuato deberá, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones a las leyes para armonizar el marco jurídico estatal con las reformas establecidas en el presente Decreto que reforma la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
