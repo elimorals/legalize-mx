@@ -4,7 +4,7 @@ identifier: "HID-codigo-electoral-del-estado-de-hidalgo-104970"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-22"
-last_updated: "2024-07-02"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Código publicado en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -1739,13 +1739,15 @@ XXII. Dictar los acuerdos y resoluciones que correspondan en términos de la leg
 
 XXIII. Las que le señale la legislación en materia de responsabilidades administrativas y demás atribuciones que le confieran otros ordenamientos.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 72.
 
-El titular del Órgano Interno de Control deberá reunir los mismos requisitos que este Código establece para los directores ejecutivos del Instituto Estatal Electoral, y los siguientes:
+La persona titular del Órgano Interno de Control deberá reunir los mismos requisitos que este Código establece para las personas directoras ejecutivas del Instituto Estatal Electoral, y los siguientes:
 
-I. No ser consejero electoral de cualquiera de los consejos del Instituto Estatal Electoral, salvo que se haya separado del cargo tres años antes del día de la designación;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I. No ser consejera o consejero electoral de cualquiera de los consejos del Instituto Estatal Electoral, salvo que se haya separado del cargo tres años antes del día de la designación;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 22 DE AGOSTO DE 2023)</small>
 
@@ -7304,5 +7306,11 @@ SEGUNDO. A partir de la entrada en vigor del presente Decreto, se derogan todas 
 P.O. 2 DE JULIO DE 2024.
 
 ## [N. DE E. TRANSITORIO DE “DECRETO NÚMERO 999 POR EL QUE SE REFORMA EL ARTÍCULO 118 DEL CÓDIGO ELECTORAL PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1094 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
