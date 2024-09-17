@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-sistema-de-transporte-colectivo-159821"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-08-24"
-last_updated: "2022-08-24"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159821&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,49 +20,31 @@ issue_date: "2022-07-22"
 ---
 # ESTATUTO ORGANICO DEL SISTEMA DE TRANSPORTE COLECTIVO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL “AVISO POR EL QUE SE DA A CONOCER DE FORMA INTEGRA EL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO VIGENTE A PARTIR DEL 29 DE AGOSTO DE 2022” PUBLICADO EN LA G.O. 17 DE SEPTIEMBRE DE 2024, SE DEJA SIN EFECTOS EL ENLACE ELECTRÓNICO MEDIANTE EL CUAL SE ACCEDE AL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO, PUBLICADO EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 24 DE AGOSTO DE 2022, SIN QUE DICHO AVISO AFECTE LA VIGENCIA DEL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO.]</small>
+
 ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO, DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
 
-Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 24 de agosto de 2022.
+Estatuto publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 24 de agosto de 2022. (REPUBLICACIÓN ACTUALIZADA EN LA G.O. 17 DE SEPTIEMBRE DE 2024.)
 
-Ing. Guillermo Calderón Aguilera, Director General del Organismo Público Descentralizado Sistema de Transporte Colectivo, con fundamento en los artículos 44, fracción I, 45, 50, 51, 52, 73, fracción VIII, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; 4 y 6 inciso g) del Decreto de Creación del Sistema de Transporte Colectivo; el H. Consejo de Administración del Organismo Público Descentralizado de la Administración Pública Paraestatal de la Ciudad de México, denominado Sistema de Transporte Colectivo, mediante Acuerdo No. VI-EXT- 2022-II-1 correspondiente a su Sexta Sesión Extraordinaria de 2022, celebrada el 11 de agosto de 2022, aprobó abrogar el Estatuto Orgánico, para crear uno nuevo, con objeto de adecuarlo a las Leyes aplicables en la materia, para quedar de la siguiente forma:
-
-CONSIDERANDO
-
-Que es atribución del Órgano de Gobierno del Sistema de Transporte Colectivo aprobar la estructura básica de la organización del Organismo y las modificaciones que procedan a la misma, el Estatuto Orgánico y el Manual Administrativo, así como los reglamentos que requiera la operación de la Entidad.
-
-Que es atribución del Director General del Sistema de Transporte Colectivo ejecutar los Acuerdos y resoluciones del Órgano de Gobierno, así como la expedición del Manual Administrativo del Sistema de Transporte Colectivo, a fin de que las funciones asignadas a las distintas áreas del Organismo se realicen de manera congruente y eficaz.
-
-Por lo anterior, he tenido a bien expedir el siguiente:
-
-"AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO PARA CONSULTAR EL NUEVO ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPOR COLECTIVO Y SE ABROGA EL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, EL 6 DE NOVIEMBRE DEL 2007, Y EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 6 DE JULIO DE 2018".
-
-Único.- Se da a conocer el enlace electrónico para consultar el Estatuto Orgánico del Sistema de Transporte Colectivo, mismo que se encuentra disponible para su consulta en la página electrónica:
-
-https://www.metro.cdmx.gob.mx/organismo/marco-normativo/estatuto-de-stc
+ÚNICO. Se da a conocer de forma íntegra el Estatuto Orgánico del Sistema de Transporte Colectivo vigente desde el 29 de agosto de 2022, mismo que forma parte del presente Aviso.
 
 ## TRANSITORIOS
 
-PRIMERO.- Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
-SEGUNDO.- El presente Aviso entrará en vigor el día veintinueve de agosto del año en curso.
+SEGUNDO. Se deja sin efectos el enlace electrónico mediante el cual se accede al Estatuto Orgánico del Sistema de Transporte Colectivo, publicado en la Gaceta Oficial de la Ciudad de México el 24 de agosto de 2022, sin que el presente Aviso afecte la vigencia del Estatuto Orgánico del Sistema de Transporte Colectivo.
 
-TERCERO.- Los responsables del enlace electrónico es Dr. Silvano Soto Hernández, con el cargo de Encargado de Despacho de la Coordinación de Comunicación y Lic. Juan Cienfuegos Hernández, operador del sitio web del Sistema de Transporte Colectivo, teléfono 555709.1133 ext. 4647.
-
-Ciudad de México, a veintidós de agosto de 2022.
-
-EL DIRECTOR GENERAL DEL SISTEMA DE TRANSPORTE COLETIVO
+Ciudad de México, a 10 de septiembre de 2024
 
 (Firma)
 
 ING. GUILLERMO CALDERÓN AGUILERA
 
-ORGANISMOS DECENTRALIZADOS
+DIRECTOR GENERAL DEL SISTEMA DE TRANSPORTE COLECTIVO
 
-SISTEMA DE TRANSPORTE COLECTIVO
-
-Ing. Guillermo Calderón Aguilera, Director General del Organismo Público Descentralizado Sistema de Transporte Colectivo, con fundamento en los artículos 44, fracción I, 45, 50, 51, 52, 73, fracción VIII, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; 4 y 6 inciso g) del Decreto de Creación del Sistema de Transporte Colectivo; el H. Consejo de Administración del Organismo Público Descentralizado de la Administración Pública Paraestatal de la Ciudad de México, denominado Sistema de Transporte Colectivo, mediante Acuerdo No. V-EXT-2022-II-2 correspondiente a su QUINTA Sesión Extraordinaria de 2022, celebrada el 18 de julio de 2022, aprobó abrogar el Estatuto Orgánico, para crear uno nuevo, con objeto de adecuarlo a las Leyes aplicables en la materia, para quedar de la siguiente forma:
+Ing. Guillermo Calderón Aguilera, Director General del Organismo Público Descentralizado Sistema de Transporte Colectivo, con fundamento en los artículos 44, fracción I, 45, 50, 51, 52, 73, fracción VIII, de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; 4 y 6 inciso g) del Decreto de Creación del Sistema de Transporte Colectivo; el H. Consejo de Administración del Organismo Público Descentralizado de la Administración Pública Paraestatal de la Ciudad de México, denominado Sistema de Transporte Colectivo, mediante Acuerdo No. VI-EXT2022-II-1 correspondiente a su Sexta Sesión Extraordinaria de 2022, celebrada el 11 de agosto de 2022, aprobó abrogar el Estatuto Orgánico, para crear uno nuevo, con objeto de adecuarlo a las Leyes aplicables en la materia, para quedar de la siguiente forma:
 
 AVISO POR EL QUE SE EXPIDE EL NUEVO ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO Y SE ABROGA EL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, EL 6 DE NOVIEMBRE DEL 2007, Y EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 6 DE JULIO DE 2018.
 
@@ -78,7 +60,7 @@ C O N T E N I D O
 
 ### CAPÍTULO CUARTO. DEL COMITÉ DE ADMINISTRACIÓN DE RIESGOS Y EVALUACIÓN DE CONTROL INTERNO INSTITUCIONAL DEL SISTEMA DE TRANSPORTE COLECTIVO (CARECIISTC)
 
-### CAPÍTULO QUINTO. DE LAS DE LAS (SIC) FACULTADES Y OBLIGACIONES GENERALES DE LAS SUBDIRECCIONES GENERALES
+### CAPÍTULO QUINTO. DE LAS FACULTADES Y OBLIGACIONES GENERALES DE LAS SUBDIRECCIONES GENERALES
 
 ### CAPÍTULO SEXTO. DE LAS FACULTADES Y OBLIGACIONES DE LAS UNIDADES ADMINISTRATIVAS.
 
@@ -2072,9 +2054,11 @@ XVI. Las demás afines a las que anteceden, y que le encomiende la Dirección de
 
 El Órgano Interno de Control en el Sistema de Transporte Colectivo estará adscrito jerárquica, técnica y funcionalmente a la Secretaría de la Contraloría General, y tendrá a su cargo las actividades relativas al control y evaluación de la gestión pública del organismo, conforme a la normatividad correspondiente y a los Lineamientos que emita la Secretaría de la Contraloría General, de acuerdo a lo dispuesto por el artículo 53 de la Ley.
 
+> <small>[N. DE E. ACTUALIZADO G.O. 17 DE SEPTIEMBRE DE 2024.]</small>
+
 ###### Artículo 68.
 
-Corresponde al Órgano Interno de Control en el Sistema de Transporte Colectivo, adscrito a la Secretaria de la Contraloría General, en el ámbito de su competencia, las siguientes atribuciones:
+Corresponde al Órgano Interno de Control en el Sistema de Transporte Colectivo, adscrito a la Secretaría de la Contraloría General, en el ámbito de su competencia, las siguientes atribuciones:
 
 I. Elaborar y presentar el proyecto de programas anuales de Auditoría y de Control Interno atendiendo a las disposiciones jurídicas y administrativas aplicables;
 
@@ -2152,9 +2136,11 @@ XXXVII. Las demás que le instruya la persona titular de la Secretaria de la Con
 
 ### CAPÍTULO SÉPTIMO. DE LA COMISIÓN INTERNA DE ADMINISTRACIÓN Y PROGRAMACIÓN
 
+> <small>[N. DE E. ACTUALIZADO G.O. 17 DE SEPTIEMBRE DE 2024.]</small>
+
 ###### Artículo 69.
 
-Integración de la Comisión. La Comisión Interna de Administración y Programación de la Entidad, se integrará por la Dirección General quien la presidirá, por las Subdirecciones Generales de Operación, de Mantenimiento y de Administración y Finanzas; así como por las Direcciones de Medios, de Transportación, de Ingeniería y Desarrollo Tecnológico, de Mantenimiento de Material Rodante, de Administración de Personal, de Recursos Materiales y Servicios Generales, de Finanzas, el Órgano Interno de Control y las Gerencias que designe la propia Dirección General.
+Integración de la Comisión. La Comisión Interna de Administración y Programación de la Entidad, se integrará por la Dirección General quien la presidirá, por las Subdirecciones Generales de Operación, de Mantenimiento y de Administración y Finanzas; así como por las Direcciones de Medios, de Transportación, de Ingeniería y Desarrollo Tecnológico, de Mantenimiento de Material Rodante, de Administración de Capital Humano, de Recursos Materiales y Servicios Generales, de Finanzas, el Órgano Interno de Control y las Gerencias que designe la propia Dirección General.
 
 La Dirección General designará a la Secretaría Técnica de la Comisión.
 
@@ -2198,14 +2184,38 @@ V. Las personas titulares de las Subdirecciones, Subgerencias y Coordinaciones, 
 
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
-SEGUNDO. El presente Estatuto Orgánico del Sistema de Transporte Colectivo entrará en vigor al siguiente día de su publicación.
+SEGUNDO. El presente Estatuto Orgánico del Sistema de Transporte Colectivo entrará en vigor el día 29 de agosto de 2022.
 
 TERCERO. Se derogan todas aquellas disposiciones que se opongan a lo previsto en el presente Estatuto Orgánico del Sistema de Transporte Colectivo.
 
-Ciudad de México, a XX de XXX de dos mil veintidós
+Ciudad de México, a 22 de agosto de dos mil veintidós.
 
 (Firma)
 
 ING. GUILLERMO CALDERÓN AGUILERA
 
 DIRECTOR GENERAL DEL SISTEMA DE TRANSPORTE COLECTIVO
+
+G.O. 17 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL “AVISO POR EL QUE SE DA A CONOCER DE FORMA INTEGRA EL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO VIGENTE A PARTIR DEL 29 DE AGOSTO DE 2022”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Ing. Guillermo Calderón Aguilera, Director General del Organismo Público Descentralizado Sistema de Transporte Colectivo, con fundamento en los artículos 44 fracción I, 45, 50, 52 y 74 fracción XX de la Ley Orgánica del Poder Ejecutivo y de la Administración Pública de la Ciudad de México; 24, fracción I del Estatuto Orgánico del Sistema de Transporte Colectivo, y:
+
+CONSIDERANDO
+
+Que es atribución del Órgano de Gobierno del Sistema de Transporte Colectivo aprobar la estructura básica de la organización del Organismo y las modificaciones que procedan a la misma, el Estatuto Orgánico y el Manual Administrativo, así como los reglamentos que requiera la operación de la Entidad.
+
+Que el 24 de agosto de 2022, se publicó en la Gaceta Oficial de la Ciudad de México, No. 923, el "AVISO POR EL QUE SE DA A CONOCER EL ENLACE ELECTRÓNICO PARA CONSULTAR EL NUEVO ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO Y SE ABROGA EL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, EL 6 DE NOVIEMBRE DEL 2007, Y EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, EL 6 DE JULIO DE 2018"
+
+Que el 29 de agosto de 2024, se llevó a cabo la publicación en la Gaceta Oficial de la Ciudad de México, de los Lineamientos para regular las publicaciones en la Gaceta Oficial de la Ciudad de México, en la cual, en el apartado de "CONSIDERANDO" se hace referencia, a la viabilidad de dar a conocer de manera impresa e íntegra las disposiciones normativas; al respecto, atendiendo al principio de publicidad, que permite a los ciudadanos conocer el contenido de tales disposiciones; he tenido a bien expedir el siguiente:
+
+AVISO POR EL QUE SE DA A CONOCER DE FORMA INTEGRA EL ESTATUTO ORGÁNICO DEL SISTEMA DE TRANSPORTE COLECTIVO VIGENTE A PARTIR DEL 29 DE AGOSTO DE 2022.
+
+ÚNICO. Se da a conocer de forma íntegra el Estatuto Orgánico del Sistema de Transporte Colectivo vigente desde el 29 de agosto de 2022, mismo que forma parte del presente Aviso.
+
+## TRANSITORIOS
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. Se deja sin efectos el enlace electrónico mediante el cual se accede al Estatuto Orgánico del Sistema de Transporte Colectivo, publicado en la Gaceta Oficial de la Ciudad de México el 24 de agosto de 2022, sin que el presente Aviso afecte la vigencia del Estatuto Orgánico del Sistema de Transporte Colectivo.
