@@ -4,7 +4,7 @@ identifier: "HID-ley-para-la-proteccion-al-ambiente-del-estado-de-hidalgo-106215
 country: "mx"
 rank: "ley"
 publication_date: "2015-02-16"
-last_updated: "2024-08-20"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Hidalgo, el lunes 16 de febrero de 2015.
 
@@ -150,6 +150,10 @@ XVII. CONTAMINACIÓN VISUAL: Alteración de la naturaleza de un paisaje natural 
 XVIII. CONTAMINANTE: Toda materia o energía en cualquiera de sus estados físicos y formas, que al incorporarse o actuar en el medio ambiente, altere o modifique su composición y condición natural;
 
 XIX. CONTINGENCIA AMBIENTAL: Situación de riesgo derivada de actividades humanas o fenómenos naturales, que puede poner en peligro la integridad de uno o varios ecosistemas;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XIX Bis. CORREDORES BIOCULTURALES: Los Corredores Bioculturales se centran en la interconexión de ecosistemas y la restauración de sus funciones biológicas y culturales originales como vías de intercambio biológico y cultural.
 
 XX. CUENCA ATMOSFÉRICA: Bien del dominio público, donde se permite la emisión de contaminantes por fuentes fijas y móviles dentro de los límites máximos permisibles establecidos en la legislación aplicable, por lo que debido a los impactos en la salud, recursos naturales y calidad de vida de los habitantes, se deberán cubrir los derechos correspondientes por su uso con base en la cantidad de toneladas emitidas anualmente a la atmosfera;
 
@@ -534,6 +538,10 @@ VII. La aplicación de las disposiciones jurídicas en materia de prevención y 
 VIII. La aplicación de las disposiciones jurídicas relativas a la prevención y control de los efectos sobre el ambiente ocasionados por la generación, transporte, almacenamiento, manejo, tratamiento y disposición final de los residuos sólidos urbanos;
 
 IX. La autorización y regulación del manejo y disposición final de los residuos sólidos urbanos, en concordancia con la normatividad ambiental federal, la presente Ley, la Ley de Prevención y Gestión Integral de Residuos del Estado de Hidalgo y su respectivo reglamento, las normas técnicas ecológicas estatales y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IX Bis. La celebración de convenios con los sectores público y privado, para el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía.
 
 X. La participación en la creación y administración de las áreas naturales protegidas de jurisdicción estatal;
 
@@ -1297,6 +1305,10 @@ II. La organización de actividades culturales con los diferentes sistemas educa
 
 La Secretaría contará con un Departamento de Educación Ambiental, encargado de integrar el Programa Estatal de Educación Ambiental y promover la cultura ecológica en la Entidad.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+La Secretaría promoverá en los estudiantes de los niveles básico y medio, una mejor convivencia ciudadana, fomentando el cuidado, preservación y protección del medio ambiente, en especial tratándose de los animales.
+
 ###### Artículo 53.
 
 La Secretaría contará con un Centro de Información y Documentación del Medio Ambiente, donde se integrará el Registro de Investigaciones y Estudios Ambientales.
@@ -1723,6 +1735,20 @@ VIII. Proteger las cuencas, subcuencas y microcuencas que se encuentren dentro d
 
 IX. Proteger los entornos naturales de monumentos y vestigios arqueológicos, históricos y artísticos, así como zonas turísticas, y otras áreas de importancia para la recreación, la cultura e identidad de la región y de los pueblos indígenas.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 85 Bis.
+
+Establecer otras Medidas Efectivas de Conservación del capital natural y cultural del estado de Hidalgo, distintas a las Áreas Naturales Protegidas de competencia federal y estatal, que cuenten con zonas geográficamente bien definida (sic) y, que requieran ser conservadas y restauradas.
+
+Los propietarios, poseedores o titulares de derechos sobre tierras, aguas y demás bienes comprendidos dentro de estas áreas, quedaran sujetas al régimen de protección, previsto en esta Ley, su reglamento en la materia y los demás ordenamientos aplicables, asimismo, deberán dar cumplimiento a las restricciones, autorizaciones, permisos, condicionantes, licencias u otros derechos y obligaciones que, establezcan los diferentes ordenamientos vigentes en la materia.
+
+Se consideran otras Medidas Efectivas de Conservación (MEC), las siguientes:
+
+I. Corredores Bioculturales.
+
+II. Geoparques.
+
 #### SECCIÓN PRIMERA. CARACTERÍSTICAS Y ZONIFICACIÓN DE LAS ÁREAS NATURALES PROTEGIDAS
 
 ###### Artículo 86.
@@ -2021,9 +2047,17 @@ I. El establecimiento de vedas o modificación de vedas;
 
 II. La propuesta de declaración de especies amenazadas, raras, en peligro de extinción, endémicas o sujetas a protección especial;
 
-III. La creación de áreas de refugio para protección de las especies de flora y fauna; y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-IV. La modificación o revocación de concesiones, permisos y, en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propagación y desarrollo de la vida silvestre.
+III. La creación de áreas de refugio para protección de las especies de flora y fauna;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMRBRE DE 2024)</small>
+
+IV. La modificación o revocación de concesiones, permisos y, en general, de toda clase de autorizaciones para el aprovechamiento, posesión, administración, conservación, repoblación, propagación y desarrollo de la vida silvestre; y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V. Promover iniciativas y programas para la conversación de la diversidad bilógica (sic), incluyendo la preservación de la variedad genética dentro de las poblaciones de especies silvestres.
 
 ###### Artículo 126.
 
@@ -2268,6 +2302,12 @@ Los Ayuntamientos son responsables del manejo integral de los residuos sólidos 
 ###### Artículo 155.
 
 Corresponde al Municipio el establecimiento, la observación y aplicación de las disposiciones jurídicas en materia de residuos sólidos urbanos; y al Estado, a través de la Secretaría la regulación de los residuos de manejo especial provenientes de procesos productivos.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 155 Bis.
+
+La Secretaría, en coordinación con los municipios, podrá impulsar acciones para el aprovechamiento de la materia orgánica de los residuos sólidos urbanos en procesos de generación de energía.
 
 ###### Artículo 156.
 
@@ -3798,5 +3838,29 @@ P.O. 14 DE JUNIO DE 2024.
 P.O. 20 DE AGOSTO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1028 POR EL QUE SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 10 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1072 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “NUM. 1095 POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 52 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1114 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 125 DE LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1117 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY PARA LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
