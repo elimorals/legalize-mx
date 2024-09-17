@@ -4,7 +4,7 @@ identifier: "HID-ley-de-procesos-productivos-eficientes-del-estado-de-hidalgo-79
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-07"
-last_updated: "2016-12-31"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROCESOS PRODUCTIVOS EFICIENTES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 7 de febrero de 2011.
 
@@ -177,9 +177,17 @@ II.- Adoptar procesos y equipo con altos niveles de rendimiento de recursos y po
 
 III.- Usar en forma racional o reciclable materiales tales como productos de desecho, agua residual y calentamiento generado por los procedimientos de producción;
 
-IV.- Usar o consumir materias primas biodegradables o reciclables; y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-V.- Adoptar tecnologías de prevención y control de la contaminación, suficientes para permitir a las empresas cumplir con los estándares locales de descarga de contaminantes y el control del volumen total de las cuotas de contaminación.
+IV.- Usar o consumir materias primas biodegradables o reciclables;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V.- Adoptar tecnologías de prevención y control de la contaminación, suficientes para permitir a las empresas cumplir con los estándares locales de descarga de contaminantes y el control del volumen total de las cuotas de contaminación; y
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VI.- Incorporar, paulatinamente, el uso de energías limpias.
 
 ###### Artículo 22.
 
@@ -354,3 +362,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Todas las referencias a la Unidad de Medida y Actualización del presente Decreto, se entenderán por el equivalente al valor diario que para tal efecto designe el Instituto Nacional de Estadística y Geografía, salvo disposición expresa en otro sentido.
 
 TERCERO.- El valor de la Unidad de Medida y Actualización será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación, el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1081 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROCESOS PRODUCTIVOS EFICIENTES DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
