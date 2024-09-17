@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entidades-paraestatales-del-estado-de-hidalgo-95591"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2024-07-15"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE HIDALGO EL 15 DE JULIO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -362,6 +360,10 @@ Los Directores Generales atenderán las observaciones, requerimientos y recomend
 ###### Artículo 17.
 
 Al constituirse una Entidad Paraestatal, el Titular del Ejecutivo expedirá un acuerdo en el que podrá señalar la dependencia de la Administración Pública a la que estará sectorizada, el cual deberá ser publicado en el Periódico Oficial del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+El Poder Ejecutivo publicará, en el Periódico Oficial del Estado, la relación de las entidades paraestatales que forman parte de la Administración Pública Estatal.
 
 ### CAPÍTULO III. DE LOS ORGANISMOS DESCENTRALIZADOS
 
@@ -880,3 +882,9 @@ P.O. 30 DE MAYO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Cada Organismo Público Descentralizado de la entidad, durante los primeros 180 días del ejercicio fiscal siguiente a la entrada en vigor del presente Decreto, deberá efectuar los actos tendentes a la creación de su Unidad Institucional para la Igualdad entre Mujeres y Hombres.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1124 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
