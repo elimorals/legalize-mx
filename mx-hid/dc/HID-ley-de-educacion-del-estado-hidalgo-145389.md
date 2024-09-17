@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2024-08-20"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -165,9 +165,9 @@ La Secretaría y autoridades educativas municipales, en coordinación con la Sec
 
 Los planteles educativos del nivel básico y medio superior del Sistema Educativo Estatal, en coadyuvancia con la Secretaría y las autoridades educativas municipales, podrán crear áreas especializadas en atención psicológica con el objetivo de cuidar, atender y orientar a los educandos, a fin de permitirles el pleno desarrollo de su vida emocional, socioemocional e intelectual.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-Así mismo, dichas autoridades podrán implementar programas de capacitación y orientación, en materia de educación sexual integral y reproductiva, dirigidos a personal docente, estudiantes, padres, madres de familia o tutores. Estos programas deberán brindar información oportuna y adecuada, respetar los derechos humanos, ser sensibles al género y a la diversidad, promover la salud sexual y fomentar el uso de métodos anticonceptivos
+Así mismo, dichas autoridades podrán implementar programas de capacitación y orientación, en materia de educación sexual integral y reproductiva, dirigidos a personal docente, estudiantes, padres, madres de familia o tutores. Estos programas deberán brindar información oportuna y adecuada, respetar los derechos humanos, ser sensibles al género y a la diversidad, promover la salud sexual, la dignificación del ciclo menstrual y fomentar el uso de métodos anticonceptivos.
 
 > <small>(ADICIONADO, P.O. 3 DE MAYO DE 2024)</small>
 
@@ -583,6 +583,12 @@ El desarrollo tecnológico y la innovación, asociados a la actualización, a la
 
 El fomento de la investigación, la ciencia, las humanidades, la tecnología y la innovación que realicen la Secretaría y la Autoridad Educativa Municipal se hará de conformidad con lo establecido en el Capítulo V del Título Tercero de la Ley General de Educación y en la Ley de Ciencia, Tecnología e Innovación del Estado de Hidalgo, promoviendo la vinculación de la academia con los sectores productivo y social para impulsar su desarrollo tecnológico y el emprendimiento en las regiones, como estrategia para la competitividad y la generación de empleo.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 45 Bis.
+
+La Secretaría promoverá la formación y capacitación, en materia de uso y comprensión de la inteligencia artificial en el proceso educativo.
+
 ### CAPÍTULO VI. DE LA EDUCACIÓN INDÍGENA
 
 ###### Artículo 46.
@@ -739,6 +745,10 @@ II. Las acciones para fomentar las habilidades lectoras, la expresión oral y es
 
 III. El conocimiento tecnológico, con el empleo de tecnologías de la información, comunicación, conocimiento, manejo de diferentes lenguajes y herramientas de sistemas informáticos de comunicación para el desarrollo de las habilidades digitales;
 
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+III Bis. El uso responsable y ético de la inteligencia artificial;
+
 IV. El conocimiento científico, a través de la apropiación de principios, modelos y conceptos científicos fundamentales, empleo de procedimientos experimentales y de comunicación, para el conocimiento del mundo natural y social;
 
 V. El pensamiento filosófico, histórico y humanístico, para generar consciencia de sí y del mundo;
@@ -828,6 +838,10 @@ II. El conocimiento de la lectura, escritura y la literacidad, para un mejor apr
 III. El aprendizaje de la historia, la geografía, el civismo y la filosofía;
 
 IV. El fomento de la investigación, la ciencia, la tecnología y la innovación, así como su comprensión, aplicación y uso responsables;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IV Bis. El aprendizaje sobre el uso responsable, comprensión y aplicación de la inteligencia artificial;
 
 V. El conocimiento y, en su caso, el aprendizaje de lenguas indígenas de nuestro Estado, la importancia de la pluralidad e interculturalidad lingüística de la Nación y el respeto a los derechos lingüísticos de los pueblos indígenas;
 
@@ -1881,6 +1895,12 @@ II. Cumplir con los planes y programas de estudio que las autoridades educativas
 
 III. Otorgar becas que cubran la impartición del servicio educativo, las cuales no podrán ser inferiores al cinco por ciento del total de alumnos inscritos en cada plan y programa de estudios con autorización o reconocimiento de validez oficial de estudios, mismas que se distribuirán por nivel educativo y su otorgamiento o renovación no podrá condicionarse a la aceptación de ningún crédito, gravamen, servicio o actividad extracurricular a cargo del becario. El otorgamiento de un porcentaje mayor de becas al señalado en la presente fracción será decisión voluntaria de cada particular. Las becas podrán consistir en la exención del pago total o parcial de las cuotas de inscripción o de colegiaturas que haya establecido el particular. Corresponde a la Secretaría la asignación de las becas a las que se refiere esta fracción, con la finalidad de contribuir al logro de la equidad educativa; para tal efecto atenderá las disposiciones emitidas en la Ley de Becas del Estado de Hidalgo;
 
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+III Bis. Otorgar becas deportivas consistentes en la exención del pago total o parcial de cuotas de inscripción y de colegiaturas.
+
+Las becas deportivas no deberán de considerarse dentro del porcentaje establecido en la fracción anterior.
+
 IV. Cumplir lo estipulado en el artículo 142 de la presente Ley;
 
 V. Cumplir y colaborar en las actividades de evaluación y vigilancia que las autoridades competentes realicen u ordenen;
@@ -2480,3 +2500,21 @@ P.O. 20 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1021 POR EL QUE SE ADICIONA LA FRACCIÓN III BIS AL ARTÍCULO 91 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1067 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1110 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO Y A LA LEY DE EDUCACIÓN SUPERIOR DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1119 POR EL QUE SE REFORMA EL PÁRRAFO QUINTO DEL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de supublicación (sic) en el Periódico Oficial del Estado de Hidalgo.
