@@ -4,7 +4,7 @@ identifier: "HID-ley-del-sistema-estatal-anticorrupcion-de-hidalgo-122660"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-10"
-last_updated: "2021-09-01"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de julio de 2017.
 
@@ -495,6 +495,28 @@ Por las labores que realicen como miembros de la Comisión Ejecutiva, los integr
 
 La Comisión Ejecutiva podrá, en el ámbito de sus atribuciones, emitir los exhortos que considere necesarios a las autoridades integrantes del Comité Coordinador, a través de la o el Secretario Técnico.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN II BIS. DE LOS MUNICIPIOS
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 32 Bis.
+
+Los municipios del Estado adoptarán los principios de la Ley General del Sistema Nacional Anticorrupción, así como de la presente Ley, y deberán contar con un Código de Ética para los servidores públicos del Gobierno Municipal correspondiente, en el que se contengan los principios y valores que deberán observar los mismos, el cual deberá ser aprobado por el Ayuntamiento y publicado en la Gaceta Municipal y en el Periódico Oficial del Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 32 Ter.
+
+Los municipios difundirán de manera permanente entre sus servidores públicos, los principios a que se refieren el artículo 5 de esta Ley, así como el Código de Ética, y harán constar por escrito que la relación de los mismos les fue entregada a cada servidor o servidora pública, lo cual deberá constar en su expediente laboral.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 32 Quater.
+
+Los municipios implementarán procesos de capacitación y certificación sobre la aplicación de políticas y programas en la materia, debiendo reportarlas y registrarlas conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado de Hidalgo.
+
 #### SECCIÓN III. DEL SECRETARIO TÉCNICO
 
 ###### Artículo 33.
@@ -724,3 +746,11 @@ P.O. 1 DE SEPTIEMBRE DE 2021.
 PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan las disposiciones que contravengan el presente decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1098 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Dentro de los noventa días siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos deberán expedir sus reglamentos en materia anticorrupción, así como sus Códigos de Ética y Conducta.
