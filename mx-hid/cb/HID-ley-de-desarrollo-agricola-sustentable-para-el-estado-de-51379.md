@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-agricola-sustentable-para-el-estado-de-51379"
 country: "mx"
 rank: "ley"
 publication_date: "2006-08-07"
-last_updated: "2024-07-15"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 7 de agosto de 2006.
 
@@ -111,7 +111,9 @@ III.- Garantizar la participación activa de la sociedad rural a fin de implemen
 
 IV.- Apoyar la organización y capacitación social productiva, así como la asesoría especializada a lo largo de la cadena productiva rural, desde la familia campesina, hasta las empresas económicas con las que cuentan los productores rurales o las que se constituyan, de tal forma que obtengan los instrumentos económicos que les permitan detonar procesos de autogestión y multiplicadores;
 
-V.- Promover el desarrollo de la investigación y la transferencia tecnológica a través de las instancias gubernamentales, académicas y científicas, mediante un proceso permanente de consulta y concertación con las organizaciones de productores, que derive en la generación de instrumentos efectivos para incrementar la producción y rentabilidad agrícola;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V.- Promover el desarrollo de la investigación y la transferencia tecnológica a través de las instancias gubernamentales, académicas y científicas, mediante un proceso permanente de consulta y concertación con las organizaciones de productores, que derive en la generación de instrumentos efectivos para transitar hacia el uso de productos naturales en la erradicación de plagas, e incrementar la producción y rentabilidad agrícola;
 
 VI.- Promover la coordinación entre los tres Ordenes de Gobierno y su concertación con los distintos sectores de la sociedad organizada, para la definición e implementación de políticas, planes, programas y proyectos, que permitan alcanzar el desarrollo sustentable en el campo;
 
@@ -149,7 +151,9 @@ La aplicación de esta Ley, corresponde al Ejecutivo Estatal, por conducto de la
 
 Son atribuciones de la Secretaría:
 
-I.- Elaborar los estudios y programas que ayuden a los productores a definir alternativas adecuadas, acordes al potencial productivo de cada región, de uso múltiple del recurso del suelo, del agua y de la energía, así como la diversificación productiva, de acuerdo a su entorno ecológico y condiciones socioeconómicas;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I.- Elaborar los estudios y programas que ayuden a los productores a definir alternativas adecuadas, acordes al potencial productivo de cada región, de uso múltiple del recurso del suelo, del agua y de la energía, así como la diversificación productiva y el uso de productos naturales en la erradicación de plagas, de acuerdo a su entorno ecológico y condiciones socioeconómicas;
 
 II.- Apoyar en coordinación con las Dependencias competentes, la organización y capacitación social productiva, así como fortalecer la capacidad del productor para constituir y operar todos aquellos organismos que le permitan producir, industrializar y comercializar en forma rentable;
 
@@ -173,9 +177,9 @@ VIII.- Priorizar dentro de sus acciones y programas, el aprovechamiento sustenta
 
 IX.- Impulsar acciones encaminadas a la prevención, manejo, control y erradicación de plagas;
 
-> <small>(ADICIONADA, P.O. 19 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-X.- Fomentar las Buenas Prácticas Agrícolas en el uso de plaguicidas, y
+X.- Fomentar las Buenas Prácticas Agrícolas en el uso de plaguicidas con base en productos naturales, y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MAYO DE 2018)</small>
 
@@ -1470,3 +1474,9 @@ P.O. 15 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1011 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12 DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1112 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO AGRÍCOLA SUSTENTABLE PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
