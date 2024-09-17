@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-cosio-aguascalientes-54789"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-19"
-last_updated: "2024-03-04"
+last_updated: "2024-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE COSIO, AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DEL BANDO DE POLICÍA Y GOBIERNO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, PUBLICADO EN EL P.O. DE 17 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO MUNICIPAL DE COSÍO, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 19 de marzo de 2007.
 
@@ -411,291 +413,93 @@ La violación de los derechos y el incumplimiento cualquiera de las obligaciones
 
 ###### ARTICULO 34.
 
-El Honorable Ayuntamiento, será el órgano supremo de gobierno del Municipio de Cosío.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 35.
 
-El Honorable Ayuntamiento se integrará por un Presidente Municipal, cuatro Regidores electos por el principio de mayoría relativa, hasta tres Regidores electos por el principio de representación proporcional y por un Síndico Procurador y de Hacienda. Los servidores públicos integrantes del Ayuntamiento durarán en su encargo tres años y tomarán posesión de su cargo el día primero de enero del año siguiente en que se realice la elección.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 36.
 
-Corresponde a los integrantes del H. Ayuntamiento, la facultad de supervisar y vigilar las dependencias a cargo de sus comisiones, permanentes o especiales que se les asignen, pudiendo requerir, a través del Secretario del Ayuntamiento, informes a las dependencias administrativas del municipio, para el mejor desempeño de su comisión y el debido cumplimiento de sus funciones; pero en ningún caso podrán atribuirse funciones ejecutivas respecto a los ramos bajo su responsabilidad.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 37.
 
-El H. Ayuntamiento de Cosío Ags., residirá en la ciudad del mismo nombre. Podrá ubicar su residencia en forma temporal dentro de los límites del territorio municipal, previo acuerdo emitido por el voto de las dos terceras partes de sus miembros.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 38.
 
-El H. Ayuntamiento de Cosío, Ags., funcionará en pleno de sus integrantes, a través de las sesiones de Cabildo y de las Comisiones, en términos de lo dispuesto por la Ley Municipal para el Estado de Aguascalientes y del presente Código.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ## TITULO SEGUNDO. DE LAS FACULTADES DEL AYUNTAMIENTO
 
 ###### ARTICULO 39.
 
-El Ayuntamiento de Cosío, Ags., tiene como función general el Gobierno del municipio y como facultades y obligaciones las señaladas en el Artículo 36 de la Ley Municipal para el Estado de Aguascalientes, las señaladas en el presente Código y las enumeradas en las demás disposiciones jurídicas aplicables.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+ARTICULO 39 BIS.- (DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-ARTICULO 39 BIS.- El objeto del presente apartado es regular y garantizar la igualdad de Género entre mujeres y hombres, la no discriminación, y todos aquellos derechos contenidos en la Constitución Política de los Estados Unidos Mexicanos.
+ARTICULO 39 TER.- (DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-Son Obligaciones del H. Ayuntamiento de Cosío Aguascalientes en materia de Género las siguientes: (sic)
+ARTICULO 39 CUARTER.- (DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
+ARTICULO 39 QUINQUIES.- (DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-ARTICULO 39 TER.- Son obligaciones del Ayuntamiento en materia de Igualdad y Género las siguientes:
-
-I.- Instrumentar y articular en concordancia con la política nacional y estatal, la política municipal orientada a la atención, prevención, sanción y erradicación de la violencia contra las mujeres;
-
-II.- Promover en concordancia con las entidades federativas, cursos de capacitación y modificaciones conductuales a las personas que atienden a víctimas de violencia contra las mujeres;
-
-III.- Apoyar la creación de programas de reeducación integral para los generadores de violencia contra las mujeres en los términos explícitos y de conformidad con los lineamientos que establece la Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Aguascalientes;
-
-IV.- Promover programas educativos sobre la igualdad entre los géneros para eliminar la violencia contra la mujer;
-
-V.- Apoyar la creación de centros de atención y prevención integral contra la violencia de género y de refugios seguros para las víctimas de violencia familiar y sexual;
-
-VI.- Participar y coadyuvar en los ejes de acción, de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
-
-VII.- Impartir cursos y talleres de prevención y protección contra la violencia de género en los cuerpos policiacos;
-
-VIII.- Evaluar anualmente la actividad de los cuerpos policiacos y servidores públicos encargados de la atención a la violencia de género;
-
-IX.- Elaborar una guía de asistencia inmediata que seguirían los elementos de seguridad pública cuando se presenten casos de violencia familiar;
-
-X.- Designar a los integrantes del sistema municipal de prevención, atención, sanción y erradicación de la violencia, y vigilar su correcta instalación y funcionamiento;
-
-XI.- Aprobar el programa municipal para prevenir, atender, sancionar y erradicar la violencia, el cual se diseñara con base en la perspectiva de género;
-
-XII.- Construir el mecanismo municipal de adelanto e (sic) favor de las mujeres, a efecto de impulsar y apoyar la aplicación de las políticas, estrategias y acciones dirigidas al desarrollo de las mujeres del municipio a fin de lograr su plena participación en los ámbitos económico, político, social, cultural y educativo y;
-
-XIII.- La atención de los demás asuntos que en materia de violencia contra las mujeres les conceda esta ley u otros ordenamientos legales.
-
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
-
-ARTICULO 39 CUARTER.- El Ayuntamiento implementara, el programa municipal para la prevención, atención, sanción y erradicación, de la violencia el cual deberá contener:
-
-I.- Los objetivos generales y específicos;
-
-II.- Las estrategias a seguir;
-
-III.- Las líneas de acción;
-
-IV.- Los recursos asignados;
-
-V.- Las metas cuantitativas y cualitativas;
-
-VI.- Los responsables de su ejecución;
-
-VII.- Los mecanismos de evaluación y;
-
-VII (SIC).- El subprograma de capacitación.
-
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
-
-ARTICULO 39 QUINQUIES.- Son principios rectores del programa municipal:
-
-I.- La no discriminación;
-
-II.- La autodeterminación y libertad de las mujeres;
-
-III.- La igualdad sustantiva entre mujeres y hombres;
-
-IV.- El respeto a la dignidad de las mujeres;
-
-V.- El pluralismo social y la multiculturalidad de las mujeres; y
-
-VI.- la (sic) perspectiva de género que permita incorporar a la mujer como sujeto social.
-
-> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2010)</small>
-
-ARTICULO 39 SEXIES.- El Programa Municipal incluirá los ejes de acción: de prevención, atención sanción y erradicación, considerando los niveles de intervención que cada eje contempla, en términos de lo dispuesto por la Ley de Acceso de las Mujeres a una Vida libre de Violencia para el Estado de Aguascalientes y su Reglamento.
+ARTICULO 39 SEXIES.- (DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO PRIMERO. De las Atribuciones del Presidente Municipal
 
 ###### ARTICULO 40.
 
-El Presidente presidirá al Ayuntamiento y al Gobierno Municipal. Tendrá a su cargo la representación política y administrativa de éste.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 41.
 
-El Presidente Municipal es el ejecutor de las determinaciones emanadas del Ayuntamiento, de conformidad con lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y la Ley Municipal para el Estado de Aguascalientes.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 42.
 
-El Presidente Municipal, tendrá las siguientes atribuciones:
-
-I.- Promulgar y publicar los reglamentos, bandos, códigos y demás disposiciones de carácter municipal;
-
-II.- Dar publicidad a las normas de carácter general aprobadas por el Ayuntamiento;
-
-III.- vigilar que la recaudación de la Hacienda Municipal, en todas sus ramas se realice con estricto apego a la Ley de Ingresos Municipal de Cosío, en el ejercicio fiscal del año en que se actúe;
-
-IV.- Vigilar que el manejo y la inversión de los fondos municipales se realice con estricto apego al Presupuesto de Egresos;
-
-V.- Dar trámite y seguimiento a los asuntos que se presenten a su consideración;
-
-VI.- Legalizar juntamente con el Secretario del Ayuntamiento toda correspondencia, actas y disposiciones emanadas del Ayuntamiento;
-
-VII.- Vigilar e inspeccionar las áreas de la Administración Pública Municipal, cerciorándose de que cumplan cabalmente con las funciones encomendadas;
-
-VIII.- Conceder licencias para diversiones públicas, señalando conforme a la Ley de Ingresos la carga fiscal que deban de entregar los interesados a la Dirección de Finanzas Municipales;
-
-IX.- Tener bajo su mando directo los cuerpos de Seguridad Pública, nombrar y remover a los jefes y agentes de policía y tránsito del Ayuntamiento;
-
-X.- Dentro de su esfera competencial cumplir y hacer cumplir las leyes, tanto federales como locales, así como las disposiciones de carácter municipal;
-
-XI.- Tomar la protesta de Ley a los Regidores y Síndico, así como a los demás funcionarios y empleados del Municipio, en términos de ley;
-
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2024)</small>
-
-XII.- Proponer al Ayuntamiento los nombramientos del Secretario del Ayuntamiento, Director de Finanzas Municipal, así como, proponer la terna para la elección del Director de Seguridad Pública, del Contralor Municipal y de las personas que funjan como autoridad investigadora, substanciadora y resolutora del órgano interno;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-XIII.- Otorgar los nombramientos a los Funcionarios Públicos Municipales, observando en esta actividad la perspectiva de género;
-
-XIV.- Presidir y dirigir las sesiones del Cabildo;
-
-XV.- Convocar a los Regidores y Síndico a las sesiones extraordinarias que se celebren, comunicándoles los asuntos a tratar;
-
-XVI. - Ejercer las facultades que corresponden al Ayuntamiento, por si o a través de los integrantes de la Administración Pública Municipal, de conformidad por lo dispuesto en el presente Código;
-
-XVII.- Ejecutar las órdenes y acuerdos emanados del Ayuntamiento;
-
-XVIII.- Presidir y dirigir el actuar de la Administración Pública Municipal;
-
-XIX.- Celebrar a nombre del Ayuntamiento todos los convenios, contratos y actos necesarios para el adecuado funcionamiento de la Administración Pública Municipal y la adecuada prestación de los servicios Públicos Municipales;
-
-XX.- Expedir a la Tesorería Municipal las órdenes de pago conforme al Presupuesto de Egresos aprobado para el ejercicio fiscal del año en que se actúe; firmado en unión del regidor del ramo respectivo, con responsabilidad penal y pecuniaria de ambos funcionarios si autorizasen algún gasto no previsto en dicho presupuesto;
-
-XXI.- Informar anualmente al Ayuntamiento, al término del ejercicio fiscal, del estado que guarda la Administración Pública Municipal y de las actividades realizadas;
-
-XXII.- Abstenerse de intervenir, participar o proponer la selección, nombramiento, designación, contratación o promoción de sus parientes;
-
-XXIII.- Abstenerse durante el ejercicio de sus funciones, de solicitar, aceptar o recibir por sí o por persona interpósita, dinero, bienes muebles, inmuebles mediante la enajenación a su favor en un precio o condiciones notoriamente inferiores a las reales, así como la aceptación para sí o para o para sus parientes de donaciones;
-
-XXIV.- Las demás que le confieran este Código, demás leyes federales y estatales y disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2013)</small>
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 43.
 
-Para el cumplimiento de sus funciones, el Presidente Municipal puede auxiliarse de los integrantes del Ayuntamiento, de acuerdo con la Comisión que se les haya encomendado. También puede auxiliarse de profesionales que por sus conocimientos y experiencia se encuentren calificados para proporcionar la asesoría preventiva y correctiva que el municipio y/o áreas de su administración pública requieran y que por sí mismos no puedan satisfacer, teniendo el carácter de asesor, técnico o perito, según sea el caso.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 44.
 
-Para el cumplimiento de los fines del Municipio, el Presidente Municipal puede delegar funciones propias de la Administración Pública Municipal en los Servidores Públicos Municipales, de conformidad con el área específica de la cual se trate el caso concreto.
-
-> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2010)</small>
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 45.
 
-El Presidente municipal vigilará que las labores de los secretarios y personal a su cargo se realicen con apego a los principios de eficiencia, eficacia, continuidad, honradez, celeridad, imparcialidad y perspectiva de género.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 46.
 
-El Presidente Municipal no podrá asumir el carácter de representante Jurídico del Ayuntamiento, salvo en los siguientes casos:
-
-I.- Cuando el síndico se encuentre legalmente impedido para el caso; y
-
-II.- Cuando el síndico se niegue a cumplir con su función; en este caso el Presidente Municipal deberá recabar la autorización del Ayuntamiento.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO SEGUNDO. De las Atribuciones de los Regidores
 
 ###### ARTICULO 47.
 
-Los regidores no tendrán facultades de gobierno en lo individual, sino como parte integrantes (sic) del Ayuntamiento o de su comisión respectiva, por lo cual, no pueden realizar actos de naturaleza ejecutiva, su relación con la Administración Pública Municipal solamente tiene efectos de supervisión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 48.
 
-Los regidores son los encargados (sic) supervisar el buen funcionamiento de los ramos de la Administración Pública Municipal y la prestación de los servicios públicos conforme a las comisiones que le sean asignadas por el Ayuntamiento, deberán de dar cuenta a éste por las deficiencias detectadas y proponer las medidas adecuadas para corregirlas.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 49.
 
-Son facultades y obligaciones de los regidores:
-
-I.- Asistir a las sesiones del Ayuntamiento y a los actos oficiales a que sean citados y permanecer en ellos todo el tiempo que éstos duren;
-
-II.- Deliberar y votar en los asuntos que se traten en las sesiones;
-
-III.- Presentar iniciativas de reglamentos, bandos, códigos, decretos, acuerdos de carácter municipal, así como propuestas de iniciativas de leyes, las cuales deberán de ser remitidas al Congreso del Estado para su discusión y en su caso, aprobación;
-
-IV- Presidir las comisiones que les sean asignadas y participar como vocales en las comisiones que así les correspondan;
-
-V.- Desempeñar con eficacia las comisiones que les sean encargadas;
-
-VI.- Rendir informes de su gestión respecto de las comisiones de carácter permanentes o especiales que presidan, presentando un dictamen fundado y motivado formulando conclusiones para la resolución correspondiente;
-
-VII.- Proponer ante el Ayuntamiento todo lo que crean conveniente para el mejoramiento de la Administración Pública Municipal y la prestación de los servicios públicos municipales;
-
-VIII.- Cumplir y hacer cumplir en la parte que les corresponda el presente Código, los reglamentos y bandos municipales, informando al Presidente Municipal de las faltas que se cometan;
-
-IX.- Proponer al Ayuntamiento los reglamentos y tarifas correspondientes al ramo que les están especialmente encomendados, así como las reformas o enmiendas que estimen pertinentes;
-
-X.- Pedir al Presidente Municipal la remoción de los empleados que deban de ser removidos por el Ayuntamiento, cuando para ello existan causas justificadas y proponer el nombramiento de quien deba de ocupar dicho lugar;
-
-XI.- Presentar las excitativas y exhortaciones al Ayuntamiento y a las Comisiones, a efecto de que resuelvan las iniciativas o propuestas presentadas; y
-
-XII.- Las demás que les otorguen el Presente Código, demás leyes y disposiciones aplicables.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO TERCERO. De las Atribuciones del Síndico Municipal
 
 ###### ARTICULO 50.
 
-El Síndico Municipal, será el representante jurídico del Ayuntamiento en los asuntos de carácter jurisdiccional, contencioso o litigioso, asimismo, le corresponde la defensa de los intereses municipales y el buen uso y manejo de los bienes que integran el patrimonio municipal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 51.
 
-Son facultades y obligaciones del Síndico Municipal:
-
-I.- Asistir a las sesiones del Ayuntamiento y a los actos oficiales a que sean citados y permanecer en ellos todo el tiempo que éstos duren;
-
-II.- Deliberar y votar en los asuntos que se traten en las sesiones;
-
-III.- Presentar iniciativas de reglamentos, bandos, códigos, decretos, acuerdos de carácter municipal, así como propuestas de iniciativas de leyes, las cuales deberán de ser remitidas al Congreso del Estado para su discusión y en su caso, aprobación;
-
-IV.- La procuración, defensa, promoción y representación jurídica de los intereses municipales;
-
-V.- La representación jurídica del Ayuntamiento de Cosío en los litigios en los que éste sea parte y la gestión de los negocios de la Hacienda Municipal;
-
-VI.- Asistir a los remates públicos en los que tenga interés el Ayuntamiento;
-
-VII.- Revisar y firmar los cortes de caja (sic) la Tesorería Municipal;
-
-VIII.- Cuidar que la aplicación de los gastos se haga cubriendo todos los requisitos legales y de acuerdo a lo estipulado en el Presupuesto de Egresos para el año fiscal en que se actúe;
-
-IX.- Vigilar que las multas impuestas por las autoridades municipales ingresen a la Tesorería Municipal, previo (sic) expedición del comprobante respectivo;
-
-X.- Intervenir en la formulación del inventario general de bienes muebles e inmuebles propiedad del Ayuntamiento;
-
-XI.- Vigilar que en (sic) inventario a que se refiere la fracción anterior, se encuentre debidamente actualizado y se hagan constar las altas y las bajas del mismo;
-
-XII.- Procurar la regularización de la propiedad de los bienes pertenecientes al Ayuntamiento;
-
-XIII.- Asociarse a las comisiones cuando se trate de dictámenes o resoluciones que afecten al Ayuntamiento;
-
-XIV.- Verificar que los funcionarios y empleados municipales cumplan con las declaraciones de su situación patrimonial que correspondan, en términos de la Ley de Responsabilidad de los Servidores Públicos del Estado de Aguascalientes;
-
-XV.- Practicar las primeras diligencias de la averiguación previa y remitirlas dentro de las siguientes 24 horas a la agencia del Ministerio Público correspondiente;
-
-XVI.- Supervisar el funcionamiento del servicio del pie mostrenco municipal;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-XVII.- Servir de árbitro y conciliador en los asuntos que los particulares le pongan a su consideración, a efectos de solucionar los problemas que no sean constitutivos de delito en términos de la Legislación Penal del Estado y del código Penal Federal; y además que no se trate de casos donde exista violencia contra las mujeres y/o sus familias, en cuyos casos está contraindicada cualquier práctica de mediación, negociación o conciliación y al contrario se deberá aplicar la sanción que corresponda de acuerdo al presente Código Municipal y/o deberá dar parte a la autoridad correspondiente;
-
-XVIII.- Autorizar en su caso las corridas de ganado que el Presidente del Comisariado Ejidal o persona facultada le solicite;
-
-XIX.- Citar, requerir y en su caso hacer comparecer a las personas que sean necesarias para la práctica de diligencias a que haya lugar;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-XX.- Auxiliar en la impartición de Justicia Municipal, calificando las faltas administrativas e imponiendo las sanciones respectivas. En los supuestos donde exista violencia contra las mujeres y/o sus familias no hay posibilidad de sustitución o dispensa de la sanción que corresponda de acuerdo al presente Código Municipal;
-
-XXI.- Coordinarse con Síndicos de Municipios vecinos como colaboración en la resolución de conflictos presentados; y
-
-XXII.- Las demás que le otorgue el Presente Código, demás leyes y disposiciones aplicables.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ## TITULO TERCERO. DE LA INSTALACION DEL AYUNTAMIENTO
 
@@ -703,267 +507,161 @@ XXII.- Las demás que le otorgue el Presente Código, demás leyes y disposicion
 
 ###### ARTICULO 52.
 
-Para la instalación y toma de protesta constitucional del H. Ayuntamiento, el Presidente Municipal, los Regidores y Síndico tanto del Ayuntamiento en funciones como del electo, se reunirán el día 31 de diciembre del año de la elección, en el local y hora que determine el H. Ayuntamiento en funciones.
-
-A esta sesión asistirá el Gobernador del Estado o su representante, el representante del Congreso del Estado, y el Presidente del Supremo Tribunal de Justicia del Estado o en su caso su representante.
-
-La toma de protesta surtirá efectos a partir de la primara hora del día primero de enero del año siguiente.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 53.
 
-La sesión solemne de instalación se desarrollará conforme al siguiente procedimiento:
-
-I.- Se iniciará la sesión en el lugar y hora que se señale para tal efecto, con la asistencia de los miembros salientes y entrantes del Ayuntamiento;
-
-II.- El Secretario del H. Ayuntamiento en funciones, dará lectura a la lista de los integrantes del H. Ayuntamiento, salientes y entrantes, y comprobando que se cumpla con el quórum legal establecido en la Constitución Política del Estado de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes y el presente Código, dará lectura a la acta de la sesión anterior;
-
-III.- A continuación se declarará en receso la sesión, para que las comisiones protocolarias se trasladen y acompañen hasta el recinto a los representantes oficiales de los Poderes Constitucionales del Estado;
-
-IV.- Reiniciada la sesión, ante la representación acreditada del Poder Ejecutivo, de la representación del Poder Judicial y el Congreso del Estado, el Secretario del H. Ayuntamiento en funciones, cederá el uso de la palabra al Presidente Municipal electo;
-
-V.- El Presidente Municipal electo solicitará a los Regidores y Síndico electos asistentes que se pongan de pie, quien rendirá la protesta de ley en los siguientes términos:
-
-«"Yo... (Nombre del Presidente)…..protesto cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal de Cosío, que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del Municipio, y si así no lo hiciere que el Municipio me lo demande"»;
-
-VI.- Permaneciendo todos de pie, el Presidente Municipal, tomará la protesta de Ley a los Regidores y Síndico electos, a quienes los interrogará en la forma siguiente:
-
-«"Ciudadanos... (Regidores y Síndico)…Protestan cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Aguascalientes y las leyes que de ambas emanen, y desempeñar leal y patrióticamente los cargos de Regidores y Síndico Propietarios respectivamente del Municipio de Cosío, que el pueblo les ha conferido, mirando en todo por el bien y prosperidad del Municipio"»;
-
-VII.- Contestarán los Regidores y Síndico levantando su mano derecha:
-
-«…"Sí Protesto"»;
-
-Dirá entonces el Presidente Municipal:
-
-«"Si así lo hicieren que el Municipio se los premie, si no, se los demande"»;
-
-VIII.- Acto continuo el Presidente Municipal hará la declaración de instalación en los términos siguientes:
-
-"El H. Ayuntamiento del Municipio de Cosío, Ags., se declara constituido para el Período Constitucional del 1° de enero de… al 31 de diciembre de… (Deberá citar los años en los cuales se ostentará como gobierno)";
-
-IX.- El Presidente Municipal podrá dar a conocer los lineamientos generales de su Administración Pública Municipal;
-
-X.- Se clausurará la sesión nombrándose la comisión protocolaria que acompañará a su salida del recinto a los representantes de los Poderes Constitucionales del Estado.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO SEGUNDO. De las Sustituciones
 
 ###### ARTICULO 54.
 
-Los Regidores y Síndico que no hubieren asistido a la sesión solemne de instalación deberán rendir la protesta en la primera sesión a que convoque el Cabildo, la cual deberá de celebrase con quince días de posterioridad a la toma de protesta como máximo.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 55.
 
-Si no se presentan a recibir la protesta de ley en un término de siete días, transcurrido ese plazo, los suplentes entrarán en ejercicio definitivo de sus funciones. En caso de no asistir tampoco los suplentes, se deberá dar aviso a la Legislatura del Estado para que proceda a la designación de los miembros del Ayuntamiento que no hubiesen tomado posesión, en términos de la legislación aplicable.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 56.
 
-En el supuesto de que el Presidente saliente se negara a asistir a la sesión de instalación del nuevo Ayuntamiento de todas formas se dará curso a la sesión, en cuyo caso se llevará a cabo ante el titular del Poder Ejecutivo, el del Poder Judicial y Legislativo del Estado.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO TERCERO. De la Entrega - Recepción
 
 ###### ARTICULO 57.
 
-Al término de la sesión de instalación el Presidente o el Síndico saliente en su caso, harán entrega al Presidente Municipal entrante o al Síndico entrante, de un acta de entrega-recepción pormenorizada acompañada de:
-
-I.- Un inventario pormenorizado de bienes propiedad del municipio;
-
-II.- El Estado de origen y aplicación de fondos y demás estados financieros correspondientes al ejercicio fiscal anterior, así como a las copias de las cuentas públicas del año en que se verifique el cambio de Ayuntamiento que se hubieren remitido al Congreso del Estado;
-
-III.- Los libros de actas de cabildo del Ayuntamiento;
-
-IV.- Un informe administrativo en el que se señalen los principales programas y obras en ejecución, tanto en forma directa como los derivados de convenios celebrados con el Estado y con la Federación; y
-
-V.- La información que se considere relevante para garantizar una continuidad en la buena marcha de los asuntos municipales.
-
-Tanto el inventario como los informes serán verificados posteriormente para todos los efectos legales y administrativos que procedan, sujetándose invariablemente a las disposiciones normativas contenidas en las bases para la entrega-recepción de la Administración Municipal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO CUARTO. De La Entrega-Recepción de las Direcciones y Dependencias del H. Ayuntamiento
 
 ###### ARTICULO 58.
 
-Los servidores públicos al servicio del Ayuntamiento de Cosío, que sean titulares o responsables de una dependencia o unidad administrativa, están obligados a rendir informe escrito al separarse de su empleo, cargo o comisión de los asuntos de su competencia, entregando debidamente desglosados los recursos financieros, humanos y materiales que tengan asignados para el ejercicio de sus atribuciones legales, a quienes lo sustituyan en sus funciones.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 59.
 
-También estarán obligados a rendir informe los servidores que de acuerdo a la naturaleza de sus funciones le sea solicitado por el titular de su Dependencia, al separarse del empleo, cargo o comisión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 60.
 
-El titular que entrega la dependencia a su cargo, deberá requisitar y suscribir el Acta Administrativa de entrega-recepción y estará obligado a hacer las aclaraciones posteriores que le sean requeridas en un plazo de 15 días hábiles a partir de la fecha de separación del cargo.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 61.
 
-El servidor público que concluye en el desempeño de sus funciones con motivo de la entrega, una vez firmada el acta y transcurridos los quince días señalados, no queda eximido de las responsabilidades Penales, Civiles o Administrativas en que hubiese incurrido durante el desempeño de su empleo, cargo o comisión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 62.
 
-En caso de que el servidor público que deba recibir, aún no haya sido designado, el Presidente Municipal entrante nombrará al servidor público que celebrará la recepción del despacho, comunicando a la Controlaría Municipal tal designación.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 63.
 
-Si por causa imputable al Gobierno saliente no hubiera entrega del despacho, el servidor público que debió recibir, será el responsable de que se levante el acta correspondiente, con asistencia de dos testigos, donde se anote el estado en que se encuentran los asuntos y recursos del funcionario saliente, haciéndolo del conocimiento de su jefe inmediato y de la contraloría municipal, a efecto de que se ejecuten las acciones correspondientes a la aplicación de responsabilidades de los servidores públicos.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 64.
 
-El proceso de Entrega-Recepción de los asuntos y recursos públicos del Gobierno Municipal de Cosío, deberá realizarse:
-
-I.- Al término del periodo constitucional de la Administración Pública Municipal;
-
-II.- En caso de licencia por tiempo indefinido del Presidente Municipal;
-
-III.- Cuando se declare la desaparición o suspensión del Ayuntamiento;
-
-IV.- Cuando se declare la suspensión o revocación del mandato del Presidente Municipal; y
-
-V.- En el caso que los titulares de las Secretarías, Direcciones y Organismos Descentralizados sean removidos, se separen del cargo o se haya expedido un nombramiento a favor de otra persona.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 65.
 
-La Entrega-Recepción deberá llevarse a cabo mediante la elaboración del Acta Administrativa de Entrega-Recepción que describe el estado que guarda el Gobierno Municipal de Cosío, la cual se acompañará de los Anexos correspondientes en los formularios autorizados por la Contraloría Municipal. Dichos Anexos comprenderán los aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 66.
 
-Corresponde a la Contraloría Municipal la coordinación de las acciones del Programa de Entrega-Recepción, así como la elaboración e implementación de los lineamientos, Criterios y Anexos que deberán estar contenidos en el Manual de Entrega-Recepción, que especifique la forma, términos y alcances de la información que deberá proporcionarse, misma que de ninguna manera dejará de abarcar los aspectos mínimos que se indican en el presente Código.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 67.
 
-Cuando el Servidor Público saliente no efectúe la Entrega que señala este ordenamiento, será requerido por la Contraloría Municipal, para que en un término de 10 días hábiles, contados a partir de la fecha de su separación del empleo, cargo o comisión, cumpla con esta obligación.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 68.
 
-Dentro del Programa de Entrega-Recepción, la Contraloría Municipal establecerá el Sistema de Seguimiento, Verificación y Solventación de Observaciones detectadas en las diferentes revisiones practicadas por la propia Contraloría, el cual se instrumentará y operará mediante ensayos previos.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 69.
 
-La elaboración e implementación de los Anexos indicados en el artículo anterior deberá comprender los siguientes recursos y asuntos:
-
-I.- Resumen de Actuación.- breve resumen de las actividades realizadas por la Dependencia o Entidad que se trate, cuyo contenido consistirá en: misión u objetivo de la Unidad Administrativa, situación existente al inicio de la presente administración, acciones realizadas más relevantes y la situación que presente al concluir su gestión.
-
-II.- Anexo Resumen de Actuación.
-
-III.- Marco de Actuación.- Señalamiento del marco jurídico-administrativo sobre el cual se fundamenta la actuación de la Dependencia o Entidad, mismo que estará conformado por: Leyes, Decretos, Acuerdos, el presente Código, Reglamentos, Manuales de Organización y de Procedimientos y otros ordenamientos aplicables, así como estructuras orgánicas correspondientes, con los siguientes anexos: Marco Jurídico Administrativo; libros de Juntas, Acuerdos o Actas; Estructura Orgánica; y Manuales Administrativos.
-
-IV.- Recursos Financieros.- Estados financieros, cuentas bancarias, inversiones, cuentas por cobrar y por pagar, documentación comprobatoria de ingresos y egresos, fideicomisos, conciliaciones bancarias y de más (sic) información relativa a fondos;
-
-V.- Recursos Humanos.- Plantillas autorizadas y relación de personal que incluya clasificación y situación laboral de cada empleado;
-
-VI.- Recursos Materiales.- Detalle de mobiliario y equipo, vehículos, maquinaria, herramientas, utensilios, sistemas de cómputo, sellos oficiales, inventario en almacenes, libros, manuales y demás información relativa;
-
-VII.- Obras y Programas.- Relación de obras terminadas y en proceso, así como los programas de trabajo permanentes;
-
-VIII.- Asuntos Jurídicos.- Estado actual que guarda el trámite de amparos, juicios, acuerdos, contratos, convenios, formas oficiales numeradas y demás información relativa.
-
-IX.- Asuntos Generales.- Relación de expedientes, planos oficiales y actas en archivo, asuntos y proyectos en proceso, así como toda la información complementaria en relación a los asuntos de carácter general de la administración municipal, que por su naturaleza deba presentar cada dependencia u organismo descentralizado.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 70.
 
-Los Servidores Públicos involucrados en la ejecución de los trabajos de la Entrega-Recepción deberán atender los principios de legalidad, transparencia, imparcialidad, eficacia, eficiencia y oportunidad en el ejercicio de sus respectivas funciones.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 71.
 
-El acto de Entrega-Recepción se llevará a cabo una vez terminada la ceremonia de toma de protesta del Ayuntamiento entrante, firmando el Acta Administrativa de Entrega-Recepción por el Ayuntamiento saliente y entrante:
-
-I.- El Presidente Municipal saliente;
-
-II.- El Presidente Municipal entrante;
-
-III.- El Síndico saliente y entrante; y
-
-IV.- El Contralor entrante y saliente.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 72.
 
-El Acta de Entrega-Recepción con sus Anexos se presentarán en un documento que será integrado en cuatro tantos para distribuirse de la siguiente forma:
-
-I.- Presidente Municipal entrante;
-
-II.- Presidente Municipal saliente;
-
-III.- Contaduría Mayor de Hacienda; y
-
-IV.- Contraloría Municipal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 73.
 
-Una vez oficializados los nombramientos de los titulares entrantes a nivel de organismo descentralizado, secretarios y directores que sean removidos, se separen del cargo o se haya expedido un nombramiento a favor de otra persona, excepto los funcionarios cuyo nombramiento y remoción requiera la aprobación del Ayuntamiento, o consejo directivo, se harán acompañar del titular saliente y de un testigo cada uno y se trasladarán a sus respectivas oficinas para firmar el acta administrativa correspondiente a la entrega recepción de los asuntos y recursos de esta dependencia u organismo descentralizado ante la presencia de un representante de la Contraloría Municipal o de la persona que esta última designe.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 74.
 
-En relación a los hechos que sucedan después de la entrega-recepción y/o la fecha de corte de información, se deberá elaborar un acta circunstanciada en la que se detalle la situación de los asuntos y aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales que hayan presentado movimientos, en presencia de los servidores públicos entrantes y salientes, dos testigos y la representación de la Contraloría Municipal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 75.
 
-Una vez reconocido legal y definitivamente por la autoridad electoral competente, el Presidente Municipal electo constituirá una comisión de enlace, en coordinación con el Presidente Municipal saliente, quien a su vez designará la Comisión correspondiente, preparen la transferencia de información sobre el estado que guardan los asuntos y aspectos financieros, sistemas de información, recursos humanos, recursos materiales, obras públicas, archivos y asuntos generales sin que esto implique la entrega de documentación alguna.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 76.
 
-Dentro de los tres días hábiles siguientes a su formación las comisiones de enlace establecerán el procedimiento adecuado para realizar el proceso de preparación para la transferencia de información en forma ordenada.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 77.
 
-Todos los titulares de las dependencias y organismos descentralizados estarán obligados a brindar la información correspondiente una vez que el Presidente Municipal en funciones les dé a conocer los nombres de las personas integrantes de la comisión de enlace entrante referida en el articulo anterior.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 78.
 
-La Comisión de Enlace por parte de la administración entrante deberá tomar conocimiento de la situación que guarda la administración municipal, desarrollo y cumplimiento de los programas, obras y proyectos; de tal manera que al momento de concretarse la sustitución en la titularidad de los puestos, se continué la marcha normal de la administración pública municipal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 79.
 
-La Contraloría Municipal vigilará el cumplimiento de las disposiciones a que se refiere este Código y queda facultada para interpretar el mismo para efectos administrativos, así como para dictar las disposiciones que se requieran para su adecuada aplicación y cumplimiento.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 80.
 
-Los titulares de las unidades administrativas serán responsables en el ámbito de su competencia de la información contenida en la documentación que integre la entrega-recepción y de llevar a cabo la planeación y organización de este proceso.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 81.
 
-Si durante el acto de entrega recepción resultaren hechos que pudiesen constituir irregularidades, se harán constar en acta por separado, que será incluida como anexo del acta de la unidad administrativa de que se trate, quedando a juicio de la Contraloría Municipal, la valoración de los hechos y la determinación de responsabilidades de los servidores públicos.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 82.
 
-La entrega de los asuntos a cargo del servidor público que concluye, no lo exime de las responsabilidades civiles, administrativas, penales laborales y las que se deriven, conforme a las disposiciones legales respectivas.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 83.
 
-Cada titular sólo implementará un acta administrativa de entrega-recepción a la cual acompañará los anexos formulados para el efecto, clasificados por la dirección o nivel equivalente, manteniendo en cada dirección copia que incluya la información de la entrega.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 84.
 
-En la entrega del organismo municipal regulador del agua potable y alcantarillado, se estará al carácter de organismo público descentralizado y al acuerdo que en tal sentido tome el comité directivo.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 85.
 
-El documento de entrega-recepción deberá contener:
-
-I.- Acta Administrativa;
-
-II.- La estructura orgánica de la dependencia hasta el nivel jerárquico de departamento;
-
-III.- Una relación que señale el marco jurídico de actuación de la dependencia o entidad; y
-
-IV.- Formas debidamente requisitadas.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 86.
 
-Para los gastos pre operativos de la nueva administración municipal, se le deberá entregar al presidente municipal electo una partida especial que deberá establecerse en el presupuesto de egresos del último año de la administración. La partida, así como su manejo y entrega se deberá ceñir a las siguientes reglas:
-
-I.- La cantidad asignada será entregada en tres partes a más tardar en las siguientes fechas, la primera el día veinte de septiembre, la segunda el veinte de octubre y la tercera el treinta de noviembre;
-
-II.- El presidente municipal electo deberá firmar de recibido de las cantidades que se le entreguen; y
-
-III.- Para amparar la cantidad otorgada, se deberá acompañar a cada abono una póliza de cheque, así como los requisitos fiscales señalados por la ley de la materia.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 87.
 
-Las partidas entregadas por concepto de gastos pre operativos sólo deberán utilizarse para aquellos gastos estrictamente indispensables para preparación de la recepción de la administración municipal; cualquier cantidad que no sea utilizada deberá regresarse al erario municipal, y los bienes muebles que sean adquiridos deberán ser entregados al Municipio para que pasen a formar parte de su patrimonio.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 88.
 
-Si la documentación señalada no reúne los requisitos anotados, queda cargada a la cuenta personal de deudores diversos del presidente municipal electo, y será en todo caso su responsabilidad aclarar lo relativo al saldo.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 89.
 
-Una vez recibida la documentación que ampara los gastos realizados, la misma será revisada e integrada a la cuenta que corresponda.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ## TITULO CUARTO. DE LAS SESIONES DEL HONORABLE AYUNTAMIENTO
 
@@ -971,189 +669,133 @@ Una vez recibida la documentación que ampara los gastos realizados, la misma se
 
 ###### ARTICULO 90.
 
-Se denominará Cabildo al Ayuntamiento en Sesión, así como a sus integrantes de manera indistinta las sesiones serán presididas por el Presidente Municipal o por quien los (sic) sustituya legalmente, siendo en este caso el Primer Regidor. Las sesiones constarán en un libro de actas que se levantará llevando el método estenográfico, las cuales conformarán el Diario de Debates, por el período de enero a diciembre de cada año.
-
-Lo acontecido en las sesiones se consignará en el libro de actas en el que se debe publicar la fecha y el lugar en que se verificó la sesión, el sumario, síntesis de las discusiones en el orden que se desarrollen y resoluciones adoptadas. El acta se debe acompañar de los documentos a los que se le dé lectura.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 91.
 
-El Ayuntamiento celebrará sus sesiones en el salón de Cabildo. Este recinto será inviolable, en consecuencia se impedirá el acceso al mismo de la fuerza pública, salvo el caso que lo solicite el Presidente Municipal.
-
-El Presidente Municipal podrá solicitar el auxilio de la fuerza pública si así lo estima pertinente con objeto de salvaguardar la inviolabilidad del recinto oficial del Ayuntamiento.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 92.
 
-Las Sesiones se celebrarán en el Salón de Cabildo del Palacio Municipal, siendo éste el local que se haya destinado para tal efecto, pudiendo efectuarse en lugar distinto, siempre que el Cabildo en sesión así lo declare, previamente, recinto oficial.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 93.
 
-El Cabildo sesionará las veces que sea necesario para el debido conocimiento y despacho de los asuntos de su competencia. Debe de celebrar cuando mínimo una vez al mes, para efectos de aprobación, en su caso de la Cuenta Pública Municipal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 94.
 
-El Cabildo sesionará validamente con la asistencia a la sesión del quórum legal, siendo éste la mitad más uno del total de los integrantes. En el caso de que se discuta un asunto que debido a su naturaleza, requiera el voto de las dos terceras partes del total de los integrantes, el quórum legal para la validez de dicha sesión y de los acuerdos allí tomados será de dos terceras partes del total de los integrantes.
-
-Los acuerdos del Ayuntamiento se tomarán por mayoría de votos, salvo en el caso que por disposición de la ley se exija para la validez de los acuerdos, votación calificada, la que será de dos terceras partes de los integrantes del Cabildo.
-
-Si fuere el caso, el Secretario certificará, pasados 15 minutos de la hora señalada para la sesión, que no existe quórum legal para los efectos de suspensión de la misma.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 95.
 
-Las Sesiones del Cabildo serán: Ordinarias, Extraordinarias, Solemnes, por regla general las sesiones tendrán carácter de públicas.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 96.
 
-El H. Ayuntamiento podrá ordenar la comparecencia de cualquier funcionario de la Administración Pública Municipal, cuando se discuta algún asunto de su competencia, siempre que así lo requiera la mayoría de los integrantes.
-
-Dichos servidores públicos rendirán los informes solicitados, y se les podrá conceder el uso de la palabra para las aclaraciones correspondientes del caso cuando así lo amerite.
-
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2008)</small>
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 97.
 
-El Secretario del H. Ayuntamiento, deberá estar presente durante la celebración de las sesiones de Cabildo, para dar fe y refrendar los acuerdos tomados en la Sesión, pudiendo expedir certificaciones de los acuerdos asentados en el libro de actas.
-
-Las faltas temporales del Secretario del H. Ayuntamiento, serán suplidas por el Director de Asuntos Jurídicos.
-
-Será el Director de Asuntos Jurídicos quien auxiliara al Presidente, y fungirá como Secretario de manera temporal en la primera sesión ordinaria de cabildo, cuando para el efecto no se haya designado, ni tomado protesta de ley al que fungirá definitivamente como Secretario del Ayuntamiento.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 98.
 
-Es obligación de los integrantes del H. Ayuntamiento, concurrir a las Sesiones de Cabildo a que sean convocados. El Regidor o Síndico que falte sin causa justificada a cinco o más sesiones será sancionado de acuerdo a lo que señala la ley Municipal para el Estado de Aguascalientes y el presente Código.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 99.
 
-Las sesiones de Cabildo serán públicas y se podrá permitir el ingreso al recinto oficial al público en general, el cual deberá observar buena conducta y respeto hacia los integrantes de Cabildo.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO SEGUNDO. De las Sesiones Ordinarias
 
 ###### ARTICULO 100.
 
-Las Sesiones Ordinarias deberán celebrarse el primer lunes de cada mes, los Regidores y Síndico deberán ser citados con 72 horas de anticipación como mínimo por el Presidente Municipal, a través del Secretario del H. Ayuntamiento, proveyendo todos los documentos o datos necesarios donde se sustentan los puntos a tratar en el orden del día, a fin de estar en la posibilidad de que en la sesión se traten todos y cada uno de los asuntos correspondientes, anexándose al citatorio, el orden del día.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 101.
 
-Las sesiones ordinarias se sujetarán de manera preferencial, al siguiente orden:
-
-I.- Lista de asistencia;
-
-II.- Verificación del quórum legal;
-
-III.- Instalación legal de la sesión, mediante la declaración realizada por el Presidente o por quien lo sustituya legalmente;
-
-IV.- Lectura y aprobación, en su caso del orden del día;
-
-V.- Lectura, discusión y en su caso, aprobación, del acta de la sesión anterior;
-
-VI.- Desahogo de los puntos correspondientes;
-
-VII.- Asuntos generales;
-
-VIII.- Citación para la próxima sesión; y
-
-IX.- Clausura de la sesión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 102.
 
-El miembro del H. Ayuntamiento que no hubiere sido citado a una Sesión de Cabildo, podrá solicitar, dentro de las veinticuatro horas siguientes a la fecha en que haya tenido conocimiento de la sesión, que se vuelva a discutir en su presencia, el o los acuerdos tomados en su ausencia y el Secretario del H. Ayuntamiento le informará de los acuerdos tomados, debiendo quedar asentado en el acta respectiva su opinión sobre cada uno de los asuntos tratados.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO TERCERO. De las Sesiones Extraordinarias
 
 ###### ARTICULO 103.
 
-Se consideran Sesiones Extraordinarias, las que se celebren entre los periodos de sesiones ordinarias, y se tratará exclusivamente el o los asuntos para el que fue convocado el H. Cabildo, y serán citados por el Presidente Municipal o a petición de la mayoría de sus integrantes y si a juicio de ellos, exista algún asunto que lo amerite.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 104.
 
-La petición de sesión Extraordinaria, por parte de los integrantes se deberá expresar claramente el motivo que la origine y deberá dirigirse al Presidente Municipal, cuando menos con veinticuatro horas de anticipación a la fecha en que deba realizarse la sesión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 105.
 
-En las sesiones extraordinarias no podrá haber asuntos generales o diversos a los previstos para tal sesión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 106.
 
-Para las Sesiones Extraordinarias, los Regidores y Síndico deberán ser citados en cualquier momento por el Presidente Municipal a través del Secretario del H. Ayuntamiento, a efecto de estar en posibilidad de que en la sesión se traten todos y cada uno de los asuntos correspondientes, anexándose el orden del día, así como los documentos o datos necesarios donde se sustentan los puntos a tratar en el orden del día.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO CUARTO. De las Sesiones Solemnes
 
 ###### ARTICULO 107.
 
-Serán consideradas por este Código como Sesiones Solemnes las siguientes:
-
-I.- Donde se reciba el informe anual sobre el estado que guarda la administración pública, que deberá rendir el Presidente Municipal;
-
-II.- A las que asista el Gobernador del Estado, o el Presidente de la República;
-
-III.- Las que se celebren para declarar huéspedes distinguidos a quienes el Ayuntamiento haya decidido honrar con esta distinción;
-
-IV.- Aquéllas que el Cabildo les dé ese carácter por la importancia que revistan; y
-
-V.- Cuando se lleve a cabo el cambio de Gobierno Municipal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 108.
 
-Deberán asistir los integrantes del H. Ayuntamiento, conforme a la reglamentación protocolaria y podrá hacer uso de la palabra un representante del H. Ayuntamiento, previo acuerdo Colegiado.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 109.
 
-En las Sesiones Solemnes se podrá omitir la lectura del acta de la sesión anterior, asimismo no podrá haber asuntos generales, no se turnarán asuntos a Comisión ni se presentarán dictámenes para su discusión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 110.
 
-En las Sesiones Solemnes deberán de realizarse honores al Lábaro Patrio y se deberá de entonar el Himno Nacional Mexicano.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO QUINTO. De la Intervención del Público en las Sesiones
 
 ###### ARTICULO 111.
 
-En las Sesiones Ordinarias podrá el Cabildo oír al auditorio en sus opiniones sobre el asunto a tratar en el orden del día, previa solicitud que se haga por escrito. Por ningún motivo se permitirá la intervención del público, sin haberse satisfecho este requisito.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 112.
 
-Los ciudadanos a que se refiere el artículo anterior, deberán hacerlo saber al Secretario del H. Ayuntamiento, antes de iniciarse la sesión para su acuerdo y de haberse aprobado, deberán hablar sobre los temas para los cuales se les concede la intervención.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 113.
 
-En este tipo de sesiones el Cabildo escuchará la opinión del público que participe en la sesión y podrá tomarla en cuenta al dictar las resoluciones.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 114.
 
-En las sesiones con intervención al público, el Secretario del H. Ayuntamiento con la aprobación del Presidente Municipal, podrá suspender en el uso de la palabra al orador y ordenar desalojar el recinto parcial o totalmente en los siguientes casos:
-
-I.- Cuando la persona en uso de la palabra desvirtúe el tema que se esté tratando;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-II.- Cuando se profieran injurias, palabras obscenas, amenazas o serias acusaciones en contra de personas determinadas; por razones étnicas, religiosas, participación política ó de género;
-
-III.- Cuando se trate de exaltar el ánimo del auditorio, para presionar la opinión de los Regidores o Síndico;
-
-IV.- Cuando en el auditorio se observe alguna falta de respeto para alguno de los miembros del Cabildo o para alguno de los servidores públicos; y
-
-V.- Cuando se pretenda discutir asuntos de interés particular.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO SEXTO. Del Protocolo
 
 ###### ARTICULO 115.
 
-En las sesiones del H. Ayuntamiento, el Presidente Municipal ocupará su lugar al centro y el Secretario del H. Ayuntamiento a su derecha, los Regidores y Síndico ocuparán sus lugares alternativamente.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 116.
 
-Cuando se trate de la asistencia del C. Gobernador del Estado a alguna Sesión del H. Ayuntamiento, el Presidente Municipal nombrará dos comisiones para que la primera, lo acompañe al lugar donde se encuentra el recinto de sesiones, y la otra, lo acompañe cuando se retire.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 117.
 
-En el lugar de sesiones del H. Ayuntamiento, el C. Gobernador tomará asiento al centro y el Presidente Municipal tomará asiento al lado derecho del C. Gobernador. Si asistiera el C. Presidente de la República o su Representante, ocupará su lugar al centro, tomando asiento a la derecha el C. Gobernador y a la izquierda el C. Presidente Municipal. Para los demás invitados, se reservarán lugares especiales.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 118.
 
-Al entrar al recinto el Presidente de la República, el Gobernador del Estado o sus representantes, los presentes se pondrán de pie, y cuando salgan se hará lo mismo.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 119.
 
-En la sesión de instalación del H. Ayuntamiento y en las sesiones solemnes, el Presidente Municipal, los Regidores y Síndico deberán asistir vestidos de manera formal, de preferencia de color oscuro.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ## TITULO QUINTO. DE LAS INICIATIVAS REGLAMENTARIAS
 
@@ -1161,125 +803,113 @@ En la sesión de instalación del H. Ayuntamiento y en las sesiones solemnes, el
 
 ###### ARTICULO 120.
 
-Los integrantes del Ayuntamiento tienen la facultad de presentar iniciativas a fin de expedir disposiciones normativas de carácter municipal, tales como Códigos, Reglamentos, Circulares, Acuerdos, y de proyectos de leyes, en términos de lo establecido por el Artículo 36 fracción III de la Ley Municipal para el Estado de Aguascalientes. Solamente las iniciativas de Ley se turnarán al Congreso del Estado para su discusión y en su caso, aprobación.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 121.
 
-las iniciativas de disposiciones normativas de carácter municipal consisten en la expedición, reforma, adición, derogación o abrogación de las Disposiciones Municipales, que por su naturaleza son de carácter general, impersonal, abstractas y obligatorias, que otorgan derechos y constituyen obligaciones.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 122.
 
-Para efectos del presente, se entiende por Código la compilación de disposiciones de carácter municipal en un solo documento, agrupando dichas disposiciones en libros que regulan, cada uno de ellos un rubro de la Administración Pública Municipal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 123.
 
-Se entiende por Reglamento todas aquellas disposiciones de observancia municipal emanadas del Ayuntamiento en términos del Artículo 115 fracción II de la Constitución Política de los Estados Unidos Mexicanos.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 124.
 
-Se entiende por Acuerdos, las disposiciones administrativas de carácter general que se dictan con una vigencia temporal y atendiendo a las necesidades inmediatas del Gobierno Municipal o de los particulares.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 125.
 
-El Decreto Municipal es aquel que en el ámbito de las atribuciones del Ayuntamiento, otorga derechos o constituye obligaciones, a determinada persona, tanto física como moral.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 126.
 
-Los acuerdos son disposiciones de carácter interno, ya sea acuerdos económicos, circulares internas, instructivos, acuerdos informativos, manuales y otros análogos y por su propia naturaleza, para su validez no requieren publicación, o promulgación con las solemnidades de las leyes.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 127.
 
-Para efectos del articulo anterior, se entiende por acuerdos económicos las resoluciones del Ayuntamiento que tienen por objeto fijar la postura, tanto política, económica, cultural o social del Ayuntamiento respecto asuntos de interés público.
-
-Se entiende por circulares internas, instructivos, acuerdos informativos, manuales y otros análogos son las resoluciones emanadas del Ayuntamiento respecto del propio funcionamiento administrativo interno y que no inciden directamente entre los gobernados.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO SEGUNDO. Del Trámite de las Iniciativas
 
 ###### ARTICULO 128.
 
-Las iniciativas se presentarán ante el pleno del Cabildo mediante escrito firmado o por él o los promoventes, o en su caso, por la comisión respectiva, debiendo contener:
-
-I.- Exposición de motivos;
-
-II.- Propuesta del articulado que se pretenda crear, reformar, adicionar o derogar, sobre los temas de competencia municipal, cumpliendo con los requisitos del Artículo 115 Constitucional;
-
-III.- Propuesta concreta de los términos del Código, Reglamento, decreto, acuerdo, que se pretende emita el Ayuntamiento; y
-
-IV.- Artículos transitorios, donde se señale, entre otras cosas, las disposiciones que se derogan, o abrogan en su caso y la fecha de entrada en vigor.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 129.
 
-Recibida una iniciativa, el Presidente Municipal propondrá al Ayuntamiento se turne a la Comisión Respectiva, para su estudio y dictamen
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 130.
 
-Cuando la naturaleza del asunto así lo permita, se podrán acumular dos o más iniciativas en un mismo dictamen.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 131.
 
-Las comisiones deberán de rendir su dictamen dentro de los treinta días naturales siguientes a que se les turnó el asunto. Este plazo puede ampliarse a petición de la propia comisión, si considera que requiere de un mayor tiempo para su estudio. Dicha prórroga deberá de autorizarla el Ayuntamiento.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 132.
 
-Los dictámenes deberán de constar por lo menos de dos partes, la primera considerativa o CONSIDERANDOS, que es la parte donde se expresará una síntesis de las actuaciones de la comisión en el análisis del dictamen especifico, así como las manifestaciones pertinentes, tales como los fundamento (sic) legales en que se apoyen, la aplicabilidad del dictamen, la segunda parte será la resolutiva o de PUNTOS RESOLUTIVOS, donde se establecerán los puntos medulares del dictamen.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 133.
 
-Las resoluciones de las comisiones se tomarán, en su caso, por mayoría de votos y deberán de estar firmadas por la mayoría de los integrantes de la comisión respectiva.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 134.
 
-En caso de que algún integrante de la comisión votase en contra el dictamen, éste podrá solicitar que en la sesión de cabildo se debata el dictamen y se asiente su voto particular en contra, el cual formará parte del precitado documento.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 135.
 
-Antes de que se someta a votación un dictamen, cualquier miembro del Ayuntamiento, podrá solicitar que se remita el dictamen a la comisión de origen para mayor estudio. El Ayuntamiento resolverá sobre la procedencia de dicha solicitud.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 136.
 
-Ninguna iniciativa podrá ser sometida a la consideración del Ayuntamiento sin que antes sea examinada y dictaminada por la comisión o comisiones correspondientes.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 137.
 
-Los acuerdos, circulares y demás disposiciones administrativas de observancia general, serán expedidos por el H. Ayuntamiento, de manera excepcional y complementaria al Código.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 138.
 
-Las iniciativas correspondientes al presupuesto de egresos y sus reformas, sólo podrán presentarse por el Presidente Municipal o el Regidor de la Comisión de Hacienda y Programación del Gasto Público.
-
-La iniciativa de Ley de Ingresos para el ejercicio fiscal del año siguiente, deberá de aprobarse por mayoría de votos y dar cuenta al Congreso del Estado, a más tardar el 31 de octubre de cada año.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 139.
 
-En las deliberaciones para la aprobación de las normas y reglamentos municipales únicamente participarán el Presidente Municipal, los Regidores y Síndico; el Secretario del H. Ayuntamiento sólo participa con voz.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 140.
 
-Cuando se rechace por el H. Cabildo la iniciativa de una norma municipal no podrá presentarse de nueva cuenta para su estudio, en un término menor de seis meses.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 141.
 
-Para que un proyecto de norma municipal se entienda aprobado, es preciso el voto en sentido afirmativo, tanto en lo general como en lo particular de la mayoría del Cuerpo Colegiado.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 142.
 
-Aprobado por el Cabildo, en los términos del artículo que antecede, el proyecto, pasará al Presidente Municipal para su promulgación.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 143.
 
-Para ser obligatoria toda norma de carácter general expedida por el H. Ayuntamiento, deberá ser publicada en el Periódico Oficial del Estado, y se procurará hacerlo del conocimiento de la población del municipio pegando una copia en los lugares visibles de la cabecera Municipal, Delegaciones y Comisarías Municipales, y a través de los diversos medios de comunicación que en su momento se consideren convenientes.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 144.
 
-Las normas municipales entrarán en vigor, simultáneamente en todo el Municipio, al día siguiente de su publicación en el Periódico Oficial del Estado, salvo que en la propia disposición se fije una fecha distinta.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 145.
 
-Los Reglamentos emanados del H. Ayuntamiento podrán modificarse en cualquier tiempo, siempre que se cumplan los requisitos de su aprobación, expedición y promulgación.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 146.
 
-En todo lo no previsto en este Código, se recurrirá a las disposiciones de la Ley Municipal para el Estado de Aguascalientes y demás leyes vigentes aplicables al Municipio.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ## TITULO SEXTO. DE LAS DISCUSIONES DEL CABILDO
 
@@ -1287,143 +917,123 @@ En todo lo no previsto en este Código, se recurrirá a las disposiciones de la 
 
 ###### ARTICULO 147.
 
-El Presidente Municipal, presidirá y dirigirá los debates, en los que podrán participar todos los integrantes del H. Cabildo, en el orden en que soliciten hacer uso de la palabra. Los Regidores y Síndico que hagan uso de la palabra tendrán absoluta libertad para expresar sus ideas.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 148.
 
-El Presidente Municipal, los Regidores y Síndico, podrán proponer, opinar, informar y discutir en forma razonada y respetuosa, sobre los asuntos que conozca el Cabildo.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 149.
 
-Las opiniones o propuestas que se realicen en el punto de asuntos generales establecido en el orden del día de la sesión, no serán sometidas a votación inmediata, se turnarán a la comisión correspondiente. De estimarse por el H. Cabildo que ameritan análisis, serán incluidos en el orden del día de la siguiente sesión ordinaria.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 150.
 
-Durante las discusiones, el Presidente Municipal, los Regidores y Síndico guardarán compostura. Las intervenciones serán en todo caso claras y precisas, las que deberán referirse al asunto en análisis; cuando se suscite alguna desviación el Secretario del H. Ayuntamiento, pedirá al expositor que se conduzca exclusivamente al tema en análisis.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 151.
 
-Al ponerse a discusión todo asunto, deberán exponerse las razones y fundamentos que los motiven. Si al término de dicha exposición nadie solicitare el uso de la palabra, o bien cuando se considere suficientemente discutido se someterá a votación.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 152.
 
-Cuando un dictamen o propuesta constare de más de un artículo, se discutirá en lo general y si se declara que ha lugar a votación, podrá discutirse y resolverse en lo particular. Siempre que El Presidente Municipal, un Regidor o Síndico lo pida, podrá el Cabildo acordar por mayoría de votos, que se divida en las partes que sea necesario para facilitar la discusión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 153.
 
-Si se propusieran enmiendas a un artículo, el autor o autores de la propuesta, dictamen o promoción que se discuta, manifestarán si están conformes con aquéllas. En este caso se discutirá el artículo enmendado, de lo contrario se discutirá tal como se propuso al principio. Sólo en caso de que el artículo fuere desechado, se discutirá la enmienda.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 154.
 
-Si se propusieran adiciones y las aceptara el autor de la proposición, opinión o dictamen se discutirán conjuntamente; en caso contrario, se discutirán las adiciones en la siguiente sesión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 155.
 
-Si el dictamen fuere desechado, cualquier integrante del Cabildo podrá proponer los términos en que deba resolverse el asunto, y entonces se pondrá a discusión la nueva propuesta. Si ninguno quisiera hacer la proposición, volverá el dictamen a la Comisión para que lo presente reformado.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 156.
 
-No podrá efectuarse ninguna discusión, ni resolverse ningún asunto, cuando el Regidor o el Síndico estén ausentes, por causa justificada, excepto cuando la persona aludida hubiere expresado su consentimiento por escrito. Cuando la Comisión esté integrada por dos o más Regidores bastará la presencia de uno de ellos para la discusión del asunto.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 157.
 
-En materia de discusiones, sólo se concederá el uso de la palabra hasta en tres ocasiones a un mismo Regidor o Síndico por un lapso máximo de cinco minutos cada una de ellas, a excepción del o los autores del dictamen o proposición y los comisionados del ramo, quienes podrán intervenir cuando lo deseen, mientras no se declare por el pleno que el asunto está suficientemente discutido. Se exceptúan de lo anterior, aquellos casos en que por la importancia del tema, el cabildo al inicio de la sesión apruebe que no haya limitación en el tiempo y número de participaciones.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 158.
 
-Cuando los integrantes del H. Cabildo fueran objeto de alusiones personales dentro de la sesión, podrán contestarlas si lo desean, haciendo uso de la voz, hasta por cinco minutos.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 159.
 
-Ninguna discusión podrá suspenderse, si no ha concluido, a menos que la mayoría de los integrantes del H. Cabildo así lo dispongan.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 160.
 
-Iniciada la discusión de un asunto, sólo podrá suspenderse:
-
-I.- Por desórdenes graves en el recinto; y
-
-II.- Por moción suspensiva a propuesta de uno de los miembros del Cabildo, y que sea aprobado por mayoría del mismo.
-
-Si se decide suspender la sesión, el Presidente Municipal dictará nueva fecha, para la continuación de la misma, debiendo de reanudarse dentro de los tres días siguientes al día de la suspensión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 161.
 
-En las discusiones generales de los asuntos, terminada la intervención de los oradores, el Presidente Municipal preguntará a los miembros del Cabildo si consideran que están suficientemente discutidos, y si así fuere, declarará agotados tales asuntos, sometiéndolos a votación.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 162.
 
-Cuando sea desechado un proyecto o dictamen en lo general el Presidente Municipal cuestionará a los miembros del H. Cabildo, si se devuelve a la comisión respectiva para un nuevo estudio o si se desecha en forma definitiva; esta resolución se tomará en votación nominal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 163.
 
-Los Regidores integrantes de alguna comisión deberán, concretarse a vigilar y a observar las actividades que correspondan a sus ramos, comunicando al H. Ayuntamiento las irregularidades detectadas, proponiendo en su caso las medidas de solución conducentes.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO SEGUNDO. De las Votaciones
 
 ###### ARTICULO 164.
 
-Las votaciones en las sesiones serán de tres clases:
-
-I.- Económicas: Que consiste en levantar la mano los que aprueben la resolución correspondiente, y no hacerlo, los que voten en contra;
-
-II.- Nominales: Consiste en preguntar personalmente a los integrantes del H. Cabildo si aprueba o desaprueba, debiendo contestar a favor o en contra; y
-
-III.- Secretas: Consiste en emitir el voto a través de cédulas diseñadas para tal fin y en forma impersonal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 165.
 
-En caso de empate por cualquiera de los medios de votación el asunto se resolverá por el voto de calidad de quien presida la sesión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 166.
 
-La votación económica será para la aprobación de: el Orden del Día y la del Acta de la Sesión anterior, la votación nominal será para la aprobación de: Dictámenes y Reglamentos, y la votación secreta, cuando el caso lo amerite.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 167.
 
-La aprobación de dictámenes, reglamentos, circulares y decretos, podrá darse por:
-
-I.- Unanimidad cuando todos los integrantes del Cabildo voten a favor;
-
-II.- Por mayoría cuando por lo menos el cincuenta por ciento más uno; y
-
-III.- Por mayoría calificada, cuando voten a favor las dos terceras partes del total de los integrantes del Cabildo. Esta forma de aprobación, solo procederá en los casos expresamente requeridos por la ley.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 168.
 
-Mientras la votación se verifica, ningún integrante del Cabildo podrá salir o abandonar el recinto de sesiones, salvo permiso previo de quien preside la misma, en caso contrario se le aplicarán las sanciones que previene la Ley y el presente Código.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 169.
 
-El Presidente Municipal será el responsable de dar cumplimiento a los acuerdos tomados por los integrantes del Cabildo, debiendo informar de los resultados en las sesiones posteriores. Para efectos del presente artículo podrá delegar funciones en el Secretario del H. Ayuntamiento o en la persona que estime pertinente.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO TERCERO. De los Acuerdos
 
 ###### ARTICULO 170.
 
-En todas las sesiones que celebre el Cabildo deberá levantarse un acta pormenorizada, la cual deberá de ser firmada por los participantes en la sesión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 171.
 
-Toda resolución o acuerdo emanado del Ayuntamiento, para su plena validez deberá de estar asentado en el libro de actas.
-
-Las fojas de las actas deberán de estar debidamente foliadas y no deberán presentar enmendaduras, rayones, tachaduras. En caso de presentarse un error en el texto o en la redacción, no se rayoneará, sino que se deberá insertar la leyenda, "se dice", continuando con la escritura del texto.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 172.
 
-Las resoluciones emanadas del Ayuntamiento de carácter general, abstracto, impersonal y obligatorio, para su observancia y validez, deberán de ser publicadas en (sic) Periódico Oficial del Estado.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 173.
 
-Las resoluciones emanadas del Ayuntamiento que no sean de carácter general y que afecten o limiten los derechos de los particulares, deberán de notificárseles personalmente, de conformidad con este Código y las demás leyes aplicables en la materia.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 174.
 
-Los acuerdos tomados legalmente por el Cabildo podrán revocarse únicamente en una sesión a la que concurran las dos terceras partes del total de los integrantes del mismo y siempre y cuando exista causa justificada para tal efecto.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 175.
 
-Los integrantes del Cabildo que no asistieren a la sesión, sin causa justificada no podrán emitir su voto con posterioridad. Los integrantes del Cabildo que no asistieren a la sesión, pero hubiere causa justificada a juicio del Cabildo, podrán emitir su voto por escrito, el cual deberá de presentarse al inicio de la sesión en sobre sellado, el cual se abrirá al momento de las votaciones el cual deberá ser posteriormente ratificado para hacerse constar en el acta correspondiente.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ## TITULO SEPTIMO. DE LAS SANCIONES
 
@@ -1431,43 +1041,19 @@ Los integrantes del Cabildo que no asistieren a la sesión, sin causa justificad
 
 ###### ARTICULO 176.
 
-Cuando un miembro del H. Ayuntamiento infrinja las disposiciones contenidas en la Ley Municipal para el Estado de Aguascalientes o en el presente Código, se hará acreedor a las siguientes sanciones, sin menoscabo de los que establezcan las demás leyes aplicables en la materia, atendiendo a la gravedad de la falta:
-
-l.- Amonestación por parte de quién preside la sesión, apercibiéndolo al cumplimiento de sus obligaciones, con el apercibimiento de que en caso de reincidir en conductas impropias, se le aplicarán sanciones de mayor rigidez;
-
-II.- Suspensión en el pago de sus dietas, en caso de reincidencia; y
-
-III.- Las sanciones y responsabilidades que resulten aplicables en los términos de la Ley Municipal para el Estado de Aguascalientes y la Ley de Responsabilidades de los Servidores Públicos del Estado de Aguascalientes.
-
-Las sanciones antes enumeradas serán aplicadas por el Ayuntamiento, de acuerdo con la gravedad de la falta cometida, de conformidad con el artículo 178 del presente Código.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 177.
 
-Los miembros del Ayuntamiento que incurran en faltas de asistencia a las sesiones o el incumplimiento de sus responsabilidades como integrantes de las comisiones, se harán acreedores a los descuentos proporcionales en sus dietas.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 178.
 
-En el caso de que un integrante del Ayuntamiento faltare cinco veces a las sesiones de Cabildo, aún cuando no sean consecutivas sin que exista causa justificada se le separará de su cargo y se llamará a su suplente.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 179.
 
-Son consideradas infracciones imputables a los integrantes del Ayuntamiento:
-
-I.- Ocasionar daños y perjuicios a la Hacienda Publica Municipal, por el uso inadecuado en el manejo de sus recursos;
-
-II.- Atacar a las instituciones públicas, al normal funcionamiento de las mismas, a la forma de gobierno, a las garantías individuales o sociales y a la libertad del voto;
-
-III.- Violar la Constitución Federal o Local, las leyes que de ambas emanen, cuando dicha violación represente daños graves al Municipio;
-
-IV.- Realizar actos que implique (sic) violaciones sistemáticas a los planes o programas de Gobierno;
-
-V.- Propiciar entre los miembros del Ayuntamiento conflictos que obstaculicen (sic) cumplimiento de sus fines o el ejercicio de sus competencias;
-
-VI.- Usurpar funciones y atribuciones públicas;
-
-VII.- Utilizar su autoridad o influencia oficial para hacer que los votos en las elecciones recaigan en determinado candidato o partido; y
-
-VIII.- Ordenar la privación de la libertad de las personas fuera de los casos previstos por la ley.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ## TITULO OCTAVO. DE LAS COMISIONES
 
@@ -1475,101 +1061,39 @@ VIII.- Ordenar la privación de la libertad de las personas fuera de los casos p
 
 ###### ARTICULO 180.
 
-Las comisiones serán integradas a propuesta del Presidente Municipal, a más tardar en la segunda sesión ordinaria del H. Cabildo y, podrán ser modificadas previo acuerdo del mismo y durarán todo el periodo Constitucional, asumiendo las facultades y obligaciones contempladas en la Ley Municipal para el Estado de Aguascalientes, así como en el presente Código y demás reglamentos que al efecto se expidan.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 181.
 
-Las comisiones podrán ser integradas hasta por tres regidores. Sin embargo podrán ser ocupadas solamente por un integrante. El regidor que presida la comisión será el responsable del buen funcionamiento de la misma y de rendir los informes de las actividades al H. Cabildo.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 182.
 
-Para el mejor desempeño de sus funciones los regidores trabajarán en comisiones, debiendo rendir mensualmente al H. Cabildo un informe de las actividades desarrolladas durante el mes, así como de las incidencias de los ramos a su cargo.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 183.
 
-Para efectos de los informes de que habla el artículo anterior, los titulares de las comisiones deberán entregar al Secretario del Ayuntamiento a más tardar al inicio de la sesión ordinaria mensual el informe por escrito de su comisión a efecto de que pueda ser discutido en la propia sesión. El titular o cualquiera de los miembros de la comisión podrán leer el informe o una síntesis del mismo, no debiendo excederse de más de tres minutos para dicha lectura.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 184.
 
-Los integrantes de una comisión tendrán como obligación el sostener al menos una reunión mensual con los responsables de las áreas a cargo de la comisión, a efecto de estar enterados debidamente del funcionamiento de la administración; las comisiones colegiadas deberán tener además al menos una reunión interna semanal en la que se traten los asuntos competencia de la comisión, las cuales deberán ser citadas por el titular, y en la cual se levantará minuta donde se asentará una síntesis del tema tratado, de las propuestas, conclusiones y en general de todas las incidencias de la reunión.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 185.
 
-Las comisiones especiales deberán rendir sus dictámenes, en la siguiente sesión ordinaria a la fecha en que se turnen los asuntos de su competencia.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 186.
 
-De las atribuciones, así como el Régimen de Suplencias del H. Ayuntamiento, del Presidente Municipal, de los Regidores y Síndicos, se estará a lo dispuesto en la Ley Municipal para el Estado de Aguascalientes.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 187.
 
-El H. Ayuntamiento nombrará las comisiones que tendrán la obligación de vigilar el ramo de la administración que se les encomiende, se les integran comisiones permanentes, y serán las siguientes:
-
-I.- Agua Potable, Alcantarillado y Saneamiento;
-
-II.- Aseo y Alumbrado Público;
-
-III.- Derechos Humanos;
-
-IV- Ecología;
-
-V.- Educación Pública y Acción Cívica;
-
-VI.- Fomento Agropecuario y Desarrollo Rural;
-
-VII.- Fomento y Desarrollo Económico;
-
-VIII.- Gobernación;
-
-IX.- Hacienda y Programación del Gasto Público;
-
-X.- Licencias y Espectáculos Públicos;
-
-XI.- Mercados y Rastros;
-
-XII.- Nomenclaturas;
-
-XIII.- Obra Pública y Desarrollo Urbano;
-
-XIV.- Parques y Jardines;
-
-XV.- Participación Ciudadana;
-
-XVI.- Planeación del Desarrollo Municipal;
-
-XVII.- Promoción Cultural y Fomento Deportivo;
-
-XVIII.- Protección Civil, Seguridad Pública, Tránsito y Vialidad;
-
-XIX.- Reglamentos y Justicia;
-
-XX.- Relojes y Panteones;
-
-XXI.- Salubridad y Beneficencia Pública; y (sic)
-
-> <small>(ADICIONADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-XXII.- De Equidad y Género; y
-
-XXIII.- Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 188.
 
-Las comisiones del Ayuntamiento sin perjuicio de las funciones particulares que se enuncian en dispositivos posteriores, tendrán los siguientes objetivos generales:
-
-I.- Estudiar, proponer y dictaminar lo correspondiente en cuanto a las directrices de la política municipal a seguir en la atención de la materia de que se trate, presentando al Ayuntamiento en pleno, los dictámenes relativos a propuestas de acuerdos, contratos, convenios, reglamentos, disposiciones administrativas de observancia general, así como de medidas que se estimen idóneas adoptar en relación a los asuntos que les hubieren sido turnados para su atención;
-
-II.- Proponer al Ayuntamiento en pleno las medidas o acciones tendientes al mejoramiento de los servicios públicos y actividades de intereses públicos del área correspondiente a la comisión;
-
-III.- Vigilar y atender los asuntos del área correspondiente a la comisión en forma independiente o conjunta con aquellas comisiones encargadas de la atención de materias concurrentes;
-
-IV.- Proponer al Ayuntamiento las medidas, acciones o programas tendientes a la conservación y mejoramiento de los bienes que integran el patrimonio municipal del área que corresponda a su respectiva comisión. En su caso, se turnará el asunto correspondiente a la comisión que deba conocer del mismo;
-
-V.- Someter a consideración del Ayuntamiento en pleno, los dictámenes relativos e iniciativas de reglamentos, de disposiciones administrativas de observancia general, de acuerdo a medidas tendientes a mejorar o a hacer más practicas y efectivas las actividades municipales, específicamente aquellas que se señalan como atribuciones de cada comisión;
-
-VI.- Establecer un seguimiento a los acuerdos y dictámenes del Ayuntamiento, así como de la normatividad jurídica de las materias de su competencia, para vigilar su cumplimiento y eficaz aplicación; y
-
-VII.- Designar de entre sus integrantes, al regidor que habrá de representar a la comisión respectiva en aquellos consejos, organismos o instancias que precisen la intervención de la comisión del Ayuntamiento correspondiente, en los términos de la disposición especifica.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO SEGUNDO. De las Comisiones en Particular
 
@@ -1579,15 +1103,7 @@ De la Comisión de Agua Potable y Alcantarillado
 
 ###### ARTICULO 189.
 
-Son obligaciones y atribuciones de la Comisión de Agua potable, Alcantarillado y Saneamiento:
-
-I.- Dictaminar o proponer lo conducente en relación a estudios, programas y acciones tendientes a mejorar el sistema de agua y alcantarillado del municipio;
-
-II.- Mantenerse informada y comunicar lo conducente al Ayuntamiento en relación a la operación y programas de trabajo de los servicios públicos que proporciona la Comisión de Agua Potable, Alcantarillado y Saneamiento de Cosío;
-
-III.- Vigilar la operación y desempeño de los servicios públicos en cuestión, en cuanto se desempeñen directamente por el ayuntamiento a través de las dependencias municipales correspondientes, así como verificar que se apoye el suministro de agua mediante pipas a los asentamientos humanos que carecen del servicio, en la medida de las posibilidades del Ayuntamiento; y
-
-IV.- Vigilar la conservación de los sistemas de desagüe, drenaje y colectores del Municipio, en forma conjunta con la comisión de obra pública y desarrollo urbano, así como procurar la conservación de los manantiales de abastecimiento de agua potable, en coordinación con la comisión edilicia de ecología.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO SEGUNDO
 
@@ -1595,21 +1111,7 @@ De la Comisión de Aseo y Alumbrado Público
 
 ###### ARTICULO 190.
 
-Son obligaciones y atribuciones de la Comisión de Aseo y Alumbrado Público:
-
-I.- Proponer y dictaminar lo correspondiente en relación a estudios, programas y acciones para zonas especificas y colonias del municipio en cuanto versen sobre la instalación, mantenimiento y supervisión de los sistemas de Alumbrado publico, apoyándose para ello en la dependencia municipal en materia de alumbrado publico y en otras oficinas e instancias como la comisión federal de electricidad y el comité de planeación para el desarrollo municipal;
-
-II.- Dictaminar respecto al cumplimiento de sus obligaciones en materia de alumbrado público, de los fraccionamientos que vayan a ser recibidos;
-
-III.- Proponer y dictaminar conjuntamente con la comisión edilicia de parques y jardines, lo correspondiente a la instalación y mejoramiento del alumbrado público y ornamental en todo el municipio y en particular en vías de comunicación, plazas publicas, parques, jardines y lugares más frecuentados por los habitantes del municipio y por el turismo, incluyendo edificios y monumentos históricos conmemorativos;
-
-IV.- En general de planificar la mejoría constante y total del servicio de alumbrado público en el municipio y promover que se implementen programas de ahorro de energía.
-
-V.- Vigilar en general la prestación de servicio público de limpia, lo que implica la organización y funcionamiento de la dependencia encargada de ministrar el mismo;
-
-VI.- Estudiar y proponer al Ayuntamiento programas, acciones y sistemas relativos al servicio de aseo público, que se estimen adecuados para el municipio;
-
-VII.- Promover el establecimiento de un programa de colaboración por parte de los vecinos y las asociaciones vecinales que funcionen en el municipio, para una mejor administración del servicio público de aseo.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO TERCERO
 
@@ -1617,19 +1119,7 @@ De la Comisión de Derechos Humanos
 
 ###### ARTICULO 191.
 
-Son obligaciones y atribuciones de la Comisión de Derechos Humanos:
-
-I.- Vigilar que la administración municipal en el desarrollo de las funciones que le competen respete los derechos fundamentales del ser humano, dando cuenta al Ayuntamiento en pleno, al presidente municipal y a la Comisión Estatal de Derechos Humanos de cualquier trasgresión que a los mismos advierta;
-
-II.- Promover al Ayuntamiento en pleno la adopción de medidas que promuevan la cultura y la divulgación de los derechos humanos en el municipio;
-
-III.- Proponer la expedición de normas jurídicas y promover la reforma de los reglamentos vigentes, en aquellas disposiciones que tiendan a eficientar y actualizar plenamente los derechos humanos de la población;
-
-IV.- Coadyuvar con las instancias, las autoridades y organismos vinculados a los derechos humanos;
-
-V.- Visitar periódicamente las dependencias e instalaciones de los organismos municipales de reclusión o detención, a efecto de vigilar la exacta observación de las garantías constitucionales de que son titulares los individuos privados de su libertad; y
-
-VI.- Promover la capacitación en materia de derechos humanos para los servidores públicos municipales.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO CUARTO
 
@@ -1637,19 +1127,7 @@ De la Comisión de Ecología
 
 ###### ARTICULO 192.
 
-Son obligaciones y atribuciones de la Comisión de Ecología:
-
-I.- El estudio, propuesta y dictaminación, en su caso, de los programas y sistemas que puedan beneficiar el ambiente ecológico en el municipio;
-
-II.- Vigilar que las dependencias municipales coadyuven con las autoridades sanitarias y ecológicas en los programas y campañas de saneamiento ambiental en el municipio;
-
-III.- Obtener información sobre experiencias efectivas de saneamiento ambiental en otros municipios, estados o países, a efecto de considerar la posibilidad de aplicación en la jurisdicción Municipal;
-
-IV.- Promover el desarrollo de la cultura ecológica entre la población, para el cuidado del aire, agua, suelo y del medio ambiente en general;
-
-V.- Vigilar conjuntamente con la comisión de parques y jardines, cumplimiento y aplicación de las normas jurídicas sobre ecología, reforestación, control ambiental, poda y derribo de árboles y áreas verdes el (sic) general, así como de aquellas disposiciones, medidas, acuerdos o programas que se implementen, tendientes a la mejora en las condiciones de las materias en cuestión;
-
-VI.- Vigilar conjuntamente con la Comisión de Fomento y Desarrollo Económico, que el desarrollo económico sea armónico con el cuidado de las normas ecológicas aplicables, evitando la contaminación del aire, del suelo y de los mantos acuíferos.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO QUINTO
 
@@ -1657,23 +1135,7 @@ De la Comisión de Educación Pública y Educación Cívica
 
 ###### ARTICULO 193.
 
-Son obligaciones y atribuciones de la Comisión de Educación Pública y Acción Cívica:
-
-I.- Visitar periódicamente los centros de estudios, escuelas y academias que funcionan dentro del municipio, para observar el desarrollo de los planes y sistemas educativos en los programas de estudio;
-
-II.- Vigilar que la dependencia correspondiente recabe la información estadística concerniente a los diversos niveles educativos que operen dentro del municipio, los centros o planes educativos en él establecidos, así como la demanda poblacional en esta materia; lo anterior a efecto de orientar convenientemente la política educativa en el municipio y gestionar ante las entidades y organismos competentes, las acciones que tiendan a satisfacer el servicio en comento;
-
-III.- Coadyuvar con las autoridades Federales y Estatales en todo lo referente a la promoción y difusión de la educación en todos los niveles, según los planes y programas que se tracen al respecto;
-
-IV.- Vigilar la organización de las actividades cívicas del Municipio y del Ayuntamiento;
-
-V.- Vigilar que se llame a participar a los diversos sectores de la población en las Festividades Cívicas;
-
-VI.- Vigilar que la dependencia municipal correspondiente elabore y ejecute el calendario de programas de actividades cívicas de cada año del Ayuntamiento;
-
-VII.- Asistir conjuntamente con el Presidente Municipal al desarrollo de las actividades cívicas y representarlo en los casos que éste determine; y
-
-VIII.- En general planear y promover la elevación del nivel cívico de la población.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO SEXTO
 
@@ -1681,19 +1143,7 @@ De la Comisión de Fomento Agropecuario y Desarrollo Rural
 
 ###### ARTICULO 194.
 
-Son obligaciones y atribuciones de la Comisión de Fomento Agropecuario y Desarrollo Rural:
-
-I.- Proponer y dictaminar en cuanto a los programas para el fomento e impulso de la producción agropecuaria, en la realización de obras de infraestructura para el desarrollo, rural y social, establecimiento de los agro servicios o la mejora de los existentes;
-
-II.- Proponer el establecimiento de planes pilotos para difundir la tecnología agropecuaria en el municipio;
-
-III.- Promover la conservación de cultivos nativos o por vocación agrícola de las zonas del municipio, que sean adecuadas para ese fin, de conformidad a los planes de desarrollo;
-
-IV.- Programar mejoras en las áreas rurales del municipio;
-
-V.- Implementar programas en áreas rurales de mayor necesidad; y
-
-VI.- Buscar estrategias de mayor rapidez y mejoramiento de los planes de las áreas rurales.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO SÉPTIMO
 
@@ -1701,15 +1151,7 @@ De la Comisión de Fomento y Desarrollo Económico
 
 ###### ARTICULO 195.
 
-Son obligaciones y atribuciones de la Comisión de Fomento y Desarrollo Económico:
-
-I.- Coadyuvar a la instrumentación de planes y programas de promoción, coordinación, apoyo y fomento del desarrollo económico del municipio, así como el de vigilar su cumplimiento, particularmente el desarrollo industrial, comercial, agroindustrial, turístico, artesanal y el abasto del municipio;
-
-II.- Vigilar la Promoción Económica del municipio de Cosío, en coordinación con la Secretaría de Desarrollo Económico del Gobierno del Estado, para elaborar, distribuir y difundir programas de actividades relativas a la divulgación y conocimiento del municipio en todos sus aspectos;
-
-III.- Proponer medias (sic) y acciones encaminadas a promover la imagen de Cosío, en el país y en el extranjero para continuar acrecentando las inversiones de tipo industrial, comercial, agropecuario, artesanal y de servicios en el municipio y la creación de empleos; y
-
-IV.- Establecer comunicación permanente con los representantes de los diversos organismos y sectores económicos y sociales del extranjero, del país, del estado y del municipio, a efecto de estudiar todas aquellas medidas que favorezcan las inversiones y la creación de empleos.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO OCTAVO
 
@@ -1717,13 +1159,7 @@ De la Comisión de Gobernación
 
 ###### ARTICULO 196.
 
-Son obligaciones y atribuciones de la Comisión de Gobernación:
-
-I.- Vigilar el exacto cumplimiento de la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Aguascalientes y las leyes y reglamentos de aplicación municipal, así como del presente Código en las actuaciones oficiales del Ayuntamiento;
-
-II.- Cuidar y vigilar que se ejecuten las resoluciones del Ayuntamiento; y
-
-III.- Formular las iniciativas y los dictámenes en cuanto a los proyectos de reglamentos municipales y disposiciones generales para el Ayuntamiento.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO NOVENO
 
@@ -1731,17 +1167,7 @@ De la Comisión de Hacienda y Programación del Gasto Público
 
 ###### ARTICULO 197.
 
-Son obligaciones y atribuciones de la Comisión de Hacienda y Programación del Gasto Público:
-
-I.- Intervenir con el encargado de la Hacienda Municipal en al (sic) formulación del proyecto de Ley de Ingresos y del Presupuesto de Egresos del Municipio;
-
-II.- Revisar mensualmente los informes de la Hacienda Municipal sobre los movimientos de ingresos y egresos; por el periodo del mes anterior, incluyendo un extracto de los movimientos de cada sub-cuenta, pidiendo al responsable de la Hacienda Municipal las aclaraciones y ampliaciones a la información que juzguen conveniente. Visaran con su firma una copia de los mencionados documentos.
-
-III.- Vigilar, que todos los contratos de compraventa, de comodato, de arrendamiento, o de cualquier naturaleza que impliquen aspectos económicos o financieros que afecten los intereses del Ayuntamiento, se lleven a cabo en los términos más convenientes para éste;
-
-IV.- Vigilar los programas específicos de las diferentes dependencias del Ayuntamiento, a efectos de verificar que los recursos económicos, físicos y humanos se manejen con el máximo de eficacia, rectitud y operatividad; y
-
-V.- En general, las medidas, planes y proyectos y la realización de los estudios necesarios para el mejoramiento y fortalecimiento de la Hacienda Municipal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO DECIMO
 
@@ -1749,15 +1175,7 @@ De la Comisión de Licencias y Espectáculos Públicos
 
 ###### ARTICULO 198.
 
-Son obligaciones y atribuciones de la Comisión de Licencias y Espectáculos Públicos:
-
-I.- Vigilar que la dependencia correspondiente aplique especial atención a las características que deben reunir los lugares en que se autoricen espectáculos públicos, en lo concerniente a la seguridad que los establecimientos brinden a los concurrentes y que se efectúe la labor de vigilancia en cuanto a la aplicación del reglamento y de las leyes de aplicación en materia de espectáculos, comercio y prestación de servicios que los particulares proporcionen o efectúen dentro del municipio, con probidad y estricto apego a la normatividad correspondiente;
-
-II.- Realizar visitas y estudios sistemáticos actualizados sobre las características de los lugares donde se lleven a cabo los espectáculos públicos, así como emitir la opinión correspondiente a la fijación de las tarifas que deban aplicarse a los mismos;
-
-III.- Proponer al Ayuntamiento la política a seguir en cuanto a espectáculos que se pudieran permitir bajo el criterio de la tolerancia; y
-
-IV.- Proponer al Ayuntamiento la política a seguir en cuanto a expedición de Licencias que se pudieran permitir bajo el criterio de la tolerancia, y en cuanto a giros reglamentados.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO DECIMO PRIMERO
 
@@ -1765,29 +1183,7 @@ De la Comisión de Mercados y Rastros
 
 ###### ARTICULO 199.
 
-Son obligaciones y atribuciones de la Comisión de Mercados y Rastros:
-
-I.- Proponer al Ayuntamiento las directrices de la política municipal a seguir en la atención del servicio público de mercados, tianguis y centrales de abasto, así como lo concerniente a la actividad comercial, industrial y de prestación de servicios de los particulares en el ámbito de competencia municipal.
-
-II.- Proponer o dictaminar lo correspondiente en relación a la construcción o instancia de nuevos establecimientos en que opere y se desarrollen las actividades relativas al servicio público de mercados, tianguis y centrales de abasto, en función a las necesidades de la población y a la disponibilidad de recursos municipales;
-
-III.- Vigilar que las dependencias municipales competentes observen las disposiciones legales que regulan las actividades comerciales, industriales y de prestación de servicios en el municipio, así como las que rigen la operación y organización de servicio público de mercados, centrales de abasto, tianguis y el comercio que se ejerce en la vía pública y en general, la legislación que tenga relación en el funcionamiento de las actividades comerciales, industriales y de servicios de cualquier naturaleza y nivel, que funcionen dentro de la jurisdicción municipal;
-
-IV.- Vigilar que la dependencia correspondiente aplique especial atención a las características que deben de reunir los puestos establecidos en los mercados municipales, el funcionamiento de éstos, y que aplique las medidas y controles tendientes a evitar la expansión del comercio que ejerce en la vía pública evitando la autorización para la instalación de puestos en la vía pública, parques públicos, plazas, y sitios públicos diversos a los mercados;
-
-V.- Emitir opinión o dictaminar lo correspondiente acerca del contenido de los permisos, convenios o contratos que celebren el Ayuntamiento con los particulares en relación a los locales de los mercados o de aquellos lugares públicos en que se autorice y determine la instalación de puestos locales o se ministre el servicio en comento;
-
-VI.- Vigilar el funcionamiento de los rastros municipales, obradores, expendios de carne, establos y demás negocios que tengan relación con el sacrificio de animales para consumo humano, a efecto de proponer la instrumentación de las medidas pertinentes que requieran el interés público;
-
-VII.- Mantener estrecha coordinación con las autoridades sanitarias, a efecto de tratar las epizootias que se manifiesten en el municipio;
-
-VIII.- Vigilar que la dependencia correspondiente efectúe la vigilancia que le compete respecto al cumplimiento por los particulares de las normas que se refieren al servicio público del rastro, así como que desempeñen con apego a la ley en sus funciones y se evite el sacrificio y venta clandestina de carne;
-
-IX.- Proponer al Ayuntamiento las tasas o tarifas que deben incluirse en la ley de ingresos en el capitulo relativo a ganado y rastros;
-
-X.- Proponer las medidas necesarias a efecto de evitar la constitución de monopolios dentro de los rastros, que traiga como consecuencia problemas de carácter técnico, laboral y administrativo así como el encarecimiento, acaparamiento o elevación de los precios de las carnes y sus derivados destinados al consumo humano; y
-
-XI.- Vigilar que los responsables de los rastros cuiden que el personal que interviene en la matanza de ganado y reparto de carnes se encuentre en buenas condiciones de salud.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO DECIMO SEGUNDO
 
@@ -1795,13 +1191,7 @@ De la Comisión de Nomenclaturas
 
 ###### ARTICULO 200.
 
-Son obligaciones y atribuciones de la Comisión de Nomenclaturas:
-
-I.- La relación, proposición y dictaminación relativa a los estudios técnicos necesarios para estructurar de acuerdo con los sistemas más modernos la nomenclatura de todo el municipio, así como el control de la misma;
-
-II.- Proponer al Ayuntamiento la uniformidad que se estime pertinente en cuanto a las características de la nomenclatura externa domiciliaria y comercial; y
-
-III.- En general, presentará los planes y lineamientos que se estimen apropiados sobre la materia, procurando conservar los nombres de las calles tradicionales suprimiendo duplicidad en el momento de proponer nuevos nombres.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO DECIMO TERCERO
 
@@ -1809,27 +1199,7 @@ De la Comisión de Obra Pública y Desarrollo Urbano
 
 ###### ARTICULO 201.
 
-Son obligaciones y atribuciones de la Comisión de Obra Pública y Desarrollo Urbano:
-
-I.- El estudio y propuesta de proyectos que promuevan la habitación popular en sus diferentes características o manifestaciones, procurando que a través de los mismos se encuentre una solución justa, equitativa y accesible a las clases populares en la solución de la adquisición y mejoramiento de vivienda, en especial la regeneración de las vecindades;
-
-II.- Vigilar con especial interés que los fraccionamientos de habitación popular cumplan estrictamente con las normas legales, vigentes en el momento de autorizarse las concesiones y que el desarrollo de las mismas se ajuste a los lineamientos trazados por la dirección de desarrollo urbano y obras públicas;
-
-III.- Establecer estrategias para elaborar una planeación de crecimiento en el municipio que contenga los ordenamientos y lineamientos para fraccionar y evitar el crecimiento desproporcionado;
-
-IV- Vigilar que la Dirección de Desarrollo Urbano y Obras Públicas desempeñe las funciones que le corresponden en la ejecución de la obra pública municipal, en los términos de las leyes y reglamentos de aplicación municipal;
-
-V.- Vigilar directamente que las obras municipales se realicen en concordancia con la planificación y programación autorizada y con apego a los proyectos, planes y contratos que se hubieren acordado y que las originen;
-
-VI.- Vigilar que la Dirección de Desarrollo Urbano y Obras Públicas, cumpla y haga cumplir las leyes y reglamentos en materia de construcción de fraccionamientos y en general de desarrollo urbano;
-
-VII.- Proponer proyectos, medidas o acuerdos tendientes a la ejecución de obras en el municipio;
-
-VIII.- Proponer proyectos de obras por cooperación de los particulares, en los términos de la ley que rige el consejo de colaboración municipal;
-
-IX.- Proponer y opinar en lo referente al lineamiento, conservación y aperturas de vías públicas y calzadas; y
-
-X.- Promover la regularización de fraccionamientos o asentamientos humanos cuya situación urbanística, de servicios o de tendencia (sic) de la tierra sea irregular.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO DECIMO CUARTO
 
@@ -1837,19 +1207,7 @@ De la Comisión de Parques y Jardines
 
 ###### ARTICULO 202.
 
-Son obligaciones y atribuciones de la Comisión de Parques y Jardines:
-
-I.- Vigilar, conjuntamente con la Comisión de Ecología, el cumplimiento y aplicación de las normas jurídicas sobre ecología, reforestación, control ambiental, poda y derribo de árboles y áreas verdes en general, así como de aquellas disposiciones, medidas acuerdos o programas que se implementen y tendientes a la mejora de las condiciones de las materias en cuestión;
-
-II.- Vigilar que se realicen estudios, programas y dictaminar lo correspondiente a la conservación, incremento, superación, operación de servicios de parques y jardines de áreas verdes del municipio;
-
-III.- Vigilar que las dependencias, instancias y organismos competentes del municipio se coordinen entre sí y coadyuven con las diversas autoridades de otros niveles de gobierno y organismo (sic) privados en materia de ecología, forestación, reforestación y en aplicación de desarrollo de los planes y programas, para beneficio de las áreas verdes del municipio, en coordinación con la comisión de Ecología;
-
-IV.- Vigilar que dentro del municipio se tomen las medidas necesarias por las autoridades municipales, estatales y federales para evitar riesgos en todos aquellos parques, jardines, áreas verdes en donde se haga necesario derribar árboles o maleza que ofrezcan riesgos;
-
-V.- Proponer y dictaminar conjuntamente con la comisión edilicia de Aseo y Alumbrado Público lo correspondiente a la instalación y mejoramiento del alumbrado público y ornamental en todo el municipio y en particular en vías de comunicación, plazas públicas, parques, jardines y lugares más frecuentados por los habitantes del municipio y por el turismo incluyendo edificios y monumentos históricos conmemorativos; y
-
-VI.- En general, estar al pendiente de las actividades que lleve a cabo la dependencia municipal de parques y jardines del Ayuntamiento.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO DECIMO QUINTO
 
@@ -1857,49 +1215,15 @@ De la Comisión de Participación Ciudadana
 
 ###### ARTICULO 203.
 
-Son obligaciones y atribuciones de la Comisión de Participación Ciudadana:
-
-I.- Estudiar y proponer al Ayuntamiento los planes y programas que tienden a mantener un diálogo permanente con la ciudadanía del municipio y la participación de ésta en la solución de la problemática de todas y cada una de las diferentes zonas y áreas geográficas de la municipalidad;
-
-II.- Vigilar que la dependencia municipal competente realice la intervención que le corresponda en las sesiones de asambleas ordinaria y extraordinarias, de los comités de vecinos y en los conflictos y problemática que se susciten en el seno de una asociación vecinal;
-
-III.- Promover la constitución de comités de vecinos en los lugares donde no exista y vigilar que la instancia administrativa competente, gestione y promueva dicha organización vecinal;
-
-IV.- Visitar periódicamente, en unión de la dependencia municipal respectiva, a los consejos de participación ciudadana, asociación de colonos y organizaciones ciudadanas, a efecto de captar sus necesidades y ponerlas en conocimiento del Ayuntamiento, dirigiendo las medidas que se estimen pertinentes para la solución a la problemática de las colonias;
-
-V.- Promover una atención eficiente a los consejos de participación ciudadana, asociación de colonos y organizaciones ciudadanas en sus necesidades por parte de todas las dependencias del Ayuntamiento; y
-
-VI.- Pugnar por una constante concientización ciudadana en cuanto a la participación entendida como factor de solución de requerimientos y demandas sociales, combinando esfuerzos a través de la organización y la coordinación con la autoridad municipal.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO DECIMO SEXTO
 
 De la Comisión de Planeación del Desarrollo Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2010)</small>
-
 ###### ARTICULO 204.
 
-Son obligaciones y atribuciones de la comisión de Planeación del Desarrollo Municipal:
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-I.- Impulsar el desarrollo social, económico y urbanístico de todo el municipio, preservando el equilibrio ecológico, la protección del medio ambiente y la equidad de género;
-
-II.- La supervisión de todos los planes generales, especiales y de la ejecución, de las obras públicas que emprenda el Ayuntamiento;
-
-III.- El señalamiento y sugerencia de políticas generales al Ayuntamiento para la promoción socioeconómica del municipio;
-
-IV.- La coordinación y apoyo a las autoridades Federales, Estatales o Municipales a lo correspondiente a la ejecución de planes Nacionales, Regionales, Estatales y Municipales de desarrollo Urbano, así como la vigilancia y difusión de las leyes y reglamentos aplicables sobre la materia;
-
-V.- Hacer valer el Código Urbano en los procesos de planeación del desarrollo urbano;
-
-VI.- Dictaminar lo correspondiente al programa municipal de desarrollo urbano, a los relativos a centro de población, así como a los diversos planes y acciones urbanísticas que se emprendan en el municipio y cuyo conocimiento competa al Ayuntamiento;
-
-VII.- Promover la creación de reservas territoriales en el municipio para uso habitacional y/o industrial y de servicios, así como la regularización de asentamientos de origen privado; y
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-VIII.- Participar en la elaboración del plan de desarrollo municipal, el cual se elaborará atendiendo el criterio de equidad de género.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO DECIMO SEPTIMO
 
@@ -1907,37 +1231,7 @@ De la Comisión de Promoción Cultural y Fomento Deportivo
 
 ###### ARTICULO 205.
 
-Son obligaciones y atribuciones de la Comisión de Promoción Cultural y Fomento Deportivo:
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-I.- Promover, impulsar, planificar, coordinar y estimular práctica de los deportes con una perspectiva de género dentro del municipio, para procurar el desarrollo físico y mental de sus habitantes;
-
-II.- Promover y proponer previo al estudio que lo justifique, la construcción de unidades o centros deportivos dentro del municipio;
-
-III.- Vigilar la conservación, sistemas de operación y buena administración de las unidades deportivas o áreas destinadas para dicho efecto;
-
-IV.- Proponer la coordinación y el establecimiento de relaciones de carácter deportivo con las diferentes autoridades en la materia, clubes privados, instituciones deportivas y equipos deportivos, que incidan en beneficio de las actividades deportivas en el municipio;
-
-V.- Vigilar que la dependencia u organismo municipal respectivo gestione la promoción, organización, patrocinio y coordinación de eventos deportivos, otorgando estímulos económicos y honoríficos en favor de los triunfadores;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-VI.- En general, promover todas aquellas actividades que tiendan al fomento y desarrollo del deporte dentro del municipio, tanto para las mujeres como en la niñez, la juventud, en la edad adulta y personas con capacidades diferentes;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-VII.- Coadyuvar en la instrumentación de planes y programas de promoción cultural en el Municipio con una perspectiva de género, así como vigilar su cumplimiento;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-VIII.- Vigilar que dentro del Municipio se promuevan las acciones tendientes a la promoción de la cultura en todas sus manifestaciones, procurando que tengan acceso a los programas las mujeres, sus familias y las clases populares;
-
-IX.- Procurar la coordinación con instituciones federales, estatales, municipales, y organismos descentralizados, así como de los sectores privado y social, para la promoción cultural;
-
-X.- Promover la creación de grupos de carácter cultural representativos del Municipio, tales como compañías de teatro, ballet folklórico, coro municipal, orquesta, artesanos, poesía y similares; y
-
-XI.- Promover la creación de instituciones culturales tales como museos, escuelas de arte y bibliotecas.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO DECIMO OCTAVO
 
@@ -1945,23 +1239,7 @@ De la Comisión de Protección Civil, Seguridad Pública y Tránsito
 
 ###### ARTICULO 206.
 
-Son obligaciones y atribuciones de la comisión de Protección Civil, Seguridad Pública y Tránsito:
-
-I.- El estudio, planificación y proposición ante el Ayuntamiento en pleno o ante la presidencia municipal, en su caso, de los acuerdos, medidas o acciones que sean convenientes emprender por parte de la Administración Municipal, tendientes a establecer o a incrementar la eficacia del Sistema Municipal de Protección Civil y Bomberos y mejorar los sistemas de organización y funcionamiento de la seguridad pública y del servicio de tránsito en el Municipio;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-II.- La vigilancia estricta de que las autoridades y elementos de seguridad pública y los organismos, instancias y dependencias que integran el sistema Municipal de Protección Civil, cumplan sus funciones con una perspectiva de género, apego a las leyes y reglamentos de la materia, en concordancia a los Sistemas Estatales de Protección Civil y de Seguridad Publica, y con máxima eficiencia;
-
-III.- Promover y fomentar la superación técnica y cultural de los elementos de seguridad publica, protección civil y bomberos y de transito, en los que se capten y canalicen los puntos de vista y peticiones de la ciudadanía en materia de seguridad pública, protección civil, bomberos y de transito;
-
-IV.- Formar parte del Consejo Municipal de Seguridad Pública, y de los consejos o comités que se formen en materia de protección civil, bomberos y de transito, en los que se capten y canalicen los puntos de vista y peticiones de la ciudadanía en materia de seguridad pública, protección civil, bomberos y de tránsito;
-
-V.- Vigilar que se establezca un sistema de información periódica de la actuación del personal de seguridad pública, protección civil y bomberos; y en el caso de que éstos incurran en faltas en el desempeño de sus funciones, o en la comisión de delitos, que se apliquen por la autoridad competente las sanciones que legalmente correspondan;
-
-VI.- Emitir el dictamen correspondiente a la reglamentación que establezca la organización y operación de las áreas de seguridad pública y Sistema Municipal de Protección Civil y Bomberos, así como dictaminar lo correspondiente a los asuntos relativos a dicha materia que le sean turnados por el Ayuntamiento; y
-
-VII.- Visitar periódicamente, por lo menos dos veces al mes, las diferentes áreas de dirección, sectores y módulos, a efecto de detectar las necesidades y la forma operativa de los mismos.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO DECIMO NOVENO
 
@@ -1969,23 +1247,7 @@ De la Comisión de Reglamentos y Justicia
 
 ###### ARTICULO 207.
 
-Son obligaciones y atribuciones de la Comisión de Reglamentos y Justicia:
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-I.- Promover la creación, actualización y reforma de los reglamentos municipales para que se ajusten a los requerimientos del municipio y que se armonicen los mismos con una perspectiva de género;
-
-II.- Vigilar el cumplimiento de los reglamentos municipales;
-
-III.- Estudiar las iniciativas de reglamentos municipales que turne el Ayuntamiento para su análisis y dictamen;
-
-IV.- El estudio, valoración y capacitación de todas las inquietudes o anteproyectos reglamentarios en materia municipal que provenga del Ayuntamiento, de la ciudadanía, de las organizaciones ciudadanas, políticas y académicas, colegios de profesionistas y similares;
-
-V.- En especial proponer iniciativas de reglamentos municipales de reformas a los mismos, las que tiendan a la abrogación y modificación o derogación de los existentes;
-
-VI.- Proponer al Ayuntamiento sistemas, programas y acciones de difusión y conocimiento de reglamentos municipales y de disposiciones legales por parte de los servidores públicos y de los habitantes del municipio y en aquellas materias que presenten un elevado índice en cuanto a la comisión de infracciones a las disposiciones legales y reglamentaria respectivas; e
-
-VII.- Intervenir juntamente con los funcionarios municipales que se estimen pertinentes en la formulación de iniciativas de ley o decretos al Honorable Congreso del Estado, en los términos de la Ley Municipal para el Estado de Aguascalientes.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO VIGESIMO
 
@@ -1993,17 +1255,7 @@ De la Comisión de Relojes y Panteones
 
 ###### ARTICULO 208.
 
-Son obligaciones y atribuciones de la Comisión de Relojes y Panteones:
-
-I.- Estudiar y proponer con toda oportunidad a la instancia municipal competente, las tarifas o costos de los servicios de cementerios que se ministren en el municipio, bien por concepto de derechos de uso por la utilidad de las fosas, criptas o nichos, bien por los servicios complementarios o anexos, a efecto de que se contemplen los elementos económicos en la Ley de Ingresos Municipales;
-
-II.- Estudiar y proponer la clasificación de las diferentes clases de cementerios y las respectivas secciones en éstos de las fosas, nichos y columnarios que deban de implementarse en los mismos para los efectos de una mejor prestación del servicio público de cementerios a la Ley de Ingresos Municipales;
-
-III.- Examinar los sistemas de conservación y mantenimiento de los cementerios existentes y proponer la ubicación y características de nuevos, previo estudio de justificación;
-
-IV.- En general, realizar los estudios para mejorar la administración, funcionamiento y condiciones materiales en los cementerios; y
-
-V.- Dictaminar lo correspondiente en relación a las concesiones que se soliciten o se hubieren otorgado por el Ayuntamiento, respecto al servicio público municipal de cementerios.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 APARTADO VIGESIMO PRIMERO
 
@@ -2011,39 +1263,17 @@ De la Comisión de Salubridad y Beneficencia Pública
 
 ###### ARTICULO 209.
 
-Son obligaciones y atribuciones de la Comisión de Salubridad y Beneficencia Pública:
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-I.- Estudiar, proponer y dictaminar lo correspondiente a los planes y programas tendientes a proporcionar asistencia social a los habitantes del municipio que la necesiten, primordialmente a los grupos vulnerables en los que se contemplaran principalmente a, mujeres, ancianos en estado de abandono, niños desamparados, minusválidos e indigentes;
-
-II.- Vigilar que las dependencias y organismos de índole municipal encargados de ministrar la asistencia social, coadyuven y se coordinen con las autoridades y organismos encargados de dicha materia en el Estado, fortaleciendo e integrando su actividad al sistema estatal de salud y asistencia social;
-
-III.-Visitar periódicamente las dependencias e instalaciones de los organismos municipales de asistencia social, para constatar su desarrollo y proyección;
-
-IV.- Vigilar que se implemente un directorio o control actualizado de los organismos, instituciones, unidades públicas o privadas o autoridades asistenciales en funciones dentro del municipio, para fomentar las relaciones inter institucionales;
-
-V.- En términos generales, proponer todas las medidas que se estimen pertinentes para orientar la política de asistencia social y de ayuda a la erradicación de la mendicidad del municipio;
-
-VI.- Vigilar que las dependencias municipales competentes conyuguen en fortalecimiento del sistema estatal de salud en materia de atención medica que se ministre por el Ayuntamiento a la vigilancia de las condiciones higiénicas, de salubridad o sanitarias de los establecimientos y actividades que se desarrollen en el municipio, colaborando con las autoridades estatales en materia de salud pública, y la aplicación de diferentes leyes federales, estatales y municipales sobre la materia mencionada;
-
-VII.- Vigilar y dictaminar conjuntamente con la Comisión de Ecología, sobre aquellas actividades, medidas, programas y acciones que se relacionen con ambas materias;
-
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2010)</small>
-
-VIII.- Proponer, dictaminar y apoyar los programas y campañas que se implementen, tendientes a la higienización en el municipio, a la prevención atención y erradicación de la violencia hacia las mujeres y/o sus familias, a la prevención y combate de las enfermedades epidémicas y endémicas, a la prevención, control y erradicación, en su caso, del alcoholismo y la drogadicción en el municipio; y
-
-IX.- Realizar los estudios y gestiones que estimen pertinentes en materia de salud, salubridad e higiene, que beneficien al municipio.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 # LIBRO TERCERO. DE LA ADMINISTRACION PUBLICA Y GOBIERNO MUNICIPAL
 
 ###### ARTICULO 210.
 
-El presente libro tiene por objeto regular la estructura y el funcionamiento de la Administración Pública Municipal, así como establecer las funciones, atribuciones e integración de las dependencias administrativas que forman parte de la misma.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ###### ARTICULO 211.
 
-Las jerarquías, funciones y responsabilidades de los servidores públicos y dependencias administrativas se rigen por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, la Ley Municipal para el Estado de Aguascalientes, el presente Código Municipal de Cosío y por la demás leyes y reglamentos aplicables.
+(DEROGADO POR ARTÍCULO PRIMERO TRANSITORIO DEL REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES, P.O. 17 DE SEPTIEMBRE DE 2024)
 
 ## TITULO PRIMERO. DE LAS ATRIBUCIONES Y FACULTADES DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
@@ -13892,3 +13122,43 @@ Las personas que antes del inicio de vigencia de este Decreto hayan sido designa
 ###### ARTÍCULO TERCERO.
 
 El Ayuntamiento deberá adecuar mediante la normativa reglamentaria respectiva a la presente reforma, en un plazo no mayor a 180 días naturales contados a partir de que inicie su vigencia este Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “BANDO DE POLICÍA Y GOBIERNO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga el Código Municipal de Cosío, Aguascalientes; publicado en el Periódico Oficial del Estado de Aguascalientes, el día diecinueve de marzo del año dos mil siete, y sus reformas subsecuentes.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente ordenamiento entrará en vigor el día dos de enero del año dos mil veinticinco, con independencia de la fecha de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+El proceso de selección establecido en (sic) artículo 81 del presente Bando sobre la designación del Contralor Municipal y las personas que funjan como Autoridad Investigadora, Substanciadora y Resolutora de la Contraloría Municipal, entrará en vigor el día quince de octubre de dos mil veinticuatro.
+
+Los procedimientos y actos realizados por particulares y personas morales se tendrán que adecuar a lo dispuesto por este Bando y al o los Reglamentos Municipales aprobados de acuerdo con la materia que le sea aplicable.
+
+###### ARTÍCULO TERCERO.
+
+El capítulo "Del uso de las Tecnologías Digitales" entrará en vigor una vez que sea aprobado por el H. Ayuntamiento y publicado en el Periódico Oficial del Estado de Aguascalientes, el reglamento municipal respectivo, en el término que señale para entrar en vigor.
+
+###### ARTÍCULO CUARTO.
+
+El Código Municipal de Cosío, Aguascalientes; seguirá siendo aplicable en todo aquello que no se oponga al presente Bando, por lo que, las disposiciones reglamentarias seguirán siendo vigentes, hasta en tanto el H. Ayuntamiento, no emita el reglamento especifico.
+
+###### ARTÍCULO QUINTO.
+
+Los reglamentos expedidos con anterioridad a la vigencia del presente Bando, seguirán teniendo vigencia y el H. Ayuntamiento tendrá la obligación que, en caso de ser necesario, apruebe las reformas, adiciones que sean necesarias, en un término no mayor de 180 (ciento ochenta) días naturales, mientras tanto, en caso de existir alguna situación no previstas por los reglamentos vigentes, se resolverán por acuerdo del H. Ayuntamiento por mayoría calificada.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL H. AYUNTAMIENTO DEL MUNICIPIO DE COSÍO, AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, y deroga a los artículos del 34 al 211 del Código Municipal de Cosío, Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+– El Secretario del H. Ayuntamiento y Director General de Gobierno del Municipio de Cosío, Aguascalientes; hasta el primero de enero de dos mil veinticinco, tendrá la facultad de interpretación para dirimir controversias que se susciten respecto de la organización del Cabildo y la aplicación del presente Reglamento.
