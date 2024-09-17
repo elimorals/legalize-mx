@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2024-08-16"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2112,6 +2112,12 @@ En los casos en que el sentenciado se niegue o no pueda garantizar la atención 
 Punibilidad específica
 
 A los sujetos activos de los delitos previstos en los Capítulos I, II y III, del Título Cuarto, Libro Segundo de este código, se les suspenderá del derecho a ejercer la patria potestad, la tutela o curatela, según el caso, hasta por el doble del tiempo de la pena de prisión impuesta.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 176 Bis.
+
+Serán imprescriptibles las sanciones señaladas en los artículos 171, 172, 173, 174, 174 Bis, 175, 175 Bis, 178, 179, 180, 181, 183, 184, 185, 186 y 188, que comprenden el Título Cuarto de este Código Penal
 
 ###### Artículo 177.
 
@@ -5446,3 +5452,15 @@ PRIMERO. El presente Decreto surtirá sus efectos a partir de la fecha de su pub
 SEGUNDO. Remítase a la Titular del Poder Ejecutivo del Estado para para su conocimiento y efectos legales correspondientes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado, y en el portal electrónico de esta Soberanía, para conocimiento general y efectos legales procedentes.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 881 POR MEDIO DEL CUAL SE ADICIONA EL ARTÍCULO 176 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase a la Titular del Poder Ejecutivo para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero para conocimiento general y para los efectos legales respectivos.
+
+CUARTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Honorable Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
