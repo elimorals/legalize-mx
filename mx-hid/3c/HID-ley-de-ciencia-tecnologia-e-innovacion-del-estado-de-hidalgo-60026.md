@@ -4,7 +4,7 @@ identifier: "HID-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-hidalgo-60
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2024-08-16"
+last_updated: "2024-09-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 17 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Alcance Uno al Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -1178,3 +1180,37 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1041 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 7 DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1049 POR EL QUE SE EXPIDE LA LEY DE HUMANIDADES, CIENCIAS, TECNOLOGÍAS E INNOVACIÓN DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley de Ciencia y Tecnología del Estado de Hidalgo, publicada en alcance uno al Periódico Oficial del Estado, el 31 de diciembre de 2007
+
+TERCERO. Se derogan todas aquellas disposiciones del Estado de Hidalgo, que se opongan a lo establecido en la presente Ley.
+
+CUARTO. A partir de la entrada en vigor del presente decreto, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos y de política pública que hagan mención a la Ley de Ciencia y Tecnología del Estado, se entenderán hechas a la Ley de Humanidades, Ciencias, Tecnologías e Innovación del Estado de Hidalgo.
+
+QUINTO. En un plazo de ciento ochenta días, contados a partir de la entrada en vigor el (sic) presente Decreto, el Consejo de Ciencia, Tecnología, Innovación y Humanidades de Hidalgo expedirá las disposiciones reglamentarias y administrativas a que se refiere este ordenamiento legal, así como aquéllas necesarias para su cabal cumplimiento, en concordancia con su contenido.
+
+SEXTO. A partir de la entrada en vigor de presente decreto, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Consejo de Ciencia, Tecnología e Innovación de Hidalgo, se entenderán hechas al Consejo de Ciencia, Tecnología, Innovación y Humanidades de Hidalgo.
+
+SÉPTIMO. A partir de la entrada en vigor de presente decreto, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Sistema Estatal de Ciencia, Tecnología e Innovación, se entenderán hechas al Sistema Estatal de Humanidades, Ciencias, Tecnologías e Innovación del Estado de Hidalgo.
+
+OCTAVO. A partir de la entrada en vigor de presente decreto, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Sistema Estatal de Investigadores y Tecnólogos o Sistema de Investigación, cuando sea en referencia al Sistema Estatal de Investigadores y Tecnólogos se entenderán hechas al Sistema Estatal de Investigadoras e Investigadores del Estado de Hidalgo.
+
+NOVENO. A partir de la entrada en vigor de presente decreto, todas las referencias en otros ordenamientos, normas, procedimientos, actos e instrumentos jurídicos que hagan mención al Programa Especial de Ciencia, Tecnología e Innovación, se entenderán hechas al Programa en materia de Humanidades, Ciencias, Tecnologías e Innovación de Hidalgo.
+
+DÉCIMO. En un plazo no mayor a ciento ochenta días, las instancias competentes deberán adecuar el Programa en materia de Humanidades, Ciencias, Tecnologías e Innovación de Hidalgo a lo dispuesto en la presente Ley. A partir de dicha adecuación, se deberán expedir los instrumentos de planeación que correspondan, dentro de un plazo de ciento ochenta días.
+
+DÉCIMO PRIMERO. Los procedimientos y actos jurídicos en general cuya tramitación haya iniciado con anterioridad a la entrada en vigor de esta Ley, que se encuentren pendientes de resolución, se atenderán de conformidad con las disposiciones jurídicas y administrativas vigentes al momento en que fueron iniciados.
+
+DÉCIMO SEGUNDO. Las autoridades competentes deberán realizar las acciones necesarias para terminar anticipadamente los convenios y contratos que se opongan a la presente Ley, en beneficio del interés público.
+
+DÉCIMO TERCERO. La entrada en vigor del presente decreto no afectará el régimen ni los derechos laborales de los trabajadores del Consejo de Ciencia, Tecnología e innovación de Hidalgo, hoy Consejo de Ciencia, Tecnología, Innovación y Humanidades de Hidalgo.
+
+DÉCIMO CUARTO. En un plazo no mayor a ciento ochenta días, las instancias competentes deberán adecuar los planes y programas estatales en materia de Humanidades, Ciencias, Tecnologías e Innovación, a lo dispuesto en la presente Ley.
+
+DÉCIMO QUINTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al respectivo presupuesto aprobado del Consejo de Ciencia, Tecnología e Innovación de Hidalgo, así como de las Entidades y dependencias de la Administración Pública del Estado involucradas en la implementación de la presente Ley, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda y subsecuentes. Asimismo, cualquier modificación a su estructura orgánica se deberá realizar mediante movimientos compensados conforme a las disposiciones jurídicas aplicables.
