@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2024-01-04"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -49,11 +49,13 @@ LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
 La presente Ley tiene por objeto regular la organización y funcionamiento de la Administración Pública del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 2o.
 
-El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Guanajuato, la presente Ley y las demás disposiciones jurídicas aplicables.
+El ejercicio del Poder Ejecutivo corresponde a la persona titular, quien tendrá las facultades y obligaciones que establecen la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, la presente Ley y las demás disposiciones jurídicas.
 
-El Gobernador del Estado podrá delegar atribuciones que no sean de su ejercicio exclusivo en las dependencias que de conformidad con esta Ley sean competentes, o en su caso, en los servidores públicos que estime pertinente.
+La persona titular del Poder Ejecutivo podrá delegar atribuciones que no sean de su ejercicio exclusivo en las dependencias que de conformidad con esta Ley sean competentes, o en su caso, en los servidores públicos que estime pertinente.
 
 > <small>(ADICIONADO, P.O. 6 DE MARZO DE 2020)</small>
 
@@ -61,7 +63,9 @@ Artículo 2 bis.- El Poder Ejecutivo, en el ejercicio de sus funciones implement
 
 Los servidores públicos de la Administración Pública Estatal promoverán la participación e inclusión de la ciudadanía en la toma de decisiones relacionadas con el servicio público.
 
-El Titular del Poder Ejecutivo impulsará a través de Lineamientos de Gobierno Abierto la implementación de prácticas de transparencia, participación ciudadana y de evaluación de la gestión gubernamental para alcanzar los principios contemplados en el presente artículo.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular del Poder Ejecutivo impulsará a través de Lineamientos de Gobierno Abierto la implementación de prácticas de transparencia, participación ciudadana y de evaluación de la gestión gubernamental para alcanzar los principios contemplados en el presente artículo.
 
 ###### Artículo 3o.
 
@@ -83,9 +87,13 @@ En los nombramientos de quien ostente la titularidad de las dependencias y entid
 
 Para los efectos de esta Ley, se entenderá por:
 
-I.- Sectorización: El acto administrativo por medio del cual el Gobernador del Estado agrupa a las entidades bajo la coordinación de una dependencia de la Administración Pública, atendiendo a su objeto y atribuciones;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Sector: El agrupamiento de entidades de la Administración Pública, coordinadas por la dependencia que en cada caso designe el Gobernador del Estado, atendiendo a los objetos y metas comunes; y
+I.- Sectorización: El acto administrativo por medio del cual la persona titular del Poder Ejecutivo agrupa a las entidades bajo la coordinación de una dependencia de la Administración Pública, atendiendo a su objeto y atribuciones;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Sector: El agrupamiento de entidades de la Administración Pública, coordinadas por la dependencia que en cada caso designe la persona titular del Poder Ejecutivo, atendiendo a los objetos y metas comunes; y
 
 III.- Coordinadora de Sector: La dependencia de la Administración Pública que regula un conjunto de entidades paraestatales.
 
@@ -93,61 +101,71 @@ III.- Coordinadora de Sector: La dependencia de la Administración Pública que 
 
 IV.- Eje: La agrupación de las dependencias y entidades que estén sectorizadas bajo la coordinación de una Secretaría, atendiendo a su objeto y atribuciones; y
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-V.- Coordinadora de Eje: La dependencia de la Administración Pública Estatal que regula en el Eje un conjunto de dependencias y sus entidades sectorizadas.
+V.- Coordinadora de Eje: La dependencia de la Administración Pública Estatal que regula en el Eje un conjunto de dependencias y sus entidades sectorizadas; y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VI.- Persona titular del Poder Ejecutivo: La Gobernadora o Gobernador del Estado quien ejercerá el Poder Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 5o.
 
-El Gobernador del Estado para auxiliarse en el desempeño de sus funciones, tendrá directamente adscritas las unidades de asesoría, de apoyo técnico y administrativo, de acceso a la información, de archivos y de coordinación para la conformación de estructuras organizacionales y de políticas públicas, así como en materia de tecnología de la información y de comunicación social. También podrá establecer oficinas de representación del Gobierno del Estado fuera del propio territorio, que determine de acuerdo a sus atribuciones, al presupuesto que se autorice y con apego a la Ley.
+La persona titular del Poder Ejecutivo para auxiliarse en el desempeño de sus funciones, tendrá directamente adscritas las unidades de asesoría, de apoyo técnico y administrativo, de acceso a la información pública, y de coordinación para la conformación de estructuras organizacionales y de políticas públicas, así como en materia de tecnología de la información y de comunicación social. También podrá establecer oficinas de representación del Gobierno del Estado fuera del propio territorio, que determine de acuerdo a sus atribuciones, al presupuesto que se autorice y con apego a la Ley.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
-
-La Jefatura de Gabinete del Poder Ejecutivo del Estado de Guanajuato es la unidad de apoyo del Gobernador del Estado encargada de coordinar a las dependencias y entidades de la administración pública estatal, así como dar seguimiento a sus metas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
 En los decretos y acuerdos relativos, se señalarán las obligaciones y atribuciones de las unidades auxiliares que se creen.
 
-El Gobernador del Estado podrá suprimir o fusionar las unidades auxiliares a que se refiere este artículo, respetando los derechos laborales de los servidores públicos.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+La persona titular del Poder Ejecutivo podrá suprimir o fusionar las unidades auxiliares a que se refiere este artículo, respetando los derechos laborales de los servidores públicos.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-La representación del Titular del Poder Ejecutivo del Estado en todos los juicios en que éste intervenga con cualquier carácter estará a cargo de quienes integren la Coordinación General Jurídica, la cual será además la encargada de someter a consideración del Gobernador del Estado los diversos instrumentos de carácter jurídico que sean de la competencia del mismo, así como coordinar a las dependencias y entidades del Poder Ejecutivo en materia jurídica; asimismo, su Titular estará facultado para representar directamente al Gobernador del Estado, conforme a la Ley de Amparo, respecto de los actos que a éste le reclamen. En el decreto relativo se señalará su organización y funcionamiento.
+La representación de la persona titular del Poder Ejecutivo del Estado en los juicios en que este intervenga con cualquier carácter estará a cargo de la persona titular de la Consejería Jurídica del Ejecutivo, la cual será delegable, además será la encargada de someter a consideración de la persona titular del Poder Ejecutivo los diversos instrumentos de carácter jurídico que sean de la competencia del mismo, así como coordinar a las dependencias y entidades del Poder Ejecutivo en materia jurídica. Su titular estará facultado para representar directamente a la persona titular del Poder Ejecutivo, conforme a la Ley de Amparo, respecto de los actos que a este le reclamen.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular de la Consejería Jurídica del Ejecutivo deberá designar y remover a quienes sean titulares de las áreas responsables de los asuntos jurídicos de las dependencias y entidades del Poder Ejecutivo y se encargará de su coordinación y supervisión. Las personas titulares de las áreas responsables de los asuntos jurídicos estarán adscritos administrativa y presupuestalmente a las dependencias y entidades respectivas. En el decreto relativo se señalará su organización y funcionamiento.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 6o.
 
-El Gobernador del Estado expedirá los reglamentos interiores, acuerdos, circulares y demás disposiciones que regulen la organización, estructura y funcionamiento de las dependencias del Poder Ejecutivo.
+La persona titular del Poder Ejecutivo expedirá los reglamentos, acuerdos, circulares y demás disposiciones que regulen la organización, estructura y funcionamiento de las dependencias y entidades del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 7o.
 
-El Gobernador del Estado podrá constituir por decreto o acuerdo según corresponda, comisiones intersecretariales, consejos, comités, núcleos o coordinaciones para el despacho de los asuntos en que deban intervenir varias dependencias o entidades del Poder Ejecutivo; serán transitorias o permanentes y presididas por el gobernador o por quien este o las leyes respectivas determinen.
+La persona titular del Poder Ejecutivo podrá constituir por decreto o acuerdo según corresponda, comisiones intersecretariales, consejos, comités, núcleos o coordinaciones para el despacho de los asuntos en que deban intervenir varias dependencias o entidades del Poder Ejecutivo; serán transitorias o permanentes y presididas por la persona titular del Poder Ejecutivo o por quien esta o las leyes respectivas determinen.
 
-Para el cumplimiento de los asuntos de su competencia, se podrán celebrar, en casos de emergencia declarada por la autoridad respectiva, reuniones a distancia mediante el uso de herramientas tecnológicas, conforme a las formalidades previstas en la normatividad que regula su funcionamiento.
+Para el cumplimiento de los asuntos de su competencia, se podrán celebrar, reuniones a distancia mediante el uso de herramientas tecnológicas, cuando así lo ameriten las circunstancias y lo determine la persona que presida, conforme a las formalidades previstas en la normatividad que regula su funcionamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 8o.
 
-El Gobernador del Estado podrá celebrar convenios de coordinación y concertación para el mejor cumplimiento de sus fines.
+La persona titular del Poder Ejecutivo podrá celebrar convenios de coordinación y concertación para el mejor cumplimiento de sus fines.
 
 Los convenios podrán tener por objeto, entre otros, la prestación de servicios públicos, la ejecución de obras o la realización de cualquier otro servicio de beneficio social y humano, cumpliéndose en cada caso, con las formalidades que exijan las leyes aplicables.
 
-El Gobernador del Estado, atendiendo a la materia del convenio, determinará que dependencias o entidades del Poder Ejecutivo resultan competentes en los términos de esta Ley, para el cumplimiento del propio convenio.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+La persona titular del Poder Ejecutivo, atendiendo a la materia del convenio, determinará que dependencias o entidades del Poder Ejecutivo resultan competentes en los términos de esta Ley, para el cumplimiento del propio convenio.
 
 Se publicarán en el Periódico Oficial del Gobierno del Estado, aquellos convenios que puedan tener efectos jurídicos para los particulares, los cuales tendrán vigencia a partir de su publicación.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 9o.
 
-Las leyes que el Poder Ejecutivo promulgue, deberán estar firmadas para su cumplimiento por el Gobernador del Estado, y contar con el refrendo del Secretario de Gobierno o por quien haga sus veces; tratándose de los decretos, reglamentos y demás disposiciones de carácter general que expida deberán contar con el refrendo del Secretario de Gobierno y de los Secretarios del ramo al que el asunto corresponda.
+Las leyes que el Poder Ejecutivo promulgue, deberán estar firmadas para su cumplimiento por la persona titular del Poder Ejecutivo, y contar con el refrendo de la persona titular de la Secretaría de Gobierno; tratándose de los decretos, reglamentos y demás disposiciones de carácter general que expida deberán contar con el refrendo de la persona titular de la Secretaría de Gobierno y de las personas titulares de las Secretarías del ramo al que el asunto corresponda.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DEL 2020)</small>
 
@@ -155,73 +173,61 @@ Las leyes que el Poder Ejecutivo promulgue, deberán estar firmadas para su cump
 
 Forman parte de la Administración Pública el Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del Estado y de los municipios y el Centro de Conciliación Laboral del Estado de Guanajuato, su organización, estructura y funcionamiento se sujetarán a la legislación correspondiente.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 11.
 
-El Titular de la Coordinación General Jurídica es el representante jurídico del Estado.
+La persona titular de la Consejería Jurídica del Ejecutivo es el representante jurídico del Estado.
 
 ## TÍTULO SEGUNDO. DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA
 
 ### CAPÍTULO PRIMERO. DEPENDENCIAS DEL PODER EJECUTIVO
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 12.
 
-Las dependencias del Poder Ejecutivo deberán conducir sus actividades de forma programada y con base en las políticas y prioridades que establezca el Gobernador del Estado, para el logro de los objetivos y metas de los Planes Nacional y Estatal de Desarrollo.
+Las dependencias del Poder Ejecutivo deberán conducir sus actividades de forma programada y con base en las políticas y prioridades que establezca la persona titular del Poder Ejecutivo, para el logro de los objetivos y metas de los Planes Nacional y Estatal de Desarrollo.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 13.
 
-Constituyen la Administración Pública Centralizada del Poder Ejecutivo:
+La Administración Pública Centralizada del Poder Ejecutivo se constituye por:
 
-I.- La Secretaría de Gobierno;
+I. Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+II. Secretaría de Finanzas;
 
-II.- La Secretaría de Finanzas, Inversión y Administración;
+III. Secretaría de Educación;
 
-III.- La Secretaría de Educación;
+IV. Secretaría de Cultura;
 
-IV.- La Secretaría de Desarrollo Social y Humano;
+V. Secretaría del Nuevo Comienzo;
 
-V.- La Secretaría de Salud;
+VI. Secretaría de Salud;
 
-VI.- La Secretaría de Desarrollo Económico Sustentable;
+VII. Secretaría de Economía;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+VIII. Secretaría del Campo;
 
-VII.- La Secretaría de Desarrollo Agroalimentario y Rural;
+IX. Secretaría de Obra Pública;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+X. Secretaría de Seguridad y Paz;
 
-VIII.- La Secretaría de Infraestructura, Conectividad y Movilidad;
+XI. Secretaría de la Honestidad;
 
-IX.- La Secretaría de Seguridad Pública;
+XII. Secretaría de Turismo e Identidad;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+XIII. Secretaría del Agua y Medio Ambiente; y
 
-X.- La Secretaría de la Transparencia y Rendición de Cuentas;
+XIV. Secretaría de Derechos Humanos.
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
-
-XI.- La Secretaría de Turismo; y
-
-XII.- (DEROGADA, P.O. 22 DE JULIO DE 2020)
-
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-XIII.- La Secretaría de Medio Ambiente y Ordenamiento Territorial;
-
-> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
-
-XIV.- La Secretaría del Migrante y Enlace Internacional; y
-
-XV.- (DEROGADA, P.O. 6 DE MARZO DE 2020)
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 14.
 
-Las Secretarías a que se refiere el artículo anterior dependerán directamente del Gobernador del Estado y tendrán entre ellas igual jerarquía.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 6 DE MARZO DE 2020)</small>
+Las secretarías señaladas en el artículo anterior dependerán directamente de la persona titular del Poder Ejecutivo y tendrán entre ellas igual jerarquía.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -229,51 +235,71 @@ Las Secretarías a que se refiere el artículo anterior dependerán directamente
 
 Las Secretarías del Poder Ejecutivo están obligadas a coordinar entre sí sus actividades y a proporcionarse la información necesaria, cuando el ejercicio de las funciones así lo requiera; así como a proporcionar la información y coordinarse con la Secretaría Coordinadora del Eje al que pertenezcan, igual obligación tendrán las entidades.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 16.
 
-Las dependencias del Poder Ejecutivo, ejercerán las funciones de coordinadoras de sector de las entidades paraestatales que por acuerdo del Gobernador del Estado y de conformidad a la naturaleza de sus funciones les correspondan.
+Las dependencias del Poder Ejecutivo ejercerán las funciones de coordinadoras de sector de las entidades paraestatales que por acuerdo de la persona titular del Poder Ejecutivo y de conformidad a la naturaleza de sus funciones les correspondan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 17.
 
-Los titulares de las Secretarías serán nombrados por el Gobernador del Estado, ejercerán sus funciones por acuerdo del mismo, de conformidad con lo que señala esta Ley y dictarán las resoluciones que les competan.
+Las personas titulares de las secretarías serán nombradas por la persona titular del Poder Ejecutivo ejercerán sus funciones por acuerdo de la misma, de conformidad con lo que señala esta Ley y dictarán las resoluciones que les competan.
 
-> <small>(REFORMADO, P.O. 4 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-El titular de la Secretaría de la Transparencia y Rendición de Cuentas será nombrado por el Gobernador del Estado con la ratificación de las dos terceras partes de los integrantes del Congreso del Estado; en tanto se apruebe el nombramiento aquél, podrá designar un encargado de despacho.
+La persona titular de la Secretaría de la Honestidad será nombrada por la persona titular del Poder Ejecutivo con la ratificación de las dos terceras partes de los integrantes del Congreso del Estado; en tanto se apruebe el nombramiento, aquella podrá designar una persona encargada de despacho.
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-El titular de la Secretaría de la Transparencia y Rendición de Cuentas deberá contar con experiencia de cuando menos dos años en materia de fiscalización y rendición de cuentas.
+La persona titular de la Secretaría de la Honestidad deberá contar con experiencia de cuando menos dos años en materia de fiscalización y rendición de cuentas.
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-El nombramiento del titular de la Secretaría de la Transparencia y Rendición de Cuentas que someta el Gobernador del Estado a ratificación del Congreso del Estado, deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley de la materia.
+El nombramiento de la persona titular de la Secretaría de la Honestidad que someta la persona titular del Poder Ejecutivo a ratificación del Congreso del Estado deberá estar acompañado de la declaración de interés de la persona propuesta, en los términos previstos en la Ley de la materia.
 
-Para auxiliar a los titulares de las Secretarías, el Gobernador del Estado podrá designar Subsecretarios del ramo, los cuales tendrán las atribuciones que el reglamento interior correspondiente establezca, mismas que no excederán las atribuciones conferidas por la Ley.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-Los titulares de las Secretarías, en sus ausencias temporales serán suplidos en los términos que señale su reglamento interior.
+Para auxiliar a las personas titulares de las secretarías, la persona titular del Poder Ejecutivo podrá designar personas titulares de las subsecretarías del ramo, las cuales tendrán las atribuciones que el reglamento interior correspondiente establezca, mismas que no excederán las atribuciones conferidas por la Ley.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Las personas titulares de las secretarías, en sus ausencias temporales menores o a quince días serán suplidas en los términos que señale su reglamento interior.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+En caso de ausencias temporales mayores a quince días o falta absoluta de quien sea titular de alguna Secretaría, la persona titular del Poder Ejecutivo designará a una persona Encargada del Despacho que la sustituya hasta en tanto concluye la ausencia temporal o hasta en tanto proceda al nombramiento de la nueva persona titular de la Secretaría.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Las personas que sean designadas como encargadas de despacho o se les designe de manera temporal, tendrán las mismas facultades y atribuciones que la normativa otorga y confiere a la persona titular.
 
 Para el trámite de los asuntos de su competencia, las dependencias del Poder Ejecutivo se auxiliarán de las unidades administrativas que establezca el reglamento interior respectivo y que se requieran para el eficaz desempeño de sus atribuciones. Sólo podrán adicionar, transferir, fusionar o suprimir unidades administrativas que se encuentren referidas en sus reglamentos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 18.
 
-Corresponde a los titulares de las dependencias del Poder Ejecutivo o por quien haga sus veces, el trámite y resolución de los asuntos de su competencia. Para la mejor organización del trabajo, podrán delegar en sus colaboradores cualesquiera de las actividades que no estén expresamente señaladas en las leyes o reglamentos como exclusivas de los propios titulares.
+Corresponde a las personas titulares de las dependencias del Poder Ejecutivo o por quien haga sus veces, el trámite y resolución de los asuntos de su competencia. Para la mejor organización del trabajo, podrán delegar en sus colaboradores cualesquiera de las actividades que no estén expresamente señaladas en las leyes o reglamentos como exclusivas de las propias personas titulares.
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-Los titulares de las dependencias podrán, previa autorización del Gobernador del Estado, suscribir convenios para cumplir con las atribuciones que esta Ley y demás ordenamientos les establezcan, remitiéndole la información del instrumento, por conducto de la unidad que se establezca en la reglamentación.
+Las personas titulares de las dependencias del Poder Ejecutivo podrán, previa autorización de la persona titular del Poder Ejecutivo, suscribir convenios para cumplir con las atribuciones que esta Ley y demás ordenamientos les establezcan, remitiéndole la información del instrumento por conducto de la Consejería Jurídica del Ejecutivo, en los términos del acuerdo que se expida por esta para el efecto.
 
 Asimismo, deberán instrumentar las acciones concernientes para que los servicios a su cargo se otorguen con calidad.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 19.
 
-Para el despacho de los asuntos que les competen, las dependencias y entidades del Poder Ejecutivo podrán contar con órganos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables. Los órganos desconcentrados podrán ser creados en los reglamentos correspondientes o por Decreto o Acuerdo del Gobernador del Estado.
+Para el despacho de los asuntos que les competen, las dependencias y entidades del Poder Ejecutivo podrán contar con órganos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables. Los órganos desconcentrados podrán ser creados en los reglamentos o por Decreto o Acuerdo de la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 20.
 
-Si para la ejecución de un programa o atención de un asunto existiera duda respecto a la injerencia o competencia de dos o más dependencias del Poder Ejecutivo, éstas deberán coordinar sus actividades entre sí y será el Gobernador del Estado quien determine cuál de ellas lo conduzca.
+Si para la ejecución de un programa o atención de un asunto existiera duda respecto a la injerencia o competencia de dos o más dependencias del Poder Ejecutivo, éstas deberán coordinar sus actividades entre sí y será la persona titular del Poder Ejecutivo quien determine cuál de ellas lo conduzca.
 
 ###### Artículo 21.
 
@@ -289,13 +315,13 @@ Al término de su gestión, los titulares de las dependencias deberán realizar 
 
 Las Dependencias del Poder Ejecutivo tendrán las siguientes obligaciones:
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-I.- Formular los anteproyectos de leyes, reglamentos, decretos y acuerdos para regular su funcionamiento, según corresponda a sus atribuciones, y remitirlos al Gobernador del Estado;
+I.- Formular los anteproyectos de leyes, reglamentos, decretos y acuerdos para regular su funcionamiento, según corresponda a sus atribuciones, y remitirlos a la persona titular del Poder Ejecutivo;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Proponer al Gobernador del Estado las políticas y programas relativos a la materia que les corresponda de acuerdo con sus atribuciones, de conformidad con los planes nacional y estatal de desarrollo;
+II.- Proponer a la persona titular del Poder Ejecutivo las políticas y programas relativos a la materia que les corresponda de acuerdo con sus atribuciones, de conformidad con los planes nacional y estatal de desarrollo;
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 2017)</small>
 
@@ -313,17 +339,17 @@ V.- Desarrollar entre sus actividades el diseño, ejecución, seguimiento y eval
 
 VI. Implementar de manera obligatoria como parte de la capacitación, la igualdad de género y la perspectiva de género para todo el personal de la administración pública estatal.
 
-> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-Asimismo, deberán informar a los coordinadores de Eje, y éstos al Gobernador, cuando se les convoque de manera oficial o extraoficial por el Congreso del Estado, sus comisiones, legisladores o funcionarios, en los casos en que se discuta una ley o se estudie un asunto concerniente a sus actividades; esta obligación será extensiva a las entidades de la administración Pública Estatal, quienes deberán informar a la dependencia coordinadora del Sector al que pertenezcan.
+Asimismo, deberán informar a las personas coordinadoras de Eje, y estos a la persona titular del Poder Ejecutivo, cuando se les convoque de manera oficial o extraoficial por el Congreso del Estado, sus comisiones, legisladores o servidores públicos, en los casos en que se discuta una ley o se estudie un asunto concerniente a sus actividades; esta obligación será extensiva a las entidades del Poder Ejecutivo, quienes deberán informar a la dependencia coordinadora del Sector al que pertenezcan.
 
 ### CAPÍTULO SEGUNDO. ATRIBUCIONES DE LAS DEPENDENCIAS DEL PODER EJECUTIVO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE NOVIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 23.
 
-La Secretaría de Gobierno es la dependencia encargada de colaborar con el Gobernador en la conducción de la política interna del Estado y le competen las siguientes atribuciones:
+La Secretaría de Gobierno es la dependencia encargada de colaborar con la persona titular del Poder Ejecutivo en la conducción de la política interna del Estado y le competen las siguientes atribuciones:
 
 I.- En materia de gobierno y régimen interior:
 
@@ -331,9 +357,9 @@ a) Conducir las relaciones del Poder Ejecutivo con los demás Poderes del Estado
 
 b) Cumplir y hacer cumplir acuerdos, órdenes, circulares y demás disposiciones emanadas del Poder Ejecutivo del Estado;
 
-> <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-c) Vigilar el cumplimiento de los preceptos constitucionales por parte de las entidades y dependencias del Poder Ejecutivo, especialmente el respeto de los derechos humanos y dictar las medidas administrativas conducentes;
+c) Vigilar el cumplimiento de los preceptos constitucionales por parte de las dependencias y entidades del Poder Ejecutivo;
 
 d) Prestar al Poder Judicial del Estado, cuando lo solicite, el auxilio para el debido cumplimiento de sus funciones;
 
@@ -341,7 +367,9 @@ e) Asesorar y apoyar a los ayuntamientos, cuando lo soliciten, para el desempeñ
 
 f) Ejercer las facultades que le corresponden al Poder Ejecutivo del Estado en materia de trabajo y previsión social;
 
-g) Ser el conducto para presentar al Congreso del Estado las iniciativas de leyes o decretos que formule el Gobernador así como ordenar la publicación de leyes, reglamentos y demás disposiciones de carácter general que deban regir en el Estado;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+g) Ser el conducto para presentar al Congreso del Estado las iniciativas de leyes o decretos que formule la persona titular del Poder Ejecutivo, así como ordenar la publicación de leyes, reglamentos y demás disposiciones de carácter general que deban regir en el Estado;
 
 h) Promover la cultura cívico-política de los ciudadanos, los mecanismos de participación ciudadana y la atención a los organismos de la sociedad civil;
 
@@ -357,7 +385,9 @@ k) Llevar el control y vigilancia del ejercicio notarial, de conformidad con las
 
 l) Organizar y controlar lo concerniente al Registro Civil, así como al Registro Público de la Propiedad;
 
-m) Solicitar a la Secretaría de Seguridad Pública el apoyo de las fuerzas de seguridad pública, cuando lo considere necesario para el cumplimiento de sus atribuciones;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+m) Solicitar a la Secretaría de Seguridad y Paz el apoyo de las fuerzas de seguridad pública, cuando lo considere necesario para el cumplimiento de sus atribuciones;
 
 > <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
 
@@ -375,15 +405,19 @@ c) Coadyuvar con el Poder Legislativo en la compilación de la legislación vige
 
 d) Tramitar los expedientes, y en su caso, resolver el recurso de revocación, relativos a la expropiación, ocupación temporal o limitación de dominio, de acuerdo con la Ley de la materia;
 
-e) Ejecutar los acuerdos y declaratorias que emita el Gobernador del Estado, en los casos a que se refiere el inciso anterior;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+e) Ejecutar los acuerdos y declaratorias que emita la persona titular del Poder Ejecutivo, en los casos a que se refiere el inciso anterior;
 
 f) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
-g) Tramitar las solicitudes de indulto que le sean presentadas al Gobernador del Estado;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+g) Tramitar las solicitudes de indulto que le sean presentadas a la persona titular del Poder Ejecutivo;
 
-h) Colaborar con la Secretaría del Migrante y Enlace Internacional en la conducción de las relaciones con los diferentes Poderes de la Federación, de los Estados o con los municipios, para la implementación de la política de respeto a los derechos humanos de los migrantes;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+h) Colaborar con la Secretaría de Derechos Humanos en la conducción de las relaciones con los diferentes poderes de la federación, de los estados o con los municipios, para la implementación de la política de respeto a los derechos humanos, preferentemente dirigido a los grupos vulnerables;
 
 i) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
@@ -413,9 +447,13 @@ d) Organizar y supervisar la Defensoría Pública especializada para hacer efect
 
 IV.- En materia administrativa:
 
-a) Expedir, previo acuerdo del Gobernador del Estado, concesiones para la explotación de bienes del dominio público, conforme a la Ley de la materia;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-b) Expedir, previo acuerdo del Gobernador del Estado, las licencias, autorizaciones, concesiones y permisos, cuyas facultades no estén asignadas específicamente a las otras Secretarías;
+a) Expedir, previo acuerdo de la persona titular del Poder Ejecutivo, concesiones para la explotación de bienes del dominio público, conforme a la Ley de la materia;
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+b) Expedir, previo acuerdo de la persona titular del Poder Ejecutivo, las licencias, autorizaciones, concesiones y permisos, cuyas facultades no estén asignadas específicamente a las otras secretarías;
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -427,9 +465,9 @@ d) Establecer la demarcación y conservar los límites del Estado; así como se�
 
 e) Tramitar lo relacionado con los nombramientos y reelecciones de los Magistrados del Supremo Tribunal de Justicia en el orden que conforme a la Ley le corresponda al Poder Ejecutivo del Estado; así como lo concerniente al Consejero del Poder Judicial que le corresponda proponer;
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-f) Enviar al Congreso del Estado, la propuesta del Gobernador, relativa al nombramiento de los Magistrados del Tribunal de Justicia Administrativa del Estado de Guanajuato;
+f) Enviar al Congreso del Estado, la propuesta de la persona titular del Poder Ejecutivo, relativa al nombramiento de las personas Magistradas del Tribunal de Justicia Administrativa del Estado de Guanajuato;
 
 g) (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
@@ -441,9 +479,9 @@ El Periódico Oficial se editará en forma impresa y electrónica, ambas edicion
 
 i) (DEROGADO, P.O. 13 DE MARZO DE 2015)
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-j) Realizar en coordinación con los municipios y la Secretaría de Infraestructura, Conectividad y Movilidad, los estudios para la planeación del servicio público de transporte de personas y de carga en el Estado, y elaborar las políticas y estrategias en la materia, de acuerdo a la normatividad aplicable;
+j) Realizar en coordinación con los municipios y la Secretaría de Obra Pública, los estudios para la planeación del servicio público de transporte de personas y de carga en el Estado, y elaborar las políticas y estrategias en la materia, de acuerdo a la normatividad;
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -457,23 +495,27 @@ l) Prestar y ordenar el servicio público de transporte de competencia estatal, 
 
 m) Vigilar el cumplimiento de las disposiciones legales estatales de los medios masivos de comunicación, así como dirigir y supervisar la administración de aquellos pertenecientes al Poder Ejecutivo del Estado;
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-n) Realizar en coordinación con la Secretaría de Desarrollo Social y Humano, así como con las dependencias y entidades estatales de la Administración Pública Federal y con los municipios, acciones para la regularización de la tenencia de la tierra; y
+n) Realizar en coordinación con la Secretaría del Nuevo Comienzo, así como con las dependencias y entidades estatales del Poder Ejecutivo con la administración pública federal y con los municipios, acciones para la regularización de la tenencia de la tierra; y
 
-V.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+V.- Las demás que le señalen las leyes y reglamentos en la Entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 24.
 
-La Secretaría de Finanzas, Inversión y Administración es la dependencia encargada de administrar la hacienda pública del Estado, y le competen las siguientes atribuciones:
+La Secretaría de Finanzas, es la dependencia encargada de administrar la hacienda pública del Estado, y le competen las siguientes atribuciones:
 
 I.- En materia de administración financiera:
 
 a) Planear, programar, presupuestar y evaluar la actividad financiera del Estado;
 
-b) Formular y presentar al Gobernador del Estado los proyectos de iniciativas de la Ley Anual de Ingresos, del Presupuesto General de Egresos y el Programa General del Gasto Público, haciéndolos previamente compatibles con la disponibilidad de recursos;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+b) Formular y presentar a la persona titular del Poder Ejecutivo los proyectos de iniciativas de la Ley Anual de Ingresos, del Presupuesto General de Egresos y el Programa General del Gasto Público, haciéndolos previamente compatibles con la disponibilidad de recursos;
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -485,13 +527,13 @@ e) Establecer y normar los sistemas de contabilidad gubernamental;
 
 f) Organizar y llevar la contabilidad de la hacienda pública estatal;
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-g) Elaborar los informes de la gestión financiera con los conceptos de gastos realizados y el cumplimiento de los objetivos específicos contenidos en los programas que conforman la cuenta pública del Estado, de conformidad con la legislación aplicable, y solventar conjuntamente con la Secretaría de la Transparencia y Rendición de Cuentas las observaciones derivadas de procesos de fiscalización que finque el Congreso del Estado a través de su órgano técnico de fiscalización;
+g) Elaborar los informes de la gestión financiera con los conceptos de gastos realizados y el cumplimiento de los objetivos específicos contenidos en los programas que conforman la cuenta pública del Estado, de conformidad con la legislación, y solventar conjuntamente con la Secretaría de la Honestidad las observaciones derivadas de procesos de fiscalización que finque el Congreso del Estado a través de su órgano técnico de fiscalización;
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-h) Cancelar los créditos incobrables a favor del Estado, informando a la Secretaría de la Transparencia y Rendición de Cuentas y al Congreso del Estado;
+h) Cancelar los créditos incobrables a favor del Estado, informando a la Secretaría de la Honestidad y al Congreso del Estado;
 
 i) Efectuar los pagos de acuerdo a los programas y presupuestos aprobados;
 
@@ -587,11 +629,13 @@ g) Establecer anualmente el Calendario Oficial que regirá en la Administración
 
 h) Emitir disposiciones generales para el otorgamiento de prestaciones a los servidores públicos de la Administración Pública Estatal conforme a la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VI. En materia de archivos e información:
+VI. En materia de información:
 
-a) Fijar los lineamientos e integrar la documentación que sirvan de base para la elaboración del informe anual que debe rendir el Gobernador ante el Congreso del Estado, en coordinación con las demás dependencias y entidades del Poder Ejecutivo y, en particular, con el despacho del Gobernador del Estado;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+a) Fijar los lineamientos e integrar la documentación que sirvan de base para la elaboración del informe anual que debe rendir la persona titular del Poder Ejecutivo ante el Congreso del Estado, en coordinación con las demás dependencias y entidades del Poder Ejecutivo y, en particular, con el despacho de la persona titular del Poder Ejecutivo;
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -615,7 +659,9 @@ d) Analizar, proponer y promover, en coordinación con las instancias competente
 
 e) Coordinar los grupos de trabajo y análisis que en materia de inversión constituya el Ejecutivo del Estado;
 
-f) Encabezar las gestiones ante la Federación de recursos y proyectos que el Gobernador determine y dar seguimiento a la agenda de gestiones que las dependencias y entidades estatales llevan con la Federación y los municipios;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+f) Encabezar las gestiones ante la Federación de recursos y proyectos que la persona titular del Poder Ejecutivo determine y dar seguimiento a la agenda de gestiones que las dependencias y entidades del Poder Ejecutivo llevan con la Federación y los municipios;
 
 g) Coordinar el proceso de evaluación socioeconómica de proyectos del Estado para dictaminar la viabilidad de los proyectos presentados por las dependencias y entidades del Ejecutivo Estatal;
 
@@ -631,29 +677,29 @@ a) Coordinar el proceso de integración de la propuesta de inversión de los pro
 
 b) Coordinar el proceso de seguimiento y evaluación de la inversión pública y establecer los lineamientos para ello;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-c) Identificar las propuestas de infraestructura pública contenidas en la propuesta de inversión anual, y remitirlas a la Secretaría de Infraestructura, Conectividad y Movilidad para su análisis y dictamen;
+c) Identificar las propuestas de infraestructura pública contenidas en la propuesta de inversión anual, y remitirlas a la Secretaría de Obra Pública para su análisis y dictamen;
 
 d) Elaborar la prospectiva de los requerimientos de la inversión estatal:
 
 e) Coordinar conjuntamente con la Secretaría de Salud, la elaboración y ejecución del Programa Estatal de Infraestructura en el área de salud;
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-f) Convenir con las Secretarías de Desarrollo Económico Sustentable; de Salud; de Desarrollo Agroalimentario y Rural; y de Infraestructura, Conectividad y Movilidad; estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
+f) Convenir con las secretarías de Economía, de Salud, del Campo y de Obra Pública, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-g) Coordinar conjuntamente con la Secretaría de Infraestructura, Conectividad y Movilidad, la presupuestación de la obra pública estatal, formulando sus estudios y proyectos;
+g) Coordinar conjuntamente con la Secretaría de Obra Pública, la presupuestación de la obra pública estatal, formulando sus estudios y proyectos;
 
 h) Coordinar la integración de la propuesta de inversión regional y municipal que se planteará al Ejecutivo;
 
 i) Coadyuvar en los procesos de concertación de la propuesta de inversión regional, con las dependencias y entidades del Ejecutivo, así como con los municipios, a través de distintos mecanismos de coinversión regional; y
 
-> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-IX.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
+IX.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE JULIO DE 2020)</small>
 
@@ -667,17 +713,17 @@ I.- En materia de planeación educativa:
 
 a) Coordinar y vigilar la educación a cargo del Estado, los municipios y los particulares, en todos los tipos y modalidades, de conformidad con la legislación aplicable, los convenios de coordinación celebrados por el Poder Ejecutivo Estatal y las atribuciones que al mismo le transfiera la Federación, procurando que la misma reúna los requisitos de equidad, cobertura, calidad y pertinencia;
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-b) Promover, ejecutar y evaluar las políticas y programas en materia educativa, cultural, deportiva, recreativa, activación física y de aprovechamiento del tiempo libre, procurando el desarrollo integral de las personas en un marco de fomento a los valores universales, por conducto de la propia Secretaría o de los organismos desconcentrados y descentralizados que para tal efecto constituya el Gobernador del Estado
+b) Promover, ejecutar y evaluar las políticas y programas en materia educativa, deportiva, recreativa, activación física y de aprovechamiento del tiempo libre, procurando el desarrollo integral de las personas en un marco de fomento a los valores universales, por conducto de la propia Secretaría o de los organismos desconcentrados y descentralizados que para tal efecto constituya la persona titular del Poder Ejecutivo;
 
 c) Supervisar la celebración y cumplimiento de los convenios que en materia educativa, cultural, deportiva, recreativa y de aprovechamiento del tiempo libre, suscriban los organismos descentralizados sectorizados a esta Secretaría;
 
 II.- En materia de capacitación para el trabajo:
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-a) Coordinar y supervisar con las Secretarías de Desarrollo Agroalimentario y Rural, y de Desarrollo Económico Sustentable, así como con otras dependencias, entidades y las autoridades federales competentes, los programas de capacitación técnica especializada;
+a) Coordinar y supervisar con las secretarías del Campo, y de Economía, así como con otras dependencias, entidades y las autoridades federales competentes, los programas de capacitación técnica especializada;
 
 III.- En materia de investigación:
 
@@ -711,31 +757,39 @@ b) Llevar el registro y control de los profesionistas que egresen del Sistema Ed
 
 (DEROGADO [N. DE E. SEGUNDO PÁRRAFO DE ESTE INCISO B)], P.O. 22 DE JULIO DE 2020)
 
-c) Planear y supervisar el uso de bienes inmuebles e instalaciones destinadas a la educación, cultura, recreación y deporte;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-V.- En materia de difusión cultural y recreación:
+c) Planear y supervisar el uso de bienes inmuebles e instalaciones destinadas a la educación y deporte;
 
-a) Promover la realización de congresos científicos, educativos, culturales y artísticos;
+V.- (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-b) Fomentar y realizar eventos y programas deportivos, recreativos y de aprovechamiento del tiempo libre en el Estado, en colaboración con los organismos respectivos;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-c) Promover en coordinación con los organismos correspondientes, la participación del Estado en eventos deportivos regionales, nacionales e internacionales;
+VI.- Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
 
-d) Conservar el patrimonio histórico y cultural del Estado, las bibliotecas, hemerotecas, museos, teatros, centros de expresión artística, unidades promotoras de las culturas locales o regionales de la Entidad y la generación de nuevas fuentes de actividades culturales, ya sea por conducto de esta Secretaría o de los organismos que para el efecto se constituyan de conformidad con la legislación aplicable;
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-e) Coordinar con las autoridades competentes la realización de actividades promotoras de la salud, la conservación del medio ambiente, el mejoramiento integral del individuo y su entorno social, y aquellas actividades tendientes a la prevención, restricción y erradicación de prácticas nocivas a la salud, la educación y la cultura;
+Artículo 25 bis.- La Secretaría de Cultura es la dependencia encargada de promover y difundir las expresiones artísticas, y culturales de la entidad, proyectando su presencia a nivel nacional e internacional. En coordinación con la Secretaría de Educación, fomentará la educación e investigación en el ámbito artístico y cultural, y proporcionará espacios y servicios adecuados para un uso intensivo de la infraestructura cultural. Además, coordinará acciones para preservar y promover el patrimonio y la diversidad cultural, apoyará la creación artística y el desarrollo de las industrias creativas, y promoverá el acceso universal a la cultura aprovechando la tecnología digital y le competen las siguientes atribuciones:
 
-f) Fomentar y vigilar la realización de actos cívicos que coadyuven a fortalecer el sentimiento patrio y la identidad nacional y regional;
+I. Promover la realización de congresos culturales y artísticos, incluyendo la participación de expertos y artistas nacionales e internacionales;
 
-g) Realizar en coordinación con las autoridades competentes, las acciones necesarias en contra de quienes pongan en peligro la salud, seguridad, integridad física o psíquica de quienes concurren a los centros educativos del sistema estatal, o representen una afectación a los alumnos en el cumplimiento del proceso educativo; y
+II. Fomentar y realizar eventos y programas culturales, y artísticos en el Estado, en colaboración con los organismos respectivos, que incluyan festivales, exposiciones, conciertos y talleres de arte;
 
-VI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+III. Conservar y promover el patrimonio histórico y cultural del Estado, gestionando y apoyando las bibliotecas, hemerotecas, museos, teatros, centros de expresión artística y unidades promotoras de las culturas locales o regionales de la entidad, así como fomentar la creación de nuevas fuentes de actividades culturales de conformidad con la legislación aplicable;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+IV. Coordinar con las autoridades competentes la realización de actividades que promuevan la cultura y el arte y el mejoramiento integral del individuo y su entorno social a través de expresiones artísticas y culturales;
+
+V. Fomentar y vigilar la realización de actos cívicos y culturales que coadyuven a fortalecer el sentimiento patrio y la identidad nacional y regional, tales como ceremonias, festivales y eventos conmemorativos;
+
+VI. Promover en coordinación con la Secretaría de Educación la educación artística, y cultural en todos los tipos y niveles educativos del sistema estatal, asegurando la inclusión de programas y actividades que enriquezcan el proceso educativo a través del arte y la cultura; y
+
+VII. Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 26.
 
-La Secretaría de Desarrollo Social y Humano es la dependencia encargada de procurar el desarrollo individual y comunitario de la población del Estado, combatir la pobreza, así como de la implementación de políticas públicas relativas a la vivienda y a los asentamientos humanos y le competen las siguientes atribuciones:
+La Secretaría del Nuevo Comienzo es la dependencia encargada de procurar el desarrollo individual y comunitario de la población del estado, combatir la pobreza, así como de la implementación de políticas públicas relativas a la vivienda y a los asentamientos humanos y le competen las siguientes atribuciones:
 
 I.- En materia de desarrollo social y humano:
 
@@ -745,7 +799,9 @@ b) Impulsar la organización social para facilitar la participación en la toma 
 
 c) Coordinar, concertar y ejecutar programas especiales para los sectores sociales más desprotegidos, con la finalidad de elevar el nivel de vida de la población;
 
-d) Conducir y ejecutar políticas de creación y apoyo a empresas individuales o colectivas en los grupos de escasos recursos, con la participación de los sectores social y privado y de las instancias gubernamentales que el Gobernador del Estado acuerde;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+d) Conducir y ejecutar políticas de creación y apoyo a empresas individuales o colectivas en los grupos de escasos recursos, con la participación de los sectores social y privado y de las instancias gubernamentales que la persona titular del Poder Ejecutivo acuerde;
 
 e) Promover y convenir proyectos productivos y otras acciones para el desarrollo social y humano en el Estado, en coordinación con las autoridades competentes;
 
@@ -785,9 +841,9 @@ V.- En materia de asentamientos humanos, equipamiento urbano y vivienda:
 
 a) Promover el estudio y análisis de la situación en que se encuentran los fraccionamientos y asentamientos humanos que existen en el estado;
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-b) Promover en coordinación con la Secretaría de Medio Ambiente y Ordenamiento Territorial y la Procuraduría Ambiental y de Ordenamiento Territorial y con la participación de los ayuntamientos del Estado, el desarrollo sostenible de los asentamientos humanos, de acuerdo con el Código Territorial y los instrumentos de planeación del desarrollo urbano y ordenamiento ecológico territorial;
+b) Promover en coordinación con la Secretaría del Agua y Medio Ambiente y la Procuraduría Ambiental y de Ordenamiento Territorial y con la participación de los ayuntamientos del Estado, el desarrollo sostenible de los asentamientos humanos, de acuerdo con el Código Territorial para el Estado y los Municipios de Guanajuato y los instrumentos de planeación del desarrollo urbano y ordenamiento ecológico territorial;
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
@@ -823,9 +879,9 @@ k) Establecer y vigilar el cumplimiento de los programas de adquisición de vivi
 
 l) Promover y concertar acciones de vivienda y apoyar su ejecución con la participación de otras dependencias y entidades del Poder Ejecutivo y de las autoridades municipales, así como de los sectores social y privado;
 
-> <small>(REFORMADA [N. DE E. REUBICADA, ANTES FRACCIÓN VII], P.O. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+VI.- Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
 
 ###### Artículo 27.
 
@@ -875,15 +931,19 @@ b) Ejercer la vigilancia sanitaria en los organismos operadores o dependencias o
 
 V.- En materia de infraestructura:
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-a) Coordinar conjuntamente con la Secretaría de Finanzas, Inversión y Administración, la elaboración y ejecución del Programa Estatal de Infraestructura en el área de salud, y vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de construcción, conservación y mantenimiento de obras de las unidades de salud.
+a) Coordinar conjuntamente con la Secretaría de Finanzas, la elaboración y ejecución del Programa Estatal de Infraestructura en el área de salud, y vigilar el cumplimiento de las disposiciones legales y reglamentarias en materia de construcción, conservación y mantenimiento de obras de las unidades de salud.
 
-VI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VI.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 28.
 
-La Secretaría de Desarrollo Económico Sustentable es la dependencia encargada de coordinar, fomentar y regular el desarrollo industrial, comercial y de servicios del Estado, impulsando el aprovechamiento sustentable de los recursos naturales, y le competen las siguientes atribuciones:
+La Secretaría de Economía es la dependencia encargada de coordinar, fomentar y regular el desarrollo industrial, comercial y de servicios del Estado, impulsando el aprovechamiento sustentable de los recursos naturales, y le competen las siguientes atribuciones:
 
 I.- En materia de desarrollo económico:
 
@@ -891,9 +951,9 @@ I.- En materia de desarrollo económico:
 
 a) Ejecutar y evaluar las políticas y programas relativos al fomento de las actividades industriales, mineras, comerciales, artesanales y de servicios, en materia de empleo, de conformidad con los Planes Nacional y Estatal de Desarrollo y las leyes de la materia;
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-b) Ejercer, previo acuerdo del Gobernador del Estado, las atribuciones que en materia industrial, minera, comercial, artesanal y de servicios, se contemplen en los convenios firmados con las dependencias y entidades de la Federación y con los municipios;
+b) Ejercer, previo acuerdo de la persona titular del Poder Ejecutivo, las atribuciones que en materia industrial, minera, comercial, artesanal y de servicios, se contemplen en los convenios firmados con las dependencias y entidades de la Federación y con los municipios;
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2007)</small>
 
@@ -929,9 +989,9 @@ o) Fomentar el mantenimiento y mejora de las fuentes de empleo, mediante capacit
 
 p) Promover la creación de organismos que se encarguen de difundir la cultura de calidad y competitividad de las empresas;
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-q) Convenir con las secretarías de Finanzas, Inversión y Administración, Salud, de Desarrollo Agroalimentario y Rural, de Infraestructura, Conectividad y Movilidad y de Educación, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
+q) Convenir con las secretarías de Finanzas, de Salud, del Campo, de Obra Pública y de Educación, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
 
 r) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
@@ -945,19 +1005,29 @@ t) Promover la capacitación para el fomento de actividades productivas en coord
 
 u) (DEROGADO, P.O. 21 DE MAYO DE 2013)
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-v) Colaborar con la Secretaría de Medio Ambiente y Ordenamiento Territorial para formular estrategias, programas y proyectos de desarrollo y fortalecimiento de la economía con perspectiva ambiental, así como coordinarse con las entidades competentes para promover la participación y responsabilidad de la sociedad en la formulación y aplicación de la política y programas ambientales.
+v) Colaborar con la Secretaría del Agua y Medio Ambiente para formular estrategias, programas y proyectos de desarrollo y fortalecimiento de la economía con perspectiva ambiental, así como coordinarse con las entidades competentes para promover la participación y responsabilidad de la sociedad en la formulación y aplicación de la política y programas ambientales;
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+w) Promover el desarrollo económico del estado y coordinarse con las instancias para facilitar y promover el acceso al financiamiento para micros, pequeñas y medianas empresas y apoyos a la población a fin de generar la viabilidad, productividad, competitividad y sustentabilidad; y
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+x) Implementar y coordinar una unidad administrativa de energía con el objetivo de fomentar, promover y supervisar el desarrollo sostenible del sector energético, así como diseñar, implementar y evaluar políticas públicas para el fomento de fuentes de energía renovables y no renovables, y promover la eficiencia energética en los sectores económicos del estado.
 
 II.- (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2018)
 
-III.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+III.- Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 29.
 
-La Secretaría de Desarrollo Agroalimentario y Rural es la dependencia encargada de fomentar el desarrollo sustentable de las actividades agroalimentarias, pecuarias y pesqueras, así como de consolidar la ruralidad en el estado a través de la conservación y preservación del espacio rural en el que se desarrollan las actividades productivas y le competen las siguientes atribuciones:
+La Secretaría del Campo es la dependencia encargada de fomentar el desarrollo sustentable de las actividades agroalimentarias, pecuarias y pesqueras, así como de consolidar la ruralidad en el estado, a través de la conservación y preservación del espacio rural en el que se desarrollan las actividades productivas y le competen las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
 
@@ -985,11 +1055,13 @@ VIII.- Promover el aumento de la producción y la productividad agropecuaria, a 
 
 IX.- Fomentar entre los productores agrícolas y ganaderos, así como con sus organizaciones y asociaciones gremiales, la utilización de nuevas técnicas, sistemas y procedimientos que mejoren la productividad, apoyando los programas de investigación y enseñanza agropecuaria, y proponiendo la creación de escuelas, campos experimentales y centros de enseñanza superior;
 
-> <small>(REFORMADA, P.O. 22 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-X.- Coordinarse con las Secretarías de Educación, y de Desarrollo Social y Humano, así como con las entidades competentes del Poder Ejecutivo del Estado y con las instituciones de enseñanza e investigación media y superior que cuenten con programas o proyectos en la materia, para el desempeño de las atribuciones señaladas en las dos fracciones anteriores;
+X.- Coordinarse con las secretarías de Educación, y del Nuevo Comienzo, así como con las entidades del Poder Ejecutivo y con las instituciones de enseñanza e investigación media y superior que cuenten con programas o proyectos en la materia, para el desempeño de las atribuciones señaladas en las dos fracciones anteriores;
 
-XI.- Promover, coordinar y controlar los programas tendientes a la integración de actividades económicas en el medio rural que permitan la generación de empleos eventuales y permanentes y el desarrollo de la ocupación productiva, en coordinación con la Secretaría de Desarrollo Económico Sustentable;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XI.- Promover, coordinar y controlar los programas tendientes a la integración de actividades económicas en el medio rural que permitan la generación de empleos eventuales y permanentes y el desarrollo de la ocupación productiva, en coordinación con la Secretaría de Economía;
 
 XII.- Apoyar los programas de inversión agrícola y ganadera vigilando la preservación de los recursos naturales y promoviendo el potencial productivo de ese sector;
 
@@ -997,9 +1069,9 @@ XIII.- Realizar en el ámbito de su competencia, campañas fitosanitarias y zoos
 
 XIV.- Promover la educación y la capacitación campesina a fin de implementar tecnologías agrícolas al alcance de las comunidades rurales, así como diversos oficios tendientes a la autosuficiencia de servicios en la comunidad, coordinándose para tal efecto con la Secretaría de Educación;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-XV.- Organizar y promover congresos, seminarios y otros eventos en materia agroalimentaria, agua para uso agrícola, acuacultura, pesca y desarrollo rural, así como la celebración de exposiciones y ferias relacionadas con dichos sectores;
+XV.- Organizar y promover congresos, seminarios y otros eventos en materia agroalimentaria, agua para uso agrícola, acuacultura, pesca y desarrollo rural, así como la celebración de exposiciones y ferias relacionadas con dichos sectores, coordinándose en lo conducente con la Secretaría del Agua y Medio Ambiente;
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1021,33 +1093,73 @@ XIX.- Promover el cumplimiento de normatividad ambiental federal, de conformidad
 
 XX.- Fomentar el desarrollo y la modernización de las actividades económicas de la sociedad rural; y
 
-XXI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+XXI.- Diseñar e implementar programas integrales de capacitación en coordinación con la Secretaría del Agua y Medio Ambiente que aborden tanto aspectos técnicos de riego como la gestión sostenible del recurso hídrico;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXII.- Proveer asistencia técnica continua para la implementación y mantenimiento de sistemas de riego tecnificados;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXIII.- Gestionar subsidios y programas de financiamiento para la adquisición e instalación de sistemas de riego tecnificados, así como establecer incentivos económicos para los agricultores que implementen prácticas de riego eficiente;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXIV.- Coordinar la planificación y construcción de infraestructura hídrica y agrícola que maximice la eficiencia del uso del agua; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXI.- Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 30.
 
-La Secretaría de Infraestructura, Conectividad y Movilidad es la dependencia encargada de la planeación, programación, presupuestación, contratación, adjudicación y ejecución de la obra pública estatal y, de formular y conducir la política de movilidad y conectividad de acuerdo a las necesidades del Estado, y le competen las siguientes atribuciones:
+La Secretaría de Obra Pública es la dependencia encargada de la planeación, programación, presupuestación, contratación, adjudicación y ejecución de la obra pública estatal y de formular y conducir la política de movilidad y conectividad de acuerdo a las necesidades del estado, y le competen las siguientes atribuciones:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 I.- En materia de obra pública e infraestructura:
 
-a) Coordinar conjuntamente con la Secretaría de Finanzas, Inversión y Administración, la presupuestación de la ejecución del Programa de Obra Pública y Servicios relacionados con la misma, con base en los anteproyectos presentados por las dependencias y entidades;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+a) Coordinar conjuntamente con la Secretaría de Finanzas, la presupuestación de la ejecución del Programa de Obra Pública y Servicios relacionados con la misma, con base en los anteproyectos presentados por las dependencias y entidades;
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 b) Establecer y expedir las bases y normas a las que deben sujetarse los concursos para la ejecución de las obras públicas que realice el Poder Ejecutivo del Estado, señalando las adjudicaciones que procedan y vigilando el cumplimiento de los contratos celebrados, de conformidad con la legislación aplicable;
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 c) Consultar a las dependencias correspondientes a la materia de la obra pública que se concursa sobre las especificaciones a que deben sujetarse los concursos para la ejecución de las mismas;
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 d) Intervenir en los procedimientos de planeación, programación, presupuestación, adjudicación y contratación de la obra pública, en coordinación con las dependencias o entidades del Poder Ejecutivo del Estado que participen en dichos procedimientos;
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 e) Brindar asistencia técnica y jurídica a las autoridades municipales para la planeación, diseño y ejecución de la obra pública a su cargo, cuando lo soliciten;
 
-f) Realizar y vigilar directamente o a través de terceros, en su caso, las obras públicas autorizadas, incluyendo aquéllas encomendadas por acuerdo expreso del Gobernador del Estado;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+f) Realizar y vigilar directamente o a través de terceros, en su caso, las obras públicas autorizadas, incluyendo aquellas encomendadas por acuerdo expreso de la persona titular del Poder Ejecutivo;
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 g) Realizar o supervisar directamente o a través de terceros, los proyectos o trabajos de conservación de las obras públicas del estado;
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 h) Realizar directamente o a través de terceros, las obras convenidas con el gobierno federal y municipal;
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 i) Coadyuvar en la conservación del patrimonio inmobiliario histórico y cultural en coordinación con las autoridades federales, estatales y municipales;
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 j) Vigilar que se respete el derecho de vía en las carreteras, puentes, caminos vecinales y demás vías de comunicación terrestre del estado;
 
@@ -1061,7 +1173,11 @@ l) Planear, programar, presupuestar, contratar y dar seguimiento a las acciones 
 
 La competencia será sin perjuicio de la prevista en la Ley General de Educación al Comité Escolar de Administración Participativa; y
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
 m) Planear, organizar y administrar la infraestructura, a fin de que sea incluyente;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
 
 II.- En materia de conectividad y movilidad:
 
@@ -1103,11 +1219,15 @@ g) Las demás atribuciones que señalen las disposiciones.
 
 Para efecto de esta fracción deberá sujetarse a la planeación previamente establecida.
 
-IV.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 31.
 
-La Secretaría de Seguridad Pública será la autoridad en la materia encargada de velar por la protección de los habitantes del Estado, prevenir la comisión de delitos y hacer guardar el orden público, y le competen las siguientes atribuciones:
+La Secretaría de Seguridad y Paz será la autoridad en la materia encargada de velar por la protección de los habitantes del Estado, prevenir la comisión de delitos, hacer guardar el orden público y promover la paz en el estado y la tranquilidad de las personas guanajuatenses, y le competen las siguientes atribuciones:
 
 I.- En materia de seguridad pública:
 
@@ -1149,9 +1269,13 @@ l) Operar y coordinar el Sistema de Radiocomunicaciones del Estado;
 
 ll) Vigilar el tránsito en las carreteras, caminos y áreas de jurisdicción estatal, así como la seguridad en las mismas;
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-m) Expedir las licencias y permisos para conducir en el Estado y operar el registro estatal de licencias y de infracciones.
+m) Expedir las licencias y permisos para conducir en el Estado y operar el registro estatal de licencias e infracciones; y
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+n) Otorgar, previa autorización de la persona titular del Poder Ejecutivo y previo diagnóstico de riesgo, medidas adicionales de protección y seguridad personal a servidores o exservidores públicos que, por alguna circunstancia derivada de sus funciones actuales o pasadas, lo requieran.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1189,67 +1313,137 @@ c) Organizar y operar mecanismos de capacitación para los organismos de protecc
 
 d). Realizar los trámites que le corresponden al ejecutivo del Estado derivados de la Ley Federal de Armas de Fuego y Explosivos; y
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2006)</small>
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-V.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
+V.- En materia de investigación de delitos:
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+a) Colaborar estrechamente con el Ministerio Público en la investigación de delitos, proporcionando apoyo técnico y operativo según sea requerido;
+
+b) Realizar diligencias y actos de investigación bajo la dirección y supervisión del Ministerio Público, observando siempre las disposiciones legales y los derechos humanos;
+
+c) Efectuar la detención de personas en flagrancia delictiva, garantizando el respeto a los derechos humanos y las garantías constitucionales;
+
+d) Asegurar bienes, objetos e instrumentos que se presuma estén relacionados con hechos delictivos, conforme a las órdenes emitidas por el Ministerio Público o la autoridad judicial competente;
+
+e) Establecer mecanismos de coordinación con el Ministerio Público, el Poder Judicial y otras agencias de seguridad para la eficiente investigación de delitos;
+
+f) Organizar y participar en programas de capacitación y actualización para el personal de la Secretaría, enfocados en técnicas de investigación criminal, detención de personas y aseguramiento de bienes;
+
+g) Desarrollar capacidades en ciberseguridad y crímenes tecnológicos, asegurando una respuesta efectiva a las nuevas modalidades delictivas; y
+
+h) Garantizar que todas las acciones de investigación, detención y aseguramiento de bienes se realicen con pleno respeto a los derechos humanos y las garantías constitucionales.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V.- Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 32.
 
-La Secretaría de la Transparencia y Rendición de Cuentas es la dependencia encargada de llevar a cabo y evaluar el control interno de las dependencias y entidades, promoviendo la participación ciudadana en dichas funciones, así como de la prevención de conductas constitutivas de responsabilidad administrativa, y en su caso, la aplicación del derecho disciplinario, y le competen las siguientes atribuciones:
+La Secretaría de la Honestidad es la dependencia encargada de llevar a cabo y evaluar el control interno de las dependencias y entidades, promoviendo la participación ciudadana en dichas funciones. Su finalidad es garantizar la honestidad del gobierno, utilizando el combate a la corrupción como su principal herramienta. Asimismo, se encarga de la prevención de conductas constitutivas de responsabilidad administrativa y, en su caso, de la aplicación del derecho disciplinario, y le competen las siguientes atribuciones:
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2017)</small>
 
 I. En materia de control interno y fiscalización:
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 a) Organizar y coordinar el sistema de control interno y la evaluación de la gestión gubernamental; inspeccionar el ejercicio del gasto público estatal y su congruencia con el presupuesto de egresos, así como concertar con las dependencias y entidades de la Administración Pública Estatal y validar los indicadores para la evaluación de la gestión gubernamental, en los términos de las disposiciones aplicables; y fungir como apoyo técnico en los trabajos de los contralores municipales;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 b) Proponer las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Estatal, para lo cual podrá requerir de las dependencias competentes proyectos de normas complementarias para el ejercicio del control administrativo. Lo anterior, sin menoscabo de las bases y principios de coordinación y recomendaciones emitidas por el Comité Coordinador del Sistema Estatal Anticorrupción;
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 c) Supervisar el sistema de control interno, establecer las bases generales para la realización de auditorías internas, transversales y externas; proponer las normas que regulen los instrumentos y procedimientos en dichas materias en las dependencias y entidades de la Administración Pública Estatal, así como realizar las auditorías que se requieran en éstas, en sustitución o apoyo de sus propios órganos internos de control;
 
-d) Realizar por sí o por auditores externos, a propuesta de la Secretaría de Finanzas, Inversión y Administración o la coordinadora de sector correspondiente, auditorías, revisiones y evaluaciones a las dependencias y entidades de la Administración Pública Estatal, con el objeto de evaluar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo, y emitir recomendaciones vinculantes para el fortalecimiento institucional para la prevención de hechos de corrupción, así como al mejoramiento de su desempeño;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+d) Realizar por sí o por auditores externos, a propuesta de la Secretaría de Finanzas o la coordinadora de sector correspondiente, auditorías, revisiones y evaluaciones a las dependencias y entidades de la administración pública estatal, con el objeto de evaluar, fiscalizar y promover la eficiencia y legalidad en su gestión y encargo, y emitir recomendaciones vinculantes para el fortalecimiento institucional para la prevención de hechos de corrupción, así como al mejoramiento de su desempeño;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 e) Fiscalizar directamente o a través de los órganos internos de control, que las dependencias y entidades de la Administración Pública Estatal cumplan con las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación y remuneraciones de personal, contratación de adquisiciones, arrendamientos, arrendamiento financiero, servicios y ejecución de obra pública, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal; así como realizar auditorías de evaluación al desempeño;
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 f) Designar y remover para el mejor desarrollo del sistema de control y evaluación de la gestión gubernamental, comisarios o sus equivalentes de los órganos de vigilancia de las entidades de la Administración Pública Estatal; así como normar y controlar su desempeño;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 g) Designar y remover a los titulares de las áreas responsables de los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal, a través de procedimientos transparentes, objetivos y equitativos quienes le dependerán jerárquica y funcionalmente, asimismo, designar y remover a los titulares de las áreas de los citados órganos internos de control; quienes tendrán el carácter de autoridad y realizarán la defensa jurídica de las resoluciones que emitan en la esfera administrativa y ante los tribunales estatales, representando al titular de dicha Secretaría;
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 h) Llevar y normar el registro de servidores públicos de la Administración Pública Estatal, recibir y registrar las declaraciones patrimoniales, de intereses y la constancia de presentación de declaración fiscal que deban presentar, y en su caso, verificar su contenido mediante las investigaciones que resulten pertinentes de acuerdo con las disposiciones aplicables. También registrará la información sobre las sanciones administrativas que, en su caso, les hayan sido impuestas;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 i) Atender las quejas e inconformidades que presenten los particulares con motivo de convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 j) Establecer criterios generales y lineamientos, y conducir la política general de las contrataciones públicas conforme a los principios de eficiencia, eficacia, economía, transparencia, imparcialidad y honradez; emitir los lineamientos, manuales, procedimientos y demás instrumentos análogos que se requieran en materia de dichas contrataciones públicas; proporcionar, en su caso, asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las mencionadas leyes que realicen las dependencias y entidades de la Administración Pública Estatal y promover, con la intervención que corresponda a otras dependencias, la coordinación y cooperación con los Poderes del Estado, los órganos constitucionales autónomos, los municipios y demás entes públicos encargados de regímenes de contratación pública, a efecto de propiciar en lo procedente la homologación de políticas, normativas y criterios, que permita (sic) contar con un sistema de contrataciones públicas articulado a nivel Estatal;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 k) Definir la política de gobierno abierto y datos abiertos en el ámbito de las dependencias y entidades de la Administración Pública Estatal, de conformidad con la normatividad jurídica aplicable;
 
-l) Tramitar y resolver las inconformidades que presten los particulares, con motivo de convenios o contratos que celebren con las dependencias y entidades (sic) administración Pública Estatal, y que rija la legislación en materia de adquisiciones, enajenaciones, arrendamientos y contratación de servicios; y
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+l) Tramitar y resolver las inconformidades que presenten los particulares, con motivo de convenios o contratos que celebren con las dependencias y entidades de la administración pública estatal, y que rija la legislación en materia de contrataciones públicas; y
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 m) Ejercer las facultades que la Constitución Política para el Estado de Guanajuato y la legislación aplicable le otorga a los órganos internos de control para revisar, mediante las auditorías a que se refieren (sic) el presente artículo, el ingreso, manejo, custodia y ejercicio de recursos públicos de las dependencias y entidades de la Administración pública estatal, así como a las administraciones públicas municipales sobre manejo, decisión autorización, recepción, aplicación o de aquellos coordinados, concentrados, convenidos o descentralizados con el Estado o la Federación, y organismos autónomos;
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2017)</small>
+
 II. En materia del Sistema Estatal Anticorrupción:
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 a) Vigilar, en colaboración con las autoridades que integren el Comité Coordinador del Sistema Estatal Anticorrupción, el cumplimiento de las normas de control interno y fiscalización, así como asesorar y apoyar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal; y fungir como apoyo técnico con los municipios;
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 b) Colaborar en el marco del Sistema Estatal Anticorrupción, en el establecimiento de las bases y principios de coordinación necesarios, que permitan el mejor cumplimiento de las responsabilidades de sus integrantes;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 c) Implementar las acciones que acuerde el Sistema Estatal Anticorrupción, en términos de las disposiciones aplicables;
 
-d) Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como al Gobernador del Estado, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades de la Administración Pública Estatal, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+d) Informar periódicamente al Comité Coordinador del Sistema Estatal Anticorrupción, así como a la persona titular del Poder Ejecutivo, sobre el resultado de la evaluación respecto de la gestión de las dependencias y entidades del Poder Ejecutivo, así como del resultado de la revisión del ingreso, manejo, custodia y ejercicio de recursos públicos estatales, y promover ante las autoridades competentes, las acciones que procedan para corregir las irregularidades detectadas;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 e) Formular y conducir en apego y de conformidad con las bases de coordinación que establezca el Comité Coordinador del Sistema Estatal Anticorrupción, la política general de la Administración Pública Estatal para establecer acciones que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas y el acceso por parte de los particulares a la información que aquélla genere; así como diseñar los lineamientos para la modernización de la gestión de la administración pública y la mejora de los trámites y servicios gubernamentales, promoviendo dichas acciones hacia la sociedad;
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 f) Implementar las políticas de coordinación que promueva el Comité Coordinador del Sistema Estatal Anticorrupción, en materia de combate a la corrupción en la Administración Pública Estatal; y
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 g) Emitir lineamientos específicos y manuales que, dentro del ámbito de su competencia, integren disposiciones y criterios que impulsen la simplificación administrativa, para lo cual deberán tomar en consideración las bases y principios de coordinación y recomendaciones generales que emita el Comité Coordinador del Sistema Estatal Anticorrupción;
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2017)</small>
+
 III. En materia de mejoramiento de la administración pública:
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 a) Vigilar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio; y
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2021)</small>
 
 b) Organizar y coordinar el desarrollo administrativo integral en las dependencias y entidades de la Administración Pública Estatal, incluyendo la implementación de la política de mejora regulatoria y emitir las normas para que los recursos humanos, patrimoniales y los procedimientos técnicos de la misma, sean aprovechados y aplicados, con criterios de eficacia, legalidad, eficiencia y simplificación administrativa; así como, realizar o encomendar las investigaciones, estudios y análisis sobre estas materias, en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2017)</small>
 
 IV. En materia de derecho disciplinario:
 
@@ -1259,21 +1453,35 @@ b) Establecer mecanismos internos para la Administración Pública Estatal que p
 
 c) Procurar y en su caso promover el resarcimiento de los daños y perjuicios a la Hacienda Pública o al patrimonio ocasionados por servidores públicos o particulares a la administración pública estatal;
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2017)</small>
+
 V. En materia de vinculación ciudadana:
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 a) Coordinar la mejora y evaluación de las regulaciones, trámites y servicios, incluyendo su simplificación administrativa, promoviendo la calidad en la prestación de los servicios a la población por parte de las dependencias y entidades de la Administración Pública Estatal;
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 b) Difundir los valores que deben distinguir a los servidores públicos en su función, y fomentar su conducta ética;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 c) Fomentar la cultura de la denuncia respecto de los actos indebidos de los servidores públicos;
 
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
+
 d) Recibir y dar seguimiento a las sugerencias, quejas y denuncias de la población, con respecto a la actuación de los servidores públicos;
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2017)</small>
 
 e) Coordinar la participación ciudadana en tareas de contraloría social; y
 
-f) Fomentar, promover y coordinar la participación ciudadana dentro de los mecanismos de evaluación de la actividad gubernamental; generando la participación de testigos sociales en los procedimientos de contratación pública que se establezcan en la legislación en materia de adquisiciones, enajenaciones, arrendamientos y contrataciones de servicios;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+f) Fomentar, promover y coordinar la participación ciudadana dentro de los mecanismos de evaluación de la actividad gubernamental; generando la participación de testigos sociales en los procedimientos que se establezcan en la legislación en materia de contrataciones públicas;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2017)</small>
 
 VI. En materia de prevención:
 
@@ -1285,15 +1493,17 @@ c) Emitir el Código de Ética de los servidores públicos del gobierno estatal 
 
 d) Recibir y registrar las declaraciones patrimoniales de los servidores públicos conforme a la Ley de la materia en su caso, requerir información adicional, así como realizar las investigaciones y denuncias correspondientes; y
 
-VII. Las demás que le encomienden expresamente las leyes y reglamentos.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2013)</small>
+VII. Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
 
-Artículo 32 bis.- La Secretaría de Turismo es la dependencia encargada de planear, programar, desarrollar, promover y vigilar la actividad turística y le competen las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
+Artículo 32 bis.- La Secretaría de Turismo e Identidad es la dependencia encargada de planear, programar, desarrollar, promover y vigilar la actividad turística, así como de fomentar y preservar la identidad cultural y patrimonial del Estado y le competen las siguientes atribuciones:
 
-I.- Planear, programar y evaluar la actividad turística en el Estado, de conformidad con los planes nacional y estatal de desarrollo, las leyes de la materia y los lineamientos de política turística acordados con el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I.- Planear, programar y evaluar la actividad turística en el Estado, de conformidad con los planes nacional y estatal de desarrollo, las leyes de la materia y los lineamientos de política turística acordados con la persona titular del Poder Ejecutivo;
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
@@ -1303,73 +1513,123 @@ II.- Ejercer las atribuciones que se contemplen en los convenios suscritos con d
 
 III.- Proporcionar asesoría en materia de turismo a las autoridades estatales y municipales, así como a los prestadores de servicios turísticos en el Estado;
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-IV.- Otorgar incentivos y apoyos al sector turístico considerando en igualdad de circunstancias a los prestadores de servicios turísticos del Estado;
-
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
-
-V.- Impulsar la creación, conservación, mejoramiento, protección y aprovechamiento sustentable de los recursos e infraestructura turísticos de la Entidad, procurando la atracción de inversiones públicas y privadas en el sector;
+IV.- Diseñar y ejecutar estrategias para la preservación y promoción de la identidad cultural y patrimonial del estado;
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
-VI.- Llevar a cabo el desarrollo y la promoción de la actividad turística del Estado fomentando la participación de la Federación, los municipios y la iniciativa privada, para el crecimiento económico de este sector;
+V.- Otorgar incentivos y apoyos al sector turístico considerando en igualdad de circunstancias a los prestadores de servicios turísticos del Estado;
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
-VII.- Impulsar, coordinar y evaluar las acciones orientadas a crear, dotar y mejorar la infraestructura e imagen urbana que requieran las zonas de desarrollo turístico del Estado;
+VI.- Impulsar la creación, conservación, mejoramiento, protección y aprovechamiento sustentable de los recursos e infraestructura turísticos de la Entidad, procurando la atracción de inversiones públicas y privadas en el sector;
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
-VIII.- Gestionar, en el ámbito de su competencia, la prestación de servicios turísticos principales y conexos;
+VII.- Llevar a cabo el desarrollo y la promoción de la actividad turística del Estado fomentando la participación de la Federación, los municipios y la iniciativa privada, para el crecimiento económico de este sector;
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
-IX.- Fomentar la creación de organizaciones orientadas al mejoramiento de la actividad turística en general;
+VIII.- Impulsar, coordinar y evaluar las acciones orientadas a crear, dotar y mejorar la infraestructura e imagen urbana que requieran las zonas de desarrollo turístico del Estado;
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
-X.- Impulsar la competitividad y calidad en los productos y los servicios turísticos en el Estado;
+IX.- Gestionar, en el ámbito de su competencia, la prestación de servicios turísticos principales y conexos;
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
-XI.- Coadyuvar en la ejecución, en el ámbito de su competencia, de acciones en materia de información y protección del turista, en coordinación con las autoridades federales, estatales y municipales, así como con los prestadores de servicios turísticos;
+X.- Fomentar la creación de organizaciones orientadas al mejoramiento de la actividad turística en general;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XI.- Fomentar la participación de las comunidades locales en la preservación y promoción de su identidad cultural, apoyando proyectos comunitarios y actividades culturales;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XII.- Promover la innovación y el uso de nuevas tecnologías en la conservación y difusión del patrimonio cultural, asegurando su relevancia para las nuevas generaciones;
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
-XII.- Vigilar, en la esfera de su competencia, el cumplimiento de la normatividad que regula la actividad turística;
+XIII.- Impulsar la competitividad y calidad en los productos y los servicios turísticos en el Estado;
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
-XIII.- Promover la coordinación entre los prestadores de servicios turísticos;
+XIV.- Coadyuvar en la ejecución, en el ámbito de su competencia, de acciones en materia de información y protección del turista, en coordinación con las autoridades federales, estatales y municipales, así como con los prestadores de servicios turísticos;
 
-> <small>(REFORMADA P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-XIV.- Administrar los ingresos del Fondo de Promoción y Difusión para el Turismo del Estado que le sean asignados por la Secretaría de Finanzas, Inversión y Administración con motivo de la recaudación del Impuesto por Servicios de Hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MAYO DE 2013)</small>
-
-XV.- Impulsar el desarrollo de la industria cinematográfica y promover al Estado de Guanajuato como zona geográfica idónea para la realización de proyectos audiovisuales, que fomenten la generación de empleos, ocupación hotelera, derrama económica y el posicionamiento turístico de la Entidad; y
+XV.- Supervisar y evaluar las políticas y programas de fomento y preservación de la identidad cultural;
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
 
-XVI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
+XVI.- Vigilar, en la esfera de su competencia, el cumplimiento de la normatividad que regula la actividad turística;
+
+> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2007)</small>
+
+XVII.- Promover la coordinación entre los prestadores de servicios turísticos;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII.- Administrar los ingresos del Fondo de Promoción y Difusión para el Turismo del Estado que le sean asignados por la Secretaría de Finanzas con motivo de la recaudación del Impuesto por Servicios de Hospedaje, en los términos de la Ley de Hacienda para el Estado de Guanajuato;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XIX.- Impulsar el desarrollo de la industria cinematográfica y promover al estado de Guanajuato como zona geográfica idónea para la realización de proyectos audiovisuales, que fomenten la generación de empleos, ocupación hotelera, derrama económica y el posicionamiento turístico de la entidad; y
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XX.- Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
 
 ###### Artículo 32 Ter.
 
 (DEROGADO, P.O. 22 DE JULIO DE 2020)
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 32 Quáter.
 
-La Secretaría de Medio Ambiente y Ordenamiento Territorial es la dependencia encargada de propiciar el desarrollo sustentable, la preservación y restauración del equilibrio ecológico, así como regular las acciones tendientes a proteger el medio ambiente y la implementación de políticas públicas relativas a la ocupación y utilización del territorio y le competen las siguientes atribuciones:
+La Secretaría del Agua y Medio Ambiente es la dependencia encargada de propiciar el desarrollo sustentable, preservar y restaurar el equilibrio ecológico, así como regular las acciones destinadas a proteger el medio ambiente e implementar políticas públicas relativas a la ocupación y utilización del territorio. Además, esta Secretaría tiene la responsabilidad de planear, formular, conducir, coordinar, ejecutar, supervisar y evaluar las políticas, programas y acciones relacionadas con los recursos hídricos en el estado. A la Secretaría le competen las siguientes atribuciones:
 
-I.- En materia de Medio Ambiente:
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I. En materia de Agua:
+
+a) Diseñar y coordinar la política pública estatal en materia de gestión de las aguas de jurisdicción estatal, así como fomentar el uso racional del agua;
+
+b) Gestionar, planear, programar, contratar, ejecutar y supervisar, las obras, requeridas para aprovechar de forma sustentable el agua en las actividades urbanas y suburbanas, agrícolas, rurales, ganaderas y forestales, coordinando dichas acciones con las dependencias del Poder Ejecutivo que correspondan;
+
+c) Ejercer las atribuciones que la legislación federal en materia hídrica establece para los Estados, mediante la celebración de convenios;
+
+d) Formular y promover nuevas fuentes y sistemas de abastecimiento de agua, disminuyendo los daños ambientales y los costos en la producción de nuevas fuentes de agua;
+
+e) Coadyuvar en la promoción, apoyo, prevención, vigilancia, control y disminución de la contaminación del agua de competencia del Estado;
+
+f) Coadyuvar en la formulación conjunta con los Municipios, de los planes y programas específicos para el abastecimiento, captación, tratamiento y uso eficiente de aguas pluviales;
+
+g) Promover la participación de la sociedad en la planeación, toma de decisiones, ejecución, evaluación y vigilancia de la política hídrica estatal;
+
+h) Coordinar la operación y actualización del sistema estatal de información de los servicios de agua potable, pluviales, alcantarillado sanitario y saneamiento, así como los de tratamiento y manejo de aguas residuales;
+
+i) Participar en el Sistema Estatal de Protección Civil y apoyar en la aplicación de los planes y programas para prevenir y atender situaciones de emergencia, causadas por fenómenos hidrometeorológicos;
+
+j) Apoyar a los organismos operadores del servicio de agua en el desarrollo de programas de orientación a los usuarios con el objeto de preservar la calidad del agua y propiciar su aprovechamiento racional;
+
+k) Proponer a las instancias correspondientes políticas públicas, estrategias, programas, proyectos y acciones para hacer eficiente el uso de agua en riego, así como de los usos agropecuario y acuícola;
+
+l) Coadyuvar con las autoridades en la creación de una educación y cultura ambiental en torno al cuidado y uso razonable del agua, en términos del programa estatal en materia de fomento a la cultura del cuidado y uso racional del agua; y
+
+m) Las que determinen las leyes, reglamentos y demás disposiciones.
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+II.- En materia de Medio Ambiente:
 
 a) Aplicar y vigilar el cumplimiento de disposiciones legales en materia de ecología y de protección ambiental;
 
-b) Proponer al Gobernador del Estado las disposiciones jurídicas para la prevención y control de la contaminación, así como para la protección y conservación de los recursos naturales;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+b) Proponer a la persona titular del Poder Ejecutivo las disposiciones jurídicas para la prevención y control de la contaminación, así como para la protección y conservación de los recursos naturales;
 
 c) Implementar, en el ámbito de su competencia, medidas y acciones para prevenir, controlar y restaurar los daños ocasionados por la contaminación del aire, suelo, sub suelo, agua y del ambiente en general;
 
@@ -1397,11 +1657,15 @@ m) Coadyuvar con las autoridades municipales en el diseño de programas que gara
 
 n) Promover la determinación de criterios para el establecimiento de los estímulos fiscales y financieros para el aprovechamiento sustentable de los recursos naturales y el cuidado del medio ambiente;
 
-ñ) Coordinar con los organismos competentes, la elaboración de los estudios geohidrológicos;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+ñ) Coordinar con los organismos competentes, la elaboración de los estudios geohidrológicos; y
 
 o) Aplicar las sanciones previstas en las disposiciones legales en materia ambiental y promover la ejecución de las que correspondan a otras autoridades;
 
-II.- En materia de Ordenamiento Territorial:
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+
+III.- En materia de Ordenamiento Territorial:
 
 a) Formular, ejecutar y evaluar las políticas públicas de desarrollo urbano y ordenamiento territorial;
 
@@ -1419,83 +1683,55 @@ g) Participar en el ámbito de su competencia en la elaboración, planeación, e
 
 h) Promover la celebración de convenios de colaboración con los municipios en materia urbana;
 
-i) Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos que se dispongan para tal efecto;
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-j) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
+i) Fomentar con la participación de los municipios un desarrollo metropolitano ordenado y el aprovechamiento de los fondos que se dispongan para tal efecto; y
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2021)</small>
 
-k) Promover el estudio y análisis de la situación ambiental, hídrica y de ordenamiento territorial en que se encuentran los centros de población en el estado;
+j) Promover el estudio y análisis de la situación ambiental, hídrica y de ordenamiento territorial en que se encuentran los centros de población en el estado;
 
-l) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-m) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
+IV.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
 
-n) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
-
-ñ) (DEROGADO, P.O. 23 DE NOVIEMBRE DE 2021)
-
-III.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
-
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 32 Quinquies.
 
-La Secretaría del Migrante y Enlace Internacional es la dependencia encargada de diseñar, proponer, coordinar, implementar, promover, difundir y evaluar políticas públicas sobre hospitalidad, interculturalidad, enlace internacional y la atención integral y respeto de los derechos de los migrantes, sus familias y sus comunidades de origen, con la colaboración de los diferentes actores en el proceso de desarrollo social, económico, cultural y político del Estado de Guanajuato, y le competen las siguientes atribuciones:
+La Secretaría de Derechos Humanos es la dependencia responsable de diseñar, implementar y coordinar políticas públicas en materia de derechos humanos, así como coordinar los programas que promuevan la inclusión, la igualdad y no discriminación y el bienestar de personas y grupos en condiciones de vulnerabilidad y personas en contexto de movilidad humana de conformidad con las leyes en la materia. Entre estos grupos se incluyen personas con discapacidad, comunidades, pueblos y personas indígenas y afromexicanas, y personas de las diversidades sexual y género. La Secretaría tiene como objetivo garantizar la igualdad de oportunidades y el acceso a servicios básicos, así como fomentar la participación activa de estos grupos en la sociedad y le competen las siguientes atribuciones:
 
-I. En materia de migración:
+I. Vigilar el respeto de los derechos humanos al interior de la administración pública estatal y dictar las medidas administrativas conducentes;
 
-a) Diseñar y proponer el programa estatal de migración, hospitalidad e interculturalidad, así como ejercer las acciones que se contemplen en los convenios suscritos con las dependencias y entidades de la Administración Pública Federal, con otras entidades federativas, los municipios, organismos internacionales y la iniciativa privada, en esta materia;
+II. Diseñar y proponer el Programa Estatal de Derechos Humanos, así como el respeto y protección de derechos humanos de grupos vulnerables y personas en contexto de movilidad humana, así como ejercer las acciones que se contemplen en los convenios suscritos con las dependencias y entidades de la administración pública federal, con otras entidades federativas, los municipios, organismos internacionales y la iniciativa privada, en esta materia;
 
-b) Concertar con los sectores social y privado para que coadyuven en la aplicación de la política y el programa estatal de migración, hospitalidad, e interculturalidad de orden estatal, nacional e internacional;
+III. Formular políticas transversales encaminadas a garantizar que todas las personas y grupos en condiciones de vulnerabilidad tengan acceso igualitario a servicios básicos como salud, educación, vivienda y empleo, respetando y promoviendo su identidad cultural y personal;
 
-c) Realizar estudios e investigaciones sobre migración, hospitalidad, e interculturalidad;
+V (SIC). Concertar con los sectores social y privado para que coadyuven en la aplicación de la política y el programa estatal de respeto y protección de derechos humanos de grupos vulnerables;
 
-d) Diseñar, e implementar políticas públicas para la atención integral de los migrantes de conformidad con la ley en materia de migrantes;
+VI. Realizar estudios e investigaciones sobre el respeto y protección de los derechos humanos;
 
-e) Coordinarse con las dependencias y entidades de la administración pública estatal para la atención integral de los migrantes;
+VII. Diseñar, e implementar políticas públicas para la atención integral de los migrantes de conformidad con la ley en materia de grupos vulnerables;
 
-f) Establecer mecanismos de evaluación de las políticas públicas en materia de migración de los guanajuatenses;
+VIII. Coordinarse con las dependencias y entidades del Poder Ejecutivo para la atención integral de los grupos vulnerables;
 
-g) Diseñar e implementar, con el apoyo de la Secretaría de Gobierno, un programa de promoción, procuración y defensa de los derechos humanos de migrantes;
+IX. Promover la innovación en las políticas y programas de inclusión e igualdad y no discriminación, utilizando enfoques y tecnologías que aseguren una mayor efectividad en la promoción de los derechos humanos;
 
-h) Establecer un subsistema de información sobre migración guanajuatense vinculado con el Sistema Estatal de Información Estadística y Geográfica, en términos de la Ley de Planeación para el Estado de Guanajuato;
+X. Defender y promover los derechos culturales y lingüísticos de las comunidades, pueblos y personas indígenas y otros grupos que conserven lenguas y prácticas culturales tradicionales;
 
-i) Ejercer las acciones que se contemplen en los convenios suscritos con las dependencias y entidades de la Administración Pública Federal, con otras entidades federativas, los municipios, organismos internacionales y la iniciativa privada, que conlleven al mejoramiento de las condiciones de vida de los migrantes;
+XI. Establecer mecanismos de evaluación de las políticas públicas en materia de grupos vulnerables;
 
-j) Coordinarse con los municipios para el establecimiento de acciones y programas en la atención y protección de los migrantes;
+XII. Diseñar e implementar, con el apoyo de la Secretaría de Gobierno, un programa de promoción, procuración y defensa de los derechos humanos de las personas y de grupos vulnerables;
 
-k) Fortalecer los vínculos de la entidad con los migrantes guanajuatenses en el extranjero mediante programas de interés común;
+XIII. Coordinarse con los municipios para el establecimiento de acciones y programas en la atención y protección de grupos vulnerables;
 
-l) Promover, ejecutar, concertar y coordinar programas, obras y acciones que permitan el arraigo de los migrantes y sus familias en el estado, permitiéndoles incorporarse a sus comunidades de origen mediante el desarrollo económico regional, así como la difusión de nuestra historia, cultura, tradiciones y valores, que fortalezcan los vínculos entre las comunidades de guanajuatenses radicadas en el extranjero y sus descendientes;
+XIV. Vincular organismos públicos y privados, estatales, nacionales e internacionales, para la generación de proyectos a favor de grupos vulnerables y sus comunidades;
 
-m) Generar, promover, implementar y evaluar proyectos con migrantes para el desarrollo de la Entidad;
+XV. Orientar a los grupos vulnerables acerca de las opciones de educación, empleo, salud y vivienda;
 
-n) Vincular organismos públicos y privados, estatales, nacionales e internacionales, para la generación de proyectos a favor de los migrantes, sus familias y sus comunidades, promoviendo la creación de cadenas productivas, a fin de potenciar la producción empresarial de la comunidad migrante;
+XVI. Impulsar en coordinación con las autoridades competentes en la materia, estrategias integrales que permitan enfrentar los retos que presenta el respeto y protección de los derechos humanos; y
 
-ñ) Fomentar la comunicación permanente con clubes, federaciones y organizaciones de guanajuatenses radicados o que migran fuera del estado;
-
-o) Gestionar oficinas de atención a los migrantes guanajuatenses en diferentes ciudades del Estado, del país y del extranjero, de acuerdo a las necesidades de su operatividad y a la disponibilidad presupuestal, a efecto de consolidar el vínculo interinstitucional con sus comunidades y desarrollar acciones conjuntas en beneficio de los migrantes;
-
-p) Orientar a los migrantes en retorno acerca de las opciones de educación, empleo, salud y vivienda;
-
-q) Impulsar en coordinación con las autoridades competentes en la materia, estrategias integrales que permitan enfrentar los retos que presenta la migración de los guanajuatenses;
-
-r) Elaborar un padrón de aquellas empresas, patrones y contratistas que por su historial hayan alcanzado confiabilidad en la contratación de trabajadores para realizar labores en el extranjero; y
-
-s) Vincularse con las autoridades laborales y otras competentes, para obtener información en materia de contratación laboral en el extranjero;
-
-II.- En materia de Enlace Internacional:
-
-a) Llevar a cabo las relaciones internacionales del Estado de Guanajuato en el ámbito de su competencia de conformidad con la ley en materia de migrantes;
-
-b) Diseñar, dirigir y ejecutar las acciones de enlace internacional en materia de migración que permita consolidar la presencia del Estado de Guanajuato en el mundo, con base en los principios de cooperación internacional y corresponsabilidad global, favoreciendo la participación de actores no gubernamentales;
-
-c) Colaborar en las acciones que en el ámbito internacional realicen las dependencias y entidades de la Administración Pública Estatal;
-
-d) Celebrar convenios, acuerdos interinstitucionales y demás instrumentos, en el ámbito de su competencia y de acuerdo a los principios de la Política Exterior de México, que permitan contribuir sustantivamente a fortalecer la presencia e influencia del Estado de Guanajuato en el contexto internacional; y
-
-III.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
+XVII. Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
 
 ###### Artículo 33.
 
@@ -1509,11 +1745,13 @@ III.- Las demás que le señalen las leyes y reglamentos aplicables en la entida
 
 Las entidades paraestatales son órganos auxiliares de la Administración Pública Estatal, las cuales deberán coordinar sus acciones para lograr el desarrollo integral ofreciendo servicios de calidad.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 35.
 
-El Gobernador del Estado, previo decreto podrá crear, fusionar, suprimir o liquidar, según corresponda, organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos. En el decreto gubernativo de creación de las entidades se deberán señalar las atribuciones que ejercerán.
+La persona titular del Poder Ejecutivo, previo decreto podrá crear, fusionar, suprimir o liquidar, según corresponda, organismos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos. En el decreto gubernativo de creación de las entidades se deberán señalar las atribuciones que ejercerán.
 
-Los organismos descentralizados podrán ser creados por el Poder Legislativo escuchando la opinión de el Gobernador del Estado durante el proceso legislativo. Asimismo, el Congreso sólo podrá extinguir los organismos descentralizados creados por Ley.
+Los organismos descentralizados podrán ser creados por el Poder Legislativo escuchando la opinión de la persona Titular del Poder Ejecutivo durante el proceso legislativo. Asimismo, el Congreso del Estado sólo podrá extinguir los organismos descentralizados creados por Ley.
 
 ###### Artículo 36.
 
@@ -1521,41 +1759,45 @@ Las instituciones a las que la Ley les otorgue autonomía se regirán por sus pr
 
 Los organismos descentralizados creados por Ley, se regirán por ésta, pero deberán observar las disposiciones de la presente Ley en cuanto no se opongan a aquélla.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 37.
 
-El Gobernador del Estado designará a quien deba presidir los órganos de gobierno y de administración de las entidades estatales, sujetándose a las disposiciones previstas en esta Ley, así como a lo señalado en el ordenamiento jurídico que las crea.
+La persona titular del Poder Ejecutivo designará a quien deba presidir los órganos de gobierno y de administración de las entidades estatales, sujetándose a las disposiciones previstas en esta Ley, así como a lo señalado en el ordenamiento jurídico que las crea.
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+El órgano de gobierno será presidido por la persona titular de la Secretaría coordinadora de sector en que se encuentre agrupada la entidad estatal, salvo que por disposición del ordenamiento jurídico que la crea, la presidencia se le asigne a la persona titular del Poder Ejecutivo o a una dependencia o entidad, o a un ciudadano que no forme parte de la administración pública del estado.
 
-El órgano de gobierno será presidido por el titular de la Secretaría coordinadora de sector en que se encuentre agrupada la entidad estatal, salvo que por disposición del ordenamiento jurídico que la crea, la presidencia se le asigne al Gobernador del Estado o a una dependencia o entidad, o a un ciudadano que no forme parte de la Administración Pública del Estado.
+A falta de disposición expresa de a quién corresponde la remoción de la persona titular de la dirección general o su equivalente de la entidad estatal, ésta facultad corresponderá a la persona titular del Poder Ejecutivo.
 
-A falta de disposición expresa de a quién corresponde la remoción del Director General o su equivalente de la entidad estatal, ésta facultad corresponderá al Gobernador del Estado.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 38.
 
-El órgano de gobierno o administración de cada entidad paraestatal deberá aprobar el reglamento interior que establezca las bases de su organización y funcionamiento, remitiéndolo al Gobernador del Estado para los efectos constitucionales de su competencia.
+El órgano de gobierno o administración de cada entidad paraestatal deberá aprobar el reglamento interior que establezca las bases de su organización y funcionamiento, remitiéndolo a la persona titular del Poder Ejecutivo para los efectos constitucionales de su competencia.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 39.
 
-La Secretaría de Finanzas, Inversión y Administración deberá llevar el registro de las entidades paraestatales.
+La Secretaría de Finanzas deberá llevar el registro de las entidades paraestatales.
 
 ### CAPÍTULO SEGUNDO. COORDINACIÓN SECTORIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 40.
 
-El Gobernador del Estado podrá agrupar a las entidades paraestatales en sectores definidos, que serán coordinados por la Secretaría que en cada caso y para cada grupo designe para tal efecto.
+La persona titular del Poder Ejecutivo podrá agrupar a las entidades paraestatales en sectores definidos, que serán coordinados por la Secretaría que en cada caso y para cada grupo designe para tal efecto.
 
 El agrupamiento de entidades paraestatales a que se refiere este artículo se realizará considerando el objeto o fin de cada entidad, en relación con la competencia que ésta u otras leyes atribuyan a las dependencias del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 41.
 
-Corresponde al Gobernador del Estado establecer las políticas de desarrollo para la Secretaría coordinadora y entidades paraestatales del sector que corresponda.
+Corresponde a la persona titular del Poder Ejecutivo establecer las políticas de desarrollo para la Secretaría coordinadora y entidades paraestatales del sector que corresponda.
 
-A los titulares de las Secretarías coordinadoras de sector les corresponde organizar la programación y presupuestación de conformidad, en su caso, con las asignaciones de gasto y financiamiento previamente establecidas y autorizadas; así como conocer la operación y evaluar los resultados de las entidades paraestatales agrupadas en su sector.
+A las personas titulares de las secretarías coordinadoras de sector les corresponde organizar la programación y presupuestación de conformidad, en su caso, con las asignaciones de gasto y financiamiento previamente establecidas y autorizadas; así como conocer la operación y evaluar los resultados de las entidades paraestatales agrupadas en su sector.
 
 ###### Artículo 42.
 
@@ -1577,9 +1819,11 @@ Las áreas de planeación del Poder Ejecutivo deberán asegurar la alineación e
 
 Los organismos descentralizados contarán con personalidad jurídica y patrimonio propios, tendrán por objeto la prestación de un servicio público o social, la protección, promoción, estudio o divulgación de asuntos de interés público o la aplicación de recursos para fines de asistencia o seguridad social.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 46.
 
-El decreto que expida el Gobernador del Estado para la creación de un organismo descentralizado deberá contener, entre otros, los siguientes elementos:
+El decreto que expida la persona titular del Poder Ejecutivo para la creación de un organismo descentralizado deberá contener, entre otros, los siguientes elementos:
 
 I.- La justificación de la necesidad de su creación;
 
@@ -1599,11 +1843,11 @@ VIII.- Los órganos de vigilancia y sus facultades; y
 
 IX.- En su caso, la Secretaría coordinadora de sector.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 47.
 
-La dirección y administración de los organismos descentralizados estará a cargo, de un órgano de gobierno y un director general o por quien haga sus veces, respectivamente. El control interno corresponderá al órgano de vigilancia.
+La dirección y administración de los organismos descentralizados estará a cargo de un órgano de gobierno y una persona titular de la dirección general respectivamente. El control interno corresponderá al órgano de vigilancia.
 
 Asimismo podrán contar con órganos consultivos que tendrán la función de asesoría, de conformidad con el ordenamiento jurídico que los cree.
 
@@ -1627,7 +1871,9 @@ III.- Aprobar los estados financieros del organismo;
 
 IV.- Aprobar el reglamento interior del organismo;
 
-V.- Nombrar y remover a los servidores públicos del organismo a propuesta del director general;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V.- Nombrar y remover a los servidores públicos del organismo a propuesta de la persona titular de la dirección general;
 
 VI.- Autorizar la práctica de auditorías externas para vigilar la correcta aplicación de los recursos;
 
@@ -1649,7 +1895,9 @@ X.- Las demás que le señale esta Ley y el ordenamiento jurídico que lo norme.
 
 Estarán impedidos para ser integrantes del órgano de gobierno:
 
-I.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado con cualquiera de los integrantes del órgano de gobierno o con el director general;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+I.- Los cónyuges y las personas que tengan parentesco por consanguinidad o afinidad hasta el cuarto grado con cualquiera de los integrantes del órgano de gobierno o con la persona de la dirección general;
 
 II.- Las personas que tengan litigios pendientes con el organismo de que se trate; y
 
@@ -1661,17 +1909,29 @@ El órgano de gobierno se reunirá con la periodicidad que señale su reglamento
 
 El órgano de gobierno sesionará válidamente con la asistencia de la mitad más uno de sus integrantes.
 
-Las resoluciones del órgano de gobierno se tomarán por mayoría de votos de los integrantes presentes, el presidente tendrá voto de calidad en caso de empate.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Las resoluciones del órgano de gobierno se tomarán por mayoría de votos de los integrantes presentes, la persona titular de la presidencia tendrá voto dirimente en caso de empate.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 53.
 
-Los directores generales de los organismos descentralizados serán designados por el Gobernador del Estado con la ratificación de sus órganos de gobierno, salvo lo dispuesto por el ordenamiento jurídico que los regule.
+Las personas titulares de las direcciones generales de los organismos descentralizados serán designados por la persona titular del Poder Ejecutivo con la ratificación de sus órganos de gobierno, salvo lo dispuesto por el ordenamiento jurídico que los regule.
 
-Los directores generales tendrán la representación legal del organismo.
+Las personas titulares de las direcciones generales tendrán la representación legal del organismo.
+
+Las personas titulares de las direcciones generales, en sus ausencias temporales menores a quince días serán suplidas en los términos que señale su reglamento interior.
+
+En caso de ausencias temporales mayores a quince días o falta absoluta de quien sea titular de la dirección general, la persona titular del Poder Ejecutivo designará a una persona Encargada del Despacho que la sustituya hasta en tanto concluye la ausencia temporal o hasta en tanto proceda al nombramiento de la nueva persona titular.
+
+Las personas que sean designadas como encargadas de despacho o se les designe de manera temporal, tendrán las mismas facultades y atribuciones que la normativa otorga y confiere a la persona titular.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 54.
 
-Los directores generales de los organismos descentralizados, sin perjuicio de las atribuciones que se les otorguen en otras disposiciones legales aplicables, tendrán las siguientes:
+Las personas titulares de las direcciones generales de los organismos descentralizados, sin perjuicio de las atribuciones que se les otorguen en otras disposiciones legales aplicables, tendrán las siguientes:
 
 I.- Formular el programa anual de actividades del organismo;
 
@@ -1693,11 +1953,11 @@ VIII.- Las demás que le señale esta Ley y el ordenamiento jurídico que lo nor
 
 En los órganos consultivos se deberá contar con la participación de representantes de organizaciones sociales de la materia que corresponda al objeto del organismo descentralizado, designados en los términos del ordenamiento jurídico que lo norme.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 56.
 
-Los organismos descentralizados deberán contar con un órgano de vigilancia en el que participará un representante de la Secretaría de la Transparencia y Rendición de Cuentas. El órgano de vigilancia tendrá las siguientes atribuciones:
+Los organismos descentralizados deberán contar con un órgano de vigilancia en el que participará una persona representante de la Secretaría de la Honestidad. El órgano de vigilancia tendrá las siguientes atribuciones:
 
 I.- Vigilar la correcta aplicación del presupuesto de egresos del organismo;
 
@@ -1707,15 +1967,17 @@ III.- Participar en la entrega-recepeción (sic) de la administración del organ
 
 IV.- Verificar los estados financieros del organismo;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-V.- Observar los lineamientos que emita la Secretaría de la Transparencia y Rendición de Cuentas;
+V.- Observar los lineamientos que emita la Secretaría de la Honestidad;
 
 VI.- Las demás que le señalen esta Ley o su decreto de creación.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 57.
 
-Cuando algún organismo descentralizado creado por decreto gubernativo deje de cumplir sus fines u objeto, la Secretaría coordinadora de sector que corresponda propondrá al Gobernador del Estado su modificación, liquidación o extinción. Tratándose de organismos descentralizados creados por Ley, el Gobernador del Estado presentará al Poder Legislativo la iniciativa para su abrogación.
+Cuando algún organismo descentralizado creado por decreto gubernativo deje de cumplir sus fines u objeto, la Secretaría coordinadora de sector que corresponda propondrá a la persona titular del Poder Ejecutivo su modificación, liquidación o extinción. Tratándose de organismos descentralizados creados por Ley, la persona titular del Poder Ejecutivo presentará al Poder Legislativo la iniciativa para su abrogación.
 
 ### CAPÍTULO CUARTO. EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA
 
@@ -1725,9 +1987,9 @@ Se consideran empresas de participación estatal mayoritaria aquéllas que satis
 
 I.- Que en la constitución de su capital figuren acciones de serie especial que sólo puedan ser suscritas por el Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Que al Gobernador del Estado le corresponda nombrar a la mayoría de los miembros del órgano de gobierno, o bien designar al presidente o al director, o quien haga sus veces, o cuando tenga facultades para revocar los acuerdos del órgano de gobierno; o
+II.- Que a la persona titular del Poder Ejecutivo le corresponda nombrar a la mayoría de las personas integrantes del órgano de gobierno, o bien designar a la persona titular de la presidencia o a la persona titular de dirección general o cuando tenga facultades para revocar los acuerdos del órgano de gobierno; o
 
 III.- Que el Gobierno del Estado o uno o más de sus organismos públicos descentralizados, de sus empresas de participación estatal mayoritaria o de sus fideicomisos públicos, considerados conjunta o separadamente, aporten o sean propietarios de más del 50% del capital social.
 
@@ -1735,9 +1997,11 @@ III.- Que el Gobierno del Estado o uno o más de sus organismos públicos descen
 
 Se equiparan a las empresas de participación estatal mayoritaria, las sociedades y asociaciones civiles en las que la mayoría de sus integrantes comparezcan con el carácter de servidores públicos del Poder Ejecutivo del Estado, o cuando más del cincuenta por ciento de las aportaciones económicas provengan de recursos públicos.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 60.
 
-El Gobernador del Estado nombrará a los servidores públicos que deban ejercer las atribuciones que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
+La persona titular del Poder Ejecutivo nombrará a los servidores públicos que deban ejercer las atribuciones que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria.
 
 ###### Artículo 61.
 
@@ -1745,33 +2009,39 @@ Las empresas de participación estatal mayoritaria contarán con los siguientes 
 
 I.- De gobierno, a cargo de una Asamblea General o Junta Directiva o sus equivalentes;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-II.- De administración, a cargo de un director general o administrador o su equivalente, además, podrá contar con un consejo de administración o su equivalente; y
+II.- De administración, a cargo de una persona titular de la dirección general o una persona titular de la administración o su equivalente, además, podrá contar con un consejo de administración o su equivalente; y
 
-III.- De vigilancia, a cargo de los Comisarios o sus equivalentes.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+III.- De vigilancia, a cargo de Comisarios o sus equivalentes.
 
 ###### Artículo 62.
 
 Los órganos de gobierno se integrarán de acuerdo a sus estatutos, en lo que no se oponga a lo dispuesto por esta Ley.
 
-Los integrantes del órgano de gobierno que representen la participación de la Administración Pública Estatal, podrán ser servidores públicos del Estado o personas de reconocido prestigio y con experiencia en las actividades propias de la empresa de que se trate, y serán designados por el Gobernador del Estado directamente o a través de la Secretaría coordinadora de sector, debiendo constituir en todo tiempo cuando menos la mitad de los miembros del órgano de gobierno.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+Las personas integrantes del órgano de gobierno que representen la participación de la administración pública estatal, podrán ser servidores públicos del Estado o personas de reconocido prestigio y con experiencia en las actividades propias de la empresa de que se trate, y serán designados por la persona titular del Poder Ejecutivo directamente o a través de la Secretaría coordinadora de sector, debiendo constituir en todo tiempo cuando menos la mitad de los miembros del órgano de gobierno.
 
-Las personas que integren el órgano de gobierno y, en su caso, el consejo de administración, podrán desempeñar el cargo de manera honorífica y, en el supuesto de que perciban un sueldo y manejen fondos públicos, estarán sujetos a la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Las personas que integren el órgano de gobierno y, en su caso, el consejo de administración, podrán desempeñar el cargo de manera honorífica y, en el supuesto de que perciban un sueldo y manejen fondos públicos, estarán sujetos a la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 ###### Artículo 63.
 
 El órgano de gobierno se reunirá con la periodicidad que señalen los estatutos de la empresa, sin que pueda ser menor de cuatro veces al año.
 
-El órgano de gobierno será presidido por el Gobernador del Estado o por el titular de la Secretaría coordinadora de sector o por quien éste designe. Para sesionar válidamente se requiere la asistencia de la mitad más uno de sus miembros. Sus resoluciones se tomarán por mayoría de votos de los presentes, teniendo el presidente voto de calidad para el caso de empate.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+El órgano de gobierno será presidido por la persona titular del Poder Ejecutivo o por la persona titular de la Secretaría coordinadora de sector o por quien éste designe. Para sesionar válidamente se requiere la asistencia de la mitad más uno de sus miembros. Sus resoluciones se tomarán por mayoría de votos de los presentes, teniendo la persona quien presida voto dirimente para el caso de empate.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 64.
 
-Cuando menos uno de los comisarios será designado por la Secretaría de la Transparencia y Rendición de Cuentas.
+Cuando menos uno de los comisarios será designado por la Secretaría de la Honestidad.
 
 > <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1785,15 +2055,17 @@ La fusión, liquidación o disolución de las empresas de participación estatal
 
 ### CAPÍTULO QUINTO. FIDEICOMISOS PÚBLICOS
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 67.
 
-El Gobernador del Estado podrá constituir fideicomisos públicos para impulsar el desarrollo del Estado cuando así lo determine el interés público y previo estudio que lo justifique.
+La persona titular del Poder Ejecutivo podrá constituir fideicomisos públicos para impulsar el desarrollo del Estado cuando así lo determine el interés público y previo estudio que lo justifique.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 68.
 
-Los fideicomisos públicos a que se refiere esta Ley serán los que autorice el Gobernador del Estado y en los cuales la Secretaría de Finanzas, Inversión y Administración fungirá como fideicomitente, o en su caso, los organismos públicos descentralizados y las empresas de participación estatal mayoritaria, a través de los representantes de sus órganos de gobierno o administración.
+Los fideicomisos públicos a que se refiere esta Ley serán los que autorice la persona titular del Poder Ejecutivo y en los cuales la Secretaría de Finanzas fungirá como fideicomitente, o en su caso, los organismos públicos descentralizados y las empresas de participación estatal mayoritaria, a través de los representantes de sus órganos de gobierno o administración.
 
 > <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2010)</small>
 
@@ -1801,47 +2073,53 @@ Artículo 68 bis.- Los fideicomisos de garantía o fuente de pago alterna, const
 
 Igualmente, los fideicomisos para el pago o garantía de deuda pública, incluyendo los fideicomisos bursátiles constituidos exclusivamente para emitir y colocar títulos de deuda en el mercado de valores no tendrán la categoría de fideicomisos públicos o paraestatales y su operación interna se sujetará a lo previsto en su contrato y en las disposiciones mercantiles y bursátiles correspondientes.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 69.
 
-Los fideicomisos públicos deberán constituirse exclusivamente para auxiliar al Gobernador del Estado en la realización de actividades que le sean propias.
+Los fideicomisos públicos deberán constituirse exclusivamente para auxiliar a la persona titular del Poder Ejecutivo en la realización de actividades que le sean propias.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 70.
 
-Los fideicomisos públicos podrán contar con una estructura análoga a la de los organismos descentralizados o a las empresas de participación estatal mayoritaria y se regirán por comités técnicos que fungirán como órganos de gobierno y se integrarán con autorización del Gobernador del Estado.
+Los fideicomisos públicos podrán contar con una estructura análoga a la de los organismos descentralizados o a las empresas de participación estatal mayoritaria y se regirán por comités técnicos que fungirán como órganos de gobierno y se integrarán con autorización de la persona titular del Poder Ejecutivo.
 
-Asimismo, el fideicomiso podrá contar con un director general.
+Asimismo, el fideicomiso podrá contar con una persona titular de la dirección general.
 
 ###### Artículo 71.
 
 Cuando en el contrato constitutivo del fideicomiso público no se determine a quién corresponde la presidencia del comité técnico, se conferirá al representante de la dependencia coordinadora de sector.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 72.
 
-La Secretaría de Finanzas, Inversión y Administración podrá autorizar el incremento de los fideicomisos públicos, previa opinión y consenso con los fideicomitentes de los mismos y sus comités técnicos.
+La Secretaría de Finanzas podrá autorizar el incremento de los fideicomisos públicos, previa opinión y consenso con los fideicomitentes de los mismos y sus comités técnicos.
 
-La modificación o extinción de los fideicomisos públicos cuando así convenga al interés general, corresponderá exclusivamente al Gobernador del Estado con base en la propuesta de la Secretaría de Finanzas, Inversión y Administración, la cual en todo caso, deberá establecer el destino de los bienes fideicomitidos.
+La modificación o extinción de los fideicomisos públicos cuando así convenga al interés general, corresponderá exclusivamente a la persona titular del Poder Ejecutivo con base en la propuesta de la dependencia coordinadora de sector al cual está adscrito el fideicomiso. La Secretaría de Finanzas en todo caso, deberá establecer el destino de los bienes fideicomitidos.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 73.
 
-En caso de que el fideicomitente sea un organismo descentralizado de la Administración Pública Estatal, éste deberá solicitar por escrito a la Secretaría de Finanzas, Inversión y Administración la afectación a su presupuesto para la aportación o incremento al fideicomiso público de que se trate.
+En caso de que el fideicomitente sea un organismo descentralizado de la administración pública estatal, éste deberá solicitar por escrito a la Secretaría de Finanzas la afectación a su presupuesto para la aportación o incremento al fideicomiso público de que se trate.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 74.
 
-Los fideicomisos públicos a través de su comité técnico deberán rendir a la Secretaría de Finanzas, Inversión y Administración un informe trimestral sobre la administración y aplicación de los recursos aportados al fideicomiso, sin perjuicio de que ésta pueda pedir dicha información cuando así lo considere pertinente.
+Los fideicomisos públicos a través de su comité técnico deberán rendir a la Secretaría de Finanzas un informe trimestral sobre la administración y aplicación de los recursos aportados al fideicomiso, sin perjuicio de que ésta pueda pedir dicha información cuando así lo considere pertinente.
 
 ###### Artículo 75.
 
 Los fideicomitentes cuidarán que en los contratos respectivos queden debidamente precisados los derechos y obligaciones que correspondan al fiduciario sobre los bienes fideicomitidos, las limitaciones que establezca o que se deriven de derechos de terceros, así como los derechos que el fideicomitente se reserve y las facultades que fije en su caso al comité técnico.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 76.
 
-En los contratos constitutivos de fideicomisos de la Administración Pública Estatal se deberá reservar a favor del Gobernador del Estado la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos con el Gobierno Federal, por mandato de la Ley o que la naturaleza de sus fines no lo permita.
+En los contratos constitutivos de fideicomisos de la administración pública estatal se deberá reservar a favor de la persona titular del Poder Ejecutivo la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos con el Gobierno Federal, por mandato de la Ley o que la naturaleza de sus fines no lo permita.
 
 ###### Artículo 77.
 
@@ -1861,13 +2139,13 @@ El comité técnico deberá estar integrado por lo menos con los siguientes miem
 
 I.- Un representante de la dependencia coordinadora de sector;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Un representante de la Secretaría de Finanzas, Inversión y Administración;
+II.- Un representante de la Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-III.- Un representante de la Secretaría de la Transparencia y Rendición de Cuentas;
+III.- Un representante de la Secretaría de la Honestidad;
 
 IV.- Un representante del fiduciario; y
 
@@ -1877,17 +2155,21 @@ V.- Un representante de las dependencias o entidades del Ejecutivo del Estado qu
 
 Por cada miembro propietario del comité técnico habrá un suplente que lo cubrirá en sus ausencias.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-El representante de la Secretaría de la Transparencia y Rendición de Cuentas participará con voz y sin voto.
+La persona representante de la Secretaría de la Honestidad participará con voz y sin voto.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 81.
 
-Los cargos de los miembros del comité técnico serán honoríficos. El sueldo del personal que se contrate para el cumplimiento de los fines y objeto del fideicomiso se cubrirá con cargo al patrimonio fideicomitido.
+Los cargos de las personas integrantes del comité técnico serán honoríficos. El sueldo del personal que se contrate para el cumplimiento de los fines y objeto del fideicomiso se cubrirá con cargo al patrimonio fideicomitido.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 82.
 
-Los miembros del comité técnico de los fideicomisos públicos serán nombrados y removidos por el Gobernador del Estado, quien además nombrará y removerá al director general del fideicomiso a propuesta del comité técnico.
+Las personas integrantes del comité técnico de los fideicomisos públicos serán nombradas y removidas por la persona titular del Poder Ejecutivo, quien además nombrará y removerá a la persona titular de la dirección general del fideicomiso a propuesta del comité técnico.
 
 ###### Artículo 83.
 
@@ -1897,17 +2179,19 @@ El comité técnico de los fideicomisos públicos tendrá las atribuciones estab
 
 El comité técnico de los fideicomisos públicos necesariamente deberá someter a consideración de su dependencia coordinadora de sector los proyectos de estructura administrativa o las modificaciones que se requieran para cada fideicomiso dentro de los 30 días siguientes a la constitución o modificación de los mismos.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 85.
 
-Los directores generales de los fideicomisos públicos tendrán las atribuciones establecidas en el artículo 54 de esta Ley, sin perjuicio de las facultades que se les otorguen en el instrumento jurídico que lo norme.
+Las personas titulares de las direcciones generales de los fideicomisos públicos tendrán las atribuciones establecidas en el artículo 54 de esta Ley, sin perjuicio de las facultades que se les otorguen en el instrumento jurídico que lo norme.
 
 ###### Artículo 86.
 
 Los comités técnicos de los fideicomisos públicos deberán contar con un órgano de vigilancia, el cual tendrá las atribuciones previstas en el artículo 56 de esta Ley.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-El órgano de vigilancia estará integrado por un comisario propietario y un suplente designados por la Secretaría de la Transparencia y Rendición de Cuentas, cuyos cargos serán honoríficos.
+El órgano de vigilancia estará integrado por un comisario propietario y un suplente designados por la Secretaría de la Honestidad, cuyos cargos serán honoríficos.
 
 ### CAPÍTULO SEXTO. DESARROLLO, CONTROL Y EVALUACIÓN
 
@@ -1917,17 +2201,21 @@ El órgano de vigilancia estará integrado por un comisario propietario y un sup
 
 Las entidades paraestatales para su desarrollo y operación deberán sujetarse al Plan Estatal de Desarrollo, al Programa de Gobierno y a sus programas derivados, atendiendo a las disposiciones normativas aplicables al ciclo presupuestario, así como a las políticas que defina la Secretaría coordinadora de sector.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 88.
 
-La Secretaría de la Transparencia y Rendición de Cuentas podrá realizar visitas y auditorías a fin de supervisar el adecuado funcionamiento de las entidades paraestatales de la administración pública; y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que hubieren incurrido.
+La Secretaría de la Honestidad podrá realizar visitas y auditorías a fin de supervisar el adecuado funcionamiento de las entidades paraestatales de la administración pública; y en su caso, promover lo necesario para corregir las deficiencias u omisiones en que hubieren incurrido.
 
-Tratándose de fideicomisos públicos para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad de la Secretaría de la Transparencia y Rendición de Cuentas, de realizar visitas y auditorías, así como la obligación de permitir la realización de las mismas por parte de auditores externos que determine el Gobernador del Estado, sin perjuicio de las facultades de fiscalización del Congreso del Estado. Asimismo, en la cuenta pública se deberá informar y anexar el resultado de las auditorías practicadas.
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+Tratándose de fideicomisos públicos para llevar a cabo su control y evaluación, se establecerá en su contrato constitutivo la facultad de la Secretaría de la Honestidad, de realizar visitas y auditorías, así como la obligación de permitir la realización de las mismas por parte de auditores externos que determine la persona titular del Poder Ejecutivo, sin perjuicio de las facultades de fiscalización del Congreso del Estado. Asimismo, en la cuenta pública se deberá informar y anexar el resultado de las auditorías practicadas.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 89.
 
-El titular de la Secretaría coordinadora de sector, mediante su participación en los órganos de gobierno o administración de las entidades paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control y evaluación.
+La persona titular de la Secretaría coordinadora de sector, mediante su participación en los órganos de gobierno o administración de las entidades paraestatales, podrá recomendar las medidas adicionales que estime pertinentes sobre las acciones tomadas en materia de control y evaluación.
 
 ###### Artículo 90.
 
@@ -1959,27 +2247,35 @@ En las dependencias y entidades del Poder Ejecutivo del Estado se establecerá e
 
 El servicio civil de carrera tendrá como finalidad fomentar la vocación en el servicio y promover la formación constante del personal. La permanencia en el servicio civil de carrera estará sujeta a la evaluación del desempeño de los servidores públicos, así como de sus resultados.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 95.
 
-El Gobernador del Estado emitirá el reglamento correspondiente, en el cual determinará las normas, políticas y procedimientos administrativos, a efecto de definir qué servidores públicos participarán en el servicio civil de carrera, el estatuto del personal, un sistema de mérito para la selección, promoción, ascenso y estabilidad del personal y la clasificación de puestos a que se sujetará el servicio civil de carrera, observando lo dispuesto por la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y los Municipios.
+La persona titular del Poder Ejecutivo emitirá el reglamento, en el cual determinará las normas, políticas y procedimientos administrativos, a efecto de definir qué servidores públicos participarán en el servicio civil de carrera, el estatuto del personal, un sistema de mérito para la selección, promoción, ascenso y estabilidad del personal y la clasificación de puestos a que se sujetará el servicio civil de carrera, observando lo dispuesto por la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y los Municipios.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 96.
 
-La Secretaría de Finanzas, Inversión y Administración será la encargada de conducir las políticas y procedimientos para institucionalizar el servicio civil de carrera en los servidores públicos del Poder Ejecutivo.
+La Secretaría de Finanzas será la encargada de conducir las políticas y procedimientos para institucionalizar el servicio civil de carrera en los servidores públicos del Poder Ejecutivo.
 
 ## TÍTULO SEXTO. DE LA ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO
 
 ### CAPÍTULO ÚNICO. PROCEDIMIENTO DE LA ENTREGA-RECEPCIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 97.
 
-El año en que de conformidad con los períodos constitucionales se dé la transmisión del Poder Ejecutivo, el Gobernador del Estado determinará la fecha en que los titulares de las dependencias y entidades de la Administración Pública iniciarán el proceso para formular los expedientes relativos a la entrega de los asuntos que se les hayan encomendado; para ese efecto deberán:
+El año en que de conformidad con los períodos constitucionales se dé la transmisión del Poder Ejecutivo, la persona titular del Poder Ejecutivo determinará la fecha en que las personas titulares de las dependencias y entidades de la administración pública iniciarán el proceso para formular los expedientes relativos a la entrega de los asuntos que se les hayan encomendado; para ese efecto deberán:
 
-I.- Agilizar los programas que tengan fecha de terminación anterior a la de toma de posesión del Gobernador electo, para su oportuno cumplimiento;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Señalar el estado que guardan los programas con fecha de terminación posterior a la de toma de posesión del Gobernador electo, así como sus antecedentes, procedimientos a seguir y en su caso, los motivos por los que se encuentre retrasado su avance, el estado financiero y los anexos que correspondan;
+I.- Agilizar los programas que tengan fecha de terminación anterior a la de toma de posesión de la persona titular del Poder Ejecutivo electa, para su oportuno cumplimiento;
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Señalar el estado que guardan los programas con fecha de terminación posterior a la de toma de posesión de la persona titular del Poder Ejecutivo electa, así como sus antecedentes, procedimientos a seguir y en su caso, los motivos por los que se encuentre retrasado su avance, el estado financiero y los anexos que correspondan;
 
 III.- Ordenar y actualizar el inventario de los bienes a su cuidado;
 
@@ -1987,19 +2283,23 @@ IV.- Vigilar que los trámites normales de las dependencias y entidades a su car
 
 V.- Formular las actas de entrega-recepción correspondientes.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 98.
 
-Los titulares de las dependencias y entidades, por acuerdo del Titular del Poder Ejecutivo informarán al Gobernador electo o a quienes éste designe, sobre el estado de los asuntos que tengan encomendados, realizando con ellos las reuniones de trabajo que se requieran.
+Las personas titulares de las dependencias y entidades del Poder Ejecutivo, por acuerdo de la persona titular del Poder Ejecutivo informarán a la persona titular del Poder Ejecutivo electa o a quienes éste designe, sobre el estado de los asuntos que tengan encomendados, realizando con ellos las reuniones de trabajo que se requieran.
+
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 99.
 
-El Gobernador del Estado emitirá el reglamento que contendrá las normas y procedimientos a que se sujetará la entrega-recepción de las dependencias y entidades del Poder Ejecutivo.
+La persona titular del Poder Ejecutivo emitirá el reglamento que contendrá las normas y procedimientos a que se sujetará la entrega-recepción de las dependencias y entidades del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 100.
 
-Los servidores públicos al momento de terminar con su encomienda, deberán entregar la dependencia a su cargo mediante acta de entrega-recepción, en los términos de la Ley de Responsabilidades Administrativas de los Servidores Públicos del Estado de Guanajuato y sus Municipios.
+Las personas servidoras públicas al momento de terminar con su encomienda, deberán entregar la dependencia a su cargo mediante acta de entrega recepción, en los términos de la Ley de Responsabilidades Administrativas para el Estado de Guanajuato.
 
 ###### Artículo 101.
 
@@ -2484,3 +2784,97 @@ P.O. 4 DE ENERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 301, EXPEDIDO POR LA SEXAGÉSIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO 345 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO; DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO; Y DE LA LEY DE DERECHOS CULTURALES PARA EL ESTADO DE GUANAJUATO".]
+
+Artículo Primero. El presente Decreto entrará en vigor el 26 de septiembre de 2024, previa publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. A partir de la entrada en vigor del presente Decreto y para dar cumplimiento a la creación de las secretarías del Agua y Medio Ambiente; de Cultura; y de Derechos Humanos, la persona titular del Poder Ejecutivo expedirá y adecuará los reglamentos y demás disposiciones para el cumplimiento, en un término que no exceda de 90 días naturales. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Artículo Tercero. La Secretaría del Agua y Medio Ambiente, sustituye en su ámbito de competencia, en sus obligaciones y asume los compromisos adquiridos por la Secretaría de Medio Ambiente y Ordenamiento Territorial, y la Comisión Estatal del Agua de Guanajuato.
+
+La Secretaría de Medio Ambiente y Ordenamiento Territorial, transferirá a la Secretaría del Agua y Medio Ambiente los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través de la entrega-recepción respectiva.
+
+El personal de la Secretaría de Medio Ambiente y Ordenamiento Territorial pasará a integrar la Secretaría del Agua y Medio Ambiente, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+La Comisión Estatal del Agua de Guanajuato, entrará en un proceso de liquidación, para tales efectos, en un término de 10 días naturales a partir de la entrada en vigor del presente Decreto, deberá sesionar su órgano de gobierno para nombrar a un liquidador de entre su personal, el cual deberá ser ratificado, mediante oficio, por la persona titular de la Secretaría del Agua y Medio Ambiente.
+
+En el mismo plazo señalado en el párrafo anterior, el Poder Ejecutivo conformará un Comité de Extinción que generará los lineamientos para la liquidación de dicha entidad y le dará seguimiento a este proceso.
+
+El liquidador contará con las facultades para finiquitar los bienes, derechos y obligaciones de la entidad paraestatal y deberá enviar reportes mensuales de avance al Comité señalado en el párrafo anterior. Los bienes inmuebles, asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan resultado del proceso de liquidación serán transferidos a la Secretaría del Agua y Medio Ambiente, a través de la entrega-recepción respectiva.
+
+A partir de la entrada en vigor del presente Decreto, la Comisión Estatal del Agua de Guanajuato no deberá adquirir nuevos derechos u obligaciones, correspondiéndole al liquidador llevar a cabo los actos, debiendo intervenir en las actas de entrega-recepción que se suscriban, además de los responsables en términos del Reglamento para la Entrega-Recepción para la Administración Pública Estatal.
+
+Se instalará un Comité de Estructura Administrativa por parte del Poder Ejecutivo para definir la estructura de personal de la Comisión Estatal del Agua de Guanajuato, que pasará a integrarse a la Secretaría del Agua y Medio Ambiente, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Cuando el liquidador haya transferido los bienes, derechos y obligaciones de la entidad y una vez concluida esa acción resultante de la liquidación, así como que la contabilidad se encuentre liquidada, este cesará sus funciones, debiendo presentar un informe final al Comité de Extinción.
+
+Artículo Cuarto. La Secretaría de Derechos Humanos, sustituye en su ámbito de competencia, en sus obligaciones y asume los compromisos adquiridos por la Secretaría del Migrante y Enlace Internacional.
+
+La Secretaría del Migrante y Enlace Internacional, transferirá a la Secretaría de Derechos Humanos los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, a través la entrega-recepción respectiva.
+
+El personal de la Secretaría del Migrante y Enlace Internacional pasará a integrar la Secretaría de Derechos Humanos, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá Instalar el Poder Ejecutivo, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+El personal de la Secretaría de Gobierno, que atienda los temas de derechos humanos, pasará a integrar la Secretaría de Derechos Humanos, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Artículo Quinto. La Secretaría de Cultura, sustituye en su ámbito de competencia, en todas sus obligaciones y asume los compromisos adquiridos por el Instituto Estatal de la Cultura y el Forum Cultural Guanajuato.
+
+A partir de la entrada en vigor del presente Decreto, el Instituto Estatal de la Cultura y el Forum Cultural Guanajuato no deberán adquirir nuevos derechos u obligaciones.
+
+El personal del Instituto Estatal de la Cultura y el Forum Cultural Guanajuato, pasará a integrar la Secretaría de Cultura, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Los asuntos jurídicos y administrativos de ambas entidades paraestatales serán transferidos a la Secretaría de Cultura mediante la entrega recepción correspondiente, contando con la participación de los liquidadores designados en términos del párrafo siguiente.
+
+En el término de 10 días naturales a partir de la entrada en vigor del presente Decreto, deberá sesionar el órgano de gobierno de cada una de las entidades señaladas a efecto de nombrar a un liquidador, de entre su personal, el cual deberá ser ratificado, mediante oficio, por la persona titular de la Secretaría de Cultura.
+
+En el mismo plazo señalado en el párrafo anterior, el Poder Ejecutivo conformará un Comité de Extinción por cada entidad, que generará los lineamientos para la liquidación de dichas paraestatales y le dará seguimiento.
+
+Los liquidadores contarán con todas las facultades que se requieran para finiquitar los bienes, derechos y obligaciones de las entidades paraestatales correspondientes y deberán enviar reportes mensuales de su avance al Comité de Extinción.
+
+Cuando el liquidador haya transferido los bienes, derechos y obligaciones de las entidades, y que la contabilidad se encuentre liquidada, éste cesará sus funciones, debiendo presentar un informe final al Comité de Extinción. Los bienes inmuebles, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de sus funciones, serán transferidos por el liquidador, a través de la entrega-recepción respectiva.
+
+Artículo Sexto. Para los efectos legales, las referencias a la Comisión Estatal de Agua de Guanajuato contenidas en decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad a la vigencia del presente Decreto, se entenderán efectuadas a la Secretaría del Agua y Medio Ambiente; y las del Instituto Estatal de lo Cultura y el Forum Cultural Guanajuato, contenidas en leyes, decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuadas a la Secretaría de la Cultura. Las referencias a las secretarías que cambian de denominación se entenderán:
+
+Denominación actual Nueva denominación
+
+Secretaría de Finanzas, Inversión y Secretaría de Finanzas
+
+Administración
+
+Secretaría de Desarrollo Social y Secretaría del Nuevo Comienzo
+
+Humano
+
+Secretaría de Desarrollo Económico Secretaría de Economía
+
+Sustentable
+
+Secretaría de Desarrollo Secretaría del Campo
+
+Agroalimentario y Rural
+
+Secretaría de Seguridad Pública Secretaría de Seguridad y Paz
+
+Secretaría de la Transparencia y Secretaría de la Honestidad
+
+Rendición de Cuentas
+
+Secretaría de Turismo Secretaría de Turismo e Identidad
+
+Secretaría del Migrante y Enlace Secretaría de Derechos Humanos
+
+Internacional
+
+Coordinación General Jurídica Consejería Jurídica del Ejecutivo
+
+Artículo Séptimo. Se abroga la Ley para Fomentar el Acceso al Financiamiento a las Micros, Pequeñas y Medianas Empresas en el Estado de Guanajuato, contenida en el Decreto Legislativo número 106, expedido por la Sexagésima Quinta Legislatura del Congreso del Estado, publicada en el Periódico Oficial del Gobierno del Estado de Guanajuato número 236 Segunda Parte, el 28 de noviembre de 2022.
+
+Artículo Octavo. La Consejería Jurídica del Ejecutivo, sustituye en su ámbito de competencia, en las obligaciones y asume los compromisos adquiridos por la Coordinación General Jurídica. El personal de la Coordinación General Jurídica pasará a integrar (sic) Consejería Jurídica del Ejecutivo, sin menoscabo de los derechos adquiridos de los trabajadores de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos exclusivos efectos, a más tardar 10 días naturales a partir de la entrada en vigor del presente Decreto.
+
+Artículo Noveno. El personal de la Jefatura de Gabinete del Poder Ejecutivo del Estado de Guanajuato podrá ser reubicado en otras áreas de Gobierno del Estado de acuerdo a sus perfiles y funciones, sin menoscabo de los derechos adquiridos de los trabajadores, de acuerdo con lo que defina el Comité de Estructura Administrativa que deberá instalar el Poder Ejecutivo para esos efectos, a más tardar 10 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+A partir de la entrada en vigor del presente Decreto, la Jefatura de Gabinete del Poder Ejecutivo no deberá adquirir nuevos derechos u obligaciones, correspondiéndole llevar a cabo todos los actos respectivos, debiendo intervenir en las actas de entrega-recepción que se suscriban, además de los responsables en términos del Reglamento de Entrega-Recepción para la Administración Pública Estatal.
+
+Artículo Décimo. El Congreso del Estado Libre y Soberano de Guanajuato deberá, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones a las leyes para armonizar el marco jurídico estatal con las reformas establecidas en el presente Decreto que reforma la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
