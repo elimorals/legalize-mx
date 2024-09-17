@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transparencia-y-acceso-a-la-informacion-publica-para-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-04"
-last_updated: "2024-05-03"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el miércoles 4 de mayo de 2016.
 
@@ -409,9 +409,11 @@ El Instituto no podrá tener más bienes inmuebles que los estrictamente necesar
 
 El Instituto contará con la estructura administrativa necesaria para el ejercicio de sus atribuciones, que se determinen en este ordenamiento y su Estatuto Orgánico. Los servidores públicos deberán prestarle el apoyo que requiera para el desempeño de sus funciones. Las relaciones laborales que se creen entre el Instituto y su personal se regirán por las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 30.
 
-El Instituto se integrará por cinco Comisionados, quienes elegirán al Comisionado Presidente de entre ellos mismos, a través del voto mayoritario de sus integrantes. Por cada Comisionado Propietario se designará un suplente, que deberá ser del mismo género.
+El Instituto se integrará por tres integrantes, denominados Comisionadas y Comisionados, quienes elegirán a la persona titular de la presidencia de entre ellos mismos, a través del voto mayoritario de sus integrantes. Por cada Comisionado Propietario se designará un suplente, que deberá ser del mismo género.
 
 ###### Artículo 31.
 
@@ -477,11 +479,11 @@ II. Concluido el plazo para el registro de los aspirantes al cargo de Comisionad
 
 III. Los aspirantes que hayan acreditado los requisitos, serán convocados a comparecer en audiencia pública ante la Primera Comisión Permanente de Transparencia y Anticorrupción, dentro de los siguientes diez días hábiles. La transmisión de dicha audiencia se llevará a cabo una vez que haya concluido la comparecencia de todos y todas las aspirantes;
 
-> <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 IV. Concluidas las comparecencias, la Primera Comisión Permanente de Transparencia y Anticorrupción, emitirá dictamen que contendrá la propuesta de los aspirantes que cumplan con el perfil necesario y puedan ser designados, mismo que será sometido a discusión y en su caso aprobación, por mayoría simple del Congreso.
 
-A efecto, de procurar la paridad de género, al tener el Instituto un número impar de comisionados, podrá integrarse, ya sea con tres mujeres y dos hombres, o, con tres hombres y dos mujeres;
+A efecto, de procurar la paridad de género, al tener el Instituto un número impar de comisionados, podrá integrarse, ya sea con dos mujeres y un hombre, o, con dos hombres y una mujer;
 
 > <small>(REFORMADA, P.O. 28 DE JULIO DE 2021)</small>
 
@@ -743,9 +745,11 @@ Cuando persista la negativa de colaboración, la Unidad de Transparencia lo har�
 
 ### CAPÍTULO IV. DEL CONSEJO CONSULTIVO DEL INSTITUTO
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 43.
 
-El Instituto tendrá un Consejo Consultivo, integrado de forma colegiada por cinco consejeros, los cuales serán designados como consejeros honoríficos y por un plazo que no exceda de siete años, sin posibilidad de reelección, que se integrarán de manera escalonada: uno de siete; dos de cinco; y dos de tres años.
+El Instituto tendrá un Consejo Consultivo, integrado de forma colegiada por tres consejeros o consejeras, los cuales serán designados como consejeros honoríficos y por un plazo que no exceda de siete años, sin posibilidad de reelección, que se integrarán de manera escalonada: uno de siete; uno de cinco; y uno de tres años
 
 ###### Artículo 44.
 
@@ -843,27 +847,41 @@ XXII. Dictar los acuerdos y resoluciones que correspondan en términos de la leg
 
 XXIII. Las que le señale la legislación en materia de responsabilidades administrativas y demás atribuciones que le confieran otros ordenamientos.
 
-> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 45 Quinquies.
 
-El titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+La persona titular del Órgano Interno de Control deberá reunir los siguientes requisitos:
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 I. Ser ciudadana o ciudadano hidalguense en pleno goce de sus derechos civiles y políticos, y tener treinta y cinco años cumplidos al día de la designación;
 
-II. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+II. Gozar de buena reputación;
+
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
 
 III. Contar al momento de su designación con una experiencia de al menos tres años en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones, arrendamientos y servicios del sector público;
 
+> <small>(ADICIONADA, P.O. 9 DE OCTUBRE DE 2017)</small>
+
 IV. Contar al día de su designación, con título profesional con una antigüedad mínima de cinco años, relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
 
-V. Contar con reconocida solvencia moral;
+V. (DEROGADA, P.O. 17 DE SEPTIEMBRE DE 2024)
 
-VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o haber fungido como consultor o auditor externo del Instituto, en lo individual durante ese periodo;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público; y
+VI. No pertenecer o haber pertenecido en los tres años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios al Instituto o haber prestado servicios de consultoría o auditoría externa al Instituto, en lo individual durante ese periodo;
 
-VIII. No haber sido Gobernador, Titular de alguna Dependencia Estatal, Procurador General de Justicia del Estado, Diputado Local o Presidente Municipal, dirigente, miembro de órgano rector, alto ejecutivo o responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulado para cargo de elección popular en los tres años anteriores a la propia designación.
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VII. No estar inhabilitada para desempeñar un empleo, cargo o comisión en el servicio público; y
+
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. No haber sido Titular del Poder Ejecutivo, Titular de alguna Dependencia Estatal, Procurador General de Justicia del Estado, Diputada o Diputado Local o Presidenta o Presidente Municipal, dirigente, integrante de órgano rector, representante de un cargo alto ejecutivo o haber sido responsable del manejo de los recursos públicos de algún partido político, ni haber sido postulada para cargo de elección popular en los tres años anteriores a la propia designación.
 
 > <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 2017)</small>
 
@@ -2700,5 +2718,17 @@ QUINTO. Se declara la invalidez del OCTAVO TRANSITORIO del Decreto de la LEY DE 
 P.O. 3 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL ““DECRETO NUM. 866 QUE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 69 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 1087 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1094 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO ELECTORAL DEL ESTADO DE HIDALGO, DE LA LEY DE FISCALIZACIÓN SUPERIOR Y RENDICIÓN DE CUENTAS DEL ESTADO DE HIDALGO Y DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
