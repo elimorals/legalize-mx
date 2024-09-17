@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entrega-recepcion-de-los-recursos-publicos-del-110172"
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-12"
-last_updated: "2023-03-29"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110172&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de octubre de 2015.
 
@@ -211,15 +211,17 @@ IV. Recursos humanos;
 
 V. Recursos materiales;
 
-VI. Recursos financieros; y
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Recursos financieros;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2020)</small>
 
 VII. Recursos informáticos; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Expedientes de asuntos legales.
+VIII. Expedientes de asuntos legales, incluyendo los procedimientos de investigación de responsabilidades administrativas iniciados por el Órgano Interno de Control correspondiente.
 
 > <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2020)</small>
 
@@ -400,3 +402,9 @@ P.O. 29 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan a este Decreto.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1096 POR EL QUE SE REFORMAN LAS FRACCIONES VI Y VIII DEL ARTÍCULO 14 DEL ARTÍCULO 14 (SIC) DE LA LEY DE ENTREGA RECEPCIÓN DE LOS RECURSOS PÚBLICOS DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
