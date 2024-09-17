@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-agua-y-alcantarillado-para-el-estado-de-19782"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-30"
-last_updated: "2024-08-20"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ESTATAL DE AGUA Y ALCANTARILLADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 30 de diciembre de 1999.
 
@@ -88,6 +88,10 @@ III. Alcantarillado: la red o sistema de conductos y accesorios para recolectar 
 IV. Aguas pluviales: aquellas que provienen de lluvias, incluyendo las de nieve o granizo;
 
 V. Aguas Residuales: las aguas de composición variada provenientes de las descargas de usos municipales, industriales, comerciales, domésticos y en general de cualquier otro uso;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+V Bis. Captación de agua de lluvia: La acción de los sectores público, privado y social, y de las y los habitantes del Estado de Hidalgo, para recibir agua de lluvia, nieve o granizo mediante métodos diversos, para la captación, almacenamiento, infiltración del agua de lluvia y aprovechamiento sustentable del recurso hídrico, acción regulada por la presente ley, y promovida, organizada e incentivada por el Gobierno del Estado de Hidalgo;
 
 VI. Comisión: la Comisión Estatal del Agua y Alcantarillado;
 
@@ -175,13 +179,13 @@ XXXI. Uso público: cuando el consumo es destinado para satisfacer las necesidad
 
 XXXII. Usuario: la persona física o moral que utilice en los términos de esta Ley los servicios públicos.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 4.
 
-El Ejecutivo del Estado, por conducto de la Comisión, se coordinará con los Municipios y promoverá la concertación de éstos entre sí para la más eficiente y sustentable prestación de los servicios públicos en todos los asentamientos humanos del Estado.
+El Ejecutivo del Estado, por conducto de la Comisión, se coordinará con los Municipios y/o Organismos Operadores de Agua Potable, y promoverá la concertación de éstos entre sí para la más eficiente y sustentable prestación de los servicios públicos en todos los asentamientos humanos del Estado.
 
-Las autoridades Estatales y Municipales podrán solicitar al Gobierno Federal asistencia técnica en los proyectos de las obras de agua potable, alcantarillado, saneamiento, drenaje pluvial, que pretendan ejecutar, a fin de asegurar la compatibilidad de los sitios de entrega y recepción del agua en bloque, la eficiencia de la operación de las obras, el respeto a las normas medioambientales y el mejor aprovechamiento del agua, así como para el ejercicio de las atribuciones que les corresponda en términos de Ley.
+Las autoridades Estatales, Municipales y Organismos Operadores de Agua Potable podrán solicitar al Gobierno Federal asistencia técnica en los proyectos de las obras de agua potable, alcantarillado, saneamiento, drenaje pluvial, captación de agua de lluvia, que pretendan ejecutar, a fin de asegurar la compatibilidad de los sitios de entrega y recepción del agua en bloque, la eficiencia de la operación de las obras, el respeto a las normas medioambientales y el mejor aprovechamiento del agua para garantizar el derecho humano al acceso al agua potable previsto en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que México es Parte, así como para el ejercicio de las atribuciones que les corresponda en términos de Ley.
 
 > <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -449,17 +453,31 @@ XXV. Celebrar convenios con Instituciones de Educación Superior o inversionista
 
 XXVI. Auditar en forma periódica los recursos hídricos ejecutando mediciones de niveles, análisis físico-químicos de la calidad del agua;
 
-XXVII. Promover el establecimiento y difusión de normas técnicas en lo referente a la realización de obras, a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, alcantarillado, saneamiento y drenaje pluvial;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXVII. Promover el establecimiento y difusión de normas técnicas en lo referente a la realización de obras, a la construcción, operación, administración, conservación y mantenimiento de los sistemas de captación, potabilización, conducción, almacenamiento y distribución de agua potable, alcantarillado, saneamiento, drenaje pluvial y captación de agua de lluvia;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXVII Bis. Organizar e estimular la captación de agua de lluvia, para su potabilización destinada al consumo humano y uso directo en actividades domesticas asi como rurales y urbanas;
+
+> <small>(ADICIONADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXVII Ter. Elaborar, promover y fortalecer las políticas públicas, estrategias, programas y acciones gubernamentales y de participación ciudadana en la gestión sustentable e integral de los recursos hídricos, así como en la prestación de los servicios públicos de agua potable, drenaje y alcantarillado, así como el tratamiento y reuso de aguas residual y captación y aprovechamiento de las aguas de lluvia;
 
 XXVIII. Celebrar acuerdos de coordinación con los Municipios;
 
 XXIX. Prestar los servicios públicos en los términos que le señale la Junta;
 
-XXX. Formular el Programa anual Hídrico Estatal, en materia de agua potable, alcantarillado, saneamiento, drenaje pluvial y la integración de proyectos hidroeléctricos;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXX.- Formular el Programa anual Hídrico Estatal, en materia de agua potable, alcantarillado, saneamiento, drenaje pluvial, captación de agua de lluvia y la integración de proyectos hidroeléctricos;
 
 XXXI. Promover y fomentar el uso eficientemente del agua, preservación, vigilancia de su calidad y la creación de una cultura que la valore;
 
-XXXII. Promover la creación, desarrollo, autosuficiencia administrativa, técnica y financiera de los Organismos Operadores Municipales e Intermunicipales y de los Municipios, cuando éstos presten los servicios directamente, así como de todo usuario involucrado en la prestación de los servicios públicos de agua potable, alcantarillado, saneamiento y drenaje pluvial;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+XXXII. Promover la creación, desarrollo, autosuficiencia administrativa, técnica y financiera de los Organismos Operadores Municipales e Intermunicipales y de los Municipios, cuando éstos presten los servicios directamente, así como de todo usuario involucrado en la prestación de los servicios públicos de agua potable, alcantarillado, saneamiento, drenaje pluvial y captación de agua de lluvia;
 
 XXXIII. Promover la participación social y privada en la prestación de los servicios públicos;
 
@@ -585,9 +603,11 @@ Los Municipios deberán adoptar las medidas necesarias para que se alcance la au
 
 Para tal efecto, estarán obligados a diseñar y revisar periódicamente el Programa de Desarrollo, en los términos del artículo 3, fracción, XVI de la presente Ley.
 
+> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 24.
 
-Las autoridades Municipales podrán solicitar al Gobierno Federal y Estatal asistencia técnica en los proyectos de las obras de agua potable, alcantarillado, saneamiento, drenaje pluvial que pretendan con la finalidad de asegurar la compatibilidad de los sitios de entrega y recepción de agua en bloque, la eficiencia de la operación de las obras y el mejor aprovechamiento del agua, así como para el ejercicio de las atribuciones que le corresponda en términos de Ley.
+Las autoridades Municipales y/o Organismos Operadores podrán solicitar al Gobierno Federal y Estatal, asistencia técnica en los proyectos de las obras de agua potable, alcantarillado, saneamiento, drenaje pluvial y captación de agua de lluvia, que pretendan con la finalidad de asegurar la compatibilidad de los sitios de entrega y recepción de agua en bloque, la eficiencia de la operación de las obras y el mejor aprovechamiento del agua, así como para el ejercicio de las atribuciones que le corresponda en términos de Ley.
 
 ### CAPITULO II. DE LA PRESTACION DE LOS SERVICIOS PUBLICOS POR LOS MUNICIPIOS
 
@@ -1549,17 +1569,49 @@ La Comisión, tratándose de aguas estatales y con base en los estudios, los pla
 
 ### CAPITULO V BIS. DEL CONTROL E INFILTRACION DE AGUA PLUVIAL
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 103 Bis.
 
-El Ejecutivo del Estado y los Municipios, en el ámbito de sus atribuciones deberán garantizar que, en la construcción de obras que generen superficies impermeables, se utilicen y/o instalen mecanismos, sistemas o dispositivos de control e infiltración de agua pluvial.
+El Ejecutivo del Estado y los Municipios, en el ámbito de sus atribuciones promoverán que, en la construcción de obras públicas y privadas que generen superficies impermeables, se utilicen y/o instalen mecanismos, sistemas o dispositivos de control e infiltración de agua pluvial en observancia de las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+La precipitación del agua de lluvia, nieve o escarcha es un fenómeno natural del ciclo hidrológico que contribuye a garantizar el disfrute pleno del derecho humano al agua, debiéndose considerar en las medidas que se lleven a cabo que las precipitaciones aludidas no tienen una distribución uniforme en el territorio del Estado de Hidalgo.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2022)</small>
 
 ###### Artículo 103 Ter.
 
 Los usuarios, previo a la construcción y/o instalación de un mecanismo, sistema o dispositivo de control e infiltración de agua pluvial, deben cumplir con la normativa que al efecto emitan las autoridades municipales y/o estatales en la materia.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 103 Quater.
+
+Toda persona en el Estado de Hidalgo tiene derecho al acceso suficiente, seguro e higiénico de agua disponible para su uso personal y doméstico, así como al suministro libre de interferencias.
+
+Toda vez que la precipitación del agua de lluvia, nieve o escarcha es un fenómeno natural del ciclo hidrológico que no tiene una distribución uniforme en el territorio del Estado de Hidalgo, esta Ley otorga a las dependencias, entidades, organismos, instituciones, organizaciones y entes públicos, privados y sociales, los ejidos, comunidades, barrios y pueblos, así como las y los habitantes del Estado de Hidalgo, los derechos a:
+
+I. Captar agua de lluvia, de manera individual o colectiva;
+
+II. Obtener incentivos para llevar a cabo proyectos sociales, públicos y privados de captación de agua de lluvia, en los términos que fijen las leyes fiscales del estado;
+
+III. Gestionar y obtener apoyo, asistencia y capacitación de técnicos y profesionales, así como atención, orientación, asesoría y los beneficios viables y posibles que se establezcan en las políticas, estrategias, programas, presupuestos y acciones del Gobierno del Estado de Hidalgo en materia de captura de agua de lluvia, y
+
+IV. Tener acceso a información y participar en las decisiones de políticas gubernamentales en materia de captura de agua de lluvia.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 103 Quinquies.
+
+Las nuevas edificaciones, instalaciones, equipamientos, viviendas y obras públicas y privadas que se construyan en el Estado de Hidalgo deberán implementar la infraestructura, los instrumentos y los equipos necesarios para la captación de agua de lluvia para su aprovechamiento en el uso y consumo humano y doméstico y en otros usos de limpieza y riego de jardines y áreas verdes, previo tratamiento sanitario y ambiental que se le brinde al agua captada para tales fines, de acuerdo con las disposiciones que se establezcan en el Reglamento de esta Ley y en los planes y programas de uso del suelo del Estado y sus municipios, así como en las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 103 Sexies.
+
+Los proyectos de obras de infraestructura pública y privada, comercial y de vivienda que conforme a la Ley de Asentamientos Humanos, Desarrollo Urbano y Ordenamiento Territorial y la Ley para la Protección al Ambiente del Estado de Hidalgo, así como con las disposiciones que se establezcan en el Reglamento de esta Ley y en los planes y programas de uso del suelo del Estado y sus municipios así como en las Normas Oficiales Mexicanas, deberán someterse a evaluación del impacto ambiental para su autorización, deberán contener en sus manifestaciones de impacto ambiental o informes preventivos, según corresponda, las obras de infraestructura, instrumentos, equipos, mecanismos, sistemas y/o dispositivos de control e infiltración necesarios para la captación de agua de lluvia, para su evaluación y, en su caso, autorización por parte de la Secretaría de Medio Ambiente y Recursos Naturales del Estado de Hidalgo, así como de la Comisión de Agua y Alcantarillado.
 
 ### CAPITULO VI. DEL USO EN OTRAS ACTIVIDADES PRODUCTIVAS
 
@@ -2476,3 +2528,11 @@ P.O. 20 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1003 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 146 DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 1071 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE AGUA Y ALCANTARILLADO PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, el Poder Legislativo Estatal realizará las adecuaciones necesarias a las leyes locales de la materia, a fin de favorecer una exacta aplicación de la norma.
