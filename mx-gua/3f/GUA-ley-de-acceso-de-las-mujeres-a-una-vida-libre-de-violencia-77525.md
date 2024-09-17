@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2024-06-07"
+last_updated: "2024-09-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -549,7 +549,9 @@ II. Transformar los modelos socioculturales de conducta de mujeres y hombres, in
 
 III. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones;
 
-IV. Atender y capacitar a las víctimas, que les permita participar plenamente en todos los ámbitos de la vida;
+> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Atender y capacitar a las víctimas, que les permita participar plenamente en todos los ámbitos de la vida, asi como su inserción laboral y empoderamiento económico;
 
 V. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia contra las mujeres;
 
@@ -1826,3 +1828,11 @@ P.O. 7 DE JUNIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 316 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN XVII, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 17 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DERETO (SIC) LEGISLATIVO 344 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 13 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
