@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2024-07-15"
+last_updated: "2024-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -343,11 +343,11 @@ I.- Haber cumplido 18 años, y
 
 II.- Tener un modo honesto de vivir.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 18.
 
-Son prerrogativas del ciudadano campechano:
+Son prerrogativas de la persona ciudadana campechana:
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 2008)</small>
 
@@ -363,29 +363,41 @@ La ley de la materia preverá otras formas de participación o asociación de lo
 
 III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 IV.- Ejercer en toda clase de negocios, el derecho de petición;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 V.- Tomar las armas en el Ejército o Guardia Nacional, para la defensa del Estado, de la República y de sus instituciones, en los términos que prescriban las leyes.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2014)</small>
 
-VI. Iniciar leyes, en los términos y con los requisitos que señale la Constitución Federal, las leyes generales y la ley local correspondiente;
+VI.- Iniciar leyes, en los términos y con los requisitos que señale la Constitución Federal, las leyes generales y la ley local correspondiente;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Poder participar en la vida democrática del Estado y votar en los procedimientos de referéndum y plebiscito, así como en otros mecanismos de participación ciudadana que establezca la ley local correspondiente.
+VII.- Participar en la vida democrática del Estado y votar en los procedimientos de referéndum, plebiscito, revocación de mandato, así como en otros mecanismos de participación ciudadana que establezca la ley local correspondiente; y
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+VIII.- Gozar del derecho a una buena administración que permita exigir determinados patrones o estándares en el funcionamiento de la administración en el ámbito estatal y municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 19.
 
-Son obligaciones del ciudadano campechano:
+Son obligaciones de la persona ciudadana campechana:
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Alistarse en la Guardia Nacional;
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Votar en las elecciones populares en los términos que señale la ley;
+II.- Votar en las elecciones, las consultas populares y los procesos de revocación de mandato, en los términos que señale la ley;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 III.- Desempeñar los cargos de elección popular de la Federación, del Estado y del Municipio;
 
@@ -393,11 +405,15 @@ III.- Desempeñar los cargos de elección popular de la Federación, del Estado 
 
 IV.- Desempeñar las funciones electorales y las de jurado. Las funciones electorales tendrán carácter obligatorio y gratuito, pero serán retribuidas aquéllas que se realicen profesionalmente, en los términos de esta Constitución y las leyes correspondientes;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 V.- Inscribirse en el Catastro, manifestando la propiedad que el mismo ciudadano tenga, así como la industria, profesión o trabajo de que subsista, e inscribirse en los Padrones Electorales del Municipio en que resida;
 
 (REFORMADA, P.O. 9 DE FEBRERO DE 2024) (F DE E., P.O. 26 DE ABRIL DE 2024)
 
 VI. Hacer que sus hijas, hijos o pupilos menores de edad concurran a las escuelas, para recibir la educación obligatoria en los términos que establece el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 VII.- Contribuír para los gastos públicos del Estado y Municipio en que residan, en la forma proporcional y equitativa que establezcan las leyes;
 
@@ -509,9 +525,9 @@ VI.- Las reglas para la postulación, registro, derechos y obligaciones de las c
 
 VII.- La organización de las elecciones es una función estatal que se realiza a través del Instituto Nacional Electoral y del Organismo Público Local denominado "Instituto Electoral del Estado de Campeche", en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes generales y las leyes locales en la materia.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
-El Instituto Electoral del Estado de Campeche es la autoridad en materia electoral, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, la Ley General de Instituciones y Procedimientos Electorales y las leyes locales correspondientes. Está dotado de personalidad jurídica y patrimonio propios, gozará de autonomía en su funcionamiento e independencia en sus decisiones. Será profesional en su desempeño. En el ejercicio de sus funciones se regirá por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género.
+El Instituto Electoral del Estado de Campeche es la autoridad en materia electoral y de participación ciudadana, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, la Ley General de Instituciones y Procedimientos Electorales y las leyes locales correspondientes. Está dotado de personalidad jurídica y patrimonio propios, gozará de autonomía en su funcionamiento e independencia en sus decisiones. Será profesional en su desempeño. En el ejercicio de sus funciones se regirá por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y paridad de género.
 
 > <small>(REFORMADO, P.O. 18 DE ENERO DE 2021)</small>
 
@@ -553,7 +569,9 @@ Durará seis años en el cargo y podrá ser reelecto por una sola vez. Estará a
 
 La Ley establecerá los requisitos que deberá reunir para su designación el titular del órgano interno de control.
 
-VIII.- El Instituto Electoral del Estado de Campeche podrá convenir con el Instituto Nacional Electoral que éste se haga cargo de la organización de los procesos electorales locales, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Instituciones y Procedimientos Electorales.
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+VIII.- El Instituto Electoral del Estado de Campeche podrá convenir con el Instituto Nacional Electoral que éste se haga cargo de la organización de los procesos electorales locales, referéndum, plebiscito, revocación de mandato y demás mecanismos de participación ciudadana de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales y demás normatividad aplicable en la materia;
 
 IX.- Las leyes electorales locales deberán regular el sistema de medios de impugnación jurisdiccionales por los cuales deban resolverse las controversias que se susciten con motivo de los procesos electorales locales, así como las derivadas de los actos y resoluciones que emitan las autoridades electorales locales. Estos procedimientos jurisdiccionales tienen por objeto garantizar los principios de certeza y definitividad de las diferentes etapas de los procesos electorales, así como el de legalidad de los actos y resoluciones de las autoridades en la materia.
 
@@ -1003,9 +1021,9 @@ XV.- Llamar a quienes deban sustituir a los diputados en ejercicio en los casos 
 
 XVI.- Conceder premios y recompensas a las personas que presten servicios eminentes a la República, al Estado o a la humanidad y otorgar pensiones a su fallecimiento, a las familias de las mismas que comprueben sus difíciles condiciones económicas;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
-XVII.- Expedir el Bando Solemne para dar a conocer en toda la Entidad la declaración de Gobernador Electo que hubiere hecho el Tribunal Electoral del Estado de Campeche.
+XVII.- Expedir el Bando Solemne para dar a conocer en toda la Entidad la declaración de la persona Gobernadora Electa que hubiere hecho el Tribunal Electoral del Estado de Campeche;
 
 XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustituír al Gobernador del Estado con el carácter de substituto o de interino, de acuerdo con los Artículos 64, 65 y 67 de esta Constitución;
 
@@ -1106,6 +1124,10 @@ XXXVII.- Expedir las normas de carácter general para celebrar los convenios a q
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2017)</small>
 
 XXXVIII.- Para expedir la Ley que regule el juicio político, así como los procedimientos para su aplicación, de conformidad con lo previsto en esta Constitución;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+XXXVIII Bis.- Expedir la ley que regule la Revocación de Mandato;
 
 > <small>(ADICIONADA, P.O. 27 DE JUNIO DE 2017)</small>
 
@@ -1247,15 +1269,49 @@ II.- Los que tengan mando alguno de fuerza pública dentro de los 45 días antes
 
 III.- Los que tengan algún cargo o comisión del Gobierno Federal o de otro u otros Estados, dentro de los 45 días antes de la elección.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JULIO DE 1996)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 63.
 
-El Gobernador del Estado entrará a ejercer su cargo el día 16 de Septiembre del año de la elección y durará en él seis años.
+La persona titular del Poder Ejecutivo del Estado entrará a ejercer su cargo el 16 de septiembre del año de la elección y durará en él seis años.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+La ciudadana o ciudadano que haya desempeñado el cargo de persona titular del Poder Ejecutivo del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
 
-El ciudadano que haya desempeñado el cargo de Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese puesto, ni aún con el carácter de interino, provisional, substituto o encargado del despacho.
+La persona titular del Poder Ejecutivo del Estado podrá ser revocada en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Campeche y los demás ordenamientos legales de la materia.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 63 BIS.- La revocación de mandato es el instrumento de participación solicitado por la ciudadanía para determinar la conclusión anticipada en el desempeño del cargo de la persona titular del Poder Ejecutivo del Estado a partir de la pérdida de la confianza.
+
+Procede la revocación de mandato conforme a lo siguiente:
+
+a) Se formule solicitud ante el Instituto Electoral del Estado de Campeche, por un número equivalente, al menos, del diez por ciento de la lista nominal de electores de la entidad federativa, en la mitad más uno de los municipios del Estado;
+
+b) Deberá plantearse durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional de la persona titular del Poder Ejecutivo del Estado.
+
+Para tal efecto, los ciudadanos y ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha establecida. El Instituto Electoral del Estado de Campeche emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas.
+
+c) Se podrá llevar a cabo en una sola ocasión durante el periodo constitucional, mediante votación libre, directa y secreta;
+
+d) Será vinculante cuando la participación corresponda como mínimo al cuarenta por ciento de dicha lista y la votación sea por mayoría absoluta; y
+
+e) Quien asuma el mandato del ejecutivo revocado concluirá el periodo constitucional.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 63 TER.- El Instituto Electoral del Estado de Campeche dentro de los siguientes treinta días hábiles a que se reciba la solicitud, verificará los requisitos establecidos y, en caso de ser procedente, emitirá inmediatamente la convocatoria al proceso para la revocación de mandato.
+
+La jornada de votación se realizará el domingo siguiente a los noventa días hábiles posteriores a que se emita la convocatoria y en fecha no coincidente con las jornadas electorales federal o locales.
+
+El Instituto Electoral del Estado de Campeche tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación y emitirá los resultados de los procesos de revocación de mandato de la persona titular del Poder Ejecutivo del Estado, los cuales podrán ser impugnados ante la autoridad electoral jurisdiccional del Estado de Campeche. Los procedimientos y demás regulaciones en la materia se establecerán en la ley reglamentaria.
+
+En caso de que el mandato del Ejecutivo sea revocado, se estará a lo dispuesto en el artículo 65 de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+ARTICULO 63 QUATER.- Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.
+
+El Instituto Electoral del Estado de Campeche promoverá la participación ciudadana y será la única instancia a cargo de la difusión de los mismos, la promoción será objetiva, imparcial y con fines informativos.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1265,11 +1321,11 @@ En caso de falta absoluta del Gobernador del Estado, ocurrida en los dos primero
 
 Si el Congreso estuviere en receso, la Diputación Permanente nombrará desde luego un gobernador provisional y convocará a sesiones extraordinarias al Congreso, para que designe un gobernador interino y expida la convocatoria a elecciones en los términos ya señalados. Si se tratare de renuncia del cargo de gobernador, la Permanente convocará al Congreso a sesiones extraordinarias para que la califique y proceda en la forma que acaba de expresarse.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 65.
 
-Cuando la falta de gobernador ocurriese después de los dos primeros años del período para el cual fué electo, si el Congreso del Estado se encontrare en sesiones ordinarias, elegirá al gobernador substituto que deberá concluír el período respectivo; pero si el Congreso no estuviese reunido, la Diputación Permanente nombrará un gobernador provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación de un gobernador substituto. Si se tratare de renuncia del gobernador y el Congreso estuviese en sesiones ordinarias, procederá con las formalidades del caso a elegir al gobernador substituto que haya de terminar el período constitucional, previa la calificación de la renuncia. Si el Congreso estuviese en receso, la Diputación Permanente lo convocará a sesiones extraordinarias para que calificando la renuncia, proceda en la forma ya señalada.
+Cuando la falta de la persona titular del Poder Ejecutivo del Estado ocurriese después de los dos primeros años del período para la cual fue electa, si el Congreso del Estado se encontrare en sesiones ordinarias, elegirá a la persona titular del Poder Ejecutivo del Estado sustituta que deberá concluir el período respectivo; pero si el Congreso no estuviese reunido, la Diputación Permanente nombrará a la persona titular del Poder Ejecutivo del Estado provisional y convocará al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación de la persona titular del Poder Ejecutivo del Estado sustituta. Si se tratare de renuncia de la persona titular del Poder Ejecutivo del Estado o de la procedencia de revocación de mandato y el Congreso estuviese en sesiones ordinarias, procederá con las formalidades del caso a elegir a la persona titular del Poder Ejecutivo del Estado sustituta que haya de terminar el período constitucional, previa la calificación de la renuncia o en su caso la declaración de revocación de mandato. Si el Congreso estuviese en receso, la Diputación Permanente lo convocará a sesiones extraordinarias para que, calificando la renuncia, proceda en la forma ya señalada.
 
 > <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -2162,6 +2218,10 @@ a) Prohibir o evitar en cualquier forma la entrada o salida de mercancías local
 b) Gravar directa o indirectamente la entrada o salida de los mismos o el paso por el territorio de su jurisdicción; y
 
 c) Imponer contribuciones que no estén especificadas en las leyes fiscales del Municipio.
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Garantizarán la participación ciudadana de los habitantes de su demarcación mediante acciones de Municipio Abierto, así como la aplicación de su Presupuesto mediante ejercicios participativos en el porcentaje y con el procedimiento que la normatividad secundaria determine.
 
 > <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2008)</small>
 
@@ -3412,3 +3472,19 @@ Artículo Primero.- El presente decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Lo previsto en el presente decreto, entendido como una regla electoral, será aplicable para el proceso electoral del 2027.
 
 Artículo Tercero.- Se derogan todas aquellas disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan a lo contenido en el presente decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 398 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO Y LA FRACCIÓN VII DEL ARTÍCULO 18; EL PÁRRAFO PRIMERO Y LA FRACCIÓN II DEL ARTÍCULO 19; EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VII Y LA FRACCIÓN VIII DEL ARTÍCULO 24; LA FRACCIÓN XVII DEL ARTÍCULO 54; LOS ARTÍCULOS 63 Y 65 Y, SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 18; UNA FRACCIÓN XXXVIII BIS AL ARTÍCULO 54; LOS ARTÍCULOS 63 BIS, 63 TER, 63 QUATER Y LA FRACCIÓN VII AL ARTÍCULO 105, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El ejercicio de las atribuciones que esta Constitución le confiere al Instituto Electoral del Estado de Campeche en materia de revocación de mandato y demás mecanismos de participación ciudadana, se cubrirán con base en la disponibilidad presupuestaria para el presente ejercicio y los subsecuentes.
+
+TERCERO.- El Congreso del Estado emitirá la Ley de Revocación de Mandato dentro de los 180 días hábiles siguientes a la entrada en vigor del presente decreto.
+
+CUARTO.- El ejercicio de la revocación de mandato contemplado en el presente decreto será aplicable a partir de la persona titular del Poder Ejecutivo del Estado electa para el periodo 2027- 2033.
+
+QUINTO.- El Congreso del Estado de Campeche deberá emitir la demás legislación secundaria correspondiente, en un plazo máximo de 180 días naturales a partir de la entrada en vigor del presente decreto.
+
+SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
