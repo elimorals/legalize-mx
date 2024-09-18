@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-h-congreso-del-estado-libre-y-soberano-de-3369
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-18"
-last_updated: "2023-05-03"
+last_updated: "2024-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NO. 430 LEY DE DESARROLLO CONSTITUCIONAL DEL CONGRESO DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 18 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY ORGÁNICA DEL H. CONGRESO DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Chiapas, el lunes 18 de agosto de 2003.
 
@@ -1490,3 +1490,19 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispu
 Artículo Tercero. Las Diputadas y los Diputados que integran la Junta de Coordinación Política del Honorable Congreso del Estado, deberán en un término no mayor a 60 días hábiles contados a partir de la publicación del presente Decreto, proponer al Pleno de esta Legislatura a las Diputadas y Diputados que integrarán la Comisión de Archivo y Patrimonio Documental.
 
 El Ejecutivo del Estado dispondrá se publique, circule y el Honorable Congreso del Estado proveerá su debido cumplimiento al presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 430 LEY DE DESARROLLO CONSTITUCIONAL DEL CONGRESO DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- La presente Ley de Desarrollo Constitucional del Congreso del Estado, entrará en vigor el día 01 de octubre del año 2024.
+
+Artículo Segundo.- Se abroga la Ley Orgánica del Congreso del Estado de Chiapas, publicado (sic) el periódico Oficial del Estado número 188 de fecha 18 de agosto de 2003, así como todas sus reformas y adiciones.
+
+Artículo Tercero.- Se abroga el Reglamento Interior del Congreso del Estado de Chiapas, publicado el 02 de Mayo del año 2006, así como todas sus reformas y adiciones.
+
+Artículo Cuarto.- Los servidores públicos designados previamente a la entrada en vigor del presente decreto, mantendrán a salvo sus derechos.
+
+Artículo Quinto.- Los procedimientos que estén en trámites antes de la entrada en vigor de la presente Ley, concluirán conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento.
+
+Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
