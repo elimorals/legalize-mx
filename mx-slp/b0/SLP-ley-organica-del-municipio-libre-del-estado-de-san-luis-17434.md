@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2024-07-22"
+last_updated: "2024-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1907,13 +1907,17 @@ Las comisiones carecerán de facultades ejecutivas, y podrán ser modificadas po
 
 Las comisiones del ayuntamiento serán responsables de estudiar, examinar y proponer a éste los acuerdos, acciones o normas tendientes a mejorar la administración pública municipal, así como de vigilar e informar sobre los asuntos a su cargo; además sobre el cumplimiento de las disposiciones y acuerdos que dicte el cabildo.
 
-Las comisiones deben entregar al ayuntamiento, en sesión ordinaria, informe trimestral que permita conocer y transparentar el desarrollo de sus actividades, trabajo y gestiones realizadas.
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+Las comisiones deberán sesionar por lo menos una vez al mes, y bajo el principio de máxima publicidad y transparencia, asimismo deberán entregar al ayuntamiento, en sesión ordinaria, informe trimestral que permita conocer y transparentar el desarrollo de sus actividades, trabajo y gestiones realizadas.
 
 Los asuntos, disposiciones y acuerdos que no se turnen expresamente a una comisión, quedarán bajo responsabilidad de la Comisión de Gobernación, que estará a cargo del Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
-ARTICULO 91 BIS. Las comisiones notificarán al cabildo que llamarán a comparecer a los titulares de las dependencias administrativas municipales, a efecto de que les informen, cuando así se requiera, sobre la situación que guardan los asuntos de su competencia.
+ARTICULO 91 BIS. Las comisiones notificarán al cabildo que llamarán a comparecer al menos de manera trimestral a los titulares de las dependencias administrativas municipales, a efecto de que les informen sobre la situación que guardan los asuntos de su competencia.
+
+> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2013)</small>
 
 Las comisiones podrán solicitar al secretario del ayuntamiento, a través del presidente de la comisión, la información necesaria con el propósito de que puedan atender los asuntos que les han sido encomendados, o que les son propios en ejercicio de sus funciones; éste deberá entregarla oportunamente.
 
@@ -3524,3 +3528,11 @@ De igual manera, en su caso, se deberá convenir con la institución financiera 
 El porcentaje de los pasivos y deuda pública deberá ser determinado entre el Ayuntamiento de San Luis Potosí, el Concejo Municipal del nuevo Municipio de Villa de Pozos, la Comisión de Hacienda del Estado del Congreso del Estado, y la Secretaría de Finanzas del Gobierno del Estado.
 
 DÉCIMO NOVENO. El Congreso del Estado Libre y Soberano de San Luis Potosí, tendrá facultades para dictar las normas interpretativas y aclaratorias al presente Decreto que resulten necesarias para su adecuada aplicación y vigencia.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1120.- SE REFORMAN LOS ARTÍCULOS 91 SU PÁRRAFO TERCERO Y 91 BIS SU PÁRRAFO PRIMERO, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
