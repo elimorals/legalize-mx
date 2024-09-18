@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2024-09-09"
+last_updated: "2024-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -117,9 +117,15 @@ VI. Automóvil: se refiere a un vehículo autopropulsado por un motor propio y d
 
 VII. Autotransportista: persona física o moral debidamente autorizada para prestar servicio público o privado de autotransporte;
 
-VIII. Bicicleta: el aparato impulsado exclusivamente por la fuerza humana, que consta de dos o más ruedas alineadas, donde una o más personas se pueden sentar o montar sobre un asiento. Una bicicleta es un vehículo cuando se la (sic) utiliza en la vía pública;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Bicicleta: vehículo no motorizado de propulsión humana a través de pedales o de pedaleo asistido por motor eléctrico. Incluye a los vehículos que cuentan con un acelerador manual cuyo motor eléctrico cuente con una aceleración no mayor a 25 km/hr.
 
 IX. Ciclovía, ciclopista o vía ciclista: vía pública especializada para la circulación de bicicletas. Las ciclovías pueden ser urbanas o interurbanas y bidireccionales o unidireccionales, según se permita en ellas la circulación en uno o en los dos sentidos. También podrán ser de uso exclusivo para bicicletas, o de uso compartido con otros modos o medios de transporte no motorizados;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+IX Bis. Ciclista: conductor de un vehículo de tracción humana a través de pedales; se considera también ciclista a aquellos que conducen bicicletas asistidas por motores eléctricos, siempre y cuando ésta desarrolle velocidades de hasta 25 kilómetros por hora; los menores de doce años a bordo de un vehículo no motorizado serán considerados peatones;
 
 X. Conductor: persona que conduce, maneja o tiene control físico de un vehículo en la vía pública;
 
@@ -2230,3 +2236,13 @@ P.O. 9 DE SEPTIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 1104.- SE REFORMAN LAS FRACCIONES XII Y XIII; Y ADICIONA UNA FRACCIÓN ESTA COMO XIV, DEL ARTÍCULO 72 DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1121.- SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 6°; Y ADICIONA LA FRACCIÓN IX BIS AL MISMO ARTÍCULO 6°, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los cincuenta y ocho municipios del Estado de San Luis Potosí, contarán con un plazo de noventa días naturales para adecuar sus respectivos Reglamentos de Tránsito.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
