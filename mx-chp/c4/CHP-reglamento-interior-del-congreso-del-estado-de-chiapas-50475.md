@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-del-congreso-del-estado-de-chiapas-50475"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-05-02"
-last_updated: "2020-04-15"
+last_updated: "2024-09-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE DESARROLLO CONSTITUCIONAL DEL CONGRESO DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 18 DE SEPTIEMBRE DE 2024; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE OCTUBRE DE 2024.]</small>
+
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -1474,3 +1476,19 @@ Artículo Primero.- El presente decreto entrara en vigor al día siguiente de su
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- El Congreso del Estado, deberá desarrollar la plataforma que permita realizar las sesiones en línea, a partir de la entrada en vigor del presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 430 LEY DE DESARROLLO CONSTITUCIONAL DEL CONGRESO DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- La presente Ley de Desarrollo Constitucional del Congreso del Estado, entrará en vigor el día 01 de octubre del año 2024.
+
+Artículo Segundo.- Se abroga la Ley Orgánica del Congreso del Estado de Chiapas, publicado (sic) el periódico Oficial del Estado número 188 de fecha 18 de agosto de 2003, así como todas sus reformas y adiciones.
+
+Artículo Tercero.- Se abroga el Reglamento Interior del Congreso del Estado de Chiapas, publicado el 02 de Mayo del año 2006, así como todas sus reformas y adiciones.
+
+Artículo Cuarto.- Los servidores públicos designados previamente a la entrada en vigor del presente decreto, mantendrán a salvo sus derechos.
+
+Artículo Quinto.- Los procedimientos que estén en trámites antes de la entrada en vigor de la presente Ley, concluirán conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento.
+
+Artículo Sexto.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
