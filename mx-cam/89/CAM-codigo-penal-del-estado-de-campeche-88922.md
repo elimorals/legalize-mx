@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2024-08-16"
+last_updated: "2024-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1713,11 +1713,13 @@ Se sancionará con la misma penalidad a quien introduzca en una persona, por med
 
 La misma sanción que establece este artículo se impondrá si entre el activo y el pasivo de la violación existe vínculo matrimonial, de concubinato o de pareja de hecho. En este último caso, el delito se perseguirá por querella de parte.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 162.
 
-Se equipara a la violación y se sancionará con la misma pena al que, sin violencia, cometa alguno de los hechos especificados en el artículo anterior en persona menor de dieciséis años de edad o que no tenga la capacidad de comprender el significado del hecho o que por cualquiera otra causa no pueda resistirlo. Si se ejerciere violencia, física o moral, el mínimo y el máximo de la pena se aumentarán en una mitad.
+Se equipara a la violación al que, sin violencia, realice cópula o al que introduzca por vía vaginal o anal, cualquier elemento, instrumento o parte del cuerpo humano, distinto al miembro viril, en persona de cualquier sexo menor de dieciséis años de edad o que no tenga la capacidad de comprender el significado del hecho o que por cualquier otra causa no pueda resistirlo, se le impondrá prisión de diez a treinta años y multa de cuatrocientas a seiscientas Unidades Diarias de Medida y Actualización.
+
+Si se ejerciere violencia, física o moral, el mínimo y el máximo de la pena se aumentarán en una mitad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1730,6 +1732,10 @@ I. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 2013) (REPUBLICADA, P.O. 3 DE SEPTIEMBRE D
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
 II. Se cometa cuando se aprovechen los medios o circunstancias del empleo, cargo, comisión, profesión, arte u oficio que se ejerza. En este caso, además de la sanción privativa de libertad, el sentenciado, será destituido del empleo, cargo o comisión, en su caso, o suspendido en el ejercicio de su profesión u oficio por un período igual al de la sanción de prisión impuesta;
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+II bis. Se cometa cuando se aproveche de la confianza, ignorancia, extrema necesidad económica o alimentaria o subordinación de la víctima, o de la relación de superioridad o de cualquier índole que sobre ésta tenga;
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1747,9 +1753,9 @@ V. Sea cometido por servidor público o por persona que tenga a la víctima bajo
 
 VI. Sea cometido por agente con cualidad de servidor público o que ejerciere autoridad sobre la víctima o se trate de un ministro de culto religioso o por quien se ostente como tal.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
-Si la violación fuere cometida con participación de dos o más personas, la prisión será de diez a veintisiete años y la multa de trescientas a quinientas Unidades Diarias de Medida y Actualización.
+Si los delitos previstos en los artículos 161 y 162 fueren cometidos con la participación de dos o más personas, la prisión será de doce a treinta y dos años y la multa de cuatrocientas a seiscientas Unidades Diarias de Medida y Actualización.
 
 ### CAPÍTULO III. HOSTIGAMIENTO Y ACOSO SEXUAL
 
@@ -5046,3 +5052,13 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 Tercero.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. TRANSITORIOS EL DECRETO NÚMERO 397 POR EL QUE “SE REFORMA EL ARTÍCULO 162 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 163 Y, SE ADICIONA LA FRACCIÓN II BIS AL ARTÍCULO 163 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]</small>
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
