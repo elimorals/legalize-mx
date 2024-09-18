@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2024-09-04"
+last_updated: "2024-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -3329,11 +3329,11 @@ Además de las sanciones descritas en este artículo, el sujeto activo perderá 
 
 Este delito se perseguirá de oficio.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTICULO 213 Nonies.
 
-Al servidor público que por su negligencia retarde, entorpezca, maliciosamente la procuración o administración de justicia, cuando se trate de la investigación de un delito de violencia vicaria, sustracción o retención de niñas, niños o adolescentes o de violencia familiar, se lo impondrán de tres a ocho años de prisión y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de seis diez años para desempeñar otra (sic) empleo, cargo o comisión públicos.
+Al servidor público que por su negligencia retarde, entorpezca, maliciosamente la procuración o administración de justicia, cuando se trate de la investigación de un delito de violencia vicaria, sustracción o retención de niñas, niños o adolescentes o de violencia familiar, se lo impondrán de tres a ocho años de prisión y de quinientos a mil quinientos días multa, además será destituido e inhabilitado de seis a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 TITULO DECIMOTERCERO
 
@@ -3714,6 +3714,10 @@ La misma pena se le impondrá a quien, aprovechando que presta sus servicios en 
 ###### ARTICULO 251.
 
 Se impondrá de tres a nueve meses de semilibertad a los encargados, empleados o dependientes de una farmacia, que al surtir una receta sustituyan la medicina prescrita por otra que cause daño o sea evidentemente inapropiada para el tratamiento de la enfermedad que determinó la expedición de la receta.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+La misma pena se impondrá a quien venda o suministre medicamentos una vez vencida su fecha de caducidad.
 
 ###### ARTICULO 252.
 
@@ -5948,3 +5952,13 @@ PRIMERO.- Aprobado el presente Decreto por las diputadas y diputados integrantes
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor grado jerárquico que se opongan al presente decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y CUATRO.- POR EL QUE SE QUE REFORMA EL ARTÍCULO 213 NONIES Y ADICIONA UN ÚLTIMO PÁRRAFO DEL ARTÍCULO 251 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
