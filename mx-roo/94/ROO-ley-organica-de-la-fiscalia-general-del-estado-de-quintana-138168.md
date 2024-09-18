@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-fiscalia-general-del-estado-de-quintana-1381
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-09-13"
-last_updated: "2023-12-22"
+last_updated: "2024-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el viernes 13 de septiembre de 2019.
 
@@ -57,11 +57,11 @@ La Fiscalía General del Estado de Quintana Roo, tendrá como fines la investiga
 
 En el ejercicio de sus atribuciones, las personas servidoras públicas de la Fiscalía General del Estado de Quintana Roo, deberán promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. Asimismo, rigen su actuar los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, imparcialidad, lealtad, confidencialidad, transparencia, responsabilidad, paridad, igualdad y demás que se dispongan en la normatividad aplicable.
 
-> <small>(REFORMADO, P.O. 2 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 4.
 
-La Fiscalía General del Estado de Quintana Roo en el ámbito de su competencia, es integrante del Sistema Nacional de Seguridad Pública, del Consejo Estatal de Seguridad Ciudadana y del Sistema Nacional y Estatal Anticorrupción, a través de la Fiscalía Especializada en Combate a la Corrupción del Estado, debiendo cumplir con sus fines y objetivos, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y demás disposiciones aplicables.
+La Fiscalía General del Estado de Quintana Roo en el ámbito de su competencia, es integrante del Sistema Nacional de Seguridad Pública y del Consejo Estatal de Seguridad Ciudadana debiendo cumplir con sus fines y objetivos, conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Quintana Roo y demás disposiciones aplicables.
 
 ###### Artículo 5.
 
@@ -93,7 +93,7 @@ VI. Titular de la Fiscalía General o Fiscal General: A la persona titular de la
 
 VII. Fiscal de Distrito: A la persona titular de cada Fiscalía de Distrito;
 
-VIII. Fiscalía Especializada en Combate a la Corrupción: Al órgano de la Fiscalía General, con autonomía técnica, operativa y de gestión presupuestal, para investigar y perseguir los hechos que la Ley considera como delitos de su competencia;
+VIII. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2024)
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
@@ -447,7 +447,7 @@ c) Fiscalía de Distrito Sur, con sede en Chetumal.
 
 III. Fiscalías Especializadas:
 
-a) Fiscalía Especializada en Combate a la Corrupción;
+a) (DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2024)
 
 b) Fiscalía Especializada Jurídica y de los Derechos Humanos;
 
@@ -641,9 +641,7 @@ XXIX. Desarrollar las actividades específicas que se le asignen como integrante
 
 XXX. Aprobar el Plan de Persecución Penal, por el que se establezcan las directrices principales de la política criminal de la Fiscalía General;
 
-> <small>(REFORMADA, P.O. 8 DE SEPTIEMBRE DE 2020)</small>
-
-XXXI. Expedir el Reglamento Interior de la Fiscalía Especializada en Combate a la Corrupción, que le sea presentado por esta Fiscalía Especializada y solicitar su publicación en el Periódico Oficial del Estado de Quintana Roo;
+XXXI. (DEROGADA, P.O. 18 DE SEPTIEMBRE DE 2024)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE SEPTIEMBRE DE 2020)</small>
 
@@ -673,9 +671,9 @@ La persona titular de la Fiscalía General ejercerá en forma personal y no dele
 
 I. Aprobar el anteproyecto de presupuesto de egresos de la Fiscalía General y presentarlo a la Legislatura del Estado, de conformidad con las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
-II. Nombrar a las personas titulares de las Fiscalías de Distrito, Fiscalías Especializadas, Direcciones, Coordinaciones, Órganos Auxiliares, Unidades Administrativas y personal a su cargo; salvo a la persona Titular del Órgano Interno de Control y a la persona Titular de la Fiscalía Especializada en Combate a la Corrupción, quienes serán nombrados en términos de la Constitución Local y en la presente Ley;
+II. Nombrar a las personas titulares de las Vice fiscalías, Direcciones Generales, Fiscales de Investigación y de Procesos, Direcciones, Órganos, Unidades Administrativas y personal a su cargo; salvo a la persona Titular del Órgano Interno de Control quien será nombrada en términos de la presente Ley;
 
 III. Llevar a cabo, en casos excepcionales, la designación especial de Fiscales del Ministerio Público, elementos de la Policía de Investigación y Peritos, en términos de la presente Ley;
 
@@ -811,11 +809,15 @@ El Consejo tendrá las siguientes facultades:
 
 I. Aprobar dentro del plazo establecido y a propuesta de la persona titular de la Fiscalía General, la emisión del Reglamento de la Presente Ley, en la que se distribuirán las atribuciones de las Fiscalías de Distrito, Fiscalías Especializadas, Órganos Operativos Auxiliares, Órganos Administrativos Auxiliares, Direcciones, Coordinaciones, Unidades Administrativas y personal necesario para el cumplimiento de sus funciones y atribuciones así como las posteriores modificaciones, que resulten con motivo de la creación de nuevas unidades administrativas o Fiscalías Especializadas;
 
-II. Resolver sobre los cambios de adscripción de las personas titulares de las Fiscalías de Distrito y Especializadas, con excepción de la Fiscalía Especializada en Combate a la Corrupción.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+II. Resolver sobre los cambios de adscripción de las personas titulares de las Fiscalías de Distrito y Especializadas;
 
 Las personas titulares de las Fiscalías de Distrito y Especializadas de quienes el Consejo resuelva su cambio de adscripción, no podrán participar en la sesión y en la emisión de la resolución correspondiente;
 
-III. Dictar la resolución en la que deberá determinarse, de ser el caso, el cambio de adscripción de las personas Fiscales de Distrito o personas Fiscales Especializadas, con excepción de la Fiscalía Especializada en Combate a la Corrupción;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+III. Dictar la resolución en la que deberá determinarse, de ser el caso, el cambio de adscripción de las personas Fiscales de Distrito o personas Fiscales Especializadas;
 
 IV. Crear las unidades administrativas que se requieran para el mejor despacho de los asuntos de la institución del Ministerio Publico, en materia de procuración de justicia, así como las Fiscalías Especializadas para la investigación y persecución de ilícitos específicos que, por su trascendencia, interés y características sociales así lo ameriten, y previa convocatoria de la persona titular de la Fiscalía General, y
 
@@ -955,149 +957,21 @@ XXVI. Las demás que le confieran las disposiciones legales aplicables, el Regla
 
 ### Capítulo Tercero. Del Combate a la Corrupción
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
-
 ###### Artículo 25.
 
-La Fiscalía Especializada en Combate a la Corrupción, estará adscrita a la Fiscalía General y tendrá por objeto la investigación y persecución de los delitos establecidos en la Sección Cuarta del Libro Segundo del Código Penal, que sean considerados actos de corrupción cometidos por las personas servidoras públicas en el desempeño de un empleo, cargo o comisión o cometidos por particulares.
-
-La persona Titular de la Fiscalía Especializada en Combate a la Corrupción, para ejercer el cargo, deberá cubrir los mismos requisitos que para ser persona titular de la Fiscalía General, de conformidad al artículo 96 de la Constitución Política del Estado Libre y Soberano de Quintana Roo, durará en su encargo siete años sin posibilidad de ser reelecta y tendrá el nivel que corresponda al de persona Fiscal Especializada.
-
-La persona Titular de la Fiscalía Especializada en Combate a la Corrupción, será nombrada conforme al siguiente procedimiento:
-
-I. La persona titular de la Fiscalía General del Estado remitirá a la Legislatura del Estado una terna que deberá acompañarse de los documentos que sustenten el cumplimiento de los requisitos de elegibilidad.
-
-II. Una vez recibida la terna por parte de la Legislatura, ésta será turnada a las Comisiones de Anticorrupción, Participación Ciudadana y Órganos Autónomos y de Justicia, para efecto de verificar el cumplimiento de los requisitos. La designación deberá realizarse dentro de los diez días hábiles posteriores. Si de la verificación realizada, las Comisiones advierten que alguna persona integrante de la terna propuesta no sustenta debidamente el cumplimiento de los requisitos de elegibilidad, notificará a la persona titular de la Fiscalía General para que en un plazo de tres días hábiles subsane la observación o sustituya a la persona propuesta.
-
-III. Una vez llevado a cabo lo dispuesto en la fracción anterior, las Comisiones elaborarán un dictamen que se someterá a la consideración de la Legislatura del Estado, en su caso, la cual previa comparecencia de las personas que integran la terna, hará la designación con el voto de las dos terceras partes de sus integrantes.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 26.
 
-La Fiscalía Especializada en Combate a la Corrupción, contará con autonomía técnica, operativa y de gestión presupuestal; con las facultades previstas constitucionalmente al Ministerio Público, y tiene por objeto planear y conducir las acciones encaminadas a la atención, investigación, persecución y prosecución de delitos de su competencia.
-
-Para la realización de su objeto, la Fiscalía Especializada en Combate a la Corrupción, contará con los siguientes recursos:
-
-I. Los previstos expresamente para dicho fin en el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo, sin que pueda disponerse de dichos recursos para un fin diverso;
-
-II. Las donaciones o aportaciones que realicen en efectivo o en especie las personas físicas o morales de carácter público, privado o social, nacionales o extranjeros de manera altruista, sin que pueda disponerse de dichos recursos para un fin diverso, y
-
-III. Los demás recursos que se determinen en otras disposiciones.
-
-Para garantizar el cumplimiento de las facultades previstas en la presente ley, la asignación de recursos humanos, materiales, servicios tecnológicos y presupuestarios, anuales ordinarios o extraordinarios que realice la Fiscalía General o las personas físicas o morales de carácter público, privado o social, nacionales o extranjeros a la Fiscalía Especializada en Combate a la Corrupción son de uso exclusivo de la misma, sin que pueda disponerse de dichos recursos para un fin diverso.
-
-La Fiscalía Especializada en Combate a la Corrupción, dentro de los primeros cinco días del mes de agosto del año anterior al ejercicio fiscal que corresponda, remitirá su proyecto de presupuesto de egresos a la persona titular de la Fiscalía General a fin de que sea incluido en el Anteproyecto de Presupuesto de Egresos de la Fiscalía General del Estado.
-
-En el Presupuesto de Egresos del Gobierno del Estado de Quintana Roo, se identificará el monto aprobado a esta Fiscalía para el respectivo ejercicio fiscal.
-
-Para el cumplimiento de su objeto y ejercicio de sus atribuciones, facultades y desempeño de sus funciones, contará con el personal sustantivo, directivo, administrativo y demás personal técnico y auxiliar capacitado, necesarios para el desahogo de los asuntos de su competencia, y el debido cumplimiento de sus funciones, así como con las unidades administrativas que las necesidades del servicio requieran de acuerdo a lo señalado en las disposiciones legales y administrativas, ajustándose al Presupuesto de Egresos autorizado.
-
-Para el despacho de los asuntos que competan a la Fiscalía Especializada en Combate a la Corrupción se auxiliará de las unidades administrativas siguientes:
-
-I. Dirección de Administración;
-
-II. Dirección de Investigación, Acusación y Procesos;
-
-III. Dirección de Policía de Investigación;
-
-IV. Unidad de Servicios Periciales;
-
-V. Unidad de Asuntos Jurídicos y de Derechos Humanos, y
-
-VI. Unidad de Transparencia.
-
-La Fiscalía Especializada en Combate a la Corrupción, para el desarrollo de sus funciones, se auxiliará de la Dirección General de Servicios Periciales, la cual, en su caso, deberá dar trámite y desahogo al peritaje solicitado en el término que al efecto establezca la persona Fiscal del Ministerio Público y que resulte acorde con la complejidad del peritaje a realizar. Asimismo, la Fiscalía Especializada en combate a la Corrupción contará con personas Fiscales del Ministerio Público Especializadas en combate a los hechos que la ley considera como delitos de su competencia.
-
-La persona titular de la Fiscalía Especializada en Combate a la Corrupción, al igual que su personal de confianza, Fiscales del Ministerio Público, agentes de la Policía de Investigación, así como los peritos asignados a esta área, estarán sujetos a la Ley General de Responsabilidades Administrativas. Su actuación será fiscalizada por la Auditoría Superior del Estado y el Órgano Interno de Control de la Fiscalía General, conforme a sus respectivas competencias.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 27.
 
-La persona titular de la Fiscalía Especializada en Combate a la Corrupción, respecto de los asuntos materia de su competencia, ejercerá las facultades siguientes:
-
-I. Planear, programar, organizar y dirigir el funcionamiento de la Fiscalía Especializada en Combate a la Corrupción;
-
-II. Ejercer las atribuciones que la Constitución, las leyes, los Reglamentos y demás disposiciones jurídicas conferidas al Ministerio Público en lo relativo a los hechos que la Ley considera como delitos de su competencia;
-
-III. Participar como persona integrante en el Comité Coordinador del Sistema Estatal Anticorrupción, atendiendo las bases establecidas en el artículo 161 de la Constitución Política del Estado Libre y Soberano de Quintana Roo y en la Ley del Sistema Anticorrupción del Estado;
-
-IV. Nombrar y remover libremente a las personas titulares de las unidades administrativas y direcciones generales de la Fiscalía Especializada en Combate a la Corrupción, salvo aquellos que realicen funciones sustantivas, en cuyo caso, acordará su nombramiento o remoción con la persona titular de la Fiscalía General del Estado;
-
-V. Ejercer el mando directo en términos de lo dispuesto por esta Ley y su Reglamento, sobre las personas Fiscales del Ministerio Público y Policías de Investigación, personas integrantes del servicio profesional de carrera, que le estarán adscritas y resulten necesarias para la atención de los casos que correspondan a la Fiscalía Especializada en Combate a la Corrupción;
-
-VI. Proponer a la persona titular de la Fiscalía General el nombramiento de las personas Fiscales del Ministerio Público por designación especial que reúnan amplia experiencia profesional en la materia de corrupción, en términos de lo dispuesto en el artículo 91 de esta Ley;
-
-VII. Elaborar y presentar a la persona titular de la Fiscalía General el proyecto de Reglamento Interior de la Fiscalía Especializada en Combate a la Corrupción para su expedición y publicación;
-
-VIII. Llevar a cabo la programación, presupuestación y administración integral de los recursos humanos, materiales, tecnológicos y financieros a su cargo;
-
-IX. Proponer a la unidad adscrita competente el contenido teórico práctico de los programas de capacitación, actualización y especialización del Servicio Profesional de Carrera, respecto de las personas Fiscales del Ministerio Público adscritos a la Fiscalía Especializada en Combate a la Corrupción;
-
-X. Coordinar y supervisar la actuación de las personas integrantes de las policías y servicios periciales en el ámbito de su competencia;
-
-XI. Diseñar e implementar estrategias y líneas de acción para combatir los hechos que la Ley considera como delitos de su competencia;
-
-XII. Implementar planes y programas destinados a detectar la comisión de los hechos que la Ley considera como delitos de su competencia;
-
-XIII. Ejercer las facultades que, en materia de aseguramiento de bienes, se deriven del Código Nacional;
-
-XIV. Emitir o suscribir los acuerdos, circulares, instructivos, bases y demás normas administrativas o instrumentos jurídicos necesarios que rijan la actuación de la Fiscalía Especializada en Combate a la Corrupción en el ámbito de su competencia . Los acuerdos, circulares, instructivos, bases y demás normas administrativas emitidas por parte de la persona titular de la Fiscalía Especializada en Combate a la Corrupción, que sean necesarios para regular la actuación de la Fiscalía Especializada en Combate a la Corrupción a su cargo, en ningún caso podrán contradecir las normas emitidas por el titular de la Fiscalía General. En su caso, se propondrá a la persona titular de la Fiscalía General la actualización, derogación o abrogación de las normas expedidas por éste;
-
-XV. Fortalecer e implementar, en el ámbito de su competencia, mecanismos de cooperación y colaboración con autoridades de los tres órdenes de gobierno para la investigación de los hechos que la ley considera como delitos de su competencia;
-
-XVI. Diseñar e implementar proyectos, estudios y programas permanentes de información y fomento de la cultura de la denuncia y de la legalidad en materia de los hechos que la Ley considera como delitos de su competencia;
-
-XVII. Implementar mecanismos de colaboración con autoridades que ejerzan facultades de fiscalización a fin de fortalecer el desarrollo de las investigaciones;
-
-XVIII. Requerir a las instancias de gobierno la información que resulte útil o necesaria para sus investigaciones, la que por ningún motivo le podrá ser negada, incluso anteponiendo el secreto bancario, fiduciario o cualquiera otro de similar naturaleza;
-
-XIX. Coadyuvar con otras áreas competentes de la Fiscalía General, en el desarrollo de herramientas de inteligencia con metodologías interdisciplinarias de análisis e investigación de las distintas variables criminales, socioeconómicas y financieras, para conocer la evolución de las actividades relacionadas con los hechos que la Ley considera como delitos de su competencia;
-
-XX. Generar sus propias herramientas metodológicas para el efecto de identificar los patrones de conducta que pudieran estar relacionados con operaciones con recursos de procedencia ilícita;
-
-XXI. Emitir guías y manuales técnicos, en conjunto con la Dirección General de Servicios Periciales en materia financiera para la formulación de dictámenes fiscales, financieros y contables que requieran las personas Fiscales del Ministerio Público en el cumplimiento de sus funciones de investigación y persecución de los hechos que la ley considera como delitos de su competencia;
-
-XXII. Conducir la investigación para la obtención de datos o medios de prueba vinculados a hechos que la ley considera como delitos de su competencia;
-
-XXIII. Ordenar el aseguramiento de bienes propiedad de la persona imputada, así como de aquellos respecto de los cuales se conduzcan como propietarias, o propietarias beneficiarias o beneficiaria controladora, cuyo valor equivalga al producto, los instrumentos u objetos del hecho delictivo cuando éstos hayan desaparecido o no se localicen por causa atribuible a la persona imputada;
-
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2023)</small>
-
-XXIV. Solicitar a la Dirección de Bienes Asegurados y Extinción de Dominio, la extinción de dominio de los bienes de las personas imputadas o sentenciadas, así como de aquéllos respecto de los cuales se conduzcan como propietarias, o propietarias beneficiarias o beneficiaria controladora, cuyo valor equivalga a los bienes desaparecidos o no localizados por causa atribuible a la persona imputada o sentenciada, cuando estos bienes estén vinculados con hechos que la ley considera como delitos de su competencia que sean susceptibles de la acción de extinción de dominio, en los términos de la legislación aplicable;
-
-XXV. Decidir responsablemente sobre el destino de los recursos que le sean asignados, a fin de cubrir todas las necesidades que surjan en el desempeño de sus facultades;
-
-XXVI. Formular los requerimientos de información y de documentos relativos al sistema financiero o de naturaleza fiscal a que se refiere el artículo 142, fracción II, de la Ley de Instituciones de Crédito y demás disposiciones homólogas;
-
-XXVII. Dictar las medidas precautorias y promover los mecanismos necesarios para la reparación del daño;
-
-XXVIII. Autorizar la consulta de reserva, incompetencia, acumulación y separación de las investigaciones, acumulación, archivo temporal, criterio de oportunidad, acuerdo reparatorio y procedimiento abreviado que propongan las personas Fiscales del Ministerio Público de su adscripción;
-
-XXIX. Autorizar en definitiva que las personas Fiscales del Ministerio Público decreten el no ejercicio de la acción penal, de conformidad a la disposición procesal penal correspondiente;
-
-XXX. Autorizar la formulación de conclusiones no acusatorias en los procesos penales o, en su caso, la solicitud del desistimiento de la acción penal ante el órgano jurisdiccional que establece el artículo 144 del Código Nacional;
-
-XXXI. Resolver en definitiva las consultas que las personas Fiscales del Ministerio Público adscritas a la Fiscalía Especializada en Combate a la Corrupción formulen a las prevenciones que la autoridad judicial acuerde en los términos que la Ley disponga, respecto de la omisión de formular conclusiones en el plazo legal, de conclusiones presentadas en un proceso penal, o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta de la persona inculpada antes de que se pronuncie sentencia, de cancelación de órdenes de aprehensión o reclasificación de la conducta o hecho por los cuales se hubiese ejercido la acción penal;
-
-XXXII. Diseñar, establecer e implementar mecanismos de cooperación y colaboración con autoridades federales, estatales y municipales, en el ámbito de su competencia, atendiendo a las normas y políticas institucionales;
-
-XXXIII. Celebrar convenios con instituciones u organismos públicos o privados, nacionales o internacionales, en el ámbito de su competencia;
-
-XXXIV. Participar con las unidades administrativas y órganos competentes de la Fiscalía General, en el diseño de esquemas de capacitación, actualización y especialización en la materia de prevención y combate a la corrupción;
-
-XXXV. Supervisar y ejercer las facultades que correspondan a las unidades administrativas que le estén adscritas, sin perjuicio de que sean desempeñadas por sus respectivas personas titulares, y
-
-XXXVI. Las demás que le confieran las disposiciones legales aplicables, el Reglamento de esta Ley y las que le encomiende la persona titular de la Fiscalía General.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 28.
 
-La persona titular de la Fiscalía Especializada en Combate a la Corrupción presentará anualmente a la Legislatura del Estado, un informe sobre actividades sustantivas y sus resultados, así como aquellas actividades llevadas a cabo en ejercicio de sus facultades contenidas en el artículo 27 de esta Ley, para tal efecto deberá comparecer ante la Comisión Anticorrupción, Participación Ciudadana y Órganos Autónomos para su entrega por escrito y exponer el contenido del mismo.
-
-Dicho informe se deberá presentar en el mes de enero de cada año y será público, en términos de lo previsto en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Quintana Roo y demás disposiciones aplicables en la materia. Dicho informe deberá ser remitido también a la persona titular de la Fiscalía General del Estado y al Comité Coordinador del Sistema Estatal Anticorrupción.
+(DEROGADO, P.O. 18 DE SEPTIEMBRE DE 2024)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE NOVIEMBRE DE 2023)</small>
 
@@ -2245,11 +2119,11 @@ Para el debido funcionamiento de las Fiscalías de Distrito y las Fiscalías Esp
 
 El Reglamento de esta Ley, determinará la estructura, organización y atribuciones de las áreas que se indican en los párrafos que anteceden.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 62.
 
-Son obligaciones comunes de las personas Fiscales del Ministerio Público adscritas a las Fiscalías de Distrito y a las Fiscalías Especializadas, con excepción de la Fiscalía Especializada en Combate a la Corrupción, las siguientes:
+Son obligaciones comunes de las personas Fiscales del Ministerio Público adscritas a las Fiscalías de Distrito y a las Fiscalías Especializadas, las siguientes:
 
 I. Recibir las denuncias y querellas que les sean presentadas en forma oral, o por escrito, o a través de cualquier medio, sobre hechos que puedan constituir algún delito, en el ámbito de su competencia;
 
@@ -2383,27 +2257,13 @@ El nombramiento del personal profesional y administrativo lo realizará el titul
 
 El Órgano Interno de Control, su titular y el personal adscrito al mismo, estarán impedidos de intervenir o interferir en forma alguna en el desempeño de las facultades y en el ejercicio de las atribuciones que ésta Ley y las demás disposiciones aplicables confieren a los servidores públicos de la Fiscalía General.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 65.
 
-El titular del Órgano Interno de Control, durará en su encargo cuatro años sin posibilidad de reelección y deberá reunir los siguientes requisitos:
+La persona titular del Órgano Interno de Control, durará en su encargo siete años con posibilidad de reelección por un periodo adicional y deberá cumplir con los requisitos establecidos en el artículo 51 Bis de la Constitución Local.
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
-
-II. Tener treinta años de edad cumplidos el día de la designación;
-
-III. Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
-
-IV. Contar al momento de su designación con una experiencia en el control, manejo o fiscalización de recursos, responsabilidades administrativas, contabilidad gubernamental, auditoría gubernamental, obra pública, adquisiciones o arrendamientos;
-
-V. Contar al día de su designación, con antigüedad mínima de cinco años, con título profesional relacionado con las actividades a que se refiere la fracción anterior, expedido por autoridad o institución legalmente facultada para ello;
-
-VI. No pertenecer o haber pertenecido en los dos años anteriores a su designación, a despachos de consultoría o auditoría que hubieren prestado sus servicios a la Fiscalía General del Estado, o haber fungido como consultor o auditor externo del mismo, en lo individual durante ese periodo;
-
-VII. No estar inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
-
-VIII. Durante los dos años anteriores a la designación no haber desempeñado cargo de elección popular federal, estatal o municipal, haber sido dirigente nacional, estatal o municipal o responsable del manejo de los recursos públicos de algún partido político, ni haber participado como candidato a cargo de elección popular alguno, y
-
-IX. No haber ocupado algún cargo directivo o haber representado de cualquier forma los intereses de la Fiscalía General, durante los dos años previos a su nombramiento.
+La retribución que perciba la persona titular del Órgano Interno de Control será la equivalente a la que perciba la persona titular de la Fiscalía General.
 
 La persona titular del Órgano Interno de Control, no podrá durante el ejercicio de su cargo, formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión de cualquier naturaleza, con excepción de la docencia y los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia, siempre y cuando dichas actividades no impidan y/o limiten el ejercicio de las funciones que presta al servicio público.
 
@@ -2547,7 +2407,7 @@ La persona titular de la Fiscalía General será suplida en sus ausencias por la
 
 La ausencia temporal de alguna de las personas Fiscales de Distrito y Fiscales Especializados, será suplida por cualquiera de las personas Fiscales del Ministerio Público de su Adscripción.
 
-La suplencia de la persona Fiscal de Combate a la Corrupción, se llevará a cabo conforme lo establezca el Reglamento Interior de la Fiscalía Especializada en Combate a la Corrupción.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2023)</small>
 
@@ -3612,3 +3472,11 @@ TERCERO. La persona titular de la Fiscalía General del Estado dictará los acue
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor de este decreto se cubrirán de manera progresiva y de acuerdo a la disponibilidad presupuestal del Estado.
 
 QUINTO. Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 003 POR EL QUE SE REFORMAN: EL ARTÍCULO 4; LA FRACCIÓN II DEL ARTÍCULO 17; EL PRIMER PÁRRAFO DE LA FRACCIÓN II Y LA FRACCIÓN III DEL ARTÍCULO 21; EL PÁRRAFO PRIMERO DEL ARTÍCULO 62; EL ARTÍCULO 65. SE DEROGAN: LA FRACCIÓN VIII DEL ARTÍCULO 5; EL INCISO A) DE LA FRACCIÓN III DEL ARTÍCULO 13; LA FRACCIÓN XXXI DEL ARTÍCULO 16; LOS ARTÍCULOS 25, 26, 27, 28; EL PÁRRAFO TERCERO DEL ARTÍCULO 73, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. En tanto se expide la Ley de la Fiscalía Especializada en Combate a la Corrupción del Estado, como órgano público autónomo, se continuarán aplicando los preceptos legales y reglamentarios que se encontraban vigentes previo a la entrada en vigor del presente decreto, para salvaguardar su operatividad, atribuciones y facultades inherentes a la persecución e investigación de los delitos de su competencia.
