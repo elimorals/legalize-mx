@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-tribunal-estatal-de-justicia-121005"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-04-10"
-last_updated: "2023-09-11"
+last_updated: "2024-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121005&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el lunes 10 de abril de 2017.
 
@@ -377,9 +377,13 @@ III. Conocer de asuntos de responsabilidades por faltas no graves en los que se 
 
 IV. Ordenar que se reabra la instrucción y la consecuente devolución de los autos que integran el expediente a la sala de origen, cuando se advierta una violación substancial al procedimiento o cuando considere que se realice algún trámite en la instrucción;
 
-V. Resolver el recurso de apelación que interpongan las partes en contra de las resoluciones dictadas por las Salas Unitarias, Auxiliares, o en su caso, Especializadas en Materia de Responsabilidades Administrativas, así como las que se presenten en contra de resoluciones en materia contenciosa administrativa, de conformidad con lo dispuesto en el Código Procesal Administrativo del Estado de San Luis Potosí, y
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Las señaladas en las demás leyes que competa conocer a la Sala Superior Unitaria del Tribunal.
+V. Resolver los recursos de reclamación, en los términos del Código Procesal Administrativo para el Estado de San Luis Potosí; y la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí;
+
+VI. Resolver el recurso de apelación que interpongan las partes en contra de las resoluciones dictadas por las Salas Unitarias, Auxiliares, o en su caso, Especializadas en Materia de Responsabilidades Administrativas, así como las que se presenten en contra de resoluciones en materia contenciosa administrativa, de conformidad con lo dispuesto en el Código Procesal Administrativo del Estado de San Luis Potosí, y
+
+VII. Las señaladas en las demás leyes que competa conocer a la Sala Superior Unitaria del Tribunal.
 
 ### Capítulo IV. De las Salas
 
@@ -1074,3 +1078,13 @@ P.O.11 DE SEPTIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 1118.- SE ADICIONA AL ARTÍCULO 23, LA FRACCIÓN V DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 216, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 150, 151 Y 152 SU FRACCIÓN II, DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los procedimientos previstos en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, así como aquellos previstos en el Código Procesal Administrativo para el Estado de San Luis Potosí, que se encuentren pendientes de resolución ante el Tribunal Estatal de Justicia Administrativa de San Luis Potosí, a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
