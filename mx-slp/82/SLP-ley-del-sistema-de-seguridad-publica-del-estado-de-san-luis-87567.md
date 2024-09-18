@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2024-06-14"
+last_updated: "2024-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -509,9 +509,11 @@ IX. Ejercer las demás facultades que le confieren esta Ley y los ordenamientos 
 
 El secretario del ayuntamiento, y los titulares de las instituciones de seguridad pública municipal, tendrán las atribuciones que señalen los ordenamientos legales aplicables; y serán los encargados de ejecutar las disposiciones que en uso de sus facultades dicten los ayuntamientos, a través de su presidente municipal, en acatamiento a esta Ley.
 
+> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 20.
 
-Los presidentes municipales proporcionarán al Ejecutivo, por conducto de la Dirección, la información y documentación de su personal, vehículos, armamento y equipos policíacos con que cuenten, así como los requeridos para registrar e incluir su armamento en la licencia oficial colectiva para la portación de armas de fuego.
+Los presidentes municipales deberán proporcionar al Ejecutivo, por conducto de la Dirección, la información y documentación de su personal, vehículos, armamento y equipos policíacos con que cuenten, así como los requeridos para registrar e incluir su armamento en la licencia oficial colectiva para la portación de armas de fuego.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
@@ -1841,9 +1843,11 @@ La infracción a esta disposición se sancionará en términos de la normativida
 
 ### Capítulo IV. Del Registro de Armamento y Equipo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTICULO 102.
 
-Además de cumplir con las disposiciones contenidas en otras leyes, las autoridades competentes manifestarán y mantendrán permanentemente actualizado el Registro de Armamento y Equipo, el cual incluirá:
+Además de cumplir con las disposiciones contenidas en otras leyes, las autoridades competentes deberán manifestar y mantener permanentemente actualizado el Registro de Armamento y Equipo, el cual incluirá:
 
 I. Los vehículos que tuvieran asignados, anotándose número de matrícula, placas de circulación, marca, modelo, tipo, número de serie y motor para el registro del vehículo, y
 
@@ -3234,3 +3238,11 @@ P.O. 14 DE JUNIO DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1119.- SE REFORMA EL ARTÍCULO 20 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 102, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
