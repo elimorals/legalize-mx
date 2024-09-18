@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2023-09-01"
+last_updated: "2024-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -1829,11 +1829,23 @@ El recurso de reclamación procederá en contra de las resoluciones de las autor
 
 La reclamación se interpondrá ante la autoridad substanciadora o resolutora que haya dictado el auto recurrido, o ante el Tribunal según corresponda, dentro de los cinco días hábiles siguientes a aquél en que surta efectos la notificación de que se trate.
 
+> <small>(REFORMADO P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 216.
 
-Interpuesto el recurso de reclamación, se correrá traslado a las demás partes por el término de cinco días hábiles para que expresen lo que a su derecho convenga; la autoridad substanciadora, resolutora o la Sala Superior resolverán lo procedente dentro de los cinco días hábiles siguientes.
+Interpuesto el recurso de reclamación, se deberá correr traslado a las demás partes por el término de cinco días hábiles para que expresen lo que a su derecho convenga; la autoridad substanciadora; resolutora; o la Sala Superior, resolverán lo procedente dentro de los cinco días hábiles siguientes.
 
-De la reclamación conocerá la autoridad substanciadora o resolutora que haya emitido el auto recurrido.
+Tratándose de procedimientos que debe conocer el Tribunal como autoridad resolutora, la reclamación se interpondrá por escrito ante la Sala Unitaria que emitió el acuerdo o resolución que se combate, dentro de los cinco días hábiles siguientes a aquél en que surta efectos la notificación del acuerdo o resolución que se recurre.
+
+En el escrito deberán formularse los agravios que consideren las partes se les hayan causado, exhibiéndose una copia del mismo para el expediente y una para cada una de las partes.
+
+Interpuesto el recurso de reclamación, la Sala Unitaria mandará el expediente a la Sala Superior.
+
+La Sala Superior deberá resolver en el plazo de tres días hábiles si admite el recurso o lo desecha por encontrar motivo manifiesto e indudable de improcedencia.
+
+Si hubiera irregularidades en el escrito del recurso, se señalará al promovente en un plazo que no excederá de tres días hábiles, para que subsane las omisiones o corrija los defectos precisados en la providencia relativa.
+
+En caso de admitir el recurso, la Sala Superior correrá traslado, cuando así proceda, a las otras partes, para que dentro del término de cinco días hábiles, manifiesten lo que a su derecho convenga; vencido este término se procederá a resolver dentro de los cinco días hábiles siguientes.
 
 La resolución de la reclamación no admitirá recurso legal alguno.
 
@@ -2044,3 +2056,13 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO 1118.- SE ADICIONA AL ARTÍCULO 23, LA FRACCIÓN V DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DE SAN LUIS POTOSÍ. SE REFORMA EL ARTÍCULO 216, DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ. SE REFORMAN LOS ARTÍCULOS 150, 151 Y 152 SU FRACCIÓN II, DEL CÓDIGO PROCESAL ADMINISTRATIVO PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis”.
+
+SEGUNDO. Los procedimientos previstos en la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí, que se encuentren pendientes de resolución ante el Tribunal Estatal de Justicia Administrativa de San Luis Potosí, a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
