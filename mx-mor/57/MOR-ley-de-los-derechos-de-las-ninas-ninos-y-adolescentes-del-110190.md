@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2024-09-04"
+last_updated: "2024-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -155,6 +155,14 @@ XXIX. El Sistema Nacional de Protección Integral: El Sistema Nacional de Protec
 
 XXX. Los Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+XXX (SIC). Medidas de protección especial: conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger y garantizar los derechos humanos de las niñas, niños y adolescentes conforme a su interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el libre goce y pleno ejercicio de sus derechos, y
+
+> <small>(ADICIONADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+XXXI. Mendicidad ajena infantil: explotación de niñas, niños y adolescentes realizada por los padres o por un tercero para obtener un beneficio al obligarlos a pedir limosna o caridad contra la voluntad, recurriendo a la amenaza de daño grave, un daño grave, al uso de la fuerza u otras formas de coacción, o el engaño.
+
 ###### Artículo 5.
 
 Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
@@ -210,6 +218,36 @@ A falta de disposición expresa en la Constitución Política de los Estados Uni
 En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apátrida, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 9 Bis.
+
+Las medidas de protección especial que adopten las autoridades estatales y municipales, serán aquellas necesarias para garantizar y restituir los derechos de niñas, niños y adolescentes en condiciones de vulnerabilidad o discriminación múltiple.
+
+Se consideran de manera enunciativa, más no limitativa, las condiciones o situaciones de vulnerabilidad descritas en el artículo 9 de este ordenamiento y las siguientes:
+
+I. Situación de calle;
+
+II. Exclusión social;
+
+III. Trabajo infantil, y;
+
+IV. Refugiados.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 9 Ter.
+
+Las medidas de protección especial deberán ajustarse a la situación y problemática específicas de cada niña, niño y adolescentes.
+
+Estas medidas se establecerán temporalmente y deben estar destinadas a la preservación y restitución de los derechos de las niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 9 Quáter.
+
+Las autoridades estatales y municipales están obligadas a presentar ante el Sistema de Protección Local un informe anual sobre las medidas de protección especial que hayan adoptado de conformidad con las facultades señaladas en esta sección.
 
 ###### Artículo 10.
 
@@ -575,7 +613,9 @@ I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
 
 II. La corrupción de personas menores de dieciocho años de edad;
 
-III. Trata de personas menores de 18 años de edad, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+III. Trata de personas menores de 18 años de edad, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, mendicidad ajena infantil o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables.
 
 IV. El tráfico de menores;
 
@@ -590,6 +630,10 @@ Las autoridades competentes deberán considerar la perspectiva de género en las
 La legislación estatal y municipal deberá establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
 
 Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2024)</small>
+
+La Procuraduría de Protección Estatal o la Procuraduría de Protección Municipal correspondiente, en uso de las facultades y atribuciones que le confiere esta Ley y demás normativa aplicable, deberán denunciar de inmediato ante el Ministerio Público competente, los hechos que tengan de su conocimiento que presuman mendicidad ajena infantil. Para que, en su caso, sean investigados y sancionados conforme a lo establecido en la Ley General para Prevenir, Sancionar y Erradicar los Delitos en Materia de Trata de Personas y para la Protección y Asistencia a las víctimas de estos Delitos.
 
 ###### Artículo 44.
 
@@ -2092,3 +2136,13 @@ PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma.
+
+P.O. 18 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SETECIENTOS VEINTICINCO POR EL QUE SE ADICIONAN LAS FRACCIONES XXX Y XXXI AL ARTÍCULO 4; SE ADICIONAN LOS ARTÍCULOS 9 BIS, 9 TER Y 9 QUATER; Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 43, TODOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO (SIC). El Poder Ejecutivo de Morelos y los Municipales deberán presupuestar las necesidades de la (sic) implementar las acciones que se derivan del presente dictamen en el ejercicio fiscal 2025.
