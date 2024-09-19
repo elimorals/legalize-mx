@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-colegio-de-defensa-nacional-21169"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-05-16"
-last_updated: "2001-05-16"
+last_updated: "2024-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21169&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2001-05-15"
 ---
 # REGLAMENTO DEL COLEGIO DE DEFENSA NACIONAL
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE SEPTIEMBRE DE 2024 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DEL COLEGIO DE DEFENSA NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 16 de mayo de 2001.
 
@@ -41,619 +43,1231 @@ Se expide el Reglamento del Colegio de Defensa Nacional para quedar como sigue:
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 1o.
 
-El Colegio de Defensa Nacional es un establecimiento de educación militar superior donde se realizan estudios para la seguridad y defensa nacionales.
+El Colegio de Defensa Nacional es una institución de educación militar superior que imparte estudios de posgrado en el ámbito de la seguridad nacional.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 2o.
 
-El Colegio de Defensa Nacional tiene como misión preparar personal militar y civil para desempeñarse eficientemente en la comprensión, análisis y solución de problemas de seguridad y defensa nacionales, así como en funciones de decisión de alto nivel en asuntos relacionados con tales aspectos.
+El Colegio de Defensa Nacional tiene la misión y visión siguientes:
+
+I. Misión: Impartir estudios de posgrado en el ámbito de la seguridad nacional, para la formación de mujeres y hombres líderes de alto nivel que se desempeñan en la administración pública, competentes para el análisis y solución de problemas que afectan la seguridad del Estado mexicano, mediante la elaboración de diagnósticos, diseño de proyectos estratégicos y trabajos de investigación orientados a la consecución de los objetivos nacionales, y
+
+II. Visión: consolidarse como la máxima institución educativa en temas de seguridad nacional, con un alto grado de liderazgo, generadora de doctrina y capital intelectual entre mujeres y hombres a nivel nacional e internacional, para proyectar y posicionar las políticas de seguridad nacional del Estado mexicano.
+
+Los estudios que se imparten están dirigidos a personal de las fuerzas armadas mexicanas, militares extranjeros, funcionarios públicos de los tres órdenes de gobierno, invitados de la iniciativa privada, investigadores independientes y personal académico.
 
 ###### ARTÍCULO 3o.
 
 El Colegio de Defensa Nacional depende del Alto Mando del Ejército y Fuerza Aérea Mexicanos, a través de:
 
-I. El Estado Mayor de la Defensa Nacional en los aspectos técnicos, operativos y administrativos, y
+> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+I. El Estado Mayor Conjunto de la Defensa Nacional en los aspectos técnicos, operativos y administrativos, y
 
 II. La Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea en el aspecto pedagógico.
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 4o.
 
-En base a su misión, el Colegio de Defensa Nacional tiene los objetivos siguientes:
+El Colegio de Defensa Nacional, con base en su misión, tiene el objetivo de impartir la maestría en seguridad nacional al personal de las Fuerzas Armadas y a personas servidoras públicas invitadas e investigadoras independientes, a partir del estudio teórico, jurídico y doctrinario de la seguridad nacional, la seguridad interior, la defensa exterior y la defensa nacional, en el contexto global. Lo anterior, permite que la persona egresada desarrolle proyectos estratégicos para estudiar antagonismos que afecten el estado democrático de derecho y sus instituciones, así como, la independencia, soberanía, integridad y estabilidad del Estado mexicano.
 
-I. Especializar personal de las Fuerzas Armadas y civiles invitados en la comprensión, análisis y solución de los problemas de seguridad y defensa nacionales en los campos del poder político, económico, social y militar;
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-II. Capacitar personal del Ejército, Fuerza Aérea, Armada de México y civiles invitados, para participar en funciones de alto nivel de decisión relacionadas con la seguridad y defensa nacionales;
+###### ARTÍCULO 4 Bis.
 
-III. Difundir conocimientos entre los miembros de las Fuerzas Armadas que a juicio del Alto Mando del Ejército y Fuerza Aérea constituyan conceptos doctrinarios vinculados con seguridad y defensa nacionales, y
+Los valores institucionales del Colegio de Defensa Nacional son: visión estratégica, integridad, lealtad, honestidad académica, vocación de servicio y compromiso institucional.
 
-IV. Promover y desarrollar la investigación de todo lo relacionado con los temas de seguridad y defensa nacionales.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 5o.
 
-El Colegio de Defensa Nacional para cumplir con sus objetivos, organiza y conduce la maestría en Administración Militar para la Seguridad y Defensa Nacionales, con duración de un año.
+El Colegio de Defensa Nacional, para cumplir con su objetivo, organiza y conduce la maestría en seguridad nacional, diplomados, cursos y otros estudios relacionados con la seguridad nacional.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 6o.
 
-El Colegio de Defensa Nacional, además contempla la organización y conducción de los cursos superiores que determine el Alto Mando del Ejército y Fuerza Aérea.
+El Colegio de Defensa Nacional imparte, organiza y conduce la maestría en seguridad nacional, así como diplomados, cursos y otros estudios relacionados con la seguridad nacional. La enseñanza puede ser presencial o, presencial y a distancia, en este último supuesto a la enseñanza se le llama modalidad mixta.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 7o.
 
-El Curso de Administración Militar para la Seguridad y Defensa Nacionales es el fundamento y la razón de la existencia del plantel; acredita el grado académico de maestría en Administración Militar para la Seguridad y Defensa Nacionales.
+La maestría en seguridad nacional es el fundamento y razón de la existencia del plantel, la cual acredita el grado académico de la referida maestría.
 
 ## TÍTULO SEGUNDO. Organización
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 8o.
 
-El Colegio de Defensa Nacional para cumplir con su misión y objetivos, se organiza como sigue:
+El Colegio de Defensa Nacional tiene la estructura siguiente:
 
 I. Dirección:
 
-A. Director;
+A. La persona titular de la Dirección, y
 
-B. Ayudantía Particular;
-
-C. Secretaría Particular;
-
-D. Cuerpo de Asesores, y
-
-E. Cuerpo de Investigadores.
+B. Grupo de Control Financiero;
 
 II. Subdirección:
 
-A. Subdirector;
-
-B. Secretaría Particular, y
-
-C. Mesa de correspondencia.
+A. La persona titular de la Subdirección, quien también es titular de la Jefatura de Estudios;
 
 III. Sección Pedagógica:
 
 A. Jefatura;
 
-B. Subsección de Evaluación Psicopedagógica;
+B. Subsección de Planeación;
 
-C. Subsección de Control Académico, y
+C. Subsección de Evaluación, y
 
-D. Subsección de Informática.
+D. Subsección de Implementación y Validación:
 
-IV. Secciones de Estudios:
+a. Grupo de Diseño:
 
-A. Sección de Estudios de la Situación Nacional e Internacional;
+1. Mesa de Diseño E-Learning;
 
-B. Sección de Estudios para la Seguridad y Defensa Nacionales;
+2. Mesa de Diseño Didáctico, y
 
-C. Sección de Estudios de Administración para la Seguridad y Defensa Nacionales, y
+3. Mesa de Diseño de Contenidos Educativos para la Modalidad Mixta, y
 
-D. Sección de Estudios Industriales para la Seguridad y Defensa Nacionales.
+b. Grupo de Programación Web, y
 
-V. Sección de Relaciones Públicas y Difusión Cultural:
+E. Subsección Psicopedagógica, y
 
-A. Subsección de Eventos y Relaciones Públicas, y
-
-B. Subsección de Difusión Cultural.
-
-VI. Ayudantía General:
-
-A. Ayudante General;
-
-B. Subayudantía, y
-
-C. Servicios técnicos:
-
-a. Transmisiones;
-
-b. Intendencia;
-
-c. Sanidad;
-
-d. Transportes, y
-
-e. Materiales de Guerra.
-
-D. Servicios administrativos y generales:
-
-a. De Administración, y
-
-b. Generales.
-
-E. Policía Militar.
-
-VII. Sección Administrativa:
+IV. Sección Académica:
 
 A. Jefatura;
 
-B. Grupo de Recursos Humanos;
+B. Subsección de Estudios:
 
-C. Grupo de Recursos Materiales;
+a. Grupo de Estudios Presenciales, y
 
-D. Grupo de Presupuesto y Contabilidad, y
+b. Grupo de Estudios en Modalidad Mixta, y
 
-E. Grupo de Archivo General.
+C. Subsección de Control y Supervisión Académica:
 
-VIII. Unidad Ejecutora de Pago, y
+a. Grupo de Control Docente;
 
-IX. Además de los órganos citados en las fracciones anteriores, el Colegio de Defensa Nacional contará con un Consejo Pedagógico.
+b. Coordinación de las Unidades de Aprendizaje, y
+
+c. Coordinación de Idiomas;
+
+D. Subsección de Educación Física y Deportes, y
+
+E. Subsección de Apoyos Didácticos;
+
+V. Sección de Investigación y Doctrina:
+
+A. Jefatura;
+
+B. Subsección de Investigación;
+
+C. Subsección de Doctrina;
+
+D. Subsección de Investigadores y Asesores, y
+
+E. Subsección de Difusión Cultural, Convenios, Relaciones Públicas y Estudios de Extensión Académica;
+
+VI. Ayudantía General:
+
+A. Jefatura;
+
+B. Servicios Técnicos y Generales, y
+
+C. Pelotón de Ingenieros;
+
+VII. Sección Administrativa:
+
+A. Jefatura, y
+
+B. Oficina de Calidad:
+
+a. Jefatura;
+
+b. Grupo de Planeación y Coordinación, y
+
+c. Grupo de Evaluación y Seguimiento, y
+
+VIII. Junta Técnica Consultiva.
 
 ## TÍTULO TERCERO. Funciones
 
 ### CAPÍTULO I. De la Dirección
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 9o.
 
-El Director es un General procedente de arma Diplomado de Estado Mayor, con maestría en Administración Militar para la Seguridad y Defensa Nacionales, el cual es designado por el Alto Mando del Ejército y Fuerza Aérea.
+La persona titular de la Dirección debe tener el grado de General de Brigada procedente de Arma De Estado Mayor, contar con maestría en seguridad nacional, ser egresada de este plantel, y ser designada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 10.
 
-El Director tiene las atribuciones y responsabilidades que señalan las leyes y reglamentos militares en vigor, para los comandantes de las unidades y dependencias del Ejército y Fuerza Aérea Mexicanos y además las siguientes:
+La persona titular de la Dirección tiene las facultades y responsabilidades que señalan las leyes y reglamentos militares aplicables para las personas titulares de las comandancias de las unidades y dependencias del Ejército y Fuerza Aérea Mexicanos, así como las siguientes:
 
-I. Dirigir y administrar el funcionamiento del plantel de acuerdo con el presente Reglamento y los manuales administrativos y de procedimientos que de él se deriven, así como las disposiciones que para el efecto gire el Alto Mando del Ejército y Fuerza Aérea;
+I. Dirigir y administrar el funcionamiento del plantel, en términos del presente reglamento, y de los manuales administrativos y de procedimientos que derivan de este, así como conforme a las disposiciones que expida para el efecto el Alto Mando del Ejército y Fuerza Aérea;
 
-II. Dirigir la elaboración y actualización de los planes y programas de estudio y del calendario de actividades, de conformidad con las directivas del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea;
+II. Dirigir la elaboración y actualización de los planes y programas de estudio y del calendario de actividades, de conformidad con las directivas del Alto Mando del Ejército y Fuerza Aérea que realice a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea;
 
-III. Orientar los trabajos de análisis e investigación en los campos científico, técnico y humanístico en lo relacionado con las materias de los planes de estudio;
+III. Orientar los trabajos de análisis e investigación en los campos científico, técnico y humanístico en lo relacionado con las asignaturas de los planes de estudios;
 
 IV. Conferir los cargos y comisiones que el personal integrante del Colegio de Defensa Nacional debe desempeñar;
 
-V. Proponer a la consideración del Alto Mando del Ejército y Fuerza Aérea por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, al personal militar y civil que puede ser designado como asesor y conferencista;
+V. Proponer a consideración del Alto Mando del Ejército y Fuerza Aérea, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, al personal militar y civil que puede ser designado como docente asesor y conferencista;
 
-VI. Informar al Alto Mando del Ejército y Fuerza Aérea fundada y motivadamente por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, sobre el desempeño académico y disciplinario de los cursantes;
+VI. Informar al Alto Mando del Ejército y Fuerza Aérea, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, sobre el desempeño académico y disciplinario del personal discente;
 
-VII. Someter al Alto Mando del Ejército y Fuerza Aérea por conducto del Estado Mayor de la Defensa Nacional, la propuesta para el presupuesto anual del plantel;
+VII. Someter a consideración del Alto Mando del Ejército y Fuerza Aérea, por conducto del Estado Mayor Conjunto de la Defensa Nacional, la propuesta para el presupuesto anual del plantel, así como de los contratos del personal docente;
 
-VIII. Previa aprobación del Alto Mando del Ejército y Fuerza Aérea promover intercambios de tipo académico con otros planteles de nivel similar, tanto del país como extranjeros, relacionados con las materias de estudio que contempla el plan de estudio;
+VIII. Promover intercambios de tipo académico con otros planteles de nivel similar, tanto nacionales como extranjeros; relacionados con las asignaturas de estudio que contempla el Plan General de Estudio; previa aprobación del Alto Mando del Ejército y Fuerza Aérea;
 
-IX. Dar a conocer al personal en instrucción el "Instructivo para la elaboración de las tesis individuales", así como el programa para su desarrollo y revisión;
+IX. Dar a conocer al personal discente el Instructivo para la Elaboración de Tesis Individuales, así como el programa para su desarrollo y revisión;
 
-X. Supervisar el cumplimiento de las normas contenidas en el presente Reglamento;
+X. Supervisar el cumplimiento de las normas contenidas en el presente reglamento;
 
-XI. Convocar al Consejo Pedagógico y determinar sobre las propuestas del mismo, y
+XI. Convocar a la Junta Técnica Consultiva y determinar sobre las propuestas que esta haga;
 
-XII. Dirigir y coordinar el cuerpo de asesores e investigadores del plantel.
+XII. Conformar y convocar comités circunstanciales especializados, para tratar asuntos relacionados con aspectos disciplinarios, pedagógicos, de derechos humanos, de equidad de género, entre otros, y
+
+XIII. Revisar y aprobar, con firma electrónica, el registro de grados académicos ante la Secretaría de Educación Pública del personal que se gradúa.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 10 Bis.
+
+La persona titular del Grupo de Control Financiero, que debe tener el grado de Teniente Oficinista, tiene las responsabilidades y facultades siguientes:
+
+I. Revisar y aprobar las transacciones financieras del plantel, conforme a las políticas y regulaciones establecidas en las directivas;
+
+II. Identificar y evaluar los riesgos financieros que tiene el plantel, así como, en su caso, desarrollar estrategias para mitigarlos;
+
+III. Verificar que el plantel cumpla con todas la (sic) leyes y regulaciones en materia financiera aplicables, así como con las directivas que emita la superioridad sobre el particular;
+
+IV. Elaborar los informes financieros y remitirlos en tiempo y forma al organismo correspondiente;
+
+V. Administrar el flujo de efectivo y los activos financieros del Colegio de Defensa Nacional, para garantizar su liquidez y rentabilidad;
+
+VI. Elaborar los presupuestos y planificación financiera a largo plazo para garantizar la viabilidad financiera y el crecimiento sostenible del plantel;
+
+VII. Administrar con transparencia los recursos económicos y materiales que se pongan a su disposición;
+
+VIII. Fungir como la persona comisionada habilitada para ejercer y administrar los recursos presupuestales asignados al plantel, y
+
+IX. Coordinar sus acciones con la Sección Pedagógica para la contratación del personal docente y ejercer los recursos asignados para tal fin.
 
 ### CAPÍTULO II. De la Subdirección
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 11.
 
-El Subdirector es un General procedente de arma, Diplomado de Estado Mayor, con maestría en Administración Militar para la Seguridad y Defensa Nacionales y es designado por el Alto Mando del Ejército y Fuerza Aérea.
+La Subdirección está a cargo de una persona titular con el grado de General Brigadier procedente de Arma, De Estado Mayor con maestría en seguridad nacional egresada de este plantel y designada por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 12.
 
-El Subdirector es el Jefe de Estudios por lo que auxilia al Director en la planeación, conducción y evaluación de los planes y programas de estudio, responsabilizándose del desarrollo de los cursos.
+La persona titular de la Subdirección tiene a su cargo la Jefatura de Estudios, por lo que auxilia a la persona titular de la Dirección en la planeación, conducción y evaluación de los planes y programas de estudio, y es responsable del desarrollo de los estudios que se imparten en el plantel.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 13.
 
-Al Subdirector del plantel le corresponden las atribuciones y responsabilidades que señalan las leyes y reglamentos militares en vigor, para el Segundo Comandante de las unidades y dependencias del Ejército y Fuerza Aérea Mexicanos y además las siguientes:
+La persona titular de la Subdirección del plantel le corresponden las facultades y responsabilidades que señalan las leyes y reglamentos militares aplicables, para la persona titular de la Segunda Comandancia de las unidades y dependencias del Ejército y Fuerza Aérea Mexicanos, así como las siguientes:
 
-I. Auxiliar al Director en las funciones de su cargo y suplirlo en las ausencias temporales;
+I. Auxiliar a la persona titular de la Dirección en las funciones de su cargo, así como suplir las ausencias de esta;
 
-II. Coordinar las actividades de tipo pedagógico, culturales y sociales, así como las que realizan la Sección Pedagógica, Secciones de Estudios y Sección de Relaciones Públicas y de Difusión Cultural;
+II. Coordinar las actividades de tipo pedagógico, culturales y sociales, así como las actividades que realizan las secciones Pedagógica; Académica; de Investigación y Doctrina, y Administrativa, así como las de la Jefatura de la Ayudantía General;
 
-III. Someter a consideración del Director los conferencistas, investigadores y asesores militares y civiles que puedan impartir conocimientos al personal cursante;
+III. Someter a consideración de la persona titular de la Dirección, la designación de las personas conferencistas, investigadoras y asesoras militares y civiles, que puedan impartir conocimientos al personal discente;
 
-IV. Auxiliar al Director en la supervisión de las actividades señaladas en la distribución de tiempo, así como en la administración de apoyos y recursos pedagógicos necesarios para las labores del plantel;
+IV. Auxiliar a la persona titular de la Dirección en la supervisión de las actividades señaladas en la distribución de tiempo, así como en la administración de apoyos y recursos pedagógicos necesarios para las labores del plantel;
 
-V. Revisar la elaboración y actualización de la bibliografía y supervisar el funcionamiento de la biblioteca del plantel;
+V. Supervisar el funcionamiento de la biblioteca del plantel y revisar la elaboración y actualización de la bibliografía de dicha biblioteca;
 
-VI. Ser el conducto entre el Director y el Jefe de la antigüedad del curso para la transmisión de órdenes, instrucciones e informes al personal cursante;
+VI. Ser el conducto entre la persona titular de la Dirección y la persona Jefa o Jefe de la antigüedad de las maestrías para la transmisión de órdenes, instrucciones e informes al personal discente;
 
-VII. Proponer al Director los cargos y comisiones que deba desempeñar el personal docente del plantel;
+VII. Proponer a la persona titular de la Dirección los cargos y comisiones que deba desempeñar el personal docente del plantel;
 
-VIII. Auxiliar al Director en la supervisión para el cumplimiento de lo prevenido en el presente Reglamento, y
+VIII. Auxiliar a la persona titular de la Dirección en la supervisión para el cumplimiento de lo previsto en el presente reglamento, y
 
-IX. Presidir el Consejo Pedagógico.
+IX. Presidir la Junta Técnica Consultiva.
 
 ### CAPÍTULO III. De la Sección Pedagógica
 
 #### SECCIÓN PRIMERA. De la Jefatura de la Sección
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 14.
 
-La Sección Pedagógica está a cargo de un Coronel Diplomado de Estado Mayor, que tiene acreditada la maestría en Administración Militar para la Seguridad y Defensa Nacionales, al que se denomina Jefe de la Sección Pedagógica.
+La persona titular de la Jefatura de la Sección Pedagógica debe tener el grado de General Brigadier de Arma De Estado Mayor, contar con maestría en seguridad nacional y ser egresada del plantel.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 15.
 
-El Jefe de la Sección Pedagógica es el auxiliar inmediato del Subdirector en aspectos académicos, para el efecto desarrolla las actividades siguientes:
+La persona titular de la Jefatura de la Sección Pedagógica es auxiliar inmediata de la persona titular de la Subdirección en aspectos pedagógicos, y tiene las facultades siguientes:
 
-I. Auxiliar al Subdirector en el desempeño de sus funciones como Jefe de Estudios y suplirlo en las ausencias temporales;
+I. Auxiliar a la persona titular de la Subdirección en el desempeño de las funciones que derivan de la Jefatura de Estudios, así como suplir las ausencias de esta;
 
-II. Planear permanentemente las actividades pedagógicas del plantel, así como la elaboración, distribución, almacenamiento y conservación del material didáctico necesario para el desarrollo del curso o cursos;
+II. Planear permanentemente las actividades pedagógicas del plantel y ponerlas a consideración de Dirección;
 
-III. Elaborar los planes y programas de estudio, los programas de visitas y viajes, el calendario de actividades y demás documentación de tipo pedagógico;
+III. Preparar los asuntos relacionados con sus funciones para acuerdo con la persona titular de la Dirección del plantel, por conducto de la persona titular de la Subdirección;
 
-IV. Controlar y supervisar los avances de los programas de estudio;
+IV. Supervisar y evaluar los avances de los programas de las asignaturas;
 
-V. Auxiliar al Subdirector en la coordinación y supervisión de los trabajos que realizan las secciones de Estudios y la Sección de Relaciones Públicas y Difusión Cultural;
+V. Manejar el archivo pedagógico;
 
-VI. Manejar el archivo pedagógico;
+VI. Elaborar el control estadístico pedagógico;
 
-VII. Elaborar el control estadístico pedagógico;
+VII. Proponer a la persona titular de la Subdirección la contratación y, en su caso, la renovación del contrato de personas docentes, asesoras, investigadoras y conferencistas militares y civiles, lo anterior en coordinación con el Grupo de Control Financiero;
 
-VIII. Someter a consideración del Subdirector los asesores, investigadores y conferencistas militares y civiles, así como las reformas a los planes y programas de estudio;
+IX (SIC). Dirigir y coordinar el ejercicio de las atribuciones de las subsecciones de Planeación, de Evaluación y Psicopedagógica;
 
-IX. Dirigir y coordinar los trabajos de las subsecciones de evaluación psicopedagógica, de control académico y de informática, y
+X. Participar como integrante de la Junta Técnica Consultiva;
 
-X. Fungir como miembro del Consejo Pedagógico.
+XI. Elaborar y someter a consideración de la persona titular de la Dirección del plantel las patentes del personal que se gradúa, así como gestionar el registro de los grados académicos ante la Secretaría de Educación Pública;
 
-#### SECCIÓN SEGUNDA. De la Subsección de Evaluación Psicopedagógica
+XII. Gestionar y dar seguimiento a los procesos de certificación y acreditación ante el Centro de Capacitación Especializada de Secretaría de la Defensa Nacional, el Consejo Nacional de Humanidades, Ciencias y Tecnologías, y ante cualquier otra instancia educativa nacionales, internacionales o extranjeras que se requieran, y
+
+XIII. Elaborar y someter a consideración de la Dirección los planes y programas de estudio, los programas de visitas y viajes, el calendario de actividades y demás documentación de tipo pedagógico.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. De la Subsección de Planeación
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 16.
 
-La Subsección de Evaluación Psicopedagógica está a cargo de un Teniente Coronel o Mayor Pedagogo, se responsabiliza de asesorar al personal directivo, docente y de cursantes, sobre asuntos relacionados con la metodología psicopedagógica; así como para el adecuado seguimiento de la actuación del personal cursante en la aplicación de técnicas de investigación y de grupo y además del registro estadístico de notas evaluatorias obtenidas por el personal de cursantes.
+La persona titular de la Subsección de Planeación debe contar con estudios en pedagogía o afines, y es responsable de asesorar al personal directivo, docente y discente, sobre asuntos relacionados con las técnicas de planeación y programación pedagógica; modelos educativos; técnicas de enseñanza, así como proponer cambios y actualizaciones a los planes y programas de los estudios que se imparten en el plantel.
 
-#### SECCIÓN TERCERA. De la Subsección de Control Académico
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 16 Bis.
+
+La persona titular de la Subsección de Planeación tiene las facultades siguientes:
+
+I. Formular y someter a consideración de la Dirección los programas de las asignaturas de los cursos bajo su cargo, con base en el plan de estudio respectivo;
+
+II. Proponer a la Dirección las actividades en cada asignatura de estudio;
+
+III. Analizar, actualizar e integrar los paquetes de lecturas requeridas, y
+
+IV. Proponer a la persona responsable de la biblioteca del plantel la lista bibliográfica y material de lectura correspondiente a los planes y programas de estudio, para consulta del personal discente y docente del plantel.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN TERCERA. De la Subsección de Evaluación
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 17.
 
-La Subsección de Control Académico está a cargo de un Teniente Coronel o Mayor Diplomado de Estado Mayor, quien se responsabiliza de auxiliar al Jefe de la Sección Pedagógica en todas las funciones relacionadas con el desarrollo de los cursos, conforme a los planes y programas de estudio aprobados.
+La persona titular de la Subsección de Evaluación, que debe tener el grado de Mayor de Servicio De Estado Mayor, contar con estudios en pedagogía o afines, y tiene las facultades siguientes:
+
+I. Auxiliar a la persona titular de la Jefatura de la Sección Pedagógica sobre asuntos relacionados con las técnicas de evaluación pedagógica;
+
+II. Llevar el seguimiento del personal discente respecto a la aplicación que estos realicen de técnicas de investigación individual y de grupo;
+
+III. Llevar el registro estadístico de las evaluaciones del personal discente;
+
+IV. Conformar el portafolio de evidencias que contiene constancias, trabajos académicos y avances de las tesis del personal discente;
+
+V. Comunicar al personal discente sus calificaciones conforme a los procedimientos sistemáticos de evaluación vigentes, al término de cada asignatura y en forma individual;
+
+VI. Informar a la persona titular de la Jefatura de la Sección Pedagógica, el avance programático de las asignaturas;
+
+VII. Supervisar la implementación, el desarrollo y la conclusión de las actividades individuales y grupales que correspondan a las asignaturas y efectuar las evaluaciones de diagnóstico, sumatoria y formativa, así como los elementos de la evaluación correspondiente;
+
+VIII. Elaborar oportunamente los productos académicos de los estudios que se imparten en el plantel, y
+
+IX. Cargar en el sistema de la Secretaría de Educación Pública la información necesaria para el registro de los grados académicos del personal que se gradúa e informar a la Dirección del plantel.
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 #### SECCIÓN CUARTA. De la Subsección de Informática
 
 ###### ARTÍCULO 18.
 
-El Jefe de la Subsección de Informática es un Teniente Coronel o Mayor con la especialidad de informática responsable de auxiliar al personal directivo, docente y de cursantes en los trabajos de su especialidad que se le asignan y sus atribuciones y responsabilidades son las siguientes:
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
-I. Operar los sistemas de captura y procesamiento de datos en apoyo de las actividades tanto académicas como administrativas;
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-II. Formular los programas de control pedagógico que le sean asignados;
+#### SECCIÓN QUINTA. De la Subsección de Implementación y Validación
 
-III. Dirigir y supervisar las actividades del personal, así como el mantenimiento del equipo que integra el sistema de cómputo del plantel, y
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Asesorar y proponer las aplicaciones que en materia de informática considere conveniente y que redunden en beneficio de los aspectos académicos.
+###### ARTÍCULO 18 Bis.
 
-#### SECCIÓN PRIMERA. De los Jefes de Sección de Estudios
+La persona titular de la Subsección de Implementación y Validación, que debe tener el grado de Capitán, contar con estudios en informática o afines, es responsable de supervisar todas las actividades académicas a distancia, y tiene a su cargo los Grupos de Diseño y Grupo de Programación Web.
 
-#### SECCIÓN SEGUNDA. De los Coordinadores
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-#### SECCIÓN PRIMERA. De la Subsección de Eventos y Relaciones Públicas
+#### SECCIÓN SEXTA. Grupo de Diseño
 
-#### SECCIÓN SEGUNDA. De la Subsección de Difusión Cultural
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-### CAPÍTULO IV. De las Secciones de Estudios
+###### ARTÍCULO 18 Ter.
 
-#### SECCIÓN PRIMERA. De las Tesis Individuales
+La persona titular del Grupo de Diseño, que debe tener el grado de Oficial, contar con estudios de ingeniería en informática o afines, y es responsable de llevar a cabo el diseño del currículo de la maestría en seguridad nacional, en su modalidad mixta, dar seguimiento a la secuencia de aprendizaje y a los objetivos del curso; así como mantenerse en constaste actualización referente a la tecnología educativa a distancia. Para el desempeño de sus funciones contará con las siguientes mesas:
+
+I. Mesa de Diseño E-Learning;
+
+II. Mesa de Diseño Didáctico, y
+
+III. Mesa de Contenidos Educativos para la Modalidad Mixta.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN SÉPTIMA. Grupo de Programación Web
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 18 Quater.
+
+La persona responsable del Grupo de Programación Web, que debe tener el grado de Oficial, contar con estudios de ingeniería en informática o afines, y tiene las responsabilidades siguientes:
+
+I. Elaborar los proyectos relacionados con sitios web, aplicaciones y servicios en línea, y
+
+II. Diseñar, codificar, probar y mantener aplicaciones para el personal discente de la maestría en modalidad mixta.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN OCTAVA. De la Subsección Psicopedagógica
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 18 Quinquies.
+
+La persona titular de la Subsección Psicopedagógica, que debe tener el grado de Teniente Coronel Psicólogo, y tiene las siguientes responsabilidades:
+
+I. Auxiliar al personal directivo, docente y discente sobre asuntos relacionados con la metodología psicopedagógica, género y desarrollo humano;
+
+II. Elaborar, para ser sometidos a la Dirección del plantel, los programas psicopedagógicos, de desarrollo humano y de género;
+
+III. Llevar el seguimiento de la actuación del personal discente en la aplicación de técnicas de investigación y de grupo y el seguimiento del registro estadístico de sus notas de evaluación;
+
+IV. Implementar programas individuales y colectivos para prevenir, mantener y desarrollar la salud mental del personal del plantel;
+
+V. Supervisar permanentemente la aplicación de la evaluación psicopedagógica;
+
+VI. Conservar un archivo de la clasificación en el que se ordenen los perfiles psicológicos del personal integrante del plantel;
+
+VII. Proporcionar asesoramiento psicológico al personal directivo, docente, discente y de la planta del plantel;
+
+VIII. Diseñar el perfil psicológico para el personal de ingreso al plantel;
+
+IX. Brindar atención psicológica a las personas derechohabientes del personal discente y de la planta del plantel que así lo soliciten;
+
+X. Materializar programas preventivos en materia de salud mental, que incluya la prevención de adicciones, violencia de género y padecimientos afectivos, entre otros, encaminados a promover el sano desarrollo personal de quienes integran del Colegio de Defensa Nacional, y
+
+XI. Realizar las funciones que le sean asignadas por la Jefatura de la Sección Pedagógica.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. De la Sección Académica
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. De la Jefatura
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 19.
 
-Los jefes de Sección de Estudios son elementos del Ejército y Fuerza Aérea Mexicanos con el grado de Coronel Diplomado de Estado Mayor y quienes tienen acreditada la maestría en Administración Militar para la Seguridad y Defensa Nacionales.
+La persona titular de la Jefatura de la Sección Académica, que debe tener el grado de General Brigadier de Arma o Servicio De Estado Mayor, contar con maestría en seguridad nacional, ser egresada del plantel, y es la auxiliar inmediata de la persona titular de la Subdirección en aspectos académicos.
 
-#### SECCIÓN SEGUNDA. Del Trabajo de Grupo
+La persona titular de la Jefatura de la Sección Académica tiene las facultades siguientes:
+
+I. Coordinar y supervisar la aplicación y desarrollo de los planes y programas de estudio;
+
+II. Participar en la elaboración y actualización anual de los planes y programas de estudios;
+
+III. Formular, para ser sometidos a la Dirección del plantel, los horarios de clases, la distribución de tiempo, y controlar los avances programáticos de los estudios que se imparten en el plantel;
+
+IV. Coordinar y supervisar al personal docente y discente durante las actividades académicas;
+
+V. Participar como integrante de la Junta Técnica Consultiva;
+
+VI. Supervisar la aplicación de las medidas de seguridad y las actividades de instalación, operación y mantenimiento del equipo de informática;
+
+VII. Coordinar y supervisar el empleo apropiado del material de apoyo didáctico;
+
+VIII. Suplir a la persona titular de la Jefatura de la Sección Pedagógica en sus ausencias;
+
+IX. Preparar los asuntos relacionados con sus funciones para acuerdo con la persona titular de la Dirección del plantel, por conducto de la persona titular de la Subdirección;
+
+X. Coordinar y supervisar la aplicación y desarrollo de los planes y programas de estudio del plantel, y
+
+XI. Formular, para ser sometidos a la Dirección del plantel, los horarios de clases y la distribución de tiempo y controlar los avances programáticos de los estudios que se imparten en el plantel.
+
+> <small>(ADICIONADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA BIS. De la Subsección de Estudios
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 20.
 
-Los jefes de Sección de Estudios tienen las atribuciones y responsabilidades siguientes:
+La persona titular de la Subsección de Estudios, que debe tener el grado de Coronel de Arma o Servicio De Estado Mayor, contar con maestría en seguridad nacional y ser egresada del plantel, tiene las responsabilidades y facultades siguientes:
 
-I. Coordinar y conducir las actividades pedagógicas de las materias de estudio correspondientes a su sección;
+I. Coordinar y conducir las actividades académicas de las asignaturas correspondientes a esta subsección;
 
-II. Formular los programas de las materias de estudio a cargo de la sección conforme a los planes de estudio;
+II. Formular, para ser sometidos a la Dirección del plantel, los programas de las asignaturas a cargo de esta subsección, conforme a los planes de estudio;
 
-III. Recomendar al Subdirector las actividades y métodos a ser aplicados en cada materia de estudio a su cargo;
+III. Recomendar a la Subdirección del plantel las actividades y estrategias didácticas para cada asignatura a su cargo;
 
-IV. Recomendar al Subdirector, los elementos militares y civiles que puedan desempeñarse como conferencistas en las materias de estudio a cargo de la sección;
+IV. Recomendar a la Subdirección del plantel el personal militar y civil que puede desempeñarse como conferencista en las asignaturas a cargo de esta subsección;
 
 V. Coordinar y supervisar las actividades del personal a su cargo;
 
-VI. Informar al personal directivo sobre el desarrollo y conducción de las materias de estudio que le están asignadas a su sección;
+VI. Informar a la Subdirección sobre el desarrollo y conducción de las asignaturas a cargo de esta subsección;
 
-VII. Recomendar al personal directivo las reformas que a su juicio deban hacerse a los programas de las materias de estudio que tenga asignada su sección;
+VII. Recomendar a la Subdirección las modificaciones que a su juicio deban hacerse a los programas de las asignaturas a cargo de esta subsección;
 
-VIII. Recomendar al personal directivo los temas de investigación y de divulgación que considere de interés sobre seguridad y defensa nacionales, en coordinación con el jefe de la Sección de Relaciones Públicas y Difusión Cultural, y
+VIII. Recomendar al personal directivo los temas de investigación y de divulgación que considere de interés sobre seguridad y defensa nacional, lo anterior, en coordinación con la persona titular de la Jefatura de la Sección de Investigación y Doctrina;
 
-IX. Formar parte del Consejo Pedagógico para desarrollar las funciones que éste tiene asignadas.
+IX. Participar como integrante de la Junta Técnica Consultiva;
 
-#### SECCIÓN TERCERA. De los Jurados
+X. Dirigir y supervisar el desarrollo de las actividades académicas y evaluación de las maestrías que se imparten en este plantel;
 
-#### SECCIÓN CUARTA. De los Exámenes Profesionales
+XI. Informar sobre el desarrollo y conducción de las asignaturas a cargo de esta subsección, y
+
+XII. Informar a la superioridad del avance programático de los programas de estudios de las maestrías presencial y mixta.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA TER. Del Grupo de Estudios Presenciales
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 20 Bis.
+
+La persona titular del Grupo de Estudios Presenciales debe tener el grado de Teniente Coronel de Arma o Servicio De Estado Mayor.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 20 Ter.
+
+La persona titular del Grupo de Estudios Presenciales tiene las facultades siguientes:
+
+I. Coordinar, organizar y supervisar el desarrollo del programa de la maestría, que asegure el cumplimiento de los objetivos académicos y administrativos;
+
+II. Ejecutar la planeación curricular conforme al plan de estudios y los recursos necesarios para su implementación;
+
+III. Organizar conferencias, seminarios, talleres y otras actividades académicas que complementen la formación del personal discente;
+
+IV. Asesorar y brindar orientación académica y profesional al personal discente, así como asistencia en la resolución de problemas relacionados con el programa de la maestría, y
+
+V. Evaluar regularmente el programa de maestría, así como proponer mejoras según sea necesario para garantizar su calidad y relevancia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA QUATER. Del Grupo de Estudios en Modalidad Mixta
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 20 Quater.
+
+La persona titular del Grupo de Estudios en Modalidad Mixta debe tener el grado de Teniente Coronel de Arma o Servicio De Estado Mayor.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 20 Quinquies.
+
+La persona titular del Grupo de Estudios en Modalidad Mixta tiene las facultades siguientes:
+
+I. Coordinar y supervisar las actividades académicas y administrativas relacionadas con la maestría en su modalidad mixta;
+
+II. Facilitar la comunicación entre el personal discente, docente y administrativo;
+
+III. Organizar reuniones, sesiones informativas y eventos relacionados con el programa que regule la maestría en su modalidad mixta;
+
+IV. Colaborar con las secciones Académica y Pedagógica, con el fin de mejorar la calidad del programa;
+
+V. Mantener actualizados los registros, progresos académicos y aspectos relevantes del personal discente, y
+
+VI. Identificar riesgos en el funcionamiento de la plataforma web del plantel con el fin de gestionar mejoras al programa de las tecnologías de la información y comunicaciones de la maestría en su modalidad mixta.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. De los Coordinadores
 
 ###### ARTÍCULO 21.
 
-Los coordinadores son elementos del Ejército, Fuerza Aérea y Armada de México con el grado de Coroneles o Tenientes Coroneles o su equivalente en la Armada, Diplomados de Estado Mayor y quienes acreditan el Curso Superior de Guerra.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 22.
 
-Los coordinadores auxilian a los jefes de Sección de Estudios en los trabajos que les competen, quienes tienen las atribuciones y responsabilidades siguientes:
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
-I. La coordinación y conducción de las materias de estudio que les sean asignadas;
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-II. La elaboración de los programas de estudio de las materias de estudio que le sean asignadas;
+#### SECCIÓN TERCERA. De la Subsección de Control y Supervisión Académica
 
-III. Preparación del material bibliográfico y recursos didácticos, así como de los apoyos necesarios en la materialización y desarrollo de las materias de estudio bajo su responsabilidad;
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Recomendar a los jefes de las secciones, los conferencistas militares y civiles que puedan participar en el desarrollo de las materias de estudio;
+###### ARTÍCULO 22 Bis.
 
-V. Recomendar a los jefes de las secciones, las modificaciones que se estimen necesarias para la mejora de la enseñanza y de las materias de estudio a su cargo;
+La persona titular de la Subsección de Control y Supervisión Académica, que debe tener el grado de Coronel de Arma o Servicio De Estado Mayor, contar con estudios de pedagogía o afines, con certificación en enseñanza por competencias, y es responsable de auxiliar a la persona titular de la Jefatura de la Sección Académica respecto de las funciones relacionadas con el desarrollo de los estudios, conforme a los planes y programas correspondientes.
 
-VI. Realizar continua y metódicamente trabajos de análisis sobre las materias de estudio que tengan relación con la seguridad y defensa nacionales, y
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Recomendar a los jefes de las secciones, bibliografía que apoye las materias de estudio.
+###### ARTÍCULO 22 Ter.
 
-### CAPÍTULO V. De la Sección de Relaciones Públicas y Difusión Cultural
+La persona titular de la Subsección de Control y Supervisión Académica tiene las facultades siguientes:
+
+I. Auxiliar a la persona titular de la Jefatura de la Sección Académica en todas las funciones relacionadas con el desarrollo de los estudios, conforme a los planes y programas correspondientes;
+
+II. Supervisar el desarrollo de las actividades académicas y control del personal docente;
+
+III. Proponer a la Sección de Estudios la contratación de personal docente que cuente con un perfil adecuado, y
+
+IV. Proponer a la Sección de Estudios las medidas efectivas para el control y supervisión académica.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN CUARTA. Del Grupo de Control Docente
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 22 Quater.
+
+La persona titular del Grupo de Control Docente debe tener el grado de Capitán Primero con licenciatura en pedagogía o estudios afines.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 22 Quinquies.
+
+La persona titular del Grupo de Control Docente, tiene las facultades siguientes:
+
+I. Organizar el proceso de selección y control del personal docente;
+
+II. Supervisar que la totalidad del personal docente esté oportunamente en sus actividades;
+
+III. Formular los contratos del personal docente;
+
+IV. Llevar el control diario de asistencia del personal docente y las estadísticas semanales, mensuales, semestrales y anuales, y
+
+V. Dar seguimiento al desempeño profesional y académico del personal docente.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN QUINTA. De la Coordinación de las Unidades de Aprendizaje
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 22 Sexies.
+
+La persona titular de la Coordinación de las Asignaturas, que debe tener el grado de Capitán Segundo Licenciado en Pedagogía o con estudios afines, y es el responsable de diversas tareas relacionadas con la planificación, organización y supervisión de las asignaturas dentro de un programa educativo.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 22 Septies.
+
+La persona titular de la Coordinación de las Asignaturas tiene las facultades siguientes:
+
+I. Elaborar, revisar y actualizar los planes de estudio;
+
+II. Coordinar los horarios y asignación de recursos para las asignaturas;
+
+III. Colaborar con el personal docente en el diseño de actividades de enseñanza y evaluación;
+
+IV. Supervisar el desarrollo y la implementación de las asignaturas;
+
+V. Evaluar el progreso del personal discente, y
+
+VI. Servir como enlace entre el personal docente y discente con el fin de identificar problemas relacionados con las asignaturas que cursan.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEXTA. De la Coordinación de Idiomas
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 22 Octies.
+
+La persona titular de la Coordinación de Idiomas se encarga de gestionar y supervisar todas las actividades relacionadas con la enseñanza y el aprendizaje de idiomas dentro de este plantel, así como las facultades siguientes:
+
+I. Coordinar y supervisar la aplicación de la evaluación diagnóstica al ingreso del personal discente para determinar el nivel del dominio del idioma inglés conforme a los parámetros establecidos;
+
+II. Desarrollar y revisar los programas de estudio de idiomas;
+
+III. Seleccionar materiales didácticos y recursos de enseñanza;
+
+IV. Planificar y organizar los cursos de idiomas;
+
+V. Supervisar al personal docente de idiomas;
+
+VI. Implementar las metodologías de enseñanza efectivas;
+
+VII. Evaluar los progresos del personal discente en el aprendizaje de idiomas, y
+
+VIII. Coordinar las actividades extracurriculares relacionadas con los idiomas en clubes de conversación, intercambios culturales, y demás organizaciones de aprendizaje de idiomas.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN SÉPTIMA. De la Subsección de Educación Física y Deportes
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 22 Nonies.
+
+La persona titular de la Subsección de Educación Física y Deportes, que debe tener el grado de Capitán Primero de Educación Física y Deportes, se encarga de coordinar todas las actividades relacionadas con la enseñanza y la práctica de física y deportes dentro de este plantel, y tiene las facultades siguientes:
+
+I. Desarrollar y actualizar el currículo de educación física;
+
+II. Planificar y organizar las clases y actividades deportivas;
+
+III. Supervisar el mantenimiento de equipos y materiales deportivos;
+
+IV. Organizar eventos deportivos y de competiciones, y
+
+V. Coordinar los programas de entrenamiento y desarrollo deportivo.
+
+La persona titular de la Subsección de Educación Física y Deportes para el ejercicio de sus facultades se auxilia de los grupos de Programación y Evaluación, y el de Gimnasio, cuyas funciones se especifican en el Manual de Organización y Funcionamiento del Colegio de Defensa Nacional.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN OCTAVA. De la Subsección de Apoyos Didácticos
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 22 Decies.
+
+La persona titular de la Subsección de Apoyos Didácticos debe tener el grado de Capitán Primero Oficinista, así como las facultades siguientes:
+
+I. Supervisar que el inventario de apoyos didácticos para la maestría en seguridad nacional se encuentre disponible en las aulas, así como en buen estado de funcionamiento;
+
+II. Brindar apoyo técnico al personal docente en el uso efectivo de los recursos didácticos en el aula que corresponda;
+
+III. Organizar periódicamente sesiones de capacitación para el personal docente sobre cómo integrar los apoyos didácticos en sus planes y programas de estudio;
+
+IV. Evaluar la efectividad de los recursos didácticos utilizados y recopilar retroalimentación del personal docente y discente para mejorarlos continuamente, y
+
+V. Estar en coordinación con las secciones Académica y Pedagógica, para garantizar una integración efectiva de los recursos didácticos en el currículo de asignaturas.
+
+La persona titular de la Subsección de Apoyos Didácticos para el ejercicio de sus facultades se auxilia de los grupos de Fotografía, Autográfico, Biblioteca y el de Diseño y Soporte Multimedia, cuyas funciones se especifican en el Manual de Organización y Funcionamiento del Colegio de Defensa Nacional.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO V. De la Sección de Investigación y Doctrina
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. De la Jefatura
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 23.
 
-La Sección de Relaciones Públicas y Difusión Cultural está a cargo de un Coronel Diplomado de Estado Mayor que tiene acreditada la maestría en Administración Militar para la Seguridad y Defensa Nacionales, cuyas atribuciones y responsabilidades son las siguientes:
+La persona titular de la Jefatura de la Sección de Investigación y Doctrina, que debe tener el grado de Coronel de Arma o Servicio De Estado Mayor contar con maestría en seguridad nacional y ser egresada de este plantel, tiene las facultades siguientes:
 
-I. Dirigir la elaboración e impresión del material académico y su entrega oportuna al personal directivo, cursante y coordinadores;
+I. Proponer para su difusión el material que contenga temas de interés acerca de la seguridad nacional;
 
-II. Planear y coordinar los eventos sociales y culturales que se desarrollan en el plantel;
+II. Analizar las publicaciones que contengan información relacionada con la seguridad nacional;
 
 III. Coordinar el funcionamiento y operación de la biblioteca, taller autográfico, grupos de dibujo y fotografía;
 
-IV. Administrar los apoyos didácticos;
+IV. Elaborar la información escrita, gráfica, video gráfica y de audio que debe difundirse al personal de las Fuerzas Armadas;
 
-V. Elaborar la información escrita, gráfica, videográfica y de audio que debe difundirse al personal de las Fuerzas Armadas;
+V. Dirigir la elaboración e impresión del material académico y su entrega oportuna al personal directivo y discente, así como a la persona titular de la Coordinación de las Asignaturas;
 
-VI. Proponer para su difusión, el material que contenga temas de interés acerca de seguridad y defensa nacionales;
+VI. Planear y coordinar los eventos sociales y culturales que se desarrollan en el plantel;
 
-VII. Analizar las publicaciones que contengan información relacionada con la seguridad y defensa nacionales;
+VII. Para el desempeño de su cometido cuenta con talleres del plantel, así como el apoyo del personal docente, diseñadores gráficos y asesores;
 
-VIII. Satisfacer los requerimientos de los conferencistas y cursantes en ayudas didácticas para el desarrollo de las materias de estudio en coordinación con los jefes de sección, y
+VIII. Preparar los asuntos relacionados con sus funciones para acuerdo con la persona titular de la Dirección del plantel, por conducto de la persona titular de la Subdirección;
 
-IX. Para el desempeño de su cometido cuenta con el apoyo del personal de coordinadores y los talleres del plantel.
+IX. Promover la investigación con el personal discente y docente respecto a los temas de seguridad nacional, con el fin de producir doctrina, así como analizar las publicaciones en dichos temas;
+
+X. Desarrollar métodos y guías para los trabajos de investigación en temas de seguridad nacional;
+
+XI. Investigar y proponer bibliografía especializada para facilitar herramientas de análisis y otros recursos necesarios para la investigación, y
+
+XII. Promover la producción de artículos para ser publicados en revistas de divulgación y revistas de alto impacto o especializadas en temas de seguridad nacional;
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. De la Subsección de Investigación
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 24.
 
-La Subsección de Eventos y Relaciones Públicas es el órgano encargado de auxiliar al jefe de la sección en todos los aspectos relacionados con los eventos y relaciones públicas a cargo de un Teniente Coronel Diplomado de Estado Mayor, a quien se denomina Jefe de la Subsección de Eventos y Relaciones Públicas.
+La persona titular de la Subsección de Investigación, que debe tener el grado de Capitán Primero de Arma o Servicio De Estado Mayor, tiene las facultades siguientes:
+
+I. Auxiliar a la Jefatura de la Sección de Investigación y Doctrina en todos los aspectos relacionados con sus atribuciones de investigación;
+
+II. Revisar y proponer las líneas de investigación académica del plantel;
+
+III. Proponer y organizar proyectos de investigación académica;
+
+IV. Desarrollar las guías para la elaboración de los trabajos de investigación académica, y
+
+V. Participar en trabajos editoriales y producción de ensayos de investigación académica.
+
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA], D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN TERCERA. De la Subsección de Doctrina
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 25.
 
-La Subsección de Difusión Cultural es el órgano encargado de auxiliar al Jefe de la Sección en la difusión cultural del Colegio de Defensa Nacional, a cargo de un Teniente Coronel Diplomado de Estado Mayor, a quien se denomina Jefe de la Subsección de Difusión Cultural.
+La persona titular de la Subsección de Doctrina, que debe tener el grado de Capitán Primero de Arma o Servicio De Estado Mayor, y tiene las facultades siguientes:
+
+I. Auxiliar a la Jefatura de la Sección de Investigación y Doctrina en todos los aspectos relacionados con sus atribuciones de doctrina;
+
+II. Revisar, junto con la persona titular de la Jefatura de la Sección de Investigación y Doctrina, el marco teórico doctrinario vigente sobre temas de seguridad nacional;
+
+III. Seleccionar bibliografía, revistas y otras publicaciones con contenidos relacionados sobre la seguridad nacional, susceptibles de ser difundidos;
+
+IV. Analizar los trabajos académicos que produce el plantel para proponer aquellos que se puedan incorporar a la actualización de la doctrina en nuestro país;
+
+V. Verificar que los trabajos de investigación del personal discente por graduarse incluyan una síntesis en versión pública, y proponer su difusión al personal directivo, y
+
+VI. Revisar y proponer cada tres años la actualización de la planilla orgánica del plantel, el presente reglamento, y los manuales de organización y funcionamiento, así como el de procedimientos del plantel.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN CUARTA. De la Subsección de Investigadores y Asesores
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 25 Bis.
+
+La persona titular de la Subsección de Investigadores y Asesores, que debe tener el grado de Teniente Coronel de Arma o Servicio De Estado Mayor, y tiene las facultades siguientes:
+
+I. Coordinar con el personal de asesores e investigadores del plantel la elaboración de trabajos de investigación sobre temas específicos relacionados con la seguridad nacional, a fin de generar doctrina;
+
+II. Elaborar y someter a consideración de la persona titular de la Dirección del plantel el programa de producción de trabajos de investigación sobre temas específicos relacionados con la seguridad nacional, y
+
+III. Elaborar y difundir artículos de temas de alto impacto relacionados con los trabajos de investigación señalados en la fracción anterior.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN QUINTA. De la Subsección de Difusión Cultural, Convenios, Relaciones Públicas y Estudios de Extensión Académica
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 25 Ter.
+
+La persona titular de la Subsección de Difusión Cultural, Convenios, Relaciones Públicas y Estudios de Extensión Académica, que debe tener el grado de Teniente Coronel de Arma o Servicio De Estado Mayor, y tiene las facultades siguientes:
+
+I. Auxiliar a la persona titular de la Jefatura de la Sección de Investigación y Doctrina en todos los aspectos relacionados a sus atribuciones;
+
+II. Efectuar la difusión de eventos culturales;
+
+III. Llevar a cabo la coordinación con instituciones educativas nacionales e internacionales para efectuar convenios académicos que sean convenientes para este plantel;
+
+IV. Promover las relaciones públicas con instituciones y organismos de carácter educativo superior con el fin de realizar intercambios académicos;
+
+V. Coordinar cursos, talleres y conferencias en los temas de su competencia;
+
+VI. Proponer y gestionar los recursos presupuestales para eventos culturales, y
+
+VII. Mantener comunicación con el personal discente y docente para informar sobre oportunidades académicas en instituciones externas a este plantel.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPÍTULO VI. De los Asesores
 
 ###### ARTÍCULO 26.
 
-Los asesores del Colegio de Defensa Nacional son elementos militares y civiles de reconocida capacidad profesional, especializados en diferentes materias de estudio y asuntos jurídicos, su designación es hecha directamente por el Alto Mando del Ejército y Fuerza Aérea a propuesta del Director del plantel; su función específica es la de asesorar al personal directivo, docente y de cursantes en aspectos de su especialidad que tienen relación con los temas que contemplan los planes de estudio.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPÍTULO VII. De los Investigadores
 
 ###### ARTÍCULO 27.
 
-Los investigadores del Colegio de Defensa Nacional son personal militar y civil de reconocida capacidad profesional, especializados en diferentes materias de estudio, su designación es hecha directamente por el Alto Mando del Ejército y Fuerza Aérea a propuesta del Director del plantel; su función específica es la de investigar aspectos de su especialidad que tienen relación con los temas que contemplan los planes y programas de estudio.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPÍTULO VIII. Del Personal Cursante
 
 ###### ARTÍCULO 28.
 
-Se denomina cursante al personal que habiendo satisfecho los requisitos previstos en el presente Reglamento se encuentre realizando los estudios correspondientes al curso de Administración Militar para la Seguridad y Defensa Nacionales o cualquier otro que se imparta en el plantel, por las circunstancias siguientes:
-
-I. Los miembros del Ejército y Fuerza Aérea Mexicanos que hayan sido seleccionados por el Alto Mando de dichas Fuerzas Armadas;
-
-II. Los miembros de la Armada de México que hayan sido designados por el Alto Mando de dicha Fuerza Armada por invitación expresa del Secretario de la Defensa Nacional los cuales deberán ajustarse a las normas que establece el presente Reglamento, y
-
-III. El personal civil de los sectores público o privado que conforme al procedimiento que se establezca, hayan sido invitados por la Secretaría de la Defensa Nacional.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 29.
 
-Al grupo de cursantes que en cada ciclo lectivo realicen el curso para acreditar la maestría en Administración Militar para la Seguridad y Defensa Nacionales o cualquier otro curso que se imparta en el plantel, se le denomina antigüedad y se le identifica con el número ordinal progresivo que le corresponde y el nombre del curso.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 30.
 
-El militar perteneciente al Ejército y Fuerza Aérea Mexicanos de la clase de arma más antiguo entre los de mayor grado de cada antigüedad, es designado como jefe de la misma y es el conducto por medio del cual el personal directivo y docente del plantel mantiene comunicación con los cursantes para todo tipo de disposiciones y asuntos relativos a las actividades académicas y del servicio.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 31.
 
-El militar cursante perteneciente al Ejército, Fuerza Aérea o Armada de menor grado y antigüedad, es designado como secretario del grupo y es el encargado de auxiliar al jefe de éste en todas las actividades académicas relacionadas con el curso.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
 ### CAPÍTULO IX. De la Ayudantía General
 
+> <small>(ADICIONADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. De la Jefatura
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 32.
 
-La Jefatura de la Ayudantía General está a cargo de un Coronel de arma y recibe la denominación de Ayudante General.
+La persona titular de la Ayudantía General, que debe tener el grado de Coronel de Arma, tiene las mismas facultades y responsabilidades que las leyes y reglamentos militares en vigor determinan para el Ayudante de las Unidades de Tropa del Ejército y Fuerza Aérea Mexicanos y además las siguientes:
+
+I. Desempeñar las funciones de comandante de los elementos de los diferentes servicios y especialidades de la planta, y los que integran la unidad de Servicios Técnicos y Generales del plantel, así como dirigir el adiestramiento de este personal;
+
+II. Proponer a la persona titular de la Subdirección los asuntos relacionados con sus funciones para acuerdo de este con la Dirección del plantel;
+
+III. Vigilar el funcionamiento de los servicios interiores del plantel y proponer a la persona titular de la Dirección las medidas correspondientes para mejorarlos;
+
+IV. Vigilar la disciplina del personal de la planta en el interior del plantel y en todos los actos del servicio;
+
+V. Nombrar los servicios de arma y de especialidad, coordinándose con las personas titulares de las jefaturas de sección, cuando dichos servicios afecten las actividades académicas;
+
+VI. Elaborar la orden particular del plantel;
+
+VII. Coordinar y supervisar los trabajos de mantenimiento y reparación de los bienes muebles y la construcción de los inmuebles del plantel;
+
+VIII. Rendir un informe escrito y gráfico de los daños ocasionados por cualquier siniestro al personal directivo y realizar el procedimiento de activación de la póliza del seguro de bienes inmuebles, y
+
+IX. Elaborar y controlar el inventario de todo el material a cargo de las escuadras de los servicios técnicos y generales, así como de los talleres del pelotón de ingenieros.
+
+La persona titular de la Ayudantía General para el ejercicio de sus facultades se auxilia de los Servicios Técnicos y Generales, Escuadras de Transmisiones, Transportes, Materiales de Guerra y de la Peluquería, cuyas funciones se especifican en el Manual de Organización y Funcionamiento del Colegio de Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 33.
 
-El Ayudante General tiene las mismas atribuciones y responsabilidades que las leyes y reglamentos militares en vigor determinan para el Ayudante de las Unidades de Tropa del Ejército y Fuerza Aérea Mexicanos y además las siguientes:
-
-I. Desempeñar las funciones de Comandante de los elementos de los diferentes servicios y especialidades de la planta y los que integran la unidad de servicios generales, así como dirigir el adiestramiento de este personal;
-
-II. Vigilar el eficiente funcionamiento de los servicios interiores del plantel y proponer al Director las medidas correspondientes para mejorarlos;
-
-III. Vigilar el mantenimiento de la disciplina del personal de la planta en el interior del plantel y en todos los actos del servicio;
-
-IV. Nombrar los servicios de arma y económicos, coordinándose con los jefes de sección cuando dichos servicios afecten las actividades académicas;
-
-V. Vigilar que se formule la orden particular del plantel;
-
-VI. Coordinar y supervisar los trabajos de mantenimiento, reparación y construcción de los bienes muebles e inmuebles, y
-
-VII. Controlar los bienes inmuebles del plantel.
+La persona titular de la Ayudantía General puede auxiliarse con las personas con el grado de Capitán y de Teniente de Arma, las cuales deben cumplir con las funciones que corresponde a los subayudantes de un Cuerpo de Tropa, de conformidad con las leyes y reglamentos militares.
 
 ###### ARTÍCULO 34.
 
-El Ayudante General para el desempeño de sus funciones es auxiliado por dos tenientes de arma quienes cumplen con las atribuciones y responsabilidades que les corresponden a los subayudantes de un Cuerpo de Tropa, de conformidad con las leyes y reglamentos militares.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. Del Pelotón de Ingenieros
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 34 Bis.
+
+La persona titular del Pelotón de Ingenieros, que debe tener el grado de Teniente Ingeniero en Construcción Militar o de Zapadores, tiene las facultades siguientes:
+
+I. Tener a su cargo los talleres de electricidad, plomería, pintura, albañilería, carpintería y jardinería, y mantener el control disciplinario del personal de estos;
+
+II. Verificar e informar a la Jefatura de la Ayudantía General, el estado de conservación de las instalaciones y coordinar los talleres a su cargo para el mantenimiento correspondiente, y
+
+III. Gestionar la adquisición del material necesario para los trabajos de los diferentes talleres a su cargo.
+
+La persona titular del Pelotón de Ingenieros para el ejercicio de sus facultades se auxilia de los talleres de Electricidad, Plomería, Albañilería, Pintura, Carpintería y de Jardinería, cuyas funciones se especifican en el Manual de Organización y Funcionamiento del Colegio de Defensa Nacional.
 
 ### CAPÍTULO X. De la Sección Administrativa
 
+> <small>(ADICIONADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN PRIMERA. De la Jefatura
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 35.
 
-La Sección Administrativa del Colegio de Defensa Nacional es el órgano de apoyo administrativo del plantel a cargo de un Jefe o Capitán Oficinista, a quien se denomina Jefe de la Sección Administrativa.
+La persona titular de la Jefatura de la Sección Administrativa del Colegio de Defensa Nacional debe tener el grado de Mayor Oficinista.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 36.
 
-El Jefe de la Sección Administrativa tiene encomendada la tramitación de los asuntos administrativos, de acuerdo con lo previsto para los jefes de las oficinas similares de las unidades y dependencias del Ejército y Fuerza Aérea Mexicanos, además desempeña las atribuciones y responsabilidades siguientes:
+La persona titular de la Sección Administrativa tiene las facultades siguientes:
 
-I. Preparar los asuntos para acuerdo del Director del plantel en materia administrativa;
+I. Preparar los asuntos relacionados con sus funciones, para acuerdo con la persona titular de la Dirección del plantel por conducto de la persona titular de la Subdirección;
 
-II. Coordinar y supervisar los trabajos encomendados a la sección por el Director del plantel;
+II. Coordinar y supervisar los trabajos asignados a la Sección por el personal directivo del plantel;
 
-III. Controlar y mantener actualizados los expedientes del personal del plantel;
+III. Controlar y mantener actualizados los expedientes administrativos del personal del plantel;
 
 IV. Controlar el archivo del plantel;
 
-V. Llevar el control administrativo del depósito general del Colegio de Defensa Nacional;
+V. Supervisar el control administrativo del depósito general del plantel;
 
-VI. Controlar administrativamente el pago de haberes y demás emolumentos del personal del Colegio de Defensa Nacional, y
+VI. Controlar administrativamente el pago de haberes y demás emolumentos del personal del plantel, y
 
 VII. Supervisar el control de los bienes muebles del plantel.
+
+La persona titular de la Sección Administrativa para el ejercicio de sus facultades se auxilia de los grupos de Personal, Recursos Materiales, Presupuesto y Contabilidad, Archivo General y del Grupo de Enlace, cuyas funciones se especifican en el Manual de Organización y Funcionamiento del Colegio de Defensa Nacional.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN SEGUNDA. De la Oficina de Calidad
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 36 Bis.
+
+La persona titular de la Oficina de Calidad, que debe tener el grado de Capitán Segundo Oficinista, tiene las facultades siguientes:
+
+I. Asesorar a la persona titular de la Dirección en lo concerniente a los aspectos de calidad;
+
+II. Intervenir en las políticas y procedimientos para la gestión y mejora de procesos y servicios;
+
+III. Auxiliar a las diferentes áreas del plantel en la elaboración, ejecución, administración de proyectos, planes y programas relativos a la calidad;
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 36 Bis (SIC).- La persona titular de la Oficina de Calidad para el desempeño de sus funciones cuenta con:
+
+I. Grupo de planeación y coordinación, a cargo de un elemento de tropa con el grado de Sargento Primero Oficinista, quien debe coordinar, implementar, administrar, elaborar, participar y apoyar a las secciones y subsecciones en la elaboración y ejecución de proyectos, planes y programas, y
+
+II. Grupo de Evaluación y Seguimiento, a cargo de un elemento de tropa con el grado de Sargento Primero Oficinista, quien debe administrar, intervenir, establecer, aplicar y dar seguimiento a mecanismos de control en los procedimientos que realiza la Oficina de Calidad.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPÍTULO XI. Del Ayudante Particular del Director
 
 ###### ARTÍCULO 37.
 
-La Ayudantía Particular del Director está a cargo de un Teniente Coronel o Mayor Diplomado de Estado Mayor, quien se encarga de auxiliar al Director en la coordinación de audiencias y visitas, en el manejo del acuerdo diario y en el trámite de asuntos de carácter oficial.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPÍTULO XII. Del Secretario Particular
 
 ###### ARTÍCULO 38.
 
-El Secretario Particular del Director es un oficial oficinista encargado de recibir, tramitar y despachar la correspondencia personal y demás asuntos oficiales y particulares que se le encomiendan.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPÍTULO XIII. De la Unidad Ejecutora de Pago
 
 ###### ARTÍCULO 39.
 
-La Unidad Ejecutora de Pago del Colegio de Defensa Nacional, está a cargo de un Jefe o Capitán Pagador militar, nombrado por el Alto Mando, a quien se denomina Jefe de la Unidad Ejecutora de Pago.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
 ###### ARTÍCULO 40.
 
-El Jefe de la Unidad Ejecutora de Pago del plantel tiene la responsabilidad de proporcionar el servicio de pago de haberes y demás percepciones al personal del mismo, de conformidad con las disposiciones legales aplicables y directivas que emita el Secretario de la Defensa Nacional.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ### CAPÍTULO XIV. Del Personal de los Servicios
 
 ###### ARTÍCULO 41.
 
-Constituido por el personal de los diferentes servicios que apoyan el funcionamiento del plantel, realizan las actividades de servicio que se requiere en sus diferentes especialidades, para satisfacer las necesidades de vida interior del plantel; se rigen según el servicio a que pertenezca, por el reglamento correspondiente y las disposiciones técnicas que normen su funcionamiento, además se organiza una unidad de servicios generales bajo la responsabilidad de la Ayudantía General.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
-### CAPÍTULO XV. Del Consejo Pedagógico
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO XV. De la Junta Técnica Consultiva
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 42.
 
-El Consejo Pedagógico es un órgano técnico de consulta y asesoría que auxilia al Director del plantel en asuntos pedagógicos y está integrado en la forma siguiente:
+La Junta Técnica Consultiva es un órgano técnico de consulta y asesoría que auxilia a la persona titular de la Dirección del plantel en asuntos académicos y pedagógicos y está integrada en la forma siguiente:
 
 I. De manera permanente, por:
 
-A. Presidente:
+A. La presidencia, a cargo de la persona titular de la Subdirección del Colegio de Defensa Nacional;
 
-El Subdirector del Colegio de Defensa Nacional.
+B. Vocales, a cargo de las personas titulares de las jefaturas de las secciones Pedagógica, Académica, Investigación y Doctrina y Subsección psicopedagógica, y
 
-B. Vocales:
-
-a. El Jefe de la Sección Pedagógica, y
-
-b. Los Jefes de las Secciones de Estudios.
-
-C. El Secretario es el vocal de menor grado y antigüedad.
+C. La Secretaría, a cargo de la persona vocal de menor grado y antigüedad, y
 
 II. De manera transitoria o eventual, por:
 
-El personal de asesores militares y civiles, mismos que concurrirán parcial o totalmente a orden o petición del presidente del consejo en asuntos que sean de su competencia.
+El personal asesor militar y civil que concurra por orden o a petición de la persona titular de la Presidencia de la Junta Técnica Consultiva, en asuntos que sean de su competencia.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 43.
 
-Las atribuciones y responsabilidades del Consejo Pedagógico son las siguientes:
+La Junta Técnica Consultiva tiene las facultades siguientes:
 
-I. Asesorar al Director en los cambios necesarios de la organización y funcionamiento de los cursos;
+I. Asesorar a la persona titular de la Dirección en los cambios necesarios de la organización y funcionamiento de los estudios que se imparten en el plantel;
 
-II. Asesorar al Director en la revisión de los manuales, compendios y material bibliográfico en apoyo de las actividades de investigación y enseñanza recomendando los ajustes necesarios;
+II. Asesorar a la persona titular de la Dirección en la revisión de los manuales, compendios y material bibliográfico de apoyo de las actividades de investigación y enseñanza que se realizan en el plantel, así como recomendar los ajustes necesarios;
 
-III. Asesorar al Director en la revisión de los planes y programas de estudio que sobre seguridad y defensa nacionales se apliquen en el plantel, tendientes a mejorar los procesos de investigación para la formulación de doctrina y método sobre estos aspectos;
+III. Asesorar a la persona titular de la Dirección en la revisión de los planes y programas de estudio que se imparten en el plantel, tendientes a mejorar los procesos de investigación para la formulación de doctrina y método sobre estos procesos;
 
-IV. Asesorar al Director en la revisión de los sistemas de trabajo del personal docente y cursante para mantener en óptimos niveles de investigación las actividades académicas;
+IV. Asesorar a la persona titular de la Dirección en la revisión de los sistemas de trabajo del personal docente y discente para mantener en óptimos niveles de investigación las actividades académicas;
 
-V. Asesorar al Director en la elaboración de trabajos que el Alto Mando del Ejército y Fuerza Aérea asigne al colegio para su estudio e investigación, relacionados con la seguridad y defensa nacionales;
+V. Asesorar a la persona titular de la Dirección en la elaboración de trabajos que el Alto Mando del Ejército y Fuerza Aérea asigne al plantel, para su estudio e investigación relacionados con la seguridad nacional;
 
-VI. Proponer al Director los temas o asuntos motivo de investigación, que se considere conveniente deban ser difundidos a las Fuerzas Armadas;
+VI. Proponer a la persona titular de la Dirección los temas o asuntos motivo de investigación, que se considere conveniente deban ser difundidos a las Fuerzas Armadas;
 
-VII. Proponer al Director el otorgamiento de premios y recompensas a que se haga acreedor el personal del plantel, conforme a las leyes y reglamentos militares en vigor;
+VII. Proponer a la persona titular de la Dirección el otorgamiento de premios y recompensas a que se haga acreedor el personal del plantel, conforme a las leyes y reglamentos militares aplicables;
 
-VIII. Proponer al Director del plantel la baja del o los cursantes por motivos académicos, y
+VIII. Proponer a la persona titular de la Dirección la baja del personal discente por motivos académicos, y
 
-IX. Asesorar al Director en la solución de asuntos pedagógicos que éste ordene.
+IX. Asesorar a la persona titular de la Dirección en la solución de asuntos pedagógicos que este ordene.
 
 ## TÍTULO CUARTO. Del Personal
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 44.
 
-El personal del Colegio de Defensa Nacional se clasifica como sigue:
+El Colegio de Defensa Nacional tiene el personal siguiente:
 
-I. Directivo:
+I. Personal directivo:
 
-A. Director, y
+A. La persona titular de la Dirección, y
 
-B. Subdirector.
+B. La persona titular de la Subdirección;
 
-II. Docente:
+II. Personal docente:
 
-A. Jefe de la Sección Pedagógica;
+A. Las personas asesoras e investigadoras docentes, y
 
-B. Jefes de las secciones de Estudios;
+B. Las personas conferencistas;
 
-C. Jefe de la Sección de Relaciones Públicas y Difusión Cultural;
+III. Personal discente:
 
-D. Coordinadores;
+A. Al personal a que se refiere el artículo 44 Bis de este reglamento;
 
-E. Asesores, y
+IV. Personal de apoyo a la Educación, los titulares de:
 
-F. Investigadores.
+A. La Sección Pedagógica;
 
-III. Cursantes:
+B. La Sección Académica;
 
-El personal de generales, jefes y civiles que realizan cualquiera de los cursos que se imparten en el plantel.
+C. La Sección de Investigación y Doctrina;
 
-IV. Administrativo:
+D. La Ayudantía General, y
 
-A. Jefe de la Sección Administrativa;
+E. La Sección Administrativa, y
 
-B. Ayudante General;
+V. Personal de apoyo a la educación, constituido por el personal de los servicios técnicos y generales, así como aquel otro no incluido en las fracciones anteriores de este artículo.
 
-C. Ayudante Particular del Director;
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-D. Secretario Particular del Director;
+###### ARTÍCULO 44 Bis.
 
-E. Subayudantes, y
+Se denomina discente al personal que cursa la maestría en seguridad nacional en el plantel, en modalidad presencial o mixta. Este personal puede proceder de:
 
-F. Jefe de la Unidad Ejecutora de Pago.
+I. Las personas integrantes del Ejército y Fuerza Aérea Mexicanos que hayan sido seleccionados por el Alto Mando;
 
-V. De la planta, está constituido por el personal de los servicios técnicos, administrativos y generales y aquel otro no incluido en la clasificación anterior.
+II. Las personas integrantes de la Armada de México que hayan sido designadas por el Alto Mando de dicha Fuerza Armada por invitación expresa de la persona titular de la Secretaría de la Defensa Nacional, las cuales deben ajustarse a las normas que establece el presente reglamento;
+
+III. Las personas civiles de los sectores público o privado, que conforme al procedimiento que se establezca, hayan sido invitadas por la Secretaría de la Defensa Nacional;
+
+IV. Las personas extranjeras, que conforme al procedimiento que se establezca, hayan sido invitadas por la Secretaría de la Defensa Nacional, y
+
+V. Las personas civiles independientes, que cubran los requisitos que establece el presente reglamento.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 44 Ter.
+
+Al grupo de personas discentes que en cada ciclo lectivo realicen estudios en el plantel, se les denomina antigüedad y se le identifica con el número ordinal progresivo que le corresponde y el nombre del estudio que se trate.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 44 Quater.
+
+La Jefatura de la antigüedad está a cargo de la persona militar discente de la clase de Arma con mayor grado y tiempo de servicios. La persona titular de la Jefatura de la antigüedad es la responsable de mantener la comunicación entre el personal directivo y docente del plantel con el personal discente de su antigüedad para difundir las disposiciones y asuntos relativos a sus actividades académicas y del servicio.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 44 Quinquies.
+
+La persona militar discente con menor grado y tiempo de servicios tiene a su cargo la Secretaría de la antigüedad y es la encargada de auxiliar a la persona titular de la Jefatura de la antigüedad en todas las actividades académicas relacionadas con sus estudios.
 
 ## TÍTULO QUINTO. De la Admisión
 
 ### CAPÍTULO I. Del Personal del Ejército y Fuerza Aérea Mexicanos
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 45.
 
-El personal del Ejército y Fuerza Aérea Mexicanos que es designado para realizar el curso de Administración Militar para la Seguridad y Defensa Nacionales, debe reunir los requisitos siguientes:
+El personal del Ejército y Fuerza Aérea Mexicanos, de la Armada de México y civiles que sean designados por la Secretaría de la Defensa Nacional o la Secretaría de Marina, según corresponda, para realizar la maestría en seguridad nacional, deben reunir el perfil de ingreso siguiente:
+
+I. Conocimientos:
+
+A. Contar con una licenciatura en áreas afines a la seguridad nacional;
+
+B. Manejar herramientas metodológicas para la investigación, y
+
+C. Distinguir conceptos de Defensa Nacional, Seguridad Interior y Seguridad Pública;
+
+II. Habilidades para:
+
+A. Manejo de información;
+
+B. Dominio de idioma inglés en un 60% como mínimo;
+
+C. Trabajo colaborativo;
+
+D. Toma de decisiones;
+
+III. Actitudes:
+
+A. Pensamiento estratégico;
+
+B. Pensamiento crítico, y
+
+C. Pensamiento innovador, y
+
+IV. Contar con buena salud física y mental.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 45 Bis.
+
+El personal del Ejército y Fuerza Aérea Mexicanos designado para realizar la maestría en seguridad nacional debe reunir los requisitos siguientes:
 
 I. Haber egresado de una escuela militar de formación;
 
 II. Tener el grado de General Brigadier, General de Grupo o Coronel a su ingreso al plantel;
 
-III. El personal de la clase de arma debe tener acreditado el curso de Mando y Estado Mayor;
+III. No tener carpeta de investigación integrada en su contra, y
 
-IV. El personal de la clase de servicio debe tener acreditado el curso de Mando y Estado Mayor o una licenciatura;
-
-V. Los procedentes de arma, haber ejercido el mando de unidades tipo corporación o unidad similar en la Fuerza Aérea y los de servicio haber ejercido el mando en unidades, dependencias o instalaciones de su especialidad;
-
-VI. Contar con buena salud física y mental, y
-
-VII. De preferencia haber acreditado el curso Superior de Guerra o el curso Superior de Armas y Servicios.
+IV. Haber ejercido el mando de unidades tipo corporación o unidad similar en la Fuerza Aérea para el personal procedente de Arma y para el procedente de Servicio haber ejercido el mando en unidades, dependencias o instalaciones de su especialidad.
 
 ### CAPÍTULO II. Personal Invitado de la Armada de México
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 46.
 
-El personal de la Armada de México para realizar el curso de Administración Militar para la Seguridad y Defensa Nacionales, debe reunir los requisitos siguientes:
+El personal de la Armada de México para realizar la maestría en seguridad nacional, debe reunir los requisitos siguientes:
 
 I. Tener el grado de Contralmirante o Capitán de Navío;
 
-II. Tener la especialidad de Diplomado de Estado Mayor;
+II. Tener la especialidad De Estado Mayor;
 
-III. Haber ejercido el mando de unidades de superficie o sus equivalentes en tierra;
+III. Haber ejercido el mando de unidades de superficie o sus equivalentes en tierra, y
 
-IV. Contar con buena salud física y mental, y
+IV. Contar con buena salud física y mental.
 
-V. Preferentemente haber acreditado el curso Superior de Guerra del Ejército y Fuerza Aérea Mexicanos o su equivalente de la Armada de México.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-### CAPÍTULO III. Del Personal Civil Invitado
+### CAPÍTULO III. Del Personal Civil Invitado y Fuerzas Armadas Extranjeras
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 47.
 
-El personal civil invitado para asistir al curso de Administración Militar para la Seguridad y Defensa Nacionales, deberá pertenecer a la administración pública u otras instituciones privadas y además reunir los requisitos siguientes:
+El personal civil invitado para realizar la maestría en seguridad nacional debe pertenecer a la administración pública u otras instituciones privadas, y reunir los requisitos siguientes:
 
 I. Acreditar a su ingreso los estudios de nivel licenciatura y haber ejercido su profesión por un periodo mínimo de diez años;
 
@@ -667,249 +1281,337 @@ V. Ser mexicano de nacimiento, y
 
 VI. Contar con buena salud y con edad mínima de 35 años y máxima de 50 años.
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 48.
 
-El personal civil desde el momento de quedar a disposición para asistir al curso de Administración Militar para la Seguridad y Defensa Nacionales, estará sujeto a las disposiciones contempladas en el presente Reglamento por cuanto conviene a su condición de cursante para aspectos académicos, exceptuando los del ámbito de las leyes y reglamentos militares.
+El personal civil, desde el momento de ser aceptados para realizar la maestría en seguridad nacional queda sujeto a las disposiciones previstas en el presente reglamento respecto a su condición de discente para aspectos académicos, sin estar sujeto a las leyes y otros reglamentos militares.
 
-### CAPÍTULO I. Generalidades
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 48 Bis.
+
+El personal civil, cuando deje de pertenecer a la institución que lo haya postulado para realizar la maestría en seguridad nacional, puede continuar sus estudios, previa autorización del Alto Mando, y cubriendo personalmente los gastos que se generen.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+### CAPÍTULO IV. Del Personal Militar de Fuerzas Armadas Extranjeras
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 48 Ter.
+
+Al Alto Mando le corresponde autorizar el ingreso de personal militar extranjero, a solicitud del gobierno de su país ante el de México, por conducto de las secretarías de la Defensa Nacional y de Relaciones Exteriores, para efectuar estudios en el plantel y obtener la acreditación correspondiente.
+
+El personal militar extranjero, durante su estancia, queda sujeto a la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos y su reglamento, a la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, este reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 48 Quater.
+
+El personal militar extranjero invitado para asistir a la maestría en seguridad nacional debe cubrir los requisitos siguientes:
+
+I. Estar avalado por el gobierno de su país;
+
+II. Tener el grado de General o Coronel;
+
+III. Contar con buena salud física y mental, y
+
+IV. Dominar el idioma español en un 80% como mínimo.
 
 ## TÍTULO SEXTO. Del Proceso Enseñanza-Aprendizaje
 
-### CAPÍTULO II. De la Planeación
+### CAPÍTULO I. Generalidades
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 49.
 
-Por el nivel académico de este plantel, el proceso enseñanza-aprendizaje se basa en una metodología didáctica especial que proporciona al personal cursante el máximo de oportunidades para el desarrollo intelectual que les permita realizar, mediante el empleo de los métodos inductivo y deductivo, el análisis de hechos, teorías y leyes, a través de la adecuada combinación de cuatro fuentes de conocimiento: información oral; información escrita; investigación personal tanto individual como colectiva y preparación profesional y experiencia personal de cada uno de los participantes; lo que permitirá alcanzar los objetivos del curso.
+El proceso de enseñanza aprendizaje del plantel se basa en el modelo educativo establecido en el Plan General de Educación Militar.
 
-### CAPÍTULO III. De la Ejecución
+### CAPÍTULO II. De la Planeación
 
 ###### ARTÍCULO 50.
 
 Las directivas del Alto Mando del Ejército y Fuerza Aérea, el Plan General de Educación Militar y la misión del plantel serán las bases rectoras para formular:
 
-I. Los planes de estudio, y
+> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-II. Los programas de estudio de los cursos que se impartan en el colegio.
+I. Los planes de estudio;
+
+> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+II. Los programas de estudio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+III. Programa extracurricular, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Programa de actividades complementarias.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 51.
 
-Los planes y programas generales de estudio son la base para la elaboración de los programas de las materias de estudio en cada curso; en estos programas se establecen los niveles de conocimientos, métodos y técnicas para el análisis y la investigación, tiempos destinados para el efecto y número de créditos a ser alcanzados para acreditar tanto la maestría en Administración Militar para la Seguridad y Defensa Nacionales, como la terminación satisfactoria de otros cursos.
+En los planes y programas de estudio se establecen los niveles de conocimientos, métodos y técnicas para el análisis y la investigación, tiempos destinados para el efecto y número de créditos a ser alcanzados para acreditar la maestría, y cumplir con las actividades complementarias.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 52.
 
-Las disposiciones que comunique el Estado Mayor de la Defensa Nacional y la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea son la base para formular el calendario escolar del plantel; en él se establece la distribución de las principales actividades a realizar en cada año lectivo.
+Las disposiciones que comunique el Estado Mayor Conjunto de la Defensa Nacional y la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea son la base para formular el calendario escolar del plantel; en él se establece la distribución de las principales actividades a realizar en cada año lectivo.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 53.
 
-El calendario escolar así como los planes y programas de estudio quedan sujetos a la aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+El calendario escolar, así como, los planes y programas de estudio quedan sujetos a la aprobación de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 54.
 
-La distribución de tiempo para las actividades académicas es semanal y formulada por la Sección Pedagógica, de conformidad con los programas de estudio, el calendario escolar y las disposiciones del Director.
+La distribución de tiempo para las actividades académicas es semanal y formulada por la Sección Académica, de conformidad con los planes y programas de estudio, el calendario escolar y las disposiciones de la persona titular de la Dirección.
 
-### CAPÍTULO IV. De la Evaluación
+### CAPÍTULO III. De la Ejecución
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 55.
 
-El proceso de enseñanza-aprendizaje tendrá por finalidad capacitar al personal de cursantes con los conocimientos que permitan obtener los objetivos señalados para el curso.
+El proceso educativo tiene por finalidad capacitar al personal discente con los conocimientos, habilidades y actitudes que le permita lograr las competencias señaladas en los planes y programas de estudio.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 56.
 
-Las actividades académicas del curso en Administración Militar para la Seguridad y Defensa Nacionales y los cursos que se activen se ajustarán a los lineamientos establecidos en los planes de estudio y a los programas que de éstos se deriven, procurando orientarse a desarrollar en el cursante un espíritu de análisis e investigación, un juicio crítico en los diferentes temas a ser abordados, fomentar el trabajo de equipo para adoptar decisiones de alto nivel interdisciplinario y habilidades en la generación y producción de nuevas ideas y conceptos, todo relacionado con la seguridad y defensa nacionales.
+Las actividades académicas deben ajustarse a los lineamientos establecidos en los planes y programas de estudio que de estos se deriven.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 57.
 
-El desarrollo de los cursos comprende lo establecido en los planes y programas de estudio, de conformidad con las directivas giradas por el Alto Mando del Ejército y Fuerza Aérea a través del Estado Mayor de la Defensa Nacional y la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+Los estudios comprenden lo establecido en los planes y programas correspondientes, de conformidad con las directivas del Alto Mando del Ejército y Fuerza Aérea, emitidas a través del Estado Mayor Conjunto de la Defensa Nacional y la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
-### CAPÍTULO V. De las Tesis, Jurados y Exámenes Profesionales
+### CAPÍTULO IV. De la Evaluación
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 58.
 
-Los planes de estudio y los programas de las materias de estudio, constituyen la base de los conocimientos, motivo de evaluación para acreditar el curso de Administración Militar para la Seguridad y Defensa Nacionales, así como la acreditación de otros cursos, conforme a las disposiciones determinadas por la ley reglamentaria del artículo 5o. Constitucional relativa al ejercicio de las profesiones y a las disposiciones que al respecto gire el Alto Mando del Ejército y Fuerza Aérea.
+Los planes y programas de estudio constituyen la base de los conocimientos, motivo de evaluación para acreditar la maestría en seguridad nacional, así como la acreditación de otras asignaturas, conforme a las disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 59.
 
-Para evaluar el aprovechamiento del personal de cursantes será aplicado un sistema que bajo los principios de la evaluación continua, contemple la utilización de instrumentos de todo tipo para medir y justipreciar los conocimientos, habilidades y actividades originadas en el proceso enseñanza-aprendizaje, considerando principalmente los elementos siguientes:
+El personal discente, para conocer su indicador de logro y nivel de desarrollo, debe aplicar los instrumentos de evaluación de carácter cualitativo y cuantitativo que determine el modelo educativo del Plan General de Educación Militar, los cuales deben señalarse en el procedimiento de evaluación que se expida para cada asignatura, por ciclo lectivo o periodo. Dicha valoración debe hacerse sobre los productos académicos que realice el personal discente, conforme a lo siguiente:
 
-I. Trabajos individuales, que consistirán en la formulación de documentales de concepto, que manifiesten juicios e ideas propias, así como respuestas a planteamientos concretos al concluir cada materia de estudio, mediante un documental exploratorio, apoyándose para el efecto en la bibliografía disponible y en las lecturas de apoyo que se consideren de interés para el curso;
+I. Evaluación sumativa por medio de trabajos individuales consistente en exposiciones orales, portafolios de evidencias, redacción de artículos temáticos y proyectos de investigación;
 
-II. Trabajos de grupo, a ser formulados por los cursantes durante las actividades de foros, seminarios y comités y cuyo propósito es analizar e investigar para proponer soluciones y recomendaciones, y
+II. Evaluación sumativa por medio de trabajos de equipo e informes grupales consistente en la redacción de artículos, foros de discusión y debate, proyectos de investigación, informes de comité y exposiciones orales, y
 
-III. Un proceso de observación directa y continua que permita valorar la conducta y aprovechamiento en actividades individuales y de grupo de cada cursante durante todo el tiempo que permanezca como tal en el colegio.
+III. Evaluación formativa por medio de la observación directa durante las actividades de grupo e individuales, mediante la autoevaluación, coevaluación y heteroevaluación.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 60.
 
-La evaluación sobre los niveles de aprovechamiento obtenidos por los cursantes en los trabajos individuales y de grupo, quedarán a cargo del Director y del Consejo Pedagógico.
+La evaluación del personal discente queda bajo la responsabilidad del personal directivo y docente, de conformidad con el procedimiento de evaluación que se expida para cada asignatura, los cuales deben ser determinados por la Junta Técnica Consultiva, en el procedimiento de evaluación anual o del periodo de estudios.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 61.
 
-Las notas de evaluación obtenidas por cada cursante en sus trabajos individuales y de grupo en cada materia de estudio se promedian para asignar la nota evaluatoria definitiva que por ley debe aparecer en su certificado de estudios y con ello acreditar la terminación satisfactoria del curso en Administración Militar para la Seguridad y Defensa Nacionales o de otros cursos que se impartan en el plantel, en el concepto de que atendiendo a la excelencia del plantel, en ningún caso pueden presentarse exámenes extraordinarios o a título de suficiencia, debiendo causar baja del plantel sin haber acreditado el curso.
+Las notas de evaluación obtenidas por cada persona discente en sus trabajos individuales, de equipo y de grupo en cada asignatura, se obtiene (sic) conforme al procedimiento establecido para asignar la nota de evaluación definitiva que por ley debe aparecer en su certificado de estudios y con ello acreditar la terminación satisfactoria de los estudios en seguridad nacional o de otros que se impartan en el plantel.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 62.
 
-Las notas de evaluación se basan en una escala de apreciaciones, a través de la cual se pone la actividad académica de cada cursante, las cuales son las siguientes:
+Los procedimientos establecidos deben basarse en una escala numérica, con la cual se evalúa la actividad académica de cada persona discente. La relación cualitativa-cuantitativa es la siguiente:
 
-S.S. Sobresaliente 10 (diez).
+I. SS: sobresaliente 10.0 puntos;
 
-N. Notable 9.5 (nueve
+II. N: notable de 9.5 a 9.9 puntos;
 
-punto cinco).
+III. S: satisfactorio de 9 a 9.4 puntos;
 
-M.B. Muy Bien 9 (nueve).
+IV. A: apto de 8.5 a 8.9 puntos, y
 
-B. Bien 8.5 (ocho
+V. I: insuficiente 8.4 puntos o menor.
 
-punto cinco).
+El indicador mínimo aprobatorio es de “A”. Para efectos de la asignación de lugares de aprovechamiento, en caso de empate, se deben considerar las milésimas para seleccionar el parámetro más alto.
 
-R. Regular 8 (ocho).
-
-En el concepto de que la calificación mínima aprobatoria es de 8.5 (ocho punto cinco).
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 63.
 
-El proceso de evaluación es revisado periódicamente por el Consejo Pedagógico, con el propósito de ajustarlo en beneficio del curso de Administración Militar para la Seguridad y Defensa Nacionales u otros cursos; la evaluación es motivo de un manual de procedimientos donde se detallan los lineamientos y normas a los que se ajusta.
+El proceso de evaluación es revisado periódicamente por la Junta Técnica Consultiva, con el propósito de ajustarlo a las actualizaciones del modelo educativo establecido en el Plan General de Educación Militar, en beneficio de los estudios en seguridad nacional u otros estudios. Los lineamientos y normas que establezcan las características o aspectos técnicos de la evaluación deben contenerse en un manual de procedimientos.
 
-### CAPÍTULO I. De las Faltas de Asistencia Académica
+### CAPÍTULO V. De las Tesis, Jurados y Exámenes Profesionales
+
+#### SECCIÓN PRIMERA. De las Tesis Individuales
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 64.
 
-Cada cursante para acreditar la Maestría en Administración Militar para la Seguridad y Defensa Nacionales deberá elaborar una tesis individual sobre un tema que le será asignado por el Alto Mando del Ejército y Fuerza Aérea, la cual será presentada por una sola vez ante el jurado correspondiente, no existiendo la posibilidad de hacerlo en ninguna otra ocasión.
+El personal discente, para acreditar la maestría en seguridad nacional debe elaborar una tesis y un artículo individual, sobre un tema asignado por el Alto Mando del Ejército y Fuerza Aérea, los cuales deben ser presentados ante un jurado.
+
+En caso de obtener un resultado insuficiente, el personal discente tiene la posibilidad de hacerlo nuevamente en segunda y única ocasión para aprobarlos y acreditarlos, tres meses después de haber presentado por primera vez su tesis y artículo.
+
+En este caso la Junta Técnica Consultiva debe elaborar un instructivo especial para la presentación de la tesis y el artículo por segunda vez.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 65.
 
-En caso de activarse algún otro curso superior o de posgrado en el plantel, los cursantes deberán elaborar una tesis individual sobre un tema específico asignado por el Alto Mando del Ejército y Fuerza Aérea.
+En caso de otros estudios impartidos en el plantel, para aprobarlos y acreditarlos, el personal discente debe elaborar una tesis individual sobre un tema específico asignado por el Alto Mando del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 66.
 
-La elaboración de la tesis será estrictamente individual, debiendo responder su contenido al tema asignado; los conceptos vertidos en la misma serán de la exclusiva responsabilidad del cursante.
+La elaboración de las tesis es estrictamente individual y debe responder su contenido al tema asignado. La originalidad de los conceptos previstos en la tesis es de la exclusiva responsabilidad de la persona discente a mediante una prueba de plagio.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 67.
 
-Para la elaboración de la tesis, el cursante deberá utilizar la metodología que conlleve a formular procedimientos, juicios, conceptos y conclusiones perfectamente demostrables y aplicables.
+El personal discente, para la elaboración de la tesis debe utilizar la metodología que demuestre las competencias adquiridas, mediante procedimientos, juicios de valor, conceptos y conclusiones perfectamente demostrables y aplicables.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 68.
 
-La tesis individual deberá reunir en su elaboración:
+La tesis individual debe estructurarse de acuerdo con las reglas y especificaciones metodológicas y de contenido establecidas en el procedimiento emitidas por el plantel para la elaboración de tesis.
 
-I. Características de fondo y de forma:
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-A. De forma.
-
-Entre otros que el lenguaje utilizado tenga propiedad, sea conciso, objetivo, mesurado y formal.
-
-B. De fondo.
-
-Que tenga unidad, profundidad, sea demostrable y originalidad.
-
-II. Una estructura que contenga en forma general los aspectos siguientes:
-
-A. Carátula;
-
-B. Índice;
-
-C. Introducción;
-
-D. Planteamiento del problema;
-
-E. Marco teórico;
-
-F. Hipótesis;
-
-G. Objetivos;
-
-H. Demostración o alegato;
-
-I. Conclusiones;
-
-J. Anexos, y
-
-K. Bibliografía.
+#### SECCIÓN SEGUNDA. Del Trabajo de Grupo
 
 ###### ARTÍCULO 69.
 
-Independientemente de la tesis individual, cada antigüedad del curso de Administración Militar para la Seguridad y Defensa Nacionales o de otro curso superior, elaborará un trabajo de grupo sobre un tema que le sea asignado por el Alto Mando del Ejército y Fuerza Aérea por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea, mismo que se presentará ante el propio Alto Funcionario al finalizar el curso.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
+
+#### SECCIÓN TERCERA. De los Jurados
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 70.
 
-El jurado calificador de las tesis individuales estará integrado por cinco militares que ostenten el grado académico de maestría en Administración Militar para la Seguridad y Defensa Nacionales, o en su caso el equivalente en la Armada en la forma siguiente:
+Los jurados calificadores de las tesis individuales y de los artículos, se integran por personal militar de las tres fuerzas armadas y civiles que ostenten el grado académico igual o superior a la maestría que se evalúa, conforme a lo siguiente:
 
-I. Presidente:
+I. Presidencia, a cargo de:
 
-Un General egresado del plantel designado por el Alto Mando del Ejército y Fuerza Aérea.
+Una persona con el grado de General, designada por el Alto Mando del Ejército y Fuerza Aérea Mexicanos;
 
-II. Vicepresidente:
+II. Vicepresidencia, a cargo de:
 
-El Director del Colegio de Defensa Nacional.
+Las personas titulares de la dirección, subdirección, secciones pedagógica y académica del plantel;
 
-III. Tres miembros del jurado, representando a cada Fuerza Armada (Ejército, Fuerza Aérea y Armada) con grados de General Brigadier, de Grupo y un Contralmirante, que serán nombrados por el correspondiente Secretario del Ramo, y
+III. Jurado de las Fuerzas Armadas, constituido con las tres personas siguientes:
 
-IV. El secretario del jurado calificador será el Jefe de la Sección Pedagógica del Colegio de Defensa Nacional.
+A. Una representante del Ejército, con el grado de General Brigadier;
+
+B. Una representante de la Fuerza Aérea, con el grado de General Brigadier o de Grupo, y
+
+C. Una representante de la Armada, con el grado de Contralmirante.
+
+Las dos primeras nombradas por la persona titular de la Secretaría de la Defensa Nacional y la tercera por la persona titular de la Secretaría de la Marina;
+
+IV. Una persona egresada del Colegio de Defensa Nacional de procedencia civil, designada por el Alto Mando del Ejército y Fuerza Aérea Mexicanos, y
+
+V. Secretaría del Jurado, a cargo de una persona designada por la Dirección del plantel.
+
+#### SECCIÓN CUARTA. De los Exámenes Profesionales
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 71.
 
-Al finalizar cada año lectivo se organizará el proceso de exámenes profesionales y se levantarán las actas respectivas para informar de los resultados al Alto Mando del Ejército y Fuerza Aérea, a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+Al finalizar cada año lectivo se debe organizar el proceso de evaluaciones profesionales y se deben elaborar las actas respectivas para informar de los resultados al Alto Mando del Ejército y Fuerza Aérea, por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 72.
 
-El examen profesional consistirá en la presentación y justificación de la tesis que hará cada cursante, ante un jurado calificador designado por el Alto Mando del Ejército y Fuerza Aérea y para obtener el grado académico de maestría en Administración Militar para la Seguridad y Defensa Nacionales, deberá aprobar el citado examen conforme a las disposiciones legales vigentes, en el caso de otros cursos similares se seguirá el mismo procedimiento.
+La evaluación profesional consiste en la presentación y justificación de la tesis y, en su caso, artículo que debe hacer cada persona discente, ante un jurado calificador designado por las personas titulares de la Secretaría de la Defensa Nacional y de Marina. El examen profesional debe aprobarse conforme a las disposiciones aplicables.
 
 ###### ARTÍCULO 73.
 
-Al término de la presentación de la tesis individual, el jurado calificador asignará a los cursantes, un tema de extensión limitada (tesina), que será presentado ante el pleno del Colegio de Defensa Nacional, con el fin de aclarar o reforzar algún punto de la tesis.
+(DEROGADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 74.
 
-El jurado calificador para evaluar las tesis individuales durante el examen profesional tomará en cuenta entre otros, los aspectos siguientes:
+Las personas integrantes de los jurados calificadores deben evaluar los trabajos de tesis individuales y, en su caso, artículos conforme a lo dispuesto en el instructivo para la presentación de evaluaciones de grado.
 
-I. Claridad en el planteamiento del tema;
-
-II. Planteamiento adecuado de la hipótesis o fundamentos correspondientes;
-
-III. Estructura general de la hipótesis o fundamentos;
-
-IV. Método empleado en el trabajo;
-
-V. Exposición clara, lógica y entendible;
-
-VI. Conclusiones;
-
-VII. Empleo de fuentes de información, y
-
-VIII. Dominio del tema.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 75.
 
-La anotación final aprobatoria que se asentará en el acta de examen, será alguna de las siguientes:
+La anotación final que se asentará en el acta de evaluación, será alguna de las siguientes:
 
-I. Por aclamación, cuando todos los miembros del jurado consideren el trabajo a un nivel de excelencia por su contenido, argumentación y presentación.
+I. Por aclamación, cuando todas las personas integrantes del jurado consideran el trabajo a un nivel de excelencia por su contenido, argumentación y presentación, al obtener el indicador de sobresaliente o notable. En este caso, se debe otorgar Mención Honorífica;
 
-II. Por unanimidad, cuando todos los miembros del jurado lo aprueben y consideren el trabajo como normal y aceptable.
+II. Por unanimidad, cuando todas las personas integrantes del jurado lo aprueban y consideran el trabajo con indicador de satisfactorio;
 
-III. Por mayoría, cuando 3 o 4 de los miembros aprueben el trabajo y 1 o 2 estén en desacuerdo.
+III. Por mayoría, cuando el 60% o más de las personas integrantes del jurado aprueban el trabajo con indicador de apto y el resto estén en desacuerdo, y
+
+IV. Insuficiente cuando el 60% o más de las personas integrantes del jurado no aprueban el trabajo.
 
 ## TÍTULO SÉPTIMO. De las Faltas, Bajas y Reingresos
 
-### CAPÍTULO II. De las Bajas y Reingresos
+### CAPÍTULO I. De las Faltas de Asistencia Académica
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 76.
 
-Son faltas de asistencia académica del personal cursante faltar o retirarse de conferencias, foros, comités, seminarios, paneles, visitas de estudio o actividades académicas programadas u ordenadas por el Director del plantel; las faltas de asistencia pueden ser:
+Son faltas de asistencia académica del personal discente cuando falten o se retiren de clases, conferencias, foros, comités, seminarios, paneles, visitas de estudio o actividades académicas programadas u ordenadas por la persona titular de la Dirección del plantel. Las faltas de asistencia académica pueden ser:
 
-I. Justificadas, cuando se deban a comisiones del servicio, motivos de salud, razones de carácter legal y las que a juicio del Director del plantel correspondiente se consideren como tales, y
+I. Justificadas, cuando se deban a comisiones del servicio, motivos de salud, razones de carácter legal y aquellas que a juicio de la persona titular de la Dirección del plantel sean consideras como tales, y
 
 II. Injustificadas, cuando no se encuentren comprendidas en el párrafo anterior.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 76 Bis.
+
+Las faltas académicas deben computarse conforme a lo siguiente:
+
+I. A clases, conferencias, foros, paneles, simposios y seminarios, como una falta, y
+
+II. A comités, talleres, intercambios académicos, viaje nacional e internacional y visitas de estudio, una falta por cada día.
+
+### CAPÍTULO II. De las Bajas y Reingresos
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 77.
 
-El personal cursante causará baja del plantel por:
+El personal discente causa baja del Colegio de Defensa Nacional por:
 
-I. Bajo rendimiento académico al obtener promedio menor a 8.5 (ocho punto cinco) en alguna de las materias;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
-II. No formular la tesis individual;
+I. Haber terminado satisfactoriamente sus estudios;
 
-III. No aprobar el examen profesional a juicio del jurado calificador;
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+I Bis Bajo rendimiento académico al obtener promedio menor a 8.5 en 3 o más asignaturas;
+
+> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+II. No ajustarse a los tiempos asignados en el instructivo para la elaboración de tesis; así como después de su verificación se haya demostrado que el discente cometió plagio en su contenido;
+
+> <small>(REFORMADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+III. No aprobar la evaluación profesional a juicio del jurado calificador;
 
 IV. Enfermedad que:
 
@@ -925,67 +1627,123 @@ A. Faltar tres días sin justificación; sin perjuicio de que a los militares se
 
 B. Acumular veinte faltas justificadas o diez faltas injustificadas.
 
-VI. Propuesta del Director del plantel al Alto Mando del Ejército y Fuerza Aérea, al haber demostrado falta de interés, profesionalismo y de participación en las diversas actividades del curso o del colegio;
+VI. (DEROGADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
-VII. Adquirir otra nacionalidad;
+VII. (DEROGADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
-VIII. Solicitud del interesado que sea aceptada por la superioridad, y
+VIII. (DEROGADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)
 
-IX. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+IX. (DEROGADA, D.O.F. 19 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+X. Cuando el personal civil sea requerido por la dependencia a la que pertenezca o cuando se ponga en condiciones de no poder cumplir sus actividades académicas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Cuando el personal extranjero por requerimiento de su país sea retirado de sus estudios, y
+
+> <small>(ADICIONADA [N. DE E. CON SUS APARTADOS Y NUMERALES], D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Propuesta de la persona titular de la Dirección del plantel, al Alto Mando del Ejército y Fuerza Aérea, cuando el personal discente se encuentre en alguna de las situaciones siguientes:
+
+A. Por cometer faltas muy graves que afecten la disciplina militar siguientes:
+
+1. Golpear a un discente;
+
+2. Incurrir en acciones que denigren la dignidad militar o atenten contra la integridad física de una persona discente;
+
+3. Exigir dádivas o cooperaciones, suscribir colectas o realizar cualquier tipo de actividades de agio, mediante el aprovechamiento de su antigüedad, jerarquía o cargo;
+
+4. Resultar no apto por dar positivo al consumo de narcóticos en un examen toxicológico o negarse a proporcionar las tomas de muestra sanguínea o de orina para descartar el consumo de sustancias psicotrópicas, estupefacientes u otras controladas, y
+
+5. Realizar acciones que desprestigien la imagen de la escuela de formación en donde estudian o de la Secretaría, y
+
+B. Incurrir en las conductas previstas en las fracciones VI, VIII, XI, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX y XXI, del artículo 140 del Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 78.
 
-Las órdenes de alta y baja del personal del plantel serán giradas por el Alto Mando del Ejército y Fuerza Aérea, a través del Estado Mayor de la Defensa Nacional.
+Las órdenes de alta y baja del personal de apoyo a la educación, las gira el Alto Mando del Ejército y Fuerza Aérea, por conducto del Estado Mayor Conjunto de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 79.
 
-Al personal de cursantes que por cualquier motivo vaya a ser dado de baja del plantel, se le comunicará previamente por escrito esta circunstancia, haciéndole saber las razones y fundamentos legales, concediéndole un término de 15 días naturales contados a partir de la fecha en que sea notificado, a efecto de que manifieste ante el Director del plantel, lo que a sus intereses convenga sobre el particular.
+Al personal discente que por cualquier motivo vaya a ser dado de baja del plantel, se le debe comunicar previamente por escrito esta circunstancia. Dicho escrito debe señalar los motivos y fundamentos jurídicos para su baja, así como concederle un término de 15 días naturales contado a partir de la fecha en que sea notificado, para manifestar ante la persona titular de la Dirección del plantel, lo que a sus intereses convenga.
+
+Para la baja y reingreso del personal discente se debe observar, en lo no previsto en este reglamento, los artículos 141, 142, 143, 143 Bis y 143 Ter del Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+###### ARTÍCULO 79 Bis.
+
+Los reingresos del personal discente quedan a consideración de la persona titular de la Secretaría de la Defensa Nacional, de conformidad con las necesidades del Ejército y Fuerza Aérea Mexicanos. El personal discente que sea autorizado para reingreso debe realizar el proceso de admisión completo e iniciar actividades académicas desde el principio de los estudios.
 
 ## TÍTULO OCTAVO. Reconocimientos Académicos, Premios y Recompensas
 
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 80.
 
-Al cursante se le acreditará la maestría en Administración Militar para la Seguridad y Defensa Nacionales o la terminación satisfactoria de otro curso al:
+Al personal discente se le debe acreditar la terminación satisfactoria de sus estudios al:
 
-I. Obtener al final del curso un promedio mínimo de 8.5 o más en cada una de las materias que integran el plan de estudio, y
+I. Obtener al final un promedio mínimo de 8.5 o más en cada una de las asignaturas que integren sus estudios, y
 
-II. Presentar su tesis individual ante un jurado y ser aprobado en su examen profesional.
+II. Presentar su tesis individual y, en su caso, su artículo ante un jurado y ser aprobados en su examen profesional.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 81.
 
-El personal de cursantes al acreditar satisfactoriamente la maestría en Administración Militar para la Seguridad y Defensa Nacionales recibirá:
+El personal discente al acreditar satisfactoriamente sus estudios debe recibir:
 
-I. Título del grado académico de maestría en Administración Militar para la Seguridad y Defensa Nacionales;
+I. Título del grado académico correspondiente;
 
-II. Certificado de estudios que indique las calificaciones obtenidas en las materias de estudio, y
+II. Certificado de estudios que indique las calificaciones obtenidas en las asignaturas;
 
-III. Placa distintiva del Colegio de Defensa Nacional.
+III. Placa distintiva del Colegio de Defensa Nacional, y
+
+IV. Diploma o gafete distintivo de los estudios realizados.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 82.
 
-Al personal de cursantes que no apruebe el examen profesional únicamente se le expedirá el certificado de estudio correspondiente de las materias aprobadas en el desarrollo del curso, de igual manera si algún cursante causa baja por otros motivos contemplados en el presente Reglamento se le extenderá un certificado parcial de estudios a solicitud del interesado.
+Al personal discente que no apruebe el examen profesional, únicamente se le debe expedir el certificado de estudio correspondiente de las asignaturas aprobadas en el desarrollo de los estudios de que se trate. Cuando una persona discente causa baja por otros motivos contemplados en el presente reglamento, se le debe extender un certificado parcial de estudios a solicitud de la persona interesada.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 83.
 
-Al personal que efectúe cualquier otro curso determinado por el Alto Mando del Ejército y Fuerza Aérea se le otorgará la documentación correspondiente, cuando lo acredite satisfactoriamente.
+Al personal discente que efectúe cualquier otro estudio determinado por el Alto Mando del Ejército y Fuerza Aérea, se le debe otorgar la constancia correspondiente, cuando lo acredite satisfactoriamente.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 84.
 
-El personal docente y cursante que se distinga por su dedicación y constancia o bien que sea autor de trabajos de investigación de trascendencia y utilidad a las Fuerzas Armadas, elaborados durante el curso y que a juicio del personal directivo y del Consejo Pedagógico del plantel lo amerite, será propuesto al Alto Mando del Ejército y Fuerza Aérea, para que se le otorgue el premio o recompensa que la superioridad determine conforme a las leyes y reglamentos respectivos.
+El personal docente y discente que se distinga por su dedicación y constancia, o bien que sea autor de trabajos de investigación de trascendencia y utilidad a las Fuerzas Armadas, elaborados durante sus estudios y que a juicio del personal directivo y de la Junta Técnica Consultiva lo amerite, debe ser propuesto al Alto Mando del Ejército y Fuerza Aérea, para que se le otorgue el premio o recompensa que se determine conforme a las leyes y reglamentos respectivos.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 85.
 
-Las condecoraciones del mérito facultativo consideradas en la Ley de Ascensos y Recompensas, serán gestionadas por el Director del plantel para premiar a los cursantes que realicen el curso en forma brillante, haciéndose acreedores a primeros y segundos premios en la forma siguiente:
+Las condecoraciones del mérito facultativo consideradas en la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos, serán gestionadas por la persona titular de la Dirección del plantel, para premiar al personal discente que realicen sus estudios en forma brillante, haciéndose acreedores a primeros y segundos premios en la forma siguiente:
 
 I. Primer premio, al que obtenga el primer lugar en el promedio final de sus calificaciones;
 
-II. Segundo premio, al que obtenga el segundo lugar en el promedio final de sus calificaciones, y
+I (SIC). Segundo premio, al que obtenga el segundo lugar en el promedio final de sus calificaciones, y
 
-III. En ambos casos los promedios no podrán ser menores al 9.0 (nueve punto cero).
+III. En ambos casos los promedios no pueden ser menores al 9.0.
+
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 86.
 
-Para premiar el esfuerzo de los cursantes que obtengan el primero, segundo y tercer lugar de acuerdo al cómputo total de calificaciones, se les otorgará diploma”.
+Para premiar el esfuerzo del personal discente que obtenga el primer, segundo y tercer lugar de acuerdo al cómputo total de calificaciones, se le debe otorgar diploma.
 
 ...
 
@@ -998,3 +1756,15 @@ SEGUNDO.- Se abrogan los Reglamentos siguientes: del Colegio de Defensa Nacional
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los quince días del mes de mayo de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- El Secretario de la Defensa Nacional, Gerardo Clemente Ricardo Vega García.- Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL COLEGIO DE DEFENSA NACIONAL”.]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementa su presupuesto regularizable, y no se autorizan recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO. Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
