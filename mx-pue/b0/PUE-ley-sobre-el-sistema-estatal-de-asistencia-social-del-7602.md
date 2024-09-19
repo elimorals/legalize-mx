@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "2024-09-10"
+last_updated: "2024-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "PUE"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, DEL ESTADO DE PUEBLA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE SEPTIEMBRE DE 2024 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE PUEBLA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 19 DE SEPTIEMBRE DE 2024 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2024.]</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
