@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-prevenir-y-controlar-la-contaminacion-del-992"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-01-23"
-last_updated: "1979-01-23"
+last_updated: "2024-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=992&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1979-01-11"
 ---
 # REGLAMENTO PARA PREVENIR Y CONTROLAR LA CONTAMINACION DEL MAR POR VERTIMIENTO DE DESECHOS Y OTRAS MATERIAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO PARA PREVENIR Y CONTROLAR LA CONTAMINACIÓN DEL MAR POR VERTIMIENTO DE DESECHOS Y OTRAS MATERIAS, Y SE FIJA UN RÉGIMEN TRANSITORIO, PUBLICADO EN EL D.O.F. DE 19 DE SEPTIEMBRE DE 2024, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA PREVENIR Y CONTROLAR LA CONTAMINACION DEL MAR POR VERTIMIENTO DE DESECHOS Y OTRAS MATERIAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2024 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 23 de enero de 1979.
 
@@ -426,3 +428,27 @@ C. Consideraciones y condiciones generales.
 3. Posibles efectos sobre otras utilizaciones del mar (por ejemplo menoscabo de la calidad del agua para usos industriales, corrosión submarina de las estructuras, entorpecimiento de las operaciones de buques por la presencia de materias flotantes, entorpecimiento de la pesca o de la navegación por el depósito de desechos u objetos sólidos en el fondo del mar y protección de zonas de especial importancia para fines científicos o de conservación).
 
 4. Disponibilidad práctica de métodos alternativos de tratamiento, evacuación o eliminación situados en tierra, o de tratamiento para convertir la materia en substancias menos nocivas para su vertimiento en el mar.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 19 DE SEPTIEMBRE DE 2024.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS DEL DECRETO POR EL QUE SE ABROGA EL REGLAMENTO PARA PREVENIR Y CONTROLAR LA CONTAMINACIÓN DEL MAR POR VERTIMIENTO DE DESECHOS Y OTRAS MATERIAS, Y SE FIJA UN RÉGIMEN TRANSITORIO, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+###### Artículo 1.
+
+Se abroga el Reglamento para Prevenir y Controlar la Contaminación del Mar por Vertimiento de Desechos y otras Materias, publicado en el Diario Oficial de la Federación el veintitrés de enero de mil novecientos setenta y nueve.
+
+###### Artículo 2.
+
+Los procedimientos y demás asuntos administrativos iniciados con anterioridad a la entrada en vigor del presente decreto, que se encuentren pendientes de resolución, se concluirán con apego a lo dispuesto por la Ley de Vertimientos en las Zonas Marinas Mexicanas vigente.
+
+###### Artículo 3.
+
+Los permisos otorgados con base en el reglamento que se abroga continuarán vigentes hasta su extinción.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ABROGA EL REGLAMENTO PARA PREVENIR Y CONTROLAR LA CONTAMINACIÓN DEL MAR POR VERTIMIENTO DE DESECHOS Y OTRAS MATERIAS, Y SE FIJA UN RÉGIMEN TRANSITORIO”.]
+
+PRIMERO. El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan, a partir de la entrada en vigor del presente decreto, todas aquellas disposiciones reglamentarias y administrativas que sean contrarias a lo dispuesto en la Ley de Vertimientos en las Zonas Marinas Mexicanas.
