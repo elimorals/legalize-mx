@@ -4,7 +4,7 @@ identifier: "TLA-ley-que-garantiza-el-acceso-a-las-mujeres-a-una-vida-libre-5803
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-13"
-last_updated: "2024-05-27"
+last_updated: "2024-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY QUE GARANTIZA EL ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el jueves 13 de diciembre de 2007.
 
@@ -1009,7 +1009,9 @@ El Sistema Estatal se conformará de la manera siguiente:
 
 I. Un Presidente que será el Secretario de Gobierno o la persona que éste designe;
 
-II. Una Secretaria Técnica que será la Titular del Instituto Estatal de la Mujer, y
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2024)</small>
+
+II. Una Secretaria Técnica, que será la titular de la Secretaría de las Mujeres, y
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE AGOSTO DE 2020)</small>
 
@@ -1439,11 +1441,15 @@ XIII. Diseñar el Protocolo Único para la Atención Adecuada de la Violencia Di
 
 XIV. Las demás que le señale esta Ley y demás disposiciones legales aplicables.
 
-#### SECCIÓN OCTAVA. INSTITUTO ESTATAL DE LA MUJER
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE SEPTIEMBRE DE 2024)</small>
+
+#### SECCIÓN OCTAVA. SECRETARÍA DE LAS MUJERES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 65.
 
-El Instituto Estatal de la Mujer establecerá las políticas públicas en materia de violencia contra las mujeres en el Estado, coordinándose para tal efecto con todas las dependencias o entidades de la Administración Pública Estatal y Municipal, en concordancia con la política nacional respectiva, desarrollando entre otras facultades las siguientes:
+La Secretaría de las Mujeres establecerá las políticas públicas en materia de violencia contra las mujeres en el Estado, coordinándose para tal efecto con todas las dependencias o entidades de la Administración Pública Estatal y Municipal, en concordancia con la política nacional respectiva, desarrollando entre otras facultades las siguientes:
 
 I. Diseñar la política transversal en el Estado, para que todo el gobierno estatal y municipal adopten la perspectiva de género;
 
@@ -1537,15 +1543,17 @@ XV. La atención de los demás asuntos que en materia de violencia contra las mu
 
 #### SECCIÓN PRIMERA. PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 68.
 
-El procedimiento para la imposición de sanciones se ajustará a las siguientes reglas:
+El procedimiento para la imposición de sanciones se ajustará a las reglas siguientes:
 
-I. Recibida una queja, el Instituto Estatal de la Mujer citará al presunto infractor para que en un plazo no menor de tres días hábiles ni mayor de cinco, contados a partir del día siguiente a la fecha en que le sea notificada la cita, comparezca por escrito, ofreciendo las pruebas idóneas que estime favorables a sus intereses y haciendo las alegaciones pertinentes. La citación se le hará de forma personal por medio de oficio en el que se indicará la infracción que se le imputa, así como los hechos denunciados;
+I. Recibida una queja en la Secretaría de las Mujeres a través de la instancia correspondiente, citará al presunto infractor para que, en un plazo no menor de tres días hábiles ni mayor de cinco, contados a partir del día siguiente a la fecha en que le sea notificada la cita, comparezca por escrito, ofreciendo las pruebas idóneas que estime favorables a sus intereses y haciendo las alegaciones pertinentes. La citación se le hará de forma personal por medio de oficio en el que se indicará la infracción que se le imputa, así como los hechos denunciados;
 
-II. Transcurrido el plazo antes señalado, si el presunto infractor hubiese ofrecido pruebas, el Instituto Estatal de la Mujer fijará un plazo que no excederá de tres días hábiles para que las mismas sean recibidas o perfeccionadas, y
+II. Transcurrido el plazo antes señalado, si el presunto infractor hubiese ofrecido pruebas la Secretaría de las Mujeres fijará un plazo que no excederá de tres días hábiles para que las mismas sean recibidas o perfeccionadas, y
 
-III. Concluido el período probatorio o vencido el plazo indicado en la fracción II de este artículo, en el supuesto de que el presunto infractor no comparezca o no ofrezca pruebas, el Instituto Estatal de la Mujer emitirá resolución en un plazo no mayor de cinco días hábiles, determinando si se aplica o no la sanción.
+III. Concluido el período probatorio o vencido el plazo indicado en la fracción II de este artículo, en el supuesto de que el presunto infractor no comparezca o no ofrezca pruebas, la Secretaría de las Mujeres emitirá resolución en un plazo no mayor de cinco días hábiles, determinando si se aplica o no la sanción.
 
 #### SECCIÓN SEGUNDA. SANCIONES
 
@@ -1571,15 +1579,21 @@ II. Multa de treinta a ciento veinte veces el valor de la unidad de medida y act
 
 Las sanciones administrativas consignadas en este capítulo, se impondrán sin perjuicio de las que deriven de las responsabilidades administrativa, civil o penal que pudieran fincarse por los mismos hechos.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 72.
 
-El Instituto Estatal de la Mujer considerará, para la individualización de la sanción, los aspectos siguientes:
+La Secretaría de las Mujeres considerará, para la individualización de la sanción, los aspectos siguientes:
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2023)</small>
 
 I. La gravedad de la conducta discriminatoria contra la mujer;
 
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2023)</small>
+
 II. Las condiciones socio-económicas del infractor, y
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2023)</small>
 
 III. Si se trata de reincidencia.
 
@@ -1766,3 +1780,35 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 19 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 5.- SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA Y DE LA LEY QUE GARANTIZA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA EN EL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Finanzas deberá contemplar en el Proyecto de Presupuesto de Egresos para el ejercicio fiscal 2025, los ajustes presupuestales y de infraestructura, así como de recursos humanos, a fin de garantizar la operación de la Secretaría de las Mujeres a partir del día primero del mes de enero del año 2025.
+
+###### ARTÍCULO TERCERO.
+
+Los recursos humanos, financieros, materiales e infraestructura, con que cuenta el Instituto Estatal de la Mujer, se trasladarán para su integración a la Secretaría de las Mujeres del Estado de Tlaxcala, en un plazo no mayor a sesenta días naturales posteriores al inicio de funciones de la Secretaría de las Mujeres del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Todos los asuntos que se encuentren a cargo del Instituto Estatal de la Mujer, continuarán su trámite hasta su conclusión, a cargo de la Secretaría de las Mujeres.
+
+###### ARTÍCULO QUINTO.
+
+Todas las referencias de carácter legal y administrativa hacia el Instituto Estatal de la Mujer, se entenderán dirigidas a la Secretaría de las Mujeres del Estado de Tlaxcala.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de las Mujeres del Estado de Tlaxcala deberá expedir su respectivo Reglamento Interior, en un término improrrogable de noventa días naturales contados a partir del día siguiente a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se abroga el Acuerdo publicado en el Periódico Oficial del Gobierno del Estado de Tlaxcala, de fecha 17 de junio de 1999, TOMO LXXX, SEGUNDA ÉPOCA, No. Extraordinario, por el que se crea el Instituto Estatal de la Mujer.
