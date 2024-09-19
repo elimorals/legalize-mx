@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-mexicano-de-estudios-estrategicos-1640
 country: "mx"
 rank: "reglamento"
 publication_date: "2023-02-01"
-last_updated: "2023-06-29"
+last_updated: "2024-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164079&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2023-01-26"
 
 REGLAMENTO DEL INSTITUTO MEXICANO DE ESTUDIOS ESTRATÉGICOS EN SEGURIDAD Y DEFENSA NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 1 de febrero de 2023.
 
@@ -257,9 +257,11 @@ VIII. Proponer la publicación de obras científicas o de divulgación de temas 
 
 ### CAPÍTULO II. De la Subdirección
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 13.
 
-La persona titular de la Subdirección del Instituto será designada por la persona titular de la Secretaría, la cual debe tener el grado de General de Brigada o Brigadier o su equivalente en la Fuerza Aérea Mexicana, en situación de activo o retiro y con especialidad en Estado Mayor, así como contar con un doctorado.
+La persona titular de la Subdirección del Instituto es designada por la persona titular de la Secretaría, la cual debe tener el grado de General de Brigada o Brigadier o su equivalente en la Fuerza Aérea Mexicana, estar en situación de activo o retiro y tener la especialidad De Estado Mayor, o también puede ser designada una persona civil. La persona que sea designada debe contar, además, con el grado académico de doctorado.
 
 ###### Artículo 14.
 
@@ -349,9 +351,11 @@ IV. Establecer la coordinación con las demás áreas del Instituto, a efecto de
 
 #### Sección Primera. De la Jefatura
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 19.
 
-La persona titular de la Jefatura de la Coordinación Académica deberá tener el grado de Coronel, con Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo; con estudios de nivel doctorado o reconocida capacidad profesional, y con conocimientos en pedagogía.
+La persona titular de la Jefatura de la Coordinación Académica debe tener el grado de Coronel de arma o servicio, especialidad De Estado Mayor y estudios de nivel doctorado o reconocida capacidad profesional y conocimientos en pedagogía.
 
 ###### Artículo 20.
 
@@ -403,9 +407,11 @@ Subsección I
 
 De la Jefatura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 21.
 
-La persona titular de la Jefatura de la Sección de Vinculación deberá tener el grado de Teniente Coronel, de arma o servicio, y con Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo.
+La persona titular de la Jefatura de la Sección de Vinculación debe tener el grado de Teniente Coronel de arma o servicio y especialidad De Estado Mayor.
 
 La Sección de Vinculación tiene las atribuciones siguientes:
 
@@ -447,9 +453,11 @@ Subsección I
 
 De la Jefatura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 23.
 
-La persona titular de la Jefatura de la Sección Académica deberá tener el grado de Teniente Coronel de arma o servicio, con Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo, y con estudios a nivel doctorado.
+La persona titular de la Jefatura de la Sección Académica debe tener el grado de Teniente Coronel de arma o servicio, especialidad De Estado Mayor y estudios de nivel doctorado.
 
 La Sección Académica auxiliará a la Jefatura de la Coordinación Académica, a efecto de que el desarrollo de todas las actividades relacionadas con los doctorados, maestrías, diplomados, foros, conferencias y seminarios que organiza o imparte el Instituto, se lleven a cabo conforme a los planes y programas de estudio aprobados.
 
@@ -457,9 +465,11 @@ Subsección II
 
 De la Subsección de Control Académico
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 24.
 
-La persona titular de la Subsección de Control Académico deberá tener el grado de Teniente Coronel de arma o servicio, con Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo, y con estudios a nivel doctorado.
+La persona titular de la Subsección de Control Académico debe tener el grado de Teniente Coronel de arma o servicio, especialidad De Estado Mayor y estudios de nivel doctorado o reconocida capacidad profesional y conocimientos en pedagogía.
 
 La Subsección de Control Académico tiene las atribuciones siguientes:
 
@@ -525,9 +535,11 @@ VII. Formar parte del Consejo Académico cuando sea requerido por la persona tit
 
 #### Sección Primera. De la Jefatura
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 27.
 
-La persona titular de la Jefatura de la Coordinación de Investigaciones Estratégicas deberá tener el grado de Teniente Coronel de arma o servicio, con Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo, y con estudios de nivel doctorado.
+La persona titular de la Jefatura de la Coordinación de Investigaciones Estratégicas debe tener el grado de Teniente Coronel de arma o servicio, especialidad De Estado Mayor y estudios de nivel doctorado o reconocida capacidad profesional y conocimientos en pedagogía.
 
 ###### Artículo 28.
 
@@ -557,9 +569,11 @@ Subsección I
 
 De la Jefatura
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 29.
 
-La persona titular de la Jefatura de la Sección de Investigaciones Estratégicas deberá tener el grado de Mayor de arma o servicio, con Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo o con estudios en metodología de la investigación, y con amplio sentido para el análisis crítico en el campo de la seguridad y defensa nacionales.
+La persona titular de la Jefatura de la Sección de Investigaciones Estratégicas debe tener el grado de Mayor de arma o servicio, especialidad De Estado Mayor o estudios en metodología de la investigación y con amplio sentido para el análisis crítico en el campo de la seguridad y defensa nacionales.
 
 ###### Artículo 30.
 
@@ -581,9 +595,11 @@ Subsección II
 
 De la Subsección de Investigaciones Estratégicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 31.
 
-La persona titular de la Subsección de Investigaciones Estratégicas deberá tener el grado de Capitán Primero de arma o servicio y con Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo.
+La persona titular de la Subsección de Investigaciones Estratégicas debe tener el grado de Capitán Primero de arma o servicio y especialidad De Estado Mayor.
 
 La Subsección de Investigaciones Estratégicas tiene, además de auxiliar a la Jefatura de la Sección de Investigaciones Estratégicas, en todas las funciones relacionadas con la investigación, las atribuciones siguientes:
 
@@ -601,9 +617,11 @@ Subsección III
 
 De la Subsección de Doctrina
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 32.
 
-La persona titular de la Subsección de Doctrina deberá tener el grado de Teniente Coronel de arma o servicio, con Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo, y con estudios de nivel maestría.
+La persona titular de la Subsección de Doctrina debe tener el grado de Teniente Coronel de arma o servicio, especialidad De Estado Mayor y estudios de nivel maestría.
 
 La Subsección de Doctrina tiene, además de auxiliar a la Sección de Investigaciones Estratégicas en todas las funciones relacionadas con la doctrina militar, las atribuciones siguientes:
 
@@ -623,9 +641,11 @@ Subsección I
 
 De la Jefatura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 33.
 
-La persona titular de la Jefatura de la Sección de Difusión deberá tener el grado de Teniente Coronel de arma o servicio, con Diplomado de Estado Mayor o Diplomado de Estado Mayor Aéreo, con estudios a nivel licenciatura o superiores en comunicación o afines, y con amplio sentido para el análisis crítico en materias de la seguridad y defensa nacionales;
+La persona titular de la Jefatura de la Sección de Difusión debe tener el grado de Teniente Coronel de arma o servicio, especialidad De Estado Mayor, estudios de nivel licenciatura o superiores en comunicación o afines y con amplio sentido para el análisis crítico en materia de seguridad y defensa nacionales.
 
 La Jefatura de la Sección de Difusión tiene las atribuciones siguientes:
 
@@ -963,11 +983,13 @@ II. Injustificadas, cuando no se encuentren comprendidas en la fracción anterio
 
 ### CAPÍTULO II. De las Bajas y Reingresos
 
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 66.
 
-El personal discente causará baja del Instituto, por los motivos siguientes:
+El personal discente causa baja del Instituto por:
 
-I. Bajo rendimiento académico al obtener promedio menor a 8.5 (ocho punto cinco) en tres de las unidades de aprendizaje o en el promedio general;
+I. Bajo rendimiento académico al obtener promedio menor a 8.5 puntos en tres de las unidades de aprendizaje o en el promedio general;
 
 II. No formular la tesis individual;
 
@@ -975,15 +997,17 @@ III. No aprobar el examen profesional a juicio del jurado calificador;
 
 IV. Enfermedad que lo imposibilite para continuar con los estudios;
 
-V. Inasistencias a las actividades académicas del Instituto, al acumular lo correspondiente al veinte por ciento del curso de faltas justificadas o el diez por cierto de faltas injustificadas;
+V. Inasistencias a las actividades académicas del Instituto, al acumular lo correspondiente al veinte por ciento del curso de faltas justificadas o el diez por cierto (sic) de faltas injustificadas;
 
 VI. Acumular, en el caso del doctorado en Desarrollo y Seguridad Nacional, un total de faltas igual o superior al setenta por ciento de horas en cualquier unidad de aprendizaje;
 
-VII. A propuesta de la persona titular de la Dirección a la Secretaría, al haber demostrado falta de interés, profesionalismo y de participación en las diversas actividades académicas que se realicen;
+VII. Propuesta de la persona titular de la Dirección a la Secretaría, al haber demostrado falta de interés, profesionalismo y de participación en las diversas actividades académicas que se realicen, y
 
-VIII. Solicitud de la persona interesada que sea aceptada por la superioridad, y
+VIII. Solicitud de la persona interesada que sea aceptada por la superioridad.
 
-IX. Estar sujeta a un procedimiento penal, ya sea en el fuero militar, o del orden común o federal.
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2024)</small>
+
+Las personas discentes también causan baja del Instituto por incurrir en las conductas previstas en las fracciones V Bis, párrafo segundo, numeral 4; XI; XIII; XIV; XV; XVI; XVII; XVIII; XIX; XX y XXI, del artículo 140 del Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos.
 
 ###### Artículo 67.
 
@@ -1056,3 +1080,13 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
 
 Tercero.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
+
+D.O.F. 19 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL INSTITUTO MEXICANO DE ESTUDIOS ESTRATÉGICOS EN SEGURIDAD Y DEFENSA NACIONALES”.]
+
+PRIMERO.- El presente decreto entra en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
+
+TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
