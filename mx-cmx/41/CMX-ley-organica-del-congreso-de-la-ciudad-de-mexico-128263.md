@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2023-12-08"
+last_updated: "2024-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -70,9 +70,13 @@ Las y los Diputados integrantes del Congreso de la Ciudad de México podrán ser
 
 El Congreso de la Ciudad de México funcionara en Pleno, Comisiones y Comités, sus sesiones serán públicas y tendrá la organización y funcionamiento que establece la Constitución Política de la Ciudad de México, esta ley, así como el Reglamento del Congreso de la Ciudad de México y los acuerdos que se expidan dentro de este órgano legislativo.
 
-> <small>(REFORMADO, G.O. 26 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, G.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-Para la entada en vigor de las reformas y adiciones a la presente ley y su reglamento no será necesario que la persona titular de la Jefatura de Gobierno realice su promulgación, ni podrán ser objeto de veto u observaciones; en todo caso deberán ser publicadas en la Gaceta Oficial.
+Para la entrada en vigor de las reformas y adiciones a la presente ley y su reglamento no será necesario que la persona titular de la Jefatura de Gobierno realice su promulgación, ni podrán ser objeto de veto u observaciones; en todos los casos deberán ser publicadas sin mayor dilación en la Gaceta Oficial para su difusión posterior a su aprobación.
+
+> <small>(ADICIONADO, G.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+La falta de la publicación en la Gaceta Oficial no será impedimento para su entrada en vigor.
 
 ###### Artículo 4.
 
@@ -115,6 +119,10 @@ XV. Dieta: Es la remuneración irrenunciable por el desempeño del cargo de la o
 XVI. Diputado: La o el Diputado en funciones del Congreso de la Ciudad;
 
 XVII. Diputado sin partido: La o el Diputado que emana de una contienda electoral y haya solicitado su registro ante la autoridad competente con tal carácter, en términos de lo dispuesto por el artículo 27, apartado A de la Constitución Local;
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XVII Bis. Diputación Migrante: La persona diputada dentro del Congreso que representa a las personas migrantes originarias de la Ciudad de México, en términos de las disposiciones aplicables.
 
 XVIII. Gaceta parlamentaria: Documento de difusión interna de los instrumentos parlamentarios inscritos en el orden del día del Congreso;
 
@@ -226,9 +234,9 @@ Cuando no se actualicen los supuestos referidos en el párrafo anterior, el Cong
 
 Para los efectos de la Sesión vía remota del Pleno quedan exceptuados los temas relacionados con reformas a la Constitución Local, las reformas correspondientes a las leyes de carácter constitucional, los nombramientos de las personas servidoras públicas correspondientes a los poderes Ejecutivo y Judicial, así como los correspondientes a los organismos que la Constitución Local les otorga autonomía y aquellos asuntos en los que se requiera mayoría calificada conforme a esta Ley y el Reglamento.
 
-> <small>(REFORMADO [N. DE E. REUBICADO], G.O. 8 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-El orden del día correspondiente a la Sesión vía remota del Pleno será propuesto por las dos terceras partes de los integrantes de la Conferencia.
+Además de lo dispuesto en los párrafos anteriores, la persona que represente a la Diputación Migrante, podrá asistir y participar, en las sesiones en Pleno, la Comisión Permanente, en Comisiones o Comités, a través de la vía remota, garantizándole la identificación, registro de asistencia, participación y voto, así como el acceso y disponibilidad de la documentación necesaria.
 
 ###### Artículo 6.
 
@@ -1490,7 +1498,9 @@ I. Dictaminar, atender o resolver las iniciativas, proyectos y proposiciones tur
 
 II. Elaborar su programa anual de trabajo;
 
-III. Enviar su informe anual de actividades a la Mesa Directiva;
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+III. Elaborar sus informes semestrales y final de actividades;
 
 IV. Impulsar y realizar estudios y proyectos de investigación que versen sobre las materias de su competencia;
 
@@ -2975,3 +2985,19 @@ SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publ
 TERCERO. La Junta de Coordinación Política del Congreso de la Ciudad de México contarán con un plazo de hasta 30 días naturales a partir de la entrada en vigor de este decreto, para adecuar los acuerdos y actuaciones de su competencia en términos del presente decreto.
 
 CUARTO. La realización de sesiones vía remota se sujetarán al acuerdo vigente, en tanto no exista otro que lo modifique.
+
+G.O. 20 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE “SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 3 Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 72, AMBOS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 211, FRACCIÓN XXII Y 222, FRACCIÓN XIII, DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE "SE ADICIONA LA FRACCIÓN XVII BIS AL ARTÍCULO 4 Y SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 5 BIS, AMBOS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; SE ADICIONAN LA FRACCIÓN XVII BIS AL ARTÍCULO 2, Y LA FRACCIÓN IV BIS AL ARTÍCULO 5, AMBOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
