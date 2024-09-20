@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-la-ley-de-transporte-para-el-estado-de-baja-12259
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-06-05"
-last_updated: "2005-06-01"
+last_updated: "2024-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12259&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "BCS"
 
 REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE JUNIO DE 2005.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE SEPTIEMBRE DE 2024.
 
-Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el vienres 5 de junio de 1998.
+Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 5 de junio de 1998.
 
-GUILLERMO MERCADO ROMERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EN EJERCICIO DE LA FACULTAD QUE ME CONFIEREN lOS ARTÍCULOS 79 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO Y 70 FRACCIÓN II DE LA LEY DE TRANSPORTE PARA El ESTADO DE BAJA CALIFORNIA SUR, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
+GUILLERMO MERCADO ROMERO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EN EJERCICIO DE LA FACULTAD QUE ME CONFIEREN LOS ARTÍCULOS 79 FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO Y 70 FRACCIÓN II DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR, HE TENIDO A BIEN EXPEDIR EL SIGUIENTE:
 
 REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR.
 
@@ -554,6 +554,20 @@ II. Tratándose de necesidades emergentes de transporte, una vez recibida la sol
 III.- Tratándose de necesidades eventuales o extraordinarias, se seguirá en lo conducente el procedimiento establecido en la fracción anterior, excepto los plazos de que dispondrán las autoridades ahí referidas, para lo que el Consejo Municipal de Transporte deberá emitir su opinión en un plazo de 10 días hábiles y la ''Dirección'' su resolución en 5 días hábiles, a partir del vencimiento del plazo anterior; y
 
 IV.- Antes de entregarse el permiso eventual correspondiente, el beneficiario deberá presentar póliza de seguro del viajero y daños contra terceros, así como el vehículo o vehículos para su inspección y el pago de derecho del mismo.
+
+> <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 47 Bis.
+
+El permiso que se refiere en el artículo 6 del presente reglamento, deberá de cumplir con los requisitos que se describan en el artículo 47 del presente reglamento, sujetándose además en todo momento a los requisitos y modalidades establecidos en la Ley de Transporte para el Estado y en el presente reglamento; para el presente caso, dicho permiso solo se otorgará para el servicio público de Autotransporte de Turismo.
+
+En caso de obtener la autorización del permiso eventual por parte de la Dirección, los concesionarios o permisionarios federales, solo podrán realizar el ascenso y descenso de turistas en vías de jurisdicción estatal, siempre y cuando los mismos acrediten que el servicio de transporte público se encuentre previamente contratado con setenta y dos horas de anticipación a la prestación del servicio, la omisión de lo anterior, dará lugar a la aplicación de sanciones y en su caso revocación inmediata del permiso eventual.
+
+> <small>(ADICIONADO, B.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 47 Ter.
+
+Los concesionarios o permisionarios federales en todo momento deberán de registrar los servicios previamente contratados en el Sistema de Información de Servicios de Transportación Previamente Contratados, con el fin de otorgar certidumbre legal a los servicios, asimismo, al encontrarse realizando servicio de trasporte de público en jurisdicción estatal, se obligan a cumplir con las disposiciones que emanen de la Ley de Transporte para el Estado de Baja California Sur y el presente reglamento, sujetándose a las obligaciones que le correspondan, así como a las inspecciones, verificaciones y vigilancias en materia de transporte estatal.
 
 ### CAPITULO X. DE LAS OBLIGACIONES Y DERECHOS DE LOS CONCESIONARIOS Y PERMISIONARIOS DEL SERVICIO PÚBLICO DE TRANSPORTE
 
@@ -1526,3 +1540,9 @@ B.O. 1 DE JUNIO DE 2005.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL CUAL SE ADICIONAN LOS ARTÍCULOS 47 BIS Y 47 TER DEL REGLAMENTO DE LA LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+ÚNICO. El presente Decreto entrará en vigor a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
