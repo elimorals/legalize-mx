@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-125101"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-12-19"
-last_updated: "2023-12-29"
+last_updated: "2024-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2023.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE DICIEMBRE DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en la Primera Sección al Número 101 del Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 19 de diciembre de 2017.
 
@@ -347,9 +345,9 @@ XIV. Secretaría de Vivienda y Ordenamiento Territorial;
 
 XV. Secretaría de Turismo y Desarrollo de Pueblos Mágicos;
 
-> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-XVI. Secretaría de Inversión Pública Productiva.
+XVI. Secretaría de Vinculación Ciudadana, Proyectos de Innovación Social e Inversión Público Productiva;
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
@@ -1333,71 +1331,119 @@ XXIII. Realizar convenios de coordinación y colaboración, con el objeto de reg
 
 XXIV. Las demás que le confieran expresamente esta ley, otras disposiciones aplicables y aquellas que le encomiende el Titular del Ejecutivo.
 
-> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-ARTÍCULO 33 QUÁTER. A la Secretaría de Inversión Pública Productiva, le corresponde el despacho de los siguientes asuntos:
+ARTÍCULO 33 QUÁTER. A la Secretaría de Vinculación Ciudadana, Proyectos de Innovación Social e Inversión Público Productiva, le corresponde el despacho de los siguientes asuntos:
 
-I. Estudiar, analizar y proponer tanto al Ejecutivo del Estado, así como a los ayuntamientos, modelos financieros que permitan ofrecer fuentes de financiamiento alternas para el incremento de la inversión pública productiva mediante proyectos de asociación público privadas en ambos niveles de gobierno;
+I. Elaborar, formular y ejecutar acciones innovadoras de gestión, administración y ejecución en diferentes áreas del gobierno estatal, en coordinación con los tres órdenes de gobierno, la sociedad civil, la iniciativa privada, entre otros;
 
-II. Presidir y participar en el Comité de Proyectos para la validación de proyectos mediante el esquema de asociaciones público privadas, de conformidad con lo dispuesto en la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza;
+II. Coordinar la participación de los sectores público, social y privado, en la formulación y ejecución de políticas públicas y programas de innovación social;
 
-III. Estructurar y desarrollar los modelos de inversión pública productiva a través de la figura financiera de asociaciones público privada que requieran las diversas unidades administrativas de la administración pública del Estado de Coahuila de Zaragoza;
+III. Proponer soluciones para problemáticas que afecten al Estado, con la participación del sector empresarial y social, que contribuyan al desarrollo sostenible;
 
-IV. Proponer a las dependencias del gobierno del Estado de Coahuila de Zaragoza y a las relativas de los municipios, la instrumentación de modelos de inversión pública productiva a través de asociaciones público privadas;
+IV. Incentivar el desarrollo social y económico del Estado, a través de políticas públicas plurales, con un enfoque transversal, trascendente y sostenible;
 
-V. Celebrar con los ayuntamientos del Estado, cuando así se lo soliciten, convenios para capacitación de funcionarios municipales, en materia de:
+V. Llevar a cabo los proyectos de innovación social que le sean encomendados por el Titular del Ejecutivo;
 
-1. Aplicación e interpretación de la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza;
+VI. Participar en comités, comisiones y consejos, de conformidad con lo dispuesto en las leyes y disposiciones administrativas en la materia o cuando así lo instruya el Titular del Ejecutivo;
 
-2. Integración de comités para la validación de asociaciones público privadas; y
+VII. Suplir al Titular del Ejecutivo del Estado dentro de los consejos, comisiones y comités ciudadanos cuando así lo contemplen los ordenamientos legales y administrativos correspondientes o así lo instruya el Titular del Ejecutivo;
 
-3. Metodología para la estructuración de asociaciones público privadas.
+VIII. Celebrar los contratos, convenios y acuerdos que sean necesarios para el cumplimiento de sus atribuciones;
 
-VI. Colaborar con la Secretaría de Finanzas en el establecimiento de las acciones que permitan dotar de los elementos técnicos, metodológicos y normativos requeridos para su instrumentación, consolidación y seguimiento; todo ello, en aras de lograr una eficiente inversión pública productiva;
+IX. Fungir como el enlace del Gobierno del Estado en materia de vinculación ciudadana y proyectos de innovación social;
 
-VII. Colaborar con la Secretaría de Finanzas en el establecimiento de criterios para la formulación, financiamiento y evaluación de los proyectos de asociaciones público privadas, en la administración pública del Estado de Coahuila de Zaragoza;
+X. Establecer vínculos y acciones, para el fortalecimiento de las relaciones entre el Gobierno del Estado con los distintos órganos y agrupaciones sociales;
 
-VIII. Proponer a la Secretaría de Finanzas y demás dependencias de la administración pública proyectos de asociaciones público privadas, así como evaluar su impacto en los diversos grupos sociales;
+XI. Establecer enlaces de colaboración e intercambio con instituciones académicas y de investigación nacional e internacionales, a fin de enriquecer las políticas y programas en materia de vinculación ciudadana, proyectos de innovación social e inversión pública productiva;
 
-IX. Integrar y administrar la cartera de programas y proyectos de inversión con base en la información que presenten las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza relativos a proyectos de asociaciones público privadas;
+XII. Organizar foros, coloquios, consejos, comités o cualquier otro mecanismo mediante el cual se promueva la vinculación y participación ciudadana y los proyectos de innovación social;
 
-X. Verificar, en coordinación con las instancias competentes, la congruencia de los proyectos de asociaciones público privadas que se lleven a cabo, con los objetivos rectores y estrategias establecidos en el Plan Estatal de Desarrollo;
+XIII. Establecer canales institucionales para incorporar a la agenda pública, los diagnósticos, propuestas y proyectos derivados de innovación social;
 
-XI. Elaborar y emitir directrices relativas a esquemas de gasto de asociaciones público privadas para su observancia por parte de las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza; de igual forma, participar en las propuestas de modificación a la normatividad aplicable relacionada con programas y proyectos de asociaciones público privadas impulsados por dichas dependencias y entidades;
+XIV. Promover la responsabilidad social empresarial a través de principios, directrices y estándares, que garanticen que las operaciones de las empresas se desarrollen en armonía con las políticas públicas, fortalezcan la confianza entre empresa y sociedad, mejoren el clima para la inversión extranjera y aumente la contribución de las empresas multinacionales al desarrollo sostenible;
 
-XII. Proponer criterios, a través de las disposiciones normativas que deben observar las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza, para la formulación e inclusión de programas y proyectos de asociaciones público privadas en sus respectivos presupuestos de egresos de cada ejercicio fiscal y, en su caso, evaluar los mismos;
+XV. Impulsar los marcos legales y regulatorios, las políticas públicas y las medidas adecuadas para incentivar la conducta empresarial responsable en distintas áreas productivas relevantes del Estado;
 
-XIII. Prestar la asesoría que soliciten las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza, así como, de los municipios, respecto de los criterios y directrices que haya emitido la propia Secretaría en materia de gasto de asociaciones público privadas;
+XVI. Favorecer la contribución positiva de las empresas, a través del desarrollo sostenible, así como ayudar a prevenir y abordar el impacto negativo de las operaciones, productos o servicios de las distintas áreas productivas en el Estado;
 
-XIV. Analizar y proponer, en coordinación con las instancias competentes, modalidades de inversión para programas y proyectos de asociación público privadas en el Estado de Coahuila de Zaragoza y sus municipios, atendiendo a las circunstancias coyunturales, económicas y sociales; procurando en todo momento la participación de los sectores público, privado y social en los mismos;
+XVII. Fomentar la aplicación de medidas y estándares internacionales sobre conducta empresarial responsable;
 
-XV. Llevar a cabo en coordinación con las unidades administrativas competentes del Estado de Coahuila de Zaragoza, el seguimiento sobre la rentabilidad social y/o económica de los programas y proyectos de asociaciones público privadas autorizados por el Congreso del Estado de Coahuila de Zaragoza, conforme a las disposiciones contenidas en la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza;
+XVIII. Fungir como enlace y representante de Gobierno del Estado, en los proyectos de responsabilidad social, en los que se tenga injerencia o participación;
 
-XVI. Hacer pública la información en materia de programas y proyectos de asociaciones público privadas, en términos de lo dispuesto en la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza, salvo aquella que sea considerada como de carácter reservado;
+XIX. Incentivar los proyectos de responsabilidad social desde el Gobierno, a través de los mecanismos que la legislación estatal contemple;
 
-XVII. Atender las solicitudes de información de su competencia, en el marco de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza;
+XX. Gestionar donaciones a favor del Gobierno del Estado y sus Entidades, para fines sociales;
 
-XVIII. Elaborar en forma conjunta con la Secretaría de Finanzas la prospectiva de las necesidades del Estado de Coahuila de Zaragoza en materia de asociación público privada a mediano y largo plazos, a partir de los documentos de planeación que elaboren las propias dependencias y entidades, considerando el esquema de asociaciones público privadas, en aras de evitar el endeudamiento de los entes gubernamentales;
+XXI. Facilitar la coordinación en el diseño, ejecución, seguimiento y evaluación de las acciones y medidas para el fomento de las actividades de las organizaciones de la sociedad civil en temas gubernamentales;
 
-XIX. Requerir a las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza, por conducto de las unidades competentes en materia de programación y presupuesto respectivas, la información pertinente para el cumplimiento de sus responsabilidades en materia de asociación público privadas;
+XXII. Desarrollar esquemas de colaboración y participación entre gobierno y sociedad, así como promover la constitución, capacitación y profesionalización de las organizaciones de la sociedad civil;
 
-XX. Proponer a la Secretaría de Finanzas los apartados en materia de gasto, programas y proyectos de asociaciones público privadas, para en su caso, ser incluidos en la exposición de motivos del presupuesto de egresos correspondiente;
+XXIII. Diseñar y ejecutar instrumentos y mecanismos, que contribuyan a que las organizaciones accedan al ejercicio pleno de sus derechos y cumplan con sus obligaciones correspondientes;
 
-XXI. Analizar y, en su caso, adecuar conforme a las legislaciones aplicables en el Estado de Coahuila de Zaragoza, la experiencia tanto a nivel nacional como internacional en el diseño y aplicación de normas y metodologías en materia de asociaciones público privadas;
+XXIV. Promocionar la participación de las organizaciones, en los instrumentos y mecanismos que establezca la legislación correspondiente, para la planeación, ejecución y seguimiento de políticas públicas;
 
-XXII. Participar en foros y organismos del Estado de Coahuila de Zaragoza, en temas relacionados con asociaciones público privadas y su debida instrumentación;
+XXV. Evaluar, en el ámbito de su competencia, la viabilidad de los Proyectos de Innovación Social que le sean propuestos y gestionar ante las instancias competentes los que sean factibles para su posible implementación;
 
-XXIII. Atender, de conformidad con la normatividad aplicable, los requerimientos de información y documentación que efectúe la Auditoría Superior del Estado de Coahuila de Zaragoza, en materia de programas y proyectos de asociaciones público privadas;
+XXVI. Asesorar, en el ámbito de su competencia, a las personas, grupos, asociaciones y colectivos que busquen presentar proyectos de innovación social ante las instancias que correspondan, de los tres órdenes de gobierno;
 
-XXIV. Atender, los requerimientos y consultas en materia de asociaciones público privadas que formulen las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza que incidan en el ámbito presupuestario;
+XXVII. Estudiar, analizar y proponer, tanto al Ejecutivo del Estado como a los ayuntamientos, modelos financieros que permitan ofrecer fuentes de financiamiento alternas para el incremento de la inversión pública productiva, mediante proyectos de asociación público privadas en ambos niveles de gobierno;
 
-XXV. Llevar a cabo los procedimientos de licitación pública, así como, los procedimientos de invitación restringida y adjudicación directa; adjudicación de contratos y suscripción de los mismos que sean necesarios para el desarrollo de proyectos de asociación público privada de conformidad con la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables;
+XXVIII. Estructurar y desarrollar los modelos de inversión pública productiva, a través de la figura financiera de asociaciones público privada que requieran las diversas unidades administrativas de la administración pública del Estado de Coahuila de Zaragoza;
 
-XXVI. Llevar a cabo el registro, análisis y evaluación de los bienes muebles e inmuebles involucrados en los proyectos de asociación público privada que en su caso se instrumenten, así como, coadyuvar en las negociaciones correspondientes, tendientes a la indemnización de particulares por la afectación de bienes inmuebles, y en su caso, proponer su adquisición a la Secretaría de Finanzas e incorporación a la reserva territorial del Estado;
+XXIX. Proponer a las dependencias del Gobierno del Estado de Coahuila de Zaragoza, y a las relativas de los municipios, la instrumentación de modelos de inversión pública productiva a través de asociaciones público privadas;
 
-XXVII. Celebrar los contratos, convenios y acuerdos que sean necesarios para el cumplimiento de sus atribuciones relacionadas con asociaciones público privadas; y
+XXX. Celebrar con los ayuntamientos del Estado, cuando así se lo soliciten, convenios para capacitación de funcionarios municipales, en materia de:
 
-XXVIII. Las demás atribuciones que por la naturaleza de sus funciones sean competencia de la Secretaría.
+a. Aplicación e interpretación de la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza;
+
+b. Integración de comités para la validación de asociaciones público privadas; y
+
+c. Metodología para la estructuración de asociaciones público privadas.
+
+XXXI. Colaborar con la Secretaría de Finanzas en el establecimiento de las acciones que permitan dotar de los elementos técnicos, metodológicos y normativos requeridos para su instrumentación, consolidación y seguimiento, en aras de lograr una eficiente inversión pública productiva;
+
+XXXII. Colaborar con la Secretaría de Finanzas, en el establecimiento de criterios para la formulación, financiamiento y evaluación de los proyectos de asociaciones público privadas, en la administración pública del Estado de Coahuila de Zaragoza;
+
+XXXIII. Proponer a la Secretaría de Finanzas y demás dependencias de la administración pública, proyectos de asociaciones público privadas, así como evaluar su impacto en los diversos grupos sociales;
+
+XXXIV. Integrar y administrar la cartera de programas y proyectos de inversión con base en la información que presenten las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza, relativos a proyectos de asociaciones público privadas;
+
+XXXV. Verificar, en coordinación con las instancias competentes, la congruencia de los proyectos de asociaciones público privadas que se lleven a cabo, con los objetivos rectores y estrategias establecidos en el Plan Estatal de Desarrollo;
+
+XXXVI. Elaborar y emitir directrices relativas a esquemas de gasto de asociaciones público privadas, para su observancia por parte de las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza; de igual forma, participar en las propuestas de modificación a la normatividad aplicable relacionada con programas y proyectos de asociaciones público privadas impulsados por dichas dependencias y entidades;
+
+XXXVII. Proponer criterios, a través de las disposiciones normativas que deben observar las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza, para la formulación e inclusión de programas y proyectos de asociaciones público privadas, en sus respectivos presupuestos de egresos de cada ejercicio fiscal, y en su caso, evaluar los mismos;
+
+XXXVIII. Prestar la asesoría que soliciten las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza, así como, de los municipios, respecto de los criterios y directrices que haya emitido la propia Secretaría en materia de gasto de asociaciones público privadas;
+
+XXXIX. Analizar y proponer, en coordinación con las instancias competentes, modalidades de inversión para programas y proyectos de asociación público privadas en el Estado de Coahuila de Zaragoza y sus municipios, atendiendo a las circunstancias coyunturales, económicas y sociales, procurando en todo momento la participación de los sectores público, privado y social en los mismos;
+
+XL. Llevar a cabo en coordinación con las unidades administrativas competentes del Estado de Coahuila de Zaragoza, el seguimiento sobre la rentabilidad social y/o económica, de los programas y proyectos de asociaciones público privadas autorizados por el Congreso del Estado de Coahuila de Zaragoza, conforme a las disposiciones contenidas en la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza;
+
+XLI. Hacer pública la información en materia de programas y proyectos de asociaciones público privadas, en términos de lo dispuesto en la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza, salvo aquella que sea considerada como de carácter reservado;
+
+XLII. Atender las solicitudes de información de su competencia, en el marco de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza;
+
+XLIII. Elaborar, en forma conjunta con la Secretaría de Finanzas, la prospectiva de las necesidades del Estado de Coahuila de Zaragoza en materia de asociación público privada, a mediano y largo plazo, a partir de los documentos de planeación que elaboren las propias dependencias y entidades, considerando el esquema de asociaciones público privadas, en aras de evitar el endeudamiento de los entes gubernamentales;
+
+XLIV. Requerir a las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza, por conducto de las unidades competentes en materia de programación y presupuesto respectivas, la información pertinente para el cumplimiento de sus responsabilidades en materia de asociaciones público privadas;
+
+XLV. Proponer a la Secretaría de Finanzas, los apartados en materia de gasto, programas y proyectos de asociaciones público privadas, para en su caso, ser incluidos en la exposición de motivos del presupuesto de egresos correspondiente;
+
+XLVI. Analizar, y en su caso, adecuar conforme a las legislaciones aplicables en el Estado de Coahuila de Zaragoza, la experiencia tanto a nivel nacional como internacional, en el diseño y aplicación de normas y metodologías en materia de asociaciones público privadas;
+
+XLVII. Participar en foros y organismos del Estado de Coahuila de Zaragoza, en temas relacionados con asociaciones público privadas y su debida instrumentación;
+
+XLVIII. Atender, de conformidad con la normatividad aplicable, los requerimientos de información y documentación que efectúe la Auditoría Superior del Estado de Coahuila de Zaragoza, en materia de programas y proyectos de asociaciones público privadas;
+
+XLIX. Atender los requerimientos y consultas en materia de asociaciones público privadas, que formulen las dependencias y entidades de la administración pública del Estado de Coahuila de Zaragoza, que incidan en el ámbito presupuestario;
+
+L. Llevar a cabo los procedimientos de licitación pública, así como los procedimientos de invitación restringida y adjudicación directa, adjudicación de contratos y suscripción de los mismos, que sean necesarios para el desarrollo de proyectos de asociaciones público privadas, de conformidad con la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza y demás disposiciones aplicables;
+
+LI. Llevar a cabo el registro, análisis y evaluación de los bienes muebles e inmuebles involucrados en los proyectos de asociaciones público privadas que en su caso se instrumenten, así como coadyuvar en las negociaciones correspondientes, tendientes a la indemnización de particulares por la afectación de bienes inmuebles, y en su caso, proponer su adquisición a la Secretaría de Finanzas e incorporación a la reserva territorial del Estado, y
+
+LII. Las demás atribuciones que por la naturaleza de sus funciones sean competencia de la Secretaría.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2023)</small>
 
@@ -1842,3 +1888,25 @@ DÉCIMO. Dentro de los sesenta días naturales siguientes a la entrada en vigor 
 > <small>(F. DE E., P.O. 29 DE DICIEMBRE DE 2023)</small>
 
 DÉCIMO PRIMERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 101.- SE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 18 Y EL ARTÍCULO 33 QUÁTER, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Cuando en la Ley de Asociaciones Público Privadas para el Estado de Coahuila de Zaragoza, otras leyes, reglamentos, lineamientos o cualquier otra disposición administrativa, así como en procedimientos ante autoridades, se haga referencia o se establezcan facultades y obligaciones a la Secretaría de Inversión Pública Productiva, se entenderán conferidas o impuestas, según sea el caso, a la Secretaría de Vinculación Ciudadana, Proyectos de Innovación Social e Inversión Público Productiva.
+
+CUARTO.- Los asuntos en trámite que se encuentren pendientes en la Secretaría de Inversión Pública Productiva, se continuarán hasta su conclusión, por la Secretaría de Vinculación Ciudadana, Proyectos de Innovación Social e Inversión Público Productiva.
+
+QUINTO.- En un plazo no mayor de ciento ochenta días naturales, contados a partir de la entrada en vigor de este decreto, se deberá efectuar la armonización de los ordenamientos legales y administrativos que correspondan.
+
+SEXTO.- El Reglamento Interior de la Secretaría de Vinculación Ciudadana, Proyectos de Innovación Social e Inversión Pública Productiva, se deberá expedir dentro del plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente decreto.
+
+SÉPTIMO.- La Secretaría de Finanzas, deberá realizar las gestiones necesarias para las adecuaciones presupuestales, con el fin de dar cumplimiento al presente decreto, de conformidad con las disposiciones legales aplicables.
+
+OCTAVO.- La Secretaría de Fiscalización y Rendición de Cuentas, en coordinación con la Secretaría de Vinculación Ciudadana, Proyectos de Innovación Social e Inversión Pública Productiva, y de las unidades administrativas que cambien de adscripción en cumplimiento al presente Decreto, deberán llevar a cabo las gestiones necesarias para los efectos de la entrega recepción que corresponda.
+
+NOVENO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
