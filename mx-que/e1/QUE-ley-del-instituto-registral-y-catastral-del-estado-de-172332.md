@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-instituto-registral-y-catastral-del-estado-de-172332"
 country: "mx"
 rank: "ley"
 publication_date: "2024-03-22"
-last_updated: "2024-03-22"
+last_updated: "2024-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172332&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número 21 del Periódico Oficial del Estado de Querétaro, el viernes 22 de marzo de 2024.
 
@@ -79,15 +79,23 @@ III. Instituto: el Instituto Registral y Catastral del Estado de Querétaro.
 
 El Instituto tendrá las siguientes atribuciones:
 
-I. Operar y administrar el Registro Público Inmobiliario y de Personas Morales, así como el Catastro, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-II. Realizar los asientos y registros, así como expedir las constancias y certificaciones que correspondan;
+I. Coordinar el servicio del registro público y de catastro, de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+II. Realizar los asientos e inscripciones, así como expedir las constancias y certificaciones que correspondan;
 
 III. Consolidar el uso de folios electrónicos para las Unidades Básicas Registrales y Catastrales, el de la cédula registral y cédula catastral, así como de los formatos que se emitan en el ámbito de su competencia;
 
-IV. Crear, desarrollar, operar y administrar el Sistema de Información Registral y de Catastro e Información Territorial, en términos de las disposiciones aplicables y conforme a la suficiencia presupuestal;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-V. Promover la generación de un Sistema de Gestión de Calidad;
+IV. Crear, desarrollar, operar y administrar el Sistema de Información Registral y de Catastro e Información Territorial, el cual estará integrado por el Sistema Integral Registral y por el Sistema de Catastro e Información Territorial;
+
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+V. Promover la generación de un Sistema de Gestión de Calidad y un Sistema de Seguridad de la Información;
 
 VI. Actualizar y fomentar la unificación de la información registral y catastral;
 
@@ -97,7 +105,9 @@ VIII. Suscribir convenios con dependencias y entidades de la administración pú
 
 IX. Coordinar la actualización de la cartografía del Estado;
 
-X. Realizar actividades de capacitación para el funcionamiento óptimo del Instituto para llevar a cabo el cumplimiento de su objeto;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+X. Realizar actividades de capacitación en materia catastral y registral para el funcionamiento óptimo del Instituto para llevar a cabo el cumplimiento de su objeto;
 
 XI. Formular lineamientos, procedimientos, manuales, instructivos y disposiciones administrativas en materia registral y catastral;
 
@@ -109,9 +119,29 @@ XIV. Proporcionar asesoría y el apoyo necesario a los Ayuntamientos en materia 
 
 XV. Coadyuvar con la Secretaría de Gobierno del Poder Ejecutivo del Estado, en los procedimientos de revisión e inspección de las notarías para efecto del cumplimiento de sus obligaciones registrales y catastrales;
 
-XVI. Fomentar la modernización de la prestación de los servicios que ofrece el Instituto, así como los trámites, requisitos y formatos para acceder a los mismos, en términos de las disposiciones aplicables; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-XVII. Las demás que establezcan otras disposiciones jurídicas aplicables.
+XVI. Coadyuvar con la Secretaría de Finanzas del Poder Ejecutivo del Estado, en los procedimientos de revisión, validación y aplicación de actualizaciones catastrales vinculadas al crecimiento recaudatorio del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XVII. Coadyuvar con las autoridades fiscales, en todo lo necesario para cumplir y atender los requerimientos y solicitudes de información y/o documentación que éstas, efectúen en el cumplimiento de sus funciones, facultades y atribuciones;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XVIII. Expedir la cédula catastral y registral, en la que se integren la clave, folios electrónicos, ubicación, descripción y demás datos necesarios de los predios;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XIX. Fomentar la modernización de la prestación de los servicios que ofrece el Instituto, así como los trámites, requisitos y formatos para acceder a los mismos, en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XX. Crear programas de capacitación, inductiva y de actualización permanente, a los servidores públicos adscritos a las diversas unidades administrativas y operativas del Instituto, con el objeto de formar perfiles profesionales en materia registral, catastral y de gestión, investigación, administración y estadística territorial, en coordinación con las dependencias y los organismos, públicos y privados, competentes;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XXI. Las demás que establezcan otras disposiciones jurídicas aplicables, o aquellas establecidas en el Reglamento del Instituto de conformidad con su estructura orgánica.
 
 ### Capítulo II. Del patrimonio
 
@@ -131,11 +161,15 @@ V. Las donaciones o legados que se otorguen a su favor;
 
 VI. Los bienes muebles e inmuebles de su propiedad, los que le sean transmitidos y los que adquiera por cualquier título legal; y
 
-VII. Todos los demás bienes, servicios o derechos que perciba en el cumplimiento de su objeto.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Todos los demás bienes, servicios o recursos que perciba en el cumplimiento de su objeto, con excepción de los derivados de contribuciones.
+
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 6.
 
-Los bienes inmuebles que formen parte del patrimonio del Instituto serán inembargables e imprescriptibles.
+Los bienes inmuebles que formen parte del patrimonio del Instituto serán inembargables e imprescriptibles; asimismo, serán inalienables mientras estén afectos al cumplimiento del objeto del Instituto.
 
 ###### Artículo 7.
 
@@ -235,15 +269,25 @@ I. Establecer las políticas generales de actuación a que se sujetará el Insti
 
 II. Aprobar la estructura orgánica del Instituto que proponga el Director General y las modificaciones que procedan a la misma, de acuerdo a la normatividad aplicable, la suficiencia presupuestaria y demás disposiciones;
 
-III. Aprobar el presupuesto anual de egresos y la estimación de ingresos del Instituto, sujetándose a los lineamientos generales que en materia de gasto establezca la Secretaría de Finanzas del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+III. Aprobar el presupuesto anual de egresos y la estimación de ingresos del Instituto, sujetándose a los lineamientos generales que en materia de gasto y demás disposiciones que establezca la Secretaría de Finanzas del Poder Ejecutivo del Estado, de conformidad con las disposiciones legales aplicables;
 
 IV. Aprobar el programa anual de adquisiciones de bienes y servicios;
 
-V. Aprobar el anteproyecto del Reglamento Interior del Instituto; así como sus manuales de organización, procedimientos y servicios al público;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-VI. Aprobar anualmente, previo informe del Director General y los dictámenes de auditores externos, los estados financieros del Instituto; y
+V. Aprobar el anteproyecto del Reglamento Interior del Instituto; así como sus manuales de organización, procedimientos, servicios al público, normas técnicas, lineamientos instrucciones, disposiciones administrativas y cualesquiera otros que regulen la operación y funcionamiento del Instituto;
 
-VII. Las demás que se deriven de esta Ley y otros ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Aprobar anualmente, previo informe del Director General y los dictámenes de auditores externos, los estados financieros del Instituto;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+VII. Aprobar los nuevos conceptos de servicios que se otorguen y la contraprestación correspondiente, a propuesta del Director General, atendiendo a lo dispuesto en las disposiciones aplicables; y
+
+VIII. Las demás que se deriven de esta Ley y otros ordenamientos aplicables.
 
 ###### Artículo 14.
 
@@ -287,7 +331,9 @@ El Titular del Poder Ejecutivo del Estado de Querétaro, nombrará y removerá l
 
 I. Haber residido en el Estado, por lo menos tres años antes de su designación;
 
-II. Contar con Título de licenciatura, ingeniería, relacionado en la materia registral y catastral, legalmente expedido y registrado;
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+II. Contar con Título de licenciatura, ingeniería, o relacionado en la materia registral y catastral, legalmente expedido y registrado;
 
 III. Tener al menos cinco años de ejercicio profesional;
 
@@ -319,9 +365,31 @@ VIII. Emitir autorizaciones a usuarios y a autoridades locales que lo soliciten,
 
 IX. Celebrar, otorgar y suscribir toda clase de actos y documentos jurídicos inherentes al objeto del Instituto;
 
-X. Representar al Instituto en los procesos judiciales, civiles, penales, mercantiles, administrativos, juicio de amparo o de cualquier otra naturaleza ante una autoridad, sin perjuicio de que ésta pueda ser delegada en los Directores del propio Instituto; y
+> <small>(REFORMADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-XI. Las demás que le encomiende el Consejo Directivo, aquellas que deriven de la presente Ley y demás disposiciones aplicables.
+X. Representar al Instituto en los procesos judiciales, civiles, penales, mercantiles, administrativos, juicio de amparo o de cualquier otra naturaleza ante una autoridad, con excepción de la materia fiscal, sin perjuicio de que ésta pueda ser delegada en los Directores del propio Instituto;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XI. Proporcionar a las autoridades fiscales, la información y/o documentación que éstas le soliciten, en el cumplimiento de sus funciones, facultades y atribuciones;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XII. Dar cumplimiento a la normativa en materia de contabilidad, manejo de recursos públicos, disciplina financiera, tributaria, administrativa y demás que resulte aplicable;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XIII. Proponer al Consejo Directivo la estructura orgánica del Instituto y las modificaciones que procedan a la misma, de acuerdo a la normatividad aplicable, la suficiencia presupuestaria y demás disposiciones;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XIV. Proponer al Consejo Directivo los nuevos conceptos de servicios que se otorguen y la contraprestación correspondiente, atendiendo a lo dispuesto en las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XV. Proponer al Consejo Directivo la creación de los programas de capacitación, inductiva y de actualización permanente, a los servidores públicos adscritos a las diversas unidades administrativas y operativas del Instituto, con el objeto de formar perfiles profesionales en materia registral, catastral y de gestión, investigación, administración y estadística territorial, en coordinación con las dependencias y los organismos públicos y privados competentes; y
+
+XVI. Las demás que le encomiende el Consejo Directivo, aquellas que deriven de la presente Ley y demás disposiciones aplicables.
 
 ### Capítulo IV. Del Órgano Interno De Control
 
@@ -367,7 +435,13 @@ Las relaciones laborales del Instituto y su personal se regirán por la Ley de l
 
 Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
 
-El Instituto Registral y Catastral del Estado de Querétaro iniciará operaciones 6 (seis) meses después de la entrada en vigor de la presente Ley.
+> <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+El Instituto Registral y Catastral del Estado de Querétaro iniciará operaciones el 01 de enero de 2025.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+Para tal efecto, se deberán realizar todas las gestiones administrativas y legales que se requieran previo al inicio de operaciones que permitan la correcta integración, formalización, operación y cumplimiento de lo establecido en la presente Ley y demás disposiciones aplicables.
 
 Artículo Segundo. El Director General del Instituto Registral y Catastral del Estado de Querétaro deberá realizar de inmediato los trámites correspondientes para la obtención de los registros fiscales y administrativos que exijan las disposiciones legales, para la debida operación de la entidad paraestatal, así como de las cuentas bancarias, convenios y demás instrumentos jurídicos con instituciones públicas y privadas para el cumplimiento de su objeto.
 
@@ -395,9 +469,7 @@ Artículo Decimoprimero. Todas las referencias en las disposiciones jurídicas y
 
 De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de (sic) Consejo de Tasadores del Estado de Querétaro.
 
-Artículo Decimosegundo. Todas las referencias en las disposiciones jurídicas y administrativas hechas a valuador y/o valuadores, se entenderán realizadas a tasador y/o tasadores.
-
-De igual forma, todas las referencias en las disposiciones jurídicas y administrativas hechas al Consejo de Valuadores del Estado de Querétaro, se entenderán realizas (sic) a favor de (sic) Consejo de Tasadores del Estado de Querétaro.
+Artículo Decimosegundo. (DEROGADO, P.O. 20 DE SEPTIEMBRE DE 2024)
 
 LO TENDRÁ ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO DE QUERÉTARO Y MANDARÁ SE IMPRIMA, PUBLIQUE Y OBSERVE.
 
@@ -436,3 +508,15 @@ Rúbrica
 Carlos Alberto Alcaraz Gutiérrez
 
 Secretario de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO, DE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO, DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO, DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO Y DE LA LEY QUE CREA LA LEY DEL INSTITUTO REGISTRAL Y CATASTRAL DEL ESTADO DE QUERÉTARO Y REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO; DE LA LEY REGISTRAL DEL ESTADO DE QUERÉTARO; DE LA LEY DEL NOTARIADO DEL ESTADO DE QUERÉTARO; DE LA LEY DE CATASTRO PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE HACIENDA DEL ESTADO DE QUERÉTARO; DE LA LEY DE VALUACIÓN INMOBILIARIA PARA EL ESTADO DE QUERÉTARO; DE LA LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA DEL ESTADO DE QUERÉTARO; LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO; LEY DE EXPROPIACIÓN DEL ESTADO DE QUERÉTARO, LEY DE FIRMA ELECTRÓNICA AVANZADA PARA EL ESTADO DE QUERÉTARO; Y DEL CÓDIGO CIVIL DEL ESTADO DE QUERÉTARO, EN MATERIA REGISTRAL Y CATASTRAL EN EL ESTADO DE QUERÉTARO".]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Tercero. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
