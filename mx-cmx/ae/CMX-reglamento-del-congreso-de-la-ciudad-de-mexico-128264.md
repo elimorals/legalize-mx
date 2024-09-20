@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2023-12-08"
+last_updated: "2024-09-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE SEPTIEMBRE DE 2024.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -93,6 +93,10 @@ XV. Dieta: Es la remuneración irrenunciable por el desempeño del cargo de la o
 XVI. Diputado: La o el Diputado (sic) funciones dentro del Congreso de la Ciudad;
 
 XVII. Diputado sin partido: La o el Diputado que emana de una contienda electoral y haya solicitado su registro ante la autoridad competente con tal carácter, en términos de lo dispuesto por el artículo 27, apartado A de la Constitución Local;
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+XVII Bis. Diputación Migrante: La persona diputada dentro del Congreso que representa a las personas migrantes originarias de la Ciudad de México, en términos de las disposiciones aplicables.
 
 XVIII. Gaceta parlamentaria: Documento de difusión interno de los instrumentos parlamentarios inscritos en el orden del día del Congreso;
 
@@ -197,6 +201,12 @@ II. Proponer al Pleno propuestas de iniciativas constitucionales, de leyes o dec
 III. Retirar las proposiciones, iniciativas e instrumentos enunciados en las fracciones anteriores antes de su aprobación en la o las Comisiones respectivas,
 
 IV. Asistir con voz y voto a las sesiones del Pleno, la Comisión Permanente, las Comisiones y los Comités, según sea el caso;
+
+> <small>(ADICIONADA, G.O. 20 DE SEPTIEMBRE DE 2024)</small>
+
+IV Bis. En el caso de la persona que represente a la Diputación Migrante, podrá formar parte de las sesiones en Pleno, la Comisión Permanente, en Comisiones o Comités, a través de la vía remota, garantizándole la identificación, registro de asistencia, participación y voto, así como el acceso y disponibilidad de la documentación necesaria.
+
+Esta modalidad estará sujeta a los lineamientos que para su desarrollo acuerde la Junta, y será instrumentada por la Coordinación de Servicios Parlamentarios, cuando sea necesario que la persona que representa a la Diputación Migrante lo requiera para el cumplimiento de su función representativa;
 
 V. Integrar las Comisiones y los Comités, participar en sus trabajos, así como en la formulación de sus dictámenes, opiniones y recomendaciones;
 
@@ -2488,9 +2498,9 @@ XX. Ordenar el envío de la documentación pertinente a la Gaceta para su public
 
 XXI. Ordenar el envío de los dictámenes aprobados a la Coordinación de Servicios Parlamentarios para su publicación en el sitio electrónico y ser enlistados para su aprobación en el Pleno del Congreso;
 
-> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-XXII. Remitir a la Junta, su programa anual de trabajo y sus informes semestrales de actividades, aprobado por la Comisión o Comité;
+XXII. Remitir a la Junta y Mesa Directiva, su programa anual de trabajo y sus informes semestrales y final de actividades, aprobados por la Comisión o Comité;
 
 XXIII. Remitir al área de Comunicación Social y a la Coordinación de Servicios Parlamentarios, una vez concluida la sesión respectiva, la lista de asistencia de las y los Diputados que hayan asistido a la misma;
 
@@ -2700,9 +2710,9 @@ XI. Preparar los programas anuales de trabajo;
 
 XII. Realizar el análisis del informe con el que las y los servidores den cuenta al Congreso del estado que guardan sus respectivos ramos, previsto en el 29 Aparatado D incisos k y p de la Constitución Local;
 
-> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, G.O. 20 DE SEPTIEMBRE DE 2024)</small>
 
-XIII. Redactar los informes semestrales de actividades y
+XIII. Elaborar, aprobar y remitir para su difusión sus informes semestrales y final de actividades, y
 
 XIV. Resolver los acuerdos o resoluciones que considere la propia Comisión, relacionados con las actividades que le corresponden en los términos de la ley, este reglamento y los acuerdos del Congreso, relacionados con su competencia.
 
@@ -2892,7 +2902,7 @@ VII. La versión estenográfica será puesta a consideración de las y los integ
 
 > <small>(REFORMADA, G.O. 9 DE MAYO DE 2019)</small>
 
-VIII. Cualquiera de las Diputadas y Diputados podrán solicitar copia de las versiones estenográficas de las Comisiones o Comités, aún y cuando no sean integrantes de las mismas. El Congreso a través de las unidades administrativas competentes, garantizará que las y los Diputados y la población en general tenga acceso a esta información a través de sistemas de cómputo, mecanismos, instrumentos expeditos, ágiles, eficientes y económicos.
+VIII. Cualquiera de las Diputadas y (sic) Diputados podrán solicitar copia de las versiones estenográficas de las Comisiones o Comités, aún y cuando no sean integrantes de las mismas. El Congreso a través de las unidades administrativas competentes, garantizará que las y los Diputados y la población en general tenga acceso a esta información a través de sistemas de cómputo, mecanismos, instrumentos expeditos, ágiles, eficientes y económicos.
 
 ###### Artículo 234.
 
@@ -6495,6 +6505,22 @@ SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publ
 G.O. 8 DE DICIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS: 59, FRACCIONES I Y IV, 370, FRACCIÓN III EN SU INCISO M, 371 FRACCIONES VII, VIII Y IX, 372, PÁRRAFO PRIMERO; SE REFORMA EL ARTÍCULO 373, EN SUS PÁRRAFOS PRIMERO, SEGUNDO EN SUS FRACCIONES VII Y VIII, Y PÁRRAFO CUARTO, ADICIONÁNDOSELE UNA FRACCIÓN IX; SE REFORMAN LOS ARTÍCULOS 375, 400, 402, 412, 413 Y 417; SE DEROGA EL ARTÍCULO 418; SE REFORMA EL ARTÍCULO 428; SE DEROGA EL ARTÍCULO 429; SE REFORMA EL ARTÍCULO 430; SE REFORMA LA DENOMINACIÓN DE LA SECCIÓN DÉCIMA TERCERA, DEL CAPÍTULO II, DEL TÍTULO DÉCIMO, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 448, TODOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 3 Y SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 72, AMBOS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO. SE REFORMAN LOS ARTÍCULOS 211, FRACCIÓN XXII Y 222, FRACCIÓN XIII, DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 20 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO POR EL QUE "SE ADICIONA LA FRACCIÓN XVII BIS AL ARTÍCULO 4 Y SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 5 BIS, AMBOS DE LA LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO; SE ADICIONAN LA FRACCIÓN XVII BIS AL ARTÍCULO 2, Y LA FRACCIÓN IV BIS AL ARTÍCULO 5, AMBOS DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
 
 PRIMERO. El presente Decreto entrará en vigor, al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
 
