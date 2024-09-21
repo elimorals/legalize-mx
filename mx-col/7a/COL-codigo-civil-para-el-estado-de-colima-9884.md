@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "2023-12-09"
+last_updated: "2024-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de septiembre de 1954.
 
@@ -1481,9 +1481,9 @@ IV. Cualquier tercero podrá demandar en juicio ordinario, en cualquier tiempo d
 
 ART. 135 BIS.- Pueden pedir el levantamiento de una acta de nacimiento para el reconocimiento de la identidad de género, previa la anotación correspondiente en su acta de nacimiento primigenia, las personas que requieran el reconocimiento de su identidad de género.
 
-> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
-El proceso administrativo para el reconocimiento de identidad de género se llevará a cabo ante la Dirección General del Registro Civil del Estado, cumpliendo todas las formalidades que exige su Reglamento.
+El proceso administrativo para el reconocimiento de identidad de género se llevará a cabo ante la Oficialía del Registro Civil, cumpliendo todas las formalidades que establece la Ley.
 
 > <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2019)</small>
 
@@ -1537,9 +1537,7 @@ I. Ser de nacionalidad mexicana;
 
 II. Tener al menos 18 años de edad;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2019)</small>
-
-III. Desahogar ante la Dirección General del Registro Civil, la comparecencia que se detalla en el Reglamento y manual de Procedimientos del Registro Civil;
+III. (DEROGADA, P.O. 21 DE SEPTIEMBRE DE 2024)
 
 IV. Manifestar el nombre completo y los datos registrales asentados en el acta primigenia; y
 
@@ -12028,3 +12026,15 @@ P.O. 9 DE DICIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
 
 SEGUNDO. En un plazo no mayor a ciento ochenta días posteriores a la publicación del presente Decreto, el Poder Ejecutivo del Estado y los Ayuntamientos de la Entidad, realizarán las modificaciones de orden reglamentario y administrativo necesarias para garantizar la correcta y oportuna ejecución de las nuevas disposiciones que resultan de la reforma materia del presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 492.- POR EL QUE SE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 135 BIS Y SE DEROGA LA FRACCIÓN III DEL ARTÍCULO 135 QUÁTER DEL CÓDIGO CIVIL PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+TERCERO.- En lo que respecta a las reformas al Código Civil para el Estado de Colima contenidas en el presente decreto, el Poder Ejecutivo del Estado y los Ayuntamientos, en un plazo no mayor a 120 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán adecuar sus reglamentos respectivos, a fin de garantizar el derecho de acceso a las nuevas actas para el reconocimiento de identidad de género.
+
+CUARTO.- La Dirección General del Registro Civil del Estado de Colima se coordinará con las Oficialías del Registro Civil de los Municipios, para que en un término no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, elaboren el formato único de solicitud y demás documentación necesaria para el ejercicio del derecho que se tutela en este instrumento.
