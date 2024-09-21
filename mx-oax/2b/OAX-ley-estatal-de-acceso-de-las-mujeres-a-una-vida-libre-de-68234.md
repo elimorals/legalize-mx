@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-acceso-de-las-mujeres-a-una-vida-libre-de-68234"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-23"
-last_updated: "2024-09-14"
+last_updated: "2024-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 23 de marzo de 2009.
 
@@ -182,6 +182,10 @@ XX. Trabajo reeducativo con agresores: El proceso mediante el cual se trabaja de
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2024)</small>
 
 XX (SIC). Espacio Público: Espacios abiertos, áreas o predios destinados al uso y disfrute colectivo, con acceso generalizado y libre tránsito.
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+XX (SIC). Espacios seguros: Lugar al cual, toda mujer pueda acudir cuando se sienta en alguna situación de riesgo, vulnerabilidad o amenazada a fin de que pueda recibir apoyo inmediato para salvaguardar su integridad, así como para poder recibir información relacionada con la autoprotección ante situaciones de riesgo y números telefónicos de emergencia.
 
 ###### Artículo 7.
 
@@ -581,9 +585,11 @@ Las plataformas digitales, medios de comunicación, redes sociales o páginas el
 
 ### Capítulo Cuarto. En el Ámbito Social o en la Comunidad
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 18.
 
-Violencia en el ámbito social o en la comunidad, son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
+Violencia en el ámbito social o en la comunidad, son los actos individuales o colectivos que transgreden derechos fundamentales de las mujeres y propician su denigración, discriminación, marginación o exclusión en el ámbito público; puede ocurrir en espacios, públicos, de libre tránsito, espacios de uso común, transporte público, entre otros, y pueden manifestarse de manera verbal o física con una connotación sexual de género.
 
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2021)</small>
 
@@ -658,6 +664,10 @@ III. Proporcionar a las víctimas, la atención médica, psicológica y jurídic
 IV. Proporcionar un refugio seguro a las víctimas, e;
 
 V. Informar a las Instituciones Policiales o Ministerio Público de los casos de violencia que ocurran en los centros educativos.
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Designar en sus instalaciones lugares que funjan como espacios seguros.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
 
@@ -813,13 +823,13 @@ I. Administrativas: que son emitidas por el Ministerio Público y las autoridade
 
 II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
-Las órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación o prolongarse hasta que cese la situación de riesgo para la víctima.
+Las órdenes de protección tendrán vigencia durante el tiempo que dure la investigación y permanecerán en las demás etapas del proceso; la permanencia dependerá de la situación de riesgo para la víctima.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
-Deberán expedirse de manera inmediata a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan.
+Las órdenes de protección se expedirán de manera inmediata, o a más tardar, dentro de las dos horas siguientes al conocimiento de los hechos que las generan, garantizando durante todo tiempo la seguridad de la víctima.
 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
 
@@ -1283,9 +1293,9 @@ III. Incorporar acciones afirmativas con carácter programático para lograr la 
 
 IV. Orientar y promover entre la comunidad las políticas y acciones de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
-V. Validar los protocolos de actuación y de atención a mujeres en situación de violencia, los centros de reeducación para agresores, así como los relativos a la operación de refugio;
+V. Validar los protocolos de actuación y de atención a mujeres en situación de violencia, los centros de reeducación para agresores, así como los relativos a la operación de refugios y espacios seguros;
 
 VI. Promover la investigación científica con perspectiva de género en las materias propias de esta Ley;
 
@@ -1315,13 +1325,13 @@ XVI. Suscribir convenios de colaboración con los Consejos Municipales del Estad
 
 XVII. Aprobar el informe anual que rinda la Secretaría Ejecutiva del Sistema;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
-XVIII. Garantizar la instalación de Unidades de Atención Integral, Refugios, Centros Reeducativos y módulos de información en las principales cabeceras distritales del Estado;
+XVIII. Garantizar la instalación de Unidades de Atención Integral, Refugios, Espacios seguros, Centros Reeducativos y módulos de información en las principales cabeceras distritales del Estado;
 
-> <small>(REFORMADA, P.O. 29 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
-XIX. Evaluar los procedimientos de atención a víctimas en las Unidades de Atención Integral y los refugios;
+XIX. Evaluar los procedimientos de atención a víctimas en las Unidades de Atención Integral y los refugios y espacios seguros;
 
 XX. Reconocer el desempeño de las instituciones públicas y privadas que se distingan por el cumplimiento de sus políticas de prevención y atención a la violencia contra las mujeres; y
 
@@ -1545,9 +1555,13 @@ V. Fomentar y apoyar programas de educación pública y privada, destinados a co
 
 VI. Diseñar y proporcionar a las víctimas de violencia y a sus agresores, programas eficaces de atención, reeducación, rehabilitación y capacitación, de forma tal que les permitan participar plenamente en la vida pública y social;
 
-VII. Determinar la procedencia, ubicación, instalación y recursos de las Unidades de Atención Integral, Refugios para la Atención a Mujeres Víctimas de Violencia y Centros de Reeducación para Agresores;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. Elaborar un modelo integral de atención a los derechos humanos y empoderamiento de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas;
+VII. Determinar la procedencia, ubicación, instalación y recursos de las Unidades de Atención Integral, Refugios para la Atención a Mujeres Víctimas de Violencia, Espacios seguros y Centros de Reeducación para Agresores;
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+VIII. Elaborar un modelo integral de atención a los derechos humanos y empoderamiento de las mujeres que deberán instrumentar las instituciones, los centros de atención, los refugios que atiendan a víctimas y los espacios seguros;
 
 IX. Promover que los medios de comunicación fomenten el respeto a los derechos humanos de las mujeres y su dignidad, aplicando criterios adecuados que favorezcan la erradicación de la violencia que contra ellas se ejerce;
 
@@ -1819,7 +1833,9 @@ IV. Capacitar con perspectiva de género, derechos humanos, diferencial, interse
 
 V. Instalar módulos de información en sus unidades administrativas, sobre las causas y efectos de la violencia contra las mujeres y su relación con la violencia social;
 
-VI. Colaborar en el diseño de los procedimientos de atención a víctimas en las Unidades de Atención Integral y los Refugios;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+VI. Colaborar en el diseño de los procedimientos de atención a víctimas en las Unidades de Atención Integral, Refugios y Espacios Seguros;
 
 VII. Promover que la atención ofrecida por las instituciones integrantes del Sistema, sea proporcionada por especialistas en la materia;
 
@@ -2405,15 +2421,19 @@ XIII. Las demás que le confiera esta Ley y otros ordenamientos aplicables.
 
 ## TÍTULO IV. DE LA PREVENCIÓN DE LA VIOLENCIA, ATENCIÓN INTEGRAL A SUS VÍCTIMAS Y REEDUCACIÓN A LOS AGRESORES
 
-### Capítulo Primero. De la prevención de la violencia y las Unidades de Atención Integral
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+### Capítulo primero. De la prevención de la violencia, las Unidades de Atención Integral y los Espacios Seguros
 
 ###### Artículo 71.
 
 La prevención de la violencia contra las mujeres en el Estado, tendrá como objetivo lograr que la sociedad la perciba como un evento antisocial, un problema de derechos humanos, de salud y de seguridad ciudadana. La prevención se llevará a cabo mediante acciones diferenciadas en los ámbitos sociocultural, de las instituciones e individual.
 
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 72.
 
-La atención que se proporcione a las víctimas de violencia de género en el Estado, tendrá como fin salvaguardar su integridad, identidad y derechos, procurará su recuperación y la construcción de un nuevo proyecto de vida. Será gratuita, expedita y se proporcionará desde la perspectiva de género, mediante las Unidades de Atención Integral y los Refugios.
+La atención que se proporcione a las víctimas de violencia de género en el Estado, tendrá como fin salvaguardar su integridad, identidad y derechos, procurará su recuperación y la construcción de un nuevo proyecto de vida. Será gratuita, expedita y se proporcionará desde la perspectiva de género, mediante las Unidades de Atención Integral, los Refugios y los Espacios seguros.
 
 ###### Artículo 73.
 
@@ -2453,9 +2473,19 @@ Los Refugios son espacios temporales de alojamiento para las mujeres y sus hijas
 
 Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia.
 
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 74 Bis.
+
+Los Espacios Seguros son aquellos que se encuentran al interior de todo inmueble que pertenece a alguna institución pública de cualquier nivel de gobierno, el cual ha sido destinado para que toda mujer pueda acudir cuando se sienta en alguna situación de riesgo, vulnerabilidad o amenazada a fin de que pueda recibir apoyo inmediato para salvaguardar su integridad, así como poder recibir información relacionada con la autoprotección ante situaciones de riesgo y números telefónicos de emergencia.
+
+Las autoridades en el ámbito de sus competencias podrán celebrar convenios con particulares para establecer Espacios Seguros para las mujeres en sus establecimientos.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 75.
 
-Las Unidades de Atención Integral y los Refugios contarán con una mujer responsable de su conducción y con el personal necesario para el cumplimiento de sus fines. La responsable y el personal deberán contar con cédula profesional, el perfil y aptitudes adecuadas para el tratamiento de los casos de violencia contra las mujeres.
+Las Unidades de Atención Integral, los Refugios y los Espacios Seguros contarán con una mujer responsable de su conducción y con el personal necesario para el cumplimiento de sus fines. La responsable y el personal deberán contar con cédula profesional, el perfil y aptitudes adecuadas para el tratamiento de los casos de violencia contra las mujeres.
 
 > <small>(REFORMADO, P.O.27 DE MARZO DE 2021)</small>
 
@@ -3202,6 +3232,26 @@ TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco j
 P.O. 14 DE SEPTIEMBRE DE 2024.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2383.- MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II, III, IX Y XII, Y SE ADICIONAN LAS FRACCIONES XIV BIS Y XV BIS AL ARTÍCULO 39, SE ADICIONA EL ARTÍCULO 64 BIS A LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2411.- MEDIANTE EL CUAL REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 25 DE LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2412.- MEDIANTE EL CUAL REFORMAN EL ARTÍCULO 18, LAS FRACCIONES V, XVIII Y XIX DEL ARTÍCULO 42, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 51, LA FRACCIÓN VI DEL ARTÍCULO 58, LA DENOMINACIÓN DEL CAPÍTULO PRIMERO "DE LA PREVENCIÓN DE LA VIOLENCIA Y LAS UNIDADES DE ATENCIÓN INTEGRAL Y LOS ESPACIOS SEGUROS" DEL TÍTULO IV, EL ARTÍCULO 72, EL ARTÍCULO 75; Y SE ADICIONA LA FRACCIÓN XX AL ARTÍCULO 6, LA FRACCIÓN VI AL ARTÍCULO 20 BIS Y EL ARTÍCULO 74 BIS A LA LEY ESTATAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DE GÉNERO”.]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
