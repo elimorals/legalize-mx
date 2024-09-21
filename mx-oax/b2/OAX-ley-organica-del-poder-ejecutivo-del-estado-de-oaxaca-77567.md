@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2024-01-31"
+last_updated: "2024-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -245,9 +245,9 @@ VI. Tener un modo honesto de vivir y aprobar la evaluación de control de confia
 
 VII. (DEROGADA, P.O. 15 DE OCTUBRE DE 2016)
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
-VIII. No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago, cancele esa deuda, o bien, tramite el descuento correspondiente.
+VIII. No haber sido condenada o condenado mediante resolución firme por violencia familiar; por delitos cometidos por razones de género y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancias que así correspondan, en términos de los (sic) dispuesto en la ley de la materia.
 
 > <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2016)</small>
 
@@ -4242,3 +4242,11 @@ SÉPTIMO. Los nombramientos por condición laboral de Mandos Medios y Superiores
 Los derechos laborales de los empleados de base que en su caso estén adscrito (sic) la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, se respetarán conforme a las disposiciones normativas aplicables.
 
 OCTAVO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2400.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 21 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
