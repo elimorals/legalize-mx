@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-vivienda-para-el-estado-de-oaxaca-67965"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-28"
-last_updated: "2023-01-05"
+last_updated: "2024-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE VIVIENDA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de marzo de 2009.
 
@@ -205,11 +205,17 @@ VII. Solicitar toda clase de información en materia de vivienda, a las dependen
 
 VIII. En general, coordinar aquellas acciones que tengan por objeto modernizar y hacer eficientes las instituciones, procesos y procedimientos que garanticen la seguridad jurídica de la propiedad en el Estado de Oaxaca, que regula esta Ley;
 
-IX. Proveer al cumplimiento de las disposiciones de esta Ley, expidiendo los reglamentos u ordenamientos administrativos en todos los aspectos que no estén encomendados expresamente a los Ayuntamientos; y
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+IX. Proveer al cumplimiento de las disposiciones de esta Ley, expidiendo los reglamentos u ordenamientos administrativos en todos los aspectos que no estén encomendados expresamente a los Ayuntamientos;
+
+> <small>(ADICIONADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+X. Promover mecanismos para la adquisición de vivienda para personas jóvenes, mediante esquemas de crédito y subsidios específicos, de acuerdo con su situación social; y
 
 > <small>(REFORMADA, P.O. 29 DE AGOSTO DEL 2020)</small>
 
-X. Las demás, que en el rubro de vivienda le asigne la Constitución Política del Estado, la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca y esta Ley.
+X (SIC). Las demás, que en el rubro de vivienda le asigne la Constitución Política del Estado, la Ley de Ordenamiento Territorial y Desarrollo Urbano para el Estado de Oaxaca y esta Ley.
 
 > <small>(REFORMADO, P.O. 5 DE ENERO DEL 2023)</small>
 
@@ -259,7 +265,9 @@ XIV. Fomentar y apoyar medidas que promuevan una mejor calidad de la vivienda;
 
 XV. Promover los mecanismos y los instrumentos que propicien la reducción de costos, simplificación y facilitación de los procedimientos y trámites que fomenten la productividad habitacional;
 
-XVI. Establecer y operar sistemas de financiamiento y subsidios que permitan a la población de escasos recursos e indígena, obtener recursos preferenciales para adquisición de tierra para uso habitacional o para adquisición, construcción, mejoramiento, ampliación y rehabilitación de vivienda;
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+XVI. Establecer y operar sistemas de financiamiento y subsidios que permitan a la población de escasos recursos e indígena y afromexicana, obtener recursos preferenciales para adquisición de tierra para uso habitacional o para adquisición, construcción, mejoramiento, ampliación y rehabilitación de vivienda;
 
 XVII. Instrumentar mecanismos indicativos de las tendencias del desarrollo urbano y el ordenamiento territorial a corto, mediano y largo plazo;
 
@@ -841,6 +849,12 @@ El Estado y los Municipios en el marco de sus respectivas competencias, a travé
 
 Los programas de construcción de viviendas por el sector privado podrán gozar de los beneficios, exenciones y aplicación de subsidios y facilidades administrativas que emita el Ejecutivo del Estado o los Ayuntamientos, siempre y cuando estén previamente registrados y calificados por Vivienda Bienestar, como una acción de vivienda contemplada en el contexto de los programas de vivienda y cumplan con los lineamientos que emita Vivienda Bienestar.
 
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 39 Bis.
+
+Vivienda Bienestar procurará facilidades específicas para que las personas con discapacidad reciban créditos o subsidios para la adquisición, construcción, remodelación o adaptación de vivienda.
+
 ## TÍTULO CUARTO. DEL SUELO PARA VIVIENDA
 
 ### CAPÍTULO ÚNICO. DEL SUELO PARA VIVIENDA
@@ -1063,9 +1077,11 @@ I. Autoproductores y autoconstructores individuales o colectivos, para sus disti
 
 II. Productores y agentes técnicos especializados que operen sin fines de lucro, tales como organismos no gubernamentales, asociaciones gremiales e instituciones de asistencia privada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 60.
 
-Las políticas y los programas dirigidos al estímulo y al apoyo de la producción social de vivienda y de la vivienda urbana, rural e indígena deberán:
+Las políticas y los programas dirigidos al estímulo y al apoyo de la producción social de vivienda y de la vivienda urbana, rural e indígena y afromexicana deberán:
 
 I. Contemplar todo el proceso de producción habitacional, incluyendo los distintos tipos, modalidades y necesidades de vivienda;
 
@@ -1077,11 +1093,15 @@ IV. Considerar la integralidad y progresividad en la solución de las necesidade
 
 V. Atender las distintas formas legales de propiedad y posesión de la tierra, así como de tenencia individual o colectiva, en propiedad privada o no, adecuando los diversos instrumentos y productos financieros al efecto.
 
-Tratándose de las comunidades rurales e indígenas, deberán ser reconocidas y atendidas sus características culturales, respetando sus formas de asentamiento territorial y favoreciendo los sistemas constructivos acordes con el entorno bioclimático de las regiones, así como sus modos de producción de vivienda.
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+Tratándose de las comunidades rurales e indígenas o afromexicanas, deberán ser reconocidas y atendidas sus características culturales, respetando sus formas de asentamiento territorial y favoreciendo los sistemas constructivos acordes con el entorno bioclimático de las regiones, así como sus modos de producción de vivienda.
+
+> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 61.
 
-El Estado y los Municipios deberán apoyar preferentemente programas colectivos de autoconstrucción cuando se traten de vivienda rural o indígena, en el que los integrantes de la propia comunidad participen en los trabajos respectivos de manera conjunta de tal suerte, que, además de debatir los costos, se fomente entre ellos los lazos de solidaridad y el espíritu comunitario, procurando el aprovechamiento de los materiales disponibles de manera natural en la zona de que se trate.
+El Estado y los Municipios deberán apoyar preferentemente programas colectivos de autoconstrucción cuando se traten de vivienda rural, indígena o afromexicana, en el que los integrantes de la propia comunidad participen en los trabajos respectivos de manera conjunta de tal suerte, que, además de debatir los costos, se fomente entre ellos los lazos de solidaridad y el espíritu comunitario, procurando el aprovechamiento de los materiales disponibles de manera natural en la zona de que se trate.
 
 ###### Artículo 62.
 
@@ -1400,3 +1420,27 @@ OCTAVO. Cuando en diversas disposiciones legales se haga referencia al Servicio 
 NOVENO. Cuando en diversas disposiciones legales se haga referencia a Instituto Oaxaqueño de las Artesanías, se entenderá que se refiere a Instituto para el Fomento y la Protección de las Artesanías.
 
 DÉCIMO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+P.O. 21 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 2408.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 9, EL PRIMER Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 60 Y EL ARTÍCULO 61; Y SE ADICIONA EL ARTÍCULO 39 BIS A LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado de Oaxaca deberá armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de su respectiva entrada en vigor.
+
+P.O. 21 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 2410.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN IX; SE ADICIONA LA FRACCIÓN X Y SE RECORRE LA SUBSECUENTE EN SU RESPECTIVO ORDEN DE NUMERACIÓN, DEL ARTÍCULO 6 DE LA LEY DE VIVIENDA PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que contravengan lo dispuesto en el presente Decreto.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado de Oaxaca deberá armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en el presente Decreto, en el plazo de ciento ochenta días hábiles contados a partir de su respectiva entrada en vigor.
