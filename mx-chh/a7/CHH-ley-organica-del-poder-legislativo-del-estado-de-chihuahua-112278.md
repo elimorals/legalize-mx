@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2024-05-18"
+last_updated: "2024-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -175,9 +175,9 @@ XI.- Veinticinco de diciembre.
 
 XII.- Los que determinen las leyes federales y locales, en caso de elecciones ordinarias y extraordinarias, para desarrollar la jornada electoral.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
 
-### CAPÍTULO II. PARLAMENTO ABIERTO
+### CAPÍTULO II. PARLAMENTO ABIERTO Y OBSERVATORIO CIUDADANO LEGISLATIVO
 
 > <small>(ADICIONADO, P.O. 30 DE ENERO DE 2019)</small>
 
@@ -190,6 +190,24 @@ El Congreso del Estado impulsará la implementación de mejores prácticas de tr
 > <small>(ADICIONADO, P.O. 29 DE ENERO DE 2022)</small>
 
 Como mecanismo de participación ciudadana, se incorporará un espacio permanente en el portal de Internet del H. Congreso del Estado, por medio del cual se reciban las opiniones de la ciudadanía en torno a las iniciativas de ley presentadas, con las salvedades que establezca el Reglamento Interior y de Prácticas Parlamentarias del Poder Legislativo.
+
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+ARTÍCULO 15 TER.- La evaluación del desempeño legislativo y del impacto se harán a través del Observatorio Ciudadano Legislativo, cuya finalidad es medir, valorar y registrar las etapas posteriores al proceso legislativo.
+
+El Observatorio Ciudadano Legislativo se regirá por lo que disponga esta Ley y el Reglamento, aprobado por el Pleno para tal efecto, que contendrá por lo menos:
+
+I. Su estructura y funcionamiento.
+
+II. Mecanismo de designación de quienes lo integren.
+
+III. Principios rectores.
+
+IV. Catálogo de elementos cualitativos y cuantitativos.
+
+V. Métodos, componentes, parámetros e indicadores.
+
+VI. Mecanismos y directrices para mejorar el desempeño legislativo.
 
 ## TÍTULO SEGUNDO. DE LA INSTALACIÓN DE LA LEGISLATURA
 
@@ -2261,6 +2279,10 @@ La cantidad deberá ser entregada dentro del mes siguiente a que se tenga derech
 
 La sesión legislativa, es la reunión que se celebra en el Recinto Oficial, en la cual participan todas las diputadas y los diputados, para desahogar los asuntos que por disposición de la Constitución Política del Estado, esta Ley y demás ordenamientos jurídicos le competen.
 
+> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2024)</small>
+
+En ellas se contará con subtitulaje e intérprete de Lengua de Señas Mexicana, salvo en las que tengan el carácter de privadas.
+
 ###### ARTÍCULO 148.
 
 Los días primero de septiembre y primero de marzo de cada año, el Congreso se reunirá, a partir de las 11:00 horas, en el Salón de Sesiones para inaugurar, respectivamente, el primero y el segundo período ordinario de sesiones.
@@ -3560,3 +3582,27 @@ P.O. 18 DE MAYO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0912/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA Y DEL REGLAMENTO INTERIOR Y DE PRÁCTICAS PARLAMENTARIAS DEL PODER LEGISLATIVO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Administración deberá presupuestar y prever lo necesario para que al iniciar el Primer Periodo Ordinario de Sesiones, dentro del primer año de ejercicio constitucional, de la Sexagésima Octava Legislatura, se encuentre funcionando el servicio de traducción a Lengua de Señas Mexicana.
+
+###### ARTÍCULO TERCERO.
+
+En los términos señalados en el Artículo Transitorio que antecede, la Secretaría de Administración también presupuestará y preverá lo necesario para que al día 02 de enero de 2025, se encuentre funcionando el servicio de subtitulaje.
+
+P.O. 21 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVII/RFLEY/0915/2024 XIV P.E., MEDIANTE EL CUAL SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II, DEL TÍTULO PRIMERO; Y SE ADICIONA EL ARTÍCULO 15 TER, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Para efectos de lo dispuesto en el párrafo segundo del artículo 15 Ter de la Ley Orgánica del Poder Legislativo del Estado de Chihuahua, el Reglamento a que hace alusión deberá ser expedido por el Pleno del H. Congreso, dentro de los 180 días naturales siguientes a la entrada en vigor del presente Decreto.
