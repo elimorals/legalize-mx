@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2024-07-22"
+last_updated: "2024-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -1115,15 +1115,25 @@ XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabi
 
 XIX. Diseñar e implementar las políticas y programas necesarios para la prevención y protección de la integridad sexual de niñas, niños y adolescentes;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 24 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-XX. Asegurar una alimentación nutritiva, suficiente y de calidad que permita lograr su normal crecimiento y óptimo desarrollo físico y mental; y
+XX. Asegurar una alimentación nutritiva, suficiente y de calidad que permita lograr su normal crecimiento y óptimo desarrollo físico y mental;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 24 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-XXI. Adoptar las medidas normativas necesarias para que todos los establecimientos públicos y privados, que permitan el acceso de personas menores de edad, cuenten en la medida de lo posible y de manera progresiva con cambiadores de pañales para niñas y niños, tanto en baños públicos de mujeres, así como baños públicos de hombres; los cuales tendrán que cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes.
+XXI. Establecer medidas tendientes a la prevención y atención de las consecuencias en la salud de niñas y niños ante el uso desmedido de dispositivos electrónicos durante la primera infancia;
 
-Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+XXII. Adoptar las medidas normativas necesarias para que todos los establecimientos públicos y privados que permiten el acceso de personas menores de edad, cuenten con cambiadores de pañales para niñas y niños, tanto en baños públicos de mujeres como baños públicos de hombres; los cuales tendrán que cumplir con la normatividad que establezca la Secretaría de Salud y las Normas Oficiales Mexicanas correspondientes; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+XXIII. Diseñar e implementar acciones y programas para detectar, atender y prevenir el suicidio en niñas, niños y adolescentes.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la higiene, medidas de prevención de accidentes, acciones y programas para la prevención del suicidio y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
 
 El Sector Salud del Estado de Aguascalientes deberá garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior, la igualdad sustantiva y la no discriminación, así como establecer acciones afirmativas a favor de niñas, niños y adolescentes.
 
@@ -3238,3 +3248,11 @@ P.O. 22 DE JULIO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 748.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 790.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del estado de Aguascalientes
