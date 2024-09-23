@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2024-07-01"
+last_updated: "2024-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -41,15 +41,17 @@ CODIGO CIVIL
 
 DISPOSICIONES PRELIMINARES.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 1o.
 
-Las disposiciones de este Código regirán en todo el territorio del Estado de Aguascalientes en asuntos del orden común.
+Este Código regirá en todo el estado de Aguascalientes, en asuntos del orden común.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 2o.
 
-La capacidad jurídica es igual para el hombre y la mujer; en consecuencia, queda prohibido todo tipo de discriminación o restricción alguna, por razón de su sexo, en la adquisición y ejercicio de sus derechos civiles.
+La capacidad jurídica es igual para todas las personas; en consecuencia, queda prohibido todo tipo de discriminación o restricción alguna, por razón de su sexo, en la adquisición y ejercicio de sus derechos civiles.
 
 > <small>(REFORMADO, P.O. 3 DE MAYO DE 2021)</small>
 
@@ -377,15 +379,11 @@ DE LAS ACTAS DE NACIMIENTO.
 
 Toda persona desde su nacimiento, tiene derecho a contar con nombre y los apellidos que le correspondan, así como a ser inscrito en el Registro Civil respectivo de forma inmediata y gratuita, y a que se le expida en forma ágil y sin costo la primera copia certificada de su acta de nacimiento.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 51.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste, al lugar donde se encuentre aquél.
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2017)</small>
-
-Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos dentro de los 90 días de ocurrido el mismo, a falta de éstos, los ascendientes en línea recta, dentro de los 180 días siguientes a la fecha en que ocurrió aquél.
+Las declaraciones de nacimiento se harán presentando a la persona ante el Oficial del Registro Civil o solicitando la comparecencia de éste, al lugar donde se encuentre aquel.
 
 > <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2017)</small>
 
@@ -441,23 +439,27 @@ En el momento en que se lleve a cabo un registro de nacimiento, el Oficial del R
 
 Si se actualiza la presunción a que refiere el artículo 348 del presente Código y quien pretenda realizar el reconocimiento es alguien diverso al marido, tendrá lugar un trámite administrativo en el que el reconocedor y la madre deberán comparecer de manera personal y exhibir una declaratoria en la que manifiesten bajo protesta de decir verdad el vínculo de filiación con la persona registrada.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 58.
 
-Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil, con los vestidos, papeles o cualquier otro objeto encontrado con él, y declarará el día y lugar donde lo hubiera hallado, así como las demás circunstancias que en el caso hayan concurrido y se dará intervención al Ministerio Público.
+Toda persona que encontrare una persona recién nacida o en cuya casa o propiedad fuere expuesta, deberá presentarla ante el Ministerio Público, con los vestidos, valores o cualesquiera otros objetos encontrados con ésta, y declarará el día y lugar donde lo hubiere hallado, así como las demás circunstancias que en su caso hayan concurrido.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Una vez hecho lo anterior, el Ministerio Público dará aviso de tal situación al Oficial del Registro Civil, para los efectos correspondientes.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 59.
 
-La misma obligación tienen los directores o administradores de los Centros de Readaptación y Prevención Social para Mujeres o Reeducación de Menores, hospitales, clínicas, establecimientos de asistencia social, casas de maternidad y casas de cuna, respecto de los niños expuestos en tales instituciones.
+La misma obligación tienen los directores o administradores de los Centros Penitenciarios, Centro Estatal para el Desarrollo del Adolescente, hospitales, clínicas, establecimientos de asistencia social, casas de maternidad, casas de cuna o cualquier otra institución o dependencia publica, respecto de las niñas y niños expuestos en tales instituciones.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 60.
 
-En los registros que se elaboren bajo los supuestos del artículo anterior, se expresarán las circunstancias que se designan en el Artículo 58, la edad aparente del niño, su sexo, el nombre y apellidos que se le pongan y el nombre de la persona o institución que se encargue de él.
+En los registros que se elaboren bajo los supuestos del artículo anterior, se expresarán las circunstancias previstas en el artículo 58 de este Código, la edad aparente, sexo, el nombre y apellidos con que se registre a la niña o niño y el nombre de la persona o institución que lo tenga bajo su cargo.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -593,11 +595,11 @@ El registro de adopción contendrá: nombre, apellidos, fecha, lugar de nacimien
 
 Realizado el registro de adopción, se hará la anotación correspondiente en el registro de nacimiento del adoptado, y se archivará la copia de las diligencias relativas en el apéndice respectivo poniéndole el mismo número del registro de adopción.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 80.
 
-El Juez o Tribunal que resuelva que una adopción queda sin efecto remitirá dentro del término de ocho días, contados a partir de la fecha en que cause ejecutoria la resolución copia certificada de la misma al Oficial del Registro Civil para que cancele el registro de adopción y rectifique el registro de nacimiento.
+El Juez o Tribunal que resuelva que una adopción queda sin efecto remitirá dentro del término de cinco días, contados a partir de la fecha en que cause ejecutoria la resolución copia certificada de la misma al Oficial del Registro Civil para que cancele el registro de adopción y rectifique el registro de nacimiento.
 
 ### CAPITULO V.
 
@@ -1241,11 +1243,27 @@ El matrimonio debe celebrarse ante los Oficiales del Registro Civil y con las fo
 
 Cualquiera condición contraria A LA PERPETUACIÓN DE LA ESPECIE O a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 145.
 
-La edad mínima para contraer matrimonio será de 18 años.
+Son requisitos para contraer matrimonio:
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+I.- Contar con al menos 18 años cumplidos;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Celebrarse ante el Oficial del Registro Civil;
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+III.- Expresar de manera indubitable la voluntad para contraer matrimonio; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- Estar libre de impedimento legal.
 
 ###### Artículo 146.
 
@@ -1275,37 +1293,45 @@ La edad mínima para contraer matrimonio será de 18 años.
 
 (DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 153.
 
-Son impedimentos para celebrar el matrimonio:
+Son impedimentos para contraer matrimonio:
 
 > <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
 
 I.- La falta de edad requerida por la ley;
 
-II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2016)
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+II.- El parentesco de consanguinidad en línea recta, en la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
 
-III.- El parentesco de consanguinidad en línea recta, en la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+III.- El parentesco de afinidad en línea recta sin limitación alguna. El parentesco civil entre los pretendientes; también se encuentra impedido para el matrimonio el adoptado con los descendientes del adoptante;
 
-IV.- El parentesco de afinidad en línea recta sin limitación alguna. El parentesco civil entre los pretendientes; también se encuentra impedido para el matrimonio el adoptado con los descendientes del adoptante mientras dure el vínculo;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-V.- (DEROGADA, P.O. 7 DE MAYO DE 2018)
+IV.- El parentesco equiparado a consanguíneo entre el adoptante y el adoptado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+V.- La fuerza o miedo grave;
+
+(REPUBLICADA, P.O. 23 DE SEPTIEMBRE DE 2024)
 
 VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-VII.- La incapacidad, la embriaguez habitual y el consumo indebido y persistentes (sic) de drogas enervantes. Padecer esterilidad incurable, impotencia crónica para la cópula, alguna enfermedad de transmisión sexual. Alguna enfermedad crónica o incurable que sea además contagiosa o hereditaria, así como padecer alguna otra enfermedad que haga prever algún perjuicio grave o degenerativo para los descendientes del matrimonio, salvo que los contrayentes manifiesten y firmen ante el Oficial del Registro Civil, que en plenitud de sus facultades acceden de manera informada, consensuada, voluntaria y libremente a contraer matrimonio, a pesar de saber sobre cualquiera que sea el impedimento referido en la presente fracción;
+VII.- Encontrarse sujeto a medida de apoyo y salvaguardia, declarada judicialmente; y
 
-> <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-VIII.- Padecer trastorno mental permanente, declarado judicialmente;
+VIII.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
-IX.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
+IX.- (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2024)
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
@@ -1313,7 +1339,7 @@ De estos impedimentos sólo es dispensable el parentesco de consanguinidad en l�
 
 ###### Artículo 154.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dura el lazo jurídico resultante de la adopción.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 155.
 
@@ -1367,19 +1393,19 @@ En todo cambio de domicilio será necesario el consentimiento de ambos, si no ex
 
 Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos, sin perjuicios de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-El desempeño de las actividades domésticas y/o el cuidado de los hijos se estimarán como contribución al sostenimiento del hogar, para los efectos del párrafo anterior.
+El desempeño de las actividades domésticas y/o el cuidado de los hijos e hijas, se estimarán como contribución al sostenimiento del hogar, por parte del cónyuge que los realice, para los efectos del párrafo anterior.
 
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 28 DE JUNIO DE 2021)</small>
 
 Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 161.
 
-Los cónyuges y los hijos en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
+Los cónyuges y las hijas e hijos en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
 
 ###### Artículo 162.
 
@@ -1399,11 +1425,11 @@ En caso de que los cónyuges estuvieren en desacuerdo sobre alguno de los puntos
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 165.
 
-Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de lo Familiar correspondiente, resolverá sobre la oposición.
+Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta.
 
 ###### Artículo 166.
 
@@ -1435,15 +1461,15 @@ Los cónyuges conservan su plena capacidad legal para celebrar actos jurídicos 
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 173.
 
-El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+Ambos cónyuges, durante el matrimonio, podrán ejercer los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
 ###### Artículo 173 Bis.
 
-Todas las cuestiones que deban resolverse por acuerdo de los cónyuges podrán ser puestas a consideración del Juez, en caso de no alcanzar el acuerdo de voluntades. El Juez procurará ante todo avenir a los consortes, pero en caso de no conseguirlo resolverá la cuestión discrecionalmente y en los términos que establezca el Capitulo procesal correspondiente.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2024)
 
 ### CAPITULO IV.
 
@@ -1483,7 +1509,13 @@ La sociedad conyugal, sea voluntaria o legal, puede terminar durante el matrimon
 
 I.- Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes;
 
-II.- Cuando el socio administrador, hace cesión de bienes a sus acreedores o es declarado en quiebra;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Cuando el socio administrador, hace cesión de bienes a sus acreedores o es declarado en quiebra; y
+
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+III.- Por la separación de los cónyuges que haya sido declarada judicialmente.
 
 Al iniciarse el procedimiento relativo, cesarán interinamente los efectos de la sociedad, sin perjuicio de los actos y obligaciones anteriores, estableciéndose un régimen de condominio respecto de los bienes sociales en los cuales cada cónyuge representará la proporción que corresponda conforme a las capitulaciones matrimoniales o cada uno la mitad si éstas nada prevén al respecto. La declaración respectiva se inscribirá en el Registro de los Bienes.
 
@@ -1503,21 +1535,25 @@ Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del m
 
 (DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 185.
 
-Son nulos los pactos que los esposos hicieren contra las leyes o los naturales fines del matrimonio.
+Son nulos los pactos que los esposos hicieren contra las leyes o los fines del matrimonio.
 
 ###### Artículo 186.
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 187.
 
 La sentencia que declara la ausencia de alguno de los cónyuges, modifica o suspende la sociedad conyugal en los casos señalados en este Código.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 188.
 
-El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para ambos, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
 
 ###### Artículo 189.
 
@@ -1555,9 +1591,11 @@ Terminado el inventario, se pagarán los créditos que hubiere contra el fondo s
 
 Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 198.
 
-Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código de Procedimientos Civiles.
+Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código Nacional de Procedimientos Civiles y Familiares.
 
 ### CAPITULO V.
 
@@ -1643,9 +1681,17 @@ II.- Los bienes adquiridos durante la sociedad por compra o permuta de los biene
 
 III.- Los adquiridos por consolidación de la propiedad y el usufructo, cuando se hace en beneficio de uno solo de ellos.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 211.
 
-Si las donaciones fueren onerosas, se deducirá de la dote o del capital del marido, en su respectivo caso, el importe de las cargas de aquella, siempre que hayan sido soportadas por la sociedad.
+Si las donaciones fueren onerosas, se deducirá de la dote o del capital del cónyuge, en su respectivo caso, el importe de las cargas de aquella, siempre que hayan sido soportadas por la sociedad.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 211 Bis.
+
+Los cónyuges podrán celebrar entre sí cualquier contrato siempre y cuando estén casados por el régimen de separación de bienes o cuando se trate de bienes que no forman parte de la sociedad conyugal; exceptuando el de compraventa, dación en pago y permuta.
 
 ###### Artículo 212.
 
@@ -1673,39 +1719,47 @@ Ni la declaración de uno de los cónyuges que afirme ser suya una cosa, ni la c
 
 DE LA ADMINISTRACION DE LA SOCIEDAD LEGAL.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 215.
 
-El dominio y posesión de los bienes comunes reside en ambos cónyuges, mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador. Las reclamaciones relativas a obligaciones que son carga de la sociedad legal procederán contra el administrador y lo decidido en el Juicio en que intervino produce autoridad de cosa juzgada, respecto de la sociedad legal y del otro cónyuge como miembro de ésta. Constituido el patrimonio familiar conforme a las reglas de este Código, los cónyuges no pueden ejercer actos de dominio sobre los bienes afectos a éste, y las reclamaciones relativas a obligaciones de la sociedad no pueden cumplirse con los bienes que forman parte del patrimonio familiar.
+El dominio y posesión de los bienes comunes reside en ambos cónyuges, mientras subsista la sociedad; pero las acciones en contra de ésta o sobre los bienes sociales serán dirigidas contra el administrador. Las reclamaciones relativas a obligaciones que son carga de la sociedad legal procederán contra el administrador. Constituido el patrimonio familiar conforme a las reglas de este Código, los cónyuges no pueden ejercer actos de dominio sobre los bienes afectos a éste, y las reclamaciones relativas a obligaciones de la sociedad no pueden cumplirse con los bienes que forman parte del patrimonio familiar.
 
 ###### Artículo 216.
 
 Será necesario el consentimiento de ambos cónyuges para la enajenación y gravamen de los bienes que forman el fondo de la sociedad, pudiendo el juez respectivo suplir el consentimiento de cualquiera de ellos en caso de injustificada oposición para la enajenación o gravamen.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 217.
 
-El marido no puede repudiar ni aceptar la herencia común sin consentimiento de la mujer; pero el juez puede suplir ese consentimiento previa audiencia de ésta.
+El cónyuge administrador no puede repudiar ni aceptar la herencia común sin consentimiento del otro cónyuge; pero el juez puede suplir ese consentimiento previa audiencia.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 218.
 
-La responsabilidad de la aceptación sin que la mujer consienta o el juez la autorice, sólo afectará los bienes propios del marido y su mitad de gananciales al liquidarse la sociedad legal.
+La responsabilidad de la aceptación sin que uno de los cónyuges consienta o el juez la autorice, sólo afectará los bienes propios del cónyuge que haga la aceptación y su mitad de gananciales al liquidarse la sociedad legal.
 
 ###### Artículo 219.
 
 Los cónyuges no pueden disponer por testamento sino de su mitad de gananciales.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 220.
 
-Ninguna enajenación que de los bienes gananciales haga el marido en contravención de la ley o en fraude de la mujer, perjudicará a ésta ni a sus herederos.
+Ninguna enajenación que de los bienes gananciales haga el cónyuge administrador en contravención de la ley o en fraude del otro cónyuge, perjudicará a éste ni a sus herederos.
 
 ###### Artículo 221.
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 222.
 
-Puede la mujer pagar con los gananciales los gastos ordinarios de la familia según sus circunstancias, sin perjuicio de la obligación común de ambos cónyuges a que se refiere la fracción III del artículo 228.
+Puede el cónyuge no administrador pagar con los gananciales los gastos ordinarios de la familia según sus circunstancias, sin perjuicio de la obligación común de ambos cónyuges a que se refiere la fracción III del artículo 228.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -1719,7 +1773,9 @@ Se exceptúan de lo dispuesto en el artículo anterior:
 
 I.- Las deudas que provengan de delito de alguno de los cónyuges o de algún hecho moralmente reprobado, aunque no sea punible por la ley;
 
-II.- Las deudas que graven los bienes propios de los cónyuges, no siendo por censos o pensiones cuyo importe haya entrado al fondo social.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Las deudas que graven los bienes propios de los cónyuges, no siendo por pensiones cuyo importe haya entrado al fondo social.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2005)</small>
 
@@ -1791,17 +1847,23 @@ Serán también propios de cada uno de los consortes los salarios, sueldos, emol
 
 Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 238.
 
-Ni el marido podrá cobrar a la mujer, ni ésta a aquel, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, podrá pactar retribución por este servicio, en proporción a su importancia y al resultado que produjere.
+Ningún cónyuge podrá cobrar al otro, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, podrá pactar retribución por este servicio, en proporción a su importancia y al resultado que produjere.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 239.
 
-El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les conceda.
+Los cónyuges que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les conceda.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 240.
 
-El marido responde a la mujer y ésta a aquel, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+El cónyuge responderá, de los daños y perjuicios que le cause por dolo, culpa o negligencia al otro cónyuge.
 
 ###### Artículo 241.
 
@@ -1867,9 +1929,11 @@ Son aplicables a las donaciones antenupciales las reglas de las donaciones comun
 
 DE LAS DONACIONES ENTRE CONSORTES.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 255.
 
-Los consortes pueden hacerse donaciones; pero sólo se confirman con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+Los consortes pueden hacerse donaciones; pero sólo se confirman con el divorcio o con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
 
 ###### Artículo 256.
 
@@ -1997,11 +2061,11 @@ La buena fe se presume; para destruir esta presunción se requiere prueba plena.
 
 Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales que establece el Artículo 292.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 281.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, el Juez, resolverá respecto a la guarda y custodia de los hijos, al suministro de sus alimentos y la forma de garantizarlos. Para tal efecto, el padre y la madre propondrán la forma y términos de los mismos, de no haber acuerdo, el Juez resolverá atendiendo las circunstancias del caso. En ambos supuestos, deberá oírse previamente a los menores de edad y al Ministerio Público.
+Luego que la sentencia sobre nulidad cause ejecutoria, la persona juzgadora, resolverá respecto a la guarda y custodia de los hijos, al suministro de sus alimentos y la forma de garantizarlos. Para tal efecto, los cónyuges propondrán la forma y términos de los mismos, de no haber acuerdo, la persona juzgadora resolverá atendiendo las circunstancias del caso.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -2029,15 +2093,15 @@ IV.- Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan he
 
 Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el capítulo primero del Título Quinto del Libro Tercero.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 286.
 
-Es ilícito pero no nulo el matrimonio:
+Es ilícito, pero no nulo el matrimonio cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa.
 
-I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa;
+I.- (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2024)
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2015)</small>
-
-II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 156 y cuando se celebre sin que haya transcurrido el término fijado en el Artículo 155.
+II.- (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2024)
 
 > <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
@@ -2211,21 +2275,25 @@ II.- Reciba ingresos suficientes para su subsistencia; o
 
 III.- Transcurra un término igual a la duración del matrimonio.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 297.
 
-Cuando ambos consortes convengan en divorciarse y sean mayores de edad, no tengan hijos nacidos o concebidos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil de la Capital del Estado; comprobarán con las copias certificadas respectivas que son casados y mayores de edad, y manifestarán de una manera terminante y explícita su voluntad de divorciarse.
+Cuando ambos consortes convengan en divorciarse y no tengan hijos o hijas nacidos o concebidos y de común acuerdo hubieren liquidado la sociedad conyugal, si bajo ese régimen se casaron, se presentarán personalmente ante el Oficial del Registro Civil de la Capital del Estado o ante Notario Público; comprobarán con las copias certificadas respectivas que son casados y manifestaran de una manera terminante y explícita su voluntad de divorciarse.
 
-El Oficial del Registro Civil, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Oficial del Registro Civil los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+El Oficial del Registro Civil o en su caso el Notario Público, previa identificación de los consortes, levantará un acta en que hará constar la solicitud de divorcio y citará a los cónyuges para que se presenten a ratificarla a los quince días. Si los consortes hacen la ratificación, el Oficial del Registro Civil o el Notario Público los declarará divorciados, levantando el acta respectiva y haciendo la anotación correspondiente en la del matrimonio anterior.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
 
 El divorcio así obtenido no surtirá efectos legales si se comprueba que los cónyuges tienen hijos, son menores de edad o no han liquidado su sociedad conyugal, y entonces aquéllos sufrirán las penas que establezca el Código de la materia.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 298.
 
-En todos los casos de divorcio en los que existan hijos menores de edad, así como en otras causas judiciales, en los que el Juzgador tenga conocimiento de situaciones en que exista un riesgo inminente contra la vida, integridad personal o libertad de niñas, niños y adolescentes, dará puntual informe de manera expedita a la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes, con la finalidad de que esta autoridad lleve a cabo los procedimientos de atención y seguimiento en cumplimiento del interés superior de los menores.
+En todos los casos de divorcio en los que existan hijos o hijas menores de dieciocho años de edad, así como en otras causas judiciales, en los que la persona juzgadora tenga conocimiento de situaciones en que exista un riesgo inminente contra la vida, integridad personal o libertad de niñas, niños y adolescentes, dará puntual informe de manera expedita a la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes, así como al Ministerio Público, con la finalidad de que las autoridades lleven a cabo los procedimientos de atención y seguimiento en cumplimiento del interés superior de la niñez.
 
 ###### Artículo 299.
 
@@ -2321,11 +2389,25 @@ El concubinato genera entre los concubinos derechos alimentarios y sucesorios in
 
 Artículo 313 Cuarter.- Los concubinos tendrán derecho a ejercer las acciones que concede la ley a los cónyuges para evitar actos de violencia familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 313 Quinquies.
+
+Al cesar la convivencia, la concubina o el concubinario que carezca de ingresos o bienes suficientes para su sostenimiento, o que se dedicó preponderantemente al hogar y no haya desarrollado patrimonio propio, tienen derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quien haya mostrado ingratitud, o viva en concubinato o contraído matrimonio con persona distinta.
+
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
-Artículo 313 Quinter.- Al cesar la convivencia, la concubina o el concubinario que carezca de ingresos o bienes suficientes para su sostenimiento tienen derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quién haya demostrado ingratitud, o viva en concubinato o contraído matrimonio con persona distinta.
-
 El derecho que otorga este Artículo podrá ejercitarse sólo durante el año siguiente a la cesación del concubinato.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 313 Sexies.
+
+Se presumen hijos e hijas de los concubinos:
+
+I.- Los nacidos durante la relación de concubinato, salvo impugnación; y
+
+II.- Los nacidos dentro de los trescientos días de terminado el concubinato, aplicando las mismas reglas de la filiación matrimonial.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
@@ -2337,9 +2419,11 @@ DEL PARENTESCO, DE LOS ALIMENTOS Y DE LA VIOLENCIA FAMILIAR.
 
 DEL PARENTESCO.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 314.
 
-La ley no reconoce más parentescos que los de consanguinidad, afinidad y el civil.
+La ley no reconoce más parentescos que los de consanguinidad y afinidad.
 
 ###### Artículo 315.
 
@@ -2351,11 +2435,9 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre un cónyuge y los parientes consanguíneos del otro.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2012)</small>
-
 ###### Artículo 317.
 
-El parentesco civil es el que nace de la adopción.
+(DEROGADO, P.O. 23 DE SEPTIEMBRE DE 2024)
 
 ###### Artículo 318.
 
@@ -2391,13 +2473,17 @@ La obligación alimentaria es personalísima, subsidiaria, imprescriptible, irre
 
 Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma ley señale.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 325.
 
-Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+Los padres están obligados a dar alimentos a sus hijas e hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 326.
 
-Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+Los hijos e hijas están obligados a dar alimentos a los padres. A falta o por imposibilidad de estos, lo están los descendientes más próximos en grado.
 
 ###### Artículo 327.
 
@@ -2405,11 +2491,11 @@ A falta o por imposibilidad de los ascendientes o descendientes, la obligación 
 
 Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1975)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 328.
 
-Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado que fueren incapaces.
+Los hermanos, hermanas y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores de dieciocho años de edad mientras éstos llegan a la mayoría de edad. También deben alimentar a sus parientes dentro del grado mencionado que fueren incapaces.
 
 ###### Artículo 329.
 
@@ -2423,9 +2509,13 @@ Los alimentos comprenden:
 
 I.- La comida, el vestido, la habitación, la atención médica, la hospitalaria, y en su caso, los gastos de embarazo y parto;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Respecto de las personas menores de edad, incluyen además, los gastos necesarios para su sano esparcimiento; educación preescolar, primaria, secundaria, media superior y en su caso, educación especial; así como para proporcionarles algún oficio, arte o profesión honestos y adecuados a sus necesidades personales. La obligación subsistirá no obstante la mayoría de edad y hasta los veinticinco años siempre que continúen estudiando en grado acorde a su edad y no cuenten con ingresos propios;
+II.- Respecto de las personas menores de dieciocho años de edad, incluyen además, los gastos necesarios para su sano esparcimiento; educación preescolar, primaria, secundaria, media superior y en su caso, educación especial; así como para proporcionarles algún oficio, arte o profesión honestos y adecuados a sus necesidades personales. La obligación subsistirá no obstante la mayoría de edad y hasta los veinticinco años siempre que continúen estudiando en grado acorde a su edad y no cuenten con ingresos propios.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Asimismo, es deber de los progenitores garantizar el derecho de niñas, niños y adolescentes para la satisfacción de sus necesidades, así como de su salud física y mental, en los términos de la legislación aplicable.
 
 III.- Con relación a las personas declaradas en estado de interdicción o con discapacidad sin posibilidad de trabajar, comprenden también lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo e inclusión social; y
 
@@ -2611,6 +2701,20 @@ Queda prohibido que los padres o quienes ejercen la tutela, patria potestad, gua
 
 Queda prohibido el ejercicio de la violencia vicaria en términos de lo establecido en la fracción XXXVII del Artículo 4° de la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes.
 
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 347 Quinquies.
+
+Todos los integrantes de la familia, tienen derecho a que los demás miembros les respeten su integridad física, psíquica y emocional, con el objeto de contribuir a su sano desarrollo para su plena incorporación y participación en el núcleo social. Para tal efecto, contará con la asistencia y protección de las instituciones públicas de acuerdo con las leyes.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+###### Artículo 347 Sexies.
+
+Todos los integrantes de la familia tienen derecho a la promoción de su unidad, estabilidad, integridad, y a la armonía entre el trabajo y la vida familiar, así como al esparcimiento.
+
+Todas las personas y el Estado deben coadyuvar a la sana convivencia familiar, atendiendo de manera especial las problemáticas propias de la dinámica familiar, las condiciones sociales en que se desarrolla, así como evitar la violencia o abuso físico o emocional, cualquier forma de discriminación u otras problemáticas destructoras de su unión e integración.
+
 ## TITULO SEPTIMO.
 
 DE LA PATERNIDAD Y FILIACION.
@@ -2619,15 +2723,19 @@ DE LA PATERNIDAD Y FILIACION.
 
 DE LOS HIJOS DE MATRIMONIO.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 348.
 
-Se presumen hijos de los cónyuges:
+Se presumen hijos o hijas de los cónyuges:
 
-I.- Los hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+I.- Las hijas o hijos nacidos después de ciento ochenta días contados desde la celebración del matrimonio;
 
-II.- Los hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Las hijas o hijos nacidos dentro de los trescientos días siguientes a la disolución del matrimonio, ya provenga ésta de nulidad del contrato, de muerte del marido o de divorcio. Este término se contará en los casos de divorcio o nulidad, desde que de hecho quedaron separados los cónyuges por orden judicial. En estos supuestos, cuando el cónyuge no sea el padre biológico del niño o niña, para su registro tendrá lugar un trámite administrativo en el cual la progenitora y el padre biológico, se presentarán personalmente ante la Oficialía del Registro Civil exhibiendo una declaratoria en la que manifiesten bajo protesta de decir verdad de que él es el padre biológico de la niña o niño.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
 
@@ -2639,75 +2747,97 @@ I. En sede administrativa ante el Oficial del Registro Civil, con la declaratori
 
 II. En sede jurisdiccional, con la prueba pericial genética que acredite el vínculo biológico, sin embargo, el juzgador para efecto de ordenar que se modifique un registro de nacimiento deberá atender a las circunstancias del caso y velando siempre por el interés superior de la niñez.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2019)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 350.
 
-En todo caso de desconocimiento de paternidad, se deberá privilegiar el interés superior del menor y el derecho de éstos a la identidad.
+En todo caso de contradicción de vínculo filiatorio, se deberá privilegiar el interés superior de la niñez y el derecho de éstos a la identidad.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 351.
 
-El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la mujer, el hijo o el tutor de éste, pueden sostener en tales casos que el marido es el padre.
+El cónyuge podrá impugnar el reconocimiento de la hija o hijo nacido después de trescientos días contados desde que, judicialmente y de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad; pero la mujer, la hija o hijo o el tutor de éste, pueden sostener en tales casos que el marido es el padre.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 352.
 
-El marido no podrá desconocer que es padre del hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
+El cónyuge no podrá impugnar el reconocimiento de la hija o hijo nacido dentro de los ciento ochenta días siguientes a la celebración del matrimonio:
 
 I.- Si se probare que supo antes de casarse el embarazo de su futura consorte; para esto se requiere un principio de prueba por escrito;
 
 II.- Si concurrió al levantamiento del acta de nacimiento y ésta fué firmada por él, o contiene su declaración de no saber firmar;
 
-III.- Si ha reconocido expresamente por suyo al hijo de su mujer;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-IV.- Si el hijo no nació capaz de vivir.
+III.- Si ha reconocido expresamente por suyo al hijo o hija de su cónyuge; y
 
-> <small>(REFORMADO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- Si el hijo o hija no nació capaz de vivir.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 353.
 
-Las cuestiones relativas a la paternidad del hijo nacido después de disuelto el matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
+Las cuestiones relativas a la paternidad de la hija o hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique la filiación.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 354.
 
-En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
+En todos los casos en que el marido tenga derecho de contradecir que el nacido es hijo o hija de su matrimonio, deberá deducir su acción dentro de sesenta días, contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el fraude, si se le ocultó el nacimiento.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 355.
 
-Si el marido está bajo tutela por causa de discapacidad intelectual, este derecho puede ser ejercitado por su tutor. Si éste no lo ejercitare, podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+Si el cónyuge está bajo tutela por causa de discapacidad intelectual, este derecho puede ser ejercitado por su tutor. Si éste no lo ejercitare, podrá hacerlo el cónyuge después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que legalmente se declare haber cesado el impedimento.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 356.
 
-Cuando el marido, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+Cuando el cónyuge, teniendo o no tutor, ha muerto sin recobrar la razón, los herederos pueden contradecir la paternidad en los casos en que podría hacerlo el mismo.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 357.
 
-Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de un hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
+Los herederos del marido, excepto en el caso del artículo anterior, no podrán contradecir la paternidad de una hija o hijo nacido dentro de los ciento ochenta días de la celebración del matrimonio, cuando el esposo no haya comenzado esta demanda. En los demás casos, si el esposo ha muerto sin hacer la reclamación dentro del término hábil, los herederos tendrán, para proponer la demanda, sesenta días contados desde aquel en que el hijo o hija haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo o hija en la posesión de la herencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 358.
 
-Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+Si la viuda, la divorciada, o aquella cuyo matrimonio fuere declarado nulo, contrajere nuevas nupcias, la filiación del hijo o hija que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
 
-I.- Se presume que el hijo es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Se presume que el hijo es del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
+I.- Se presume que el hijo o hija es del primer matrimonio si nace dentro de los trescientos días siguientes a la disolución del primer matrimonio y antes de ciento ochenta días de la celebración del segundo;
 
-El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-III.- El hijo se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+II.- Se presume que el hijo o hija es del segundo marido si nace después de ciento ochenta días de la celebración del segundo matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del primer matrimonio.
+
+El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo o hija sea del cónyuge a quien se atribuye; y
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+III.- El hijo o hija se presume nacido fuera de matrimonio si nace antes de ciento ochenta días de la celebración del segundo matrimonio y después de trescientos días de la disolución del primero.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 359.
 
-El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
+La contradicción de vínculo filiatorio de un hijo o hija, de parte del cónyuge o de sus herederos, se hará por demanda en forma ante el juez competente. Todo desconocimiento practicado de otra manera es nulo.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 360.
 
-En el juicio de contradicción de la paternidad por desconocimiento del vínculo, serán oídos el progenitor que no demanda y el hijo, a quien si fuere menor se le nombrará un tutor.
+En el juicio de contradicción de vínculo filiatorio por desconocimiento del vínculo, serán oídos el progenitor que no demanda y el hijo o hija, a quien si fuere menor de dieciocho años de edad se le nombrará un tutor.
 
 > <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -2719,9 +2849,11 @@ Para los efectos legales, sólo se reputa nacido el feto desprendido enteramente
 
 No puede haber sobre la filiación, ni transacción ni compromiso en árbitros.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 363.
 
-Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
+Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo o hija, importen la adquisición de estado de hijo o hija de matrimonio.
 
 ### CAPITULO II.
 
@@ -2733,69 +2865,99 @@ DE LAS PRUEBAS DE FILIACION DE LOS HIJOS NACIDOS DE MATRIMONIO.
 
 La filiación se prueba con la partida de nacimiento y con el acta de matrimonio de sus padres o la de reconocimiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 365.
 
-A falta de acta o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que la ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
+A falta de acta o si éstas fueren defectuosas, incompletas o falsas, se probará con la posesión constante de estado de hija o hijo nacido de matrimonio. En defecto de esta posesión son admisibles para demostrar la filiación todos los medios de prueba que la ley autoriza, pero la testimonial no es admisible si no hubiere un principio de prueba por escrito o indicios o presunciones resultantes de hechos ciertos que se consideren bastante graves para determinar su admisión.
 
 Si uno solo de los registros faltare o estuviere inutilizado y existe el duplicado, de éste deberá tomarse la prueba, sin admitirla de otra clase.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 366.
 
-Si hubiere hijos nacidos de dos personas que han vivido públicamente como marido y mujer, y ambos hubieren fallecido, o por ausencia o enfermedad les fuere imposible manifestar el lugar en que se casaron, no podrá disputarse a esos hijos haber nacido de matrimonio por sólo la falta de presentación del acta del enlace de sus padres, siempre que se pruebe que tienen la posesión de estado de hijos de ellos, o que por los medios de prueba que autoriza el artículo anterior, se demuestre la filiación y no esté contradicha por el acta de nacimiento.
+Si hubiere hijos o hijas nacidos de dos personas que han vivido públicamente como cónyuges y ambos hubieren fallecido, o por ausencia o enfermedad les fuere imposible manifestar el lugar en que se casaron o el tiempo de su unión, no podrá disputarse a esos hijos o hijas haber nacido de matrimonio por sólo la falta de presentación del acta del enlace de sus padres, siempre que se pruebe que tienen la posesión de estado de hijos o hijas de ellos, o que por los medios de prueba que autoriza el artículo anterior, se demuestre la filiación y no esté contradicha por el acta de nacimiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 367.
 
-Si un individuo ha sido reconocido constantemente como hijo de matrimonio, por la familia del marido y en la sociedad, quedará comprobada la posesión de estado de hijo de matrimonio si además concurre alguna de las circunstancias siguientes:
+Si un individuo ha sido reconocido constantemente como hija o hijo de matrimonio, por la familia del cónyuge y en la sociedad, quedará comprobada la posesión de estado de hija o hijo de matrimonio si además concurre alguna de las circunstancias siguientes:
 
-I.- Que el hijo haya usado constantemente el apellido del que pretende que es su padre, con anuencia de éste;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Que el padre lo haya tratado como a hijo nacido de su matrimonio, proveyendo a su subsistencia, educación y establecimiento;
+I.- Que el hija o hijo haya usado constantemente el apellido del que pretende que es su padre, con anuencia de éste;
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Que el cónyuge lo haya tratado como a hijo nacido de su matrimonio, proveyendo a su subsistencia, educación y establecimiento; y
 
 III.- Que el presunto padre tenga la edad exigida por el artículo 385.
 
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 368.
 
-Declarado nulo un matrimonio, haya habido buena o mala fe en los cónyuges al celebrarlo, los hijos tenidos durante él se considerarán como hijos de matrimonio.
+Declarado nulo un matrimonio, haya habido buena o mala fe por parte de los cónyuges al celebrarlo, las hijas o hijos concebidos durante esté se considerarán como hijos de matrimonio.
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 369.
 
-(DEROGADO, P.O. 1 DE JULIO DE 2024)
+No basta el dicho de la madre para excluir de la paternidad al marido. Únicamente este podrá reclamar contra la filiación de la hija o hijo concebido durante el matrimonio.
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 370.
 
-Las acciones civiles que se intenten contra el hijo por los bienes que ha adquirido durante su estado de hijo nacido de matrimonio, aunque después resulte no serlo, se sujetarán a las reglas comunes para la prescripción.
+Las acciones civiles que se intenten contra la hija o el hijo por los bienes que ha adquirido durante su estado de hija o hijo nacido de matrimonio o concubinato, aunque después resulte no serlo, se sujetarán a las reglas comunes para la prescripción.
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 371.
 
-La acción que compete al hijo para reclamar su estado, es imprescriptible para él y sus descendientes.
+La acción que compete al hijo o hija para reclamar su estado, es imprescriptible para él o ella y sus descendientes.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 372.
 
-Los demás herederos del hijo podrán intentar la acción de que trata el artículo anterior:
+Los demás herederos del hijo o hija podrán intentar la acción de que trata el artículo anterior:
 
-I.- Si el hijo ha muerto antes de cumplir veintidós años;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-II.- Si el hijo cayó en demencia antes de cumplir los veintidós años y murió después en el mismo estado.
+I.- Si la hija o el hijo han muerto antes de cumplir veintidós años; y
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Si la hija o el hijo cayó en demencia antes de cumplir los veintidós años y murió después en el mismo estado.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 373.
 
-Los herederos podrán continuar la acción intentada por el hijo a no ser que éste se hubiere desistido formalmente de ella, o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
+Los herederos podrán continuar la acción intentada por la hija o hijo a no ser que éste se hubiere desistido formalmente de ella, o nada hubiere promovido judicialmente durante un año contado desde la última diligencia.
 
-También podrán contestar toda demanda que tenga por objeto disputarle la condición de hijo nacido de matrimonio.
+También podrán contestar toda demanda que tenga por objeto disputarle la condición de hija o hijo nacido de matrimonio.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 374.
 
-Los acreedores, legatarios y donatarios tendrán los mismos derechos que a los herederos conceden los dos artículos que preceden, si el hijo no dejó bienes suficientes para pagarles.
+Los acreedores, legatarios y donatarios tendrán los mismos derechos que a los herederos conceden los dos artículos que preceden, si la hija o el hijo no dejó bienes suficientes para pagarles.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 375.
 
-Las acciones de que hablan los tres artículos anteriores, prescriben a los cuatro años contados desde el fallecimiento del hijo.
+Las acciones de que hablan los tres artículos anteriores, prescriben a los cuatro años contados desde el fallecimiento de la hija o hijo.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 376.
 
-La posesión de hijo de matrimonio no puede perderse sino por sentencia ejecutoria pronunciada en juicio ordinario, que tendrá apelación forzosa.
+La posesión de hija o hijo de matrimonio no puede perderse sino por sentencia ejecutoria pronunciada en juicio ordinario, que tendrá apelación forzosa.
 
 ###### Artículo 377.
 
@@ -2805,51 +2967,67 @@ Si el que está en posesión de los derechos de padre o de hijo fuere despojado 
 
 DE LA LEGITIMACION.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 378.
 
-El matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos habidos antes de su celebración.
+El matrimonio subsecuente de los padres hace que se tengan como nacidos de matrimonio a los hijos e hijas habidos antes de su celebración.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 379.
 
-Para que el hijo goce del derecho que le concede el artículo que precede, los padres deben reconocerlo expresamente antes de la celebración del matrimonio, en el acto mismo de celebrarlo, o durante él, haciendo en todo caso el reconocimiento ambos padres, junta o separadamente.
+Para que la hija o el hijo goce del derecho que le concede el artículo que precede, los padres deben reconocerlo expresamente antes de la celebración del matrimonio, en el acto mismo de celebrarlo, o durante él, haciendo en todo caso el reconocimiento ambos padres, junta o separadamente.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 380.
 
-Si el hijo fuere reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de éste para que la legitimación surta sus efectos legales. Tampoco se necesita reconocimiento del padre, si ya se expresó el nombre de éste en el acta de nacimiento.
+Si la hija o el hijo fuere reconocido por el padre y en su acta de nacimiento consta el nombre de la madre, no se necesita reconocimiento expreso de éste para que la legitimación surta sus efectos legales. Tampoco se necesita reconocimiento del padre, si ya se expresó el nombre de éste en el acta de nacimiento.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 381.
 
-Aunque el reconocimiento sea posterior, los hijos adquieren todos sus derechos desde el día en que se celebró el matrimonio de sus padres.
+Aunque el reconocimiento sea posterior, las hijas e hijos adquieren todos sus derechos desde el día en que se celebró el matrimonio de sus padres.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 382.
 
-Pueden gozar de ese derecho que les concede el artículo 378, los hijos que ya hayan fallecido al celebrarse el matrimonio de sus padres, si dejaron descendientes.
+Pueden gozar de ese derecho que les concede el artículo 378, las hijas e hijos que ya hayan fallecido al celebrarse el matrimonio de sus padres, si dejaron descendientes.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 383.
 
-Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está encinta, o que lo reconoce si aquélla estuviera encinta.
+Las hijas o hijos no nacidos, pueden gozar el derecho a que se refiere el artículo 382 de este Código, si el padre al casarse declara que reconoce a la hija o hijo de la mujer embarazada.
 
 ### CAPITULO IV.
 
 DEL RECONOCIMIENTO DE LOS HIJOS NACIDOS FUERA DE MATRIMONIO.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 384.
 
-La filiación de los hijos resulta, con relación a la madre, del sólo hecho del nacimiento. Respecto del padre solo se establece por el reconocimiento voluntario o por la sentencia que declare la paternidad.
+La filiación de los hijos o hijas resulta, con relación a la madre, del sólo hecho del nacimiento. Respecto del padre solo se establece por el reconocimiento voluntario o por la sentencia que declare la paternidad.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 385.
 
-Pueden reconocer a sus hijos, los que tengan la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+Pueden reconocer a sus hijos e hijas, los que tengan la edad exigida para contraer matrimonio, más la edad de la niña o niño que va a ser reconocido.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 386.
 
-El menor de edad podrá reconocer a sus hijos, sin el consentimiento de sus padres o tutores, pero tal reconocimiento no producirá efectos mientras no sea ratificado por el Ministerio Público, quién deberá expresar su conformidad o inconformidad dentro de los sesenta días siguientes.
+El menor de dieciocho años de edad, podrá reconocer a sus hijos o hijas, sin el consentimiento de sus padres o tutores, pero tal reconocimiento no producirá efectos mientras no sea ratificado por el Ministerio Público, quién deberá expresar su conformidad o inconformidad dentro de los sesenta días siguientes.
 
-El Oficial del Registro Civil ante quien se haga un reconocimiento por un menor de edad, deberá hacerlo saber al Ministerio Público dentro de los ocho días siguientes, bajo la pena de cinco a cincuenta pesos de multa; incurriendo en igual pena el Agente del Ministerio Público que, habiendo recibido el aviso o teniendo conocimiento del caso por cualquier otro medio no exprese su conformidad o inconformidad con conocimiento de causa, para lo cual podrá tomar los informes y datos necesarios por sí o por medio del Juez.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+El Oficial del Registro Civil ante quien se haga un reconocimiento por un menor de dieciocho años de edad, deberá hacerlo saber al Ministerio Público dentro de los ocho días siguientes, bajo la pena de cinco a cincuenta pesos de multa; incurriendo en igual pena el Agente del Ministerio Público que, habiendo recibido el aviso o teniendo conocimiento del caso por cualquier otro medio no exprese su conformidad o inconformidad con conocimiento de causa, para lo cual podrá tomar los informes y datos necesarios por sí o por medio del Juez.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -2861,17 +3039,23 @@ Los padres o tutores y cualquier otro interesado que pretenda objetar un reconoc
 
 Si el Ministerio Público se hubiere opuesto al reconocimiento, la oposición se tramitará en juicio único ante el Juez, oyendo a un tutor especial de quién haya hecho de reconocimiento, como actor, y el Ministerio Público, como demandado.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 387.
 
-No obstante, el reconocimiento hecho por un menor es revocable si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayor edad.
+El reconocimiento hecho por un menor de dieciocho años es revocable, si prueba que sufrió engaño al hacerlo, pudiendo intentar la revocación hasta cuatro años después de la mayor (sic) edad.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 388.
 
-Puede reconocerse el hijo que no ha nacido y al que ha muerto si ha dejado descendencia.
+Puede reconocerse el hijo o hija que no ha nacido y al que ha muerto si ha dejado descendencia.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 389.
 
-Los padres pueden reconocer a su hijo conjunta o separadamente.
+Los padres pueden reconocer a su hijo o hija conjunta o separadamente.
 
 ###### Artículo 390.
 
@@ -2983,9 +3167,11 @@ En caso de que el reconocimiento se efectúe sucesivamente por los padres que no
 
 La paternidad y la maternidad pueden probarse por cualquiera de los medios ordinarios. Si se propusiera cualquier prueba biológica o proveniente del avance de los conocimientos científicos y el presunto progenitor se negara a proporcionar la muestra necesaria, se presumirá, salvo prueba en contrario que es la madre o el padre.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 406.
 
-Se presumen hijos del concubinario y de la concubina:
+Se presumen hijos o hijas de los concubinos:
 
 I.- Los nacidos después de ciento ochenta días contados desde que comenzó el concubinato;
 
@@ -3031,11 +3217,13 @@ III.- A percibir la pensión hereditaria y los alimentos que fije la ley.
 
 DE LA ADOPCION.
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 413.
 
-La adopción es una institución jurídica de origen público, por la que a través de un acto de voluntad, se crean lazos de parentesco civil entre el adoptante y el adoptado, análogos a los que existen entre el padre o madre y sus hijos. El mayor de veinticinco años de edad, en pleno ejercicio de sus derechos, puede adoptar uno o más menores de edad siempre que el adoptante tenga al menos quince años más que el adoptado; o a uno o más incapaces, en este caso sin importar la diferencia de edad entre adoptante y adoptado. Asimismo, el adoptante deberá acreditar:
+La adopción es una institución jurídica de origen público, por la que, a través de un acto de voluntad, se crean lazos equiparados al parentesco consanguíneo entre el adoptante y el adoptado. El mayor de veinticinco años de edad, en pleno ejercicio de sus derechos, puede adoptar uno o más menores de dieciocho años de edad siempre que el adoptante tenga al menos quince años más que el adoptado; o a una o más personas con medidas de apoyo y salvaguardias, en este caso sin importar la diferencia de edad entre adoptante y adoptado. Asimismo, el adoptante deberá acreditar:
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
 
 I.- Que tiene medios suficientes para proveer la subsistencia, la educación y el cuidado de la persona que trata de adoptarle como hijo propio, según las circunstancias de la persona que trata de adoptar;
 
@@ -3059,13 +3247,15 @@ V.- Haber aprobado el curso para padres adoptantes, Impartido por el Sistema par
 
 VI.- Que tiene su domicilio en el Estado de Aguascalientes, salvo que facilite la supervisión de dos años en los términos que marca el artículo 417 de este Código.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2010)</small>
+
 Los mayores de edad que no sean incapaces podrán ser adoptados, siempre que se encuentren incorporados a un núcleo familiar formado por su progenitor y la persona que pretenda adoptar. En este caso únicamente se deberá acreditar el matrimonio civil, así como el consentimiento expreso de quien se pretende adoptar.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 414.
 
-El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo. En este caso bastará con que uno de los cónyuges sea al menos quince años mayor que la o las personas que se pretende adoptar.
+El marido y la mujer podrán adoptar, cuando los dos estén conformes en considerar al adoptado como hijo o hija. En este caso bastará con que uno de los cónyuges sea al menos quince años mayor que la o las personas que se pretende adoptar.
 
 ###### Artículo 415.
 
@@ -3075,21 +3265,27 @@ Nadie puede ser adoptado por más de una persona, salvo el caso previsto en el a
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 417.
 
-Concedida la adopción el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes le dará seguimiento por un periodo de dos años, informando de ello semestralmente al Juez que lo autorizó.
+Concedida la adopción el Sistema para el Desarrollo Integral de la Familia del Estado, a través de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes del estado de Aguascalientes le dará seguimiento por un periodo de tres años, informando de ello semestralmente a la persona juzgadora que lo autorizó.
+
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
 
 En caso de que la familia adoptante resida fuera del Estado de Aguascalientes, pero dentro del País, los padres deberán colaborar con la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes, para que pueda llevarse a cabo el seguimiento a que refiere el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 418.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos e hijas.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 419.
 
-El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
+El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo o hija.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -3097,17 +3293,23 @@ El adoptado tendrá para con la persona o personas que lo adopten los mismos der
 
 Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
 
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+I.- El que ejerce la patria potestad sobre la persona menor de dieciocho años de edad que se trata de adoptar;
 
 II.- El tutor del que se va a adoptar;
 
-III.- Las personas que hayan acogido al que se pretenda adoptar y lo traten como a hijo, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-IV.- El Ministerio Público y el Director del Sistema para el Desarrollo Integral de la Familia cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo;
+III.- Las personas que hayan acogido al que se pretenda adoptar y lo traten como a hijo o hija, cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor;
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-V.- Las instituciones de asistencia social públicas o privadas que hubieren acogido al menor o al incapaz que se pretende adoptar.
+IV.- El Ministerio Público y la persona Titular del Sistema para el Desarrollo Integral de la Familia cuando éste no tenga padres conocidos, ni tutor, ni persona que ostensiblemente le imparta su protección y lo haya acogido como hija o hijo; y
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+V.- Las instituciones de asistencia social públicas o privadas que hubieren acogido a la persona menor de dieciocho años de edad o al incapaz que se pretende adoptar.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 2024)</small>
 
@@ -3115,11 +3317,11 @@ Si la niña o niño que se va a adoptar tiene más de doce años, también se ne
 
 (sic) consentimiento para la adopción. En el caso de las personas incapaces, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 421.
 
-Si el tutor, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia del Estado no consienten en la adopción, deberán expresar la causa en que se funden, la que el juez calificará tomando en cuenta los intereses del menor o incapaz y el respeto a sus derechos fundamentales.
+Si la persona que ejerza la tutela, el Ministerio Público o el Sistema para el Desarrollo Integral de la Familia del Estado no consienten en la adopción, deberán expresar la causa en que se funden, la que la persona juzgadora calificará tomando en cuenta los intereses de la persona menor de dieciocho años de edad o en cuidado y salvaguarda y el respeto a sus derechos fundamentales.
 
 > <small>(DEROGADA SU DENOMINACIÓN, P.O. 2 DE ABRIL DE 2012)</small>
 
@@ -3185,15 +3387,17 @@ El juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 DE LA ADOPCION PLENA.
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 433-A.
 
-El adoptado bajo la forma de adopción plena se equipara al hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio. El adoptado tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+La persona adoptada se equipara a la de hija o hijo consanguíneo para todos los efectos legales, incluyendo los impedimentos de matrimonio y debe llevar los apellidos del adoptante o adoptantes. Tiene en la familia del o los adoptantes los mismos derechos, deberes y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
 
 > <small>(F. DE E., P.O. 2 DE OCTUBRE DE 2000)</small>
 
 La adopción plena extingue la filiación preexistente entre el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos del matrimonio. En el supuesto de que el adoptante esté casado con alguno de los progenitores del adoptado no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2000)</small>
 
 La adopción plena es irrevocable.
 
@@ -3205,7 +3409,9 @@ Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcion
 
 I.- Para efecto de impedimento para contraer matrimonio; y
 
-II.- Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de edad se requerirá el consentimiento de los adoptantes.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cuando sea mayor de edad, si fuere menor de dieciocho años de edad se requerirá el consentimiento de los adoptantes.
 
 ###### Artículo 433-C.
 
@@ -3221,13 +3427,15 @@ II.- Cuando el adoptado desee conocer sus antecedentes familiares, siempre y cua
 
 DE LA ADOPCION INTERNACIONAL.
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-###### ARTICULO 433-E.
+###### Artículo 433-E.
 
-La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene como objeto incorporar en una familia, a un menor que no puede encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, y, en lo conducente, por las disposiciones de este Código.
+La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional; y tiene como objeto incorporar en una familia, a una niña, niño o adolescente que no puede encontrar una familia en su propio país de origen. Esta adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano, y, en lo conducente, por las disposiciones de este Código.
 
-Las adopciones internacionales siempre serán plenas.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+(REPUBLICADO, P.O. 23 DE SEPTIEMBRE DE 2024)
 
 La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el territorio nacional.
 
@@ -3259,27 +3467,29 @@ Quién ejerza la patria potestad, debe procurar el respeto y el acercamiento con
 
 Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su menor hijo o hija, mediante la desaprobación o crítica tendiente a obtener denigración exagerada y/o injustificada del otro progenitor para producir en el o la menor, rechazo, rencor, odio o desprecio hacia éste, con el objeto de impedir, obstaculizar o destruir sus vínculos con uno de sus progenitores.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 435.
 
-Los hijos menores de edad están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
+Las hijas o hijos menores de dieciocho años de edad están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
 ###### Artículo 436.
 
 La patria potestad se ejerce sobre la persona y bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las leyes aplicables.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 437.
 
-La patria potestad sobre los hijos se ejerce por los padres. Cuando por cualquier circunstancia deje de ejercerla alguno de ellos, corresponderá su ejercicio al otro.
+La patria potestad sobre los hijos e hijas se ejerce por los padres. Cuando por cualquier circunstancia deje de ejercerla alguno de ellos, corresponderá su ejercicio al otro.
 
-A falta de ambos padres o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores, los ascendientes en segundo grado en el orden que determine el Juez de lo Familiar, tomando en cuenta las circunstancias del caso.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+A falta de ambos padres o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores de dieciocho años de edad, los ascendientes en segundo grado en el orden que determine el Juez de lo Familiar, tomando en cuenta las circunstancias del caso.
 
-La custodia es un derecho y obligación que corresponde a quienes ejercen la patria potestad, ella implica la obligación de cohabitar con el menor, guardar y cuidar su persona, su educación, su formación y sus bienes.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+La custodia es un derecho y obligación que corresponde a quienes ejercen la patria potestad, ella implica la obligación de cohabitar con el menor de dieciocho años de edad, guardar y cuidar su persona, su educación, su formación y sus bienes.
 
 ###### Artículo 438.
 
@@ -3311,27 +3521,31 @@ Durante la tramitación del juicio y a petición de cualquiera de las partes, el
 
 Teniendo en todo momento ambos progenitores, la obligación de evitar cualquier conducta de alienación parental hacia sus hijos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 440.
 
-Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con los descendientes, a través de una relación personal, de contacto directo y de modo regular que beneficie a los hijos, salvo que exista peligro para estos.
+Los que ejercen la patria potestad, aun cuando no tengan la custodia, tienen el derecho de convivencia con los descendientes, a través de una relación personal, de contacto directo y de modo regular que beneficie a los hijos o hijas, salvo que exista peligro para estos.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-No podrán impedirse, sin justa causa, las relaciones personales entre el menor y sus parientes. En caso de oposición a la petición de cualquiera de ellos, el Juez de lo Familiar resolverá lo conducente en atención al interés superior del menor. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
+No podrán impedirse, sin justa causa, las relaciones personales entre la niña, niño o adolescente y sus parientes. En caso de oposición a la petición de cualquiera de ellos, el Juez de lo Familiar resolverá lo conducente en atención al interés superior de la niñez. Sólo por mandato judicial podrá limitarse, suspenderse o perderse el derecho de convivencia a que se refiere el párrafo anterior, así como en los casos de suspensión o pérdida de la patria potestad, conforme a las modalidades que para su ejercicio se establezca en el convenio o resolución judicial.
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-En cualquier momento en que se presentare alienación parental por parte de alguno de los progenitores hacia los hijos, el Juez, de oficio ordenará las medidas terapéuticas necesarias para los menores hijos, con la finalidad de restablecer la sana convivencia con ambos progenitores. Para estos efectos, ambos progenitores tendrán la obligación de colaborar en el cumplimiento de las medidas que sean determinadas, pudiendo el juez hacer uso de las medidas de apremio que establezca la ley adjetiva civil, con la facultad en caso de ser necesario, de decretar la suspensión de la custodia o convivencia previamente establecidas.
+En cualquier momento en que se presentare actos de manipulación que generen rencor, antipatía, desagrado, temor o alineación parental por parte de alguno de los progenitores hacia los hijos o hijas, el Juez, de oficio ordenará las medidas terapéuticas necesarias para los hijos o hijas menores de dieciocho años de edad, con la finalidad de restablecer la sana convivencia con ambos progenitores. Para estos efectos, ambos progenitores tendrán la obligación de colaborar en el cumplimiento de las medidas que sean determinadas, pudiendo el juez hacer uso de las medidas de apremio que establezca la ley adjetiva civil, con la facultad en caso de ser necesario, de decretar la suspensión de la custodia o convivencia previamente establecidas.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 441.
 
-Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de un menor.
+Las obligaciones, facultades y restricciones establecidas para los tutores, se aplicarán al pariente que por cualquier circunstancia tenga la custodia de una niña, niño o adolescente.
 
-Quien conserva la patria potestad tendrá la obligación de contribuir con el pariente que custodia al menor en todos sus deberes, conservando sus derechos de convivencia y vigilancia.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Quien conserva la patria potestad tendrá la obligación de contribuir con el pariente que custodia a la niña, niño o adolescente en todos sus deberes, conservando sus derechos de convivencia y vigilancia.
+
+> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
 La anterior custodia podrá terminar por decisión del pariente que la realiza por quien o quienes ejercen la patria potestad o por resolución judicial.
 
@@ -3343,19 +3557,17 @@ La anterior custodia podrá terminar por decisión del pariente que la realiza p
 
 Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 444.
 
-Mientras estuviere el hijo en la patria potestad, no podrá dejar la casa de los que la ejerzan, sin permiso de ellos o decreto de la autoridad competente.
+Mientras estuviere la hija o hijo en la patria potestad, no podrá dejar la casa de los que la ejerzan, sin permiso de ellos o decreto de la autoridad competente.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 445.
 
-A las personas que tiene al menor bajo su patria potestad o custodia incumbe la obligación de educarlo convenientemente.
-
-Cuando llegue a conocimiento de la autoridad administrativa competente, que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público para que promueva lo que corresponda.
+A las personas que tienen a la niña, niño o adolescente bajo su patria potestad o custodia incumbe la obligación de educarle convenientemente. Cuando llegue a conocimiento de la autoridad administrativa competente, que dichas personas no cumplen con la obligación referida, lo avisarán al Ministerio Público para que promueva lo que corresponda.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
@@ -3381,37 +3593,51 @@ DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO.
 
 Los que ejercen la patria potestad son legítimos representantes de los que están bajo ella y tienen la administración legal de los bienes que les pertenecen conforme a las prescripciones de este Código. Cuando la patria potestad se ejerza a la vez por el padre y por la madre, por el abuelo, y la abuela o por los esposos adoptantes, el administrador de los bienes y representante podrá ser cualquiera de ellos.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 449.
 
-En el caso del artículo anterior, el representante no podrá celebrar ningún arreglo para terminar un juicio en que sea parte el menor, si no es con el consentimiento expreso de su consorte, y con la autorización judicial cuando la ley lo requiera expresamente.
+En el caso del artículo anterior, el representante no podrá celebrar ningún arreglo para terminar un juicio en que sea parte el menor de dieciocho años de edad, si no es con el consentimiento expreso de su consorte, y con la autorización judicial cuando la ley lo requiera expresamente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 450.
 
-Los bienes del hijo, mientras esté en la patria potestad, se dividen en dos clases:
+Los bienes del hijo o hija mientras estén sujetos a patria potestad, se dividen en dos clases:
 
-I.- Bienes que adquiera por su trabajo;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+I.- Bienes que adquiera por su trabajo; y
 
 II.- Bienes que adquiera por cualquiera otro título.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 451.
 
-Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al hijo.
+Los bienes de la primera clase pertenecen en propiedad, administración y usufructo al hijo o hija.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 452.
 
-En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo, la administración y la otra mitad del usufructo corresponde a las personas que ejerzan la patria potestad. Sin embargo, si los hijos adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto.
+En los bienes de la segunda clase, la propiedad y la mitad del usufructo pertenecen al hijo o hija, la administración y la otra mitad del usufructo corresponde a las personas que ejerzan la patria potestad. Sin embargo, si los hijos o hijas adquieren bienes por herencia, legado o donación y el testador o donante ha dispuesto que el usufructo pertenezca al hijo o que se destine a un fin determinado, se estará a lo dispuesto.
 
 ###### Artículo 453.
 
 Los padres pueden renunciar su derecho a la mitad del usufructo, haciendo constar su renuncia por escrito o de cualquier otro modo que no deje lugar a duda.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 454.
 
-La renuncia del usufructo hecha en favor del hijo, se considera como donación.
+La renuncia del usufructo hecha en favor de la hija o hijo, se considera como donación.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 455.
 
-Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda al hijo, pertenecen a éste, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
+Los réditos y rentas que se hayan vencido antes de que los padres, abuelos o adoptantes entren en posesión de los bienes cuya propiedad corresponda a la hija o hijo, y en ningún caso serán frutos de que deba gozar la persona que ejerza la patria potestad.
 
 ###### Artículo 456.
 
@@ -3425,49 +3651,61 @@ III.- Cuando su administración sea notoriamente ruinosa para los hijos.
 
 Si el obligado a dar fianza en los casos de este artículo, no lo hiciere dentro del término de sesenta días desde que sobrevino la causa de otorgarle, quedará separado de la administración de los bienes que pasará al ascendiente, que deba ejercer la patria potestad en su falta, o al tutor que corresponda.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 457.
 
-El hijo que por ley o por la voluntad de quien ejerza la patria potestad, tenga la libre administración de los bienes, necesitará durante su menor edad:
+La hija o el hijo que por ley o por la voluntad de quien ejerza la patria potestad, tenga la libre administración de los bienes, hasta que cumpla dieciocho años de edad:
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
 
 I.- De la autorización judicial para la enajenación, gravamen o hipotecas de bienes raíces; y
 
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
 II.- De un tutor para negocios judiciales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 458.
 
-Los que ejerzan la patria potestad, no pueden enajenar ni gravar de ningún modo los bienes inmuebles ni los muebles preciosos que correspondan al hijo, ni contraer deudas que obliguen a éste sino por causa de absoluta necesidad o de evidente beneficio previa la autorización del juez competente.
+Los que ejerzan la patria potestad, no pueden enajenar ni gravar de ningún modo los bienes inmuebles ni los muebles preciosos que correspondan a la hija o hijo, ni contraer deudas que obliguen a éste sino por causa de absoluta necesidad o de evidente beneficio previa la autorización del juez competente.
 
-Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de los hijos o remisión voluntaria de los derechos de éstos; ni dar fianza en representación de los hijos.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+Tampoco podrán celebrar contratos de arrendamiento por más de cinco años, ni recibir la renta anticipada por más de dos años; vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados, por menor valor del que se cotice en la plaza el día de la venta; hacer donación de los bienes de las hijas o hijos o remisión voluntaria de sus derechos; ni dar fianza en representación de las hijas o hijos.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 459.
 
-Siempre que el juez conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor. Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
+Siempre que la persona juzgadora conceda licencia a los que ejercen la patria potestad, para enajenar un bien inmueble o un mueble precioso perteneciente al menor de dieciocho años edad, tomará las medidas necesarias para hacer que el producto de la venta se dedique al objeto a que se destinó, y para que el resto se invierta en la adquisición de un inmueble o se imponga con segura hipoteca en favor del menor de dieciocho años de edad. Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
 
 ###### Artículo 460.
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-I.- Por la mayor edad de los hijos;
+I.- Por la mayor edad de las hijas o hijos;
 
-II.- Por la pérdida de la patria potestad;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Por la pérdida de la patria potestad; y
 
 III.- Por renuncia.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 461.
 
-Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los hijos.
+Las personas que ejercen la patria potestad tienen obligación de dar cuenta de la administración de los bienes de los hijos o hijas.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 462.
 
-En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de los hijos, serán éstos representados, en juicio y fuera de él, por un tutor nombrado por el juez para cada caso.
+En todos los casos en que las personas que ejercen la patria potestad tienen un interés opuesto al de las hijas o hijos, serán éstos representados, en juicio y fuera de él, por un tutor nombrado por el juez para cada caso.
 
 > <small>(REFORMADO, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -3475,25 +3713,31 @@ En todos los casos en que las personas que ejercen la patria potestad tienen un 
 
 Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del hijo se derrochen o se disminuyan. Estas medidas se tomarán a instancias de las personas interesadas, del menor de edad, cuando hubiere cumplido catorce años, de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes ó el Ministerio Público en todo caso.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 464.
 
-Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que estos lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
+Las personas que ejerzan la patria potestad deben entregar a sus hijos o hijas, luego que estos lleguen a la mayoría de edad, todos los bienes y frutos que les pertenecen.
 
 ### CAPITULO III.
 
 DE LOS MODOS DE ACABARSE Y SUSPENDERSE LA PATRIA POTESTAD.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 23 DE SEPTIEMBRE DE 2024, PÁGINA 24.]</small>
+
+(REPUBLICADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)
+
 ###### Artículo 465.
 
 La patria potestad se acaba:
 
-I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2016)
+I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga; y
 
-III.- Por la mayor edad del hijo.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+II.- Por la mayoría de edad de la hija o hijo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
@@ -3509,49 +3753,49 @@ I.- Cuando el que la ejerza sea condenado expresamente a la pérdida de ese dere
 
 II.- En los casos de divorcio, teniendo en cuenta lo que dispone el Artículo 293 de este Código;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-III.- Por malos tratamientos, abandono sin causa justificada de sus deberes de cuidado, alimentarios y en general aquellos inherentes a la patria potestad, o cuando por comprometer la salud, la seguridad o el desarrollo psicológico, sexual, afectivo, intelectual o físico de los hijos, aun cuando estos hechos no cayeren bajo la sanción de la normatividad penal;
+III.- Por malos tratamientos, abandono sin causa justificada de sus deberes de cuidado, alimentarios y en general aquellos inherentes a la patria potestad, o cuando por comprometer la salud, la seguridad o el desarrollo psicológico, sexual, afectivo, intelectual o físico de las hijas o hijos, aun cuando estos hechos no cayeren bajo la sanción de la normatividad penal;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-IV.- Por la exposición que el que la ejerce hiciere del menor de edad o porque lo deje abandonado por más de treinta días naturales aunque lo haya confiado a una institución pública o privada de asistencia social;
+IV.- Por la exposición que el que la ejerce hiciere de la niña, niño o adolescente o porque lo deje abandonado por más de treinta días naturales aunque lo haya confiado a una institución pública o privada de asistencia social;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2010)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor sobre quien ejerce la patria potestad;
+V.- Cuando el que la ejerza sea condenado por la comisión de un delito doloso en el que la víctima sea el menor de dieciocho años de edad sobre quien ejerce la patria potestad;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-VI.- Cuando el que ejerza incurra en conductas de violencia familiar en donde la victima sea el menor de edad;
+VI.- Cuando el que ejerza incurra en conductas de violencia familiar en donde la víctima sea la niña, niño o adolescente;
 
-> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-VII.- Cuando quien la ejerza abandone al menor de edad por más de sesenta días naturales si lo confió a familiares que tengan relación con el menor de edad hasta el tercer grado;
+VII.- Cuando quien la ejerza abandone a la niña, niño o adolescente por más de sesenta días naturales si lo confió a familiares que tengan relación hasta el tercer grado;
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-VIII.- Cuando quien la ejerza sea condenado por algún delito doloso en el que la víctima sea el menor sobre quien ejerce la patria potestad o se acredite alguna afectación al interés superior del menor;
+VIII.- Cuando quien la ejerza sea condenado por algún delito doloso en el que la víctima sea la niña, niño o adolescente sobre quien ejerce la patria potestad o se acredite alguna afectación al interés superior de la niñez;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-IX.- Cuando quien la ejerza obligue a los menores de edad a realizar la mendicidad, trabajo forzado o cualquier otra forma de explotación;
+IX.- Cuando quien la ejerza obligue a la niña, niño o adolescente a realizar la mendicidad, trabajo forzado o cualquier otra forma de explotación;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-X.- Cuando quien la ejerza permita o tolere que otras personas atenten contra la seguridad e integridad física, emocional o sexual de los menores;
+X.- Cuando quien la ejerza permita o tolere que otras personas atenten contra la seguridad e integridad física, emocional o sexual de la niña, niño o adolescente;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-XI.- Por el incumplimiento reiterado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir la violencia familiar o las que se emitan para regular la custodia, el régimen de convivencias o el cumplimiento de sus obligaciones y éstas hayan afectado a los menores; o
+XI.- Por el incumplimiento reiterado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir la violencia familiar o las que se emitan para regular la custodia, el régimen de convivencias o el cumplimiento de sus obligaciones y éstas hayan afectado a las niñas, niños o adolescentes; o
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 XII.- Cuando se realicen conductas que provoquen alienación parental de acuerdo con el diagnostico psicológico realizado por perito en la materia;
 
-> <small>(ADICIONADO, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-El progenitor que perdió la patria potestad por el abandono de sus deberes alimentarios, la podrá recuperar, siempre y cuando compruebe que ha cumplido con ésta obligación por más de un año, otorgue garantía anual, se le haya realizado un estudio de su situación económica y de su comportamiento actual, así como un diagnóstico psicológico; dichos estudios serán realizados por personal del Sistema para el Desarrollo Integral de la Familia del Estado o por el perito en la materia que el propio juzgador determine.
+El progenitor que perdió la patria potestad por el abandono de sus deberes alimentarios, la podrá recuperar, siempre y cuando compruebe que ha cumplido con ésta obligación por más de un año, otorgue garantía anual, se le haya realizado un estudio de su situación económica y de su comportamiento actual, así como un diagnóstico psicológico; dichos estudios serán realizados por personal del Sistema para el Desarrollo Integral de la Familia del Estado o por el perito en la materia que el propio juzgador determine. Lo anterior será a criterio de la persona juzgadora, quien, en cada caso, resolverá de acuerdo a las circunstancias.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -3573,7 +3817,9 @@ I.- El ascendiente que la ejerza contra el otro que también lo haga;
 
 II.- El ascendiente que no la ejerza contra el o los otros que lo hagan;
 
-III.- Los hermanos y demás parientes colaterales del menor dentro del tercer grado en contra del ascendiente que la ejerza con exclusividad o en contra de aquellos que la ejerzan simultáneamente;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+III.- Los hermanos y demás parientes colaterales de la niña, niño o adolescente dentro del tercer grado en contra del ascendiente que la ejerza con exclusividad o en contra de aquellos que la ejerzan simultáneamente;
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
 
@@ -3603,17 +3849,17 @@ II.- Por ausencia declarada en forma;
 
 III.- Por sentencia condenatoria que imponga como pena esta suspensión;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-IV.- Por disponer de los bienes del menor sin autorización judicial, en los casos en que esta sea requerida por la ley;
+IV.- Por disponer de los bienes de la niña, niño o adolescente sin autorización judicial, en los casos en que esta sea requerida por la ley;
 
 > <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
 
 V.- Por negar o no permitir se lleven a cabo las convivencias decretadas por autoridad competente o fijadas mediante convenio judicial; o
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-VI.- Cuando en una resolución judicial firme, se determine la existencia de alienación parental, respecto al progenitor que la haya generado.
+VI.- Cuando en una resolución judicial firme, se determine la existencia de actos de manipulación que generen rencor, antipatía, desagrado, temor o alineación parental, respecto al progenitor que la haya generado.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -3705,31 +3951,37 @@ No pueden ser nombrados tutores o curadores las personas que integren el Consejo
 
 Cuando fallezca una persona que ejerza la patria potestad sobre un incapaz a quien deba nombrarse tutor, el ejecutor testamentario y en caso de intestado los parientes y personas con quienes haya vivido, están obligadas a dar parte del fallecimiento al Juez de lo Civil y de Hacienda de la Capital, dentro de ocho días, a fin de que se provea a la tutela, bajo la pena de cinco a veinticinco pesos de multa.
 
-Los Oficiales del Registro Civil, las autoridades administrativas y las judiciales, tienen la obligación de dar aviso al Juez de lo Civil y de Hacienda de la Capital de los casos en que sea necesario nombrar tutor y que lleguen a su conocimiento en el ejercicio de sus funciones.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Los oficiales del Registro Civil, las autoridades administrativas y las judiciales, tienen la obligación de dar aviso a la autoridad judicial de Primera instancia, de los casos en que sea necesario nombrar tutora o tutor, y ésta dictará las medidas necesarias para que se cuide provisionalmente de la persona con medida de apoyo y salvaguardia, así como de sus bienes, hasta que se le nombre persona que ejerza la tutela.
 
 ###### Artículo 483.
 
 La tutela es testamentaria, legitima o dativa.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 484.
 
-Ninguna tutela puede conferirse sin que previamente se declare en los términos que disponga el Código de Procedimientos Civiles, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+Ninguna tutela o medida de apoyo y salvaguardia, puede conferirse sin que previamente se declare en los términos que disponga el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 485.
 
 Los tutores y curadores no pueden ser removidos de su cargo sin que previamente hayan sido oídos y vencidos en juicio.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 486.
 
-El menor de edad que tenga discapacidad intelectual, sea sordomudo, ebrio consuetudinario, drogadicto o toxicómano, estará sujeto a la tutela de menores, mientras no llega a la mayor edad.
+La persona menor de dieciocho años de edad que tenga discapacidad intelectual, estará sujeto (sic) a tutela, mientras no llegue a la mayoría de edad.
 
 Si al cumplirse ésta continuare el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual serán oídos el tutor y el curador anteriores.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 487.
 
-Los hijos menores de un incapacitado quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
+Las hijas o hijos menores de dieciocho años de edad, de una persona con discapacidad quedarán bajo la patria potestad del ascendiente que corresponda conforme a la ley, y no habiéndolo, se les proveerá de tutor.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2009)</small>
 
@@ -3755,9 +4007,15 @@ El juez que no cumpla las prescripciones relativas a la tutela, además de las p
 
 DE LA TUTELA TESTAMENTARIA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 492.
 
-El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 437, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
+La o el ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en el artículo 437, tiene derecho, aunque fuere menor de dieciocho años de edad, de nombrar tutor en su testamento a aquellos sobre quienes la ejerza, con inclusión del hijo póstumo.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+A falta de ambos padres o por cualquier otra circunstancia prevista en este ordenamiento, ejercerán la patria potestad sobre los menores de dieciocho años, los ascendientes en segundo grado en el orden que determine el Juez o Jueza de lo Familiar, tomando en cuenta las circunstancias del caso.
 
 ###### Artículo 493.
 
@@ -3773,13 +4031,17 @@ Si los ascendientes excluídos estuvieren incapacitados o ausentes, la tutela ce
 
 El que en su testamento, aunque sea un menor, deje bienes ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 496.
 
-Si fueren varios los menores podrá nombrárseles un tutor común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el artículo 479.
+Si fueren varios los menores de dieciocho años de edad, podrá nombrarse una persona que ejerza la tutela común, o conferirse a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en el Artículo 479.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 497.
 
-El padre que ejerza la tutela de un hijo sujeto a interdicción por incapacidad intelectual, puede nombrarle tutor testamentario si la madre ha fallecido o no puede legalmente ejercer la tutela.
+El padre que ejerza la tutela de una hija o un hijo sujeto a medidas de apoyo y salvaguardias por incapacidad intelectual, puede nombrarle tutor testamentario si la madre ha fallecido o no puede legalmente ejercer la tutela.
 
 La madre, en su caso, podrá hacer el nombramiento de que trata este artículo.
 
@@ -3795,17 +4057,23 @@ Siempre que se nombren varios tutores, desempeñará la tutela el primer nombrad
 
 Lo dispuesto en el artículo anterior no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 501.
 
-Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que el juez, oyendo al tutor y al curador, las estime dañosas a los menores, en cuyo caso podrá dispensarlas o modificarlas.
+Deben observarse todas las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que no sean contrarias a las leyes, a no ser que la persona juzgadora, oyendo al tutor o tutora y al curador o curadora, las estime dañosas a la niña, niño o adolescente, en cuyo caso podrá dispensarlas o modificarlas.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 502.
 
-Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+Si por un nombramiento condicional de persona que ejerza la tutela, o por algún otro motivo, faltare temporalmente la tutora o tutor testamentario, la persona juzgadora proveerá de uno interino al menor de dieciocho años de edad, conforme a las reglas generales sobre nombramiento de tutores.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 503.
 
-El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
+El adoptante que ejerza la patria potestad tiene derecho de nombrar tutora o tutor testamentario a su hija o hijo adoptivo, aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -3863,9 +4131,11 @@ El padre, y por muerte o incapacidad de éste, la madre, son de derecho tutores 
 
 A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella los abuelos paternos y maternos, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 505; de manera sucesiva, pero observándose en su caso, lo que dispone el artículo 506.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 513.
 
-El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
+La persona que ejerza la tutela de la persona incapaz que tenga hijas o hijos menores de dieciocho años de edad, bajo su patria potestad, será también tutor o tutora de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -3877,7 +4147,9 @@ El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será
 
 La Ley coloca a los expósitos y abandonados bajo la tutela de la persona que los haya acogido, quien tendrá las obligaciones, facultades y restricciones previstas para los demás tutores.
 
-Se considera expósito al menor que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor cuyo origen se conoce, se considerará abandonado.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Se considera expósito a la niña, niño o adolescente que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a una niña, niño o adolescente cuyo origen se conoce, se considerará abandonado.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
 
@@ -3885,17 +4157,17 @@ Se considera expósito al menor que es colocado en una situación de desamparo p
 
 Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban expósitos o abandonados, desempeñarán la tutela de éstos con arreglo a las leyes y a lo que prevengan los estatutos de la institución. En este caso no es necesario el discernimiento del cargo.
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 516.
 
-Los responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciban menores que hayan sido objeto de violencia familiar a que se refiere el Artículo 347 Ter de este ordenamiento, tendrá la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
+Las personas responsables de las casas de asistencia, ya sean públicas o privadas, donde se reciba a la niña, niño o adolescente que hayan sido objeto de violencia familiar a que se refiere el Artículo 347 Ter de este ordenamiento, tendrá la custodia de éstos en los términos que prevengan las leyes y los estatutos de la institución. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar.
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 516 Bis.
 
-Cuando la guarda y custodia del menor recaiga en una casa de asistencia pública, será el Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes, tal como lo establece la Ley General de los Derechos de Niñas, Niños y Adolescentes, en su artículo 26 fracción II; quien podrá otorgar como medida de protección una Familia de Acogida.
+Cuando la guarda y custodia del menor de dieciocho años de edad recaiga en una casa de asistencia pública, será el Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes, tal como lo establece la Ley General de los Derechos de Niñas, Niños y Adolescentes, en su artículo 26 fracción II; quien podrá otorgar como medida de protección una Familia de Acogida.
 
 ### CAPITULO VI.
 
@@ -3909,33 +4181,41 @@ I.- Cuando no hay tutor testamentario ni persona a quien conforme a la ley corre
 
 II.- Cuando el tutor testamentario esté impedido temporalmente de ejercer su cargo, y no hay ningún pariente de los designados en el artículo 505.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 518.
 
-El tutor dativo será designado por el menor si ha cumplido dieciséis años. El juez confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el menor, el juez oirá el parecer del Consejo de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+La o el tutor dativo será designado por el adolescente si ha cumplido dieciséis años. La persona juzgadora confirmará la designación si no tiene justa causa para reprobarla. Para reprobar las ulteriores designaciones que haga el adolescente, la persona juzgadora oirá el parecer del Consejo de Tutelas. Si no se aprueba el nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 519.
 
-Si el menor no ha cumplido dieciséis años, el nombramiento de tutor lo hará el juez de entre las personas que figuren en la lista formada cada año por el Consejo de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+Si el niño, niña o adolescente no ha cumplido dieciséis años, el nombramiento de tutor lo hará la persona juzgadora de entre las personas que figuren en la lista formada cada año por el Consejo de Tutelas, oyendo al Ministerio Público, quien debe cuidar de que quede comprobada la honorabilidad de la persona elegida para tutor.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 520.
 
-Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+Si la persona juzgadora no hace oportunamente el nombramiento de tutor o tutora, es responsable de los daños y perjuicios que se sigan al niño, niña o adolescente por esa falta.
 
 ###### Artículo 521.
 
 (DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 522.
 
-A los menores de edad que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo de Tutelas, del Ministerio Público, del mismo menor, y aun de oficio por el juez.
+A la niña, niño o adolescente que no estén sujetos a patria potestad, ni a tutela testamentaria o legítima, aunque no tengan bienes, se les nombrará tutor dativo. La tutela en este caso tendrá por objeto el cuidado de la persona del menor de dieciocho años de edad, a efecto de que reciba la educación que corresponda a su posibilidad económica y a sus aptitudes. El tutor será nombrado a petición del Consejo de Tutelas, del Ministerio Público, del mismo niño, niña o adolescente, y aun de oficio por la persona juzgadora.
 
 ###### Artículo 523.
 
 En el caso del Artículo anterior, tienen obligación de desempeñar la tutela mientras duran los cargos que a continuación se enumeran:
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-I.- El Presidente Municipal, y los demás integrantes del Ayuntamiento del domicilio del menor;
+I.- La persona Titular del H. Ayuntamiento, y los demás integrantes del Ayuntamiento del domicilio de la niña, niño o adolescente;
 
 > <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -3943,7 +4223,9 @@ II.- Los servidores públicos que ejercen la representación jurídica del Ayunt
 
 III.- Las personas que desempeñen la autoridad administrativa en los lugares en donde no hubiere Ayuntamiento;
 
-IV.- Los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive el menor;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- Las y los profesores oficiales de instrucción primaria, secundaria o profesional, del lugar donde vive la niña, niño o adolescente;
 
 V.- Los miembros de las juntas de beneficencia pública o privada que disfruten sueldo del Erario;
 
@@ -3955,15 +4237,17 @@ VI.- Los directores de establecimientos de beneficencia pública; y
 
 VII.- Los servidores públicos adscritos a la Defensoría de Oficio, Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes tanto Estatal como Municipal, Fiscalía General del Estado, Comisión Estatal de los Derechos Humanos, y a las áreas jurídicas del Instituto de Educación del Estado.
 
-> <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-La Comisión Estatal de los Derechos Humanos será el organismo público responsable de promover una cultura de respeto a los Derechos Humanos de los menores sujetos a la tutela.
+La Comisión Estatal de los Derechos Humanos será el organismo público responsable de promover una cultura de respeto a los Derechos Humanos de las niñas, niños o adolescentes, sujetos a la tutela.
 
 Los jueces nombrarán de entre las personas mencionadas las que en cada coso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos de Tutela, conforme a lo dispuesto en el Capítulo XV de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 524.
 
-Si el menor que se encuentre en el caso previsto por el artículo 522, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
+Si la niña, niño o adolescente que se encuentre en el caso previsto por el artículo 522, adquiere bienes, se le nombrará tutora o tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
 
 ### CAPITULO VII.
 
@@ -3973,7 +4257,9 @@ DE LAS PERSONAS INHABILES PARA EL DESEMPEÑO DE LA TUTELA Y DE LAS QUE DEBEN SER
 
 No pueden ser tutores, aunque estén anuentes en recibir el cargo:
 
-I.- Los menores de edad;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+I.- Las niñas, niños o adolescentes;
 
 II.- Los mayores de edad que se encuentren bajo tutela;
 
@@ -4059,7 +4345,9 @@ II.- Los militares en servicio activo;
 
 III.- Los que tengan bajo su patria potestad tres o más descendientes;
 
-IV.- Los que fueren tan pobres, que no puedan atender a la tutela sin menoscabo de su subsistencia;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- Las personas que, por su precaria condición económica, no puedan atender a la tutela sin menoscabo de su subsistencia;
 
 V.- Los que por el mal estado habitual de su salud o por su rudeza e ignorancia, no puedan atender debidamente a la tutela;
 
@@ -4095,9 +4383,15 @@ El tutor testamentario que se excuse de ejercer la tutela, perderá todo derecho
 
 El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tutela, pierde el derecho que tenga para heredar al incapacitado que muera intestado, y es responsable de los daños y perjuicios que por su renuncia hayan sobrevenido al mismo incapacitado. En igual pena incurre la persona a quien corresponda la tutela legítima, si habiendo sido legalmente citada, no se presenta al juez manifestando su parentesco con el incapaz.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 540.
 
-Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
+Muerto el tutor o tutora que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso a la persona juzgadora, quien proveerá inmediatamente al incapacitado del tutor o tutora que corresponda, según la ley.
+
+> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+En caso de incumplimiento de la disposición anterior, serán responsables de los daños y perjuicios causados.
 
 ### CAPITULO IX.
 
@@ -4259,27 +4553,33 @@ Los gastos de alimentación y educación del pupilo deben regularse de manera qu
 
 Cuando el tutor entre en el ejercicio de su cargo, el juez fijará, con audiencia de aquél, la cantidad que haya de invertirse en los alimentos y educación del pupilo, sin perjuicio de alterarla, según el aumento o disminución del patrimonio y otras circunstancias. Por las mismas razones podrá el juez alterar la cantidad que el que nombró tutor hubiere señalado para dicho objeto.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 563.
 
-El tutor destinará al menor a la carrera u oficio que éste elija, según sus circunstancias. Si el tutor infringe esta disposición, puede el menor, por conducto del curador, del Consejo de Tutelas o por sí mismo, ponerlo en conocimiento del juez, para que dicte las medidas convenientes.
+La persona que ejerza la tutela destinará a la niña, niño o adolescente a la carrera u oficio que éste elija, según sus circunstancias. Si la persona que ejerza la tutela infringe esta disposición, puede la persona menor de dieciocho años de edad, por conducto del curador o curadora, del Consejo de Tutelas o por sí mismo, ponerlo en conocimiento de la persona juzgadora para que dicte las medidas convenientes.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 564.
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación del juez, quien decidirá este punto prudentemente y oyendo en todo caso al mismo menor, al curador y al Consejo de Tutelas.
+Si el que tenía la patria potestad sobre la niña, niño o adolescente lo había dedicado a alguna carrera, el tutor no variará ésta, sin la aprobación de la persona juzgadora, quien decidirá este punto prudentemente y oyendo en todo caso (sic) la persona menor de dieciocho años de edad, al curador o curadora y al Consejo de Tutelas.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 565.
 
-Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
+Si las rentas de la niña, niño o adolescente no alcanzan a cubrir los gastos de su alimentación y educación, la persona juzgadora decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de los bienes y, si fuere posible, sujetará a las rentas de éstos, los gastos de alimentación.
 
 ###### Artículo 566.
 
 Si los pupilos fuesen indigentes o careciesen de suficientes medios para los gastos que demanden su alimentación y educación, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar a los incapacitados. Las expensas que esto origine, serán cubiertas por el deudor alimentario. Cuando el mismo tutor sea el obligado a dar alimentos por razón de su parentesco con el pupilo, el curador ejercitará la acción a que este artículo se refiere.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 567.
 
-Si los pupilos en situación de calle no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del juez, quien oirá el parecer del curador y del Consejo de Tutelas, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse Si ni eso fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto el tutor queda eximido de su cargo, pues continuará vigilando al menor a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+La y los pupilos en situación de calle (sic) no tienen personas que estén obligadas a alimentarlos, o si teniéndolas no pudieren hacerlo, la persona que ejerza la tutela, con autorización de la persona juzgadora, quien oirá el parecer del curador o curadora y del Consejo de Tutelas, pondrá al pupilo o pupila en un establecimiento de beneficencia pública o privada en donde pueda educarse Si ni eso fuere posible la persona que ejerza la tutela, procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por esto la persona que ejerce la tutela queda eximido de su cargo, pues continuará vigilando a la niña, niño o adolescente a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
 
 ###### Artículo 568.
 
@@ -4315,11 +4615,11 @@ Hecho el inventario no se admite al tutor rendir prueba contra de él en perjuic
 
 Se exceptúa de lo dispuesto en el párrafo anterior los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 576.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al juez, pidiendo que los bienes omitidos se listen; y el juez, oído el parecer del tutor, determinará en justicia
+Si se hubiere omitido listar algunos bienes en el inventario, la niña, niño o adolescente mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir a la persona juzgadora, pidiendo que los bienes omitidos se listen; y la persona juzgadora, oído el parecer de la persona que ejerce la tutela, determinará en justicia.
 
 ###### Artículo 577.
 
@@ -4329,9 +4629,11 @@ El tutor, dentro del primer mes de ejercer su cargo fijará, con aprobación del
 
 Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 579.
 
-Si el padre o la madre del menor ejercían algún comercio o industria, el juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del juez.
+Si el padre o la madre del menor de dieciocho años de edad ejercían algún comercio o industria, la persona juzgadora, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio de la persona juzgadora.
 
 > <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -4497,9 +4799,11 @@ DE LAS CUENTAS DE LA TUTELA.
 
 El tutor está obligado a rendir al juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se le hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 614.
 
-También tiene obligación de rendir cuenta cuando por causas graves que calificará el juez la exijan el curador, el Consejo de Tutelas, o el mismo menor que haya cumplido dieciséis años de edad y cuando termine la tutela.
+También tiene obligación de rendir cuenta cuando por causas graves que calificará la persona juzgadora, la exijan el curador o curadora, el Consejo de Tutelas, o el mismo adolescente que haya cumplido dieciséis años de edad y cuando termine la tutela.
 
 ###### Artículo 615.
 
@@ -4521,9 +4825,11 @@ Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabi
 
 Las cuentas deben rendirse en el lugar en que se desempeña la tutela.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 620.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ellos no haya resultado utilidad al menor, si esto ha sido sin culpa del primero.
+Deben abonarse al tutor o tutora todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal, y aunque de ellos no haya resultado utilidad a la niña, niño o adolescente, si esto ha sido sin culpa del primero.
 
 ###### Artículo 621.
 
@@ -4625,9 +4931,11 @@ DEL CURADOR.
 
 Todos los individuos sujetos a tutela, ya sea testamentaria, legítima o dativa, además del tutor tendrán un curador, excepto en los casos de tutela a que se refieren los artículos 514 y 522.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 642.
 
-En todo caso en que se nombre al menor un tutor interino, se le nombrará curador con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
+En todo caso en que se nombre a la niña, niño o adolescente la persona que ejerza la tutela de forma interina, se le nombrará curador o curadora con el mismo carácter, si no lo tuviere definitivo, o si teniéndolo se halla impedido.
 
 ###### Artículo 643.
 
@@ -4691,17 +4999,11 @@ En los casos en que conforme a este Código tenga que intervenir el curador, cob
 
 DEL CONSEJO DE TUTELA.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 654.
 
-El Consejo de Tutela es un organismo honorífico, integrado por un Presidente y seis vocales, el Presidente del mismo será el Director General del Sistema de Desarrollo Integral de la Familia del Estado de Aguascalientes, y los restantes seis vocales serán designados por el Ejecutivo.
-
-El Consejo de Tutela sesionará bimestralmente en el espacio que sea destinado por el Ejecutivo para sus sesiones y podrá sesionar válidamente hasta con la mitad de sus integrantes contando el Presidente en todo caso con voto de calidad para en casos de empate.
-
-Los vocales del Consejo de Tutela serán designados cada tres años dentro de los diez primeros días del mes de enero, procurando que los nombramientos recaigan en personas que sean de buenas costumbres y que tengan interés en proteger la infancia y a la familia.
-
-Quienes ya se hayan desempeñado en el Consejo de Tutela como vocales o Presidente, pueden ser confirmados en el cargo para los períodos subsecuentes.
+El Consejo de Tutela es un organismo honorífico, integrado por una persona presidiendo y seis vocales, quien presida, será la persona titular del Sistema de Desarrollo Integral de la Familia del Estado de Aguascalientes, y los restantes seis vocales serán designados por la persona titular del Poder Ejecutivo. El Consejo de Tutela sesionará bimestralmente en el espacio que sea destinado por la persona titular del Poder Ejecutivo para sus sesiones y podrá sesionar válidamente hasta con la mitad de sus integrantes contando la persona que presida en todo caso con voto de calidad para en casos de empate. Los vocales del Consejo de Tutela serán designados cada tres años dentro de los diez primeros días del mes de enero, procurando que los nombramientos recaigan en personas que sean de buenas costumbres y que tengan interés en proteger la infancia y a la familia. Quienes hayan presidido o se hayan desempeñado como vocales en el Consejo de Tutela, pueden ser confirmados en el cargo para los períodos subsecuentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -4721,13 +5023,17 @@ V.- Cuidar con especialidad de que los tutores cumplan la obligación que les im
 
 VI.- Vigilar el registro de tutelas, a fin de que sea llevado en debida forma.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 656.
 
-El Presidente del Consejo de Tutela será el ejecutor de las decisiones de éste y su representante.
+La persona que presida el Consejo de Tutela será el ejecutor de las decisiones de éste y su representante.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 657.
 
-Los integrantes del Consejo de Tutela serán solidariamente responsables de la falta de cumplimiento de sus obligaciones, que se sancionará con multa de diez a trescientos pesos, que impondrá el Gobernador del Estado.
+Los integrantes del Consejo de Tutela serán solidariamente responsables de la falta de cumplimiento de sus obligaciones, que se sancionará con multa tomándose en cuenta como criterio la Unidad de medida y Actualización (UMA) que se encuentre vigente en la fecha en que se cometió, que impondrá la persona titular del Poder Ejecutivo.
 
 ###### Artículo 658.
 
@@ -4753,15 +5059,17 @@ La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada,
 
 La acción para pedir la nulidad, prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 663.
 
-Los menores de edad no pueden alegar la nulidad de que habla el artículo 659, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
+Las personas menores de dieciocho años de edad no pueden alegar la nulidad de que habla el artículo 659, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 664.
 
-Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
+Tampoco pueden alegar las personas menores de dieciocho años de edad, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE FEBRERO DE 2016)</small>
 
@@ -4829,9 +5137,11 @@ Cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien
 
 Al publicarse los edictos remitirá copia a los cónsules mexicanos de aquellos lugares del extranjero en que se puede presumir que se encuentre el ausente o que se tengan noticias de él.
 
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### Artículo 675.
 
-Si el ausente tiene hijos menores, que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la ley, ni tutor testamentario, ni legítimo, el Ministerio Público pedirá que se nombre tutor, en los términos prevenidos en los artículos 518 y 519.
+Si el ausente tiene hijos o hijas menores de dieciocho años de edad, que estén bajo su patria potestad, y no hay ascendiente que deba ejercerla conforme a la ley, ni persona que ejerza la tutela testamentaria, ni legítimo, el Ministerio Público pedirá que se nombre tutor, en los términos prevenidos en los artículos 518 y 519.
 
 ###### Artículo 676.
 
@@ -4843,11 +5153,17 @@ Se nombrará depositario:
 
 I.- Al cónyuge del ausente;
 
-II.- A uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el juez elegirá al más apto;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-III.- Al ascendiente más próximo en grado al ausente;
+II.- A uno de los hijos o hijas mayores de edad que resida en el lugar. Si hubiere varios, el juez elegirá al más apto;
 
-IV.- A falta de los anteriores o cuando sea inconveniente que éstos por su notoria mala conducta o por su ineptitud, sean nombrados depositarios, el juez nombrará al heredero presuntivo y si hubiere varios se observará lo que dispone el artículo 683.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+III.- Al ascendiente más próximo en grado al ausente; y
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+IV.- A falta de los anteriores o cuando sea inconveniente que éstos por su notoria mala conducta o por su ineptitud, sean nombrados depositarios, la persona juzgadora nombrará al heredero presuntivo y si hubiere varios se observará lo que dispone el artículo 683.
 
 ###### Artículo 678.
 
@@ -5215,11 +5531,11 @@ V.- Un vehículo automotriz cuya propiedad esté debidamente acreditada y que en
 
 El patrimonio de la familia puede ser constituido por cualquiera de los miembros de ésta.
 
-> <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### Artículo 748.
 
-La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente, derecho que subsistirá para los hijos y el cónyuge inocente o el que quede con la custodia de aquéllos, cuando se haya disuelto el vinculo matrimonial.
+La constitución del patrimonio de la familia no hace pasar la propiedad de los bienes que a él quedan afectos, del que lo constituye a los miembros de la familia beneficiaria. Estos sólo tienen derecho de disfrutar de esos bienes, según lo dispuesto en el artículo siguiente, derecho que subsistirá para las hijas o hijos y el cónyuge que se quede con la custodia de aquéllos, cuando se haya disuelto el vínculo matrimonial.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 1995)</small>
 
@@ -17794,3 +18110,19 @@ P.O. 1 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NÚMERO 802.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellas disposiciones que deban regirse conforme a lo establecido en el Código Nacional de Procedimientos Civiles y Familiares, iniciarán su vigencia de conformidad con la declaratoria que al efecto emita el H. Congreso del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO
+
+El H. Congreso del Estado de Aguascalientes, deberá reformar la Ley del Notariado para el Estado de Aguascalientes en el momento que entre en vigencia el Código Nacional de Procedimientos Civiles y Familiares.
