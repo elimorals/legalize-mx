@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2024-08-13"
+last_updated: "2024-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE SEPTIEMBRE DE 2024.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1041,9 +1041,17 @@ Prescripción. Por la prescripción se extingue la acción penal y la potestad d
 
 Prescripción de la acción penal. El ejercicio de la acción penal prescribirá en un plazo igual al término medio aritmético de la pena privativa de libertad que establezca la descripción típica que corresponda, pero en ningún caso será menor de tres años, y se contará a partir del momento en que se haya concretizado el resultado de lesión o de puesta en peligro del bien jurídico, si el delito es calificado de instantáneo; del momento en que se realizó el último acto de ejecución o se omitió la acción ordenada, si el delito se califica en grado de tentativa; desde el día en que se realizó la última conducta provocadora del resultado de lesión o de puesta en peligro del bien jurídico, si se trata de un delito continuado; y desde el momento en que deje de tener sus efectos, si se trata de delito permanente.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-El ejercicio de la acción penal será imprescriptible si el hecho encuadra en los tipos penales de pornografía infantil o de incapaces, violación y violación equiparada e incumplimiento de las obligaciones de asistencia familiar.
+En el caso de los Tipos Penales Protectores de la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad, que hubiesen sido cometidos en contra de una persona menor de dieciocho años de edad, el inicio del cómputo de los plazos de la prescripción comenzará a partir del día en que la víctima cumpla la mayoría de edad, con excepción de los delitos previstos en los artículos 114, 115, 116, 117, 118, 119 y 120 de este Código, los cuales serán imprescriptibles.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+En el caso de aquellas personas que no tengan la capacidad de comprender el significado del hecho o de personas que no tienen capacidad para resistirlo, correrá a partir del momento en que exista evidencia de la comisión de esos delitos ante el Ministerio Público.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+El ejercicio de la acción penal también será imprescriptible si el lecho (sic) encuadra en el tipo penal de incumplimiento de las obligaciones de asistencia familiar.
 
 > <small>(REFORMADO, P.O. 11 DE ABRIL DE 2022)</small>
 
@@ -1103,7 +1111,9 @@ Resolución de la extinción. La extinción de la acción penal y de la potestad
 
 Homicidio Doloso. El Homicidio Doloso consiste en privar de la vida a un ser humano por cualquier medio.
 
-Al responsable de Homicidio Doloso se le aplicarán de 8 a 20 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Al responsable de Homicidio Doloso se le aplicarán de 25 a 35 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -1203,39 +1213,51 @@ Las penas de prisión y multa referidas en los dos párrafos anteriores, se dupl
 
 Si el acto de instigación ocurrió en circunstancias relacionadas con motivo del acoso escolar sobre la víctima, la pena de prisión aumentará hasta las dos terceras partes respecto de los mínimos y máximos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 101.
 
-Aborto es la interrupción del embarazo después de la décima segunda semana de gestación. Para los efectos de este Código, el embarazo es la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
+Aborto. El aborto consiste en la interrupción del embarazo con el consentimiento de la mujer embarazada, después de la sexta semana de gestación. Para los efectos de esta (sic) Código, el embarazo es la parte del proceso de la reproducción humana que comienza con la implantación del embrión en el endometrio.
 
-Al responsable de Aborto se le aplicarán de 6 meses a 1 año de prisión y al pago total de la reparación de los daños y perjuicios ocasionados.
+A quien voluntariamente se practique un aborto u otorgue consentimiento para que otro lo realice en su persona, se le aplicarán de 3 a 6 meses de prisión, de 500 a 1000 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Si la mujer o persona gestante, únicamente interviene otorgando el consentimiento para que otro realice el Aborto en su persona, se le aplicarán de 1 a 3 años de prisión y de 40 a 80 días de multa.
+Cuando el aborto lo realice un médico, cirujano o partero, se le aplicará de 6 meses a 1 año de prisión, de 1500 a 2000 días multa y al pago total de la reparación de los daños y perjuicios ocasionados, y en su caso, la inhabilitación para el ejercicio profesional hasta por 1 año.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+En caso de que el responsable de aborto sea persona distinta al personal indicado en el párrafo que antecede, se le aplicarán de 3 a 6 años de prisión y de 2500 a 3000 días multa y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
 ###### ARTÍCULO 102.
 
-Aborto forzado. El aborto forzado consiste en la interrupción del embarazo, en cualquier momento, sin el consentimiento de la mujer embarazada o persona gestante.
-
-Al responsable de Aborto forzado se le aplicarán de 3 a 6 años y de 70 a 120 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si mediare violencia física o moral sobre la mujer embarazada o persona gestante, se impondrán al responsable de 6 a 8 años de prisión y de 80 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Aborto forzado. El aborto forzado consiste en la interrupción del embarazo, en cualquier momento, sin el consentimiento de la mujer embarazada.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
+Al responsable de Aborto forzado se le aplicarán de 3 a 6 años y de 70 a 120 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; si mediare violencia física o moral sobre la mujer embarazada o persona gestante, se impondrán al responsable de 6 a 8 años de prisión y de 80 a 150 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 103.
 
-Se consideran excluyentes de responsabilidad penal en el delito de Aborto:
+Se consideran como excluyentes de responsabilidad penal en el delito de Aborto:
 
-I. Cuando sea resultado de una conducta culposa de la mujer embarazada o persona gestante;
+I. (DEROGADA, P.O. 23 DE SEPTIEMBRE DE 2024)
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2023)</small>
 
 II. Cuando el embarazo haya sido causado por hecho punible tipificado como violación o estupro;
 
-III. Cuando de no practicarse el aborto, la mujer embarazada o persona gestante corra grave peligro de muerte, a juicio del médico que la asista;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-IV. Cuando a juicio de dos médicos especialistas exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia del mismo, siempre que se tenga el consentimiento de la mujer embarazada o persona gestante.
+III. Cuando a juicio de dos médicos especialistas exista razón suficiente para diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia del mismo, siempre que se tenga el consentimiento de la mujer embarazada; o
 
-En los casos de las fracciones III y IV que anteceden, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada o persona gestante pueda tomar la decisión de manera libre, informada y responsable.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Cuando a juicio de dos médicos especialistas exista razón suficiente para determinar que el aborto fue espontáneo o diagnosticar que el producto presenta alteraciones genéticas o congénitas que puedan dar como resultado daños físicos o mentales, al límite que puedan poner en riesgo la sobrevivencia del mismo, siempre que se tenga el consentimiento de la mujer embarazada.
+
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+En los casos de las fracciones III y IV que anteceden, los médicos tendrán la obligación de proporcionar a la mujer embarazada, información objetiva, veraz, suficiente y oportuna sobre los procedimientos, riesgos, consecuencias y efectos; así como de los apoyos y alternativas existentes, para que la mujer embarazada pueda tomar la decisión de manera libre, informada y responsable.
 
 ###### ARTÍCULO 104.
 
@@ -1319,9 +1341,9 @@ IX. Cuando la víctima esté sujeta a patria potestad, tutela, curatela o custod
 
 X. Cuando las lesiones se hayan cometido por mutilación, con sustancias corrosivas o hayan sido en los órganos genitales o glándulas mamarias de la víctima.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-En el caso de homicidio doloso calificado a que se refieren las fracciones I, II, III y VIII se aplicará al responsable de 15 a 40 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las fracciones IV, V, VI, VII y IX se aplicará al responsable de 20 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados.
+En el caso de homicidio doloso calificado a que se refieren las fracciones I, II, III y VIII se aplicará al responsable de 30 a 45 años de prisión, de 150 a 500 días multa y pago total de la reparación de los daños y perjuicios ocasionados. En el caso de las fracciones IV, V, VI, VII y IX se aplicará al responsable de 35 a 50 años de prisión, de 500 a 1000 días de multa y pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
 
@@ -1445,35 +1467,45 @@ Las punibilidades descritas en el párrafo anterior se duplicarán cuando el inc
 
 Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 ###### ARTÍCULO 117.
 
-Pornografía infantil o de incapaces. La Pornografía infantil o de incapaces, consiste en:
+Pornografía de personas menores de dieciocho años de edad, de las que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo. La Pornografía de personas menores de dieciocho años de edad, de las que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo, consiste en:
 
-I. El ofrecimiento que se haga para observar actos de exhibicionismo corporal realizados por una o varias personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo;
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-II. Fotografiar, videograbar, fijar, imprimir o exhibir actos de exhibicionismo corporal o de carácter sexual realizados por una persona menor de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo;
+I. Ofrecer o facilitar la observación de actos de exhibicionismo corporal o de carácter sexual en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo;
 
-III. La comercialización, distribución o difusión, de fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual de personas menores de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo; o
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-IV. El almacenamiento o posesión, con fines de comercialización, de fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual de personas menores de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo.
+II. Fotografiar, videograbar, fijar, imprimir, o exhibir actos de exhibicionismo corporal o de carácter sexual reales o simulados, en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2016)</small>
+III. Comercializar, reproducir, comprar, distribuir, arrendar, transmitir, adquirir o difundir fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo;
 
-V. Extraer o utilizar de forma indebida, imágenes de actos de exhibicionismo corporal o de carácter sexual, contenidos en un aparato para el procesamiento de datos o cualquier dispositivo de almacenamiento de información, en perjuicio de personas menores de 18 años de edad o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+IV. Almacenar o poseer, con fines de comercialización, fotografías o videograbaciones que muestren actos de exhibicionismo corporal o de carácter sexual en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo; o
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+V. Extraer o utilizar de forma indebida, imágenes de actos de exhibicionismo corporal o de carácter sexual, contenidos en un aparato para el procesamiento de datos o cualquier dispositivo de almacenamiento de información, en los que participen una o varias personas menores de dieciocho años de edad o una o varias personas que no tengan capacidad para comprender el significado del hecho o capacidad para resistirlo.
 
 Para los efectos de este Artículo, por exhibicionismo corporal se entenderá, mostrar la vagina, pene, senos, glúteos o ano.
 
-> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-Al responsable de Pornografía infantil y de incapaces se le aplicarán de 7 a 14 años de prisión y de 300 a 700 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; cuando la víctima sea menor de quince años de edad o persona que no tenga capacidad para comprender el significado del hecho o resistirlo, se le aplicarán de 8 a 15 años de prisión, de 350 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de pornografía de personas menores de dieciocho años de edad, de las que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo, se le aplicarán de 7 a 14 años de prisión y de 300 a 700 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados; cuando la víctima sea menor de 15 años de edad o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo, se le aplicarán de 8 a 15 años de prisión, de 350 a 750 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
 Si el inculpado es ascendiente, padrastro, o madrastra de la víctima, o habita el mismo domicilio de la víctima, las penas referidas en el párrafo anterior se incrementarán, aplicándose de 14 a 28 años de prisión, de 600 a 1400 días multa, el pago total de la reparación de los daños y perjuicios ocasionados y privación de los derechos de familia que el inculpado tenga en relación con la víctima.
 
-Si el inculpado labora en organizaciones dedicadas al cuidado o atención de menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, también se le aplicará como pena la privación del cargo, empleo o comisión que ahí desempeñe.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Si el inculpado labora en organizaciones dedicadas al cuidado o atención de personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo, también se le aplicará como pena, la privación del cargo, empleo o comisión que ahí desempeñe.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JUNIO DE 2023)</small>
 
@@ -2271,7 +2303,9 @@ XII. Imponer cualquier método anticonceptivo, realice esterilización o cualqui
 
 XIII. Practicar un procedimiento médico quirúrgico de especialidad sin contar con los requisitos establecidos en la Ley General de Salud.
 
-Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 50 a 200 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y de 6 meses a 3 años de inhabilitación para ejercer su profesión.
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Al responsable de la comisión de la presente figura típica se le aplicarán de 1 a 3 años de prisión, de 50 a 200 días multa, al pago total de la reparación de los daños y perjuicios ocasionados y de 6 meses a 3 años de inhabilitación para ejercer su profesión; tratándose de los supuestos descritos por las fracciones VIII a la XIII, la pena de prisión incrementará hasta dos terceras partes en sus mínimos y máximos, imponiéndose una multa de 100 a 300 días, el pago total de la reparación de los daños y perjuicios ocasionados y de 1 a 5 años de inhabilitación para ejercer su profesión.
 
 ###### ARTÍCULO 158.
 
@@ -2295,7 +2329,9 @@ IV. Proporcionen sin causa justificada un lugar inapropiado a la mujer embarazad
 
 Así mismo, se considerará como Responsabilidad Médica Asistencial, el surtir una receta los encargados, empleados o dependientes de una farmacia, sustituyendo la medicina específicamente señalada por otra que cause daño a la salud del paciente, o sea evidentemente inapropiada al padecimiento para el que se prescribió.
 
-Al responsable de la comisión de la presente figura típica se le aplicarán de 6 meses a 2 años de prisión, de 20 a 50 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión de 3 meses a 1 año
+> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Al responsable de la comisión de la presente figura típica se le aplicarán de 6 meses a 2 años de prisión, de 20 a 50 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión de 3 meses a 1 año; tratándose de los supuestos descritos por las fracciones III y IV, la pena de prisión incrementará hasta dos terceras partes en sus mínimos y máximos, imponiéndose una multa de 100 a 200 días, el pago total de la reparación de los daños y perjuicios ocasionados y de 1 a 3 años de inhabilitación para ejercer su profesión.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MAYO DE 2023)</small>
 
@@ -2935,6 +2971,12 @@ La pena de prisión y días de multa se aumentará hasta en una mitad en sus mí
 
 ARTÍCULO 181 B.- Violación a la intimidad personal. La violación a la intimidad personal consiste en divulgar, compartir, distribuir, comercializar, publicar o amenazar con publicar información personal, privada o confidencial de una persona, o bien una o más imágenes, audios o videos referentes al pene, senos, glúteos o la vagina, o bien actos sexuales o eróticos de cualquier persona, ya sea impreso, grabado o digital, sin autorización de quien sufre la afectación.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
+También se equipara a violación a la intimidad personal, la conducta del sujeto activo que elabore, manipule o gestione por medio de tecnologías digitales, imágenes, audios, textos, grabaciones de voz o contenidos audiovisuales, con la finalidad de generar elementos de naturaleza erótica o sexual, utilizando las partes del cuerpo a que se refiere el párrafo anterior, que correspondan total o parcialmente a la víctima, y las revele, publique, comparta, difunda, exhiba o comercialice por cualquier medio tecnológico o tradicional, sin consentimiento de la víctima.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+
 Al responsable de violar la intimidad personal se le aplicarán de 1 a 4 años de prisión, y de 300 a 600 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
 
 ### CAPÍTULO XIII. Tipos Penales Protectores de la Seguridad y Normal Funcionamiento de las Vías de Comunicación y de los Medios de Transporte
@@ -3291,9 +3333,9 @@ Al responsable de Aborto Culposo se le aplicarán de 6 meses a 2 años de prisi�
 
 Si el Aborto Culposo se comete por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de substancias tóxicas que produzcan en el autor efectos similares, se aplicarán al responsable de 3 a 12 años de prisión, de 40 a 150 días multa, al pago total de la reparación de los daños y perjuicios ocasionados, así como inhabilitación para obtener licencia para conducir de 2 a 5 años, o en su caso, suspensión de la licencia para conducir de 2 a 5 años.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2023)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 23 DE SEPTIEMBRE DE 2024)</small>
 
-La punibilidad prevista en el presente Artículo no se aplicará si el aborto se causa por conducta culposa de la mujer embarazada o persona gestante.
+La punibilidad prevista en el presente artículo no se aplicará si el aborto se causa por conducta culposa de la mujer embarazada.
 
 ###### ARTÍCULO 197.
 
@@ -4308,3 +4350,69 @@ P.O. 13 DE AGOSTO DE 2024.
 ###### ARTÍCULO SEGUNDO.
 
 Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 786.·SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto del tipo penal que se reforma, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9o del Código Penal para el Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 787.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se forman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 788.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 792.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto del tipo penal que se reforma, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del Artículo 9o del Código Penal para el Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 800.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos judiciales que se estén llevando a cabo respecto de los tipos penales que se reforman, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible, en los términos del artículo 9° del Código Penal para el Estado de Aguascalientes.
+
+P.O. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 804.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+Artículo Único.- El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
