@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-110063"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-10-05"
-last_updated: "2022-08-26"
+last_updated: "2024-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110063&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-09-25"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REGULA EL PLAN DE PENSIONES COMPLEMENTARIAS DE MAGISTRADOS DE CIRCUITO Y JUECES DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE SEPTIEMBRE DE 2024.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 5 de octubre de 2015.
 
@@ -73,9 +73,25 @@ V. Jubilación: Retiro del servicio activo otorgado a los servidores públicos d
 
 a) Jubilación forzosa: se presenta cuando el magistrado de Circuito o juez de Distrito cumple la edad límite de 75 años y necesariamente debe retirarse de su cargo; y
 
-b) Jubilación anticipada: es la posibilidad que tienen los magistrados de Circuito o jueces de Distrito para solicitar su retiro voluntario cuando hayan cumplido 65 años de edad y, por lo menos, 25 años de servicio.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE SEPTIEMBRE DE 2024)</small>
 
-Se considera que para efectos del cálculo de la antigüedad de los magistrados de Circuito y jueces de Distrito, se debe atender a lo dispuesto en el artículo 94 de la Constitución Política de los Estados Unidos Mexicanos que dispone que el ejercicio del Poder Judicial de la Federación se deposita en una Suprema Corte de Justicia, en un Tribunal Electoral, en Tribunales Colegiados y Unitarios de Circuito y Juzgados de Distrito;
+b) Jubilación anticipada: es la posibilidad que tienen los magistrados de Circuito o jueces de Distrito, que no cumplan la edad prevista en la fracción anterior, de solicitar su retiro voluntario cuando cuenten con alguna de las siguientes pensiones otorgadas en términos de la Ley del ISSSTE:
+
+- Por jubilación, en términos del artículo décimo transitorio, fracción II, inciso a), de la referida Ley;
+
+- Por edad y tiempo de servicios, conforme al artículo décimo transitorio, fracción II, inciso b), de la Ley;
+
+- Por cesantía en edad avanzada, con base en el artículo décimo transitorio, fracción II, inciso c); o en términos de los artículos 84 a 87 de Ley del ISSSTE, respectivamente;
+
+- Por seguro de retiro, antes de cumplir las edades y tiempos de cotización, conforme al artículo 80 de la citada Ley; o
+
+- Por vejez, de acuerdo con los artículos 88 a 91 de dicha legislación.
+
+Lo anterior, siempre que cuenten con al menos veinticinco años de servicios en el Poder Judicial de la Federación y hayan sido ratificados.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE SEPTIEMBRE DE 2024)</small>
+
+Para calcular la antigüedad o años de servicio efectivos de las y los magistrados de Circuito y jueces de Distrito en el Poder Judicial de la Federación, se computará el tiempo por el que hayan recibido nombramientos en cualquiera de las categorías o puestos, ya sean jurisdiccionales o administrativos, dentro de los órganos que integran el Poder Judicial de la Federación, es decir, la Suprema Corte de Justicia de la Nación, el Consejo de la Judicatura Federal, el Tribunal Electoral, así como cualquier órgano jurisdiccional del Poder Judicial de la Federación.
 
 VI. Ley del ISSSTE: Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
@@ -181,7 +197,13 @@ El pago de las pensiones complementarias, tomando en consideración que su natur
 
 I. Para tener derecho al total de la pensión complementaria por jubilación forzosa, los magistrados de Circuito y jueces de Distrito deberán haber cumplido 75 años de edad; y
 
-II. Para tener derecho a solicitar la pensión complementaria por jubilación anticipada, los magistrados de Circuito y jueces de Distrito deberán haber cumplido, cuando menos, 65 años de edad y 25 años de servicio en el Poder Judicial de la Federación; en cuyo caso, la pensión complementaria sufrirá un descuento proporcional por cada año que falte para que se cumplan los 75 años de edad, en los términos de la fracción II del artículo 13 de este Acuerdo.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE SEPTIEMBRE DE 2024)</small>
+
+II. Para tener derecho a solicitar la pensión complementaria por jubilación anticipada, los magistrados de Circuito y jueces de Distrito deberán contar con alguna de las pensiones otorgadas en términos de la Ley del ISSSTE.
+
+Para el supuesto de seguro de retiro, deberán cubrirse las respectivas primas del Seguro de Sobrevivencia para sus Familiares Derechohabientes. Además, deberán presentar ante la Dirección General de Servicios al Personal, el Documento de Oferta de Pensión por Retiro expedido por el ISSSTE, y en su oportunidad, la Resolución de Pensión a que se refiere el artículo 45 de la referida Ley.
+
+En todos los casos, la pensión complementaria sufrirá un descuento proporcional por cada año que falte para que se cumplan los 75 años de edad, en los términos de la fracción II del artículo 13 de este Acuerdo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
 
@@ -213,11 +235,255 @@ Los montos de las pensiones complementarias a que se refiere este Acuerdo se suj
 
 I. La pensión complementaria por jubilación forzosa deberá ser tal que, sumada a la pensión del ISSSTE, dé por resultado una cantidad equivalente al 80% del ingreso mensual bruto que corresponda al último cargo desempeñado por el trabajador en el Poder Judicial de la Federación y por el que disfrute de la pensión del ISSSTE. En ningún caso, el monto de la pensión total por jubilación podrá exceder de tal porcentaje, ni la pensión complementaria podrá ser menor al 25% del salario bruto que perciban magistrados de Circuito o jueces de Distrito en activo; y
 
-II. La pensión complementaria por jubilación anticipada se determina mediante una proporción ascendente que de manera equitativa considera los años de servicio y la edad en una línea oblicua.
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE SEPTIEMBRE DE 2024)</small>
 
-Así, la pensión total por jubilación anticipada, deberá ser tal que, integrada por la que otorgue el ISSSTE y la asignada como pensión complementaria, dé por resultado el porcentaje que se establece a continuación sin que éste en ningún caso llegue a exceder los porcentajes a que se refiere la fracción anterior:
+II. La pensión complementaria por jubilación anticipada se determina mediante una proporción ascendente que de manera equitativa considera los años de servicio y la edad.
 
-a) A los 65 años de edad y:
+Para las y los titulares pensionados por el seguro de retiro conforme al artículo 80 de la Ley del ISSSTE, el porcentaje de la pensión complementaria se determina conforme a la edad y tiempo de servicios, en términos de la tabla a la que se refiere esta fracción, siempre que tengan un mínimo de 25 años de servicio, que hayan cubierto las respectivas primas del Seguro de Sobrevivencia para sus Familiares Derechohabientes y que se encuentren ratificados en su encargo.
+
+La pensión total por jubilación anticipada deberá ser tal que, integrada por la que otorgue el ISSSTE y la asignada como pensión complementaria, dé por resultado el porcentaje que se establece a continuación, sin que éste en ningún caso llegue a exceder el 80% a que se refiere la fracción anterior:
+
+a) A los 55 años de edad o menos y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable; y
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable.
+
+b) A los 56 años de edad:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable; y
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable.
+
+c) A los 57 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable; y
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable.
+
+d) A los 58 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable; y
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable.
+
+e) A los 59 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable.
+
+f) A los 60 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable; y
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable.
+
+g) A los 61 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable.
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable.
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable.
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable.
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable.
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable.
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable.
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable.
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable.
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable.
+
+h) A los 62 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable.
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable.
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable.
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable.
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable.
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable.
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable.
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable.
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable.
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable.
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable.
+
+i) A los 63 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable.
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable.
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable.
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable.
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable.
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable.
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable.
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable.
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable.
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable.
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable
+
+j) A los 64 años de edad y:
+
+1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable.
+
+2. 26 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable.
+
+3. 27 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable.
+
+4. 28 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable.
+
+5. 29 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable.
+
+6. 30 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable.
+
+7. 31 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable.
+
+8. 32 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable.
+
+9. 33 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable.
+
+10. 34 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable.
+
+11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable
+
+k) A los 65 años de edad y:
 
 1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 45% del sueldo pensionable;
 
@@ -241,7 +507,7 @@ a) A los 65 años de edad y:
 
 11. 35 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
 
-b) A los 66 años de edad y:
+l) A los 66 años de edad y:
 
 1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 47.5% del sueldo pensionable;
 
@@ -263,7 +529,7 @@ b) A los 66 años de edad y:
 
 10. 34 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
 
-c) A los 67 años de edad y:
+m) A los 67 años de edad y:
 
 1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 50% del sueldo pensionable;
 
@@ -283,7 +549,7 @@ c) A los 67 años de edad y:
 
 9. 33 años de servicios efectivos en el Poder Judicial o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
 
-d) A los 68 años de edad y:
+n) A los 68 años de edad y:
 
 1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 52.5% del sueldo pensionable;
 
@@ -301,7 +567,7 @@ d) A los 68 años de edad y:
 
 8. 32 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
 
-e) A los 69 años de edad y:
+ñ) A los 69 años de edad y:
 
 1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 55% del sueldo pensionable;
 
@@ -317,7 +583,7 @@ e) A los 69 años de edad y:
 
 7. 31 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
 
-f) A los 70 años de edad y:
+o) A los 70 años de edad y:
 
 1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 57.5% del sueldo pensionable;
 
@@ -331,7 +597,7 @@ f) A los 70 años de edad y:
 
 6. 30 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
 
-g) A los 71 años de edad y:
+p) A los 71 años de edad y:
 
 1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 69% del sueldo pensionable;
 
@@ -343,7 +609,7 @@ g) A los 71 años de edad y:
 
 5. 29 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
 
-h) A los 72 años de edad y:
+q) A los 72 años de edad y:
 
 1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 73% del sueldo pensionable;
 
@@ -353,7 +619,7 @@ h) A los 72 años de edad y:
 
 4. 28 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
 
-i) A los 73 años de edad y:
+r) A los 73 años de edad y:
 
 1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 76% del sueldo pensionable;
 
@@ -361,15 +627,15 @@ i) A los 73 años de edad y:
 
 3. 27 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable;
 
-j) A los 74 años de edad y:
+s) A los 74 años de edad y:
 
 1. 25 años de servicios efectivos en el Poder Judicial de la Federación, la pensión ascenderá a la cantidad equivalente al 78% del sueldo pensionable; y
 
 2. 26 años de servicios efectivos en el Poder Judicial de la Federación o más, la pensión ascenderá a la cantidad equivalente al 80% del sueldo pensionable.
 
-La información anterior se representa gráficamente en la siguiente tabla:
+La información anterior se representa gráficamente en la siguiente tabla:”
 
-> <small>N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL D.O.F. DE 5 DE OCTUBRE DE 2015, PÁGINA 62.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL D.O.F. DE 23 DE SEPTIEMBRE DE 2024, PÁGINA 106.]</small>
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES, RELATIVO A LA BASE DE CÁLCULO DE LAS PENSIONES COMPLEMENTARIAS, D.O.F. 12 DE AGOSTO DE 2016)</small>
 
@@ -722,3 +988,13 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y, para su mayor difusión, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
 
 TERCERO. Las solicitudes de pensión complementaria presentadas por beneficiarios de Magistradas o Magistrados de Circuito y Juezas o Jueces de Distrito que hayan fallecido en el ejercicio de su encargo, que se encuentren en trámite antes de la entrada en vigor del presente Acuerdo, deberán concluirse conforme a lo aquí previsto.
+
+D.O.F. 23 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA DIVERSAS DISPOSICIONES RELACIONADAS CON EL PLAN DE PENSIONES COMPLEMENTARIAS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación. Publíquese este Acuerdo en el Diario Oficial de la Federación.
+
+SEGUNDO. Para su mayor difusión, publíquese en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes y en el Sistema Integral de Gestión de Expedientes, así como en el portal del Consejo de la Judicatura Federal en Intranet e Internet.
+
+TERCERO. Los asuntos que a la entrada en vigor del presente Acuerdo estén en trámite, deberán concluirse con las disposiciones con las que fueron iniciados.
